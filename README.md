@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marques Brownlee plans to shut down his wallpaper app Panels on December 31; Appfigures: it had 900K downloads and $95K in user spending since its 2024 launch &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251201/p30#a251201p30)
- - [The Beats Powerbeats Pro 2 are $50 off, but only until the end Cyber Monday](https://www.theverge.com/gadgets/835276/beats-powerbeats-pro-2-cyber-monday-deal-sale-2025)
- - [We&#39;re Covering Cyber Monday Live—Because Today Is A Very Fine Day To Shop the Internet](https://www.wired.com/live/cyber-monday-live-25/)
- - [My favorite TVs, streaming devices, and soundbars are still up to 50% off for Cyber Monday](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)
- - [The Apple Watch Series 11 is $70 off, beating its Black Friday price](https://www.theverge.com/gadgets/835083/cyber-monday-apple-watch-series-11-deal-sale-2025)<!-- TECH:END -->
+ - [The Trump administration agrees to inject up to $150M in xLight, which develops lasers for EUV machines and has Pat Gelsinger on its board, for an equity stake &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251201/p33#a251201p33)
+ - [Govee’s latest RGB-equipped speaker is 25 percent off for Cyber Monday](https://www.theverge.com/gadgets/835187/govee-table-lamp-2-pro-x-jbl-speaker-cyber-monday-deal-sale-2025)
+ - [Samsung says the Galaxy Z TriFold will go on sale in South Korea on December 12 for ~$2,440, in China this year, and in the US as early as Q1 2026 &lpar;Heekyong Yang/Reuters&rpar;](http://www.techmeme.com/251201/p32#a251201p32)
+ - [22 Best Cyber Monday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/cyber-monday-best-buy-deals/)
+ - [Samsung unveils the Galaxy Z TriFold, with a 6.5-inch outer screen, a 10-inch 120Hz inner screen, three rear cameras, and a 3.9mm profile at its thinnest point &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251201/p31#a251201p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

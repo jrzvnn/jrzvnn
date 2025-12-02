@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
- - 😝 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
- - 💣 [When you are an English teacher](http://9gag.com/gag/awy937R)
- - 😝 [The book is even partly taxpayer-funded. It&#39;s becoming kind of ridiculous at this point.](http://9gag.com/gag/aBybV6z)
- - 👉 [A Picture i took on the way to my workplace.](http://9gag.com/gag/awy91Ay)<!-- MEMES:END -->
+ - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 💣 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
+ - 😝 [Bamboozle me twice](http://9gag.com/gag/an702xL)
+ - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
 
 ---
 

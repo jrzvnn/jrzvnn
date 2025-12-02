@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ricursive, founded by ex-Google researchers to automate advanced chip design, raised $35M led by Sequoia at a $750M valuation and plans a product launch in 2026 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p41#a251202p41)
+ - [App Tracking Transparency under the gun by German antitrust investigators](https://appleinsider.com/articles/25/12/02/app-tracking-transparency-under-the-gun-by-german-antitrust-investigators?utm_source=rss)
  - [Amazon launches AWS AI Factories to deploy AWS infrastructure, including AWS Trainium chips and Nvidia GPUs, in customers&#39; data centers &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/251202/p40#a251202p40)
  - [A profile of Dario Amodei and Anthropic, which is on track to hit a nearly $10B annualized run rate by the end of 2025, more than 10x what it generated in 2024 &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251202/p39#a251202p39)
- - [Apple Music Replay 2025 is back with new listening stats](https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats-launch)
- - [&#39;I&#39;m Not Remarkable&#39; shows Apple&#39;s accessibility features helping students conquer college](https://appleinsider.com/articles/25/12/02/im-not-remarkable-shows-apples-accessibility-features-helping-students-conquer-college?utm_source=rss)
- - [An interview with AWS CEO Matt Garman on his AI vision, how he plans to extend Amazon&#39;s cloud market lead, adding AI to AWS services, AI efficiencies, and more &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251202/p38#a251202p38)<!-- TECH:END -->
+ - [Apple Music Replay 2025 is back with new listening stats](https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

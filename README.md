@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Verge-approved gifts are still available for up to 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/833050/cyber-monday-2025-gift-ideas-deal-sale)
  - [Here are 50+ Cyber Monday deals you can still get for $100 or less](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025)
  - [We found 45 of the best last-minute Cyber Monday deals under $30](https://www.theverge.com/gadgets/835702/cyber-monday-best-cheap-tech-deals-under-30-2025)
  - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [AWS and Google Cloud announce a jointly built multicloud networking solution and a new open interoperability spec; AWS plans a rollout with Azure later in 2026 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/251201/p34#a251201p34)
- - [Hoto’s slick, rechargeable tools are still over 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/835606/cyber-monday-hoto-electric-screwdriver-drill-tool-deals-sale-2025)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

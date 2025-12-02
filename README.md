@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: after EA&#39;s buyout, Saudi Arabia&#39;s PIF would own 93.4% of EA, implying it needs to put up ~$29B, while Silver Lake and Affinity would own 5.5% and 1.1% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251202/p45#a251202p45)
- - [Cyber Monday Apple deals have been extended, grab prices from $10.99](https://appleinsider.com/articles/25/12/02/cyber-monday-apple-deals-have-been-extended-grab-prices-from-1099?utm_source=rss)
- - [Israeli startup Zafran, an AI-native threat exposure management service, raised a $60M Series C led by Menlo Ventures, bringing its total funding to $130M &lpar;Globes&rpar;](http://www.techmeme.com/251202/p44#a251202p44)
- - [Premier League Soccer: Stream Fulham vs. Manchester City Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-fulham-vs-manchester-city-live-from-anywhere/#ftag=CAD590a51e)
- - [US and Israeli cloud data management startup Eon raised $300M led by Gil at a $4B valuation, up from $1.4B in November 2024, taking its total funding to $500M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251202/p43#a251202p43)<!-- TECH:END -->
+ - [These terrific Cyber Monday deals are still available for $100 or less](https://www.theverge.com/gadgets/836602/cyber-monday-best-cheap-tech-deals-under-100-still-available-2025)
+ - [Apptopia: ChatGPT referrals to retailer mobile apps increased 28% YoY during the Black Friday weekend in 2025; Amazon&#39;s share of ChatGPT referrals grew to 54% &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251202/p47#a251202p47)
+ - [Watch out for fake Amazon Prime Video billing emails hitting inboxes right now](https://appleinsider.com/articles/25/12/02/watch-out-for-fake-amazon-prime-video-billing-emails-hitting-inboxes-right-now?utm_source=rss)
+ - [Ireland investigates TikTok and LinkedIn over concerns that their illegal content reporting tools are hard to access and don&#39;t allow anonymous CSAM reporting &lpar;Padraic Halpin/Reuters&rpar;](http://www.techmeme.com/251202/p46#a251202p46)
+ - [Filings: after EA&#39;s buyout, Saudi Arabia&#39;s PIF would own 93.4% of EA, implying it needs to put up ~$29B, while Silver Lake and Affinity would own 5.5% and 1.1% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251202/p45#a251202p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

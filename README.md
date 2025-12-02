@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 😝 [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 💣 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
  - 😝 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)
- - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
+ - 😝 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
+ - 💣 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 😝 [IMMIGRANTS lose their citizenships in Nordic countries, if you sympathize with the country you claim to have escaped from :&rpar;](http://9gag.com/gag/aRB8MyM)
+ - 👉 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)<!-- MEMES:END -->
 
 ---
 

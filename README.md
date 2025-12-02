@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 💣 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)
- - 😝 [No need subtitle](http://9gag.com/gag/ajP3L9g)
+ - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
+ - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - 💣 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 😝 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
  - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
 
 ---

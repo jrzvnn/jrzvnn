@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
- - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 💣 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - 😝 [He is likely to be deported](http://9gag.com/gag/avyBWdM)
+ - 💣 [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
+ - 😝 [World first lighter](http://9gag.com/gag/aQzDvVz)
  - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
 
 ---

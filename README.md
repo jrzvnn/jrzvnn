@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
- - 😝 [A Picture i took on the way to my workplace.](http://9gag.com/gag/awy91Ay)
- - 💣 [Internet Immediately Finds Gun a Dumb TikToker Threw Off Bridge - apologies for posting shitter but i thought you&#39;d appreciate the story](http://9gag.com/gag/aAyLKgZ)
- - 😝 [When you are an English teacher](http://9gag.com/gag/awy937R)
- - 👉 [For some reason, those feelings always happen when this happens.](http://9gag.com/gag/aKGX9A3)<!-- MEMES:END -->
+ - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 💣 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
+ - 😝 [IMMIGRANTS lose their citizenships in Nordic countries, if you sympathize with the country you claim to have escaped from :&rpar;](http://9gag.com/gag/aRB8MyM)
+ - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
 
 ---
 

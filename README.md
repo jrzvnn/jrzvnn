@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
+ - 😝 [Seatle police says they arrest a criminal 3 times and warned judge of his violence, yet the judge still repeatedly released him until he caused a shooting](http://9gag.com/gag/aBybLQ1)
  - 😝 [Meta](http://9gag.com/gag/aBybLnz)
  - 💣 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
  - 😝 [Forget Elf on a shelf. It&#39;s stripper on a whipper](http://9gag.com/gag/ajP3O1G)

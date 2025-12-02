@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Cursor CEO Michael Truell, a 25-year-old who started building the AI coding tool in 2023, as some question Cursor&#39;s reliance on third-party models &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p11#a251202p11)
+ - [DOGE Isn’t Dead. Here’s What Its Operatives Are Doing Now](https://www.wired.com/story/what-is-doge-doing-now/)
+ - [Polymarket&#39;s Ukraine war betting, based on ISW&#39;s map, generated $1M+ in volume for &quot;Will Russia capture Myrnohrad?&quot;; an &quot;unauthorized&quot; map edit resolved the bet &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/251202/p10#a251202p10)
  - [Americans express fear and negativity toward AI, often relying on bad arguments like water usage, a stark contrast with Asia and Europe&#39;s relative positivity &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/251202/p9#a251202p9)
- - [UK pension funds are cutting exposure to US equities over worries about growing concentration in a few tech stocks and a potential bubble in the AI sector &lpar;Financial Times&rpar;](http://www.techmeme.com/251202/p8#a251202p8)
- - [An interview with IBM CEO Arvind Krishna on why there&#39;s no AI bubble, his view that Watson&#39;s healthcare push was &quot;inappropriate&quot;, IBM&#39;s quantum bet, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251202/p7#a251202p7)
- - [CANI files a CA ballot measure to let an oversight board review and undo science and tech nonprofit conversions since January 2024, indirectly targeting OpenAI &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p6#a251202p6)
- - [Sources: Apple doesn&#39;t plan to comply with India&#39;s mandate to preload a state-owned cyber safety app on iPhones and will raise its concerns with New Delhi &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p5#a251202p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 2, #435](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-2-435/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

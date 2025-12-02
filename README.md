@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Just Eat founder Jitse Groen plans to step down as CEO effective January 1, replaced by Prosus Europe head Roberto Gandolfo; Groen founded Takeaway.com in 2000 &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251202/p13#a251202p13)
+ - [Microsoft&amp;#8217;s latest Windows 11 update improves and breaks dark mode](https://www.theverge.com/news/836199/microsoft-windows-11-file-explorer-white-screen-flash-bug)
+ - [Melinda French Gates on Secrets: ‘Live a Truthful Life, Then You Don’t Have Any’](https://www.wired.com/story/the-big-interview-podcast-melinda-french-gates/)
  - [Study: using the SCONE-bench benchmark of 405 smart contracts, Claude Opus 4.5, Sonnet 4.5, and GPT-5 found and developed exploits collectively worth $4.6M &lpar;Anthropic&rpar;](http://www.techmeme.com/251202/p12#a251202p12)
- - [Your iPhone Already Has iPhone Fold Software, but Apple Won’t Let You Use It](https://www.wired.com/story/your-iphone-already-has-iphone-fold-software-but-apple-wont-let-you-use-it/)
- - [A profile of Cursor CEO Michael Truell, a 25-year-old who started building the AI coding tool in 2023, as some question Cursor&#39;s reliance on third-party models &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p11#a251202p11)
- - [DOGE Isn’t Dead. Here’s What Its Operatives Are Doing Now](https://www.wired.com/story/what-is-doge-doing-now/)
- - [Polymarket&#39;s Ukraine war betting, based on ISW&#39;s map, generated $1M+ in volume for &quot;Will Russia capture Myrnohrad?&quot;; an &quot;unauthorized&quot; map edit resolved the bet &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/251202/p10#a251202p10)<!-- TECH:END -->
+ - [Your iPhone Already Has iPhone Fold Software, but Apple Won’t Let You Use It](https://www.wired.com/story/your-iphone-already-has-iphone-fold-software-but-apple-wont-let-you-use-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
+ - 😝 [Oh my gut](http://9gag.com/gag/aMV0BMX)
  - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - 😝 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)
+ - 💣 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
+ - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
  - 👉 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)<!-- MEMES:END -->
 
 ---

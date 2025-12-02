@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
  - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 💣 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
- - 😝 [Bamboozle me twice](http://9gag.com/gag/an702xL)
- - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
+ - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - 😝 [The book is even partly taxpayer-funded. It&#39;s becoming kind of ridiculous at this point.](http://9gag.com/gag/aBybV6z)
+ - 👉 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump administration agrees to inject up to $150M in xLight, which develops lasers for EUV machines and has Pat Gelsinger on its board, for an equity stake &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251201/p33#a251201p33)
- - [Govee’s latest RGB-equipped speaker is 25 percent off for Cyber Monday](https://www.theverge.com/gadgets/835187/govee-table-lamp-2-pro-x-jbl-speaker-cyber-monday-deal-sale-2025)
- - [Samsung says the Galaxy Z TriFold will go on sale in South Korea on December 12 for ~$2,440, in China this year, and in the US as early as Q1 2026 &lpar;Heekyong Yang/Reuters&rpar;](http://www.techmeme.com/251201/p32#a251201p32)
- - [22 Best Cyber Monday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/cyber-monday-best-buy-deals/)
- - [Samsung unveils the Galaxy Z TriFold, with a 6.5-inch outer screen, a 10-inch 120Hz inner screen, three rear cameras, and a 3.9mm profile at its thinnest point &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251201/p31#a251201p31)<!-- TECH:END -->
+ - [Here are 50+ Cyber Monday deals you can still get for $100 or less](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025)
+ - [We found 45 of the best last-minute Cyber Monday deals under $30](https://www.theverge.com/gadgets/835702/cyber-monday-best-cheap-tech-deals-under-30-2025)
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [AWS and Google Cloud announce a jointly built multicloud networking solution and a new open interoperability spec; AWS plans a rollout with Azure later in 2026 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/251201/p34#a251201p34)
+ - [Hoto’s slick, rechargeable tools are still over 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/835606/cyber-monday-hoto-electric-screwdriver-drill-tool-deals-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thursday&#39;s Cold Moon Is the Last Supermoon of the Year. Here&#39;s How and When to View It](https://www.wired.com/story/cold-moon-supermoon-december-how-to-view/)
+ - [The annual app recaps for 2025: all Wrapped up](https://www.theverge.com/news/837280/spotify-wrapped-2025-recap-annual-best-of-data)
+ - [IoT security device maker Verkada hit a $5.8B valuation after new funding, source says totaling $100M, led by CapitalG; it passed $1B in annualized bookings &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251203/p28#a251203p28)
  - [This new Honeywell Home smart thermostat can answer your Ring doorbell](https://www.theverge.com/news/837246/honeywell-home-x8s-smart-thermostat-launches-matter-ring-compatibility)
- - [An unsettling indie game about horses keeps getting banned from stores](https://www.theverge.com/news/837278/horses-banned-steam-epic-games-store)
- - [One day, AI might be better than you at surfing the web. That day isn’t today.](https://www.theverge.com/tech/837287/ai-browsers-comet-chatgpt-atlas-edge-copilot-chrome-gemini)
- - [A leading kids safety bill has been poison pilled, supporters say](https://www.theverge.com/policy/837123/house-energy-commerce-kids-online-safety-package-hearing)
- - [La Liga Soccer: Stream Athletic Bilbao vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-athletic-bilbao-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An unsettling indie game about horses keeps getting banned from stores](https://www.theverge.com/news/837278/horses-banned-steam-epic-games-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

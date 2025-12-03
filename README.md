@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple interface design chief Alan Dye is leaving the company; sources: Dye will join Meta as chief design officer on Dec. 31 and report to CTO Andrew Bosworth &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251203/p32#a251203p32)
  - [PlayStation is making an MLB The Show mobile game](https://www.theverge.com/news/837614/sony-playstation-mlb-the-show-mobile-game)
  - [This haptic mattress topper lets you feel a movie while you fall asleep during it](https://www.theverge.com/news/837482/woojer-haptic-wellness-mat-vibrations-bluetooth)
  - [Sources: Stripe is paying ~$1B to acquire Metronome, and the deal is expected to be predominantly cash; PitchBook: Metronome was valued at $470M in February &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251203/p31#a251203p31)
- - [Crucial is shutting down — because Micron wants to sell its RAM and SSDs to AI companies instead](https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai)
- - [An AI Dark Horse Is Rewriting the Rules of Game Design](https://www.wired.com/story/tecent-3d-models-video-game-design-artificial-intelligence/)<!-- TECH:END -->
+ - [Crucial is shutting down — because Micron wants to sell its RAM and SSDs to AI companies instead](https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

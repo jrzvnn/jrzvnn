@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honda](http://9gag.com/gag/aXPm7nP)
- - 😝 [The woman who drove a snowplow through a pro-Palestinian demonstration blocking a street in Toronto was found not guilty and received only a one-day suspension from her job.](http://9gag.com/gag/aBybPPx)
- - 💣 [It&#39;s true](http://9gag.com/gag/aBybPnZ)
- - 😝 [Merry Christmas fellow degenerates.](http://9gag.com/gag/adBWx2M)
- - 👉 [Ricky Gervais is a national treasure for a reason](http://9gag.com/gag/aLnOGbv)<!-- MEMES:END -->
+ - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 💣 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
+ - 😝 [Well it is what it is](http://9gag.com/gag/aBybEjz)
+ - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 ---
 

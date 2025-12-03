@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Forensics: 354 AI-focused TikTok accounts pushed 43K posts made with GenAI tools that hit 4.5B views, including posts with anti-immigrant and sexual material &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/251203/p14#a251203p14)
- - [Vinci, which uses AI simulations to accelerate chip and other hardware design, raised a $36M Series A led by Xora Innovation, taking its total funding to $46M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/251203/p13#a251203p13)
- - [A Fentanyl Vaccine Is About to Get Its First Major Test](https://www.wired.com/story/a-fentanyl-vaccine-is-about-to-get-its-first-major-test/)
- - [Donald Trump Jr. and Eric Trump&#39;s American Bitcoin closed down 38.8% on December 2, wiping out ~$1B in market value; TMTG is down nearly 70% in 2025 &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/251203/p12#a251203p12)
- - [Do Defrosting Trays Work? More Importantly, Are They Safe?](https://www.cnet.com/news/do-defrosting-trays-work-more-importantly-are-they-safe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources and docs: Palantir&#39;s Immigration OS helps ICE track undocumented immigrants and deport them; a decade ago, Alex Karp said Trump&#39;s plans made &quot;no sense&quot; &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/251203/p16#a251203p16)
+ - [Some YouTube creators are using AI video tools to make content for kids and babies, causing concern that their brains are being shaped by AI-generated videos &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/251203/p15#a251203p15)
+ - [4 Best Smart Displays &lpar;2025&rpar;: Tested By a Smart Home Addict](https://www.wired.com/gallery/best-smart-displays/)
+ - [Mirumi the furry companion robot is now available on Kickstarter](https://www.theverge.com/news/836762/yukai-engineering-mirumi-furry-companion-robot-preorder-available-kickstarter)
+ - [AI Forensics: 354 AI-focused TikTok accounts pushed 43K posts made with GenAI tools that hit 4.5B views, including posts with anti-immigrant and sexual material &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/251203/p14#a251203p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

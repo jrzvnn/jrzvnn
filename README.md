@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Valve executive Pierre-Loup Griffais, who helped build SteamOS and the Steam Deck, on quietly funding open-source tech to play Windows games on Arm &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251203/p20#a251203p20)
- - [The Color of Your Sponge Matters. Here&#39;s How to Choose the Right One](https://www.cnet.com/news/the-color-of-your-sponge-matters-heres-how-to-choose-the-right-one/#ftag=CAD590a51e)
- - [Spotify unveils 2025&#39;s top 50 most popular US podcasts, led by The Joe Rogan Experience for the fifth consecutive year; 24 of the top 50 now offer video content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251203/p19#a251203p19)
- - [Spotify releases Wrapped 2025, adding features like Wrapped Party, its first live interactive experience, a Top Song Quiz, Listening Age, and Wrapped Clubs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251203/p18#a251203p18)
- - [Free Movies You Can Stream This December on Tubi, Plex and More](https://www.cnet.com/tech/services-and-software/free-movies-you-can-stream-this-december-on-tubi-plex-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok plans to invest $37.7B+ to build a data center in Brazil&#39;s port of Pecém, partnering with Omnia and Casa dos Ventos, its first Latin American project &lpar;Bloomberg&rpar;](http://www.techmeme.com/251203/p22#a251203p22)
+ - [Sources: multiple Microsoft divisions lowered how much salespeople are supposed to grow sales of certain AI products after missing growth targets, a rare move &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/251203/p21#a251203p21)
+ - [India&amp;#8217;s government backs down after Apple refuses order to preinstall app](https://www.theverge.com/news/837209/india-sanchar-saathi-app-requirement-dropped)
+ - [This keyboard and trackball combo are for the tinkerers](https://www.theverge.com/tech/819894/zsa-voyager-keyboard-navigator-trackball-mechanical-ergonomic)
+ - [Q&amp;A with Valve executive Pierre-Loup Griffais, who helped build SteamOS and the Steam Deck, on quietly funding open-source tech to play Windows games on Arm &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251203/p20#a251203p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

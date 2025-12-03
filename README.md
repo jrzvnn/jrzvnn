@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Valve executive Pierre-Loup Griffais, who helped build SteamOS and the Steam Deck, on quietly funding open-source tech to play Windows games on Arm &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251203/p20#a251203p20)
  - [Spotify unveils 2025&#39;s top 50 most popular US podcasts, led by The Joe Rogan Experience for the fifth consecutive year; 24 of the top 50 now offer video content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251203/p19#a251203p19)
  - [Spotify releases Wrapped 2025, adding features like Wrapped Party, its first live interactive experience, a Top Song Quiz, Listening Age, and Wrapped Clubs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251203/p18#a251203p18)
- - [New Hearing Aid Company, Foretell, Brings in Steve Martin and Others as Fans](https://www.wired.com/story/hearing-aid-startup-ai-fortell/)
- - [We played Metroid Prime 4, ask us anything](https://www.theverge.com/games/836580/metroid-prime-4-ask-me-anything)
- - [Spotify Wrapped 2025 turns listening into a competition](https://www.theverge.com/news/837127/spotify-wrapped-party-2025-music-competition)<!-- TECH:END -->
+ - [Want a Fortell Hearing Aid? Well, Who Do You Know?](https://www.wired.com/story/hearing-aid-startup-ai-fortell/)
+ - [We played Metroid Prime 4, ask us anything](https://www.theverge.com/games/836580/metroid-prime-4-ask-me-anything)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

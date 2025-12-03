@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Decentralized exchange Ostium raised a $20M Series A led by General Catalyst and Jump Trading, a source says at a ~$250M valuation, after previously raising $8M &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251203/p23#a251203p23)
+ - [Amazon&#39;s top $1,349 M5 MacBook Pro deal is still in stock for the holidays](https://appleinsider.com/articles/25/12/03/amazons-top-1349-m5-macbook-pro-deal-is-still-in-stock-for-the-holidays?utm_source=rss)
  - [TikTok plans to invest $37.7B+ to build a data center in Brazil&#39;s port of Pecém, partnering with Omnia and Casa dos Ventos, its first Latin American project &lpar;Bloomberg&rpar;](http://www.techmeme.com/251203/p22#a251203p22)
  - [Sources: multiple Microsoft divisions lowered how much salespeople are supposed to grow sales of certain AI products after missing growth targets, a rare move &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/251203/p21#a251203p21)
- - [India&amp;#8217;s government backs down after Apple refuses order to preinstall app](https://www.theverge.com/news/837209/india-sanchar-saathi-app-requirement-dropped)
- - [This keyboard and trackball combo are for the tinkerers](https://www.theverge.com/tech/819894/zsa-voyager-keyboard-navigator-trackball-mechanical-ergonomic)
- - [Q&amp;A with Valve executive Pierre-Loup Griffais, who helped build SteamOS and the Steam Deck, on quietly funding open-source tech to play Windows games on Arm &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251203/p20#a251203p20)<!-- TECH:END -->
+ - [India&amp;#8217;s government backs down after Apple refuses order to preinstall app](https://www.theverge.com/news/837209/india-sanchar-saathi-app-requirement-dropped)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

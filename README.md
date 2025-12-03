@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DUI](http://9gag.com/gag/aAyLK50)
- - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - 💣 [Way better than twilight](http://9gag.com/gag/aAyLExd)
- - 😝 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
- - 👉 [No need subtitle](http://9gag.com/gag/ajP3L9g)<!-- MEMES:END -->
+ - 😝 [Hard one](http://9gag.com/gag/a0eD02q)
+ - 😝 [A plan so brilliant... My genius frightens me sometimes](http://9gag.com/gag/an702pB)
+ - 💣 [World first lighter](http://9gag.com/gag/aQzDvVz)
+ - 😝 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
+ - 👉 [The International Space Station was captured gliding across the face of the Moon](http://9gag.com/gag/aKGXvbg)<!-- MEMES:END -->
 
 ---
 

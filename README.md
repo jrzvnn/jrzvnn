@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
  - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 💣 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 😝 [Ricky Gervais is a national treasure for a reason](http://9gag.com/gag/aLnOGbv)
- - 👉 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)<!-- MEMES:END -->
+ - 😝 [Internet Immediately Finds Gun a Dumb TikToker Threw Off Bridge - apologies for posting shitter but i thought you&#39;d appreciate the story](http://9gag.com/gag/aAyLKgZ)
+ - 💣 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
+ - 😝 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
+ - 👉 [Way better than twilight](http://9gag.com/gag/aAyLExd)<!-- MEMES:END -->
 
 ---
 

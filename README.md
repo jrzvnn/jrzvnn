@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 😝 [Internet Immediately Finds Gun a Dumb TikToker Threw Off Bridge - apologies for posting shitter but i thought you&#39;d appreciate the story](http://9gag.com/gag/aAyLKgZ)
- - 💣 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
- - 😝 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
- - 👉 [Way better than twilight](http://9gag.com/gag/aAyLExd)<!-- MEMES:END -->
+ - 😝 [No need subtitle](http://9gag.com/gag/ajP3L9g)
+ - 😝 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
+ - 💣 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
+ - 😝 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
+ - 👉 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)<!-- MEMES:END -->
 
 ---
 

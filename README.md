@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After a backlash, India says its pre-installed cybersecurity app is optional for users, who &quot;have complete freedom to activate, or delete the app at any time&quot; &lpar;Shruti Srivastava/Bloomberg&rpar;](http://www.techmeme.com/251202/p60#a251202p60)
  - [Filing: JD.com&#39;s JingDong Industrials, or JDi, a supply chain technology and services provider in China, aims to raise up to ~$420M in its Hong Kong IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p59#a251202p59)
  - [How to stream &#39;A Charlie Brown Christmas&#39; for free in 2025](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-stream-a-charlie-brown-christmas-for-free-in-2025?utm_source=rss)
  - [Sources: Anthropic has tapped a law firm to begin work on its IPO, which could come as soon as 2026, and has held preliminary talks with big investment banks &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251202/p58#a251202p58)
- - [Check Point is raising $1.5B from the sale of a five-year zero-coupon convertible bond; proceeds will go toward buying back as much as $225M of stock &lpar;Bloomberg&rpar;](http://www.techmeme.com/251202/p57#a251202p57)
- - [My Entire Job Is Based on Testing 3D Printers and These Are the Ones I Recommend](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Check Point is raising $1.5B from the sale of a five-year zero-coupon convertible bond; proceeds will go toward buying back as much as $225M of stock &lpar;Bloomberg&rpar;](http://www.techmeme.com/251202/p57#a251202p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

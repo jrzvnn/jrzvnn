@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vinci, which uses AI simulations to accelerate chip and other hardware design, raised a $36M Series A led by Xora Innovation, taking its total funding to $46M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/251203/p13#a251203p13)
+ - [A Fentanyl Vaccine Is About to Get Its First Major Test](https://www.wired.com/story/a-fentanyl-vaccine-is-about-to-get-its-first-major-test/)
  - [Donald Trump Jr. and Eric Trump&#39;s American Bitcoin closed down 38.8% on December 2, wiping out ~$1B in market value; TMTG is down nearly 70% in 2025 &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/251203/p12#a251203p12)
  - [HBO Max&#39;s 4K Mad Men re-release had multiple errors, including lacking post-production edits in some scenes; a source says Lionsgate delivered the wrong 4K file &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/251203/p11#a251203p11)
- - [A look at startups like AGI and Plato, which build replicas of websites to let AI agents learn to navigate and complete specific tasks, like booking flights &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251203/p10#a251203p10)
- - [Half of US states now require users to upload IDs or biometric data to access pornographic content, as Missouri became the 25th state to enact such a law &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/251203/p9#a251203p9)
- - [Copper demand is being boosted by AI data centers, which require 27 to 33 tons per MW, over 2x that of conventional data centers, per miner Grupo México &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/251203/p8#a251203p8)<!-- TECH:END -->
+ - [12 Best Gifts for Plant Lovers: Tech Edition](https://www.cnet.com/news/12-best-gifts-for-plant-lovers-tech-edition/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

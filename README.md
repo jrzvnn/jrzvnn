@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Age-Gated Internet Is Sweeping the US. Activists Are Fighting Back](https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/)
  - [Anthropic&amp;#8217;s AI bubble &amp;#8216;YOLO&amp;#8217; warning](https://www.theverge.com/column/837779/anthropic-ai-bubble-warning)
  - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
  - [Microsoft says &quot;aggregate sales quotas for AI products have not been lowered&quot;, following a report that some units lowered sales growth targets for AI products &lpar;Reuters&rpar;](http://www.techmeme.com/251203/p35#a251203p35)
- - [Reddit&amp;#8217;s CEO says r/popular &amp;#8216;sucks,&amp;#8217; and it&amp;#8217;s going away](https://www.theverge.com/news/837780/reddit-r-popular-community-going-away-steve-huffman)
- - [Trump embraces gas guzzlers and air pollution by weakening fuel economy standards](https://www.theverge.com/news/837575/trump-rollback-fuel-economy-standards)<!-- TECH:END -->
+ - [Reddit&amp;#8217;s CEO says r/popular &amp;#8216;sucks,&amp;#8217; and it&amp;#8217;s going away](https://www.theverge.com/news/837780/reddit-r-popular-community-going-away-steve-huffman)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

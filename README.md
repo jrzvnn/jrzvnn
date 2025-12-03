@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
- - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 💣 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)
+ - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 😝 [DUI](http://9gag.com/gag/aAyLK50)
+ - 💣 [A fitting end](http://9gag.com/gag/abAL4PB)
  - 😝 [Well it is what it is](http://9gag.com/gag/aBybEjz)
- - 👉 [DUI](http://9gag.com/gag/aAyLK50)<!-- MEMES:END -->
+ - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
 
 ---
 

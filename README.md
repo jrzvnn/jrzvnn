@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 😝 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
- - 💣 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
  - 😝 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
- - 👉 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)<!-- MEMES:END -->
+ - 💣 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 😝 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
+ - 👉 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)<!-- MEMES:END -->
 
 ---
 

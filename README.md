@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anyone can try to edit Grokipedia 0.2 but Grok is running the show](https://www.theverge.com/report/837431/grokipedia-update-editing-mess)
- - [Thursday&#39;s Cold Moon Is the Last Supermoon of the Year. Here&#39;s How and When to View It](https://www.wired.com/story/cold-moon-supermoon-december-how-to-view/)
- - [The annual app recaps for 2025: all Wrapped up](https://www.theverge.com/news/837280/spotify-wrapped-2025-recap-annual-best-of-data)
- - [IoT security device maker Verkada hit a $5.8B valuation after new funding, source says totaling $100M, led by CapitalG; it passed $1B in annualized bookings &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251203/p28#a251203p28)
- - [This new Honeywell Home smart thermostat can answer your Ring doorbell](https://www.theverge.com/news/837246/honeywell-home-x8s-smart-thermostat-launches-matter-ring-compatibility)<!-- TECH:END -->
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [OpenAI agrees to buy Poland-based Neptune, which makes tools for analyzing progress during AI model training; the transaction will be in stock &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251203/p29#a251203p29)
+ - [The ugly Pebble 2 Duo is the smartwatch for me](https://www.theverge.com/gadgets/837388/pebble-2-duo-review)
+ - [&#39;MLB The Show Mobile&#39; is Sony&#39;s biggest push into iPhone gaming](https://appleinsider.com/articles/25/12/03/mlb-the-show-mobile-is-sonys-biggest-push-into-iphone-gaming?utm_source=rss)
+ - [Anyone can try to edit Grokipedia 0.2 but Grok is running the show](https://www.theverge.com/report/837431/grokipedia-update-editing-mess)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

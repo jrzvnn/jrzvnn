@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HBO Max&#39;s 4K Mad Men re-release had multiple errors, including lacking post-production edits in some scenes; a source says Lionsgate delivered the wrong 4K file &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/251203/p11#a251203p11)
  - [A look at startups like AGI and Plato, which build replicas of websites to let AI agents learn to navigate and complete specific tasks, like booking flights &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251203/p10#a251203p10)
  - [Half of US states now require users to upload IDs or biometric data to access pornographic content, as Missouri became the 25th state to enact such a law &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/251203/p9#a251203p9)
  - [Copper demand is being boosted by AI data centers, which require 27 to 33 tons per MW, over 2x that of conventional data centers, per miner Grupo México &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/251203/p8#a251203p8)
- - [London-based Sokin, which develops tech for B2B cross-border payments, raised a $50M Series B led by Prysm Capital at a $300M valuation &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251203/p7#a251203p7)
- - [Binance names co-founder Yi He as co-CEO alongside Richard Teng, making her one of the few women leading a crypto company; she also has children with ex-CEO CZ &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/251203/p6#a251203p6)<!-- TECH:END -->
+ - [London-based Sokin, which develops tech for B2B cross-border payments, raised a $50M Series B led by Prysm Capital at a $300M valuation &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251203/p7#a251203p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

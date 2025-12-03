@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
+ - 😝 [DUI](http://9gag.com/gag/aAyLK50)
  - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 💣 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
+ - 💣 [French f**ker](http://9gag.com/gag/apRnPjn)
  - 😝 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
- - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
+ - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
 
 ---
 

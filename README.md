@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stiff hard rock](http://9gag.com/gag/a1m8D88)
  - 😝 [DUI](http://9gag.com/gag/aAyLK50)
- - 💣 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
- - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
+ - 😝 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
+ - 💣 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 👉 [A fitting end](http://9gag.com/gag/abAL4PB)<!-- MEMES:END -->
 
 ---
 

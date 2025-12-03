@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are my 25 favorite deals from REI’s Cyber Week sale](https://www.theverge.com/gadgets/837519/best-rei-cyber-week-sale-2025-deals)
  - [Apple interface design chief Alan Dye is leaving the company; sources: Dye will join Meta as chief design officer on Dec. 31 and report to CTO Andrew Bosworth &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251203/p32#a251203p32)
- - [PlayStation is making an MLB The Show mobile game](https://www.theverge.com/news/837614/sony-playstation-mlb-the-show-mobile-game)
- - [This haptic mattress topper lets you feel a movie while you fall asleep during it](https://www.theverge.com/news/837482/woojer-haptic-wellness-mat-vibrations-bluetooth)
- - [Sources: Stripe is paying ~$1B to acquire Metronome, and the deal is expected to be predominantly cash; PitchBook: Metronome was valued at $470M in February &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251203/p31#a251203p31)
- - [Crucial is shutting down — because Micron wants to sell its RAM and SSDs to AI companies instead](https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai)<!-- TECH:END -->
+ - [Best Robot Vacuums: Our Latest Lab Testing Reveals Surprising New Contenders](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
+ - [Here&#39;s the Mystery Flavor of McDonald&#39;s New Pink and Blue Shake](https://www.cnet.com/culture/what-is-the-mystery-flavor-of-the-mt-mcdonaldland-pink-and-blue-mcdonalds-shake/#ftag=CAD590a51e)
+ - [McDonald&#39;s Snack Wraps Are Back but Was It Worth the Wait?](https://www.cnet.com/culture/review-are-mcdonalds-long-awaited-chicken-snack-wraps-worth-the-wait/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

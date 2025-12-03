@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit&amp;#8217;s CEO says r/popular &amp;#8216;sucks,&amp;#8217; and it&amp;#8217;s going away](https://www.theverge.com/news/837780/reddit-r-popular-community-going-away-steve-huffman)
+ - [Trump embraces gas guzzlers and air pollution by weakening fuel economy standards](https://www.theverge.com/news/837575/trump-rollback-fuel-economy-standards)
  - [Apple&#39;s human interface design chief Alan Dye poached by Meta](https://appleinsider.com/articles/25/12/03/apples-human-interface-design-chief-alan-dye-poached-by-meta?utm_source=rss)
  - [NASA Sent Three Drones to Death Valley to Prepare for Travel to Mars](https://www.cnet.com/science/space/nasa-sent-three-drones-to-death-valley-to-prepare-for-travel-to-mars/#ftag=CAD590a51e)
- - [Netflix sells game studio Spry Fox back to its co-founders, David Edery and Daniel Cook; the streamer has shrunk its six-studio gaming operation down to three &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/251203/p34#a251203p34)
- - [Apple&amp;#8217;s head of UI design is leaving for Meta](https://www.theverge.com/news/837654/apple-meta-alan-dye-designer)
- - [Micron says it will exit its Crucial consumer business, as it doubles down on advanced memory chips used in AI data centers amid a global supply shortage &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251203/p33#a251203p33)<!-- TECH:END -->
+ - [Netflix sells game studio Spry Fox back to its co-founders, David Edery and Daniel Cook; the streamer has shrunk its six-studio gaming operation down to three &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/251203/p34#a251203p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

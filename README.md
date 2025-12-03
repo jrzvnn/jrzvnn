@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - 😝 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
- - 💣 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)
- - 😝 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
- - 👉 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)<!-- MEMES:END -->
+ - 😝 [Stiff hard rock](http://9gag.com/gag/a1m8D88)
+ - 😝 [DUI](http://9gag.com/gag/aAyLK50)
+ - 💣 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
+ - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
 
 ---
 

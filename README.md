@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - 😝 [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 💣 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
- - 😝 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
- - 👉 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)<!-- MEMES:END -->
+ - 😝 [A plan so brilliant... My genius frightens me sometimes](http://9gag.com/gag/an702pB)
+ - 😝 [World first lighter](http://9gag.com/gag/aQzDvVz)
+ - 💣 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
+ - 😝 [Cultural enrichment](http://9gag.com/gag/amoOmA6)
+ - 👉 [The International Space Station was captured gliding across the face of the Moon](http://9gag.com/gag/aKGXvbg)<!-- MEMES:END -->
 
 ---
 

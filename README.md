@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [DUI](http://9gag.com/gag/aAyLK50)
- - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 💣 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
- - 😝 [Jealousy drove her to try every move to break the crown](http://9gag.com/gag/aW4enXZ)
- - 👉 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)<!-- MEMES:END -->
+ - 😝 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
+ - 💣 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 😝 [Have you tried confidence](http://9gag.com/gag/aMV0nMV)
+ - 👉 [Way better than twilight](http://9gag.com/gag/aAyLExd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MLS puts Apple&#39;s iPhone 17 Pro to work as a broadcast camera](https://appleinsider.com/articles/25/12/03/mls-puts-apples-iphone-17-pro-to-work-as-a-broadcast-camera?utm_source=rss)
- - [India says it revoked an order to smartphone makers to preload state-run cybersecurity app Sanchar Saathi on all new smartphones, after protests from lawmakers &lpar;Reuters&rpar;](http://www.techmeme.com/251203/p26#a251203p26)
- - [India blinks: won&#39;t require Apple to preinstall a state app on iPhone](https://appleinsider.com/articles/25/12/03/india-blinks-wont-require-apple-to-preinstall-a-state-app-on-iphone?utm_source=rss)
- - [Amazon Fire TV adds an Alexa+ feature enabling Prime Video users to skip to movie scenes using natural language descriptions, character names, or famous quotes &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/251203/p25#a251203p25)
- - [Anyone want to buy a car that drives itself?](https://www.theverge.com/transportation/837014/autonomous-vehicle-privately-owned-who-wants)<!-- TECH:END -->
+ - [Russia&#39;s Roskomnadzor blocks access to Roblox, claiming that it is &quot;rife with inappropriate content&quot; and spreading &quot;LGBT propaganda&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251203/p27#a251203p27)
+ - [Linux usage on Steam hits a record high for the second month in a row](https://www.theverge.com/news/837364/linux-usage-steam-hardware-survey-november-2025)
+ - [The Trump Administration Wants Immigrants to Self-Deport. It’s a Shit Show](https://www.wired.com/story/trump-administration-wants-immigrants-to-self-deport/)
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+ - [Garmin’s new satellite communicator adds a touchscreen and photo sharing](https://www.theverge.com/news/837313/garmin-inreach-mini-3-plus-satellite-communicator-color-touchscreen-messaging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

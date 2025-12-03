@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Cultural enrichment](http://9gag.com/gag/amoOmA6)
  - 😝 [I hope 9gag won&#39;t delete this, it&#39;s funny](http://9gag.com/gag/aPAVodw)
  - 💣 [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 😝 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
- - 👉 [After 80 hours, it&#39;s finished](http://9gag.com/gag/a9y48Y1)<!-- MEMES:END -->
+ - 😝 [After 80 hours, it&#39;s finished](http://9gag.com/gag/a9y48Y1)
+ - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
 
 ---
 

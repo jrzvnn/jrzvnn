@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After an online backlash, Amazon Prime Video removes AI-generated English and Spanish dubs that it had quietly rolled out in beta for several anime titles &lpar;James Whitbrook/Gizmodo&rpar;](http://www.techmeme.com/251203/p24#a251203p24)
  - [Decentralized exchange Ostium raised a $20M Series A led by General Catalyst and Jump Trading, a source says at a ~$250M valuation, after previously raising $8M &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251203/p23#a251203p23)
  - [Amazon&#39;s top $1,349 M5 MacBook Pro deal is still in stock for the holidays](https://appleinsider.com/articles/25/12/03/amazons-top-1349-m5-macbook-pro-deal-is-still-in-stock-for-the-holidays?utm_source=rss)
  - [TikTok plans to invest $37.7B+ to build a data center in Brazil&#39;s port of Pecém, partnering with Omnia and Casa dos Ventos, its first Latin American project &lpar;Bloomberg&rpar;](http://www.techmeme.com/251203/p22#a251203p22)
- - [Sources: multiple Microsoft divisions lowered how much salespeople are supposed to grow sales of certain AI products after missing growth targets, a rare move &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/251203/p21#a251203p21)
- - [India&amp;#8217;s government backs down after Apple refuses order to preinstall app](https://www.theverge.com/news/837209/india-sanchar-saathi-app-requirement-dropped)<!-- TECH:END -->
+ - [Sources: multiple Microsoft divisions lowered how much salespeople are supposed to grow sales of certain AI products after missing growth targets, a rare move &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/251203/p21#a251203p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI&#39;s nonprofit foundation announces it&#39;s awarding $40.5M in grants this year to 208 nonprofits across the US; the nonprofit donated only $7.5M in 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251203/p30#a251203p30)
+ - [Release candidates of iOS 26.2, macOS 26.2 now available](https://appleinsider.com/articles/25/12/03/release-candidates-of-ios-262-macos-262-now-available?utm_source=rss)
  - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
  - [OpenAI agrees to buy Poland-based Neptune, which makes tools for analyzing progress during AI model training; the transaction will be in stock &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251203/p29#a251203p29)
- - [The ugly Pebble 2 Duo is the smartwatch for me](https://www.theverge.com/gadgets/837388/pebble-2-duo-review)
- - [&#39;MLB The Show Mobile&#39; is Sony&#39;s biggest push into iPhone gaming](https://appleinsider.com/articles/25/12/03/mlb-the-show-mobile-is-sonys-biggest-push-into-iphone-gaming?utm_source=rss)
- - [Anyone can try to edit Grokipedia 0.2 but Grok is running the show](https://www.theverge.com/report/837431/grokipedia-update-editing-mess)<!-- TECH:END -->
+ - [The ugly Pebble 2 Duo is the smartwatch for me](https://www.theverge.com/gadgets/837388/pebble-2-duo-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

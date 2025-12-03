@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 😝 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
- - 💣 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 😝 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
+ - 😝 [DUI](http://9gag.com/gag/aAyLK50)
+ - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
+ - 💣 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
+ - 😝 [Jealousy drove her to try every move to break the crown](http://9gag.com/gag/aW4enXZ)
  - 👉 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)<!-- MEMES:END -->
 
 ---

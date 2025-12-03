@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Half of US states now require users to upload IDs or biometric data to access pornographic content, as Missouri became the 25th state to enact such a law &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/251203/p9#a251203p9)
- - [Copper demand is being boosted by AI data centers, which require 27-33 tonnes per MW, over 2x that of conventional data centers, according to miner Grupo México &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/251203/p8#a251203p8)
+ - [Copper demand is being boosted by AI data centers, which require 27 to 33 tons per MW, over 2x that of conventional data centers, per miner Grupo México &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/251203/p8#a251203p8)
  - [London-based Sokin, which develops tech for B2B cross-border payments, raised a $50M Series B led by Prysm Capital at a $300M valuation &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251203/p7#a251203p7)
  - [Binance names co-founder Yi He as co-CEO alongside Richard Teng, making her one of the few women leading a crypto company; she also has children with ex-CEO CZ &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/251203/p6#a251203p6)
  - [An analysis of Waymo&#39;s data covering ~100M driverless miles across four US cities: Waymo cars have far lower crash rates per million miles than human drivers &lpar;Jonathan Slotkin/New York Times&rpar;](http://www.techmeme.com/251203/p5#a251203p5)<!-- TECH:END -->

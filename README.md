@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French f**ker](http://9gag.com/gag/apRnPjn)
- - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 💣 [Way better than twilight](http://9gag.com/gag/aAyLExd)
- - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 👉 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)<!-- MEMES:END -->
+ - 😝 [Cultural enrichment](http://9gag.com/gag/amoOmA6)
+ - 😝 [I hope 9gag won&#39;t delete this, it&#39;s funny](http://9gag.com/gag/aPAVodw)
+ - 💣 [No need subtitle](http://9gag.com/gag/ajP3L9g)
+ - 😝 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
+ - 👉 [After 80 hours, it&#39;s finished](http://9gag.com/gag/a9y48Y1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cultural enrichment](http://9gag.com/gag/amoOmA6)
- - 😝 [I hope 9gag won&#39;t delete this, it&#39;s funny](http://9gag.com/gag/aPAVodw)
- - 💣 [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 😝 [After 80 hours, it&#39;s finished](http://9gag.com/gag/a9y48Y1)
- - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
+ - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
+ - 😝 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
+ - 💣 [Way better than twilight](http://9gag.com/gag/aAyLExd)
+ - 😝 [Underrated Movies: The 13th Warrior &lpar;1999&rpar;](http://9gag.com/gag/amoOmjy)
+ - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
 
 ---
 

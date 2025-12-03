@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Q&amp;A with Valve executive Pierre-Loup Griffais, who helped build SteamOS and the Steam Deck, on quietly funding open-source tech to play Windows games on Arm &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251203/p20#a251203p20)
+ - [The Color of Your Sponge Matters. Here&#39;s How to Choose the Right One](https://www.cnet.com/news/the-color-of-your-sponge-matters-heres-how-to-choose-the-right-one/#ftag=CAD590a51e)
  - [Spotify unveils 2025&#39;s top 50 most popular US podcasts, led by The Joe Rogan Experience for the fifth consecutive year; 24 of the top 50 now offer video content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251203/p19#a251203p19)
  - [Spotify releases Wrapped 2025, adding features like Wrapped Party, its first live interactive experience, a Top Song Quiz, Listening Age, and Wrapped Clubs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251203/p18#a251203p18)
- - [Want a Fortell Hearing Aid? Well, Who Do You Know?](https://www.wired.com/story/hearing-aid-startup-ai-fortell/)
- - [We played Metroid Prime 4, ask us anything](https://www.theverge.com/games/836580/metroid-prime-4-ask-me-anything)<!-- TECH:END -->
+ - [Free Movies You Can Stream This December on Tubi, Plex and More](https://www.cnet.com/tech/services-and-software/free-movies-you-can-stream-this-december-on-tubi-plex-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

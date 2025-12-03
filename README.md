@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snowflake reports Q3 product revenue up 29% YoY to $1.16B, and forecasts Q4 adjusted operating income margin below estimates; SNOW drops 7%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251203/p37#a251203p37)
+ - [The Auk Mini Herb Garden Is Still Up to $30 Off &lpar;2025&rpar;](https://www.wired.com/story/auk-mini-herb-garden-sale-2025/)
  - [Satellites keep photobombing the Hubble telescope, and it’s getting worse](https://www.theverge.com/news/837652/hubble-telescope-satellite-light-pollution)
  - [Salesforce reports Q3 revenue up 8.6% YoY to $10.26B, vs. $10.27B est., and forecasts Q4 revenue above estimates; CRM jumps 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251203/p36#a251203p36)
- - [The Age-Gated Internet Is Sweeping the US. Activists Are Fighting Back](https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/)
- - [Anthropic&amp;#8217;s AI bubble &amp;#8216;YOLO&amp;#8217; warning](https://www.theverge.com/column/837779/anthropic-ai-bubble-warning)
- - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
+ - [The Age-Gated Internet Is Sweeping the US. Activists Are Fighting Back](https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

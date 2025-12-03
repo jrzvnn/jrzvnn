@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says &quot;aggregate sales quotas for AI products have not been lowered&quot;, following a report that some units lowered sales growth targets for AI products &lpar;Reuters&rpar;](http://www.techmeme.com/251203/p35#a251203p35)
  - [Reddit&amp;#8217;s CEO says r/popular &amp;#8216;sucks,&amp;#8217; and it&amp;#8217;s going away](https://www.theverge.com/news/837780/reddit-r-popular-community-going-away-steve-huffman)
  - [Trump embraces gas guzzlers and air pollution by weakening fuel economy standards](https://www.theverge.com/news/837575/trump-rollback-fuel-economy-standards)
  - [Apple&#39;s human interface design chief Alan Dye poached by Meta](https://appleinsider.com/articles/25/12/03/apples-human-interface-design-chief-alan-dye-poached-by-meta?utm_source=rss)
- - [NASA Sent Three Drones to Death Valley to Prepare for Travel to Mars](https://www.cnet.com/science/space/nasa-sent-three-drones-to-death-valley-to-prepare-for-travel-to-mars/#ftag=CAD590a51e)
- - [Netflix sells game studio Spry Fox back to its co-founders, David Edery and Daniel Cook; the streamer has shrunk its six-studio gaming operation down to three &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/251203/p34#a251203p34)<!-- TECH:END -->
+ - [NASA Sent Three Drones to Death Valley to Prepare for Travel to Mars](https://www.cnet.com/science/space/nasa-sent-three-drones-to-death-valley-to-prepare-for-travel-to-mars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

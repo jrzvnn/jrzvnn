@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snowflake reports Q3 product revenue up 29% YoY to $1.16B, and forecasts Q4 adjusted operating income margin below estimates; SNOW drops 7%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251203/p37#a251203p37)
- - [The Auk Mini Herb Garden Is Still Up to $30 Off &lpar;2025&rpar;](https://www.wired.com/story/auk-mini-herb-garden-sale-2025/)
- - [Satellites keep photobombing the Hubble telescope, and it’s getting worse](https://www.theverge.com/news/837652/hubble-telescope-satellite-light-pollution)
- - [Salesforce reports Q3 revenue up 8.6% YoY to $10.26B, vs. $10.27B est., and forecasts Q4 revenue above estimates; CRM jumps 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251203/p36#a251203p36)
- - [The Age-Gated Internet Is Sweeping the US. Activists Are Fighting Back](https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/)<!-- TECH:END -->
+ - [Mark Zuckerberg announces a new creative studio in Meta&#39;s Reality Labs led by Alan Dye, who will be joined by Apple design lead Billy Sorrentino &lpar;Mark Zuckerberg/@zuck@threads.com&rpar;](http://www.techmeme.com/251203/p38#a251203p38)
+ - [BMW iX3 first drive: a ‘New Class’ is in session](https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price)
+ - [BMW iX3 2026 Review: Price, Specs, Availability](https://www.wired.com/review/bmw-ix3-2026/)
+ - [HBO Max: The 30 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-tv-shows-on-hbo-max-dec-2025/#ftag=CAD590a51e)
+ - [I Brought Retro Games Back to Life the AI Way, Thanks to Gemini Vibe Coding](https://www.cnet.com/tech/services-and-software/the-most-fun-ive-ever-had-with-ai-is-vibe-coding-retro-video-games-heres-how-i-did-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

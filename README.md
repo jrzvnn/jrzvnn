@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - 💣 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 😝 [Well it is what it is](http://9gag.com/gag/aBybEjz)
- - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
+ - 😝 [Honda](http://9gag.com/gag/aXPm7nP)
+ - 😝 [The woman who drove a snowplow through a pro-Palestinian demonstration blocking a street in Toronto was found not guilty and received only a one-day suspension from her job.](http://9gag.com/gag/aBybPPx)
+ - 💣 [It&#39;s true](http://9gag.com/gag/aBybPnZ)
+ - 😝 [Merry Christmas fellow degenerates.](http://9gag.com/gag/adBWx2M)
+ - 👉 [Ricky Gervais is a national treasure for a reason](http://9gag.com/gag/aLnOGbv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bryan Johnson Has Discovered Shrooms, and He Really Wants You to Know It](https://www.wired.com/story/bryan-johnson-shrooms-livestream-trip/)
- - [Arizona AG Kris Mayes sues Temu for allegedly stealing customers&#39; data, including their physical location, and counterfeiting local brands &lpar;Sejal Govindarao/Associated Press&rpar;](http://www.techmeme.com/251202/p55#a251202p55)
- - [The Polaroid Flip, my favorite retro instant camera, is cheaper than ever](https://www.theverge.com/gadgets/836984/polaroid-flip-cyber-week-2025-deal-sale)
- - [Marvell announces a deal to buy Celestial AI for at least $3.25B, expected to close in Q1 2026; the price can rise to $5.5B if Celestial hits revenue targets &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251202/p54#a251202p54)
- - [Netflix Bans Streaming From Your Phone to Your TV](https://www.cnet.com/tech/services-and-software/netflix-bans-streaming-from-your-phone-to-your-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: JD.com&#39;s JingDong Industrials, or JDi, a supply chain technology and services provider in China, aims to raise up to ~$420M in its Hong Kong IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p59#a251202p59)
+ - [How to stream &#39;A Charlie Brown Christmas&#39; for free in 2025](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-stream-a-charlie-brown-christmas-for-free-in-2025?utm_source=rss)
+ - [Sources: Anthropic has tapped a law firm to begin work on its IPO, which could come as soon as 2026, and has held preliminary talks with big investment banks &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251202/p58#a251202p58)
+ - [Check Point is raising $1.5B from the sale of a five-year zero-coupon convertible bond; proceeds will go toward buying back as much as $225M of stock &lpar;Bloomberg&rpar;](http://www.techmeme.com/251202/p57#a251202p57)
+ - [My Entire Job Is Based on Testing 3D Printers and These Are the Ones I Recommend](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix sells game studio Spry Fox back to its co-founders, David Edery and Daniel Cook; the streamer has shrunk its six-studio gaming operation down to three &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/251203/p34#a251203p34)
  - [Apple&#39;s human interface design chief Alan Dye poached by Meta](https://appleinsider.com/articles/25/12/03/apples-human-interface-design-chief-alan-dye-poached-by-meta?utm_source=rss)
+ - [Netflix sells game studio Spry Fox back to its co-founders, David Edery and Daniel Cook; the streamer has shrunk its six-studio gaming operation down to three &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/251203/p34#a251203p34)
+ - [Apple&amp;#8217;s head of UI design is leaving for Meta](https://www.theverge.com/news/837654/apple-meta-alan-dye-designer)
  - [Micron says it will exit its Crucial consumer business, as it doubles down on advanced memory chips used in AI data centers amid a global supply shortage &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251203/p33#a251203p33)
- - [Here are my 25 favorite deals from REI’s Cyber Week sale](https://www.theverge.com/gadgets/837519/best-rei-cyber-week-sale-2025-deals)
- - [Apple interface design chief Alan Dye is leaving the company; sources: Dye will join Meta as chief design officer on Dec. 31 and report to CTO Andrew Bosworth &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251203/p32#a251203p32)<!-- TECH:END -->
+ - [Here are my 25 favorite deals from REI’s Cyber Week sale](https://www.theverge.com/gadgets/837519/best-rei-cyber-week-sale-2025-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

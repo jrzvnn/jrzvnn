@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
  - 😝 [DUI](http://9gag.com/gag/aAyLK50)
- - 💣 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 😝 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)
- - 👉 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)<!-- MEMES:END -->
+ - 💣 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
+ - 😝 [He put his paw on the button and won&#39;t let go](http://9gag.com/gag/a87veX6)
+ - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 ---
 

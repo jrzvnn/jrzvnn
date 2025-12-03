@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s nonprofit foundation announces it&#39;s awarding $40.5M in grants this year to 208 nonprofits across the US; the nonprofit donated only $7.5M in 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251203/p30#a251203p30)
- - [Release candidates of iOS 26.2, macOS 26.2 now available](https://appleinsider.com/articles/25/12/03/release-candidates-of-ios-262-macos-262-now-available?utm_source=rss)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
- - [OpenAI agrees to buy Poland-based Neptune, which makes tools for analyzing progress during AI model training; the transaction will be in stock &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251203/p29#a251203p29)
- - [The ugly Pebble 2 Duo is the smartwatch for me](https://www.theverge.com/gadgets/837388/pebble-2-duo-review)<!-- TECH:END -->
+ - [PlayStation is making an MLB The Show mobile game](https://www.theverge.com/news/837614/sony-playstation-mlb-the-show-mobile-game)
+ - [This haptic mattress topper lets you feel a movie while you fall asleep during it](https://www.theverge.com/news/837482/woojer-haptic-wellness-mat-vibrations-bluetooth)
+ - [Sources: Stripe is paying ~$1B to acquire Metronome, and the deal is expected to be predominantly cash; PitchBook: Metronome was valued at $470M in February &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251203/p31#a251203p31)
+ - [Crucial is shutting down — because Micron wants to sell its RAM and SSDs to AI companies instead](https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai)
+ - [An AI Dark Horse Is Rewriting the Rules of Game Design](https://www.wired.com/story/tecent-3d-models-video-game-design-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

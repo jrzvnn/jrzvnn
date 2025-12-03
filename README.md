@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off Home Depot Promo Code | December 2025](https://www.wired.com/story/home-depot-promo-code/)
- - [Peacock Promo Code &amp; Coupons: $80 Off December 2025](https://www.wired.com/story/peacock-promo-code/)
- - [Bose Promo Code: 40% Off Bose for December 2025](https://www.wired.com/story/bose-coupon-code/)
- - [Stripe agrees to acquire Metronome, which offers APIs to help SaaS companies charge customers based on usage and has raised $128M in total funding &lpar;Scott Woody/Metronome&rpar;](http://www.techmeme.com/251203/p3#a251203p3)
- - [Tuft &amp; Needle Promo Codes: 20% Off | December 2025](https://www.wired.com/story/tuft-and-needle-promo-code/)<!-- TECH:END -->
+ - [An analysis of Waymo&#39;s data covering ~100M driverless miles across four US cities: Waymo cars have far lower crash rates per million miles than human drivers &lpar;Jonathan Slotkin/New York Times&rpar;](http://www.techmeme.com/251203/p5#a251203p5)
+ - [Waymo&#39;s self-driving cars appear to be bending traffic laws and growing impatient with pedestrians as the company seeks to make them &quot;confidently assertive&quot; &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p4#a251203p4)
+ - [30% VistaPrint Coupon &amp; Promo Codes | December 2025](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [20% Squarespace Promo Codes | December 2025](https://www.wired.com/story/squarespace-promo-code/)
+ - [20% Off Home Depot Promo Code | December 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

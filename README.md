@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DUI](http://9gag.com/gag/aAyLK50)
- - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 💣 [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 😝 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
- - 👉 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)<!-- MEMES:END -->
+ - 😝 [A plan so brilliant... My genius frightens me sometimes](http://9gag.com/gag/an702pB)
+ - 😝 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)
+ - 💣 [World first lighter](http://9gag.com/gag/aQzDvVz)
+ - 😝 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
+ - 👉 [The International Space Station was captured gliding across the face of the Moon](http://9gag.com/gag/aKGXvbg)<!-- MEMES:END -->
 
 ---
 

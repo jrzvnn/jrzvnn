@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Sokin, which develops tech for B2B cross-border payments, raised a $50M Series B led by Prysm Capital at a $300M valuation &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251203/p7#a251203p7)
+ - [Binance names co-founder Yi He as co-CEO alongside Richard Teng, making her one of the few women leading a crypto company; she also has children with ex-CEO CZ &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/251203/p6#a251203p6)
  - [An analysis of Waymo&#39;s data covering ~100M driverless miles across four US cities: Waymo cars have far lower crash rates per million miles than human drivers &lpar;Jonathan Slotkin/New York Times&rpar;](http://www.techmeme.com/251203/p5#a251203p5)
  - [Waymo&#39;s self-driving cars appear to be bending traffic laws and growing impatient with pedestrians as the company seeks to make them &quot;confidently assertive&quot; &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p4#a251203p4)
- - [30% VistaPrint Coupon &amp; Promo Codes | December 2025](https://www.wired.com/story/vistaprint-coupon-code/)
- - [20% Squarespace Promo Codes | December 2025](https://www.wired.com/story/squarespace-promo-code/)
- - [20% Off Home Depot Promo Code | December 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [30% VistaPrint Coupon &amp; Promo Codes | December 2025](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

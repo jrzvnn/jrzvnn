@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s human interface design chief Alan Dye poached by Meta](https://appleinsider.com/articles/25/12/03/apples-human-interface-design-chief-alan-dye-poached-by-meta?utm_source=rss)
+ - [NASA Sent Three Drones to Death Valley to Prepare for Travel to Mars](https://www.cnet.com/science/space/nasa-sent-three-drones-to-death-valley-to-prepare-for-travel-to-mars/#ftag=CAD590a51e)
  - [Netflix sells game studio Spry Fox back to its co-founders, David Edery and Daniel Cook; the streamer has shrunk its six-studio gaming operation down to three &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/251203/p34#a251203p34)
  - [Apple&amp;#8217;s head of UI design is leaving for Meta](https://www.theverge.com/news/837654/apple-meta-alan-dye-designer)
- - [Micron says it will exit its Crucial consumer business, as it doubles down on advanced memory chips used in AI data centers amid a global supply shortage &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251203/p33#a251203p33)
- - [Here are my 25 favorite deals from REI’s Cyber Week sale](https://www.theverge.com/gadgets/837519/best-rei-cyber-week-sale-2025-deals)<!-- TECH:END -->
+ - [Micron says it will exit its Crucial consumer business, as it doubles down on advanced memory chips used in AI data centers amid a global supply shortage &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251203/p33#a251203p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

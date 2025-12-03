@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [La Liga Soccer: Stream Athletic Bilbao vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-athletic-bilbao-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)
- - [Elon Musk is on a racist posting spree again](https://www.theverge.com/news/837423/elon-musk-x-racist-posts-minnesota)
- - [Holiday MacBook Air deals slash prices by up to $600](https://appleinsider.com/articles/25/12/03/holiday-macbook-air-deals-slash-prices-by-up-to-600?utm_source=rss)
- - [Premier League Soccer: Stream Arsenal vs. Brentford Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-arsenal-vs-brentford-live-from-anywhere/#ftag=CAD590a51e)
- - [Russia&#39;s Roskomnadzor blocks access to Roblox, claiming that it is &quot;rife with inappropriate content&quot; and distributing extremist materials and &quot;LGBT propaganda&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251203/p27#a251203p27)<!-- TECH:END -->
+ - [This new Honeywell Home smart thermostat can answer your Ring doorbell](https://www.theverge.com/news/837246/honeywell-home-x8s-smart-thermostat-launches-matter-ring-compatibility)
+ - [An unsettling indie game about horses keeps getting banned from stores](https://www.theverge.com/news/837278/horses-banned-steam-epic-games-store)
+ - [One day, AI might be better than you at surfing the web. That day isn’t today.](https://www.theverge.com/tech/837287/ai-browsers-comet-chatgpt-atlas-edge-copilot-chrome-gemini)
+ - [A leading kids safety bill has been poison pilled, supporters say](https://www.theverge.com/policy/837123/house-energy-commerce-kids-online-safety-package-hearing)
+ - [La Liga Soccer: Stream Athletic Bilbao vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-athletic-bilbao-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

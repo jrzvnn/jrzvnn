@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anyone can try to edit Grokipedia 0.2 but Grok is running the show](https://www.theverge.com/report/837431/grokipedia-update-editing-mess)
  - [Thursday&#39;s Cold Moon Is the Last Supermoon of the Year. Here&#39;s How and When to View It](https://www.wired.com/story/cold-moon-supermoon-december-how-to-view/)
  - [The annual app recaps for 2025: all Wrapped up](https://www.theverge.com/news/837280/spotify-wrapped-2025-recap-annual-best-of-data)
  - [IoT security device maker Verkada hit a $5.8B valuation after new funding, source says totaling $100M, led by CapitalG; it passed $1B in annualized bookings &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251203/p28#a251203p28)
- - [This new Honeywell Home smart thermostat can answer your Ring doorbell](https://www.theverge.com/news/837246/honeywell-home-x8s-smart-thermostat-launches-matter-ring-compatibility)
- - [An unsettling indie game about horses keeps getting banned from stores](https://www.theverge.com/news/837278/horses-banned-steam-epic-games-store)<!-- TECH:END -->
+ - [This new Honeywell Home smart thermostat can answer your Ring doorbell](https://www.theverge.com/news/837246/honeywell-home-x8s-smart-thermostat-launches-matter-ring-compatibility)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

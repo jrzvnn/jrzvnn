@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After an online backlash, Amazon Prime Video removes AI-generated English and Spanish dubs that it had quietly rolled out in beta for several anime titles &lpar;James Whitbrook/Gizmodo&rpar;](http://www.techmeme.com/251203/p24#a251203p24)
- - [Decentralized exchange Ostium raised a $20M Series A led by General Catalyst and Jump Trading, a source says at a ~$250M valuation, after previously raising $8M &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251203/p23#a251203p23)
- - [Amazon&#39;s top $1,349 M5 MacBook Pro deal is still in stock for the holidays](https://appleinsider.com/articles/25/12/03/amazons-top-1349-m5-macbook-pro-deal-is-still-in-stock-for-the-holidays?utm_source=rss)
- - [TikTok plans to invest $37.7B+ to build a data center in Brazil&#39;s port of Pecém, partnering with Omnia and Casa dos Ventos, its first Latin American project &lpar;Bloomberg&rpar;](http://www.techmeme.com/251203/p22#a251203p22)
- - [Sources: multiple Microsoft divisions lowered how much salespeople are supposed to grow sales of certain AI products after missing growth targets, a rare move &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/251203/p21#a251203p21)<!-- TECH:END -->
+ - [Amazon Fire TV adds an Alexa+ feature enabling Prime Video users to skip to movie scenes using natural language descriptions, character names, or famous quotes &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/251203/p25#a251203p25)
+ - [Anyone want to buy a car that drives itself?](https://www.theverge.com/transportation/837014/autonomous-vehicle-privately-owned-who-wants)
+ - [Amazon says Alexa Plus can find that movie scene you&amp;#8217;re thinking about](https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene)
+ - [India blinks: won&#39;t require Apple to preinstall a state app on iPhone](https://appleinsider.com/articles/25/12/03/india-blinks-wont-require-apple-to-preinstall-a-state-app-on-iphone?utm_source=rss)
+ - [After an online backlash, Amazon Prime Video removes AI-generated English and Spanish dubs that it had quietly rolled out in beta for several anime titles &lpar;James Whitbrook/Gizmodo&rpar;](http://www.techmeme.com/251203/p24#a251203p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

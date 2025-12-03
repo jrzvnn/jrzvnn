@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Fire TV adds an Alexa+ feature enabling Prime Video users to skip to movie scenes using natural language descriptions, character names, or famous quotes &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/251203/p25#a251203p25)
- - [Anyone want to buy a car that drives itself?](https://www.theverge.com/transportation/837014/autonomous-vehicle-privately-owned-who-wants)
- - [Amazon says Alexa Plus can find that movie scene you&amp;#8217;re thinking about](https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene)
+ - [MLS puts Apple&#39;s iPhone 17 Pro to work as a broadcast camera](https://appleinsider.com/articles/25/12/03/mls-puts-apples-iphone-17-pro-to-work-as-a-broadcast-camera?utm_source=rss)
+ - [India says it revoked an order to smartphone makers to preload state-run cybersecurity app Sanchar Saathi on all new smartphones, after protests from lawmakers &lpar;Reuters&rpar;](http://www.techmeme.com/251203/p26#a251203p26)
  - [India blinks: won&#39;t require Apple to preinstall a state app on iPhone](https://appleinsider.com/articles/25/12/03/india-blinks-wont-require-apple-to-preinstall-a-state-app-on-iphone?utm_source=rss)
- - [After an online backlash, Amazon Prime Video removes AI-generated English and Spanish dubs that it had quietly rolled out in beta for several anime titles &lpar;James Whitbrook/Gizmodo&rpar;](http://www.techmeme.com/251203/p24#a251203p24)<!-- TECH:END -->
+ - [Amazon Fire TV adds an Alexa+ feature enabling Prime Video users to skip to movie scenes using natural language descriptions, character names, or famous quotes &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/251203/p25#a251203p25)
+ - [Alexa Plus Will Summon a Movie Scene for You, and Prime Video Will Stream It](https://www.cnet.com/tech/services-and-software/alexa-plus-will-summon-a-movie-scene-for-you-and-prime-video-will-stream-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

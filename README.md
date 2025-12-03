@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - 💣 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
- - 😝 [Good old CEO](http://9gag.com/gag/aNDGVA0)
+ - 😝 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
+ - 😝 [No need subtitle](http://9gag.com/gag/ajP3L9g)
+ - 💣 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
+ - 😝 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
  - 👉 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)<!-- MEMES:END -->
 
 ---

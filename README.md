@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [India says it revoked an order to smartphone makers to preload state-run cybersecurity app Sanchar Saathi on all new smartphones, after protests from lawmakers &lpar;Reuters&rpar;](http://www.techmeme.com/251203/p26#a251203p26)
  - [India blinks: won&#39;t require Apple to preinstall a state app on iPhone](https://appleinsider.com/articles/25/12/03/india-blinks-wont-require-apple-to-preinstall-a-state-app-on-iphone?utm_source=rss)
  - [Amazon Fire TV adds an Alexa+ feature enabling Prime Video users to skip to movie scenes using natural language descriptions, character names, or famous quotes &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/251203/p25#a251203p25)
- - [Alexa Plus Will Summon a Movie Scene for You, and Prime Video Will Stream It](https://www.cnet.com/tech/services-and-software/alexa-plus-will-summon-a-movie-scene-for-you-and-prime-video-will-stream-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anyone want to buy a car that drives itself?](https://www.theverge.com/transportation/837014/autonomous-vehicle-privately-owned-who-wants)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

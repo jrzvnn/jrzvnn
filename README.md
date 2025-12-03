@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google launches Workspace Studio, a no-code tool to create, design, manage, and share AI agents, for users on Business and Enterprise Workspace plans &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251203/p39#a251203p39)
  - [Mark Zuckerberg announces a new creative studio in Meta&#39;s Reality Labs led by Alan Dye, who will be joined by Apple design lead Billy Sorrentino &lpar;Mark Zuckerberg/@zuck@threads.com&rpar;](http://www.techmeme.com/251203/p38#a251203p38)
  - [BMW iX3 first drive: a ‘New Class’ is in session](https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price)
  - [BMW iX3 2026 Review: Price, Specs, Availability](https://www.wired.com/review/bmw-ix3-2026/)
- - [HBO Max: The 30 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-tv-shows-on-hbo-max-dec-2025/#ftag=CAD590a51e)
- - [I Brought Retro Games Back to Life the AI Way, Thanks to Gemini Vibe Coding](https://www.cnet.com/tech/services-and-software/the-most-fun-ive-ever-had-with-ai-is-vibe-coding-retro-video-games-heres-how-i-did-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HBO Max: The 30 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-tv-shows-on-hbo-max-dec-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

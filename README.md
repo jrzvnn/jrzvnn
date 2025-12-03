@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and docs: Palantir&#39;s Immigration OS helps ICE track undocumented immigrants and deport them; a decade ago, Alex Karp said Trump&#39;s plans made &quot;no sense&quot; &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/251203/p16#a251203p16)
- - [Some YouTube creators are using AI video tools to make content for kids and babies, causing concern that their brains are being shaped by AI-generated videos &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/251203/p15#a251203p15)
- - [4 Best Smart Displays &lpar;2025&rpar;: Tested By a Smart Home Addict](https://www.wired.com/gallery/best-smart-displays/)
- - [Mirumi the furry companion robot is now available on Kickstarter](https://www.theverge.com/news/836762/yukai-engineering-mirumi-furry-companion-robot-preorder-available-kickstarter)
- - [AI Forensics: 354 AI-focused TikTok accounts pushed 43K posts made with GenAI tools that hit 4.5B views, including posts with anti-immigrant and sexual material &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/251203/p14#a251203p14)<!-- TECH:END -->
+ - [Spotify unveils 2025&#39;s top 50 most popular US podcasts, led by The Joe Rogan Experience for the fifth consecutive year; 24 of the top 50 now offer video content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251203/p19#a251203p19)
+ - [Spotify releases Wrapped 2025, adding features like Wrapped Party, its first live interactive experience, a Top Song Quiz, Listening Age, and Wrapped Clubs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251203/p18#a251203p18)
+ - [New Hearing Aid Company, Foretell, Brings in Steve Martin and Others as Fans](https://www.wired.com/story/hearing-aid-startup-ai-fortell/)
+ - [We played Metroid Prime 4, ask us anything](https://www.theverge.com/games/836580/metroid-prime-4-ask-me-anything)
+ - [Spotify Wrapped 2025 turns listening into a competition](https://www.theverge.com/news/837127/spotify-wrapped-party-2025-music-competition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

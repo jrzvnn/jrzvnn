@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Way better than twilight](http://9gag.com/gag/aAyLExd)
- - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - 💣 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
- - 😝 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
- - 👉 [A fitting end](http://9gag.com/gag/abAL4PB)<!-- MEMES:END -->
+ - 😝 [It&#39;s sad but many jobs don&#39;t allow people to sit. Especially people working in restaurants and other customer services jobs.](http://9gag.com/gag/a7om0Wr)
+ - 😝 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
+ - 💣 [DUI](http://9gag.com/gag/aAyLK50)
+ - 😝 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
+ - 👉 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)<!-- MEMES:END -->
 
 ---
 

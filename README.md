@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia&#39;s Roskomnadzor blocks access to Roblox, claiming that it is &quot;rife with inappropriate content&quot; and spreading &quot;LGBT propaganda&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251203/p27#a251203p27)
- - [Linux usage on Steam hits a record high for the second month in a row](https://www.theverge.com/news/837364/linux-usage-steam-hardware-survey-november-2025)
- - [The Trump Administration Wants Immigrants to Self-Deport. It’s a Shit Show](https://www.wired.com/story/trump-administration-wants-immigrants-to-self-deport/)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [Garmin’s new satellite communicator adds a touchscreen and photo sharing](https://www.theverge.com/news/837313/garmin-inreach-mini-3-plus-satellite-communicator-color-touchscreen-messaging)<!-- TECH:END -->
+ - [La Liga Soccer: Stream Athletic Bilbao vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-athletic-bilbao-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)
+ - [Elon Musk is on a racist posting spree again](https://www.theverge.com/news/837423/elon-musk-x-racist-posts-minnesota)
+ - [Holiday MacBook Air deals slash prices by up to $600](https://appleinsider.com/articles/25/12/03/holiday-macbook-air-deals-slash-prices-by-up-to-600?utm_source=rss)
+ - [Premier League Soccer: Stream Arsenal vs. Brentford Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-arsenal-vs-brentford-live-from-anywhere/#ftag=CAD590a51e)
+ - [Russia&#39;s Roskomnadzor blocks access to Roblox, claiming that it is &quot;rife with inappropriate content&quot; and distributing extremist materials and &quot;LGBT propaganda&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251203/p27#a251203p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

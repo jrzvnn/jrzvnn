@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD CEO Lisa Su Says Concerns About an AI Bubble Are Overblown](https://www.wired.com/story/big-interview-event-lisa-su-amd/)
+ - [Microsoft will increase prices for commercial Office subscriptions on July 1, 2026, including a 33% jump for front-line worker plans like Microsoft 365 F1 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251204/p39#a251204p39)
+ - [Google’s AI model is getting really good at spoofing phone photos](https://www.theverge.com/report/837971/google-nano-banana-pro-realistic-phone-photos)
  - [Russia shutters FaceTime as it tightens control over apps &amp; communication](https://appleinsider.com/articles/25/12/04/russia-shutters-facetime-as-it-tightens-control-over-apps-communication?utm_source=rss)
- - [Ray-Ban’s Meta smart glasses are even cheaper than they were on Black Friday](https://www.theverge.com/tech/838261/ray-ban-meta-smart-glasses-cyber-week-2025-deal-sale)
- - [Phia, founded by Bill Gates&#39; daughter Phoebe to develop an AI search engine accessed via an extension for Chrome and Safari, raised $30M at a $180M valuation &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251204/p38#a251204p38)
- - [There&#39;s still time to grab AirPods 4 ANC for $99, the lowest price ever](https://appleinsider.com/articles/25/12/04/theres-still-time-to-grab-airpods-4-anc-for-99-the-lowest-price-ever?utm_source=rss)
- - [Russia&#39;s Roskomnadzor says it has blocked FaceTime in Russia, claiming the service is being used to organise and &quot;carry out terrorist attacks in the country&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p37#a251204p37)<!-- TECH:END -->
+ - [Ray-Ban’s Meta smart glasses are even cheaper than they were on Black Friday](https://www.theverge.com/tech/838261/ray-ban-meta-smart-glasses-cyber-week-2025-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is testing training LLMs to produce &quot;confessions&quot;, or self-report how they carried out a task and own up to bad behavior, like appearing to lie or cheat &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/251203/p51#a251203p51)
  - [Nvidia says its GB200 Blackwell AI servers boost performance 10x compared to H200 servers for MoE models like Moonshot&#39;s Kimi K2 Thinking and DeepSeek&#39;s R1 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251203/p50#a251203p50)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-4/#ftag=CAD590a51e)
  - [A profile of Databricks co-founder Andy Konwinski, who pivoted from Jehovah&#39;s Witness to helping solve &quot;species-level&quot; problems by funding AI research &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251203/p49#a251203p49)
- - [The Trump administration orders enhanced vetting of H-1B applicants and their families for past work in &quot;censorship&quot;, including fact-checking and online safety &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/251203/p48#a251203p48)
- - [Seattle-based Gradial, which makes AI tools that automate enterprise marketing workflows, raised a $35M Series B led by VMG Partners at a $350M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251203/p47#a251203p47)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 4, #437](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-4-437/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Trump administration orders enhanced vetting of H-1B applicants and their families for past work in &quot;censorship&quot;, including fact-checking and online safety &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/251203/p48#a251203p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

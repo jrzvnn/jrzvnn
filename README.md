@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 😝 [French f**ker](http://9gag.com/gag/apRnPjn)
+ - 😝 [DUI](http://9gag.com/gag/aAyLK50)
  - 💣 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)
- - 😝 [True hero protects his friend during a school shooting and is now recovering](http://9gag.com/gag/apRnbBB)
- - 👉 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)<!-- MEMES:END -->
+ - 😝 [Monowi, Nebraska](http://9gag.com/gag/a7om2dr)
+ - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
 
 ---
 

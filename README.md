@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can AI Look at Your Retina and Diagnose Alzheimer’s? Eric Topol Hopes So](https://www.wired.com/story/big-interview-event-eric-topol-super-agers/)
  - [TBPN signs a partnership with the NYSE, giving the video podcast the same on-floor access enjoyed by major financial networks such as CNBC &lpar;Sam Becker/Fast Company&rpar;](http://www.techmeme.com/251204/p47#a251204p47)
  - [Apple announces even more major executive turnover](https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring)
- - [Google Cloud partners with Replit to expand the use of Google&#39;s cloud offerings and AI models and to jointly support AI use cases for enterprise customers &lpar;CNBC&rpar;](http://www.techmeme.com/251204/p46#a251204p46)
- - [Nintendo’s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
- - [tvOS 26.2 receives second release candidate build only a day after the first](https://appleinsider.com/articles/25/12/04/tvos-262-receives-second-release-candidate-build-only-a-day-after-the-first?utm_source=rss)<!-- TECH:END -->
+ - [AI Sucks at Sudoku, but Its Explanations Are Even Worse. Why That&#39;s Worrisome](https://www.cnet.com/tech/services-and-software/ai-is-bad-at-sudoku-its-even-worse-at-showing-its-work/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 5, #1630](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-5-1630/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

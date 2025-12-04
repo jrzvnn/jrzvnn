@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out Gemini 3 Deep Think to Google AI Ultra subscribers in the Gemini app, after saying in November it needed &quot;extra time for safety evaluations&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251204/p42#a251204p42)
+ - [Trump invites ‘cute’ Japanese kei trucks to come to America](https://www.theverge.com/news/838563/trump-kei-truck-authorize-cute-usdot)
+ - [Jon M. Chu Says AI Couldn’t Have Made One of Wicked’s Best Moments](https://www.wired.com/story/big-interview-event-jon-chu-wicked/)
  - [Lumia, which uses AI to analyze interactions between autonomous agents and humans, raised an $18M seed led by Team8 &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251204/p41#a251204p41)
- - [The 67 Best Movies on Disney+, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
- - [Metroid Prime 4 doesn&amp;#8217;t stand up to Nintendo&amp;#8217;s best](https://www.theverge.com/games/838428/metroid-prime-4-analysis-open-world-nintendo)
- - [FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After January 6](https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/)
- - [Amazon&amp;#8217;s dynamic pricing is causing chaos for school budgets](https://www.theverge.com/news/838491/amazon-dynamic-pricing-school-supplies-islr)<!-- TECH:END -->
+ - [The 67 Best Movies on Disney+, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

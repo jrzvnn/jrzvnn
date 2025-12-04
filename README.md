@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 😝 [Hang your missile toads, it&#39;s that time of year](http://9gag.com/gag/apRnbQ8)
- - 👉 [Do you remember?](http://9gag.com/gag/aVv9ZpM)<!-- MEMES:END -->
+ - 😝 [The woman who drove a snowplow through a pro-Palestinian demonstration blocking a street in Toronto was found not guilty and received only a one-day suspension from her job.](http://9gag.com/gag/aBybPPx)
+ - 😝 [It&#39;s true](http://9gag.com/gag/aBybPnZ)
+ - 💣 [He put his paw on the button and won&#39;t let go](http://9gag.com/gag/a87veX6)
+ - 😝 [Stay happy](http://9gag.com/gag/aKGXemQ)
+ - 👉 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)<!-- MEMES:END -->
 
 ---
 

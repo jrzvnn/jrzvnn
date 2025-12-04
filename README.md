@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jimmy Wales says Wikimedia is working with Big Tech on AI deals similar to Google and reader donations are &quot;not to subsidize OpenAI costing us a ton of money&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p13#a251204p13)
  - [Ofcom fines AVS Group, which runs 18 adult sites, £1M+ under the OSA, the largest penalty so far, and threatens action against a &quot;major social media company&quot; &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251204/p12#a251204p12)
  - [Sources: Beijing-based Cambricon plans to more than triple its AI chip production to 500K units in 2026, including 300K of its advanced Siyuan 590 and 690 chips &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/251204/p11#a251204p11)
  - [Google DeepMind&#39;s mechanistic interpretability team details why it shifted from fully reverse-engineering neural nets to a focus on &quot;pragmatic interpretability&quot; &lpar;AI Alignment Forum&rpar;](http://www.techmeme.com/251204/p10#a251204p10)
- - [BNP Paribas says it is joining nine other European banks including ING, UniCredit, and CaixaBank developing a euro-pegged stablecoin in a JV called Qivalis &lpar;CoinDesk&rpar;](http://www.techmeme.com/251204/p9#a251204p9)
- - [Sources: SoftBank agrees to sell a large portion of its stake in InMobi back to the Indian mobile ad company for ~$250M, reducing its holding to &lt;10% from 30%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p8#a251204p8)<!-- TECH:END -->
+ - [BNP Paribas says it is joining nine other European banks including ING, UniCredit, and CaixaBank developing a euro-pegged stablecoin in a JV called Qivalis &lpar;CoinDesk&rpar;](http://www.techmeme.com/251204/p9#a251204p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

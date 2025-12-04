@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haripur Pakistan&#39;s &#39;Fire Mountain&#39; Continues to Burn Decades After 1955 Gas Blast](http://9gag.com/gag/aNDGVOv)
- - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - 😝 [Well well well ...](http://9gag.com/gag/a0eDn3B)
+ - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
  - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 😝 [Stay happy](http://9gag.com/gag/aKGXemQ)
+ - 😝 [Over half of new cars in Europe are now a SUV. We were once the continent of hot hatchbacks.](http://9gag.com/gag/aKGXY3b)
  - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 ---

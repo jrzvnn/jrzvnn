@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple replacing Alan Dye with Stephen Lemay may fix Jony Ive&#39;s mistake by restoring the Jobsian &quot;design is how it works&quot; ethos in Apple&#39;s UI design &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251204/p3#a251204p3)
+ - [Nomad Goods Promo Codes: 25% Off](https://www.wired.com/story/nomad-discount-code/)
  - [Paris-based CRM unicorn Brevo, formerly known as Sendinblue, raised €500M and says it surpassed €200M in ARR in 2025 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251204/p2#a251204p2)
  - [Sources: the European Commission plans a new antitrust probe into Meta over its rollout of AI features in WhatsApp; the probe will not fall under the DMA &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251204/p1#a251204p1)
- - [OpenAI is testing training LLMs to produce &quot;confessions&quot;, or self-report how they carried out a task and own up to bad behavior, like appearing to lie or cheat &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/251203/p51#a251203p51)
- - [Nvidia says its GB200 Blackwell AI servers boost performance 10x compared to H200 servers for MoE models like Moonshot&#39;s Kimi K2 Thinking and DeepSeek&#39;s R1 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251203/p50#a251203p50)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI is testing training LLMs to produce &quot;confessions&quot;, or self-report how they carried out a task and own up to bad behavior, like appearing to lie or cheat &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/251203/p51#a251203p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

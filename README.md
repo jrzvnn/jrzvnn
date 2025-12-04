@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well well well ...](http://9gag.com/gag/a0eDn3B)
- - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 😝 [Over half of new cars in Europe are now a SUV. We were once the continent of hot hatchbacks.](http://9gag.com/gag/aKGXY3b)
- - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
+ - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
+ - 💣 [It&#39;s SIR!!!](http://9gag.com/gag/a9y48PL)
+ - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 👉 [Well said, lady](http://9gag.com/gag/apRnPeB)<!-- MEMES:END -->
 
 ---
 

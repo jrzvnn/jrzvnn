@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip giants&#39; efforts to turn Phoenix into a US hub may hinge on training local workers; an estimated 115K local chip jobs are set to be created in four years &lpar;Peter S. Goodman/New York Times&rpar;](http://www.techmeme.com/251204/p17#a251204p17)
- - [Documents: Foxconn&#39;s subsidiaries and China&#39;s Luxshare plan expansions in Vietnam to boost gaming device production, reinforcing Vietnam&#39;s supply chain role &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p16#a251204p16)
- - [How TSMC, Intel, and Amkor are transforming Phoenix into the US&#39; chip hub, investing tens of billions and showing the difficulties of large-scale US projects &lpar;Peter S. Goodman/New York Times&rpar;](http://www.techmeme.com/251204/p15#a251204p15)
- - [The Louisiana Department of Wildlife and Fisheries Is Detaining People for ICE](https://www.wired.com/story/story/the-louisiana-department-of-wildlife-and-fisheries-is-detaining-people-for-ice/)
- - [The Best Golf Rangefinders](https://www.wired.com/gallery/best-golf-rangefinders/)<!-- TECH:END -->
+ - [A look at &quot;TSMC Village&quot; in North Phoenix, as TSMC brings an influx of skilled workers from Taiwan who face challenges like adapting to a sprawling suburbia &lpar;Peter S. Goodman/New York Times&rpar;](http://www.techmeme.com/251204/p19#a251204p19)
+ - [Dye&#39;s departure doesn&#39;t mean Liquid Glass is going anywhere](https://appleinsider.com/articles/25/12/04/dyes-departure-doesnt-mean-liquid-glass-is-going-anywhere?utm_source=rss)
+ - [Malaysian authorities are using drones, power sensors, and tips to hunt Bitcoin miners over power theft, which cost a state energy company $1.1B over five years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p18#a251204p18)
+ - [How to Watch the Leonids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
+ - [Get ready for an AI country music explosion](https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

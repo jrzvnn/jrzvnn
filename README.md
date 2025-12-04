@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great success](http://9gag.com/gag/aMV0zgM)
- - 😝 [Food is not a drug, but that cheese pull is addictive](http://9gag.com/gag/aE0jDBo)
- - 💣 [Father of the year here](http://9gag.com/gag/awy940r)
- - 😝 [No comment](http://9gag.com/gag/a6ZepOb)
- - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
+ - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 😝 [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
+ - 💣 [Best examples?](http://9gag.com/gag/axyePZb)
+ - 😝 [Cheers](http://9gag.com/gag/aD2qXWd)
+ - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After Jan. 6](https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/)
+ - [Amazon&amp;#8217;s dynamic pricing is causing chaos for school budgets](https://www.theverge.com/news/838491/amazon-dynamic-pricing-school-supplies-islr)
+ - [M5 MacBook Pro with 24GB RAM drops to record-low $1,499 &lpar;$300 off&rpar;](https://appleinsider.com/articles/25/12/04/m5-macbook-pro-with-24gb-ram-drops-to-record-low-1499-300-off?utm_source=rss)
  - [Trump admin may deny H1-B visas to people who worked in content moderation, report says](https://www.theverge.com/news/838489/trump-admin-h1b-visas-content-moderation)
- - [Sources: Fluidstack, an AI cloud provider that is aiding Google&#39;s effort to expand access to its TPUs, is in talks to raise $700M+ led by Situational Awareness &lpar;The Information&rpar;](http://www.techmeme.com/251204/p40#a251204p40)
- - [Microsoft is quietly walking back its diversity efforts](https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad)
- - [AMD CEO Lisa Su Says Concerns About an AI Bubble Are Overblown](https://www.wired.com/story/big-interview-event-lisa-su-amd/)
- - [Microsoft will increase prices for commercial Office subscriptions on July 1, 2026, including a 33% jump for front-line worker plans like Microsoft 365 F1 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251204/p39#a251204p39)<!-- TECH:END -->
+ - [Sources: Fluidstack, an AI cloud provider that is aiding Google&#39;s effort to expand access to its TPUs, is in talks to raise $700M+ led by Situational Awareness &lpar;The Information&rpar;](http://www.techmeme.com/251204/p40#a251204p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

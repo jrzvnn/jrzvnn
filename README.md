@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at &quot;TSMC Village&quot; in North Phoenix, as TSMC brings an influx of skilled workers from Taiwan who face challenges like adapting to a sprawling suburbia &lpar;Peter S. Goodman/New York Times&rpar;](http://www.techmeme.com/251204/p19#a251204p19)
- - [Dye&#39;s departure doesn&#39;t mean Liquid Glass is going anywhere](https://appleinsider.com/articles/25/12/04/dyes-departure-doesnt-mean-liquid-glass-is-going-anywhere?utm_source=rss)
- - [Malaysian authorities are using drones, power sensors, and tips to hunt Bitcoin miners over power theft, which cost a state energy company $1.1B over five years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p18#a251204p18)
- - [How to Watch the Leonids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [Get ready for an AI country music explosion](https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai)<!-- TECH:END -->
+ - [The EU says it is gathering information and feedback from ~200 stakeholders on Google&#39;s offer to fix alleged antitrust violations linked to its ad tech business &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p22#a251204p22)
+ - [A Startup Says It Has Found a Hidden Source of Geothermal Energy](https://www.wired.com/story/startup-found-hidden-source-geothermal-energy/)
+ - [University of Virginia professor Ken Ono, one of the world&#39;s most prominent mathematicians, joins AI startup Axiom Math, which is building an &quot;AI mathematician&quot; &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p21#a251204p21)
+ - [The EU is probing Meta over WhatsApp’s AI chatbot restrictions](https://www.theverge.com/news/838020/meta-whatsapp-eu-antitrust-investigation-ai-tools)
+ - [Sources: Amazon, the USPS&#39; top customer with $6B+ in revenue in 2025, is considering ending its deal at the end of 2026 and expanding its own delivery network &lpar;Jacob Bogage/Washington Post&rpar;](http://www.techmeme.com/251204/p20#a251204p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

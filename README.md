@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Espionage thriller &#39;Tehran&#39; sneaks back onto Apple TV in January](https://appleinsider.com/articles/25/12/04/espionage-thriller-tehran-sneaks-back-onto-apple-tv-in-january?utm_source=rss)
+ - [A US federal judge rules that OpenAI must produce 20M anonymized ChatGPT user logs in the copyright lawsuit brought by the New York Times and other news outlets &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251204/p31#a251204p31)
  - [The Apple Watch SE 3 is still at its Cyber Monday low](https://www.theverge.com/gadgets/838132/apple-watch-se-3-ring-battery-doorbell-deal-sale)
  - [Meta could axe up to one-third of its ‘metaverse’ budget next year](https://www.theverge.com/news/838186/meta-metaverse-budget-cuts-2026)
- - [7AI, which builds AI agents that analyze and triage cybersecurity alerts, raised a $130M Series A at a ~$700M valuation, bringing its total raised to $166M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p30#a251204p30)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Proton now has an end-to-end encrypted spreadsheet app](https://www.theverge.com/news/838127/proton-sheets-spreadsheet-app-privacy)<!-- TECH:END -->
+ - [7AI, which builds AI agents that analyze and triage cybersecurity alerts, raised a $130M Series A at a ~$700M valuation, bringing its total raised to $166M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p30#a251204p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

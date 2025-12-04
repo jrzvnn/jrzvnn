@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some people are feeding their private medical information into chatbots like ChatGPT and Gemini, only to receive generalized or inaccurate diagnoses in response &lpar;Maggie Astor/New York Times&rpar;](http://www.techmeme.com/251204/p7#a251204p7)
  - [Thoughts on AI progress and why AI labs&#39; actions hint at a worldview in which AI models will continue to fare poorly at generalization and on-the-job learning &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251204/p6#a251204p6)
  - [In an interview, Dario Amodei suggests some AI companies are taking on too much risk by &quot;YOLO-ing&quot; and committing to spend hundreds of billions on data centers &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251204/p5#a251204p5)
  - [Horizon Quantum, which aims to list on Nasdaq via a SPAC in Q1 2026, claims it is the first private company to deploy a commercial quantum computer in Singapore &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251204/p4#a251204p4)
- - [Apple replacing Alan Dye with Stephen Lemay may fix Jony Ive&#39;s mistake by restoring the Jobsian &quot;design is how it works&quot; ethos in Apple&#39;s UI design &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251204/p3#a251204p3)
- - [Nomad Goods Promo Codes: 25% Off](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
+ - [Apple replacing Alan Dye with Stephen Lemay may fix Jony Ive&#39;s mistake by restoring the Jobsian &quot;design is how it works&quot; ethos in Apple&#39;s UI design &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251204/p3#a251204p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

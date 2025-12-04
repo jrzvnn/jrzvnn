@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan&#39;s interior ministry announces a one-year ban on access to Chinese social media app Xiaohongshu, aka RedNote, citing 1,700+ fraud cases since 2024 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251204/p26#a251204p26)
  - [The EU expects to launch a formal bidding process for its AI gigafactories in early 2026 and close it in summer 2026, as the bloc seeks to catch up with the US &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p25#a251204p25)
+ - [Pantone&#39;s Color of the Year Is Cloud Dancer, Coming Soon to Phones, Play-Doh and More](https://www.cnet.com/tech/mobile/pantones-color-of-the-year-is-cloud-dancer-coming-soon-to-phones-play-doh-and-more/#ftag=CAD590a51e)
  - [AI legal software startup Harvey raised $160M led by a16z at an $8B valuation, up from $3B after raising $300M in February, taking its funding in 2025 to $760M &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251204/p24#a251204p24)
- - [Yann LeCun says his unnamed AI startup will not receive financial backing from Meta, will focus on advanced AI world models, and hints it will be Paris-based &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/251204/p23#a251204p23)
- - [The EU says it is gathering information and feedback from ~200 stakeholders on Google&#39;s offer to fix alleged antitrust violations linked to its ad tech business &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p22#a251204p22)
- - [A Startup Says It Has Found a Hidden Source of Geothermal Energy](https://www.wired.com/story/startup-found-hidden-source-geothermal-energy/)<!-- TECH:END -->
+ - [Yann LeCun says his unnamed AI startup will not receive financial backing from Meta, will focus on advanced AI world models, and hints it will be Paris-based &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/251204/p23#a251204p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

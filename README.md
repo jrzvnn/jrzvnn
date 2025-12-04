@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of AI hearing aid startup Fortell, which has raised $150M so far and is targeting affluent clients in NYC with a $6,800 device that uses a custom chip &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251204/p29#a251204p29)
+ - [Russia bans Roblox over &amp;#8216;LGBT propaganda&amp;#8217; and &amp;#8216;extremist&amp;#8217; content](https://www.theverge.com/news/838101/russia-roblox-ban-extremist-content-lgbt-propaganda)
  - [Apple cuts Night mode Portraits on iPhone 17 Pro as users look for answers](https://appleinsider.com/articles/25/12/04/apple-cuts-night-mode-portraits-on-iphone-17-pro-as-users-look-for-answers?utm_source=rss)
  - [The 19 Best Golf Gifts for Every Kind of Golfer &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
- - [Flex, which offers AI-based financial services, credit, and more to mid-sized companies, raised a $60M Series B led by Portage, source says at a $500M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/251204/p28#a251204p28)
- - [Nvidia’s new RTX 50-series GPU driver restores PhysX support for popular games](https://www.theverge.com/news/838043/nvidia-rtx-50-series-physx-support-driver)
- - [Sources: Meta is considering deep budget cuts to its metaverse efforts in 2026, potentially as high as 30% and most likely including layoffs as early as January &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251204/p27#a251204p27)<!-- TECH:END -->
+ - [Flex, which offers AI-based financial services, credit, and more to mid-sized companies, raised a $60M Series B led by Portage, source says at a $500M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/251204/p28#a251204p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

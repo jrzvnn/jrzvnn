@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind&#39;s mechanistic interpretability team details why it shifted from fully reverse-engineering neural nets to a focus on &quot;pragmatic interpretability&quot; &lpar;AI Alignment Forum&rpar;](http://www.techmeme.com/251204/p10#a251204p10)
  - [BNP Paribas says it is joining nine other European banks including ING, UniCredit, and CaixaBank developing a euro-pegged stablecoin in a JV called Qivalis &lpar;CoinDesk&rpar;](http://www.techmeme.com/251204/p9#a251204p9)
  - [Sources: SoftBank agrees to sell a large portion of its stake in InMobi back to the Indian mobile ad company for ~$250M, reducing its holding to &lt;10% from 30%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p8#a251204p8)
  - [Some people are feeding their private medical information into chatbots like ChatGPT and Gemini, only to receive generalized or inaccurate diagnoses in response &lpar;Maggie Astor/New York Times&rpar;](http://www.techmeme.com/251204/p7#a251204p7)
- - [Thoughts on AI progress and why AI labs&#39; actions hint at a worldview in which AI models will continue to fare poorly at generalization and on-the-job learning &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251204/p6#a251204p6)
- - [DealBook Summit: Dario Amodei suggests some AI companies are taking on too much risk by &quot;YOLO-ing&quot; and committing to spend hundreds of billions on data centers &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251204/p5#a251204p5)<!-- TECH:END -->
+ - [Thoughts on AI progress and why AI labs&#39; actions hint at a worldview in which AI models will continue to fare poorly at generalization and on-the-job learning &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251204/p6#a251204p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

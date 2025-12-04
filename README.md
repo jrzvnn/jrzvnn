@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia says its GB200 Blackwell AI servers boost performance 10x compared to H200 servers for MoE models like Moonshot&#39;s Kimi K2 Thinking and DeepSeek&#39;s R1 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251203/p50#a251203p50)
  - [A profile of Databricks co-founder Andy Konwinski, who pivoted from Jehovah&#39;s Witness to helping solve &quot;species-level&quot; problems by funding AI research &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251203/p49#a251203p49)
  - [The Trump administration orders enhanced vetting of H-1B applicants and their families for past work in &quot;censorship&quot;, including fact-checking and online safety &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/251203/p48#a251203p48)
  - [Seattle-based Gradial, which makes AI tools that automate enterprise marketing workflows, raised a $35M Series B led by VMG Partners at a $350M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251203/p47#a251203p47)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 4, #437](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-4-437/#ftag=CAD590a51e)
- - [Sources: Sam Altman reached out to at least one rocket maker, Stoke Space, last summer for OpenAI to secure a controlling stake; the talks are no longer active &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p46#a251203p46)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 4, #437](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-4-437/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

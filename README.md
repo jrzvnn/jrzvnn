@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia&#39;s Roskomnadzor says it has blocked FaceTime in Russia, claiming the service is being used to organise and &quot;carry out terrorist attacks in the country&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p37#a251204p37)
- - [Sources: Polymarket has recruited staff for a market making team that could face off against its customers; Kalshi&#39;s similar unit exposed Kalshi to criticism &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p36#a251204p36)
- - [Using Kohler&#39;s Poop-Analysis Camera? Double-Check This Key Privacy Setting First](https://www.cnet.com/home/services/kohlers-poop-analysis-camera-privacy-loophole/#ftag=CAD590a51e)
- - [Amazon plans to release its $630 Kindle Scribe Colorsoft and $500 Kindle Scribe on December 10, after announcing them in September, but won&#39;t offer preorders &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251204/p35#a251204p35)
- - [Amazon is reportedly ready to drop its USPS deal if negotiations fall through](https://www.theverge.com/news/838255/amazon-usps-delivery-contract-2026)<!-- TECH:END -->
+ - [Russia shutters FaceTime as it tightens control over apps &amp; communication](https://appleinsider.com/articles/25/12/04/russia-shutters-facetime-as-it-tightens-control-over-apps-communication?utm_source=rss)
+ - [Ray-Ban’s Meta smart glasses are even cheaper than they were on Black Friday](https://www.theverge.com/tech/838261/ray-ban-meta-smart-glasses-cyber-week-2025-deal-sale)
+ - [Phia, founded by Bill Gates&#39; daughter Phoebe to develop an AI search engine accessed via an extension for Chrome and Safari, raised $30M at a $180M valuation &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251204/p38#a251204p38)
+ - [There&#39;s still time to grab AirPods 4 ANC for $99, the lowest price ever](https://appleinsider.com/articles/25/12/04/theres-still-time-to-grab-airpods-4-anc-for-99-the-lowest-price-ever?utm_source=rss)
+ - [Russia&#39;s Roskomnadzor says it has blocked FaceTime in Russia, claiming the service is being used to organise and &quot;carry out terrorist attacks in the country&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p37#a251204p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

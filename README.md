@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ricky Gervais is a national treasure for a reason](http://9gag.com/gag/aLnOGbv)
- - 😝 [Well it is what it is](http://9gag.com/gag/aBybEjz)
- - 💣 [The woman who drove a snowplow through a pro-Palestinian demonstration blocking a street in Toronto was found not guilty and received only a one-day suspension from her job.](http://9gag.com/gag/aBybPPx)
- - 😝 [It&#39;s true](http://9gag.com/gag/aBybPnZ)
- - 👉 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)<!-- MEMES:END -->
+ - 😝 [DUI](http://9gag.com/gag/aAyLK50)
+ - 😝 [French f**ker](http://9gag.com/gag/apRnPjn)
+ - 💣 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)
+ - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 👉 [Wednesday who?](http://9gag.com/gag/awy9Lm8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan&#39;s interior ministry announces a one-year ban on access to Chinese social media app Xiaohongshu, aka RedNote, citing 1,700+ fraud cases since 2024 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251204/p26#a251204p26)
- - [The EU expects to launch a formal bidding process for its AI gigafactories in early 2026 and close it in summer 2026, as the bloc seeks to catch up with the US &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p25#a251204p25)
- - [Pantone&#39;s Color of the Year Is Cloud Dancer, Coming Soon to Phones, Play-Doh and More](https://www.cnet.com/tech/mobile/pantones-color-of-the-year-is-cloud-dancer-coming-soon-to-phones-play-doh-and-more/#ftag=CAD590a51e)
- - [AI legal software startup Harvey raised $160M led by a16z at an $8B valuation, up from $3B after raising $300M in February, taking its funding in 2025 to $760M &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251204/p24#a251204p24)
- - [Yann LeCun says his unnamed AI startup will not receive financial backing from Meta, will focus on advanced AI world models, and hints it will be Paris-based &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/251204/p23#a251204p23)<!-- TECH:END -->
+ - [Flex, which offers AI-based financial services, credit, and more to mid-sized companies, raised a $60M Series B led by Portage, source says at a $500M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/251204/p28#a251204p28)
+ - [Nvidia’s new RTX 50-series GPU driver restores PhysX support for popular games](https://www.theverge.com/news/838043/nvidia-rtx-50-series-physx-support-driver)
+ - [Sources: Meta plans deep budget cuts to its metaverse efforts in 2026, potentially as high as 30% and most likely including layoffs as early as January &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251204/p27#a251204p27)
+ - [Yahoo is using AI to recap football games in real time](https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai)
+ - [Tiimo, Dredge, Cyberpunk 2077 win big at the 2025 App Store Awards](https://appleinsider.com/articles/25/12/04/tiimo-dredge-cyberpunk-2077-win-big-at-the-2025-app-store-awards?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

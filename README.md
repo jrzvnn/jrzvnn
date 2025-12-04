@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [React discloses an unauthenticated remote code execution flaw in React Server Components; Wiz says 39% of cloud environments contain vulnerable instances &lpar;The Hacker News&rpar;](http://www.techmeme.com/251203/p42#a251203p42)
- - [Reddit CEO Steve Huffman says the company is &quot;moving away&quot; from r/popular, the default feed for new users, and will replace it with more personalized feeds &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251203/p41#a251203p41)
- - [Jensen Huang says &quot;we don&#39;t know&quot; if China would accept Nvidia&#39;s H200 AI chips even if the US relaxed export controls, following a meeting with President Trump &lpar;Bloomberg&rpar;](http://www.techmeme.com/251203/p40#a251203p40)
- - [Google launches Workspace Studio, a no-code tool to create, design, manage, and share AI agents, for users on Business and Enterprise Workspace plans &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251203/p39#a251203p39)
- - [Mark Zuckerberg announces a new creative studio in Meta&#39;s Reality Labs led by Alan Dye, who will be joined by Apple design lead Billy Sorrentino &lpar;Mark Zuckerberg/@zuck@threads.com&rpar;](http://www.techmeme.com/251203/p38#a251203p38)<!-- TECH:END -->
+ - [Sources: Sam Altman reached out to at least one rocket maker, Stoke Space, last summer for OpenAI to secure a controlling stake; the talks are no longer active &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p46#a251203p46)
+ - [Intel shelves plans to spin off or sell a stake in its networking division NEX, after deciding that the business is more likely to succeed as an internal unit &lpar;Bloomberg&rpar;](http://www.techmeme.com/251203/p45#a251203p45)
+ - [California Governor sees Apple CEO&#39;s dealings with Trump as part of his job](https://appleinsider.com/articles/25/12/04/california-governor-sees-apple-ceos-dealings-with-trump-as-part-of-his-job?utm_source=rss)
+ - [Snowflake and Anthropic announce a multi-year $200M deal to make Anthropic&#39;s Claude models available on Snowflake and deploy AI agents across enterprises &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p44#a251203p44)
+ - [Antigravity’s 360-degree drone is here to help you forget DJI](https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

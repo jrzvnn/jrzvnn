@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents: Foxconn&#39;s subsidiaries and China&#39;s Luxshare plan expansions in Vietnam to boost gaming device production, reinforcing Vietnam&#39;s supply chain role &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p16#a251204p16)
  - [How TSMC, Intel, and Amkor are transforming Phoenix into the US&#39; chip hub, investing tens of billions and showing the difficulties of large-scale US projects &lpar;Peter S. Goodman/New York Times&rpar;](http://www.techmeme.com/251204/p15#a251204p15)
- - [Apple removed a Night mode photo feature from the iPhone 17 Pro](https://www.theverge.com/news/838002/apple-iphone-17-pro-night-portrait-mode-removed)
- - [DealBook Summit: Palantir CEO Alex Karp says &quot;the more constitutional you want to make&quot; the US&#39; Caribbean boat strikes &quot;the more you&#39;re going to need&quot; Palantir &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/251204/p14#a251204p14)
- - [Jimmy Wales says Wikimedia is working with Big Tech on AI deals similar to Google and reader donations are &quot;not to subsidize OpenAI costing us a ton of money&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p13#a251204p13)
- - [Ofcom fines AVS Group, which runs 18 adult sites, £1M+ under the OSA, the largest penalty so far, and threatens action against a &quot;major social media company&quot; &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251204/p12#a251204p12)<!-- TECH:END -->
+ - [The Louisiana Department of Wildlife and Fisheries Is Detaining People for ICE](https://www.wired.com/story/story/the-louisiana-department-of-wildlife-and-fisheries-is-detaining-people-for-ice/)
+ - [The Best Golf Rangefinders](https://www.wired.com/gallery/best-golf-rangefinders/)
+ - [Apple removed a Night mode photo feature from the iPhone 17 Pro](https://www.theverge.com/news/838002/apple-iphone-17-pro-night-portrait-mode-removed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

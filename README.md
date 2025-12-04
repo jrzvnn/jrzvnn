@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman reached out to at least one rocket maker, Stoke Space, last summer for OpenAI to secure a controlling stake; the talks are no longer active &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p46#a251203p46)
- - [Intel shelves plans to spin off or sell a stake in its networking division NEX, after deciding that the business is more likely to succeed as an internal unit &lpar;Bloomberg&rpar;](http://www.techmeme.com/251203/p45#a251203p45)
- - [California Governor sees Apple CEO&#39;s dealings with Trump as part of his job](https://appleinsider.com/articles/25/12/04/california-governor-sees-apple-ceos-dealings-with-trump-as-part-of-his-job?utm_source=rss)
- - [Snowflake and Anthropic announce a multi-year $200M deal to make Anthropic&#39;s Claude models available on Snowflake and deploy AI agents across enterprises &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p44#a251203p44)
- - [Antigravity’s 360-degree drone is here to help you forget DJI](https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy)<!-- TECH:END -->
+ - [A profile of Databricks co-founder Andy Konwinski, who pivoted from Jehovah&#39;s Witness to helping solve &quot;species-level&quot; problems by funding AI research &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251203/p49#a251203p49)
+ - [The Trump administration orders enhanced vetting of H-1B applicants and their families for past work in &quot;censorship&quot;, including fact-checking and online safety &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/251203/p48#a251203p48)
+ - [Seattle-based Gradial, which makes AI tools that automate enterprise marketing workflows, raised a $35M Series B led by VMG Partners at a $350M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251203/p47#a251203p47)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 4, #437](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-4-437/#ftag=CAD590a51e)
+ - [Sources: Sam Altman reached out to at least one rocket maker, Stoke Space, last summer for OpenAI to secure a controlling stake; the talks are no longer active &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p46#a251203p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

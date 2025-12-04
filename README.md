@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s Switch 2 Mario Kart bundle is surprisingly still on sale for $50 off](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
+ - [Apple announces even more major executive turnover](https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring)
+ - [Google Cloud partners with Replit to expand the use of Google&#39;s cloud offerings and AI models and to jointly support AI use cases for enterprise customers &lpar;CNBC&rpar;](http://www.techmeme.com/251204/p46#a251204p46)
+ - [Nintendo’s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
  - [tvOS 26.2 receives second release candidate build only a day after the first](https://appleinsider.com/articles/25/12/04/tvos-262-receives-second-release-candidate-build-only-a-day-after-the-first?utm_source=rss)
- - [Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1](https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/)
- - [Apple says general counsel Kate Adams and policy chief Lisa Jackson will retire, and Jennifer Newstead, Meta&#39;s former chief legal officer, will replace Adams &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251204/p45#a251204p45)
- - [Apple executive shuffle continues with Lisa Jackson and Kate Adams retiring](https://appleinsider.com/articles/25/12/04/apple-executive-shuffle-continues-with-lisa-jackson-and-kate-adams-retiring?utm_source=rss)<!-- TECH:END -->
+ - [Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1](https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

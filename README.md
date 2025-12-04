@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people just dont learn](http://9gag.com/gag/a9y48NL)
- - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 💣 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 😝 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
- - 👉 [Do you remember?](http://9gag.com/gag/aVv9ZpM)<!-- MEMES:END -->
+ - 😝 [It&#39;s true](http://9gag.com/gag/aBybPnZ)
+ - 😝 [He put his paw on the button and won&#39;t let go](http://9gag.com/gag/a87veX6)
+ - 💣 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
+ - 😝 [School excursion, no phones, just this for 50 children](http://9gag.com/gag/aoyGLWx)
+ - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
 
 ---
 

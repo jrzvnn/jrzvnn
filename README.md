@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
  - 😝 [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
- - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 😝 [Cheers](http://9gag.com/gag/aD2qXWd)
- - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
+ - 💣 [Best examples?](http://9gag.com/gag/axyePZb)
+ - 😝 [No comment](http://9gag.com/gag/a6ZepOb)
+ - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
 
 ---
 

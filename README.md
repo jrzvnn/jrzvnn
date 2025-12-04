@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of AI hearing aid startup Fortell, which has raised $150M so far and is targeting affluent clients in NYC with a $6,800 device that uses a custom chip &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251204/p29#a251204p29)
- - [Russia bans Roblox over &amp;#8216;LGBT propaganda&amp;#8217; and &amp;#8216;extremist&amp;#8217; content](https://www.theverge.com/news/838101/russia-roblox-ban-extremist-content-lgbt-propaganda)
- - [Apple cuts Night mode Portraits on iPhone 17 Pro as users look for answers](https://appleinsider.com/articles/25/12/04/apple-cuts-night-mode-portraits-on-iphone-17-pro-as-users-look-for-answers?utm_source=rss)
- - [The 19 Best Golf Gifts for Every Kind of Golfer &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
- - [Flex, which offers AI-based financial services, credit, and more to mid-sized companies, raised a $60M Series B led by Portage, source says at a $500M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/251204/p28#a251204p28)<!-- TECH:END -->
+ - [7AI, which builds AI agents that analyze and triage cybersecurity alerts, raised a $130M Series A at a ~$700M valuation, bringing its total raised to $166M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p30#a251204p30)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Proton now has an end-to-end encrypted spreadsheet app](https://www.theverge.com/news/838127/proton-sheets-spreadsheet-app-privacy)
+ - [InnAIO AI Translator T10 Review: Feature-Loaded but Needs Work](https://www.wired.com/review/innaio-t10-ai-translator/)
+ - [The 25 best gifts for travelers who are always on the move](https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

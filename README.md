@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 💣 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
  - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 💣 [Haripur Pakistan&#39;s &#39;Fire Mountain&#39; Continues to Burn Decades After 1955 Gas Blast](http://9gag.com/gag/aNDGVOv)
- - 😝 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)
  - 👉 [Do you remember?](http://9gag.com/gag/aVv9ZpM)<!-- MEMES:END -->
 
 ---

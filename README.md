@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - 😝 [DUI](http://9gag.com/gag/aAyLK50)
- - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 😝 [French f**ker](http://9gag.com/gag/apRnPjn)
- - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
+ - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 😝 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)
+ - 💣 [Read my lips](http://9gag.com/gag/aKGXv7Z)
+ - 😝 [This is how we ended up with pet dogs 15,000 years ago... They got curious about ancient photographer and befriended them...](http://9gag.com/gag/aqyVWZM)
+ - 👉 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)<!-- MEMES:END -->
 
 ---
 

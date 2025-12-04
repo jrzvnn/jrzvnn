@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces its 2025 App Store Award winners and names visual planner Tiimo as the iPhone App of the Year; many of the winning apps have AI integrations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251204/p33#a251204p33)
- - [Spotify wants to be the next big video service](https://www.theverge.com/column/837829/spotify-video-service)
- - [OnePlus launches US preorders for the $899.99+ OnePlus 15 after receiving FCC clearance, which had been delayed due to the US government shutdown &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251204/p32#a251204p32)
- - [AI chatbots can be wooed into crimes with poetry](https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry)
- - [OnePlus 15 launches US preorders after delayed FCC clearance](https://www.theverge.com/news/838017/oneplus-15-preorders-us)<!-- TECH:END -->
+ - [Amazon is reportedly ready to drop its USPS deal if negotiations fall through](https://www.theverge.com/news/838255/amazon-usps-delivery-contract-2026)
+ - [Meta launches a centralized support hub for Facebook and Instagram, with AI-powered search and an AI assistant to answer queries, on its iOS and Android apps &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251204/p34#a251204p34)
+ - [&#39;The Rest is History&#39; crowned Apple Podcasts show of the year](https://appleinsider.com/articles/25/12/04/the-rest-is-history-crowned-apple-podcasts-show-of-the-year?utm_source=rss)
+ - [A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code](https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/)
+ - [Amazon’s new color Kindle Scribe launches on December 10th](https://www.theverge.com/news/838282/amazon-kindle-scribe-colorsoft-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

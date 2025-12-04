@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 💣 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
- - 😝 [Stay happy](http://9gag.com/gag/aKGXemQ)
+ - 😝 [Reverse uno card](http://9gag.com/gag/axyeOpb)
+ - 😝 [Some people just dont learn](http://9gag.com/gag/a9y48NL)
+ - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
  - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 ---

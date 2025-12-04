@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After Jan. 6](https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/)
+ - [FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After January 6](https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/)
  - [Amazon&amp;#8217;s dynamic pricing is causing chaos for school budgets](https://www.theverge.com/news/838491/amazon-dynamic-pricing-school-supplies-islr)
  - [M5 MacBook Pro with 24GB RAM drops to record-low $1,499 &lpar;$300 off&rpar;](https://appleinsider.com/articles/25/12/04/m5-macbook-pro-with-24gb-ram-drops-to-record-low-1499-300-off?utm_source=rss)
  - [Trump admin may deny H1-B visas to people who worked in content moderation, report says](https://www.theverge.com/news/838489/trump-admin-h1b-visas-content-moderation)

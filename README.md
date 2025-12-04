@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple announces its 2025 App Store Award winners and names visual planner Tiimo as the iPhone App of the Year; many of the winning apps have AI integrations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251204/p33#a251204p33)
+ - [Spotify wants to be the next big video service](https://www.theverge.com/column/837829/spotify-video-service)
  - [OnePlus launches US preorders for the $899.99+ OnePlus 15 after receiving FCC clearance, which had been delayed due to the US government shutdown &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251204/p32#a251204p32)
  - [AI chatbots can be wooed into crimes with poetry](https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry)
- - [OnePlus 15 launches US preorders after delayed FCC clearance](https://www.theverge.com/news/838017/oneplus-15-preorders-us)
- - [Boost your AirTag’s battery life to 5 years with this waterproof case.](https://www.theverge.com/news/838182/elevation-lab-time-capsule-apple-airtag-battery-boost)
- - [Espionage thriller &#39;Tehran&#39; sneaks back onto Apple TV in January](https://appleinsider.com/articles/25/12/04/espionage-thriller-tehran-sneaks-back-onto-apple-tv-in-january?utm_source=rss)<!-- TECH:END -->
+ - [OnePlus 15 launches US preorders after delayed FCC clearance](https://www.theverge.com/news/838017/oneplus-15-preorders-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well ...](http://9gag.com/gag/a0eDn3B)
  - 😝 [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
+ - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
  - 💣 [Best examples?](http://9gag.com/gag/axyePZb)
- - 😝 [Cheers](http://9gag.com/gag/aD2qXWd)
+ - 😝 [No comment](http://9gag.com/gag/a6ZepOb)
  - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 ---

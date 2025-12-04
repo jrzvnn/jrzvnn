@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an interview, Dario Amodei suggests some AI companies are taking on too much risk by &quot;YOLO-ing&quot; and committing to spend hundreds of billions on data centers &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251204/p5#a251204p5)
  - [Horizon Quantum, which aims to list on Nasdaq via a SPAC in Q1 2026, claims it is the first private company to deploy a commercial quantum computer in Singapore &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251204/p4#a251204p4)
  - [Apple replacing Alan Dye with Stephen Lemay may fix Jony Ive&#39;s mistake by restoring the Jobsian &quot;design is how it works&quot; ethos in Apple&#39;s UI design &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251204/p3#a251204p3)
  - [Nomad Goods Promo Codes: 25% Off](https://www.wired.com/story/nomad-discount-code/)
- - [Paris-based CRM unicorn Brevo, formerly known as Sendinblue, raised €500M and says it surpassed €200M in ARR in 2025 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251204/p2#a251204p2)
- - [Sources: the European Commission plans a new antitrust probe into Meta over its rollout of AI features in WhatsApp; the probe will not fall under the DMA &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251204/p1#a251204p1)<!-- TECH:END -->
+ - [Paris-based CRM unicorn Brevo, formerly known as Sendinblue, raised €500M and says it surpassed €200M in ARR in 2025 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251204/p2#a251204p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

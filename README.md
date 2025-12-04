@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple executive shuffle continues with Lisa Jackson and Kate Adams retiring](https://appleinsider.com/articles/25/12/04/apple-executive-shuffle-continues-with-lisa-jackson-and-kate-adams-retiring?utm_source=rss)
+ - [Pentagon’s Signalgate report finds Pete Hegseth violated military policies](https://www.theverge.com/news/838582/signalgate-pentagon-oig-report-pete-hegseth)
  - [Anthropic’s Daniela Amodei Believes the Market Will Reward Safe AI](https://www.wired.com/story/big-interview-event-daniela-amodei-anthropic/)
- - [HPE reports Q4 revenue up 14% YoY to $9.68B, vs. $9.94B est., Server revenue down 5% to $4.5B, and forecasts Q1 revenue below est.; HPE drops 5%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251204/p44#a251204p44)
- - [What Happens When Your Coworkers Are AI Agents](https://www.wired.com/story/uncanny-valley-podcast-what-happens-when-your-coworkers-are-ai-agents/)
- - [Sources: Meta does not plan to abandon building the metaverse, and expects to shift the savings from the layoffs into investments in its AR glasses &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/251204/p43#a251204p43)
- - [Google rolls out Gemini 3 Deep Think to Google AI Ultra subscribers in the Gemini app, after saying in November it needed &quot;extra time for safety evaluations&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251204/p42#a251204p42)<!-- TECH:END -->
+ - [Spotify Wrapped 2025 Wraps Up More Than 200 Million Listeners](https://www.cnet.com/tech/services-and-software/spotify-wrapped-2025-wraps-up-more-than-200-million-listeners/#ftag=CAD590a51e)
+ - [HPE reports Q4 revenue up 14% YoY to $9.68B, vs. $9.94B est., Server revenue down 5% to $4.5B, and forecasts Q1 revenue below est.; HPE drops 5%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251204/p44#a251204p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

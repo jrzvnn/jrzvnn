@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU expects to launch a formal bidding process for its AI gigafactories in early 2026 and close it in summer 2026, as the bloc seeks to catch up with the US &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p25#a251204p25)
+ - [AI legal software startup Harvey raised $160M led by a16z at an $8B valuation, up from $3B after raising $300M in February, taking its funding in 2025 to $760M &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251204/p24#a251204p24)
+ - [Yann LeCun says his unnamed AI startup will not receive financial backing from Meta, will focus on advanced AI world models, and hints it will be Paris-based &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/251204/p23#a251204p23)
  - [The EU says it is gathering information and feedback from ~200 stakeholders on Google&#39;s offer to fix alleged antitrust violations linked to its ad tech business &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p22#a251204p22)
- - [A Startup Says It Has Found a Hidden Source of Geothermal Energy](https://www.wired.com/story/startup-found-hidden-source-geothermal-energy/)
- - [University of Virginia professor Ken Ono, one of the world&#39;s most prominent mathematicians, joins AI startup Axiom Math, which is building an &quot;AI mathematician&quot; &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p21#a251204p21)
- - [The EU is probing Meta over WhatsApp’s AI chatbot restrictions](https://www.theverge.com/news/838020/meta-whatsapp-eu-antitrust-investigation-ai-tools)
- - [Sources: Amazon, the USPS&#39; top customer with $6B+ in revenue in 2025, is considering ending its deal at the end of 2026 and expanding its own delivery network &lpar;Jacob Bogage/Washington Post&rpar;](http://www.techmeme.com/251204/p20#a251204p20)<!-- TECH:END -->
+ - [A Startup Says It Has Found a Hidden Source of Geothermal Energy](https://www.wired.com/story/startup-found-hidden-source-geothermal-energy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

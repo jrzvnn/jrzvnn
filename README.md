@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Polymarket has recruited staff for a market making team that could face off against its customers; Kalshi&#39;s similar unit exposed Kalshi to criticism &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p36#a251204p36)
+ - [Amazon plans to release its $630 Kindle Scribe Colorsoft and $500 Kindle Scribe on December 10, after announcing them in September, but won&#39;t offer preorders &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251204/p35#a251204p35)
  - [Amazon is reportedly ready to drop its USPS deal if negotiations fall through](https://www.theverge.com/news/838255/amazon-usps-delivery-contract-2026)
- - [Meta launches a centralized support hub for Facebook and Instagram, with AI-powered search and an AI assistant to answer queries, on its iOS and Android apps &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251204/p34#a251204p34)
- - [&#39;The Rest is History&#39; crowned Apple Podcasts show of the year](https://appleinsider.com/articles/25/12/04/the-rest-is-history-crowned-apple-podcasts-show-of-the-year?utm_source=rss)
- - [A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code](https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/)
- - [Amazon’s new color Kindle Scribe launches on December 10th](https://www.theverge.com/news/838282/amazon-kindle-scribe-colorsoft-release-date)<!-- TECH:END -->
+ - [Meta launches a centralized support hub for Facebook and Instagram, with AI-powered search and an AI assistant to answer queries, in its iOS and Android apps &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251204/p34#a251204p34)
+ - [&#39;The Rest is History&#39; crowned Apple Podcasts show of the year](https://appleinsider.com/articles/25/12/04/the-rest-is-history-crowned-apple-podcasts-show-of-the-year?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

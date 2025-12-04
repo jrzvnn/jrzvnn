@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reverse uno card](http://9gag.com/gag/axyeOpb)
- - 😝 [Some people just dont learn](http://9gag.com/gag/a9y48NL)
- - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
+ - 😝 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
+ - 😝 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
+ - 💣 [Great success](http://9gag.com/gag/aMV0zgM)
+ - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
+ - 👉 [Lucky fella~](http://9gag.com/gag/avyBR5M)<!-- MEMES:END -->
 
 ---
 

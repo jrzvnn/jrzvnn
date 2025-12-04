@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
  - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 😝 [DUI](http://9gag.com/gag/aAyLK50)
- - 💣 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)
- - 😝 [Monowi, Nebraska](http://9gag.com/gag/a7om2dr)
- - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
+ - 💣 [Haripur Pakistan&#39;s &#39;Fire Mountain&#39; Continues to Burn Decades After 1955 Gas Blast](http://9gag.com/gag/aNDGVOv)
+ - 😝 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)
+ - 👉 [Do you remember?](http://9gag.com/gag/aVv9ZpM)<!-- MEMES:END -->
 
 ---
 

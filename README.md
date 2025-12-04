@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Happens When Your Coworkers Are AI Agents](https://www.wired.com/story/uncanny-valley-podcast-what-happens-when-your-coworkers-are-ai-agents/)
+ - [Sources: Meta does not plan to abandon building the metaverse, and expects to shift the savings from the layoffs into investments in its AR glasses &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/251204/p43#a251204p43)
  - [Google rolls out Gemini 3 Deep Think to Google AI Ultra subscribers in the Gemini app, after saying in November it needed &quot;extra time for safety evaluations&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251204/p42#a251204p42)
  - [Best LED Masks of 2025, FDA Cleared for Red Light Therapy](https://www.cnet.com/health/best-led-face-masks/#ftag=CAD590a51e)
- - [Trump invites ‘cute’ Japanese kei trucks to come to America](https://www.theverge.com/news/838563/trump-kei-truck-authorize-cute-usdot)
- - [Jon M. Chu Says AI Couldn’t Have Made One of Wicked’s Best Moments](https://www.wired.com/story/big-interview-event-jon-chu-wicked/)
- - [Lumia, which uses AI to analyze interactions between autonomous agents and humans, raised an $18M seed led by Team8 &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251204/p41#a251204p41)<!-- TECH:END -->
+ - [Trump invites ‘cute’ Japanese kei trucks to come to America](https://www.theverge.com/news/838563/trump-kei-truck-authorize-cute-usdot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

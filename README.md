@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [React discloses an unauthenticated remote code execution flaw in React Server Components; Wiz says 39% of cloud environments contain vulnerable instances &lpar;The Hacker News&rpar;](http://www.techmeme.com/251203/p42#a251203p42)
+ - [Reddit CEO Steve Huffman says the company is &quot;moving away&quot; from r/popular, the default feed for new users, and will replace it with more personalized feeds &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251203/p41#a251203p41)
+ - [Jensen Huang says &quot;we don&#39;t know&quot; if China would accept Nvidia&#39;s H200 AI chips even if the US relaxed export controls, following a meeting with President Trump &lpar;Bloomberg&rpar;](http://www.techmeme.com/251203/p40#a251203p40)
  - [Google launches Workspace Studio, a no-code tool to create, design, manage, and share AI agents, for users on Business and Enterprise Workspace plans &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251203/p39#a251203p39)
- - [Mark Zuckerberg announces a new creative studio in Meta&#39;s Reality Labs led by Alan Dye, who will be joined by Apple design lead Billy Sorrentino &lpar;Mark Zuckerberg/@zuck@threads.com&rpar;](http://www.techmeme.com/251203/p38#a251203p38)
- - [BMW iX3 first drive: a ‘New Class’ is in session](https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price)
- - [BMW iX3 2026 Review: Price, Specs, Availability](https://www.wired.com/review/bmw-ix3-2026/)
- - [HBO Max: The 30 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-tv-shows-on-hbo-max-dec-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mark Zuckerberg announces a new creative studio in Meta&#39;s Reality Labs led by Alan Dye, who will be joined by Apple design lead Billy Sorrentino &lpar;Mark Zuckerberg/@zuck@threads.com&rpar;](http://www.techmeme.com/251203/p38#a251203p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

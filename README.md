@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DUI](http://9gag.com/gag/aAyLK50)
+ - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
  - 😝 [French f**ker](http://9gag.com/gag/apRnPjn)
  - 💣 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)
- - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 👉 [Wednesday who?](http://9gag.com/gag/awy9Lm8)<!-- MEMES:END -->
+ - 😝 [True hero protects his friend during a school shooting and is now recovering](http://9gag.com/gag/apRnbBB)
+ - 👉 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)<!-- MEMES:END -->
 
 ---
 

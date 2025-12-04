@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How TSMC, Intel, and Amkor are transforming Phoenix into the US&#39; chip hub, investing tens of billions and showing the difficulties of large-scale US projects &lpar;Peter S. Goodman/New York Times&rpar;](http://www.techmeme.com/251204/p15#a251204p15)
+ - [Apple removed a Night mode photo feature from the iPhone 17 Pro](https://www.theverge.com/news/838002/apple-iphone-17-pro-night-portrait-mode-removed)
  - [DealBook Summit: Palantir CEO Alex Karp says &quot;the more constitutional you want to make&quot; the US&#39; Caribbean boat strikes &quot;the more you&#39;re going to need&quot; Palantir &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/251204/p14#a251204p14)
  - [Jimmy Wales says Wikimedia is working with Big Tech on AI deals similar to Google and reader donations are &quot;not to subsidize OpenAI costing us a ton of money&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p13#a251204p13)
- - [Ofcom fines AVS Group, which runs 18 adult sites, £1M+ under the OSA, the largest penalty so far, and threatens action against a &quot;major social media company&quot; &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251204/p12#a251204p12)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 4 #641](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-4-641/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 4, #437](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-4-437/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ofcom fines AVS Group, which runs 18 adult sites, £1M+ under the OSA, the largest penalty so far, and threatens action against a &quot;major social media company&quot; &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251204/p12#a251204p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

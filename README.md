@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic’s Daniela Amodei Believes the Market Will Reward Safe AI](https://www.wired.com/story/big-interview-event-daniela-amodei-anthropic/)
  - [HPE reports Q4 revenue up 14% YoY to $9.68B, vs. $9.94B est., Server revenue down 5% to $4.5B, and forecasts Q1 revenue below est.; HPE drops 5%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251204/p44#a251204p44)
  - [What Happens When Your Coworkers Are AI Agents](https://www.wired.com/story/uncanny-valley-podcast-what-happens-when-your-coworkers-are-ai-agents/)
  - [Sources: Meta does not plan to abandon building the metaverse, and expects to shift the savings from the layoffs into investments in its AR glasses &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/251204/p43#a251204p43)
- - [Google rolls out Gemini 3 Deep Think to Google AI Ultra subscribers in the Gemini app, after saying in November it needed &quot;extra time for safety evaluations&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251204/p42#a251204p42)
- - [Best LED Masks of 2025, FDA Cleared for Red Light Therapy](https://www.cnet.com/health/best-led-face-masks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google rolls out Gemini 3 Deep Think to Google AI Ultra subscribers in the Gemini app, after saying in November it needed &quot;extra time for safety evaluations&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251204/p42#a251204p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

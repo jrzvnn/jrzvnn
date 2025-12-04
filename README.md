@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)
- - 😝 [I am surprise his pc still boots with a ddr3 ram.. 8k monitor does not mean high end pc..](http://9gag.com/gag/amoOmyd)
- - 💣 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 👉 [It&#39;s good to have a supportive friends](http://9gag.com/gag/aW4ebZA)<!-- MEMES:END -->
+ - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 😝 [Hang your missile toads, it&#39;s that time of year](http://9gag.com/gag/apRnbQ8)
+ - 👉 [Do you remember?](http://9gag.com/gag/aVv9ZpM)<!-- MEMES:END -->
 
 ---
 

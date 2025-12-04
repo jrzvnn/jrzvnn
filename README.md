@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
  - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 💣 [French f**ker](http://9gag.com/gag/apRnPjn)
- - 😝 [Detroit](http://9gag.com/gag/ayNmQ0M)
+ - 💣 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
+ - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
  - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 ---

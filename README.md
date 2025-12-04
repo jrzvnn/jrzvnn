@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
  - 😝 [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
- - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 💣 [Best examples?](http://9gag.com/gag/axyePZb)
- - 😝 [No comment](http://9gag.com/gag/a6ZepOb)
- - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
+ - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 😝 [French f**ker](http://9gag.com/gag/apRnPjn)
+ - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 ---
 

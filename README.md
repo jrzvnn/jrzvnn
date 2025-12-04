@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump admin may deny H1-B visas to people who worked in content moderation, report says](https://www.theverge.com/news/838489/trump-admin-h1b-visas-content-moderation)
  - [Sources: Fluidstack, an AI cloud provider that is aiding Google&#39;s effort to expand access to its TPUs, is in talks to raise $700M+ led by Situational Awareness &lpar;The Information&rpar;](http://www.techmeme.com/251204/p40#a251204p40)
  - [Microsoft is quietly walking back its diversity efforts](https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad)
  - [AMD CEO Lisa Su Says Concerns About an AI Bubble Are Overblown](https://www.wired.com/story/big-interview-event-lisa-su-amd/)
- - [Microsoft will increase prices for commercial Office subscriptions on July 1, 2026, including a 33% jump for front-line worker plans like Microsoft 365 F1 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251204/p39#a251204p39)
- - [Google’s AI model is getting really good at spoofing phone photos](https://www.theverge.com/report/837971/google-nano-banana-pro-realistic-phone-photos)<!-- TECH:END -->
+ - [Microsoft will increase prices for commercial Office subscriptions on July 1, 2026, including a 33% jump for front-line worker plans like Microsoft 365 F1 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251204/p39#a251204p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

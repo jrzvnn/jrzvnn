@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TBPN signs a partnership with the NYSE, giving the video podcast the same on-floor access enjoyed by major financial networks such as CNBC &lpar;Sam Becker/Fast Company&rpar;](http://www.techmeme.com/251204/p47#a251204p47)
  - [Apple announces even more major executive turnover](https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring)
  - [Google Cloud partners with Replit to expand the use of Google&#39;s cloud offerings and AI models and to jointly support AI use cases for enterprise customers &lpar;CNBC&rpar;](http://www.techmeme.com/251204/p46#a251204p46)
  - [Nintendo’s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
- - [tvOS 26.2 receives second release candidate build only a day after the first](https://appleinsider.com/articles/25/12/04/tvos-262-receives-second-release-candidate-build-only-a-day-after-the-first?utm_source=rss)
- - [Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1](https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/)<!-- TECH:END -->
+ - [tvOS 26.2 receives second release candidate build only a day after the first](https://appleinsider.com/articles/25/12/04/tvos-262-receives-second-release-candidate-build-only-a-day-after-the-first?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

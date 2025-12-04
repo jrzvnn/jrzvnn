@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
  - 😝 [Reverse uno card](http://9gag.com/gag/axyeOpb)
- - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 😝 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
+ - 💣 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
+ - 😝 [Stay happy](http://9gag.com/gag/aKGXemQ)
  - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
 
 ---

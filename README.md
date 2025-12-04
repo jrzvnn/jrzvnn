@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s true](http://9gag.com/gag/aBybPnZ)
- - 😝 [He put his paw on the button and won&#39;t let go](http://9gag.com/gag/a87veX6)
- - 💣 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
- - 😝 [School excursion, no phones, just this for 50 children](http://9gag.com/gag/aoyGLWx)
+ - 😝 [DUI](http://9gag.com/gag/aAyLK50)
+ - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
  - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
 
 ---

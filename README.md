@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Watch SE 3 is still at its Cyber Monday low](https://www.theverge.com/gadgets/838132/apple-watch-se-3-ring-battery-doorbell-deal-sale)
+ - [Meta could axe up to one-third of its ‘metaverse’ budget next year](https://www.theverge.com/news/838186/meta-metaverse-budget-cuts-2026)
  - [7AI, which builds AI agents that analyze and triage cybersecurity alerts, raised a $130M Series A at a ~$700M valuation, bringing its total raised to $166M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p30#a251204p30)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Proton now has an end-to-end encrypted spreadsheet app](https://www.theverge.com/news/838127/proton-sheets-spreadsheet-app-privacy)
- - [InnAIO AI Translator T10 Review: Feature-Loaded but Needs Work](https://www.wired.com/review/innaio-t10-ai-translator/)
- - [The 25 best gifts for travelers who are always on the move](https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025)<!-- TECH:END -->
+ - [Proton now has an end-to-end encrypted spreadsheet app](https://www.theverge.com/news/838127/proton-sheets-spreadsheet-app-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

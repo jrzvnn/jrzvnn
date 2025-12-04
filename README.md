@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 😝 [DUI](http://9gag.com/gag/aAyLK50)
- - 💣 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
- - 😝 [He put his paw on the button and won&#39;t let go](http://9gag.com/gag/a87veX6)
- - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
+ - 😝 [Ricky Gervais is a national treasure for a reason](http://9gag.com/gag/aLnOGbv)
+ - 😝 [The woman who drove a snowplow through a pro-Palestinian demonstration blocking a street in Toronto was found not guilty and received only a one-day suspension from her job.](http://9gag.com/gag/aBybPPx)
+ - 💣 [It&#39;s true](http://9gag.com/gag/aBybPnZ)
+ - 😝 [There are no woman on 9gag anyway](http://9gag.com/gag/aVv9Zn8)
+ - 👉 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)<!-- MEMES:END -->
 
 ---
 

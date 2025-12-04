@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
  - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 😝 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)
- - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
+ - 💣 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)
+ - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 👉 [Do you remember?](http://9gag.com/gag/aVv9ZpM)<!-- MEMES:END -->
 
 ---
 

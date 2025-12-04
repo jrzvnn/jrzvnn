@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DUI](http://9gag.com/gag/aAyLK50)
  - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
+ - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 💣 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
+ - 😝 [Stay happy](http://9gag.com/gag/aKGXemQ)
+ - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
 
 ---
 

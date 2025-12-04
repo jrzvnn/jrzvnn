@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well ...](http://9gag.com/gag/a0eDn3B)
- - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
- - 💣 [It&#39;s SIR!!!](http://9gag.com/gag/a9y48PL)
- - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 👉 [Well said, lady](http://9gag.com/gag/apRnPeB)<!-- MEMES:END -->
+ - 😝 [Great success](http://9gag.com/gag/aMV0zgM)
+ - 😝 [Food is not a drug, but that cheese pull is addictive](http://9gag.com/gag/aE0jDBo)
+ - 💣 [Father of the year here](http://9gag.com/gag/awy940r)
+ - 😝 [No comment](http://9gag.com/gag/a6ZepOb)
+ - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WBD confirms that Warner Bros. Games will be acquired by Netflix along with its wider streaming and television business &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/251205/p30#a251205p30)
+ - [Meta acquires Limitless, which makes a pendant-style AI wearable that records and transcribes real-world conversations; Limitless has raised more than $33M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/251205/p29#a251205p29)
+ - [Pantone’s ‘Cloud Dancer’ color party is a recession indicator](https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party)
  - [Rumor suggests Intel could finally manufacture iPhone chips](https://appleinsider.com/articles/25/12/05/rumor-suggests-intel-could-finally-manufacture-iphone-chips?utm_source=rss)
- - [Sources: SpaceX has told investors and financial institution representatives that it is aiming for an IPO in the second half of 2026 &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/251205/p28#a251205p28)
- - [Netflix&#39;s WBD bid marks a striking strategy shift for a company long known for pivots, especially after years of avoiding full commitment to theatrical releases &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/251205/p27#a251205p27)
- - [Trump Mobile’s refurbished iPhones are an unsurprisingly bad deal](https://www.theverge.com/report/839123/trump-mobile-refurbished-iphones-galaxy-phones-apple-samsung)
- - [Dozens of staffers quit Apple, leaving behind only 164,000](https://appleinsider.com/articles/25/12/05/dozens-of-staffers-quit-apple-leaving-behind-only-164000?utm_source=rss)<!-- TECH:END -->
+ - [Sources: SpaceX has told investors and financial institution representatives that it is aiming for an IPO in the second half of 2026 &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/251205/p28#a251205p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

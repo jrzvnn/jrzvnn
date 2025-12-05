@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wikipedia is getting in on the yearly wrapped game](https://www.theverge.com/news/838989/wikipedia-year-in-review-2025-wrapped)
  - [Sources: Dell alerts customers to 15-20% price hikes as soon as mid-December amid surging DRAM costs; Lenovo says current quotes will expire in January 2026 &lpar;TrendForce&rpar;](http://www.techmeme.com/251205/p22#a251205p22)
+ - [HBO Max: The 25 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-hbo-max-dec-2025/#ftag=CAD590a51e)
  - [The best Christmas gifts we love under $50](https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025)
- - [Here’s What You Should Know About Launching an AI Startup](https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/)
- - [The Apple AirPods 4 with ANC are at their lowest price](https://www.theverge.com/gadgets/838493/apple-airpods-anc-lego-deal-sale)
- - [The 38 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)<!-- TECH:END -->
+ - [Here’s What You Should Know About Launching an AI Startup](https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

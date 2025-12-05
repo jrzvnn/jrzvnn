@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Meta acquires Limitless, which makes a pendant-style AI wearable that records and transcribes real-world conversations; Limitless has raised more than $33M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/251205/p29#a251205p29)
  - [Pantone’s ‘Cloud Dancer’ color party is a recession indicator](https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party)
  - [Rumor suggests Intel could finally manufacture iPhone chips](https://appleinsider.com/articles/25/12/05/rumor-suggests-intel-could-finally-manufacture-iphone-chips?utm_source=rss)
- - [Sources: SpaceX has told investors and financial institution representatives that it is aiming for an IPO in the second half of 2026 &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/251205/p28#a251205p28)<!-- TECH:END -->
+ - [Want a Brighter Smile This Holiday Season? Try These Top Electric Toothbrushes in 2025](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

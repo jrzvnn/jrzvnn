@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [LoTR](http://9gag.com/gag/aO8nPVr)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
- - 💣 [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)
- - 😝 [Puppy](http://9gag.com/gag/ajP3RQg)
+ - 😝 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
+ - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
  - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
 
 ---

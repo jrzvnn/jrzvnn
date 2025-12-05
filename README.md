@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Dell alerts customers to 15-20% price hikes as soon as mid-December amid surging DRAM costs; Lenovo says current quotes will expire in January 2026 &lpar;TrendForce&rpar;](http://www.techmeme.com/251205/p22#a251205p22)
+ - [The best Christmas gifts we love under $50](https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025)
  - [Here’s What You Should Know About Launching an AI Startup](https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/)
- - [The Apple Airpods 4 with ANC are at their lowest price](https://www.theverge.com/gadgets/838493/apple-airpods-anc-lego-deal-sale)
- - [The 38 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
- - [Polish lawmakers fail to override the president&#39;s veto on a crypto assets regulation bill; Poland is the last EU country not to adopt EU&#39;s crypto regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p21#a251205p21)
- - [The New York Times sues Perplexity for producing ‘verbatim’ copies of its work](https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright)<!-- TECH:END -->
+ - [The Apple AirPods 4 with ANC are at their lowest price](https://www.theverge.com/gadgets/838493/apple-airpods-anc-lego-deal-sale)
+ - [The 38 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

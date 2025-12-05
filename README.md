@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WIRED Roundup: DOGE Isn’t Dead, Facebook Dating Is Real, and Amazon’s AI Ambitions](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-doge-facebook-dating-amazon-artificial-intelligence/)
  - [Welcome to the big leagues, Netflix](https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs)
  - [Amazon&#39;s top holiday deals: AirPods 4 ANC $99, $450 off iPad Pro, Apple Watch $199, Mac from $499, more](https://appleinsider.com/articles/25/12/05/amazons-top-holiday-deals-airpods-4-anc-99-450-off-ipad-pro-apple-watch-199-mac-from-499-more?utm_source=rss)
  - [Whisker&#39;s Litter-Robot Just Became the First Automatic Litter Box Eligible for HSA and FSA Spending](https://www.cnet.com/health/unexpected-wellness-devices-eligible-hsa-fsa-eligible/#ftag=CAD590a51e)
- - [Best Ring Video Doorbells of 2025: Ring in Your Security Upgrade](https://www.cnet.com/home/security/best-ring-video-doorbells/#ftag=CAD590a51e)
- - [Best Meat Thermometers for 2025](https://www.cnet.com/news/best-meat-thermometers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Ring Video Doorbells of 2025: Ring in Your Security Upgrade](https://www.cnet.com/home/security/best-ring-video-doorbells/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

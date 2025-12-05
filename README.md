@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If your life seems difficult, there are worse things](http://9gag.com/gag/a1m8L2Y)
- - 😝 [Stay happy](http://9gag.com/gag/aKGXemQ)
- - 💣 [His own worst enemy](http://9gag.com/gag/aD2qXbx)
- - 😝 [Long time no see](http://9gag.com/gag/aRB8O1G)
- - 👉 [I wipe my own ass....](http://9gag.com/gag/aO8nRE2)<!-- MEMES:END -->
+ - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 😝 [LoTR](http://9gag.com/gag/aO8nPVr)
+ - 💣 [Bankai](http://9gag.com/gag/abAL2Ep)
+ - 😝 [Lucky Bastard!](http://9gag.com/gag/aVv9R0M)
+ - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 ---
 

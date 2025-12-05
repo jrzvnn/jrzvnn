@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the press release announcing the deal, Netflix says it &quot;expects to maintain Warner Bros.&#39; current operations..., including theatrical releases for films&quot; &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/251205/p15#a251205p15)
- - [Waymo faces federal probe for dodgy driving around school buses](https://www.theverge.com/news/838879/waymo-school-buses-probe)
- - [Pluribus turns a ‘caloric deficit’ into a nightmare](https://www.theverge.com/streaming/838256/pluribus-episode-6-recap-discussion)
- - [Netflix is buying Warner Bros. for $83 billion](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout)
- - [The far right is mobilizing against Trump AI czar David Sacks](https://www.theverge.com/ai-artificial-intelligence/838776/maga-ai-executive-order-david-sacks)<!-- TECH:END -->
+ - [The NYT sues Perplexity, claiming the AI startup violated its copyrights and failed to stop using its content despite repeated demands over the past 18 months &lpar;New York Times&rpar;](http://www.techmeme.com/251205/p18#a251205p18)
+ - [Netflix has lined up a $59B unsecured bridge loan from Wells Fargo, HSBC, and BNP Paribas for its WBD deal, one of the largest ever unsecured bridge loans &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p17#a251205p17)
+ - [GoTrax Mustang Electric Bike Review: Punchy and Tiny](https://www.wired.com/review/gotrax-mustang-electric-bike/)
+ - [Netflix beats Apple to buy Warner Bros](https://appleinsider.com/articles/25/12/05/netflix-beats-apple-to-buy-warner-bros?utm_source=rss)
+ - [Meta strikes multiyear commercial AI data deals with news publishers, including CNN and Fox News, to provide real-time answers for its Meta AI chatbot &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251205/p16#a251205p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

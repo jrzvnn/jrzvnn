@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix&#39;s WBD bid marks a striking strategy shift for a company long known for pivots, especially after years of avoiding full commitment to theatrical releases &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/251205/p27#a251205p27)
+ - [Trump Mobile’s refurbished iPhones are an unsurprisingly bad deal](https://www.theverge.com/report/839123/trump-mobile-refurbished-iphones-galaxy-phones-apple-samsung)
  - [Dozens of staffers quit Apple, leaving behind only 164,000](https://appleinsider.com/articles/25/12/05/dozens-of-staffers-quit-apple-leaving-behind-only-164000?utm_source=rss)
  - [Sources: SpaceX is planning a secondary share sale that would value the company at $800B, surpassing OpenAI to make it the most valuable US private company &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251205/p26#a251205p26)
- - [Horses is a hit, but its studio might still be in trouble](https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship)
- - [Chrome can now autofill details from your Google account](https://www.theverge.com/news/838987/google-chrome-android-ios-desktop-autofill-account-wallet)
- - [The Best Deals From the Silk &amp; Snow Cyber Week Sale &lpar;2025&rpar;](https://www.wired.com/story/silk-snow-deals-2025/)<!-- TECH:END -->
+ - [Horses is a hit, but its studio might still be in trouble](https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

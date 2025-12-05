@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU fines X €120M for breaching online content rules, the first fine under the DSA, citing issues including the deceptive design of its blue checkmarks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251205/p12#a251205p12)
  - [How Long Should You Stay in a Sauna? &lpar;2025&rpar;](https://www.wired.com/story/how-long-should-you-stay-in-a-sauna/)
  - [The US CFTC announces that spot crypto asset contracts will begin trading for the first time on CFTC-registered futures exchanges &lpar;Shashwat Chauhan/Reuters&rpar;](http://www.techmeme.com/251205/p11#a251205p11)
  - [Facebook and Instagram have a new hub to help get hijacked accounts back](https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub)
- - [AWS unveils its 192-core Graviton5 processor, with an up to 25% performance boost over Graviton4, and says Graviton makes up 50%+ of AWS&#39; new CPU capacity &lpar;About Amazon&rpar;](http://www.techmeme.com/251205/p10#a251205p10)
- - [Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/)<!-- TECH:END -->
+ - [AWS unveils its 192-core Graviton5 processor, with an up to 25% performance boost over Graviton4, and says Graviton makes up 50%+ of AWS&#39; new CPU capacity &lpar;About Amazon&rpar;](http://www.techmeme.com/251205/p10#a251205p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

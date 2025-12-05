@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo plans to issue a voluntary software recall over how its robotaxis operate around school buses following an NHTSA investigation opened in October &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/251205/p33#a251205p33)
  - [A US judge rules Google must renegotiate annually any contract that makes its search engine or AI app the default on smartphones and other devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p32#a251205p32)
  - [Scientists Develop an Octopus-Like &#39;Soft Robot&#39; That Can Change Color](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/#ftag=CAD590a51e)
  - [WIRED Roundup: DOGE Isn’t Dead, Facebook Dating Is Real, and Amazon’s AI Ambitions](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-doge-facebook-dating-amazon-artificial-intelligence/)
- - [The Longest Night: A Short Guide to the Winter Solstice](https://www.cnet.com/science/the-longest-night-a-short-guide-to-the-winter-solstice/#ftag=CAD590a51e)
- - [Welcome to the big leagues, Netflix](https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs)<!-- TECH:END -->
+ - [The Longest Night: A Short Guide to the Winter Solstice](https://www.cnet.com/science/the-longest-night-a-short-guide-to-the-winter-solstice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

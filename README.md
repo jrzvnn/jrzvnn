@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Polish lawmakers fail to override the president&#39;s veto on a crypto assets regulation bill; Poland is the last EU country not to adopt EU&#39;s crypto regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p21#a251205p21)
+ - [The New York Times sues Perplexity for producing ‘verbatim’ copies of its work](https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright)
  - [Elon Musk says Tesla drivers can text while driving, but they absolutely should not](https://www.theverge.com/transportation/838901/elon-musk-tesla-fsd-text-while-drive)
  - [Sony&amp;#8217;s new PS5 DualSense controller might have way more battery life](https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement)
- - [9 Best Lubes &lpar;2025&rpar;: Water-Based, Silicone, Natural Oils](https://www.wired.com/gallery/best-lubes/)
- - [It&amp;#8217;s code red for ChatGPT](https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast)
- - [Hugging Face details how it used its new tool, Skills, to fine tune LLMs using Claude, including for writing scripts, submitting jobs to cloud GPUs, and more &lpar;Hugging Face&rpar;](http://www.techmeme.com/251205/p20#a251205p20)<!-- TECH:END -->
+ - [9 Best Lubes &lpar;2025&rpar;: Water-Based, Silicone, Natural Oils](https://www.wired.com/gallery/best-lubes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

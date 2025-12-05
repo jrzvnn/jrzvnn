@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta strikes AI licensing deals with CNN, Fox News, and USA Today](https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today)
  - [The Ninth Circuit affirms a temporary order blocking OpenAI from using &quot;io&quot; as a trademark in some instances while an infringement suit against it proceeds &lpar;Kyle Jahner/Bloomberg Law&rpar;](http://www.techmeme.com/251205/p19#a251205p19)
  - [Rumor suggests obvious: iPhone Fold to be eSIM only](https://appleinsider.com/articles/25/12/05/rumor-suggest-obvious-iphone-fold-to-be-esim-only?utm_source=rss)
  - [The NYT sues Perplexity, claiming the AI startup violated its copyrights and failed to stop using its content despite repeated demands over the past 18 months &lpar;New York Times&rpar;](http://www.techmeme.com/251205/p18#a251205p18)
- - [Netflix has lined up a $59B unsecured bridge loan from Wells Fargo, BNP Paribas, and HSBC to support its WBD deal, one of the largest ever loans of its kind &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p17#a251205p17)
- - [GoTrax Mustang Electric Bike Review: Punchy and Tiny](https://www.wired.com/review/gotrax-mustang-electric-bike/)<!-- TECH:END -->
+ - [Netflix has lined up a $59B unsecured bridge loan from Wells Fargo, BNP Paribas, and HSBC to support its WBD deal, one of the largest ever loans of its kind &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p17#a251205p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

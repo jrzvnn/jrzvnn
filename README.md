@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
  - 😝 [Perfectly balanced..](http://9gag.com/gag/a87v236)
- - 💣 [Should we tell her?](http://9gag.com/gag/aryDZwV)
- - 😝 [DND radio stations](http://9gag.com/gag/azxvZyx)
+ - 💣 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
+ - 😝 [Cheers](http://9gag.com/gag/aD2qXWd)
  - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
 
 ---

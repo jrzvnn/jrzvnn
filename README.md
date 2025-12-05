@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers claim that prompts framed as riddle-like poems could skirt AI chatbots&#39; safety features designed to block production of explicit or harmful content &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251205/p4#a251205p4)
  - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
  - [Similarweb: generative AI platforms were averaging ~7B monthly web visits as of September 2025, up 76% YoY, rivaling the traffic of major social networks &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251205/p3#a251205p3)
  - [Womanizer Coupons: Save 15% in December](https://www.wired.com/story/womanizer-coupon/)
- - [CEO Matthew Prince says Cloudflare has blocked 416B AI bot requests for its customers since July 1, and that Google can see 3.2x more internet pages than OpenAI &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/251205/p2#a251205p2)
- - [Groupon Promo Codes: 50% Off in December 2025](https://www.wired.com/story/groupon-promo-code/)<!-- TECH:END -->
+ - [CEO Matthew Prince says Cloudflare has blocked 416B AI bot requests for its customers since July 1, and that Google can see 3.2x more internet pages than OpenAI &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/251205/p2#a251205p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

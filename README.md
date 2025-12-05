@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now use Pixel phones as a Switch 2 webcam](https://www.theverge.com/news/839133/google-pixel-smartphone-nintendo-switch-2-webcam)
  - [The Luigi Mangione trial is all about narrative control](https://www.theverge.com/policy/839054/luigi-mangione-evidence-suppression-new-york-internet-fandom-media)
  - [Vice President JD Vance, US Secretary of State Marco Rubio, and FCC Chairman Brendan Carr denounce the EU&#39;s €120M X fine &lpar;Liv McMahon/BBC&rpar;](http://www.techmeme.com/251205/p25#a251205p25)
  - [9 Best Lubes &lpar;2025&rpar;: Water-Based, Silicone, Natural Oils](https://www.wired.com/gallery/best-lubes/)
- - [Apple CEO succession discussion enters new realm of rampant speculation](https://appleinsider.com/articles/25/12/05/apple-ceo-succession-discussion-enters-new-realm-of-rampant-speculation?utm_source=rss)
- - [Cloudflare says it has fixed an issue that caused a 25 minute outage on Friday, following a major, hours-long outage last month &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251205/p24#a251205p24)<!-- TECH:END -->
+ - [Apple CEO succession discussion enters new realm of rampant speculation](https://appleinsider.com/articles/25/12/05/apple-ceo-succession-discussion-enters-new-realm-of-rampant-speculation?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

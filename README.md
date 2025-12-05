@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Amazon CTO Werner Vogels, who said his 2025 re:Invent keynote was his last to make room for other voices and warned devs about &quot;verification debt&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/251205/p6#a251205p6)
+ - [A look back at five years of Meta&#39;s Oversight Board, whose rulings on the relatively small number of cases it hears have generally had limited impact &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251205/p5#a251205p5)
+ - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)
  - [Researchers claim that prompts framed as riddle-like poems could skirt AI chatbots&#39; safety features designed to block production of explicit or harmful content &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251205/p4#a251205p4)
- - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
- - [Similarweb: generative AI platforms were averaging ~7B monthly web visits as of September 2025, up 76% YoY, rivaling the traffic of major social networks &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251205/p3#a251205p3)
- - [Womanizer Coupons: Save 15% in December](https://www.wired.com/story/womanizer-coupon/)
- - [CEO Matthew Prince says Cloudflare has blocked 416B AI bot requests for its customers since July 1, and that Google can see 3.2x more internet pages than OpenAI &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/251205/p2#a251205p2)<!-- TECH:END -->
+ - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

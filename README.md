@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Francisco Mayor Daniel Lurie: Past Leaders Took the City ‘for Granted’](https://www.wired.com/story/big-interview-event-mayor-daniel-lurie/)
- - [Trump Wants to Trade Fuel Economy for Cheaper Cars. But It Might Not Work](https://www.wired.com/story/trump-fuel-economy-standards-rollback-might-not-work/)
- - [Can AI Look at Your Retina and Diagnose Alzheimer’s? Eric Topol Hopes So](https://www.wired.com/story/big-interview-event-eric-topol-super-agers/)
- - [TBPN signs a partnership with the NYSE, giving the video podcast the same on-floor access enjoyed by major financial networks such as CNBC &lpar;Sam Becker/Fast Company&rpar;](http://www.techmeme.com/251204/p47#a251204p47)
- - [Apple announces even more major executive turnover](https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring)<!-- TECH:END -->
+ - [It&#39;s Time to Save Silicon Valley From Itself](https://www.wired.com/story/big-interview-event-techdirt-mike-masnick-common-tools-alex-komoroske/)
+ - [Meta Poached Apple’s Top Design Guys to Fix Its Software UI](https://www.wired.com/story/meta-poached-apples-top-design-guys-to-fix-its-software-ui/)
+ - [Circle’s Jeremy Allaire: We’re Building an ‘Economic OS’ for the AI Era](https://www.wired.com/story/big-interview-event-jeremy-allaire-circle/)
+ - [A Polymarket trader netted $1M+ in 24 hours, mostly by placing suspiciously accurate bets on Google&#39;s 2025 Year in Search rankings &lpar;Boaz Sobrado/Forbes&rpar;](http://www.techmeme.com/251204/p50#a251204p50)
+ - [Former DOGE Engineer Is Now Back in Government](https://www.wired.com/story/big-interview-event-sahil-lavingia/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists Develop an Octopus-Like &#39;Soft Robot&#39; That Can Change Color](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/#ftag=CAD590a51e)
+ - [A US judge rules Google must renegotiate annually any contract that makes its search engine or AI app the default on smartphones and other devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p32#a251205p32)
  - [WIRED Roundup: DOGE Isn’t Dead, Facebook Dating Is Real, and Amazon’s AI Ambitions](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-doge-facebook-dating-amazon-artificial-intelligence/)
- - [The Longest Night: A Short Guide to the Winter Solstice](https://www.cnet.com/science/the-longest-night-a-short-guide-to-the-winter-solstice/#ftag=CAD590a51e)
  - [Welcome to the big leagues, Netflix](https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs)
- - [I Can&#39;t Believe This Addictive Netflix Thriller Is Still Living Rent-Free Inside My Head](https://www.cnet.com/tech/services-and-software/i-cant-believe-this-addictive-netflix-thriller-is-still-living-rent-free-inside-my-head/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s top holiday deals: AirPods 4 ANC $99, $450 off iPad Pro, Apple Watch $199, Mac from $499, more](https://appleinsider.com/articles/25/12/05/amazons-top-holiday-deals-airpods-4-anc-99-450-off-ipad-pro-apple-watch-199-mac-from-499-more?utm_source=rss)
+ - [Whisker&#39;s Litter-Robot Just Became the First Automatic Litter Box Eligible for HSA and FSA Spending](https://www.cnet.com/health/unexpected-wellness-devices-eligible-hsa-fsa-eligible/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

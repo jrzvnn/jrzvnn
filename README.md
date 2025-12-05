@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
  - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 💣 [French f**ker](http://9gag.com/gag/apRnPjn)
- - 😝 [Cheers](http://9gag.com/gag/aD2qXWd)
- - 👉 [Perfectly balanced..](http://9gag.com/gag/a87v236)<!-- MEMES:END -->
+ - 😝 [Perfectly balanced..](http://9gag.com/gag/a87v236)
+ - 💣 [Should we tell her?](http://9gag.com/gag/aryDZwV)
+ - 😝 [DND radio stations](http://9gag.com/gag/azxvZyx)
+ - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
 
 ---
 

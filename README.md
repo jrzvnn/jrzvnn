@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple CEO succession discussion enters new realm of rampant speculation](https://appleinsider.com/articles/25/12/05/apple-ceo-succession-discussion-enters-new-realm-of-rampant-speculation?utm_source=rss)
+ - [Cloudflare says it has fixed an issue that caused a 25 minute outage on Friday, following a major, hours-long outage last month &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251205/p24#a251205p24)
  - [Marc Benioff says it &quot;would not shock&quot; him if Salesforce changed its name to Agentforce; the company started using Agentforce for many of its offerings &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/251205/p23#a251205p23)
  - [Netflix is buying Warner Bros Discovery: All of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)
- - [Dozens of staffers quit Apple, leaving behind only 164,000](https://appleinsider.com/articles/25/12/05/dozens-of-staffers-quit-apple-leaving-behind-only-164000?utm_source=rss)
- - [OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week](https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response)
- - [Wikipedia is getting in on the yearly wrapped game](https://www.theverge.com/news/838989/wikipedia-year-in-review-2025-wrapped)<!-- TECH:END -->
+ - [Dozens of staffers quit Apple, leaving behind only 164,000](https://appleinsider.com/articles/25/12/05/dozens-of-staffers-quit-apple-leaving-behind-only-164000?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

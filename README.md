@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A US judge rules Google must renegotiate annually any contract that makes its search engine or AI app the default on smartphones and other devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p32#a251205p32)
+ - [Scientists Develop an Octopus-Like &#39;Soft Robot&#39; That Can Change Color](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/#ftag=CAD590a51e)
  - [WIRED Roundup: DOGE Isn’t Dead, Facebook Dating Is Real, and Amazon’s AI Ambitions](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-doge-facebook-dating-amazon-artificial-intelligence/)
- - [Welcome to the big leagues, Netflix](https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs)
- - [Amazon&#39;s top holiday deals: AirPods 4 ANC $99, $450 off iPad Pro, Apple Watch $199, Mac from $499, more](https://appleinsider.com/articles/25/12/05/amazons-top-holiday-deals-airpods-4-anc-99-450-off-ipad-pro-apple-watch-199-mac-from-499-more?utm_source=rss)
- - [Whisker&#39;s Litter-Robot Just Became the First Automatic Litter Box Eligible for HSA and FSA Spending](https://www.cnet.com/health/unexpected-wellness-devices-eligible-hsa-fsa-eligible/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Longest Night: A Short Guide to the Winter Solstice](https://www.cnet.com/science/the-longest-night-a-short-guide-to-the-winter-solstice/#ftag=CAD590a51e)
+ - [Welcome to the big leagues, Netflix](https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

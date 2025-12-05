@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A review of LinkedIn profiles shows dozens of Apple staffers with expertise in audio, watch design, robotics, and more have joined OpenAI in recent months &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/251205/p1#a251205p1)
  - [Google debuts Titans, an architecture combining RNN speed with transformer performance for real-time learning, able to scale effectively to a 2M+ context window &lpar;Google Research&rpar;](http://www.techmeme.com/251204/p58#a251204p58)
  - [The NHTSA asks Waymo about its self-driving vehicles illegally passing school buses, including 19 times in Texas this year, as part of a probe opened in October &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251204/p57#a251204p57)
  - [Sources: Masayoshi Son plans with the White House to build &quot;Trump Industrial Parks&quot; in the US to produce AI infrastructure parts, funded by Japan&#39;s trade deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251204/p56#a251204p56)
- - [How to buy a used Mac and not get ripped off](https://appleinsider.com/articles/25/12/05/how-to-buy-a-used-mac-and-not-get-ripped-off?utm_source=rss)
- - [US and Canadian authorities warn that Chinese hackers are using the Brickstorm malware to install backdoor access within unnamed government and IT entities &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/251204/p55#a251204p55)<!-- TECH:END -->
+ - [How to buy a used Mac and not get ripped off](https://appleinsider.com/articles/25/12/05/how-to-buy-a-used-mac-and-not-get-ripped-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

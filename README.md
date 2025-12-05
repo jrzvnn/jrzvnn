@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan faces bottlenecks in data center construction due to labor shortages and more; DC Byte says Japan&#39;s capacity has tripled to 6.8 GW in the past five years &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/251205/p9#a251205p9)
- - [Microsoft finally has a better looking Run dialog for Windows 11](https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode)
- - [Put the Q-Tips Down. Use These 3 Safer Ear-Cleaning Alternatives](https://www.cnet.com/health/personal-care/why-using-q-tip-clean-ears-safety-hazard/#ftag=CAD590a51e)
- - [Sources: WBD begins exclusive talks with Netflix to sell its film and TV studios and HBO Max; Netflix is offering a $5B breakup fee if the deal isn&#39;t approved &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p8#a251205p8)
- - [Netflix wins the bidding war for Warner Bros.](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout)<!-- TECH:END -->
+ - [The US CFTC announces that spot crypto asset contracts will begin trading for the first time on CFTC-registered futures exchanges &lpar;Shashwat Chauhan/Reuters&rpar;](http://www.techmeme.com/251205/p11#a251205p11)
+ - [Facebook and Instagram have a new hub to help get hijacked accounts back](https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub)
+ - [AWS unveils its 192-core Graviton5 processor, with an up to 25% performance boost over Graviton4, and says Graviton makes up 50%+ of AWS&#39; new CPU capacity &lpar;About Amazon&rpar;](http://www.techmeme.com/251205/p10#a251205p10)
+ - [Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/)
+ - [Japan faces bottlenecks in data center construction due to labor shortages and more; DC Byte says Japan&#39;s capacity has tripled to 6.8 GW in the past five years &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/251205/p9#a251205p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Horses, the Most Controversial Game of the Year, Doesn’t Live Up to the Hype](https://www.wired.com/story/horses-the-most-controversial-game-of-the-year-doesnt-live-up-to-the-hype/)
+ - [Star Wars’ original theatrical cut returns to theaters in 2027](https://www.theverge.com/news/839434/disney-star-wars-original-theatrical-cut-theaters-release-date)
+ - [Buying Warner Bros. Gives Netflix What It’s Always Needed: An Identity](https://www.wired.com/story/netflix-warner-bros-acquisition-identity/)
  - [WBD confirms that Warner Bros. Games will be acquired by Netflix along with its wider streaming and television business &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/251205/p30#a251205p30)
- - [Meta acquires Limitless, which makes a pendant-style AI wearable that records and transcribes real-world conversations; Limitless has raised more than $33M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/251205/p29#a251205p29)
- - [Pantone’s ‘Cloud Dancer’ color party is a recession indicator](https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party)
- - [Rumor suggests Intel could finally manufacture iPhone chips](https://appleinsider.com/articles/25/12/05/rumor-suggests-intel-could-finally-manufacture-iphone-chips?utm_source=rss)
- - [Want a Brighter Smile This Holiday Season? Try These Top Electric Toothbrushes in 2025](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta acquires Limitless, which makes a pendant-style AI wearable that records and transcribes real-world conversations; Limitless has raised more than $33M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/251205/p29#a251205p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

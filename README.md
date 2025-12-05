@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Undocking](http://9gag.com/gag/a34zbK1)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
- - 💣 [LoTR](http://9gag.com/gag/aO8nPVr)
- - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
- - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
+ - 😝 [If your life seems difficult, there are worse things](http://9gag.com/gag/a1m8L2Y)
+ - 😝 [Stay happy](http://9gag.com/gag/aKGXemQ)
+ - 💣 [His own worst enemy](http://9gag.com/gag/aD2qXbx)
+ - 😝 [Long time no see](http://9gag.com/gag/aRB8O1G)
+ - 👉 [I wipe my own ass....](http://9gag.com/gag/aO8nRE2)<!-- MEMES:END -->
 
 ---
 

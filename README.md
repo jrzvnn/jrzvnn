@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Microsoft Excel&#39;s evolution, as it remains the most widely used spreadsheet software with 500M paying users despite competition from Google and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p7#a251205p7)
  - [A profile of Amazon CTO Werner Vogels, who said his 2025 re:Invent keynote was his last to make room for other voices and warned devs about &quot;verification debt&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/251205/p6#a251205p6)
  - [A look back at five years of Meta&#39;s Oversight Board, whose rulings on the relatively small number of cases it hears have generally had limited impact &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251205/p5#a251205p5)
  - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)
- - [Researchers claim that prompts framed as riddle-like poems could skirt AI chatbots&#39; safety features designed to block production of explicit or harmful content &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251205/p4#a251205p4)
- - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)<!-- TECH:END -->
+ - [Researchers claim that prompts framed as riddle-like poems could skirt AI chatbots&#39; safety features designed to block production of explicit or harmful content &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251205/p4#a251205p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

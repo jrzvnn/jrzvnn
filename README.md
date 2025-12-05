@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Meal Replacement Shakes for Total Life Optimization &lpar;2025&rpar;](https://www.wired.com/gallery/best-liquid-meal-replacements/)
+ - [EU fines X $140 million over ‘deceptive’ blue checkmarks](https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk)
+ - [AI Slop Is Ruining Reddit for Everyone](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
  - [The EU fines X €120M for breaching online content rules, the first fine under the DSA, citing issues including the deceptive design of its blue checkmarks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251205/p12#a251205p12)
- - [How Long Should You Stay in a Sauna? &lpar;2025&rpar;](https://www.wired.com/story/how-long-should-you-stay-in-a-sauna/)
- - [The US CFTC announces that spot crypto asset contracts will begin trading for the first time on CFTC-registered futures exchanges &lpar;Shashwat Chauhan/Reuters&rpar;](http://www.techmeme.com/251205/p11#a251205p11)
- - [Facebook and Instagram have a new hub to help get hijacked accounts back](https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub)
- - [AWS unveils its 192-core Graviton5 processor, with an up to 25% performance boost over Graviton4, and says Graviton makes up 50%+ of AWS&#39; new CPU capacity &lpar;About Amazon&rpar;](http://www.techmeme.com/251205/p10#a251205p10)<!-- TECH:END -->
+ - [How Long Should You Stay in a Sauna? &lpar;2025&rpar;](https://www.wired.com/story/how-long-should-you-stay-in-a-sauna/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

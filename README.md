@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alan Dye &amp; John Giannandrea are leaving Apple on this week&#39;s AppleInsider Podcast](https://appleinsider.com/articles/25/12/05/alan-dye-john-giannandrea-are-leaving-apple-on-this-weeks-appleinsider-podcast?utm_source=rss)
+ - [Sources and docs: India&#39;s government is considering forcing phone makers to enable always-on satellite location tracking; Apple, Google, and Samsung are opposed &lpar;Reuters&rpar;](http://www.techmeme.com/251205/p14#a251205p14)
+ - [Netflix agrees to buy WBD&#39;s studios and streaming business in an $82.7B cash-and-stock deal; the transaction is expected to close after Q3 2026 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251205/p13#a251205p13)
  - [The Best Meal Replacement Shakes for Total Life Optimization &lpar;2025&rpar;](https://www.wired.com/gallery/best-liquid-meal-replacements/)
- - [EU fines X $140 million over ‘deceptive’ blue checkmarks](https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk)
- - [AI Slop Is Ruining Reddit for Everyone](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
- - [The EU fines X €120M for breaching online content rules, the first fine under the DSA, citing issues including the deceptive design of its blue checkmarks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251205/p12#a251205p12)
- - [How Long Should You Stay in a Sauna? &lpar;2025&rpar;](https://www.wired.com/story/how-long-should-you-stay-in-a-sauna/)<!-- TECH:END -->
+ - [EU fines X $140 million over ‘deceptive’ blue checkmarks](https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

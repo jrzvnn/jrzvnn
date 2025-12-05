@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan faces bottlenecks in data center construction due to labor shortages and more; DC Byte says Japan&#39;s capacity has tripled to 6.8 GW in the past five years &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/251205/p9#a251205p9)
  - [Microsoft finally has a better looking Run dialog for Windows 11](https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode)
+ - [Put the Q-Tips Down. Use These 3 Safer Ear-Cleaning Alternatives](https://www.cnet.com/health/personal-care/why-using-q-tip-clean-ears-safety-hazard/#ftag=CAD590a51e)
  - [Sources: WBD begins exclusive talks with Netflix to sell its film and TV studios and HBO Max; Netflix is offering a $5B breakup fee if the deal isn&#39;t approved &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p8#a251205p8)
- - [Netflix wins the bidding war for Warner Bros.](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout)
- - [A look at Microsoft Excel&#39;s evolution, as it remains the most widely used spreadsheet software with 500M paying users despite competition from Google and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p7#a251205p7)
- - [A profile of Amazon CTO Werner Vogels, who said his 2025 re:Invent keynote was his last to make room for other voices and warned devs about &quot;verification debt&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/251205/p6#a251205p6)<!-- TECH:END -->
+ - [Netflix wins the bidding war for Warner Bros.](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 😝 [Happens to everyone pal](http://9gag.com/gag/agmp2Zw)
- - 💣 [The council of men approves](http://9gag.com/gag/avyBv8q)
- - 😝 [Takes a lot of work to make crack](http://9gag.com/gag/a2vAb2Y)
- - 👉 [His own worst enemy](http://9gag.com/gag/aD2qXbx)<!-- MEMES:END -->
+ - 😝 [Fixed this](http://9gag.com/gag/awy9d4W)
+ - 😝 [He looks happy](http://9gag.com/gag/aZZ4jy9)
+ - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 😝 [A title and a title](http://9gag.com/gag/aKGXOV1)
+ - 👉 [Diddy finds Love in Prison.....](http://9gag.com/gag/agmpxox)<!-- MEMES:END -->
 
 ---
 

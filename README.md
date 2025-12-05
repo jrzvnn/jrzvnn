@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 😝 [Perfectly balanced..](http://9gag.com/gag/a87v236)
- - 💣 [Her cooking skills are unmatched](http://9gag.com/gag/aQzD2Gz)
- - 😝 [Cheers](http://9gag.com/gag/aD2qXWd)
- - 👉 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)<!-- MEMES:END -->
+ - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 😝 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
+ - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 😝 [RIP Shang Tsung. The actor Cary Hiroyuki passed away at 75 due to stroke.](http://9gag.com/gag/aO8n1MD)
+ - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 ---
 

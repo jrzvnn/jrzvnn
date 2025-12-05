@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude became a Lego kit](http://9gag.com/gag/a87vDOO)
- - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 💣 [Best examples?](http://9gag.com/gag/axyePZb)
- - 😝 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
- - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
+ - 😝 [Into the archives, shall we?](http://9gag.com/gag/ayNmRNr)
+ - 😝 [Food is not a drug, but that cheese pull is addictive](http://9gag.com/gag/aE0jDBo)
+ - 💣 [Prediction Machine](http://9gag.com/gag/a34zWd3)
+ - 😝 [Do I need new tyres, or can these bad boys roll a bit longer?](http://9gag.com/gag/aqyVWGR)
+ - 👉 [Lucky fella~](http://9gag.com/gag/avyBR5M)<!-- MEMES:END -->
 
 ---
 

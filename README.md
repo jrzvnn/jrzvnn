@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Food is not a drug, but that cheese pull is addictive](http://9gag.com/gag/aE0jDBo)
- - 😝 [Do I need new tyres, or can these bad boys roll a bit longer?](http://9gag.com/gag/aqyVWGR)
- - 💣 [The council of men approves](http://9gag.com/gag/avyBv8q)
- - 😝 [Residents say what&#39;s the point of the court system when people with a literal hundred arrests keep being released by judges and served 0 jail time](http://9gag.com/gag/aBybXb1)
- - 👉 [Lucky fella~](http://9gag.com/gag/avyBR5M)<!-- MEMES:END -->
+ - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 😝 [Haripur Pakistan&#39;s &#39;Fire Mountain&#39; Continues to Burn Decades After 1955 Gas Blast](http://9gag.com/gag/aNDGVOv)
+ - 💣 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
+ - 😝 [French f**ker](http://9gag.com/gag/apRnPjn)
+ - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In the press release announcing the deal, Netflix says it &quot;expects to maintain Warner Bros.&#39; current operations..., including theatrical releases for films&quot; &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/251205/p15#a251205p15)
+ - [Waymo faces federal probe for dodgy driving around school buses](https://www.theverge.com/news/838879/waymo-school-buses-probe)
  - [Pluribus turns a ‘caloric deficit’ into a nightmare](https://www.theverge.com/streaming/838256/pluribus-episode-6-recap-discussion)
  - [Netflix is buying Warner Bros. for $83 billion](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout)
- - [The far right is mobilizing against Trump AI czar David Sacks](https://www.theverge.com/ai-artificial-intelligence/838776/maga-ai-executive-order-david-sacks)
- - [Alan Dye &amp; John Giannandrea are leaving Apple on this week&#39;s AppleInsider Podcast](https://appleinsider.com/articles/25/12/05/alan-dye-john-giannandrea-are-leaving-apple-on-this-weeks-appleinsider-podcast?utm_source=rss)
- - [Sources and docs: India&#39;s government is considering forcing phone makers to enable always-on satellite location tracking; Apple, Google, and Samsung are opposed &lpar;Reuters&rpar;](http://www.techmeme.com/251205/p14#a251205p14)<!-- TECH:END -->
+ - [The far right is mobilizing against Trump AI czar David Sacks](https://www.theverge.com/ai-artificial-intelligence/838776/maga-ai-executive-order-david-sacks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

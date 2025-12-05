@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta strikes AI licensing deals with CNN, Fox News, and USA Today](https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today)
- - [The Ninth Circuit affirms a temporary order blocking OpenAI from using &quot;io&quot; as a trademark in some instances while an infringement suit against it proceeds &lpar;Kyle Jahner/Bloomberg Law&rpar;](http://www.techmeme.com/251205/p19#a251205p19)
- - [Rumor suggests obvious: iPhone Fold to be eSIM only](https://appleinsider.com/articles/25/12/05/rumor-suggest-obvious-iphone-fold-to-be-esim-only?utm_source=rss)
- - [The NYT sues Perplexity, claiming the AI startup violated its copyrights and failed to stop using its content despite repeated demands over the past 18 months &lpar;New York Times&rpar;](http://www.techmeme.com/251205/p18#a251205p18)
- - [Netflix has lined up a $59B unsecured bridge loan from Wells Fargo, BNP Paribas, and HSBC to support its WBD deal, one of the largest ever loans of its kind &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p17#a251205p17)<!-- TECH:END -->
+ - [Sony&amp;#8217;s new PS5 DualSense controller might have way more battery life](https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement)
+ - [9 Best Lubes &lpar;2025&rpar;: Water-Based, Silicone, Natural Oils](https://www.wired.com/gallery/best-lubes/)
+ - [It&amp;#8217;s code red for ChatGPT](https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast)
+ - [Hugging Face details how it used its new tool, Skills, to fine tune LLMs using Claude, including for writing scripts, submitting jobs to cloud GPUs, and more &lpar;Hugging Face&rpar;](http://www.techmeme.com/251205/p20#a251205p20)
+ - [This tiny magnetic e-reader sticks to the back of your iPhone](https://www.theverge.com/news/838885/xteink-x4-e-reader-magnetic-apple-iphone-google-pixel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

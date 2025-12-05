@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marc Benioff says it &quot;would not shock&quot; him if Salesforce changed its name to Agentforce; the company started using Agentforce for many of its offerings &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/251205/p23#a251205p23)
+ - [Netflix is buying Warner Bros Discovery: All of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)
  - [Dozens of staffers quit Apple, leaving behind only 164,000](https://appleinsider.com/articles/25/12/05/dozens-of-staffers-quit-apple-leaving-behind-only-164000?utm_source=rss)
  - [OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week](https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response)
- - [Wikipedia is getting in on the yearly wrapped game](https://www.theverge.com/news/838989/wikipedia-year-in-review-2025-wrapped)
- - [Sources: Dell alerts customers to 15-20% price hikes as soon as mid-December amid surging DRAM costs; Lenovo says current quotes will expire in January 2026 &lpar;TrendForce&rpar;](http://www.techmeme.com/251205/p22#a251205p22)
- - [HBO Max: The 25 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-hbo-max-dec-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wikipedia is getting in on the yearly wrapped game](https://www.theverge.com/news/838989/wikipedia-year-in-review-2025-wrapped)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now use Pixel phones as a Switch 2 webcam](https://www.theverge.com/news/839133/google-pixel-smartphone-nintendo-switch-2-webcam)
- - [The Luigi Mangione trial is all about narrative control](https://www.theverge.com/policy/839054/luigi-mangione-evidence-suppression-new-york-internet-fandom-media)
- - [Vice President JD Vance, US Secretary of State Marco Rubio, and FCC Chairman Brendan Carr denounce the EU&#39;s €120M X fine &lpar;Liv McMahon/BBC&rpar;](http://www.techmeme.com/251205/p25#a251205p25)
- - [9 Best Lubes &lpar;2025&rpar;: Water-Based, Silicone, Natural Oils](https://www.wired.com/gallery/best-lubes/)
- - [Apple CEO succession discussion enters new realm of rampant speculation](https://appleinsider.com/articles/25/12/05/apple-ceo-succession-discussion-enters-new-realm-of-rampant-speculation?utm_source=rss)<!-- TECH:END -->
+ - [Sources: SpaceX is planning a secondary share sale that would value the company at $800B, surpassing OpenAI to make it the most valuable US private company &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251205/p26#a251205p26)
+ - [Horses is a hit, but its studio might still be in trouble](https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship)
+ - [Chrome can now autofill details from your Google account](https://www.theverge.com/news/838987/google-chrome-android-ios-desktop-autofill-account-wallet)
+ - [The Best Deals From the Silk &amp; Snow Cyber Week Sale &lpar;2025&rpar;](https://www.wired.com/story/silk-snow-deals-2025/)
+ - [You can now use Pixel phones as a Switch 2 webcam](https://www.theverge.com/news/839133/google-pixel-smartphone-nintendo-switch-2-webcam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

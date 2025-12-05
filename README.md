@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dozens of staffers quit Apple, leaving behind only 164,000](https://appleinsider.com/articles/25/12/05/dozens-of-staffers-quit-apple-leaving-behind-only-164000?utm_source=rss)
  - [Sources: SpaceX is planning a secondary share sale that would value the company at $800B, surpassing OpenAI to make it the most valuable US private company &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251205/p26#a251205p26)
  - [Horses is a hit, but its studio might still be in trouble](https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship)
  - [Chrome can now autofill details from your Google account](https://www.theverge.com/news/838987/google-chrome-android-ios-desktop-autofill-account-wallet)
- - [The Best Deals From the Silk &amp; Snow Cyber Week Sale &lpar;2025&rpar;](https://www.wired.com/story/silk-snow-deals-2025/)
- - [You can now use Pixel phones as a Switch 2 webcam](https://www.theverge.com/news/839133/google-pixel-smartphone-nintendo-switch-2-webcam)<!-- TECH:END -->
+ - [The Best Deals From the Silk &amp; Snow Cyber Week Sale &lpar;2025&rpar;](https://www.wired.com/story/silk-snow-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

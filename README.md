@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prediction Machine](http://9gag.com/gag/a34zWd3)
- - 😝 [Food is not a drug, but that cheese pull is addictive](http://9gag.com/gag/aE0jDBo)
- - 💣 [Do I need new tyres, or can these bad boys roll a bit longer?](http://9gag.com/gag/aqyVWGR)
- - 😝 [The council of men approves](http://9gag.com/gag/avyBv8q)
- - 👉 [Lucky fella~](http://9gag.com/gag/avyBR5M)<!-- MEMES:END -->
+ - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 💣 [French f**ker](http://9gag.com/gag/apRnPjn)
+ - 😝 [Cheers](http://9gag.com/gag/aD2qXWd)
+ - 👉 [Perfectly balanced..](http://9gag.com/gag/a87v236)<!-- MEMES:END -->
 
 ---
 

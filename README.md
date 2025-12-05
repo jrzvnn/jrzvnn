@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But wait there&#39;s more \ud83d\udc80](http://9gag.com/gag/a2vADL9)
- - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 😝 [Perfectly balanced..](http://9gag.com/gag/a87v236)
  - 💣 [Her cooking skills are unmatched](http://9gag.com/gag/aQzD2Gz)
- - 😝 [I have bad feeling about this..](http://9gag.com/gag/a1m8EZ6)
- - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
+ - 😝 [Cheers](http://9gag.com/gag/aD2qXWd)
+ - 👉 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)<!-- MEMES:END -->
 
 ---
 

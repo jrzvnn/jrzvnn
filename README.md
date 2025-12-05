@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
  - 😝 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
+ - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
  - 💣 [LoTR](http://9gag.com/gag/aO8nPVr)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
- - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
+ - 😝 [Bankai](http://9gag.com/gag/abAL2Ep)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)<!-- MEMES:END -->
 
 ---
 

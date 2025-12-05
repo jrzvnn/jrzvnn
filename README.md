@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: WBD begins exclusive talks with Netflix to sell its film and TV studios and HBO Max; Netflix is offering a $5B breakup fee if the deal isn&#39;t approved &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p8#a251205p8)
  - [Netflix wins the bidding war for Warner Bros.](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout)
  - [A look at Microsoft Excel&#39;s evolution, as it remains the most widely used spreadsheet software with 500M paying users despite competition from Google and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p7#a251205p7)
  - [A profile of Amazon CTO Werner Vogels, who said his 2025 re:Invent keynote was his last to make room for other voices and warned devs about &quot;verification debt&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/251205/p6#a251205p6)
- - [A look back at five years of Meta&#39;s Oversight Board, whose rulings on the relatively small number of cases it hears have generally had limited impact &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251205/p5#a251205p5)
- - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [A look back at five years of Meta&#39;s Oversight Board, whose rulings on the relatively small number of cases it hears have generally had limited impact &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251205/p5#a251205p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

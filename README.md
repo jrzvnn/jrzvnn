@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Lubes &lpar;2025&rpar;: Water-Based, Silicone, Natural Oils](https://www.wired.com/gallery/best-lubes/)
  - [Apple CEO succession discussion enters new realm of rampant speculation](https://appleinsider.com/articles/25/12/05/apple-ceo-succession-discussion-enters-new-realm-of-rampant-speculation?utm_source=rss)
  - [Cloudflare says it has fixed an issue that caused a 25 minute outage on Friday, following a major, hours-long outage last month &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251205/p24#a251205p24)
  - [Marc Benioff says it &quot;would not shock&quot; him if Salesforce changed its name to Agentforce; the company started using Agentforce for many of its offerings &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/251205/p23#a251205p23)
- - [Netflix is buying Warner Bros Discovery: All of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)
- - [Dozens of staffers quit Apple, leaving behind only 164,000](https://appleinsider.com/articles/25/12/05/dozens-of-staffers-quit-apple-leaving-behind-only-164000?utm_source=rss)<!-- TECH:END -->
+ - [Netflix is buying Warner Bros Discovery: All of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

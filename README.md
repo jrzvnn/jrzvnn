@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pluribus turns a ‘caloric deficit’ into a nightmare](https://www.theverge.com/streaming/838256/pluribus-episode-6-recap-discussion)
+ - [Netflix is buying Warner Bros. for $83 billion](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout)
+ - [The far right is mobilizing against Trump AI czar David Sacks](https://www.theverge.com/ai-artificial-intelligence/838776/maga-ai-executive-order-david-sacks)
  - [Alan Dye &amp; John Giannandrea are leaving Apple on this week&#39;s AppleInsider Podcast](https://appleinsider.com/articles/25/12/05/alan-dye-john-giannandrea-are-leaving-apple-on-this-weeks-appleinsider-podcast?utm_source=rss)
- - [Sources and docs: India&#39;s government is considering forcing phone makers to enable always-on satellite location tracking; Apple, Google, and Samsung are opposed &lpar;Reuters&rpar;](http://www.techmeme.com/251205/p14#a251205p14)
- - [Netflix agrees to buy WBD&#39;s studios and streaming business in an $82.7B cash-and-stock deal; the transaction is expected to close after Q3 2026 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251205/p13#a251205p13)
- - [The Best Meal Replacement Shakes for Total Life Optimization &lpar;2025&rpar;](https://www.wired.com/gallery/best-liquid-meal-replacements/)
- - [EU fines X $140 million over ‘deceptive’ blue checkmarks](https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk)<!-- TECH:END -->
+ - [Sources and docs: India&#39;s government is considering forcing phone makers to enable always-on satellite location tracking; Apple, Google, and Samsung are opposed &lpar;Reuters&rpar;](http://www.techmeme.com/251205/p14#a251205p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

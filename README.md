@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfectly balanced..](http://9gag.com/gag/a87v236)
  - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 💣 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
  - 😝 [Cheers](http://9gag.com/gag/aD2qXWd)
- - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
+ - 👉 [Perfectly balanced..](http://9gag.com/gag/a87v236)<!-- MEMES:END -->
 
 ---
 

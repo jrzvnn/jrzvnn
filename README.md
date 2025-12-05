@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ninth Circuit affirms a temporary order blocking OpenAI from using &quot;io&quot; as a trademark in some instances while an infringement suit against it proceeds &lpar;Kyle Jahner/Bloomberg Law&rpar;](http://www.techmeme.com/251205/p19#a251205p19)
+ - [Rumor suggests obvious: iPhone Fold to be eSIM only](https://appleinsider.com/articles/25/12/05/rumor-suggest-obvious-iphone-fold-to-be-esim-only?utm_source=rss)
  - [The NYT sues Perplexity, claiming the AI startup violated its copyrights and failed to stop using its content despite repeated demands over the past 18 months &lpar;New York Times&rpar;](http://www.techmeme.com/251205/p18#a251205p18)
- - [Netflix has lined up a $59B unsecured bridge loan from Wells Fargo, HSBC, and BNP Paribas for its WBD deal, one of the largest ever unsecured bridge loans &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p17#a251205p17)
- - [GoTrax Mustang Electric Bike Review: Punchy and Tiny](https://www.wired.com/review/gotrax-mustang-electric-bike/)
- - [Netflix beats Apple to buy Warner Bros](https://appleinsider.com/articles/25/12/05/netflix-beats-apple-to-buy-warner-bros?utm_source=rss)
- - [Meta strikes multiyear commercial AI data deals with news publishers, including CNN and Fox News, to provide real-time answers for its Meta AI chatbot &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251205/p16#a251205p16)<!-- TECH:END -->
+ - [Netflix has lined up a $59B unsecured bridge loan from Wells Fargo, BNP Paribas, and HSBC to support its WBD deal, one of the largest ever loans of its kind &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p17#a251205p17)
+ - [GoTrax Mustang Electric Bike Review: Punchy and Tiny](https://www.wired.com/review/gotrax-mustang-electric-bike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

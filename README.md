@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s Time to Save Silicon Valley From Itself](https://www.wired.com/story/big-interview-event-techdirt-mike-masnick-common-tools-alex-komoroske/)
- - [Meta Poached Apple’s Top Design Guys to Fix Its Software UI](https://www.wired.com/story/meta-poached-apples-top-design-guys-to-fix-its-software-ui/)
- - [Circle’s Jeremy Allaire: We’re Building an ‘Economic OS’ for the AI Era](https://www.wired.com/story/big-interview-event-jeremy-allaire-circle/)
- - [A Polymarket trader netted $1M+ in 24 hours, mostly by placing suspiciously accurate bets on Google&#39;s 2025 Year in Search rankings &lpar;Boaz Sobrado/Forbes&rpar;](http://www.techmeme.com/251204/p50#a251204p50)
- - [Former DOGE Engineer Is Now Back in Government](https://www.wired.com/story/big-interview-event-sahil-lavingia/)<!-- TECH:END -->
+ - [Physicist Steve Hsu says he has published a peer-reviewed theoretical physics paper whose main idea came from GPT-5 &lpar;Steve Hsu/@hsu_steve&rpar;](http://www.techmeme.com/251204/p53#a251204p53)
+ - [Check Out Highlights From WIRED’s 2025 Big Interview Event](https://www.wired.com/story/the-big-interview-2025-recap/)
+ - [Checking Your Phone in the Bathroom Might Be Doing More Harm Than You Think](https://www.cnet.com/tech/mobile/study-reveals-doomscrolling-while-using-the-bathroom-has-a-hidden-risk/#ftag=CAD590a51e)
+ - [Former USIP Lawyer on DOGE: ‘Brass Knuckles on an Authoritarian Fist’](https://www.wired.com/story/big-interview-event-inside-doge-leland-dudek/)
+ - [AI Ranks the Catchiest Songs Ever—See If Your Favorites Made the List](https://www.cnet.com/tech/services-and-software/ai-has-officially-solved-the-debate-over-the-catchiest-songs-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

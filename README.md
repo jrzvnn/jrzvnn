@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chamberlain blocks smart home integrations with its garage door openers — again](https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers)
  - [Horses, the Most Controversial Game of the Year, Doesn’t Live Up to the Hype](https://www.wired.com/story/horses-the-most-controversial-game-of-the-year-doesnt-live-up-to-the-hype/)
  - [Star Wars’ original theatrical cut returns to theaters in 2027](https://www.theverge.com/news/839434/disney-star-wars-original-theatrical-cut-theaters-release-date)
  - [Buying Warner Bros. Gives Netflix What It’s Always Needed: An Identity](https://www.wired.com/story/netflix-warner-bros-acquisition-identity/)
- - [WBD confirms that Warner Bros. Games will be acquired by Netflix along with its wider streaming and television business &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/251205/p30#a251205p30)
- - [Meta acquires Limitless, which makes a pendant-style AI wearable that records and transcribes real-world conversations; Limitless has raised more than $33M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/251205/p29#a251205p29)<!-- TECH:END -->
+ - [Real vs. AI: Your Deepfake Spotter&#39;s Guide for AI-Generated Videos](https://www.cnet.com/tech/services-and-software/real-vs-ai-your-deepfake-spotters-guide-for-ai-generated-videos/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

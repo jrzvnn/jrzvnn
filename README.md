@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the uphill battle to win regulatory approval for Netflix&#39;s acquisition of WBD, and the roles of the US DOJ, EU regulators, and state attorneys general &lpar;Ted Johnson/Deadline&rpar;](http://www.techmeme.com/251205/p31#a251205p31)
  - [Chamberlain blocks smart home integrations with its garage door openers — again](https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers)
  - [Horses, the Most Controversial Game of the Year, Doesn’t Live Up to the Hype](https://www.wired.com/story/horses-the-most-controversial-game-of-the-year-doesnt-live-up-to-the-hype/)
  - [Star Wars’ original theatrical cut returns to theaters in 2027](https://www.theverge.com/news/839434/disney-star-wars-original-theatrical-cut-theaters-release-date)
- - [Buying Warner Bros. Gives Netflix What It’s Always Needed: An Identity](https://www.wired.com/story/netflix-warner-bros-acquisition-identity/)
- - [Real vs. AI: Your Deepfake Spotter&#39;s Guide for AI-Generated Videos](https://www.cnet.com/tech/services-and-software/real-vs-ai-your-deepfake-spotters-guide-for-ai-generated-videos/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Buying Warner Bros. Gives Netflix What It’s Always Needed: An Identity](https://www.wired.com/story/netflix-warner-bros-acquisition-identity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

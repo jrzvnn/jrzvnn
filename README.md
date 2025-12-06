@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
- - 😝 [Wtf](http://9gag.com/gag/a4PBWZm)
- - 💣 [Thx Carol](http://9gag.com/gag/aKGXK3O)
- - 😝 [Lucky Bastard!](http://9gag.com/gag/aVv9R0M)
- - 👉 [`Four men`](http://9gag.com/gag/aGyr7K5)<!-- MEMES:END -->
+ - 😝 [Disgusting, where I can find her?](http://9gag.com/gag/a2vAbMZ)
+ - 😝 [It was glorious.](http://9gag.com/gag/ayNmQvp)
+ - 💣 [Bro had a moment of clarity](http://9gag.com/gag/ayNmQOV)
+ - 😝 [Clark Griswold is a mood, not a man](http://9gag.com/gag/aqyVDxZ)
+ - 👉 [Thx Carol](http://9gag.com/gag/aKGXK3O)<!-- MEMES:END -->
 
 ---
 

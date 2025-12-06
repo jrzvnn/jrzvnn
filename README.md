@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disgusting, where I can find her?](http://9gag.com/gag/a2vAbMZ)
- - 😝 [It was glorious.](http://9gag.com/gag/ayNmQvp)
- - 💣 [Bro had a moment of clarity](http://9gag.com/gag/ayNmQOV)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
+ - 😝 [Bro had a moment of clarity](http://9gag.com/gag/ayNmQOV)
+ - 💣 [Thx Carol](http://9gag.com/gag/aKGXK3O)
  - 😝 [Clark Griswold is a mood, not a man](http://9gag.com/gag/aqyVDxZ)
- - 👉 [Thx Carol](http://9gag.com/gag/aKGXK3O)<!-- MEMES:END -->
+ - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
 
 ---
 

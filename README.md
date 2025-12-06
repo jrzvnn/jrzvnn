@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Parents are pressuring LA Unified, the second-largest US school district, to reduce mandatory student screen time on school-issued iPads and Chromebooks &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/251206/p2#a251206p2)
+ - [Source: Microsoft is in talks to design future custom chips with Broadcom, which would involve Microsoft switching its business from Marvell &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/251206/p1#a251206p1)
  - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-6/#ftag=CAD590a51e)
  - [Leaked memos: Meta is delaying the release of its MR glasses codenamed &quot;Phoenix&quot; from H2 2026 to H1 2027 for &quot;more breathing room to get the details right&quot; &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/251205/p36#a251205p36)
- - [An analysis of 100T+ tokens from the past year shows reasoning models now represent over half of all usage, open-weight model use has grown steadily, and more &lpar;OpenRouter&rpar;](http://www.techmeme.com/251205/p35#a251205p35)
- - [Best Wi-Fi Extenders of 2025](https://www.cnet.com/home/internet/best-wifi-extenders/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An analysis of 100T+ tokens from the past year shows reasoning models now represent over half of all usage, open-weight model use has grown steadily, and more &lpar;OpenRouter&rpar;](http://www.techmeme.com/251205/p35#a251205p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

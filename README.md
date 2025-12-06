@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Photogenic](http://9gag.com/gag/agmpEXx)
- - 😝 [`Four men`](http://9gag.com/gag/aGyr7K5)
- - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 😝 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
+ - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
+ - 💣 [Photogenic](http://9gag.com/gag/agmpEXx)
+ - 😝 [Lucky Bastard!](http://9gag.com/gag/aVv9R0M)
  - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
 
 ---

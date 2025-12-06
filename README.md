@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7 #644](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-644/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #910](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-910/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 7, #1632](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-7-1632/#ftag=CAD590a51e)
  - [Samsung&#39;s Cyber Week deals deliver up to $5,000 in savings, but the sale ends soon](https://appleinsider.com/articles/25/12/06/samsungs-cyber-week-deals-deliver-up-to-5000-in-savings-but-the-sale-ends-soon?utm_source=rss)
- - [ChatGPT head says screenshots of ChatGPT ads are &quot;either not real or not ads&quot;; OpenAI&#39;s research chief says &quot;anything that feels like an ad&quot; is now turned off &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251206/p9#a251206p9)
- - [A technical deep dive into Amazon&#39;s Trainium3 accelerator, including its server SKUs&#39; specifications, silicon design, power budget, and bill of materials &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251206/p8#a251206p8)
- - [Apple’s chip chief might be the next exec to leave](https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave)
- - [Apple chip chief Johny Srouji rumored to consider his own exit](https://appleinsider.com/articles/25/12/06/apple-chip-chief-johny-srouji-rumored-to-consider-his-own-exit?utm_source=rss)<!-- TECH:END -->
+ - [ChatGPT head says screenshots of ChatGPT ads are &quot;either not real or not ads&quot;; OpenAI&#39;s research chief says &quot;anything that feels like an ad&quot; is now turned off &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251206/p9#a251206p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

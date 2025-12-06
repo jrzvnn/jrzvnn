@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
  - 😝 [Bro had a moment of clarity](http://9gag.com/gag/ayNmQOV)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
  - 💣 [Thx Carol](http://9gag.com/gag/aKGXK3O)
- - 😝 [Clark Griswold is a mood, not a man](http://9gag.com/gag/aqyVDxZ)
- - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
+ - 😝 [Bankai](http://9gag.com/gag/abAL2Ep)
+ - 👉 [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
- - 😝 [Go sports!](http://9gag.com/gag/aGyrOzZ)
- - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 😝 [At Restaurant !](http://9gag.com/gag/avyB9g5)
- - 👉 [`Four men`](http://9gag.com/gag/aGyr7K5)<!-- MEMES:END -->
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
+ - 💣 [At Restaurant !](http://9gag.com/gag/avyB9g5)
+ - 😝 [Twilight logic](http://9gag.com/gag/a1m8O6Y)
+ - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
 
 ---
 

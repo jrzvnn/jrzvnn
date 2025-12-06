@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked memos: Meta delays the release of its MR glasses codenamed &quot;Phoenix&quot; from H2 2026 to H1 2027 to give Meta &quot;more breathing room to get the details right&quot; &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/251205/p36#a251205p36)
+ - [Leaked memos: Meta is delaying the release of its MR glasses codenamed &quot;Phoenix&quot; from H2 2026 to H1 2027 for &quot;more breathing room to get the details right&quot; &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/251205/p36#a251205p36)
  - [An analysis of 100T+ tokens from the past year shows reasoning models now represent over half of all usage, open-weight model use has grown steadily, and more &lpar;OpenRouter&rpar;](http://www.techmeme.com/251205/p35#a251205p35)
  - [Best Wi-Fi Extenders of 2025](https://www.cnet.com/home/internet/best-wifi-extenders/#ftag=CAD590a51e)
  - [Lenovo and Dell Warn: Your Next Laptop Could Cost More Really Soon](https://www.cnet.com/tech/computing/lenovo-and-dell-warn-your-next-laptop-could-cost-more-really-soon/#ftag=CAD590a51e)

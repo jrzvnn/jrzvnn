@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Walrus floating casually in the pool](http://9gag.com/gag/aE0jXgx)
- - 😝 [Will Smith Eating Spaghetti 2.9 Years Later](http://9gag.com/gag/aXPm2Lb)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
+ - 😝 [It&#39;s been over 30 years since this came out.Still one of the best animes out there](http://9gag.com/gag/a87vV1O)
  - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
+ - 💣 [A title and a title](http://9gag.com/gag/aKGXOV1)
+ - 😝 [I miss the days of `anything is possible` before i became a jaded old man](http://9gag.com/gag/a2vAOVp)
+ - 👉 [German Shepard on cocain](http://9gag.com/gag/aPAV16K)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A technical deep dive into Amazon&#39;s Trainium3 accelerator, including its server SKUs&#39; specifications, silicon design, power budget, and bill of materials &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251206/p8#a251206p8)
+ - [Apple’s chip chief might be the next exec to leave](https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave)
  - [Apple chip chief Johny Srouji rumored to consider his own exit](https://appleinsider.com/articles/25/12/06/apple-chip-chief-johny-srouji-rumored-to-consider-his-own-exit?utm_source=rss)
- - [Sources: Apple&#39;s chip chief Johny Srouji told Tim Cook that he is seriously considering leaving soon; some execs floated elevating him to the CTO role &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251206/p7#a251206p7)
- - [&#39;It: Welcome to Derry&#39; Release Schedule: When Does Episode 7 Come Out?](https://www.cnet.com/tech/services-and-software/it-welcome-to-derry-release-schedule-when-does-episode-7-come-out/#ftag=CAD590a51e)
- - [The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week](https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale)
- - [Rare pre-Liquid Glass &#39;iOS 19&#39; prototype provides tiny hint at iOS 27 plans](https://appleinsider.com/articles/25/12/06/rare-pre-liquid-glass-ios-19-prototype-provides-tiny-hint-at-ios-27-plans?utm_source=rss)<!-- TECH:END -->
+ - [We Asked Experts if Vibration Plates Are a Fitness Fad or if They Have Real Health Benefits](https://www.cnet.com/health/fitness/we-asked-experts-if-vibration-plates-are-a-fitness-fad-or-if-they-have-real-health-benefits/#ftag=CAD590a51e)
+ - [&#39;Landman&#39; Season 2, Episode 4: Release Date and Time on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-season-2-episode-4-release-date-and-time-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

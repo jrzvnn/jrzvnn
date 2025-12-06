@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Byron Cook, a VP at Amazon who is leading the company&#39;s effort to reduce AI hallucinations with a feature called Automated Reasoning Checks &lpar;John Pavlus/Fast Company&rpar;](http://www.techmeme.com/251206/p10#a251206p10)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7 #644](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-644/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #910](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-910/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Dec. 7, #1632](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-7-1632/#ftag=CAD590a51e)
- - [Samsung&#39;s Cyber Week deals deliver up to $5,000 in savings, but the sale ends soon](https://appleinsider.com/articles/25/12/06/samsungs-cyber-week-deals-deliver-up-to-5000-in-savings-but-the-sale-ends-soon?utm_source=rss)
- - [ChatGPT head says screenshots of ChatGPT ads are &quot;either not real or not ads&quot;; OpenAI&#39;s research chief says &quot;anything that feels like an ad&quot; is now turned off &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251206/p9#a251206p9)<!-- TECH:END -->
+ - [Samsung&#39;s Cyber Week deals deliver up to $5,000 in savings, but the sale ends soon](https://appleinsider.com/articles/25/12/06/samsungs-cyber-week-deals-deliver-up-to-5000-in-savings-but-the-sale-ends-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

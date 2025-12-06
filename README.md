@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Phreeli, a privacy-focused phone carrier that lets users sign up with only a ZIP code and uses an encryption system based on &quot;zero-knowledge proofs&quot; &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/251206/p5#a251206p5)
+ - [Canyon Deflectr RLS Bike Helmet Review: Game-Changing Safety Technology](https://www.wired.com/review/canyon-deflectr-rls-bike-helmet/)
+ - [Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted](https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/)
  - [Gevi Espresso Machine Review: Quick but Quirky](https://www.wired.com/review/gevi-espresso-machine/)
- - [Gear News of the Week: Google Drops Another Android Update, and the Sony A7 V Is Here](https://www.wired.com/story/gear-news-of-the-week-google-drops-an-android-update-and-the-sony-a7-v-is-here/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 6, #439](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-6-439/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 6, #909](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-6-909/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 6 #643](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-6-643/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gear News of the Week: Google Drops Another Android Update, and the Sony A7 V Is Here](https://www.wired.com/story/gear-news-of-the-week-google-drops-an-android-update-and-the-sony-a7-v-is-here/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

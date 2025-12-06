@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung&#39;s Cyber Week deals deliver up to $5,000 in savings, but the sale ends soon](https://appleinsider.com/articles/25/12/06/samsungs-cyber-week-deals-deliver-up-to-5000-in-savings-but-the-sale-ends-soon?utm_source=rss)
+ - [ChatGPT head says screenshots of ChatGPT ads are &quot;either not real or not ads&quot;; OpenAI&#39;s research head says &quot;anything that feels like an ad&quot; is now turned off &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251206/p9#a251206p9)
  - [A technical deep dive into Amazon&#39;s Trainium3 accelerator, including its server SKUs&#39; specifications, silicon design, power budget, and bill of materials &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251206/p8#a251206p8)
  - [Apple’s chip chief might be the next exec to leave](https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave)
- - [Apple chip chief Johny Srouji rumored to consider his own exit](https://appleinsider.com/articles/25/12/06/apple-chip-chief-johny-srouji-rumored-to-consider-his-own-exit?utm_source=rss)
- - [We Asked Experts if Vibration Plates Are a Fitness Fad or if They Have Real Health Benefits](https://www.cnet.com/health/fitness/we-asked-experts-if-vibration-plates-are-a-fitness-fad-or-if-they-have-real-health-benefits/#ftag=CAD590a51e)
- - [&#39;Landman&#39; Season 2, Episode 4: Release Date and Time on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-season-2-episode-4-release-date-and-time-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple chip chief Johny Srouji rumored to consider his own exit](https://appleinsider.com/articles/25/12/06/apple-chip-chief-johny-srouji-rumored-to-consider-his-own-exit?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

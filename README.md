@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of 100T+ tokens from the past year shows reasoning models now represent over half of all usage, open-weight model use has grown steadily, and more &lpar;OpenRouter&rpar;](http://www.techmeme.com/251205/p35#a251205p35)
+ - [Best Wi-Fi Extenders of 2025](https://www.cnet.com/home/internet/best-wifi-extenders/#ftag=CAD590a51e)
+ - [Lenovo and Dell Warn: Your Next Laptop Could Cost More Really Soon](https://www.cnet.com/tech/computing/lenovo-and-dell-warn-your-next-laptop-could-cost-more-really-soon/#ftag=CAD590a51e)
  - [Seattle-based Yoodli, which sells AI-powered communication training software, raised a $40M Series B led by WestBridge Capital, valuing the startup at $300M+ &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251205/p34#a251205p34)
- - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
- - [Waymo plans to issue a voluntary software recall over how its robotaxis operate around school buses following an NHTSA investigation opened in October &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/251205/p33#a251205p33)
- - [A US judge rules Google must renegotiate annually any contract that makes its search engine or AI app the default on smartphones and other devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p32#a251205p32)<!-- TECH:END -->
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

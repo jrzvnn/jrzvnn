@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rare pre-Liquid Glass &#39;iOS 19&#39; prototype provides tiny hint at iOS 27 plans](https://appleinsider.com/articles/25/12/06/rare-pre-liquid-glass-ios-19-prototype-provides-tiny-hint-at-ios-27-plans?utm_source=rss)
  - [India&#39;s request for satellite-aided iPhone location data is a privacy nightmare](https://appleinsider.com/articles/25/12/06/indias-request-for-satellite-aided-iphone-location-data-is-a-privacy-nightmare?utm_source=rss)
  - [The tech world is sleeping on the most exciting Bluetooth feature in years](https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google)
  - [Some Reddit moderators say a surge of AI slop on the site is eroding its authenticity and could lead to a feedback loop of AI models training on AI content &lpar;Kat Tenbarge/Wired&rpar;](http://www.techmeme.com/251206/p6#a251206p6)
- - [How Much Tesla&#39;s New Range of Affordable Electric Cars Cost and What You Get](https://www.cnet.com/roadshow/news/heres-what-teslas-new-range-of-affordable-electric-cars-cost/#ftag=CAD590a51e)
- - [The 46 Best Movies on Netflix, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [How Much Tesla&#39;s New Range of Affordable Electric Cars Cost and What You Get](https://www.cnet.com/roadshow/news/heres-what-teslas-new-range-of-affordable-electric-cars-cost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

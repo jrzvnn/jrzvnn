@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Walrus floating casually in the pool](http://9gag.com/gag/aE0jXgx)
+ - 😝 [Go sports!](http://9gag.com/gag/aGyrOzZ)
  - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
- - 😝 [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)
- - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
+ - 💣 [Bankai](http://9gag.com/gag/abAL2Ep)
+ - 😝 [Twilight logic](http://9gag.com/gag/a1m8O6Y)
+ - 👉 [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)<!-- MEMES:END -->
 
 ---
 

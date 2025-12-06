@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US really doesn&#39;t want more ICEBlock apps in the App Store](https://appleinsider.com/articles/25/12/06/the-us-really-doesnt-want-more-iceblock-apps-in-the-app-store?utm_source=rss)
  - [Horses deserves to be played, even if it&amp;#8217;s not very good](https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans)
  - [Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld](https://www.wired.com/review/lenovo-legion-go-gen-2/)
  - [Premier League Soccer: Stream Man City vs. Sunderland Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-sunderland-live-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Bournemouth vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)
- - [iPhone 17 Pro vs. Galaxy S25 Ultra Compared: I Tested the Camera Kings](https://www.cnet.com/tech/mobile/iphone-17-pro-vs-galaxy-s25-ultra-compared-i-tested-the-camera-kings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Bournemouth vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

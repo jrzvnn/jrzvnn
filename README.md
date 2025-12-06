@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Tehran Is Running Out of Water](https://www.wired.com/story/why-tehran-is-running-out-of-water-iran-climate-change-drought-extreme-weather/)
  - [A look at Phreeli, a privacy-focused phone carrier that lets users sign up with only a ZIP code and uses an encryption system based on &quot;zero-knowledge proofs&quot; &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/251206/p5#a251206p5)
+ - [If You&#39;re Looking to Buy a $20K Home Robot, There&#39;s Something You Should See](https://www.cnet.com/tech/considering-buying-a-20k-home-robot-theres-something-you-need-to-know-first/#ftag=CAD590a51e)
  - [Canyon Deflectr RLS Bike Helmet Review: Game-Changing Safety Technology](https://www.wired.com/review/canyon-deflectr-rls-bike-helmet/)
- - [Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted](https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/)
- - [Gevi Espresso Machine Review: Quick but Quirky](https://www.wired.com/review/gevi-espresso-machine/)
- - [Gear News of the Week: Google Drops Another Android Update, and the Sony A7 V Is Here](https://www.wired.com/story/gear-news-of-the-week-google-drops-an-android-update-and-the-sony-a7-v-is-here/)<!-- TECH:END -->
+ - [Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted](https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

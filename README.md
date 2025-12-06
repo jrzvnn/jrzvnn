@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical RPG](http://9gag.com/gag/a9y4DgD)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1346](http://9gag.com/gag/avyB9KW)
- - 💣 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
- - 😝 [Cool...](http://9gag.com/gag/apRn89n)
- - 👉 [Remember when the biggest threat was a VCR not a nuclear warhead](http://9gag.com/gag/aQzDyKe)<!-- MEMES:END -->
+ - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 😝 [Wtf](http://9gag.com/gag/a4PBWZm)
+ - 💣 [At Restaurant !](http://9gag.com/gag/avyB9g5)
+ - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
+ - 👉 [Wood.rar](http://9gag.com/gag/aryD8Mp)<!-- MEMES:END -->
 
 ---
 

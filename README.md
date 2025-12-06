@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week](https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale)
  - [Rare pre-Liquid Glass &#39;iOS 19&#39; prototype provides tiny hint at iOS 27 plans](https://appleinsider.com/articles/25/12/06/rare-pre-liquid-glass-ios-19-prototype-provides-tiny-hint-at-ios-27-plans?utm_source=rss)
+ - [Best Sports Streaming Service for 2025](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)
  - [India&#39;s request for satellite-aided iPhone location data is a privacy nightmare](https://appleinsider.com/articles/25/12/06/indias-request-for-satellite-aided-iphone-location-data-is-a-privacy-nightmare?utm_source=rss)
- - [The tech world is sleeping on the most exciting Bluetooth feature in years](https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google)
- - [Some Reddit moderators say a surge of AI slop on the site is eroding its authenticity and could lead to a feedback loop of AI models training on AI content &lpar;Kat Tenbarge/Wired&rpar;](http://www.techmeme.com/251206/p6#a251206p6)
- - [How Much Tesla&#39;s New Range of Affordable Electric Cars Cost and What You Get](https://www.cnet.com/roadshow/news/heres-what-teslas-new-range-of-affordable-electric-cars-cost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UFC 323: Dvalishvili vs. Yan 2, Everything to Know to Watch via Livestream](https://www.cnet.com/tech/services-and-software/ufc-323-dvalishvili-vs-yan-2-everything-to-know-to-watch-via-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

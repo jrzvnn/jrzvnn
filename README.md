@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s been over 30 years since this came out.Still one of the best animes out there](http://9gag.com/gag/a87vV1O)
+ - 😝 [Will Smith Eating Spaghetti 2.9 Years Later](http://9gag.com/gag/aXPm2Lb)
  - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 💣 [A title and a title](http://9gag.com/gag/aKGXOV1)
- - 😝 [I miss the days of `anything is possible` before i became a jaded old man](http://9gag.com/gag/a2vAOVp)
- - 👉 [German Shepard on cocain](http://9gag.com/gag/aPAV16K)<!-- MEMES:END -->
+ - 💣 [Something About Market Caps](http://9gag.com/gag/aYQvR52)
+ - 😝 [Twilight logic](http://9gag.com/gag/a1m8O6Y)
+ - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
 
 ---
 

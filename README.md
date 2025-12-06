@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
- - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
- - 💣 [Go sports!](http://9gag.com/gag/aGyrOzZ)
- - 😝 [Spinning trick](http://9gag.com/gag/a87vz36)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [Go sports!](http://9gag.com/gag/aGyrOzZ)
+ - 💣 [Something About Market Caps](http://9gag.com/gag/aYQvR52)
+ - 😝 [Twilight logic](http://9gag.com/gag/a1m8O6Y)
  - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
 
 ---

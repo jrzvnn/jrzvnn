@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is blowing out M4 iPad Pro inventory with discounts up to $600 off](https://appleinsider.com/articles/25/12/06/amazon-is-blowing-out-m4-ipad-pro-inventory-with-discounts-up-to-600-off?utm_source=rss)
+ - [Short seller Grizzly shorts London-listed Trustpilot, alleging the review site pressures businesses to pay for subscriptions; Trustpilot refutes the claims &lpar;Bloomberg&rpar;](http://www.techmeme.com/251206/p3#a251206p3)
  - [Parents are pressuring LA Unified, the second-largest US school district, to reduce mandatory student screen time on school-issued iPads and Chromebooks &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/251206/p2#a251206p2)
  - [Source: Microsoft is in talks to design future custom chips with Broadcom, which would involve Microsoft switching its business from Marvell &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/251206/p1#a251206p1)
- - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-6/#ftag=CAD590a51e)
- - [Leaked memos: Meta is delaying the release of its MR glasses codenamed &quot;Phoenix&quot; from H2 2026 to H1 2027 for &quot;more breathing room to get the details right&quot; &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/251205/p36#a251205p36)<!-- TECH:END -->
+ - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld](https://www.wired.com/review/lenovo-legion-go-gen-2/)
- - [Why Tehran Is Running Out of Water](https://www.wired.com/story/why-tehran-is-running-out-of-water-iran-climate-change-drought-extreme-weather/)
- - [A look at Phreeli, a privacy-focused phone carrier that lets users sign up with only a ZIP code and uses an encryption system based on &quot;zero-knowledge proofs&quot; &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/251206/p5#a251206p5)
- - [If You&#39;re Looking to Buy a $20K Home Robot, There&#39;s Something You Should See](https://www.cnet.com/tech/considering-buying-a-20k-home-robot-theres-something-you-need-to-know-first/#ftag=CAD590a51e)
- - [Canyon Deflectr RLS Bike Helmet Review: Game-Changing Safety Technology](https://www.wired.com/review/canyon-deflectr-rls-bike-helmet/)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Man City vs. Sunderland Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-sunderland-live-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Bournemouth vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)
+ - [iPhone 17 Pro vs. Galaxy S25 Ultra Compared: I Tested the Camera Kings](https://www.cnet.com/tech/mobile/iphone-17-pro-vs-galaxy-s25-ultra-compared-i-tested-the-camera-kings/#ftag=CAD590a51e)
+ - [Why Tehran Is Running Out of Water](https://www.wired.com/story/why-tehran-is-running-out-of-water-iran-climate-change-drought-extreme-weather/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

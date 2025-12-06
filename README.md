@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thx Carol](http://9gag.com/gag/aKGXK3O)
- - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
- - 💣 [Bankai](http://9gag.com/gag/abAL2Ep)
+ - 😝 [Long time no see](http://9gag.com/gag/aRB8O1G)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 💣 [I wipe my own ass....](http://9gag.com/gag/aO8nRE2)
  - 😝 [Clark Griswold is a mood, not a man](http://9gag.com/gag/aqyVDxZ)
- - 👉 [Wood.rar](http://9gag.com/gag/aryD8Mp)<!-- MEMES:END -->
+ - 👉 [A title and a title](http://9gag.com/gag/aKGXOV1)<!-- MEMES:END -->
 
 ---
 

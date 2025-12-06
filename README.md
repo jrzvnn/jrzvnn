@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/a4PBWZm)
- - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
- - 💣 [Bankai](http://9gag.com/gag/abAL2Ep)
- - 😝 [Twilight logic](http://9gag.com/gag/a1m8O6Y)
- - 👉 [Wood.rar](http://9gag.com/gag/aryD8Mp)<!-- MEMES:END -->
+ - 😝 [Go sports!](http://9gag.com/gag/aGyrOzZ)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 💣 [Something About Market Caps](http://9gag.com/gag/aYQvR52)
+ - 😝 [Spinning trick](http://9gag.com/gag/a87vz36)
+ - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
 
 ---
 

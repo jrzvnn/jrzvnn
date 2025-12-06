@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bankai](http://9gag.com/gag/abAL2Ep)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
- - 💣 [LoTR](http://9gag.com/gag/aO8nPVr)
- - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
+ - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 😝 [LoTR](http://9gag.com/gag/aO8nPVr)
+ - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [Lucky Bastard!](http://9gag.com/gag/aVv9R0M)
  - 👉 [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)<!-- MEMES:END -->
 
 ---

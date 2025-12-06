@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/a4PBWZm)
- - 😝 [Bro will never recover from this](http://9gag.com/gag/aD2qXrw)
- - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 😝 [Remember when the biggest threat was a VCR not a nuclear warhead](http://9gag.com/gag/aQzDyKe)
- - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
+ - 😝 [Long time no see](http://9gag.com/gag/aRB8O1G)
+ - 😝 [It&#39;s been over 30 years since this came out.Still one of the best animes out there](http://9gag.com/gag/a87vV1O)
+ - 💣 [I wipe my own ass....](http://9gag.com/gag/aO8nRE2)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 👉 [A title and a title](http://9gag.com/gag/aKGXOV1)<!-- MEMES:END -->
 
 ---
 

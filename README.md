@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI ‘creators’ might just crash the influencer economy](https://www.theverge.com/entertainment/839494/ai-literacy-tiktok)
- - [The US really doesn&#39;t want more ICEBlock apps in the App Store](https://appleinsider.com/articles/25/12/06/the-us-really-doesnt-want-more-iceblock-apps-in-the-app-store?utm_source=rss)
- - [Horses deserves to be played, even if it&amp;#8217;s not very good](https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans)
- - [Samsung&#39;s Galaxy Z TriFold Debuts in Korea Next Week, But Won&#39;t Hit the US Until 2026](https://www.cnet.com/tech/mobile/samsungs-galaxy-z-trifold-debuts-in-korea-next-week-but-wont-hit-the-us-until-2026/#ftag=CAD590a51e)
- - [Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld](https://www.wired.com/review/lenovo-legion-go-gen-2/)<!-- TECH:END -->
+ - [Some Reddit moderators say a surge of AI slop on the site is eroding its authenticity and could lead to a feedback loop of AI models training on AI content &lpar;Kat Tenbarge/Wired&rpar;](http://www.techmeme.com/251206/p6#a251206p6)
+ - [The 46 Best Movies on Netflix, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 46 Best Shows on Netflix, WIRED&#39;s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Mad Men&amp;#8217;s special effects foreman hasn&amp;#8217;t seen the infamous 4K remaster](https://www.theverge.com/entertainment/839591/man-men-shannon-thompson-interview)
+ - [AI ‘creators’ might just crash the influencer economy](https://www.theverge.com/entertainment/839494/ai-literacy-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

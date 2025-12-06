@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Four men`](http://9gag.com/gag/aGyr7K5)
  - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
- - 💣 [Photogenic](http://9gag.com/gag/agmpEXx)
+ - 😝 [`Four men`](http://9gag.com/gag/aGyr7K5)
+ - 💣 [Best examples?](http://9gag.com/gag/axyePZb)
  - 😝 [Lucky Bastard!](http://9gag.com/gag/aVv9R0M)
- - 👉 [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)<!-- MEMES:END -->
+ - 👉 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)<!-- MEMES:END -->
 
 ---
 

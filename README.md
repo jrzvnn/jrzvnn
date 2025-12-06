@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premier League Soccer: Stream Aston Villa vs. Arsenal, Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)
- - [A look at various quirks in AI-generated prose, mainly influenced by &quot;overfitting&quot; in AI models, as humans increasingly mimic AI language in writing and speech &lpar;Sam Kriss/New York Times&rpar;](http://www.techmeme.com/251206/p4#a251206p4)
- - [Amazon is blowing out M4 iPad Pro inventory with discounts up to $600 off](https://appleinsider.com/articles/25/12/06/amazon-is-blowing-out-m4-ipad-pro-inventory-with-discounts-up-to-600-off?utm_source=rss)
- - [Short seller Grizzly shorts London-listed Trustpilot, alleging the review site pressures businesses to pay for subscriptions; Trustpilot refutes the claims &lpar;Bloomberg&rpar;](http://www.techmeme.com/251206/p3#a251206p3)
- - [Parents are pressuring LA Unified, the second-largest US school district, to reduce mandatory student screen time on school-issued iPads and Chromebooks &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/251206/p2#a251206p2)<!-- TECH:END -->
+ - [Gevi Espresso Machine Review: Quick but Quirky](https://www.wired.com/review/gevi-espresso-machine/)
+ - [Gear News of the Week: Google Drops Another Android Update, and the Sony A7 V Is Here](https://www.wired.com/story/gear-news-of-the-week-google-drops-an-android-update-and-the-sony-a7-v-is-here/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 6, #439](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-6-439/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 6, #909](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-6-909/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 6 #643](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-6-643/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

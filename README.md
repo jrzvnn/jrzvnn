@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First date idea?](http://9gag.com/gag/a5Q9qoq)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
- - 💣 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 😝 [Thx Carol](http://9gag.com/gag/aKGXK3O)
+ - 😝 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
+ - 💣 [Bankai](http://9gag.com/gag/abAL2Ep)
  - 😝 [Something About Market Caps](http://9gag.com/gag/aYQvR52)
- - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
+ - 👉 [Wood.rar](http://9gag.com/gag/aryD8Mp)<!-- MEMES:END -->
 
 ---
 

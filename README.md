@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At Restaurant !](http://9gag.com/gag/avyB9g5)
- - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 💣 [Walrus floating casually in the pool](http://9gag.com/gag/aE0jXgx)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
+ - 😝 [First date idea?](http://9gag.com/gag/a5Q9qoq)
+ - 💣 [Bankai](http://9gag.com/gag/abAL2Ep)
  - 😝 [Twilight logic](http://9gag.com/gag/a1m8O6Y)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)<!-- MEMES:END -->
+ - 👉 [At Restaurant !](http://9gag.com/gag/avyB9g5)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long time no see](http://9gag.com/gag/aRB8O1G)
  - 😝 [It&#39;s been over 30 years since this came out.Still one of the best animes out there](http://9gag.com/gag/a87vV1O)
- - 💣 [I wipe my own ass....](http://9gag.com/gag/aO8nRE2)
- - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [I wipe my own ass....](http://9gag.com/gag/aO8nRE2)
+ - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [Twilight logic](http://9gag.com/gag/a1m8O6Y)
  - 👉 [A title and a title](http://9gag.com/gag/aKGXOV1)<!-- MEMES:END -->
 
 ---

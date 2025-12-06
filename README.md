@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bankai](http://9gag.com/gag/abAL2Ep)
  - 😝 [Thx Carol](http://9gag.com/gag/aKGXK3O)
- - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
+ - 💣 [Bankai](http://9gag.com/gag/abAL2Ep)
  - 😝 [Clark Griswold is a mood, not a man](http://9gag.com/gag/aqyVDxZ)
- - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
+ - 👉 [Wood.rar](http://9gag.com/gag/aryD8Mp)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thx Carol](http://9gag.com/gag/aKGXK3O)
- - 😝 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
+ - 😝 [Wtf](http://9gag.com/gag/a4PBWZm)
+ - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
  - 💣 [Bankai](http://9gag.com/gag/abAL2Ep)
- - 😝 [Something About Market Caps](http://9gag.com/gag/aYQvR52)
+ - 😝 [Twilight logic](http://9gag.com/gag/a1m8O6Y)
  - 👉 [Wood.rar](http://9gag.com/gag/aryD8Mp)<!-- MEMES:END -->
 
 ---

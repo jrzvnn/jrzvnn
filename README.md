@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Apple&#39;s chip chief Johny Srouji told Tim Cook that he is seriously considering leaving soon; some execs floated elevating him to the CTO role &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251206/p7#a251206p7)
+ - [&#39;It: Welcome to Derry&#39; Release Schedule: When Does Episode 7 Come Out?](https://www.cnet.com/tech/services-and-software/it-welcome-to-derry-release-schedule-when-does-episode-7-come-out/#ftag=CAD590a51e)
  - [The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week](https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale)
  - [Rare pre-Liquid Glass &#39;iOS 19&#39; prototype provides tiny hint at iOS 27 plans](https://appleinsider.com/articles/25/12/06/rare-pre-liquid-glass-ios-19-prototype-provides-tiny-hint-at-ios-27-plans?utm_source=rss)
- - [Best Sports Streaming Service for 2025](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)
- - [India&#39;s request for satellite-aided iPhone location data is a privacy nightmare](https://appleinsider.com/articles/25/12/06/indias-request-for-satellite-aided-iphone-location-data-is-a-privacy-nightmare?utm_source=rss)<!-- TECH:END -->
+ - [Best Sports Streaming Service for 2025](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

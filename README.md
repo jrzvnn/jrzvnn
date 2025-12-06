@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Premier League Soccer: Stream Aston Villa vs. Arsenal, Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)
  - [A look at various quirks in AI-generated prose, mainly influenced by &quot;overfitting&quot; in AI models, as humans increasingly mimic AI language in writing and speech &lpar;Sam Kriss/New York Times&rpar;](http://www.techmeme.com/251206/p4#a251206p4)
  - [Amazon is blowing out M4 iPad Pro inventory with discounts up to $600 off](https://appleinsider.com/articles/25/12/06/amazon-is-blowing-out-m4-ipad-pro-inventory-with-discounts-up-to-600-off?utm_source=rss)
  - [Short seller Grizzly shorts London-listed Trustpilot, alleging the review site pressures businesses to pay for subscriptions; Trustpilot refutes the claims &lpar;Bloomberg&rpar;](http://www.techmeme.com/251206/p3#a251206p3)
- - [Parents are pressuring LA Unified, the second-largest US school district, to reduce mandatory student screen time on school-issued iPads and Chromebooks &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/251206/p2#a251206p2)
- - [Source: Microsoft is in talks to design future custom chips with Broadcom, which would involve Microsoft switching its business from Marvell &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/251206/p1#a251206p1)<!-- TECH:END -->
+ - [Parents are pressuring LA Unified, the second-largest US school district, to reduce mandatory student screen time on school-issued iPads and Chromebooks &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/251206/p2#a251206p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

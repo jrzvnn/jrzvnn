@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wipe my own ass....](http://9gag.com/gag/aO8nRE2)
- - 😝 [It&#39;s been over 30 years since this came out.Still one of the best animes out there](http://9gag.com/gag/a87vV1O)
- - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 😝 [A title and a title](http://9gag.com/gag/aKGXOV1)
- - 👉 [German Shepard on cocain](http://9gag.com/gag/aPAV16K)<!-- MEMES:END -->
+ - 😝 [Walrus floating casually in the pool](http://9gag.com/gag/aE0jXgx)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
+ - 😝 [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)
+ - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
 
 ---
 

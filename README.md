@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s been over 30 years since this came out.Still one of the best animes out there](http://9gag.com/gag/a87vV1O)
- - 😝 [I wipe my own ass....](http://9gag.com/gag/aO8nRE2)
- - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 💣 [Walrus floating casually in the pool](http://9gag.com/gag/aE0jXgx)
  - 😝 [Twilight logic](http://9gag.com/gag/a1m8O6Y)
- - 👉 [A title and a title](http://9gag.com/gag/aKGXOV1)<!-- MEMES:END -->
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Go sports!](http://9gag.com/gag/aGyrOzZ)
  - 😝 [He looks happy](http://9gag.com/gag/aZZ4jy9)
- - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 💣 [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)
- - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 💣 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 😝 [`Four men`](http://9gag.com/gag/aGyr7K5)
  - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
 
 ---

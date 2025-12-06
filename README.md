@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports!](http://9gag.com/gag/aGyrOzZ)
- - 😝 [He looks happy](http://9gag.com/gag/aZZ4jy9)
- - 💣 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
- - 😝 [`Four men`](http://9gag.com/gag/aGyr7K5)
- - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
+ - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
+ - 😝 [Wtf](http://9gag.com/gag/a4PBWZm)
+ - 💣 [Thx Carol](http://9gag.com/gag/aKGXK3O)
+ - 😝 [Lucky Bastard!](http://9gag.com/gag/aVv9R0M)
+ - 👉 [`Four men`](http://9gag.com/gag/aGyr7K5)<!-- MEMES:END -->
 
 ---
 

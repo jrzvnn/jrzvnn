@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Lemurian Labs, which aims to develop hardware-agnostic portability software for AI workloads, raised a $28M Series A co-led by Pebblebed Ventures and Hexagon &lpar;Sally Ward-Foxton/EE Times&rpar;](http://www.techmeme.com/251207/p7#a251207p7)
- - [As Key Talent Abandons Apple, Meet the New Generation of Leaders Taking On the Old Guard](https://www.wired.com/story/can-hardware-guy-john-ternus-revive-apple-with-this-new-gen-of-design-and-ai-chiefs/)
- - [India&#39;s digital transformation has exposed citizens to scams like &quot;digital arrests&quot;, where victims are coerced into transferring funds under false accusations &lpar;Bloomberg&rpar;](http://www.techmeme.com/251207/p6#a251207p6)
- - [Simular, which is building AI agents for Mac and Windows PCs, raised a $21.5M Series A led by Felicis; Simular has released its 1.0 version for macOS &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251207/p5#a251207p5)
- - [Excelsior Sciences, which aims to use AI and robots for small-molecule drug discovery and development, raised a $70M Series A from Khosla Ventures and others &lpar;Aayushi Pratap/Chemical &amp; ...&rpar;](http://www.techmeme.com/251207/p4#a251207p4)<!-- TECH:END -->
+ - [How Wellness Influencers Spreading Misinformation Signals a Deeper Problem Within Our Health Care System](https://www.cnet.com/health/features/wellness-influencers-misinformation-signals-deeper-problem-health-care-system/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #910](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-910/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7 #644](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-644/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 7, #1632](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-7-1632/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

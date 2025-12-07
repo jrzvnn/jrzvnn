@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
  - 😝 [At Restaurant !](http://9gag.com/gag/avyB9g5)
- - 💣 [What&#39;s the bet, do we think the over-funded police , that has surveillance on us 24/7 found him?](http://9gag.com/gag/ajP3RV8)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
+ - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
  - 😝 [The good old days](http://9gag.com/gag/axye4QY)
- - 👉 [Something About Market Caps](http://9gag.com/gag/aYQvR52)<!-- MEMES:END -->
+ - 👉 [What&#39;s the bet, do we think the over-funded police , that has surveillance on us 24/7 found him?](http://9gag.com/gag/ajP3RV8)<!-- MEMES:END -->
 
 ---
 

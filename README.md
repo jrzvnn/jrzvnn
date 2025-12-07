@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lucky Bastard!](http://9gag.com/gag/aVv9R0M)
- - 😝 [Almost year 2026 we are doomed](http://9gag.com/gag/a2vAGpZ)
- - 💣 [Also mountain climbing. Or eating broccoli.](http://9gag.com/gag/aW4e9y3)
- - 😝 [The good old days](http://9gag.com/gag/axye4QY)
- - 👉 [Respect](http://9gag.com/gag/a5Q9xZr)<!-- MEMES:END -->
+ - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
+ - 😝 [At Restaurant !](http://9gag.com/gag/avyB9g5)
+ - 💣 [Something About Market Caps](http://9gag.com/gag/aYQvR52)
+ - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
+ - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
 
 ---
 

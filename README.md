@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A love letter to glory days of iPhone gaming](https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam)
  - [Justin Bieber threatens Apple with &#39;rear naked choke hold&#39; over Messages UI](https://appleinsider.com/articles/25/12/07/justin-bieber-threatens-apple-with-rear-naked-choke-hold-over-messages-ui?utm_source=rss)
- - [The Best Printers for Home and Office: Brother, HP, and More](https://www.wired.com/gallery/best-printers/)
- - [Starlink made ‘work from home’ possible from anywhere — now, I&amp;#8217;m ready for a change](https://www.theverge.com/column/837202/starlink-work-from-home)
- - [An all-time great game makes a comeback](https://www.theverge.com/tech/839273/red-dead-redemption-fizzy-installer)
- - [The Best Gifts for Book Lovers &lpar;2025&rpar;: E-Readers, Cozy Accessories, Book Sets](https://www.wired.com/story/gifts-for-book-lovers/)<!-- TECH:END -->
+ - [What a DJI Drone Ban Would Mean for Owners and Holiday Shoppers](https://www.cnet.com/tech/computing/what-a-ban-would-actually-mean-for-dji-drone-owners-and-holiday-shoppers/#ftag=CAD590a51e)
+ - [Unitree&#39;s Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/#ftag=CAD590a51e)
+ - [The 2025 TikTok Awards Are Coming. Here&#39;s How to Watch Your Favorite Creators Live](https://www.cnet.com/tech/services-and-software/the-2025-tiktok-awards-are-coming-heres-how-to-watch-your-favorite-creators-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

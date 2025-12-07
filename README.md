@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [7 year old with talent](http://9gag.com/gag/aD2qQKZ)
- - 😝 [A normal person](http://9gag.com/gag/azxv44q)
- - 💣 [Dude was suspected of killing two girls. The police said: `do NOT try to catch him`. The citizens of Kaunas &lpar;Lithuania&rpar; said: `hold my beer`. About 1,300 citizens conected. They caught him. And they caught him GOOD &lpar;video in comments&rpar;](http://9gag.com/gag/aGyrbpX)
- - 😝 [The good old days](http://9gag.com/gag/axye4QY)
- - 👉 [Red champagne is the best](http://9gag.com/gag/aD2qMRw)<!-- MEMES:END -->
+ - 😝 [Putting on a fitted sheet is a workout and a half](http://9gag.com/gag/aGyr7bz)
+ - 😝 [At Restaurant !](http://9gag.com/gag/avyB9g5)
+ - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
+ - 👉 [What&#39;s the bet, do we think the over-funded police , that has surveillance on us 24/7 found him?](http://9gag.com/gag/ajP3RV8)<!-- MEMES:END -->
 
 ---
 

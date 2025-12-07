@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Google Glass got right — and really, really wrong](https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history)
  - [A love letter to glory days of iPhone gaming](https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam)
  - [Justin Bieber threatens Apple with &#39;rear naked choke hold&#39; over Messages UI](https://appleinsider.com/articles/25/12/07/justin-bieber-threatens-apple-with-rear-naked-choke-hold-over-messages-ui?utm_source=rss)
  - [What a DJI Drone Ban Would Mean for Owners and Holiday Shoppers](https://www.cnet.com/tech/computing/what-a-ban-would-actually-mean-for-dji-drone-owners-and-holiday-shoppers/#ftag=CAD590a51e)
- - [Unitree&#39;s Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/#ftag=CAD590a51e)
- - [The 2025 TikTok Awards Are Coming. Here&#39;s How to Watch Your Favorite Creators Live](https://www.cnet.com/tech/services-and-software/the-2025-tiktok-awards-are-coming-heres-how-to-watch-your-favorite-creators-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unitree&#39;s Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

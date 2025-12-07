@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Simular, which is building AI agents for Mac and Windows PCs, raised a $21.5M Series A led by Felicis; Simular has released its 1.0 version for macOS &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251207/p5#a251207p5)
+ - [Excelsior Sciences, which aims to use AI and robots for small-molecule drug discovery and development, raised a $70M Series A from Khosla Ventures and others &lpar;Aayushi Pratap/Chemical &amp; ...&rpar;](http://www.techmeme.com/251207/p4#a251207p4)
+ - [Apple&#39;s new M5 MacBook Pro with 32GB RAM falls to $1,749](https://appleinsider.com/articles/25/12/07/apples-new-m5-macbook-pro-with-32gb-ram-falls-to-1749?utm_source=rss)
  - [South Korea says it has signed an MOU with Arm to strengthen its chip and AI sectors, including a program to train ~1,400 high-level chip design specialists &lpar;Reuters&rpar;](http://www.techmeme.com/251207/p3#a251207p3)
- - [PermitFlow, which develops AI-powered workflow software for construction permitting, raised a $54M Series B led by Accel, a source says at a ~$500M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251207/p2#a251207p2)
- - [Chinese smartphone makers are promoting apps to help users switch from iOS in a race for market share, as Apple struggles to roll out AI features in China &lpar;Financial Times&rpar;](http://www.techmeme.com/251207/p1#a251207p1)
- - [In recent months, several companies like Airtable, Handshake, and Opendoor have announced that they are &quot;refounding&quot;, as they scramble to add new AI features &lpar;Lora Kelley/New York Times&rpar;](http://www.techmeme.com/251206/p12#a251206p12)
- - [Best Apple HomeKit Devices to Buy in December 2025](https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PermitFlow, which develops AI-powered workflow software for construction permitting, raised a $54M Series B led by Accel, a source says at a ~$500M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251207/p2#a251207p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

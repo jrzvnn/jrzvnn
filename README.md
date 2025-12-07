@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A normal person](http://9gag.com/gag/azxv44q)
+ - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
  - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
  - 💣 [At Restaurant !](http://9gag.com/gag/avyB9g5)
  - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
- - 👉 [What&#39;s the bet, do we think the over-funded police , that has surveillance on us 24/7 found him?](http://9gag.com/gag/ajP3RV8)<!-- MEMES:END -->
+ - 👉 [Photogenic](http://9gag.com/gag/agmpEXx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Printers for Home and Office: Brother, HP, and More](https://www.wired.com/gallery/best-printers/)
+ - [Starlink made ‘work from home’ possible from anywhere — now, I&amp;#8217;m ready for a change](https://www.theverge.com/column/837202/starlink-work-from-home)
+ - [An all-time great game makes a comeback](https://www.theverge.com/tech/839273/red-dead-redemption-fizzy-installer)
  - [The Best Gifts for Book Lovers &lpar;2025&rpar;: E-Readers, Cozy Accessories, Book Sets](https://www.wired.com/story/gifts-for-book-lovers/)
- - [What Are Gravel Running Shoes? &lpar;2025&rpar;](https://www.wired.com/story/what-are-gravel-running-shoes/)
- - [Lemurian Labs, which aims to develop hardware-agnostic portability software for AI workloads, raised a $28M Series A co-led by Pebblebed Ventures and Hexagon &lpar;Sally Ward-Foxton/EE Times&rpar;](http://www.techmeme.com/251207/p7#a251207p7)
- - [How Wellness Influencers Spreading Misinformation Signals a Deeper Problem Within Our Health Care System](https://www.cnet.com/health/features/wellness-influencers-misinformation-signals-deeper-problem-health-care-system/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #910](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-910/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nano Banana Pro Review: Is Google&#39;s AI Image Generator Too Good?](https://www.cnet.com/tech/services-and-software/google-nano-banana-pro-ai-image-generator-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At Restaurant !](http://9gag.com/gag/avyB9g5)
+ - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
  - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
  - 💣 [Respect](http://9gag.com/gag/a5Q9xZr)
- - 😝 [Anticipation rising](http://9gag.com/gag/agmpdAW)
- - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
+ - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
+ - 👉 [What&#39;s the bet, do we think the over-funded police , that has surveillance on us 24/7 found him?](http://9gag.com/gag/ajP3RV8)<!-- MEMES:END -->
 
 ---
 

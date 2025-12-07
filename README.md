@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Almost pulled into the ceiling](http://9gag.com/gag/a87vVNd)
- - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
- - 💣 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
- - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [The Nutcracker](http://9gag.com/gag/aVv9BoK)
+ - 💣 [Bird got hit with a water jet and became an anime villain](http://9gag.com/gag/a34zNy7)
+ - 😝 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
  - 👉 [At Restaurant !](http://9gag.com/gag/avyB9g5)<!-- MEMES:END -->
 
 ---

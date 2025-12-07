@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Justin Bieber threatens Apple with &#39;rear naked choke hold&#39; over Messages UI](https://appleinsider.com/articles/25/12/07/justin-bieber-threatens-apple-with-rear-naked-choke-hold-over-messages-ui?utm_source=rss)
  - [The Best Printers for Home and Office: Brother, HP, and More](https://www.wired.com/gallery/best-printers/)
  - [Starlink made ‘work from home’ possible from anywhere — now, I&amp;#8217;m ready for a change](https://www.theverge.com/column/837202/starlink-work-from-home)
  - [An all-time great game makes a comeback](https://www.theverge.com/tech/839273/red-dead-redemption-fizzy-installer)
- - [The Best Gifts for Book Lovers &lpar;2025&rpar;: E-Readers, Cozy Accessories, Book Sets](https://www.wired.com/story/gifts-for-book-lovers/)
- - [Nano Banana Pro Review: Is Google&#39;s AI Image Generator Too Good?](https://www.cnet.com/tech/services-and-software/google-nano-banana-pro-ai-image-generator-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Gifts for Book Lovers &lpar;2025&rpar;: E-Readers, Cozy Accessories, Book Sets](https://www.wired.com/story/gifts-for-book-lovers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

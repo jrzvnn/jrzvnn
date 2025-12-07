@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
- - 😝 [Wtf](http://9gag.com/gag/a4PBWZm)
- - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 😝 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 💣 [Something About Market Caps](http://9gag.com/gag/aYQvR52)
+ - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
  - 👉 [At Restaurant !](http://9gag.com/gag/avyB9g5)<!-- MEMES:END -->
 
 ---

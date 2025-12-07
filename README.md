@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Are Gravel Running Shoes? &lpar;2025&rpar;](https://www.wired.com/story/what-are-gravel-running-shoes/)
  - [Lemurian Labs, which aims to develop hardware-agnostic portability software for AI workloads, raised a $28M Series A co-led by Pebblebed Ventures and Hexagon &lpar;Sally Ward-Foxton/EE Times&rpar;](http://www.techmeme.com/251207/p7#a251207p7)
  - [How Wellness Influencers Spreading Misinformation Signals a Deeper Problem Within Our Health Care System](https://www.cnet.com/health/features/wellness-influencers-misinformation-signals-deeper-problem-health-care-system/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #910](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-910/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7 #644](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-644/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 7, #1632](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-7-1632/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7 #644](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-644/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

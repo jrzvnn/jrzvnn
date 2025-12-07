@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X cuts off the European Commission’s ad account after being fined €120 million](https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account)
- - [Sources: Aaru, which uses AI to simulate user behavior, has raised a Series A led by Redpoint Ventures at multiple valuation tiers, including a $1B tier &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251207/p11#a251207p11)
- - [Evercore increases its Apple price target to $325 as it raises AI expectations](https://appleinsider.com/articles/25/12/07/evercore-increases-its-apple-price-target-to-325-as-it-raises-ai-expectations?utm_source=rss)
- - [Last call: Save up to 84% on OWC docks, portable storage, Apple accessories](https://appleinsider.com/articles/25/12/07/last-call-save-up-to-84-on-owc-docks-portable-storage-apple-accessories?utm_source=rss)
- - [Sources: Ted Sarandos met with President Trump in November, and both agreed WBD should go to the highest bidder; Sarandos argued that Netflix wasn&#39;t a monopoly &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251207/p10#a251207p10)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 8, #911](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-8-911/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 8, #645](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-8-645/#ftag=CAD590a51e)
+ - [Every Bob&#39;s Burgers Christmas Episode, Ranked From Pretty Great to Perfect](https://www.cnet.com/culture/entertainment/every-bobs-burgers-christmas-episode-ranked/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 8, #1633](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-8-1633/#ftag=CAD590a51e)
+ - [X cuts off the European Commission’s ad account after being fined €120 million](https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

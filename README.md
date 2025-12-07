@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Byron Cook, a VP at Amazon who is leading the company&#39;s effort to reduce AI hallucinations with a feature called Automated Reasoning Checks &lpar;John Pavlus/Fast Company&rpar;](http://www.techmeme.com/251206/p10#a251206p10)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7 #644](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-644/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #910](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-910/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 7, #1632](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-7-1632/#ftag=CAD590a51e)
- - [Samsung&#39;s Cyber Week deals deliver up to $5,000 in savings, but the sale ends soon](https://appleinsider.com/articles/25/12/06/samsungs-cyber-week-deals-deliver-up-to-5000-in-savings-but-the-sale-ends-soon?utm_source=rss)<!-- TECH:END -->
+ - [Digital asset treasuries, one of the hottest trends in public markets in H1 2025, saw a dramatic reversal in H2; SharpLink stock has fallen 86% from its peak &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/251206/p11#a251206p11)
+ - [Best Space Heaters in 2025](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
+ - [This AI Model Can Intuit How the Physical World Works](https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/)
+ - [Best Robot Vacuums: Our Latest Lab Testing Reveals Surprising New Contenders](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Nutcracker](http://9gag.com/gag/aVv9BoK)
- - 😝 [The foodtrucks are run by the most lovely people. There is american bbq, mexican food and Wednesdays there is always spare rib day.](http://9gag.com/gag/aGyrorZ)
- - 💣 [I was there... I dit it](http://9gag.com/gag/avyBDdX)
- - 😝 [We live in a society](http://9gag.com/gag/aBybvnx)
- - 👉 [Twilight logic](http://9gag.com/gag/a1m8O6Y)<!-- MEMES:END -->
+ - 😝 [Welcome to the rice fields motherf**ker!](http://9gag.com/gag/a9y4Ve6)
+ - 😝 [Respect](http://9gag.com/gag/a5Q9xZr)
+ - 💣 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
+ - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
+ - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
 
 ---
 

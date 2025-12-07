@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
- - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 💣 [At Restaurant !](http://9gag.com/gag/avyB9g5)
- - 😝 [Also mountain climbing. Or eating broccoli.](http://9gag.com/gag/aW4e9y3)
- - 👉 [Photogenic](http://9gag.com/gag/agmpEXx)<!-- MEMES:END -->
+ - 😝 [Almost pulled into the ceiling](http://9gag.com/gag/a87vVNd)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
+ - 💣 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
+ - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
+ - 👉 [At Restaurant !](http://9gag.com/gag/avyB9g5)<!-- MEMES:END -->
 
 ---
 

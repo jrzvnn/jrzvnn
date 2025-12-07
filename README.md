@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Putting on a fitted sheet is a workout and a half](http://9gag.com/gag/aGyr7bz)
+ - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
  - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
  - 💣 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
- - 😝 [I heard you like cats so here&#39;s my cat](http://9gag.com/gag/aNDGqR0)
+ - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
  - 👉 [Respect](http://9gag.com/gag/a5Q9xZr)<!-- MEMES:END -->
 
 ---

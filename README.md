@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude was suspected of killing two girls. The police said: `do NOT try to catch him`. The citizens of Kaunas &lpar;Lithuania&rpar; said: `hold my beer`. About 1,300 citizens conected. They caught him. And they caught him GOOD &lpar;video in comments&rpar;](http://9gag.com/gag/aGyrbpX)
- - 😝 [7 year old with talent](http://9gag.com/gag/aD2qQKZ)
- - 💣 [A normal person](http://9gag.com/gag/azxv44q)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [At Restaurant !](http://9gag.com/gag/avyB9g5)
+ - 💣 [What&#39;s the bet, do we think the over-funded police , that has surveillance on us 24/7 found him?](http://9gag.com/gag/ajP3RV8)
  - 😝 [The good old days](http://9gag.com/gag/axye4QY)
- - 👉 [Parry this](http://9gag.com/gag/a2vAGm9)<!-- MEMES:END -->
+ - 👉 [Something About Market Caps](http://9gag.com/gag/aYQvR52)<!-- MEMES:END -->
 
 ---
 

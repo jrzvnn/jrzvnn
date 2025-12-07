@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nikita Bier accuses the European Commission of trying to deceptively amplify the reach of its post about the €120M fine on X; X terminates the EC&#39;s ad account &lpar;Bjarke Smith-Meyer/Politico&rpar;](http://www.techmeme.com/251207/p8#a251207p8)
+ - [A very human vision for going all-in on AI](https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast)
  - [Apple chip chief Johny Srouji rumored to consider his own exit](https://appleinsider.com/articles/25/12/06/apple-chip-chief-johny-srouji-rumored-to-consider-his-own-exit?utm_source=rss)
  - [What Google Glass got right — and really, really wrong](https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history)
- - [A love letter to glory days of iPhone gaming](https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam)
- - [Justin Bieber threatens Apple with &#39;rear naked choke hold&#39; over Messages UI](https://appleinsider.com/articles/25/12/07/justin-bieber-threatens-apple-with-rear-naked-choke-hold-over-messages-ui?utm_source=rss)
- - [What a DJI Drone Ban Would Mean for Owners and Holiday Shoppers](https://www.cnet.com/tech/computing/what-a-ban-would-actually-mean-for-dji-drone-owners-and-holiday-shoppers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Home Gyms, as Recommended by a Fitness Expert](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

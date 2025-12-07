@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Key Talent Abandons Apple, Meet the New Generation of Leaders Taking On the Old Guard](https://www.wired.com/story/can-hardware-guy-john-ternus-revive-apple-with-this-new-gen-of-design-and-ai-chiefs/)
- - [India&#39;s digital transformation has exposed citizens to scams like &quot;digital arrests&quot;, where victims are coerced into transferring funds under false accusations &lpar;Bloomberg&rpar;](http://www.techmeme.com/251207/p6#a251207p6)
- - [Simular, which is building AI agents for Mac and Windows PCs, raised a $21.5M Series A led by Felicis; Simular has released its 1.0 version for macOS &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251207/p5#a251207p5)
- - [Excelsior Sciences, which aims to use AI and robots for small-molecule drug discovery and development, raised a $70M Series A from Khosla Ventures and others &lpar;Aayushi Pratap/Chemical &amp; ...&rpar;](http://www.techmeme.com/251207/p4#a251207p4)
- - [Apple&#39;s new M5 MacBook Pro with 32GB RAM falls to $1,749](https://appleinsider.com/articles/25/12/07/apples-new-m5-macbook-pro-with-32gb-ram-falls-to-1749?utm_source=rss)<!-- TECH:END -->
+ - [How Wellness Influencers Spreading Misinformation Signals a Deeper Problem Within Our Health Care System](https://www.cnet.com/health/features/wellness-influencers-misinformation-signals-deeper-problem-health-care-system/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #910](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-910/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7 #644](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-644/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 7, #1632](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-7-1632/#ftag=CAD590a51e)
+ - [NFL Week 14: How to Watch Bengals vs. Bills, Bears vs. Packers and Other Games From Anywhere](https://www.cnet.com/tech/services-and-software/nfl-week-14-how-to-watch-bengals-vs-bills-bears-vs-packers-and-other-games-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

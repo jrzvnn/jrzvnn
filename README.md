@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect](http://9gag.com/gag/a5Q9xZr)
- - 😝 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
- - 💣 [Mayor of London nearly crashes out the moment he realizes he has to sing \u201cChrist is born the newborn King\u201d during a Christmas Carol event in London](http://9gag.com/gag/adBWdZV)
- - 😝 [Roman kit](http://9gag.com/gag/amoOdjV)
- - 👉 [What&#39;s the bet, do we think the over-funded police , that has surveillance on us 24/7 found him?](http://9gag.com/gag/ajP3RV8)<!-- MEMES:END -->
+ - 😝 [I was there... I dit it](http://9gag.com/gag/avyBDdX)
+ - 😝 [Okay Computer Programmers Start coding We Need This Now](http://9gag.com/gag/avyBDXO)
+ - 💣 [Its crazy to me that the right way to preserve paper posters... involves soap and water...](http://9gag.com/gag/aqyVdVM)
+ - 😝 [The foodtrucks are run by the most lovely people. There is american bbq, mexican food and Wednesdays there is always spare rib day.](http://9gag.com/gag/aGyrorZ)
+ - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
 
 ---
 

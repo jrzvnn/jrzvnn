@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Essential AI, whose CEO co-wrote Google&#39;s Attention Is All You Need paper, unveils Rnj-1, an 8B-parameter open model with SWE-bench performance close to GPT-4o &lpar;Ashish Vaswani/Essential AI&rpar;](http://www.techmeme.com/251207/p9#a251207p9)
  - [Nikita Bier accuses the European Commission of trying to deceptively amplify the reach of its post about the €120M fine on X; X terminates the EC&#39;s ad account &lpar;Bjarke Smith-Meyer/Politico&rpar;](http://www.techmeme.com/251207/p8#a251207p8)
+ - [Prime Video: The 30 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-on-prime-video-dec-2025/#ftag=CAD590a51e)
  - [A very human vision for going all-in on AI](https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast)
- - [Apple chip chief Johny Srouji rumored to consider his own exit](https://appleinsider.com/articles/25/12/06/apple-chip-chief-johny-srouji-rumored-to-consider-his-own-exit?utm_source=rss)
- - [What Google Glass got right — and really, really wrong](https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history)
- - [Best Smart Home Gyms, as Recommended by a Fitness Expert](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple chip chief Johny Srouji rumored to consider his own exit](https://appleinsider.com/articles/25/12/06/apple-chip-chief-johny-srouji-rumored-to-consider-his-own-exit?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

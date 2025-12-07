@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Nutcracker](http://9gag.com/gag/aVv9BoK)
  - 😝 [A normal person](http://9gag.com/gag/azxv44q)
- - 💣 [At Restaurant !](http://9gag.com/gag/avyB9g5)
- - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
- - 👉 [What&#39;s the bet, do we think the over-funded police , that has surveillance on us 24/7 found him?](http://9gag.com/gag/ajP3RV8)<!-- MEMES:END -->
+ - 😝 [Wtf](http://9gag.com/gag/a4PBWZm)
+ - 💣 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [The Nutcracker](http://9gag.com/gag/aVv9BoK)
+ - 👉 [At Restaurant !](http://9gag.com/gag/avyB9g5)<!-- MEMES:END -->
 
 ---
 

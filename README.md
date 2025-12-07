@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What could possibly go wrong?](http://9gag.com/gag/aXPme7d)
- - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
- - 💣 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
- - 😝 [Respect](http://9gag.com/gag/a5Q9xZr)
- - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
+ - 😝 [Putting on a fitted sheet is a workout and a half](http://9gag.com/gag/aGyr7bz)
+ - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
+ - 💣 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
+ - 😝 [I heard you like cats so here&#39;s my cat](http://9gag.com/gag/aNDGqR0)
+ - 👉 [Respect](http://9gag.com/gag/a5Q9xZr)<!-- MEMES:END -->
 
 ---
 

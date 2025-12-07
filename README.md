@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
- - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
- - 💣 [Respect](http://9gag.com/gag/a5Q9xZr)
- - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
- - 👉 [What&#39;s the bet, do we think the over-funded police , that has surveillance on us 24/7 found him?](http://9gag.com/gag/ajP3RV8)<!-- MEMES:END -->
+ - 😝 [Also mountain climbing. Or eating broccoli.](http://9gag.com/gag/aW4e9y3)
+ - 😝 [Almost year 2026 we are doomed](http://9gag.com/gag/a2vAGpZ)
+ - 💣 [The good old days](http://9gag.com/gag/axye4QY)
+ - 😝 [We live in a society](http://9gag.com/gag/aBybvnx)
+ - 👉 [The Nutcracker](http://9gag.com/gag/aVv9BoK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X cuts off the European Commission’s ad account after being fined €120 million](https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account)
  - [Sources: Aaru, which uses AI to simulate user behavior, has raised a Series A led by Redpoint Ventures at multiple valuation tiers, including a $1B tier &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251207/p11#a251207p11)
  - [Evercore increases its Apple price target to $325 as it raises AI expectations](https://appleinsider.com/articles/25/12/07/evercore-increases-its-apple-price-target-to-325-as-it-raises-ai-expectations?utm_source=rss)
  - [Last call: Save up to 84% on OWC docks, portable storage, Apple accessories](https://appleinsider.com/articles/25/12/07/last-call-save-up-to-84-on-owc-docks-portable-storage-apple-accessories?utm_source=rss)
- - [Sources: Ted Sarandos met with President Trump in November, and both agreed WBD should go to the highest bidder; Sarandos argued that Netflix wasn&#39;t a monopoly &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251207/p10#a251207p10)
- - [Essential AI, whose CEO co-wrote Google&#39;s Attention Is All You Need paper, unveils Rnj-1, an 8B-parameter open model with SWE-bench performance close to GPT-4o &lpar;Ashish Vaswani/Essential AI&rpar;](http://www.techmeme.com/251207/p9#a251207p9)<!-- TECH:END -->
+ - [Sources: Ted Sarandos met with President Trump in November, and both agreed WBD should go to the highest bidder; Sarandos argued that Netflix wasn&#39;t a monopoly &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251207/p10#a251207p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

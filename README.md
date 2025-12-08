@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shocking footage of 7.5 magnitude earthquake in Japan](http://9gag.com/gag/a34zp97)
- - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 💣 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)
- - 😝 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
- - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
+ - 😝 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
+ - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 💣 [Shocking footage of 7.5 magnitude earthquake in Japan](http://9gag.com/gag/a34zp97)
+ - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
 
 ---
 

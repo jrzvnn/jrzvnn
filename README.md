@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google details steps it is taking to secure Chrome&#39;s upcoming agentic browsing features, including a &quot;User Alignment Critic&quot; model that vets AI agent&#39;s actions &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251208/p34#a251208p34)
  - [Uber launches Uber Intelligence, an insights platform that lets advertisers tap into Uber&#39;s data about customer trips and deliveries &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/251208/p33#a251208p33)
  - [The Apple Watch Series 11 just got a big $100 discount ahead of the holidays](https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025)
  - [OpenAI and Instacart launch a grocery shopping experience inside of ChatGPT, letting customers brainstorm meal ideas and check out via OpenAI Instant Checkout &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251208/p32#a251208p32)
- - [Apple and Google say they&#39;ve developed new features that streamline the process of moving data between each platform as part of a joint collaboration &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251208/p31#a251208p31)
- - [Anthropic is bringing Claude Code to Slack](https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration)<!-- TECH:END -->
+ - [Apple and Google say they&#39;ve developed new features that streamline the process of moving data between each platform as part of a joint collaboration &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251208/p31#a251208p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

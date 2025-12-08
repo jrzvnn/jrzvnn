@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Airwallex executive warned in 2023 that China staff were pushing to access client data; Keith Rabois accuses Airwallex of enabling Chinese access to US data &lpar;Lucas Baird/Australian Financial Review&rpar;](http://www.techmeme.com/251208/p29#a251208p29)
- - [Hands-on with Xreal&#39;s Project Aura prototype glasses: they feel like VR shrunken to a far smaller form, the 70° FoV is small but enough for immersion, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/251208/p28#a251208p28)
- - [Second release candidate of iOS 26.2 surfaces ahead of public release](https://appleinsider.com/articles/25/12/08/second-release-candidate-of-ios-262-surfaces-ahead-of-public-release?utm_source=rss)
- - [Lenovo’s next gaming laptop may have a rollable OLED screen that stretches ultrawide](https://www.theverge.com/news/840124/lenovo-rollable-legion-pro-gaming-laptop-rumor)
- - [It’s ugly, it’s beautiful, it’s how you know a game might be a classic](https://www.theverge.com/entertainment/840080/square-enix-hd2d-games-octopath-dragon-quest)<!-- TECH:END -->
+ - [Apple and Google say they&#39;ve developed new features that streamline the process of moving data between each platform as part of a joint collaboration &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251208/p31#a251208p31)
+ - [Anthropic is bringing Claude Code to Slack](https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration)
+ - [Samsung&#39;s Galaxy XR gets beta support for Google&#39;s realistic avatar system for video calls, a Travel Mode, and a built-in PC remote desktop feature &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/251208/p30#a251208p30)
+ - [For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness](https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/)
+ - [An Airwallex executive warned in 2023 that China staff were pushing to access client data; Keith Rabois accuses Airwallex of enabling Chinese access to US data &lpar;Lucas Baird/Australian Financial Review&rpar;](http://www.techmeme.com/251208/p29#a251208p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

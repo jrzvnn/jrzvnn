@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wedbush raises its Apple price target to $350 over AI expectations and staff changes](https://appleinsider.com/articles/25/12/08/wedbush-raises-its-apple-price-target-to-350-over-ai-expectations-and-staff-changes?utm_source=rss)
  - [Big Tech&#39;s AI data center plans, which are set to need an estimated 44GW of additional capacity by 2028, face a power crunch that could deflate the AI &quot;bubble&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251208/p11#a251208p11)
  - [The Best Cookbooks of 2025: Soju Party, Fat and Flour, Salsa Daddy, Italo Punk, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2025/)
  - [Users of ByteDance&#39;s agentic AI phone Nubia M153 report that its Doubao assistant is blocked or limited by Tencent&#39;s WeChat, Alibaba&#39;s Taobao, and other apps &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/251208/p10#a251208p10)
- - [Singapore-based banking and payments startup Airwallex raised $330M at an $8B valuation, after raising $300M at a $6.2B valuation in May, and plans a US HQ &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/251208/p9#a251208p9)
- - [Binance receives three licenses from Abu Dhabi&#39;s financial regulator, allowing comprehensive operations across its exchange, clearing, and brokerage arms &lpar;Alex Dooler/Bloomberg&rpar;](http://www.techmeme.com/251208/p8#a251208p8)<!-- TECH:END -->
+ - [Singapore-based banking and payments startup Airwallex raised $330M at an $8B valuation, after raising $300M at a $6.2B valuation in May, and plans a US HQ &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/251208/p9#a251208p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

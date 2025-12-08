@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Respect](http://9gag.com/gag/a5Q9xZr)
  - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
  - 💣 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 😝 [Roman kit](http://9gag.com/gag/amoOdjV)
+ - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
  - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
 
 ---

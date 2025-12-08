@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 34 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
  - [TikTok announces Shared Collection, to organize and share saved videos, and plans to launch Shared Feed, a daily curated selection of 15 videos, globally &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/251208/p37#a251208p37)
  - [Apple chief Johny Srouji confirms he isn&#39;t going anywhere](https://appleinsider.com/articles/25/12/08/apple-chief-johny-srouji-confirms-he-isnt-leaving-anytime-soon?utm_source=rss)
- - [Letterboxd plans to launch its Video Store film rental platform on December 10, offering curated indie titles in 23 countries, including the US, UK, and France &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251208/p36#a251208p36)
- - [Want the Best Way to Brew Coffee? Use This Expert-Approved Method](https://www.cnet.com/news/best-way-brew-coffee/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Blink&#39;s New Security Camera Upgrade Matters for the Budget-Minded](https://www.cnet.com/home/security/why-blinks-new-security-camera-upgrade-matters-for-the-budget-minded/#ftag=CAD590a51e)
+ - [Letterboxd plans to launch its Video Store film rental platform on December 10, offering curated indie titles in 23 countries, including the US, UK, and France &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251208/p36#a251208p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

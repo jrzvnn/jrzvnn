@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skateboarding is better in hell](https://www.theverge.com/games/840004/skate-story-review-switch-steam-ps5)
- - [Apple Car Key is coming to Rivian&#39;s electric vehicles, no sign of CarPlay](https://appleinsider.com/articles/25/12/08/apple-car-key-is-coming-to-rivians-electric-vehicles-no-sign-of-carplay?utm_source=rss)
- - [NextEra Energy expands its partnership with Google Cloud to develop data centre campuses across the US and secures 2.5+ GW of clean energy contracts from Meta &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251208/p24#a251208p24)
- - [The 47 Best REI Cyber Week Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2025/)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
+ - [HP OmniBook 5 14 review: an OLED is almost enough](https://www.theverge.com/tech/839858/hp-omnibook-5-14-snapdragon-arm-oled-laptop-review)
+ - [Apple chief Johny Srouji confirms he isn&#39;t &#39;leaving anytime soon&#39;](https://appleinsider.com/articles/25/12/08/apple-chief-johny-srouji-confirms-he-isnt-leaving-anytime-soon?utm_source=rss)
+ - [Sources: Google has told advertising clients that it plans to bring ads to Gemini in 2026, separate from ads in AI Mode &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251208/p25#a251208p25)
+ - [Apple AirPods Pro 3 return to $219, matching Black Friday pricing](https://appleinsider.com/articles/25/12/08/apple-airpods-pro-3-return-to-219-matching-black-friday-pricing?utm_source=rss)
+ - [Analogue is restocking its 4K N64 and making it more colorful](https://www.theverge.com/news/840068/analogue-3d-transparent-funtastic-limited-edition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

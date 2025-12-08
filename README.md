@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
- - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 💣 [Respect](http://9gag.com/gag/a5Q9xZr)
- - 😝 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)
+ - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
+ - 😝 [Something About Market Caps](http://9gag.com/gag/aYQvR52)
+ - 💣 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)
+ - 😝 [Roman kit](http://9gag.com/gag/amoOdjV)
  - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
 
 ---

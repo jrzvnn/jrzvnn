@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Pathway, a startup developing an alternative to the transformer, aims to use its Dragon Hatchling architecture to create a new class of adaptive AI systems &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/251208/p2#a251208p2)
  - [30% Off Samsung Promo Code | December 2025](https://www.wired.com/story/samsung-promo-codes/)
  - [How &quot;cash to crypto&quot; swaps allow users everywhere to convert national currencies to stablecoins and then debit cards, avoiding financial oversight and sanctions &lpar;Aaron Krolik/New York Times&rpar;](http://www.techmeme.com/251208/p1#a251208p1)
  - [Sources: IBM is in advanced talks to buy data streaming software maker Confluent for ~$11B, above its market value of ~$8B as of December 5 close &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251207/p16#a251207p16)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 8, #441](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-8-441/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 8, #441](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-8-441/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

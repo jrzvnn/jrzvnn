@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
- - 😝 [The foodtrucks are run by the most lovely people. There is american bbq, mexican food and Wednesdays there is always spare rib day.](http://9gag.com/gag/aGyrorZ)
- - 💣 [Respect](http://9gag.com/gag/a5Q9xZr)
- - 😝 [The circle of life for entertainment](http://9gag.com/gag/adBW4pj)
- - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
+ - 😝 [Respect](http://9gag.com/gag/a5Q9xZr)
+ - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 👉 [Something About Market Caps](http://9gag.com/gag/aYQvR52)<!-- MEMES:END -->
 
 ---
 

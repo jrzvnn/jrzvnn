@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Skild AI, which develops a foundational model for robots, is in talks to raise $1B+ from SoftBank and Nvidia at a $14B valuation, up from $4.7B in July &lpar;Reuters&rpar;](http://www.techmeme.com/251208/p21#a251208p21)
- - [Aqara Siri integration, Chamberlain goes anti-smart home, and two new reviews on HomeKit Insider](https://appleinsider.com/articles/25/12/08/aqara-siri-integration-chamberlain-goes-anti-smart-home-and-two-new-reviews-on-homekit-insider?utm_source=rss)
- - [Genki’s colorful, powerful power strip is 25 percent off](https://www.theverge.com/gadgets/839820/genki-moonbase-apple-watch-ultra-2-rtx-5070-deal-sale)
- - [Amazon&#39;s $299 Apple Watch Series 11 deal delivers lowest price ever](https://appleinsider.com/articles/25/12/08/amazons-299-apple-watch-series-11-deal-delivers-lowest-price-ever?utm_source=rss)
- - [ICEBlock developer suing DOJ, ICE, &amp; more after Apple App Store removal](https://appleinsider.com/articles/25/12/08/iceblock-developer-suing-doj-ice-more-after-apple-app-store-removal?utm_source=rss)<!-- TECH:END -->
+ - [Leaked letter: Tiger Global launches Private Investment Partners 17, a new fund targeting a raise between $2B and $3B, signaling a pivot away from megafunds &lpar;CNBC&rpar;](http://www.techmeme.com/251208/p23#a251208p23)
+ - [Apple&#39;s &#39;Severance,&#39; &#39;Slow Horses,&#39; and latest hit &#39;Pluribus&#39; nominated for Golden Globes](https://appleinsider.com/articles/25/12/08/apples-severance-slow-horses-and-latest-hit-pluribus-nominated-for-golden-globes?utm_source=rss)
+ - [Internal memo: Johny Srouji, who oversees Apple&#39;s chip division, tells staff that &quot;I don&#39;t plan on leaving anytime soon&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251208/p22#a251208p22)
+ - [Facebook and Instagram will let European users see fewer personal ads](https://www.theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice)
+ - [The Verge subscription turns one](https://www.theverge.com/bulletin/839889/the-verge-subscription-turns-one)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Skateboarding is better in hell](https://www.theverge.com/games/840004/skate-story-review-switch-steam-ps5)
+ - [Apple Car Key is coming to Rivian&#39;s electric vehicles, no sign of CarPlay](https://appleinsider.com/articles/25/12/08/apple-car-key-is-coming-to-rivians-electric-vehicles-no-sign-of-carplay?utm_source=rss)
  - [NextEra Energy expands its partnership with Google Cloud to develop data centre campuses across the US and secures 2.5+ GW of clean energy contracts from Meta &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251208/p24#a251208p24)
  - [The 47 Best REI Cyber Week Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2025/)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Leaked letter: Tiger Global launches Private Investment Partners 17, a fund targeting raising ~$2B to $3B, signaling a pivot from megafunds to more discipline &lpar;CNBC&rpar;](http://www.techmeme.com/251208/p23#a251208p23)
- - [Apple&#39;s &#39;Severance,&#39; &#39;Slow Horses,&#39; and latest hit &#39;Pluribus&#39; nominated for Golden Globes](https://appleinsider.com/articles/25/12/08/apples-severance-slow-horses-and-latest-hit-pluribus-nominated-for-golden-globes?utm_source=rss)<!-- TECH:END -->
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with 10 Kenyan AI annotators shows Chinese companies hire data labelers via opaque middleman networks and WhatsApp groups to avoid accountability &lpar;Rest of World&rpar;](http://www.techmeme.com/251208/p5#a251208p5)
+ - [Coinbase reopens app registrations in India after an over-two-year pause, letting users make crypto-to-crypto trades, and plans to open up crypto buying in 2026 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251208/p4#a251208p4)
  - [Inside the creation of AI actress Tilly Norwood, which included 2,000 iterations; Particle6, its creator, says it has ~60 NDAs for projects involving Tilly &lpar;Ellen Gamerman/Wall Street Journal&rpar;](http://www.techmeme.com/251208/p3#a251208p3)
  - [How Pathway, a startup developing an alternative to the transformer, aims to use its Dragon Hatchling architecture to create a new class of adaptive AI systems &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/251208/p2#a251208p2)
- - [30% Off Samsung Promo Code | December 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [How &quot;cash to crypto&quot; swaps allow users everywhere to convert national currencies to stablecoins and then debit cards, avoiding financial oversight and sanctions &lpar;Aaron Krolik/New York Times&rpar;](http://www.techmeme.com/251208/p1#a251208p1)
- - [Sources: IBM is in advanced talks to buy data streaming software maker Confluent for ~$11B, above its market value of ~$8B as of December 5 close &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251207/p16#a251207p16)<!-- TECH:END -->
+ - [30% Off Samsung Promo Code | December 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

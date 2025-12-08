@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Google announces system &quot;autospatialization&quot; for Android XR, an AI feature to turn 2D content, including games streamed from a PC, into 3D, arriving in 2026 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/251208/p42#a251208p42)
  - [iPhone owners in Japan just got Messages via Satellite](https://appleinsider.com/articles/25/12/08/iphone-owners-in-japan-just-got-messages-via-satellite?utm_source=rss)
  - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [After rallying early in 2025, Netflix shares have fallen 28% since the end of June amid concerns about its growth outlook and its costly pursuit of WBD &lpar;Bloomberg&rpar;](http://www.techmeme.com/251208/p41#a251208p41)
- - [The US CFTC launches a pilot program allowing BTC, ETH, and USDC to be used as collateral in US derivatives markets &lpar;CoinDesk&rpar;](http://www.techmeme.com/251208/p40#a251208p40)
- - [Netflix will continue licensing Warner Bros. hits to Apple TV](https://appleinsider.com/articles/25/12/08/netflix-will-continue-licensing-warner-bros-hits-to-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [After rallying early in 2025, Netflix shares have fallen 28% since the end of June amid concerns about its growth outlook and its costly pursuit of WBD &lpar;Bloomberg&rpar;](http://www.techmeme.com/251208/p41#a251208p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

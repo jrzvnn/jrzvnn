@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ICEBlock developer sues Trump administration over App Store removal](https://www.theverge.com/news/840164/iceblock-joshua-aaron-sues-trump-administration-apple-app-store-removeal)
- - [Google says it&#39;s working to create two different categories of AI-powered smart glasses: one with screens launching in 2026 and another that&#39;s audio-focused &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251208/p27#a251208p27)
- - [Source: the US Department of Commerce plans to allow the export of Nvidia&#39;s old H200 chips to China, seeking a compromise over controlling exports to China &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/251208/p26#a251208p26)
- - [A first look at Google’s Project Aura glasses built with Xreal](https://www.theverge.com/tech/839392/project-aura-android-xr-software-headsets-ai-glasses)
- - [HP OmniBook 5 14 review: an OLED is almost enough](https://www.theverge.com/tech/839858/hp-omnibook-5-14-snapdragon-arm-oled-laptop-review)<!-- TECH:END -->
+ - [An Airwallex executive warned in 2023 that China staff were pushing to access client data; Keith Rabois accuses Airwallex of enabling Chinese access to US data &lpar;Lucas Baird/Australian Financial Review&rpar;](http://www.techmeme.com/251208/p29#a251208p29)
+ - [Hands-on with Xreal&#39;s Project Aura prototype glasses: they feel like VR shrunken to a far smaller form, the 70° FoV is small but enough for immersion, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/251208/p28#a251208p28)
+ - [Second release candidate of iOS 26.2 surfaces ahead of public release](https://appleinsider.com/articles/25/12/08/second-release-candidate-of-ios-262-surfaces-ahead-of-public-release?utm_source=rss)
+ - [Lenovo’s next gaming laptop may have a rollable OLED screen that stretches ultrawide](https://www.theverge.com/news/840124/lenovo-rollable-legion-pro-gaming-laptop-rumor)
+ - [It’s ugly, it’s beautiful, it’s how you know a game might be a classic](https://www.theverge.com/entertainment/840080/square-enix-hd2d-games-octopath-dragon-quest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

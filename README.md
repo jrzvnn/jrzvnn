@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber launches Uber Intelligence, an insights platform that lets advertisers tap into Uber&#39;s data about customer trips and deliveries &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/251208/p33#a251208p33)
+ - [The Apple Watch Series 11 just got a big $100 discount ahead of the holidays](https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025)
+ - [OpenAI and Instacart launch a grocery shopping experience inside of ChatGPT, letting customers brainstorm meal ideas and check out via OpenAI Instant Checkout &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251208/p32#a251208p32)
  - [Apple and Google say they&#39;ve developed new features that streamline the process of moving data between each platform as part of a joint collaboration &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251208/p31#a251208p31)
- - [Anthropic is bringing Claude Code to Slack](https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration)
- - [Samsung&#39;s Galaxy XR gets beta support for Google&#39;s realistic avatar system for video calls, a Travel Mode, and a built-in PC remote desktop feature &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/251208/p30#a251208p30)
- - [For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness](https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/)
- - [An Airwallex executive warned in 2023 that China staff were pushing to access client data; Keith Rabois accuses Airwallex of enabling Chinese access to US data &lpar;Lucas Baird/Australian Financial Review&rpar;](http://www.techmeme.com/251208/p29#a251208p29)<!-- TECH:END -->
+ - [Anthropic is bringing Claude Code to Slack](https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

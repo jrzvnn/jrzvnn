@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone owners in Japan just got Messages via Satellite](https://appleinsider.com/articles/25/12/08/iphone-owners-in-japan-just-got-messages-via-satellite?utm_source=rss)
  - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
  - [After rallying early in 2025, Netflix shares have fallen 28% since the end of June amid concerns about its growth outlook and its costly pursuit of WBD &lpar;Bloomberg&rpar;](http://www.techmeme.com/251208/p41#a251208p41)
  - [The US CFTC launches a pilot program allowing BTC, ETH, and USDC to be used as collateral in US derivatives markets &lpar;CoinDesk&rpar;](http://www.techmeme.com/251208/p40#a251208p40)
- - [Netflix will continue licensing Warner Bros. hits to Apple TV](https://appleinsider.com/articles/25/12/08/netflix-will-continue-licensing-warner-bros-hits-to-apple-tv?utm_source=rss)
- - [AI Saves Workers Less Than an Hour Each Day, New OpenAI Report Shows](https://www.cnet.com/tech/services-and-software/ai-saves-workers-less-than-an-hour-each-day-new-openai-report-shows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix will continue licensing Warner Bros. hits to Apple TV](https://appleinsider.com/articles/25/12/08/netflix-will-continue-licensing-warner-bros-hits-to-apple-tv?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

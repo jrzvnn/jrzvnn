@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount launches a hostile bid to acquire WBD, offering WBD shareholders $30/share in a $108B all-cash deal; sources say WBD rejected the same bid last week &lpar;CNBC&rpar;](http://www.techmeme.com/251208/p17#a251208p17)
- - [Segway’s new Myon e-bike will straddle past and future](https://www.theverge.com/news/839169/segway-myon-ebike-teaser-ces-radar)
- - [India&#39;s Tata Electronics signs up Intel as the first prospective client for its upcoming chip facilities; Tata is investing ~$14B to build in Gujarat and Assam &lpar;Nandan Mandayam/Reuters&rpar;](http://www.techmeme.com/251208/p16#a251208p16)
- - [President Trump says he will sign &quot;a ONE RULE&quot; EO on AI &quot;this week&quot; and &quot;you can&#39;t expect a company to get 50 Approvals every time they want to do something&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251208/p15#a251208p15)
- - [New leak revives claim of under-display Face ID for iPhone 18 Pro](https://appleinsider.com/articles/25/12/08/new-leak-revives-claim-of-under-display-face-id-for-iphone-18-pro?utm_source=rss)<!-- TECH:END -->
+ - [Paramount launches a hostile $108 billion bid to snatch Warner from Netflix](https://www.theverge.com/news/839813/paramount-skydance-warner-bros-discovery-hostile-takeover-bid)
+ - [Michael Saylor&#39;s Strategy acquired 10,624 bitcoin for $962.7M between December 1 and 7, its largest purchase since July; its stock is down ~40% in 2025 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251208/p18#a251208p18)
+ - [Netflix is buying Warner Bros: All of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)
+ - [Paramount launches a hostile bid to acquire WBD, offering WBD shareholders $30/share in a $108.4B all-cash deal; sources say WBD rejected the same bid last week &lpar;CNBC&rpar;](http://www.techmeme.com/251208/p17#a251208p17)
+ - [Segway’s new Myon e-bike will straddle past and future](https://www.theverge.com/news/839169/segway-myon-ebike-teaser-ces-radar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

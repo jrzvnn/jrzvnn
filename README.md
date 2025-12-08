@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
- - 😝 [Something About Market Caps](http://9gag.com/gag/aYQvR52)
- - 💣 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)
- - 😝 [Roman kit](http://9gag.com/gag/amoOdjV)
- - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
+ - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
+ - 😝 [The foodtrucks are run by the most lovely people. There is american bbq, mexican food and Wednesdays there is always spare rib day.](http://9gag.com/gag/aGyrorZ)
+ - 💣 [Respect](http://9gag.com/gag/a5Q9xZr)
+ - 😝 [The circle of life for entertainment](http://9gag.com/gag/adBW4pj)
+ - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
 
 ---
 

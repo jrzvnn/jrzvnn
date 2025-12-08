@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Respect](http://9gag.com/gag/a5Q9xZr)
- - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 💣 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
  - 😝 [Roman kit](http://9gag.com/gag/amoOdjV)
- - 👉 [Something About Market Caps](http://9gag.com/gag/aYQvR52)<!-- MEMES:END -->
+ - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
 
 ---
 

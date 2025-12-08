@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unconventional AI raised a $475M seed led by a16z and Lightspeed at a $4.5B valuation to build a more energy-efficient AI computer, part of an up to $1B round &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/251208/p19#a251208p19)
+ - [Square’s product chief on the death of the penny and the future of money](https://www.theverge.com/podcast/839062/square-product-chief-willem-ave-block-jack-dorsey-ai-bitcoin-crypto)
+ - [Apple Fitness+ expands to 28 new countries with AI dubbing](https://appleinsider.com/articles/25/12/08/apple-fitness-expands-to-28-new-countries-with-ai-dubbing?utm_source=rss)
  - [Paramount launches a hostile $108 billion bid to snatch Warner from Netflix](https://www.theverge.com/news/839813/paramount-skydance-warner-bros-discovery-hostile-takeover-bid)
- - [Michael Saylor&#39;s Strategy acquired 10,624 bitcoin for $962.7M between December 1 and 7, its largest purchase since July; its stock is down ~40% in 2025 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251208/p18#a251208p18)
- - [Netflix is buying Warner Bros: All of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)
- - [Paramount launches a hostile bid to acquire WBD, offering WBD shareholders $30/share in a $108.4B all-cash deal; sources say WBD rejected the same bid last week &lpar;CNBC&rpar;](http://www.techmeme.com/251208/p17#a251208p17)
- - [Segway’s new Myon e-bike will straddle past and future](https://www.theverge.com/news/839169/segway-myon-ebike-teaser-ces-radar)<!-- TECH:END -->
+ - [Michael Saylor&#39;s Strategy acquired 10,624 bitcoin for $962.7M between December 1 and 7, its largest purchase since July; its stock is down ~40% in 2025 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251208/p18#a251208p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

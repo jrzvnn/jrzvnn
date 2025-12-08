@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Genki’s colorful, powerful power strip is 25 percent off](https://www.theverge.com/gadgets/839820/genki-moonbase-apple-watch-ultra-2-rtx-5070-deal-sale)
+ - [Amazon&#39;s $299 Apple Watch Series 11 deal delivers lowest price ever](https://appleinsider.com/articles/25/12/08/amazons-299-apple-watch-series-11-deal-delivers-lowest-price-ever?utm_source=rss)
+ - [ICEBlock developer suing DOJ, ICE, &amp; more after Apple App Store removal](https://appleinsider.com/articles/25/12/08/iceblock-developer-suing-doj-ice-more-after-apple-app-store-removal?utm_source=rss)
  - [Paramount bids to stop Netflix buying Warner Bros](https://appleinsider.com/articles/25/12/08/paramount-bids-to-stop-netflix-buying-warner-bros?utm_source=rss)
- - [ICEBlock&#39;s developer sues the Trump administration in federal court for First Amendment violations after Apple removed its app following White House pressure &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/251208/p20#a251208p20)
- - [OpenAI says it’s disabled ad-like app promotions in ChatGPT](https://www.theverge.com/news/839882/openai-chatgpt-ads-app-promo-messages-turned-off)
- - [The Boys is returning for its final season in April](https://www.theverge.com/news/839879/the-boys-season-five-trailer-release-date-jason-padalecki)
- - [Unconventional AI raised a $475M seed led by a16z and Lightspeed at a $4.5B valuation to build a more energy-efficient AI computer, part of an up to $1B round &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/251208/p19#a251208p19)<!-- TECH:END -->
+ - [ICEBlock&#39;s developer sues the Trump administration in federal court for First Amendment violations after Apple removed its app following White House pressure &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/251208/p20#a251208p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

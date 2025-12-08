@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple chief Johny Srouji confirms he isn&#39;t going anywhere](https://appleinsider.com/articles/25/12/08/apple-chief-johny-srouji-confirms-he-isnt-leaving-anytime-soon?utm_source=rss)
  - [Letterboxd plans to launch its Video Store film rental platform on December 10, offering curated indie titles in 23 countries, including the US, UK, and France &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251208/p36#a251208p36)
  - [Want the Best Way to Brew Coffee? Use This Expert-Approved Method](https://www.cnet.com/news/best-way-brew-coffee/#ftag=CAD590a51e)
  - [Anthropic launches a Slack integration for Claude Code, expanding on the existing Claude app for Slack, launching in beta as a research preview &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/251208/p35#a251208p35)
- - [Apple and Google&#39;s iPhone-Android switching update starts to roll out](https://appleinsider.com/articles/25/12/08/apple-and-googles-iphone-android-switching-update-starts-to-roll-out?utm_source=rss)
- - [Dating App Hinge Launches AI Prompts to Replace Boring Opening Lines](https://www.cnet.com/tech/services-and-software/dating-app-hinge-launches-ai-prompts-to-replace-boring-opening-lines/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple and Google&#39;s iPhone-Android switching update starts to roll out](https://appleinsider.com/articles/25/12/08/apple-and-googles-iphone-android-switching-update-starts-to-roll-out?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Respect](http://9gag.com/gag/a5Q9xZr)
  - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
  - 💣 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 😝 [At an ocean aquarium, a man kept smoking even after staff tried to stop him](http://9gag.com/gag/aYQvn4O)
  - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
 
 ---

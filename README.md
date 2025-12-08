@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Impressions from a test ride in London in a car using Wayve&#39;s self-driving tech; Wayve has raised $1.3B since launch and is testing cars with Level 2+ autonomy &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/251207/p14#a251207p14)
+ - [You need to watch the modern horror masterpiece, His House](https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house)
+ - [Best Peloton Alternatives if You’re Looking for Other Solid Choices](https://www.cnet.com/health/fitness/best-peloton-alternatives-if-youre-looking-for-other-solid-choices/#ftag=CAD590a51e)
  - [President Trump says Netflix&#39;s planned acquisition of WBD will have &quot;to go through a process&quot; and he will be personally involved in the decision-making process &lpar;Bloomberg&rpar;](http://www.techmeme.com/251207/p13#a251207p13)
- - [An interview with Headspace CEO Tom Pickett on its AI chatbot Ebb, which he insists isn&#39;t for serious mental health issues, Ebb&#39;s upgrade to voice, and more &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/251207/p12#a251207p12)
- - [Netflix CEO made a visit to the White House before buying Warner Bros.](https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 8, #911](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-8-911/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 8, #645](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-8-645/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Headspace CEO Tom Pickett on its AI chatbot Ebb, which he insists isn&#39;t for serious mental health issues, Ebb&#39;s upgrade to voice, and more &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/251207/p12#a251207p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

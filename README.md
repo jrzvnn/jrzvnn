@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked letter: Tiger Global launches Private Investment Partners 17, a new fund targeting a raise between $2B and $3B, signaling a pivot away from megafunds &lpar;CNBC&rpar;](http://www.techmeme.com/251208/p23#a251208p23)
- - [Apple&#39;s &#39;Severance,&#39; &#39;Slow Horses,&#39; and latest hit &#39;Pluribus&#39; nominated for Golden Globes](https://appleinsider.com/articles/25/12/08/apples-severance-slow-horses-and-latest-hit-pluribus-nominated-for-golden-globes?utm_source=rss)
- - [Internal memo: Johny Srouji, who oversees Apple&#39;s chip division, tells staff that &quot;I don&#39;t plan on leaving anytime soon&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251208/p22#a251208p22)
- - [Facebook and Instagram will let European users see fewer personal ads](https://www.theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice)
- - [The Verge subscription turns one](https://www.theverge.com/bulletin/839889/the-verge-subscription-turns-one)<!-- TECH:END -->
+ - [NextEra Energy expands its partnership with Google Cloud to develop data centre campuses across the US and secures 2.5+ GW of clean energy contracts from Meta &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251208/p24#a251208p24)
+ - [The 47 Best REI Cyber Week Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2025/)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Leaked letter: Tiger Global launches Private Investment Partners 17, a fund targeting raising ~$2B to $3B, signaling a pivot from megafunds to more discipline &lpar;CNBC&rpar;](http://www.techmeme.com/251208/p23#a251208p23)
+ - [Apple&#39;s &#39;Severance,&#39; &#39;Slow Horses,&#39; and latest hit &#39;Pluribus&#39; nominated for Golden Globes](https://appleinsider.com/articles/25/12/08/apples-severance-slow-horses-and-latest-hit-pluribus-nominated-for-golden-globes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

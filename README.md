@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Skild AI, which develops a foundational model for robots, is in talks to raise $1B+ from SoftBank and Nvidia at a $14B valuation, up from $4.7B in July &lpar;Reuters&rpar;](http://www.techmeme.com/251208/p21#a251208p21)
+ - [Aqara Siri integration, Chamberlain goes anti-smart home, and two new reviews on HomeKit Insider](https://appleinsider.com/articles/25/12/08/aqara-siri-integration-chamberlain-goes-anti-smart-home-and-two-new-reviews-on-homekit-insider?utm_source=rss)
  - [Genki’s colorful, powerful power strip is 25 percent off](https://www.theverge.com/gadgets/839820/genki-moonbase-apple-watch-ultra-2-rtx-5070-deal-sale)
  - [Amazon&#39;s $299 Apple Watch Series 11 deal delivers lowest price ever](https://appleinsider.com/articles/25/12/08/amazons-299-apple-watch-series-11-deal-delivers-lowest-price-ever?utm_source=rss)
- - [ICEBlock developer suing DOJ, ICE, &amp; more after Apple App Store removal](https://appleinsider.com/articles/25/12/08/iceblock-developer-suing-doj-ice-more-after-apple-app-store-removal?utm_source=rss)
- - [Paramount bids to stop Netflix buying Warner Bros](https://appleinsider.com/articles/25/12/08/paramount-bids-to-stop-netflix-buying-warner-bros?utm_source=rss)
- - [ICEBlock&#39;s developer sues the Trump administration in federal court for First Amendment violations after Apple removed its app following White House pressure &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/251208/p20#a251208p20)<!-- TECH:END -->
+ - [ICEBlock developer suing DOJ, ICE, &amp; more after Apple App Store removal](https://appleinsider.com/articles/25/12/08/iceblock-developer-suing-doj-ice-more-after-apple-app-store-removal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

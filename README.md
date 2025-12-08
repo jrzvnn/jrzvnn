@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 34 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
  - [TikTok announces Shared Collection, to organize and share saved videos, and plans to launch Shared Feed, a daily curated selection of 15 videos, globally &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/251208/p37#a251208p37)
- - [Dr. Oz Tells His Federal Employees to Eat Less](https://www.wired.com/story/dr-oz-centers-for-medicare-and-medicaid-services-tells-employees-to-eat-less/)
  - [Apple chief Johny Srouji confirms he isn&#39;t going anywhere](https://appleinsider.com/articles/25/12/08/apple-chief-johny-srouji-confirms-he-isnt-leaving-anytime-soon?utm_source=rss)
- - [OpenAI Should Stop Naming Its Creations After Products That Already Exist](https://www.wired.com/story/openai-cameo-products-that-already-exist/)
- - [Letterboxd plans to launch its Video Store film rental platform on December 10, offering curated indie titles in 23 countries, including the US, UK, and France &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251208/p36#a251208p36)<!-- TECH:END -->
+ - [Letterboxd plans to launch its Video Store film rental platform on December 10, offering curated indie titles in 23 countries, including the US, UK, and France &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251208/p36#a251208p36)
+ - [Want the Best Way to Brew Coffee? Use This Expert-Approved Method](https://www.cnet.com/news/best-way-brew-coffee/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

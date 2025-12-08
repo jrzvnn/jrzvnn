@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix will continue licensing Warner Bros. hits to Apple TV](https://appleinsider.com/articles/25/12/08/netflix-will-continue-licensing-warner-bros-hits-to-apple-tv?utm_source=rss)
  - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [The CTO of Amazon&#39;s Zoox says the company plans to start charging for rides in Las Vegas in early 2026 and is focused on transporting people, not deliveries &lpar;Amanda Gerut/Fortune&rpar;](http://www.techmeme.com/251208/p39#a251208p39)
  - [Trump says the US will allow Nvidia to ship H200 chips to &quot;approved customers&quot; in China and elsewhere, and 25% of the chip sales will be paid to the US &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/251208/p38#a251208p38)
- - [The 34 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
- - [TikTok announces Shared Collection, to organize and share saved videos, and plans to launch Shared Feed, a daily curated selection of 15 videos, globally &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/251208/p37#a251208p37)<!-- TECH:END -->
+ - [Trump Says He&#39;ll Sign Executive Order Preempting State AI Regulations](https://www.cnet.com/tech/services-and-software/trump-executive-order-preempts-state-ai-regulations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

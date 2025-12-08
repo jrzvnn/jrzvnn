@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At an ocean aquarium, a man kept smoking even after staff tried to stop him](http://9gag.com/gag/aYQvn4O)
- - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
- - 💣 [Not a single lie was spoken](http://9gag.com/gag/ajP3dbp)
- - 😝 [Made it for my family by myself this year. Feeling proud of myself](http://9gag.com/gag/a87vzmO)
- - 👉 [I like the southern accent](http://9gag.com/gag/aLnONQv)<!-- MEMES:END -->
+ - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 💣 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
+ - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its crazy to me that the right way to preserve paper posters... involves soap and water...](http://9gag.com/gag/aqyVdVM)
- - 😝 [When you come home happy from your fulfilling work](http://9gag.com/gag/a6ZexR9)
- - 💣 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
- - 😝 [Not a single lie was spoken](http://9gag.com/gag/ajP3dbp)
- - 👉 [I like the southern accent](http://9gag.com/gag/aLnONQv)<!-- MEMES:END -->
+ - 😝 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
+ - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 💣 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)
+ - 😝 [Angels](http://9gag.com/gag/aGyrNMz)
+ - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
 
 ---
 

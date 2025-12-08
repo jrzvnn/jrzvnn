@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
- - 😝 [Respect](http://9gag.com/gag/a5Q9xZr)
- - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 👉 [Something About Market Caps](http://9gag.com/gag/aYQvR52)<!-- MEMES:END -->
+ - 😝 [Twilight logic](http://9gag.com/gag/a1m8O6Y)
+ - 😝 [Something About Market Caps](http://9gag.com/gag/aYQvR52)
+ - 💣 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
 
 ---
 

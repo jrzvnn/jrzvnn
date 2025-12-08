@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+ - [After rallying early in 2025, Netflix shares have fallen 28% since the end of June amid concerns about its growth outlook and its costly pursuit of WBD &lpar;Bloomberg&rpar;](http://www.techmeme.com/251208/p41#a251208p41)
+ - [The US CFTC launches a pilot program allowing BTC, ETH, and USDC to be used as collateral in US derivatives markets &lpar;CoinDesk&rpar;](http://www.techmeme.com/251208/p40#a251208p40)
  - [Netflix will continue licensing Warner Bros. hits to Apple TV](https://appleinsider.com/articles/25/12/08/netflix-will-continue-licensing-warner-bros-hits-to-apple-tv?utm_source=rss)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [The CTO of Amazon&#39;s Zoox says the company plans to start charging for rides in Las Vegas in early 2026 and is focused on transporting people, not deliveries &lpar;Amanda Gerut/Fortune&rpar;](http://www.techmeme.com/251208/p39#a251208p39)
- - [Trump says the US will allow Nvidia to ship H200 chips to &quot;approved customers&quot; in China and elsewhere, and 25% of the chip sales will be paid to the US &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/251208/p38#a251208p38)
- - [Trump Says He&#39;ll Sign Executive Order Preempting State AI Regulations](https://www.cnet.com/tech/services-and-software/trump-executive-order-preempts-state-ai-regulations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI Saves Workers Less Than an Hour Each Day, New OpenAI Report Shows](https://www.cnet.com/tech/services-and-software/ai-saves-workers-less-than-an-hour-each-day-new-openai-report-shows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

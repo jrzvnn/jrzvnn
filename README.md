@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not a single lie was spoken](http://9gag.com/gag/ajP3dbp)
  - 😝 [I like the southern accent](http://9gag.com/gag/aLnONQv)
- - 💣 [Shocking footage of 7.5 magnitude earthquake in Japan](http://9gag.com/gag/a34zp97)
  - 😝 [Sorry, but no](http://9gag.com/gag/a0eDWOO)
+ - 💣 [Shocking footage of 7.5 magnitude earthquake in Japan](http://9gag.com/gag/a34zp97)
+ - 😝 [Is this still a joke ?](http://9gag.com/gag/a34ze3v)
  - 👉 [Mayor of London nearly crashes out the moment he realizes he has to sing \u201cChrist is born the newborn King\u201d during a Christmas Carol event in London](http://9gag.com/gag/adBWdZV)<!-- MEMES:END -->
 
 ---

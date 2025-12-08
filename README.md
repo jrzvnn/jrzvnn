@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect](http://9gag.com/gag/a5Q9xZr)
+ - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
  - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 💣 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 😝 [At an ocean aquarium, a man kept smoking even after staff tried to stop him](http://9gag.com/gag/aYQvn4O)
- - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
+ - 💣 [Respect](http://9gag.com/gag/a5Q9xZr)
+ - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
 
 ---
 

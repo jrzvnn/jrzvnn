@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 😝 [Shocking footage of 7.5 magnitude earthquake in Japan](http://9gag.com/gag/a34zp97)
+ - 😝 [Respect](http://9gag.com/gag/a5Q9xZr)
+ - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
  - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 💣 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
- - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
  - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
 
 ---

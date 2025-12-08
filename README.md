@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based banking and payments startup Airwallex raised $330M at an $8B valuation, after raising $300M at a $6.2B valuation in May, and plans a US HQ &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/251208/p9#a251208p9)
  - [Binance receives three licenses from Abu Dhabi&#39;s financial regulator, allowing comprehensive operations across its exchange, clearing, and brokerage arms &lpar;Alex Dooler/Bloomberg&rpar;](http://www.techmeme.com/251208/p8#a251208p8)
  - [The Longest Solar Eclipse for 100 Years Is Coming. Don’t Miss It](https://www.wired.com/story/the-longest-solar-eclipse-for-100-years-is-coming-dont-miss-it/)
  - [Police in Edmonton, Canada partner with Axon to test body cameras with AI facial recognition, and say the results will be verified by human officers &lpar;Associated Press&rpar;](http://www.techmeme.com/251208/p7#a251208p7)
- - [Google says Gemini 3 Pro sets new vision AI benchmark records, including in complex visual reasoning, beating Claude Opus 4.5 and GPT-5.1 in some categories &lpar;Rohan Doshi/The Keyword&rpar;](http://www.techmeme.com/251208/p6#a251208p6)
- - [Is Plastic Leaking Into My Food? I Found These 4 Items in My Kitchen That Could Be Microplastic Culprits](https://www.cnet.com/health/i-found-kitchen-items-leaking-microplastics-my-food/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says Gemini 3 Pro sets new vision AI benchmark records, including in complex visual reasoning, beating Claude Opus 4.5 and GPT-5.1 in some categories &lpar;Rohan Doshi/The Keyword&rpar;](http://www.techmeme.com/251208/p6#a251208p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

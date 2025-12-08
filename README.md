@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP OmniBook 5 14 review: an OLED is almost enough](https://www.theverge.com/tech/839858/hp-omnibook-5-14-snapdragon-arm-oled-laptop-review)
- - [Apple chief Johny Srouji confirms he isn&#39;t &#39;leaving anytime soon&#39;](https://appleinsider.com/articles/25/12/08/apple-chief-johny-srouji-confirms-he-isnt-leaving-anytime-soon?utm_source=rss)
- - [Sources: Google has told advertising clients that it plans to bring ads to Gemini in 2026, separate from ads in AI Mode &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251208/p25#a251208p25)
- - [Apple AirPods Pro 3 return to $219, matching Black Friday pricing](https://appleinsider.com/articles/25/12/08/apple-airpods-pro-3-return-to-219-matching-black-friday-pricing?utm_source=rss)
- - [Analogue is restocking its 4K N64 and making it more colorful](https://www.theverge.com/news/840068/analogue-3d-transparent-funtastic-limited-edition)<!-- TECH:END -->
+ - [ICEBlock developer sues Trump administration over App Store removal](https://www.theverge.com/news/840164/iceblock-joshua-aaron-sues-trump-administration-apple-app-store-removeal)
+ - [Google says it&#39;s working to create two different categories of AI-powered smart glasses: one with screens launching in 2026 and another that&#39;s audio-focused &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251208/p27#a251208p27)
+ - [Source: the US Department of Commerce plans to allow the export of Nvidia&#39;s old H200 chips to China, seeking a compromise over controlling exports to China &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/251208/p26#a251208p26)
+ - [A first look at Google’s Project Aura glasses built with Xreal](https://www.theverge.com/tech/839392/project-aura-android-xr-software-headsets-ai-glasses)
+ - [HP OmniBook 5 14 review: an OLED is almost enough](https://www.theverge.com/tech/839858/hp-omnibook-5-14-snapdragon-arm-oled-laptop-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there... I dit it](http://9gag.com/gag/avyBDdX)
- - 😝 [Okay Computer Programmers Start coding We Need This Now](http://9gag.com/gag/avyBDXO)
- - 💣 [Its crazy to me that the right way to preserve paper posters... involves soap and water...](http://9gag.com/gag/aqyVdVM)
- - 😝 [The foodtrucks are run by the most lovely people. There is american bbq, mexican food and Wednesdays there is always spare rib day.](http://9gag.com/gag/aGyrorZ)
- - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
+ - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
+ - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 💣 [Respect](http://9gag.com/gag/a5Q9xZr)
+ - 😝 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)
+ - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
 
 ---
 

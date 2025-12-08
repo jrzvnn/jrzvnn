@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US lawmakers remove provisions in the National Defense Authorization Act for 2026 that would have ensured military members&#39; right to repair their own equipment &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/251208/p43#a251208p43)
  - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Google announces system &quot;autospatialization&quot; for Android XR, an AI feature to turn 2D content, including games streamed from a PC, into 3D, arriving in 2026 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/251208/p42#a251208p42)
  - [iPhone owners in Japan just got Messages via Satellite](https://appleinsider.com/articles/25/12/08/iphone-owners-in-japan-just-got-messages-via-satellite?utm_source=rss)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [After rallying early in 2025, Netflix shares have fallen 28% since the end of June amid concerns about its growth outlook and its costly pursuit of WBD &lpar;Bloomberg&rpar;](http://www.techmeme.com/251208/p41#a251208p41)<!-- TECH:END -->
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

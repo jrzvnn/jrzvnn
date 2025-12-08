@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 💣 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)
- - 😝 [Spitting facts every day](http://9gag.com/gag/aRB8N57)
- - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
+ - 😝 [Roman kit](http://9gag.com/gag/amoOdjV)
+ - 😝 [Not a single lie was spoken](http://9gag.com/gag/ajP3dbp)
+ - 💣 [I like the southern accent](http://9gag.com/gag/aLnONQv)
+ - 😝 [Sorry, but no](http://9gag.com/gag/a0eDWOO)
+ - 👉 [Mayor of London nearly crashes out the moment he realizes he has to sing \u201cChrist is born the newborn King\u201d during a Christmas Carol event in London](http://9gag.com/gag/adBWdZV)<!-- MEMES:END -->
 
 ---
 

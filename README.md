@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump says he will do &quot;a ONE RULE&quot; EO on AI &quot;this week&quot; and &quot;you can&#39;t expect a company to get 50 Approvals every time they want to do something&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251208/p15#a251208p15)
+ - [New leak revives claim of under-display Face ID for iPhone 18 Pro](https://appleinsider.com/articles/25/12/08/new-leak-revives-claim-of-under-display-face-id-for-iphone-18-pro?utm_source=rss)
+ - [Black strap gives hope for new Apple Vision Pro colors](https://appleinsider.com/articles/25/12/08/black-strap-gives-hope-for-new-apple-vision-pro-colors?utm_source=rss)
  - [How the creator economy destroyed the internet](https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series)
- - [Apple Manufacturing Academy goes nationwide with new online training](https://appleinsider.com/articles/25/12/08/apple-manufacturing-academy-goes-nationwide-with-new-online-training?utm_source=rss)
- - [An OpenAI survey of 9,000 workers at 100 companies: it saves workers ~40 to 60 minutes per day on average for professional tasks; OpenAI has 1M business clients &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251208/p14#a251208p14)
- - [Netflix changed movie distribution and its executives now think that licensing shows leaves money on the table; YouTube may help Netflix&#39;s WBD antitrust case &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251208/p13#a251208p13)
- - [The EU says Meta agreed to make changes to its &quot;pay or consent&quot; model in the EU, including ad-lite Instagram and Facebook versions, but &quot;the case is not closed&quot; &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251208/p12#a251208p12)<!-- TECH:END -->
+ - [Apple Manufacturing Academy goes nationwide with new online training](https://appleinsider.com/articles/25/12/08/apple-manufacturing-academy-goes-nationwide-with-new-online-training?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

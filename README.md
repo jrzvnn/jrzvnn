@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like the southern accent](http://9gag.com/gag/aLnONQv)
- - 😝 [Sorry, but no](http://9gag.com/gag/a0eDWOO)
- - 💣 [Shocking footage of 7.5 magnitude earthquake in Japan](http://9gag.com/gag/a34zp97)
- - 😝 [Is this still a joke ?](http://9gag.com/gag/a34ze3v)
- - 👉 [Mayor of London nearly crashes out the moment he realizes he has to sing \u201cChrist is born the newborn King\u201d during a Christmas Carol event in London](http://9gag.com/gag/adBWdZV)<!-- MEMES:END -->
+ - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 😝 [What could possibly go wrong?](http://9gag.com/gag/aXPme7d)
+ - 💣 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
+ - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
 
 ---
 

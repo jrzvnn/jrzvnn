@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
- - 😝 [What could possibly go wrong?](http://9gag.com/gag/aXPme7d)
- - 💣 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
- - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
+ - 😝 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)
+ - 😝 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
+ - 💣 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
+ - 😝 [Is this still a joke ?](http://9gag.com/gag/a34ze3v)
+ - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
 
 ---
 

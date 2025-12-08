@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance receives three licenses from Abu Dhabi&#39;s financial regulator, allowing comprehensive operations across its exchange, clearing, and brokerage arms &lpar;Alex Dooler/Bloomberg&rpar;](http://www.techmeme.com/251208/p8#a251208p8)
+ - [The Longest Solar Eclipse for 100 Years Is Coming. Don’t Miss It](https://www.wired.com/story/the-longest-solar-eclipse-for-100-years-is-coming-dont-miss-it/)
  - [Police in Edmonton, Canada partner with Axon to test body cameras with AI facial recognition, and say the results will be verified by human officers &lpar;Associated Press&rpar;](http://www.techmeme.com/251208/p7#a251208p7)
  - [Google says Gemini 3 Pro sets new vision AI benchmark records, including in complex visual reasoning, beating Claude Opus 4.5 and GPT-5.1 in some categories &lpar;Rohan Doshi/The Keyword&rpar;](http://www.techmeme.com/251208/p6#a251208p6)
- - [An interview with 10 Kenyan AI annotators shows Chinese companies hire data labelers via opaque middleman networks and WhatsApp groups to avoid accountability &lpar;Rest of World&rpar;](http://www.techmeme.com/251208/p5#a251208p5)
- - [Coinbase reopens app registrations in India after an over-two-year pause, letting users make crypto-to-crypto trades, and plans to open up crypto buying in 2026 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251208/p4#a251208p4)
- - [Inside the creation of AI actress Tilly Norwood, which included 2,000 iterations; Particle6, its creator, says it has ~60 NDAs for projects involving Tilly &lpar;Ellen Gamerman/Wall Street Journal&rpar;](http://www.techmeme.com/251208/p3#a251208p3)<!-- TECH:END -->
+ - [Is Plastic Leaking Into My Food? I Found These 4 Items in My Kitchen That Could Be Microplastic Culprits](https://www.cnet.com/health/i-found-kitchen-items-leaking-microplastics-my-food/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

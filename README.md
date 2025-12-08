@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the creator economy destroyed the internet](https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series)
+ - [Apple Manufacturing Academy goes nationwide with new online training](https://appleinsider.com/articles/25/12/08/apple-manufacturing-academy-goes-nationwide-with-new-online-training?utm_source=rss)
+ - [An OpenAI survey of 9,000 workers at 100 companies: it saves workers ~40 to 60 minutes per day on average for professional tasks; OpenAI has 1M business clients &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251208/p14#a251208p14)
  - [Netflix changed movie distribution and its executives now think that licensing shows leaves money on the table; YouTube may help Netflix&#39;s WBD antitrust case &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251208/p13#a251208p13)
- - [The EU says Meta agreed to make changes to its &quot;pay or consent&quot; model in the EU, including ad-lite Instagram and Facebook versions, but &quot;the case is not closed&quot; &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251208/p12#a251208p12)
- - [Stop, Shop, and Scroll](https://www.theverge.com/cs/features/836456/influencers-tiktok-debt-shopaganda)
- - [JBL Grip Review: A Bluetooth Speaker With Lava Lamp Vibes](https://www.wired.com/review/jbl-grip/)
- - [Wedbush raises its Apple price target to $350 over AI expectations and staff changes](https://appleinsider.com/articles/25/12/08/wedbush-raises-its-apple-price-target-to-350-over-ai-expectations-and-staff-changes?utm_source=rss)<!-- TECH:END -->
+ - [The EU says Meta agreed to make changes to its &quot;pay or consent&quot; model in the EU, including ad-lite Instagram and Facebook versions, but &quot;the case is not closed&quot; &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251208/p12#a251208p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

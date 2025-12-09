@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
  - 😝 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)
+ - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
  - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 😝 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
- - 👉 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
+ - 😝 [Some nostalgic energy for you. MASK](http://9gag.com/gag/apRnn3E)
+ - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
 
 ---
 

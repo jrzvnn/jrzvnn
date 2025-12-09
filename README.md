@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Arcade&#39;s &#39;Sneaky Sasquatch&#39; hides in Apple Stores for holiday fun](https://appleinsider.com/articles/25/12/09/apple-arcades-sneaky-sasquatch-hides-in-apple-stores-for-holiday-fun?utm_source=rss)
+ - [Sources: OpenAI has become more guarded about publishing research on AI&#39;s economic harms, prompting at least two economic research staffers to leave &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251209/p33#a251209p33)
+ - [Data center construction moratorium is gaining steam](https://www.theverge.com/news/840883/data-center-moratorium-letter-congress)
  - [Stop this myth that Snow Leopard was just some tune-up Mac release](https://appleinsider.com/articles/25/12/09/stop-this-myth-that-snow-leopard-was-just-some-tune-up-mac-release?utm_source=rss)
- - [Anthropic donates the Model Context Protocol to the Agentic AI Foundation and says there are now more than 10,000 active public MCP servers &lpar;Anthropic&rpar;](http://www.techmeme.com/251209/p32#a251209p32)
- - [OpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy](https://www.wired.com/story/openai-economic-research-team-ai-jobs/)
- - [Spanish police arrest a suspected 19-year-old hacker in Barcelona over allegedly stealing and attempting to sell 64M records from breaches at nine companies &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251209/p31#a251209p31)
- - [Anthropic, OpenAI, Block, Google, AWS, Microsoft, and others launch the Agentic AI Foundation to build open-source agent standards under the Linux Foundation &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251209/p30#a251209p30)<!-- TECH:END -->
+ - [Anthropic donates the Model Context Protocol to the Agentic AI Foundation and says there are now more than 10,000 active public MCP servers &lpar;Anthropic&rpar;](http://www.techmeme.com/251209/p32#a251209p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

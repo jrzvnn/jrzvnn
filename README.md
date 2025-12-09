@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing&amp;#8217;s community-designed Phone 3A adds some color and matching dice](https://www.theverge.com/news/841019/nothing-phone-3a-community-edition)
  - [Denise Dresser, Slack CEO since 2023, is stepping down to join OpenAI as the company&#39;s chief revenue officer &lpar;Wired&rpar;](http://www.techmeme.com/251209/p36#a251209p36)
  - [Facebook&amp;#8217;s redesign is making it more like Instagram](https://www.theverge.com/news/841036/facebook-redesign-instagram-photos-feed-algorithm)
  - [OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/)
- - [Australia boots kids under 16 off social media: how platforms are responding](https://www.theverge.com/report/840822/australia-social-media-ban-under-16-response)
- - [RAM price hikes: the latest on the global memory shortage](https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news)<!-- TECH:END -->
+ - [Australia boots kids under 16 off social media: how platforms are responding](https://www.theverge.com/report/840822/australia-social-media-ban-under-16-response)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

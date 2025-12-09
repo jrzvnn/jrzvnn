@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: after the Netflix-WBD deal was announced, Larry Ellison called President Trump about how the transaction would hurt competition &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251208/p48#a251208p48)
- - [The US FDA qualifies the first AI drug development tool, AIM-NASH, to help doctors assess a severe form of fatty liver disease in drug trials &lpar;Sahil Pandey/Reuters&rpar;](http://www.techmeme.com/251208/p47#a251208p47)
- - [David Sacks says AI preemption won&#39;t apply to state laws on child safety, communities won&#39;t be forced to host data centers they don&#39;t want, and more &lpar;David Sacks/@davidsacks&rpar;](http://www.techmeme.com/251208/p46#a251208p46)
- - [President Trump says the &quot;same approach&quot; used to let Nvidia ship H200 chips to China will also apply to &quot;AMD, Intel, and other GREAT American Companies&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251208/p45#a251208p45)
- - [Filing: HashKey, Hong Kong&#39;s largest licensed crypto exchange, is aiming to raise up to ~$215M in its IPO in the city &lpar;Kumar Tanishk/Reuters&rpar;](http://www.techmeme.com/251208/p44#a251208p44)<!-- TECH:END -->
+ - [The International Committee of the Red Cross, which runs major research archives, warned that AI models are fabricating research papers, journals, and archives &lpar;Dan Vergano/Scientific American&rpar;](http://www.techmeme.com/251208/p50#a251208p50)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 9, #442](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-9-442/#ftag=CAD590a51e)
+ - [How to Revisit Your Entire Nintendo Gaming History, Decade by Decade](https://www.cnet.com/tech/gaming/heres-how-to-relive-your-gaming-history-spanning-decades-across-nintendo-consoles/#ftag=CAD590a51e)
+ - [Apple&#39;s Creaseless iPhone Fold Poised to Become the Priciest iPhone Ever](https://www.cnet.com/tech/mobile/iphone-fold-will-be-creaseless-and-cost-2400-report-says/#ftag=CAD590a51e)
+ - [Robinhood is set to join Indonesia&#39;s retail investment boom after agreeing to acquire local brokerages PT Buana Capital Sekuritas and PT Pedagang Aset Kripto &lpar;Prima Wirayani/Bloomberg&rpar;](http://www.techmeme.com/251208/p49#a251208p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

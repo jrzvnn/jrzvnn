@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The International Committee of the Red Cross, which runs major research archives, warned that AI models are fabricating research papers, journals, and archives &lpar;Dan Vergano/Scientific American&rpar;](http://www.techmeme.com/251208/p50#a251208p50)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 9, #442](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-9-442/#ftag=CAD590a51e)
- - [How to Revisit Your Entire Nintendo Gaming History, Decade by Decade](https://www.cnet.com/tech/gaming/heres-how-to-relive-your-gaming-history-spanning-decades-across-nintendo-consoles/#ftag=CAD590a51e)
- - [Apple&#39;s Creaseless iPhone Fold Poised to Become the Priciest iPhone Ever](https://www.cnet.com/tech/mobile/iphone-fold-will-be-creaseless-and-cost-2400-report-says/#ftag=CAD590a51e)
- - [Robinhood is set to join Indonesia&#39;s retail investment boom after agreeing to acquire local brokerages PT Buana Capital Sekuritas and PT Pedagang Aset Kripto &lpar;Prima Wirayani/Bloomberg&rpar;](http://www.techmeme.com/251208/p49#a251208p49)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-9/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 9, #1634](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-9-1634/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 9 #646](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-9-646/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 9, #912](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-9-912/#ftag=CAD590a51e)
+ - [The International Committee of the Red Cross, which runs major research archives, warned that AI models are fabricating research papers, journals, and archives &lpar;Dan Vergano/Scientific American&rpar;](http://www.techmeme.com/251208/p50#a251208p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

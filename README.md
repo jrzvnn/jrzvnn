@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too much Action Films](http://9gag.com/gag/aE0jNLe)
- - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 💣 [What&#39;s that song or album that does it for you? Looking for decent song suggestions.](http://9gag.com/gag/a1m8xew)
- - 😝 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
- - 👉 [Bamboozled](http://9gag.com/gag/a5Q9vMN)<!-- MEMES:END -->
+ - 😝 [Looks expensive](http://9gag.com/gag/aAyLqDR)
+ - 😝 [Mayor of London nearly crashes out the moment he realizes he has to sing \u201cChrist is born the newborn King\u201d during a Christmas Carol event in London](http://9gag.com/gag/adBWdZV)
+ - 💣 [Giving your old neighbors some PTSD](http://9gag.com/gag/aPAVdQK)
+ - 😝 [Money\u2019s tight](http://9gag.com/gag/aLnOVDv)
+ - 👉 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
 
 ---
 

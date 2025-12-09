@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [European Commission credits DMA for upcoming iPhone-Android switching tools](https://appleinsider.com/articles/25/12/09/european-commission-credits-dma-for-upcoming-iphone-android-switching-tools?utm_source=rss)
  - [Crunchyroll announces it is shutting down its free ad-supported streaming option on December 31; Crunchyroll subscriptions start at $7.99/month or $79.99/year &lpar;Luke Bouma/Cord Cutters News&rpar;](http://www.techmeme.com/251209/p49#a251209p49)
  - [Google adds new pinch and wrist gestures to the Pixel Watch 4 and says Watch 3 and Watch 4 will now use an on-device Gemma-based AI model for Smart Replies &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251209/p48#a251209p48)
  - [Intel Takes Major Step in Plan to Acquire Chip Startup SambaNova](https://www.wired.com/story/intel-signs-term-sheet-sambanova-ai/)
- - [Both sides of the aisle hate the AI moratorium](https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans)
- - [Somehow, this AI-generated McDonald&amp;#8217;s ad about hating Christmas was a flop](https://www.theverge.com/news/841220/mcdonalds-ai-generated-christmas-ad)<!-- TECH:END -->
+ - [Both sides of the aisle hate the AI moratorium](https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Photos launches new video editing tools, including specialized templates with preset music and text overlays, as well as a redesigned video editor &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251209/p34#a251209p34)
+ - [The Best Karaoke Speakers from Small and Portable to Massive](https://www.wired.com/gallery/best-karaoke-gear/)
+ - [Google Photos&amp;#8217; new video editor makes it more like Capcut](https://www.theverge.com/news/840690/google-photos-video-editing-highlight-reel-updates)
  - [Apple Arcade&#39;s &#39;Sneaky Sasquatch&#39; hides in Apple Stores for holiday fun](https://appleinsider.com/articles/25/12/09/apple-arcades-sneaky-sasquatch-hides-in-apple-stores-for-holiday-fun?utm_source=rss)
- - [Sources: OpenAI has become more guarded about publishing research on AI&#39;s economic harms, prompting at least two economic research staffers to leave &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251209/p33#a251209p33)
- - [Data center construction moratorium is gaining steam](https://www.theverge.com/news/840883/data-center-moratorium-letter-congress)
- - [Stop this myth that Snow Leopard was just some tune-up Mac release](https://appleinsider.com/articles/25/12/09/stop-this-myth-that-snow-leopard-was-just-some-tune-up-mac-release?utm_source=rss)
- - [Anthropic donates the Model Context Protocol to the Agentic AI Foundation and says there are now more than 10,000 active public MCP servers &lpar;Anthropic&rpar;](http://www.techmeme.com/251209/p32#a251209p32)<!-- TECH:END -->
+ - [Sources: OpenAI has become more guarded about publishing research on AI&#39;s economic harms, prompting at least two economic research staffers to leave &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251209/p33#a251209p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is pursuing a new Llama successor and frontier AI model, codenamed Avocado, set for release in Q1 2026, and it could be a proprietary model &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251209/p13#a251209p13)
- - [The 26 Best Advent Calendars &lpar;2025&rpar;: It&#39;s OK if You Start Late](https://www.wired.com/gallery/best-advent-calendar/)
- - [Hard Drive, SSD, NVMe, M.2: What&#39;s Best?](https://www.cnet.com/tech/computing/hard-drive-ssd-nvme-m-2-whats-best/#ftag=CAD590a51e)
- - [Dutch media: ASML has sold parts to a subsidiary of a Chinese army supplier, per Chinese import and export data; ASML says it can&#39;t confirm the report &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/251209/p12#a251209p12)
- - [San Francisco Mayor Daniel Lurie: ‘We Are a City on the Rise’](https://www.wired.com/story/the-big-interview-podcast-san-francisco-mayor-daniel-lurie/)<!-- TECH:END -->
+ - [Anthropic and Accenture sign a three-year deal to sell AI services to businesses; the deal makes Accenture one of Anthropic&#39;s top three enterprise clients &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251209/p14#a251209p14)
+ - [How to Shop for a Mechanical Keyboard &lpar;2025&rpar;: Switches, Materials, and Layouts Explained](https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/)
+ - [iFixit Put a Chatbot Repair Expert in an App](https://www.wired.com/story/ifixit-chatbot-app-fixbot-point-your-camera-at-what-you-want-to-fix/)
+ - [iFixit’s FixBot helps with repairs ‘the way a master technician would’](https://www.theverge.com/news/840570/ifixit-app-android-ios-fixbot-ai)
+ - [How to buy a used Mac and not get ripped off](https://appleinsider.com/articles/25/12/05/how-to-buy-a-used-mac-and-not-get-ripped-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

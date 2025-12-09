@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hamish McKenzie says Substack is starting to test native sponsorships with some writers but won&#39;t take a cut for now &lpar;Emily Sundberg/Feed Me&rpar;](http://www.techmeme.com/251209/p40#a251209p40)
+ - [Pebble&#39;s simple smart ring lets you make voice notes from your finger](https://appleinsider.com/articles/25/12/09/pebbles-simple-smart-ring-lets-you-make-voice-notes-from-your-finger?utm_source=rss)
  - [Wake Up Dead Man digs deep for a darker, more powerful Knives Out](https://www.theverge.com/entertainment/840977/wake-up-dead-man-review-netflix-knives-out)
  - [The 51 Best Shows on Hulu, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [The AirPods Pro 3 are back to their lowest price ahead of the holidays](https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale)
- - [Instagram appears to be generating often misleading SEO-style headlines and long descriptions for users&#39; Instagram posts, appearing in Google Search results &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251209/p39#a251209p39)
- - [Google brings back Black Friday prices for earbuds, phones, and more](https://www.theverge.com/gadgets/841072/google-pixel-9a-pixel-watch-4-holiday-gifts-deal-sale)<!-- TECH:END -->
+ - [The AirPods Pro 3 are back to their lowest price ahead of the holidays](https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

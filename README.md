@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wikimedia Foundation names Bernadette Meehan, who was the US Ambassador to Chile from 2022 to 2025, as its new CEO &lpar;Deborah Mary Sophia/Reuters&rpar;](http://www.techmeme.com/251209/p23#a251209p23)
+ - [Saviynt, an identity and access management service focused on &quot;human and nonhuman&quot; identity controls, raised a $700M Series B led by KKR at a $3B valuation &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/251209/p22#a251209p22)
+ - [Pebble unveils the Pebble Index 01, a $99 smart ring with an on-device LLM for processing voice notes, shipping in March 2026, initially for $75 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/251209/p21#a251209p21)
  - [iFixit app returns to the App Store with AI guidance and battery warnings](https://appleinsider.com/articles/25/12/09/ifixit-app-returns-to-the-app-store-with-ai-guidance-and-battery-warnings?utm_source=rss)
- - [Spotify rolls out music videos to Premium subscribers in the US and Canada, following a beta launch in nearly 100 markets last year &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251209/p20#a251209p20)
- - [Source: ChatGPT nears 900M weekly active users; Sensor Tower: Gemini MAUs grew ~30% to 346M between August and November while ChatGPT&#39;s rose ~5% to 810M &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251209/p19#a251209p19)
- - [Spotify’s music videos feature arrives in the US and Canada](https://www.theverge.com/news/840308/spotify-music-videos-beta-us-canada)
- - [Pebble Index: Everything You Need to Know About the $75 Smart Ring](https://www.wired.com/story/pebble-index-ring/)<!-- TECH:END -->
+ - [Spotify rolls out music videos to Premium subscribers in the US and Canada, following a beta launch in nearly 100 markets last year &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251209/p20#a251209p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

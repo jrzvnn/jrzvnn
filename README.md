@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stop this myth that Snow Leopard was just some tune-up Mac release](https://appleinsider.com/articles/25/12/09/stop-this-myth-that-snow-leopard-was-just-some-tune-up-mac-release?utm_source=rss)
+ - [Anthropic donates the Model Context Protocol to the Agentic AI Foundation and says there are now more than 10,000 active public MCP servers &lpar;Anthropic&rpar;](http://www.techmeme.com/251209/p32#a251209p32)
+ - [OpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy](https://www.wired.com/story/openai-economic-research-team-ai-jobs/)
  - [Spanish police arrest a suspected 19-year-old hacker in Barcelona over allegedly stealing and attempting to sell 64M records from breaches at nine companies &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251209/p31#a251209p31)
- - [Anthropic, OpenAI, Block, Google, AWS, Microsoft, and others launch the Agentic AI Foundation to build open-source agent standards under the Linux Foundation &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251209/p30#a251209p30)
- - [Circle launches USDCx, a privacy-focused version of its USDC stablecoin on the Aleo blockchain, to give users &quot;banking-level privacy&quot; with a &quot;compliance record&quot; &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251209/p29#a251209p29)
- - [OpenAI, Anthropic, and Block Are Teaming Up to Make AI Agents Play Nice](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/)
- - [iFixit app returns to App Store with AI guidance &amp; unnecessary battery warnings](https://appleinsider.com/articles/25/12/09/ifixit-app-returns-to-the-app-store-with-ai-guidance-and-battery-warnings?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic, OpenAI, Block, Google, AWS, Microsoft, and others launch the Agentic AI Foundation to build open-source agent standards under the Linux Foundation &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251209/p30#a251209p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

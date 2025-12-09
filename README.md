@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wikimedia Foundation names Bernadette Meehan, who was the US Ambassador to Chile from 2022 to 2025, as its new CEO &lpar;Deborah Mary Sophia/Reuters&rpar;](http://www.techmeme.com/251209/p23#a251209p23)
- - [Saviynt, an identity and access management service focused on &quot;human and nonhuman&quot; identity controls, raised a $700M Series B led by KKR at a $3B valuation &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/251209/p22#a251209p22)
- - [Pebble unveils the Pebble Index 01, a $99 smart ring with an on-device LLM for processing voice notes, shipping in March 2026, initially for $75 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/251209/p21#a251209p21)
- - [iFixit app returns to the App Store with AI guidance and battery warnings](https://appleinsider.com/articles/25/12/09/ifixit-app-returns-to-the-app-store-with-ai-guidance-and-battery-warnings?utm_source=rss)
- - [Spotify rolls out music videos to Premium subscribers in the US and Canada, following a beta launch in nearly 100 markets last year &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251209/p20#a251209p20)<!-- TECH:END -->
+ - [Some of Ikea’s Matter-compatible smart devices are now available in the US](https://www.theverge.com/news/840727/ikea-smart-home-matter-thread-sensors-now-available)
+ - [Some Biden-era officials say access to Nvidia chips could help China&#39;s AI companies buy time while China&#39;s chip makers improve their chips&#39; performance &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/251209/p26#a251209p26)
+ - [Stripe and Paradigm launch a public trial for their blockchain project Tempo, targeting real-world stablecoin payments, with Kalshi and UBS as new partners &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p25#a251209p25)
+ - [Mistral launches Devstral 2, a coding model with 123B parameters requiring at least four H100 GPUs, and a 24B parameter Devstral Small for local deployment &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251209/p24#a251209p24)
+ - [Wikimedia Foundation names Bernadette Meehan, who was the US Ambassador to Chile from 2022 to 2025, as its new CEO &lpar;Deborah Mary Sophia/Reuters&rpar;](http://www.techmeme.com/251209/p23#a251209p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

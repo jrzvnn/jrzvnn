@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
+ - 😝 [What&#39;s that song or album that does it for you? Looking for decent song suggestions.](http://9gag.com/gag/a1m8xew)
+ - 😝 [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
+ - 💣 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
  - 😝 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)
- - 💣 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
- - 😝 [Spitting facts every day](http://9gag.com/gag/aRB8N57)
- - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
+ - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
 
 ---
 

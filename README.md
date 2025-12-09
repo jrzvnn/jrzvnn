@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta is pursuing a new Llama successor and frontier AI model, codenamed Avocado, set for release in Q1 2026, and it could be a proprietary model &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251209/p13#a251209p13)
+ - [The 26 Best Advent Calendars &lpar;2025&rpar;: It&#39;s OK if You Start Late](https://www.wired.com/gallery/best-advent-calendar/)
+ - [Hard Drive, SSD, NVMe, M.2: What&#39;s Best?](https://www.cnet.com/tech/computing/hard-drive-ssd-nvme-m-2-whats-best/#ftag=CAD590a51e)
  - [Dutch media: ASML has sold parts to a subsidiary of a Chinese army supplier, per Chinese import and export data; ASML says it can&#39;t confirm the report &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/251209/p12#a251209p12)
- - [San Francisco Mayor Daniel Lurie: ‘We Are a City on the Rise’](https://www.wired.com/story/the-big-interview-podcast-san-francisco-mayor-daniel-lurie/)
- - [Trump says Nvidia can sell more powerful AI chips to China](https://www.theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us)
- - [Sources: Beijing is set to limit access to Nvidia&#39;s H200 chips despite President Trump allowing their export to China, in its push for chip self-sufficiency &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/251209/p11#a251209p11)
- - [South Korean media: police raided Coupang&#39;s HQ, searching for evidence related to a historic data breach that compromised 30M+ people&#39;s personal information &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/251209/p10#a251209p10)<!-- TECH:END -->
+ - [San Francisco Mayor Daniel Lurie: ‘We Are a City on the Rise’](https://www.wired.com/story/the-big-interview-podcast-san-francisco-mayor-daniel-lurie/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do not back off from bullies](http://9gag.com/gag/aYQvZrO)
  - 😝 [I just find it amazing how we went from stone age humans to be able to do this with sand](http://9gag.com/gag/a87vQb6)
- - 💣 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
+ - 😝 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
+ - 💣 [True](http://9gag.com/gag/a2vAAWp)
  - 😝 [Thank you \u201cDie in fresh fat fu\u00a9\ufe0fk\u201d Your 360 days journey made me start. I managed to reach my goal two days before my 40th birthday](http://9gag.com/gag/a6Ze4q8)
  - 👉 [Spitting facts every day](http://9gag.com/gag/aRB8N57)<!-- MEMES:END -->
 

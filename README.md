@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 😝 [What&#39;s that song or album that does it for you? Looking for decent song suggestions.](http://9gag.com/gag/a1m8xew)
- - 💣 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
- - 😝 [Thank you \u201cDie in fresh fat fu\u00a9\ufe0fk\u201d Your 360 days journey made me start. I managed to reach my goal two days before my 40th birthday](http://9gag.com/gag/a6Ze4q8)
- - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
+ - 😝 [Too much Action Films](http://9gag.com/gag/aE0jNLe)
+ - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 💣 [What&#39;s that song or album that does it for you? Looking for decent song suggestions.](http://9gag.com/gag/a1m8xew)
+ - 😝 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
+ - 👉 [Bamboozled](http://9gag.com/gag/a5Q9vMN)<!-- MEMES:END -->
 
 ---
 

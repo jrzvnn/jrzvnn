@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Down Comforter Deals for Winter Nights &lpar;2025&rpar;](https://www.wired.com/story/down-comforter-deals-december-2025/)
  - [Justin McLeod, founder and CEO of Hinge, steps down to launch Overtone, an &quot;AI-driven&quot; dating service backed by Match; Hinge promotes CMO Jackie Jantos to CEO &lpar;Yasmin Gagne/Fast Company&rpar;](http://www.techmeme.com/251209/p45#a251209p45)
  - [Sources: Nvidia&#39;s H200 chips for China, mainly manufactured in Taiwan, will travel to the US for an unusual national security review before they are exported &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251209/p44#a251209p44)
  - [50% Off Verizon Promo Codes | December 2025](https://www.wired.com/story/verizon-promo-code/)
- - [Source: Trump allowed Nvidia to sell H200s to China after concluding the move carried a lower security risk as Huawei offers systems with comparable performance &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p43#a251209p43)
- - [Report suggests foldables might surge in 2026 as Apple joins the race](https://appleinsider.com/articles/25/12/09/report-suggests-foldables-might-surge-in-2026-as-apple-joins-the-race?utm_source=rss)<!-- TECH:END -->
+ - [Source: Trump allowed Nvidia to sell H200s to China after concluding the move carried a lower security risk as Huawei offers systems with comparable performance &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p43#a251209p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

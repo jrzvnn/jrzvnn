@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just like that spool of wire, woman wouldn&#39;t get it](http://9gag.com/gag/avyBBeb)
- - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
- - 💣 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
- - 😝 [I just find it amazing how we went from stone age humans to be able to do this with sand](http://9gag.com/gag/a87vQb6)
- - 👉 [Thank you \u201cDie in fresh fat fu\u00a9\ufe0fk\u201d Your 360 days journey made me start. I managed to reach my goal two days before my 40th birthday](http://9gag.com/gag/a6Ze4q8)<!-- MEMES:END -->
+ - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 😝 [Some nostalgic energy for you. MASK](http://9gag.com/gag/apRnn3E)
+ - 👉 [Too much Action Films](http://9gag.com/gag/aE0jNLe)<!-- MEMES:END -->
 
 ---
 

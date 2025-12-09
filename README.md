@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unreleased 30-year old Mac OS for CHRP can run on your 20-year-old Mac](https://appleinsider.com/articles/25/12/09/unreleased-30-year-old-mac-os-for-chrp-can-run-on-your-20-year-old-mac?utm_source=rss)
  - [Microsoft plans to invest CA$7.5B in Canada over two years to build AI infrastructure, coming online in 2026, taking its investment to CA$19B from 2023 to 2027 &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/251209/p15#a251209p15)
  - [Tap to Pay on iPhone comes to Hong Kong](https://appleinsider.com/articles/25/12/09/tap-to-pay-on-iphone-comes-to-hong-kong?utm_source=rss)
  - [Anthropic and Accenture sign a three-year deal to sell AI services to businesses; the deal makes Accenture one of Anthropic&#39;s top three enterprise clients &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251209/p14#a251209p14)
- - [How to Shop for a Mechanical Keyboard &lpar;2025&rpar;: Switches, Materials, and Layouts Explained](https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/)
  - [iFixit Put a Chatbot Repair Expert in an App](https://www.wired.com/story/ifixit-chatbot-app-fixbot-point-your-camera-at-what-you-want-to-fix/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

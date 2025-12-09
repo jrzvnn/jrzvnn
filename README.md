@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Australia prepares to enact the world&#39;s first under-16 social media ban on December 10, a look at the implications, reaction from parents and teens, and more &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/251209/p9#a251209p9)
  - [Mercedes partners with Chinese software developer Momenta to deploy Level 4 self-driving cars for Lumo Mobility in Abu Dhabi, its first foray into robotaxis &lpar;William Wilkes/Bloomberg&rpar;](http://www.techmeme.com/251209/p8#a251209p8)
  - [America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)
  - [Google Zero is under investigation by the EU](https://www.theverge.com/news/840547/google-zero-eu-antitrust-investigation-ai-content)
- - [The European Commission opens an investigation into Google to assess possible anticompetitive conduct by Google in &quot;the use of online content for AI purposes&quot; &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251209/p7#a251209p7)
- - [The US DOJ detains two men for allegedly violating export controls by trying to smuggle $160M+ of Nvidia H100 and H200 chips to China; a third man pled guilty &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251209/p6#a251209p6)<!-- TECH:END -->
+ - [The European Commission opens an investigation into Google to assess possible anticompetitive conduct by Google in &quot;the use of online content for AI purposes&quot; &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251209/p7#a251209p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

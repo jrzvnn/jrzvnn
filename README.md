@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
- - 😝 [It&#39;s a trap](http://9gag.com/gag/axyenOD)
- - 💣 [Seriously though?](http://9gag.com/gag/amoOdDV)
- - 😝 [She is lying out of her ASS right now](http://9gag.com/gag/avyBBqd)
- - 👉 [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)<!-- MEMES:END -->
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 😝 [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)
+ - 💣 [It&#39;s a trap](http://9gag.com/gag/axyenOD)
+ - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
 
 ---
 

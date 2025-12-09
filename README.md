@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fal, which hosts generative AI models for developers, raised a $140M Series D led by Sequoia, a source says at a $4.5B valuation, up from $1.5B in July &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/251209/p17#a251209p17)
- - [Satya Nadella says Microsoft plans to spend $17.5B on AI and cloud computing in India over four years, its largest ever Asia investment, after meeting with Modi &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251209/p16#a251209p16)
- - [If you&#39;ve got a 20-year-old Mac mini, you can run a newly discovered MacOS 7.6](https://appleinsider.com/articles/25/12/09/unreleased-30-year-old-mac-os-for-chrp-can-run-on-your-20-year-old-mac?utm_source=rss)
- - [Soundpeats H3 Review: Triple-Driver Wireless Earbuds](https://www.wired.com/review/soundpeats-h3/)
- - [You can now text photos directly to Aura&amp;#8217;s digital picture frames](https://www.theverge.com/news/840142/aura-text-to-frame-digital-picture-frame-share-photos)<!-- TECH:END -->
+ - [The Vergecast 2025 year in review](https://www.theverge.com/podcast/840661/tech-stories-2025-ai-vergecast)
+ - [Source: Anthropic, OpenAI, Google, Microsoft, and more are set to unveil the Agentic AI Foundation to build open-source AI agent standards as soon as this week &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/251209/p18#a251209p18)
+ - [What Peloton Instructor Jess King Needs to Survive the Day](https://www.wired.com/story/jess-king-wellness-starter-pack/)
+ - [The best thing I bought this year: the Remarkable Paper Pro](https://www.theverge.com/gadgets/837877/remarkable-paper-pro-type-folio-marker-plus-favorite)
+ - [Fal, which hosts generative AI models for developers, raised a $140M Series D led by Sequoia, a source says at a $4.5B valuation, up from $1.5B in July &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/251209/p17#a251209p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

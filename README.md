@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks expensive](http://9gag.com/gag/aAyLqDR)
- - 😝 [Mayor of London nearly crashes out the moment he realizes he has to sing \u201cChrist is born the newborn King\u201d during a Christmas Carol event in London](http://9gag.com/gag/adBWdZV)
- - 💣 [Giving your old neighbors some PTSD](http://9gag.com/gag/aPAVdQK)
- - 😝 [Money\u2019s tight](http://9gag.com/gag/aLnOVDv)
- - 👉 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
+ - 😝 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
+ - 😝 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)
+ - 💣 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
+ - 😝 [Spitting facts every day](http://9gag.com/gag/aRB8N57)
+ - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
 
 ---
 

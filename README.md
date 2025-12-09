@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon takes $150 off M3 iPad Air with bonus coupon savings](https://appleinsider.com/articles/25/12/09/amazon-takes-150-off-m3-ipad-air-with-bonus-coupon-savings?utm_source=rss)
+ - [The Verge’s 2025 holiday gift guide for tinkerers](https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025)
+ - [YouTube creators can now test multiple video titles](https://www.theverge.com/news/840789/youtube-video-title-a-b-testing-feature)
  - [Some of Ikea’s Matter-compatible smart devices are now available in the US](https://www.theverge.com/news/840727/ikea-smart-home-matter-thread-sensors-now-available)
- - [Some Biden-era officials say access to Nvidia chips could help China&#39;s AI companies buy time while China&#39;s chip makers improve their chips&#39; performance &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/251209/p26#a251209p26)
- - [Stripe and Paradigm launch a public trial for their blockchain project Tempo, targeting real-world stablecoin payments, with Kalshi and UBS as new partners &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p25#a251209p25)
- - [Mistral launches Devstral 2, a coding model with 123B parameters requiring at least four H100 GPUs, and a 24B parameter Devstral Small for local deployment &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251209/p24#a251209p24)
- - [Wikimedia Foundation names Bernadette Meehan, who was the US Ambassador to Chile from 2022 to 2025, as its new CEO &lpar;Deborah Mary Sophia/Reuters&rpar;](http://www.techmeme.com/251209/p23#a251209p23)<!-- TECH:END -->
+ - [Some Biden-era officials say access to Nvidia chips could help China&#39;s AI companies buy time while China&#39;s chip makers improve their chips&#39; performance &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/251209/p26#a251209p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

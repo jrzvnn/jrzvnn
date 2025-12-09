@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Australia prepares to enact the world&#39;s first under-16 social media ban on December 10, a look at the implications, reaction from parents and teens, and more &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/251209/p9#a251209p9)
- - [Mercedes partners with Chinese software developer Momenta to deploy Level 4 self-driving cars for Lumo Mobility in Abu Dhabi, its first foray into robotaxis &lpar;William Wilkes/Bloomberg&rpar;](http://www.techmeme.com/251209/p8#a251209p8)
- - [America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)
- - [Google Zero is under investigation by the EU](https://www.theverge.com/news/840547/google-zero-eu-antitrust-investigation-ai-content)
- - [The European Commission opens an investigation into Google to assess possible anticompetitive conduct by Google in &quot;the use of online content for AI purposes&quot; &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251209/p7#a251209p7)<!-- TECH:END -->
+ - [Sources: Beijing is set to limit access to Nvidia&#39;s H200 chips despite President Trump allowing their export to China, in its push for chip self-sufficiency &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/251209/p11#a251209p11)
+ - [South Korean media: police raided Coupang&#39;s HQ, searching for evidence related to a historic data breach that compromised 30M+ people&#39;s personal information &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/251209/p10#a251209p10)
+ - [Can Bike Riders and Self-Driving Cars Be Friends?](https://www.wired.com/story/can-bike-riders-and-self-driving-cars-be-friends/)
+ - [RAM is ruining everything](https://www.theverge.com/report/839506/ram-shortage-price-increases-pc-gaming-smartphones)
+ - [As Australia prepares to enact the world&#39;s first under-16 social media ban on December 10, a look at the implications, reaction from parents and teens, and more &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/251209/p9#a251209p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

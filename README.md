@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
- - 😝 [Looks expensive](http://9gag.com/gag/aAyLqDR)
- - 💣 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
- - 😝 [When you are honest on job interview](http://9gag.com/gag/aVv91oP)
- - 👉 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
+ - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 💣 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
 
 ---
 

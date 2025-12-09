@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Square product chief Willem Avé on Block&#39;s restructuring in 2024, AI automation, investing in crypto, the Lightning Network, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251209/p5#a251209p5)
  - [You can put the best part of Fairphone&amp;#8217;s new headphones into the older model](https://www.theverge.com/news/839481/fairphone-xl-wireless-headphones-repairable-modular)
  - [An overview of AI in 2025, including arguments for and against above-trend model capabilities growth, the state of evals, and the safety of reasoning models &lpar;Gavin Leech/LessWrong&rpar;](http://www.techmeme.com/251209/p4#a251209p4)
  - [AI browsers, still far from making legacy browsers obsolete, are forcing web developers to rethink whether they are designing websites for humans or for robots &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251209/p3#a251209p3)
- - [Apple Watch Ultra 2 plunges to $549 on Amazon, best price ever](https://appleinsider.com/articles/25/12/09/apple-watch-ultra-2-plunges-to-549-on-amazon-best-price-ever?utm_source=rss)
- - [The future of AI development could resemble the rivalry between iOS and Android, with China&#39;s AI approach closer to Google&#39;s open and customizable Android OS &lpar;Kai-Fu Lee/Financial Times&rpar;](http://www.techmeme.com/251209/p2#a251209p2)<!-- TECH:END -->
+ - [Apple Watch Ultra 2 plunges to $549 on Amazon, best price ever](https://appleinsider.com/articles/25/12/09/apple-watch-ultra-2-plunges-to-549-on-amazon-best-price-ever?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

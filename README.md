@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 😝 [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)
+ - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 😝 [It&#39;s a trap](http://9gag.com/gag/axyenOD)
  - 💣 [Seriously though?](http://9gag.com/gag/amoOdDV)
- - 😝 [Tapir at its best](http://9gag.com/gag/ajP33Kw)
- - 👉 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
+ - 😝 [She is lying out of her ASS right now](http://9gag.com/gag/avyBBqd)
+ - 👉 [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)<!-- MEMES:END -->
 
 ---
 

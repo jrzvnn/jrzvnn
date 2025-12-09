@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
  - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 💣 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
+ - 😝 [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
+ - 💣 [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
 
 ---
 

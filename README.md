@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Trump allowed Nvidia to sell H200s to China after concluding the move carried a lower security risk as Huawei offers systems with comparable performance &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p43#a251209p43)
  - [Report suggests foldables might surge in 2026 as Apple joins the race](https://appleinsider.com/articles/25/12/09/report-suggests-foldables-might-surge-in-2026-as-apple-joins-the-race?utm_source=rss)
  - [Australia&#39;s ban on social media for users aged under 16 comes into effect; platforms that do not comply risk fines of up to AU$49.5M &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/251209/p42#a251209p42)
  - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)
- - [Sources: SpaceX plans an IPO in mid-to-late 2026, seeking to raise far above $30B and targeting a ~$1.5T valuation, potentially making it the largest IPO ever &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p41#a251209p41)
- - [Blowout deals: 15-inch MacBook Air 512GB slashed to $999 &lpar;save up to $600&rpar;](https://appleinsider.com/articles/25/12/09/blowout-deals-15-inch-macbook-air-512gb-slashed-to-999-save-up-to-600?utm_source=rss)<!-- TECH:END -->
+ - [Sources: SpaceX plans an IPO in mid-to-late 2026, seeking to raise far above $30B and targeting a ~$1.5T valuation, potentially making it the largest IPO ever &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p41#a251209p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

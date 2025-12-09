@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google adds new pinch and wrist gestures to the Pixel Watch 4 and says Watch 3 and Watch 4 will now use an on-device Gemma-based AI model for Smart Replies &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251209/p48#a251209p48)
+ - [Intel Takes Major Step in Plan to Acquire Chip Startup SambaNova](https://www.wired.com/story/intel-signs-term-sheet-sambanova-ai/)
+ - [Both sides of the aisle hate the AI moratorium](https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans)
  - [Somehow, this AI-generated McDonald&amp;#8217;s ad about hating Christmas was a flop](https://www.theverge.com/news/841220/mcdonalds-ai-generated-christmas-ad)
- - [Report: SpaceX is expected to make around $15B in revenue in 2025, increasing to between $22B and $24B in 2026, with the majority coming from Starlink &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251209/p47#a251209p47)
- - [Google is powering a new US military AI platform](https://www.theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil)
- - [Former Apple COO Jeff Williams nominated for Disney&#39;s board of directors](https://appleinsider.com/articles/25/12/09/former-apple-coo-jeff-williams-nominated-for-disneys-board-of-directors?utm_source=rss)
- - [The US Navy and Palantir announce ShipOS, saying the software will speed up shipbuilding and improve supply chain visibility; the deal is valued at $448M &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/251209/p46#a251209p46)<!-- TECH:END -->
+ - [Report: SpaceX is expected to make around $15B in revenue in 2025, increasing to between $22B and $24B in 2026, with the majority coming from Starlink &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251209/p47#a251209p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

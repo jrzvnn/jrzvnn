@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SpaceX plans an IPO in mid-to-late 2026, seeking to raise far above $30B and targeting a ~$1.5T valuation, potentially making it the largest IPO ever &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p41#a251209p41)
  - [Blowout deals: 15-inch MacBook Air 512GB slashed to $999 &lpar;save up to $600&rpar;](https://appleinsider.com/articles/25/12/09/blowout-deals-15-inch-macbook-air-512gb-slashed-to-999-save-up-to-600?utm_source=rss)
  - [Hamish McKenzie says Substack is starting to test native sponsorships with some writers but won&#39;t take a cut for now &lpar;Emily Sundberg/Feed Me&rpar;](http://www.techmeme.com/251209/p40#a251209p40)
  - [Pebble&#39;s simple smart ring lets you make voice notes from your finger](https://appleinsider.com/articles/25/12/09/pebbles-simple-smart-ring-lets-you-make-voice-notes-from-your-finger?utm_source=rss)
- - [Wake Up Dead Man digs deep for a darker, more powerful Knives Out](https://www.theverge.com/entertainment/840977/wake-up-dead-man-review-netflix-knives-out)
- - [The 51 Best Shows on Hulu, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
+ - [Wake Up Dead Man digs deep for a darker, more powerful Knives Out](https://www.theverge.com/entertainment/840977/wake-up-dead-man-review-netflix-knives-out)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

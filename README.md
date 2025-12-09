@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOD says it has chosen Google&#39;s new GenAI.mil platform to help the US military quickly analyze video and imagery, as part of a $200M contract from July &lpar;Jen Judson/Bloomberg&rpar;](http://www.techmeme.com/251209/p27#a251209p27)
  - [Amazon takes $150 off M3 iPad Air with bonus coupon savings](https://appleinsider.com/articles/25/12/09/amazon-takes-150-off-m3-ipad-air-with-bonus-coupon-savings?utm_source=rss)
  - [The Verge’s 2025 holiday gift guide for tinkerers](https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025)
  - [YouTube creators can now test multiple video titles](https://www.theverge.com/news/840789/youtube-video-title-a-b-testing-feature)
- - [Some of Ikea’s Matter-compatible smart devices are now available in the US](https://www.theverge.com/news/840727/ikea-smart-home-matter-thread-sensors-now-available)
- - [Some Biden-era officials say access to Nvidia chips could help China&#39;s AI companies buy time while China&#39;s chip makers improve their chips&#39; performance &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/251209/p26#a251209p26)<!-- TECH:END -->
+ - [Some of Ikea’s Matter-compatible smart devices are now available in the US](https://www.theverge.com/news/840727/ikea-smart-home-matter-thread-sensors-now-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

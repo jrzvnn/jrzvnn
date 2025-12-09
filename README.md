@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dutch media: ASML has sold parts to a subsidiary of a Chinese army supplier, per Chinese import and export data; ASML says it can&#39;t confirm the report &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/251209/p12#a251209p12)
+ - [San Francisco Mayor Daniel Lurie: ‘We Are a City on the Rise’](https://www.wired.com/story/the-big-interview-podcast-san-francisco-mayor-daniel-lurie/)
+ - [Trump says Nvidia can sell more powerful AI chips to China](https://www.theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us)
  - [Sources: Beijing is set to limit access to Nvidia&#39;s H200 chips despite President Trump allowing their export to China, in its push for chip self-sufficiency &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/251209/p11#a251209p11)
- - [South Korean media: police raided Coupang&#39;s HQ, searching for evidence related to a historic data breach that compromised 30M+ people&#39;s personal information &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/251209/p10#a251209p10)
- - [Can Bike Riders and Self-Driving Cars Be Friends?](https://www.wired.com/story/can-bike-riders-and-self-driving-cars-be-friends/)
- - [RAM is ruining everything](https://www.theverge.com/report/839506/ram-shortage-price-increases-pc-gaming-smartphones)
- - [As Australia prepares to enact the world&#39;s first under-16 social media ban on December 10, a look at the implications, reaction from parents and teens, and more &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/251209/p9#a251209p9)<!-- TECH:END -->
+ - [South Korean media: police raided Coupang&#39;s HQ, searching for evidence related to a historic data breach that compromised 30M+ people&#39;s personal information &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/251209/p10#a251209p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

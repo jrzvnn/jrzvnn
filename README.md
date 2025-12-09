@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Supply chain report claims Apple is preparing for strong iPhone Fold demand](https://appleinsider.com/articles/25/12/09/supply-chain-report-claims-apple-is-preparing-for-strong-iphone-fold-demand?utm_source=rss)
+ - [Duve, which offers AI-powered guest management tools for hotels, raised a $60M Series B led by Susquehanna Growth, bringing its total funding to $85M &lpar;Adriana Lee/Skift&rpar;](http://www.techmeme.com/251209/p38#a251209p38)
  - [I’m obsessed with Redfin’s AI search](https://www.theverge.com/ai-artificial-intelligence/840190/redfin-ai-search-chatbot)
  - [Boom Aerospace, which is building a supersonic plane, announces Superpower, a 42MW natural gas turbine using Boom&#39;s supersonic engine, to power AI data centers &lpar;Boom&rpar;](http://www.techmeme.com/251209/p37#a251209p37)
- - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Nothing&amp;#8217;s community-designed Phone 3A adds some color and matching dice](https://www.theverge.com/news/841019/nothing-phone-3a-community-edition)<!-- TECH:END -->
+ - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

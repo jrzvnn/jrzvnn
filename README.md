@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [AI browsers, still far from making legacy browsers obsolete, are forcing web developers to rethink whether they are designing websites for humans or for robots &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251209/p3#a251209p3)
  - [Apple Watch Ultra 2 plunges to $549 on Amazon, best price ever](https://appleinsider.com/articles/25/12/09/apple-watch-ultra-2-plunges-to-549-on-amazon-best-price-ever?utm_source=rss)
  - [The future of AI development could resemble the rivalry between iOS and Android, with China&#39;s AI approach closer to Google&#39;s open and customizable Android OS &lpar;Kai-Fu Lee/Financial Times&rpar;](http://www.techmeme.com/251209/p2#a251209p2)
- - [Reddit is rolling out new safety features globally for all users under 18, ahead of Australia&#39;s social media ban for under-16s taking effect on December 10 &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/251209/p1#a251209p1)<!-- TECH:END -->
+ - [50% Off Chewy Promo Code | December 2025](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

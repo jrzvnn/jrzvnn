@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing&amp;#8217;s community-designed Phone 3A adds some color and matching dice](https://www.theverge.com/news/841019/nothing-phone-3a-community-edition)
- - [Denise Dresser, Slack CEO since 2023, is stepping down to join OpenAI as the company&#39;s chief revenue officer &lpar;Wired&rpar;](http://www.techmeme.com/251209/p36#a251209p36)
- - [Facebook&amp;#8217;s redesign is making it more like Instagram](https://www.theverge.com/news/841036/facebook-redesign-instagram-photos-feed-algorithm)
- - [OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/)
- - [Australia boots kids under 16 off social media: how platforms are responding](https://www.theverge.com/report/840822/australia-social-media-ban-under-16-response)<!-- TECH:END -->
+ - [I’m obsessed with Redfin’s AI search](https://www.theverge.com/ai-artificial-intelligence/840190/redfin-ai-search-chatbot)
+ - [Boom Aerospace, which is building a supersonic plane, announces Superpower, a 42MW natural gas turbine using Boom&#39;s supersonic engine, to power AI data centers &lpar;Boom&rpar;](http://www.techmeme.com/251209/p37#a251209p37)
+ - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Nothing&amp;#8217;s community-designed Phone 3A adds some color and matching dice](https://www.theverge.com/news/841019/nothing-phone-3a-community-edition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

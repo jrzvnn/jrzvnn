@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google brings back Black Friday prices for earbuds, phones, and more](https://www.theverge.com/gadgets/841072/google-pixel-9a-pixel-watch-4-holiday-gifts-deal-sale)
- - [Supply chain report claims Apple is preparing for strong iPhone Fold demand](https://appleinsider.com/articles/25/12/09/supply-chain-report-claims-apple-is-preparing-for-strong-iphone-fold-demand?utm_source=rss)
- - [Duve, which offers AI-powered guest management tools for hotels, raised a $60M Series B led by Susquehanna Growth, bringing its total funding to $85M &lpar;Adriana Lee/Skift&rpar;](http://www.techmeme.com/251209/p38#a251209p38)
- - [I’m obsessed with Redfin’s AI search](https://www.theverge.com/ai-artificial-intelligence/840190/redfin-ai-search-chatbot)
- - [Boom Aerospace, which is building a supersonic plane, announces Superpower, a 42MW natural gas turbine using Boom&#39;s supersonic engine, to power AI data centers &lpar;Boom&rpar;](http://www.techmeme.com/251209/p37#a251209p37)<!-- TECH:END -->
+ - [Wake Up Dead Man digs deep for a darker, more powerful Knives Out](https://www.theverge.com/entertainment/840977/wake-up-dead-man-review-netflix-knives-out)
+ - [The 51 Best Shows on Hulu, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [The AirPods Pro 3 are back to their lowest price ahead of the holidays](https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale)
+ - [Instagram appears to be generating often misleading SEO-style headlines and long descriptions for users&#39; Instagram posts, appearing in Google Search results &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251209/p39#a251209p39)
+ - [Google brings back Black Friday prices for earbuds, phones, and more](https://www.theverge.com/gadgets/841072/google-pixel-9a-pixel-watch-4-holiday-gifts-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

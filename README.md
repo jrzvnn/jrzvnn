@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a trap](http://9gag.com/gag/axyenOD)
+ - 😝 [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)
  - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
- - 💣 [Seriously though?](http://9gag.com/gag/amoOdDV)
- - 😝 [Some nostalgic energy for you. MASK](http://9gag.com/gag/apRnn3E)
- - 👉 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)<!-- MEMES:END -->
+ - 💣 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)
+ - 😝 [Seriously though?](http://9gag.com/gag/amoOdDV)
+ - 👉 [Too much Action Films](http://9gag.com/gag/aE0jNLe)<!-- MEMES:END -->
 
 ---
 

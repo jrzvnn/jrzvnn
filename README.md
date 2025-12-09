@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US lawmakers remove provisions in the National Defense Authorization Act for 2026 that would have ensured military members&#39; right to repair their own equipment &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/251208/p43#a251208p43)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Google announces system &quot;autospatialization&quot; for Android XR, an AI feature to turn 2D content, including games streamed from a PC, into 3D, arriving in 2026 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/251208/p42#a251208p42)
- - [iPhone owners in Japan just got Messages via Satellite](https://appleinsider.com/articles/25/12/08/iphone-owners-in-japan-just-got-messages-via-satellite?utm_source=rss)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
+ - [Sources: after the Netflix-WBD deal was announced, Larry Ellison called President Trump about how the transaction would hurt competition &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251208/p48#a251208p48)
+ - [The US FDA qualifies the first AI drug development tool, AIM-NASH, to help doctors assess a severe form of fatty liver disease in drug trials &lpar;Sahil Pandey/Reuters&rpar;](http://www.techmeme.com/251208/p47#a251208p47)
+ - [David Sacks says AI preemption won&#39;t apply to state laws on child safety, communities won&#39;t be forced to host data centers they don&#39;t want, and more &lpar;David Sacks/@davidsacks&rpar;](http://www.techmeme.com/251208/p46#a251208p46)
+ - [President Trump says the &quot;same approach&quot; used to let Nvidia ship H200 chips to China will also apply to &quot;AMD, Intel, and other GREAT American Companies&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251208/p45#a251208p45)
+ - [Filing: HashKey, Hong Kong&#39;s largest licensed crypto exchange, is aiming to raise up to ~$215M in its IPO in the city &lpar;Kumar Tanishk/Reuters&rpar;](http://www.techmeme.com/251208/p44#a251208p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

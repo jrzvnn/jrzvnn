@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Somehow, this AI-generated McDonald&amp;#8217;s ad about hating Christmas was a flop](https://www.theverge.com/news/841220/mcdonalds-ai-generated-christmas-ad)
+ - [Report: SpaceX is expected to make around $15B in revenue in 2025, increasing to between $22B and $24B in 2026, with the majority coming from Starlink &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251209/p47#a251209p47)
  - [Google is powering a new US military AI platform](https://www.theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil)
  - [Former Apple COO Jeff Williams nominated for Disney&#39;s board of directors](https://appleinsider.com/articles/25/12/09/former-apple-coo-jeff-williams-nominated-for-disneys-board-of-directors?utm_source=rss)
- - [The US Navy and Palantir announce ShipOS, saying the software will speed up shipbuilding and improve supply chain visibility; the deal is valued at $448M &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/251209/p46#a251209p46)
- - [The Best Down Comforter Deals for Winter Nights &lpar;2025&rpar;](https://www.wired.com/story/down-comforter-deals-december-2025/)
- - [Justin McLeod, founder and CEO of Hinge, steps down to launch Overtone, an &quot;AI-driven&quot; dating service backed by Match; Hinge promotes CMO Jackie Jantos to CEO &lpar;Yasmin Gagne/Fast Company&rpar;](http://www.techmeme.com/251209/p45#a251209p45)<!-- TECH:END -->
+ - [The US Navy and Palantir announce ShipOS, saying the software will speed up shipbuilding and improve supply chain visibility; the deal is valued at $448M &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/251209/p46#a251209p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

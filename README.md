@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)
- - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 💣 [Anyone know? I\u2019m worried about her](http://9gag.com/gag/aQzDBv2)
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
+ - 😝 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
+ - 😝 [Looks expensive](http://9gag.com/gag/aAyLqDR)
+ - 💣 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 😝 [When you are honest on job interview](http://9gag.com/gag/aVv91oP)
+ - 👉 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
 
 ---
 

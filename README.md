@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOD says it has chosen Google&#39;s new GenAI.mil platform to help the US military quickly analyze video and imagery, as part of a $200M contract from July &lpar;Jen Judson/Bloomberg&rpar;](http://www.techmeme.com/251209/p27#a251209p27)
- - [Amazon takes $150 off M3 iPad Air with bonus coupon savings](https://appleinsider.com/articles/25/12/09/amazon-takes-150-off-m3-ipad-air-with-bonus-coupon-savings?utm_source=rss)
- - [The Verge’s 2025 holiday gift guide for tinkerers](https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025)
- - [YouTube creators can now test multiple video titles](https://www.theverge.com/news/840789/youtube-video-title-a-b-testing-feature)
- - [Some of Ikea’s Matter-compatible smart devices are now available in the US](https://www.theverge.com/news/840727/ikea-smart-home-matter-thread-sensors-now-available)<!-- TECH:END -->
+ - [Spanish police arrest a suspected 19-year-old hacker in Barcelona over allegedly stealing and attempting to sell 64M records from breaches at nine companies &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251209/p31#a251209p31)
+ - [Anthropic, OpenAI, Block, Google, AWS, Microsoft, and others launch the Agentic AI Foundation to build open-source agent standards under the Linux Foundation &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251209/p30#a251209p30)
+ - [Circle launches USDCx, a privacy-focused version of its USDC stablecoin on the Aleo blockchain, to give users &quot;banking-level privacy&quot; with a &quot;compliance record&quot; &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251209/p29#a251209p29)
+ - [OpenAI, Anthropic, and Block Are Teaming Up to Make AI Agents Play Nice](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/)
+ - [iFixit app returns to App Store with AI guidance &amp; unnecessary battery warnings](https://appleinsider.com/articles/25/12/09/ifixit-app-returns-to-the-app-store-with-ai-guidance-and-battery-warnings?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 😝 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
- - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 👉 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)<!-- MEMES:END -->
+ - 😝 [Just like that spool of wire, woman wouldn&#39;t get it](http://9gag.com/gag/avyBBeb)
+ - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 💣 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
+ - 😝 [I just find it amazing how we went from stone age humans to be able to do this with sand](http://9gag.com/gag/a87vQb6)
+ - 👉 [Thank you \u201cDie in fresh fat fu\u00a9\ufe0fk\u201d Your 360 days journey made me start. I managed to reach my goal two days before my 40th birthday](http://9gag.com/gag/a6Ze4q8)<!-- MEMES:END -->
 
 ---
 

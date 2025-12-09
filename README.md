@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)
  - 😝 [No more bald 9gaggers!](http://9gag.com/gag/aryD9g0)
- - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 👉 [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)<!-- MEMES:END -->
+ - 💣 [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)
+ - 😝 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
+ - 👉 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Vergecast 2025 year in review](https://www.theverge.com/podcast/840661/tech-stories-2025-ai-vergecast)
- - [Source: Anthropic, OpenAI, Google, Microsoft, and more are set to unveil the Agentic AI Foundation to build open-source AI agent standards as soon as this week &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/251209/p18#a251209p18)
- - [What Peloton Instructor Jess King Needs to Survive the Day](https://www.wired.com/story/jess-king-wellness-starter-pack/)
- - [The best thing I bought this year: the Remarkable Paper Pro](https://www.theverge.com/gadgets/837877/remarkable-paper-pro-type-folio-marker-plus-favorite)
- - [Fal, which hosts generative AI models for developers, raised a $140M Series D led by Sequoia, a source says at a $4.5B valuation, up from $1.5B in July &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/251209/p17#a251209p17)<!-- TECH:END -->
+ - [iFixit app returns to the App Store with AI guidance and battery warnings](https://appleinsider.com/articles/25/12/09/ifixit-app-returns-to-the-app-store-with-ai-guidance-and-battery-warnings?utm_source=rss)
+ - [Spotify rolls out music videos to Premium subscribers in the US and Canada, following a beta launch in nearly 100 markets last year &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251209/p20#a251209p20)
+ - [Source: ChatGPT nears 900M weekly active users; Sensor Tower: Gemini MAUs grew ~30% to 346M between August and November while ChatGPT&#39;s rose ~5% to 810M &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251209/p19#a251209p19)
+ - [Spotify’s music videos feature arrives in the US and Canada](https://www.theverge.com/news/840308/spotify-music-videos-beta-us-canada)
+ - [Pebble Index: Everything You Need to Know About the $75 Smart Ring](https://www.wired.com/story/pebble-index-ring/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

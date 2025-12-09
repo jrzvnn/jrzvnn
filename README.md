@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An overview of AI in 2025, including arguments for and against above-trend model capabilities growth, the state of evals, and the safety of reasoning models &lpar;Gavin Leech/LessWrong&rpar;](http://www.techmeme.com/251209/p4#a251209p4)
  - [AI browsers, still far from making legacy browsers obsolete, are forcing web developers to rethink whether they are designing websites for humans or for robots &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251209/p3#a251209p3)
  - [Apple Watch Ultra 2 plunges to $549 on Amazon, best price ever](https://appleinsider.com/articles/25/12/09/apple-watch-ultra-2-plunges-to-549-on-amazon-best-price-ever?utm_source=rss)
  - [The future of AI development could resemble the rivalry between iOS and Android, with China&#39;s AI approach closer to Google&#39;s open and customizable Android OS &lpar;Kai-Fu Lee/Financial Times&rpar;](http://www.techmeme.com/251209/p2#a251209p2)
- - [Reddit is rolling out new safety features globally for all users under 18, ahead of Australia&#39;s social media ban for under-16s taking effect on December 10 &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/251209/p1#a251209p1)
- - [Sources: CEO Sam Altman said OpenAI plans to end &quot;code red&quot; after releasing a model in January 2026 with improved image generation, speed, and personality &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251208/p53#a251208p53)<!-- TECH:END -->
+ - [Reddit is rolling out new safety features globally for all users under 18, ahead of Australia&#39;s social media ban for under-16s taking effect on December 10 &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/251209/p1#a251209p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
  - 😝 [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)
- - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
- - 💣 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)
- - 😝 [Seriously though?](http://9gag.com/gag/amoOdDV)
+ - 💣 [Seriously though?](http://9gag.com/gag/amoOdDV)
+ - 😝 [Tapir at its best](http://9gag.com/gag/ajP33Kw)
  - 👉 [Too much Action Films](http://9gag.com/gag/aE0jNLe)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
- - 😝 [Beyond the Aquila Rift. One of the finest examples of how a science fiction should be told..](http://9gag.com/gag/azxvDMx)
- - 💣 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
- - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 👉 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)<!-- MEMES:END -->
+ - 😝 [Money\u2019s tight](http://9gag.com/gag/aLnOVDv)
+ - 😝 [Looks expensive](http://9gag.com/gag/aAyLqDR)
+ - 💣 [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 👉 [When you are honest on job interview](http://9gag.com/gag/aVv91oP)<!-- MEMES:END -->
 
 ---
 

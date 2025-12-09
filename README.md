@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 😝 [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
- - 💣 [How i meet your mother](http://9gag.com/gag/adBW44j)
- - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 💣 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
  - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
 
 ---

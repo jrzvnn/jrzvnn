@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The future of AI development could resemble the rivalry between iOS and Android, with China&#39;s AI approach closer to Google&#39;s open and customizable Android OS &lpar;Kai-Fu Lee/Financial Times&rpar;](http://www.techmeme.com/251209/p2#a251209p2)
  - [Reddit is rolling out new safety features globally for all users under 18, ahead of Australia&#39;s social media ban for under-16s taking effect on December 10 &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/251209/p1#a251209p1)
  - [Sources: CEO Sam Altman said OpenAI plans to end &quot;code red&quot; after releasing a model in January 2026 with improved image generation, speed, and personality &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251208/p53#a251208p53)
  - [Scientists at NeurIPS, which drew a record 26,000 attendees this year, say key questions about how AI models work and how to measure them remain unresolved &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/251208/p52#a251208p52)
- - [Italy-based humanoid robotics startup Generative Bionics raised €70M led by CDP Venture Capital, with participation from Tether, AMD Ventures, and others &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/251208/p51#a251208p51)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-9/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Italy-based humanoid robotics startup Generative Bionics raised €70M led by CDP Venture Capital, with participation from Tether, AMD Ventures, and others &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/251208/p51#a251208p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

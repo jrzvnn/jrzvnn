@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old meme of the year. Shooting stars](http://9gag.com/gag/aKGXX6Q)
- - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 💣 [Oi mate](http://9gag.com/gag/aKGXX8b)
- - 😝 [4th dimension explained](http://9gag.com/gag/aE0jj2G)
- - 👉 [I hand-make it my self every day, is that a quality wank than ?](http://9gag.com/gag/apRnnEM)<!-- MEMES:END -->
+ - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 💣 [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
+ - 😝 [Bamboozled](http://9gag.com/gag/a0eDDAB)
+ - 👉 [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)<!-- MEMES:END -->
 
 ---
 

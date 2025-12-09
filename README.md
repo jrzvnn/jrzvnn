@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Money\u2019s tight](http://9gag.com/gag/aLnOVDv)
  - 😝 [Looks expensive](http://9gag.com/gag/aAyLqDR)
- - 💣 [How i meet your mother](http://9gag.com/gag/adBW44j)
- - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 💣 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 😝 [I hand-make it my self every day, is that a quality wank than ?](http://9gag.com/gag/apRnnEM)
  - 👉 [When you are honest on job interview](http://9gag.com/gag/aVv91oP)<!-- MEMES:END -->
 
 ---

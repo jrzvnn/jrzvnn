@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos launches new video editing tools, including specialized templates with preset music and text overlays, as well as a redesigned video editor &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251209/p34#a251209p34)
- - [The Best Karaoke Speakers from Small and Portable to Massive](https://www.wired.com/gallery/best-karaoke-gear/)
- - [Google Photos&amp;#8217; new video editor makes it more like Capcut](https://www.theverge.com/news/840690/google-photos-video-editing-highlight-reel-updates)
- - [Apple Arcade&#39;s &#39;Sneaky Sasquatch&#39; hides in Apple Stores for holiday fun](https://appleinsider.com/articles/25/12/09/apple-arcades-sneaky-sasquatch-hides-in-apple-stores-for-holiday-fun?utm_source=rss)
- - [Sources: OpenAI has become more guarded about publishing research on AI&#39;s economic harms, prompting at least two economic research staffers to leave &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251209/p33#a251209p33)<!-- TECH:END -->
+ - [Denise Dresser, Slack CEO since 2023, is stepping down to join OpenAI as the company&#39;s chief revenue officer &lpar;Wired&rpar;](http://www.techmeme.com/251209/p36#a251209p36)
+ - [Facebook&amp;#8217;s redesign is making it more like Instagram](https://www.theverge.com/news/841036/facebook-redesign-instagram-photos-feed-algorithm)
+ - [OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/)
+ - [Australia boots kids under 16 off social media: how platforms are responding](https://www.theverge.com/report/840822/australia-social-media-ban-under-16-response)
+ - [RAM price hikes: the latest on the global memory shortage](https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

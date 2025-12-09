@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
- - 😝 [True](http://9gag.com/gag/a2vAAWp)
- - 💣 [Old meme of the year. Shooting stars](http://9gag.com/gag/aKGXX6Q)
- - 😝 [Thank you \u201cDie in fresh fat fu\u00a9\ufe0fk\u201d Your 360 days journey made me start. I managed to reach my goal two days before my 40th birthday](http://9gag.com/gag/a6Ze4q8)
- - 👉 [Spitting facts every day](http://9gag.com/gag/aRB8N57)<!-- MEMES:END -->
+ - 😝 [It&#39;s a trap](http://9gag.com/gag/axyenOD)
+ - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 💣 [Seriously though?](http://9gag.com/gag/amoOdDV)
+ - 😝 [Some nostalgic energy for you. MASK](http://9gag.com/gag/apRnn3E)
+ - 👉 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lmao](http://9gag.com/gag/a9y44xL)
  - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
  - 😝 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
  - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
 

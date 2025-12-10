@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 😝 [He left his home, the mosque, and even the sidewalk, choosing instead to pray in the middle of the street! What would you call this?](http://9gag.com/gag/avyB4WO)
+ - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
  - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
+ - 😝 [Darth Santa](http://9gag.com/gag/aGyrvV0)
+ - 👉 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
 
 ---
 

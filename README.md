@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coupang CEO Park Dae-jun resigns after the company incurred South Korea&#39;s largest-ever data breach, in which the personal data of 30M+ people was compromised &lpar;Mark Anderson/Bloomberg&rpar;](http://www.techmeme.com/251210/p4#a251210p4)
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in December](https://www.wired.com/story/att-promo-code/)
- - [Hulu Promo Codes &amp; Discounts: 20% Off December](https://www.wired.com/story/hulu-promo-code/)
- - [Sources: Nvidia has privately demonstrated its unreleased location verification tech in recent months, which could show the country its chips are operating in &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p3#a251210p3)
- - [Microsoft Research, Providence, and UW develop the GigaTIME AI model, aiming to perform tumor analysis in a fraction of the time and cost of existing methods &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/251210/p2#a251210p2)<!-- TECH:END -->
+ - [Ofcom: UK porn traffic has now settled at a &quot;lower level&quot; since the start of age checks; VPN users rose to a peak of 1.4M in mid-August and now stand at 900K &lpar;The Guardian&rpar;](http://www.techmeme.com/251210/p5#a251210p5)
+ - [Surfshark Promo Codes: 87% Off | December 2025](https://www.wired.com/story/surfshark-coupon/)
+ - [NordVPN Coupons and Deals: 77% Off in December 2025](https://www.wired.com/story/nordvpn-coupon/)
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
+ - [Coupang CEO Park Dae-jun resigns after the company incurred South Korea&#39;s largest-ever data breach, in which the personal data of 30M+ people was compromised &lpar;Mark Anderson/Bloomberg&rpar;](http://www.techmeme.com/251210/p4#a251210p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

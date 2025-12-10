@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fifth Apple Store in India to open on December 11](https://appleinsider.com/articles/25/12/10/fifth-apple-store-in-india-to-open-on-december-11?utm_source=rss)
- - [Adobe launches free ChatGPT-integrated apps for Photoshop, Acrobat, and Express on desktop, the web, and iOS, after OpenAI added app integrations in October &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251210/p29#a251210p29)
- - [Best Base Layers &lpar;2025&rpar;: Ibex, Smartwool, and More](https://www.wired.com/gallery/best-base-layers/)
- - [ChatGPT can now use Adobe apps to edit your photos and PDFs for free](https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express)
- - [Sources: Lip-Bu Tan&#39;s dual roles as Intel CEO and tech investor cause consternation in the industry and at Intel; four ex-Intel execs say it caused them to exit &lpar;New York Times&rpar;](http://www.techmeme.com/251210/p28#a251210p28)<!-- TECH:END -->
+ - [Supply chain report claims Apple is preparing for strong iPhone Fold demand [u]](https://appleinsider.com/articles/25/12/09/supply-chain-report-claims-apple-is-preparing-for-strong-iphone-fold-demand?utm_source=rss)
+ - [Google launches a cheaper AI Plus plan in India, costing ~$2.21 per month for the first six months and ~$4.44 thereafter, to compete with ChatGPT Go &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251210/p32#a251210p32)
+ - [Instagram launches Your Algorithm, which shows users an AI analysis of their activity to let them customize the topics shaping their Reels recommendations &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/251210/p31#a251210p31)
+ - [How US startups like Oakland-based Brimstone are racing to develop sources of raw materials that the US needs for tech, an industry China has long dominated &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/251210/p30#a251210p30)
+ - [Instagram Will Start Letting You Pick What Shows Up in Your Reels](https://www.wired.com/story/instagram-lets-you-pick-what-shows-up-in-reels/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

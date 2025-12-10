@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Geothermal energy company Fervo, which aims to power data centers and more, raised $462M from Google and others, taking its total funding to $1.5B since 2017 &lpar;Benoît Morenne/Wall Street Journal&rpar;](http://www.techmeme.com/251210/p39#a251210p39)
+ - [A Complete Guide to the Jeffrey Epstein Document Dumps](https://www.wired.com/story/a-complete-guide-to-the-jeffrey-epstein-document-dumps/)
  - [Starcloud, which launched a satellite with a Nvidia H100 chip in November, says the satellite is running and querying responses from Google&#39;s Gemma &lpar;Pia Singh/CNBC&rpar;](http://www.techmeme.com/251210/p38#a251210p38)
  - [Apple&#39;s removal of ICEBlock sees repeated protests at Portland Pioneer Place store](https://appleinsider.com/articles/25/12/10/apples-removal-of-iceblock-sees-repeated-protests-at-portland-pioneer-place-store?utm_source=rss)
- - [In a series of lawsuits, Intel, AMD, Texas Instruments, and Berkshire were accused of failing to keep their tech out of Russian-made weapons used in Ukraine &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p37#a251210p37)
- - [OpenAI hires Slack’s CEO as its chief revenue officer](https://www.theverge.com/news/841540/openai-slack-ceo-denise-dresser-chief-revenue-officer)
- - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2025&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)<!-- TECH:END -->
+ - [In a series of lawsuits, Intel, AMD, Texas Instruments, and Berkshire were accused of failing to keep their tech out of Russian-made weapons used in Ukraine &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p37#a251210p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

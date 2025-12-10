@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Operation Bluebird wants to reclaim Twitter’s ‘abandoned’ trademarks for a new social network](https://www.theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [You Can Stream Some Of The Best A24 Movies For Free](https://www.cnet.com/tech/services-and-software/7-a24-movies-you-can-enjoy-without-spending-a-dime/#ftag=CAD590a51e)
  - [Adobe reports Q4 revenue up 10% YoY to $6.19B, Digital Media revenue up 11% to $4.62B, and forecasts FY 2026 revenue above estimates &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/251210/p56#a251210p56)
- - [Minor outages hit Apple Music, Apple TV, and Game Center](https://appleinsider.com/articles/25/12/10/minor-outages-hit-apple-music-apple-tv-and-game-center?utm_source=rss)
- - [Oracle reports Q2 revenue up 14% YoY to $16.06B vs. $16.21B est., remaining performance obligations up 438% to $523B vs. $502B est.; ORCL drops 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251210/p55#a251210p55)<!-- TECH:END -->
+ - [McDonalds and Coca-Cola Made AI Slop Holiday Commercials, and I&#39;m Not Lovin&#39; It](https://www.cnet.com/tech/services-and-software/terrible-ai-holiday-commercials-commentary/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

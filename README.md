@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 27 best gifts for travelers who are always on the move](https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025)
+ - [Dropbox says its CFO Timothy Regan will step down after five years in the role and will be succeeded by Avalara president Ross Tennenbaum; DBX drops 5%+ &lpar;Anhata Rooprai/Reuters&rpar;](http://www.techmeme.com/251210/p44#a251210p44)
+ - [TikTok launches a podcast series called TikTok in the Mix, featuring four 30-minute episodes streamed live on TikTok; the first episode stars Demi Lovato &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/251210/p43#a251210p43)
  - [Android users can now share a live video on 911 calls](https://www.theverge.com/news/841503/android-emergency-live-video)
- - [Google says it will link to more sources in AI Mode](https://www.theverge.com/news/841603/google-ai-mode-source-links-web-guide)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Amazon plans to let authors offer their DRM-free ebooks in the EPUB and PDF formats through Kindle Direct Publishing, starting January 20, 2026 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251210/p42#a251210p42)
- - [Calibri is too woke for the State Department](https://www.theverge.com/news/841664/calibri-is-too-woke-for-the-state-department)<!-- TECH:END -->
+ - [2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’](https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

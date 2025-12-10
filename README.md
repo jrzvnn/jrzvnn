@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [American Film Institute honors Apple TV hits including &#39;Pluribus&#39; and &#39;Severance&#39;](https://appleinsider.com/articles/25/12/10/american-film-institute-honors-apple-tv-hits-including-pluribus-and-severance?utm_source=rss)
+ - [Nick Clegg joins London-based VC firm Hiro Capital as a general partner, and Yann LeCun joins the firm as an adviser; sources: Hiro looks to raise a €500M+ fund &lpar;Financial Times&rpar;](http://www.techmeme.com/251210/p46#a251210p46)
  - [Holiday Mac mini price war slashes desktops to as low as $479](https://appleinsider.com/articles/25/12/10/holiday-mac-mini-price-war-slashes-desktops-to-as-low-as-479?utm_source=rss)
  - [Google unveils Emergency Live Video, similar to iOS&#39; Emergency SOS Live Video, letting US users on Android 8 or later to share live video with 911 responders &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251210/p45#a251210p45)
- - [The 27 best gifts for travelers who are always on the move](https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025)
- - [Dropbox says its CFO Timothy Regan will step down after five years in the role and will be succeeded by Avalara president Ross Tennenbaum; DBX drops 5%+ &lpar;Anhata Rooprai/Reuters&rpar;](http://www.techmeme.com/251210/p44#a251210p44)
- - [TikTok launches a podcast series called TikTok in the Mix, featuring four 30-minute episodes streamed live on TikTok; the first episode stars Demi Lovato &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/251210/p43#a251210p43)<!-- TECH:END -->
+ - [The 27 best gifts for travelers who are always on the move](https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

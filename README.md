@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents and former US government officials detail ICE&#39;s digital surveillance capabilities, amid a drive to deport 1M people in President Trump&#39;s first year &lpar;Peter Andringa/Financial Times&rpar;](http://www.techmeme.com/251210/p15#a251210p15)
  - [An interview with Tencent Games Global CEO Michelle Liu, whose hands-on dealmaking approach generated $10B in international gaming revenue over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p14#a251210p14)
+ - [The 5 Healthiest Air Fryer Foods Made With Less Oil, According to Registered Dietitians](https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-according-registered-dietitians/#ftag=CAD590a51e)
  - [Cambridge, UK-based Nu Quantum, which builds networking infrastructure to link and scale quantum computers, raised a $60M Series A led by National Grid Partners &lpar;Isabella Ward/Bloomberg&rpar;](http://www.techmeme.com/251210/p13#a251210p13)
- - [Kids and Teen Influencers in Australia Say ‘Bye-Bye’ to Social Media](https://www.wired.com/story/kids-and-teen-influencers-in-australia-say-goodbye-to-social-media/)
- - [Survey of 1,458 US teens: 64% use AI chatbots, and 28% use them daily; 59% say they use ChatGPT, 23% Gemini, 20% Meta AI, 14% Copilot, and 9% Character.ai &lpar;Pew Research Center&rpar;](http://www.techmeme.com/251210/p12#a251210p12)
- - [Nexperia&#39;s former CEO Frans Scheper says Wingtech, which bought the Dutch chipmaker in 2019, quickly plotted to send Nexperia&#39;s research and IP to China &lpar;New York Times&rpar;](http://www.techmeme.com/251210/p11#a251210p11)<!-- TECH:END -->
+ - [Kids and Teen Influencers in Australia Say ‘Bye-Bye’ to Social Media](https://www.wired.com/story/kids-and-teen-influencers-in-australia-say-goodbye-to-social-media/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

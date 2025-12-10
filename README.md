@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 😝 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)
- - 💣 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 😝 [Russell Crowe is not a big fan of Gladiator 2](http://9gag.com/gag/a1m8g0R)
- - 👉 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
+ - 😝 [The joker kinda got a point](http://9gag.com/gag/aPAVLyP)
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 💣 [Its Wednesday my dudes](http://9gag.com/gag/ajP3v0G)
+ - 😝 [Russian revenue collapse: Russian oil prices hit a new record low since full-scale war began. Urals crude was selling for an AVERAGE of $38.28 last week in Novorossiysk, with discounts over $25 vs Brent crude. And despite that, unsold oil stored on tankers is STILL rising.](http://9gag.com/gag/azxvyVm)
+ - 👉 [The failure of an officer trying to make it.](http://9gag.com/gag/ayNmAjV)<!-- MEMES:END -->
 
 ---
 

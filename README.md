@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 😝 [Waiting for my friends to try the drink I made them](http://9gag.com/gag/aoyG672)
- - 👉 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)<!-- MEMES:END -->
+ - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 👉 [Do not back off from bullies](http://9gag.com/gag/aYQvZrO)<!-- MEMES:END -->
 
 ---
 

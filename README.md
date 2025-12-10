@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity](http://9gag.com/gag/aNDGXAw)
- - 😝 [4th dimension explained](http://9gag.com/gag/aE0jj2G)
- - 💣 [Baby it\u2019s cold outside](http://9gag.com/gag/aBybbGZ)
- - 😝 [Sometimes you have to learn it the hard way](http://9gag.com/gag/aNDGXm0)
- - 👉 [John Forgerty wrote fortunate son in 20 minutes of pure rage after he read that a senator&#39;s son dodged the draft. Song was released in 09/69, the army started doing draft loteries in 12/69](http://9gag.com/gag/a5Q994g)<!-- MEMES:END -->
+ - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 😝 [Everything is going to be fine.](http://9gag.com/gag/ajP3j4g)
+ - 👉 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)<!-- MEMES:END -->
 
 ---
 

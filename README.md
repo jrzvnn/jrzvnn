@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nexperia&#39;s former CEO Frans Scheper says Wingtech, which bought the Dutch chipmaker in 2019, quickly plotted to send Nexperia&#39;s research and IP to China &lpar;New York Times&rpar;](http://www.techmeme.com/251210/p11#a251210p11)
+ - [The European Commission says Apple and Google&#39;s Android-iPhone data transfer tool, which will be available globally, is an example of the benefits of the DMA &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/251210/p10#a251210p10)
+ - [Australia&#39;s eSafety Commissioner Julie Inman Grant says under-16s slipping through the cracks of the social media ban will be &quot;booted off&quot; the platforms in time &lpar;The Guardian&rpar;](http://www.techmeme.com/251210/p9#a251210p9)
  - [Amazon will invest $35B+ in India&#39;s cloud and AI sector by 2030, adding to the ~$40B it has invested in the country, and says the plan will create 1M more jobs &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251210/p8#a251210p8)
- - [Chinese state-backed chipmaker Hygon, which makes server CPUs, calls off merger with its top shareholder and server maker Sugon; the merger was announced in May &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/251210/p7#a251210p7)
- - [Nintendo&#39;s shares slid as much as 4.7% on December 10 to their lowest level since May, amid concerns that rising memory chip prices will erode its profit &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p6#a251210p6)
- - [Ofcom: UK porn traffic has now settled at a &quot;lower level&quot; since the start of age checks; VPN users rose to a peak of 1.4M in mid-August and now stand at 900K &lpar;The Guardian&rpar;](http://www.techmeme.com/251210/p5#a251210p5)
- - [Surfshark Promo Codes: 87% Off | December 2025](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
+ - [Chinese state-backed chipmaker Hygon, which makes server CPUs, calls off merger with its top shareholder and server maker Sugon; the merger was announced in May &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/251210/p7#a251210p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

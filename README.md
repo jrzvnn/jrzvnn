@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boom&#39;s move to modify its supersonic engine to power AI data centers is another example of industrial capacity being repurposed to serve the AI supply chain &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p55#a251209p55)
+ - [Citi lifts Apple stock target following strong iPhone sales](https://appleinsider.com/articles/25/12/10/citi-lifts-apple-stock-target-following-strong-iphone-sales?utm_source=rss)
+ - [The AI industry’s biggest week: Google’s rise, RL mania, and a party boat](https://www.theverge.com/column/841207/ai-neurips-2025)
  - [Silicon Valley Is All About the Hard Sell These Days](https://www.wired.com/story/sam-altman-jimmy-fallon-silicon-valley-hard-sell/)
- - [Sources: China added AI chips from Chinese groups to its government-approved list of suppliers for the first time, before Trump&#39;s move to allow Nvidia exports &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/251209/p54#a251209p54)
- - [Sources: at a November meeting in the Oval Office, Jensen Huang told President Trump that a flurry of state AI laws could cause the US to lose the AI race &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251209/p53#a251209p53)
- - [Best Home Security Cameras of 2025: Our Top Holiday Picks for Your Protection](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)
- - [McDonald&#39;s Grinch Meal vs. Burger King&#39;s SpongeBob Menu: Here&#39;s the Obvious Winner](https://www.cnet.com/culture/mcdonalds-grinch-meal-or-burger-kings-spongebob-menu-we-pick-a-winner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: China added AI chips from Chinese groups to its government-approved list of suppliers for the first time, before Trump&#39;s move to allow Nvidia exports &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/251209/p54#a251209p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

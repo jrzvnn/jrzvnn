@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of UK adults in 2025: on average, they spend 4.5 hours per day online, up 10 minutes on 2024, and 50%+ of time is on Google- and Meta-owned services &lpar;Ofcom&rpar;](http://www.techmeme.com/251210/p21#a251210p21)
  - [17 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-men-2025/)
  - [As Australia bans under-16s from social media platforms, TikTok-powered video app Lemon8, friends-only photo app Yope, and others rise up the App Store charts &lpar;Nasteho Said/Bloomberg&rpar;](http://www.techmeme.com/251210/p20#a251210p20)
  - [‘It Was Nuts’: The Extreme Tests that Show Why Hail Is a Multibillion-Dollar Problem](https://www.wired.com/story/it-was-nuts-the-extreme-tests-that-show-why-hail-is-a-multi-billion-dollar-problem/)
- - [President Trump letting Nvidia sell advanced AI chips to China reverses decades of US tech restrictions on its adversaries, giving China a boost in the AI race &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/251210/p19#a251210p19)
- - [The EU&#39;s General Court reduces a 2023 EU antitrust fine on Intel to €237.1M, down from €376.36M; the EU fined Intel a record €1.06B in 2009, then overturned &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251210/p18#a251210p18)<!-- TECH:END -->
+ - [President Trump letting Nvidia sell advanced AI chips to China reverses decades of US tech restrictions on its adversaries, giving China a boost in the AI race &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/251210/p19#a251210p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

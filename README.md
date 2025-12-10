@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chatbots are struggling with suicide hotline numbers](https://www.theverge.com/report/841610/ai-chatbot-suicide-safety-failure)
+ - [YouTube TV plans to launch over 10 genre-specific, cheaper YouTube TV Plans in early 2026, including a Sports Plan featuring ESPN Unlimited and Fox Sports 1 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251210/p41#a251210p41)
+ - [The Echo Spot is just $45, beating its Black Friday price](https://www.theverge.com/gadgets/841593/amazon-echo-spot-nintendo-joy-con-2-wheel-deal-sale)
  - [The DHS Data Grab Is Putting US Citizens at Risk](https://www.wired.com/story/dhs-data-grab-putting-us-citizens-at-risk/)
- - [No one knows what to call these things](https://www.theverge.com/gadgets/841536/smart-glasses-ai-glasses-xr-ar-headsets-terminology-wearables)
- - [There are no good outcomes for the Warner Bros. sale](https://www.theverge.com/streaming/841581/warner-bros-netflix-paramount-skydance-ellison-hostile-bid)
- - [The Pixel Watch 4 is getting new one-handed gestures and better smart replies](https://www.theverge.com/news/841514/pixel-watch-4-gestures-pinch-control-wrist-turn-dismiss-enhaced-smart-replies)
- - [Shopify launches Product Network, an ad tool that lets merchants recommend and advertise products on other merchants&#39; storefronts &lpar;Lauren Johnson/Adweek&rpar;](http://www.techmeme.com/251210/p40#a251210p40)<!-- TECH:END -->
+ - [No one knows what to call these things](https://www.theverge.com/gadgets/841536/smart-glasses-ai-glasses-xr-ar-headsets-terminology-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

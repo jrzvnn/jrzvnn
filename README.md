@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supply chain report claims Apple is preparing for strong iPhone Fold demand [u]](https://appleinsider.com/articles/25/12/09/supply-chain-report-claims-apple-is-preparing-for-strong-iphone-fold-demand?utm_source=rss)
- - [Google launches a cheaper AI Plus plan in India, costing ~$2.21 per month for the first six months and ~$4.44 thereafter, to compete with ChatGPT Go &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251210/p32#a251210p32)
- - [Instagram launches Your Algorithm, which shows users an AI analysis of their activity to let them customize the topics shaping their Reels recommendations &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/251210/p31#a251210p31)
- - [How US startups like Oakland-based Brimstone are racing to develop sources of raw materials that the US needs for tech, an industry China has long dominated &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/251210/p30#a251210p30)
- - [Instagram Will Start Letting You Pick What Shows Up in Your Reels](https://www.wired.com/story/instagram-lets-you-pick-what-shows-up-in-reels/)<!-- TECH:END -->
+ - [Nvidia says that it hasn&#39;t seen &quot;substantiation or received tips&quot; about chip smuggling via data centers outside of China, after The Information&#39;s DeepSeek story &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/251210/p36#a251210p36)
+ - [AI companies want a new internet — and they think they’ve found the key](https://www.theverge.com/ai-artificial-intelligence/841156/ai-companies-aaif-anthropic-mcp-model-context-protocol)
+ - [Amazon Kindle Scribe Colorsoft review: the $630 pen-enabled e-reader is a tough sell for most people, even with its big 11&quot; display and productivity features &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/251210/p35#a251210p35)
+ - [The RSL Collective, backed by Ziff Davis, Yahoo, and others, launches RSL 1.0, to let publishers set licensing and compensation rules for AI web crawlers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251210/p34#a251210p34)
+ - [Razer resurrects the first ever gaming mouse as a limited edition](https://www.theverge.com/news/841494/razer-boomslang-20th-anniversary-edition-gaming-mouse-rechargeable-optical)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

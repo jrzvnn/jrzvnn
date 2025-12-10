@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 😝 [Wedding drinking is all about pacing yourself, don&#39;t peak to early.](http://9gag.com/gag/aYQvvXV)
- - 💣 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 👉 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)<!-- MEMES:END -->
+ - 😝 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)
+ - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
+ - 💣 [Wedding drinking is all about pacing yourself, don&#39;t peak to early.](http://9gag.com/gag/aYQvvXV)
+ - 😝 [Russell Crowe is not a big fan of Gladiator 2](http://9gag.com/gag/a1m8g0R)
+ - 👉 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)<!-- MEMES:END -->
 
 ---
 

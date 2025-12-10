@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [European Commission credits DMA for upcoming iPhone-Android switching tools](https://appleinsider.com/articles/25/12/09/european-commission-credits-dma-for-upcoming-iphone-android-switching-tools?utm_source=rss)
- - [Crunchyroll announces it is shutting down its free ad-supported streaming option on December 31; Crunchyroll subscriptions start at $7.99/month or $79.99/year &lpar;Luke Bouma/Cord Cutters News&rpar;](http://www.techmeme.com/251209/p49#a251209p49)
- - [Google adds new pinch and wrist gestures to the Pixel Watch 4 and says Watch 3 and Watch 4 will now use an on-device Gemma-based AI model for Smart Replies &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251209/p48#a251209p48)
- - [Intel Takes Major Step in Plan to Acquire Chip Startup SambaNova](https://www.wired.com/story/intel-signs-term-sheet-sambanova-ai/)
- - [Both sides of the aisle hate the AI moratorium](https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans)<!-- TECH:END -->
+ - [Silicon Valley Is All About the Hard Sell These Days](https://www.wired.com/story/sam-altman-jimmy-fallon-silicon-valley-hard-sell/)
+ - [Sources: China added AI chips from Chinese groups to its government-approved list of suppliers for the first time, before Trump&#39;s move to allow Nvidia exports &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/251209/p54#a251209p54)
+ - [Sources: at a November meeting in the Oval Office, Jensen Huang told President Trump that a flurry of state AI laws could cause the US to lose the AI race &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251209/p53#a251209p53)
+ - [Best Home Security Cameras of 2025: Our Top Holiday Picks for Your Protection](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)
+ - [McDonald&#39;s Grinch Meal vs. Burger King&#39;s SpongeBob Menu: Here&#39;s the Obvious Winner](https://www.cnet.com/culture/mcdonalds-grinch-meal-or-burger-kings-spongebob-menu-we-pick-a-winner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

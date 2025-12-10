@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 😝 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
- - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
+ - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - 😝 [Sometimes you have to learn it the hard way](http://9gag.com/gag/aNDGXm0)
+ - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 😝 [Diversity](http://9gag.com/gag/aNDGXAw)
+ - 👉 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Diversity](http://9gag.com/gag/aNDGXAw)
  - 😝 [4th dimension explained](http://9gag.com/gag/aE0jj2G)
- - 😝 [Baby it\u2019s cold outside](http://9gag.com/gag/aBybbGZ)
- - 💣 [Sometimes you have to learn it the hard way](http://9gag.com/gag/aNDGXm0)
- - 😝 [This guy has balls of steel](http://9gag.com/gag/a7omBWe)
+ - 💣 [Baby it\u2019s cold outside](http://9gag.com/gag/aBybbGZ)
+ - 😝 [Sometimes you have to learn it the hard way](http://9gag.com/gag/aNDGXm0)
  - 👉 [John Forgerty wrote fortunate son in 20 minutes of pure rage after he read that a senator&#39;s son dodged the draft. Song was released in 09/69, the army started doing draft loteries in 12/69](http://9gag.com/gag/a5Q994g)<!-- MEMES:END -->
 
 ---

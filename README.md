@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says that it hasn&#39;t seen &quot;substantiation or received tips&quot; about chip smuggling via data centers outside of China, after The Information&#39;s DeepSeek story &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/251210/p36#a251210p36)
- - [AI companies want a new internet — and they think they’ve found the key](https://www.theverge.com/ai-artificial-intelligence/841156/ai-companies-aaif-anthropic-mcp-model-context-protocol)
- - [Amazon Kindle Scribe Colorsoft review: the $630 pen-enabled e-reader is a tough sell for most people, even with its big 11&quot; display and productivity features &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/251210/p35#a251210p35)
- - [The RSL Collective, backed by Ziff Davis, Yahoo, and others, launches RSL 1.0, to let publishers set licensing and compensation rules for AI web crawlers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251210/p34#a251210p34)
- - [Razer resurrects the first ever gaming mouse as a limited edition](https://www.theverge.com/news/841494/razer-boomslang-20th-anniversary-edition-gaming-mouse-rechargeable-optical)<!-- TECH:END -->
+ - [Starcloud, which launched a satellite with a Nvidia H100 chip in November, says the satellite is running and querying responses from Google&#39;s Gemma &lpar;Pia Singh/CNBC&rpar;](http://www.techmeme.com/251210/p38#a251210p38)
+ - [Apple&#39;s removal of ICEBlock sees repeated protests at Portland Pioneer Place store](https://appleinsider.com/articles/25/12/10/apples-removal-of-iceblock-sees-repeated-protests-at-portland-pioneer-place-store?utm_source=rss)
+ - [In a series of lawsuits, Intel, AMD, Texas Instruments, and Berkshire were accused of failing to keep their tech out of Russian-made weapons used in Ukraine &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p37#a251210p37)
+ - [OpenAI hires Slack’s CEO as its chief revenue officer](https://www.theverge.com/news/841540/openai-slack-ceo-denise-dresser-chief-revenue-officer)
+ - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2025&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He left his home, the mosque, and even the sidewalk, choosing instead to pray in the middle of the street! What would you call this?](http://9gag.com/gag/avyB4WO)
- - 😝 [It&#39;s a trap](http://9gag.com/gag/axyenOD)
- - 💣 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 😝 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
  - 😝 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
- - 👉 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
+ - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
 
 ---
 

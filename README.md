@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many States Say They’ll Defy RFK Jr.’s Changes to Hepatitis B Vaccination](https://www.wired.com/story/many-states-say-theyll-defy-rfk-jrs-changes-to-hepatitis-b-vaccination/)
  - [Sources: EU competition watchdogs raided Temu&#39;s European headquarters in Dublin last week, amid suspicions Temu may have received unfair subsidies from Beijing &lpar;Peter Chapman/Bloomberg&rpar;](http://www.techmeme.com/251210/p48#a251210p48)
  - [August&amp;#8217;s founders are back with a smart front door](https://www.theverge.com/tech/841622/doma-smart-door-august-smart-lock-makers)
  - [Apple’s 5K Studio Display is down to its lowest price in months](https://www.theverge.com/gadgets/841647/apple-studio-display-monitor-deal-sale)
- - [New Apple Cash stickers add color &amp; personality to quick payments](https://appleinsider.com/articles/25/12/10/new-apple-cash-stickers-add-color-personality-to-quick-payments?utm_source=rss)
- - [Meta might charge for a future AI model](https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg)<!-- TECH:END -->
+ - [New Apple Cash stickers add color &amp; personality to quick payments](https://appleinsider.com/articles/25/12/10/new-apple-cash-stickers-add-color-personality-to-quick-payments?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

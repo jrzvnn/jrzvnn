@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
  - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 😝 [Everything is going to be fine.](http://9gag.com/gag/ajP3j4g)
- - 👉 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)<!-- MEMES:END -->
+ - 😝 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
+ - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
 
 ---
 

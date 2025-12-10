@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coupang CEO Park Dae-jun resigns after the company incurred South Korea&#39;s largest-ever data breach, in which the personal data of 30M+ people was compromised &lpar;Mark Anderson/Bloomberg&rpar;](http://www.techmeme.com/251210/p4#a251210p4)
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in December](https://www.wired.com/story/att-promo-code/)
+ - [Hulu Promo Codes &amp; Discounts: 20% Off December](https://www.wired.com/story/hulu-promo-code/)
  - [Sources: Nvidia has privately demonstrated its unreleased location verification tech in recent months, which could show the country its chips are operating in &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p3#a251210p3)
- - [Microsoft Research, Providence, and UW develop the GigaTIME AI model, aiming to perform tumor analysis in a fraction of the time and cost of existing methods &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/251210/p2#a251210p2)
- - [Bengaluru-based e-commerce platform Meesho opened up 54% in its stock market debut, giving the company a ~$8.4B market cap after raising ~$603M in its India IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p1#a251210p1)
- - [DEEP Robotics, a Hangzhou-based startup that builds quadruped and humanoid robots, raised a $70M Series C to expand R&amp;D and production capacity &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/251209/p57#a251209p57)
- - [Stellantis partners with Estonian ride-hailing service Bolt, which serves 200M+ riders, to test Level 4 driverless vans across Europe in 2026 &lpar;Romolo Tosiani/Reuters&rpar;](http://www.techmeme.com/251209/p56#a251209p56)<!-- TECH:END -->
+ - [Microsoft Research, Providence, and UW develop the GigaTIME AI model, aiming to perform tumor analysis in a fraction of the time and cost of existing methods &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/251210/p2#a251210p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

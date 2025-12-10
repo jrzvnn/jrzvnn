@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
+ - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
  - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 👉 [Do not back off from bullies](http://9gag.com/gag/aYQvZrO)<!-- MEMES:END -->
+ - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
+ - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
 
 ---
 

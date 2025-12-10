@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 😝 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
- - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 👉 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
+ - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 😝 [Waiting for my friends to try the drink I made them](http://9gag.com/gag/aoyG672)
+ - 👉 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)<!-- MEMES:END -->
 
 ---
 

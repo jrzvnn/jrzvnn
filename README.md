@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia has privately demonstrated its unreleased location verification tech in recent months, which could show the country its chips are operating in &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p3#a251210p3)
  - [Microsoft Research, Providence, and UW develop the GigaTIME AI model, aiming to perform tumor analysis in a fraction of the time and cost of existing methods &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/251210/p2#a251210p2)
  - [Bengaluru-based e-commerce platform Meesho opened up 54% in its stock market debut, giving the company a ~$8.4B market cap after raising ~$603M in its India IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p1#a251210p1)
  - [DEEP Robotics, a Hangzhou-based startup that builds quadruped and humanoid robots, raised a $70M Series C to expand R&amp;D and production capacity &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/251209/p57#a251209p57)
- - [Stellantis partners with Estonian ride-hailing service Bolt, which serves 200M+ riders, to test Level 4 driverless vans across Europe in 2026 &lpar;Romolo Tosiani/Reuters&rpar;](http://www.techmeme.com/251209/p56#a251209p56)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stellantis partners with Estonian ride-hailing service Bolt, which serves 200M+ riders, to test Level 4 driverless vans across Europe in 2026 &lpar;Romolo Tosiani/Reuters&rpar;](http://www.techmeme.com/251209/p56#a251209p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

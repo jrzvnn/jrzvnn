@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta might charge for a future AI model](https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg)
- - [Tim Cook met with US lawmakers in a closed-door meeting to lobby against provisions in pending legislation that would require app stores to verify users&#39; ages &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p47#a251210p47)
- - [American Film Institute honors Apple TV hits including &#39;Pluribus&#39; and &#39;Severance&#39;](https://appleinsider.com/articles/25/12/10/american-film-institute-honors-apple-tv-hits-including-pluribus-and-severance?utm_source=rss)
- - [Nick Clegg joins London-based VC firm Hiro Capital as a general partner, and Yann LeCun joins the firm as an adviser; sources: Hiro looks to raise a €500M+ fund &lpar;Financial Times&rpar;](http://www.techmeme.com/251210/p46#a251210p46)
- - [Holiday Mac mini price war slashes desktops to as low as $479](https://appleinsider.com/articles/25/12/10/holiday-mac-mini-price-war-slashes-desktops-to-as-low-as-479?utm_source=rss)<!-- TECH:END -->
+ - [Sources: EU competition watchdogs raided Temu&#39;s European headquarters in Dublin last week, amid suspicions Temu may have received unfair subsidies from Beijing &lpar;Peter Chapman/Bloomberg&rpar;](http://www.techmeme.com/251210/p48#a251210p48)
+ - [August&amp;#8217;s founders are back with a smart front door](https://www.theverge.com/tech/841622/doma-smart-door-august-smart-lock-makers)
+ - [Apple’s 5K Studio Display is down to its lowest price in months](https://www.theverge.com/gadgets/841647/apple-studio-display-monitor-deal-sale)
+ - [New Apple Cash stickers add color &amp; personality to quick payments](https://appleinsider.com/articles/25/12/10/new-apple-cash-stickers-add-color-personality-to-quick-payments?utm_source=rss)
+ - [Meta might charge for a future AI model](https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

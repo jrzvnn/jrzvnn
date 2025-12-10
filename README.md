@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: this fall, Alexandr Wang told people that he disagreed with top Meta execs like Chris Cox and Andrew Bosworth, including on using Instagram data for AI &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/251210/p22#a251210p22)
- - [A survey of UK adults in 2025: on average, they spend 4.5 hours per day online, up 10 minutes on 2024, and 50%+ of time is on Google- and Meta-owned services &lpar;Ofcom&rpar;](http://www.techmeme.com/251210/p21#a251210p21)
- - [17 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-men-2025/)
- - [As Australia bans under-16s from social media platforms, TikTok-powered video app Lemon8, friends-only photo app Yope, and others rise up the App Store charts &lpar;Nasteho Said/Bloomberg&rpar;](http://www.techmeme.com/251210/p20#a251210p20)
- - [‘It Was Nuts’: The Extreme Tests that Show Why Hail Is a Multibillion-Dollar Problem](https://www.wired.com/story/it-was-nuts-the-extreme-tests-that-show-why-hail-is-a-multi-billion-dollar-problem/)<!-- TECH:END -->
+ - [TTP: Apple&#39;s App Store and Google&#39;s Play Store host dozens of apps linked to US-sanctioned foreign companies; Google removed 17 apps and Apple removed 35 &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/251210/p25#a251210p25)
+ - [Sources: DeepSeek is developing its new AI model using several thousand Nvidia Blackwell chips, which were smuggled into China via third-party countries &lpar;The Information&rpar;](http://www.techmeme.com/251210/p24#a251210p24)
+ - [How President Trump&#39;s tariffs ended China&#39;s monopoly on making US game consoles, boosting Vietnam, whose exports jumped from $30M/month in 2024 to $400M in May &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p23#a251210p23)
+ - [Naya Create Review: A Split Keyboard That Just Doesn’t Work](https://www.wired.com/review/naya-create-keyboard/)
+ - [Sources: this fall, Alexandr Wang told people that he disagreed with top Meta execs like Chris Cox and Andrew Bosworth, including on using Instagram data for AI &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/251210/p22#a251210p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

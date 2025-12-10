@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 😝 [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
- - 💣 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
- - 😝 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
- - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
+ - 😝 [Oi mate](http://9gag.com/gag/aKGXX8b)
+ - 😝 [Sometimes you have to learn it the hard way](http://9gag.com/gag/aNDGXm0)
+ - 💣 [4th dimension explained](http://9gag.com/gag/aE0jj2G)
+ - 😝 [Baby it\u2019s cold outside](http://9gag.com/gag/aBybbGZ)
+ - 👉 [John Forgerty wrote fortunate son in 20 minutes of pure rage after he read that a senator&#39;s son dodged the draft. Song was released in 09/69, the army started doing draft loteries in 12/69](http://9gag.com/gag/a5Q994g)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon now offers same-day perishable grocery delivery in 2,300+ US markets and has expanded the service&#39;s grocery offerings by 30%+ since its August launch &lpar;Peyton Bigora/Grocery Dive&rpar;](http://www.techmeme.com/251210/p59#a251210p59)
  - [Google rolls out Preferred Sources globally, letting users customize &quot;top stories&quot; in Search, and launches highlighted links from users&#39; news subscriptions &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/251210/p58#a251210p58)
  - [Spotify&amp;#8217;s Prompted Playlists use AI to control your algorithm](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists)
  - [Minor outages hit Apple Music, Apple TV, and Game Center [u]](https://appleinsider.com/articles/25/12/10/minor-outages-hit-apple-music-apple-tv-and-game-center?utm_source=rss)
- - [ChatGPT was 2025&#39;s most downloaded free app in the US iOS App Store, up from No. 4 in 2024, followed by Threads, Google, TikTok, WhatsApp, and Instagram &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251210/p57#a251210p57)
- - [Operation Bluebird wants to reclaim Twitter’s ‘abandoned’ trademarks for a new social network](https://www.theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition)<!-- TECH:END -->
+ - [ChatGPT was 2025&#39;s most downloaded free app in the US iOS App Store, up from No. 4 in 2024, followed by Threads, Google, TikTok, WhatsApp, and Instagram &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251210/p57#a251210p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [17 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-men-2025/)
+ - [As Australia bans under-16s from social media platforms, TikTok-powered video app Lemon8, friends-only photo app Yope, and others rise up the App Store charts &lpar;Nasteho Said/Bloomberg&rpar;](http://www.techmeme.com/251210/p20#a251210p20)
+ - [‘It Was Nuts’: The Extreme Tests that Show Why Hail Is a Multibillion-Dollar Problem](https://www.wired.com/story/it-was-nuts-the-extreme-tests-that-show-why-hail-is-a-multi-billion-dollar-problem/)
  - [President Trump letting Nvidia sell advanced AI chips to China reverses decades of US tech restrictions on its adversaries, giving China a boost in the AI race &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/251210/p19#a251210p19)
- - [The EU&#39;s General Court reduces a 2023 EU antitrust fine on Intel to €237.1M, down from €376.36M; the EU fined Intel a record €1.06B in 2009, then overturned &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251210/p18#a251210p18)
- - [Scientists Thought Parkinson’s Was in Our Genes. It Might Be in the Water](https://www.wired.com/story/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water/)
- - [The US CBP proposes vetting five years of social media history for travelers from the UK, France, Germany, and more; the current system only requires basic info &lpar;Christine Chung/New York Times&rpar;](http://www.techmeme.com/251210/p17#a251210p17)
- - [Australia&#39;s under-16 social media ban excludes Discord, GitHub, LEGO Play, Roblox, Steam, Google Classroom, Facebook Messenger, WhatsApp, and YouTube Kids &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p16#a251210p16)<!-- TECH:END -->
+ - [The EU&#39;s General Court reduces a 2023 EU antitrust fine on Intel to €237.1M, down from €376.36M; the EU fined Intel a record €1.06B in 2009, then overturned &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251210/p18#a251210p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Google is set to be hit with a potentially large EU fine in Q1 2026 if it does not do more to ensure Google Play complies with EU competition rules &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251210/p53#a251210p53)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
  - [OpenAI says the cyber capabilities of its frontier AI models are accelerating and warns that upcoming models are likely to pose a &quot;high&quot; risk &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251210/p52#a251210p52)
  - [Shoppers get 30% off at Mattel when they check out with Apple Pay](https://appleinsider.com/articles/25/12/10/shoppers-get-30-off-at-mattel-when-they-check-out-with-apple-pay?utm_source=rss)
- - [Google releases fully managed, remote MCP servers to help developers connect AI agents to services such as Maps, BigQuery, Compute Engine, and Kubernetes Engine &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251210/p51#a251210p51)<!-- TECH:END -->
+ - [Google releases fully managed, remote MCP servers to help developers connect AI agents to services such as Maps, BigQuery, Compute Engine, and Kubernetes Engine &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251210/p51#a251210p51)
+ - [Sources: Blue Origin has worked for over a year on tech for orbital AI data centers; SpaceX plans to use upgraded Starlink satellites for AI computing payloads &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251210/p50#a251210p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify&amp;#8217;s Prompted Playlists use AI to control your algorithm](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists)
+ - [Minor outages hit Apple Music, Apple TV, and Game Center [u]](https://appleinsider.com/articles/25/12/10/minor-outages-hit-apple-music-apple-tv-and-game-center?utm_source=rss)
+ - [ChatGPT was 2025&#39;s most downloaded free app in the US iOS App Store, up from No. 4 in 2024, followed by Threads, Google, TikTok, WhatsApp, and Instagram &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251210/p57#a251210p57)
  - [Operation Bluebird wants to reclaim Twitter’s ‘abandoned’ trademarks for a new social network](https://www.theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [You Can Stream Some Of The Best A24 Movies For Free](https://www.cnet.com/tech/services-and-software/7-a24-movies-you-can-enjoy-without-spending-a-dime/#ftag=CAD590a51e)
- - [Adobe reports Q4 revenue up 10% YoY to $6.19B, Digital Media revenue up 11% to $4.62B, and forecasts FY 2026 revenue above estimates &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/251210/p56#a251210p56)
- - [McDonalds and Coca-Cola Made AI Slop Holiday Commercials, and I&#39;m Not Lovin&#39; It](https://www.cnet.com/tech/services-and-software/terrible-ai-holiday-commercials-commentary/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

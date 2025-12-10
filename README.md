@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eufy&#39;s Best Robot Vacuum Is $405 Off &lpar;2025&rpar;](https://www.wired.com/story/the-best-robot-vacuum-deal-2025/)
- - [Sources: Google is set to be hit with a potentially large EU fine in Q1 2026 if it does not do more to ensure Google Play complies with EU competition rules &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251210/p53#a251210p53)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
- - [OpenAI says the cyber capabilities of its frontier AI models are accelerating and warns that upcoming models are likely to pose a &quot;high&quot; risk &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251210/p52#a251210p52)
- - [Shoppers get 30% off at Mattel when they check out with Apple Pay](https://appleinsider.com/articles/25/12/10/shoppers-get-30-off-at-mattel-when-they-check-out-with-apple-pay?utm_source=rss)<!-- TECH:END -->
+ - [Minor outages hit Apple Music, Apple TV, and Game Center](https://appleinsider.com/articles/25/12/10/minor-outages-hit-apple-music-apple-tv-and-game-center?utm_source=rss)
+ - [Oracle reports Q2 revenue up 14% YoY to $16.06B vs. $16.21B est., remaining performance obligations up 438% to $523B vs. $502B est.; ORCL drops 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251210/p55#a251210p55)
+ - [True Classic Tees Deals for the 2025 Holidays: 25 Percent Off Crew Necks](https://www.wired.com/story/true-classic-tees-flash-deals-december-2025/)
+ - [Reddit starts a limited test of verified profiles, an opt-in feature that places a gray checkmark beside the usernames of notable people or businesses &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251210/p54#a251210p54)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

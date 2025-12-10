@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I couldn&amp;#8217;t fix it with iFixit’s AI FixBot](https://www.theverge.com/ai-artificial-intelligence/841252/ifixit-fixbot-hands-on-ai-chatbot)
  - [Flash deal: Save $255 on 12 Mac apps with this mega bundle](https://appleinsider.com/articles/25/12/10/flash-deal-save-255-on-12-mac-apps-with-this-mega-bundle?utm_source=rss)
  - [Apple CEO Tim Cook lobbies lawmakers ahead of online child safety law debate](https://appleinsider.com/articles/25/12/10/apple-ceo-tim-cook-lobbies-lawmakers-ahead-of-online-child-safety-law-debate?utm_source=rss)
- - [Leak shows A19 iPad &amp; M4 iPad Air unsurprisingly will arrive in early 2026](https://appleinsider.com/articles/25/12/10/leak-shows-a19-ipad-m4-ipad-air-unsurprisingly-will-arrive-in-early-2026?utm_source=rss)
- - [Many States Say They’ll Defy RFK Jr.’s Changes to Hepatitis B Vaccination](https://www.wired.com/story/many-states-say-theyll-defy-rfk-jrs-changes-to-hepatitis-b-vaccination/)
- - [Sources: EU competition watchdogs raided Temu&#39;s European headquarters in Dublin last week, amid suspicions Temu may have received unfair subsidies from Beijing &lpar;Peter Chapman/Bloomberg&rpar;](http://www.techmeme.com/251210/p48#a251210p48)<!-- TECH:END -->
+ - [Reddit is testing verification](https://www.theverge.com/news/841879/reddit-verification-test)
+ - [Leak shows A19 iPad &amp; M4 iPad Air unsurprisingly will arrive in early 2026](https://appleinsider.com/articles/25/12/10/leak-shows-a19-ipad-m4-ipad-air-unsurprisingly-will-arrive-in-early-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

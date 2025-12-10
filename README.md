@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US CBP proposes vetting five years of social media history for travelers from the UK, France, Germany, and more; the current system only requires basic info &lpar;Christine Chung/New York Times&rpar;](http://www.techmeme.com/251210/p17#a251210p17)
  - [Australia&#39;s under-16 social media ban excludes Discord, GitHub, LEGO Play, Roblox, Steam, Google Classroom, Facebook Messenger, WhatsApp, and YouTube Kids &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p16#a251210p16)
  - [A Doctor at Apple Reveals 9 Hidden Apple Watch Health Features](https://www.cnet.com/health/medical/hidden-apple-watch-health-features-according-doctor-apple/#ftag=CAD590a51e)
  - [Documents and former US government officials detail ICE&#39;s digital surveillance capabilities, amid a drive to deport 1M people in President Trump&#39;s first year &lpar;Peter Andringa/Financial Times&rpar;](http://www.techmeme.com/251210/p15#a251210p15)
- - [An interview with Tencent Games Global CEO Michelle Liu, whose hands-on dealmaking approach generated $10B in international gaming revenue over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p14#a251210p14)
- - [The 5 Healthiest Air Fryer Foods Made With Less Oil, According to Registered Dietitians](https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-according-registered-dietitians/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Tencent Games Global CEO Michelle Liu, whose hands-on dealmaking approach generated $10B in international gaming revenue over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p14#a251210p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

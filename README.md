@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chatbots are struggling with suicide hotline numbers](https://www.theverge.com/report/841610/ai-chatbot-suicide-safety-failure)
- - [YouTube TV plans to launch over 10 genre-specific, cheaper YouTube TV Plans in early 2026, including a Sports Plan featuring ESPN Unlimited and Fox Sports 1 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251210/p41#a251210p41)
- - [The Echo Spot is just $45, beating its Black Friday price](https://www.theverge.com/gadgets/841593/amazon-echo-spot-nintendo-joy-con-2-wheel-deal-sale)
- - [The DHS Data Grab Is Putting US Citizens at Risk](https://www.wired.com/story/dhs-data-grab-putting-us-citizens-at-risk/)
- - [No one knows what to call these things](https://www.theverge.com/gadgets/841536/smart-glasses-ai-glasses-xr-ar-headsets-terminology-wearables)<!-- TECH:END -->
+ - [Android users can now share a live video on 911 calls](https://www.theverge.com/news/841503/android-emergency-live-video)
+ - [Google says it will link to more sources in AI Mode](https://www.theverge.com/news/841603/google-ai-mode-source-links-web-guide)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [Amazon plans to let authors offer their DRM-free ebooks in the EPUB and PDF formats through Kindle Direct Publishing, starting January 20, 2026 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251210/p42#a251210p42)
+ - [Calibri is too woke for the State Department](https://www.theverge.com/news/841664/calibri-is-too-woke-for-the-state-department)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

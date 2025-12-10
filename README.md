@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance and Alibaba have asked Nvidia about placing large orders for H200 chips after Trump&#39;s export approval, as they remain concerned about supply &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p49#a251210p49)
  - [I couldn&amp;#8217;t fix it with iFixit’s AI FixBot](https://www.theverge.com/ai-artificial-intelligence/841252/ifixit-fixbot-hands-on-ai-chatbot)
  - [Flash deal: Save $255 on 12 Mac apps with this mega bundle](https://appleinsider.com/articles/25/12/10/flash-deal-save-255-on-12-mac-apps-with-this-mega-bundle?utm_source=rss)
  - [Apple CEO Tim Cook lobbies lawmakers ahead of online child safety law debate](https://appleinsider.com/articles/25/12/10/apple-ceo-tim-cook-lobbies-lawmakers-ahead-of-online-child-safety-law-debate?utm_source=rss)
- - [Reddit is testing verification](https://www.theverge.com/news/841879/reddit-verification-test)
- - [Leak shows A19 iPad &amp; M4 iPad Air unsurprisingly will arrive in early 2026](https://appleinsider.com/articles/25/12/10/leak-shows-a19-ipad-m4-ipad-air-unsurprisingly-will-arrive-in-early-2026?utm_source=rss)<!-- TECH:END -->
+ - [Reddit is testing verification](https://www.theverge.com/news/841879/reddit-verification-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

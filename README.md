@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance and Alibaba have asked Nvidia about placing large orders for H200 chips after Trump&#39;s export approval, as they remain concerned about supply &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p49#a251210p49)
- - [I couldn&amp;#8217;t fix it with iFixit’s AI FixBot](https://www.theverge.com/ai-artificial-intelligence/841252/ifixit-fixbot-hands-on-ai-chatbot)
- - [Flash deal: Save $255 on 12 Mac apps with this mega bundle](https://appleinsider.com/articles/25/12/10/flash-deal-save-255-on-12-mac-apps-with-this-mega-bundle?utm_source=rss)
- - [Apple CEO Tim Cook lobbies lawmakers ahead of online child safety law debate](https://appleinsider.com/articles/25/12/10/apple-ceo-tim-cook-lobbies-lawmakers-ahead-of-online-child-safety-law-debate?utm_source=rss)
- - [Reddit is testing verification](https://www.theverge.com/news/841879/reddit-verification-test)<!-- TECH:END -->
+ - [Sources: Google is set to be hit with a potentially large EU fine in Q1 2026 if it does not do more to ensure Google Play complies with EU competition rules &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251210/p53#a251210p53)
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
+ - [OpenAI says the cyber capabilities of its frontier AI models are accelerating and warns that upcoming models are likely to pose a &quot;high&quot; risk &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251210/p52#a251210p52)
+ - [Shoppers get 30% off at Mattel when they check out with Apple Pay](https://appleinsider.com/articles/25/12/10/shoppers-get-30-off-at-mattel-when-they-check-out-with-apple-pay?utm_source=rss)
+ - [Google releases fully managed, remote MCP servers to help developers connect AI agents to services such as Maps, BigQuery, Compute Engine, and Kubernetes Engine &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251210/p51#a251210p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

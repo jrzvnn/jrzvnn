@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Australia&#39;s under-16 social media ban excludes Discord, GitHub, LEGO Play, Roblox, Steam, Google Classroom, Facebook Messenger, WhatsApp, and YouTube Kids &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p16#a251210p16)
+ - [A Doctor at Apple Reveals 9 Hidden Apple Watch Health Features](https://www.cnet.com/health/medical/hidden-apple-watch-health-features-according-doctor-apple/#ftag=CAD590a51e)
  - [Documents and former US government officials detail ICE&#39;s digital surveillance capabilities, amid a drive to deport 1M people in President Trump&#39;s first year &lpar;Peter Andringa/Financial Times&rpar;](http://www.techmeme.com/251210/p15#a251210p15)
  - [An interview with Tencent Games Global CEO Michelle Liu, whose hands-on dealmaking approach generated $10B in international gaming revenue over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p14#a251210p14)
- - [The 5 Healthiest Air Fryer Foods Made With Less Oil, According to Registered Dietitians](https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-according-registered-dietitians/#ftag=CAD590a51e)
- - [Cambridge, UK-based Nu Quantum, which builds networking infrastructure to link and scale quantum computers, raised a $60M Series A led by National Grid Partners &lpar;Isabella Ward/Bloomberg&rpar;](http://www.techmeme.com/251210/p13#a251210p13)<!-- TECH:END -->
+ - [The 5 Healthiest Air Fryer Foods Made With Less Oil, According to Registered Dietitians](https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-according-registered-dietitians/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

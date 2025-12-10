@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump could introduce ‘mandatory’ social media reviews for travelers](https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers)
+ - [Internal memo: Google is naming Amin Vahdat, who leads the company&#39;s AI and infrastructure team, to the new role of chief technologist for AI infrastructure &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/251210/p60#a251210p60)
  - [Amazon now offers same-day perishable grocery delivery in 2,300+ US markets and has expanded the service&#39;s grocery offerings by 30%+ since its August launch &lpar;Peyton Bigora/Grocery Dive&rpar;](http://www.techmeme.com/251210/p59#a251210p59)
- - [US May Demand 5 Years of Social Media History From Incoming Tourists](https://www.cnet.com/tech/services-and-software/us-may-demand-5-years-of-social-media-history-from-incoming-tourists/#ftag=CAD590a51e)
  - [Google rolls out Preferred Sources globally, letting users customize &quot;top stories&quot; in Search, and launches highlighted links from users&#39; news subscriptions &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/251210/p58#a251210p58)
- - [Spotify&amp;#8217;s Prompted Playlists use AI to control your algorithm](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists)
- - [Minor outages hit Apple Music, Apple TV, and Game Center [u]](https://appleinsider.com/articles/25/12/10/minor-outages-hit-apple-music-apple-tv-and-game-center?utm_source=rss)<!-- TECH:END -->
+ - [Spotify&amp;#8217;s Prompted Playlists use AI to control your algorithm](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

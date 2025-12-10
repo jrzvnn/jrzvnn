@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a trap](http://9gag.com/gag/axyenOD)
- - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 😝 [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
  - 💣 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
  - 😝 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
  - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 💣 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
+ - 😝 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)
+ - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
+ - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
  - 😝 [Ai be like](http://9gag.com/gag/amoOQ0o)
  - 👉 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
 

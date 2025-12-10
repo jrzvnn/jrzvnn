@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
  - 😝 [Wedding drinking is all about pacing yourself, don&#39;t peak to early.](http://9gag.com/gag/aYQvvXV)
- - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 😝 [Going jungle downhill on a ligiron with the boys. &lpar;Explanation in comments&rpar;](http://9gag.com/gag/aRB8WvB)
- - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
+ - 💣 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
+ - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 👉 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)<!-- MEMES:END -->
 
 ---
 

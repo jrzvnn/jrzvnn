@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 💣 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
  - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 😝 [Sometimes you have to learn it the hard way](http://9gag.com/gag/aNDGXm0)
- - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 😝 [Diversity](http://9gag.com/gag/aNDGXAw)
- - 👉 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)<!-- MEMES:END -->
+ - 👉 [Bamboozled](http://9gag.com/gag/a5Q9vMN)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump letting Nvidia sell advanced AI chips to China reverses decades of US tech restrictions on its adversaries, giving China a boost in the AI race &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/251210/p19#a251210p19)
+ - [The EU&#39;s General Court reduces a 2023 EU antitrust fine on Intel to €237.1M, down from €376.36M; the EU fined Intel a record €1.06B in 2009, then overturned &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251210/p18#a251210p18)
+ - [Scientists Thought Parkinson’s Was in Our Genes. It Might Be in the Water](https://www.wired.com/story/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water/)
  - [The US CBP proposes vetting five years of social media history for travelers from the UK, France, Germany, and more; the current system only requires basic info &lpar;Christine Chung/New York Times&rpar;](http://www.techmeme.com/251210/p17#a251210p17)
- - [Australia&#39;s under-16 social media ban excludes Discord, GitHub, LEGO Play, Roblox, Steam, Google Classroom, Facebook Messenger, WhatsApp, and YouTube Kids &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p16#a251210p16)
- - [A Doctor at Apple Reveals 9 Hidden Apple Watch Health Features](https://www.cnet.com/health/medical/hidden-apple-watch-health-features-according-doctor-apple/#ftag=CAD590a51e)
- - [Documents and former US government officials detail ICE&#39;s digital surveillance capabilities, amid a drive to deport 1M people in President Trump&#39;s first year &lpar;Peter Andringa/Financial Times&rpar;](http://www.techmeme.com/251210/p15#a251210p15)
- - [An interview with Tencent Games Global CEO Michelle Liu, whose hands-on dealmaking approach generated $10B in international gaming revenue over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p14#a251210p14)<!-- TECH:END -->
+ - [Australia&#39;s under-16 social media ban excludes Discord, GitHub, LEGO Play, Roblox, Steam, Google Classroom, Facebook Messenger, WhatsApp, and YouTube Kids &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p16#a251210p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

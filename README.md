@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify will begin testing a feature that lets a user write a prompt for a playlist and receive a unique set of songs based on the user&#39;s earlier behavior &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251210/p61#a251210p61)
  - [Donald Trump reminds the entire world he has no idea what 6G means](https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g)
  - [Trump could introduce ‘mandatory’ social media reviews for travelers](https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers)
  - [Internal memo: Google is naming Amin Vahdat, who leads the company&#39;s AI and infrastructure team, to the new role of chief technologist for AI infrastructure &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/251210/p60#a251210p60)
- - [Amazon now offers same-day perishable grocery delivery in 2,300+ US markets and has expanded the service&#39;s grocery offerings by 30%+ since its August launch &lpar;Peyton Bigora/Grocery Dive&rpar;](http://www.techmeme.com/251210/p59#a251210p59)
- - [US May Demand 5 Years of Social Media History From Incoming Tourists](https://www.cnet.com/tech/services-and-software/us-may-demand-5-years-of-social-media-history-from-incoming-tourists/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon now offers same-day perishable grocery delivery in 2,300+ US markets and has expanded the service&#39;s grocery offerings by 30%+ since its August launch &lpar;Peyton Bigora/Grocery Dive&rpar;](http://www.techmeme.com/251210/p59#a251210p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

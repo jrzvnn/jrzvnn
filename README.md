@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DHS Data Grab Is Putting US Citizens at Risk](https://www.wired.com/story/dhs-data-grab-putting-us-citizens-at-risk/)
+ - [No one knows what to call these things](https://www.theverge.com/gadgets/841536/smart-glasses-ai-glasses-xr-ar-headsets-terminology-wearables)
+ - [There are no good outcomes for the Warner Bros. sale](https://www.theverge.com/streaming/841581/warner-bros-netflix-paramount-skydance-ellison-hostile-bid)
  - [The Pixel Watch 4 is getting new one-handed gestures and better smart replies](https://www.theverge.com/news/841514/pixel-watch-4-gestures-pinch-control-wrist-turn-dismiss-enhaced-smart-replies)
- - [Shopify launches Product Network, an ad tool that lets merchants recommend and advertise products on other merchants&#39; storefronts &lpar;Lauren Johnson/Adweek&rpar;](http://www.techmeme.com/251210/p40#a251210p40)
- - [18 Best Gifts for Mom &lpar;2025&rpar;: LED Masks, E-Readers, Blow-Dry Brushes](https://www.wired.com/gallery/gifts-for-moms-2025/)
- - [Geothermal energy company Fervo, which aims to power data centers and more, raised $462M from Google and others, taking its total funding to $1.5B since 2017 &lpar;Benoît Morenne/Wall Street Journal&rpar;](http://www.techmeme.com/251210/p39#a251210p39)
- - [A Complete Guide to the Jeffrey Epstein Document Dumps](https://www.wired.com/story/a-complete-guide-to-the-jeffrey-epstein-document-dumps/)<!-- TECH:END -->
+ - [Shopify launches Product Network, an ad tool that lets merchants recommend and advertise products on other merchants&#39; storefronts &lpar;Lauren Johnson/Adweek&rpar;](http://www.techmeme.com/251210/p40#a251210p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

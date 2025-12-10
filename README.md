@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The joker kinda got a point](http://9gag.com/gag/aPAVLyP)
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 💣 [Its Wednesday my dudes](http://9gag.com/gag/ajP3v0G)
- - 😝 [Russian revenue collapse: Russian oil prices hit a new record low since full-scale war began. Urals crude was selling for an AVERAGE of $38.28 last week in Novorossiysk, with discounts over $25 vs Brent crude. And despite that, unsold oil stored on tankers is STILL rising.](http://9gag.com/gag/azxvyVm)
- - 👉 [The failure of an officer trying to make it.](http://9gag.com/gag/ayNmAjV)<!-- MEMES:END -->
+ - 😝 [Wedding drinking is all about pacing yourself, don&#39;t peak to early.](http://9gag.com/gag/aYQvvXV)
+ - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 😝 [Going jungle downhill on a ligiron with the boys. &lpar;Explanation in comments&rpar;](http://9gag.com/gag/aRB8WvB)
+ - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
 
 ---
 

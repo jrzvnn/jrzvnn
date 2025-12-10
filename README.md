@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saudi Arabia](http://9gag.com/gag/amoOOyv)
  - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - 💣 [Saudi Arabia](http://9gag.com/gag/amoOOyv)
  - 😝 [Server malfunction](http://9gag.com/gag/a9y4wD1)
  - 👉 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)<!-- MEMES:END -->
 

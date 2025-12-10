@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 💣 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
  - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 👉 [Bamboozled](http://9gag.com/gag/a5Q9vMN)<!-- MEMES:END -->
+ - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
 
 ---
 

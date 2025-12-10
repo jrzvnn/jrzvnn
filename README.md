@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
  - 😝 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 😝 [He left his home, the mosque, and even the sidewalk, choosing instead to pray in the middle of the street! What would you call this?](http://9gag.com/gag/avyB4WO)
  - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
  - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
  - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->

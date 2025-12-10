@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 😝 [No more bald 9gaggers!](http://9gag.com/gag/aryD9g0)
- - 💣 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)
- - 😝 [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)
- - 👉 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)<!-- MEMES:END -->
+ - 😝 [He left his home, the mosque, and even the sidewalk, choosing instead to pray in the middle of the street! What would you call this?](http://9gag.com/gag/avyB4WO)
+ - 😝 [It&#39;s a trap](http://9gag.com/gag/axyenOD)
+ - 💣 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 😝 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
+ - 👉 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
 
 ---
 

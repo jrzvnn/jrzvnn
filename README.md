@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wedding drinking is all about pacing yourself, don&#39;t peak to early.](http://9gag.com/gag/aYQvvXV)
+ - 😝 [Saudi Arabia](http://9gag.com/gag/amoOOyv)
  - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
  - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
  - 😝 [Server malfunction](http://9gag.com/gag/a9y4wD1)

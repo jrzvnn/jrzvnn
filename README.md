@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The kid-friendly console that outsold Xbox during Black Friday is $50 off](https://www.theverge.com/gadgets/841831/nex-playground-console-deal-holiday-sale)
- - [6 Best Smart Christmas Lights &lpar;2025&rpar;: Twinkly, Govee, Cync](https://www.wired.com/gallery/best-smart-christmas-lights/)
- - [OpenAI’s billion-dollar Disney deal puts Mickey Mouse and Marvel in Sora](https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images)
- - [Stanford researchers develop AI hacking bot Artemis and say it surpassed nine out of 10 penetration testers by rapidly finding bugs in the university&#39;s network &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p23#a251211p23)
- - [Porsche is bringing Apple Car Key support to two 2026 EVs](https://appleinsider.com/articles/25/12/11/porsche-is-bringing-apple-car-key-support-to-two-2026-evs?utm_source=rss)<!-- TECH:END -->
+ - [Over 200,000 power banks sold on Amazon are being recalled for a fire risk](https://www.theverge.com/news/842385/uscpsc-recall-iniu-power-bank-overheat-rire-risk-amazon)
+ - [Apple&#39;s new home accessories leaked via internal code -- Home Hub &amp; smart camera](https://appleinsider.com/articles/25/12/11/apples-new-home-accessories-leaked-via-internal-code----home-hub-smart-camera?utm_source=rss)
+ - [AT&amp;T’s Connected Life Platform Is a Second Try in the Smart-Home Space](https://www.wired.com/story/att-connected-life-platform-launches-nationwide/)
+ - [AT&amp;#038;T’s new home security system is powered by Google Home and Abode](https://www.theverge.com/news/842307/att-connected-life-smart-home-security-google-price)
+ - [Disney sends Google a cease-and-desist, accusing Google of copyright infringement on a &quot;massive scale&quot; and using AI to &quot;exploit and distribute&quot; the content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251211/p24#a251211p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

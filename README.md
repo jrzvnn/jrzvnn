@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US investors are boosting Chinese AI-related tech stocks and adding cash to ETFs tracking China&#39;s tech sector, as US lawmakers push for tighter capital curbs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251211/p3#a251211p3)
- - [Uber discontinues monthly EV bonuses as it scales back key climate efforts after embracing Trump&#39;s Big Beautiful Bill, which slashed clean-energy incentives &lpar;Ben Elgin/Bloomberg&rpar;](http://www.techmeme.com/251211/p2#a251211p2)
- - [AirDoctor Coupon Codes: 40% Off | December 2025](https://www.wired.com/story/airdoctor-coupon-code/)
- - [OnePlus Promo Code: $70 Off | December 2025](https://www.wired.com/story/oneplus-promo-code/)
- - [20% Off LG Promo Code &amp; Coupons | December 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [China&#39;s power grid, the world&#39;s largest, gives it an edge in the global AI contest, helping Chinese companies develop AI models more cheaply than US competitors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251211/p6#a251211p6)
+ - [VC fund a16z crypto says it is expanding to Asia and opening an office in Seoul, calling South Korea the world&#39;s second-largest crypto market &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/251211/p5#a251211p5)
+ - [Uber launches its B2B logistics service Uber Direct in India with ONDC integration, starting in Bengaluru with grocery deliveries for Zepto and KPN Farm Fresh &lpar;The Economic Times&rpar;](http://www.techmeme.com/251211/p4#a251211p4)
+ - [How the Next Big Thing in Carbon Removal Sunk Without a Trace](https://www.wired.com/story/how-the-next-big-thing-in-carbon-removal-sunk-without-a-trace/)
+ - [US investors are boosting Chinese AI-related tech stocks and adding cash to ETFs tracking China&#39;s tech sector, as US lawmakers push for tighter capital curbs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251211/p3#a251211p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

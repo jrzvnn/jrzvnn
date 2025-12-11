@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And fans are furious](http://9gag.com/gag/an703X0)
+ - 😝 [Watching a big plane land.](http://9gag.com/gag/a1m8jM2)
  - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
  - 💣 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
- - 😝 [Aussie kids after today&#39;s social media ban](http://9gag.com/gag/aD2q5MN)
- - 👉 [Well, well, well](http://9gag.com/gag/ajP3v4w)<!-- MEMES:END -->
+ - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
+ - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 
 ---
 

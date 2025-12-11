@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
- - 😝 [Russell Crowe is not a big fan of Gladiator 2](http://9gag.com/gag/a1m8g0R)
- - 💣 [Every time I hear a recording of my voice](http://9gag.com/gag/aE0j5eN)
- - 😝 [Sucker pu\u2026.nope](http://9gag.com/gag/a4PB04y)
- - 👉 [Remember when apps had personality](http://9gag.com/gag/aAyL56Z)<!-- MEMES:END -->
+ - 😝 [Mom pick me up, there is a girl here](http://9gag.com/gag/aW4e503)
+ - 😝 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)
+ - 💣 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 😝 [Living legend just won gold again](http://9gag.com/gag/ayNmw68)
+ - 👉 [Sucker pu\u2026.nope](http://9gag.com/gag/a4PB04y)<!-- MEMES:END -->
 
 ---
 

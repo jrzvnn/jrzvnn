@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
  - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 💣 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
- - 😝 [Sucker pu\u2026.nope](http://9gag.com/gag/a4PB04y)
- - 👉 [Well, well, well](http://9gag.com/gag/ajP3v4w)<!-- MEMES:END -->
+ - 💣 [Well, well, well](http://9gag.com/gag/ajP3v4w)
+ - 😝 [No Problem?](http://9gag.com/gag/ajP3wbx)
+ - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 
 ---
 

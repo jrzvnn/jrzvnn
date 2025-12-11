@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Medra, which programs robots with AI to conduct and improve biological experiments, raised $52M led by Human Capital, taking its total funding to $63M &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/251211/p16#a251211p16)
- - [Best Merino Wool Clothing &lpar;2025&rpar;: Base Layers, Hoodies, Jackets &amp; More](https://www.wired.com/story/best-merino-wool-clothes/)
- - [The EU opens investigations into Temu and airport scanner maker Nuctech to assess whether they unfairly penetrated the EU market thanks to Beijing subsidies &lpar;Francesca Micheletti/Politico&rpar;](http://www.techmeme.com/251211/p15#a251211p15)
- - [Laptops Have Never Been Cheaper. That Trend Might Reverse in 2026](https://www.wired.com/story/laptops-have-never-been-cheaper-that-trend-might-reverse-in-2026/)
- - [Runware, which operates a developer tool platform that generates images, video, and audio in real-time, raised a $50M Series A, taking its total funding to $66M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251211/p14#a251211p14)<!-- TECH:END -->
+ - [Google launches Gemini AI features in Chrome for iPhone and iPad, after debuting on desktop and Android earlier in 2025, starting in the US in English &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/251211/p20#a251211p20)
+ - [Dutch payments group Mollie agrees to acquire London-based fintech GoCardless for €1.5B, set to close in 2026; GoCardless was last valued at $2.1B in early 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/251211/p19#a251211p19)
+ - [Sources: in recent months, Tencent aggressively hired AI researchers from ByteDance, including offering to double their salaries, and reorganized its AI team &lpar;The Information&rpar;](http://www.techmeme.com/251211/p18#a251211p18)
+ - [6 Best Costco TVs That We’ve Tried and Recommend &lpar;2025&rpar;](https://www.wired.com/gallery/best-costco-tvs/)
+ - [Operation Bluebird Wants to Bring ‘Twitter’ Back to Life](https://www.wired.com/story/operation-bluebird-wants-to-bring-twitter-back-to-life/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

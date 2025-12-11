@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US appeals court upholds a contempt ruling in Epic v. Apple but says Apple can charge commissions on external links, with the rate to be set by a lower court &lpar;Bloomberg&rpar;](http://www.techmeme.com/251211/p44#a251211p44)
  - [AirPods Pro 2 &amp; AirPods Pro 3 get another bug fix firmware update](https://appleinsider.com/articles/25/12/11/airpods-pro-2-airpods-pro-3-get-another-bug-fix-firmware-update?utm_source=rss)
  - [Fortnite is back in Google&amp;#8217;s Android app store](https://www.theverge.com/news/842855/fortnite-android-google-play)
  - [The 45 Best Movies on Hulu, WIRED&#39;s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Fortnite returns to the Google Play Store in the US following a US District Court injunction; Google and Epic announced a settlement last week &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251211/p43#a251211p43)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite returns to the Google Play Store in the US following a US District Court injunction; Google and Epic announced a settlement last week &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251211/p43#a251211p43)
- - [Remember Google Stadia? Steam finally made its gamepad worth rescuing](https://www.theverge.com/games/829631/save-google-stadia-gamepad-steam-deadline)
- - [Bob Iger says the OpenAI deal &quot;does not in any way represent a threat to the creators at all&quot; because it doesn&#39;t include name, likeness, or character voices &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251211/p42#a251211p42)
- - [[Thread] GPT-5.2 is now available in the API, priced at $1.75/1M input and $14/1M output tokens; GPT-5.2 Pro is priced at $21/1M input and $168/1M output tokens &lpar;@openaidevs&rpar;](http://www.techmeme.com/251211/p41#a251211p41)
- - [NY governor signs bills requiring ads to disclose AI-generated performers and mandating consent of heirs to use a deceased person&#39;s likeness commercially &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/251211/p40#a251211p40)<!-- TECH:END -->
+ - [AirPods Pro 2 &amp; AirPods Pro 3 get another bug fix firmware update](https://appleinsider.com/articles/25/12/11/airpods-pro-2-airpods-pro-3-get-another-bug-fix-firmware-update?utm_source=rss)
+ - [Fortnite is back in Google&amp;#8217;s Android app store](https://www.theverge.com/news/842855/fortnite-android-google-play)
+ - [The 45 Best Movies on Hulu, WIRED&#39;s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Fortnite returns to the Google Play Store in the US following a US District Court injunction; Google and Epic announced a settlement last week &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251211/p43#a251211p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

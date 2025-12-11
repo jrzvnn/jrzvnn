@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Server malfunction](http://9gag.com/gag/a9y4wD1)
- - 😝 [Being likable is a skill you gotta master](http://9gag.com/gag/aVv949n)
- - 💣 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 😝 [Its Wednesday my dudes](http://9gag.com/gag/ajP3v0G)
+ - 😝 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
+ - 💣 [Server malfunction](http://9gag.com/gag/a9y4wD1)
+ - 😝 [Dog sledding under the northern lights and a full moon is a dream come true](http://9gag.com/gag/aByb59x)
  - 👉 [The joker kinda got a point](http://9gag.com/gag/aPAVLyP)<!-- MEMES:END -->
 
 ---

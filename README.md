@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
- - 😝 [Every time I hear a recording of my voice](http://9gag.com/gag/aE0j5eN)
- - 💣 [Russell Crowe is not a big fan of Gladiator 2](http://9gag.com/gag/a1m8g0R)
- - 😝 [No Problem?](http://9gag.com/gag/ajP3wbx)
- - 👉 [Aussie kids after today&#39;s social media ban](http://9gag.com/gag/aD2q5MN)<!-- MEMES:END -->
+ - 😝 [Russell Crowe is not a big fan of Gladiator 2](http://9gag.com/gag/a1m8g0R)
+ - 💣 [Every time I hear a recording of my voice](http://9gag.com/gag/aE0j5eN)
+ - 😝 [Sucker pu\u2026.nope](http://9gag.com/gag/a4PB04y)
+ - 👉 [Remember when apps had personality](http://9gag.com/gag/aAyL56Z)<!-- MEMES:END -->
 
 ---
 

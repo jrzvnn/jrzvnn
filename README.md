@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple loses contempt appeal in Epic case](https://www.theverge.com/news/842991/apple-epic-appeal-loses-contempt)
  - [Crypto Magnate Do Kwon Sentenced to 15 Years in Prison](https://www.wired.com/story/do-kwon-terraform-sentenced-prison-crypto-fraud/)
  - [Warnings Mount in Congress Over Expanded US Wiretap Powers](https://www.wired.com/story/warnings-mount-in-congress-over-expanded-us-wiretap-powers/)
  - [A US judge sentences Terraform Labs co-founder Do Kwon to 15 years in prison; Kwon pleaded guilty to conspiracy and wire fraud charges in August &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/251211/p47#a251211p47)
- - [RFK Jr.’s Health Department Is Pondering a National Men’s Health Initiative](https://www.wired.com/story/rfk-jrs-health-department-is-pondering-a-national-mens-health-initiative/)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
+ - [RFK Jr.’s Health Department Is Pondering a National Men’s Health Initiative](https://www.wired.com/story/rfk-jrs-health-department-is-pondering-a-national-mens-health-initiative/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

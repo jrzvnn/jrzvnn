@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The kid-friendly console that outsold Xbox during Black Friday is $50 off](https://www.theverge.com/gadgets/841831/nex-playground-console-deal-holiday-sale)
  - [6 Best Smart Christmas Lights &lpar;2025&rpar;: Twinkly, Govee, Cync](https://www.wired.com/gallery/best-smart-christmas-lights/)
  - [OpenAI’s billion-dollar Disney deal puts Mickey Mouse and Marvel in Sora](https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images)
  - [Stanford researchers develop AI hacking bot Artemis and say it surpassed nine out of 10 penetration testers by rapidly finding bugs in the university&#39;s network &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p23#a251211p23)
- - [Porsche is bringing Apple Car Key support to two 2026 EVs](https://appleinsider.com/articles/25/12/11/porsche-is-bringing-apple-car-key-support-to-two-2026-evs?utm_source=rss)
- - [Disney and OpenAI sign a three-year deal to bring 200+ Disney characters to Sora; Disney makes a $1B investment in OpenAI and becomes a &quot;major&quot; OpenAI client &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p22#a251211p22)<!-- TECH:END -->
+ - [Porsche is bringing Apple Car Key support to two 2026 EVs](https://appleinsider.com/articles/25/12/11/porsche-is-bringing-apple-car-key-support-to-two-2026-evs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

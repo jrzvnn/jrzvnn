@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Disney-OpenAI Deal Redefines the AI Copyright War](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/)
- - [Palantir expands its Percepta lawsuit, accusing its CEO and two co-founders of poaching staff, and another employee of stealing confidential documents &lpar;Victoria Albert/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p29#a251211p29)
- - [Relax, grown-ups: VR is doing fine](https://www.theverge.com/column/842359/vr-teens-gaming)
- - [Lawsuit claims ChatGPT put a ‘target’ on murdered woman](https://www.theverge.com/news/842494/openai-chatgpt-wrongful-death-suzanne-adams-delusions)
- - [Worktrace AI, founded by ex-OpenAI product lead Angela Jiang and researcher Deepak Vasisht, launches with a $9.3M seed, and unveils a workflow automation agent &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251211/p28#a251211p28)<!-- TECH:END -->
+ - [Runway launches GWM-1, its first world model, which uses frame-by-frame prediction to simulate physics, and updates Gen 4.5 to add native audio and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/251211/p31#a251211p31)
+ - [Rivian is building its own powerful AI chips for autonomous driving](https://www.theverge.com/news/842213/rivian-ai-autonomous-chip-specs)
+ - [The AirPods Pro 3 just dropped below $200 for the first time](https://www.theverge.com/gadgets/842551/apple-airpods-pro-3-wireless-earbuds-deal-sale-2025)
+ - [Supergirl’s first trailer introduces the Woman of Tomorrow](https://www.theverge.com/entertainment/842392/supergirl-trailer-warner-bros-dc-studios-james-gunn-release-date)
+ - [Disney accuses Google of ‘massive’ copyright infringement following deal with OpenAI](https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

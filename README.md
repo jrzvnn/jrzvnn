@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 😝 [And fans are furious](http://9gag.com/gag/an703X0)
  - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 💣 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
+ - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
  - 😝 [Living legend just won gold again](http://9gag.com/gag/ayNmw68)
  - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 

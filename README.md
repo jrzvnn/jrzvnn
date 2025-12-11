@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [Appeals court amends order to let Apple resume third-party commissions](https://appleinsider.com/articles/25/12/11/appeals-court-amends-order-to-let-apple-resume-third-party-commissions?utm_source=rss)
  - [New York&amp;#8217;s new law forces advertisers to say when they&amp;#8217;re using AI avatars](https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor)
  - [Broadcom reports Q4 revenue up 28% YoY to $18.02B, vs. $17.49B est., and forecasts Q1 revenue above estimates, with AI chip sales doubling to $8.2B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251211/p46#a251211p46)
- - [Sources: the NY governor proposes a rewrite of the RAISE Act, the AI bill that recently passed NY legislature, with text copied verbatim from California&#39;s SB 53 &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/251211/p45#a251211p45)
- - [Hackers posed as law enforcement to gain private Apple Account data](https://appleinsider.com/articles/25/12/11/hackers-posed-as-law-enforcement-to-gain-private-apple-account-data?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the NY governor proposes a rewrite of the RAISE Act, the AI bill that recently passed NY legislature, with text copied verbatim from California&#39;s SB 53 &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/251211/p45#a251211p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

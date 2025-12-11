@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 😝 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
- - 💣 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 😝 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)
- - 👉 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)<!-- MEMES:END -->
+ - 😝 [Russell Crowe is not a big fan of Gladiator 2](http://9gag.com/gag/a1m8g0R)
+ - 😝 [Microsoft and its little lies](http://9gag.com/gag/aE0j5Xo)
+ - 💣 [Remember when apps had personality](http://9gag.com/gag/aAyL56Z)
+ - 😝 [Didn\u2019t know this was possible.](http://9gag.com/gag/a6ZeRbm)
+ - 👉 [Aussie kids after today&#39;s social media ban](http://9gag.com/gag/aD2q5MN)<!-- MEMES:END -->
 
 ---
 

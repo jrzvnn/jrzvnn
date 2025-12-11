@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 💣 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)
- - 😝 [Russell Crowe is not a big fan of Gladiator 2](http://9gag.com/gag/a1m8g0R)
- - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
+ - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
+ - 😝 [Wedding drinking is all about pacing yourself, don&#39;t peak to early.](http://9gag.com/gag/aYQvvXV)
+ - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - 😝 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)
+ - 👉 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
 
 ---
 

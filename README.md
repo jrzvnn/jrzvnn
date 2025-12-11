@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The joker kinda got a point](http://9gag.com/gag/aPAVLyP)
  - 😝 [The failure of an officer trying to make it.](http://9gag.com/gag/ayNmAjV)
- - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 💣 [Everything is going to be fine.](http://9gag.com/gag/ajP3j4g)
- - 😝 [Dog sledding under the northern lights and a full moon is a dream come true](http://9gag.com/gag/aByb59x)
- - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
+ - 💣 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
+ - 😝 [Everything is going to be fine.](http://9gag.com/gag/ajP3j4g)
+ - 👉 [Dog sledding under the northern lights and a full moon is a dream come true](http://9gag.com/gag/aByb59x)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI faces a wrongful death lawsuit from the estate of an 83-year-old woman killed by her son who had engaged in delusion-filled conversations with ChatGPT &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p11#a251211p11)
  - [An Ai2 research scientist argues that AGI, as commonly conceived, will not emerge because it ignores, among other things, the physical realities of computation &lpar;Tim Dettmers&rpar;](http://www.techmeme.com/251211/p10#a251211p10)
  - [Ayaneo’s first Android phone looks like a return of the Xperia Play](https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play)
  - [After Months of Testing Smart Rings, This Is the Only One I Think You Should Buy](https://www.cnet.com/health/fitness/best-smart-ring/#ftag=CAD590a51e)
- - [The 6 Best Parent Tech Devices We Swear By for Raising Kids](https://www.cnet.com/health/parenting/best-parent-tech-devices-raising-kids/#ftag=CAD590a51e)
- - [Q&amp;A with investor Gavin Baker of Atreides Management on the economics of AI, data centers in space, mistakes SaaS companies are making in adopting AI, and more &lpar;Patrick O&#39;Shaughnessy/Invest Like The Best on YouTube&rpar;](http://www.techmeme.com/251211/p9#a251211p9)<!-- TECH:END -->
+ - [The 6 Best Parent Tech Devices We Swear By for Raising Kids](https://www.cnet.com/health/parenting/best-parent-tech-devices-raising-kids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

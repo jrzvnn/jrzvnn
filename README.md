@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Runware, which operates a developer tool platform that generates images, video, and audio in real-time, raised a $50M Series A, taking its total funding to $66M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251211/p14#a251211p14)
  - [Israeli startup Port, which offers a proprietary developer portal competitor to Spotify&#39;s open-source Backstage, raised a $100M Series C at an $800M valuation &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251211/p13#a251211p13)
  - [Adobe sees a bright future as AI bet pays off](https://www.theverge.com/news/842256/adobe-2025-earnings-ai-growth)
  - [Harness, which uses AI to automate code testing, verification, security, and governance, raised a $240M Series E led by Goldman Sachs at a $5.5B valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251211/p12#a251211p12)
- - [OpenAI faces a wrongful death lawsuit from the estate of an 83-year-old woman killed by her son who had engaged in delusion-filled conversations with ChatGPT &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p11#a251211p11)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 11 #648](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-11-648/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI faces a wrongful death lawsuit from the estate of an 83-year-old woman killed by her son who had engaged in delusion-filled conversations with ChatGPT &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p11#a251211p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

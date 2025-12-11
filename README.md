@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind launches an enhanced Gemini Deep Research agent accessible to developers via its new Interactions API, along with a new DeepSearchQA benchmark &lpar;The Keyword&rpar;](http://www.techmeme.com/251211/p33#a251211p33)
+ - [Rivian says it is building its own 5nm AI chip called the Rivian Autonomy Processor and a foundational &quot;Large Driving Model&quot;, to enable fully autonomous driving &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251211/p32#a251211p32)
+ - [Mamoru Hosoda explains why Hamlet is everywhere this year](https://www.theverge.com/entertainment/842346/mamoru-hosoda-interview-scarlet)
  - [Runway launches GWM-1, its first world model, which uses frame-by-frame prediction to simulate physics, and updates Gen 4.5 to add native audio and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/251211/p31#a251211p31)
- - [Rivian is building its own powerful AI chips for autonomous driving](https://www.theverge.com/news/842213/rivian-ai-autonomous-chip-specs)
- - [The AirPods Pro 3 just dropped below $200 for the first time](https://www.theverge.com/gadgets/842551/apple-airpods-pro-3-wireless-earbuds-deal-sale-2025)
- - [Supergirl’s first trailer introduces the Woman of Tomorrow](https://www.theverge.com/entertainment/842392/supergirl-trailer-warner-bros-dc-studios-james-gunn-release-date)
- - [Disney accuses Google of ‘massive’ copyright infringement following deal with OpenAI](https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist)<!-- TECH:END -->
+ - [Rivian is building its own powerful AI chips for autonomous driving](https://www.theverge.com/news/842213/rivian-ai-autonomous-chip-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

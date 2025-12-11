@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study: 15 TikTok accounts posting AI videos of sexualized underage girls have nearly 300K followers and 2M+ likes; TikTok says 14 accounts don&#39;t violate rules &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/251211/p21#a251211p21)
+ - [Latest macOS malware uses trusted search &amp; AI to dupe users](https://appleinsider.com/articles/25/12/11/latest-macos-malware-uses-trusted-search-ai-to-dupe-users?utm_source=rss)
+ - [More leaked code suggests 120Hz ProMotion for Studio Display 2](https://appleinsider.com/articles/25/12/11/more-leaked-code-suggests-120hz-promotion-for-studio-display-2?utm_source=rss)
  - [Google launches Gemini AI features in Chrome for iPhone and iPad, after debuting on desktop and Android earlier in 2025, starting in the US in English &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/251211/p20#a251211p20)
- - [Dutch payments group Mollie agrees to acquire London-based fintech GoCardless for €1.5B, set to close in 2026; GoCardless was last valued at $2.1B in early 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/251211/p19#a251211p19)
- - [Sources: in recent months, Tencent aggressively hired AI researchers from ByteDance, including offering to double their salaries, and reorganized its AI team &lpar;The Information&rpar;](http://www.techmeme.com/251211/p18#a251211p18)
- - [6 Best Costco TVs That We’ve Tried and Recommend &lpar;2025&rpar;](https://www.wired.com/gallery/best-costco-tvs/)
- - [Operation Bluebird Wants to Bring ‘Twitter’ Back to Life](https://www.wired.com/story/operation-bluebird-wants-to-bring-twitter-back-to-life/)<!-- TECH:END -->
+ - [Dutch payments group Mollie agrees to acquire London-based fintech GoCardless for €1.5B, set to close in 2026; GoCardless was last valued at $2.1B in early 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/251211/p19#a251211p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 😝 [The failure of an officer trying to make it.](http://9gag.com/gag/ayNmAjV)
  - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
+ - 💣 [Everything is going to be fine.](http://9gag.com/gag/ajP3j4g)
+ - 😝 [Dog sledding under the northern lights and a full moon is a dream come true](http://9gag.com/gag/aByb59x)
+ - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 
 ---
 

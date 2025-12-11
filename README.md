@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shares of JD.com&#39;s JingDong Industrials, a supply chain tech and services provider, opened down 7.8% after the company raised ~$383M in its Hong Kong IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p1#a251211p1)
  - [Operation Bluebird, a Virginia-based startup, has petitioned the USPTO to acquire the &quot;abandoned&quot; Twitter trademark and launch its own social network &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/251210/p69#a251210p69)
  - [Attorneys general urge Apple and other tech giants to curb harmful AI outputs](https://appleinsider.com/articles/25/12/11/attorneys-general-urge-apple-and-other-tech-giants-to-curb-harmful-ai-outputs?utm_source=rss)
  - [A Microsoft analysis of 37.5M Copilot conversations from January-September 2025 finds health-related topics dominated users&#39; questions, and more &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/251210/p68#a251210p68)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-11/#ftag=CAD590a51e)
- - [Google DeepMind plans to open its &quot;first automated science laboratory&quot; in the UK in 2026, focused on using AI tools to develop new materials for chips and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/251210/p67#a251210p67)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

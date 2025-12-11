@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 😝 [I wonder how many people know this](http://9gag.com/gag/ayNmrZp)
+ - 😝 [Mom pick me up, there is a girl here](http://9gag.com/gag/aW4e503)
  - 💣 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
- - 😝 [Every time I hear a recording of my voice](http://9gag.com/gag/aE0j5eN)
+ - 😝 [Good Doggo](http://9gag.com/gag/a6ZeRN2)
  - 👉 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)<!-- MEMES:END -->
 
 ---

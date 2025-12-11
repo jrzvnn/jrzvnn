@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The joker kinda got a point](http://9gag.com/gag/aPAVLyP)
- - 😝 [The failure of an officer trying to make it.](http://9gag.com/gag/ayNmAjV)
- - 💣 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 😝 [Everything is going to be fine.](http://9gag.com/gag/ajP3j4g)
- - 👉 [Dog sledding under the northern lights and a full moon is a dream come true](http://9gag.com/gag/aByb59x)<!-- MEMES:END -->
+ - 😝 [Watching a big plane land.](http://9gag.com/gag/a1m8jM2)
+ - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 💣 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
+ - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
+ - 👉 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)<!-- MEMES:END -->
 
 ---
 

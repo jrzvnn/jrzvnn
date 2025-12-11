@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 😝 [And fans are furious](http://9gag.com/gag/an703X0)
- - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 😝 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
- - 👉 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)<!-- MEMES:END -->
+ - 😝 [Server malfunction](http://9gag.com/gag/a9y4wD1)
+ - 😝 [Being likable is a skill you gotta master](http://9gag.com/gag/aVv949n)
+ - 💣 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 👉 [The joker kinda got a point](http://9gag.com/gag/aPAVLyP)<!-- MEMES:END -->
 
 ---
 

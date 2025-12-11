@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York&amp;#8217;s new law forces advertisers to say when they&amp;#8217;re using AI avatars](https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor)
+ - [Broadcom reports Q4 revenue up 28% YoY to $18.02B, vs. $17.49B est., and forecasts Q1 revenue above estimates, with AI chip sales doubling to $8.2B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251211/p46#a251211p46)
+ - [Sources: the NY governor proposes a rewrite of the RAISE Act, the AI bill that recently passed NY legislature, with text copied verbatim from California&#39;s SB 53 &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/251211/p45#a251211p45)
  - [Hackers posed as law enforcement to gain private Apple Account data](https://appleinsider.com/articles/25/12/11/hackers-posed-as-law-enforcement-to-gain-private-apple-account-data?utm_source=rss)
- - [A US appeals court upholds a contempt ruling in Epic v. Apple but says Apple can charge commissions on external links, with the rate to be set by a lower court &lpar;Bloomberg&rpar;](http://www.techmeme.com/251211/p44#a251211p44)
- - [AirPods Pro 2 &amp; AirPods Pro 3 get another bug fix firmware update](https://appleinsider.com/articles/25/12/11/airpods-pro-2-airpods-pro-3-get-another-bug-fix-firmware-update?utm_source=rss)
- - [Fortnite is back in Google&amp;#8217;s Android app store](https://www.theverge.com/news/842855/fortnite-android-google-play)
- - [The 45 Best Movies on Hulu, WIRED&#39;s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
+ - [A US appeals court upholds a contempt ruling in Epic v. Apple but says Apple can charge commissions on external links, with the rate to be set by a lower court &lpar;Bloomberg&rpar;](http://www.techmeme.com/251211/p44#a251211p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

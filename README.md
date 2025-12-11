@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag 2 to get improved tracking in crowds and while moving](https://appleinsider.com/articles/25/12/11/airtag-2-to-get-improved-tracking-in-crowds-and-while-moving?utm_source=rss)
- - [Google is building an experimental new browser and a new kind of web app](https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment)
- - [ChatGPT&amp;#8217;s ‘adult mode’ is expected to debut in Q1 2026](https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026)
- - [How Taiwan Made Cashless Payments Cute](https://www.wired.com/story/icash-taiwan-payments-keychains-how-it-works/)
- - [OpenAI launches GPT-5.2, its &quot;best model yet,&quot; in Instant, Thinking, and Pro variants, with significant improvements in writing, coding, and reasoning &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251211/p34#a251211p34)<!-- TECH:END -->
+ - [OpenAI says GPT‑5.2 Thinking beats or ties industry professionals on 70.9% of GDPval knowledge work tasks, delivering outputs at &gt;11x the speed and &lt;1% the cost &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p39#a251211p39)
+ - [Time names &quot;the Architects of AI&quot; as its 2025 Person of the Year and takes a look at AI&#39;s effect on the economy, geopolitics, and how we interact with the world &lpar;Time&rpar;](http://www.techmeme.com/251211/p38#a251211p38)
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
+ - [The foldable market is betting on Apple to rescue a struggling category](https://appleinsider.com/articles/25/12/11/the-foldable-market-is-betting-on-apple-to-rescue-a-struggling-category?utm_source=rss)
+ - [OpenAI&#39;s Fidji Simo says ChatGPT&#39;s &quot;adult mode&quot; is expected to launch in Q1 2026, says OpenAI wants to get better at age prediction before launching the feature &lpar;The Verge&rpar;](http://www.techmeme.com/251211/p37#a251211p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ayaneo’s first Android phone looks like a return of the Xperia Play](https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play)
+ - [After Months of Testing Smart Rings, This Is the Only One I Think You Should Buy](https://www.cnet.com/health/fitness/best-smart-ring/#ftag=CAD590a51e)
+ - [The 6 Best Parent Tech Devices We Swear By for Raising Kids](https://www.cnet.com/health/parenting/best-parent-tech-devices-raising-kids/#ftag=CAD590a51e)
  - [Q&amp;A with investor Gavin Baker of Atreides Management on the economics of AI, data centers in space, mistakes SaaS companies are making in adopting AI, and more &lpar;Patrick O&#39;Shaughnessy/Invest Like The Best on YouTube&rpar;](http://www.techmeme.com/251211/p9#a251211p9)
- - [Unacademy CEO Gaurav Munjal says the Indian edtech startup&#39;s valuation has fallen from its $3.5B peak three years ago to less than $500M, and confirms M&amp;A talks &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251211/p8#a251211p8)
- - [A look at Model Context Protocol and how it went from a passion project made by Anthropic employees to an industry standard shared through the Linux Foundation &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251211/p7#a251211p7)
- - [China&#39;s power grid, the world&#39;s largest, gives it an edge in the global AI contest, helping Chinese companies develop AI models more cheaply than US competitors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251211/p6#a251211p6)
- - [VC fund a16z crypto says it is expanding to Asia and opening an office in Seoul, calling South Korea the world&#39;s second-largest crypto market &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/251211/p5#a251211p5)<!-- TECH:END -->
+ - [Unacademy CEO Gaurav Munjal says the Indian edtech startup&#39;s valuation has fallen from its $3.5B peak three years ago to less than $500M, and confirms M&amp;A talks &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251211/p8#a251211p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

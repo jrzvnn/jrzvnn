@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom pick me up, there is a girl here](http://9gag.com/gag/aW4e503)
- - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 💣 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
+ - 😝 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
+ - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
+ - 💣 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)
  - 😝 [Good Doggo](http://9gag.com/gag/a6ZeRN2)
- - 👉 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)<!-- MEMES:END -->
+ - 👉 [I mean ...](http://9gag.com/gag/awy9jd1)<!-- MEMES:END -->
 
 ---
 

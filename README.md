@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 😝 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
+ - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
  - 💣 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
- - 😝 [Tumblr being tumblr](http://9gag.com/gag/a1m8jyw)
- - 👉 [Well, well, well](http://9gag.com/gag/ajP3v4w)<!-- MEMES:END -->
+ - 😝 [Living legend just won gold again](http://9gag.com/gag/ayNmw68)
+ - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 
 ---
 

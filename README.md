@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 💣 [Saudi Arabia](http://9gag.com/gag/amoOOyv)
- - 😝 [Server malfunction](http://9gag.com/gag/a9y4wD1)
- - 👉 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)<!-- MEMES:END -->
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
+ - 💣 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)
+ - 😝 [Russell Crowe is not a big fan of Gladiator 2](http://9gag.com/gag/a1m8g0R)
+ - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
 
 ---
 

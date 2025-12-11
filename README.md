@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Frieda McFadden&#39;s psychological thriller &#39;The Teacher&#39; comes to Apple TV](https://appleinsider.com/articles/25/12/11/frieda-mcfaddens-psychological-thriller-the-teacher-comes-to-apple-tv?utm_source=rss)
- - [New White House guidance says AI models procured by federal agencies must have &quot;unbiased AI principles&quot; and ensure &quot;truth-seeking&quot; and &quot;ideological neutrality&quot; &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/251211/p48#a251211p48)
+ - [New US OMB guidance states that LLMs procured by federal agencies must comply with two &quot;unbiased AI principles&quot;: &quot;truth-seeking&quot; and &quot;ideological neutrality&quot; &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/251211/p48#a251211p48)
  - [Disney wants to drag you into the slop](https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership)
  - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Google brings Gemini’s Chrome integration to iPhone and iPad](https://www.theverge.com/news/842987/google-gemini-chrome-ios)<!-- TECH:END -->

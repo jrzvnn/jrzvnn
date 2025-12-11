@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its Wednesday my dudes](http://9gag.com/gag/ajP3v0G)
- - 😝 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
- - 💣 [Server malfunction](http://9gag.com/gag/a9y4wD1)
+ - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 😝 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
+ - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
  - 😝 [Dog sledding under the northern lights and a full moon is a dream come true](http://9gag.com/gag/aByb59x)
- - 👉 [The joker kinda got a point](http://9gag.com/gag/aPAVLyP)<!-- MEMES:END -->
+ - 👉 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)<!-- MEMES:END -->
 
 ---
 

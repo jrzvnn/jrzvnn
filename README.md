@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The joker kinda got a point](http://9gag.com/gag/aPAVLyP)
- - 😝 [The failure of an officer trying to make it.](http://9gag.com/gag/ayNmAjV)
- - 💣 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 😝 [Everything is going to be fine.](http://9gag.com/gag/ajP3j4g)
- - 👉 [Who needs fire safety when you have christmas spirit](http://9gag.com/gag/aBybz7D)<!-- MEMES:END -->
+ - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
+ - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
+ - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
+ - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
 
 ---
 

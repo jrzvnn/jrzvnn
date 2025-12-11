@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of JD.com&#39;s JingDong Industrials, a supply chain tech and services provider, opened down 7.8% after the company raised ~$383M in its Hong Kong IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p1#a251211p1)
- - [Operation Bluebird, a Virginia-based startup planning a &quot;Twitter.new&quot; social network, has petitioned the USPTO to cancel X Corp.&#39;s &quot;abandoned&quot; trademarks &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/251210/p69#a251210p69)
- - [Attorneys general urge Apple and other tech giants to curb harmful AI outputs](https://appleinsider.com/articles/25/12/11/attorneys-general-urge-apple-and-other-tech-giants-to-curb-harmful-ai-outputs?utm_source=rss)
- - [A Microsoft analysis of 37.5M Copilot conversations from January-September 2025 finds health-related topics dominated users&#39; questions, and more &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/251210/p68#a251210p68)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US investors are boosting Chinese AI-related tech stocks and adding cash to ETFs tracking China&#39;s tech sector, as US lawmakers push for tighter capital curbs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251211/p3#a251211p3)
+ - [Uber discontinues monthly EV bonuses as it scales back key climate efforts after embracing Trump&#39;s Big Beautiful Bill, which slashed clean-energy incentives &lpar;Ben Elgin/Bloomberg&rpar;](http://www.techmeme.com/251211/p2#a251211p2)
+ - [AirDoctor Coupon Codes: 40% Off | December 2025](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [OnePlus Promo Code: $70 Off | December 2025](https://www.wired.com/story/oneplus-promo-code/)
+ - [20% Off LG Promo Code &amp; Coupons | December 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

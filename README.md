@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify will begin testing a feature that lets a user write a prompt for a playlist and receive a unique set of songs based on the user&#39;s earlier behavior &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251210/p61#a251210p61)
- - [Donald Trump reminds the entire world he has no idea what 6G means](https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g)
- - [Trump could introduce ‘mandatory’ social media reviews for travelers](https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers)
- - [Internal memo: Google is naming Amin Vahdat, who leads the company&#39;s AI and infrastructure team, to the new role of chief technologist for AI infrastructure &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/251210/p60#a251210p60)
- - [Amazon now offers same-day perishable grocery delivery in 2,300+ US markets and has expanded the service&#39;s grocery offerings by 30%+ since its August launch &lpar;Peyton Bigora/Grocery Dive&rpar;](http://www.techmeme.com/251210/p59#a251210p59)<!-- TECH:END -->
+ - [Sources: the US is working on a settlement that could see ZTE pay $1B+ over alleged foreign bribery from 2018 and earlier; a deal would require China&#39;s approval &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p66#a251210p66)
+ - [Sei partners with Xiaomi to pre-install its crypto wallet and discovery app on all new Xiaomi phones sold outside mainland China and the US, starting in 2026 &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/251210/p65#a251210p65)
+ - [Standalone sports, news, and entertainment packages coming to YouTube TV](https://appleinsider.com/articles/25/12/11/standalone-sports-news-and-entertainment-packages-coming-to-youtube-tv?utm_source=rss)
+ - [A group of state AGs sent a letter to Meta, Microsoft, Google, Apple, and others warning their chatbots&#39; &quot;delusional outputs&quot; could be violating state laws &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/251210/p64#a251210p64)
+ - [The US CFTC grants crypto exchange Gemini a DCM license, allowing it to launch its prediction markets platform Gemini Titan &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/251210/p63#a251210p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

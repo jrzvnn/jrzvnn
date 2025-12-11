@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LI.FI, which provides businesses with price comparisons of crypto exchange rates and bridging fees, raised $29M, bringing its total funding to ~$52M &lpar;Carlos Garcia/Fortune&rpar;](http://www.techmeme.com/251211/p26#a251211p26)
- - [Sen. Ed Markey wants media companies to fight for the First Amendment](https://www.theverge.com/podcast/842340/trump-ai-tiktok-democracy-carr-first-amendment-ed-markey)
- - [Apple AirPods Pro 3 plunge to $199, the lowest price ever](https://appleinsider.com/articles/25/12/11/apple-airpods-pro-3-plunge-to-199-the-lowest-price-ever?utm_source=rss)
- - [AT&amp;T launches Connected Life, a smart home security system with hardware from Google and Abode, designed to keep working during power or internet outages &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251211/p25#a251211p25)
- - [Over 200,000 power banks sold on Amazon are being recalled for a fire risk](https://www.theverge.com/news/842385/uscpsc-recall-iniu-power-bank-overheat-rire-risk-amazon)<!-- TECH:END -->
+ - [Worktrace AI, founded by ex-OpenAI product lead Angela Jiang and researcher Deepak Vasisht, launches with a $9.3M seed, and unveils a workflow automation agent &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251211/p28#a251211p28)
+ - [State AGs warn Google, Meta, and OpenAI that their chatbots could be breaking the law](https://www.theverge.com/news/842512/google-meta-openai-state-attorneys-general-ai-letter)
+ - [Cursor launches Visual Editor, a vibe-coding product for designers that integrates professional design controls with natural language editing &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251211/p27#a251211p27)
+ - [A pair of Nintendo Switch 2 Joy-Con 2 controllers are $20 off at BJ&amp;#8217;s](https://www.theverge.com/gadgets/842386/nintendo-switch-2-joy-con-2-controller-sonos-era-100-refurb-deal-sale)
+ - [Cursor Launches an AI Coding Tool For Designers](https://www.wired.com/story/cursor-launches-pro-design-tools-figma/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

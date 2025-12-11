@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind launches an enhanced Gemini Deep Research agent accessible to developers via its new Interactions API, along with a new DeepSearchQA benchmark &lpar;The Keyword&rpar;](http://www.techmeme.com/251211/p33#a251211p33)
- - [Rivian says it is building its own 5nm AI chip called the Rivian Autonomy Processor and a foundational &quot;Large Driving Model&quot;, to enable fully autonomous driving &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251211/p32#a251211p32)
- - [Mamoru Hosoda explains why Hamlet is everywhere this year](https://www.theverge.com/entertainment/842346/mamoru-hosoda-interview-scarlet)
- - [Runway launches GWM-1, its first world model, which uses frame-by-frame prediction to simulate physics, and updates Gen 4.5 to add native audio and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/251211/p31#a251211p31)
- - [Rivian is building its own powerful AI chips for autonomous driving](https://www.theverge.com/news/842213/rivian-ai-autonomous-chip-specs)<!-- TECH:END -->
+ - [AirTag 2 to get improved tracking in crowds and while moving](https://appleinsider.com/articles/25/12/11/airtag-2-to-get-improved-tracking-in-crowds-and-while-moving?utm_source=rss)
+ - [Google is building an experimental new browser and a new kind of web app](https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment)
+ - [ChatGPT&amp;#8217;s ‘adult mode’ is expected to debut in Q1 2026](https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026)
+ - [How Taiwan Made Cashless Payments Cute](https://www.wired.com/story/icash-taiwan-payments-keychains-how-it-works/)
+ - [OpenAI launches GPT-5.2, its &quot;best model yet,&quot; in Instant, Thinking, and Pro variants, with significant improvements in writing, coding, and reasoning &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251211/p34#a251211p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

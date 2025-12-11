@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who needs fire safety when you have christmas spirit](http://9gag.com/gag/aBybz7D)
- - 😝 [Microsoft and its little lies](http://9gag.com/gag/aE0j5Xo)
- - 💣 [Good Doggo](http://9gag.com/gag/a6ZeRN2)
- - 😝 [Remember when apps had personality](http://9gag.com/gag/aAyL56Z)
- - 👉 [Aussie kids after today&#39;s social media ban](http://9gag.com/gag/aD2q5MN)<!-- MEMES:END -->
+ - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 😝 [I wonder how many people know this](http://9gag.com/gag/ayNmrZp)
+ - 💣 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
+ - 😝 [Every time I hear a recording of my voice](http://9gag.com/gag/aE0j5eN)
+ - 👉 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)<!-- MEMES:END -->
 
 ---
 

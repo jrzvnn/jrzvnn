@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watching a big plane land.](http://9gag.com/gag/a1m8jM2)
+ - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
  - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 💣 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 👉 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)<!-- MEMES:END -->
+ - 💣 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
+ - 😝 [Sealzilla](http://9gag.com/gag/aE0j5Ve)
+ - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 
 ---
 

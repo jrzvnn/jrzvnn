@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Porsche is bringing Apple Car Key support to two 2026 EVs](https://appleinsider.com/articles/25/12/11/porsche-is-bringing-apple-car-key-support-to-two-2026-evs?utm_source=rss)
+ - [Disney and OpenAI sign a deal to bring 200+ Disney characters to Sora; Disney makes a $1B investment in OpenAI and will become a &quot;major&quot; OpenAI customer &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p22#a251211p22)
+ - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
  - [Study: 15 TikTok accounts posting AI videos of sexualized underage girls have nearly 300K followers and 2M+ likes; TikTok says 14 accounts don&#39;t violate rules &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/251211/p21#a251211p21)
- - [Latest macOS malware uses trusted search &amp; AI to dupe users](https://appleinsider.com/articles/25/12/11/latest-macos-malware-uses-trusted-search-ai-to-dupe-users?utm_source=rss)
- - [More leaked code suggests 120Hz ProMotion for Studio Display 2](https://appleinsider.com/articles/25/12/11/more-leaked-code-suggests-120hz-promotion-for-studio-display-2?utm_source=rss)
- - [Google launches Gemini AI features in Chrome for iPhone and iPad, after debuting on desktop and Android earlier in 2025, starting in the US in English &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/251211/p20#a251211p20)
- - [Dutch payments group Mollie agrees to acquire London-based fintech GoCardless for €1.5B, set to close in 2026; GoCardless was last valued at $2.1B in early 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/251211/p19#a251211p19)<!-- TECH:END -->
+ - [Latest macOS malware uses trusted search &amp; AI to dupe users](https://appleinsider.com/articles/25/12/11/latest-macos-malware-uses-trusted-search-ai-to-dupe-users?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

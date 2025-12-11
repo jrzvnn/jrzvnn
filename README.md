@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 😝 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
- - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 😝 [Dog sledding under the northern lights and a full moon is a dream come true](http://9gag.com/gag/aByb59x)
- - 👉 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)<!-- MEMES:END -->
+ - 😝 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - 💣 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)
+ - 😝 [Russell Crowe is not a big fan of Gladiator 2](http://9gag.com/gag/a1m8g0R)
+ - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 
 ---
 

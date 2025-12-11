@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worktrace AI, founded by ex-OpenAI product lead Angela Jiang and researcher Deepak Vasisht, launches with a $9.3M seed, and unveils a workflow automation agent &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251211/p28#a251211p28)
- - [State AGs warn Google, Meta, and OpenAI that their chatbots could be breaking the law](https://www.theverge.com/news/842512/google-meta-openai-state-attorneys-general-ai-letter)
- - [Cursor launches Visual Editor, a vibe-coding product for designers that integrates professional design controls with natural language editing &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251211/p27#a251211p27)
- - [A pair of Nintendo Switch 2 Joy-Con 2 controllers are $20 off at BJ&amp;#8217;s](https://www.theverge.com/gadgets/842386/nintendo-switch-2-joy-con-2-controller-sonos-era-100-refurb-deal-sale)
- - [Cursor Launches an AI Coding Tool For Designers](https://www.wired.com/story/cursor-launches-pro-design-tools-figma/)<!-- TECH:END -->
+ - [The Disney-OpenAI Deal Redefines the AI Copyright War](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/)
+ - [Palantir expands its Percepta lawsuit, accusing its CEO and two co-founders of poaching staff, and another employee of stealing confidential documents &lpar;Victoria Albert/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p29#a251211p29)
+ - [Relax, grown-ups: VR is doing fine](https://www.theverge.com/column/842359/vr-teens-gaming)
+ - [Lawsuit claims ChatGPT put a ‘target’ on murdered woman](https://www.theverge.com/news/842494/openai-chatgpt-wrongful-death-suzanne-adams-delusions)
+ - [Worktrace AI, founded by ex-OpenAI product lead Angela Jiang and researcher Deepak Vasisht, launches with a $9.3M seed, and unveils a workflow automation agent &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251211/p28#a251211p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

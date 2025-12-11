@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Therapy with Dr Blane](http://9gag.com/gag/aYQvBpO)
- - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 💣 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
- - 😝 [I will not event mention the blinkers](http://9gag.com/gag/avyBqDX)
- - 👉 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)<!-- MEMES:END -->
+ - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 💣 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 😝 [Russell Crowe is not a big fan of Gladiator 2](http://9gag.com/gag/a1m8g0R)
+ - 👉 [And fans are furious](http://9gag.com/gag/an703X0)<!-- MEMES:END -->
 
 ---
 

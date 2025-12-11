@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom pick me up, there is a girl here](http://9gag.com/gag/aW4e503)
- - 😝 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)
+ - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
+ - 😝 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
  - 💣 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 😝 [Living legend just won gold again](http://9gag.com/gag/ayNmw68)
- - 👉 [Sucker pu\u2026.nope](http://9gag.com/gag/a4PB04y)<!-- MEMES:END -->
+ - 😝 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)
+ - 👉 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)<!-- MEMES:END -->
 
 ---
 

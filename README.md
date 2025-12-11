@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind plans to open its &quot;first automated science laboratory&quot; in the UK in 2026, focused on using AI tools to develop new materials for chips and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/251210/p67#a251210p67)
  - [Sources: the US is working on a settlement that could see ZTE pay $1B+ over alleged foreign bribery from 2018 and earlier; a deal would require China&#39;s approval &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p66#a251210p66)
+ - [Give the Gift of Convenience With the Best Smart-Home Gifts for 2025](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)
  - [Sei partners with Xiaomi to pre-install its crypto wallet and discovery app on all new Xiaomi phones sold outside mainland China and the US, starting in 2026 &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/251210/p65#a251210p65)
- - [Standalone sports, news, and entertainment packages coming to YouTube TV](https://appleinsider.com/articles/25/12/11/standalone-sports-news-and-entertainment-packages-coming-to-youtube-tv?utm_source=rss)
- - [A group of state AGs sent a letter to Meta, Microsoft, Google, Apple, and others warning their chatbots&#39; &quot;delusional outputs&quot; could be violating state laws &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/251210/p64#a251210p64)
- - [The US CFTC grants crypto exchange Gemini a DCM license, allowing it to launch its prediction markets platform Gemini Titan &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/251210/p63#a251210p63)<!-- TECH:END -->
+ - [Is This the Moment? Scientists Detect a Signal That Might Be Dark Matter](https://www.cnet.com/science/space/the-invisible-becomes-visible-scientists-may-have-finally-seen-dark-matter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

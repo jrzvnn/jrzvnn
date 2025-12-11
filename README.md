@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LI.FI, which provides businesses with price comparisons of crypto exchange rates and bridging fees, raised $29M, bringing its total funding to ~$52M &lpar;Carlos Garcia/Fortune&rpar;](http://www.techmeme.com/251211/p26#a251211p26)
  - [Sen. Ed Markey wants media companies to fight for the First Amendment](https://www.theverge.com/podcast/842340/trump-ai-tiktok-democracy-carr-first-amendment-ed-markey)
  - [Apple AirPods Pro 3 plunge to $199, the lowest price ever](https://appleinsider.com/articles/25/12/11/apple-airpods-pro-3-plunge-to-199-the-lowest-price-ever?utm_source=rss)
  - [AT&amp;T launches Connected Life, a smart home security system with hardware from Google and Abode, designed to keep working during power or internet outages &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251211/p25#a251211p25)
- - [Over 200,000 power banks sold on Amazon are being recalled for a fire risk](https://www.theverge.com/news/842385/uscpsc-recall-iniu-power-bank-overheat-rire-risk-amazon)
- - [Apple&#39;s new home accessories leaked via internal code -- Home Hub &amp; smart camera](https://appleinsider.com/articles/25/12/11/apples-new-home-accessories-leaked-via-internal-code----home-hub-smart-camera?utm_source=rss)<!-- TECH:END -->
+ - [Over 200,000 power banks sold on Amazon are being recalled for a fire risk](https://www.theverge.com/news/842385/uscpsc-recall-iniu-power-bank-overheat-rire-risk-amazon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

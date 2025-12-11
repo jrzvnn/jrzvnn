@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google brings Gemini’s Chrome integration to iPhone and iPad](https://www.theverge.com/news/842987/google-gemini-chrome-ios)
- - [Tim Cook’s lobbying hangs over a key kids online safety vote](https://www.theverge.com/policy/842993/kids-online-safety-markup-energy-commerce-tim-cook-apple)
- - [Amazon Prime Video pulls AI-powered recaps after Fallout flub](https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap)
- - [Apple loses contempt appeal in Epic case](https://www.theverge.com/news/842991/apple-epic-appeal-loses-contempt)
- - [Best Wireless Bluetooth Boom Boxes for 2025](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Frieda McFadden&#39;s psychological thriller &#39;The Teacher&#39; comes to Apple TV](https://appleinsider.com/articles/25/12/11/frieda-mcfaddens-psychological-thriller-the-teacher-comes-to-apple-tv?utm_source=rss)
+ - [New White House guidance says AI models procured by federal agencies must have &quot;unbiased AI principles&quot; and ensure &quot;truth-seeking&quot; and &quot;ideological neutrality&quot; &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/251211/p48#a251211p48)
+ - [Disney wants to drag you into the slop](https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership)
+ - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Google brings Gemini’s Chrome integration to iPhone and iPad](https://www.theverge.com/news/842987/google-gemini-chrome-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

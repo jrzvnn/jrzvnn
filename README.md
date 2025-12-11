@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And fans are furious](http://9gag.com/gag/an703X0)
- - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 😝 [Living legend just won gold again](http://9gag.com/gag/ayNmw68)
- - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
+ - 😝 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
+ - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 💣 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
+ - 😝 [Sucker pu\u2026.nope](http://9gag.com/gag/a4PB04y)
+ - 👉 [Well, well, well](http://9gag.com/gag/ajP3v4w)<!-- MEMES:END -->
 
 ---
 

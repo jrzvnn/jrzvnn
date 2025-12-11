@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Runware, which operates a developer tool platform that generates images, video, and audio in real-time, raised a $50M Series A, taking its total funding to $66M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251211/p14#a251211p14)
- - [Israeli startup Port, which offers a proprietary developer portal competitor to Spotify&#39;s open-source Backstage, raised a $100M Series C at an $800M valuation &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251211/p13#a251211p13)
- - [Adobe sees a bright future as AI bet pays off](https://www.theverge.com/news/842256/adobe-2025-earnings-ai-growth)
- - [Harness, which uses AI to automate code testing, verification, security, and governance, raised a $240M Series E led by Goldman Sachs at a $5.5B valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251211/p12#a251211p12)
- - [OpenAI faces a wrongful death lawsuit from the estate of an 83-year-old woman killed by her son who had engaged in delusion-filled conversations with ChatGPT &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p11#a251211p11)<!-- TECH:END -->
+ - [Medra, which programs robots with AI to conduct and improve biological experiments, raised $52M led by Human Capital, taking its total funding to $63M &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/251211/p16#a251211p16)
+ - [Best Merino Wool Clothing &lpar;2025&rpar;: Base Layers, Hoodies, Jackets &amp; More](https://www.wired.com/story/best-merino-wool-clothes/)
+ - [The EU opens investigations into Temu and airport scanner maker Nuctech to assess whether they unfairly penetrated the EU market thanks to Beijing subsidies &lpar;Francesca Micheletti/Politico&rpar;](http://www.techmeme.com/251211/p15#a251211p15)
+ - [Laptops Have Never Been Cheaper. That Trend Might Reverse in 2026](https://www.wired.com/story/laptops-have-never-been-cheaper-that-trend-might-reverse-in-2026/)
+ - [Runware, which operates a developer tool platform that generates images, video, and audio in real-time, raised a $50M Series A, taking its total funding to $66M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251211/p14#a251211p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

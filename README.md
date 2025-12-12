@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-12/#ftag=CAD590a51e)
+ - [The 13 Best Trailers of the Game Awards 2025: Resident Evil Requiem, Lara Croft, Control 2 and more](https://www.cnet.com/tech/gaming/the-13-best-trailers-of-the-game-awards-2025-resident-evil-requiem-lara-croft-control-2-and-more/#ftag=CAD590a51e)
+ - [Ace Combat 8: Wings of Theve Brings the Jet Fighting Franchise Back in 2026](https://www.cnet.com/tech/gaming/ace-combat-8-wings-of-theve-brings-the-jet-fighting-franchise-back-in-2026/#ftag=CAD590a51e)
  - [Tim Sweeney: the Ninth Circuit&#39;s decision on Epic v. Apple contempt ruling appeal &quot;completely shuts down&quot; App Store rules allowing Apple to collect &quot;junk fees&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251211/p56#a251211p56)
- - [Reddit files a lawsuit against Australia over its social media ban for under-16s, saying the ban &quot;infringes the implied freedom of political communication&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p55#a251211p55)
- - [In his EO, Trump orders US AG Pam Bondi to create an &quot;AI Litigation Task Force&quot; that meets regularly with David Sacks to challenge &quot;inconsistent&quot; state AI laws &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/251211/p54#a251211p54)
- - [Tomb Raider Returns With Catalyst and Legacy of Atlantis](https://www.cnet.com/tech/gaming/tomb-raider-returns-with-catalyst-and-legacy-of-atlantis/#ftag=CAD590a51e)
- - [Tomb Raider announces two new games](https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis)<!-- TECH:END -->
+ - [Reddit files a lawsuit against Australia over its social media ban for under-16s, saying the ban &quot;infringes the implied freedom of political communication&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p55#a251211p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

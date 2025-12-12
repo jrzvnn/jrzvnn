@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia tells its Chinese clients that it is considering adding production capacity for its H200 chips in response to robust demand &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p9#a251212p9)
+ - [Switzerland launches a preliminary investigation into whether Apple&#39;s terms for granting third-party access to NFC tech on iPhones violate its antitrust laws &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/251212/p10#a251212p10)
  - [Inside FileMaker Pro -- the massive hit few realize is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)
+ - [Sources: Nvidia tells its Chinese clients that it is considering adding production capacity for its H200 chips in response to robust demand &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p9#a251212p9)
  - [This Tetris-playing watch struggles with the one thing it should be great at](https://www.theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on)
- - [Switzerland opens antitrust probe over iPhone NFC access](https://appleinsider.com/articles/25/12/12/switzerland-opens-antitrust-probe-over-iphone-nfc-access?utm_source=rss)
- - [TechInsights: Huawei&#39;s Kirin 9030 processor, used in its Mate 80 Pro Max phone, is China&#39;s most advanced chip to date and produced with SMIC&#39;s updated 7nm tech &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251212/p8#a251212p8)<!-- TECH:END -->
+ - [Switzerland opens antitrust probe over iPhone NFC access](https://appleinsider.com/articles/25/12/12/switzerland-opens-antitrust-probe-over-iphone-nfc-access?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

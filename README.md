@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [Shares of data center real estate company Fermi closed down 34% after a tenant terminated a $150M agreement to help fund an AI campus in West Texas &lpar;Financial Times&rpar;](http://www.techmeme.com/251212/p30#a251212p30)
  - [TP-Link Deco BE14000 review: more capable whole-home tri-band mesh Wi-Fi 7](https://appleinsider.com/articles/25/12/12/tp-link-deco-be14000-review-more-capable-whole-home-tri-band-mesh-wi-fi-7?utm_source=rss)
  - [Tether submits an all-cash offer to acquire a 65.4% stake in Italian soccer club Juventus, says it will invest €1B in the club if the acquisition is completed &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p29#a251212p29)
- - [Parents call for New York governor to sign landmark AI safety bill](https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill)
- - [Source: OpenEvidence, which offers an AI chatbot for doctors, is raising $250M at a $12B valuation, up from $6B in Oct., and has $150M in annualized ad revenue &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251212/p28#a251212p28)<!-- TECH:END -->
+ - [Parents call for New York governor to sign landmark AI safety bill](https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

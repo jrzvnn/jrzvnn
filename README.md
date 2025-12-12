@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t wait to update: iOS 26.2 fixes WebKit issues used for targeted attacks](https://appleinsider.com/articles/25/12/12/dont-wait-to-update-ios-262-fixes-webkit-issues-used-for-targeted-attacks?utm_source=rss)
  - [AMD CEO Lisa Su Isn’t Afraid of the Competition](https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/)
  - [Amazon Prime Video pulls its AI recaps, which it began testing in November, for Fallout, Bosch, and other shows after users noticed errors in the Fallout recaps &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251212/p25#a251212p25)
- - [$1B for AI Slop? Why Disney Is Spending Big and Bringing Its Iconic Characters to OpenAI](https://www.cnet.com/tech/services-and-software/disneys-1b-deal-with-openai-will-bring-iconic-characters-to-sora-ai-videos/#ftag=CAD590a51e)
  - [Mira Murati&#39;s Thinking Machines Lab makes Tinker, its API for fine-tuning language models, generally available, adds support for Kimi K2 Thinking, and more &lpar;Thinking Machines Lab&rpar;](http://www.techmeme.com/251212/p24#a251212p24)
- - [The 3 Best Espresso Machines You Can Buy in December 2025](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 26.2 is here with Liquid Glass, AirDrop, and Apple Music updates](https://www.theverge.com/news/839534/apple-iphone-ipad-mac-update-26-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

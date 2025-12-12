@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to vibe-write a country hit](https://www.theverge.com/podcast/843447/ai-music-country-suno-vergecast)
  - [Serval, which offers an AI-powered IT support assistant, raised a $75M Series B led by Sequoia at a $1B valuation, bringing its total raised to $127M &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p11#a251212p11)
  - [The Best Permanent Outdoor Lights &lpar;2025&rpar;: Govee, Eufy, Lepro](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
  - [Apple&#39;s ghost town, new iPads, smart rings, and Snow Leopard on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/12/apples-ghost-town-new-ipads-smart-rings-and-snow-leopard-on-the-appleinsider-podcast?utm_source=rss)
- - [A presidential refresher on wireless terminology, courtesy of Trump Mobile](https://www.theverge.com/tech/842937/trump-mobile-4g5g-4k-explainer)
- - [Switzerland launches a preliminary investigation into whether Apple&#39;s terms for granting third-party access to NFC tech on iPhones violate its antitrust laws &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/251212/p10#a251212p10)<!-- TECH:END -->
+ - [A presidential refresher on wireless terminology, courtesy of Trump Mobile](https://www.theverge.com/tech/842937/trump-mobile-4g5g-4k-explainer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

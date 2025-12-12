@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple spends $216 million on two office buildings in Cupertino](https://appleinsider.com/articles/25/12/12/apple-spends-216-million-on-two-office-buildings-in-cupertino?utm_source=rss)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)
+ - [The long shot](https://www.theverge.com/entertainment/842881/resurrection-bi-gan-interview-tracking-shot)
  - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)
- - [David Sacks says China is rejecting Nvidia&#39;s H200 AI chips, because the country wants &quot;semiconductor independence&quot; and to &quot;prop up and subsidize Huawei&quot; &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/251212/p26#a251212p26)
- - [We found 70 stocking stuffers under $100 that are actually useful](https://www.theverge.com/gadgets/843079/best-stocking-stuffers-christmas-ideas-2025)
- - [Don&#39;t wait to update: iOS 26.2 fixes WebKit issues used for targeted attacks](https://appleinsider.com/articles/25/12/12/dont-wait-to-update-ios-262-fixes-webkit-issues-used-for-targeted-attacks?utm_source=rss)
- - [AMD CEO Lisa Su Isn’t Afraid of the Competition](https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/)<!-- TECH:END -->
+ - [David Sacks says China is rejecting Nvidia&#39;s H200 AI chips, because the country wants &quot;semiconductor independence&quot; and to &quot;prop up and subsidize Huawei&quot; &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/251212/p26#a251212p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

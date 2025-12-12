@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)
- - [Why SpaceX Is Finally Gearing Up to Go Public](https://www.wired.com/story/why-spacex-is-finally-gearing-up-to-go-public/)
- - [Policymakers behind key state AI bills scoff at Trump&#39;s EO; some GOP governors are pushing ahead with their own AI bills; Steve Bannon says Sacks misled Trump &lpar;Axios&rpar;](http://www.techmeme.com/251212/p21#a251212p21)
- - [The 34 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
- - [tvOS 26.2 brings kids mode to the Apple TV app](https://appleinsider.com/articles/25/12/12/tvos-262-brings-kids-mode-to-the-apple-tv-app?utm_source=rss)<!-- TECH:END -->
+ - [Mmm, Qi donuts](https://www.theverge.com/news/843720/ikea-qi-2-wireless-charger-vastmarke-silicone)
+ - [33 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
+ - [Google expands Google Translate&#39;s live speech translation from Pixel Buds to any headphones, supporting 70+ languages, in beta on compatible Android phones &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251212/p22#a251212p22)
+ - [Director found guilty of scamming Netflix out of $11 million](https://www.theverge.com/news/843923/hollywood-director-netflix-conviction-fraud-carl-rinsch)
+ - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

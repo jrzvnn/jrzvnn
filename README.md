@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit files a lawsuit against Australia over its social media ban for under-16s, saying the ban &quot;infringes the implied freedom of political communication&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p55#a251211p55)
+ - [In his EO, Trump orders US AG Pam Bondi to create an &quot;AI Litigation Task Force&quot; that meets regularly with David Sacks to challenge &quot;inconsistent&quot; state AI laws &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/251211/p54#a251211p54)
+ - [Tomb Raider announces two new games](https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis)
  - [A look at French indie game studio Sandfall Interactive, whose critically-acclaimed Clair Obscur: Expedition 33 sold 5M+ copies with a budget of less than $10M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/251211/p53#a251211p53)
- - [The best Christmas gifts we love under $50](https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025)
- - [Tim Sweeney on the future of Fortnite after another win over Apple](https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview)
- - [Control’s action-RPG sequel launches in 2026](https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam)
- - [xAI partners with El Salvador to deploy Grok across 5,000+ public schools, reaching 1M+ students in an &quot;AI-powered education program&quot; over the next two years &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/251211/p52#a251211p52)<!-- TECH:END -->
+ - [Get Ready to Ride the Light: Diablo 4&#39;s Next Expansion Adds Paladin Class, Revamps the Endgame](https://www.cnet.com/tech/gaming/diablo-4-announces-lord-of-hatred-expansion-paladin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

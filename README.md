@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: X reported $752M in Q3 revenue, up 17% YoY, a net loss of $577.4M, and EBITDA of ~$454M, up 16%; revenue for the first nine months of 2025 was $2B+ &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/251212/p20#a251212p20)
+ - [Hisense’s CanvasTV is a great Samsung Frame TV alternative at nearly half off](https://www.theverge.com/gadgets/843667/hisense-s7n-canvas-tv-tomtoc-fancycase-g05-slim-case-deal-sale)
  - [Source: livestream shopping app Whatnot nears ~$1B in revenue for 2025; Whatnot says it has passed $6B in gross sales this year, more than doubling 2024&#39;s sales &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/251212/p19#a251212p19)
  - [Hannibal creator Bryan Fuller wanted his first film to be horror for everyone](https://www.theverge.com/entertainment/843561/bryan-fuller-interview-dust-bunny)
- - [HBO Max&amp;#8217;s new channels keep  Friends and Game of Thrones playing 24/7](https://www.theverge.com/news/843631/hbo-max-curated-channels-friends-harry-potter-big-bang-theory)
- - [Companies are updating insider trading policies to cover prediction markets; Kalshi and others are pushing for federal oversight, including of insider trading &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251212/p18#a251212p18)
- - [This Group Pays Bounties to Repair Broken Devices—Even if the Fix Breaks the Law](https://www.wired.com/story/fulu-repair-bounties-nest-molekule/)<!-- TECH:END -->
+ - [HBO Max&amp;#8217;s new channels keep  Friends and Game of Thrones playing 24/7](https://www.theverge.com/news/843631/hbo-max-curated-channels-friends-harry-potter-big-bang-theory)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

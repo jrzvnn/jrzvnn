@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GPT-5.2 models match GPT-5 and 5.1 with a 400K context window and 128K max output tokens, but have a newer knowledge cutoff of Aug. 31, 2025 vs. Sept. 30, 2024 &lpar;Simon Willison/Simon Willison&#39;s Newsletter&rpar;](http://www.techmeme.com/251212/p2#a251212p2)
  - [B&amp;H Photo Promo Codes and Deals for December 2025](https://www.wired.com/story/bh-photo-coupon/)
  - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
  - [An interview with Nikita Bier, who wants to lure journalists back to X with a rebuilt recommendation algorithm with no keyword suppression or manual downranking &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251212/p1#a251212p1)
- - [Speed Across the Galaxy Next Year in Star Wars: Galactic Racer](https://www.cnet.com/tech/gaming/speed-across-the-galaxy-next-year-in-star-wars-galactic-racer/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Speed Across the Galaxy Next Year in Star Wars: Galactic Racer](https://www.cnet.com/tech/gaming/speed-across-the-galaxy-next-year-in-star-wars-galactic-racer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

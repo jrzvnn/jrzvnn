@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HBO Max&amp;#8217;s new channels keep  Friends and Game of Thrones playing 24/7](https://www.theverge.com/news/843631/hbo-max-curated-channels-friends-harry-potter-big-bang-theory)
+ - [Companies are updating insider trading policies to cover prediction markets; Kalshi and others are pushing for federal oversight, including of insider trading &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251212/p18#a251212p18)
+ - [This Group Pays Bounties to Repair Broken Devices—Even if the Fix Breaks the Law](https://www.wired.com/story/fulu-repair-bounties-nest-molekule/)
  - [The TCL QM9K is an excellent flagship TV, but I’m not sure who it’s for](https://www.theverge.com/tech/843074/tcl-qm9k-mini-led-tv-review)
- - [Sources: Oracle pushed back the completion dates for some data centers it is building for OpenAI from 2027 to 2028, largely due to labor and material shortages &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251212/p17#a251212p17)
- - [Lowest price ever: M4 MacBook Pro drops to $1,249 &lpar;$350 off&rpar;](https://appleinsider.com/articles/25/12/12/lowest-price-ever-m4-macbook-pro-drops-to-1249-350-off?utm_source=rss)
- - [Kalshi integrates its event trading platform into the popular crypto wallet Phantom; Dune: in November, Kalshi&#39;s trading volume hit $5.8B vs. Polymarket&#39;s $3.7B &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251212/p16#a251212p16)
- - [YouTube launches an option for US-based creators to receive payouts in PayPal&#39;s stablecoin, PYUSD &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251212/p15#a251212p15)<!-- TECH:END -->
+ - [Sources: Oracle pushed back the completion dates for some data centers it is building for OpenAI from 2027 to 2028, largely due to labor and material shortages &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251212/p17#a251212p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

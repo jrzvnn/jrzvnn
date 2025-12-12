@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good Doggo](http://9gag.com/gag/a6ZeRN2)
- - 😝 [It is now](http://9gag.com/gag/aW4e3qx)
- - 💣 [Santa found your wishlist](http://9gag.com/gag/aGyr4gw)
- - 😝 [Two questions: where and how much?](http://9gag.com/gag/aE0jmAO)
- - 👉 [Totally realistic](http://9gag.com/gag/aGyr4DG)<!-- MEMES:END -->
+ - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 😝 [Anesthesia is a hell of a truth serum sometimes](http://9gag.com/gag/a0eDqLL)
+ - 💣 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 😝 [Nothing needed to be said...](http://9gag.com/gag/aYQvXqx)
+ - 👉 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)<!-- MEMES:END -->
 
 ---
 

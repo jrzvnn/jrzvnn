@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&#39;s AI EO directs federal agencies to look into withholding federal funding for states that introduce &quot;burdensome&quot; AI regulations &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/251212/p13#a251212p13)
  - [[Thread] Substack quietly added a feature that forced subscribers to download the app to read full newsletters but say they&#39;ve rolled it back after complaints &lpar;Gergely Orosz/@gergelyorosz&rpar;](http://www.techmeme.com/251212/p12#a251212p12)
  - [How to vibe-write a country hit](https://www.theverge.com/podcast/843447/ai-music-country-suno-vergecast)
  - [Serval, which offers an AI-powered IT support assistant, raised a $75M Series B led by Sequoia at a $1B valuation, bringing its total raised to $127M &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p11#a251212p11)
- - [The Best Permanent Outdoor Lights &lpar;2025&rpar;: Govee, Eufy, Lepro](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
- - [Apple&#39;s ghost town, new iPads, smart rings, and Snow Leopard on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/12/apples-ghost-town-new-ipads-smart-rings-and-snow-leopard-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [The Best Permanent Outdoor Lights &lpar;2025&rpar;: Govee, Eufy, Lepro](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

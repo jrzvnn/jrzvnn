@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My defense of a $40 cable paperweight – I’m sorry](https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter)
+ - [Papua New Guinea says Google will build three subsea cables for the country, a $120M effort funded by Australia, amid China&#39;s rising influence in the region &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251212/p5#a251212p5)
  - [Does Red-Light Therapy Work? &lpar;2025&rpar;](https://www.wired.com/story/does-red-light-therapy-work/)
  - [People Are Already Taking This Unapproved New Weight-Loss Drug](https://www.wired.com/story/people-are-already-taking-this-unapproved-new-weight-loss-drug-triple-g-retatrutide/)
- - [It’s Open Enrollment Season. Don’t Be a Target of These Health Care Scams](https://www.cnet.com/tech/services-and-software/open-enrollment-is-a-scammers-paradise-how-to-protect-yourself/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 12 #649](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-12-649/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 12, #445](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-12-445/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s Open Enrollment Season. Don’t Be a Target of These Health Care Scams](https://www.cnet.com/tech/services-and-software/open-enrollment-is-a-scammers-paradise-how-to-protect-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

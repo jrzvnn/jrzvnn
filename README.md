@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On OpenAI&#39;s 10th anniversary, Sam Altman reflects on &quot;a decade of breakthroughs, learnings, and the path toward AGI that benefits all of humanity&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p51#a251211p51)
- - [Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/)
- - [Broadcom CEO Hock Tan reveals that Anthropic placed a $10B order for Google&#39;s Ironwood TPU racks in Q3 and says it placed an additional $11B order in Q4 &lpar;CNBC&rpar;](http://www.techmeme.com/251211/p50#a251211p50)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [The Game Awards 2025: all the news and announcements](https://www.theverge.com/games/841973/the-game-awards-2025-annoucements-news-trailers)<!-- TECH:END -->
+ - [A look at French indie game studio Sandfall Interactive, whose critically-acclaimed Clair Obscur: Expedition 33 sold 5M+ copies with a budget of less than $10M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/251211/p53#a251211p53)
+ - [The best Christmas gifts we love under $50](https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025)
+ - [Tim Sweeney on the future of Fortnite after another win over Apple](https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview)
+ - [Control’s action-RPG sequel launches in 2026](https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam)
+ - [xAI partners with El Salvador to deploy Grok across 5,000+ public schools, reaching 1M+ students in an &quot;AI-powered education program&quot; over the next two years &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/251211/p52#a251211p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

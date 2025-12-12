@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frieda McFadden&#39;s psychological thriller &#39;The Teacher&#39; comes to Apple TV](https://appleinsider.com/articles/25/12/11/frieda-mcfaddens-psychological-thriller-the-teacher-comes-to-apple-tv?utm_source=rss)
- - [New US OMB guidance states that LLMs procured by federal agencies must comply with two &quot;unbiased AI principles&quot;: &quot;truth-seeking&quot; and &quot;ideological neutrality&quot; &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/251211/p48#a251211p48)
- - [Disney wants to drag you into the slop](https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership)
- - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Google brings Gemini’s Chrome integration to iPhone and iPad](https://www.theverge.com/news/842987/google-gemini-chrome-ios)<!-- TECH:END -->
+ - [On OpenAI&#39;s 10th anniversary, Sam Altman reflects on &quot;a decade of breakthroughs, learnings, and the path toward AGI that benefits all of humanity&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p51#a251211p51)
+ - [Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/)
+ - [Broadcom CEO Hock Tan reveals that Anthropic placed a $10B order for Google&#39;s Ironwood TPU racks in Q3 and says it placed an additional $11B order in Q4 &lpar;CNBC&rpar;](http://www.techmeme.com/251211/p50#a251211p50)
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+ - [The Game Awards 2025: all the news and announcements](https://www.theverge.com/games/841973/the-game-awards-2025-annoucements-news-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

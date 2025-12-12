@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel is in advanced talks to acquire AI chip startup SambaNova for about $1.6B including debt; the deal could come together as soon as next month &lpar;Bloomberg&rpar;](http://www.techmeme.com/251212/p32#a251212p32)
+ - [Automated digital wealth management company Wealthfront&#39;s stock closed up 1.36% in its Nasdaq debut, valuing it at ~$2.7B, after raising $486M in its IPO &lpar;Andrew Welsch/Barron&#39;s Online&rpar;](http://www.techmeme.com/251212/p31#a251212p31)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [Shares of data center real estate company Fermi closed down 34% after a tenant terminated a $150M agreement to help fund an AI campus in West Texas &lpar;Financial Times&rpar;](http://www.techmeme.com/251212/p30#a251212p30)
- - [TP-Link Deco BE14000 review: more capable whole-home tri-band mesh Wi-Fi 7](https://appleinsider.com/articles/25/12/12/tp-link-deco-be14000-review-more-capable-whole-home-tri-band-mesh-wi-fi-7?utm_source=rss)
- - [Tether submits an all-cash offer to acquire a 65.4% stake in Italian soccer club Juventus, says it will invest €1B in the club if the acquisition is completed &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p29#a251212p29)
- - [Parents call for New York governor to sign landmark AI safety bill](https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill)<!-- TECH:END -->
+ - [TP-Link Deco BE14000 review: more capable whole-home tri-band mesh Wi-Fi 7](https://appleinsider.com/articles/25/12/12/tp-link-deco-be14000-review-more-capable-whole-home-tri-band-mesh-wi-fi-7?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

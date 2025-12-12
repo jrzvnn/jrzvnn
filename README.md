@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switzerland launches a preliminary investigation into whether Apple&#39;s terms for granting third-party access to NFC tech on iPhones violate its antitrust laws &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/251212/p10#a251212p10)
- - [Inside FileMaker Pro -- the massive hit few realize is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)
- - [Sources: Nvidia tells its Chinese clients that it is considering adding production capacity for its H200 chips in response to robust demand &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p9#a251212p9)
- - [This Tetris-playing watch struggles with the one thing it should be great at](https://www.theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on)
- - [Switzerland opens antitrust probe over iPhone NFC access](https://appleinsider.com/articles/25/12/12/switzerland-opens-antitrust-probe-over-iphone-nfc-access?utm_source=rss)<!-- TECH:END -->
+ - [Serval, which offers an AI-powered IT support assistant, raised a $75M Series B led by Sequoia at a $1B valuation, bringing its total raised to $127M &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p11#a251212p11)
+ - [The Best Permanent Outdoor Lights &lpar;2025&rpar;: Govee, Eufy, Lepro](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
+ - [Apple&#39;s ghost town, new iPads, smart rings, and Snow Leopard on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/12/apples-ghost-town-new-ipads-smart-rings-and-snow-leopard-on-the-appleinsider-podcast?utm_source=rss)
+ - [A presidential refresher on wireless terminology, courtesy of Trump Mobile](https://www.theverge.com/tech/842937/trump-mobile-4g5g-4k-explainer)
+ - [Switzerland launches a preliminary investigation into whether Apple&#39;s terms for granting third-party access to NFC tech on iPhones violate its antitrust laws &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/251212/p10#a251212p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

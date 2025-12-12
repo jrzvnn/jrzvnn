@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Evolved Novelties Pleasure Puff Inflatable Rabbit Review: A-Spot Stimulation](https://www.wired.com/review/evolved-novelties-pleasure-puff-inflatable-rabbit/)
  - [Sources: Intel tested chipmaking tools this year from CA-based ACM Research, which has deep China ties; ACM&#39;s two overseas units were targeted by US sanctions &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p3#a251212p3)
  - [GPT-5.2 models match GPT-5 and 5.1 with a 400K context window and 128K max output tokens, but have a newer knowledge cutoff of Aug. 31, 2025 vs. Sept. 30, 2024 &lpar;Simon Willison/Simon Willison&#39;s Newsletter&rpar;](http://www.techmeme.com/251212/p2#a251212p2)
  - [B&amp;H Photo Promo Codes and Deals for December 2025](https://www.wired.com/story/bh-photo-coupon/)
- - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
- - [An interview with Nikita Bier, who wants to lure journalists back to X with a rebuilt recommendation algorithm with no keyword suppression or manual downranking &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251212/p1#a251212p1)<!-- TECH:END -->
+ - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Sweeney: the Ninth Circuit&#39;s decision on Epic v. Apple contempt ruling appeal &quot;completely shuts down&quot; App Store rules allowing Apple to collect &quot;junk fees&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251211/p56#a251211p56)
  - [Reddit files a lawsuit against Australia over its social media ban for under-16s, saying the ban &quot;infringes the implied freedom of political communication&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p55#a251211p55)
  - [In his EO, Trump orders US AG Pam Bondi to create an &quot;AI Litigation Task Force&quot; that meets regularly with David Sacks to challenge &quot;inconsistent&quot; state AI laws &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/251211/p54#a251211p54)
- - [Tomb Raider announces two new games](https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis)
- - [A look at French indie game studio Sandfall Interactive, whose critically-acclaimed Clair Obscur: Expedition 33 sold 5M+ copies with a budget of less than $10M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/251211/p53#a251211p53)
- - [Get Ready to Ride the Light: Diablo 4&#39;s Next Expansion Adds Paladin Class, Revamps the Endgame](https://www.cnet.com/tech/gaming/diablo-4-announces-lord-of-hatred-expansion-paladin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tomb Raider Returns With Catalyst and Legacy of Atlantis](https://www.cnet.com/tech/gaming/tomb-raider-returns-with-catalyst-and-legacy-of-atlantis/#ftag=CAD590a51e)
+ - [Tomb Raider announces two new games](https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

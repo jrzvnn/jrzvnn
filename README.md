@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My defense of a $40 cable paperweight – I’m sorry](https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter)
- - [Papua New Guinea says Google will build three subsea cables for the country, a $120M effort funded by Australia, amid China&#39;s rising influence in the region &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251212/p5#a251212p5)
- - [Does Red-Light Therapy Work? &lpar;2025&rpar;](https://www.wired.com/story/does-red-light-therapy-work/)
- - [People Are Already Taking This Unapproved New Weight-Loss Drug](https://www.wired.com/story/people-are-already-taking-this-unapproved-new-weight-loss-drug-triple-g-retatrutide/)
- - [It’s Open Enrollment Season. Don’t Be a Target of These Health Care Scams](https://www.cnet.com/tech/services-and-software/open-enrollment-is-a-scammers-paradise-how-to-protect-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube made its video player easier to navigate on TVs](https://www.theverge.com/news/843412/youtube-watch-screen-tv-app-update)
+ - [FileMaker Pro -- the massive hit no one realises is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)
+ - [Baseus Inspire XH1 Headphones Review: Affordable Excellence](https://www.wired.com/review/baseus-inspire-xh1/)
+ - [The Pluribus apocalypse gets a little quieter](https://www.theverge.com/entertainment/842614/pluribus-episode-7-recap-discussion)
+ - [Epic Games signals it won&#39;t agree to percentage App Store fees](https://appleinsider.com/articles/25/12/12/epic-games-signals-it-wont-agree-to-percentage-app-store-fees?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

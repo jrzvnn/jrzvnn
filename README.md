@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 40 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
- - [Sources: X reported $752M in Q3 revenue, up 17% YoY, a net loss of $577.4M, and EBITDA of ~$454M, up 16%; revenue for the first nine months of 2025 was $2B+ &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/251212/p20#a251212p20)
- - [Hisense’s CanvasTV is a great Samsung Frame TV alternative at nearly half off](https://www.theverge.com/gadgets/843667/hisense-s7n-canvas-tv-tomtoc-fancycase-g05-slim-case-deal-sale)
- - [Source: livestream shopping app Whatnot nears ~$1B in revenue for 2025; Whatnot says it has passed $6B in gross sales this year, more than doubling 2024&#39;s sales &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/251212/p19#a251212p19)
- - [Hannibal creator Bryan Fuller wanted his first film to be horror for everyone](https://www.theverge.com/entertainment/843561/bryan-fuller-interview-dust-bunny)<!-- TECH:END -->
+ - [The 34 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
+ - [tvOS 26.2 brings kids mode to the Apple TV app](https://appleinsider.com/articles/25/12/12/tvos-262-brings-kids-mode-to-the-apple-tv-app?utm_source=rss)
+ - [Sleep scores sharpen and EU Wi-Fi setup shifts in watchOS 26.2](https://appleinsider.com/articles/25/12/12/sleep-scores-sharpen-and-eu-wi-fi-setup-shifts-in-watchos-262?utm_source=rss)
+ - [Minor bug fix update for Apple Vision Pro arrives with visionOS 26.2](https://appleinsider.com/articles/25/12/12/minor-bug-fix-update-for-apple-vision-pro-arrives-with-visionos-262?utm_source=rss)
+ - [New Edge Light and urgent Reminders come to macOS Tahoe](https://appleinsider.com/articles/25/12/12/new-edge-light-and-urgent-reminders-come-to-macos-tahoe?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

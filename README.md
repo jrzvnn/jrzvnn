@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sealzilla](http://9gag.com/gag/aE0j5Ve)
- - 😝 [Living legend just won gold again](http://9gag.com/gag/ayNmw68)
- - 💣 [That damn smile](http://9gag.com/gag/axyewAW)
- - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 👉 [Every time I hear a recording of my voice](http://9gag.com/gag/aE0j5eN)<!-- MEMES:END -->
+ - 😝 [Anesthesia is a hell of a truth serum sometimes](http://9gag.com/gag/a0eDqLL)
+ - 😝 [I mean ...](http://9gag.com/gag/awy9jd1)
+ - 💣 [Some human&#39;s mind works in a magical way](http://9gag.com/gag/aD2qeww)
+ - 😝 [Here, take this](http://9gag.com/gag/an70o0z)
+ - 👉 [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)<!-- MEMES:END -->
 
 ---
 

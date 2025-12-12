@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Every time I hear a recording of my voice](http://9gag.com/gag/aE0j5eN)
  - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 💣 [Can&#39;t make this up](http://9gag.com/gag/aBybBxD)
- - 😝 [Good Doggo](http://9gag.com/gag/a6ZeRN2)
- - 👉 [Totally realistic](http://9gag.com/gag/aGyr4DG)<!-- MEMES:END -->
+ - 💣 [Good Doggo](http://9gag.com/gag/a6ZeRN2)
+ - 😝 [Can&#39;t make this up](http://9gag.com/gag/aBybBxD)
+ - 👉 [It is now](http://9gag.com/gag/aW4e3qx)<!-- MEMES:END -->
 
 ---
 

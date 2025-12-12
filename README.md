@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
  - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 😝 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)
- - 💣 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 💣 [Anne Hathaway](http://9gag.com/gag/aAyL9po)
  - 😝 [Anesthesia is a hell of a truth serum sometimes](http://9gag.com/gag/a0eDqLL)
- - 👉 [Some human&#39;s mind works in a magical way](http://9gag.com/gag/aD2qeww)<!-- MEMES:END -->
+ - 👉 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)<!-- MEMES:END -->
 
 ---
 

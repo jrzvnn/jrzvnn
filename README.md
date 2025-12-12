@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anesthesia is a hell of a truth serum sometimes](http://9gag.com/gag/a0eDqLL)
- - 😝 [I mean ...](http://9gag.com/gag/awy9jd1)
- - 💣 [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)
- - 😝 [Here, take this](http://9gag.com/gag/an70o0z)
- - 👉 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)<!-- MEMES:END -->
+ - 😝 [Every time I hear a recording of my voice](http://9gag.com/gag/aE0j5eN)
+ - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 💣 [Can&#39;t make this up](http://9gag.com/gag/aBybBxD)
+ - 😝 [Good Doggo](http://9gag.com/gag/a6ZeRN2)
+ - 👉 [Totally realistic](http://9gag.com/gag/aGyr4DG)<!-- MEMES:END -->
 
 ---
 

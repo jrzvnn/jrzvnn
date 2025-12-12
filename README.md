@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)
- - 😝 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)
- - 💣 [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)
- - 😝 [Here, take this](http://9gag.com/gag/an70o0z)
- - 👉 [I mean ...](http://9gag.com/gag/awy9jd1)<!-- MEMES:END -->
+ - 😝 [Sealzilla](http://9gag.com/gag/aE0j5Ve)
+ - 😝 [Living legend just won gold again](http://9gag.com/gag/ayNmw68)
+ - 💣 [That damn smile](http://9gag.com/gag/axyewAW)
+ - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 👉 [Every time I hear a recording of my voice](http://9gag.com/gag/aE0j5eN)<!-- MEMES:END -->
 
 ---
 

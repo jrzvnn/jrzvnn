@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube made its video player easier to navigate on TVs](https://www.theverge.com/news/843412/youtube-watch-screen-tv-app-update)
- - [FileMaker Pro -- the massive hit no one realises is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)
- - [Baseus Inspire XH1 Headphones Review: Affordable Excellence](https://www.wired.com/review/baseus-inspire-xh1/)
- - [The Pluribus apocalypse gets a little quieter](https://www.theverge.com/entertainment/842614/pluribus-episode-7-recap-discussion)
- - [Epic Games signals it won&#39;t agree to percentage App Store fees](https://appleinsider.com/articles/25/12/12/epic-games-signals-it-wont-agree-to-percentage-app-store-fees?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Nvidia tells its Chinese clients that it is considering adding production capacity for its H200 chips in response to robust demand &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p9#a251212p9)
+ - [Inside FileMaker Pro -- the massive hit few realize is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)
+ - [This Tetris-playing watch struggles with the one thing it should be great at](https://www.theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on)
+ - [Switzerland opens antitrust probe over iPhone NFC access](https://appleinsider.com/articles/25/12/12/switzerland-opens-antitrust-probe-over-iphone-nfc-access?utm_source=rss)
+ - [TechInsights: Huawei&#39;s Kirin 9030 processor, used in its Mate 80 Pro Max phone, is China&#39;s most advanced chip to date and produced with SMIC&#39;s updated 7nm tech &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251212/p8#a251212p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

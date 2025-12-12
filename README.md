@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H Photo Promo Codes and Deals for December 2025](https://www.wired.com/story/bh-photo-coupon/)
+ - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
+ - [An interview with Nikita Bier, who wants to lure journalists back to X with a rebuilt recommendation algorithm with no keyword suppression or manual downranking &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251212/p1#a251212p1)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-12/#ftag=CAD590a51e)
- - [The 13 Best Trailers of the Game Awards 2025: Resident Evil Requiem, Lara Croft, Control 2 and more](https://www.cnet.com/tech/gaming/the-13-best-trailers-of-the-game-awards-2025-resident-evil-requiem-lara-croft-control-2-and-more/#ftag=CAD590a51e)
- - [Ace Combat 8: Wings of Theve Brings the Jet Fighting Franchise Back in 2026](https://www.cnet.com/tech/gaming/ace-combat-8-wings-of-theve-brings-the-jet-fighting-franchise-back-in-2026/#ftag=CAD590a51e)
- - [Tim Sweeney: the Ninth Circuit&#39;s decision on Epic v. Apple contempt ruling appeal &quot;completely shuts down&quot; App Store rules allowing Apple to collect &quot;junk fees&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251211/p56#a251211p56)
- - [Reddit files a lawsuit against Australia over its social media ban for under-16s, saying the ban &quot;infringes the implied freedom of political communication&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p55#a251211p55)<!-- TECH:END -->
+ - [The 13 Best Trailers of the Game Awards 2025: Resident Evil Requiem, Lara Croft, Control 2 and more](https://www.cnet.com/tech/gaming/the-13-best-trailers-of-the-game-awards-2025-resident-evil-requiem-lara-croft-control-2-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

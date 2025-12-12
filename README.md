@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether submits an all-cash offer to acquire a 65.4% stake in Italian soccer club Juventus, says it will invest €1B in the club if the acquisition is completed &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p29#a251212p29)
  - [Parents call for New York governor to sign landmark AI safety bill](https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill)
  - [Source: OpenEvidence, which offers an AI chatbot for doctors, is raising $250M at a $12B valuation, up from $6B in Oct., and has $150M in annualized ad revenue &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251212/p28#a251212p28)
  - [Zoom says its &quot;federated AI&quot; model, combining its SLM with open- and closed-source models, got 48.1% on Humanity&#39;s Last Exam vs. 45.8% for Gemini 3 Pro w/ tools &lpar;Xuedong Huang/Zoom&rpar;](http://www.techmeme.com/251212/p27#a251212p27)
- - [Apple spends $216 million on two office buildings in Cupertino](https://appleinsider.com/articles/25/12/12/apple-spends-216-million-on-two-office-buildings-in-cupertino?utm_source=rss)
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)<!-- TECH:END -->
+ - [Apple spends $216 million on two office buildings in Cupertino](https://appleinsider.com/articles/25/12/12/apple-spends-216-million-on-two-office-buildings-in-cupertino?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

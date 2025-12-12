@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: livestream shopping app Whatnot nears ~$1B in revenue for 2025; Whatnot says it has passed $6B in gross sales this year, more than doubling 2024&#39;s sales &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/251212/p19#a251212p19)
+ - [Hannibal creator Bryan Fuller wanted his first film to be horror for everyone](https://www.theverge.com/entertainment/843561/bryan-fuller-interview-dust-bunny)
  - [HBO Max&amp;#8217;s new channels keep  Friends and Game of Thrones playing 24/7](https://www.theverge.com/news/843631/hbo-max-curated-channels-friends-harry-potter-big-bang-theory)
  - [Companies are updating insider trading policies to cover prediction markets; Kalshi and others are pushing for federal oversight, including of insider trading &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251212/p18#a251212p18)
- - [This Group Pays Bounties to Repair Broken Devices—Even if the Fix Breaks the Law](https://www.wired.com/story/fulu-repair-bounties-nest-molekule/)
- - [The TCL QM9K is an excellent flagship TV, but I’m not sure who it’s for](https://www.theverge.com/tech/843074/tcl-qm9k-mini-led-tv-review)
- - [Sources: Oracle pushed back the completion dates for some data centers it is building for OpenAI from 2027 to 2028, largely due to labor and material shortages &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251212/p17#a251212p17)<!-- TECH:END -->
+ - [This Group Pays Bounties to Repair Broken Devices—Even if the Fix Breaks the Law](https://www.wired.com/story/fulu-repair-bounties-nest-molekule/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

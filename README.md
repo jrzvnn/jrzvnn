@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)
  - 😝 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)
- - 💣 [I mean ...](http://9gag.com/gag/awy9jd1)
- - 😝 [Lick yourself](http://9gag.com/gag/adBWD6Z)
- - 👉 [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)<!-- MEMES:END -->
+ - 💣 [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)
+ - 😝 [Here, take this](http://9gag.com/gag/an70o0z)
+ - 👉 [I mean ...](http://9gag.com/gag/awy9jd1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 😝 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)
- - 💣 [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)
- - 😝 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)
- - 👉 [I mean ...](http://9gag.com/gag/awy9jd1)<!-- MEMES:END -->
+ - 😝 [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)
+ - 😝 [I mean ...](http://9gag.com/gag/awy9jd1)
+ - 💣 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
+ - 😝 [I&#39;m sure no one cares. But I do. It&#39;s funny what 12 years and never giving up well do to your life. This is one of my dreams. And, as slow as it happened, I honestly can&#39;t believe it came together.](http://9gag.com/gag/aBybeez)
+ - 👉 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)<!-- MEMES:END -->
 
 ---
 

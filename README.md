@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Anesthesia is a hell of a truth serum sometimes](http://9gag.com/gag/a0eDqLL)
- - 😝 [I mean ...](http://9gag.com/gag/awy9jd1)
- - 💣 [Some human&#39;s mind works in a magical way](http://9gag.com/gag/aD2qeww)
- - 😝 [Here, take this](http://9gag.com/gag/an70o0z)
- - 👉 [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)<!-- MEMES:END -->
+ - 😝 [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)
+ - 💣 [I mean ...](http://9gag.com/gag/awy9jd1)
+ - 😝 [It is now](http://9gag.com/gag/aW4e3qx)
+ - 👉 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)<!-- MEMES:END -->
 
 ---
 

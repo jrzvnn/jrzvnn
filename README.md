@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Mira Murati&#39;s Thinking Machines Lab makes Tinker, its API for fine-tuning language models, generally available, adds support for Kimi K2 Thinking, and more &lpar;Thinking Machines Lab&rpar;](http://www.techmeme.com/251212/p24#a251212p24)
+ - [iOS 26.2 is here with Liquid Glass, AirDrop, and Apple Music updates](https://www.theverge.com/news/839534/apple-iphone-ipad-mac-update-26-2)
  - [David Sacks says Trump&#39;s AI EO aims to ease companies&#39; compliance burden and that the administration is working with Congress on a common AI oversight standard &lpar;Bloomberg&rpar;](http://www.techmeme.com/251212/p23#a251212p23)
  - [Mmm, Qi donuts](https://www.theverge.com/news/843720/ikea-qi-2-wireless-charger-vastmarke-silicone)
- - [33 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
- - [Google expands Google Translate&#39;s live speech translation from Pixel Buds to any headphones, supporting 70+ languages, in beta on compatible Android phones &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251212/p22#a251212p22)<!-- TECH:END -->
+ - [33 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

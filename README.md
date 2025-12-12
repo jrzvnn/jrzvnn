@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Video pulls its AI recaps, which it began testing in November, for Fallout, Bosch, and other shows after users noticed errors in the Fallout recaps &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251212/p25#a251212p25)
  - [Mira Murati&#39;s Thinking Machines Lab makes Tinker, its API for fine-tuning language models, generally available, adds support for Kimi K2 Thinking, and more &lpar;Thinking Machines Lab&rpar;](http://www.techmeme.com/251212/p24#a251212p24)
  - [iOS 26.2 is here with Liquid Glass, AirDrop, and Apple Music updates](https://www.theverge.com/news/839534/apple-iphone-ipad-mac-update-26-2)
  - [David Sacks says Trump&#39;s AI EO aims to ease companies&#39; compliance burden and that the administration is working with Congress on a common AI oversight standard &lpar;Bloomberg&rpar;](http://www.techmeme.com/251212/p23#a251212p23)
- - [Mmm, Qi donuts](https://www.theverge.com/news/843720/ikea-qi-2-wireless-charger-vastmarke-silicone)
- - [33 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)<!-- TECH:END -->
+ - [Mmm, Qi donuts](https://www.theverge.com/news/843720/ikea-qi-2-wireless-charger-vastmarke-silicone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

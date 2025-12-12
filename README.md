@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many games from The Game Awards are now on sale](https://www.theverge.com/gadgets/843459/game-awards-playstation-nintendo-pc-games-deal-sale)
  - [We&amp;#8217;re still talking about the Trump phone](https://www.theverge.com/gadgets/843498/trump-phone)
  - [Sam Altman&#39;s World updates its app to make it a &quot;super app&quot; with encrypted chat integration and a Venmo-like tool for sending and requesting crypto &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/251212/p14#a251212p14)
  - [The Best Age-Tech Gadgets Tried and Tested by WIRED](https://www.wired.com/gallery/best-age-tech/)
- - [I quit all my AI fitness plans, and I feel free](https://www.theverge.com/column/843420/optimizer-fitness-ai-coaching-plans-quitting-runna-peloton-iq-fitbit-ai)
- - [Trump&#39;s AI executive order directs federal agencies to look into withholding federal funding from states passing &quot;the most onerous and excessive laws&quot; around AI &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/251212/p13#a251212p13)<!-- TECH:END -->
+ - [I quit all my AI fitness plans, and I feel free](https://www.theverge.com/column/843420/optimizer-fitness-ai-coaching-plans-quitting-runna-peloton-iq-fitbit-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

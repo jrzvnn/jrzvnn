@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kalshi integrates its event trading platform into the popular crypto wallet Phantom; Dune: in November, Kalshi&#39;s trading volume hit $5.8B vs. Polymarket&#39;s $3.7B &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251212/p16#a251212p16)
+ - [YouTube launches an option for US-based creators to receive payouts in PayPal&#39;s stablecoin, PYUSD &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251212/p15#a251212p15)
+ - [You’re Thinking About AI and Water All Wrong](https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/)
  - [Many games from The Game Awards are now on sale](https://www.theverge.com/gadgets/843459/game-awards-playstation-nintendo-pc-games-deal-sale)
- - [We&amp;#8217;re still talking about the Trump phone](https://www.theverge.com/gadgets/843498/trump-phone)
- - [Sam Altman&#39;s World updates its app to make it a &quot;super app&quot; with encrypted chat integration and a Venmo-like tool for sending and requesting crypto &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/251212/p14#a251212p14)
- - [The Best Age-Tech Gadgets Tried and Tested by WIRED](https://www.wired.com/gallery/best-age-tech/)
- - [I quit all my AI fitness plans, and I feel free](https://www.theverge.com/column/843420/optimizer-fitness-ai-coaching-plans-quitting-runna-peloton-iq-fitbit-ai)<!-- TECH:END -->
+ - [We&amp;#8217;re still talking about the Trump phone](https://www.theverge.com/gadgets/843498/trump-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Mira Murati&#39;s Thinking Machines Lab makes Tinker, its API for fine-tuning language models, generally available, adds support for Kimi K2 Thinking, and more &lpar;Thinking Machines Lab&rpar;](http://www.techmeme.com/251212/p24#a251212p24)
  - [David Sacks says Trump&#39;s AI EO aims to ease companies&#39; compliance burden and that the administration is working with Congress on a common AI oversight standard &lpar;Bloomberg&rpar;](http://www.techmeme.com/251212/p23#a251212p23)
- - [Google expands Google Translate&#39;s live speech translation from Pixel Buds to any headphones, supporting 70+ languages, in beta on compatible Android phones &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251212/p22#a251212p22)
- - [Why SpaceX Is Finally Gearing Up to Go Public](https://www.wired.com/story/why-spacex-is-finally-gearing-up-to-go-public/)
- - [Policymakers behind key state AI bills scoff at Trump&#39;s EO; some GOP governors are pushing ahead with their own AI bills; Steve Bannon says Sacks misled Trump &lpar;Axios&rpar;](http://www.techmeme.com/251212/p21#a251212p21)<!-- TECH:END -->
+ - [Mmm, Qi donuts](https://www.theverge.com/news/843720/ikea-qi-2-wireless-charger-vastmarke-silicone)
+ - [33 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
+ - [Google expands Google Translate&#39;s live speech translation from Pixel Buds to any headphones, supporting 70+ languages, in beta on compatible Android phones &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251212/p22#a251212p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

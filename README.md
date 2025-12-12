@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Meteor Shower of the Year Is Coming—Here’s How to Watch](https://www.wired.com/story/how-to-watch-the-geminids-meteor-shower/)
  - [Taiwan opens its largest AI supercomputing data center using Nvidia&#39;s Blackwell chips, a major effort in its push for sovereign AI and chip industry innovation &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251212/p4#a251212p4)
+ - [Our Exclusive Data Reveals the Best Air Purifier for Preventing Sickness During Cold and Flu Season](https://www.cnet.com/home/kitchen-and-household/exclusive-data-best-air-purifier-preventing-sickness-cold-flu-season/#ftag=CAD590a51e)
  - [Evolved Novelties Pleasure Puff Inflatable Rabbit Review: A-Spot Stimulation](https://www.wired.com/review/evolved-novelties-pleasure-puff-inflatable-rabbit/)
- - [Sources: Intel tested chipmaking tools this year from CA-based ACM Research, which has deep China ties; ACM&#39;s two overseas units were targeted by US sanctions &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p3#a251212p3)
- - [GPT-5.2 models match GPT-5 and 5.1 with a 400K context window and 128K max output tokens, but have a newer knowledge cutoff of Aug. 31, 2025 vs. Sept. 30, 2024 &lpar;Simon Willison/Simon Willison&#39;s Newsletter&rpar;](http://www.techmeme.com/251212/p2#a251212p2)
- - [B&amp;H Photo Promo Codes and Deals for December 2025](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
+ - [Sources: Intel tested chipmaking tools this year from CA-based ACM Research, which has deep China ties; ACM&#39;s two overseas units were targeted by US sanctions &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p3#a251212p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

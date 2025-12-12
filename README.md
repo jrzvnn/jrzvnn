@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 😝 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
- - 💣 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)
+ - 😝 [Anne Hathaway](http://9gag.com/gag/aAyL9po)
+ - 😝 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)
+ - 💣 [I&#39;d let her ruin my life](http://9gag.com/gag/a7omg6x)
  - 😝 [That&#39;s one proud grandpa right there.](http://9gag.com/gag/amoOZGj)
- - 👉 [Anne Hathaway](http://9gag.com/gag/aAyL9po)<!-- MEMES:END -->
+ - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 
 ---
 

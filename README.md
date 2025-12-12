@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)
+ - [Why SpaceX Is Finally Gearing Up to Go Public](https://www.wired.com/story/why-spacex-is-finally-gearing-up-to-go-public/)
+ - [Policymakers behind key state AI bills scoff at Trump&#39;s EO; some GOP governors are pushing ahead with their own AI bills; Steve Bannon says Sacks misled Trump &lpar;Axios&rpar;](http://www.techmeme.com/251212/p21#a251212p21)
  - [The 34 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
- - [tvOS 26.2 brings kids mode to the Apple TV app](https://appleinsider.com/articles/25/12/12/tvos-262-brings-kids-mode-to-the-apple-tv-app?utm_source=rss)
- - [Sleep scores sharpen and EU Wi-Fi setup shifts in watchOS 26.2](https://appleinsider.com/articles/25/12/12/sleep-scores-sharpen-and-eu-wi-fi-setup-shifts-in-watchos-262?utm_source=rss)
- - [Minor bug fix update for Apple Vision Pro arrives with visionOS 26.2](https://appleinsider.com/articles/25/12/12/minor-bug-fix-update-for-apple-vision-pro-arrives-with-visionos-262?utm_source=rss)
- - [New Edge Light and urgent Reminders come to macOS Tahoe](https://appleinsider.com/articles/25/12/12/new-edge-light-and-urgent-reminders-come-to-macos-tahoe?utm_source=rss)<!-- TECH:END -->
+ - [tvOS 26.2 brings kids mode to the Apple TV app](https://appleinsider.com/articles/25/12/12/tvos-262-brings-kids-mode-to-the-apple-tv-app?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

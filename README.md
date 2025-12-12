@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 💣 [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)
- - 😝 [Here, take this](http://9gag.com/gag/an70o0z)
- - 👉 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)<!-- MEMES:END -->
+ - 😝 [Anne Hathaway](http://9gag.com/gag/aAyL9po)
+ - 😝 [Note to self, stop giving the prisoners Lego](http://9gag.com/gag/avyBjzn)
+ - 💣 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 😝 [Sealzilla](http://9gag.com/gag/aE0j5Ve)
+ - 👉 [That damn smile](http://9gag.com/gag/axyewAW)<!-- MEMES:END -->
 
 ---
 

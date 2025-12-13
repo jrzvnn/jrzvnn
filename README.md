@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Broadcom&#39;s shares fell 11% on December 12, their biggest single-day drop since January, after the company&#39;s AI sales outlook fell short of investor expectations &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251213/p5#a251213p5)
+ - [Indian IT giant TCS agrees to acquire Coastal Cloud, a Florida-based Salesforce consulting partner, for $700M, in a bid to boost its AI and US customer business &lpar;Mark Haranas/CRN&rpar;](http://www.techmeme.com/251213/p4#a251213p4)
  - [Cisco&#39;s stock touched a new record high of $80.25 on December 10, surpassing its previous split-adjusted high of $80.06 on March 27, 2000; CSCO is up 31.64% YTD &lpar;Robin Wigglesworth/Financial Times&rpar;](http://www.techmeme.com/251213/p3#a251213p3)
  - [Seagate and Western Digital, with stocks each up 200%+ in 2025, will join Nasdaq 100 before the December 22 market open; GlobalFoundries will leave the index &lpar;Isabelle Lee/Bloomberg&rpar;](http://www.techmeme.com/251213/p2#a251213p2)
- - [In a letter to the Trump administration, the GOP Senatorial Committee Chair Sen. Tim Scott said the Netflix-WBD deal raises &quot;significant antitrust problems&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/251213/p1#a251213p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-13/#ftag=CAD590a51e)
- - [Google has removed dozens of AI videos from YouTube that depicted Disney characters, after Disney sent a cease-and-desist letter flagging the links &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/251212/p37#a251212p37)<!-- TECH:END -->
+ - [In a letter to the Trump administration, the GOP Senatorial Committee Chair Sen. Tim Scott said the Netflix-WBD deal raises &quot;significant antitrust problems&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/251213/p1#a251213p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

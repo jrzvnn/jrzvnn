@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cisco&#39;s stock touched a new record high of $80.25 on December 10, surpassing its previous split-adjusted high of $80.06 on March 27, 2000; CSCO is up 31.64% YTD &lpar;Robin Wigglesworth/Financial Times&rpar;](http://www.techmeme.com/251213/p3#a251213p3)
  - [Seagate and Western Digital, with stocks each up 200%+ in 2025, will join Nasdaq 100 before the December 22 market open; GlobalFoundries will leave the index &lpar;Isabelle Lee/Bloomberg&rpar;](http://www.techmeme.com/251213/p2#a251213p2)
  - [In a letter to the Trump administration, the GOP Senatorial Committee Chair Sen. Tim Scott said the Netflix-WBD deal raises &quot;significant antitrust problems&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/251213/p1#a251213p1)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-13/#ftag=CAD590a51e)
- - [Google has removed dozens of AI videos from YouTube that depicted Disney characters, after Disney sent a cease-and-desist letter flagging the links &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/251212/p37#a251212p37)
- - [Microsoft expands its bug bounty program so that any critical vulnerability, including in third-party code, impacting its online services is eligible for awards &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251212/p36#a251212p36)<!-- TECH:END -->
+ - [Google has removed dozens of AI videos from YouTube that depicted Disney characters, after Disney sent a cease-and-desist letter flagging the links &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/251212/p37#a251212p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

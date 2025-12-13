@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 💣 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
  - 😝 [I need answers](http://9gag.com/gag/aPAVbGQ)
- - 💣 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)
- - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
- - 👉 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)<!-- MEMES:END -->
+ - 👉 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)<!-- MEMES:END -->
 
 ---
 

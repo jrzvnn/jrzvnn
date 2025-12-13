@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Velotric Discover 2 Electric Bike Review: Versatile and Powerful](https://www.wired.com/review/velotric-discover-2/)
+ - [AI Toys for Kids Talk About Sex, Drugs, and Chinese Propaganda](https://www.wired.com/story/security-news-this-week-ai-toys-for-kids-talk-about-sex-drugs-and-chinese-propaganda/)
  - [Gear News of the Week: Android Gets Emergency Live Video, and the Pixel Watch 4 Supports Gestures](https://www.wired.com/story/gear-news-of-the-week-android-gets-emergency-live-video-and-the-pixel-watch-4-supports-gestures/)
  - [A profile of Nex, which makes the $249 Nex Playground motion-based gaming system targeted toward kids and projects more than $150M of sales this year &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/251213/p7#a251213p7)
- - [How to Use Smart Lighting Around the Home: Reviewer Recommendations](https://www.wired.com/story/how-to-use-smart-lighting/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 13 #650](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-13-650/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 13, #446](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-13-446/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Use Smart Lighting Around the Home: Reviewer Recommendations](https://www.wired.com/story/how-to-use-smart-lighting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

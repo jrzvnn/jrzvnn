@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
+ - 😝 [Kaboom? Yes Rico, kaboom.](http://9gag.com/gag/aLnOEeM)
  - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 💣 [Anne Hathaway](http://9gag.com/gag/aAyL9po)
- - 😝 [Doggo said he knows a spot](http://9gag.com/gag/a5Q9OxE)
+ - 💣 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
+ - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
  - 👉 [Yep](http://9gag.com/gag/aBybeON)<!-- MEMES:END -->
 
 ---

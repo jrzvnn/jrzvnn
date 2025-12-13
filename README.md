@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This $1,500 robot cooks dinner while I work](https://www.theverge.com/tech/840599/posha-robot-chef-review)
  - [Sources: The Trump administration is drafting a new cyber strategy that would enlist private companies to mount offensive cyberattacks on foreign adversaries &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/251213/p9#a251213p9)
  - [The Nex Playground and Pixel Buds 2A top our list of the best deals this week](https://www.theverge.com/gadgets/844093/nex-playground-google-pixel-buds-2a-deal-sale)
- - [The best thing I bought this year: a portable mechanical keyboard](https://www.theverge.com/gadgets/843455/mechanical-keyboard-nyphy-favorite)
- - [La Liga Soccer: Stream Barcelona vs. Osasuna Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-barcelona-vs-osasuna-live-from-anywhere/#ftag=CAD590a51e)
- - [Leak teases iOS 26.4 feature updates alongside iOS 27, iOS 28 plans](https://appleinsider.com/articles/25/12/13/leak-teases-ios-264-feature-updates-alongside-ios-27-ios-28-plans?utm_source=rss)<!-- TECH:END -->
+ - [Is It Ever Safe to Microwave Plastic? I Asked a Few Experts to Weigh In](https://www.cnet.com/news/is-it-ever-safe-to-put-plastic-in-the-microwave-heres-what-experts-told-me/#ftag=CAD590a51e)
+ - [New 2025 Christmas Movies on Prime Video, Netflix and More](https://www.cnet.com/tech/services-and-software/new-2025-christmas-movies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

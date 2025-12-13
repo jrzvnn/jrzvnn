@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
+ - 😝 [Kaboom? Yes Rico, kaboom.](http://9gag.com/gag/aLnOEeM)
  - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
  - 💣 [Yep](http://9gag.com/gag/aBybeON)
- - 😝 [Winter break plans sorted](http://9gag.com/gag/a4PBXRy)
+ - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
  - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
 
 ---

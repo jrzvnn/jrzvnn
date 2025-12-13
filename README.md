@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
- - [Singapore-based ChemLex raised a $45M funding round led by Granite Asia to build an AI-powered, automated chemistry lab to accelerate drug discovery &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/251212/p33#a251212p33)
- - [Sources: Intel is in advanced talks to acquire AI chip startup SambaNova for about $1.6B including debt; the deal could come together as soon as next month &lpar;Bloomberg&rpar;](http://www.techmeme.com/251212/p32#a251212p32)
- - [Automated digital wealth management company Wealthfront&#39;s stock closed up 1.36% in its Nasdaq debut, valuing it at ~$2.7B, after raising $486M in its IPO &lpar;Andrew Welsch/Barron&#39;s Online&rpar;](http://www.techmeme.com/251212/p31#a251212p31)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [Microsoft expands its bug bounty program so that any critical vulnerability, including in third-party code, impacting its online services is eligible for awards &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251212/p36#a251212p36)
+ - [OpenAI quietly adopted Anthropic&#39;s &quot;skills&quot; mechanism in ChatGPT and Codex; ChatGPT&#39;s skills include creating and modifying spreadsheets, docx files, and PDFs &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251212/p35#a251212p35)
+ - [Internal message: SpaceX has authorized an insider share sale at $421/share, valuing the company at ~$800B, and said it&#39;s preparing for a possible IPO in 2026 &lpar;Loren Grush/Bloomberg&rpar;](http://www.techmeme.com/251212/p34#a251212p34)
+ - [Prime Video Hits Pause on Error-Filled AI Recaps](https://www.cnet.com/tech/services-and-software/prime-video-hits-pause-on-hallucinating-ai-recaps/#ftag=CAD590a51e)
+ - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

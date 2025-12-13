@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
  - [Google Data Centers Are Returning Nuclear Power to Tornado Country](https://www.wired.com/story/google-data-centers-will-bring-nuclear-power-back-to-tornado-country/)
  - [The 24 Best Shows on Amazon Prime, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [Velotric Discover 2 Electric Bike Review: Versatile and Powerful](https://www.wired.com/review/velotric-discover-2/)
- - [AI Toys for Kids Talk About Sex, Drugs, and Chinese Propaganda](https://www.wired.com/story/security-news-this-week-ai-toys-for-kids-talk-about-sex-drugs-and-chinese-propaganda/)
- - [I&#39;m Begging You to Stop Anthropomorphizing AI. Here&#39;s Why It&#39;s Harmful](https://www.cnet.com/tech/services-and-software/stop-talking-about-ai-as-if-its-human-anthropomorphizing-commentary/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI Toys for Kids Talk About Sex, Drugs, and Chinese Propaganda](https://www.wired.com/story/security-news-this-week-ai-toys-for-kids-talk-about-sex-drugs-and-chinese-propaganda/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

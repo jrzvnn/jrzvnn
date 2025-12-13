@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 💣 [Anesthesia is a hell of a truth serum sometimes](http://9gag.com/gag/a0eDqLL)
- - 😝 [Oh snap](http://9gag.com/gag/a1m83Bb)
- - 👉 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)<!-- MEMES:END -->
+ - 😝 [Professionals](http://9gag.com/gag/an70P7L)
+ - 😝 [Yep](http://9gag.com/gag/aBybeON)
+ - 💣 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)
+ - 😝 [Here, take this](http://9gag.com/gag/an70o0z)
+ - 👉 [That damn smile](http://9gag.com/gag/axyewAW)<!-- MEMES:END -->
 
 ---
 

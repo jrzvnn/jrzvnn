@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 💣 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 😝 [He just wanted to be closer to God...](http://9gag.com/gag/a5Q9O8y)
- - 👉 [Yep](http://9gag.com/gag/aBybeON)<!-- MEMES:END -->
+ - 😝 [Damn right!](http://9gag.com/gag/apRn4n5)
+ - 😝 [Women of afrofuturism](http://9gag.com/gag/aVv9pLn)
+ - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [Oh snap](http://9gag.com/gag/a1m83Bb)
+ - 👉 [Tribute](http://9gag.com/gag/aD2qKOx)<!-- MEMES:END -->
 
 ---
 

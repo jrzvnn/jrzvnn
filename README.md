@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leak teases iOS 26.4 feature updates alongside iOS 27, iOS 28 plans](https://appleinsider.com/articles/25/12/13/leak-teases-ios-264-feature-updates-alongside-ios-27-ios-28-plans?utm_source=rss)
+ - [18 Gifts for People Who Are Perpetually Cold &lpar;2025&rpar;](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold-2025/)
  - [Sektori is psychedelic, tough as nails, and worth the pain](https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s)
  - [Here are the shipping deadlines to get your holiday gifts on time](https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines)
- - [Sources: private capital giant Apollo Global has shorted loans and rapidly cut exposure to the enterprise software sector in 2025 amid concerns over AI threat &lpar;Financial Times&rpar;](http://www.techmeme.com/251213/p8#a251213p8)
- - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
+ - [Sources: private capital giant Apollo Global has shorted loans and rapidly cut exposure to the enterprise software sector in 2025 amid concerns over AI threat &lpar;Financial Times&rpar;](http://www.techmeme.com/251213/p8#a251213p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

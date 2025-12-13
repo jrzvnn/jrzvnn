@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 😝 [I need answers](http://9gag.com/gag/aPAVbGQ)
- - 💣 [Yep](http://9gag.com/gag/aBybeON)
- - 😝 [High trust society | 0:34](http://9gag.com/gag/a87vR06)
- - 👉 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)<!-- MEMES:END -->
+ - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
+ - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [Yep](http://9gag.com/gag/aBybeON)
+ - 👉 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)<!-- MEMES:END -->
 
 ---
 

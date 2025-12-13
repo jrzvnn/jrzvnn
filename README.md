@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need answers](http://9gag.com/gag/aPAVbGQ)
  - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 💣 [Yep](http://9gag.com/gag/aBybeON)
- - 😝 [High trust society | 0:34](http://9gag.com/gag/a87vR06)
- - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
+ - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 💣 [Anne Hathaway](http://9gag.com/gag/aAyL9po)
+ - 😝 [Doggo said he knows a spot](http://9gag.com/gag/a5Q9OxE)
+ - 👉 [Yep](http://9gag.com/gag/aBybeON)<!-- MEMES:END -->
 
 ---
 

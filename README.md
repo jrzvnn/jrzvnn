@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
  - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 😝 [I need answers](http://9gag.com/gag/aPAVbGQ)
  - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
+ - 😝 [Zelenskys visit was an absolute masterclass in wartime political messaging. By recording a selfie video in a city claimed by the Kremlin, he highlighted the fact that Putin routinely lies while also underlining Ukraines continued ability to defeat Russia on the battlefield](http://9gag.com/gag/aRB8nPB)
  - 👉 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)<!-- MEMES:END -->
 
 ---

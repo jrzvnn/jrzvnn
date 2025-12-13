@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need answers](http://9gag.com/gag/aPAVbGQ)
- - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 💣 [Yep](http://9gag.com/gag/aBybeON)
+ - 😝 [Yep](http://9gag.com/gag/aBybeON)
+ - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 💣 [I need answers](http://9gag.com/gag/aPAVbGQ)
  - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
  - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
 

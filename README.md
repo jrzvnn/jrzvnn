@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Gear News of the Week: Android Gets Emergency Live Video, and the Pixel Watch 4 Supports Gestures](https://www.wired.com/story/gear-news-of-the-week-android-gets-emergency-live-video-and-the-pixel-watch-4-supports-gestures/)
  - [A profile of Nex, which makes the $249 Nex Playground motion-based gaming system targeted toward kids and projects more than $150M of sales this year &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/251213/p7#a251213p7)
  - [How to Use Smart Lighting Around the Home: Reviewer Recommendations](https://www.wired.com/story/how-to-use-smart-lighting/)
- - [The Instagram-Fueled Boom in Copycat Vintage Car-Body Shells](https://www.wired.com/story/the-instagram-fueled-boom-in-copycat-vintage-car-body-shells/)
- - [OpenAI hopes the Disney deal boosts Sora, which has high costs and limited traction; Sensor Tower: users average 13 minutes per day on Sora vs. 90 on TikTok &lpar;Financial Times&rpar;](http://www.techmeme.com/251213/p6#a251213p6)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 13 #650](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-13-650/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 13, #446](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-13-446/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

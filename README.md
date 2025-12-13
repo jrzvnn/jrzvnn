@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
- - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [Yep](http://9gag.com/gag/aBybeON)
- - 👉 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)<!-- MEMES:END -->
+ - 😝 [Santa was never that happy](http://9gag.com/gag/awy9WWR)
+ - 😝 [Can&#39;t make this up](http://9gag.com/gag/aBybBxD)
+ - 💣 [Women of afrofuturism](http://9gag.com/gag/aVv9pLn)
+ - 😝 [Oh snap](http://9gag.com/gag/a1m83Bb)
+ - 👉 [Tribute](http://9gag.com/gag/aD2qKOx)<!-- MEMES:END -->
 
 ---
 

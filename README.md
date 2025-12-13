@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yep](http://9gag.com/gag/aBybeON)
- - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 💣 [I need answers](http://9gag.com/gag/aPAVbGQ)
- - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
+ - 😝 [Resistance is futile](http://9gag.com/gag/a34zXP1)
+ - 😝 [Totally realistic](http://9gag.com/gag/aGyr4DG)
+ - 💣 [Opponents helping each other out, love to see it](http://9gag.com/gag/aqyVEEL)
+ - 😝 [That&#39;s one proud grandpa right there.](http://9gag.com/gag/amoOZGj)
+ - 👉 [Santa was never that happy](http://9gag.com/gag/awy9WWR)<!-- MEMES:END -->
 
 ---
 

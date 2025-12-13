@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sektori is psychedelic, tough as nails, and worth the pain](https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s)
+ - [Here are the shipping deadlines to get your holiday gifts on time](https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines)
  - [Sources: private capital giant Apollo Global has shorted loans and rapidly cut exposure to the enterprise software sector in 2025 amid concerns over AI threat &lpar;Financial Times&rpar;](http://www.techmeme.com/251213/p8#a251213p8)
  - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
- - [Sip or Skip? I Tried 32 Holiday K-Cups to find the 10 Best Seasonal Pods for Your Keurig](https://www.cnet.com/home/kitchen-and-household/i-tried-32-holiday-k-cups-these-are-the-best-and-worst-to-drop-in-your-keurig-this-season/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Liverpool vs. Brighton Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-brighton-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

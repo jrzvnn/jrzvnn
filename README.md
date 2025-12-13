@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He just wanted to be closer to God...](http://9gag.com/gag/a5Q9O8y)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 💣 [I need answers](http://9gag.com/gag/aPAVbGQ)
  - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
- - 💣 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
- - 👉 [I need answers](http://9gag.com/gag/aPAVbGQ)<!-- MEMES:END -->
+ - 👉 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)<!-- MEMES:END -->
 
 ---
 

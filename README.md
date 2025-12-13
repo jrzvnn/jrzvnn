@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: The Trump administration is drafting a new cyber strategy that would enlist private companies to mount offensive cyberattacks on foreign adversaries &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/251213/p9#a251213p9)
  - [The Nex Playground and Pixel Buds 2A top our list of the best deals this week](https://www.theverge.com/gadgets/844093/nex-playground-google-pixel-buds-2a-deal-sale)
  - [The best thing I bought this year: a portable mechanical keyboard](https://www.theverge.com/gadgets/843455/mechanical-keyboard-nyphy-favorite)
  - [La Liga Soccer: Stream Barcelona vs. Osasuna Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-barcelona-vs-osasuna-live-from-anywhere/#ftag=CAD590a51e)
- - [Leak teases iOS 26.4 feature updates alongside iOS 27, iOS 28 plans](https://appleinsider.com/articles/25/12/13/leak-teases-ios-264-feature-updates-alongside-ios-27-ios-28-plans?utm_source=rss)
- - [18 Gifts for People Who Are Perpetually Cold &lpar;2025&rpar;](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold-2025/)<!-- TECH:END -->
+ - [Leak teases iOS 26.4 feature updates alongside iOS 27, iOS 28 plans](https://appleinsider.com/articles/25/12/13/leak-teases-ios-264-feature-updates-alongside-ios-27-ios-28-plans?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need answers](http://9gag.com/gag/aPAVbGQ)
- - 😝 [Yep](http://9gag.com/gag/aBybeON)
- - 💣 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 😝 [Black Christmas? No? Ok. I tried](http://9gag.com/gag/aMV0oXx)
- - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
+ - 😝 [\u2018Pulp Fiction,\u2019 \u2018The Mask\u2019 actor Peter Greene found dead at 60 inside his NYC apartment](http://9gag.com/gag/azxvWdq)
+ - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
+ - 💣 [I need answers](http://9gag.com/gag/aPAVbGQ)
+ - 😝 [Anne Hathaway](http://9gag.com/gag/aAyL9po)
+ - 👉 [Yep](http://9gag.com/gag/aBybeON)<!-- MEMES:END -->
 
 ---
 

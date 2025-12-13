@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professionals](http://9gag.com/gag/an70P7L)
+ - 😝 [Anne Hathaway](http://9gag.com/gag/aAyL9po)
  - 😝 [Yep](http://9gag.com/gag/aBybeON)
- - 💣 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)
- - 😝 [Here, take this](http://9gag.com/gag/an70o0z)
- - 👉 [That damn smile](http://9gag.com/gag/axyewAW)<!-- MEMES:END -->
+ - 💣 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)
+ - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
+ - 👉 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)<!-- MEMES:END -->
 
 ---
 

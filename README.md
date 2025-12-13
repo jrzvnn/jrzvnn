@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
  - 😝 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)
- - 😝 [Yep](http://9gag.com/gag/aBybeON)
- - 💣 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 💣 [Yep](http://9gag.com/gag/aBybeON)
  - 😝 [Winter break plans sorted](http://9gag.com/gag/a4PBXRy)
  - 👉 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)<!-- MEMES:END -->
 

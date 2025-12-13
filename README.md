@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Netflix House in Philadelphia, a new 100K sq. ft. location for in-person experiences, which resembles a Disneyland attraction and a Dave &amp; Buster&#39;s &lpar;Sarah Holder/Bloomberg&rpar;](http://www.techmeme.com/251213/p10#a251213p10)
- - [Slab is the first MIDI controller built exclusively for Serato Studio](https://www.theverge.com/tech/839732/serato-slab-midi-controller-studio)
- - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)
- - [WTF: This Boxing Humanoid Robot Is Unitree&#39;s Wildest Demo Yet](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/#ftag=CAD590a51e)
- - [This $1,500 robot cooks dinner while I work](https://www.theverge.com/tech/840599/posha-robot-chef-review)<!-- TECH:END -->
+ - [Walmart&#39;s $74 AirPods 4 deal makes last-minute holiday shopping a breeze](https://appleinsider.com/articles/25/12/13/walmarts-74-airpods-4-deal-makes-last-minute-holiday-shopping-a-breeze?utm_source=rss)
+ - [Blowback over posts about the death of Charlie Kirk has prompted companies to be more aggressive about monitoring employees&#39; social media activity &lpar;Taylor Telford/Washington Post&rpar;](http://www.techmeme.com/251213/p11#a251213p11)
+ - [A Kinect for kids is outselling Xbox to become the hot console this holiday](https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox)
+ - [11 Holiday Gifts Your Co-Workers and Employees Will Truly Appreciate](https://www.cnet.com/news/gifts-for-coworkers-and-employees/#ftag=CAD590a51e)
+ - [A look at Netflix House in Philadelphia, a new 100K sq. ft. location for in-person experiences, which resembles a Disneyland attraction and a Dave &amp; Buster&#39;s &lpar;Sarah Holder/Bloomberg&rpar;](http://www.techmeme.com/251213/p10#a251213p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

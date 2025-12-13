@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He just wanted to be closer to God...](http://9gag.com/gag/a5Q9O8y)
+ - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
  - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 💣 [I need answers](http://9gag.com/gag/aPAVbGQ)
- - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 👉 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)<!-- MEMES:END -->
+ - 💣 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 😝 [He just wanted to be closer to God...](http://9gag.com/gag/a5Q9O8y)
+ - 👉 [Yep](http://9gag.com/gag/aBybeON)<!-- MEMES:END -->
 
 ---
 

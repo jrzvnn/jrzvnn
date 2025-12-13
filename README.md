@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anne Hathaway](http://9gag.com/gag/aAyL9po)
- - 😝 [Yep](http://9gag.com/gag/aBybeON)
- - 💣 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)
- - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 👉 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)<!-- MEMES:END -->
+ - 😝 [Some human&#39;s mind works in a magical way](http://9gag.com/gag/aD2qeww)
+ - 😝 [Good Doggo](http://9gag.com/gag/a6ZeRN2)
+ - 💣 [Totally realistic](http://9gag.com/gag/aGyr4DG)
+ - 😝 [Resistance is futile](http://9gag.com/gag/a34zXP1)
+ - 👉 [Opponents helping each other out, love to see it](http://9gag.com/gag/aqyVEEL)<!-- MEMES:END -->
 
 ---
 

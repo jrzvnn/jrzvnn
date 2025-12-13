@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Data Centers Are Returning Nuclear Power to Tornado Country](https://www.wired.com/story/google-data-centers-will-bring-nuclear-power-back-to-tornado-country/)
+ - [The 24 Best Shows on Amazon Prime, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [Velotric Discover 2 Electric Bike Review: Versatile and Powerful](https://www.wired.com/review/velotric-discover-2/)
  - [AI Toys for Kids Talk About Sex, Drugs, and Chinese Propaganda](https://www.wired.com/story/security-news-this-week-ai-toys-for-kids-talk-about-sex-drugs-and-chinese-propaganda/)
- - [Gear News of the Week: Android Gets Emergency Live Video, and the Pixel Watch 4 Supports Gestures](https://www.wired.com/story/gear-news-of-the-week-android-gets-emergency-live-video-and-the-pixel-watch-4-supports-gestures/)
- - [A profile of Nex, which makes the $249 Nex Playground motion-based gaming system targeted toward kids and projects more than $150M of sales this year &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/251213/p7#a251213p7)
- - [How to Use Smart Lighting Around the Home: Reviewer Recommendations](https://www.wired.com/story/how-to-use-smart-lighting/)<!-- TECH:END -->
+ - [I&#39;m Begging You to Stop Anthropomorphizing AI. Here&#39;s Why It&#39;s Harmful](https://www.cnet.com/tech/services-and-software/stop-talking-about-ai-as-if-its-human-anthropomorphizing-commentary/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

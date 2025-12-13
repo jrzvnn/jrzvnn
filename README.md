@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [I need answers](http://9gag.com/gag/aPAVbGQ)
  - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
  - 💣 [Yep](http://9gag.com/gag/aBybeON)
- - 😝 [Black Christmas? No? Ok. I tried](http://9gag.com/gag/aMV0oXx)
+ - 😝 [High trust society | 0:34](http://9gag.com/gag/a87vR06)
  - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
 
 ---

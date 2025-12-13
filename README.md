@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need answers](http://9gag.com/gag/aPAVbGQ)
- - 😝 [Yep](http://9gag.com/gag/aBybeON)
+ - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
+ - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
  - 💣 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
  - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
- - 👉 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)<!-- MEMES:END -->
+ - 👉 [I need answers](http://9gag.com/gag/aPAVbGQ)<!-- MEMES:END -->
 
 ---
 

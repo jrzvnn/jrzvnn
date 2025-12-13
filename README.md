@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Instagram-Fueled Boom in Copycat Vintage Car-Body Shells](https://www.wired.com/story/the-instagram-fueled-boom-in-copycat-vintage-car-body-shells/)
  - [OpenAI hopes the Disney deal boosts Sora, which has high costs and limited traction; Sensor Tower: users average 13 minutes per day on Sora vs. 90 on TikTok &lpar;Financial Times&rpar;](http://www.techmeme.com/251213/p6#a251213p6)
  - [Broadcom&#39;s shares fell 11% on December 12, their biggest single-day drop since January, after the company&#39;s AI sales outlook fell short of investor expectations &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251213/p5#a251213p5)
  - [Indian IT giant TCS agrees to acquire Coastal Cloud, a Florida-based Salesforce consulting partner, for $700M, in a bid to boost its AI and US customer business &lpar;Mark Haranas/CRN&rpar;](http://www.techmeme.com/251213/p4#a251213p4)
- - [Cisco&#39;s stock touched a new record high of $80.25 on December 10, surpassing its previous split-adjusted high of $80.06 on March 27, 2000; CSCO is up 31.64% YTD &lpar;Robin Wigglesworth/Financial Times&rpar;](http://www.techmeme.com/251213/p3#a251213p3)
- - [Seagate and Western Digital, with stocks each up 200%+ in 2025, will join Nasdaq 100 before the December 22 market open; GlobalFoundries will leave the index &lpar;Isabelle Lee/Bloomberg&rpar;](http://www.techmeme.com/251213/p2#a251213p2)<!-- TECH:END -->
+ - [Cisco&#39;s stock touched a new record high of $80.25 on December 10, surpassing its previous split-adjusted high of $80.06 on March 27, 2000; CSCO is up 31.64% YTD &lpar;Robin Wigglesworth/Financial Times&rpar;](http://www.techmeme.com/251213/p3#a251213p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

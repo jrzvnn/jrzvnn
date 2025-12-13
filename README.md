@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
  - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
  - 💣 [Yep](http://9gag.com/gag/aBybeON)
- - 😝 [The eyes, chico, they never lie](http://9gag.com/gag/aAyL9qd)
+ - 😝 [Winter break plans sorted](http://9gag.com/gag/a4PBXRy)
  - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
 
 ---

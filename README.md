@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
+ - [Singapore-based ChemLex raised a $45M funding round led by Granite Asia to build an AI-powered, automated chemistry lab to accelerate drug discovery &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/251212/p33#a251212p33)
  - [Sources: Intel is in advanced talks to acquire AI chip startup SambaNova for about $1.6B including debt; the deal could come together as soon as next month &lpar;Bloomberg&rpar;](http://www.techmeme.com/251212/p32#a251212p32)
  - [Automated digital wealth management company Wealthfront&#39;s stock closed up 1.36% in its Nasdaq debut, valuing it at ~$2.7B, after raising $486M in its IPO &lpar;Andrew Welsch/Barron&#39;s Online&rpar;](http://www.techmeme.com/251212/p31#a251212p31)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Shares of data center real estate company Fermi closed down 34% after a tenant terminated a $150M agreement to help fund an AI campus in West Texas &lpar;Financial Times&rpar;](http://www.techmeme.com/251212/p30#a251212p30)
- - [TP-Link Deco BE14000 review: more capable whole-home tri-band mesh Wi-Fi 7](https://appleinsider.com/articles/25/12/12/tp-link-deco-be14000-review-more-capable-whole-home-tri-band-mesh-wi-fi-7?utm_source=rss)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

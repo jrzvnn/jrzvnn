@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some human&#39;s mind works in a magical way](http://9gag.com/gag/aD2qeww)
- - 😝 [Good Doggo](http://9gag.com/gag/a6ZeRN2)
- - 💣 [Totally realistic](http://9gag.com/gag/aGyr4DG)
- - 😝 [Resistance is futile](http://9gag.com/gag/a34zXP1)
- - 👉 [Opponents helping each other out, love to see it](http://9gag.com/gag/aqyVEEL)<!-- MEMES:END -->
+ - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 😝 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)
+ - 💣 [Yep](http://9gag.com/gag/aBybeON)
+ - 😝 [Winter break plans sorted](http://9gag.com/gag/a4PBXRy)
+ - 👉 [Some human&#39;s mind works in a magical way](http://9gag.com/gag/aD2qeww)<!-- MEMES:END -->
 
 ---
 

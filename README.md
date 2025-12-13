@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: private capital giant Apollo Global has shorted loans and rapidly cut exposure to the enterprise software sector in 2025 amid concerns over AI threat &lpar;Financial Times&rpar;](http://www.techmeme.com/251213/p8#a251213p8)
  - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
  - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
  - [Sip or Skip? I Tried 32 Holiday K-Cups to find the 10 Best Seasonal Pods for Your Keurig](https://www.cnet.com/home/kitchen-and-household/i-tried-32-holiday-k-cups-these-are-the-best-and-worst-to-drop-in-your-keurig-this-season/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Liverpool vs. Brighton Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-brighton-live-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Chelsea vs. Everton Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-chelsea-vs-everton-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Liverpool vs. Brighton Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-brighton-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

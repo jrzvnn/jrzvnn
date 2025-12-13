@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Oracle&#39;s massive Stargate deal with OpenAI has pushed Oracle to the center of the AI boom, turning its market cap into a barometer on AI sentiment &lpar;Bloomberg&rpar;](http://www.techmeme.com/251213/p12#a251213p12)
  - [Paramount&#39;s Hostile Bid for Warner Bros. Aims to Block Netflix&#39;s $83 Billion Offer](https://www.cnet.com/tech/services-and-software/netflix-is-buying-warner-bros-in-83b-deal/#ftag=CAD590a51e)
  - [Walmart&#39;s $74 AirPods 4 deal makes last-minute holiday shopping a breeze](https://appleinsider.com/articles/25/12/13/walmarts-74-airpods-4-deal-makes-last-minute-holiday-shopping-a-breeze?utm_source=rss)
  - [Blowback over posts about the death of Charlie Kirk has prompted companies to be more aggressive about monitoring employees&#39; social media activity &lpar;Taylor Telford/Washington Post&rpar;](http://www.techmeme.com/251213/p11#a251213p11)
- - [A Kinect for kids is outselling Xbox to become the hot console this holiday](https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox)
- - [11 Holiday Gifts Your Co-Workers and Employees Will Truly Appreciate](https://www.cnet.com/news/gifts-for-coworkers-and-employees/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Kinect for kids is outselling Xbox to become the hot console this holiday](https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Microsoft AI CEO Mustafa Suleyman on defining superintelligence, its application in the medical field, universal basic income, regulation, and more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/251213/p17#a251213p17)
+ - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)
  - [Despite talk of an existential US-China AI race, the Chinese state and its major companies are spending more to dominate other domains, such as EVs and robotics &lpar;Tim Wu/Financial Times&rpar;](http://www.techmeme.com/251213/p16#a251213p16)
  - [To build more powerful AI systems, some AI leaders are focusing on pursuing an approach called continual learning, which mimics how people learn over time &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251213/p15#a251213p15)
- - [&#39;Landman&#39; Season 2, Episode 5: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-release-schedule/#ftag=CAD590a51e)
- - [A University of Cambridge analysis reveals how cheap SMS text message verification to create online accounts fuels global influence and manipulation campaigns &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/251213/p14#a251213p14)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 14 #651](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-14-651/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Landman&#39; Season 2, Episode 5: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-release-schedule/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

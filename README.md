@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 💣 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 😝 [Maybe we should follow in their footsteps](http://9gag.com/gag/aYQv9Aw)
- - 👉 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)<!-- MEMES:END -->
+ - 😝 [Why?](http://9gag.com/gag/azxvnXZ)
+ - 😝 [Damn right!](http://9gag.com/gag/apRn4n5)
+ - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [Idiocracy aged well &lpar;sadly&rpar;](http://9gag.com/gag/a5Q94Gy)
+ - 👉 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)<!-- MEMES:END -->
 
 ---
 

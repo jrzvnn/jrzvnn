@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ServiceNow is in advanced talks to buy Armis, which helps businesses secure and manage IoT devices, in a deal that may value Armis at as much as $7B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p1#a251214p1)
- - [The US CFTC withdraws its 2020 guidance on the &quot;actual delivery&quot; of a digital asset, aiming to support broader access to regulated crypto markets &lpar;Micah Zimmerman/Bitcoin Magazine&rpar;](http://www.techmeme.com/251213/p18#a251213p18)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 14, #447](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-14-447/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-14/#ftag=CAD590a51e)
- - [Q&amp;A with Microsoft AI CEO Mustafa Suleyman on defining superintelligence, its application in the medical field, universal basic income, regulation, and more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/251213/p17#a251213p17)<!-- TECH:END -->
+ - [Amazon rolls out Ask This Book to the Kindle iOS app, letting readers ask questions about plot or characters; authors can&#39;t opt out &lpar;Will McCurdy/PCMag&rpar;](http://www.techmeme.com/251214/p5#a251214p5)
+ - [Qargo, which offers a cloud-based transport management service for carriers, freight forwarders, and third-party logistics, raised a $33M Series B led by Sofina &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251214/p4#a251214p4)
+ - [Outset, which develops AI agents that help Microsoft and other companies conduct customer research and surveys, raised a $30M Series B led by Radical Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251214/p3#a251214p3)
+ - [Sources: OpenAI told staff it was ending the six-month &quot;vesting cliff&quot; that required new employees to work for at least six months before their equity vests &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251214/p2#a251214p2)
+ - [Sources: ServiceNow is in advanced talks to buy Armis, which helps businesses secure and manage IoT devices, in a deal that may value Armis at as much as $7B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p1#a251214p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

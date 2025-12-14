@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women of afrofuturism](http://9gag.com/gag/aVv9pLn)
- - 😝 [Oh snap](http://9gag.com/gag/a1m83Bb)
- - 💣 [Tribute](http://9gag.com/gag/aD2qKOx)
- - 😝 [Damn right!](http://9gag.com/gag/apRn4n5)
- - 👉 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [They must be Mormon](http://9gag.com/gag/aAyLjD2)
+ - 💣 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)
+ - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 👉 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)<!-- MEMES:END -->
 
 ---
 

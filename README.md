@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Exor rejects Tether&#39;s all-cash offer for its 65.4% controlling stake in Juventus, which valued the Italian soccer club at €1.1B &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/251214/p13#a251214p13)
+ - [24 of the Best Board Games for Holiday Gifting in 2025](https://www.cnet.com/culture/entertainment/best-board-games-to-give/#ftag=CAD590a51e)
  - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)
  - [Solve Intelligence, which offers generative AI tools to law firms for IP and patent law work, raised a $40M Series B, bringing its total funding to $55M &lpar;Mike Butcher/Pathfounders&rpar;](http://www.techmeme.com/251214/p12#a251214p12)
- - [Inside the high drama of the iPhone 4](https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4)
- - [Best Tested Walking Pads &lpar;2025&rpar;: Urevo, WalkingPad, Sperax](https://www.wired.com/story/best-walking-pads/)
- - [10 Best Portable Power Stations &lpar;2025&rpar;: Power Capacity, Portability, Camping, and More](https://www.wired.com/gallery/best-portable-power-stations/)<!-- TECH:END -->
+ - [Inside the high drama of the iPhone 4](https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

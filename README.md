@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
  - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 💣 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 😝 [Denis Leary has a point.](http://9gag.com/gag/a0eDBBz)
+ - 💣 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)
+ - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
  - 👉 [38 years old](http://9gag.com/gag/azxvpZp)<!-- MEMES:END -->
 
 ---

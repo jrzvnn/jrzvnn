@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need answers](http://9gag.com/gag/aPAVbGQ)
- - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
- - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
+ - 😝 [Coffee mug.. for rock climbers](http://9gag.com/gag/aqyVPqj)
+ - 😝 [Tribute](http://9gag.com/gag/aD2qKOx)
+ - 💣 [Damn right!](http://9gag.com/gag/apRn4n5)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 👉 [Here, take this](http://9gag.com/gag/an70o0z)<!-- MEMES:END -->
 
 ---
 

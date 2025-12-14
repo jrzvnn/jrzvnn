@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
  - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 💣 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
- - 😝 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
+ - 💣 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 😝 [Denis Leary has a point.](http://9gag.com/gag/a0eDBBz)
  - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
 
 ---

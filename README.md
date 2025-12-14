@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
  - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 💣 [38 years old](http://9gag.com/gag/azxvpZp)
+ - 💣 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)
  - 😝 [Hero](http://9gag.com/gag/aryDYwp)
- - 👉 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)<!-- MEMES:END -->
+ - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy XR Review: Needs More Polish](https://www.wired.com/review/samsung-galaxy-xr/)
+ - [PlayStation Portal&#39;s Latest Update Proves Sony Needs a Real Handheld Console Again](https://www.wired.com/story/playstation-portals-latest-update-proves-sony-needs-a-real-handheld-console-again/)
  - [How Do Astronomers Find Planets in Other Solar Systems?](https://www.wired.com/story/how-do-astronomers-find-planets-in-other-solar-systems/)
  - [A Chef Reveals How to Get Perfectly Steamed Vegetables in an Instant Pot](https://www.cnet.com/home/kitchen-and-household/how-steam-vegetables-instant-pot/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 14 #651](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-14-651/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 14, #1639](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-14-1639/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 14, #917](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-14-917/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 14 #651](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-14-651/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

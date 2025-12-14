@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
- - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - 💣 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)
- - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
- - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
+ - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 💣 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
+ - 😝 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
+ - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
 
 ---
 

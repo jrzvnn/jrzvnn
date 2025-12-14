@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nanit Home Display Review: A Transformative Tablet](https://www.wired.com/review/nanit-home-display/)
+ - [I&amp;#8217;m finally beginning to trust Microsoft&amp;#8217;s handheld Xbox](https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later)
  - [How media coverage of Trump&#39;s AI EO overstated federal authority over states and overlooked how the order&#39;s interstate commerce argument could backfire &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/251214/p11#a251214p11)
  - [The Best Bike Gear for Your Brisk, Wintry Commute &lpar;2025&rpar;](https://www.wired.com/gallery/bike-gear-winter-commute/)
- - [AI image generators are getting better by getting worse](https://www.theverge.com/column/843883/ai-image-generators-better-worse)
- - [A new old idea about video stores](https://www.theverge.com/tech/844117/letterboxd-store-skate-story-ifixit-installer)
- - [Smart Glasses Are Coming for Your Face, With Wild Options for 2026](https://www.cnet.com/tech/computing/features/smart-glasses-revolution-whats-coming-meta-ray-bans-and-beyond/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI image generators are getting better by getting worse](https://www.theverge.com/column/843883/ai-image-generators-better-worse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

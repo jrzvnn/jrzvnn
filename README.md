@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Professionals](http://9gag.com/gag/an70P7L)
+ - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 💣 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
  - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [They must be Mormon](http://9gag.com/gag/aAyLjD2)
- - 💣 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)
- - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 👉 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)<!-- MEMES:END -->
+ - 👉 [I need answers](http://9gag.com/gag/aPAVbGQ)<!-- MEMES:END -->
 
 ---
 

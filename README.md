@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grok is spreading misinformation about the Bondi Beach shooting](https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting)
  - [Delivery Hero Chair Kristin Skogen Lund backs CEO Niklas Östberg as the group explores asset sales amid shareholder pressure over its falling stock price &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/251214/p14#a251214p14)
  - [Amazon&#39;s $399 Samsung M8 USB-C monitor deal ends today](https://appleinsider.com/articles/25/12/14/amazons-399-samsung-m8-usb-c-monitor-deal-ends-today?utm_source=rss)
  - [Absynth is back and weirder than ever after 16 years](https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno)
- - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)
- - [Netflix Has Stopped Allowing Streaming From Phone to TV: How to Watch Now](https://www.cnet.com/tech/services-and-software/netflix-has-stopped-allowing-streaming-from-phone-to-tv-how-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

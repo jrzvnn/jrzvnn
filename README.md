@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
- - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
  - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
+ - 😝 [When you were paying $1800 a month, now you only do $450. Justice](http://9gag.com/gag/a5Q90DO)
+ - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
+ - 👉 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)<!-- MEMES:END -->
 
 ---
 

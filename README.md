@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
  - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 💣 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)
- - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 😝 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
+ - 💣 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 😝 [Haters will say the Emus forced him](http://9gag.com/gag/a1m8Gpb)
  - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
 
 ---

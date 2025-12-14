@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
  - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 💣 [I need answers](http://9gag.com/gag/aPAVbGQ)
+ - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
+ - 💣 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
  - 😝 [Maybe we should follow in their footsteps](http://9gag.com/gag/aYQv9Aw)
  - 👉 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)<!-- MEMES:END -->
 

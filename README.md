@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 💣 [Double tap on the screen](http://9gag.com/gag/abALNNX)
- - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
+ - 😝 [Nut-cracker almost cracks the nut](https://www.reddit.com/r/funny/comments/1pm5vol/nutcracker_almost_cracks_the_nut/)
+ - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
+ - 💣 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 👉 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 💣 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)
- - 😝 [Hero](http://9gag.com/gag/aryDYwp)
- - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 💣 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 😝 [Denis Leary has a point.](http://9gag.com/gag/a0eDBBz)
+ - 👉 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)<!-- MEMES:END -->
 
 ---
 

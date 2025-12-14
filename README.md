@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [Wise words from Superman himself. .](http://9gag.com/gag/adBWEv9)
- - 💣 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 😝 [2025 Update](http://9gag.com/gag/ajP3p3G)
- - 👉 [High trust society | 0:34](http://9gag.com/gag/a87vR06)<!-- MEMES:END -->
+ - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
+ - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 💣 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 😝 [Denis Leary has a point.](http://9gag.com/gag/a0eDBBz)
+ - 👉 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)<!-- MEMES:END -->
 
 ---
 

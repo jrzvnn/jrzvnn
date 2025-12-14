@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh snap](http://9gag.com/gag/a1m83Bb)
- - 😝 [Tribute](http://9gag.com/gag/aD2qKOx)
- - 💣 [Damn right!](http://9gag.com/gag/apRn4n5)
+ - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 💣 [I need answers](http://9gag.com/gag/aPAVbGQ)
  - 😝 [Maybe we should follow in their footsteps](http://9gag.com/gag/aYQv9Aw)
- - 👉 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
+ - 👉 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)<!-- MEMES:END -->
 
 ---
 

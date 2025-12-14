@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)
  - [Solve Intelligence, which offers generative AI tools to law firms for IP and patent law work, raised a $40M Series B, bringing its total funding to $55M &lpar;Mike Butcher/Pathfounders&rpar;](http://www.techmeme.com/251214/p12#a251214p12)
  - [Inside the high drama of the iPhone 4](https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4)
  - [Best Tested Walking Pads &lpar;2025&rpar;: Urevo, WalkingPad, Sperax](https://www.wired.com/story/best-walking-pads/)
- - [10 Best Portable Power Stations &lpar;2025&rpar;: Power Capacity, Portability, Camping, and More](https://www.wired.com/gallery/best-portable-power-stations/)
- - [The end of OpenAI, and other 2026 predictions](https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple)<!-- TECH:END -->
+ - [10 Best Portable Power Stations &lpar;2025&rpar;: Power Capacity, Portability, Camping, and More](https://www.wired.com/gallery/best-portable-power-stations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

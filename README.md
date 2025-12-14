@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Security, which develops AI agents that help with security design during software development, raised a $20M Series A led by Scale Venture Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251214/p7#a251214p7)
+ - [SuperCircle, which offers an AI-powered reverse logistics and recycling management service for retail brands, raised a $24M+ Series A led by Foundry Group &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251214/p6#a251214p6)
  - [Amazon rolls out Ask This Book to the Kindle iOS app, letting readers ask questions about plot or characters; authors can&#39;t opt out &lpar;Will McCurdy/PCMag&rpar;](http://www.techmeme.com/251214/p5#a251214p5)
  - [Qargo, which offers a cloud-based transport management service for carriers, freight forwarders, and third-party logistics, raised a $33M Series B led by Sofina &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251214/p4#a251214p4)
- - [Outset, which develops AI agents that help Microsoft and other companies conduct customer research and surveys, raised a $30M Series B led by Radical Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251214/p3#a251214p3)
- - [Sources: OpenAI told staff it was ending the six-month &quot;vesting cliff&quot; that required new employees to work for at least six months before their equity vests &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251214/p2#a251214p2)
- - [Sources: ServiceNow is in advanced talks to buy Armis, which helps businesses secure and manage IoT devices, in a deal that may value Armis at as much as $7B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p1#a251214p1)<!-- TECH:END -->
+ - [Outset, which develops AI agents that help Microsoft and other companies conduct customer research and surveys, raised a $30M Series B led by Radical Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251214/p3#a251214p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
  - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 💣 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 😝 [Denis Leary has a point.](http://9gag.com/gag/a0eDBBz)
+ - 💣 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)
+ - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
  - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
 
 ---

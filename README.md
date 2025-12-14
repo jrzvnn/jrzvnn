@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Absynth is back and weirder than ever after 16 years](https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno)
  - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)
  - [Exor rejects Tether&#39;s all-cash offer for its 65.4% controlling stake in Juventus, which valued the Italian soccer club at €1.1B &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/251214/p13#a251214p13)
  - [La Liga Soccer: Stream Alavés vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-alaves-real-madrid-live-from-anywhere/#ftag=CAD590a51e)
- - [24 of the Best Board Games for Holiday Gifting in 2025](https://www.cnet.com/culture/entertainment/best-board-games-to-give/#ftag=CAD590a51e)
- - [Solve Intelligence, which offers generative AI tools to law firms for IP and patent law work, raised a $40M Series B, bringing its total funding to $55M &lpar;Mike Butcher/Pathfounders&rpar;](http://www.techmeme.com/251214/p12#a251214p12)<!-- TECH:END -->
+ - [24 of the Best Board Games for Holiday Gifting in 2025](https://www.cnet.com/culture/entertainment/best-board-games-to-give/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

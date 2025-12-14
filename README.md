@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 💣 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)
- - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 👉 [38 years old](http://9gag.com/gag/azxvpZp)<!-- MEMES:END -->
+ - 😝 [Wise words from Superman himself. .](http://9gag.com/gag/adBWEv9)
+ - 💣 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
+ - 😝 [2025 Update](http://9gag.com/gag/ajP3p3G)
+ - 👉 [High trust society | 0:34](http://9gag.com/gag/a87vR06)<!-- MEMES:END -->
 
 ---
 

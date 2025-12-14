@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Delivery Hero Chair Kristin Skogen Lund backs CEO Niklas Östberg as the group explores asset sales amid shareholder pressure over its falling stock price &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/251214/p14#a251214p14)
  - [Amazon&#39;s $399 Samsung M8 USB-C monitor deal ends today](https://appleinsider.com/articles/25/12/14/amazons-399-samsung-m8-usb-c-monitor-deal-ends-today?utm_source=rss)
  - [Absynth is back and weirder than ever after 16 years](https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno)
  - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)
- - [Exor rejects Tether&#39;s all-cash offer for its 65.4% controlling stake in Juventus, which valued the Italian soccer club at €1.1B &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/251214/p13#a251214p13)
- - [La Liga Soccer: Stream Alavés vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-alaves-real-madrid-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Exor rejects Tether&#39;s all-cash offer for its 65.4% controlling stake in Juventus, which valued the Italian soccer club at €1.1B &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/251214/p13#a251214p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

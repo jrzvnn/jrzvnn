@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 💣 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 😝 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
+ - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 💣 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 😝 [Here&#39;s a new feature, it\u2019s nothing really to do anything with AI, but we call it AI because it\u2019s the trend right now](http://9gag.com/gag/aZZ4GWp)
  - 👉 [He just wanted to be closer to God...](http://9gag.com/gag/a5Q9O8y)<!-- MEMES:END -->
 
 ---

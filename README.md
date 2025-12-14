@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 💣 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 😝 [Denis Leary has a point.](http://9gag.com/gag/a0eDBBz)
- - 👉 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)<!-- MEMES:END -->
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 💣 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 👉 [He just wanted to be closer to God...](http://9gag.com/gag/a5Q9O8y)<!-- MEMES:END -->
 
 ---
 

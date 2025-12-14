@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Protesters arrested outside NYC Apple Store on Black Friday](https://appleinsider.com/articles/25/12/14/crime-blotter-protesters-arrested-outside-nyc-apple-store-on-black-friday?utm_source=rss)
  - [Samsung Galaxy XR Review: Needs More Polish](https://www.wired.com/review/samsung-galaxy-xr/)
  - [PlayStation Portal&#39;s Latest Update Proves Sony Needs a Real Handheld Console Again](https://www.wired.com/story/playstation-portals-latest-update-proves-sony-needs-a-real-handheld-console-again/)
- - [How Do Astronomers Find Planets in Other Solar Systems?](https://www.wired.com/story/how-do-astronomers-find-planets-in-other-solar-systems/)
- - [A Chef Reveals How to Get Perfectly Steamed Vegetables in an Instant Pot](https://www.cnet.com/home/kitchen-and-household/how-steam-vegetables-instant-pot/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 14 #651](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-14-651/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Crystal Palace vs. Man City Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-crystal-palace-vs-man-city-live-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Sunderland vs. Newcastle Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-sunderland-vs-newcastle-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
+ - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
+ - 💣 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)
  - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
- - 💣 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - 😝 [He just wanted to be closer to God...](http://9gag.com/gag/a5Q9O8y)
  - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
- - 😝 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
- - 💣 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
- - 😝 [Science](http://9gag.com/gag/a9y496o)
- - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
+ - 😝 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
+ - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 👉 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ServiceNow is in advanced talks to buy Armis, which helps businesses secure and manage IoT devices, in a deal that may value Armis at as much as $7B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p1#a251214p1)
  - [The US CFTC withdraws its 2020 guidance on the &quot;actual delivery&quot; of a digital asset, aiming to support broader access to regulated crypto markets &lpar;Micah Zimmerman/Bitcoin Magazine&rpar;](http://www.techmeme.com/251213/p18#a251213p18)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 14, #447](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-14-447/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-14/#ftag=CAD590a51e)
- - [Q&amp;A with Microsoft AI CEO Mustafa Suleyman on defining superintelligence, its application in the medical field, universal basic income, regulation, and more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/251213/p17#a251213p17)
- - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)<!-- TECH:END -->
+ - [Q&amp;A with Microsoft AI CEO Mustafa Suleyman on defining superintelligence, its application in the medical field, universal basic income, regulation, and more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/251213/p17#a251213p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [You need to listen to Sudan Archives&amp;#8217; violin opus for the club](https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm)
  - [How Skövde, a small Swedish city of 58,000, built a local video game ecosystem via a degree for game developers at University of Skövde and a startup incubator &lpar;Ralph Jones/The Guardian&rpar;](http://www.techmeme.com/251214/p16#a251214p16)
- - [A look at the efforts to open private markets where shares of startups like OpenAI and SpaceX trade to small investors and opportunities and risks they bring &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/251214/p15#a251214p15)
+ - [A look at the efforts to open private markets, where shares of startups like OpenAI trade, to small investors, and the opportunities and risks they bring &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/251214/p15#a251214p15)
  - [Grok is spreading misinformation about the Bondi Beach shooting](https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 15 #652](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-15-652/#ftag=CAD590a51e)<!-- TECH:END -->
 

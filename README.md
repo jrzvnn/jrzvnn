@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn is building a massive factory in KY, but probably not for Apple](https://appleinsider.com/articles/25/12/14/foxconn-is-building-a-massive-factory-in-ky-but-probably-not-for-apple?utm_source=rss)
  - [Nanit Home Display Review: A Transformative Tablet](https://www.wired.com/review/nanit-home-display/)
  - [I&amp;#8217;m finally beginning to trust Microsoft&amp;#8217;s handheld Xbox](https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later)
- - [How media coverage of Trump&#39;s AI EO overstated federal authority over states and overlooked how the order&#39;s interstate commerce argument could backfire &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/251214/p11#a251214p11)
- - [The Best Bike Gear for Your Brisk, Wintry Commute &lpar;2025&rpar;](https://www.wired.com/gallery/bike-gear-winter-commute/)
- - [AI image generators are getting better by getting worse](https://www.theverge.com/column/843883/ai-image-generators-better-worse)<!-- TECH:END -->
+ - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. Mainz](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-mainz/#ftag=CAD590a51e)
+ - [What a Ban Would Actually Mean for DJI Drone Owners and Holiday Shoppers](https://www.cnet.com/tech/computing/what-a-ban-would-actually-mean-for-dji-drone-owners-and-holiday-shoppers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

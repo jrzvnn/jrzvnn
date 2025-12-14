@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
  - 💣 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)
  - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
  - 👉 [38 years old](http://9gag.com/gag/azxvpZp)<!-- MEMES:END -->

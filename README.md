@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 💣 [38 years old](http://9gag.com/gag/azxvpZp)
+ - 😝 [Why?](http://9gag.com/gag/azxvnXZ)
+ - 😝 [Wise words from Superman himself. .](http://9gag.com/gag/adBWEv9)
+ - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
  - 😝 [Hero](http://9gag.com/gag/aryDYwp)
- - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
+ - 👉 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)<!-- MEMES:END -->
 
 ---
 

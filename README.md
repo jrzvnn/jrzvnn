@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the Bondi shooters..](http://9gag.com/gag/a1m89nY)
  - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 💣 [\u201cThe cutscene couldn\u2019t be that important.\u201d Right after:](http://9gag.com/gag/aW4erRd)
- - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 💣 [38 years old](http://9gag.com/gag/azxvpZp)
+ - 😝 [Hero](http://9gag.com/gag/aryDYwp)
  - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
 
 ---

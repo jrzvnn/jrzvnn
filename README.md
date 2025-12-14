@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite talk of an existential US-China AI race, the Chinese state and its major companies are spending more to dominate other domains, such as EVs and robotics &lpar;Tim Wu/Financial Times&rpar;](http://www.techmeme.com/251213/p16#a251213p16)
  - [To build more powerful AI systems, some AI leaders are focusing on pursuing an approach called continual learning, which mimics how people learn over time &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251213/p15#a251213p15)
+ - [&#39;Landman&#39; Season 2, Episode 5: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-release-schedule/#ftag=CAD590a51e)
  - [A University of Cambridge analysis reveals how cheap SMS text message verification to create online accounts fuels global influence and manipulation campaigns &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/251213/p14#a251213p14)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 14 #651](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-14-651/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 14, #917](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-14-917/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 14, #1639](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-14-1639/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 14 #651](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-14-651/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

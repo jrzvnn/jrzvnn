@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
- - 😝 [Resistance is futile](http://9gag.com/gag/a34zXP1)
- - 💣 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
- - 👉 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)<!-- MEMES:END -->
+ - 😝 [Women of afrofuturism](http://9gag.com/gag/aVv9pLn)
+ - 😝 [Oh snap](http://9gag.com/gag/a1m83Bb)
+ - 💣 [Tribute](http://9gag.com/gag/aD2qKOx)
+ - 😝 [Damn right!](http://9gag.com/gag/apRn4n5)
+ - 👉 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
 
 ---
 

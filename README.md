@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Tested Walking Pads &lpar;2025&rpar;: Urevo, WalkingPad, Sperax](https://www.wired.com/story/best-walking-pads/)
  - [10 Best Portable Power Stations &lpar;2025&rpar;: Power Capacity, Portability, Camping, and More](https://www.wired.com/gallery/best-portable-power-stations/)
  - [The end of OpenAI, and other 2026 predictions](https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple)
  - [Foxconn is building a massive factory in KY, but probably not for Apple](https://appleinsider.com/articles/25/12/14/foxconn-is-building-a-massive-factory-in-ky-but-probably-not-for-apple?utm_source=rss)
- - [Nanit Home Display Review: A Transformative Tablet](https://www.wired.com/review/nanit-home-display/)
- - [I&amp;#8217;m finally beginning to trust Microsoft&amp;#8217;s handheld Xbox](https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later)<!-- TECH:END -->
+ - [Nanit Home Display Review: A Transformative Tablet](https://www.wired.com/review/nanit-home-display/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

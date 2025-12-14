@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why?](http://9gag.com/gag/azxvnXZ)
- - 😝 [Damn right!](http://9gag.com/gag/apRn4n5)
- - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [Idiocracy aged well &lpar;sadly&rpar;](http://9gag.com/gag/a5Q94Gy)
- - 👉 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)<!-- MEMES:END -->
+ - 😝 [One of the Bondi shooters..](http://9gag.com/gag/a1m89nY)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 💣 [\u201cThe cutscene couldn\u2019t be that important.\u201d Right after:](http://9gag.com/gag/aW4erRd)
+ - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
 
 ---
 

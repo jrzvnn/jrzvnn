@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
  - 💣 [I need answers](http://9gag.com/gag/aPAVbGQ)
  - 😝 [Maybe we should follow in their footsteps](http://9gag.com/gag/aYQv9Aw)
- - 👉 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)<!-- MEMES:END -->
+ - 👉 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Portable Power Stations &lpar;2025&rpar;: Power Capacity, Portability, Camping, and More](https://www.wired.com/gallery/best-portable-power-stations/)
+ - [The end of OpenAI, and other 2026 predictions](https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple)
  - [Foxconn is building a massive factory in KY, but probably not for Apple](https://appleinsider.com/articles/25/12/14/foxconn-is-building-a-massive-factory-in-ky-but-probably-not-for-apple?utm_source=rss)
  - [Nanit Home Display Review: A Transformative Tablet](https://www.wired.com/review/nanit-home-display/)
- - [I&amp;#8217;m finally beginning to trust Microsoft&amp;#8217;s handheld Xbox](https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later)
- - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. Mainz](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-mainz/#ftag=CAD590a51e)
- - [What a Ban Would Actually Mean for DJI Drone Owners and Holiday Shoppers](https://www.cnet.com/tech/computing/what-a-ban-would-actually-mean-for-dji-drone-owners-and-holiday-shoppers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I&amp;#8217;m finally beginning to trust Microsoft&amp;#8217;s handheld Xbox](https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)
- - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 💣 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
  - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
+ - 😝 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
+ - 💣 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - 😝 [Science](http://9gag.com/gag/a9y496o)
  - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
 
 ---

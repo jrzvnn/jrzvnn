@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of ASML, Europe&#39;s most valuable company, as it prepares for a transition to High NA EUV, with high-volume manufacturing expected in 2027 and 2028 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p10#a251214p10)
- - [Is Your Vibrator Spying on You?](https://www.wired.com/story/is-your-vibrator-spying-on-you/)
- - [2026 and the Rise of Humanoid Robots: Looking at Trust, Privacy and the Future of Work](https://www.cnet.com/tech/computing/2026-and-the-rise-of-humanoid-robots-looking-at-trust-privacy-and-the-future-of-work/#ftag=CAD590a51e)
- - [Crypto casinos have become online gambling havens for teens and problem gamblers, propped up by operators who turn social media influencers into recruiters &lpar;New York Times&rpar;](http://www.techmeme.com/251214/p9#a251214p9)
- - [Alpine A390 Review: Price, Specs, Availability](https://www.wired.com/review/review-alpine-a390/)<!-- TECH:END -->
+ - [How Do Astronomers Find Planets in Other Solar Systems?](https://www.wired.com/story/how-do-astronomers-find-planets-in-other-solar-systems/)
+ - [A Chef Reveals How to Get Perfectly Steamed Vegetables in an Instant Pot](https://www.cnet.com/home/kitchen-and-household/how-steam-vegetables-instant-pot/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 14 #651](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-14-651/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 14, #1639](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-14-1639/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 14, #917](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-14-917/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

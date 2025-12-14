@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why?](http://9gag.com/gag/azxvnXZ)
- - 😝 [Wise words from Superman himself. .](http://9gag.com/gag/adBWEv9)
- - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 💣 [38 years old](http://9gag.com/gag/azxvpZp)
  - 😝 [Hero](http://9gag.com/gag/aryDYwp)
- - 👉 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)<!-- MEMES:END -->
+ - 👉 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2026 and the Rise of Humanoid Robots: Looking at Trust, Privacy and the Future of Work](https://www.cnet.com/tech/computing/2026-and-the-rise-of-humanoid-robots-looking-at-trust-privacy-and-the-future-of-work/#ftag=CAD590a51e)
  - [Crypto casinos have become online gambling havens for teens and problem gamblers, propped up by operators who turn social media influencers into recruiters &lpar;New York Times&rpar;](http://www.techmeme.com/251214/p9#a251214p9)
  - [Alpine A390 Review: Price, Specs, Availability](https://www.wired.com/review/review-alpine-a390/)
  - [For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)
- - [Esusu, which offers a rent reporting API to Zillow, banks, and others to help renters build credit scores, raised a $50M Series C at a $1.2B valuation &lpar;Krysta Escobar/CNBC&rpar;](http://www.techmeme.com/251214/p8#a251214p8)
- - [Prime Security, which develops AI agents that help with security design during software development, raised a $20M Series A led by Scale Venture Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251214/p7#a251214p7)<!-- TECH:END -->
+ - [Esusu, which offers a rent reporting API to Zillow, banks, and others to help renters build credit scores, raised a $50M Series C at a $1.2B valuation &lpar;Krysta Escobar/CNBC&rpar;](http://www.techmeme.com/251214/p8#a251214p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 💣 [I need answers](http://9gag.com/gag/aPAVbGQ)
- - 😝 [Zelenskys visit was an absolute masterclass in wartime political messaging. By recording a selfie video in a city claimed by the Kremlin, he highlighted the fact that Putin routinely lies while also underlining Ukraines continued ability to defeat Russia on the battlefield](http://9gag.com/gag/aRB8nPB)
- - 👉 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)<!-- MEMES:END -->
+ - 😝 [Oh snap](http://9gag.com/gag/a1m83Bb)
+ - 😝 [Coffee mug.. for rock climbers](http://9gag.com/gag/aqyVPqj)
+ - 💣 [Tribute](http://9gag.com/gag/aD2qKOx)
+ - 😝 [Damn right!](http://9gag.com/gag/apRn4n5)
+ - 👉 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
 
 ---
 

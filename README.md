@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump is recruiting Big Tech workers for the government](https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft)
  - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
  - [GM is adding native Apple Music to select vehicles, and rolls out support for digital keys, after it started phasing out CarPlay in 2023 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251215/p31#a251215p31)
  - [Bungie&amp;#8217;s delayed shooter Marathon launches in March](https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay)
- - [Sources: xAI has created an enterprise AI sales group, but xAI&#39;s lack of experience in selling to big businesses is holding potential customers back &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/251215/p30#a251215p30)
- - [Apple will supply senior managers to advise feds on new US Tech Force](https://appleinsider.com/articles/25/12/15/apple-will-supply-senior-managers-to-advise-feds-on-new-us-tech-force?utm_source=rss)<!-- TECH:END -->
+ - [Sources: xAI has created an enterprise AI sales group, but xAI&#39;s lack of experience in selling to big businesses is holding potential customers back &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/251215/p30#a251215p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

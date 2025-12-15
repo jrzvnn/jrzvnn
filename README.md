@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How UAE&#39;s growing interest in crypto drew Michael Saylor, Changpeng Zhao and other crypto executives to Abu Dhabi, hoping to secure deals with Emirati investors &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/251214/p19#a251214p19)
- - [An interview with Marcos Galperin, CEO of MercadoLibre, which has a $105B market cap, on his upcoming resignation, MercadoLibre&#39;s rivalry with Amazon, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p18#a251214p18)
- - [iRobot files for Chapter 11 bankruptcy after reaching a restructuring support agreement to hand control to its secured lender and key supplier, Shenzhen Picea &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p17#a251214p17)
- - [You need to listen to Sudan Archives&amp;#8217; violin opus for the club](https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm)
- - [How Skövde, a small Swedish city of 58,000, built a local video game ecosystem via a degree for game developers at University of Skövde and a startup incubator &lpar;Ralph Jones/The Guardian&rpar;](http://www.techmeme.com/251214/p16#a251214p16)<!-- TECH:END -->
+ - [Investigation: after Trump&#39;s return to office, the SEC eased up on or dismissed 60%+ of ongoing crypto cases, including ones involving Trump-linked companies &lpar;New York Times&rpar;](http://www.techmeme.com/251214/p20#a251214p20)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 15, #448](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-15-448/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-15/#ftag=CAD590a51e)
+ - [&#39;IT: Welcome to Derry&#39; Ending Explained: What&#39;s Next for the Stephen King Series](https://www.cnet.com/tech/services-and-software/it-welcome-to-derry-ending-explained-stephen-king-hbo-max/#ftag=CAD590a51e)
+ - [How UAE&#39;s growing interest in crypto drew Michael Saylor, Changpeng Zhao and other crypto executives to Abu Dhabi, hoping to secure deals with Emirati investors &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/251214/p19#a251214p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

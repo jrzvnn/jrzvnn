@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 😝 [Hot pocket.](http://9gag.com/gag/amoO3Zj)
- - 💣 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)
- - 😝 [Oscar worthy...](http://9gag.com/gag/aD2qpZZ)
- - 👉 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)<!-- MEMES:END -->
+ - 😝 [Enjoy some european culture](http://9gag.com/gag/aW4ewLn)
+ - 😝 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
+ - 💣 [This was so cool back in the day](http://9gag.com/gag/axyeXwW)
+ - 😝 [Denis Leary has a point.](http://9gag.com/gag/a0eDBBz)
+ - 👉 [Science](http://9gag.com/gag/a9y496o)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)
- - 😝 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
- - 💣 [Which anime though](http://9gag.com/gag/aryDjLX)
- - 😝 [Wish they all could speak English like this](http://9gag.com/gag/aAyLovo)
- - 👉 [He just wanted to be closer to God...](http://9gag.com/gag/a5Q9O8y)<!-- MEMES:END -->
+ - 😝 [That 70s vibe](http://9gag.com/gag/a2vAebE)
+ - 💣 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - 😝 [Which anime though](http://9gag.com/gag/aryDjLX)
+ - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
 
 ---
 

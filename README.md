@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How UAE&#39;s growing interest in crypto drew Michael Saylor, Changpeng Zhao and other crypto executives to Abu Dhabi, hoping to secure deals with Emirati investors &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/251214/p19#a251214p19)
  - [An interview with Marcos Galperin, CEO of MercadoLibre, which has a $105B market cap, on his upcoming resignation, MercadoLibre&#39;s rivalry with Amazon, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p18#a251214p18)
  - [iRobot files for Chapter 11 bankruptcy after reaching a restructuring support agreement to hand control to its secured lender and key supplier, Shenzhen Picea &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p17#a251214p17)
  - [You need to listen to Sudan Archives&amp;#8217; violin opus for the club](https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm)
- - [How Skövde, a small Swedish city of 58,000, built a local video game ecosystem via a degree for game developers at University of Skövde and a startup incubator &lpar;Ralph Jones/The Guardian&rpar;](http://www.techmeme.com/251214/p16#a251214p16)
- - [A look at the efforts to open private markets, where shares of startups like OpenAI trade, to small investors, and the opportunities and risks they bring &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/251214/p15#a251214p15)<!-- TECH:END -->
+ - [How Skövde, a small Swedish city of 58,000, built a local video game ecosystem via a degree for game developers at University of Skövde and a startup incubator &lpar;Ralph Jones/The Guardian&rpar;](http://www.techmeme.com/251214/p16#a251214p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

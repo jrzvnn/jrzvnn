@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 😝 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
- - 💣 [\u201cThe cutscene couldn\u2019t be that important.\u201d Right after:](http://9gag.com/gag/aW4erRd)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 💣 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)
  - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
- - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
+ - 👉 [He just wanted to be closer to God...](http://9gag.com/gag/a5Q9O8y)<!-- MEMES:END -->
 
 ---
 

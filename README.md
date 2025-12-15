@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare 2025 report: global internet traffic grew 19% in 2025, ChatGPT was the most popular AI service, global traffic from Starlink grew 2.3x, and more &lpar;Cloudflare&rpar;](http://www.techmeme.com/251215/p32#a251215p32)
+ - [First developer betas of iOS 26.3, macOS Tahoe 26.3 now available](https://appleinsider.com/articles/25/12/15/first-developer-betas-of-ios-263-macos-tahoe-263-now-available?utm_source=rss)
  - [Trump is recruiting Big Tech workers for the government](https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft)
  - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [GM is adding native Apple Music to select vehicles, and rolls out support for digital keys, after it started phasing out CarPlay in 2023 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251215/p31#a251215p31)
- - [Bungie&amp;#8217;s delayed shooter Marathon launches in March](https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay)
- - [Sources: xAI has created an enterprise AI sales group, but xAI&#39;s lack of experience in selling to big businesses is holding potential customers back &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/251215/p30#a251215p30)<!-- TECH:END -->
+ - [Taylor Swift&#39;s New Documentary Is Reigniting the Magic of the Eras Tour for Me](https://www.cnet.com/tech/services-and-software/im-watching-the-new-taylor-swift-doc-its-reigniting-the-magic-of-the-eras-tour-for-me/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

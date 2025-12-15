@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)
+ - [AI image generators like Nano Banana have increased realism by mimicking phone camera traits in contrast, exposure, and sharpening to avoid the uncanny valley &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251215/p3#a251215p3)
  - [Apple&#39;s M4 MacBook Air with 24GB RAM plunges to $899 with free 2-day shipping](https://appleinsider.com/articles/25/12/15/apples-m4-macbook-air-with-24gb-ram-plunges-to-899-with-free-2-day-shipping?utm_source=rss)
  - [How Nvidia&#39;s lobbying efforts grew after Howard Lutnick brokered Jensen Huang&#39;s access to Trump, ending with the president&#39;s approval of the H200 sales to China &lpar;Financial Times&rpar;](http://www.techmeme.com/251215/p2#a251215p2)
- - [iRobot files for bankruptcy](https://www.theverge.com/news/844460/irobot-files-for-bankruptcy)
- - [Filing: Oracle signed ~$150B of data center leases in the three months ending November 30, raising its total data center and cloud capacity commitments to $248B &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/251215/p1#a251215p1)
- - [A look at iRobot, founded in 1990, and its slow collapse after regulatory pressure killed Amazon&#39;s $1.7B deal in 2024, and increased Chinese competition &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251214/p21#a251214p21)<!-- TECH:END -->
+ - [iRobot files for bankruptcy](https://www.theverge.com/news/844460/irobot-files-for-bankruptcy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [21 states and DC join the FTC’s lawsuit against Uber](https://www.theverge.com/news/845071/ftc-uber-lawsuit-21-states-amended-complaint)
+ - [Shares of Broadcom, CoreWeave, and Oracle, companies tied to the AI infrastructure buildout, extend last week&#39;s decline; ORCL is down 46%+ since September 10 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251215/p38#a251215p38)
  - [How Roomba invented the home robot — and lost the future](https://www.theverge.com/tech/844964/how-irobot-invented-the-roomba-and-lost-the-future-of-home-robotics)
  - [Intel appoints Robin Colwell, deputy assistant to President Trump and deputy director of the National Economic Council, as its head of government affairs &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251215/p37#a251215p37)
- - [Apple TV adds Google Cast streaming, but only on Android](https://www.theverge.com/news/844867/apple-tv-google-cast-android)
- - [Sources: Disney&#39;s Sora deal is entirely in OpenAI stock rather than a cash licensing fee; Disney has the option to buy additional stock beyond the $1B stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p36#a251215p36)
- - [Game development diary: Sound, music, and schedule speed bumps](https://appleinsider.com/articles/25/12/15/game-development-diary-sound-music-and-schedule-speed-bumps?utm_source=rss)<!-- TECH:END -->
+ - [Apple TV adds Google Cast streaming, but only on Android](https://www.theverge.com/news/844867/apple-tv-google-cast-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

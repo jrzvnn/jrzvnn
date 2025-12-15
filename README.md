@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Tata, Infosys, and Cognizant are set to bear the brunt of Trump&#39;s $100K H-1B fee; from 2020 to 2024, 93% of Infosys&#39; H-1B hires would have had to pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p12#a251215p12)
  - [Sources: the UK government wants Apple, Google, and others to block explicit images at the OS level by default to protect kids and have adults verify their ages &lpar;Financial Times&rpar;](http://www.techmeme.com/251215/p11#a251215p11)
  - [AT&amp;T, T-Mobile, and Verizon&#39;s rivalry is moving beyond ads with explicit customer poaching efforts and lawsuits; AT&amp;T twice blocked T-Mobile&#39;s Easy Switch tool &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p10#a251215p10)
  - [Interstellar Arc Serves Up Alien Foxes, Exoplanets, and VR Carl Sagan](https://www.wired.com/story/interstellar-arc-las-vegas/)
- - [DTCC: credit default swaps tied to a handful of US tech groups have climbed 90% since early September, as investors seek ways to protect against an AI debt bust &lpar;Financial Times&rpar;](http://www.techmeme.com/251215/p9#a251215p9)
- - [London-based PolyAI, which makes call center AI voice assistants, raised an $86M Series D led by Georgian, Hedosophia, and Khosla, after raising $50M in 2024 &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251215/p8#a251215p8)<!-- TECH:END -->
+ - [DTCC: credit default swaps tied to a handful of US tech groups have climbed 90% since early September, as investors seek ways to protect against an AI debt bust &lpar;Financial Times&rpar;](http://www.techmeme.com/251215/p9#a251215p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

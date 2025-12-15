@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facebook Messenger for macOS departs the desktop](https://appleinsider.com/articles/25/12/15/facebook-messenger-for-macos-departs-the-desktop?utm_source=rss)
+ - [Memo: Greg Peters and Ted Sarandos lay out Netflix&#39;s WBD case, moving to quell concerns about job losses and the end of theater releases, after Paramount&#39;s bid &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251215/p17#a251215p17)
+ - [Berlin-based Mirelo, whose AI models can interpret video content to add matching sound effects, raised a $41M seed led by Index and a16z, after a $3M pre-seed &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251215/p16#a251215p16)
  - [Tech whistleblowers like Yaël Eisenstat say coming forward has unexpectedly derailed their lives and careers; Meta is in litigation with Sarah Wynn-Williams &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251215/p15#a251215p15)
- - [Kindle app now answers questions about the book you’re reading](https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios)
- - [AI drug discovery startup Chai Discovery raised a $130M Series B led by Oak HC/FT and General Catalyst at a $1.3B valuation, taking its total funding to $225M &lpar;Caroline Hyde/Bloomberg&rpar;](http://www.techmeme.com/251215/p14#a251215p14)
- - [This Startup Wants to Build Self-Driving Car Software—Super Fast](https://www.wired.com/story/hyprlabs-wants-to-build-a-self-driving-robot-super-fast/)
- - [7 Best Desktop Computers &lpar;2025&rpar;: Gaming, Macs, Compact, and More](https://www.wired.com/gallery/best-desktop-computers/)<!-- TECH:END -->
+ - [Kindle app now answers questions about the book you’re reading](https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

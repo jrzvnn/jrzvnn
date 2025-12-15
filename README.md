@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - 😝 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
- - 💣 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
- - 😝 [Enjoy some european culture](http://9gag.com/gag/aW4ewLn)
- - 👉 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)<!-- MEMES:END -->
+ - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
+ - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
+ - 😝 [Christian Bale, what a legend](http://9gag.com/gag/amoOEKV)
+ - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
 
 ---
 

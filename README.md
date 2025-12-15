@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla robotaxis spotted on public roads without safety monitors](https://www.theverge.com/news/844616/tesla-robotaxis-spotted-on-public-roads-without-safety-monitors)
+ - [Fallout season 2 is streaming one day early](https://www.theverge.com/news/844684/fallout-season-2-premiere-streaming-amazon-prime-video)
+ - [Nvidia announces it has acquired SchedMD, the developer of Slurm, an open-source workload management system for HPC and AI &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251215/p25#a251215p25)
  - [The Trump administration launches US Tech Force to recruit ~1,000 staffers from Apple, Meta, xAI, and others for two-year stints to modernize the government &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/251215/p24#a251215p24)
- - [Source: Dragoneer raised $4.3B for its seventh VC fund and now has over $30B in AUM; it raised $3.8B for its sixth private fund in 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251215/p23#a251215p23)
- - [Inside FileMaker Pro -- the massive hit few realize is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)
- - [GNOME bans AI-generated extensions](https://www.theverge.com/news/844655/gnome-linux-ai-shell-extensions-ban)
- - [Thrive Holdings announces it has hired Palantir CIO Jim Siders to serve as CEO of Shield Technology Partners, a newly created business focused on IT services &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251215/p22#a251215p22)<!-- TECH:END -->
+ - [Source: Dragoneer raised $4.3B for its seventh VC fund and now has over $30B in AUM; it raised $3.8B for its sixth private fund in 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251215/p23#a251215p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

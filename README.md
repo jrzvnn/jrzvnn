@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based PolyAI, which makes call center AI voice assistants, raised an $86M Series D led by Georgian, Hedosophia, and Khosla, after raising $50M in 2024 &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251215/p8#a251215p8)
  - [Filing: Reddit says in its lawsuit against Australia&#39;s social media ban that it is &quot;a collection of public fora&quot; and social interaction isn&#39;t its &quot;sole purpose&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/251215/p7#a251215p7)
  - [Radiation-Detection Systems Are Quietly Running in the Background All Around You](https://www.wired.com/story/radiation-detection-systems-are-quietly-running-in-the-background-all-around-you/)
  - [US volunteer fire departments are scrambling to find software amid shrinking options and higher costs, as companies backed by private equity dominate the market &lpar;Mike Baker/New York Times&rpar;](http://www.techmeme.com/251215/p6#a251215p6)
- - [Starlink and Chinese satellites nearly collided last week](https://www.theverge.com/news/844502/starlink-and-chinese-satellites-nearly-collided-last-week)
- - [How David Sacks and AI adviser Sriram Krishnan overcame the opposition to Trump&#39;s AI EO, reaching out to lawmakers and finally modifying the text of the order &lpar;Washington Post&rpar;](http://www.techmeme.com/251215/p5#a251215p5)<!-- TECH:END -->
+ - [Starlink and Chinese satellites nearly collided last week](https://www.theverge.com/news/844502/starlink-and-chinese-satellites-nearly-collided-last-week)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

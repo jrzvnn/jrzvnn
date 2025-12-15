@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
  - 😝 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
- - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
- - 😝 [This was so cool back in the day](http://9gag.com/gag/axyeXwW)
- - 👉 [\u201cThe cutscene couldn\u2019t be that important.\u201d Right after:](http://9gag.com/gag/aW4erRd)<!-- MEMES:END -->
+ - 💣 [\u201cThe cutscene couldn\u2019t be that important.\u201d Right after:](http://9gag.com/gag/aW4erRd)
+ - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
+ - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
 
 ---
 

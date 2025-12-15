@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Tata, Infosys, and Cognizant are set to bear the brunt of Trump&#39;s $100K H-1B fee; from 2020 to 2024, 93% of Infosys&#39; H-1B hires would have had to pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p12#a251215p12)
- - [Sources: the UK government wants Apple, Google, and others to block explicit images at the OS level by default to protect kids and have adults verify their ages &lpar;Financial Times&rpar;](http://www.techmeme.com/251215/p11#a251215p11)
- - [AT&amp;T, T-Mobile, and Verizon&#39;s rivalry is moving beyond ads with explicit customer poaching efforts and lawsuits; AT&amp;T twice blocked T-Mobile&#39;s Easy Switch tool &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p10#a251215p10)
- - [Interstellar Arc Serves Up Alien Foxes, Exoplanets, and VR Carl Sagan](https://www.wired.com/story/interstellar-arc-las-vegas/)
- - [DTCC: credit default swaps tied to a handful of US tech groups have climbed 90% since early September, as investors seek ways to protect against an AI debt bust &lpar;Financial Times&rpar;](http://www.techmeme.com/251215/p9#a251215p9)<!-- TECH:END -->
+ - [Tech whistleblowers like Yaël Eisenstat say coming forward has unexpectedly derailed their lives and careers; Meta is in litigation with Sarah Wynn-Williams &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251215/p15#a251215p15)
+ - [Kindle app now answers questions about the book you’re reading](https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios)
+ - [AI drug discovery startup Chai Discovery raised a $130M Series B led by Oak HC/FT and General Catalyst at a $1.3B valuation, taking its total funding to $225M &lpar;Caroline Hyde/Bloomberg&rpar;](http://www.techmeme.com/251215/p14#a251215p14)
+ - [This Startup Wants to Build Self-Driving Car Software—Super Fast](https://www.wired.com/story/hyprlabs-wants-to-build-a-self-driving-robot-super-fast/)
+ - [7 Best Desktop Computers &lpar;2025&rpar;: Gaming, Macs, Compact, and More](https://www.wired.com/gallery/best-desktop-computers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

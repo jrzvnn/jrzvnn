@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iRobot files for bankruptcy](https://www.theverge.com/news/844460/irobot-files-for-bankruptcy)
+ - [Filing: Oracle signed ~$150B of data center leases in the three months ending November 30, raising its total data center and cloud capacity commitments to $248B &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/251215/p1#a251215p1)
  - [A look at iRobot, founded in 1990, and its slow collapse after regulatory pressure killed Amazon&#39;s $1.7B deal in 2024, and increased Chinese competition &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251214/p21#a251214p21)
  - [Investigation: after Trump&#39;s return to office, the SEC eased up on or dismissed 60%+ of ongoing crypto cases, including ones involving Trump-linked companies &lpar;New York Times&rpar;](http://www.techmeme.com/251214/p20#a251214p20)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 15, #448](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-15-448/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-15/#ftag=CAD590a51e)
- - [&#39;IT: Welcome to Derry&#39; Ending Explained: What&#39;s Next for the Stephen King Series](https://www.cnet.com/tech/services-and-software/it-welcome-to-derry-ending-explained-stephen-king-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 15, #448](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-15-448/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

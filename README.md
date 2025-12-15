@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That 70s vibe](http://9gag.com/gag/a2vAebE)
  - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 💣 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)
  - 😝 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - 💣 [Can you find him?](http://9gag.com/gag/a6ZePOL)
+ - 😝 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)
  - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
 
 ---

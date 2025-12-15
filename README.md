@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
+ - [PayPal says it has filed applications to establish PayPal Bank to provide loans more efficiently to US small businesses and reduce its reliance on third parties &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p40#a251215p40)
  - [Ford plans to repurpose its US battery manufacturing capacity to launch a battery energy storage business for data centers, amid a shift away from large EVs &lpar;TechCrunch&rpar;](http://www.techmeme.com/251215/p39#a251215p39)
  - [21 states and DC join the FTC’s lawsuit against Uber](https://www.theverge.com/news/845071/ftc-uber-lawsuit-21-states-amended-complaint)
- - [Shares of Broadcom, CoreWeave, and Oracle, companies tied to the AI infrastructure buildout, extend last week&#39;s decline; ORCL is down 46%+ since September 10 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251215/p38#a251215p38)
- - [How Roomba invented the home robot — and lost the future](https://www.theverge.com/tech/844964/how-irobot-invented-the-roomba-and-lost-the-future-of-home-robotics)
- - [Intel appoints Robin Colwell, deputy assistant to President Trump and deputy director of the National Economic Council, as its head of government affairs &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251215/p37#a251215p37)<!-- TECH:END -->
+ - [Shares of Broadcom, CoreWeave, and Oracle, companies tied to the AI infrastructure buildout, extend last week&#39;s decline; ORCL is down 46%+ since September 10 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251215/p38#a251215p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV adds Google Cast streaming, but only on Android](https://www.theverge.com/news/844867/apple-tv-google-cast-android)
+ - [Sources: Disney&#39;s Sora deal is entirely in OpenAI stock rather than a cash licensing fee; Disney has the option to buy additional stock beyond the $1B stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p36#a251215p36)
  - [Game development diary: Sound, music, and schedule speed bumps](https://appleinsider.com/articles/25/12/15/game-development-diary-sound-music-and-schedule-speed-bumps?utm_source=rss)
  - [New in iOS 26.3: Android transfer settings, third-party notification forwarding](https://appleinsider.com/articles/25/12/15/new-in-ios-263-android-transfer-settings-third-party-notification-forwarding?utm_source=rss)
- - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [Sources: Notion told staff it is doing a $300M tender offer at an $11B valuation, ahead of a potential IPO; it passed $600M in ARR, half of it from AI products &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251215/p35#a251215p35)
- - [Ford’s big bet on EVs didn’t pan out — now it’s pivoting to hybrids and energy storage](https://www.theverge.com/news/844813/ford-hybrid-erev-f150-energy-storage-jobs)<!-- TECH:END -->
+ - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

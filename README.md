@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 😝 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)
- - 💣 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 😝 [Wish they all could speak English like this](http://9gag.com/gag/aAyLovo)
- - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
+ - 😝 [2025 Update](http://9gag.com/gag/ajP3p3G)
+ - 😝 [Maybe we should follow in their footsteps](http://9gag.com/gag/aYQv9Aw)
+ - 💣 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
+ - 😝 [This was so cool back in the day](http://9gag.com/gag/axyeXwW)
+ - 👉 [Denis Leary has a point.](http://9gag.com/gag/a0eDBBz)<!-- MEMES:END -->
 
 ---
 

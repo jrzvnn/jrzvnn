@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mexico-based fintech Plata raised up to $500M in a financing deal arranged by Nomura Securities International, as it moves toward becoming a full-fledged bank &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251215/p28#a251215p28)
+ - [Google is shutting down its dark web monitoring tool, launched in 2024 to alert users when their personal info is detected on the dark web, on February 16, 2026 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/251215/p27#a251215p27)
  - [NY-based Octane, which offers &quot;instant&quot; financing for large recreational and lifestyle purchases, raised a $100M Series F at a post-money valuation of $1.3B &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251215/p26#a251215p26)
  - [Google&amp;#8217;s turning off its dark web monitoring service that scoured data breaches for your info](https://www.theverge.com/news/844700/google-dark-web-reports-shut-down)
- - [Get 22 Percent Off One of Our &lpar;and Taylor Swift&#39;s&rpar; Favorite Pillows](https://www.wired.com/story/coop-pillow-sale-taylor-swift-2025/)
- - [Tesla robotaxis spotted on public roads without safety monitors](https://www.theverge.com/news/844616/tesla-robotaxis-spotted-on-public-roads-without-safety-monitors)
- - [Fallout season 2 is streaming one day early](https://www.theverge.com/news/844684/fallout-season-2-premiere-streaming-amazon-prime-video)<!-- TECH:END -->
+ - [Get 22 Percent Off One of Our &lpar;and Taylor Swift&#39;s&rpar; Favorite Pillows](https://www.wired.com/story/coop-pillow-sale-taylor-swift-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is high af , trying to give himself a hand 😂😂😂](https://www.reddit.com/r/funny/comments/1pnffph/bro_is_high_af_trying_to_give_himself_a_hand/)
- - 😝 [That 70s vibe](http://9gag.com/gag/a2vAebE)
+ - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
+ - 😝 [The Perfume](http://9gag.com/gag/aD2qExB)
  - 💣 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
  - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 👉 [#random](http://9gag.com/gag/aryD60y)<!-- MEMES:END -->
+ - 👉 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)<!-- MEMES:END -->
 
 ---
 

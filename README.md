@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Merriam-Webster’s 2025 word of the year is ‘slop’](https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025)
+ - [The Meta Quest 3S is $50 off and is bundled with a $50 gift card and game](https://www.theverge.com/gadgets/844643/meta-quest-3s-echo-show-11-deal-sale)
  - [Tim Cook is only the seventh highest earning CEO in America](https://appleinsider.com/articles/25/12/15/tim-cook-is-only-the-seventh-highest-earning-ceo-in-america?utm_source=rss)
- - [LG smart TV owners say a webOS update pinned Microsoft Copilot to TV home screens, with no apparent way to remove the app; LG unveiled an AI TV strategy at CES &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251215/p21#a251215p21)
- - [Stack Overflow users don’t trust AI. They’re using it anyway](https://www.theverge.com/podcast/844073/stack-overflow-ceo-ai-coding-chatgpt-code-red-interview)
- - [Holiday stocking stuffer special: Get 4 AirTags for $69.99 &lpar;30% off&rpar;](https://appleinsider.com/articles/25/12/15/holiday-stocking-stuffer-special-get-4-airtags-for-6999-30-off?utm_source=rss)
- - [iRobot files for Chapter 11 bankruptcy after increased competition &amp; tariff woes](https://appleinsider.com/articles/25/12/15/irobot-files-for-chapter-11-bankruptcy-after-increased-competition-tariff-woes?utm_source=rss)<!-- TECH:END -->
+ - [LG smart TV owners say a webOS update pinned Microsoft Copilot to the home screen, with no apparent way to remove the app; LG unveiled an AI TV strategy at CES &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251215/p21#a251215p21)
+ - [Stack Overflow users don’t trust AI. They’re using it anyway](https://www.theverge.com/podcast/844073/stack-overflow-ceo-ai-coding-chatgpt-code-red-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

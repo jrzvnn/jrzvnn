@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: Notion told staff it is doing a $300M tender offer at an $11B valuation, ahead of a potential IPO; it passed $600M in ARR, half of it from AI products &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251215/p35#a251215p35)
  - [Ford’s big bet on EVs didn’t pan out — now it’s pivoting to hybrids and energy storage](https://www.theverge.com/news/844813/ford-hybrid-erev-f150-energy-storage-jobs)
- - [How crypto entrepreneur Bill Zanker helped Trump and Melania launch memecoins; as of December 10, $TRUMP was down 92% since its peak and $MELANIA was down 99% &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p34#a251215p34)
- - [The PS5, PlayStation Portal, and Sony’s DualSense are still on sale for a limited time](https://www.theverge.com/gadgets/844698/sony-ps5-playstation-portal-dualsense-controller-deal-sale-2025)
- - [The US FTC, along with 21 states and DC, files an amended complaint against Uber, alleging deceptive billing and cancellation practices related to Uber One &lpar;Reuters&rpar;](http://www.techmeme.com/251215/p33#a251215p33)<!-- TECH:END -->
+ - [The Best Christmas Movies to Watch on Netflix That Aren&#39;t Holiday Rom-Coms](https://www.cnet.com/culture/entertainment/the-best-christmas-movies-to-watch-on-netflix/#ftag=CAD590a51e)
+ - [AirPods Max Review &lpar;Updated&rpar;: Still Among the Very Best Noise-Canceling Headphones Five Years Later](https://www.cnet.com/tech/mobile/airpods-max-review-updated-still-among-the-very-best-noise-canceling-headphones-five-years-later/#ftag=CAD590a51e)
+ - [How crypto entrepreneur Bill Zanker helped Trump and Melania launch memecoins; as of December 10, $TRUMP was down 92% since its peak and $MELANIA was down 99% &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p34#a251215p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

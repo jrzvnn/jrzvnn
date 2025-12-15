@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
  - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - 💣 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - 👉 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)<!-- MEMES:END -->
+ - 😝 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - 💣 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
+ - 😝 [Enjoy some european culture](http://9gag.com/gag/aW4ewLn)
+ - 👉 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK wants iPhones to require age verification for any nude images](https://appleinsider.com/articles/25/12/15/uk-wants-iphones-to-require-age-verification-for-any-nude-images?utm_source=rss)
- - [All-screen display for 20th anniversary iPhone gets closer to production](https://appleinsider.com/articles/25/12/15/all-screen-display-for-20th-anniversary-iphone-gets-closer-to-production?utm_source=rss)
- - [Facebook Messenger for macOS departs the desktop](https://appleinsider.com/articles/25/12/15/facebook-messenger-for-macos-departs-the-desktop?utm_source=rss)
- - [Memo: Greg Peters and Ted Sarandos lay out Netflix&#39;s WBD case, moving to quell concerns about job losses and the end of theater releases, after Paramount&#39;s bid &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251215/p17#a251215p17)
- - [Berlin-based Mirelo, whose AI models can interpret video content to add matching sound effects, raised a $41M seed led by Index and a16z, after a $3M pre-seed &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251215/p16#a251215p16)<!-- TECH:END -->
+ - [Lightspeed raised a record $9B across six funds to invest in AI, with $3.3B to back breakout companies like Anthropic; Lightspeed has backed 165 AI startups &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/251215/p19#a251215p19)
+ - [Nvidia launches Nemotron 3, a family of AI models using a hybrid mixture-of-experts architecture and the Mamba-Transformer design, in 30B, 100B, and ~500B sizes &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/251215/p18#a251215p18)
+ - [Nvidia Becomes a Major Model Maker With Nemotron 3](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/)
+ - [Musicians are getting really tired of this AI clone ‘bullshit’](https://www.theverge.com/report/844454/musicians-tired-of-ai-clones)
+ - [UK wants iPhones to require age verification for any nude images](https://appleinsider.com/articles/25/12/15/uk-wants-iphones-to-require-age-verification-for-any-nude-images?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

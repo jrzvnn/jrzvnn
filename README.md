@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lidar manufacturer Luminar files for Chapter 11 bankruptcy and says it reached a deal to sell its semiconductor subsidiary to Quantum Computing Inc. for $110M &lpar;Reshmi Basu/Bloomberg&rpar;](http://www.techmeme.com/251215/p29#a251215p29)
- - [Cadillac and Chevy are getting native Apple Music](https://www.theverge.com/transportation/844697/gm-cadillac-chevy-apple-music-native)
- - [Mexico-based fintech Plata raised up to $500M in a financing deal arranged by Nomura Securities International, as it moves toward becoming a full-fledged bank &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251215/p28#a251215p28)
- - [Google is shutting down its dark web monitoring tool, launched in 2024 to alert users when their personal info is detected on the dark web, on February 16, 2026 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/251215/p27#a251215p27)
- - [NY-based Octane, which offers &quot;instant&quot; financing for large recreational and lifestyle purchases, raised a $100M Series F at a post-money valuation of $1.3B &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251215/p26#a251215p26)<!-- TECH:END -->
+ - [GM is adding native Apple Music to select vehicles, and rolls out support for digital keys, after it started phasing out CarPlay in 2023 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251215/p31#a251215p31)
+ - [Bungie&amp;#8217;s delayed shooter Marathon launches in March](https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay)
+ - [Sources: xAI has created an enterprise AI sales group, but xAI&#39;s lack of experience in selling to big businesses is holding potential customers back &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/251215/p30#a251215p30)
+ - [Apple will supply senior managers to advise feds on new US Tech Force](https://appleinsider.com/articles/25/12/15/apple-will-supply-senior-managers-to-advise-feds-on-new-us-tech-force?utm_source=rss)
+ - [Lidar-maker Luminar files for bankruptcy](https://www.theverge.com/news/844755/luminar-lidar-chapter-11-bankruptcy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

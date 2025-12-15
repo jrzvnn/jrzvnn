@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK wants iPhones to require age verification for any nude images](https://appleinsider.com/articles/25/12/15/uk-wants-iphones-to-require-age-verification-for-any-nude-images?utm_source=rss)
+ - [All-screen display for 20th anniversary iPhone gets closer to production](https://appleinsider.com/articles/25/12/15/all-screen-display-for-20th-anniversary-iphone-gets-closer-to-production?utm_source=rss)
  - [Facebook Messenger for macOS departs the desktop](https://appleinsider.com/articles/25/12/15/facebook-messenger-for-macos-departs-the-desktop?utm_source=rss)
  - [Memo: Greg Peters and Ted Sarandos lay out Netflix&#39;s WBD case, moving to quell concerns about job losses and the end of theater releases, after Paramount&#39;s bid &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251215/p17#a251215p17)
- - [Berlin-based Mirelo, whose AI models can interpret video content to add matching sound effects, raised a $41M seed led by Index and a16z, after a $3M pre-seed &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251215/p16#a251215p16)
- - [Tech whistleblowers like Yaël Eisenstat say coming forward has unexpectedly derailed their lives and careers; Meta is in litigation with Sarah Wynn-Williams &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251215/p15#a251215p15)
- - [Kindle app now answers questions about the book you’re reading](https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios)<!-- TECH:END -->
+ - [Berlin-based Mirelo, whose AI models can interpret video content to add matching sound effects, raised a $41M seed led by Index and a16z, after a $3M pre-seed &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251215/p16#a251215p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

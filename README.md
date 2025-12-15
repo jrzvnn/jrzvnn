@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Car Key support appears imminent for Toyota vehicles](https://appleinsider.com/articles/25/12/15/apple-car-key-support-appears-imminent-for-toyota-vehicles?utm_source=rss)
- - [Internal documents: Meta earned $18B+ in annual ad sales from China in 2024, making up 10%+ of its global revenue, with $3B+ linked to fraudulent ads like scams &lpar;Reuters&rpar;](http://www.techmeme.com/251215/p20#a251215p20)
- - [Lightspeed raised a record $9B across six funds to invest in AI, with $3.3B to back breakout companies like Anthropic; Lightspeed has backed 165 AI startups &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/251215/p19#a251215p19)
- - [Nvidia launches Nemotron 3, a family of AI models using a hybrid mixture-of-experts architecture and the Mamba-Transformer design, in 30B, 100B, and ~500B sizes &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/251215/p18#a251215p18)
- - [Nvidia Becomes a Major Model Maker With Nemotron 3](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/)<!-- TECH:END -->
+ - [LG smart TV owners say a webOS update pinned Microsoft Copilot to TV home screens, with no apparent way to remove the app; LG unveiled an AI TV strategy at CES &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251215/p21#a251215p21)
+ - [Stack Overflow users don’t trust AI. They’re using it anyway](https://www.theverge.com/podcast/844073/stack-overflow-ceo-ai-coding-chatgpt-code-red-interview)
+ - [Holiday stocking stuffer special: Get 4 AirTags for $69.99 &lpar;30% off&rpar;](https://appleinsider.com/articles/25/12/15/holiday-stocking-stuffer-special-get-4-airtags-for-6999-30-off?utm_source=rss)
+ - [iRobot files for Chapter 11 bankruptcy after increased competition &amp; tariff woes](https://appleinsider.com/articles/25/12/15/irobot-files-for-chapter-11-bankruptcy-after-increased-competition-tariff-woes?utm_source=rss)
+ - [Jason Johnson discusses his new startup, Doma Home on HomeKit Insider](https://appleinsider.com/articles/25/12/15/jason-johnson-discusses-his-new-startup-doma-home-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

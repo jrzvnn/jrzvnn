@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - 💣 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
- - 😝 [\u201cThe cutscene couldn\u2019t be that important.\u201d Right after:](http://9gag.com/gag/aW4erRd)
- - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
+ - 😝 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
+ - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
+ - 😝 [This was so cool back in the day](http://9gag.com/gag/axyeXwW)
+ - 👉 [\u201cThe cutscene couldn\u2019t be that important.\u201d Right after:](http://9gag.com/gag/aW4erRd)<!-- MEMES:END -->
 
 ---
 

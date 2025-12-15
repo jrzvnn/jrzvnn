@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - 😝 [Double tap on the screen](http://9gag.com/gag/abALNNX)
- - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
- - 😝 [Christian Bale, what a legend](http://9gag.com/gag/amoOEKV)
- - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
+ - 😝 [Ah yes... the pigeon chopper 5000...](http://9gag.com/gag/aE0jLVM)
+ - 😝 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
+ - 💣 [2025 Update](http://9gag.com/gag/ajP3p3G)
+ - 😝 [Maybe we should follow in their footsteps](http://9gag.com/gag/aYQv9Aw)
+ - 👉 [Christian Bale, what a legend](http://9gag.com/gag/amoOEKV)<!-- MEMES:END -->
 
 ---
 

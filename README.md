@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M4 MacBook Air with 24GB RAM plunges to $899 with free 2-day shipping](https://appleinsider.com/articles/25/12/15/apples-m4-macbook-air-with-24gb-ram-plunges-to-899-with-free-2-day-shipping?utm_source=rss)
+ - [How Nvidia&#39;s lobbying efforts grew after Howard Lutnick brokered Jensen Huang&#39;s access to Trump, ending with the president&#39;s approval of the H200 sales to China &lpar;Financial Times&rpar;](http://www.techmeme.com/251215/p2#a251215p2)
  - [iRobot files for bankruptcy](https://www.theverge.com/news/844460/irobot-files-for-bankruptcy)
  - [Filing: Oracle signed ~$150B of data center leases in the three months ending November 30, raising its total data center and cloud capacity commitments to $248B &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/251215/p1#a251215p1)
- - [A look at iRobot, founded in 1990, and its slow collapse after regulatory pressure killed Amazon&#39;s $1.7B deal in 2024, and increased Chinese competition &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251214/p21#a251214p21)
- - [Investigation: after Trump&#39;s return to office, the SEC eased up on or dismissed 60%+ of ongoing crypto cases, including ones involving Trump-linked companies &lpar;New York Times&rpar;](http://www.techmeme.com/251214/p20#a251214p20)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 15, #448](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-15-448/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at iRobot, founded in 1990, and its slow collapse after regulatory pressure killed Amazon&#39;s $1.7B deal in 2024, and increased Chinese competition &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251214/p21#a251214p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

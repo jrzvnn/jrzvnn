@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Game development diary: Sound, music, and schedule speed bumps](https://appleinsider.com/articles/25/12/15/game-development-diary-sound-music-and-schedule-speed-bumps?utm_source=rss)
+ - [New in iOS 26.3: Android transfer settings, third-party notification forwarding](https://appleinsider.com/articles/25/12/15/new-in-ios-263-android-transfer-settings-third-party-notification-forwarding?utm_source=rss)
+ - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
  - [Sources: Notion told staff it is doing a $300M tender offer at an $11B valuation, ahead of a potential IPO; it passed $600M in ARR, half of it from AI products &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251215/p35#a251215p35)
- - [Ford’s big bet on EVs didn’t pan out — now it’s pivoting to hybrids and energy storage](https://www.theverge.com/news/844813/ford-hybrid-erev-f150-energy-storage-jobs)
- - [The Best Christmas Movies to Watch on Netflix That Aren&#39;t Holiday Rom-Coms](https://www.cnet.com/culture/entertainment/the-best-christmas-movies-to-watch-on-netflix/#ftag=CAD590a51e)
- - [AirPods Max Review &lpar;Updated&rpar;: Still Among the Very Best Noise-Canceling Headphones Five Years Later](https://www.cnet.com/tech/mobile/airpods-max-review-updated-still-among-the-very-best-noise-canceling-headphones-five-years-later/#ftag=CAD590a51e)
- - [How crypto entrepreneur Bill Zanker helped Trump and Melania launch memecoins; as of December 10, $TRUMP was down 92% since its peak and $MELANIA was down 99% &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p34#a251215p34)<!-- TECH:END -->
+ - [Ford’s big bet on EVs didn’t pan out — now it’s pivoting to hybrids and energy storage](https://www.theverge.com/news/844813/ford-hybrid-erev-f150-energy-storage-jobs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

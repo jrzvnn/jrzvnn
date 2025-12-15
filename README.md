@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
- - 😝 [Ahmed Al Ahmed, aged 43, the hero who fought the terrorists at the Bondi shooting, is a Lebanese Maronite Christian who owns a fruits shop. His Arabic name was pushed by islamists to convince the world he is Muslim.](http://9gag.com/gag/a34zVzv)
- - 💣 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 😝 [\u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e\u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e quess they never knew that we would become best friend](http://9gag.com/gag/azxvN6b)
- - 👉 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)<!-- MEMES:END -->
+ - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 😝 [That 70s vibe](http://9gag.com/gag/a2vAebE)
+ - 💣 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)
+ - 😝 [Reposting because it was deleted](http://9gag.com/gag/aoyGBZw)
+ - 👉 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)<!-- MEMES:END -->
 
 ---
 

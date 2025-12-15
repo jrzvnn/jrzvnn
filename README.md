@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Enjoy some european culture](http://9gag.com/gag/aW4ewLn)
- - 😝 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
- - 💣 [This was so cool back in the day](http://9gag.com/gag/axyeXwW)
- - 😝 [Denis Leary has a point.](http://9gag.com/gag/a0eDBBz)
- - 👉 [Science](http://9gag.com/gag/a9y496o)<!-- MEMES:END -->
+ - 😝 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)
+ - 😝 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - 💣 [Which anime though](http://9gag.com/gag/aryDjLX)
+ - 😝 [Wish they all could speak English like this](http://9gag.com/gag/aAyLovo)
+ - 👉 [He just wanted to be closer to God...](http://9gag.com/gag/a5Q9O8y)<!-- MEMES:END -->
 
 ---
 

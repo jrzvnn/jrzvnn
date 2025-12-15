@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Car Key support appears imminent for Toyota vehicles](https://appleinsider.com/articles/25/12/15/apple-car-key-support-appears-imminent-for-toyota-vehicles?utm_source=rss)
+ - [Internal documents: Meta earned $18B+ in annual ad sales from China in 2024, making up 10%+ of its global revenue, with $3B+ linked to fraudulent ads like scams &lpar;Reuters&rpar;](http://www.techmeme.com/251215/p20#a251215p20)
  - [Lightspeed raised a record $9B across six funds to invest in AI, with $3.3B to back breakout companies like Anthropic; Lightspeed has backed 165 AI startups &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/251215/p19#a251215p19)
  - [Nvidia launches Nemotron 3, a family of AI models using a hybrid mixture-of-experts architecture and the Mamba-Transformer design, in 30B, 100B, and ~500B sizes &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/251215/p18#a251215p18)
- - [Nvidia Becomes a Major Model Maker With Nemotron 3](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/)
- - [Musicians are getting really tired of this AI clone ‘bullshit’](https://www.theverge.com/report/844454/musicians-tired-of-ai-clones)
- - [UK wants iPhones to require age verification for any nude images](https://appleinsider.com/articles/25/12/15/uk-wants-iphones-to-require-age-verification-for-any-nude-images?utm_source=rss)<!-- TECH:END -->
+ - [Nvidia Becomes a Major Model Maker With Nemotron 3](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

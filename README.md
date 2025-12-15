@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Merriam-Webster’s 2025 word of the year is ‘slop’](https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025)
- - [The Meta Quest 3S is $50 off and is bundled with a $50 gift card and game](https://www.theverge.com/gadgets/844643/meta-quest-3s-echo-show-11-deal-sale)
- - [Tim Cook is only the seventh highest earning CEO in America](https://appleinsider.com/articles/25/12/15/tim-cook-is-only-the-seventh-highest-earning-ceo-in-america?utm_source=rss)
- - [LG smart TV owners say a webOS update pinned Microsoft Copilot to the home screen, with no apparent way to remove the app; LG unveiled an AI TV strategy at CES &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251215/p21#a251215p21)
- - [Stack Overflow users don’t trust AI. They’re using it anyway](https://www.theverge.com/podcast/844073/stack-overflow-ceo-ai-coding-chatgpt-code-red-interview)<!-- TECH:END -->
+ - [The Trump administration launches US Tech Force to recruit ~1,000 staffers from Apple, Meta, xAI, and others for two-year stints to modernize the government &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/251215/p24#a251215p24)
+ - [Source: Dragoneer raised $4.3B for its seventh VC fund and now has over $30B in AUM; it raised $3.8B for its sixth private fund in 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251215/p23#a251215p23)
+ - [Inside FileMaker Pro -- the massive hit few realize is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)
+ - [GNOME bans AI-generated extensions](https://www.theverge.com/news/844655/gnome-linux-ai-shell-extensions-ban)
+ - [Thrive Holdings announces it has hired Palantir CIO Jim Siders to serve as CEO of Shield Technology Partners, a newly created business focused on IT services &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251215/p22#a251215p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

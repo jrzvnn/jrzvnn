@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 💣 [KABOOM?](http://9gag.com/gag/aO8ngg3)
- - 😝 [Can you build a house for me](http://9gag.com/gag/axyepeK)
- - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
+ - 😝 [Missing out, on what the world has to offer](http://9gag.com/gag/ayNmOrX)
+ - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
+ - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
 
 ---
 

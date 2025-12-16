@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
  - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 😝 [KABOOM?](http://9gag.com/gag/aO8ngg3)
- - 💣 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)
- - 😝 [Different Pistols from the 1700s to the 1900s](http://9gag.com/gag/axyexxW)
+ - 💣 [KABOOM?](http://9gag.com/gag/aO8ngg3)
+ - 😝 [Can you build a house for me](http://9gag.com/gag/axyepeK)
  - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
 
 ---

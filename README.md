@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI launches FrontierScience, a benchmark to measure models&#39; expert-level scientific reasoning with 700+ questions, finding GPT-5.2 is its strongest model &lpar;OpenAI&rpar;](http://www.techmeme.com/251216/p21#a251216p21)
+ - [Disclosure Day’s first trailer teases close encounters of a different kind](https://www.theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date)
+ - [iPhone Fold and more: Apple could release seven iPhone models per year by 2027](https://appleinsider.com/articles/25/12/16/iphone-fold-and-more-apple-could-release-seven-iphone-models-per-year-by-2027?utm_source=rss)
  - [A look at Apple&#39;s iPhone roadmap; sources say the iPhone 18 Pro lineup will get under-screen Face ID, and the front camera will move to the top-left corner &lpar;The Information&rpar;](http://www.techmeme.com/251216/p20#a251216p20)
- - [An iconic joystick from the Commodore 64 era is returning](https://www.theverge.com/news/845447/retro-games-the-quickshot-ii-joystick-controller-commodore-64)
- - [iMac Pro may return in 2026 with M5 Max chip](https://appleinsider.com/articles/25/12/16/imac-pro-may-return-in-2026-with-m5-max-chip?utm_source=rss)
- - [Meta launches prompt-based sound separation model SAM Audio in its Segment Anything Playground, letting users isolate individual sounds from complex recordings &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251216/p19#a251216p19)
- - [Instagram unveils its first TV app, initially available on Amazon&#39;s Fire TV as a test with plans to expand to other TV platforms &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251216/p18#a251216p18)<!-- TECH:END -->
+ - [An iconic joystick from the Commodore 64 era is returning](https://www.theverge.com/news/845447/retro-games-the-quickshot-ii-joystick-controller-commodore-64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

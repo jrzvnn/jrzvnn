@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple plans fabric displays for future devices like the HomePod](https://appleinsider.com/articles/24/07/25/apple-plans-fabric-displays-for-future-devices-like-the-homepod?utm_source=rss)
+ - [DoorDash launches Zesty, a standalone AI-powered social app for users to find nearby restaurants, in public testing in San Francisco and New York &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251216/p22#a251216p22)
+ - [OpenAI Rolls Back ChatGPT’s Model Router System for Most Users](https://www.wired.com/story/openai-router-relaunch-gpt-5-sam-altman/)
  - [OpenAI launches FrontierScience, a benchmark to measure models&#39; expert-level scientific reasoning with 700+ questions, finding GPT-5.2 is its strongest model &lpar;OpenAI&rpar;](http://www.techmeme.com/251216/p21#a251216p21)
- - [Disclosure Day’s first trailer teases close encounters of a different kind](https://www.theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date)
- - [iPhone Fold and more: Apple could release seven iPhone models per year by 2027](https://appleinsider.com/articles/25/12/16/iphone-fold-and-more-apple-could-release-seven-iphone-models-per-year-by-2027?utm_source=rss)
- - [A look at Apple&#39;s iPhone roadmap; sources say the iPhone 18 Pro lineup will get under-screen Face ID, and the front camera will move to the top-left corner &lpar;The Information&rpar;](http://www.techmeme.com/251216/p20#a251216p20)
- - [An iconic joystick from the Commodore 64 era is returning](https://www.theverge.com/news/845447/retro-games-the-quickshot-ii-joystick-controller-commodore-64)<!-- TECH:END -->
+ - [New Head of Trump&#39;s Cancer Panel Questioned Links Between Vaccines and Cancer](https://www.wired.com/story/risch-trump-panel-vaccines-turbo-cancer-ivermectin-hcq/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

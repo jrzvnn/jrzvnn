@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New UK lawsuit takes another shot at Amazon&#39;s and Apple&#39;s alleged price fixing](https://appleinsider.com/articles/25/12/16/new-uk-lawsuit-takes-another-shot-at-amazons-and-apples-alleged-price-fixing?utm_source=rss)
- - [9 Best Electric Scooters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
- - [Elizabeth Warren and two Democratic senators write to Google, Microsoft, Amazon, Meta, and more to investigate AI data centers&#39; role in rising electricity costs &lpar;New York Times&rpar;](http://www.techmeme.com/251216/p10#a251216p10)
- - [Aluminium OS: Everything We Know About the Chromebook Successor](https://www.wired.com/story/google-aluminium-os-chromebook-successor-is-coming/)
- - [The ‘mad rush’ to install solar panels before tax credits run out](https://www.theverge.com/science/844852/solar-energy-panel-installation-tax-credit-trump)<!-- TECH:END -->
+ - [Mozilla’s new CEO is doubling down on an AI future for Firefox](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo)
+ - [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [iPad mini 8 rumored to use the iPhone 18 A20 Pro chip](https://appleinsider.com/articles/25/12/16/ipad-mini-8-now-believed-to-use-the-iphone-18-a20-pro-chip?utm_source=rss)
+ - [Visa says it will allow US banks to settle transactions using Circle&#39;s USDC stablecoin over Solana, the US&#39; first full deployment of a stablecoin settlement &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251216/p11#a251216p11)
+ - [New UK lawsuit takes another shot at Amazon&#39;s and Apple&#39;s alleged price fixing](https://appleinsider.com/articles/25/12/16/new-uk-lawsuit-takes-another-shot-at-amazons-and-apples-alleged-price-fixing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

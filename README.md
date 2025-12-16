@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can pair a tiny wireless mic to this 4K webcam](https://www.theverge.com/news/845499/hollyland-lyra-4k-uhd-webcam-wireless-receiver-lark-a1-microphone)
+ - [How to make your own external hard disk storage for your Mac](https://appleinsider.com/inside/accessories-and-io/tips/how-to-roll-your-own-external-hard-disk-storage-for-your-mac?utm_source=rss)
  - [Netflix announces a partnership with iHeartMedia to exclusively publish at least 15 video podcasts beginning in early 2026, including The Breakfast Club &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/251216/p30#a251216p30)
  - [Google launches CC, an experimental AI assistant that delivers a personalized daily &quot;Your Day Ahead&quot; briefing email based on users&#39; emails and calendar &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251216/p29#a251216p29)
- - [The US threatens economic penalties against European companies like Spotify if the EU does not roll back regulations and lawsuits targeting US tech giants &lpar;New York Times&rpar;](http://www.techmeme.com/251216/p28#a251216p28)
- - [Kindles make for even better gifts now most are on sale](https://www.theverge.com/gadgets/845546/kindle-scribe-colorsoft-paperwhite-holidays-2025-deal-sale)
- - [Larry Ellison&amp;#8217;s big dumb gift to his large adult son](https://www.theverge.com/entertainment/845532/larry-ellison-paramount-wb-netflix-takeover-oracle)<!-- TECH:END -->
+ - [The US threatens economic penalties against European companies like Spotify if the EU does not roll back regulations and lawsuits targeting US tech giants &lpar;New York Times&rpar;](http://www.techmeme.com/251216/p28#a251216p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

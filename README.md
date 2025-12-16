@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [OpenAI updates ChatGPT Images to generate images up to 4x faster and edit more precisely, and adds a new section in ChatGPT&#39;s app and website for images &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/251216/p26#a251216p26)
- - [OpenAI’s new flagship image generator AI is here](https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5)
- - [OpenAI hires former UK chancellor George Osborne to lead OpenAI for Countries, the global expansion arm of its $500B Stargate data center initiative &lpar;Financial Times&rpar;](http://www.techmeme.com/251216/p25#a251216p25)
- - [Source: OpenAI rolled back ChatGPT&#39;s model router, which sent some queries to reasoning models, for Free and $5/month Go tiers, as it was costly and hurt DAUs &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251216/p24#a251216p24)<!-- TECH:END -->
+ - [Google launches CC, an experimental AI assistant that delivers a personalized daily &quot;Your Day Ahead&quot; briefing email based on users&#39; emails and calendar &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251216/p29#a251216p29)
+ - [The US threatens economic penalties against European companies like Spotify if the EU does not roll back regulations and lawsuits targeting US tech giants &lpar;New York Times&rpar;](http://www.techmeme.com/251216/p28#a251216p28)
+ - [Kindles make for even better gifts now most are on sale](https://www.theverge.com/gadgets/845546/kindle-scribe-colorsoft-paperwhite-holidays-2025-deal-sale)
+ - [Larry Ellison&amp;#8217;s big dumb gift to his large adult son](https://www.theverge.com/entertainment/845532/larry-ellison-paramount-wb-netflix-takeover-oracle)
+ - [Leona Health, maker of an AI-copilot that integrates with doctors&#39; WhatsApp accounts in LATAM to manage patient communications, raised a $14M seed led by a16z &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251216/p27#a251216p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

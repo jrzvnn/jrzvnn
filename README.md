@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Last-minute holiday deals: Apple Watch Series 11 $299, iPad $279, Mac from $479](https://appleinsider.com/articles/25/12/16/last-minute-holiday-deals-apple-watch-series-11-299-ipad-279-mac-from-479?utm_source=rss)
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [App developers escalate EU fight over Apple&#39;s App Store fees](https://appleinsider.com/articles/25/12/16/app-developers-escalate-eu-fight-over-apples-app-store-fees?utm_source=rss)
  - [Perplexity updates its iPad app to improve multitasking and focus on research tools, part of a push to add business customers, after launching Comet on Android &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251216/p34#a251216p34)
- - [A vague study on Nazi bots created chaos in the Taylor Swift fan universe](https://www.theverge.com/report/845725/taylor-swift-gudea-report-rolling-stone-social-media-discourse-bots)
- - [X updates its ToS, effective January 15, 2026, to explicitly claim rights to the &quot;Twitter&quot; trademark after a startup filed an application to trademark the term &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251216/p33#a251216p33)
- - [DJ ChatGPT will soon be in control of your Apple Music playlists](https://appleinsider.com/articles/25/12/16/dj-chatgpt-will-soon-be-in-control-of-your-apple-music-playlists?utm_source=rss)<!-- TECH:END -->
+ - [A vague study on Nazi bots created chaos in the Taylor Swift fan universe](https://www.theverge.com/report/845725/taylor-swift-gudea-report-rolling-stone-social-media-discourse-bots)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

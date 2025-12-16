@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 😝 [Guessing he was a navy pilot.](http://9gag.com/gag/a34z9dN)
  - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
  - 💣 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 😝 [Also you are free now curse is removed](http://9gag.com/gag/aZZKqe0)
+ - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
  - 👉 [Failed hard](http://9gag.com/gag/aNDGyp3)<!-- MEMES:END -->
 
 ---

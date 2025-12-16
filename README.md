@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me trying to quit smoking](http://9gag.com/gag/azxvNBx)
- - 😝 [Christian Bale, what a legend](http://9gag.com/gag/amoOEKV)
- - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
- - 😝 [I still like big smoke tho](http://9gag.com/gag/a87vrje)
- - 👉 [The 8th king of Rome](http://9gag.com/gag/aAyLWKg)<!-- MEMES:END -->
+ - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 😝 [KABOOM?](http://9gag.com/gag/aO8ngg3)
+ - 💣 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)
+ - 😝 [Can you build a house for me](http://9gag.com/gag/axyepeK)
+ - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
 
 ---
 

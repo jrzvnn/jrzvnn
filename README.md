@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 😝 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)
- - 💣 [KABOOM?](http://9gag.com/gag/aO8ngg3)
- - 😝 [Meanwhile in Norway...](http://9gag.com/gag/avyBbRn)
- - 👉 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)<!-- MEMES:END -->
+ - 😝 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
+ - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
+ - 😝 [Different Pistols from the 1700s to the 1900s](http://9gag.com/gag/axyexxW)
+ - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
 
 ---
 

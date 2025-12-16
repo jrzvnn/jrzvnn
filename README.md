@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone will do pretty well in 2026, as RAM prices hammer the smartphone industry](https://appleinsider.com/articles/25/12/16/iphone-will-do-pretty-well-in-2026-as-ram-prices-hammer-the-smartphone-industry?utm_source=rss)
+ - [Q&amp;A with Rivian founder and CEO RJ Scaringe on founding Rivian in 2009, production challenges, the VW partnership, autonomy, AI, EVs, chips, CarPlay, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251216/p15#a251216p15)
  - [Adobe updates Firefly&#39;s app to add a prompt-based video editor using Runway&#39;s Aleph model, and adds image and video models from Black Forest Labs and others &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251216/p14#a251216p14)
  - [American Giant Redesigns Its Iconic Classic Full Zip Hoodie](https://www.wired.com/story/american-giant-redesign-classic-full-zip-hoodie/)
- - [Avatar: Fire and Ash is a gorgeous spectacle of titanic proportions](https://www.theverge.com/entertainment/844731/avatar-fire-and-ash-review)
- - [Fallout’s goofy apocalypse gets serious in season 2](https://www.theverge.com/entertainment/844926/fallout-season-2-review-amazon-prime-video)
- - [I’ve been waiting years for Animal Crossing’s best new features](https://www.theverge.com/games/845242/animal-crossing-new-horizons-3-0-update-switch-2-edition-features)<!-- TECH:END -->
+ - [Avatar: Fire and Ash is a gorgeous spectacle of titanic proportions](https://www.theverge.com/entertainment/844731/avatar-fire-and-ash-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

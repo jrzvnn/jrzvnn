@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Shares in Chinese companies critical to AI infrastructure surged in 2025, with CATL up 45% and Sungrow up 130%, as exports boost margins despite Trump&#39;s tariffs &lpar;William Sandlund/Financial Times&rpar;](http://www.techmeme.com/251216/p1#a251216p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 16, #449](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-16-449/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-16/#ftag=CAD590a51e)
  - [CoreWeave&#39;s market value fell $33B in six weeks amid construction delays at its Denton, TX AI data center, criticism from short seller Jim Chanos, and more &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p45#a251215p45)
- - [OpenAI&#39;s chief communications officer Hannah Wong will leave in January; Wong joined in 2021 and led PR during Sam Altman&#39;s brief ouster and return in 2023 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251215/p44#a251215p44)
- - [Sources: the US has paused a tech trade deal with the UK, signed in September, over disagreements about the UK&#39;s online safety rules and digital services taxes &lpar;New York Times&rpar;](http://www.techmeme.com/251215/p43#a251215p43)
- - [Silksong is getting a free expansion next year](https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2)<!-- TECH:END -->
+ - [OpenAI&#39;s chief communications officer Hannah Wong will leave in January; Wong joined in 2021 and led PR during Sam Altman&#39;s brief ouster and return in 2023 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251215/p44#a251215p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That 70s vibe](http://9gag.com/gag/a2vAebE)
  - 😝 [2025 Update](http://9gag.com/gag/ajP3p3G)
- - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 💣 [KABOOM?](http://9gag.com/gag/aO8ngg3)
- - 😝 [Different Pistols from the 1700s to the 1900s](http://9gag.com/gag/axyexxW)
- - 👉 [This is bait](http://9gag.com/gag/a5Q9mZV)<!-- MEMES:END -->
+ - 💣 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 😝 [PC veteran ASMR](http://9gag.com/gag/a1m84YP)
+ - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
 
 ---
 

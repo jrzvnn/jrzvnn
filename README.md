@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well that escalated quickly](http://9gag.com/gag/aNDXmeA)
- - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 💣 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 😝 [\u201cit\u2019s just a game npc\u201d the npc:](http://9gag.com/gag/a4P8pWv)
- - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
+ - 😝 [Coaches got some moves too](http://9gag.com/gag/aryDPdp)
+ - 😝 [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)
+ - 💣 [That kick!](http://9gag.com/gag/amoyq5j)
+ - 😝 [The collector](http://9gag.com/gag/amoyqb9)
+ - 👉 [Different Pistols from the 1700s to the 1900s](http://9gag.com/gag/axyexxW)<!-- MEMES:END -->
 
 ---
 

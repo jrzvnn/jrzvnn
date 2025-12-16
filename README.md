@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 💣 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - 😝 [This is bait](http://9gag.com/gag/a5Q9mZV)
+ - 💣 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
  - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 👉 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)<!-- MEMES:END -->
+ - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
 
 ---
 

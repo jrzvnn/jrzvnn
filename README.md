@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is bait](http://9gag.com/gag/a5Q9mZV)
- - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 💣 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 😝 [Boooom head shot](http://9gag.com/gag/awyDNGD)
- - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
+ - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - 💣 [Boooom head shot](http://9gag.com/gag/awyDNGD)
+ - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 👉 [When he realizes..](http://9gag.com/gag/agmpMxn)<!-- MEMES:END -->
 
 ---
 

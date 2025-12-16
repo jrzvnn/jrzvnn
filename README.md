@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla’s new CEO is doubling down on an AI future for Firefox](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo)
- - [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [iPad mini 8 rumored to use the iPhone 18 A20 Pro chip](https://appleinsider.com/articles/25/12/16/ipad-mini-8-now-believed-to-use-the-iphone-18-a20-pro-chip?utm_source=rss)
- - [Visa says it will allow US banks to settle transactions using Circle&#39;s USDC stablecoin over Solana, the US&#39; first full deployment of a stablecoin settlement &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251216/p11#a251216p11)
- - [New UK lawsuit takes another shot at Amazon&#39;s and Apple&#39;s alleged price fixing](https://appleinsider.com/articles/25/12/16/new-uk-lawsuit-takes-another-shot-at-amazons-and-apples-alleged-price-fixing?utm_source=rss)<!-- TECH:END -->
+ - [Mozilla appoints Anthony Enzor-DeMeo as its CEO amid a challenging period for Mozilla&#39;s for-profit arm with layoffs, restructuring, and its Google dependence &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/251216/p13#a251216p13)
+ - [16 Best White Elephant Gifts &lpar;2025&rpar;: Coffee Pot Mug, Legos, Sushi Magnets, and More](https://www.wired.com/gallery/best-white-elephant-gifts-2025/)
+ - [Racks of AI chips are too damn heavy](https://www.theverge.com/ai-artificial-intelligence/844966/heavy-ai-data-center-buildout)
+ - [There may be two models of Apple&#39;s rumored budget MacBook](https://appleinsider.com/articles/25/12/16/there-may-be-two-models-of-apples-rumored-budget-macbook?utm_source=rss)
+ - [Databricks is raising a $4B Series L at a $134B valuation, up from $100B in August and $62B in December 2024, and had a $4.8B annual revenue run rate in October &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251216/p12#a251216p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

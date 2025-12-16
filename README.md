@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gg well played](http://9gag.com/gag/awy9qz8)
- - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 💣 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 😝 [Fighting a zombie in a wheelchair](http://9gag.com/gag/aZZ499n)
- - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
+ - 😝 [That kick!](http://9gag.com/gag/amoyq5j)
+ - 😝 [It ain&#39;t much, but it&#39;s a good start](http://9gag.com/gag/azxz7om)
+ - 💣 [Can you build a house for me](http://9gag.com/gag/axyepeK)
+ - 😝 [Also you are free now curse is removed](http://9gag.com/gag/aZZKqe0)
+ - 👉 [I&#39;m today&#39;s society I think they should.](http://9gag.com/gag/aLn36L6)<!-- MEMES:END -->
 
 ---
 

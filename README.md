@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Europe rearms, Anduril is trying to break through in the UK by co-funding major programs, cutting manufacturing deals, and billing itself as &quot;Anglo-American&quot; &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/251216/p7#a251216p7)
+ - [Analysis: of the 8,808 global data centers in October 2025, ~7,000 are in areas outside the optimal 18C to 27C temperature range; 600 are in areas above 27C &lpar;Rest of World&rpar;](http://www.techmeme.com/251216/p6#a251216p6)
  - [China approves two cars from state-owned automakers with Level 3 autonomous capabilities, the first such approvals; the cars can drive in Chongqing and Beijing &lpar;Reuters&rpar;](http://www.techmeme.com/251216/p5#a251216p5)
- - [Global smartphone shipments in 2026 are set to shrink 2.1% due to rising memory costs, led by Chinese OEMs; DRAM price surges are set to raise costs by 10%-15% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/251216/p4#a251216p4)
- - [Aura Frame Sale &lpar;2025&rpar;: From Aura Carver to Aura Ink](https://www.wired.com/story/aura-frame-sale-december-2025/)
- - [How the rise of AI has divided Hollywood: some oppose all AI use while others like director Timur Bekmambetov say they are exploring ways to utilize AI tools &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251216/p3#a251216p3)
- - [Hoka Coupon Codes: 10% Off | December 2025](https://www.wired.com/story/hoka-coupon-code/)<!-- TECH:END -->
+ - [I Cooked All of Blue Apron’s Holiday Feast Meal Kits. Here’s What I Loved &lpar;and Didn’t&rpar;](https://www.cnet.com/health/nutrition/blue-apron-holiday-meal-kits-review/#ftag=CAD590a51e)
+ - [Global smartphone shipments in 2026 are set to shrink 2.1% due to rising memory costs, led by Chinese OEMs; DRAM price surges are set to raise costs by 10%-15% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/251216/p4#a251216p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

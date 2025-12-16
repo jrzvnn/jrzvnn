@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That 70s vibe](http://9gag.com/gag/a2vAebE)
+ - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
  - 😝 [2025 Update](http://9gag.com/gag/ajP3p3G)
- - 💣 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 😝 [PC veteran ASMR](http://9gag.com/gag/a1m84YP)
- - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
+ - 💣 [KABOOM?](http://9gag.com/gag/aO8ngg3)
+ - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 👉 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)<!-- MEMES:END -->
 
 ---
 

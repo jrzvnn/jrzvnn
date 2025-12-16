@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is bait](http://9gag.com/gag/a5Q9mZV)
- - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 💣 [KABOOM?](http://9gag.com/gag/aO8ngg3)
  - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
+ - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
+ - 😝 [This is bait](http://9gag.com/gag/a5Q9mZV)
+ - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
 
 ---
 

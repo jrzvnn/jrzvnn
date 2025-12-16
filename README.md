@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Run b!tch.. run...! It&#39;s a Trap.!](http://9gag.com/gag/aKGy48g)
- - 😝 [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)
- - 💣 [That kick!](http://9gag.com/gag/amoyq5j)
- - 😝 [The collector](http://9gag.com/gag/amoyqb9)
- - 👉 [Can you build a house for me](http://9gag.com/gag/axyepeK)<!-- MEMES:END -->
+ - 😝 [Gg well played](http://9gag.com/gag/awy9qz8)
+ - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 💣 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 😝 [Fighting a zombie in a wheelchair](http://9gag.com/gag/aZZ499n)
+ - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me trying to quit smoking](http://9gag.com/gag/azxvNBx)
- - 😝 [Christian Bale, what a legend](http://9gag.com/gag/amoOEKV)
- - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
- - 😝 [I still like big smoke tho](http://9gag.com/gag/a87vrje)
- - 👉 [Optimized predator vs walking sausage](http://9gag.com/gag/a2vAQEp)<!-- MEMES:END -->
+ - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 😝 [KABOOM?](http://9gag.com/gag/aO8ngg3)
+ - 💣 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)
+ - 😝 [Different Pistols from the 1700s to the 1900s](http://9gag.com/gag/axyexxW)
+ - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
 
 ---
 

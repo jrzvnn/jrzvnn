@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sequence, which builds AI agents to automate B2B companies&#39; revenue operations, raised a $20M Series A led by 645 Ventures, bringing its total funding to ~$40M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251216/p16#a251216p16)
+ - [Texas is suing all of the big TV makers for spying on what you watch](https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying)
+ - [Apple&#39;s 2026 executive shuffle is only the beginning as Cook nears retirement](https://appleinsider.com/articles/25/12/15/apples-2026-executive-shuffle-is-only-the-beginning-as-cook-nears-retirement?utm_source=rss)
+ - [iPhone will do pretty well in 2026, as RAM prices hammer smartphone industry](https://appleinsider.com/articles/25/12/16/iphone-will-do-pretty-well-in-2026-as-ram-prices-hammer-the-smartphone-industry?utm_source=rss)
  - [Feds say US big tech is being targed by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)
- - [The Best Holiday Delivery Meal Kits &lpar;2025&rpar;](https://www.wired.com/story/holiday-meal-kits-2025/)
- - [Amazon&amp;#8217;s Kindle Scribe Colorsoft won&amp;#8217;t replace your notebook — or your Kindle](https://www.theverge.com/tech/844673/amazon-kindle-scribe-colorsoft-review-ereader-eink-tablet)
- - [Apple spent $1.1 billion on more California office space in 2025](https://appleinsider.com/articles/25/12/16/apple-spent-11-billion-on-more-california-office-space-in-2025?utm_source=rss)<!-- TECH:END -->
+ - [Sequence, which builds AI agents to automate B2B companies&#39; revenue operations, raised a $20M Series A led by 645 Ventures, bringing its total funding to ~$40M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251216/p16#a251216p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

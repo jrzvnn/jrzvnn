@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoreWeave&#39;s market value fell $33B in six weeks amid construction delays at its Denton, TX AI data center, criticism from short seller Jim Chanos, and more &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p45#a251215p45)
+ - [OpenAI&#39;s chief communications officer Hannah Wong will leave in January; Wong joined in 2021 and led PR during Sam Altman&#39;s brief ouster and return in 2023 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251215/p44#a251215p44)
  - [Sources: the US has paused a tech trade deal with the UK, signed in September, over disagreements about the UK&#39;s digital regulations and food safety rules &lpar;New York Times&rpar;](http://www.techmeme.com/251215/p43#a251215p43)
  - [Silksong is getting a free expansion next year](https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2)
- - [Allen Institute for AI launches Bolmo 7B and Bolmo 1B, claiming they are &quot;the first fully open byte-level language models&quot;, built on its Olmo 3 models &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/251215/p42#a251215p42)
- - [LG enters the RGB LED fray in 2026 with the Micro RGB evo TV](https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026)
- - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Allen Institute for AI launches Bolmo 7B and Bolmo 1B, claiming they are &quot;the first fully open byte-level language models&quot;, built on its Olmo 3 models &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/251215/p42#a251215p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

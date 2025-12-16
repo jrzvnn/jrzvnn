@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shares in Chinese companies critical to AI infrastructure surged in 2025, with CATL up 45% and Sungrow up 130%, as exports boost margins despite Trump&#39;s tariffs &lpar;William Sandlund/Financial Times&rpar;](http://www.techmeme.com/251216/p1#a251216p1)
  - [CoreWeave&#39;s market value fell $33B in six weeks amid construction delays at its Denton, TX AI data center, criticism from short seller Jim Chanos, and more &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p45#a251215p45)
  - [OpenAI&#39;s chief communications officer Hannah Wong will leave in January; Wong joined in 2021 and led PR during Sam Altman&#39;s brief ouster and return in 2023 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251215/p44#a251215p44)
- - [Sources: the US has paused a tech trade deal with the UK, signed in September, over disagreements about the UK&#39;s digital regulations and food safety rules &lpar;New York Times&rpar;](http://www.techmeme.com/251215/p43#a251215p43)
- - [Silksong is getting a free expansion next year](https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2)
- - [Allen Institute for AI launches Bolmo 7B and Bolmo 1B, claiming they are &quot;the first fully open byte-level language models&quot;, built on its Olmo 3 models &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/251215/p42#a251215p42)<!-- TECH:END -->
+ - [Sources: the US has paused a tech trade deal with the UK, signed in September, over disagreements about the UK&#39;s online safety rules and digital services taxes &lpar;New York Times&rpar;](http://www.techmeme.com/251215/p43#a251215p43)
+ - [Silksong is getting a free expansion next year](https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

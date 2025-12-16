@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
- - [PayPal says it has filed applications to establish PayPal Bank to provide loans more efficiently to US small businesses and reduce its reliance on third parties &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p40#a251215p40)
- - [Ford plans to repurpose its US battery manufacturing capacity to launch a battery energy storage business for data centers, amid a shift away from large EVs &lpar;TechCrunch&rpar;](http://www.techmeme.com/251215/p39#a251215p39)
- - [21 states and DC join the FTC’s lawsuit against Uber](https://www.theverge.com/news/845071/ftc-uber-lawsuit-21-states-amended-complaint)
- - [Shares of Broadcom, CoreWeave, and Oracle, companies tied to the AI infrastructure buildout, extend last week&#39;s decline; ORCL is down 46%+ since September 10 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251215/p38#a251215p38)<!-- TECH:END -->
+ - [Sources: the US has paused a tech trade deal with the UK, signed in September, over disagreements about the UK&#39;s digital regulations and food safety rules &lpar;New York Times&rpar;](http://www.techmeme.com/251215/p43#a251215p43)
+ - [Silksong is getting a free expansion next year](https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2)
+ - [Allen Institute for AI launches Bolmo 7B and Bolmo 1B, claiming they are &quot;the first fully open byte-level language models&quot;, built on its Olmo 3 models &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/251215/p42#a251215p42)
+ - [LG enters the RGB LED fray in 2026 with the Micro RGB evo TV](https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026)
+ - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

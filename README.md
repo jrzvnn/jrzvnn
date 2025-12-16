@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
- - 😝 [This is bait](http://9gag.com/gag/a5Q9mZV)
- - 💣 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
+ - 😝 [I still like big smoke tho](http://9gag.com/gag/a87vrje)
+ - 😝 [Wish they all could speak English like this](http://9gag.com/gag/aAyLovo)
+ - 💣 [Shake hands with yourself](http://9gag.com/gag/abALPdL)
+ - 😝 [Coaches got some moves too](http://9gag.com/gag/aryDPdp)
+ - 👉 [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)<!-- MEMES:END -->
 
 ---
 

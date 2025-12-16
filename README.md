@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cost-per-watt of compute for orbital solar data centers is $51.10/W vs. just $15.85/W for terrestrial sites; SpaceX is uniquely positioned to try orbital &lpar;Andrew McCalip&rpar;](http://www.techmeme.com/251216/p17#a251216p17)
- - [Instagram is putting Reels on your TV](https://www.theverge.com/news/845124/instagram-reels-tv-app)
- - [My Favorite Murder and The Breakfast Club podcasts are ditching YouTube for Netflix](https://www.theverge.com/news/845307/netflix-iheartmedia-video-podcasts)
- - [Grab Apple&#39;s iPad 11 for $279, with delivery as soon as today](https://appleinsider.com/articles/25/12/16/grab-apples-ipad-11-for-279-with-delivery-as-soon-as-today?utm_source=rss)
- - [Texas is suing all of the big TV makers for spying on what you watch](https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying)<!-- TECH:END -->
+ - [A look at Apple&#39;s iPhone roadmap; sources say the iPhone 18 Pro lineup will get under-screen Face ID, and the front camera will move to the top-left corner &lpar;The Information&rpar;](http://www.techmeme.com/251216/p20#a251216p20)
+ - [An iconic joystick from the Commodore 64 era is returning](https://www.theverge.com/news/845447/retro-games-the-quickshot-ii-joystick-controller-commodore-64)
+ - [iMac Pro may return in 2026 with M5 Max chip](https://appleinsider.com/articles/25/12/16/imac-pro-may-return-in-2026-with-m5-max-chip?utm_source=rss)
+ - [Meta launches prompt-based sound separation model SAM Audio in its Segment Anything Playground, letting users isolate individual sounds from complex recordings &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251216/p19#a251216p19)
+ - [Instagram unveils its first TV app, initially available on Amazon&#39;s Fire TV as a test with plans to expand to other TV platforms &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251216/p18#a251216p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

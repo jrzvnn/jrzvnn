@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
  - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
- - 😝 [This is bait](http://9gag.com/gag/a5Q9mZV)
- - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
+ - 💣 [KABOOM?](http://9gag.com/gag/aO8ngg3)
+ - 😝 [Can you build a house for me](http://9gag.com/gag/axyepeK)
+ - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
 
 ---
 

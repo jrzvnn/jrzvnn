@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I still like big smoke tho](http://9gag.com/gag/a87vrje)
- - 😝 [Wish they all could speak English like this](http://9gag.com/gag/aAyLovo)
- - 💣 [Shake hands with yourself](http://9gag.com/gag/abALPdL)
- - 😝 [Coaches got some moves too](http://9gag.com/gag/aryDPdp)
- - 👉 [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)<!-- MEMES:END -->
+ - 😝 [Well that escalated quickly](http://9gag.com/gag/aNDXmeA)
+ - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 💣 [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 😝 [\u201cit\u2019s just a game npc\u201d the npc:](http://9gag.com/gag/a4P8pWv)
+ - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
 
 ---
 

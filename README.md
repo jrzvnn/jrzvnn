@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans fabric displays for future devices like the HomePod](https://appleinsider.com/articles/24/07/25/apple-plans-fabric-displays-for-future-devices-like-the-homepod?utm_source=rss)
- - [DoorDash launches Zesty, a standalone AI-powered social app for users to find nearby restaurants, in public testing in San Francisco and New York &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251216/p22#a251216p22)
- - [OpenAI Rolls Back ChatGPT’s Model Router System for Most Users](https://www.wired.com/story/openai-router-relaunch-gpt-5-sam-altman/)
- - [OpenAI launches FrontierScience, a benchmark to measure models&#39; expert-level scientific reasoning with 700+ questions, finding GPT-5.2 is its strongest model &lpar;OpenAI&rpar;](http://www.techmeme.com/251216/p21#a251216p21)
- - [New Head of Trump&#39;s Cancer Panel Questioned Links Between Vaccines and Cancer](https://www.wired.com/story/risch-trump-panel-vaccines-turbo-cancer-ivermectin-hcq/)<!-- TECH:END -->
+ - [Ghost of Yōtei studio Sucker Punch is getting new leadership](https://www.theverge.com/news/845573/sony-playstation-sucker-punch-leadership)
+ - [Sony&amp;#8217;s XM5 over-ear headphones are cheaper than ever — and they come with free wireless earbuds](https://www.theverge.com/gadgets/845527/sony-wh-1000xm5-wf-c700n-dualsense-deal-sale)
+ - [Meta rolls out AI glasses update with conversation boosting feature](https://www.theverge.com/tech/845540/meta-ai-glasses-conversation-focus-spotify)
+ - [Microsoft’s free update brings better Bluetooth to your Xbox Wireless Headset](https://www.theverge.com/games/845491/microsoft-xbox-wireless-headset-bluetooth-le-free-update)
+ - [Apple plans fabric displays for future devices like the HomePod](https://appleinsider.com/articles/24/07/25/apple-plans-fabric-displays-for-future-devices-like-the-homepod?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

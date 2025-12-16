@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
- - 😝 [2025 Update](http://9gag.com/gag/ajP3p3G)
- - 💣 [KABOOM?](http://9gag.com/gag/aO8ngg3)
- - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 👉 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)<!-- MEMES:END -->
+ - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
+ - 😝 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)
+ - 💣 [British girl at train station](http://9gag.com/gag/ae9qXrq)
+ - 😝 [Different Pistols from the 1700s to the 1900s](http://9gag.com/gag/axyexxW)
+ - 👉 [That 70s vibe](http://9gag.com/gag/a2vAebE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
  - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 😝 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
  - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
- - 😝 [Different Pistols from the 1700s to the 1900s](http://9gag.com/gag/axyexxW)
- - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
+ - 😝 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)
+ - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
 
 ---
 

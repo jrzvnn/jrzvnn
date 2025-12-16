@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VW plans to end vehicle production at its Dresden plant, which opened in 2001, and convert it into a research hub focused on AI, robotics, and chip design &lpar;Gregory Schmidt/New York Times&rpar;](http://www.techmeme.com/251216/p8#a251216p8)
- - [AWS CEO Matt Garman Doesn’t Think AI Should Replace Junior Devs](https://www.wired.com/story/the-big-interview-podcast-matt-garman-ceo-aws/)
- - [As Europe rearms, Anduril is trying to break through in the UK by co-funding major programs, cutting manufacturing deals, and billing itself as &quot;Anglo-American&quot; &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/251216/p7#a251216p7)
- - [Analysis: of the 8,808 global data centers in October 2025, ~7,000 are in areas outside the optimal 18C to 27C temperature range; 600 are in areas above 27C &lpar;Rest of World&rpar;](http://www.techmeme.com/251216/p6#a251216p6)
- - [China approves two cars from state-owned automakers with Level 3 autonomous capabilities, the first such approvals; the cars can drive in Chongqing and Beijing &lpar;Reuters&rpar;](http://www.techmeme.com/251216/p5#a251216p5)<!-- TECH:END -->
+ - [New UK lawsuit takes another shot at Amazon&#39;s and Apple&#39;s alleged price fixing](https://appleinsider.com/articles/25/12/16/new-uk-lawsuit-takes-another-shot-at-amazons-and-apples-alleged-price-fixing?utm_source=rss)
+ - [9 Best Electric Scooters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
+ - [Elizabeth Warren and two Democratic senators write to Google, Microsoft, Amazon, Meta, and more to investigate AI data centers&#39; role in rising electricity costs &lpar;New York Times&rpar;](http://www.techmeme.com/251216/p10#a251216p10)
+ - [Aluminium OS: Everything We Know About the Chromebook Successor](https://www.wired.com/story/google-aluminium-os-chromebook-successor-is-coming/)
+ - [The ‘mad rush’ to install solar panels before tax credits run out](https://www.theverge.com/science/844852/solar-energy-panel-installation-tax-credit-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

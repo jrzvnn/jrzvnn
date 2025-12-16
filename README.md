@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the rise of AI has divided Hollywood, as some oppose the use of the technology while others say they are exploring ways to utilize AI tools &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251216/p3#a251216p3)
  - [Hoka Coupon Codes: 10% Off | December 2025](https://www.wired.com/story/hoka-coupon-code/)
  - [60% HP Discount Codes &amp; Coupons December 2025](https://www.wired.com/story/hp-coupon-code/)
  - [50% Off Chewy Promo Code | December 2025](https://www.wired.com/story/chewy-promo-code/)
- - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)
- - [30% Off Samsung Promo Code | December 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

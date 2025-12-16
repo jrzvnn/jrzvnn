@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t ask me who I would kill first](http://9gag.com/gag/aQzD0m2)
- - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 💣 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 👉 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)<!-- MEMES:END -->
+ - 😝 [Run b!tch.. run...! It&#39;s a Trap.!](http://9gag.com/gag/aKGy48g)
+ - 😝 [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)
+ - 💣 [That kick!](http://9gag.com/gag/amoyq5j)
+ - 😝 [The collector](http://9gag.com/gag/amoyqb9)
+ - 👉 [Can you build a house for me](http://9gag.com/gag/axyepeK)<!-- MEMES:END -->
 
 ---
 

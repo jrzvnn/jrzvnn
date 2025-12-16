@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alexa Plus’s website is live for some users](https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live)
+ - [Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room](https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026)
  - [Sources: Waymo is in discussions to raise more than $15B at a valuation near $100B, in a round led by Alphabet; an October 2024 round valued Waymo at above $45B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251216/p35#a251216p35)
  - [‘Twitter never left:’ X sues Operation Bluebird for trademark infringement](https://www.theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement)
- - [Trump admin threatens retaliation against Spotify and others over EU tech regulation](https://www.theverge.com/news/845869/ustr-eu-trade-threat-spotify-mistral)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Last-minute holiday deals: Apple Watch Series 11 $299, iPad $279, Mac from $479](https://appleinsider.com/articles/25/12/16/last-minute-holiday-deals-apple-watch-series-11-299-ipad-279-mac-from-479?utm_source=rss)<!-- TECH:END -->
+ - [Trump admin threatens retaliation against Spotify and others over EU tech regulation](https://www.theverge.com/news/845869/ustr-eu-trade-threat-spotify-mistral)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

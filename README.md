@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coaches got some moves too](http://9gag.com/gag/aryDPdp)
- - 😝 [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)
- - 💣 [That kick!](http://9gag.com/gag/amoyq5j)
- - 😝 [The collector](http://9gag.com/gag/amoyqb9)
- - 👉 [Different Pistols from the 1700s to the 1900s](http://9gag.com/gag/axyexxW)<!-- MEMES:END -->
+ - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 💣 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
 
 ---
 

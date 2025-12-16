@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 😝 [This is bait](http://9gag.com/gag/a5Q9mZV)
+ - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 💣 [KABOOM?](http://9gag.com/gag/aO8ngg3)
  - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 💣 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)
- - 😝 [Can you build a house for me](http://9gag.com/gag/axyepeK)
- - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
+ - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
 
 ---
 

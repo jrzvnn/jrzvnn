@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The cost-per-watt of compute for orbital solar data centers is $51.10/W vs. just $15.85/W for terrestrial sites; SpaceX is uniquely positioned to try orbital &lpar;Andrew McCalip&rpar;](http://www.techmeme.com/251216/p17#a251216p17)
+ - [Instagram is putting Reels on your TV](https://www.theverge.com/news/845124/instagram-reels-tv-app)
+ - [My Favorite Murder and The Breakfast Club podcasts are ditching YouTube for Netflix](https://www.theverge.com/news/845307/netflix-iheartmedia-video-podcasts)
  - [Grab Apple&#39;s iPad 11 for $279, with delivery as soon as today](https://appleinsider.com/articles/25/12/16/grab-apples-ipad-11-for-279-with-delivery-as-soon-as-today?utm_source=rss)
- - [Texas is suing all of the big TV makers for spying on what you watch](https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying)
- - [Apple&#39;s 2026 executive shuffle is only the beginning as Cook nears retirement](https://appleinsider.com/articles/25/12/15/apples-2026-executive-shuffle-is-only-the-beginning-as-cook-nears-retirement?utm_source=rss)
- - [iPhone will do pretty well in 2026, as RAM prices hammer smartphone industry](https://appleinsider.com/articles/25/12/16/iphone-will-do-pretty-well-in-2026-as-ram-prices-hammer-the-smartphone-industry?utm_source=rss)
- - [Feds say US big tech is being targed by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)<!-- TECH:END -->
+ - [Texas is suing all of the big TV makers for spying on what you watch](https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources say Monzo CEO TS Anil, who announced his exit and handover to ex-Googler Diana Layfield in October, was pushed out by the board over an IPO timing clash &lpar;Financial Times&rpar;](http://www.techmeme.com/251216/p2#a251216p2)
  - [Shares in Chinese companies critical to AI infrastructure surged in 2025, with CATL up 45% and Sungrow up 130%, as exports boost margins despite Trump&#39;s tariffs &lpar;William Sandlund/Financial Times&rpar;](http://www.techmeme.com/251216/p1#a251216p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 16, #449](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-16-449/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-16/#ftag=CAD590a51e)
- - [CoreWeave&#39;s market value fell $33B in six weeks amid construction delays at its Denton, TX AI data center, criticism from short seller Jim Chanos, and more &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p45#a251215p45)
- - [OpenAI&#39;s chief communications officer Hannah Wong will leave in January; Wong joined in 2021 and led PR during Sam Altman&#39;s brief ouster and return in 2023 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251215/p44#a251215p44)<!-- TECH:END -->
+ - [CoreWeave&#39;s market value fell $33B in six weeks amid construction delays at its Denton, TX AI data center, criticism from short seller Jim Chanos, and more &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p45#a251215p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

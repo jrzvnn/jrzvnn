@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Missing out, on what the world has to offer](http://9gag.com/gag/ayNmOrX)
- - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 💣 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)
- - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
+ - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - 😝 [Gg well played](http://9gag.com/gag/awy9qz8)
+ - 💣 [Missing out, on what the world has to offer](http://9gag.com/gag/ayNmOrX)
+ - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
 
 ---
 

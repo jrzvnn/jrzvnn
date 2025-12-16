@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [KABOOM?](http://9gag.com/gag/aO8ngg3)
- - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - 💣 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 😝 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)
- - 👉 [That 70s vibe](http://9gag.com/gag/a2vAebE)<!-- MEMES:END -->
+ - 😝 [2025 Update](http://9gag.com/gag/ajP3p3G)
+ - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 💣 [KABOOM?](http://9gag.com/gag/aO8ngg3)
+ - 😝 [Different Pistols from the 1700s to the 1900s](http://9gag.com/gag/axyexxW)
+ - 👉 [This is bait](http://9gag.com/gag/a5Q9mZV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ghost of Yōtei studio Sucker Punch is getting new leadership](https://www.theverge.com/news/845573/sony-playstation-sucker-punch-leadership)
- - [Sony&amp;#8217;s XM5 over-ear headphones are cheaper than ever — and they come with free wireless earbuds](https://www.theverge.com/gadgets/845527/sony-wh-1000xm5-wf-c700n-dualsense-deal-sale)
- - [Meta rolls out AI glasses update with conversation boosting feature](https://www.theverge.com/tech/845540/meta-ai-glasses-conversation-focus-spotify)
- - [Microsoft’s free update brings better Bluetooth to your Xbox Wireless Headset](https://www.theverge.com/games/845491/microsoft-xbox-wireless-headset-bluetooth-le-free-update)
- - [Apple plans fabric displays for future devices like the HomePod](https://appleinsider.com/articles/24/07/25/apple-plans-fabric-displays-for-future-devices-like-the-homepod?utm_source=rss)<!-- TECH:END -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [OpenAI updates ChatGPT Images to generate images up to 4x faster and edit more precisely, and adds a new section in ChatGPT&#39;s app and website for images &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/251216/p26#a251216p26)
+ - [OpenAI’s new flagship image generator AI is here](https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5)
+ - [OpenAI hires former UK chancellor George Osborne to lead OpenAI for Countries, the global expansion arm of its $500B Stargate data center initiative &lpar;Financial Times&rpar;](http://www.techmeme.com/251216/p25#a251216p25)
+ - [Source: OpenAI rolled back ChatGPT&#39;s model router, which sent some queries to reasoning models, for Free and $5/month Go tiers, as it was costly and hurt DAUs &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251216/p24#a251216p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

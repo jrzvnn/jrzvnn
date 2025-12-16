@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon partners with payments startup Slope to offer loans of up to $5M to merchants selling on its platform, using Amazon sales data for candidate selection &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251216/p31#a251216p31)
- - [Grindr Goes ‘AI-First’ as It Strives to Be an ‘Everything App for the Gay Guy’](https://www.wired.com/story/grindr-ai-first-era-everything-app-for-the-gay-guy/)
- - [You can pair a tiny wireless mic to this 4K webcam](https://www.theverge.com/news/845499/hollyland-lyra-4k-uhd-webcam-wireless-receiver-lark-a1-microphone)
- - [How to make your own external hard disk storage for your Mac](https://appleinsider.com/inside/accessories-and-io/tips/how-to-roll-your-own-external-hard-disk-storage-for-your-mac?utm_source=rss)
- - [Netflix announces a partnership with iHeartMedia to exclusively publish at least 15 video podcasts beginning in early 2026, including The Breakfast Club &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/251216/p30#a251216p30)<!-- TECH:END -->
+ - [Hong Kong-based RedotPay, a fintech focused on stablecoin-based payments, raised a $107M Series B led by Goodwater Capital, bringing its total raised to ~$200M &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/251216/p32#a251216p32)
+ - [The Best Streaming Bundles and Streaming Deals of December 2025](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)
+ - [Larian’s CEO says the studio isn’t ‘trimming down teams to replace them with AI’](https://www.theverge.com/news/845713/larian-ceo-divinity-ai-swen-vincke)
+ - [The 40 Best Shows on Apple TV, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Amazon partners with payments startup Slope to offer loans of up to $5M to merchants selling on its platform, using Amazon sales data for candidate selection &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251216/p31#a251216p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

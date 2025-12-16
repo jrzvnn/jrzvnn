@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple spent $1.1 billion on more California office space in 2025](https://appleinsider.com/articles/25/12/16/apple-spent-11-billion-on-more-california-office-space-in-2025?utm_source=rss)
- - [iPhone will do pretty well in 2026, as RAM prices hammer the smartphone industry](https://appleinsider.com/articles/25/12/16/iphone-will-do-pretty-well-in-2026-as-ram-prices-hammer-the-smartphone-industry?utm_source=rss)
- - [Q&amp;A with Rivian founder and CEO RJ Scaringe on founding Rivian in 2009, production challenges, the VW partnership, autonomy, AI, EVs, chips, CarPlay, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251216/p15#a251216p15)
- - [Adobe updates Firefly&#39;s app to add a prompt-based video editor using Runway&#39;s Aleph model, and adds image and video models from Black Forest Labs and others &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251216/p14#a251216p14)
- - [American Giant Redesigns Its Iconic Classic Full Zip Hoodie](https://www.wired.com/story/american-giant-redesign-classic-full-zip-hoodie/)<!-- TECH:END -->
+ - [Sequence, which builds AI agents to automate B2B companies&#39; revenue operations, raised a $20M Series A led by 645 Ventures, bringing its total funding to ~$40M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251216/p16#a251216p16)
+ - [Feds say US big tech is being targed by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)
+ - [The Best Holiday Delivery Meal Kits &lpar;2025&rpar;](https://www.wired.com/story/holiday-meal-kits-2025/)
+ - [Amazon&amp;#8217;s Kindle Scribe Colorsoft won&amp;#8217;t replace your notebook — or your Kindle](https://www.theverge.com/tech/844673/amazon-kindle-scribe-colorsoft-review-ereader-eink-tablet)
+ - [Apple spent $1.1 billion on more California office space in 2025](https://appleinsider.com/articles/25/12/16/apple-spent-11-billion-on-more-california-office-space-in-2025?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

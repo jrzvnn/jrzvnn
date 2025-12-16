@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
- - 💣 [Boooom head shot](http://9gag.com/gag/awyDNGD)
- - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 👉 [When he realizes..](http://9gag.com/gag/agmpMxn)<!-- MEMES:END -->
+ - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 💣 [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 😝 [Also you are free now curse is removed](http://9gag.com/gag/aZZKqe0)
+ - 👉 [Failed hard](http://9gag.com/gag/aNDGyp3)<!-- MEMES:END -->
 
 ---
 

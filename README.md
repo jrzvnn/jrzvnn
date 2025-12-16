@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That kick!](http://9gag.com/gag/amoyq5j)
- - 😝 [It ain&#39;t much, but it&#39;s a good start](http://9gag.com/gag/azxz7om)
- - 💣 [Can you build a house for me](http://9gag.com/gag/axyepeK)
- - 😝 [Also you are free now curse is removed](http://9gag.com/gag/aZZKqe0)
- - 👉 [I&#39;m today&#39;s society I think they should.](http://9gag.com/gag/aLn36L6)<!-- MEMES:END -->
+ - 😝 [This is bait](http://9gag.com/gag/a5Q9mZV)
+ - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 💣 [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 😝 [Boooom head shot](http://9gag.com/gag/awyDNGD)
+ - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [App developers escalate EU fight over Apple&#39;s App Store fees](https://appleinsider.com/articles/25/12/16/app-developers-escalate-eu-fight-over-apples-app-store-fees?utm_source=rss)
+ - [Perplexity updates its iPad app to improve multitasking and focus on research tools, part of a push to add business customers, after launching Comet on Android &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251216/p34#a251216p34)
  - [A vague study on Nazi bots created chaos in the Taylor Swift fan universe](https://www.theverge.com/report/845725/taylor-swift-gudea-report-rolling-stone-social-media-discourse-bots)
  - [X updates its ToS, effective January 15, 2026, to explicitly claim rights to the &quot;Twitter&quot; trademark after a startup filed an application to trademark the term &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251216/p33#a251216p33)
- - [DJ ChatGPT will soon be in control of your Apple Music playlists](https://appleinsider.com/articles/25/12/16/dj-chatgpt-will-soon-be-in-control-of-your-apple-music-playlists?utm_source=rss)
- - [It&#39;s Easy to Lock Your Social Security Number and Protect Your Identity. Here&#39;s How](https://www.cnet.com/tech/services-and-software/lock-your-social-security-number/#ftag=CAD590a51e)
- - [Hong Kong-based RedotPay, a fintech focused on stablecoin-based payments, raised a $107M Series B led by Goodwater Capital, bringing its total raised to ~$200M &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/251216/p32#a251216p32)<!-- TECH:END -->
+ - [DJ ChatGPT will soon be in control of your Apple Music playlists](https://appleinsider.com/articles/25/12/16/dj-chatgpt-will-soon-be-in-control-of-your-apple-music-playlists?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

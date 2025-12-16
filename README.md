@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla appoints Anthony Enzor-DeMeo as its CEO amid a challenging period for Mozilla&#39;s for-profit arm with layoffs, restructuring, and its Google dependence &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/251216/p13#a251216p13)
- - [16 Best White Elephant Gifts &lpar;2025&rpar;: Coffee Pot Mug, Legos, Sushi Magnets, and More](https://www.wired.com/gallery/best-white-elephant-gifts-2025/)
- - [Racks of AI chips are too damn heavy](https://www.theverge.com/ai-artificial-intelligence/844966/heavy-ai-data-center-buildout)
- - [There may be two models of Apple&#39;s rumored budget MacBook](https://appleinsider.com/articles/25/12/16/there-may-be-two-models-of-apples-rumored-budget-macbook?utm_source=rss)
- - [Databricks is raising a $4B Series L at a $134B valuation, up from $100B in August and $62B in December 2024, and had a $4.8B annual revenue run rate in October &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251216/p12#a251216p12)<!-- TECH:END -->
+ - [Adobe updates Firefly&#39;s app to add a prompt-based video editor using Runway&#39;s Aleph model, and adds image and video models from Black Forest Labs and others &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251216/p14#a251216p14)
+ - [American Giant Redesigns Its Iconic Classic Full Zip Hoodie](https://www.wired.com/story/american-giant-redesign-classic-full-zip-hoodie/)
+ - [Avatar: Fire and Ash is a gorgeous spectacle of titanic proportions](https://www.theverge.com/entertainment/844731/avatar-fire-and-ash-review)
+ - [Fallout’s goofy apocalypse gets serious in season 2](https://www.theverge.com/entertainment/844926/fallout-season-2-review-amazon-prime-video)
+ - [I’ve been waiting years for Animal Crossing’s best new features](https://www.theverge.com/games/845242/animal-crossing-new-horizons-3-0-update-switch-2-edition-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

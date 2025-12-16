@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Twitter never left:’ X sues Operation Bluebird for trademark infringement](https://www.theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement)
+ - [Trump admin threatens retaliation against Spotify and others over EU tech regulation](https://www.theverge.com/news/845869/ustr-eu-trade-threat-spotify-mistral)
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
  - [Last-minute holiday deals: Apple Watch Series 11 $299, iPad $279, Mac from $479](https://appleinsider.com/articles/25/12/16/last-minute-holiday-deals-apple-watch-series-11-299-ipad-279-mac-from-479?utm_source=rss)
- - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [App developers escalate EU fight over Apple&#39;s App Store fees](https://appleinsider.com/articles/25/12/16/app-developers-escalate-eu-fight-over-apples-app-store-fees?utm_source=rss)
- - [Perplexity updates its iPad app to improve multitasking and focus on research tools, part of a push to add business customers, after launching Comet on Android &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251216/p34#a251216p34)
- - [A vague study on Nazi bots created chaos in the Taylor Swift fan universe](https://www.theverge.com/report/845725/taylor-swift-gudea-report-rolling-stone-social-media-discourse-bots)<!-- TECH:END -->
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

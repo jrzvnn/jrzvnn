@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase is rolling out stock trading, more advanced trading tools, prediction markets via Kalshi, and more, amid a push to be a one-stop financial app &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251217/p47#a251217p47)
+ - [The Best Plant and Gardening Gifts From LetPot &lpar;2025&rpar;](https://www.wired.com/story/letpot-plant-and-gardening-gifts-2025/)
  - [Ergatta Luxe Water Rower review: delivering a powerful, low-impact workout for big budgets](https://appleinsider.com/articles/25/12/17/ergatta-luxe-water-rower-review-delivering-a-powerful-low-impact-workout-for-big-budgets?utm_source=rss)
  - [Meta is testing limiting Facebook professional accounts and Pages to posting just two links per month, unless they subscribe to $14.99+/month Meta Verified &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251217/p46#a251217p46)
- - [Brendan Carr doesn’t regret his threats to broadcasters](https://www.theverge.com/policy/846845/fcc-senate-commerce-oversight-hearing-brendan-carr)
- - [Sources: China built a working prototype of an EUV machine in early 2025 with a team of former ASML engineers who reverse-engineered the company&#39;s EUV machines &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/251217/p45#a251217p45)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)<!-- TECH:END -->
+ - [Brendan Carr doesn’t regret his threats to broadcasters](https://www.theverge.com/policy/846845/fcc-senate-commerce-oversight-hearing-brendan-carr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

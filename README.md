@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
+ - 💣 [Good job!](http://9gag.com/gag/aNDXmDK)
  - 😝 [KABOOM?](http://9gag.com/gag/aO8ngg3)
- - 💣 [\u201cit\u2019s just a game npc\u201d the npc:](http://9gag.com/gag/a4P8pWv)
- - 😝 [Idk if it&#39;s a repost or not but I find this hilarious.](http://9gag.com/gag/agmby5q)
  - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
 
 ---

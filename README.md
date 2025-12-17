@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
- - 😝 [Boooom head shot](http://9gag.com/gag/awyDNGD)
- - 💣 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 😝 [I guess this is `explain a plot accurately`.](http://9gag.com/gag/aKGyw36)
- - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
+ - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - 💣 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
+ - 😝 [Me convincing myself to make a bad decision](http://9gag.com/gag/a879L8Q)
+ - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Marshall Islands unveils a national UBI scheme that offers payments of ~$200 per quarter to every resident citizen via stablecoin or traditional currency &lpar;Prianka Srinivasan/The Guardian&rpar;](http://www.techmeme.com/251217/p11#a251217p11)
  - [Berlin-based Trade Republic says early investors will sell €1.2B of shares to Sequoia and others at a €12.5B valuation, becoming Germany&#39;s most valuable startup &lpar;Financial Times&rpar;](http://www.techmeme.com/251217/p10#a251217p10)
  - [Dune and Keyrock: bets placed on prediction markets rose from &lt;$100M per month in early 2024 to $13B per month in November, as Polymarket and Kalshi compete &lpar;Jill R Shah/Financial Times&rpar;](http://www.techmeme.com/251217/p9#a251217p9)
  - [Best Fiber Internet Providers for December 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)
- - [Daniel Kwan and 500+ writers, actors, and technologists launch the Creators Coalition on AI to push standards for AI training and use across creative industries &lpar;Chris Gardner/The Hollywood Reporter&rpar;](http://www.techmeme.com/251217/p8#a251217p8)
- - [Sources: Disney has been hesitant to license its IP to Roblox because it doesn&#39;t consider it a safe platform, bucking the trend followed by Netflix and others &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251217/p7#a251217p7)<!-- TECH:END -->
+ - [Daniel Kwan and 500+ writers, actors, and technologists launch the Creators Coalition on AI to push standards for AI training and use across creative industries &lpar;Chris Gardner/The Hollywood Reporter&rpar;](http://www.techmeme.com/251217/p8#a251217p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

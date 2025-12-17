@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix&amp;#8217;s next big TV game is FIFA soccer](https://www.theverge.com/news/845965/netflix-fifa-soccer-football-game-tv-delphi-interactive-world-cup)
- - [a16z releases a nine-pillar AI policy framework for Congress, including restricting AI use for under-13s without parental consent and keeping a role for states &lpar;Punchbowl News&rpar;](http://www.techmeme.com/251217/p28#a251217p28)
- - [Oracle says final negotiations on an equity deal for its Michigan data center project are &quot;on schedule&quot; and Related Digital will be its development partner &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/251217/p27#a251217p27)
- - [Apple Silicon chip packaging may expand into India&#39;s iPhone supply chain](https://appleinsider.com/articles/25/12/17/apple-silicon-chip-packaging-may-expand-into-indias-iphone-supply-chain?utm_source=rss)
- - [Feds say US big tech is targeted by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)<!-- TECH:END -->
+ - [Google brings its vibe coding tool Opal to Gemini on the web, letting users create their own custom apps called Gems; the mini apps can be reused later &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251217/p32#a251217p32)
+ - [Sources: Google is working on a new initiative to make its AI chips run PyTorch better and is working closely with Meta, as the two discuss Meta using TPUs &lpar;Reuters&rpar;](http://www.techmeme.com/251217/p31#a251217p31)
+ - [OnePlus 15R review: the new $700+ device is fast with a big battery and a vibrant 165Hz OLED, but one less camera than 2024&#39;s 13R and only four years of support &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/251217/p30#a251217p30)
+ - [We asked our staff for their 2026 predictions](https://www.theverge.com/video/845486/2026-predictions-staff-picks-video)
+ - [Circana: US game console spending fell 27% in November to $695M, the lowest in the pivotal month for holiday shopping since 2005, after a tough year for makers &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251217/p29#a251217p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

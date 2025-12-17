@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)
- - 😝 [Can you build a house for me](http://9gag.com/gag/axyepeK)
- - 💣 [I&#39;m today&#39;s society I think they should.](http://9gag.com/gag/aLn36L6)
- - 😝 [Run b!tch.. run...! It&#39;s a Trap.!](http://9gag.com/gag/aKGy48g)
- - 👉 [It ain&#39;t much, but it&#39;s a good start](http://9gag.com/gag/azxz7om)<!-- MEMES:END -->
+ - 😝 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
+ - 😝 [Boooom head shot](http://9gag.com/gag/awyDNGD)
+ - 💣 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 😝 [I guess this is `explain a plot accurately`.](http://9gag.com/gag/aKGyw36)
+ - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says it has frozen its third-party Horizon OS headset program, announced in 2024 with Asus and Lenovo as the first partners to build headsets &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/251217/p37#a251217p37)
+ - [ESPN is debuting a new data-filled Monday Night Football stream next week](https://www.theverge.com/news/846478/espn-monday-night-football-playbook-analytics)
  - [Viral account of &#39;Pluribus&#39; fridge ad causing mental health hospitalization was a lie](https://appleinsider.com/articles/25/12/17/viral-account-of-pluribus-fridge-ad-causing-mental-health-hospitalization-was-a-lie?utm_source=rss)
  - [Mercedes-Benz discontinues feature that syncs music to driving](https://www.theverge.com/news/846367/mercedes-benz-discontinues-feature-that-syncs-music-to-driving)
- - [This iPhone case with a second screen lets you snap selfies with its rear cameras](https://www.theverge.com/news/846408/dockcase-selfix-selfie-smartphone-iphone-17-pro-case-kickstarter)
- - [Warner Bros. Discovery wants its shareholders to reject Paramount’s latest offer](https://www.theverge.com/entertainment/846425/warner-bros-discovery-board-rejection-paramount-skydance-hostile-bid)
- - [Jimmy Wales trusts the process](https://www.theverge.com/tech/846184/jimmy-wales-trusts-the-process)<!-- TECH:END -->
+ - [This iPhone case with a second screen lets you snap selfies with its rear cameras](https://www.theverge.com/news/846408/dockcase-selfix-selfie-smartphone-iphone-17-pro-case-kickstarter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

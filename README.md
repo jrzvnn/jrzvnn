@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 💣 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
  - 😝 [Gg well played](http://9gag.com/gag/awy9qz8)
- - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
+ - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
+ - 💣 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
+ - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 👉 [Failed hard](http://9gag.com/gag/aNDGyp3)<!-- MEMES:END -->
 
 ---
 

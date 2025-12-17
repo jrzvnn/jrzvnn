@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix&amp;#8217;s next big TV game is FIFA soccer](https://www.theverge.com/news/845965/netflix-fifa-soccer-football-game-tv-delphi-interactive-world-cup)
  - [a16z releases a nine-pillar AI policy framework for Congress, including restricting AI use for under-13s without parental consent and keeping a role for states &lpar;Punchbowl News&rpar;](http://www.techmeme.com/251217/p28#a251217p28)
  - [Oracle says final negotiations on an equity deal for its Michigan data center project are &quot;on schedule&quot; and Related Digital will be its development partner &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/251217/p27#a251217p27)
  - [Apple Silicon chip packaging may expand into India&#39;s iPhone supply chain](https://appleinsider.com/articles/25/12/17/apple-silicon-chip-packaging-may-expand-into-indias-iphone-supply-chain?utm_source=rss)
- - [Feds say US big tech is targeted by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)
- - [Rad Power Bikes files for bankruptcy protection](https://www.theverge.com/news/846201/rad-power-bikes-chapter-11-bankruptcy)<!-- TECH:END -->
+ - [Feds say US big tech is targeted by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

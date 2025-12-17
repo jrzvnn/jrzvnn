@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brendan Carr doesn’t regret his threats to broadcasters](https://www.theverge.com/policy/846845/fcc-senate-commerce-oversight-hearing-brendan-carr)
+ - [Sources: China built a working prototype of an EUV machine in early 2025 with a team of former ASML engineers who reverse-engineered the company&#39;s EUV machines &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/251217/p45#a251217p45)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
  - [Micron reports Q1 revenue up 57% YoY to $13.64B, vs. $12.84B est., net income up 180% to $5.24B, and Q2 revenue forecast above est.; MU jumps 5%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251217/p44#a251217p44)
- - [‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era](https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/)
- - [A UK family and a US family sue Meta for the alleged wrongful deaths of their teenage sons, who died by suicide after falling victim to sextortion on Instagram &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251217/p43#a251217p43)
- - [Meta pauses third-party Horizon VR headsets program](https://www.theverge.com/news/846762/meta-vr-headsets-third-party-program-horizon-os)
- - [Parents of sextortion victim sue Meta for alleged wrongful death &lpar;Libby Brooks/The Guardian&rpar;](http://www.techmeme.com/251217/p42#a251217p42)<!-- TECH:END -->
+ - [‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era](https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

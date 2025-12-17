@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Oscars will stream on YouTube in 2029](https://www.theverge.com/news/846560/youtube-the-oscars-streaming-2029)
  - [Grab Apple&#39;s M4 MacBook Air for $749, laptops start at just $409](https://appleinsider.com/articles/25/12/17/grab-apples-m4-macbook-air-for-749-laptops-start-at-just-409?utm_source=rss)
  - [Border Patrol Bets on Small Drones to Expand US Surveillance Reach](https://www.wired.com/story/border-patrol-bets-on-small-drones-to-expand-us-surveillance-reach/)
  - [Maximus is more important than ever in Fallout season 2](https://www.theverge.com/entertainment/846429/fallout-season-2-maximus-aaron-moten-interview)
- - [Tesla would have to rein in FSD under new Democratic bill](https://www.theverge.com/news/846387/level-2-operational-design-domain-markey-bill)
- - [The Academy signs a multi-year deal that will give YouTube the exclusive global rights to the Oscars, beginning in 2029 and running through 2033 &lpar;Scott Feinberg/The Hollywood Reporter&rpar;](http://www.techmeme.com/251217/p38#a251217p38)<!-- TECH:END -->
+ - [Tesla would have to rein in FSD under new Democratic bill](https://www.theverge.com/news/846387/level-2-operational-design-domain-markey-bill)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

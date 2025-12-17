@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The collector](http://9gag.com/gag/amoyqb9)
  - 😝 [Giant snowman being constructed in Qunli music park in China](http://9gag.com/gag/a879d2p)
- - 😝 [Christmas Bober](http://9gag.com/gag/a7omjje)
- - 💣 [The collector](http://9gag.com/gag/amoyqb9)
- - 😝 [Grandpa living his best life, taking naps in the middle of his onion field](http://9gag.com/gag/aYQBN72)
+ - 💣 [Grandpa living his best life, taking naps in the middle of his onion field](http://9gag.com/gag/aYQBN72)
+ - 😝 [I thought the `Until next time...` memes were for Skeletor. I didn&#39;t know there was a He-Man version](http://9gag.com/gag/a879WbY)
  - 👉 [Every time. Every single time.](http://9gag.com/gag/a9yejZ1)<!-- MEMES:END -->
 
 ---

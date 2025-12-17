@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Micron reports Q1 revenue up 57% YoY to $13.64B, vs. $12.84B est., net income up 180% to $5.24B, and Q2 revenue forecast above est.; MU jumps 5%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251217/p44#a251217p44)
+ - [‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era](https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/)
  - [A UK family and a US family sue Meta for the alleged wrongful deaths of their teenage sons, who died by suicide after falling victim to sextortion on Instagram &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251217/p43#a251217p43)
  - [Meta pauses third-party Horizon VR headsets program](https://www.theverge.com/news/846762/meta-vr-headsets-third-party-program-horizon-os)
- - [Parents of sextortion victim sue Meta for alleged wrongful death &lpar;Libby Brooks/The Guardian&rpar;](http://www.techmeme.com/251217/p42#a251217p42)
- - [Democratic lawmakers are investigating data centers’ impact on electricity costs](https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation)
- - [You can snag a pair of the Beats Solo 4 headphones for under $100 right now](https://www.theverge.com/gadgets/846609/beats-solo-4-wireless-headphones-deal-sale-2025)<!-- TECH:END -->
+ - [Parents of sextortion victim sue Meta for alleged wrongful death &lpar;Libby Brooks/The Guardian&rpar;](http://www.techmeme.com/251217/p42#a251217p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

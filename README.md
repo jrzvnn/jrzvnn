@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Tencent tells staff that Yao Shunyu, an ex-OpenAI researcher who joined in September, is now its chief AI scientist, reporting to President Martin Lau &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251217/p20#a251217p20)
- - [Tesla misled customers about self-driving features, judge rules](https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv)
- - [Sources: 6+ Chinese AI companies, including chip firms Montage and GigaDevice, are set to go public in Hong Kong in the coming weeks, aiming to raise up to $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251217/p19#a251217p19)
- - [Apple Engineers Are Inspecting Bacon Packaging to Help Level Up US Manufacturers](https://www.wired.com/story/apple-manufacturing-academy-michigan/)
- - [Sensor Tower: ChatGPT had 73M DAUs in India as of last week, up 607% YoY and more than double the US, boosted by its free plans, far above Gemini&#39;s 17M DAUs &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/251217/p18#a251217p18)<!-- TECH:END -->
+ - [WBD recommends shareholders reject Paramount&#39;s unsolicited cash bid, calling the offer &quot;illusory&quot; and saying it believes Netflix&#39;s proposal is still superior &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251217/p21#a251217p21)
+ - [How to Watch the Final Meteor Shower of 2025](https://www.wired.com/story/how-to-watch-the-ursids-meteor-shower/)
+ - [People Are Paying to Get Their Chatbots High on ‘Drugs’](https://www.wired.com/story/people-are-paying-to-get-their-chatbots-high-on-drugs/)
+ - [Feds say US big tech is targeted by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)
+ - [Source: Tencent tells staff that Yao Shunyu, an ex-OpenAI researcher who joined in September, is now its chief AI scientist, reporting to President Martin Lau &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251217/p20#a251217p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

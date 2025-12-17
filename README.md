@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Academy signs a multi-year deal that will give YouTube the exclusive global rights to the Oscars, beginning in 2029 and running through 2033 &lpar;Scott Feinberg/The Hollywood Reporter&rpar;](http://www.techmeme.com/251217/p38#a251217p38)
+ - [Billionaires want data centers everywhere, including space](https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers)
  - [Meta says it has frozen its third-party Horizon OS headset program, announced in 2024 with Asus and Lenovo as the first partners to build headsets &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/251217/p37#a251217p37)
  - [ESPN is debuting a new data-filled Monday Night Football stream next week](https://www.theverge.com/news/846478/espn-monday-night-football-playbook-analytics)
- - [Viral account of &#39;Pluribus&#39; fridge ad causing mental health hospitalization was a lie](https://appleinsider.com/articles/25/12/17/viral-account-of-pluribus-fridge-ad-causing-mental-health-hospitalization-was-a-lie?utm_source=rss)
- - [Mercedes-Benz discontinues feature that syncs music to driving](https://www.theverge.com/news/846367/mercedes-benz-discontinues-feature-that-syncs-music-to-driving)
- - [This iPhone case with a second screen lets you snap selfies with its rear cameras](https://www.theverge.com/news/846408/dockcase-selfix-selfie-smartphone-iphone-17-pro-case-kickstarter)<!-- TECH:END -->
+ - [Viral account of &#39;Pluribus&#39; fridge ad causing mental health hospitalization was a lie](https://appleinsider.com/articles/25/12/17/viral-account-of-pluribus-fridge-ad-causing-mental-health-hospitalization-was-a-lie?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

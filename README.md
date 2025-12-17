@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monzo receives an Irish banking license, allowing the London-based digital lender to offer current and savings accounts across the EU &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251217/p13#a251217p13)
- - [Bhutan unveils a pledge of up to 10,000 bitcoin to develop Gelephu Mindfulness City; Arkham says Bhutan holds 5,984 bitcoin, ranking 7th among sovereign holders &lpar;Vismaya V/Decrypt&rpar;](http://www.techmeme.com/251217/p12#a251217p12)
- - [The Marshall Islands unveils a national UBI scheme that offers payments of ~$200 per quarter to every resident citizen via stablecoin or traditional currency &lpar;Prianka Srinivasan/The Guardian&rpar;](http://www.techmeme.com/251217/p11#a251217p11)
- - [Berlin-based Trade Republic says early investors will sell €1.2B of shares to Sequoia and others at a €12.5B valuation, becoming Germany&#39;s most valuable startup &lpar;Financial Times&rpar;](http://www.techmeme.com/251217/p10#a251217p10)
- - [Dune and Keyrock: bets placed on prediction markets rose from &lt;$100M per month in early 2024 to $13B per month in November, as Polymarket and Kalshi compete &lpar;Jill R Shah/Financial Times&rpar;](http://www.techmeme.com/251217/p9#a251217p9)<!-- TECH:END -->
+ - [Sources: top Monzo shareholders, including Accel and Iconiq, are pushing to oust the fintech&#39;s Chair Gary Hoffman after the surprise departure of CEO TS Anil &lpar;Financial Times&rpar;](http://www.techmeme.com/251217/p15#a251217p15)
+ - [Tuft &amp; Needle Is Offering a Free Pillow Set With Mattress Purchase](https://www.wired.com/story/tuft-and-needle-pillow-deal-2025/)
+ - [Ankar, which develops LLM-powered AI tools to streamline the process of drafting patent applications for patent attorneys, raised a $20M Series A led by Atomico &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251217/p14#a251217p14)
+ - [Microsoft Will Finally Kill an Encryption Cipher That Enabled a Decade of Windows Hacks](https://www.wired.com/story/microsoft-will-finally-kill-an-encryption-cipher-that-enabled-a-decade-of-windows-hacks/)
+ - [Monzo receives an Irish banking license, allowing the London-based digital lender to offer current and savings accounts across the EU &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251217/p13#a251217p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

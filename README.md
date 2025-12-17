@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Idk if it&#39;s a repost or not but I find this hilarious.](http://9gag.com/gag/agmby5q)
- - 😝 [So they&#39;re basically a hydraulic system?](http://9gag.com/gag/apRXEe5)
- - 💣 [Could you handle it](http://9gag.com/gag/axy8NVY)
- - 😝 [How to save The Netherlands](http://9gag.com/gag/aqyOmDM)
- - 👉 [Relatable](http://9gag.com/gag/aAy7Rbg)<!-- MEMES:END -->
+ - 😝 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)
+ - 😝 [The Marvels Of Modern Medical Science](http://9gag.com/gag/aqyO92Y)
+ - 💣 [Tinkerbell actress at Disneyland](http://9gag.com/gag/aqyO94Z)
+ - 😝 [Why Asians have to make everything about Kung Fu](http://9gag.com/gag/aYQBNm0)
+ - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
 
 ---
 

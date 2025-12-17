@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 💣 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
  - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
+ - 💣 [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - 😝 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
+ - 👉 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)<!-- MEMES:END -->
 
 ---
 

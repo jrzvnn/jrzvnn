@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
- - 💣 [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - 😝 [At least they have a black samurai..](http://9gag.com/gag/azxv6qx)
+ - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - 💣 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
  - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
  - 👉 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)<!-- MEMES:END -->
 

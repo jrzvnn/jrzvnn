@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Oscars will stream on YouTube in 2029](https://www.theverge.com/news/846560/youtube-the-oscars-streaming-2029)
- - [Grab Apple&#39;s M4 MacBook Air for $749, laptops start at just $409](https://appleinsider.com/articles/25/12/17/grab-apples-m4-macbook-air-for-749-laptops-start-at-just-409?utm_source=rss)
- - [Border Patrol Bets on Small Drones to Expand US Surveillance Reach](https://www.wired.com/story/border-patrol-bets-on-small-drones-to-expand-us-surveillance-reach/)
- - [Maximus is more important than ever in Fallout season 2](https://www.theverge.com/entertainment/846429/fallout-season-2-maximus-aaron-moten-interview)
- - [Tesla would have to rein in FSD under new Democratic bill](https://www.theverge.com/news/846387/level-2-operational-design-domain-markey-bill)<!-- TECH:END -->
+ - [The Very Best Gifts for Dads of Christmas 2025](https://www.wired.com/story/the-very-best-gifts-for-dads-2025/)
+ - [AI toys are telling kids how to find knives, and senators are mad](https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter)
+ - [Amazon&#39;s AGI team lead Rohit Prasad is leaving at the end of 2025; AWS SVP Peter DeSantis will lead a group combining AI, silicon, and quantum computing teams &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251217/p39#a251217p39)
+ - [The Oscars are moving from ABC to YouTube -- in 2029](https://appleinsider.com/articles/25/12/17/the-oscars-are-moving-from-abc-to-youtube----in-2029?utm_source=rss)
+ - [The Oscars will stream on YouTube in 2029](https://www.theverge.com/news/846560/youtube-the-oscars-streaming-2029)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

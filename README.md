@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 😝 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
+ - 😝 [When she starts to taste like coins and you ask to turn on the light](http://9gag.com/gag/aAy7Bjp)
  - 💣 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
  - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
 
 ---

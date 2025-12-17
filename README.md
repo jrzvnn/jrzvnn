@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi releases MiMo-V2-Flash, an open-weight MoE model with 309B total and 15B active parameters, saying it excels in reasoning, coding, and agentic scenarios &lpar;Xiaomi Mimo&rpar;](http://www.techmeme.com/251216/p36#a251216p36)
- - [Alexa Plus’ website is live for some users](https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live)
- - [Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room](https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026)
- - [Sources: Waymo is in discussions to raise more than $15B led by Alphabet at a valuation near $100B, and has achieved an annual revenue run rate above $350M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251216/p35#a251216p35)
- - [Brain-Inspired Algorithms Could Dramatically Cut AI Energy Use](https://www.cnet.com/news/brain-inspired-algorithms-could-dramatically-cut-ai-energy-use/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Silicon Valley turned Trump into a fellow broligarch](https://www.theverge.com/column/845955/donald-trump-big-tech-2025)
+ - [California DMV says a California administrative law judge recently ruled Tesla engaged in deceptive marketing around its Autopilot and Full Self-Driving systems &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251216/p37#a251216p37)
+ - [Jaguar Type 00 EV First Ride: It Still Looks Odd, but It’s Seriously Quick](https://www.wired.com/story/jaguar-type-00-ev-first-ride-it-still-looks-odd-but-it-is-seriously-quick/)
+ - [Best Online Retailers for Replacement Prescription Lenses in 2025](https://www.cnet.com/health/personal-care/best-places-to-buy-replacement-prescription-lenses/#ftag=CAD590a51e)
+ - [Xiaomi releases MiMo-V2-Flash, an open-weight MoE model with 309B total and 15B active parameters, saying it excels in reasoning, coding, and agentic scenarios &lpar;Xiaomi Mimo&rpar;](http://www.techmeme.com/251216/p36#a251216p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

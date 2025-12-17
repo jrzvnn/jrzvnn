@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI&amp;#8217;s water and electricity use soars in 2025](https://www.theverge.com/news/845831/ai-chips-data-center-power-water)
+ - [Morgan Stanley raises Apple stock target to $315, citing incredible 2026](https://appleinsider.com/articles/25/12/17/morgan-stanley-raises-apple-stock-target-to-315-citing-incredible-2026?utm_source=rss)
+ - [Google sues the Chinese-speaking cybercriminal group known as Darcula, behind an alleged US text message phishing ring, in the US, seeking a restraining order &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/251217/p33#a251217p33)
  - [SwitchBot’s space-saving robot vacuum is on sale starting at just $179.99](https://www.theverge.com/gadgets/845979/switchbot-k11-robot-vacuum-hisense-u8qg-mini-led-tv-deal-sale)
- - [Google brings its vibe coding tool Opal to Gemini on the web, letting users create their own custom apps called Gems; the mini apps can be reused later &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251217/p32#a251217p32)
- - [Sources: Google is working on a new initiative to make its AI chips run PyTorch better and is working closely with Meta, as the two discuss Meta using TPUs &lpar;Reuters&rpar;](http://www.techmeme.com/251217/p31#a251217p31)
- - [OnePlus 15R review: the new $700+ device is fast with a big battery and a vibrant 165Hz OLED, but one less camera than 2024&#39;s 13R and only four years of support &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/251217/p30#a251217p30)
- - [We asked our staff for their 2026 predictions](https://www.theverge.com/video/845486/2026-predictions-staff-picks-video)<!-- TECH:END -->
+ - [Google brings its vibe coding tool Opal to Gemini on the web, letting users create their own custom AI-powered mini apps, called Gems, which can be reused later &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251217/p32#a251217p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

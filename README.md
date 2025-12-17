@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boooom head shot](http://9gag.com/gag/awyDNGD)
- - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 💣 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 😝 [Always discuss your wages, you&#39;re probably getting fleeced](http://9gag.com/gag/apRXE88)
+ - 😝 [Judge can&#39;t belive his eys](http://9gag.com/gag/aByM9M2)
+ - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - 💣 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
+ - 😝 [I thought the `Until next time...` memes were for Skeletor. I didn&#39;t know there was a He-Man version](http://9gag.com/gag/a879WbY)
  - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
 
 ---

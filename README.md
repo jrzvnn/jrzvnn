@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WBD recommends shareholders reject Paramount&#39;s unsolicited cash bid, calling the offer &quot;illusory&quot; and saying it believes Netflix&#39;s proposal is still superior &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251217/p21#a251217p21)
- - [How to Watch the Final Meteor Shower of 2025](https://www.wired.com/story/how-to-watch-the-ursids-meteor-shower/)
- - [People Are Paying to Get Their Chatbots High on ‘Drugs’](https://www.wired.com/story/people-are-paying-to-get-their-chatbots-high-on-drugs/)
- - [Feds say US big tech is targeted by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)
- - [Source: Tencent tells staff that Yao Shunyu, an ex-OpenAI researcher who joined in September, is now its chief AI scientist, reporting to President Martin Lau &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251217/p20#a251217p20)<!-- TECH:END -->
+ - [Bluesky claims its new contact import feature is ‘privacy-first’](https://www.theverge.com/news/846175/bluesky-find-your-friends-privacy)
+ - [When open, iPhone Fold may be close to the size of an iPad mini](https://appleinsider.com/articles/25/12/17/when-open-iphone-fold-may-be-close-to-the-size-of-an-ipad-mini?utm_source=rss)
+ - [AI chip startup Mythic, which develops &quot;analog processing units&quot; to perform AI computations within memory, raised $125M led by DCVC; its CEO is a Nvidia veteran &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251217/p23#a251217p23)
+ - [17 Best Stocking Stuffers &lpar;2025&rpar;: Unique and Unconventional](https://www.wired.com/gallery/best-stocking-stuffers/)
+ - [In 2025, wearables made a hard pivot to AI](https://www.theverge.com/gadgets/838876/2025-ai-wearables-smart-glasses-pendants-fitness)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

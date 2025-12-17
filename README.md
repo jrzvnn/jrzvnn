@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 Pro review three months later: Still fresh](https://appleinsider.com/articles/25/12/17/iphone-17-pro-review-three-months-later-still-fresh?utm_source=rss)
  - [15 Best Food Gifts, as Tested by Our Tastebuds &lpar;2025&rpar;](https://www.wired.com/gallery/best-food-gifts/)
  - [Sources: Binance has been exploring ways to reboot its Binance.US affiliate, including a recapitalization to cut CZ&#39;s stake, which is a hurdle to expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/251217/p26#a251217p26)
  - [Coursera plans to acquire rival online education platform Udemy in an all-stock deal valued at $2.5B, combining two of the largest US learning platforms &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/251217/p25#a251217p25)
- - [Sources: Blue Owl Capital will not invest in Oracle&#39;s $10B, 1GW data center in Michigan after funding talks stalled due to concerns over debt terms and delays &lpar;Financial Times&rpar;](http://www.techmeme.com/251217/p24#a251217p24)
- - [Bluesky claims its new contact import feature is ‘privacy-first’](https://www.theverge.com/news/846175/bluesky-find-your-friends-privacy)<!-- TECH:END -->
+ - [Sources: Blue Owl Capital will not invest in Oracle&#39;s $10B, 1GW data center in Michigan after funding talks stalled due to concerns over debt terms and delays &lpar;Financial Times&rpar;](http://www.techmeme.com/251217/p24#a251217p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

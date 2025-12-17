@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini 3 Flash is priced at $0.50 per 1M input tokens and $3 per 1M output tokens, compared to Gemini 2.5 Flash&#39;s $0.30 per 1M input and $2.5 per 1M output &lpar;Tulsee Doshi/The Keyword&rpar;](http://www.techmeme.com/251217/p36#a251217p36)
  - [Google makes Gemini 3 Flash the default model in the Gemini app and Search&#39;s AI mode; it scored 33.7% without tool use on Humanity&#39;s Last Exam vs. 3 Pro&#39;s 37.5% &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251217/p35#a251217p35)
  - [Google unveils Gemini 3 Flash, which it says has Pro-grade reasoning with lower latency, outperforming 2.5 Pro &quot;while being 3x faster at a fraction of the cost&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251217/p34#a251217p34)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [The Most Powerful Politics Influencers Barely Post About Politics](https://www.wired.com/story/the-most-powerful-politics-influencers-barely-post-about-politics/)
- - [Gemini 3 Flash is here, bringing a ‘huge’ upgrade to the Gemini app](https://www.theverge.com/news/845741/gemini-3-flash-google-ai-mode-launch)<!-- TECH:END -->
+ - [The Most Powerful Politics Influencers Barely Post About Politics](https://www.wired.com/story/the-most-powerful-politics-influencers-barely-post-about-politics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

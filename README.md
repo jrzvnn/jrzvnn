@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: 6+ Chinese AI companies, including chip firms Montage and GigaDevice, are set to go public in Hong Kong in the coming weeks, aiming to raise up to $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251217/p19#a251217p19)
+ - [Apple Engineers Are Inspecting Bacon Packaging to Help Level Up US Manufacturers](https://www.wired.com/story/apple-manufacturing-academy-michigan/)
  - [Sensor Tower: ChatGPT had 73M DAUs in India as of last week, up 607% YoY and more than double the US, boosted by its free plans, far above Gemini&#39;s 17M DAUs &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/251217/p18#a251217p18)
  - [Former Neuralink Exec Launches Organ Preservation Effort](https://www.wired.com/story/a-brain-computer-interface-company-is-getting-into-organ-preservation/)
- - [Bengaluru-based e-commerce platform Meesho is up 95% from its IPO offer price, valuing it at nearly $11B and making it India&#39;s best-performing major IPO of 2025 &lpar;Ashutosh Joshi/Bloomberg&rpar;](http://www.techmeme.com/251217/p17#a251217p17)
- - [DEI Died This Year. Maybe It Was Supposed To](https://www.wired.com/story/dei-died-this-year-maybe-it-was-supposed-to/)
- - [Crypto exchange HashKey closed flat in its Hong Kong debut, after rising as much as 6.6% before falling 8.4% intraday, amid a weakness in digital assets &lpar;Reuters&rpar;](http://www.techmeme.com/251217/p16#a251217p16)<!-- TECH:END -->
+ - [Bengaluru-based e-commerce platform Meesho is up 95% from its IPO offer price, valuing it at nearly $11B and making it India&#39;s best-performing major IPO of 2025 &lpar;Ashutosh Joshi/Bloomberg&rpar;](http://www.techmeme.com/251217/p17#a251217p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

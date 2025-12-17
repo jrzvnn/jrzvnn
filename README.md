@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK family and a US family sue Meta for the alleged wrongful deaths of their teenage sons, who died by suicide after falling victim to sextortion on Instagram &lpar;Libby Brooks/The Guardian&rpar;](http://www.techmeme.com/251217/p42#a251217p42)
+ - [A UK family and a US family sue Meta for the alleged wrongful deaths of their teenage sons, who died by suicide after falling victim to sextortion on Instagram &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251217/p43#a251217p43)
+ - [Meta pauses third-party Horizon VR headsets program](https://www.theverge.com/news/846762/meta-vr-headsets-third-party-program-horizon-os)
+ - [Parents of sextortion victim sue Meta for alleged wrongful death &lpar;Libby Brooks/The Guardian&rpar;](http://www.techmeme.com/251217/p42#a251217p42)
  - [Democratic lawmakers are investigating data centers’ impact on electricity costs](https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation)
- - [You can snag a pair of the Beats Solo 4 headphones for under $100 right now](https://www.theverge.com/gadgets/846609/beats-solo-4-wireless-headphones-deal-sale-2025)
- - [Amazon has a new leader for its &amp;#8216;AGI&amp;#8217; group as it plays catch-up on AI](https://www.theverge.com/news/846721/amazon-new-agi-leader-peter-desantis-rohit-prasad)
- - [Pornhub is being extorted by ShinyHunters after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/251217/p41#a251217p41)<!-- TECH:END -->
+ - [You can snag a pair of the Beats Solo 4 headphones for under $100 right now](https://www.theverge.com/gadgets/846609/beats-solo-4-wireless-headphones-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

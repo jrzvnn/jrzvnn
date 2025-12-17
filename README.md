@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Silicon Valley turned Trump into a fellow broligarch](https://www.theverge.com/column/845955/donald-trump-big-tech-2025)
- - [California DMV says a California administrative law judge recently ruled Tesla engaged in deceptive marketing around its Autopilot and Full Self-Driving systems &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251216/p37#a251216p37)
- - [Jaguar Type 00 EV First Ride: It Still Looks Odd, but It’s Seriously Quick](https://www.wired.com/story/jaguar-type-00-ev-first-ride-it-still-looks-odd-but-it-is-seriously-quick/)
- - [Best Online Retailers for Replacement Prescription Lenses in 2025](https://www.cnet.com/health/personal-care/best-places-to-buy-replacement-prescription-lenses/#ftag=CAD590a51e)
- - [Xiaomi releases MiMo-V2-Flash, an open-weight MoE model with 309B total and 15B active parameters, saying it excels in reasoning, coding, and agentic scenarios &lpar;Xiaomi Mimo&rpar;](http://www.techmeme.com/251216/p36#a251216p36)<!-- TECH:END -->
+ - [Sources: Amazon is in talks to invest $10B+ in OpenAI at a $500B+ valuation, with OpenAI using AWS Trainium chips; Microsoft keeps rights to sell OpenAI models &lpar;The Information&rpar;](http://www.techmeme.com/251216/p40#a251216p40)
+ - [Apple has made it much easier to replace the battery in a 14-inch MacBook Pro](https://appleinsider.com/articles/25/12/17/apple-has-made-it-much-easier-to-replace-the-battery-in-a-14-inch-macbook-pro?utm_source=rss)
+ - [Sources: Apple is in preliminary talks with India&#39;s CG Semi, which offers chip assembly and testing services, to assemble and package chips for the iPhone &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/251216/p39#a251216p39)
+ - [Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts](https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid)
+ - [Arcade1Up isn&amp;#8217;t dead, maybe](https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

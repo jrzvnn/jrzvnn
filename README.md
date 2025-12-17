@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boooom head shot](http://9gag.com/gag/awyDNGD)
- - 😝 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
- - 💣 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 👉 [It&#39;s Monday again](http://9gag.com/gag/aYQvzwx)<!-- MEMES:END -->
+ - 😝 [That kick!](http://9gag.com/gag/amoyq5j)
+ - 😝 [I&#39;m today&#39;s society I think they should.](http://9gag.com/gag/aLn36L6)
+ - 💣 [It ain&#39;t much, but it&#39;s a good start](http://9gag.com/gag/azxz7om)
+ - 😝 [Me felling the Christmas Spirit](http://9gag.com/gag/a879LKZ)
+ - 👉 [The collector](http://9gag.com/gag/amoyqb9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon has a new leader for its &amp;#8216;AGI&amp;#8217; group as it plays catch-up on AI](https://www.theverge.com/news/846721/amazon-new-agi-leader-peter-desantis-rohit-prasad)
+ - [Pornhub is being extorted by ShinyHunters after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/251217/p41#a251217p41)
+ - [Video game hardware sales had a historically bad November in the US](https://www.theverge.com/news/846693/video-game-hardware-sales-november-2025-circana)
  - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [In a proposed settlement, the US FTC says crypto bridge Nomad must repay victims of a 2022 cyberattack that led to $186M worth of funds being stolen &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/251217/p40#a251217p40)
- - [The Very Best Gifts for Dads of Christmas 2025](https://www.wired.com/story/the-very-best-gifts-for-dads-2025/)
- - [AI toys are telling kids how to find knives, and senators are mad](https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter)
- - [Amazon&#39;s AGI team lead Rohit Prasad is leaving at the end of 2025; AWS SVP Peter DeSantis will lead a group combining AI, silicon, and quantum computing teams &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251217/p39#a251217p39)<!-- TECH:END -->
+ - [In a proposed settlement, the US FTC says crypto bridge Nomad must repay victims of a 2022 cyberattack that led to $186M worth of funds being stolen &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/251217/p40#a251217p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

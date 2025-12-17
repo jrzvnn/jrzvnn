@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adaptive Security, which uses AI to simulate social engineering attacks and help companies prevent them, raised an $81M Series B led by Bain Capital Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251216/p41#a251216p41)
+ - [How to stop your iPhone alarm from going off without sound in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-stop-your-iphone-alarm-from-going-off-without-sound-in-ios-26?utm_source=rss)
  - [Sources: Amazon is in talks to invest $10B+ in OpenAI at a $500B+ valuation, with OpenAI using AWS Trainium chips; Microsoft keeps rights to sell OpenAI models &lpar;The Information&rpar;](http://www.techmeme.com/251216/p40#a251216p40)
  - [Apple has made it much easier to replace the battery in a 14-inch MacBook Pro](https://appleinsider.com/articles/25/12/17/apple-has-made-it-much-easier-to-replace-the-battery-in-a-14-inch-macbook-pro?utm_source=rss)
- - [Sources: Apple is in preliminary talks with India&#39;s CG Semi, which offers chip assembly and testing services, to assemble and package chips for the iPhone &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/251216/p39#a251216p39)
- - [Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts](https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid)
- - [Arcade1Up isn&amp;#8217;t dead, maybe](https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade)<!-- TECH:END -->
+ - [Sources: Apple is in preliminary talks with India&#39;s CG Semi, which offers chip assembly and testing services, to assemble and package chips for the iPhone &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/251216/p39#a251216p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

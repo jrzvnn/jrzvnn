@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto exchange HashKey closed flat in its Hong Kong debut, after rising as much as 6.6% before falling 8.4% intraday, amid a weakness in digital assets &lpar;Reuters&rpar;](http://www.techmeme.com/251217/p16#a251217p16)
  - [Sources: top Monzo shareholders, including Accel and Iconiq, are pushing to oust the fintech&#39;s Chair Gary Hoffman after the surprise departure of CEO TS Anil &lpar;Financial Times&rpar;](http://www.techmeme.com/251217/p15#a251217p15)
  - [Tuft &amp; Needle Is Offering a Free Pillow Set With Mattress Purchase](https://www.wired.com/story/tuft-and-needle-pillow-deal-2025/)
  - [Ankar, which develops LLM-powered AI tools to streamline the process of drafting patent applications for patent attorneys, raised a $20M Series A led by Atomico &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251217/p14#a251217p14)
- - [Microsoft Will Finally Kill an Encryption Cipher That Enabled a Decade of Windows Hacks](https://www.wired.com/story/microsoft-will-finally-kill-an-encryption-cipher-that-enabled-a-decade-of-windows-hacks/)
- - [Monzo receives an Irish banking license, allowing the London-based digital lender to offer current and savings accounts across the EU &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251217/p13#a251217p13)<!-- TECH:END -->
+ - [Microsoft Will Finally Kill an Encryption Cipher That Enabled a Decade of Windows Hacks](https://www.wired.com/story/microsoft-will-finally-kill-an-encryption-cipher-that-enabled-a-decade-of-windows-hacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

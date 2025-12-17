@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 😝 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
+ - 😝 [This is how women dress whenever they want to be just friends](http://9gag.com/gag/aVv8j9M)
  - 💣 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 😝 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
- - 👉 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)<!-- MEMES:END -->
+ - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
 
 ---
 

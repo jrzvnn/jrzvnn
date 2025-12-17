@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ergatta Luxe Water Rower review: delivering a powerful, low-impact workout for big budgets](https://appleinsider.com/articles/25/12/17/ergatta-luxe-water-rower-review-delivering-a-powerful-low-impact-workout-for-big-budgets?utm_source=rss)
+ - [Meta is testing limiting Facebook professional accounts and Pages to posting just two links per month, unless they subscribe to $14.99+/month Meta Verified &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251217/p46#a251217p46)
  - [Brendan Carr doesn’t regret his threats to broadcasters](https://www.theverge.com/policy/846845/fcc-senate-commerce-oversight-hearing-brendan-carr)
  - [Sources: China built a working prototype of an EUV machine in early 2025 with a team of former ASML engineers who reverse-engineered the company&#39;s EUV machines &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/251217/p45#a251217p45)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Micron reports Q1 revenue up 57% YoY to $13.64B, vs. $12.84B est., net income up 180% to $5.24B, and Q2 revenue forecast above est.; MU jumps 5%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251217/p44#a251217p44)
- - [‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era](https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/)<!-- TECH:END -->
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

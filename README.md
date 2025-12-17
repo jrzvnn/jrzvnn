@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Adaptive Security, which uses AI to simulate social engineering attacks and help companies prevent them, raised an $81M Series B led by Bain Capital Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251216/p41#a251216p41)
  - [How to stop your iPhone alarm from going off without sound in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-stop-your-iphone-alarm-from-going-off-without-sound-in-ios-26?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-17/#ftag=CAD590a51e)
  - [Sources: Amazon is in talks to invest $10B+ in OpenAI at a $500B+ valuation, with OpenAI using AWS Trainium chips; Microsoft keeps rights to sell OpenAI models &lpar;The Information&rpar;](http://www.techmeme.com/251216/p40#a251216p40)
- - [Apple has made it much easier to replace the battery in a 14-inch MacBook Pro](https://appleinsider.com/articles/25/12/17/apple-has-made-it-much-easier-to-replace-the-battery-in-a-14-inch-macbook-pro?utm_source=rss)
- - [Sources: Apple is in preliminary talks with India&#39;s CG Semi, which offers chip assembly and testing services, to assemble and package chips for the iPhone &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/251216/p39#a251216p39)<!-- TECH:END -->
+ - [Apple has made it much easier to replace the battery in a 14-inch MacBook Pro](https://appleinsider.com/articles/25/12/17/apple-has-made-it-much-easier-to-replace-the-battery-in-a-14-inch-macbook-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

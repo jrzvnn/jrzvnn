@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least they have a black samurai..](http://9gag.com/gag/azxv6qx)
- - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 💣 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - 😝 [Boooom head shot](http://9gag.com/gag/awyDNGD)
+ - 💣 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
  - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
  - 👉 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)<!-- MEMES:END -->
 

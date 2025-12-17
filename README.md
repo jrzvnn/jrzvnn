@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 😝 [Gg well played](http://9gag.com/gag/awy9qz8)
- - 💣 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 😝 [Relatable](http://9gag.com/gag/aAy7Rbg)
- - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
+ - 😝 [That kick!](http://9gag.com/gag/amoyq5j)
+ - 😝 [Can you build a house for me](http://9gag.com/gag/axyepeK)
+ - 💣 [Run b!tch.. run...! It&#39;s a Trap.!](http://9gag.com/gag/aKGy48g)
+ - 😝 [I&#39;m today&#39;s society I think they should.](http://9gag.com/gag/aLn36L6)
+ - 👉 [It ain&#39;t much, but it&#39;s a good start](http://9gag.com/gag/azxz7om)<!-- MEMES:END -->
 
 ---
 

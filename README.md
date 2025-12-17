@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is partnering with Singapore-based K-ID to add its AgeKey age-verification tech to Meta apps, with plans to roll it out across multiple countries in 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/251217/p2#a251217p2)
+ - [Chinese AI chipmaker MetaX&#39;s shares jumped up to 755% in its Shanghai debut after a heavily oversubscribed $585.5M IPO, pushing its market cap past $42B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251217/p1#a251217p1)
  - [Adaptive Security, which uses AI to simulate social engineering attacks and help companies prevent them, raised an $81M Series B led by Bain Capital Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251216/p41#a251216p41)
  - [How to stop your iPhone alarm from going off without sound in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-stop-your-iphone-alarm-from-going-off-without-sound-in-ios-26?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-17/#ftag=CAD590a51e)
- - [Sources: Amazon is in talks to invest $10B+ in OpenAI at a $500B+ valuation, with OpenAI using AWS Trainium chips; Microsoft keeps rights to sell OpenAI models &lpar;The Information&rpar;](http://www.techmeme.com/251216/p40#a251216p40)
- - [Apple has made it much easier to replace the battery in a 14-inch MacBook Pro](https://appleinsider.com/articles/25/12/17/apple-has-made-it-much-easier-to-replace-the-battery-in-a-14-inch-macbook-pro?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

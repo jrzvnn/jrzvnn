@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
  - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 😝 [It&#39;s Monday again](http://9gag.com/gag/aYQvzwx)
  - 💣 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
- - 😝 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)
+ - 😝 [Relatable](http://9gag.com/gag/aAy7Rbg)
  - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
 
 ---

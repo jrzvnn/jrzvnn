@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how women dress whenever they want to be just friends](http://9gag.com/gag/aVv8j9M)
- - 😝 [The Marvels Of Modern Medical Science](http://9gag.com/gag/aqyO92Y)
- - 💣 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 😝 [Why Asians have to make everything about Kung Fu](http://9gag.com/gag/aYQBNm0)
- - 👉 [Failed hard](http://9gag.com/gag/aNDGyp3)<!-- MEMES:END -->
+ - 😝 [Idk if it&#39;s a repost or not but I find this hilarious.](http://9gag.com/gag/agmby5q)
+ - 😝 [So they&#39;re basically a hydraulic system?](http://9gag.com/gag/apRXEe5)
+ - 💣 [Could you handle it](http://9gag.com/gag/axy8NVY)
+ - 😝 [How to save The Netherlands](http://9gag.com/gag/aqyOmDM)
+ - 👉 [Relatable](http://9gag.com/gag/aAy7Rbg)<!-- MEMES:END -->
 
 ---
 

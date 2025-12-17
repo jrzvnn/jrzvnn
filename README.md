@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SwitchBot’s space-saving robot vacuum is on sale starting at just $179.99](https://www.theverge.com/gadgets/845979/switchbot-k11-robot-vacuum-hisense-u8qg-mini-led-tv-deal-sale)
  - [Google brings its vibe coding tool Opal to Gemini on the web, letting users create their own custom apps called Gems; the mini apps can be reused later &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251217/p32#a251217p32)
  - [Sources: Google is working on a new initiative to make its AI chips run PyTorch better and is working closely with Meta, as the two discuss Meta using TPUs &lpar;Reuters&rpar;](http://www.techmeme.com/251217/p31#a251217p31)
  - [OnePlus 15R review: the new $700+ device is fast with a big battery and a vibrant 165Hz OLED, but one less camera than 2024&#39;s 13R and only four years of support &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/251217/p30#a251217p30)
- - [We asked our staff for their 2026 predictions](https://www.theverge.com/video/845486/2026-predictions-staff-picks-video)
- - [Circana: US game console spending fell 27% in November to $695M, the lowest in the pivotal month for holiday shopping since 2005, after a tough year for makers &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251217/p29#a251217p29)<!-- TECH:END -->
+ - [We asked our staff for their 2026 predictions](https://www.theverge.com/video/845486/2026-predictions-staff-picks-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

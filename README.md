@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange HashKey closed flat in its Hong Kong debut, after rising as much as 6.6% before falling 8.4% intraday, amid a weakness in digital assets &lpar;Reuters&rpar;](http://www.techmeme.com/251217/p16#a251217p16)
- - [Sources: top Monzo shareholders, including Accel and Iconiq, are pushing to oust the fintech&#39;s Chair Gary Hoffman after the surprise departure of CEO TS Anil &lpar;Financial Times&rpar;](http://www.techmeme.com/251217/p15#a251217p15)
- - [Tuft &amp; Needle Is Offering a Free Pillow Set With Mattress Purchase](https://www.wired.com/story/tuft-and-needle-pillow-deal-2025/)
- - [Ankar, which develops LLM-powered AI tools to streamline the process of drafting patent applications for patent attorneys, raised a $20M Series A led by Atomico &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251217/p14#a251217p14)
- - [Microsoft Will Finally Kill an Encryption Cipher That Enabled a Decade of Windows Hacks](https://www.wired.com/story/microsoft-will-finally-kill-an-encryption-cipher-that-enabled-a-decade-of-windows-hacks/)<!-- TECH:END -->
+ - [Sensor Tower: ChatGPT had 73M DAUs in India as of last week, up 607% YoY and more than double the US, boosted by its free plans, far above Gemini&#39;s 17M DAUs &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/251217/p18#a251217p18)
+ - [Former Neuralink Exec Launches Organ Preservation Effort](https://www.wired.com/story/a-brain-computer-interface-company-is-getting-into-organ-preservation/)
+ - [Bengaluru-based e-commerce platform Meesho is up 95% from its IPO offer price, valuing it at nearly $11B and making it India&#39;s best-performing major IPO of 2025 &lpar;Ashutosh Joshi/Bloomberg&rpar;](http://www.techmeme.com/251217/p17#a251217p17)
+ - [DEI Died This Year. Maybe It Was Supposed To](https://www.wired.com/story/dei-died-this-year-maybe-it-was-supposed-to/)
+ - [Crypto exchange HashKey closed flat in its Hong Kong debut, after rising as much as 6.6% before falling 8.4% intraday, amid a weakness in digital assets &lpar;Reuters&rpar;](http://www.techmeme.com/251217/p16#a251217p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

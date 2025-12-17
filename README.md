@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The collector](http://9gag.com/gag/amoyqb9)
- - 😝 [Giant snowman being constructed in Qunli music park in China](http://9gag.com/gag/a879d2p)
- - 💣 [Grandpa living his best life, taking naps in the middle of his onion field](http://9gag.com/gag/aYQBN72)
- - 😝 [Every time. Every single time.](http://9gag.com/gag/a9yejZ1)
- - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
+ - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - 😝 [KABOOM?](http://9gag.com/gag/aO8ngg3)
+ - 💣 [\u201cit\u2019s just a game npc\u201d the npc:](http://9gag.com/gag/a4P8pWv)
+ - 😝 [Idk if it&#39;s a repost or not but I find this hilarious.](http://9gag.com/gag/agmby5q)
+ - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI&amp;#8217;s water and electricity use soars in 2025](https://www.theverge.com/news/845831/ai-chips-data-center-power-water)
- - [Morgan Stanley raises Apple stock target to $315, citing incredible 2026](https://appleinsider.com/articles/25/12/17/morgan-stanley-raises-apple-stock-target-to-315-citing-incredible-2026?utm_source=rss)
- - [Google sues the Chinese-speaking cybercriminal group known as Darcula, behind an alleged US text message phishing ring, in the US, seeking a restraining order &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/251217/p33#a251217p33)
- - [SwitchBot’s space-saving robot vacuum is on sale starting at just $179.99](https://www.theverge.com/gadgets/845979/switchbot-k11-robot-vacuum-hisense-u8qg-mini-led-tv-deal-sale)
- - [Google brings its vibe coding tool Opal to Gemini on the web, letting users create their own custom AI-powered mini apps, called Gems, which can be reused later &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251217/p32#a251217p32)<!-- TECH:END -->
+ - [Google makes Gemini 3 Flash the default model in the Gemini app and Search&#39;s AI mode; it scored 33.7% without tool use on Humanity&#39;s Last Exam vs. 3 Pro&#39;s 37.5% &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251217/p35#a251217p35)
+ - [Google unveils Gemini 3 Flash, which it says has Pro-grade reasoning with lower latency, outperforming 2.5 Pro &quot;while being 3x faster at a fraction of the cost&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251217/p34#a251217p34)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [The Most Powerful Politics Influencers Barely Post About Politics](https://www.wired.com/story/the-most-powerful-politics-influencers-barely-post-about-politics/)
+ - [Gemini 3 Flash is here, bringing a ‘huge’ upgrade to the Gemini app](https://www.theverge.com/news/845741/gemini-3-flash-google-ai-mode-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

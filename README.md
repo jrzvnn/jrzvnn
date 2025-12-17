@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [In a proposed settlement, the US FTC says crypto bridge Nomad must repay victims of a 2022 cyberattack that led to $186M worth of funds being stolen &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/251217/p40#a251217p40)
  - [The Very Best Gifts for Dads of Christmas 2025](https://www.wired.com/story/the-very-best-gifts-for-dads-2025/)
  - [AI toys are telling kids how to find knives, and senators are mad](https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter)
- - [Amazon&#39;s AGI team lead Rohit Prasad is leaving at the end of 2025; AWS SVP Peter DeSantis will lead a group combining AI, silicon, and quantum computing teams &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251217/p39#a251217p39)
- - [The Oscars are moving from ABC to YouTube -- in 2029](https://appleinsider.com/articles/25/12/17/the-oscars-are-moving-from-abc-to-youtube----in-2029?utm_source=rss)
- - [The Oscars will stream on YouTube in 2029](https://www.theverge.com/news/846560/youtube-the-oscars-streaming-2029)<!-- TECH:END -->
+ - [Amazon&#39;s AGI team lead Rohit Prasad is leaving at the end of 2025; AWS SVP Peter DeSantis will lead a group combining AI, silicon, and quantum computing teams &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251217/p39#a251217p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

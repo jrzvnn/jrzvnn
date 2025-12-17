@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)
- - 😝 [The Marvels Of Modern Medical Science](http://9gag.com/gag/aqyO92Y)
- - 💣 [Tinkerbell actress at Disneyland](http://9gag.com/gag/aqyO94Z)
- - 😝 [Why Asians have to make everything about Kung Fu](http://9gag.com/gag/aYQBNm0)
- - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
+ - 😝 [Javier](http://9gag.com/gag/aQzKqv7)
+ - 😝 [Could you handle it](http://9gag.com/gag/axy8NVY)
+ - 💣 [Relatable](http://9gag.com/gag/aAy7Rbg)
+ - 😝 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)
+ - 👉 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)<!-- MEMES:END -->
 
 ---
 

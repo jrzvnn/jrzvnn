@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Javier](http://9gag.com/gag/aQzKqv7)
- - 😝 [Could you handle it](http://9gag.com/gag/axy8NVY)
- - 💣 [Relatable](http://9gag.com/gag/aAy7Rbg)
- - 😝 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)
- - 👉 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)<!-- MEMES:END -->
+ - 😝 [Relatable](http://9gag.com/gag/aAy7Rbg)
+ - 💣 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)
+ - 😝 [I dio miss the old days](http://9gag.com/gag/a0eG9gq)
+ - 👉 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)<!-- MEMES:END -->
 
 ---
 

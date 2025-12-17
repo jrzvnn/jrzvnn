@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 💣 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
- - 😝 [Relatable](http://9gag.com/gag/aAy7Rbg)
- - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
+ - 😝 [Giant snowman being constructed in Qunli music park in China](http://9gag.com/gag/a879d2p)
+ - 😝 [Grandpa living his best life, taking naps in the middle of his onion field](http://9gag.com/gag/aYQBN72)
+ - 💣 [It ain&#39;t much, but it&#39;s a good start](http://9gag.com/gag/azxz7om)
+ - 😝 [I&#39;m today&#39;s society I think they should.](http://9gag.com/gag/aLn36L6)
+ - 👉 [The collector](http://9gag.com/gag/amoyqb9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 😝 [When she starts to taste like coins and you ask to turn on the light](http://9gag.com/gag/aAy7Bjp)
- - 💣 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
- - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
+ - 😝 [This is how women dress whenever they want to be just friends](http://9gag.com/gag/aVv8j9M)
+ - 😝 [The Marvels Of Modern Medical Science](http://9gag.com/gag/aqyO92Y)
+ - 💣 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
+ - 😝 [Why Asians have to make everything about Kung Fu](http://9gag.com/gag/aYQBNm0)
+ - 👉 [Failed hard](http://9gag.com/gag/aNDGyp3)<!-- MEMES:END -->
 
 ---
 

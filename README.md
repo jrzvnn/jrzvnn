@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use ChatGPT with Apple Music when search comes up short](https://appleinsider.com/inside/apple-music/tips/how-to-use-chatgpt-with-apple-music-when-search-comes-up-short?utm_source=rss)
- - [Endra, whose AI tools automate mechanical, electrical, and plumbing design for commercial buildings, raised a $20M seed led by Notion &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251218/p30#a251218p30)
- - [Microsoft&amp;#8217;s holiday Copilot ad is wrapped in empty promises](https://www.theverge.com/report/847056/microsoft-copilot-ai-vision-pc-assistant-christmas-holiday-ad)
- - [Luma AI launches Ray3 Modify, which allows users to modify existing footage by providing character reference images; users can also define start and end frames &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251218/p29#a251218p29)
- - [Micron says memory shortage will ‘persist’ beyond 2026](https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings)<!-- TECH:END -->
+ - [iRobot’s bankruptcy isn’t the end — it’s a reboot, says its CEO](https://www.theverge.com/report/847340/irobot-bankruptcy-reset-interview-ceo-gary-cohen)
+ - [How Atlas Obscura plans to embrace the 3D web](https://www.theverge.com/column/847182/atlas-obscura-society-3d-virtual-lounge)
+ - [Rivian launches Universal Hands-Free driving for second-generation R1 EVs, expanding coverage from 135,000 highway miles to 3.5M+ miles across the US and Canada &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/251218/p31#a251218p31)
+ - [Huion Kamvas Pro 24 &lpar;Gen 3&rpar; drawing tablet Review: Wacom is in trouble](https://appleinsider.com/articles/25/12/18/huion-kamvas-pro-24-gen-3-drawing-tablet-review-wacom-is-in-trouble?utm_source=rss)
+ - [Apple to flood App Store search results with more ads in 2026](https://appleinsider.com/articles/25/12/18/more-ads-are-coming-to-the-app-store-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

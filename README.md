@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India-listed RRP Semiconductor&#39;s stock surged 55,000%+ in the 20 months through Dec. 17, despite negative revenue; source: India&#39;s SEBI is examining the surge &lpar;Chiranjivi Chakraborty/Bloomberg&rpar;](http://www.techmeme.com/251218/p1#a251218p1)
  - [Tebra, which offers practice management tools for private healthcare providers, raised $250M led by Hildred, mostly in equity, to accelerate its AI capabilities &lpar;FinSMEs&rpar;](http://www.techmeme.com/251217/p54#a251217p54)
  - [Sources: General Intuition, which trains AI agents in spatial reasoning, is in late-stage talks to raise several hundred million dollars at a $2B+ valuation &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251217/p53#a251217p53)
  - [The ChatGPT app store is here](https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt)
- - [How Apple is helping filmmakers and developers create immersive media for the Vision Pro and share best practices &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/251217/p52#a251217p52)
- - [Sony&amp;#8217;s legal battle against Tencent&amp;#8217;s Horizon ‘clone’ is already over](https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement)<!-- TECH:END -->
+ - [How Apple is helping filmmakers and developers create immersive media for the Vision Pro and share best practices &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/251217/p52#a251217p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

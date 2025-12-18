@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
  - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 💣 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
- - 😝 [Mild shock](http://9gag.com/gag/a5QANwG)
- - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
+ - 😝 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
+ - 💣 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 😝 [Before they wake up](http://9gag.com/gag/a6ZzdVA)
+ - 👉 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)<!-- MEMES:END -->
 
 ---
 

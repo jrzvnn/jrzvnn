@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TMTG agrees to merge with Google-backed fusion energy company TAE in a $6B deal and begin building the &quot;world&#39;s first utility-scale fusion power plant&quot; in 2026 &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p22#a251218p22)
- - [More ads are coming to the App Store in 2026](https://appleinsider.com/articles/25/12/18/more-ads-are-coming-to-the-app-store-in-2026?utm_source=rss)
- - [UK AI Security Institute report: AI models are rapidly improving at potentially dangerous biological and chemical tasks, and show fast jumps in self-replication &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/251218/p21#a251218p21)
- - [10 Best Protein Powders, According to 2 Years of Testing &lpar;2026&rpar;](https://www.wired.com/gallery/best-protein-powders/)
- - [A Filmmaker Made a Sam Altman Deepfake—and Got Unexpectedly Attached](https://www.wired.com/story/a-filmmaker-made-a-sam-altman-deepfake-and-got-unexpectedly-attached/)<!-- TECH:END -->
+ - [Trump Media is merging with a nuclear fusion company](https://www.theverge.com/news/847159/trump-media-tae-technologies-merger-nuclear-fusion)
+ - [Stockholm-based vibe coding startup Lovable raised $330M led by CapitalG and Menlo Ventures at a $6.6B valuation, up from $1.8B after raising $200M in July &lpar;Niko Gallogly/New York Times&rpar;](http://www.techmeme.com/251218/p25#a251218p25)
+ - [AI companies are sick of their favorite buzzword](https://www.theverge.com/ai-artificial-intelligence/845890/ai-companies-rebrand-agi-artificial-general-intelligence)
+ - [Documents: OpenAI has sold 700K+ ChatGPT licenses to ~35 US public universities for students and faculty, who used it 14M+ times in September, beating Copilot &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p24#a251218p24)
+ - [New iMac with OLED display may launch in 2027](https://appleinsider.com/articles/25/12/18/new-imac-with-oled-display-may-launch-in-2027?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

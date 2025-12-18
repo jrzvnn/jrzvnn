@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI releases GPT‑5.2-Codex, with improvements on long-horizon work through context compaction, stronger performance on large code changes, and more &lpar;OpenAI&rpar;](http://www.techmeme.com/251218/p38#a251218p38)
+ - [30 great gift ideas that should arrive in time for Christmas](https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale)
  - [Twenty-four companies, including Microsoft, Google, Nvidia, OpenAI, and AWS, join the US Genesis Mission to boost the use of AI for scientific discovery &lpar;Courtney Subramanian/Bloomberg&rpar;](http://www.techmeme.com/251218/p37#a251218p37)
  - [AirPods Pro 3 are back down to $199 &lpar;$50 off&rpar; at Amazon](https://appleinsider.com/articles/25/12/18/airpods-pro-3-are-back-down-to-199-50-off-at-amazon?utm_source=rss)
- - [Netflix hires ESPN anchor Elle Duncan as its first on-air host for live sports and cultural events; she has appeared on SportsCenter, College GameDay, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251218/p36#a251218p36)
- - [The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams](https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/)
- - [Amazon Introduces Alexa-Powered Ring Doorbell With Personalized Visitor Greetings](https://www.cnet.com/news/amazon-introduces-alexa-powered-ring-doorbell-with-personalized-visitor-greetings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Riot Games found a motherboard security flaw that helps PC cheaters](https://www.theverge.com/news/847539/riot-games-motherboard-security-flaw-pc-cheaters-anti-cheat)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

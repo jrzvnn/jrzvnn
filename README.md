@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘All chaos and panic’: Nilay answers your burning Decoder questions](https://www.theverge.com/podcast/846750/decoder-mailbag-qa-nilay-patel-interview-2025)
- - [T-Mobile Says You Can Switch in Just 15 Minutes. I Tested That Claim](https://www.wired.com/story/i-tested-t-mobile-15-minute-switch-carriers/)
- - [Boat rental services Boatsetter and GetMyBoat plan to merge; Boatsetter CEO Michael Farb says the combined company is set to have $100M+ in bookings in 2025 &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p28#a251218p28)
- - [9 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Opposed to Data Centers? The Working Families Party Wants You to Run for Office](https://www.wired.com/story/opposed-to-data-centers-the-working-families-party-wants-you-to-run-for-office/)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s holiday Copilot ad is wrapped in empty promises](https://www.theverge.com/report/847056/microsoft-copilot-ai-vision-pc-assistant-christmas-holiday-ad)
+ - [Luma AI launches Ray3 Modify, which allows users to modify existing footage by providing character reference images; users can also define start and end frames &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251218/p29#a251218p29)
+ - [Micron says memory shortage will ‘persist’ beyond 2026](https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings)
+ - [The Best Linen Sheets for Cool and Comfy Sleeping &lpar;2025&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
+ - [‘All chaos and panic’: Nilay answers your burning Decoder questions](https://www.theverge.com/podcast/846750/decoder-mailbag-qa-nilay-patel-interview-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

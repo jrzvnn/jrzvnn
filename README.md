@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)
+ - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
  - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
  - 💣 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
  - 😝 [Before they wake up](http://9gag.com/gag/a6ZzdVA)

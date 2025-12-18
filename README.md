@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Relatable](http://9gag.com/gag/aAy7Rbg)
  - 😝 [Happy birthday](http://9gag.com/gag/agmby8n)
- - 💣 [Javier](http://9gag.com/gag/aQzKqv7)
- - 😝 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)
+ - 💣 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)
+ - 😝 [Javier](http://9gag.com/gag/aQzKqv7)
  - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
 
 ---

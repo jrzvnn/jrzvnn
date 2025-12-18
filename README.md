@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it will roll out more App Store ads in 2026 &quot;to increase opportunity in search results&quot;; Apple&#39;s website says 800M+ users visit the App Store weekly &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/251218/p20#a251218p20)
  - [Amazon CSO Stephen Schmidt says subtle keystroke data lag, measuring 110ms instead of the expected tens of milliseconds, helped catch a North Korean IT worker &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/251218/p19#a251218p19)
  - [15 Best Greens Powders &lpar;2025&rpar; Researched, Taste-Tested &amp; Reviewed](https://www.wired.com/gallery/best-greens-powders/)
  - [Circana: Xbox Series console sales fell 70% YoY to an all-time low in November, compared to the PS5&#39;s 40% YoY drop and Switch 1 and 2&#39;s combined 10% YoY fall &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/251218/p18#a251218p18)
- - [Honda plans to halt production in Japan and China from December 29 to January 6, showing the ongoing fallout of the global chip shortage and Nexperia takeover &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p17#a251218p17)
- - [new Apple iOS update is wrecking my iPhone](https://www.wired.com/story/phone-updates-used-to-be-annoying-the-latest-ios-is-awful/)<!-- TECH:END -->
+ - [Honda plans to halt production in Japan and China from December 29 to January 6, showing the ongoing fallout of the global chip shortage and Nexperia takeover &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p17#a251218p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

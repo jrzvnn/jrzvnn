@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)
- - [Amazon rolls out Alexa+ on the web to early access users, with chat functionality, smart home controls, file management, and cross-device conversations &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251218/p40#a251218p40)
- - [Don&#39;t Miss This Kindle Sale: Paperwhite, Colorsoft, and Accessories](https://www.wired.com/story/last-minute-christmas-kindle-sales/)
- - [Sources: Armadin, launched by Mandiant&#39;s founder Kevin Mandia to fight AI hacking, raised a $24M seed and is in talks to raise $100M+ at a $600M+ valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251218/p39#a251218p39)
- - [ICE Seeks Cyber Upgrade to Better Surveil and Investigate Its Employees](https://www.wired.com/story/ice-seeks-cyber-upgrade-to-better-surveil-and-investigate-its-employees/)<!-- TECH:END -->
+ - [Google&amp;#8217;s Gemini app can check videos to see if they were made with Google AI](https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos)
+ - [In an experiment, Claude ran a vending machine in the WSJ newsroom and lost $1,000+ after it dropped prices to zero, gave away a free PlayStation, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p43#a251218p43)
+ - [Sources: Salient, which uses AI to automate loan servicing, raised $10M following a $60M Series A in June, pushing its valuation to ~$500M; its ARR hit $25M &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/251218/p42#a251218p42)
+ - [Instacart will pay $60M to settle FTC allegations that it used deceptive tactics in its subscription signup and &quot;satisfaction guarantee&quot; advertising &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251218/p41#a251218p41)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

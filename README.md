@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Imprint, which helps retailers like Brooks Brothers offer co-branded credit cards and manage loyalty programs, raised $150M led by Khosla at a $1.2B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/251218/p27#a251218p27)
+ - [2025 was the beginning of the end of the TV brightness war](https://www.theverge.com/tech/841054/tv-brightness-hdr-2025)
+ - [North Korean hackers stole a record $2.02B in crypto in 2025, a 51% YoY rise that takes its cumulative stolen total to $6.75B; individual wallet hacks hit 158K &lpar;Chainalysis&rpar;](http://www.techmeme.com/251218/p26#a251218p26)
  - [Trump Media is merging with a nuclear fusion company](https://www.theverge.com/news/847159/trump-media-tae-technologies-merger-nuclear-fusion)
- - [Stockholm-based vibe coding startup Lovable raised $330M led by CapitalG and Menlo Ventures at a $6.6B valuation, up from $1.8B after raising $200M in July &lpar;Niko Gallogly/New York Times&rpar;](http://www.techmeme.com/251218/p25#a251218p25)
- - [AI companies are sick of their favorite buzzword](https://www.theverge.com/ai-artificial-intelligence/845890/ai-companies-rebrand-agi-artificial-general-intelligence)
- - [Documents: OpenAI has sold 700K+ ChatGPT licenses to ~35 US public universities for students and faculty, who used it 14M+ times in September, beating Copilot &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p24#a251218p24)
- - [New iMac with OLED display may launch in 2027](https://appleinsider.com/articles/25/12/18/new-imac-with-oled-display-may-launch-in-2027?utm_source=rss)<!-- TECH:END -->
+ - [Stockholm-based vibe coding startup Lovable raised $330M led by CapitalG and Menlo Ventures at a $6.6B valuation, up from $1.8B after raising $200M in July &lpar;Niko Gallogly/New York Times&rpar;](http://www.techmeme.com/251218/p25#a251218p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

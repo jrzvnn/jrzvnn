@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games CEO slams Japanese App Store &#39;junk fees&#39; following App Store tweaks](https://appleinsider.com/articles/25/12/18/epic-games-ceo-slams-japanese-app-store-junk-fees-following-app-store-tweaks?utm_source=rss)
- - [Imprint, which helps retailers like Brooks Brothers offer co-branded credit cards and manage loyalty programs, raised $150M led by Khosla at a $1.2B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/251218/p27#a251218p27)
- - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)
- - [2025 was the beginning of the end of the TV brightness war](https://www.theverge.com/tech/841054/tv-brightness-hdr-2025)
- - [North Korean hackers stole a record $2.02B in crypto in 2025, a 51% YoY rise that takes its cumulative stolen total to $6.75B; individual wallet hacks hit 158K &lpar;Chainalysis&rpar;](http://www.techmeme.com/251218/p26#a251218p26)<!-- TECH:END -->
+ - [T-Mobile Says You Can Switch in Just 15 Minutes. I Tested That Claim](https://www.wired.com/story/i-tested-t-mobile-15-minute-switch-carriers/)
+ - [Boat rental services Boatsetter and GetMyBoat plan to merge; Boatsetter CEO Michael Farb says the combined company is set to have $100M+ in bookings in 2025 &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p28#a251218p28)
+ - [9 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Opposed to Data Centers? The Working Families Party Wants You to Run for Office](https://www.wired.com/story/opposed-to-data-centers-the-working-families-party-wants-you-to-run-for-office/)
+ - [The latest iPad Air is $400 for the first time and arrives by Christmas](https://www.theverge.com/gadgets/847156/apple-ipad-air-m3-astro-bot-airpods-pro-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

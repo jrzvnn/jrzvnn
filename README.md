@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils iOS changes in Japan to comply with local law, including alternative app stores and payment options, a new fee structure, and new default controls &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251217/p50#a251217p50)
- - [New third-party iOS App Stores in Japan preserve user privacy, child safety](https://appleinsider.com/articles/25/12/18/new-third-party-ios-app-stores-in-japan-preserve-user-privacy-child-safety?utm_source=rss)
- - [LG&#39;s First Dolby FlexConnect Soundbar Lets You Place Speakers Anywhere](https://www.cnet.com/tech/home-entertainment/lgs-first-dolby-flexconnect-soundbar-lets-you-place-speakers-anywhere/#ftag=CAD590a51e)
- - [LG and Dolby partner to release the first FlexConnect soundbar](https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026)
- - [Sources: US FTC is probing Instacart&#39;s AI pricing tool, after a study showed different prices for the same items at the same stores; CART drops 8%+ after hours &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/251217/p49#a251217p49)<!-- TECH:END -->
+ - [How Apple is helping filmmakers and developers create immersive media for the Vision Pro and share best practices &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/251217/p52#a251217p52)
+ - [Sony&amp;#8217;s legal battle against Tencent&amp;#8217;s Horizon ‘clone’ is already over](https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement)
+ - [OpenAI opens app submissions for review and publication in ChatGPT, where users can discover or search for apps in a new app directory &lpar;OpenAI&rpar;](http://www.techmeme.com/251217/p51#a251217p51)
+ - [How to Watch &#39;Emily in Paris&#39; Season 5: Is It Another Two-Part Season?](https://www.cnet.com/tech/services-and-software/how-to-watch-emily-in-paris-season-5/#ftag=CAD590a51e)
+ - [Apple unveils iOS changes in Japan to comply with local law, including alternative app stores and payment options, a new fee structure, and new default controls &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251217/p50#a251217p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

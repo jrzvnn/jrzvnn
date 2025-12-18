@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tinkerbell actress at Disneyland](http://9gag.com/gag/aqyO94Z)
- - 😝 [Judge can&#39;t belive his eys](http://9gag.com/gag/aByM9M2)
- - 💣 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 😝 [Happy birthday](http://9gag.com/gag/agmby8n)
+ - 😝 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
+ - 💣 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
  - 😝 [Playing with a blue-ringed octopus is a death wish](http://9gag.com/gag/aByMREN)
- - 👉 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)<!-- MEMES:END -->
+ - 👉 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)<!-- MEMES:END -->
 
 ---
 

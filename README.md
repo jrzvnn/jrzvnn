@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - 😝 [Javier](http://9gag.com/gag/aQzKqv7)
- - 💣 [How to save The Netherlands](http://9gag.com/gag/aqyOmDM)
- - 😝 [Happy birthday](http://9gag.com/gag/agmby8n)
- - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
+ - 😝 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
+ - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 💣 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
+ - 😝 [Mild shock](http://9gag.com/gag/a5QANwG)
+ - 👉 [Me convincing myself to make a bad decision](http://9gag.com/gag/a879L8Q)<!-- MEMES:END -->
 
 ---
 

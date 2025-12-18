@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it will roll out more App Store ads in 2026 &quot;to increase opportunity in search results&quot;; Apple&#39;s website says 800M+ users visit the App Store weekly &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/251218/p20#a251218p20)
- - [Amazon CSO Stephen Schmidt says subtle keystroke data lag, measuring 110ms instead of the expected tens of milliseconds, helped catch a North Korean IT worker &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/251218/p19#a251218p19)
- - [15 Best Greens Powders &lpar;2025&rpar; Researched, Taste-Tested &amp; Reviewed](https://www.wired.com/gallery/best-greens-powders/)
- - [Circana: Xbox Series console sales fell 70% YoY to an all-time low in November, compared to the PS5&#39;s 40% YoY drop and Switch 1 and 2&#39;s combined 10% YoY fall &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/251218/p18#a251218p18)
- - [Honda plans to halt production in Japan and China from December 29 to January 6, showing the ongoing fallout of the global chip shortage and Nexperia takeover &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p17#a251218p17)<!-- TECH:END -->
+ - [TMTG agrees to merge with Google-backed fusion energy company TAE in a $6B deal and begin building the &quot;world&#39;s first utility-scale fusion power plant&quot; in 2026 &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p22#a251218p22)
+ - [More ads are coming to the App Store in 2026](https://appleinsider.com/articles/25/12/18/more-ads-are-coming-to-the-app-store-in-2026?utm_source=rss)
+ - [UK AI Security Institute report: AI models are rapidly improving at potentially dangerous biological and chemical tasks, and show fast jumps in self-replication &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/251218/p21#a251218p21)
+ - [10 Best Protein Powders, According to 2 Years of Testing &lpar;2026&rpar;](https://www.wired.com/gallery/best-protein-powders/)
+ - [A Filmmaker Made a Sam Altman Deepfake—and Got Unexpectedly Attached](https://www.wired.com/story/a-filmmaker-made-a-sam-altman-deepfake-and-got-unexpectedly-attached/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

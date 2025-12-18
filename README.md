@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t Miss This Kindle Sale: Paperwhite, Colorsoft, and Accessories](https://www.wired.com/story/last-minute-christmas-kindle-sales/)
  - [Sources: Armadin, launched by Mandiant&#39;s founder Kevin Mandia to fight AI hacking, raised a $24M seed and is in talks to raise $100M+ at a $600M+ valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251218/p39#a251218p39)
  - [ICE Seeks Cyber Upgrade to Better Surveil and Investigate Its Employees](https://www.wired.com/story/ice-seeks-cyber-upgrade-to-better-surveil-and-investigate-its-employees/)
  - [OpenAI releases GPT‑5.2-Codex, with improvements on long-horizon work through context compaction, stronger performance on large code changes, and more &lpar;OpenAI&rpar;](http://www.techmeme.com/251218/p38#a251218p38)
- - [30 great gift ideas that should arrive in time for Christmas](https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale)
- - [Twenty-four companies, including Microsoft, Google, Nvidia, OpenAI, and AWS, join the US Genesis Mission to boost the use of AI for scientific discovery &lpar;Courtney Subramanian/Bloomberg&rpar;](http://www.techmeme.com/251218/p37#a251218p37)<!-- TECH:END -->
+ - [30 great gift ideas that should arrive in time for Christmas](https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

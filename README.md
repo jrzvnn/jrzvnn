@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: General Intuition, which trains AI agents in spatial reasoning, is in late-stage talks to raise several hundred million dollars at a $2B+ valuation &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251217/p53#a251217p53)
+ - [The ChatGPT app store is here](https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt)
  - [How Apple is helping filmmakers and developers create immersive media for the Vision Pro and share best practices &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/251217/p52#a251217p52)
  - [Sony&amp;#8217;s legal battle against Tencent&amp;#8217;s Horizon ‘clone’ is already over](https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement)
- - [OpenAI opens app submissions for review and publication in ChatGPT, where users can discover or search for apps in a new app directory &lpar;OpenAI&rpar;](http://www.techmeme.com/251217/p51#a251217p51)
- - [How to Watch &#39;Emily in Paris&#39; Season 5: Is It Another Two-Part Season?](https://www.cnet.com/tech/services-and-software/how-to-watch-emily-in-paris-season-5/#ftag=CAD590a51e)
- - [Apple unveils iOS changes in Japan to comply with local law, including alternative app stores and payment options, a new fee structure, and new default controls &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251217/p50#a251217p50)<!-- TECH:END -->
+ - [OpenAI opens app submissions for review and publication in ChatGPT, where users can discover or search for apps in a new app directory &lpar;OpenAI&rpar;](http://www.techmeme.com/251217/p51#a251217p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

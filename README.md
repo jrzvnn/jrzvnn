@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Sony and Tencent reach a &quot;confidential settlement&quot; over Tencent&#39;s Light of Motiram, a game that Sony alleged was a &quot;slavish clone&quot; of its Horizon series &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251218/p11#a251218p11)
  - [Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode](https://www.theverge.com/reviews/846094/kuxiu-s3-solid-state-power-bank-review)
  - [Tokyo-based Resonac, a crucial cutting-edge chip chemicals supplier whose shares are up 40%+ YTD, says it has bolstered China production capacity to meet demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p10#a251218p10)
  - [Oilfield service companies are moving into the data center business by supplying power and cooling tech as demand from traditional drilling customers weakens &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/251218/p9#a251218p9)
- - [Cowboy saddles up with a new owner](https://www.theverge.com/news/847097/cowboy-acquired-by-rebirth-recycles-bankruptcy)
- - [Sources: Pinduoduo and Temu owner PDD fires dozens following a fistfight between employees and Chinese officials probing fraudulent deliveries on its platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p8#a251218p8)<!-- TECH:END -->
+ - [Cowboy saddles up with a new owner](https://www.theverge.com/news/847097/cowboy-acquired-by-rebirth-recycles-bankruptcy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

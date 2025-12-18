@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam’s annual winter sale is here — these are the best games to get](https://www.theverge.com/gadgets/846242/best-steam-winter-sale-game-deals)
+ - [Sources: Meta is developing a new image and video-focused AI model codenamed Mango, expected to be released in H1 2026 along with its new LLM dubbed Avocado &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p46#a251218p46)
+ - [OpenAI and Anthropic will start predicting when users are underage](https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude)
  - [France charges a crew member of an Italian passenger ferry for allegedly infecting the ship with a remote access tool on behalf of a foreign power &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251218/p45#a251218p45)
- - [Instagram wants to limit hashtag spam](https://www.theverge.com/news/847739/instagram-hashtag-spam-limit)
- - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [YouTube terminates Screen Culture and KH Studio, two large channels that used AI to create fake movie trailers; the platform earlier suspended the channels&#39; ads &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/251218/p44#a251218p44)
- - [LG forced a Copilot web app onto its TVs but will let you delete it](https://www.theverge.com/news/847685/lg-copilot-web-app-delete)<!-- TECH:END -->
+ - [Instagram wants to limit hashtag spam](https://www.theverge.com/news/847739/instagram-hashtag-spam-limit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - 😝 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)
- - 💣 [`BuT tHeN yOu HaVe To PaY fOr SoMeOnE eLsE&#39;s KiD`](http://9gag.com/gag/aW4A03Z)
- - 😝 [Work smarter, not harder](http://9gag.com/gag/abAoy0E)
- - 👉 [Yep...She&#39;s real elf...](http://9gag.com/gag/abAoqVr)<!-- MEMES:END -->
+ - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
+ - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 💣 [Business days](http://9gag.com/gag/ayNA5pb)
+ - 😝 [Look at Joe Pesci grow](http://9gag.com/gag/ae9E05b)
+ - 👉 [Mother taking her baby girl for a stroll](http://9gag.com/gag/a6ZzmQm)<!-- MEMES:END -->
 
 ---
 

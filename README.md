@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple unveils iOS changes in Japan to comply with local law, including alternative app stores and payment options, a new fee structure, and new default controls &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251217/p50#a251217p50)
  - [New third-party iOS App Stores in Japan preserve user privacy, child safety](https://appleinsider.com/articles/25/12/18/new-third-party-ios-app-stores-in-japan-preserve-user-privacy-child-safety?utm_source=rss)
+ - [LG&#39;s First Dolby FlexConnect Soundbar Lets You Place Speakers Anywhere](https://www.cnet.com/tech/home-entertainment/lgs-first-dolby-flexconnect-soundbar-lets-you-place-speakers-anywhere/#ftag=CAD590a51e)
  - [LG and Dolby partner to release the first FlexConnect soundbar](https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026)
- - [Sources: US FTC is probing Instacart&#39;s AI pricing tool, after a study showed different prices for the same items at the same stores; CART drops 8%+ after hours &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/251217/p49#a251217p49)
- - [Sources: OpenAI has held preliminary discussions with investors about raising tens of billions of dollars, and as much as $100B, at a valuation of around $750B &lpar;The Information&rpar;](http://www.techmeme.com/251217/p48#a251217p48)<!-- TECH:END -->
+ - [Sources: US FTC is probing Instacart&#39;s AI pricing tool, after a study showed different prices for the same items at the same stores; CART drops 8%+ after hours &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/251217/p49#a251217p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Edison, which last month released AI tool Kosmos to speed up and automate complex scientific hypothesis generation, raised $70M at a $250M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/251218/p32#a251218p32)
+ - [Kia and Hyundai will spend millions fixing old cars to stop &amp;#8216;Kia Boyz&amp;#8217; thefts](https://www.theverge.com/news/847454/kia-boyz-settlement-kia-hyundai-fix-ignition-cylinder)
+ - [7 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
  - [iRobot’s bankruptcy isn’t the end — it’s a reboot, says its CEO](https://www.theverge.com/report/847340/irobot-bankruptcy-reset-interview-ceo-gary-cohen)
- - [How Atlas Obscura plans to embrace the 3D web](https://www.theverge.com/column/847182/atlas-obscura-society-3d-virtual-lounge)
- - [Rivian launches Universal Hands-Free driving for second-generation R1 EVs, expanding coverage from 135,000 highway miles to 3.5M+ miles across the US and Canada &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/251218/p31#a251218p31)
- - [Huion Kamvas Pro 24 &lpar;Gen 3&rpar; drawing tablet Review: Wacom is in trouble](https://appleinsider.com/articles/25/12/18/huion-kamvas-pro-24-gen-3-drawing-tablet-review-wacom-is-in-trouble?utm_source=rss)
- - [Apple to flood App Store search results with more ads in 2026](https://appleinsider.com/articles/25/12/18/more-ads-are-coming-to-the-app-store-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [How Atlas Obscura plans to embrace the 3D web](https://www.theverge.com/column/847182/atlas-obscura-society-3d-virtual-lounge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

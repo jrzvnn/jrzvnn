@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 😝 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
+ - 😝 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)
+ - 😝 [When people look back to 2025 , they will remember this happened\u2026.](http://9gag.com/gag/aqyOmXp)
  - 💣 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
  - 😝 [Before they wake up](http://9gag.com/gag/a6ZzdVA)
- - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
+ - 👉 [Me convincing myself to make a bad decision](http://9gag.com/gag/a879L8Q)<!-- MEMES:END -->
 
 ---
 

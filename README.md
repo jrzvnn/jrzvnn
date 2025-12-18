@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Marvels Of Modern Medical Science](http://9gag.com/gag/aqyO92Y)
- - 😝 [Tinkerbell actress at Disneyland](http://9gag.com/gag/aqyO94Z)
- - 💣 [Playing with a blue-ringed octopus is a death wish](http://9gag.com/gag/aByMREN)
- - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 👉 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)<!-- MEMES:END -->
+ - 😝 [Relatable](http://9gag.com/gag/aAy7Rbg)
+ - 😝 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)
+ - 💣 [Happy birthday](http://9gag.com/gag/agmby8n)
+ - 😝 [Javier](http://9gag.com/gag/aQzKqv7)
+ - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
 
 ---
 

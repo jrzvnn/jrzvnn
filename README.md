@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother taking her baby girl for a stroll](http://9gag.com/gag/a6ZzmQm)
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 💣 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
- - 😝 [Me convincing myself to make a bad decision](http://9gag.com/gag/a879L8Q)
- - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
+ - 😝 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
+ - 😝 [Business days](http://9gag.com/gag/ayNA5pb)
+ - 💣 [Mother taking her baby girl for a stroll](http://9gag.com/gag/a6ZzmQm)
+ - 😝 [Before they wake up](http://9gag.com/gag/a6ZzdVA)
+ - 👉 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
 
 ---
 

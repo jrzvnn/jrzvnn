@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Edison, which last month released AI tool Kosmos to speed up and automate complex scientific hypothesis generation, raised $70M at a $250M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/251218/p32#a251218p32)
- - [Kia and Hyundai will spend millions fixing old cars to stop &amp;#8216;Kia Boyz&amp;#8217; thefts](https://www.theverge.com/news/847454/kia-boyz-settlement-kia-hyundai-fix-ignition-cylinder)
- - [7 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
- - [iRobot’s bankruptcy isn’t the end — it’s a reboot, says its CEO](https://www.theverge.com/report/847340/irobot-bankruptcy-reset-interview-ceo-gary-cohen)
- - [How Atlas Obscura plans to embrace the 3D web](https://www.theverge.com/column/847182/atlas-obscura-society-3d-virtual-lounge)<!-- TECH:END -->
+ - [&#39;Physical&#39; creator Annie Weisman returns with Apple TV thriller &#39;Imperfect Women&#39;](https://appleinsider.com/articles/25/12/18/physical-creator-annie-weisman-returns-with-apple-tv-thriller-imperfect-women?utm_source=rss)
+ - [Sources describe tensions between OpenAI&#39;s research and ChatGPT product groups, leading to the &quot;code red&quot;; OpenAI is set to beat its 2025 revenue goal of $13B &lpar;The Information&rpar;](http://www.techmeme.com/251218/p33#a251218p33)
+ - [26 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
+ - [Netflix snags Elle Duncan from ESPN to host live events](https://www.theverge.com/news/847394/netflix-espn-elle-duncan-live-tv-ambitions)
+ - [Edison, which last month released AI tool Kosmos to speed up and automate complex scientific hypothesis generation, raised $70M at a $250M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/251218/p32#a251218p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

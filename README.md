@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised a $100M Series D at a $1.5B valuation, up from $830M in March &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251218/p35#a251218p35)
+ - [Anthropic launches Agent Skills, which let AI assistants perform specialized tasks using modular instructions, and says Microsoft, Cursor, and others use them &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/251218/p34#a251218p34)
  - [&#39;Physical&#39; creator Annie Weisman returns with Apple TV thriller &#39;Imperfect Women&#39;](https://appleinsider.com/articles/25/12/18/physical-creator-annie-weisman-returns-with-apple-tv-thriller-imperfect-women?utm_source=rss)
  - [Sources describe tensions between OpenAI&#39;s research and ChatGPT product groups, leading to the &quot;code red&quot;; OpenAI is set to beat its 2025 revenue goal of $13B &lpar;The Information&rpar;](http://www.techmeme.com/251218/p33#a251218p33)
- - [26 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
- - [Netflix snags Elle Duncan from ESPN to host live events](https://www.theverge.com/news/847394/netflix-espn-elle-duncan-live-tv-ambitions)
- - [Edison, which last month released AI tool Kosmos to speed up and automate complex scientific hypothesis generation, raised $70M at a $250M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/251218/p32#a251218p32)<!-- TECH:END -->
+ - [26 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

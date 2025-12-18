@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Javier](http://9gag.com/gag/aQzKqv7)
  - 😝 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
- - 💣 [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
- - 👉 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)<!-- MEMES:END -->
+ - 😝 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)
+ - 💣 [Playing with a blue-ringed octopus is a death wish](http://9gag.com/gag/aByMREN)
+ - 😝 [Why Asians have to make everything about Kung Fu](http://9gag.com/gag/aYQBNm0)
+ - 👉 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)<!-- MEMES:END -->
 
 ---
 

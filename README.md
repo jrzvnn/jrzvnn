@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games CEO slams Japanese App Store &#39;junk fees&#39; following App Store tweaks](https://appleinsider.com/articles/25/12/18/epic-games-ceo-slams-japanese-app-store-junk-fees-following-app-store-tweaks?utm_source=rss)
  - [Imprint, which helps retailers like Brooks Brothers offer co-branded credit cards and manage loyalty programs, raised $150M led by Khosla at a $1.2B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/251218/p27#a251218p27)
+ - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)
  - [2025 was the beginning of the end of the TV brightness war](https://www.theverge.com/tech/841054/tv-brightness-hdr-2025)
- - [North Korean hackers stole a record $2.02B in crypto in 2025, a 51% YoY rise that takes its cumulative stolen total to $6.75B; individual wallet hacks hit 158K &lpar;Chainalysis&rpar;](http://www.techmeme.com/251218/p26#a251218p26)
- - [Trump Media is merging with a nuclear fusion company](https://www.theverge.com/news/847159/trump-media-tae-technologies-merger-nuclear-fusion)
- - [Stockholm-based vibe coding startup Lovable raised $330M led by CapitalG and Menlo Ventures at a $6.6B valuation, up from $1.8B after raising $200M in July &lpar;Niko Gallogly/New York Times&rpar;](http://www.techmeme.com/251218/p25#a251218p25)<!-- TECH:END -->
+ - [North Korean hackers stole a record $2.02B in crypto in 2025, a 51% YoY rise that takes its cumulative stolen total to $6.75B; individual wallet hacks hit 158K &lpar;Chainalysis&rpar;](http://www.techmeme.com/251218/p26#a251218p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

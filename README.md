@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy birthday](http://9gag.com/gag/agmby8n)
  - 😝 [Show me what you got!](http://9gag.com/gag/aAy7YyR)
- - 💣 [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - 😝 [You had none job.](http://9gag.com/gag/apRXo98)
+ - 😝 [Epic transformation](http://9gag.com/gag/a2vVN9w)
+ - 💣 [You had none job.](http://9gag.com/gag/apRXo98)
+ - 😝 [&#39;sup, human?](http://9gag.com/gag/aO8OyMD)
  - 👉 [Yep...She&#39;s real elf...](http://9gag.com/gag/abAoqVr)<!-- MEMES:END -->
 
 ---

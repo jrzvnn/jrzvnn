@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC Chairman Brendan Carr tells a Senate committee the FCC &quot;is not an independent agency&quot;; the agency removed &quot;independent agency&quot; from its site as he testified &lpar;Axios&rpar;](http://www.techmeme.com/251218/p15#a251218p15)
+ - [An in-depth look at a recent research paper that offered a roadmap to the viability of 3D HBM-on-GPU integration for improved AI performance and utilization &lpar;More Than Moore&rpar;](http://www.techmeme.com/251218/p14#a251218p14)
  - [Rome-based Exein, which offers cybersecurity tools for protecting connected devices including cars and home routers, raised €100M led by Blue Cloud Ventures &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251218/p13#a251218p13)
  - [Lovense Spinel Review: A Great Mini Sex Machine](https://www.wired.com/review/lovense-spinel/)
- - [Sources detail how Tiger Global fueled the COVID-era unicorn bubble that burst ahead of the AI boom; the firm recently shared its $12.7B 2021 fund is now up 16% &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/251218/p12#a251218p12)
- - [Filing: Sony and Tencent reach a &quot;confidential settlement&quot; over Tencent&#39;s Light of Motiram, a game that Sony alleged was a &quot;slavish clone&quot; of its Horizon series &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251218/p11#a251218p11)
- - [Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode](https://www.theverge.com/reviews/846094/kuxiu-s3-solid-state-power-bank-review)<!-- TECH:END -->
+ - [Sources detail how Tiger Global fueled the COVID-era unicorn bubble that burst ahead of the AI boom; the firm recently shared its $12.7B 2021 fund is now up 16% &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/251218/p12#a251218p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok CEO&amp;#8217;s memo tells employees it will be sold in January](https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close)
+ - [Mistral launches Mistral OCR 3, featuring improvements in processing forms, scanned documents, complex tables, and handwriting, priced at $2 per 1,000 pages &lpar;Mistral AI&rpar;](http://www.techmeme.com/251218/p50#a251218p50)
  - [Memo: the TikTok US deal is set to close on Jan. 22; terms include retraining the recommendation algorithm on US user data and Oracle overseeing data protection &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251218/p49#a251218p49)
  - [Internal memo: TikTok has signed a deal to sell its US unit; Oracle, Silver Lake, MGX will collectively own 45% of the US entity, and ByteDance will retain ~20% &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251218/p48#a251218p48)
- - [Threads wants to be the app you can’t wait to open in the morning](https://www.theverge.com/column/847806/head-of-threads-interview)
- - [Oh snap, I have a new favorite phone grip](https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip)
- - [Sources: OpenAI&#39;s new fundraising round could value it at as much as $830B; it aims to raise up to $100B and complete the round by the end of Q1 at the earliest &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251218/p47#a251218p47)<!-- TECH:END -->
+ - [Threads wants to be the app you can’t wait to open in the morning](https://www.theverge.com/column/847806/head-of-threads-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

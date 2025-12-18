@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 💣 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
- - 😝 [Mild shock](http://9gag.com/gag/a5QANwG)
- - 👉 [Me convincing myself to make a bad decision](http://9gag.com/gag/a879L8Q)<!-- MEMES:END -->
+ - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
+ - 💣 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 😝 [Before they wake up](http://9gag.com/gag/a6ZzdVA)
+ - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
 ---
 

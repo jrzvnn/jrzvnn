@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
- - 😝 [Business days](http://9gag.com/gag/ayNA5pb)
- - 💣 [Decided to become an artist](http://9gag.com/gag/awyDbRR)
- - 😝 [&#39;sup, human?](http://9gag.com/gag/aO8OyMD)
- - 👉 [Me convincing myself to make a bad decision](http://9gag.com/gag/a879L8Q)<!-- MEMES:END -->
+ - 😝 [Happy birthday](http://9gag.com/gag/agmby8n)
+ - 😝 [Show me what you got!](http://9gag.com/gag/aAy7YyR)
+ - 💣 [Epic transformation](http://9gag.com/gag/a2vVN9w)
+ - 😝 [You had none job.](http://9gag.com/gag/apRXo98)
+ - 👉 [Yep...She&#39;s real elf...](http://9gag.com/gag/abAoqVr)<!-- MEMES:END -->
 
 ---
 

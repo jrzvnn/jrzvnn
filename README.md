@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods Pro 3 are back down to $199 &lpar;$50 off&rpar; at Amazon](https://appleinsider.com/articles/25/12/18/airpods-pro-3-are-back-down-to-199-50-off-at-amazon?utm_source=rss)
+ - [Riot Games found a motherboard security flaw that helps PC cheaters](https://www.theverge.com/news/847539/riot-games-motherboard-security-flaw-pc-cheaters-anti-cheat)
+ - [Netflix hires ESPN anchor Elle Duncan as its first on-air host for live sports and cultural events; she has appeared on SportsCenter, College GameDay, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251218/p36#a251218p36)
  - [The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams](https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/)
- - [Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised a $100M Series D at a $1.5B valuation, up from $830M in March &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251218/p35#a251218p35)
- - [Anthropic launches Agent Skills, which let AI assistants perform specialized tasks using modular instructions, and says Microsoft, Cursor, and others use them &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/251218/p34#a251218p34)
- - [&#39;Physical&#39; creator Annie Weisman returns with Apple TV thriller &#39;Imperfect Women&#39;](https://appleinsider.com/articles/25/12/18/physical-creator-annie-weisman-returns-with-apple-tv-thriller-imperfect-women?utm_source=rss)
- - [Sources describe tensions between OpenAI&#39;s research and ChatGPT product groups, leading to the &quot;code red&quot;; OpenAI is set to beat its 2025 revenue goal of $13B &lpar;The Information&rpar;](http://www.techmeme.com/251218/p33#a251218p33)<!-- TECH:END -->
+ - [Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised a $100M Series D at a $1.5B valuation, up from $830M in March &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251218/p35#a251218p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

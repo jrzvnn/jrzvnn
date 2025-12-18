@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You had none job.](http://9gag.com/gag/apRXo98)
- - 😝 [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - 💣 [&#39;sup, human?](http://9gag.com/gag/aO8OyMD)
- - 😝 [Work smarter, not harder](http://9gag.com/gag/abAoy0E)
- - 👉 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)<!-- MEMES:END -->
+ - 😝 [Mother taking her baby girl for a stroll](http://9gag.com/gag/a6ZzmQm)
+ - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 💣 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
+ - 😝 [Me convincing myself to make a bad decision](http://9gag.com/gag/a879L8Q)
+ - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
 ---
 

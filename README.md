@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judge can&#39;t belive his eys](http://9gag.com/gag/aByM9M2)
  - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
+ - 😝 [Good job!](http://9gag.com/gag/aNDXmDK)
  - 💣 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
- - 😝 [Before they wake up](http://9gag.com/gag/a6ZzdVA)
+ - 😝 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
  - 👉 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
 
 ---

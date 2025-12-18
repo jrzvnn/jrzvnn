@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Pinduoduo and Temu owner PDD fires dozens following a fistfight between employees and Chinese officials probing fraudulent deliveries on its platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p8#a251218p8)
  - [Tim Sweeney says Fortnite will not return to iOS in Japan in 2025, as Apple is &quot;charging a competition-crushing 21% junk fee on third-party in-app payments&quot; &lpar;Tim Sweeney/@timsweeneyepic&rpar;](http://www.techmeme.com/251218/p7#a251218p7)
  - [In a letter, Rocket Internet minority shareholder Scherzer &amp; Co accuses the company of marking down startup valuations to buy out backers at &quot;bargain prices&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p6#a251218p6)
  - [Manus says it crossed $100M ARR eight months after launch and is growing at 20%+ MoM since Manus 1.5&#39;s release; its total revenue run rate is now over $125M &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/251218/p5#a251218p5)
- - [SoftBank Group Corp was among the Japanese tech stocks that fell on Dec. 18, as AI infrastructure spending worries on Wall Street crossed into the Asian markets &lpar;Lim Hui Jie/CNBC&rpar;](http://www.techmeme.com/251218/p4#a251218p4)
- - [Fermi CEO Toby Neugebauer says Amazon canceled a $150M advance for a Texas AI data center campus; FRMI fell 34% on Dec. 12 after saying a tenant had canceled &lpar;Dakin Campbell/Business Insider&rpar;](http://www.techmeme.com/251218/p3#a251218p3)<!-- TECH:END -->
+ - [SoftBank Group Corp was among the Japanese tech stocks that fell on Dec. 18, as AI infrastructure spending worries on Wall Street crossed into the Asian markets &lpar;Lim Hui Jie/CNBC&rpar;](http://www.techmeme.com/251218/p4#a251218p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

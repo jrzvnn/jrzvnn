@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twenty-four companies, including Microsoft, Google, Nvidia, OpenAI, and AWS, join the US Genesis Mission to boost the use of AI for scientific discovery &lpar;Courtney Subramanian/Bloomberg&rpar;](http://www.techmeme.com/251218/p37#a251218p37)
  - [AirPods Pro 3 are back down to $199 &lpar;$50 off&rpar; at Amazon](https://appleinsider.com/articles/25/12/18/airpods-pro-3-are-back-down-to-199-50-off-at-amazon?utm_source=rss)
- - [Riot Games found a motherboard security flaw that helps PC cheaters](https://www.theverge.com/news/847539/riot-games-motherboard-security-flaw-pc-cheaters-anti-cheat)
  - [Netflix hires ESPN anchor Elle Duncan as its first on-air host for live sports and cultural events; she has appeared on SportsCenter, College GameDay, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251218/p36#a251218p36)
  - [The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams](https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/)
- - [Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised a $100M Series D at a $1.5B valuation, up from $830M in March &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251218/p35#a251218p35)<!-- TECH:END -->
+ - [Amazon Introduces Alexa-Powered Ring Doorbell With Personalized Visitor Greetings](https://www.cnet.com/news/amazon-introduces-alexa-powered-ring-doorbell-with-personalized-visitor-greetings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

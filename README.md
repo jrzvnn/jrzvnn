@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Relatable](http://9gag.com/gag/aAy7Rbg)
- - 😝 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)
- - 💣 [Happy birthday](http://9gag.com/gag/agmby8n)
- - 😝 [Javier](http://9gag.com/gag/aQzKqv7)
- - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
+ - 😝 [Tinkerbell actress at Disneyland](http://9gag.com/gag/aqyO94Z)
+ - 😝 [Judge can&#39;t belive his eys](http://9gag.com/gag/aByM9M2)
+ - 💣 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 😝 [Playing with a blue-ringed octopus is a death wish](http://9gag.com/gag/aByMREN)
+ - 👉 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)<!-- MEMES:END -->
 
 ---
 

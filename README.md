@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode](https://www.theverge.com/reviews/846094/kuxiu-s3-solid-state-power-bank-review)
+ - [Tokyo-based Resonac, a crucial cutting-edge chip chemicals supplier whose shares are up 40%+ YTD, says it has bolstered China production capacity to meet demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p10#a251218p10)
+ - [Oilfield service companies are moving into the data center business by supplying power and cooling tech as demand from traditional drilling customers weakens &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/251218/p9#a251218p9)
  - [Cowboy saddles up with a new owner](https://www.theverge.com/news/847097/cowboy-acquired-by-rebirth-recycles-bankruptcy)
- - [Sources: Pinduoduo and Temu owner PDD fires dozens following a fistfight between employees and Chinese officials probing fraudulent deliveries on its platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p8#a251218p8)
- - [Tim Sweeney says Fortnite will not return to iOS in Japan in 2025, as Apple is &quot;charging a competition-crushing 21% junk fee on third-party in-app payments&quot; &lpar;Tim Sweeney/@timsweeneyepic&rpar;](http://www.techmeme.com/251218/p7#a251218p7)
- - [In a letter, Rocket Internet minority shareholder Scherzer &amp; Co accuses the company of marking down startup valuations to buy out backers at &quot;bargain prices&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p6#a251218p6)
- - [Manus says it crossed $100M ARR eight months after launch and is growing at 20%+ MoM since Manus 1.5&#39;s release; its total revenue run rate is now over $125M &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/251218/p5#a251218p5)<!-- TECH:END -->
+ - [Sources: Pinduoduo and Temu owner PDD fires dozens following a fistfight between employees and Chinese officials probing fraudulent deliveries on its platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p8#a251218p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

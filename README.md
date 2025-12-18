@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Javier](http://9gag.com/gag/aQzKqv7)
- - 😝 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
- - 💣 [Playing with a blue-ringed octopus is a death wish](http://9gag.com/gag/aByMREN)
- - 😝 [And happy endings were $15 a pop. Now they\u2019re like $60](http://9gag.com/gag/aoy6Zmx)
- - 👉 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)<!-- MEMES:END -->
+ - 😝 [Relatable](http://9gag.com/gag/aAy7Rbg)
+ - 😝 [Happy birthday](http://9gag.com/gag/agmby8n)
+ - 💣 [Javier](http://9gag.com/gag/aQzKqv7)
+ - 😝 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)
+ - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
 
 ---
 

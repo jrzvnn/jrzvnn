@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam’s annual winter sale is here — these are the best games to get](https://www.theverge.com/gadgets/846242/best-steam-winter-sale-game-deals)
- - [Sources: Meta is developing a new image and video-focused AI model codenamed Mango, expected to be released in H1 2026 along with its new LLM dubbed Avocado &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p46#a251218p46)
- - [OpenAI and Anthropic will start predicting when users are underage](https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude)
- - [France charges a crew member of an Italian passenger ferry for allegedly infecting the ship with a remote access tool on behalf of a foreign power &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251218/p45#a251218p45)
- - [Instagram wants to limit hashtag spam](https://www.theverge.com/news/847739/instagram-hashtag-spam-limit)<!-- TECH:END -->
+ - [Internal memo: TikTok has signed a deal to sell its US unit; Oracle, Silver Lake, MGX will collectively own 45% of the US entity, and ByteDance will retain ~20% &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251218/p48#a251218p48)
+ - [Threads wants to be the app you can’t wait to open in the morning](https://www.theverge.com/column/847806/head-of-threads-interview)
+ - [Oh snap, I have a new favorite phone grip](https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip)
+ - [Sources: OpenAI&#39;s new fundraising round could value it at as much as $830B; it aims to raise up to $100B and complete the round by the end of Q1 at the earliest &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251218/p47#a251218p47)
+ - [Terrifying New Photos Emerge From the Jeffrey Epstein Estate](https://www.wired.com/story/house-oversight-jeffrey-epstein-photos-december-18-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

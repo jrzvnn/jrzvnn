@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use ChatGPT with Apple Music when search comes up short](https://appleinsider.com/inside/apple-music/tips/how-to-use-chatgpt-with-apple-music-when-search-comes-up-short?utm_source=rss)
+ - [Endra, whose AI tools automate mechanical, electrical, and plumbing design for commercial buildings, raised a $20M seed led by Notion &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251218/p30#a251218p30)
  - [Microsoft&amp;#8217;s holiday Copilot ad is wrapped in empty promises](https://www.theverge.com/report/847056/microsoft-copilot-ai-vision-pc-assistant-christmas-holiday-ad)
  - [Luma AI launches Ray3 Modify, which allows users to modify existing footage by providing character reference images; users can also define start and end frames &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251218/p29#a251218p29)
- - [Micron says memory shortage will ‘persist’ beyond 2026](https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings)
- - [The Best Linen Sheets for Cool and Comfy Sleeping &lpar;2025&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
- - [‘All chaos and panic’: Nilay answers your burning Decoder questions](https://www.theverge.com/podcast/846750/decoder-mailbag-qa-nilay-patel-interview-2025)<!-- TECH:END -->
+ - [Micron says memory shortage will ‘persist’ beyond 2026](https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

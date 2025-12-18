@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Honda plans to halt production in Japan and China from December 29 to January 6, showing the ongoing fallout of the global chip shortage and Nexperia takeover &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p17#a251218p17)
+ - [new Apple iOS update is wrecking my iPhone](https://www.wired.com/story/phone-updates-used-to-be-annoying-the-latest-ios-is-awful/)
  - [Sources: Yann LeCun is in early talks to raise €500M for his startup at a ~€3B valuation, and plans to name Alexandre LeBrun as CEO, ahead of a January launch &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p16#a251218p16)
  - [Pumped Hydro Energy Storage Is Having a Renaissance](https://www.wired.com/story/pumped-hydro-energy-storage-is-having-a-renaissance/)
- - [FCC Chairman Brendan Carr tells a Senate committee the FCC &quot;is not an independent agency&quot;; the agency removed &quot;independent agency&quot; from its site as he testified &lpar;Axios&rpar;](http://www.techmeme.com/251218/p15#a251218p15)
- - [An in-depth look at a recent research paper that offered a roadmap to the viability of 3D HBM-on-GPU integration for improved AI performance and utilization &lpar;More Than Moore&rpar;](http://www.techmeme.com/251218/p14#a251218p14)
- - [Rome-based Exein, which offers cybersecurity tools for protecting connected devices including cars and home routers, raised €100M led by Blue Cloud Ventures &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251218/p13#a251218p13)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 18, #921](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-18-921/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

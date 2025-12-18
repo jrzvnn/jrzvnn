@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Relatable](http://9gag.com/gag/aAy7Rbg)
+ - 😝 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)
+ - 💣 [Javier](http://9gag.com/gag/aQzKqv7)
  - 😝 [Happy birthday](http://9gag.com/gag/agmby8n)
- - 😝 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
- - 💣 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
- - 😝 [Playing with a blue-ringed octopus is a death wish](http://9gag.com/gag/aByMREN)
- - 👉 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)<!-- MEMES:END -->
+ - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
 
 ---
 

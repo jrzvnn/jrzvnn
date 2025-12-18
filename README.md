@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram wants to limit hashtag spam](https://www.theverge.com/news/847739/instagram-hashtag-spam-limit)
  - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
  - [YouTube terminates Screen Culture and KH Studio, two large channels that used AI to create fake movie trailers; the platform earlier suspended the channels&#39; ads &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/251218/p44#a251218p44)
  - [LG forced a Copilot web app onto its TVs but will let you delete it](https://www.theverge.com/news/847685/lg-copilot-web-app-delete)
- - [Google&amp;#8217;s Gemini app can check videos to see if they were made with Google AI](https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos)
- - [In an experiment, Claude ran a vending machine in the WSJ newsroom and lost $1,000+ after it dropped prices to zero, gave away a free PlayStation, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p43#a251218p43)<!-- TECH:END -->
+ - [Google&amp;#8217;s Gemini app can check videos to see if they were made with Google AI](https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

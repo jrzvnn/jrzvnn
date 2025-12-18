@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wall Street clearinghouse DTCC selects the Canton Network blockchain as a real-world asset tokenization partner after receiving a No-Action Letter from the SEC &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/251218/p2#a251218p2)
- - [India-listed RRP Semiconductor&#39;s stock surged 55,000%+ in the 20 months through Dec. 17, despite negative revenue; source: India&#39;s SEBI is examining the surge &lpar;Chiranjivi Chakraborty/Bloomberg&rpar;](http://www.techmeme.com/251218/p1#a251218p1)
- - [Tebra, which offers practice management tools for private healthcare providers, raised $250M led by Hildred, mostly in equity, to accelerate its AI capabilities &lpar;FinSMEs&rpar;](http://www.techmeme.com/251217/p54#a251217p54)
- - [Sources: General Intuition, which trains AI agents in spatial reasoning, is in late-stage talks to raise several hundred million dollars at a $2B+ valuation &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251217/p53#a251217p53)
- - [The ChatGPT app store is here](https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt)<!-- TECH:END -->
+ - [Tim Sweeney says Fortnite will not return to iOS in Japan in 2025, as Apple is &quot;charging a competition-crushing 21% junk fee on third-party in-app payments&quot; &lpar;Tim Sweeney/@timsweeneyepic&rpar;](http://www.techmeme.com/251218/p7#a251218p7)
+ - [In a letter, Rocket Internet minority shareholder Scherzer &amp; Co accuses the company of marking down startup valuations to buy out backers at &quot;bargain prices&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p6#a251218p6)
+ - [Manus says it crossed $100M ARR eight months after launch and is growing at 20%+ MoM since Manus 1.5&#39;s release; its total revenue run rate is now over $125M &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/251218/p5#a251218p5)
+ - [SoftBank Group Corp was among the Japanese tech stocks that fell on Dec. 18, as AI infrastructure spending worries on Wall Street crossed into the Asian markets &lpar;Lim Hui Jie/CNBC&rpar;](http://www.techmeme.com/251218/p4#a251218p4)
+ - [Fermi CEO Toby Neugebauer says Amazon canceled a $150M advance for a Texas AI data center campus; FRMI fell 34% on Dec. 12 after saying a tenant had canceled &lpar;Dakin Campbell/Business Insider&rpar;](http://www.techmeme.com/251218/p3#a251218p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

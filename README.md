@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
- - 😝 [Business days](http://9gag.com/gag/ayNA5pb)
- - 💣 [Mother taking her baby girl for a stroll](http://9gag.com/gag/a6ZzmQm)
- - 😝 [Before they wake up](http://9gag.com/gag/a6ZzdVA)
- - 👉 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
+ - 😝 [Epic transformation](http://9gag.com/gag/a2vVN9w)
+ - 😝 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)
+ - 💣 [`BuT tHeN yOu HaVe To PaY fOr SoMeOnE eLsE&#39;s KiD`](http://9gag.com/gag/aW4A03Z)
+ - 😝 [Work smarter, not harder](http://9gag.com/gag/abAoy0E)
+ - 👉 [Yep...She&#39;s real elf...](http://9gag.com/gag/abAoqVr)<!-- MEMES:END -->
 
 ---
 

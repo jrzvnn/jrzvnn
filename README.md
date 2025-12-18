@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 💣 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
- - 😝 [Before they wake up](http://9gag.com/gag/a6ZzdVA)
- - 👉 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)<!-- MEMES:END -->
+ - 😝 [Why Asians have to make everything about Kung Fu](http://9gag.com/gag/aYQBNm0)
+ - 😝 [Happy birthday](http://9gag.com/gag/agmby8n)
+ - 💣 [Epic transformation](http://9gag.com/gag/a2vVN9w)
+ - 😝 [Show me what you got!](http://9gag.com/gag/aAy7YyR)
+ - 👉 [You had none job.](http://9gag.com/gag/apRXo98)<!-- MEMES:END -->
 
 ---
 

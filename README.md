@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Chrome Extension Turns LinkedIn Posts About AI Into Facts About Allen Iverson](https://www.wired.com/story/chrome-extension-linkedin-allen-iverson/)
  - [Meta&#39;s head of Threads Connor Hayes says that fediverse compatibility isn&#39;t a priority for its current roadmap, but it is something that it&#39;s &quot;maintaining&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251219/p3#a251219p3)
+ - [Best Places to Buy Contacts Online for 2025, According to CNET Staff](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
  - [A Starlink satellite seems to have exploded](https://www.theverge.com/news/847891/a-starlink-satellite-seems-to-have-exploded)
- - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)
- - [Ring Promo Codes and Discounts: Up to 50% Off](https://www.wired.com/story/ring-promo-code/)
- - [Save With a 15% Off Dyson Promo Code](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

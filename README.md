@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT will now let you pick how nice it is](https://www.theverge.com/news/848435/openai-chatgpt-characteristics-update-warmth-enthusiasm)
+ - [The DOJ&#39;s Jeffrey Epstein Files Are Here](https://www.wired.com/story/the-dojs-jeffrey-epstein-files-are-here/)
  - [AI robotics startup Physical Intelligence claims vision-language-action models learn to align human videos and robot data as pre-training is scaled up &lpar;Physical Intelligence&rpar;](http://www.techmeme.com/251219/p23#a251219p23)
  - [Google sues web scraper for sucking up search results ‘at an astonishing scale’](https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi)
- - [California reaches a $50M settlement with Meta to resolve claims that Facebook users were misled about their ability to limit who could see personal details &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/251219/p22#a251219p22)
- - [Google sues data scraping company SerpApi, alleging it used millions of fake search requests to access copyrighted content and sold it to third parties &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251219/p21#a251219p21)
- - [Australians will be soon able to use Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)<!-- TECH:END -->
+ - [California reaches a $50M settlement with Meta to resolve claims that Facebook users were misled about their ability to limit who could see personal details &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/251219/p22#a251219p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

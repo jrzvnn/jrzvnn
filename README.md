@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google sues data scraping company SerpApi for allegedly using hundreds of millions of fake search requests to access copyrighted material from Google products &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251219/p21#a251219p21)
+ - [Australians will be soon able to use Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)
+ - [iPhone 18 Pro rumors: Under-display Face ID, variable aperture cameras, more](https://appleinsider.com/articles/25/12/19/iphone-18-pro-rumors-under-display-face-id-variable-aperture-cameras-more?utm_source=rss)
  - [Source: Sam Altman&#39;s Merge Labs, which seeks to read brain activity using ultrasound, is being spun out of LA-based nonprofit Forest Neurotech &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/251219/p20#a251219p20)
- - [Scammers in China Are Using AI-Generated Images to Get Refunds](https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/)
- - [Sam Altman’s New Brain Venture, Merge Labs, Will Spin Out of a Nonprofit](https://www.wired.com/story/sam-altman-brain-computer-interface-merge-labs-spin-out-nonprofit-forest-neurotech/)
- - [Neural Concept, whose 3D product design software uses deep learning to help cut development times, raised a $100M Series C, bringing its total funding to $130M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251219/p19#a251219p19)
- - [Down to the Wire? We Found the Best Gifts on Amazon That&#39;ll Still Get There in Time](https://www.cnet.com/tech/best-gifts-available-on-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scammers in China Are Using AI-Generated Images to Get Refunds](https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

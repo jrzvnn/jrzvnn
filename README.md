@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
- - 💣 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
- - 😝 [Very important](http://9gag.com/gag/azxzEDm)
- - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
+ - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
+ - 😝 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 💣 [Online gaming addict, finally checked out of a hotel in China after a two-year-long stay](http://9gag.com/gag/azxzEyp)
+ - 😝 [Found a nice stick on my way to get groceries](http://9gag.com/gag/an73Kw0)
+ - 👉 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)<!-- MEMES:END -->
 
 ---
 

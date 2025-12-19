@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California reaches a $50M settlement with Meta to resolve claims that Facebook users were misled about their ability to limit who could see personal details &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/251219/p22#a251219p22)
  - [Google sues data scraping company SerpApi for allegedly using hundreds of millions of fake search requests to access copyrighted material from Google products &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251219/p21#a251219p21)
  - [Australians will be soon able to use Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)
  - [iPhone 18 Pro rumors: Under-display Face ID, variable aperture cameras, more](https://appleinsider.com/articles/25/12/19/iphone-18-pro-rumors-under-display-face-id-variable-aperture-cameras-more?utm_source=rss)
- - [Source: Sam Altman&#39;s Merge Labs, which seeks to read brain activity using ultrasound, is being spun out of LA-based nonprofit Forest Neurotech &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/251219/p20#a251219p20)
- - [Scammers in China Are Using AI-Generated Images to Get Refunds](https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/)<!-- TECH:END -->
+ - [Source: Sam Altman&#39;s Merge Labs, which seeks to read brain activity using ultrasound, is being spun out of LA-based nonprofit Forest Neurotech &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/251219/p20#a251219p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

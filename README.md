@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Work smarter, not harder](http://9gag.com/gag/abAoy0E)
- - 😝 [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - 💣 [I found it, S7 E8](http://9gag.com/gag/avyVZNZ)
- - 😝 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)
- - 👉 [Yep...She&#39;s real elf...](http://9gag.com/gag/abAoqVr)<!-- MEMES:END -->
+ - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
+ - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 💣 [Testing romance novels](http://9gag.com/gag/a879Y8e)
+ - 😝 [Before they wake up](http://9gag.com/gag/a6ZzdVA)
+ - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix acquires avatar creation platform Ready Player Me to let its subscribers carry their personas and fandoms across games; the startup raised $72M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251219/p18#a251219p18)
  - [Australians will be soon able to use their Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)
  - [The Best Bluetooth Speaker Is $50 off Right in Time for Christmas](https://www.wired.com/story/jbl-flip-7-deal-december-2025/)
  - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [Microsoft Office 2024 Home &amp; Business for Mac or PC plunges to $99.97](https://appleinsider.com/articles/25/12/19/microsoft-office-2024-home-business-for-mac-or-pc-plunges-to-9997?utm_source=rss)
- - [The RAM shortage is here to stay, raising prices on PCs and phones](https://www.theverge.com/news/848199/ram-shortage-pc-phone-price-increases)<!-- TECH:END -->
+ - [Microsoft Office 2024 Home &amp; Business for Mac or PC plunges to $99.97](https://appleinsider.com/articles/25/12/19/microsoft-office-2024-home-business-for-mac-or-pc-plunges-to-9997?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

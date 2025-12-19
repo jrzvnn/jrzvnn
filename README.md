@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You had none job.](http://9gag.com/gag/apRXo98)
+ - 😝 [When you need a boost to regain the X-Mas joy](http://9gag.com/gag/a1mnZBG)
  - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
  - 💣 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
  - 😝 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)

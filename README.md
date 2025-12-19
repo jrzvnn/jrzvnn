@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Business days](http://9gag.com/gag/ayNA5pb)
  - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 💣 [Ooops](http://9gag.com/gag/aPA04GB)
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
+ - 😝 [Yep...She&#39;s real elf...](http://9gag.com/gag/abAoqVr)
+ - 💣 [&#39;sup, human?](http://9gag.com/gag/aO8OyMD)
+ - 😝 [Old cartoons](http://9gag.com/gag/agmbvAw)
+ - 👉 [My dude didn&#39;t hold back](http://9gag.com/gag/ary0eVy)<!-- MEMES:END -->
 
 ---
 

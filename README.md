@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I dio miss the old days](http://9gag.com/gag/a0eG9gq)
  - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 💣 [Business days](http://9gag.com/gag/ayNA5pb)
- - 😝 [Look at Joe Pesci grow](http://9gag.com/gag/ae9E05b)
- - 👉 [Mother taking her baby girl for a stroll](http://9gag.com/gag/a6ZzmQm)<!-- MEMES:END -->
+ - 💣 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 😝 [So... Epstein files tomorrow?](http://9gag.com/gag/an73Kj0)
+ - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
 
 ---
 

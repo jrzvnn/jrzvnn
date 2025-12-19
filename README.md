@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six or seven iPhones a year, new iMac Pro, and low-cost MacBooks on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/19/six-or-seven-iphones-a-year-new-imac-pro-and-low-cost-macbooks-on-the-appleinsider-podcast?utm_source=rss)
- - [Sources: China is retrofitting older models of ASML&#39;s DUV machines to produce advanced smartphone and AI chips, exposing cracks in US-led export controls &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/251219/p9#a251219p9)
- - [DraftKings launches DraftKings Predictions, a new app that lets customers in 38 states trade contracts on sports and financial events through prediction markets &lpar;Ira Boudway/Bloomberg&rpar;](http://www.techmeme.com/251219/p8#a251219p8)
- - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [Phones were fashionable again in 2025](https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion)<!-- TECH:END -->
+ - [Brendan Carr is a dummy](https://www.theverge.com/podcast/848012/brendan-carr-fcc-dummy-free-speech-vergecast)
+ - [Google Cloud and Palo Alto Networks strike a deal that a source says is Google Cloud&#39;s largest security services deal &quot;approaching $10B&quot; over several years &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/251219/p12#a251219p12)
+ - [Memo: TikTok CEO Shou Zi Chew says ByteDance&#39;s US entities will retain direct control over core US revenue drivers, including ecommerce, ads, and marketing &lpar;Financial Times&rpar;](http://www.techmeme.com/251219/p11#a251219p11)
+ - [The Best Cookbooks of 2025: Soju Party, Good Things, Salsa Daddy, Linger, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2025/)
+ - [Sources: Google has formed a new executive council to allocate computing capacity given a critical shortage; members include Thomas Kurian and Demis Hassabis &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/251219/p10#a251219p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

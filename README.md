@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus ProArt PA32QCV Display review: Big screen for big creative work](https://appleinsider.com/articles/25/12/19/asus-proart-pa32qcv-display-review-big-screen-for-big-creative-work?utm_source=rss)
- - [Court will reconsider App Store class action case worth billions](https://appleinsider.com/articles/25/12/19/court-will-reconsider-app-store-class-action-case-worth-billions?utm_source=rss)
- - [The 8 Best WIRED-Tested Handheld Vacuums &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-handheld-vacuums/)
- - [Sources: The Chan Zuckerberg Initiative cuts ties with FWD.us, an immigration advocacy group founded by Mark Zuckerberg, eliminating FWD.us&#39; main funding source &lpar;Bloomberg&rpar;](http://www.techmeme.com/251219/p6#a251219p6)
- - [How to Quickly Find Out What&#39;s Streaming on Multiple Services at Once](https://www.wired.com/story/how-to-find-out-whats-streaming-and-where/)<!-- TECH:END -->
+ - [Communities are rising up against data centers — and winning](https://www.theverge.com/science/841169/ai-data-center-opposition)
+ - [There’s finally a little bit of sunshine in Pluribus](https://www.theverge.com/streaming/847287/pluribus-episode-8-recap-discussion-apple-tv)
+ - [Denmark says Russia was behind &quot;destructive and disruptive&quot; cyberattacks on a water utility in 2024 and DDoS attacks in the lead-up to local November elections &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/251219/p7#a251219p7)
+ - [Semi-solid state MagSafe power banks arrive from the founder of Hyper](https://www.theverge.com/news/847925/bmx-hyper-semi-solid-state-power-banks)
+ - [The 14 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

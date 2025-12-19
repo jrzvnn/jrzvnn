@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple&#39;s 15-inch MacBook Air M4 for just $949 with delivery by Christmas](https://appleinsider.com/articles/25/12/19/get-apples-15-inch-macbook-air-m4-for-just-949-with-delivery-by-christmas?utm_source=rss)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [A macOS Tahoe bug is causing some Apple Studio Displays to flicker](https://appleinsider.com/articles/25/12/19/a-macos-tahoe-bug-is-causing-some-apple-studio-displays-to-flicker?utm_source=rss)
- - [Cursor-developer Anysphere acquires code review startup Graphite and says Graphite will continue operating as an independent product &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/251219/p15#a251219p15)
- - [Sources: ByteDance is on track for ~$50B profit in 2025 after generating a ~$40B net income in the first three quarters, surpassing its internal target for 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251219/p14#a251219p14)<!-- TECH:END -->
+ - [Who owns Trump Mobile?](https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing)
+ - [The Fujifilm Instax Mini 12 instant camera is a great gift at $74](https://www.theverge.com/gadgets/847732/fujifilm-instax-mini-12-camera-8bitdo-pro-3-controller-deal-sale)
+ - [The TikTok deal is the worst of all possible outcomes, shifting ownership of TikTok to Trump&#39;s allies, while maintaining the supposed problematic links to China &lpar;Karl Bode/Techdirt&rpar;](http://www.techmeme.com/251219/p16#a251219p16)
+ - [6 Scary Predictions for AI in 2026](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/)
+ - [Get Apple&#39;s 15-inch MacBook Air M4 for just $949 with delivery by Christmas](https://appleinsider.com/articles/25/12/19/get-apples-15-inch-macbook-air-m4-for-just-949-with-delivery-by-christmas?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

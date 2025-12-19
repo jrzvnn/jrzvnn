@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That&#39;s why it&#39;s so good. It&#39;s from 15 years ago.](http://9gag.com/gag/aByMQpD)
  - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
- - 😝 [Pls never change](http://9gag.com/gag/aPA0yDw)
  - 💣 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
  - 😝 [Very important](http://9gag.com/gag/azxzEDm)
  - 👉 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)<!-- MEMES:END -->

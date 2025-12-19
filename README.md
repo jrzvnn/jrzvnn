@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The RAM shortage is here to stay, raising prices on PCs and phones](https://www.theverge.com/news/848199/ram-shortage-pc-phone-price-increases)
+ - [Bose’s first-gen QC Ultra headphones just hit their lowest price to date](https://www.theverge.com/gadgets/846881/bose-quietcomfort-ultra-headphones-first-gen-deal-sale-2025)
+ - [A Paris court rejects a French government request to suspend Shein in the country after finding illegal weapons and child-like sex dolls for sale on the site &lpar;Associated Press&rpar;](http://www.techmeme.com/251219/p17#a251219p17)
  - [Who owns Trump Mobile?](https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing)
- - [The Fujifilm Instax Mini 12 instant camera is a great gift at $74](https://www.theverge.com/gadgets/847732/fujifilm-instax-mini-12-camera-8bitdo-pro-3-controller-deal-sale)
- - [The TikTok deal is the worst of all possible outcomes, shifting ownership of TikTok to Trump&#39;s allies, while maintaining the supposed problematic links to China &lpar;Karl Bode/Techdirt&rpar;](http://www.techmeme.com/251219/p16#a251219p16)
- - [6 Scary Predictions for AI in 2026](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/)
- - [Get Apple&#39;s 15-inch MacBook Air M4 for just $949 with delivery by Christmas](https://appleinsider.com/articles/25/12/19/get-apples-15-inch-macbook-air-m4-for-just-949-with-delivery-by-christmas?utm_source=rss)<!-- TECH:END -->
+ - [The Fujifilm Instax Mini 12 instant camera is a great gift at $74](https://www.theverge.com/gadgets/847732/fujifilm-instax-mini-12-camera-8bitdo-pro-3-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

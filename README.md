@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Business days](http://9gag.com/gag/ayNA5pb)
  - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 😝 [Ooops](http://9gag.com/gag/aPA04GB)
- - 💣 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
- - 😝 [...](http://9gag.com/gag/aD2L37K)
+ - 💣 [Ooops](http://9gag.com/gag/aPA04GB)
+ - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
  - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
 ---

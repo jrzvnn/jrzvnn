@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That girl is more composed than any adult I know](http://9gag.com/gag/aXPzpMV)
- - 😝 [Old cartoons](http://9gag.com/gag/agmbvAw)
- - 💣 [A very tired owl at sea, comes to rest](http://9gag.com/gag/a2vVYOD)
- - 😝 [Learn this and do it with your wife on her most stressful days, and your days will be less stressful.](http://9gag.com/gag/aKGyPEj)
- - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
+ - 😝 [You had none job.](http://9gag.com/gag/apRXo98)
+ - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
+ - 💣 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 😝 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
+ - 👉 [Online gaming addict, finally checked out of a hotel in China after a two-year-long stay](http://9gag.com/gag/azxzEyp)<!-- MEMES:END -->
 
 ---
 

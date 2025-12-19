@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The RAM shortage is here to stay, raising prices on PCs and phones](https://www.theverge.com/news/848199/ram-shortage-pc-phone-price-increases)
- - [Bose’s first-gen QC Ultra headphones just hit their lowest price to date](https://www.theverge.com/gadgets/846881/bose-quietcomfort-ultra-headphones-first-gen-deal-sale-2025)
- - [A Paris court rejects a French government request to suspend Shein in the country after finding illegal weapons and child-like sex dolls for sale on the site &lpar;Associated Press&rpar;](http://www.techmeme.com/251219/p17#a251219p17)
- - [Who owns Trump Mobile?](https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing)
- - [The Fujifilm Instax Mini 12 instant camera is a great gift at $74](https://www.theverge.com/gadgets/847732/fujifilm-instax-mini-12-camera-8bitdo-pro-3-controller-deal-sale)<!-- TECH:END -->
+ - [Australians will be soon able to use their Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)
+ - [The Best Bluetooth Speaker Is $50 off Right in Time for Christmas](https://www.wired.com/story/jbl-flip-7-deal-december-2025/)
+ - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
+ - [Microsoft Office 2024 Home &amp; Business for Mac or PC plunges to $99.97](https://appleinsider.com/articles/25/12/19/microsoft-office-2024-home-business-for-mac-or-pc-plunges-to-9997?utm_source=rss)
+ - [The RAM shortage is here to stay, raising prices on PCs and phones](https://www.theverge.com/news/848199/ram-shortage-pc-phone-price-increases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

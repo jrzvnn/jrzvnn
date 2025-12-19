@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Before they wake up](http://9gag.com/gag/a6ZzdVA)
- - 😝 [Learn this and do it with your wife on her most stressful days, and your days will be less stressful.](http://9gag.com/gag/aKGyPEj)
- - 💣 [Reality!](http://9gag.com/gag/aRBGPGj)
- - 😝 [Good memories](http://9gag.com/gag/a4P8LnQ)
- - 👉 [Very important](http://9gag.com/gag/azxzEDm)<!-- MEMES:END -->
+ - 😝 [Ooops](http://9gag.com/gag/aPA04GB)
+ - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
+ - 💣 [Pls never change](http://9gag.com/gag/aPA0yDw)
+ - 😝 [Nice](http://9gag.com/gag/avyVLzW)
+ - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
 ---
 

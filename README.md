@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 😝 [Yep...She&#39;s real elf...](http://9gag.com/gag/abAoqVr)
- - 💣 [&#39;sup, human?](http://9gag.com/gag/aO8OyMD)
- - 😝 [Old cartoons](http://9gag.com/gag/agmbvAw)
- - 👉 [My dude didn&#39;t hold back](http://9gag.com/gag/ary0eVy)<!-- MEMES:END -->
+ - 😝 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 💣 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
+ - 😝 [Very important](http://9gag.com/gag/azxzEDm)
+ - 👉 [Human garbage](http://9gag.com/gag/apRXod5)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A macOS Tahoe bug is causing some Apple Studio Displays to flicker](https://appleinsider.com/articles/25/12/19/a-macos-tahoe-bug-is-causing-some-apple-studio-displays-to-flicker?utm_source=rss)
+ - [Cursor-developer Anysphere acquires code review startup Graphite and says Graphite will continue operating as an independent product &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/251219/p15#a251219p15)
+ - [Sources: ByteDance is on track for ~$50B profit in 2025 after generating a ~$40B net income in the first three quarters, surpassing its internal target for 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251219/p14#a251219p14)
  - [Europol imagines robot crime waves in 2035](https://www.theverge.com/report/847956/robot-crime-wave-europe-police-prediction)
- - [Boston-based Neurable, which builds an OS for brain-computer interfaces, raised a $35M Series A led by Spectrum Moonshot Fund, bringing its total raised to $65M &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/251219/p13#a251219p13)
- - [The wellness wild west is back on its bullshit with unapproved weight loss drugs](https://www.theverge.com/column/846406/optimizer-wellness-wild-west-glp-3-retatrutide)
- - [Brendan Carr is a dummy](https://www.theverge.com/podcast/848012/brendan-carr-fcc-dummy-free-speech-vergecast)
- - [Google Cloud and Palo Alto Networks strike a deal that a source says is Google Cloud&#39;s largest security services deal &quot;approaching $10B&quot; over several years &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/251219/p12#a251219p12)<!-- TECH:END -->
+ - [Boston-based Neurable, which builds an OS for brain-computer interfaces, raised a $35M Series A led by Spectrum Moonshot Fund, bringing its total raised to $65M &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/251219/p13#a251219p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

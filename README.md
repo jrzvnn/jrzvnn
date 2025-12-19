@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Work smarter, not harder](http://9gag.com/gag/abAoy0E)
  - 😝 [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - 😝 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)
  - 💣 [I found it, S7 E8](http://9gag.com/gag/avyVZNZ)
- - 😝 [Most of youtube videos these days](http://9gag.com/gag/aE0b1qe)
+ - 😝 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)
  - 👉 [Yep...She&#39;s real elf...](http://9gag.com/gag/abAoqVr)<!-- MEMES:END -->
 
 ---

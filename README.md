@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT will now let you pick how nice it is](https://www.theverge.com/news/848435/openai-chatgpt-characteristics-update-warmth-enthusiasm)
+ - [2025 LLM Year in Review: shift toward RLVR, Claude Code emerged as the first convincing example of an LLM agent, Nano Banana was paradigm shifting, and more &lpar;Andrej Karpathy/karpathy&rpar;](http://www.techmeme.com/251219/p24#a251219p24)
  - [The DOJ&#39;s Jeffrey Epstein Files Are Here](https://www.wired.com/story/the-dojs-jeffrey-epstein-files-are-here/)
- - [AI robotics startup Physical Intelligence claims vision-language-action models learn to align human videos and robot data as pre-training is scaled up &lpar;Physical Intelligence&rpar;](http://www.techmeme.com/251219/p23#a251219p23)
+ - [AI robotics startup Physical Intelligence says it saw improvements in its vision-language-action model by including human video data in the fine-tuning process &lpar;Physical Intelligence&rpar;](http://www.techmeme.com/251219/p23#a251219p23)
  - [Google sues web scraper for sucking up search results ‘at an astonishing scale’](https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi)
  - [California reaches a $50M settlement with Meta to resolve claims that Facebook users were misled about their ability to limit who could see personal details &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/251219/p22#a251219p22)<!-- TECH:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Avatar Game Is So Good, They Don’t Need to Make the Movies Anymore](https://www.wired.com/story/the-avatar-video-game-is-so-good-they-dont-need-to-make-the-movies/)
  - [From Queer-Baiting to Neurodivergence: ‘Heated Rivalry’s Author Tackles Fan Theories and Controversy](https://www.wired.com/story/heated-rivalry-author-rachel-reid-interview/)
  - [Coinbase sues Connecticut, Illinois and Michigan over state attempts to regulate prediction markets, arguing that they fall under the jurisdiction of the CFTC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251219/p5#a251219p5)
  - [Sources: UK officials believe China was behind the October cyber attack on the UK&#39;s Foreign Office, which aimed to access tens of thousands of sensitive files &lpar;Financial Times&rpar;](http://www.techmeme.com/251219/p4#a251219p4)
- - [Americans Are Increasingly Convinced That Aliens Have Visited Earth](https://www.wired.com/story/americans-are-increasingly-convinced-that-aliens-have-visited-earth/)
- - [This Chrome Extension Turns LinkedIn Posts About AI Into Facts About Allen Iverson](https://www.wired.com/story/chrome-extension-linkedin-allen-iverson/)<!-- TECH:END -->
+ - [Americans Are Increasingly Convinced That Aliens Have Visited Earth](https://www.wired.com/story/americans-are-increasingly-convinced-that-aliens-have-visited-earth/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
  - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
+ - 😝 [Ooops](http://9gag.com/gag/aPA04GB)
  - 💣 [Business days](http://9gag.com/gag/ayNA5pb)
  - 😝 [Very important](http://9gag.com/gag/azxzEDm)
- - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
+ - 👉 [Decided to become an artist](http://9gag.com/gag/awyDbRR)<!-- MEMES:END -->
 
 ---
 

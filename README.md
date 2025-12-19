@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
- - 😝 [Business days](http://9gag.com/gag/ayNA5pb)
- - 💣 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
- - 😝 [Reality!](http://9gag.com/gag/aRBGPGj)
- - 👉 [Human garbage](http://9gag.com/gag/apRXod5)<!-- MEMES:END -->
+ - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
+ - 😝 [Ooops](http://9gag.com/gag/aPA04GB)
+ - 💣 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
+ - 😝 [Very important](http://9gag.com/gag/azxzEDm)
+ - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
 ---
 

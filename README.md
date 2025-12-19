@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung unveils the Exynos 2600, the world&#39;s first smartphone SoC built on a 2nm Gate-All-Around process, expected to power some Galaxy S26 and S26 Plus models &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251219/p2#a251219p2)
  - [The administrator winding down Do Kwon&#39;s Terraform Labs sues Jump Trading for $4B, alleging it unlawfully profited from and contributed to Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251219/p1#a251219p1)
  - [Trump signs the annual defense bill with provisions authorizing the president to screen and restrict US financing of Chinese tech companies &lpar;Anvee Bhutani/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p57#a251218p57)
  - [Q&amp;A with Sam Altman on OpenAI&#39;s &quot;code red&quot; call, enterprise strategy, product ambitions, IPO plans, ChatGPT&#39;s personalization plans, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/251218/p56#a251218p56)
- - [The US Senate confirms FDIC acting chairman Travis Hill to lead the agency, which regulates stablecoin issuers and impacts how the crypto industry is banked &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/251218/p55#a251218p55)
- - [US investors to close deal on 50% ownership of TikTok January 22](https://appleinsider.com/articles/25/12/19/us-investors-to-close-deal-on-50-ownership-of-tiktok-january-22?utm_source=rss)<!-- TECH:END -->
+ - [The US Senate confirms FDIC acting chairman Travis Hill to lead the agency, which regulates stablecoin issuers and impacts how the crypto industry is banked &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/251218/p55#a251218p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

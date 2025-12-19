@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Avatar Game Is So Good, They Don’t Need to Make the Movies Anymore](https://www.wired.com/story/the-avatar-video-game-is-so-good-they-dont-need-to-make-the-movies/)
- - [From Queer-Baiting to Neurodivergence: ‘Heated Rivalry’s Author Tackles Fan Theories and Controversy](https://www.wired.com/story/heated-rivalry-author-rachel-reid-interview/)
- - [Coinbase sues Connecticut, Illinois and Michigan over state attempts to regulate prediction markets, arguing that they fall under the jurisdiction of the CFTC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251219/p5#a251219p5)
- - [Sources: UK officials believe China was behind the October cyber attack on the UK&#39;s Foreign Office, which aimed to access tens of thousands of sensitive files &lpar;Financial Times&rpar;](http://www.techmeme.com/251219/p4#a251219p4)
- - [Americans Are Increasingly Convinced That Aliens Have Visited Earth](https://www.wired.com/story/americans-are-increasingly-convinced-that-aliens-have-visited-earth/)<!-- TECH:END -->
+ - [Asus ProArt PA32QCV Display review: Big screen for big creative work](https://appleinsider.com/articles/25/12/19/asus-proart-pa32qcv-display-review-big-screen-for-big-creative-work?utm_source=rss)
+ - [Court will reconsider App Store class action case worth billions](https://appleinsider.com/articles/25/12/19/court-will-reconsider-app-store-class-action-case-worth-billions?utm_source=rss)
+ - [The 8 Best WIRED-Tested Handheld Vacuums &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-handheld-vacuums/)
+ - [Sources: The Chan Zuckerberg Initiative cuts ties with FWD.us, an immigration advocacy group founded by Mark Zuckerberg, eliminating FWD.us&#39; main funding source &lpar;Bloomberg&rpar;](http://www.techmeme.com/251219/p6#a251219p6)
+ - [How to Quickly Find Out What&#39;s Streaming on Multiple Services at Once](https://www.wired.com/story/how-to-find-out-whats-streaming-and-where/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

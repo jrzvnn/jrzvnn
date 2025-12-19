@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Senate confirms FDIC acting chairman Travis Hill to lead the agency, which regulates stablecoin issuers and impacts how the crypto industry is banked &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/251218/p55#a251218p55)
+ - [US investors to close deal on 50% ownership of TikTok January 22](https://appleinsider.com/articles/25/12/19/us-investors-to-close-deal-on-50-ownership-of-tiktok-january-22?utm_source=rss)
+ - [The US Senate confirms Trump pick Michael Selig as chairman of the CFTC, as lawmakers consider legislation to give the agency more control over digital assets &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/251218/p54#a251218p54)
  - [US approving Nvidia H200 exports to China is based on the idea that Huawei is a viable competitor, but data shows the gap between Nvidia and Huawei is widening &lpar;Chris McGuire/Council on Foreign ...&rpar;](http://www.techmeme.com/251218/p53#a251218p53)
- - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [Asus ProArt PA32QCV Display review: Big screen for big creative work](https://appleinsider.com/articles/25/12/19/asus-proart-pa32qcv-display-review-big-screen-for-big-creative-work?utm_source=rss)
- - [Sources: Riot Games is working on a major overhaul of League of Legends, internally called League Next, for 2027; Riot confirms a big update is in the works &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251218/p52#a251218p52)
- - [Pennsylvania&#39;s Supreme Court rules that police can get Google search data without a warrant; an expert warns it may encourage warrantless searches nationwide &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251218/p51#a251218p51)<!-- TECH:END -->
+ - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

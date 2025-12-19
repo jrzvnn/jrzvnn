@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 💣 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)
- - 😝 [Before they wake up](http://9gag.com/gag/a6ZzdVA)
- - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
+ - 😝 [`BuT tHeN yOu HaVe To PaY fOr SoMeOnE eLsE&#39;s KiD`](http://9gag.com/gag/aW4A03Z)
+ - 😝 [Epic transformation](http://9gag.com/gag/a2vVN9w)
+ - 💣 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)
+ - 😝 [I found it, S7 E8](http://9gag.com/gag/avyVZNZ)
+ - 👉 [Yep...She&#39;s real elf...](http://9gag.com/gag/abAoqVr)<!-- MEMES:END -->
 
 ---
 

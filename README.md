@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boston-based Neurable, which builds an OS for brain-computer interfaces, raised a $35M Series A led by Spectrum Moonshot Fund, bringing its total raised to $65M &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/251219/p13#a251219p13)
+ - [The wellness wild west is back on its bullshit with unapproved weight loss drugs](https://www.theverge.com/column/846406/optimizer-wellness-wild-west-glp-3-retatrutide)
  - [Brendan Carr is a dummy](https://www.theverge.com/podcast/848012/brendan-carr-fcc-dummy-free-speech-vergecast)
  - [Google Cloud and Palo Alto Networks strike a deal that a source says is Google Cloud&#39;s largest security services deal &quot;approaching $10B&quot; over several years &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/251219/p12#a251219p12)
- - [Memo: TikTok CEO Shou Zi Chew says ByteDance&#39;s US entities will retain direct control over core US revenue drivers, including ecommerce, ads, and marketing &lpar;Financial Times&rpar;](http://www.techmeme.com/251219/p11#a251219p11)
- - [The Best Cookbooks of 2025: Soju Party, Good Things, Salsa Daddy, Linger, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2025/)
- - [Sources: Google has formed a new executive council to allocate computing capacity given a critical shortage; members include Thomas Kurian and Demis Hassabis &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/251219/p10#a251219p10)<!-- TECH:END -->
+ - [Memo: TikTok CEO Shou Zi Chew says ByteDance&#39;s US entities will retain direct control over core US revenue drivers, including ecommerce, ads, and marketing &lpar;Financial Times&rpar;](http://www.techmeme.com/251219/p11#a251219p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

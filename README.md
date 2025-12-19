@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google sues web scraper for sucking up search results ‘at an astonishing scale’](https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi)
  - [California reaches a $50M settlement with Meta to resolve claims that Facebook users were misled about their ability to limit who could see personal details &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/251219/p22#a251219p22)
- - [Google sues data scraping company SerpApi for allegedly using hundreds of millions of fake search requests to access copyrighted material from Google products &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251219/p21#a251219p21)
+ - [Google sues data scraping company SerpApi, alleging it used millions of fake search requests to access copyrighted content and sold it to third parties &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251219/p21#a251219p21)
  - [Australians will be soon able to use Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)
- - [iPhone 18 Pro rumors: Under-display Face ID, variable aperture cameras, more](https://appleinsider.com/articles/25/12/19/iphone-18-pro-rumors-under-display-face-id-variable-aperture-cameras-more?utm_source=rss)
- - [Source: Sam Altman&#39;s Merge Labs, which seeks to read brain activity using ultrasound, is being spun out of LA-based nonprofit Forest Neurotech &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/251219/p20#a251219p20)<!-- TECH:END -->
+ - [iPhone 18 Pro rumors: Under-display Face ID, variable aperture cameras, more](https://appleinsider.com/articles/25/12/19/iphone-18-pro-rumors-under-display-face-id-variable-aperture-cameras-more?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

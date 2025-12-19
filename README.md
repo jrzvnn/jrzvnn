@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini isn’t replacing Google Assistant on Android just yet](https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026)
  - [Source: Tencent has secured access to Nvidia&#39;s Blackwell chips through a cloud service operated by Tokyo-based Datasection &lpar;Jacob Adelman/Barron&#39;s Online&rpar;](http://www.techmeme.com/251219/p28#a251219p28)
  - [Meta board member Dina Powell McCormick, an ex-top adviser to Trump, steps down after joining in April; source: she is considering retaining an advisory role &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251219/p27#a251219p27)
  - [Sequoia&#39;s Shaun Maguire speculated in an X post that an innocent Palestinian student was behind the Brown University shooting; the post was later deleted &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/251219/p26#a251219p26)
- - [Next-generation nuclear reactors could get a boost from the National Defense Authorization Act](https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill)
- - [The Delaware Supreme Court rules that Elon Musk&#39;s 2018 Tesla CEO pay package, worth around $56B when it vested, must be restored, ending a years-long fight &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251219/p25#a251219p25)<!-- TECH:END -->
+ - [Next-generation nuclear reactors could get a boost from the National Defense Authorization Act](https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

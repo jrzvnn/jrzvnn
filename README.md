@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get Apple&#39;s 15-inch MacBook Air M4 for just $949 with delivery by Christmas](https://appleinsider.com/articles/25/12/19/get-apples-15-inch-macbook-air-m4-for-just-949-with-delivery-by-christmas?utm_source=rss)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [A macOS Tahoe bug is causing some Apple Studio Displays to flicker](https://appleinsider.com/articles/25/12/19/a-macos-tahoe-bug-is-causing-some-apple-studio-displays-to-flicker?utm_source=rss)
  - [Cursor-developer Anysphere acquires code review startup Graphite and says Graphite will continue operating as an independent product &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/251219/p15#a251219p15)
- - [Sources: ByteDance is on track for ~$50B profit in 2025 after generating a ~$40B net income in the first three quarters, surpassing its internal target for 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251219/p14#a251219p14)
- - [Europol imagines robot crime waves in 2035](https://www.theverge.com/report/847956/robot-crime-wave-europe-police-prediction)
- - [Boston-based Neurable, which builds an OS for brain-computer interfaces, raised a $35M Series A led by Spectrum Moonshot Fund, bringing its total raised to $65M &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/251219/p13#a251219p13)<!-- TECH:END -->
+ - [Sources: ByteDance is on track for ~$50B profit in 2025 after generating a ~$40B net income in the first three quarters, surpassing its internal target for 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251219/p14#a251219p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

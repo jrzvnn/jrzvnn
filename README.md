@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
  - 😝 [Ooops](http://9gag.com/gag/aPA04GB)
- - 💣 [Business days](http://9gag.com/gag/ayNA5pb)
- - 😝 [Very important](http://9gag.com/gag/azxzEDm)
- - 👉 [Decided to become an artist](http://9gag.com/gag/awyDbRR)<!-- MEMES:END -->
+ - 💣 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
+ - 😝 [...](http://9gag.com/gag/aD2L37K)
+ - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
 ---
 

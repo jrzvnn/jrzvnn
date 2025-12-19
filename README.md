@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York Gov. Kathy Hochul signs the RAISE Act into law; the AI safety bill&#39;s text was modified earlier to more closely resemble California&#39;s SB 53 &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251219/p29#a251219p29)
+ - [WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/)
  - [Did a publisher’s slip-up reveal smaller Switch 2 cartridges?](https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games)
  - [Gemini isn’t replacing Google Assistant on Android just yet](https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026)
- - [Source: Tencent has secured access to Nvidia&#39;s Blackwell chips through a cloud service operated by Tokyo-based Datasection &lpar;Jacob Adelman/Barron&#39;s Online&rpar;](http://www.techmeme.com/251219/p28#a251219p28)
- - [Meta board member Dina Powell McCormick, an ex-top adviser to Trump, steps down after joining in April; source: she is considering retaining an advisory role &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251219/p27#a251219p27)
- - [Sequoia&#39;s Shaun Maguire speculated in an X post that an innocent Palestinian student was behind the Brown University shooting; the post was later deleted &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/251219/p26#a251219p26)<!-- TECH:END -->
+ - [Source: Tencent has secured access to Nvidia&#39;s Blackwell chips through a cloud service operated by Tokyo-based Datasection &lpar;Jacob Adelman/Barron&#39;s Online&rpar;](http://www.techmeme.com/251219/p28#a251219p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

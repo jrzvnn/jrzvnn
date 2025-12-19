@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you need a boost to regain the X-Mas joy](http://9gag.com/gag/a1mnZBG)
+ - 😝 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
  - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
  - 💣 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
- - 😝 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
+ - 😝 [Found a nice stick on my way to get groceries](http://9gag.com/gag/an73Kw0)
  - 👉 [Online gaming addict, finally checked out of a hotel in China after a two-year-long stay](http://9gag.com/gag/azxzEyp)<!-- MEMES:END -->
 
 ---

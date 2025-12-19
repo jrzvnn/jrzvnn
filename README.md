@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [New York Gov. Kathy Hochul signs the RAISE Act into law; the AI safety bill&#39;s text was modified earlier to more closely resemble California&#39;s SB 53 &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251219/p29#a251219p29)
  - [WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/)
  - [Did a publisher’s slip-up reveal smaller Switch 2 cartridges?](https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games)
- - [Gemini isn’t replacing Google Assistant on Android just yet](https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026)
- - [Source: Tencent has secured access to Nvidia&#39;s Blackwell chips through a cloud service operated by Tokyo-based Datasection &lpar;Jacob Adelman/Barron&#39;s Online&rpar;](http://www.techmeme.com/251219/p28#a251219p28)<!-- TECH:END -->
+ - [The 25 Best Xbox Games Right Now](https://www.cnet.com/tech/gaming/best-xbox-games-for-xbox-one-series-x-s/#ftag=CAD590a51e)
+ - [Gemini isn’t replacing Google Assistant on Android just yet](https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

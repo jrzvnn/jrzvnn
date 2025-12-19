@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Sam Altman&#39;s Merge Labs, which seeks to read brain activity using ultrasound, is being spun out of LA-based nonprofit Forest Neurotech &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/251219/p20#a251219p20)
  - [Scammers in China Are Using AI-Generated Images to Get Refunds](https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/)
  - [Sam Altman’s New Brain Venture, Merge Labs, Will Spin Out of a Nonprofit](https://www.wired.com/story/sam-altman-brain-computer-interface-merge-labs-spin-out-nonprofit-forest-neurotech/)
  - [Neural Concept, whose 3D product design software uses deep learning to help cut development times, raised a $100M Series C, bringing its total funding to $130M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251219/p19#a251219p19)
- - [Down to the Wire? We Found the Best Gifts on Amazon That&#39;ll Still Get There in Time](https://www.cnet.com/tech/best-gifts-available-on-amazon/#ftag=CAD590a51e)
- - [Watch &#39;Stranger Things&#39; for Free and More With These T-Mobile Streaming Freebies](https://www.cnet.com/tech/services-and-software/watch-stranger-things-for-free-and-more-with-these-t-mobile-streaming-freebies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Down to the Wire? We Found the Best Gifts on Amazon That&#39;ll Still Get There in Time](https://www.cnet.com/tech/best-gifts-available-on-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

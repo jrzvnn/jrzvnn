@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump signs the annual defense bill with provisions authorizing the president to screen and restrict US financing of Chinese tech companies &lpar;Anvee Bhutani/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p57#a251218p57)
  - [Q&amp;A with Sam Altman on OpenAI&#39;s &quot;code red&quot; call, enterprise strategy, product ambitions, IPO plans, ChatGPT&#39;s personalization plans, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/251218/p56#a251218p56)
  - [The US Senate confirms FDIC acting chairman Travis Hill to lead the agency, which regulates stablecoin issuers and impacts how the crypto industry is banked &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/251218/p55#a251218p55)
  - [US investors to close deal on 50% ownership of TikTok January 22](https://appleinsider.com/articles/25/12/19/us-investors-to-close-deal-on-50-ownership-of-tiktok-january-22?utm_source=rss)
- - [The US Senate confirms Trump pick Michael Selig as chairman of the CFTC, as lawmakers consider legislation to give the agency more control over digital assets &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/251218/p54#a251218p54)
- - [US approving Nvidia H200 exports to China is based on the idea that Huawei is a viable competitor, but data shows the gap between Nvidia and Huawei is widening &lpar;Chris McGuire/Council on Foreign ...&rpar;](http://www.techmeme.com/251218/p53#a251218p53)<!-- TECH:END -->
+ - [The US Senate confirms Trump pick Michael Selig as chairman of the CFTC, as lawmakers consider legislation to give the agency more control over digital assets &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/251218/p54#a251218p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

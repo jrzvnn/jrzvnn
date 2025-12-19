@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Ooops](http://9gag.com/gag/aPA04GB)
- - 😝 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
- - 💣 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 😝 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)
- - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
+ - 😝 [Pls never change](http://9gag.com/gag/aPA0yDw)
+ - 💣 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)
+ - 😝 [Dudes are the best](http://9gag.com/gag/aYQBW8N)
+ - 👉 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)<!-- MEMES:END -->
 
 ---
 

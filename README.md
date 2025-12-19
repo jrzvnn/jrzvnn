@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From Queer-Baiting to Neurodivergence: ‘Heated Rivalry’s Author Tackles Fan Theories and Controversy](https://www.wired.com/story/heated-rivalry-author-rachel-reid-interview/)
  - [Coinbase sues Connecticut, Illinois and Michigan over state attempts to regulate prediction markets, arguing that they fall under the jurisdiction of the CFTC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251219/p5#a251219p5)
  - [Sources: UK officials believe China was behind the October cyber attack on the UK&#39;s Foreign Office, which aimed to access tens of thousands of sensitive files &lpar;Financial Times&rpar;](http://www.techmeme.com/251219/p4#a251219p4)
  - [Americans Are Increasingly Convinced That Aliens Have Visited Earth](https://www.wired.com/story/americans-are-increasingly-convinced-that-aliens-have-visited-earth/)
- - [This Chrome Extension Turns LinkedIn Posts About AI Into Facts About Allen Iverson](https://www.wired.com/story/chrome-extension-linkedin-allen-iverson/)
- - [Meta&#39;s head of Threads Connor Hayes says that fediverse compatibility isn&#39;t a priority for its current roadmap, but it is something that it&#39;s &quot;maintaining&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251219/p3#a251219p3)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 19 #656](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-19-656/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

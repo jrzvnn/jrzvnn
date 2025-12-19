@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dio miss the old days](http://9gag.com/gag/a0eG9gq)
- - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
- - 💣 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 😝 [So... Epstein files tomorrow?](http://9gag.com/gag/an73Kj0)
- - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
+ - 😝 [Epic transformation](http://9gag.com/gag/a2vVN9w)
+ - 😝 [I found it, S7 E8](http://9gag.com/gag/avyVZNZ)
+ - 💣 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)
+ - 😝 [`BuT tHeN yOu HaVe To PaY fOr SoMeOnE eLsE&#39;s KiD`](http://9gag.com/gag/aW4A03Z)
+ - 👉 [Yep...She&#39;s real elf...](http://9gag.com/gag/abAoqVr)<!-- MEMES:END -->
 
 ---
 

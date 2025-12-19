@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s head of Threads Connor Hayes says that fediverse compatibility isn&#39;t a priority for its current roadmap, but it is something that it&#39;s &quot;maintaining&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251219/p3#a251219p3)
  - [A Starlink satellite seems to have exploded](https://www.theverge.com/news/847891/a-starlink-satellite-seems-to-have-exploded)
+ - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)
  - [Ring Promo Codes and Discounts: Up to 50% Off](https://www.wired.com/story/ring-promo-code/)
- - [Save With a 15% Off Dyson Promo Code](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Samsung unveils the Exynos 2600, the world&#39;s first smartphone SoC built on a 2nm Gate-All-Around process, expected to power some Galaxy S26 and S26 Plus models &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251219/p2#a251219p2)
- - [The administrator winding down Do Kwon&#39;s Terraform Labs sues Jump Trading for $4B, alleging it unlawfully profited from and contributed to Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251219/p1#a251219p1)<!-- TECH:END -->
+ - [Save With a 15% Off Dyson Promo Code](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

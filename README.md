@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI robotics startup Physical Intelligence claims vision-language-action models learn to align human videos and robot data as pre-training is scaled up &lpar;Physical Intelligence&rpar;](http://www.techmeme.com/251219/p23#a251219p23)
  - [Google sues web scraper for sucking up search results ‘at an astonishing scale’](https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi)
  - [California reaches a $50M settlement with Meta to resolve claims that Facebook users were misled about their ability to limit who could see personal details &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/251219/p22#a251219p22)
  - [Google sues data scraping company SerpApi, alleging it used millions of fake search requests to access copyrighted content and sold it to third parties &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251219/p21#a251219p21)
- - [Australians will be soon able to use Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)
- - [iPhone 18 Pro rumors: Under-display Face ID, variable aperture cameras, more](https://appleinsider.com/articles/25/12/19/iphone-18-pro-rumors-under-display-face-id-variable-aperture-cameras-more?utm_source=rss)<!-- TECH:END -->
+ - [Australians will be soon able to use Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

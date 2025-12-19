@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 😝 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
- - 💣 [Online gaming addict, finally checked out of a hotel in China after a two-year-long stay](http://9gag.com/gag/azxzEyp)
- - 😝 [Found a nice stick on my way to get groceries](http://9gag.com/gag/an73Kw0)
- - 👉 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)<!-- MEMES:END -->
+ - 😝 [That girl is more composed than any adult I know](http://9gag.com/gag/aXPzpMV)
+ - 😝 [Old cartoons](http://9gag.com/gag/agmbvAw)
+ - 💣 [A very tired owl at sea, comes to rest](http://9gag.com/gag/a2vVYOD)
+ - 😝 [Learn this and do it with your wife on her most stressful days, and your days will be less stressful.](http://9gag.com/gag/aKGyPEj)
+ - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
 ---
 

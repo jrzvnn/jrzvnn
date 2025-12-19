@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Communities are rising up against data centers — and winning](https://www.theverge.com/science/841169/ai-data-center-opposition)
- - [There’s finally a little bit of sunshine in Pluribus](https://www.theverge.com/streaming/847287/pluribus-episode-8-recap-discussion-apple-tv)
- - [Denmark says Russia was behind &quot;destructive and disruptive&quot; cyberattacks on a water utility in 2024 and DDoS attacks in the lead-up to local November elections &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/251219/p7#a251219p7)
- - [Semi-solid state MagSafe power banks arrive from the founder of Hyper](https://www.theverge.com/news/847925/bmx-hyper-semi-solid-state-power-banks)
- - [The 14 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)<!-- TECH:END -->
+ - [DraftKings launches DraftKings Predictions, a new app that lets customers in 38 states trade contracts on sports and financial events through prediction markets &lpar;Ira Boudway/Bloomberg&rpar;](http://www.techmeme.com/251219/p8#a251219p8)
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
+ - [Phones were fashionable again in 2025](https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion)
+ - [Inside Final Cut Pro -- How Apple abandoned Hollywood](https://appleinsider.com/articles/25/12/19/inside-final-cut-pro----apples-superb-video-editing-suite-and-a-huge-mistake?utm_source=rss)
+ - [17 Best Camera Bags, Slings, Straps, and Backpacks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

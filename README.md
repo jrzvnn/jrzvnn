@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Coinbase sues Connecticut, Illinois and Michigan over state attempts to regulate prediction markets, arguing that they fall under the jurisdiction of the CFTC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251219/p5#a251219p5)
  - [Sources: UK officials believe China was behind the October cyber attack on the UK&#39;s Foreign Office, which aimed to access tens of thousands of sensitive files &lpar;Financial Times&rpar;](http://www.techmeme.com/251219/p4#a251219p4)
  - [Americans Are Increasingly Convinced That Aliens Have Visited Earth](https://www.wired.com/story/americans-are-increasingly-convinced-that-aliens-have-visited-earth/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 19 #656](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-19-656/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Chrome Extension Turns LinkedIn Posts About AI Into Facts About Allen Iverson](https://www.wired.com/story/chrome-extension-linkedin-allen-iverson/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
  - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
- - 💣 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
- - 😝 [Most of youtube videos these days](http://9gag.com/gag/aE0b1qe)
- - 👉 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)<!-- MEMES:END -->
+ - 😝 [I dio miss the old days](http://9gag.com/gag/a0eG9gq)
+ - 💣 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
+ - 😝 [Old cartoons](http://9gag.com/gag/agmbvAw)
+ - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
- - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
- - 💣 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
- - 😝 [Nice](http://9gag.com/gag/avyVLzW)
- - 👉 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)<!-- MEMES:END -->
+ - 😝 [That girl is more composed than any adult I know](http://9gag.com/gag/aXPzpMV)
+ - 😝 [A very tired owl at sea, comes to rest](http://9gag.com/gag/a2vVYOD)
+ - 💣 [Learn this and do it with your wife on her most stressful days, and your days will be less stressful.](http://9gag.com/gag/aKGyPEj)
+ - 😝 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 👉 [Before they wake up](http://9gag.com/gag/a6ZzdVA)<!-- MEMES:END -->
 
 ---
 

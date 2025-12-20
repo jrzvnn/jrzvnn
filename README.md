@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)
- - 😝 [Zamasu was right](http://9gag.com/gag/aqyONZL)
- - 💣 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
+ - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
+ - 😝 [Avid Music fan.](http://9gag.com/gag/ayNA0Ry)
+ - 💣 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
  - 😝 [Someone had a good chuckle at this when he released the app](http://9gag.com/gag/aoy6p00)
- - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
+ - 👉 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)<!-- MEMES:END -->
 
 ---
 

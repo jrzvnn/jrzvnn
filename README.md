@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gear News of the Week: LG Debuts an RGB LED TV, and Google Brings Find Hub to Wear OS](https://www.wired.com/story/gear-news-of-the-week-lg-debuts-an-rgb-led-tv-and-google-brings-find-hub-to-wear-os/)
+ - [7 Useful Tips for Anyone Connecting to Public Wi-Fi](https://www.wired.com/story/7-useful-tips-for-anyone-connecting-to-public-wi-fi/)
+ - [The sold-out Nex Playground made my kids laugh and cry](https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera)
  - [Micron projects FY Q2 sales to grow over 2x YoY to $18.7B and adjusted operating income to rise over 5x to $11.3B, signaling higher memory chip prices in 2026 &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/251220/p7#a251220p7)
- - [The Best Gifts for Sleep, as Tested by Our Team](https://www.wired.com/gallery/best-sleep-gifts/)
- - [A look at Meta&#39;s 2GW Hyperion data center in Louisiana, with the first phase opening in 2028; an analysis shows sales tax breaks on GPUs could total $3.3B+ &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/251220/p6#a251220p6)
- - [OpenAI introduces a framework to evaluate chain-of-thought monitorability and a suite of 13 evaluations designed to measure the monitorability of an AI system &lpar;OpenAI&rpar;](http://www.techmeme.com/251220/p5#a251220p5)
- - [Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets](https://www.wired.com/story/loop-earplugs-discount-code/)<!-- TECH:END -->
+ - [The Best Gifts for Sleep, as Tested by Our Team](https://www.wired.com/gallery/best-sleep-gifts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

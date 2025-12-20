@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 😝 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)
- - 💣 [Learn this and do it with your wife on her most stressful days, and your days will be less stressful.](http://9gag.com/gag/aKGyPEj)
- - 😝 [The cave](http://9gag.com/gag/a6ZzQbA)
- - 👉 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)<!-- MEMES:END -->
+ - 😝 [Thank good we have co2 tax and banned plastic straws](http://9gag.com/gag/ajPjnMp)
+ - 😝 [Impressive](http://9gag.com/gag/aO8OVOE)
+ - 💣 [Women](http://9gag.com/gag/ary0NgK)
+ - 😝 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)
+ - 👉 [Good toast good appetite](http://9gag.com/gag/a1mnYwv)<!-- MEMES:END -->
 
 ---
 

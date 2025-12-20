@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s Agriculture Bailout Is Alienating His MAHA Base](https://www.wired.com/story/trumps-agriculture-bailout-is-alienating-his-maha-base/)
- - [The 23 Best Movies on Amazon Prime, WIRED&#39;s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [The 48 Best Movies on Netflix, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Rivian’s AI pivot is about more than chasing Tesla](https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla)
- - [Hackers Stole Millions of PornHub Users’ Data for Extortion](https://www.wired.com/story/security-news-this-week-hackers-stole-millions-of-pornhub-users-data-for-extortion/)<!-- TECH:END -->
+ - [‘Friend slop’ made co-op gaming goofier than ever in 2025](https://www.theverge.com/entertainment/845347/friend-slop-co-op-games-2025)
+ - [Best Nintendo Switch 2 Controllers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-nintendo-switch-2-controllers/)
+ - [How to Watch James Madison vs. Oregon: Start Time, TV Channel for CFP First Round Game Today](https://www.cnet.com/tech/services-and-software/how-to-watch-james-madison-vs-oregon-start-time-tv-channel-for-cfp-first-round-game-today/#ftag=CAD590a51e)
+ - [iPhone 18: Everything We Know About Apple&#39;s 2026 Phone Lineup](https://www.cnet.com/tech/mobile/iphone-18-pro-rumors-release-date-price-design-specs/#ftag=CAD590a51e)
+ - [Trump’s Agriculture Bailout Is Alienating His MAHA Base](https://www.wired.com/story/trumps-agriculture-bailout-is-alienating-his-maha-base/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

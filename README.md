@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Culture](http://9gag.com/gag/aQzKn5e)
+ - 😝 [Nice](http://9gag.com/gag/avyVLzW)
+ - 💣 [Impressive](http://9gag.com/gag/aO8OVOE)
  - 😝 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
- - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 💣 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)
- - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 👉 [Online gaming addict, finally checked out of a hotel in China after a two-year-long stay](http://9gag.com/gag/azxzEyp)<!-- MEMES:END -->
+ - 👉 [Thank good we have co2 tax and banned plastic straws](http://9gag.com/gag/ajPjnMp)<!-- MEMES:END -->
 
 ---
 

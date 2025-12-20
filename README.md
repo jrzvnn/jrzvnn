@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pizza math](http://9gag.com/gag/aQzKnBw)
- - 😝 [Culture](http://9gag.com/gag/aQzKn5e)
- - 💣 [Dudes are the best](http://9gag.com/gag/aYQBW8N)
+ - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
+ - 😝 [Epstein didn&#39;t](http://9gag.com/gag/aAy7pAR)
+ - 💣 [Ooops](http://9gag.com/gag/aPA04GB)
  - 😝 [This is Simo H\u00e4yh\u00e4 - the deadliest sniper in world history, 500 confirmed kills in less than 100 days .He used no scope on his rifle . He held off 4,000 Soviets with only 31 other Finns , he was shot in the face with an exploding bullet and survived, Simo lived to 96 years of age](http://9gag.com/gag/ajPjA9q)
- - 👉 [Thank good we have co2 tax and banned plastic straws](http://9gag.com/gag/ajPjnMp)<!-- MEMES:END -->
+ - 👉 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)<!-- MEMES:END -->
 
 ---
 

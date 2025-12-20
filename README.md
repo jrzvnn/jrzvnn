@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Culture](http://9gag.com/gag/aQzKn5e)
- - 😝 [Nice](http://9gag.com/gag/avyVLzW)
- - 💣 [Impressive](http://9gag.com/gag/aO8OVOE)
- - 😝 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
- - 👉 [Thank good we have co2 tax and banned plastic straws](http://9gag.com/gag/ajPjnMp)<!-- MEMES:END -->
+ - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
+ - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
+ - 💣 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
+ - 😝 [The cave](http://9gag.com/gag/a6ZzQbA)
+ - 👉 [Learn this and do it with your wife on her most stressful days, and your days will be less stressful.](http://9gag.com/gag/aKGyPEj)<!-- MEMES:END -->
 
 ---
 

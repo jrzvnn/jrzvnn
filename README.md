@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The LCD Steam Deck is done](https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done)
  - [Google says it needs more time to upgrade Assistant to Gemini on most Android devices; Google previously planned to complete the transition by the end of 2025 &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/251220/p10#a251220p10)
  - [Inside NeurIPS 2025, and how it has transformed from a small academic conference into a massive industry event with 24,000+ attendees, yacht parties, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251220/p9#a251220p9)
- - [AI calculations on Mac cluster gets a big boost from new RDMA support on Thunderbolt 5](https://appleinsider.com/articles/25/12/20/ai-calculations-on-mac-cluster-gets-a-big-boost-from-new-rdma-support-on-thunderbolt-5?utm_source=rss)
- - [Dogpile&amp;#8217;s puzzles mix Balatro, Tetris, and a pile of puppies](https://www.theverge.com/entertainment/848041/dogpile-review-inde-game-steam-balatro-puppies)<!-- TECH:END -->
+ - [NFL Week 16: How to Watch Packers vs. Bears, Bills vs. Browns and More Games From Anywhere](https://www.cnet.com/tech/services-and-software/nfl-week-16-how-to-watch-bills-vs-browns-steelers-vs-lions-and-other-games-from-anywhere/#ftag=CAD590a51e)
+ - [AI calculations on Mac cluster gets a big boost from new RDMA support on Thunderbolt 5](https://appleinsider.com/articles/25/12/20/ai-calculations-on-mac-cluster-gets-a-big-boost-from-new-rdma-support-on-thunderbolt-5?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The RAISE Act requires AI companies with $500M+ in revenue to publish safety protocols and disclose safety incidents within 72 hours, with fines up to $3M &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/251220/p12#a251220p12)
  - [Sony’s XM5 headphones and the latest Kindle round out this week’s best deals](https://www.theverge.com/gadgets/848353/sony-wh-1000xm5-headphones-amazon-kindle-deal-sale)
  - [Morgan Stanley: ad tiers account for 30% of Netflix subscribers and 50% of Disney+ subscribers; ad tiers accounted for all net subscriber additions in 2025 &lpar;Max Knoblauch/Sherwood News&rpar;](http://www.techmeme.com/251220/p11#a251220p11)
  - [The best last-minute Christmas gifts you can grab for under $50](https://www.theverge.com/gadgets/848134/best-last-minute-christmas-gifts-under-50-2025)
- - [The LCD Steam Deck is done](https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done)
- - [Google says it needs more time to upgrade Assistant to Gemini on most Android devices; Google previously planned to complete the transition by the end of 2025 &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/251220/p10#a251220p10)<!-- TECH:END -->
+ - [The LCD Steam Deck is done](https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

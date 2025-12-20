@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Meta&#39;s 2GW Hyperion data center in Louisiana, with the first phase opening in 2028; an analysis shows sales tax breaks on GPUs could total $3.3B+ &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/251220/p6#a251220p6)
  - [OpenAI introduces a framework to evaluate chain-of-thought monitorability and a suite of 13 evaluations designed to measure the monitorability of an AI system &lpar;OpenAI&rpar;](http://www.techmeme.com/251220/p5#a251220p5)
  - [Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets](https://www.wired.com/story/loop-earplugs-discount-code/)
  - [YouTube&#39;s head of products for podcasts Steve McLendon says viewers streamed 700M+ hours of podcasts on TV in October, up from 400M hours in October 2024 &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/251220/p4#a251220p4)
- - [Filings: Tether-owned Northern Data sold its bitcoin mining unit, Peak Mining, for up to $200M to a group including companies controlled by Tether executives &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251220/p3#a251220p3)
- - [Sources: TSMC plans to move chipmaking tools into its second Arizona fab in summer 2026, in line with its push to accelerate US production by &quot;several quarters&quot; &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/251220/p2#a251220p2)<!-- TECH:END -->
+ - [Filings: Tether-owned Northern Data sold its bitcoin mining unit, Peak Mining, for up to $200M to a group including companies controlled by Tether executives &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251220/p3#a251220p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ooops](http://9gag.com/gag/aPA04GB)
- - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 💣 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)
- - 😝 [Communication in gaming vs real life, a true story](http://9gag.com/gag/adBMjPD)
- - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
+ - 😝 [Pizza math](http://9gag.com/gag/aQzKnBw)
+ - 😝 [Culture](http://9gag.com/gag/aQzKn5e)
+ - 💣 [Dudes are the best](http://9gag.com/gag/aYQBW8N)
+ - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/a4P8dVZ)
+ - 👉 [Decided to become an artist](http://9gag.com/gag/awyDbRR)<!-- MEMES:END -->
 
 ---
 

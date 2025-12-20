@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epstein didn&#39;t](http://9gag.com/gag/aAy7pAR)
- - 😝 [Avid Music fan.](http://9gag.com/gag/ayNA0Ry)
- - 💣 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
- - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 👉 [Online gaming addict, finally checked out of a hotel in China after a two-year-long stay](http://9gag.com/gag/azxzEyp)<!-- MEMES:END -->
+ - 😝 [Respect](http://9gag.com/gag/aYQBWdm)
+ - 😝 [Ooops](http://9gag.com/gag/aPA04GB)
+ - 💣 [Decided to become an artist](http://9gag.com/gag/awyDbRR)
+ - 😝 [Good toast good appetite](http://9gag.com/gag/a1mnYwv)
+ - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York Gov. Kathy Hochul signs the RAISE Act into law; the AI safety bill&#39;s text was modified earlier to more closely resemble California&#39;s SB 53 &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251219/p29#a251219p29)
- - [WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/)
- - [Did a publisher’s slip-up reveal smaller Switch 2 cartridges?](https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games)
- - [Gemini isn’t replacing Google Assistant on Android just yet](https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026)
- - [Source: Tencent has secured access to Nvidia&#39;s Blackwell chips through a cloud service operated by Tokyo-based Datasection &lpar;Jacob Adelman/Barron&#39;s Online&rpar;](http://www.techmeme.com/251219/p28#a251219p28)<!-- TECH:END -->
+ - [Google is part of Movies Anywhere again](https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return)
+ - [OpenAI rolls out an update to let users adjust ChatGPT&#39;s characteristics, including how warm or enthusiastic it is, and its use of headers, lists, and emojis &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251219/p31#a251219p31)
+ - [Here’s What’s in the DOJ’s Epstein File Release—and What’s Missing](https://www.wired.com/story/epstein-files-whats-in-doj-release-december-19/)
+ - [Sources: AI chipmaker Cerebras plans to file for a US IPO as soon as next week, targeting a Q2 2026 listing, after withdrawing its prior IPO filing in October &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/251219/p30#a251219p30)
+ - [Roku&#39;s Holiday Streaming Deals: Three Months of Free Apple TV, $1 Howdy and More](https://www.cnet.com/deals/rokus-holiday-streaming-deals-three-months-of-free-apple-tv-1-howdy-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

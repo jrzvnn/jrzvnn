@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Zamasu was right](http://9gag.com/gag/aqyONZL)
  - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 😝 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
  - 💣 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
  - 😝 [Good toast good appetite](http://9gag.com/gag/a1mnYwv)
  - 👉 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)<!-- MEMES:END -->

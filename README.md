@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
  - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 💣 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
- - 😝 [You can&#39;t fake this](http://9gag.com/gag/avyVPLq)
- - 👉 [Gotta Play Through the Pain](http://9gag.com/gag/aW4AWYq)<!-- MEMES:END -->
+ - 😝 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
+ - 💣 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 😝 [Good toast good appetite](http://9gag.com/gag/a1mnYwv)
+ - 👉 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)<!-- MEMES:END -->
 
 ---
 

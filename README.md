@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s XM5 headphones and the latest Kindle round out this week’s best deals](https://www.theverge.com/gadgets/848353/sony-wh-1000xm5-headphones-amazon-kindle-deal-sale)
  - [Morgan Stanley: ad tiers account for 30% of Netflix subscribers and 50% of Disney+ subscribers; ad tiers accounted for all net subscriber additions in 2025 &lpar;Max Knoblauch/Sherwood News&rpar;](http://www.techmeme.com/251220/p11#a251220p11)
  - [The best last-minute Christmas gifts you can grab for under $50](https://www.theverge.com/gadgets/848134/best-last-minute-christmas-gifts-under-50-2025)
  - [The LCD Steam Deck is done](https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done)
- - [Google says it needs more time to upgrade Assistant to Gemini on most Android devices; Google previously planned to complete the transition by the end of 2025 &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/251220/p10#a251220p10)
- - [Inside NeurIPS 2025, and how it has transformed from a small academic conference into a massive industry event with 24,000+ attendees, yacht parties, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251220/p9#a251220p9)<!-- TECH:END -->
+ - [Google says it needs more time to upgrade Assistant to Gemini on most Android devices; Google previously planned to complete the transition by the end of 2025 &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/251220/p10#a251220p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zamasu was right](http://9gag.com/gag/aqyONZL)
- - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 💣 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 😝 [Good toast good appetite](http://9gag.com/gag/a1mnYwv)
- - 👉 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)<!-- MEMES:END -->
+ - 😝 [Dudes are the best](http://9gag.com/gag/aYQBW8N)
+ - 😝 [Pizza math](http://9gag.com/gag/aQzKnBw)
+ - 💣 [Culture](http://9gag.com/gag/aQzKn5e)
+ - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/a4P8dVZ)
+ - 👉 [Decided to become an artist](http://9gag.com/gag/awyDbRR)<!-- MEMES:END -->
 
 ---
 

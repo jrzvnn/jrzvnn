@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings: Tether-owned Northern Data sold its bitcoin mining unit, Peak Mining, for up to $200M to a group including companies controlled by Tether executives &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251220/p3#a251220p3)
+ - [Sources: TSMC plans to move chipmaking tools into its second Arizona fab in summer 2026, in line with its push to accelerate US production by &quot;several quarters&quot; &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/251220/p2#a251220p2)
  - [China issues new rules letting online merchants set their own prices across platforms for goods and services they sell, effective April 10, 2026, for five years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251220/p1#a251220p1)
  - [Logitech Promo Codes and Deals: Up to $100 Off](https://www.wired.com/story/logitech-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-20/#ftag=CAD590a51e)
- - [Sources: Resolve AI, which is developing an autonomous site reliability engineering tool, raised a Series A at multiple valuation tiers, including at $1B &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251219/p33#a251219p33)
- - [Google plans to charge developers $2.85/app and $3.65/game if a US user follows a link that takes them outside of the Play Store to install it within 24 hours &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251219/p32#a251219p32)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-20/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

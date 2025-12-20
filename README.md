@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Learn this and do it with your wife on her most stressful days, and your days will be less stressful.](http://9gag.com/gag/aKGyPEj)
- - 😝 [Good memories](http://9gag.com/gag/a4P8LnQ)
- - 💣 [Very important](http://9gag.com/gag/azxzEDm)
- - 😝 [Thank good we have co2 tax and banned plastic straws](http://9gag.com/gag/ajPjnMp)
- - 👉 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)<!-- MEMES:END -->
+ - 😝 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
+ - 💣 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
+ - 😝 [Good toast good appetite](http://9gag.com/gag/a1mnYwv)
+ - 👉 [Gotta Play Through the Pain](http://9gag.com/gag/aW4AWYq)<!-- MEMES:END -->
 
 ---
 

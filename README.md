@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-20/#ftag=CAD590a51e)
  - [Sources: Resolve AI, which is developing an autonomous site reliability engineering tool, raised a Series A at multiple valuation tiers, including at $1B &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251219/p33#a251219p33)
  - [Google plans to charge developers $2.85/app and $3.65/game if a US user follows a link that takes them outside of the Play Store to install it within 24 hours &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251219/p32#a251219p32)
  - [Want to link from Google’s app store to your app? That’ll be $2–4 per install](https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments)
- - [Google is part of Movies Anywhere again](https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 20, #453](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-20-453/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is part of Movies Anywhere again](https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

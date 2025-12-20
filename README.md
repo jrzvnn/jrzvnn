@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside NeurIPS 2025, and how it has transformed from a small academic conference into a massive industry event with 24,000+ attendees, yacht parties, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251220/p9#a251220p9)
  - [AI calculations on Mac cluster gets a big boost from new RDMA support on Thunderbolt 5](https://appleinsider.com/articles/25/12/20/ai-calculations-on-mac-cluster-gets-a-big-boost-from-new-rdma-support-on-thunderbolt-5?utm_source=rss)
  - [Dogpile&amp;#8217;s puzzles mix Balatro, Tetris, and a pile of puppies](https://www.theverge.com/entertainment/848041/dogpile-review-inde-game-steam-balatro-puppies)
  - [You can buy your Xbox Ally an official pair of anti-drift joysticks](https://www.theverge.com/games/848568/xbox-ally-gulikit-tmr-joysticks)
- - [Security company Koi finds browser extensions with 8M+ total installs that collected users&#39; conversations with AI chatbots and sold them for marketing use &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251220/p8#a251220p8)
- - [The 17 Best Gifts for Plant Lovers We’d Buy Ourselves &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-plant-lovers/)<!-- TECH:END -->
+ - [Security company Koi finds browser extensions with 8M+ total installs that collected users&#39; conversations with AI chatbots and sold them for marketing use &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251220/p8#a251220p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

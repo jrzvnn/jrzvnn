@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [S&amp;P Global: data center deals hit $61B globally in 2025; debt issuance nearly doubled YoY to $182B, with Meta raising $62B debt since 2022, ~50% of that in 2025 &lpar;April Roach/CNBC&rpar;](http://www.techmeme.com/251220/p14#a251220p14)
- - [Google advises some employees on visas, including H-1B visas, not to travel outside the US due to processing delays, following new social media screening rules &lpar;Business Insider&rpar;](http://www.techmeme.com/251220/p13#a251220p13)
- - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
- - [These Mac mini deals start at $479, with delivery by Christmas](https://appleinsider.com/articles/25/12/20/these-mac-mini-deals-start-at-479-with-delivery-by-christmas?utm_source=rss)
- - [AI calculations on Mac cluster get big boosts from new RDMA support on Thunderbolt 5](https://appleinsider.com/articles/25/12/20/ai-calculations-on-mac-cluster-gets-a-big-boost-from-new-rdma-support-on-thunderbolt-5?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 21, #924](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-21-924/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 21, #454](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-21-454/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 21, #1646](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-21-1646/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 21 #658](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-21-658/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

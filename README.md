@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
  - 😝 [Gotta Play Through the Pain](http://9gag.com/gag/aW4AWYq)
- - 💣 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 😝 [It only took me six years to capture a puma with the Towers in the background and completely clear skies.](http://9gag.com/gag/aKGyqgj)
+ - 💣 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
+ - 😝 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
  - 👉 [33rd SEA Games Women&#39;s Football Final - Thailand 2025. Offside!!](http://9gag.com/gag/aGyqVDK)<!-- MEMES:END -->
 
 ---

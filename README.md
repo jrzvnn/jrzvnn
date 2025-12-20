@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to charge developers $2.85/app and $3.65/game if a US user follows a link that takes them outside of the Play Store to install it within 24 hours &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251219/p32#a251219p32)
+ - [Want to link from Google’s app store to your app? That’ll be $2–4 per install](https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments)
  - [Google is part of Movies Anywhere again](https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return)
- - [OpenAI rolls out an update to let users adjust ChatGPT&#39;s characteristics, including how warm or enthusiastic it is, and its use of headers, lists, and emojis &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251219/p31#a251219p31)
- - [Here’s What’s in the DOJ’s Epstein File Release—and What’s Missing](https://www.wired.com/story/epstein-files-whats-in-doj-release-december-19/)
- - [Sources: AI chipmaker Cerebras plans to file for a US IPO as soon as next week, targeting a Q2 2026 listing, after withdrawing its prior IPO filing in October &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/251219/p30#a251219p30)
- - [Roku&#39;s Holiday Streaming Deals: Three Months of Free Apple TV, $1 Howdy and More](https://www.cnet.com/deals/rokus-holiday-streaming-deals-three-months-of-free-apple-tv-1-howdy-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 20, #453](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-20-453/#ftag=CAD590a51e)
+ - [OpenAI rolls out an update to let users adjust ChatGPT&#39;s characteristics, including how warm or enthusiastic it is, and its use of headers, lists, and emojis &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251219/p31#a251219p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

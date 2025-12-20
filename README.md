@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 😝 [Avid Music fan.](http://9gag.com/gag/ayNA0Ry)
- - 💣 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
- - 😝 [Someone had a good chuckle at this when he released the app](http://9gag.com/gag/aoy6p00)
- - 👉 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)<!-- MEMES:END -->
+ - 😝 [Culture](http://9gag.com/gag/aQzKn5e)
+ - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/a4P8dVZ)
+ - 💣 [Communication in gaming vs real life, a true story](http://9gag.com/gag/adBMjPD)
+ - 😝 [Shabbidabbidibbidabbidibbido](http://9gag.com/gag/a879MOp)
+ - 👉 [Nice](http://9gag.com/gag/avyVLzW)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
  - 😝 [Zamasu was right](http://9gag.com/gag/aqyONZL)
+ - 💣 [Avid Music fan.](http://9gag.com/gag/ayNA0Ry)
  - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 💣 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 😝 [Someone had a good chuckle at this when he released the app](http://9gag.com/gag/aoy6p00)
  - 👉 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)<!-- MEMES:END -->
 
 ---

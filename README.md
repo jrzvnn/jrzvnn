@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)
  - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 💣 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 😝 [Good toast good appetite](http://9gag.com/gag/a1mnYwv)
+ - 💣 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
+ - 😝 [This is Simo H\u00e4yh\u00e4 - the deadliest sniper in world history, 500 confirmed kills in less than 100 days .He used no scope on his rifle . He held off 4,000 Soviets with only 31 other Finns , he was shot in the face with an exploding bullet and survived, Simo lived to 96 years of age](http://9gag.com/gag/ajPjA9q)
  - 👉 [Epstein didn&#39;t](http://9gag.com/gag/aAy7pAR)<!-- MEMES:END -->
 
 ---

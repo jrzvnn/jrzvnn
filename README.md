@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)
- - 😝 [Thank good we have co2 tax and banned plastic straws](http://9gag.com/gag/ajPjnMp)
- - 💣 [Very important](http://9gag.com/gag/azxzEDm)
- - 😝 [Pizza math](http://9gag.com/gag/aQzKnBw)
- - 👉 [Good memories](http://9gag.com/gag/a4P8LnQ)<!-- MEMES:END -->
+ - 😝 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 😝 [Gotta Play Through the Pain](http://9gag.com/gag/aW4AWYq)
+ - 💣 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
+ - 😝 [It only took me six years to capture a puma with the Towers in the background and completely clear skies.](http://9gag.com/gag/aKGyqgj)
+ - 👉 [33rd SEA Games Women&#39;s Football Final - Thailand 2025. Offside!!](http://9gag.com/gag/aGyqVDK)<!-- MEMES:END -->
 
 ---
 

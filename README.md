@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
  - 😝 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
  - 💣 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)
- - 😝 [Ooops](http://9gag.com/gag/aPA04GB)
- - 👉 [Epstein didn&#39;t](http://9gag.com/gag/aAy7pAR)<!-- MEMES:END -->
+ - 😝 [Communication in gaming vs real life, a true story](http://9gag.com/gag/adBMjPD)
+ - 👉 [Ooops](http://9gag.com/gag/aPA04GB)<!-- MEMES:END -->
 
 ---
 

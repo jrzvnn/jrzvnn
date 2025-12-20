@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers Stole Millions of PornHub Users’ Data for Extortion](https://www.wired.com/story/security-news-this-week-hackers-stole-millions-of-pornhub-users-data-for-extortion/)
- - [25 Amazon Super Saturday Deals on Last-Minute Gifts We&#39;ve Tested &lpar;2025&rpar;](https://www.wired.com/story/amazon-super-saturday-deals-2025/)
- - [Gear News of the Week: LG Debuts an RGB LED TV, and Google Brings Find Hub to Wear OS](https://www.wired.com/story/gear-news-of-the-week-lg-debuts-an-rgb-led-tv-and-google-brings-find-hub-to-wear-os/)
- - [7 Useful Tips for Anyone Connecting to Public Wi-Fi](https://www.wired.com/story/7-useful-tips-for-anyone-connecting-to-public-wi-fi/)
- - [The sold-out Nex Playground made my kids laugh and cry](https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera)<!-- TECH:END -->
+ - [Trump’s Agriculture Bailout Is Alienating His MAHA Base](https://www.wired.com/story/trumps-agriculture-bailout-is-alienating-his-maha-base/)
+ - [The 23 Best Movies on Amazon Prime, WIRED&#39;s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The 48 Best Movies on Netflix, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Rivian’s AI pivot is about more than chasing Tesla](https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla)
+ - [Hackers Stole Millions of PornHub Users’ Data for Extortion](https://www.wired.com/story/security-news-this-week-hackers-stole-millions-of-pornhub-users-data-for-extortion/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

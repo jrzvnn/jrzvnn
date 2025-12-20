@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/a4P8dVZ)
- - 😝 [Pizza math](http://9gag.com/gag/aQzKnBw)
- - 💣 [Culture](http://9gag.com/gag/aQzKn5e)
- - 😝 [Communication in gaming vs real life, a true story](http://9gag.com/gag/adBMjPD)
- - 👉 [Nice](http://9gag.com/gag/avyVLzW)<!-- MEMES:END -->
+ - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
+ - 😝 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)
+ - 💣 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)
+ - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
+ - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
 
 ---
 

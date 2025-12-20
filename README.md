@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chile fielded an all women team for the UAE SWAT challenge last year and it went about as well as you&#39;d expect.](http://9gag.com/gag/avyVgXn)
- - 😝 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
- - 💣 [Gotta Play Through the Pain](http://9gag.com/gag/aW4AWYq)
- - 😝 [It only took me six years to capture a puma with the Towers in the background and completely clear skies.](http://9gag.com/gag/aKGyqgj)
+ - 😝 [Epstein didn&#39;t](http://9gag.com/gag/aAy7pAR)
+ - 😝 [Avid Music fan.](http://9gag.com/gag/ayNA0Ry)
+ - 💣 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
  - 👉 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube&#39;s head of products for podcasts Steve McLendon says viewers streamed 700M+ hours of podcasts on TV in October, up from 400M hours in October 2024 &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/251220/p4#a251220p4)
  - [Filings: Tether-owned Northern Data sold its bitcoin mining unit, Peak Mining, for up to $200M to a group including companies controlled by Tether executives &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251220/p3#a251220p3)
  - [Sources: TSMC plans to move chipmaking tools into its second Arizona fab in summer 2026, in line with its push to accelerate US production by &quot;several quarters&quot; &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/251220/p2#a251220p2)
  - [China issues new rules letting online merchants set their own prices across platforms for goods and services they sell, effective April 10, 2026, for five years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251220/p1#a251220p1)
- - [Logitech Promo Codes and Deals: Up to $100 Off](https://www.wired.com/story/logitech-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Logitech Promo Codes and Deals: Up to $100 Off](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

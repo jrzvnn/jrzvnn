@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
- - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 💣 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
+ - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
+ - 😝 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)
+ - 💣 [Learn this and do it with your wife on her most stressful days, and your days will be less stressful.](http://9gag.com/gag/aKGyPEj)
  - 😝 [The cave](http://9gag.com/gag/a6ZzQbA)
- - 👉 [Learn this and do it with your wife on her most stressful days, and your days will be less stressful.](http://9gag.com/gag/aKGyPEj)<!-- MEMES:END -->
+ - 👉 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)<!-- MEMES:END -->
 
 ---
 

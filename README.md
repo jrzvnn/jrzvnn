@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Security company Koi finds browser extensions with 8M+ total installs that collected users&#39; conversations with AI chatbots and sold them for marketing use &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251220/p8#a251220p8)
+ - [The 17 Best Gifts for Plant Lovers We’d Buy Ourselves &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-plant-lovers/)
  - [‘Friend slop’ made co-op gaming goofier than ever in 2025](https://www.theverge.com/entertainment/845347/friend-slop-co-op-games-2025)
  - [Best Nintendo Switch 2 Controllers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-nintendo-switch-2-controllers/)
- - [How to Watch James Madison vs. Oregon: Start Time, TV Channel for CFP First Round Game Today](https://www.cnet.com/tech/services-and-software/how-to-watch-james-madison-vs-oregon-start-time-tv-channel-for-cfp-first-round-game-today/#ftag=CAD590a51e)
- - [iPhone 18: Everything We Know About Apple&#39;s 2026 Phone Lineup](https://www.cnet.com/tech/mobile/iphone-18-pro-rumors-release-date-price-design-specs/#ftag=CAD590a51e)
- - [Trump’s Agriculture Bailout Is Alienating His MAHA Base](https://www.wired.com/story/trumps-agriculture-bailout-is-alienating-his-maha-base/)<!-- TECH:END -->
+ - [How to Watch James Madison vs. Oregon: Start Time, TV Channel for CFP First Round Game Today](https://www.cnet.com/tech/services-and-software/how-to-watch-james-madison-vs-oregon-start-time-tv-channel-for-cfp-first-round-game-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

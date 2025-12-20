@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [` emotional damage `](http://9gag.com/gag/awyD791)
- - 😝 [Pizza math](http://9gag.com/gag/aQzKnBw)
- - 💣 [Culture](http://9gag.com/gag/aQzKn5e)
- - 😝 [Dudes are the best](http://9gag.com/gag/aYQBW8N)
- - 👉 [Merry Christmas you filthy animals.](http://9gag.com/gag/a4P8dVZ)<!-- MEMES:END -->
+ - 😝 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)
+ - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
+ - 💣 [Testing romance novels](http://9gag.com/gag/a879Y8e)
+ - 😝 [Good toast good appetite](http://9gag.com/gag/a1mnYwv)
+ - 👉 [Epstein didn&#39;t](http://9gag.com/gag/aAy7pAR)<!-- MEMES:END -->
 
 ---
 

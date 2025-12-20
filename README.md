@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Culture](http://9gag.com/gag/aQzKn5e)
  - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/a4P8dVZ)
- - 💣 [Communication in gaming vs real life, a true story](http://9gag.com/gag/adBMjPD)
- - 😝 [Shabbidabbidibbidabbidibbido](http://9gag.com/gag/a879MOp)
+ - 😝 [Pizza math](http://9gag.com/gag/aQzKnBw)
+ - 💣 [Culture](http://9gag.com/gag/aQzKn5e)
+ - 😝 [Communication in gaming vs real life, a true story](http://9gag.com/gag/adBMjPD)
  - 👉 [Nice](http://9gag.com/gag/avyVLzW)<!-- MEMES:END -->
 
 ---

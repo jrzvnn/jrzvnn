@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
- - 😝 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)
+ - 😝 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
+ - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
  - 💣 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)
  - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
+ - 👉 [Online gaming addict, finally checked out of a hotel in China after a two-year-long stay](http://9gag.com/gag/azxzEyp)<!-- MEMES:END -->
 
 ---
 

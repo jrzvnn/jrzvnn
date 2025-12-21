@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [So odd. Yesterday&#39;s Epstein file release included this photo, a drawer with photos in it, including these. And today, it has quietly vanished from the doj&#39;s website. And, it is of trump in both photos. Full sized photo in comments.](http://9gag.com/gag/aVv8eVK)
  - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
- - 😝 [You being unfazed is so funny but also why are some people so bitter??](http://9gag.com/gag/aO8Ovm2)
- - 💣 [Just casually landing on my friend&#39;s parachute, no biggie](http://9gag.com/gag/aE0bnLo)
+ - 💣 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
  - 😝 [Tis the season..........](http://9gag.com/gag/aAy7wep)
  - 👉 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)<!-- MEMES:END -->
 

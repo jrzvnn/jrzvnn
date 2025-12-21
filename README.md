@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good toast good appetite](http://9gag.com/gag/a1mnYwv)
- - 😝 [Impressive](http://9gag.com/gag/aO8OVOE)
- - 💣 [Someone had a good chuckle at this when he released the app](http://9gag.com/gag/aoy6p00)
- - 😝 [Wall-E reference is perfect for this](http://9gag.com/gag/aByMw9z)
- - 👉 [Because you liked the other one so much..](http://9gag.com/gag/aKGy3PN)<!-- MEMES:END -->
+ - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
+ - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 💣 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
+ - 😝 [BIG but for a petite fairy](http://9gag.com/gag/aW4A6q2)
+ - 👉 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)<!-- MEMES:END -->
 
 ---
 

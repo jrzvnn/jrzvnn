@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Space Heaters &lpar;2025&rpar;: Tested, Measured, and Mistreated](https://www.wired.com/gallery/the-best-space-heaters/)
  - [What Is Lossless Audio, and Do You Really Need It?](https://www.wired.com/story/what-is-lossless-audio-and-do-you-really-need-it/)
  - [8 Best Planners of 2026: Roterunner, Hobonichi, Kokuyo](https://www.wired.com/story/best-paper-planners/)
  - [US CHIPS Act-funded SMART USA Institute, focused on digital twins for chipmaking, says the Department of Commerce will terminate its $285M five-year contract &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/251221/p6#a251221p6)
- - [Q&amp;A with Harvard economist Jason Furman, who consults for OpenAI, on the similarities between the AI boom and the dot-com era, AI&#39;s impact on jobs, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251221/p5#a251221p5)
- - [DataLane, which is using AI to build an identity graph to map local businesses across the US, raised a $22.5M Series A led by Amplify Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251221/p4#a251221p4)<!-- TECH:END -->
+ - [Q&amp;A with Harvard economist Jason Furman, who consults for OpenAI, on the similarities between the AI boom and the dot-com era, AI&#39;s impact on jobs, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251221/p5#a251221p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Because you liked the other one so much..](http://9gag.com/gag/aKGy3PN)
  - 😝 [A guy in a burka knew that he&#39;s exempt from being stopped for a check by the cops](http://9gag.com/gag/ary0NMd)
- - 😝 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
- - 💣 [Making kids happy](http://9gag.com/gag/aGyqD2n)
- - 😝 [Tis the season..........](http://9gag.com/gag/aAy7wep)
- - 👉 [What a goal, pure class](http://9gag.com/gag/aKGy2PQ)<!-- MEMES:END -->
+ - 💣 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
+ - 😝 [Making kids happy](http://9gag.com/gag/aGyqD2n)
+ - 👉 [The cave](http://9gag.com/gag/a6ZzQbA)<!-- MEMES:END -->
 
 ---
 

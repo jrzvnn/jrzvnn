@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
- - 😝 [Making kids happy](http://9gag.com/gag/aGyqD2n)
- - 💣 [This is next level street art](http://9gag.com/gag/a34D738)
- - 😝 [The cave](http://9gag.com/gag/a6ZzQbA)
- - 👉 [Damn that laugh..](http://9gag.com/gag/aQzKMeq)<!-- MEMES:END -->
+ - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
+ - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
+ - 💣 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 😝 [The embarrassment bar has been raised... Ah one day she will know she was actually the lucky one](http://9gag.com/gag/a9yeWb0)
+ - 👉 [You being unfazed is so funny but also why are some people so bitter??](http://9gag.com/gag/aO8Ovm2)<!-- MEMES:END -->
 
 ---
 

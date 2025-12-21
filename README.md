@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at military tech startup Shield AI, recently valued at $5.6B, and its new CEO Gary Steele, who aims to grow annual revenue from $300M to $1B by 2028 &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/251221/p14#a251221p14)
  - [A group of PE firms led by Permira and Warburg Pincus agrees to buy Clearwater Analytics, in a deal valuing the financial software maker at $8.4B including debt &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/251221/p13#a251221p13)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 22, #925](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-22-925/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Dec. 22, #1647](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-22-1647/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 22 #659](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-22-659/#ftag=CAD590a51e)
- - [Echo, which uses AI agents to build Docker images that eliminate vulnerabilities at the source, raised a $35M Series A, bringing its total funding to $50M &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/251221/p12#a251221p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 22 #659](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-22-659/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

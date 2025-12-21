@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Frozen out: Apple cancels &#39;The last Frontier&#39; after just one season](https://appleinsider.com/articles/25/12/21/frozen-out-apple-cancels-the-last-frontier-after-just-one-season?utm_source=rss)
  - [Sources: tech lobbyists say that David Sacks&#39; push for an EO blocking state AI laws undercut their efforts to craft a permanent, bipartisan federal solution &lpar;Politico&rpar;](http://www.techmeme.com/251221/p8#a251221p8)
  - [Job killer](https://www.theverge.com/entertainment/847424/park-chan-wook-no-other-choice-interview)
  - [The best thing I bought this year: The Nintendo Switch 2](https://www.theverge.com/gadgets/845477/nintendo-switch-2-game-system-favorite)
- - [How AIM taught the internet to chat](https://www.theverge.com/podcast/848744/aim-aol-instant-messenger-version-history)
- - [2025: a year in art on The Verge](https://www.theverge.com/tech/841568/art-2025-best)<!-- TECH:END -->
+ - [How AIM taught the internet to chat](https://www.theverge.com/podcast/848744/aim-aol-instant-messenger-version-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

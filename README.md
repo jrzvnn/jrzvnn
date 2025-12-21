@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
  - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
  - 💣 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)
- - 😝 [Does anyone else keep getting this notification?](http://9gag.com/gag/a6ZzM7R)
+ - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
  - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
 
 ---

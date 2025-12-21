@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tis the season..........](http://9gag.com/gag/aAy7wep)
- - 😝 [Making kids happy](http://9gag.com/gag/aGyqD2n)
- - 💣 [The cave](http://9gag.com/gag/a6ZzQbA)
+ - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
+ - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 💣 [If they new, they would suicide themselves](http://9gag.com/gag/aAy7P1p)
  - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
- - 👉 [This is next level street art](http://9gag.com/gag/a34D738)<!-- MEMES:END -->
+ - 👉 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)<!-- MEMES:END -->
 
 ---
 

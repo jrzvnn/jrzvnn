@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese AI chipmaker Moore Threads announces a new generation of chips slated for mass production from 2026, just weeks after its blockbuster IPO in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/251220/p17#a251220p17)
+ - [Surveillance tools exported by China, based on US tech and obtained by Chinese companies, to countries like Nepal are being used to stifle Tibetan refugees &lpar;Associated Press&rpar;](http://www.techmeme.com/251220/p16#a251220p16)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-21/#ftag=CAD590a51e)
  - [A profile of Josh Woodward, the head of Google Labs who is credited with turning around the Gemini app, growing its MAUs from 350M in March to 650M by October &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251220/p15#a251220p15)
- - [S&amp;P Global: data center deals hit $61B globally in 2025; debt issuance nearly doubled YoY to $182B, with Meta raising $62B debt since 2022, ~50% of that in 2025 &lpar;April Roach/CNBC&rpar;](http://www.techmeme.com/251220/p14#a251220p14)
- - [&#39;Landman&#39; Season 2, Episode 6: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-release-schedule/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 21, #924](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-21-924/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 21, #454](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-21-454/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [S&amp;P Global: data center deals hit $61B globally in 2025; debt issuance nearly doubled YoY to $182B, with Meta raising $62B debt since 2022, ~50% of that in 2025 &lpar;April Roach/CNBC&rpar;](http://www.techmeme.com/251220/p14#a251220p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

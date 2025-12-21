@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: The US DHS is investigating whether 6 CISA staffers who were suspended in July misled CISA&#39;s acting director into taking a polygraph, which he failed &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/251221/p11#a251221p11)
+ - [Sources: DHS is investigating whether 6 staffers misled CISA&#39;s acting director into taking a polygraph that he failed, compounding instability at the agency &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/251221/p11#a251221p11)
  - [Source: OpenAI&#39;s compute margin has jumped to about 70% in October from about 52% at the end of 2024 and roughly 35% in January 2024 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251221/p10#a251221p10)
  - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)
  - [You need to listen to these Christmas deep cuts](https://www.theverge.com/column/848710/christmas-song-deep-cuts)

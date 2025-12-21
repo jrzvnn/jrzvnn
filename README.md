@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
+ - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
  - 😝 [BIG but for a petite fairy](http://9gag.com/gag/aW4A6q2)
  - 💣 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
  - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
- - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
+ - 👉 [Online gaming addict, finally checked out of a hotel in China after a two-year-long stay](http://9gag.com/gag/azxzEyp)<!-- MEMES:END -->
 
 ---
 

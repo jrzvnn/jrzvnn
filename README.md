@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
+ - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
  - 😝 [Chile fielded an all women team for the UAE SWAT challenge last year and it went about as well as you&#39;d expect.](http://9gag.com/gag/avyVgXn)
- - 💣 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
+ - 💣 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
  - 😝 [The cave](http://9gag.com/gag/a6ZzQbA)
- - 👉 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)<!-- MEMES:END -->
+ - 👉 [Epstein didn&#39;t](http://9gag.com/gag/aAy7pAR)<!-- MEMES:END -->
 
 ---
 

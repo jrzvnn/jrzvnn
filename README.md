@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BIG but for a petite fairy](http://9gag.com/gag/aW4A6q2)
- - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
- - 💣 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
- - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
+ - 😝 [Impressive](http://9gag.com/gag/aO8OVOE)
+ - 😝 [This is Simo H\u00e4yh\u00e4 - the deadliest sniper in world history, 500 confirmed kills in less than 100 days .He used no scope on his rifle . He held off 4,000 Soviets with only 31 other Finns , he was shot in the face with an exploding bullet and survived, Simo lived to 96 years of age](http://9gag.com/gag/ajPjA9q)
+ - 💣 [Because you liked the other one so much..](http://9gag.com/gag/aKGy3PN)
+ - 😝 [Women. They live longer than men though.](http://9gag.com/gag/agmbG9v)
+ - 👉 [Someone had a good chuckle at this when he released the app](http://9gag.com/gag/aoy6p00)<!-- MEMES:END -->
 
 ---
 

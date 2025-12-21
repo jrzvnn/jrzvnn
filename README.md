@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 😝 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)
- - 💣 [You get what you deserve](http://9gag.com/gag/ary0KP0)
- - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
- - 👉 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)<!-- MEMES:END -->
+ - 😝 [`YOU....are my human`](http://9gag.com/gag/apRXLYE)
+ - 😝 [Because you liked the other one so much..](http://9gag.com/gag/aKGy3PN)
+ - 💣 [A guy in a burka knew that he&#39;s exempt from being stopped for a check by the cops](http://9gag.com/gag/ary0NMd)
+ - 😝 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
+ - 👉 [Making kids happy](http://9gag.com/gag/aGyqD2n)<!-- MEMES:END -->
 
 ---
 

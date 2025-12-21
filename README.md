@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: The US DHS is investigating whether 6 CISA staffers who were suspended in July misled CISA&#39;s acting director into taking a polygraph, which he failed &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/251221/p11#a251221p11)
+ - [Source: OpenAI&#39;s compute margin has jumped to about 70% in October from about 52% at the end of 2024 and roughly 35% in January 2024 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251221/p10#a251221p10)
  - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)
  - [You need to listen to these Christmas deep cuts](https://www.theverge.com/column/848710/christmas-song-deep-cuts)
- - [Sources detail SoftBank&#39;s efforts to raise funds as it races to close its $22.5B funding commitment to OpenAI by the end of this year &lpar;Reuters&rpar;](http://www.techmeme.com/251221/p9#a251221p9)
- - [Frozen out: Apple cancels &#39;The last Frontier&#39; after just one season](https://appleinsider.com/articles/25/12/21/frozen-out-apple-cancels-the-last-frontier-after-just-one-season?utm_source=rss)
- - [The 35 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)<!-- TECH:END -->
+ - [Sources detail SoftBank&#39;s efforts to raise funds as it races to close its $22.5B funding commitment to OpenAI by the end of this year &lpar;Reuters&rpar;](http://www.techmeme.com/251221/p9#a251221p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

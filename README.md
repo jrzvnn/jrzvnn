@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French woman walking home at night in Paris](http://9gag.com/gag/aVv8er2)
+ - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
  - 😝 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)
- - 💣 [BIG but for a petite fairy](http://9gag.com/gag/aW4A6q2)
- - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
- - 👉 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)<!-- MEMES:END -->
+ - 💣 [You get what you deserve](http://9gag.com/gag/ary0KP0)
+ - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 👉 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)<!-- MEMES:END -->
 
 ---
 

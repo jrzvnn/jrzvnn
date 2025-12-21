@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Right to jail](http://9gag.com/gag/aMV6Q61)
- - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
- - 💣 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
- - 😝 [The cave](http://9gag.com/gag/a6ZzQbA)
- - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
+ - 😝 [Good toast good appetite](http://9gag.com/gag/a1mnYwv)
+ - 😝 [Impressive](http://9gag.com/gag/aO8OVOE)
+ - 💣 [Someone had a good chuckle at this when he released the app](http://9gag.com/gag/aoy6p00)
+ - 😝 [Wall-E reference is perfect for this](http://9gag.com/gag/aByMw9z)
+ - 👉 [Because you liked the other one so much..](http://9gag.com/gag/aKGy3PN)<!-- MEMES:END -->
 
 ---
 

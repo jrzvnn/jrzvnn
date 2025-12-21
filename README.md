@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
  - 😝 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
- - 💣 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
- - 👉 [If they new, they would suicide themselves](http://9gag.com/gag/aAy7P1p)<!-- MEMES:END -->
+ - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
+ - 💣 [If they new, they would suicide themselves](http://9gag.com/gag/aAy7P1p)
+ - 😝 [Damn that laugh..](http://9gag.com/gag/aQzKMeq)
+ - 👉 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)<!-- MEMES:END -->
 
 ---
 

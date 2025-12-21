@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Grab Apple&#39;s M5 MacBook Pro 24GB RAM for $1,499 with free 2-day shipping](https://appleinsider.com/articles/25/12/21/grab-apples-m5-macbook-pro-24gb-ram-for-1499-with-free-2-day-shipping?utm_source=rss)
  - [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage)
  - [Sources: DHS is investigating whether 6 staffers misled CISA&#39;s acting director into taking a polygraph that he failed, compounding instability at the agency &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/251221/p11#a251221p11)
- - [Source: OpenAI&#39;s compute margin has jumped to about 70% in October from about 52% at the end of 2024 and roughly 35% in January 2024 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251221/p10#a251221p10)
+ - [Source: OpenAI&#39;s share of revenue after the cost of running AI models for paying users has jumped to ~70% in October, up from ~52% at the end of 2024 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251221/p10#a251221p10)
  - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

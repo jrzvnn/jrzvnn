@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
+ - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
  - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
  - 💣 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
- - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
+ - 😝 [I chose you](http://9gag.com/gag/awyDnxQ)
  - 👉 [If they new, they would suicide themselves](http://9gag.com/gag/aAy7P1p)<!-- MEMES:END -->
 
 ---

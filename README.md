@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
- - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 💣 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
- - 😝 [The embarrassment bar has been raised... Ah one day she will know she was actually the lucky one](http://9gag.com/gag/a9yeWb0)
- - 👉 [You being unfazed is so funny but also why are some people so bitter??](http://9gag.com/gag/aO8Ovm2)<!-- MEMES:END -->
+ - 😝 [You being unfazed is so funny but also why are some people so bitter??](http://9gag.com/gag/aO8Ovm2)
+ - 💣 [Just casually landing on my friend&#39;s parachute, no biggie](http://9gag.com/gag/aE0bnLo)
+ - 😝 [Tis the season..........](http://9gag.com/gag/aAy7wep)
+ - 👉 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)<!-- MEMES:END -->
 
 ---
 

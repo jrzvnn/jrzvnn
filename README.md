@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Job killer](https://www.theverge.com/entertainment/847424/park-chan-wook-no-other-choice-interview)
  - [The best thing I bought this year: The Nintendo Switch 2](https://www.theverge.com/gadgets/845477/nintendo-switch-2-game-system-favorite)
  - [How AIM taught the internet to chat](https://www.theverge.com/podcast/848744/aim-aol-instant-messenger-version-history)
  - [2025: a year in art on The Verge](https://www.theverge.com/tech/841568/art-2025-best)
- - [Q&amp;A with Blizzard President Johanna Faries on company staff bonus transparency, working under Xbox leadership, restoring the NetEase partnership, and more &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251221/p7#a251221p7)
- - [Ace Combat 8 Will Incorporate Dogfighting Tips From Real Jet Pilots](https://www.cnet.com/tech/gaming/ace-combat-8-will-incorporate-dogfighting-tips-from-real-jet-pilots/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Blizzard President Johanna Faries on company staff bonus transparency, working under Xbox leadership, restoring the NetEase partnership, and more &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251221/p7#a251221p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

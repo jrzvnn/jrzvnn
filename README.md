@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [You need to listen to these Christmas deep cuts](https://www.theverge.com/column/848710/christmas-song-deep-cuts)
- - [Sources detail the efforts SoftBank is making to raise the necessary funds as it races to close its $22.5B funding commitment to OpenAI by the end of this year &lpar;Reuters&rpar;](http://www.techmeme.com/251221/p9#a251221p9)
+ - [Sources detail SoftBank&#39;s efforts to raise funds as it races to close its $22.5B funding commitment to OpenAI by the end of this year &lpar;Reuters&rpar;](http://www.techmeme.com/251221/p9#a251221p9)
  - [Frozen out: Apple cancels &#39;The last Frontier&#39; after just one season](https://appleinsider.com/articles/25/12/21/frozen-out-apple-cancels-the-last-frontier-after-just-one-season?utm_source=rss)
  - [The 35 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
  - [Sources: tech lobbyists say that David Sacks&#39; push for an EO blocking state AI laws undercut their efforts to craft a permanent, bipartisan federal solution &lpar;Politico&rpar;](http://www.techmeme.com/251221/p8#a251221p8)<!-- TECH:END -->

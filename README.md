@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2025: a year in art on The Verge](https://www.theverge.com/tech/841568/art-2025-best)
  - [Q&amp;A with Blizzard President Johanna Faries on company staff bonus transparency, working under Xbox leadership, restoring the NetEase partnership, and more &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251221/p7#a251221p7)
- - [Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)
- - [Our favorite stuff of 2025](https://www.theverge.com/tech/848567/best-tech-movies-gadgets-2025-installer)
- - [5 Best Monitors for the Mac Mini &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-monitors-for-mac-mini/)
- - [Research Reveals the Optimal Way to Optimize](https://www.wired.com/story/researchers-discover-the-optimal-way-to-optimize/)<!-- TECH:END -->
+ - [Ace Combat 8 Will Incorporate Dogfighting Tips From Real Jet Pilots](https://www.cnet.com/tech/gaming/ace-combat-8-will-incorporate-dogfighting-tips-from-real-jet-pilots/#ftag=CAD590a51e)
+ - [How to Completely Uninstall McAfee Antivirus Easily](https://www.cnet.com/tech/services-and-software/how-to-uninstall-mcafee-antivirus/#ftag=CAD590a51e)
+ - [We May Not Know How Strong AI Humanoid Robots Really Are](https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

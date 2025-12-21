@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Josh Woodward, the head of Google Labs who is credited with turning around the Gemini app, growing its MAUs from 350M in March to 650M by October &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251220/p15#a251220p15)
  - [S&amp;P Global: data center deals hit $61B globally in 2025; debt issuance nearly doubled YoY to $182B, with Meta raising $62B debt since 2022, ~50% of that in 2025 &lpar;April Roach/CNBC&rpar;](http://www.techmeme.com/251220/p14#a251220p14)
+ - [&#39;Landman&#39; Season 2, Episode 6: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-release-schedule/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 21, #924](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-21-924/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 21, #454](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-21-454/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 21, #1646](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-21-1646/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 21 #658](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-21-658/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 21, #454](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-21-454/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

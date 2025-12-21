@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impressive](http://9gag.com/gag/aO8OVOE)
- - 😝 [Women](http://9gag.com/gag/ary0NgK)
- - 💣 [Good toast good appetite](http://9gag.com/gag/a1mnYwv)
- - 😝 [`YOU....are my human`](http://9gag.com/gag/apRXLYE)
- - 👉 [This is Simo H\u00e4yh\u00e4 - the deadliest sniper in world history, 500 confirmed kills in less than 100 days .He used no scope on his rifle . He held off 4,000 Soviets with only 31 other Finns , he was shot in the face with an exploding bullet and survived, Simo lived to 96 years of age](http://9gag.com/gag/ajPjA9q)<!-- MEMES:END -->
+ - 😝 [BIG but for a petite fairy](http://9gag.com/gag/aW4A6q2)
+ - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
+ - 💣 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
+ - 😝 [The cave](http://9gag.com/gag/a6ZzQbA)
+ - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
 
 ---
 

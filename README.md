@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US CHIPS Act-funded SMART USA Institute, focused on digital twins for chipmaking, says the Department of Commerce will terminate its $285M five-year contract &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/251221/p6#a251221p6)
  - [Q&amp;A with Harvard economist Jason Furman, who consults for OpenAI, on the similarities between the AI boom and the dot-com era, AI&#39;s impact on jobs, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251221/p5#a251221p5)
  - [DataLane, which is using AI to build an identity graph to map local businesses across the US, raised a $22.5M Series A led by Amplify Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251221/p4#a251221p4)
  - [Samsung&#39;s 43&quot; Q8F TV dips to $347 today only, save up to $5,000 across line](https://appleinsider.com/articles/25/12/21/samsungs-43-q8f-tv-dips-to-347-today-only-save-up-to-5000-across-line?utm_source=rss)
- - [Waymo says it temporarily suspended its ride-hailing service in San Francisco during a citywide blackout, as downed traffic lights appeared to halt its vehicles &lpar;Joe Rivano Barros/Mission Local&rpar;](http://www.techmeme.com/251221/p3#a251221p3)
- - [A look at Tokyo-based neocloud provider Datasection, which sources say has a $1.2B+ contract giving Tencent access to a large share of its 15K Blackwell chips &lpar;Financial Times&rpar;](http://www.techmeme.com/251221/p2#a251221p2)<!-- TECH:END -->
+ - [Waymo says it temporarily suspended its ride-hailing service in San Francisco during a citywide blackout, as downed traffic lights appeared to halt its vehicles &lpar;Joe Rivano Barros/Mission Local&rpar;](http://www.techmeme.com/251221/p3#a251221p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

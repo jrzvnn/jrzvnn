@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Blizzard President Johanna Faries on company staff bonus transparency, working under Xbox leadership, restoring the NetEase partnership, and more &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251221/p7#a251221p7)
+ - [Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)
+ - [Our favorite stuff of 2025](https://www.theverge.com/tech/848567/best-tech-movies-gadgets-2025-installer)
  - [5 Best Monitors for the Mac Mini &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-monitors-for-mac-mini/)
- - [Research Reveals the Optimal Way to Optimize](https://www.wired.com/story/researchers-discover-the-optimal-way-to-optimize/)
- - [The Winter Solstice Is Here, and With It, the Longest Night](https://www.cnet.com/science/the-longest-night-a-short-guide-to-the-winter-solstice/#ftag=CAD590a51e)
- - [8 Best Space Heaters &lpar;2025&rpar;: Tested, Measured, and Mistreated](https://www.wired.com/gallery/the-best-space-heaters/)
- - [The 12 Best Foods Naturally Packed With Probiotics for a Healthy Gut](https://www.cnet.com/health/nutrition/probiotic-rich-foods-for-healthy-gut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Research Reveals the Optimal Way to Optimize](https://www.wired.com/story/researchers-discover-the-optimal-way-to-optimize/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epstein didn&#39;t](http://9gag.com/gag/aAy7pAR)
  - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
- - 💣 [Fan service](http://9gag.com/gag/a2vVqVD)
- - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
- - 👉 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)<!-- MEMES:END -->
+ - 😝 [If they new, they would suicide themselves](http://9gag.com/gag/aAy7P1p)
+ - 💣 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
+ - 👉 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
  - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 💣 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)
+ - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
+ - 💣 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
  - 😝 [The cave](http://9gag.com/gag/a6ZzQbA)
- - 👉 [Because you liked the other one so much..](http://9gag.com/gag/aKGy3PN)<!-- MEMES:END -->
+ - 👉 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)<!-- MEMES:END -->
 
 ---
 

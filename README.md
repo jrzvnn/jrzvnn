@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage)
  - [Sources: DHS is investigating whether 6 staffers misled CISA&#39;s acting director into taking a polygraph that he failed, compounding instability at the agency &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/251221/p11#a251221p11)
  - [Source: OpenAI&#39;s compute margin has jumped to about 70% in October from about 52% at the end of 2024 and roughly 35% in January 2024 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251221/p10#a251221p10)
  - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)
- - [You need to listen to these Christmas deep cuts](https://www.theverge.com/column/848710/christmas-song-deep-cuts)
- - [Sources detail SoftBank&#39;s efforts to raise funds as it races to close its $22.5B funding commitment to OpenAI by the end of this year &lpar;Reuters&rpar;](http://www.techmeme.com/251221/p9#a251221p9)<!-- TECH:END -->
+ - [You need to listen to these Christmas deep cuts](https://www.theverge.com/column/848710/christmas-song-deep-cuts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

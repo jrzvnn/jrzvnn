@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
  - 😝 [So odd. Yesterday&#39;s Epstein file release included this photo, a drawer with photos in it, including these. And today, it has quietly vanished from the doj&#39;s website. And, it is of trump in both photos. Full sized photo in comments.](http://9gag.com/gag/aVv8eVK)
  - 💣 [Send help?](http://9gag.com/gag/aQzK91K)
- - 😝 [He simply understands that everybody is there to see him!](http://9gag.com/gag/aAy7D62)
+ - 😝 [For the boys](http://9gag.com/gag/aqyO11P)
  - 👉 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)<!-- MEMES:END -->
 
 ---

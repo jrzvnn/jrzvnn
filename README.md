@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
- - 😝 [The embarrassment bar has been raised... Ah one day she will know she was actually the lucky one](http://9gag.com/gag/a9yeWb0)
- - 💣 [Damn that laugh..](http://9gag.com/gag/aQzKMeq)
- - 😝 [50cent is a menace !!](http://9gag.com/gag/ajPjXN1)
- - 👉 [A toxic fan base is the worst thing](http://9gag.com/gag/aAy7DDE)<!-- MEMES:END -->
+ - 😝 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
+ - 😝 [So odd. Yesterday&#39;s Epstein file release included this photo, a drawer with photos in it, including these. And today, it has quietly vanished from the doj&#39;s website. And, it is of trump in both photos. Full sized photo in comments.](http://9gag.com/gag/aVv8eVK)
+ - 💣 [Anon outsmarted the science](http://9gag.com/gag/a7oBZ8r)
+ - 😝 [For the boys](http://9gag.com/gag/aqyO11P)
+ - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
 
 ---
 

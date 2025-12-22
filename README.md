@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adam Mosseri says &quot;maybe we&#39;ll need&quot; premium longform video for Instagram, and that TikTok&#39;s US sale turmoil has given Meta time to retune algorithms &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/251222/p1#a251222p1)
  - [Waymo resumes robotaxi service in San Francisco after a blackout, and says most active trips were completed before vehicles returned to depots or pulled over &lpar;CNBC&rpar;](http://www.techmeme.com/251221/p18#a251221p18)
  - [Uber plans to trial driverless taxis in London using Baidu&#39;s Apollo Go RT6 robotaxis, starting in H1 2026 with services available by the end of 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251221/p17#a251221p17)
  - [Honey: all the news about PayPal’s alleged scam coupon app](https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees)
- - [Some experts in the human-computer interaction field say making AI chatbots act humanlike creates cognitive dissonance for users over how much to trust them &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/251221/p16#a251221p16)
- - [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage)<!-- TECH:END -->
+ - [Some experts in the human-computer interaction field say making AI chatbots act humanlike creates cognitive dissonance for users over how much to trust them &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/251221/p16#a251221p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

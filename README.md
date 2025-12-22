@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [OpenAI’s Child Exploitation Reports Increased Sharply This Year](https://www.wired.com/story/openai-child-safety-reports-ncmec/)
  - [Instacart scraps AI pricing tests that made some products more expensive](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight)
- - [Alphabet agrees to acquire clean energy developer Intersect for $4.75B in cash, and existing debt, as part of its push to expand its AI data center footprint &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p16#a251222p16)
+ - [Alphabet agrees to acquire data center company Intersect for $4.75B in cash, plus its existing debt, as part of its push to expand its AI data center footprint &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p16#a251222p16)
  - [Deals: AirPods Pro 3 $199, Apple Watch Series 11 $299, M4 MacBook Air $749 with delivery by Christmas](https://appleinsider.com/articles/25/12/22/deals-airpods-pro-3-199-apple-watch-series-11-299-m4-macbook-air-749-with-delivery-by-christmas?utm_source=rss)
  - [iPhone Fold crease-free screen glass may not be ready yet](https://appleinsider.com/articles/25/12/22/iphone-fold-crease-free-screen-glass-may-not-be-ready-yet?utm_source=rss)<!-- TECH:END -->
 

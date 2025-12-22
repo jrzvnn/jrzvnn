@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italy fines Apple $115 million over App Tracking Transparency](https://appleinsider.com/articles/25/12/22/italy-fines-apple-115-million-over-app-tracking-transparency?utm_source=rss)
- - [Sources: Nvidia plans to begin shipping its H200 chips to China before mid-February 2026 and expects initial shipments to be ~40,000 to 80,000 H200 units &lpar;Reuters&rpar;](http://www.techmeme.com/251222/p12#a251222p12)
- - [The Best Japanese Planners &lpar;2026&rpar;: Hobonichi Techo, Kokuyo Jibun Techo](https://www.wired.com/story/japanese-planners-explained/)
- - [Chinese AI chipmaker Biren Technology plans to raise up to ~$623M in a Hong Kong IPO, pricing shares at ~$2.19 to ~$2.52, and expects trading to start January 2 &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/251222/p11#a251222p11)
- - [Investigation: internal Binance files show it failed to stop hundreds of millions in crypto from flowing through suspicious accounts, even after a 2023 US deal &lpar;Financial Times&rpar;](http://www.techmeme.com/251222/p10#a251222p10)<!-- TECH:END -->
+ - [It’s finally time to retire the word ‘podcast’](https://www.theverge.com/entertainment/842457/podcast-show-name-change)
+ - [Inside Final Cut Pro -- How Apple abandoned Hollywood](https://appleinsider.com/articles/25/12/19/inside-final-cut-pro----apples-superb-video-editing-suite-and-a-huge-mistake?utm_source=rss)
+ - [Apple cozies up to Samsung as RAM gets ridiculously expensive](https://appleinsider.com/articles/25/12/22/apple-cozies-up-to-samsung-as-ram-gets-ridiculously-expensive?utm_source=rss)
+ - [Paramount says Larry Ellison &quot;agreed to provide an irrevocable personal guarantee of $40.4B&quot; for its WBD bid, after WBD&#39;s board raised concerns about the offer &lpar;Sara Salinas/CNBC&rpar;](http://www.techmeme.com/251222/p14#a251222p14)
+ - [Don&#39;t expect big changes in the iPhone 18 Pro design](https://appleinsider.com/articles/25/12/22/dont-expect-big-changes-in-the-iphone-18-pro-design?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

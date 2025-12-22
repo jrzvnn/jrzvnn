@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indie Game Awards retracts Expedition 33 prizes due to generative AI](https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro)
+ - [Save $300 on M4 MacBook Air with 24GB RAM, 1TB SSD - now just $1,299](https://appleinsider.com/articles/25/12/22/save-300-on-m4-macbook-air-with-24gb-ram-1tb-ssd---now-just-1299?utm_source=rss)
  - [FanDuel and CME Group launch a prediction market app called FanDuel Predicts in five US states, just days after DraftKings rolled out a similar product &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/251222/p19#a251222p19)
  - [Italy&#39;s competition watchdog fines Apple €98.6M, saying the company&#39;s ATT rules are &quot;disproportionate&quot; and &quot;harmful&quot; to app developers and advertisers &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251222/p18#a251222p18)
- - [Sources: Erebor, Palmer Luckey&#39;s digital bank, raised $350M led by Lux Capital at a $4.35B post-money valuation; it secured FDIC approval last week &lpar;Axios&rpar;](http://www.techmeme.com/251222/p17#a251222p17)
- - [Netflix doesn&amp;#8217;t stream its &amp;#8216;Originals&amp;#8217; forever, here are some that may leave in 2026](https://www.theverge.com/news/849044/netflix-original-leaving-streaming-platform-2026)
- - [The Beats Studio Pro headphones are $200 off today](https://www.theverge.com/gadgets/849065/beats-headphones-pixel-10-paperwhite-deals-sales)<!-- TECH:END -->
+ - [Sources: Erebor, Palmer Luckey&#39;s digital bank, raised $350M led by Lux Capital at a $4.35B post-money valuation; it secured FDIC approval last week &lpar;Axios&rpar;](http://www.techmeme.com/251222/p17#a251222p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

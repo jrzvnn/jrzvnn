@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
- - 😝 [So odd. Yesterday&#39;s Epstein file release included this photo, a drawer with photos in it, including these. And today, it has quietly vanished from the doj&#39;s website. And, it is of trump in both photos. Full sized photo in comments.](http://9gag.com/gag/aVv8eVK)
- - 💣 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
- - 😝 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
- - 👉 [Found this... And I agree](http://9gag.com/gag/a4P8jVp)<!-- MEMES:END -->
+ - 😝 [What a goal, pure class](http://9gag.com/gag/aKGy2PQ)
+ - 😝 [Wall-E reference is perfect for this](http://9gag.com/gag/aByMw9z)
+ - 💣 [The internet on a good day](http://9gag.com/gag/awyDnGQ)
+ - 😝 [Bend Your Stress](http://9gag.com/gag/azxz85j)
+ - 👉 [The embarrassment bar has been raised... Ah one day she will know she was actually the lucky one](http://9gag.com/gag/a9yeWb0)<!-- MEMES:END -->
 
 ---
 

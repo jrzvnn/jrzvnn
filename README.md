@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [6 Best Dehumidifiers to Keep Your Home Mold-Free &lpar;2026&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
  - [ChatGPT’s yearly recap sums up your conversations with the chatbot](https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped)
  - [HelloFresh Meal Kit’s Discount Code for December 2025 Unlocks a Free Zwilling Knife](https://www.wired.com/story/hellofresh-zwilling-chef-knife-deal/)
- - [Sources: Nvidia&#39;s DGX Cloud is merging with the engineering unit, pivoting from selling cloud services to enterprises to supporting internal AI development &lpar;The Information&rpar;](http://www.techmeme.com/251222/p23#a251222p23)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 23, #1648](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-23-1648/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung&#39;s &#39;Wide Fold&#39; May Bring New Dimension to Foldable Phones, Report Says](https://www.cnet.com/tech/mobile/samsung-wide-fold-display-design-foldable-phone-competition/#ftag=CAD590a51e)
+ - [Best 3D Printing Filament and Which to Buy in 2025](https://www.cnet.com/tech/computing/best-3d-printing-filament/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
- - 😝 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
- - 💣 [So odd. Yesterday&#39;s Epstein file release included this photo, a drawer with photos in it, including these. And today, it has quietly vanished from the doj&#39;s website. And, it is of trump in both photos. Full sized photo in comments.](http://9gag.com/gag/aVv8eVK)
- - 😝 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
- - 👉 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)<!-- MEMES:END -->
+ - 😝 [Just smile](http://9gag.com/gag/aPA0BwG)
+ - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
+ - 💣 [Truth is spoken](http://9gag.com/gag/a5QArLo)
+ - 😝 [I was there Gandalf, I was there...](http://9gag.com/gag/a6Zzb9A)
+ - 👉 [This is next level street art](http://9gag.com/gag/a34D738)<!-- MEMES:END -->
 
 ---
 

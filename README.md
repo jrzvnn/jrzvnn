@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vince Zampella, former CEO of Infinity Ward, the studio behind Call of Duty, died Sunday at 55 in a single-car crash in Southern California &lpar;NBC Los Angeles&rpar;](http://www.techmeme.com/251222/p22#a251222p22)
  - [Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)
  - [The Justice Department Just Released More Epstein Files](https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/)
  - [iPhone XS, iPhone XR, Apple TV HD get critical security updates](https://appleinsider.com/articles/25/12/22/iphone-xs-iphone-xr-apple-tv-hd-get-critical-security-updates?utm_source=rss)
- - [Chinese AI startup Z.ai releases GLM-4.7, an open-weight model that Z.ai says delivers significant improvements in coding performance compared to GLM-4.6 &lpar;Z.ai&rpar;](http://www.techmeme.com/251222/p21#a251222p21)
- - [Pirate library rips 86 million of the most popular songs on Spotify](https://www.theverge.com/news/849141/spotify-scrape-attack-breach-annas-archive-music-300tb-download)<!-- TECH:END -->
+ - [Chinese AI startup Z.ai releases GLM-4.7, an open-weight model that Z.ai says delivers significant improvements in coding performance compared to GLM-4.6 &lpar;Z.ai&rpar;](http://www.techmeme.com/251222/p21#a251222p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

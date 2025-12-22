@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo resumes robotaxi service in San Francisco after a blackout, and says most active trips were completed before vehicles returned to depots or pulled over &lpar;CNBC&rpar;](http://www.techmeme.com/251221/p18#a251221p18)
  - [Uber plans to trial driverless taxis in London using Baidu&#39;s Apollo Go RT6 robotaxis, starting in H1 2026 with services available by the end of 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251221/p17#a251221p17)
  - [Honey: all the news about PayPal’s alleged scam coupon app](https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees)
  - [Some experts in the human-computer interaction field say making AI chatbots act humanlike creates cognitive dissonance for users over how much to trust them &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/251221/p16#a251221p16)
- - [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-22/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

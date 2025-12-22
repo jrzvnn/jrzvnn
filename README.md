@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If they new, they would suicide themselves](http://9gag.com/gag/aAy7P1p)
- - 😝 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
- - 💣 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 😝 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
+ - 💣 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
  - 😝 [If Murder by words was a picture](http://9gag.com/gag/aD2LWN7)
- - 👉 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)<!-- MEMES:END -->
+ - 👉 [Found this... And I agree](http://9gag.com/gag/a4P8jVp)<!-- MEMES:END -->
 
 ---
 

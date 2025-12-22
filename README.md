@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
- - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 💣 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
- - 😝 [For the boys](http://9gag.com/gag/aqyO11P)
- - 👉 [Found this... And I agree](http://9gag.com/gag/a4P8jVp)<!-- MEMES:END -->
+ - 😝 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - 😝 [The embarrassment bar has been raised... Ah one day she will know she was actually the lucky one](http://9gag.com/gag/a9yeWb0)
+ - 💣 [Damn that laugh..](http://9gag.com/gag/aQzKMeq)
+ - 😝 [50cent is a menace !!](http://9gag.com/gag/ajPjXN1)
+ - 👉 [A toxic fan base is the worst thing](http://9gag.com/gag/aAy7DDE)<!-- MEMES:END -->
 
 ---
 

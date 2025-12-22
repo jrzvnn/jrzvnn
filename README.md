@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sequoia, a16z, and other VC firms invested $1.2B+ into police and public safety tech startups over the past year, following the success of Palantir and others &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/251222/p9#a251222p9)
+ - [People Are Using Sora 2 to Make Disturbing Videos With AI-Generated Kids](https://www.wired.com/story/people-are-using-sora-2-to-make-child-fetish-content/)
  - [Visa-holding staff should not leave the US, warns Apple](https://appleinsider.com/articles/25/12/22/visa-holding-staff-should-not-leave-the-us-warns-apple?utm_source=rss)
  - [How the global AI boom is driven by thousands of newcomers, diluting Big Tech&#39;s infrastructure dominance; US data center credit deals hit $178.5B in 2025 so far &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p8#a251222p8)
- - [Tech Disrupted Friendship. It’s Time to Bring It Back](https://www.wired.com/story/expired-tired-wired-ai-friends/)
- - [Brain Gear Is the Hot New Wearable](https://www.wired.com/story/expired-tired-wired-wearables/)
- - [How Elon Musk Won His No Good, Very Bad Year](https://www.wired.com/story/expired-tired-wired-tesla/)<!-- TECH:END -->
+ - [Tech Disrupted Friendship. It’s Time to Bring It Back](https://www.wired.com/story/expired-tired-wired-ai-friends/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

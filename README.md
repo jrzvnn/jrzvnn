@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at stablecoin-powered neobanks like Rizon and Dakota that are offering dollar-denominated digital banking services to customers worldwide &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251222/p3#a251222p3)
  - [Q&amp;A with iRobot co-founder Colin Angle on the company&#39;s Chapter 11 bankruptcy, regulatory pressure that killed Amazon&#39;s deal, his new robotics startup, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251222/p2#a251222p2)
  - [Grab Apple&#39;s M4 MacBook Air for $749, laptops start at just $429](https://appleinsider.com/articles/25/12/17/grab-apples-m4-macbook-air-for-749-laptops-start-at-just-409?utm_source=rss)
  - [Adam Mosseri says &quot;maybe we&#39;ll need&quot; premium longform video for Instagram, and that TikTok&#39;s US sale turmoil has given Meta time to retune algorithms &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/251222/p1#a251222p1)
- - [Waymo resumes robotaxi service in SF after suspending it during a blackout, and says most trips were completed before vehicles returned to depots or pulled over &lpar;CNBC&rpar;](http://www.techmeme.com/251221/p18#a251221p18)
- - [Uber plans to trial driverless taxis in London using Baidu&#39;s Apollo Go RT6 robotaxis, starting in H1 2026 with services available by the end of 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251221/p17#a251221p17)<!-- TECH:END -->
+ - [Waymo resumes robotaxi service in SF after suspending it during a blackout, and says most trips were completed before vehicles returned to depots or pulled over &lpar;CNBC&rpar;](http://www.techmeme.com/251221/p18#a251221p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

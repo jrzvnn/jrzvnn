@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI details efforts to secure its ChatGPT Atlas browser against prompt injection attacks, including building an &quot;LLM-based automated attacker&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251222/p25#a251222p25)
  - [The ‘Epstein’s Suicide’ Video in the Latest DOJ Release Isn’t What It Seems](https://www.wired.com/story/the-epsteins-suicide-video-in-the-latest-doj-release-isnt-what-it-seems/)
  - [How to Get a Free PC Game Every Day From the Epic Games Store](https://www.cnet.com/tech/gaming/how-to-get-a-free-pc-game-every-day-from-the-epic-games-store/#ftag=CAD590a51e)
  - [Coinbase agrees to acquire prediction markets startup The Clearing Company for an undisclosed sum; the startup was founded in 2025 and raised a $15M seed &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/251222/p24#a251222p24)
- - [Best Gaming Monitor for 2025](https://www.cnet.com/tech/computing/best-gaming-monitor/#ftag=CAD590a51e)
- - [6 Best Dehumidifiers to Keep Your Home Mold-Free &lpar;2026&rpar;](https://www.wired.com/gallery/best-dehumidifier/)<!-- TECH:END -->
+ - [Best Gaming Monitor for 2025](https://www.cnet.com/tech/computing/best-gaming-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

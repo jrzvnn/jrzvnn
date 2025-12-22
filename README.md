@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 😝 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
- - 💣 [Send help?](http://9gag.com/gag/aQzK91K)
- - 😝 [And a homemade plum jam](http://9gag.com/gag/a9yeAwm)
- - 👉 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)<!-- MEMES:END -->
+ - 😝 [Jeanette Marken, 75, was br*tally att*cked outside the King County Courthouse in downtown Seattle by 42-year-old Fale Vaigalepa Pea. The suspect swung a wooden board with a screw at the end, striking Marken and gouging out her eye. Doctors have told her she will not regain sight](http://9gag.com/gag/ary05o5)
+ - 😝 [French woman walking home at night in Paris](http://9gag.com/gag/aVv8er2)
+ - 💣 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
+ - 😝 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
+ - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
 
 ---
 

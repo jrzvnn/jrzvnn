@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
  - 😝 [Just smile](http://9gag.com/gag/aPA0BwG)
+ - 😝 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)
  - 💣 [Truth is spoken](http://9gag.com/gag/a5QArLo)
  - 😝 [This is next level street art](http://9gag.com/gag/a34D738)
- - 👉 [Bend Your Stress](http://9gag.com/gag/azxz85j)<!-- MEMES:END -->
+ - 👉 [What a goal, pure class](http://9gag.com/gag/aKGy2PQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HelloFresh Meal Kit&#39;s Discount Code for December 2025 Unlocks a Free Zwilling Knife](https://www.wired.com/story/hellofresh-zwilling-chef-knife-deal/)
+ - [6 Best Dehumidifiers to Keep Your Home Mold-Free &lpar;2026&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
+ - [ChatGPT’s yearly recap sums up your conversations with the chatbot](https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped)
+ - [HelloFresh Meal Kit’s Discount Code for December 2025 Unlocks a Free Zwilling Knife](https://www.wired.com/story/hellofresh-zwilling-chef-knife-deal/)
  - [Sources: Nvidia&#39;s DGX Cloud is merging with the engineering unit, pivoting from selling cloud services to enterprises to supporting internal AI development &lpar;The Information&rpar;](http://www.techmeme.com/251222/p23#a251222p23)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 23, #1648](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-23-1648/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 23 #660](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-23-660/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 23, #926](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-23-926/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 23, #1648](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-23-1648/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

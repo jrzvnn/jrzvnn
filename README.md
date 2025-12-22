@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: AirPods Pro 3 $199, Apple Watch Series 11 $299, M4 MacBook Air $749 with delivery by Christmas](https://appleinsider.com/articles/25/12/22/deals-airpods-pro-3-199-apple-watch-series-11-299-m4-macbook-air-749-with-delivery-by-christmas?utm_source=rss)
+ - [iPhone Fold crease-free screen glass may not be ready yet](https://appleinsider.com/articles/25/12/22/iphone-fold-crease-free-screen-glass-may-not-be-ready-yet?utm_source=rss)
+ - [Chipwrecked](https://www.theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud)
  - [Apple COO Sabih Khan tells China the company is committed to long-term partnerships](https://appleinsider.com/articles/25/12/22/apple-coo-sabih-khan-tells-china-the-company-is-committed-to-long-term-partnerships?utm_source=rss)
- - [Resideo&#39;s Scott Harkins talks about the new Honeywell Home X8S on HomeKit Insider](https://appleinsider.com/articles/25/12/22/resideos-scott-harkins-talks-about-the-new-honeywell-home-x8s-on-homekit-insider?utm_source=rss)
- - [New 2025 Christmas Movies to Stream on Netflix, Prime Video And More Today](https://www.cnet.com/tech/services-and-software/new-2025-christmas-movies/#ftag=CAD590a51e)
- - [The Doomsday Glacier Is Getting Closer and Closer to Irreversible Collapse](https://www.wired.com/story/the-doomsday-glacier-is-getting-closer-and-closer-to-irreversible-collapse/)
- - [Apple cozies up to Samsung as RAM gets ridiculously expensive](https://appleinsider.com/articles/25/12/22/apple-cozies-up-to-samsung-as-ram-gets-ridiculously-expensive?utm_source=rss)<!-- TECH:END -->
+ - [Resideo&#39;s Scott Harkins talks about the new Honeywell Home X8S on HomeKit Insider](https://appleinsider.com/articles/25/12/22/resideos-scott-harkins-talks-about-the-new-honeywell-home-x8s-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

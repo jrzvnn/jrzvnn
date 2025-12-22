@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple cozies up to Samsung as RAM gets ridiculously expensive](https://appleinsider.com/articles/25/12/22/apple-cozies-up-to-samsung-as-ram-gets-ridiculously-expensive?utm_source=rss)
+ - [iPhone Air review three months later: Compromise is good](https://appleinsider.com/articles/25/12/22/iphone-air-review-three-months-later-compromise-is-good?utm_source=rss)
+ - [Boox Note Air 5 C review: An already good e-ink reader made a little bit better](https://appleinsider.com/articles/25/12/22/boox-note-air-5-c-review-an-already-good-e-ink-reader-made-a-little-bit-better?utm_source=rss)
  - [Samsung &amp;#8216;Wide Fold&amp;#8217; rumored to rival Apple’s foldable next year](https://www.theverge.com/news/848934/samsung-wide-fold-apple-iphone-foldable-4-3)
- - [Instacart says it is ending all item price tests effective immediately, and won&#39;t charge different prices for the same items, after a report into the practice &lpar;Chris Wack/Wall Street Journal&rpar;](http://www.techmeme.com/251222/p15#a251222p15)
- - [It’s finally time to retire the word ‘podcast’](https://www.theverge.com/entertainment/842457/podcast-show-name-change)
- - [Inside Final Cut Pro -- How Apple abandoned Hollywood](https://appleinsider.com/articles/25/12/19/inside-final-cut-pro----apples-superb-video-editing-suite-and-a-huge-mistake?utm_source=rss)
- - [Apple cozies up to Samsung as RAM gets ridiculously expensive](https://appleinsider.com/articles/25/12/22/apple-cozies-up-to-samsung-as-ram-gets-ridiculously-expensive?utm_source=rss)<!-- TECH:END -->
+ - [Instacart says it is ending all item price tests effective immediately, and won&#39;t charge different prices for the same items, after a report into the practice &lpar;Chris Wack/Wall Street Journal&rpar;](http://www.techmeme.com/251222/p15#a251222p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

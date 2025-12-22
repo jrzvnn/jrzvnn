@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: internal Binance files show it failed to stop hundreds of millions in crypto from flowing through suspicious accounts, even after a 2023 US deal &lpar;Financial Times&rpar;](http://www.techmeme.com/251222/p10#a251222p10)
- - [Sequoia, a16z, and other VC firms invested $1.2B+ into police and public safety tech startups over the past year, following the success of Palantir and others &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/251222/p9#a251222p9)
- - [People Are Using Sora 2 to Make Disturbing Videos With AI-Generated Kids](https://www.wired.com/story/people-are-using-sora-2-to-make-child-fetish-content/)
- - [Visa-holding staff should not leave the US, warns Apple](https://appleinsider.com/articles/25/12/22/visa-holding-staff-should-not-leave-the-us-warns-apple?utm_source=rss)
- - [How the global AI boom is driven by thousands of newcomers, diluting Big Tech&#39;s infrastructure dominance; US data center credit deals hit $178.5B in 2025 so far &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p8#a251222p8)<!-- TECH:END -->
+ - [Italy fines Apple $115 million over App Tracking Transparency](https://appleinsider.com/articles/25/12/22/italy-fines-apple-115-million-over-app-tracking-transparency?utm_source=rss)
+ - [Sources: Nvidia plans to begin shipping its H200 chips to China before mid-February 2026 and expects initial shipments to be ~40,000 to 80,000 H200 units &lpar;Reuters&rpar;](http://www.techmeme.com/251222/p12#a251222p12)
+ - [The Best Japanese Planners &lpar;2026&rpar;: Hobonichi Techo, Kokuyo Jibun Techo](https://www.wired.com/story/japanese-planners-explained/)
+ - [Chinese AI chipmaker Biren Technology plans to raise up to ~$623M in a Hong Kong IPO, pricing shares at ~$2.19 to ~$2.52, and expects trading to start January 2 &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/251222/p11#a251222p11)
+ - [Investigation: internal Binance files show it failed to stop hundreds of millions in crypto from flowing through suspicious accounts, even after a 2023 US deal &lpar;Financial Times&rpar;](http://www.techmeme.com/251222/p10#a251222p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

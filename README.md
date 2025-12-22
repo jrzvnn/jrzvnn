@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bless her heart](http://9gag.com/gag/aVv8qDd)
- - 😝 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
- - 💣 [Out of all the people, I didn&#39;t think he would be in the files. I really used to look up to him.](http://9gag.com/gag/azxzA4p)
+ - 😝 [50cent is a menace !!](http://9gag.com/gag/ajPjXN1)
+ - 😝 [German precision](http://9gag.com/gag/a9yeAbW)
+ - 💣 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
  - 😝 [And a homemade plum jam](http://9gag.com/gag/a9yeAwm)
- - 👉 [When Your Opponent Is Built Different](http://9gag.com/gag/aByMwWA)<!-- MEMES:END -->
+ - 👉 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)<!-- MEMES:END -->
 
 ---
 

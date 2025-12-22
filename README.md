@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Future of EVs Is Foggy—but California Still Wants More of Them](https://www.wired.com/story/the-future-of-evs-is-foggy-but-california-still-wants-more-of-them/)
- - [Filings: Chinese AI startups Zhipu and MiniMax report 2024 revenue of $44.4M and $30.5M, respectively, as both prepare for Hong Kong IPOs in the coming weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p7#a251222p7)
- - [A Christmas Miracle: Finally Making a Cup of Coffee Your Coffee-Snob Cousin Won&#39;t Criticize](https://www.cnet.com/news/best-way-brew-coffee/#ftag=CAD590a51e)
- - [Google&#39;s TPUs and Gemini are competitive but Nvidia&#39;s and OpenAI&#39;s first-mover advantage makes their lead seem durable, and Google faces the innovator&#39;s dilemma &lpar;SiliconANGLE&rpar;](http://www.techmeme.com/251222/p6#a251222p6)
- - [Some US schools are deploying AI surveillance tech like facial recognition and listening devices; critics say there is little evidence they make school safer &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/251222/p5#a251222p5)<!-- TECH:END -->
+ - [Visa-holding staff should not leave the US, warns Apple](https://appleinsider.com/articles/25/12/22/visa-holding-staff-should-not-leave-the-us-warns-apple?utm_source=rss)
+ - [How the global AI boom is driven by thousands of newcomers, diluting Big Tech&#39;s infrastructure dominance; US data center credit deals hit $178.5B in 2025 so far &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p8#a251222p8)
+ - [Tech Disrupted Friendship. It’s Time to Bring It Back](https://www.wired.com/story/expired-tired-wired-ai-friends/)
+ - [Brain Gear Is the Hot New Wearable](https://www.wired.com/story/expired-tired-wired-wearables/)
+ - [How Elon Musk Won His No Good, Very Bad Year](https://www.wired.com/story/expired-tired-wired-tesla/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

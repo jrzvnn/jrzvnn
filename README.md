@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone XS, iPhone XR, Apple TV HD get critical security updates](https://appleinsider.com/articles/25/12/22/iphone-xs-iphone-xr-apple-tv-hd-get-critical-security-updates?utm_source=rss)
+ - [Chinese AI startup Z.ai releases GLM-4.7, an open-weight model that Z.ai says delivers significant improvements in coding performance compared to GLM-4.6 &lpar;Z.ai&rpar;](http://www.techmeme.com/251222/p21#a251222p21)
  - [Pirate library rips 86 million of the most popular songs on Spotify](https://www.theverge.com/news/849141/spotify-scrape-attack-breach-annas-archive-music-300tb-download)
  - [Birdfy’s Hum Bloom captures 120fps slow motion footage of hummingbirds](https://www.theverge.com/news/849140/birdfy-smart-birdfeeder-hum-bloom-hummingbird-feeder-vista-slow-motion)
- - [OpenAI rolls out Your Year with ChatGPT, a Spotify Wrapped-like feature, to Free, Plus, and Pro users in the US, the UK, Canada, Australia, and New Zealand &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251222/p20#a251222p20)
- - [How Much Money Can You Save with an EV vs. a Gas Car? We Did the Math](https://www.cnet.com/roadshow/news/ev-gas-vehicle-cost-comparison-savings/#ftag=CAD590a51e)
- - [Indie Game Awards retracts Expedition 33 prizes due to generative AI](https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro)<!-- TECH:END -->
+ - [OpenAI rolls out Your Year with ChatGPT, a Spotify Wrapped-like feature, to Free, Plus, and Pro users in the US, the UK, Canada, Australia, and New Zealand &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251222/p20#a251222p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

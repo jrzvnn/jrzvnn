@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung &amp;#8216;Wide Fold&amp;#8217; rumored to rival Apple’s foldable next year](https://www.theverge.com/news/848934/samsung-wide-fold-apple-iphone-foldable-4-3)
  - [Instacart says it is ending all item price tests effective immediately, and won&#39;t charge different prices for the same items, after a report into the practice &lpar;Chris Wack/Wall Street Journal&rpar;](http://www.techmeme.com/251222/p15#a251222p15)
+ - [It’s finally time to retire the word ‘podcast’](https://www.theverge.com/entertainment/842457/podcast-show-name-change)
  - [Inside Final Cut Pro -- How Apple abandoned Hollywood](https://appleinsider.com/articles/25/12/19/inside-final-cut-pro----apples-superb-video-editing-suite-and-a-huge-mistake?utm_source=rss)
- - [Apple cozies up to Samsung as RAM gets ridiculously expensive](https://appleinsider.com/articles/25/12/22/apple-cozies-up-to-samsung-as-ram-gets-ridiculously-expensive?utm_source=rss)
- - [Paramount says Larry Ellison &quot;agreed to provide an irrevocable personal guarantee of $40.4B&quot; for its WBD bid, after WBD&#39;s board raised concerns about the offer &lpar;Sara Salinas/CNBC&rpar;](http://www.techmeme.com/251222/p14#a251222p14)
- - [Don&#39;t expect big changes in the iPhone 18 Pro design](https://appleinsider.com/articles/25/12/22/dont-expect-big-changes-in-the-iphone-18-pro-design?utm_source=rss)<!-- TECH:END -->
+ - [Apple cozies up to Samsung as RAM gets ridiculously expensive](https://appleinsider.com/articles/25/12/22/apple-cozies-up-to-samsung-as-ram-gets-ridiculously-expensive?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

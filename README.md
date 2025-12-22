@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indie Game Awards retracts Expedition 33 prizes due to generative AI](https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro)
- - [Save $300 on M4 MacBook Air with 24GB RAM, 1TB SSD - now just $1,299](https://appleinsider.com/articles/25/12/22/save-300-on-m4-macbook-air-with-24gb-ram-1tb-ssd---now-just-1299?utm_source=rss)
- - [FanDuel and CME Group launch a prediction market app called FanDuel Predicts in five US states, just days after DraftKings rolled out a similar product &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/251222/p19#a251222p19)
- - [Italy&#39;s competition watchdog fines Apple €98.6M, saying the company&#39;s ATT rules are &quot;disproportionate&quot; and &quot;harmful&quot; to app developers and advertisers &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251222/p18#a251222p18)
- - [Sources: Erebor, Palmer Luckey&#39;s digital bank, raised $350M led by Lux Capital at a $4.35B post-money valuation; it secured FDIC approval last week &lpar;Axios&rpar;](http://www.techmeme.com/251222/p17#a251222p17)<!-- TECH:END -->
+ - [Pirate library rips 86 million of the most popular songs on Spotify](https://www.theverge.com/news/849141/spotify-scrape-attack-breach-annas-archive-music-300tb-download)
+ - [Birdfy’s Hum Bloom captures 120fps slow motion footage of hummingbirds](https://www.theverge.com/news/849140/birdfy-smart-birdfeeder-hum-bloom-hummingbird-feeder-vista-slow-motion)
+ - [OpenAI rolls out Your Year with ChatGPT, a Spotify Wrapped-like feature, to Free, Plus, and Pro users in the US, the UK, Canada, Australia, and New Zealand &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251222/p20#a251222p20)
+ - [How Much Money Can You Save with an EV vs. a Gas Car? We Did the Math](https://www.cnet.com/roadshow/news/ev-gas-vehicle-cost-comparison-savings/#ftag=CAD590a51e)
+ - [Indie Game Awards retracts Expedition 33 prizes due to generative AI](https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

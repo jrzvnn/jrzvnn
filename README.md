@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50cent is a menace !!](http://9gag.com/gag/ajPjXN1)
- - 😝 [German precision](http://9gag.com/gag/a9yeAbW)
- - 💣 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 😝 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
+ - 💣 [Send help?](http://9gag.com/gag/aQzK91K)
  - 😝 [And a homemade plum jam](http://9gag.com/gag/a9yeAwm)
- - 👉 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)<!-- MEMES:END -->
+ - 👉 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)<!-- MEMES:END -->
 
 ---
 

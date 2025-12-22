@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Resideo&#39;s Scott Harkins talks about the new Honeywell Home X8S on HomeKit Insider](https://appleinsider.com/articles/25/12/22/resideos-scott-harkins-talks-about-the-new-honeywell-home-x8s-on-homekit-insider?utm_source=rss)
+ - [New 2025 Christmas Movies to Stream on Netflix, Prime Video And More Today](https://www.cnet.com/tech/services-and-software/new-2025-christmas-movies/#ftag=CAD590a51e)
  - [The Doomsday Glacier Is Getting Closer and Closer to Irreversible Collapse](https://www.wired.com/story/the-doomsday-glacier-is-getting-closer-and-closer-to-irreversible-collapse/)
  - [Apple cozies up to Samsung as RAM gets ridiculously expensive](https://appleinsider.com/articles/25/12/22/apple-cozies-up-to-samsung-as-ram-gets-ridiculously-expensive?utm_source=rss)
- - [iPhone Air review three months later: Compromise is good](https://appleinsider.com/articles/25/12/22/iphone-air-review-three-months-later-compromise-is-good?utm_source=rss)
- - [Boox Note Air 5 C review: An already good e-ink reader made a little bit better](https://appleinsider.com/articles/25/12/22/boox-note-air-5-c-review-an-already-good-e-ink-reader-made-a-little-bit-better?utm_source=rss)
- - [I Grew Up on Atari—Now I&#39;m Reliving It on Gamestation Go in 2025](https://www.cnet.com/tech/gaming/i-grew-up-on-atari-now-im-reliving-it-on-gamestation-go-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone Air review three months later: Compromise is good](https://appleinsider.com/articles/25/12/22/iphone-air-review-three-months-later-compromise-is-good?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

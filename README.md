@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Erebor, Palmer Luckey&#39;s digital bank, raised $350M led by Lux Capital at a $4.35B post-money valuation; it secured FDIC approval last week &lpar;Axios&rpar;](http://www.techmeme.com/251222/p17#a251222p17)
+ - [Netflix doesn&amp;#8217;t stream its &amp;#8216;Originals&amp;#8217; forever, here are some that may leave in 2026](https://www.theverge.com/news/849044/netflix-original-leaving-streaming-platform-2026)
+ - [The Beats Studio Pro headphones are $200 off today](https://www.theverge.com/gadgets/849065/beats-headphones-pixel-10-paperwhite-deals-sales)
  - [OpenAI’s Child Exploitation Reports Increased Sharply This Year](https://www.wired.com/story/openai-child-safety-reports-ncmec/)
- - [Instacart scraps AI pricing tests that made some products more expensive](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight)
- - [Alphabet agrees to acquire data center company Intersect for $4.75B in cash, plus its existing debt, as part of its push to expand its AI data center footprint &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p16#a251222p16)
- - [Deals: AirPods Pro 3 $199, Apple Watch Series 11 $299, M4 MacBook Air $749 with delivery by Christmas](https://appleinsider.com/articles/25/12/22/deals-airpods-pro-3-199-apple-watch-series-11-299-m4-macbook-air-749-with-delivery-by-christmas?utm_source=rss)
- - [iPhone Fold crease-free screen glass may not be ready yet](https://appleinsider.com/articles/25/12/22/iphone-fold-crease-free-screen-glass-may-not-be-ready-yet?utm_source=rss)<!-- TECH:END -->
+ - [Instacart scraps AI pricing tests that made some products more expensive](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Nvidia&#39;s DGX Cloud is merging with the engineering unit, pivoting from selling cloud services to enterprises to supporting internal AI development &lpar;The Information&rpar;](http://www.techmeme.com/251222/p23#a251222p23)
- - [Call of Duty, Titanfall developer Vince Zampella has died at age 55](https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield)
- - [Vince Zampella, former CEO of Infinity Ward, the studio behind Call of Duty, died Sunday at 55 in a single-car crash in Southern California &lpar;NBC Los Angeles&rpar;](http://www.techmeme.com/251222/p22#a251222p22)
- - [Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)
- - [The Justice Department Released More Epstein Files—but Not the Ones Survivors Want](https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 23, #1648](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-23-1648/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 23 #660](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-23-660/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 23, #926](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-23-926/#ftag=CAD590a51e)
+ - [Call of Duty, Titanfall developer Vince Zampella has died at age 55](https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

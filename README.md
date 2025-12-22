@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
  - 😝 [Just smile](http://9gag.com/gag/aPA0BwG)
  - 💣 [Truth is spoken](http://9gag.com/gag/a5QArLo)
- - 😝 [Bend Your Stress](http://9gag.com/gag/azxz85j)
- - 👉 [This is next level street art](http://9gag.com/gag/a34D738)<!-- MEMES:END -->
+ - 😝 [This is next level street art](http://9gag.com/gag/a34D738)
+ - 👉 [Bend Your Stress](http://9gag.com/gag/azxz85j)<!-- MEMES:END -->
 
 ---
 

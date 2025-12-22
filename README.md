@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ‘Epstein’s Suicide’ Video in the Latest DOJ Release Isn’t What It Seems](https://www.wired.com/story/the-epsteins-suicide-video-in-the-latest-doj-release-isnt-what-it-seems/)
+ - [How to Get a Free PC Game Every Day From the Epic Games Store](https://www.cnet.com/tech/gaming/how-to-get-a-free-pc-game-every-day-from-the-epic-games-store/#ftag=CAD590a51e)
  - [Coinbase agrees to acquire prediction markets startup The Clearing Company for an undisclosed sum; the startup was founded in 2025 and raised a $15M seed &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/251222/p24#a251222p24)
- - [6 Best Dehumidifiers to Keep Your Home Mold-Free &lpar;2026&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
- - [ChatGPT’s yearly recap sums up your conversations with the chatbot](https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped)
- - [HelloFresh Meal Kit’s Discount Code for December 2025 Unlocks a Free Zwilling Knife](https://www.wired.com/story/hellofresh-zwilling-chef-knife-deal/)
- - [Samsung&#39;s &#39;Wide Fold&#39; May Bring New Dimension to Foldable Phones, Report Says](https://www.cnet.com/tech/mobile/samsung-wide-fold-display-design-foldable-phone-competition/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gaming Monitor for 2025](https://www.cnet.com/tech/computing/best-gaming-monitor/#ftag=CAD590a51e)
+ - [6 Best Dehumidifiers to Keep Your Home Mold-Free &lpar;2026&rpar;](https://www.wired.com/gallery/best-dehumidifier/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

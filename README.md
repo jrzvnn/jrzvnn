@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings: Chinese AI startups Zhipu and MiniMax report 2024 revenue of $44.4M and $30.5M, respectively, as both prepare for Hong Kong IPOs in the coming weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p7#a251222p7)
+ - [A Christmas Miracle: Finally Making a Cup of Coffee Your Coffee-Snob Cousin Won&#39;t Criticize](https://www.cnet.com/news/best-way-brew-coffee/#ftag=CAD590a51e)
  - [Google&#39;s TPUs and Gemini are competitive but Nvidia&#39;s and OpenAI&#39;s first-mover advantage makes their lead seem durable, and Google faces the innovator&#39;s dilemma &lpar;SiliconANGLE&rpar;](http://www.techmeme.com/251222/p6#a251222p6)
  - [Some US schools are deploying AI surveillance tech like facial recognition and listening devices; critics say there is little evidence they make school safer &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/251222/p5#a251222p5)
- - [A look at Google&#39;s TPU evolution, its decision to sell chips to competitors after 12 years of internal use, the TPU vs. GPU architecture showdown, and more &lpar;The Chip Letter&rpar;](http://www.techmeme.com/251222/p4#a251222p4)
- - [A look at stablecoin-powered neobanks like Rizon and Dakota that are offering dollar-denominated digital banking services to customers worldwide &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251222/p3#a251222p3)
- - [Q&amp;A with iRobot co-founder Colin Angle on the company&#39;s Chapter 11 bankruptcy, regulatory pressure that killed Amazon&#39;s deal, his new robotics startup, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251222/p2#a251222p2)<!-- TECH:END -->
+ - [A look at Google&#39;s TPU evolution, its decision to sell chips to competitors after 12 years of internal use, the TPU vs. GPU architecture showdown, and more &lpar;The Chip Letter&rpar;](http://www.techmeme.com/251222/p4#a251222p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just smile](http://9gag.com/gag/aPA0BwG)
+ - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
+ - 😝 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
+ - 💣 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
  - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
- - 💣 [Truth is spoken](http://9gag.com/gag/a5QArLo)
- - 😝 [I was there Gandalf, I was there...](http://9gag.com/gag/a6Zzb9A)
- - 👉 [This is next level street art](http://9gag.com/gag/a34D738)<!-- MEMES:END -->
+ - 👉 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)<!-- MEMES:END -->
 
 ---
 

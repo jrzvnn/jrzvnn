@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia&#39;s DGX Cloud is merging with the engineering unit, pivoting from selling cloud services to enterprises to supporting internal AI development &lpar;The Information&rpar;](http://www.techmeme.com/251222/p23#a251222p23)
+ - [Call of Duty, Titanfall developer Vince Zampella has died at age 55](https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield)
  - [Vince Zampella, former CEO of Infinity Ward, the studio behind Call of Duty, died Sunday at 55 in a single-car crash in Southern California &lpar;NBC Los Angeles&rpar;](http://www.techmeme.com/251222/p22#a251222p22)
  - [Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)
- - [The Justice Department Released More Epstein Files—but Not the Ones Survivors Want](https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/)
- - [iPhone XS, iPhone XR, Apple TV HD get critical security updates](https://appleinsider.com/articles/25/12/22/iphone-xs-iphone-xr-apple-tv-hd-get-critical-security-updates?utm_source=rss)
- - [Chinese AI startup Z.ai releases GLM-4.7, an open-weight model that Z.ai says delivers significant improvements in coding performance compared to GLM-4.6 &lpar;Z.ai&rpar;](http://www.techmeme.com/251222/p21#a251222p21)<!-- TECH:END -->
+ - [The Justice Department Released More Epstein Files—but Not the Ones Survivors Want](https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

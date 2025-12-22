@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just smile](http://9gag.com/gag/aPA0BwG)
- - 😝 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)
- - 💣 [Truth is spoken](http://9gag.com/gag/a5QArLo)
- - 😝 [This is next level street art](http://9gag.com/gag/a34D738)
- - 👉 [What a goal, pure class](http://9gag.com/gag/aKGy2PQ)<!-- MEMES:END -->
+ - 😝 [If they new, they would suicide themselves](http://9gag.com/gag/aAy7P1p)
+ - 😝 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
+ - 💣 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 😝 [If Murder by words was a picture](http://9gag.com/gag/aD2LWN7)
+ - 👉 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)<!-- MEMES:END -->
 
 ---
 

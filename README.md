@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
- - 😝 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
- - 💣 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 💣 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
  - 😝 [For the boys](http://9gag.com/gag/aqyO11P)
- - 👉 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)<!-- MEMES:END -->
+ - 👉 [Found this... And I agree](http://9gag.com/gag/a4P8jVp)<!-- MEMES:END -->
 
 ---
 

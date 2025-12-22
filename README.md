@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a goal, pure class](http://9gag.com/gag/aKGy2PQ)
- - 😝 [Wall-E reference is perfect for this](http://9gag.com/gag/aByMw9z)
- - 💣 [Bend Your Stress](http://9gag.com/gag/azxz85j)
- - 😝 [The embarrassment bar has been raised... Ah one day she will know she was actually the lucky one](http://9gag.com/gag/a9yeWb0)
- - 👉 [Damn that laugh..](http://9gag.com/gag/aQzKMeq)<!-- MEMES:END -->
+ - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
+ - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 💣 [Anon outsmarted the science](http://9gag.com/gag/a7oBZ8r)
+ - 😝 [If they new, they would suicide themselves](http://9gag.com/gag/aAy7P1p)
+ - 👉 [Found this... And I agree](http://9gag.com/gag/a4P8jVp)<!-- MEMES:END -->
 
 ---
 

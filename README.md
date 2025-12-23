@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Texas judge says Apple doesn&#39;t have to check App Store ages](https://appleinsider.com/articles/25/12/23/texas-judge-says-apple-doesnt-have-to-check-app-store-ages?utm_source=rss)
  - [The Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared](https://www.wired.com/story/best-unlimited-phone-plans/)
+ - [The FCC&#39;s Foreign Drone Ban Is Bad News for Anyone Who Wants a DJI Device](https://www.cnet.com/tech/computing/fcc-foreign-made-drone-import-ban-dji-effect/#ftag=CAD590a51e)
  - [The 50 Best Shows on HBO Max, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Marissa Mayer&#39;s new startup Dazzle, which is building next-gen AI personal assistants, raised an $8M seed at a $35M valuation and plans to exit stealth in 2026 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251223/p21#a251223p21)
- - [We found 30 great gifts that are on sale and will arrive in time for Christmas](https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale)<!-- TECH:END -->
+ - [The New Year Will Kick Off With a Supermoon. Here&#39;s When to See It](https://www.cnet.com/science/space/the-new-year-will-kick-off-with-a-supermoon-heres-when-to-see-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

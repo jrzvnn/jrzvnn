@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This kid is going places](http://9gag.com/gag/aPA09qK)
- - 😝 [No freak](http://9gag.com/gag/avyVGOn)
- - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 👉 [Bless her heart](http://9gag.com/gag/aVv8qDd)<!-- MEMES:END -->
+ - 😝 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
+ - 😝 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
+ - 💣 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - 😝 [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)
+ - 👉 [First day on earth?](http://9gag.com/gag/azxzqRj)<!-- MEMES:END -->
 
 ---
 

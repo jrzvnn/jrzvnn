@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
- - 😝 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
- - 💣 [No freak](http://9gag.com/gag/avyVGOn)
- - 😝 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
- - 👉 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)<!-- MEMES:END -->
+ - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
+ - 😝 [Nobody\u2019s been able to give a real explanation for this](http://9gag.com/gag/aGyqeqw)
+ - 💣 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
+ - 😝 [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)
+ - 👉 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)<!-- MEMES:END -->
 
 ---
 

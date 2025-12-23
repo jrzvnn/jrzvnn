@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s AI team is bigger than reported &amp; strategy reinforced with latest restructure](https://appleinsider.com/articles/25/12/23/apples-ai-team-is-bigger-than-reported-strategy-reinforced-with-latest-restructure?utm_source=rss)
+ - [DOJ appears to bungle Epstein Files redactions](https://www.theverge.com/news/849639/epstein-files-doj-redactions-links)
  - [Watch lists are broken. Federation could fix them.](https://www.theverge.com/column/849255/watch-lists-broken-federation-share-data)
  - [New York’s landmark AI safety bill was defanged — and universities were part of the push against it](https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act)
- - [Dozens of Flock AI camera feeds were just out there](https://www.theverge.com/news/849624/flock-ai-camera-feeds-exposed-benn-jordan)
- - [France&#39;s La Poste says it has suffered a suspected DDoS attack in &quot;a major network incident&quot; on December 22, which disrupted its postal and banking services &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251223/p16#a251223p16)
- - [Belkin’s camera grip power bank is a few upgrades away from being a must-have](https://www.theverge.com/gadgets/847321/belkin-stage-powergrip-wireless-power-bank-hands-on)<!-- TECH:END -->
+ - [Dozens of Flock AI camera feeds were just out there](https://www.theverge.com/news/849624/flock-ai-camera-feeds-exposed-benn-jordan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

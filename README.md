@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jeanette Marken, 75, was br*tally att*cked outside the King County Courthouse in downtown Seattle by 42-year-old Fale Vaigalepa Pea. The suspect swung a wooden board with a screw at the end, striking Marken and gouging out her eye. Doctors have told her she will not regain sight](http://9gag.com/gag/ary05o5)
  - 😝 [No freak](http://9gag.com/gag/avyVGOn)
- - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 😝 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - 💣 [Send help?](http://9gag.com/gag/aQzK91K)
  - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
- - 👉 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)<!-- MEMES:END -->
+ - 👉 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)<!-- MEMES:END -->
 
 ---
 

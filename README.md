@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYPD Sued Over Possible Records Collected Through Muslim Spying Program](https://www.wired.com/story/nypd-sued-over-possible-records-collected-through-muslim-spying-program/)
  - [Lemon Slice, which launched a 20B-parameter model that creates digital avatars for AI agents, streaming video at 20 FPS on a single GPU, raised a $10.5M seed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251223/p18#a251223p18)
  - [Apple&#39;s AI team is bigger than reported &amp; strategy reinforced with latest restructure](https://appleinsider.com/articles/25/12/23/apples-ai-team-is-bigger-than-reported-strategy-reinforced-with-latest-restructure?utm_source=rss)
  - [DOJ appears to bungle Epstein Files redactions](https://www.theverge.com/news/849639/epstein-files-doj-redactions-links)
- - [Watch lists are broken. Federation could fix them.](https://www.theverge.com/column/849255/watch-lists-broken-federation-share-data)
- - [New York’s landmark AI safety bill was defanged — and universities were part of the push against it](https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act)<!-- TECH:END -->
+ - [Watch lists are broken. Federation could fix them.](https://www.theverge.com/column/849255/watch-lists-broken-federation-share-data)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

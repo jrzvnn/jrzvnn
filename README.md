@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)
- - 😝 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
- - 💣 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
- - 👉 [First day on earth?](http://9gag.com/gag/azxzqRj)<!-- MEMES:END -->
+ - 😝 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 💣 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
+ - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
 
 ---
 

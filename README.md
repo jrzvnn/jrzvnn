@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
  - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 😝 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
- - 💣 [German precision](http://9gag.com/gag/a9yeAbW)
- - 😝 [A toxic fan base is the worst thing](http://9gag.com/gag/aAy7DDE)
- - 👉 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)<!-- MEMES:END -->
+ - 💣 [Send help?](http://9gag.com/gag/aQzK91K)
+ - 😝 [Bless her heart](http://9gag.com/gag/aVv8qDd)
+ - 👉 [When Your Opponent Is Built Different](http://9gag.com/gag/aByMwWA)<!-- MEMES:END -->
 
 ---
 

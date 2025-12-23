@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI broke the smart home in 2025](https://www.theverge.com/tech/845958/ai-smart-home-broken)
+ - [Malware bypassed macOS Gatekeeper by abusing Apple&#39;s notarization proccess](https://appleinsider.com/articles/25/12/23/malware-bypassed-macos-gatekeeper-by-abusing-apples-notarization-proccess?utm_source=rss)
+ - [Google&#39;s Nano Banana Pro and OpenAI&#39;s ChatGPT Images can make nonconsensual bikini deepfakes from photos of fully clothed women; Reddit bans r/ChatGPTJailbreak &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/251223/p11#a251223p11)
  - [I Tried Samsung&#39;s Galaxy Z TriFold and Z Fold 7. Here&#39;s How the Foldable Phones Differ](https://www.cnet.com/tech/mobile/samsung-galaxy-z-trifold-vs-galaxy-z-fold-7/#ftag=CAD590a51e)
- - [Global RAM Shortage Will Raise Smartphone Prices in 2026, Analysts Say -- But How Much?](https://www.cnet.com/tech/mobile/global-ram-shortage-will-raise-smartphone-prices-in-2026-analysts-say-but-how-much/#ftag=CAD590a51e)
- - [I Wish Apple Would Steal These Android Camera Features for the iPhone 18 Pro](https://www.cnet.com/tech/mobile/i-want-apple-to-steal-these-android-camera-features-for-the-iphone-17/#ftag=CAD590a51e)
- - [Laptop Buying Guide &lpar;2025&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)
- - [The year the government broke](https://www.theverge.com/policy/845838/2025-year-end-government-doge)<!-- TECH:END -->
+ - [Global RAM Shortage Will Raise Smartphone Prices in 2026, Analysts Say -- But How Much?](https://www.cnet.com/tech/mobile/global-ram-shortage-will-raise-smartphone-prices-in-2026-analysts-say-but-how-much/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

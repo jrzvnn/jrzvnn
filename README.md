@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody\u2019s been able to give a real explanation for this](http://9gag.com/gag/aGyqeqw)
- - 😝 [Tutorial: how to get rich wile drinking](http://9gag.com/gag/apRXQ7W)
- - 💣 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
- - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
- - 👉 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)<!-- MEMES:END -->
+ - 😝 [Funneling money around](http://9gag.com/gag/aQzK3R8)
+ - 😝 [Jeanette Marken, 75, was br*tally att*cked outside the King County Courthouse in downtown Seattle by 42-year-old Fale Vaigalepa Pea. The suspect swung a wooden board with a screw at the end, striking Marken and gouging out her eye. Doctors have told her she will not regain sight](http://9gag.com/gag/ary05o5)
+ - 💣 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
+ - 😝 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
+ - 👉 [First day on earth?](http://9gag.com/gag/azxzqRj)<!-- MEMES:END -->
 
 ---
 

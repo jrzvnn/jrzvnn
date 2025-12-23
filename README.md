@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US is imposing visa restrictions on five Europeans, including Thierry Breton, accusing them of pressuring US tech companies to censor certain US viewpoints &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/251223/p22#a251223p22)
+ - [&#39;Pluribus&#39; Release Schedule: When Does the Season Finale Come Out?](https://www.cnet.com/tech/services-and-software/pluribus-episode-release-schedule-apple-tv/#ftag=CAD590a51e)
  - [Texas judge says Apple doesn&#39;t have to check App Store ages](https://appleinsider.com/articles/25/12/23/texas-judge-says-apple-doesnt-have-to-check-app-store-ages?utm_source=rss)
  - [&#39;High Potential&#39; Season 2 Hiatus: How to Watch More of the Hit Series](https://www.cnet.com/tech/services-and-software/high-potential-season-2-hiatus/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 24, #457](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-24-457/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 24, #1649](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-24-1649/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 24, #927](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-24-927/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 24, #457](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-24-457/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dometic makes a better portable water faucet](https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review)
  - [Samsung&#39;s Harman agrees to acquire ZF&#39;s radar and automotive computing driver-assistance business for €1.5B, as the European auto-supplier sector struggles &lpar;Bloomberg&rpar;](http://www.techmeme.com/251223/p6#a251223p6)
  - [Best Indoor Garden Systems: We&#39;ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
  - [16 Best Housewarming Gifts We Can&#39;t Stop Using &lpar;2025&rpar;: Coasters, Blenders, Sheets](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 23 #660](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-23-660/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 23, #926](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-23-926/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 23 #660](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-23-660/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

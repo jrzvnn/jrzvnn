@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pentagon partners with xAI to embed the company&#39;s frontier AI systems, based on the Grok family of models, directly into GenAI.mil as soon as early 2026 &lpar;Bonny Chu/Fox News&rpar;](http://www.techmeme.com/251222/p29#a251222p29)
  - [The US FCC bans imports, marketing, and sales of new foreign-made drones and components, including from China&#39;s DJI and Autel, citing national security concerns &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/251222/p28#a251222p28)
  - [Sources: ByteDance has made preliminary plans to spend ¥160B, or ~$23B, in AI capex in 2026, up from ¥150B in 2025, and has budgeted ~$12.07B for AI processors &lpar;Financial Times&rpar;](http://www.techmeme.com/251222/p27#a251222p27)
  - [The FCC’s foreign drone ban is here](https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline)
- - [Kargo, which uses cameras and sensors to inspect pallets in a warehouse and provide accurate inventory data, raised a $42M Series B led by Avenir &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251222/p26#a251222p26)
- - [Bambu Lab P1S 3D Printer review: easy multi-color printing with AMS](https://appleinsider.com/articles/25/12/23/bambu-lab-p1s-3d-printer-review-easy-multi-color-printing-with-ams?utm_source=rss)<!-- TECH:END -->
+ - [Kargo, which uses cameras and sensors to inspect pallets in a warehouse and provide accurate inventory data, raised a $42M Series B led by Avenir &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251222/p26#a251222p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

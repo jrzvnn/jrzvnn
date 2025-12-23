@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good deed lad does a good deed](http://9gag.com/gag/aRBG3xA)
  - 😝 [Observe, this can save your life someday.](http://9gag.com/gag/a4P8G0v)
- - 💣 [9gaggers even internet is down](http://9gag.com/gag/aKGyDb3)
- - 😝 [She thought it was a great idea until she was told that she also had to change.](http://9gag.com/gag/a9yeKML)
- - 👉 [For the boys](http://9gag.com/gag/aqyO11P)<!-- MEMES:END -->
+ - 😝 [9gaggers even internet is down](http://9gag.com/gag/aKGyDb3)
+ - 💣 [For the boys](http://9gag.com/gag/aqyO11P)
+ - 😝 [Good deed lad does a good deed](http://9gag.com/gag/aRBG3xA)
+ - 👉 [Coffee doesn\u2019t give you energy, it blocks tiredness](http://9gag.com/gag/a2vV4ep)<!-- MEMES:END -->
 
 ---
 

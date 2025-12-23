@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYPD Sued Over Possible Records Collected Through Muslim Spying Program](https://www.wired.com/story/nypd-sued-over-possible-records-collected-through-muslim-spying-program/)
- - [Lemon Slice, which launched a 20B-parameter model that creates digital avatars for AI agents, streaming video at 20 FPS on a single GPU, raised a $10.5M seed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251223/p18#a251223p18)
- - [Apple&#39;s AI team is bigger than reported &amp; strategy reinforced with latest restructure](https://appleinsider.com/articles/25/12/23/apples-ai-team-is-bigger-than-reported-strategy-reinforced-with-latest-restructure?utm_source=rss)
- - [DOJ appears to bungle Epstein Files redactions](https://www.theverge.com/news/849639/epstein-files-doj-redactions-links)
- - [Watch lists are broken. Federation could fix them.](https://www.theverge.com/column/849255/watch-lists-broken-federation-share-data)<!-- TECH:END -->
+ - [A federal judge grants a temporary injunction blocking a Texas law requiring mobile app stores to verify users&#39; ages from taking effect on January 1 &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/251223/p20#a251223p20)
+ - [Judge blocks Texas app store age verification law](https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction)
+ - [Data Holds the Key in Slowing Age-Related Illnesses](https://www.wired.com/story/data-holds-the-key-in-slowing-age-related-illnesses/)
+ - [Xbox had a terrible 2025: Microsoft canceled games and raised console and Game Pass prices, Costco stopped selling Xbox, and Valve&#39;s Steam Machine upstaged it &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/251223/p19#a251223p19)
+ - [These great digital gifts will arrive just in time for Christmas](https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

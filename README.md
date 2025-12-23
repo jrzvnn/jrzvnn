@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
- - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 💣 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 😝 [When Your Opponent Is Built Different](http://9gag.com/gag/aByMwWA)
+ - 😝 [This kid is going places](http://9gag.com/gag/aPA09qK)
+ - 😝 [No freak](http://9gag.com/gag/avyVGOn)
+ - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
  - 👉 [Bless her heart](http://9gag.com/gag/aVv8qDd)<!-- MEMES:END -->
 
 ---

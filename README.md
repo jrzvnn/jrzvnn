@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US companies sold $1.7T of investment-grade bonds in 2025, nearing the $1.8T 2020 record, driven by AI infrastructure borrowing; Goldman says AI makes up ~30% &lpar;Kate Duguid/Financial Times&rpar;](http://www.techmeme.com/251223/p4#a251223p4)
+ - [Groupon Promo Codes: 50% Off in January 2026](https://www.wired.com/story/groupon-promo-code/)
  - [Despite concerns, Labour MPs and other left-wing UK politicians stay active on X; the UK government says it stopped paid ads on X in 2024, down from £9M in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/251223/p3#a251223p3)
  - [30% Off Tempur-Pedic Promo Codes | December 2025](https://www.wired.com/story/tempur-pedic-promo-code/)
- - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
- - [HK shares of Chinese short-video app Kuaishou fell as much as 6% to ~$8, lowest since November 21, after the company was hit by a cyberattack on December 22 &lpar;Reuters&rpar;](http://www.techmeme.com/251223/p2#a251223p2)
- - [Sources reveal inconsistencies in Megaspeed&#39;s chip inventory, as the US probes the Singapore AI startup over alleged Chinese ownership and Nvidia chip smuggling &lpar;Bloomberg&rpar;](http://www.techmeme.com/251223/p1#a251223p1)<!-- TECH:END -->
+ - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

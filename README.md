@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [US companies sold $1.7T of investment-grade bonds in 2025, nearing the $1.8T 2020 record, driven by AI infrastructure borrowing; Goldman says AI makes up ~30% &lpar;Kate Duguid/Financial Times&rpar;](http://www.techmeme.com/251223/p4#a251223p4)
  - [Groupon Promo Codes: 50% Off in January 2026](https://www.wired.com/story/groupon-promo-code/)
- - [Despite concerns, Labour MPs and other left-wing UK politicians stay active on X; the UK government says it stopped paid ads on X in 2024, down from £9M in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/251223/p3#a251223p3)
+ - [Despite concerns, Labour MPs and other left-wing UK politicians stay active on X; the UK government says it stopped paid ads in 2024, after spending £9M in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/251223/p3#a251223p3)
  - [30% Off Tempur-Pedic Promo Codes | December 2025](https://www.wired.com/story/tempur-pedic-promo-code/)
  - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)<!-- TECH:END -->
 

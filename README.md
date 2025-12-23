@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI can work across scales, from individuals to organizations to economies, like steel and the steam engine before it, as AI arrives as &quot;infinite minds&quot; &lpar;Ivan Zhao/@ivanhzhao&rpar;](http://www.techmeme.com/251223/p5#a251223p5)
- - [US companies sold $1.7T of investment-grade bonds in 2025, nearing the $1.8T 2020 record, driven by AI infrastructure borrowing; Goldman says AI makes up ~30% &lpar;Kate Duguid/Financial Times&rpar;](http://www.techmeme.com/251223/p4#a251223p4)
- - [Groupon Promo Codes: 50% Off in January 2026](https://www.wired.com/story/groupon-promo-code/)
- - [Despite concerns, Labour MPs and other left-wing UK politicians stay active on X; the UK government says it stopped paid ads in 2024, after spending £9M in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/251223/p3#a251223p3)
- - [30% Off Tempur-Pedic Promo Codes | December 2025](https://www.wired.com/story/tempur-pedic-promo-code/)<!-- TECH:END -->
+ - [Samsung&#39;s Harman agrees to acquire ZF&#39;s radar and automotive computing driver-assistance business for €1.5B, as the European auto-supplier sector struggles &lpar;Bloomberg&rpar;](http://www.techmeme.com/251223/p6#a251223p6)
+ - [Best Indoor Garden Systems: We&#39;ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
+ - [16 Best Housewarming Gifts We Can&#39;t Stop Using &lpar;2025&rpar;: Coasters, Blenders, Sheets](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 23 #660](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-23-660/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 23, #926](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-23-926/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

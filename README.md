@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources reveal inconsistencies in Megaspeed&#39;s chip inventory, as the US probes the Singapore AI startup over alleged Chinese ownership and Nvidia chip smuggling &lpar;Bloomberg&rpar;](http://www.techmeme.com/251223/p1#a251223p1)
  - [iPad Pro &amp; Nintendo Switch 2 are perfect companions with a portable dock](https://appleinsider.com/articles/25/12/23/ipad-pro-nintendo-switch-2-are-perfect-companions-with-a-portable-dock?utm_source=rss)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 23, #456](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-23-456/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-23/#ftag=CAD590a51e)
- - [The Pentagon partners with xAI to embed the company&#39;s frontier AI systems, based on the Grok family of models, directly into GenAI.mil as soon as early 2026 &lpar;Bonny Chu/Fox News&rpar;](http://www.techmeme.com/251222/p29#a251222p29)
- - [The US FCC bans imports, marketing, and sales of new foreign-made drones and components, including from China&#39;s DJI and Autel, citing national security concerns &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/251222/p28#a251222p28)<!-- TECH:END -->
+ - [The Pentagon partners with xAI to embed the company&#39;s frontier AI systems, based on the Grok family of models, directly into GenAI.mil as soon as early 2026 &lpar;Bonny Chu/Fox News&rpar;](http://www.techmeme.com/251222/p29#a251222p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

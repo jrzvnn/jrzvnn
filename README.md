@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Texas judge says Apple doesn&#39;t have to check App Store ages](https://appleinsider.com/articles/25/12/23/texas-judge-says-apple-doesnt-have-to-check-app-store-ages?utm_source=rss)
- - [&#39;High Potential&#39; Season 2 Hiatus: How to Watch More of the Hit Series](https://www.cnet.com/tech/services-and-software/high-potential-season-2-hiatus/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 24, #457](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-24-457/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 24, #1649](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-24-1649/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 24, #927](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-24-927/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pixel 10, our favorite Android phone, is nearly 50 percent off right now](https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025)
+ - [The Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared](https://www.wired.com/story/best-unlimited-phone-plans/)
+ - [The FCC&#39;s Foreign Drone Ban Is Bad News for Anyone Who Wants a DJI Device](https://www.cnet.com/tech/computing/fcc-foreign-made-drone-import-ban-dji-effect/#ftag=CAD590a51e)
+ - [The 50 Best Shows on HBO Max, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

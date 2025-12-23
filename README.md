@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese automakers delay plans to mass-produce self-driving vehicles as Beijing becomes more cautious, after a fatal Xiaomi crash in March caused public concern &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/251223/p8#a251223p8)
  - [Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever](https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/)
  - [Big Balls Was Just the Beginning](https://www.wired.com/story/expired-tired-wired-doge/)
  - [The European Commission says Apple will bring AirPods-like pairing and iPhone notification access to third-party devices under the DMA in iOS 26.3 in 2026 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251223/p7#a251223p7)
- - [Dometic makes a better portable water faucet](https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review)
- - [Samsung&#39;s Harman agrees to acquire ZF&#39;s radar and automotive computing driver-assistance business for €1.5B, as the European auto-supplier sector struggles &lpar;Bloomberg&rpar;](http://www.techmeme.com/251223/p6#a251223p6)<!-- TECH:END -->
+ - [Dometic makes a better portable water faucet](https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

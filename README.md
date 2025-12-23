@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coffee doesn\u2019t give you energy, it blocks tiredness](http://9gag.com/gag/a2vV4ep)
- - 😝 [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
- - 💣 [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)
- - 😝 [Clippy was right](http://9gag.com/gag/azxz9jm)
- - 👉 [Japanese children learn the hard way...](http://9gag.com/gag/ary0G15)<!-- MEMES:END -->
+ - 😝 [Nobody\u2019s been able to give a real explanation for this](http://9gag.com/gag/aGyqeqw)
+ - 😝 [Tutorial: how to get rich wile drinking](http://9gag.com/gag/apRXQ7W)
+ - 💣 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
+ - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
+ - 👉 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)<!-- MEMES:END -->
 
 ---
 

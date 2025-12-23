@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
  - 😝 [No freak](http://9gag.com/gag/avyVGOn)
+ - 😝 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
  - 💣 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 😝 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
- - 👉 [Bless her heart](http://9gag.com/gag/aVv8qDd)<!-- MEMES:END -->
+ - 😝 [That&#39;s not how main character syndrome works](http://9gag.com/gag/azxzX2K)
+ - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
 
 ---
 

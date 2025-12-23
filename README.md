@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
  - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 😝 [No freak](http://9gag.com/gag/avyVGOn)
- - 💣 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
- - 😝 [For the boys](http://9gag.com/gag/aqyO11P)
- - 👉 [Bless her heart](http://9gag.com/gag/aVv8qDd)<!-- MEMES:END -->
+ - 💣 [No freak](http://9gag.com/gag/avyVGOn)
+ - 😝 [Its got electrolytes but not much else](http://9gag.com/gag/aPA0jBq)
+ - 👉 [When Your Opponent Is Built Different](http://9gag.com/gag/aByMwWA)<!-- MEMES:END -->
 
 ---
 

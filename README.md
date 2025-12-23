@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
- - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 💣 [No freak](http://9gag.com/gag/avyVGOn)
+ - 😝 [No freak](http://9gag.com/gag/avyVGOn)
+ - 😝 [When Your Opponent Is Built Different](http://9gag.com/gag/aByMwWA)
+ - 💣 [There&#39;s nothing civil here](http://9gag.com/gag/a7oBr2r)
  - 😝 [Its got electrolytes but not much else](http://9gag.com/gag/aPA0jBq)
- - 👉 [When Your Opponent Is Built Different](http://9gag.com/gag/aByMwWA)<!-- MEMES:END -->
+ - 👉 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)<!-- MEMES:END -->
 
 ---
 

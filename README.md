@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No freak](http://9gag.com/gag/avyVGOn)
- - 😝 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
+ - 😝 [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)
+ - 😝 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
  - 💣 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 😝 [That&#39;s not how main character syndrome works](http://9gag.com/gag/azxzX2K)
- - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
+ - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
+ - 👉 [First day on earth?](http://9gag.com/gag/azxzqRj)<!-- MEMES:END -->
 
 ---
 

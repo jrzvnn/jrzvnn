@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 😝 [That&#39;s how you save....](http://9gag.com/gag/aqyOr8Y)
- - 💣 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
+ - 😝 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
+ - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
+ - 💣 [Send help?](http://9gag.com/gag/aQzK91K)
  - 😝 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)
- - 👉 [Bless her heart](http://9gag.com/gag/aVv8qDd)<!-- MEMES:END -->
+ - 👉 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
- - 😝 [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)
- - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 😝 [That&#39;s what a healthy society can look like...](http://9gag.com/gag/avyV8gn)
- - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
+ - 😝 [Good deed lad does a good deed](http://9gag.com/gag/aRBG3xA)
+ - 😝 [Observe, this can save your life someday.](http://9gag.com/gag/a4P8G0v)
+ - 💣 [9gaggers even internet is down](http://9gag.com/gag/aKGyDb3)
+ - 😝 [She thought it was a great idea until she was told that she also had to change.](http://9gag.com/gag/a9yeKML)
+ - 👉 [For the boys](http://9gag.com/gag/aqyO11P)<!-- MEMES:END -->
 
 ---
 

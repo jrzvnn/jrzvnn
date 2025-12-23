@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One last holiday hurrah for the $50 off deal on the Switch 2](https://www.theverge.com/gadgets/849552/switch-2-bundle-gaming-ps5-holiday-deal-sale)
  - [iPad Pro &amp; Nintendo Switch 2 are perfect companions with a portable dock](https://appleinsider.com/articles/25/12/23/ipad-pro-nintendo-switch-2-are-perfect-companions-with-a-portable-dock?utm_source=rss)
  - [The US says China is engaging in unfair trade practices in the chip sector, but holds off on imposing additional tariffs on chip imports at least until mid-2027 &lpar;Jordan Fabian/Bloomberg Law&rpar;](http://www.techmeme.com/251223/p15#a251223p15)
  - [Apple agrees to third-party App Store alternatives in Brazil](https://appleinsider.com/articles/25/12/23/apple-agrees-to-third-party-app-store-alternatives-in-brazil?utm_source=rss)
- - [Apple&#39;s AI team is bigger than reported &amp; strategy reinforced with latest restructure](https://appleinsider.com/articles/25/12/23/apples-ai-team-is-bigger-than-reported-strategy-reinforced-with-latest-restructure?utm_source=rss)
- - [AT&amp;T Just Revealed Which Holiday Has the Most Calls. And No, It&#39;s Not Christmas.](https://www.cnet.com/tech/mobile/att-2025-holiday-call-numbers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s AI team is bigger than reported &amp; strategy reinforced with latest restructure](https://appleinsider.com/articles/25/12/23/apples-ai-team-is-bigger-than-reported-strategy-reinforced-with-latest-restructure?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fleet management software provider Motive files for a US IPO, reporting a $138.5M net loss on $327.3M in revenue for the nine months ended September 30 &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251223/p23#a251223p23)
+ - [Apple is going to allow third-party app stores in Brazil, too](https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems)
  - [The US is imposing visa restrictions on five Europeans, including Thierry Breton, accusing them of pressuring US tech companies to censor certain US viewpoints &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/251223/p22#a251223p22)
  - [&#39;Pluribus&#39; Release Schedule: When Does the Season Finale Come Out?](https://www.cnet.com/tech/services-and-software/pluribus-episode-release-schedule-apple-tv/#ftag=CAD590a51e)
- - [Texas judge says Apple doesn&#39;t have to check App Store ages](https://appleinsider.com/articles/25/12/23/texas-judge-says-apple-doesnt-have-to-check-app-store-ages?utm_source=rss)
- - [&#39;High Potential&#39; Season 2 Hiatus: How to Watch More of the Hit Series](https://www.cnet.com/tech/services-and-software/high-potential-season-2-hiatus/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 24, #457](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-24-457/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Texas judge says Apple doesn&#39;t have to check App Store ages](https://appleinsider.com/articles/25/12/23/texas-judge-says-apple-doesnt-have-to-check-app-store-ages?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

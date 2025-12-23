@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clippy was right](http://9gag.com/gag/azxz9jm)
- - 😝 [Coffee doesn\u2019t give you energy, it blocks tiredness](http://9gag.com/gag/a2vV4ep)
- - 💣 [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
- - 😝 [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)
- - 👉 [Japanese children learn the hard way...](http://9gag.com/gag/ary0G15)<!-- MEMES:END -->
+ - 😝 [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)
+ - 😝 [Jeanette Marken, 75, was br*tally att*cked outside the King County Courthouse in downtown Seattle by 42-year-old Fale Vaigalepa Pea. The suspect swung a wooden board with a screw at the end, striking Marken and gouging out her eye. Doctors have told her she will not regain sight](http://9gag.com/gag/ary05o5)
+ - 💣 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
+ - 😝 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
+ - 👉 [No freak](http://9gag.com/gag/avyVGOn)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funneling money around](http://9gag.com/gag/aQzK3R8)
  - 😝 [Jeanette Marken, 75, was br*tally att*cked outside the King County Courthouse in downtown Seattle by 42-year-old Fale Vaigalepa Pea. The suspect swung a wooden board with a screw at the end, striking Marken and gouging out her eye. Doctors have told her she will not regain sight](http://9gag.com/gag/ary05o5)
- - 💣 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
- - 😝 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
- - 👉 [First day on earth?](http://9gag.com/gag/azxzqRj)<!-- MEMES:END -->
+ - 😝 [Burij Khalifa: $1.5 billion](http://9gag.com/gag/aGyqe47)
+ - 💣 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
+ - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
+ - 👉 [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)<!-- MEMES:END -->
 
 ---
 

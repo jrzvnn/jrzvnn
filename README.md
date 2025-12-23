@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Chinese automakers delay plans to mass-produce self-driving vehicles as Beijing becomes more cautious, after a fatal Xiaomi crash in March caused public concern &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/251223/p8#a251223p8)
- - [Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever](https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/)
- - [Big Balls Was Just the Beginning](https://www.wired.com/story/expired-tired-wired-doge/)
- - [The European Commission says Apple will bring AirPods-like pairing and iPhone notification access to third-party devices under the DMA in iOS 26.3 in 2026 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251223/p7#a251223p7)
- - [Dometic makes a better portable water faucet](https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review)<!-- TECH:END -->
+ - [Google’s and OpenAI’s Chatbots Can Strip Women in Photos Down to Bikinis](https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/)
+ - [An Expert Explains 6 Common Laundry Mistakes That Are Killing Your Favorite Garments](https://www.cnet.com/news/an-expert-explains-6-common-laundry-mistakes-that-are-killing-our-favorite-garments/#ftag=CAD590a51e)
+ - [Home for the Holidays? Use This iOS 26 Feature to Make Dinner Plans With Friends](https://www.cnet.com/tech/services-and-software/apple-ios-26-iphone-messages-polls/#ftag=CAD590a51e)
+ - [Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever](https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

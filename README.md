@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s MiniMax releases M2.1, an upgrade to its open-source M2 model that it says has &quot;significantly enhanced&quot; coding capabilities in Rust, Java, and others &lpar;MiniMax&rpar;](http://www.techmeme.com/251223/p9#a251223p9)
- - [iBuyPower RDY Slate 9MP R01 Gaming PC Review: Great Value](https://www.wired.com/review/ibuypower-rdy-slate-9mp-r01/)
- - [Chinese automakers delay plans to mass-produce self-driving vehicles as Beijing becomes more cautious, after a fatal Xiaomi crash in March caused public concern &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/251223/p8#a251223p8)
- - [Google’s and OpenAI’s Chatbots Can Strip Women in Photos Down to Bikinis](https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/)
- - [An Expert Explains 6 Common Laundry Mistakes That Are Killing Your Favorite Garments](https://www.cnet.com/news/an-expert-explains-6-common-laundry-mistakes-that-are-killing-our-favorite-garments/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Tried Samsung&#39;s Galaxy Z TriFold and Z Fold 7. Here&#39;s How the Foldable Phones Differ](https://www.cnet.com/tech/mobile/samsung-galaxy-z-trifold-vs-galaxy-z-fold-7/#ftag=CAD590a51e)
+ - [Global RAM Shortage Will Raise Smartphone Prices in 2026, Analysts Say -- But How Much?](https://www.cnet.com/tech/mobile/global-ram-shortage-will-raise-smartphone-prices-in-2026-analysts-say-but-how-much/#ftag=CAD590a51e)
+ - [I Wish Apple Would Steal These Android Camera Features for the iPhone 18 Pro](https://www.cnet.com/tech/mobile/i-want-apple-to-steal-these-android-camera-features-for-the-iphone-17/#ftag=CAD590a51e)
+ - [Laptop Buying Guide &lpar;2025&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)
+ - [The year the government broke](https://www.theverge.com/policy/845838/2025-year-end-government-doge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

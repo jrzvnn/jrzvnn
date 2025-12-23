@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There&#39;s nothing civil here](http://9gag.com/gag/a7oBr2r)
- - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
- - 💣 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)
- - 😝 [Healthy eating is the basis](http://9gag.com/gag/aXPzvB2)
- - 👉 [When Your Opponent Is Built Different](http://9gag.com/gag/aByMwWA)<!-- MEMES:END -->
+ - 😝 [A toxic fan base is the worst thing](http://9gag.com/gag/aAy7DDE)
+ - 😝 [Observe, this can save your life someday.](http://9gag.com/gag/a4P8G0v)
+ - 💣 [Coffee doesn\u2019t give you energy, it blocks tiredness](http://9gag.com/gag/a2vV4ep)
+ - 😝 [Jethro Tull 1969](http://9gag.com/gag/aXPzxvv)
+ - 👉 [The internet on a good day](http://9gag.com/gag/awyDnGQ)<!-- MEMES:END -->
 
 ---
 

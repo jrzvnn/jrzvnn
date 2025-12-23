@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [007 First Light&amp;#8217;s release date gets shaken up](https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay)
  - [A federal judge grants a temporary injunction blocking a Texas law requiring mobile app stores to verify users&#39; ages from taking effect on January 1 &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/251223/p20#a251223p20)
  - [Judge blocks Texas app store age verification law](https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction)
  - [Data Holds the Key in Slowing Age-Related Illnesses](https://www.wired.com/story/data-holds-the-key-in-slowing-age-related-illnesses/)
- - [Xbox had a terrible 2025: Microsoft canceled games and raised console and Game Pass prices, Costco stopped selling Xbox, and Valve&#39;s Steam Machine upstaged it &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/251223/p19#a251223p19)
- - [These great digital gifts will arrive just in time for Christmas](https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025)<!-- TECH:END -->
+ - [Xbox had a terrible 2025: Microsoft canceled games and raised console and Game Pass prices, Costco stopped selling Xbox, and Valve&#39;s Steam Machine upstaged it &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/251223/p19#a251223p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 60 Minutes report on CECOT that Bari Weiss censored is now internet contraband](https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak)
- - [Monday Night Football: How to Watch 49ers vs. Colts Tonight for Free](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-49ers-vs-colts-tonight-for-free/#ftag=CAD590a51e)
- - [FDA Approves Pill Version of Wegovy](https://www.wired.com/story/fda-approves-pill-version-of-wegovy/)
- - [OpenAI details efforts to secure its ChatGPT Atlas browser against prompt injection attacks, including building an &quot;LLM-based automated attacker&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251222/p25#a251222p25)
- - [The ‘Epstein’s Suicide’ Video in the Latest DOJ Release Isn’t What It Seems](https://www.wired.com/story/the-epsteins-suicide-video-in-the-latest-doj-release-isnt-what-it-seems/)<!-- TECH:END -->
+ - [The US FCC bans imports, marketing, and sales of new foreign-made drones and components, including from China&#39;s DJI and Autel, citing national security concerns &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/251222/p28#a251222p28)
+ - [Sources: ByteDance has made preliminary plans to spend ¥160B, or ~$23B, in AI capex in 2026, up from ¥150B in 2025, and has budgeted ~$12.07B for AI processors &lpar;Financial Times&rpar;](http://www.techmeme.com/251222/p27#a251222p27)
+ - [The FCC’s foreign drone ban is here](https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline)
+ - [Kargo, which uses cameras and sensors to inspect pallets in a warehouse and provide accurate inventory data, raised a $42M Series B led by Avenir &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251222/p26#a251222p26)
+ - [Bambu Lab P1S 3D Printer review: easy multi-color printing with AMS](https://appleinsider.com/articles/25/12/23/bambu-lab-p1s-3d-printer-review-easy-multi-color-printing-with-ams?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

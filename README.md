@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
- - 😝 [There&#39;s nothing civil here](http://9gag.com/gag/a7oBr2r)
- - 💣 [No freak](http://9gag.com/gag/avyVGOn)
- - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 👉 [When Your Opponent Is Built Different](http://9gag.com/gag/aByMwWA)<!-- MEMES:END -->
+ - 😝 [No freak](http://9gag.com/gag/avyVGOn)
+ - 😝 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
+ - 💣 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 😝 [Coffee doesn\u2019t give you energy, it blocks tiredness](http://9gag.com/gag/a2vV4ep)
+ - 👉 [Bless her heart](http://9gag.com/gag/aVv8qDd)<!-- MEMES:END -->
 
 ---
 

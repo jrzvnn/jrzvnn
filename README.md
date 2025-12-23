@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ServiceNow agrees to acquire cybersecurity startup Armis for $7.75B, set to close in H2 2026, pending approvals; Insight acquired Armis in a $1.1B deal in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251223/p13#a251223p13)
+ - [Brett Harrison, the former president of FTX US, raised $35M for his new global exchange AX, which offers perpetual futures, a source says at a $187M valuation &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/251223/p12#a251223p12)
+ - [Apple Vision Pro &lpar;M5&rpar; review three-months later: A flawed wonder](https://appleinsider.com/articles/25/12/23/apple-vision-pro-m5-review-three-months-later-a-flawed-wonder?utm_source=rss)
  - [How AI broke the smart home in 2025](https://www.theverge.com/tech/845958/ai-smart-home-broken)
- - [Malware bypassed macOS Gatekeeper by abusing Apple&#39;s notarization proccess](https://appleinsider.com/articles/25/12/23/malware-bypassed-macos-gatekeeper-by-abusing-apples-notarization-proccess?utm_source=rss)
- - [Google&#39;s Nano Banana Pro and OpenAI&#39;s ChatGPT Images can make nonconsensual bikini deepfakes from photos of fully clothed women; Reddit bans r/ChatGPTJailbreak &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/251223/p11#a251223p11)
- - [I Tried Samsung&#39;s Galaxy Z TriFold and Z Fold 7. Here&#39;s How the Foldable Phones Differ](https://www.cnet.com/tech/mobile/samsung-galaxy-z-trifold-vs-galaxy-z-fold-7/#ftag=CAD590a51e)
- - [Global RAM Shortage Will Raise Smartphone Prices in 2026, Analysts Say -- But How Much?](https://www.cnet.com/tech/mobile/global-ram-shortage-will-raise-smartphone-prices-in-2026-analysts-say-but-how-much/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Malware bypassed macOS Gatekeeper by abusing Apple&#39;s notarization proccess](https://appleinsider.com/articles/25/12/23/malware-bypassed-macos-gatekeeper-by-abusing-apples-notarization-proccess?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

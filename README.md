@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No freak](http://9gag.com/gag/avyVGOn)
- - 😝 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
- - 💣 [Bless her heart](http://9gag.com/gag/aVv8qDd)
- - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 😝 [Bless her heart](http://9gag.com/gag/aVv8qDd)
+ - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 😝 [This ui still looks better than half the apps today](http://9gag.com/gag/aNDX134)
  - 👉 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)<!-- MEMES:END -->
 
 ---

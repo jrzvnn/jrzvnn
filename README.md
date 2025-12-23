@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
  - 😝 [No freak](http://9gag.com/gag/avyVGOn)
- - 😝 [Bless her heart](http://9gag.com/gag/aVv8qDd)
- - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 😝 [This ui still looks better than half the apps today](http://9gag.com/gag/aNDX134)
- - 👉 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)<!-- MEMES:END -->
+ - 💣 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 😝 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
+ - 👉 [Bless her heart](http://9gag.com/gag/aVv8qDd)<!-- MEMES:END -->
 
 ---
 

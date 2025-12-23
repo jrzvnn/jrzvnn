@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One last holiday hurrah for the $50 off deal on the Switch 2](https://www.theverge.com/gadgets/849552/switch-2-bundle-gaming-ps5-holiday-deal-sale)
- - [iPad Pro &amp; Nintendo Switch 2 are perfect companions with a portable dock](https://appleinsider.com/articles/25/12/23/ipad-pro-nintendo-switch-2-are-perfect-companions-with-a-portable-dock?utm_source=rss)
- - [The US says China is engaging in unfair trade practices in the chip sector, but holds off on imposing additional tariffs on chip imports at least until mid-2027 &lpar;Jordan Fabian/Bloomberg Law&rpar;](http://www.techmeme.com/251223/p15#a251223p15)
- - [Apple agrees to third-party App Store alternatives in Brazil](https://appleinsider.com/articles/25/12/23/apple-agrees-to-third-party-app-store-alternatives-in-brazil?utm_source=rss)
- - [Apple&#39;s AI team is bigger than reported &amp; strategy reinforced with latest restructure](https://appleinsider.com/articles/25/12/23/apples-ai-team-is-bigger-than-reported-strategy-reinforced-with-latest-restructure?utm_source=rss)<!-- TECH:END -->
+ - [Watch lists are broken. Federation could fix them.](https://www.theverge.com/column/849255/watch-lists-broken-federation-share-data)
+ - [New York’s landmark AI safety bill was defanged — and universities were part of the push against it](https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act)
+ - [Dozens of Flock AI camera feeds were just out there](https://www.theverge.com/news/849624/flock-ai-camera-feeds-exposed-benn-jordan)
+ - [France&#39;s La Poste says it has suffered a suspected DDoS attack in &quot;a major network incident&quot; on December 22, which disrupted its postal and banking services &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251223/p16#a251223p16)
+ - [Belkin’s camera grip power bank is a few upgrades away from being a must-have](https://www.theverge.com/gadgets/847321/belkin-stage-powergrip-wireless-power-bank-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
- - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 💣 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
- - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 😝 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
+ - 😝 [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)
+ - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 😝 [That&#39;s what a healthy society can look like...](http://9gag.com/gag/avyV8gn)
  - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
 
 ---

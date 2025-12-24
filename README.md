@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: India raises concerns about the misuse of Indian phone numbers on WhatsApp, which banned 9.8M Indian accounts per month on average in 2025 to October &lpar;Kiran Rathee/The Economic Times&rpar;](http://www.techmeme.com/251224/p6#a251224p6)
+ - [A look at the growing reliance of US data centers and the Pentagon on Chinese batteries, a dependence increasingly viewed as a national security threat &lpar;New York Times&rpar;](http://www.techmeme.com/251224/p5#a251224p5)
+ - [Makers Will Have Better Tools and Tech in 2026, and I Couldn&#39;t Be More Excited](https://www.cnet.com/tech/computing/2026-great-year-for-makers-predictions-for-3d-printing-laser-engravers-and-more/#ftag=CAD590a51e)
  - [The Pluribus finale showed there&amp;#8217;s a lot more to the story](https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale)
- - [YouTube dominates daytime TV streaming, with 6.3M viewers at 11am in October on average, above Netflix&#39;s 2.8M, per Nielsen; prime-time viewership is more even &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/251224/p4#a251224p4)
- - [Bitcoin miners retooling data centers for AI have boosted their stocks; the CoinShares Bitcoin Mining ETF is up about 90% YTD even as bitcoin has slumped &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251224/p3#a251224p3)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)<!-- TECH:END -->
+ - [YouTube dominates daytime TV streaming, with 6.3M viewers at 11am in October on average, above Netflix&#39;s 2.8M, per Nielsen; prime-time viewership is more even &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/251224/p4#a251224p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

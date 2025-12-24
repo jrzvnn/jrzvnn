@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)
- - 😝 [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
- - 💣 [Japanese children learn the hard way...](http://9gag.com/gag/ary0G15)
- - 😝 [Good deed lad does a good deed](http://9gag.com/gag/aRBG3xA)
- - 👉 [That&#39;s not how main character syndrome works](http://9gag.com/gag/azxzX2K)<!-- MEMES:END -->
+ - 😝 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
+ - 😝 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
+ - 💣 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
+ - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 👉 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)<!-- MEMES:END -->
 
 ---
 

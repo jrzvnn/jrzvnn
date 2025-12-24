@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pluribus finale showed there&amp;#8217;s a lot more to the story](https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale)
  - [YouTube dominates daytime TV streaming, with 6.3M viewers at 11am in October on average, above Netflix&#39;s 2.8M, per Nielsen; prime-time viewership is more even &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/251224/p4#a251224p4)
  - [Bitcoin miners retooling data centers for AI have boosted their stocks; the CoinShares Bitcoin Mining ETF is up about 90% YTD even as bitcoin has slumped &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251224/p3#a251224p3)
  - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
- - [Over the past month, the US paused talks on a tech pact with the UK, canceled a South Korea trade meeting, and threatened the EU over Big Tech regulations &lpar;Politico&rpar;](http://www.techmeme.com/251224/p2#a251224p2)<!-- TECH:END -->
+ - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

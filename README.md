@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
- - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 💣 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 😝 [Al-Harrid Potter and the Prisoners of Afghanistan](http://9gag.com/gag/aoy65Kg)
- - 👉 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)<!-- MEMES:END -->
+ - 😝 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
+ - 😝 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
+ - 💣 [A women being rescued by cops from angry mob in Bangladesh. Details are not known if she was a Hindu girl or a women who accidentally exposed her part that gave them a boner](http://9gag.com/gag/an73MbE)
+ - 😝 [My time has come](http://9gag.com/gag/aW4AEgq)
+ - 👉 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)<!-- MEMES:END -->
 
 ---
 

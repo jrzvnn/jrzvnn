@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
- - 😝 [This is what we needed](http://9gag.com/gag/an73MDn)
- - 💣 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
- - 😝 [Loyalty is key](http://9gag.com/gag/aZZKLnp)
- - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
+ - 😝 [Go sports!](http://9gag.com/gag/aW4AEox)
+ - 😝 [Al-Harrid Potter and the Prisoners of Afghanistan](http://9gag.com/gag/aoy65Kg)
+ - 💣 [Stay safe](http://9gag.com/gag/awyDXqQ)
+ - 😝 [Haha, classic](http://9gag.com/gag/aAy732L)
+ - 👉 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)<!-- MEMES:END -->
 
 ---
 

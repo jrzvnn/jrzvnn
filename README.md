@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funneling money around](http://9gag.com/gag/aQzK3R8)
- - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
- - 💣 [Its got electrolytes but not much else](http://9gag.com/gag/aPA0jBq)
- - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 👉 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)<!-- MEMES:END -->
+ - 😝 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
+ - 😝 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - 💣 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
+ - 😝 [Specific ones](http://9gag.com/gag/an739Z0)
+ - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
 
 ---
 

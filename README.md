@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
- - 😝 [This is what we needed](http://9gag.com/gag/an73MDn)
+ - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 😝 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
  - 💣 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
- - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
- - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
+ - 😝 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
+ - 👉 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)<!-- MEMES:END -->
 
 ---
 

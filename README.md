@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI staff discussed prioritizing sponsored content in ChatGPT when users ask relevant queries and created mockups with ads in sidebars or as pop-ups &lpar;The Information&rpar;](http://www.techmeme.com/251224/p12#a251224p12)
+ - [Steep US tariffs on Chinese chip imports won&#39;t hit Apple until 2027](https://appleinsider.com/articles/25/12/24/steep-us-tariffs-on-chinese-chip-imports-wont-hit-apple-until-2027?utm_source=rss)
+ - [55 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)
  - [The EU warns of possible action after the US imposes travel bans on five Europeans, saying it will defend its &quot;regulatory autonomy against unjustified measures&quot; &lpar;Lorne Cook/Associated Press&rpar;](http://www.techmeme.com/251224/p11#a251224p11)
- - [How to Choose a Computer Monitor &lpar;2025&rpar;: Everything You Need to Know](https://www.wired.com/story/how-to-choose-a-computer-monitor/)
- - [The best shows and movies to stream on Netflix in 2025](https://www.theverge.com/entertainment/845388/netflix-best-shows-movies-2025)
- - [Galaxy Z TriFold vs. Huawei Mate XT: One Is the Most Versatile Phone I&#39;ve Ever Used](https://www.cnet.com/tech/mobile/galaxy-z-trifold-vs-huawei-mate-xt/#ftag=CAD590a51e)
- - [Does Technology Suck Now or Am I Just a Grumpy Old Man?](https://www.cnet.com/tech/mobile/is-technology-actually-terrible-or-am-i-just-a-grumpy-old-man/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Choose a Computer Monitor &lpar;2025&rpar;: Everything You Need to Know](https://www.wired.com/story/how-to-choose-a-computer-monitor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

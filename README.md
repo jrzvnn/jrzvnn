@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More time, less adventure](http://9gag.com/gag/aByM0oQ)
- - 😝 [Cthulu is pleased](http://9gag.com/gag/aGyqZ3G)
- - 💣 [Good deed lad does a good deed](http://9gag.com/gag/aRBG3xA)
- - 😝 [That&#39;s not how main character syndrome works](http://9gag.com/gag/azxzX2K)
- - 👉 [Yes, my brother!](http://9gag.com/gag/a4P8Qpv)<!-- MEMES:END -->
+ - 😝 [She looks like she\u2019s gonna ask a historian if King Arthur came a lot.](http://9gag.com/gag/abAoYwO)
+ - 😝 [There&#39;s no such thing as a female superhero](http://9gag.com/gag/a879oMY)
+ - 💣 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
+ - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 👉 [First day on earth?](http://9gag.com/gag/azxzqRj)<!-- MEMES:END -->
 
 ---
 

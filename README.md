@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin miners retooling data centers for AI have boosted their stocks; the CoinShares Bitcoin Mining ETF is up about 90% YTD even as bitcoin has slumped &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251224/p3#a251224p3)
  - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
  - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
  - [Over the past month, the US paused talks on a tech pact with the UK, canceled a South Korea trade meeting, and threatened the EU over Big Tech regulations &lpar;Politico&rpar;](http://www.techmeme.com/251224/p2#a251224p2)
- - [$100 Off Shark Promo Code | This Month](https://www.wired.com/story/shark-promo-code/)
- - [Sources: China&#39;s AI regulations, which require chatbots to pass a 2,000-question ideological test, have spawned specialized agencies that help AI companies pass &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/251224/p1#a251224p1)<!-- TECH:END -->
+ - [$100 Off Shark Promo Code | This Month](https://www.wired.com/story/shark-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

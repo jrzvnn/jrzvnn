@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
  - 😝 [A women being rescued by cops from angry mob in Bangladesh. Details are not known if she was a Hindu girl or a women who accidentally exposed her part that gave them a boner](http://9gag.com/gag/an73MbE)
- - 😝 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
- - 💣 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 💣 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
  - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
- - 👉 [Loyalty is key](http://9gag.com/gag/aZZKLnp)<!-- MEMES:END -->
+ - 👉 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Do Your Dogs Freak Out They Hear Wham&#39;s &#39;Last Christmas?&#39; There&#39;s a Reason for That](https://www.cnet.com/tech/services-and-software/whams-last-christmas-is-stressing-your-pets-out-what-other-holiday-songs-made-the-cut/#ftag=CAD590a51e)
+ - [Year-end Apple Watch Series 11 deals deliver prices as low as $299](https://appleinsider.com/articles/25/12/24/year-end-apple-watch-series-11-deals-deliver-prices-as-low-as-299?utm_source=rss)
+ - [Anime Fans, Get Excited for These 12 Shows and Movies Coming Soon](https://www.cnet.com/tech/services-and-software/new-upcoming-anime-shows-movies-netflix-crunchyroll-coming-soon/#ftag=CAD590a51e)
  - [JBL Bar 500MK2 Review: A Fantastic Soundbar System](https://www.wired.com/review/jbl-bar-500-mk2/)
- - [Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today](https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025)
- - [Samsung moves closer to producing iPhone 18 camera sensors in Texas](https://appleinsider.com/articles/25/12/24/samsung-moves-closer-to-producing-iphone-18-camera-sensors-in-texas?utm_source=rss)
- - [Sources: OpenAI staff discussed prioritizing sponsored content in ChatGPT when users ask relevant queries and created mockups with ads in sidebars or as pop-ups &lpar;The Information&rpar;](http://www.techmeme.com/251224/p12#a251224p12)
- - [Steep US tariffs on Chinese chip imports won&#39;t hit Apple until 2027](https://appleinsider.com/articles/25/12/24/steep-us-tariffs-on-chinese-chip-imports-wont-hit-apple-until-2027?utm_source=rss)<!-- TECH:END -->
+ - [Prime Video: The 15 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

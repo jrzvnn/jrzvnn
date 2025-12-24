@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia has agreed to buy AI chip startup Groq for $20B in cash, according to Alex Davis, CEO of Disruptive, which led Groq&#39;s latest financing round in September &lpar;David Faber/CNBC&rpar;](http://www.techmeme.com/251224/p16#a251224p16)
  - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [Twelve South PlugBug with Find My review: The ultimate travel charger](https://appleinsider.com/articles/25/12/24/twelve-south-plugbug-with-find-my-review-the-ultimate-travel-charger?utm_source=rss)
  - [Analysis: Oracle has moved $66B of debt for building AI data centers off its balance sheet using SPVs; Meta has moved $30B, xAI moved $20B, and CoreWeave $2.6B &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/251224/p15#a251224p15)
- - [I&#39;m Binging Every Bob&#39;s Burgers Christmas Episode, From My Least Favorite to the Best](https://www.cnet.com/culture/entertainment/every-bobs-burgers-christmas-episode-ranked/#ftag=CAD590a51e)
- - [Anker’s beefy Laptop Power Bank has returned to its Black Friday low](https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale)<!-- TECH:END -->
+ - [I&#39;m Binging Every Bob&#39;s Burgers Christmas Episode, From My Least Favorite to the Best](https://www.cnet.com/culture/entertainment/every-bobs-burgers-christmas-episode-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

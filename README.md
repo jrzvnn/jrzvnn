@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia tested Intel&#39;s 18A to make chips but stopped moving forward; interviews with 20+ people describe how dealmaker Lip-Bu Tan gave Intel a lifeline &lpar;Reuters&rpar;](http://www.techmeme.com/251224/p10#a251224p10)
  - [The Best Desk Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-desk-accessories/)
  - [AST launches its largest-ever satellite from India, hosting the BlueBird Block-2, the first in a series of deployments to challenge SpaceX in satellite internet &lpar;Sana Pashankar/Bloomberg&rpar;](http://www.techmeme.com/251224/p9#a251224p9)
  - [Fight &#39;Stranger Things&#39; Withdrawal With This &#39;80s Horror Movie, Free on Tubi](https://www.cnet.com/tech/services-and-software/fight-stranger-things-withdrawal-with-this-80s-horror-movie-free-on-tubi/#ftag=CAD590a51e)
- - [The Age of the All-Access AI Agent Is Here](https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/)
- - [Get Hallmark Plus, Starz or BET Plus for $2 a Month on the Roku Channel](https://www.cnet.com/deals/rokus-holiday-streaming-deals-three-months-of-free-apple-tv-1-howdy-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Age of the All-Access AI Agent Is Here](https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports!](http://9gag.com/gag/aW4AEox)
- - 😝 [Al-Harrid Potter and the Prisoners of Afghanistan](http://9gag.com/gag/aoy65Kg)
- - 💣 [Stay safe](http://9gag.com/gag/awyDXqQ)
- - 😝 [Haha, classic](http://9gag.com/gag/aAy732L)
- - 👉 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)<!-- MEMES:END -->
+ - 😝 [A women being rescued by cops from angry mob in Bangladesh. Details are not known if she was a Hindu girl or a women who accidentally exposed her part that gave them a boner](http://9gag.com/gag/an73MbE)
+ - 😝 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
+ - 💣 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
+ - 👉 [Loyalty is key](http://9gag.com/gag/aZZKLnp)<!-- MEMES:END -->
 
 ---
 

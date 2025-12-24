@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I&#39;m Binging Every Bob&#39;s Burgers Christmas Episode, From My Least Favorite to the Best](https://www.cnet.com/culture/entertainment/every-bobs-burgers-christmas-episode-ranked/#ftag=CAD590a51e)
  - [Anker’s beefy Laptop Power Bank has returned to its Black Friday low](https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale)
  - [Octopath Traveler 0 Review: A Solid JRPG Dragged Down by Forgettable Characters](https://www.cnet.com/tech/gaming/octopath-traveler-0-review-a-solid-jrpg-dragged-down-by-forgettable-characters/#ftag=CAD590a51e)
  - [New 2025 Christmas Movies to Watch on Prime Video, Netflix and More](https://www.cnet.com/tech/services-and-software/new-2025-christmas-movies/#ftag=CAD590a51e)
- - [Tim Cook doubles Nike stake to $6M, Wall Street takes notice](https://appleinsider.com/articles/25/12/24/tim-cook-doubles-nike-stake-to-6m-wall-street-takes-notice?utm_source=rss)
- - [The Trump administration&#39;s travel ban on five Europeans includes researchers working to tackle online disinformation and abuse, like CCDH founder Imran Ahmed &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/251224/p14#a251224p14)<!-- TECH:END -->
+ - [Tim Cook doubles Nike stake to $6M, Wall Street takes notice](https://appleinsider.com/articles/25/12/24/tim-cook-doubles-nike-stake-to-6m-wall-street-takes-notice?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

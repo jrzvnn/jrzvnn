@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: India raises concerns about the misuse of Indian phone numbers on WhatsApp, which banned 9.8M Indian accounts per month on average in 2025 to October &lpar;Kiran Rathee/The Economic Times&rpar;](http://www.techmeme.com/251224/p6#a251224p6)
- - [A look at the growing reliance of US data centers and the Pentagon on Chinese batteries, a dependence increasingly viewed as a national security threat &lpar;New York Times&rpar;](http://www.techmeme.com/251224/p5#a251224p5)
- - [Makers Will Have Better Tools and Tech in 2026, and I Couldn&#39;t Be More Excited](https://www.cnet.com/tech/computing/2026-great-year-for-makers-predictions-for-3d-printing-laser-engravers-and-more/#ftag=CAD590a51e)
- - [The Pluribus finale showed there&amp;#8217;s a lot more to the story](https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale)
- - [YouTube dominates daytime TV streaming, with 6.3M viewers at 11am in October on average, above Netflix&#39;s 2.8M, per Nielsen; prime-time viewership is more even &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/251224/p4#a251224p4)<!-- TECH:END -->
+ - [Chainalysis and TRM Labs estimate that $2.7B was stolen in crypto in 2025 in total, up from $2.2B in 2024; the biggest hack was the $1.4B breach at Bybit &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251224/p7#a251224p7)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 24, #457](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-24-457/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 24, #927](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-24-927/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 24 #661](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-24-661/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 24, #1649](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-24-1649/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

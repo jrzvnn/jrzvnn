@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy Z TriFold vs. Huawei Mate XT: One Is the Most Versatile Phone I&#39;ve Ever Used](https://www.cnet.com/tech/mobile/galaxy-z-trifold-vs-huawei-mate-xt/#ftag=CAD590a51e)
+ - [Does Technology Suck Now or Am I Just a Grumpy Old Man?](https://www.cnet.com/tech/mobile/is-technology-actually-terrible-or-am-i-just-a-grumpy-old-man/#ftag=CAD590a51e)
+ - [In 2025, AI became a lightning rod for gamers and developers](https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025)
  - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)
- - [I Tried Vibe Coding With Different Gemini Models. Here&#39;s What I Learned](https://www.cnet.com/tech/services-and-software/i-tried-vibe-coding-with-different-gemini-models-heres-what-i-learned/#ftag=CAD590a51e)
- - [Best Streaming Services for Kids in 2025](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-kids/#ftag=CAD590a51e)
- - [Minisforum MDSA156 Monitor Review: It&#39;s Not Pretty, but It Does the Job](https://www.cnet.com/tech/computing/minisforum-mdsa156-monitor-review-its-not-pretty-but-it-does-the-job/#ftag=CAD590a51e)
- - [Apple’s App Course Runs $20,000 a Student. Is It Really Worth It?](https://www.wired.com/story/apple-app-making-course-michigan-state-university/)<!-- TECH:END -->
+ - [I Tried Vibe Coding With Different Gemini Models. Here&#39;s What I Learned](https://www.cnet.com/tech/services-and-software/i-tried-vibe-coding-with-different-gemini-models-heres-what-i-learned/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

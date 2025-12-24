@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Italy&#39;s antitrust authority orders Meta to suspend contractual terms that bar rival AI chatbots from WhatsApp; Meta calls the decision &quot;fundamentally flawed&quot; &lpar;Elvira Pollina/Reuters&rpar;](http://www.techmeme.com/251224/p8#a251224p8)
  - [Pinterest Users Are Tired of All the AI Slop](https://www.wired.com/story/pinterst-ai-slop-content/)
  - [Chainalysis and TRM Labs estimate that $2.7B was stolen in crypto in 2025 in total, up from $2.2B in 2024; the biggest hack was the $1.4B breach at Bybit &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251224/p7#a251224p7)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 24, #457](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-24-457/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 24, #927](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-24-927/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 24 #661](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-24-661/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 24, #927](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-24-927/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

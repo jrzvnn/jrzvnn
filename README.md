@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports!](http://9gag.com/gag/aW4AEox)
- - 😝 [Haha, classic](http://9gag.com/gag/aAy732L)
- - 💣 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 😝 [Sharia Harry](http://9gag.com/gag/aVv80yK)
- - 👉 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)<!-- MEMES:END -->
+ - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
+ - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 💣 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
+ - 😝 [Daddy you know so much](http://9gag.com/gag/aByMm3D)
+ - 👉 [Loyalty is key](http://9gag.com/gag/aZZKLnp)<!-- MEMES:END -->
 
 ---
 

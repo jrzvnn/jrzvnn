@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More time, less adventure](http://9gag.com/gag/aByM0oQ)
- - 😝 [Good job](http://9gag.com/gag/a1mnQE6)
- - 💣 [Good deed lad does a good deed](http://9gag.com/gag/aRBG3xA)
- - 😝 [My time has come](http://9gag.com/gag/aW4AEgq)
- - 👉 [That&#39;s not how main character syndrome works](http://9gag.com/gag/azxzX2K)<!-- MEMES:END -->
+ - 😝 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
+ - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 💣 [She looks like she\u2019s gonna ask a historian if King Arthur came a lot.](http://9gag.com/gag/abAoYwO)
+ - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 👉 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
- - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 💣 [Jeanette Marken, 75, was br*tally att*cked outside the King County Courthouse in downtown Seattle by 42-year-old Fale Vaigalepa Pea. The suspect swung a wooden board with a screw at the end, striking Marken and gouging out her eye. Doctors have told her she will not regain sight](http://9gag.com/gag/ary05o5)
- - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 👉 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)<!-- MEMES:END -->
+ - 😝 [Funneling money around](http://9gag.com/gag/aQzK3R8)
+ - 😝 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
+ - 💣 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 😝 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
+ - 👉 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)<!-- MEMES:END -->
 
 ---
 

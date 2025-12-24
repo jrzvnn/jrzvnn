@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia agrees to a licensing deal with Groq; CEO Jonathan Ross and other top executives will join Nvidia; Groq says it will continue operating independently &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251224/p17#a251224p17)
  - [Merry Christmas and happy holidays from AppleInsider](https://appleinsider.com/articles/25/12/24/merry-christmas-and-happy-holidays-from-appleinsider?utm_source=rss)
  - [The best classic iPad board games to play with your family &amp; friends](https://appleinsider.com/articles/25/12/24/the-best-classic-ipad-board-games-to-play-with-your-family-friends?utm_source=rss)
  - [If You Were &#39;Tricked&#39; Into an Amazon Prime Subscription, You Should Have Been Paid by Today](https://www.cnet.com/news/amazon-prime-subscription-lawsuit-settlement-payouts/#ftag=CAD590a51e)
- - [Nvidia has agreed to buy AI chip startup Groq for $20B in cash, according to Alex Davis, CEO of Disruptive, which led Groq&#39;s latest financing round in September &lpar;David Faber/CNBC&rpar;](http://www.techmeme.com/251224/p16#a251224p16)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 25, #458](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-25-458/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia has agreed to buy AI chip startup Groq&#39;s assets for $20B in cash, according to Alex Davis, CEO of Disruptive, which led Groq&#39;s September financing round &lpar;David Faber/CNBC&rpar;](http://www.techmeme.com/251224/p16#a251224p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
- - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 😝 [She looks like she\u2019s gonna ask a historian if King Arthur came a lot.](http://9gag.com/gag/abAoYwO)
+ - 😝 [A women being rescued by cops from angry mob in Bangladesh. Details are not known if she was a Hindu girl or a women who accidentally exposed her part that gave them a boner](http://9gag.com/gag/an73MbE)
  - 💣 [The Mashco-Piro, an uncontacted Indigenous tribe in the Peruvian Amazon. Recent drone footage from 2024-2025 shows them near rivers, often painted red for protection. They&#39;re one of the largest such groups, avoiding outside contact](http://9gag.com/gag/a9yeKo6)
- - 😝 [Merry Christmas, ya filthy animals](http://9gag.com/gag/adBM5wj)
- - 👉 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)<!-- MEMES:END -->
+ - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
+ - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
 
 ---
 

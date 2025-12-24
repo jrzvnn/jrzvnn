@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaker battle: iPhone Air 2 will ship in 2026, and not wait until 2027](https://appleinsider.com/articles/25/12/24/leaker-battle-iphone-air-2-will-ship-in-2026-and-not-wait-until-2027?utm_source=rss)
+ - [Beijing-based DP Technology, which develops AI tools used by researchers for tasks like computer-aided drug design and battery design, raised a ~$114M Series C &lpar;Eunice Xu/South China Morning Post&rpar;](http://www.techmeme.com/251224/p13#a251224p13)
  - [Do Your Dogs Freak Out They Hear Wham&#39;s &#39;Last Christmas?&#39; There&#39;s a Reason for That](https://www.cnet.com/tech/services-and-software/whams-last-christmas-is-stressing-your-pets-out-what-other-holiday-songs-made-the-cut/#ftag=CAD590a51e)
  - [Year-end Apple Watch Series 11 deals deliver prices as low as $299](https://appleinsider.com/articles/25/12/24/year-end-apple-watch-series-11-deals-deliver-prices-as-low-as-299?utm_source=rss)
- - [Anime Fans, Get Excited for These 12 Shows and Movies Coming Soon](https://www.cnet.com/tech/services-and-software/new-upcoming-anime-shows-movies-netflix-crunchyroll-coming-soon/#ftag=CAD590a51e)
- - [JBL Bar 500MK2 Review: A Fantastic Soundbar System](https://www.wired.com/review/jbl-bar-500-mk2/)
- - [Prime Video: The 15 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anime Fans, Get Excited for These 12 Shows and Movies Coming Soon](https://www.cnet.com/tech/services-and-software/new-upcoming-anime-shows-movies-netflix-crunchyroll-coming-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

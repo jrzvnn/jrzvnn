@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
  - 😝 [Go sports!](http://9gag.com/gag/aW4AEox)
- - 💣 [Haha, classic](http://9gag.com/gag/aAy732L)
- - 😝 [Daddy you know so much](http://9gag.com/gag/aByMm3D)
- - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
+ - 😝 [Haha, classic](http://9gag.com/gag/aAy732L)
+ - 💣 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 😝 [Sharia Harry](http://9gag.com/gag/aVv80yK)
+ - 👉 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clippy was right](http://9gag.com/gag/azxz9jm)
- - 😝 [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
- - 💣 [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)
  - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 👉 [Japanese children learn the hard way...](http://9gag.com/gag/ary0G15)<!-- MEMES:END -->
+ - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
+ - 💣 [Got really lucky. Very blessed.](http://9gag.com/gag/a0eGbVv)
+ - 😝 [Specific ones](http://9gag.com/gag/an739Z0)
+ - 👉 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)<!-- MEMES:END -->
 
 ---
 

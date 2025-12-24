@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
  - 😝 [A women being rescued by cops from angry mob in Bangladesh. Details are not known if she was a Hindu girl or a women who accidentally exposed her part that gave them a boner](http://9gag.com/gag/an73MbE)
- - 💣 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
- - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
+ - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
+ - 💣 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
+ - 😝 [Sharia Harry](http://9gag.com/gag/aVv80yK)
  - 👉 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)<!-- MEMES:END -->
 
 ---

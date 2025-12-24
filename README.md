@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
- - 😝 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
- - 💣 [A women being rescued by cops from angry mob in Bangladesh. Details are not known if she was a Hindu girl or a women who accidentally exposed her part that gave them a boner](http://9gag.com/gag/an73MbE)
- - 😝 [My time has come](http://9gag.com/gag/aW4AEgq)
- - 👉 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)<!-- MEMES:END -->
+ - 😝 [Watching this log fight the whirlpool is the most satisfying thing you&#39;ll see today](http://9gag.com/gag/aQzK1e7)
+ - 😝 [Cthulu is pleased](http://9gag.com/gag/aGyqZ3G)
+ - 💣 [That&#39;s not how main character syndrome works](http://9gag.com/gag/azxzX2K)
+ - 😝 [Yes, my brother!](http://9gag.com/gag/a4P8Qpv)
+ - 👉 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)<!-- MEMES:END -->
 
 ---
 

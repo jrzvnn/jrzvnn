@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
- - 😝 [Because an instant screencap button was TOO perfect.](http://9gag.com/gag/axy8z2n)
- - 💣 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
- - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
- - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
+ - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 😝 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - 💣 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
+ - 😝 [Specific ones](http://9gag.com/gag/an739Z0)
+ - 👉 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)<!-- MEMES:END -->
 
 ---
 

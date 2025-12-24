@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU warns of possible action after the US imposes travel bans on five Europeans, saying it will defend its &quot;regulatory autonomy against unjustified measures&quot; &lpar;Lorne Cook/Associated Press&rpar;](http://www.techmeme.com/251224/p11#a251224p11)
+ - [How to Choose a Computer Monitor &lpar;2025&rpar;: Everything You Need to Know](https://www.wired.com/story/how-to-choose-a-computer-monitor/)
+ - [The best shows and movies to stream on Netflix in 2025](https://www.theverge.com/entertainment/845388/netflix-best-shows-movies-2025)
  - [Galaxy Z TriFold vs. Huawei Mate XT: One Is the Most Versatile Phone I&#39;ve Ever Used](https://www.cnet.com/tech/mobile/galaxy-z-trifold-vs-huawei-mate-xt/#ftag=CAD590a51e)
- - [Does Technology Suck Now or Am I Just a Grumpy Old Man?](https://www.cnet.com/tech/mobile/is-technology-actually-terrible-or-am-i-just-a-grumpy-old-man/#ftag=CAD590a51e)
- - [In 2025, AI became a lightning rod for gamers and developers](https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025)
- - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)
- - [I Tried Vibe Coding With Different Gemini Models. Here&#39;s What I Learned](https://www.cnet.com/tech/services-and-software/i-tried-vibe-coding-with-different-gemini-models-heres-what-i-learned/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Does Technology Suck Now or Am I Just a Grumpy Old Man?](https://www.cnet.com/tech/mobile/is-technology-actually-terrible-or-am-i-just-a-grumpy-old-man/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

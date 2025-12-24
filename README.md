@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fleet management software provider Motive files for a US IPO, reporting a $138.5M net loss on $327.3M in revenue for the nine months ended September 30 &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251223/p23#a251223p23)
- - [Maingear&#39;s Opening Salvo for PC Memory Shortage: Supply Your Own](https://www.cnet.com/tech/computing/maingears-opening-salvo-for-pc-memory-shortage-supply-your-own/#ftag=CAD590a51e)
- - [Apple is going to allow third-party app stores in Brazil, too](https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems)
- - [The US is imposing visa restrictions on five Europeans, including Thierry Breton, accusing them of pressuring US tech companies to censor certain US viewpoints &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/251223/p22#a251223p22)
- - [&#39;Pluribus&#39; Release Schedule: When Does the Season Finale Come Out?](https://www.cnet.com/tech/services-and-software/pluribus-episode-release-schedule-apple-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starlink says it has reached 9M &quot;active customers&quot; across 155 countries, territories, and other markets, up from 8M on November 5 &lpar;Polly Thompson/Business Insider&rpar;](http://www.techmeme.com/251223/p26#a251223p26)
+ - [The Trump administration plans to replace the lottery system for H-1B visas with a &quot;weighted&quot; system prioritizing higher-paid individuals, starting February 27 &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/251223/p25#a251223p25)
+ - [Beyerdynamic Aventho 300 review: Vanilla, for better and worse](https://appleinsider.com/articles/25/12/24/beyerdynamic-aventho-300-review-vanilla-for-better-and-worse?utm_source=rss)
+ - [Sources: Snowflake is in talks to buy app monitoring startup Observe for around $1B; Observe has raised more than $470M &lpar;The Information&rpar;](http://www.techmeme.com/251223/p24#a251223p24)
+ - [Trump administration bars former EU official and anti-disinformation and hate researchers from US](https://www.theverge.com/news/850067/us-sanctions-thierry-breton-content-moderation-censorship)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

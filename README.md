@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia tested Intel&#39;s 18A to make chips but stopped moving forward; interviews with 20+ people describe how dealmaker Lip-Bu Tan gave Intel a lifeline &lpar;Reuters&rpar;](http://www.techmeme.com/251224/p10#a251224p10)
- - [The Best Desk Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-desk-accessories/)
- - [AST launches its largest-ever satellite from India, hosting the BlueBird Block-2, the first in a series of deployments to challenge SpaceX in satellite internet &lpar;Sana Pashankar/Bloomberg&rpar;](http://www.techmeme.com/251224/p9#a251224p9)
- - [Fight &#39;Stranger Things&#39; Withdrawal With This &#39;80s Horror Movie, Free on Tubi](https://www.cnet.com/tech/services-and-software/fight-stranger-things-withdrawal-with-this-80s-horror-movie-free-on-tubi/#ftag=CAD590a51e)
- - [The Age of the All-Access AI Agent Is Here](https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/)<!-- TECH:END -->
+ - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)
+ - [I Tried Vibe Coding With Different Gemini Models. Here&#39;s What I Learned](https://www.cnet.com/tech/services-and-software/i-tried-vibe-coding-with-different-gemini-models-heres-what-i-learned/#ftag=CAD590a51e)
+ - [Best Streaming Services for Kids in 2025](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-kids/#ftag=CAD590a51e)
+ - [Minisforum MDSA156 Monitor Review: It&#39;s Not Pretty, but It Does the Job](https://www.cnet.com/tech/computing/minisforum-mdsa156-monitor-review-its-not-pretty-but-it-does-the-job/#ftag=CAD590a51e)
+ - [Apple’s App Course Runs $20,000 a Student. Is It Really Worth It?](https://www.wired.com/story/apple-app-making-course-michigan-state-university/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

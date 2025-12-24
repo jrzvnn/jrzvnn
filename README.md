@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funneling money around](http://9gag.com/gag/aQzK3R8)
- - 😝 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
- - 💣 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 😝 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
- - 👉 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)<!-- MEMES:END -->
+ - 😝 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
+ - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
+ - 💣 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
+ - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 👉 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)<!-- MEMES:END -->
 
 ---
 

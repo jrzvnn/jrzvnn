@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China&#39;s AI regulations, which require chatbots to pass a 2,000-question ideological test, have spawned specialized agencies that help AI companies pass &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/251224/p1#a251224p1)
  - [HCLSoftware, a subsidiary of Indian IT company HCLTech, agrees to acquire business intelligence company Jaspersoft from Cloud Software Group for $240M in cash &lpar;Urvi Malvania/Financial Express&rpar;](http://www.techmeme.com/251223/p29#a251223p29)
  - [Waymo, which paused its service during blackouts in San Francisco on December 20, says it is updating its fleet to improve navigation during widespread outages &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251223/p28#a251223p28)
- - [South Korean prosecutors allege China&#39;s CXMT mass-produced 10nm-class DRAM using leaked Samsung tech, indicting 10 employees who previously worked for Samsung &lpar;Heo Kyungjun/The Asia Business Daily&rpar;](http://www.techmeme.com/251223/p27#a251223p27)
- - [Starlink says it has reached 9M &quot;active customers&quot; across 155 countries, territories, and other markets, up from 8M on November 5 &lpar;Polly Thompson/Business Insider&rpar;](http://www.techmeme.com/251223/p26#a251223p26)
- - [The Trump administration plans to replace the lottery system for H-1B visas with a &quot;weighted&quot; system prioritizing higher-paid individuals, starting February 27 &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/251223/p25#a251223p25)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-24/#ftag=CAD590a51e)
+ - [What Does the &#39;Pluribus&#39; Ending Mean? I Asked Star Rhea Seehorn to Explain](https://www.cnet.com/tech/services-and-software/pluribus-ending-explained-star-rhea-seehorn-interview-apple-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

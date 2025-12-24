@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
- - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
- - 💣 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
- - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 👉 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)<!-- MEMES:END -->
+ - 😝 [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)
+ - 😝 [Japanese children learn the hard way...](http://9gag.com/gag/ary0G15)
+ - 💣 [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
+ - 😝 [Good deed lad does a good deed](http://9gag.com/gag/aRBG3xA)
+ - 👉 [That&#39;s not how main character syndrome works](http://9gag.com/gag/azxzX2K)<!-- MEMES:END -->
 
 ---
 

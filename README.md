@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
  - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 💣 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 💣 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)
  - 😝 [The evolution of the Epstein files](http://9gag.com/gag/ary0M4B)
- - 👉 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)<!-- MEMES:END -->
+ - 👉 [The Mashco-Piro, an uncontacted Indigenous tribe in the Peruvian Amazon. Recent drone footage from 2024-2025 shows them near rivers, often painted red for protection. They&#39;re one of the largest such groups, avoiding outside contact](http://9gag.com/gag/a9yeKo6)<!-- MEMES:END -->
 
 ---
 

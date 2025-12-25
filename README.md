@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 😝 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
- - 💣 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
- - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
- - 👉 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)<!-- MEMES:END -->
+ - 😝 [Haha, classic](http://9gag.com/gag/aAy732L)
+ - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
+ - 💣 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)
+ - 😝 [Merry christmas yall](http://9gag.com/gag/a9yen11)
+ - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
 
 ---
 

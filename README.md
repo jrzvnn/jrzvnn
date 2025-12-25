@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)
- - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
- - 💣 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)
+ - 😝 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
+ - 😝 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 💣 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
  - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
- - 👉 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)<!-- MEMES:END -->
+ - 👉 [That&#39;s what a healthy society can look like...](http://9gag.com/gag/avyV8gn)<!-- MEMES:END -->
 
 ---
 

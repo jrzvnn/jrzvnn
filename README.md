@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 💣 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)
+ - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 😝 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
+ - 💣 [My time has come](http://9gag.com/gag/aW4AEgq)
  - 😝 [The evolution of the Epstein files](http://9gag.com/gag/ary0M4B)
- - 👉 [The Mashco-Piro, an uncontacted Indigenous tribe in the Peruvian Amazon. Recent drone footage from 2024-2025 shows them near rivers, often painted red for protection. They&#39;re one of the largest such groups, avoiding outside contact](http://9gag.com/gag/a9yeKo6)<!-- MEMES:END -->
+ - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
 
 ---
 

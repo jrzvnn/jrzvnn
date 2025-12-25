@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
  - 😝 [That&#39;s what a healthy society can look like...](http://9gag.com/gag/avyV8gn)
- - 😝 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)
- - 💣 [Reese Witherspoon&#39;s daughter looks more like Reese Witherspoon than Reese Witherspoon](http://9gag.com/gag/aRBG12B)
- - 😝 [Merry Christmas everyone](http://9gag.com/gag/a7oBw8A)
- - 👉 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)<!-- MEMES:END -->
+ - 💣 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
+ - 😝 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 👉 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)<!-- MEMES:END -->
 
 ---
 

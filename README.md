@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
  - 😝 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
- - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
- - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 😝 [The evolution of the Epstein files](http://9gag.com/gag/ary0M4B)
- - 👉 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)<!-- MEMES:END -->
+ - 💣 [Brazil is not for beginners](http://9gag.com/gag/aGyqgp6)
+ - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
 
 ---
 

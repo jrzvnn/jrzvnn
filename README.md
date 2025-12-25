@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the humans employed to rescue robotaxis; Waymo uses the Honk app to pay $20 to $24 to manually close robotaxi doors and $60 to $80 to tow its cars &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/251225/p6#a251225p6)
+ - [Hollywood cozied up to AI in 2025 and had nothing good to show for it](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025)
  - [How to Set Up a Smartphone for Elderly Loved Ones](https://www.wired.com/story/how-to-set-up-smartphone-for-parents-grandparents/)
  - [Get a 10% bonus on top of competitive payouts for your used iPhone](https://appleinsider.com/articles/25/12/25/get-a-10-bonus-on-top-of-competitive-payouts-for-your-used-iphone?utm_source=rss)
- - [This Two-Faced Watch Band Lets You Hide an Apple Watch Under Your Rolex](https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/#ftag=CAD590a51e)
- - [Amber&#39;s best tech in 2025: Apple TV, mesh Wi-Fi, and an eBike](https://appleinsider.com/articles/25/12/25/ambers-best-tech-in-2025-apple-tv-mesh-wi-fi-and-an-ebike?utm_source=rss)
- - [A look at Detroit&#39;s Apple Developer Academy, launched after the BLM protests, which spends $20K per student, nearly 2x the budget of local community colleges &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/251225/p5#a251225p5)<!-- TECH:END -->
+ - [This Two-Faced Watch Band Lets You Hide an Apple Watch Under Your Rolex](https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

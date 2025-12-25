@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 😝 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
- - 💣 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 😝 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
  - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 👉 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)<!-- MEMES:END -->
+ - 💣 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
+ - 😝 [Merry Christmas to the community, greetings to those of us working tonight, a hug for everyone](http://9gag.com/gag/a9yenX6)
+ - 👉 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)<!-- MEMES:END -->
 
 ---
 

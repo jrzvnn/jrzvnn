@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
- - 😝 [Hand breaking doesn&#39;t work](http://9gag.com/gag/a6ZzKpA)
- - 💣 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
- - 😝 [The evolution of the Epstein files](http://9gag.com/gag/ary0M4B)
- - 👉 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)<!-- MEMES:END -->
+ - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 😝 [Merry Christmas to the community, greetings to those of us working tonight, a hug for everyone](http://9gag.com/gag/a9yenX6)
+ - 👉 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)<!-- MEMES:END -->
 
 ---
 

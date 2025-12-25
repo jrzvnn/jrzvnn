@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A teardown of Huawei&#39;s Mate 70 Pro and Pura 80 Pro shows 57% of components were made in China; similarly priced Huawei phones in 2023 had 32% Chinese components &lpar;Takehiro Hasegawa/Nikkei Asia&rpar;](http://www.techmeme.com/251225/p1#a251225p1)
  - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-25/#ftag=CAD590a51e)
  - [Q&amp;A with Google DeepMind VP of Research Pushmeet Kohli on launching AlphaFold 2 five years ago, hallucinations, building an &quot;AI co-scientist&quot;, and more &lpar;Sandro Iannaccone/Wired&rpar;](http://www.techmeme.com/251224/p19#a251224p19)
  - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)
- - [Chinese humanoid robot startup Galbot raised over $300M led by China Mobile&#39;s industry investment fund at a $3B valuation, bringing its total funding to $800M &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/251224/p18#a251224p18)
- - [Best No-Contract Internet Providers for December 2025](https://www.cnet.com/home/internet/best-no-contract-internet-providers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese humanoid robot startup Galbot raised over $300M led by China Mobile&#39;s industry investment fund at a $3B valuation, bringing its total funding to $800M &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/251224/p18#a251224p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

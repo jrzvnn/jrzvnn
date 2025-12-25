@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Set Up a Smartphone for Elderly Loved Ones](https://www.wired.com/story/how-to-set-up-smartphone-for-parents-grandparents/)
+ - [Get a 10% bonus on top of competitive payouts for your used iPhone](https://appleinsider.com/articles/25/12/25/get-a-10-bonus-on-top-of-competitive-payouts-for-your-used-iphone?utm_source=rss)
+ - [This Two-Faced Watch Band Lets You Hide an Apple Watch Under Your Rolex](https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/#ftag=CAD590a51e)
  - [Amber&#39;s best tech in 2025: Apple TV, mesh Wi-Fi, and an eBike](https://appleinsider.com/articles/25/12/25/ambers-best-tech-in-2025-apple-tv-mesh-wi-fi-and-an-ebike?utm_source=rss)
- - [A look at Detroit&#39;s Apple Developer Academy, launched after the BLM protests, which spends $20K per student, nearly 2x the budget of local community colleges &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/251225/p5#a251225p5)
- - [The Gloves Are Off in the Fight for Your Right to Repair](https://www.wired.com/story/expired-tired-wired-right-to-repair/)
- - [2025’s Best Phones Were Also Its Wackiest](https://www.wired.com/story/expired-tired-wired-wacky-phones/)
- - [How a $200 Fake Fireplace From Home Depot Soothed My Soul](https://www.wired.com/story/turbro-suburbs-fireplace-rave-2025/)<!-- TECH:END -->
+ - [A look at Detroit&#39;s Apple Developer Academy, launched after the BLM protests, which spends $20K per student, nearly 2x the budget of local community colleges &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/251225/p5#a251225p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

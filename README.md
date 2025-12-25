@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
- - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
- - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
  - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 👉 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)<!-- MEMES:END -->
+ - 😝 [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)
+ - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 👉 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)<!-- MEMES:END -->
 
 ---
 

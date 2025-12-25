@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 💣 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
  - 😝 [Eltit](http://9gag.com/gag/agmbBKx)
- - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
+ - 👉 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)<!-- MEMES:END -->
 
 ---
 

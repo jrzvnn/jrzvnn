@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Gloves Are Off in the Fight for Your Right to Repair](https://www.wired.com/story/expired-tired-wired-right-to-repair/)
+ - [2025’s Best Phones Were Also Its Wackiest](https://www.wired.com/story/expired-tired-wired-wacky-phones/)
  - [How a $200 Fake Fireplace From Home Depot Soothed My Soul](https://www.wired.com/story/turbro-suburbs-fireplace-rave-2025/)
- - [We Tested 87 Face Sunscreens and These Are the Best for Year-Round Sun Protection](https://www.cnet.com/health/personal-care/best-sunscreen-for-face/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 25 #662](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-25-662/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 25, #458](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-25-458/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 25, #1650](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-25-1650/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Stranger Things 5&#39; Flips Christmas Upside Down. Volume 2 Drops Today](https://www.cnet.com/tech/services-and-software/stranger-things-5-volume-2-release-date-netflix/#ftag=CAD590a51e)
+ - [We Tested 87 Face Sunscreens and These Are the Best for Year-Round Sun Protection](https://www.cnet.com/health/personal-care/best-sunscreen-for-face/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

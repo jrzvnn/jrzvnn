@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports!](http://9gag.com/gag/aW4AEox)
  - 😝 [Haha, classic](http://9gag.com/gag/aAy732L)
- - 💣 [Stay safe](http://9gag.com/gag/awyDXqQ)
- - 😝 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)
+ - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
+ - 💣 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)
+ - 😝 [Merry Christmas to the community, greetings to those of us working tonight, a hug for everyone](http://9gag.com/gag/a9yenX6)
  - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
 
 ---

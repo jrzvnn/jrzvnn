@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The evolution of the Epstein files](http://9gag.com/gag/ary0M4B)
  - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 💣 [My time has come](http://9gag.com/gag/aW4AEgq)
- - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
- - 👉 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)<!-- MEMES:END -->
+ - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 😝 [Merry Christmas to the community, greetings to those of us working tonight, a hug for everyone](http://9gag.com/gag/a9yenX6)
+ - 👉 [Top reporter](http://9gag.com/gag/aD2Lgvx)<!-- MEMES:END -->
 
 ---
 

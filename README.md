@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
- - 💣 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)
  - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 👉 [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)<!-- MEMES:END -->
+ - 💣 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)
+ - 😝 [There are still some days left until it&#39;s over.](http://9gag.com/gag/an73Q9o)
+ - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
 
 ---
 

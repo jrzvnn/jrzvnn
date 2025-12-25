@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
- - 😝 [That&#39;s what a healthy society can look like...](http://9gag.com/gag/avyV8gn)
- - 💣 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
- - 😝 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
+ - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 💣 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 😝 [Merry Christmas to the community, greetings to those of us working tonight, a hug for everyone](http://9gag.com/gag/a9yenX6)
  - 👉 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)<!-- MEMES:END -->
 
 ---

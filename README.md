@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: crypto M&amp;A hit $8.6B across 267 deals in 2025 vs. $2.17B in 2024; 11 crypto IPOs raised $14.6B worldwide, up from $310M from four IPOs in 2024 &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251225/p4#a251225p4)
  - [Tuft &amp; Needle Promo Codes: 20% Off | December 2025](https://www.wired.com/story/tuft-and-needle-promo-code/)
  - [How Larry Ellison is helping his son David build a media empire, including making the case to Trump for why Paramount, not Netflix, should acquire WBD &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/251225/p3#a251225p3)
  - [Sealy Promo Code: Save $200 on Mattresses This Month](https://www.wired.com/story/sealy-promo-code/)
- - [Sources: Nvidia&#39;s licensing deal with Groq, which has raised ~$1.8B, includes payouts to Groq&#39;s key execs and investors, including BlackRock and Tiger Global &lpar;The Information&rpar;](http://www.techmeme.com/251225/p2#a251225p2)
- - [A teardown of Huawei&#39;s Mate 70 Pro and Pura 80 Pro shows 57% of components were made in China; similarly priced Huawei phones in 2023 had 32% Chinese components &lpar;Takehiro Hasegawa/Nikkei Asia&rpar;](http://www.techmeme.com/251225/p1#a251225p1)<!-- TECH:END -->
+ - [Sources: Nvidia&#39;s licensing deal with Groq, which has raised ~$1.8B, includes payouts to Groq&#39;s key execs and investors, including BlackRock and Tiger Global &lpar;The Information&rpar;](http://www.techmeme.com/251225/p2#a251225p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

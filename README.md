@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best advanced iPad board game ports for the strategy gamer in your life](https://appleinsider.com/articles/25/12/25/the-best-advanced-ipad-board-game-ports-for-the-strategy-gamer-in-your-life?utm_source=rss)
  - [AI sector minted 50+ new billionaires in 2025; Crunchbase: investors poured $200B+ into AI startups in 2025, or about 50% of global funding, up from 34% in 2024 &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251225/p8#a251225p8)
  - [Tesla&#39;s robotaxi service in Austin significantly trails Waymo, deploying an estimated 30 cars with safety drivers, vs. Waymo&#39;s 200 cars without human monitors &lpar;Jack Ewing/New York Times&rpar;](http://www.techmeme.com/251225/p7#a251225p7)
  - [43 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)
- - [I re-created Google&amp;#8217;s cute Gemini ad with my own kid&amp;#8217;s stuffie, and I wish I hadn&amp;#8217;t](https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial)
- - [A look at the humans employed to rescue robotaxis; Waymo uses the Honk app to pay $20 to $24 to manually close robotaxi doors and $60 to $80 to tow its cars &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/251225/p6#a251225p6)<!-- TECH:END -->
+ - [I re-created Google&amp;#8217;s cute Gemini ad with my own kid&amp;#8217;s stuffie, and I wish I hadn&amp;#8217;t](https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

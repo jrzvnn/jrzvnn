@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
  - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 💣 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)
- - 😝 [There are still some days left until it&#39;s over.](http://9gag.com/gag/an73Q9o)
- - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
+ - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 💣 [The Mashco-Piro, an uncontacted Indigenous tribe in the Peruvian Amazon. Recent drone footage from 2024-2025 shows them near rivers, often painted red for protection. They&#39;re one of the largest such groups, avoiding outside contact](http://9gag.com/gag/a9yeKo6)
+ - 😝 [Yes you are](http://9gag.com/gag/a879ED3)
+ - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
 
 ---
 

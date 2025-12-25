@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 💣 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
- - 😝 [Merry Christmas to the community, greetings to those of us working tonight, a hug for everyone](http://9gag.com/gag/a9yenX6)
+ - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 😝 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
  - 👉 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)<!-- MEMES:END -->
 
 ---

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 😝 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
+ - 😝 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 😝 [The evolution of the Epstein files](http://9gag.com/gag/ary0M4B)
  - 👉 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)<!-- MEMES:END -->
 
 ---

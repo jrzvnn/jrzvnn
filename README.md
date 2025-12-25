@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 40 Best Movies on HBO Max Right Now &lpar;January 2026&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Xiaomi unveils $999+ 17 Ultra in China with three rear cameras, including a 50MP 1&quot; sensor and a 200MP periscope lens; Leica edition gets a mechanical zoom ring &lpar;Siddharth/GSMArena.com&rpar;](http://www.techmeme.com/251225/p9#a251225p9)
- - [The best advanced iPad board game ports for the strategy gamer in your life](https://appleinsider.com/articles/25/12/25/the-best-advanced-ipad-board-game-ports-for-the-strategy-gamer-in-your-life?utm_source=rss)
- - [AI sector minted 50+ new billionaires in 2025; Crunchbase: investors poured $200B+ into AI startups in 2025, or about 50% of global funding, up from 34% in 2024 &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251225/p8#a251225p8)
- - [Tesla&#39;s robotaxi service in Austin significantly trails Waymo, deploying an estimated 30 cars with safety drivers, vs. Waymo&#39;s 200 cars without human monitors &lpar;Jack Ewing/New York Times&rpar;](http://www.techmeme.com/251225/p7#a251225p7)<!-- TECH:END -->
+ - [Deal alert: AirPods Pro 3 are back on sale for $199 &lpar;$50 off&rpar;](https://appleinsider.com/articles/25/12/25/deal-alert-airpods-pro-3-are-back-on-sale-for-199-50-off?utm_source=rss)
+ - [Apple settles with a Brazilian regulator to allow alternative app stores; report: Apple will charge a 5% fee for alt app stores and 15% on App Store link-outs &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/251225/p10#a251225p10)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 26 #663](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-26-663/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 26, #929](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-26-929/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 26, #1651](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-26-1651/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

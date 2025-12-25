@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [International cheese beef](http://9gag.com/gag/aoy6M9n)
- - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
- - 💣 [Is an hour a long time?](http://9gag.com/gag/aO8O7pr)
- - 😝 [Based Santa](http://9gag.com/gag/an73QQz)
- - 👉 [Daddy you know so much](http://9gag.com/gag/aByMm3D)<!-- MEMES:END -->
+ - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 😝 [Yes you are](http://9gag.com/gag/a879ED3)
+ - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
 
 ---
 

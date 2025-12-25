@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
  - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 💣 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
+ - 💣 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)
  - 😝 [Merry Christmas to the community, greetings to those of us working tonight, a hug for everyone](http://9gag.com/gag/a9yenX6)
- - 👉 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)<!-- MEMES:END -->
+ - 👉 [Loyalty is key](http://9gag.com/gag/aZZKLnp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haha, classic](http://9gag.com/gag/aAy732L)
- - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
- - 💣 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)
- - 😝 [Merry christmas yall](http://9gag.com/gag/a9yen11)
- - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
+ - 😝 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
+ - 😝 [She looks like she\u2019s gonna ask a historian if King Arthur came a lot.](http://9gag.com/gag/abAoYwO)
+ - 💣 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)
+ - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
+ - 👉 [Loyalty is key](http://9gag.com/gag/aZZKLnp)<!-- MEMES:END -->
 
 ---
 

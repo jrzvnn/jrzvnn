@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haha, classic](http://9gag.com/gag/aAy732L)
- - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
- - 💣 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)
- - 😝 [Merry Christmas to the community, greetings to those of us working tonight, a hug for everyone](http://9gag.com/gag/a9yenX6)
- - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
+ - 😝 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
+ - 💣 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
+ - 😝 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)
+ - 👉 [That&#39;s what a healthy society can look like...](http://9gag.com/gag/avyV8gn)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 😝 [The Mashco-Piro, an uncontacted Indigenous tribe in the Peruvian Amazon. Recent drone footage from 2024-2025 shows them near rivers, often painted red for protection. They&#39;re one of the largest such groups, avoiding outside contact](http://9gag.com/gag/a9yeKo6)
- - 💣 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
- - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
- - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
+ - 😝 [International cheese beef](http://9gag.com/gag/aoy6M9n)
+ - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
+ - 💣 [Is an hour a long time?](http://9gag.com/gag/aO8O7pr)
+ - 😝 [Based Santa](http://9gag.com/gag/an73QQz)
+ - 👉 [Daddy you know so much](http://9gag.com/gag/aByMm3D)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 😝 [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)
- - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
- - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 👉 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)<!-- MEMES:END -->
+ - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - 💣 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)
+ - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 👉 [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 😝 [Merry Christmas to the community, greetings to those of us working tonight, a hug for everyone](http://9gag.com/gag/a9yenX6)
- - 👉 [Top reporter](http://9gag.com/gag/aD2Lgvx)<!-- MEMES:END -->
+ - 😝 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
+ - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 👉 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)<!-- MEMES:END -->
 
 ---
 

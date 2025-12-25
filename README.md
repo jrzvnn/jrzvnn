@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
  - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
- - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 😝 [There are still some days left until it&#39;s over.](http://9gag.com/gag/an73Q9o)
  - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
 
 ---

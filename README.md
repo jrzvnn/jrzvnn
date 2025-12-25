@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
  - 😝 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
- - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
- - 💣 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
+ - 💣 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
  - 😝 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)
- - 👉 [That&#39;s what a healthy society can look like...](http://9gag.com/gag/avyV8gn)<!-- MEMES:END -->
+ - 👉 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)<!-- MEMES:END -->
 
 ---
 

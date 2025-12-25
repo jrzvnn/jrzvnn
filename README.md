@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
- - 😝 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
- - 💣 [Brazil is not for beginners](http://9gag.com/gag/aGyqgp6)
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
+ - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 😝 [Hand breaking doesn&#39;t work](http://9gag.com/gag/a6ZzKpA)
+ - 💣 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
+ - 😝 [The evolution of the Epstein files](http://9gag.com/gag/ary0M4B)
+ - 👉 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)<!-- MEMES:END -->
 
 ---
 

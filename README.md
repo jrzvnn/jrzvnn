@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
+ - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
  - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
- - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
- - 😝 [Aaaaahhhh](http://9gag.com/gag/a0eG7GQ)
- - 👉 [Top reporter](http://9gag.com/gag/aD2Lgvx)<!-- MEMES:END -->
+ - 💣 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)
+ - 😝 [Character development speedrun](http://9gag.com/gag/a7oBEYe)
+ - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
 
 ---
 

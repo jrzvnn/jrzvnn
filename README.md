@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Refinitiv: AI infrastructure companies borrowed $100B+ in 2025; small companies face higher interest rates given investor wariness over unproven AI businesses &lpar;Joe Rennison/New York Times&rpar;](http://www.techmeme.com/251226/p9#a251226p9)
  - [New LG GM9 5K mini LED display adopts AI scaling, anti-blooming tech](https://appleinsider.com/articles/25/12/26/new-lg-gm9-5k-mini-led-display-adopts-ai-scaling-anti-blooming-tech?utm_source=rss)
  - [Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off](https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off)
  - [Google is letting some people change their @gmail address](https://www.theverge.com/news/850237/google-change-your-gmail-address)
- - [Oracle stock fell 30% this quarter, its steepest drop since Q3 2001, when it slid ~34%, amid skepticism about its ability to open more data centers for OpenAI &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251226/p8#a251226p8)
- - [The 10 best shows to stream on Amazon Prime Video from 2025](https://www.theverge.com/entertainment/846767/amazon-prime-video-best-shows-2025)<!-- TECH:END -->
+ - [Oracle stock fell 30% this quarter, its steepest drop since Q3 2001, when it slid ~34%, amid skepticism about its ability to open more data centers for OpenAI &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251226/p8#a251226p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

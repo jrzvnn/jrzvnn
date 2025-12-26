@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
- - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 💣 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
- - 😝 [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)
+ - 😝 [Eltit](http://9gag.com/gag/agmbBKx)
+ - 😝 [Music taste can be a deal breaker, apparently](http://9gag.com/gag/aW4AgEA)
+ - 💣 [Yes you are](http://9gag.com/gag/a879ED3)
+ - 😝 [Freedom of speech oppressor](http://9gag.com/gag/aByMd9x)
  - 👉 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)<!-- MEMES:END -->
 
 ---

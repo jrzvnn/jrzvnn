@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)
- - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 💣 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
- - 😝 [Yes you are](http://9gag.com/gag/a879ED3)
- - 👉 [Go sports!](http://9gag.com/gag/aW4AEox)<!-- MEMES:END -->
+ - 😝 [The breakfast hasn&#39;t been delivered on schedule](http://9gag.com/gag/aPA03dQ)
+ - 😝 [Daddy you know so much](http://9gag.com/gag/aByMm3D)
+ - 💣 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
+ - 😝 [Merry Christmas everyone](http://9gag.com/gag/a7oBw8A)
+ - 👉 [Fish go bulp](http://9gag.com/gag/a4P8EzZ)<!-- MEMES:END -->
 
 ---
 

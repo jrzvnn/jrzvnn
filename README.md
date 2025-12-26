@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)
  - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
- - 💣 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
- - 😝 [ZEUUUUUUSSSSS!!!!!!](http://9gag.com/gag/azxzMDj)
- - 👉 [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)<!-- MEMES:END -->
+ - 😝 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
+ - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 👉 [Top reporter](http://9gag.com/gag/aD2Lgvx)<!-- MEMES:END -->
 
 ---
 

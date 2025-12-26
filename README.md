@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s war on offshore wind faces another lawsuit](https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center)
  - [NY Gov. Kathy Hochul signs a law requiring social platforms with features like autoplay and addictive feeds to show mental health warning labels for young users &lpar;Felix Day/WRGB&rpar;](http://www.techmeme.com/251226/p12#a251226p12)
  - [Today&#39;s Wordle Hints, Answer and Help for Dec. 27, #1,652](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-27-1652/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 27, #460](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-27-460/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 27 #664](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-27-664/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 27, #930](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-27-930/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 27 #664](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-27-664/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

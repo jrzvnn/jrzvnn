@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The breakfast hasn&#39;t been delivered on schedule](http://9gag.com/gag/aPA03dQ)
  - 😝 [Daddy you know so much](http://9gag.com/gag/aByMm3D)
- - 💣 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
- - 😝 [Merry Christmas everyone](http://9gag.com/gag/a7oBw8A)
+ - 😝 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
+ - 💣 [Merry Christmas everyone](http://9gag.com/gag/a7oBw8A)
+ - 😝 [So... dogs made a new friend... i think is a borzoi or something... i&#39;m not knowledgeable about dog breeds...](http://9gag.com/gag/aXPzoDb)
  - 👉 [Fish go bulp](http://9gag.com/gag/a4P8EzZ)<!-- MEMES:END -->
 
 ---

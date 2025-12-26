@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
- - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
- - 💣 [Trump is mentioned over 600 times in the redacted Epstein files.](http://9gag.com/gag/a5QAWqr)
  - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
+ - 😝 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
+ - 💣 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 😝 [A horse walks into a bar. The barman asks: why the long face?](http://9gag.com/gag/aGyqEj0)
+ - 👉 [Trump is mentioned over 600 times in the redacted Epstein files.](http://9gag.com/gag/a5QAWqr)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The breakfast hasn&#39;t been delivered on schedule](http://9gag.com/gag/aPA03dQ)
- - 😝 [Daddy you know so much](http://9gag.com/gag/aByMm3D)
- - 💣 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
+ - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
  - 😝 [Music taste can be a deal breaker, apparently](http://9gag.com/gag/aW4AgEA)
- - 👉 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)<!-- MEMES:END -->
+ - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sleep Number P6 Smart Bed Review: Advanced and Adaptive](https://www.wired.com/review/sleep-number-p6-smart-bed/)
- - [US Trade Dominance Will Soon Begin to Crack](https://www.wired.com/story/us-trade-dominance-will-begin-to-crack/)
- - [Internal documents: Instagram execs have waged an aggressive campaign to win back teens, boosting teen-friendly influencers, adjusting its algorithm, and more &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251226/p5#a251226p5)
- - [‘We Ain’t Seen Nothing Yet’—Trump’s Mass Deportations Will Only Grow From Here](https://www.wired.com/story/expired-tired-wired-constitutional-sheriffs/)
- - [A Google support page in Hindi says the company plans to roll out an option to let users change their Gmail addresses while retaining all data and services &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/251226/p4#a251226p4)<!-- TECH:END -->
+ - [How to buy a refurbished iPhone without getting burned](https://appleinsider.com/articles/25/12/26/how-to-buy-a-refurbished-iphone-without-getting-burned?utm_source=rss)
+ - [Ride1Up Portola e-bike review: A foldable e-bike geared towards the everyman](https://appleinsider.com/articles/25/12/26/ride1up-portola-e-bike-review-a-foldable-e-bike-geared-towards-the-everyman?utm_source=rss)
+ - [First half of 2025 in review on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/26/first-half-of-2025-in-review-on-the-appleinsider-podcast?utm_source=rss)
+ - [Ricoh GR IV Review: Everyone&#39;s Favorite Pocket Camera Gets Better](https://www.wired.com/review/ricoh-gr-iv-camera/)
+ - [Could You Use a Rowboat to Walk on the Seafloor Like Jack Sparrow?](https://www.wired.com/story/using-a-rowboat-to-walk-on-the-seafloor-like-jack-sparrow/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

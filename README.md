@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [HP ZBook 8 Gli 14-Inch Review: An Unimpressive Workstation](https://www.wired.com/review/hp-zbook-8-gli-14-inch/)
- - [Here Are the 10 Hardest Wordle Answers of 2025—Did You Solve Any of Them?](https://www.cnet.com/tech/gaming/new-study-reveals-wordles-top-10-toughest-words-of-2025/#ftag=CAD590a51e)
  - [MSI Pro MP165 E6 Review: A No-Frills Portable Monitor at a Great Price](https://www.cnet.com/tech/computing/msi-pro-mp165-e6-review-a-no-frills-portable-monitor-at-a-great-price/#ftag=CAD590a51e)
  - [Purple Promo Codes and Deals: Up to 30% Off](https://www.wired.com/story/purple-promo-code/)
- - [The top 10 US tech billionaires collectively added $550B+ to their combined net worth in 2025, reaching $2.5T by December 24, up from $1.9T at the year&#39;s start &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/251226/p3#a251226p3)<!-- TECH:END -->
+ - [The top 10 US tech billionaires collectively added $550B+ to their combined net worth in 2025, reaching $2.5T by December 24, up from $1.9T at the year&#39;s start &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/251226/p3#a251226p3)
+ - [Chinese state media: China launches three VC funds of $7.1B+ each to back early-stage &quot;hard technology&quot; startups valued below ¥500M, or about $71M &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p2#a251226p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

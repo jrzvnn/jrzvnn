@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 10 best shows to stream on Amazon Prime Video from 2025](https://www.theverge.com/entertainment/846767/amazon-prime-video-best-shows-2025)
+ - [This AI video enhancer for Mac fixes blur, reduces noise, and upscales to 4K](https://appleinsider.com/articles/25/12/26/this-ai-video-enhancer-for-mac-fixes-blur-reduces-noise-and-upscales-to-4k?utm_source=rss)
  - [Sergey Brin thought he had his Steve Jobs moment with the failed Google Glass](https://appleinsider.com/articles/25/12/26/sergey-brin-thought-he-had-his-steve-jobs-moment-with-the-failed-google-glass?utm_source=rss)
  - [LG teases a new chore-completing home robot](https://www.theverge.com/news/850242/lg-cloid-home-robot-chores-ces-2026)
- - [Amazon, Microsoft, and Google pledged a combined $67.5B in Indian investments since October, 80% of those in December, as part of an AI spending frenzy in India &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/251226/p7#a251226p7)
- - [Chinese government data: shipments of foreign-branded mobile phones, primarily iPhones, rose 128.4% YoY in November 2025 to 6.93M units &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p6#a251226p6)
- - [Want to Try Film Photography? Here Are the Analog Cameras You Should Buy](https://www.cnet.com/tech/computing/want-to-try-film-photography-here-are-the-analog-cameras-you-should-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon, Microsoft, and Google pledged a combined $67.5B in Indian investments since October, 80% of those in December, as part of an AI spending frenzy in India &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/251226/p7#a251226p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

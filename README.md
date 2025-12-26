@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
- - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 💣 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 😝 [Sister-in-law understood the assignment](http://9gag.com/gag/a87914e)
- - 👉 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)<!-- MEMES:END -->
+ - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 💣 [Avatar 3](http://9gag.com/gag/an73g4E)
+ - 😝 [Music taste can be a deal breaker, apparently](http://9gag.com/gag/aW4AgEA)
+ - 👉 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)<!-- MEMES:END -->
 
 ---
 

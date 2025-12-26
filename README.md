@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese government data: shipments of foreign-branded mobile phones, primarily iPhones, rose 128.4% YoY in November 2025 to 6.93M units &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p6#a251226p6)
  - [How to buy a refurbished iPhone without getting burned](https://appleinsider.com/articles/25/12/26/how-to-buy-a-refurbished-iphone-without-getting-burned?utm_source=rss)
  - [Ride1Up Portola e-bike review: A foldable e-bike geared towards the everyman](https://appleinsider.com/articles/25/12/26/ride1up-portola-e-bike-review-a-foldable-e-bike-geared-towards-the-everyman?utm_source=rss)
  - [First half of 2025 in review on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/26/first-half-of-2025-in-review-on-the-appleinsider-podcast?utm_source=rss)
- - [Ricoh GR IV Review: Everyone&#39;s Favorite Pocket Camera Gets Better](https://www.wired.com/review/ricoh-gr-iv-camera/)
- - [Could You Use a Rowboat to Walk on the Seafloor Like Jack Sparrow?](https://www.wired.com/story/using-a-rowboat-to-walk-on-the-seafloor-like-jack-sparrow/)<!-- TECH:END -->
+ - [Ricoh GR IV Review: Everyone&#39;s Favorite Pocket Camera Gets Better](https://www.wired.com/review/ricoh-gr-iv-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 😝 [Trump is mentioned over 600 times in the redacted Epstein files.](http://9gag.com/gag/a5QAWqr)
- - 💣 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
- - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
+ - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 💣 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
+ - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 👉 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)<!-- MEMES:END -->
 
 ---
 

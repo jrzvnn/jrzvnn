@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 💣 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 😝 [Trump is mentioned over 600 times in the redacted Epstein files.](http://9gag.com/gag/a5QAWqr)
+ - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 💣 [I can feel this clip](http://9gag.com/gag/a4P83m1)
  - 😝 [A horse walks into a bar. The barman asks: why the long face?](http://9gag.com/gag/aGyqEj0)
- - 👉 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)<!-- MEMES:END -->
+ - 👉 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)<!-- MEMES:END -->
 
 ---
 

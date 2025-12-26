@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daddy you know so much](http://9gag.com/gag/aByMm3D)
- - 😝 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
- - 💣 [Merry Christmas everyone](http://9gag.com/gag/a7oBw8A)
- - 😝 [So... dogs made a new friend... i think is a borzoi or something... i&#39;m not knowledgeable about dog breeds...](http://9gag.com/gag/aXPzoDb)
- - 👉 [Fish go bulp](http://9gag.com/gag/a4P8EzZ)<!-- MEMES:END -->
+ - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 💣 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 👉 [Top reporter](http://9gag.com/gag/aD2Lgvx)<!-- MEMES:END -->
 
 ---
 

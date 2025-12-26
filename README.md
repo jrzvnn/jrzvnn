@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The top 10 US tech billionaires collectively added $550B+ to their combined net worth in 2025, reaching $2.5T by December 24, up from $1.9T at the year&#39;s start &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/251226/p3#a251226p3)
  - [Chinese state media: China launches three VC funds of $7.1B+ each to back early-stage &quot;hard technology&quot; startups valued below ¥500M, or about $71M &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p2#a251226p2)
  - [Cursor CEO Michael Truell warns that &quot;vibe coding&quot; advanced projects may create &quot;shaky foundations&quot; and eventually &quot;things start to kind of crumble&quot; &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/251226/p1#a251226p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 26, #459](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-26-459/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-26/#ftag=CAD590a51e)
- - [As startups flood the market with AI shopping agents, Amazon is playing defense by blocking agents&#39; access to its site and investing heavily in its own tools &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251225/p13#a251225p13)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

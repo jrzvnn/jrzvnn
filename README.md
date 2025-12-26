@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
  - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 😝 [Music taste can be a deal breaker, apparently](http://9gag.com/gag/aW4AgEA)
- - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
+ - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
 
 ---
 

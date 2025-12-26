@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cyberpunk 2077: Ultimate Edition and other Nintendo games are up to 50 percent off](https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off)
  - [Google is letting some people change their @gmail address](https://www.theverge.com/news/850237/google-change-your-gmail-address)
  - [Oracle stock fell 30% this quarter, its steepest drop since Q3 2001, when it slid ~34%, amid skepticism about its ability to open more data centers for OpenAI &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251226/p8#a251226p8)
  - [The 10 best shows to stream on Amazon Prime Video from 2025](https://www.theverge.com/entertainment/846767/amazon-prime-video-best-shows-2025)
- - [This AI video enhancer for Mac fixes blur, reduces noise, and upscales to 4K](https://appleinsider.com/articles/25/12/26/this-ai-video-enhancer-for-mac-fixes-blur-reduces-noise-and-upscales-to-4k?utm_source=rss)
- - [Sergey Brin thought he had his Steve Jobs moment with the failed Google Glass](https://appleinsider.com/articles/25/12/26/sergey-brin-thought-he-had-his-steve-jobs-moment-with-the-failed-google-glass?utm_source=rss)<!-- TECH:END -->
+ - [This AI video enhancer for Mac fixes blur, reduces noise, and upscales to 4K](https://appleinsider.com/articles/25/12/26/this-ai-video-enhancer-for-mac-fixes-blur-reduces-noise-and-upscales-to-4k?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

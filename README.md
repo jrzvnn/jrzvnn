@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)
+ - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 💣 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
  - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 💣 [Avatar 3](http://9gag.com/gag/an73g4E)
- - 😝 [Music taste can be a deal breaker, apparently](http://9gag.com/gag/aW4AgEA)
- - 👉 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)<!-- MEMES:END -->
+ - 👉 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)<!-- MEMES:END -->
 
 ---
 

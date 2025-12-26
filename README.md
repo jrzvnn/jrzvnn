@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
- - 😝 [I hate my neighbors!](http://9gag.com/gag/amoyg0o)
- - 💣 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 👉 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)<!-- MEMES:END -->
+ - 😝 [Merry Christmas to the community, greetings to those of us working tonight, a hug for everyone](http://9gag.com/gag/a9yenX6)
+ - 😝 [Eltit](http://9gag.com/gag/agmbBKx)
+ - 💣 [Music taste can be a deal breaker, apparently](http://9gag.com/gag/aW4AgEA)
+ - 😝 [Yes you are](http://9gag.com/gag/a879ED3)
+ - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
 
 ---
 

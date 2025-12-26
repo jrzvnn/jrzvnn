@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The breakfast hasn&#39;t been delivered on schedule](http://9gag.com/gag/aPA03dQ)
  - 😝 [Daddy you know so much](http://9gag.com/gag/aByMm3D)
+ - 💣 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
  - 😝 [Music taste can be a deal breaker, apparently](http://9gag.com/gag/aW4AgEA)
- - 💣 [The breakfast hasn&#39;t been delivered on schedule](http://9gag.com/gag/aPA03dQ)
- - 😝 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
  - 👉 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)<!-- MEMES:END -->
 
 ---

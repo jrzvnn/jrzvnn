@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Color this you filthy peasant](http://9gag.com/gag/aPA0ZRQ)
- - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 💣 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
  - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
+ - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 💣 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 👉 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)<!-- MEMES:END -->
 
 ---
 

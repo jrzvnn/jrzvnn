@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
  - 😝 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
- - 💣 [Meredith&#39;s dating philosophy is unmatched](http://9gag.com/gag/aO8O7ev)
- - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 😝 [Aaaaahhhh](http://9gag.com/gag/a0eG7GQ)
  - 👉 [Top reporter](http://9gag.com/gag/aD2Lgvx)<!-- MEMES:END -->
 
 ---

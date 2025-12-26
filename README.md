@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge temporarily blocks the Trump administration from detaining CCDH CEO Imran Ahmed, one of the Europeans the US barred on claims of promoting censorship &lpar;Aishvarya Kavi/New York Times&rpar;](http://www.techmeme.com/251225/p12#a251225p12)
  - [An interview with Citizen Lab founder Ronald Deibert about the US adopting authoritarian digital practices, the research group&#39;s accomplishments, and more &lpar;Finian Hazen/MIT Technology Review&rpar;](http://www.techmeme.com/251225/p11#a251225p11)
  - [Deal alert: AirPods Pro 3 are back on sale for $199 &lpar;$50 off&rpar;](https://appleinsider.com/articles/25/12/25/deal-alert-airpods-pro-3-are-back-on-sale-for-199-50-off?utm_source=rss)
  - [Apple settles with a Brazilian regulator to allow alternative app stores; report: Apple will charge a 5% fee for alt app stores and 15% on App Store link-outs &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/251225/p10#a251225p10)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 26 #663](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-26-663/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 26, #929](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-26-929/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 26 #663](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-26-663/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

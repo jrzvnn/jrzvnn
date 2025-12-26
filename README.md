@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [“Just One More Chapter” and Other Lies: 25 Books CNET Staff Are Reading Over the Holiday Break](https://www.cnet.com/deals/cnet-holiday-reading-list/#ftag=CAD590a51e)
+ - [Vibe Coding as a Non-Coder: 6 Ways I Found to Have More Fun and Better Luck Creating With AI](https://www.cnet.com/tech/services-and-software/vibe-coding-as-a-non-coder-6-ways-i-found-to-have-more-fun-and-better-luck-creating-with-ai/#ftag=CAD590a51e)
  - [Refinitiv: AI infrastructure companies borrowed $100B+ in 2025; small companies face higher interest rates given investor wariness over unproven AI businesses &lpar;Joe Rennison/New York Times&rpar;](http://www.techmeme.com/251226/p9#a251226p9)
  - [New LG GM9 5K mini LED display adopts AI scaling, anti-blooming tech](https://appleinsider.com/articles/25/12/26/new-lg-gm9-5k-mini-led-display-adopts-ai-scaling-anti-blooming-tech?utm_source=rss)
- - [Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off](https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off)
- - [Google is letting some people change their @gmail address](https://www.theverge.com/news/850237/google-change-your-gmail-address)
- - [Oracle stock fell 30% this quarter, its steepest drop since Q3 2001, when it slid ~34%, amid skepticism about its ability to open more data centers for OpenAI &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251226/p8#a251226p8)<!-- TECH:END -->
+ - [Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off](https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

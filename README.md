@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
- - 😝 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
- - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 👉 [Top reporter](http://9gag.com/gag/aD2Lgvx)<!-- MEMES:END -->
+ - 😝 [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)
+ - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 💣 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
+ - 😝 [Yes you are](http://9gag.com/gag/a879ED3)
+ - 👉 [Go sports!](http://9gag.com/gag/aW4AEox)<!-- MEMES:END -->
 
 ---
 

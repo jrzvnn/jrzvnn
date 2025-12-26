@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
  - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 💣 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 😝 [Dogs vs cats in a nutshell](http://9gag.com/gag/aByMnnD)
- - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
+ - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - 💣 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
+ - 😝 [I Wonder why. What a mistery.](http://9gag.com/gag/a0eGZBQ)
+ - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
 
 ---
 

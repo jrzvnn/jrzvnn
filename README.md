@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
  - 💣 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
- - 😝 [I Wonder why. What a mistery.](http://9gag.com/gag/a0eGZBQ)
+ - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
  - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glazing finish](http://9gag.com/gag/a2vV7WE)
+ - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
  - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 💣 [Flash for free lemonade](http://9gag.com/gag/aAy7GML)
- - 😝 [Good things happened on December 26](http://9gag.com/gag/aE0b8Xp)
- - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
+ - 💣 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - 😝 [Dogs vs cats in a nutshell](http://9gag.com/gag/aByMnnD)
+ - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [NY Gov. Kathy Hochul signs a law requiring social platforms with features like autoplay and addictive feeds to show mental health warning labels for young users &lpar;Felix Day/WRGB&rpar;](http://www.techmeme.com/251226/p12#a251226p12)
- - [Amazon slashes $250 off M4 MacBook Air models, prices from $749](https://appleinsider.com/articles/25/12/26/amazon-slashes-250-off-m4-macbook-air-models-prices-from-749?utm_source=rss)
- - [Coinbase says a former customer service agent was arrested in India, following a May breach where hackers bribed contractors to access sensitive customer data &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/251226/p11#a251226p11)
- - [Rodeo is an app for making plans with friends you already have](https://www.theverge.com/news/850398/rodeo-hinge-social-app-friends)
- - [Federal records show ICE has increased its surveillance tech spending to $300M+ under Trump, as the White House lowered privacy guardrails around citizens&#39; data &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/251226/p10#a251226p10)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 27, #1,652](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-27-1652/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 27, #460](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-27-460/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 27 #664](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-27-664/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 27, #930](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-27-930/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

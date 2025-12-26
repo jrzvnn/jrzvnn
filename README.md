@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
  - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 💣 [I can feel this clip](http://9gag.com/gag/a4P83m1)
  - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
+ - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
 
 ---
 

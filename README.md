@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sleep Number P6 Smart Bed Review: Advanced and Adaptive](https://www.wired.com/review/sleep-number-p6-smart-bed/)
+ - [US Trade Dominance Will Soon Begin to Crack](https://www.wired.com/story/us-trade-dominance-will-begin-to-crack/)
  - [Internal documents: Instagram execs have waged an aggressive campaign to win back teens, boosting teen-friendly influencers, adjusting its algorithm, and more &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251226/p5#a251226p5)
  - [‘We Ain’t Seen Nothing Yet’—Trump’s Mass Deportations Will Only Grow From Here](https://www.wired.com/story/expired-tired-wired-constitutional-sheriffs/)
- - [A Google support page in Hindi says the company plans to roll out an option to let users change their Gmail addresses while retaining all data and services &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/251226/p4#a251226p4)
- - [HP ZBook 8 Gli 14-Inch Review: An Unimpressive Workstation](https://www.wired.com/review/hp-zbook-8-gli-14-inch/)
- - [Here Are the 10 Hardest Wordle Answers of 2025—Did You Solve Any of Them?](https://www.cnet.com/tech/gaming/new-study-reveals-wordles-top-10-toughest-words-of-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Google support page in Hindi says the company plans to roll out an option to let users change their Gmail addresses while retaining all data and services &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/251226/p4#a251226p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

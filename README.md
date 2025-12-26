@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - 😝 [Meredith&#39;s dating philosophy is unmatched](http://9gag.com/gag/aO8O7ev)
+ - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
  - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 💣 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
- - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
+ - 👉 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)<!-- MEMES:END -->
 
 ---
 

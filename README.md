@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flash for free lemonade](http://9gag.com/gag/aAy7GML)
- - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 💣 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 😝 [Glazing finish](http://9gag.com/gag/a2vV7WE)
  - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 💣 [Flash for free lemonade](http://9gag.com/gag/aAy7GML)
+ - 😝 [Good things happened on December 26](http://9gag.com/gag/aE0b8Xp)
  - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
 
 ---

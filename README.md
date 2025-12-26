@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 💣 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
- - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
- - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
+ - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 😝 [Meredith&#39;s dating philosophy is unmatched](http://9gag.com/gag/aO8O7ev)
+ - 💣 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
+ - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 👉 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)<!-- MEMES:END -->
 
 ---
 

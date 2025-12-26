@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Chinese government data: shipments of foreign-branded mobile phones, primarily iPhones, rose 128.4% YoY in November 2025 to 6.93M units &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p6#a251226p6)
- - [How to buy a refurbished iPhone without getting burned](https://appleinsider.com/articles/25/12/26/how-to-buy-a-refurbished-iphone-without-getting-burned?utm_source=rss)
- - [Ride1Up Portola e-bike review: A foldable e-bike geared towards the everyman](https://appleinsider.com/articles/25/12/26/ride1up-portola-e-bike-review-a-foldable-e-bike-geared-towards-the-everyman?utm_source=rss)
- - [First half of 2025 in review on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/26/first-half-of-2025-in-review-on-the-appleinsider-podcast?utm_source=rss)
- - [Ricoh GR IV Review: Everyone&#39;s Favorite Pocket Camera Gets Better](https://www.wired.com/review/ricoh-gr-iv-camera/)<!-- TECH:END -->
+ - [Want to Try Film Photography? Here Are the Analog Cameras You Should Buy](https://www.cnet.com/tech/computing/want-to-try-film-photography-here-are-the-analog-cameras-you-should-buy/#ftag=CAD590a51e)
+ - [NFL Week 17: How To Watch Texans vs. Chargers, Eagles vs. Bills and More Games From Anywhere](https://www.cnet.com/tech/services-and-software/nfl-week-17-how-to-watch-texans-vs-chargers-eagles-vs-bills-and-more-games-from-anywhere/#ftag=CAD590a51e)
+ - [Beyond the Folding iPhone: 3 Big Apple Products Expected in 2026](https://www.cnet.com/tech/mobile/beyond-the-folding-iphone-3-big-apple-products-expected-in-2026/#ftag=CAD590a51e)
+ - [iPhone 17 vs. iPhone 16: How Do They Compare?](https://www.cnet.com/tech/mobile/iphone-17-vs-iphone-16-which-is-the-right-choice-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

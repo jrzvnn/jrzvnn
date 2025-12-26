@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump is mentioned over 600 times in the redacted Epstein files.](http://9gag.com/gag/a5QAWqr)
+ - 😝 [Happy Soviet Union collapse day!](http://9gag.com/gag/amoyA84)
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 💣 [Freedom of speech oppressor](http://9gag.com/gag/aByMd9x)
  - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
- - 💣 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 😝 [A horse walks into a bar. The barman asks: why the long face?](http://9gag.com/gag/aGyqEj0)
- - 👉 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)<!-- MEMES:END -->
+ - 👉 [Playing CS2 like a pro](http://9gag.com/gag/aYQBVWw)<!-- MEMES:END -->
 
 ---
 

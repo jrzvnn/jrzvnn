@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
  - 😝 [Would](http://9gag.com/gag/ayNAMGy)
- - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
- - 💣 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 😝 [Men only want one thing](http://9gag.com/gag/aAy70z9)
  - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 great games for your Steam Deck from 2025](https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve)
  - [How to use Apple Games &amp; Game Center for cross-device play &amp; cloud saves](https://appleinsider.com/inside/apple-arcade/tips/how-to-use-apple-games-game-center-for-cross-device-play-cloud-saves?utm_source=rss)
  - [Hyperkin The Competitor Controller Review: A DualSense Copycat](https://www.wired.com/review/hyperkin-the-competitor-controller/)
- - [The Environmental and Human Rights Costs of China’s Clean Energy Investments Abroad](https://www.wired.com/story/chinas-clean-energy-investments-abroad-are-a-boon-for-climate-but-human-rights-and-the-environment-are-a-different-story/)
- - [The 48 Best Shows on Netflix, WIRED&#39;s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Sources: Peter Thiel and Larry Page may leave CA over a proposed ballot measure, opposed by Newsom, that levies a one-time 5% tax on those with $1B+ in assets &lpar;New York Times&rpar;](http://www.techmeme.com/251227/p5#a251227p5)<!-- TECH:END -->
+ - [Prime Video: These Are the 23 Best Sci-Fi TV Shows You Should Stream Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)
+ - [The Environmental and Human Rights Costs of China’s Clean Energy Investments Abroad](https://www.wired.com/story/chinas-clean-energy-investments-abroad-are-a-boon-for-climate-but-human-rights-and-the-environment-are-a-different-story/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

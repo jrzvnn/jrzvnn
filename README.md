@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
- - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 💣 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
  - 😝 [Color this you filthy peasant](http://9gag.com/gag/aPA0ZRQ)
+ - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 😝 [If you don&#39;t, don&#39;t](http://9gag.com/gag/a8797AO)
  - 👉 [Diversity is strength](http://9gag.com/gag/abAov2B)<!-- MEMES:END -->
 
 ---

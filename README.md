@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
  - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
- - 💣 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - 💣 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
  - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
- - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
+ - 👉 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)<!-- MEMES:END -->
 
 ---
 

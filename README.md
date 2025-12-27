@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
  - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 😝 [Playing CS2 like a pro](http://9gag.com/gag/aYQBVWw)
- - 💣 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)
- - 😝 [I&#39;m a villain, not a monster.](http://9gag.com/gag/a0eG46n)
- - 👉 [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)<!-- MEMES:END -->
+ - 💣 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
+ - 😝 [Would](http://9gag.com/gag/ayNAMGy)
+ - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 ---
 

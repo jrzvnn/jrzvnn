@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NY Gov. Kathy Hochul signs a law requiring social platforms with features like addictive feeds to show warning labels about mental health impacts on young users &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/251226/p16#a251226p16)
  - [The Groq deal secures key talent for Nvidia, including CEO Jonathan Ross, creator of the TPU, and keeps them from companies that may try to make their own chips &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251226/p15#a251226p15)
  - [We&#39;re Choosing the Official Best of CES 2026 Awards](https://www.cnet.com/tech/cnet-choosing-the-best-of-ces-2026-awards/#ftag=CAD590a51e)
  - [Indian IT services provider Coforge agrees to acquire Encora, which offers AI tools for product, cloud, and data engineering, at an enterprise value of $2.35B &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p14#a251226p14)
- - [Five FaZe Clan influencers exit after failed contract talks with new management; Matt Kalish, who invested $10M, calls FaZe&#39;s current structure &quot;unsustainable&quot; &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251226/p13#a251226p13)
- - [Trump’s war on offshore wind faces another lawsuit](https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center)<!-- TECH:END -->
+ - [Five FaZe Clan influencers exit after failed contract talks with new management; Matt Kalish, who invested $10M, calls FaZe&#39;s current structure &quot;unsustainable&quot; &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251226/p13#a251226p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of the Digital Security Helpline, run by Access Now, which gives 24/7 help to reporters and others who suspect they are victims of government spyware &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251227/p10#a251227p10)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 28 #665](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-28-665/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 28, #931](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-28-931/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Dec. 28, #1653](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-28-1653/#ftag=CAD590a51e)
- - [Q&amp;A with Edison Scientific CEO Sam Rodriques about Kosmos, Edison&#39;s AI tool for scientific research, why AI probably won&#39;t cure diseases anytime soon, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251227/p9#a251227p9)
- - [A look at Chinese food delivery giant Meituan&#39;s subsidy war with Alibaba and JD.com, leading Meituan to a big Q3 loss and internal debate over global expansion &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/251227/p8#a251227p8)<!-- TECH:END -->
+ - [Q&amp;A with Edison Scientific CEO Sam Rodriques about Kosmos, Edison&#39;s AI tool for scientific research, why AI probably won&#39;t cure diseases anytime soon, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251227/p9#a251227p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

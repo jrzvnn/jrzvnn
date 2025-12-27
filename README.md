@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Freedom of speech oppressor](http://9gag.com/gag/aByMd9x)
+ - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 💣 [Playing CS2 like a pro](http://9gag.com/gag/aYQBVWw)
  - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
- - 💣 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
- - 👉 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)<!-- MEMES:END -->
+ - 👉 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)<!-- MEMES:END -->
 
 ---
 

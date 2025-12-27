@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
  - 😝 [Playing CS2 like a pro](http://9gag.com/gag/aYQBVWw)
- - 😝 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)
- - 💣 [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)
- - 😝 [The grind for jokes continues](http://9gag.com/gag/a34DZgr)
+ - 💣 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)
+ - 😝 [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)
  - 👉 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)<!-- MEMES:END -->
 
 ---

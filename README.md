@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facing disruption from GenAI, the $250B Indian IT industry has adapted by focusing on preparatory work AI requires, such as data cleanup and system integration &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251227/p2#a251227p2)
  - [HelloFresh Coupon Codes: 55% Off + Free Meals](https://www.wired.com/story/hellofresh-coupon/)
  - [Despite Palantir&#39;s high trailing P/E ratio of ~450x, retail traders have poured billions of dollars into the stock, which is up ~3,000% in the past three years &lpar;Alex Harring/CNBC&rpar;](http://www.techmeme.com/251227/p1#a251227p1)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-27/#ftag=CAD590a51e)
- - [NY Gov. Kathy Hochul signs a law requiring social platforms with features like addictive feeds to show warning labels about mental health impacts on young users &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/251226/p16#a251226p16)
- - [The Groq deal secures key talent for Nvidia, including CEO Jonathan Ross, creator of the TPU, and keeps them from companies that may try to make their own chips &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251226/p15#a251226p15)<!-- TECH:END -->
+ - [NY Gov. Kathy Hochul signs a law requiring social platforms with features like addictive feeds to show warning labels about mental health impacts on young users &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/251226/p16#a251226p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

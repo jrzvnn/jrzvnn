@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would](http://9gag.com/gag/ayNAMGy)
- - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
- - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
+ - 💣 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
  - 😝 [Men only want one thing](http://9gag.com/gag/aAy70z9)
- - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
+ - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 ---
 

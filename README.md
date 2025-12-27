@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian IT services provider Coforge agrees to acquire Encora, which offers AI tools for product, cloud, and data engineering, at an enterprise value of $2.35B &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p14#a251226p14)
  - [Five FaZe Clan influencers exit after failed contract talks with new management; Matt Kalish, who invested $10M, calls FaZe&#39;s current structure &quot;unsustainable&quot; &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251226/p13#a251226p13)
  - [Trump’s war on offshore wind faces another lawsuit](https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center)
  - [NY Gov. Kathy Hochul signs a law requiring social platforms with features like autoplay and addictive feeds to show mental health warning labels for young users &lpar;Felix Day/WRGB&rpar;](http://www.techmeme.com/251226/p12#a251226p12)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 27, #1,652](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-27-1652/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 27, #460](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-27-460/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 27, #1,652](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-27-1652/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

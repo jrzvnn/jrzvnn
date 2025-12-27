@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
  - 😝 [Would](http://9gag.com/gag/ayNAMGy)
- - 💣 [Bring this back](http://9gag.com/gag/ae9EQob)
- - 😝 [If you don&#39;t, don&#39;t](http://9gag.com/gag/a8797AO)
- - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
+ - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 💣 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
+ - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
 
 ---
 

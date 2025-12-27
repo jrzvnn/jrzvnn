@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freedom of speech oppressor](http://9gag.com/gag/aByMd9x)
- - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
- - 💣 [Playing CS2 like a pro](http://9gag.com/gag/aYQBVWw)
- - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 👉 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)<!-- MEMES:END -->
+ - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
+ - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 💣 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
+ - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
 
 ---
 

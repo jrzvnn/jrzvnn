@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 😝 [Color this you filthy peasant](http://9gag.com/gag/aPA0ZRQ)
- - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 😝 [Would](http://9gag.com/gag/ayNAMGy)
+ - 💣 [Bring this back](http://9gag.com/gag/ae9EQob)
  - 😝 [If you don&#39;t, don&#39;t](http://9gag.com/gag/a8797AO)
- - 👉 [Diversity is strength](http://9gag.com/gag/abAov2B)<!-- MEMES:END -->
+ - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 ---
 

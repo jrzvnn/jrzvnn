@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ServiceNow has spent $12B+ on acquisitions and investments in 2025 amid concerns about revenue growth, projected to fall below 20% in 2026 without acquisitions &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251227/p3#a251227p3)
  - [Facing disruption from GenAI, the $250B Indian IT industry has adapted by focusing on preparatory work AI requires, such as data cleanup and system integration &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251227/p2#a251227p2)
  - [HelloFresh Coupon Codes: 55% Off + Free Meals](https://www.wired.com/story/hellofresh-coupon/)
- - [Despite Palantir&#39;s high trailing P/E ratio of ~450x, retail traders have poured billions of dollars into the stock, which is up ~3,000% in the past three years &lpar;Alex Harring/CNBC&rpar;](http://www.techmeme.com/251227/p1#a251227p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-27/#ftag=CAD590a51e)
- - [NY Gov. Kathy Hochul signs a law requiring social platforms with features like addictive feeds to show warning labels about mental health impacts on young users &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/251226/p16#a251226p16)<!-- TECH:END -->
+ - [Despite Palantir&#39;s high trailing P/E ratio of ~450, retail traders have poured billions of dollars into the stock, which is up ~3,000% in the past three years &lpar;Alex Harring/CNBC&rpar;](http://www.techmeme.com/251227/p1#a251227p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

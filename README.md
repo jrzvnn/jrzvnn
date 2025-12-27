@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
- - 💣 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
- - 😝 [Galloping through a sea cave in New Zealand, what a dream](http://9gag.com/gag/aqyOeQj)
- - 👉 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)<!-- MEMES:END -->
+ - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 💣 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
+ - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
+ - 👉 [Would](http://9gag.com/gag/ayNAMGy)<!-- MEMES:END -->
 
 ---
 

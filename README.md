@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s totally broken move](http://9gag.com/gag/an73z7q)
- - 😝 [1/4 day](http://9gag.com/gag/aYQBVLm)
- - 💣 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 😝 [Men only want one thing](http://9gag.com/gag/aAy70z9)
- - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
+ - 😝 [Color this you filthy peasant](http://9gag.com/gag/aPA0ZRQ)
+ - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 💣 [Diversity is strength](http://9gag.com/gag/abAov2B)
+ - 😝 [Do you like onions like a normie or do you love onions?](http://9gag.com/gag/abAoAGv)
+ - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
 
 ---
 

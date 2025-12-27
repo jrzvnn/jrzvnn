@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m a villain, not a monster.](http://9gag.com/gag/a0eG46n)
- - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 💣 [Would](http://9gag.com/gag/ayNAMGy)
- - 😝 [If you don&#39;t, don&#39;t](http://9gag.com/gag/a8797AO)
- - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
+ - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
+ - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
+ - 💣 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 😝 [Color this you filthy peasant](http://9gag.com/gag/aPA0ZRQ)
+ - 👉 [Diversity is strength](http://9gag.com/gag/abAov2B)<!-- MEMES:END -->
 
 ---
 

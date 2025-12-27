@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Can&#39;t Stop Gawking at Samsung&#39;s New Wi-Fi Speaker](https://www.cnet.com/tech/home-entertainment/i-cant-stop-gawking-at-samsungs-new-wi-fi-speaker/#ftag=CAD590a51e)
  - [Two new wireless Samsung speakers for 2026 lean into aesthetics](https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics)
  - [A profile of the Digital Security Helpline, run by Access Now, which gives 24/7 help to reporters and others who suspect they are victims of government spyware &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251227/p10#a251227p10)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 28 #665](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-28-665/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 28, #931](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-28-931/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 28, #1653](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-28-1653/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 28, #931](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-28-931/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

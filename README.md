@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The European Commission claims €80B of €120B in post-EU Chips Act investments remain on track, despite the stalled GlobalFoundries-STMicro project in France &lpar;Virginie Malingre/Le Monde&rpar;](http://www.techmeme.com/251227/p6#a251227p6)
  - [I&#39;m a Pro Photographer, and Here&#39;s How to Take Film Photos on an Analog Camera](https://www.cnet.com/tech/computing/analog-camera-film-photography-tips-starters-guide/#ftag=CAD590a51e)
  - [8 great games for your Steam Deck from 2025](https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve)
  - [How to use Apple Games &amp; Game Center for cross-device play &amp; cloud saves](https://appleinsider.com/inside/apple-arcade/tips/how-to-use-apple-games-game-center-for-cross-device-play-cloud-saves?utm_source=rss)
- - [Not Getting Enough Sunlight? These 11 Foods Are Rich in Vitamin D](https://www.cnet.com/health/nutrition/vitamin-d-rich-foods/#ftag=CAD590a51e)
- - [Hyperkin The Competitor Controller Review: A DualSense Copycat](https://www.wired.com/review/hyperkin-the-competitor-controller/)<!-- TECH:END -->
+ - [Not Getting Enough Sunlight? These 11 Foods Are Rich in Vitamin D](https://www.cnet.com/health/nutrition/vitamin-d-rich-foods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

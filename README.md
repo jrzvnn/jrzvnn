@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
- - 😝 [Playing CS2 like a pro](http://9gag.com/gag/aYQBVWw)
- - 💣 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)
- - 😝 [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)
- - 👉 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)<!-- MEMES:END -->
+ - 😝 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
+ - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 💣 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
- - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
- - 😝 [What exactly happened?](http://9gag.com/gag/aByMyNx)
- - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
+ - 💣 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
 
 ---
 

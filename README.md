@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
  - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
  - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
- - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
+ - 😝 [Diversity is strength](http://9gag.com/gag/abAov2B)
  - 👉 [Would](http://9gag.com/gag/ayNAMGy)<!-- MEMES:END -->
 
 ---

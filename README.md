@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity is strength](http://9gag.com/gag/abAov2B)
- - 😝 [Do you like onions like a normie or do you love onions?](http://9gag.com/gag/abAoAGv)
- - 💣 [Magic mattress.](http://9gag.com/gag/abAoAEr)
- - 😝 [Just a kiss on your lips in the moonlight. Just a touch of the fire burnin&#39; so bright](http://9gag.com/gag/aGyqyOG)
- - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 😝 [Best way to keep thieves away is fear i guess](http://9gag.com/gag/a1mnPNb)
+ - 💣 [If you haven&#39;t seen what girls before the internet, here it is](http://9gag.com/gag/azxzxQN)
+ - 😝 [Remember &#39;89](http://9gag.com/gag/aE0b09p)
+ - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 ---
 

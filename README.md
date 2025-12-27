@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Edison Scientific CEO Sam Rodriques about Kosmos, Edison&#39;s AI tool for scientific research, why AI probably won&#39;t cure diseases anytime soon, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251227/p9#a251227p9)
  - [A look at Chinese food delivery giant Meituan&#39;s subsidy war with Alibaba and JD.com, leading Meituan to a big Q3 loss and internal debate over global expansion &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/251227/p8#a251227p8)
  - [Sam Altman is hiring someone to worry about the dangers of AI](https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness)
  - [Amazon drops Apple&#39;s iPad 11 down to $299 during year-end sale](https://appleinsider.com/articles/25/12/27/amazon-drops-apples-ipad-11-down-to-299-during-year-end-sale?utm_source=rss)
- - [Malcolm&#39;s best tech in 2025: iPhone Air, Powerbeats Pro 2, and a cheap UPS](https://appleinsider.com/articles/25/12/27/malcolms-best-tech-in-2025-iphone-air-powerbeats-pro-2-and-a-cheap-ups?utm_source=rss)
- - [The Best After-Christmas Deals on Gear We&#39;ve Tested &lpar;2025&rpar;](https://www.wired.com/story/after-christmas-deals-2025/)<!-- TECH:END -->
+ - [Malcolm&#39;s best tech in 2025: iPhone Air, Powerbeats Pro 2, and a cheap UPS](https://appleinsider.com/articles/25/12/27/malcolms-best-tech-in-2025-iphone-air-powerbeats-pro-2-and-a-cheap-ups?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

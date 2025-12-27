@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)
  - 😝 [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)
- - 💣 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 😝 [Diversity is strength](http://9gag.com/gag/abAov2B)
+ - 💣 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
  - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 👉 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)<!-- MEMES:END -->
+ - 👉 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)<!-- MEMES:END -->
 
 ---
 

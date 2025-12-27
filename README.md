@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Color this you filthy peasant](http://9gag.com/gag/aPA0ZRQ)
- - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
- - 💣 [Diversity is strength](http://9gag.com/gag/abAov2B)
- - 😝 [Do you like onions like a normie or do you love onions?](http://9gag.com/gag/abAoAGv)
- - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
+ - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
+ - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 😝 [What exactly happened?](http://9gag.com/gag/aByMyNx)
+ - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
 
 ---
 

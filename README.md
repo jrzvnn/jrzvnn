@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
- - 💣 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
- - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
- - 👉 [Would](http://9gag.com/gag/ayNAMGy)<!-- MEMES:END -->
+ - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
+ - 😝 [Playing CS2 like a pro](http://9gag.com/gag/aYQBVWw)
+ - 💣 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)
+ - 😝 [I&#39;m a villain, not a monster.](http://9gag.com/gag/a0eG46n)
+ - 👉 [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)<!-- MEMES:END -->
 
 ---
 

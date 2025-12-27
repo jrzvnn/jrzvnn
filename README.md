@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 😝 [That&#39;s a nice one.](http://9gag.com/gag/a4P81QA)
- - 💣 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 😝 [The grind for jokes continues](http://9gag.com/gag/a34DZgr)
- - 👉 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)<!-- MEMES:END -->
+ - 😝 [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 💣 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
+ - 😝 [Amsterdam&#39;s hidden foundation is wild](http://9gag.com/gag/aD2LYeZ)
+ - 👉 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)<!-- MEMES:END -->
 
 ---
 

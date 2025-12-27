@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman is hiring someone to worry about the dangers of AI](https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness)
  - [Amazon drops Apple&#39;s iPad 11 down to $299 during year-end sale](https://appleinsider.com/articles/25/12/27/amazon-drops-apples-ipad-11-down-to-299-during-year-end-sale?utm_source=rss)
  - [Malcolm&#39;s best tech in 2025: iPhone Air, Powerbeats Pro 2, and a cheap UPS](https://appleinsider.com/articles/25/12/27/malcolms-best-tech-in-2025-iphone-air-powerbeats-pro-2-and-a-cheap-ups?utm_source=rss)
  - [The Best After-Christmas Deals on Gear We&#39;ve Tested &lpar;2025&rpar;](https://www.wired.com/story/after-christmas-deals-2025/)
- - [A study finds that foreign direct investment accounts for 98% of Vietnam&#39;s electronics exports, &quot;signaling limited technology spillovers&quot; to the local economy &lpar;Lien Hoang/Nikkei Asia&rpar;](http://www.techmeme.com/251227/p7#a251227p7)
- - [More original AirPods test colors revealed](https://appleinsider.com/articles/25/12/27/more-original-airpods-test-colors-revealed?utm_source=rss)<!-- TECH:END -->
+ - [A study finds that foreign direct investment accounts for 98% of Vietnam&#39;s electronics exports, &quot;signaling limited technology spillovers&quot; to the local economy &lpar;Lien Hoang/Nikkei Asia&rpar;](http://www.techmeme.com/251227/p7#a251227p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

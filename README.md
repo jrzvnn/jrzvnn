@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
  - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
  - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
- - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
- - 👉 [Trump is mentioned over 600 times in the redacted Epstein files.](http://9gag.com/gag/a5QAWqr)<!-- MEMES:END -->
+ - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
 
 ---
 

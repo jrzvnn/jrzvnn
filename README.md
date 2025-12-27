@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woodworking skill](http://9gag.com/gag/aPA0gqV)
- - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 💣 [Diversity is strength](http://9gag.com/gag/abAov2B)
- - 😝 [Do you like onions like a normie or do you love onions?](http://9gag.com/gag/abAoAGv)
- - 👉 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)<!-- MEMES:END -->
+ - 😝 [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 💣 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 😝 [Bring this back](http://9gag.com/gag/ae9EQob)
+ - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)
  - 😝 [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)
- - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 💣 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 😝 [Amsterdam&#39;s hidden foundation is wild](http://9gag.com/gag/aD2LYeZ)
+ - 💣 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
  - 👉 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)<!-- MEMES:END -->
 
 ---

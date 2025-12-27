@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
  - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 💣 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 😝 [Would](http://9gag.com/gag/ayNAMGy)
- - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
+ - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 😝 [The bubble must burst!](http://9gag.com/gag/aGyqzmZ)
+ - 👉 [Would](http://9gag.com/gag/ayNAMGy)<!-- MEMES:END -->
 
 ---
 

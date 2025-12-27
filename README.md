@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tuft &amp; Needle Original Hybrid Mattress Review: A Soft Landing](https://www.wired.com/review/tuft-and-needle-original-hybrid/)
  - [So Long, GPT-5. Hello, Qwen](https://www.wired.com/story/expired-tired-wired-gpt-5/)
  - [In Cryptoland, Memecoin Fever Gives Way to a Stablecoin Boom](https://www.wired.com/story/expired-tired-wired-memecoins/)
  - [The US Must Stop Underestimating Drone Warfare](https://www.wired.com/story/the-us-must-stop-underestimating-drone-warfare/)
- - [As inference splits into prefill and decode, Nvidia&#39;s Groq deal could enable a &quot;Rubin SRAM&quot; variant optimized for ultra-low latency agentic reasoning workloads &lpar;Gavin Baker/@gavinsbaker&rpar;](http://www.techmeme.com/251227/p4#a251227p4)
- - [ServiceNow has spent $12B+ on acquisitions and investments in 2025 amid concerns about revenue growth, projected to fall below 20% in 2026 without acquisitions &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251227/p3#a251227p3)<!-- TECH:END -->
+ - [As inference splits into prefill and decode, Nvidia&#39;s Groq deal could enable a &quot;Rubin SRAM&quot; variant optimized for ultra-low latency agentic reasoning workloads &lpar;Gavin Baker/@gavinsbaker&rpar;](http://www.techmeme.com/251227/p4#a251227p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

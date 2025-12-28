@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Therabody Promo Codes and Deals: Get 30% Off This Month](https://www.wired.com/story/therabody-promo-code/)
+ - [Sam Altman says OpenAI is seeking a new Head of Preparedness, noting &quot;the potential impact of models on mental health was something we saw a preview of in 2025&quot; &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/251228/p3#a251228p3)
+ - [Hungryroot Coupon Codes: 30% Off This Month](https://www.wired.com/story/hungryroot-promo-code/)
  - [Sources: ~90% of Groq employees will join Nvidia and be paid cash for all vested shares; most shareholders will get per-share payouts tied to the $20B valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251228/p2#a251228p2)
- - [ChatGPT told a teen who died by suicide to call for help 74 times over months but also used words like &quot;hanging&quot; and &quot;suicide&quot; very often, say family&#39;s lawyers &lpar;Washington Post&rpar;](http://www.techmeme.com/251228/p1#a251228p1)
- - [China&#39;s draft rules on the use of human-like AI would require companies to inform users they are dealing with AI when they log on and at two-hour intervals &lpar;Bloomberg&rpar;](http://www.techmeme.com/251227/p11#a251227p11)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-28/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 28, #461](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-28-461/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT told a teen who died by suicide to call for help 74 times over months but also used words like &quot;hanging&quot; and &quot;suicide&quot; very often, say family&#39;s lawyers &lpar;Washington Post&rpar;](http://www.techmeme.com/251228/p1#a251228p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

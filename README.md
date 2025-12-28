@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Drones &lpar;2025&rpar;: Flight-Tested and Reviewed](https://www.wired.com/gallery/best-drones/)
+ - [iPhone Fold and iPhone Air 2: Launch Date, Price, Screen Crease and Everything We Know](https://www.cnet.com/tech/mobile/iphone-fold-and-iphone-air-2-launch-dates-prices-and-everything-we-know/#ftag=CAD590a51e)
  - [8 Best Plant-Based Meal Delivery Services and Kits &lpar;2025&rpar;, Tested, Tasted, and Reviewed](https://www.wired.com/gallery/best-plant-based-meal-kit-services/)
  - [People Who Drink Bottled Water on a Daily Basis Ingest 90,000 More Microplastic Particles Each Year](https://www.wired.com/story/people-who-drink-bottled-water-on-a-daily-basis-ingest-90000-more-microplastics-per-year/)
- - [Tracxn: VC funding for Indian startups fell 17%+ YoY to $10.5B in 2025 across 1,518 deals, down ~39% YoY; AI startups raised $643M, up 4% YoY, across 100 deals &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251228/p7#a251228p7)
- - [Billion-Dollar Data Centers Are Taking Over the World](https://www.wired.com/story/expired-tired-wired-data-centers/)
- - [The Dollar Is Facing an End to Its Dominance](https://www.wired.com/story/the-dollar-is-facing-an-end-to-its-dominance/)<!-- TECH:END -->
+ - [Tracxn: VC funding for Indian startups fell 17%+ YoY to $10.5B in 2025 across 1,518 deals, down ~39% YoY; AI startups raised $643M, up 4% YoY, across 100 deals &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251228/p7#a251228p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How UK `protects` you](http://9gag.com/gag/aAy70g2)
- - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
- - 😝 [Cat Lover](http://9gag.com/gag/aGyqLxZ)
- - 👉 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)<!-- MEMES:END -->
+ - 😝 [Diversity is strength](http://9gag.com/gag/abAov2B)
+ - 😝 [Remember &#39;89](http://9gag.com/gag/aE0b09p)
+ - 💣 [Avoid them like a plague](http://9gag.com/gag/an7370z)
+ - 😝 [Magic mattress.](http://9gag.com/gag/abAoAEr)
+ - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [So there is a Nvidia RTX 5090 shortage, right?](http://9gag.com/gag/aGyqE3K)
- - 😝 [Do you like onions like a normie or do you love onions?](http://9gag.com/gag/abAoAGv)
- - 💣 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
+ - 😝 [1/4 day](http://9gag.com/gag/aYQBVLm)
+ - 💣 [Special talent](http://9gag.com/gag/an73OzV)
+ - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
+ - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data center developers, facing grid access wait times of up to seven years, are turning to aeroderivative turbines and diesel generators to power the AI boom &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/251228/p6#a251228p6)
+ - [Sources: Bengaluru-based quick grocery delivery startup Zepto confidentially files for a ~$1.3B India IPO; Zepto raised $450M at a $7B valuation in October 2025 &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/251228/p5#a251228p5)
+ - [Behold the Manifold, the Concept that Changed How Mathematicians View Space](https://www.wired.com/story/behold-the-manifold-the-concept-that-changed-how-mathematicians-view-space/)
  - [Ubisoft says it intentionally shut down Rainbow Six Siege and its in-game Marketplace to resolve an &quot;incident&quot;; reports say hackers breached internal systems &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/251228/p4#a251228p4)
- - [Therabody Promo Codes and Deals: Get 30% Off This Month](https://www.wired.com/story/therabody-promo-code/)
- - [Sam Altman says OpenAI is seeking a new Head of Preparedness, noting &quot;the potential impact of models on mental health was something we saw a preview of in 2025&quot; &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/251228/p3#a251228p3)
- - [Hungryroot Coupon Codes: 30% Off This Month](https://www.wired.com/story/hungryroot-promo-code/)
- - [Sources: ~90% of Groq employees will join Nvidia and be paid cash for all vested shares; most shareholders will get per-share payouts tied to the $20B valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251228/p2#a251228p2)<!-- TECH:END -->
+ - [Therabody Promo Codes and Deals: Get 30% Off This Month](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

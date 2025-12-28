@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 💣 [Special talent](http://9gag.com/gag/an73OzV)
  - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 👉 [Who needs a barber when we can get our hair done by machines, right?](http://9gag.com/gag/azxz2Bz)<!-- MEMES:END -->
+ - 💣 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 😝 [To continue my yearly tradition](http://9gag.com/gag/avyVWM5)
+ - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
 
 ---
 

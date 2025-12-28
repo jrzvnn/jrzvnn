@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How UK `protects` you](http://9gag.com/gag/aAy70g2)
- - 😝 [So there is a Nvidia RTX 5090 shortage, right?](http://9gag.com/gag/aGyqE3K)
- - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
- - 😝 [Angel Falls is a waterfall in Venezuela. It is the world&#39;s tallest uninterrupted waterfall, with a height of 979 metres, and a plunge of 807 m. The waterfall drops over the edge of the Auy\u00e1n-tepui mountain in the Canaima](http://9gag.com/gag/aD2L74G)
- - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
+ - 😝 [Cat Lover](http://9gag.com/gag/aGyqLxZ)
+ - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
+ - 💣 [Magic mattress.](http://9gag.com/gag/abAoAEr)
+ - 😝 [Remember &#39;89](http://9gag.com/gag/aE0b09p)
+ - 👉 [Just a kiss on your lips in the moonlight. Just a touch of the fire burnin&#39; so bright](http://9gag.com/gag/aGyqyOG)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best way to keep thieves away is fear i guess](http://9gag.com/gag/a1mnPNb)
+ - 😝 [Diversity is strength](http://9gag.com/gag/abAov2B)
  - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
- - 😝 [FU TP](http://9gag.com/gag/apRX1q5)
- - 👉 [If you haven&#39;t seen what girls before the internet, here it is](http://9gag.com/gag/azxzxQN)<!-- MEMES:END -->
+ - 💣 [Magic mattress.](http://9gag.com/gag/abAoAEr)
+ - 😝 [Momma cat introduces her only living kitten to human that was feeding her.](http://9gag.com/gag/ayNAq5M)
+ - 👉 [Remember &#39;89](http://9gag.com/gag/aE0b09p)<!-- MEMES:END -->
 
 ---
 

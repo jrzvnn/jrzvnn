@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cat Lover](http://9gag.com/gag/aGyqLxZ)
- - 😝 [Just a kiss on your lips in the moonlight. Just a touch of the fire burnin&#39; so bright](http://9gag.com/gag/aGyqyOG)
- - 💣 [Woodworking skill](http://9gag.com/gag/aPA0gqV)
- - 😝 [No context](http://9gag.com/gag/aqyOy2j)
- - 👉 [The grind for jokes continues](http://9gag.com/gag/a34DZgr)<!-- MEMES:END -->
+ - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 😝 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
+ - 💣 [Special talent](http://9gag.com/gag/an73OzV)
+ - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
 
 ---
 

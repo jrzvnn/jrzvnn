@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok very funny , Sounds like a 9gager to me](http://9gag.com/gag/a6ZzDBL)
- - 😝 [Bruh](http://9gag.com/gag/aByMZGA)
- - 💣 [Woodworking skill](http://9gag.com/gag/aPA0gqV)
- - 😝 [No context](http://9gag.com/gag/aqyOy2j)
- - 👉 [The grind for jokes continues](http://9gag.com/gag/a34DZgr)<!-- MEMES:END -->
+ - 😝 [Who needs a barber when we can get our hair done by machines, right?](http://9gag.com/gag/azxz2Bz)
+ - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 💣 [Special talent](http://9gag.com/gag/an73OzV)
+ - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
+ - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
 
 ---
 

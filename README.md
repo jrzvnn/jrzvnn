@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global hotel groups are intensifying efforts to get customers to book directly, as they seek to save on online platform commissions and prepare for AI agents &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/251228/p10#a251228p10)
  - [How to prepare a tech emergency kit before the next blackout hits](https://appleinsider.com/inside/ios/tips/how-to-prepare-a-tech-emergency-kit-before-the-next-blackout-hits?utm_source=rss)
  - [&#39;Pluribus&#39; Finale Explained: Star Rhea Seehorn Took Me Into the Mind of Carol](https://www.cnet.com/tech/services-and-software/pluribus-ending-explained-star-rhea-seehorn-interview-apple-tv/#ftag=CAD590a51e)
  - [You need to read the subversive cosmic horror novella The Ballad of Black Tom](https://www.theverge.com/column/850564/subversive-cosmic-horror-the-ballad-of-black-tom-victor-lavalle)
- - [The terrible Nintendo controller that helped make VR happen](https://www.theverge.com/podcast/850556/nintendo-power-glove-version-history)
- - [Lou Gerstner, a former IBM CEO and chairman credited with turning the company around, died at 83; IBM&#39;s market value rose from $29B to ~$168B during his tenure &lpar;Patrick Oster/Bloomberg&rpar;](http://www.techmeme.com/251228/p9#a251228p9)<!-- TECH:END -->
+ - [The terrible Nintendo controller that helped make VR happen](https://www.theverge.com/podcast/850556/nintendo-power-glove-version-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

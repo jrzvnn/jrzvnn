@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who needs a barber when we can get our hair done by machines, right?](http://9gag.com/gag/azxz2Bz)
- - 😝 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 😝 [Special talent](http://9gag.com/gag/an73OzV)
- - 👉 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)<!-- MEMES:END -->
+ - 😝 [Men only want one thing](http://9gag.com/gag/aAy70z9)
+ - 😝 [She really does look like the whole cast](http://9gag.com/gag/a5QAVrr)
+ - 💣 [Ok very funny , Sounds like a 9gager to me](http://9gag.com/gag/a6ZzDBL)
+ - 😝 [With an instructor like that you can&#39;t go wrong](http://9gag.com/gag/ayNAqMy)
+ - 👉 [Bruh](http://9gag.com/gag/aByMZGA)<!-- MEMES:END -->
 
 ---
 

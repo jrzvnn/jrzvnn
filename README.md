@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok very funny , Sounds like a 9gager to me](http://9gag.com/gag/a6ZzDBL)
- - 😝 [She really does look like the whole cast](http://9gag.com/gag/a5QAVrr)
- - 💣 [With an instructor like that you can&#39;t go wrong](http://9gag.com/gag/ayNAqMy)
- - 😝 [She was a hero. RIP.](http://9gag.com/gag/aKGy1R6)
- - 👉 [Bruh](http://9gag.com/gag/aByMZGA)<!-- MEMES:END -->
+ - 😝 [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)
+ - 😝 [Special talent](http://9gag.com/gag/an73OzV)
+ - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 👉 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)<!-- MEMES:END -->
 
 ---
 

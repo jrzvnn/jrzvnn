@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity is strength](http://9gag.com/gag/abAov2B)
- - 😝 [Remember &#39;89](http://9gag.com/gag/aE0b09p)
- - 💣 [Avoid them like a plague](http://9gag.com/gag/an7370z)
- - 😝 [Magic mattress.](http://9gag.com/gag/abAoAEr)
- - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
+ - 😝 [Great teamwork!](http://9gag.com/gag/aYQBr27)
+ - 😝 [Avoid them like a plague](http://9gag.com/gag/an7370z)
+ - 💣 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
+ - 😝 [She really does look like the whole cast](http://9gag.com/gag/a5QAVrr)
+ - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 ---
 

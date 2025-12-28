@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How executives at humanoid robot startups like Agility Robotics and Weave Robotics are managing safety risks and tempering expectations for the technology &lpar;Sean McLain/Wall Street Journal&rpar;](http://www.techmeme.com/251228/p8#a251228p8)
  - [UK $2 billion App Store ruling appealed -- again](https://appleinsider.com/articles/25/12/28/uk-2-billion-app-store-ruling-appealed----again?utm_source=rss)
  - [How Much Melatonin Should You Be Taking? &lpar;2026&rpar;](https://www.wired.com/story/how-much-melatonin-should-i-take-2026/)
  - [Supersonic Jet Engines Will Soon Power AI Data Centers](https://www.cnet.com/roadshow/news/supersonic-jet-engines-will-soon-power-ai-data-centers/#ftag=CAD590a51e)
- - [With New Genres, Viewers Like You Are Changing What TV Actually Means](https://www.cnet.com/tech/services-and-software/tv-trends-streaming-microseries-microdrama-video-podcast-vodcast/#ftag=CAD590a51e)
- - [The best PS5 games from 2025](https://www.theverge.com/games/846828/ps5-best-games-2025)<!-- TECH:END -->
+ - [With New Genres, Viewers Like You Are Changing What TV Actually Means](https://www.cnet.com/tech/services-and-software/tv-trends-streaming-microseries-microdrama-video-podcast-vodcast/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

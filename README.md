@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
  - 😝 [Who needs a barber when we can get our hair done by machines, right?](http://9gag.com/gag/azxz2Bz)
- - 💣 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 😝 [Special talent](http://9gag.com/gag/an73OzV)
- - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
+ - 💣 [Special talent](http://9gag.com/gag/an73OzV)
+ - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 👉 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)<!-- MEMES:END -->
 
 ---
 

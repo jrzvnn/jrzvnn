@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity is strength](http://9gag.com/gag/abAov2B)
  - 😝 [Remember &#39;89](http://9gag.com/gag/aE0b09p)
+ - 😝 [Diversity is strength](http://9gag.com/gag/abAov2B)
  - 💣 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 😝 [Restaurant when your card declines](http://9gag.com/gag/aQzKg4d)
+ - 😝 [She really does look like the whole cast](http://9gag.com/gag/a5QAVrr)
  - 👉 [Magic mattress.](http://9gag.com/gag/abAoAEr)<!-- MEMES:END -->
 
 ---

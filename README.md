@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)
  - [Year-end price war: Apple&#39;s 1TB M5 MacBook Pro drops to $1,649](https://appleinsider.com/articles/25/12/28/year-end-price-war-apples-1tb-m5-macbook-pro-drops-to-1649?utm_source=rss)
- - [Global hotel groups are intensifying efforts to get customers to book directly, as they seek to save on online platform commissions and prepare for AI agents &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/251228/p10#a251228p10)
- - [How to prepare a tech emergency kit before the next blackout hits](https://appleinsider.com/inside/ios/tips/how-to-prepare-a-tech-emergency-kit-before-the-next-blackout-hits?utm_source=rss)
- - [&#39;Pluribus&#39; Finale Explained: Star Rhea Seehorn Took Me Into the Mind of Carol](https://www.cnet.com/tech/services-and-software/pluribus-ending-explained-star-rhea-seehorn-interview-apple-tv/#ftag=CAD590a51e)
- - [You need to read the subversive cosmic horror novella The Ballad of Black Tom](https://www.theverge.com/column/850564/subversive-cosmic-horror-the-ballad-of-black-tom-victor-lavalle)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 29, #932](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-29-932/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 29, #462](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-29-462/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 29 #666](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-29-666/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

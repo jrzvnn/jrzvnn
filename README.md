@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to prepare a tech emergency kit before the next blackout hits](https://appleinsider.com/inside/ios/tips/how-to-prepare-a-tech-emergency-kit-before-the-next-blackout-hits?utm_source=rss)
+ - [&#39;Pluribus&#39; Finale Explained: Star Rhea Seehorn Took Me Into the Mind of Carol](https://www.cnet.com/tech/services-and-software/pluribus-ending-explained-star-rhea-seehorn-interview-apple-tv/#ftag=CAD590a51e)
  - [You need to read the subversive cosmic horror novella The Ballad of Black Tom](https://www.theverge.com/column/850564/subversive-cosmic-horror-the-ballad-of-black-tom-victor-lavalle)
  - [The terrible Nintendo controller that helped make VR happen](https://www.theverge.com/podcast/850556/nintendo-power-glove-version-history)
- - [Lou Gerstner, a former IBM CEO and chairman credited with turning the company around, died at 83; IBM&#39;s market value rose from $29B to ~$168B during his tenure &lpar;Patrick Oster/Bloomberg&rpar;](http://www.techmeme.com/251228/p9#a251228p9)
- - [Crime blotter: Man sought who used stolen credit card at Apple Store](https://appleinsider.com/articles/25/12/28/crime-blotter-man-sought-who-used-stolen-credit-card-at-apple-store?utm_source=rss)<!-- TECH:END -->
+ - [Lou Gerstner, a former IBM CEO and chairman credited with turning the company around, died at 83; IBM&#39;s market value rose from $29B to ~$168B during his tenure &lpar;Patrick Oster/Bloomberg&rpar;](http://www.techmeme.com/251228/p9#a251228p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

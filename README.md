@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cat Lover](http://9gag.com/gag/aGyqLxZ)
- - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 💣 [Magic mattress.](http://9gag.com/gag/abAoAEr)
- - 😝 [Remember &#39;89](http://9gag.com/gag/aE0b09p)
- - 👉 [Just a kiss on your lips in the moonlight. Just a touch of the fire burnin&#39; so bright](http://9gag.com/gag/aGyqyOG)<!-- MEMES:END -->
+ - 😝 [It&#39;s totally broken move](http://9gag.com/gag/an73z7q)
+ - 😝 [Best way to keep thieves away is fear i guess](http://9gag.com/gag/a1mnPNb)
+ - 💣 [So there is a Nvidia RTX 5090 shortage, right?](http://9gag.com/gag/aGyqE3K)
+ - 😝 [Men only want one thing](http://9gag.com/gag/aAy70z9)
+ - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 ---
 

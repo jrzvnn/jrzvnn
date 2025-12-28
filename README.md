@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The terrible Nintendo controller that helped make VR happen](https://www.theverge.com/podcast/850556/nintendo-power-glove-version-history)
  - [Lou Gerstner, a former IBM CEO and chairman credited with turning the company around, died at 83; IBM&#39;s market value rose from $29B to ~$168B during his tenure &lpar;Patrick Oster/Bloomberg&rpar;](http://www.techmeme.com/251228/p9#a251228p9)
  - [Crime blotter: Man sought who used stolen credit card at Apple Store](https://appleinsider.com/articles/25/12/28/crime-blotter-man-sought-who-used-stolen-credit-card-at-apple-store?utm_source=rss)
  - [How we work: Malcolm Owen&#39;s double-keyboard desk setup](https://appleinsider.com/articles/25/12/28/how-we-work-malcolm-owens-double-keyboard-desk-setup?utm_source=rss)
- - [Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack](https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack)
- - [How executives at humanoid robot startups like Agility Robotics and Weave Robotics are managing safety risks and tempering expectations for the technology &lpar;Sean McLain/Wall Street Journal&rpar;](http://www.techmeme.com/251228/p8#a251228p8)<!-- TECH:END -->
+ - [Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack](https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

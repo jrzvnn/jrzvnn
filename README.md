@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Much Melatonin Should You Be Taking? &lpar;2026&rpar;](https://www.wired.com/story/how-much-melatonin-should-i-take-2026/)
+ - [The best PS5 games from 2025](https://www.theverge.com/games/846828/ps5-best-games-2025)
  - [10 Best Drones &lpar;2025&rpar;: Flight-Tested and Reviewed](https://www.wired.com/gallery/best-drones/)
  - [iPhone Fold and iPhone Air 2: Launch Date, Price, Screen Crease and Everything We Know](https://www.cnet.com/tech/mobile/iphone-fold-and-iphone-air-2-launch-dates-prices-and-everything-we-know/#ftag=CAD590a51e)
- - [8 Best Plant-Based Meal Delivery Services and Kits &lpar;2025&rpar;, Tested, Tasted, and Reviewed](https://www.wired.com/gallery/best-plant-based-meal-kit-services/)
- - [People Who Drink Bottled Water on a Daily Basis Ingest 90,000 More Microplastic Particles Each Year](https://www.wired.com/story/people-who-drink-bottled-water-on-a-daily-basis-ingest-90000-more-microplastics-per-year/)
- - [Tracxn: VC funding for Indian startups fell 17%+ YoY to $10.5B in 2025 across 1,518 deals, down ~39% YoY; AI startups raised $643M, up 4% YoY, across 100 deals &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251228/p7#a251228p7)<!-- TECH:END -->
+ - [8 Best Plant-Based Meal Delivery Services and Kits &lpar;2025&rpar;, Tested, Tasted, and Reviewed](https://www.wired.com/gallery/best-plant-based-meal-kit-services/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

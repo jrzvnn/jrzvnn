@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity is strength](http://9gag.com/gag/abAov2B)
- - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 💣 [Magic mattress.](http://9gag.com/gag/abAoAEr)
- - 😝 [Momma cat introduces her only living kitten to human that was feeding her.](http://9gag.com/gag/ayNAq5M)
- - 👉 [Remember &#39;89](http://9gag.com/gag/aE0b09p)<!-- MEMES:END -->
+ - 😝 [Woodworking skill](http://9gag.com/gag/aPA0gqV)
+ - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 💣 [Cat Lover](http://9gag.com/gag/aGyqLxZ)
+ - 😝 [Men only want one thing](http://9gag.com/gag/aAy70z9)
+ - 👉 [If you haven&#39;t seen what girls before the internet, here it is](http://9gag.com/gag/azxzxQN)<!-- MEMES:END -->
 
 ---
 

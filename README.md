@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best way to keep thieves away is fear i guess](http://9gag.com/gag/a1mnPNb)
- - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 💣 [So there is a Nvidia RTX 5090 shortage, right?](http://9gag.com/gag/aGyqE3K)
- - 😝 [Men only want one thing](http://9gag.com/gag/aAy70z9)
+ - 😝 [So there is a Nvidia RTX 5090 shortage, right?](http://9gag.com/gag/aGyqE3K)
+ - 😝 [Great teamwork!](http://9gag.com/gag/aYQBr27)
+ - 💣 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
  - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 ---

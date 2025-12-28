@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember &#39;89](http://9gag.com/gag/aE0b09p)
- - 😝 [Diversity is strength](http://9gag.com/gag/abAov2B)
- - 💣 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 😝 [She really does look like the whole cast](http://9gag.com/gag/a5QAVrr)
- - 👉 [Magic mattress.](http://9gag.com/gag/abAoAEr)<!-- MEMES:END -->
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
+ - 💣 [Cat Lover](http://9gag.com/gag/aGyqLxZ)
+ - 😝 [Men only want one thing](http://9gag.com/gag/aAy70z9)
+ - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 ---
 

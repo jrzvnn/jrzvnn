@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So there is a Nvidia RTX 5090 shortage, right?](http://9gag.com/gag/aGyqE3K)
- - 😝 [1/4 day](http://9gag.com/gag/aYQBVLm)
- - 💣 [Special talent](http://9gag.com/gag/an73OzV)
- - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
- - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
+ - 😝 [Cat Lover](http://9gag.com/gag/aGyqLxZ)
+ - 😝 [Just a kiss on your lips in the moonlight. Just a touch of the fire burnin&#39; so bright](http://9gag.com/gag/aGyqyOG)
+ - 💣 [Woodworking skill](http://9gag.com/gag/aPA0gqV)
+ - 😝 [No context](http://9gag.com/gag/aqyOy2j)
+ - 👉 [The grind for jokes continues](http://9gag.com/gag/a34DZgr)<!-- MEMES:END -->
 
 ---
 

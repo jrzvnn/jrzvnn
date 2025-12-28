@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m a villain, not a monster.](http://9gag.com/gag/a0eG46n)
- - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 💣 [Let it go...](http://9gag.com/gag/aNDXw00)
  - 😝 [How UK `protects` you](http://9gag.com/gag/aAy70g2)
- - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
+ - 💣 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
+ - 😝 [Men only want one thing](http://9gag.com/gag/aAy70z9)
+ - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 ---
 

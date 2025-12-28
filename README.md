@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Who needs a barber when we can get our hair done by machines, right?](http://9gag.com/gag/azxz2Bz)
- - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 💣 [Special talent](http://9gag.com/gag/an73OzV)
+ - 😝 [Special talent](http://9gag.com/gag/an73OzV)
+ - 💣 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
  - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
- - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
+ - 👉 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)<!-- MEMES:END -->
 
 ---
 

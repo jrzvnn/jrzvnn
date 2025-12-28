@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT told a teen who died by suicide to call for help 74 times over months but also used words like &quot;hanging&quot; and &quot;suicide&quot; very often, say family&#39;s lawyers &lpar;Washington Post&rpar;](http://www.techmeme.com/251228/p1#a251228p1)
  - [China&#39;s draft rules on the use of human-like AI would require companies to inform users they are dealing with AI when they log on and at two-hour intervals &lpar;Bloomberg&rpar;](http://www.techmeme.com/251227/p11#a251227p11)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-28/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 28, #461](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-28-461/#ftag=CAD590a51e)
- - [I Can&#39;t Stop Gawking at Samsung&#39;s New Wi-Fi Speaker](https://www.cnet.com/tech/home-entertainment/i-cant-stop-gawking-at-samsungs-new-wi-fi-speaker/#ftag=CAD590a51e)
- - [Two new wireless Samsung speakers for 2026 lean into aesthetics](https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics)<!-- TECH:END -->
+ - [I Can&#39;t Stop Gawking at Samsung&#39;s New Wi-Fi Speaker](https://www.cnet.com/tech/home-entertainment/i-cant-stop-gawking-at-samsungs-new-wi-fi-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

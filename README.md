@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How we work: Malcolm Owen&#39;s double-keyboard desk setup](https://appleinsider.com/articles/25/12/28/how-we-work-malcolm-owens-double-keyboard-desk-setup?utm_source=rss)
  - [Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack](https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack)
  - [How executives at humanoid robot startups like Agility Robotics and Weave Robotics are managing safety risks and tempering expectations for the technology &lpar;Sean McLain/Wall Street Journal&rpar;](http://www.techmeme.com/251228/p8#a251228p8)
  - [UK $2 billion App Store ruling appealed -- again](https://appleinsider.com/articles/25/12/28/uk-2-billion-app-store-ruling-appealed----again?utm_source=rss)
- - [How Much Melatonin Should You Be Taking? &lpar;2026&rpar;](https://www.wired.com/story/how-much-melatonin-should-i-take-2026/)
- - [Supersonic Jet Engines Will Soon Power AI Data Centers](https://www.cnet.com/roadshow/news/supersonic-jet-engines-will-soon-power-ai-data-centers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Much Melatonin Should You Be Taking? &lpar;2026&rpar;](https://www.wired.com/story/how-much-melatonin-should-i-take-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s totally broken move](http://9gag.com/gag/an73z7q)
  - 😝 [Best way to keep thieves away is fear i guess](http://9gag.com/gag/a1mnPNb)
+ - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
  - 💣 [So there is a Nvidia RTX 5090 shortage, right?](http://9gag.com/gag/aGyqE3K)
  - 😝 [Men only want one thing](http://9gag.com/gag/aAy70z9)
  - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->

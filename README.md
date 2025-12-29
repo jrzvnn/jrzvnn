@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ACCA, the world&#39;s largest accounting body, says it is ending remote exams to combat a rise in students cheating by using AI tools when taking tests &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/251229/p10#a251229p10)
- - [iMP Tech Mini Arcade Pro Review: A Nintendo Switch Arcade Cabinet](https://www.wired.com/review/imp-mini-arcade-pro/)
- - [Windows on Arm had another good year](https://www.theverge.com/gadgets/850074/2025-windows-arm-laptops-qualcomm-intel-amd-nvidia)
- - [I’m The Verge’s Senior Internet Typist, ask me anything while Nilay’s away!](https://www.theverge.com/entertainment/850407/liz-lopatto-ask-me-anything)
- - [SEC filing: Nvidia acquires Intel shares worth $5B, carrying out a transaction announced in September, buying 214.7M shares for $23.28 each &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251229/p9#a251229p9)<!-- TECH:END -->
+ - [Amber&#39;s ever-unchanging desk setup: low tech, but not no tech](https://appleinsider.com/articles/25/12/29/ambers-ever-unchanging-desk-setup-low-tech-but-not-no-tech?utm_source=rss)
+ - [Sources detail how JD Vance, David Sacks, and others brokered a fragile truce between President Trump and Elon Musk, who threatened to fund an America Party &lpar;Washington Post&rpar;](http://www.techmeme.com/251229/p11#a251229p11)
+ - [The best shows to watch on HBO Max from 2025](https://www.theverge.com/entertainment/846829/hbo-max-best-shows-2025)
+ - [Xiaomi’s 17 Ultra Leica edition has a rotatable camera zoom](https://www.theverge.com/news/850599/xiaomi-17-ultra-leica-edition-zoom-ring)
+ - [ACCA, the world&#39;s largest accounting body, says it is ending remote exams to combat a rise in students cheating by using AI tools when taking tests &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/251229/p10#a251229p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

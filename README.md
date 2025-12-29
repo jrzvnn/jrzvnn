@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
  - 😝 [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)
- - 😝 [`Russia wants to see Ukraine succeed`](http://9gag.com/gag/azxzP7q)
- - 💣 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 😝 [Minnesota](http://9gag.com/gag/aNDXv9w)
- - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
+ - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 👉 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s SMIC plans to acquire the remaining 49% stake in its SMNC unit for ~$5.8B, making the unit wholly owned, per a Shanghai Stock Exchange filing &lpar;Reuters&rpar;](http://www.techmeme.com/251229/p14#a251229p14)
+ - [Beats’ new Powerbeats Fit earbuds are down to $180](https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal)
+ - [China&#39;s SMIC plans to acquire the remaining 49% stake in its SMNC unit for ~$5.8B, making the unit wholly owned; SMNC focuses on 12&quot; integrated circuit wafers &lpar;Reuters&rpar;](http://www.techmeme.com/251229/p14#a251229p14)
  - [Duolingo&#39;s Free Plan Is Getting One of My Favorite Learning Features](https://www.cnet.com/tech/services-and-software/duolingos-explain-my-answer-free/#ftag=CAD590a51e)
  - [This experimental camera can focus on everything at once](https://www.theverge.com/news/850689/camera-focal-lens-technology-research)
- - [Samsung and Google partner to bring Google Photos to TizenOS-powered TVs, launching in March 2026 and showing curated memories, ahead of CES 2026 &lpar;Rajesh Pandey/Android Police&rpar;](http://www.techmeme.com/251229/p13#a251229p13)
- - [Robot Coffee Cups? Self-Driving Trivets? AI Researchers Made It Happen](https://www.cnet.com/tech/services-and-software/robot-coffee-cups-self-driving-trivets-ai-researchers-made-it-happen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung and Google partner to bring Google Photos to TizenOS-powered TVs, launching in March 2026 and showing curated memories, ahead of CES 2026 &lpar;Rajesh Pandey/Android Police&rpar;](http://www.techmeme.com/251229/p13#a251229p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

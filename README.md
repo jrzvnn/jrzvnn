@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s central bank unveils an overhaul of its digital yuan framework, including saying that commercial banks will soon begin paying interest on holdings &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/251229/p8#a251229p8)
- - [The Best Vacuum for Pet Hair—We Tested Many to Find Which Ones Work Best &lpar;2026&rpar;](https://www.wired.com/gallery/best-pet-hair-vacuums/)
- - [The Worst Hacks of 2025](https://www.wired.com/story/worst-hacks-of-2025/)
- - [The Best Body Pillow, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-body-pillows/)
- - [Google Photos is coming to Samsung TVs in 2026](https://www.theverge.com/news/850594/samsung-tv-google-photos-integration-2026)<!-- TECH:END -->
+ - [ACCA, the world&#39;s largest accounting body, says it is ending remote exams to combat a rise in students cheating by using AI tools when taking tests &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/251229/p10#a251229p10)
+ - [iMP Tech Mini Arcade Pro Review: A Nintendo Switch Arcade Cabinet](https://www.wired.com/review/imp-mini-arcade-pro/)
+ - [Windows on Arm had another good year](https://www.theverge.com/gadgets/850074/2025-windows-arm-laptops-qualcomm-intel-amd-nvidia)
+ - [I’m The Verge’s Senior Internet Typist, ask me anything while Nilay’s away!](https://www.theverge.com/entertainment/850407/liz-lopatto-ask-me-anything)
+ - [SEC filing: Nvidia acquires Intel shares worth $5B, carrying out a transaction announced in September, buying 214.7M shares for $23.28 each &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251229/p9#a251229p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

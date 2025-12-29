@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Limited-edition AirTags, gift cards up for grabs in Apple&#39;s New Year sale in Japan](https://appleinsider.com/articles/25/12/29/limited-edition-airtags-gift-cards-up-for-grabs-in-apples-new-year-sale-in-japan?utm_source=rss)
  - [How diamonds are being converted to quantum sensors by inserting tiny imperfections, opening up potential uses in medicine, brain-computer interfaces, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251229/p18#a251229p18)
- - [&#39;Pluribus&#39; bomb drops: studio notes changed the finale &amp; Tim Cook&#39;s cookies](https://appleinsider.com/articles/25/12/29/pluribus-bomb-drops-studio-notes-changed-the-finale-tim-cooks-cookies?utm_source=rss)
- - [A look at the rift in the Democratic party over AI and data centers, as pro-business Democrats oppose the fiery, anti-AI politics of the progressive wing &lpar;Calder McHugh/Politico&rpar;](http://www.techmeme.com/251229/p17#a251229p17)
- - [Monday Night Football: How to Watch Rams vs. Falcons Tonight for Free](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-rams-vs-falcons-tonight-for-free/#ftag=CAD590a51e)
- - [How Japan&#39;s viral horse racing game Umamusume, developed by Cygames, passed 30M downloads in Asia, spurring anime adaptations, concerts, and new racetrack fans &lpar;Katria Alampay/Bloomberg&rpar;](http://www.techmeme.com/251229/p16#a251229p16)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 30, #933](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-30-933/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 30, #1,655](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-30-1655/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 30 #667](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-30-667/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
  - [Sources and a memo: the US DOJ is using a novel reading of a federal anti-fraud law to probe contractors, including Google and Verizon, over their DEI programs &lpar;Lydia Wheeler/Wall Street Journal&rpar;](http://www.techmeme.com/251229/p1#a251229p1)
  - [Big Tech got almost everything it wanted from President Trump, as he backs policies that allow the industry to grow unfettered, worrying some conservatives &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/251228/p12#a251228p12)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-29/#ftag=CAD590a51e)
- - [How tech worker activism has grown more cautious as companies crack down and once-privileged workers realize they don&#39;t have much leverage &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251228/p11#a251228p11)
- - [LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)<!-- TECH:END -->
+ - [How tech worker activism has grown more cautious as companies crack down and once-privileged workers realize they don&#39;t have much leverage &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251228/p11#a251228p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

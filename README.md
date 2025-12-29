@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This experimental camera can focus on everything at once](https://www.theverge.com/news/850689/camera-focal-lens-technology-research)
  - [Samsung and Google partner to bring Google Photos to TizenOS-powered TVs, launching in March 2026 and showing curated memories, ahead of CES 2026 &lpar;Rajesh Pandey/Android Police&rpar;](http://www.techmeme.com/251229/p13#a251229p13)
  - [Robot Coffee Cups? Self-Driving Trivets? AI Researchers Made It Happen](https://www.cnet.com/tech/services-and-software/robot-coffee-cups-self-driving-trivets-ai-researchers-made-it-happen/#ftag=CAD590a51e)
  - [Apple assembly partner victim of a supply chain cyberattack](https://appleinsider.com/articles/25/12/29/apple-assembly-partner-victim-of-a-supply-chain-cyberattack?utm_source=rss)
- - [SoftBank agrees to acquire NYSE-listed DigitalBridge, a private equity firm that invests in data centers and digital infrastructure operators, for $4B in cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/251229/p12#a251229p12)
- - [Amber&#39;s ever-unchanging desk setup: low tech, but not no tech](https://appleinsider.com/articles/25/12/29/ambers-ever-unchanging-desk-setup-low-tech-but-not-no-tech?utm_source=rss)<!-- TECH:END -->
+ - [SoftBank agrees to acquire NYSE-listed DigitalBridge, a private equity firm that invests in data centers and digital infrastructure operators, for $4B in cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/251229/p12#a251229p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
  - 😝 [Special talent](http://9gag.com/gag/an73OzV)
- - 💣 [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)
- - 😝 [These two are gems. Ahren Belisle and Fiona Cauley](http://9gag.com/gag/awyD3Ey)
- - 👉 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)<!-- MEMES:END -->
+ - 💣 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
+ - 😝 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
+ - 👉 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)<!-- MEMES:END -->
 
 ---
 

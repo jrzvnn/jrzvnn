@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to tweak your online platform algorithms](https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms)
  - [The fall of Roomba, CES 2026 preview, &amp; the best smart tech of 2025 on HomeKit Insider](https://appleinsider.com/articles/25/12/29/the-fall-of-roomba-ces-2026-preview-the-best-smart-tech-of-2025-on-homekit-insider?utm_source=rss)
  - [Apple Car Key could make its way to Tesla vehicles](https://appleinsider.com/articles/25/12/29/apple-car-key-could-make-its-way-to-tesla-vehicles?utm_source=rss)
  - [Detroit&#39;s Apple Developer Academy costly to taxpayers, not a runaway success](https://appleinsider.com/articles/25/12/29/detroits-apple-developer-academy-costly-to-taxpayers-not-a-runaway-success?utm_source=rss)
- - [Beats’ new Powerbeats Fit earbuds are down to $180](https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal)
- - [China&#39;s SMIC plans to acquire the remaining 49% stake in its SMNC unit for ~$5.8B, making the unit wholly owned; SMNC focuses on 12&quot; integrated circuit wafers &lpar;Reuters&rpar;](http://www.techmeme.com/251229/p14#a251229p14)<!-- TECH:END -->
+ - [Beats’ new Powerbeats Fit earbuds are down to $180](https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

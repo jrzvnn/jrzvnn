@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple assembly partner victim of a supply chain cyberattack](https://appleinsider.com/articles/25/12/29/apple-assembly-partner-victim-of-a-supply-chain-cyberattack?utm_source=rss)
+ - [SoftBank agrees to acquire NYSE-listed DigitalBridge, a private equity firm that invests in data centers and digital infrastructure operators, for $4B in cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/251229/p12#a251229p12)
  - [Amber&#39;s ever-unchanging desk setup: low tech, but not no tech](https://appleinsider.com/articles/25/12/29/ambers-ever-unchanging-desk-setup-low-tech-but-not-no-tech?utm_source=rss)
  - [Sources detail how JD Vance, David Sacks, and others brokered a fragile truce between President Trump and Elon Musk, who threatened to fund an America Party &lpar;Washington Post&rpar;](http://www.techmeme.com/251229/p11#a251229p11)
- - [The best shows to watch on HBO Max from 2025](https://www.theverge.com/entertainment/846829/hbo-max-best-shows-2025)
- - [Xiaomi’s 17 Ultra Leica edition has a rotatable camera zoom](https://www.theverge.com/news/850599/xiaomi-17-ultra-leica-edition-zoom-ring)
- - [ACCA, the world&#39;s largest accounting body, says it is ending remote exams to combat a rise in students cheating by using AI tools when taking tests &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/251229/p10#a251229p10)<!-- TECH:END -->
+ - [The best shows to watch on HBO Max from 2025](https://www.theverge.com/entertainment/846829/hbo-max-best-shows-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Psychopath](http://9gag.com/gag/axy83Yp)
  - 😝 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
- - 😝 [Special talent](http://9gag.com/gag/an73OzV)
  - 💣 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 😝 [What the world sees](http://9gag.com/gag/aoy63nx)
+ - 😝 [These two are gems. Ahren Belisle and Fiona Cauley](http://9gag.com/gag/awyD3Ey)
  - 👉 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)<!-- MEMES:END -->
 
 ---

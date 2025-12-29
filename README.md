@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
- - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 💣 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
+ - 😝 [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)
  - 😝 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 👉 [Minnesota](http://9gag.com/gag/aNDXv9w)<!-- MEMES:END -->
+ - 💣 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 😝 [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
+ - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
 
 ---
 

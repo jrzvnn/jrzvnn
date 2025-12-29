@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful](http://9gag.com/gag/an73RNn)
- - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 💣 [Minnesota](http://9gag.com/gag/aRBG4R5)
- - 😝 [Which way western man?](http://9gag.com/gag/aW4A7V2)
- - 👉 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)<!-- MEMES:END -->
+ - 😝 [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)
+ - 😝 [Live your dream](http://9gag.com/gag/agmb1dn)
+ - 💣 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
+ - 👉 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)<!-- MEMES:END -->
 
 ---
 

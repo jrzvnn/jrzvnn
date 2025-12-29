@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The fall of Roomba, CES 2026 preview, &amp; the best smart tech of 2025 on HomeKit Insider](https://appleinsider.com/articles/25/12/29/the-fall-of-roomba-ces-2026-preview-the-best-smart-tech-of-2025-on-homekit-insider?utm_source=rss)
+ - [Apple Car Key could make its way to Tesla vehicles](https://appleinsider.com/articles/25/12/29/apple-car-key-could-make-its-way-to-tesla-vehicles?utm_source=rss)
+ - [Detroit&#39;s Apple Developer Academy costly to taxpayers, not a runaway success](https://appleinsider.com/articles/25/12/29/detroits-apple-developer-academy-costly-to-taxpayers-not-a-runaway-success?utm_source=rss)
  - [Beats’ new Powerbeats Fit earbuds are down to $180](https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal)
- - [China&#39;s SMIC plans to acquire the remaining 49% stake in its SMNC unit for ~$5.8B, making the unit wholly owned; SMNC focuses on 12&quot; integrated circuit wafers &lpar;Reuters&rpar;](http://www.techmeme.com/251229/p14#a251229p14)
- - [Duolingo&#39;s Free Plan Is Getting One of My Favorite Learning Features](https://www.cnet.com/tech/services-and-software/duolingos-explain-my-answer-free/#ftag=CAD590a51e)
- - [This experimental camera can focus on everything at once](https://www.theverge.com/news/850689/camera-focal-lens-technology-research)
- - [Samsung and Google partner to bring Google Photos to TizenOS-powered TVs, launching in March 2026 and showing curated memories, ahead of CES 2026 &lpar;Rajesh Pandey/Android Police&rpar;](http://www.techmeme.com/251229/p13#a251229p13)<!-- TECH:END -->
+ - [China&#39;s SMIC plans to acquire the remaining 49% stake in its SMNC unit for ~$5.8B, making the unit wholly owned; SMNC focuses on 12&quot; integrated circuit wafers &lpar;Reuters&rpar;](http://www.techmeme.com/251229/p14#a251229p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

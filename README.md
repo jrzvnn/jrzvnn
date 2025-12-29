@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Year-end deal: Save $400 on this M4 Max 16-inch MacBook Pro](https://appleinsider.com/articles/25/12/29/year-end-deal-save-400-on-this-m4-max-16-inch-macbook-pro?utm_source=rss)
  - [How to tweak your online platform algorithms](https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms)
  - [The fall of Roomba, CES 2026 preview, &amp; the best smart tech of 2025 on HomeKit Insider](https://appleinsider.com/articles/25/12/29/the-fall-of-roomba-ces-2026-preview-the-best-smart-tech-of-2025-on-homekit-insider?utm_source=rss)
  - [Apple Car Key could make its way to Tesla vehicles](https://appleinsider.com/articles/25/12/29/apple-car-key-could-make-its-way-to-tesla-vehicles?utm_source=rss)
- - [Detroit&#39;s Apple Developer Academy costly to taxpayers, not a runaway success](https://appleinsider.com/articles/25/12/29/detroits-apple-developer-academy-costly-to-taxpayers-not-a-runaway-success?utm_source=rss)
- - [Beats’ new Powerbeats Fit earbuds are down to $180](https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal)<!-- TECH:END -->
+ - [Detroit&#39;s Apple Developer Academy costly to taxpayers, not a runaway success](https://appleinsider.com/articles/25/12/29/detroits-apple-developer-academy-costly-to-taxpayers-not-a-runaway-success?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

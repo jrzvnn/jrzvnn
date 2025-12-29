@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Pluribus&#39; bomb drops: studio notes changed the finale &amp; Tim Cook&#39;s cookies](https://appleinsider.com/articles/25/12/29/pluribus-bomb-drops-studio-notes-changed-the-finale-tim-cooks-cookies?utm_source=rss)
+ - [Duolingo&#39;s Free Plan Is Getting One of My Favorite Learning Features](https://www.cnet.com/tech/services-and-software/duolingos-explain-my-answer-free/#ftag=CAD590a51e)
  - [Turn your PC into a Super Nintendo with Epilogue&amp;#8217;s new USB dock](https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator)
  - [Michał Kiciński, co-founder of CD Projekt and DRM-free digital games store GOG, has acquired 100% of the shares in GOG from CD Projekt &lpar;Vikki Blake/Eurogamer.net&rpar;](http://www.techmeme.com/251229/p15#a251229p15)
- - [Year-end deal: Save $400 on this M4 Max 16-inch MacBook Pro](https://appleinsider.com/articles/25/12/29/year-end-deal-save-400-on-this-m4-max-16-inch-macbook-pro?utm_source=rss)
- - [How to tweak your online platform algorithms](https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms)
- - [The fall of Roomba, CES 2026 preview, &amp; the best smart tech of 2025 on HomeKit Insider](https://appleinsider.com/articles/25/12/29/the-fall-of-roomba-ces-2026-preview-the-best-smart-tech-of-2025-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [Year-end deal: Save $400 on this M4 Max 16-inch MacBook Pro](https://appleinsider.com/articles/25/12/29/year-end-deal-save-400-on-this-m4-max-16-inch-macbook-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

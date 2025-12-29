@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Most Dangerous People on the Internet in 2025](https://www.wired.com/story/most-dangerous-people-on-the-internet-2025/)
+ - [PitchBook: the biggest US private startups raised $150B in 2025, surpassing the previous high of $92B in 2021, boosted by large funding rounds by AI startups &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251229/p5#a251229p5)
  - [The Earth Is Nearing an Environmental Tipping Point](https://www.wired.com/story/the-earth-is-nearing-an-environmental-tipping-point/)
  - [A Kapwing study of the 15,000 top YouTube channels finds 278 of them have only posted AI-generated &quot;slop&quot; videos, amassing 63B+ views and 221M+ subscribers &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/251229/p4#a251229p4)
- - [Sources: SoftBank is in advanced talks to buy NYSE-listed DigitalBridge, a private equity firm that invests in data centers and digital infrastructure operators &lpar;Bloomberg&rpar;](http://www.techmeme.com/251229/p3#a251229p3)
- - [Since the GENIUS Act&#39;s passage in July, the total value of stablecoins circulating rose from ~$250B to $300B+, as they become the &quot;respectable&quot; face of crypto &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/251229/p2#a251229p2)
- - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
+ - [Sources: SoftBank is in advanced talks to buy NYSE-listed DigitalBridge, a private equity firm that invests in data centers and digital infrastructure operators &lpar;Bloomberg&rpar;](http://www.techmeme.com/251229/p3#a251229p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

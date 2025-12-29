@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Speech lvl 100 Delusion lvl 100](http://9gag.com/gag/a1mn7bD)
- - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 💣 [The imbalance](http://9gag.com/gag/a7oB8Ow)
- - 😝 [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)
- - 👉 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)<!-- MEMES:END -->
+ - 😝 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
+ - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
+ - 💣 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 😝 [What the world sees](http://9gag.com/gag/aoy63nx)
+ - 👉 [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)<!-- MEMES:END -->
 
 ---
 

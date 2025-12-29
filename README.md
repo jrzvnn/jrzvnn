@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How tech worker activism has grown more cautious as companies crack down and once-privileged workers realize they don&#39;t have much leverage &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251228/p11#a251228p11)
  - [LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)
  - [Year-end price war: Apple&#39;s 1TB M5 MacBook Pro drops to $1,649](https://appleinsider.com/articles/25/12/28/year-end-price-war-apples-1tb-m5-macbook-pro-drops-to-1649?utm_source=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 29, #932](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-29-932/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 29, #462](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-29-462/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 29 #666](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-29-666/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 29, #462](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-29-462/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

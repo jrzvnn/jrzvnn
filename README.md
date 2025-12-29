@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Earth Is Nearing an Environmental Tipping Point](https://www.wired.com/story/the-earth-is-nearing-an-environmental-tipping-point/)
  - [A Kapwing study of the 15,000 top YouTube channels finds 278 of them have only posted AI-generated &quot;slop&quot; videos, amassing 63B+ views and 221M+ subscribers &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/251229/p4#a251229p4)
  - [Sources: SoftBank is in advanced talks to buy NYSE-listed DigitalBridge, a private equity firm that invests in data centers and digital infrastructure operators &lpar;Bloomberg&rpar;](http://www.techmeme.com/251229/p3#a251229p3)
  - [Since the GENIUS Act&#39;s passage in July, the total value of stablecoins circulating rose from ~$250B to $300B+, as they become the &quot;respectable&quot; face of crypto &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/251229/p2#a251229p2)
- - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
- - [Sources and a memo: the US DOJ is using a novel reading of a federal anti-fraud law to probe contractors, including Google and Verizon, over their DEI programs &lpar;Lydia Wheeler/Wall Street Journal&rpar;](http://www.techmeme.com/251229/p1#a251229p1)<!-- TECH:END -->
+ - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

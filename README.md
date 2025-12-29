@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How diamonds are being converted to quantum sensors by inserting tiny imperfections, opening up potential uses in medicine, brain-computer interfaces, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251229/p18#a251229p18)
  - [&#39;Pluribus&#39; bomb drops: studio notes changed the finale &amp; Tim Cook&#39;s cookies](https://appleinsider.com/articles/25/12/29/pluribus-bomb-drops-studio-notes-changed-the-finale-tim-cooks-cookies?utm_source=rss)
  - [A look at the rift in the Democratic party over AI and data centers, as pro-business Democrats oppose the fiery, anti-AI politics of the progressive wing &lpar;Calder McHugh/Politico&rpar;](http://www.techmeme.com/251229/p17#a251229p17)
  - [Monday Night Football: How to Watch Rams vs. Falcons Tonight for Free](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-rams-vs-falcons-tonight-for-free/#ftag=CAD590a51e)
- - [How Japan&#39;s viral horse racing game Umamusume, developed by Cygames, passed 30M downloads in Asia, spurring anime adaptations, concerts, and new racetrack fans &lpar;Katria Alampay/Bloomberg&rpar;](http://www.techmeme.com/251229/p16#a251229p16)
- - [Google Hints at Letting You Change Your Gmail Address Without Losing Your Data](https://www.cnet.com/tech/services-and-software/google-gmail-address-change-without-losing-your-data/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Japan&#39;s viral horse racing game Umamusume, developed by Cygames, passed 30M downloads in Asia, spurring anime adaptations, concerts, and new racetrack fans &lpar;Katria Alampay/Bloomberg&rpar;](http://www.techmeme.com/251229/p16#a251229p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

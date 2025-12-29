@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 😝 [Special talent](http://9gag.com/gag/an73OzV)
- - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 😝 [If you haven&#39;t seen what girls before the internet, here it is](http://9gag.com/gag/azxzxQN)
- - 👉 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)<!-- MEMES:END -->
+ - 😝 [Speech lvl 100 Delusion lvl 100](http://9gag.com/gag/a1mn7bD)
+ - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
+ - 💣 [What the world sees](http://9gag.com/gag/aoy63nx)
+ - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
 
 ---
 

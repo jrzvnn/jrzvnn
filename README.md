@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK-based Octopus Energy reaches a deal to sell about $1B of equity in Kraken Technologies, its tech spin-off, at an $8.65B valuation to a syndicate of investors &lpar;Financial Times&rpar;](http://www.techmeme.com/251229/p20#a251229p20)
+ - [Amazon slashes Apple Watch Series 11 to $299 heading into the new year](https://appleinsider.com/articles/25/12/29/amazon-slashes-apple-watch-series-11-to-299-heading-into-the-new-year?utm_source=rss)
+ - [This New Year&#39;s Eve Movie By Kathryn Bigelow is Peak Cyberpunk](https://www.cnet.com/culture/entertainment/this-new-years-eve-movie-by-kathryn-bigelow-is-peak-cyberpunk/#ftag=CAD590a51e)
  - [Meta agrees to acquire Singapore-based startup Manus, which makes an AI agent it sells to SMBs; Manus said in December its annual revenue run rate was $125M+ &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251229/p19#a251229p19)
- - [Limited-edition AirTags, gift cards up for grabs in Apple&#39;s New Year sale in Japan](https://appleinsider.com/articles/25/12/29/limited-edition-airtags-gift-cards-up-for-grabs-in-apples-new-year-sale-in-japan?utm_source=rss)
- - [How diamonds are being converted to quantum sensors by inserting tiny imperfections, opening up potential uses in medicine, brain-computer interfaces, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251229/p18#a251229p18)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 30, #933](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-30-933/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 30, #1,655](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-30-1655/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Limited-edition AirTags, gift cards up for grabs in Apple&#39;s New Year sale in Japan](https://appleinsider.com/articles/25/12/29/limited-edition-airtags-gift-cards-up-for-grabs-in-apples-new-year-sale-in-japan?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Photos is coming to Samsung TVs in 2026](https://www.theverge.com/news/850594/samsung-tv-google-photos-integration-2026)
  - [Coupang says it is offering $1B+ in compensation to all 33.7M customers affected by South Korea&#39;s biggest-ever data breach, after an ex-staffer accessed data &lpar;Shinhye Kang/Bloomberg&rpar;](http://www.techmeme.com/251229/p7#a251229p7)
  - [Framework says it is raising DDR5 RAM prices to charge $10 per GB, after a price hike earlier in December due to &quot;substantially higher costs&quot; amid the AI boom &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251229/p6#a251229p6)
  - [3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade](https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/)
- - [The New Surveillance State Is You](https://www.wired.com/story/expired-tired-wired-surveillance-state/)
- - [The Most Dangerous People on the Internet in 2025](https://www.wired.com/story/most-dangerous-people-on-the-internet-2025/)<!-- TECH:END -->
+ - [The New Surveillance State Is You](https://www.wired.com/story/expired-tired-wired-surveillance-state/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 😝 [Speech lvl 100 Delusion lvl 100](http://9gag.com/gag/a1mn7bD)
- - 💣 [Special talent](http://9gag.com/gag/an73OzV)
- - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
- - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
+ - 😝 [Minnesota](http://9gag.com/gag/aRBG4R5)
+ - 😝 [She was a hero. RIP.](http://9gag.com/gag/aKGy1R6)
+ - 💣 [Coming to Minnesota](http://9gag.com/gag/a5QAV3y)
+ - 😝 [Beautiful](http://9gag.com/gag/an73RNn)
+ - 👉 [To continue my yearly tradition](http://9gag.com/gag/avyVWM5)<!-- MEMES:END -->
 
 ---
 

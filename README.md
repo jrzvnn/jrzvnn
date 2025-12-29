@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Speech lvl 100 Delusion lvl 100](http://9gag.com/gag/a1mn7bD)
  - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
- - 💣 [What the world sees](http://9gag.com/gag/aoy63nx)
  - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 💣 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
+ - 😝 [What the world sees](http://9gag.com/gag/aoy63nx)
  - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
 
 ---

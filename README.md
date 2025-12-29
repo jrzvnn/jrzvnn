@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Minnesota](http://9gag.com/gag/aRBG4R5)
- - 😝 [Ninety nine souls-za!](http://9gag.com/gag/ary0Agp)
- - 💣 [It&#39;s not much it&#39;s honest work](http://9gag.com/gag/apRXD2E)
- - 😝 [Which way western man?](http://9gag.com/gag/aW4A7V2)
- - 👉 [The imbalance](http://9gag.com/gag/a7oB8Ow)<!-- MEMES:END -->
+ - 😝 [Speech lvl 100 Delusion lvl 100](http://9gag.com/gag/a1mn7bD)
+ - 😝 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
+ - 💣 [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
+ - 😝 [Minnesota](http://9gag.com/gag/aNDXv9w)
+ - 👉 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)<!-- MEMES:END -->
 
 ---
 

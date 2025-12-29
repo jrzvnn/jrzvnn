@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta has agreed to acquire AI startup Manus; the Singapore-based startup said in December that its annual revenue run rate is over $125M &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251229/p19#a251229p19)
+ - [Meta agrees to acquire Singapore-based startup Manus, which makes an AI agent it sells to SMBs; Manus said in December its annual revenue run rate was $125M+ &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251229/p19#a251229p19)
  - [Limited-edition AirTags, gift cards up for grabs in Apple&#39;s New Year sale in Japan](https://appleinsider.com/articles/25/12/29/limited-edition-airtags-gift-cards-up-for-grabs-in-apples-new-year-sale-in-japan?utm_source=rss)
  - [How diamonds are being converted to quantum sensors by inserting tiny imperfections, opening up potential uses in medicine, brain-computer interfaces, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251229/p18#a251229p18)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 30, #933](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-30-933/#ftag=CAD590a51e)

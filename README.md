@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Monday Night Football: How to Watch Rams vs. Falcons Tonight for Free](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-rams-vs-falcons-tonight-for-free/#ftag=CAD590a51e)
  - [How Japan&#39;s viral horse racing game Umamusume, developed by Cygames, passed 30M downloads in Asia, spurring anime adaptations, concerts, and new racetrack fans &lpar;Katria Alampay/Bloomberg&rpar;](http://www.techmeme.com/251229/p16#a251229p16)
- - [GOG&amp;#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free](https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam)
+ - [Google Hints at Letting You Change Your Gmail Address Without Losing Your Data](https://www.cnet.com/tech/services-and-software/google-gmail-address-change-without-losing-your-data/#ftag=CAD590a51e)
  - [&#39;Pluribus&#39; bomb drops: studio notes changed the finale &amp; Tim Cook&#39;s cookies](https://appleinsider.com/articles/25/12/29/pluribus-bomb-drops-studio-notes-changed-the-finale-tim-cooks-cookies?utm_source=rss)
- - [Duolingo&#39;s Free Plan Is Getting One of My Favorite Learning Features](https://www.cnet.com/tech/services-and-software/duolingos-explain-my-answer-free/#ftag=CAD590a51e)
- - [Turn your PC into a Super Nintendo with Epilogue&amp;#8217;s new USB dock](https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator)<!-- TECH:END -->
+ - [Duolingo&#39;s Free Plan Is Getting One of My Favorite Learning Features](https://www.cnet.com/tech/services-and-software/duolingos-explain-my-answer-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 😝 [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
- - 💣 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
+ - 💣 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
  - 😝 [A doggo had trouble socializing with other dogs at the park. No one paid attention to him until a little doggo introduced him to the group.](http://9gag.com/gag/aQzKQBe)
- - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
+ - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [China&#39;s draft AI rules have measures to protect kids, like time limits and parental consent, ban gambling promotion content, and add suicide chats restrictions &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251230/p8#a251230p8)
- - [Free speech’s great leap backwards](https://www.theverge.com/policy/849841/trump-immigration-social-media-free-speech)
- - [Marko&#39;s best tech of 2025 -- iPad Pro, and an unexpected MacBook Pro](https://appleinsider.com/articles/25/12/30/markos-best-tech-of-2025----ipad-pro-and-an-unexpected-macbook-pro?utm_source=rss)
- - [Commodore 64 Ultimate Review: An Astonishing Remake](https://www.wired.com/review/commodore-64-ultimate/)
- - [Sources: Chinese AI startup MiniMax is seeking to raise $600M+ from its Hong Kong IPO, set for January 2026, and has secured Alibaba and the ADIA as backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/251230/p7#a251230p7)<!-- TECH:END -->
+ - [I Tested the Huawei Pura X: This Wide-Screen Flip Phone Is Refreshing and Fun](https://www.cnet.com/tech/mobile/i-tested-the-huawei-pura-x-this-wide-screen-flip-phone-is-refreshing-and-fun/#ftag=CAD590a51e)
+ - [The Tech We&#39;ve Lost in 2025](https://www.cnet.com/tech/the-tech-weve-lost-in-2025/#ftag=CAD590a51e)
+ - [The Only Way to Stop AI &#39;Art&#39; in 2026 Is to Make It Uncool](https://www.cnet.com/tech/services-and-software/ai-image-video-slop-2026-commentary/#ftag=CAD590a51e)
+ - [Free speech’s great leap backwards](https://www.theverge.com/policy/849841/trump-immigration-social-media-free-speech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

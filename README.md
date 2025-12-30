@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Andrew&#39;s best tech in 2025: Aqara G5 Pro, 25W Qi2.2, &amp; Anker laptop battery](https://appleinsider.com/articles/25/12/30/andrews-best-tech-in-2025-aqara-g5-pro-25w-qi22-anker-laptop-battery?utm_source=rss)
  - [Two cybersecurity employees plead guilty to carrying out ransomware attacks](https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware)
  - [Two ex-staffers of cybersecurity incident response companies Sygnia and DigitalMint plead guilty to targeting US companies in 2023&#39;s BlackCat ransomware attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251230/p13#a251230p13)
  - [The OneXSugar Wallet is the first gaming handheld with a folding screen](https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android)
- - [Apple Watch &#39;Quit Quitting&#39; ad spots want you to escape your sofa](https://appleinsider.com/articles/25/12/30/apple-watch-quit-quitting-ad-spots-want-you-to-escape-your-sofa?utm_source=rss)
- - [Stop Hoarding Old Computers and Printers. How To Recycle Electronics for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch &#39;Quit Quitting&#39; ad spots want you to escape your sofa](https://appleinsider.com/articles/25/12/30/apple-watch-quit-quitting-ad-spots-want-you-to-escape-your-sofa?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

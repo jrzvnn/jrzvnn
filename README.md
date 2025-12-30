@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
  - 😝 [A doggo had trouble socializing with other dogs at the park. No one paid attention to him until a little doggo introduced him to the group.](http://9gag.com/gag/aQzKQBe)
- - 💣 [That&#39;ll work](http://9gag.com/gag/a8790re)
- - 😝 [Sports games just sucks in general](http://9gag.com/gag/aMV6PD6)
+ - 💣 [Sports games just sucks in general](http://9gag.com/gag/aMV6PD6)
+ - 😝 [That&#39;ll work](http://9gag.com/gag/a8790re)
  - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
 
 ---

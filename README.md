@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)
  - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 💣 [Never touch another man without permission](http://9gag.com/gag/a34D528)
- - 😝 [The accuracy of this is painful](http://9gag.com/gag/ayNA63M)
- - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
+ - 😝 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
+ - 👉 [Never touch another man without permission](http://9gag.com/gag/a34D528)<!-- MEMES:END -->
 
 ---
 

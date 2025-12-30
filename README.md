@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Elon Musk says xAI bought a third building called &quot;MACROHARDRR&quot;, reportedly adjacent to Colossus 2, that will take the company&#39;s training compute to almost 2GW &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251230/p17#a251230p17)
  - [Apple&#39;s cautious AI approach could pay off in 2026, report speculates](https://appleinsider.com/articles/25/12/30/apples-cautious-ai-approach-could-pay-off-in-2026-report-speculates?utm_source=rss)
  - [Andrew O&#39;Hara&#39;s 2025 desk setup: A full studio with ample storage and power](https://appleinsider.com/articles/25/12/30/andrew-oharas-2025-desk-setup-a-full-studio-with-ample-storage-and-power?utm_source=rss)
- - [A reflection on AI advances in the past decade and how scaling and time-horizon trends might point to far greater capabilities in the decade ahead &lpar;Zhengdong Wang&rpar;](http://www.techmeme.com/251230/p16#a251230p16)<!-- TECH:END -->
+ - [Samsung&#39;s $200 Galaxy A17 Brings Google&#39;s Circle to Search to Its Lower-Priced Phone](https://www.cnet.com/tech/mobile/samsung-200-galaxy-a17-brings-googles-circle-to-search-to-its-lower-priced-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

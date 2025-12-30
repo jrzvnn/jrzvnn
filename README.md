@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zhipu AI launches a share sale to raise ~$560M in a Hong Kong IPO at a valuation of ~$6.6B, which would make it the first LLM developer listed in Hong Kong &lpar;Themis Qi/South China Morning Post&rpar;](http://www.techmeme.com/251230/p11#a251230p11)
+ - [Best year-end Apple deals: AirTag $19, Apple Watch Ultra 2 $549, $799 MacBook](https://appleinsider.com/articles/25/12/30/best-year-end-apple-deals-airtag-19-apple-watch-ultra-2-549-799-macbook?utm_source=rss)
  - [GameSir put a tiny force feedback steering wheel on its new Swift Drive controller](https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback)
  - [Anker’s portable backup battery is an even better investment now that it’s nearly half off](https://www.theverge.com/gadgets/851016/anker-521-powerhouse-google-tv-streamer-4k-deal-sale)
- - [The FCC has probably killed a plan to improve smart home security](https://www.theverge.com/news/851271/cyber-trust-mark-program-lead-administrator-withdraws)
- - [Meta just bought into the enterprise market with its Manus deal, which may eventually help it expand into cloud offerings like those of its Big Tech peers &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251230/p10#a251230p10)
- - [This smart garden turned my black thumb green](https://www.theverge.com/tech/850224/gardyn-studio-2-review-smart-indoor-garden)<!-- TECH:END -->
+ - [The FCC has probably killed a plan to improve smart home security](https://www.theverge.com/news/851271/cyber-trust-mark-program-lead-administrator-withdraws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

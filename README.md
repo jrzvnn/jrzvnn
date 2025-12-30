@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 😝 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
- - 💣 [I mean so many slots were empty](http://9gag.com/gag/an73nDB)
- - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aPA0o6q)
- - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
+ - 😝 [Good, they&#39;ve got concrete](http://9gag.com/gag/aByM6Q2)
+ - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 😝 [Psychopath](http://9gag.com/gag/axy83Yp)
+ - 👉 [Eight season seven episode kill the franchise.](http://9gag.com/gag/agmbOxW)<!-- MEMES:END -->
 
 ---
 

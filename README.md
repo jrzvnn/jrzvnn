@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Satya Nadella is focused on the increasing AI competition from Amazon and Google; Microsoft Deputy CTO Dee Templeton says Nadella is in &quot;founder mode&quot; &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/251230/p4#a251230p4)
  - [China Will Tax Contraceptives in a Bid to Improve Birth Rates](https://www.wired.com/story/china-to-tax-contraceptives/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 30 #667](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-30-667/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 30, #933](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-30-933/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 30, #1,655](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-30-1655/#ftag=CAD590a51e)
- - [Fast delivery apps like Blinkit, Zepto, and Swiggy are expanding into India&#39;s Tier 2 and Tier 3 cities, driven by rising incomes and cheap smartphones and data &lpar;Bloomberg&rpar;](http://www.techmeme.com/251230/p3#a251230p3)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 30, #1,655](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-30-1655/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

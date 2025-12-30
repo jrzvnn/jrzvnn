@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 😝 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
- - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
- - 👉 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)<!-- MEMES:END -->
+ - 😝 [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
+ - 😝 [True statement](http://9gag.com/gag/agmbOj1)
+ - 💣 [I saved it, but never used it. Maybe it&#39;ll will help one of you degenerates.](http://9gag.com/gag/an73nzq)
+ - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 👉 [Instincts never lie](http://9gag.com/gag/aLn3ePP)<!-- MEMES:END -->
 
 ---
 

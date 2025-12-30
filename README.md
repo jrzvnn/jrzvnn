@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I party until I fall asleep 😊](https://www.reddit.com/r/funny/comments/1pzoor9/i_party_until_i_fall_asleep/)
  - 😝 [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)
- - 😝 [Never touch another man without permission](http://9gag.com/gag/a34D528)
- - 💣 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
- - 😝 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
- - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
+ - 💣 [Never touch another man without permission](http://9gag.com/gag/a34D528)
+ - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - 👉 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)<!-- MEMES:END -->
 
 ---
 

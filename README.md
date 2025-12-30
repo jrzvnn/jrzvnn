@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OneXSugar Wallet is the first gaming handheld with a folding screen](https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android)
+ - [Apple Watch &#39;Quit Quitting&#39; ad spots want you to escape your sofa](https://appleinsider.com/articles/25/12/30/apple-watch-quit-quitting-ad-spots-want-you-to-escape-your-sofa?utm_source=rss)
  - [Sources: Nvidia is in advanced talks to acquire Tel Aviv-based AI21, which is building its own LLMs, for $2B to $3B; the deal would resemble an acquihire &lpar;CTech&rpar;](http://www.techmeme.com/251230/p12#a251230p12)
  - [Zhipu AI launches a share sale to raise ~$560M in a Hong Kong IPO at a valuation of ~$6.6B, which would make it the first LLM developer listed in Hong Kong &lpar;Themis Qi/South China Morning Post&rpar;](http://www.techmeme.com/251230/p11#a251230p11)
- - [Best year-end Apple deals: AirTag $19, Apple Watch Ultra 2 $549, $799 MacBook](https://appleinsider.com/articles/25/12/30/best-year-end-apple-deals-airtag-19-apple-watch-ultra-2-549-799-macbook?utm_source=rss)
- - [I&#39;ve Spent 18 Years Covering Autos at CES. Flying, Thinking, Autonomous Cars Are Closer Than Ever](https://www.cnet.com/roadshow/news/ces-2026-automotive-predictions-flying-cars-ai-and-more/#ftag=CAD590a51e)
- - [GameSir put a tiny force feedback steering wheel on its new Swift Drive controller](https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback)<!-- TECH:END -->
+ - [Best year-end Apple deals: AirTag $19, Apple Watch Ultra 2 $549, $799 MacBook](https://appleinsider.com/articles/25/12/30/best-year-end-apple-deals-airtag-19-apple-watch-ultra-2-549-799-macbook?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

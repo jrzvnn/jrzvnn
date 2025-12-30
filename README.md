@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Andrew O&#39;Hara&#39;s 2025 desk setup: A full studio with ample storage and power](https://appleinsider.com/articles/25/12/30/andrew-oharas-2025-desk-setup-a-full-studio-with-ample-storage-and-power?utm_source=rss)
  - [A reflection on AI advances in the past decade and how scaling and time-horizon trends might point to far greater capabilities in the decade ahead &lpar;Zhengdong Wang&rpar;](http://www.techmeme.com/251230/p16#a251230p16)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 31, #934](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-31-934/#ftag=CAD590a51e)
  - [Photoshop Has a Lot of AI. This Is Your Guide to the Tools Worth Exploring](https://www.cnet.com/tech/services-and-software/the-best-new-ai-features-in-photoshop-and-how-to-use-them-like-a-pro/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 31, #1656](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-31-1656/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 31 #668](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-31-668/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 31, #1656](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-31-1656/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

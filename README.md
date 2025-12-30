@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: SoftBank has completed its $40B investment in OpenAI &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251230/p9#a251230p9)
  - [The Canon EOS R6 Mark III is great, but this lens is amazing](https://www.theverge.com/gadgets/850602/canon-eos-r6-mark-iii-rf-45mm-12-camera-lens-impressions-review)
  - [China&#39;s draft AI rules have measures to protect kids, like time limits and parental consent, ban gambling promotion content, and add suicide chats restrictions &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251230/p8#a251230p8)
- - [I Tested the Huawei Pura X: This Wide-Screen Flip Phone Is Refreshing and Fun](https://www.cnet.com/tech/mobile/i-tested-the-huawei-pura-x-this-wide-screen-flip-phone-is-refreshing-and-fun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Day Your Robot Vacuum Cleans Without Human Intervention Might Be Closer Than You Think](https://www.cnet.com/home/kitchen-and-household/the-day-your-robot-vacuum-cleans-without-human-intervention-might-be-closer-than-you-think/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

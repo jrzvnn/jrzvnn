@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [They all love my neighbour](http://9gag.com/gag/ae9E1xB)
  - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 😝 [Good, they&#39;ve got concrete](http://9gag.com/gag/aByM6Q2)
- - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 😝 [Psychopath](http://9gag.com/gag/axy83Yp)
- - 👉 [Eight season seven episode kill the franchise.](http://9gag.com/gag/agmbOxW)<!-- MEMES:END -->
+ - 💣 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aPA0o6q)
+ - 👉 [Never touch another man without permission](http://9gag.com/gag/a34D528)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
- - 😝 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
- - 💣 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
- - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - 😝 [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)
+ - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
  - 👉 [Facts hurt](http://9gag.com/gag/ajPjLY0)<!-- MEMES:END -->
 
 ---

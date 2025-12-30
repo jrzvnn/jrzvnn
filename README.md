@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For Android users](http://9gag.com/gag/aZZKno6)
- - 😝 [It wouldn\u2019t work everywhere I guess](http://9gag.com/gag/ajPjOwQ)
- - 💣 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 😝 [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
+ - 😝 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
+ - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
  - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
- - 👉 [I&#39;m good too](http://9gag.com/gag/a9yezZZ)<!-- MEMES:END -->
+ - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
 
 ---
 

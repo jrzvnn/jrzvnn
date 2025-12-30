@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
- - 😝 [Brave man](http://9gag.com/gag/adBMOwB)
- - 💣 [I saved it, but never used it. Maybe it&#39;ll will help one of you degenerates.](http://9gag.com/gag/an73nzq)
- - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 👉 [Instincts never lie](http://9gag.com/gag/aLn3ePP)<!-- MEMES:END -->
+ - 😝 [Eight season seven episode kill the franchise.](http://9gag.com/gag/agmbOxW)
+ - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 💣 [Never touch another man without permission](http://9gag.com/gag/a34D528)
+ - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
+ - 👉 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
 
 ---
 

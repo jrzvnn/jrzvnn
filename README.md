@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 😝 [Never touch another man without permission](http://9gag.com/gag/a34D528)
- - 💣 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
- - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
- - 👉 [Friendship among girls are just fake and toxic, full of backstabbing here and there](http://9gag.com/gag/apRX3jE)<!-- MEMES:END -->
+ - 😝 [A doggo had trouble socializing with other dogs at the park. No one paid attention to him until a little doggo introduced him to the group.](http://9gag.com/gag/aQzKQBe)
+ - 😝 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - 💣 [Sports games just sucks in general](http://9gag.com/gag/aMV6PD6)
+ - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 👉 [That&#39;ll work](http://9gag.com/gag/a8790re)<!-- MEMES:END -->
 
 ---
 

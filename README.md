@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Live your dream](http://9gag.com/gag/agmb1dn)
- - 😝 [Eight season seven episode kill the franchise.](http://9gag.com/gag/agmbOxW)
- - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 😝 [Who could have imagined?](http://9gag.com/gag/aqyO6Zj)
- - 👉 [Facts hurt](http://9gag.com/gag/ajPjLY0)<!-- MEMES:END -->
+ - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
+ - 😝 [Brave man](http://9gag.com/gag/adBMOwB)
+ - 💣 [I saved it, but never used it. Maybe it&#39;ll will help one of you degenerates.](http://9gag.com/gag/an73nzq)
+ - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 👉 [Instincts never lie](http://9gag.com/gag/aLn3ePP)<!-- MEMES:END -->
 
 ---
 

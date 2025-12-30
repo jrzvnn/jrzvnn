@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta just bought into the enterprise market with its Manus deal, which may eventually help it expand into cloud offerings like those of its Big Tech peers &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251230/p10#a251230p10)
  - [This smart garden turned my black thumb green](https://www.theverge.com/tech/850224/gardyn-studio-2-review-smart-indoor-garden)
  - [Zombie Roombas still Matter to HomeKit with support upgrades](https://appleinsider.com/articles/25/12/30/zombie-roombas-still-matter-to-homekit-with-support-upgrades?utm_source=rss)
  - [Sources: SoftBank has completed its $40B investment in OpenAI &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251230/p9#a251230p9)
- - [The Canon EOS R6 Mark III is great, but this lens is amazing](https://www.theverge.com/gadgets/850602/canon-eos-r6-mark-iii-rf-45mm-12-camera-lens-impressions-review)
- - [China&#39;s draft AI rules have measures to protect kids, like time limits and parental consent, ban gambling promotion content, and add suicide chats restrictions &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251230/p8#a251230p8)<!-- TECH:END -->
+ - [The Canon EOS R6 Mark III is great, but this lens is amazing](https://www.theverge.com/gadgets/850602/canon-eos-r6-mark-iii-rf-45mm-12-camera-lens-impressions-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

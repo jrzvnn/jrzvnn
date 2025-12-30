@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fast delivery apps like Blinkit, Zepto, and Swiggy are expanding into India&#39;s Tier 2 and Tier 3 cities, driven by rising incomes and cheap smartphones and data &lpar;Bloomberg&rpar;](http://www.techmeme.com/251230/p3#a251230p3)
+ - [The Amazfit Active Max Is Built For the Long Run &lpar;Literally&rpar;](https://www.cnet.com/tech/mobile/the-amazfit-active-max-is-built-for-the-long-run-literally/#ftag=CAD590a51e)
  - [Sources: the US has granted an annual license to Samsung and SK Hynix to ship their chip manufacturing equipment to their facilities in China for 2026 &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/251230/p2#a251230p2)
  - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
- - [Sources: Meta is buying Manus for $2B+, after approaching the startup during a fundraising at a $2B valuation; Manus CEO Xiao Hong will report to Javier Olivan &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251230/p1#a251230p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-30/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 30, #463](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-30-463/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Meta is buying Manus for $2B+, after approaching the startup during a fundraising at a $2B valuation; Manus CEO Xiao Hong will report to Javier Olivan &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251230/p1#a251230p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

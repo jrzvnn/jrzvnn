@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Version 1.0/ Version 2.0](https://www.reddit.com/r/funny/comments/1pzl5um/version_10_version_20/)
  - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 💣 [Never touch another man without permission](http://9gag.com/gag/a34D528)
- - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 👉 [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)<!-- MEMES:END -->
+ - 😝 [Never touch another man without permission](http://9gag.com/gag/a34D528)
+ - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 😝 [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)
+ - 👉 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
 
 ---
 

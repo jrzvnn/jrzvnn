@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - 😝 [Version 1.0/ Version 2.0](https://www.reddit.com/r/funny/comments/1pzl5um/version_10_version_20/)
  - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 💣 [Minnesota](http://9gag.com/gag/aNDXv9w)
- - 😝 [My fighters name is clown baby](http://9gag.com/gag/apRX6mD)
- - 👉 [The accuracy of this is painful](http://9gag.com/gag/ayNA63M)<!-- MEMES:END -->
+ - 💣 [Never touch another man without permission](http://9gag.com/gag/a34D528)
+ - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 👉 [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)<!-- MEMES:END -->
 
 ---
 

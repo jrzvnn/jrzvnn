@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China is requiring chipmakers to use at least 50% domestically made equipment for adding new capacity, in a rule that is not publicly documented &lpar;Reuters&rpar;](http://www.techmeme.com/251230/p6#a251230p6)
- - [What Is a Preamp, and Do I Really Need One?](https://www.wired.com/story/what-is-a-preamp-and-do-i-really-need-one/)
- - [7 Best Digital Notebooks &lpar;2026&rpar;: reMarkable, Kobo, Kindle](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [Sources, PitchBook data, and news reports: the founders of Perplexity, Figure AI, Safe Superintelligence, Harvey, and others joined the nine-figure club in 2025 &lpar;Natallie Rocha/New York Times&rpar;](http://www.techmeme.com/251230/p5#a251230p5)
- - [The Great Big Power Play](https://www.wired.com/story/expired-tired-wired-nuclear-plants/)<!-- TECH:END -->
+ - [Free speech’s great leap backwards](https://www.theverge.com/policy/849841/trump-immigration-social-media-free-speech)
+ - [Marko&#39;s best tech of 2025 -- iPad Pro, and an unexpected MacBook Pro](https://appleinsider.com/articles/25/12/30/markos-best-tech-of-2025----ipad-pro-and-an-unexpected-macbook-pro?utm_source=rss)
+ - [Commodore 64 Ultimate Review: An Astonishing Remake](https://www.wired.com/review/commodore-64-ultimate/)
+ - [Sources: Chinese AI startup MiniMax is seeking to raise $600M+ from its Hong Kong IPO, set for January 2026, and has secured Alibaba and the ADIA as backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/251230/p7#a251230p7)
+ - [Sources: China is requiring chipmakers to use at least 50% domestically made equipment for adding new capacity, in a rule that is not publicly documented &lpar;Reuters&rpar;](http://www.techmeme.com/251230/p6#a251230p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

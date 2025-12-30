@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 😝 [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)
- - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 😝 [I mean so many slots were empty](http://9gag.com/gag/an73nDB)
- - 👉 [Guys didn&#39;t want to combine drugs with alcohol.](http://9gag.com/gag/apRX1ob)<!-- MEMES:END -->
+ - 😝 [Live your dream](http://9gag.com/gag/agmb1dn)
+ - 😝 [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
+ - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
+ - 👉 [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)<!-- MEMES:END -->
 
 ---
 

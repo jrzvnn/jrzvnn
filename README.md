@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For Android users](http://9gag.com/gag/aZZKno6)
- - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 💣 [Special talent](http://9gag.com/gag/an73OzV)
+ - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 😝 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
+ - 💣 [I mean so many slots were empty](http://9gag.com/gag/an73nDB)
  - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aPA0o6q)
- - 👉 [I mean so many slots were empty](http://9gag.com/gag/an73nDB)<!-- MEMES:END -->
+ - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
 
 ---
 

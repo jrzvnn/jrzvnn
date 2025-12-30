@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s draft AI rules have measures to protect kids, like time limits and parental consent, ban gambling promotion content, and add suicide chats restrictions &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251230/p8#a251230p8)
  - [Free speech’s great leap backwards](https://www.theverge.com/policy/849841/trump-immigration-social-media-free-speech)
  - [Marko&#39;s best tech of 2025 -- iPad Pro, and an unexpected MacBook Pro](https://appleinsider.com/articles/25/12/30/markos-best-tech-of-2025----ipad-pro-and-an-unexpected-macbook-pro?utm_source=rss)
  - [Commodore 64 Ultimate Review: An Astonishing Remake](https://www.wired.com/review/commodore-64-ultimate/)
- - [Sources: Chinese AI startup MiniMax is seeking to raise $600M+ from its Hong Kong IPO, set for January 2026, and has secured Alibaba and the ADIA as backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/251230/p7#a251230p7)
- - [Sources: China is requiring chipmakers to use at least 50% domestically made equipment for adding new capacity, in a rule that is not publicly documented &lpar;Reuters&rpar;](http://www.techmeme.com/251230/p6#a251230p6)<!-- TECH:END -->
+ - [Sources: Chinese AI startup MiniMax is seeking to raise $600M+ from its Hong Kong IPO, set for January 2026, and has secured Alibaba and the ADIA as backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/251230/p7#a251230p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fast delivery apps like Blinkit, Zepto, and Swiggy are expanding into India&#39;s Tier 2 and Tier 3 cities, driven by rising incomes and cheap smartphones and data &lpar;Bloomberg&rpar;](http://www.techmeme.com/251230/p3#a251230p3)
- - [The Amazfit Active Max Is Built For the Long Run &lpar;Literally&rpar;](https://www.cnet.com/tech/mobile/the-amazfit-active-max-is-built-for-the-long-run-literally/#ftag=CAD590a51e)
- - [Sources: the US has granted an annual license to Samsung and SK Hynix to ship their chip manufacturing equipment to their facilities in China for 2026 &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/251230/p2#a251230p2)
- - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
- - [Sources: Meta is buying Manus for $2B+, after approaching the startup during a fundraising at a $2B valuation; Manus CEO Xiao Hong will report to Javier Olivan &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251230/p1#a251230p1)<!-- TECH:END -->
+ - [China Will Tax Contraceptives in a Bid to Improve Birth Rates](https://www.wired.com/story/china-to-tax-contraceptives/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 30 #667](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-30-667/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 30, #933](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-30-933/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 30, #1,655](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-30-1655/#ftag=CAD590a51e)
+ - [Fast delivery apps like Blinkit, Zepto, and Swiggy are expanding into India&#39;s Tier 2 and Tier 3 cities, driven by rising incomes and cheap smartphones and data &lpar;Bloomberg&rpar;](http://www.techmeme.com/251230/p3#a251230p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

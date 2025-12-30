@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 😝 [They had ordered a bucket of beer](http://9gag.com/gag/a7oBe8z)
- - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
  - 😝 [The accuracy of this is painful](http://9gag.com/gag/ayNA63M)
- - 👉 [Instincts never lie](http://9gag.com/gag/aLn3ePP)<!-- MEMES:END -->
+ - 👉 [Good, they&#39;ve got concrete](http://9gag.com/gag/aByM6Q2)<!-- MEMES:END -->
 
 ---
 

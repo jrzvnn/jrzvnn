@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Week 2 of Daycare and Kindergarten being closed.](https://www.reddit.com/r/funny/comments/1pzqhi8/week_2_of_daycare_and_kindergarten_being_closed/)
- - 😝 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
- - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 👉 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)<!-- MEMES:END -->
+ - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - 😝 [Never touch another man without permission](http://9gag.com/gag/a34D528)
+ - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
+ - 👉 [Friendship among girls are just fake and toxic, full of backstabbing here and there](http://9gag.com/gag/apRX3jE)<!-- MEMES:END -->
 
 ---
 

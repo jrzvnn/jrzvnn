@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 😝 [The accuracy of this is painful](http://9gag.com/gag/ayNA63M)
- - 👉 [Good, they&#39;ve got concrete](http://9gag.com/gag/aByM6Q2)<!-- MEMES:END -->
+ - 😝 [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)
+ - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
+ - 👉 [Never touch another man without permission](http://9gag.com/gag/a34D528)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is Shiba-san, the legendary Shiba Inu who `worked` at Suzuki Tobacco Shop in Tokyo. He&#39;d slide open the window to greet customers, accept pets, and even show off cucumbers. Drew visitors worldwide until retiring in 2015. What a dedicated good boy. \u2764\ufe0f](http://9gag.com/gag/aE0bAde)
- - 😝 [Instincts never lie](http://9gag.com/gag/aLn3ePP)
- - 💣 [My fighters name is clown baby](http://9gag.com/gag/apRX6mD)
- - 😝 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 👉 [Facts hurt](http://9gag.com/gag/ajPjLY0)<!-- MEMES:END -->
+ - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 😝 [Never touch another man without permission](http://9gag.com/gag/a34D528)
+ - 💣 [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)
+ - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
+ - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 😝 [Never touch another man without permission](http://9gag.com/gag/a34D528)
  - 😝 [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)
- - 💣 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
- - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
+ - 💣 [Friendship among girls are just fake and toxic, full of backstabbing here and there](http://9gag.com/gag/apRX3jE)
+ - 😝 [PARKOUR](http://9gag.com/gag/adBMn6Z)
  - 👉 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
 
 ---

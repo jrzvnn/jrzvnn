@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: the US has granted an annual license to Samsung and SK Hynix to ship their chip manufacturing equipment to their facilities in China for 2026 &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/251230/p2#a251230p2)
+ - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
  - [Sources: Meta is buying Manus for $2B+, after approaching the startup during a fundraising at a $2B valuation; Manus CEO Xiao Hong will report to Javier Olivan &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251230/p1#a251230p1)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-30/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 30, #463](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-30-463/#ftag=CAD590a51e)
- - [Meta says Manus, initially based in Beijing and Wuhan, will cut Chinese investor ties after the deal and &quot;will discontinue its services and operations in China&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251229/p26#a251229p26)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 30, #463](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-30-463/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

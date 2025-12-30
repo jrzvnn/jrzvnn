@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China is requiring chipmakers to use at least 50% domestically made equipment for adding new capacity, in a rule that is not publicly documented &lpar;Reuters&rpar;](http://www.techmeme.com/251230/p6#a251230p6)
+ - [What Is a Preamp, and Do I Really Need One?](https://www.wired.com/story/what-is-a-preamp-and-do-i-really-need-one/)
  - [7 Best Digital Notebooks &lpar;2026&rpar;: reMarkable, Kobo, Kindle](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
  - [Sources, PitchBook data, and news reports: the founders of Perplexity, Figure AI, Safe Superintelligence, Harvey, and others joined the nine-figure club in 2025 &lpar;Natallie Rocha/New York Times&rpar;](http://www.techmeme.com/251230/p5#a251230p5)
- - [The Great Big Power Play](https://www.wired.com/story/expired-tired-wired-nuclear-plants/)
- - [Tips for Keeping a Digital Diary and Why You Should](https://www.wired.com/story/tips-for-keeping-a-digital-diary/)
- - [Sources: Satya Nadella is focused on the increasing AI competition from Amazon and Google; Microsoft Deputy CTO Dee Templeton says Nadella is in &quot;founder mode&quot; &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/251230/p4#a251230p4)<!-- TECH:END -->
+ - [The Great Big Power Play](https://www.wired.com/story/expired-tired-wired-nuclear-plants/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

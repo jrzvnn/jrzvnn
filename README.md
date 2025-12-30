@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Driven by the AI boom, chipmakers posted $400B+ in sales in 2025; FactSet projects revenue for Nvidia, Intel, Broadcom, AMD, and Qualcomm to reach $538B in 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251229/p22#a251229p22)
- - [LG is announcing its own Frame-style TV at CES](https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026)
- - [Monday Night Football: How to Watch Rams vs. Falcons Tonight for Free](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-rams-vs-falcons-tonight-for-free/#ftag=CAD590a51e)
- - [Meta says it will continue to operate and sell the Manus service, and Manus&#39; talent will join Meta to deliver agents across Meta products, including Meta AI &lpar;Meta&rpar;](http://www.techmeme.com/251229/p21#a251229p21)
- - [UK-based Octopus Energy reaches a deal to sell about $1B of equity in Kraken Technologies, its tech spin-off, at an $8.65B valuation to a syndicate of investors &lpar;Financial Times&rpar;](http://www.techmeme.com/251229/p20#a251229p20)<!-- TECH:END -->
+ - [Meta says Manus, initially based in Beijing and Wuhan, will cut Chinese investor ties after the deal and &quot;will discontinue its services and operations in China&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251229/p26#a251229p26)
+ - [Shares of Shenzhen-based OneRobotics opened flat in their HK debut after the Chinese home robotics maker raised $210M by selling 22M+ shares at about $9.50 each &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251229/p25#a251229p25)
+ - [Shares of Insilico rose 45% in their Hong Kong trading debut after the AI drug discovery startup raised $293M in an IPO; Insilico reported $85M+ in 2024 revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/251229/p24#a251229p24)
+ - [Samsung, up 125%, and SK Hynix, up 268%, accounted for nearly half of the 76% gain in South Korea&#39;s Kospi, the world&#39;s best-performing major stock index in 2025 &lpar;Youkyung Lee/Bloomberg&rpar;](http://www.techmeme.com/251229/p23#a251229p23)
+ - [Driven by the AI boom, chipmakers posted $400B+ in sales in 2025; FactSet projects revenue for Nvidia, Intel, Broadcom, AMD, and Qualcomm to reach $538B in 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251229/p22#a251229p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

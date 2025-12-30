@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
- - 😝 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
- - 💣 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
- - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
+ - 😝 [I mean so many slots were empty](http://9gag.com/gag/an73nDB)
+ - 😝 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 💣 [Special talent](http://9gag.com/gag/an73OzV)
+ - 😝 [Pingo, my best buddy for the last 17 years just left us yesterday. Was the best boy that a man could have. You&#39;ll always be remembered!](http://9gag.com/gag/aByMV3D)
+ - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
 
 ---
 

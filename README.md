@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Monday Night Football: How to Watch Rams vs. Falcons Tonight for Free](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-rams-vs-falcons-tonight-for-free/#ftag=CAD590a51e)
  - [Meta says it will continue to operate and sell the Manus service, and Manus&#39; talent will join Meta to deliver agents across Meta products, including Meta AI &lpar;Meta&rpar;](http://www.techmeme.com/251229/p21#a251229p21)
  - [UK-based Octopus Energy reaches a deal to sell about $1B of equity in Kraken Technologies, its tech spin-off, at an $8.65B valuation to a syndicate of investors &lpar;Financial Times&rpar;](http://www.techmeme.com/251229/p20#a251229p20)
  - [Amazon slashes Apple Watch Series 11 to $299 heading into the new year](https://appleinsider.com/articles/25/12/29/amazon-slashes-apple-watch-series-11-to-299-heading-into-the-new-year?utm_source=rss)
- - [This New Year&#39;s Eve Movie By Kathryn Bigelow is Peak Cyberpunk](https://www.cnet.com/culture/entertainment/this-new-years-eve-movie-by-kathryn-bigelow-is-peak-cyberpunk/#ftag=CAD590a51e)
- - [Meta agrees to acquire Singapore-based startup Manus, which makes an AI agent it sells to SMBs; Manus said in December its annual revenue run rate was $125M+ &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251229/p19#a251229p19)<!-- TECH:END -->
+ - [This New Year&#39;s Eve Movie By Kathryn Bigelow is Peak Cyberpunk](https://www.cnet.com/culture/entertainment/this-new-years-eve-movie-by-kathryn-bigelow-is-peak-cyberpunk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

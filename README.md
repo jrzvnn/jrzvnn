@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My ma is dedicated to not work!](https://www.reddit.com/r/funny/comments/1pzs17n/my_ma_is_dedicated_to_not_work/)
- - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
- - 💣 [Never touch another man without permission](http://9gag.com/gag/a34D528)
- - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 👉 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)<!-- MEMES:END -->
+ - 😝 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - 😝 [A doggo had trouble socializing with other dogs at the park. No one paid attention to him until a little doggo introduced him to the group.](http://9gag.com/gag/aQzKQBe)
+ - 💣 [That&#39;ll work](http://9gag.com/gag/a8790re)
+ - 😝 [Sports games just sucks in general](http://9gag.com/gag/aMV6PD6)
+ - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
 
 ---
 

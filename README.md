@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford insists it will continue to support Apple CarPlay](https://appleinsider.com/articles/25/12/30/ford-insists-it-will-continue-to-support-apple-carplay?utm_source=rss)
  - [IDC expects shipments of PCs could shrink by up to 9% YoY in 2026 due to global memory shortages, as demand from AI data centers continues to outstrip supply &lpar;Zak Killian/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251230/p14#a251230p14)
- - [Andrew&#39;s best tech in 2025: Aqara G5 Pro, 25W Qi2.2, &amp; Anker laptop battery](https://appleinsider.com/articles/25/12/30/andrews-best-tech-in-2025-aqara-g5-pro-25w-qi22-anker-laptop-battery?utm_source=rss)
- - [Two cybersecurity employees plead guilty to carrying out ransomware attacks](https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware)
- - [Two ex-staffers of cybersecurity incident response companies Sygnia and DigitalMint plead guilty to targeting US companies in 2023&#39;s BlackCat ransomware attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251230/p13#a251230p13)
- - [The OneXSugar Wallet is the first gaming handheld with a folding screen](https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android)<!-- TECH:END -->
+ - [Dreams Are Meant to Be Chased in This Classic Romantic Dramedy](https://www.cnet.com/culture/entertainment/watch-queen-latifah-holiday-classic/#ftag=CAD590a51e)
+ - [Vibration Plates: New Year Fitness Secret or Scam? Experts Weigh In](https://www.cnet.com/health/fitness/vibration-plate-benefits-risks-fitness-experts/#ftag=CAD590a51e)
+ - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

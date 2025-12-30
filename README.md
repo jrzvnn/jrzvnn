@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)
- - 😝 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 💣 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
- - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aPA0o6q)
- - 👉 [I mean so many slots were empty](http://9gag.com/gag/an73nDB)<!-- MEMES:END -->
+ - 😝 [Don&#39;t always think about playing tricks on others.](https://www.reddit.com/r/funny/comments/1pz9wc7/dont_always_think_about_playing_tricks_on_others/)
+ - 😝 [For Android users](http://9gag.com/gag/aZZKno6)
+ - 💣 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 😝 [Special talent](http://9gag.com/gag/an73OzV)
+ - 👉 [\u202e\u202e\u202e](http://9gag.com/gag/aPA0o6q)<!-- MEMES:END -->
 
 ---
 

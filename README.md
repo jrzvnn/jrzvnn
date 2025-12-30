@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Becoming a dad teaches you things nobody warns you about - YouTube](https://www.reddit.com/r/funny/comments/1pzq666/becoming_a_dad_teaches_you_things_nobody_warns/)
+ - 😝 [Week 2 of Daycare and Kindergarten being closed.](https://www.reddit.com/r/funny/comments/1pzqhi8/week_2_of_daycare_and_kindergarten_being_closed/)
  - 😝 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
  - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
  - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)

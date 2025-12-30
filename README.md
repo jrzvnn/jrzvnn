@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zombie Roombas still Matter to HomeKit with support upgrades](https://appleinsider.com/articles/25/12/30/zombie-roombas-still-matter-to-homekit-with-support-upgrades?utm_source=rss)
+ - [Sources: SoftBank has completed its $40B investment in OpenAI &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251230/p9#a251230p9)
+ - [The Canon EOS R6 Mark III is great, but this lens is amazing](https://www.theverge.com/gadgets/850602/canon-eos-r6-mark-iii-rf-45mm-12-camera-lens-impressions-review)
  - [China&#39;s draft AI rules have measures to protect kids, like time limits and parental consent, ban gambling promotion content, and add suicide chats restrictions &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251230/p8#a251230p8)
- - [I Tested the Huawei Pura X: This Wide-Screen Flip Phone Is Refreshing and Fun](https://www.cnet.com/tech/mobile/i-tested-the-huawei-pura-x-this-wide-screen-flip-phone-is-refreshing-and-fun/#ftag=CAD590a51e)
- - [The Tech We&#39;ve Lost in 2025](https://www.cnet.com/tech/the-tech-weve-lost-in-2025/#ftag=CAD590a51e)
- - [The Only Way to Stop AI &#39;Art&#39; in 2026 Is to Make It Uncool](https://www.cnet.com/tech/services-and-software/ai-image-video-slop-2026-commentary/#ftag=CAD590a51e)
- - [Free speech’s great leap backwards](https://www.theverge.com/policy/849841/trump-immigration-social-media-free-speech)<!-- TECH:END -->
+ - [I Tested the Huawei Pura X: This Wide-Screen Flip Phone Is Refreshing and Fun](https://www.cnet.com/tech/mobile/i-tested-the-huawei-pura-x-this-wide-screen-flip-phone-is-refreshing-and-fun/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

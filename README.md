@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
  - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 💣 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
- - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
- - 👉 [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)<!-- MEMES:END -->
+ - 😝 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aPA0o6q)
+ - 👉 [That&#39;ll work](http://9gag.com/gag/a8790re)<!-- MEMES:END -->
 
 ---
 

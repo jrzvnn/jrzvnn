@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
- - 💣 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
- - 😝 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)
- - 👉 [Friendship among girls are just fake and toxic, full of backstabbing here and there](http://9gag.com/gag/apRX3jE)<!-- MEMES:END -->
+ - 😝 [Becoming a dad teaches you things nobody warns you about - YouTube](https://www.reddit.com/r/funny/comments/1pzq666/becoming_a_dad_teaches_you_things_nobody_warns/)
+ - 😝 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 👉 [Wishing all fellow 9 gaggers a lit New year.](http://9gag.com/gag/aAy7Ex2)<!-- MEMES:END -->
 
 ---
 

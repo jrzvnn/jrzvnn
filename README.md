@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;ll work](http://9gag.com/gag/a8790re)
- - 😝 [That makes two of us](http://9gag.com/gag/a9ye5gL)
- - 💣 [Thank you Christopher Lee for Saruman](http://9gag.com/gag/aZZKQ7V)
- - 😝 [Thought you might like it from another angle](http://9gag.com/gag/an73vQz)
- - 👉 [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)<!-- MEMES:END -->
+ - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - 💣 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
+ - 😝 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - 👉 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
 
 ---
 

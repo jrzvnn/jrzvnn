@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
+ - 😝 [Gearing up for the yearly battle of Berlin](http://9gag.com/gag/aGyqBQX)
  - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 💣 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
- - 😝 [For him, it was Tuesday](http://9gag.com/gag/ary0xMy)
+ - 💣 [Working smarter, not harder. An artist used metaverse goggles to overlay digital stencils onto real-world surfaces](http://9gag.com/gag/aqyOQqL)
+ - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
  - 👉 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)<!-- MEMES:END -->
 
 ---

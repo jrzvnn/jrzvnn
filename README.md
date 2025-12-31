@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 😝 [Single](http://9gag.com/gag/a2vV0Zp)
- - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 😝 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)
- - 👉 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)<!-- MEMES:END -->
+ - 😝 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aPA0o6q)
+ - 💣 [That makes two of us](http://9gag.com/gag/a9ye5gL)
+ - 😝 [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)
+ - 👉 [Thank you Christopher Lee for Saruman](http://9gag.com/gag/aZZKQ7V)<!-- MEMES:END -->
 
 ---
 

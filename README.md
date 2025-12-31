@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Grab Apple&#39;s M4 15-inch MacBook Air for just $999 before the year ends](https://appleinsider.com/articles/25/12/31/grab-apples-m4-15-inch-macbook-air-for-just-999-before-the-year-ends?utm_source=rss)
+ - [Trump Fails to Deliver on Promise of $500 Gold Phone in 2025. Could We See It Next Year?](https://www.cnet.com/tech/mobile/trump-phone-delayed-until-2026/#ftag=CAD590a51e)
  - [Want to Get Fit This Year? These Are the Best Fitness Trackers of 2026](https://www.cnet.com/health/fitness/best-fitness-tracker/#ftag=CAD590a51e)
  - [Trump Media, owner of Truth Social, plans to distribute a new token to shareholders with partner Crypto.com, expected to operate on the Cronos blockchain &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251231/p14#a251231p14)
- - [2025&#39;s Best Home Security Cameras That Don&#39;t Require Subscriptions](https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/#ftag=CAD590a51e)
- - [Net neutrality was back, until it wasn’t](https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025)<!-- TECH:END -->
+ - [2025&#39;s Best Home Security Cameras That Don&#39;t Require Subscriptions](https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

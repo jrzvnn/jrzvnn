@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That&#39;s the kind of girl you go on a first date and feel completely comfortable with and have a great time.](http://9gag.com/gag/a879mBY)
  - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 😝 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
- - 💣 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)
- - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
+ - 💣 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
+ - 😝 [For him, it was Tuesday](http://9gag.com/gag/ary0xMy)
  - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 ---

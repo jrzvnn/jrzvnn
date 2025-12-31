@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gearing up for the yearly battle of Berlin](http://9gag.com/gag/aGyqBQX)
+ - 😝 [That&#39;s the kind of girl you go on a first date and feel completely comfortable with and have a great time.](http://9gag.com/gag/a879mBY)
  - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 💣 [Working smarter, not harder. An artist used metaverse goggles to overlay digital stencils onto real-world surfaces](http://9gag.com/gag/aqyOQqL)
+ - 💣 [That little girl...](http://9gag.com/gag/azxzO1B)
  - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
  - 👉 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discovering the Dimensions of a New Cold War](https://www.wired.com/story/discovering-the-dimensions-of-a-new-cold-war/)
- - [Sources: Nvidia has approached TSMC to ramp up H200 chip production; Chinese companies have placed orders for 2M+ H200 chips for 2026, while Nvidia holds 700K &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p10#a251231p10)
- - [Best DNA Test for 2025](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)
- - [Filing: China&#39;s top DRAM maker CXMT plans to raise $4.2B in a Shanghai IPO; CXMT held a 4% global share in Q2 2025 and targets HBM production by the end of 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p9#a251231p9)
- - [&#39;Stranger Things 5&#39; Volume 3: When Does the Series Finale Premiere?](https://www.cnet.com/tech/services-and-software/stranger-things-5-volume-3-finale-release-date-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 31 #668](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-31-668/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 31, #934](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-31-934/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 31, #1656](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-31-1656/#ftag=CAD590a51e)
+ - [I&#39;m Done Letting Stress Win. These 7 Simple Daily Habits Are My Secret Weapon for Happiness](https://www.cnet.com/health/mental/lead-a-happier-life-with-these-7-simple-daily-habits/#ftag=CAD590a51e)
+ - [How to Watch Ohio State vs. Miami: Start Time, TV Channel for Cotton Bowl CFP Quarterfinal](https://www.cnet.com/tech/services-and-software/how-to-watch-ohio-state-vs-miami-start-time-tv-channel-for-cotton-bowl-cfp-quarterfinal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

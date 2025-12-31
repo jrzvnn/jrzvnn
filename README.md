@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude is passing guys like they are standing still. Yorkshire boy, Todd Kellett at 2025 Enduropale du Touquet, for his third consecutive victory.](http://9gag.com/gag/aAy74N0)
+ - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
+ - 😝 [Single](http://9gag.com/gag/a2vV0Zp)
+ - 💣 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)
  - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 💣 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
- - 😝 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)
- - 👉 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)<!-- MEMES:END -->
+ - 👉 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)<!-- MEMES:END -->
 
 ---
 

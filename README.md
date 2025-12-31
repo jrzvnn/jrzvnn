@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank says it has completed a $22.5B investment in OpenAI, finalizing its up to $40B investment commitment announced in March and taking its stake to ~11% &lpar;SoftBank Group Corp.&rpar;](http://www.techmeme.com/251230/p20#a251230p20)
+ - [Filing: Chinese AI startup MiniMax seeks to raise up to ~$538.5M in a Hong Kong IPO, offering 25.4M shares at a price range of ~$19.40 to ~$21.20 per share &lpar;Shivangi Lahiri/Reuters&rpar;](http://www.techmeme.com/251230/p19#a251230p19)
  - [The US Treasury has lifted sanctions on three executives tied to spyware maker Intellexa, reversing a designation imposed by the Biden administration in 2024 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251230/p18#a251230p18)
  - [Elon Musk says xAI bought a third building called &quot;MACROHARDRR&quot;, reportedly adjacent to Colossus 2, that will take the company&#39;s training compute to almost 2GW &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251230/p17#a251230p17)
- - [Apple&#39;s cautious AI approach could pay off in 2026, report speculates](https://appleinsider.com/articles/25/12/30/apples-cautious-ai-approach-could-pay-off-in-2026-report-speculates?utm_source=rss)
- - [Andrew O&#39;Hara&#39;s 2025 desk setup: A full studio with ample storage and power](https://appleinsider.com/articles/25/12/30/andrew-oharas-2025-desk-setup-a-full-studio-with-ample-storage-and-power?utm_source=rss)
- - [Samsung&#39;s $200 Galaxy A17 Brings Google&#39;s Circle to Search to Its Lower-Priced Phone](https://www.cnet.com/tech/mobile/samsung-200-galaxy-a17-brings-googles-circle-to-search-to-its-lower-priced-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s cautious AI approach could pay off in 2026, report speculates](https://appleinsider.com/articles/25/12/30/apples-cautious-ai-approach-could-pay-off-in-2026-report-speculates?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

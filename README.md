@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
- - 😝 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
- - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 😝 [Finally, some good news](http://9gag.com/gag/aAy74eE)
- - 👉 [Friendship among girls are just fake and toxic, full of backstabbing here and there](http://9gag.com/gag/apRX3jE)<!-- MEMES:END -->
+ - 😝 [That&#39;ll work](http://9gag.com/gag/a8790re)
+ - 😝 [That makes two of us](http://9gag.com/gag/a9ye5gL)
+ - 💣 [Thank you Christopher Lee for Saruman](http://9gag.com/gag/aZZKQ7V)
+ - 😝 [Thought you might like it from another angle](http://9gag.com/gag/an73vQz)
+ - 👉 [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)<!-- MEMES:END -->
 
 ---
 

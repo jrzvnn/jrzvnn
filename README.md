@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
  - 😝 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)
- - 💣 [That&#39;s the kind of girl you go on a first date and feel completely comfortable with and have a great time.](http://9gag.com/gag/a879mBY)
- - 😝 [For him, it was Tuesday](http://9gag.com/gag/ary0xMy)
+ - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
+ - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
  - 👉 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)<!-- MEMES:END -->
 
 ---

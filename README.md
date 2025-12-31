@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unsealed documents detail a US operation that stopped the alleged smuggling of $160M worth of Nvidia H100 and H200 GPUs to China between Oct. 2024 and May 2025 &lpar;CNBC&rpar;](http://www.techmeme.com/251231/p16#a251231p16)
  - [Intel MacBook Air, Apple Watch Series 5, iPhone 11 Pro now vintage](https://appleinsider.com/articles/25/12/31/intel-macbook-air-apple-watch-series-5-iphone-11-pro-now-vintage?utm_source=rss)
  - [Sources: Uber is in talks to acquire the parking space reservation app SpotHero; the parking app was last valued at $290M &lpar;The Information&rpar;](http://www.techmeme.com/251231/p15#a251231p15)
  - [Grab Apple&#39;s M4 15-inch MacBook Air for just $999 before the year ends](https://appleinsider.com/articles/25/12/31/grab-apples-m4-15-inch-macbook-air-for-just-999-before-the-year-ends?utm_source=rss)
- - [Trump Fails to Deliver on Promise of $500 Gold Phone in 2025. Could We See It Next Year?](https://www.cnet.com/tech/mobile/trump-phone-delayed-until-2026/#ftag=CAD590a51e)
- - [Want to Get Fit This Year? These Are the Best Fitness Trackers of 2026](https://www.cnet.com/health/fitness/best-fitness-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump Fails to Deliver on Promise of $500 Gold Phone in 2025. Could We See It Next Year?](https://www.cnet.com/tech/mobile/trump-phone-delayed-until-2026/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

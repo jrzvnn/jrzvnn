@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
- - 💣 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
- - 😝 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
- - 👉 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
+ - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 😝 [Single](http://9gag.com/gag/a2vV0Zp)
+ - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 😝 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)
+ - 👉 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)<!-- MEMES:END -->
 
 ---
 

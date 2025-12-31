@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Media, owner of Truth Social, plans to distribute a new token to shareholders with partner Crypto.com, expected to operate on the Cronos blockchain &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251231/p14#a251231p14)
+ - [2025&#39;s Best Home Security Cameras That Don&#39;t Require Subscriptions](https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/#ftag=CAD590a51e)
  - [Net neutrality was back, until it wasn’t](https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025)
  - [Leaked video shows the Galaxy S26 Ultra’s new camera island](https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak)
- - [The best Apple Home devices that launched in 2025 -- tested](https://appleinsider.com/articles/25/12/31/the-best-apple-home-devices-that-launched-in-2025----tested?utm_source=rss)
- - [Finland seizes a ship suspected of damaging an undersea cable linking Helsinki and Estonia in the Gulf of Finland; Estonia says a second cable was also damaged &lpar;Essi Lehto/Reuters&rpar;](http://www.techmeme.com/251231/p13#a251231p13)
- - [What I Want to See From AI in 2026: Labels, Better Phone Features and a Plan for the Environment](https://www.cnet.com/tech/services-and-software/what-i-want-from-ai-in-2026/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Apple Home devices that launched in 2025 -- tested](https://appleinsider.com/articles/25/12/31/the-best-apple-home-devices-that-launched-in-2025----tested?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Factor Meal Delivery Promo: Free $200 Withings Body-Scan Scale](https://www.wired.com/story/factor-withings-deal/)
- - [The Best Over-the-Counter Sleep Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aid/)
- - [Poor Sleep Quality Accelerates Brain Aging](https://www.wired.com/story/poor-sleep-quality-accelerates-brain-aging/)
- - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)
- - [How the AI data center boom boosted Caterpillar&#39;s power and energy unit; generator sales are up 28% YoY through Sept. 2025, after growing 22% to $7.8B in 2024 &lpar;Bob Tita/Wall Street Journal&rpar;](http://www.techmeme.com/251231/p11#a251231p11)<!-- TECH:END -->
+ - [Killing in the name of… nothing](https://www.theverge.com/policy/849609/charlie-kirk-shooting-ideology-literacy-politics)
+ - [How and why the famous &#39;1984&#39; ad was really first shown in 1983](https://appleinsider.com/articles/25/12/31/how-and-why-the-famous-1984-ad-was-really-first-shown-in-1983?utm_source=rss)
+ - [Dealroom: 76 European deep tech and life sciences companies spun out from universities reached $1B valuations or $100M in revenue in 2025, or both &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251231/p12#a251231p12)
+ - [How we worked in 2025: William&#39;s desk and wide monitor](https://appleinsider.com/articles/25/12/31/how-we-worked-in-2025-williams-desk-and-wide-monitor?utm_source=rss)
+ - [The 11 best Nintendo Switch 2 games we played in 2025](https://www.theverge.com/games/845401/nintendo-switch-2-best-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data storage stocks led the S&amp;P 500 in 2025, with SanDisk up 560%+ to become the top performer, followed by Western Digital in second and Seagate in fourth &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/251231/p8#a251231p8)
  - [Today only: Get Apple&#39;s M4 Pro Mac mini for $1,229 with bonus coupon](https://appleinsider.com/articles/25/12/31/today-only-get-apples-m4-pro-mac-mini-for-1229-with-bonus-coupon?utm_source=rss)
  - [OpenAI financial data: its stock-based pay averaged ~$1.5M per employee in 2025, ~7x Google pre-IPO and ~34x the average pay of other pre-IPO peers, per Equilar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251231/p7#a251231p7)
  - [Chinese AI firms are leading a wave of IPOs in Hong Kong, where at least 25 companies debuted in December 2025, the busiest month for deals since November 2019 &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/251231/p6#a251231p6)
- - [Filing: Chinese chip designer OmniVision Integrated Circuits seeks to raise up to ~$617M in a Hong Kong IPO; HKEX: Hong Kong IPOs have raised ~$36B in 2025 &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/251231/p5#a251231p5)
- - [Sources: bids for GroqCloud, Groq&#39;s AI inference platform, are expected to exceed $1B after Nvidia&#39;s $20B non-exclusive licensing agreement with Groq &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/251231/p4#a251231p4)<!-- TECH:END -->
+ - [Filing: Chinese chip designer OmniVision Integrated Circuits seeks to raise up to ~$617M in a Hong Kong IPO; HKEX: Hong Kong IPOs have raised ~$36B in 2025 &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/251231/p5#a251231p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

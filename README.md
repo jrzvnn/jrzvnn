@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
  - 😝 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
- - 💣 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 😝 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
+ - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 💣 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
+ - 😝 [For him, it was Tuesday](http://9gag.com/gag/ary0xMy)
  - 👉 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)<!-- MEMES:END -->
 
 ---

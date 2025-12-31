@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Engineering Students Build &#39;Popsicle Bridge&#39; That Can Hold 430kg Load...](http://9gag.com/gag/aO8ODX3)
  - 😝 [I can fix her](http://9gag.com/gag/abAo4OO)
- - 💣 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
- - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
- - 👉 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)<!-- MEMES:END -->
+ - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
+ - 😝 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Net neutrality was back, until it wasn’t](https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025)
  - [Leaked video shows the Galaxy S26 Ultra’s new camera island](https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak)
  - [The best Apple Home devices that launched in 2025 -- tested](https://appleinsider.com/articles/25/12/31/the-best-apple-home-devices-that-launched-in-2025----tested?utm_source=rss)
  - [Finland seizes a ship suspected of damaging an undersea cable linking Helsinki and Estonia in the Gulf of Finland; Estonia says a second cable was also damaged &lpar;Essi Lehto/Reuters&rpar;](http://www.techmeme.com/251231/p13#a251231p13)
- - [What I Want to See From AI in 2026: Labels, Better Phone Features and a Plan for the Environment](https://www.cnet.com/tech/services-and-software/what-i-want-from-ai-in-2026/#ftag=CAD590a51e)
- - [The Dreame X40 Ultra robovac is about $700 off, nearly matching its best price](https://www.theverge.com/gadgets/851325/dreame-x40-ultra-baseus-163w-retractable-car-charger-deal-sale)<!-- TECH:END -->
+ - [What I Want to See From AI in 2026: Labels, Better Phone Features and a Plan for the Environment](https://www.cnet.com/tech/services-and-software/what-i-want-from-ai-in-2026/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese AI firms are leading a wave of IPOs in Hong Kong, where at least 25 companies debuted in December 2025, the busiest month for deals since November 2019 &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/251231/p6#a251231p6)
  - [Filing: Chinese chip designer OmniVision Integrated Circuits seeks to raise up to ~$617M in a Hong Kong IPO; HKEX: Hong Kong IPOs have raised ~$36B in 2025 &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/251231/p5#a251231p5)
  - [Sources: bids for GroqCloud, Groq&#39;s AI inference platform, are expected to exceed $1B after Nvidia&#39;s $20B non-exclusive licensing agreement with Groq &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/251231/p4#a251231p4)
  - [Trump Mobile delays plan to launch its gold-coloured smartphone, initially promised for August 2025, saying the recent US government shutdown delayed deliveries &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/251231/p3#a251231p3)
- - [Walmart Promo Codes and Coupons: Up to 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
+ - [Walmart Promo Codes and Coupons: Up to 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

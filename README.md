@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the AI data center boom boosted Caterpillar&#39;s power and energy unit; generator sales are up 28% YoY through Sept. 2025, after growing 22% to $7.8B in 2024 &lpar;Bob Tita/Wall Street Journal&rpar;](http://www.techmeme.com/251231/p11#a251231p11)
+ - [AI-Powered Dating Is All Hype. IRL Cruising Is the Future](https://www.wired.com/story/expired-tired-wired-ai-powered-dating/)
+ - [Fears Mount That US Federal Cybersecurity Is Stagnating—or Worse](https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 31 #668](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-31-668/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 31, #934](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-31-934/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 31, #1656](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-31-1656/#ftag=CAD590a51e)
- - [I&#39;m Done Letting Stress Win. These 7 Simple Daily Habits Are My Secret Weapon for Happiness](https://www.cnet.com/health/mental/lead-a-happier-life-with-these-7-simple-daily-habits/#ftag=CAD590a51e)
- - [How to Watch Ohio State vs. Miami: Start Time, TV Channel for Cotton Bowl CFP Quarterfinal](https://www.cnet.com/tech/services-and-software/how-to-watch-ohio-state-vs-miami-start-time-tv-channel-for-cotton-bowl-cfp-quarterfinal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 31, #934](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-31-934/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

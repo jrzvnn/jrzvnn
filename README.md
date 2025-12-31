@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discovering the Dimensions of a New Cold War](https://www.wired.com/story/discovering-the-dimensions-of-a-new-cold-war/)
  - [Sources: Nvidia has approached TSMC to ramp up H200 chip production; Chinese companies have placed orders for 2M+ H200 chips for 2026, while Nvidia holds 700K &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p10#a251231p10)
  - [Best DNA Test for 2025](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)
  - [Filing: China&#39;s top DRAM maker CXMT plans to raise $4.2B in a Shanghai IPO; CXMT held a 4% global share in Q2 2025 and targets HBM production by the end of 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p9#a251231p9)
- - [&#39;Stranger Things 5&#39; Volume 3: When Does the Series Finale Premiere?](https://www.cnet.com/tech/services-and-software/stranger-things-5-volume-3-finale-release-date-netflix/#ftag=CAD590a51e)
- - [Data storage stocks led the S&amp;P 500 in 2025, with SanDisk up 560%+ to become the top performer, followed by Western Digital in second and Seagate in fourth &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/251231/p8#a251231p8)<!-- TECH:END -->
+ - [&#39;Stranger Things 5&#39; Volume 3: When Does the Series Finale Premiere?](https://www.cnet.com/tech/services-and-software/stranger-things-5-volume-3-finale-release-date-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
- - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 💣 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - 😝 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 💣 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)
  - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
  - 👉 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
 

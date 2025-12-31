@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)
- - 😝 [Thank you Christopher Lee for Saruman](http://9gag.com/gag/aZZKQ7V)
- - 💣 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)
+ - 😝 [I can fix her](http://9gag.com/gag/abAo4OO)
  - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 👉 [Probably the best impression I&#39;ve seen so far](http://9gag.com/gag/aqyOQyR)<!-- MEMES:END -->
+ - 💣 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
+ - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 ---
 

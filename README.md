@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the AI data center boom boosted Caterpillar&#39;s power and energy unit; generator sales are up 28% YoY through Sept. 2025, after growing 22% to $7.8B in 2024 &lpar;Bob Tita/Wall Street Journal&rpar;](http://www.techmeme.com/251231/p11#a251231p11)
- - [AI-Powered Dating Is All Hype. IRL Cruising Is the Future](https://www.wired.com/story/expired-tired-wired-ai-powered-dating/)
- - [Fears Mount That US Federal Cybersecurity Is Stagnating—or Worse](https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 31 #668](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-31-668/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 31, #934](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-31-934/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Factor Meal Delivery Promo: Free $200 Withings Body-Scan Scale](https://www.wired.com/story/factor-withings-deal/)
+ - [The Best Over-the-Counter Sleep Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aid/)
+ - [Poor Sleep Quality Accelerates Brain Aging](https://www.wired.com/story/poor-sleep-quality-accelerates-brain-aging/)
+ - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)
+ - [How the AI data center boom boosted Caterpillar&#39;s power and energy unit; generator sales are up 28% YoY through Sept. 2025, after growing 22% to $7.8B in 2024 &lpar;Bob Tita/Wall Street Journal&rpar;](http://www.techmeme.com/251231/p11#a251231p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Single](http://9gag.com/gag/a2vV0Zp)
- - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 💣 [That little girl...](http://9gag.com/gag/azxzO1B)
- - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
- - 👉 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)<!-- MEMES:END -->
+ - 😝 [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 😝 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - 💣 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 😝 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
+ - 👉 [Facts hurt](http://9gag.com/gag/ajPjLY0)<!-- MEMES:END -->
 
 ---
 

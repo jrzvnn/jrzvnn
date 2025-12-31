@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Chinese chipmaker GigaDevice aims to raise up to ~$600M in a Hong Kong IPO, offering 28.9M shares at up to ~$21 each &lpar;Nichiket Sunil/Reuters&rpar;](http://www.techmeme.com/251230/p23#a251230p23)
  - [Kalshi and Polymarket have partnered with social media accounts purporting to be breaking news reporters, some of which have repeatedly posted false information &lpar;Jordy Fee-Platt/The Athletic&rpar;](http://www.techmeme.com/251230/p22#a251230p22)
  - [Sources: ByteDance plans to spend about $14B on Nvidia&#39;s AI chips in 2026, an increase of about 18% from 2025 &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/251230/p21#a251230p21)
  - [SoftBank says it has completed a $22.5B investment in OpenAI, finalizing its up to $40B investment commitment announced in March and taking its stake to ~11% &lpar;SoftBank Group Corp.&rpar;](http://www.techmeme.com/251230/p20#a251230p20)
- - [Filing: Chinese AI startup MiniMax seeks to raise up to ~$538.5M in a Hong Kong IPO, offering 25.4M shares at a price range of ~$19.40 to ~$21.20 per share &lpar;Shivangi Lahiri/Reuters&rpar;](http://www.techmeme.com/251230/p19#a251230p19)
- - [The US Treasury has lifted sanctions on three executives tied to spyware maker Intellexa, reversing a designation imposed by the Biden administration in 2024 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251230/p18#a251230p18)<!-- TECH:END -->
+ - [Filing: Chinese AI startup MiniMax seeks to raise up to ~$538.5M in a Hong Kong IPO, offering 25.4M shares at a price range of ~$19.40 to ~$21.20 per share &lpar;Shivangi Lahiri/Reuters&rpar;](http://www.techmeme.com/251230/p19#a251230p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Public transport in `Modern London..](http://9gag.com/gag/a6ZzBP9)
- - 😝 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
- - 💣 [That little girl...](http://9gag.com/gag/azxzO1B)
- - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
+ - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
+ - 😝 [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 💣 [Public transport in `Modern London..](http://9gag.com/gag/a6ZzBP9)
+ - 😝 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)
+ - 👉 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)<!-- MEMES:END -->
 
 ---
 

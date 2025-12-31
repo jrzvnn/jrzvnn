@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese NAND flash memory maker Kioxia is up 500%+ in 2025 so far, outperforming all other MSCI World Index members, after its Tokyo IPO debut in December 2024 &lpar;Alice French/Bloomberg&rpar;](http://www.techmeme.com/251231/p1#a251231p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 31, #464](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-31-464/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-31/#ftag=CAD590a51e)
  - [Filing: Chinese chipmaker GigaDevice aims to raise up to ~$600M in a Hong Kong IPO, offering 28.9M shares at up to ~$21 each &lpar;Nichiket Sunil/Reuters&rpar;](http://www.techmeme.com/251230/p23#a251230p23)
- - [Kalshi and Polymarket have partnered with social media accounts purporting to be breaking news reporters, some of which have repeatedly posted false information &lpar;Jordy Fee-Platt/The Athletic&rpar;](http://www.techmeme.com/251230/p22#a251230p22)
- - [Sources: ByteDance plans to spend about $14B on Nvidia&#39;s AI chips in 2026, an increase of about 18% from 2025 &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/251230/p21#a251230p21)
- - [SoftBank says it has completed a $22.5B investment in OpenAI, finalizing its up to $40B investment commitment announced in March and taking its stake to ~11% &lpar;SoftBank Group Corp.&rpar;](http://www.techmeme.com/251230/p20#a251230p20)
- - [Filing: Chinese AI startup MiniMax seeks to raise up to ~$538.5M in a Hong Kong IPO, offering 25.4M shares at a price range of ~$19.40 to ~$21.20 per share &lpar;Shivangi Lahiri/Reuters&rpar;](http://www.techmeme.com/251230/p19#a251230p19)<!-- TECH:END -->
+ - [Kalshi and Polymarket have partnered with social media accounts purporting to be breaking news reporters, some of which have repeatedly posted false information &lpar;Jordy Fee-Platt/The Athletic&rpar;](http://www.techmeme.com/251230/p22#a251230p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

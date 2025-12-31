@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
- - 😝 [Single](http://9gag.com/gag/a2vV0Zp)
- - 💣 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)
- - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 👉 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)<!-- MEMES:END -->
+ - 😝 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)
+ - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 💣 [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)
+ - 😝 [Thank you Christopher Lee for Saruman](http://9gag.com/gag/aZZKQ7V)
+ - 👉 [Probably the best impression I&#39;ve seen so far](http://9gag.com/gag/aqyOQyR)<!-- MEMES:END -->
 
 ---
 

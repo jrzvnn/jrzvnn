@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happened in 1971?](http://9gag.com/gag/aoy6xq0)
- - 😝 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
- - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
- - 😝 [Public transport in `Modern London..](http://9gag.com/gag/a6ZzBP9)
- - 👉 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)<!-- MEMES:END -->
+ - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
+ - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
+ - 💣 [I can fix her](http://9gag.com/gag/abAo4OO)
+ - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 👉 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)<!-- MEMES:END -->
 
 ---
 

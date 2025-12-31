@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal docs reveal Meta&#39;s tactics to fend off pressure to crack down on scammers, including efforts to make scam ads &quot;not findable&quot; for regulators and others &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/251231/p18#a251231p18)
  - [Want to Vacuum Seal Your Groceries? Avoid These 7 Foods](https://www.cnet.com/news/never-vacuum-seal-these-7-foods/#ftag=CAD590a51e)
  - [Filing: Chinese AI chip startup Biren raises ~$717M in its Hong Kong IPO; institutional and retail tranches were oversubscribed ~26x and ~2,348x, respectively &lpar;Himanshi Akhand/Reuters&rpar;](http://www.techmeme.com/251231/p17#a251231p17)
  - [Unsealed documents detail a US operation that stopped the alleged smuggling of $160M worth of Nvidia H100 and H200 GPUs to China between Oct. 2024 and May 2025 &lpar;CNBC&rpar;](http://www.techmeme.com/251231/p16#a251231p16)
- - [Want a Delicious Dinner? Don&#39;t Cook These 5 Foods in Your Nonstick Pan](https://www.cnet.com/news/stop-putting-these-5-foods-in-a-nonstick-pan/#ftag=CAD590a51e)
- - [Intel MacBook Air, Apple Watch Series 5, iPhone 11 Pro now vintage](https://appleinsider.com/articles/25/12/31/intel-macbook-air-apple-watch-series-5-iphone-11-pro-now-vintage?utm_source=rss)<!-- TECH:END -->
+ - [Want a Delicious Dinner? Don&#39;t Cook These 5 Foods in Your Nonstick Pan](https://www.cnet.com/news/stop-putting-these-5-foods-in-a-nonstick-pan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

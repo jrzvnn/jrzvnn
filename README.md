@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
- - 😝 [That little girl...](http://9gag.com/gag/azxzO1B)
- - 💣 [Public transport in `Modern London..](http://9gag.com/gag/a6ZzBP9)
- - 😝 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)
+ - 😝 [What happened in 1971?](http://9gag.com/gag/aoy6xq0)
+ - 😝 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
+ - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
+ - 😝 [Public transport in `Modern London..](http://9gag.com/gag/a6ZzBP9)
  - 👉 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)<!-- MEMES:END -->
 
 ---

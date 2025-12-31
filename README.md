@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Southern Lemming Attack](https://www.reddit.com/r/funny/comments/1q0nv9v/southern_lemming_attack/)
  - 😝 [Are you ready for 2026?](http://9gag.com/gag/ae9Ex2p)
- - 💣 [Life , may we be guided to the Tr\u00fbth of it](http://9gag.com/gag/a0eGnLd)
- - 😝 [I&#39;m going to open a daycare](http://9gag.com/gag/amoymzy)
- - 👉 [They&#39;re always judging you, Rebecca.](http://9gag.com/gag/aLn3AKW)<!-- MEMES:END -->
+ - 😝 [Life , may we be guided to the Tr\u00fbth of it](http://9gag.com/gag/a0eGnLd)
+ - 💣 [I&#39;m going to open a daycare](http://9gag.com/gag/amoymzy)
+ - 😝 [They&#39;re always judging you, Rebecca.](http://9gag.com/gag/aLn3AKW)
+ - 👉 [Yes you](http://9gag.com/gag/aE0boLG)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thiel Capital opens an office in Miami, as Peter Thiel and others reportedly look to cut ties with California over a proposed ballot measure to tax billionaires &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251231/p20#a251231p20)
  - [TSMC says the US government has granted the company an annual license to import US chip manufacturing equipment to its facilities in Nanjing, China &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p19#a251231p19)
  - [Internal docs reveal Meta&#39;s tactics to fend off pressure to crack down on scammers, including efforts to make scam ads &quot;not findable&quot; for regulators and others &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/251231/p18#a251231p18)
  - [Today&#39;s Wordle Hints, Answer and Help for Jan. 1, #1,657](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-1-1657/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 1, #669](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-1-669/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 1, #465](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-1-465/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 1, #669](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-1-669/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

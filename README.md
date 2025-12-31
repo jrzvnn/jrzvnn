@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
- - 💣 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 😝 [That makes two of us](http://9gag.com/gag/a9ye5gL)
+ - 😝 [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)
+ - 💣 [Thank you Christopher Lee for Saruman](http://9gag.com/gag/aZZKQ7V)
  - 😝 [It took 14 years to get that fraud exposed. Impressive!](http://9gag.com/gag/aYQBPv7)
- - 👉 [Facts hurt](http://9gag.com/gag/ajPjLY0)<!-- MEMES:END -->
+ - 👉 [Knock knock](http://9gag.com/gag/aMV6nyW)<!-- MEMES:END -->
 
 ---
 

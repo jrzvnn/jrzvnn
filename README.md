@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - 😝 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)
  - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
- - 😝 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
- - 👉 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
+ - 💣 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - 😝 [They&#39;re always judging you, Rebecca.](http://9gag.com/gag/aLn3AKW)
+ - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 ---
 

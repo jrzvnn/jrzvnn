@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That makes two of us](http://9gag.com/gag/a9ye5gL)
- - 😝 [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)
- - 💣 [Thank you Christopher Lee for Saruman](http://9gag.com/gag/aZZKQ7V)
- - 😝 [It took 14 years to get that fraud exposed. Impressive!](http://9gag.com/gag/aYQBPv7)
- - 👉 [Knock knock](http://9gag.com/gag/aMV6nyW)<!-- MEMES:END -->
+ - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 💣 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
+ - 👉 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s the kind of girl you go on a first date and feel completely comfortable with and have a great time.](http://9gag.com/gag/a879mBY)
+ - 😝 [Im glad I never subscribed to netflix.](http://9gag.com/gag/aAy748E)
  - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 💣 [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 💣 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
  - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
- - 👉 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)<!-- MEMES:END -->
+ - 👉 [I can fix her](http://9gag.com/gag/abAo4OO)<!-- MEMES:END -->
 
 ---
 

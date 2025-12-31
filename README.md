@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For him, it was Tuesday](http://9gag.com/gag/ary0xMy)
- - 😝 [I&#39;m going to open a daycare](http://9gag.com/gag/amoymzy)
- - 💣 [Life , may we be guided to the Tr\u00fbth of it](http://9gag.com/gag/a0eGnLd)
- - 😝 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)
- - 👉 [Yes you](http://9gag.com/gag/aE0boLG)<!-- MEMES:END -->
+ - 😝 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 💣 [Finally some good news](http://9gag.com/gag/a6Zz5ZL)
+ - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
+ - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
 
 ---
 

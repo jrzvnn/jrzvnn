@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)
- - 😝 [I can fix her](http://9gag.com/gag/abAo4OO)
- - 💣 [Engineering Students Build &#39;Popsicle Bridge&#39; That Can Hold 430kg Load...](http://9gag.com/gag/aO8ODX3)
+ - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 😝 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
+ - 💣 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)
  - 😝 [Don&#39;t ignore this hoppy harbinger\u2014may your year overflow with prosperity, joy, and zero croaks 9gagers!](http://9gag.com/gag/aVv8m0v)
- - 👉 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)<!-- MEMES:END -->
+ - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 ---
 

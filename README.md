@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That little girl...](http://9gag.com/gag/azxzO1B)
- - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
- - 💣 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
- - 😝 [1st season we intrigue the audience 2nd season is where we start introducing gay characters](http://9gag.com/gag/aD2LV5Z)
- - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
+ - 😝 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 😝 [Knock knock](http://9gag.com/gag/aMV6nyW)
+ - 💣 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)
+ - 😝 [Get innnnn lol.](http://9gag.com/gag/aD2Lb9w)
+ - 👉 [Modesty not required](http://9gag.com/gag/amoyMR4)<!-- MEMES:END -->
 
 ---
 

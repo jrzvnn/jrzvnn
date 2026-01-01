@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
- - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
- - 💣 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
- - 😝 [Life sucks, sometimes life sucks a little less\u2026 Happy new year f**kers!](http://9gag.com/gag/an73E50)
- - 👉 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)<!-- MEMES:END -->
+ - 😝 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
+ - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 💣 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
+ - 😝 [B-b-b-b-b-based. The common sense take is controversial.](http://9gag.com/gag/aZZKjy0)
+ - 👉 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adam Mosseri details trends shaping Instagram and says it&#39;ll be more practical to authenticate real media than label AI, as AI gets better at imitating reality &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251231/p22#a251231p22)
+ - [Happy New Year 2026 from AppleInsider](https://appleinsider.com/articles/26/01/01/happy-new-year-2026-from-appleinsider?utm_source=rss)
  - [The FBI says fraudsters bilked Americans out of $333.5M via bitcoin ATM scams from January through November 2025, up from roughly $250M in 2024 &lpar;Lucien Bruggeman/ABC News&rpar;](http://www.techmeme.com/251231/p21#a251231p21)
  - [You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram](https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram)
- - [Thiel Capital opens an office in Miami, as Peter Thiel and others reportedly look to cut ties with California over a proposed ballot measure to tax billionaires &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251231/p20#a251231p20)
- - [TSMC says the US government has granted the company an annual license to import US chip manufacturing equipment to its facilities in Nanjing, China &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p19#a251231p19)
- - [Internal docs reveal Meta&#39;s tactics to fend off pressure to crack down on scammers, including efforts to make scam ads &quot;not findable&quot; for regulators and others &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/251231/p18#a251231p18)<!-- TECH:END -->
+ - [Thiel Capital opens an office in Miami, as Peter Thiel and others reportedly look to cut ties with California over a proposed ballot measure to tax billionaires &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251231/p20#a251231p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

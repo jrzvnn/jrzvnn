@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
- - 😝 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
- - 💣 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
- - 😝 [She want Ice ?](http://9gag.com/gag/avyVxeM)
+ - 😝 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
+ - 😝 [Broccoli Molecule Kills 90% of Cavity Bacteria](http://9gag.com/gag/aNDX4ov)
+ - 💣 [She want Ice ?](http://9gag.com/gag/avyVxeM)
+ - 😝 [Cuando un atleta casi gana](http://9gag.com/gag/aoy68gw)
  - 👉 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
 
 ---

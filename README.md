@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
- - 😝 [I can fix her](http://9gag.com/gag/abAo4OO)
- - 💣 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
- - 😝 [Happy new year from Romania you filthy animals ! To another year of degeneracy !](http://9gag.com/gag/aZZKjW9)
- - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
+ - 😝 [Happy NEW YEAR!](http://9gag.com/gag/aO8O9RM)
+ - 😝 [Yes you](http://9gag.com/gag/aE0boLG)
+ - 💣 [Happy new year f**kers!! It\u2019s been a ride, alone, shitty job and no life but at least I have you guys](http://9gag.com/gag/ajPjZA1)
+ - 😝 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)
+ - 👉 [Fellas, 35 years old. Been married for 7 year. &lpar; It was a love marriage. We were together in a relationship for 10 years. In total 17 years together.&rpar; Recently got sperated. Starting a new life without her on a differeny city. This is all I have got now. Wish me luck.](http://9gag.com/gag/a0eGn9B)<!-- MEMES:END -->
 
 ---
 

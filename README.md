@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
- - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
- - 💣 [I can fix her](http://9gag.com/gag/abAo4OO)
+ - 😝 [RAM prices are getting out of hand](https://www.reddit.com/r/funny/comments/1q0rurb/ram_prices_are_getting_out_of_hand/)
  - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - 👉 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)<!-- MEMES:END -->
+ - 💣 [I can fix her](http://9gag.com/gag/abAo4OO)
+ - 😝 [Happy New Year!](http://9gag.com/gag/aE0bDzp)
+ - 👉 [Happy new year f**kers!! It\u2019s been a ride, alone, shitty job and no life but at least I have you guys](http://9gag.com/gag/ajPjZA1)<!-- MEMES:END -->
 
 ---
 

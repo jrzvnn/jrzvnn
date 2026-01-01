@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
- - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - 💣 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
+ - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
  - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
- - 👉 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)<!-- MEMES:END -->
+ - 💣 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
+ - 😝 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)
+ - 👉 [I can fix her](http://9gag.com/gag/abAo4OO)<!-- MEMES:END -->
 
 ---
 

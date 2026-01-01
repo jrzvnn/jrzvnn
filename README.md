@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
  - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
- - 😝 [Trying to eat dinner in Italy](http://9gag.com/gag/ajPjxKG)
  - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
- - 😝 [This was once peak technology](http://9gag.com/gag/aD2LVMB)
- - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
+ - 😝 [Trying to eat dinner in Italy](http://9gag.com/gag/ajPjxKG)
+ - 👉 [She want Ice ?](http://9gag.com/gag/avyVxeM)<!-- MEMES:END -->
 
 ---
 

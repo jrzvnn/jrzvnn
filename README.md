@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Standing Desks of 2026](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [Brookfield is launching a cloud company called Radiant and a new $10B AI fund, and plans to acquire up to $100B in land, data centers, and power assets for AI &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/260101/p15#a260101p15)
  - [Oliver&#39;s best tech in 2025: iPhone Air, earbuds, and an iPhone Fold teaser](https://appleinsider.com/articles/26/01/01/olivers-best-tech-in-2025-iphone-air-earbuds-and-an-iphone-fold-teaser?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 2 #670](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-2-670/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 2, #936](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-2-936/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 2, #1658](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-2-1658/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Desks of 2026: I’ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 2 #670](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-2-670/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

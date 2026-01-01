@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPad mini 7 is on sale for $399 as Amazon launches 2026 deals](https://appleinsider.com/articles/26/01/01/apples-ipad-mini-7-is-on-sale-for-399-as-amazon-launches-2026-deals?utm_source=rss)
- - [&#39;Stranger Things&#39; Ending Got You Down? This Quirky &#39;80s Horror Movie on Tubi Is the Antedote](https://www.cnet.com/tech/services-and-software/stranger-things-ending-netflix-80s-horror-movie-free-tubi-gate/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Jan. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-jan-1/#ftag=CAD590a51e)
- - [How AI labs are deploying on-site gas generators for power as the US electric grid struggles to keep pace with the growing demands of AI infrastructure &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251231/p24#a251231p24)
- - [Elon Musk says Neuralink plans to start &quot;high-volume production&quot; of brain-computer interface devices and move to an almost automated surgical procedure in 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p23#a251231p23)<!-- TECH:END -->
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in January](https://www.wired.com/story/att-promo-code/)
+ - [Report: China-based Moonshot AI, maker of Kimi models, raised a $500M Series C at a $4.3B valuation led by IDG Capital, with Alibaba and Tencent participating &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/260101/p3#a260101p3)
+ - [Newegg Promo Code: 10% Off in January 2026](https://www.wired.com/story/newegg-promo-code/)
+ - [Some 2025 takeaways in LLMs: reasoning as a signature feature, coding agents were useful, subscriptions hit $200/month, and Chinese open-weight models impressed &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260101/p2#a260101p2)
+ - [20% Off LG Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

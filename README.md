@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1st season we intrigue the audience 2nd season is where we start introducing gay characters](http://9gag.com/gag/aD2LV5Z)
- - 😝 [Knock knock](http://9gag.com/gag/aMV6nyW)
- - 💣 [Get innnnn lol.](http://9gag.com/gag/aD2Lb9w)
- - 😝 [Modesty not required](http://9gag.com/gag/amoyMR4)
- - 👉 [Dream job](http://9gag.com/gag/aGyqAPG)<!-- MEMES:END -->
+ - 😝 [Broccoli Molecule Kills 90% of Cavity Bacteria](http://9gag.com/gag/aNDX4ov)
+ - 😝 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
+ - 💣 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 😝 [Title](http://9gag.com/gag/aQzK23e)
+ - 👉 [Lost Chance](http://9gag.com/gag/aNDXBw6)<!-- MEMES:END -->
 
 ---
 

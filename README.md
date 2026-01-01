@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG’s new karaoke-ready party speaker uses AI to remove song vocals](https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026)
  - [Analysts need Apple Vision Pro to be a flop, whether Apple considers it one or not](https://appleinsider.com/articles/26/01/01/analysts-need-apple-vision-pro-to-be-a-flop-whether-apple-considers-it-one-or-not?utm_source=rss)
  - [Ukraine has become a live-fire test range for AI drones like the Bumblebee, provided by a secretive Eric Schmidt-led venture, raising alarms in Kremlin circles &lpar;C.J. Chivers/New York Times&rpar;](http://www.techmeme.com/260101/p12#a260101p12)
  - [Best Air Purifiers of 2026: Our New Lab Testing Shows You Don’t Have to Spend Hundreds on a Good One](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)
- - [Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free](https://www.theverge.com/policy/852332/public-domain-2026-betty-boop-nancy-drew-pluto)
- - [DeepSeek researchers detail a new mHC architecture they used to train 3B, 9B, and 27B models, finding it scaled without adding significant computational burden &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/260101/p11#a260101p11)<!-- TECH:END -->
+ - [Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free](https://www.theverge.com/policy/852332/public-domain-2026-betty-boop-nancy-drew-pluto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

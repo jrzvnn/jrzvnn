@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 😝 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
  - 😝 [I can fix her](http://9gag.com/gag/abAo4OO)
- - 💣 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
- - 😝 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)
+ - 💣 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 😝 [Happy new year from Romania you filthy animals ! To another year of degeneracy !](http://9gag.com/gag/aZZKjW9)
  - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
 
 ---

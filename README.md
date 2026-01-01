@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starlink plans to lower its satellites orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/260101/p16#a260101p16)
+ - [Warm Milk Not Cutting It? Give Your Sleep a Glow-Up With These Science-Backed Sips](https://www.cnet.com/health/sleep/a-warm-glass-of-milk-and-other-drinks-that-ease-you-to-sleep/#ftag=CAD590a51e)
  - [Best Standing Desks of 2026](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [Brookfield is launching a cloud company called Radiant and a new $10B AI fund, and plans to acquire up to $100B in land, data centers, and power assets for AI &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/260101/p15#a260101p15)
- - [Oliver&#39;s best tech in 2025: iPhone Air, earbuds, and an iPhone Fold teaser](https://appleinsider.com/articles/26/01/01/olivers-best-tech-in-2025-iphone-air-earbuds-and-an-iphone-fold-teaser?utm_source=rss)
- - [Best Desks of 2026: I’ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 2 #670](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-2-670/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oliver&#39;s best tech in 2025: iPhone Air, earbuds, and an iPhone Fold teaser](https://appleinsider.com/articles/26/01/01/olivers-best-tech-in-2025-iphone-air-earbuds-and-an-iphone-fold-teaser?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

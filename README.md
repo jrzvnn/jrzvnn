@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SpaceX, OpenAI, and Anthropic could IPO in 2026; those three deals alone would exceed the total proceeds from roughly 200 US IPOs in 2025 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260101/p6#a260101p6)
  - [Hong Kong&#39;s benchmark Hang Seng Index rose 28% in 2025, its best percentage performance since 2017, driven by tech, AI, and semiconductor stocks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260101/p5#a260101p5)
  - [Analysts and manufacturers expect smartphone, PC, and consumer electronics prices to rise by as much as 20% in 2026, as AI demand drives up memory chip costs &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/260101/p4#a260101p4)
  - [Visible Promo Code: Save $140 in January 2026](https://www.wired.com/story/visible-promo-code/)
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in January](https://www.wired.com/story/att-promo-code/)
- - [Report: China-based Moonshot AI, maker of Kimi models, raised a $500M Series C at a $4.3B valuation led by IDG Capital, with Alibaba and Tencent participating &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/260101/p3#a260101p3)<!-- TECH:END -->
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in January](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

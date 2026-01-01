@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
  - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
- - 💣 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
+ - 😝 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
+ - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
  - 😝 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)
  - 👉 [I can fix her](http://9gag.com/gag/abAo4OO)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus Zenscreen Duo OLED MQ149CD Review: An Excellent but Pricey Dual-Screen Monitor](https://www.cnet.com/tech/computing/asus-zenscreen-duo-oled-mq149cd-review-an-excellent-but-pricey-dual-screen-monitor/#ftag=CAD590a51e)
- - [The Quadrantids Meteor Shower Peaks Just After New Year&#39;s. Here&#39;s How to See It](https://www.cnet.com/science/space/quadrantids-meteor-shower-after-new-years-eve-how-to-see-it/#ftag=CAD590a51e)
- - [Time to Choose: Apple Watch Series 11 vs. Ultra 3 and SE 3](https://www.cnet.com/tech/mobile/apple-watch-series11-vs-ultra3-vs-se3/#ftag=CAD590a51e)
+ - [Tech startups have started to offer nicotine pouches as a free perk to employees, as some claim the products help them focus despite health hazards &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/260101/p9#a260101p9)
+ - [William&#39;s best tech in 2025: Mac Studio, iPad Pro, and so much from Elgato](https://appleinsider.com/articles/26/01/01/williams-best-tech-in-2025-mac-studio-ipad-pro-and-so-much-from-elgato?utm_source=rss)
  - [4 Best Smart Scales &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-scales/)
- - [How to Watch Georgia vs. Ole Miss: Start Time, TV Channel for Sugar Bowl CFP Quarterfinal](https://www.cnet.com/tech/services-and-software/how-to-watch-georgia-vs-ole-miss-start-time-tv-channel-for-sugar-bowl-cfp-quarterfinal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Georgia vs. Ole Miss: Start Time, TV Channel for Sugar Bowl CFP Quarterfinal](https://www.cnet.com/tech/services-and-software/how-to-watch-georgia-vs-ole-miss-start-time-tv-channel-for-sugar-bowl-cfp-quarterfinal/#ftag=CAD590a51e)
+ - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

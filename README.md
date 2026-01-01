@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPad mini 7 is on sale for $399 as Amazon launches 2026 deals](https://appleinsider.com/articles/26/01/01/apples-ipad-mini-7-is-on-sale-for-399-as-amazon-launches-2026-deals?utm_source=rss)
+ - [&#39;Stranger Things&#39; Ending Got You Down? This Quirky &#39;80s Horror Movie on Tubi Is the Antedote](https://www.cnet.com/tech/services-and-software/stranger-things-ending-netflix-80s-horror-movie-free-tubi-gate/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Thursday, Jan. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-jan-1/#ftag=CAD590a51e)
  - [How AI labs are deploying on-site gas generators for power as the US electric grid struggles to keep pace with the growing demands of AI infrastructure &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251231/p24#a251231p24)
- - [Elon Musk says Neuralink plans to start &quot;high-volume production&quot; of brain-computer interface devices and move to an almost automated surgical procedure in 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p23#a251231p23)
- - [Adam Mosseri details trends shaping Instagram and says it&#39;ll be more practical to authenticate real media than label AI, as AI gets better at imitating reality &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251231/p22#a251231p22)
- - [Happy New Year 2026 from AppleInsider](https://appleinsider.com/articles/26/01/01/happy-new-year-2026-from-appleinsider?utm_source=rss)<!-- TECH:END -->
+ - [Elon Musk says Neuralink plans to start &quot;high-volume production&quot; of brain-computer interface devices and move to an almost automated surgical procedure in 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p23#a251231p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1st season we intrigue the audience 2nd season is where we start introducing gay characters](http://9gag.com/gag/aD2LV5Z)
- - 😝 [Knock knock](http://9gag.com/gag/aMV6nyW)
- - 💣 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)
- - 😝 [Nuck Chorris](http://9gag.com/gag/abAoBPL)
- - 👉 [Get innnnn lol.](http://9gag.com/gag/aD2Lb9w)<!-- MEMES:END -->
+ - 😝 [Lost Chance](http://9gag.com/gag/aNDXBw6)
+ - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 💣 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 😝 [Holiday](http://9gag.com/gag/aByMPzD)
+ - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
 
 ---
 

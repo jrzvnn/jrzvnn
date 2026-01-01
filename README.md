@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Tested Popular Functional Coffee Add-Ins for a Week Each &lpar;2026&rpar;](https://www.wired.com/gallery/best-functional-coffee-add-ins/)
+ - [How to Make It Through Cold and Flu Season](https://www.wired.com/story/cold-and-flu-prevention-treatment-tips/)
  - [10 Tech Cleanup Tasks for New Year&#39;s Day](https://www.wired.com/story/10-tech-cleanup-tasks-for-new-years-day/)
  - [Hundreds of megawatts of new data center capacity are being planned in Vernon, a city near LA, which is a key US-Asia cable-linking hub and is becoming crowded &lpar;Nilesh Christopher/Los Angeles Times&rpar;](http://www.techmeme.com/260101/p7#a260101p7)
- - [Here’s What It’s Like to Use Acuity Scheduling for Your Business or Side Hustle &lpar;2026&rpar;](https://www.wired.com/story/acuity-scheduling/)
- - [Sources: SpaceX, OpenAI, and Anthropic could IPO in 2026; those three deals alone would exceed the total proceeds from roughly 200 US IPOs in 2025 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260101/p6#a260101p6)
- - [Hong Kong&#39;s benchmark Hang Seng Index rose 28% in 2025, its best percentage performance since 2017, driven by tech, AI, and semiconductor stocks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260101/p5#a260101p5)<!-- TECH:END -->
+ - [Here’s What It’s Like to Use Acuity Scheduling for Your Business or Side Hustle &lpar;2026&rpar;](https://www.wired.com/story/acuity-scheduling/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

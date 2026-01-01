@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
  - 😝 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
- - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
- - 😝 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)
- - 👉 [I can fix her](http://9gag.com/gag/abAo4OO)<!-- MEMES:END -->
+ - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
+ - 💣 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
+ - 😝 [Life sucks, sometimes life sucks a little less\u2026 Happy new year f**kers!](http://9gag.com/gag/an73E50)
+ - 👉 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)<!-- MEMES:END -->
 
 ---
 

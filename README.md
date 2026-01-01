@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RAM prices are getting out of hand](https://www.reddit.com/r/funny/comments/1q0rurb/ram_prices_are_getting_out_of_hand/)
  - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - 💣 [I can fix her](http://9gag.com/gag/abAo4OO)
- - 😝 [Happy New Year!](http://9gag.com/gag/aE0bDzp)
- - 👉 [Happy new year f**kers!! It\u2019s been a ride, alone, shitty job and no life but at least I have you guys](http://9gag.com/gag/ajPjZA1)<!-- MEMES:END -->
+ - 😝 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - 💣 [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 😝 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)
+ - 👉 [I can fix her](http://9gag.com/gag/abAo4OO)<!-- MEMES:END -->
 
 ---
 

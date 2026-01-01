@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
- - 😝 [Happy New Year my fellow Degens!](http://9gag.com/gag/axy8R4W)
- - 💣 [Knock knock](http://9gag.com/gag/aMV6nyW)
+ - 😝 [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 💣 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
  - 😝 [1st season we intrigue the audience 2nd season is where we start introducing gay characters](http://9gag.com/gag/aD2LV5Z)
- - 👉 [Get innnnn lol.](http://9gag.com/gag/aD2Lb9w)<!-- MEMES:END -->
+ - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 ---
 

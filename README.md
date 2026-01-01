@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI automation can fulfill Thomas Piketty&#39;s predictions on rising economic inequality, and why highly progressive taxes on capital can help slow the spiral &lpar;Philosopher Count&rpar;](http://www.techmeme.com/260101/p14#a260101p14)
  - [Desk tours: Wesley Hilliard&#39;s iPad-centric workflows fully replace the Mac mini](https://appleinsider.com/articles/26/01/01/desk-tours-wesley-hilliards-ipad-centric-workflows-fully-replace-the-mac-mini?utm_source=rss)
  - [A look at US tech laws rolling out in 2026, including California&#39;s SB 53 AI transparency law and Virginia&#39;s new social media limits for minors, effective today &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/260101/p13#a260101p13)
  - [LG’s new karaoke-ready party speaker uses AI to remove song vocals](https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026)
- - [Analysts need Apple Vision Pro to be a flop, whether Apple considers it one or not](https://appleinsider.com/articles/26/01/01/analysts-need-apple-vision-pro-to-be-a-flop-whether-apple-considers-it-one-or-not?utm_source=rss)
- - [Ukraine has become a live-fire test range for AI drones like the Bumblebee, provided by a secretive Eric Schmidt-led venture, raising alarms in Kremlin circles &lpar;C.J. Chivers/New York Times&rpar;](http://www.techmeme.com/260101/p12#a260101p12)<!-- TECH:END -->
+ - [Analysts need Apple Vision Pro to be a flop, whether Apple considers it one or not](https://appleinsider.com/articles/26/01/01/analysts-need-apple-vision-pro-to-be-a-flop-whether-apple-considers-it-one-or-not?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

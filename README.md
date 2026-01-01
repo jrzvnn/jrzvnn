@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
- - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - 💣 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - 😝 [Happy New Year 2026!!!](http://9gag.com/gag/a34D2EN)
- - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
+ - 😝 [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 💣 [She want Ice ?](http://9gag.com/gag/avyVxeM)
+ - 😝 [This was once peak technology](http://9gag.com/gag/aD2LVMB)
+ - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 ---
 

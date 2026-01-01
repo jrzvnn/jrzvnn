@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy NEW YEAR!](http://9gag.com/gag/aO8O9RM)
- - 😝 [Yes you](http://9gag.com/gag/aE0boLG)
- - 💣 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)
- - 😝 [Happy new year!](http://9gag.com/gag/abAoBz9)
- - 👉 [Fellas, 35 years old. Been married for 7 year. &lpar; It was a love marriage. We were together in a relationship for 10 years. In total 17 years together.&rpar; Recently got sperated. Starting a new life without her on a differeny city. This is all I have got now. Wish me luck.](http://9gag.com/gag/a0eGn9B)<!-- MEMES:END -->
+ - 😝 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 😝 [I can fix her](http://9gag.com/gag/abAo4OO)
+ - 💣 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
+ - 😝 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)
+ - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
 
 ---
 

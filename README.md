@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Desk tours: Wesley Hilliard&#39;s iPad-centric workflows fully replace the Mac mini](https://appleinsider.com/articles/26/01/01/desk-tours-wesley-hilliards-ipad-centric-workflows-fully-replace-the-mac-mini?utm_source=rss)
  - [A look at US tech laws rolling out in 2026, including California&#39;s SB 53 AI transparency law and Virginia&#39;s new social media limits for minors, effective today &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/260101/p13#a260101p13)
  - [LG’s new karaoke-ready party speaker uses AI to remove song vocals](https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026)
  - [Analysts need Apple Vision Pro to be a flop, whether Apple considers it one or not](https://appleinsider.com/articles/26/01/01/analysts-need-apple-vision-pro-to-be-a-flop-whether-apple-considers-it-one-or-not?utm_source=rss)
- - [Ukraine has become a live-fire test range for AI drones like the Bumblebee, provided by a secretive Eric Schmidt-led venture, raising alarms in Kremlin circles &lpar;C.J. Chivers/New York Times&rpar;](http://www.techmeme.com/260101/p12#a260101p12)
- - [Best Air Purifiers of 2026: Our New Lab Testing Shows You Don’t Have to Spend Hundreds on a Good One](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ukraine has become a live-fire test range for AI drones like the Bumblebee, provided by a secretive Eric Schmidt-led venture, raising alarms in Kremlin circles &lpar;C.J. Chivers/New York Times&rpar;](http://www.techmeme.com/260101/p12#a260101p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

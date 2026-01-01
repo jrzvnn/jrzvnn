@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [4 Best Smart Scales &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-scales/)
+ - [How to Watch Georgia vs. Ole Miss: Start Time, TV Channel for Sugar Bowl CFP Quarterfinal](https://www.cnet.com/tech/services-and-software/how-to-watch-georgia-vs-ole-miss-start-time-tv-channel-for-sugar-bowl-cfp-quarterfinal/#ftag=CAD590a51e)
  - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
  - [How to Start &lpar;and Keep&rpar; a Healthy Habit &lpar;2026&rpar;](https://www.wired.com/story/how-to-start-a-healthy-habit/)
- - [A look at the rise of AI companion apps; a researcher counts 206 such apps on the App Store and 253 on Google Play, with 220M+ total downloads as of July 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260101/p8#a260101p8)
- - [AI Labor Is Boring. AI Lust Is Big Business](https://www.wired.com/story/expired-tired-wired-sexy-chatbots/)<!-- TECH:END -->
+ - [A look at the rise of AI companion apps; a researcher counts 206 such apps on the App Store and 253 on Google Play, with 220M+ total downloads as of July 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260101/p8#a260101p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

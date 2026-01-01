@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
- - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
- - 😝 [Trying to eat dinner in Italy](http://9gag.com/gag/ajPjxKG)
- - 👉 [She want Ice ?](http://9gag.com/gag/avyVxeM)<!-- MEMES:END -->
+ - 😝 [1st season we intrigue the audience 2nd season is where we start introducing gay characters](http://9gag.com/gag/aD2LV5Z)
+ - 😝 [Knock knock](http://9gag.com/gag/aMV6nyW)
+ - 💣 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)
+ - 😝 [Nuck Chorris](http://9gag.com/gag/abAoBPL)
+ - 👉 [Get innnnn lol.](http://9gag.com/gag/aD2Lb9w)<!-- MEMES:END -->
 
 ---
 

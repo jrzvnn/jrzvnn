@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4 Best Smart Scales &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-scales/)
+ - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [How to Start &lpar;and Keep&rpar; a Healthy Habit &lpar;2026&rpar;](https://www.wired.com/story/how-to-start-a-healthy-habit/)
  - [A look at the rise of AI companion apps; a researcher counts 206 such apps on the App Store and 253 on Google Play, with 220M+ total downloads as of July 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260101/p8#a260101p8)
- - [AI Labor Is Boring. AI Lust Is Big Business](https://www.wired.com/story/expired-tired-wired-sexy-chatbots/)
- - [I Tested Popular Functional Coffee Add-Ins for a Week Each &lpar;2026&rpar;](https://www.wired.com/gallery/best-functional-coffee-add-ins/)
- - [How to Make It Through Cold and Flu Season](https://www.wired.com/story/cold-and-flu-prevention-treatment-tips/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 1, #669](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-1-669/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI Labor Is Boring. AI Lust Is Big Business](https://www.wired.com/story/expired-tired-wired-sexy-chatbots/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

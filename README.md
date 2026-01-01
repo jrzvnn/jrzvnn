@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)
  - 😝 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 😝 [Happy New Year my fellow Degens!](http://9gag.com/gag/axy8R4W)
  - 💣 [Knock knock](http://9gag.com/gag/aMV6nyW)
- - 😝 [How it should be](http://9gag.com/gag/adBMeoV)
+ - 😝 [1st season we intrigue the audience 2nd season is where we start introducing gay characters](http://9gag.com/gag/aD2LV5Z)
  - 👉 [Get innnnn lol.](http://9gag.com/gag/aD2Lb9w)<!-- MEMES:END -->
 
 ---

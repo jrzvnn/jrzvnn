@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
- - 😝 [Broccoli Molecule Kills 90% of Cavity Bacteria](http://9gag.com/gag/aNDX4ov)
- - 💣 [She want Ice ?](http://9gag.com/gag/avyVxeM)
- - 😝 [Cuando un atleta casi gana](http://9gag.com/gag/aoy68gw)
- - 👉 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aQzK23e)
+ - 😝 [Engineering comedy](http://9gag.com/gag/aPA0QLV)
+ - 💣 [Love the dog just sitting there and be like `oh, he&#39;s at it again`...](http://9gag.com/gag/a4P82eA)
+ - 😝 [Modesty not required](http://9gag.com/gag/amoyMR4)
+ - 👉 [Nuck Chorris](http://9gag.com/gag/abAoBPL)<!-- MEMES:END -->
 
 ---
 

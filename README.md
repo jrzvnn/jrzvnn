@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happened in 1971?](http://9gag.com/gag/aoy6xq0)
- - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
- - 😝 [Headlights are being stolen](http://9gag.com/gag/aGyqA97)
- - 👉 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)<!-- MEMES:END -->
+ - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
+ - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
+ - 💣 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 😝 [Happy New Year 2026!!!](http://9gag.com/gag/a34D2EN)
+ - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
 
 ---
 

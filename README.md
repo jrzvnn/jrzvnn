@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy NEW YEAR!](http://9gag.com/gag/aO8O9RM)
- - 😝 [Yes you](http://9gag.com/gag/aE0boLG)
- - 💣 [Happy new year f**kers!! It\u2019s been a ride, alone, shitty job and no life but at least I have you guys](http://9gag.com/gag/ajPjZA1)
- - 😝 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)
- - 👉 [Fellas, 35 years old. Been married for 7 year. &lpar; It was a love marriage. We were together in a relationship for 10 years. In total 17 years together.&rpar; Recently got sperated. Starting a new life without her on a differeny city. This is all I have got now. Wish me luck.](http://9gag.com/gag/a0eGn9B)<!-- MEMES:END -->
+ - 😝 [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 💣 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 😝 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
+ - 👉 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)<!-- MEMES:END -->
 
 ---
 

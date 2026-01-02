@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grok, at the request of users, appears to be altering images to depict real women being sexually abused, humiliated, hurt, and even killed &lpar;Maggie Harrison Dupré/Futurism&rpar;](http://www.techmeme.com/260102/p14#a260102p14)
  - [Mumbai-based Knight Fintech, which builds core infrastructure connecting banks, lenders, platforms, and borrowers, raised $23.6M led by Accel &lpar;The Economic Times&rpar;](http://www.techmeme.com/260102/p13#a260102p13)
  - [Clicks has swapped iPhone keyboard cases for a new MagSafe keyboard battery](https://appleinsider.com/articles/26/01/02/clicks-has-swapped-iphone-keyboard-cases-for-a-new-magsafe-keyboard-battery?utm_source=rss)
  - [xAI launches Grok Business, priced at $30 per seat/month, for SMBs, and Grok Enterprise, whose price is not listed publicly, for larger organizations &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260102/p12#a260102p12)
- - [Starlink Will Be Moving Thousands of Its Satellites for &#39;Space Safety&#39; Reasons](https://www.cnet.com/tech/services-and-software/spacex-starlink-satellite-internet-orbit-altitude-collision-risk/#ftag=CAD590a51e)
- - [Grok is undressing anyone, including minors](https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors)<!-- TECH:END -->
+ - [Starlink Will Be Moving Thousands of Its Satellites for &#39;Space Safety&#39; Reasons](https://www.cnet.com/tech/services-and-software/spacex-starlink-satellite-internet-orbit-altitude-collision-risk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

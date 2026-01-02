@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Meta&#39;s Reels became a hit, with a $50B+ annual run rate; Sensor Tower: users spend 27 minutes/day on Instagram Reels, 21 on YouTube Shorts, and 44 on TikTok &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260102/p2#a260102p2)
  - [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector)
+ - [ChatGPT Glossary: 61 AI Terms Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary/#ftag=CAD590a51e)
  - [Petkit’s first automatic wet food feeder keeps track of how much your pet eats](https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain)
- - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260102/p1#a260102p1)
- - [20% Off Brooks Promo Code &amp; Deals for January 2026](https://www.wired.com/story/brooks-promo-code/)
- - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
+ - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260102/p1#a260102p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

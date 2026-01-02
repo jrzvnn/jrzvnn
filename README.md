@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
- - 😝 [That little girl...](http://9gag.com/gag/azxzO1B)
- - 💣 [She want Ice ?](http://9gag.com/gag/avyVxeM)
- - 😝 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
- - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
+ - 😝 [I guess Thomas didn&#39;t make millions from writing](http://9gag.com/gag/a6ZzpO2)
+ - 😝 [Dream job](http://9gag.com/gag/aGyqAPG)
+ - 💣 [Love the dog just sitting there and be like `oh, he&#39;s at it again`...](http://9gag.com/gag/a4P82eA)
+ - 😝 [Men want?](http://9gag.com/gag/aKGyYMQ)
+ - 👉 [Nuck Chorris](http://9gag.com/gag/abAoBPL)<!-- MEMES:END -->
 
 ---
 

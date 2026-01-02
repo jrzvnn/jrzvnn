@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - 😝 [It appeared suddenly and moved fast, making it hard to identify clearly. Such sightings are often explained as space rocks, satellites, or shadows caused by camera focus and distance. Because the Moon has no atmosphere, even small objects or light effects can look unusual.](http://9gag.com/gag/an73Eno)
- - 💣 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)
- - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
- - 👉 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)<!-- MEMES:END -->
+ - 😝 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
+ - 😝 [Happy New Year 2026!!!](http://9gag.com/gag/a34D2EN)
+ - 💣 [Happy New Year!](http://9gag.com/gag/aE0bDzp)
+ - 😝 [And then she made pizza rolls](http://9gag.com/gag/aKGyO93)
+ - 👉 [Quick, the Chinese are asleep. Upvote West Taiwan!](http://9gag.com/gag/azxzYoB)<!-- MEMES:END -->
 
 ---
 

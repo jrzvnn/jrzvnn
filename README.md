@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
- - 😝 [Happy New Year 2026!!!](http://9gag.com/gag/a34D2EN)
- - 💣 [Happy New Year!](http://9gag.com/gag/aE0bDzp)
- - 😝 [And then she made pizza rolls](http://9gag.com/gag/aKGyO93)
- - 👉 [Quick, the Chinese are asleep. Upvote West Taiwan!](http://9gag.com/gag/azxzYoB)<!-- MEMES:END -->
+ - 😝 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
+ - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
+ - 💣 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)
+ - 😝 [Reminder](http://9gag.com/gag/a34Db1Q)
+ - 👉 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)<!-- MEMES:END -->
 
 ---
 

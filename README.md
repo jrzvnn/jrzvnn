@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess Thomas didn&#39;t make millions from writing](http://9gag.com/gag/a6ZzpO2)
- - 😝 [Dream job](http://9gag.com/gag/aGyqAPG)
- - 💣 [Love the dog just sitting there and be like `oh, he&#39;s at it again`...](http://9gag.com/gag/a4P82eA)
+ - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 💣 [Lost Chance](http://9gag.com/gag/aNDXBw6)
  - 😝 [Men want?](http://9gag.com/gag/aKGyYMQ)
- - 👉 [Nuck Chorris](http://9gag.com/gag/abAoBPL)<!-- MEMES:END -->
+ - 👉 [She want Ice ?](http://9gag.com/gag/avyVxeM)<!-- MEMES:END -->
 
 ---
 

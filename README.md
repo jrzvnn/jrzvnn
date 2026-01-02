@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Docker can help you run apps on your Mac](https://appleinsider.com/inside/macos/tips/how-docker-can-help-you-run-apps-on-your-mac?utm_source=rss)
- - [UK crypto buyers are required to share their account details with tax officials starting January 1 or face penalties, as the UK seeks to collect unpaid taxes &lpar;Rachel Clun/BBC&rpar;](http://www.techmeme.com/260102/p3#a260102p3)
- - [You Can Track Plenty of Fitness Stats With Just Your Phone—No Wearables Required](https://www.wired.com/story/track-fitness-stats-with-just-your-phone/)
- - [What Is the ‘Super Flu’ That Is Spreading in Europe and the United States?](https://www.wired.com/story/what-is-super-flu-spreading-in-united-states-europe/)
- - [SpaceX will lower Starlink satellites to reduce collision risk](https://www.theverge.com/news/852570/spacex-will-lower-starlink-satellites-to-reduce-collision-risk)<!-- TECH:END -->
+ - [How Protesters Became Content for the Cops](https://www.wired.com/story/expired-tired-wired-protest-surveillance/)
+ - [Punkt’s German-made MC03 smartphone comes to the US this spring](https://www.theverge.com/tech/849740/punkt-mc03-secure-smartphone-made-in-germany)
+ - [The Trump phone just missed another release date](https://www.theverge.com/news/851151/trump-phone-missed-another-release-date)
+ - [The last Intel MacBook Air is now vintage](https://appleinsider.com/articles/25/12/31/intel-macbook-air-apple-watch-series-5-iphone-11-pro-now-vintage?utm_source=rss)
+ - [How Docker can help you run apps on your Mac](https://appleinsider.com/inside/macos/tips/how-docker-can-help-you-run-apps-on-your-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

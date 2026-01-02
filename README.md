@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - 😝 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
- - 💣 [Works, every time!](http://9gag.com/gag/agmb2vW)
- - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 😝 [Works, every time!](http://9gag.com/gag/agmb2vW)
+ - 💣 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
+ - 😝 [Happy New Year 2026!!!](http://9gag.com/gag/a34D2EN)
  - 👉 [Lost Chance](http://9gag.com/gag/aNDXBw6)<!-- MEMES:END -->
 
 ---

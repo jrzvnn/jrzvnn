@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
- - [Here&#39;s How Long You Should Walk Every Day to Prevent Back Pain](https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/)
- - [How Protesters Became Content for the Cops](https://www.wired.com/story/expired-tired-wired-protest-surveillance/)
- - [Punkt’s German-made MC03 smartphone comes to the US this spring](https://www.theverge.com/tech/849740/punkt-mc03-secure-smartphone-made-in-germany)
- - [The Trump phone just missed another release date](https://www.theverge.com/news/851151/trump-phone-missed-another-release-date)<!-- TECH:END -->
+ - [New M5 iPad Pro and Apple Vision Pro in Apple&#39;s 2025 part two, on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/02/new-m5-ipad-pro-and-apple-vision-pro-in-apples-2025-part-two-on-the-appleinsider-podcast?utm_source=rss)
+ - [Battlefront MacBook Air takes a shelling in Ukraine and keeps on working](https://appleinsider.com/articles/26/01/02/battlefront-macbook-air-takes-a-shelling-in-ukraine-and-keeps-on-working?utm_source=rss)
+ - [Welcome to the Future of Noise Canceling](https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/)
+ - [Best Running Shoes, Tested and Reviewed &lpar;2026&rpar;: Saucony, Nike, Hoka](https://www.wired.com/gallery/best-running-shoes/)
+ - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

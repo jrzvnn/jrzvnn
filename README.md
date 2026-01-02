@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You Can Track Plenty of Fitness Stats With Just Your Phone—No Wearables Required](https://www.wired.com/story/track-fitness-stats-with-just-your-phone/)
  - [What Is the ‘Super Flu’ That Is Spreading in Europe and the United States?](https://www.wired.com/story/what-is-super-flu-spreading-in-united-states-europe/)
  - [SpaceX will lower Starlink satellites to reduce collision risk](https://www.theverge.com/news/852570/spacex-will-lower-starlink-satellites-to-reduce-collision-risk)
  - [How Meta&#39;s Reels became a hit, with a $50B+ annual run rate; Sensor Tower: users spend 27 minutes/day on Instagram Reels, 21 on YouTube Shorts, and 44 on TikTok &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260102/p2#a260102p2)
- - [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector)
- - [ChatGPT Glossary: 61 AI Terms Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

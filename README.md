@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She want Ice ?](http://9gag.com/gag/avyVxeM)
- - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
- - 💣 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
- - 😝 [Happy New Year 2026!!!](http://9gag.com/gag/a34D2EN)
- - 👉 [Lost Chance](http://9gag.com/gag/aNDXBw6)<!-- MEMES:END -->
+ - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 💣 [She want Ice ?](http://9gag.com/gag/avyVxeM)
+ - 😝 [New year, new you](http://9gag.com/gag/aAy7XM0)
+ - 👉 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)<!-- MEMES:END -->
 
 ---
 

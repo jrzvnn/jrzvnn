@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 😝 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
+ - 😝 [That little girl...](http://9gag.com/gag/azxzO1B)
  - 💣 [She want Ice ?](http://9gag.com/gag/avyVxeM)
- - 😝 [New year, new you](http://9gag.com/gag/aAy7XM0)
- - 👉 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)<!-- MEMES:END -->
+ - 😝 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
+ - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
 
 ---
 

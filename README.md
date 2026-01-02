@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack)
  - [India orders X to fix Grok to block the generation of obscene content, giving it 72 hours to submit an action-taken report or risk losing &quot;safe harbor&quot; immunity &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260102/p11#a260102p11)
  - [Instagram Chief Says AI Images Are Evolving Fast and He&#39;s Worried About Us Keeping Up](https://www.cnet.com/tech/services-and-software/instagram-adam-mosseri-ai-images-authenticity-and-trust/#ftag=CAD590a51e)
  - [Filing: OpenAI President and co-founder Greg Brockman donated $25M to Trump&#39;s super PAC, MAGA Inc., in H2 2025; Crypto.com operator Foris DAX donated $20M &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/260102/p10#a260102p10)
- - [No Hisense, I Don&#39;t Need a Robot TV on Wheels That Follows Me Around the House](https://www.cnet.com/tech/home-entertainment/hisense-follow-me-32-inch-robot-tv-on-wheels-ces-2026/#ftag=CAD590a51e)
- - [iPhone 18 A20 may cost Apple about double per chip what A19 does](https://appleinsider.com/articles/26/01/02/iphone-18-a20-may-cost-apple-about-double-per-chip-what-a19-does?utm_source=rss)<!-- TECH:END -->
+ - [No Hisense, I Don&#39;t Need a Robot TV on Wheels That Follows Me Around the House](https://www.cnet.com/tech/home-entertainment/hisense-follow-me-32-inch-robot-tv-on-wheels-ces-2026/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

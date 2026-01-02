@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
  - 😝 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
- - 💣 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
- - 😝 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
- - 👉 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)<!-- MEMES:END -->
+ - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
+ - 💣 [It appeared suddenly and moved fast, making it hard to identify clearly. Such sightings are often explained as space rocks, satellites, or shadows caused by camera focus and distance. Because the Moon has no atmosphere, even small objects or light effects can look unusual.](http://9gag.com/gag/an73Eno)
+ - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 👉 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)<!-- MEMES:END -->
 
 ---
 

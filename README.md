@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess Thomas didn&#39;t make millions from writing](http://9gag.com/gag/a6ZzpO2)
- - 😝 [Nuck Chorris](http://9gag.com/gag/abAoBPL)
- - 💣 [Love the dog just sitting there and be like `oh, he&#39;s at it again`...](http://9gag.com/gag/a4P82eA)
- - 😝 [Dad&#39;s ranking his kids&#39; dumbest decisions and my NFT purchase just secured me first place](http://9gag.com/gag/aGyq2QX)
- - 👉 [No hesitation](http://9gag.com/gag/ajPjKVQ)<!-- MEMES:END -->
+ - 😝 [Lost Chance](http://9gag.com/gag/aNDXBw6)
+ - 😝 [Broccoli Molecule Kills 90% of Cavity Bacteria](http://9gag.com/gag/aNDX4ov)
+ - 💣 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
+ - 😝 [Happy New Year 2026!!!](http://9gag.com/gag/a34D2EN)
+ - 👉 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
 
 ---
 

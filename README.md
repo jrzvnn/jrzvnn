@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No hesitation](http://9gag.com/gag/ajPjKVQ)
- - 😝 [I need this for reasons](http://9gag.com/gag/a34Dbp7)
- - 💣 [And the `Apple Intelligence`&lpar;AI&rpar; being: &lpar;&lpar;battery capacity - charge state&rpar; / charging current&rpar; x 1.2](http://9gag.com/gag/a879KV1)
- - 😝 [True love](http://9gag.com/gag/a2vVL1D)
- - 👉 [Men want?](http://9gag.com/gag/aKGyYMQ)<!-- MEMES:END -->
+ - 😝 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
+ - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
+ - 💣 [Works, every time!](http://9gag.com/gag/agmb2vW)
+ - 😝 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)
+ - 👉 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)<!-- MEMES:END -->
 
 ---
 

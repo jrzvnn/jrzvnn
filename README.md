@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s fourth quarter sales fell a lot more than expected](https://www.theverge.com/news/852649/tesla-q4-2025-sales-production-delivery-elon-musk)
- - [Yann LeCun says Llama 4&#39;s &quot;results were fudged a little bit&quot;, and that the team used different models for different benchmarks to give better results &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260102/p5#a260102p5)
- - [LG announces the &amp;#8216;world’s lightest 17-inch RTX laptop&amp;#8217;](https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces)
- - [AI Became a Bogeyman to Gamers in 2025, but Developers Are Mixed on Its Potential](https://www.cnet.com/tech/gaming/in-2025-ai-became-a-bogeyman-to-gamers-but-developers-are-mixed-on-its-potential/#ftag=CAD590a51e)
- - [New Foldable Phone Designs Are Setting Up an Ambitious 2026](https://www.cnet.com/tech/mobile/new-foldable-phone-designs-are-setting-up-an-ambitious-2026/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This smart fridge wants to solve the hassle of grocery shopping](https://www.theverge.com/news/851934/ge-appliances-smart-fridge-barcode-scanner-tablet)
+ - [Pebble’s round smartwatch is getting a reboot](https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability)
+ - [Battlefront MacBook Air takes a shelling in Ukraine and keeps on working](https://appleinsider.com/articles/26/01/02/battlefront-macbook-air-takes-a-shelling-in-ukraine-and-keeps-on-working?utm_source=rss)
+ - [If you want to stick to New Years health resolutions, wear that Apple Watch](https://appleinsider.com/articles/26/01/02/if-you-want-to-stick-to-new-years-health-resolutions-wear-that-apple-watch?utm_source=rss)
+ - [Tesla Loses Its EV Crown to BYD as Sales Keep Dropping](https://www.wired.com/story/byd-trounces-tesla-in-ev-sales-for-the-first-time/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

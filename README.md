@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
- - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - 💣 [That little girl...](http://9gag.com/gag/azxzO1B)
- - 😝 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
- - 👉 [Works, every time!](http://9gag.com/gag/agmb2vW)<!-- MEMES:END -->
+ - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 😝 [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 💣 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
+ - 😝 [Men want?](http://9gag.com/gag/aKGyYMQ)
+ - 👉 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)<!-- MEMES:END -->
 
 ---
 

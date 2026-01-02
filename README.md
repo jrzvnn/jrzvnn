@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
  - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - 😝 [Works, every time!](http://9gag.com/gag/agmb2vW)
- - 💣 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
- - 😝 [Happy New Year 2026!!!](http://9gag.com/gag/a34D2EN)
- - 👉 [Lost Chance](http://9gag.com/gag/aNDXBw6)<!-- MEMES:END -->
+ - 💣 [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 😝 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
+ - 👉 [Works, every time!](http://9gag.com/gag/agmb2vW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yann LeCun says Llama 4&#39;s &quot;results were fudged a little bit&quot;, and that the team used different models for different benchmarks to give better results &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260102/p5#a260102p5)
  - [LG announces the &amp;#8216;world’s lightest 17-inch RTX laptop&amp;#8217;](https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces)
- - [Fender’s first wireless headphones have a long-lasting, replaceable battery](https://www.theverge.com/news/850879/fender-mix-wireless-headphones-bluetooth-modular-replaceable-battery)
- - [Fender’s new Bluetooth speakers can play audio from four sources simultaneously](https://www.theverge.com/gadgets/850912/fender-audio-elie-bluetooth-portable-wireless-speakers-four-inputs-simultaneous)
- - [What to expect at CES 2026](https://www.theverge.com/tech/851165/ces-2026-what-to-expect)
- - [The Clicks Communicator is a Blackberry for your phone](https://www.theverge.com/tech/851298/clicks-communicator-phone-blackberry-keyboard)<!-- TECH:END -->
+ - [AI Became a Bogeyman to Gamers in 2025, but Developers Are Mixed on Its Potential](https://www.cnet.com/tech/gaming/in-2025-ai-became-a-bogeyman-to-gamers-but-developers-are-mixed-on-its-potential/#ftag=CAD590a51e)
+ - [New Foldable Phone Designs Are Setting Up an Ambitious 2026](https://www.cnet.com/tech/mobile/new-foldable-phone-designs-are-setting-up-an-ambitious-2026/#ftag=CAD590a51e)
+ - [NFL Week 18: How to Watch Seahawks vs. 49ers, Ravens vs. Steelers and More Games From Anywhere](https://www.cnet.com/tech/services-and-software/nfl-week-18-how-to-watch-seahawks-vs-49ers-ravens-vs-steelers-and-more-games-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
- - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - 💣 [Works, every time!](http://9gag.com/gag/agmb2vW)
- - 😝 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)
+ - 😝 [Works, every time!](http://9gag.com/gag/agmb2vW)
+ - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 💣 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)
+ - 😝 [Quick, the Chinese are asleep. Upvote West Taiwan!](http://9gag.com/gag/azxzYoB)
  - 👉 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)<!-- MEMES:END -->
 
 ---

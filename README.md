@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI&#39;s Grok says &quot;lapses in safeguards&quot; led it to create sexualized images of minors in response to user prompts on X; the images have been taken down &lpar;Bloomberg&rpar;](http://www.techmeme.com/260102/p6#a260102p6)
+ - [Raymond James has restarted Apple coverage, and isn&#39;t impressed](https://appleinsider.com/articles/26/01/02/raymond-james-has-restarted-apple-coverage-and-isnt-impressed?utm_source=rss)
  - [This smart fridge wants to solve the hassle of grocery shopping](https://www.theverge.com/news/851934/ge-appliances-smart-fridge-barcode-scanner-tablet)
  - [Pebble’s round smartwatch is getting a reboot](https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability)
- - [Battlefront MacBook Air takes a shelling in Ukraine and keeps on working](https://appleinsider.com/articles/26/01/02/battlefront-macbook-air-takes-a-shelling-in-ukraine-and-keeps-on-working?utm_source=rss)
- - [If you want to stick to New Years health resolutions, wear that Apple Watch](https://appleinsider.com/articles/26/01/02/if-you-want-to-stick-to-new-years-health-resolutions-wear-that-apple-watch?utm_source=rss)
- - [Tesla Loses Its EV Crown to BYD as Sales Keep Dropping](https://www.wired.com/story/byd-trounces-tesla-in-ev-sales-for-the-first-time/)<!-- TECH:END -->
+ - [Battlefront MacBook Air takes a shelling in Ukraine and keeps on working](https://appleinsider.com/articles/26/01/02/battlefront-macbook-air-takes-a-shelling-in-ukraine-and-keeps-on-working?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

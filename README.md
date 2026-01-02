@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These are the best MacBook Air deals for January 2026 - save up to $600](https://appleinsider.com/articles/26/01/02/these-are-the-best-macbook-air-deals-for-january-2026---save-up-to-600?utm_source=rss)
+ - [An interview with analyst Benedict Evans on the role of productization in AI adoption, AI bubble, OpenAI, comparing Nvidia to Sun Microsystems, and more &lpar;The Circuit on YouTube&rpar;](http://www.techmeme.com/260102/p7#a260102p7)
  - [Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments)
  - [xAI&#39;s Grok says &quot;lapses in safeguards&quot; led it to create sexualized images of minors in response to user prompts on X; the images have been taken down &lpar;Bloomberg&rpar;](http://www.techmeme.com/260102/p6#a260102p6)
- - [Raymond James has restarted Apple coverage, and isn&#39;t impressed](https://appleinsider.com/articles/26/01/02/raymond-james-has-restarted-apple-coverage-and-isnt-impressed?utm_source=rss)
- - [Pebble&#39;s Bringing Its Round Watch Back, This Time With Revamps](https://www.cnet.com/tech/mobile/pebbles-bringing-its-round-watch-back-this-time-with-revamps/#ftag=CAD590a51e)
- - [This smart fridge wants to solve the hassle of grocery shopping](https://www.theverge.com/news/851934/ge-appliances-smart-fridge-barcode-scanner-tablet)<!-- TECH:END -->
+ - [Raymond James has restarted Apple coverage, and isn&#39;t impressed](https://appleinsider.com/articles/26/01/02/raymond-james-has-restarted-apple-coverage-and-isnt-impressed?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

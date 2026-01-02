@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It appeared suddenly and moved fast, making it hard to identify clearly. Such sightings are often explained as space rocks, satellites, or shadows caused by camera focus and distance. Because the Moon has no atmosphere, even small objects or light effects can look unusual.](http://9gag.com/gag/an73Eno)
- - 😝 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
- - 💣 [Works, every time!](http://9gag.com/gag/agmb2vW)
- - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
- - 👉 [Broccoli Molecule Kills 90% of Cavity Bacteria](http://9gag.com/gag/aNDX4ov)<!-- MEMES:END -->
+ - 😝 [No hesitation](http://9gag.com/gag/ajPjKVQ)
+ - 😝 [I need this for reasons](http://9gag.com/gag/a34Dbp7)
+ - 💣 [And the `Apple Intelligence`&lpar;AI&rpar; being: &lpar;&lpar;battery capacity - charge state&rpar; / charging current&rpar; x 1.2](http://9gag.com/gag/a879KV1)
+ - 😝 [True love](http://9gag.com/gag/a2vVL1D)
+ - 👉 [Men want?](http://9gag.com/gag/aKGyYMQ)<!-- MEMES:END -->
 
 ---
 

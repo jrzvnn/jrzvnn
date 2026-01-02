@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
+ - [60% HP Discount Codes &amp; Coupons January 2026](https://www.wired.com/story/hp-coupon-code/)
  - [Chinese AI chip startup Biren surged as much as 119% in its Hong Kong debut, after raising ~$717M in an IPO priced at ~$2.52 per share &lpar;Bloomberg&rpar;](http://www.techmeme.com/260101/p19#a260101p19)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-2/#ftag=CAD590a51e)
- - [How Arizona is training talent for its growing chip industry as suppliers fear tighter US immigration policy; Arizona has drawn $200B+ in investments since 2020 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260101/p18#a260101p18)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 2, #466](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-2-466/#ftag=CAD590a51e)
- - [Baidu&#39;s AI chip unit Kunlunxin confidentially files for a Hong Kong IPO, paving the way for a spin-off; a recent fundraising reportedly valued it at ~$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260101/p17#a260101p17)<!-- TECH:END -->
+ - [How Arizona is training talent for its growing chip industry as suppliers fear tighter US immigration policy; Arizona has drawn $200B+ in investments since 2020 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260101/p18#a260101p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

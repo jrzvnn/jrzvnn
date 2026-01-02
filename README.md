@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
- - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - 💣 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)
- - 😝 [Reminder](http://9gag.com/gag/a34Db1Q)
+ - 😝 [Broccoli Molecule Kills 90% of Cavity Bacteria](http://9gag.com/gag/aNDX4ov)
+ - 💣 [It appeared suddenly and moved fast, making it hard to identify clearly. Such sightings are often explained as space rocks, satellites, or shadows caused by camera focus and distance. Because the Moon has no atmosphere, even small objects or light effects can look unusual.](http://9gag.com/gag/an73Eno)
+ - 😝 [Quick, the Chinese are asleep. Upvote West Taiwan!](http://9gag.com/gag/azxzYoB)
  - 👉 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)<!-- MEMES:END -->
 
 ---

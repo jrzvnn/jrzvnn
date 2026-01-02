@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
+ - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
  - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - 💣 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
- - 😝 [Works, every time!](http://9gag.com/gag/agmb2vW)
+ - 💣 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
+ - 😝 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
  - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
 
 ---

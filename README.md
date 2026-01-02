@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [xAI launches Grok Business, priced at $30 per seat/month, for SMBs, and Grok Enterprise, whose price is not listed publicly, for larger organizations &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260102/p12#a260102p12)
+ - [Starlink Will Be Moving Thousands of Its Satellites for &#39;Space Safety&#39; Reasons](https://www.cnet.com/tech/services-and-software/spacex-starlink-satellite-internet-orbit-altitude-collision-risk/#ftag=CAD590a51e)
  - [Grok is undressing anyone, including minors](https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors)
  - [Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack)
- - [India orders X to fix Grok to block the generation of obscene content, giving it 72 hours to submit an action-taken report or risk losing &quot;safe harbor&quot; immunity &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260102/p11#a260102p11)
- - [Instagram Chief Says AI Images Are Evolving Fast and He&#39;s Worried About Us Keeping Up](https://www.cnet.com/tech/services-and-software/instagram-adam-mosseri-ai-images-authenticity-and-trust/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India orders X to fix Grok to block the generation of obscene content, giving it 72 hours to submit an action-taken report or risk losing &quot;safe harbor&quot; immunity &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260102/p11#a260102p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

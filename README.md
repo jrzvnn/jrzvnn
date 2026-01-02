@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Docker can help you run apps on your Mac](https://appleinsider.com/inside/macos/tips/how-docker-can-help-you-run-apps-on-your-mac?utm_source=rss)
+ - [UK crypto buyers are required to share their account details with tax officials starting January 1 or face penalties, as the UK seeks to collect unpaid taxes &lpar;Rachel Clun/BBC&rpar;](http://www.techmeme.com/260102/p3#a260102p3)
  - [You Can Track Plenty of Fitness Stats With Just Your Phone—No Wearables Required](https://www.wired.com/story/track-fitness-stats-with-just-your-phone/)
  - [What Is the ‘Super Flu’ That Is Spreading in Europe and the United States?](https://www.wired.com/story/what-is-super-flu-spreading-in-united-states-europe/)
- - [SpaceX will lower Starlink satellites to reduce collision risk](https://www.theverge.com/news/852570/spacex-will-lower-starlink-satellites-to-reduce-collision-risk)
- - [How Meta&#39;s Reels became a hit, with a $50B+ annual run rate; Sensor Tower: users spend 27 minutes/day on Instagram Reels, 21 on YouTube Shorts, and 44 on TikTok &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260102/p2#a260102p2)
- - [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector)<!-- TECH:END -->
+ - [SpaceX will lower Starlink satellites to reduce collision risk](https://www.theverge.com/news/852570/spacex-will-lower-starlink-satellites-to-reduce-collision-risk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

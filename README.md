@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
- - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - 💣 [Lost Chance](http://9gag.com/gag/aNDXBw6)
- - 😝 [Men want?](http://9gag.com/gag/aKGyYMQ)
- - 👉 [She want Ice ?](http://9gag.com/gag/avyVxeM)<!-- MEMES:END -->
+ - 😝 [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 💣 [Somalian Daycare mom panics on live TV after reading fraud is bad from her script. What crazy is people cheering her like a hero. What a clown world](http://9gag.com/gag/a9ye2q6)
+ - 😝 [She want Ice ?](http://9gag.com/gag/avyVxeM)
+ - 👉 [Broccoli Molecule Kills 90% of Cavity Bacteria](http://9gag.com/gag/aNDX4ov)<!-- MEMES:END -->
 
 ---
 

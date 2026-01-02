@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aQzK23e)
- - 😝 [Engineering comedy](http://9gag.com/gag/aPA0QLV)
- - 💣 [Love the dog just sitting there and be like `oh, he&#39;s at it again`...](http://9gag.com/gag/a4P82eA)
- - 😝 [Modesty not required](http://9gag.com/gag/amoyMR4)
- - 👉 [Nuck Chorris](http://9gag.com/gag/abAoBPL)<!-- MEMES:END -->
+ - 😝 [She want Ice ?](http://9gag.com/gag/avyVxeM)
+ - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
+ - 💣 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 😝 [Happy New Year 2026!!!](http://9gag.com/gag/a34D2EN)
+ - 👉 [Lost Chance](http://9gag.com/gag/aNDXBw6)<!-- MEMES:END -->
 
 ---
 

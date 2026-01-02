@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Comparing ChatGPT&#39;s mini-apps with native iOS apps: some like Uber, OpenTable, and TripAdvisor fell short with frequent error messages, but Instacart did well &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260102/p15#a260102p15)
+ - [Two Phones, Less Distraction? That&#39;s the Pitch for This BlackBerry Lookalike](https://www.cnet.com/tech/mobile/clicks-communicator-smartphone-companion-power-keyboard-ces-2026/#ftag=CAD590a51e)
  - [On top of nonconsensual porn images, X users seem to be using Grok to alter images to depict real women being sexually abused, humiliated, hurt, and even killed &lpar;Maggie Harrison Dupré/Futurism&rpar;](http://www.techmeme.com/260102/p14#a260102p14)
- - [Mumbai-based Knight Fintech, which builds core infrastructure connecting banks, lenders, platforms, and borrowers, raised $23.6M led by Accel &lpar;The Economic Times&rpar;](http://www.techmeme.com/260102/p13#a260102p13)
- - [Clicks has swapped iPhone keyboard cases for a new MagSafe keyboard battery](https://appleinsider.com/articles/26/01/02/clicks-has-swapped-iphone-keyboard-cases-for-a-new-magsafe-keyboard-battery?utm_source=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 3, #1659](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-3-1659/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mumbai-based Knight Fintech, which builds core infrastructure that connects banks, lenders, platforms, and borrowers, raised $23.6M led by Accel &lpar;The Economic Times&rpar;](http://www.techmeme.com/260102/p13#a260102p13)
+ - [Clicks has swapped iPhone keyboard cases for a new MagSafe keyboard battery](https://appleinsider.com/articles/26/01/02/clicks-has-swapped-iphone-keyboard-cases-for-a-new-magsafe-keyboard-battery?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

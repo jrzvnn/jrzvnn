@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New M5 iPad Pro and Apple Vision Pro in Apple&#39;s 2025 part two, on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/02/new-m5-ipad-pro-and-apple-vision-pro-in-apples-2025-part-two-on-the-appleinsider-podcast?utm_source=rss)
- - [Battlefront MacBook Air takes a shelling in Ukraine and keeps on working](https://appleinsider.com/articles/26/01/02/battlefront-macbook-air-takes-a-shelling-in-ukraine-and-keeps-on-working?utm_source=rss)
- - [Welcome to the Future of Noise Canceling](https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/)
- - [Best Running Shoes, Tested and Reviewed &lpar;2026&rpar;: Saucony, Nike, Hoka](https://www.wired.com/gallery/best-running-shoes/)
- - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)<!-- TECH:END -->
+ - [LG announces the &amp;#8216;world’s lightest 17-inch RTX laptop&amp;#8217;](https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces)
+ - [Fender’s first wireless headphones have a long-lasting, replaceable battery](https://www.theverge.com/news/850879/fender-mix-wireless-headphones-bluetooth-modular-replaceable-battery)
+ - [Fender’s new Bluetooth speakers can play audio from four sources simultaneously](https://www.theverge.com/gadgets/850912/fender-audio-elie-bluetooth-portable-wireless-speakers-four-inputs-simultaneous)
+ - [What to expect at CES 2026](https://www.theverge.com/tech/851165/ces-2026-what-to-expect)
+ - [The Clicks Communicator is a Blackberry for your phone](https://www.theverge.com/tech/851298/clicks-communicator-phone-blackberry-keyboard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

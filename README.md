@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It appeared suddenly and moved fast, making it hard to identify clearly. Such sightings are often explained as space rocks, satellites, or shadows caused by camera focus and distance. Because the Moon has no atmosphere, even small objects or light effects can look unusual.](http://9gag.com/gag/an73Eno)
+ - 😝 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 😝 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 💣 [It appeared suddenly and moved fast, making it hard to identify clearly. Such sightings are often explained as space rocks, satellites, or shadows caused by camera focus and distance. Because the Moon has no atmosphere, even small objects or light effects can look unusual.](http://9gag.com/gag/an73Eno)
  - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - 💣 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
- - 😝 [Men want?](http://9gag.com/gag/aKGyYMQ)
- - 👉 [She want Ice ?](http://9gag.com/gag/avyVxeM)<!-- MEMES:END -->
+ - 👉 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)<!-- MEMES:END -->
 
 ---
 

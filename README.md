@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - 😝 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
+ - 😝 [Lost Chance](http://9gag.com/gag/aNDXBw6)
  - 💣 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
- - 😝 [Men want?](http://9gag.com/gag/aKGyYMQ)
- - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
+ - 😝 [Wer broke Slavic girl?](http://9gag.com/gag/azxzYVx)
+ - 👉 [Works, every time!](http://9gag.com/gag/agmb2vW)<!-- MEMES:END -->
 
 ---
 

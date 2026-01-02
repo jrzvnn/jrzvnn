@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu&#39;s AI chip unit Kunlunxin confidentially files for a Hong Kong IPO, paving the way for a spin-off; a recent fundraising reportedly valued it at ~$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260101/p17#a260101p17)
- - [SpaceX plans to lower its Starlink satellites from orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/260101/p16#a260101p16)
- - [Warm Milk Not Cutting It? Give Your Sleep a Glow-Up With These Science-Backed Sips](https://www.cnet.com/health/sleep/a-warm-glass-of-milk-and-other-drinks-that-ease-you-to-sleep/#ftag=CAD590a51e)
- - [Best Standing Desks of 2026](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [Brookfield is starting cloud company Radiant and a new $10B AI fund, after saying it plans to acquire up to $100B in land, data centers, and power assets for AI &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/260101/p15#a260101p15)<!-- TECH:END -->
+ - [Chinese AI chip startup Biren surged as much as 119% in its Hong Kong debut, after raising ~$717M in an IPO priced at ~$2.52 per share &lpar;Bloomberg&rpar;](http://www.techmeme.com/260101/p19#a260101p19)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-2/#ftag=CAD590a51e)
+ - [How Arizona is training talent for its growing chip industry as suppliers fear tighter US immigration policy; Arizona has drawn $200B+ in investments since 2020 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260101/p18#a260101p18)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 2, #466](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-2-466/#ftag=CAD590a51e)
+ - [Baidu&#39;s AI chip unit Kunlunxin confidentially files for a Hong Kong IPO, paving the way for a spin-off; a recent fundraising reportedly valued it at ~$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260101/p17#a260101p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

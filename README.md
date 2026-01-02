@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India orders X to fix Grok to block the generation of obscene content, giving it 72 hours to submit an action-taken report or risk losing &quot;safe harbor&quot; immunity &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260102/p11#a260102p11)
  - [Filing: OpenAI President and co-founder Greg Brockman donated $25M to Trump&#39;s super PAC, MAGA Inc., in H2 2025; Crypto.com operator Foris DAX donated $20M &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/260102/p10#a260102p10)
  - [iPhone 18 A20 may cost Apple about double per chip what A19 does](https://appleinsider.com/articles/26/01/02/iphone-18-a20-may-cost-apple-about-double-per-chip-what-a19-does?utm_source=rss)
  - [Uber rewrote its UK driver contracts to act as an agent rather than a supplier of taxi services outside London, to avoid UK&#39;s new 20% &quot;taxi tax&quot; on total fares &lpar;Simon Goodley/The Guardian&rpar;](http://www.techmeme.com/260102/p9#a260102p9)
- - [HomePods are not snooping on radio stations you listen to](https://appleinsider.com/articles/26/01/02/homepods-are-not-snooping-on-radio-stations-you-listen-to?utm_source=rss)
- - [Pebble unveils Pebble Round 2 smart watch with a rounded screen and basic health and activity tracking but no heart rate monitor, shipping in May for $199 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260102/p8#a260102p8)<!-- TECH:END -->
+ - [HomePods are not snooping on radio stations you listen to](https://appleinsider.com/articles/26/01/02/homepods-are-not-snooping-on-radio-stations-you-listen-to?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was once peak technology](http://9gag.com/gag/aD2LVMB)
- - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - 💣 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
- - 😝 [Happy new year, ya filthy animals](http://9gag.com/gag/aXPzKP2)
- - 👉 [Dad&#39;s ranking his kids&#39; dumbest decisions and my NFT purchase just secured me first place](http://9gag.com/gag/aGyq2QX)<!-- MEMES:END -->
+ - 😝 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
+ - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
+ - 💣 [It appeared suddenly and moved fast, making it hard to identify clearly. Such sightings are often explained as space rocks, satellites, or shadows caused by camera focus and distance. Because the Moon has no atmosphere, even small objects or light effects can look unusual.](http://9gag.com/gag/an73Eno)
+ - 😝 [Reminder](http://9gag.com/gag/a34Db1Q)
+ - 👉 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
 
 ---
 

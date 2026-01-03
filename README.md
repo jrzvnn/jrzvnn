@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deep dive into co-packaged optics, long promised to transform data center connectivity, covering benefits, challenges, architecture, key companies, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/260103/p4#a260103p4)
+ - [13 Best Fitness and Workout Apps for 2026, Tested &amp; Reviewed](https://www.wired.com/gallery/best-fitness-workout-apps/)
  - [How to Protect Your iPhone or Android Device From Spyware](https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/)
  - [Premier League Soccer: Stream Aston Villa vs. Nottingham Forest Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-nottingham-forest-live-from-anywhere/#ftag=CAD590a51e)
- - [A look at Elon Musk&#39;s bet that Tesla&#39;s future is in its Optimus humanoid robots, which for now rely on human helpers and still face commercial challenges &lpar;Becky Peterson/Wall Street Journal&rpar;](http://www.techmeme.com/260103/p3#a260103p3)
- - [1Password Coupon: Score a Free Trial in January](https://www.wired.com/story/1password-coupon/)
- - [30% VistaPrint Coupon &amp; Promo Codes | January 2026](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [A look at Elon Musk&#39;s bet that Tesla&#39;s future is in its Optimus humanoid robots, which for now rely on human helpers and still face commercial challenges &lpar;Becky Peterson/Wall Street Journal&rpar;](http://www.techmeme.com/260103/p3#a260103p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This smart home controller is literally a piece of wood](https://www.theverge.com/tech/852598/mui-board-smart-home-controller-matter)
  - [The Groq deal shows the challenges Nvidia faces as options to deploy its cash flood narrow; its annual free cash flow has risen from $4.2B in 2020 to $80B+ now &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260103/p5#a260103p5)
  - [Framework Laptop 16 &lpar;RTX 5070&rpar; Review: A Dream Come True](https://www.wired.com/review/framework-laptop-16/)
  - [CES 2026: all the news, gadgets, and innovations from the biggest tech show](https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements)
- - [Stop Using Your Keyboard and Start Using Handy, a Free Speech-to-Text App](https://www.wired.com/story/handy-free-speech-to-text-app/)
- - [Blood Feud: Oura’s Health Panels Versus Whoop’s Advanced Labs](https://www.wired.com/story/oura-whoop-blood-labs/)<!-- TECH:END -->
+ - [Stop Using Your Keyboard and Start Using Handy, a Free Speech-to-Text App](https://www.wired.com/story/handy-free-speech-to-text-app/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

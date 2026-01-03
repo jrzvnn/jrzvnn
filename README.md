@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - 😝 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
- - 💣 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
- - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 👉 [And we fall for it everytime!!!!](http://9gag.com/gag/avyVd9E)<!-- MEMES:END -->
+ - 😝 [Interesting experience.](http://9gag.com/gag/amoyVWj)
+ - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
+ - 💣 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
+ - 😝 [Natalie asks some serious question.](http://9gag.com/gag/aO8OGDE)
+ - 👉 [How extrovert people die](http://9gag.com/gag/aMV6q2X)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pebble Round 2 cuts the bezel from the decade-old round smartwatch revival](https://appleinsider.com/articles/26/01/03/pebble-round-2-cuts-the-bezel-from-the-decade-old-round-smartwatch-revival?utm_source=rss)
  - [Disinformation Floods Social Media After Nicolás Maduro&#39;s Capture](https://www.wired.com/story/disinformation-floods-social-media-after-nicolas-maduros-capture/)
  - [Q&amp;A with Kara Swisher on the economics of the AI boom, the upcoming IPOs of SpaceX and OpenAI, Elon Musk, the tech industry&#39;s Trump pivot, robotics, and more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/260103/p7#a260103p7)
  - [Meta’s Quest 3S is still $50 off and comes with a $50 gift card](https://www.theverge.com/gadgets/853151/meta-quest-3s-apple-airtag-steam-winter-sale-deal)
- - [Best tech and smart home products I bought in 2025 and still use](https://appleinsider.com/articles/26/01/03/best-tech-and-smart-home-products-i-bought-in-2025-and-still-use?utm_source=rss)
- - [Dating apps are pivoting to Asia as swipe-right fatigue hits the West; India, China, and Indonesia ranked among the top five markets by downloads in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260103/p6#a260103p6)<!-- TECH:END -->
+ - [Best tech and smart home products I bought in 2025 and still use](https://appleinsider.com/articles/26/01/03/best-tech-and-smart-home-products-i-bought-in-2025-and-still-use?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

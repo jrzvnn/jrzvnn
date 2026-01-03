@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Happens Next in Venezuela—and the Rest of Latin America?](https://www.wired.com/story/what-happens-next-in-venezuela-and-the-rest-of-latin-america/)
  - [A new Polymarket account bet $30K on Maduro&#39;s capture just hours before Trump&#39;s announcement, renewing questions on insider information in prediction markets &lpar;Herb Scribner/Axios&rpar;](http://www.techmeme.com/260103/p9#a260103p9)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 4 #672](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-4-672/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 4, #468](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-4-468/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 4, #1660](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-4-1660/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 4, #938](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-4-938/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 4, #1660](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-4-1660/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

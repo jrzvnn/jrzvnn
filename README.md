@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Elon Musk&#39;s bet that Tesla&#39;s future is in its Optimus humanoid robots, which for now rely on human helpers and still face commercial challenges &lpar;Becky Peterson/Wall Street Journal&rpar;](http://www.techmeme.com/260103/p3#a260103p3)
+ - [1Password Coupon: Score a Free Trial in January](https://www.wired.com/story/1password-coupon/)
  - [30% VistaPrint Coupon &amp; Promo Codes | January 2026](https://www.wired.com/story/vistaprint-coupon-code/)
  - [Nomad Goods Promo Codes: 25% Off | January 2026](https://www.wired.com/story/nomad-discount-code/)
- - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)
- - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
- - [OnePlus Promo Code: $70 Off | January 2026](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
+ - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

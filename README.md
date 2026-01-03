@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
+ - 😝 [Core memory](http://9gag.com/gag/a0eGE9n)
  - 😝 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
  - 💣 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)
- - 😝 [America arrests anyone who resembles Saddam Hussein](http://9gag.com/gag/an73Vqz)
+ - 😝 [3 hour SMO](http://9gag.com/gag/ae9EWNB)
  - 👉 [How extrovert people die](http://9gag.com/gag/aMV6q2X)<!-- MEMES:END -->
 
 ---

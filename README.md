@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best tech and smart home products I bought in 2025 and still use](https://appleinsider.com/articles/26/01/03/best-tech-and-smart-home-products-i-bought-in-2025-and-still-use?utm_source=rss)
  - [Dating apps are pivoting to Asia as swipe-right fatigue hits the West; India, China, and Indonesia ranked among the top five markets by downloads in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260103/p6#a260103p6)
  - [The US Invaded Venezuela and Captured Nicolás Maduro. ChatGPT Disagrees](https://www.wired.com/story/us-invaded-venezuela-and-captured-nicolas-maduro-chatgpt-disagrees/)
  - [I went to the Stranger Things finale in theaters and the strangest thing happened](https://www.theverge.com/streaming/853133/stranger-things-finale-theater-scene-report)
- - [Premier League Soccer: Stream Bournemouth vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Bournemouth vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
- - 😝 [Interesting experience.](http://9gag.com/gag/amoyVWj)
- - 💣 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
+ - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
+ - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
+ - 💣 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
  - 😝 [Natalie asks some serious question.](http://9gag.com/gag/aO8OGDE)
  - 👉 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)<!-- MEMES:END -->
 

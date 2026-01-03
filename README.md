@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
- - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
- - 💣 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
- - 👉 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)<!-- MEMES:END -->
+ - 😝 [The few actors that I respect the most](http://9gag.com/gag/aZZKvP9)
+ - 😝 [When it&#39;s 6 am and Delta Force starts banging your door](http://9gag.com/gag/a7oBAP2)
+ - 💣 [Sweet sweet sweet potato](https://www.reddit.com/r/funny/comments/1q39cao/sweet_sweet_sweet_potato/)
+ - 😝 [Not quite my tempo](http://9gag.com/gag/aByMoxA)
+ - 👉 [Bro fried her](http://9gag.com/gag/aKGypX3)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The few actors that I respect the most](http://9gag.com/gag/aZZKvP9)
- - 😝 [When it&#39;s 6 am and Delta Force starts banging your door](http://9gag.com/gag/a7oBAP2)
- - 💣 [Not quite my tempo](http://9gag.com/gag/aByMoxA)
- - 😝 [Bro fried her](http://9gag.com/gag/aKGypX3)
- - 👉 [Religion of pi\u00df](http://9gag.com/gag/aNDX393)<!-- MEMES:END -->
+ - 😝 [One of us...](http://9gag.com/gag/aVv8RGv)
+ - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
+ - 💣 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
+ - 😝 [Natalie asks some serious question.](http://9gag.com/gag/aO8OGDE)
+ - 👉 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)<!-- MEMES:END -->
 
 ---
 

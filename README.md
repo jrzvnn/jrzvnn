@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect at CES 2026: laptops with new chips from Intel, Qualcomm, and AMD, more AI integrations, smart home robotics, smart glasses, and more &lpar;The Verge&rpar;](http://www.techmeme.com/260102/p18#a260102p18)
  - [Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump&#39;s prison-reform law &lpar;CNBC&rpar;](http://www.techmeme.com/260102/p17#a260102p17)
  - [California launched a free tool on January 1 that lets residents request the deletion of their personal data from over 500 registered data brokers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260102/p16#a260102p16)
  - [Fender Offers Up Its First Wireless Headphones, With Emphasis on Battery Life](https://www.cnet.com/tech/mobile/fender-offers-up-its-first-wireless-headphones-with-emphasis-on-battery-life/#ftag=CAD590a51e)
- - [Comparing ChatGPT&#39;s mini-apps with native iOS apps: some like Uber, OpenTable, and TripAdvisor fell short with frequent error messages, but Instacart did well &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260102/p15#a260102p15)
- - [Two Phones, Less Distraction? That&#39;s the Pitch for This BlackBerry Lookalike](https://www.cnet.com/tech/mobile/clicks-communicator-smartphone-companion-power-keyboard-ces-2026/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Comparing ChatGPT&#39;s mini-apps with native iOS apps: some like Uber, OpenTable, and TripAdvisor fell short with frequent error messages, but Instacart did well &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260102/p15#a260102p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

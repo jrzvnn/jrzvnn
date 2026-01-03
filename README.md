@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [30% VistaPrint Coupon &amp; Promo Codes | January 2026](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [Nomad Goods Promo Codes: 25% Off | January 2026](https://www.wired.com/story/nomad-discount-code/)
+ - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)
  - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
- - [OnePlus Promo Code: $70 Off | January 2026](https://www.wired.com/story/oneplus-promo-code/)
- - [London is set to become the first city where both US and Chinese robotaxis operate, as Waymo and Baidu prepare to launch their robotaxis in the city in 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260103/p2#a260103p2)
- - [Surfshark Promo Codes: 87% Off | January 2026](https://www.wired.com/story/surfshark-coupon/)
- - [Global SWF: sovereign wealth funds invested $66B in AI and digitalization in 2025, with Mubadala investing $12.9B and Kuwait Investment Authority investing $6B &lpar;Alex Dooler/Bloomberg&rpar;](http://www.techmeme.com/260103/p1#a260103p1)<!-- TECH:END -->
+ - [OnePlus Promo Code: $70 Off | January 2026](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

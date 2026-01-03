@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
  - 😝 [How to stop a baby crying](http://9gag.com/gag/a8792VQ)
- - 😝 [He handled the snake like a toy](http://9gag.com/gag/amoyMwd)
- - 💣 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)
+ - 💣 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
  - 😝 [Anderson cooper should know..](http://9gag.com/gag/azxz4xK)
- - 👉 [Works, every time!](http://9gag.com/gag/agmb2vW)<!-- MEMES:END -->
+ - 👉 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)<!-- MEMES:END -->
 
 ---
 

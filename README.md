@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Blood Feud: Oura’s Health Panels Versus Whoop’s Advanced Labs](https://www.wired.com/story/oura-whoop-blood-labs/)
+ - [NFL Week 18: How to Watch Seahawks vs. 49ers, Ravens vs. Steelers and More Games Today From Anywhere](https://www.cnet.com/tech/services-and-software/nfl-week-18-how-to-watch-seahawks-vs-49ers-ravens-vs-steelers-and-more-games-from-anywhere/#ftag=CAD590a51e)
  - [How to Manage Files on iOS and Android](https://www.wired.com/story/how-to-manage-files-on-ios-and-android/)
  - [A deep dive into co-packaged optics, long promised to transform data center connectivity, covering benefits, challenges, architecture, key companies, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/260103/p4#a260103p4)
- - [13 Best Fitness and Workout Apps for 2026, Tested &amp; Reviewed](https://www.wired.com/gallery/best-fitness-workout-apps/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 3, #937](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-3-937/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [13 Best Fitness and Workout Apps for 2026, Tested &amp; Reviewed](https://www.wired.com/gallery/best-fitness-workout-apps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

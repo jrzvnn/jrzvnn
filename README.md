@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
- - 😝 [And we fall for it everytime!!!!](http://9gag.com/gag/avyVd9E)
- - 💣 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)
- - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 👉 [How extrovert people die](http://9gag.com/gag/aMV6q2X)<!-- MEMES:END -->
+ - 😝 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)
+ - 😝 [The few actors that I respect the most](http://9gag.com/gag/aZZKvP9)
+ - 💣 [It&#39;s trap](http://9gag.com/gag/aO8Op2y)
+ - 😝 [I&#39;ll just put this here...](http://9gag.com/gag/aE0bZ9x)
+ - 👉 [2026 disaster bingo is going to be so easy](http://9gag.com/gag/a5QA5YV)<!-- MEMES:END -->
 
 ---
 

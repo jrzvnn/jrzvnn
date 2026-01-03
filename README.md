@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global SWF: sovereign wealth funds invested $66B in AI and digitalization in 2025, with Mubadala investing $12.9B and Kuwait Investment Authority investing $6B &lpar;Alex Dooler/Bloomberg&rpar;](http://www.techmeme.com/260103/p1#a260103p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 3, #467](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-3-467/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-3/#ftag=CAD590a51e)
  - [What to expect at CES 2026: laptops with new chips from Intel, Qualcomm, and AMD, more AI integrations, smart home robotics, smart glasses, and more &lpar;The Verge&rpar;](http://www.techmeme.com/260102/p18#a260102p18)
- - [Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump&#39;s prison-reform law &lpar;CNBC&rpar;](http://www.techmeme.com/260102/p17#a260102p17)
- - [California launched a free tool on January 1 that lets residents request the deletion of their personal data from over 500 registered data brokers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260102/p16#a260102p16)<!-- TECH:END -->
+ - [Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump&#39;s prison-reform law &lpar;CNBC&rpar;](http://www.techmeme.com/260102/p17#a260102p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

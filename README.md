@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Someone made a ton of money betting on Maduro’s capture](https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture)
  - [A look at AVA, an AI chatbot developed by Alaska&#39;s court system to provide aid in the probate process, which has been plagued by delays and hallucinations &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260103/p8#a260103p8)
  - [Pebble Round 2 cuts the bezel from the decade-old round smartwatch revival](https://appleinsider.com/articles/26/01/03/pebble-round-2-cuts-the-bezel-from-the-decade-old-round-smartwatch-revival?utm_source=rss)
  - [Out of Eggs? A New Fridge Scans Groceries as You Run Low and Adds Them to a List](https://www.cnet.com/news/out-of-eggs-a-new-fridge-scans-groceries-as-you-run-low-and-adds-them-to-a-list/#ftag=CAD590a51e)
- - [Disinformation Floods Social Media After Nicolás Maduro’s Capture](https://www.wired.com/story/disinformation-floods-social-media-after-nicolas-maduros-capture/)
- - [Q&amp;A with Kara Swisher on Sam Altman&#39;s determination to &quot;do anything to make OpenAI win&quot;, Elon Musk, the tech industry&#39;s Trump pivot, and more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/260103/p7#a260103p7)<!-- TECH:END -->
+ - [Disinformation Floods Social Media After Nicolás Maduro’s Capture](https://www.wired.com/story/disinformation-floods-social-media-after-nicolas-maduros-capture/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

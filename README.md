@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
- - 😝 [Pro Gaming Tip: ` Always look up and check your surroundings `](http://9gag.com/gag/aZZKz93)
- - 💣 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
- - 😝 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
- - 👉 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)<!-- MEMES:END -->
+ - 😝 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
+ - 💣 [Fatigue](http://9gag.com/gag/amoypZV)
+ - 😝 [2026 disaster bingo is going to be so easy](http://9gag.com/gag/a5QA5YV)
+ - 👉 [How extrovert people die](http://9gag.com/gag/aMV6q2X)<!-- MEMES:END -->
 
 ---
 

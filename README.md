@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Groq deal shows the challenges Nvidia faces as options to deploy its cash flood narrow; its annual free cash flow has risen from $4.2B in 2020 to $80B+ now &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260103/p5#a260103p5)
  - [Framework Laptop 16 &lpar;RTX 5070&rpar; Review: A Dream Come True](https://www.wired.com/review/framework-laptop-16/)
  - [CES 2026: all the news, gadgets, and innovations from the biggest tech show](https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements)
  - [Stop Using Your Keyboard and Start Using Handy, a Free Speech-to-Text App](https://www.wired.com/story/handy-free-speech-to-text-app/)
- - [Blood Feud: Oura’s Health Panels Versus Whoop’s Advanced Labs](https://www.wired.com/story/oura-whoop-blood-labs/)
- - [NFL Week 18: How to Watch Seahawks vs. 49ers, Ravens vs. Steelers and More Games Today From Anywhere](https://www.cnet.com/tech/services-and-software/nfl-week-18-how-to-watch-seahawks-vs-49ers-ravens-vs-steelers-and-more-games-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blood Feud: Oura’s Health Panels Versus Whoop’s Advanced Labs](https://www.wired.com/story/oura-whoop-blood-labs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

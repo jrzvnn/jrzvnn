@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
  - 😝 [Pro Gaming Tip: ` Always look up and check your surroundings `](http://9gag.com/gag/aZZKz93)
- - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - 💣 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
- - 😝 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
+ - 💣 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
+ - 😝 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
  - 👉 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)<!-- MEMES:END -->
 
 ---

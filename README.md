@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [And we fall for it everytime!!!!](http://9gag.com/gag/avyVd9E)
  - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
- - 😝 [How to stop a baby crying](http://9gag.com/gag/a8792VQ)
  - 💣 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
  - 😝 [Anderson cooper should know..](http://9gag.com/gag/azxz4xK)
  - 👉 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)<!-- MEMES:END -->

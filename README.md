@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
  - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
- - 💣 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
- - 😝 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
- - 👉 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)<!-- MEMES:END -->
+ - 😝 [And we fall for it everytime!!!!](http://9gag.com/gag/avyVd9E)
+ - 💣 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
+ - 😝 [Anderson cooper should know..](http://9gag.com/gag/azxz4xK)
+ - 👉 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)<!-- MEMES:END -->
 
 ---
 

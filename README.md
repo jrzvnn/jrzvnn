@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)
- - 😝 [The few actors that I respect the most](http://9gag.com/gag/aZZKvP9)
- - 💣 [It&#39;s trap](http://9gag.com/gag/aO8Op2y)
- - 😝 [I&#39;ll just put this here...](http://9gag.com/gag/aE0bZ9x)
- - 👉 [2026 disaster bingo is going to be so easy](http://9gag.com/gag/a5QA5YV)<!-- MEMES:END -->
+ - 😝 [And we fall for it everytime!!!!](http://9gag.com/gag/avyVd9E)
+ - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
+ - 💣 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
+ - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 👉 [Got some air](https://www.reddit.com/r/funny/comments/1q31krz/got_some_air/)<!-- MEMES:END -->
 
 ---
 

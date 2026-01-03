@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
- - 😝 [Interesting experience.](http://9gag.com/gag/amoyVWj)
- - 💣 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 😝 [Natalie asks some serious question.](http://9gag.com/gag/aO8OGDE)
- - 👉 [Fatigue](http://9gag.com/gag/amoypZV)<!-- MEMES:END -->
+ - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
+ - 💣 [Interesting experience.](http://9gag.com/gag/amoyVWj)
+ - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
+ - 👉 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)<!-- MEMES:END -->
 
 ---
 

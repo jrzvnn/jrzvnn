@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The few actors that I respect the most](http://9gag.com/gag/aZZKvP9)
  - 😝 [When it&#39;s 6 am and Delta Force starts banging your door](http://9gag.com/gag/a7oBAP2)
- - 💣 [Sweet sweet sweet potato](https://www.reddit.com/r/funny/comments/1q39cao/sweet_sweet_sweet_potato/)
- - 😝 [Not quite my tempo](http://9gag.com/gag/aByMoxA)
- - 👉 [Bro fried her](http://9gag.com/gag/aKGypX3)<!-- MEMES:END -->
+ - 💣 [Not quite my tempo](http://9gag.com/gag/aByMoxA)
+ - 😝 [Bro fried her](http://9gag.com/gag/aKGypX3)
+ - 👉 [Religion of pi\u00df](http://9gag.com/gag/aNDX393)<!-- MEMES:END -->
 
 ---
 

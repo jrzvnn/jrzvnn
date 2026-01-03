@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And we fall for it everytime!!!!](http://9gag.com/gag/avyVd9E)
+ - 😝 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
+ - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
+ - 💣 [True love](http://9gag.com/gag/a2vVL1D)
  - 😝 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)
- - 💣 [Is it legally OK?](http://9gag.com/gag/a879zMd)
- - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
  - 👉 [How extrovert people die](http://9gag.com/gag/aMV6q2X)<!-- MEMES:END -->
 
 ---

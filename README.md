@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new Polymarket account bet $30K on Maduro&#39;s capture just hours before Trump&#39;s announcement, renewing questions on insider information in prediction markets &lpar;Herb Scribner/Axios&rpar;](http://www.techmeme.com/260103/p9#a260103p9)
  - [Someone made a ton of money betting on Maduro’s capture](https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture)
  - [A look at AVA, an AI chatbot developed by Alaska&#39;s court system to provide aid in the probate process, which has been plagued by delays and hallucinations &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260103/p8#a260103p8)
  - [&#39;Landman&#39; Season 2, Episode 8: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-release-time/#ftag=CAD590a51e)
- - [Pebble Round 2 cuts the bezel from the decade-old round smartwatch revival](https://appleinsider.com/articles/26/01/03/pebble-round-2-cuts-the-bezel-from-the-decade-old-round-smartwatch-revival?utm_source=rss)
- - [Out of Eggs? A New Fridge Scans Groceries as You Run Low and Adds Them to a List](https://www.cnet.com/news/out-of-eggs-a-new-fridge-scans-groceries-as-you-run-low-and-adds-them-to-a-list/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pebble Round 2 cuts the bezel from the decade-old round smartwatch revival](https://appleinsider.com/articles/26/01/03/pebble-round-2-cuts-the-bezel-from-the-decade-old-round-smartwatch-revival?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

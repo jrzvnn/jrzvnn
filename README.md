@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 😝 [100% winning rate](http://9gag.com/gag/apRXV8E)
- - 💣 [Did you just..](http://9gag.com/gag/aNDX2Lr)
- - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
- - 👉 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/a5QA5XL)
+ - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
+ - 💣 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
+ - 😝 [Did you just..](http://9gag.com/gag/aNDX2Lr)
+ - 👉 [100% winning rate](http://9gag.com/gag/apRXV8E)<!-- MEMES:END -->
 
 ---
 

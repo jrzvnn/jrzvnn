@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
+ - 😝 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
  - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 💣 [...](http://9gag.com/gag/a5QA5XL)
- - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
- - 👉 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)<!-- MEMES:END -->
+ - 💣 [Fatigue](http://9gag.com/gag/amoypZV)
+ - 😝 [Help me recover](http://9gag.com/gag/aKGyL2O)
+ - 👉 [One of us...](http://9gag.com/gag/aVv8RGv)<!-- MEMES:END -->
 
 ---
 

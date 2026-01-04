@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Palo Alto Networks is in talks to acquire Israeli cybersecurity startup Koi for $400M; Koi has raised $48M to date &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/260104/p9#a260104p9)
  - [Belkin&#39;s CES lineup is full of next-gen power solutions, complete with 25W Qi2.2 support](https://appleinsider.com/articles/26/01/04/belkins-ces-lineup-is-full-of-next-gen-power-solutions-complete-with-25w-qi22-support?utm_source=rss)
  - [You can charge the battery in Belkin’s new Switch 2 power case without opening it](https://www.theverge.com/tech/849332/belkin-charging-case-pro-nintendo-switch-2-battery)
  - [Belkin’s new 3-in-1 charging dock isn’t limited to the Apple Watch](https://www.theverge.com/tech/849759/belkin-ultracharge-modular-charging-dock-pro-power-bank-10-magnetic-ring-smartwatch)
- - [Belkin’s new HDMI adapter wirelessly connects to screens over 130 feet away](https://www.theverge.com/tech/849948/belkin-connectair-wireless-hdmi-display-adapter-usb-c-plug-and-play)
- - [Plaud updates the NotePin with a button](https://www.theverge.com/tech/851393/plaud-notepin-s-desktop-app-ces)<!-- TECH:END -->
+ - [Belkin’s new HDMI adapter wirelessly connects to screens over 130 feet away](https://www.theverge.com/tech/849948/belkin-connectair-wireless-hdmi-display-adapter-usb-c-plug-and-play)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Premier League Soccer: Stream Leeds vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
  - [Womanizer Coupons: Save 15% in December](https://www.wired.com/story/womanizer-coupon/)
  - [AirDoctor Coupon Codes: 40% Off | January 2026](https://www.wired.com/story/airdoctor-coupon-code/)
  - [Western Digital Promo Code: 10% Off](https://www.wired.com/story/western-digital-promo-code/)
- - [Tech workers in Silicon Valley are increasingly experimenting with gray-market peptide drugs from China, legal for personal use, for improving focus and more &lpar;Jasmine Sun/New York Times&rpar;](http://www.techmeme.com/260104/p4#a260104p4)
- - [Hydrow Discount Code: Save Up to $150 | January 2026](https://www.wired.com/story/hydrow-discount-code/)<!-- TECH:END -->
+ - [Tech workers in Silicon Valley are increasingly experimenting with gray-market peptide drugs from China, legal for personal use, for improving focus and more &lpar;Jasmine Sun/New York Times&rpar;](http://www.techmeme.com/260104/p4#a260104p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The hero](http://9gag.com/gag/aE0bQZo)
- - 😝 [100% winning rate](http://9gag.com/gag/apRXV8E)
- - 💣 [...](http://9gag.com/gag/a5QA5XL)
+ - 😝 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
  - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 👉 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/a5QA5XL)
+ - 😝 [We&#39;re not even a week into 2026!](http://9gag.com/gag/ajPjddp)
+ - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 😝 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
- - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
+ - 😝 [100% winning rate](http://9gag.com/gag/apRXV8E)
+ - 💣 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)
  - 😝 [We&#39;re not even a week into 2026!](http://9gag.com/gag/ajPjddp)
- - 👉 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)<!-- MEMES:END -->
+ - 👉 [...](http://9gag.com/gag/a5QA5XL)<!-- MEMES:END -->
 
 ---
 

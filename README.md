@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
- - 😝 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
- - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
- - 😝 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)
- - 👉 [...](http://9gag.com/gag/a5QA5XL)<!-- MEMES:END -->
+ - 😝 [When it&#39;s 6 am and Delta Force starts banging your door](http://9gag.com/gag/a7oBAP2)
+ - 😝 [Signs of my next life](http://9gag.com/gag/a0eGx6v)
+ - 💣 [The best kind of failure](http://9gag.com/gag/a1mnx82)
+ - 😝 [I was showing my 3 year old the digits of pi and he thought it was funny and started writing the digits of other foods.](https://www.reddit.com/r/funny/comments/1q3rfw7/i_was_showing_my_3_year_old_the_digits_of_pi_and/)
+ - 👉 [Fatigue](http://9gag.com/gag/amoypZV)<!-- MEMES:END -->
 
 ---
 

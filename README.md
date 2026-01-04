@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [When it&#39;s 6 am and Delta Force starts banging your door](http://9gag.com/gag/a7oBAP2)
  - 😝 [Signs of my next life](http://9gag.com/gag/a0eGx6v)
  - 💣 [The best kind of failure](http://9gag.com/gag/a1mnx82)
- - 😝 [I was showing my 3 year old the digits of pi and he thought it was funny and started writing the digits of other foods.](https://www.reddit.com/r/funny/comments/1q3rfw7/i_was_showing_my_3_year_old_the_digits_of_pi_and/)
- - 👉 [Fatigue](http://9gag.com/gag/amoypZV)<!-- MEMES:END -->
+ - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
+ - 👉 [That was personal](http://9gag.com/gag/aKGyLQ3)<!-- MEMES:END -->
 
 ---
 

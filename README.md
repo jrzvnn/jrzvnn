@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 😝 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
- - 💣 [Fatigue](http://9gag.com/gag/amoypZV)
+ - 😝 [...](http://9gag.com/gag/a5QA5XL)
  - 😝 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
- - 👉 [One of us...](http://9gag.com/gag/aVv8RGv)<!-- MEMES:END -->
+ - 💣 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
+ - 😝 [Rio&#39;s New Year&#39;s Eve drone show was absolutely breathtaking](http://9gag.com/gag/aAy7mqL)
+ - 👉 [How extrovert people die](http://9gag.com/gag/aMV6q2X)<!-- MEMES:END -->
 
 ---
 

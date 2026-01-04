@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 😝 [...](http://9gag.com/gag/a5QA5XL)
- - 💣 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 😝 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
- - 👉 [One of us...](http://9gag.com/gag/aVv8RGv)<!-- MEMES:END -->
+ - 😝 [The few actors that I respect the most](http://9gag.com/gag/aZZKvP9)
+ - 😝 [Leftist with rich parents shares wisdom about life](http://9gag.com/gag/amoynmv)
+ - 💣 [Religion of pi\u00df](http://9gag.com/gag/aNDX393)
+ - 😝 [Not quite my tempo](http://9gag.com/gag/aByMoxA)
+ - 👉 [Natalie asks some serious question.](http://9gag.com/gag/aO8OGDE)<!-- MEMES:END -->
 
 ---
 

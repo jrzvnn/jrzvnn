@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 4, #938](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-4-938/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 4 #672](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-4-672/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 4, #468](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-4-468/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 4, #1660](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-4-1660/#ftag=CAD590a51e)
- - [Hate Your Blaring Alarm? The 5 Best Sunrise Alarm Clocks of 2026 Will Wake You Up Gently](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Leeds vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
+ - [Womanizer Coupons: Save 15% in December](https://www.wired.com/story/womanizer-coupon/)
+ - [AirDoctor Coupon Codes: 40% Off | January 2026](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [Western Digital Promo Code: 10% Off](https://www.wired.com/story/western-digital-promo-code/)
+ - [Tech workers in Silicon Valley are increasingly experimenting with gray-market peptide drugs from China, legal for personal use, for improving focus and more &lpar;Jasmine Sun/New York Times&rpar;](http://www.techmeme.com/260104/p4#a260104p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

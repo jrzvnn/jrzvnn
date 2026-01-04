@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/a5QA5XL)
- - 😝 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
+ - 😝 [Mr Signh at Crimbo](https://www.reddit.com/r/funny/comments/1q3mnog/mr_signh_at_crimbo/)
+ - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
  - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
- - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 👉 [One of us...](http://9gag.com/gag/aVv8RGv)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/a5QA5XL)
+ - 👉 [Fatigue](http://9gag.com/gag/amoypZV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit surpasses TikTok as the fourth most-visited social media service in the UK, likely driven by changes to Google&#39;s search algorithms and AI deals &lpar;Michael Savage/The Guardian&rpar;](http://www.techmeme.com/260104/p2#a260104p2)
- - [Filing: West Co, founded by Biz Stone and Evan Sharp, raised $29M; it launched the invite-only social app Tangle, &quot;designed for intentional living&quot;, in November &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260104/p1#a260104p1)
- - [Fueled partly by US tech companies, governments worldwide are racing to deploy GenAI in schools and universities, even as agencies such as UNICEF urge caution &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/260103/p10#a260103p10)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Jan. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-jan-4/#ftag=CAD590a51e)
- - [Apple&#39;s iPad 11 is down to $299, plus save up to $400 across models](https://appleinsider.com/articles/26/01/03/apples-ipad-11-is-down-to-299-plus-save-up-to-400-across-models?utm_source=rss)<!-- TECH:END -->
+ - [Hulu Promo Codes &amp; Discounts: 20% Off January](https://www.wired.com/story/hulu-promo-code/)
+ - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)
+ - [EU officials and policymakers say the EC will intensify its enforcement of the DMA and DSA in 2026, a move expected to renew clashes with US Big Tech and Trump &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260104/p3#a260104p3)
+ - [Bose Promo Code: 40% Off Bose for January 2026](https://www.wired.com/story/bose-coupon-code/)
+ - [20% Off Sephora Promo Code | January 2026](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

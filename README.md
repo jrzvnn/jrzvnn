@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
  - 😝 [...](http://9gag.com/gag/a5QA5XL)
- - 💣 [Fatigue](http://9gag.com/gag/amoypZV)
+ - 😝 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
+ - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
  - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 👉 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)<!-- MEMES:END -->
+ - 👉 [One of us...](http://9gag.com/gag/aVv8RGv)<!-- MEMES:END -->
 
 ---
 

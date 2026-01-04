@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hydrow Discount Code: Save Up to $150 | January 2026](https://www.wired.com/story/hydrow-discount-code/)
- - [Hulu Promo Codes &amp; Discounts: 20% Off January](https://www.wired.com/story/hulu-promo-code/)
- - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)
- - [EU officials and policymakers say the EC will intensify its enforcement of the DMA and DSA in 2026, a move expected to renew clashes with US Big Tech and Trump &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260104/p3#a260104p3)
- - [Bose Promo Code: 40% Off Bose for January 2026](https://www.wired.com/story/bose-coupon-code/)<!-- TECH:END -->
+ - [Womanizer Coupons: Save 15% in December](https://www.wired.com/story/womanizer-coupon/)
+ - [AirDoctor Coupon Codes: 40% Off | January 2026](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [Western Digital Promo Code: 10% Off](https://www.wired.com/story/western-digital-promo-code/)
+ - [Tech workers in Silicon Valley are increasingly experimenting with gray-market peptide drugs from China, legal for personal use, for improving focus and more &lpar;Jasmine Sun/New York Times&rpar;](http://www.techmeme.com/260104/p4#a260104p4)
+ - [Hydrow Discount Code: Save Up to $150 | January 2026](https://www.wired.com/story/hydrow-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

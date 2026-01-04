@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The hero](http://9gag.com/gag/aE0bQZo)
- - 😝 [Job of an elementary teacher. - This is from the Philippines.](http://9gag.com/gag/avyVmQE)
- - 💣 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
- - 😝 [New logo](http://9gag.com/gag/avyVDNX)
- - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
+ - 😝 [100% winning rate](http://9gag.com/gag/apRXV8E)
+ - 💣 [...](http://9gag.com/gag/a5QA5XL)
+ - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
+ - 👉 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 😝 [...](http://9gag.com/gag/a5QA5XL)
- - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
- - 😝 [Rio&#39;s New Year&#39;s Eve drone show was absolutely breathtaking](http://9gag.com/gag/aAy7mqL)
- - 👉 [Fatigue](http://9gag.com/gag/amoypZV)<!-- MEMES:END -->
+ - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
+ - 😝 [Steely Dan, a 1970s band named after a fictitious dildo, had a hit single called &quot;Peg&quot;](https://www.reddit.com/r/funny/comments/1q3nbk0/steely_dan_a_1970s_band_named_after_a_fictitious/)
+ - 💣 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
+ - 😝 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
+ - 👉 [Rio&#39;s New Year&#39;s Eve drone show was absolutely breathtaking](http://9gag.com/gag/aAy7mqL)<!-- MEMES:END -->
 
 ---
 

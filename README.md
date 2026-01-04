@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New Bridge Links the Strange Math of Infinity to Computer Science](https://www.wired.com/story/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science/)
- - [Protein Bars: Gluten-Free, Whole Foods, Fiber &lpar;2026&rpar;](https://www.wired.com/story/best-protein-bars/)
- - [8 WhatsApp Features to Boost Your Security and Privacy](https://www.wired.com/story/5-features-that-boost-security-and-privacy-on-whatsapp/)
- - [You’ve Got a Public Reddit Profile. Here’s How to Curate It](https://www.wired.com/story/how-to-curate-your-public-reddit-profile/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 4, #938](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-4-938/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jackery&#39;s new Explorer 1500 Ultra is a rugged &amp; portable power station](https://appleinsider.com/articles/26/01/04/jackery-unveils-the-explorer-1500-ultra----a-new-rugged-portable-power-station?utm_source=rss)
+ - [Three new Matter lights debut from Govee with blended RGBIC at CES 2026](https://appleinsider.com/articles/26/01/04/three-new-matter-lights-debut-from-govee-with-blended-rgbic-at-ces-2026?utm_source=rss)
+ - [A profile of June Paik, CEO of Seoul-based chip startup FuriosaAI, valued at ~$700M, whose AI chip dubbed &quot;RNGD&quot; is slated to enter mass production this month &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/260104/p5#a260104p5)
+ - [Jackery’s solar-powered Gazebo is a good DIY idea](https://www.theverge.com/tech/852600/jackerys-solar-powered-gazebo-is-a-good-diy-idea)
+ - [Govee’s latest smart lights can make your ceiling more interesting](https://www.theverge.com/tech/853006/govee-sky-ceiling-light-ultra-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

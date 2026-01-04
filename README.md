@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Signs of my next life](http://9gag.com/gag/a0eGx6v)
- - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 💣 [The best kind of failure](http://9gag.com/gag/a1mnx82)
- - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
- - 👉 [The hero](http://9gag.com/gag/aE0bQZo)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/a5QA5XL)
+ - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
+ - 💣 [Here we go](http://9gag.com/gag/a1mnw6w)
+ - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
+ - 👉 [100% winning rate](http://9gag.com/gag/apRXV8E)<!-- MEMES:END -->
 
 ---
 

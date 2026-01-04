@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matter is front-and-center in Xthing&#39;s new lineup of smart locks](https://appleinsider.com/articles/26/01/04/matter-is-front-and-center-in-xthings-new-lineup-of-smart-locks?utm_source=rss)
- - [SwitchBot&#39;s smart home future includes 3D-mapping smart locks, robot assistance](https://appleinsider.com/articles/26/01/04/switchbots-smart-home-future-includes-3d-mapping-smart-locks-robot-assistance?utm_source=rss)
  - [CES 2026 Live: Tech&#39;s Big Event Kicks Off From Las Vegas](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [Aliro arrives – the smart lock standard is set to launch this year](https://www.theverge.com/news/854091/aliro-smart-lock-standard-launches-2026-apple-uwb-nfc)
- - [How a crew of crypto-focused criminals moved from SIM swap attacks to coordinated, violent home invasions and kidnappings, targeting small-time crypto investors &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/260104/p10#a260104p10)<!-- TECH:END -->
+ - [Matter is front-and-center in Xthing&#39;s new lineup of smart locks](https://appleinsider.com/articles/26/01/04/matter-is-front-and-center-in-xthings-new-lineup-of-smart-locks?utm_source=rss)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 5, #939](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-5-939/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 5 #673](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-5-673/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 5, #1661](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-5-1661/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

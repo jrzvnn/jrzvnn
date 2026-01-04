@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
- - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
- - 💣 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
+ - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
+ - 😝 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
+ - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
  - 😝 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)
  - 👉 [...](http://9gag.com/gag/a5QA5XL)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leftist with rich parents shares wisdom about life](http://9gag.com/gag/amoynmv)
- - 😝 [Religion of pi\u00df](http://9gag.com/gag/aNDX393)
- - 💣 [Netflix thing](http://9gag.com/gag/aD2LPdZ)
- - 😝 [Not quite my tempo](http://9gag.com/gag/aByMoxA)
- - 👉 [Fatigue](http://9gag.com/gag/amoypZV)<!-- MEMES:END -->
+ - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
+ - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
+ - 💣 [...](http://9gag.com/gag/a5QA5XL)
+ - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
+ - 👉 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)<!-- MEMES:END -->
 
 ---
 

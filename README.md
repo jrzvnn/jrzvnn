@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
- - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 💣 [...](http://9gag.com/gag/a5QA5XL)
- - 😝 [We&#39;re not even a week into 2026!](http://9gag.com/gag/ajPjddp)
- - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
+ - 😝 [Such blasphemy would never be allowed in Britain.](http://9gag.com/gag/aE0bQQK)
+ - 😝 [Signs of my next life](http://9gag.com/gag/a0eGx6v)
+ - 💣 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 😝 [Simple and to the point](http://9gag.com/gag/aRBGNA7)
+ - 👉 [The best kind of failure](http://9gag.com/gag/a1mnx82)<!-- MEMES:END -->
 
 ---
 

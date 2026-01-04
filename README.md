@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
  - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
- - 😝 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
- - 💣 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
- - 😝 [We&#39;re not even a week into 2026!](http://9gag.com/gag/ajPjddp)
+ - 💣 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
+ - 😝 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)
  - 👉 [...](http://9gag.com/gag/a5QA5XL)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s first book-style foldable leaks](https://www.theverge.com/news/854016/motorola-razr-fold-leak)
- - [Hands-on with Xreal&#39;s Neo, a $99 battery pack and mini-dock that acts as a passthrough converter so the company&#39;s glasses can work with the Nintendo Switch &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/260104/p7#a260104p7)
- - [HBO Max: The 30 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-shows-to-watch-on-hbo-max/#ftag=CAD590a51e)
- - [Xreal unveils the $449 1S, a pair of AR glasses with 1200p, 700 nits brightness, 52 degree FOV, and 16:10 aspect ratio; the 1S can convert any 2D video into 3D &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/260104/p6#a260104p6)
- - [How a New Fridge With Built-In Barcode Scanner Could Change Grocery Shopping Forever](https://www.cnet.com/news/how-a-new-fridge-with-built-in-barcode-scanner-could-change-grocery-shopping-forever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SwitchBot says its humanoid household robot can do your laundry](https://www.theverge.com/news/852741/switchbot-onero-h1-humanoid-household-robot-ces-2026)
+ - [You can unlock SwitchBot’s first deadbolt smart lock with your face](https://www.theverge.com/tech/852978/switchbot-lock-vision-deadbolt-facial-recognition)
+ - [SwitchBot’s new E Ink display seems great for weather nerds](https://www.theverge.com/news/853042/switchbot-weather-station-e-ink-screen)
+ - [SwitchBot’s AI audio recorder is a ‘second brain’ for memories](https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement)
+ - [SwitchBot’s AI-powered desk light looks like a pixel-art snow globe](https://www.theverge.com/tech/853234/switchbot-obboto-ai-globe-desk-light-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

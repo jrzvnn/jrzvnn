@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such blasphemy would never be allowed in Britain.](http://9gag.com/gag/aE0bQQK)
  - 😝 [Signs of my next life](http://9gag.com/gag/a0eGx6v)
- - 💣 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 😝 [Simple and to the point](http://9gag.com/gag/aRBGNA7)
- - 👉 [The best kind of failure](http://9gag.com/gag/a1mnx82)<!-- MEMES:END -->
+ - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 💣 [The best kind of failure](http://9gag.com/gag/a1mnx82)
+ - 😝 [You don\u2019t get discounts when you steal stuff](http://9gag.com/gag/ajPjMKx)
+ - 👉 [The hero](http://9gag.com/gag/aE0bQZo)<!-- MEMES:END -->
 
 ---
 

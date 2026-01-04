@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)
- - 😝 [...](http://9gag.com/gag/a5QA5XL)
- - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
  - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
+ - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
+ - 😝 [Signs of my next life](http://9gag.com/gag/a0eGx6v)
  - 👉 [One of us...](http://9gag.com/gag/aVv8RGv)<!-- MEMES:END -->
 
 ---

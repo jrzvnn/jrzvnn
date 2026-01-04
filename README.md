@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a New Fridge With Built-In Barcode Scanner Could Change Grocery Shopping Forever](https://www.cnet.com/news/how-a-new-fridge-with-built-in-barcode-scanner-could-change-grocery-shopping-forever/#ftag=CAD590a51e)
  - [Jackery&#39;s new Explorer 1500 Ultra is a rugged &amp; portable power station](https://appleinsider.com/articles/26/01/04/jackery-unveils-the-explorer-1500-ultra----a-new-rugged-portable-power-station?utm_source=rss)
  - [Premier League Soccer: Stream Fulham vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-fulham-vs-liverpool-live-from-anywhere/#ftag=CAD590a51e)
  - [Premier League Soccer: Stream Man City vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)
- - [The wild, intense rise and fall of Flappy Bird](https://www.theverge.com/podcast/853824/flappy-bird-game-version-history)
- - [You&#39;ll have new ways to charge your gear thanks to Baseus](https://appleinsider.com/articles/26/01/04/youll-have-new-ways-to-charge-your-gear-thanks-to-baseus?utm_source=rss)<!-- TECH:END -->
+ - [The wild, intense rise and fall of Flappy Bird](https://www.theverge.com/podcast/853824/flappy-bird-game-version-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

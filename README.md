@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The few actors that I respect the most](http://9gag.com/gag/aZZKvP9)
  - 😝 [Leftist with rich parents shares wisdom about life](http://9gag.com/gag/amoynmv)
- - 💣 [Religion of pi\u00df](http://9gag.com/gag/aNDX393)
+ - 😝 [Religion of pi\u00df](http://9gag.com/gag/aNDX393)
+ - 💣 [Netflix thing](http://9gag.com/gag/aD2LPdZ)
  - 😝 [Not quite my tempo](http://9gag.com/gag/aByMoxA)
  - 👉 [Fatigue](http://9gag.com/gag/amoypZV)<!-- MEMES:END -->
 

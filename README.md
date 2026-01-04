@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Signs of my next life](http://9gag.com/gag/a0eGx6v)
  - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 💣 [The best kind of failure](http://9gag.com/gag/a1mnx82)
- - 😝 [You don\u2019t get discounts when you steal stuff](http://9gag.com/gag/ajPjMKx)
- - 👉 [The hero](http://9gag.com/gag/aE0bQZo)<!-- MEMES:END -->
+ - 😝 [100% winning rate](http://9gag.com/gag/apRXV8E)
+ - 💣 [Did you just..](http://9gag.com/gag/aNDX2Lr)
+ - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 👉 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)<!-- MEMES:END -->
 
 ---
 

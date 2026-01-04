@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a crew of crypto-focused hackers moved from SIM swap attacks to coordinated, violent home invasions and kidnappings, targeting small-time crypto investors &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/260104/p10#a260104p10)
+ - [LG Brought a Robot That Cooks, Folds Laundry and Empties the Dishwasher to CES](https://www.cnet.com/news/lg-brought-a-robot-that-cooks-folds-laundry-and-empties-the-dishwasher-to-ces/#ftag=CAD590a51e)
  - [Trump Wants Venezuela&#39;s Oil. Getting It Might Not Be So Simple](https://www.wired.com/story/trump-wants-venezuelas-oil-getting-it-might-not-be-so-simple/)
  - [LG says its CLOiD home robot will be folding laundry and making breakfast at CES](https://www.theverge.com/tech/854082/lg-cloid-home-robot-fold-laundry-ces)
- - [What Andrew Orr&#39;s desk looked like after a year of writing at home in 2025](https://appleinsider.com/articles/26/01/04/what-andrew-orrs-desk-looked-like-after-a-year-of-writing-at-home-in-2025?utm_source=rss)
- - [Sources: Palo Alto Networks is in talks to acquire Israeli cybersecurity startup Koi for $400M; Koi has raised $48M to date &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/260104/p9#a260104p9)
- - [Belkin&#39;s CES lineup is full of next-gen power solutions, complete with 25W Qi2.2 support](https://appleinsider.com/articles/26/01/04/belkins-ces-lineup-is-full-of-next-gen-power-solutions-complete-with-25w-qi22-support?utm_source=rss)<!-- TECH:END -->
+ - [What Andrew Orr&#39;s desk looked like after a year of writing at home in 2025](https://appleinsider.com/articles/26/01/04/what-andrew-orrs-desk-looked-like-after-a-year-of-writing-at-home-in-2025?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

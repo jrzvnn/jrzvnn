@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jackery&#39;s new Explorer 1500 Ultra is a rugged &amp; portable power station](https://appleinsider.com/articles/26/01/04/jackery-unveils-the-explorer-1500-ultra----a-new-rugged-portable-power-station?utm_source=rss)
- - [Three new Matter lights debut from Govee with blended RGBIC at CES 2026](https://appleinsider.com/articles/26/01/04/three-new-matter-lights-debut-from-govee-with-blended-rgbic-at-ces-2026?utm_source=rss)
- - [A profile of June Paik, CEO of Seoul-based chip startup FuriosaAI, valued at ~$700M, whose AI chip dubbed &quot;RNGD&quot; is slated to enter mass production this month &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/260104/p5#a260104p5)
- - [Jackery’s solar-powered Gazebo is a good DIY idea](https://www.theverge.com/tech/852600/jackerys-solar-powered-gazebo-is-a-good-diy-idea)
- - [Govee’s latest smart lights can make your ceiling more interesting](https://www.theverge.com/tech/853006/govee-sky-ceiling-light-ultra-specs)<!-- TECH:END -->
+ - [The wild, intense rise and fall of Flappy Bird](https://www.theverge.com/podcast/853824/flappy-bird-game-version-history)
+ - [You&#39;ll have new ways to charge your gear thanks to Baseus](https://appleinsider.com/articles/26/01/04/youll-have-new-ways-to-charge-your-gear-thanks-to-baseus?utm_source=rss)
+ - [Xreal&#39;s 1S spatial glasses &amp; Neo hub arrive with Real 3D](https://appleinsider.com/articles/26/01/04/xreals-1s-spatial-glasses-neo-hub-arrive-with-real-3d?utm_source=rss)
+ - [Flow 2 robot vacuum anchors Narwal&#39;s CES 2026 product refresh](https://appleinsider.com/articles/26/01/04/flow-2-robot-vacuum-anchors-narwals-ces-2026-product-refresh?utm_source=rss)
+ - [Xreal’s Neo is the best-looking mobile dock for AR glasses](https://www.theverge.com/tech/846376/xreal-neo-specs-switch-2-battery-dock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of us...](http://9gag.com/gag/aVv8RGv)
- - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
- - 💣 [So Solent Green is Chick-fil-A](https://www.reddit.com/r/funny/comments/1q3a6kr/so_solent_green_is_chickfila/)
- - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 👉 [Natalie asks some serious question.](http://9gag.com/gag/aO8OGDE)<!-- MEMES:END -->
+ - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
+ - 😝 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
+ - 💣 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
+ - 😝 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
+ - 👉 [Indians in Vietnam](http://9gag.com/gag/azxzQDb)<!-- MEMES:END -->
 
 ---
 

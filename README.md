@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SwitchBot&#39;s smart home future includes 3D-mapping smart locks, robot assistance](https://appleinsider.com/articles/26/01/04/switchbots-smart-home-future-includes-3d-mapping-smart-locks-robot-assistance?utm_source=rss)
  - [Aliro arrives – the smart lock standard is set to launch this year](https://www.theverge.com/news/854091/aliro-smart-lock-standard-launches-2026-apple-uwb-nfc)
  - [How a crew of crypto-focused hackers moved from SIM swap attacks to coordinated, violent home invasions and kidnappings, targeting small-time crypto investors &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/260104/p10#a260104p10)
  - [LG Brought a Robot That Cooks, Folds Laundry and Empties the Dishwasher to CES](https://www.cnet.com/news/lg-brought-a-robot-that-cooks-folds-laundry-and-empties-the-dishwasher-to-ces/#ftag=CAD590a51e)
- - [Trump Wants Venezuela&#39;s Oil. Getting It Might Not Be So Simple](https://www.wired.com/story/trump-wants-venezuelas-oil-getting-it-might-not-be-so-simple/)
- - [LG says its CLOiD home robot will be folding laundry and making breakfast at CES](https://www.theverge.com/tech/854082/lg-cloid-home-robot-fold-laundry-ces)<!-- TECH:END -->
+ - [Trump Wants Venezuela&#39;s Oil. Getting It Might Not Be So Simple](https://www.wired.com/story/trump-wants-venezuelas-oil-getting-it-might-not-be-so-simple/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

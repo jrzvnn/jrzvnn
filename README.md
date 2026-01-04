@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US immigration lawyers, talent managers, and creators say influencers and OnlyFans models now dominate O-1B visas, which are reserved for &quot;exceptional&quot; artists &lpar;Ian Hodgson/Financial Times&rpar;](http://www.techmeme.com/260104/p11#a260104p11)
  - [CES 2026 Live: Tech&#39;s Big Event Kicks Off From Las Vegas](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
  - [Matter is front-and-center in Xthing&#39;s new lineup of smart locks](https://appleinsider.com/articles/26/01/04/matter-is-front-and-center-in-xthings-new-lineup-of-smart-locks?utm_source=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 5, #939](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-5-939/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 5 #673](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-5-673/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 5, #1661](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-5-1661/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 5 #673](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-5-673/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

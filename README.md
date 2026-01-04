@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protein Bars: Gluten-Free, Whole Foods, Fiber &lpar;2026&rpar;](https://www.wired.com/story/best-protein-bars/)
  - [8 WhatsApp Features to Boost Your Security and Privacy](https://www.wired.com/story/5-features-that-boost-security-and-privacy-on-whatsapp/)
  - [You’ve Got a Public Reddit Profile. Here’s How to Curate It](https://www.wired.com/story/how-to-curate-your-public-reddit-profile/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 4, #938](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-4-938/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 4 #672](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-4-672/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 4, #468](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-4-468/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 4 #672](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-4-672/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

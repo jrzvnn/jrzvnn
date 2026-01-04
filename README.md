@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When it&#39;s 6 am and Delta Force starts banging your door](http://9gag.com/gag/a7oBAP2)
- - 😝 [Signs of my next life](http://9gag.com/gag/a0eGx6v)
- - 💣 [The best kind of failure](http://9gag.com/gag/a1mnx82)
- - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
- - 👉 [That was personal](http://9gag.com/gag/aKGyLQ3)<!-- MEMES:END -->
+ - 😝 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
+ - 😝 [...](http://9gag.com/gag/a5QA5XL)
+ - 💣 [100% winning rate](http://9gag.com/gag/apRXV8E)
+ - 😝 [Master of strategy](http://9gag.com/gag/aMV6WoM)
+ - 👉 [Fatigue](http://9gag.com/gag/amoypZV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PDAs, Tube TVs and $13,000 VCRs: How CES Jump-Starts the Tech of Tomorrow](https://www.cnet.com/tech/home-entertainment/features/back-to-the-tech-future-the-history-of-ces-in-four-iconic-gadgets/#ftag=CAD590a51e)
  - [Jackery&#39;s new Explorer 1500 Ultra is a rugged &amp; portable power station](https://appleinsider.com/articles/26/01/04/jackery-unveils-the-explorer-1500-ultra----a-new-rugged-portable-power-station?utm_source=rss)
  - [Three new Matter lights debut from Govee with blended RGBIC at CES 2026](https://appleinsider.com/articles/26/01/04/three-new-matter-lights-debut-from-govee-with-blended-rgbic-at-ces-2026?utm_source=rss)
  - [A profile of June Paik, CEO of Seoul-based chip startup FuriosaAI, valued at ~$700M, whose AI chip dubbed &quot;RNGD&quot; is slated to enter mass production this month &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/260104/p5#a260104p5)
- - [Jackery’s solar-powered Gazebo is a good DIY idea](https://www.theverge.com/tech/852600/jackerys-solar-powered-gazebo-is-a-good-diy-idea)
- - [Govee’s latest smart lights can make your ceiling more interesting](https://www.theverge.com/tech/853006/govee-sky-ceiling-light-ultra-specs)<!-- TECH:END -->
+ - [Jackery’s solar-powered Gazebo is a good DIY idea](https://www.theverge.com/tech/852600/jackerys-solar-powered-gazebo-is-a-good-diy-idea)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

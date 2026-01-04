@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Signs of my next life](http://9gag.com/gag/a0eGx6v)
- - 😝 [The best kind of failure](http://9gag.com/gag/a1mnx82)
- - 💣 [Fatigue](http://9gag.com/gag/amoypZV)
- - 😝 [Master of strategy](http://9gag.com/gag/aMV6WoM)
- - 👉 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)<!-- MEMES:END -->
+ - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
+ - 😝 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
+ - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
+ - 😝 [We&#39;re not even a week into 2026!](http://9gag.com/gag/ajPjddp)
+ - 👉 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Xreal&#39;s Neo, a $99 battery pack and mini-dock that acts as a passthrough converter so the company&#39;s glasses can work with the Nintendo Switch &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/260104/p7#a260104p7)
+ - [Xreal unveils the $449 1S, a pair of AR glasses with 1200p, 700 nits brightness, 52 degree FOV, and 16:10 aspect ratio; the 1S can convert any 2D video into 3D &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/260104/p6#a260104p6)
  - [How a New Fridge With Built-In Barcode Scanner Could Change Grocery Shopping Forever](https://www.cnet.com/news/how-a-new-fridge-with-built-in-barcode-scanner-could-change-grocery-shopping-forever/#ftag=CAD590a51e)
  - [Jackery&#39;s new Explorer 1500 Ultra is a rugged &amp; portable power station](https://appleinsider.com/articles/26/01/04/jackery-unveils-the-explorer-1500-ultra----a-new-rugged-portable-power-station?utm_source=rss)
- - [Premier League Soccer: Stream Fulham vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-fulham-vs-liverpool-live-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Man City vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)
- - [The wild, intense rise and fall of Flappy Bird](https://www.theverge.com/podcast/853824/flappy-bird-game-version-history)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Fulham vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-fulham-vs-liverpool-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

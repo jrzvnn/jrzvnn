@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
- - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
  - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 😝 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
+ - 💣 [...](http://9gag.com/gag/a5QA5XL)
+ - 😝 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
  - 👉 [One of us...](http://9gag.com/gag/aVv8RGv)<!-- MEMES:END -->
 
 ---

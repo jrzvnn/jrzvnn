@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/a5QA5XL)
- - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
- - 💣 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
- - 👉 [100% winning rate](http://9gag.com/gag/apRXV8E)<!-- MEMES:END -->
+ - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
+ - 😝 [100% winning rate](http://9gag.com/gag/apRXV8E)
+ - 💣 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 😝 [Bullet dodged.](http://9gag.com/gag/amoyboo)
+ - 👉 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)<!-- MEMES:END -->
 
 ---
 

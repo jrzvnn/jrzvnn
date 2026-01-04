@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SwitchBot says its humanoid household robot can do your laundry](https://www.theverge.com/news/852741/switchbot-onero-h1-humanoid-household-robot-ces-2026)
- - [You can unlock SwitchBot’s first deadbolt smart lock with your face](https://www.theverge.com/tech/852978/switchbot-lock-vision-deadbolt-facial-recognition)
- - [SwitchBot’s new E Ink display seems great for weather nerds](https://www.theverge.com/news/853042/switchbot-weather-station-e-ink-screen)
- - [SwitchBot’s AI audio recorder is a ‘second brain’ for memories](https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement)
- - [SwitchBot’s AI-powered desk light looks like a pixel-art snow globe](https://www.theverge.com/tech/853234/switchbot-obboto-ai-globe-desk-light-ces-2026)<!-- TECH:END -->
+ - [Belkin&#39;s CES lineup is full of next-gen power solutions, complete with 25W Qi2.2 support](https://appleinsider.com/articles/26/01/04/belkins-ces-lineup-is-full-of-next-gen-power-solutions-complete-with-25w-qi22-support?utm_source=rss)
+ - [You can charge the battery in Belkin’s new Switch 2 power case without opening it](https://www.theverge.com/tech/849332/belkin-charging-case-pro-nintendo-switch-2-battery)
+ - [Belkin’s new 3-in-1 charging dock isn’t limited to the Apple Watch](https://www.theverge.com/tech/849759/belkin-ultracharge-modular-charging-dock-pro-power-bank-10-magnetic-ring-smartwatch)
+ - [Belkin’s new HDMI adapter wirelessly connects to screens over 130 feet away](https://www.theverge.com/tech/849948/belkin-connectair-wireless-hdmi-display-adapter-usb-c-plug-and-play)
+ - [Plaud updates the NotePin with a button](https://www.theverge.com/tech/851393/plaud-notepin-s-desktop-app-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

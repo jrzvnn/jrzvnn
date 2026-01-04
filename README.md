@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mr Signh at Crimbo](https://www.reddit.com/r/funny/comments/1q3mnog/mr_signh_at_crimbo/)
- - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
- - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
+ - 😝 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
  - 😝 [...](http://9gag.com/gag/a5QA5XL)
+ - 💣 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
+ - 😝 [Rio&#39;s New Year&#39;s Eve drone show was absolutely breathtaking](http://9gag.com/gag/aAy7mqL)
  - 👉 [Fatigue](http://9gag.com/gag/amoypZV)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
- - 😝 [...](http://9gag.com/gag/a5QA5XL)
- - 💣 [100% winning rate](http://9gag.com/gag/apRXV8E)
+ - 😝 [Signs of my next life](http://9gag.com/gag/a0eGx6v)
+ - 😝 [The best kind of failure](http://9gag.com/gag/a1mnx82)
+ - 💣 [Fatigue](http://9gag.com/gag/amoypZV)
  - 😝 [Master of strategy](http://9gag.com/gag/aMV6WoM)
- - 👉 [Fatigue](http://9gag.com/gag/amoypZV)<!-- MEMES:END -->
+ - 👉 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)<!-- MEMES:END -->
 
 ---
 

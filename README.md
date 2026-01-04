@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Signs of my next life](http://9gag.com/gag/a0eGx6v)
- - 😝 [Fatigue](http://9gag.com/gag/amoypZV)
- - 💣 [The best kind of failure](http://9gag.com/gag/a1mnx82)
+ - 😝 [The hero](http://9gag.com/gag/aE0bQZo)
+ - 😝 [Job of an elementary teacher. - This is from the Philippines.](http://9gag.com/gag/avyVmQE)
+ - 💣 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
  - 😝 [New logo](http://9gag.com/gag/avyVDNX)
- - 👉 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)<!-- MEMES:END -->
+ - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
 
 ---
 

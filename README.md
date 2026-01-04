@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG says its CLOiD home robot will be folding laundry and making breakfast at CES](https://www.theverge.com/tech/854082/lg-cloid-home-robot-fold-laundry-ces)
  - [What Andrew Orr&#39;s desk looked like after a year of writing at home in 2025](https://appleinsider.com/articles/26/01/04/what-andrew-orrs-desk-looked-like-after-a-year-of-writing-at-home-in-2025?utm_source=rss)
  - [Sources: Palo Alto Networks is in talks to acquire Israeli cybersecurity startup Koi for $400M; Koi has raised $48M to date &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/260104/p9#a260104p9)
  - [Belkin&#39;s CES lineup is full of next-gen power solutions, complete with 25W Qi2.2 support](https://appleinsider.com/articles/26/01/04/belkins-ces-lineup-is-full-of-next-gen-power-solutions-complete-with-25w-qi22-support?utm_source=rss)
- - [Belkin&#39;s CES 2026 Lineup Can Keep Your Phone Charged for Days &lpar;and Protect Its Screen, Too&rpar;](https://www.cnet.com/tech/mobile/belkins-ces-2026-lineup-can-keep-your-phone-charged-for-days-and-protect-its-screen-too/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Belkin&#39;s CES 2026 Lineup Can Keep Your Phone Charged for Days &lpar;and Protect Its Screen, Too&rpar;](https://www.cnet.com/tech/mobile/belkins-ces-2026-lineup-can-keep-your-phone-charged-for-days-and-protect-its-screen-too/#ftag=CAD590a51e)
+ - [My CES 2026 Secret Weapon? This New Wearable AI Note-Taking Pin From Plaud](https://www.cnet.com/tech/services-and-software/plauds-newest-wearable-ai-notetaker-is-my-ces-2026-secret-weapon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

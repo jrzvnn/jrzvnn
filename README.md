@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Archaeologist Khaled Al-Asaad dedicated his life to the excavation and preservation of Palmyra, a UNESCO World Heritage Site. After enduring weeks of torture, he was beheaded by ISIS for refusing to reveal the location of ancient artifacts. He died a hero of heritage protection.](http://9gag.com/gag/ayNAVrV)
- - 😝 [Bullet dodged.](http://9gag.com/gag/amoyboo)
- - 💣 [Habibi](http://9gag.com/gag/aYQBZpx)
- - 😝 [Good luck in this year for all frog men](http://9gag.com/gag/awyDPYB)
- - 👉 [`Do as I do`](http://9gag.com/gag/aPA0zMQ)<!-- MEMES:END -->
+ - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 💣 [Bad ride](http://9gag.com/gag/ayNAZjq)
+ - 😝 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)
+ - 👉 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)<!-- MEMES:END -->
 
 ---
 

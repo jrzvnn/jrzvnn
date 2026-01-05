@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Amazon launches Alexa+ in early access for all users via a new web interface at Alexa.com and now lets users upload documents, emails, and images &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260105/p20#a260105p20)
  - [Amazon unveils a Fire TV UI redesign with rounded corners, 20 app slots, and Alexa+ integration, and launches $899+ Ember Artline TV series with colorful frames &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260105/p19#a260105p19)
  - [India has exported $50 billion worth of iPhones in five years](https://appleinsider.com/articles/26/01/05/india-has-exported-50-billion-worth-of-iphones-in-five-years?utm_source=rss)
- - [Amazon Reinvents 4K Range with Ember Artline TV](https://www.cnet.com/tech/home-entertainment/amazon-ember-artline-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kwikset&#39;s new Aura Reach Matter smart lock installs simply &amp; is cost-effective](https://appleinsider.com/articles/26/01/05/kwiksets-new-aura-reach-matter-smart-lock-installs-simply-is-cost-effective?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

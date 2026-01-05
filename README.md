@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 😝 [Screw me.](http://9gag.com/gag/a0eGWoB)
  - 😝 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
  - 💣 [Blind npc...](http://9gag.com/gag/ae9EdEB)
  - 😝 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)

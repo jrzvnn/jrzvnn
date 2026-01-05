@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CES Live Blog, Day 1: The Coolest Tech We’ve Seen So Far](https://www.wired.com/live/ces-2026-live-blog/)
+ - [At CES 2026, Everything Is AI. What Matters Is How You Use It](https://www.wired.com/story/ces-2026-what-to-expect/)
+ - [Sources: Shanghai-based AI startup MiniMax plans to price its Hong Kong IPO at ~$21, the top of its marketed range, and will stop taking orders a day early &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260105/p9#a260105p9)
  - [Foxconn reports Q4 revenue up 22% YoY to ~$82.7B, above ~$77B est., and record December revenue up 31.8% YoY to ~$27.5B, driven by AI and networking demand &lpar;Reuters&rpar;](http://www.techmeme.com/260105/p8#a260105p8)
- - [I Switched to eSIM, and I Am Full of Regret](https://www.wired.com/story/i-switched-to-esim-and-i-am-full-of-regret/)
- - [Chinese automotive chipmaker Black Sesame says its Huashan A2000 chip passed the US Commerce and Defense Departments&#39; &quot;relevant reviews&quot; for global sales &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/260105/p7#a260105p7)
- - [A profile of Max Tegmark, the physicist pushing to halt AGI development, who was subpoenaed by OpenAI over the Future of Life Institute&#39;s past ties to Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260105/p6#a260105p6)
- - [Flu Is Relentless. Crispr Might Be Able to Shut It Down](https://www.wired.com/story/crispr-flu-antivirals/)<!-- TECH:END -->
+ - [I Switched to eSIM, and I Am Full of Regret](https://www.wired.com/story/i-switched-to-esim-and-i-am-full-of-regret/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

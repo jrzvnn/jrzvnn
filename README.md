@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel details its 2nm 18A-process Panther Lake chips, showing major performance gains; laptops with Panther Lake Core Ultra Series 3 chips will debut on Jan. 27 &lpar;Michael Justin Allen Sexton/PCMag&rpar;](http://www.techmeme.com/260105/p30#a260105p30)
  - [Dell brings back XPS branding with the new XPS 14 and 16 laptops, which address some complaints about the previous XPS design but lack dedicated GPU support &lpar;Rich Woods/XDA Developers&rpar;](http://www.techmeme.com/260105/p29#a260105p29)
+ - [Study Shows Teens Use Phones More Than an Hour a Day at School](https://www.cnet.com/tech/mobile/study-shows-teens-use-phones-more-than-an-hour-a-day-at-school/#ftag=CAD590a51e)
  - [Nvidia launches the Vera Rubin platform, saying it will offer dramatic reductions in inference and training costs compared to Blackwell, across six new chips &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260105/p28#a260105p28)
- - [Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’](https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/)
- - [The MSI Crosshair 16 Max HX features a slimmer chassis and stronger specs](https://www.theverge.com/news/850944/ces-2026-msi-crosshair-16-max)
- - [HyperX’s 2026 gaming monitor lineup includes a 500Hz QD-OLED](https://www.theverge.com/tech/845706/hyperx-qdoled-500hz-v-stripe-curved-specs)<!-- TECH:END -->
+ - [Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’](https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

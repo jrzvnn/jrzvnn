@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OneDrive really out here deleting files like it&#39;s a game](http://9gag.com/gag/axy8Q9Y)
- - 😝 [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
- - 💣 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
- - 😝 [If only they had used their electronic genius for good instead of evil...](http://9gag.com/gag/aGyq6vG)
- - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
+ - 😝 [Rome - the cradle of western architecture and culture.](http://9gag.com/gag/aO8ONnD)
+ - 😝 [Finally someone said it](http://9gag.com/gag/aD2LNBx)
+ - 💣 [You know what](http://9gag.com/gag/a879Qqp)
+ - 😝 [Archaeologist Khaled Al-Asaad dedicated his life to the excavation and preservation of Palmyra, a UNESCO World Heritage Site. After enduring weeks of torture, he was beheaded by ISIS for refusing to reveal the location of ancient artifacts. He died a hero of heritage protection.](http://9gag.com/gag/ayNAVrV)
+ - 👉 [Real-world mad Max. Except more like guardian angel Max](http://9gag.com/gag/aNDX8K4)<!-- MEMES:END -->
 
 ---
 

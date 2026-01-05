@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rome - the cradle of western architecture and culture.](http://9gag.com/gag/aO8ONnD)
- - 😝 [Finally someone said it](http://9gag.com/gag/aD2LNBx)
- - 💣 [You know what](http://9gag.com/gag/a879Qqp)
- - 😝 [Archaeologist Khaled Al-Asaad dedicated his life to the excavation and preservation of Palmyra, a UNESCO World Heritage Site. After enduring weeks of torture, he was beheaded by ISIS for refusing to reveal the location of ancient artifacts. He died a hero of heritage protection.](http://9gag.com/gag/ayNAVrV)
- - 👉 [Real-world mad Max. Except more like guardian angel Max](http://9gag.com/gag/aNDX8K4)<!-- MEMES:END -->
+ - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
+ - 😝 [Vuvuzela](http://9gag.com/gag/apRXjqM)
+ - 💣 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 👉 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Studio&#39; helps Apple TV net seven Critics Choice Awards](https://appleinsider.com/articles/26/01/05/the-studio-helps-apple-tv-net-seven-critics-choice-awards?utm_source=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Apple-backed smart lock standard Aliro is launching shortly](https://appleinsider.com/articles/26/01/05/apple-backed-smart-lock-standard-aliro-is-launching-shortly?utm_source=rss)
  - [Apple&#39;s M5 MacBook Pro drops to $1,399 &lpar;$200 off&rpar; as CES 2026 kicks off](https://appleinsider.com/articles/26/01/05/apples-m5-macbook-pro-drops-to-1399-200-off-as-ces-2026-kicks-off?utm_source=rss)
- - [Transform your charging with Anker&#39;s new lineup at CES 2026](https://appleinsider.com/articles/26/01/05/transform-your-charging-with-ankers-new-lineup-at-ces-2026?utm_source=rss)
- - [Keep your home warm with the Google Nest Learning Thermostat, now only $230](https://www.theverge.com/gadgets/854979/google-nest-thermometer-8bitdo-everboom-deals-sale)
- - [How Docker can help you run apps on your Mac](https://appleinsider.com/inside/macos/tips/how-docker-can-help-you-run-apps-on-your-mac?utm_source=rss)
- - [8BitDo’s new wireless Xbox controller has swappable ABXY button switches](https://www.theverge.com/tech/848331/8bitdo-ultimate-3e-controller-xbox-wireless-tmr-swappable-joysticks)<!-- TECH:END -->
+ - [Transform your charging with Anker&#39;s new lineup at CES 2026](https://appleinsider.com/articles/26/01/05/transform-your-charging-with-ankers-new-lineup-at-ces-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

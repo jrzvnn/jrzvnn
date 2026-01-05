@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best gear and gadgets from CES Unveiled 2026](https://appleinsider.com/articles/26/01/05/the-best-gear-and-gadgets-from-ces-unveiled-2026?utm_source=rss)
- - [Amazon launches Alexa+ in early access for all users via a new web interface at Alexa.com and now lets users upload documents, emails, and images &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260105/p20#a260105p20)
- - [Amazon unveils a Fire TV UI redesign with rounded corners, 20 app slots, and Alexa+ integration, and launches $899+ Ember Artline TV series with colorful frames &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260105/p19#a260105p19)
- - [India has exported $50 billion worth of iPhones in five years](https://appleinsider.com/articles/26/01/05/india-has-exported-50-billion-worth-of-iphones-in-five-years?utm_source=rss)
- - [Kwikset&#39;s new Aura Reach Matter smart lock installs simply &amp; is cost-effective](https://appleinsider.com/articles/26/01/05/kwiksets-new-aura-reach-matter-smart-lock-installs-simply-is-cost-effective?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s M5 MacBook Pro drops to $1,399 &lpar;$200 off&rpar; as CES 2026 kicks off](https://appleinsider.com/articles/26/01/05/apples-m5-macbook-pro-drops-to-1399-200-off-as-ces-2026-kicks-off?utm_source=rss)
+ - [Transform your charging with Anker&#39;s new lineup at CES 2026](https://appleinsider.com/articles/26/01/05/transform-your-charging-with-ankers-new-lineup-at-ces-2026?utm_source=rss)
+ - [Keep your home warm with the Google Nest Learning Thermostat, now only $230](https://www.theverge.com/gadgets/854979/google-nest-thermometer-8bitdo-everboom-deals-sale)
+ - [How Docker can help you run apps on your Mac](https://appleinsider.com/inside/macos/tips/how-docker-can-help-you-run-apps-on-your-mac?utm_source=rss)
+ - [8BitDo’s new wireless Xbox controller has swappable ABXY button switches](https://www.theverge.com/tech/848331/8bitdo-ultimate-3e-controller-xbox-wireless-tmr-swappable-joysticks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

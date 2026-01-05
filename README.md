@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JBL expands open-ear lineup with new buds coming to the US in March](https://www.theverge.com/tech/852021/jbl-open-ear-earbuds-ces-2026)
+ - [JBL expands Endurance workout line with four new earbuds](https://www.theverge.com/tech/853331/jbl-endurance-workout-earbuds-ces-2026)
+ - [Shure&#39;s MV88 Microphone revival plugs into iPhone USB-C port](https://appleinsider.com/articles/26/01/05/shures-mv88-microphone-revival-plugs-into-iphone-usb-c-port?utm_source=rss)
  - [OpenAI says 40M+ Americans turn to ChatGPT daily for health information, per an analysis of anonymized interactions, seeing it as an &quot;ally&quot; for health care &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260105/p14#a260105p14)
- - [African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/260105/p13#a260105p13)
- - [‘Shogun’ Creator Says Season 2 ‘Defies Expectations’](https://www.wired.com/story/shogun-creator-says-season-2-defies-expectations/)
- - [Magnesium Supplements Crash Course &lpar;2026&rpar;: Benefits and Side Effects](https://www.wired.com/story/what-are-magnesium-supplements-good-for/)
- - [New 8BitDo FlipPad is a minimalist controller for iPhone gamers](https://appleinsider.com/articles/26/01/05/new-8bitdo-flippad-is-a-minimalist-controller-for-iphone-gamers?utm_source=rss)<!-- TECH:END -->
+ - [African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/260105/p13#a260105p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

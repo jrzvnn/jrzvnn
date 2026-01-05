@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink says it is providing free broadband service to new and existing customers in Venezuela through February 3, 2026 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260104/p14#a260104p14)
- - [I just want to keep unfolding the Samsung Z Trifold](https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on)
- - [My Favorite CES Product Might be This Ingenious Wireless Smart Lock](https://www.cnet.com/home/security/smart-lock-battery-replacement-optical-wireless-charging-ces-2026/#ftag=CAD590a51e)
- - [CES 2026 Live: Tech&#39;s Big Event Kicks Off From Las Vegas](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [Samsung Massive MicroRGB is a TV For the Billionaire in Your Life](https://www.cnet.com/tech/home-entertainment/samsung-goes-ultra-premium-with-massive-microrgb-television/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung upgrades its Family Hub refrigerators with AI features, such as voice control to open and close the door and Gemini-powered AI Vision to track inventory &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/260105/p1#a260105p1)
+ - [Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners](https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026)
+ - [Samsung co-CEO TM Roh says the company has rolled out Gemini-powered AI features to ~400M mobile devices by 2025, and aims to boost the figure to 800M in 2026 &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260104/p15#a260104p15)
+ - [This New Breastfeeding Monitor Would Have Helped My Preemie Baby](https://www.cnet.com/health/parenting/this-new-breastfeeding-monitor-would-have-helped-my-preemie-baby/#ftag=CAD590a51e)
+ - [Starlink says it is providing free broadband service to new and existing customers in Venezuela through February 3, 2026 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260104/p14#a260104p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

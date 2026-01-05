@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
- - 😝 [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
- - 💣 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 😝 [You know what](http://9gag.com/gag/a879Qqp)
- - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
+ - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 😝 [Blind npc...](http://9gag.com/gag/ae9EdEB)
+ - 💣 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 😝 [Bullet dodged.](http://9gag.com/gag/amoyboo)
+ - 👉 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)<!-- MEMES:END -->
 
 ---
 

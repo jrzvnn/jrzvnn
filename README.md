@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL expands open-ear lineup with new buds coming to the US in March](https://www.theverge.com/tech/852021/jbl-open-ear-earbuds-ces-2026)
- - [JBL expands Endurance workout line with four new earbuds](https://www.theverge.com/tech/853331/jbl-endurance-workout-earbuds-ces-2026)
- - [Shure&#39;s MV88 Microphone revival plugs into iPhone USB-C port](https://appleinsider.com/articles/26/01/05/shures-mv88-microphone-revival-plugs-into-iphone-usb-c-port?utm_source=rss)
- - [OpenAI says 40M+ Americans turn to ChatGPT daily for health information, per an analysis of anonymized interactions, seeing it as an &quot;ally&quot; for health care &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260105/p14#a260105p14)
- - [CES 2026 Live: Tech&#39;s Big Event Kicks Off From Las Vegas](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google plans to integrate Nano Banana and Veo support into Gemini on Google TV, letting users generate AI videos and modify family photos, first on TCL TVs &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260105/p15#a260105p15)
+ - [ShiftCam ProRig iPhone filming cage aims to seriously boost your video](https://appleinsider.com/articles/26/01/05/shiftcam-prorig-iphone-filming-cage-aims-to-seriously-boost-your-video?utm_source=rss)
+ - [GE Lighting&#39;s new smart shades are compatible with Matter &amp; Apple Home](https://appleinsider.com/articles/26/01/05/ge-lightings-new-smart-shades-are-compatible-with-matter-apple-home?utm_source=rss)
+ - [Charge your iPhone in style with Twelve South&#39;s new Napa leather valet station](https://appleinsider.com/articles/26/01/05/charge-your-iphone-in-style-with-twelve-souths-new-napa-leather-valet-station?utm_source=rss)
+ - [Lockly’s new smart locks will support Matter and NFC](https://www.theverge.com/tech/851157/lockly-smart-lock-matter-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

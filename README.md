@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Limited-edition Year of the Horse AirPods Pro 3 go on sale in China](https://appleinsider.com/articles/26/01/05/limited-edition-year-of-the-horse-airpods-pro-3-go-on-sale-in-china?utm_source=rss)
- - [Narwal’s New Robot Vacuum at CES Promises Massively Improved Object Avoidance, But I Have My Doubts](https://www.cnet.com/home/smart-home/narwals-new-robot-vacuum-at-ces-promises-massively-improved-object-avoidance-but-i-have-my-doubts/#ftag=CAD590a51e)
- - [Lego unveils the Smart Play platform, with a brick powered by a custom chip that connects to compatible minifigures and tags for interactive lights and sounds &lpar;Jeremy White/Wired&rpar;](http://www.techmeme.com/260105/p25#a260105p25)
- - [A Small Device Unveiled at CES Tells You Instantly If There&#39;s Gluten in Your Food &lpar;No, Really&rpar;](https://www.cnet.com/health/nutrition/this-small-device-unveiled-at-ces-tells-you-if-theres-gluten-in-your-food-no-really/#ftag=CAD590a51e)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A live blog of Nvidia&#39;s keynote with CEO Jensen Huang at CES 2026, where the company is showcasing AI, robotics, simulation, gaming, and more &lpar;Katie Teague/Engadget&rpar;](http://www.techmeme.com/260105/p26#a260105p26)
+ - [Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/)
+ - [Boston Dynamics’ Tesla Bot rival Atlas will start building Hyundai cars in 2028](https://www.theverge.com/news/853973/hyundai-boston-dynamics-atlas-robot-factory-2028)
+ - [This smart mirror was a menace at CES 2026](https://www.theverge.com/tech/855540/nuralogix-longevity-mirror-health-tech-ces-2026)
+ - [Limited-edition Year of the Horse AirPods Pro 3 go on sale in China](https://appleinsider.com/articles/26/01/05/limited-edition-year-of-the-horse-airpods-pro-3-go-on-sale-in-china?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

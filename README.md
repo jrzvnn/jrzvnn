@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
  - 😝 [Screw me.](http://9gag.com/gag/a0eGWoB)
- - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
- - 💣 [Before and after](http://9gag.com/gag/aAy7N2p)
- - 😝 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
- - 👉 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)<!-- MEMES:END -->
+ - 💣 [Here we go](http://9gag.com/gag/a1mnw6w)
+ - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
 
 ---
 

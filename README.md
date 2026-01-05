@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $170 on AirPods &amp; Beats, with prices from $99](https://appleinsider.com/articles/26/01/04/save-up-to-170-on-airpods-beats-with-prices-from-99?utm_source=rss)
- - [CES 2026 Live: Tech&#39;s Big Event Kicks Off From Las Vegas](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [US immigration lawyers, talent managers, and creators say influencers and OnlyFans models now dominate O-1B visas, which are reserved for &quot;exceptional&quot; artists &lpar;Ian Hodgson/Financial Times&rpar;](http://www.techmeme.com/260104/p11#a260104p11)
- - [CES 2026: The Defining Tech to Expect From The World&#39;s Biggest Tech Show](https://www.cnet.com/tech/ces-2026-preview-expectations/#ftag=CAD590a51e)
- - [Matter is front-and-center in Xthing&#39;s new lineup of smart locks](https://appleinsider.com/articles/26/01/04/matter-is-front-and-center-in-xthings-new-lineup-of-smart-locks?utm_source=rss)<!-- TECH:END -->
+ - [Plaud launches the $179 Plaud NotePin S AI recorder, similar to the $159 NotePin but with a button, alongside a new desktop app for recording meeting audio &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260104/p12#a260104p12)
+ - [Lutron&#39;s new wooden shades work with Apple Home and tilt with the sun](https://appleinsider.com/articles/26/01/05/lutrons-new-wooden-shades-work-with-apple-home-and-tilt-with-the-sun?utm_source=rss)
+ - [Mammotion’s flagship robot lawnmower now uses lidar to map your yard](https://www.theverge.com/news/850763/mammotion-luba-3-awd-robot-lawnmower-lidar-ces-2026)
+ - [Lockin’s new vein-scanning smart lock has a video doorbell and recharges wirelessly](https://www.theverge.com/tech/851239/lockin-v7-max-optical-wireless-palm-vein-smart-lock-video-doorbell)
+ - [The Mui Board will support mmWave sleep tracking and gesture control](https://www.theverge.com/tech/853435/mui-board-mmwave-sleep-tracking-gesture-control)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

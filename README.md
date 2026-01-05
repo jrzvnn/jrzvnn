@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
- - 😝 [Blind npc...](http://9gag.com/gag/ae9EdEB)
- - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
- - 😝 [You know what](http://9gag.com/gag/a879Qqp)
- - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
+ - 😝 [Screw me.](http://9gag.com/gag/a0eGWoB)
+ - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 💣 [Blind npc...](http://9gag.com/gag/ae9EdEB)
+ - 😝 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
+ - 👉 [Vuvuzela](http://9gag.com/gag/apRXjqM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plaud launches the $179 Plaud NotePin S AI recorder, similar to the $159 NotePin but with a button, alongside a new desktop app for recording meeting audio &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260104/p12#a260104p12)
- - [Lutron&#39;s new wooden shades work with Apple Home and tilt with the sun](https://appleinsider.com/articles/26/01/05/lutrons-new-wooden-shades-work-with-apple-home-and-tilt-with-the-sun?utm_source=rss)
- - [Mammotion’s flagship robot lawnmower now uses lidar to map your yard](https://www.theverge.com/news/850763/mammotion-luba-3-awd-robot-lawnmower-lidar-ces-2026)
- - [Lockin’s new vein-scanning smart lock has a video doorbell and recharges wirelessly](https://www.theverge.com/tech/851239/lockin-v7-max-optical-wireless-palm-vein-smart-lock-video-doorbell)
- - [The Mui Board will support mmWave sleep tracking and gesture control](https://www.theverge.com/tech/853435/mui-board-mmwave-sleep-tracking-gesture-control)<!-- TECH:END -->
+ - [PwC&#39;s US boss Paul Griggs says PwC decided to &quot;lean in&quot; to crypto work after years of taking a more cautious stance, following Trump&#39;s embrace of digital assets &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/260104/p13#a260104p13)
+ - [Shut the fridge door!](https://www.theverge.com/tech/853758/shut-the-fridge-door)
+ - [LG’s Wallpaper OLED TV returns to CES, and it’s wafer thin](https://www.theverge.com/tech/853886/lgs-wallpaper-oled-tv-returns-to-ces-and-its-wafer-thin)
+ - [Finally, I&#39;ve Found a Worthy Successor to the Iconic &#39;90s Tamagotchi](https://www.cnet.com/tech/computing/finally-ive-found-a-worthy-successor-to-the-iconic-90s-tamagotchi/#ftag=CAD590a51e)
+ - [CES 2026 Live: Tech&#39;s Big Event Kicks Off From Las Vegas](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

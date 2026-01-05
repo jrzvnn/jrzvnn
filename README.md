@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was personal](http://9gag.com/gag/aKGyLQ3)
- - 😝 [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
- - 💣 [Here we go](http://9gag.com/gag/a1mnw6w)
- - 😝 [100% winning rate](http://9gag.com/gag/apRXV8E)
- - 👉 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)<!-- MEMES:END -->
+ - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
+ - 💣 [7 and you?](http://9gag.com/gag/aAy7m8g)
+ - 😝 [Bullet dodged.](http://9gag.com/gag/amoyboo)
+ - 👉 [100% winning rate](http://9gag.com/gag/apRXV8E)<!-- MEMES:END -->
 
 ---
 

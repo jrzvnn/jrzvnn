@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That was personal](http://9gag.com/gag/aKGyLQ3)
  - 😝 [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
- - 😝 [That&#39;s all folks](http://9gag.com/gag/ae9Eddm)
- - 💣 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
- - 😝 [Finally someone said it](http://9gag.com/gag/aD2LNBx)
- - 👉 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)<!-- MEMES:END -->
+ - 💣 [That&#39;s all folks](http://9gag.com/gag/ae9Eddm)
+ - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
+ - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
 
 ---
 

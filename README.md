@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor&#39;s Audacious Robot Phone Is Real and I Just Got a First Glimpse](https://www.cnet.com/tech/mobile/honor-shows-off-robot-phone-at-ces-2026/#ftag=CAD590a51e)
  - [Taiwan says China&#39;s cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks a day &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/260105/p2#a260105p2)
  - [This robot companion is a cameraman for your pet](https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets)
  - [Samsung upgrades its Family Hub refrigerators with AI features, such as voice control to open and close the door and Gemini-powered AI Vision to track inventory &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/260105/p1#a260105p1)
- - [Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners](https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026)<!-- TECH:END -->
+ - [Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners](https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026)
+ - [Samsung co-CEO TM Roh says the company has rolled out Gemini-powered AI features to ~400M mobile devices and aims to boost the figure to 800M in 2026 &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260104/p15#a260104p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

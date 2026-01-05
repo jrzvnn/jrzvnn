@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [JBL expands Endurance workout line with four new earbuds](https://www.theverge.com/tech/853331/jbl-endurance-workout-earbuds-ces-2026)
  - [Shure&#39;s MV88 Microphone revival plugs into iPhone USB-C port](https://appleinsider.com/articles/26/01/05/shures-mv88-microphone-revival-plugs-into-iphone-usb-c-port?utm_source=rss)
  - [OpenAI says 40M+ Americans turn to ChatGPT daily for health information, per an analysis of anonymized interactions, seeing it as an &quot;ally&quot; for health care &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260105/p14#a260105p14)
- - [African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/260105/p13#a260105p13)<!-- TECH:END -->
+ - [CES 2026 Live: Tech&#39;s Big Event Kicks Off From Las Vegas](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

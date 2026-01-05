@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwanese prosecutors file additional indictments against Tokyo Electron&#39;s Taiwan unit and three other defendants over the alleged theft of TSMC trade secrets &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260105/p11#a260105p11)
+ - [CES 2026: self-driving truck company Kodiak partners with Bosch to develop a hardware and software system to turn standard semi-trucks into autonomous vehicles &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260105/p10#a260105p10)
  - [CES Live Blog, Day 1: The Coolest Tech We’ve Seen So Far](https://www.wired.com/live/ces-2026-live-blog/)
  - [At CES 2026, Everything Is AI. What Matters Is How You Use It](https://www.wired.com/story/ces-2026-what-to-expect/)
- - [Sources: Shanghai-based AI startup MiniMax plans to price its Hong Kong IPO at ~$21, the top of its marketed range, and will stop taking orders a day early &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260105/p9#a260105p9)
- - [Foxconn reports Q4 revenue up 22% YoY to ~$82.7B, above ~$77B est., and record December revenue up 31.8% YoY to ~$27.5B, driven by AI and networking demand &lpar;Reuters&rpar;](http://www.techmeme.com/260105/p8#a260105p8)
- - [I Switched to eSIM, and I Am Full of Regret](https://www.wired.com/story/i-switched-to-esim-and-i-am-full-of-regret/)<!-- TECH:END -->
+ - [Sources: Shanghai-based AI startup MiniMax plans to price its Hong Kong IPO at ~$21, the top of its marketed range, and will stop taking orders a day early &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260105/p9#a260105p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

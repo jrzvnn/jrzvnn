@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to integrate Nano Banana and Veo support into Gemini on Google TV, letting users generate AI videos and modify family photos, first on TCL TVs &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260105/p15#a260105p15)
- - [ShiftCam ProRig iPhone filming cage aims to seriously boost your video](https://appleinsider.com/articles/26/01/05/shiftcam-prorig-iphone-filming-cage-aims-to-seriously-boost-your-video?utm_source=rss)
- - [GE Lighting&#39;s new smart shades are compatible with Matter &amp; Apple Home](https://appleinsider.com/articles/26/01/05/ge-lightings-new-smart-shades-are-compatible-with-matter-apple-home?utm_source=rss)
- - [Charge your iPhone in style with Twelve South&#39;s new Napa leather valet station](https://appleinsider.com/articles/26/01/05/charge-your-iphone-in-style-with-twelve-souths-new-napa-leather-valet-station?utm_source=rss)
- - [Lockly’s new smart locks will support Matter and NFC](https://www.theverge.com/tech/851157/lockly-smart-lock-matter-ces)<!-- TECH:END -->
+ - [TCL unveils the €339 70 Pro phone, with a 6.9&quot; NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5&quot; Remarkable rival &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260105/p18#a260105p18)
+ - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
+ - [Qualcomm unveils the Dragonwing IQ10 Series, a full-stack robotics architecture integrating hardware, software, and AI for industrial and consumer humanoids &lpar;Katie Collins/CNET&rpar;](http://www.techmeme.com/260105/p17#a260105p17)
+ - [Lyte, founded by ex-Apple Face ID engineers, emerges from stealth and raised ~$107M to develop tech to help robots see better and move more safely in the world &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260105/p16#a260105p16)
+ - [Twelve South’s Valet is a handsome place to put your stuff](https://www.theverge.com/tech/854124/twelve-south-valet-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

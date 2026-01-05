@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
- - 😝 [That was personal](http://9gag.com/gag/aKGyLQ3)
- - 💣 [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
- - 😝 [Bullet dodged.](http://9gag.com/gag/amoyboo)
+ - 😝 [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
+ - 💣 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 😝 [You know what](http://9gag.com/gag/a879Qqp)
  - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
 
 ---

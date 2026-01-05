@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung updates its TVs to add new AI features, including a Sound Controller feature to independently adjust the volume of dialogue, music, or sound effects &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260105/p5#a260105p5)
  - [A Chinese hospital says Alibaba&#39;s PANDA AI tool has analyzed 180,000 CT scans and detected ~24 pancreatic cancer cases since its deployment in November 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/260105/p4#a260105p4)
  - [Satya Nadella says the tech industry needs to move past &quot;slop vs sophistication&quot; arguments and view AI as a &quot;cognitive amplifier&quot;, not a human substitute &lpar;Satya Nadella/sn scratchpad&rpar;](http://www.techmeme.com/260105/p3#a260105p3)
  - [Honor&#39;s Audacious Robot Phone Is Real and I Just Got a First Glimpse](https://www.cnet.com/tech/mobile/honor-shows-off-robot-phone-at-ces-2026/#ftag=CAD590a51e)
- - [Taiwan says China&#39;s cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks per day &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/260105/p2#a260105p2)
- - [This robot companion is a cameraman for your pet](https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets)<!-- TECH:END -->
+ - [Taiwan says China&#39;s cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks per day &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/260105/p2#a260105p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

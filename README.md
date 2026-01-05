@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia launches Vera Rubin AI computing platform at CES 2026](https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026)
+ - [Lego Smart Bricks Light Up With Jedi Magic In Coming Star Wars Set -- And I&#39;m Obsessed](https://www.cnet.com/culture/entertainment/lego-smart-bricks-star-wars-set-ces-2026/#ftag=CAD590a51e)
  - [Boston Dynamics unveils a new iteration of its Atlas humanoid robot designed to work in Hyundai&#39;s plants starting in 2028, including at a factory in Georgia &lpar;Hyonhee Shin/Bloomberg&rpar;](http://www.techmeme.com/260105/p27#a260105p27)
- - [This Braille Label Printer Helps Blind Friends and Family Grab the Right Pill Bottle](https://www.cnet.com/tech/this-braille-label-printer-helps-blind-friends-and-family-grab-the-right-pill-bottle/#ftag=CAD590a51e)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [Hisense Shrinks $30,000 Tech into Smaller TVs for 2026](https://www.cnet.com/tech/home-entertainment/hisense-shrinks-30000-tech-into-smaller-tvs-for-2026/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 6, #470](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-6-470/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We&#39;ve Found the Coolest, Most Futuristic Tech at CES 2026. And It&#39;s Only Day 1](https://www.cnet.com/tech/the-coolest-tech-at-ces-2026-and-its-only-day-1-ces-2026/#ftag=CAD590a51e)
+ - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those chunts are up to something again...](http://9gag.com/gag/aKGyne3)
- - 😝 [Here we go](http://9gag.com/gag/a1mnw6w)
- - 💣 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
- - 👉 [Screw me.](http://9gag.com/gag/a0eGWoB)<!-- MEMES:END -->
+ - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 😝 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)
+ - 👉 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)<!-- MEMES:END -->
 
 ---
 

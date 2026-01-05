@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those chunts are up to something again...](http://9gag.com/gag/aKGyne3)
+ - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
  - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - 💣 [Screw me.](http://9gag.com/gag/a0eGWoB)
- - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 💣 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
  - 👉 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New 8BitDo FlipPad is a minimalist controller for iPhone gamers](https://appleinsider.com/articles/26/01/05/new-8bitdo-flippad-is-a-minimalist-controller-for-iphone-gamers?utm_source=rss)
+ - [Sources: Alibaba&#39;s Amap will soon launch an AI tool to let restaurants render 3D images by just uploading videos or photos, in a bid to compete with Meituan &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260105/p12#a260105p12)
  - [9 Best Cat Water Fountains, WIRED-Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)
  - [Taiwanese prosecutors file additional indictments against Tokyo Electron&#39;s Taiwan unit and three other defendants over the alleged theft of TSMC trade secrets &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260105/p11#a260105p11)
- - [AI Deepfakes Are Impersonating Pastors to Try to Scam Their Congregations](https://www.wired.com/story/ai-deepfakes-are-impersonating-pastors-to-try-and-scam-their-congregations/)
- - [CES 2026: self-driving truck company Kodiak partners with Bosch to develop a hardware and software system to turn standard semi-trucks into autonomous vehicles &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260105/p10#a260105p10)
- - [CES Live Blog, Day 1: The Coolest Tech We’ve Seen So Far](https://www.wired.com/live/ces-2026-live-blog/)<!-- TECH:END -->
+ - [AI Deepfakes Are Impersonating Pastors to Try to Scam Their Congregations](https://www.wired.com/story/ai-deepfakes-are-impersonating-pastors-to-try-and-scam-their-congregations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you know the Muffin Man?](http://9gag.com/gag/avyVXAn)
- - 😝 [The hero](http://9gag.com/gag/aE0bQZo)
- - 💣 [Is it legally OK?](http://9gag.com/gag/a879zMd)
- - 😝 [That was personal](http://9gag.com/gag/aKGyLQ3)
- - 👉 [We&#39;re not even a week into 2026!](http://9gag.com/gag/ajPjddp)<!-- MEMES:END -->
+ - 😝 [100% winning rate](http://9gag.com/gag/apRXV8E)
+ - 😝 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 💣 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
+ - 😝 [Bullet dodged.](http://9gag.com/gag/amoyboo)
+ - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
 
 ---
 

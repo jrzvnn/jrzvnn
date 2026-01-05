@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A viral Reddit post by a purported developer alleging that a &quot;major food delivery app&quot; exploits drivers is likely AI-generated; Uber, DoorDash deny the claims &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/260105/p24#a260105p24)
+ - [These On-Ear Beats Headphones Are Marked Down by $70](https://www.wired.com/story/beats-solo-4-deal-126/)
  - [Sources: Nvidia has struggled to monetize its Omniverse software and the company shuttered the Omniverse Cloud service in August 2025 due to lack of demand &lpar;The Information&rpar;](http://www.techmeme.com/260105/p23#a260105p23)
  - [Lego’s Smart Brick Gives the Iconic Analog Toy a New Digital Brain](https://www.wired.com/story/lego-smart-brick-new-digital-brain/)
- - [Lego announces Smart Brick, the &amp;#8216;most significant evolution&amp;#8217; in 50 years](https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years)
- - [That viral Reddit post about food delivery apps was an AI scam](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
- - [CES 2026 Live: Tech&#39;s Big Event Kicks Off From Las Vegas](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lego announces Smart Brick, the &amp;#8216;most significant evolution&amp;#8217; in 50 years](https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

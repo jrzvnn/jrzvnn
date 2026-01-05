@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Screw me.](http://9gag.com/gag/a0eGWoB)
- - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 😝 [Aaaaaa, sh!t, that was close](http://9gag.com/gag/ary0zj7)
+ - 😝 [Vuvuzela](http://9gag.com/gag/apRXjqM)
  - 💣 [Blind npc...](http://9gag.com/gag/ae9EdEB)
- - 😝 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
- - 👉 [Vuvuzela](http://9gag.com/gag/apRXjqM)<!-- MEMES:END -->
+ - 😝 [OneDrive really out here deleting files like it&#39;s a game](http://9gag.com/gag/axy8Q9Y)
+ - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
 
 ---
 

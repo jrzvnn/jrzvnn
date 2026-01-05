@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
- - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
  - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
+ - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 😝 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)
  - 👉 [Nature trip.](http://9gag.com/gag/a0eGW8z)<!-- MEMES:END -->
 
 ---

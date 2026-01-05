@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rome - the cradle of western architecture and culture.](http://9gag.com/gag/aO8ONnD)
- - 😝 [You know what](http://9gag.com/gag/a879Qqp)
- - 💣 [Finally someone said it](http://9gag.com/gag/aD2LNBx)
- - 😝 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
- - 👉 [Real-world mad Max. Except more like guardian angel Max](http://9gag.com/gag/aNDX8K4)<!-- MEMES:END -->
+ - 😝 [In 1995, Sandra Bullock was the first person ever to buy movie theater tickets online, in promotion for her new film The Net](http://9gag.com/gag/ae9EP3O)
+ - 😝 [Screw me.](http://9gag.com/gag/a0eGWoB)
+ - 💣 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
+ - 😝 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)
+ - 👉 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)<!-- MEMES:END -->
 
 ---
 

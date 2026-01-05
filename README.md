@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of Nvidia&#39;s keynote with CEO Jensen Huang at CES 2026, where the company is showcasing AI, robotics, simulation, gaming, and more &lpar;Katie Teague/Engadget&rpar;](http://www.techmeme.com/260105/p26#a260105p26)
- - [Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/)
- - [Boston Dynamics’ Tesla Bot rival Atlas will start building Hyundai cars in 2028](https://www.theverge.com/news/853973/hyundai-boston-dynamics-atlas-robot-factory-2028)
- - [This smart mirror was a menace at CES 2026](https://www.theverge.com/tech/855540/nuralogix-longevity-mirror-health-tech-ces-2026)
- - [Limited-edition Year of the Horse AirPods Pro 3 go on sale in China](https://appleinsider.com/articles/26/01/05/limited-edition-year-of-the-horse-airpods-pro-3-go-on-sale-in-china?utm_source=rss)<!-- TECH:END -->
+ - [This Braille Label Printer Helps Blind Friends and Family Grab the Right Pill Bottle](https://www.cnet.com/tech/this-braille-label-printer-helps-blind-friends-and-family-grab-the-right-pill-bottle/#ftag=CAD590a51e)
+ - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
+ - [Hisense Shrinks $30,000 Tech into Smaller TVs for 2026](https://www.cnet.com/tech/home-entertainment/hisense-shrinks-30000-tech-into-smaller-tvs-for-2026/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 6, #470](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-6-470/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 6 #674](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-6-674/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

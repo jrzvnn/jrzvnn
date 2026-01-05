@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [OneDrive really out here deleting files like it&#39;s a game](http://9gag.com/gag/axy8Q9Y)
- - 😝 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
- - 💣 [Blind npc...](http://9gag.com/gag/ae9EdEB)
- - 😝 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)
+ - 😝 [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
+ - 💣 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
+ - 😝 [If only they had used their electronic genius for good instead of evil...](http://9gag.com/gag/aGyq6vG)
  - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rio&#39;s New Year&#39;s Eve drone show was absolutely breathtaking](http://9gag.com/gag/aAy7mqL)
- - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
- - 💣 [Before and after](http://9gag.com/gag/aAy7N2p)
- - 😝 [`Do as I do`](http://9gag.com/gag/aPA0zMQ)
- - 👉 [Real-world mad Max. Except more like guardian angel Max](http://9gag.com/gag/aNDX8K4)<!-- MEMES:END -->
+ - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 😝 [That was personal](http://9gag.com/gag/aKGyLQ3)
+ - 💣 [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
+ - 😝 [Bullet dodged.](http://9gag.com/gag/amoyboo)
+ - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
 
 ---
 

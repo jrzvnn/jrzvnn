@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia launches Vera Rubin AI computing platform at CES 2026](https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026)
- - [Boston Dynamics unveils a new iteration of its Atlas humanoid robot designed to work in Hyundai&#39;s plants starting in 2028, including at a factory in Georgia &lpar;Hyonhee Shin/Bloomberg&rpar;](http://www.techmeme.com/260105/p27#a260105p27)
- - [This Braille Label Printer Helps Blind Friends and Family Grab the Right Pill Bottle](https://www.cnet.com/tech/this-braille-label-printer-helps-blind-friends-and-family-grab-the-right-pill-bottle/#ftag=CAD590a51e)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [Hisense Shrinks $30,000 Tech into Smaller TVs for 2026](https://www.cnet.com/tech/home-entertainment/hisense-shrinks-30000-tech-into-smaller-tvs-for-2026/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia launches the Vera Rubin platform, saying it will offer dramatic reductions in inference and training costs compared to Blackwell, across six new chips &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260105/p28#a260105p28)
+ - [Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’](https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/)
+ - [The MSI Crosshair 16 Max HX features a slimmer chassis and stronger specs](https://www.theverge.com/news/850944/ces-2026-msi-crosshair-16-max)
+ - [HyperX’s 2026 gaming monitor lineup includes a 500Hz QD-OLED](https://www.theverge.com/tech/845706/hyperx-qdoled-500hz-v-stripe-curved-specs)
+ - [HyperX’s name is on HP’s new Omen gaming laptops](https://www.theverge.com/tech/845774/hyperx-omen-15-16-max-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
  - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - 💣 [Bad ride](http://9gag.com/gag/ayNAZjq)
- - 😝 [Just my luck! blue screen of death during worktime?, Window updates during reunion ? :/](http://9gag.com/gag/aqyOVrv)
- - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
+ - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
+ - 👉 [Nature trip.](http://9gag.com/gag/a0eGW8z)<!-- MEMES:END -->
 
 ---
 

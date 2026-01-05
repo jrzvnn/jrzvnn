@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego unveils the Smart Play platform, with a brick powered by a custom chip that connects to compatible minifigures and tags for interactive lights and sounds &lpar;Jeremy White/Wired&rpar;](http://www.techmeme.com/260105/p25#a260105p25)
  - [Hunter Fan Company has a new lineup of Matter accessories for your whole home at CES 2026](https://appleinsider.com/articles/26/01/05/hunter-fan-company-has-a-new-lineup-of-matter-accessories-for-your-whole-home-at-ces-2026?utm_source=rss)
  - [Motorola Teases New Razr Folding Phone With &#39;Boundary-Breaking Camera System&#39;](https://www.cnet.com/tech/mobile/motorola-razr-fold-phone-tease-ces-2026/#ftag=CAD590a51e)
  - [CNET First Look: Bosch’s New Feature-Packed Cordless Vacuums Are Designed to Take On Dyson and Shark](https://www.cnet.com/home/kitchen-and-household/i-used-boschs-new-feature-packed-cordless-vacuums-designed-to-take-on-dyson-and-shark-ces-2026/#ftag=CAD590a51e)
- - [A viral Reddit post by a purported developer alleging that a &quot;major food delivery app&quot; exploits drivers is likely AI-generated; Uber, DoorDash deny the claims &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/260105/p24#a260105p24)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A viral Reddit post by a purported developer alleging that a &quot;major food delivery app&quot; exploits drivers appears AI-generated; Uber and DoorDash deny the claims &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/260105/p24#a260105p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

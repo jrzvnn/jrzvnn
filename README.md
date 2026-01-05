@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Job of an elementary teacher. - This is from the Philippines.](http://9gag.com/gag/avyVmQE)
- - 😝 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
- - 💣 [Before and after](http://9gag.com/gag/aAy7N2p)
- - 😝 [Bullet dodged.](http://9gag.com/gag/amoyboo)
- - 👉 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)<!-- MEMES:END -->
+ - 😝 [That was personal](http://9gag.com/gag/aKGyLQ3)
+ - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 💣 [We&#39;re not even a week into 2026!](http://9gag.com/gag/ajPjddp)
+ - 😝 [Finally someone said it](http://9gag.com/gag/aD2LNBx)
+ - 👉 [Rome - the cradle of western architecture and culture.](http://9gag.com/gag/aO8ONnD)<!-- MEMES:END -->
 
 ---
 

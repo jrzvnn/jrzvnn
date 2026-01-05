@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New 8BitDo FlipPad is a minimalist controller for iPhone gamers](https://appleinsider.com/articles/26/01/05/new-8bitdo-flippad-is-a-minimalist-controller-for-iphone-gamers?utm_source=rss)
- - [Sources: Alibaba&#39;s Amap will soon launch an AI tool to let restaurants render 3D images by just uploading videos or photos, in a bid to compete with Meituan &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260105/p12#a260105p12)
- - [9 Best Cat Water Fountains, WIRED-Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)
- - [Taiwanese prosecutors file additional indictments against Tokyo Electron&#39;s Taiwan unit and three other defendants over the alleged theft of TSMC trade secrets &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260105/p11#a260105p11)
- - [AI Deepfakes Are Impersonating Pastors to Try to Scam Their Congregations](https://www.wired.com/story/ai-deepfakes-are-impersonating-pastors-to-try-and-scam-their-congregations/)<!-- TECH:END -->
+ - [OpenAI says 40M+ Americans turn to ChatGPT daily for health information, per an analysis of anonymized interactions, seeing it as an &quot;ally&quot; for health care &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260105/p14#a260105p14)
+ - [African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/260105/p13#a260105p13)
+ - [‘Shogun’ Creator Says Season 2 ‘Defies Expectations’](https://www.wired.com/story/shogun-creator-says-season-2-defies-expectations/)
+ - [Magnesium Supplements Crash Course &lpar;2026&rpar;: Benefits and Side Effects](https://www.wired.com/story/what-are-magnesium-supplements-good-for/)
+ - [New 8BitDo FlipPad is a minimalist controller for iPhone gamers](https://appleinsider.com/articles/26/01/05/new-8bitdo-flippad-is-a-minimalist-controller-for-iphone-gamers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn reports Q4 revenue up 22% YoY to ~$82.7B, above ~$77B est., and record December revenue up 31.8% YoY to ~$27.5B, driven by AI and networking demand &lpar;Reuters&rpar;](http://www.techmeme.com/260105/p8#a260105p8)
+ - [I Switched to eSIM, and I Am Full of Regret](https://www.wired.com/story/i-switched-to-esim-and-i-am-full-of-regret/)
  - [Chinese automotive chipmaker Black Sesame says its Huashan A2000 chip passed the US Commerce and Defense Departments&#39; &quot;relevant reviews&quot; for global sales &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/260105/p7#a260105p7)
  - [A profile of Max Tegmark, the physicist pushing to halt AGI development, who was subpoenaed by OpenAI over the Future of Life Institute&#39;s past ties to Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260105/p6#a260105p6)
- - [Flu Is Relentless. Crispr Might Be Able to Shut It Down](https://www.wired.com/story/crispr-flu-antivirals/)
- - [Samsung updates its TVs to add new AI features, including a Sound Controller feature to independently adjust the volume of dialogue, music, or sound effects &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260105/p5#a260105p5)
- - [A Chinese hospital says Alibaba&#39;s PANDA AI tool has analyzed 180,000 CT scans and detected ~24 pancreatic cancer cases since its deployment in November 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/260105/p4#a260105p4)<!-- TECH:END -->
+ - [Flu Is Relentless. Crispr Might Be Able to Shut It Down](https://www.wired.com/story/crispr-flu-antivirals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

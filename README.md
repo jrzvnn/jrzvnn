@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [That viral Reddit post about food delivery apps was an AI scam](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
+ - [Why Claude Code is much more than a coding agent: it is a general-purpose AI agent that can do almost anything on a computer with impressive capabilities &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/260105/p22#a260105p22)
  - [LG&amp;#8217;s CLOiD robot can load the washer for you, slowly](https://www.theverge.com/tech/855233/lg-cloid-robot-laundry-ces-2026-keynote)
  - [At $50 off, the Shokz OpenRun Pro helps you stick to your new year’s goals](https://www.theverge.com/tech/855202/shokz-openrun-pro-bone-conduction-headphones-deal-sale)
- - [Asus’s new OLED gaming monitors will have sharper text and more accurate colors](https://www.theverge.com/tech/855247/asus-oled-gaming-monitors-rgb-stripe-ces-2026)
- - [Pioneer has the first Dolby Atmos Spatial Audio CarPlay system](https://appleinsider.com/articles/26/01/05/pioneer-has-the-first-dolby-atmos-spatial-audio-carplay-system?utm_source=rss)
- - [When and how to watch Lakers games in Apple Immersive format on Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/when-and-how-to-watch-lakers-games-in-apple-immersive-format-on-vision-pro?utm_source=rss)<!-- TECH:END -->
+ - [Asus’s new OLED gaming monitors will have sharper text and more accurate colors](https://www.theverge.com/tech/855247/asus-oled-gaming-monitors-rgb-stripe-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

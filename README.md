@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 1995, Sandra Bullock was the first person ever to buy movie theater tickets online, in promotion for her new film The Net](http://9gag.com/gag/ae9EP3O)
+ - 😝 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
  - 😝 [Screw me.](http://9gag.com/gag/a0eGWoB)
- - 💣 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
+ - 💣 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
  - 😝 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)
- - 👉 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)<!-- MEMES:END -->
+ - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
 
 ---
 

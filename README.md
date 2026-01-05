@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia has struggled to monetize its Omniverse software and the company shuttered the Omniverse Cloud service in August 2025 due to lack of demand &lpar;The Information&rpar;](http://www.techmeme.com/260105/p23#a260105p23)
+ - [Lego’s Smart Brick Gives the Iconic Analog Toy a New Digital Brain](https://www.wired.com/story/lego-smart-brick-new-digital-brain/)
+ - [Lego announces Smart Brick, the &amp;#8216;most significant evolution&amp;#8217; in 50 years](https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years)
  - [That viral Reddit post about food delivery apps was an AI scam](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
- - [Why Claude Code is much more than a coding agent: it is a general-purpose AI agent that can do almost anything on a computer with impressive capabilities &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/260105/p22#a260105p22)
- - [LG&amp;#8217;s CLOiD robot can load the washer for you, slowly](https://www.theverge.com/tech/855233/lg-cloid-robot-laundry-ces-2026-keynote)
- - [At $50 off, the Shokz OpenRun Pro helps you stick to your new year’s goals](https://www.theverge.com/tech/855202/shokz-openrun-pro-bone-conduction-headphones-deal-sale)
- - [Asus’s new OLED gaming monitors will have sharper text and more accurate colors](https://www.theverge.com/tech/855247/asus-oled-gaming-monitors-rgb-stripe-ces-2026)<!-- TECH:END -->
+ - [CES 2026 Live: Tech&#39;s Big Event Kicks Off From Las Vegas](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

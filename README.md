@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Studio&#39; helps Apple TV net seven Critics Choice Awards](https://appleinsider.com/articles/26/01/05/the-studio-helps-apple-tv-net-seven-critics-choice-awards?utm_source=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Apple-backed smart lock standard Aliro is launching shortly](https://appleinsider.com/articles/26/01/05/apple-backed-smart-lock-standard-aliro-is-launching-shortly?utm_source=rss)
- - [Apple&#39;s M5 MacBook Pro drops to $1,399 &lpar;$200 off&rpar; as CES 2026 kicks off](https://appleinsider.com/articles/26/01/05/apples-m5-macbook-pro-drops-to-1399-200-off-as-ces-2026-kicks-off?utm_source=rss)
- - [Transform your charging with Anker&#39;s new lineup at CES 2026](https://appleinsider.com/articles/26/01/05/transform-your-charging-with-ankers-new-lineup-at-ces-2026?utm_source=rss)<!-- TECH:END -->
+ - [Qualcomm unveils Snapdragon X2 Plus chips for PCs, available in 10-core and 6-core variants, manufactured on TSMC&#39;s N3P node using Qualcomm&#39;s Oryon architecture &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260105/p21#a260105p21)
+ - [BirdBuddy 2 mini smart feeder films wildlife with a 2K camera](https://appleinsider.com/articles/26/01/05/birdbuddy-2-mini-smart-feeder-films-wildlife-with-a-2k-camera?utm_source=rss)
+ - [New MagSafe power banks &amp; iPhone SSDs headline BMX&#39;s CES 2026 lineup](https://appleinsider.com/articles/26/01/05/new-magsafe-power-banks-iphone-ssds-headline-bmxs-ces-2026-lineup?utm_source=rss)
+ - [Audeze upgrades its Maxwell gaming headset with magnetic ear pads](https://www.theverge.com/news/851457/audeze-maxwell-2-gaming-headset-sony-ces-2026)
+ - [Bosch is taking on Dyson with its first cordless stick vacuums in the US](https://www.theverge.com/tech/851573/bosch-unlimited-9-10-cordless-stick-vacuum-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

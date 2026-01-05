@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was personal](http://9gag.com/gag/aKGyLQ3)
- - 😝 [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
- - 💣 [That&#39;s all folks](http://9gag.com/gag/ae9Eddm)
- - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
+ - 😝 [That&#39;s all folks](http://9gag.com/gag/ae9Eddm)
+ - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 💣 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 😝 [`Do as I do`](http://9gag.com/gag/aPA0zMQ)
  - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
 
 ---

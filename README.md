@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
- - 😝 [Screw me.](http://9gag.com/gag/a0eGWoB)
- - 💣 [Here we go](http://9gag.com/gag/a1mnw6w)
  - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
+ - 😝 [Here we go](http://9gag.com/gag/a1mnw6w)
+ - 💣 [Screw me.](http://9gag.com/gag/a0eGWoB)
+ - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
 
 ---
 

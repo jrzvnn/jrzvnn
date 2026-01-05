@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL unveils the €339 70 Pro phone, with a 6.9&quot; NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5&quot; Remarkable rival &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260105/p18#a260105p18)
- - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
- - [Qualcomm unveils the Dragonwing IQ10 Series, a full-stack robotics architecture integrating hardware, software, and AI for industrial and consumer humanoids &lpar;Katie Collins/CNET&rpar;](http://www.techmeme.com/260105/p17#a260105p17)
- - [Lyte, founded by ex-Apple Face ID engineers, emerges from stealth and raised ~$107M to develop tech to help robots see better and move more safely in the world &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260105/p16#a260105p16)
- - [Twelve South’s Valet is a handsome place to put your stuff](https://www.theverge.com/tech/854124/twelve-south-valet-ces-2026)<!-- TECH:END -->
+ - [Amazon launches Alexa+ in early access for all users via a new web interface at Alexa.com and now lets users upload documents, emails, and images &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260105/p20#a260105p20)
+ - [Amazon unveils a Fire TV UI redesign with rounded corners, 20 app slots, and Alexa+ integration, and launches $899+ Ember Artline TV series with colorful frames &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260105/p19#a260105p19)
+ - [India has exported $50 billion worth of iPhones in five years](https://appleinsider.com/articles/26/01/05/india-has-exported-50-billion-worth-of-iphones-in-five-years?utm_source=rss)
+ - [Kwikset&#39;s new Aura Reach Matter smart lock installs simply &amp; is cost-effective](https://appleinsider.com/articles/26/01/05/kwiksets-new-aura-reach-matter-smart-lock-installs-simply-is-cost-effective?utm_source=rss)
+ - [This egg-shaped gadget aims to demystify hormones… with pee](https://www.theverge.com/tech/852942/mira-ultra4-wand-hormone-testing-ces-2026-health)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

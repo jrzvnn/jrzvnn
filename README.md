@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock launches its first robot lawn mower in the US](https://www.theverge.com/news/851696/roborock-launches-its-first-robot-lawnmower-in-the-us)
- - [Roborock’s new Saros 20 robot vacuum cleaners got a climbing upgrade](https://www.theverge.com/news/852702/roborock-saros-20-sonic-ces-2026)
- - [Roborock’s Rover walks, jumps, and vacuums your stairs](https://www.theverge.com/tech/852121/roborock-saros-rover-stair-climbing-robot-vacuum-ces-2026)
- - [You might mistake Satechi&amp;#8217;s new Thunderbolt 5 hub for Apple&amp;#8217;s Mac Mini](https://www.theverge.com/tech/853378/satechi-thunderbolt-5-dock-mac-mini-ces-2026)
- - [You can now use Abbott’s OTC glucose monitors with Withings](https://www.theverge.com/tech/853413/abbott-lingo-withings-cgm-wearable-health-ces-2026)<!-- TECH:END -->
+ - [Intricuit&#39;s Magic Screen adds touch support to the MacBook Pro display](https://appleinsider.com/articles/26/01/06/intricuits-magic-screen-adds-touch-support-to-the-macbook-pro-display?utm_source=rss)
+ - [Satechi Thunderbolt 5 CubeDock has SSD bay &amp; fast charging](https://appleinsider.com/articles/26/01/06/satechi-thunderbolt-5-cubedock-has-ssd-bay-fast-charging?utm_source=rss)
+ - [Satechi&#39;s Slim EX are low-profile wireless keyboards for cross-platform work](https://appleinsider.com/articles/26/01/06/satechis-slim-ex-are-low-profile-wireless-keyboards-for-cross-platform-work?utm_source=rss)
+ - [Internal memo: Meta names CJ Mahoney, former Microsoft legal executive and deputy US Trade Representative during Trump&#39;s first term, as its chief legal officer &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260106/p25#a260106p25)
+ - [This 16-inch laptop is so light I can easily lift it with three fingers](https://www.theverge.com/news/852034/asus-zenbook-a16-thin-light-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

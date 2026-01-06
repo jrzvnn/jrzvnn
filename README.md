@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
- - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - 💣 [Bad ride](http://9gag.com/gag/ayNAZjq)
- - 😝 [Generous guy giving a tip to polite shop assistant](http://9gag.com/gag/aVv89dM)
- - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
+ - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
+ - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
 
 ---
 

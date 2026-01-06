@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslims panic after learning the Quran is Zionist](http://9gag.com/gag/a7oB6Xm)
  - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
- - 😝 [Old Man making vlog about his hobby](http://9gag.com/gag/ayNAVwy)
+ - 😝 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
+ - 💣 [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
+ - 😝 [Coincidence? I don&#39;t think so!](http://9gag.com/gag/a4P88gZ)
  - 👉 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)<!-- MEMES:END -->
 
 ---

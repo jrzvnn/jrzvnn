@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HP unveils the Eliteboard G1a, a compact desktop PC in the form of a keyboard, powered by an AMD Ryzen AI 300-series chip, set for March launch; pricing is TBC &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/260106/p10#a260106p10)
+ - [Intel unveils the Arc B390 integrated GPU, offering improved gaming performance, and says it will power gaming handhelds built by MSI, Acer, Microsoft, and more &lpar;Madeline Ricchiuto/IGN&rpar;](http://www.techmeme.com/260106/p9#a260106p9)
+ - [13 Best Tablets &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
  - [No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot](https://www.theverge.com/tech/856149/microsoft-365-office-rebrand-copilot)
- - [Singapore-based data center operator DayOne raised a $2B Series C led by Coatue to build hyperscale campuses in Lahti and Kouvola, Finland, and elsewhere &lpar;Reuters&rpar;](http://www.techmeme.com/260106/p8#a260106p8)
- - [6 Best Gym Bags for Every Workout and Commute &lpar;2026&rpar;](https://www.wired.com/story/best-gym-bags/)
- - [The Best Ventless Fireplaces for Cozy Vibes &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-ventless-fireplace/)
- - [The 3 Keys to Understanding Trump’s Retro Coup in Venezuela](https://www.wired.com/story/3-keys-understanding-trumps-retro-coup-in-venezuela/)<!-- TECH:END -->
+ - [Singapore-based data center operator DayOne raised a $2B Series C led by Coatue to build hyperscale campuses in Lahti and Kouvola, Finland, and elsewhere &lpar;Reuters&rpar;](http://www.techmeme.com/260106/p8#a260106p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

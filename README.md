@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
  - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 😝 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
  - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
- - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 👉 [Tongue tricks](http://9gag.com/gag/aO8OAXE)<!-- MEMES:END -->
+ - 😝 [What kind of dog is this](http://9gag.com/gag/aLn33QA)
+ - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
- - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
- - 😝 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)
- - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
+ - 😝 [Demonstration of the ancient Carnyx, a wind instrument of the Iron Age Celts, used in warfare among other things. Ideal instrument for intimidating opponents.](http://9gag.com/gag/aE0bjzO)
+ - 😝 [Habibi](http://9gag.com/gag/aYQBZpx)
+ - 💣 [New year&#39;s resolution, pushups, gradualy](http://9gag.com/gag/a9ye4ro)
+ - 😝 [Just my luck! blue screen of death during worktime?, Window updates during reunion ? :/](http://9gag.com/gag/aqyOVrv)
+ - 👉 [`Do as I do`](http://9gag.com/gag/aPA0zMQ)<!-- MEMES:END -->
 
 ---
 

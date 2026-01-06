@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
+ - [Sandisk shares jump ~23% after Jensen Huang highlighted the need for memory and storage at CES; SNDK is up 40%+ in the first three trading sessions of 2026 &lpar;Felice Maranz/Bloomberg&rpar;](http://www.techmeme.com/260106/p30#a260106p30)
+ - [AI moves into the real world as companion robots and pets](https://www.theverge.com/news/856207/ces-2026-trend-ai-companion-robot-pet)
  - [Nvidia brings its G-Sync Pulsar tech to four monitors, which reduces motion blur by using a &quot;rolling scan&quot; scheme that briefly pulses the monitors&#39; backlight &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/260106/p29#a260106p29)
- - [This robot pool cleaner lifts itself out of the water to charge](https://www.theverge.com/tech/854835/mammotion-spino-s1-pro-robot-pool-cleaner-ces-2026)
- - [Buyout firm Hg agrees to acquire enterprise financial software maker OneStream in an all-cash deal valued at ~$6.4B that is set to close in H1 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p28#a260106p28)
- - [AWS implemented a 15% price hike for EC2 Capacity Blocks for ML on January 3; Amazon says it &quot;reflects the supply/demand patterns we expect this quarter&quot; &lpar;Corey Quinn/The Register&rpar;](http://www.techmeme.com/260106/p27#a260106p27)
- - [Power bank feature creep is out of control](https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep)<!-- TECH:END -->
+ - [This robot pool cleaner lifts itself out of the water to charge](https://www.theverge.com/tech/854835/mammotion-spino-s1-pro-robot-pool-cleaner-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

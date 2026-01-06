@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Habibi](http://9gag.com/gag/aYQBZpx)
- - 😝 [`Do as I do`](http://9gag.com/gag/aPA0zMQ)
- - 💣 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
- - 😝 [New year&#39;s resolution, pushups, gradualy](http://9gag.com/gag/a9ye4ro)
- - 👉 [Just my luck! blue screen of death during worktime?, Window updates during reunion ? :/](http://9gag.com/gag/aqyOVrv)<!-- MEMES:END -->
+ - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
+ - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 😝 [Finally, a store with standards](http://9gag.com/gag/aLn3ONW)
+ - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
 
 ---
 

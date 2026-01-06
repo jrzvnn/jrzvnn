@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD unveils two Ryzen AI Max+ chips, the 392 with 12 cores and the 388 with 8 cores, both offering 40 graphics compute units and 60 teraflops of performance &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260105/p40#a260105p40)
  - [A simple fix for the interface-breaking bug on YouTube Clips](https://appleinsider.com/articles/26/01/06/a-simple-fix-for-the-interface-breaking-bug-on-youtube-clips?utm_source=rss)
  - [AMD unveils Ryzen AI 400 Series AI PC chips with 12 CPU cores, claiming 1.3x faster multitasking and 1.7x faster content creation than rivals &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260105/p39#a260105p39)
  - [Jensen Huang says Nvidia&#39;s Vera Rubin chips are in &quot;full production&quot;; Nvidia says Rubin can train some LLMs with roughly one-fourth the chips Blackwell needs &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/260105/p38#a260105p38)
- - [AMD Speeds Up Its Mobile Processors](https://www.cnet.com/tech/computing/amd-speeds-up-its-mobile-processors/#ftag=CAD590a51e)
- - [Acer Rallies Around Thinness, Toughness and Durability With Its New Swift Edge](https://www.cnet.com/tech/computing/acer-swift-edge-ces-2026/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD Speeds Up Its Mobile Processors](https://www.cnet.com/tech/computing/amd-speeds-up-its-mobile-processors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

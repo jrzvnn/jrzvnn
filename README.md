@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Influencer content is fuel for an internet-obsessed administration](https://www.theverge.com/tech/856948/nick-shirley-minnesota-daycare-fraud-influencer-media-cycle)
+ - [Mobileye is acquiring Israeli humanoid robot startup Mentee Robotics in a cash-and-stock deal valued at $900M; Mentee was founded in 2022 and has raised $50M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/260106/p35#a260106p35)
  - [Internal memo: Hark, the new AI lab from Figure AI CEO Brett Adcock, backed by $100M of his own capital, has hired 30+ engineers from Apple, Meta, and others &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/260106/p34#a260106p34)
- - [The Inevitable Rise of the Art TV](https://www.wired.com/story/art-frame-tv-trends/)
- - [Google will now publish new source code to the Android Open Source Project twice per year, down from releasing source code for every quarterly Android release &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/260106/p33#a260106p33)
- - [At CES, EVs take a backseat to robotaxis and AI](https://www.theverge.com/tech/856503/ces-2026-robotaxi-ai-ev-car-concepts)
- - [Wi-Fi 8 is appearing at CES before most of us have switched to Wi-Fi 7](https://www.theverge.com/tech/856883/ces-2026-wi-fi-8-asus-broadcom-mediatek)<!-- TECH:END -->
+ - [The Inevitable Rise of the Art TV](https://www.wired.com/story/art-frame-tv-trends/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - 😝 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
- - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
- - 😝 [What kind of dog is this](http://9gag.com/gag/aLn33QA)
- - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
+ - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 😝 [Wait... What?!](http://9gag.com/gag/axy88jD)
+ - 💣 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)
+ - 😝 [Best VW commercial. Town of Zvornik in Bosnia, due to floods, a parking is under water. 2 cars got stuck. This firefighter casually popped in this golf, turned it on and took it out...](http://9gag.com/gag/aXPzzrP)
+ - 👉 [Generous guy giving a tip to polite shop assistant](http://9gag.com/gag/aVv89dM)<!-- MEMES:END -->
 
 ---
 

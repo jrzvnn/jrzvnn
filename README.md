@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Inevitable Rise of the Art TV](https://www.wired.com/story/art-frame-tv-trends/)
  - [Google will now publish new source code to the Android Open Source Project twice a year, down from releasing source code for each quarterly Android release &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/260106/p33#a260106p33)
  - [At CES, EVs take a backseat to robotaxis and AI](https://www.theverge.com/tech/856503/ces-2026-robotaxi-ai-ev-car-concepts)
  - [Wi-Fi 8 is appearing at CES before most of us have switched to Wi-Fi 7](https://www.theverge.com/tech/856883/ces-2026-wi-fi-8-asus-broadcom-mediatek)
- - [This RV will charge your electric truck after towing](https://www.theverge.com/transportation/856487/this-rv-will-charge-your-electric-truck-after-towing)
- - [Dell goes big with UltraSharp 52 Thunderbolt Hub Monitor](https://appleinsider.com/articles/26/01/06/dell-goes-big-with-ultrasharp-52-thunderbolt-hub-monitor?utm_source=rss)<!-- TECH:END -->
+ - [This RV will charge your electric truck after towing](https://www.theverge.com/transportation/856487/this-rv-will-charge-your-electric-truck-after-towing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

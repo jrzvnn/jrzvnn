@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
+ - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
  - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - 😝 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
- - 💣 [Old Man making vlog about his hobby](http://9gag.com/gag/ayNAVwy)
- - 😝 [Luckily there will always be acting jobs for white men - as train predators....](http://9gag.com/gag/aD2LLxx)
- - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
+ - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
 
 ---
 

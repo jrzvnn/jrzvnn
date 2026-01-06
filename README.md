@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
- - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 😝 [OneDrive really out here deleting files like it&#39;s a game](http://9gag.com/gag/axy8Q9Y)
+ - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 💣 [Bad ride](http://9gag.com/gag/ayNAZjq)
  - 😝 [Finally, a store with standards](http://9gag.com/gag/aLn3ONW)
  - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
 

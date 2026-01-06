@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
  - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 😝 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
- - 💣 [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
- - 😝 [Coincidence? I don&#39;t think so!](http://9gag.com/gag/a4P88gZ)
+ - 💣 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 😝 [Fast acting, no side effects...](http://9gag.com/gag/a1mnnWP)
  - 👉 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)<!-- MEMES:END -->
 
 ---

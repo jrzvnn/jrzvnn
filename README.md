@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
- - 💣 [Fatigue](http://9gag.com/gag/a9yeV56)
  - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
+ - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
+ - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 😝 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)
+ - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
 
 ---
 

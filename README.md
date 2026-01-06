@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mooncool TK1 Folding Electric Trike review: good first e-trike, if simple &amp; expensive](https://appleinsider.com/articles/26/01/06/mooncool-tk1-folding-electric-trike-review-good-first-e-trike-if-simple-expensive?utm_source=rss)
- - [Nvidia announces the Alpamayo family of AI models, tools, and datasets for AVs, and details a collaboration with Mercedes-Benz on its first full-stack AV effort &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/260105/p32#a260105p32)
- - [Garmin now offers nutrition tracking](https://www.theverge.com/tech/855884/garmin-connect-nutrition-tracking)
- - [Garmin Users No Longer Need a Separate App to Track Their Calories and Macros](https://www.cnet.com/health/nutrition/garmin-nutrition-tracking-connect-plus-app/#ftag=CAD590a51e)
- - [MSI Smooths Out the Edges of Its Prestige Laptops at CES 2026](https://www.cnet.com/tech/computing/msi-smooths-out-the-edges-of-its-prestige-laptops-at-ces-2026/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Find My comes to Moft&#39;s new magnetic iPhone accessories](https://appleinsider.com/articles/26/01/06/find-my-comes-to-mofts-new-magnetic-iphone-accessories?utm_source=rss)
+ - [Keychron packs CES 2026 with upgraded Q and V series mechanical keyboards](https://appleinsider.com/articles/26/01/06/keychron-packs-ces-2026-with-upgraded-q-and-v-series-mechanical-keyboards?utm_source=rss)
+ - [The Vivoo FlowPad turns menstrual pads into an at-home hormone test](https://www.theverge.com/tech/849643/ces-2026-vivoo-flowpad-menstrual-pad-hormones-wearable-health)
+ - [This $300 hybrid robovac comes with a self-empyting docking station](https://www.theverge.com/news/850979/eureka-e10-evo-plus-docking-station-ces-2026)
+ - [Eureka’s sub-$1,000 mopping robovac deploys a shield to keep your carpets dry](https://www.theverge.com/news/851229/eureka-z50-mopping-robovac-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

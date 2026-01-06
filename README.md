@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta and Garmin show an early demo of using Meta&#39;s wrist-based neural band inside of a car to control an infotainment system, as part of Garmin&#39;s Unified Cabin &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260106/p13#a260106p13)
- - [Meta says it is pausing the release of its Ray-Ban Display glasses to the UK, France, Italy, and Canada due to &quot;unprecedented demand and limited inventory&quot; &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/260106/p12#a260106p12)
- - [Winter Bird Feeding Tips for the Peak of Bird Watching Season &lpar;2026&rpar;](https://www.wired.com/story/our-best-tips-for-winter-bird-feeding/)
- - [Apple Sainte-Catherine to open in Montreal on January 16](https://appleinsider.com/articles/26/01/06/apple-sainte-catherine-to-open-in-montreal-on-january-16?utm_source=rss)
- - [German car parts supplier Bosch plans to invest €2.5B+ in AI by the end of 2027 and unveils AI-based driver-assist systems with features like automatic parking &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/260106/p11#a260106p11)<!-- TECH:END -->
+ - [Two new uGreen NASync storage systems have on-device AI](https://appleinsider.com/articles/26/01/06/two-new-ugreen-nasync-storage-systems-have-on-device-ai?utm_source=rss)
+ - [Ugreen is expanding into AI-powered smart home surveillance](https://www.theverge.com/tech/846789/ugree-syncare-indoor-outdoor-cameras-ai-doorbell)
+ - [Chamberlain’s new smart lock will lock your door and shut your garage upon spotting a stranger](https://www.theverge.com/news/851622/chamberlain-myq-secure-view-smart-lock-ces-2026)
+ - [Ugreen is now selling an AI NAS with more RAM than my desktop](https://www.theverge.com/gadgets/852453/ugreen-ai-nas-idx6011-pro-photo-search)
+ - [Corsair fit a whole Stream Deck into its new gaming keyboard](https://www.theverge.com/tech/854886/corsair-galleon-100-sd-elgato-stream-deck-specs-price-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

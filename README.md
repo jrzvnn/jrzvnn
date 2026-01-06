@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OWC&#39;s 2-meter Thunderbolt 5 cable delivers full-speed performance at longer distances](https://appleinsider.com/articles/26/01/06/owcs-2-meter-thunderbolt-5-cable-delivers-full-speed-performance-at-longer-distances?utm_source=rss)
+ - [If this rumor is true, the iPhone 17e will launch in February](https://appleinsider.com/articles/26/01/06/if-this-rumor-is-true-the-iphone-17e-will-launch-in-february?utm_source=rss)
+ - [Anker’s display-equipped Nano Charger is on sale following its CES debut](https://www.theverge.com/gadgets/855701/anker-45w-nano-charger-nothing-ear-open-earbuds-deal-sale)
  - [Meta unveils teleprompter and EMG handwriting features for Meta Ray-Ban Display and expands Pedestrian Navigation for the glasses to four new US cities &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260106/p19#a260106p19)
- - [LMArena, which runs a leaderboard ranking AI models based on their performance, raised $150M at a $1.7B post-money valuation, taking its total funding to $250M+ &lpar;The Information&rpar;](http://www.techmeme.com/260106/p18#a260106p18)
- - [Meta is adding a teleprompter and virtual writing to its Ray-Ban Display glasses](https://www.theverge.com/news/856422/meta-ray-ban-display-emg-handwriting-teleprompter)
- - [The robots, phones, and Lego of CES 2026](https://www.theverge.com/podcast/856248/ces-2026-gadgets-vergecast)
- - [‘Industry’ Takes on the Age Verification Wars](https://www.wired.com/story/hbo-industry-season-4-age-verification/)<!-- TECH:END -->
+ - [LMArena, which runs a leaderboard ranking AI models based on their performance, raised $150M at a $1.7B post-money valuation, taking its total funding to $250M+ &lpar;The Information&rpar;](http://www.techmeme.com/260106/p18#a260106p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

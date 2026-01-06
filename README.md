@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
- - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - 💣 [Old Man making vlog about his hobby](http://9gag.com/gag/ayNAVwy)
+ - 😝 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 💣 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)
  - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
  - 👉 [Nature trip.](http://9gag.com/gag/a0eGW8z)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [German car parts supplier Bosch plans to invest €2.5B+ in AI by the end of 2027 and unveils AI-based driver-assist systems with features like automatic parking &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/260106/p11#a260106p11)
  - [A simple fix for the interface-breaking bug on YouTube Clips](https://appleinsider.com/articles/26/01/06/a-simple-fix-for-the-interface-breaking-bug-on-youtube-clips?utm_source=rss)
  - [The Newest Health Trend Is Tracking Your Pee](https://www.wired.com/story/smart-pee-trackers-trend-vivoo-kohler-withings/)
  - [Margaret Atwood on Doomscrolling: ‘I Want to Keep Up With the Latest Doom’](https://www.wired.com/story/the-big-interview-podcast-margaret-atwood/)
- - [This is probably the iPhone Fold&#39;s crease-proof screen](https://appleinsider.com/articles/26/01/06/this-is-probably-the-iphone-folds-crease-proof-screen?utm_source=rss)
- - [HP unveils the Eliteboard G1a, a compact desktop PC in the form of a keyboard, powered by an AMD Ryzen AI 300-series chip, set for March launch; pricing is TBC &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/260106/p10#a260106p10)<!-- TECH:END -->
+ - [This is probably the iPhone Fold&#39;s crease-proof screen](https://appleinsider.com/articles/26/01/06/this-is-probably-the-iphone-folds-crease-proof-screen?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

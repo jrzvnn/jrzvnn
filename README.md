@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysts expect Samsung&#39;s Q4 operating profit to jump 160% YoY to ~$11.7B, driven by a severe global shortage of memory chips amid booming AI demand &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260106/p2#a260106p2)
  - [Telegram bonds worth $500M are frozen in Russia under western sanctions; filings: its H1 2025 revenue rose 65% YoY to $870M, driven by $300M from Toncoin deals &lpar;Financial Times&rpar;](http://www.techmeme.com/260106/p1#a260106p1)
  - [Nvidia’s GeForce Now is getting native Linux and Fire TV apps](https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps)
  - [Nvidia’s new G-Sync monitors automatically adjust brightness just like a laptop](https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness)
- - [Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality](https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs)
- - [Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub](https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces)<!-- TECH:END -->
+ - [Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality](https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

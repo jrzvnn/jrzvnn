@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is adding a teleprompter and virtual writing to its Ray-Ban Display glasses](https://www.theverge.com/news/856422/meta-ray-ban-display-emg-handwriting-teleprompter)
+ - [The robots, phones, and Lego of CES 2026](https://www.theverge.com/podcast/856248/ces-2026-gadgets-vergecast)
+ - [‘Industry’ Takes on the Age Verification Wars](https://www.wired.com/story/hbo-industry-season-4-age-verification/)
  - [Razer plans to invest $600M in AI over &quot;the next couple of years&quot;, as the gaming peripherals maker unveils new AI products like headphones with built-in cameras &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/260106/p17#a260106p17)
- - [Ring revamps its home sensors, including door, window, and break glass sensors built on the Amazon Sidewalk protocol, and expands the protocol internationally &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/260106/p16#a260106p16)
- - [American Airlines partners with AT&amp;T to add free, high-speed satellite-based Wi-Fi across its entire fleet, with a target spring 2026 completion date &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260106/p15#a260106p15)
- - [First UWB Home Key lock and Adaptive Thermostat lead Aqara&#39;s CES 2026 showcase](https://appleinsider.com/articles/26/01/06/first-uwb-home-key-lock-and-adaptive-thermostat-lead-aqaras-ces-2026-showcase?utm_source=rss)
- - [Steve Jobs’ Early Apple Items Are Going Up for Auction—Along With His Bow Ties](https://www.wired.com/story/steve-jobs-ephemera-auction-apple/)<!-- TECH:END -->
+ - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

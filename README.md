@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Demonstration of the ancient Carnyx, a wind instrument of the Iron Age Celts, used in warfare among other things. Ideal instrument for intimidating opponents.](http://9gag.com/gag/aE0bjzO)
- - 😝 [Habibi](http://9gag.com/gag/aYQBZpx)
- - 💣 [New year&#39;s resolution, pushups, gradualy](http://9gag.com/gag/a9ye4ro)
- - 😝 [Just my luck! blue screen of death during worktime?, Window updates during reunion ? :/](http://9gag.com/gag/aqyOVrv)
- - 👉 [`Do as I do`](http://9gag.com/gag/aPA0zMQ)<!-- MEMES:END -->
+ - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
+ - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 💣 [Bad ride](http://9gag.com/gag/ayNAZjq)
+ - 😝 [Generous guy giving a tip to polite shop assistant](http://9gag.com/gag/aVv89dM)
+ - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
 
 ---
 

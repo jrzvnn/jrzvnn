@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is probably the iPhone Fold&#39;s crease-proof display](https://appleinsider.com/articles/26/01/06/this-is-probably-the-iphone-folds-crease-proof-screen?utm_source=rss)
+ - [Brands complain Amazon&#39;s &quot;Buy for Me&quot; AI-powered shopping tool features their products on Amazon without permission and shows descriptions with errors &lpar;Allison Smith/Modern Retail&rpar;](http://www.techmeme.com/260106/p37#a260106p37)
  - [Jake Sullivan is furious that Trump destroyed his AI foreign policy](https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump)
- - [Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/)
- - [In the first successful US prosecution of a spyware operator in 10+ years, pcTattletale founder pleads guilty to promoting surveillance apps for unlawful uses &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260106/p36#a260106p36)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Influencer content is fuel for an internet-obsessed administration](https://www.theverge.com/tech/856948/nick-shirley-minnesota-daycare-fraud-influencer-media-cycle)<!-- TECH:END -->
+ - [CES 2026 Live: New Laptops, Big TVs, Lego Smart Bricks and AI Pets Take Spotlight](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
+ - [CES 2026: Here Are the Best Robots So Far for Housework, Fun and More](https://www.cnet.com/tech/ces-2026-here-are-the-best-robots-so-far-for-housework-fun-and-more/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

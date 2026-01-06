@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
  - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 😝 [Safe mode activated](http://9gag.com/gag/apRXjwW)
  - 💣 [Old Man making vlog about his hobby](http://9gag.com/gag/ayNAVwy)
  - 😝 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
  - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->

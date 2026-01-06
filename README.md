@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
  - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
- - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
- - 😝 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)
- - 👉 [Nature trip.](http://9gag.com/gag/a0eGW8z)<!-- MEMES:END -->
+ - 💣 [Fatigue](http://9gag.com/gag/a9yeV56)
+ - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
 
 ---
 

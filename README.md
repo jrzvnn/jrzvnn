@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
  - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - 💣 [Old Man making vlog about his hobby](http://9gag.com/gag/ayNAVwy)
- - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
+ - 😝 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 💣 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 😝 [This is exactly what technology is meant for.](http://9gag.com/gag/aGyqrWG)
+ - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
 
 ---
 

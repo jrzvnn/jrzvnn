@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell goes big with UltraSharp 52 Thunderbolt Hub Monitor](https://appleinsider.com/articles/26/01/06/dell-goes-big-with-ultrasharp-52-thunderbolt-hub-monitor?utm_source=rss)
- - [Jensen Huang says he isn&#39;t concerned about a billionaires tax under consideration in California, and plans to remain in Silicon Valley &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p32#a260106p32)
- - [Grok is undressing children — can the law stop it?](https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk)
- - [Universal Music signs a new AI deal with Nvidia](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal)
- - [xAI raised a $20B Series E, exceeding the $15B targeted round size, with participation from Valor, Nvidia, and others, and says Grok 5 is currently in training &lpar;xAI&rpar;](http://www.techmeme.com/260106/p31#a260106p31)<!-- TECH:END -->
+ - [Google will now publish new source code to the Android Open Source Project twice a year, down from releasing source code for each quarterly Android release &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/260106/p33#a260106p33)
+ - [At CES, EVs take a backseat to robotaxis and AI](https://www.theverge.com/tech/856503/ces-2026-robotaxi-ai-ev-car-concepts)
+ - [Wi-Fi 8 is appearing at CES before most of us have switched to Wi-Fi 7](https://www.theverge.com/tech/856883/ces-2026-wi-fi-8-asus-broadcom-mediatek)
+ - [This RV will charge your electric truck after towing](https://www.theverge.com/transportation/856487/this-rv-will-charge-your-electric-truck-after-towing)
+ - [Dell goes big with UltraSharp 52 Thunderbolt Hub Monitor](https://appleinsider.com/articles/26/01/06/dell-goes-big-with-ultrasharp-52-thunderbolt-hub-monitor?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

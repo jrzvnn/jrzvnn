@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 2026 hardware pricing is under intense pressure from memory &amp; chip inflation](https://appleinsider.com/articles/26/01/06/apples-2026-hardware-pricing-is-under-intense-pressure-from-memory-chip-inflation?utm_source=rss)
+ - [UMG announces a partnership with Nvidia &quot;to pioneer responsible AI for music discovery, creation, and engagement&quot;, centered on Nvidia&#39;s Music Flamingo model &lpar;Dan Rys/Billboard&rpar;](http://www.techmeme.com/260106/p22#a260106p22)
  - [Marvell says it will acquire networking equipment provider XConn Technologies in a deal worth about $540M; the deal is expected to close in early 2026 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/260106/p21#a260106p21)
  - [You can finally bid on a strange assortment of Steve Jobs&#39; personal effects](https://appleinsider.com/articles/26/01/06/you-can-finally-bid-on-a-strange-assortment-of-steve-jobs-personal-effects?utm_source=rss)
- - [Klipsch is getting back into the hi-fi headphone game](https://www.theverge.com/tech/854158/klipsch-is-getting-back-into-the-hi-fi-headphone-game)
- - [LG&amp;#8217;s fastest and brightest OLED gaming monitor is $999.99](https://www.theverge.com/news/856173/lg-27gx790b-oled-monitor-720hz-540hz-modes)
- - [Vancouver-based quantum computing startup Photonic raised CA$180M led by Planet First Partners, bringing its total funding to CA$375M &lpar;Madison McLauchlan/BetaKit&rpar;](http://www.techmeme.com/260106/p20#a260106p20)<!-- TECH:END -->
+ - [Klipsch is getting back into the hi-fi headphone game](https://www.theverge.com/tech/854158/klipsch-is-getting-back-into-the-hi-fi-headphone-game)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

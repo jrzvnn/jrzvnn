@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is this the folding iPhone&amp;#8217;s creaseless display?](https://www.theverge.com/news/856141/samsung-display-creaseless-panel-foldable-iphone-ces)
  - [This free feature helps make stolen Bosch e-bikes unsellable](https://www.theverge.com/tech/856120/this-free-feature-helps-make-stolen-bosch-e-bikes-unsellable)
  - [Even if AI could take over every job, humans will invent new work for themselves, because we value human effort and connection, not just output &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260106/p7#a260106p7)
  - [CES Live Blog, Day 2: More of the Coolest Tech From Las Vegas](https://www.wired.com/live/ces-2026-live-blog/)
- - [These open-ear buds actually have decent noise reduction](https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables)
- - [This desktop charger turns your iPhone into a robotic AI assistant](https://www.theverge.com/tech/856077/yoona-deskmate-iphone-robot-companion-ai-assistant)<!-- TECH:END -->
+ - [These open-ear buds actually have decent noise reduction](https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

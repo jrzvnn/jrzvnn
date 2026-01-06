@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OWC&#39;s 2-meter Thunderbolt 5 cable delivers full-speed performance at longer distances](https://appleinsider.com/articles/26/01/06/owcs-2-meter-thunderbolt-5-cable-delivers-full-speed-performance-at-longer-distances?utm_source=rss)
- - [If this rumor is true, the iPhone 17e will launch in February](https://appleinsider.com/articles/26/01/06/if-this-rumor-is-true-the-iphone-17e-will-launch-in-february?utm_source=rss)
- - [Anker’s display-equipped Nano Charger is on sale following its CES debut](https://www.theverge.com/gadgets/855701/anker-45w-nano-charger-nothing-ear-open-earbuds-deal-sale)
- - [Meta unveils teleprompter and EMG handwriting features for Meta Ray-Ban Display and expands Pedestrian Navigation for the glasses to four new US cities &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260106/p19#a260106p19)
- - [LMArena, which runs a leaderboard ranking AI models based on their performance, raised $150M at a $1.7B post-money valuation, taking its total funding to $250M+ &lpar;The Information&rpar;](http://www.techmeme.com/260106/p18#a260106p18)<!-- TECH:END -->
+ - [Marvell says it will acquire networking equipment provider XConn Technologies in a deal worth about $540M; the deal is expected to close in early 2026 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/260106/p21#a260106p21)
+ - [You can finally bid on a strange assortment of Steve Jobs&#39; personal effects](https://appleinsider.com/articles/26/01/06/you-can-finally-bid-on-a-strange-assortment-of-steve-jobs-personal-effects?utm_source=rss)
+ - [Klipsch is getting back into the hi-fi headphone game](https://www.theverge.com/tech/854158/klipsch-is-getting-back-into-the-hi-fi-headphone-game)
+ - [LG&amp;#8217;s fastest and brightest OLED gaming monitor is $999.99](https://www.theverge.com/news/856173/lg-27gx790b-oled-monitor-720hz-540hz-modes)
+ - [Vancouver-based quantum computing startup Photonic raised CA$180M led by Planet First Partners, bringing its total funding to CA$375M &lpar;Madison McLauchlan/BetaKit&rpar;](http://www.techmeme.com/260106/p20#a260106p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

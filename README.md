@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bullet dodged.](http://9gag.com/gag/amoyboo)
- - 😝 [Habibi](http://9gag.com/gag/aYQBZpx)
- - 💣 [Just my luck! blue screen of death during worktime?, Window updates during reunion ? :/](http://9gag.com/gag/aqyOVrv)
- - 😝 [`Do as I do`](http://9gag.com/gag/aPA0zMQ)
- - 👉 [New year&#39;s resolution, pushups, gradualy](http://9gag.com/gag/a9ye4ro)<!-- MEMES:END -->
+ - 😝 [Bad ride](http://9gag.com/gag/ayNAZjq)
+ - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 💣 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 😝 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)
+ - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
 
 ---
 

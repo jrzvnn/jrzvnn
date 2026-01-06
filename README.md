@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Muslims panic after learning the Quran is Zionist](http://9gag.com/gag/a7oB6Xm)
  - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
  - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
- - 😝 [Her is a men with a plan](http://9gag.com/gag/aKGyyeZ)
- - 👉 [Old Man making vlog about his hobby](http://9gag.com/gag/ayNAVwy)<!-- MEMES:END -->
+ - 😝 [Old Man making vlog about his hobby](http://9gag.com/gag/ayNAVwy)
+ - 👉 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)<!-- MEMES:END -->
 
 ---
 

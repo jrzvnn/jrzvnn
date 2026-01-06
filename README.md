@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta unveils teleprompter and EMG handwriting features for Meta Ray-Ban Display and expands Pedestrian Navigation for the glasses to four new US cities &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260106/p19#a260106p19)
+ - [LMArena, which runs a leaderboard ranking AI models based on their performance, raised $150M at a $1.7B post-money valuation, taking its total funding to $250M+ &lpar;The Information&rpar;](http://www.techmeme.com/260106/p18#a260106p18)
  - [Meta is adding a teleprompter and virtual writing to its Ray-Ban Display glasses](https://www.theverge.com/news/856422/meta-ray-ban-display-emg-handwriting-teleprompter)
  - [The robots, phones, and Lego of CES 2026](https://www.theverge.com/podcast/856248/ces-2026-gadgets-vergecast)
- - [‘Industry’ Takes on the Age Verification Wars](https://www.wired.com/story/hbo-industry-season-4-age-verification/)
- - [Razer plans to invest $600M in AI over &quot;the next couple of years&quot;, as the gaming peripherals maker unveils new AI products like headphones with built-in cameras &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/260106/p17#a260106p17)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘Industry’ Takes on the Age Verification Wars](https://www.wired.com/story/hbo-industry-season-4-age-verification/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

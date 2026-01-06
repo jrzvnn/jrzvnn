@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram bonds worth $500M are frozen in Russia under western sanctions; filings: its H1 2025 revenue rose 65% YoY to $870M, driven by $300M from Toncoin deals &lpar;Financial Times&rpar;](http://www.techmeme.com/260106/p1#a260106p1)
+ - [Nvidia’s GeForce Now is getting native Linux and Fire TV apps](https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps)
+ - [Nvidia’s new G-Sync monitors automatically adjust brightness just like a laptop](https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness)
  - [Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality](https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs)
- - [Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub](https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [AMD unveils two Ryzen AI Max+ chips, the 392 with 12 cores and the 388 with 8 cores, both offering 40 graphics compute units and 60 teraflops of performance &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260105/p40#a260105p40)
- - [A simple fix for the interface-breaking bug on YouTube Clips](https://appleinsider.com/articles/26/01/06/a-simple-fix-for-the-interface-breaking-bug-on-youtube-clips?utm_source=rss)<!-- TECH:END -->
+ - [Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub](https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

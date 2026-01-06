@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
  - 😝 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
+ - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
  - 💣 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
- - 👉 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)<!-- MEMES:END -->
+ - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 👉 [Old Man making vlog about his hobby](http://9gag.com/gag/ayNAVwy)<!-- MEMES:END -->
 
 ---
 

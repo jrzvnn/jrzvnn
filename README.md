@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Pepcom hardware and devices at CES 2026](https://appleinsider.com/articles/26/01/06/the-best-pepcom-hardware-and-devices-at-ces-2026?utm_source=rss)
- - [Accenture agrees to acquire UK AI startup Faculty, which works with the UK government, for an undisclosed sum; Faculty CEO Marc Warner will become Accenture CTO &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260106/p14#a260106p14)
- - [TP-Link brings an AI assistant to its smart home and home networking apps](https://www.theverge.com/tech/854017/tp-link-brings-an-ai-assistant-to-its-smart-home-and-home-networking-apps)
- - [Two new uGreen NASync storage systems have on-device AI](https://appleinsider.com/articles/26/01/06/two-new-ugreen-nasync-storage-systems-have-on-device-ai?utm_source=rss)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First UWB Home Key lock and Adaptive Thermostat lead Aqara&#39;s CES 2026 showcase](https://appleinsider.com/articles/26/01/06/first-uwb-home-key-lock-and-adaptive-thermostat-lead-aqaras-ces-2026-showcase?utm_source=rss)
+ - [Steve Jobs’ Early Apple Items Are Going Up for Auction—Along With His Bow Ties](https://www.wired.com/story/steve-jobs-ephemera-auction-apple/)
+ - [Ring and Watch Duty Team Up to Keep a Closer Eye on Wildfires](https://www.wired.com/story/ring-watch-duty-team-up-wildfire-tracking/)
+ - [Pila makes the power station pretty](https://www.theverge.com/tech/844583/pila-makes-the-power-station-pretty)
+ - [Dell made a big-ass 52-inch 6K Thunderbolt display](https://www.theverge.com/tech/846600/dell-52-ultrasharp-thunderbolt-64-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

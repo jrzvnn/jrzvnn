@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel details its 2nm 18A-process Panther Lake chips, showing major performance gains; laptops with Panther Lake Core Ultra Series 3 chips will debut on Jan. 27 &lpar;Michael Justin Allen Sexton/PCMag&rpar;](http://www.techmeme.com/260105/p30#a260105p30)
- - [Dell brings back XPS branding with the new XPS 14 and 16 laptops, which address some complaints about the previous XPS design but lack dedicated GPU support &lpar;Rich Woods/XDA Developers&rpar;](http://www.techmeme.com/260105/p29#a260105p29)
- - [Study Shows Teens Use Phones More Than an Hour a Day at School](https://www.cnet.com/tech/mobile/study-shows-teens-use-phones-more-than-an-hour-a-day-at-school/#ftag=CAD590a51e)
- - [Nvidia launches the Vera Rubin platform, saying it will offer dramatic reductions in inference and training costs compared to Blackwell, across six new chips &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260105/p28#a260105p28)
- - [Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’](https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/)<!-- TECH:END -->
+ - [Mooncool TK1 Folding Electric Trike review: good first e-trike, if simple &amp; expensive](https://appleinsider.com/articles/26/01/06/mooncool-tk1-folding-electric-trike-review-good-first-e-trike-if-simple-expensive?utm_source=rss)
+ - [Nvidia announces the Alpamayo family of AI models, tools, and datasets for AVs, and details a collaboration with Mercedes-Benz on its first full-stack AV effort &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/260105/p32#a260105p32)
+ - [Garmin now offers nutrition tracking](https://www.theverge.com/tech/855884/garmin-connect-nutrition-tracking)
+ - [Garmin Users No Longer Need a Separate App to Track Their Calories and Macros](https://www.cnet.com/health/nutrition/garmin-nutrition-tracking-connect-plus-app/#ftag=CAD590a51e)
+ - [MSI Smooths Out the Edges of Its Prestige Laptops at CES 2026](https://www.cnet.com/tech/computing/msi-smooths-out-the-edges-of-its-prestige-laptops-at-ces-2026/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

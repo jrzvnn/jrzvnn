@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer plans to invest $600M in AI over &quot;the next couple of years&quot;, as the gaming peripherals maker unveils new AI products like headphones with built-in cameras &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/260106/p17#a260106p17)
+ - [Ring revamps its home sensors, including door, window, and break glass sensors built on the Amazon Sidewalk protocol, and expands the protocol internationally &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/260106/p16#a260106p16)
+ - [American Airlines partners with AT&amp;T to add free, high-speed satellite-based Wi-Fi across its entire fleet, with a target spring 2026 completion date &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260106/p15#a260106p15)
  - [First UWB Home Key lock and Adaptive Thermostat lead Aqara&#39;s CES 2026 showcase](https://appleinsider.com/articles/26/01/06/first-uwb-home-key-lock-and-adaptive-thermostat-lead-aqaras-ces-2026-showcase?utm_source=rss)
- - [Steve Jobs’ Early Apple Items Are Going Up for Auction—Along With His Bow Ties](https://www.wired.com/story/steve-jobs-ephemera-auction-apple/)
- - [Ring and Watch Duty Team Up to Keep a Closer Eye on Wildfires](https://www.wired.com/story/ring-watch-duty-team-up-wildfire-tracking/)
- - [Pila makes the power station pretty](https://www.theverge.com/tech/844583/pila-makes-the-power-station-pretty)
- - [Dell made a big-ass 52-inch 6K Thunderbolt display](https://www.theverge.com/tech/846600/dell-52-ultrasharp-thunderbolt-64-specs)<!-- TECH:END -->
+ - [Steve Jobs’ Early Apple Items Are Going Up for Auction—Along With His Bow Ties](https://www.wired.com/story/steve-jobs-ephemera-auction-apple/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

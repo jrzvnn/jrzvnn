@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jake Sullivan is furious that Trump destroyed his AI foreign policy](https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump)
  - [Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/)
  - [In the first successful US prosecution of a spyware operator in 10+ years, pcTattletale founder pleads guilty to promoting surveillance apps for unlawful uses &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260106/p36#a260106p36)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Influencer content is fuel for an internet-obsessed administration](https://www.theverge.com/tech/856948/nick-shirley-minnesota-daycare-fraud-influencer-media-cycle)
- - [Mobileye is acquiring Israeli humanoid robot startup Mentee Robotics in a cash-and-stock deal valued at $900M; Mentee was founded in 2022 and has raised $50M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/260106/p35#a260106p35)<!-- TECH:END -->
+ - [Influencer content is fuel for an internet-obsessed administration](https://www.theverge.com/tech/856948/nick-shirley-minnesota-daycare-fraud-influencer-media-cycle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

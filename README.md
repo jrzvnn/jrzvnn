@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot](https://www.theverge.com/tech/856149/microsoft-365-office-rebrand-copilot)
  - [Singapore-based data center operator DayOne raised a $2B Series C led by Coatue to build hyperscale campuses in Lahti and Kouvola, Finland, and elsewhere &lpar;Reuters&rpar;](http://www.techmeme.com/260106/p8#a260106p8)
  - [6 Best Gym Bags for Every Workout and Commute &lpar;2026&rpar;](https://www.wired.com/story/best-gym-bags/)
  - [The Best Ventless Fireplaces for Cozy Vibes &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-ventless-fireplace/)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 6, #940](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-6-940/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 3 Keys to Understanding Trump’s Retro Coup in Venezuela](https://www.wired.com/story/3-keys-understanding-trumps-retro-coup-in-venezuela/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

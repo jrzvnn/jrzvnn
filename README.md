@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD unveils Ryzen AI 400 Series chips for AI PCs, with up to 12 Zen 5 CPU cores and 16 RDNA 3.5 GPU cores, built with TSMC&#39;s N4X node, available in Q1 2026 &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260106/p4#a260106p4)
+ - [Nvidia unveils DLSS 4.5 with a new 6x Multi Frame Generation for the RTX 50 series, and a second-generation Super Resolution transformer model for all RTX GPUs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260106/p3#a260106p3)
  - [Analysts expect Samsung&#39;s Q4 operating profit to jump 160% YoY to ~$11.7B, driven by a severe global shortage of memory chips amid booming AI demand &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260106/p2#a260106p2)
  - [Telegram bonds worth $500M are frozen in Russia under western sanctions; filings: its H1 2025 revenue rose 65% YoY to $870M, driven by $300M from Toncoin deals &lpar;Financial Times&rpar;](http://www.techmeme.com/260106/p1#a260106p1)
- - [Nvidia’s GeForce Now is getting native Linux and Fire TV apps](https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps)
- - [Nvidia’s new G-Sync monitors automatically adjust brightness just like a laptop](https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness)
- - [Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality](https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs)<!-- TECH:END -->
+ - [I Challenged an AI Bartender to Design Me a Cocktail. I Was Surprised With the Result](https://www.cnet.com/tech/services-and-software/i-challenged-an-ai-bartender-to-design-me-a-cocktail-i-was-surprised-with-the-result/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

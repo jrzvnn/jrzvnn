@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Pepcom hardware and devices at CES 2026](https://appleinsider.com/articles/26/01/06/the-best-pepcom-hardware-and-devices-at-ces-2026?utm_source=rss)
+ - [Accenture agrees to acquire UK AI startup Faculty, which works with the UK government, for an undisclosed sum; Faculty CEO Marc Warner will become Accenture CTO &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260106/p14#a260106p14)
+ - [TP-Link brings an AI assistant to its smart home and home networking apps](https://www.theverge.com/tech/854017/tp-link-brings-an-ai-assistant-to-its-smart-home-and-home-networking-apps)
  - [Two new uGreen NASync storage systems have on-device AI](https://appleinsider.com/articles/26/01/06/two-new-ugreen-nasync-storage-systems-have-on-device-ai?utm_source=rss)
- - [Ugreen is expanding into AI-powered smart home surveillance](https://www.theverge.com/tech/846789/ugree-syncare-indoor-outdoor-cameras-ai-doorbell)
- - [Chamberlain’s new smart lock will lock your door and shut your garage upon spotting a stranger](https://www.theverge.com/news/851622/chamberlain-myq-secure-view-smart-lock-ces-2026)
- - [Ugreen is now selling an AI NAS with more RAM than my desktop](https://www.theverge.com/gadgets/852453/ugreen-ai-nas-idx6011-pro-photo-search)
- - [Corsair fit a whole Stream Deck into its new gaming keyboard](https://www.theverge.com/tech/854886/corsair-galleon-100-sd-elgato-stream-deck-specs-price-launch)<!-- TECH:END -->
+ - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

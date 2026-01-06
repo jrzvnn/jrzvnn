@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS implemented a 15% price hike for EC2 Capacity Blocks for ML on January 3; Amazon says it &quot;reflects the supply/demand patterns we expect this quarter&quot; &lpar;Corey Quinn/The Register&rpar;](http://www.techmeme.com/260106/p27#a260106p27)
+ - [Power bank feature creep is out of control](https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep)
  - [Intricuit&#39;s Magic Screen adds touch support to the MacBook Pro display](https://appleinsider.com/articles/26/01/06/intricuits-magic-screen-adds-touch-support-to-the-macbook-pro-display?utm_source=rss)
- - [Satechi Thunderbolt 5 CubeDock has SSD bay &amp; fast charging](https://appleinsider.com/articles/26/01/06/satechi-thunderbolt-5-cubedock-has-ssd-bay-fast-charging?utm_source=rss)
- - [Satechi&#39;s Slim EX are low-profile wireless keyboards for cross-platform work](https://appleinsider.com/articles/26/01/06/satechis-slim-ex-are-low-profile-wireless-keyboards-for-cross-platform-work?utm_source=rss)
- - [Internal memo: Meta names CJ Mahoney, former Microsoft legal executive and deputy US Trade Representative during Trump&#39;s first term, as its chief legal officer &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260106/p25#a260106p25)
- - [2 Places to Stream Supernatural Now That It&#39;s Off Netflix](https://www.cnet.com/tech/services-and-software/supernatural-leaves-netflix-where-to-watch-next/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Asus redesigns the Zenbook Duo with a new &quot;hideaway&quot; hinge that shrinks the gap between the laptop&#39;s two 3K 144Hz Lumina Pro OLED displays to just 8.28 mm &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/260106/p26#a260106p26)
+ - [Satechi Thunderbolt 5 CubeDock has SSD bay &amp; fast charging](https://appleinsider.com/articles/26/01/06/satechi-thunderbolt-5-cubedock-has-ssd-bay-fast-charging?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

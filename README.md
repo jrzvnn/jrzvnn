@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Luxurious Headphones Are Almost Half Off](https://www.wired.com/story/bowers-wilkins-px8-deal-126/)
- - [The biggest Nvidia announcements at CES 2026](https://www.theverge.com/tech/856439/nvidia-ces-2026-announcements-roundup)
- - [Save $250 on Apple&#39;s M4 MacBook Air with 32GB RAM](https://appleinsider.com/articles/26/01/06/save-250-on-apples-m4-macbook-air-with-32gb-ram?utm_source=rss)
- - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
- - [Sandisk shares jump ~23% after Jensen Huang highlighted the need for memory and storage at CES; SNDK is up 40%+ in the first three trading sessions of 2026 &lpar;Felice Maranz/Bloomberg&rpar;](http://www.techmeme.com/260106/p30#a260106p30)<!-- TECH:END -->
+ - [Dell goes big with UltraSharp 52 Thunderbolt Hub Monitor](https://appleinsider.com/articles/26/01/06/dell-goes-big-with-ultrasharp-52-thunderbolt-hub-monitor?utm_source=rss)
+ - [Jensen Huang says he isn&#39;t concerned about a billionaires tax under consideration in California, and plans to remain in Silicon Valley &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p32#a260106p32)
+ - [Grok is undressing children — can the law stop it?](https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk)
+ - [Universal Music signs a new AI deal with Nvidia](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal)
+ - [xAI raised a $20B Series E, exceeding the $15B targeted round size, with participation from Valor, Nvidia, and others, and says Grok 5 is currently in training &lpar;xAI&rpar;](http://www.techmeme.com/260106/p31#a260106p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

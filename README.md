@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta and Garmin show an early demo of using Meta&#39;s wrist-based neural band inside of a car to control an infotainment system, as part of Garmin&#39;s Unified Cabin &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260106/p13#a260106p13)
+ - [Meta says it is pausing the release of its Ray-Ban Display glasses to the UK, France, Italy, and Canada due to &quot;unprecedented demand and limited inventory&quot; &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/260106/p12#a260106p12)
+ - [Winter Bird Feeding Tips for the Peak of Bird Watching Season &lpar;2026&rpar;](https://www.wired.com/story/our-best-tips-for-winter-bird-feeding/)
  - [Apple Sainte-Catherine to open in Montreal on January 16](https://appleinsider.com/articles/26/01/06/apple-sainte-catherine-to-open-in-montreal-on-january-16?utm_source=rss)
- - [German car parts supplier Bosch plans to invest €2.5B+ in AI by the end of 2027 and unveils AI-based driver-assist systems with features like automatic parking &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/260106/p11#a260106p11)
- - [A simple fix for the interface-breaking bug on YouTube Clips](https://appleinsider.com/articles/26/01/06/a-simple-fix-for-the-interface-breaking-bug-on-youtube-clips?utm_source=rss)
- - [The Newest Health Trend Is Tracking Your Pee](https://www.wired.com/story/smart-pee-trackers-trend-vivoo-kohler-withings/)
- - [Margaret Atwood on Doomscrolling: ‘I Want to Keep Up With the Latest Doom’](https://www.wired.com/story/the-big-interview-podcast-margaret-atwood/)<!-- TECH:END -->
+ - [German car parts supplier Bosch plans to invest €2.5B+ in AI by the end of 2027 and unveils AI-based driver-assist systems with features like automatic parking &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/260106/p11#a260106p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Luxurious Headphones Are Almost Half Off](https://www.wired.com/story/bowers-wilkins-px8-deal-126/)
  - [The biggest Nvidia announcements at CES 2026](https://www.theverge.com/tech/856439/nvidia-ces-2026-announcements-roundup)
  - [Save $250 on Apple&#39;s M4 MacBook Air with 32GB RAM](https://appleinsider.com/articles/26/01/06/save-250-on-apples-m4-macbook-air-with-32gb-ram?utm_source=rss)
  - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
- - [Sandisk shares jump ~23% after Jensen Huang highlighted the need for memory and storage at CES; SNDK is up 40%+ in the first three trading sessions of 2026 &lpar;Felice Maranz/Bloomberg&rpar;](http://www.techmeme.com/260106/p30#a260106p30)
- - [AI moves into the real world as companion robots and pets](https://www.theverge.com/news/856207/ces-2026-trend-ai-companion-robot-pet)<!-- TECH:END -->
+ - [Sandisk shares jump ~23% after Jensen Huang highlighted the need for memory and storage at CES; SNDK is up 40%+ in the first three trading sessions of 2026 &lpar;Felice Maranz/Bloomberg&rpar;](http://www.techmeme.com/260106/p30#a260106p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

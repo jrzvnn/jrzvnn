@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia brings its G-Sync Pulsar tech to four monitors, which reduces motion blur by using a &quot;rolling scan&quot; scheme that briefly pulses the monitors&#39; backlight &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/260106/p29#a260106p29)
+ - [This robot pool cleaner lifts itself out of the water to charge](https://www.theverge.com/tech/854835/mammotion-spino-s1-pro-robot-pool-cleaner-ces-2026)
+ - [Buyout firm Hg agrees to acquire enterprise financial software maker OneStream in an all-cash deal valued at ~$6.4B that is set to close in H1 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p28#a260106p28)
  - [AWS implemented a 15% price hike for EC2 Capacity Blocks for ML on January 3; Amazon says it &quot;reflects the supply/demand patterns we expect this quarter&quot; &lpar;Corey Quinn/The Register&rpar;](http://www.techmeme.com/260106/p27#a260106p27)
- - [Power bank feature creep is out of control](https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep)
- - [Intricuit&#39;s Magic Screen adds touch support to the MacBook Pro display](https://appleinsider.com/articles/26/01/06/intricuits-magic-screen-adds-touch-support-to-the-macbook-pro-display?utm_source=rss)
- - [Asus redesigns the Zenbook Duo with a new &quot;hideaway&quot; hinge that shrinks the gap between the laptop&#39;s two 3K 144Hz Lumina Pro OLED displays to just 8.28 mm &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/260106/p26#a260106p26)
- - [Satechi Thunderbolt 5 CubeDock has SSD bay &amp; fast charging](https://appleinsider.com/articles/26/01/06/satechi-thunderbolt-5-cubedock-has-ssd-bay-fast-charging?utm_source=rss)<!-- TECH:END -->
+ - [Power bank feature creep is out of control](https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

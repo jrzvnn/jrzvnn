@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Satechi Thunderbolt 5 CubeDock has SSD bay &amp; fast charging](https://appleinsider.com/articles/26/01/06/satechi-thunderbolt-5-cubedock-has-ssd-bay-fast-charging?utm_source=rss)
  - [Satechi&#39;s Slim EX are low-profile wireless keyboards for cross-platform work](https://appleinsider.com/articles/26/01/06/satechis-slim-ex-are-low-profile-wireless-keyboards-for-cross-platform-work?utm_source=rss)
  - [Internal memo: Meta names CJ Mahoney, former Microsoft legal executive and deputy US Trade Representative during Trump&#39;s first term, as its chief legal officer &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260106/p25#a260106p25)
- - [This 16-inch laptop is so light I can easily lift it with three fingers](https://www.theverge.com/news/852034/asus-zenbook-a16-thin-light-ces-2026)<!-- TECH:END -->
+ - [2 Places to Stream Supernatural Now That It&#39;s Off Netflix](https://www.cnet.com/tech/services-and-software/supernatural-leaves-netflix-where-to-watch-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

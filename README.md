@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Samsung plans to acquire $1.73B of its stock for employee and executive compensation, as part of a performance-linked scheme introduced in October 2025 &lpar;Kyu-seok Shim/Reuters&rpar;](http://www.techmeme.com/260107/p14#a260107p14)
- - [The Best Cat Toys for Your Furry Friend &lpar;2026&rpar;](https://www.wired.com/story/best-cat-toys/)
- - [Jensen Huang says Nvidia has &quot;fired up&quot; H200 production in the expectation of resumed China sales and it is working on the &quot;last details&quot; with the US government &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260107/p13#a260107p13)
- - [Samsung says it expects memory chip supply shortages to raise prices across the electronics industry, including potentially among its own consumer products &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p12#a260107p12)
- - [iPhone Air designer joins Hawk AI startup](https://appleinsider.com/articles/26/01/07/iphone-air-designer-joins-hawk-ai-startup?utm_source=rss)<!-- TECH:END -->
+ - [Future iPhones may utilize multi-spectral cameras for Apple Intelligence](https://appleinsider.com/articles/26/01/07/future-iphones-may-utilize-multi-spectral-cameras-for-apple-intelligence?utm_source=rss)
+ - [London-based data center company GTR raised $1.5B from KKR and ~$400M from Oak Hill to develop its facilities in England, Barcelona, Zurich, and Tel Aviv &lpar;Financial Times&rpar;](http://www.techmeme.com/260107/p19#a260107p19)
+ - [Intel spinout and enterprise AI company Articul8 raised over half of a $70M Series B at a $500M pre-money valuation and expects the round to close in Q1 2026 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260107/p18#a260107p18)
+ - [The weirdest tech we&amp;#8217;ve seen at CES 2026](https://www.theverge.com/tech/855460/ces-2026-weirdest-announcements)
+ - [Roblox expands mandatory age estimations for chat features to all regions using Persona&#39;s tech, after a rollout in Australia, New Zealand, and the Netherlands &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260107/p17#a260107p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

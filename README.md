@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
  - 😝 [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
- - 😝 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
- - 💣 [Jim Carrey just being Jim Carrey on set](http://9gag.com/gag/aO8OnZE)
- - 😝 [Mom made a Bulbasaur cake for my 21st, and it&#39;s perfect](http://9gag.com/gag/a2vVgNd)
- - 👉 [Double tap to zoom](http://9gag.com/gag/axy8KjY)<!-- MEMES:END -->
+ - 💣 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 😝 [Relaxation](http://9gag.com/gag/ae9Ez6j)
+ - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 ---
 

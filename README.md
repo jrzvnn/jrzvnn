@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
- - 😝 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)
- - 💣 [Is this p*rn or just the most polite arrest ever?](http://9gag.com/gag/aoy6o8n)
+ - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 😝 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
+ - 💣 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
  - 😝 [Youtube bs](http://9gag.com/gag/aoy6oDX)
- - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
+ - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 ---
 

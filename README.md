@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: JPMorgan Chase has reached a deal to take over the Apple credit card program from Goldman Sachs; JPMorgan plans to launch a new Apple savings account &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260107/p34#a260107p34)
- - [Election Deniers Think the Venezuela Attack Is All About 2020](https://www.wired.com/story/election-deniers-think-venezuela-attack-about-2020-election/)
- - [Apple loses Safari designer Marco Triverio to The Browser Company](https://appleinsider.com/articles/26/01/07/apple-loses-safari-designer-marco-triverio-to-the-browser-company?utm_source=rss)
- - [OpenAI unveils ChatGPT Health, which lets users import medical records and other data from health apps into ChatGPT, available to a small group via a waitlist &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260107/p33#a260107p33)
- - [L’Oréal’s latest flat iron uses infrared light to make hairstyling much faster](https://www.theverge.com/tech/857801/loreal-light-straight-ces-2026-hands-on)<!-- TECH:END -->
+ - [Amazfit’s stylish budget tracker is nearly matching its best price to date](https://www.theverge.com/gadgets/857877/amazfit-active-2-fitness-tracker-new-years-deal-sale-2025)
+ - [Lux Capital raised $1.5B for its ninth fund, the largest in its history, to back companies focusing on fields like breakthrough science and national security &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/260107/p35#a260107p35)
+ - [JPMorgan Chase reaches deal to take over Apple Card](https://appleinsider.com/articles/26/01/07/jpmorgan-chase-reaches-deal-to-take-over-apple-card?utm_source=rss)
+ - [X’s deepfake machine is infuriating policymakers around the globe](https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress)
+ - [Sources: JPMorgan Chase has reached a deal to take over the Apple credit card program from Goldman Sachs; JPMorgan plans to launch a new Apple savings account &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260107/p34#a260107p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

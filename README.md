@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Traces of Leonardo da Vinci&#39;s DNA May Have Been Discovered on a Red Chalk Drawing Called &#39;Holy Child&#39;](https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/)
  - [Apple Card moving to Chase as issuer, confirms Apple](https://appleinsider.com/articles/26/01/07/apple-card-moving-to-chase-as-issuer-confirms-apple?utm_source=rss)
  - [Sources: Larry Page bought two Miami estates in December and January for a combined $173.4M; Sergey Brin is also said to be in discussions to buy a Miami home &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260107/p38#a260107p38)
- - [CES 2026 Live: All the New Laptops, Robots, AI Devices and Futuristic Concepts](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [The Apple AirPods Pro 3 Are $50 Off](https://www.wired.com/story/apple-airpods-pro-3-deal-126/)
- - [Save up to $400 on iPad Pros with today&#39;s top deals](https://appleinsider.com/articles/26/01/07/save-up-to-400-on-ipad-pros-with-todays-top-deals?utm_source=rss)<!-- TECH:END -->
+ - [Bluetti now charges power stations at up to 1200W in your car](https://www.theverge.com/tech/842308/bluetti-now-charges-power-stations-at-up-to-1200w-in-your-car)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jim Carrey just being Jim Carrey on set](http://9gag.com/gag/aO8OnZE)
- - 😝 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
- - 💣 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
- - 😝 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)
+ - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
+ - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 💣 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)
+ - 😝 [Youtube bs](http://9gag.com/gag/aoy6oDX)
  - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
 
 ---

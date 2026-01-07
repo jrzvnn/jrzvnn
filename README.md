@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet surpassed Apple in market cap for the first time since 2019 after its shares closed up 2.5% on Wednesday, valuing it at $3.89T vs. Apple&#39;s $3.85T &lpar;Barron&#39;s Online&rpar;](http://www.techmeme.com/260107/p36#a260107p36)
  - [Amazfit’s stylish budget tracker is nearly matching its best price to date](https://www.theverge.com/gadgets/857877/amazfit-active-2-fitness-tracker-new-years-deal-sale-2025)
  - [Lux Capital raised $1.5B for its ninth fund, the largest in its history, to back companies focusing on fields like breakthrough science and national security &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/260107/p35#a260107p35)
  - [JPMorgan Chase reaches deal to take over Apple Card](https://appleinsider.com/articles/26/01/07/jpmorgan-chase-reaches-deal-to-take-over-apple-card?utm_source=rss)
- - [X’s deepfake machine is infuriating policymakers around the globe](https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress)
- - [Sources: JPMorgan Chase has reached a deal to take over the Apple credit card program from Goldman Sachs; JPMorgan plans to launch a new Apple savings account &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260107/p34#a260107p34)<!-- TECH:END -->
+ - [X’s deepfake machine is infuriating policymakers around the globe](https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

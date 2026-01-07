@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 😝 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
- - 💣 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
- - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 👉 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)<!-- MEMES:END -->
+ - 😝 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
+ - 😝 [Chair of Austria&#39;s NATO Enlargement Committee:](http://9gag.com/gag/aAy7AE9)
+ - 💣 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
+ - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 ---
 

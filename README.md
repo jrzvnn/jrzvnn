@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is probably the iPhone Fold&#39;s crease-proof display](https://appleinsider.com/articles/26/01/06/this-is-probably-the-iphone-folds-crease-proof-screen?utm_source=rss)
- - [Brands complain Amazon&#39;s &quot;Buy for Me&quot; AI-powered shopping tool features their products on Amazon without permission and shows descriptions with errors &lpar;Allison Smith/Modern Retail&rpar;](http://www.techmeme.com/260106/p37#a260106p37)
- - [Jake Sullivan is furious that Trump destroyed his AI foreign policy](https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump)
- - [CES 2026 Live: New Laptops, Big TVs, Lego Smart Bricks and AI Pets Take Spotlight](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [CES 2026: Here Are the Best Robots So Far for Housework, Fun and More](https://www.cnet.com/tech/ces-2026-here-are-the-best-robots-so-far-for-housework-fun-and-more/)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [The Luna Band Uses Your Voice to Track Your Health, Giving You One Less Screen to Stare At](https://www.cnet.com/health/fitness/luna-band-voice-track-health/)
+ - [CES 2026 Live: All the New AI Devices, Home Tech, Robots, Audio, Cars and Computing](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
+ - [Sources: Discord has filed confidentially for an IPO, working with Goldman Sachs and JPMorgan Chase &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p38#a260106p38)
+ - [This is probably the iPhone Fold&#39;s crease-proof display](https://appleinsider.com/articles/26/01/06/this-is-probably-the-iphone-folds-crease-proof-screen?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
- - 😝 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
- - 💣 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
+ - 😝 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
  - 😝 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
+ - 💣 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 😝 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
  - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese AI startups Zhipu and MiniMax are set to go public in Hong Kong on January 8 and 9, respectively; MiniMax has 210M+ users, and Zhipu has 8,000+ clients &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p10#a260107p10)
- - [CES 2026 Live: All the New AI Devices, Home Tech, Robots, Audio, Cars and Computing](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Can &#39;Fibermaxxing&#39; Reduce Your Risk of Colorectal Cancer? Registered Dietitians Weigh In](https://www.cnet.com/health/nutrition/what-fibermaxxing-benefits-safety-lose-weight/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 7 #675](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-7-675/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 7, #471](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-7-471/)<!-- TECH:END -->
+ - [Jensen Huang says Nvidia has &quot;fired up&quot; H200 production in the expectation of resumed China sales and it is working on the &quot;last details&quot; with the US government &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260107/p13#a260107p13)
+ - [Samsung says it expects memory chip supply shortages to raise prices across the electronics industry, including potentially among its own consumer products &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p12#a260107p12)
+ - [iPhone Air designer joins Hawk AI startup](https://appleinsider.com/articles/26/01/07/iphone-air-designer-joins-hawk-ai-startup?utm_source=rss)
+ - [Polymarket is disputing that the US mission to capture Nicolás Maduro constituted an &quot;invasion&quot;, refusing to pay out bets on a contract with $10.5M in wagers &lpar;Financial Times&rpar;](http://www.techmeme.com/260107/p11#a260107p11)
+ - [Chinese AI startups Zhipu and MiniMax are set to go public in Hong Kong on January 8 and 9, respectively; MiniMax has 210M+ users, and Zhipu has 8,000+ clients &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p10#a260107p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

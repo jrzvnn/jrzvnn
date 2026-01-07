@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Character.AI and Google settle teen suicide and self-harm suits](https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement)
  - [The Apple AirPods Pro 3 Are $50 Off](https://www.wired.com/story/apple-airpods-pro-3-deal-126/)
  - [Save up to $400 on iPad Pros with today&#39;s top deals](https://appleinsider.com/articles/26/01/07/save-up-to-400-on-ipad-pros-with-todays-top-deals?utm_source=rss)
  - [WhatsApp rolls out new group chat features: member tags that show user roles, text stickers generated from any word, and custom event reminders &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260107/p37#a260107p37)
- - [Be wary of the connection between ChatGPT and Apple Health](https://appleinsider.com/articles/25/12/02/be-wary-of-the-rumored-connection-between-chatgpt-and-apple-health?utm_source=rss)
- - [Alphabet surpassed Apple in market cap for the first time since 2019 after its shares closed up 2.5% on Wednesday, valuing it at $3.89T vs. Apple&#39;s $3.85T &lpar;Barron&#39;s Online&rpar;](http://www.techmeme.com/260107/p36#a260107p36)<!-- TECH:END -->
+ - [Be wary of the connection between ChatGPT and Apple Health](https://appleinsider.com/articles/25/12/02/be-wary-of-the-rumored-connection-between-chatgpt-and-apple-health?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

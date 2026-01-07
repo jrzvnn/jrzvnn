@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI unveils ChatGPT Health, which lets users import medical records and other data from health apps into ChatGPT, initially available to a small group &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260107/p33#a260107p33)
+ - [OpenAI unveils ChatGPT Health, which lets users import medical records and other data from health apps into ChatGPT, available to a small group via a waitlist &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260107/p33#a260107p33)
  - [L’Oréal’s latest flat iron uses infrared light to make hair styling much faster](https://www.theverge.com/tech/857801/loreal-light-straight-ces-2026-hands-on)
  - [Be wary of the connection between ChatGPT and Apple Health](https://appleinsider.com/articles/25/12/02/be-wary-of-the-rumored-connection-between-chatgpt-and-apple-health?utm_source=rss)
  - [What&#39;s Going on With Smart Rings?](https://www.wired.com/story/whats-going-on-with-smart-rings-oura-ultrahuman-ringconn/)

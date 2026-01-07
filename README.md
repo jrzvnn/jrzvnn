@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
  - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
- - 💣 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)
- - 😝 [Fast acting, no side effects...](http://9gag.com/gag/a1mnnWP)
+ - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 💣 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 😝 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)
  - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 ---

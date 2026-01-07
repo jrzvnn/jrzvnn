@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chair of Austria&#39;s NATO Enlargement Committee:](http://9gag.com/gag/aAy7AE9)
+ - 😝 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
  - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
  - 💣 [Say when](http://9gag.com/gag/aqyOO1R)
- - 😝 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
- - 👉 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
+ - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 👉 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CES Live Blog, Day 3: Even More of the Coolest Tech We’ve Seen](https://www.wired.com/live/ces-2026-live-blog/)
  - [A look at Kalshi and Polymarket&#39;s lucrative shift toward sports, as high-profile real-world bets raise questions about access, integrity, and US CFTC regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p8#a260107p8)
  - [As data center development pressures power grids, officials have proposed requiring data centers to power down or switch to a backup when blackout risks rise &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p7#a260107p7)
  - [Achieve Your Goals in 2026 With These 5 Expert Tips](https://www.cnet.com/health/never-too-late-new-years-resolution-tips-reaching-your-goals/)
- - [An interview with Google DeepMind CTO Koray Kavukcuoglu on his new role as Google&#39;s chief AI architect, Gemini 3, progress toward the goal of AGI, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260107/p6#a260107p6)
- - [How Google&#39;s ambitious approach to training Gemini on text, code, audio, images, and video helped it stage a powerful comeback, triggering a Code Red at OpenAI &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p5#a260107p5)<!-- TECH:END -->
+ - [An interview with Google DeepMind CTO Koray Kavukcuoglu on his new role as Google&#39;s chief AI architect, Gemini 3, progress toward the goal of AGI, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260107/p6#a260107p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

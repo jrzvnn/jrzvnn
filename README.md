@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Records Reveal the Mess RFK Jr. Left When He Dumped a Dead Bear in Central Park](https://www.wired.com/story/rfk-jr-dead-bear-cub-central-park-photo/)
- - [The Ancient Art of Nasal Rinsing Might Protect You From a Cold](https://www.wired.com/story/cold-nose-washing-nasal-saline-rinse/)
- - [Source: Ant Group&#39;s Ant International grew revenue by 20% to 25% in 2025 to an estimated $3.7B, or ~10% of Ant&#39;s total 2025 revenue, as it competes with Visa &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/260107/p28#a260107p28)
- - [Venezuela Is the First Big Test for the Pentagon&#39;s Influencer Press Corps—and It&#39;s Failing](https://www.wired.com/story/venezuela-pentagon-press-corps/)
- - [Polymarket agrees to its first media partnership to supply Dow Jones outlets, including the WSJ and Barron&#39;s, with real-time prediction market trading data &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/260107/p27#a260107p27)<!-- TECH:END -->
+ - [Toilet cameras and musical lollipops: The weird side of CES 2026](https://appleinsider.com/articles/26/01/07/toilet-cameras-and-musical-lollipops-the-weird-side-of-ces-2026?utm_source=rss)
+ - [Utah launches a pilot program with health-tech startup Doctronic to let AI systems handle routine prescription renewals for patients with chronic conditions &lpar;Politico&rpar;](http://www.techmeme.com/260107/p29#a260107p29)
+ - [Sony&amp;#8217;s new &amp;#8216;Hyperpop&amp;#8217; PS5 covers are bursting with RGB color](https://www.theverge.com/tech/857603/sony-ps5-covers-controller-hyperpop-color-accessories)
+ - [The best chargers and portable power solutions at CES 2026](https://www.theverge.com/tech/855028/ces-2026-best-chargers-wireless-power-bank-qi)
+ - [New Records Reveal the Mess RFK Jr. Left When He Dumped a Dead Bear in Central Park](https://www.wired.com/story/rfk-jr-dead-bear-cub-central-park-photo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

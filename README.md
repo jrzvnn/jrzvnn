@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
- - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 💣 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
+ - 😝 [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
  - 😝 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
- - 👉 [Jim Carrey just being Jim Carrey on set](http://9gag.com/gag/aO8OnZE)<!-- MEMES:END -->
+ - 💣 [Jim Carrey just being Jim Carrey on set](http://9gag.com/gag/aO8OnZE)
+ - 😝 [Mom made a Bulbasaur cake for my 21st, and it&#39;s perfect](http://9gag.com/gag/a2vVgNd)
+ - 👉 [Double tap to zoom](http://9gag.com/gag/axy8KjY)<!-- MEMES:END -->
 
 ---
 

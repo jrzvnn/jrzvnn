@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Samsung plans to acquire $1.73B of its stock for employee and executive compensation, as part of a performance-linked scheme introduced in October 2025 &lpar;Kyu-seok Shim/Reuters&rpar;](http://www.techmeme.com/260107/p14#a260107p14)
+ - [The Best Cat Toys for Your Furry Friend &lpar;2026&rpar;](https://www.wired.com/story/best-cat-toys/)
  - [Jensen Huang says Nvidia has &quot;fired up&quot; H200 production in the expectation of resumed China sales and it is working on the &quot;last details&quot; with the US government &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260107/p13#a260107p13)
  - [Samsung says it expects memory chip supply shortages to raise prices across the electronics industry, including potentially among its own consumer products &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p12#a260107p12)
- - [iPhone Air designer joins Hawk AI startup](https://appleinsider.com/articles/26/01/07/iphone-air-designer-joins-hawk-ai-startup?utm_source=rss)
- - [Polymarket is disputing that the US mission to capture Nicolás Maduro constituted an &quot;invasion&quot;, refusing to pay out bets on a contract with $10.5M in wagers &lpar;Financial Times&rpar;](http://www.techmeme.com/260107/p11#a260107p11)
- - [Chinese AI startups Zhipu and MiniMax are set to go public in Hong Kong on January 8 and 9, respectively; MiniMax has 210M+ users, and Zhipu has 8,000+ clients &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p10#a260107p10)<!-- TECH:END -->
+ - [iPhone Air designer joins Hawk AI startup](https://appleinsider.com/articles/26/01/07/iphone-air-designer-joins-hawk-ai-startup?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

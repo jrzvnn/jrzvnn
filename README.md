@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
- - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 💣 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
- - 😝 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
+ - 😝 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
+ - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 💣 [Say when](http://9gag.com/gag/aqyOO1R)
+ - 😝 [Youtube bs](http://9gag.com/gag/aoy6oDX)
  - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
 
 ---

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 😝 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
+ - 💣 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
  - 😝 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
- - 💣 [Is this p*rn or just the most polite arrest ever?](http://9gag.com/gag/aoy6o8n)
- - 😝 [Youtube bs](http://9gag.com/gag/aoy6oDX)
  - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 ---

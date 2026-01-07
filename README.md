@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happened?](http://9gag.com/gag/a7oBmgb)
  - 😝 [Jim Carrey just being Jim Carrey on set](http://9gag.com/gag/aO8OnZE)
+ - 😝 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
  - 💣 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)
  - 😝 [Fast acting, no side effects...](http://9gag.com/gag/a1mnnWP)
  - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->

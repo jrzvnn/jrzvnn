@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
- - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 😝 [Chair of Austria&#39;s NATO Enlargement Committee:](http://9gag.com/gag/aAy7AE9)
+ - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
  - 💣 [Say when](http://9gag.com/gag/aqyOO1R)
- - 😝 [Youtube bs](http://9gag.com/gag/aoy6oDX)
- - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
+ - 😝 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
+ - 👉 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
 
 ---
 

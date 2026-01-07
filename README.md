@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 😝 [What happened?](http://9gag.com/gag/a7oBmgb)
  - 😝 [Jim Carrey just being Jim Carrey on set](http://9gag.com/gag/aO8OnZE)
- - 💣 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
- - 😝 [Relaxation](http://9gag.com/gag/ae9Ez6j)
+ - 💣 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)
+ - 😝 [Fast acting, no side effects...](http://9gag.com/gag/a1mnnWP)
  - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 ---

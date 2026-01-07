@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Trump and Big Tech aim to build SMRs to win the AI race, a look at the issues they face; none of the 50 SMRs under development have a US operating license &lpar;Jamie Smyth/Financial Times&rpar;](http://www.techmeme.com/260107/p22#a260107p22)
+ - [macOS certificate expiration broke Logitech&#39;s mouse software](https://appleinsider.com/articles/26/01/07/macos-certificate-expiration-broke-logitechs-mouse-software?utm_source=rss)
+ - [What surprised us the most at CES 2026](https://www.theverge.com/tech/857406/ces-2026-surprises)
  - [Ikea is expanding its Matter support to two stylish lamps](https://www.theverge.com/tech/853143/ikea-smart-home-matter-varmblixt-donut-color-changing-pendant-lamp)
- - [Netflix is bringing back some big franchises in 2026](https://www.theverge.com/streaming/856756/netflix-2026-releases-bridgerton-one-piece-3-body)
- - [Ikea’s $10 Kallsup speakers are tiny, colorful, and surprisingly loud](https://www.theverge.com/tech/857403/ikea-kallsup-bluetooth-speaker-price-release-date)
- - [These Are the Head-Turning TVs of CES 2026](https://www.cnet.com/tech/home-entertainment/these-are-the-head-turning-tvs-of-2026/)
- - [Nike quietly sold its digital products subsidiary RTFKT on December 16 for an undisclosed sum, roughly one year after Nike shuttered the NFT unit &lpar;Matthew Kish/Oregonian&rpar;](http://www.techmeme.com/260107/p21#a260107p21)<!-- TECH:END -->
+ - [Netflix is bringing back some big franchises in 2026](https://www.theverge.com/streaming/856756/netflix-2026-releases-bridgerton-one-piece-3-body)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blood for stonks](https://www.theverge.com/policy/858075/trump-venezuela-maduro-kidnapping-spectacle)
  - [Traces of Leonardo da Vinci&#39;s DNA May Have Been Discovered on a Red Chalk Drawing Called &#39;Holy Child&#39;](https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/)
  - [Apple Card moving to Chase as issuer, confirms Apple](https://appleinsider.com/articles/26/01/07/apple-card-moving-to-chase-as-issuer-confirms-apple?utm_source=rss)
  - [Sources: Larry Page bought two Miami estates in December and January for a combined $173.4M; Sergey Brin is also said to be in discussions to buy a Miami home &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260107/p38#a260107p38)
- - [Bluetti now charges power stations at up to 1200W in your car](https://www.theverge.com/tech/842308/bluetti-now-charges-power-stations-at-up-to-1200w-in-your-car)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Bluetti now charges power stations at up to 1200W in your car](https://www.theverge.com/tech/842308/bluetti-now-charges-power-stations-at-up-to-1200w-in-your-car)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

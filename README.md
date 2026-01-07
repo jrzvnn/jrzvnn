@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
- - 💣 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
+ - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
  - 😝 [Jim Carrey just being Jim Carrey on set](http://9gag.com/gag/aO8OnZE)
+ - 💣 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
+ - 😝 [Relaxation](http://9gag.com/gag/ae9Ez6j)
  - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 ---

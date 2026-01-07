@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell admits consumers don’t care about AI PCs](https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments)
- - [Cambodia extradites Chen Zhi, the chairman of online scam conglomerate Prince Group, to China; in October, the US DOJ seized $12B in bitcoin belonging to Chen &lpar;Gabriele Steinhauser/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p30#a260107p30)
- - [Apple to temporarily close Regent Street store in London](https://appleinsider.com/articles/26/01/07/apple-to-temporarily-close-regent-street-store-in-london?utm_source=rss)
- - [CES 2026 tech you can already buy](https://www.theverge.com/gadgets/856494/ces-2026-tech-you-can-already-buy)
- - [L’Oréal’s new LED face masks address all my issues with this category](https://www.theverge.com/tech/857164/ces-2026-hands-on-loreal)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s smart shopping cart for Whole Foods gets bigger, lighter, and adds tap-to-pay](https://www.theverge.com/news/857811/amazon-redesigned-dash-cart-whole-foods-fresh-launch)
+ - [Fujifilm’s new instant camera captures video with vintage effects](https://www.theverge.com/tech/857798/fujifilm-instax-mini-evo-cinema-printer-instant-camera-video-effects)
+ - [Some of our favorite 4K UHD Blu-rays are three for $33 at Amazon right now](https://www.theverge.com/gadgets/857061/amazon-4k-uhd-blu-ray-promo-genki-moonbase-charger-deal-sale)
+ - [Sources: Anthropic plans to raise $10B led by Singapore&#39;s GIC and Coatue Management at a $350B valuation before the new investment, up from $183B in September &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p31#a260107p31)
+ - [Dell admits consumers don’t care about AI PCs](https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

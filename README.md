@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese AI startups Zhipu and MiniMax are set to go public in Hong Kong on January 8 and 9, respectively; MiniMax has 210M+ users, and Zhipu has 8,000+ clients &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p10#a260107p10)
  - [CES 2026 Live: All the New AI Devices, Home Tech, Robots, Audio, Cars and Computing](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
  - [Can &#39;Fibermaxxing&#39; Reduce Your Risk of Colorectal Cancer? Registered Dietitians Weigh In](https://www.cnet.com/health/nutrition/what-fibermaxxing-benefits-safety-lose-weight/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 7 #675](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-7-675/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 7, #471](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-7-471/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 7, #941](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-7-941/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 7, #471](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-7-471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

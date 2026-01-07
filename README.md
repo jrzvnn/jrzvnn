@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Filing: Larry Page moved assets out of California ahead of the proposed CA wealth tax, meeting an end-of-2025 deadline; a source said he has left the state &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/260106/p43#a260106p43)
  - [Motorola unveils the Razr Fold, its first book-style foldable phone, with a 6.6&quot; front display and an 8.1&quot; 2K LTPO inner screen, expected to launch this summer &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260106/p42#a260106p42)
+ - [CES 2026 Live: All the New AI Devices, Home Tech, Robots, Audio, Cars and Computing](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
  - [How folder emoji &amp; customization works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-folder-emoji-customization-works-in-macos-tahoe?utm_source=rss)
- - [Intel is planning a custom Panther Lake CPU for handheld PCs](https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-7/)<!-- TECH:END -->
+ - [Hisense&#39;s 116-Inch MiniLED TV Gets Cyan Pixel for Even More Colors](https://www.cnet.com/tech/home-entertainment/hisenses-116-inch-miniled-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

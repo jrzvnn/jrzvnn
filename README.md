@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What&#39;s Going on With Smart Rings?](https://www.wired.com/story/whats-going-on-with-smart-rings-oura-ultrahuman-ringconn/)
+ - [Samsung&amp;#8217;s Ballie robot is probably never coming out](https://www.theverge.com/news/857864/samsung-ballie-robot-shelved-ces-2026)
+ - [AI Models Are Starting to Learn by Asking Themselves Questions](https://www.wired.com/story/ai-models-keep-learning-after-training-research/)
  - [OpenAI launches ChatGPT Health, encouraging users to connect their medical records](https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records)
- - [Docs: Character.AI and Google agree to settle lawsuits with families of teenagers who killed or harmed themselves after interacting with Character.AI&#39;s chatbot &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p32#a260107p32)
- - [Amazon&amp;#8217;s smart shopping cart for Whole Foods gets bigger, lighter, and adds tap-to-pay](https://www.theverge.com/news/857811/amazon-redesigned-dash-cart-whole-foods-fresh-launch)
- - [Fujifilm’s new instant camera captures video with vintage effects](https://www.theverge.com/tech/857798/fujifilm-instax-mini-evo-cinema-printer-instant-camera-video-effects)
- - [Some of our favorite 4K UHD Blu-rays are three for $33 at Amazon right now](https://www.theverge.com/gadgets/857061/amazon-4k-uhd-blu-ray-promo-genki-moonbase-charger-deal-sale)<!-- TECH:END -->
+ - [Docs: Character.AI and Google agree to settle lawsuits with families of teenagers who killed or harmed themselves after interacting with Character.AI&#39;s chatbot &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p32#a260107p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

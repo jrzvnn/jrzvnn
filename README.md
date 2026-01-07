@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Election Deniers Think the Venezuela Attack Is All About 2020](https://www.wired.com/story/election-deniers-think-venezuela-attack-about-2020-election/)
+ - [Apple loses Safari designer Marco Triverio to The Browser Company](https://appleinsider.com/articles/26/01/07/apple-loses-safari-designer-marco-triverio-to-the-browser-company?utm_source=rss)
  - [OpenAI unveils ChatGPT Health, which lets users import medical records and other data from health apps into ChatGPT, available to a small group via a waitlist &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260107/p33#a260107p33)
  - [L’Oréal’s latest flat iron uses infrared light to make hair styling much faster](https://www.theverge.com/tech/857801/loreal-light-straight-ces-2026-hands-on)
- - [Be wary of the connection between ChatGPT and Apple Health](https://appleinsider.com/articles/25/12/02/be-wary-of-the-rumored-connection-between-chatgpt-and-apple-health?utm_source=rss)
- - [What&#39;s Going on With Smart Rings?](https://www.wired.com/story/whats-going-on-with-smart-rings-oura-ultrahuman-ringconn/)
- - [Samsung&amp;#8217;s Ballie robot is probably never coming out](https://www.theverge.com/news/857864/samsung-ballie-robot-shelved-ces-2026)<!-- TECH:END -->
+ - [Be wary of the connection between ChatGPT and Apple Health](https://appleinsider.com/articles/25/12/02/be-wary-of-the-rumored-connection-between-chatgpt-and-apple-health?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

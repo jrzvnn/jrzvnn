@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China unveils rules banning major platforms like Alibaba from forcing merchants into discounts or practices seen as disrupting market order, effective February &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p1#a260107p1)
- - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
- - [The Best Massage Guns to Keep You on Track With Your Fitness Resolutions](https://www.cnet.com/health/fitness/best-massage-gun/)
- - [Filing: Larry Page moved assets out of California ahead of the proposed CA wealth tax, meeting an end-of-2025 deadline; a source said he has left the state &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/260106/p43#a260106p43)
- - [Motorola unveils the Razr Fold, its first book-style foldable phone, with a 6.6&quot; front display and an 8.1&quot; 2K LTPO inner screen, expected to launch this summer &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260106/p42#a260106p42)<!-- TECH:END -->
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
+ - [60% Off Groupon Promo Code | January 2026](https://www.wired.com/story/groupon-promo-code/)
+ - [Dutch fintech Bunq applies to become a US bank; the OCC conditionally approved national trust bank charters for several crypto firms in 2025, including Circle &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/260107/p3#a260107p3)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [20% Off Sephora Promo Code | January 2026](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

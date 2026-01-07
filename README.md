@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based e-commerce logistics platform Swap raised a $100M Series C led by DST Global and Iconiq, after raising a $40M Series B in March 2025 &lpar;Axios&rpar;](http://www.techmeme.com/260107/p23#a260107p23)
- - [Spotify is finally bringing your friends’ Listening Activity to mobile](https://www.theverge.com/news/857404/spotify-listening-activity-mobile)
- - [Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck](https://www.wired.com/review/luxe-cafe-premier-series-automatic-espresso-machine/)
- - [As Trump and Big Tech aim to build SMRs to win the AI race, a look at the issues they face; none of the 50 SMRs under development have a US operating license &lpar;Jamie Smyth/Financial Times&rpar;](http://www.techmeme.com/260107/p22#a260107p22)
- - [macOS certificate expiration broke Logitech&#39;s mouse software](https://appleinsider.com/articles/26/01/07/macos-certificate-expiration-broke-logitechs-mouse-software?utm_source=rss)<!-- TECH:END -->
+ - [Spotify launches Listening Activity on iOS and Android, letting users view friends&#39; real-time listening via the sidebar alongside chats, as an opt-in feature &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260107/p25#a260107p25)
+ - [Crypto infrastructure provider Fireblocks agrees to acquire accounting platform TRES Finance, sources say for $130M in cash and equity; TRES raised $11M in 2023 &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260107/p24#a260107p24)
+ - [Corsair&#39;s Galleon 100 SD combines a mechanical keyboard with a Stream Deck](https://appleinsider.com/articles/26/01/07/corsairs-galleon-100-sd-combines-a-mechanical-keyboard-with-a-stream-deck?utm_source=rss)
+ - [You can turn this modular clamp-on controller into an N64 or GameCube gamepad](https://www.theverge.com/tech/857428/hyperkin-gamesir-x5-alteron-clamp-bluetooth-wireless-controller)
+ - [London-based e-commerce logistics platform Swap raised a $100M Series C led by DST Global and Iconiq, after raising a $40M Series B in March 2025 &lpar;Axios&rpar;](http://www.techmeme.com/260107/p23#a260107p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polymarket agrees to its first media partnership to supply Dow Jones outlets, including the WSJ and Barron&#39;s, with real-time prediction market trading data &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/260107/p27#a260107p27)
- - [Breville Luxe Brewer Review &lpar;2025&rpar;: Good Drip, Real Cold Brew](https://www.wired.com/review/breville-luxe-brewer-drip-coffeemaker/)
- - [Sources: China told some local tech companies to temporarily halt purchase orders for Nvidia&#39;s H200 chips while officials deliberate on import conditions &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/260107/p26#a260107p26)
- - [Spotify launches Listening Activity on iOS and Android, letting users view friends&#39; real-time listening via the sidebar alongside chats, as an opt-in feature &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260107/p25#a260107p25)
- - [This CES Company&#39;s Trash Cans Mash Your Cast-Off Plastic Bags Into Recyclable Bricks](https://www.cnet.com/home/smart-home/trash-cans-turn-plastic-bags-into-recyclable-bricks-ces-2026/)<!-- TECH:END -->
+ - [New Records Reveal the Mess RFK Jr. Left When He Dumped a Dead Bear in Central Park](https://www.wired.com/story/rfk-jr-dead-bear-cub-central-park-photo/)
+ - [The Ancient Art of Nasal Rinsing Might Protect You From a Cold](https://www.wired.com/story/cold-nose-washing-nasal-saline-rinse/)
+ - [Source: Ant Group&#39;s Ant International grew revenue by 20% to 25% in 2025 to an estimated $3.7B, or ~10% of Ant&#39;s total 2025 revenue, as it competes with Visa &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/260107/p28#a260107p28)
+ - [Venezuela Is the First Big Test for the Pentagon&#39;s Influencer Press Corps—and It&#39;s Failing](https://www.wired.com/story/venezuela-pentagon-press-corps/)
+ - [Polymarket agrees to its first media partnership to supply Dow Jones outlets, including the WSJ and Barron&#39;s, with real-time prediction market trading data &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/260107/p27#a260107p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

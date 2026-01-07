@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Are the Head-Turning TVs of CES 2026](https://www.cnet.com/tech/home-entertainment/these-are-the-head-turning-tvs-of-2026/)
  - [Nike quietly sold its digital products subsidiary RTFKT on December 16 for an undisclosed sum, roughly one year after Nike shuttered the NFT unit &lpar;Matthew Kish/Oregonian&rpar;](http://www.techmeme.com/260107/p21#a260107p21)
+ - [CES 2026 Live: All the New AI Devices, Home Tech, Robots, Audio, Cars and Computing](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
  - [The best Showstoppers devices spotted at CES 2026](https://appleinsider.com/articles/26/01/07/the-best-showstoppers-devices-spotted-at-ces-2026?utm_source=rss)
- - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
- - [Memo: JPMorgan&#39;s asset management unit cuts ties with proxy advisory firms to use its AI-powered Proxy IQ platform to assist on US votes, an industry first &lpar;Jack Pitcher/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p20#a260107p20)
- - [Future iPhones may utilize multi-spectral cameras for Apple Intelligence](https://appleinsider.com/articles/26/01/07/future-iphones-may-utilize-multi-spectral-cameras-for-apple-intelligence?utm_source=rss)<!-- TECH:END -->
+ - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

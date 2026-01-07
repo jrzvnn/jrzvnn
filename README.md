@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI launches ChatGPT Health, encouraging users to connect their medical records](https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records)
+ - [Docs: Character.AI and Google agree to settle lawsuits with families of teenagers who killed or harmed themselves after interacting with Character.AI&#39;s chatbot &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p32#a260107p32)
  - [Amazon&amp;#8217;s smart shopping cart for Whole Foods gets bigger, lighter, and adds tap-to-pay](https://www.theverge.com/news/857811/amazon-redesigned-dash-cart-whole-foods-fresh-launch)
  - [Fujifilm’s new instant camera captures video with vintage effects](https://www.theverge.com/tech/857798/fujifilm-instax-mini-evo-cinema-printer-instant-camera-video-effects)
- - [Some of our favorite 4K UHD Blu-rays are three for $33 at Amazon right now](https://www.theverge.com/gadgets/857061/amazon-4k-uhd-blu-ray-promo-genki-moonbase-charger-deal-sale)
- - [Sources: Anthropic plans to raise $10B led by Singapore&#39;s GIC and Coatue Management at a $350B valuation before the new investment, up from $183B in September &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p31#a260107p31)
- - [Dell admits consumers don’t care about AI PCs](https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments)<!-- TECH:END -->
+ - [Some of our favorite 4K UHD Blu-rays are three for $33 at Amazon right now](https://www.theverge.com/gadgets/857061/amazon-4k-uhd-blu-ray-promo-genki-moonbase-charger-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

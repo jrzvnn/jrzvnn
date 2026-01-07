@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [GWI: LinkedIn&#39;s 2025 revenue rose to $17B from $7B in 2020 as users doubled to 1.3B; 4.7% of US users checked more than once per day in 2025, from 3.9% in 2020 &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p9#a260107p9)
+ - [I Have the Worst Bedhead. Here&#39;s What Happened When I Switched My Cotton Pillowcase to Silk](https://www.cnet.com/health/sleep/what-happened-when-switched-my-cotton-pillowcase-silk-bedhead/)
  - [It turns out I’ve been using my Hue lights all wrong](https://www.theverge.com/tech/857250/philips-hue-spatial-aware-smart-lighting-feature)
  - [CES Live Blog, Day 3: Even More of the Coolest Tech We’ve Seen](https://www.wired.com/live/ces-2026-live-blog/)
- - [A look at Kalshi and Polymarket&#39;s lucrative shift toward sports, as high-profile real-world bets raise questions about access, integrity, and US CFTC regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p8#a260107p8)
- - [As data center development puts pressure on power grids, US officials propose requiring data centers to power down or switch to a backup as blackout risks rise &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p7#a260107p7)<!-- TECH:END -->
+ - [A look at Kalshi and Polymarket&#39;s lucrative shift toward sports, as high-profile real-world bets raise questions about access, integrity, and US CFTC regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p8#a260107p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

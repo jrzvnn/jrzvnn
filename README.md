@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
- - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
- - 💣 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)
- - 😝 [Youtube bs](http://9gag.com/gag/aoy6oDX)
+ - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 💣 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 😝 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
  - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
 
 ---

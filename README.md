@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [The Luna Band Uses Your Voice to Track Your Health, Giving You One Less Screen to Stare At](https://www.cnet.com/health/fitness/luna-band-voice-track-health/)
+ - [Lenovo is building an AI assistant that ‘can act on your behalf’](https://www.theverge.com/column/857053/lenovo-ai-assistant-qira)
+ - [Lenovo introduces Qira, a system-level, cross-device AI assistant for both its computers and Motorola smartphones, arriving later this quarter &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/260106/p41#a260106p41)
  - [CES 2026 Live: All the New AI Devices, Home Tech, Robots, Audio, Cars and Computing](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Sources: Discord has filed confidentially for an IPO, working with Goldman Sachs and JPMorgan Chase &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p38#a260106p38)
- - [This is probably the iPhone Fold&#39;s crease-proof display](https://appleinsider.com/articles/26/01/06/this-is-probably-the-iphone-folds-crease-proof-screen?utm_source=rss)<!-- TECH:END -->
+ - [That Protein Powder You’re Using for Your New Year Fitness Goals? It Might Contain Lead](https://www.cnet.com/health/that-healthy-protein-powder-you-love-it-might-be-hiding-unsafe-levels-of-lead/)
+ - [These Tiny Robots Are Smaller Than Grains of Salt and Can Think, Move and Swim](https://www.cnet.com/tech/these-tiny-robots-are-smaller-than-grains-of-salt-and-can-think-move-and-swim/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

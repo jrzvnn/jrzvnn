@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tuft &amp; Needle Promo Codes: 20% Off | January 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
+ - [20% Off Home Depot Promo Code](https://www.wired.com/story/home-depot-promo-code/)
  - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
  - [60% Off Groupon Promo Code | January 2026](https://www.wired.com/story/groupon-promo-code/)
- - [Dutch fintech Bunq applies to become a US bank; the OCC conditionally approved national trust bank charters for several crypto firms in 2025, including Circle &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/260107/p3#a260107p3)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [20% Off Sephora Promo Code | January 2026](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
+ - [Dutch fintech Bunq applies to become a US bank; the OCC conditionally approved national trust bank charters for several crypto firms in 2025, including Circle &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/260107/p3#a260107p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

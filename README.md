@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Election Deniers Think the Venezuela Attack Is All About 2020](https://www.wired.com/story/election-deniers-think-venezuela-attack-about-2020-election/)
  - [Apple loses Safari designer Marco Triverio to The Browser Company](https://appleinsider.com/articles/26/01/07/apple-loses-safari-designer-marco-triverio-to-the-browser-company?utm_source=rss)
  - [OpenAI unveils ChatGPT Health, which lets users import medical records and other data from health apps into ChatGPT, available to a small group via a waitlist &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260107/p33#a260107p33)
- - [L’Oréal’s latest flat iron uses infrared light to make hair styling much faster](https://www.theverge.com/tech/857801/loreal-light-straight-ces-2026-hands-on)<!-- TECH:END -->
+ - [L’Oréal’s latest flat iron uses infrared light to make hairstyling much faster](https://www.theverge.com/tech/857801/loreal-light-straight-ces-2026-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

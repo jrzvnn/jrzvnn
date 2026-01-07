@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based e-commerce logistics platform Swap raised a $100M Series C led by DST Global and Iconiq, after raising a $40M Series B in March 2025 &lpar;Axios&rpar;](http://www.techmeme.com/260107/p23#a260107p23)
+ - [Spotify is finally bringing your friends’ Listening Activity to mobile](https://www.theverge.com/news/857404/spotify-listening-activity-mobile)
+ - [Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck](https://www.wired.com/review/luxe-cafe-premier-series-automatic-espresso-machine/)
  - [As Trump and Big Tech aim to build SMRs to win the AI race, a look at the issues they face; none of the 50 SMRs under development have a US operating license &lpar;Jamie Smyth/Financial Times&rpar;](http://www.techmeme.com/260107/p22#a260107p22)
- - [macOS certificate expiration broke Logitech&#39;s mouse software](https://appleinsider.com/articles/26/01/07/macos-certificate-expiration-broke-logitechs-mouse-software?utm_source=rss)
- - [What surprised us the most at CES 2026](https://www.theverge.com/tech/857406/ces-2026-surprises)
- - [Ikea is expanding its Matter support to two stylish lamps](https://www.theverge.com/tech/853143/ikea-smart-home-matter-varmblixt-donut-color-changing-pendant-lamp)
- - [Netflix is bringing back some big franchises in 2026](https://www.theverge.com/streaming/856756/netflix-2026-releases-bridgerton-one-piece-3-body)<!-- TECH:END -->
+ - [macOS certificate expiration broke Logitech&#39;s mouse software](https://appleinsider.com/articles/26/01/07/macos-certificate-expiration-broke-logitechs-mouse-software?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

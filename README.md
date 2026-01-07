@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good luck in this year for all frog men](http://9gag.com/gag/awyDPYB)
- - 😝 [It&#39;s fun to watch](http://9gag.com/gag/a0eGG7d)
- - 💣 [`I didn&#39;t do nothing` - said woman who tried to trip cops chasing shoplifters](http://9gag.com/gag/aRBGGz7)
  - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 👉 [This is exactly what technology is meant for.](http://9gag.com/gag/aGyqrWG)<!-- MEMES:END -->
+ - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
+ - 💣 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)
+ - 😝 [Fast acting, no side effects...](http://9gag.com/gag/a1mnnWP)
+ - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 ---
 

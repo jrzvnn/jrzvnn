@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Collect three Bottle](http://9gag.com/gag/a6ZzzPL)
- - 😝 [This is exactly what technology is meant for.](http://9gag.com/gag/aGyqrWG)
- - 💣 [`I didn&#39;t do nothing` - said woman who tried to trip cops chasing shoplifters](http://9gag.com/gag/aRBGGz7)
- - 😝 [Lady to rest](https://www.reddit.com/r/funny/comments/1q6kpi8/lady_to_rest/)
- - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
+ - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 😝 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
+ - 💣 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)
+ - 😝 [Movement is still there](http://9gag.com/gag/a9ye0jD)
+ - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
 
 ---
 

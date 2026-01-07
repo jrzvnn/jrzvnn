@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [As data center development pressures power grids, officials have proposed requiring data centers to power down or switch to a backup when blackout risks rise &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p7#a260107p7)
+ - [Achieve Your Goals in 2026 With These 5 Expert Tips](https://www.cnet.com/health/never-too-late-new-years-resolution-tips-reaching-your-goals/)
  - [An interview with Google DeepMind CTO Koray Kavukcuoglu on his new role as Google&#39;s chief AI architect, Gemini 3, progress toward the goal of AGI, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260107/p6#a260107p6)
  - [How Google&#39;s ambitious approach to training Gemini on text, code, audio, images, and video helped it stage a powerful comeback, triggering a Code Red at OpenAI &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p5#a260107p5)
- - [30% Off Canon Promo Codes | January 2026](https://www.wired.com/story/canon-promo-code/)
- - [PitchBook-NVCA: global VC investments hit $512B in 2025 with AI accounting for 50%+; VC fundraising fell to a 10-year low of $118.6B, ~$100B less than in 2024 &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260107/p4#a260107p4)<!-- TECH:END -->
+ - [30% Off Canon Promo Codes | January 2026](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

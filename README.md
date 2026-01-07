@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell admits consumers don’t care about AI PCs](https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments)
+ - [Cambodia extradites Chen Zhi, the chairman of online scam conglomerate Prince Group, to China; in October, the US DOJ seized $12B in bitcoin belonging to Chen &lpar;Gabriele Steinhauser/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p30#a260107p30)
  - [Apple to temporarily close Regent Street store in London](https://appleinsider.com/articles/26/01/07/apple-to-temporarily-close-regent-street-store-in-london?utm_source=rss)
  - [CES 2026 tech you can already buy](https://www.theverge.com/gadgets/856494/ces-2026-tech-you-can-already-buy)
- - [L’Oréal’s new LED face masks address all my issues with this category](https://www.theverge.com/tech/857164/ces-2026-hands-on-loreal)
- - [Toilet cameras and musical lollipops: The weird side of CES 2026](https://appleinsider.com/articles/26/01/07/toilet-cameras-and-musical-lollipops-the-weird-side-of-ces-2026?utm_source=rss)
- - [Utah launches a pilot program with health-tech startup Doctronic to let AI systems handle routine prescription renewals for patients with chronic conditions &lpar;Politico&rpar;](http://www.techmeme.com/260107/p29#a260107p29)<!-- TECH:END -->
+ - [L’Oréal’s new LED face masks address all my issues with this category](https://www.theverge.com/tech/857164/ces-2026-hands-on-loreal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 😝 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
- - 💣 [Based](http://9gag.com/gag/avyVqzM)
- - 😝 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
- - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
+ - 😝 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
+ - 😝 [The good old days when computer lab was the highlight of the week](http://9gag.com/gag/aE0b5Ke)
+ - 💣 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
+ - 😝 [White Hershey candy is getting tired of them Snickers](http://9gag.com/gag/aW4AX6K)
+ - 👉 [This internet is a fun place](http://9gag.com/gag/abAowLL)<!-- MEMES:END -->
 
 ---
 

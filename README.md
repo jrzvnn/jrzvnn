@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best TVs of CES 2026](https://www.theverge.com/tech/858366/the-best-tvs-of-ces-2026)
- - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
- - [Protege, which offers an AI data platform to access high-quality, proprietary training data at scale, raised $30M from a16z, extending its $25M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260108/p24#a260108p24)
- - [The EU says it ordered X to retain all internal docs and data relating to Grok until the end of 2026, after criticizing Grok&#39;s nonconsensual image generation &lpar;Louise Breusch Rasmussen/Reuters&rpar;](http://www.techmeme.com/260108/p23#a260108p23)
- - [Google makes Help Me Write, AI email summaries, and Suggested Replies free to all Gmail users; the features required a Google AI Pro or Ultra subscription &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260108/p22#a260108p22)<!-- TECH:END -->
+ - [CES 2026 Live: Best of Show, New Robots, AI Devices, Tech Concepts and More](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
+ - [Illicit crypto addresses received a record $154B in 2025, up 162% YoY, driven by sanctions evasion; Russia&#39;s A7A5 token transacted $93.3B+ in less than one year &lpar;Chainalysis&rpar;](http://www.techmeme.com/260108/p25#a260108p25)
+ - [Xbox’s Developer Direct returns on January 22nd with Fable and Forza Horizon 6 gameplay](https://www.theverge.com/news/858471/xbox-developer-direct-forza-horizon-6-fable-beast-of-reincarnation-stream)
+ - [43 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/)
+ - [OpenAI Launches ChatGPT Health: A Dedicated Tab for Medical Inquiries](https://www.cnet.com/tech/services-and-software/openai-launches-chatgpt-health-a-dedicated-tab-for-medical-inquiries/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tips for office workers, to bypass Teams inactivity and windows auto lock](http://9gag.com/gag/azxzygx)
  - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
- - 💣 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 😝 [There\u2019s a special kind of silence when someone realizes, \u201cdamn\u2026 he was right.\u201d](http://9gag.com/gag/aZZKOPn)
- - 👉 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)<!-- MEMES:END -->
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 💣 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
+ - 😝 [What\u2019s your opinion about this?](http://9gag.com/gag/a7oBxxq)
+ - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
 
 ---
 

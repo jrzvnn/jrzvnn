@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
- - 😝 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
- - 💣 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
+ - 😝 [How Much To Break Your Principles?](http://9gag.com/gag/aAy7Ang)
+ - 😝 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
+ - 💣 [Movement is still there](http://9gag.com/gag/a9ye0jD)
  - 😝 [The good old days when computer lab was the highlight of the week](http://9gag.com/gag/aE0b5Ke)
- - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
+ - 👉 [Fast acting, no side effects...](http://9gag.com/gag/a1mnnWP)<!-- MEMES:END -->
 
 ---
 

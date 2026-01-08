@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: wealthy Californians are quietly mobilizing on WhatsApp and calls in a long-shot bid to oust Rep. Ro Khanna, who supports a controversial wealth tax &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260108/p15#a260108p15)
+ - [How Mormons Helped Make America’s Prepping Industry Into Big Business](https://www.wired.com/story/true-patriots-are-cashing-in-on-the-apocalypse/)
  - [Sources: China&#39;s Salt Typhoon accessed the emails of staff on powerful US House committees, detected last December, and intercepted senior US officials&#39; calls &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260108/p14#a260108p14)
  - [This Is the Blood Glucose Monitor We’ve Been Waiting For](https://www.wired.com/story/blood-glucose-monitor-preevnt-isaac/)
- - [A profile of VC firm Index Ventures, which saw billions in gains from exits in 2025, including Figma, Scale AI, and Dream Games, as it looks ahead to succession &lpar;Bloomberg&rpar;](http://www.techmeme.com/260108/p13#a260108p13)
- - [Is Craigslist the Last Real Place on the Internet?](https://www.wired.com/story/is-craigslist-the-last-real-place-on-the-internet/)
- - [A profile of Replit co-founder Amjad Masad, who was shunned in investor circles for his criticism of Israel&#39;s war in Gaza before Replit&#39;s AI agent took off &lpar;Margaux MacColl/The San Francisco ...&rpar;](http://www.techmeme.com/260108/p12#a260108p12)<!-- TECH:END -->
+ - [A profile of VC firm Index Ventures, which saw billions in gains from exits in 2025, including Figma, Scale AI, and Dream Games, as it looks ahead to succession &lpar;Bloomberg&rpar;](http://www.techmeme.com/260108/p13#a260108p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

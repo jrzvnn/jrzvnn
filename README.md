@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: a few weeks before Grok started &quot;digitally undressing&quot; people, Elon Musk expressed frustration over guardrails on Grok&#39;s image and video generator &lpar;Hadas Gold/CNN&rpar;](http://www.techmeme.com/260108/p37#a260108p37)
+ - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
  - [Most iPhone users are still running iOS 18, with iOS 26 adoption slow: report &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/260108/p36#a260108p36)
  - [YouTube will now let you filter Shorts out of search results](https://www.theverge.com/news/858867/youtube-shorts-search-results-filter)
- - [NetBlocks says internet connectivity in Iran has fallen on multiple providers as protests hit 100+ cities; Cloudflare says IPv6 traffic has dropped sharply &lpar;Cody Combs/The National&rpar;](http://www.techmeme.com/260108/p35#a260108p35)
- - [Is it even worth mentioning that Elon Musk blew past his own Full Self-Driving goals again?](https://www.theverge.com/news/858782/elon-musk-tesla-fsd-unsupervised-missed-goals)
- - [Few pairs of budget earbuds deliver like Nothing’s Ear &lpar;a&rpar;, which are down to $59](https://www.theverge.com/gadgets/858740/nothing-ear-a-wireless-earbuds-cmf-headphone-pro-deal-sale)<!-- TECH:END -->
+ - [NetBlocks says internet connectivity in Iran has fallen on multiple providers as protests hit 100+ cities; Cloudflare says IPv6 traffic has dropped sharply &lpar;Cody Combs/The National&rpar;](http://www.techmeme.com/260108/p35#a260108p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
- - 😝 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
- - 💣 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 😝 [Me trying to get through the first week of the year](http://9gag.com/gag/aByMeY2)
+ - 😝 [Fast acting, no side effects...](http://9gag.com/gag/a1mnnWP)
+ - 😝 [Understandable](http://9gag.com/gag/aqyOwEj)
+ - 💣 [This internet is a fun place](http://9gag.com/gag/abAowLL)
+ - 😝 [It has to be seen by everyone.](http://9gag.com/gag/ary0Lo7)
  - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 ---

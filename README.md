@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese AI startup MiniMax raises $619M in its Hong Kong IPO, at the top of the range; sources: its institutional offering was oversubscribed by 70x+ &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260108/p29#a260108p29)
- - [Honor steps up to the big leagues with the Magic 8 Pro](https://www.theverge.com/gadgets/854163/honor-magic-8-pro-review)
- - [Is this the world’s first solid-state battery?](https://www.theverge.com/transportation/858514/is-this-the-worlds-first-solid-state-battery)
- - [Nintendo is bringing its cute My Mario collection to the US next month](https://www.theverge.com/tech/858587/nintendo-my-mario-apparal-toys-book-mobile-app)
- - [Future AirPods may gain finer and faster gesture recognition](https://appleinsider.com/articles/26/01/08/future-airpods-may-gain-finer-and-faster-gesture-recognition?utm_source=rss)<!-- TECH:END -->
+ - [FIFA says parts of 2026 World Cup soccer games will be broadcast live on TikTok and some creators will get access to press conferences and training sessions &lpar;Jessica Hopkins/The Athletic&rpar;](http://www.techmeme.com/260108/p30#a260108p30)
+ - [People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good](https://www.wired.com/story/people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good/)
+ - [TV makers are taking AI too far](https://www.theverge.com/column/858463/tv-too-much-ai)
+ - [Chinese AI startup MiniMax raises ~$619M in its Hong Kong IPO, at the top of its marketed range; sources: its institutional offering was oversubscribed by 70x+ &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260108/p29#a260108p29)
+ - [Honor steps up to the big leagues with the Magic 8 Pro](https://www.theverge.com/gadgets/854163/honor-magic-8-pro-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
- - 😝 [Based](http://9gag.com/gag/avyVqzM)
- - 💣 [Say when](http://9gag.com/gag/aqyOO1R)
- - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
+ - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
+ - 💣 [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - 😝 [Me trying to get through the first week of the year](http://9gag.com/gag/aByMeY2)
+ - 👉 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)<!-- MEMES:END -->
 
 ---
 

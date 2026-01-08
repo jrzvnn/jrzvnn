@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best TVs of CES 2026](https://www.theverge.com/tech/858366/the-best-tvs-of-ces-2026)
  - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
  - [Protege, which offers an AI data platform to access high-quality, proprietary training data at scale, raised $30M from a16z, extending its $25M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260108/p24#a260108p24)
  - [The EU says it ordered X to retain all internal docs and data relating to Grok until the end of 2026, after criticizing Grok&#39;s nonconsensual image generation &lpar;Louise Breusch Rasmussen/Reuters&rpar;](http://www.techmeme.com/260108/p23#a260108p23)
- - [Google makes Help Me Write, AI email summaries, and Suggested Replies free to all Gmail users; the features required a Google AI Pro or Ultra subscription &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260108/p22#a260108p22)
- - [Google rolls out an AI Inbox view for Gmail, showing users to-dos and summaries of topics rather than a traditional email list, first for US &quot;trusted testers&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260108/p21#a260108p21)<!-- TECH:END -->
+ - [Google makes Help Me Write, AI email summaries, and Suggested Replies free to all Gmail users; the features required a Google AI Pro or Ultra subscription &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260108/p22#a260108p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

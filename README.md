@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft closes its mobile-focused Halifax studio weeks after majority of the workers voted to unionize, as CWA Canada says it is &quot;demanding information&quot; &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/260108/p4#a260108p4)
- - [30% Off Tempur-Pedic Promo Codes | January 2026](https://www.wired.com/story/tempur-pedic-promo-code/)
- - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)
- - [Microsoft&#39;s chief scientist Eric Horvitz warns that the US&#39; cuts to academic research funding could push talent abroad and hand rivals an edge in the AI race &lpar;Financial Times&rpar;](http://www.techmeme.com/260108/p3#a260108p3)
- - [Newegg Promo Code: 10% Off in January 2026](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
+ - [Peacock Promo Codes: 16% Off January 2026](https://www.wired.com/story/peacock-promo-code/)
+ - [Samsung says Ballie, a robot announced six years ago but never released, is an &quot;active innovation platform&quot; within the company helping inform other products &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260108/p6#a260108p6)
+ - [Sources: to hedge against Beijing approval risk, Nvidia is requiring Chinese customers to pay upfront for H200 chips, with no cancellations, refunds, or changes &lpar;Reuters&rpar;](http://www.techmeme.com/260108/p5#a260108p5)
+ - [Surfshark Promo Codes: 87% Off | January 2026](https://www.wired.com/story/surfshark-coupon/)
+ - [HelloFresh Coupon Codes: 55% Off + Free Meals](https://www.wired.com/story/hellofresh-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

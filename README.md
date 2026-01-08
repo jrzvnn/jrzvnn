@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why a Chinese Robot Vacuum Company Spun Off Two EV Brands](https://www.wired.com/story/made-in-china-what-chinese-companies-showed-off-at-ces/)
+ - [Why a Chinese Robot Vacuum Company Spun Off Not One but 2 EV Brands](https://www.wired.com/story/made-in-china-what-chinese-companies-showed-off-at-ces/)
  - [Sources: Strava, the fitness app founded in 2009, filed confidentially for an IPO; its revenue grew more than 50% YoY in 2025 but was still less than $500M &lpar;The Information&rpar;](http://www.techmeme.com/260108/p43#a260108p43)
  - [Sources: UK-based cloud provider Nscale is in talks to raise about $2B, after raising more than $1.5B across a pair of rounds in September and October &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/260108/p42#a260108p42)
  - [OpenAI is rolling out a HIPAA-compliant version of ChatGPT for clinicians to assist with medical reasoning and administrative tasks, at Cedars-Sinai and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260108/p41#a260108p41)

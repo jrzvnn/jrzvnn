@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 💣 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 😝 [Nature is beautiful...](http://9gag.com/gag/adBMzBM)
- - 👉 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
+ - 😝 [This internet is a fun place](http://9gag.com/gag/abAowLL)
+ - 😝 [Denmark is ready!](http://9gag.com/gag/axy8rPW)
+ - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 😝 [Youtube bs](http://9gag.com/gag/aoy6oDX)
+ - 👉 [Neuron activation](http://9gag.com/gag/ary0L8X)<!-- MEMES:END -->
 
 ---
 

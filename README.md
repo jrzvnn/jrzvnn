@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
- - 😝 [Movement is still there](http://9gag.com/gag/a9ye0jD)
- - 💣 [This internet is a fun place](http://9gag.com/gag/abAowLL)
- - 😝 [Fast acting, no side effects...](http://9gag.com/gag/a1mnnWP)
+ - 😝 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
+ - 😝 [Based](http://9gag.com/gag/avyVqzM)
+ - 💣 [Say when](http://9gag.com/gag/aqyOO1R)
+ - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
  - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
- - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
- - 💣 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
- - 😝 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
- - 👉 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)<!-- MEMES:END -->
+ - 😝 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
+ - 😝 [Based](http://9gag.com/gag/avyVqzM)
+ - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 👉 [Is that the consequence of his own actions ?](http://9gag.com/gag/aZZKKzn)<!-- MEMES:END -->
 
 ---
 

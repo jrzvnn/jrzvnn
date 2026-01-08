@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego says its Smart Brick is &quot;here to stay&quot; but &quot;does not mean that we&#39;re leaving our core proposition behind&quot;, after criticism of abandoning non-digital play &lpar;Tom Phillips/IGN&rpar;](http://www.techmeme.com/260108/p17#a260108p17)
- - [2026 Is the Year of the RGB LED TV](https://www.wired.com/story/rgb-led-televisions-2026/)
- - [The gap between premium and budget TV brands is quickly closing](https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing)
- - [America’s new era of energy imperialism is about more than oil](https://www.theverge.com/report/857978/trump-venezuela-greenland-oil-mineral-energy-imperialism)
- - [India fights Apple&#39;s attempts to reduce a potential $38 billion fine](https://appleinsider.com/articles/26/01/08/india-fights-apples-attempts-to-reduce-a-potential-38-billion-fine?utm_source=rss)<!-- TECH:END -->
+ - [Google rolls out an AI Inbox view for Gmail, showing users to-dos and summaries of topics rather than a traditional email list, first for US &quot;trusted testers&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260108/p21#a260108p21)
+ - [Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/)
+ - [Google is taking over your Gmail inbox with AI](https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews)
+ - [Apple corrals 12 nominations for 32nd Actor Awards, led by &#39;The Studio&#39;](https://appleinsider.com/articles/26/01/08/apple-corrals-12-nominations-for-32nd-actor-awards-led-by-the-studio?utm_source=rss)
+ - [Israeli data security startup Cyera raised a $400M Series F led by Blackstone Growth at a $9B valuation, up from $6B after raising $540M in June 2025 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260108/p20#a260108p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

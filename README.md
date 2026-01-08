@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Yes, John Ternus is back in the Apple CEO rumor cycle](https://appleinsider.com/articles/26/01/08/yes-john-ternus-is-back-in-the-apple-ceo-rumor-cycle?utm_source=rss)
- - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Most dubious uses of AI at CES 2026](https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026)
- - [We Explored CES 2026. Here&#39;s the Cool and Smart Tech That Blew Our Minds](https://www.cnet.com/tech/the-coolest-tech-at-ces-2026/)<!-- TECH:END -->
+ - [Few pairs of budget earbuds deliver like Nothing’s Ear &lpar;a&rpar;, which are down to $59](https://www.theverge.com/gadgets/858740/nothing-ear-a-wireless-earbuds-cmf-headphone-pro-deal-sale)
+ - [These Bose Noise-Canceling Earbuds Are $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-earbuds-deal-126/)
+ - [Sources: OpenAI has been slow to expand in-app checkouts for ChatGPT as the startup and its partners Shopify and Stripe struggle to standardize merchant data &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/260108/p34#a260108p34)
+ - [AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride?](https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

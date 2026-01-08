@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
+ - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
  - 😝 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
- - 💣 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 😝 [Rabid fox](http://9gag.com/gag/a8799rY)
+ - 💣 [Rabid fox](http://9gag.com/gag/a8799rY)
+ - 😝 [What\u2019s your opinion about this?](http://9gag.com/gag/a7oBxxq)
  - 👉 [Video speaks for itself](http://9gag.com/gag/aAy7912)<!-- MEMES:END -->
 
 ---

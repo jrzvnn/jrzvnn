@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
- - 😝 [Chair of Austria&#39;s NATO Enlargement Committee:](http://9gag.com/gag/aAy7AE9)
+ - 😝 [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
+ - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
  - 💣 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
- - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
- - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
+ - 😝 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
+ - 👉 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)<!-- MEMES:END -->
 
 ---
 

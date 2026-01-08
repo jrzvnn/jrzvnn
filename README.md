@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 😝 [Based](http://9gag.com/gag/avyVqzM)
- - 💣 [Demolish the pillar](http://9gag.com/gag/aD2LLBw)
- - 😝 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
- - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
+ - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
+ - 😝 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
+ - 💣 [Based](http://9gag.com/gag/avyVqzM)
+ - 😝 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
+ - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
 
 ---
 

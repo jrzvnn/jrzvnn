@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok&#39;s website and app are being used to produce extremely graphic, sometimes violent, sexual imagery of adults that is far more explicit than images on X &lpar;Wired&rpar;](http://www.techmeme.com/260108/p2#a260108p2)
- - [Chinese AI company Zhipu opened up 3.3% in its Hong Kong trading debut after raising ~$558M in its IPO at a valuation of about $6.55B &lpar;Yantoultra Ngui/Reuters&rpar;](http://www.techmeme.com/260108/p1#a260108p1)
- - [CES 2026 Live: Best of Show, New Robots, AI Devices, Tech Concepts and More](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [How to turn emails, webpages &amp; notes into Reminders with Apple Intelligence](https://appleinsider.com/articles/26/01/08/how-to-turn-emails-webpages-notes-into-reminders-with-apple-intelligence?utm_source=rss)
- - [Sources: OpenAI last fall set aside RSUs worth 10% of the company, which was valued in October at $500B; it has already awarded about $80B in vested equity &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260107/p44#a260107p44)<!-- TECH:END -->
+ - [Ubisoft closes its mobile-focused Halifax studio weeks after majority of the workers voted to unionize, as CWA Canada says it is &quot;demanding information&quot; &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/260108/p4#a260108p4)
+ - [30% Off Tempur-Pedic Promo Codes | January 2026](https://www.wired.com/story/tempur-pedic-promo-code/)
+ - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)
+ - [Microsoft&#39;s chief scientist Eric Horvitz warns that the US&#39; cuts to academic research funding could push talent abroad and hand rivals an edge in the AI race &lpar;Financial Times&rpar;](http://www.techmeme.com/260108/p3#a260108p3)
+ - [Newegg Promo Code: 10% Off in January 2026](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

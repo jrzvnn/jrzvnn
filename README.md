@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
  - [Yes, John Ternus is back in the Apple CEO rumor cycle](https://appleinsider.com/articles/26/01/08/yes-john-ternus-is-back-in-the-apple-ceo-rumor-cycle?utm_source=rss)
+ - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
  - [Most dubious uses of AI at CES 2026](https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026)
- - [The MAGA-approved video of an ICE killing](https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media)
- - [AliveCor takes another loss in ongoing Apple Watch sensor legal battle](https://appleinsider.com/articles/26/01/08/alivecor-takes-another-loss-in-ongoing-apple-watch-sensor-legal-battle?utm_source=rss)
- - [CES 2026 Live: Best of Show, New Robots, AI Devices, Tech Concepts and More](https://www.cnet.com/news-live/ces-2026-news-live-updates/)<!-- TECH:END -->
+ - [We Explored CES 2026. Here&#39;s the Cool and Smart Tech That Blew Our Minds](https://www.cnet.com/tech/the-coolest-tech-at-ces-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

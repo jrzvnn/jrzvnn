@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike buys identity management startup SGNL, in a deal valued at nearly $740M, to bolster identity security defenses on its flagship Falcon platform &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260108/p28#a260108p28)
- - [Microsoft launches Copilot Checkout in the US, enabling in-chat purchases via PayPal, Shopify, Stripe, and others; Shopify merchants are automatically enrolled &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/260108/p27#a260108p27)
- - [Apple&#39;s Hidden Voice Isolation Feature Can Improve Your iPhone Call Quality](https://www.cnet.com/tech/services-and-software/apple-iphone-voice-isolation-call-quality/)
- - [The most popular games are getting harder and harder to usurp](https://www.theverge.com/games/858127/top-five-most-played-games-xbox-ps5-2025)
- - [iPhone 4 is having a TikTok revival, here&#39;s how to use yours safely](https://appleinsider.com/inside/iphone/tips/iphone-4-is-having-a-tiktok-revival-heres-how-to-use-yours-safely?utm_source=rss)<!-- TECH:END -->
+ - [Chinese AI startup MiniMax raises $619M in its Hong Kong IPO, at the top of the range; sources: its institutional offering was oversubscribed by 70x+ &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260108/p29#a260108p29)
+ - [Honor steps up to the big leagues with the Magic 8 Pro](https://www.theverge.com/gadgets/854163/honor-magic-8-pro-review)
+ - [Is this the world’s first solid-state battery?](https://www.theverge.com/transportation/858514/is-this-the-worlds-first-solid-state-battery)
+ - [Nintendo is bringing its cute My Mario collection to the US next month](https://www.theverge.com/tech/858587/nintendo-my-mario-apparal-toys-book-mobile-app)
+ - [Future AirPods may gain finer and faster gesture recognition](https://appleinsider.com/articles/26/01/08/future-airpods-may-gain-finer-and-faster-gesture-recognition?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

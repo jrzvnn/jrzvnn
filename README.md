@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
- - 😝 [Rabid fox](http://9gag.com/gag/a8799rY)
+ - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
  - 💣 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)
  - 😝 [What\u2019s your opinion about this?](http://9gag.com/gag/a7oBxxq)
- - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
+ - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
 
 ---
 

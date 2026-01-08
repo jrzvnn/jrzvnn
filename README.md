@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The PC market braces for an AI-driven storm](https://www.theverge.com/tech/858505/pc-market-ram-nand-ssd-gpu-pricing-notepad)
+ - [Roborock unveils app updates, CES 2026 robot vacuum &amp; mop lineup to automate home care](https://appleinsider.com/articles/26/01/08/roborock-unveils-app-updates-ces-2026-robot-vacuum-mop-lineup-to-automate-home-care?utm_source=rss)
+ - [Bose is open-sourcing its old smart speakers instead of bricking them](https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source)
  - [CES 2026 Live: Best of Show, New Robots, AI Devices, Tech Concepts and More](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Illicit crypto addresses received a record $154B in 2025, up 162% YoY, driven by sanctions evasion; Russia&#39;s A7A5 token transacted $93.3B+ in less than one year &lpar;Chainalysis&rpar;](http://www.techmeme.com/260108/p25#a260108p25)
- - [Xbox’s Developer Direct returns on January 22nd with Fable and Forza Horizon 6 gameplay](https://www.theverge.com/news/858471/xbox-developer-direct-forza-horizon-6-fable-beast-of-reincarnation-stream)
- - [43 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/)
- - [OpenAI Launches ChatGPT Health: A Dedicated Tab for Medical Inquiries](https://www.cnet.com/tech/services-and-software/openai-launches-chatgpt-health-a-dedicated-tab-for-medical-inquiries/)<!-- TECH:END -->
+ - [Illicit crypto addresses received a record $154B in 2025, up 162% YoY, driven by sanctions evasion; Russia&#39;s A7A5 token transacted $93.3B+ in less than one year &lpar;Chainalysis&rpar;](http://www.techmeme.com/260108/p25#a260108p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

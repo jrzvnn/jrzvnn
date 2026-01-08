@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2026 Live: Best of Show, New Robots, AI Devices, Tech Concepts and More](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Google and Character.AI Settle Suits Over Child Harm, Including Suicide, Linked to AI Chatbots](https://www.cnet.com/tech/services-and-software/google-and-character-ai-settle-suits-over-child-harm-including-suicide-linked-to-ai-chatbots/)
- - [AirPods Pro 3 dip to $199.99 during Amazon&#39;s January sale](https://appleinsider.com/articles/26/01/08/airpods-pro-3-dip-to-19999-during-amazons-january-sale?utm_source=rss)
- - [How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)
- - [This Necklace Lets You Bring a Personal AI Companion With You Everywhere](https://www.cnet.com/tech/services-and-software/nirva-ai-jewelry-ces-2026/)<!-- TECH:END -->
+ - [Yes, John Ternus is back in the Apple CEO rumor cycle](https://appleinsider.com/articles/26/01/08/yes-john-ternus-is-back-in-the-apple-ceo-rumor-cycle?utm_source=rss)
+ - [Most dubious uses of AI at CES 2026](https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026)
+ - [The MAGA-approved video of an ICE killing](https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media)
+ - [AliveCor takes another loss in ongoing Apple Watch sensor legal battle](https://appleinsider.com/articles/26/01/08/alivecor-takes-another-loss-in-ongoing-apple-watch-sensor-legal-battle?utm_source=rss)
+ - [CES 2026 Live: Best of Show, New Robots, AI Devices, Tech Concepts and More](https://www.cnet.com/news-live/ces-2026-news-live-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

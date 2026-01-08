@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: UK-based cloud provider Nscale is in talks to raise about $2B, after raising more than $1.5B across a pair of rounds in September and October &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/260108/p42#a260108p42)
+ - [OpenAI is rolling out a HIPAA-compliant version of ChatGPT for clinicians to assist with medical reasoning and administrative tasks, at Cedars-Sinai and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260108/p41#a260108p41)
+ - [iOS 26.3 and macOS Tahoe 26.3 betas get second background security updates](https://appleinsider.com/articles/26/01/08/ios-263-and-macos-tahoe-263-betas-get-second-background-security-updates?utm_source=rss)
  - [Why Are Grok and X Still Available in App Stores?](https://www.wired.com/story/x-grok-app-store-nudify-csam-apple-google-content-moderation/)
- - [OpenAI VP of research Jerry Tworek is leaving, sources say after OpenAI sided with Chief Scientist Jakub Pachocki in a dispute over its research direction &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260108/p40#a260108p40)
- - [The coolest laptops we saw at CES 2026](https://www.theverge.com/tech/858897/ces-2026-best-laptops-asus-dell-acer-msi-hp-lenovo-concepts)
- - [MAGA Is Already Rewriting the ICE Shooting in Minneapolis](https://www.wired.com/story/maga-trump-rewriting-ice-shooting-minneapolis/)
- - [Statcounter: four months after its release, iOS 26 is in use by only about 15% of iPhone users; in January 2025, about 63% of users were on iOS 18 &lpar;Ed Hardy/Cult of Mac&rpar;](http://www.techmeme.com/260108/p39#a260108p39)<!-- TECH:END -->
+ - [OpenAI VP of research Jerry Tworek is leaving, sources say after OpenAI sided with Chief Scientist Jakub Pachocki in a dispute over its research direction &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260108/p40#a260108p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why a Chinese Robot Vacuum Company Spun Off Two EV Brands](https://www.wired.com/story/made-in-china-what-chinese-companies-showed-off-at-ces/)
+ - [Sources: Strava, the fitness app founded in 2009, filed confidentially for an IPO; its revenue grew more than 50% YoY in 2025 but was still less than $500M &lpar;The Information&rpar;](http://www.techmeme.com/260108/p43#a260108p43)
  - [Sources: UK-based cloud provider Nscale is in talks to raise about $2B, after raising more than $1.5B across a pair of rounds in September and October &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/260108/p42#a260108p42)
  - [OpenAI is rolling out a HIPAA-compliant version of ChatGPT for clinicians to assist with medical reasoning and administrative tasks, at Cedars-Sinai and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260108/p41#a260108p41)
- - [iOS 26.3 and macOS Tahoe 26.3 betas get second background security updates](https://appleinsider.com/articles/26/01/08/ios-263-and-macos-tahoe-263-betas-get-second-background-security-updates?utm_source=rss)
- - [Why Are Grok and X Still Available in App Stores?](https://www.wired.com/story/x-grok-app-store-nudify-csam-apple-google-content-moderation/)
- - [OpenAI VP of research Jerry Tworek is leaving, sources say after OpenAI sided with Chief Scientist Jakub Pachocki in a dispute over its research direction &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260108/p40#a260108p40)<!-- TECH:END -->
+ - [iOS 26.3 and macOS Tahoe 26.3 betas get second background security updates](https://appleinsider.com/articles/26/01/08/ios-263-and-macos-tahoe-263-betas-get-second-background-security-updates?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

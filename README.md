@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The PC market braces for an AI-driven storm](https://www.theverge.com/tech/858505/pc-market-ram-nand-ssd-gpu-pricing-notepad)
- - [Roborock unveils app updates, CES 2026 robot vacuum &amp; mop lineup to automate home care](https://appleinsider.com/articles/26/01/08/roborock-unveils-app-updates-ces-2026-robot-vacuum-mop-lineup-to-automate-home-care?utm_source=rss)
- - [Bose is open-sourcing its old smart speakers instead of bricking them](https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source)
- - [CES 2026 Live: Best of Show, New Robots, AI Devices, Tech Concepts and More](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Illicit crypto addresses received a record $154B in 2025, up 162% YoY, driven by sanctions evasion; Russia&#39;s A7A5 token transacted $93.3B+ in less than one year &lpar;Chainalysis&rpar;](http://www.techmeme.com/260108/p25#a260108p25)<!-- TECH:END -->
+ - [The most popular games are getting harder and harder to usurp](https://www.theverge.com/games/858127/top-five-most-played-games-xbox-ps5-2025)
+ - [iPhone 4 is having a TikTok revival, here&#39;s how to use yours safely](https://appleinsider.com/inside/iphone/tips/iphone-4-is-having-a-tiktok-revival-heres-how-to-use-yours-safely?utm_source=rss)
+ - [Pomelo Care, which delivers 24/7 virtual care for women by using data to flag pregnancy risks and more, raised $92M led by Stripes at a $1.7B valuation &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/260108/p26#a260108p26)
+ - [You can score a refurbished Sonos Arc SL soundbar for just $320](https://www.theverge.com/gadgets/858486/sonos-arc-sl-microsd-express-apple-charger-google-pixel-fold-deal-sale)
+ - [The PC market braces for an AI-driven storm](https://www.theverge.com/tech/858505/pc-market-ram-nand-ssd-gpu-pricing-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

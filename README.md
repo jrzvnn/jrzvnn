@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
  - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
- - 💣 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 😝 [Tiny Dancer before it was released](http://9gag.com/gag/aE0b5Zn)
- - 👉 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
+ - 😝 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
+ - 💣 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
+ - 😝 [The good old days when computer lab was the highlight of the week](http://9gag.com/gag/aE0b5Ke)
+ - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
 
 ---
 

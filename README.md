@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
- - 😝 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)
- - 💣 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 😝 [What\u2019s your opinion about this?](http://9gag.com/gag/a7oBxxq)
- - 👉 [Video speaks for itself](http://9gag.com/gag/aAy7912)<!-- MEMES:END -->
+ - 😝 [It has to be seen by everyone.](http://9gag.com/gag/ary0Lo7)
+ - 😝 [Denmark is ready!](http://9gag.com/gag/axy8rPW)
+ - 💣 [Only talking to you, technically](http://9gag.com/gag/an73oyn)
+ - 😝 [At least he is not black](http://9gag.com/gag/abAo8nL)
+ - 👉 [Creeping Death](http://9gag.com/gag/an73orL)<!-- MEMES:END -->
 
 ---
 

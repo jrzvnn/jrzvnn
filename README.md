@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
- - 😝 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
- - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 😝 [Neuron activation](http://9gag.com/gag/ary0L8X)
- - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
+ - 😝 [Best Kung fu scene from a movie](http://9gag.com/gag/aGyq5RK)
+ - 😝 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
+ - 💣 [Rabid fox](http://9gag.com/gag/a8799rY)
+ - 😝 [Nature is beautiful...](http://9gag.com/gag/adBMzBM)
+ - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
 
 ---
 

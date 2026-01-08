@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best Kung fu scene from a movie](http://9gag.com/gag/aGyq5RK)
- - 😝 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
- - 💣 [Rabid fox](http://9gag.com/gag/a8799rY)
- - 😝 [Nature is beautiful...](http://9gag.com/gag/adBMzBM)
+ - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 😝 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
+ - 💣 [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - 😝 [This internet is a fun place](http://9gag.com/gag/abAowLL)
  - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
 
 ---

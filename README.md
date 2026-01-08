@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
  - [Why a Chinese Robot Vacuum Company Spun Off Not One but 2 EV Brands](https://www.wired.com/story/made-in-china-what-chinese-companies-showed-off-at-ces/)
  - [Sources: Strava, the fitness app founded in 2009, filed confidentially for an IPO; its revenue grew more than 50% YoY in 2025 but was still less than $500M &lpar;The Information&rpar;](http://www.techmeme.com/260108/p43#a260108p43)
- - [Sources: UK-based cloud provider Nscale is in talks to raise about $2B, after raising more than $1.5B across a pair of rounds in September and October &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/260108/p42#a260108p42)
- - [OpenAI is rolling out a HIPAA-compliant version of ChatGPT for clinicians to assist with medical reasoning and administrative tasks, at Cedars-Sinai and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260108/p41#a260108p41)
- - [iOS 26.3 and macOS Tahoe 26.3 betas get second background security updates](https://appleinsider.com/articles/26/01/08/ios-263-and-macos-tahoe-263-betas-get-second-background-security-updates?utm_source=rss)<!-- TECH:END -->
+ - [Longing for Your Old BlackBerry? This Phone Goes Beyond the Hardware Keyboard](https://www.cnet.com/tech/mobile/clicks-communicator-smartphone-companion-power-keyboard-ces-2026/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 9, #473](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-9-473/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

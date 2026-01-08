@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How Much To Break Your Principles?](http://9gag.com/gag/aAy7Ang)
- - 😝 [New Update!! Tank Doggo population in India in 2025: 3323](http://9gag.com/gag/aMV65xP)
- - 💣 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
- - 😝 [Movement is still there](http://9gag.com/gag/a9ye0jD)
- - 👉 [Fast acting, no side effects...](http://9gag.com/gag/a1mnnWP)<!-- MEMES:END -->
+ - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
+ - 😝 [Is that the consequence of his own actions ?](http://9gag.com/gag/aZZKKzn)
+ - 💣 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 😝 [The good old days when computer lab was the highlight of the week](http://9gag.com/gag/aE0b5Ke)
+ - 👉 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)<!-- MEMES:END -->
 
 ---
 

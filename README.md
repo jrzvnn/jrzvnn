@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CrowdStrike buys identity management startup SGNL, in a deal valued at nearly $740M, to bolster identity security defenses on its flagship Falcon platform &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260108/p28#a260108p28)
+ - [Microsoft launches Copilot Checkout in the US, enabling in-chat purchases via PayPal, Shopify, Stripe, and others; Shopify merchants are automatically enrolled &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/260108/p27#a260108p27)
+ - [Apple&#39;s Hidden Voice Isolation Feature Can Improve Your iPhone Call Quality](https://www.cnet.com/tech/services-and-software/apple-iphone-voice-isolation-call-quality/)
  - [The most popular games are getting harder and harder to usurp](https://www.theverge.com/games/858127/top-five-most-played-games-xbox-ps5-2025)
- - [iPhone 4 is having a TikTok revival, here&#39;s how to use yours safely](https://appleinsider.com/inside/iphone/tips/iphone-4-is-having-a-tiktok-revival-heres-how-to-use-yours-safely?utm_source=rss)
- - [Pomelo Care, which delivers 24/7 virtual care for women by using data to flag pregnancy risks and more, raised $92M led by Stripes at a $1.7B valuation &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/260108/p26#a260108p26)
- - [You can score a refurbished Sonos Arc SL soundbar for just $320](https://www.theverge.com/gadgets/858486/sonos-arc-sl-microsd-express-apple-charger-google-pixel-fold-deal-sale)
- - [The PC market braces for an AI-driven storm](https://www.theverge.com/tech/858505/pc-market-ram-nand-ssd-gpu-pricing-notepad)<!-- TECH:END -->
+ - [iPhone 4 is having a TikTok revival, here&#39;s how to use yours safely](https://appleinsider.com/inside/iphone/tips/iphone-4-is-having-a-tiktok-revival-heres-how-to-use-yours-safely?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

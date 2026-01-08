@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/avyVqzM)
- - 😝 [Just a routine check, nothing to see here](http://9gag.com/gag/aYQB6Lq)
- - 💣 [Im jealous](http://9gag.com/gag/aE0b59o)
- - 😝 [The good old days when computer lab was the highlight of the week](http://9gag.com/gag/aE0b5Ke)
- - 👉 [Say when](http://9gag.com/gag/aqyOO1R)<!-- MEMES:END -->
+ - 😝 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
+ - 😝 [Movement is still there](http://9gag.com/gag/a9ye0jD)
+ - 💣 [This internet is a fun place](http://9gag.com/gag/abAowLL)
+ - 😝 [Fast acting, no side effects...](http://9gag.com/gag/a1mnnWP)
+ - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
- - 😝 [Is that the consequence of his own actions ?](http://9gag.com/gag/aZZKKzn)
- - 💣 [Based](http://9gag.com/gag/avyVqzM)
- - 😝 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
- - 👉 [Just a routine check, nothing to see here](http://9gag.com/gag/aYQB6Lq)<!-- MEMES:END -->
+ - 😝 [Based](http://9gag.com/gag/avyVqzM)
+ - 😝 [Just a routine check, nothing to see here](http://9gag.com/gag/aYQB6Lq)
+ - 💣 [Im jealous](http://9gag.com/gag/aE0b59o)
+ - 😝 [The good old days when computer lab was the highlight of the week](http://9gag.com/gag/aE0b5Ke)
+ - 👉 [Say when](http://9gag.com/gag/aqyOO1R)<!-- MEMES:END -->
 
 ---
 

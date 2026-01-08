@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
- - 😝 [Based](http://9gag.com/gag/avyVqzM)
- - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 👉 [Is that the consequence of his own actions ?](http://9gag.com/gag/aZZKKzn)<!-- MEMES:END -->
+ - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 😝 [Just a routine check, nothing to see here](http://9gag.com/gag/aYQB6Lq)
+ - 💣 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 😝 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
+ - 👉 [Say when](http://9gag.com/gag/aqyOO1R)<!-- MEMES:END -->
 
 ---
 

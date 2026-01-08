@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China&#39;s Salt Typhoon accessed the emails of staff on powerful US House committees, detected last December, and intercepted senior US officials&#39; calls &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260108/p14#a260108p14)
+ - [This Is the Blood Glucose Monitor We’ve Been Waiting For](https://www.wired.com/story/blood-glucose-monitor-preevnt-isaac/)
  - [A profile of VC firm Index Ventures, which saw billions in gains from exits in 2025, including Figma, Scale AI, and Dream Games, as it looks ahead to succession &lpar;Bloomberg&rpar;](http://www.techmeme.com/260108/p13#a260108p13)
  - [Is Craigslist the Last Real Place on the Internet?](https://www.wired.com/story/is-craigslist-the-last-real-place-on-the-internet/)
- - [A profile of Replit co-founder Amjad Masad, who was shunned in investor circles for his criticism of Israel&#39;s war in Gaza before Replit&#39;s AI agent took off &lpar;Margaux MacColl/The San Francisco ...&rpar;](http://www.techmeme.com/260108/p12#a260108p12)
- - [China says it will investigate Meta&#39;s $2B Manus acquisition to assess compliance with laws on export controls, tech import and export, and overseas investment &lpar;CNBC&rpar;](http://www.techmeme.com/260108/p11#a260108p11)
- - [Volvo touts EX60’s range and charging speed ahead of official debut](https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery)<!-- TECH:END -->
+ - [A profile of Replit co-founder Amjad Masad, who was shunned in investor circles for his criticism of Israel&#39;s war in Gaza before Replit&#39;s AI agent took off &lpar;Margaux MacColl/The San Francisco ...&rpar;](http://www.techmeme.com/260108/p12#a260108p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
- - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 💣 [Rabid fox](http://9gag.com/gag/a8799rY)
- - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 👉 [Based](http://9gag.com/gag/avyVqzM)<!-- MEMES:END -->
+ - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 😝 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
+ - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 😝 [Neuron activation](http://9gag.com/gag/ary0L8X)
+ - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
 
 ---
 

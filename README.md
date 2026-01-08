@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Based](http://9gag.com/gag/avyVqzM)
- - 😝 [`I didn&#39;t do nothing` - said woman who tried to trip cops chasing shoplifters](http://9gag.com/gag/aRBGGz7)
- - 💣 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
- - 😝 [The good old days when computer lab was the highlight of the week](http://9gag.com/gag/aE0b5Ke)
- - 👉 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)<!-- MEMES:END -->
+ - 😝 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
+ - 💣 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
+ - 😝 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
+ - 👉 [`I didn&#39;t do nothing` - said woman who tried to trip cops chasing shoplifters](http://9gag.com/gag/aRBGGz7)<!-- MEMES:END -->
 
 ---
 

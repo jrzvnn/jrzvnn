@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 😝 [Based](http://9gag.com/gag/avyVqzM)
+ - 💣 [Demolish the pillar](http://9gag.com/gag/aD2LLBw)
  - 😝 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
- - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 👉 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)<!-- MEMES:END -->
+ - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 ---
 

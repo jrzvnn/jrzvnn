@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snowflake agrees to acquire Observe, an observability platform built on Snowflake databases; the deal was previously reported to be valued at around $1B &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260108/p44#a260108p44)
+ - [The best earbuds we’ve tested for 2026](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
  - [Why a Chinese Robot Vacuum Company Spun Off Not One but 2 EV Brands](https://www.wired.com/story/made-in-china-what-chinese-companies-showed-off-at-ces/)
- - [Sources: Strava, the fitness app founded in 2009, filed confidentially for an IPO; its revenue grew more than 50% YoY in 2025 but was still less than $500M &lpar;The Information&rpar;](http://www.techmeme.com/260108/p43#a260108p43)
- - [Longing for Your Old BlackBerry? This Phone Goes Beyond the Hardware Keyboard](https://www.cnet.com/tech/mobile/clicks-communicator-smartphone-companion-power-keyboard-ces-2026/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 9, #473](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-9-473/)<!-- TECH:END -->
+ - [Sources: Strava, the fitness app founded in 2009, filed confidentially for an IPO; its revenue grew more than 50% YoY in 2025 but was still less than $500M &lpar;The Information&rpar;](http://www.techmeme.com/260108/p43#a260108p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

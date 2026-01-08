@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It has to be seen by everyone.](http://9gag.com/gag/ary0Lo7)
- - 😝 [Denmark is ready!](http://9gag.com/gag/axy8rPW)
- - 💣 [Only talking to you, technically](http://9gag.com/gag/an73oyn)
- - 😝 [At least he is not black](http://9gag.com/gag/abAo8nL)
- - 👉 [Creeping Death](http://9gag.com/gag/an73orL)<!-- MEMES:END -->
+ - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
+ - 😝 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
+ - 💣 [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - 😝 [Rabid fox](http://9gag.com/gag/a8799rY)
+ - 👉 [Video speaks for itself](http://9gag.com/gag/aAy7912)<!-- MEMES:END -->
 
 ---
 

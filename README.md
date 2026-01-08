@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Earnings for Apple&#39;s expected best quarter yet will be reported on January 29, 2026](https://appleinsider.com/articles/26/01/08/earnings-for-apples-expected-best-quarter-yet-will-be-reported-on-january-29-2026?utm_source=rss)
+ - [UK Prime Minister says &amp;#8216;we will take action&amp;#8217; on Grok&amp;#8217;s disgusting deepfakes](https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes)
+ - [Apple&#39;s 2026 annual shareholder meeting is on February 24](https://appleinsider.com/articles/26/01/08/apples-2026-annual-shareholder-meeting-is-on-february-24?utm_source=rss)
  - [Filings: Meta has hired Bill McGinley, a veteran Republican operative and the former top lawyer for DOGE, as a lobbyist &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/260108/p45#a260108p45)
- - [I Watched a Drone Pick Up a Robot Vacuum and &lpar;Sort Of&rpar; Carry It Up the Stairs at CES 2026](https://www.cnet.com/home/kitchen-and-household/watched-drone-pick-up-robot-vacuum-carry-it-up-the-stairs-ces-2026/)
- - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Behind the Scenes of Disneyland&#39;s New 3D-Printed Prop Canoe on the Jungle Cruise](https://www.cnet.com/tech/computing/disney-3d-printed-polymer-prop-canoe-jungle-cruise/)
- - [Snowflake agrees to acquire Observe, an observability platform built on Snowflake databases; the deal was previously reported to be valued at around $1B &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260108/p44#a260108p44)<!-- TECH:END -->
+ - [I Watched a Drone Pick Up a Robot Vacuum and &lpar;Sort Of&rpar; Carry It Up the Stairs at CES 2026](https://www.cnet.com/home/kitchen-and-household/watched-drone-pick-up-robot-vacuum-carry-it-up-the-stairs-ces-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

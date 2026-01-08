@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cyera researchers detail Ni8mare, a critical RCE flaw that lets hackers access local instances of the n8n workflow automation platform, impacting ~100K servers &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260107/p43#a260107p43)
+ - [Best Peloton Alternatives to Kickstart Your 2026 Fitness Goals](https://www.cnet.com/health/fitness/best-peloton-alternatives-if-youre-looking-for-other-solid-choices/)
+ - [I Just Had a 10-Minute Conversation in Polish &lpar;I Don&#39;t Speak Any Polish&rpar;](https://www.cnet.com/tech/ces-2026-vasco-language-translator/)
  - [AirVersa AP2 Air Purifier review: Compact Apple Home air purifier with Thread](https://appleinsider.com/articles/26/01/08/airversa-ap2-air-purifier-review-compact-apple-home-air-purifier-with-thread?utm_source=rss)
- - [Disney Plus is getting vertical video](https://www.theverge.com/tech/858277/disney-plus-vertical-video)
- - [Ford plans to launch an AI voice assistant on its apps this year before expanding to its vehicles in 2027, and aims to debut Level 3 autonomous driving in 2028 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260107/p42#a260107p42)
- - [All the Head-Turning Security Tech I Saw at CES 2026](https://www.cnet.com/home/security/all-the-head-turning-security-tech-i-saw-at-ces-2026/)
- - [Arm creates a &quot;Physical AI&quot; unit to focus on robotics and automotive sectors, as part of a reorganization that includes &quot;Cloud and AI&quot; and &quot;Edge&quot; business units &lpar;Reuters&rpar;](http://www.techmeme.com/260107/p41#a260107p41)<!-- TECH:END -->
+ - [This Modular Watch Band Lets You Hide Your Apple Watch Under Your Rolex](https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

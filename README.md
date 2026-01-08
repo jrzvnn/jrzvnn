@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
- - 😝 [The good old days when computer lab was the highlight of the week](http://9gag.com/gag/aE0b5Ke)
- - 💣 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 😝 [White Hershey candy is getting tired of them Snickers](http://9gag.com/gag/aW4AX6K)
- - 👉 [This internet is a fun place](http://9gag.com/gag/abAowLL)<!-- MEMES:END -->
+ - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
+ - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 💣 [Rabid fox](http://9gag.com/gag/a8799rY)
+ - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 👉 [Based](http://9gag.com/gag/avyVqzM)<!-- MEMES:END -->
 
 ---
 

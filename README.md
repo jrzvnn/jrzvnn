@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Volvo touts EX60’s range and charging speed ahead of official debut](https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery)
  - [Sources: China plans to approve some imports of Nvidia&#39;s H200 chips as soon as Q1 2026 while still barring them from military use and critical infrastructure &lpar;John Liu/Bloomberg&rpar;](http://www.techmeme.com/260108/p10#a260108p10)
  - [Big US hospital systems have become a proving ground for AI adoption; a survey finds that 27% of health systems are paying for commercial AI licenses &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260108/p9#a260108p9)
  - [Bose Promo Code: 40% Off Bose for January 2026](https://www.wired.com/story/bose-coupon-code/)
- - [Local governments across China are funding dozens of &quot;robot training centers&quot;, where human trainers mimic movements like folding clothes to teach the robots &lpar;Rest of World&rpar;](http://www.techmeme.com/260108/p8#a260108p8)
- - [The US FCC exempts some new models of foreign-made drones and critical components from an import ban, announced in December 2025, until the end of 2026 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260108/p7#a260108p7)<!-- TECH:END -->
+ - [Local governments across China are funding dozens of &quot;robot training centers&quot;, where human trainers mimic movements like folding clothes to teach the robots &lpar;Rest of World&rpar;](http://www.techmeme.com/260108/p8#a260108p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

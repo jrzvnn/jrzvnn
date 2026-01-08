@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out an AI Inbox view for Gmail, showing users to-dos and summaries of topics rather than a traditional email list, first for US &quot;trusted testers&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260108/p21#a260108p21)
- - [Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/)
- - [Google is taking over your Gmail inbox with AI](https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews)
- - [Apple corrals 12 nominations for 32nd Actor Awards, led by &#39;The Studio&#39;](https://appleinsider.com/articles/26/01/08/apple-corrals-12-nominations-for-32nd-actor-awards-led-by-the-studio?utm_source=rss)
- - [Israeli data security startup Cyera raised a $400M Series F led by Blackstone Growth at a $9B valuation, up from $6B after raising $540M in June 2025 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260108/p20#a260108p20)<!-- TECH:END -->
+ - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
+ - [Protege, which offers an AI data platform to access high-quality, proprietary training data at scale, raised $30M from a16z, extending its $25M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260108/p24#a260108p24)
+ - [The EU says it ordered X to retain all internal docs and data relating to Grok until the end of 2026, after criticizing Grok&#39;s nonconsensual image generation &lpar;Louise Breusch Rasmussen/Reuters&rpar;](http://www.techmeme.com/260108/p23#a260108p23)
+ - [Google makes Help Me Write, AI email summaries, and Suggested Replies free to all Gmail users; the features required a Google AI Pro or Ultra subscription &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260108/p22#a260108p22)
+ - [Google rolls out an AI Inbox view for Gmail, showing users to-dos and summaries of topics rather than a traditional email list, first for US &quot;trusted testers&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260108/p21#a260108p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

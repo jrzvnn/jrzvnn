@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump family&#39;s World Liberty Financial says its entity World Liberty Trust has applied for a US banking license, which would let it issue the USD1 stablecoin &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p39#a260107p39)
- - [Blood for stonks](https://www.theverge.com/policy/858075/trump-venezuela-maduro-kidnapping-spectacle)
- - [Traces of Leonardo da Vinci&#39;s DNA May Have Been Discovered on a Red Chalk Drawing Called &#39;Holy Child&#39;](https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/)
- - [Apple Card moving to Chase as issuer, confirms Apple](https://appleinsider.com/articles/26/01/07/apple-card-moving-to-chase-as-issuer-confirms-apple?utm_source=rss)
- - [Sources: Larry Page bought two Miami estates in December and January for a combined $173.4M; Sergey Brin is also said to be in discussions to buy a Miami home &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260107/p38#a260107p38)<!-- TECH:END -->
+ - [AirVersa AP2 Air Purifier review: Compact Apple Home air purifier with Thread](https://appleinsider.com/articles/26/01/08/airversa-ap2-air-purifier-review-compact-apple-home-air-purifier-with-thread?utm_source=rss)
+ - [Disney Plus is getting vertical video](https://www.theverge.com/tech/858277/disney-plus-vertical-video)
+ - [Ford plans to launch an AI voice assistant on its apps this year before expanding to its vehicles in 2027, and aims to debut Level 3 autonomous driving in 2028 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260107/p42#a260107p42)
+ - [All the Head-Turning Security Tech I Saw at CES 2026](https://www.cnet.com/home/security/all-the-head-turning-security-tech-i-saw-at-ces-2026/)
+ - [Arm creates a &quot;Physical AI&quot; unit to focus on robotics and automotive sectors, as part of a reorganization that includes &quot;Cloud and AI&quot; and &quot;Edge&quot; business units &lpar;Reuters&rpar;](http://www.techmeme.com/260107/p41#a260107p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India fights Apple&#39;s attempts to reduce a potential $38 billion fine](https://appleinsider.com/articles/26/01/08/india-fights-apples-attempts-to-reduce-a-potential-38-billion-fine?utm_source=rss)
- - [Roku founder and CEO Anthony Wood predicts &quot;we&#39;ll see the first 100% AI-generated hit movie&quot; within three years and discusses Roku&#39;s new $3/month Howdy streamer &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/260108/p16#a260108p16)
- - [The Daring Attempt to End the Memory Shortage Crisis](https://www.wired.com/story/solving-the-pc-memory-crisis/)
- - [Sources: wealthy Californians are quietly mobilizing on WhatsApp and calls in a long-shot bid to oust Rep. Ro Khanna, who supports a controversial wealth tax &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260108/p15#a260108p15)
- - [How Mormons Helped Make America’s Prepping Industry Into Big Business](https://www.wired.com/story/true-patriots-are-cashing-in-on-the-apocalypse/)<!-- TECH:END -->
+ - [Lego says its Smart Brick is &quot;here to stay&quot; but &quot;does not mean that we&#39;re leaving our core proposition behind&quot;, after criticism of abandoning non-digital play &lpar;Tom Phillips/IGN&rpar;](http://www.techmeme.com/260108/p17#a260108p17)
+ - [2026 Is the Year of the RGB LED TV](https://www.wired.com/story/rgb-led-televisions-2026/)
+ - [The gap between premium and budget TV brands is quickly closing](https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing)
+ - [America’s new era of energy imperialism is about more than oil](https://www.theverge.com/report/857978/trump-venezuela-greenland-oil-mineral-energy-imperialism)
+ - [India fights Apple&#39;s attempts to reduce a potential $38 billion fine](https://appleinsider.com/articles/26/01/08/india-fights-apples-attempts-to-reduce-a-potential-38-billion-fine?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

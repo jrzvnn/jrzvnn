@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fast acting, no side effects...](http://9gag.com/gag/a1mnnWP)
- - 😝 [Understandable](http://9gag.com/gag/aqyOwEj)
- - 💣 [This internet is a fun place](http://9gag.com/gag/abAowLL)
- - 😝 [It has to be seen by everyone.](http://9gag.com/gag/ary0Lo7)
- - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
+ - 😝 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
+ - 😝 [Based](http://9gag.com/gag/avyVqzM)
+ - 💣 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 😝 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
+ - 👉 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
 
 ---
 

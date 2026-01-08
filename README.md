@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India fights Apple&#39;s attempts to reduce a potential $38 billion fine](https://appleinsider.com/articles/26/01/08/india-fights-apples-attempts-to-reduce-a-potential-38-billion-fine?utm_source=rss)
  - [Roku founder and CEO Anthony Wood predicts &quot;we&#39;ll see the first 100% AI-generated hit movie&quot; within three years and discusses Roku&#39;s new $3/month Howdy streamer &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/260108/p16#a260108p16)
  - [The Daring Attempt to End the Memory Shortage Crisis](https://www.wired.com/story/solving-the-pc-memory-crisis/)
  - [Sources: wealthy Californians are quietly mobilizing on WhatsApp and calls in a long-shot bid to oust Rep. Ro Khanna, who supports a controversial wealth tax &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260108/p15#a260108p15)
- - [How Mormons Helped Make America’s Prepping Industry Into Big Business](https://www.wired.com/story/true-patriots-are-cashing-in-on-the-apocalypse/)
- - [Sources: China&#39;s Salt Typhoon accessed the emails of staff on powerful US House committees, detected last December, and intercepted senior US officials&#39; calls &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260108/p14#a260108p14)<!-- TECH:END -->
+ - [How Mormons Helped Make America’s Prepping Industry Into Big Business](https://www.wired.com/story/true-patriots-are-cashing-in-on-the-apocalypse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

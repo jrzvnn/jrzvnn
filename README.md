@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China plans to approve some imports of Nvidia&#39;s H200 chips as soon as Q1 2026 while still barring them from military use and critical infrastructure &lpar;John Liu/Bloomberg&rpar;](http://www.techmeme.com/260108/p10#a260108p10)
+ - [Big US hospital systems have become a proving ground for AI adoption; a survey finds that 27% of health systems are paying for commercial AI licenses &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260108/p9#a260108p9)
+ - [Bose Promo Code: 40% Off Bose for January 2026](https://www.wired.com/story/bose-coupon-code/)
  - [Local governments across China are funding dozens of &quot;robot training centers&quot;, where human trainers mimic movements like folding clothes to teach the robots &lpar;Rest of World&rpar;](http://www.techmeme.com/260108/p8#a260108p8)
- - [The US FCC exempts some new models of foreign-made drones and critical components from an import ban, announced in December 2025, until the end of 2026 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260108/p7#a260108p7)
- - [Peacock Promo Codes: 16% Off January 2026](https://www.wired.com/story/peacock-promo-code/)
- - [Samsung says Ballie, a robot announced six years ago but never released, is an &quot;active innovation platform&quot; within the company helping inform other products &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260108/p6#a260108p6)
- - [Sources: to hedge against Beijing approval risk, Nvidia is requiring Chinese customers to pay upfront for H200 chips, with no cancellations, refunds, or changes &lpar;Reuters&rpar;](http://www.techmeme.com/260108/p5#a260108p5)<!-- TECH:END -->
+ - [The US FCC exempts some new models of foreign-made drones and critical components from an import ban, announced in December 2025, until the end of 2026 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260108/p7#a260108p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

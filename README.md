@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft will put buy buttons directly in Copilot](https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products)
- - [Satechi’s new Slim EX keyboards have a replaceable battery](https://www.theverge.com/tech/856666/satechi-slim-ex-keyboards-removable-battery-ces-2026)
- - [A profile of Apple SVP John Ternus, the head of hardware engineering, who sources say is the front-runner to succeed Tim Cook, who wants to reduce his workload &lpar;New York Times&rpar;](http://www.techmeme.com/260108/p31#a260108p31)
- - [FIFA says parts of 2026 World Cup soccer games will be broadcast live on TikTok and some creators will get access to press conferences and training sessions &lpar;Jessica Hopkins/The Athletic&rpar;](http://www.techmeme.com/260108/p30#a260108p30)
- - [CES 2026 Live: Best of Show, New Robots, AI Devices, Tech Concepts and More](https://www.cnet.com/news-live/ces-2026-news-live-updates/)<!-- TECH:END -->
+ - [CES 2026 Live: Best of Show, New Robots, AI Devices, Tech Concepts and More](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
+ - [Google and Character.AI Settle Suits Over Child Harm, Including Suicide, Linked to AI Chatbots](https://www.cnet.com/tech/services-and-software/google-and-character-ai-settle-suits-over-child-harm-including-suicide-linked-to-ai-chatbots/)
+ - [AirPods Pro 3 dip to $199.99 during Amazon&#39;s January sale](https://appleinsider.com/articles/26/01/08/airpods-pro-3-dip-to-19999-during-amazons-january-sale?utm_source=rss)
+ - [How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)
+ - [This Necklace Lets You Bring a Personal AI Companion With You Everywhere](https://www.cnet.com/tech/services-and-software/nirva-ai-jewelry-ces-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

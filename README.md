@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CES 2026 Live: Best of Show, New Robots, AI Devices, Tech Concepts and More](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
  - [How to turn emails, webpages &amp; notes into Reminders with Apple Intelligence](https://appleinsider.com/articles/26/01/08/how-to-turn-emails-webpages-notes-into-reminders-with-apple-intelligence?utm_source=rss)
  - [Sources: OpenAI last fall set aside RSUs worth 10% of the company, which was valued in October at $500B; it has already awarded about $80B in vested equity &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260107/p44#a260107p44)
  - [Best Internet Providers in New York, New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/)
- - [CES 2026 Live: Best of Show, New Robots, AI Devices, Tech Concepts and More](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
  - [Cyera researchers detail Ni8mare, a critical RCE flaw that lets hackers access local instances of the n8n workflow automation platform, impacting ~100K servers &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260107/p43#a260107p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
- - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - 💣 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
  - 😝 [Nature is beautiful...](http://9gag.com/gag/adBMzBM)
- - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
+ - 👉 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
 
 ---
 

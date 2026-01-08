@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
- - 😝 [Just a routine check, nothing to see here](http://9gag.com/gag/aYQB6Lq)
+ - 😝 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
+ - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
  - 💣 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 😝 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
- - 👉 [Say when](http://9gag.com/gag/aqyOO1R)<!-- MEMES:END -->
+ - 😝 [Tiny Dancer before it was released](http://9gag.com/gag/aE0b5Zn)
+ - 👉 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
 
 ---
 

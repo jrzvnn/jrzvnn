@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We know what they did to RAM prices.](http://9gag.com/gag/aW4A3N6)
- - 😝 [And hopefully the last](http://9gag.com/gag/a9yexdZ)
- - 💣 [There\u2019s a special kind of silence when someone realizes, \u201cdamn\u2026 he was right.\u201d](http://9gag.com/gag/aZZKOPn)
- - 😝 [Here you go buddy](http://9gag.com/gag/aVv8pLO)
- - 👉 [Based Japan](http://9gag.com/gag/awyDWnD)<!-- MEMES:END -->
+ - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)
+ - 👉 [Video speaks for itself](http://9gag.com/gag/aAy7912)<!-- MEMES:END -->
 
 ---
 

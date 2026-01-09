@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature is beautiful...](http://9gag.com/gag/adBMzBM)
- - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 💣 [A muntjac deer fights a rhino in Wroclaw Zoo](http://9gag.com/gag/an73om5)
- - 😝 [Clear difference](http://9gag.com/gag/aVv8ygw)
- - 👉 [Best Boi](http://9gag.com/gag/awyDWKQ)<!-- MEMES:END -->
+ - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)
+ - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Vergecast Live at CES 2026: What is the point of a robot that falls over?](https://www.theverge.com/podcast/859370/ces-2026-best-tech-vergecast)
+ - [Sources say DeepSeek will launch V4, its next-generation model, in the coming weeks and say it outperformed Anthropic&#39;s Claude and OpenAI&#39;s GPT series in coding &lpar;The Information&rpar;](http://www.techmeme.com/260109/p12#a260109p12)
  - [Kia’s EV2 is its smallest and most affordable EV for Europe](https://www.theverge.com/transportation/858912/kia-ev2-announce-specs-range-europe)
  - [CES 2026, Apple Card&#39;s bank shift and more, on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/09/ces-2026-apple-cards-bank-shift-and-more-on-the-appleinsider-podcast?utm_source=rss)
- - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
- - [Inside Preview in iOS 26 - how to edit PDFs, sign documents, and scan files](https://appleinsider.com/inside/ios-26/tips/inside-preview-in-ios-26---how-to-edit-pdfs-sign-documents-and-scan-files?utm_source=rss)
- - [Rain, which helps businesses issue stablecoin-linked Visa cards, raised a $250M Series C led by ICONIQ at a $1.95B valuation, bringing total funding to $338M+ &lpar;Pragyan Kalita/Reuters&rpar;](http://www.techmeme.com/260109/p11#a260109p11)<!-- TECH:END -->
+ - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

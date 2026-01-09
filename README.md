@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 💣 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)
  - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 💣 [That camera man had one job](http://9gag.com/gag/ary0Q17)
- - 😝 [What the duck](http://9gag.com/gag/a879xZO)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - 👉 [Video speaks for itself](http://9gag.com/gag/aAy7912)<!-- MEMES:END -->
 
 ---
 

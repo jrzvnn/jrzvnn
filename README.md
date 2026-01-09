@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta expands nuclear power ambitions to include Bill Gates&amp;#8217; startup](https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers)
+ - [The UK government says X restricting Grok&#39;s image creation to paid users is insulting as it just makes the ability to generate unlawful images a premium service &lpar;The Guardian&rpar;](http://www.techmeme.com/260109/p16#a260109p16)
  - [Legendary classic Macintosh game &#39;Dark Castle&#39; is coming back to the Mac](https://appleinsider.com/articles/26/01/09/legendary-classic-macintosh-game-dark-castle-is-coming-back-to-the-mac?utm_source=rss)
- - [Black Mirror has been renewed for another season](https://www.theverge.com/streaming/859699/netflix-black-mirror-season-8)
- - [I can’t find the Trump phone at America’s largest tech show](https://www.theverge.com/tech/859023/i-cant-find-the-trump-phone-at-americans-largest-tech-show)
- - [AI-coded malware arrives on the Mac through fake Grok AI app](https://appleinsider.com/articles/26/01/09/ai-coded-malware-arrives-on-the-mac-through-fake-grok-ai-app?utm_source=rss)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)<!-- TECH:END -->
+ - [How CNET Tests Robot Vacuums](https://www.cnet.com/home/kitchen-and-household/how-cnet-tests-robot-vacuums/)
+ - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

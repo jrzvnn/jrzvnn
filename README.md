@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 💣 [A muntjac deer fights a rhino in Wroclaw Zoo](http://9gag.com/gag/an73om5)
- - 😝 [Modern problems, requires modern solutions.](http://9gag.com/gag/aGyq4rX)
- - 👉 [Best Boi](http://9gag.com/gag/awyDWKQ)<!-- MEMES:END -->
+ - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
+ - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 😝 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)
+ - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 ---
 

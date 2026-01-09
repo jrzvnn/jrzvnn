@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
  - 😝 [@ahaja007 you were looking for this.](http://9gag.com/gag/a9ye0dD)
- - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 😝 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)
+ - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
  - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
 
 ---

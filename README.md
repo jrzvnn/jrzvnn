@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [@ahaja007 you were looking for this.](http://9gag.com/gag/a9ye0dD)
- - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
- - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 😝 [We know what they did to RAM prices.](http://9gag.com/gag/aW4A3N6)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 💣 [A muntjac deer fights a rhino in Wroclaw Zoo](http://9gag.com/gag/an73om5)
+ - 😝 [Modern problems, requires modern solutions.](http://9gag.com/gag/aGyq4rX)
+ - 👉 [Best Boi](http://9gag.com/gag/awyDWKQ)<!-- MEMES:END -->
 
 ---
 

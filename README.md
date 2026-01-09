@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 💣 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)
- - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 👉 [Video speaks for itself](http://9gag.com/gag/aAy7912)<!-- MEMES:END -->
+ - 😝 [Best Boi](http://9gag.com/gag/awyDWKQ)
+ - 😝 [A muntjac deer fights a rhino in Wroclaw Zoo](http://9gag.com/gag/an73om5)
+ - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [What\u2019s your opinion about this?](http://9gag.com/gag/a7oBxxq)
+ - 👉 [We know what they did to RAM prices.](http://9gag.com/gag/aW4A3N6)<!-- MEMES:END -->
 
 ---
 

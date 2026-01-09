@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook and Sundar Pichai are cowards](https://www.theverge.com/policy/859902/apple-google-run-by-cowards)
  - [A deep dive into a16z, which has stakes in 10 of the top 15 private companies by valuation and whose Funds 1-4 totaled $853B in enterprise value at distribution &lpar;Packy McCormick/Not Boring&rpar;](http://www.techmeme.com/260109/p21#a260109p21)
  - [Meta Is Making a Big Bet on Nuclear With Oklo](https://www.wired.com/story/meta-is-making-a-big-bet-on-nuclear-with-oklo/)
  - [OpenAI and kids safety group Common Sense Media partner to consolidate competing measures for a California ballot initiative meant to protect kids from chatbots &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260109/p20#a260109p20)
- - [This semi-secret Lego Smart Brick feature gives it even more potential](https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential)
- - [Did you know that Gmail has emoji reactions?](https://www.theverge.com/news/859865/gmail-emoji-reaction-workspace-rollout-default)<!-- TECH:END -->
+ - [This semi-secret Lego Smart Brick feature gives it even more potential](https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

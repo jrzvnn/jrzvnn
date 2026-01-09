@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toddler weekend schedule](https://www.reddit.com/r/funny/comments/1q8f66z/toddler_weekend_schedule/)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
  - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [Japan Airlines expels all Muslim passengers!](http://9gag.com/gag/ary0QAV)
+ - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
 
 ---
 

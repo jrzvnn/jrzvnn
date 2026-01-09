@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 😝 [Video speaks for itself](http://9gag.com/gag/aAy7912)
- - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
+ - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 💣 [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 👉 [Video speaks for itself](http://9gag.com/gag/aAy7912)<!-- MEMES:END -->
 
 ---
 

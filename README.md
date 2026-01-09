@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
+ - [Apple confirms February 10 deadline for Home architecture upgrade](https://appleinsider.com/articles/26/01/09/apple-confirms-february-10-deadline-for-home-architecture-upgrade?utm_source=rss)
+ - [Set It and Forget It: Navimow&#39;s Robotic Mowers at CES 2026 Treat You and Your Lawn Right](https://www.cnet.com/news/set-it-and-forget-it-navimows-robotic-mowers-at-ces-2026-treat-you-and-your-lawn-right/)
  - [OpenAI and SoftBank says they will each invest $500M in SB Energy to support the infrastructure company&#39;s growth as a data center developer and operator &lpar;Bloomberg&rpar;](http://www.techmeme.com/260109/p17#a260109p17)
- - [The latest on Grok&amp;#8217;s gross AI deepfakes problem](https://www.theverge.com/news/859715/x-grok-ai-deepfakes)
- - [Meta expands nuclear power ambitions to include Bill Gates&amp;#8217; startup](https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers)
- - [The UK government says X restricting Grok&#39;s image creation to paid users is insulting as it just makes the ability to generate unlawful images a premium service &lpar;The Guardian&rpar;](http://www.techmeme.com/260109/p16#a260109p16)
- - [Legendary classic Macintosh game &#39;Dark Castle&#39; is coming back to the Mac](https://appleinsider.com/articles/26/01/09/legendary-classic-macintosh-game-dark-castle-is-coming-back-to-the-mac?utm_source=rss)<!-- TECH:END -->
+ - [The latest on Grok&amp;#8217;s gross AI deepfakes problem](https://www.theverge.com/news/859715/x-grok-ai-deepfakes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A16z captured 18%+ of all US venture capital allocated in 2025 and now manages $90B in assets, vs Sequoia Capital&#39;s $56B and General Catalyst&#39;s $43B &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260109/p13#a260109p13)
- - [You can break apart and share this 10K power bank like a KitKat bar](https://www.theverge.com/tech/859493/nimble-champ-stack-10k-power-bank-shareable)
- - [X Didn&#39;t Fix Grok&#39;s ‘Undressing’ Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)
- - [CES 2026 was awash in bodily fluids](https://www.theverge.com/tech/859132/optimizer-ces-2026-metabolism-bodily-fluids-health-tech-wearables)
- - [Don&#39;t believe all the rumors you hear about Apple&#39;s 20th-anniversary iPhone](https://appleinsider.com/articles/26/01/09/dont-believe-all-the-rumors-you-hear-about-apples-20th-anniversary-iphone?utm_source=rss)<!-- TECH:END -->
+ - [The UK&#39;s FCA grants Ripple approval for its Electronic Money Institution license and crypto asset registration, clearing the way for UK expansion &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/260109/p14#a260109p14)
+ - [Anker’s new AeroFit Pro 2 earbuds are already $30 off](https://www.theverge.com/gadgets/859486/anker-aerofit-pro-2-earbuds-donkey-kong-bananza-elgato-deal-sale)
+ - [Silicon Valley Billionaires Panic Over California’s Proposed Wealth Tax](https://www.wired.com/story/backchannel-silicon-valley-billionaires-california-taxes/)
+ - [a16z captured 18%+ of all venture capital allocated in the US in 2025 and now manages $90B in assets, vs. Sequoia Capital&#39;s $56B and General Catalyst&#39;s $43B &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260109/p13#a260109p13)
+ - [You can break apart and share this 10K power bank like a KitKat bar](https://www.theverge.com/tech/859493/nimble-champ-stack-10k-power-bank-shareable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

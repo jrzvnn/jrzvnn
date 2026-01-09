@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Boltz, which is developing open frontier AI models for biomolecular research, raised a $28M seed led by Zetta, Amplify, and a16z at a valuation of $125M &lpar;Andrew Dunn/Endpoints News&rpar;](http://www.techmeme.com/260109/p22#a260109p22)
  - [The Samsung Galaxy Watch Is Discounted on Amazon](https://www.wired.com/story/samsung-galaxy-watch8-deal-126/)
  - [Solawave Wand Fans: Don&#39;t Miss This Buy One, Get One Free Sale](https://www.wired.com/story/solawave-wand-fans-this-buy-one-get-one-free-deal-is-for-you/)
- - [CES 2026: 26 of the Most Eye-Catching Tech Products We&#39;ve Seen](https://www.cnet.com/pictures/ces-2026-overall-products/)
- - [A deep dive into a16z, which has stakes in 10 of the top 15 private companies by valuation and whose Funds 1-4 totaled $853B in enterprise value at distribution &lpar;Packy McCormick/Not Boring&rpar;](http://www.techmeme.com/260109/p21#a260109p21)<!-- TECH:END -->
+ - [Tim Cook and Sundar Pichai are cowards](https://www.theverge.com/policy/859902/apple-google-run-by-cowards)
+ - [CES 2026: 26 of the Most Eye-Catching Tech Products We&#39;ve Seen](https://www.cnet.com/pictures/ces-2026-overall-products/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

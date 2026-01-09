@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is this the perfect time for the second amendment?](http://9gag.com/gag/aByM5N1)
  - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
- - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
- - 💣 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)
- - 😝 [Getting tired of this shiet](http://9gag.com/gag/aQzKLbr)
+ - 💣 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 😝 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)
  - 👉 [Video speaks for itself](http://9gag.com/gag/aAy7912)<!-- MEMES:END -->
 
 ---

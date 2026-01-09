@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s chip partner TSMC revenue driven to new heights by iPhone &amp; AI](https://appleinsider.com/articles/26/01/09/apples-chip-partner-tsmc-revenue-driven-to-new-heights-by-iphone-ai?utm_source=rss)
- - [Conservative Lawmakers Want Porn Taxes. Critics Say They’re Unconstitutional](https://www.wired.com/story/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/)
- - [The Verge Awards at CES 2026](https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable)
- - [Evercore raises its Apple price target to $330 on iPhone 17 demand](https://appleinsider.com/articles/26/01/09/evercore-raises-its-apple-price-target-to-330-on-iphone-17-demand?utm_source=rss)
- - [Meta strikes a 20-year deal to buy 2,600+ MW of nuclear power from Vistra, and announces deals to back new reactor projects from TerraPower and Oklo &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/260109/p6#a260109p6)<!-- TECH:END -->
+ - [All the tech trends we saw at CES 2026](https://www.theverge.com/tech/859244/ces-2026-highlights-trends)
+ - [Pickle, lighthouse, and meteor among 19 new emoji previewed for 2026](https://appleinsider.com/articles/26/01/09/pickle-lighthouse-and-meteor-among-19-new-emoji-previewed-for-2026?utm_source=rss)
+ - [The EU says it is considering designating WhatsApp a &quot;very large platform&quot;, after WhatsApp published user numbers above the DSA threshold in February 2025 &lpar;Louise Breusch Rasmussen/Reuters&rpar;](http://www.techmeme.com/260109/p9#a260109p9)
+ - [a16z raises over $15B across five new funds, including $6.75B for its fifth growth fund and $3B for unspecified &quot;other venture strategies&quot; &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/260109/p8#a260109p8)
+ - [No, Grok hasn&amp;#8217;t paywalled its deepfake image feature](https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

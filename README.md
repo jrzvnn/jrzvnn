@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Got Up Close and Personal With Boston Dynamics&#39; New Atlas Robot](https://www.cnet.com/tech/computing/i-got-up-close-and-personal-with-boston-dynamics-new-atlas-robot-at-ces-2026/)
- - [These Are the Most Head-Turning TVs of CES 2026](https://www.cnet.com/tech/home-entertainment/these-are-the-head-turning-tvs-of-2026/)
- - [Xbox’s Towerborne is switching from a free-to-play game to a paid one](https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline)
- - [Lexar Professional Workflow Docking Station review: A modular setup for creative pros](https://appleinsider.com/articles/26/01/09/lexar-professional-workflow-docking-station-review-a-modular-setup-for-creative-pros?utm_source=rss)
- - [Docs: xAI had a net loss of $1.46B in Q3, up from $1B in Q1; sources: xAI told investors it plans to build AI that will eventually power Optimus humanoid robots &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/260108/p48#a260108p48)<!-- TECH:END -->
+ - [Source: Lambda, which rents access to AI chips and is backed by Nvidia, is in talks to raise $350M+ led by Mubadala Capital, ahead of an IPO planned for H2 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260108/p50#a260108p50)
+ - [ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, Per Testimony](https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/)
+ - [Seattle-based Spangle AI, which makes AI tools for online retailers to build custom storefronts, raised a $15M Series A led by NewRoad at a $100M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/260108/p49#a260108p49)
+ - [I Interviewed Realbotix&#39;s New Guy Robot](https://www.cnet.com/tech/computing/i-interviewed-realbotixs-new-guy-robot/)
+ - [Getting to Know the Oli Humanoid Robot &lpar;by Dancing&rpar;](https://www.cnet.com/tech/computing/getting-to-know-the-oli-humanoid-robot-by-dancing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

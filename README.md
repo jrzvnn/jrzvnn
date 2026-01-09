@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s FCA grants Ripple approval for its Electronic Money Institution license and crypto asset registration, clearing the way for UK expansion &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/260109/p14#a260109p14)
+ - [Democrats ask Apple and Google to remove X’s undressing bot from their app stores](https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store)
+ - [The UK FCA grants Ripple approval for its Electronic Money Institution license and crypto asset registration, clearing the way for Ripple&#39;s UK expansion &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/260109/p14#a260109p14)
  - [Anker’s new AeroFit Pro 2 earbuds are already $30 off](https://www.theverge.com/gadgets/859486/anker-aerofit-pro-2-earbuds-donkey-kong-bananza-elgato-deal-sale)
  - [Silicon Valley Billionaires Panic Over California’s Proposed Wealth Tax](https://www.wired.com/story/backchannel-silicon-valley-billionaires-california-taxes/)
- - [a16z captured 18%+ of all venture capital allocated in the US in 2025 and now manages $90B in assets, vs. Sequoia Capital&#39;s $56B and General Catalyst&#39;s $43B &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260109/p13#a260109p13)
- - [You can break apart and share this 10K power bank like a KitKat bar](https://www.theverge.com/tech/859493/nimble-champ-stack-10k-power-bank-shareable)<!-- TECH:END -->
+ - [a16z captured 18%+ of all venture capital allocated in the US in 2025 and now manages $90B in assets, vs. Sequoia Capital&#39;s $56B and General Catalyst&#39;s $43B &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260109/p13#a260109p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

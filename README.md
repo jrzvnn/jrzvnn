@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only talking to you, technically](http://9gag.com/gag/an73oyn)
+ - 😝 [Nature is beautiful...](http://9gag.com/gag/adBMzBM)
  - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 💣 [Nature is beautiful...](http://9gag.com/gag/adBMzBM)
- - 😝 [Best Boi](http://9gag.com/gag/awyDWKQ)
- - 👉 [A muntjac deer fights a rhino in Wroclaw Zoo](http://9gag.com/gag/an73om5)<!-- MEMES:END -->
+ - 💣 [A muntjac deer fights a rhino in Wroclaw Zoo](http://9gag.com/gag/an73om5)
+ - 😝 [Clear difference](http://9gag.com/gag/aVv8ygw)
+ - 👉 [Best Boi](http://9gag.com/gag/awyDWKQ)<!-- MEMES:END -->
 
 ---
 

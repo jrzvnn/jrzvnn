@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I laughed at my own bad luck. Thank goodness it&#39;s Friday!](https://www.reddit.com/r/funny/comments/1q8gs78/i_laughed_at_my_own_bad_luck_thank_goodness_its/)
- - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
  - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
  - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
 

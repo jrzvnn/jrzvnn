@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tim Cook and Sundar Pichai are cowards](https://www.theverge.com/policy/859902/apple-google-run-by-cowards)
+ - [CES 2026: 26 of the Most Eye-Catching Tech Products We&#39;ve Seen](https://www.cnet.com/pictures/ces-2026-overall-products/)
  - [A deep dive into a16z, which has stakes in 10 of the top 15 private companies by valuation and whose Funds 1-4 totaled $853B in enterprise value at distribution &lpar;Packy McCormick/Not Boring&rpar;](http://www.techmeme.com/260109/p21#a260109p21)
- - [Meta Is Making a Big Bet on Nuclear With Oklo](https://www.wired.com/story/meta-is-making-a-big-bet-on-nuclear-with-oklo/)
- - [OpenAI and kids safety group Common Sense Media partner to consolidate competing measures for a California ballot initiative meant to protect kids from chatbots &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260109/p20#a260109p20)
- - [This semi-secret Lego Smart Brick feature gives it even more potential](https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential)<!-- TECH:END -->
+ - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
+ - [CES 2026 Introduces Emily: She&#39;s Life-Size, AI-Powered and Ready for Intimacy](https://www.cnet.com/tech/services-and-software/ces-2026-emily-sex-robot-with-memory/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese humanoid robotics companies dominated CES 2026, but a wide gap remains between choreographed demonstrations and real-world deployment &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260109/p2#a260109p2)
  - [NZXT Discount Codes: 50% Off in January 2026](https://www.wired.com/story/nzxt-discount-code/)
  - [Skullcandy Discount Codes and Deals: Up to 47% Off Top Products](https://www.wired.com/story/skullcandy-discount-code/)
  - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in January](https://www.wired.com/story/att-promo-code/)
- - [NordVPN Coupons and Deals: 77% Off in January 2026](https://www.wired.com/story/nordvpn-coupon/)
- - [$20 Chewy Promo Code | January 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
+ - [NordVPN Coupons and Deals: 77% Off in January 2026](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

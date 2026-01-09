@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gain Momentum With These 7 Simple Wellness Resolutions and Conquer 2026](https://www.cnet.com/health/try-these-7-new-years-wellness-resolutions-that-youll-actually-stick-to/)
  - [X limits Grok&#39;s image generation and editing to paying subscribers after widespread outcry over its use to create sexually explicit and violent imagery &lpar;Helena Horton/The Guardian&rpar;](http://www.techmeme.com/260109/p4#a260109p4)
  - [The Oceans Just Keep Getting Hotter](https://www.wired.com/story/the-oceans-just-keep-getting-hotter/)
  - [Omdia: global humanoid robot shipments rose more than 5x YoY in 2025 to ~13K units; China accounted for the vast majority, led by AgiBot shipping ~5,168 units &lpar;Bloomberg&rpar;](http://www.techmeme.com/260109/p3#a260109p3)
- - [Chinese humanoid robotics companies dominated CES 2026, but a wide gap remains between choreographed demonstrations and real-world deployment &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260109/p2#a260109p2)
- - [NZXT Discount Codes: 50% Off in January 2026](https://www.wired.com/story/nzxt-discount-code/)<!-- TECH:END -->
+ - [Chinese humanoid robotics companies dominated CES 2026, but a wide gap remains between choreographed demonstrations and real-world deployment &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260109/p2#a260109p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

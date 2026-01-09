@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta strikes a 20-year deal to buy 2,600+ MW of nuclear power from Vistra, and announces deals to back new reactor projects from TerraPower and Oklo &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/260109/p6#a260109p6)
- - [‘Physical AI’ Is Coming for Your Car](https://www.wired.com/story/physical-ai-is-coming-for-your-car/)
- - [Apple&#39;s 2026 annual shareholder meeting is on February 24](https://appleinsider.com/articles/26/01/08/apples-2026-annual-shareholder-meeting-is-on-february-24?utm_source=rss)
- - [Burtran Nano-Oxy Smart Air Purifier: Safe Sleep?](https://www.wired.com/review/burtran-nano-oxy-hepa-14-air-purifier/)
- - [Crispr Pioneer Launches Startup to Make Tailored Gene-Editing Treatments](https://www.wired.com/story/crispr-pioneer-launches-startup-to-make-tailored-gene-editing-treatments/)<!-- TECH:END -->
+ - [Apple&#39;s chip partner TSMC revenue driven to new heights by iPhone &amp; AI](https://appleinsider.com/articles/26/01/09/apples-chip-partner-tsmc-revenue-driven-to-new-heights-by-iphone-ai?utm_source=rss)
+ - [Conservative Lawmakers Want Porn Taxes. Critics Say They’re Unconstitutional](https://www.wired.com/story/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/)
+ - [The Verge Awards at CES 2026](https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable)
+ - [Evercore raises its Apple price target to $330 on iPhone 17 demand](https://appleinsider.com/articles/26/01/09/evercore-raises-its-apple-price-target-to-330-on-iphone-17-demand?utm_source=rss)
+ - [Meta strikes a 20-year deal to buy 2,600+ MW of nuclear power from Vistra, and announces deals to back new reactor projects from TerraPower and Oklo &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/260109/p6#a260109p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Senators tell Apple to remove X &amp; Grok from App Store because of AI-generated child porn](https://appleinsider.com/articles/26/01/09/senators-tell-apple-to-remove-x-grok-from-app-store-because-of-ai-generated-child-porn?utm_source=rss)
  - [The first sets with Lego’s new Smart Brick are now available for preorder](https://www.theverge.com/tech/859525/lego-smart-brick-play-system-now-available-preorder-star-wars-sets)
- - [Livestream FA Cup Soccer: Watch Wrexham vs. Nottingham Forest From Anywhere](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-wrexham-vs-nottingham-forest/)
- - [Best Robot Vacuums: Our Latest Lab Testing Reveals the Best Robots for the New Year](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/)
- - [The Most Futuristic Robot Vacuum Is Here. It Cleans, Hops and Climbs](https://www.cnet.com/home/kitchen-and-household/roborocks-saros-robot-vacuum-with-wheel-legs-ces-2026/)
- - [Baldur&amp;#8217;s Gate 3 studio says it won&amp;#8217;t use AI for concept art or writing](https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama)<!-- TECH:END -->
+ - [Baldur&amp;#8217;s Gate 3 studio says it won&amp;#8217;t use AI for concept art or writing](https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama)
+ - [The Golden Globes signs a deal with Polymarket, which will provide stats and predictions about the awards show at the official 2026 viewing party &lpar;Jordan Moreau/Variety&rpar;](http://www.techmeme.com/260109/p15#a260109p15)
+ - [Democrats ask Apple and Google to remove X’s undressing bot from their app stores](https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

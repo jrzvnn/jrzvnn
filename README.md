@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 😝 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
- - 💣 [@ahaja007 you were looking for this.](http://9gag.com/gag/a9ye0dD)
- - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 👉 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)<!-- MEMES:END -->
+ - 😝 [@ahaja007 you were looking for this.](http://9gag.com/gag/a9ye0dD)
+ - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)
+ - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
- - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
+ - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 😝 [Modern problems, requires modern solutions.](http://9gag.com/gag/aGyq4rX)
+ - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 ---
 

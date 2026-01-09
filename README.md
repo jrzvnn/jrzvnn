@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The FCC approves SpaceX&#39;s request to deploy an additional 7,500 Gen2 Starlink satellites, bringing the total to 15,000 satellites worldwide &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260109/p24#a260109p24)
+ - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
  - [Amazon is planning a Super Amazon-mart store near Chicago](https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans)
  - [The US Commerce Department drops a plan to impose restrictions on Chinese drones to address national security concerns; FCC barred imports in December 2025 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260109/p23#a260109p23)
- - [X accuses music publishers of &amp;#8216;weaponizing&amp;#8217; DMCA takedowns](https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit)
- - [This company could help bring Auracast to an iPhone near you](https://www.theverge.com/tech/860010/atitan-bluetooth-auracast-transceiver-ces-2026)<!-- TECH:END -->
+ - [ChatGPT Health: What the New Dedicated Tab Adds to the AI Chatbot](https://www.cnet.com/tech/services-and-software/openai-launches-chatgpt-health-a-dedicated-tab-for-medical-inquiries/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

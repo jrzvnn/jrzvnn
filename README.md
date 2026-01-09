@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Artemis Analytics: total stablecoin transaction volumes rose 72% YoY to a record $33T in 2025, led by Circle&#39;s USDC at $18.3T and Tether&#39;s USDT at $13.3T &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260109/p1#a260109p1)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-9/)
- - [Chinese AI startup MiniMax jumped as much as 54% in its Hong Kong debut on Friday, after raising ~$619M in its IPO priced at ~$21.17 per share &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/260108/p51#a260108p51)
- - [How to bring back Launchpad on macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-launchpad-on-macos-tahoe?utm_source=rss)
- - [Source: Lambda, which rents access to AI chips and is backed by Nvidia, is in talks to raise $350M+ led by Mubadala Capital, ahead of an IPO planned for H2 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260108/p50#a260108p50)<!-- TECH:END -->
+ - [NZXT Discount Codes: 50% Off in January 2026](https://www.wired.com/story/nzxt-discount-code/)
+ - [Skullcandy Discount Codes and Deals: Up to 47% Off Top Products](https://www.wired.com/story/skullcandy-discount-code/)
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in January](https://www.wired.com/story/att-promo-code/)
+ - [NordVPN Coupons and Deals: 77% Off in January 2026](https://www.wired.com/story/nordvpn-coupon/)
+ - [$20 Chewy Promo Code | January 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

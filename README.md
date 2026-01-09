@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI and kids safety group Common Sense Media partner to consolidate competing measures for a California ballot initiative meant to protect kids from chatbots &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260109/p20#a260109p20)
+ - [This semi-secret Lego Smart Brick feature gives it even more potential](https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential)
  - [Did you know that Gmail has emoji reactions?](https://www.theverge.com/news/859865/gmail-emoji-reaction-workspace-rollout-default)
- - [Friday Night Offers You One Shot at 2026&#39;s Most Jaw-Dropping View of Jupiter](https://www.cnet.com/science/space/friday-night-offers-you-one-shot-at-2026s-most-jaw-dropping-view-of-jupiter/)
  - [Scenes from the anti-ICE march in New York City](https://www.theverge.com/report/859550/anti-ice-protest-photos-new-york)
- - [Source: OnePay, the fintech firm behind Walmart&#39;s &quot;super app&quot;, recently bought back shares from employees at a price that values the startup at more than $4B &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/260109/p19#a260109p19)
- - [This Tiny Titanium Smart Ring Is Actually a Powerful AI Meeting Recorder](https://www.cnet.com/tech/services-and-software/this-ai-smart-ring-can-listen-in-on-your-meetings/)<!-- TECH:END -->
+ - [Source: OnePay, the fintech firm behind Walmart&#39;s &quot;super app&quot;, recently bought back shares from employees at a price that values the startup at more than $4B &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/260109/p19#a260109p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

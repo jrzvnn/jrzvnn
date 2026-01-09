@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Apple confirms February 10 deadline for Home architecture upgrade](https://appleinsider.com/articles/26/01/09/apple-confirms-february-10-deadline-for-home-architecture-upgrade?utm_source=rss)
- - [Set It and Forget It: Navimow&#39;s Robotic Mowers at CES 2026 Treat You and Your Lawn Right](https://www.cnet.com/news/set-it-and-forget-it-navimows-robotic-mowers-at-ces-2026-treat-you-and-your-lawn-right/)
- - [OpenAI and SoftBank says they will each invest $500M in SB Energy to support the infrastructure company&#39;s growth as a data center developer and operator &lpar;Bloomberg&rpar;](http://www.techmeme.com/260109/p17#a260109p17)
- - [The latest on Grok&amp;#8217;s gross AI deepfakes problem](https://www.theverge.com/news/859715/x-grok-ai-deepfakes)<!-- TECH:END -->
+ - [Scenes from the anti-ICE march in New York City](https://www.theverge.com/report/859550/anti-ice-protest-photos-new-york)
+ - [Source: OnePay, the fintech firm behind Walmart&#39;s &quot;super app&quot;, recently bought back shares from employees at a price that values the startup at more than $4B &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/260109/p19#a260109p19)
+ - [Anker&#39;s brand-new chargers &amp; docks are up to 25% off this weekend](https://appleinsider.com/articles/26/01/09/ankers-brand-new-chargers-docks-are-up-to-25-off-this-weekend?utm_source=rss)
+ - [Amazon files planning documents in Illinois to construct a 225,000 square foot big-box store, a return to a &quot;Target-like&quot; retail concept it previously shelved &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/260109/p18#a260109p18)
+ - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

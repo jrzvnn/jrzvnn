@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Commerce Department drops a plan to impose restrictions on Chinese drones to address national security concerns; FCC barred imports in December 2025 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260109/p23#a260109p23)
+ - [X accuses music publishers of &amp;#8216;weaponizing&amp;#8217; DMCA takedowns](https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit)
+ - [This company could help bring Auracast to an iPhone near you](https://www.theverge.com/tech/860010/atitan-bluetooth-auracast-transceiver-ces-2026)
  - [AI is coming for collectibles next](https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026)
- - [Boltz, which is developing open frontier AI models for biomolecular research, raised a $28M seed led by Zetta, Amplify, and a16z at a valuation of $125M &lpar;Andrew Dunn/Endpoints News&rpar;](http://www.techmeme.com/260109/p22#a260109p22)
- - [The Samsung Galaxy Watch Is Discounted on Amazon](https://www.wired.com/story/samsung-galaxy-watch8-deal-126/)
- - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Solawave Wand Fans: Don&#39;t Miss This Buy One, Get One Free Sale](https://www.wired.com/story/solawave-wand-fans-this-buy-one-get-one-free-deal-is-for-you/)<!-- TECH:END -->
+ - [Boltz, which is developing open frontier AI models for biomolecular research, raised a $28M seed led by Zetta, Amplify, and a16z at a valuation of $125M &lpar;Andrew Dunn/Endpoints News&rpar;](http://www.techmeme.com/260109/p22#a260109p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

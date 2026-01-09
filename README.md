@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
+ - 😝 [We know what they did to RAM prices.](http://9gag.com/gag/aW4A3N6)
+ - 😝 [And hopefully the last](http://9gag.com/gag/a9yexdZ)
+ - 💣 [There\u2019s a special kind of silence when someone realizes, \u201cdamn\u2026 he was right.\u201d](http://9gag.com/gag/aZZKOPn)
+ - 😝 [Here you go buddy](http://9gag.com/gag/aVv8pLO)
+ - 👉 [Based Japan](http://9gag.com/gag/awyDWnD)<!-- MEMES:END -->
 
 ---
 

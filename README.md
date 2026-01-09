@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
  - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 💣 [What the duck](http://9gag.com/gag/a879xZO)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
+ - 💣 [That camera man had one job](http://9gag.com/gag/ary0Q17)
+ - 😝 [What the duck](http://9gag.com/gag/a879xZO)
+ - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 ---
 

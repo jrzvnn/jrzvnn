@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Burtran Nano-Oxy Smart Air Purifier: Safe Sleep?](https://www.wired.com/review/burtran-nano-oxy-hepa-14-air-purifier/)
+ - [Crispr Pioneer Launches Startup to Make Tailored Gene-Editing Treatments](https://www.wired.com/story/crispr-pioneer-launches-startup-to-make-tailored-gene-editing-treatments/)
+ - [Microsoft is making it much easier to add hyperlinks in Word docs](https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut)
  - [How Craigslist has stayed relevant for users as a place to find jobs, housing, and personal connections without relying on algorithmic feeds or public profiles &lpar;Jennifer Swann/Wired&rpar;](http://www.techmeme.com/260109/p5#a260109p5)
- - [Future AirPods may gain finer and faster gesture recognition](https://appleinsider.com/articles/26/01/08/future-airpods-may-gain-finer-and-faster-gesture-recognition?utm_source=rss)
- - [Gain Momentum With These 7 Simple Wellness Resolutions and Conquer 2026](https://www.cnet.com/health/try-these-7-new-years-wellness-resolutions-that-youll-actually-stick-to/)
- - [X limits Grok&#39;s image generation and editing to paying subscribers after widespread outcry over its use to create sexually explicit and violent imagery &lpar;Helena Horton/The Guardian&rpar;](http://www.techmeme.com/260109/p4#a260109p4)
- - [The Oceans Just Keep Getting Hotter](https://www.wired.com/story/the-oceans-just-keep-getting-hotter/)<!-- TECH:END -->
+ - [Future AirPods may gain finer and faster gesture recognition](https://appleinsider.com/articles/26/01/08/future-airpods-may-gain-finer-and-faster-gesture-recognition?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

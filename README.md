@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the tech trends we saw at CES 2026](https://www.theverge.com/tech/859244/ces-2026-highlights-trends)
- - [Pickle, lighthouse, and meteor among 19 new emoji previewed for 2026](https://appleinsider.com/articles/26/01/09/pickle-lighthouse-and-meteor-among-19-new-emoji-previewed-for-2026?utm_source=rss)
- - [The EU says it is considering designating WhatsApp a &quot;very large platform&quot;, after WhatsApp published user numbers above the DSA threshold in February 2025 &lpar;Louise Breusch Rasmussen/Reuters&rpar;](http://www.techmeme.com/260109/p9#a260109p9)
- - [a16z raises over $15B across five new funds, including $6.75B for its fifth growth fund and $3B for unspecified &quot;other venture strategies&quot; &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/260109/p8#a260109p8)
- - [No, Grok hasn&amp;#8217;t paywalled its deepfake image feature](https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting)<!-- TECH:END -->
+ - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
+ - [Inside Preview in iOS 26 - how to edit PDFs, sign documents, and scan files](https://appleinsider.com/inside/ios-26/tips/inside-preview-in-ios-26---how-to-edit-pdfs-sign-documents-and-scan-files?utm_source=rss)
+ - [Rain, which helps businesses issue stablecoin-linked Visa cards, raised a $250M Series C led by ICONIQ at a $1.95B valuation, bringing total funding to $338M+ &lpar;Pragyan Kalita/Reuters&rpar;](http://www.techmeme.com/260109/p11#a260109p11)
+ - [iPhone Air 2 could get thinner &amp; brighter screen because of iPhone Fold tech](https://appleinsider.com/articles/26/01/09/iphone-air-2-could-get-thinner-brighter-screen-because-of-iphone-fold-tech?utm_source=rss)
+ - [X is restricting Grok&#39;s image capabilities via the @grok reply command, but free users can still create sexual deepfakes through the standalone Grok app or site &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260109/p10#a260109p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

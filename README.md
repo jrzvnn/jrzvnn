@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
- - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 😝 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)
- - 👉 [Video speaks for itself](http://9gag.com/gag/aAy7912)<!-- MEMES:END -->
+ - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 💣 [Here you go buddy](http://9gag.com/gag/aVv8pLO)
+ - 😝 [Video speaks for itself](http://9gag.com/gag/aAy7912)
+ - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
 
 ---
 

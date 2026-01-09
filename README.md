@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Only talking to you, technically](http://9gag.com/gag/an73oyn)
  - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 😝 [@ahaja007 you were looking for this.](http://9gag.com/gag/a9ye0dD)
- - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
+ - 💣 [Nature is beautiful...](http://9gag.com/gag/adBMzBM)
+ - 😝 [Best Boi](http://9gag.com/gag/awyDWKQ)
+ - 👉 [A muntjac deer fights a rhino in Wroclaw Zoo](http://9gag.com/gag/an73om5)<!-- MEMES:END -->
 
 ---
 

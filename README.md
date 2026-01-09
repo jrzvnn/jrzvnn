@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pioneer Sphera is bringing Dolby Atmos in cars to the people](https://www.theverge.com/tech/858858/pioneer-sphera-ces-2026)
- - [Earnings for Apple&#39;s expected best quarter yet will be reported on January 29, 2026](https://appleinsider.com/articles/26/01/08/earnings-for-apples-expected-best-quarter-yet-will-be-reported-on-january-29-2026?utm_source=rss)
- - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [UK Prime Minister says &amp;#8216;we will take action&amp;#8217; on Grok&amp;#8217;s disgusting deepfakes](https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes)
- - [Apple&#39;s 2026 annual shareholder meeting is on February 24](https://appleinsider.com/articles/26/01/08/apples-2026-annual-shareholder-meeting-is-on-february-24?utm_source=rss)<!-- TECH:END -->
+ - [I Got Up Close and Personal With Boston Dynamics&#39; New Atlas Robot](https://www.cnet.com/tech/computing/i-got-up-close-and-personal-with-boston-dynamics-new-atlas-robot-at-ces-2026/)
+ - [These Are the Most Head-Turning TVs of CES 2026](https://www.cnet.com/tech/home-entertainment/these-are-the-head-turning-tvs-of-2026/)
+ - [Xbox’s Towerborne is switching from a free-to-play game to a paid one](https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline)
+ - [Lexar Professional Workflow Docking Station review: A modular setup for creative pros](https://appleinsider.com/articles/26/01/09/lexar-professional-workflow-docking-station-review-a-modular-setup-for-creative-pros?utm_source=rss)
+ - [Docs: xAI had a net loss of $1.46B in Q3, up from $1B in Q1; sources: xAI told investors it plans to build AI that will eventually power Optimus humanoid robots &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/260108/p48#a260108p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t believe all the rumors you hear about Apple&#39;s 20th-anniversary iPhone](https://appleinsider.com/articles/26/01/09/dont-believe-all-the-rumors-you-hear-about-apples-20th-anniversary-iphone?utm_source=rss)
+ - [Steve Jobs unveiled the first iPhone on this day in 2007](https://appleinsider.com/articles/26/01/09/when-apple-introduced-the-iphone-on-jan-9-2007-it-was-the-ultimate-computer-for-the-rest-of-us?utm_source=rss)
  - [The Vergecast Live at CES 2026: What is the point of a robot that falls over?](https://www.theverge.com/podcast/859370/ces-2026-best-tech-vergecast)
  - [Sources say DeepSeek will launch V4, its next-generation model, in the coming weeks and say it outperformed Anthropic&#39;s Claude and OpenAI&#39;s GPT series in coding &lpar;The Information&rpar;](http://www.techmeme.com/260109/p12#a260109p12)
- - [Kia’s EV2 is its smallest and most affordable EV for Europe](https://www.theverge.com/transportation/858912/kia-ev2-announce-specs-range-europe)
- - [CES 2026, Apple Card&#39;s bank shift and more, on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/09/ces-2026-apple-cards-bank-shift-and-more-on-the-appleinsider-podcast?utm_source=rss)
- - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)<!-- TECH:END -->
+ - [Kia’s EV2 is its smallest and most affordable EV for Europe](https://www.theverge.com/transportation/858912/kia-ev2-announce-specs-range-europe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

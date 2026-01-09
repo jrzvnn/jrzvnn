@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Solawave Wand Fans: Don&#39;t Miss This Buy One, Get One Free Sale](https://www.wired.com/story/solawave-wand-fans-this-buy-one-get-one-free-deal-is-for-you/)
  - [Tim Cook and Sundar Pichai are cowards](https://www.theverge.com/policy/859902/apple-google-run-by-cowards)
  - [CES 2026: 26 of the Most Eye-Catching Tech Products We&#39;ve Seen](https://www.cnet.com/pictures/ces-2026-overall-products/)
  - [A deep dive into a16z, which has stakes in 10 of the top 15 private companies by valuation and whose Funds 1-4 totaled $853B in enterprise value at distribution &lpar;Packy McCormick/Not Boring&rpar;](http://www.techmeme.com/260109/p21#a260109p21)
- - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [CES 2026 Introduces Emily: She&#39;s Life-Size, AI-Powered and Ready for Intimacy](https://www.cnet.com/tech/services-and-software/ces-2026-emily-sex-robot-with-memory/)<!-- TECH:END -->
+ - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

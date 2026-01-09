@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Did you know that Gmail has emoji reactions?](https://www.theverge.com/news/859865/gmail-emoji-reaction-workspace-rollout-default)
+ - [Friday Night Offers You One Shot at 2026&#39;s Most Jaw-Dropping View of Jupiter](https://www.cnet.com/science/space/friday-night-offers-you-one-shot-at-2026s-most-jaw-dropping-view-of-jupiter/)
  - [Scenes from the anti-ICE march in New York City](https://www.theverge.com/report/859550/anti-ice-protest-photos-new-york)
  - [Source: OnePay, the fintech firm behind Walmart&#39;s &quot;super app&quot;, recently bought back shares from employees at a price that values the startup at more than $4B &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/260109/p19#a260109p19)
- - [Anker&#39;s brand-new chargers &amp; docks are up to 25% off this weekend](https://appleinsider.com/articles/26/01/09/ankers-brand-new-chargers-docks-are-up-to-25-off-this-weekend?utm_source=rss)
- - [Amazon files planning documents in Illinois to construct a 225,000 square foot big-box store, a return to a &quot;Target-like&quot; retail concept it previously shelved &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/260109/p18#a260109p18)
- - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)<!-- TECH:END -->
+ - [This Tiny Titanium Smart Ring Is Actually a Powerful AI Meeting Recorder](https://www.cnet.com/tech/services-and-software/this-ai-smart-ring-can-listen-in-on-your-meetings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

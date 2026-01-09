@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kia’s EV2 is its smallest and most affordable EV for Europe](https://www.theverge.com/transportation/858912/kia-ev2-announce-specs-range-europe)
+ - [CES 2026, Apple Card&#39;s bank shift and more, on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/09/ces-2026-apple-cards-bank-shift-and-more-on-the-appleinsider-podcast?utm_source=rss)
  - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
  - [Inside Preview in iOS 26 - how to edit PDFs, sign documents, and scan files](https://appleinsider.com/inside/ios-26/tips/inside-preview-in-ios-26---how-to-edit-pdfs-sign-documents-and-scan-files?utm_source=rss)
- - [Rain, which helps businesses issue stablecoin-linked Visa cards, raised a $250M Series C led by ICONIQ at a $1.95B valuation, bringing total funding to $338M+ &lpar;Pragyan Kalita/Reuters&rpar;](http://www.techmeme.com/260109/p11#a260109p11)
- - [iPhone Air 2 could get thinner &amp; brighter screen because of iPhone Fold tech](https://appleinsider.com/articles/26/01/09/iphone-air-2-could-get-thinner-brighter-screen-because-of-iphone-fold-tech?utm_source=rss)
- - [X is restricting Grok&#39;s image capabilities via the @grok reply command, but free users can still create sexual deepfakes through the standalone Grok app or site &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260109/p10#a260109p10)<!-- TECH:END -->
+ - [Rain, which helps businesses issue stablecoin-linked Visa cards, raised a $250M Series C led by ICONIQ at a $1.95B valuation, bringing total funding to $338M+ &lpar;Pragyan Kalita/Reuters&rpar;](http://www.techmeme.com/260109/p11#a260109p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

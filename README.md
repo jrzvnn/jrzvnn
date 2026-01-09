@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Physical AI’ Is Coming for Your Car](https://www.wired.com/story/physical-ai-is-coming-for-your-car/)
+ - [Apple&#39;s 2026 annual shareholder meeting is on February 24](https://appleinsider.com/articles/26/01/08/apples-2026-annual-shareholder-meeting-is-on-february-24?utm_source=rss)
  - [Burtran Nano-Oxy Smart Air Purifier: Safe Sleep?](https://www.wired.com/review/burtran-nano-oxy-hepa-14-air-purifier/)
  - [Crispr Pioneer Launches Startup to Make Tailored Gene-Editing Treatments](https://www.wired.com/story/crispr-pioneer-launches-startup-to-make-tailored-gene-editing-treatments/)
- - [Microsoft is making it much easier to add hyperlinks in Word docs](https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut)
- - [How Craigslist has stayed relevant for users as a place to find jobs, housing, and personal connections without relying on algorithmic feeds or public profiles &lpar;Jennifer Swann/Wired&rpar;](http://www.techmeme.com/260109/p5#a260109p5)
- - [Future AirPods may gain finer and faster gesture recognition](https://appleinsider.com/articles/26/01/08/future-airpods-may-gain-finer-and-faster-gesture-recognition?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft is making it much easier to add hyperlinks in Word docs](https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

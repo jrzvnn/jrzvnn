@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
- - 💣 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
  - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
 
 ---

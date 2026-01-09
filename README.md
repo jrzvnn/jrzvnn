@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 💣 [Shut her down real quick](http://9gag.com/gag/amoy484)
- - 😝 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)
- - 👉 [She won with Grinch](http://9gag.com/gag/aRBGpY7)<!-- MEMES:END -->
+ - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 💣 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)
+ - 😝 [Getting tired of this shiet](http://9gag.com/gag/aQzKLbr)
+ - 👉 [Video speaks for itself](http://9gag.com/gag/aAy7912)<!-- MEMES:END -->
 
 ---
 

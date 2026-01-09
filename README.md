@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 😝 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)
- - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
+ - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
+ - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
+ - 💣 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
 
 ---
 

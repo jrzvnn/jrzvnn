@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
+ - 😝 [@ahaja007 you were looking for this.](http://9gag.com/gag/a9ye0dD)
+ - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 😝 [We know what they did to RAM prices.](http://9gag.com/gag/aW4A3N6)
+ - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 ---
 

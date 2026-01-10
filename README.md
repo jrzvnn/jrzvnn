@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
- - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 💣 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
+ - 😝 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
+ - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
+ - 💣 [ChatGPT is not holding back on the relationship advice](http://9gag.com/gag/aD2Ly7N)
+ - 😝 [Worth it](http://9gag.com/gag/aLn3xev)
+ - 👉 [Here you go buddy](http://9gag.com/gag/aVv8pLO)<!-- MEMES:END -->
 
 ---
 

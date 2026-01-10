@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These smart home devices impressed me at CES 2026](https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon)
  - [The FCC is letting SpaceX launch 7,500 more Starlink satellites](https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites)
  - [Malwarebytes: a 2024 Instagram data breach exposed information on 17.5 million users, including emails, phone numbers, and physical addresses &lpar;Jackson Chen/Engadget&rpar;](http://www.techmeme.com/260110/p11#a260110p11)
  - [A profile of Grubhub parent Wonder, which has raised about $2B and is rolling out robotic meal-assembly tech acquired from Sweetgreen for $186M in November 2025 &lpar;Joshua Brustein/Bloomberg&rpar;](http://www.techmeme.com/260110/p10#a260110p10)
- - [Livestream FA Cup Soccer 2026: Watch Charlton vs. Chelsea](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-watch-charlton-vs-chelsea/)
- - [Morgan Stanley survey of audio habits in the US: 50% to 60% of listeners aged 18-44 reported listening to AI-generated music for 2.5 to 3 hours per week &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260110/p9#a260110p9)<!-- TECH:END -->
+ - [Livestream FA Cup Soccer 2026: Watch Charlton vs. Chelsea](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-watch-charlton-vs-chelsea/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

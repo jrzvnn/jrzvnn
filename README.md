@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Grubhub parent Wonder, which has raised about $2B and is rolling out robotic meal-assembly tech acquired from Sweetgreen for $186M in November 2025 &lpar;Joshua Brustein/Bloomberg&rpar;](http://www.techmeme.com/260110/p10#a260110p10)
  - [Livestream FA Cup Soccer 2026: Watch Charlton vs. Chelsea](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-watch-charlton-vs-chelsea/)
  - [Morgan Stanley survey of audio habits in the US: 50% to 60% of listeners aged 18-44 reported listening to AI-generated music for 2.5 to 3 hours per week &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260110/p9#a260110p9)
  - [Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals](https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale)
- - [I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one](https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one)
- - [Indonesia temporarily blocks Grok, citing the risk of non-consensual sexual deepfakes, becoming the first country to block the AI tool &lpar;Fransiska Nangoy/Reuters&rpar;](http://www.techmeme.com/260110/p8#a260110p8)<!-- TECH:END -->
+ - [I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one](https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

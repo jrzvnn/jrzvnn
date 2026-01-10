@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`no honey, really. he is just a friend from work...`](http://9gag.com/gag/a2vV3w1)
- - 😝 [Based Japan](http://9gag.com/gag/awyDWnD)
- - 💣 [Men are simple](http://9gag.com/gag/azxzp8b)
- - 😝 [Getting tired of this shiet](http://9gag.com/gag/aQzKLbr)
- - 👉 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)<!-- MEMES:END -->
+ - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
+ - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
+ - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 💣 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
+ - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
  - 😝 [In case it wasn&#39;t obvious](http://9gag.com/gag/aoy6bmm)
- - 👉 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)<!-- MEMES:END -->
+ - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting tired of this shiet](http://9gag.com/gag/aQzKLbr)
  - 😝 [Japan Airlines expels all Muslim passengers!](http://9gag.com/gag/ary0QAV)
- - 💣 [Men are simple](http://9gag.com/gag/azxzp8b)
- - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
+ - 😝 [Men are simple](http://9gag.com/gag/azxzp8b)
+ - 💣 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
+ - 😝 [Wait, they spin in place](http://9gag.com/gag/a7oBQ3r)
  - 👉 [That camera man had one job](http://9gag.com/gag/ary0Q17)<!-- MEMES:END -->
 
 ---

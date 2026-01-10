@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
  - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
  - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
+ - 😝 [Breaking news](http://9gag.com/gag/amoy3b6)
+ - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
 
 ---
 

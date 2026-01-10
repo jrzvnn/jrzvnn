@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aVv8A4w)
  - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
  - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
- - 👉 [Worth it](http://9gag.com/gag/aLn3xev)<!-- MEMES:END -->
+ - 😝 [In case it wasn&#39;t obvious](http://9gag.com/gag/aoy6bmm)
+ - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 ---
 

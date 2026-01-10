@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, they spin in place](http://9gag.com/gag/a7oBQ3r)
- - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
- - 💣 [Hit me!](http://9gag.com/gag/aW4Az9n)
+ - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
  - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
+ - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
 
 ---
 

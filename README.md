@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 😝 [How often do you nut bruh?](http://9gag.com/gag/aKGyMjb)
- - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
  - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [Wait, they spin in place](http://9gag.com/gag/a7oBQ3r)
+ - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
 
 ---
 

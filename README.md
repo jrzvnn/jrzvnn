@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Best Coffee Subscriptions &lpar;2026&rpar;, Tested by Caffeine Hounds](https://www.wired.com/gallery/best-coffee-subscriptions/)
  - [Where Are All the New Cars?](https://www.wired.com/story/where-were-all-the-new-cars-at-ces-2026/)
- - [Michael Burry, Anthropic co-founder Jack Clark, and Dwarkesh Patel on the future of AI, whether AI tools improve productivity, job losses due to AI, and more &lpar;The Substack Post&rpar;](http://www.techmeme.com/260110/p6#a260110p6)
- - [Researchers say GPT 4.1, Claude 3.7 Sonnet, Gemini 2.5 Pro, and Grok 3 can reproduce long excerpts from books they were trained on when strategically prompted &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/260110/p5#a260110p5)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 10, #474](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-10-474/)
- - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)<!-- TECH:END -->
+ - [Best Workout Subscription Apps for 2026 to Help You Stay in Shape](https://www.cnet.com/health/fitness/best-workout-subscription-apps/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 10 #678](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-10-678/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 10, #1666](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-10-1666/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)
+ - [Internal document: Amazon rolled out a manager dashboard that tracks employees&#39; office attendance and how many hours they spend there, after its RTO mandate &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/260110/p4#a260110p4)
+ - [KitchenAid Promo Code: 50% Off This Month](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [US PE firm Haveli Investments agrees to acquire a majority stake in business contract software company Sirion; a source says the deal values Sirion at about $1B &lpar;Reuters&rpar;](http://www.techmeme.com/260110/p3#a260110p3)
- - [Xreal co-founder and CEO Chi Xu says the smart glass maker, which has a $1B+ valuation, recently raised $100M from &quot;supply chain partners&quot; and other backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/260110/p2#a260110p2)
- - [D-Wave Quantum agrees to acquire Quantum Circuits, a developer of error-corrected gate-model technology, for $550M, with $300M in stock and the rest in cash &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260110/p1#a260110p1)
- - [Chinese short-video app Kuaishou&#39;s stock has surged 88% over the past year, driven by the success of its Kling AI video generator, which has amassed 60M users &lpar;Bloomberg&rpar;](http://www.techmeme.com/260109/p29#a260109p29)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-10/)<!-- TECH:END -->
+ - [Xreal co-founder and CEO Chi Xu says the smart glass maker, which has a $1B+ valuation, recently raised $100M from &quot;supply chain partners&quot; and other backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/260110/p2#a260110p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

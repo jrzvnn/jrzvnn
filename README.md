@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poland&#39;s President Karol Nawrocki vetoes legislation meant to enforce the EU&#39;s DSA in Poland, arguing it would grant excessive powers to government officials &lpar;Wojciech Kość/Politico&rpar;](http://www.techmeme.com/260109/p26#a260109p26)
- - [iPhone Fold: What it could look like, how much it will cost, and when it will launch](https://appleinsider.com/articles/26/01/10/iphone-fold-what-it-could-look-like-how-much-it-will-cost-and-when-it-will-launch?utm_source=rss)
- - [Anthropic adds safeguards to prevent third-party apps, like OpenCode, from spoofing Claude Code to access Claude models for more favorable pricing and limits &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260109/p25#a260109p25)
+ - [Documents: OpenAI is asking contractors to upload their work from current or previous jobs to evaluate its models, leaving it to them to scrub confidential info &lpar;Wired&rpar;](http://www.techmeme.com/260109/p28#a260109p28)
+ - [Italy fines Cloudflare €14.2M for refusing to block pirate sites on its 1.1.1.1 DNS service; CEO Matthew Prince says he will discuss it with US officials &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260109/p27#a260109p27)
  - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Grok Is Being Used to Mock and Strip Women in Hijabs and Sarees](https://www.wired.com/story/grok-is-being-used-to-mock-and-strip-women-in-hijabs-and-sarees/)<!-- TECH:END -->
+ - [Betterment&amp;#8217;s financial app sends customers a $10,000 crypto scam message](https://www.theverge.com/news/860106/betterment-crypto-scam-notification)
+ - [OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents](https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based Japan](http://9gag.com/gag/awyDWnD)
- - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
- - 💣 [Men are simple](http://9gag.com/gag/azxzp8b)
- - 😝 [Getting tired of this shiet](http://9gag.com/gag/aQzKLbr)
- - 👉 [Japan Airlines expels all Muslim passengers!](http://9gag.com/gag/ary0QAV)<!-- MEMES:END -->
+ - 😝 [Flirting Class](http://9gag.com/gag/aZZKOZ0)
+ - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
+ - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 😝 [Breaking news](http://9gag.com/gag/amoy3b6)
+ - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
 
 ---
 

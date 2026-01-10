@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I replaced Windows with Linux and everything’s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)
+ - [We tried to get humanoid robots to do the laundry](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)
  - [What&amp;#8217;s on your desk, Stevie Bonifield?](https://www.theverge.com/gadgets/850479/desk-pc-keyboard-razer-kobo)
  - [The Playdate gets its Monument Valley](https://www.theverge.com/games/859675/diora-review-playdate-monument-valley)
- - [Mac mini, the little Mac that could, is 21 years old](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_source=rss)
- - [Steve Jobs unveiled the first iPhone on January 9, 2007](https://appleinsider.com/articles/26/01/09/when-apple-introduced-the-iphone-on-jan-9-2007-it-was-the-ultimate-computer-for-the-rest-of-us?utm_source=rss)
- - [The MacBook Pro is 20 years old, today](https://appleinsider.com/articles/22/01/10/steve-jobs-introduced-the-first-macbook-pro-16-years-ago?utm_source=rss)<!-- TECH:END -->
+ - [Mac mini, the little Mac that could, is 21 years old](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

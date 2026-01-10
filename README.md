@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stack Overflow recorded just 6,866 questions in Dec. 2025, about the same as in 2008; Stack Overflow now primarily makes money from enterprises and licensing &lpar;Claire Yubin Oh/Sherwood News&rpar;](http://www.techmeme.com/260110/p7#a260110p7)
- - [Security News This Week: ICE Can Now Spy on Every Phone in Your Neighborhood](https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/)
- - [Shokz OpenFit Pro Review: ANC on Open Earbuds?](https://www.wired.com/review/shokz-openfit-pro/)
- - [12 Best Coffee Subscriptions &lpar;2026&rpar;, Tested by Caffeine Hounds](https://www.wired.com/gallery/best-coffee-subscriptions/)
- - [Where Are All the New Cars?](https://www.wired.com/story/where-were-all-the-new-cars-at-ces-2026/)<!-- TECH:END -->
+ - [Best Deals for New Year’s Resolutions: Sleep, Fitness, and More &lpar;2026&rpar;](https://www.wired.com/story/new-years-resolution-deals-2026/)
+ - [Fujifilm X-E5 Mirrorless Camera Review: Compact Color Science in a Retro Package](https://www.wired.com/review/fujifilm-xe5-mirrorless-camera/)
+ - [The 50 Best Movies on Netflix, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 50 Best Shows on Netflix, WIRED&#39;s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Stack Overflow recorded just 6,866 questions in Dec. 2025, about the same as in 2008; Stack Overflow now primarily makes money from enterprises and licensing &lpar;Claire Yubin Oh/Sherwood News&rpar;](http://www.techmeme.com/260110/p7#a260110p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

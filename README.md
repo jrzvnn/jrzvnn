@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
- - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
- - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [In case it wasn&#39;t obvious](http://9gag.com/gag/aoy6bmm)
- - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
+ - 😝 [Dogs have higher body temperature than humans and cats love it.](http://9gag.com/gag/ayNAGvM)
+ - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
+ - 💣 [ChatGPT is not holding back on the relationship advice](http://9gag.com/gag/aD2Ly7N)
+ - 😝 [Worth it](http://9gag.com/gag/aLn3xev)
+ - 👉 [Here you go buddy](http://9gag.com/gag/aVv8pLO)<!-- MEMES:END -->
 
 ---
 

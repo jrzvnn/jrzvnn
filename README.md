@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What&amp;#8217;s on your desk, Stevie Bonifield?](https://www.theverge.com/gadgets/850479/desk-pc-keyboard-razer-kobo)
+ - [The Playdate gets its Monument Valley](https://www.theverge.com/games/859675/diora-review-playdate-monument-valley)
  - [Mac mini, the little Mac that could, is 21 years old](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_source=rss)
  - [Steve Jobs unveiled the first iPhone on January 9, 2007](https://appleinsider.com/articles/26/01/09/when-apple-introduced-the-iphone-on-jan-9-2007-it-was-the-ultimate-computer-for-the-rest-of-us?utm_source=rss)
- - [The MacBook Pro is 20 years old, today](https://appleinsider.com/articles/22/01/10/steve-jobs-introduced-the-first-macbook-pro-16-years-ago?utm_source=rss)
- - [The CES 2026 stuff I might actually buy](https://www.theverge.com/tech/859808/ces-2026-best-gadgets-installer)
- - [A charity speedrunning event has turned into a perfect showcase for smaller games](https://www.theverge.com/games/859891/awesome-games-done-quick-2026-indie-games-small-saga)<!-- TECH:END -->
+ - [The MacBook Pro is 20 years old, today](https://appleinsider.com/articles/22/01/10/steve-jobs-introduced-the-first-macbook-pro-16-years-ago?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

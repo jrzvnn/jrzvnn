@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
- - 💣 [That camera man had one job](http://9gag.com/gag/ary0Q17)
- - 😝 [Lol.](http://9gag.com/gag/a9yeovL)
- - 👉 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)<!-- MEMES:END -->
+ - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
+ - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 💣 [Lol.](http://9gag.com/gag/a9yeovL)
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
 
 ---
 

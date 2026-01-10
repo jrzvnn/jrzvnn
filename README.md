@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
- - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
  - 😝 [In case it wasn&#39;t obvious](http://9gag.com/gag/aoy6bmm)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
 
 ---
 

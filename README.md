@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
- - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
- - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 💣 [My dog is the only one who truly gets me](http://9gag.com/gag/aVv8AXO)
+ - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
 
 ---
 

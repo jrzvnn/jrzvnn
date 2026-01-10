@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-10/)
+ - [CES 2026 Live: Everything Announced From Best of Show to AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
  - [Documents: OpenAI is asking contractors to upload their work from current or previous jobs to evaluate its models, leaving it to them to scrub confidential info &lpar;Wired&rpar;](http://www.techmeme.com/260109/p28#a260109p28)
  - [Italy fines Cloudflare €14.2M for refusing to block pirate sites on its 1.1.1.1 DNS service; CEO Matthew Prince says he will discuss it with US officials &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260109/p27#a260109p27)
- - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Betterment&amp;#8217;s financial app sends customers a $10,000 crypto scam message](https://www.theverge.com/news/860106/betterment-crypto-scam-notification)
- - [OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents](https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/)<!-- TECH:END -->
+ - [Betterment&amp;#8217;s financial app sends customers a $10,000 crypto scam message](https://www.theverge.com/news/860106/betterment-crypto-scam-notification)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

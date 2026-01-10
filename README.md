@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stack Overflow recorded just 6,866 questions in Dec. 2025, about the same as in 2008; Stack Overflow now primarily makes money from enterprises and licensing &lpar;Claire Yubin Oh/Sherwood News&rpar;](http://www.techmeme.com/260110/p7#a260110p7)
+ - [Security News This Week: ICE Can Now Spy on Every Phone in Your Neighborhood](https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/)
+ - [Shokz OpenFit Pro Review: ANC on Open Earbuds?](https://www.wired.com/review/shokz-openfit-pro/)
  - [12 Best Coffee Subscriptions &lpar;2026&rpar;, Tested by Caffeine Hounds](https://www.wired.com/gallery/best-coffee-subscriptions/)
- - [Where Are All the New Cars?](https://www.wired.com/story/where-were-all-the-new-cars-at-ces-2026/)
- - [Best Workout Subscription Apps for 2026 to Help You Stay in Shape](https://www.cnet.com/health/fitness/best-workout-subscription-apps/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 10 #678](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-10-678/)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 10, #1666](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-10-1666/)<!-- TECH:END -->
+ - [Where Are All the New Cars?](https://www.wired.com/story/where-were-all-the-new-cars-at-ces-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get those fans off of my swamp!](http://9gag.com/gag/aZZKO0W)
- - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
- - 💣 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 💣 [Shut her down real quick](http://9gag.com/gag/amoy484)
  - 😝 [In case it wasn&#39;t obvious](http://9gag.com/gag/aoy6bmm)
- - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
+ - 👉 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)<!-- MEMES:END -->
 
 ---
 

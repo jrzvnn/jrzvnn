@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals](https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale)
  - [I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one](https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one)
  - [Indonesia temporarily blocks Grok, citing the risk of non-consensual sexual deepfakes, becoming the first country to block the AI tool &lpar;Fransiska Nangoy/Reuters&rpar;](http://www.techmeme.com/260110/p8#a260110p8)
  - [I replaced Windows with Linux and everything’s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)
- - [We tried to get humanoid robots to do the laundry](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)
- - [Livestream FA Cup Soccer: Watch Tottenham vs. Aston Villa Free From Anywhere](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-tottenham-vs-aston-villa/)<!-- TECH:END -->
+ - [We tried to get humanoid robots to do the laundry](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

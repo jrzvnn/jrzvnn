@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers say GPT 4.1, Claude 3.7 Sonnet, Gemini 2.5 Pro, and Grok 3 can reproduce long excerpts from books they were trained on when strategically prompted &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/260110/p5#a260110p5)
  - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)
  - [Internal document: Amazon rolled out a manager dashboard that tracks employees&#39; office attendance and how many hours they spend there, after its RTO mandate &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/260110/p4#a260110p4)
  - [KitchenAid Promo Code: 50% Off This Month](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [US PE firm Haveli Investments agrees to acquire a majority stake in business contract software company Sirion; a source says the deal values Sirion at about $1B &lpar;Reuters&rpar;](http://www.techmeme.com/260110/p3#a260110p3)
- - [Xreal co-founder and CEO Chi Xu says the smart glass maker, which has a $1B+ valuation, recently raised $100M from &quot;supply chain partners&quot; and other backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/260110/p2#a260110p2)<!-- TECH:END -->
+ - [US PE firm Haveli Investments agrees to acquire a majority stake in business contract software company Sirion; a source says the deal values Sirion at about $1B &lpar;Reuters&rpar;](http://www.techmeme.com/260110/p3#a260110p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

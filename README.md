@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Dogs have higher body temperature than humans and cats love it.](http://9gag.com/gag/ayNAGvM)
  - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
  - 💣 [ChatGPT is not holding back on the relationship advice](http://9gag.com/gag/aD2Ly7N)
- - 😝 [Worth it](http://9gag.com/gag/aLn3xev)
- - 👉 [Here you go buddy](http://9gag.com/gag/aVv8pLO)<!-- MEMES:END -->
+ - 😝 [Here you go buddy](http://9gag.com/gag/aVv8pLO)
+ - 👉 [Worth it](http://9gag.com/gag/aLn3xev)<!-- MEMES:END -->
 
 ---
 

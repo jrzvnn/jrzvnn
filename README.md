@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this the perfect time for the second amendment?](http://9gag.com/gag/aByM5N1)
- - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
- - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 😝 [Don&#39;t mess with Shaggy](http://9gag.com/gag/an73m6L)
- - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
+ - 💣 [Here you go buddy](http://9gag.com/gag/aVv8pLO)
+ - 😝 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)
+ - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
 
 ---
 

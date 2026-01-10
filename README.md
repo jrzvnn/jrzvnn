@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Michael Burry, Anthropic co-founder Jack Clark, and Dwarkesh Patel on the future of AI, whether AI tools improve productivity, job losses due to AI, and more &lpar;The Substack Post&rpar;](http://www.techmeme.com/260110/p6#a260110p6)
  - [Researchers say GPT 4.1, Claude 3.7 Sonnet, Gemini 2.5 Pro, and Grok 3 can reproduce long excerpts from books they were trained on when strategically prompted &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/260110/p5#a260110p5)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 10, #474](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-10-474/)
  - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)
- - [Internal document: Amazon rolled out a manager dashboard that tracks employees&#39; office attendance and how many hours they spend there, after its RTO mandate &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/260110/p4#a260110p4)
- - [KitchenAid Promo Code: 50% Off This Month](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Internal document: Amazon rolled out a manager dashboard that tracks employees&#39; office attendance and how many hours they spend there, after its RTO mandate &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/260110/p4#a260110p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

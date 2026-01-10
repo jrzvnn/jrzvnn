@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Check the car before it checks out](http://9gag.com/gag/aXPz6wg)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
+ - 😝 [Wait, they spin in place](http://9gag.com/gag/a7oBQ3r)
+ - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 💣 [Hit me!](http://9gag.com/gag/aW4Az9n)
+ - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
 
 ---
 

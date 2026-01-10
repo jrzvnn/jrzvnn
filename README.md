@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
- - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
- - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
+ - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 💣 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 😝 [Here you go buddy](http://9gag.com/gag/aVv8pLO)
+ - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 ---
 

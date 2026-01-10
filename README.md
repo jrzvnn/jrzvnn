@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
- - 💣 [Here you go buddy](http://9gag.com/gag/aVv8pLO)
- - 😝 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)
- - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
+ - 😝 [`no honey, really. he is just a friend from work...`](http://9gag.com/gag/a2vV3w1)
+ - 😝 [Based Japan](http://9gag.com/gag/awyDWnD)
+ - 💣 [Men are simple](http://9gag.com/gag/azxzp8b)
+ - 😝 [Getting tired of this shiet](http://9gag.com/gag/aQzKLbr)
+ - 👉 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)<!-- MEMES:END -->
 
 ---
 

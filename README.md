@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
- - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
- - 😝 [Wait, they spin in place](http://9gag.com/gag/a7oBQ3r)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - 😝 [Getting tired of this shiet](http://9gag.com/gag/aQzKLbr)
+ - 😝 [Japan Airlines expels all Muslim passengers!](http://9gag.com/gag/ary0QAV)
+ - 💣 [Men are simple](http://9gag.com/gag/azxzp8b)
+ - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
+ - 👉 [That camera man had one job](http://9gag.com/gag/ary0Q17)<!-- MEMES:END -->
 
 ---
 

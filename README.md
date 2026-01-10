@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flirting Class](http://9gag.com/gag/aZZKOZ0)
- - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [How often do you nut bruh?](http://9gag.com/gag/aKGyMjb)
  - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
- - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
+ - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
 
 ---
 

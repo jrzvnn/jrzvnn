@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based Japan](http://9gag.com/gag/awyDWnD)
- - 😝 [Don&#39;t mess with Shaggy](http://9gag.com/gag/an73m6L)
- - 💣 [Getting tired of this shiet](http://9gag.com/gag/aQzKLbr)
- - 😝 [Men are simple](http://9gag.com/gag/azxzp8b)
- - 👉 [Japan Airlines expels all Muslim passengers!](http://9gag.com/gag/ary0QAV)<!-- MEMES:END -->
+ - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
+ - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC approves SpaceX&#39;s request to deploy an additional 7,500 Gen2 Starlink satellites, bringing the total to 15,000 satellites worldwide &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260109/p24#a260109p24)
+ - [Poland&#39;s President Karol Nawrocki vetoes legislation meant to enforce the EU&#39;s DSA in Poland, arguing it would grant excessive powers to government officials &lpar;Wojciech Kość/Politico&rpar;](http://www.techmeme.com/260109/p26#a260109p26)
+ - [iPhone Fold: What it could look like, how much it will cost, and when it will launch](https://appleinsider.com/articles/26/01/10/iphone-fold-what-it-could-look-like-how-much-it-will-cost-and-when-it-will-launch?utm_source=rss)
+ - [Anthropic adds safeguards to prevent third-party apps, like OpenCode, from spoofing Claude Code to access Claude models for more favorable pricing and limits &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260109/p25#a260109p25)
  - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Amazon is planning a Super Amazon-mart store near Chicago](https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans)
- - [The US Commerce Department drops a plan to impose restrictions on Chinese drones to address national security concerns; FCC barred imports in December 2025 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260109/p23#a260109p23)
- - [ChatGPT Health: What the New Dedicated Tab Adds to the AI Chatbot](https://www.cnet.com/tech/services-and-software/openai-launches-chatgpt-health-a-dedicated-tab-for-medical-inquiries/)<!-- TECH:END -->
+ - [Grok Is Being Used to Mock and Strip Women in Hijabs and Sarees](https://www.wired.com/story/grok-is-being-used-to-mock-and-strip-women-in-hijabs-and-sarees/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

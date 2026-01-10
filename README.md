@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 😝 [Any better abillities?](http://9gag.com/gag/aAy7862)
- - 💣 [In case it wasn&#39;t obvious](http://9gag.com/gag/aoy6bmm)
- - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - 😝 [Get those fans off of my swamp!](http://9gag.com/gag/aZZKO0W)
+ - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
+ - 💣 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 😝 [In case it wasn&#39;t obvious](http://9gag.com/gag/aoy6bmm)
+ - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
 
 ---
 

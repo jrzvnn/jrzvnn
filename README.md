@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Morgan Stanley survey of audio habits in the US: 50% to 60% of listeners aged 18-44 reported listening to AI-generated music for 2.5 to 3 hours per week &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260110/p9#a260110p9)
  - [Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals](https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale)
  - [I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one](https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one)
  - [Indonesia temporarily blocks Grok, citing the risk of non-consensual sexual deepfakes, becoming the first country to block the AI tool &lpar;Fransiska Nangoy/Reuters&rpar;](http://www.techmeme.com/260110/p8#a260110p8)
- - [I replaced Windows with Linux and everything’s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)
- - [We tried to get humanoid robots to do the laundry](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)<!-- TECH:END -->
+ - [I replaced Windows with Linux and everything’s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

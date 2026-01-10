@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Musk says he&amp;#8217;s going to open-source the new X algorithm next week](https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm)
  - [These are the smart home gadgets that impressed me at CES 2026](https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon)
  - [The FCC is letting SpaceX launch 7,500 more Starlink satellites](https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 11 #679](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-11-679/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 11, #945](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-11-945/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

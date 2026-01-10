@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Over the course of hundreds of years, finely tuned hunting instincts characterize why hunters love beagles...I think mine is broken](https://www.reddit.com/r/funny/comments/1q96174/over_the_course_of_hundreds_of_years_finely_tuned/)
  - 😝 [Check the car before it checks out](http://9gag.com/gag/aXPz6wg)
- - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 💣 [Shut her down real quick](http://9gag.com/gag/amoy484)
- - 😝 [Breaking news](http://9gag.com/gag/amoy3b6)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 👉 [Breaking news](http://9gag.com/gag/amoy3b6)<!-- MEMES:END -->
 
 ---
 

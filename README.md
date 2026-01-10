@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [In case it wasn&#39;t obvious](http://9gag.com/gag/aoy6bmm)
- - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
+ - 😝 [Any better abillities?](http://9gag.com/gag/aAy7862)
+ - 💣 [In case it wasn&#39;t obvious](http://9gag.com/gag/aoy6bmm)
+ - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
+ - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 ---
 

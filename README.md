@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
- - 😝 [Men are simple](http://9gag.com/gag/azxzp8b)
- - 💣 [Japan Airlines expels all Muslim passengers!](http://9gag.com/gag/ary0QAV)
- - 😝 [Getting tired of this shiet](http://9gag.com/gag/aQzKLbr)
- - 👉 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)<!-- MEMES:END -->
+ - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 😝 [How often do you nut bruh?](http://9gag.com/gag/aKGyMjb)
+ - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 ---
 

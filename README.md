@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And hopefully the last](http://9gag.com/gag/a9yexdZ)
- - 😝 [`no honey, really. he is just a friend from work...`](http://9gag.com/gag/a2vV3w1)
- - 💣 [Based Japan](http://9gag.com/gag/awyDWnD)
- - 😝 [Men are simple](http://9gag.com/gag/azxzp8b)
- - 👉 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)<!-- MEMES:END -->
+ - 😝 [Is this the perfect time for the second amendment?](http://9gag.com/gag/aByM5N1)
+ - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 😝 [Don&#39;t mess with Shaggy](http://9gag.com/gag/an73m6L)
+ - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
+ - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
  - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 💣 [Lol.](http://9gag.com/gag/a9yeovL)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
+ - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
 
 ---
 

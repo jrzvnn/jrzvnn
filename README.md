@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia temporarily blocks Grok due to the risk of AI-generated pornographic content, becoming the first country to deny access to the AI tool &lpar;Fransiska Nangoy/Reuters&rpar;](http://www.techmeme.com/260110/p8#a260110p8)
  - [I replaced Windows with Linux and everything’s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)
  - [We tried to get humanoid robots to do the laundry](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)
  - [What&amp;#8217;s on your desk, Stevie Bonifield?](https://www.theverge.com/gadgets/850479/desk-pc-keyboard-razer-kobo)
- - [The Playdate gets its Monument Valley](https://www.theverge.com/games/859675/diora-review-playdate-monument-valley)
- - [Mac mini, the little Mac that could, is 21 years old](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_source=rss)<!-- TECH:END -->
+ - [The Playdate gets its Monument Valley](https://www.theverge.com/games/859675/diora-review-playdate-monument-valley)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

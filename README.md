@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
  - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
  - 😝 [Wait, they spin in place](http://9gag.com/gag/a7oBQ3r)
- - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
+ - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 ---
 

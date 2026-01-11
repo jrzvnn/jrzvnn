@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
  - 😝 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
- - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
  - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [Some things are just meant to be](http://9gag.com/gag/ae9EvBb)
- - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
+ - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aVv8A4w)
+ - 👉 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)<!-- MEMES:END -->
 
 ---
 

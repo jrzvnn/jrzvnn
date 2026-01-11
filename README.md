@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
+ - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
  - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
- - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 👉 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)<!-- MEMES:END -->
+ - 💣 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
+ - 😝 [Danny Trejo is a legend for this](http://9gag.com/gag/an73Lvz)
+ - 👉 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)<!-- MEMES:END -->
 
 ---
 

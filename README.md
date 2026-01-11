@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 😝 [Make your own prison](http://9gag.com/gag/ayNAO6y)
- - 💣 [It&#39;s so funny it&#39;s painful](http://9gag.com/gag/ae9EvmB)
+ - 😝 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
+ - 💣 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)
  - 😝 [Some things are just meant to be](http://9gag.com/gag/ae9EvBb)
- - 👉 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)<!-- MEMES:END -->
+ - 👉 [It&#39;s so funny it&#39;s painful](http://9gag.com/gag/ae9EvmB)<!-- MEMES:END -->
 
 ---
 

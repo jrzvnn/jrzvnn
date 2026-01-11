@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to recognize a 9gager in 13 seconds](http://9gag.com/gag/amoy3qd)
- - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
- - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [Worth it](http://9gag.com/gag/aLn3xev)
+ - 😝 [For your musical enjoyment #51](http://9gag.com/gag/aQzK012)
+ - 💣 [Here you go buddy](http://9gag.com/gag/aVv8pLO)
  - 😝 [Danny Trejo is a legend for this](http://9gag.com/gag/an73Lvz)
- - 👉 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)<!-- MEMES:END -->
+ - 👉 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)<!-- MEMES:END -->
 
 ---
 

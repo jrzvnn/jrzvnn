@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 😝 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
- - 💣 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)
- - 😝 [Some things are just meant to be](http://9gag.com/gag/ae9EvBb)
- - 👉 [It&#39;s so funny it&#39;s painful](http://9gag.com/gag/ae9EvmB)<!-- MEMES:END -->
+ - 😝 [Tricky Ticks](http://9gag.com/gag/abAo9jr)
+ - 😝 [The real hero wears slippers](http://9gag.com/gag/aByM7qD)
+ - 💣 [Hit me!](http://9gag.com/gag/aW4Az9n)
+ - 😝 [Times were different](http://9gag.com/gag/aGyq3DX)
+ - 👉 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)<!-- MEMES:END -->
 
 ---
 

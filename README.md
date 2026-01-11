@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at the history and rise of Markdown, which has been adopted across the tech industry in the decades since its quiet launch in 2004 by John Gruber &lpar;Anil Dash&rpar;](http://www.techmeme.com/260111/p7#a260111p7)
  - [Investigation: Iran&#39;s Islamic Revolutionary Guard Corps used two UK-registered companies to move ~$1B in stablecoins since 2023, evading international sanctions &lpar;TRM Insights&rpar;](http://www.techmeme.com/260111/p6#a260111p6)
- - [Newly listed Chinese AI chipmakers Moore Threads, Biren, and MetaX had stellar stock market debuts, but none has sales above 10% of rival Cambricon &lpar;Financial Times&rpar;](http://www.techmeme.com/260111/p5#a260111p5)
+ - [Newly listed Chinese AI chipmakers Moore Threads, Biren, and MetaX had strong stock market debuts, but none has sales worth more than a tenth of rival Cambricon &lpar;Financial Times&rpar;](http://www.techmeme.com/260111/p5#a260111p5)
  - [Analysis: global AI-related companies drove ~40% of benchmark convertible bond index returns in 2025, pushing the amount raised to $166.5B, the most since 2001 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260111/p4#a260111p4)
  - [Taiwan&#39;s data shows the US became its top export destination in 2025 over China, including Hong Kong, the first time since 1999, partly driven by AI tech demand &lpar;Hideaki Ryugen/Nikkei Asia&rpar;](http://www.techmeme.com/260111/p3#a260111p3)<!-- TECH:END -->
 

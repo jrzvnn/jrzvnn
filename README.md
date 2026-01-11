@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Anthropic announces Claude for Healthcare to offer HIPAA-ready tools for providers, insurers, and consumers, and expands its life sciences offerings &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260111/p20#a260111p20)
  - [ATG, which is developing the AI-powered wealth strategist app Autonomous, emerges from stealth and raises a $15M pre-seed led by Y Combinator CEO Garry Tan &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/260111/p19#a260111p19)
- - [Tucuvi, which develops AI agents that check in with patients and escalate cases to human teams when needed, raised a $20M Series A, led by Cathay and Leadwind &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/260111/p18#a260111p18)
- - [Google pulls AI overviews for some medical searches](https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews)
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 12, #946](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-12-946/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 12 #680](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-12-680/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 12, #1668](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-12-1668/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

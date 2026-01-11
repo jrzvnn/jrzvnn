@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
  - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
- - 💣 [Her vs me on our first night together](http://9gag.com/gag/aVv8APw)
- - 😝 [Without.....](http://9gag.com/gag/an73pMn)
- - 👉 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)<!-- MEMES:END -->
+ - 💣 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
+ - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 👉 [Her vs me on our first night together](http://9gag.com/gag/aVv8APw)<!-- MEMES:END -->
 
 ---
 

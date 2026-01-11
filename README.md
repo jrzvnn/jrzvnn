@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Serves you right](http://9gag.com/gag/adBMme2)
- - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
+ - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
+ - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
  - 💣 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)
- - 😝 [The top 10 restaurants in the world are in London](http://9gag.com/gag/a6Zzv2e)
+ - 😝 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
  - 👉 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)<!-- MEMES:END -->
 
 ---

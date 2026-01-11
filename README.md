@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
- - 😝 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
- - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aVv8A4w)
- - 👉 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)<!-- MEMES:END -->
+ - 😝 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)
+ - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 💣 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
+ - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
+ - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
 
 ---
 

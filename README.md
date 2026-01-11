@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)
  - 😝 [Her vs me on our first night together](http://9gag.com/gag/aVv8APw)
- - 💣 [Creedence Clearwater survival, be ready for the apocalypse](http://9gag.com/gag/a6Zz04e)
  - 😝 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
+ - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 😝 [George Carlin : Was talking about liberalism back in 2000&#39;s.](http://9gag.com/gag/aByM7jO)
+ - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Landman&#39; Season 2, Episode 9: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-episode-9-release-time/)
  - [A look at Tether&#39;s role in Venezuela&#39;s economy, which puts it in a prime position to aid the U.S. as it seeks to find funds allegedly stolen by Maduro&#39;s regime &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260110/p12#a260110p12)
  - [Musk says he&amp;#8217;s going to open-source the new X algorithm next week](https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm)
  - [These are the smart home gadgets that impressed me at CES 2026](https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon)
- - [The FCC is letting SpaceX launch 7,500 more Starlink satellites](https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 11, #945](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-11-945/)<!-- TECH:END -->
+ - [The FCC is letting SpaceX launch 7,500 more Starlink satellites](https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

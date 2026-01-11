@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A wholesome guy hosting japanese exchange student at his lovely home](http://9gag.com/gag/aO8OML3)
  - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
- - 😝 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 💣 [Serves you right](http://9gag.com/gag/adBMme2)
+ - 💣 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)
  - 😝 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
- - 👉 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)<!-- MEMES:END -->
+ - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
 
 ---
 

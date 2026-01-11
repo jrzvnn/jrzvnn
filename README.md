@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China launches a probe into competition among online food delivery platforms, aiming to curb price wars that have contributed to deflationary economic pressures &lpar;Reuters&rpar;](http://www.techmeme.com/260111/p2#a260111p2)
- - [China releases draft guidelines for governing online personal data collection, open for public consultation amid privacy concerns and companies&#39; data misuse &lpar;Bloomberg&rpar;](http://www.techmeme.com/260111/p1#a260111p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 11, #475](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-11-475/)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Jan. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-jan-11/)
- - [A look at the global AI adoption in 2025; use in the global north grew nearly twice as fast as the south; the UAE leads with 64% of working-age adults using AI &lpar;Microsoft Corporate Responsibility&rpar;](http://www.techmeme.com/260110/p13#a260110p13)<!-- TECH:END -->
+ - [Investigation: Iran&#39;s Islamic Revolutionary Guard Corps used two UK-registered companies to move ~$1B in stablecoins since 2023, evading international sanctions &lpar;TRM Insights&rpar;](http://www.techmeme.com/260111/p6#a260111p6)
+ - [Newly listed Chinese AI chipmakers Moore Threads, Biren, and MetaX had stellar stock market debuts, but none has sales above 10% of rival Cambricon &lpar;Financial Times&rpar;](http://www.techmeme.com/260111/p5#a260111p5)
+ - [Analysis: global AI-related companies drove ~40% of benchmark convertible bond index returns in 2025, pushing the amount raised to $166.5B, the most since 2001 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260111/p4#a260111p4)
+ - [Taiwan&#39;s data shows the US became its top export destination in 2025 over China, including Hong Kong, the first time since 1999, partly driven by AI tech demand &lpar;Hideaki Ryugen/Nikkei Asia&rpar;](http://www.techmeme.com/260111/p3#a260111p3)
+ - [China launches a probe into competition among online food delivery platforms, aiming to curb price wars that have contributed to deflationary economic pressures &lpar;Reuters&rpar;](http://www.techmeme.com/260111/p2#a260111p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

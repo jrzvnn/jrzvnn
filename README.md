@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
  - 😝 [Serves you right](http://9gag.com/gag/adBMme2)
  - 💣 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
  - 😝 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)

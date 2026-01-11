@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
+ - [Crime blotter: Armed robbery, fairground iPads, and a fortune teller](https://appleinsider.com/articles/26/01/11/crime-blotter-armed-robbery-fairground-ipads-and-a-fortune-teller?utm_source=rss)
+ - [Bluesound Pulse Cinema Review: A Pretty Sonos Alternative](https://www.wired.com/review/bluesound-pulse-cinema/)
  - [Sony A7V Review: The Best Overall Mirrorless Camera](https://www.wired.com/review/sony-a7v-mirrorless-camera/)
- - [Want to Stop Doomscrolling? You Might Need a Sleep Coach](https://www.wired.com/story/your-next-job-sleep-coach/)
- - [Analysis: the AI investment boom represents ~1% of US GDP, roughly half the GDP share during the &#39;90s dot-com boom and comparable to the mid-2010s US shale boom &lpar;Toby Nangle/Financial Times&rpar;](http://www.techmeme.com/260111/p9#a260111p9)
- - [Best Side-Sleeper Mattresses 2026: Picked by a Sleep Science Coach](https://www.wired.com/gallery/best-mattress-for-side-sleeper/)
- - [CES 2026: We Found the Robots That Actually Solve Real Housework Problems](https://www.cnet.com/tech/ces-2026-here-are-the-best-robots-so-far-for-housework-fun-and-more/)<!-- TECH:END -->
+ - [Livestream FA Cup Soccer: Watch Portsmouth vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-portsmouth-vs-arsenal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

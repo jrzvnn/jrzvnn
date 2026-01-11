@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 💣 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
- - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
+ - 😝 [Worth it](http://9gag.com/gag/aLn3xev)
+ - 😝 [For your musical enjoyment #51](http://9gag.com/gag/aQzK012)
+ - 💣 [Here you go buddy](http://9gag.com/gag/aVv8pLO)
+ - 😝 [Breaking news](http://9gag.com/gag/amoy3b6)
+ - 👉 [Hit me!](http://9gag.com/gag/aW4Az9n)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
- - 😝 [Worth it](http://9gag.com/gag/aLn3xev)
- - 💣 [For your musical enjoyment #51](http://9gag.com/gag/aQzK012)
- - 😝 [Danny Trejo is a legend for this](http://9gag.com/gag/an73Lvz)
- - 👉 [Here you go buddy](http://9gag.com/gag/aVv8pLO)<!-- MEMES:END -->
+ - 😝 [Guess the country](http://9gag.com/gag/ae9E8qp)
+ - 😝 [When this guy proved he is not crazy](http://9gag.com/gag/aPA05Bq)
+ - 💣 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
+ - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 👉 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)<!-- MEMES:END -->
 
 ---
 

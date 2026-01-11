@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A detailed look at the Apple-TSMC relationship: Apple&#39;s annual spend at TSMC rose 12x, from $2B in 2014 to $24B in 2025, and once made up 25% of TSMC&#39;s revenue &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260111/p10#a260111p10)
  - [Will you have to show your ID at the app store?](https://www.theverge.com/column/859351/age-verification-app-stores)
  - [16 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
  - [Crime blotter: Armed robbery, fairground iPads, and a fortune teller](https://appleinsider.com/articles/26/01/11/crime-blotter-armed-robbery-fairground-ipads-and-a-fortune-teller?utm_source=rss)
- - [CES 2026: LG&#39;s Latest Washer-Dryer Combo Solves the Biggest Issues With All-In-One Machines](https://www.cnet.com/home/smart-home/lg-signature-series-washer-dryer-combo-ces-2026/)
- - [Bluesound Pulse Cinema Review: A Pretty Sonos Alternative](https://www.wired.com/review/bluesound-pulse-cinema/)<!-- TECH:END -->
+ - [CES 2026: LG&#39;s Latest Washer-Dryer Combo Solves the Biggest Issues With All-In-One Machines](https://www.cnet.com/home/smart-home/lg-signature-series-washer-dryer-combo-ces-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Will you have to show your ID at the app store?](https://www.theverge.com/column/859351/age-verification-app-stores)
  - [16 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
  - [Crime blotter: Armed robbery, fairground iPads, and a fortune teller](https://appleinsider.com/articles/26/01/11/crime-blotter-armed-robbery-fairground-ipads-and-a-fortune-teller?utm_source=rss)
- - [Bluesound Pulse Cinema Review: A Pretty Sonos Alternative](https://www.wired.com/review/bluesound-pulse-cinema/)
- - [Sony A7V Review: The Best Overall Mirrorless Camera](https://www.wired.com/review/sony-a7v-mirrorless-camera/)
- - [Livestream FA Cup Soccer: Watch Portsmouth vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-portsmouth-vs-arsenal/)<!-- TECH:END -->
+ - [CES 2026: LG&#39;s Latest Washer-Dryer Combo Solves the Biggest Issues With All-In-One Machines](https://www.cnet.com/home/smart-home/lg-signature-series-washer-dryer-combo-ces-2026/)
+ - [Bluesound Pulse Cinema Review: A Pretty Sonos Alternative](https://www.wired.com/review/bluesound-pulse-cinema/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

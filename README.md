@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 💣 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 😝 [Some things are just meant to be](http://9gag.com/gag/ae9EvBb)
- - 👉 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)<!-- MEMES:END -->
+ - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
+ - 😝 [The real hero wears slippers](http://9gag.com/gag/aByM7qD)
+ - 💣 [Postural hypotension](http://9gag.com/gag/amoy3EV)
+ - 😝 [Childhood favorite of an old fart like me.](http://9gag.com/gag/aD2LpxZ)
+ - 👉 [In case it wasn&#39;t obvious](http://9gag.com/gag/aoy6bmm)<!-- MEMES:END -->
 
 ---
 

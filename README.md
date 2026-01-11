@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd](https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24)
  - [Anthropic announces Claude for Healthcare to offer HIPAA-ready tools for providers, insurers, and consumers, and expands its life sciences offerings &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260111/p20#a260111p20)
  - [ATG, which is developing the AI-powered wealth strategist app Autonomous, emerges from stealth and raises a $15M pre-seed led by Y Combinator CEO Garry Tan &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/260111/p19#a260111p19)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 12, #946](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-12-946/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 12 #680](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-12-680/)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 12, #1668](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-12-1668/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 12 #680](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-12-680/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Guess the country](http://9gag.com/gag/ae9E8qp)
  - 😝 [When this guy proved he is not crazy](http://9gag.com/gag/aPA05Bq)
- - 💣 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 👉 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)<!-- MEMES:END -->
+ - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
+ - 👉 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)<!-- MEMES:END -->
 
 ---
 

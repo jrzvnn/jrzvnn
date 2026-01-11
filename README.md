@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How TiVo killed live TV](https://www.theverge.com/podcast/860321/tivo-tv-streaming-version-history)
+ - [I went looking for weird phones and CES 2026 did not disappoint](https://www.theverge.com/tech/859776/ces-2026-phones-clicks-communicator-ikko-samsung-trifold)
  - [A detailed look at the Apple-TSMC relationship: Apple&#39;s annual spend at TSMC rose 12x, from $2B in 2014 to $24B in 2025, and once made up 25% of TSMC&#39;s revenue &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260111/p10#a260111p10)
- - [Will you have to show your ID at the app store?](https://www.theverge.com/column/859351/age-verification-app-stores)
- - [16 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
- - [Crime blotter: Armed robbery, fairground iPads, and a fortune teller](https://appleinsider.com/articles/26/01/11/crime-blotter-armed-robbery-fairground-ipads-and-a-fortune-teller?utm_source=rss)
- - [CES 2026: LG&#39;s Latest Washer-Dryer Combo Solves the Biggest Issues With All-In-One Machines](https://www.cnet.com/home/smart-home/lg-signature-series-washer-dryer-combo-ces-2026/)<!-- TECH:END -->
+ - [Livestream FA Cup Soccer: Watch Man United vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-watch-man-united-vs-brighton/)
+ - [Struggling With a Steep Lawn? Mammotion&#39;s Extreme Mower Aims to Fix Your Toughest Yard Work](https://www.cnet.com/news/mammotions-robot-mower-scaled-hill-with-ease/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

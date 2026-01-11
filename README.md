@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic announces Claude for Healthcare to offer HIPAA-ready tools for providers, insurers, and consumers, and expands its life sciences offerings &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260111/p20#a260111p20)
  - [ATG, which is developing the AI-powered wealth strategist app Autonomous, emerges from stealth and raises a $15M pre-seed led by Y Combinator CEO Garry Tan &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/260111/p19#a260111p19)
  - [Tucuvi, which develops AI agents that check in with patients and escalate cases to human teams when needed, raised a $20M Series A, led by Cathay and Leadwind &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/260111/p18#a260111p18)
  - [Google pulls AI overviews for some medical searches](https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews)
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu/)
- - [Here are over 20 gadgets that’ll help you achieve your New Year’s resolutions](https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness)<!-- TECH:END -->
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best hardware and accessories of CES 2026 for Apple users](https://appleinsider.com/articles/26/01/11/the-best-hardware-and-accessories-of-ces-2026-for-apple-users?utm_source=rss)
+ - [Instagram says there was no breach and it fixed an issue that let an external party send password reset emails, after reports that 17.5M users&#39; data was exposed &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260111/p17#a260111p17)
  - [India wants iOS source code, and they&#39;re not going to get it](https://appleinsider.com/articles/26/01/11/india-wants-ios-source-code-and-theyre-not-going-to-get-it?utm_source=rss)
  - [Tel Aviv-based Torq, which operates an autonomous AI-powered security operations platform, raised $140M led by Merlin Ventures at a $1.2B valuation &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/260111/p16#a260111p16)
- - [Instagram says it fixed the issue that let someone send all those password reset emails](https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails)
- - [GameStop is kicking off 2026 by shutting down over 400 stores in 42 states](https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states)
- - [Malaysia becomes the second country to limit access to Grok, joining Indonesia, over the chatbot&#39;s generation of sexual content &lpar;Bloomberg&rpar;](http://www.techmeme.com/260111/p15#a260111p15)<!-- TECH:END -->
+ - [Instagram says it fixed the issue that let someone send all those password reset emails](https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

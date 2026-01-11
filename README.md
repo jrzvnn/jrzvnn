@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is introducing new personalized ads in AI mode, powered by Gemini, which allow advertisers to offer exclusives for users preparing to buy a product &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260111/p11#a260111p11)
+ - [Google’s AI Inbox could be a glimpse of Gmail’s future](https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on)
  - [Wing’s drone delivery is coming to 150 more Walmarts](https://www.theverge.com/tech/859724/wing-walmart-drone-delivery-expansion-2027)
  - [Apple secures seven nominations for 37th Producers Guild Awards](https://appleinsider.com/articles/26/01/11/apple-secures-seven-nominations-for-37th-producers-guild-awards?utm_source=rss)
- - [How TiVo killed live TV](https://www.theverge.com/podcast/860321/tivo-tv-streaming-version-history)
- - [I went looking for weird phones and CES 2026 did not disappoint](https://www.theverge.com/tech/859776/ces-2026-phones-clicks-communicator-ikko-samsung-trifold)
- - [A detailed look at the Apple-TSMC relationship: Apple&#39;s annual spend at TSMC rose 12x, from $2B in 2014 to $24B in 2025, and once made up 25% of TSMC&#39;s revenue &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260111/p10#a260111p10)<!-- TECH:END -->
+ - [How TiVo killed live TV](https://www.theverge.com/podcast/860321/tivo-tv-streaming-version-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

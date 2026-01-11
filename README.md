@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess the country](http://9gag.com/gag/ae9E8qp)
- - 😝 [When this guy proved he is not crazy](http://9gag.com/gag/aPA05Bq)
- - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [How to recognize a 9gager in 13 seconds](http://9gag.com/gag/amoy3qd)
  - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
- - 👉 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)<!-- MEMES:END -->
+ - 💣 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [Danny Trejo is a legend for this](http://9gag.com/gag/an73Lvz)
+ - 👉 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)<!-- MEMES:END -->
 
 ---
 

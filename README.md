@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
- - 😝 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
- - 💣 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)
  - 😝 [Her vs me on our first night together](http://9gag.com/gag/aVv8APw)
- - 👉 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)<!-- MEMES:END -->
+ - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
+ - 💣 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
+ - 😝 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
+ - 👉 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)<!-- MEMES:END -->
 
 ---
 

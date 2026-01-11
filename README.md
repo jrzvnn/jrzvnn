@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram says it fixed the issue that let someone send all those password reset emails](https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails)
  - [GameStop is kicking off 2026 by shutting down over 400 stores in 42 states](https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states)
  - [Malaysia becomes the second country to limit access to Grok, joining Indonesia, over the chatbot&#39;s generation of sexual content &lpar;Bloomberg&rpar;](http://www.techmeme.com/260111/p15#a260111p15)
  - [Walmart to expand Wing, Alphabet&#39;s on-demand drone delivery service, to another 150 stores, bringing the total to 270+ stores, covering ~10% of US population &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260111/p14#a260111p14)
- - [Walmart partners with Google to offer AI-enhanced shopping, allowing users to purchase Walmart and Sam&#39;s Club items directly on Gemini &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/260111/p13#a260111p13)
- - [Google unveils the Universal Commerce Protocol &lpar;UCP&rpar;, a new open standard that lets AI agents work across different parts of the customer&#39;s buying process &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260111/p12#a260111p12)<!-- TECH:END -->
+ - [Walmart partners with Google to offer AI-enhanced shopping, allowing users to purchase Walmart and Sam&#39;s Club items directly on Gemini &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/260111/p13#a260111p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

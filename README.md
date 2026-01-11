@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
  - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
- - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 💣 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
- - 😝 [Danny Trejo is a legend for this](http://9gag.com/gag/an73Lvz)
- - 👉 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)<!-- MEMES:END -->
+ - 💣 [Worth it](http://9gag.com/gag/aLn3xev)
+ - 😝 [Here you go buddy](http://9gag.com/gag/aVv8pLO)
+ - 👉 [For your musical enjoyment #51](http://9gag.com/gag/aQzK012)<!-- MEMES:END -->
 
 ---
 

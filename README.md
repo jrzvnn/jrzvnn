@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
- - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
- - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [George Carlin : Was talking about liberalism back in 2000&#39;s.](http://9gag.com/gag/aByM7jO)
- - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
+ - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 😝 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
+ - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aVv8A4w)
+ - 👉 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)<!-- MEMES:END -->
 
 ---
 

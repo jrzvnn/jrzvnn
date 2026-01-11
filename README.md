@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China launches a probe into competition among online food delivery platforms, aiming to curb price wars that have contributed to deflationary economic pressures &lpar;Reuters&rpar;](http://www.techmeme.com/260111/p2#a260111p2)
+ - [China releases draft guidelines for governing online personal data collection, open for public consultation amid privacy concerns and companies&#39; data misuse &lpar;Bloomberg&rpar;](http://www.techmeme.com/260111/p1#a260111p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 11, #475](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-11-475/)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Jan. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-jan-11/)
- - [A look at the global AI adoption in 2025; use in the global north grew nearly twice as fast as the south; the UAE leads with 64% of working-age adults using AI &lpar;Microsoft Corporate Responsibility&rpar;](http://www.techmeme.com/260110/p13#a260110p13)
- - [9 Ways You&#39;re Using Your Space Heater Wrong, and Why It Causes Fires](https://www.cnet.com/news/ways-space-heaters-cause-fires-in-our-homes-and-how-to-prevent-one/)
- - [&#39;Landman&#39; Season 2, Episode 9: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-episode-9-release-time/)<!-- TECH:END -->
+ - [A look at the global AI adoption in 2025; use in the global north grew nearly twice as fast as the south; the UAE leads with 64% of working-age adults using AI &lpar;Microsoft Corporate Responsibility&rpar;](http://www.techmeme.com/260110/p13#a260110p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

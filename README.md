@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Malaysia becomes the second country to limit access to Grok, joining Indonesia, over the chatbot&#39;s generation of sexual content &lpar;Bloomberg&rpar;](http://www.techmeme.com/260111/p15#a260111p15)
  - [Walmart to expand Wing, Alphabet&#39;s on-demand drone delivery service, to another 150 stores, bringing the total to 270+ stores, covering ~10% of US population &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260111/p14#a260111p14)
  - [Walmart partners with Google to offer AI-enhanced shopping, allowing users to purchase Walmart and Sam&#39;s Club items directly on Gemini &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/260111/p13#a260111p13)
  - [Google unveils the Universal Commerce Protocol &lpar;UCP&rpar;, a new open standard that lets AI agents work across different parts of the customer&#39;s buying process &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260111/p12#a260111p12)
- - [Google is introducing new personalized ads in AI mode, powered by Gemini, which allow advertisers to offer exclusives for users preparing to buy a product &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260111/p11#a260111p11)
- - [Google’s AI Inbox could be a glimpse of Gmail’s future](https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on)<!-- TECH:END -->
+ - [Google is introducing new personalized ads in AI mode, powered by Gemini, which allow advertisers to offer exclusives for users preparing to buy a product &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260111/p11#a260111p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

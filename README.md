@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty cool](http://9gag.com/gag/aW4AKnZ)
+ - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
  - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aVv8A4w)
- - 💣 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
- - 😝 [The top 10 restaurants in the world are in London](http://9gag.com/gag/a6Zzv2e)
- - 👉 [Tricky Ticks](http://9gag.com/gag/abAo9jr)<!-- MEMES:END -->
+ - 💣 [Pretty cool](http://9gag.com/gag/aW4AKnZ)
+ - 😝 [Tricky Ticks](http://9gag.com/gag/abAo9jr)
+ - 👉 [Speed of Light](http://9gag.com/gag/a34DVo5)<!-- MEMES:END -->
 
 ---
 

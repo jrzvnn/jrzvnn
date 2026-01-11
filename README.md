@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
  - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
- - 💣 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
- - 😝 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
+ - 💣 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
+ - 😝 [Some things are just meant to be](http://9gag.com/gag/ae9EvBb)
+ - 👉 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)<!-- MEMES:END -->
 
 ---
 

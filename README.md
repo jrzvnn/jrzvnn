@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
  - 😝 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
- - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
  - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
  - 😝 [Some things are just meant to be](http://9gag.com/gag/ae9EvBb)
- - 👉 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)<!-- MEMES:END -->
+ - 👉 [It&#39;s so funny it&#39;s painful](http://9gag.com/gag/ae9EvmB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
  - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
- - 💣 [Worth it](http://9gag.com/gag/aLn3xev)
- - 😝 [Here you go buddy](http://9gag.com/gag/aVv8pLO)
- - 👉 [For your musical enjoyment #51](http://9gag.com/gag/aQzK012)<!-- MEMES:END -->
+ - 😝 [Worth it](http://9gag.com/gag/aLn3xev)
+ - 💣 [For your musical enjoyment #51](http://9gag.com/gag/aQzK012)
+ - 😝 [Danny Trejo is a legend for this](http://9gag.com/gag/an73Lvz)
+ - 👉 [Here you go buddy](http://9gag.com/gag/aVv8pLO)<!-- MEMES:END -->
 
 ---
 

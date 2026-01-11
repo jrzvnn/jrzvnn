@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Tucuvi, which develops AI agents that check in with patients and escalate cases to human teams when needed, raised a $20M Series A, led by Cathay and Leadwind &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/260111/p18#a260111p18)
  - [Google pulls AI overviews for some medical searches](https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews)
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu/)
  - [Here are over 20 gadgets that’ll help you achieve your New Year’s resolutions](https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness)
- - [The best hardware and accessories of CES 2026 for Apple users](https://appleinsider.com/articles/26/01/11/the-best-hardware-and-accessories-of-ces-2026-for-apple-users?utm_source=rss)
- - [Instagram says there was no breach and it fixed an issue that let an external party send password reset emails, after reports that 17.5M users&#39; data was exposed &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260111/p17#a260111p17)<!-- TECH:END -->
+ - [The best hardware and accessories of CES 2026 for Apple users](https://appleinsider.com/articles/26/01/11/the-best-hardware-and-accessories-of-ces-2026-for-apple-users?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

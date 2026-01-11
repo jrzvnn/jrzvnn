@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her vs me on our first night together](http://9gag.com/gag/aVv8APw)
- - 😝 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
+ - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
  - 😝 [George Carlin : Was talking about liberalism back in 2000&#39;s.](http://9gag.com/gag/aByM7jO)
  - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
 

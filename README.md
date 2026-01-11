@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)
+ - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
  - 😝 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
- - 💣 [Her vs me on our first night together](http://9gag.com/gag/aVv8APw)
- - 😝 [Without.....](http://9gag.com/gag/an73pMn)
- - 👉 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)<!-- MEMES:END -->
+ - 💣 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)
+ - 😝 [Her vs me on our first night together](http://9gag.com/gag/aVv8APw)
+ - 👉 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)<!-- MEMES:END -->
 
 ---
 

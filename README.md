@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple secures seven nominations for 37th Producers Guild Awards](https://appleinsider.com/articles/26/01/11/apple-secures-seven-nominations-for-37th-producers-guild-awards?utm_source=rss)
  - [How TiVo killed live TV](https://www.theverge.com/podcast/860321/tivo-tv-streaming-version-history)
  - [I went looking for weird phones and CES 2026 did not disappoint](https://www.theverge.com/tech/859776/ces-2026-phones-clicks-communicator-ikko-samsung-trifold)
  - [A detailed look at the Apple-TSMC relationship: Apple&#39;s annual spend at TSMC rose 12x, from $2B in 2014 to $24B in 2025, and once made up 25% of TSMC&#39;s revenue &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260111/p10#a260111p10)
- - [Livestream FA Cup Soccer: Watch Man United vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-watch-man-united-vs-brighton/)
- - [Struggling With a Steep Lawn? Mammotion&#39;s Extreme Mower Aims to Fix Your Toughest Yard Work](https://www.cnet.com/news/mammotions-robot-mower-scaled-hill-with-ease/)<!-- TECH:END -->
+ - [Livestream FA Cup Soccer: Watch Man United vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-watch-man-united-vs-brighton/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

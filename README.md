@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tricky Ticks](http://9gag.com/gag/abAo9jr)
- - 😝 [The real hero wears slippers](http://9gag.com/gag/aByM7qD)
- - 💣 [Hit me!](http://9gag.com/gag/aW4Az9n)
- - 😝 [Times were different](http://9gag.com/gag/aGyq3DX)
- - 👉 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)<!-- MEMES:END -->
+ - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
+ - 💣 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
+ - 😝 [Some things are just meant to be](http://9gag.com/gag/ae9EvBb)
+ - 👉 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)<!-- MEMES:END -->
 
 ---
 

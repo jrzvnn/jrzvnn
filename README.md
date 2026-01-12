@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Serves you right](http://9gag.com/gag/adBMme2)
  - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
- - 💣 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - 😝 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
- - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
+ - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 💣 [Cool guy](http://9gag.com/gag/a4P8eAd)
+ - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 👉 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)<!-- MEMES:END -->
 
 ---
 

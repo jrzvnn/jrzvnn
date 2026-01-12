@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forget M1, M4 is the dominant Apple Silicon chip on Steam](https://appleinsider.com/articles/26/01/12/forget-m1-m4-is-the-dominant-apple-silicon-chip-on-steam?utm_source=rss)
  - [OpenAI acquires Torch, a one-year-old AI healthcare app that aggregates and analyzes medical records; source: OpenAI is paying $100M in equity &lpar;Laura Mandaro/The Information&rpar;](http://www.techmeme.com/260112/p33#a260112p33)
- - [Elon Musk says Apple and Google&#39;s Gemini deal &quot;seems like an unreasonable concentration of power for Google given that [they] also have Android and Chrome&quot; &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/260112/p32#a260112p32)
- - [Sources: Meta plans to lay off ~10% of its 15,000-person Reality Labs division, disproportionately affecting those working on VR headsets and Horizon Worlds &lpar;New York Times&rpar;](http://www.techmeme.com/260112/p31#a260112p31)
- - [Protect Your iPhone From Potential Attacks by Downloading iOS 26.2 Now](https://www.cnet.com/tech/services-and-software/ios-26-2-release-liquid-glass-reminders-safety-alerts/)
- - [Baseus’ retractable travel adapter is on sale for more than 50 percent off today](https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 13, #947](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-13-947/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 13 #681](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-13-681/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 13, #1669](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-13-1669/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

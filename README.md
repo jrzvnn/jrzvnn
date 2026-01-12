@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
- - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
+ - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
+ - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
  - 💣 [Serves you right](http://9gag.com/gag/adBMme2)
- - 😝 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
- - 👉 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)<!-- MEMES:END -->
+ - 😝 [Couple wild martens coming in for snacks nightly would heal me very quickly](http://9gag.com/gag/ayNAyXX)
+ - 👉 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)<!-- MEMES:END -->
 
 ---
 

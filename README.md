@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of SpaceX president Gwynne Shotwell, who has worked at the company since 2002, and is known as a customer emissary and Musk translator &lpar;Micah Maidenberg/Wall Street Journal&rpar;](http://www.techmeme.com/260111/p21#a260111p21)
- - [You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd](https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24)
- - [Anthropic announces Claude for Healthcare to offer HIPAA-ready tools for providers, insurers, and consumers, and expands its life sciences offerings &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260111/p20#a260111p20)
- - [ATG, which is developing the AI-powered wealth strategist app Autonomous, emerges from stealth and raises a $15M pre-seed led by Y Combinator CEO Garry Tan &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/260111/p19#a260111p19)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 12, #946](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-12-946/)<!-- TECH:END -->
+ - [Price war: Save $300 on Apple&#39;s 1TB 14-inch MacBook Pro with 20-core GPU](https://appleinsider.com/articles/26/01/12/price-war-save-300-on-apples-1tb-14-inch-macbook-pro-with-20-core-gpu?utm_source=rss)
+ - [Despite projections of memory shortages for PCs and phones, producers like Micron will proceed cautiously in adding new capacity, mindful of past downcycles &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260111/p23#a260111p23)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-12/)
+ - [Qatar and UAE will join the Pax Silica coalition on January 12 and 15, respectively, expanding the US-led effort to secure AI and semiconductor supply chains &lpar;Jarrett Renshaw/Reuters&rpar;](http://www.techmeme.com/260111/p22#a260111p22)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 12, #476](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-12-476/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

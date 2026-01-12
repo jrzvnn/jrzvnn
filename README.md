@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)
+ - [Crypto custody company BitGo aims to raise up to $201M in its IPO on the NYSE at an up to $1.96B valuation, selling 11.8M shares at $15 to $17 per share &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/260112/p17#a260112p17)
+ - [Eddy Cue says 2025 was a &quot;record-breaking year&quot; for Apple services: December was a monthly TV engagement record, the App Store has 850M+ weekly users, and more &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260112/p16#a260112p16)
  - [Michael Saylor&#39;s Strategy bought 13,627 bitcoin for ~$1.25B between January 5 and 11, taking its total holdings to 687,410, and boosts its USD reserve to $2.25B &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/260112/p15#a260112p15)
- - [Meta appoints Dina Powell McCormick, a prominent banking executive and former Republican official, as president and vice chair, reporting to Mark Zuckerberg &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260112/p14#a260112p14)
- - [Ampere Analysis expects streamer content spending to grow 6% YoY in 2026 to $101B, crossing $100B for the first time; overall global content spend will grow 2% &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/260112/p13#a260112p13)
- - [Half price iPhone 13 battery replacement is probably only for China](https://appleinsider.com/articles/26/01/12/half-price-iphone-13-battery-replacement-reportedly-offered-for-users-in-china?utm_source=rss)
- - [Apple&#39;s utter silence about AI-generated child porn on X is appalling yet unsurprising](https://appleinsider.com/articles/26/01/12/apples-utter-silence-about-ai-generated-child-porn-on-x-is-appalling-yet-unsurprising?utm_source=rss)<!-- TECH:END -->
+ - [Meta appoints Dina Powell McCormick, a prominent banking executive and former Republican official, as president and vice chair, reporting to Mark Zuckerberg &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260112/p14#a260112p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

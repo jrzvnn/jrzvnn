@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today, irony died.](http://9gag.com/gag/azxz0dq)
- - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 💣 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
- - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
+ - 😝 [Wow, mind blowing](http://9gag.com/gag/a9ye3xL)
+ - 😝 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
+ - 💣 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
+ - 😝 [Without.....](http://9gag.com/gag/an73pMn)
+ - 👉 [Are we there yet?](http://9gag.com/gag/a9yeQ8j)<!-- MEMES:END -->
 
 ---
 

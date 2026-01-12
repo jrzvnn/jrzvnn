@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ampere Analysis expects streamer content spending to grow 6% YoY in 2026 to $101B, crossing $100B for the first time; overall global content spend will grow 2% &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/260112/p13#a260112p13)
+ - [Half price iPhone 13 battery replacement is probably only for China](https://appleinsider.com/articles/26/01/12/half-price-iphone-13-battery-replacement-reportedly-offered-for-users-in-china?utm_source=rss)
+ - [Apple&#39;s utter silence about AI-generated child porn on X is appalling yet unsurprising](https://appleinsider.com/articles/26/01/12/apples-utter-silence-about-ai-generated-child-porn-on-x-is-appalling-yet-unsurprising?utm_source=rss)
  - [Inside Preview in iOS 26 - how to edit PDFs, sign documents, and scan files](https://appleinsider.com/inside/ios-26/tips/inside-preview-in-ios-26---how-to-edit-pdfs-sign-documents-and-scan-files?utm_source=rss)
- - [Wedbush expects monumental 2026 for Apple despite invisible AI strategy](https://appleinsider.com/articles/26/01/12/wedbush-expects-monumental-2026-for-apple-despite-invisible-ai-strategy?utm_source=rss)
- - [Google brings buy buttons to Gemini and AI search](https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini)
- - [&#39;The Studio&#39; and &#39;Pluribus&#39; win at the Golden Globes awards](https://appleinsider.com/articles/26/01/12/the-studio-and-pluribus-win-at-the-golden-globes-awards?utm_source=rss)
- - [Best Travel Cameras &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-cameras/)<!-- TECH:END -->
+ - [Wedbush expects monumental 2026 for Apple despite invisible AI strategy](https://appleinsider.com/articles/26/01/12/wedbush-expects-monumental-2026-for-apple-despite-invisible-ai-strategy?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

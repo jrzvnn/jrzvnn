@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget M1, M4 is the dominant Apple Silicon chip on Steam](https://appleinsider.com/articles/26/01/12/forget-m1-m4-is-the-dominant-apple-silicon-chip-on-steam?utm_source=rss)
- - [OpenAI acquires Torch, a one-year-old AI healthcare app that aggregates and analyzes medical records; source: OpenAI is paying $100M in equity &lpar;Laura Mandaro/The Information&rpar;](http://www.techmeme.com/260112/p33#a260112p33)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 13, #947](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-13-947/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 13 #681](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-13-681/)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 13, #1669](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-13-1669/)<!-- TECH:END -->
+ - [Fired Rockstar employees’ plea for interim pay denied](https://www.theverge.com/news/861004/rockstar-fired-union-workers-pay)
+ - [Framework hikes desktop PC prices as RAM shortage drags on](https://www.theverge.com/news/860988/framework-desktop-pc-price-increase-ram-memory-shortage)
+ - [Hands-on with Claude Cowork: looks well positioned to bring the powerful capabilities of Claude Code to a wider audience, but risks of prompt injections remain &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260112/p35#a260112p35)
+ - [Meta plans to lay off hundreds of metaverse employees this week](https://www.theverge.com/news/860984/meta-reality-labs-layoffs-metaverse)
+ - [FBI Agent’s Sworn Testimony Contradicts Claims ICE’s Jonathan Ross Made Under Oath](https://www.wired.com/story/fbi-agents-sworn-testimony-contradicts-claims-ices-jonathan-ross-made-under-oath/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces a multi-year Google deal to use Gemini and Cloud to power Siri&#39;s features in 2026, saying Google&#39;s tech &quot;provides the most capable foundation&quot; &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260112/p20#a260112p20)
- - [Apple dominated 2025 smartphone market with a 20% share](https://appleinsider.com/articles/26/01/12/apple-dominated-2025-smartphone-market-with-a-20-share?utm_source=rss)
- - [Nvidia and Eli Lilly plan to invest $1B over five years in a new Silicon Valley-based AI drug laboratory, aiming to boost the pharmaceutical industry&#39;s AI use &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p19#a260112p19)
- - [A viral Chinese app called &quot;Are You Dead?&quot; that checks on people living alone becomes the top paid app in Apple&#39;s App Store in China, as many elderly live alone &lpar;Financial Times&rpar;](http://www.techmeme.com/260112/p18#a260112p18)
- - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)<!-- TECH:END -->
+ - [A Palworld trading card game is coming this summer](https://www.theverge.com/games/860492/palworld-trading-card-game-release-date)
+ - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)
+ - [Document: Meta said last week that it would exclude Italy from its ban on rival AI chatbots on WhatsApp, after an order from the country&#39;s antitrust authority &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260112/p23#a260112p23)
+ - [Reminder: Ignore Instagram password reset messages if you didn&#39;t request one](https://appleinsider.com/articles/26/01/12/reminder-ignore-instagram-password-reset-messages-if-you-didnt-request-one?utm_source=rss)
+ - [Alphabet hits a $4T market cap in intraday trading, becoming the fourth Big Tech company to reach the milestone, after its stock rose 6% in the past month &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260112/p22#a260112p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

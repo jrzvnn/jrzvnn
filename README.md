@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris-based autonomous drone maker Harmattan AI raised a $200M Series B led by Dassault at a $1.4B valuation, and aims to produce 10K drones per month in 2026 &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260112/p10#a260112p10)
+ - [Hyte X50 PC Case Review: Computers Should Be Cute](https://www.wired.com/review/hyte-x50/)
  - [Sources and filings: Peter Thiel donated $3M to a group to beat California&#39;s wealth tax, the first of several expected major donations by tech leaders in 2026 &lpar;New York Times&rpar;](http://www.techmeme.com/260112/p9#a260112p9)
  - [Meta says it shut down nearly 550K accounts in Australia to comply with its under-16 social media ban, including 330K Instagram and 173K Facebook accounts &lpar;Nasteho Said/Bloomberg&rpar;](http://www.techmeme.com/260112/p8#a260112p8)
- - [CES 2026 report: AI, autonomy, and robotic products are still finding their way, country-level booths are growing, Nvidia underpinned much of the show, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/260112/p7#a260112p7)
- - [Trump’s fundraisers asked Microsoft for its White House ballroom donation](https://www.theverge.com/news/859578/trump-white-house-ballroom-microsoft-amazon-donations)
- - [A look at claims from Google and others about quantum computing breakthroughs over the past few months that helped boost quantum computing stocks in 2025 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/260112/p6#a260112p6)<!-- TECH:END -->
+ - [CES 2026 report: AI, autonomy, and robotic products are still finding their way, country-level booths are growing, Nvidia underpinned much of the show, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/260112/p7#a260112p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

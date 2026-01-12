@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ofcom opens an investigation under the OSA into Grok over the sexualized deepfakes of women and kids being generated on X and threatens it with a ban or a fine &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/260112/p12#a260112p12)
+ - [Ofcom opens an investigation under the OSA into Grok over the sexualized deepfakes of women and kids being generated on X and threatens it with a ban or a fine &lpar;Financial Times&rpar;](http://www.techmeme.com/260112/p12#a260112p12)
  - [10 Best Pet Cameras &lpar;2026&rpar;, Tested With Our Pets](https://www.wired.com/gallery/best-pet-cameras/)
  - [Half price iPhone 13 battery replacement reportedly offered for users in China](https://appleinsider.com/articles/26/01/12/half-price-iphone-13-battery-replacement-reportedly-offered-for-users-in-china?utm_source=rss)
  - [Global smartphone shipments rose 2% YoY in 2025, with Apple capturing the top position at a 20% share and 10% YoY growth, ahead of Samsung&#39;s 19% market share &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260112/p11#a260112p11)

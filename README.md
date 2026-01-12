@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
- - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 💣 [Cool guy](http://9gag.com/gag/a4P8eAd)
+ - 😝 [Without.....](http://9gag.com/gag/an73pMn)
+ - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
+ - 💣 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
  - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 👉 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)<!-- MEMES:END -->
+ - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
 
 ---
 

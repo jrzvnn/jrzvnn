@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
- - 😝 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
- - 💣 [Serves you right](http://9gag.com/gag/adBMme2)
+ - 😝 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
+ - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 💣 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
  - 😝 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
  - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
 

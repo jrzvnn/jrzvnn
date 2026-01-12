@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
+ - 😝 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
+ - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
  - 💣 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 😝 [Roe Deers looks like someone tried to draw a normal deer n&#39; couldn&#39;t get the face right...](http://9gag.com/gag/axy8xQn)
- - 👉 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)<!-- MEMES:END -->
+ - 😝 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
+ - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
 
 ---
 

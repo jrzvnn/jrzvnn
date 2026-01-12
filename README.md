@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI acquires Torch, a one-year-old AI healthcare app that aggregates and analyzes medical records; source: OpenAI is paying $100M in equity &lpar;Laura Mandaro/The Information&rpar;](http://www.techmeme.com/260112/p33#a260112p33)
+ - [Elon Musk says Apple and Google&#39;s Gemini deal &quot;seems like an unreasonable concentration of power for Google given that [they] also have Android and Chrome&quot; &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/260112/p32#a260112p32)
  - [Sources: Meta plans to lay off ~10% of its 15,000-person Reality Labs division, disproportionately affecting those working on VR headsets and Horizon Worlds &lpar;New York Times&rpar;](http://www.techmeme.com/260112/p31#a260112p31)
- - [Baseus’ retractable travel adapter is on sale for more than 50 percent off today](https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale)
- - [UK pushes up a law criminalizing deepfake nudes in response to Grok](https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai)
- - [Anthropic launches Cowork for Claude, built on Claude Code to automate complex tasks with minimal prompting, as a research preview for Claude Max subscribers &lpar;Webb Wright/ZDNET&rpar;](http://www.techmeme.com/260112/p30#a260112p30)
- - [The Stranger Things behind-the-scenes doc is a lot more boring than a secret episode](https://www.theverge.com/entertainment/860692/one-last-adventure-the-making-of-stranger-things-5-netflix-review)<!-- TECH:END -->
+ - [Protect Your iPhone From Potential Attacks by Downloading iOS 26.2 Now](https://www.cnet.com/tech/services-and-software/ios-26-2-release-liquid-glass-reminders-safety-alerts/)
+ - [Baseus’ retractable travel adapter is on sale for more than 50 percent off today](https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

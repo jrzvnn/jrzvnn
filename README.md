@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Serves you right](http://9gag.com/gag/adBMme2)
  - 😝 [A swatch or yer fanny](http://9gag.com/gag/avyV3bZ)
  - 💣 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - 😝 [..... need to look for a new job](http://9gag.com/gag/ary0Pzy)
+ - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
  - 👉 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)<!-- MEMES:END -->
 
 ---

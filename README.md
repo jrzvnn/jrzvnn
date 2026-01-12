@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
- - 😝 [A swatch or yer fanny](http://9gag.com/gag/avyV3bZ)
- - 💣 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
- - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
+ - 😝 [Tricky Ticks](http://9gag.com/gag/abAo9jr)
+ - 😝 [Pretty cool](http://9gag.com/gag/aW4AKnZ)
+ - 💣 [Speed of Light](http://9gag.com/gag/a34DVo5)
+ - 😝 [Some things are just meant to be](http://9gag.com/gag/ae9EvBb)
+ - 👉 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)<!-- MEMES:END -->
 
 ---
 

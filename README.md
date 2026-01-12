@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Personal finance app Betterment says an individual accessed certain systems to send fake crypto scam notification and believes the person accessed user info &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/260112/p36#a260112p36)
+ - [No, Google Gemini will not be taking over your iPhone, Apple Intelligence, or Siri](https://appleinsider.com/articles/26/01/12/no-google-gemini-will-not-be-taking-over-your-iphone-apple-intelligence-or-siri?utm_source=rss)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 13, #477](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-13-477/)
  - [Minnesota Sues to Stop ICE ‘Invasion’](https://www.wired.com/story/minnesota-sues-to-stop-ice-invasion/)
- - [New Autistic Barbie Comes With Noise-Canceling Headphones, Fidget Spinner, AAC Tablet](https://www.cnet.com/tech/autistic-barbie-noise-canceling-headphones-tablet/)
- - []Instagram Head Sounds Alarm on AI Images Outpacing Human Awareness](https://www.cnet.com/tech/services-and-software/instagram-adam-mosseri-ai-images-authenticity-and-trust/)
- - [Cowork for Claude Can Tap Into a Folder on Your Computer and Organize Its Contents](https://www.cnet.com/tech/services-and-software/cowork-for-claude-can-tap-into-a-folder-on-your-computer-and-organize-its-contents/)<!-- TECH:END -->
+ - [New Autistic Barbie Comes With Noise-Canceling Headphones, Fidget Spinner, AAC Tablet](https://www.cnet.com/tech/autistic-barbie-noise-canceling-headphones-tablet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
- - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 💣 [Serves you right](http://9gag.com/gag/adBMme2)
- - 😝 [POV- Realizing on the way home that was NOT a normal brownie.](http://9gag.com/gag/aAy7nzR)
- - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
+ - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
+ - 😝 [..... need to look for a new job](http://9gag.com/gag/ary0Pzy)
+ - 💣 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
+ - 😝 [Do the cat!](http://9gag.com/gag/a9ye3p0)
+ - 👉 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)<!-- MEMES:END -->
 
 ---
 

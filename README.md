@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Serves you right](http://9gag.com/gag/adBMme2)
+ - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
  - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - 💣 [It&#39;s so funny it&#39;s painful](http://9gag.com/gag/ae9EvmB)
- - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 👉 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)<!-- MEMES:END -->
+ - 💣 [Serves you right](http://9gag.com/gag/adBMme2)
+ - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
+ - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
 
 ---
 

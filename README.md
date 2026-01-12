@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: Google removed AI Overviews for two liver health queries after expert inaccuracy warnings, but slight keyword tweaks still trigger AI responses &lpar;Andrew Gregory/The Guardian&rpar;](http://www.techmeme.com/260112/p5#a260112p5)
  - [CES 2026: how some companies are trying to make their AI products cute and relatable, from Lenovo&#39;s chatty motorized laptop to Sharp&#39;s ChatGPT-powered Poketomo &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/260112/p4#a260112p4)
- - [President Trump says &quot;we may speak to Elon&quot; about using Starlink to restore the internet in Iran, after the state imposed an internet blackout amid protests &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/260112/p3#a260112p3)
+ - [President Trump says &quot;we may speak to Elon&quot; about using Starlink to restore the internet in Iran, after the country imposed an internet blackout amid protests &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/260112/p3#a260112p3)
  - [A profile of China&#39;s CXMT, whose $4.2B IPO goal would rank among the century&#39;s biggest chip debuts, as the memory chip maker faces US and South Korean curbs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260112/p2#a260112p2)
- - [Chinese AI executives say China is unlikely to eclipse the US in the AI race anytime soon, citing limited resources and US chip export curbs as key constraints &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p1#a260112p1)
- - [Naver, the largest South Korean buyer of Nvidia chips, is pitching its AI cloud services as an alternative for countries reluctant to use US or Chinese services &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/260111/p24#a260111p24)<!-- TECH:END -->
+ - [Chinese AI executives say China is unlikely to eclipse the US in the AI race anytime soon, citing limited resources and US chip export curbs as key constraints &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p1#a260112p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

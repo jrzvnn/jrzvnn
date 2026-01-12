@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump says &quot;we may speak to Elon&quot; about using Starlink to restore the internet in Iran, after the state imposed an internet blackout amid protests &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/260112/p3#a260112p3)
+ - [A profile of China&#39;s CXMT, whose $4.2B IPO goal would rank among the century&#39;s biggest chip debuts, as the memory chip maker faces US and South Korean curbs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260112/p2#a260112p2)
  - [Chinese AI executives say China is unlikely to eclipse the US in the AI race anytime soon, citing limited resources and US chip export curbs as key constraints &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p1#a260112p1)
  - [Naver, the largest South Korean buyer of Nvidia chips, is pitching its AI cloud services as an alternative for countries reluctant to use US or Chinese services &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/260111/p24#a260111p24)
- - [Price war: Save $300 on Apple&#39;s 1TB 14-inch MacBook Pro with 20-core GPU](https://appleinsider.com/articles/26/01/12/price-war-save-300-on-apples-1tb-14-inch-macbook-pro-with-20-core-gpu?utm_source=rss)
- - [Despite projections of memory shortages for PCs and phones, producers like Micron will proceed cautiously in adding new capacity, mindful of past downcycles &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260111/p23#a260111p23)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-12/)<!-- TECH:END -->
+ - [Price war: Save $300 on Apple&#39;s 1TB 14-inch MacBook Pro with 20-core GPU](https://appleinsider.com/articles/26/01/12/price-war-save-300-on-apples-1tb-14-inch-macbook-pro-with-20-core-gpu?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good](https://www.wired.com/story/gofundme-ice-jonathan-ross-renee-good-fundraiser/)
+ - [Democrats should reject tech influence to win elections, Warren says](https://www.theverge.com/news/860706/democrats-elections-big-tech-influence-senator-warren)
  - [Second developer betas for iOS 26.3, macOS Tahoe 26.3 have arrived](https://appleinsider.com/articles/26/01/12/second-developer-betas-for-ios-263-macos-tahoe-263-have-arrived?utm_source=rss)
  - [Smart home at CES 2026 and HomeKit architecture deadline on the latest HomeKit Insider](https://appleinsider.com/articles/26/01/12/smart-home-at-ces-2026-and-homekit-architecture-deadline-on-the-latest-homekit-insider?utm_source=rss)
- - [Italy&#39;s antitrust authority says it reduced the record fine imposed on Amazon in 2021, from €1.13B to €752M, after a recalculation &lpar;Elvira Pollina/Reuters&rpar;](http://www.techmeme.com/260112/p29#a260112p29)
- - [MacKenzie Scott Donates $45 Million to the Trevor Project](https://www.wired.com/story/mackenzie-scott-45-million-dollar-trevor-project-donation/)
- - [Mark Zuckerberg says Meta is establishing a new &quot;top-level&quot; initiative called Meta Compute to build &quot;tens of gigawatts&quot; of AI infrastructure during this decade &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260112/p28#a260112p28)<!-- TECH:END -->
+ - [Italy&#39;s antitrust authority says it reduced the record fine imposed on Amazon in 2021, from €1.13B to €752M, after a recalculation &lpar;Elvira Pollina/Reuters&rpar;](http://www.techmeme.com/260112/p29#a260112p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

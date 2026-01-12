@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta plans to lay off ~10% of its 15,000-person Reality Labs division, disproportionately affecting those working on VR headsets and Horizon Worlds &lpar;New York Times&rpar;](http://www.techmeme.com/260112/p31#a260112p31)
  - [Baseus’ retractable travel adapter is on sale for more than 50 percent off today](https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale)
  - [UK pushes up a law criminalizing deepfake nudes in response to Grok](https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai)
  - [Anthropic launches Cowork for Claude, built on Claude Code to automate complex tasks with minimal prompting, as a research preview for Claude Max subscribers &lpar;Webb Wright/ZDNET&rpar;](http://www.techmeme.com/260112/p30#a260112p30)
- - [The Stranger Things behind-the-scenes doc is a lot more boring than a secret episode](https://www.theverge.com/entertainment/860692/one-last-adventure-the-making-of-stranger-things-5-netflix-review)
- - [iOS 26 adoption isn&#39;t record-breaking, but reports of extremely low rates are flawed](https://appleinsider.com/articles/26/01/12/ios-26-adoption-isnt-record-breaking-but-reports-of-extremely-low-rates-are-flawed?utm_source=rss)<!-- TECH:END -->
+ - [The Stranger Things behind-the-scenes doc is a lot more boring than a secret episode](https://www.theverge.com/entertainment/860692/one-last-adventure-the-making-of-stranger-things-5-netflix-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

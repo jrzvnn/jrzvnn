@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker&#39;s New Home Backup Lets You Use Battery, Solar and a Generator to Power Your Home](https://www.cnet.com/news/ankers-new-home-backup-lets-you-use-battery-solar-and-a-generator-to-power-your-home/)
  - [Apple&#39;s Mac mini dips to $499, plus save $150 on M4 Pro desktop with coupon](https://appleinsider.com/articles/26/01/12/apples-mac-mini-dips-to-499-plus-save-150-on-m4-pro-desktop-with-coupon?utm_source=rss)
  - [Anthropic wants you to use Claude to &amp;#8216;Cowork&amp;#8217; in latest AI agent push](https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code)
- - [New York wants to regulate Roblox](https://www.theverge.com/policy/860727/new-york-governor-hochul-roblox-kids-online-safety)
- - [Snag a Feature-Packed Gaming Headset for Under $100](https://www.wired.com/story/corsair-void-wireless-v2-deal-126/)
- - [Right-Wing Influencers Have Flooded Minneapolis](https://www.wired.com/story/right-wing-influencers-have-flooded-minneapolis/)<!-- TECH:END -->
+ - [Google Moves to Simplify AI-Driven Shopping as Retailers Show Support](https://www.cnet.com/tech/services-and-software/google-moves-to-simplify-ai-driven-shopping-as-retailers-show-support/)
+ - [New York wants to regulate Roblox](https://www.theverge.com/policy/860727/new-york-governor-hochul-roblox-kids-online-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

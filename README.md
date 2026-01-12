@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based autonomous drone maker Harmattan AI raised a $200M Series B led by Dassault at a $1.4B valuation, and aims to produce 10K drones per month in 2026 &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260112/p10#a260112p10)
- - [Hyte X50 PC Case Review: Computers Should Be Cute](https://www.wired.com/review/hyte-x50/)
- - [Sources and filings: Peter Thiel donated $3M to a group to beat California&#39;s wealth tax, the first of several expected major donations by tech leaders in 2026 &lpar;New York Times&rpar;](http://www.techmeme.com/260112/p9#a260112p9)
- - [Meta says it shut down nearly 550K accounts in Australia to comply with its under-16 social media ban, including 330K Instagram and 173K Facebook accounts &lpar;Nasteho Said/Bloomberg&rpar;](http://www.techmeme.com/260112/p8#a260112p8)
- - [CES 2026 report: AI, autonomy, and robotic products are still finding their way, country-level booths are growing, Nvidia underpinned much of the show, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/260112/p7#a260112p7)<!-- TECH:END -->
+ - [Ofcom opens an investigation under the OSA into Grok over the sexualized deepfakes of women and kids being generated on X and threatens it with a ban or a fine &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/260112/p12#a260112p12)
+ - [10 Best Pet Cameras &lpar;2026&rpar;, Tested With Our Pets](https://www.wired.com/gallery/best-pet-cameras/)
+ - [Half price iPhone 13 battery replacement reportedly offered for users in China](https://appleinsider.com/articles/26/01/12/half-price-iphone-13-battery-replacement-reportedly-offered-for-users-in-china?utm_source=rss)
+ - [Global smartphone shipments rose 2% YoY in 2025, with Apple capturing the top position at a 20% share and 10% YoY growth, ahead of Samsung&#39;s 19% market share &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260112/p11#a260112p11)
+ - [Paris-based autonomous drone maker Harmattan AI raised a $200M Series B led by Dassault at a $1.4B valuation, and aims to produce 10K drones per month in 2026 &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260112/p10#a260112p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ofcom opens an investigation under the OSA into Grok over the sexualized deepfakes of women and kids being generated on X and threatens it with a ban or a fine &lpar;Financial Times&rpar;](http://www.techmeme.com/260112/p12#a260112p12)
- - [10 Best Pet Cameras &lpar;2026&rpar;, Tested With Our Pets](https://www.wired.com/gallery/best-pet-cameras/)
- - [Half price iPhone 13 battery replacement reportedly offered for users in China](https://appleinsider.com/articles/26/01/12/half-price-iphone-13-battery-replacement-reportedly-offered-for-users-in-china?utm_source=rss)
- - [Global smartphone shipments rose 2% YoY in 2025, with Apple capturing the top position at a 20% share and 10% YoY growth, ahead of Samsung&#39;s 19% market share &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260112/p11#a260112p11)
- - [Paris-based autonomous drone maker Harmattan AI raised a $200M Series B led by Dassault at a $1.4B valuation, and aims to produce 10K drones per month in 2026 &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260112/p10#a260112p10)<!-- TECH:END -->
+ - [Inside Preview in iOS 26 - how to edit PDFs, sign documents, and scan files](https://appleinsider.com/inside/ios-26/tips/inside-preview-in-ios-26---how-to-edit-pdfs-sign-documents-and-scan-files?utm_source=rss)
+ - [Wedbush expects monumental 2026 for Apple despite invisible AI strategy](https://appleinsider.com/articles/26/01/12/wedbush-expects-monumental-2026-for-apple-despite-invisible-ai-strategy?utm_source=rss)
+ - [Google brings buy buttons to Gemini and AI search](https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini)
+ - [&#39;The Studio&#39; and &#39;Pluribus&#39; win at the Golden Globes awards](https://appleinsider.com/articles/26/01/12/the-studio-and-pluribus-win-at-the-golden-globes-awards?utm_source=rss)
+ - [Best Travel Cameras &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

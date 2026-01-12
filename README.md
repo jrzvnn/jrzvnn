@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fired Rockstar employees’ plea for interim pay denied](https://www.theverge.com/news/861004/rockstar-fired-union-workers-pay)
- - [Framework hikes desktop PC prices as RAM shortage drags on](https://www.theverge.com/news/860988/framework-desktop-pc-price-increase-ram-memory-shortage)
- - [Hands-on with Claude Cowork: looks well positioned to bring the powerful capabilities of Claude Code to a wider audience, but risks of prompt injections remain &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260112/p35#a260112p35)
- - [Meta plans to lay off hundreds of metaverse employees this week](https://www.theverge.com/news/860984/meta-reality-labs-layoffs-metaverse)
- - [FBI Agent’s Sworn Testimony Contradicts Claims ICE’s Jonathan Ross Made Under Oath](https://www.wired.com/story/fbi-agents-sworn-testimony-contradicts-claims-ices-jonathan-ross-made-under-oath/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 13, #477](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-13-477/)
+ - [Minnesota Sues to Stop ICE ‘Invasion’](https://www.wired.com/story/minnesota-sues-to-stop-ice-invasion/)
+ - [New Autistic Barbie Comes With Noise-Canceling Headphones, Fidget Spinner, AAC Tablet](https://www.cnet.com/tech/autistic-barbie-noise-canceling-headphones-tablet/)
+ - []Instagram Head Sounds Alarm on AI Images Outpacing Human Awareness](https://www.cnet.com/tech/services-and-software/instagram-adam-mosseri-ai-images-authenticity-and-trust/)
+ - [Cowork for Claude Can Tap Into a Folder on Your Computer and Organize Its Contents](https://www.cnet.com/tech/services-and-software/cowork-for-claude-can-tap-into-a-folder-on-your-computer-and-organize-its-contents/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

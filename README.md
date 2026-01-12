@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;SnowRunner&#39; on Mac crashes, not getting any new updates or content](https://appleinsider.com/articles/26/01/12/snowrunner-on-mac-crashes-not-getting-any-new-updates-or-content?utm_source=rss)
- - [The UK plans to bring into force a law this week that will make it illegal to create non-consensual intimate images, as Ofcom investigates X &lpar;BBC&rpar;](http://www.techmeme.com/260112/p27#a260112p27)
- - [Hytale finally launches this week with a bright future ahead](https://www.theverge.com/news/860687/hytale-early-access-launch-release-date-riot-games-hypixel-studios)
- - [Google confirms that it won&#39;t get Apple user data in new Siri deal](https://appleinsider.com/articles/26/01/12/google-confirms-that-it-wont-get-apple-user-data-in-new-siri-deal?utm_source=rss)
- - [Sources: the US nears a trade deal with Taiwan that would reduce tariffs on the island&#39;s exports and include a commitment from TSMC to build 5+ fabs in Arizona &lpar;New York Times&rpar;](http://www.techmeme.com/260112/p26#a260112p26)<!-- TECH:END -->
+ - [Second developer betas for iOS 26.3, macOS Tahoe 26.3 have arrived](https://appleinsider.com/articles/26/01/12/second-developer-betas-for-ios-263-macos-tahoe-263-have-arrived?utm_source=rss)
+ - [Smart home at CES 2026 and HomeKit architecture deadline on the latest HomeKit Insider](https://appleinsider.com/articles/26/01/12/smart-home-at-ces-2026-and-homekit-architecture-deadline-on-the-latest-homekit-insider?utm_source=rss)
+ - [Italy&#39;s antitrust authority says it reduced the record fine imposed on Amazon in 2021, from €1.13B to €752M, after a recalculation &lpar;Elvira Pollina/Reuters&rpar;](http://www.techmeme.com/260112/p29#a260112p29)
+ - [MacKenzie Scott Donates $45 Million to the Trevor Project](https://www.wired.com/story/mackenzie-scott-45-million-dollar-trevor-project-donation/)
+ - [Mark Zuckerberg says Meta is establishing a new &quot;top-level&quot; initiative called Meta Compute to build &quot;tens of gigawatts&quot; of AI infrastructure during this decade &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260112/p28#a260112p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

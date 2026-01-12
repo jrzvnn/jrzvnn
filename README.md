@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Serves you right](http://9gag.com/gag/adBMme2)
- - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 💣 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 😝 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)
+ - 😝 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
+ - 😝 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
+ - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
  - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
 
 ---

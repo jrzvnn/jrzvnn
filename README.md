@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)
- - [Crypto custody company BitGo aims to raise up to $201M in its IPO on the NYSE at an up to $1.96B valuation, selling 11.8M shares at $15 to $17 per share &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/260112/p17#a260112p17)
- - [Eddy Cue says 2025 was a &quot;record-breaking year&quot; for Apple services: December was a monthly TV engagement record, the App Store has 850M+ weekly users, and more &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260112/p16#a260112p16)
- - [Michael Saylor&#39;s Strategy bought 13,627 bitcoin for ~$1.25B between January 5 and 11, taking its total holdings to 687,410, and boosts its USD reserve to $2.25B &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/260112/p15#a260112p15)
- - [Meta appoints Dina Powell McCormick, a prominent banking executive and former Republican official, as president and vice chair, reporting to Mark Zuckerberg &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260112/p14#a260112p14)<!-- TECH:END -->
+ - [Apple announces a multi-year Google deal to use Gemini and Cloud to power Siri&#39;s features in 2026, saying Google&#39;s tech &quot;provides the most capable foundation&quot; &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260112/p20#a260112p20)
+ - [Apple dominated 2025 smartphone market with a 20% share](https://appleinsider.com/articles/26/01/12/apple-dominated-2025-smartphone-market-with-a-20-share?utm_source=rss)
+ - [Nvidia and Eli Lilly plan to invest $1B over five years in a new Silicon Valley-based AI drug laboratory, aiming to boost the pharmaceutical industry&#39;s AI use &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p19#a260112p19)
+ - [A viral Chinese app called &quot;Are You Dead?&quot; that checks on people living alone becomes the top paid app in Apple&#39;s App Store in China, as many elderly live alone &lpar;Financial Times&rpar;](http://www.techmeme.com/260112/p18#a260112p18)
+ - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

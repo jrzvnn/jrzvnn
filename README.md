@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon has started automatically upgrading Prime members to Alexa Plus](https://www.theverge.com/news/860581/amazon-prime-alexa-plus-automatic-upgrade)
- - [The first three Lego Pokémon sets launch in February and include a $650 diorama](https://www.theverge.com/tech/860511/lego-pokemon-pikachu-poke-ball-eevee-venusaur-charizard-blastoise)
  - [Google Gemini tech will be used in the all-new Siri after major Apple AI deal](https://appleinsider.com/articles/26/01/12/google-gemini-tech-will-be-used-in-the-all-new-siri-after-major-apple-ai-deal?utm_source=rss)
- - [A Palworld trading card game is coming this summer](https://www.theverge.com/games/860492/palworld-trading-card-game-release-date)
- - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)<!-- TECH:END -->
+ - [World Liberty Financial launches World Liberty Markets, letting users lend and borrow digital assets among one another, supporting its own token USD1 and others &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260112/p24#a260112p24)
+ - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)
+ - [Apple TV &quot;Pluribus&quot; is stepping off the screen and into the real world with merch](https://appleinsider.com/articles/26/01/12/apple-tv-pluribus-is-stepping-off-the-screen-and-into-the-real-world-with-merch?utm_source=rss)
+ - [Amazon has started automatically upgrading Prime members to Alexa Plus](https://www.theverge.com/news/860581/amazon-prime-alexa-plus-automatic-upgrade)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

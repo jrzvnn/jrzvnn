@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CES 2026 report: AI, autonomy, and robotic products are still finding their way, country-level booths are growing, Nvidia underpinned much of the show, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/260112/p7#a260112p7)
  - [A look at claims from Google and others about quantum computing breakthroughs over the past few months that helped boost quantum computing stocks in 2025 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/260112/p6#a260112p6)
  - [Investigation: Google removed AI Overviews for two liver health queries after expert inaccuracy warnings, but slight keyword tweaks still trigger AI responses &lpar;Andrew Gregory/The Guardian&rpar;](http://www.techmeme.com/260112/p5#a260112p5)
  - [CES 2026: how some companies are trying to make their AI products cute and relatable, from Lenovo&#39;s chatty motorized laptop to Sharp&#39;s ChatGPT-powered Poketomo &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/260112/p4#a260112p4)
- - [President Trump says &quot;we may speak to Elon&quot; about using Starlink to restore the internet in Iran, after the country imposed an internet blackout amid protests &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/260112/p3#a260112p3)
- - [A profile of China&#39;s CXMT, whose $4.2B IPO goal would rank among the century&#39;s biggest chip debuts, as the memory chip maker faces US and South Korean curbs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260112/p2#a260112p2)<!-- TECH:END -->
+ - [President Trump says &quot;we may speak to Elon&quot; about using Starlink to restore the internet in Iran, after the country imposed an internet blackout amid protests &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/260112/p3#a260112p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

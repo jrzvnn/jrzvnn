@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Without.....](http://9gag.com/gag/an73pMn)
- - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
- - 💣 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
+ - 😝 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
  - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 💣 [Serves you right](http://9gag.com/gag/adBMme2)
+ - 😝 [POV- Realizing on the way home that was NOT a normal brownie.](http://9gag.com/gag/aAy7nzR)
  - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
 
 ---

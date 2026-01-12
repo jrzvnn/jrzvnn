@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
  - 😝 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
- - 💣 [Do the cat!](http://9gag.com/gag/a9ye3p0)
+ - 😝 [Do the cat!](http://9gag.com/gag/a9ye3p0)
+ - 💣 [POV- Realizing on the way home that was NOT a normal brownie.](http://9gag.com/gag/aAy7nzR)
  - 😝 [..... need to look for a new job](http://9gag.com/gag/ary0Pzy)
  - 👉 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)<!-- MEMES:END -->
 

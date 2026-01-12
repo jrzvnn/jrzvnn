@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
- - 😝 [Do the cat!](http://9gag.com/gag/a9ye3p0)
- - 💣 [POV- Realizing on the way home that was NOT a normal brownie.](http://9gag.com/gag/aAy7nzR)
- - 😝 [..... need to look for a new job](http://9gag.com/gag/ary0Pzy)
- - 👉 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)<!-- MEMES:END -->
+ - 😝 [Serves you right](http://9gag.com/gag/adBMme2)
+ - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 😝 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)
+ - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
 
 ---
 

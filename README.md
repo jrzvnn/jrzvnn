@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon has started automatically upgrading Prime members to Alexa Plus](https://www.theverge.com/news/860581/amazon-prime-alexa-plus-automatic-upgrade)
+ - [The first three Lego Pokémon sets launch in February and include a $650 diorama](https://www.theverge.com/tech/860511/lego-pokemon-pikachu-poke-ball-eevee-venusaur-charizard-blastoise)
+ - [Google Gemini tech will be used in the all-new Siri after major Apple AI deal](https://appleinsider.com/articles/26/01/12/google-gemini-tech-will-be-used-in-the-all-new-siri-after-major-apple-ai-deal?utm_source=rss)
  - [A Palworld trading card game is coming this summer](https://www.theverge.com/games/860492/palworld-trading-card-game-release-date)
- - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)
- - [Document: Meta said last week that it would exclude Italy from its ban on rival AI chatbots on WhatsApp, after an order from the country&#39;s antitrust authority &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260112/p23#a260112p23)
- - [Reminder: Ignore Instagram password reset messages if you didn&#39;t request one](https://appleinsider.com/articles/26/01/12/reminder-ignore-instagram-password-reset-messages-if-you-didnt-request-one?utm_source=rss)
- - [Alphabet hits a $4T market cap in intraday trading, becoming the fourth Big Tech company to reach the milestone, after its stock rose 6% in the past month &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260112/p22#a260112p22)<!-- TECH:END -->
+ - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

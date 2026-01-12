@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tricky Ticks](http://9gag.com/gag/abAo9jr)
  - 😝 [Pretty cool](http://9gag.com/gag/aW4AKnZ)
- - 💣 [Speed of Light](http://9gag.com/gag/a34DVo5)
- - 😝 [Some things are just meant to be](http://9gag.com/gag/ae9EvBb)
- - 👉 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)<!-- MEMES:END -->
+ - 😝 [Speed of Light](http://9gag.com/gag/a34DVo5)
+ - 💣 [Some things are just meant to be](http://9gag.com/gag/ae9EvBb)
+ - 😝 [Do the cat!](http://9gag.com/gag/a9ye3p0)
+ - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
 
 ---
 

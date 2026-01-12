@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Serves you right](http://9gag.com/gag/adBMme2)
- - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 💣 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
  - 😝 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)
- - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
+ - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
 
 ---
 

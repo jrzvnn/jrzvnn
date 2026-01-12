@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Michael Saylor&#39;s Strategy bought 13,627 bitcoin for ~$1.25B between January 5 and 11, taking its total holdings to 687,410, and boosts its USD reserve to $2.25B &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/260112/p15#a260112p15)
+ - [Meta appoints Dina Powell McCormick, a prominent banking executive and former Republican official, as president and vice chair, reporting to Mark Zuckerberg &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260112/p14#a260112p14)
  - [Ampere Analysis expects streamer content spending to grow 6% YoY in 2026 to $101B, crossing $100B for the first time; overall global content spend will grow 2% &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/260112/p13#a260112p13)
  - [Half price iPhone 13 battery replacement is probably only for China](https://appleinsider.com/articles/26/01/12/half-price-iphone-13-battery-replacement-reportedly-offered-for-users-in-china?utm_source=rss)
- - [Apple&#39;s utter silence about AI-generated child porn on X is appalling yet unsurprising](https://appleinsider.com/articles/26/01/12/apples-utter-silence-about-ai-generated-child-porn-on-x-is-appalling-yet-unsurprising?utm_source=rss)
- - [Inside Preview in iOS 26 - how to edit PDFs, sign documents, and scan files](https://appleinsider.com/inside/ios-26/tips/inside-preview-in-ios-26---how-to-edit-pdfs-sign-documents-and-scan-files?utm_source=rss)
- - [Wedbush expects monumental 2026 for Apple despite invisible AI strategy](https://appleinsider.com/articles/26/01/12/wedbush-expects-monumental-2026-for-apple-despite-invisible-ai-strategy?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s utter silence about AI-generated child porn on X is appalling yet unsurprising](https://appleinsider.com/articles/26/01/12/apples-utter-silence-about-ai-generated-child-porn-on-x-is-appalling-yet-unsurprising?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

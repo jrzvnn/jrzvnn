@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
- - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
- - 💣 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 😝 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
- - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
+ - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aVv8A4w)
+ - 😝 [Tricky Ticks](http://9gag.com/gag/abAo9jr)
+ - 💣 [Pretty cool](http://9gag.com/gag/aW4AKnZ)
+ - 😝 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
+ - 👉 [Speed of Light](http://9gag.com/gag/a34DVo5)<!-- MEMES:END -->
 
 ---
 

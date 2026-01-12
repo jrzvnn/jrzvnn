@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Naver, the largest South Korean buyer of Nvidia chips, is pitching its AI cloud services as an alternative for countries reluctant to use US or Chinese services &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/260111/p24#a260111p24)
  - [Price war: Save $300 on Apple&#39;s 1TB 14-inch MacBook Pro with 20-core GPU](https://appleinsider.com/articles/26/01/12/price-war-save-300-on-apples-1tb-14-inch-macbook-pro-with-20-core-gpu?utm_source=rss)
  - [Despite projections of memory shortages for PCs and phones, producers like Micron will proceed cautiously in adding new capacity, mindful of past downcycles &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260111/p23#a260111p23)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-12/)
- - [Qatar and UAE will join the Pax Silica coalition on January 12 and 15, respectively, expanding the US-led effort to secure AI and semiconductor supply chains &lpar;Jarrett Renshaw/Reuters&rpar;](http://www.techmeme.com/260111/p22#a260111p22)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 12, #476](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-12-476/)<!-- TECH:END -->
+ - [Qatar and UAE will join the Pax Silica coalition on January 12 and 15, respectively, expanding the US-led effort to secure AI and semiconductor supply chains &lpar;Jarrett Renshaw/Reuters&rpar;](http://www.techmeme.com/260111/p22#a260111p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

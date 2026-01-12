@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
  - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
  - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
+ - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
 
 ---
 

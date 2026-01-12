@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty cool](http://9gag.com/gag/aW4AKnZ)
- - 😝 [Speed of Light](http://9gag.com/gag/a34DVo5)
- - 💣 [Some things are just meant to be](http://9gag.com/gag/ae9EvBb)
- - 😝 [Do the cat!](http://9gag.com/gag/a9ye3p0)
- - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
+ - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
+ - 💣 [Serves you right](http://9gag.com/gag/adBMme2)
+ - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 👉 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)<!-- MEMES:END -->
 
 ---
 

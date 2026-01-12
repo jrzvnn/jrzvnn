@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
  - 😝 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
- - 💣 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 😝 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
- - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
+ - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
+ - 💣 [Serves you right](http://9gag.com/gag/adBMme2)
+ - 😝 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
+ - 👉 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)<!-- MEMES:END -->
 
 ---
 

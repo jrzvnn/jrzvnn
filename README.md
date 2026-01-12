@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good](https://www.wired.com/story/gofundme-ice-jonathan-ross-renee-good-fundraiser/)
- - [Democrats should reject tech influence to win elections, Warren says](https://www.theverge.com/news/860706/democrats-elections-big-tech-influence-senator-warren)
- - [Second developer betas for iOS 26.3, macOS Tahoe 26.3 have arrived](https://appleinsider.com/articles/26/01/12/second-developer-betas-for-ios-263-macos-tahoe-263-have-arrived?utm_source=rss)
- - [Smart home at CES 2026 and HomeKit architecture deadline on the latest HomeKit Insider](https://appleinsider.com/articles/26/01/12/smart-home-at-ces-2026-and-homekit-architecture-deadline-on-the-latest-homekit-insider?utm_source=rss)
- - [Italy&#39;s antitrust authority says it reduced the record fine imposed on Amazon in 2021, from €1.13B to €752M, after a recalculation &lpar;Elvira Pollina/Reuters&rpar;](http://www.techmeme.com/260112/p29#a260112p29)<!-- TECH:END -->
+ - [New York wants to regulate Roblox](https://www.theverge.com/policy/860727/new-york-governor-hochul-roblox-kids-online-safety)
+ - [Snag a Feature-Packed Gaming Headset for Under $100](https://www.wired.com/story/corsair-void-wireless-v2-deal-126/)
+ - [Right-Wing Influencers Have Flooded Minneapolis](https://www.wired.com/story/right-wing-influencers-have-flooded-minneapolis/)
+ - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
+ - [GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good](https://www.wired.com/story/gofundme-ice-jonathan-ross-renee-good-fundraiser/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

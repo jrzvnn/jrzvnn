@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Amazon is seeking supplier discounts, from low single digits to 30%, as it moves to reverse concessions made to limit the shock of Trump&#39;s tariffs &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260113/p43#a260113p43)
+ - [I tested several cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
  - [Sources: AI chip startup Etched raised $500M led by Stripes at a $5B valuation, bringing its total funding to almost $1B &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260113/p42#a260113p42)
  - [The Bone Temple turns 28 Years Later into a terrifying crisis of faith](https://www.theverge.com/entertainment/859756/28-years-later-the-bone-temple-review)
- - [Pixelmator is dead, long live Pixelmator Pro](https://appleinsider.com/articles/26/01/13/pixelmator-is-dead-long-live-pixelmator-pro?utm_source=rss)
- - [Senate passes a bill that would let nonconsensual deepfake victims sue](https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok)<!-- TECH:END -->
+ - [Pixelmator is dead, long live Pixelmator Pro](https://appleinsider.com/articles/26/01/13/pixelmator-is-dead-long-live-pixelmator-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

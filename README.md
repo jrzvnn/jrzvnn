@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British Humour: No Laugh Track Required &lpar;not amurican humor&rpar;](http://9gag.com/gag/a2vgzYY)
- - 😝 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
- - 💣 [Watch a Master do his craft](http://9gag.com/gag/aoyomY0)
- - 😝 [Happiness](http://9gag.com/gag/aGyvKLX)
- - 👉 [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)<!-- MEMES:END -->
+ - 😝 [Nitric acid leak in Cape Town South Africa](http://9gag.com/gag/a7ogvDr)
+ - 😝 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
+ - 💣 [Oops...](http://9gag.com/gag/agm93QW)
+ - 😝 [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
+ - 👉 [Opening a street camera....](http://9gag.com/gag/a34gvq7)<!-- MEMES:END -->
 
 ---
 

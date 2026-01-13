@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft changes its data center approach, pledging to pay its power costs, reject tax breaks, and replenish more water than it uses, amid local opposition &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260113/p19#a260113p19)
+ - [&#39;Are You Dead?&#39; iOS app helps lonely people stay safe in China](https://appleinsider.com/articles/26/01/13/are-you-dead-ios-app-helps-lonely-people-stay-safe-in-china?utm_source=rss)
+ - [Crypto scams received $14B+ on-chain in 2025, up from 2024&#39;s $12B and potentially rising to $17B+ as more wallets are found; impersonation scams jumped 1,400% &lpar;Chainalysis&rpar;](http://www.techmeme.com/260113/p18#a260113p18)
  - [Salesforce makes Slack&#39;s new AI-powered Slackbot generally available, helping users answer workflow questions, draft documents, schedule meetings, and more &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/260113/p17#a260113p17)
- - [Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable](https://www.wired.com/review/urevo-spacewalk-5l-walking-pad/)
- - [Insta360’s face-tracking webcams get bigger sensors and more expensive](https://www.theverge.com/tech/860616/insta360-link-2-2c-pro-face-tracking-webcam)
- - [Netflix CTO Elizabeth Stone and other execs discuss the challenges Netflix faces in streaming live events, after broadcasting 200+ live events since March 2023 &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260113/p16#a260113p16)
- - [IDC: in Q4 2025, global PC shipments rose nearly 10% YoY to 76.4M units, helped by Windows 10 end-of-support and OEMs pulling forward inventory amid tariffs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260113/p15#a260113p15)<!-- TECH:END -->
+ - [Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable](https://www.wired.com/review/urevo-spacewalk-5l-walking-pad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

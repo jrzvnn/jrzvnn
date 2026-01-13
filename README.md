@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 😝 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)
+ - 😝 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
  - 💣 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 😝 [From shelter life to living his best life](http://9gag.com/gag/aQzb60w)
- - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
+ - 😝 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
+ - 👉 [Happiness](http://9gag.com/gag/aGyvKLX)<!-- MEMES:END -->
 
 ---
 

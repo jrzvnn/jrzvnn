@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 💣 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
- - 😝 [I&#39;m never the first one there](http://9gag.com/gag/azxyg2N)
- - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
+ - 😝 [Everything done right!](http://9gag.com/gag/agm93Yw)
+ - 😝 [If you want to be happy for the rest of your life.](http://9gag.com/gag/azxy7Yp)
+ - 💣 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)
+ - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 ---
 

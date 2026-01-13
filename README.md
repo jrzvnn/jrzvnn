@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is retiring its Office Lens app on iOS and Android](https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement)
+ - [Everything You Need to Know About Importing a Chinese Smartphone](https://www.wired.com/story/tips-on-importing-a-chinese-smartphone/)
+ - [The 13 Best Nonalcoholic Drinks of 2026, Perfect for Dry January](https://www.cnet.com/health/nutrition/best-non-alcoholic-drinks/)
  - [Researchers at OpenAI, Anthropic, and others are studying LLMs like living things, not just software, to uncover some of their secrets for the first time &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260113/p5#a260113p5)
- - [A look at WhatsApp&#39;s enormous global reach and influence, and how the messaging app became the dominant platform for everyday conversation worldwide &lpar;Sam Knight/New Yorker&rpar;](http://www.techmeme.com/260113/p4#a260113p4)
- - [Hoka Coupon Codes: 10% Off | January 2026](https://www.wired.com/story/hoka-coupon-code/)
- - [50% Off Verizon Promo Codes | January 2026](https://www.wired.com/story/verizon-promo-code/)
- - [TurboTax Discount Codes | January 2026](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
+ - [A look at WhatsApp&#39;s enormous global reach and influence, and how the messaging app became the dominant platform for everyday conversation worldwide &lpar;Sam Knight/New Yorker&rpar;](http://www.techmeme.com/260113/p4#a260113p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dreame brings 8K video to compact action cameras](https://www.theverge.com/tech/861248/dreame-leaptic-cube-action-camera-8k-stabilization-ai)
+ - [Marvel won&amp;#8217;t let you forget Avengers: Doomsday is coming](https://www.theverge.com/entertainment/861185/marvel-studios-avengers-doomsday-countdown-teaser-black-panther-fantastic-four)
+ - [Austin-based webAI, which is building AI models that run locally on devices, raised &quot;high double-digit&quot; millions in a Series A at a $2.5B pre-money valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/260113/p27#a260113p27)
  - [Microsoft scrambles to quell fury around its new AI data centers](https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates)
- - [End-to-end encryption for RCS messages surfaces in iOS 26.3 beta](https://appleinsider.com/articles/26/01/13/end-to-end-encryption-for-rcs-messages-surfaces-in-ios-263-beta?utm_source=rss)
- - [Sources: CoinGecko, a prominent crypto market data and analytics company, is considering a sale at a ~$500M valuation, after starting the sales process in 2025 &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260113/p26#a260113p26)
- - [We tried CES 2026’s best and weirdest products, ask us anything!](https://www.theverge.com/tech/859914/the-verge-ces-2026-after-show-ama)
- - [Sources: Meta and EssilorLuxottica are discussing potentially doubling Ray-Ban Meta production to 20M+ units by the end of 2026 and possibly as high as 30M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p25#a260113p25)<!-- TECH:END -->
+ - [End-to-end encryption for RCS messages surfaces in iOS 26.3 beta](https://appleinsider.com/articles/26/01/13/end-to-end-encryption-for-rcs-messages-surfaces-in-ios-263-beta?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

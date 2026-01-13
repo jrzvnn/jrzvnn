@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Proxima, which uses AI to design drugs that control protein interactions, raised an $80M seed led by DCVC, with participation from Nvidia and others &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260113/p13#a260113p13)
- - [Apple Santa Rosa Plaza to move to larger location -- again](https://appleinsider.com/articles/26/01/13/apple-santa-rosa-plaza-to-move-to-larger-location----again?utm_source=rss)
- - [Sources: OpenAI plans a 60-second Super Bowl ad during NBC&#39;s broadcast, the second straight year of doing so; ad buyers say clients pay $8M+ for just 30 seconds &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260113/p12#a260113p12)
- - [Board Review: Tabletop Video Games With Physical Pieces](https://www.wired.com/review/board-tabletop-game-console/)
- - [Time&#39;s Running Out to Grab the Speedy Apple M4 Mac Mini While It&#39;s $99 Off](https://www.cnet.com/deals/apple-m4-mac-mini-testimonial/)<!-- TECH:END -->
+ - [Salesforce makes Slack&#39;s new AI-powered Slackbot generally available, helping users answer workflow questions, draft documents, schedule meetings, and more &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/260113/p17#a260113p17)
+ - [Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable](https://www.wired.com/review/urevo-spacewalk-5l-walking-pad/)
+ - [Insta360’s face-tracking webcams get bigger sensors and more expensive](https://www.theverge.com/tech/860616/insta360-link-2-2c-pro-face-tracking-webcam)
+ - [Netflix CTO Elizabeth Stone and other execs discuss the challenges Netflix faces in streaming live events, after broadcasting 200+ live events since March 2023 &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260113/p16#a260113p16)
+ - [IDC: in Q4 2025, global PC shipments rose nearly 10% YoY to 76.4M units, helped by Windows 10 end-of-support and OEMs pulling forward inventory amid tariffs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260113/p15#a260113p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

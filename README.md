@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - 😝 [Directed by Robert B. Weide](http://9gag.com/gag/a4P8eq1)
- - 💣 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 😝 [And it keeps making billions...](http://9gag.com/gag/aO8EK93)
  - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
+ - 💣 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
+ - 😝 [Watch a Master do his craft](http://9gag.com/gag/aoyomY0)
+ - 👉 [Happiness](http://9gag.com/gag/aGyvKLX)<!-- MEMES:END -->
 
 ---
 

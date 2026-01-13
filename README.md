@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
- - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 💣 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
- - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
+ - 😝 [Press F for respect.](http://9gag.com/gag/azxz6yK)
+ - 😝 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
+ - 💣 [Driverless delivery vans have become a total meme](http://9gag.com/gag/aPA0OLK)
+ - 😝 [Are we there yet?](http://9gag.com/gag/a9yeQ8j)
+ - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 ---
 

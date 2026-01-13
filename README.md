@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 😝 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
+ - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
  - 💣 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 😝 [From shelter life to living his best life](http://9gag.com/gag/aQzb60w)
- - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
+ - 😝 [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)
+ - 👉 [Cool guy](http://9gag.com/gag/a4P8eAd)<!-- MEMES:END -->
 
 ---
 

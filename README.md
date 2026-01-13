@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Bone Temple turns 28 Years Later into a terrifying crisis of faith](https://www.theverge.com/entertainment/859756/28-years-later-the-bone-temple-review)
+ - [Pixelmator is dead, long live Pixelmator Pro](https://appleinsider.com/articles/26/01/13/pixelmator-is-dead-long-live-pixelmator-pro?utm_source=rss)
  - [Senate passes a bill that would let nonconsensual deepfake victims sue](https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Anthropic shakes up its C-suite; chief product officer Mike Krieger will become the co-lead of its Labs incubator; head of product Ami Vora will become CPO &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260113/p41#a260113p41)
- - [AirPods Pro 3 just got a new firmware update](https://appleinsider.com/articles/26/01/13/airpods-pro-3-just-got-a-new-firmware-update?utm_source=rss)
- - [Anthropic shakes up C-suite to expand its internal incubator](https://www.theverge.com/ai-artificial-intelligence/861475/anthropic-ai-c-suite-internal-incubator-labs-team-mike-krieger)<!-- TECH:END -->
+ - [Anthropic shakes up its C-suite; chief product officer Mike Krieger will become the co-lead of its Labs incubator; head of product Ami Vora will become CPO &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260113/p41#a260113p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

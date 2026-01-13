@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He will be remembered](http://9gag.com/gag/aKGybZ6)
- - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - 💣 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
- - 😝 [From shelter life to living his best life](http://9gag.com/gag/aQzb60w)
- - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
+ - 😝 [British Humour: No Laugh Track Required &lpar;not amurican humor&rpar;](http://9gag.com/gag/a2vgzYY)
+ - 😝 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
+ - 💣 [Watch a Master do his craft](http://9gag.com/gag/aoyomY0)
+ - 😝 [Happiness](http://9gag.com/gag/aGyvKLX)
+ - 👉 [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)<!-- MEMES:END -->
 
 ---
 

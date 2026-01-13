@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Warhammer maker Games Workshop says it banned its staff from using AI in its content or designs and it is taking a &quot;very cautious&quot; approach to protect its IP &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/260113/p10#a260113p10)
+ - [Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration](https://www.wired.com/story/the-big-interview-podcast-reid-hoffman/)
+ - [Atonemo Streamplayer Review: Make Old Speakers New Again](https://www.wired.com/review/atonemo-streamplayer/)
  - [Sources: Google will start developing and making high-end Pixel phones like the Pro and Fold from scratch in Vietnam in 2026; the Pixel A remains in China &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/260113/p9#a260113p9)
- - [A profile of Eric Migicovsky&#39;s Core Devices, a five-person company that he says is &quot;not a startup&quot; and aims to be &quot;sustainable&quot;, as it builds new Pebble devices &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260113/p8#a260113p8)
- - [Trump Declared a Space Race With China. The US Is Losing](https://www.wired.com/story/china-us-moon-race-trump-losing/)
- - [PJM, the nonprofit operator for a 13-state power grid across the US, expects 4.8% average annual power growth over the next decade driven by the AI boom &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260113/p7#a260113p7)
- - [The US House passes a bipartisan bill to expand US export controls to restrict Chinese companies&#39; remote access to US AI chips from data centers outside China &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260113/p6#a260113p6)<!-- TECH:END -->
+ - [A profile of Eric Migicovsky&#39;s Core Devices, a five-person company that he says is &quot;not a startup&quot; and aims to be &quot;sustainable&quot;, as it builds new Pebble devices &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260113/p8#a260113p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

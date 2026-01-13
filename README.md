@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon gets FCC permission to end 60-day phone unlocking rule](https://www.theverge.com/news/861349/verizon-fcc-phone-unlocking-60-day-requirement-waived)
- - [A look at Confer, an open-source AI assistant project from Signal creator Moxie Marlinspike that is designed to provide end-to-end encryption for AI chats &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260113/p35#a260113p35)
- - [Nissan is one of the first carmakers to offer magnetic phone chargers in the US](https://www.theverge.com/tech/861260/nissan-wireless-charger-2026-murano-pathfinder-qi2-magnetic)
- - [Mercedes temporarily scraps its Level 3 ‘eyes-off’ driving feature](https://www.theverge.com/transportation/860935/mercedes-drive-pilot-level-3-scrapped)
- - [Google makes improvements to Veo 3.1&#39;s Ingredients to Video feature to make videos more expressive, and adds native vertical video generation and 4K upscaling &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260113/p34#a260113p34)<!-- TECH:END -->
+ - [China’s Hottest App Is a Daily Test of Whether You&#39;re Still Alive](https://www.wired.com/story/china-are-you-dead-yet-app/)
+ - [The US Senate passes the Defiance Act that would allow victims to sue over nonconsensual, sexually explicit AI-generated images, amid furor over Grok images &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p38#a260113p38)
+ - [The US FCC waives a rule that forced Verizon to unlock phones 60 days after they are activated, which could make it harder for people to switch from Verizon &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260113/p37#a260113p37)
+ - [Taiwan issues an arrest warrant for OnePlus CEO Pete Lau for allegedly illegally hiring 70+ Taiwanese engineers, as it tries to stop China from raiding workers &lpar;Li Liu/Bloomberg&rpar;](http://www.techmeme.com/260113/p36#a260113p36)
+ - [Apple Vision Pro could gain an Apple Pencil-like controller](https://appleinsider.com/articles/24/01/11/vision-pro-could-gain-an-apple-pencil-like-controller?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

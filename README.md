@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - 😝 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
- - 💣 [Oops...](http://9gag.com/gag/agm93QW)
- - 😝 [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
- - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
+ - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 😝 [Oops...](http://9gag.com/gag/agm93QW)
+ - 💣 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 👉 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)<!-- MEMES:END -->
 
 ---
 

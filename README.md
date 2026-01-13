@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)
+ - [B&amp;H Photo Promo Codes and Deals This January](https://www.wired.com/story/bh-photo-coupon/)
+ - [Design Within Reach Promo Codes: 30% Off | January 2026](https://www.wired.com/story/design-within-reach-promo-code/)
  - [Microsoft warns Chinese companies, especially DeepSeek, are winning AI adoption outside the West, gaining significant market share in the Global South &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260113/p3#a260113p3)
- - [20% Off LG Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/lg-promo-code/)
- - [AirDoctor Coupon Codes: 40% Off | January 2026](https://www.wired.com/story/airdoctor-coupon-code/)
- - [Nomad Goods Promo Codes: 25% Off | January 2026](https://www.wired.com/story/nomad-discount-code/)
- - [The NYC token, launched by ex-New York City Mayor Eric Adams on January 12, saw its market cap drop from ~$600M to ~$100M after suspicious liquidity activity &lpar;Decrypt&rpar;](http://www.techmeme.com/260113/p2#a260113p2)<!-- TECH:END -->
+ - [20% Off LG Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

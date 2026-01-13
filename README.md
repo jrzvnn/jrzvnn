@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
+ - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 😝 [Directed by Robert B. Weide](http://9gag.com/gag/a4P8eq1)
+ - 💣 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
  - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 💣 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
- - 😝 [Happiness](http://9gag.com/gag/aGyvKLX)
- - 👉 [Watch a Master do his craft](http://9gag.com/gag/aoyomY0)<!-- MEMES:END -->
+ - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
 
 ---
 

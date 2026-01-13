@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 💣 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
- - 😝 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
- - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
+ - 😝 [POV- Realizing on the way home that was NOT a normal brownie.](http://9gag.com/gag/aAy7nzR)
+ - 😝 [Press F for respect.](http://9gag.com/gag/azxz6yK)
+ - 💣 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
+ - 😝 [Are we there yet?](http://9gag.com/gag/a9yeQ8j)
+ - 👉 [Without.....](http://9gag.com/gag/an73pMn)<!-- MEMES:END -->
 
 ---
 

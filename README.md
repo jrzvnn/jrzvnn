@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with Spotify founder Daniel Ek on his CEO exit, and new co-CEOs Gustav Söderström and Alex Norström, who face algorithmic fatigue and angry artists &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260113/p11#a260113p11)
- - [Warhammer maker Games Workshop says it banned its staff from using AI in its content or designs and it is taking a &quot;very cautious&quot; approach to protect its IP &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/260113/p10#a260113p10)
- - [Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration](https://www.wired.com/story/the-big-interview-podcast-reid-hoffman/)
- - [Atonemo Streamplayer Review: Make Old Speakers New Again](https://www.wired.com/review/atonemo-streamplayer/)
- - [Sources: Google will start developing and making high-end Pixel phones like the Pro and Fold from scratch in Vietnam in 2026; the Pixel A remains in China &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/260113/p9#a260113p9)<!-- TECH:END -->
+ - [NYC-based Proxima, which uses AI to design drugs that control protein interactions, raised an $80M seed led by DCVC, with participation from Nvidia and others &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260113/p13#a260113p13)
+ - [Apple Santa Rosa Plaza to move to larger location -- again](https://appleinsider.com/articles/26/01/13/apple-santa-rosa-plaza-to-move-to-larger-location----again?utm_source=rss)
+ - [Sources: OpenAI plans a 60-second Super Bowl ad during NBC&#39;s broadcast, the second straight year of doing so; ad buyers say clients pay $8M+ for just 30 seconds &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260113/p12#a260113p12)
+ - [Board Review: Tabletop Video Games With Physical Pieces](https://www.wired.com/review/board-tabletop-game-console/)
+ - [Time&#39;s Running Out to Grab the Speedy Apple M4 Mac Mini While It&#39;s $99 Off](https://www.cnet.com/deals/apple-m4-mac-mini-testimonial/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

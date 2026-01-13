@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Confer, an open-source AI assistant project from Signal creator Moxie Marlinspike that is designed to provide end-to-end encryption for AI chats &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260113/p35#a260113p35)
+ - [Nissan is one of the first carmakers to offer magnetic phone chargers in the US](https://www.theverge.com/tech/861260/nissan-wireless-charger-2026-murano-pathfinder-qi2-magnetic)
+ - [Mercedes temporarily scraps its Level 3 ‘eyes-off’ driving feature](https://www.theverge.com/transportation/860935/mercedes-drive-pilot-level-3-scrapped)
  - [Google makes improvements to Veo 3.1&#39;s Ingredients to Video feature to make videos more expressive, and adds native vertical video generation and 4K upscaling &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260113/p34#a260113p34)
- - [Apple Creator Studio is a boon and a bargain -- but is far from being for everyone](https://appleinsider.com/articles/26/01/13/apple-creator-studio-is-a-boon-and-a-bargain----but-is-far-from-being-for-everyone?utm_source=rss)
- - [Google’s Veo now turns portrait images into vertical AI videos](https://www.theverge.com/news/861257/google-veo-3-1-ai-video-ingredients-vertical-update)
- - [Meta confirms Reality Labs layoffs and shifts to invest more in wearables](https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables)
- - [Ming-Chi Kuo: Apple will get serious about AI server chips in 2026](https://appleinsider.com/articles/26/01/13/ming-chi-kuo-apple-will-get-serious-about-ai-server-chips-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [Apple Creator Studio is a boon and a bargain -- but is far from being for everyone](https://appleinsider.com/articles/26/01/13/apple-creator-studio-is-a-boon-and-a-bargain----but-is-far-from-being-for-everyone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 💣 [This is normal to them. It will become normal for you.](http://9gag.com/gag/a9ywjEm)
- - 😝 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
- - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
+ - 😝 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
+ - 💣 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)
+ - 😝 [Watch a Master do his craft](http://9gag.com/gag/aoyomY0)
+ - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
 
 ---
 

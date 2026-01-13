@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flip, which offers an Alexa-like voice AI experience for businesses, raised a $20M Series A, bringing its total funding to $31M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260113/p31#a260113p31)
- - [Gov. Gavin Newsom has engaged in months of negotiations to neutralize a proposed California wealth tax ballot initiative; a compromise does not appear imminent &lpar;Politico&rpar;](http://www.techmeme.com/260113/p30#a260113p30)
- - [Former NYC Mayor Eric Adams accused of $2.5 million crypto ‘rug pull’ as his NYC Token crashes](https://www.theverge.com/news/861269/former-nyc-mayor-eric-adams-accused-of-2-5-million-crypto-rug-pull-as-his-nyc-token-crashes)
- - [Onebrief, which makes AI-powered military workflow software, raised a $200M Series D, nearly doubling its valuation from $1.1B to $2.1B in about half of a year &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/260113/p29#a260113p29)
- - [CrowdStrike acquires Israel-based browser security startup Seraphic, a source says for around $400M; Seraphic has raised around $37M in total &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260113/p28#a260113p28)<!-- TECH:END -->
+ - [Ming-Chi Kuo: Apple will get serious about AI server chips in 2026](https://appleinsider.com/articles/26/01/13/ming-chi-kuo-apple-will-get-serious-about-ai-server-chips-in-2026?utm_source=rss)
+ - [Dozens of ICE Vehicles in Minnesota Lack ‘Necessary’ Lights and Sirens](https://www.wired.com/story/dozens-of-ice-vehicles-in-minnesota-lack-necessary-lights-and-sirens/)
+ - [Sources: India asked quick commerce companies to drop their 10-minute delivery promise due to concerns about rider safety; Blinkit already removed the assurance &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p33#a260113p33)
+ - [&#39;Monarch: Legacy of Monsters&#39; season two release date set for late February](https://appleinsider.com/articles/26/01/13/monarch-legacy-of-monsters-season-two-release-date-set-for-late-february?utm_source=rss)
+ - [Remarkable’s pricey Paper Pro is hundreds off with refurbished deals](https://www.theverge.com/gadgets/861182/remarkable-paper-pro-refurbished-switch-2-case-ps5-lg-b5-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

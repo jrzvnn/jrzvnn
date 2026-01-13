@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump renominates Sean Plankey to be the next director of CISA, which has been running without a full-time chief since Trump&#39;s return to office &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260113/p48#a260113p48)
+ - [WeatherTech founder might be the newest US consumer protection official](https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission)
+ - [As part of its Reality Labs cuts, Meta is closing three VR gaming studios and will stop developing new content and features for its VR fitness app Supernatural &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260113/p47#a260113p47)
  - [Sources: AI chipmaker Cerebras is in talks to raise ~$1B, valuing the startup at $22B before the new investment, up from an $8.1B valuation in September 2025 &lpar;The Information&rpar;](http://www.techmeme.com/260113/p46#a260113p46)
- - [Filing: the US greenlights Nvidia H200 exports to China; the chips will be tested by a 3rd-party lab to confirm their AI capabilities before they can be shipped &lpar;Reuters&rpar;](http://www.techmeme.com/260113/p45#a260113p45)
- - [Polygon buys crypto startups Coinme and Sequence for a total of $250M+, as it seeks to bolster its stablecoin and fintech infrastructure and compete with Stripe &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260113/p44#a260113p44)
- - [Live TV Streaming Channel Showdown: Sling, YouTube TV and More Compared](https://www.cnet.com/tech/services-and-software/youtubetv-hulu-live-fubo-slingtv-directv-channels-compared/)
- - [Sources: Amazon is seeking supplier discounts, from low single digits to 30%, as it moves to reverse concessions made to limit the shock of Trump&#39;s tariffs &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260113/p43#a260113p43)<!-- TECH:END -->
+ - [Filing: the US greenlights Nvidia H200 exports to China; the chips will be tested by a 3rd-party lab to confirm their AI capabilities before they can be shipped &lpar;Reuters&rpar;](http://www.techmeme.com/260113/p45#a260113p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Creator Studio brings new apps, features, and subscription pricing to Mac and iPad](https://appleinsider.com/articles/26/01/13/apple-creator-studio-brings-new-apps-features-and-subscription-pricing-to-mac-and-ipad?utm_source=rss)
- - [What Apple and Google’s Gemini deal means for both companies](https://www.theverge.com/ai-artificial-intelligence/860989/apple-google-gemini-siri-ai-deal-what-it-means)
- - [Apple unveils Apple Creator Studio, a &quot;groundbreaking collection&quot; of creative apps like Final Cut, Logic Pro, and Pixelmator Pro for $12.99/month or $129/year &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/260113/p23#a260113p23)
- - [Meta confirms it is laying off Reality Labs staff and will &quot;reinvest the savings&quot; in wearables; CTO Andrew Bosworth says 1,000+ staff will be notified Tuesday &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260113/p22#a260113p22)
- - [You can&#39;t read much into Mac sales shipment data, but IDC keeps trying](https://appleinsider.com/articles/26/01/13/you-cant-read-much-into-mac-sales-shipment-data-but-idc-keeps-trying?utm_source=rss)<!-- TECH:END -->
+ - [We tried CES 2026’s best and weirdest products, ask us anything!](https://www.theverge.com/tech/859914/the-verge-ces-2026-after-show-ama)
+ - [Sources: Meta and EssilorLuxottica are discussing potentially doubling Ray-Ban Meta production to 20M+ units by the end of 2026 and possibly as high as 30M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p25#a260113p25)
+ - [Pixelmator Pro isn&#39;t dead, and is coming to iPad](https://appleinsider.com/articles/26/01/13/pixelmator-pro-isnt-dead-and-is-coming-to-ipad?utm_source=rss)
+ - [Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill](https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/)
+ - [Sources: carmakers find a workaround for chip shortages amid Nexperia&#39;s internal battle, buying wafers from its Dutch arm and then shipping themselves to China &lpar;Financial Times&rpar;](http://www.techmeme.com/260113/p24#a260113p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

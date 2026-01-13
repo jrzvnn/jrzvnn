@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic shakes up C-suite to expand its internal incubator](https://www.theverge.com/ai-artificial-intelligence/861475/anthropic-ai-c-suite-internal-incubator-labs-team-mike-krieger)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Roblox&#39;s AI-powered age verification system, which expanded globally last week using tech from a company called Persona, faces criticism for misidentifying ages &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/260113/p40#a260113p40)
- - [RFK Jr.’s new food pyramid could be a disaster for the environment — if Americans actually follow it](https://www.theverge.com/report/861326/meat-food-pyramid-protein-nutrition-guideline-climate-beef-whole-milk-tallow)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-13/)<!-- TECH:END -->
+ - [Senate passes a bill that would let nonconsensual deepfake victims sue](https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Anthropic shakes up its C-suite; chief product officer Mike Krieger will become the co-lead of its Labs incubator; head of product Ami Vora will become CPO &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260113/p41#a260113p41)
+ - [AirPods Pro 3 just got a new firmware update](https://appleinsider.com/articles/26/01/13/airpods-pro-3-just-got-a-new-firmware-update?utm_source=rss)
+ - [Anthropic shakes up C-suite to expand its internal incubator](https://www.theverge.com/ai-artificial-intelligence/861475/anthropic-ai-c-suite-internal-incubator-labs-team-mike-krieger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

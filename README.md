@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driverless delivery vans have become a total meme](http://9gag.com/gag/aPA0OLK)
- - 😝 [Are we there yet?](http://9gag.com/gag/a9yeQ8j)
- - 💣 [Happiness](http://9gag.com/gag/aGyvKLX)
- - 😝 [Without.....](http://9gag.com/gag/an73pMn)
- - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
+ - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
+ - 💣 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
+ - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
 
 ---
 

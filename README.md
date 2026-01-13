@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold.](http://9gag.com/gag/aKGyrN1)
- - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 😝 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
- - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
+ - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
+ - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 💣 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
+ - 😝 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
+ - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
 
 ---
 

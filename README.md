@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with Spotify founder Daniel Ek on his CEO exit, and new co-CEOs Gustav Söderström and Alex Norström, who face algorithmic fatigue and angry artists &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260113/p11#a260113p11)
  - [Warhammer maker Games Workshop says it banned its staff from using AI in its content or designs and it is taking a &quot;very cautious&quot; approach to protect its IP &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/260113/p10#a260113p10)
  - [Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration](https://www.wired.com/story/the-big-interview-podcast-reid-hoffman/)
  - [Atonemo Streamplayer Review: Make Old Speakers New Again](https://www.wired.com/review/atonemo-streamplayer/)
- - [Sources: Google will start developing and making high-end Pixel phones like the Pro and Fold from scratch in Vietnam in 2026; the Pixel A remains in China &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/260113/p9#a260113p9)
- - [A profile of Eric Migicovsky&#39;s Core Devices, a five-person company that he says is &quot;not a startup&quot; and aims to be &quot;sustainable&quot;, as it builds new Pebble devices &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260113/p8#a260113p8)<!-- TECH:END -->
+ - [Sources: Google will start developing and making high-end Pixel phones like the Pro and Fold from scratch in Vietnam in 2026; the Pixel A remains in China &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/260113/p9#a260113p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

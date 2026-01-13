@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 😝 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
- - 💣 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 😝 [The best way to leave](http://9gag.com/gag/aryEvVK)
+ - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 💣 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
+ - 😝 [I&#39;m never the first one there](http://9gag.com/gag/azxyg2N)
  - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
 
 ---

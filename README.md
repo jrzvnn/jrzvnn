@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Pick up Apple&#39;s MacBook Air at up to $600 off, with prices as low as $599](https://appleinsider.com/articles/26/01/13/pick-up-apples-macbook-air-at-up-to-600-off-with-prices-as-low-as-599?utm_source=rss)
  - [Everything Is Content for the ‘Clicktatorship’](https://www.wired.com/story/everything-is-content-for-the-clicktatorship/)
  - [Roblox’s AI-Powered Age Verification Is a Complete Mess](https://www.wired.com/story/robloxs-ai-powered-age-verification-is-a-complete-mess/)
- - [Meta’s metaverse layoffs apparently include some of its VR studios](https://www.theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature)
+ - [Meta is closing down three VR studios as part of its metaverse cuts](https://www.theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature)
  - [Mercedes pauses the rollout of Drive Pilot, a Level 3 &quot;eyes off&quot; driving feature available in Europe and the US, citing low demand and high production costs &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260113/p39#a260113p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

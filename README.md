@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First Apple Immersive NBA Lakers game available for free viewing on Apple Vision Pro](https://appleinsider.com/articles/26/01/13/first-apple-immersive-nba-lakers-game-available-for-free-viewing-on-apple-vision-pro?utm_source=rss)
+ - [The Fight on Capitol Hill to Make It Easier to Fix Your Car](https://www.wired.com/story/repair-act-us-house-legislation-right-to-repair-your-car/)
+ - [Source details how Apple&#39;s Gemini deal works: new Siri features launching in spring and at WWDC, Apple can finetune Gemini, no Google branding, and more &lpar;The Information&rpar;](http://www.techmeme.com/260113/p52#a260113p52)
  - [Under new licensing requirements, the US Commerce Department says exports of Nvidia&#39;s H200 chips and AMD&#39;s MI325X chips will be reviewed on a case-by-case basis &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p51#a260113p51)
- - [Why the White House keeps shitposting](https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting)
- - [Liftoff, which helps companies place ads in mobile apps, files for a US IPO, reporting a $25.6M net loss on $491.6M in revenue in the nine months up to Sept. 30 &lpar;Natalia Kniazhevich/Bloomberg&rpar;](http://www.techmeme.com/260113/p50#a260113p50)
- - [Google announces MedGemma 1.5 with improved medical imaging support, and MedASR for medical dictation, both available on Hugging Face and Vertex AI &lpar;Google Research&rpar;](http://www.techmeme.com/260113/p49#a260113p49)
- - [President Trump renominates Sean Plankey to be the next director of CISA, which has been running without a full-time chief since Trump&#39;s return to office &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260113/p48#a260113p48)<!-- TECH:END -->
+ - [Inside the White House shitposting machine](https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

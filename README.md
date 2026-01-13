@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driverless delivery vans have become a total meme](http://9gag.com/gag/aPA0OLK)
- - 😝 [Are we there yet?](http://9gag.com/gag/a9yeQ8j)
- - 💣 [Without.....](http://9gag.com/gag/an73pMn)
- - 😝 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
- - 👉 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)<!-- MEMES:END -->
+ - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 😝 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
+ - 💣 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 😝 [From shelter life to living his best life](http://9gag.com/gag/aQzb60w)
+ - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
  - 😝 [He will be remembered](http://9gag.com/gag/aKGybZ6)
- - 💣 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 💣 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
+ - 😝 [From shelter life to living his best life](http://9gag.com/gag/aQzb60w)
  - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
 
 ---

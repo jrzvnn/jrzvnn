@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 💣 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
- - 😝 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
- - 👉 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)<!-- MEMES:END -->
+ - 😝 [Driverless delivery vans have become a total meme](http://9gag.com/gag/aPA0OLK)
+ - 😝 [Are we there yet?](http://9gag.com/gag/a9yeQ8j)
+ - 💣 [Happiness](http://9gag.com/gag/aGyvKLX)
+ - 😝 [Without.....](http://9gag.com/gag/an73pMn)
+ - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 ---
 

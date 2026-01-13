@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic shakes up C-suite to expand its internal incubator](https://www.theverge.com/ai-artificial-intelligence/861475/anthropic-ai-c-suite-internal-incubator-labs-team-mike-krieger)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [Roblox&#39;s AI-powered age verification system, which expanded globally last week using tech from a company called Persona, faces criticism for misidentifying ages &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/260113/p40#a260113p40)
  - [RFK Jr.’s new food pyramid could be a disaster for the environment — if Americans actually follow it](https://www.theverge.com/report/861326/meat-food-pyramid-protein-nutrition-guideline-climate-beef-whole-milk-tallow)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-13/)
- - [Prime Video: The 16 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-prime-video/)
- - [Pick up Apple&#39;s MacBook Air at up to $600 off, with prices as low as $599](https://appleinsider.com/articles/26/01/13/pick-up-apples-macbook-air-at-up-to-600-off-with-prices-as-low-as-599?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-13/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And it keeps making billions...](http://9gag.com/gag/aO8EK93)
- - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 💣 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
- - 😝 [Watch a Master do his craft](http://9gag.com/gag/aoyomY0)
- - 👉 [Happiness](http://9gag.com/gag/aGyvKLX)<!-- MEMES:END -->
+ - 😝 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
+ - 😝 [He will be remembered](http://9gag.com/gag/aKGybZ6)
+ - 💣 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Under new licensing requirements, the US Commerce Department says exports of Nvidia&#39;s H200 chips and AMD&#39;s MI325X chips will be reviewed on a case-by-case basis &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p51#a260113p51)
  - [Why the White House keeps shitposting](https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting)
  - [Liftoff, which helps companies place ads in mobile apps, files for a US IPO, reporting a $25.6M net loss on $491.6M in revenue in the nine months up to Sept. 30 &lpar;Natalia Kniazhevich/Bloomberg&rpar;](http://www.techmeme.com/260113/p50#a260113p50)
  - [Google announces MedGemma 1.5 with improved medical imaging support, and MedASR for medical dictation, both available on Hugging Face and Vertex AI &lpar;Google Research&rpar;](http://www.techmeme.com/260113/p49#a260113p49)
- - [President Trump renominates Sean Plankey to be the next director of CISA, which has been running without a full-time chief since Trump&#39;s return to office &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260113/p48#a260113p48)
- - [WeatherTech founder might be the newest US consumer protection official](https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission)<!-- TECH:END -->
+ - [President Trump renominates Sean Plankey to be the next director of CISA, which has been running without a full-time chief since Trump&#39;s return to office &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260113/p48#a260113p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

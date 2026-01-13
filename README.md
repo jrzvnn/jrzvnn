@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft scrambles to quell fury around its new AI data centers](https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates)
+ - [End-to-end encryption for RCS messages surfaces in iOS 26.3 beta](https://appleinsider.com/articles/26/01/13/end-to-end-encryption-for-rcs-messages-surfaces-in-ios-263-beta?utm_source=rss)
+ - [Sources: CoinGecko, a prominent crypto market data and analytics company, is considering a sale at a ~$500M valuation, after starting the sales process in 2025 &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260113/p26#a260113p26)
  - [We tried CES 2026’s best and weirdest products, ask us anything!](https://www.theverge.com/tech/859914/the-verge-ces-2026-after-show-ama)
- - [Sources: Meta and EssilorLuxottica are discussing potentially doubling Ray-Ban Meta production to 20M+ units by the end of 2026 and possibly as high as 30M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p25#a260113p25)
- - [Pixelmator Pro isn&#39;t dead, and is coming to iPad](https://appleinsider.com/articles/26/01/13/pixelmator-pro-isnt-dead-and-is-coming-to-ipad?utm_source=rss)
- - [Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill](https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/)
- - [Sources: carmakers find a workaround for chip shortages amid Nexperia&#39;s internal battle, buying wafers from its Dutch arm and then shipping themselves to China &lpar;Financial Times&rpar;](http://www.techmeme.com/260113/p24#a260113p24)<!-- TECH:END -->
+ - [Sources: Meta and EssilorLuxottica are discussing potentially doubling Ray-Ban Meta production to 20M+ units by the end of 2026 and possibly as high as 30M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p25#a260113p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

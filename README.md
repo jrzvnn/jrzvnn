@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft changes its data center approach, pledging to pay its power costs, reject tax breaks, and replenish more water than it uses, amid local opposition &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260113/p19#a260113p19)
- - [&#39;Are You Dead?&#39; iOS app helps lonely people stay safe in China](https://appleinsider.com/articles/26/01/13/are-you-dead-ios-app-helps-lonely-people-stay-safe-in-china?utm_source=rss)
- - [Crypto scams received $14B+ on-chain in 2025, up from 2024&#39;s $12B and potentially rising to $17B+ as more wallets are found; impersonation scams jumped 1,400% &lpar;Chainalysis&rpar;](http://www.techmeme.com/260113/p18#a260113p18)
- - [Salesforce makes Slack&#39;s new AI-powered Slackbot generally available, helping users answer workflow questions, draft documents, schedule meetings, and more &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/260113/p17#a260113p17)
- - [Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable](https://www.wired.com/review/urevo-spacewalk-5l-walking-pad/)<!-- TECH:END -->
+ - [You can&#39;t read much into Mac sales shipment data, but IDC keeps trying](https://appleinsider.com/articles/26/01/13/you-cant-read-much-into-mac-sales-shipment-data-but-idc-keeps-trying?utm_source=rss)
+ - [Latin American VC funding rose 14.3% YoY in 2025 to $4.1B, with early-stage investment up 31.9% YoY to nearly $2B and late-stage/growth deals reaching $1.63B &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260113/p21#a260113p21)
+ - [Deepgram, which is building enterprise voice-recognition tech, raised a $130M Series C led by AVP at a $1.3B valuation, taking its total funding to $215M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260113/p20#a260113p20)
+ - [How Lego’s Smart Brick works](https://www.theverge.com/podcast/861148/lego-smart-brick-claude-code-vergecast)
+ - [Microsoft changes its data center approach, pledging to pay its power costs, reject tax breaks, and replenish more water than it uses, amid local opposition &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260113/p19#a260113p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

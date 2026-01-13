@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Without.....](http://9gag.com/gag/an73pMn)
  - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 😝 [From shelter life to living his best life](http://9gag.com/gag/aQzb60w)
- - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
+ - 💣 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)
+ - 😝 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
+ - 👉 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)<!-- MEMES:END -->
 
 ---
 

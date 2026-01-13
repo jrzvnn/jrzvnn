@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why the White House keeps shitposting](https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting)
+ - [Liftoff, which helps companies place ads in mobile apps, files for a US IPO, reporting a $25.6M net loss on $491.6M in revenue in the nine months up to Sept. 30 &lpar;Natalia Kniazhevich/Bloomberg&rpar;](http://www.techmeme.com/260113/p50#a260113p50)
  - [Google announces MedGemma 1.5 with improved medical imaging support, and MedASR for medical dictation, both available on Hugging Face and Vertex AI &lpar;Google Research&rpar;](http://www.techmeme.com/260113/p49#a260113p49)
  - [President Trump renominates Sean Plankey to be the next director of CISA, which has been running without a full-time chief since Trump&#39;s return to office &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260113/p48#a260113p48)
- - [WeatherTech founder might be the newest US consumer protection official](https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission)
- - [As part of its Reality Labs cuts, Meta is closing three VR gaming studios and will stop developing new content and features for its VR fitness app Supernatural &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260113/p47#a260113p47)
- - [Sources: AI chipmaker Cerebras is in talks to raise ~$1B, valuing the startup at $22B before the new investment, up from an $8.1B valuation in September 2025 &lpar;The Information&rpar;](http://www.techmeme.com/260113/p46#a260113p46)<!-- TECH:END -->
+ - [WeatherTech founder might be the newest US consumer protection official](https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

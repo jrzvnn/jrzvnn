@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at WhatsApp&#39;s enormous global reach and influence, and how the messaging app became the dominant platform for everyday conversation worldwide &lpar;Sam Knight/New Yorker&rpar;](http://www.techmeme.com/260113/p4#a260113p4)
+ - [TurboTax Discount Codes | January 2026](https://www.wired.com/story/turbotax-coupon/)
+ - [Walmart Promo Codes and Coupons: Up to 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)
  - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)
- - [B&amp;H Photo Promo Codes and Deals This January](https://www.wired.com/story/bh-photo-coupon/)
- - [Design Within Reach Promo Codes: 30% Off | January 2026](https://www.wired.com/story/design-within-reach-promo-code/)
- - [Microsoft warns Chinese companies, especially DeepSeek, are winning AI adoption outside the West, gaining significant market share in the Global South &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260113/p3#a260113p3)
- - [20% Off LG Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [B&amp;H Photo Promo Codes and Deals This January](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

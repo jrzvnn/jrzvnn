@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pick up Apple&#39;s MacBook Air at up to $600 off, with prices as low as $599](https://appleinsider.com/articles/26/01/13/pick-up-apples-macbook-air-at-up-to-600-off-with-prices-as-low-as-599?utm_source=rss)
+ - [Everything Is Content for the ‘Clicktatorship’](https://www.wired.com/story/everything-is-content-for-the-clicktatorship/)
+ - [Roblox’s AI-Powered Age Verification Is a Complete Mess](https://www.wired.com/story/robloxs-ai-powered-age-verification-is-a-complete-mess/)
  - [Meta’s metaverse layoffs apparently include some of its VR studios](https://www.theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature)
- - [Mercedes pauses the rollout of Drive Pilot, a Level 3 &quot;eyes off&quot; driving feature available in Europe and the US, citing low demand and high production costs &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260113/p39#a260113p39)
- - [Lego Smart Brick: watch an immersive 15-minute demo like you’re right there with us at CES](https://www.theverge.com/tech/861322/lego-smart-brick-vr-180-3d-video-demo-ces-2026)
- - [Shortcut Your System With a Discounted Elgato Stream Deck+](https://www.wired.com/story/elgato-streamdeck-plus-deal-126/)
- - [iOS 26.3 Could Support End-to-End Encrypted RCS Messaging on Your iPhone](https://www.cnet.com/tech/services-and-software/apple-iphone-ios-26-3-beta-features-rcs-messaging/)<!-- TECH:END -->
+ - [Mercedes pauses the rollout of Drive Pilot, a Level 3 &quot;eyes off&quot; driving feature available in Europe and the US, citing low demand and high production costs &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260113/p39#a260113p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

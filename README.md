@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PJM, the nonprofit operator for a 13-state power grid across the US, expects 4.8% average annual power growth over the next decade driven by the AI boom &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260113/p7#a260113p7)
  - [The US House passes a bipartisan bill to expand US export controls to restrict Chinese companies&#39; remote access to US AI chips from data centers outside China &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260113/p6#a260113p6)
  - [What to Do If ICE Invades Your Neighborhood](https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/)
  - [Best Baby Gear &lpar;2026&rpar;: Baby Monitors, Strollers, Crib Mattresses](https://www.wired.com/story/best-baby-gear-guide/)
- - [Microsoft is retiring its Office Lens app on iOS and Android](https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement)
- - [Everything You Need to Know About Importing a Chinese Smartphone](https://www.wired.com/story/tips-on-importing-a-chinese-smartphone/)<!-- TECH:END -->
+ - [Microsoft is retiring its Office Lens app on iOS and Android](https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

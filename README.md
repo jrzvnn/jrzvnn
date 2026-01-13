@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pick up Apple&#39;s MacBook Air at up to $600 off, with prices as low as $599](https://appleinsider.com/articles/26/01/13/pick-up-apples-macbook-air-at-up-to-600-off-with-prices-as-low-as-599?utm_source=rss)
- - [Everything Is Content for the ‘Clicktatorship’](https://www.wired.com/story/everything-is-content-for-the-clicktatorship/)
- - [Roblox’s AI-Powered Age Verification Is a Complete Mess](https://www.wired.com/story/robloxs-ai-powered-age-verification-is-a-complete-mess/)
- - [Meta is closing down three VR studios as part of its metaverse cuts](https://www.theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature)
- - [Mercedes pauses the rollout of Drive Pilot, a Level 3 &quot;eyes off&quot; driving feature available in Europe and the US, citing low demand and high production costs &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260113/p39#a260113p39)<!-- TECH:END -->
+ - [Roblox&#39;s AI-powered age verification system, which expanded globally last week using tech from a company called Persona, faces criticism for misidentifying ages &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/260113/p40#a260113p40)
+ - [RFK Jr.’s new food pyramid could be a disaster for the environment — if Americans actually follow it](https://www.theverge.com/report/861326/meat-food-pyramid-protein-nutrition-guideline-climate-beef-whole-milk-tallow)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-13/)
+ - [Prime Video: The 16 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-prime-video/)
+ - [Pick up Apple&#39;s MacBook Air at up to $600 off, with prices as low as $599](https://appleinsider.com/articles/26/01/13/pick-up-apples-macbook-air-at-up-to-600-off-with-prices-as-low-as-599?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

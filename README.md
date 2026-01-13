@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
  - 😝 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
- - 💣 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)
- - 😝 [Watch a Master do his craft](http://9gag.com/gag/aoyomY0)
+ - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 💣 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
+ - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
  - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
 
 ---

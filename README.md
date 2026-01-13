@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ming-Chi Kuo: Apple will get serious about AI server chips in 2026](https://appleinsider.com/articles/26/01/13/ming-chi-kuo-apple-will-get-serious-about-ai-server-chips-in-2026?utm_source=rss)
- - [Dozens of ICE Vehicles in Minnesota Lack ‘Necessary’ Lights and Sirens](https://www.wired.com/story/dozens-of-ice-vehicles-in-minnesota-lack-necessary-lights-and-sirens/)
- - [Sources: India asked quick commerce companies to drop their 10-minute delivery promise due to concerns about rider safety; Blinkit already removed the assurance &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p33#a260113p33)
- - [&#39;Monarch: Legacy of Monsters&#39; season two release date set for late February](https://appleinsider.com/articles/26/01/13/monarch-legacy-of-monsters-season-two-release-date-set-for-late-february?utm_source=rss)
- - [Remarkable’s pricey Paper Pro is hundreds off with refurbished deals](https://www.theverge.com/gadgets/861182/remarkable-paper-pro-refurbished-switch-2-case-ps5-lg-b5-deal-sale)<!-- TECH:END -->
+ - [Google makes improvements to Veo 3.1&#39;s Ingredients to Video feature to make videos more expressive, and adds native vertical video generation and 4K upscaling &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260113/p34#a260113p34)
+ - [Apple Creator Studio is a boon and a bargain -- but is far from being for everyone](https://appleinsider.com/articles/26/01/13/apple-creator-studio-is-a-boon-and-a-bargain----but-is-far-from-being-for-everyone?utm_source=rss)
+ - [Google’s Veo now turns portrait images into vertical AI videos](https://www.theverge.com/news/861257/google-veo-3-1-ai-video-ingredients-vertical-update)
+ - [Meta confirms Reality Labs layoffs and shifts to invest more in wearables](https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables)
+ - [Ming-Chi Kuo: Apple will get serious about AI server chips in 2026](https://appleinsider.com/articles/26/01/13/ming-chi-kuo-apple-will-get-serious-about-ai-server-chips-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

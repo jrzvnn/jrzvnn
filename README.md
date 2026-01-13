@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Press F for respect.](http://9gag.com/gag/azxz6yK)
- - 😝 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
- - 💣 [Are we there yet?](http://9gag.com/gag/a9yeQ8j)
- - 😝 [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)
- - 👉 [Driverless delivery vans have become a total meme](http://9gag.com/gag/aPA0OLK)<!-- MEMES:END -->
+ - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
+ - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 💣 [This is normal to them. It will become normal for you.](http://9gag.com/gag/a9ywjEm)
+ - 😝 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
+ - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: AI chipmaker Cerebras is in talks to raise ~$1B, valuing the startup at $22B before the new investment, up from an $8.1B valuation in September 2025 &lpar;The Information&rpar;](http://www.techmeme.com/260113/p46#a260113p46)
+ - [Filing: the US greenlights Nvidia H200 exports to China; the chips will be tested by a 3rd-party lab to confirm their AI capabilities before they can be shipped &lpar;Reuters&rpar;](http://www.techmeme.com/260113/p45#a260113p45)
  - [Polygon buys crypto startups Coinme and Sequence for a total of $250M+, as it seeks to bolster its stablecoin and fintech infrastructure and compete with Stripe &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260113/p44#a260113p44)
- - [Sources: Amazon is seeking supplier discounts, from low single digits to 30%, as it moves to reverse concessions made to limit the shock of Trump&#39;s tariffs &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260113/p43#a260113p43)
- - [I tested several cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [Sources: AI chip startup Etched raised $500M led by Stripes at a $5B valuation, bringing its total funding to almost $1B &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260113/p42#a260113p42)
- - [The Bone Temple turns 28 Years Later into a terrifying crisis of faith](https://www.theverge.com/entertainment/859756/28-years-later-the-bone-temple-review)<!-- TECH:END -->
+ - [Live TV Streaming Channel Showdown: Sling, YouTube TV and More Compared](https://www.cnet.com/tech/services-and-software/youtubetv-hulu-live-fubo-slingtv-directv-channels-compared/)
+ - [Sources: Amazon is seeking supplier discounts, from low single digits to 30%, as it moves to reverse concessions made to limit the shock of Trump&#39;s tariffs &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260113/p43#a260113p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

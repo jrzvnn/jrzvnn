@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)
- - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 💣 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
  - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 💣 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 😝 [Watch a Master do his craft](http://9gag.com/gag/aoyomY0)
  - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China’s Hottest App Is a Daily Test of Whether You&#39;re Still Alive](https://www.wired.com/story/china-are-you-dead-yet-app/)
- - [The US Senate passes the Defiance Act that would allow victims to sue over nonconsensual, sexually explicit AI-generated images, amid furor over Grok images &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p38#a260113p38)
- - [The US FCC waives a rule that forced Verizon to unlock phones 60 days after they are activated, which could make it harder for people to switch from Verizon &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260113/p37#a260113p37)
- - [Taiwan issues an arrest warrant for OnePlus CEO Pete Lau for allegedly illegally hiring 70+ Taiwanese engineers, as it tries to stop China from raiding workers &lpar;Li Liu/Bloomberg&rpar;](http://www.techmeme.com/260113/p36#a260113p36)
- - [Apple Vision Pro could gain an Apple Pencil-like controller](https://appleinsider.com/articles/24/01/11/vision-pro-could-gain-an-apple-pencil-like-controller?utm_source=rss)<!-- TECH:END -->
+ - [Meta’s metaverse layoffs apparently include some of its VR studios](https://www.theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature)
+ - [Mercedes pauses the rollout of Drive Pilot, a Level 3 &quot;eyes off&quot; driving feature available in Europe and the US, citing low demand and high production costs &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260113/p39#a260113p39)
+ - [Lego Smart Brick: watch an immersive 15-minute demo like you’re right there with us at CES](https://www.theverge.com/tech/861322/lego-smart-brick-vr-180-3d-video-demo-ces-2026)
+ - [Shortcut Your System With a Discounted Elgato Stream Deck+](https://www.wired.com/story/elgato-streamdeck-plus-deal-126/)
+ - [iOS 26.3 Could Support End-to-End Encrypted RCS Messaging on Your iPhone](https://www.cnet.com/tech/services-and-software/apple-iphone-ios-26-3-beta-features-rcs-messaging/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

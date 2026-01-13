@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NYC token, launched by ex-New York City Mayor Eric Adams on January 12, saw its market cap drop from ~$600M to ~$100M after suspicious liquidity activity &lpar;Decrypt&rpar;](http://www.techmeme.com/260113/p2#a260113p2)
- - [Sources: Balderton cashed out ~$2B of its Revolut stake in the past year, turning an early £1M bet into a historic European VC win; its fifth fund returned 25x &lpar;Financial Times&rpar;](http://www.techmeme.com/260113/p1#a260113p1)
- - [How to import and export Markdown with Apple Notes in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-import-and-export-markdown-with-apple-notes-in-ios-26?utm_source=rss)
- - [This Duck-Billed Microphone Protects Against Eavesdroppers, But It Sure Is a Look](https://www.cnet.com/tech/mobile/this-duck-billed-microphone-protects-against-eavesdroppers-but-it-sure-is-a-look/)
- - [Chinese chipmaker GigaDevice rose 54% in its Hong Kong debut after raising ~$600M in its IPO, and reported H1 2025 profit of ~$84M, up 14% from H2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p41#a260112p41)<!-- TECH:END -->
+ - [Microsoft warns Chinese companies, especially DeepSeek, are winning AI adoption outside the West, gaining significant market share in the Global South &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260113/p3#a260113p3)
+ - [20% Off LG Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/lg-promo-code/)
+ - [AirDoctor Coupon Codes: 40% Off | January 2026](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [Nomad Goods Promo Codes: 25% Off | January 2026](https://www.wired.com/story/nomad-discount-code/)
+ - [The NYC token, launched by ex-New York City Mayor Eric Adams on January 12, saw its market cap drop from ~$600M to ~$100M after suspicious liquidity activity &lpar;Decrypt&rpar;](http://www.techmeme.com/260113/p2#a260113p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

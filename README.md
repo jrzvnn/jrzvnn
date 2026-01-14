@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Big Tech companies have been on an energy-related hiring spree; Workforce.AI says Microsoft has hired 570+ people with energy-related expertise since 2022 &lpar;Tasmin Lockwood/CNBC&rpar;](http://www.techmeme.com/260114/p20#a260114p20)
  - [UK satellite company Open Cosmos wins a highly contested Ka-band spectrum license, used for high-speed internet, beating companies backed by Peter Thiel &lpar;Josh Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/260114/p19#a260114p19)
  - [Best Bone Conduction Headphones &lpar;2026&rpar;: Shokz, Suunto, Mojawa](https://www.wired.com/gallery/best-bone-conduction-headphones/)
  - [7 Best Phones You Can’t Buy in the US &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)
- - [In South Korea&#39;s competition to develop an indigenous AI model, three of the five finalists used foreign open-source code, which they argue is practical &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/260114/p18#a260114p18)
- - [Highlights from IEDM 2025: 3D NAND is suddenly relevant again, interconnect metals beyond copper are emerging, 2D materials that could replace silicon, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260114/p17#a260114p17)<!-- TECH:END -->
+ - [In South Korea&#39;s competition to develop an indigenous AI model, three of the five finalists used foreign open-source code, which they argue is practical &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/260114/p18#a260114p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

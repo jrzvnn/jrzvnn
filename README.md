@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Saudi Arabia&#39;s PIF is transferring ~$12B worth of gaming company shares, including Nintendo, to Savvy Games; PIF transferred 11M Take-Two shares in December &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p6#a260114p6)
+ - [How smuggled Starlink receivers and customized software let some Iranians evade a near-total internet blackout as the regime brutally cracked down on protesters &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p5#a260114p5)
+ - [$50 Target Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/target-promo-code/)
  - [Caterpillar hits a $300B market cap for the first time, driven by demand for its data center power generation equipment; CAT is up 12% in 2026 to a record ~$640 &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/260114/p4#a260114p4)
- - [Bandcamp bans music and audio that is &quot;generated wholly or in substantial part by AI&quot;, hoping to build trust with fans that the music they find was human-made &lpar;Maya Perez/WebProNews&rpar;](http://www.techmeme.com/260114/p3#a260114p3)
- - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
- - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)
- - [Z.ai releases GLM-Image, an open-source multimodal AI model trained on Huawei chips that it says is China&#39;s first to be fully trained using domestic chips &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260114/p2#a260114p2)<!-- TECH:END -->
+ - [Bandcamp bans music and audio that is &quot;generated wholly or in substantial part by AI&quot;, hoping to build trust with fans that the music they find was human-made &lpar;Maya Perez/WebProNews&rpar;](http://www.techmeme.com/260114/p3#a260114p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

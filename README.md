@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Z.ai releases GLM-Image, an open-source multimodal AI model trained on Huawei chips that it says is China&#39;s first to be fully trained using domestic chips &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260114/p2#a260114p2)
- - [Checkr, which offers employee background checks, says its revenue grew to $800M, up 14% from 2024, amid a surge in AI-generated CVs and fake financial documents &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260114/p1#a260114p1)
- - [Matthew McConaughey has secured eight trademarks of himself from the USPTO in the past several months to protect his likeness and voice from unauthorized AI use &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/260113/p57#a260113p57)
- - [How to master the Camera app on iPhone Air](https://appleinsider.com/articles/26/01/14/how-to-master-the-camera-app-on-iphone-air?utm_source=rss)
- - [Increasing AI demands causing supply chain bottleneck for crucial iPhone components](https://appleinsider.com/articles/26/01/14/increasing-ai-demands-causing-supply-chain-bottleneck-for-crucial-iphone-components?utm_source=rss)<!-- TECH:END -->
+ - [Caterpillar hits a $300B market cap for the first time, driven by demand for its data center power generation equipment; CAT is up 12% in 2026 to a record ~$640 &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/260114/p4#a260114p4)
+ - [Bandcamp bans music and audio that is &quot;generated wholly or in substantial part by AI&quot;, hoping to build trust with fans that the music they find was human-made &lpar;Maya Perez/WebProNews&rpar;](http://www.techmeme.com/260114/p3#a260114p3)
+ - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
+ - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)
+ - [Z.ai releases GLM-Image, an open-source multimodal AI model trained on Huawei chips that it says is China&#39;s first to be fully trained using domestic chips &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260114/p2#a260114p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

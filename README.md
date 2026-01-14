@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with IMG President Adam Kelly on streaming platforms&#39; increasing share of sports media rights, live sports as an antidote to AI content, and more &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/260114/p15#a260114p15)
+ - [Q&amp;A with Reid Hoffman on wanting Silicon Valley to speak out against the Trump administration, AI regulation, the role of AI in art and creativity, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/260114/p14#a260114p14)
  - [Analysis: DeepSeek&#39;s hedge fund parent High-Flyer posted 56.6% average returns across its quant funds in 2025, boosting potential cash available for DeepSeek &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p13#a260114p13)
  - [India lacks specific policies or zoning regulations for overseeing quick commerce dark stores, which are projected to hit 5,000 to 5,500 by FY2026 end, per HSBC &lpar;The Economic Times&rpar;](http://www.techmeme.com/260114/p12#a260114p12)
- - [Elon Musk says Tesla will stop selling FSD after February 14 and will offer it only as a monthly subscription; FSD is already available for $99 per month &lpar;Danny Lee/Bloomberg&rpar;](http://www.techmeme.com/260114/p11#a260114p11)
- - [WithCoverage, which replaces traditional insurance brokers with its AI-based flat-fee risk management model, raised a $42M Series B led by Sequoia and Khosla &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260114/p10#a260114p10)
- - [Sources: Chinese officials told customs agents that Nvidia H200 chips are barred from China and instructed local tech companies not to buy them unless necessary &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p9#a260114p9)<!-- TECH:END -->
+ - [Elon Musk says Tesla will stop selling FSD after February 14 and will offer it only as a monthly subscription; FSD is already available for $99 per month &lpar;Danny Lee/Bloomberg&rpar;](http://www.techmeme.com/260114/p11#a260114p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

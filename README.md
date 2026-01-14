@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase pulls support from the US Senate&#39;s crypto market structure bill ahead of a key vote; CEO Brian Armstrong says there are &quot;too many issues&quot; with the bill &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/260114/p52#a260114p52)
  - [The Stream Deck Plus is back to its lowest price](https://www.theverge.com/gadgets/862274/elgato-stream-deck-plus-controller-deal-sale)
  - [Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet](https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/)
- - [Level up your manicure with the Apple Watch charger](https://appleinsider.com/inside/apple-watch/tips/level-up-your-manicure-with-the-apple-watch-charger?utm_source=rss)
- - [YouTube now lets parents set time limits on their kids&#39; YouTube Shorts feed, ranging from 15 minutes to two hours, with an option for zero minutes coming soon &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260114/p51#a260114p51)
- - [Verizon’s wireless network is down for many people nationwide](https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode)<!-- TECH:END -->
+ - [Popular Chinese &#39;Are You Dead?&#39; Safety App Changes Name](https://www.cnet.com/tech/popular-chinese-are-you-dead-safety-app-changes-name/)
+ - [Level up your manicure with the Apple Watch charger](https://appleinsider.com/inside/apple-watch/tips/level-up-your-manicure-with-the-apple-watch-charger?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

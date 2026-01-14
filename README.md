@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WithCoverage, which replaces traditional insurance brokers with its AI-based flat-fee risk management model, raised a $42M Series B led by Sequoia and Khosla &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260114/p10#a260114p10)
+ - [Sources: Chinese officials told customs agents that Nvidia H200 chips are barred from China and instructed local tech companies not to buy them unless necessary &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p9#a260114p9)
  - [An inside look at a Myanmar online scam center that opened in 2024 with 3,500 workers from ~30 countries and closed in November 2025 after rebels captured it &lpar;New York Times&rpar;](http://www.techmeme.com/260114/p8#a260114p8)
  - [The US urged UN members to take a tougher stance against North Korea IT worker scams and crypto thefts; an October 2025 report said 40+ countries were affected &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/260114/p7#a260114p7)
- - [Saudi Arabia&#39;s PIF is transferring ~$12B worth of gaming company shares, including Nintendo, to Savvy Games; PIF transferred 11M Take-Two shares in December &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p6#a260114p6)
- - [How smuggled Starlink receivers and customized software let some Iranians evade a near-total internet blackout as the regime brutally cracked down on protesters &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p5#a260114p5)
- - [$50 Target Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
+ - [Saudi Arabia&#39;s PIF is transferring ~$12B worth of gaming company shares, including Nintendo, to Savvy Games; PIF transferred 11M Take-Two shares in December &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p6#a260114p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

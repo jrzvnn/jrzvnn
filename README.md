@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon’s wireless network is down for many people nationwide](https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode)
+ - [Naya Connect is a modular mechanical keyboard system for the indecisive](https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter)
  - [Apple Creator Studio takes one more step to an app subscription future](https://appleinsider.com/articles/26/01/14/apple-creator-studio-takes-one-more-step-to-an-app-subscription-future?utm_source=rss)
  - [Trump signs an order to impose a 25% tariff on chips &quot;transshipped through the United States to other foreign countries&quot;, as part of the Nvidia H200 deal &lpar;Josh Wingrove/Bloomberg&rpar;](http://www.techmeme.com/260114/p50#a260114p50)
- - [UK PM Keir Starmer says X indicated to government officials it was acting to comply with UK laws by restricting the generation of non-consensual sexual images &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p49#a260114p49)
- - [Novee, which utilizes proprietary AI models to perform automated penetration testing, emerges from stealth with a $43M Series A and an $8.5M seed &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260114/p48#a260114p48)
- - [Amazon didn’t have to go far to find its live-action Kratos](https://www.theverge.com/games/862089/god-of-war-kratos-casting-amazone-prime-video)<!-- TECH:END -->
+ - [UK PM Keir Starmer says X indicated to government officials it was acting to comply with UK laws by restricting the generation of non-consensual sexual images &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p49#a260114p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 😝 [Goodbye kidney](http://9gag.com/gag/aQzbPq7)
  - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
  - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
- - 😝 [Sidekick](http://9gag.com/gag/aKGZg63)
+ - 😝 [QF time](http://9gag.com/gag/a7ogKeq)
  - 👉 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)<!-- MEMES:END -->
 
 ---

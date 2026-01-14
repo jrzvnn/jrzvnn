@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
- - 😝 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)
- - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
- - 😝 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
- - 👉 [Opening a street camera....](http://9gag.com/gag/a34gvq7)<!-- MEMES:END -->
+ - 😝 [Backstory of Lara croft over the years](http://9gag.com/gag/aKGZ47g)
+ - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 💣 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)
+ - 😝 [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
+ - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->
 
 ---
 

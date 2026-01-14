@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [YouTube now lets parents set time limits on their kids&#39; YouTube Shorts feed, ranging from 15 minutes to two hours, with an option for zero minutes coming soon &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260114/p51#a260114p51)
  - [Verizon’s wireless network is down for many people nationwide](https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode)
  - [Naya Connect is a modular mechanical keyboard system for the indecisive](https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter)
- - [Apple Creator Studio takes one more step to an app subscription future](https://appleinsider.com/articles/26/01/14/apple-creator-studio-takes-one-more-step-to-an-app-subscription-future?utm_source=rss)<!-- TECH:END -->
+ - [Verizon Outage Hits Around 175,000 Customers](https://www.cnet.com/news-live/verizon-outage-hits-around-175000-customers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

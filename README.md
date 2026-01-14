@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI strikes a multibillion-dollar agreement to buy 750 MW of computing capacity from Cerebras over three years; sources: the deal is worth more than $10B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260114/p46#a260114p46)
+ - [Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later](https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/)
+ - [Bitchat, a P2P messaging app launched by Jack Dorsey, has emerged as a key lifeline for people in Uganda and Iran facing government-imposed internet shutdowns &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p45#a260114p45)
  - [Save Big on One of Our Favorite Desk Lamps from Lume Cube](https://www.wired.com/story/lume-edge-light-deal-126/)
- - [Compared: Apple Creator Studio vs Adobe Creative Cloud Pro](https://appleinsider.com/inside/apple-services/vs/compared-apple-creator-studio-vs-adobe-creative-cloud-pro?utm_source=rss)
- - [BMW says electric M3 will be a ‘new level’ of performance](https://www.theverge.com/news/861955/bmw-m3-electric-ev-quad-motor-neue-klasse)
- - [I’ve tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
- - [Digg, rebooted under original founder Kevin Rose and Alexis Ohanian, launches its open beta; the site had been open to 67,000 users on an invite-only basis &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260114/p44#a260114p44)<!-- TECH:END -->
+ - [Apple Picking Google Gemini to Power Siri Was About Buying Time](https://www.cnet.com/tech/services-and-software/apple-picking-google-gemini-to-power-siri-was-about-buying-time/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

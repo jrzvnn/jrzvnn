@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
  - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - 💣 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
- - 😝 [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
- - 👉 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)<!-- MEMES:END -->
+ - 💣 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
+ - 😝 [Rob Schneider and World War 2 &lpar;01:20&rpar;](http://9gag.com/gag/apR7qb8)
+ - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 ---
 

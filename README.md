@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DJI Neo 2 review: I guess I’m a drone guy now](https://www.theverge.com/tech/849707/dji-neo-2-review-i-guess-im-a-drone-guy-now)
+ - [iPhone 18 design won&#39;t change much, except for Dynamic Island](https://appleinsider.com/articles/26/01/14/iphone-18-design-wont-change-much-except-for-dynamic-island?utm_source=rss)
+ - [Animal Crossing&amp;#8217;s big 3.0 update has fans itching to return to the cozy life](https://www.theverge.com/games/861760/animal-crossing-new-horizons-update-community-reaction)
  - [Microsoft might have just leaked Forza Horizon 6’s release date](https://www.theverge.com/news/861762/forza-horizon-6-release-date-leak)
- - [Dutch court hearing: Nexperia claims Chinese owner Wingtech pushed for tech transfers out of Europe and threatened execs; Wingtech criticizes Nexperia execs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p35#a260114p35)
- - [In Photos: One Week Since the Shooting of Renee Nicole Good in Minneapolis](https://www.wired.com/story/photo-essay-one-week-since-renee-nicole-good-shooting-in-minnesota/)
- - [NBC Sports’ new real-time player tracking lets viewers focus on their favorite athletes](https://www.theverge.com/tech/861715/nbc-sports-nippon-television-ai-viztrick-aidi-player-tracking-mobile-viewing)
- - [Animal Crossing’s 3.0 update dropped a little early](https://www.theverge.com/games/861725/animal-crossing-new-horizons-3-0-update-early-launch-nintendo-switch)<!-- TECH:END -->
+ - [Dutch court hearing: Nexperia claims Chinese owner Wingtech pushed for tech transfers out of Europe and threatened execs; Wingtech criticizes Nexperia execs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p35#a260114p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

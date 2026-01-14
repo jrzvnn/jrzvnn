@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NBC Sports’ new real-time player tracking lets viewers focus on their favorite athletes](https://www.theverge.com/tech/861715/nbc-sports-nippon-television-ai-viztrick-aidi-player-tracking-mobile-viewing)
  - [Animal Crossing’s 3.0 update dropped a little early](https://www.theverge.com/games/861725/animal-crossing-new-horizons-3-0-update-early-launch-nintendo-switch)
  - [Belgian startup Aikido Security, which offers automated security guardrails for developers, raised $60M led by DST Global at a $1B valuation &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/260114/p34#a260114p34)
  - [Source: Microsoft quietly becomes one of Anthropic&#39;s top clients and was recently on pace to spend nearly $500M/year for Anthropic to power Microsoft products &lpar;The Information&rpar;](http://www.techmeme.com/260114/p33#a260114p33)
- - [Tesla to stop selling FSD as a standalone package and switch to subscription only](https://www.theverge.com/news/861705/tesla-fsd-stop-selling-standalone-subscription-only)
- - [Honda relaunching Acura RDX as a next-gen two-motor hybrid](https://www.theverge.com/news/861413/honda-acura-rdx-two-motor-hybrid-base-station-rv)<!-- TECH:END -->
+ - [Tesla to stop selling FSD as a standalone package and switch to subscription only](https://www.theverge.com/news/861705/tesla-fsd-stop-selling-standalone-subscription-only)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

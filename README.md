@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goodbye kidney](http://9gag.com/gag/aQzbPq7)
- - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 😝 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
+ - 😝 [His kids are probably 9gag users.](http://9gag.com/gag/aE0Kvjn)
  - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
- - 😝 [QF time](http://9gag.com/gag/a7ogKeq)
- - 👉 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)<!-- MEMES:END -->
+ - 😝 [Rob Schneider and World War 2 &lpar;01:20&rpar;](http://9gag.com/gag/apR7qb8)
+ - 👉 [Oh No ..what does this mean?](http://9gag.com/gag/a0egvKn)<!-- MEMES:END -->
 
 ---
 

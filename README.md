@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect from Apple&#39;s Q1 2026 earnings on January 29](https://appleinsider.com/articles/26/01/14/what-to-expect-from-apples-q1-2026-earnings-on-january-29?utm_source=rss)
+ - [Tel Aviv- and Boston-based IO River, which lets users manage multiple CDN and edge networks, raised a $20M Series A led by Venture Guides and New Era &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260114/p32#a260114p32)
  - [Fujifilm’s latest Instax Mini printer focuses on the details](https://www.theverge.com/news/861684/fujifilm-instax-mini-evo-cinema-link-plus-price-availability)
  - [UK police say they banned Maccabi Tel Aviv fans from a soccer match in 2025 after Copilot hallucinated a fake West Ham-Maccabi match in an intelligence report &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260114/p31#a260114p31)
- - [Pittsburgh-based Skild AI, which makes robotics foundation models, raised a $1.4B Series C at a $14B valuation, up from $4.5B after raising $300M in June 2025 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260114/p30#a260114p30)
- - [Airbnb hires Meta executive Ahmad Al-Dahle, who led generative AI and the Llama team after working at Apple, as its CTO, as it aims to integrate AI in its app &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260114/p29#a260114p29)
- - [Polymarket is hosting a growing number of contracts related to military conflicts, including China invading Taiwan; possible US strikes in Iran has $18M+ volume &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/260114/p28#a260114p28)<!-- TECH:END -->
+ - [Pittsburgh-based Skild AI, which makes robotics foundation models, raised a $1.4B Series C at a $14B valuation, up from $4.5B after raising $300M in June 2025 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260114/p30#a260114p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

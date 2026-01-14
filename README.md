@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 😝 [He will be remembered](http://9gag.com/gag/aKGybZ6)
  - 💣 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
  - 😝 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
  - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->

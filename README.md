@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Goodbye kidney](http://9gag.com/gag/aQzbPq7)
  - 😝 [Smart title](http://9gag.com/gag/a34gvoQ)
- - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - 💣 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
+ - 💣 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
  - 😝 [Trying to plan my life 6 months out is a sport](http://9gag.com/gag/ae9zNWB)
- - 👉 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)<!-- MEMES:END -->
+ - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
 
 ---
 

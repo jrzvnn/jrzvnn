@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Depthfirst, which provides AI-native tools for codebase scanning, credential exposure protection, and more, raised a $40M Series A led by Accel Partners &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260114/p38#a260114p38)
  - [iPhone Fold&#39;s titanium &amp; Liquid Metal rumors just won&#39;t go away](https://appleinsider.com/articles/26/01/14/iphone-folds-titanium-liquid-metal-rumors-just-wont-go-away?utm_source=rss)
+ - [Bundesliga Soccer Livestream: How to Watch Köln vs. Bayern Munich](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-koln-vs-bayern-munich/)
  - [Google launches Gemini Personal Intelligence, linking to Gmail, Google Photos, Search, and YouTube history to provide context-aware responses, for paid users &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/260114/p37#a260114p37)
- - [Civilization VII is coming to Apple Arcade](https://www.theverge.com/news/861816/civilization-vii-apple-arcade-launch)
- - [Best Desks of 2026: I’ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/)
- - [Parents can put a time limit on YouTube Shorts scrolling](https://www.theverge.com/news/861804/youtube-shorts-teen-time-limit-parental-controls)<!-- TECH:END -->
+ - [Civilization VII is coming to Apple Arcade](https://www.theverge.com/news/861816/civilization-vii-apple-arcade-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

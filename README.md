@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save Big on One of Our Favorite Desk Lamps from Lume Cube](https://www.wired.com/story/lume-edge-light-deal-126/)
  - [Compared: Apple Creator Studio vs Adobe Creative Cloud Pro](https://appleinsider.com/inside/apple-services/vs/compared-apple-creator-studio-vs-adobe-creative-cloud-pro?utm_source=rss)
  - [BMW says electric M3 will be a ‘new level’ of performance](https://www.theverge.com/news/861955/bmw-m3-electric-ev-quad-motor-neue-klasse)
  - [I’ve tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
- - [Digg, rebooted under original founder Kevin Rose and Alexis Ohanian, launches its open beta; the site had been open to 67,000 users on an invite-only basis &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260114/p44#a260114p44)
- - [Verizon wireless outage leaves iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)<!-- TECH:END -->
+ - [Digg, rebooted under original founder Kevin Rose and Alexis Ohanian, launches its open beta; the site had been open to 67,000 users on an invite-only basis &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260114/p44#a260114p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

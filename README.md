@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: DeepSeek&#39;s hedge fund parent High-Flyer posted 56.6% average returns across its quant funds in 2025, boosting potential cash available for DeepSeek &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p13#a260114p13)
+ - [India lacks specific policies or zoning regulations for overseeing quick commerce dark stores, which are projected to hit 5,000 to 5,500 by FY2026 end, per HSBC &lpar;The Economic Times&rpar;](http://www.techmeme.com/260114/p12#a260114p12)
  - [Elon Musk says Tesla will stop selling FSD after February 14 and will offer it only as a monthly subscription; FSD is already available for $99 per month &lpar;Danny Lee/Bloomberg&rpar;](http://www.techmeme.com/260114/p11#a260114p11)
  - [WithCoverage, which replaces traditional insurance brokers with its AI-based flat-fee risk management model, raised a $42M Series B led by Sequoia and Khosla &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260114/p10#a260114p10)
- - [Sources: Chinese officials told customs agents that Nvidia H200 chips are barred from China and instructed local tech companies not to buy them unless necessary &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p9#a260114p9)
- - [An inside look at a Myanmar online scam center that opened in 2024 with 3,500 workers from ~30 countries and closed in November 2025 after rebels captured it &lpar;New York Times&rpar;](http://www.techmeme.com/260114/p8#a260114p8)
- - [The US urged UN members to take a tougher stance against North Korea IT worker scams and crypto thefts; an October 2025 report said 40+ countries were affected &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/260114/p7#a260114p7)<!-- TECH:END -->
+ - [Sources: Chinese officials told customs agents that Nvidia H200 chips are barred from China and instructed local tech companies not to buy them unless necessary &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p9#a260114p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

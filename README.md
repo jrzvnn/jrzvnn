@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops...](http://9gag.com/gag/agm93QW)
- - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 💣 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 💣 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
  - 😝 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
  - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->
 

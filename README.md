@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Backstory of Lara croft over the years](http://9gag.com/gag/aKGZ47g)
+ - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
  - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - 💣 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)
- - 😝 [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
- - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->
+ - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
+ - 😝 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)
+ - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
  - 😝 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)
- - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
+ - 😝 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
+ - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
+ - 😝 [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
+ - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 ---
 

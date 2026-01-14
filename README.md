@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
  - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - 😝 [Told you...](http://9gag.com/gag/aqyMZX7)
- - 💣 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
+ - 💣 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
  - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
- - 👉 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)<!-- MEMES:END -->
+ - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
 
 ---
 

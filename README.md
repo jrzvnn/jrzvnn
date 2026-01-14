@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet](https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/)
  - [Level up your manicure with the Apple Watch charger](https://appleinsider.com/inside/apple-watch/tips/level-up-your-manicure-with-the-apple-watch-charger?utm_source=rss)
  - [YouTube now lets parents set time limits on their kids&#39; YouTube Shorts feed, ranging from 15 minutes to two hours, with an option for zero minutes coming soon &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260114/p51#a260114p51)
  - [Verizon’s wireless network is down for many people nationwide](https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode)
- - [Naya Connect is a modular mechanical keyboard system for the indecisive](https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter)
- - [Verizon Outage Hits Around 175,000 Customers](https://www.cnet.com/news-live/verizon-outage-hits-around-175000-customers/)<!-- TECH:END -->
+ - [Naya Connect is a modular mechanical keyboard system for the indecisive](https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

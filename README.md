@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An inside look at a Myanmar online scam center that opened in 2024 with 3,500 workers from ~30 countries and closed in November 2025 after rebels captured it &lpar;New York Times&rpar;](http://www.techmeme.com/260114/p8#a260114p8)
+ - [The US urged UN members to take a tougher stance against North Korea IT worker scams and crypto thefts; an October 2025 report said 40+ countries were affected &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/260114/p7#a260114p7)
  - [Saudi Arabia&#39;s PIF is transferring ~$12B worth of gaming company shares, including Nintendo, to Savvy Games; PIF transferred 11M Take-Two shares in December &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p6#a260114p6)
  - [How smuggled Starlink receivers and customized software let some Iranians evade a near-total internet blackout as the regime brutally cracked down on protesters &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p5#a260114p5)
- - [$50 Target Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/target-promo-code/)
- - [Caterpillar hits a $300B market cap for the first time, driven by demand for its data center power generation equipment; CAT is up 12% in 2026 to a record ~$640 &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/260114/p4#a260114p4)
- - [Bandcamp bans music and audio that is &quot;generated wholly or in substantial part by AI&quot;, hoping to build trust with fans that the music they find was human-made &lpar;Maya Perez/WebProNews&rpar;](http://www.techmeme.com/260114/p3#a260114p3)<!-- TECH:END -->
+ - [$50 Target Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

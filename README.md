@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
  - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
  - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
- - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->
+ - 👉 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)<!-- MEMES:END -->
 
 ---
 

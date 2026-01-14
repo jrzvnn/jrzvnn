@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - 😝 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
+ - 😝 [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
+ - 😝 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
  - 💣 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 😝 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
- - 👉 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)<!-- MEMES:END -->
+ - 😝 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
+ - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Level up your manicure with the Apple Watch charger](https://appleinsider.com/inside/apple-watch/tips/level-up-your-manicure-with-the-apple-watch-charger?utm_source=rss)
+ - [YouTube now lets parents set time limits on their kids&#39; YouTube Shorts feed, ranging from 15 minutes to two hours, with an option for zero minutes coming soon &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260114/p51#a260114p51)
  - [Verizon’s wireless network is down for many people nationwide](https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode)
  - [Naya Connect is a modular mechanical keyboard system for the indecisive](https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter)
- - [Apple Creator Studio takes one more step to an app subscription future](https://appleinsider.com/articles/26/01/14/apple-creator-studio-takes-one-more-step-to-an-app-subscription-future?utm_source=rss)
- - [Trump signs an order to impose a 25% tariff on chips &quot;transshipped through the United States to other foreign countries&quot;, as part of the Nvidia H200 deal &lpar;Josh Wingrove/Bloomberg&rpar;](http://www.techmeme.com/260114/p50#a260114p50)
- - [UK PM Keir Starmer says X indicated to government officials it was acting to comply with UK laws by restricting the generation of non-consensual sexual images &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p49#a260114p49)<!-- TECH:END -->
+ - [Apple Creator Studio takes one more step to an app subscription future](https://appleinsider.com/articles/26/01/14/apple-creator-studio-takes-one-more-step-to-an-app-subscription-future?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

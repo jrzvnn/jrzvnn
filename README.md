@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oops...](http://9gag.com/gag/agm93QW)
  - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 😝 [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
- - 💣 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
  - 😝 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
- - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
+ - 👉 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)<!-- MEMES:END -->
 
 ---
 

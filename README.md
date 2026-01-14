@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WIRED Tested Dozens of Blenders. These Are Our 8 Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-blender/)
- - [Sources: McKinsey pilots an overhaul in how it recruits its next generation, asking candidates to use its AI tool Lilli to analyze a case study during a test &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p27#a260114p27)
- - [The Merach Vibration Plate Is the Funniest Workout I&#39;ve Ever Done](https://www.wired.com/story/the-merach-vibration-plate-rants-and-raves/)
- - [Alpaca, which builds software to let companies offer stocks, ETFs, and other financial instruments, raised a $150M Series D led by Drive at a $1.15B valuation &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260114/p26#a260114p26)
- - [How AI Companies Got Caught Up in US Military Efforts](https://www.wired.com/story/book-excerpt-silicon-empires-nick-srnicek/)<!-- TECH:END -->
+ - [Fujifilm’s latest Instax Mini printer focuses on the details](https://www.theverge.com/news/861684/fujifilm-instax-mini-evo-cinema-link-plus-price-availability)
+ - [UK police say they banned Maccabi Tel Aviv fans from a soccer match in 2025 after Copilot hallucinated a fake West Ham-Maccabi match in an intelligence report &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260114/p31#a260114p31)
+ - [Pittsburgh-based Skild AI, which makes robotics foundation models, raised a $1.4B Series C at a $14B valuation, up from $4.5B after raising $300M in June 2025 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260114/p30#a260114p30)
+ - [Airbnb hires Meta executive Ahmad Al-Dahle, who led generative AI and the Llama team after working at Apple, as its CTO, as it aims to integrate AI in its app &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260114/p29#a260114p29)
+ - [Polymarket is hosting a growing number of contracts related to military conflicts, including China invading Taiwan; possible US strikes in Iran has $18M+ volume &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/260114/p28#a260114p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
- - 😝 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
+ - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 😝 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
  - 💣 [His kids are probably 9gag users.](http://9gag.com/gag/aE0Kvjn)
  - 😝 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
- - 👉 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)<!-- MEMES:END -->
+ - 👉 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese chip designer Montage, a Shanghai-listed company valued at $22B, plans a Hong Kong IPO that could raise $900M+, backed by Alibaba and JPMorgan &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260114/p25#a260114p25)
- - [Sources: Chinese authorities told domestic companies to stop using cybersecurity software made by ~12 US and Israeli companies due to national security concerns &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p24#a260114p24)
- - [How Ireland, an early data center winner, missed out on much of the current AI boom, hampered by creaking infrastructure and a strained electricity grid &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p23#a260114p23)
- - [HHKB Professional Classic Type-S Review: A Brilliant but Niche Keyboard](https://www.wired.com/review/hhkb-professional-classic-type-s/)
- - [TikTok Shop Showed Me Search Suggestions for Products With Nazi Symbolism](https://www.wired.com/story/tiktok-shop-nazi-symbolism/)<!-- TECH:END -->
+ - [WIRED Tested Dozens of Blenders. These Are Our 8 Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-blender/)
+ - [Sources: McKinsey pilots an overhaul in how it recruits its next generation, asking candidates to use its AI tool Lilli to analyze a case study during a test &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p27#a260114p27)
+ - [The Merach Vibration Plate Is the Funniest Workout I&#39;ve Ever Done](https://www.wired.com/story/the-merach-vibration-plate-rants-and-raves/)
+ - [Alpaca, which builds software to let companies offer stocks, ETFs, and other financial instruments, raised a $150M Series D led by Drive at a $1.15B valuation &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260114/p26#a260114p26)
+ - [How AI Companies Got Caught Up in US Military Efforts](https://www.wired.com/story/book-excerpt-silicon-empires-nick-srnicek/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

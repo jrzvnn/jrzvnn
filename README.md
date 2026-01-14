@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goodbye kidney](http://9gag.com/gag/aQzbPq7)
  - 😝 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
- - 💣 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 😝 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
+ - 💣 [Oh No ..what does this mean?](http://9gag.com/gag/a0egvKn)
  - 😝 [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
- - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->
+ - 👉 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
  - 😝 [His kids are probably 9gag users.](http://9gag.com/gag/aE0Kvjn)
+ - 😝 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
  - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
- - 😝 [Rob Schneider and World War 2 &lpar;01:20&rpar;](http://9gag.com/gag/apR7qb8)
- - 👉 [Oh No ..what does this mean?](http://9gag.com/gag/a0egvKn)<!-- MEMES:END -->
+ - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
+ - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->
 
 ---
 

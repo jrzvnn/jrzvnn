@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft might have just leaked Forza Horizon 6’s release date](https://www.theverge.com/news/861762/forza-horizon-6-release-date-leak)
+ - [Dutch court hearing: Nexperia claims Chinese owner Wingtech pushed for tech transfers out of Europe and threatened execs; Wingtech criticizes Nexperia execs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p35#a260114p35)
+ - [In Photos: One Week Since the Shooting of Renee Nicole Good in Minneapolis](https://www.wired.com/story/photo-essay-one-week-since-renee-nicole-good-shooting-in-minnesota/)
  - [NBC Sports’ new real-time player tracking lets viewers focus on their favorite athletes](https://www.theverge.com/tech/861715/nbc-sports-nippon-television-ai-viztrick-aidi-player-tracking-mobile-viewing)
- - [Animal Crossing’s 3.0 update dropped a little early](https://www.theverge.com/games/861725/animal-crossing-new-horizons-3-0-update-early-launch-nintendo-switch)
- - [Belgian startup Aikido Security, which offers automated security guardrails for developers, raised $60M led by DST Global at a $1B valuation &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/260114/p34#a260114p34)
- - [Source: Microsoft quietly becomes one of Anthropic&#39;s top clients and was recently on pace to spend nearly $500M/year for Anthropic to power Microsoft products &lpar;The Information&rpar;](http://www.techmeme.com/260114/p33#a260114p33)
- - [Tesla to stop selling FSD as a standalone package and switch to subscription only](https://www.theverge.com/news/861705/tesla-fsd-stop-selling-standalone-subscription-only)<!-- TECH:END -->
+ - [Animal Crossing’s 3.0 update dropped a little early](https://www.theverge.com/games/861725/animal-crossing-new-horizons-3-0-update-early-launch-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

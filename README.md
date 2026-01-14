@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Checkr, which offers employee background checks, says its revenue grew to $800M, up 14% from 2024, amid a surge in AI-generated CVs and fake financial documents &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260114/p1#a260114p1)
  - [Matthew McConaughey has secured eight trademarks of himself from the USPTO in the past several months to protect his likeness and voice from unauthorized AI use &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/260113/p57#a260113p57)
  - [How to master the Camera app on iPhone Air](https://appleinsider.com/articles/26/01/14/how-to-master-the-camera-app-on-iphone-air?utm_source=rss)
  - [Increasing AI demands causing supply chain bottleneck for crucial iPhone components](https://appleinsider.com/articles/26/01/14/increasing-ai-demands-causing-supply-chain-bottleneck-for-crucial-iphone-components?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-14/)
- - [Survey: 41% of US teens aged 13 to 17 support a ban on middle and high school students from using phones in class while 51% oppose it; 73% oppose a full-day ban &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260113/p56#a260113p56)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-14/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

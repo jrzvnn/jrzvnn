@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to master the Camera app on iPhone Air](https://appleinsider.com/articles/26/01/14/how-to-master-the-camera-app-on-iphone-air?utm_source=rss)
+ - [Increasing AI demands causing supply chain bottleneck for crucial iPhone components](https://appleinsider.com/articles/26/01/14/increasing-ai-demands-causing-supply-chain-bottleneck-for-crucial-iphone-components?utm_source=rss)
  - [Survey: 41% of US teens aged 13 to 17 support a ban on middle and high school students from using phones in class while 51% oppose it; 73% oppose a full-day ban &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260113/p56#a260113p56)
  - [Gemini-trained Apple Intelligence will work like other LLMs, says unsurprising report](https://appleinsider.com/articles/26/01/14/gemini-trained-apple-intelligence-will-work-like-other-llms-says-unsurprising-report?utm_source=rss)
- - [Sources: Apple and Qualcomm are scrambling to secure glass cloth fiber, used in chip substrates and PCBs, as the AI boom boosts demand for the component &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260113/p55#a260113p55)
- - [Best Fiber Internet Providers for January 2026](https://www.cnet.com/home/internet/best-fiber-internet-providers/)
- - [Holistic Resilience, a US group that helps Iranians secure internet access, says SpaceX has waived Starlink subscription fees amid a days-long internet blackout &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/260113/p54#a260113p54)<!-- TECH:END -->
+ - [Sources: Apple and Qualcomm are scrambling to secure glass cloth fiber, used in chip substrates and PCBs, as the AI boom boosts demand for the component &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260113/p55#a260113p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

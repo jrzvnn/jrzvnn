@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BMW says electric M3 will be a ‘new level’ of performance](https://www.theverge.com/news/861955/bmw-m3-electric-ev-quad-motor-neue-klasse)
+ - [I’ve tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [Digg, rebooted under original founder Kevin Rose and Alexis Ohanian, launches its open beta; the site had been open to 67,000 users on an invite-only basis &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260114/p44#a260114p44)
  - [Best Vitamins for Energy in 2026](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/)
- - [Verizon wireless outage leaves iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)
- - [This Lip-Syncing Robot Face Could Help Future Bots Talk Like Us](https://www.cnet.com/tech/lip-syncing-robot-face-language-sounds/)
- - [AI’s Hacking Skills Are Approaching an ‘Inflection Point’](https://www.wired.com/story/ai-models-hacking-inflection-point/)
- - [Bose’s first-gen QC Ultra headphones have returned to their best price to date](https://www.theverge.com/gadgets/861286/bose-quietcomfort-ultra-headphones-steam-detective-fest-sale-deal)<!-- TECH:END -->
+ - [Verizon wireless outage leaves iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

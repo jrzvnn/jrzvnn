@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bandcamp becomes the first major music platform to ban AI content](https://www.theverge.com/news/861794/bandcamp-ban-ai-music)
+ - [&#39;Civilization VII Arcade Edition&#39; coming to Apple Arcade with big caveats](https://appleinsider.com/articles/26/01/14/civilization-vii-arcade-edition-coming-to-apple-arcade-with-big-caveats?utm_source=rss)
+ - [Apple Vision Pro owners will get a great assortment of classic arcade games in VR soon](https://appleinsider.com/articles/26/01/14/apple-vision-pro-owners-will-get-a-great-assortment-of-classic-arcade-games-in-vr-soon?utm_source=rss)
  - [DJI Neo 2 review: I guess I’m a drone guy now](https://www.theverge.com/tech/849707/dji-neo-2-review-i-guess-im-a-drone-guy-now)
- - [iPhone 18 design won&#39;t change much, except for Dynamic Island](https://appleinsider.com/articles/26/01/14/iphone-18-design-wont-change-much-except-for-dynamic-island?utm_source=rss)
- - [Animal Crossing&amp;#8217;s big 3.0 update has fans itching to return to the cozy life](https://www.theverge.com/games/861760/animal-crossing-new-horizons-update-community-reaction)
- - [Microsoft might have just leaked Forza Horizon 6’s release date](https://www.theverge.com/news/861762/forza-horizon-6-release-date-leak)
- - [Dutch court hearing: Nexperia claims Chinese owner Wingtech pushed for tech transfers out of Europe and threatened execs; Wingtech criticizes Nexperia execs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p35#a260114p35)<!-- TECH:END -->
+ - [iPhone 18 design won&#39;t change much, except for Dynamic Island](https://appleinsider.com/articles/26/01/14/iphone-18-design-wont-change-much-except-for-dynamic-island?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

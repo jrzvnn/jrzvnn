@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s Q1 2026 earnings on January 29](https://appleinsider.com/articles/26/01/14/what-to-expect-from-apples-q1-2026-earnings-on-january-29?utm_source=rss)
- - [Tel Aviv- and Boston-based IO River, which lets users manage multiple CDN and edge networks, raised a $20M Series A led by Venture Guides and New Era &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260114/p32#a260114p32)
- - [Fujifilm’s latest Instax Mini printer focuses on the details](https://www.theverge.com/news/861684/fujifilm-instax-mini-evo-cinema-link-plus-price-availability)
- - [UK police say they banned Maccabi Tel Aviv fans from a soccer match in 2025 after Copilot hallucinated a fake West Ham-Maccabi match in an intelligence report &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260114/p31#a260114p31)
- - [Pittsburgh-based Skild AI, which makes robotics foundation models, raised a $1.4B Series C at a $14B valuation, up from $4.5B after raising $300M in June 2025 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260114/p30#a260114p30)<!-- TECH:END -->
+ - [Animal Crossing’s 3.0 update dropped a little early](https://www.theverge.com/games/861725/animal-crossing-new-horizons-3-0-update-early-launch-nintendo-switch)
+ - [Belgian startup Aikido Security, which offers automated security guardrails for developers, raised $60M led by DST Global at a $1B valuation &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/260114/p34#a260114p34)
+ - [Source: Microsoft quietly becomes one of Anthropic&#39;s top clients and was recently on pace to spend nearly $500M/year for Anthropic to power Microsoft products &lpar;The Information&rpar;](http://www.techmeme.com/260114/p33#a260114p33)
+ - [Tesla to stop selling FSD as a standalone package and switch to subscription only](https://www.theverge.com/news/861705/tesla-fsd-stop-selling-standalone-subscription-only)
+ - [Honda relaunching Acura RDX as a next-gen two-motor hybrid](https://www.theverge.com/news/861413/honda-acura-rdx-two-motor-hybrid-base-station-rv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

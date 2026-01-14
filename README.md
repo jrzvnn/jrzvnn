@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [British Humour: No Laugh Track Required &lpar;not amurican humor&rpar;](http://9gag.com/gag/a2vgzYY)
  - 😝 [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
- - 😝 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
- - 💣 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 😝 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
- - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
+ - 💣 [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)
+ - 😝 [Happiness](http://9gag.com/gag/aGyvKLX)
+ - 👉 [I&#39;m never the first one there](http://9gag.com/gag/azxyg2N)<!-- MEMES:END -->
 
 ---
 

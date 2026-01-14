@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Z.ai releases GLM-Image, an open-source multimodal AI model trained on Huawei chips that it says is China&#39;s first to be fully trained using domestic chips &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260114/p2#a260114p2)
  - [Checkr, which offers employee background checks, says its revenue grew to $800M, up 14% from 2024, amid a surge in AI-generated CVs and fake financial documents &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260114/p1#a260114p1)
  - [Matthew McConaughey has secured eight trademarks of himself from the USPTO in the past several months to protect his likeness and voice from unauthorized AI use &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/260113/p57#a260113p57)
  - [How to master the Camera app on iPhone Air](https://appleinsider.com/articles/26/01/14/how-to-master-the-camera-app-on-iphone-air?utm_source=rss)
- - [Increasing AI demands causing supply chain bottleneck for crucial iPhone components](https://appleinsider.com/articles/26/01/14/increasing-ai-demands-causing-supply-chain-bottleneck-for-crucial-iphone-components?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-14/)<!-- TECH:END -->
+ - [Increasing AI demands causing supply chain bottleneck for crucial iPhone components](https://appleinsider.com/articles/26/01/14/increasing-ai-demands-causing-supply-chain-bottleneck-for-crucial-iphone-components?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

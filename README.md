@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Highlights from IEDM 2025: 3D NAND is suddenly relevant again, interconnect metals beyond copper are emerging, 2D materials that could replace silicon, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260114/p17#a260114p17)
  - [The UK government drops plans for mandatory digital IDs to work in the country, marking a reversal from when the UK first announced the policy in September 2025 &lpar;BBC&rpar;](http://www.techmeme.com/260114/p16#a260114p16)
  - [An interview with IMG President Adam Kelly on streaming platforms&#39; increasing share of sports media rights, live sports as an antidote to AI content, and more &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/260114/p15#a260114p15)
  - [Q&amp;A with Reid Hoffman on wanting Silicon Valley to speak out against the Trump administration, AI regulation, the role of AI in art and creativity, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/260114/p14#a260114p14)
- - [Analysis: DeepSeek&#39;s hedge fund parent High-Flyer posted 56.6% average returns across its quant funds in 2025, boosting potential cash available for DeepSeek &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p13#a260114p13)
- - [India lacks specific policies or zoning regulations for overseeing quick commerce dark stores, which are projected to hit 5,000 to 5,500 by FY2026 end, per HSBC &lpar;The Economic Times&rpar;](http://www.techmeme.com/260114/p12#a260114p12)<!-- TECH:END -->
+ - [Analysis: DeepSeek&#39;s hedge fund parent High-Flyer posted 56.6% average returns across its quant funds in 2025, boosting potential cash available for DeepSeek &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p13#a260114p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

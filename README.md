@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PJM trims summer 2027 peak demand forecast to ~160 GW from ~164 GW because some projects, including data centers, lack firm service or construction commitments &lpar;Naureen S Malik/Bloomberg&rpar;](http://www.techmeme.com/260114/p47#a260114p47)
  - [OpenAI strikes a multibillion-dollar agreement to buy 750 MW of computing capacity from Cerebras over three years; sources: the deal is worth more than $10B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260114/p46#a260114p46)
  - [Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later](https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/)
  - [Bitchat, a P2P messaging app launched by Jack Dorsey, has emerged as a key lifeline for people in Uganda and Iran facing government-imposed internet shutdowns &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p45#a260114p45)
- - [Save Big on One of Our Favorite Desk Lamps from Lume Cube](https://www.wired.com/story/lume-edge-light-deal-126/)
- - [Apple Picking Google Gemini to Power Siri Was About Buying Time](https://www.cnet.com/tech/services-and-software/apple-picking-google-gemini-to-power-siri-was-about-buying-time/)<!-- TECH:END -->
+ - [Beef Tallow and 7 More Underrated Pantry Staples Chefs Swear By](https://www.cnet.com/news/underrated-pantry-items-according-to-chefs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese chip designer Montage, a Shanghai-listed company valued at $22B, plans a Hong Kong IPO that could raise $900M+, backed by Alibaba and JPMorgan &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260114/p25#a260114p25)
  - [Sources: Chinese authorities told domestic companies to stop using cybersecurity software made by ~12 US and Israeli companies due to national security concerns &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p24#a260114p24)
  - [How Ireland, an early data center winner, missed out on much of the current AI boom, hampered by creaking infrastructure and a strained electricity grid &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p23#a260114p23)
  - [HHKB Professional Classic Type-S Review: A Brilliant but Niche Keyboard](https://www.wired.com/review/hhkb-professional-classic-type-s/)
- - [TikTok Shop Showed Me Search Suggestions for Products With Nazi Symbolism](https://www.wired.com/story/tiktok-shop-nazi-symbolism/)
- - [Ahead of WEF 2026, the IMF urges governments to step up support for young workers displaced by AI, arguing candidates could use AI &quot;rather than compete with it&quot; &lpar;Delphine Strauss/Financial Times&rpar;](http://www.techmeme.com/260114/p22#a260114p22)<!-- TECH:END -->
+ - [TikTok Shop Showed Me Search Suggestions for Products With Nazi Symbolism](https://www.wired.com/story/tiktok-shop-nazi-symbolism/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

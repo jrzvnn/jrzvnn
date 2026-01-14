@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - 😝 [Goodbye kidney](http://9gag.com/gag/aQzbPq7)
- - 💣 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)
- - 😝 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
- - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
+ - 😝 [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)
+ - 😝 [Happiness](http://9gag.com/gag/aGyvKLX)
+ - 💣 [Everything done right!](http://9gag.com/gag/agm93Yw)
+ - 😝 [And it keeps making billions...](http://9gag.com/gag/aO8EK93)
+ - 👉 [The best way to leave](http://9gag.com/gag/aryEvVK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spider-Juan. Pedro parque.](http://9gag.com/gag/aMV71PA)
- - 😝 [The best way to leave](http://9gag.com/gag/aryEvVK)
- - 💣 [From shelter life to living his best life](http://9gag.com/gag/aQzb60w)
- - 😝 [Modern middle age](http://9gag.com/gag/aD29wWN)
- - 👉 [Me at 35 still buying cartoon car accessories](http://9gag.com/gag/axyKNYD)<!-- MEMES:END -->
+ - 😝 [Goodbye kidney](http://9gag.com/gag/aQzbPq7)
+ - 😝 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
+ - 💣 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 😝 [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
+ - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->
 
 ---
 

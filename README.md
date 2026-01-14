@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British Humour: No Laugh Track Required &lpar;not amurican humor&rpar;](http://9gag.com/gag/a2vgzYY)
- - 😝 [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
- - 💣 [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)
- - 😝 [Happiness](http://9gag.com/gag/aGyvKLX)
- - 👉 [Everything done right!](http://9gag.com/gag/agm93Yw)<!-- MEMES:END -->
+ - 😝 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 😝 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
+ - 💣 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 😝 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
+ - 👉 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)<!-- MEMES:END -->
 
 ---
 

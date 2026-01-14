@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose’s first-gen QC Ultra headphones have returned to their best price to date](https://www.theverge.com/gadgets/861286/bose-quietcomfort-ultra-headphones-steam-detective-fest-sale-deal)
- - [Netflix’s first original podcasts star Pete Davidson and Michael Irvin](https://www.theverge.com/news/861971/netflix-original-podcasts-pete-davidson-michael-irvin)
- - [2026 may be the year of the mega IPO, as sources say Anthropic, OpenAI, and SpaceX took early steps to go public, setting up a watershed moment for the AI boom &lpar;New York Times&rpar;](http://www.techmeme.com/260114/p43#a260114p43)
- - [Verizon’s wireless network is down for many people nationwide](https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode)
- - [Verizon says it is &quot;aware of an issue impacting wireless voice and data services for some customers&quot;, as thousands of users report no cellular reception &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/260114/p42#a260114p42)<!-- TECH:END -->
+ - [Best Vitamins for Energy in 2026](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/)
+ - [Verizon wireless outage leaves iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)
+ - [This Lip-Syncing Robot Face Could Help Future Bots Talk Like Us](https://www.cnet.com/tech/lip-syncing-robot-face-language-sounds/)
+ - [AI’s Hacking Skills Are Approaching an ‘Inflection Point’](https://www.wired.com/story/ai-models-hacking-inflection-point/)
+ - [Bose’s first-gen QC Ultra headphones have returned to their best price to date](https://www.theverge.com/gadgets/861286/bose-quietcomfort-ultra-headphones-steam-detective-fest-sale-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

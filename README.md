@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bandcamp becomes the first major music platform to ban AI content](https://www.theverge.com/news/861794/bandcamp-ban-ai-music)
- - [&#39;Civilization VII Arcade Edition&#39; coming to Apple Arcade with big caveats](https://appleinsider.com/articles/26/01/14/civilization-vii-arcade-edition-coming-to-apple-arcade-with-big-caveats?utm_source=rss)
- - [Apple Vision Pro owners will get a great assortment of classic arcade games in VR soon](https://appleinsider.com/articles/26/01/14/apple-vision-pro-owners-will-get-a-great-assortment-of-classic-arcade-games-in-vr-soon?utm_source=rss)
- - [DJI Neo 2 review: I guess I’m a drone guy now](https://www.theverge.com/tech/849707/dji-neo-2-review-i-guess-im-a-drone-guy-now)
- - [iPhone 18 design won&#39;t change much, except for Dynamic Island](https://appleinsider.com/articles/26/01/14/iphone-18-design-wont-change-much-except-for-dynamic-island?utm_source=rss)<!-- TECH:END -->
+ - [Google launches Gemini Personal Intelligence, linking to Gmail, Google Photos, Search, and YouTube history to provide context-aware responses, for paid users &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/260114/p37#a260114p37)
+ - [Civilization VII is coming to Apple Arcade](https://www.theverge.com/news/861816/civilization-vii-apple-arcade-launch)
+ - [Best Desks of 2026: I’ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/)
+ - [Parents can put a time limit on YouTube Shorts scrolling](https://www.theverge.com/news/861804/youtube-shorts-teen-time-limit-parental-controls)
+ - [Sources: the Trump administration is weighing a substantial shift in its cyberstrategy, including by enlisting private companies to assist with cyberattacks &lpar;Adam Sella/New York Times&rpar;](http://www.techmeme.com/260114/p36#a260114p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

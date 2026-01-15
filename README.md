@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 😝 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
  - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
- - 💣 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
- - 😝 [Good news everyone.](http://9gag.com/gag/a5QgPWo)
- - 👉 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)<!-- MEMES:END -->
+ - 💣 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
+ - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
+ - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
 
 ---
 

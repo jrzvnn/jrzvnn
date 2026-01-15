@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
+ - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
  - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
- - 💣 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
- - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
+ - 💣 [Kevin Hart](http://9gag.com/gag/aAyAVxL)
+ - 😝 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
  - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
 
 ---

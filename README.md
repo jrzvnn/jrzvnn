@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s always funnier with daddy](http://9gag.com/gag/aryEeAB)
- - 😝 [How kindly they give way to someone walking uphill.](http://9gag.com/gag/aVvrWPw)
- - 💣 [Six weeks later, met again](http://9gag.com/gag/abADybL)
+ - 😝 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
+ - 😝 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 💣 [How do you do that in high heels??](http://9gag.com/gag/avyq0eq)
  - 😝 [I can still feel the crust on it](http://9gag.com/gag/ayNr0YY)
- - 👉 [God wants this](http://9gag.com/gag/aNDMZwv)<!-- MEMES:END -->
+ - 👉 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)<!-- MEMES:END -->
 
 ---
 

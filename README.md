@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI video startup Higgsfield raised an $80M Series A extension from Accel and others at a $1.3B+ valuation, and reports a $200M annualized revenue run rate &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260115/p33#a260115p33)
- - [Boston-based Tulip, which offers an AI-powered frontline operations platform used by 60K workers, raised a $120M Series D led by Mitsubishi at a $1.3B valuation &lpar;Gil Press/Forbes&rpar;](http://www.techmeme.com/260115/p32#a260115p32)
- - [Get all four Matrix movies on 4K Blu-ray for $45](https://www.theverge.com/gadgets/862479/the-matrix-4k-bluray-collection-power-bank-disney-plus-deal-sale)
- - [Grok now bans illegal porn generation, after monetizing it](https://appleinsider.com/articles/26/01/15/grok-now-bans-all-undressing-images----where-its-forced-to?utm_source=rss)
- - [I spent a year on Linux and forgot to miss Windows](https://www.theverge.com/features/861968/year-using-linux)<!-- TECH:END -->
+ - [Ricoh&amp;#8217;s black-and-white-only camera launches in February for $2,200](https://www.theverge.com/news/862513/ricoh-gr-iv-monochrome-price-launch-specs-preorder)
+ - [The Sony Bravia 8 II is a TV enthusiast’s dream](https://www.theverge.com/tech/862340/sony-bravia-8-ii-tv-review)
+ - [Best Packing Cubes for Every Kind of Trip &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)
+ - [Your Spotify Premium Subscription Is About to Cost More](https://www.cnet.com/tech/services-and-software/spotify-premium-subscription-price-hike-2026/)
+ - [AI video startup Higgsfield raised an $80M Series A extension from Accel and others at a $1.3B+ valuation, and reports a $200M annualized revenue run rate &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260115/p33#a260115p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

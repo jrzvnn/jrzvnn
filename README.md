@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane](http://9gag.com/gag/aZZXbYz)
- - 😝 [Discipline.and decisive](http://9gag.com/gag/aAyAYz9)
- - 💣 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 😝 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
+ - 😝 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
+ - 💣 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
  - 😝 [Good news everyone.](http://9gag.com/gag/a5QgPWo)
- - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
+ - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Apple&#39;s Google Gemini deal will be a cloud contract where Apple pays Google; another source says OpenAI declined to be Apple&#39;s custom model provider &lpar;Financial Times&rpar;](http://www.techmeme.com/260115/p6#a260115p6)
  - [OpenAI quietly rolls out ChatGPT Translate, a standalone website that currently supports plain text translations across 50+ languages &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/260115/p5#a260115p5)
  - [TSMC reports Q4 net profit up 35% YoY to a record ~$16B, handily beating estimates, as it benefited from surging demand for AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p4#a260115p4)
- - [Sources: China is drafting rules for Nvidia H200 purchases, limiting how many chips local companies can buy and requiring them to justify the need &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260115/p3#a260115p3)
- - [A source close to Thinking Machines alleged that ex-CTO Barret Zoph, who is returning to OpenAI, had shared confidential company information with competitors &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260115/p2#a260115p2)
- - [GlobalFoundries agrees to acquire Synopsys&#39; ARC processor IP business, which includes ARC-V &lpar;RISC-V&rpar; and ARC CPU IP, and integrate it into its MIPS business &lpar;Nitin Dahad/EE Times&rpar;](http://www.techmeme.com/260115/p1#a260115p1)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 15, #479](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-15-479/)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Jan. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-jan-15/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

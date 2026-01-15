@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Take an Extra $50 Off My Favorite Mattress With This Code](https://www.wired.com/story/nolah-evolution-hybrid-mattress-sale-2026/)
+ - [What&#39;s New at Disneyland and Disney World in 2026? Rides, Lands, Ticket Deals and More Updates](https://www.cnet.com/tech/whats-coming-to-disney-world-and-disneyland-new-rides-lands-and-attractions-in-2026/)
  - [Source: at least two more Thinking Machines staffers are expected to join OpenAI soon; some researchers say they are exhausted by the industry&#39;s constant drama &lpar;Wired&rpar;](http://www.techmeme.com/260115/p48#a260115p48)
- - [Inside OpenAI’s Raid on Thinking Machines Lab](https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/)
- - [The US claims it just strongarmed Taiwan into spending $250 billion on American chip manufacturing](https://www.theverge.com/news/862938/us-taiwan-chipmaking-deal-250-billion-investment-tsmc)
- - [Replit launches Mobile Apps on Replit, which enables vibe-coding of iOS apps with integrated Stripe monetization &lpar;CNBC&rpar;](http://www.techmeme.com/260115/p47#a260115p47)<!-- TECH:END -->
+ - [Best Windows Laptop for 2026](https://www.cnet.com/tech/computing/best-windows-laptop/)
+ - [Inside OpenAI’s Raid on Thinking Machines Lab](https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

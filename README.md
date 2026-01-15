@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin-based Parloa, which develops AI customer service agents for Booking.com and others, raised $350M at a $3B valuation, taking its total raised to $560M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/260115/p22#a260115p22)
+ - [The Real AI Talent War Is for Plumbers and Electricians](https://www.wired.com/story/why-there-arent-enough-electricians-and-plumbers-to-build-ai-data-centers/)
+ - [Asus ROG Falcata Review: A Split Gaming Keyboard](https://www.wired.com/review/asus-rog-falcata/)
  - [Polymarket and Kalshi count Donald Trump Jr. as an adviser, and Trump Media plans to launch Truth Predict, raising ethical questions during Trump&#39;s second term &lpar;Sharon LaFraniere/New York Times&rpar;](http://www.techmeme.com/260115/p21#a260115p21)
- - [OpenAI’s ChatGPT translator challenges Google Translate](https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website)
- - [Self-help gurus like Tony Robbins, Gabby Bernstein, and Matthew Hussey are charging up to $99 per month to access AI chatbots that promise personalized advice &lpar;Sara Ashley O&#39;Brien/Wall Street Journal&rpar;](http://www.techmeme.com/260115/p20#a260115p20)
- - [ASML hits a $500B+ market cap for the first time, the third European company to reach the milestone, after TSMC reported strong earnings; ASML is up 24% YTD &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p19#a260115p19)
- - [WitnessAI, which intercepts employees&#39; custom GenAI models usage and applies safeguards, raised $58M led by Sound Ventures, taking its total funding to $85M &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/260115/p18#a260115p18)<!-- TECH:END -->
+ - [OpenAI’s ChatGPT translator challenges Google Translate](https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

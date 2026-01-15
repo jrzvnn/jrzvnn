@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I spent a year on Linux and forgot to miss Windows](https://www.theverge.com/features/861968/year-using-linux)
- - [Setapp Mobile EU app store, CleanMyMac Business both close down for good](https://appleinsider.com/articles/26/01/15/setapp-mobile-eu-app-store-cleanmymac-business-both-close-down-for-good?utm_source=rss)
- - [Researchers discover WhisperPair, a set of vulnerabilities in Google&#39;s Fast Pair protocol affecting 17 audio device models from 10 brands; Google has patched &lpar;Wired&rpar;](http://www.techmeme.com/260115/p31#a260115p31)
- - [RAM price hikes: the latest on the global memory shortage](https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news)
- - [BlackRock raises $12.5B as part of its Microsoft partnership to bankroll data centers and energy infrastructure, bringing it closer to its $30B goal from 2024 &lpar;Silla Brush/Bloomberg&rpar;](http://www.techmeme.com/260115/p30#a260115p30)<!-- TECH:END -->
+ - [AI video startup Higgsfield raised an $80M Series A extension from Accel and others at a $1.3B+ valuation, and reports a $200M annualized revenue run rate &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260115/p33#a260115p33)
+ - [Boston-based Tulip, which offers an AI-powered frontline operations platform used by 60K workers, raised a $120M Series D led by Mitsubishi at a $1.3B valuation &lpar;Gil Press/Forbes&rpar;](http://www.techmeme.com/260115/p32#a260115p32)
+ - [Get all four Matrix movies on 4K Blu-ray for $45](https://www.theverge.com/gadgets/862479/the-matrix-4k-bluray-collection-power-bank-disney-plus-deal-sale)
+ - [Grok now bans illegal porn generation, after monetizing it](https://appleinsider.com/articles/26/01/15/grok-now-bans-all-undressing-images----where-its-forced-to?utm_source=rss)
+ - [I spent a year on Linux and forgot to miss Windows](https://www.theverge.com/features/861968/year-using-linux)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

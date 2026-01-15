@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take an Extra $50 Off My Favorite Mattress With This Code](https://www.wired.com/story/nolah-evolution-hybrid-mattress-sale-2026/)
- - [What&#39;s New at Disneyland and Disney World in 2026? Rides, Lands, Ticket Deals and More Updates](https://www.cnet.com/tech/whats-coming-to-disney-world-and-disneyland-new-rides-lands-and-attractions-in-2026/)
- - [Source: at least two more Thinking Machines staffers are expected to join OpenAI soon; some researchers say they are exhausted by the industry&#39;s constant drama &lpar;Wired&rpar;](http://www.techmeme.com/260115/p48#a260115p48)
- - [Best Windows Laptop for 2026](https://www.cnet.com/tech/computing/best-windows-laptop/)
- - [Inside OpenAI’s Raid on Thinking Machines Lab](https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/)<!-- TECH:END -->
+ - [Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app](https://www.theverge.com/news/863046/natural-cycles-wristband-digital-birth-control)
+ - [You can save over $1,500 on LG’s 65-inch C5 OLED TV](https://www.theverge.com/gadgets/862989/lg-c5-oled-tv-ebay-deal-sale)
+ - [The best alternatives to Spotify for listening to music](https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon)
+ - [Asus says it&amp;#8217;s dropping the RTX 5070 Ti as the memory shortage squeezes supply](https://www.theverge.com/news/863000/asus-nvidia-rtx-5070-ti-5060-ti-supply-rumors)
+ - [Take an Extra $50 Off My Favorite Mattress With This Code](https://www.wired.com/story/nolah-evolution-hybrid-mattress-sale-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

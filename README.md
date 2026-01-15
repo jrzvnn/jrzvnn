@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea dropped Naver&#39;s and NCSoft&#39;s teams from its competition to develop its first sovereign AI model, as LG&#39;s, SK Telecom&#39;s, and Upstage&#39;s teams advanced &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260115/p15#a260115p15)
+ - [Our Favorite Coway Air Purifiers Are on Sale &lpar;2026&rpar;](https://www.wired.com/story/coway-air-purifier-deals-january-2026/)
+ - [AWS launches European Sovereign Cloud, creating a new parent company for its sovereign cloud that will be locally controlled in the EU and run by EU citizens &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260115/p14#a260115p14)
  - [TSMC projects capital spending in 2026 at between $52B and $56B, up 25%+ from 2025, and forecasts ~30% YoY revenue growth in 2026, both above analyst estimates &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p13#a260115p13)
- - [Scientists say that AI has become a powerful and rapidly improving research tool, and that whether it is generating ideas on its own is, for now, a moot point &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260115/p12#a260115p12)
- - [Chinese chipmaker SpacemiT, whose RISC-V-based K1 chip is used in industrial systems, robotics, edge computing, and AI devices, raised an ~$86M Series B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p11#a260115p11)
- - [Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors](https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026)
- - [Microsoft, Meta, and Amazon are paying up for &amp;#8216;enterprise&amp;#8217; access to Wikipedia](https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation)<!-- TECH:END -->
+ - [Scientists say that AI has become a powerful and rapidly improving research tool, and that whether it is generating ideas on its own is, for now, a moot point &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260115/p12#a260115p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

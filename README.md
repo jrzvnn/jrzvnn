@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon offers $20 account credit following daylong cellular outage](https://appleinsider.com/articles/26/01/15/verizon-offers-20-account-credit-following-daylong-cellular-outage?utm_source=rss)
- - [OpenAI says it issued a request for proposals to US-based hardware manufacturers as it seeks to push into consumer devices, robotics, and cloud data centers &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p36#a260115p36)
- - [Amazon files an objection to Saks Global&#39;s bankruptcy financing plan, and says its $475M investment in the department store is now effectively &quot;worthless&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/260115/p35#a260115p35)
- - [Over 100 episodes of classic Sesame Street have arrived on YouTube](https://www.theverge.com/news/862648/sesame-street-classics-youtube-streaming)
- - [The next Subway Surfers game comes out in February](https://www.theverge.com/news/861594/subway-surfers-city-release-date-ios-android)<!-- TECH:END -->
+ - [Google releases TranslateGemma, a suite of Gemma 3-based open translation models available in 4B, 12B, and 27B parameter sizes with support for 55 languages &lpar;The Keyword&rpar;](http://www.techmeme.com/260115/p39#a260115p39)
+ - [Disney Plus &amp; Hulu bundle drops to $9.99 for a month, best streaming deal of 2026](https://appleinsider.com/articles/26/01/15/disney-plus-hulu-bundle-drops-to-999-for-a-month-best-streaming-deal-of-2026?utm_source=rss)
+ - [X revises its developer API policies to &quot;no longer allow apps that reward users for posting on X &lpar;aka &quot;infofi&quot;&rpar;&quot;, amid a backlash about growing AI slop on X &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/260115/p38#a260115p38)
+ - [Microsoft is closing its employee library and cutting back on subscriptions](https://www.theverge.com/tech/862531/microsoft-library-closure-transition-changes-notepad)
+ - [Xreal sues Viture over AR glasses patent](https://www.theverge.com/gadgets/862542/xreal-viture-smart-glasses-patent-suits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

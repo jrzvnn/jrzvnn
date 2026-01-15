@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea dropped Naver&#39;s and NCSoft&#39;s teams from its competition to develop its first sovereign AI model, as LG&#39;s, SK Telecom&#39;s, and Upstage&#39;s teams advanced &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260115/p15#a260115p15)
- - [Our Favorite Coway Air Purifiers Are on Sale &lpar;2026&rpar;](https://www.wired.com/story/coway-air-purifier-deals-january-2026/)
- - [AWS launches European Sovereign Cloud, creating a new parent company for its sovereign cloud that will be locally controlled in the EU and run by EU citizens &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260115/p14#a260115p14)
- - [TSMC projects capital spending in 2026 at between $52B and $56B, up 25%+ from 2025, and forecasts ~30% YoY revenue growth in 2026, both above analyst estimates &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p13#a260115p13)
- - [Scientists say that AI has become a powerful and rapidly improving research tool, and that whether it is generating ideas on its own is, for now, a moot point &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260115/p12#a260115p12)<!-- TECH:END -->
+ - [The Wikimedia Foundation says Microsoft, Meta, Amazon, Perplexity, and Mistral joined Wikimedia Enterprise to get &quot;tuned&quot; API access; Google is already a member &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260115/p17#a260115p17)
+ - [Yield Sec: the top 10 pirate sports streaming sites in the UK, largely funded by ads from unlicensed gambling operators, had 1.6B views in H1 2025, up 33% YoY &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/260115/p16#a260115p16)
+ - [Wikipedia’s Existential Threats Feel Greater Than Ever](https://www.wired.com/story/wikipedias-existential-threats-have-never-been-greater/)
+ - [Lizn Hearpieces Review: Affordable but Uncomfortable Hearing Aids](https://www.wired.com/review/lizn-hearpieces/)
+ - [South Korea dropped Naver&#39;s and NCSoft&#39;s teams from its competition to develop its first sovereign AI model, as LG&#39;s, SK Telecom&#39;s, and Upstage&#39;s teams advanced &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260115/p15#a260115p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

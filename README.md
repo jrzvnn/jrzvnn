@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The next Subway Surfers game comes out in February](https://www.theverge.com/news/861594/subway-surfers-city-release-date-ios-android)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Brain-computer interface startup Merge Labs, which Sam Altman co-founded, raised $252M from OpenAI, Bain Capital, and others &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/260115/p34#a260115p34)
  - [Verizon will pay you $20 following its nationwide outage — here&amp;#8217;s how to get it](https://www.theverge.com/news/862607/verizon-will-pay-you-20-following-its-nationwide-outage-heres-how-to-get-it)
- - [Setapp Mobile EU app store, CleanMyMac Business both close down for good](https://appleinsider.com/articles/26/01/15/setapp-mobile-eu-app-store-cleanmymac-business-both-close-down-for-good?utm_source=rss)
- - [Ricoh&amp;#8217;s black-and-white-only camera launches in February for $2,200](https://www.theverge.com/news/862513/ricoh-gr-iv-monochrome-price-launch-specs-preorder)
- - [The Sony Bravia 8 II is a TV enthusiast’s dream](https://www.theverge.com/tech/862340/sony-bravia-8-ii-tv-review)
- - [Best Packing Cubes for Every Kind of Trip &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)<!-- TECH:END -->
+ - [Setapp Mobile EU app store, CleanMyMac Business both close down for good](https://appleinsider.com/articles/26/01/15/setapp-mobile-eu-app-store-cleanmymac-business-both-close-down-for-good?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

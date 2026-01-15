@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
- - 😝 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
- - 💣 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
+ - 😝 [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
+ - 😝 [6.9](http://9gag.com/gag/awyjb7R)
+ - 💣 [My talents are truly wasted here](http://9gag.com/gag/aPALvDB)
  - 😝 [I have no idea why a Jedi was in my bedroom, do you?](http://9gag.com/gag/aYQ6Wbv)
- - 👉 [His kids are probably 9gag users.](http://9gag.com/gag/aE0Kvjn)<!-- MEMES:END -->
+ - 👉 [Give me goosebumps every time](http://9gag.com/gag/ayNr5OY)<!-- MEMES:END -->
 
 ---
 

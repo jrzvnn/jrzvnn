@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC projects capital spending in 2026 at between $52B and $56B, up 25%+ from 2025, and forecasts ~30% YoY revenue growth in 2026, both above analyst estimates &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p13#a260115p13)
  - [Scientists say that AI has become a powerful and rapidly improving research tool, and that whether it is generating ideas on its own is, for now, a moot point &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260115/p12#a260115p12)
  - [Chinese chipmaker SpacemiT, whose RISC-V-based K1 chip is used in industrial systems, robotics, edge computing, and AI devices, raised an ~$86M Series B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p11#a260115p11)
  - [Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors](https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026)
- - [Microsoft, Meta, and Amazon are paying up for &amp;#8216;enterprise&amp;#8217; access to Wikipedia](https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation)
- - [Appfigures: global consumer mobile app spending on Apple&#39;s App Store and Google Play rose 21.6% YoY to $155.8B in 2025, but app downloads dropped 2.7% to 106.9B &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260115/p10#a260115p10)<!-- TECH:END -->
+ - [Microsoft, Meta, and Amazon are paying up for &amp;#8216;enterprise&amp;#8217; access to Wikipedia](https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

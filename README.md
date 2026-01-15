@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spider-Juan. Pedro parque.](http://9gag.com/gag/aMV71PA)
- - 😝 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
- - 💣 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
- - 😝 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)
- - 👉 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)<!-- MEMES:END -->
+ - 😝 [And it keeps making billions...](http://9gag.com/gag/aO8EK93)
+ - 😝 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
+ - 💣 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
+ - 👉 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)<!-- MEMES:END -->
 
 ---
 

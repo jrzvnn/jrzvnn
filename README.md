@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next Subway Surfers game comes out in February](https://www.theverge.com/news/861594/subway-surfers-city-release-date-ios-android)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Brain-computer interface startup Merge Labs, which Sam Altman co-founded, raised $252M from OpenAI, Bain Capital, and others &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/260115/p34#a260115p34)
- - [Verizon will pay you $20 following its nationwide outage — here&amp;#8217;s how to get it](https://www.theverge.com/news/862607/verizon-will-pay-you-20-following-its-nationwide-outage-heres-how-to-get-it)
- - [Setapp Mobile EU app store, CleanMyMac Business both close down for good](https://appleinsider.com/articles/26/01/15/setapp-mobile-eu-app-store-cleanmymac-business-both-close-down-for-good?utm_source=rss)<!-- TECH:END -->
+ - [Verizon offers $20 account credit following daylong cellular outage](https://appleinsider.com/articles/26/01/15/verizon-offers-20-account-credit-following-daylong-cellular-outage?utm_source=rss)
+ - [OpenAI says it issued a request for proposals to US-based hardware manufacturers as it seeks to push into consumer devices, robotics, and cloud data centers &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p36#a260115p36)
+ - [Amazon files an objection to Saks Global&#39;s bankruptcy financing plan, and says its $475M investment in the department store is now effectively &quot;worthless&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/260115/p35#a260115p35)
+ - [Over 100 episodes of classic Sesame Street have arrived on YouTube](https://www.theverge.com/news/862648/sesame-street-classics-youtube-streaming)
+ - [The next Subway Surfers game comes out in February](https://www.theverge.com/news/861594/subway-surfers-city-release-date-ios-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

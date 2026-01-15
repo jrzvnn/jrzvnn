@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WitnessAI, which intercepts employees&#39; custom GenAI models usage and applies safeguards, raised $58M led by Sound Ventures, taking its total funding to $85M &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/260115/p18#a260115p18)
- - [The Wikimedia Foundation says Microsoft, Meta, Amazon, Perplexity, and Mistral joined Wikimedia Enterprise to get &quot;tuned&quot; API access; Google is already a member &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260115/p17#a260115p17)
- - [Yield Sec: the top 10 pirate sports streaming sites in the UK, largely funded by ads from unlicensed gambling operators, had 1.6B views in H1 2025, up 33% YoY &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/260115/p16#a260115p16)
- - [Wikipedia’s Existential Threats Feel Greater Than Ever](https://www.wired.com/story/wikipedias-existential-threats-have-never-been-greater/)
- - [Lizn Hearpieces Review: Affordable but Uncomfortable Hearing Aids](https://www.wired.com/review/lizn-hearpieces/)<!-- TECH:END -->
+ - [Polymarket and Kalshi count Donald Trump Jr. as an adviser, and Trump Media plans to launch Truth Predict, raising ethical questions during Trump&#39;s second term &lpar;Sharon LaFraniere/New York Times&rpar;](http://www.techmeme.com/260115/p21#a260115p21)
+ - [OpenAI’s ChatGPT translator challenges Google Translate](https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website)
+ - [Self-help gurus like Tony Robbins, Gabby Bernstein, and Matthew Hussey are charging up to $99 per month to access AI chatbots that promise personalized advice &lpar;Sara Ashley O&#39;Brien/Wall Street Journal&rpar;](http://www.techmeme.com/260115/p20#a260115p20)
+ - [ASML hits a $500B+ market cap for the first time, the third European company to reach the milestone, after TSMC reported strong earnings; ASML is up 24% YTD &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p19#a260115p19)
+ - [WitnessAI, which intercepts employees&#39; custom GenAI models usage and applies safeguards, raised $58M led by Sound Ventures, taking its total funding to $85M &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/260115/p18#a260115p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

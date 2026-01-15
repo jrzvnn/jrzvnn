@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How kindly they give way to someone walking uphill.](http://9gag.com/gag/aVvrWPw)
- - 😝 [Six weeks later, met again](http://9gag.com/gag/abADybL)
- - 💣 [I can still feel the crust on it](http://9gag.com/gag/ayNr0YY)
- - 😝 [Listen how the pebble grows](http://9gag.com/gag/azxyE9q)
- - 👉 [God wants this](http://9gag.com/gag/aNDMZwv)<!-- MEMES:END -->
+ - 😝 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
+ - 😝 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
+ - 💣 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 😝 [Diversity](http://9gag.com/gag/aGyvwmz)
+ - 👉 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)<!-- MEMES:END -->
 
 ---
 

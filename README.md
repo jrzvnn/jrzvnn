@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Amazon is buying copper harvested by bacteria for its data centers](https://www.theverge.com/news/862820/amazon-arizona-copper-mine-data-centers)
- - [Pijama wants to bring more indie films to a global audience](https://www.theverge.com/entertainment/862676/pijama-streaming-movies)
- - [Equal1, which was spun out from University College Dublin, raised $60M to deploy its new quantum server for data centers, bringing its total funding to $85M &lpar;Ciara O&#39;Brien/The Irish Times&rpar;](http://www.techmeme.com/260115/p41#a260115p41)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)<!-- TECH:END -->
+ - [Spotify Premium jumps to $12.99/mo, $2 more expensive than Apple Music](https://appleinsider.com/articles/26/01/15/spotify-premium-jumps-to-1299mo-2-more-expensive-than-apple-music?utm_source=rss)
+ - [Symbolic.ai, founded by ex-eBay CEO Devin Wenig and Ars Technica cofounder Jon Stokes, partners with News Corp to offer AI tools to WSJ, Barron&#39;s, and others &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/260115/p42#a260115p42)
+ - [OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs](https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/)
+ - [Democrats push FTC to investigate Trump Mobile](https://www.theverge.com/news/862821/democrats-elizabeth-warren-aoc-ftc-trump-mobile-investigation-letter)
+ - [Minnesota Is Just the Beginning. California and New York Are ‘Next’](https://www.wired.com/story/california-and-new-york-are-next/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

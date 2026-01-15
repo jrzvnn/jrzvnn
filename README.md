@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game of Thrones shows its playful side in A Knight of the Seven Kingdoms](https://www.theverge.com/entertainment/861838/hbo-a-knight-of-the-seven-kingdoms-review)
- - [‘Get Grok Gone’: Advocacy groups demand Apple and Google block X from app stores](https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters)
- - [Spotify is hiking prices again](https://www.theverge.com/news/862465/spotify-premium-us-price-increase-2026)
- - [Anthropic researchers say rich countries&#39; higher AI use risks deepening economic disparities and widening living standard gaps, driven by productivity gains &lpar;Financial Times&rpar;](http://www.techmeme.com/260115/p27#a260115p27)
- - [What Is VO2 Max? Here’s What You Need to Know About the Longevity Metric &lpar;2026&rpar;](https://www.wired.com/story/what-is-vo2-max/)<!-- TECH:END -->
+ - [RAM price hikes: the latest on the global memory shortage](https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news)
+ - [BlackRock raises $12.5B as part of its Microsoft partnership to bankroll data centers and energy infrastructure, bringing it closer to its $30B goal from 2024 &lpar;Silla Brush/Bloomberg&rpar;](http://www.techmeme.com/260115/p30#a260115p30)
+ - [11 Best Smartwatches &lpar;2026&rpar;: Apple, Wear OS, Hybrid &amp; Kids’ Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Bitmine, the largest corporate holder of ether, invests $200M in MrBeast&#39;s Beast Industries, set to close on January 19; Bitmine holds ~4M ETH valued at ~$13.6B &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260115/p29#a260115p29)
+ - [India&#39;s Supreme Court rules Tiger Global&#39;s $1.6B Flipkart stake sale to Walmart in 2018 is subject to taxes, a ruling that may shape future cross-border deals &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p28#a260115p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

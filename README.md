@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok now bans all undressing images -- where it&#39;s forced to](https://appleinsider.com/articles/26/01/15/grok-now-bans-all-undressing-images----where-its-forced-to?utm_source=rss)
- - [Wikimedia celebrates Wikipedia&#39;s 25th anniversary, marking its growth from 100 pages to 65M+ articles with nearly 15B monthly views, and releases a docuseries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260115/p23#a260115p23)
- - [Berlin-based Parloa, which develops AI customer service agents for Booking.com and others, raised $350M at a $3B valuation, taking its total raised to $560M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/260115/p22#a260115p22)
- - [The Real AI Talent War Is for Plumbers and Electricians](https://www.wired.com/story/why-there-arent-enough-electricians-and-plumbers-to-build-ai-data-centers/)
- - [Asus ROG Falcata Review: A Split Gaming Keyboard](https://www.wired.com/review/asus-rog-falcata/)<!-- TECH:END -->
+ - [Game of Thrones shows its playful side in A Knight of the Seven Kingdoms](https://www.theverge.com/entertainment/861838/hbo-a-knight-of-the-seven-kingdoms-review)
+ - [‘Get Grok Gone’: Advocacy groups demand Apple and Google block X from app stores](https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters)
+ - [Spotify is hiking prices again](https://www.theverge.com/news/862465/spotify-premium-us-price-increase-2026)
+ - [Anthropic researchers say rich countries&#39; higher AI use risks deepening economic disparities and widening living standard gaps, driven by productivity gains &lpar;Financial Times&rpar;](http://www.techmeme.com/260115/p27#a260115p27)
+ - [What Is VO2 Max? Here’s What You Need to Know About the Longevity Metric &lpar;2026&rpar;](https://www.wired.com/story/what-is-vo2-max/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

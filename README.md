@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I spent a year on Linux and forgot to miss Windows](https://www.theverge.com/features/861968/year-using-linux)
+ - [Setapp Mobile EU app store, CleanMyMac Business both close down for good](https://appleinsider.com/articles/26/01/15/setapp-mobile-eu-app-store-cleanmymac-business-both-close-down-for-good?utm_source=rss)
+ - [Researchers discover WhisperPair, a set of vulnerabilities in Google&#39;s Fast Pair protocol affecting 17 audio device models from 10 brands; Google has patched &lpar;Wired&rpar;](http://www.techmeme.com/260115/p31#a260115p31)
  - [RAM price hikes: the latest on the global memory shortage](https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news)
- - [BlackRock raises $12.5B as part of its Microsoft partnership to bankroll data centers and energy infrastructure, bringing it closer to its $30B goal from 2024 &lpar;Silla Brush/Bloomberg&rpar;](http://www.techmeme.com/260115/p30#a260115p30)
- - [11 Best Smartwatches &lpar;2026&rpar;: Apple, Wear OS, Hybrid &amp; Kids’ Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Bitmine, the largest corporate holder of ether, invests $200M in MrBeast&#39;s Beast Industries, set to close on January 19; Bitmine holds ~4M ETH valued at ~$13.6B &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260115/p29#a260115p29)
- - [India&#39;s Supreme Court rules Tiger Global&#39;s $1.6B Flipkart stake sale to Walmart in 2018 is subject to taxes, a ruling that may shape future cross-border deals &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p28#a260115p28)<!-- TECH:END -->
+ - [BlackRock raises $12.5B as part of its Microsoft partnership to bankroll data centers and energy infrastructure, bringing it closer to its $30B goal from 2024 &lpar;Silla Brush/Bloomberg&rpar;](http://www.techmeme.com/260115/p30#a260115p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

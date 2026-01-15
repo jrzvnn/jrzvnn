@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
  - 😝 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
- - 💣 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
- - 😝 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
- - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
+ - 😝 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
+ - 😝 [I have no idea why a Jedi was in my bedroom, do you?](http://9gag.com/gag/aYQ6Wbv)
+ - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
 
 ---
 

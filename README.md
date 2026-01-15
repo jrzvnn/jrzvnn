@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dave Filoni takes charge of Star Wars as new president of Lucasfilm](https://www.theverge.com/entertainment/863065/dave-filoni-lucasfilm-president-star-wars)
  - [Google agrees to pay $8.25M to settle a class-action lawsuit alleging its AdMob SDK illegally collected data from children under age 13 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/260115/p49#a260115p49)
  - [Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app](https://www.theverge.com/news/863046/natural-cycles-wristband-digital-birth-control)
  - [Meta’s Layoffs Leave Supernatural Fitness Users in Mourning](https://www.wired.com/story/metas-layoffs-supernatural-fitness-users/)
- - [You can save over $1,500 on LG’s 65-inch C5 OLED TV](https://www.theverge.com/gadgets/862989/lg-c5-oled-tv-ebay-deal-sale)
- - [The best alternatives to Spotify for listening to music](https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon)<!-- TECH:END -->
+ - [You can save over $1,500 on LG’s 65-inch C5 OLED TV](https://www.theverge.com/gadgets/862989/lg-c5-oled-tv-ebay-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

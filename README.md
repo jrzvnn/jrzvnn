@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
- - 😝 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
- - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
- - 😝 [I have no idea why a Jedi was in my bedroom, do you?](http://9gag.com/gag/aYQ6Wbv)
- - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
+ - 😝 [Sidekick](http://9gag.com/gag/aKGZg63)
+ - 😝 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
+ - 💣 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->
 
 ---
 

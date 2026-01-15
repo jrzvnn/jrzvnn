@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI](https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/)
- - [Fidji Simo says Barret Zoph, Luke Metz, and Sam Schoenholz are returning to OpenAI, a move which &quot;has been in the works for several weeks&quot; &lpar;Fidji Simo/@fidjissimo&rpar;](http://www.techmeme.com/260114/p55#a260114p55)
- - [Thinking Machines parts ways with CTO Barret Zoph, with Soumith Chintala taking over the role; sources say the termination is due to &quot;unethical conduct&quot; &lpar;Kylie Robison/@kyliebytes&rpar;](http://www.techmeme.com/260114/p54#a260114p54)
- - [X updates Grok to prevent the &quot;editing of images of real people in revealing clothing such as bikinis&quot; and geoblocks it for all users &quot;where it&#39;s illegal&quot; &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260114/p53#a260114p53)
- - [Apple AI research shows how MLLMs understand, generate, search for images](https://appleinsider.com/articles/26/01/14/apple-ai-research-shows-how-mllms-understand-generate-search-for-images?utm_source=rss)<!-- TECH:END -->
+ - [CoinDesk Data: Binance&#39;s market share of spot crypto trading fell to 25% in December, its lowest since 2021, and it is also losing ground in derivatives trading &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/260114/p58#a260114p58)
+ - [Verizon wireless outage leaves iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)
+ - [Massive Verizon Outage Across US Could Be Affecting 2 Million &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/verizon-outage-january-2026/)
+ - [Digg, an Early Social and News Site, Officially Relaunches](https://www.cnet.com/news/social-media/digg-an-early-social-and-news-site-officially-relaunches/)
+ - [Project Eleven, which builds tools to prepare blockchains for post-quantum threats, raised a $20M Series A led by Castle Island at a $120M post-money valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/260114/p57#a260114p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

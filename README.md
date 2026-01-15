@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
- - 💣 [Kevin Hart](http://9gag.com/gag/aAyAVxL)
- - 😝 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
- - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
+ - 😝 [Kevin Hart](http://9gag.com/gag/aAyAVxL)
+ - 😝 [Dab](http://9gag.com/gag/apR70xE)
+ - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
+ - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
+ - 👉 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)<!-- MEMES:END -->
 
 ---
 

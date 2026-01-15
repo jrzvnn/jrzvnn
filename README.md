@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon will pay you $20 following its nationwide outage — here&amp;#8217;s how to get it](https://www.theverge.com/news/862607/verizon-will-pay-you-20-following-its-nationwide-outage-heres-how-to-get-it)
+ - [Setapp Mobile EU app store, CleanMyMac Business both close down for good](https://appleinsider.com/articles/26/01/15/setapp-mobile-eu-app-store-cleanmymac-business-both-close-down-for-good?utm_source=rss)
  - [Ricoh&amp;#8217;s black-and-white-only camera launches in February for $2,200](https://www.theverge.com/news/862513/ricoh-gr-iv-monochrome-price-launch-specs-preorder)
  - [The Sony Bravia 8 II is a TV enthusiast’s dream](https://www.theverge.com/tech/862340/sony-bravia-8-ii-tv-review)
- - [Best Packing Cubes for Every Kind of Trip &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)
- - [Your Spotify Premium Subscription Is About to Cost More](https://www.cnet.com/tech/services-and-software/spotify-premium-subscription-price-hike-2026/)
- - [AI video startup Higgsfield raised an $80M Series A extension from Accel and others at a $1.3B+ valuation, and reports a $200M annualized revenue run rate &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260115/p33#a260115p33)<!-- TECH:END -->
+ - [Best Packing Cubes for Every Kind of Trip &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

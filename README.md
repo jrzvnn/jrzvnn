@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors](https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026)
+ - [Microsoft, Meta, and Amazon are paying up for &amp;#8216;enterprise&amp;#8217; access to Wikipedia](https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation)
  - [Appfigures: global consumer spending in mobile apps on the App Store and Google Play rose 21.6% YoY to $155.8B in 2025, but app downloads dropped 2.7% to 106.9B &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260115/p10#a260115p10)
  - [Microsoft agrees to buy a record 2.85M soil carbon credits from Indigo Carbon linked to regenerative US agriculture; a source values the deal at $171M-$228M &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p9#a260115p9)
- - [Hong Kong-based WeLab, which operates two digital banks in Hong Kong and Indonesia, raised $220M in equity and debt from HSBC, Prudential Hong Kong, and others &lpar;Denise Wee/Bloomberg&rpar;](http://www.techmeme.com/260115/p8#a260115p8)
- - [Blockchain-based lender Figure unveils the On-Chain Public Equity Network to issue, trade, and lend stocks natively on a blockchain, not as tokenized replicas &lpar;Kyle Baird/The Block&rpar;](http://www.techmeme.com/260115/p7#a260115p7)
- - [Source: Apple&#39;s Google Gemini deal will be a cloud contract where Apple pays Google; another source says OpenAI declined to be Apple&#39;s custom model provider &lpar;Financial Times&rpar;](http://www.techmeme.com/260115/p6#a260115p6)<!-- TECH:END -->
+ - [Hong Kong-based WeLab, which operates two digital banks in Hong Kong and Indonesia, raised $220M in equity and debt from HSBC, Prudential Hong Kong, and others &lpar;Denise Wee/Bloomberg&rpar;](http://www.techmeme.com/260115/p8#a260115p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

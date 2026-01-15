@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
- - 😝 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
- - 💣 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - 😝 [He&#39;s just probably Doing Work &amp; gaming at the same time.](http://9gag.com/gag/aXP30ov)
- - 👉 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)<!-- MEMES:END -->
+ - 😝 [Insane](http://9gag.com/gag/aZZXbYz)
+ - 😝 [Discipline.and decisive](http://9gag.com/gag/aAyAYz9)
+ - 💣 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 😝 [Good news everyone.](http://9gag.com/gag/a5QgPWo)
+ - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
 
 ---
 

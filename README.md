@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works](https://www.wired.com/story/anthropic-claude-cowork-agent/)
- - [Apple chipmaker TSMC is spending big on next-gen silicon, AI chips, and the U.S.](https://appleinsider.com/articles/26/01/15/apple-chipmaker-tsmc-is-spending-big-on-next-gen-silicon-ai-chips-and-the-us?utm_source=rss)
- - [Raspberry Pi&amp;#8217;s new add-on board has 8GB of RAM for running gen AI models](https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram)
- - [Amazon is turning Fallout’s postapocalypse into a reality show](https://www.theverge.com/streaming/862738/fallout-shelter-reality-show-amazon-prime-video)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Amazon is buying copper harvested by bacteria for its data centers](https://www.theverge.com/news/862820/amazon-arizona-copper-mine-data-centers)
+ - [Pijama wants to bring more indie films to a global audience](https://www.theverge.com/entertainment/862676/pijama-streaming-movies)
+ - [Equal1, which was spun out from University College Dublin, raised $60M to deploy its new quantum server for data centers, bringing its total funding to $85M &lpar;Ciara O&#39;Brien/The Irish Times&rpar;](http://www.techmeme.com/260115/p41#a260115p41)
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
- - 😝 [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
- - 💣 [6.9](http://9gag.com/gag/awyjb7R)
- - 😝 [My talents are truly wasted here](http://9gag.com/gag/aPALvDB)
- - 👉 [Give me goosebumps every time](http://9gag.com/gag/ayNr5OY)<!-- MEMES:END -->
+ - 😝 [His kids are probably 9gag users.](http://9gag.com/gag/aE0Kvjn)
+ - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 💣 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
+ - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
 
 ---
 

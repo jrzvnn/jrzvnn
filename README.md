@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There&#39;s a new Apple monitor imminent, but what it will be is anybody&#39;s guess](https://appleinsider.com/articles/26/01/15/theres-a-new-apple-monitor-imminent-but-what-it-will-be-is-anybodys-guess?utm_source=rss)
+ - [Apple lost the AI race — now the real challenge starts](https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini)
+ - [Why ICE Can Kill With Impunity](https://www.wired.com/story/why-ice-can-kill-with-impunity/)
  - [Spotify Premium jumps to $12.99/mo, $2 more expensive than Apple Music](https://appleinsider.com/articles/26/01/15/spotify-premium-jumps-to-1299mo-2-more-expensive-than-apple-music?utm_source=rss)
- - [Symbolic.ai, founded by ex-eBay CEO Devin Wenig and Ars Technica cofounder Jon Stokes, partners with News Corp to offer AI tools to WSJ, Barron&#39;s, and others &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/260115/p42#a260115p42)
- - [OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs](https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/)
- - [Democrats push FTC to investigate Trump Mobile](https://www.theverge.com/news/862821/democrats-elizabeth-warren-aoc-ftc-trump-mobile-investigation-letter)
- - [Minnesota Is Just the Beginning. California and New York Are ‘Next’](https://www.wired.com/story/california-and-new-york-are-next/)<!-- TECH:END -->
+ - [Symbolic.ai, founded by ex-eBay CEO Devin Wenig and Ars Technica cofounder Jon Stokes, partners with News Corp to offer AI tools to WSJ, Barron&#39;s, and others &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/260115/p42#a260115p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

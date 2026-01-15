@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grok now bans all undressing images -- where it&#39;s forced to](https://appleinsider.com/articles/26/01/15/grok-now-bans-all-undressing-images----where-its-forced-to?utm_source=rss)
  - [Wikimedia celebrates Wikipedia&#39;s 25th anniversary, marking its growth from 100 pages to 65M+ articles with nearly 15B monthly views, and releases a docuseries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260115/p23#a260115p23)
  - [Berlin-based Parloa, which develops AI customer service agents for Booking.com and others, raised $350M at a $3B valuation, taking its total raised to $560M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/260115/p22#a260115p22)
  - [The Real AI Talent War Is for Plumbers and Electricians](https://www.wired.com/story/why-there-arent-enough-electricians-and-plumbers-to-build-ai-data-centers/)
- - [Asus ROG Falcata Review: A Split Gaming Keyboard](https://www.wired.com/review/asus-rog-falcata/)
- - [Polymarket and Kalshi count Donald Trump Jr. as an adviser, and Trump Media plans to launch Truth Predict, raising ethical questions during Trump&#39;s second term &lpar;Sharon LaFraniere/New York Times&rpar;](http://www.techmeme.com/260115/p21#a260115p21)<!-- TECH:END -->
+ - [Asus ROG Falcata Review: A Split Gaming Keyboard](https://www.wired.com/review/asus-rog-falcata/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

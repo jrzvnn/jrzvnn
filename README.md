@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
  - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - 😝 [Mike almost became a Michelle....](http://9gag.com/gag/aNDMoQb)
  - 💣 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
  - 😝 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
  - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->

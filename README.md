@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases TranslateGemma, a suite of Gemma 3-based open translation models available in 4B, 12B, and 27B parameter sizes with support for 55 languages &lpar;The Keyword&rpar;](http://www.techmeme.com/260115/p39#a260115p39)
- - [Disney Plus &amp; Hulu bundle drops to $9.99 for a month, best streaming deal of 2026](https://appleinsider.com/articles/26/01/15/disney-plus-hulu-bundle-drops-to-999-for-a-month-best-streaming-deal-of-2026?utm_source=rss)
- - [X revises its developer API policies to &quot;no longer allow apps that reward users for posting on X &lpar;aka &quot;infofi&quot;&rpar;&quot;, amid a backlash about growing AI slop on X &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/260115/p38#a260115p38)
- - [Microsoft is closing its employee library and cutting back on subscriptions](https://www.theverge.com/tech/862531/microsoft-library-closure-transition-changes-notepad)
- - [Xreal sues Viture over AR glasses patent](https://www.theverge.com/gadgets/862542/xreal-viture-smart-glasses-patent-suits)<!-- TECH:END -->
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+ - [Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works](https://www.wired.com/story/anthropic-claude-cowork-agent/)
+ - [Apple chipmaker TSMC is spending big on next-gen silicon, AI chips, and the U.S.](https://appleinsider.com/articles/26/01/15/apple-chipmaker-tsmc-is-spending-big-on-next-gen-silicon-ai-chips-and-the-us?utm_source=rss)
+ - [Raspberry Pi&amp;#8217;s new add-on board has 8GB of RAM for running gen AI models](https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram)
+ - [Amazon is turning Fallout’s postapocalypse into a reality show](https://www.theverge.com/streaming/862738/fallout-shelter-reality-show-amazon-prime-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

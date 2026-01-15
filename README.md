@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Replit is in advanced discussions to raise about $400M in a new round of funding that would roughly triple its valuation to $9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p46#a260115p46)
+ - [Krafton is trying to find its next PUBG](https://www.theverge.com/news/862922/krafton-next-pubg-franchise)
+ - [Mytra, which is building autonomous robots for warehouses that can move loads up to 3,000 pounds, raised a $120M Series C led by Avenir Growth &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260115/p45#a260115p45)
  - [Andrea Vallone, who left OpenAI in November as the head of its safety research team, joins Anthropic&#39;s alignment team &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260115/p44#a260115p44)
- - [Amazon’s New World: Aeternum MMO will shut down next year](https://www.theverge.com/news/862892/amazon-new-world-aeternum-mmo-servers-shut-down-delisted)
- - [Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed](https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/)
- - [The US says Taiwanese companies will invest $250B+ in chip production in the US as part of a trade deal, with Taiwanese government guaranteeing $250B in credit &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/260115/p43#a260115p43)
- - [Save $50 on the OnePlus Watch 3, Which Has Revolutionary Battery Tech](https://www.wired.com/story/oneplus-watch-3-deal-126/)<!-- TECH:END -->
+ - [Amazon’s New World: Aeternum MMO will shut down next year](https://www.theverge.com/news/862892/amazon-new-world-aeternum-mmo-servers-shut-down-delisted)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

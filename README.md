@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
- - 😝 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - 💣 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
- - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
- - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
+ - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 💣 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 😝 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
+ - 👉 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)<!-- MEMES:END -->
 
 ---
 

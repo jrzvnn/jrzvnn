@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s New World: Aeternum MMO will shut down next year](https://www.theverge.com/news/862892/amazon-new-world-aeternum-mmo-servers-shut-down-delisted)
  - [Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed](https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/)
  - [The US says Taiwanese companies will invest $250B+ in chip production in the US as part of a trade deal, with Taiwanese government guaranteeing $250B in credit &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/260115/p43#a260115p43)
  - [Save $50 on the OnePlus Watch 3, Which Has Revolutionary Battery Tech](https://www.wired.com/story/oneplus-watch-3-deal-126/)
- - [There&#39;s a new Apple monitor imminent, but what it will be is anybody&#39;s guess](https://appleinsider.com/articles/26/01/15/theres-a-new-apple-monitor-imminent-but-what-it-will-be-is-anybodys-guess?utm_source=rss)
- - [Apple lost the AI race — now the real challenge starts](https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini)<!-- TECH:END -->
+ - [There&#39;s a new Apple monitor imminent, but what it will be is anybody&#39;s guess](https://appleinsider.com/articles/26/01/15/theres-a-new-apple-monitor-imminent-but-what-it-will-be-is-anybodys-guess?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

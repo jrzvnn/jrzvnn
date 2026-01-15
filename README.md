@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed](https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/)
+ - [The US says Taiwanese companies will invest $250B+ in chip production in the US as part of a trade deal, with Taiwanese government guaranteeing $250B in credit &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/260115/p43#a260115p43)
+ - [Save $50 on the OnePlus Watch 3, Which Has Revolutionary Battery Tech](https://www.wired.com/story/oneplus-watch-3-deal-126/)
  - [There&#39;s a new Apple monitor imminent, but what it will be is anybody&#39;s guess](https://appleinsider.com/articles/26/01/15/theres-a-new-apple-monitor-imminent-but-what-it-will-be-is-anybodys-guess?utm_source=rss)
- - [Apple lost the AI race — now the real challenge starts](https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini)
- - [Why ICE Can Kill With Impunity](https://www.wired.com/story/why-ice-can-kill-with-impunity/)
- - [Spotify Premium jumps to $12.99/mo, $2 more expensive than Apple Music](https://appleinsider.com/articles/26/01/15/spotify-premium-jumps-to-1299mo-2-more-expensive-than-apple-music?utm_source=rss)
- - [Symbolic.ai, founded by ex-eBay CEO Devin Wenig and Ars Technica cofounder Jon Stokes, partners with News Corp to offer AI tools to WSJ, Barron&#39;s, and others &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/260115/p42#a260115p42)<!-- TECH:END -->
+ - [Apple lost the AI race — now the real challenge starts](https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

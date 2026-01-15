@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI quietly rolls out ChatGPT Translate, a standalone website that currently supports plain text translations across 50+ languages &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/260115/p5#a260115p5)
+ - [TSMC reports Q4 net profit up 35% YoY to a record ~$16B, handily beating estimates, as it benefited from surging demand for AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p4#a260115p4)
  - [Sources: China is drafting rules for Nvidia H200 purchases, limiting how many chips local companies can buy and requiring them to justify the need &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260115/p3#a260115p3)
  - [A source close to Thinking Machines alleged that ex-CTO Barret Zoph, who is returning to OpenAI, had shared confidential company information with competitors &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260115/p2#a260115p2)
- - [GlobalFoundries agrees to acquire Synopsys&#39; ARC processor IP business, which includes ARC-V &lpar;RISC-V&rpar; and ARC CPU IP, and integrate it into its MIPS business &lpar;Nitin Dahad/EE Times&rpar;](http://www.techmeme.com/260115/p1#a260115p1)
- - [Bengaluru-based edtech startup Emversity raised a $30M Series A led by Premji Invest, sources say at a $120M post-money valuation, up from $60M in April 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260114/p60#a260114p60)
- - [Alibaba links Qwen to its online shopping and travel services, including Taobao, Alipay, Fliggy, and Amap, aiming to build a one-stop AI app for its 100M users &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260114/p59#a260114p59)<!-- TECH:END -->
+ - [GlobalFoundries agrees to acquire Synopsys&#39; ARC processor IP business, which includes ARC-V &lpar;RISC-V&rpar; and ARC CPU IP, and integrate it into its MIPS business &lpar;Nitin Dahad/EE Times&rpar;](http://www.techmeme.com/260115/p1#a260115p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
- - 😝 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
- - 💣 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
- - 😝 [Good news everyone.](http://9gag.com/gag/a5QgPWo)
- - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
+ - 😝 [It&#39;s always funnier with daddy](http://9gag.com/gag/aryEeAB)
+ - 😝 [How kindly they give way to someone walking uphill.](http://9gag.com/gag/aVvrWPw)
+ - 💣 [Six weeks later, met again](http://9gag.com/gag/abADybL)
+ - 😝 [I can still feel the crust on it](http://9gag.com/gag/ayNr0YY)
+ - 👉 [God wants this](http://9gag.com/gag/aNDMZwv)<!-- MEMES:END -->
 
 ---
 

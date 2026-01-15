@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
  - 😝 [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
- - 😝 [6.9](http://9gag.com/gag/awyjb7R)
- - 💣 [My talents are truly wasted here](http://9gag.com/gag/aPALvDB)
- - 😝 [I have no idea why a Jedi was in my bedroom, do you?](http://9gag.com/gag/aYQ6Wbv)
+ - 💣 [6.9](http://9gag.com/gag/awyjb7R)
+ - 😝 [My talents are truly wasted here](http://9gag.com/gag/aPALvDB)
  - 👉 [Give me goosebumps every time](http://9gag.com/gag/ayNr5OY)<!-- MEMES:END -->
 
 ---

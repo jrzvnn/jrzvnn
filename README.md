@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase pulls support from the US Senate&#39;s crypto market structure bill ahead of a key vote; CEO Brian Armstrong says there are &quot;too many issues&quot; with the bill &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/260114/p52#a260114p52)
- - [The Stream Deck Plus is back to its lowest price](https://www.theverge.com/gadgets/862274/elgato-stream-deck-plus-controller-deal-sale)
- - [Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet](https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/)
- - [Popular Chinese &#39;Are You Dead?&#39; Safety App Changes Name](https://www.cnet.com/tech/popular-chinese-are-you-dead-safety-app-changes-name/)
- - [Level up your manicure with the Apple Watch charger](https://appleinsider.com/inside/apple-watch/tips/level-up-your-manicure-with-the-apple-watch-charger?utm_source=rss)<!-- TECH:END -->
+ - [Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI](https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/)
+ - [Fidji Simo says Barret Zoph, Luke Metz, and Sam Schoenholz are returning to OpenAI, a move which &quot;has been in the works for several weeks&quot; &lpar;Fidji Simo/@fidjissimo&rpar;](http://www.techmeme.com/260114/p55#a260114p55)
+ - [Thinking Machines parts ways with CTO Barret Zoph, with Soumith Chintala taking over the role; sources say the termination is due to &quot;unethical conduct&quot; &lpar;Kylie Robison/@kyliebytes&rpar;](http://www.techmeme.com/260114/p54#a260114p54)
+ - [X updates Grok to prevent the &quot;editing of images of real people in revealing clothing such as bikinis&quot; and geoblocks it for all users &quot;where it&#39;s illegal&quot; &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260114/p53#a260114p53)
+ - [Apple AI research shows how MLLMs understand, generate, search for images](https://appleinsider.com/articles/26/01/14/apple-ai-research-shows-how-mllms-understand-generate-search-for-images?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

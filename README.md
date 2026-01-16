@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump and Mid-Atlantic governors want tech companies to pay for new power plants](https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump)
+ - [Some top California Democrats join Governor Gavin Newsom in opposing a ballot initiative led by a healthcare union seeking a one-time 5% tax on $1B+ in assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p21#a260116p21)
  - [Fortnite blocks creators from selling prize wheel spins](https://www.theverge.com/news/863597/fortnite-creators-steal-the-brainrot-prize-wheel-spins-block)
  - [FTC Chairman Andrew Ferguson says the agency is examining Big Tech&#39;s acqui-hires to make sure &quot;they are not an attempt to get around&quot; its merger review process &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p20#a260116p20)
- - [Your Bluetooth Audio Devices Could Be at Risk of Hijacking, Researchers Say](https://www.cnet.com/tech/mobile/your-bluetooth-audio-devices-could-be-at-risk-of-hijacking-researchers-say/)
- - [Google brings its AI videomaker to Workspace users](https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace)
- - [TikTok has launched a standalone micro drama app, PineDrama, in the US and Brazil, offering vertical serialized shows for free without ads or paywalls for now &lpar;Business Insider&rpar;](http://www.techmeme.com/260116/p19#a260116p19)<!-- TECH:END -->
+ - [Your Bluetooth Audio Devices Could Be at Risk of Hijacking, Researchers Say](https://www.cnet.com/tech/mobile/your-bluetooth-audio-devices-could-be-at-risk-of-hijacking-researchers-say/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

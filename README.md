@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SiFive will integrate Nvidia&#39;s NVLink Fusion infrastructure with its RISC-V processor IP platforms, allowing SiFive silicon to communicate with Nvidia GPUs &lpar;Marco Chiappetta/Forbes&rpar;](http://www.techmeme.com/260115/p58#a260115p58)
+ - [Casting is dead. Long live casting!](https://www.theverge.com/column/861948/casting-netflix-dead)
  - [California regulators unanimously voted in favor of Verizon&#39;s $10B Frontier acquisition; deliberations included Verizon committing to CA&#39;s DEI requirements &lpar;Matthew Keys/TheDesk.net&rpar;](http://www.techmeme.com/260115/p57#a260115p57)
  - [Meta will discontinue Workrooms, its VR space for workers, on February 16; Quest headsets and Horizon services will not be sold to businesses as of February 20 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260115/p56#a260115p56)
- - [Sources: Trump and several state governors agree to direct grid operator PJM to hold an auction for tech companies to fund new power plants due to AI demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p55#a260115p55)
- - [Apple&#39;s iPhone 18 Pro &amp; iPhone Fold specs detailed in report](https://appleinsider.com/articles/26/01/16/apples-iphone-18-pro-iphone-fold-specs-detailed-in-report?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-16/)<!-- TECH:END -->
+ - [Sources: Trump and several state governors agree to direct grid operator PJM to hold an auction for tech companies to fund new power plants due to AI demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p55#a260115p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

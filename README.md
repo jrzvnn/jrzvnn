@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fortnite blocks creators from selling prize wheel spins](https://www.theverge.com/news/863597/fortnite-creators-steal-the-brainrot-prize-wheel-spins-block)
+ - [FTC Chairman Andrew Ferguson says the agency is examining Big Tech&#39;s acqui-hires to make sure &quot;they are not an attempt to get around&quot; its merger review process &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p20#a260116p20)
+ - [Your Bluetooth Audio Devices Could Be at Risk of Hijacking, Researchers Say](https://www.cnet.com/tech/mobile/your-bluetooth-audio-devices-could-be-at-risk-of-hijacking-researchers-say/)
  - [Google brings its AI videomaker to Workspace users](https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace)
- - [TikTok has launched a standalone micro drama app, PineDrama, in the US and Brazil, offering vertical serialized shows for free without ads or paywalls for now &lpar;Business Insider&rpar;](http://www.techmeme.com/260116/p19#a260116p19)
- - [The two things AMD subtly revealed at CES that actually excite me](https://www.theverge.com/tech/862861/amd-ces-2026-socketed-laptop-chips-strix-halo-price)
- - [Verizon-owned Visible is offering outage credits, too](https://www.theverge.com/news/863554/visible-verizon-outage-credit-january-2026)
- - [Red Bull&#39;s 2026 Formula 1 launch puts Apple hardware front and center](https://appleinsider.com/articles/26/01/16/red-bulls-2026-formula-1-launch-puts-apple-hardware-front-and-center?utm_source=rss)<!-- TECH:END -->
+ - [TikTok has launched a standalone micro drama app, PineDrama, in the US and Brazil, offering vertical serialized shows for free without ads or paywalls for now &lpar;Business Insider&rpar;](http://www.techmeme.com/260116/p19#a260116p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

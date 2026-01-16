@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese AI companies seek to rent compute in Southeast Asia and the Middle East for Nvidia Rubin access, as Zhipu and Alibaba warn of a widening US gap &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260116/p2#a260116p2)
- - [Australia&#39;s eSafety Commissioner reports social media platforms &quot;removed access&quot; to ~4.7M accounts under its ban for under-16s, which took effect in December &lpar;New York Times&rpar;](http://www.techmeme.com/260116/p1#a260116p1)
- - [SiFive will integrate Nvidia&#39;s NVLink Fusion infrastructure with its RISC-V processor IP platforms, allowing SiFive silicon to communicate with Nvidia GPUs &lpar;Marco Chiappetta/Forbes&rpar;](http://www.techmeme.com/260115/p58#a260115p58)
- - [Casting is dead. Long live casting!](https://www.theverge.com/column/861948/casting-netflix-dead)
- - [California regulators unanimously voted in favor of Verizon&#39;s $10B Frontier acquisition; deliberations included Verizon committing to CA&#39;s DEI requirements &lpar;Matthew Keys/TheDesk.net&rpar;](http://www.techmeme.com/260115/p57#a260115p57)<!-- TECH:END -->
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in January](https://www.wired.com/story/att-promo-code/)
+ - [Altra Promo Codes: Get 10% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
+ - [NordVPN Coupons and Deals: 77% Off in January 2026](https://www.wired.com/story/nordvpn-coupon/)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [15% Off Adidas Promo Code | January 2026](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

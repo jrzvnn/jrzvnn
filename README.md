@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google is in talks with broadband operator Radiate to set up a JV to hold their fiber assets; Stonepeak Partners will invest $1B to support the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p24#a260116p24)
+ - [Bad Bunny dances his way to the Super Bowl halftime show](https://appleinsider.com/articles/26/01/16/bad-bunny-dances-his-way-to-the-super-bowl-halftime-show?utm_source=rss)
  - [Claude Code represents a &quot;ChatGPT moment repeated&quot; and an &quot;extinction-level event&quot; for horizontal software companies focused on human-oriented consumption &lpar;Doug OLaughlin/Fabricated Knowledge&rpar;](http://www.techmeme.com/260116/p23#a260116p23)
  - [Our Favorite Compact Power Station Is on Sale for 33% Off](https://www.wired.com/story/jackery-explorer-300-plus-deal-126/)
- - [Sources: ElevenLabs seeks to raise hundreds of millions at a valuation of $11B, four months after a secondary share sale that valued it at $6.6B &lpar;Financial Times&rpar;](http://www.techmeme.com/260116/p22#a260116p22)
- - [Trump and Mid-Atlantic governors want tech companies to pay for new power plants](https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump)
- - [Some top California Democrats join Governor Gavin Newsom in opposing a ballot initiative led by a healthcare union seeking a one-time 5% tax on $1B+ in assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p21#a260116p21)<!-- TECH:END -->
+ - [Sources: ElevenLabs seeks to raise hundreds of millions at a valuation of $11B, four months after a secondary share sale that valued it at $6.6B &lpar;Financial Times&rpar;](http://www.techmeme.com/260116/p22#a260116p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

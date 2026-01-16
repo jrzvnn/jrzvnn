@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
  - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
- - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - 💣 [Dab](http://9gag.com/gag/apR70xE)
- - 😝 [Read the room government.](http://9gag.com/gag/amoQ904)
- - 👉 [Told you...](http://9gag.com/gag/aqyMZX7)<!-- MEMES:END -->
+ - 💣 [I&#39;ve reached my limit, won&#39;t buy it](http://9gag.com/gag/a7ogygr)
+ - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
+ - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Meta shifts resources away from its Supernatural VR fitness service, users mourn the loss of a community built around the platform and its coaches &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/260115/p50#a260115p50)
- - [Grok undressed the mother of one of Elon Musk’s kids — and now she’s suing](https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit)
- - [Dave Filoni takes charge of Star Wars as new president of Lucasfilm](https://www.theverge.com/entertainment/863065/dave-filoni-lucasfilm-president-star-wars)
- - [&#39;Fat Fingers&#39; May Have Caused Verizon&#39;s Network Outage, According to Analyst](https://www.cnet.com/tech/mobile/fat-fingers-may-have-caused-verizons-network-outage-according-to-analyst/)
- - [Google agrees to pay $8.25M to settle a class-action lawsuit alleging its AdMob SDK illegally collected data from children under age 13 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/260115/p49#a260115p49)<!-- TECH:END -->
+ - [The best Sonos speakers to buy in 2026](https://www.theverge.com/tech/652171/best-sonos-speakers)
+ - [Sources: Thinking Machines lacks a clear product or business strategy and has been struggling over the last couple of months to raise a new round of financing &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260115/p53#a260115p53)
+ - [Total global VC funding to fintech startups totaled $51.8B in 2025, up 27% YoY and above pre-pandemic totals, but much lower than 2021&#39;s peak of $141.6B &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260115/p52#a260115p52)
+ - [ChatGPT Has a New Language Translation Option for You](https://www.cnet.com/tech/services-and-software/chatgpt-translate-site-launch-language-translation/)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

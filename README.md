@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I can rest now](http://9gag.com/gag/aByz3ex)
  - 😝 [God wants this](http://9gag.com/gag/aNDMZwv)
- - 😝 [And now it&#39;s time for the French language](http://9gag.com/gag/aD2938x)
- - 💣 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
- - 😝 [The glow-up we never asked for](http://9gag.com/gag/amoQ8m4)
- - 👉 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)<!-- MEMES:END -->
+ - 💣 [And now it&#39;s time for the French language](http://9gag.com/gag/aD2938x)
+ - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
+ - 👉 [QF time](http://9gag.com/gag/a7ogKeq)<!-- MEMES:END -->
 
 ---
 

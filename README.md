@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
- - 😝 [Kevin Hart](http://9gag.com/gag/aAyAVxL)
- - 💣 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - 😝 [God wants this](http://9gag.com/gag/aNDMZwv)
+ - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
+ - 💣 [Be Steve Irwin](http://9gag.com/gag/amoQ8vy)
  - 😝 [The glow-up we never asked for](http://9gag.com/gag/amoQ8m4)
- - 👉 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)<!-- MEMES:END -->
+ - 👉 [QF time](http://9gag.com/gag/a7ogKeq)<!-- MEMES:END -->
 
 ---
 

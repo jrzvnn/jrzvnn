@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kodak’s collectible Charmera is a terrible camera I somehow don’t hate](https://www.theverge.com/tech/862122/kodak-reto-charmera-digital-camera-blind-bag-keychain-collectible)
- - [Apple hit with $150K fine after breaking decade-old agreement in NJ](https://appleinsider.com/articles/26/01/16/apple-hit-with-150k-fine-after-breaking-decade-old-agreement-in-nj?utm_source=rss)
- - [Analysis: Colossus 2, one of the world&#39;s largest AI datacenters, will use as much water/year as 2.5 average In-N-Outs, assuming only drinkable water and burgers &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260116/p13#a260116p13)
- - [Former USDS Leaders Launch Tech Reform Project to Fix What DOGE Broke](https://www.wired.com/story/former-usds-leaders-launch-tech-reform-project-doge/)
- - [Unsealed docs from Elon Musk&#39;s OpenAI lawsuit, set for a jury trial on April 27, show Sutskever&#39;s concerns about treating open-source AI as a &quot;side show&quot;, more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/260116/p11#a260116p11)<!-- TECH:END -->
+ - [Apple&#39;s 1TB M5 MacBook Pro hits $1,599 with new B&amp;H Photo deal](https://appleinsider.com/articles/26/01/16/apples-1tb-m5-macbook-pro-hits-1599-with-new-bh-photo-deal?utm_source=rss)
+ - [Canada is going to start importing Chinese EVs — will the US follow?](https://www.theverge.com/transportation/863393/canada-china-ev-import-trade-deal-us-trump-tariffs)
+ - [600,000 Trump Mobile phones sold? There&amp;#8217;s no proof.](https://www.theverge.com/tech/863381/trump-mobile-viral-preorder-figures-600000)
+ - [Istanbul-based TaleMonster Games, the studio behind the puzzle game Match Valley, raised a $30M Series A led by Arcadia Gaming Partners and a16z &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260116/p14#a260116p14)
+ - [I saw the future of retail, and it’s all AI](https://www.theverge.com/tech/863365/national-retail-federation-show-shopping-commerce-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

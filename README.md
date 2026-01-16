@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
- - 😝 [Dab](http://9gag.com/gag/apR70xE)
- - 💣 [I&#39;ve reached my limit, won&#39;t buy it](http://9gag.com/gag/a7ogygr)
- - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 👉 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)<!-- MEMES:END -->
+ - 😝 [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
+ - 😝 [Big step](http://9gag.com/gag/aXP3pOz)
+ - 💣 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - 😝 [Best mom ever!](http://9gag.com/gag/aRBWVvy)
+ - 👉 [The glow-up we never asked for](http://9gag.com/gag/amoQ8m4)<!-- MEMES:END -->
 
 ---
 

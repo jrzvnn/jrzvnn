@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI](https://www.theverge.com/column/863319/highlights-musk-v-altman-openai)
- - [nVidia is squeezing out Apple for TSMC foundry capacity](https://appleinsider.com/articles/26/01/16/nvidia-is-squeezing-out-apple-for-tsmc-foundry-capacity?utm_source=rss)
- - [From charming to consumer corporation -- how Apple has branded itself over the years.](https://appleinsider.com/articles/26/01/16/from-charming-to-consumer-corporation----how-apple-has-branded-itself-over-the-years?utm_source=rss)
- - [9 Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming](https://www.wired.com/gallery/best-wifi-routers/)
- - [Source: Italian police searched the offices of the country&#39;s data protection agency, one of EU&#39;s most proactive regulators, as part of a corruption probe &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p8#a260116p8)<!-- TECH:END -->
+ - [ClickHouse, a Snowflake challenger that offers an OLAP database management system, raised $400M led by Dragoneer at a $15B valuation, up from $6.35B in May 2025 &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260116/p9#a260116p9)
+ - [Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability](https://www.theverge.com/tech/863338/google-fast-pair-whisperpair-security-vulnerability-bluetooth-headphones-speakers)
+ - [MacBook Pro OLED screens may have already started production](https://appleinsider.com/articles/26/01/16/macbook-pro-oled-screens-may-have-already-started-production?utm_source=rss)
+ - [Why Everyone Is Suddenly in a ‘Very Chinese Time’ in Their Lives](https://www.wired.com/story/made-in-china-chinese-time-of-my-life/)
+ - [‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI](https://www.theverge.com/column/863319/highlights-musk-v-altman-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

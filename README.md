@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
- - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
- - 💣 [I&#39;ve reached my limit, won&#39;t buy it](http://9gag.com/gag/a7ogygr)
+ - 😝 [Be Steve Irwin](http://9gag.com/gag/amoQ8vy)
+ - 😝 [Big step](http://9gag.com/gag/aXP3pOz)
+ - 💣 [Best mom ever!](http://9gag.com/gag/aRBWVvy)
  - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
+ - 👉 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)<!-- MEMES:END -->
 
 ---
 

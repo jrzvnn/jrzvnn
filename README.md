@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
  - 😝 [Kevin Hart](http://9gag.com/gag/aAyAVxL)
- - 😝 [Dab](http://9gag.com/gag/apR70xE)
- - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
- - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
+ - 💣 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
+ - 😝 [Men only want 1 thing and it is](http://9gag.com/gag/avyqLOE)
  - 👉 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)<!-- MEMES:END -->
 
 ---

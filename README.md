@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese AI companies seek to rent compute in Southeast Asia and the Middle East for Nvidia Rubin access, as Zhipu and Alibaba warn of a widening US gap &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260116/p2#a260116p2)
  - [Australia&#39;s eSafety Commissioner reports social media platforms &quot;removed access&quot; to ~4.7M accounts under its ban for under-16s, which took effect in December &lpar;New York Times&rpar;](http://www.techmeme.com/260116/p1#a260116p1)
  - [SiFive will integrate Nvidia&#39;s NVLink Fusion infrastructure with its RISC-V processor IP platforms, allowing SiFive silicon to communicate with Nvidia GPUs &lpar;Marco Chiappetta/Forbes&rpar;](http://www.techmeme.com/260115/p58#a260115p58)
  - [Casting is dead. Long live casting!](https://www.theverge.com/column/861948/casting-netflix-dead)
- - [California regulators unanimously voted in favor of Verizon&#39;s $10B Frontier acquisition; deliberations included Verizon committing to CA&#39;s DEI requirements &lpar;Matthew Keys/TheDesk.net&rpar;](http://www.techmeme.com/260115/p57#a260115p57)
- - [Meta will discontinue Workrooms, its VR space for workers, on February 16; Quest headsets and Horizon services will not be sold to businesses as of February 20 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260115/p56#a260115p56)<!-- TECH:END -->
+ - [California regulators unanimously voted in favor of Verizon&#39;s $10B Frontier acquisition; deliberations included Verizon committing to CA&#39;s DEI requirements &lpar;Matthew Keys/TheDesk.net&rpar;](http://www.techmeme.com/260115/p57#a260115p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

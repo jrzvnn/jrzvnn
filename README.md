@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20% Off Brooks Promo Code &amp; Deals for January 2026](https://www.wired.com/story/brooks-promo-code/)
  - [30% VistaPrint Coupon &amp; Promo Codes | January 2026](https://www.wired.com/story/vistaprint-coupon-code/)
  - [A profile of Wikipedia as it faces challenges, including attacks from Elon Musk and the far right, reduced traffic due to AI, and legal challenges in India &lpar;Darren Loucaides/Financial Times&rpar;](http://www.techmeme.com/260116/p3#a260116p3)
  - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in January](https://www.wired.com/story/att-promo-code/)
- - [Altra Promo Codes: Get 10% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)<!-- TECH:END -->
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in January](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

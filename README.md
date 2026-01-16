@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
  - 😝 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
- - 💣 [They be like that](http://9gag.com/gag/a87NY9Z)
- - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
+ - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
+ - 💣 [Dab](http://9gag.com/gag/apR70xE)
+ - 😝 [The glow-up we never asked for](http://9gag.com/gag/amoQ8m4)
  - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
 
 ---

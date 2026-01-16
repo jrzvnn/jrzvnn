@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California&#39;s AG sends a cease-and-desist letter to xAI, demanding the company halt the generation and distribution of non-consensual intimate images and CSAM &lpar;Julianna Bragg/Axios&rpar;](http://www.techmeme.com/260116/p27#a260116p27)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Google says it&#39;s appealing the US v. Google ruling that found it has an illegal search monopoly and asks a court to pause some of the remedies during the appeal &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260116/p26#a260116p26)
  - [Sources: Anchorage Digital, the first federally chartered US digital asset bank, is seeking to raise $200M to $400M, ahead of a possible IPO in 2027 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260116/p25#a260116p25)
- - [The Campaign to Destroy Renee Good](https://www.wired.com/story/the-campaign-to-destroy-renee-good/)
- - [Google is appealing a judge’s search monopoly ruling](https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal)
- - [Bad Bunny dances his way to the Super Bowl halftime show](https://appleinsider.com/articles/26/01/16/bad-bunny-dances-his-way-to-the-super-bowl-halftime-show?utm_source=rss)<!-- TECH:END -->
+ - [The Campaign to Destroy Renee Good](https://www.wired.com/story/the-campaign-to-destroy-renee-good/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

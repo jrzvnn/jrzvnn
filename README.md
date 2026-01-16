@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
  - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
  - 💣 [I&#39;ve reached my limit, won&#39;t buy it](http://9gag.com/gag/a7ogygr)
- - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
  - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
 
 ---

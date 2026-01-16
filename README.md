@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be Steve Irwin](http://9gag.com/gag/amoQ8vy)
- - 😝 [Big step](http://9gag.com/gag/aXP3pOz)
- - 💣 [Best mom ever!](http://9gag.com/gag/aRBWVvy)
+ - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
+ - 😝 [Dab](http://9gag.com/gag/apR70xE)
+ - 💣 [I&#39;ve reached my limit, won&#39;t buy it](http://9gag.com/gag/a7ogygr)
  - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 👉 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)<!-- MEMES:END -->
+ - 👉 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)<!-- MEMES:END -->
 
 ---
 

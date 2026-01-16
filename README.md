@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
  - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
- - 💣 [Dab](http://9gag.com/gag/apR70xE)
- - 😝 [The glow-up we never asked for](http://9gag.com/gag/amoQ8m4)
+ - 😝 [Dab](http://9gag.com/gag/apR70xE)
+ - 💣 [Insert Austin Powers `That aint no woman` gif](http://9gag.com/gag/aByzrmN)
+ - 😝 [Best mom ever!](http://9gag.com/gag/aRBWVvy)
  - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
+ - 😝 [Dab](http://9gag.com/gag/apR70xE)
  - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
  - 💣 [Things that never will happen](http://9gag.com/gag/aXP3peD)
- - 😝 [We need more asylums](http://9gag.com/gag/a34g3M5)
- - 👉 [Told you...](http://9gag.com/gag/aqyMZX7)<!-- MEMES:END -->
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
+ - 👉 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)<!-- MEMES:END -->
 
 ---
 

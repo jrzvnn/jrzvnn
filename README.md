@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
  - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
- - 💣 [CGI money was spent](http://9gag.com/gag/aYQ6wOw)
- - 😝 [The glow-up we never asked for](http://9gag.com/gag/amoQ8m4)
- - 👉 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)<!-- MEMES:END -->
+ - 💣 [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 😝 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 👉 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)<!-- MEMES:END -->
 
 ---
 

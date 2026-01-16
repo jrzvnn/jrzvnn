@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - 😝 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
- - 💣 [Dab](http://9gag.com/gag/apR70xE)
- - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
- - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 💣 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
+ - 😝 [Dab](http://9gag.com/gag/apR70xE)
+ - 👉 [F**k you and see you tomorrow](http://9gag.com/gag/azxyL8z)<!-- MEMES:END -->
 
 ---
 

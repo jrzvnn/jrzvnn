@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
- - 😝 [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
- - 💣 [Infinite energy](http://9gag.com/gag/agm9Vqr)
- - 😝 [I got the reapers shades, they&#39;re killer](http://9gag.com/gag/aO8EVZD)
- - 👉 [Good news everyone.](http://9gag.com/gag/a5QgPWo)<!-- MEMES:END -->
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
+ - 💣 [Things that never will happen](http://9gag.com/gag/aXP3peD)
+ - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
+ - 👉 [We need more asylums](http://9gag.com/gag/a34g3M5)<!-- MEMES:END -->
 
 ---
 

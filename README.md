@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dab](http://9gag.com/gag/apR70xE)
- - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
- - 💣 [Things that never will happen](http://9gag.com/gag/aXP3peD)
- - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 👉 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)<!-- MEMES:END -->
+ - 😝 [The glow-up we never asked for](http://9gag.com/gag/amoQ8m4)
+ - 😝 [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
+ - 💣 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - 😝 [Generations of renters](http://9gag.com/gag/aQzb8X2)
+ - 👉 [The quiet truth](http://9gag.com/gag/aoyo9Ow)<!-- MEMES:END -->
 
 ---
 

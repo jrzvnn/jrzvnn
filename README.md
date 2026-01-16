@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vietnam&#39;s military-run telecom company Viettel begins construction of the country&#39;s first chip plant, with trial production expected to start by late 2027 &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/260116/p15#a260116p15)
  - [In case you ever doubted it, Apple Car was real -- reveals Airbnb](https://appleinsider.com/articles/26/01/16/in-case-you-ever-doubted-it-apple-car-was-real----reveals-airbnb?utm_source=rss)
+ - [X is still having issues following an hour-long outage on Friday](https://www.theverge.com/news/863425/x-twitter-outage-january-16th-2026)
  - [Apple&#39;s 1TB M5 MacBook Pro hits $1,599 with new B&amp;H Photo deal](https://appleinsider.com/articles/26/01/16/apples-1tb-m5-macbook-pro-hits-1599-with-new-bh-photo-deal?utm_source=rss)
- - [X, Grok Outage Reports Spike and Then Subside](https://www.cnet.com/news-live/x-grok-outage-reports-friday-jan-16-2026/)
- - [Canada is going to start importing Chinese EVs — will the US follow?](https://www.theverge.com/transportation/863393/canada-china-ev-import-trade-deal-us-trump-tariffs)
- - [600,000 Trump Mobile phones sold? There&amp;#8217;s no proof.](https://www.theverge.com/tech/863381/trump-mobile-viral-preorder-figures-600000)<!-- TECH:END -->
+ - [X, Grok Outage Reports Spike and Then Subside](https://www.cnet.com/news-live/x-grok-outage-reports-friday-jan-16-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

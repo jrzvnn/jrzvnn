@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
- - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - 💣 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
- - 😝 [Be Steve Irwin](http://9gag.com/gag/amoQ8vy)
- - 👉 [Kevin Hart](http://9gag.com/gag/aAyAVxL)<!-- MEMES:END -->
+ - 😝 [Kevin Hart](http://9gag.com/gag/aAyAVxL)
+ - 💣 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
+ - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
+ - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
 
 ---
 

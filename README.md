@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anchorage Digital, the first federally chartered US digital asset bank, is seeking to raise $200M to $400M, ahead of a possible IPO in 2027 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260116/p25#a260116p25)
  - [The Campaign to Destroy Renee Good](https://www.wired.com/story/the-campaign-to-destroy-renee-good/)
  - [Google is appealing a judge’s search monopoly ruling](https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal)
  - [Bad Bunny dances his way to the Super Bowl halftime show](https://appleinsider.com/articles/26/01/16/bad-bunny-dances-his-way-to-the-super-bowl-halftime-show?utm_source=rss)
- - [Sources: Google is in talks with broadband operator Radiate to set up a JV to hold their fiber assets; Stonepeak Partners will invest $1B to support the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p24#a260116p24)
- - [Claude Code represents a &quot;ChatGPT moment repeated&quot; and an &quot;extinction-level event&quot; for horizontal software companies focused on human-oriented consumption &lpar;Doug OLaughlin/Fabricated Knowledge&rpar;](http://www.techmeme.com/260116/p23#a260116p23)<!-- TECH:END -->
+ - [Sources: Google is in talks with broadband operator Radiate to set up a JV to hold their fiber assets; Stonepeak Partners will invest $1B to support the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p24#a260116p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

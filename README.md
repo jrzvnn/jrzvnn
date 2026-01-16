@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ElevenLabs seeks to raise hundreds of millions at a valuation of $11B, four months after a secondary share sale that valued it at $6.6B &lpar;Financial Times&rpar;](http://www.techmeme.com/260116/p22#a260116p22)
  - [Trump and Mid-Atlantic governors want tech companies to pay for new power plants](https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump)
  - [Some top California Democrats join Governor Gavin Newsom in opposing a ballot initiative led by a healthcare union seeking a one-time 5% tax on $1B+ in assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p21#a260116p21)
  - [Fortnite blocks creators from selling prize wheel spins](https://www.theverge.com/news/863597/fortnite-creators-steal-the-brainrot-prize-wheel-spins-block)
- - [FTC Chairman Andrew Ferguson says the agency is examining Big Tech&#39;s acqui-hires to make sure &quot;they are not an attempt to get around&quot; its merger review process &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p20#a260116p20)
- - [Your Bluetooth Audio Devices Could Be at Risk of Hijacking, Researchers Say](https://www.cnet.com/tech/mobile/your-bluetooth-audio-devices-could-be-at-risk-of-hijacking-researchers-say/)<!-- TECH:END -->
+ - [Verizon Outage Caused by Software Issue, but Details Still Elusive](https://www.cnet.com/tech/mobile/verizon-network-outage-jan-2026-cause/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - 😝 [Kevin Hart](http://9gag.com/gag/aAyAVxL)
- - 💣 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
- - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
- - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
+ - 😝 [How kindly they give way to someone walking uphill.](http://9gag.com/gag/aVvrWPw)
+ - 😝 [I can rest now](http://9gag.com/gag/aByz3ex)
+ - 💣 [God wants this](http://9gag.com/gag/aNDMZwv)
+ - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
+ - 👉 [And now it&#39;s time for the French language](http://9gag.com/gag/aD2938x)<!-- MEMES:END -->
 
 ---
 

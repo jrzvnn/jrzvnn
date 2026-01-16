@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia is squeezing out Apple for TSMC foundry capacity](https://appleinsider.com/articles/26/01/16/nvidia-is-squeezing-out-apple-for-tsmc-foundry-capacity?utm_source=rss)
+ - [Siri is a Gemini](https://www.theverge.com/podcast/863340/siri-is-a-gemini)
  - [ClickHouse, a Snowflake challenger that offers an OLAP database management system, raised $400M led by Dragoneer at a $15B valuation, up from $6.35B in May 2025 &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260116/p9#a260116p9)
  - [Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability](https://www.theverge.com/tech/863338/google-fast-pair-whisperpair-security-vulnerability-bluetooth-headphones-speakers)
- - [MacBook Pro OLED screens may have already started production](https://appleinsider.com/articles/26/01/16/macbook-pro-oled-screens-may-have-already-started-production?utm_source=rss)
- - [Why Everyone Is Suddenly in a ‘Very Chinese Time’ in Their Lives](https://www.wired.com/story/made-in-china-chinese-time-of-my-life/)
- - [‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI](https://www.theverge.com/column/863319/highlights-musk-v-altman-openai)<!-- TECH:END -->
+ - [MacBook Pro OLED screens may have already started production](https://appleinsider.com/articles/26/01/16/macbook-pro-oled-screens-may-have-already-started-production?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

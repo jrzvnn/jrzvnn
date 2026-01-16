@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
- - 😝 [QF time](http://9gag.com/gag/a7ogKeq)
- - 💣 [Be Steve Irwin](http://9gag.com/gag/amoQ8vy)
- - 😝 [Best mom ever!](http://9gag.com/gag/aRBWVvy)
- - 👉 [Big step](http://9gag.com/gag/aXP3pOz)<!-- MEMES:END -->
+ - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
+ - 💣 [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 😝 [Dab](http://9gag.com/gag/apR70xE)
+ - 👉 [F**k you and see you tomorrow](http://9gag.com/gag/azxyL8z)<!-- MEMES:END -->
 
 ---
 

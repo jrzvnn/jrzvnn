@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google is in talks with broadband operator Radiate to set up a JV to hold their fiber assets; Stonepeak Partners will invest $1B to support the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p24#a260116p24)
+ - [The Campaign to Destroy Renee Good](https://www.wired.com/story/the-campaign-to-destroy-renee-good/)
+ - [Google is appealing a judge’s search monopoly ruling](https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal)
  - [Bad Bunny dances his way to the Super Bowl halftime show](https://appleinsider.com/articles/26/01/16/bad-bunny-dances-his-way-to-the-super-bowl-halftime-show?utm_source=rss)
- - [Claude Code represents a &quot;ChatGPT moment repeated&quot; and an &quot;extinction-level event&quot; for horizontal software companies focused on human-oriented consumption &lpar;Doug OLaughlin/Fabricated Knowledge&rpar;](http://www.techmeme.com/260116/p23#a260116p23)
- - [Our Favorite Compact Power Station Is on Sale for 33% Off](https://www.wired.com/story/jackery-explorer-300-plus-deal-126/)
- - [Sources: ElevenLabs seeks to raise hundreds of millions at a valuation of $11B, four months after a secondary share sale that valued it at $6.6B &lpar;Financial Times&rpar;](http://www.techmeme.com/260116/p22#a260116p22)<!-- TECH:END -->
+ - [Sources: Google is in talks with broadband operator Radiate to set up a JV to hold their fiber assets; Stonepeak Partners will invest $1B to support the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p24#a260116p24)
+ - [Claude Code represents a &quot;ChatGPT moment repeated&quot; and an &quot;extinction-level event&quot; for horizontal software companies focused on human-oriented consumption &lpar;Doug OLaughlin/Fabricated Knowledge&rpar;](http://www.techmeme.com/260116/p23#a260116p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

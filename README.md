@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good news everyone.](http://9gag.com/gag/a5QgPWo)
- - 😝 [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
- - 💣 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)
- - 😝 [Infinite energy](http://9gag.com/gag/agm9Vqr)
- - 👉 [The gang of wombats](http://9gag.com/gag/aAyAp8o)<!-- MEMES:END -->
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
+ - 😝 [Things that never will happen](http://9gag.com/gag/aXP3peD)
+ - 💣 [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 😝 [Do or do not](http://9gag.com/gag/aByzYOP)
+ - 👉 [We need more asylums](http://9gag.com/gag/a34g3M5)<!-- MEMES:END -->
 
 ---
 

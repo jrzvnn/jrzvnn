@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The two things AMD subtly revealed at CES that actually excite me](https://www.theverge.com/tech/862861/amd-ces-2026-socketed-laptop-chips-strix-halo-price)
  - [Verizon-owned Visible is offering outage credits, too](https://www.theverge.com/news/863554/visible-verizon-outage-credit-january-2026)
  - [Red Bull&#39;s 2026 Formula 1 launch puts Apple hardware front and center](https://appleinsider.com/articles/26/01/16/red-bulls-2026-formula-1-launch-puts-apple-hardware-front-and-center?utm_source=rss)
  - [Ted Sarandos says Netflix will commit to 45-day theatrical releases](https://www.theverge.com/streaming/863511/ted-sarandos-netflix-theatrical-movie-release-windows)
- - [OpenAI expands its $8/month ChatGPT Go subscription tier to the US and the rest of the world, after previously launching it in India and some other countries &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/260116/p18#a260116p18)
- - [OpenAI will match ads to conversation topics using some personalization data, but claims it will not sell user data or expose user conversations to advertisers &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260116/p17#a260116p17)<!-- TECH:END -->
+ - [OpenAI expands its $8/month ChatGPT Go subscription tier to the US and the rest of the world, after previously launching it in India and some other countries &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/260116/p18#a260116p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

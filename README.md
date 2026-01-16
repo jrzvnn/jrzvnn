@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare acquires AI data marketplace Human Native for an undisclosed sum, aiming to create a new system where AI developers pay creators for training content &lpar;Davis Giangiulio/CNBC&rpar;](http://www.techmeme.com/260116/p6#a260116p6)
- - [Italy&#39;s competition regulator opens two investigations into Microsoft&#39;s Activision Blizzard over sales practices it claims were &quot;misleading and aggressive&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p5#a260116p5)
- - [TikTok plans to roll out a new age detection system, which analyzes profile information to predict whether a user is under 13, across Europe in the coming weeks &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/260116/p4#a260116p4)
- - [RFK Jr. Says He’s Ending the War on Protein. It Doesn’t Exist](https://www.wired.com/story/rfk-jr-says-hes-ending-the-war-on-protein-it-doesnt-exist/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 16, #480](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-16-480/)<!-- TECH:END -->
+ - [Source: Italian police searched the offices of the country&#39;s data protection agency, one of EU&#39;s most proactive regulators, as part of a corruption probe &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p8#a260116p8)
+ - [From charming to consumer corporation -- how Apple has branded itself over the years.](https://appleinsider.com/articles/26/01/16/from-charming-to-consumer-corporation----how-apple-has-branded-itself-over-the-years?utm_source=rss)
+ - [Analyst claims to know full Apple&#39;s iPhone 18 Pro &amp; iPhone Fold specs](https://appleinsider.com/articles/26/01/16/apples-iphone-18-pro-iphone-fold-specs-detailed-in-report?utm_source=rss)
+ - [Q&amp;A with Netflix co-CEO Ted Sarandos about the WBD bid, Trump&#39;s involvement in the deal, maintaining a 45-day theatrical window for WBD releases, and more &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/260116/p7#a260116p7)
+ - [Asus now claims it&amp;#8217;s not dropping the RTX 5070 Ti amid memory shortages](https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

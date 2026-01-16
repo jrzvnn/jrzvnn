@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it&#39;s appealing the US v. Google ruling that found it has an illegal search monopoly and asks a court to pause some of the remedies during the appeal &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260116/p26#a260116p26)
  - [Sources: Anchorage Digital, the first federally chartered US digital asset bank, is seeking to raise $200M to $400M, ahead of a possible IPO in 2027 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260116/p25#a260116p25)
  - [The Campaign to Destroy Renee Good](https://www.wired.com/story/the-campaign-to-destroy-renee-good/)
  - [Google is appealing a judge’s search monopoly ruling](https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal)
- - [Bad Bunny dances his way to the Super Bowl halftime show](https://appleinsider.com/articles/26/01/16/bad-bunny-dances-his-way-to-the-super-bowl-halftime-show?utm_source=rss)
- - [Sources: Google is in talks with broadband operator Radiate to set up a JV to hold their fiber assets; Stonepeak Partners will invest $1B to support the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p24#a260116p24)<!-- TECH:END -->
+ - [Bad Bunny dances his way to the Super Bowl halftime show](https://appleinsider.com/articles/26/01/16/bad-bunny-dances-his-way-to-the-super-bowl-halftime-show?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

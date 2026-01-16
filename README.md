@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vietnam&#39;s military-run telecom company Viettel begins construction of the country&#39;s first chip plant, with trial production expected to start by late 2027 &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/260116/p15#a260116p15)
- - [In case you ever doubted it, Apple Car was real -- reveals Airbnb](https://appleinsider.com/articles/26/01/16/in-case-you-ever-doubted-it-apple-car-was-real----reveals-airbnb?utm_source=rss)
- - [X is still having issues following an hour-long outage on Friday](https://www.theverge.com/news/863425/x-twitter-outage-january-16th-2026)
- - [Apple&#39;s 1TB M5 MacBook Pro hits $1,599 with new B&amp;H Photo deal](https://appleinsider.com/articles/26/01/16/apples-1tb-m5-macbook-pro-hits-1599-with-new-bh-photo-deal?utm_source=rss)
- - [X, Grok Outage Reports Spike and Then Subside](https://www.cnet.com/news-live/x-grok-outage-reports-friday-jan-16-2026/)<!-- TECH:END -->
+ - [Red Bull&#39;s 2026 Formula 1 launch puts Apple hardware front and center](https://appleinsider.com/articles/26/01/16/red-bulls-2026-formula-1-launch-puts-apple-hardware-front-and-center?utm_source=rss)
+ - [Ted Sarandos says Netflix will commit to 45-day theatrical releases](https://www.theverge.com/streaming/863511/ted-sarandos-netflix-theatrical-movie-release-windows)
+ - [OpenAI expands its $8/month ChatGPT Go subscription tier to the US and the rest of the world, after previously launching it in India and some other countries &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/260116/p18#a260116p18)
+ - [OpenAI will match ads to conversation topics using some personalization data, but claims it will not sell user data or expose user conversations to advertisers &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260116/p17#a260116p17)
+ - [OpenAI plans to test ads below ChatGPT replies for users of free and Go tiers in the US; source: OpenAI expects to make &quot;low billions&quot; from ads in 2026 &lpar;Financial Times&rpar;](http://www.techmeme.com/260116/p16#a260116p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How kindly they give way to someone walking uphill.](http://9gag.com/gag/aVvrWPw)
- - 😝 [I can rest now](http://9gag.com/gag/aByz3ex)
- - 💣 [God wants this](http://9gag.com/gag/aNDMZwv)
- - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
- - 👉 [And now it&#39;s time for the French language](http://9gag.com/gag/aD2938x)<!-- MEMES:END -->
+ - 😝 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
+ - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
+ - 💣 [Kevin Hart](http://9gag.com/gag/aAyAVxL)
+ - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
+ - 👉 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)<!-- MEMES:END -->
 
 ---
 

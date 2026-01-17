@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Luminate 2025 report: the global music industry hit 5.1T streams, up 9.6% YoY and a single-year record; AI artist Xania Monet had 125M on-demand audio streams &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/260117/p12#a260117p12)
  - [Boost your Mac&#39;s connectivity with Thunderbolt dock deals at up to 35% off](https://appleinsider.com/articles/26/01/17/boost-your-macs-connectivity-with-thunderbolt-dock-deals-at-up-to-35-off?utm_source=rss)
- - [Disney deleted a Thread because people kept quoting its movies at it](https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread)
+ - [Disney deleted a Thread because people kept putting anti-fascist quotes from its movies in the replies](https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread)
  - [ZachXBT: a crypto user lost $282M+ in BTC and LTC in a hardware wallet social engineering scam; XMR jumped as the attacker began converting the funds to Monero &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260117/p11#a260117p11)
  - [The Setapp Mobile iOS store is shutting down on February 16th](https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown)<!-- TECH:END -->
 

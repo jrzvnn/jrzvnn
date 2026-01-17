@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Infinite energy](http://9gag.com/gag/agm9Vqr)
- - 😝 [The same](http://9gag.com/gag/aW4y6nx)
- - 💣 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)
- - 😝 [Nani?](http://9gag.com/gag/aO8EVMN)
- - 👉 [Good news everyone.](http://9gag.com/gag/a5QgPWo)<!-- MEMES:END -->
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
+ - 💣 [Dab](http://9gag.com/gag/apR70xE)
+ - 😝 [We need more asylums](http://9gag.com/gag/a34g3M5)
+ - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
 
 ---
 

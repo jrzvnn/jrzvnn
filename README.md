@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect](http://9gag.com/gag/ayNrL7Y)
- - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
- - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
  - 😝 [The word rhymes with hike.](http://9gag.com/gag/aKGZBp1)
+ - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 💣 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 😝 [I&#39;m the Knight Industries Two Thousand](http://9gag.com/gag/an7ZyjB)
  - 👉 [Ohh](http://9gag.com/gag/avyqPQE)<!-- MEMES:END -->
 
 ---

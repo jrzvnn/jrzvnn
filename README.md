@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fear and blogging &lpar;and prerelease laptop testing&rpar; in Las Vegas](https://www.theverge.com/tech/862985/asus-zenbook-a16-snapdragon-x2-ces-early-testing-hands-on)
+ - [Our favorite cozy game is back](https://www.theverge.com/tech/863614/animal-crossing-3-rip-netflix-cowork-installer)
  - [Best External Hard Drive &lpar;2026&rpar;: SSD to Store Data, Video &amp; More](https://www.wired.com/story/best-portable-external-storage-drives/)
  - [Reddit Has Thoughts on Paris Hilton Cookware. So Do We](https://www.wired.com/story/paris-hilton-cookware-reddit/)
- - [The 24 Best Shows on Amazon Prime, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Time Travel With Fujifilm&#39;s Instax Mini Evo Cinema Camera](https://www.cnet.com/tech/computing/fujifilm-instax-mini-evo-cinema-camera-launch/)
- - [Sources: following investor backlash, Monzo to give outgoing CEO TS Anil an expanded role after he steps down in February; he is likely to retain a board seat &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/260117/p8#a260117p8)<!-- TECH:END -->
+ - [The 24 Best Shows on Amazon Prime, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

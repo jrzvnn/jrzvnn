@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 😝 [You know](http://9gag.com/gag/awyj7oy)
- - 💣 [Dab](http://9gag.com/gag/apR70xE)
- - 😝 [Do or do not](http://9gag.com/gag/aByzYOP)
- - 👉 [Things that never will happen](http://9gag.com/gag/aXP3peD)<!-- MEMES:END -->
+ - 😝 [The same](http://9gag.com/gag/aW4y6nx)
+ - 😝 [Good news everyone.](http://9gag.com/gag/a5QgPWo)
+ - 💣 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)
+ - 😝 [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
+ - 👉 [The origin of superhero landings in movies](http://9gag.com/gag/aE0K7ZG)<!-- MEMES:END -->
 
 ---
 

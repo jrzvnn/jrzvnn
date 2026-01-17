@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 😝 [What is succed un life ?](http://9gag.com/gag/abADb0p)
  - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
- - 💣 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 😝 [The word rhymes with hike.](http://9gag.com/gag/aKGZBp1)
- - 👉 [Ho noooooo](http://9gag.com/gag/agm9V1g)<!-- MEMES:END -->
+ - 💣 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - 😝 [I&#39;m the Knight Industries Two Thousand](http://9gag.com/gag/an7ZyjB)
+ - 👉 [Ohh](http://9gag.com/gag/avyqPQE)<!-- MEMES:END -->
 
 ---
 

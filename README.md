@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ho noooooo](http://9gag.com/gag/agm9V1g)
- - 😝 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
- - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [When you see a bug in the code, but you don&#39;t touch anything because everything works anyway\u2026](http://9gag.com/gag/aW4y8Bq)
- - 👉 [Ohh](http://9gag.com/gag/avyqPQE)<!-- MEMES:END -->
+ - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 💣 [You know](http://9gag.com/gag/awyj7oy)
+ - 😝 [Congratulations,Mr. Trump](http://9gag.com/gag/a5QgZwE)
+ - 👉 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)<!-- MEMES:END -->
 
 ---
 

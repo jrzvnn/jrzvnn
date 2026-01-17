@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gear News of the Week: Kia Shows off the EV2, and Fujifilm Debuts New Instax Cameras](https://www.wired.com/story/gear-news-of-the-week-kia-shows-off-the-ev2-and-fujifilm-debuts-new-instax-cameras/)
  - [The Best Mattress for Back Pain: 7 Top Options We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-mattresses-for-back-pain/)
- - [The 16 Best EVs Coming in 2026](https://www.wired.com/story/the-16-best-evs-coming-in-2026/)
- - [TCL’s PlayCube projector is more fun than a Rubik’s Cube](https://www.theverge.com/reviews/863910/tcl-playcube-portable-projector-review-battery)
- - [TrendForce: data centers will use 70%+ of the high-end memory chips all manufacturers will produce in 2026, with little new manufacturing capacity until 2027 &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260117/p7#a260117p7)
- - [Filing: Elon Musk seeks $79B-$134B damages from OpenAI and Microsoft, alleging OpenAI defrauded him by abandoning nonprofit roots and partnering with Microsoft &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/260117/p6#a260117p6)<!-- TECH:END -->
+ - [La Liga Soccer: Stream Real Madrid vs. Levante Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-levante-live-from-anywhere/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 17, #481](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-17-481/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 17, #951](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-17-951/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

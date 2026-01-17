@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
- - 😝 [Dab](http://9gag.com/gag/apR70xE)
- - 💣 [You know](http://9gag.com/gag/awyj7oy)
- - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 💣 [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 😝 [Things that never will happen](http://9gag.com/gag/aXP3peD)
  - 👉 [We need more asylums](http://9gag.com/gag/a34g3M5)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
  - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 💣 [The word rhymes with hike.](http://9gag.com/gag/aKGZBp1)
- - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 👉 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)<!-- MEMES:END -->
+ - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 💣 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 😝 [The word rhymes with hike.](http://9gag.com/gag/aKGZBp1)
+ - 👉 [Ho noooooo](http://9gag.com/gag/agm9V1g)<!-- MEMES:END -->
 
 ---
 

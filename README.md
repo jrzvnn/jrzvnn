@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [War Thunder community does it again](http://9gag.com/gag/apR7vm5)
- - 😝 [The word rhymes with hike.](http://9gag.com/gag/aKGZBp1)
- - 💣 [Ohh](http://9gag.com/gag/avyqPQE)
- - 😝 [Do or do not](http://9gag.com/gag/aByzYOP)
- - 👉 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)<!-- MEMES:END -->
+ - 😝 [Sea doggo](http://9gag.com/gag/adBAXM2)
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
+ - 💣 [The origin of superhero landings in movies](http://9gag.com/gag/aE0K7ZG)
+ - 😝 [Imagine opening your door to this](http://9gag.com/gag/aE0KnbG)
+ - 👉 [You forgot the 15 tools boxes on the back of the bicycle with enough gear to fix a nasa space shuttle](http://9gag.com/gag/aGyvxb7)<!-- MEMES:END -->
 
 ---
 

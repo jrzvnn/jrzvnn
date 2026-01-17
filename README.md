@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Dab](http://9gag.com/gag/apR70xE)
  - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - 💣 [Like a glove](http://9gag.com/gag/a4PgL9m)
- - 😝 [Do or do not](http://9gag.com/gag/aByzYOP)
- - 👉 [Things that never will happen](http://9gag.com/gag/aXP3peD)<!-- MEMES:END -->
+ - 💣 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 👉 [We need more asylums](http://9gag.com/gag/a34g3M5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)
- - 😝 [He loves his job,,,, sometimes](http://9gag.com/gag/axyKjAn)
- - 💣 [Men only want 1 thing and it is](http://9gag.com/gag/avyqLOE)
- - 😝 [Just one drink to save the world!](http://9gag.com/gag/aKGZ3GN)
- - 👉 [The origin of superhero landings in movies](http://9gag.com/gag/aE0K7ZG)<!-- MEMES:END -->
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - 💣 [Ohh](http://9gag.com/gag/avyqPQE)
+ - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
 
 ---
 

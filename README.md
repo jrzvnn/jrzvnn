@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
- - 💣 [You know](http://9gag.com/gag/awyj7oy)
- - 😝 [Congratulations,Mr. Trump](http://9gag.com/gag/a5QgZwE)
- - 👉 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)<!-- MEMES:END -->
+ - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
+ - 💣 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 👉 [Ohh](http://9gag.com/gag/avyqPQE)<!-- MEMES:END -->
 
 ---
 

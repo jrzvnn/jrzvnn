@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Honor Magic 8 Pro Is My First Big Phone Disappointment of 2026](https://www.cnet.com/tech/mobile/honor-magic-8-pro-phone-review/)
  - [Micron signs a letter of intent to buy a fabrication site in Taiwan from Powerchip for $1.8B to expand DRAM memory chip production, expected to close in Q2 2026 &lpar;Valentine Baldassari/Bloomberg&rpar;](http://www.techmeme.com/260117/p10#a260117p10)
+ - [Verizon&#39;s $20 Credit Is Available for You to Claim Following Major Outage &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/verizon-outage-january-2026/)
  - [The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend](https://www.theverge.com/gadgets/863503/apple-mac-mini-m4-lg-c5-oled-tv-deal-sale)
- - [All You Need Is Kill is a dazzling movie with the soul of a video game](https://www.theverge.com/entertainment/862881/all-you-need-is-kill-review)
- - [Beaconcha.in: a record ~36M ethereum tokens, or 30% of ethereum&#39;s total supply, worth ~$119B, are now staked, as institutional investors grow their share &lpar;Sage D. Young/Sherwood News&rpar;](http://www.techmeme.com/260117/p9#a260117p9)
- - [Apple Environment VP Lisa Jackson&#39;s leadership profile pulled as retirement awaits](https://appleinsider.com/articles/26/01/17/apple-environment-vp-lisa-jacksons-leadership-profile-pulled-as-retirement-awaits?utm_source=rss)<!-- TECH:END -->
+ - [All You Need Is Kill is a dazzling movie with the soul of a video game](https://www.theverge.com/entertainment/862881/all-you-need-is-kill-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

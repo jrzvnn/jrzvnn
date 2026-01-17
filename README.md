@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
- - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 💣 [The word rhymes with hike.](http://9gag.com/gag/aKGZBp1)
  - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 👉 [The word rhymes with hike.](http://9gag.com/gag/aKGZBp1)<!-- MEMES:END -->
+ - 👉 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)<!-- MEMES:END -->
 
 ---
 

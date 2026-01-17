@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A cute frog game that remixes Nintendo&amp;#8217;s best](https://www.theverge.com/games/860917/big-hops-review-pc-nintendo-switch-ps5)
  - [Minnesota wants to win a war of attrition](https://www.theverge.com/policy/863632/minnesota-walz-trump-sousveillance-ice)
  - [Apple Sainte-Catherine reopens with crowds and artist signings](https://appleinsider.com/articles/26/01/17/apple-sainte-catherine-reopens-with-crowds-and-artist-signings?utm_source=rss)
- - [Fear and blogging &lpar;and prerelease laptop testing&rpar; in Las Vegas](https://www.theverge.com/tech/862985/asus-zenbook-a16-snapdragon-x2-ces-early-testing-hands-on)
- - [Our favorite cozy game is back](https://www.theverge.com/tech/863614/animal-crossing-3-rip-netflix-cowork-installer)<!-- TECH:END -->
+ - [Audi, Porsche, VW Issue Major Recall Over Rearview Camera Glitch: How to Know if Your Car Is Affected](https://www.cnet.com/roadshow/news/audi-porsche-vw-announce-major-us-recalls-tied-to-rearview-camera-glitch/)
+ - [4 Simple Rules for Adapting Your Favorite Recipes to the Air Fryer](https://www.cnet.com/news/how-to-adapt-any-recipe-for-the-air-fryer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

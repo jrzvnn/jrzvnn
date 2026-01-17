@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
- - 😝 [You know](http://9gag.com/gag/awyj7oy)
- - 💣 [We need more asylums](http://9gag.com/gag/a34g3M5)
- - 😝 [Shut up a bit](http://9gag.com/gag/axyKjmW)
- - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
+ - 😝 [Infinite energy](http://9gag.com/gag/agm9Vqr)
+ - 😝 [The same](http://9gag.com/gag/aW4y6nx)
+ - 💣 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)
+ - 😝 [Nani?](http://9gag.com/gag/aO8EVMN)
+ - 👉 [Good news everyone.](http://9gag.com/gag/a5QgPWo)<!-- MEMES:END -->
 
 ---
 

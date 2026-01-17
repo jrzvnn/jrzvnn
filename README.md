@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: leaders at Thinking Machines Lab confronted Barret Zoph over an alleged relationship with another employee, who is no longer at the lab, in summer 2025 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260116/p29#a260116p29)
+ - [Thinking Machines Cofounder’s Office Relationship Preceded His Termination](https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/)
+ - [Anthropic makes Claude Cowork available to $20/month Pro subscribers, after launching it for Max users, and says Pro users may hit their usage limits sooner &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/260116/p28#a260116p28)
  - [California&#39;s AG sends a cease-and-desist letter to xAI, demanding the company halt the generation and distribution of non-consensual intimate images and CSAM &lpar;Julianna Bragg/Axios&rpar;](http://www.techmeme.com/260116/p27#a260116p27)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Google says it&#39;s appealing the US v. Google ruling that found it has an illegal search monopoly and asks a court to pause some of the remedies during the appeal &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260116/p26#a260116p26)
- - [Sources: Anchorage Digital, the first federally chartered US digital asset bank, is seeking to raise $200M to $400M, ahead of a possible IPO in 2027 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260116/p25#a260116p25)
- - [The Campaign to Destroy Renee Good](https://www.wired.com/story/the-campaign-to-destroy-renee-good/)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

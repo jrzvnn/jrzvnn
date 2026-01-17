@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
- - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 💣 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
- - 😝 [She could just ask Hubal to send her Al Buraq or Solomon&#39;s flying carpet since those things also `existed` during the time of her `prophet`.](http://9gag.com/gag/aO8EdNr)
+ - 😝 [I haven\u2019t found a suitable name yet\u2026](http://9gag.com/gag/aQzbxje)
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 😝 [Mugshots of the evil](http://9gag.com/gag/a1mgdvG)
  - 👉 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)<!-- MEMES:END -->
 
 ---

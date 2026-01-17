@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Landman&#39; Season 2 Finale: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-finale-release-time/)
+ - [14 of the Best Peacock Shows to Stream This Weekend](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-peacock/)
  - [A look at Michael Saylor&#39;s Strategy, known for buying bitcoin via creative financing strategies, as its stock trades way below its peak amid the crypto downturn &lpar;Rob Copeland/New York Times&rpar;](http://www.techmeme.com/260117/p13#a260117p13)
- - [Luminate 2025 report: the global music industry hit 5.1T streams, up 9.6% YoY and a single-year record; AI artist Xania Monet had 125M on-demand audio streams &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/260117/p12#a260117p12)
- - [Boost your Mac&#39;s connectivity with Thunderbolt dock deals at up to 35% off](https://appleinsider.com/articles/26/01/17/boost-your-macs-connectivity-with-thunderbolt-dock-deals-at-up-to-35-off?utm_source=rss)
- - [Disney deleted a Thread because people kept putting anti-fascist quotes from its movies in the replies](https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread)
- - [ZachXBT: a crypto user lost $282M+ in BTC and LTC in a hardware wallet social engineering scam; XMR jumped as the attacker began converting the funds to Monero &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260117/p11#a260117p11)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 18, #482](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-18-482/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 18 #686](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-18-686/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

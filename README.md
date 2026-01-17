@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know](http://9gag.com/gag/awyj7oy)
- - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
+ - 😝 [Ho noooooo](http://9gag.com/gag/agm9V1g)
+ - 😝 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
  - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 👉 [Ho noooooo](http://9gag.com/gag/agm9V1g)<!-- MEMES:END -->
+ - 😝 [When you see a bug in the code, but you don&#39;t touch anything because everything works anyway\u2026](http://9gag.com/gag/aW4y8Bq)
+ - 👉 [Ohh](http://9gag.com/gag/avyqPQE)<!-- MEMES:END -->
 
 ---
 

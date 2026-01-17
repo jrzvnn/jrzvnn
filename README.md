@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [War Thunder community does it again](http://9gag.com/gag/apR7vm5)
- - 😝 [Ohh](http://9gag.com/gag/avyqPQE)
- - 💣 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [The word rhymes with hike.](http://9gag.com/gag/aKGZBp1)
+ - 💣 [Ohh](http://9gag.com/gag/avyqPQE)
  - 😝 [Do or do not](http://9gag.com/gag/aByzYOP)
- - 👉 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)<!-- MEMES:END -->
+ - 👉 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)<!-- MEMES:END -->
 
 ---
 

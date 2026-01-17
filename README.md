@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect](http://9gag.com/gag/ayNrL7Y)
- - 😝 [Wife bad](http://9gag.com/gag/aZZXBmp)
- - 💣 [What is succed un life ?](http://9gag.com/gag/abADb0p)
- - 😝 [Imagine opening your door to this](http://9gag.com/gag/aE0KnbG)
- - 👉 [Just one drink to save the world!](http://9gag.com/gag/aKGZ3GN)<!-- MEMES:END -->
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
+ - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 👉 [Ho noooooo](http://9gag.com/gag/agm9V1g)<!-- MEMES:END -->
 
 ---
 

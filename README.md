@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Elon Musk seeks $79B-$134B damages from OpenAI and Microsoft, alleging OpenAI defrauded him by abandoning nonprofit roots and partnering with Microsoft &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/260117/p6#a260117p6)
+ - [Appfigures: Sora 2 had ~6M iOS downloads as of December 2025; the Android version, available since early November 2025, had ~3.1M, as growth begins to slow &lpar;Sherwood News&rpar;](http://www.techmeme.com/260117/p5#a260117p5)
  - [Adobe&#39;s stock has slumped more than 45% since the end of 2023, reflecting analyst concerns over the threat of AI-driven disruption to SaaS companies &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260117/p4#a260117p4)
  - [Sources: the EU&#39;s cybersecurity proposal, to be presented on Jan. 20, is expected to phase out vendors such as Huawei from the bloc&#39;s critical infrastructure &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260117/p3#a260117p3)
- - [Luxembourg-based Hydrosat, which builds AI-based thermal infrared satellite tech to provide data for water resource management and more, raised a $60M Series B &lpar;Ingrid Lunden/Resilience Media&rpar;](http://www.techmeme.com/260117/p2#a260117p2)
- - [Anthropic appoints Irina Ghose, a former Microsoft India managing director, to lead its business in India, which has the second-largest user base for Claude &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260117/p1#a260117p1)
- - [Petlibro Discount Codes and Deals: Save Up to 50%](https://www.wired.com/story/petlibro-discount-code/)<!-- TECH:END -->
+ - [Luxembourg-based Hydrosat, which builds AI-based thermal infrared satellite tech to provide data for water resource management and more, raised a $60M Series B &lpar;Ingrid Lunden/Resilience Media&rpar;](http://www.techmeme.com/260117/p2#a260117p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

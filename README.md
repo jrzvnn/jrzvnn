@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All You Need Is Kill is a dazzling movie with the soul of a video game](https://www.theverge.com/entertainment/862881/all-you-need-is-kill-review)
  - [Beaconcha.in: a record ~36M ethereum tokens, or 30% of ethereum&#39;s total supply, worth ~$119B, are now staked, as institutional investors grow their share &lpar;Sage D. Young/Sherwood News&rpar;](http://www.techmeme.com/260117/p9#a260117p9)
  - [Apple Environment VP Lisa Jackson&#39;s leadership profile pulled as retirement awaits](https://appleinsider.com/articles/26/01/17/apple-environment-vp-lisa-jacksons-leadership-profile-pulled-as-retirement-awaits?utm_source=rss)
- - [A cute frog game that remixes Nintendo&amp;#8217;s best](https://www.theverge.com/games/860917/big-hops-review-pc-nintendo-switch-ps5)
- - [Minnesota wants to win a war of attrition](https://www.theverge.com/policy/863632/minnesota-walz-trump-sousveillance-ice)
- - [Apple Sainte-Catherine reopens with crowds and artist signings](https://appleinsider.com/articles/26/01/17/apple-sainte-catherine-reopens-with-crowds-and-artist-signings?utm_source=rss)<!-- TECH:END -->
+ - [Disneyland Now Has a 3D-Printed Prop Canoe on the Jungle Cruise. Take a Peek Behind the Scenes](https://www.cnet.com/tech/computing/disney-3d-printed-polymer-prop-canoe-jungle-cruise/)
+ - [Premier League Soccer 2026: Stream Nottingham Forest vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-nottingham-forest-vs-arsenal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

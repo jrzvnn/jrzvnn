@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TCL’s PlayCube projector is more fun than a Rubik’s Cube](https://www.theverge.com/reviews/863910/tcl-playcube-portable-projector-review-battery)
  - [TrendForce: data centers will use 70%+ of the high-end memory chips all manufacturers will produce in 2026, with little new manufacturing capacity until 2027 &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260117/p7#a260117p7)
  - [Filing: Elon Musk seeks $79B-$134B damages from OpenAI and Microsoft, alleging OpenAI defrauded him by abandoning nonprofit roots and partnering with Microsoft &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/260117/p6#a260117p6)
  - [Appfigures: Sora 2 had ~6M iOS downloads as of December 2025; the Android version, available since early November 2025, had ~3.1M, as growth begins to slow &lpar;Sherwood News&rpar;](http://www.techmeme.com/260117/p5#a260117p5)
- - [Adobe&#39;s stock has slumped more than 45% since the end of 2023, reflecting analyst concerns over the threat of AI-driven disruption to SaaS companies &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260117/p4#a260117p4)
- - [Sources: the EU&#39;s cybersecurity proposal, to be presented on Jan. 20, is expected to phase out vendors such as Huawei from the bloc&#39;s critical infrastructure &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260117/p3#a260117p3)<!-- TECH:END -->
+ - [Adobe&#39;s stock has slumped more than 45% since the end of 2023, reflecting analyst concerns over the threat of AI-driven disruption to SaaS companies &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260117/p4#a260117p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

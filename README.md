@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: leaders at Thinking Machines Lab confronted Barret Zoph over an alleged relationship with another employee, who is no longer at the lab, in summer 2025 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260116/p29#a260116p29)
- - [Thinking Machines Cofounder’s Office Relationship Preceded His Termination](https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/)
- - [Anthropic makes Claude Cowork available to $20/month Pro subscribers, after launching it for Max users, and says Pro users may hit their usage limits sooner &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/260116/p28#a260116p28)
- - [California&#39;s AG sends a cease-and-desist letter to xAI, demanding the company halt the generation and distribution of non-consensual intimate images and CSAM &lpar;Julianna Bragg/Axios&rpar;](http://www.techmeme.com/260116/p27#a260116p27)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Grid operator PJM plans to require large data centers to either bring their own power generation or curtail electricity use to prevent a large-scale outage &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p32#a260116p32)
+ - [Sources: suppliers of parts for Nvidia&#39;s H200 chips have paused production after Chinese customs officials blocked shipments of the AI processors &lpar;Financial Times&rpar;](http://www.techmeme.com/260116/p31#a260116p31)
+ - [The US EPA rules that xAI acted illegally by using dozens of methane gas turbines to power its Colossus 1 and Colossus 2 data centers in the Memphis area &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/260116/p30#a260116p30)
+ - [Premier League Soccer 2026: Stream Man United vs. Man City Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-man-united-vs-man-city/)
+ - [Sources: leaders at Thinking Machines Lab confronted Barret Zoph over an alleged relationship with another employee, who is no longer at the lab, in summer 2025 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260116/p29#a260116p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

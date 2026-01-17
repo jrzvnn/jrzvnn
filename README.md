@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: following investor backlash, Monzo to give outgoing CEO TS Anil an expanded role after he steps down in February; he is likely to retain a board seat &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/260117/p8#a260117p8)
+ - [7 Best Mesh Wi-Fi Systems &lpar;2026&rpar;, Tested in a Tech Reviewer&#39;s Home](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [US Hackers Reportedly Caused a Blackout in Venezuela](https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/)
  - [Gear News of the Week: Kia Shows off the EV2, and Fujifilm Debuts New Instax Cameras](https://www.wired.com/story/gear-news-of-the-week-kia-shows-off-the-ev2-and-fujifilm-debuts-new-instax-cameras/)
- - [The Best Mattress for Back Pain: 7 Top Options We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-mattresses-for-back-pain/)
- - [La Liga Soccer: Stream Real Madrid vs. Levante Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-levante-live-from-anywhere/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 17, #481](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-17-481/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 17, #951](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-17-951/)<!-- TECH:END -->
+ - [The Best Mattress for Back Pain: 7 Top Options We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-mattresses-for-back-pain/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

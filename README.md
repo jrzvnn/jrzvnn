@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
- - 😝 [The word rhymes with hike.](http://9gag.com/gag/aKGZBp1)
- - 💣 [Things that never will happen](http://9gag.com/gag/aXP3peD)
- - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
+ - 😝 [Dab](http://9gag.com/gag/apR70xE)
+ - 💣 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
+ - 😝 [Do or do not](http://9gag.com/gag/aByzYOP)
  - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
 
 ---

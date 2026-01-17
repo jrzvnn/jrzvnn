@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the way.](http://9gag.com/gag/aNDMndr)
- - 😝 [Things that never will happen](http://9gag.com/gag/aXP3peD)
- - 💣 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [War Thunder community does it again](http://9gag.com/gag/apR7vm5)
  - 😝 [Ohh](http://9gag.com/gag/avyqPQE)
+ - 💣 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [Do or do not](http://9gag.com/gag/aByzYOP)
  - 👉 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)<!-- MEMES:END -->
 
 ---

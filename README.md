@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Micron breaks ground in New York for its memory manufacturing complex, announced in 2022, that it says will be the largest semiconductor facility in the US &lpar;Glenn Coin/Syracuse Post-Standard&rpar;](http://www.techmeme.com/260116/p33#a260116p33)
  - [Grid operator PJM plans to require large data centers to either bring their own power generation or curtail electricity use to prevent a large-scale outage &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p32#a260116p32)
  - [Sources: suppliers of parts for Nvidia&#39;s H200 chips have paused production after Chinese customs officials blocked shipments of the AI processors &lpar;Financial Times&rpar;](http://www.techmeme.com/260116/p31#a260116p31)
  - [The US EPA rules that xAI acted illegally by using dozens of methane gas turbines to power its Colossus 1 and Colossus 2 data centers in the Memphis area &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/260116/p30#a260116p30)
- - [Premier League Soccer 2026: Stream Man United vs. Man City Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-man-united-vs-man-city/)
- - [Sources: leaders at Thinking Machines Lab confronted Barret Zoph over an alleged relationship with another employee, who is no longer at the lab, in summer 2025 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260116/p29#a260116p29)<!-- TECH:END -->
+ - [Premier League Soccer 2026: Stream Man United vs. Man City Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-man-united-vs-man-city/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

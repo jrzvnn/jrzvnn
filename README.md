@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
- - 💣 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 😝 [You know](http://9gag.com/gag/awyj7oy)
- - 👉 [Ohh](http://9gag.com/gag/avyqPQE)<!-- MEMES:END -->
+ - 😝 [A most awesome background](http://9gag.com/gag/a87Np4V)
+ - 😝 [Just one drink to save the world!](http://9gag.com/gag/aKGZ3GN)
+ - 💣 [Perfect](http://9gag.com/gag/ayNrL7Y)
+ - 😝 [She could just ask Hubal to send her Al Buraq or Solomon&#39;s flying carpet since those things also `existed` during the time of her `prophet`.](http://9gag.com/gag/aO8EdNr)
+ - 👉 [Imagine opening your door to this](http://9gag.com/gag/aE0KnbG)<!-- MEMES:END -->
 
 ---
 

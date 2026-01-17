@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know](http://9gag.com/gag/awyj7oy)
- - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
- - 💣 [Ohh](http://9gag.com/gag/avyqPQE)
- - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
- - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
+ - 😝 [This is the way.](http://9gag.com/gag/aNDMndr)
+ - 😝 [Things that never will happen](http://9gag.com/gag/aXP3peD)
+ - 💣 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [Ohh](http://9gag.com/gag/avyqPQE)
+ - 👉 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)<!-- MEMES:END -->
 
 ---
 

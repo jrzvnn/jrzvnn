@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know](http://9gag.com/gag/awyj7oy)
  - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
- - 💣 [Like a glove](http://9gag.com/gag/a4PgL9m)
- - 😝 [A teenage victim of UK grooming gangs explains how the police ignored their complaints](http://9gag.com/gag/aVvrPLv)
- - 👉 [Amanda seyfried and Sydney Sweeney](http://9gag.com/gag/aNDMZV0)<!-- MEMES:END -->
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 💣 [We need more asylums](http://9gag.com/gag/a34g3M5)
+ - 😝 [Shut up a bit](http://9gag.com/gag/axyKjmW)
+ - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
 
 ---
 

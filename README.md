@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend](https://www.theverge.com/gadgets/863503/apple-mac-mini-m4-lg-c5-oled-tv-deal-sale)
  - [All You Need Is Kill is a dazzling movie with the soul of a video game](https://www.theverge.com/entertainment/862881/all-you-need-is-kill-review)
  - [Beaconcha.in: a record ~36M ethereum tokens, or 30% of ethereum&#39;s total supply, worth ~$119B, are now staked, as institutional investors grow their share &lpar;Sage D. Young/Sherwood News&rpar;](http://www.techmeme.com/260117/p9#a260117p9)
  - [Apple Environment VP Lisa Jackson&#39;s leadership profile pulled as retirement awaits](https://appleinsider.com/articles/26/01/17/apple-environment-vp-lisa-jacksons-leadership-profile-pulled-as-retirement-awaits?utm_source=rss)
- - [Disneyland Now Has a 3D-Printed Prop Canoe on the Jungle Cruise. Take a Peek Behind the Scenes](https://www.cnet.com/tech/computing/disney-3d-printed-polymer-prop-canoe-jungle-cruise/)
- - [Premier League Soccer 2026: Stream Nottingham Forest vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-nottingham-forest-vs-arsenal/)<!-- TECH:END -->
+ - [Disneyland Now Has a 3D-Printed Prop Canoe on the Jungle Cruise. Take a Peek Behind the Scenes](https://www.cnet.com/tech/computing/disney-3d-printed-polymer-prop-canoe-jungle-cruise/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

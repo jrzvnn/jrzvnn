@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 😝 [You know](http://9gag.com/gag/awyj7oy)
- - 💣 [Like a glove](http://9gag.com/gag/a4PgL9m)
- - 😝 [Things that never will happen](http://9gag.com/gag/aXP3peD)
- - 👉 [We need more asylums](http://9gag.com/gag/a34g3M5)<!-- MEMES:END -->
+ - 😝 [The same](http://9gag.com/gag/aW4y6nx)
+ - 😝 [The origin of superhero landings in movies](http://9gag.com/gag/aE0K7ZG)
+ - 💣 [Good news everyone.](http://9gag.com/gag/a5QgPWo)
+ - 😝 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)
+ - 👉 [You forgot the 15 tools boxes on the back of the bicycle with enough gear to fix a nasa space shuttle](http://9gag.com/gag/aGyvxb7)<!-- MEMES:END -->
 
 ---
 

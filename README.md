@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sea doggo](http://9gag.com/gag/adBAXM2)
- - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 💣 [The origin of superhero landings in movies](http://9gag.com/gag/aE0K7ZG)
- - 😝 [Imagine opening your door to this](http://9gag.com/gag/aE0KnbG)
- - 👉 [You forgot the 15 tools boxes on the back of the bicycle with enough gear to fix a nasa space shuttle](http://9gag.com/gag/aGyvxb7)<!-- MEMES:END -->
+ - 😝 [Read the room government.](http://9gag.com/gag/amoQ904)
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 💣 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [I&#39;m the Knight Industries Two Thousand](http://9gag.com/gag/an7ZyjB)
+ - 👉 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)<!-- MEMES:END -->
 
 ---
 

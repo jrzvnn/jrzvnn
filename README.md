@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The same](http://9gag.com/gag/aW4y6nx)
- - 😝 [Good news everyone.](http://9gag.com/gag/a5QgPWo)
- - 💣 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)
- - 😝 [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
- - 👉 [The origin of superhero landings in movies](http://9gag.com/gag/aE0K7ZG)<!-- MEMES:END -->
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
+ - 💣 [Things that never will happen](http://9gag.com/gag/aXP3peD)
+ - 😝 [Iranian chess player Dorsa Derakhshani was given an ultimatum by the Islamic regime: wear the hijab or you\u2019re banned from competing. She didn\u2019t just refuse; she joined the U.S. team, became a Chess Grandmaster, a world champion, and recently started medical school.](http://9gag.com/gag/aqyMLQM)
+ - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
 
 ---
 

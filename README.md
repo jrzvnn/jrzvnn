@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A most awesome background](http://9gag.com/gag/a87Np4V)
- - 😝 [Just one drink to save the world!](http://9gag.com/gag/aKGZ3GN)
- - 💣 [Perfect](http://9gag.com/gag/ayNrL7Y)
+ - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 💣 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
  - 😝 [She could just ask Hubal to send her Al Buraq or Solomon&#39;s flying carpet since those things also `existed` during the time of her `prophet`.](http://9gag.com/gag/aO8EdNr)
- - 👉 [Imagine opening your door to this](http://9gag.com/gag/aE0KnbG)<!-- MEMES:END -->
+ - 👉 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sea doggo](http://9gag.com/gag/adBAXM2)
- - 😝 [The origin of superhero landings in movies](http://9gag.com/gag/aE0K7ZG)
- - 💣 [You forgot the 15 tools boxes on the back of the bicycle with enough gear to fix a nasa space shuttle](http://9gag.com/gag/aGyvxb7)
- - 😝 [Imagine opening your door to this](http://9gag.com/gag/aE0KnbG)
- - 👉 [What is succed un life ?](http://9gag.com/gag/abADb0p)<!-- MEMES:END -->
+ - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
+ - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 👉 [The word rhymes with hike.](http://9gag.com/gag/aKGZBp1)<!-- MEMES:END -->
 
 ---
 

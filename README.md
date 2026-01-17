@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 😝 [They be like that](http://9gag.com/gag/a87NY9Z)
  - 💣 [Things that never will happen](http://9gag.com/gag/aXP3peD)
  - 😝 [Do or do not](http://9gag.com/gag/aByzYOP)
  - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ho noooooo](http://9gag.com/gag/agm9V1g)
  - 😝 [You know](http://9gag.com/gag/awyj7oy)
+ - 💣 [Like a glove](http://9gag.com/gag/a4PgL9m)
  - 😝 [Things that never will happen](http://9gag.com/gag/aXP3peD)
- - 💣 [Dab](http://9gag.com/gag/apR70xE)
- - 😝 [The origin of superhero landings in movies](http://9gag.com/gag/aE0K7ZG)
  - 👉 [We need more asylums](http://9gag.com/gag/a34g3M5)<!-- MEMES:END -->
 
 ---

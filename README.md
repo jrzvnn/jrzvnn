@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beaconcha.in: a record ~36M ethereum tokens, or 30% of ethereum&#39;s total supply, worth ~$119B, are now staked, as institutional investors grow their share &lpar;Sage D. Young/Sherwood News&rpar;](http://www.techmeme.com/260117/p9#a260117p9)
  - [Apple Environment VP Lisa Jackson&#39;s leadership profile pulled as retirement awaits](https://appleinsider.com/articles/26/01/17/apple-environment-vp-lisa-jacksons-leadership-profile-pulled-as-retirement-awaits?utm_source=rss)
  - [A cute frog game that remixes Nintendo&amp;#8217;s best](https://www.theverge.com/games/860917/big-hops-review-pc-nintendo-switch-ps5)
  - [Minnesota wants to win a war of attrition](https://www.theverge.com/policy/863632/minnesota-walz-trump-sousveillance-ice)
- - [Apple Sainte-Catherine reopens with crowds and artist signings](https://appleinsider.com/articles/26/01/17/apple-sainte-catherine-reopens-with-crowds-and-artist-signings?utm_source=rss)
- - [Audi, Porsche, VW Issue Major Recall Over Rearview Camera Glitch: How to Know if Your Car Is Affected](https://www.cnet.com/roadshow/news/audi-porsche-vw-announce-major-us-recalls-tied-to-rearview-camera-glitch/)<!-- TECH:END -->
+ - [Apple Sainte-Catherine reopens with crowds and artist signings](https://appleinsider.com/articles/26/01/17/apple-sainte-catherine-reopens-with-crowds-and-artist-signings?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

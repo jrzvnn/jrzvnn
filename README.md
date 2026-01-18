@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Juicers &lpar;2026&rpar;: Fast Juicers and Slow Juicers](https://www.wired.com/gallery/the-best-juicer/)
- - [Personal Comfort’s the Rejuvenate Review: Have It Your Way](https://www.wired.com/review/personal-comfort-rejuvenate/)
- - [A look at the making of The Thinking Game, a documentary about Google DeepMind and its CEO Demis Hassabis, garnering 285M+ views on YouTube since November 2025 &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/260118/p6#a260118p6)
- - [OpenAI&#39;s former Head of Policy Research Miles Brundage announces AVERI, a nonprofit aimed at advocating the idea of external audits for frontier AI models &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260118/p5#a260118p5)
- - [Atlantic Council: China-led cross-border digital currency platform mBridge, still a prototype, has processed 4,000+ cross-border transactions totaling $55.5B &lpar;Marc Jones/Reuters&rpar;](http://www.techmeme.com/260118/p4#a260118p4)<!-- TECH:END -->
+ - [India&#39;s largest retailer Reliance Retail says its daily quick commerce orders peaked at 1.6M in Q4 2025; market leader Blinkit averaged 2.4M daily orders in Q3 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260118/p7#a260118p7)
+ - [People Still Aren’t Into Buying Cars Online](https://www.wired.com/story/people-still-arent-into-buying-cars-online/)
+ - [Jones Hovercraft 2.0 Snowboard Review: For Big Powder Days](https://www.wired.com/review/jones-hovercraft-20-snowboard/)
+ - [The Best Sea Moss Gummies and Who Should Avoid Them, According to Registered Dietitians](https://www.cnet.com/health/nutrition/best-sea-moss-gummies-benefits-side-effects/)
+ - [6 Best Juicers &lpar;2026&rpar;: Fast Juicers and Slow Juicers](https://www.wired.com/gallery/the-best-juicer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

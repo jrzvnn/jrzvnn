@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simpson gave us the greatest plot twist in television history](http://9gag.com/gag/avyqrRb)
- - 😝 [Imagine opening your door to this](http://9gag.com/gag/aE0KnbG)
- - 💣 [Ah. Makes sense...](http://9gag.com/gag/aO8Ed8R)
- - 😝 [It&#39;s always Earth](http://9gag.com/gag/a0egb8B)
- - 👉 [Safety first. Shot second](http://9gag.com/gag/aRBWKm2)<!-- MEMES:END -->
+ - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
+ - 💣 [Open World Big Boys now](http://9gag.com/gag/apR7vx8)
+ - 😝 [Ho noooooo](http://9gag.com/gag/agm9V1g)
+ - 👉 [I haven\u2019t found a suitable name yet\u2026](http://9gag.com/gag/aQzbxje)<!-- MEMES:END -->
 
 ---
 

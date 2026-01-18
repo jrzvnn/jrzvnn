@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
- - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 💣 [That went over the head. Periodic.](http://9gag.com/gag/a9ywryK)
- - 😝 [Logic check](http://9gag.com/gag/amoQ2v2)
- - 👉 [Legit](http://9gag.com/gag/aZZXmgz)<!-- MEMES:END -->
+ - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
+ - 💣 [Legit](http://9gag.com/gag/aZZXmgz)
+ - 😝 [No title](http://9gag.com/gag/abADzrO)
+ - 👉 [Honesty](http://9gag.com/gag/a6ZgVN8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoinGecko: over 53% of the 20.2M crypto tokens launched since 2021 are now inactive, with 7.7M tokens failing in Q4 2025, after Oct. 10 &quot;liquidation cascade&quot; &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/260118/p12#a260118p12)
  - [Similarweb: Threads had 141.5M DAUs on iOS and Android as of January 7, driven by Instagram promotions, while X had 125M DAUs; X continues to lead on the web &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260118/p11#a260118p11)
  - [RunPod, an AI app hosting service launched four years ago that raised a $20M seed in May 2024, says it has reached a $120M annual revenue run rate &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260118/p10#a260118p10)
  - [Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down](https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug)
- - [FIFA&#39;s Deal With TikTok Includes World Cup 2026 Live Streaming](https://www.cnet.com/news/social-media/tiktok-fifa-world-cup-2026-coverage/)
- - [Sources: Sequoia is planning a big investment in Anthropic, joining a round led by GIC and Coatue, which are investing $1.5B each; Anthropic aims to raise $25B+ &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260118/p9#a260118p9)<!-- TECH:END -->
+ - [FIFA&#39;s Deal With TikTok Includes World Cup 2026 Live Streaming](https://www.cnet.com/news/social-media/tiktok-fifa-world-cup-2026-coverage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

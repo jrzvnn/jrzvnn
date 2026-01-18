@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s first Windows 11 update of 2026 stopped some computers from shuting down](https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug)
+ - [RunPod, an AI app hosting service launched four years ago that raised a $20M seed in May 2024, says it has reached a $120M annual revenue run rate &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260118/p10#a260118p10)
+ - [Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down](https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug)
  - [Sources: Sequoia is planning a big investment in Anthropic, joining a round led by GIC and Coatue, which are investing $1.5B each; Anthropic aims to raise $25B+ &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260118/p9#a260118p9)
  - [Q&amp;A with SiFive co-founder Krste Asanović, who was part of the original team that developed RISC-V, on creating a company that builds IP around RISC-V, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/260118/p8#a260118p8)
- - [ChatGPT will soon start showing ads, but they won&#39;t affect its responses](https://appleinsider.com/articles/26/01/18/chatgpt-will-soon-start-showing-ads-but-they-wont-affect-its-responses?utm_source=rss)
- - [Here are the 10 deals worth grabbing from Best Buy’s winter sales event](https://www.theverge.com/gadgets/863660/best-buy-winter-sale-2026-oled-tvs-headphones-fitness-trackers-deal-sale)<!-- TECH:END -->
+ - [ChatGPT will soon start showing ads, but they won&#39;t affect its responses](https://appleinsider.com/articles/26/01/18/chatgpt-will-soon-start-showing-ads-but-they-wont-affect-its-responses?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

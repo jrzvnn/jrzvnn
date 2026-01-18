@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
- - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
  - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 👉 [Perfect](http://9gag.com/gag/ayNrL7Y)<!-- MEMES:END -->
+ - 😝 [When Robert downey Jr. visited Wall Street in 1992 and got horrified](http://9gag.com/gag/aByz1RN)
+ - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 😝 [Legit](http://9gag.com/gag/aZZXmgz)
+ - 👉 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)<!-- MEMES:END -->
 
 ---
 

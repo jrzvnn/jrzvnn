@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [The magic of baking is just so satisfying to watch](http://9gag.com/gag/a5QgZ4G)
  - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
- - 💣 [Open World Big Boys now](http://9gag.com/gag/apR7vx8)
- - 😝 [Ho noooooo](http://9gag.com/gag/agm9V1g)
- - 👉 [I haven\u2019t found a suitable name yet\u2026](http://9gag.com/gag/aQzbxje)<!-- MEMES:END -->
+ - 💣 [I haven\u2019t found a suitable name yet\u2026](http://9gag.com/gag/aQzbxje)
+ - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 👉 [Ho noooooo](http://9gag.com/gag/agm9V1g)<!-- MEMES:END -->
 
 ---
 

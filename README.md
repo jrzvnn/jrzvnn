@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
- - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 💣 [Bro passed by his house 30 minutes ago](http://9gag.com/gag/a2vgdA9)
+ - 😝 [Ah. Makes sense...](http://9gag.com/gag/aO8Ed8R)
+ - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
+ - 💣 [Simpson gave us the greatest plot twist in television history](http://9gag.com/gag/avyqrRb)
  - 😝 [The Matrix training 1999](http://9gag.com/gag/aPALBjq)
- - 👉 [Long live the Queen!](http://9gag.com/gag/aLno2ox)<!-- MEMES:END -->
+ - 👉 [Part of becoming an adult is realizing that life is not like in the movies](http://9gag.com/gag/a34gqvr)<!-- MEMES:END -->
 
 ---
 

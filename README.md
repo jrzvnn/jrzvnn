@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [India&#39;s largest retailer Reliance Retail says its daily quick commerce orders peaked at 1.6M in Q4 2025; market leader Blinkit averaged 2.4M daily orders in Q3 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260118/p7#a260118p7)
  - [People Still Aren’t Into Buying Cars Online](https://www.wired.com/story/people-still-arent-into-buying-cars-online/)
  - [Jones Hovercraft 2.0 Snowboard Review: For Big Powder Days](https://www.wired.com/review/jones-hovercraft-20-snowboard/)
- - [The Best Sea Moss Gummies and Who Should Avoid Them, According to Registered Dietitians](https://www.cnet.com/health/nutrition/best-sea-moss-gummies-benefits-side-effects/)
- - [6 Best Juicers &lpar;2026&rpar;: Fast Juicers and Slow Juicers](https://www.wired.com/gallery/the-best-juicer/)<!-- TECH:END -->
+ - [6 Best Juicers &lpar;2026&rpar;: Fast Juicers and Slow Juicers](https://www.wired.com/gallery/the-best-juicer/)
+ - [Personal Comfort’s the Rejuvenate Review: Have It Your Way](https://www.wired.com/review/personal-comfort-rejuvenate/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

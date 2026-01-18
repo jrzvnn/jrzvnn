@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 😝 [When Robert downey Jr. visited Wall Street in 1992 and got horrified](http://9gag.com/gag/aByz1RN)
- - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [Legit](http://9gag.com/gag/aZZXmgz)
- - 👉 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)<!-- MEMES:END -->
+ - 😝 [Bro passed by his house 30 minutes ago](http://9gag.com/gag/a2vgdA9)
+ - 💣 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
+ - 😝 [The Matrix training 1999](http://9gag.com/gag/aPALBjq)
+ - 👉 [When you test a lifehammer on live TV](http://9gag.com/gag/aO8EdnD)<!-- MEMES:END -->
 
 ---
 

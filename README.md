@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 😝 [Bro passed by his house 30 minutes ago](http://9gag.com/gag/a2vgdA9)
- - 💣 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
- - 😝 [The Matrix training 1999](http://9gag.com/gag/aPALBjq)
- - 👉 [When you test a lifehammer on live TV](http://9gag.com/gag/aO8EdnD)<!-- MEMES:END -->
+ - 😝 [Simpson gave us the greatest plot twist in television history](http://9gag.com/gag/avyqrRb)
+ - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
+ - 💣 [When you see a bug in the code, but you don&#39;t touch anything because everything works anyway\u2026](http://9gag.com/gag/aW4y8Bq)
+ - 😝 [Part of becoming an adult is realizing that life is not like in the movies](http://9gag.com/gag/a34gqvr)
+ - 👉 [The Matrix training 1999](http://9gag.com/gag/aPALBjq)<!-- MEMES:END -->
 
 ---
 

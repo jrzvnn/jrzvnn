@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro passed by his house 30 minutes ago](http://9gag.com/gag/a2vgdA9)
- - 😝 [When Robert downey Jr. visited Wall Street in 1992 and got horrified](http://9gag.com/gag/aByz1RN)
- - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
  - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 👉 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)<!-- MEMES:END -->
+ - 💣 [Bro passed by his house 30 minutes ago](http://9gag.com/gag/a2vgdA9)
+ - 😝 [The Matrix training 1999](http://9gag.com/gag/aPALBjq)
+ - 👉 [Long live the Queen!](http://9gag.com/gag/aLno2ox)<!-- MEMES:END -->
 
 ---
 

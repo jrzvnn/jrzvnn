@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [OpenAI&#39;s former Head of Policy Research Miles Brundage announces AVERI, a nonprofit aimed at advocating the idea of external audits for frontier AI models &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260118/p5#a260118p5)
  - [Atlantic Council: China-led cross-border digital currency platform mBridge, still a prototype, has processed 4,000+ cross-border transactions totaling $55.5B &lpar;Marc Jones/Reuters&rpar;](http://www.techmeme.com/260118/p4#a260118p4)
  - [Listen Labs, whose AI tools help Microsoft and others run customer research and interviews, raised a $69M Series B led by Ribbit Capital at a $500M+ valuation &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260118/p3#a260118p3)
- - [Mannheim, Germany-based osapiens, a provider of ESG compliance software, raised a $100M Series C solely from Decarbonization Partners at a $1.1B valuation &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/260118/p2#a260118p2)<!-- TECH:END -->
+ - [Mannheim, Germany-based osapiens, a provider of ESG compliance software, raised a $100M Series C from Decarbonization Partners at a $1.1B valuation &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/260118/p2#a260118p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

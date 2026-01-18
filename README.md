@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simpson gave us the greatest plot twist in television history](http://9gag.com/gag/avyqrRb)
- - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
- - 💣 [When you see a bug in the code, but you don&#39;t touch anything because everything works anyway\u2026](http://9gag.com/gag/aW4y8Bq)
- - 😝 [Part of becoming an adult is realizing that life is not like in the movies](http://9gag.com/gag/a34gqvr)
- - 👉 [The Matrix training 1999](http://9gag.com/gag/aPALBjq)<!-- MEMES:END -->
+ - 😝 [Ho noooooo](http://9gag.com/gag/agm9V1g)
+ - 😝 [When you test a lifehammer on live TV](http://9gag.com/gag/aO8EdnD)
+ - 💣 [Leonardo&#39;s reaction when a woman over 25 touched him](http://9gag.com/gag/adBAjwB)
+ - 😝 [This is the road to unity. Don&#39;t let the media tell you otherwise](http://9gag.com/gag/aAyAd4R)
+ - 👉 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)<!-- MEMES:END -->
 
 ---
 

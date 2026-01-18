@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legit](http://9gag.com/gag/aZZXmgz)
- - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - 💣 [Hmmmm !!](http://9gag.com/gag/avyqG35)
- - 😝 [Logic check](http://9gag.com/gag/amoQ2v2)
- - 👉 [Honesty](http://9gag.com/gag/a6ZgVN8)<!-- MEMES:END -->
+ - 😝 [The Matrix training 1999](http://9gag.com/gag/aPALBjq)
+ - 😝 [Currently going through this.. luckily she showed her true colors before we got married. Know your worth, Brothers who suffer in silence.](http://9gag.com/gag/a6ZgM6e)
+ - 💣 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
+ - 👉 [Logic check](http://9gag.com/gag/amoQ2v2)<!-- MEMES:END -->
 
 ---
 

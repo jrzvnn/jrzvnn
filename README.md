@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 💣 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
- - 😝 [What a weird side effect of ozempic/monjaro, cheaper airplanes tickets](http://9gag.com/gag/a7ogZjw)
- - 👉 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)<!-- MEMES:END -->
+ - 😝 [Bro passed by his house 30 minutes ago](http://9gag.com/gag/a2vgdA9)
+ - 😝 [When Robert downey Jr. visited Wall Street in 1992 and got horrified](http://9gag.com/gag/aByz1RN)
+ - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 👉 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)<!-- MEMES:END -->
 
 ---
 

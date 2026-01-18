@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the road to unity. Don&#39;t let the media tell you otherwise](http://9gag.com/gag/aAyAd4R)
- - 😝 [Overkill AF](http://9gag.com/gag/an7ZbK0)
- - 💣 [Part of becoming an adult is realizing that life is not like in the movies](http://9gag.com/gag/a34gqvr)
- - 😝 [She could just ask Hubal to send her Al Buraq or Solomon&#39;s flying carpet since those things also `existed` during the time of her `prophet`.](http://9gag.com/gag/aO8EdNr)
- - 👉 [The Matrix training 1999](http://9gag.com/gag/aPALBjq)<!-- MEMES:END -->
+ - 😝 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
+ - 😝 [I haven\u2019t found a suitable name yet\u2026](http://9gag.com/gag/aQzbxje)
+ - 💣 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
+ - 😝 [No title](http://9gag.com/gag/abADzrO)
+ - 👉 [Legit](http://9gag.com/gag/aZZXmgz)<!-- MEMES:END -->
 
 ---
 

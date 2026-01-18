@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
+ - 😝 [Legit](http://9gag.com/gag/aZZXmgz)
  - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - 💣 [Legit](http://9gag.com/gag/aZZXmgz)
- - 😝 [No title](http://9gag.com/gag/abADzrO)
+ - 💣 [Hmmmm !!](http://9gag.com/gag/avyqG35)
+ - 😝 [Logic check](http://9gag.com/gag/amoQ2v2)
  - 👉 [Honesty](http://9gag.com/gag/a6ZgVN8)<!-- MEMES:END -->
 
 ---

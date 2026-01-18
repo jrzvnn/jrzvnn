@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kaoss Pad V is the first major upgrade to Korg’s touch-based effects in 13 years](https://www.theverge.com/news/864003/korg-kaoss-pad-v-namm)
+ - [Why Coinbase derailed the crypto industry’s political future](https://www.theverge.com/policy/864008/senate-clarity-act-coinbase-crypto-market)
  - [Under Musk, the Grok disaster was inevitable](https://www.theverge.com/column/863502/grok-deepfake-musk)
  - [15 Best Electric Bikes &lpar;2026&rpar;, Tested and Reviewed: Commuting, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)
- - [5 Best Water Leak Detectors &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)
- - [Best Android Phones of 2026: Tested by Our Experts](https://www.cnet.com/tech/mobile/best-android-phone/)
- - [Tesla&#39;s &#39;Full Self-Driving&#39; Software Is Becoming a Subscription Service](https://www.cnet.com/roadshow/news/tesla-shifting-full-self-driving-software-to-a-subscription-only-service/)<!-- TECH:END -->
+ - [5 Best Water Leak Detectors &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

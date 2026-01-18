@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with SiFive co-founder Krste Asanović, who was part of the original team that developed RISC-V, on creating a company that builds IP around RISC-V, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/260118/p8#a260118p8)
  - [ChatGPT will soon start showing ads, but they won&#39;t affect its responses](https://appleinsider.com/articles/26/01/18/chatgpt-will-soon-start-showing-ads-but-they-wont-affect-its-responses?utm_source=rss)
  - [Here are the 10 deals worth grabbing from Best Buy’s winter sales event](https://www.theverge.com/gadgets/863660/best-buy-winter-sale-2026-oled-tvs-headphones-fitness-trackers-deal-sale)
  - [Kaoss Pad V is the first major upgrade to Korg’s touch-based effects in 13 years](https://www.theverge.com/news/864003/korg-kaoss-pad-v-namm)
- - [PDAs, Tube TVs and $13,000 VCRs: How CES Jump-Starts the Tech of Tomorrow](https://www.cnet.com/tech/home-entertainment/features/ces-history-consumer-electronics-show-tv-vcr-atari-pda-apple/)
- - [Why Coinbase derailed the crypto industry’s political future](https://www.theverge.com/policy/864008/senate-clarity-act-coinbase-crypto-market)<!-- TECH:END -->
+ - [PDAs, Tube TVs and $13,000 VCRs: How CES Jump-Starts the Tech of Tomorrow](https://www.cnet.com/tech/home-entertainment/features/ces-history-consumer-electronics-show-tv-vcr-atari-pda-apple/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

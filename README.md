@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
- - 😝 [When you test a lifehammer on live TV](http://9gag.com/gag/aO8EdnD)
+ - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
+ - 😝 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
  - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
- - 👉 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)<!-- MEMES:END -->
+ - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 👉 [Perfect](http://9gag.com/gag/ayNrL7Y)<!-- MEMES:END -->
 
 ---
 

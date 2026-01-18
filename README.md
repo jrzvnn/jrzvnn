@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
- - 💣 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
- - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
+ - 😝 [Widening your audience while shrinking your fan base.](http://9gag.com/gag/a9ywAqZ)
+ - 😝 [Damn](http://9gag.com/gag/aryE5n7)
+ - 💣 [I would watch it](http://9gag.com/gag/aXP3A3z)
+ - 😝 [I was there, it is true](http://9gag.com/gag/ae9zbgj)
+ - 👉 [Logic check](http://9gag.com/gag/amoQ2v2)<!-- MEMES:END -->
 
 ---
 

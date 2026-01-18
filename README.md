@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [David Sacks and top MAGA influencers are publicly opposing House Foreign Affairs Chair Brian Mast&#39;s proposed AI OVERWATCH Act to regulate AI chip sales to China &lpar;Axios&rpar;](http://www.techmeme.com/260118/p1#a260118p1)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Jan. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-jan-18/)
  - [The AI boom is driving an unprecedented wave of data center construction, but there aren&#39;t enough skilled workers in the US, such as electricians, to keep up &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/260117/p14#a260117p14)
  - [&#39;Landman&#39; Season 2 Finale: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-finale-release-time/)
- - [14 of the Best Peacock Shows to Stream This Weekend](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-peacock/)
- - [A look at Michael Saylor&#39;s Strategy, known for buying bitcoin via creative financing strategies, as its stock trades way below its peak amid the crypto downturn &lpar;Rob Copeland/New York Times&rpar;](http://www.techmeme.com/260117/p13#a260117p13)<!-- TECH:END -->
+ - [14 of the Best Peacock Shows to Stream This Weekend](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-peacock/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

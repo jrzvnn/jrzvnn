@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you test a lifehammer on live TV](http://9gag.com/gag/aO8EdnD)
- - 😝 [Legit](http://9gag.com/gag/aZZXmgz)
+ - 😝 [Leonardo&#39;s reaction when a woman over 25 touched him](http://9gag.com/gag/adBAjwB)
+ - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
  - 💣 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
  - 😝 [I was there, it is true](http://9gag.com/gag/ae9zbgj)
- - 👉 [Leonardo&#39;s reaction when a woman over 25 touched him](http://9gag.com/gag/adBAjwB)<!-- MEMES:END -->
+ - 👉 [Legit](http://9gag.com/gag/aZZXmgz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Currently going through this.. luckily she showed her true colors before we got married. Know your worth, Brothers who suffer in silence.](http://9gag.com/gag/a6ZgM6e)
- - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 💣 [I would watch it](http://9gag.com/gag/aXP3A3z)
- - 😝 [Logic check](http://9gag.com/gag/amoQ2v2)
- - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
+ - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
+ - 💣 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
+ - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
+ - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
 
 ---
 

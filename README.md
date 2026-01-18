@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
- - 💣 [Perfect](http://9gag.com/gag/ayNrL7Y)
+ - 😝 [Ho noooooo](http://9gag.com/gag/agm9V1g)
+ - 😝 [Open World Big Boys now](http://9gag.com/gag/apR7vx8)
+ - 💣 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
  - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
- - 👉 [Ho noooooo](http://9gag.com/gag/agm9V1g)<!-- MEMES:END -->
+ - 👉 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)<!-- MEMES:END -->
 
 ---
 

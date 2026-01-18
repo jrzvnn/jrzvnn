@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Similarweb: Claude&#39;s web audience more than doubled in December 2025 compared with December 2024, as many coders spent their holiday breaks on a &quot;Claude bender&quot; &lpar;Bradley Olson/Wall Street Journal&rpar;](http://www.techmeme.com/260118/p14#a260118p14)
  - [Today&#39;s Wordle Hints, Answer and Help for Jan. 19, #1675](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-19-1675/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 19 #687](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-19-687/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 19, #953](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-19-953/)
- - [Inside the 2026 National Retail Federation conference in New York City, where integrating AI into retail businesses was the overarching theme on the expo floor &lpar;New York Times&rpar;](http://www.techmeme.com/260118/p13#a260118p13)
- - [You need to listen to the cosmic horror-comedy podcast Welcome to Night Vale](https://www.theverge.com/column/864078/cosmic-horror-comedy-podcast-welcome-to-night-vale)<!-- TECH:END -->
+ - [Inside the 2026 National Retail Federation conference in New York City, where integrating AI into retail businesses was the overarching theme on the expo floor &lpar;New York Times&rpar;](http://www.techmeme.com/260118/p13#a260118p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

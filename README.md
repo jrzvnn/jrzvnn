@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
- - 😝 [Ohh](http://9gag.com/gag/avyqPQE)
- - 💣 [Things we do for money](http://9gag.com/gag/avyqrq5)
- - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
- - 👉 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)<!-- MEMES:END -->
+ - 😝 [Perfect](http://9gag.com/gag/ayNrL7Y)
+ - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 💣 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
+ - 😝 [She could just ask Hubal to send her Al Buraq or Solomon&#39;s flying carpet since those things also `existed` during the time of her `prophet`.](http://9gag.com/gag/aO8EdNr)
+ - 👉 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)<!-- MEMES:END -->
 
 ---
 

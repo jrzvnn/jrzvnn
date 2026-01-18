@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
- - 😝 [Imagine opening your door to this](http://9gag.com/gag/aE0KnbG)
- - 💣 [Ah. Makes sense...](http://9gag.com/gag/aO8Ed8R)
- - 😝 [Simpson gave us the greatest plot twist in television history](http://9gag.com/gag/avyqrRb)
- - 👉 [Safety first. Shot second](http://9gag.com/gag/aRBWKm2)<!-- MEMES:END -->
+ - 😝 [Ah. Makes sense...](http://9gag.com/gag/aO8Ed8R)
+ - 💣 [Safety first. Shot second](http://9gag.com/gag/aRBWKm2)
+ - 😝 [It&#39;s always Earth](http://9gag.com/gag/a0egb8B)
+ - 👉 [Simpson gave us the greatest plot twist in television history](http://9gag.com/gag/avyqrRb)<!-- MEMES:END -->
 
 ---
 

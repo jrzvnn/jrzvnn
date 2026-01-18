@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah. Makes sense...](http://9gag.com/gag/aO8Ed8R)
- - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
- - 💣 [Simpson gave us the greatest plot twist in television history](http://9gag.com/gag/avyqrRb)
- - 😝 [The Matrix training 1999](http://9gag.com/gag/aPALBjq)
- - 👉 [Part of becoming an adult is realizing that life is not like in the movies](http://9gag.com/gag/a34gqvr)<!-- MEMES:END -->
+ - 😝 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
+ - 😝 [When you test a lifehammer on live TV](http://9gag.com/gag/aO8EdnD)
+ - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
+ - 👉 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)<!-- MEMES:END -->
 
 ---
 

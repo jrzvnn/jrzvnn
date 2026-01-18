@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leonardo&#39;s reaction when a woman over 25 touched him](http://9gag.com/gag/adBAjwB)
+ - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
  - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
  - 💣 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - 😝 [I was there, it is true](http://9gag.com/gag/ae9zbgj)
+ - 😝 [This is the road to unity. Don&#39;t let the media tell you otherwise](http://9gag.com/gag/aAyAd4R)
  - 👉 [Legit](http://9gag.com/gag/aZZXmgz)<!-- MEMES:END -->
 
 ---

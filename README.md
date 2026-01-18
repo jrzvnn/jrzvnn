@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the 10 deals worth grabbing from Best Buy’s winter sales event](https://www.theverge.com/gadgets/863660/best-buy-winter-sale-2026-oled-tvs-headphones-fitness-trackers-deal-sale)
  - [Kaoss Pad V is the first major upgrade to Korg’s touch-based effects in 13 years](https://www.theverge.com/news/864003/korg-kaoss-pad-v-namm)
+ - [PDAs, Tube TVs and $13,000 VCRs: How CES Jump-Starts the Tech of Tomorrow](https://www.cnet.com/tech/home-entertainment/features/ces-history-consumer-electronics-show-tv-vcr-atari-pda-apple/)
  - [Why Coinbase derailed the crypto industry’s political future](https://www.theverge.com/policy/864008/senate-clarity-act-coinbase-crypto-market)
- - [Under Musk, the Grok disaster was inevitable](https://www.theverge.com/column/863502/grok-deepfake-musk)
- - [15 Best Electric Bikes &lpar;2026&rpar;, Tested and Reviewed: Commuting, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)
- - [5 Best Water Leak Detectors &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)<!-- TECH:END -->
+ - [NFL Sunday Playoffs: How to Stream Texans vs. Patriots and Rams vs. Bears Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-nfl-playoffs-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

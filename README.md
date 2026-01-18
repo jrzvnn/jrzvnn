@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
  - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
- - 😝 [Widening your audience while shrinking your fan base.](http://9gag.com/gag/a9ywAqZ)
- - 💣 [Damn](http://9gag.com/gag/aryE5n7)
+ - 💣 [Widening your audience while shrinking your fan base.](http://9gag.com/gag/a9ywAqZ)
  - 😝 [I was there, it is true](http://9gag.com/gag/ae9zbgj)
  - 👉 [Logic check](http://9gag.com/gag/amoQ2v2)<!-- MEMES:END -->
 

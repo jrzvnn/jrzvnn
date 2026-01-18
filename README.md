@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
- - 💣 [Open World Big Boys now](http://9gag.com/gag/apR7vx8)
  - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 👉 [When you test a lifehammer on live TV](http://9gag.com/gag/aO8EdnD)<!-- MEMES:END -->
+ - 💣 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [When you test a lifehammer on live TV](http://9gag.com/gag/aO8EdnD)
+ - 👉 [RIP Star Trek](http://9gag.com/gag/a7og7Dx)<!-- MEMES:END -->
 
 ---
 

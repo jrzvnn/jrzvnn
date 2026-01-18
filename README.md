@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Matrix training 1999](http://9gag.com/gag/aPALBjq)
  - 😝 [Currently going through this.. luckily she showed her true colors before we got married. Know your worth, Brothers who suffer in silence.](http://9gag.com/gag/a6ZgM6e)
- - 💣 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
- - 👉 [Logic check](http://9gag.com/gag/amoQ2v2)<!-- MEMES:END -->
+ - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 💣 [I would watch it](http://9gag.com/gag/aXP3A3z)
+ - 😝 [Logic check](http://9gag.com/gag/amoQ2v2)
+ - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
 
 ---
 

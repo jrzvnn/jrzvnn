@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I haven\u2019t found a suitable name yet\u2026](http://9gag.com/gag/aQzbxje)
- - 😝 [You know](http://9gag.com/gag/awyj7oy)
- - 💣 [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [Mugshots of the evil](http://9gag.com/gag/a1mgdvG)
- - 👉 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)<!-- MEMES:END -->
+ - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
+ - 😝 [Ohh](http://9gag.com/gag/avyqPQE)
+ - 💣 [Things we do for money](http://9gag.com/gag/avyqrq5)
+ - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
+ - 👉 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)<!-- MEMES:END -->
 
 ---
 

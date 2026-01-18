@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ho noooooo](http://9gag.com/gag/agm9V1g)
- - 😝 [When you test a lifehammer on live TV](http://9gag.com/gag/aO8EdnD)
- - 💣 [Leonardo&#39;s reaction when a woman over 25 touched him](http://9gag.com/gag/adBAjwB)
- - 😝 [This is the road to unity. Don&#39;t let the media tell you otherwise](http://9gag.com/gag/aAyAd4R)
- - 👉 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)<!-- MEMES:END -->
+ - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
+ - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 💣 [When you test a lifehammer on live TV](http://9gag.com/gag/aO8EdnD)
+ - 😝 [Legit](http://9gag.com/gag/aZZXmgz)
+ - 👉 [Leonardo&#39;s reaction when a woman over 25 touched him](http://9gag.com/gag/adBAjwB)<!-- MEMES:END -->
 
 ---
 

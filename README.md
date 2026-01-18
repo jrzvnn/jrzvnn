@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Under Musk, the Grok disaster was inevitable](https://www.theverge.com/column/863502/grok-deepfake-musk)
  - [15 Best Electric Bikes &lpar;2026&rpar;, Tested and Reviewed: Commuting, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)
  - [5 Best Water Leak Detectors &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)
- - [India&#39;s largest retailer Reliance Retail says its daily quick commerce orders peaked at 1.6M in Q4 2025; market leader Blinkit averaged 2.4M daily orders in Q3 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260118/p7#a260118p7)
- - [People Still Aren’t Into Buying Cars Online](https://www.wired.com/story/people-still-arent-into-buying-cars-online/)
- - [Jones Hovercraft 2.0 Snowboard Review: For Big Powder Days](https://www.wired.com/review/jones-hovercraft-20-snowboard/)<!-- TECH:END -->
+ - [Best Android Phones of 2026: Tested by Our Experts](https://www.cnet.com/tech/mobile/best-android-phone/)
+ - [Tesla&#39;s &#39;Full Self-Driving&#39; Software Is Becoming a Subscription Service](https://www.cnet.com/roadshow/news/tesla-shifting-full-self-driving-software-to-a-subscription-only-service/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

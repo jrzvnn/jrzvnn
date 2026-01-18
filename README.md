@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 19, #1675](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-19-1675/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 19 #687](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-19-687/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 19, #953](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-19-953/)
  - [Inside the 2026 National Retail Federation conference in New York City, where integrating AI into retail businesses was the overarching theme on the expo floor &lpar;New York Times&rpar;](http://www.techmeme.com/260118/p13#a260118p13)
- - [You need to listen to the cosmic horror-comedy podcast Welcome to Night Vale](https://www.theverge.com/column/864078/cosmic-horror-comedy-podcast-welcome-to-night-vale)
- - [15 Excellent Horror Movies to Watch on HBO Max](https://www.cnet.com/tech/services-and-software/best-horror-movies-to-watch-on-hbo-max/)
- - [CoinGecko: over 53% of the 20.2M crypto tokens launched since 2021 are now inactive, with 7.7M tokens failing in Q4 2025, after Oct. 10 &quot;liquidation cascade&quot; &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/260118/p12#a260118p12)
- - [Similarweb: Threads had 141.5M DAUs on iOS and Android as of January 7, driven by Instagram promotions, while X had 125M DAUs; X continues to lead on the web &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260118/p11#a260118p11)<!-- TECH:END -->
+ - [You need to listen to the cosmic horror-comedy podcast Welcome to Night Vale](https://www.theverge.com/column/864078/cosmic-horror-comedy-podcast-welcome-to-night-vale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

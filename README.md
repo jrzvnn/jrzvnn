@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Inside the 2026 National Retail Federation conference in New York City, where integrating AI into retail businesses was the overarching theme on the expo floor &lpar;New York Times&rpar;](http://www.techmeme.com/260118/p13#a260118p13)
  - [You need to listen to the cosmic horror-comedy podcast Welcome to Night Vale](https://www.theverge.com/column/864078/cosmic-horror-comedy-podcast-welcome-to-night-vale)
+ - [15 Excellent Horror Movies to Watch on HBO Max](https://www.cnet.com/tech/services-and-software/best-horror-movies-to-watch-on-hbo-max/)
  - [CoinGecko: over 53% of the 20.2M crypto tokens launched since 2021 are now inactive, with 7.7M tokens failing in Q4 2025, after Oct. 10 &quot;liquidation cascade&quot; &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/260118/p12#a260118p12)
- - [Similarweb: Threads had 141.5M DAUs on iOS and Android as of January 7, driven by Instagram promotions, while X had 125M DAUs; X continues to lead on the web &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260118/p11#a260118p11)
- - [RunPod, an AI app hosting service launched four years ago that raised a $20M seed in May 2024, says it has reached a $120M annual revenue run rate &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260118/p10#a260118p10)<!-- TECH:END -->
+ - [Similarweb: Threads had 141.5M DAUs on iOS and Android as of January 7, driven by Instagram promotions, while X had 125M DAUs; X continues to lead on the web &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260118/p11#a260118p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

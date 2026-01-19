@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
  - 💣 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [That went over the head. Periodic.](http://9gag.com/gag/a9ywryK)
- - 👉 [Current Work Culture](http://9gag.com/gag/a0eg5wO)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/abADzrO)
+ - 👉 [That went over the head. Periodic.](http://9gag.com/gag/a9ywryK)<!-- MEMES:END -->
 
 ---
 

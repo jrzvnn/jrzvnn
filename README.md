@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
  - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 💣 [No title](http://9gag.com/gag/abADzrO)
- - 😝 [That went over the head. Periodic.](http://9gag.com/gag/a9ywryK)
- - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
+ - 💣 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 😝 [Hmmmm !!](http://9gag.com/gag/avyqG35)
+ - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
 
 ---
 

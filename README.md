@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - 😝 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
+ - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
  - 💣 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
- - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
+ - 😝 [The Canadian Premier League final in Ottawa was played in -8\u00b0C weather, with snow repeatedly interrupting the match and requiring the lines to be cleared every 15 minutes. A truly crazy game.](http://9gag.com/gag/a9ywp9D)
+ - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
 
 ---
 

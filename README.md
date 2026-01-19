@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Dumbphone Owners Have Lost Their Minds](https://www.wired.com/story/dumbphone-owners-have-literally-lost-their-minds/)
+ - [On Joe Rogan&#39;s JRE, Matt Damon and Ben Affleck discuss Hollywood and AI; Damon says Netflix wants movies to restate the plot because viewers are on their phones &lpar;Jack Dunn/Variety&rpar;](http://www.techmeme.com/260119/p8#a260119p8)
  - [Sources: after five Thinking Machines staff left, investors are rattled, potentially impacting fundraising; two researchers quit via Slack during an all-hands &lpar;The Information&rpar;](http://www.techmeme.com/260119/p7#a260119p7)
  - [The Search for Alien Artifacts Is Coming Into Focus](https://www.wired.com/story/the-search-for-alien-artifacts-is-coming-into-focus/)
- - [Chinese smartphone shipments fell 1.6% YoY in Q4 2025 and 0.6% YoY for 2025 due to weak demand, rising prices, and memory shortages; iPhone shipments rose 28% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260119/p6#a260119p6)
- - [The Best Streaming Bundles and Streaming Deals of January 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)<!-- TECH:END -->
+ - [Chinese smartphone shipments fell 1.6% YoY in Q4 2025 and 0.6% YoY for 2025 due to weak demand, rising prices, and memory shortages; iPhone shipments rose 28% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260119/p6#a260119p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

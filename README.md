@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Velcro, What a rip off...](http://9gag.com/gag/a6Zgo8e)
- - 😝 [China&#39;s ceramic artists](http://9gag.com/gag/agm9XY6)
- - 💣 [Holz](http://9gag.com/gag/aVvr3mw)
- - 😝 [The Observer Effect in Real Life](http://9gag.com/gag/aGyvjd0)
- - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
+ - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
+ - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
+ - 💣 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 😝 [Golden era](http://9gag.com/gag/amoQ7jj)
+ - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
 
 ---
 

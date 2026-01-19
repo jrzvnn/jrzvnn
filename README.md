@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads overtakes X on mobile, but still lags far behind](https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users)
  - [Q&amp;A with FedEx CEO Raj Subramaniam, only the second CEO in the company&#39;s history, on humanoid robots, automation, AI, drones, US-China trade tensions, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/260119/p9#a260119p9)
  - [How to Clean Your Keurig &lpar;and When&rpar;](https://www.wired.com/story/how-to-clean-keurig/)
  - [Dumbphone Owners Have Lost Their Minds](https://www.wired.com/story/dumbphone-owners-have-literally-lost-their-minds/)
- - [On Joe Rogan&#39;s JRE, Matt Damon and Ben Affleck discuss Hollywood and AI; Damon says Netflix wants movies to restate the plot because viewers are on their phones &lpar;Jack Dunn/Variety&rpar;](http://www.techmeme.com/260119/p8#a260119p8)
- - [Sources: after five Thinking Machines staff left, investors are rattled, potentially impacting fundraising; two researchers quit via Slack during an all-hands &lpar;The Information&rpar;](http://www.techmeme.com/260119/p7#a260119p7)<!-- TECH:END -->
+ - [On Joe Rogan&#39;s JRE, Matt Damon and Ben Affleck discuss Hollywood and AI; Damon says Netflix wants movies to restate the plot because viewers are on their phones &lpar;Jack Dunn/Variety&rpar;](http://www.techmeme.com/260119/p8#a260119p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

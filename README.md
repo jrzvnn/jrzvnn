@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use an iPhone to take pictures of the Aurora Borealis](https://appleinsider.com/inside/ios-26/tips/how-to-use-an-iphone-to-take-pictures-of-the-aurora-borealis?utm_source=rss)
  - [OpenAI’s 2026 ‘focus’ is ‘practical adoption’](https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar)
  - [How much can a city take?](https://www.theverge.com/policy/864195/minneapolis-ice-invasion-organizing-immigration)
  - [Anthropic&#39;s Claude Cowork launch has revived fears about disruption that weighed on SaaS stocks in 2025; Morgan Stanley SaaS index is down 15% so far in 2026 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260119/p22#a260119p22)
- - [Aqara U400, Ikea Matter lineup, &amp; Govee Nugget Ice Maker Pro reviews on HomeKit Insider](https://appleinsider.com/articles/26/01/19/aqara-u400-ikea-matter-lineup-govee-nugget-ice-maker-pro-reviews-on-homekit-insider?utm_source=rss)
- - [A second US Sphere could come to Maryland](https://www.theverge.com/tech/864192/sphere-entertainment-mini-venue-maryland-national-harbor)<!-- TECH:END -->
+ - [Aqara U400, Ikea Matter lineup, &amp; Govee Nugget Ice Maker Pro reviews on HomeKit Insider](https://appleinsider.com/articles/26/01/19/aqara-u400-ikea-matter-lineup-govee-nugget-ice-maker-pro-reviews-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

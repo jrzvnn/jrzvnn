@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 😝 [Legit](http://9gag.com/gag/aZZXmgz)
- - 💣 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)
- - 😝 [Me trying to get my friends to hang out on a cold winter night](http://9gag.com/gag/amoQ2Zj)
- - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
+ - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
+ - 😝 [I was there, it is true](http://9gag.com/gag/ae9zbgj)
+ - 💣 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 😝 [Unearthing ancient beauty, one smooth split at a time. What a find](http://9gag.com/gag/aVvrMr8)
+ - 👉 [Me trying to get my friends to hang out on a cold winter night](http://9gag.com/gag/amoQ2Zj)<!-- MEMES:END -->
 
 ---
 

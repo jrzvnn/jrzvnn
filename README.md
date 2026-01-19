@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
  - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
  - 💣 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - 😝 [That&#39;s how Orange man is fooling the World.](http://9gag.com/gag/abADMXr)
+ - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
  - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
 
 ---

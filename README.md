@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
- - 💣 [Widening your audience while shrinking your fan base.](http://9gag.com/gag/a9ywAqZ)
- - 😝 [I was there, it is true](http://9gag.com/gag/ae9zbgj)
- - 👉 [Logic check](http://9gag.com/gag/amoQ2v2)<!-- MEMES:END -->
+ - 😝 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
+ - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
+ - 💣 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)
+ - 😝 [Makes sense\u2026](http://9gag.com/gag/avyq7vM)
+ - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
 
 ---
 

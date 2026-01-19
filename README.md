@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
  - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
- - 💣 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 😝 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
+ - 💣 [Extra Protein](http://9gag.com/gag/aGyveEG)
  - 😝 [Golden era](http://9gag.com/gag/amoQ7jj)
- - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
+ - 👉 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)<!-- MEMES:END -->
 
 ---
 

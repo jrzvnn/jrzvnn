@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 💣 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
+ - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
+ - 😝 [I was there, it is true](http://9gag.com/gag/ae9zbgj)
+ - 💣 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 😝 [Unearthing ancient beauty, one smooth split at a time. What a find](http://9gag.com/gag/aVvrMr8)
+ - 👉 [Since you guys liked the first part, here to part 2](http://9gag.com/gag/aMV7AKW)<!-- MEMES:END -->
 
 ---
 

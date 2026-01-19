@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Animal Crossing: New Horizons added just enough to suck me back in](https://www.theverge.com/games/863747/animal-crossing-new-horizons-update-3-0-switch-2-quality-of-life)
+ - [NYSE plans to use its tech that matches buyers and sellers, alongside blockchain networks, to facilitate real-time trading of tokenized securities in 2026 &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/260119/p15#a260119p15)
  - [a16z&#39;s Matt Bornstein and others talk adding $1.7B to its $1.25B AI infrastructure fund, focusing on early rounds; Ben Horowitz calls it &quot;one of the best funds&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p14#a260119p14)
  - [When forecasting a MacBook Pro release date, use order delays &amp; software releases cautiously](https://appleinsider.com/articles/26/01/19/when-forecasting-a-macbook-pro-release-date-use-order-delays-software-releases-cautiously?utm_source=rss)
- - [Are DJI Drones Still Banned? &lpar;2026&rpar;](https://www.wired.com/story/whats-going-on-with-the-dji-drone-ban/)
- - [Sources: Microsoft is preparing to launch a session-based ad-supported Xbox Cloud Gaming tier in 2026; users note Xbox Cloud Gaming now references &quot;ad support&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/260119/p13#a260119p13)
- - [I Found 4 Items in My Kitchen That Could Be Leaking Microplastics Into My Food](https://www.cnet.com/health/found-kitchen-items-leaking-microplastics-my-food/)<!-- TECH:END -->
+ - [Are DJI Drones Still Banned? &lpar;2026&rpar;](https://www.wired.com/story/whats-going-on-with-the-dji-drone-ban/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

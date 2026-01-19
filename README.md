@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Elon Musk donates $10M to boost pro-Trump Senate candidate Nate Morris, seeking to replace Mitch McConnell, in Musk&#39;s largest-ever Senate donation &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/260119/p12#a260119p12)
- - [From charming to consumer corporation -- how Apple has branded itself over the years.](https://appleinsider.com/articles/26/01/16/from-charming-to-consumer-corporation----how-apple-has-branded-itself-over-the-years?utm_source=rss)
- - [The IMF says the &quot;surprisingly resilient&quot; global economy is at risk of a sharp AI boom reversal, but the &quot;levels of market frothiness&quot; are below the dotcom bust &lpar;Financial Times&rpar;](http://www.techmeme.com/260119/p11#a260119p11)
- - [Bitcoin fell 3.6% to under $92K, ether fell ~5%, and solana fell 8.6%, wiping ~$100B from crypto&#39;s total value, after Trump proposed new 10% European tariffs &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260119/p10#a260119p10)
- - [Threads overtakes X on mobile, but still lags far behind](https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users)<!-- TECH:END -->
+ - [a16z&#39;s Matt Bornstein and others talk adding $1.7B to its $1.25B AI infrastructure fund, focusing on early rounds; Ben Horowitz calls it &quot;one of the best funds&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p14#a260119p14)
+ - [When forecasting a MacBook Pro release date, use order delays &amp; software releases cautiously](https://appleinsider.com/articles/26/01/19/when-forecasting-a-macbook-pro-release-date-use-order-delays-software-releases-cautiously?utm_source=rss)
+ - [Are DJI Drones Still Banned? &lpar;2026&rpar;](https://www.wired.com/story/whats-going-on-with-the-dji-drone-ban/)
+ - [Sources: Microsoft is preparing to launch a session-based ad-supported Xbox Cloud Gaming tier in 2026; users note Xbox Cloud Gaming now references &quot;ad support&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/260119/p13#a260119p13)
+ - [I Found 4 Items in My Kitchen That Could Be Leaking Microplastics Into My Food](https://www.cnet.com/health/found-kitchen-items-leaking-microplastics-my-food/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

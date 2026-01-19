@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK launches a consultation on whether to ban under-16s from using social media, alongside restrictions on addictive app features like infinite scrolling &lpar;Kiran Stacey/The Guardian&rpar;](http://www.techmeme.com/260119/p24#a260119p24)
  - [Q&amp;A with Razer CEO Min-Liang Tan on the use of AI in game development, the gaming community&#39;s pushback against AI, partnering with Grok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260119/p23#a260119p23)
  - [How to use an iPhone to take pictures of the Aurora Borealis](https://appleinsider.com/inside/ios-26/tips/how-to-use-an-iphone-to-take-pictures-of-the-aurora-borealis?utm_source=rss)
  - [OpenAI’s 2026 ‘focus’ is ‘practical adoption’](https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar)
- - [How much can a city take?](https://www.theverge.com/policy/864195/minneapolis-ice-invasion-organizing-immigration)
- - [Anthropic&#39;s Claude Cowork launch has revived fears about disruption that weighed on SaaS stocks in 2025; Morgan Stanley SaaS index is down 15% so far in 2026 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260119/p22#a260119p22)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 20, #1676](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-20-1676/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

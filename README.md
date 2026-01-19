@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Capturing the Moment a White Dwarf Exploded](https://www.wired.com/story/capturing-the-moment-a-white-dwarf-exploded/)
+ - [Because of Taylor Swift, I Tried an Acupressure Mat. Now I Can’t Live Without It](https://www.cnet.com/health/taylor-swift-i-tried-acupressure-mat/)
+ - [Sources: political appointees at the US CISA blocked Acting Director Madhu Gottumukkala&#39;s attempt to oust the agency&#39;s Chief Information Officer Robert Costello &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260119/p5#a260119p5)
  - [Chinese media: phone makers Xiaomi, Oppo, Vivo, and Transsion trimmed their 2026 shipment targets, with Oppo cutting up to 20%, due to the memory chip shortage &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/260119/p4#a260119p4)
- - [The memory shortage that is spiking RAM prices is now expanding to the broader PC market, driving price hikes for GPUs, high-capacity SSDs, and hard drives &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/260119/p3#a260119p3)
- - [The Race to Build the DeepSeek of Europe Is On](https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/)
- - [Shenzhen-based UBTech signs deals to supply its Walker S2 humanoid robots to Airbus and Texas Instruments, and says it aims to produce 10,000+ units in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p2#a260119p2)
- - [Meta&#39;s VR layoffs may help the industry long term, as most affected roles focused on first-party content and games that competed with the broader ecosystem &lpar;Palmer Luckey/@palmerluckey&rpar;](http://www.techmeme.com/260119/p1#a260119p1)<!-- TECH:END -->
+ - [The memory shortage that is spiking RAM prices is now expanding to the broader PC market, driving price hikes for GPUs, high-capacity SSDs, and hard drives &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/260119/p3#a260119p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

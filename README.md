@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [OpenAI’s 2026 ‘focus’ is ‘practical adoption’](https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar)
  - [How much can a city take?](https://www.theverge.com/policy/864195/minneapolis-ice-invasion-organizing-immigration)
  - [Anthropic&#39;s Claude Cowork launch has revived fears about disruption that weighed on SaaS stocks in 2025; Morgan Stanley SaaS index is down 15% so far in 2026 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260119/p22#a260119p22)
- - [Aqara U400, Ikea Matter lineup, &amp; Govee Nugget Ice Maker Pro reviews on HomeKit Insider](https://appleinsider.com/articles/26/01/19/aqara-u400-ikea-matter-lineup-govee-nugget-ice-maker-pro-reviews-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [NASA&#39;s Curiosity Rover Sent a Postcard From Mars With This Beautiful Photo of the Red Planet](https://www.cnet.com/science/space/a-postcard-from-mars-nasas-curiosity-rover-sends-beautiful-mount-sharp-panorama/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

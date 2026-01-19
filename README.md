@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads overtakes X on mobile, but still lags far behind](https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users)
- - [Q&amp;A with FedEx CEO Raj Subramaniam, only the second CEO in the company&#39;s history, on humanoid robots, automation, AI, drones, US-China trade tensions, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/260119/p9#a260119p9)
- - [How to Clean Your Keurig &lpar;and When&rpar;](https://www.wired.com/story/how-to-clean-keurig/)
- - [Dumbphone Owners Have Lost Their Minds](https://www.wired.com/story/dumbphone-owners-have-literally-lost-their-minds/)
- - [On Joe Rogan&#39;s JRE, Matt Damon and Ben Affleck discuss Hollywood and AI; Damon says Netflix wants movies to restate the plot because viewers are on their phones &lpar;Jack Dunn/Variety&rpar;](http://www.techmeme.com/260119/p8#a260119p8)<!-- TECH:END -->
+ - [Source: Elon Musk donates $10M to boost pro-Trump Senate candidate Nate Morris, seeking to replace Mitch McConnell, in Musk&#39;s largest-ever Senate donation &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/260119/p12#a260119p12)
+ - [From charming to consumer corporation -- how Apple has branded itself over the years.](https://appleinsider.com/articles/26/01/16/from-charming-to-consumer-corporation----how-apple-has-branded-itself-over-the-years?utm_source=rss)
+ - [The IMF says the &quot;surprisingly resilient&quot; global economy is at risk of a sharp AI boom reversal, but the &quot;levels of market frothiness&quot; are below the dotcom bust &lpar;Financial Times&rpar;](http://www.techmeme.com/260119/p11#a260119p11)
+ - [Bitcoin fell 3.6% to under $92K, ether fell ~5%, and solana fell 8.6%, wiping ~$100B from crypto&#39;s total value, after Trump proposed new 10% European tariffs &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260119/p10#a260119p10)
+ - [Threads overtakes X on mobile, but still lags far behind](https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

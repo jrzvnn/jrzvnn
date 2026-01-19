@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Seoul-based AI chip designer FuriosaAI seeks to raise a $300M-$500M Series D to fund mass production of its 2nd-gen RNGD chip and is eyeing a 2027 IPO &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260119/p20#a260119p20)
+ - [After years of rumors, Face ID without Dynamic Island may come to iPhone 18](https://appleinsider.com/articles/26/01/19/after-years-of-rumors-face-id-without-dynamic-island-may-come-to-iphone-18?utm_source=rss)
  - [Bungie’s Marathon shooter launches on March 5th](https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price)
  - [The UK Gambling Commission says Meta is letting illegal gambling sites advertise on Facebook and Instagram, calling its ad library a &quot;window into criminality&quot; &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/260119/p19#a260119p19)
- - [OpenAI executive Chris Lehane says the startup is &quot;on track&quot; to unveil its first device in H2 2026; reports suggest it won&#39;t have a screen and may be a wearable &lpar;Axios&rpar;](http://www.techmeme.com/260119/p18#a260119p18)
- - [Gamers love AI in game dev — they just don&amp;#8217;t know it yet, says Razer&amp;#8217;s CEO](https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview)
- - [This 5-foot lamp is a supersized tribute to the world’s most iconic pen](https://www.theverge.com/tech/864127/seletti-bic-ballpoint-pen-pendant-lamp-maison-objet)<!-- TECH:END -->
+ - [Will My Orange iPhone 17 Turn Pink? I Threw Chemicals at It to Find Out](https://www.cnet.com/tech/mobile/can-chemicals-turn-my-orange-iphone-17-pink-heres-what-i-found-out/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

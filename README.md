@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 😝 [Hmmmm !!](http://9gag.com/gag/avyqG35)
- - 💣 [Water is the source of life.](http://9gag.com/gag/aPALjdn)
+ - 😝 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
  - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 💣 [Any thoughts?](http://9gag.com/gag/aNDM1Bw)
+ - 😝 [Hmmmm !!](http://9gag.com/gag/avyqG35)
  - 👉 [That went over the head. Periodic.](http://9gag.com/gag/a9ywryK)<!-- MEMES:END -->
 
 ---

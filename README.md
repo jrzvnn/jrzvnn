@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: internal Google data shows Gemini API calls surged from 35B in March 2025 to 85B in August 2025; Google says Gemini Enterprise hit 8M subscribers &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/260119/p16#a260119p16)
+ - [Asus may have made its last phone](https://www.theverge.com/news/864116/asus-may-have-made-its-last-phone)
  - [Animal Crossing: New Horizons added just enough to suck me back in](https://www.theverge.com/games/863747/animal-crossing-new-horizons-update-3-0-switch-2-quality-of-life)
  - [NYSE plans to use its tech that matches buyers and sellers, alongside blockchain networks, to facilitate real-time trading of tokenized securities in 2026 &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/260119/p15#a260119p15)
- - [a16z&#39;s Matt Bornstein and others talk adding $1.7B to its $1.25B AI infrastructure fund, focusing on early rounds; Ben Horowitz calls it &quot;one of the best funds&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p14#a260119p14)
- - [When forecasting a MacBook Pro release date, use order delays &amp; software releases cautiously](https://appleinsider.com/articles/26/01/19/when-forecasting-a-macbook-pro-release-date-use-order-delays-software-releases-cautiously?utm_source=rss)
- - [Are DJI Drones Still Banned? &lpar;2026&rpar;](https://www.wired.com/story/whats-going-on-with-the-dji-drone-ban/)<!-- TECH:END -->
+ - [a16z&#39;s Matt Bornstein and others talk adding $1.7B to its $1.25B AI infrastructure fund, focusing on early rounds; Ben Horowitz calls it &quot;one of the best funds&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p14#a260119p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

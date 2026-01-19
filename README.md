@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
  - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
- - 💣 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
- - 👉 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)<!-- MEMES:END -->
+ - 😝 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 💣 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
+ - 😝 [The Canadian Premier League final in Ottawa was played in -8\u00b0C weather, with snow repeatedly interrupting the match and requiring the lines to be cleared every 15 minutes. A truly crazy game.](http://9gag.com/gag/a9ywp9D)
+ - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
 
 ---
 

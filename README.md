@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
  - 😝 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - 😝 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)
- - 💣 [Things we do for money](http://9gag.com/gag/avyqrq5)
+ - 💣 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)
  - 😝 [No title](http://9gag.com/gag/abADzrO)
- - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
+ - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
 
 ---
 

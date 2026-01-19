@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The UK government will take a £25M stake in Octopus Energy&#39;s tech spin-off Kraken, last valued at $8.65B, in an effort to encourage Kraken to list in London &lpar;Financial Times&rpar;](http://www.techmeme.com/260119/p21#a260119p21)
  - [Refresh your Mac desktop with monitor deals of up to $300 off](https://appleinsider.com/articles/26/01/19/refresh-your-mac-desktop-with-monitor-deals-of-up-to-300-off?utm_source=rss)
+ - [Apple Creator Studio Package Is Becoming a $13 Monthly Subscription](https://www.cnet.com/tech/services-and-software/apple-creator-studio-subscription-launch/)
  - [Sources: Seoul-based AI chip designer FuriosaAI seeks to raise a $300M-$500M Series D to fund mass production of its 2nd-gen RNGD chip and is eyeing a 2027 IPO &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260119/p20#a260119p20)
- - [After years of rumors, Face ID without Dynamic Island may come to iPhone 18](https://appleinsider.com/articles/26/01/19/after-years-of-rumors-face-id-without-dynamic-island-may-come-to-iphone-18?utm_source=rss)
- - [Bungie’s Marathon shooter launches on March 5th](https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price)<!-- TECH:END -->
+ - [After years of rumors, Face ID without Dynamic Island may come to iPhone 18](https://appleinsider.com/articles/26/01/19/after-years-of-rumors-face-id-without-dynamic-island-may-come-to-iphone-18?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

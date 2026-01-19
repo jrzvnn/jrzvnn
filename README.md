@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic&#39;s Claude Cowork launch has revived fears about disruption that weighed on SaaS stocks in 2025; Morgan Stanley SaaS index is down 15% so far in 2026 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260119/p22#a260119p22)
  - [Aqara U400, Ikea Matter lineup, &amp; Govee Nugget Ice Maker Pro reviews on HomeKit Insider](https://appleinsider.com/articles/26/01/19/aqara-u400-ikea-matter-lineup-govee-nugget-ice-maker-pro-reviews-on-homekit-insider?utm_source=rss)
  - [A second US Sphere could come to Maryland](https://www.theverge.com/tech/864192/sphere-entertainment-mini-venue-maryland-national-harbor)
- - [The UK government will take a £25M stake in Octopus Energy&#39;s tech spin-off Kraken, last valued at $8.65B, in an effort to encourage Kraken to list in London &lpar;Financial Times&rpar;](http://www.techmeme.com/260119/p21#a260119p21)
- - [Refresh your Mac desktop with monitor deals of up to $300 off](https://appleinsider.com/articles/26/01/19/refresh-your-mac-desktop-with-monitor-deals-of-up-to-300-off?utm_source=rss)
- - [Apple Creator Studio Package Is Becoming a $13 Monthly Subscription](https://www.cnet.com/tech/services-and-software/apple-creator-studio-subscription-launch/)<!-- TECH:END -->
+ - [The Biggest Aurora of 2026 &lpar;So Far&rpar; Is Coming Tonight: Here&#39;s How and Where to See It](https://www.cnet.com/science/space/biggest-aurora-of-2026-so-far-coming-tonight-how-and-where-to-see-it/)
+ - [The UK government will take a £25M stake in Octopus Energy&#39;s tech spin-off Kraken, last valued at $8.65B, in an effort to encourage Kraken to list in London &lpar;Financial Times&rpar;](http://www.techmeme.com/260119/p21#a260119p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

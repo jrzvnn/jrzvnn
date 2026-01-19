@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
- - 😝 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
- - 💣 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [Golden era](http://9gag.com/gag/amoQ7jj)
- - 👉 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)<!-- MEMES:END -->
+ - 😝 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 💣 [That went over the head. Periodic.](http://9gag.com/gag/a9ywryK)
+ - 😝 [Ja pierdole Keep up the good work Poland](http://9gag.com/gag/aMV7ZwA)
+ - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
 
 ---
 

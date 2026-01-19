@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Meta&#39;s VR layoffs may help the industry long term, as most affected roles focused on first-party content and games that competed with the broader ecosystem &lpar;Palmer Luckey/@palmerluckey&rpar;](http://www.techmeme.com/260119/p1#a260119p1)
  - [A look at the business and geopolitical considerations behind TSMC&#39;s international expansion, as Taiwan commits to spend $250B+ in the US in a trade deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260118/p16#a260118p16)
- - [OpenAI CFO Sarah Friar says the company&#39;s compute grew from 0.2 GW in 2023 to ~1.9 GW in 2025 and annualized revenue grew from $2B in 2023 to $20B+ in 2025 &lpar;Sarah Friar/OpenAI&rpar;](http://www.techmeme.com/260118/p15#a260118p15)
- - [Similarweb: Claude&#39;s web audience more than doubled in December 2025 compared with December 2024, as many coders spent their holiday breaks on a &quot;Claude bender&quot; &lpar;Bradley Olson/Wall Street Journal&rpar;](http://www.techmeme.com/260118/p14#a260118p14)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 19, #1675](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-19-1675/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 19, #483](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-19-483/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-19/)
+ - [OpenAI CFO Sarah Friar says the company&#39;s compute grew from 0.2 GW in 2023 to ~1.9 GW in 2025 and annualized revenue grew from $2B in 2023 to $20B+ in 2025 &lpar;Sarah Friar/OpenAI&rpar;](http://www.techmeme.com/260118/p15#a260118p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

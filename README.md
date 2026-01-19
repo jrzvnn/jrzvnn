@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
  - 😝 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - 💣 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
- - 😝 [No title](http://9gag.com/gag/abADzrO)
- - 👉 [That went over the head. Periodic.](http://9gag.com/gag/a9ywryK)<!-- MEMES:END -->
+ - 💣 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shenzhen-based UBTech signed deals to supply its Walker S2 humanoid robots to Airbus and Texas Instruments, and says it aims to produce 10,000+ units in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p2#a260119p2)
  - [Meta&#39;s VR layoffs may help the industry long term, as most affected roles focused on first-party content and games that competed with the broader ecosystem &lpar;Palmer Luckey/@palmerluckey&rpar;](http://www.techmeme.com/260119/p1#a260119p1)
  - [A look at the business and geopolitical considerations behind TSMC&#39;s international expansion, as Taiwan commits to spend $250B+ in the US in a trade deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260118/p16#a260118p16)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 19, #483](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-19-483/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-19/)
- - [OpenAI CFO Sarah Friar says the company&#39;s compute grew from 0.2 GW in 2023 to ~1.9 GW in 2025 and annualized revenue grew from $2B in 2023 to $20B+ in 2025 &lpar;Sarah Friar/OpenAI&rpar;](http://www.techmeme.com/260118/p15#a260118p15)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-19/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

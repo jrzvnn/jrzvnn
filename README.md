@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dumbphone Owners Have Lost Their Minds](https://www.wired.com/story/dumbphone-owners-have-literally-lost-their-minds/)
+ - [Sources: after five Thinking Machines staff left, investors are rattled, potentially impacting fundraising; two researchers quit via Slack during an all-hands &lpar;The Information&rpar;](http://www.techmeme.com/260119/p7#a260119p7)
+ - [The Search for Alien Artifacts Is Coming Into Focus](https://www.wired.com/story/the-search-for-alien-artifacts-is-coming-into-focus/)
  - [Chinese smartphone shipments fell 1.6% YoY in Q4 2025 and 0.6% YoY for 2025 due to weak demand, rising prices, and memory shortages; iPhone shipments rose 28% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260119/p6#a260119p6)
- - [The Best Streaming Bundles and Streaming Deals of January 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)
- - [Capturing the Moment a White Dwarf Exploded](https://www.wired.com/story/capturing-the-moment-a-white-dwarf-exploded/)
- - [Because of Taylor Swift, I Tried an Acupressure Mat. Now I Can’t Live Without It](https://www.cnet.com/health/taylor-swift-i-tried-acupressure-mat/)
- - [Sources: political appointees at the US CISA blocked Acting Director Madhu Gottumukkala&#39;s attempt to oust the agency&#39;s Chief Information Officer Robert Costello &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260119/p5#a260119p5)<!-- TECH:END -->
+ - [The Best Streaming Bundles and Streaming Deals of January 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

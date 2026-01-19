@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
  - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - 💣 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [No title](http://9gag.com/gag/abADzrO)
+ - 😝 [Hmmmm !!](http://9gag.com/gag/avyqG35)
+ - 💣 [No title](http://9gag.com/gag/abADzrO)
+ - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
  - 👉 [That went over the head. Periodic.](http://9gag.com/gag/a9ywryK)<!-- MEMES:END -->
 
 ---

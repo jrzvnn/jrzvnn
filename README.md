@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
  - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 💣 [Hmmmm !!](http://9gag.com/gag/avyqG35)
+ - 😝 [Hmmmm !!](http://9gag.com/gag/avyqG35)
+ - 💣 [Water is the source of life.](http://9gag.com/gag/aPALjdn)
  - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
  - 👉 [That went over the head. Periodic.](http://9gag.com/gag/a9ywryK)<!-- MEMES:END -->
 

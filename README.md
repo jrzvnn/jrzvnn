@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese smartphone shipments fell 1.6% YoY in Q4 2025 and 0.6% YoY for 2025 due to weak demand, rising prices, and memory shortages; iPhone shipments rose 28% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260119/p6#a260119p6)
+ - [The Best Streaming Bundles and Streaming Deals of January 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)
  - [Capturing the Moment a White Dwarf Exploded](https://www.wired.com/story/capturing-the-moment-a-white-dwarf-exploded/)
  - [Because of Taylor Swift, I Tried an Acupressure Mat. Now I Can’t Live Without It](https://www.cnet.com/health/taylor-swift-i-tried-acupressure-mat/)
- - [Sources: political appointees at the US CISA blocked Acting Director Madhu Gottumukkala&#39;s attempt to oust the agency&#39;s Chief Information Officer Robert Costello &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260119/p5#a260119p5)
- - [Chinese media: phone makers Xiaomi, Oppo, Vivo, and Transsion trimmed their 2026 shipment targets, with Oppo cutting up to 20%, due to the memory chip shortage &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/260119/p4#a260119p4)
- - [The memory shortage that is spiking RAM prices is now expanding to the broader PC market, driving price hikes for GPUs, high-capacity SSDs, and hard drives &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/260119/p3#a260119p3)<!-- TECH:END -->
+ - [Sources: political appointees at the US CISA blocked Acting Director Madhu Gottumukkala&#39;s attempt to oust the agency&#39;s Chief Information Officer Robert Costello &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260119/p5#a260119p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

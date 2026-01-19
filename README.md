@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with FedEx CEO Raj Subramaniam, only the second CEO in the company&#39;s history, on humanoid robots, automation, AI, drones, US-China trade tensions, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/260119/p9#a260119p9)
+ - [How to Clean Your Keurig &lpar;and When&rpar;](https://www.wired.com/story/how-to-clean-keurig/)
  - [Dumbphone Owners Have Lost Their Minds](https://www.wired.com/story/dumbphone-owners-have-literally-lost-their-minds/)
  - [On Joe Rogan&#39;s JRE, Matt Damon and Ben Affleck discuss Hollywood and AI; Damon says Netflix wants movies to restate the plot because viewers are on their phones &lpar;Jack Dunn/Variety&rpar;](http://www.techmeme.com/260119/p8#a260119p8)
- - [Sources: after five Thinking Machines staff left, investors are rattled, potentially impacting fundraising; two researchers quit via Slack during an all-hands &lpar;The Information&rpar;](http://www.techmeme.com/260119/p7#a260119p7)
- - [The Search for Alien Artifacts Is Coming Into Focus](https://www.wired.com/story/the-search-for-alien-artifacts-is-coming-into-focus/)
- - [Chinese smartphone shipments fell 1.6% YoY in Q4 2025 and 0.6% YoY for 2025 due to weak demand, rising prices, and memory shortages; iPhone shipments rose 28% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260119/p6#a260119p6)<!-- TECH:END -->
+ - [Sources: after five Thinking Machines staff left, investors are rattled, potentially impacting fundraising; two researchers quit via Slack during an all-hands &lpar;The Information&rpar;](http://www.techmeme.com/260119/p7#a260119p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

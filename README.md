@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - 💣 [Current Work Culture](http://9gag.com/gag/a0eg5wO)
- - 😝 [No title](http://9gag.com/gag/abADzrO)
+ - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 💣 [No title](http://9gag.com/gag/abADzrO)
+ - 😝 [That went over the head. Periodic.](http://9gag.com/gag/a9ywryK)
  - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
 
 ---

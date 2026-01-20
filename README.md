@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nova Launcher’s new owner might offer a version with ads](https://www.theverge.com/news/864585/nova-launcher-instabridge-acquisition-owner-ads)
+ - [The US FTC plans to appeal to revive its case accusing Meta of bolstering an illegal monopoly by acquiring Instagram and WhatsApp; Meta won the case in 2025 &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/260120/p35#a260120p35)
+ - [Apple&#39;s Magic Keyboards for iPad Air and iPad Pro get firmware updates](https://appleinsider.com/articles/26/01/20/apples-magic-keyboards-for-ipad-air-and-ipad-pro-get-firmware-updates?utm_source=rss)
  - [7 Best All-Clad Deals From the Factory Seconds Sale &lpar;2026&rpar;](https://www.wired.com/story/all-clad-factory-seconds-sale-january-2026/)
- - [OpenAI rolls out age prediction on ChatGPT globally to identify users under 18 and apply automatic content protections as it prepares to introduce adult content &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260120/p34#a260120p34)
- - [Filings from Elon Musk&#39;s OpenAI lawsuit detail Microsoft&#39;s decade-long OpenAI relationship, like establishing a new subsidiary for Sam Altman while he was fired &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260120/p33#a260120p33)
- - [The 40 Best Shows on Apple TV, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [‘Veronika’ Is the First Cow Known to Use a Tool](https://www.wired.com/story/veronika-is-the-first-cow-known-to-use-a-tool/)<!-- TECH:END -->
+ - [OpenAI rolls out age prediction on ChatGPT globally to identify users under 18 and apply automatic content protections as it prepares to introduce adult content &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260120/p34#a260120p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

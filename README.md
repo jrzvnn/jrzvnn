@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PE firm Everstone combines India&#39;s Wingify, which helps A/B test sites, and France&#39;s AB Tasty, which improves e-commerce UX; Everstone bought Wingify for $200M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260120/p6#a260120p6)
- - [Microsoft’s free Xbox Cloud Gaming is coming soon with ads](https://www.theverge.com/news/864261/xbox-cloud-gaming-free-ads-testing)
- - [French accounting software startup Pennylane raised $204M led by TCV, a source says at a ~$4.25B valuation, with participation from Blackstone, DST, and others &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260120/p5#a260120p5)
- - [Sony&amp;#8217;s TV business is being taken over by TCL](https://www.theverge.com/news/864263/sony-tcl-tv-business-partnership-takeover-announcement)
- - [Realme promises days of battery from its 10,001mAh phone](https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone)<!-- TECH:END -->
+ - [Sources: UK and Chinese security officials set up a forum to discuss cyberattacks after hacking accusations, the first of its kind, to help prevent escalation &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/260120/p9#a260120p9)
+ - [Spotify is testing a feature that syncs audiobooks with paper editions](https://www.theverge.com/news/864296/spotify-page-match-audiobook-testing-feature)
+ - [Sony and TCL sign a non-binding agreement to spin off Sony&#39;s TV and home audio hardware business into a new joint venture, aiming to finalize the deal by March &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260120/p8#a260120p8)
+ - [Sources: China broadens its probe into Temu owner PDD, dispatching 100+ investigators to its Shanghai HQ, after staff exchanged physical blows with regulators &lpar;John Liu/Bloomberg&rpar;](http://www.techmeme.com/260120/p7#a260120p7)
+ - [China’s Renewable Energy Revolution Is a Huge Mess That Might Save the World](https://www.wired.com/story/china-renewable-energy-revolution/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

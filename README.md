@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
- - 💣 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 😝 [That look you get after the `anonymous` employee survey](http://9gag.com/gag/a4PgQn6)
- - 👉 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)<!-- MEMES:END -->
+ - 😝 [The Observer Effect in Real Life](http://9gag.com/gag/aGyvjd0)
+ - 😝 [Velcro, What a rip off...](http://9gag.com/gag/a6Zgo8e)
+ - 💣 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
+ - 😝 [Scrolling through the yellow pages for dinner options](http://9gag.com/gag/aqyMKXv)
+ - 👉 [One of these days](http://9gag.com/gag/aVvrY3v)<!-- MEMES:END -->
 
 ---
 

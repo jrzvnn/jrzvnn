@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French accounting software startup Pennylane raised $204M led by TCV, a source says at a ~$4.25B valuation, with participation from Blackstone, DST, and others &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260120/p5#a260120p5)
+ - [Sony&amp;#8217;s TV business is being taken over by TCL](https://www.theverge.com/news/864263/sony-tcl-tv-business-partnership-takeover-announcement)
  - [Realme promises days of battery from its 10,001mAh phone](https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone)
  - [A look at South Korea&#39;s Independent AI Foundation Model competition, which aims to find the best homegrown AI models, in a bid to compete with the US and China &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260120/p4#a260120p4)
- - [Roland’s Go:Mixer Studio turns your phone into a mobile music studio](https://www.theverge.com/entertainment/864095/roland-gomixer-studio-namm)
- - [Sources: ByteDance boosts its cloud via more sales hires and lower prices; IDC: ByteDance had 13% of China&#39;s AI cloud market in H1 2025, behind Alibaba&#39;s 23% &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260120/p3#a260120p3)
- - [Pune-based supply chain robotics startup Unbox Robotics raised a $28M Series B in a mix of primary and secondary capital, after raising $15M in earlier rounds &lpar;Anjali Jain/Inc42 Media&rpar;](http://www.techmeme.com/260120/p2#a260120p2)<!-- TECH:END -->
+ - [Roland’s Go:Mixer Studio turns your phone into a mobile music studio](https://www.theverge.com/entertainment/864095/roland-gomixer-studio-namm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

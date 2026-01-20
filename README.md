@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PE firm Everstone combines India&#39;s Wingify, which helps A/B test sites, and France&#39;s AB Tasty, which improves e-commerce UX; Everstone bought Wingify for $200M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260120/p6#a260120p6)
+ - [Microsoft’s free Xbox Cloud Gaming is coming soon with ads](https://www.theverge.com/news/864261/xbox-cloud-gaming-free-ads-testing)
  - [French accounting software startup Pennylane raised $204M led by TCV, a source says at a ~$4.25B valuation, with participation from Blackstone, DST, and others &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260120/p5#a260120p5)
  - [Sony&amp;#8217;s TV business is being taken over by TCL](https://www.theverge.com/news/864263/sony-tcl-tv-business-partnership-takeover-announcement)
- - [Realme promises days of battery from its 10,001mAh phone](https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone)
- - [A look at South Korea&#39;s Independent AI Foundation Model competition, which aims to find the best homegrown AI models, in a bid to compete with the US and China &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260120/p4#a260120p4)
- - [Roland’s Go:Mixer Studio turns your phone into a mobile music studio](https://www.theverge.com/entertainment/864095/roland-gomixer-studio-namm)<!-- TECH:END -->
+ - [Realme promises days of battery from its 10,001mAh phone](https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

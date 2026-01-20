@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix will revamp its mobile UI this year](https://www.theverge.com/news/864646/netflix-mobile-ui-revamp-design-vertical-video)
+ - [Demis Hassabis says there aren&#39;t &quot;any plans&quot; to put ads in Gemini and, in response to OpenAI testing ads, says &quot;maybe they feel they need to make more revenue&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260120/p42#a260120p42)
+ - [Super Savings on This Unique Air Fryer That Cooks Food in Heat-Proof Glass](https://www.wired.com/story/ninja-crispi-deal-126/)
  - [A Massachusetts judge grants a preliminary injunction blocking Kalshi from letting state residents bet on sports through its online platform &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/260120/p41#a260120p41)
- - [FTC says it will appeal Meta antitrust loss](https://www.theverge.com/news/864622/ftc-meta-antitrust-ruling-appeal)
- - [Snap reaches an agreement to settle a social media addiction lawsuit, a week before the start of a trial in the first of several such lawsuits &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260120/p40#a260120p40)
- - [iPhone 17 China demand may not be boosted much by iPhone Air](https://appleinsider.com/articles/26/01/20/iphone-17-china-demand-may-not-be-boosted-much-by-iphone-air?utm_source=rss)
- - [Elon Musk and Sam Altman clashed on X after Musk shared a post about a man who committed a murder-suicide following delusional conversations with ChatGPT &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/260120/p39#a260120p39)<!-- TECH:END -->
+ - [FTC says it will appeal Meta antitrust loss](https://www.theverge.com/news/864622/ftc-meta-antitrust-ruling-appeal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

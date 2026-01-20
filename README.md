@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings from Elon Musk&#39;s OpenAI lawsuit detail Microsoft&#39;s decade-long relationship with OpenAI, including plans for a new subsidiary during Sam Altman&#39;s firing &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260120/p33#a260120p33)
+ - [7 Best All-Clad Deals From the Factory Seconds Sale &lpar;2026&rpar;](https://www.wired.com/story/all-clad-factory-seconds-sale-january-2026/)
+ - [OpenAI rolls out age prediction on ChatGPT globally to identify users under 18 and apply automatic content protections as it prepares to introduce adult content &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260120/p34#a260120p34)
+ - [Filings from Elon Musk&#39;s OpenAI lawsuit detail Microsoft&#39;s decade-long OpenAI relationship, like establishing a new subsidiary for Sam Altman while he was fired &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260120/p33#a260120p33)
  - [The 40 Best Shows on Apple TV, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [‘Veronika’ Is the First Cow Known to Use a Tool](https://www.wired.com/story/veronika-is-the-first-cow-known-to-use-a-tool/)
- - [Google has finally killed the Stadia Bluetooth tool — but this person rescued it](https://www.theverge.com/tech/864543/google-has-finally-killed-the-stadia-bluetooth-tool-but-this-person-rescued-it)
- - [Greg Yang, one of the co-founders of xAI, is stepping down from the company after being diagnosed with Lyme disease &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/260120/p32#a260120p32)<!-- TECH:END -->
+ - [‘Veronika’ Is the First Cow Known to Use a Tool](https://www.wired.com/story/veronika-is-the-first-cow-known-to-use-a-tool/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

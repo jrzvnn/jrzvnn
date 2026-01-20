@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK Treasury committee says the government and Bank of England&#39;s &quot;wait-and-see approach&quot; to AI risks in the financial sector poses &quot;serious harm&quot; to the UK &lpar;Kalyeena Makortoff/The Guardian&rpar;](http://www.techmeme.com/260119/p26#a260119p26)
+ - [8Bitdo Retro C64 Mechanical Keyboard review: Nostalgia and features combined](https://appleinsider.com/articles/26/01/20/8bitdo-retro-c64-mechanical-keyboard-review-nostalgia-and-features-combined?utm_source=rss)
+ - [Cursor&#39;s recent experiment involved running hundreds of AI agents for nearly a week to build a web browser, writing 1M+ lines of code across 1,000 files &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260119/p25#a260119p25)
  - [The UK launches a consultation on whether to ban under-16s from using social media, alongside restrictions on addictive app features like infinite scrolling &lpar;Kiran Stacey/The Guardian&rpar;](http://www.techmeme.com/260119/p24#a260119p24)
- - [Best Vitamins and Supplements for Women in 2026](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-women/)
- - [Q&amp;A with Razer CEO Min-Liang Tan on the use of AI in game development, the gaming community&#39;s pushback against AI, partnering with Grok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260119/p23#a260119p23)
- - [How to use an iPhone to take pictures of the Aurora Borealis](https://appleinsider.com/inside/ios-26/tips/how-to-use-an-iphone-to-take-pictures-of-the-aurora-borealis?utm_source=rss)
- - [OpenAI’s 2026 ‘focus’ is ‘practical adoption’](https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar)<!-- TECH:END -->
+ - [Best Vitamins and Supplements for Women in 2026](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-women/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

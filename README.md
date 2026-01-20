@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $1,005 on Apple Studio Display, Pro Display XDR with coupon](https://appleinsider.com/articles/26/01/20/save-up-to-1005-on-apple-studio-display-pro-display-xdr-with-coupon?utm_source=rss)
+ - [The World Economic Forum in Davos is now dominated by tech giants, whose interests shunt aside topics like climate change, as Trump and AI take center stage &lpar;Peter S. Goodman/New York Times&rpar;](http://www.techmeme.com/260120/p26#a260120p26)
+ - [Netflix’s Star Search will let you vote to decide who wins](https://www.theverge.com/entertainment/864424/netflix-star-search-live-voting)
  - [Apple under legal attack over fall detection tech](https://appleinsider.com/articles/26/01/20/apple-under-legal-attack-over-fall-detection-tech?utm_source=rss)
- - [Setapp Mobile, one of the first alt iOS app stores launched in 2024 after the EU&#39;s DMA, plans to shut down, blaming &quot;still-evolving and complex business terms&quot; &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/260120/p25#a260120p25)
- - [Former Nintendo of America boss Doug Bowser is joining Hasbro](https://www.theverge.com/news/864412/nintendo-doug-bowser-joins-hasbro-build)
- - [Ethernovia, which builds automotive ethernet chips and software, raised a $90M+ Series B led by Maverick Silicon &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260120/p24#a260120p24)
- - [Substack challenger Beehiiv expects to nearly double its annual revenue to $50M in 2026; it now has over 40,000 MAUs, including nearly 15,000 paying subscribers &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260120/p23#a260120p23)<!-- TECH:END -->
+ - [Setapp Mobile, one of the first alt iOS app stores launched in 2024 after the EU&#39;s DMA, plans to shut down, blaming &quot;still-evolving and complex business terms&quot; &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/260120/p25#a260120p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Greg Peters says Netflix plans to bring new content types like video podcasts to its vertical video feed, and plans to roll out a new mobile UI later in 2026 &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/260120/p43#a260120p43)
+ - [Netflix earned $1.5 billion from ads in 2025](https://www.theverge.com/news/864451/netflix-advertising-revenue-doubled-q4-2025-earnings)
  - [Trump admin admits DOGE employees had access to off-limits Social Security data](https://www.theverge.com/news/864643/doge-social-security-data-misuse)
  - [Netflix will revamp its mobile UI this year](https://www.theverge.com/news/864646/netflix-mobile-ui-revamp-design-vertical-video)
- - [Demis Hassabis says there aren&#39;t &quot;any plans&quot; to put ads in Gemini and, in response to OpenAI testing ads, says &quot;maybe they feel they need to make more revenue&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260120/p42#a260120p42)
- - [Super Savings on This Unique Air Fryer That Cooks Food in Heat-Proof Glass](https://www.wired.com/story/ninja-crispi-deal-126/)
- - [A Massachusetts judge grants a preliminary injunction blocking Kalshi from letting state residents bet on sports through its online platform &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/260120/p41#a260120p41)<!-- TECH:END -->
+ - [Demis Hassabis says there aren&#39;t &quot;any plans&quot; to put ads in Gemini and, in response to OpenAI testing ads, says &quot;maybe they feel they need to make more revenue&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260120/p42#a260120p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

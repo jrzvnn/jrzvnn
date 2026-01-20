@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Demis Hassabis says Chinese AI companies are about six months behind leading western labs and the response to DeepSeek&#39;s R1 was a &quot;massive overreaction&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p27#a260120p27)
- - [Save up to $1,005 on Apple Studio Display, Pro Display XDR with coupon](https://appleinsider.com/articles/26/01/20/save-up-to-1005-on-apple-studio-display-pro-display-xdr-with-coupon?utm_source=rss)
- - [The World Economic Forum in Davos is now dominated by tech giants, whose interests shunt aside topics like climate change, as Trump and AI take center stage &lpar;Peter S. Goodman/New York Times&rpar;](http://www.techmeme.com/260120/p26#a260120p26)
- - [Netflix’s Star Search will let you vote to decide who wins](https://www.theverge.com/entertainment/864424/netflix-star-search-live-voting)<!-- TECH:END -->
+ - [Sources: AI inference startup Baseten raised $300M led by IVP and CapitalG at a $5B valuation, more than doubling its valuation; Nvidia invested $150M &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260120/p31#a260120p31)
+ - [Samsung’s discounted microSD Express card more than doubles your Switch 2 storage](https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale)
+ - [OpenAI and ServiceNow sign a three-year deal to integrate OpenAI&#39;s models into ServiceNow&#39;s business software, including embedding OpenAI&#39;s AI agents &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260120/p30#a260120p30)
+ - [Life is Strange will bring the Max and Chloe story to an end in new game](https://www.theverge.com/games/864438/life-is-strange-reunion-release-date-max-chloe)
+ - [At the WEF in Davos, Palantir CEO Alex Karp says that AI-driven job displacement will &quot;make it hard to imagine why we should have large-scale immigration&quot; &lpar;Shona Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260120/p29#a260120p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

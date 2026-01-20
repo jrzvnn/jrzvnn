@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reese Witherspoon and her daughter](http://9gag.com/gag/aByz07Q)
+ - 😝 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
  - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
  - 💣 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
  - 😝 [Greenland&#39;s been trolling the US.](http://9gag.com/gag/a87NGLQ)
- - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
+ - 👉 [My managers show me this clip to complain about his secretaries&#39; dressing. But I see nothing&#39;s wrong here, they are fully clothed, polite and beautiful](http://9gag.com/gag/aE0Kggx)<!-- MEMES:END -->
 
 ---
 

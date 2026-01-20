@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy is no longer the craziest leader 😂😂](https://www.reddit.com/r/funny/comments/1qi6yl3/this_guy_is_no_longer_the_craziest_leader/)
- - 😝 [Vietnam’s latest airport security upgrade](https://www.reddit.com/r/funny/comments/1qi6xk2/vietnams_latest_airport_security_upgrade/)
- - 💣 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
- - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
+ - 😝 [Ski trip without women, yes, very sad...](http://9gag.com/gag/aYQ6Ye7)
+ - 😝 [Me trying to get my friends to hang out on a cold winter night](http://9gag.com/gag/amoQ2Zj)
+ - 💣 [Golden era](http://9gag.com/gag/amoQ7jj)
+ - 😝 [Wendy&#39;s with the mic drop](http://9gag.com/gag/aqyMKDM)
+ - 👉 [One of these days](http://9gag.com/gag/aVvrY3v)<!-- MEMES:END -->
 
 ---
 

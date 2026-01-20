@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
- - 💣 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
  - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 💣 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 😝 [No title](http://9gag.com/gag/abADzrO)
  - 👉 [Guess some things just aren&#39;t taught anymore](http://9gag.com/gag/a5QgnOO)<!-- MEMES:END -->
 
 ---

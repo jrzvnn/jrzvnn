@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Demis Hassabis says Chinese AI companies are about six months behind leading western labs and the response to DeepSeek&#39;s R1 was a &quot;massive overreaction&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p27#a260120p27)
  - [Save up to $1,005 on Apple Studio Display, Pro Display XDR with coupon](https://appleinsider.com/articles/26/01/20/save-up-to-1005-on-apple-studio-display-pro-display-xdr-with-coupon?utm_source=rss)
  - [The World Economic Forum in Davos is now dominated by tech giants, whose interests shunt aside topics like climate change, as Trump and AI take center stage &lpar;Peter S. Goodman/New York Times&rpar;](http://www.techmeme.com/260120/p26#a260120p26)
- - [Netflix’s Star Search will let you vote to decide who wins](https://www.theverge.com/entertainment/864424/netflix-star-search-live-voting)
- - [Apple under legal attack over fall detection tech](https://appleinsider.com/articles/26/01/20/apple-under-legal-attack-over-fall-detection-tech?utm_source=rss)
- - [Setapp Mobile, one of the first alt iOS app stores launched in 2024 after the EU&#39;s DMA, plans to shut down, blaming &quot;still-evolving and complex business terms&quot; &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/260120/p25#a260120p25)<!-- TECH:END -->
+ - [Netflix’s Star Search will let you vote to decide who wins](https://www.theverge.com/entertainment/864424/netflix-star-search-live-voting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

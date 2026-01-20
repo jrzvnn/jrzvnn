@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix reports Q4 revenue up 18% YoY to $12B vs. $11.97B est., 325M paid subs, 2025 revenue up 16% to $45.2B, plans to increase content spend by 10% in 2026 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260120/p37#a260120p37)
+ - [The US DOJ says at least two DOGE employees accessed Social Security data that was off-limits under a court ruling and shared agency data on third-party servers &lpar;April Rubin/Axios&rpar;](http://www.techmeme.com/260120/p36#a260120p36)
  - [Nova Launcher’s new owner might offer a version with ads](https://www.theverge.com/news/864585/nova-launcher-instabridge-acquisition-owner-ads)
  - [The US FTC plans to appeal to revive its case accusing Meta of bolstering an illegal monopoly by acquiring Instagram and WhatsApp; Meta won the case in 2025 &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/260120/p35#a260120p35)
- - [Apple&#39;s Magic Keyboards for iPad Air and iPad Pro get firmware updates](https://appleinsider.com/articles/26/01/20/apples-magic-keyboards-for-ipad-air-and-ipad-pro-get-firmware-updates?utm_source=rss)
- - [7 Best All-Clad Deals From the Factory Seconds Sale &lpar;2026&rpar;](https://www.wired.com/story/all-clad-factory-seconds-sale-january-2026/)
- - [OpenAI rolls out age prediction on ChatGPT globally to identify users under 18 and apply automatic content protections as it prepares to introduce adult content &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260120/p34#a260120p34)<!-- TECH:END -->
+ - [Apple&#39;s Magic Keyboards for iPad Air and iPad Pro get firmware updates](https://appleinsider.com/articles/26/01/20/apples-magic-keyboards-for-ipad-air-and-ipad-pro-get-firmware-updates?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

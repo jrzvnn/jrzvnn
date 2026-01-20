@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI inference startup Baseten raised $300M led by IVP and CapitalG at a $5B valuation, more than doubling its valuation; Nvidia invested $150M &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260120/p31#a260120p31)
- - [Samsung’s discounted microSD Express card more than doubles your Switch 2 storage](https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale)
- - [OpenAI and ServiceNow sign a three-year deal to integrate OpenAI&#39;s models into ServiceNow&#39;s business software, including embedding OpenAI&#39;s AI agents &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260120/p30#a260120p30)
- - [Life is Strange will bring the Max and Chloe story to an end in new game](https://www.theverge.com/games/864438/life-is-strange-reunion-release-date-max-chloe)
- - [At the WEF in Davos, Palantir CEO Alex Karp says that AI-driven job displacement will &quot;make it hard to imagine why we should have large-scale immigration&quot; &lpar;Shona Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260120/p29#a260120p29)<!-- TECH:END -->
+ - [Filings from Elon Musk&#39;s OpenAI lawsuit detail Microsoft&#39;s decade-long relationship with OpenAI, including plans for a new subsidiary during Sam Altman&#39;s firing &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260120/p33#a260120p33)
+ - [The 40 Best Shows on Apple TV, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [‘Veronika’ Is the First Cow Known to Use a Tool](https://www.wired.com/story/veronika-is-the-first-cow-known-to-use-a-tool/)
+ - [Google has finally killed the Stadia Bluetooth tool — but this person rescued it](https://www.theverge.com/tech/864543/google-has-finally-killed-the-stadia-bluetooth-tool-but-this-person-rescued-it)
+ - [Greg Yang, one of the co-founders of xAI, is stepping down from the company after being diagnosed with Lyme disease &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/260120/p32#a260120p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

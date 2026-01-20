@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One leaker sticks with 2026 iPhone Air update claim, the rest disagree](https://appleinsider.com/articles/26/01/20/one-leaker-sticks-with-2026-iphone-air-update-claim-the-rest-disagree?utm_source=rss)
  - [How BYD beat Tesla](https://www.theverge.com/podcast/864314/byd-tesla-china-evs-vergecast)
  - [Apple&#39;s earnings won&#39;t be dented by RAM price rises yet, says Evercore](https://appleinsider.com/articles/26/01/20/apples-earnings-wont-be-dented-by-ram-price-rises-yet-says-evercore?utm_source=rss)
  - [Legal AI startup Ivo, which aims to reduce hallucinations by breaking legal reviews into 400+ tasks, raised a $55M Series B, a source says at a $355M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/260120/p20#a260120p20)
- - [Nielsen: Christmas Day 2025 set a record for US streaming usage with 55.1B minutes, or 54% of all TV viewing for the day, up by 3.9B minutes on Christmas 2024 &lpar;Rick Porter/The Hollywood Reporter&rpar;](http://www.techmeme.com/260120/p19#a260120p19)
- - [Highly insecure AI apps in the App Store are leaking tons of user data](https://appleinsider.com/articles/26/01/20/highly-insecure-ai-apps-in-the-app-store-are-leaking-tons-of-user-data?utm_source=rss)<!-- TECH:END -->
+ - [Nielsen: Christmas Day 2025 set a record for US streaming usage with 55.1B minutes, or 54% of all TV viewing for the day, up by 3.9B minutes on Christmas 2024 &lpar;Rick Porter/The Hollywood Reporter&rpar;](http://www.techmeme.com/260120/p19#a260120p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

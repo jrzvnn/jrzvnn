@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
+ - 😝 [Reese Witherspoon and her daughter](http://9gag.com/gag/aByz07Q)
  - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
  - 💣 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
- - 😝 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 😝 [Greenland&#39;s been trolling the US.](http://9gag.com/gag/a87NGLQ)
  - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
 
 ---

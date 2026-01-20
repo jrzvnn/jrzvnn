@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump admin admits DOGE employees had access to off-limits Social Security data](https://www.theverge.com/news/864643/doge-social-security-data-misuse)
  - [Netflix will revamp its mobile UI this year](https://www.theverge.com/news/864646/netflix-mobile-ui-revamp-design-vertical-video)
  - [Demis Hassabis says there aren&#39;t &quot;any plans&quot; to put ads in Gemini and, in response to OpenAI testing ads, says &quot;maybe they feel they need to make more revenue&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260120/p42#a260120p42)
  - [Super Savings on This Unique Air Fryer That Cooks Food in Heat-Proof Glass](https://www.wired.com/story/ninja-crispi-deal-126/)
- - [A Massachusetts judge grants a preliminary injunction blocking Kalshi from letting state residents bet on sports through its online platform &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/260120/p41#a260120p41)
- - [FTC says it will appeal Meta antitrust loss](https://www.theverge.com/news/864622/ftc-meta-antitrust-ruling-appeal)<!-- TECH:END -->
+ - [A Massachusetts judge grants a preliminary injunction blocking Kalshi from letting state residents bet on sports through its online platform &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/260120/p41#a260120p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

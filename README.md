@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
- - 😝 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
- - 💣 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 😝 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - 👉 [My managers show me this clip to complain about his secretaries&#39; dressing. But I see nothing&#39;s wrong here, they are fully clothed, polite and beautiful](http://9gag.com/gag/aE0Kggx)<!-- MEMES:END -->
+ - 😝 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
+ - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
+ - 😝 [Yes, we sacrifice those CDs to the god Nero](http://9gag.com/gag/aoyo5Gn)
+ - 👉 [I love pizza, but who tf slice a pizza like that???](http://9gag.com/gag/aoyoObn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roland’s Go:Mixer Studio turns your phone into a mobile music studio](https://www.theverge.com/entertainment/864095/roland-gomixer-studio-namm)
  - [Sources: ByteDance boosted its cloud offering via more sales hires and lower prices; IDC: it had 13% of China&#39;s AI cloud market in H1 2025, behind Alibaba&#39;s 23% &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260120/p3#a260120p3)
  - [Pune-based supply chain robotics startup Unbox Robotics raised a $28M Series B in a mix of primary and secondary capital, after raising $15M in earlier rounds &lpar;Anjali Jain/Inc42 Media&rpar;](http://www.techmeme.com/260120/p2#a260120p2)
  - [xAI has faced a growing outcry from global regulators over Grok&#39;s generation of non-consensual explicit photos, but has faced little regulatory action in the US &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260120/p1#a260120p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-20/)
- - [Anthropic details the &quot;Assistant Axis&quot;, a pattern of neural activity in language models that governs their default identity and helpful behavior &lpar;Anthropic&rpar;](http://www.techmeme.com/260119/p27#a260119p27)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-20/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

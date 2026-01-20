@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Corsair’s wired Hall effect gaming keyboard is cheaper than ever](https://www.theverge.com/gadgets/864339/corsair-hall-effect-gaming-keyboard-resident-evil-requiem-surface-laptop-deal-sale)
+ - [Ukraine says it plans to share nearly four years of combat data, including millions of hours of drone footage, with allies to help train AI models &lpar;Max Hunder/Reuters&rpar;](http://www.techmeme.com/260120/p22#a260120p22)
+ - [Filings: Michael Saylor&#39;s Strategy has bought more than $3B in Bitcoin since January 5, marking its biggest two-week purchase since December 2024 &lpar;Melos Ambaye/Bloomberg&rpar;](http://www.techmeme.com/260120/p21#a260120p21)
  - [Amazon’s CEO says tariffs are starting to ‘creep into’ pricing](https://www.theverge.com/news/864390/amazon-ceo-andy-jassy-tariffs-creep-into-pricing)
- - [One leaker sticks with 2026 iPhone Air update claim, the rest disagree](https://appleinsider.com/articles/26/01/20/one-leaker-sticks-with-2026-iphone-air-update-claim-the-rest-disagree?utm_source=rss)
- - [How BYD beat Tesla](https://www.theverge.com/podcast/864314/byd-tesla-china-evs-vergecast)
- - [Apple&#39;s earnings won&#39;t be dented by RAM price rises yet, says Evercore](https://appleinsider.com/articles/26/01/20/apples-earnings-wont-be-dented-by-ram-price-rises-yet-says-evercore?utm_source=rss)
- - [Legal AI startup Ivo, which aims to reduce hallucinations by breaking legal reviews into 400+ tasks, raised a $55M Series B, a source says at a $355M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/260120/p20#a260120p20)<!-- TECH:END -->
+ - [The Best Way to Get the Cleanest Teeth With an Electric Toothbrush](https://www.cnet.com/health/personal-care/common-mistakes-electric-toothbrush/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

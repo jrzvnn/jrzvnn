@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta VP of Public Policy Simon Milner, the company&#39;s most senior Asia-Pacific policy executive, plans to leave after 14 years to retire from full-time work &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/260120/p11#a260120p11)
- - [No top left camera for iPhone 18 Pro, but a smaller Dynamic Island](https://appleinsider.com/articles/26/01/20/no-top-left-camera-for-iphone-18-pro-but-a-smaller-dynamic-island?utm_source=rss)
- - [Sources: Baidu&#39;s Ernie Assistant passes 200M MAUs, as competition intensifies among Chinese tech giants in AI; Ernie is linked to apps like JD.com and Meituan &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260120/p10#a260120p10)
- - [Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’](https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/)
- - [Sources: UK and Chinese security officials set up a forum to discuss cyberattacks after hacking accusations, the first of its kind, to help prevent escalation &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/260120/p9#a260120p9)<!-- TECH:END -->
+ - [Humans&amp;, founded by ex-Anthropic, xAI, and Google staff to build interactive AI, raised a $480M seed from Nvidia, Jeff Bezos, and others at a $4.48B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260120/p16#a260120p16)
+ - [Sensor Tower: Reels accounted for 50%+ of all Instagram ads in 2025, up from 35% in 2024; Reels accounted for 46% of time spent on Instagram in the US in 2025 &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/260120/p15#a260120p15)
+ - [How Zynga uses a secretive VIP program with personal account managers and exclusive sweepstake entries to keep top players spending on games like FarmVille &lpar;Michael Thomsen/New York Times&rpar;](http://www.techmeme.com/260120/p14#a260120p14)
+ - [Netflix revises Warner Bros. bid to an all-cash offer](https://www.theverge.com/news/863318/netflix-warner-bros-discovery-merger-revision-cash-deal)
+ - [Netflix and WBD say Netflix revised its WBD offer to an all-cash deal for $27.75/share, with the same $82.7B value; its original bid had $59B in debt financing &lpar;Brian Stelter/CNN&rpar;](http://www.techmeme.com/260120/p13#a260120p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

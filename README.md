@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
  - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 💣 [No title](http://9gag.com/gag/abADzrO)
  - 😝 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
- - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
+ - 💣 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 😝 [No title](http://9gag.com/gag/abADzrO)
+ - 👉 [Guess some things just aren&#39;t taught anymore](http://9gag.com/gag/a5QgnOO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Observer Effect in Real Life](http://9gag.com/gag/aGyvjd0)
- - 😝 [Velcro, What a rip off...](http://9gag.com/gag/a6Zgo8e)
- - 💣 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
- - 😝 [Scrolling through the yellow pages for dinner options](http://9gag.com/gag/aqyMKXv)
- - 👉 [One of these days](http://9gag.com/gag/aVvrY3v)<!-- MEMES:END -->
+ - 😝 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
+ - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 💣 [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 😝 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
+ - 👉 [I love pizza, but who tf slice a pizza like that???](http://9gag.com/gag/aoyoObn)<!-- MEMES:END -->
 
 ---
 

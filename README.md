@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk and Sam Altman clashed on X after Musk shared a post about a man who committed a murder-suicide following delusional conversations with ChatGPT &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/260120/p39#a260120p39)
+ - [Netflix&#39;s ad revenue hit $1.5B in 2025, up by more than 2.5x vs. 2024, and viewing hours grew 2% YoY in H2, driven by a 9% rise in viewing of branded originals &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/260120/p38#a260120p38)
  - [Netflix reports Q4 revenue up 18% YoY to $12B vs. $11.97B est., 325M paid subs, 2025 revenue up 16% to $45.2B, plans to increase content spend by 10% in 2026 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260120/p37#a260120p37)
  - [The US DOJ says at least two DOGE employees accessed Social Security data that was off-limits under a court ruling and shared agency data on third-party servers &lpar;April Rubin/Axios&rpar;](http://www.techmeme.com/260120/p36#a260120p36)
- - [Nova Launcher’s new owner might offer a version with ads](https://www.theverge.com/news/864585/nova-launcher-instabridge-acquisition-owner-ads)
- - [The US FTC plans to appeal to revive its case accusing Meta of bolstering an illegal monopoly by acquiring Instagram and WhatsApp; Meta won the case in 2025 &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/260120/p35#a260120p35)
- - [Apple&#39;s Magic Keyboards for iPad Air and iPad Pro get firmware updates](https://appleinsider.com/articles/26/01/20/apples-magic-keyboards-for-ipad-air-and-ipad-pro-get-firmware-updates?utm_source=rss)<!-- TECH:END -->
+ - [Nova Launcher’s new owner might offer a version with ads](https://www.theverge.com/news/864585/nova-launcher-instabridge-acquisition-owner-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

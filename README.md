@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corsair’s wired Hall effect gaming keyboard is cheaper than ever](https://www.theverge.com/gadgets/864339/corsair-hall-effect-gaming-keyboard-resident-evil-requiem-surface-laptop-deal-sale)
- - [Ukraine says it plans to share nearly four years of combat data, including millions of hours of drone footage, with allies to help train AI models &lpar;Max Hunder/Reuters&rpar;](http://www.techmeme.com/260120/p22#a260120p22)
- - [Filings: Michael Saylor&#39;s Strategy has bought more than $3B in Bitcoin since January 5, marking its biggest two-week purchase since December 2024 &lpar;Melos Ambaye/Bloomberg&rpar;](http://www.techmeme.com/260120/p21#a260120p21)
- - [Amazon’s CEO says tariffs are starting to ‘creep into’ pricing](https://www.theverge.com/news/864390/amazon-ceo-andy-jassy-tariffs-creep-into-pricing)
- - [The Best Way to Get the Cleanest Teeth With an Electric Toothbrush](https://www.cnet.com/health/personal-care/common-mistakes-electric-toothbrush/)<!-- TECH:END -->
+ - [Setapp Mobile, one of the first alt iOS app stores launched in 2024 after the EU&#39;s DMA, plans to shut down, blaming &quot;still-evolving and complex business terms&quot; &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/260120/p25#a260120p25)
+ - [Former Nintendo of America boss Doug Bowser is joining Hasbro](https://www.theverge.com/news/864412/nintendo-doug-bowser-joins-hasbro-build)
+ - [Ethernovia, which builds automotive ethernet chips and software, raised a $90M+ Series B led by Maverick Silicon &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260120/p24#a260120p24)
+ - [Substack challenger Beehiiv expects to nearly double its annual revenue to $50M in 2026; it now has over 40,000 MAUs, including nearly 15,000 paying subscribers &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260120/p23#a260120p23)
+ - [Corsair’s wired Hall effect gaming keyboard is cheaper than ever](https://www.theverge.com/gadgets/864339/corsair-hall-effect-gaming-keyboard-resident-evil-requiem-surface-laptop-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

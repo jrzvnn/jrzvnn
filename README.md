@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap reaches an agreement to settle a social media addiction lawsuit, a week before the start of a trial in the first of several social media addiction lawsuits &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260120/p40#a260120p40)
+ - [A Massachusetts judge grants a preliminary injunction blocking Kalshi from letting state residents bet on sports through its online platform &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/260120/p41#a260120p41)
+ - [FTC says it will appeal Meta antitrust loss](https://www.theverge.com/news/864622/ftc-meta-antitrust-ruling-appeal)
+ - [Snap reaches an agreement to settle a social media addiction lawsuit, a week before the start of a trial in the first of several such lawsuits &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260120/p40#a260120p40)
  - [iPhone 17 China demand may not be boosted much by iPhone Air](https://appleinsider.com/articles/26/01/20/iphone-17-china-demand-may-not-be-boosted-much-by-iphone-air?utm_source=rss)
- - [Elon Musk and Sam Altman clashed on X after Musk shared a post about a man who committed a murder-suicide following delusional conversations with ChatGPT &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/260120/p39#a260120p39)
- - [Netflix&#39;s ad revenue hit $1.5B in 2025, up by more than 2.5x vs. 2024, and viewing hours grew 2% YoY in H2, driven by a 9% rise in viewing of branded originals &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/260120/p38#a260120p38)
- - [Netflix reports Q4 revenue up 18% YoY to $12B vs. $11.97B est., 325M paid subs, 2025 revenue up 16% to $45.2B, plans to increase content spend by 10% in 2026 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260120/p37#a260120p37)<!-- TECH:END -->
+ - [Elon Musk and Sam Altman clashed on X after Musk shared a post about a man who committed a murder-suicide following delusional conversations with ChatGPT &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/260120/p39#a260120p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

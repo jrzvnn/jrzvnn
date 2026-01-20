@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Canadian Premier League final in Ottawa was played in -8\u00b0C weather, with snow repeatedly interrupting the match and requiring the lines to be cleared every 15 minutes. A truly crazy game.](http://9gag.com/gag/a9ywp9D)
- - 😝 [Holz](http://9gag.com/gag/aVvr3mw)
- - 💣 [The Observer Effect in Real Life](http://9gag.com/gag/aGyvjd0)
- - 😝 [Ja pierdole Keep up the good work Poland](http://9gag.com/gag/aMV7ZwA)
- - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
+ - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 😝 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 💣 [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
+ - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
 
 ---
 

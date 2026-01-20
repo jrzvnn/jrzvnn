@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-20/)
  - [Anthropic details the &quot;Assistant Axis&quot;, a pattern of neural activity in language models that governs their default identity and helpful behavior &lpar;Anthropic&rpar;](http://www.techmeme.com/260119/p27#a260119p27)
  - [The UK Treasury committee says the government and Bank of England&#39;s &quot;wait-and-see approach&quot; to AI risks in the financial sector poses &quot;serious harm&quot; to the UK &lpar;Kalyeena Makortoff/The Guardian&rpar;](http://www.techmeme.com/260119/p26#a260119p26)
  - [8Bitdo Retro C64 Mechanical Keyboard review: Nostalgia and features combined](https://appleinsider.com/articles/26/01/20/8bitdo-retro-c64-mechanical-keyboard-review-nostalgia-and-features-combined?utm_source=rss)
- - [I&#39;m a Fitness Expert and These Are My Go-To Pieces of Fitness Tech for 2026](https://www.cnet.com/health/fitness/im-a-fitness-expert-and-these-are-my-highly-recommended-pieces-of-fitness-tech/)
- - [Cursor&#39;s recent experiment involved running hundreds of AI agents for nearly a week to build a web browser, writing 1M+ lines of code across 1,000 files &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260119/p25#a260119p25)<!-- TECH:END -->
+ - [I&#39;m a Fitness Expert and These Are My Go-To Pieces of Fitness Tech for 2026](https://www.cnet.com/health/fitness/im-a-fitness-expert-and-these-are-my-highly-recommended-pieces-of-fitness-tech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

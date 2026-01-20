@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple under legal attack over fall detection tech](https://appleinsider.com/articles/26/01/20/apple-under-legal-attack-over-fall-detection-tech?utm_source=rss)
  - [Setapp Mobile, one of the first alt iOS app stores launched in 2024 after the EU&#39;s DMA, plans to shut down, blaming &quot;still-evolving and complex business terms&quot; &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/260120/p25#a260120p25)
  - [Former Nintendo of America boss Doug Bowser is joining Hasbro](https://www.theverge.com/news/864412/nintendo-doug-bowser-joins-hasbro-build)
  - [Ethernovia, which builds automotive ethernet chips and software, raised a $90M+ Series B led by Maverick Silicon &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260120/p24#a260120p24)
- - [Substack challenger Beehiiv expects to nearly double its annual revenue to $50M in 2026; it now has over 40,000 MAUs, including nearly 15,000 paying subscribers &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260120/p23#a260120p23)
- - [Corsair’s wired Hall effect gaming keyboard is cheaper than ever](https://www.theverge.com/gadgets/864339/corsair-hall-effect-gaming-keyboard-resident-evil-requiem-surface-laptop-deal-sale)<!-- TECH:END -->
+ - [Substack challenger Beehiiv expects to nearly double its annual revenue to $50M in 2026; it now has over 40,000 MAUs, including nearly 15,000 paying subscribers &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260120/p23#a260120p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

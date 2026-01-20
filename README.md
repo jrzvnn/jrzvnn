@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humans&amp;, founded by ex-Anthropic, xAI, and Google staff to build interactive AI, raised a $480M seed from Nvidia, Jeff Bezos, and others at a $4.48B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260120/p16#a260120p16)
- - [Sensor Tower: Reels accounted for 50%+ of all Instagram ads in 2025, up from 35% in 2024; Reels accounted for 46% of time spent on Instagram in the US in 2025 &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/260120/p15#a260120p15)
- - [How Zynga uses a secretive VIP program with personal account managers and exclusive sweepstake entries to keep top players spending on games like FarmVille &lpar;Michael Thomsen/New York Times&rpar;](http://www.techmeme.com/260120/p14#a260120p14)
- - [Netflix revises Warner Bros. bid to an all-cash offer](https://www.theverge.com/news/863318/netflix-warner-bros-discovery-merger-revision-cash-deal)
- - [Netflix and WBD say Netflix revised its WBD offer to an all-cash deal for $27.75/share, with the same $82.7B value; its original bid had $59B in debt financing &lpar;Brian Stelter/CNN&rpar;](http://www.techmeme.com/260120/p13#a260120p13)<!-- TECH:END -->
+ - [Apple&#39;s earnings won&#39;t be dented by RAM price rises yet, says Evercore](https://appleinsider.com/articles/26/01/20/apples-earnings-wont-be-dented-by-ram-price-rises-yet-says-evercore?utm_source=rss)
+ - [Legal AI startup Ivo, which aims to reduce hallucinations by breaking legal reviews into 400+ tasks, raised a $55M Series B, a source says at a $355M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/260120/p20#a260120p20)
+ - [Nielsen: Christmas Day 2025 set a record for US streaming usage with 55.1B minutes, or 54% of all TV viewing for the day, up by 3.9B minutes on Christmas 2024 &lpar;Rick Porter/The Hollywood Reporter&rpar;](http://www.techmeme.com/260120/p19#a260120p19)
+ - [Highly insecure AI apps in the App Store are leaking tons of user data](https://appleinsider.com/articles/26/01/20/highly-insecure-ai-apps-in-the-app-store-are-leaking-tons-of-user-data?utm_source=rss)
+ - [Portugal orders Polymarket to stop operations and blocks it in the country after heavy activity tied to its recent presidential election, with €110M+ in volume &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/260120/p18#a260120p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

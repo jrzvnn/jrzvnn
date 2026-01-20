@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pune-based supply chain robotics startup Unbox Robotics raised a $28M Series B in a mix of primary and secondary capital, after raising $15M in earlier rounds &lpar;Anjali Jain/Inc42 Media&rpar;](http://www.techmeme.com/260120/p2#a260120p2)
  - [xAI has faced a growing outcry from global regulators over Grok&#39;s generation of non-consensual explicit photos, but has faced little regulatory action in the US &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260120/p1#a260120p1)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-20/)
  - [Anthropic details the &quot;Assistant Axis&quot;, a pattern of neural activity in language models that governs their default identity and helpful behavior &lpar;Anthropic&rpar;](http://www.techmeme.com/260119/p27#a260119p27)
- - [The UK Treasury committee says the government and Bank of England&#39;s &quot;wait-and-see approach&quot; to AI risks in the financial sector poses &quot;serious harm&quot; to the UK &lpar;Kalyeena Makortoff/The Guardian&rpar;](http://www.techmeme.com/260119/p26#a260119p26)
- - [8Bitdo Retro C64 Mechanical Keyboard review: Nostalgia and features combined](https://appleinsider.com/articles/26/01/20/8bitdo-retro-c64-mechanical-keyboard-review-nostalgia-and-features-combined?utm_source=rss)<!-- TECH:END -->
+ - [The UK Treasury committee says the government and Bank of England&#39;s &quot;wait-and-see approach&quot; to AI risks in the financial sector poses &quot;serious harm&quot; to the UK &lpar;Kalyeena Makortoff/The Guardian&rpar;](http://www.techmeme.com/260119/p26#a260119p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

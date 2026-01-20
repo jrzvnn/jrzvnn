@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
- - 😝 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - 💣 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [Be untired and happy!](http://9gag.com/gag/aMV7YxA)
- - 👉 [Guess some things just aren&#39;t taught anymore](http://9gag.com/gag/a5QgnOO)<!-- MEMES:END -->
+ - 😝 [This guy is no longer the craziest leader 😂😂](https://www.reddit.com/r/funny/comments/1qi6yl3/this_guy_is_no_longer_the_craziest_leader/)
+ - 😝 [Vietnam’s latest airport security upgrade](https://www.reddit.com/r/funny/comments/1qi6xk2/vietnams_latest_airport_security_upgrade/)
+ - 💣 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
+ - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
 
 ---
 

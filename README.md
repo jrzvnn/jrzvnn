@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic details the &quot;Assistant Axis&quot;, a pattern of neural activity in language models that governs their default identity and helpful behavior &lpar;Anthropic&rpar;](http://www.techmeme.com/260119/p27#a260119p27)
  - [The UK Treasury committee says the government and Bank of England&#39;s &quot;wait-and-see approach&quot; to AI risks in the financial sector poses &quot;serious harm&quot; to the UK &lpar;Kalyeena Makortoff/The Guardian&rpar;](http://www.techmeme.com/260119/p26#a260119p26)
  - [8Bitdo Retro C64 Mechanical Keyboard review: Nostalgia and features combined](https://appleinsider.com/articles/26/01/20/8bitdo-retro-c64-mechanical-keyboard-review-nostalgia-and-features-combined?utm_source=rss)
- - [Cursor&#39;s recent experiment involved running hundreds of AI agents for nearly a week to build a web browser, writing 1M+ lines of code across 1,000 files &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260119/p25#a260119p25)
- - [The UK launches a consultation on whether to ban under-16s from using social media, alongside restrictions on addictive app features like infinite scrolling &lpar;Kiran Stacey/The Guardian&rpar;](http://www.techmeme.com/260119/p24#a260119p24)
- - [Best Vitamins and Supplements for Women in 2026](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-women/)<!-- TECH:END -->
+ - [I&#39;m a Fitness Expert and These Are My Go-To Pieces of Fitness Tech for 2026](https://www.cnet.com/health/fitness/im-a-fitness-expert-and-these-are-my-highly-recommended-pieces-of-fitness-tech/)
+ - [Cursor&#39;s recent experiment involved running hundreds of AI agents for nearly a week to build a web browser, writing 1M+ lines of code across 1,000 files &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260119/p25#a260119p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

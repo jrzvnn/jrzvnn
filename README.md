@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X says it has open sourced its &quot;core recommendation system&quot; on GitHub and that the system &quot;ranks everything using a Grok-based transformer model&quot; &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260120/p45#a260120p45)
  - [Drone delivery startup Zipline raised $600M+, boosting its valuation to $7.6B, and says it has now completed 2M+ commercial deliveries of 20M different items &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/260120/p44#a260120p44)
  - [Greg Peters says Netflix plans to bring new content types like video podcasts to its vertical video feed, and plans to roll out a new mobile UI later in 2026 &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/260120/p43#a260120p43)
  - [Netflix earned $1.5 billion from ads in 2025](https://www.theverge.com/news/864451/netflix-advertising-revenue-doubled-q4-2025-earnings)
- - [This Unsung Taylor Sheridan Show and More Paramount Series Are Coming to Netflix](https://www.cnet.com/tech/services-and-software/this-unsung-taylor-sheridan-show-and-more-paramount-series-are-coming-to-netflix/)
- - [Trump admin admits DOGE employees had access to off-limits Social Security data](https://www.theverge.com/news/864643/doge-social-security-data-misuse)<!-- TECH:END -->
+ - [This Unsung Taylor Sheridan Show and More Paramount Series Are Coming to Netflix](https://www.cnet.com/tech/services-and-software/this-unsung-taylor-sheridan-show-and-more-paramount-series-are-coming-to-netflix/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

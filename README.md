@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
- - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 😝 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
  - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - 😝 [Yes, we sacrifice those CDs to the god Nero](http://9gag.com/gag/aoyo5Gn)
- - 👉 [I love pizza, but who tf slice a pizza like that???](http://9gag.com/gag/aoyoObn)<!-- MEMES:END -->
+ - 😝 [Only Aoe2 nerds read titles](http://9gag.com/gag/aO8E0AN)
+ - 👉 [Guess some things just aren&#39;t taught anymore](http://9gag.com/gag/a5QgnOO)<!-- MEMES:END -->
 
 ---
 

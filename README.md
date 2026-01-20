@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Baidu&#39;s Ernie Assistant passes 200M MAUs, as competition intensifies among Chinese tech giants in AI; Ernie is linked to apps like JD.com and Meituan &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260120/p10#a260120p10)
+ - [Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’](https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/)
  - [Sources: UK and Chinese security officials set up a forum to discuss cyberattacks after hacking accusations, the first of its kind, to help prevent escalation &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/260120/p9#a260120p9)
  - [Spotify is testing a feature that syncs audiobooks with paper editions](https://www.theverge.com/news/864296/spotify-page-match-audiobook-testing-feature)
- - [Sony and TCL sign a non-binding agreement to spin off Sony&#39;s TV and home audio hardware business into a new joint venture, aiming to finalize the deal by March &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260120/p8#a260120p8)
- - [Sources: China broadens its probe into Temu owner PDD, dispatching 100+ investigators to its Shanghai HQ, after staff exchanged physical blows with regulators &lpar;John Liu/Bloomberg&rpar;](http://www.techmeme.com/260120/p7#a260120p7)
- - [China’s Renewable Energy Revolution Is a Huge Mess That Might Save the World](https://www.wired.com/story/china-renewable-energy-revolution/)<!-- TECH:END -->
+ - [Sony and TCL sign a non-binding agreement to spin off Sony&#39;s TV and home audio hardware business into a new joint venture, aiming to finalize the deal by March &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260120/p8#a260120p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

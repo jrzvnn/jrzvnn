@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
  - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 💣 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 😝 [No title](http://9gag.com/gag/abADzrO)
- - 👉 [Guess some things just aren&#39;t taught anymore](http://9gag.com/gag/a5QgnOO)<!-- MEMES:END -->
+ - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 💣 [No title](http://9gag.com/gag/abADzrO)
+ - 😝 [Guess some things just aren&#39;t taught anymore](http://9gag.com/gag/a5QgnOO)
+ - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
 
 ---
 

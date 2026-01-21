@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft cancels six games and delays others amid a restructuring into five genre-specific &quot;creative houses&quot;; it expects net bookings of ~€1.5B for FY 2025-2026 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/260121/p35#a260121p35)
- - [Anthropic overhauled Claude&#39;s &quot;Constitution&quot; to enable the AI to generalize and apply broad principles rather than mechanically follow specific rules &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/260121/p34#a260121p34)
- - [Netflix: 26 of Best Sci-Fi TV Shows To Stream Right Now](https://www.cnet.com/tech/services-and-software/netflix-best-sci-fi-tv-shows/)
- - [How to Give Your Old TV a Second Life](https://www.cnet.com/tech/home-entertainment/how-to-give-your-old-tv-a-second-life/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 21, #955](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-21-955/)<!-- TECH:END -->
+ - [ElevenLabs launches an album of original tracks made by artists like Liza Minnelli and Art Garfunkel in &quot;collaboration&quot; with its Eleven Music AI model &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260121/p36#a260121p36)
+ - [Future Apple product plans may be at risk following Luxshare hack](https://appleinsider.com/articles/26/01/21/future-apple-product-plans-may-be-at-risk-following-luxshare-hack?utm_source=rss)
+ - [TCL Knocks $1,000 Off One of Our Favorite Mid-Range TVs](https://www.wired.com/story/tcl-qm8k-deal-126/)
+ - [Samsung Galaxy S26 battery pack leak points to Qi2 charging support](https://www.theverge.com/news/865083/samsung-galaxy-s26-battery-pack-qi2-support)
+ - [Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns](https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

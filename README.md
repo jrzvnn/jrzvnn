@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
  - 😝 [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - 💣 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)
- - 😝 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 😝 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
+ - 💣 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
  - 👉 [Girl talking about friendship](http://9gag.com/gag/a2vgWND)<!-- MEMES:END -->
 
 ---

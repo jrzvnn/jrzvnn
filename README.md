@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 😝 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
  - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 💣 [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - 😝 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
- - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
+ - 💣 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 😝 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
+ - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
 
 ---
 

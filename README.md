@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GlobalWafers Chair Doris Hsu says the Taiwanese silicon wafer maker is preparing for phase two of its Texas plant, after unveiling plans to invest an extra $4B &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260121/p14#a260121p14)
- - [Berlin-based Cloover, which makes software to help install solar, home batteries, and heat pumps, raised $22M from Lowercarbon and others and $1.2B in debt &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/260121/p13#a260121p13)
- - [How Ukraine and Russia both rely on the same Chinese drone suppliers, whose tech is vital to the war; China officially bans sensitive drone tech exports to both &lpar;Financial Times&rpar;](http://www.techmeme.com/260121/p12#a260121p12)
- - [‘I’m Witnessing a Lot of Emptiness’: How ICE Uprooted Normal Life in Minneapolis](https://www.wired.com/story/how-ice-uprooted-normal-life-in-minneapolis/)
- - [How to Fix Your Wi-Fi Problems &lpar;2026&rpar;](https://www.wired.com/story/how-to-fix-wi-fi/)<!-- TECH:END -->
+ - [Israeli startup DataRails, which offers financial planning and analytics tools, raised a $70M Series C led by One Peak at an estimated $600M to $700M valuation &lpar;Globes&rpar;](http://www.techmeme.com/260121/p16#a260121p16)
+ - [Chinese AI startup Zhipu says it is limiting GLM Coding Plan access after strong demand, taking only 20% of its current daily new subscriptions from January 23 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p15#a260121p15)
+ - [Nikon Z5II Review: Fantastic Camera at a Budget Price](https://www.wired.com/review/nikon-z5ii-mirrorless-camera/)
+ - [Pro-AI Super PACs Are Already All In on the Midterms](https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/)
+ - [GlobalWafers Chair Doris Hsu says the Taiwanese silicon wafer maker is preparing for phase two of its Texas plant, after unveiling plans to invest an extra $4B &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260121/p14#a260121p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be untired and happy!](http://9gag.com/gag/aMV7YxA)
- - 😝 [Yes, we sacrifice those CDs to the god Nero](http://9gag.com/gag/aoyo5Gn)
- - 💣 [White people hiking vs black people hiking](http://9gag.com/gag/a4PgRqm)
- - 😝 [And use a paperclip to clear out the gunk.](http://9gag.com/gag/aNDMg2r)
- - 👉 [Listen to wednesday Frog people.](http://9gag.com/gag/aPAL7Pg)<!-- MEMES:END -->
+ - 😝 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
+ - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 💣 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
+ - 😝 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
+ - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
 
 ---
 

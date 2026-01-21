@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV will launch custom multiview and channel packages ‘soon’](https://www.theverge.com/news/864566/youtube-tv-custom-multiview-channel-packages)
- - [YouTubers will be able to make Shorts with their own AI likenesses](https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026)
- - [Adobe Acrobat uses AI to turn your PDFs into podcasts](https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation)
- - [European VC funding rose 9% YoY to hit $58B in 2025, below North America&#39;s 46% YoY rise; AI led with $17.5B, followed by biotech&#39;s $13.4B and hardware&#39;s $10.8B &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/260121/p25#a260121p25)
- - [Detective games get extra cryptic with TR-49’s code-breaking mystery](https://www.theverge.com/games/864630/tr49-review-steam-iphone)<!-- TECH:END -->
+ - [Ozempic maker launches the latest painfully unfunny &#39;I&#39;m a Mac&#39; ripoff](https://appleinsider.com/articles/26/01/21/ozempic-maker-launches-the-latest-painfully-unfunny-im-a-mac-ripoff?utm_source=rss)
+ - [Upscale AI, which is building AI networking infrastructure, raised $200M led by Tiger, Premji Invest, and Xora Innovation at a $1B valuation to take on Cisco &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260121/p29#a260121p29)
+ - [Sources: Elon Musk is pushing for a SpaceX IPO by July, seems eager to beat OpenAI and Anthropic to market, and views it as a way to help xAI catch its rivals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260121/p28#a260121p28)
+ - [YouTube CEO Neal Mohan says creators can generate Shorts using their AI likenesses later in 2026, but offers few details, and touts AI tools like game makers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260121/p27#a260121p27)
+ - [Instagram’s top boss is missing the point about AI on the platform](https://www.theverge.com/tech/864768/instagram-adam-mosseri-ai-content-algorithm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

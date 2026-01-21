@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)
- - [What We Know About the Winter Storm About to Hit the US—and What We Don’t](https://www.wired.com/story/winter-storm-about-to-hit-the-us-snow-freezing-rain/)
- - [Volvo&#39;s &quot;One More Thing&quot; EX60 Cross Country Debuts](https://www.cnet.com/roadshow/pictures/volvos-one-more-thing-ex60-cross-country-debuts/)
- - [The US and China Are Collaborating More Closely on AI Than You Think](https://www.wired.com/story/us-china-collaboration-neurips-papers/)
- - [My Favorite Thriller of 2025 Is One of Netflix&#39;s Most-Watched Series of the Year](https://www.cnet.com/tech/services-and-software/my-favorite-thriller-2025-beast-in-me-netflix-most-watched-series/)<!-- TECH:END -->
+ - [Apple Park employees are testing two new AI chatbots](https://appleinsider.com/articles/26/01/21/apple-park-employees-are-being-tasked-to-test-two-new-ai-assistants?utm_source=rss)
+ - [Future Apple product plans may be at risk following Luxshare hack](https://appleinsider.com/articles/26/01/21/future-apple-product-plans-may-be-at-risk-following-luxshare-hack?utm_source=rss)
+ - [A Canadian federal court overturned a 2024 order that would have shuttered TikTok Canada&#39;s business operations over national security concerns &lpar;Mickey Djuric/Politico&rpar;](http://www.techmeme.com/260121/p38#a260121p38)
+ - [Sources: Anthropic&#39;s revenue run rate hit $9B+ at the end of 2025, up from $4B in July 2025; Iconiq, Lightspeed, and Menlo are set to join its new funding round &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p37#a260121p37)
+ - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

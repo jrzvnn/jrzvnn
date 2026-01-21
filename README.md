@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Park employees are testing two new AI chatbots](https://appleinsider.com/articles/26/01/21/apple-park-employees-are-being-tasked-to-test-two-new-ai-assistants?utm_source=rss)
- - [Future Apple product plans may be at risk following Luxshare hack](https://appleinsider.com/articles/26/01/21/future-apple-product-plans-may-be-at-risk-following-luxshare-hack?utm_source=rss)
- - [A Canadian federal court overturned a 2024 order that would have shuttered TikTok Canada&#39;s business operations over national security concerns &lpar;Mickey Djuric/Politico&rpar;](http://www.techmeme.com/260121/p38#a260121p38)
- - [Sources: Anthropic&#39;s revenue run rate hit $9B+ at the end of 2025, up from $4B in July 2025; Iconiq, Lightspeed, and Menlo are set to join its new funding round &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p37#a260121p37)
- - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)<!-- TECH:END -->
+ - [Despite Apple having said otherwise, Siri may become a chatbot in iOS 27](https://appleinsider.com/articles/26/01/21/despite-apple-having-said-otherwise-siri-may-become-a-chatbot-in-ios-27?utm_source=rss)
+ - [Apple&#39;s Formula 1 racing partnership will go far beyond streaming](https://appleinsider.com/articles/26/01/21/apples-formula-1-racing-partnership-will-go-far-beyond-streaming?utm_source=rss)
+ - [Sources: Apple is developing an AirTag-sized AI wearable pin with cameras, a speaker, microphones, and wireless charging that could be released as early as 2027 &lpar;The Information&rpar;](http://www.techmeme.com/260121/p40#a260121p40)
+ - [Sources: Apple plans to revamp Siri this fall in iOS 27 and macOS 27 by turning it into the company&#39;s first AI chatbot, replacing the current Siri interface &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260121/p39#a260121p39)
+ - [Future Apple product plans may be at risk following Luxshare hack](https://appleinsider.com/articles/26/01/21/future-apple-product-plans-may-be-at-risk-following-luxshare-hack?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

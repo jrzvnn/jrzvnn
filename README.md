@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple still the world&#39;s most valuable brand in 2026 according to updated ranking](https://appleinsider.com/articles/26/01/21/apple-still-the-worlds-most-valuable-brand-in-2026-according-to-updated-ranking?utm_source=rss)
- - [Memo: Barret Zoph, the Thinking Machines Lab cofounder who rejoined OpenAI last week, will lead OpenAI&#39;s enterprise push, as part of a broader reorganization &lpar;The Information&rpar;](http://www.techmeme.com/260121/p45#a260121p45)
- - [Unsealed docs: Spotify and labels sued Anna&#39;s Archive over plans to release scraped Spotify data; a US court grants a temporary order taking down some domains &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/260121/p44#a260121p44)
- - [Blue Origin unveils TeraWave, a satellite communications network for enterprise, data center, and government customers, and plans to begin deployment in Q4 2027 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260121/p43#a260121p43)
- - [Apple is reportedly working on an AirTag-sized AI wearable](https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor)<!-- TECH:END -->
+ - [NYT Games Expands Its Puzzle Empire With Scrabble-Like Crossplay](https://www.cnet.com/tech/services-and-software/nyt-games-expands-its-puzzle-empire-with-scrabble-like-crossplay/)
+ - [Everyone can hear your TV in their headphones using this transmitter](https://www.theverge.com/tech/864569/sennheiser-bluetooth-auracast-bta1-transmitter-hdr-275-wireless-headphones)
+ - [These 75-inch TVs Are Best for Watching the Super Bowl](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/)
+ - [Sources: Sam Altman has been meeting with top investors in the Middle East, looking to raise at least $50B for OpenAI at a valuation of about $750B to $830B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p46#a260121p46)
+ - [Apple still the world&#39;s most valuable brand in 2026 according to updated ranking](https://appleinsider.com/articles/26/01/21/apple-still-the-worlds-most-valuable-brand-in-2026-according-to-updated-ranking?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

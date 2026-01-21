@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Detective games get extra cryptic with TR-49’s code-breaking mystery](https://www.theverge.com/games/864630/tr49-review-steam-iphone)
- - [At Davos, Jensen Huang says AI is already bringing economic benefits and needs more investment, and an &quot;AI bubble comes about because the investments are large&quot; &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/260121/p24#a260121p24)
- - [OpenEvidence, which is building &quot;ChatGPT for doctors&quot;, raised $250M led by Thrive and DST at a $12B valuation, up from $6B in October and $1B in February 2025 &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/260121/p23#a260121p23)
- - [Salt Lake City-based Zanskar, which uses AI to find overlooked geothermal fields to boost US electricity supply, raised $115M, taking its total funding to $180M &lpar;Benoît Morenne/Wall Street Journal&rpar;](http://www.techmeme.com/260121/p22#a260121p22)
- - [Sensor Tower: consumers spent $85B on apps globally in 2025, up 21% YoY, and, in a first, more money went on non-game mobile apps than on games, driven by GenAI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p21#a260121p21)<!-- TECH:END -->
+ - [YouTube TV will launch custom multiview and channel packages ‘soon’](https://www.theverge.com/news/864566/youtube-tv-custom-multiview-channel-packages)
+ - [YouTubers will be able to make Shorts with their own AI likenesses](https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026)
+ - [Adobe Acrobat uses AI to turn your PDFs into podcasts](https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation)
+ - [European VC funding rose 9% YoY to hit $58B in 2025, below North America&#39;s 46% YoY rise; AI led with $17.5B, followed by biotech&#39;s $13.4B and hardware&#39;s $10.8B &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/260121/p25#a260121p25)
+ - [Detective games get extra cryptic with TR-49’s code-breaking mystery](https://www.theverge.com/games/864630/tr49-review-steam-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

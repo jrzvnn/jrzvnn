@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m all in](http://9gag.com/gag/aW4yxdd)
- - 😝 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
- - 💣 [Jacket potato \u21161](http://9gag.com/gag/aGyvpnK)
- - 😝 [Not sure if i should laugh or be sad](http://9gag.com/gag/aByz2EN)
- - 👉 [I can make him talk](http://9gag.com/gag/a1mgWbP)<!-- MEMES:END -->
+ - 😝 [Interesting shirt](http://9gag.com/gag/ajPv95x)
+ - 😝 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)
+ - 💣 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 😝 [Perfect loop?](http://9gag.com/gag/aD29dY9)
+ - 👉 [Girl talking about friendship](http://9gag.com/gag/a2vgWND)<!-- MEMES:END -->
 
 ---
 

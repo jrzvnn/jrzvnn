@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blue Origin’s Starlink rival TeraWave promises 6 terabit satellite internet](https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb)
+ - [Layoffs hit Vimeo for the second time since September 2025, when it laid off 10% of its workforce; Bending Spoons acquired Vimeo for around $1.38B in November &lpar;Business Insider&rpar;](http://www.techmeme.com/260121/p47#a260121p47)
  - [NYT Games Expands Its Puzzle Empire With Scrabble-Like Crossplay](https://www.cnet.com/tech/services-and-software/nyt-games-expands-its-puzzle-empire-with-scrabble-like-crossplay/)
  - [Everyone can hear your TV in their headphones using this transmitter](https://www.theverge.com/tech/864569/sennheiser-bluetooth-auracast-bta1-transmitter-hdr-275-wireless-headphones)
- - [These 75-inch TVs Are Best for Watching the Super Bowl](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/)
- - [Sources: Sam Altman has been meeting with top investors in the Middle East, looking to raise at least $50B for OpenAI at a valuation of about $750B to $830B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p46#a260121p46)
- - [Apple still the world&#39;s most valuable brand in 2026 according to updated ranking](https://appleinsider.com/articles/26/01/21/apple-still-the-worlds-most-valuable-brand-in-2026-according-to-updated-ranking?utm_source=rss)<!-- TECH:END -->
+ - [These 75-inch TVs Are Best for Watching the Super Bowl](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

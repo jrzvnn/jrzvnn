@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite Apple having said otherwise, Siri may become a chatbot in iOS 27](https://appleinsider.com/articles/26/01/21/despite-apple-having-said-otherwise-siri-may-become-a-chatbot-in-ios-27?utm_source=rss)
- - [Apple&#39;s Formula 1 racing partnership will go far beyond streaming](https://appleinsider.com/articles/26/01/21/apples-formula-1-racing-partnership-will-go-far-beyond-streaming?utm_source=rss)
- - [Sources: Apple is developing an AirTag-sized AI wearable pin with cameras, a speaker, microphones, and wireless charging that could be released as early as 2027 &lpar;The Information&rpar;](http://www.techmeme.com/260121/p40#a260121p40)
- - [Sources: Apple plans to revamp Siri this fall in iOS 27 and macOS 27 by turning it into the company&#39;s first AI chatbot, replacing the current Siri interface &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260121/p39#a260121p39)
- - [Future Apple product plans may be at risk following Luxshare hack](https://appleinsider.com/articles/26/01/21/future-apple-product-plans-may-be-at-risk-following-luxshare-hack?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic’s new Claude ‘constitution’: be helpful and honest, and don’t destroy humanity](https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc)
+ - [What Type of Mattress Is Right for You? &lpar;2026&rpar;](https://www.wired.com/story/mattress-types-explained/)
+ - [This time it&#39;ll work: Apple rumored to be developing a wearable AI pin](https://appleinsider.com/articles/26/01/21/this-time-itll-work-apple-rumored-to-be-developing-a-wearable-ai-pin?utm_source=rss)
+ - [Apple is turning Siri into an AI bot that&amp;#8217;s more like ChatGPT](https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt)
+ - [Despite Apple having said otherwise, Siri may become a chatbot in iOS 27](https://appleinsider.com/articles/26/01/21/despite-apple-having-said-otherwise-siri-may-become-a-chatbot-in-ios-27?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

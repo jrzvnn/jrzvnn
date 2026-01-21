@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Payments using facial recognition are growing in South Korea as the tech improves; South Korean fintech app Toss has scaled its &quot;Facepay&quot; service to 1M+ users &lpar;Nami Matsuura/Nikkei Asia&rpar;](http://www.techmeme.com/260121/p4#a260121p4)
- - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
- - [Tuft &amp; Needle Promo Codes: 20% Off | January 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
- - [The Gates Foundation and OpenAI plan to invest $50M to use AI to ease the impact of chronic staff shortages in 1,000 primary health clinics in Africa by 2028 &lpar;Financial Times&rpar;](http://www.techmeme.com/260121/p3#a260121p3)
- - [Apple wins dismissal of parts of a class action alleging it violated CA privacy law by collecting user data from its apps despite users believing they opted out &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/260121/p2#a260121p2)<!-- TECH:END -->
+ - [Bengaluru-based Amagi, an ad tools provider for broadcast and streaming TV, fell below its listing price in its India market debut after raising $196M in an IPO &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260121/p6#a260121p6)
+ - [Sealy Promo Code: Save $200 on Mattresses This Month](https://www.wired.com/story/sealy-promo-code/)
+ - [Thoma Bravo co-founder Orlando Bravo says the slump in software company valuations over threat of AI-driven disruption is creating a &quot;huge buying opportunity&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260121/p5#a260121p5)
+ - [Purple Promo Codes and Deals: Up to 30% Off](https://www.wired.com/story/purple-promo-code/)
+ - [Payments using facial recognition are growing in South Korea as the tech improves; South Korean fintech app Toss has scaled its &quot;Facepay&quot; service to 1M+ users &lpar;Nami Matsuura/Nikkei Asia&rpar;](http://www.techmeme.com/260121/p4#a260121p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

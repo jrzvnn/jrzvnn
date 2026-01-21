@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)
- - 😝 [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
+ - 😝 [I&#39;m all in](http://9gag.com/gag/aW4yxdd)
+ - 😝 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
+ - 💣 [Jacket potato \u21161](http://9gag.com/gag/aGyvpnK)
  - 😝 [Not sure if i should laugh or be sad](http://9gag.com/gag/aByz2EN)
- - 👉 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)<!-- MEMES:END -->
+ - 👉 [I can make him talk](http://9gag.com/gag/a1mgWbP)<!-- MEMES:END -->
 
 ---
 

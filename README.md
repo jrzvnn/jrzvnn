@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ElevenLabs launches an album of original tracks made by artists like Liza Minnelli and Art Garfunkel in &quot;collaboration&quot; with its Eleven Music AI model &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260121/p36#a260121p36)
- - [Future Apple product plans may be at risk following Luxshare hack](https://appleinsider.com/articles/26/01/21/future-apple-product-plans-may-be-at-risk-following-luxshare-hack?utm_source=rss)
- - [TCL Knocks $1,000 Off One of Our Favorite Mid-Range TVs](https://www.wired.com/story/tcl-qm8k-deal-126/)
- - [Samsung Galaxy S26 battery pack leak points to Qi2 charging support](https://www.theverge.com/news/865083/samsung-galaxy-s26-battery-pack-qi2-support)
- - [Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns](https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/)<!-- TECH:END -->
+ - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)
+ - [What We Know About the Winter Storm About to Hit the US—and What We Don’t](https://www.wired.com/story/winter-storm-about-to-hit-the-us-snow-freezing-rain/)
+ - [Volvo&#39;s &quot;One More Thing&quot; EX60 Cross Country Debuts](https://www.cnet.com/roadshow/pictures/volvos-one-more-thing-ex60-cross-country-debuts/)
+ - [The US and China Are Collaborating More Closely on AI Than You Think](https://www.wired.com/story/us-china-collaboration-neurips-papers/)
+ - [My Favorite Thriller of 2025 Is One of Netflix&#39;s Most-Watched Series of the Year](https://www.cnet.com/tech/services-and-software/my-favorite-thriller-2025-beast-in-me-netflix-most-watched-series/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

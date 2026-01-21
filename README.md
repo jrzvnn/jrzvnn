@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 😝 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
+ - 😝 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
+ - 😝 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
  - 💣 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
  - 😝 [Sign me up for this company, I need an emotional support cat at work](http://9gag.com/gag/aqyMnXj)
- - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
+ - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
 
 ---
 

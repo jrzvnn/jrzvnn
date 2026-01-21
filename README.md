@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Layoffs hit Vimeo for the second time since September 2025, when it laid off 10% of its workforce; Bending Spoons acquired Vimeo for around $1.38B in November &lpar;Business Insider&rpar;](http://www.techmeme.com/260121/p47#a260121p47)
  - [NYT Games Expands Its Puzzle Empire With Scrabble-Like Crossplay](https://www.cnet.com/tech/services-and-software/nyt-games-expands-its-puzzle-empire-with-scrabble-like-crossplay/)
  - [Everyone can hear your TV in their headphones using this transmitter](https://www.theverge.com/tech/864569/sennheiser-bluetooth-auracast-bta1-transmitter-hdr-275-wireless-headphones)
- - [These 75-inch TVs Are Best for Watching the Super Bowl](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

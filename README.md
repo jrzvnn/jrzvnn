@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - 😝 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - 😝 [I work in the warehouse](http://9gag.com/gag/adBA86N)
- - 👉 [Mom treating son to the wildest ride of his life](http://9gag.com/gag/adBAKrV)<!-- MEMES:END -->
+ - 😝 [Listen to wednesday Frog people.](http://9gag.com/gag/aPAL7Pg)
+ - 😝 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
+ - 💣 [Interesting shirt](http://9gag.com/gag/ajPv95x)
+ - 😝 [I&#39;m all in](http://9gag.com/gag/aW4yxdd)
+ - 👉 [Too late](http://9gag.com/gag/a7ogELr)<!-- MEMES:END -->
 
 ---
 

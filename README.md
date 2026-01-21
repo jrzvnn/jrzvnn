@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
- - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 💣 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - 😝 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
- - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
+ - 😝 [Trained](http://9gag.com/gag/aGyvg45)
+ - 😝 [White people hiking vs black people hiking](http://9gag.com/gag/a4PgRqm)
+ - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
+ - 😝 [Listen to wednesday Frog people.](http://9gag.com/gag/aPAL7Pg)
+ - 👉 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)<!-- MEMES:END -->
 
 ---
 

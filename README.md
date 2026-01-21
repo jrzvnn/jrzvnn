@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Barret Zoph, the Thinking Machines Lab cofounder who rejoined OpenAI last week, will lead OpenAI&#39;s enterprise push, as part of a broader reorganization &lpar;The Information&rpar;](http://www.techmeme.com/260121/p45#a260121p45)
+ - [Unsealed docs: Spotify and labels sued Anna&#39;s Archive over plans to release scraped Spotify data; a US court grants a temporary order taking down some domains &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/260121/p44#a260121p44)
  - [Blue Origin unveils TeraWave, a satellite communications network for enterprise, data center, and government customers, and plans to begin deployment in Q4 2027 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260121/p43#a260121p43)
  - [Apple is reportedly working on an AirTag-sized AI wearable](https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor)
- - [This time it&#39;ll work: Apple rumored to be developing a wearable AI pin](https://appleinsider.com/articles/26/01/21/this-time-itll-work-apple-rumored-to-be-developing-a-wearable-ai-pin?utm_source=rss)
- - [Neynar, a startup focused on decentralized social media infrastructure, is acquiring Ethereum-based social media project Farcaster from R&amp;D firm Merkle &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260121/p42#a260121p42)
- - [Sources: AI chip startup SambaNova is seeking to raise $300M to $500M after talks to sell the company to Intel for about $1.6B, including debt, stalled &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p41#a260121p41)<!-- TECH:END -->
+ - [This time it&#39;ll work: Apple rumored to be developing a wearable AI pin](https://appleinsider.com/articles/26/01/21/this-time-itll-work-apple-rumored-to-be-developing-a-wearable-ai-pin?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

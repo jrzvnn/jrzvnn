@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Season 5 of &#39;For All Mankind&#39; shows what happens after the space race is won](https://appleinsider.com/articles/26/01/21/season-5-of-for-all-mankind-shows-what-happens-after-the-space-race-is-won?utm_source=rss)
- - [MAGA’s ‘Manifest Destiny’ Coalition Has Arrived](https://www.wired.com/story/maga-manifest-destiny-coalition/)
- - [Micron Megafab Project Faces a New Hurdle as Activists Seek a Benefits Deal](https://www.wired.com/story/micron-chip-fab-community-benefits-agreement/)
- - [This midrange Android phone also runs Windows and Linux](https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11)
- - [Sony’s first clip-on open earbuds have a quiet mode so others can’t listen in](https://www.theverge.com/tech/864848/sony-linkbuds-clip-open-earbuds-wireless-headphones-bluetooth)<!-- TECH:END -->
+ - [Volvo aims for an EV reset with the new EX60 crossover](https://www.theverge.com/news/864561/volvo-ex60-range-price-specs)
+ - [Ubisoft cancels Prince of Persia remake as part of major reorganization](https://www.theverge.com/news/865060/ubisoft-prince-of-persia-sands-of-time-remake-canceled-reorganization)
+ - [Meta plans to expand ads on Threads to all users globally starting next week; Threads began testing ads in the US and Japan a year ago &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p33#a260121p33)
+ - [ElevenLabs made an AI album to plug its music generator](https://www.theverge.com/news/864843/elevenlabs-ai-music-eleven-album-release)
+ - [Trump is steamrolling global calls for a moratorium on deep-sea mining](https://www.theverge.com/news/864916/deep-sea-mining-trump-fast-track-permits-battery-minerals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

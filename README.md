@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Barret Zoph says Thinking Machines Lab fired him only after learning he was leaving, and at no time did the company cite his performance or unethical conduct &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260120/p51#a260120p51)
+ - [One year in, Big Tech has out-maneuvered MAGA populists](https://www.theverge.com/column/864759/big-tech-trump-one-year-in)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-21/)
  - [Multiple Apple services, including Apple TV, the App Store, and iCloud have been experiencing outages since 6:48 PM ET, according to Apple&#39;s system status page &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260120/p50#a260120p50)
- - [Analysis: the Trump family has generated about $1.4B from crypto projects since Trump&#39;s inauguration a year ago, making up about one-fifth of their fortune &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p49#a260120p49)
- - [Apple services outage hits Apple TV, Maps, &amp; App Store](https://appleinsider.com/articles/26/01/21/apple-services-outage-hits-apple-tv-maps-app-store?utm_source=rss)
- - [G42 CEO Peng Xiao says AI chip shipments from Nvidia, AMD, and Cerebras are set to arrive in the UAE within the next few months, as the UAE builds a 200MW hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p48#a260120p48)
- - [French court says Apple App Tracking Transparency function can stay](https://appleinsider.com/articles/26/01/21/french-court-says-apple-app-tracking-transparency-function-can-stay?utm_source=rss)<!-- TECH:END -->
+ - [Analysis: the Trump family has generated about $1.4B from crypto projects since Trump&#39;s inauguration a year ago, making up about one-fifth of their fortune &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p49#a260120p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

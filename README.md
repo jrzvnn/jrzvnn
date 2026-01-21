@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US colleges like Virginia Tech and Georgia Tech are using AI to streamline admissions; Virginia Tech says AI that scores essay questions saved ~8,000 hours &lpar;Francesca Maglione/Bloomberg&rpar;](http://www.techmeme.com/260121/p11#a260121p11)
+ - [Sources: OpenAI begins offering its chatbot ads to dozens of advertisers, initially charging per ad view, not per ad click, and asks them for &lt;$1M commitments &lpar;The Information&rpar;](http://www.techmeme.com/260121/p10#a260121p10)
  - [Meta Seeks to Bar Mentions of Mental Health—and Zuckerberg’s Harvard Past—From Child Safety Trial](https://www.wired.com/story/meta-child-safety-trial-ask-judge-bar-mental-health-harvard/)
  - [ChatGPT is using age prediction to restrict what minors see](https://www.theverge.com/news/864784/openai-chatgpt-age-prediction-restrictions-rollout)
- - [The AI Boom Will Increase US Carbon Emissions—but It Doesn’t Have To](https://www.wired.com/story/the-ai-boom-will-increase-us-carbon-emissions-but-it-doesnt-have-to/)
- - [As Taiwanese chipmakers push localization to secure supply chains, suppliers to the steel, plastics, and display industries are moving into Taiwan&#39;s chip sector &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/260121/p9#a260121p9)
- - [A programmer estimates his typical day of coding with Claude Code is equivalent to running the dishwasher an extra time, much more energy than a &quot;median query&quot; &lpar;Simon P. Couch&rpar;](http://www.techmeme.com/260121/p8#a260121p8)<!-- TECH:END -->
+ - [The AI Boom Will Increase US Carbon Emissions—but It Doesn’t Have To](https://www.wired.com/story/the-ai-boom-will-increase-us-carbon-emissions-but-it-doesnt-have-to/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

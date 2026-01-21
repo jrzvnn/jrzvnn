@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reese Witherspoon and her daughter](http://9gag.com/gag/aByz07Q)
- - 😝 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - 💣 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - 😝 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - 👉 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)<!-- MEMES:END -->
+ - 😝 [My managers show me this clip to complain about his secretaries&#39; dressing. But I see nothing&#39;s wrong here, they are fully clothed, polite and beautiful](http://9gag.com/gag/aE0Kggx)
+ - 😝 [Never forget](http://9gag.com/gag/aRBW0q2)
+ - 💣 [Trained](http://9gag.com/gag/aGyvg45)
+ - 😝 [Be untired and happy!](http://9gag.com/gag/aMV7YxA)
+ - 👉 [White people hiking vs black people hiking](http://9gag.com/gag/a4PgRqm)<!-- MEMES:END -->
 
 ---
 

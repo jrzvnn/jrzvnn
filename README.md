@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My managers show me this clip to complain about his secretaries&#39; dressing. But I see nothing&#39;s wrong here, they are fully clothed, polite and beautiful](http://9gag.com/gag/aE0Kggx)
- - 😝 [Never forget](http://9gag.com/gag/aRBW0q2)
- - 💣 [Trained](http://9gag.com/gag/aGyvg45)
- - 😝 [Be untired and happy!](http://9gag.com/gag/aMV7YxA)
- - 👉 [White people hiking vs black people hiking](http://9gag.com/gag/a4PgRqm)<!-- MEMES:END -->
+ - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 😝 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
+ - 💣 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 😝 [Listen to wednesday Frog people.](http://9gag.com/gag/aPAL7Pg)
+ - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
 
 ---
 

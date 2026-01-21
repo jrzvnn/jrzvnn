@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 😝 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - 💣 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
- - 😝 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
- - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
+ - 😝 [Be untired and happy!](http://9gag.com/gag/aMV7YxA)
+ - 😝 [Yes, we sacrifice those CDs to the god Nero](http://9gag.com/gag/aoyo5Gn)
+ - 💣 [White people hiking vs black people hiking](http://9gag.com/gag/a4PgRqm)
+ - 😝 [And use a paperclip to clear out the gunk.](http://9gag.com/gag/aNDMg2r)
+ - 👉 [Listen to wednesday Frog people.](http://9gag.com/gag/aPAL7Pg)<!-- MEMES:END -->
 
 ---
 

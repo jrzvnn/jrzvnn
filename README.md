@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - 😝 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - 💣 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 😝 [Women said cold, man build fire. Fire keep warm, fire keep predator away. Why woman angry?](http://9gag.com/gag/aRBWXw2)
- - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
+ - 😝 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 💣 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)
+ - 😝 [Interesting shirt](http://9gag.com/gag/ajPv95x)
+ - 👉 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)<!-- MEMES:END -->
 
 ---
 

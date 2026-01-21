@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Taiwanese chipmakers push localization to secure supply chains, suppliers to the steel, plastics, and display industries are moving into Taiwan&#39;s chip sector &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/260121/p9#a260121p9)
  - [A programmer estimates his typical day of coding with Claude Code is equivalent to running the dishwasher an extra time, much more energy than a &quot;median query&quot; &lpar;Simon P. Couch&rpar;](http://www.techmeme.com/260121/p8#a260121p8)
  - [Galaxy Digital plans to launch a hedge fund in Q1 2026 investing up to 30% in crypto tokens and the rest in financial stocks; sources say it has raised $100M &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/260121/p7#a260121p7)
  - [Bengaluru-based Amagi, an ad tools provider for broadcast and streaming TV, fell below its listing price in its India market debut after raising $196M in an IPO &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260121/p6#a260121p6)
- - [Sealy Promo Code: Save $200 on Mattresses This Month](https://www.wired.com/story/sealy-promo-code/)
- - [Thoma Bravo co-founder Orlando Bravo says the slump in software company valuations over threat of AI-driven disruption is creating a &quot;huge buying opportunity&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260121/p5#a260121p5)<!-- TECH:END -->
+ - [Sealy Promo Code: Save $200 on Mattresses This Month](https://www.wired.com/story/sealy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

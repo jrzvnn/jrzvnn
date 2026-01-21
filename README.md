@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Multiple Apple services, including Apple TV, the App Store, and iCloud have been experiencing outages since 6:48 PM ET, according to Apple&#39;s system status page &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260120/p50#a260120p50)
+ - [Analysis: the Trump family has generated about $1.4B from crypto projects since Trump&#39;s inauguration a year ago, making up about one-fifth of their fortune &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p49#a260120p49)
+ - [Apple services outage hits Apple TV, Maps, &amp; App Store](https://appleinsider.com/articles/26/01/21/apple-services-outage-hits-apple-tv-maps-app-store?utm_source=rss)
  - [G42 CEO Peng Xiao says AI chip shipments from Nvidia, AMD, and Cerebras are set to arrive in the UAE within the next few months, as the UAE builds a 200MW hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p48#a260120p48)
- - [French court says Apple App Tracking Transparency function can stay](https://appleinsider.com/articles/26/01/21/french-court-says-apple-app-tracking-transparency-function-can-stay?utm_source=rss)
- - [Sources: Applied Compute, which lets companies customize models with their own data, is in talks to raise funding at a $1.3B valuation, up from $500M in October &lpar;The Information&rpar;](http://www.techmeme.com/260120/p47#a260120p47)
- - [The EC introduces draft revisions to the EU&#39;s Cybersecurity Act to phase out equipment from high-risk suppliers in critical sectors, a move criticized by Huawei &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260120/p46#a260120p46)
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)<!-- TECH:END -->
+ - [French court says Apple App Tracking Transparency function can stay](https://appleinsider.com/articles/26/01/21/french-court-says-apple-app-tracking-transparency-function-can-stay?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

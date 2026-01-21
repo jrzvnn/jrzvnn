@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US colleges like Virginia Tech and Georgia Tech are using AI to streamline admissions; Virginia Tech says AI that scores essay questions saved ~8,000 hours &lpar;Francesca Maglione/Bloomberg&rpar;](http://www.techmeme.com/260121/p11#a260121p11)
- - [Sources: OpenAI begins offering its chatbot ads to dozens of advertisers, initially charging per ad view, not per ad click, and asks them for &lt;$1M commitments &lpar;The Information&rpar;](http://www.techmeme.com/260121/p10#a260121p10)
- - [Meta Seeks to Bar Mentions of Mental Health—and Zuckerberg’s Harvard Past—From Child Safety Trial](https://www.wired.com/story/meta-child-safety-trial-ask-judge-bar-mental-health-harvard/)
- - [ChatGPT is using age prediction to restrict what minors see](https://www.theverge.com/news/864784/openai-chatgpt-age-prediction-restrictions-rollout)
- - [The AI Boom Will Increase US Carbon Emissions—but It Doesn’t Have To](https://www.wired.com/story/the-ai-boom-will-increase-us-carbon-emissions-but-it-doesnt-have-to/)<!-- TECH:END -->
+ - [GlobalWafers Chair Doris Hsu says the Taiwanese silicon wafer maker is preparing for phase two of its Texas plant, after unveiling plans to invest an extra $4B &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260121/p14#a260121p14)
+ - [Berlin-based Cloover, which makes software to help install solar, home batteries, and heat pumps, raised $22M from Lowercarbon and others and $1.2B in debt &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/260121/p13#a260121p13)
+ - [How Ukraine and Russia both rely on the same Chinese drone suppliers, whose tech is vital to the war; China officially bans sensitive drone tech exports to both &lpar;Financial Times&rpar;](http://www.techmeme.com/260121/p12#a260121p12)
+ - [‘I’m Witnessing a Lot of Emptiness’: How ICE Uprooted Normal Life in Minneapolis](https://www.wired.com/story/how-ice-uprooted-normal-life-in-minneapolis/)
+ - [How to Fix Your Wi-Fi Problems &lpar;2026&rpar;](https://www.wired.com/story/how-to-fix-wi-fi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

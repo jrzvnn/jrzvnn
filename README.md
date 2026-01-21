@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon&amp;#8217;s prepaid services add a 365-day wait to unlock phones](https://www.theverge.com/news/864908/verizon-phone-unlocking-visible-tracfone-straight-talk-fcc)
- - [AheadComputing, which develops a breakthrough RISC-V CPU architecture for AI, raised a $30M Seed2 led by Eclipse, Toyota, and Cambium, for $53M in total funding &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260121/p31#a260121p31)
- - [Ozempic maker&#39;s &#39;I&#39;m a Mac&#39; ripoff is painfully unfunny](https://appleinsider.com/articles/26/01/21/ozempic-maker-launches-the-latest-painfully-unfunny-im-a-mac-ripoff?utm_source=rss)
- - [CNET Is Starting to Recommend Wyze Security Cams Again. Here&#39;s What&#39;s Changed](https://www.cnet.com/home/security/cnet-is-starting-to-recommend-wyze-security-cams-again/)
- - [I Made Dinner Wearing Smart Glasses. Here&#39;s How It Went](https://www.cnet.com/home/smart-home/i-tried-cooking-with-smart-glasses/)<!-- TECH:END -->
+ - [Season 5 of &#39;For All Mankind&#39; shows what happens after the space race is won](https://appleinsider.com/articles/26/01/21/season-5-of-for-all-mankind-shows-what-happens-after-the-space-race-is-won?utm_source=rss)
+ - [MAGA’s ‘Manifest Destiny’ Coalition Has Arrived](https://www.wired.com/story/maga-manifest-destiny-coalition/)
+ - [Micron Megafab Project Faces a New Hurdle as Activists Seek a Benefits Deal](https://www.wired.com/story/micron-chip-fab-community-benefits-agreement/)
+ - [This midrange Android phone also runs Windows and Linux](https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11)
+ - [Sony’s first clip-on open earbuds have a quiet mode so others can’t listen in](https://www.theverge.com/tech/864848/sony-linkbuds-clip-open-earbuds-wireless-headphones-bluetooth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

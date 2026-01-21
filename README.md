@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Interesting shirt](http://9gag.com/gag/ajPv95x)
  - 😝 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)
- - 💣 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - 😝 [Perfect loop?](http://9gag.com/gag/aD29dY9)
- - 👉 [Girl talking about friendship](http://9gag.com/gag/a2vgWND)<!-- MEMES:END -->
+ - 💣 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
+ - 😝 [Not sure if i should laugh or be sad](http://9gag.com/gag/aByz2EN)
+ - 👉 [My managers show me this clip to complain about his secretaries&#39; dressing. But I see nothing&#39;s wrong here, they are fully clothed, polite and beautiful](http://9gag.com/gag/aE0Kggx)<!-- MEMES:END -->
 
 ---
 

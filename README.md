@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - 😝 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - 💣 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)
  - 😝 [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - 👉 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)<!-- MEMES:END -->
+ - 😝 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
+ - 💣 [Greenland&#39;s been trolling the US.](http://9gag.com/gag/a87NGLQ)
+ - 😝 [I work in the warehouse](http://9gag.com/gag/adBA86N)
+ - 👉 [I can make him talk](http://9gag.com/gag/a1mgWbP)<!-- MEMES:END -->
 
 ---
 

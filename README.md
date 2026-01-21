@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At Davos, Meta CTO Andrew Bosworth says Superintelligence Labs delivered its first high-profile AI models internally this month and the models are &quot;very good&quot; &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/260121/p17#a260121p17)
- - [Israeli startup DataRails, which offers financial planning and analytics tools, raised a $70M Series C led by One Peak at an estimated $600M to $700M valuation &lpar;Globes&rpar;](http://www.techmeme.com/260121/p16#a260121p16)
- - [Chinese AI startup Zhipu says it is limiting GLM Coding Plan access after strong demand, taking only 20% of its current daily new subscriptions from January 23 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p15#a260121p15)
- - [Nikon Z5II Review: Fantastic Camera at a Budget Price](https://www.wired.com/review/nikon-z5ii-mirrorless-camera/)
- - [Pro-AI Super PACs Are Already All In on the Midterms](https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/)<!-- TECH:END -->
+ - [Salt Lake City-based Zanskar, which uses AI to find overlooked geothermal fields to boost US electricity supply, raised $115M, taking its total funding to $180M &lpar;Benoît Morenne/Wall Street Journal&rpar;](http://www.techmeme.com/260121/p22#a260121p22)
+ - [Sensor Tower: consumers spent $85B on apps globally in 2025, up 21% YoY, and, in a first, more money went on non-game mobile apps than on games, driven by GenAI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p21#a260121p21)
+ - [Japan finally gets Apple FItness+, lazily using AI-generated dubs](https://appleinsider.com/articles/26/01/21/japan-finally-gets-apple-fitness-lazily-using-ai-generated-dubs?utm_source=rss)
+ - [The BBC confirms a &quot;strategic partnership&quot; with YouTube to produce exclusive content, including news and kids shows, a landmark deal for the UK broadcaster &lpar;Alex Ritman/Variety&rpar;](http://www.techmeme.com/260121/p20#a260121p20)
+ - [Ukrainian-founded language learning marketplace Preply raised a $150M Series D led by WestCap at a $1.2B valuation; the startup has a 150-person office in Kyiv &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/260121/p19#a260121p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic’s new Claude ‘constitution’: be helpful and honest, and don’t destroy humanity](https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc)
- - [What Type of Mattress Is Right for You? &lpar;2026&rpar;](https://www.wired.com/story/mattress-types-explained/)
  - [This time it&#39;ll work: Apple rumored to be developing a wearable AI pin](https://appleinsider.com/articles/26/01/21/this-time-itll-work-apple-rumored-to-be-developing-a-wearable-ai-pin?utm_source=rss)
- - [Apple is turning Siri into an AI bot that&amp;#8217;s more like ChatGPT](https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt)
- - [Despite Apple having said otherwise, Siri may become a chatbot in iOS 27](https://appleinsider.com/articles/26/01/21/despite-apple-having-said-otherwise-siri-may-become-a-chatbot-in-ios-27?utm_source=rss)<!-- TECH:END -->
+ - [Neynar, a startup focused on decentralized social media infrastructure, is acquiring Ethereum-based social media project Farcaster from R&amp;D firm Merkle &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260121/p42#a260121p42)
+ - [Sources: AI chip startup SambaNova is seeking to raise $300M to $500M after talks to sell the company to Intel for about $1.6B, including debt, stalled &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p41#a260121p41)
+ - [Anthropic’s new Claude ‘constitution’: be helpful and honest, and don’t destroy humanity](https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc)
+ - [What Type of Mattress Is Right for You? &lpar;2026&rpar;](https://www.wired.com/story/mattress-types-explained/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon&amp;#8217;s prepaid services add a 365-day wait to unlock phones](https://www.theverge.com/news/864908/verizon-phone-unlocking-visible-tracfone-straight-talk-fcc)
+ - [AheadComputing, which develops a breakthrough RISC-V CPU architecture for AI, raised a $30M Seed2 led by Eclipse, Toyota, and Cambium, for $53M in total funding &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260121/p31#a260121p31)
  - [Ozempic maker&#39;s &#39;I&#39;m a Mac&#39; ripoff is painfully unfunny](https://appleinsider.com/articles/26/01/21/ozempic-maker-launches-the-latest-painfully-unfunny-im-a-mac-ripoff?utm_source=rss)
  - [CNET Is Starting to Recommend Wyze Security Cams Again. Here&#39;s What&#39;s Changed](https://www.cnet.com/home/security/cnet-is-starting-to-recommend-wyze-security-cams-again/)
- - [I Made Dinner Wearing Smart Glasses. Here&#39;s How It Went](https://www.cnet.com/home/smart-home/i-tried-cooking-with-smart-glasses/)
- - [Gemini AI Is Coming for Your Gmail Inbox. Here&#39;s What to Expect and How to Turn It Off](https://www.cnet.com/tech/google-gmail-ai-inbox-gemini-features/)
- - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)<!-- TECH:END -->
+ - [I Made Dinner Wearing Smart Glasses. Here&#39;s How It Went](https://www.cnet.com/home/smart-home/i-tried-cooking-with-smart-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

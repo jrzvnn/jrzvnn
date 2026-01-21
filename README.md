@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo aims for an EV reset with the new EX60 crossover](https://www.theverge.com/news/864561/volvo-ex60-range-price-specs)
- - [Ubisoft cancels Prince of Persia remake as part of major reorganization](https://www.theverge.com/news/865060/ubisoft-prince-of-persia-sands-of-time-remake-canceled-reorganization)
- - [Meta plans to expand ads on Threads to all users globally starting next week; Threads began testing ads in the US and Japan a year ago &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p33#a260121p33)
- - [ElevenLabs made an AI album to plug its music generator](https://www.theverge.com/news/864843/elevenlabs-ai-music-eleven-album-release)
- - [Trump is steamrolling global calls for a moratorium on deep-sea mining](https://www.theverge.com/news/864916/deep-sea-mining-trump-fast-track-permits-battery-minerals)<!-- TECH:END -->
+ - [Ubisoft cancels six games and delays others amid a restructuring into five genre-specific &quot;creative houses&quot;; it expects net bookings of ~€1.5B for FY 2025-2026 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/260121/p35#a260121p35)
+ - [Anthropic overhauled Claude&#39;s &quot;Constitution&quot; to enable the AI to generalize and apply broad principles rather than mechanically follow specific rules &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/260121/p34#a260121p34)
+ - [Netflix: 26 of Best Sci-Fi TV Shows To Stream Right Now](https://www.cnet.com/tech/services-and-software/netflix-best-sci-fi-tv-shows/)
+ - [How to Give Your Old TV a Second Life](https://www.cnet.com/tech/home-entertainment/how-to-give-your-old-tv-a-second-life/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 21, #955](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-21-955/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

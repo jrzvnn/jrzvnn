@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
  - 😝 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - 💣 [I love pizza, but who tf slice a pizza like that???](http://9gag.com/gag/aoyoObn)
- - 😝 [Been a while...](http://9gag.com/gag/aByzmY2)
- - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
+ - 😝 [Guess some things just aren&#39;t taught anymore](http://9gag.com/gag/a5QgnOO)
+ - 💣 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 😝 [That was a joke back in the days. Not anymore. makes you wonder](http://9gag.com/gag/aO8E06y)
+ - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
 
 ---
 

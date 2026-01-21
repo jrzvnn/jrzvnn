@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ozempic maker launches the latest painfully unfunny &#39;I&#39;m a Mac&#39; ripoff](https://appleinsider.com/articles/26/01/21/ozempic-maker-launches-the-latest-painfully-unfunny-im-a-mac-ripoff?utm_source=rss)
- - [Upscale AI, which is building AI networking infrastructure, raised $200M led by Tiger, Premji Invest, and Xora Innovation at a $1B valuation to take on Cisco &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260121/p29#a260121p29)
- - [Sources: Elon Musk is pushing for a SpaceX IPO by July, seems eager to beat OpenAI and Anthropic to market, and views it as a way to help xAI catch its rivals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260121/p28#a260121p28)
- - [YouTube CEO Neal Mohan says creators can generate Shorts using their AI likenesses later in 2026, but offers few details, and touts AI tools like game makers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260121/p27#a260121p27)
- - [Instagram’s top boss is missing the point about AI on the platform](https://www.theverge.com/tech/864768/instagram-adam-mosseri-ai-content-algorithm)<!-- TECH:END -->
+ - [Ozempic maker&#39;s &#39;I&#39;m a Mac&#39; ripoff is painfully unfunny](https://appleinsider.com/articles/26/01/21/ozempic-maker-launches-the-latest-painfully-unfunny-im-a-mac-ripoff?utm_source=rss)
+ - [CNET Is Starting to Recommend Wyze Security Cams Again. Here&#39;s What&#39;s Changed](https://www.cnet.com/home/security/cnet-is-starting-to-recommend-wyze-security-cams-again/)
+ - [I Made Dinner Wearing Smart Glasses. Here&#39;s How It Went](https://www.cnet.com/home/smart-home/i-tried-cooking-with-smart-glasses/)
+ - [Gemini AI Is Coming for Your Gmail Inbox. Here&#39;s What to Expect and How to Turn It Off](https://www.cnet.com/tech/google-gmail-ai-inbox-gemini-features/)
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

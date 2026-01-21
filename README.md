@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At Davos, Meta CTO Andrew Bosworth says Superintelligence Labs delivered its first high-profile AI models internally this month and the models are &quot;very good&quot; &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/260121/p17#a260121p17)
  - [Israeli startup DataRails, which offers financial planning and analytics tools, raised a $70M Series C led by One Peak at an estimated $600M to $700M valuation &lpar;Globes&rpar;](http://www.techmeme.com/260121/p16#a260121p16)
  - [Chinese AI startup Zhipu says it is limiting GLM Coding Plan access after strong demand, taking only 20% of its current daily new subscriptions from January 23 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p15#a260121p15)
  - [Nikon Z5II Review: Fantastic Camera at a Budget Price](https://www.wired.com/review/nikon-z5ii-mirrorless-camera/)
- - [Pro-AI Super PACs Are Already All In on the Midterms](https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/)
- - [GlobalWafers Chair Doris Hsu says the Taiwanese silicon wafer maker is preparing for phase two of its Texas plant, after unveiling plans to invest an extra $4B &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260121/p14#a260121p14)<!-- TECH:END -->
+ - [Pro-AI Super PACs Are Already All In on the Midterms](https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

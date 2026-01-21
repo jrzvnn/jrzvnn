@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)
  - 😝 [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - 😝 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - 💣 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)
+ - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
  - 😝 [Not sure if i should laugh or be sad](http://9gag.com/gag/aByz2EN)
  - 👉 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)<!-- MEMES:END -->
 

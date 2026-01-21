@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Payments using facial recognition are growing in South Korea as the tech improves; South Korean fintech app Toss has scaled its &quot;Facepay&quot; service to 1M+ users &lpar;Nami Matsuura/Nikkei Asia&rpar;](http://www.techmeme.com/260121/p4#a260121p4)
+ - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
+ - [Tuft &amp; Needle Promo Codes: 20% Off | January 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
  - [The Gates Foundation and OpenAI plan to invest $50M to use AI to ease the impact of chronic staff shortages in 1,000 primary health clinics in Africa by 2028 &lpar;Financial Times&rpar;](http://www.techmeme.com/260121/p3#a260121p3)
- - [Apple wins dismissal of parts of a class action alleging it violated CA privacy law by collecting user data from its apps despite users believing they opted out &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/260121/p2#a260121p2)
- - [Signal&#39;s Meredith Whittaker says deeper integration of AI agents into devices is &quot;perilous&quot; for encryption, since agents need access to lots of data across apps &lpar;Shona Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260121/p1#a260121p1)
- - [China&#39;s Cyberspace Administration requires firms to file their AI tools in a public algorithm registry, creating a detailed map of the country&#39;s AI ecosystem &lpar;Yi-Ling Liu/Wired&rpar;](http://www.techmeme.com/260120/p53#a260120p53)
- - [Apple services outage hit Apple TV, Maps, &amp; App Store](https://appleinsider.com/articles/26/01/21/apple-services-outage-hits-apple-tv-maps-app-store?utm_source=rss)<!-- TECH:END -->
+ - [Apple wins dismissal of parts of a class action alleging it violated CA privacy law by collecting user data from its apps despite users believing they opted out &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/260121/p2#a260121p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

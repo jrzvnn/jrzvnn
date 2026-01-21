@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple services outage hit Apple TV, Maps, &amp; App Store](https://appleinsider.com/articles/26/01/21/apple-services-outage-hits-apple-tv-maps-app-store?utm_source=rss)
+ - [OpenAI says it will cover the costs of developing energy-related infrastructure at its Stargate data centers to ensure they don&#39;t raise consumers&#39; utility bills &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p52#a260120p52)
  - [Barret Zoph says Thinking Machines Lab fired him only after learning he was leaving, and at no time did the company cite his performance or unethical conduct &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260120/p51#a260120p51)
  - [One year in, Big Tech has out-maneuvered MAGA populists](https://www.theverge.com/column/864759/big-tech-trump-one-year-in)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-21/)
- - [Multiple Apple services, including Apple TV, the App Store, and iCloud have been experiencing outages since 6:48 PM ET, according to Apple&#39;s system status page &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260120/p50#a260120p50)
- - [Analysis: the Trump family has generated about $1.4B from crypto projects since Trump&#39;s inauguration a year ago, making up about one-fifth of their fortune &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p49#a260120p49)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-21/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

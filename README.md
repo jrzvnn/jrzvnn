@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Detective games get extra cryptic with TR-49’s code-breaking mystery](https://www.theverge.com/games/864630/tr49-review-steam-iphone)
+ - [At Davos, Jensen Huang says AI is already bringing economic benefits and needs more investment, and an &quot;AI bubble comes about because the investments are large&quot; &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/260121/p24#a260121p24)
+ - [OpenEvidence, which is building &quot;ChatGPT for doctors&quot;, raised $250M led by Thrive and DST at a $12B valuation, up from $6B in October and $1B in February 2025 &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/260121/p23#a260121p23)
  - [Salt Lake City-based Zanskar, which uses AI to find overlooked geothermal fields to boost US electricity supply, raised $115M, taking its total funding to $180M &lpar;Benoît Morenne/Wall Street Journal&rpar;](http://www.techmeme.com/260121/p22#a260121p22)
- - [Sensor Tower: consumers spent $85B on apps globally in 2025, up 21% YoY, and, in a first, more money went on non-game mobile apps than on games, driven by GenAI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p21#a260121p21)
- - [Japan finally gets Apple FItness+, lazily using AI-generated dubs](https://appleinsider.com/articles/26/01/21/japan-finally-gets-apple-fitness-lazily-using-ai-generated-dubs?utm_source=rss)
- - [The BBC confirms a &quot;strategic partnership&quot; with YouTube to produce exclusive content, including news and kids shows, a landmark deal for the UK broadcaster &lpar;Alex Ritman/Variety&rpar;](http://www.techmeme.com/260121/p20#a260121p20)
- - [Ukrainian-founded language learning marketplace Preply raised a $150M Series D led by WestCap at a $1.2B valuation; the startup has a 150-person office in Kyiv &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/260121/p19#a260121p19)<!-- TECH:END -->
+ - [Sensor Tower: consumers spent $85B on apps globally in 2025, up 21% YoY, and, in a first, more money went on non-game mobile apps than on games, driven by GenAI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p21#a260121p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

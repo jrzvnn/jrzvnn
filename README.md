@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen to wednesday Frog people.](http://9gag.com/gag/aPAL7Pg)
- - 😝 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
- - 💣 [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - 😝 [I&#39;m all in](http://9gag.com/gag/aW4yxdd)
- - 👉 [Too late](http://9gag.com/gag/a7ogELr)<!-- MEMES:END -->
+ - 😝 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
+ - 😝 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
+ - 💣 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 😝 [Women said cold, man build fire. Fire keep warm, fire keep predator away. Why woman angry?](http://9gag.com/gag/aRBWXw2)
+ - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
 
 ---
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s John Ternus solidifies his role as CEO-apparent amid design team shakeup](https://appleinsider.com/articles/26/01/22/apples-john-ternus-solidifies-his-role-as-ceo-apparent-amid-design-team-shakeup?utm_source=rss)
+ - [John Ternus solidifies his role as Apple CEO-apparent amid design team shakeup](https://appleinsider.com/articles/26/01/22/apples-john-ternus-solidifies-his-role-as-ceo-apparent-amid-design-team-shakeup?utm_source=rss)
  - [Google launches free SAT practice exams in the Gemini app, providing students with performance analysis and detailed explanations for incorrect answers &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260122/p43#a260122p43)
  - [Amazon’s Fire TV Stick 4K Plus is on sale for just $18 right now](https://www.theverge.com/gadgets/865230/amazon-fire-tv-stick-4k-plus-iphone-air-magsafe-battery-deal-sale)
  - [The curl project plans to end its HackerOne bug bounty program at the end of January, citing a surge in low-quality AI-generated vulnerability reports &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260122/p42#a260122p42)

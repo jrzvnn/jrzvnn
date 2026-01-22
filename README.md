@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A year after the DeepSeek shock following R1&#39;s release, US tech companies still lead in AI chips, model quality, and sales, with no change in investment trends &lpar;Chris Miller/Barron&#39;s Online&rpar;](http://www.techmeme.com/260122/p4#a260122p4)
- - [German exchange operator Deutsche Boerse agrees to acquire European fund distribution platform Allfunds for about $6.2B in cash and stock &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p3#a260122p3)
- - [H&amp;R Block Coupons and Deals: 20% Off Tax Prep in 2026](https://www.wired.com/story/hr-block-coupon/)
- - [HBO Max Promo Code: 50% Off | January](https://www.wired.com/story/max-promo-code/)
- - [Japanese NAND flash maker Kioxia&#39;s stock is up ~800% over the past 12 months, as AI demand and constrained NAND flash supply boost the chipmaker&#39;s pricing power &lpar;Financial Times&rpar;](http://www.techmeme.com/260122/p2#a260122p2)<!-- TECH:END -->
+ - [Survey: over 40% of executives said AI saved them more than eight hours per week, while two-thirds of non-management staff said they saved less than two hours &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/260122/p6#a260122p6)
+ - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)
+ - [20% Off LG Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/lg-promo-code/)
+ - [Sources: the US Senate&#39;s crypto market structure bill is likely to be delayed by several weeks as key lawmakers shift focus to potential housing legislation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p5#a260122p5)
+ - [Nike Promo Codes and Deals: Up to 40% Off](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

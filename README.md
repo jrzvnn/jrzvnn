@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not sure if i should laugh or be sad](http://9gag.com/gag/aByz2EN)
- - 😝 [I hate when this happens](http://9gag.com/gag/a0egZDq)
- - 💣 [Jacket potato \u21161](http://9gag.com/gag/aGyvpnK)
- - 😝 [He is ready](http://9gag.com/gag/amoQgZV)
- - 👉 [Don&#39;t mind if I do..](http://9gag.com/gag/a2vg181)<!-- MEMES:END -->
+ - 😝 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
+ - 😝 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 💣 [Singeing a Bull\u2019s Coat Removes Parasites and Prepares the Hide Without Harming the Skin](http://9gag.com/gag/a4Pg1P6)
+ - 😝 [You know, I&#39;m something of an internet micro-niche celebrity myself](http://9gag.com/gag/aZZXrXV)
+ - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 ---
 

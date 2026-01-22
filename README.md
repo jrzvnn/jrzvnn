@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - 😝 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
- - 💣 [Singeing a Bull\u2019s Coat Removes Parasites and Prepares the Hide Without Harming the Skin](http://9gag.com/gag/a4Pg1P6)
- - 😝 [Biblically accurate Liam Neeson](http://9gag.com/gag/aD29DrK)
- - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
+ - 😝 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
+ - 😝 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 💣 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 😝 [Now you&#39;re on a list](http://9gag.com/gag/ae9zgWq)
+ - 👉 [Singeing a Bull\u2019s Coat Removes Parasites and Prepares the Hide Without Harming the Skin](http://9gag.com/gag/a4Pg1P6)<!-- MEMES:END -->
 
 ---
 

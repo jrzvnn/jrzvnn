@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
  - 😝 [Interesting shirt](http://9gag.com/gag/ajPv95x)
  - 💣 [Title](http://9gag.com/gag/aZZX0Rn)
- - 😝 [I can make him talk](http://9gag.com/gag/a1mgWbP)
- - 👉 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)<!-- MEMES:END -->
+ - 😝 [I work in the warehouse](http://9gag.com/gag/adBA86N)
+ - 👉 [I can make him talk](http://9gag.com/gag/a1mgWbP)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
+ - 😝 [Reese Witherspoon and her daughter](http://9gag.com/gag/aByz07Q)
+ - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - 💣 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
  - 😝 [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - 💣 [Title](http://9gag.com/gag/aZZX0Rn)
- - 😝 [I work in the warehouse](http://9gag.com/gag/adBA86N)
- - 👉 [I can make him talk](http://9gag.com/gag/a1mgWbP)<!-- MEMES:END -->
+ - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 ---
 

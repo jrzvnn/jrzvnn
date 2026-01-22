@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Accountability, zero](http://9gag.com/gag/axyKMKn)
- - 😝 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
- - 💣 [LOL](http://9gag.com/gag/aKGZmdO)
- - 😝 [The counter protest we all need](http://9gag.com/gag/aVvrbjK)
- - 👉 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)<!-- MEMES:END -->
+ - 😝 [Don&#39;t mind if I do..](http://9gag.com/gag/a2vg181)
+ - 😝 [I hate when this happens](http://9gag.com/gag/a0egZDq)
+ - 💣 [`You can&#39;t defeat me!.` `No, I know. But he can!`](http://9gag.com/gag/a1mg132)
+ - 😝 [Honest Suggestion](http://9gag.com/gag/amoQgBV)
+ - 👉 [Geralt, when he sees a monster &lpar;with sound&rpar;](http://9gag.com/gag/aE0K8Lp)<!-- MEMES:END -->
 
 ---
 

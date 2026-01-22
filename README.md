@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Singeing a Bull\u2019s Coat Removes Parasites and Prepares the Hide Without Harming the Skin](http://9gag.com/gag/a4Pg1P6)
- - 😝 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - 😝 [Equal pay:](http://9gag.com/gag/a0egNgX)
  - 💣 [LOL](http://9gag.com/gag/aKGZmdO)
  - 😝 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 👉 [Equal pay:](http://9gag.com/gag/a0egNgX)<!-- MEMES:END -->
+ - 👉 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)<!-- MEMES:END -->
 
 ---
 

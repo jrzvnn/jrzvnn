@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [1Password is introducing a new phishing prevention feature](https://www.theverge.com/tech/864980/1password-security-phishing-attack-prevention-password-browser-extension-scammers)
- - [Adobe is developing “IP-safe” gen AI models for the entertainment industry](https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models)
- - [Waymo is accepting public riders in Miami](https://www.theverge.com/transportation/865145/waymo-miami-public-riders-waitlist)
- - [The Best Motorola Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [Q&amp;A with Netflix co-CEO Greg Peters on Netflix&#39;s stock roller coaster, viewer engagement, ads, the WBD acquisition, regulation, competition, Hollywood, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260122/p22#a260122p22)<!-- TECH:END -->
+ - [&#39;F1&#39; driving Apple&#39;s Oscar awards ambitions in 2026](https://appleinsider.com/articles/26/01/22/f1-driving-apples-oscar-awards-ambitions-in-2026?utm_source=rss)
+ - [Nintendo is following up Alarmo with a weird Talking Flower in March](https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder)
+ - [A look at Craig Federighi&#39;s approach to AI at Apple; sources say he led a push to use other companies&#39; models to help launch a revamped Siri later in 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260122/p25#a260122p25)
+ - [Circana: the Switch 2 ended December and 2025 as the US&#39; best-selling video game hardware, offsetting declines among rivals to lift overall hardware spend by 9% &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260122/p24#a260122p24)
+ - [Q&amp;A with Yann LeCun on his new Paris-based startup Advanced Machine Intelligence, leaving Meta, real-world applications for world models, robotics, and more &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260122/p23#a260122p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

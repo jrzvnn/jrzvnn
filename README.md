@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo launches its robotaxi service in Miami, its sixth market, initially covering a 60-square-mile area, and partners with Moove for fleet management &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260122/p26#a260122p26)
+ - [This plugin uses Wikipedia&amp;#8217;s AI-spotting guide to make AI writing sound more human](https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill)
  - [&#39;F1&#39; driving Apple&#39;s Oscar awards ambitions in 2026](https://appleinsider.com/articles/26/01/22/f1-driving-apples-oscar-awards-ambitions-in-2026?utm_source=rss)
  - [Nintendo is following up Alarmo with a weird Talking Flower in March](https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder)
- - [A look at Craig Federighi&#39;s approach to AI at Apple; sources say he led a push to use other companies&#39; models to help launch a revamped Siri later in 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260122/p25#a260122p25)
- - [Circana: the Switch 2 ended December and 2025 as the US&#39; best-selling video game hardware, offsetting declines among rivals to lift overall hardware spend by 9% &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260122/p24#a260122p24)
- - [Q&amp;A with Yann LeCun on his new Paris-based startup Advanced Machine Intelligence, leaving Meta, real-world applications for world models, robotics, and more &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260122/p23#a260122p23)<!-- TECH:END -->
+ - [A look at Craig Federighi&#39;s approach to AI at Apple; sources say he led a push to use other companies&#39; models to help launch a revamped Siri later in 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260122/p25#a260122p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

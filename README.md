@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t mind if I do..](http://9gag.com/gag/a2vg181)
- - 😝 [I hate when this happens](http://9gag.com/gag/a0egZDq)
- - 💣 [`You can&#39;t defeat me!.` `No, I know. But he can!`](http://9gag.com/gag/a1mg132)
- - 😝 [Honest Suggestion](http://9gag.com/gag/amoQgBV)
- - 👉 [Geralt, when he sees a monster &lpar;with sound&rpar;](http://9gag.com/gag/aE0K8Lp)<!-- MEMES:END -->
+ - 😝 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
+ - 😝 [Free falling](http://9gag.com/gag/aZZX0n0)
+ - 💣 [POV U defend your village against the Vikings](http://9gag.com/gag/aAyAeL2)
+ - 😝 [Equal pay:](http://9gag.com/gag/a0egNgX)
+ - 👉 [LOL](http://9gag.com/gag/aKGZmdO)<!-- MEMES:END -->
 
 ---
 

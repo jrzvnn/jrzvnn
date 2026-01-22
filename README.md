@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Search AI Mode can use Gmail and Photos to get to know you](https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update)
+ - [Cambio, creator of AI-powered commercial real estate software for institutional investors, raised an $18M Series A led by Maverick Ventures at a $100M valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260122/p30#a260122p30)
+ - [Apple &amp; Google&#39;s AI deal clears biggest hurdle blocking smart home accessory release](https://appleinsider.com/articles/26/01/22/apple-googles-ai-deal-clears-biggest-hurdle-blocking-smart-home-accessory-release?utm_source=rss)
  - [Superstate raised an $82.5M Series B to expand from tokenized Treasury offerings into SEC-registered equities on Ethereum and Solana &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/260122/p29#a260122p29)
- - [Lenovo wants other companies to make accessories for its modular laptops.](https://www.theverge.com/tech/865656/lenovo-thinkbook-laptop-magicbay-modular-magnetic-accessories-third-party)
- - [AMD’s faster Ryzen 7 9850X3D CPU arrives on January 29th for $499](https://www.theverge.com/news/865648/amd-ryzen-7-9850x3d-price-release-date-announcement)
- - [Adobe rolls out Firefly Foundry, which creates AI-generated &quot;commercially safe&quot; images, video, and more grounded in a brand or franchise&#39;s creative universe &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/260122/p28#a260122p28)
- - [Autodesk plans to cut about 1,000 jobs, or ~7% of its workforce, as part of a global restructuring plan seeking to strengthen sales and marketing &lpar;Robb M. Stewart/Wall Street Journal&rpar;](http://www.techmeme.com/260122/p27#a260122p27)<!-- TECH:END -->
+ - [Lenovo wants other companies to make accessories for its modular laptops.](https://www.theverge.com/tech/865656/lenovo-thinkbook-laptop-magicbay-modular-magnetic-accessories-third-party)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

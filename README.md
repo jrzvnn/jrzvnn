@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring claims it&amp;#8217;s not giving ICE access to its cameras](https://www.theverge.com/news/866003/ring-ice-camera-access-flock)
+ - [Elon Musk Sure Made Lots of Predictions at Davos](https://www.wired.com/story/elon-musk-sure-made-lots-of-predictions-at-davos/)
+ - [Analysis: the top US tech companies spent $109M on DC lobbying in 2025, topping $100M for the first time; Meta spent $26.29M, Amazon $17.78M, and Google $13.1M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p46#a260122p46)
+ - [Ring says it&amp;#8217;s not giving ICE access to its cameras](https://www.theverge.com/news/866003/ring-ice-camera-access-flock)
  - [Substack is launching a TV app, and not everyone is happy](https://www.theverge.com/news/866054/substack-tv-app-beta-launch-newsletters)
- - [Binance files for a European MiCA license in Greece, where it has also set up a holding company &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260122/p45#a260122p45)
- - [&#39;Stealing Isn&#39;t Innovation&#39; campaign suggests that there&#39;s an ethical way to rip off human creativity](https://appleinsider.com/articles/26/01/22/stealing-isnt-innovation-campaign-suggests-that-theres-an-ethical-way-to-rip-off-human-creativity?utm_source=rss)
- - [What Happens When a Chinese Battery Factory Comes to Town](https://www.wired.com/story/chinese-battery-makers-are-building-factories-across-the-world/)<!-- TECH:END -->
+ - [Binance files for a European MiCA license in Greece, where it has also set up a holding company &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260122/p45#a260122p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yelp acquires Hatch, which charges a monthly fee for AI-powered agents that can respond to customer inquiries and make appointments, for $300M &lpar;Laura Mandaro/The Information&rpar;](http://www.techmeme.com/260122/p39#a260122p39)
- - [Forza Horizon 6 launches in May](https://www.theverge.com/news/865355/forza-horizon-6-xbox-developer-direct-2026)
- - [Apple&#39;s AI pin has a Siri-shaped problem, and that&#39;s just the start](https://appleinsider.com/articles/26/01/22/apples-ai-pin-has-a-siri-shaped-problem-and-thats-just-the-start?utm_source=rss)
- - [Xbox Developer Direct 2026: the biggest games and announcements](https://www.theverge.com/games/865573/xbox-developer-direct-2026-the-biggest-games-and-announcements)
- - [Netflix Goes Vertical: More Phone-First Shows Coming in 2026](https://www.cnet.com/tech/services-and-software/netflix-goes-vertical-more-phone-first-shows-coming-in-2026/)<!-- TECH:END -->
+ - [Sources: Apple expanded the job of hardware chief John Ternus to manage design teams at the end of 2025, solidifying his status as a leading CEO candidate &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260122/p40#a260122p40)
+ - [Fable is coming to PS5 when it finally launches this fall](https://www.theverge.com/news/865305/fable-xbox-playground-games-developer-direct-2026-ps5-pc)
+ - [How Claude Code Is Reshaping Software—and Anthropic](https://www.wired.com/story/claude-code-success-anthropic-business-model/)
+ - [AI-Powered Disinformation Swarms Are Coming for Democracy](https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/)
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

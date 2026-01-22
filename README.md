@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search AI Mode can use Gmail and Photos to get to know you](https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update)
- - [Cambio, creator of AI-powered commercial real estate software for institutional investors, raised an $18M Series A led by Maverick Ventures at a $100M valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260122/p30#a260122p30)
- - [Apple &amp; Google&#39;s AI deal clears biggest hurdle blocking smart home accessory release](https://appleinsider.com/articles/26/01/22/apple-googles-ai-deal-clears-biggest-hurdle-blocking-smart-home-accessory-release?utm_source=rss)
- - [Superstate raised an $82.5M Series B to expand from tokenized Treasury offerings into SEC-registered equities on Ethereum and Solana &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/260122/p29#a260122p29)
- - [Lenovo wants other companies to make accessories for its modular laptops.](https://www.theverge.com/tech/865656/lenovo-thinkbook-laptop-magicbay-modular-magnetic-accessories-third-party)<!-- TECH:END -->
+ - [Why nobody&amp;#8217;s stopping Grok](https://www.theverge.com/podcast/865275/grok-deepfake-undressing-elon-musk-content-moderation)
+ - [Mistral&#39;s CEO says claims that Chinese AI startups lag behind the US are a &quot;fairy tale,&quot; and China&#39;s open-source tech is &quot;probably stressing&quot; US CEOs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p33#a260122p33)
+ - [Android should be Utah&#39;s state phone, says senator who has better things to do](https://appleinsider.com/articles/26/01/22/android-should-be-utahs-state-phone-says-senator-who-has-better-things-to-do?utm_source=rss)
+ - [Spotify expands its AI-powered Prompted Playlists beta to Premium subscribers in the US and Canada, following initial testing in New Zealand &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260122/p32#a260122p32)
+ - [Google rolls out Personal Intelligence in AI Mode, providing access to users&#39; Gmail and Google Photos for more tailored responses, for US Pro and Ultra subs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260122/p31#a260122p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

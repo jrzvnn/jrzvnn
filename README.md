@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic and Google have a secret $800 million Unreal Engine and services deal](https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement)
  - [Capital One agrees to acquire Brex, which specializes in tech to administer corporate credit cards, expenses, and rewards, for $5.15B in cash and stock &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260122/p48#a260122p48)
  - [Sen. Markey questions OpenAI about ‘deceptive advertising’ in ChatGPT](https://www.theverge.com/news/865854/senator-ed-markey-ai-companies-chatbots-advertising)
  - [Tesla is finally doing unsupervised robotaxi rides](https://www.theverge.com/transportation/866165/tesla-robotaxi-unsupervised-austin-texas-safety-monitor)
- - [Intel reports Q4 revenue down 4% YoY to $13.7B, vs. $13.4B est., a $600M net loss, up from $100M in Q4 2024, offers soft Q1 guidance; INTC down 6%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/260122/p47#a260122p47)
- - [Elon Musk Sure Made Lots of Predictions at Davos](https://www.wired.com/story/elon-musk-sure-made-lots-of-predictions-at-davos/)<!-- TECH:END -->
+ - [Intel reports Q4 revenue down 4% YoY to $13.7B, vs. $13.4B est., a $600M net loss, up from $100M in Q4 2024, offers soft Q1 guidance; INTC down 6%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/260122/p47#a260122p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

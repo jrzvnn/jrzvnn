@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Google, Huawei, Microsoft, and Nvidia, as well as startups and university research teams, spent millions of dollars to develop AI weather forecasting tools &lpar;Tim Fernholz/Bloomberg&rpar;](http://www.techmeme.com/260122/p15#a260122p15)
+ - [How to Meditate &lpar;Without an Om in Sight&rpar; &lpar;2026&rpar;](https://www.wired.com/story/how-to-meditate/)
  - [Cate Blanchett, Cyndi Lauper, and 800+ creatives launch &quot;Stealing Isn&#39;t Innovation&quot; to protest unauthorized AI training, backed by RIAA, SAG-AFTRA, and others &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/260122/p14#a260122p14)
  - [An analysis of 5,290 AI research papers at NeurIPS: 141, or ~3%, had US-China AI lab collaboration, up from 134 in 2024; Llama featured in 106 Chinese papers &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/260122/p13#a260122p13)
- - [Hate Your iPhone&#39;s New Liquid Glass Design in iOS 26? Here&#39;s How to Change It](https://www.cnet.com/tech/services-and-software/apple-iphone-ios-26-1-liquid-glass-design-change/)
- - [The US Is In For Another Bad Year of Measles Cases](https://www.wired.com/story/the-us-is-in-for-another-bad-year-of-measles-cases/)
- - [We Are Witnessing the Self-Immolation of a Superpower](https://www.wired.com/story/donald-trump-has-fully-set-fire-to-what-made-america-great/)<!-- TECH:END -->
+ - [Hate Your iPhone&#39;s New Liquid Glass Design in iOS 26? Here&#39;s How to Change It](https://www.cnet.com/tech/services-and-software/apple-iphone-ios-26-1-liquid-glass-design-change/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

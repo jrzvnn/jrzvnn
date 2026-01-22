@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Origin’s Starlink rival TeraWave promises 6 terabit satellite internet](https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb)
- - [Layoffs hit Vimeo for the second time since September 2025, when it laid off 10% of its workforce; Bending Spoons acquired Vimeo for around $1.38B in November &lpar;Business Insider&rpar;](http://www.techmeme.com/260121/p47#a260121p47)
- - [NYT Games Expands Its Puzzle Empire With Scrabble-Like Crossplay](https://www.cnet.com/tech/services-and-software/nyt-games-expands-its-puzzle-empire-with-scrabble-like-crossplay/)
- - [Everyone can hear your TV in their headphones using this transmitter](https://www.theverge.com/tech/864569/sennheiser-bluetooth-auracast-bta1-transmitter-hdr-275-wireless-headphones)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [Marketing tech startup Applecart raised $100M in a minority funding round led by Blackstone&#39;s growth equity business, a source says at a ~$700M valuation &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/260121/p49#a260121p49)
+ - [Anker Nano Charger with display review: New travel charger knows your iPhone](https://appleinsider.com/articles/26/01/22/anker-nano-charger-with-display-review-new-travel-charger-knows-your-iphone?utm_source=rss)
+ - [X unveils Bluesky-like &quot;Starterpacks&quot; to help users find accounts that match their interests, curated by X and rolling out in the coming weeks &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p48#a260121p48)
+ - [Best Unlimited Data Plans for 2026](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/)
+ - [Winter Storm Warning: What&#39;s Coming, Who&#39;s at Risk and How To Prepare](https://www.cnet.com/science/climate/winter-storm-warning-whats-coming-whos-at-risk-and-how-to-prepare/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

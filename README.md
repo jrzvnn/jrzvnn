@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with recently departed OpenAI VP of Research Jerry Tworek, who claims OpenAI&#39;s shift toward more conservative ways made high-risk, pioneering work harder &lpar;Core Memory&rpar;](http://www.techmeme.com/260122/p8#a260122p8)
  - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)
  - [A look at the entry-level hiring squeeze in marketing, communications, and customer service as executives increasingly argue AI can absorb much of the workload &lpar;Anjli Raval/Financial Times&rpar;](http://www.techmeme.com/260122/p7#a260122p7)
  - [Hungryroot Coupon Codes: 30% Off This January](https://www.wired.com/story/hungryroot-promo-code/)
- - [Survey: over 40% of executives said AI saved them more than eight hours per week, while two-thirds of non-management staff said they saved less than two hours &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/260122/p6#a260122p6)
- - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
+ - [Survey: over 40% of executives said AI saved them more than eight hours per week, while two-thirds of non-management staff said they saved less than two hours &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/260122/p6#a260122p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

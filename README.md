@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Amazon is planning a second round of job cuts next week as part of its goal of trimming 30,000 corporate workers, after cutting 14,000 jobs in October &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260122/p50#a260122p50)
+ - [Snow, Ice, and Power Outages? What This Winter Storm Could Mean for You](https://www.cnet.com/science/climate/winter-storm-warning-whats-coming-whos-at-risk-and-how-to-prepare/)
  - [Epic v. Google: Epic and Google have a secret deal involving Unreal Engine, Fortnite, and Android, with Epic spending $800M over six years on Google services &lpar;The Verge&rpar;](http://www.techmeme.com/260122/p49#a260122p49)
  - [Nintendo is following up Alarmo with a weird Talking Flower in March](https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder)
- - [Apple Watch makes it much easier to detect arrhythmia, study reveals](https://appleinsider.com/articles/26/01/22/apple-watch-makes-it-much-easier-to-detect-arrhythmia-study-reveals?utm_source=rss)
- - [Legislators Push to Make Companies Tell Customers When Their Products Will Die](https://www.wired.com/story/legislators-push-to-make-companies-tell-customers-when-their-products-will-die/)<!-- TECH:END -->
+ - [Apple Watch makes it much easier to detect arrhythmia, study reveals](https://appleinsider.com/articles/26/01/22/apple-watch-makes-it-much-easier-to-detect-arrhythmia-study-reveals?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

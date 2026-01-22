@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple expanded the job of hardware chief John Ternus to manage design teams at the end of 2025, solidifying his status as a leading CEO candidate &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260122/p40#a260122p40)
- - [Fable is coming to PS5 when it finally launches this fall](https://www.theverge.com/news/865305/fable-xbox-playground-games-developer-direct-2026-ps5-pc)
- - [How Claude Code Is Reshaping Software—and Anthropic](https://www.wired.com/story/claude-code-success-anthropic-business-model/)
- - [AI-Powered Disinformation Swarms Are Coming for Democracy](https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/)
- - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [Apple&#39;s John Ternus solidifies his role as CEO-apparent amid design team shakeup](https://appleinsider.com/articles/26/01/22/apples-john-ternus-solidifies-his-role-as-ceo-apparent-amid-design-team-shakeup?utm_source=rss)
+ - [Google launches free SAT practice exams in the Gemini app, providing students with performance analysis and detailed explanations for incorrect answers &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260122/p43#a260122p43)
+ - [Amazon’s Fire TV Stick 4K Plus is on sale for just $18 right now](https://www.theverge.com/gadgets/865230/amazon-fire-tv-stick-4k-plus-iphone-air-magsafe-battery-deal-sale)
+ - [The curl project plans to end its HackerOne bug bounty program at the end of January, citing a surge in low-quality AI-generated vulnerability reports &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260122/p42#a260122p42)
+ - [Elon Musk says Tesla launched robotaxi rides in Austin with no human safety driver; Tesla&#39;s AI lead says Tesla is &quot;starting with a few unsupervised vehicles&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260122/p41#a260122p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

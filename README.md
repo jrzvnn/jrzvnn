@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LiveKit, which offers tools for building voice, video, and physical AI models, including for ChatGPT&#39;s voice mode, raised a $100M Series C at a $1B valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260122/p44#a260122p44)
- - [The state attorneys general are as mad as you are](https://www.theverge.com/policy/865882/democratic-state-attorney-general-rayfield-ellison)
- - [John Ternus solidifies his role as Apple CEO-apparent amid design team shakeup](https://appleinsider.com/articles/26/01/22/apples-john-ternus-solidifies-his-role-as-ceo-apparent-amid-design-team-shakeup?utm_source=rss)
- - [Google launches free SAT practice exams in the Gemini app, providing students with performance analysis and detailed explanations for incorrect answers &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260122/p43#a260122p43)
- - [Amazon’s Fire TV Stick 4K Plus is on sale for just $18 right now](https://www.theverge.com/gadgets/865230/amazon-fire-tv-stick-4k-plus-iphone-air-magsafe-battery-deal-sale)<!-- TECH:END -->
+ - [Substack is launching a TV app, and not everyone is happy](https://www.theverge.com/news/866054/substack-tv-app-beta-launch-newsletters)
+ - [Binance files for a pan-European MiCA license in Greece, where it has also set up a holding company &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260122/p45#a260122p45)
+ - [&#39;Stealing Isn&#39;t Innovation&#39; campaign suggests that there&#39;s an ethical way to rip off human creativity](https://appleinsider.com/articles/26/01/22/stealing-isnt-innovation-campaign-suggests-that-theres-an-ethical-way-to-rip-off-human-creativity?utm_source=rss)
+ - [What Happens When a Chinese Battery Factory Comes to Town](https://www.wired.com/story/chinese-battery-makers-are-building-factories-across-the-world/)
+ - [The 28 Best Movies on Apple TV, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

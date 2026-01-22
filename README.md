@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yelp acquires Hatch, which charges a monthly fee for AI-powered agents that can respond to customer inquiries and make appointments, for $300M &lpar;Laura Mandaro/The Information&rpar;](http://www.techmeme.com/260122/p39#a260122p39)
+ - [Forza Horizon 6 launches in May](https://www.theverge.com/news/865355/forza-horizon-6-xbox-developer-direct-2026)
+ - [Apple&#39;s AI pin has a Siri-shaped problem, and that&#39;s just the start](https://appleinsider.com/articles/26/01/22/apples-ai-pin-has-a-siri-shaped-problem-and-thats-just-the-start?utm_source=rss)
  - [Xbox Developer Direct 2026: the biggest games and announcements](https://www.theverge.com/games/865573/xbox-developer-direct-2026-the-biggest-games-and-announcements)
- - [ICE Agents Are ‘Doxing’ Themselves](https://www.wired.com/story/ice-agents-are-doxing-themselves/)
- - [Substack launches its Substack TV app for Apple TV and Google TV in beta for free and paid subscribers, with access matched to their current subscription levels &lpar;On Substack&rpar;](http://www.techmeme.com/260122/p38#a260122p38)
- - [The US BOP releases Caroline Ellison, the former FTX executive and ex-girlfriend of Sam Bankman-Fried, after about 14 months; she had a two-year sentence &lpar;Business Insider&rpar;](http://www.techmeme.com/260122/p37#a260122p37)
- - [Apple&#39;s 13-inch M5 iPad Pro falls to record low $1,149 in today&#39;s top sale](https://appleinsider.com/articles/26/01/22/apples-13-inch-m5-ipad-pro-falls-to-record-low-1149-in-todays-top-sale?utm_source=rss)<!-- TECH:END -->
+ - [Netflix Goes Vertical: More Phone-First Shows Coming in 2026](https://www.cnet.com/tech/services-and-software/netflix-goes-vertical-more-phone-first-shows-coming-in-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

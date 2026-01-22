@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Sure Made Lots of Predictions at Davos](https://www.wired.com/story/elon-musk-sure-made-lots-of-predictions-at-davos/)
- - [Analysis: the top US tech companies spent $109M on DC lobbying in 2025, topping $100M for the first time; Meta spent $26.29M, Amazon $17.78M, and Google $13.1M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p46#a260122p46)
- - [Ring says it&amp;#8217;s not giving ICE access to its cameras](https://www.theverge.com/news/866003/ring-ice-camera-access-flock)
- - [Substack is launching a TV app, and not everyone is happy](https://www.theverge.com/news/866054/substack-tv-app-beta-launch-newsletters)
- - [Binance files for a European MiCA license in Greece, where it has also set up a holding company &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260122/p45#a260122p45)<!-- TECH:END -->
+ - [Capital One agrees to acquire Brex, which specializes in tech to administer corporate credit cards, expenses, and rewards, for $5.15B in cash and stock &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260122/p48#a260122p48)
+ - [Sen. Markey questions OpenAI about ‘deceptive advertising’ in ChatGPT](https://www.theverge.com/news/865854/senator-ed-markey-ai-companies-chatbots-advertising)
+ - [Tesla is finally doing unsupervised robotaxi rides](https://www.theverge.com/transportation/866165/tesla-robotaxi-unsupervised-austin-texas-safety-monitor)
+ - [Intel reports Q4 revenue down 4% YoY to $13.7B, vs. $13.4B est., a $600M net loss, up from $100M in Q4 2024, offers soft Q1 guidance; INTC down 6%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/260122/p47#a260122p47)
+ - [Elon Musk Sure Made Lots of Predictions at Davos](https://www.wired.com/story/elon-musk-sure-made-lots-of-predictions-at-davos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

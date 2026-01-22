@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
+ - 😝 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
  - 😝 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
  - 💣 [Singeing a Bull\u2019s Coat Removes Parasites and Prepares the Hide Without Harming the Skin](http://9gag.com/gag/a4Pg1P6)
- - 😝 [You know, I&#39;m something of an internet micro-niche celebrity myself](http://9gag.com/gag/aZZXrXV)
+ - 😝 [Biblically accurate Liam Neeson](http://9gag.com/gag/aD29DrK)
  - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 ---

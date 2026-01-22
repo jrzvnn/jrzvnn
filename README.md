@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring claims it&amp;#8217;s not giving ICE access to its cameras](https://www.theverge.com/news/866003/ring-ice-camera-access-flock)
  - [Substack is launching a TV app, and not everyone is happy](https://www.theverge.com/news/866054/substack-tv-app-beta-launch-newsletters)
- - [Binance files for a pan-European MiCA license in Greece, where it has also set up a holding company &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260122/p45#a260122p45)
+ - [Binance files for a European MiCA license in Greece, where it has also set up a holding company &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260122/p45#a260122p45)
  - [&#39;Stealing Isn&#39;t Innovation&#39; campaign suggests that there&#39;s an ethical way to rip off human creativity](https://appleinsider.com/articles/26/01/22/stealing-isnt-innovation-campaign-suggests-that-theres-an-ethical-way-to-rip-off-human-creativity?utm_source=rss)
- - [What Happens When a Chinese Battery Factory Comes to Town](https://www.wired.com/story/chinese-battery-makers-are-building-factories-across-the-world/)
- - [The 28 Best Movies on Apple TV, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
+ - [What Happens When a Chinese Battery Factory Comes to Town](https://www.wired.com/story/chinese-battery-makers-are-building-factories-across-the-world/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

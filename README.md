@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My friends are dead because you lied !](http://9gag.com/gag/aYQ6yNV)
- - 😝 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
- - 💣 [Perfect loop?](http://9gag.com/gag/aD29dY9)
- - 😝 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
- - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
+ - 😝 [Not sure if i should laugh or be sad](http://9gag.com/gag/aByz2EN)
+ - 😝 [I hate when this happens](http://9gag.com/gag/a0egZDq)
+ - 💣 [Jacket potato \u21161](http://9gag.com/gag/aGyvpnK)
+ - 😝 [He is ready](http://9gag.com/gag/amoQgZV)
+ - 👉 [Don&#39;t mind if I do..](http://9gag.com/gag/a2vg181)<!-- MEMES:END -->
 
 ---
 

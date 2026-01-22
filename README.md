@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why nobody&amp;#8217;s stopping Grok](https://www.theverge.com/podcast/865275/grok-deepfake-undressing-elon-musk-content-moderation)
- - [Mistral&#39;s CEO says claims that Chinese AI startups lag behind the US are a &quot;fairy tale,&quot; and China&#39;s open-source tech is &quot;probably stressing&quot; US CEOs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p33#a260122p33)
- - [Android should be Utah&#39;s state phone, says senator who has better things to do](https://appleinsider.com/articles/26/01/22/android-should-be-utahs-state-phone-says-senator-who-has-better-things-to-do?utm_source=rss)
- - [Spotify expands its AI-powered Prompted Playlists beta to Premium subscribers in the US and Canada, following initial testing in New Zealand &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260122/p32#a260122p32)
- - [Google rolls out Personal Intelligence in AI Mode, providing access to users&#39; Gmail and Google Photos for more tailored responses, for US Pro and Ultra subs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260122/p31#a260122p31)<!-- TECH:END -->
+ - [Sony announces its first turntables in years](https://www.theverge.com/news/865333/sony-new-turntables-2026)
+ - [Telly only had 35,000 TVs in people’s homes last fall](https://www.theverge.com/column/865645/telly-units)
+ - [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad)
+ - [What Are Super Quantum Dots?](https://www.cnet.com/tech/home-entertainment/what-are-super-quantum-dots/)
+ - [Railway, a cloud platform for software deployment, raised a $100M Series B led by TQ Ventures, bringing its total funding to $130M+, says it has ARR of $10M+ &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260122/p35#a260122p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

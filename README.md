@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [1Password is introducing a new phishing prevention feature](https://www.theverge.com/tech/864980/1password-security-phishing-attack-prevention-password-browser-extension-scammers)
+ - [Adobe is developing “IP-safe” gen AI models for the entertainment industry](https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models)
+ - [Waymo is accepting public riders in Miami](https://www.theverge.com/transportation/865145/waymo-miami-public-riders-waitlist)
  - [The Best Motorola Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [Q&amp;A with Netflix co-CEO Greg Peters on Netflix&#39;s stock roller coaster, viewer engagement, ads, the WBD acquisition, regulation, competition, Hollywood, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260122/p22#a260122p22)
- - [China Lunar New Year discounts arrive, in profoundly limited quantities](https://appleinsider.com/articles/26/01/22/china-lunar-new-year-discounts-arrive-in-profoundly-limited-quantities?utm_source=rss)
- - [How Apple nearly chickened out and came close to not airing the legendary &quot;1984&quot; ad](https://appleinsider.com/articles/26/01/22/how-apple-nearly-chickened-out-and-nearly-didnt-run-its-famous-1984-ad?utm_source=rss)
- - [Austin-based Neurophos, which develops a photon-based &quot;Optical Processing Unit&quot; to replace GPUs in AI training, raised $110M led by Bill Gates&#39; Gates Frontier &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/260122/p21#a260122p21)<!-- TECH:END -->
+ - [Q&amp;A with Netflix co-CEO Greg Peters on Netflix&#39;s stock roller coaster, viewer engagement, ads, the WBD acquisition, regulation, competition, Hollywood, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260122/p22#a260122p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

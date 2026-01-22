@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My friends are dead because you lied !](http://9gag.com/gag/aYQ6yNV)
- - 😝 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - 💣 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 😝 [Singeing a Bull\u2019s Coat Removes Parasites and Prepares the Hide Without Harming the Skin](http://9gag.com/gag/a4Pg1P6)
  - 😝 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
- - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
+ - 💣 [Strong independent women from Netflix VS how it would be](http://9gag.com/gag/awyjoE8)
+ - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 ---
 

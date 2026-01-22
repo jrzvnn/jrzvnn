@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LiveKit, which offers tools for building voice, video, and physical AI models, including for ChatGPT&#39;s voice mode, raised a $100M Series C at a $1B valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260122/p44#a260122p44)
+ - [The state attorneys general are as mad as you are](https://www.theverge.com/policy/865882/democratic-state-attorney-general-rayfield-ellison)
  - [John Ternus solidifies his role as Apple CEO-apparent amid design team shakeup](https://appleinsider.com/articles/26/01/22/apples-john-ternus-solidifies-his-role-as-ceo-apparent-amid-design-team-shakeup?utm_source=rss)
  - [Google launches free SAT practice exams in the Gemini app, providing students with performance analysis and detailed explanations for incorrect answers &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260122/p43#a260122p43)
- - [Amazon’s Fire TV Stick 4K Plus is on sale for just $18 right now](https://www.theverge.com/gadgets/865230/amazon-fire-tv-stick-4k-plus-iphone-air-magsafe-battery-deal-sale)
- - [The curl project plans to end its HackerOne bug bounty program at the end of January, citing a surge in low-quality AI-generated vulnerability reports &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260122/p42#a260122p42)
- - [Elon Musk says Tesla launched robotaxi rides in Austin with no human safety driver; Tesla&#39;s AI lead says Tesla is &quot;starting with a few unsupervised vehicles&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260122/p41#a260122p41)<!-- TECH:END -->
+ - [Amazon’s Fire TV Stick 4K Plus is on sale for just $18 right now](https://www.theverge.com/gadgets/865230/amazon-fire-tv-stick-4k-plus-iphone-air-magsafe-battery-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

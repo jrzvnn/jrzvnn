@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - 😝 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - 💣 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
- - 😝 [Strong independent women from Netflix VS how it would be](http://9gag.com/gag/awyjoE8)
- - 👉 [Girl talking about friendship](http://9gag.com/gag/a2vgWND)<!-- MEMES:END -->
+ - 😝 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
+ - 😝 [Interesting shirt](http://9gag.com/gag/ajPv95x)
+ - 💣 [Title](http://9gag.com/gag/aZZX0Rn)
+ - 😝 [I can make him talk](http://9gag.com/gag/a1mgWbP)
+ - 👉 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox Developer Direct 2026: the biggest games and announcements](https://www.theverge.com/games/865573/xbox-developer-direct-2026-the-biggest-games-and-announcements)
+ - [ICE Agents Are ‘Doxing’ Themselves](https://www.wired.com/story/ice-agents-are-doxing-themselves/)
  - [Substack launches its Substack TV app for Apple TV and Google TV in beta for free and paid subscribers, with access matched to their current subscription levels &lpar;On Substack&rpar;](http://www.techmeme.com/260122/p38#a260122p38)
  - [The US BOP releases Caroline Ellison, the former FTX executive and ex-girlfriend of Sam Bankman-Fried, after about 14 months; she had a two-year sentence &lpar;Business Insider&rpar;](http://www.techmeme.com/260122/p37#a260122p37)
- - [Apple&#39;s 13-inch M5 iPad Pro falls to record low $1,149 in today&#39;s top sale](https://appleinsider.com/articles/26/01/22/apples-13-inch-m5-ipad-pro-falls-to-record-low-1149-in-todays-top-sale?utm_source=rss)
- - [Inside the turmoil at Thinking Machines; sources say Meta discussed buying TML, and CTO Barret Zoph had been in talks since October 2025 about an OpenAI return &lpar;New York Times&rpar;](http://www.techmeme.com/260122/p36#a260122p36)
- - [Sony announces its first turntables in years](https://www.theverge.com/news/865333/sony-new-turntables-2026)<!-- TECH:END -->
+ - [Apple&#39;s 13-inch M5 iPad Pro falls to record low $1,149 in today&#39;s top sale](https://appleinsider.com/articles/26/01/22/apples-13-inch-m5-ipad-pro-falls-to-record-low-1149-in-todays-top-sale?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

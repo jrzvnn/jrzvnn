@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US House Committee on Foreign Affairs approves a bipartisan bill that calls for arms-sale style congressional oversight of advanced AI chip exports &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p1#a260122p1)
  - [Hundreds of creatives warn against an AI slop future](https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists)
  - [Sources: Anthropic projected a 40% gross margin from selling AI to companies and devs in 2025, down from earlier estimates of 50% due to higher inference costs &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260121/p53#a260121p53)
  - [Deepinder Goyal, CEO of Indian online food delivery service Zomato and its parent Eternal, steps down and will be succeeded by Blinkit CEO Albinder Dhindsa &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260121/p52#a260121p52)
- - [BitGo raises $212.8M in its US IPO at $18 per share, above the marketed range of $15 to $17 per share, giving it a market value of about $2.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p51#a260121p51)
- - [xAI engineer Sulaiman Ghori says he has &quot;left&quot; the company days after appearing on a podcast last week where he claimed that xAI had been skirting regulations &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/260121/p50#a260121p50)<!-- TECH:END -->
+ - [BitGo raises $212.8M in its US IPO at $18 per share, above the marketed range of $15 to $17 per share, giving it a market value of about $2.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p51#a260121p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - 😝 [Accountability, zero](http://9gag.com/gag/axyKMKn)
  - 😝 [LOL](http://9gag.com/gag/aKGZmdO)
- - 💣 [My friends are dead because you lied !](http://9gag.com/gag/aYQ6yNV)
- - 😝 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
- - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
+ - 💣 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 😝 [The counter protest we all need](http://9gag.com/gag/aVvrbjK)
+ - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
 
 ---
 

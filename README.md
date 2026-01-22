@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US House Committee on Foreign Affairs approves a bipartisan bill that calls for arms-sale style congressional oversight of advanced AI chip exports &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p1#a260122p1)
- - [Hundreds of creatives warn against an AI slop future](https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists)
- - [Sources: Anthropic projected a 40% gross margin from selling AI to companies and devs in 2025, down from earlier estimates of 50% due to higher inference costs &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260121/p53#a260121p53)
- - [Deepinder Goyal, CEO of Indian online food delivery service Zomato and its parent Eternal, steps down and will be succeeded by Blinkit CEO Albinder Dhindsa &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260121/p52#a260121p52)
- - [BitGo raises $212.8M in its US IPO at $18 per share, above the marketed range of $15 to $17 per share, giving it a market value of about $2.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p51#a260121p51)<!-- TECH:END -->
+ - [A year after the DeepSeek shock following R1&#39;s release, US tech companies still lead in AI chips, model quality, and sales, with no change in investment trends &lpar;Chris Miller/Barron&#39;s Online&rpar;](http://www.techmeme.com/260122/p4#a260122p4)
+ - [German exchange operator Deutsche Boerse agrees to acquire European fund distribution platform Allfunds for about $6.2B in cash and stock &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p3#a260122p3)
+ - [H&amp;R Block Coupons and Deals: 20% Off Tax Prep in 2026](https://www.wired.com/story/hr-block-coupon/)
+ - [HBO Max Promo Code: 50% Off | January](https://www.wired.com/story/max-promo-code/)
+ - [Japanese NAND flash maker Kioxia&#39;s stock is up ~800% over the past 12 months, as AI demand and constrained NAND flash supply boost the chipmaker&#39;s pricing power &lpar;Financial Times&rpar;](http://www.techmeme.com/260122/p2#a260122p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

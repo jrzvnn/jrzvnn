@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
  - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - 😝 [Putting wheels on the cross to make it easier to carry is prob the most American Evangelical thing ever. All of the victimhood but none of the sacrifice.](http://9gag.com/gag/aoyogzn)
- - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
+ - 😝 [Equal pay:](http://9gag.com/gag/a0egNgX)
+ - 💣 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 😝 [Need more seasons](http://9gag.com/gag/an7ZQp0)
+ - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
 
 ---
 

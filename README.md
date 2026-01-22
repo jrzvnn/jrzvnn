@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s Kospi stock index breaks through the record 5,000 level, driven by chip stocks, led by Samsung, up ~3X, and SK Hynix, up ~4x, in the past year &lpar;Daniel Tudor/Financial Times&rpar;](http://www.techmeme.com/260122/p9#a260122p9)
- - [Q&amp;A with recently departed OpenAI VP of Research Jerry Tworek, who claims OpenAI&#39;s shift toward more conservative ways made high-risk, pioneering work harder &lpar;Core Memory&rpar;](http://www.techmeme.com/260122/p8#a260122p8)
- - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)
- - [A look at the entry-level hiring squeeze in marketing, communications, and customer service as executives increasingly argue AI can absorb much of the workload &lpar;Anjli Raval/Financial Times&rpar;](http://www.techmeme.com/260122/p7#a260122p7)
- - [Hungryroot Coupon Codes: 30% Off This January](https://www.wired.com/story/hungryroot-promo-code/)<!-- TECH:END -->
+ - [Best Organic Mattresses &lpar;2026&rpar;: Birch, Avocado, Naturepedic, More](https://www.wired.com/gallery/best-organic-mattress/)
+ - [Livestream: Welcome to the Chinese Century](https://www.wired.com/story/livestream-welcome-to-the-chinese-century/)
+ - [DHS’s Data Grab Is Getting Citizens Kicked Off Voter Rolls, New Complaint Says](https://www.wired.com/story/dhs-data-grab-getting-citizens-kicked-off-voter-rolls/)
+ - [South Korea enacts the AI Basic Act, which it says includes the world&#39;s first comprehensive set of laws regulating AI, as startups warn of compliance burdens &lpar;Kyu-Seok Shim/Reuters&rpar;](http://www.techmeme.com/260122/p11#a260122p11)
+ - [Filing: PhonePe reports H1 FY 2026 revenue up 22% YoY to ~$427.5M, a ~$157M loss, and 657.6M users; the payments company plans to sell 50.7M shares in its IPO &lpar;Rajesh Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260122/p10#a260122p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea&#39;s Kospi stock index breaks through the record 5,000 level, driven by chip stocks, led by Samsung, up ~3X, and SK Hynix, up ~4x, in the past year &lpar;Daniel Tudor/Financial Times&rpar;](http://www.techmeme.com/260122/p9#a260122p9)
  - [Q&amp;A with recently departed OpenAI VP of Research Jerry Tworek, who claims OpenAI&#39;s shift toward more conservative ways made high-risk, pioneering work harder &lpar;Core Memory&rpar;](http://www.techmeme.com/260122/p8#a260122p8)
  - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)
  - [A look at the entry-level hiring squeeze in marketing, communications, and customer service as executives increasingly argue AI can absorb much of the workload &lpar;Anjli Raval/Financial Times&rpar;](http://www.techmeme.com/260122/p7#a260122p7)
- - [Hungryroot Coupon Codes: 30% Off This January](https://www.wired.com/story/hungryroot-promo-code/)
- - [Survey: over 40% of executives said AI saved them more than eight hours per week, while two-thirds of non-management staff said they saved less than two hours &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/260122/p6#a260122p6)<!-- TECH:END -->
+ - [Hungryroot Coupon Codes: 30% Off This January](https://www.wired.com/story/hungryroot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

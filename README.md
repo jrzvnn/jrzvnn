@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony announces its first turntables in years](https://www.theverge.com/news/865333/sony-new-turntables-2026)
- - [Telly only had 35,000 TVs in people’s homes last fall](https://www.theverge.com/column/865645/telly-units)
- - [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad)
- - [What Are Super Quantum Dots?](https://www.cnet.com/tech/home-entertainment/what-are-super-quantum-dots/)
- - [Railway, a cloud platform for software deployment, raised a $100M Series B led by TQ Ventures, bringing its total funding to $130M+, says it has ARR of $10M+ &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260122/p35#a260122p35)<!-- TECH:END -->
+ - [Substack launches its Substack TV app for Apple TV and Google TV in beta for free and paid subscribers, with access matched to their current subscription levels &lpar;On Substack&rpar;](http://www.techmeme.com/260122/p38#a260122p38)
+ - [The US BOP releases Caroline Ellison, the former FTX executive and ex-girlfriend of Sam Bankman-Fried, after about 14 months; she had a two-year sentence &lpar;Business Insider&rpar;](http://www.techmeme.com/260122/p37#a260122p37)
+ - [Apple&#39;s 13-inch M5 iPad Pro falls to record low $1,149 in today&#39;s top sale](https://appleinsider.com/articles/26/01/22/apples-13-inch-m5-ipad-pro-falls-to-record-low-1149-in-todays-top-sale?utm_source=rss)
+ - [Inside the turmoil at Thinking Machines; sources say Meta discussed buying TML, and CTO Barret Zoph had been in talks since October 2025 about an OpenAI return &lpar;New York Times&rpar;](http://www.techmeme.com/260122/p36#a260122p36)
+ - [Sony announces its first turntables in years](https://www.theverge.com/news/865333/sony-new-turntables-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

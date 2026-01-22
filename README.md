@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
- - 😝 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - 😝 [Need more seasons](http://9gag.com/gag/an7ZQp0)
+ - 😝 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
+ - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - 💣 [Reese Witherspoon and her daughter](http://9gag.com/gag/aByz07Q)
+ - 😝 [No shame at all](http://9gag.com/gag/a6ZgK7R)
  - 👉 [My managers show me this clip to complain about his secretaries&#39; dressing. But I see nothing&#39;s wrong here, they are fully clothed, polite and beautiful](http://9gag.com/gag/aE0Kggx)<!-- MEMES:END -->
 
 ---

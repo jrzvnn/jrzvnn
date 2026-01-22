@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)
+ - [A look at the entry-level hiring squeeze in marketing, communications, and customer service as executives increasingly argue AI can absorb much of the workload &lpar;Anjli Raval/Financial Times&rpar;](http://www.techmeme.com/260122/p7#a260122p7)
+ - [Hungryroot Coupon Codes: 30% Off This January](https://www.wired.com/story/hungryroot-promo-code/)
  - [Survey: over 40% of executives said AI saved them more than eight hours per week, while two-thirds of non-management staff said they saved less than two hours &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/260122/p6#a260122p6)
- - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)
- - [20% Off LG Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/lg-promo-code/)
- - [Sources: the US Senate&#39;s crypto market structure bill is likely to be delayed by several weeks as key lawmakers shift focus to potential housing legislation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p5#a260122p5)
- - [Nike Promo Codes and Deals: Up to 40% Off](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
+ - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

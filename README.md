@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hundreds of creatives warn against an AI slop future](https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists)
+ - [Sources: Anthropic projected a 40% gross margin from selling AI to companies and devs in 2025, down from earlier estimates of 50% due to higher inference costs &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260121/p53#a260121p53)
+ - [Deepinder Goyal, CEO of Indian online food delivery service Zomato and its parent Eternal, steps down and will be succeeded by Blinkit CEO Albinder Dhindsa &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260121/p52#a260121p52)
  - [BitGo raises $212.8M in its US IPO at $18 per share, above the marketed range of $15 to $17 per share, giving it a market value of about $2.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p51#a260121p51)
- - [xAI engineer Sulaiman Ghori says he has &quot;left&quot; the company days after appearing on a podcast last week where he claimed that xAI had been skirting regulations &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/260121/p50#a260121p50)
- - [Marketing tech startup Applecart raised $100M in a minority funding round led by Blackstone&#39;s growth equity business, a source says at a ~$700M valuation &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/260121/p49#a260121p49)
- - [Anker Nano Charger with display review: New travel charger knows your iPhone](https://appleinsider.com/articles/26/01/22/anker-nano-charger-with-display-review-new-travel-charger-knows-your-iphone?utm_source=rss)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 22, #486](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-22-486/)<!-- TECH:END -->
+ - [xAI engineer Sulaiman Ghori says he has &quot;left&quot; the company days after appearing on a podcast last week where he claimed that xAI had been skirting regulations &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/260121/p50#a260121p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

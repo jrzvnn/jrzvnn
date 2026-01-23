@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Legend, both of them](http://9gag.com/gag/awyjz7y)
- - 😝 [Accountability, zero](http://9gag.com/gag/axyKMKn)
- - 💣 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 😝 [F**k around and find out](http://9gag.com/gag/ae9z9Z5)
- - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
+ - 😝 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
+ - 💣 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
+ - 😝 [Memes after seeing the latest fable trailer](http://9gag.com/gag/an7Z7YL)
+ - 👉 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)<!-- MEMES:END -->
 
 ---
 

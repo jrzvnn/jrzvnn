@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple goes on the offensive, lashes out at EU about alternative app store failure](https://appleinsider.com/articles/26/01/23/ec-apple-play-the-blame-game-with-macpaw-alternative-app-store-failure?utm_source=rss)
- - [Apple Intelligence Pin, F1, leaker wars, and iPhone 18 rumors on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/23/apple-intelligence-pin-f1-leaker-wars-and-iphone-18-rumors-on-the-appleinsider-podcast?utm_source=rss)
- - [R&amp;D firm Merkle, which sold Farcaster, says it plans to repay VCs the $180M they invested in the social media project, and says Farcaster is not shutting down &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260123/p15#a260123p15)
- - [Dock Your M4 Mac mini into this 32-inch touchscreen monitor](https://appleinsider.com/articles/26/01/23/dock-your-m4-mac-mini-into-this-32-inch-touchscreen-monitor?utm_source=rss)
- - [The Best Paper Notebooks and Journals, Tested and Reviewed &lpar;2026&rpar;: Leuchttherm, Midori, Field Notes](https://www.wired.com/gallery/the-best-paper-notebook-and-journals/)<!-- TECH:END -->
+ - [Dock Your M4 Mac mini into this 32-inch 4K touchscreen monitor](https://appleinsider.com/articles/26/01/23/dock-your-m4-mac-mini-into-this-32-inch-touchscreen-monitor?utm_source=rss)
+ - [AI labs wage a reputational knife fight at Davos](https://www.theverge.com/column/866573/ai-labs-wage-a-reputational-knife-fight-at-davos)
+ - [Booz Allen Hamilton commits $400M to a16z&#39;s newest set of funds, for which a16z raised $15B+ in January; this is Booz Allen&#39;s first LP stake in any VC fund &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260123/p16#a260123p16)
+ - [Tesla finally kills Autopilot in a bid to boost FSD subscriptions](https://www.theverge.com/transportation/866586/tesla-kills-autopilot-autosteer-fsd-subscription)
+ - [Apple goes on the offensive, lashes out at EU about alternative app store failure](https://appleinsider.com/articles/26/01/23/ec-apple-play-the-blame-game-with-macpaw-alternative-app-store-failure?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

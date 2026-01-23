@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [He is ready](http://9gag.com/gag/amoQgZV)
  - 😝 [Perfect loop?](http://9gag.com/gag/aD29dY9)
  - 💣 [Happy friendship day, whenever it is..](http://9gag.com/gag/a87NqYO)
- - 😝 [Memes after seeing the latest fable trailer](http://9gag.com/gag/an7Z7YL)
- - 👉 [Wait till the weebs and lemmings find out about immigration laws in Japan lulz](http://9gag.com/gag/aVvrxLO)<!-- MEMES:END -->
+ - 😝 [Wait till the weebs and lemmings find out about immigration laws in Japan lulz](http://9gag.com/gag/aVvrxLO)
+ - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The App Store will have even more ads in March 2026, starting with the UK](https://appleinsider.com/articles/26/01/22/the-app-store-will-have-even-more-ads-in-march-2026-starting-with-the-uk?utm_source=rss)
- - [Samsung’s smallest Frame TVs have fallen to their lowest prices to date](https://www.theverge.com/gadgets/866298/samsung-frame-tv-2025-43-50-inch-qled-woot-deal-sale)
- - [Sources: Amazon is planning a second round of job cuts next week as part of its goal of trimming 30,000 corporate workers, after cutting 14,000 jobs in October &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260122/p50#a260122p50)
- - [Snow, Ice, and Power Outages? What This Winter Storm Could Mean for You](https://www.cnet.com/science/climate/winter-storm-warning-whats-coming-whos-at-risk-and-how-to-prepare/)
- - [Epic v. Google: Epic and Google have a secret deal involving Unreal Engine, Fortnite, and Android, with Epic spending $800M over six years on Google services &lpar;The Verge&rpar;](http://www.techmeme.com/260122/p49#a260122p49)<!-- TECH:END -->
+ - [The TikTok deal is done, finally](https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx)
+ - [Ring can verify videos now, but that might not help you with most AI fakes](https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification)
+ - [Beyond Good and Evil 2 somehow survived the purge at Ubisoft](https://www.theverge.com/games/866439/beyond-good-and-evil-2-somehow-survived-the-purge-at-ubisoft)
+ - [Source: the TikTok US deal values it at just around $14B; TikTok&#39;s US entity makes roughly $14B annually in advertising revenues alone, per analyst estimates &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260122/p53#a260122p53)
+ - [TikTok says ByteDance sold a majority stake in the app&#39;s US operations to a group of non-Chinese investors, including Oracle, MGX, and Silver Lake &lpar;New York Times&rpar;](http://www.techmeme.com/260122/p52#a260122p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

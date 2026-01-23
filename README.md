@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Fei-Fei Li&#39;s World Labs is in discussions with investors to raise hundreds of millions at a valuation of $5B; World Labs was last valued at $1B in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p57#a260122p57)
- - [TikTok America is here, but algorithm changes may take time](https://appleinsider.com/articles/26/01/23/tiktok-america-is-here-but-algorithm-changes-may-take-time?utm_source=rss)
- - [BitGo closed up ~2.7% at $18.49 per share in its NYSE debut on Thursday which saw shares jump as much as 36% intraday, after raising $212.8M in its IPO &lpar;Kyle Baird/The Block&rpar;](http://www.techmeme.com/260122/p56#a260122p56)
+ - [Netflix co-CEO Greg Peters expects Netflix to win WBD, says Paramount&#39;s bid &quot;doesn&#39;t pass the sniff test&quot; and a &quot;very small&quot; number of WBD holders backed it &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p1#a260123p1)
  - [&#39;Is Microsoft Down?&#39; Outlook and Teams Go Dark in Widespread Outage](https://www.cnet.com/tech/is-microsoft-down-outlook-and-teams-go-dark-in-widespread-outage/)
- - [TikTok&#39;s new majority US-owned JV includes investors Oracle, Silver Lake, and Abu Dhabi&#39;s MGX, each holding 15%, and Dell Family Office; ByteDance retains 19.9% &lpar;Financial Times&rpar;](http://www.techmeme.com/260122/p55#a260122p55)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-23/)
+ - [Sources: Fei-Fei Li&#39;s World Labs is in discussions with investors to raise hundreds of millions at a valuation of $5B; World Labs was last valued at $1B in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p57#a260122p57)
+ - [TikTok America is here, but algorithm changes may take time](https://appleinsider.com/articles/26/01/23/tiktok-america-is-here-but-algorithm-changes-may-take-time?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

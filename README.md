@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
- - 😝 [A Snow Angel](http://9gag.com/gag/aO8EQR6)
- - 💣 [How to deal with a bully](http://9gag.com/gag/aByzd8N)
- - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
- - 👉 [Happy friendship day, whenever it is..](http://9gag.com/gag/a87NqYO)<!-- MEMES:END -->
+ - 😝 [Absolutely incredible items](http://9gag.com/gag/agm9gGK)
+ - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
+ - 💣 [Accountability, zero](http://9gag.com/gag/axyKMKn)
+ - 😝 [A special informative message](http://9gag.com/gag/ae9zA6B)
+ - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 
 ---
 

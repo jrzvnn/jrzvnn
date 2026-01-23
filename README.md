@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear](https://www.wired.com/story/how-to-prep-for-a-winter-storm/)
+ - [What to expect from the spring 2027 iPhone 18: A20, 12GB of RAM, and more](https://appleinsider.com/articles/26/01/23/what-to-expect-from-the-spring-2027-iphone-18-a20-12gb-of-ram-and-more?utm_source=rss)
  - [Flash deal: Apple&#39;s M5 MacBook Pro dips to $1,429 with coupon](https://appleinsider.com/articles/26/01/23/flash-deal-apples-m5-macbook-pro-dips-to-1429-with-coupon?utm_source=rss)
- - [Apple Cash Instant Transfers will cost more for faster withdrawals](https://appleinsider.com/articles/26/01/23/apple-cash-instant-transfers-will-cost-more-for-faster-withdrawals?utm_source=rss)
- - [Meta is stopping teens from chatting with its AI characters](https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version)
- - [Sources: Richard Socher&#39;s Recursive is in talks to raise hundreds of millions at a $4B pre-money valuation to build self-improving superintelligent AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260123/p25#a260123p25)
- - [Source: Databricks obtained $1.8B in fresh debt and now has over $7B in debt ahead of a potential IPO; it raised $4B+ in December at a $134B valuation &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260123/p24#a260123p24)<!-- TECH:END -->
+ - [Do Microcurrent Devices Actually Work? Here Is What Dermatologists Say](https://www.cnet.com/health/personal-care/do-microcurrent-devices-work-dermatologists-pros-cons/)
+ - [Apple Cash Instant Transfers will cost more for faster withdrawals](https://appleinsider.com/articles/26/01/23/apple-cash-instant-transfers-will-cost-more-for-faster-withdrawals?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

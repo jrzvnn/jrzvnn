@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock Qrevo Curv 2 Flow Review: The Most Beautiful, Best Robot Vacuum](https://www.wired.com/review/roborock-qrevo-curv-2-flow/)
- - [Sources: UBS plans to make cryptocurrency investing available for some private banking clients in Switzerland, starting with bitcoin and ether &lpar;Bloomberg&rpar;](http://www.techmeme.com/260123/p12#a260123p12)
- - [No, the Freecash App Won’t Pay You to Scroll TikTok](https://www.wired.com/story/no-the-freecash-app-wont-pay-you-to-scroll-tiktok/)
- - [Google won’t stop replacing our news headlines with terrible AI](https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment)
- - [Google invests an undisclosed sum in Sakana AI, valued at $2.6B in November 2025, to boost Gemini&#39;s presence in Japan; Sakana AI gains access to Google&#39;s LLMs &lpar;Min-Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/260123/p11#a260123p11)<!-- TECH:END -->
+ - [Apple is hosting a three-day Creator Studio event](https://appleinsider.com/articles/26/01/23/creators-invited-to-three-day-apple-creator-studio-event?utm_source=rss)
+ - [If Apple Is Charging for AI-Based Personal Health Advice, Then I&#39;m Going Wild With Trackers](https://www.cnet.com/tech/services-and-software/if-apple-is-charging-for-ai-based-personal-health-advice-then-im-going-wild-with-trackers/)
+ - [iPhone 17 Pro&#39;s Camera Is Defeated by the Oppo Find X9 Pro in My Tests](https://www.cnet.com/tech/mobile/iphone-17-pro-loses-fight-against-the-oppo-find-x9-pros-camera/)
+ - [Lenovo LOQ 15 Review: The Best Gaming Laptop Under $1,000](https://www.wired.com/review/lenovo-loq-15/)
+ - [TikTok Deal Will Keep It Online in the US, but Your Experience of the App Might Change](https://www.cnet.com/tech/services-and-software/tiktok-strikes-deal-with-white-house-to-split-off-us-app/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

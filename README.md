@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
- - 💣 [This man is a legend already](http://9gag.com/gag/aMV7K1P)
+ - 😝 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
+ - 😝 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 💣 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
  - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
- - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
+ - 👉 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)<!-- MEMES:END -->
 
 ---
 

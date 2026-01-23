@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to deal with a bully](http://9gag.com/gag/aByzd8N)
- - 😝 [He is ready](http://9gag.com/gag/amoQgZV)
- - 💣 [Perfect loop?](http://9gag.com/gag/aD29dY9)
- - 😝 [Happy friendship day, whenever it is..](http://9gag.com/gag/a87NqYO)
- - 👉 [A Snow Angel](http://9gag.com/gag/aO8EQR6)<!-- MEMES:END -->
+ - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - 😝 [Absolutely incredible items](http://9gag.com/gag/agm9gGK)
+ - 💣 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
+ - 😝 [Biblically accurate Liam Neeson](http://9gag.com/gag/aD29DrK)
+ - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
 
 ---
 

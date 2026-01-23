@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is stopping teens from chatting with its AI characters](https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version)
+ - [Sources: Richard Socher&#39;s Recursive is in talks to raise hundreds of millions at a $4B pre-money valuation to build self-improving superintelligent AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260123/p25#a260123p25)
+ - [Source: Databricks obtained $1.8B in fresh debt and now has over $7B in debt ahead of a potential IPO; it raised $4B+ in December at a $134B valuation &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260123/p24#a260123p24)
  - [Our Favorite Earbuds for Most People Are Over 25 Percent Off](https://www.wired.com/story/nothing-ear-a-deal-126/)
- - [What TikTok’s new owners mean for your feed](https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained)
- - [Epic hypocrisy -- Google gets $800 million in &#39;Fortnite&#39; antitrust settlement](https://appleinsider.com/articles/26/01/23/epic-hypocrisy----google-gets-800-million-in-fortnite-antitrust-settlement?utm_source=rss)
- - [Source: Binance considers reintroducing stock tokens after removing them in 2021; OKX, Kraken, Bitget, and others are expanding their tokenized stock offerings &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/260123/p23#a260123p23)
- - [Best Tablet 2026: Top Tablets From Apple, Samsung, Amazon and More](https://www.cnet.com/tech/computing/best-tablet/)<!-- TECH:END -->
+ - [What TikTok’s new owners mean for your feed](https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

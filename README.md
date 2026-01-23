@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 😝 [Accountability, zero](http://9gag.com/gag/axyKMKn)
- - 💣 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - 😝 [Legend, both of them](http://9gag.com/gag/awyjz7y)
+ - 💣 [This man is a legend already](http://9gag.com/gag/aMV7K1P)
  - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
- - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
+ - 👉 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)<!-- MEMES:END -->
 
 ---
 

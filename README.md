@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic details how it had to redesign its take-home test for hiring performance engineers as Claude kept defeating it, and releases the original test &lpar;Anthropic&rpar;](http://www.techmeme.com/260123/p9#a260123p9)
  - [Sources: Revolut scrapped plans to buy a US lender and will instead apply for a US banking license, betting Trump&#39;s lighter touch on approvals will be faster &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p8#a260123p8)
  - [How Anthropic, OpenAI, and Google are testing AI models by having them play Pokémon Blue on Twitch to track a model&#39;s ability to reason and make decisions &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260123/p7#a260123p7)
  - [Bengaluru-based digital payments startup Juspay raised $50M, in a mix of primary and secondary investments, from WestBridge Capital at a $1.2B valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/260123/p6#a260123p6)
- - [iPhone 18 Pro Max smaller Dynamic Island dimensions detailed in new leak](https://appleinsider.com/articles/26/01/23/smaller-dynamic-island-shown-in-leakers-concept-for-iphone-18-pro-max?utm_source=rss)
- - [Sam Altman says OpenAI added more than $1B in annual recurring revenue in the past month &quot;just from our API business&quot; &lpar;Lee Chong Ming/Business Insider&rpar;](http://www.techmeme.com/260123/p5#a260123p5)<!-- TECH:END -->
+ - [iPhone 18 Pro Max smaller Dynamic Island dimensions detailed in new leak](https://appleinsider.com/articles/26/01/23/smaller-dynamic-island-shown-in-leakers-concept-for-iphone-18-pro-max?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

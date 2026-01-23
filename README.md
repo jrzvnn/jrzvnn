@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;F1&#39; driving Apple&#39;s Oscar awards ambitions in 2026](https://appleinsider.com/articles/26/01/22/f1-driving-apples-oscar-awards-ambitions-in-2026?utm_source=rss)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 23 #691](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-23-691/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 23, #487](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-23-487/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 23, #957](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-23-957/)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 23, #1679](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-23-1679/)
- - [Anthropic details how it had to redesign its take-home test for hiring performance engineers as Claude kept defeating it, and releases the original test &lpar;Anthropic&rpar;](http://www.techmeme.com/260123/p9#a260123p9)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 23, #1679](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-23-1679/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

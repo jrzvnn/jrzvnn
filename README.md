@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Snow Angel](http://9gag.com/gag/aO8EQR6)
- - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 💣 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)
- - 😝 [Sho ronery](http://9gag.com/gag/amoQorj)
- - 👉 [Dog communication is fascinating](http://9gag.com/gag/a7ogo6x)<!-- MEMES:END -->
+ - 😝 [The F00F bug was worse..](http://9gag.com/gag/aE0Kpm9)
+ - 😝 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
+ - 💣 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
+ - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
 
 ---
 

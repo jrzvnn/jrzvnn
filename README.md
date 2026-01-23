@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marshall’s new hub connects to multiple Bluetooth speakers without pairing](https://www.theverge.com/tech/866640/marshall-music-streaming-hub-heddon-bluetooth-auracast-speakers)
+ - [Today only, you can buy the AirPods Pro 3 for less than $200](https://www.theverge.com/gadgets/866710/apple-airpods-pro-3-super-mario-bros-deal-sale)
+ - [Mews, which makes AI-powered hospitality management software, raised a $300M Series D led by EQT Growth at a $2.5B valuation &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260123/p20#a260123p20)
  - [Age Verification Is Reaching a Global Tipping Point. Is TikTok’s Strategy a Good Compromise?](https://www.wired.com/story/age-verification-is-reaching-a-global-tipping-point-is-tiktoks-strategy-a-good-compromise/)
- - [Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea](https://www.theverge.com/report/866683/chatgpt-health-sharing-data)
- - [Cubby, which makes software for self-storage operators, raised a $63M Series A led by Growth Equity at Goldman Sachs Alternatives &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260123/p19#a260123p19)
- - [The Math on AI Agents Doesn’t Add Up](https://www.wired.com/story/ai-agents-math-doesnt-add-up/)
- - [These 8 Common Foods Are Likely to Increase Your Exposure to Microplastic Particles](https://www.cnet.com/health/nutrition/accidentally-eating-plastic-common-foods-more-likely-contain-microplastics/)<!-- TECH:END -->
+ - [Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea](https://www.theverge.com/report/866683/chatgpt-health-sharing-data)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

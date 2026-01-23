@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
- - 😝 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
- - 💣 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
- - 👉 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)<!-- MEMES:END -->
+ - 😝 [How to deal with a bully](http://9gag.com/gag/aByzd8N)
+ - 😝 [He is ready](http://9gag.com/gag/amoQgZV)
+ - 💣 [Perfect loop?](http://9gag.com/gag/aD29dY9)
+ - 😝 [Happy friendship day, whenever it is..](http://9gag.com/gag/a87NqYO)
+ - 👉 [A Snow Angel](http://9gag.com/gag/aO8EQR6)<!-- MEMES:END -->
 
 ---
 

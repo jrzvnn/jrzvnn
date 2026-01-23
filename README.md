@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - 😝 [Absolutely incredible items](http://9gag.com/gag/agm9gGK)
- - 💣 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
- - 😝 [Biblically accurate Liam Neeson](http://9gag.com/gag/aD29DrK)
- - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
+ - 😝 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
+ - 💣 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
+ - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 
 ---
 

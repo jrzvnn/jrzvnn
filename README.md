@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic hypocrisy -- Google gets $800 million in &#39;Fortnite&#39; antitrust settlement](https://appleinsider.com/articles/26/01/23/epic-hypocrisy----google-gets-800-million-in-fortnite-antitrust-settlement?utm_source=rss)
+ - [Source: Binance considers reintroducing stock tokens after removing them in 2021; OKX, Kraken, Bitget, and others are expanding their tokenized stock offerings &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/260123/p23#a260123p23)
  - [Casio teased a retro gaming-inspired sampler](https://www.theverge.com/news/866709/casio-sx-c1-retro-gaming-inspired-sampler-at-namm)
  - [Apple Pay fees that don&#39;t cost the consumer a dime at center of $2 billion lawsuit](https://appleinsider.com/articles/26/01/23/apple-pay-fees-that-dont-cost-the-consumer-a-dime-at-center-of-2-billion-lawsuit?utm_source=rss)
- - [Epic hypocrisy -- Google gets $800 million in &#39;Fortnite&#39; antitrust settlement](https://appleinsider.com/articles/26/01/23/epic-hypocrisy----google-gets-800-million-in-fortnite-antitrust-settlement?utm_source=rss)
- - [Google Chrome is ditching support for macOS 12 Monterey, leaving older Macs stranded](https://appleinsider.com/articles/26/01/23/google-chrome-is-ditching-support-for-macos-12-monterey-leaving-older-macs-stranded?utm_source=rss)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [Google Chrome is ditching support for macOS 12 Monterey, leaving older Macs stranded](https://appleinsider.com/articles/26/01/23/google-chrome-is-ditching-support-for-macos-12-monterey-leaving-older-macs-stranded?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

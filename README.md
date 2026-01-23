@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The end of the Sony era in TVs](https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast)
- - [Source: by the end of 2025, Claude Code&#39;s ARR had grown by at least another $100M from the $1B announced in November, making up 12% of Anthropic&#39;s total ARR &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260123/p18#a260123p18)
- - [Anbernic’s next wireless controller adds a screen and heart rate monitoring](https://www.theverge.com/tech/866600/anbernic-rg-g01-smart-wireless-gaming-controller-heart-rate-sensor-display)
- - [Sources: Ledger is working with banks on a US IPO that could value the French cryptocurrency company at more than $4B; it was valued at $1.5B in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p17#a260123p17)
- - [Best Action Cameras &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
+ - [Age Verification Is Reaching a Global Tipping Point. Is TikTok’s Strategy a Good Compromise?](https://www.wired.com/story/age-verification-is-reaching-a-global-tipping-point-is-tiktoks-strategy-a-good-compromise/)
+ - [Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea](https://www.theverge.com/report/866683/chatgpt-health-sharing-data)
+ - [Cubby, which makes software for self-storage operators, raised a $63M Series A led by Growth Equity at Goldman Sachs Alternatives &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260123/p19#a260123p19)
+ - [The Math on AI Agents Doesn’t Add Up](https://www.wired.com/story/ai-agents-math-doesnt-add-up/)
+ - [These 8 Common Foods Are Likely to Increase Your Exposure to Microplastic Particles](https://www.cnet.com/health/nutrition/accidentally-eating-plastic-common-foods-more-likely-contain-microplastics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

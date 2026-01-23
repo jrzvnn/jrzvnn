@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The F00F bug was worse..](http://9gag.com/gag/aE0Kpm9)
- - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
- - 💣 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 😝 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
- - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
+ - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
+ - 😝 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
+ - 💣 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [Klassiker](http://9gag.com/gag/aZZXZe6)
+ - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 
 ---
 

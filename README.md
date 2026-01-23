@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Revolut scrapped plans to buy a US lender and will instead apply for a US banking license, betting Trump&#39;s lighter touch on approvals will be faster &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p8#a260123p8)
+ - [How Anthropic, OpenAI, and Google are testing AI models by having them play Pokémon Blue on Twitch to track a model&#39;s ability to reason and make decisions &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260123/p7#a260123p7)
  - [Bengaluru-based digital payments startup Juspay raised $50M, in a mix of primary and secondary investments, from WestBridge Capital at a $1.2B valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/260123/p6#a260123p6)
  - [iPhone 18 Pro Max smaller Dynamic Island dimensions detailed in new leak](https://appleinsider.com/articles/26/01/23/smaller-dynamic-island-shown-in-leakers-concept-for-iphone-18-pro-max?utm_source=rss)
- - [Sam Altman says OpenAI added more than $1B in annual recurring revenue in the past month &quot;just from our API business&quot; &lpar;Lee Chong Ming/Business Insider&rpar;](http://www.techmeme.com/260123/p5#a260123p5)
- - [The US&#39; TikTok deal is a win for ByteDance: it will keep and license the algorithm instead of selling it, and continue to run TikTok&#39;s commercial activities &lpar;Jim Secreto/Financial Times&rpar;](http://www.techmeme.com/260123/p4#a260123p4)
- - [Intel says it struggled to satisfy demand for its server chips used in AI data centers, and forecasts Q1 2026 revenue and profit below market estimates &lpar;Reuters&rpar;](http://www.techmeme.com/260123/p3#a260123p3)<!-- TECH:END -->
+ - [Sam Altman says OpenAI added more than $1B in annual recurring revenue in the past month &quot;just from our API business&quot; &lpar;Lee Chong Ming/Business Insider&rpar;](http://www.techmeme.com/260123/p5#a260123p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

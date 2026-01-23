@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dock Your M4 Mac mini into this 32-inch 4K touchscreen monitor](https://appleinsider.com/articles/26/01/23/dock-your-m4-mac-mini-into-this-32-inch-touchscreen-monitor?utm_source=rss)
- - [AI labs wage a reputational knife fight at Davos](https://www.theverge.com/column/866573/ai-labs-wage-a-reputational-knife-fight-at-davos)
- - [Booz Allen Hamilton commits $400M to a16z&#39;s newest set of funds, for which a16z raised $15B+ in January; this is Booz Allen&#39;s first LP stake in any VC fund &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260123/p16#a260123p16)
- - [Tesla finally kills Autopilot in a bid to boost FSD subscriptions](https://www.theverge.com/transportation/866586/tesla-kills-autopilot-autosteer-fsd-subscription)
- - [Apple goes on the offensive, lashes out at EU about alternative app store failure](https://appleinsider.com/articles/26/01/23/ec-apple-play-the-blame-game-with-macpaw-alternative-app-store-failure?utm_source=rss)<!-- TECH:END -->
+ - [Anbernic’s next wireless controller adds a screen and heart rate monitoring](https://www.theverge.com/tech/866600/anbernic-rg-g01-smart-wireless-gaming-controller-heart-rate-sensor-display)
+ - [Sources: Ledger is working with banks on a US IPO that could value the French cryptocurrency company at more than $4B; it was valued at $1.5B in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p17#a260123p17)
+ - [Best Action Cameras &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
+ - [Influencers are pushing suspicious peptides. How much are you willing to risk?](https://www.theverge.com/column/866577/optimizer-peptides-compounding-pharmacies-glp-3-retatrutide-influencers-wellness-wild-west)
+ - [Dock Your M4 Mac mini into this 32-inch 4K touchscreen monitor](https://appleinsider.com/articles/26/01/23/dock-your-m4-mac-mini-into-this-32-inch-touchscreen-monitor?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

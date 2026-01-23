@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TikTok deal is done, finally](https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx)
- - [Ring can verify videos now, but that might not help you with most AI fakes](https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification)
- - [Beyond Good and Evil 2 somehow survived the purge at Ubisoft](https://www.theverge.com/games/866439/beyond-good-and-evil-2-somehow-survived-the-purge-at-ubisoft)
- - [Source: the TikTok US deal values it at just around $14B; TikTok&#39;s US entity makes roughly $14B annually in advertising revenues alone, per analyst estimates &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260122/p53#a260122p53)
- - [TikTok says ByteDance sold a majority stake in the app&#39;s US operations to a group of non-Chinese investors, including Oracle, MGX, and Silver Lake &lpar;New York Times&rpar;](http://www.techmeme.com/260122/p52#a260122p52)<!-- TECH:END -->
+ - [BitGo closed up ~2.7% at $18.49 per share in its NYSE debut on Thursday which saw shares jump as much as 36% intraday, after raising $212.8M in its IPO &lpar;Kyle Baird/The Block&rpar;](http://www.techmeme.com/260122/p56#a260122p56)
+ - [&#39;Is Microsoft Down?&#39; Outlook and Teams Go Dark in Widespread Outage](https://www.cnet.com/tech/is-microsoft-down-outlook-and-teams-go-dark-in-widespread-outage/)
+ - [TikTok&#39;s new majority US-owned JV includes investors Oracle, Silver Lake, and Abu Dhabi&#39;s MGX, each holding 15%, and Dell Family Office; ByteDance retains 19.9% &lpar;Financial Times&rpar;](http://www.techmeme.com/260122/p55#a260122p55)
+ - [Adam Presser, previously TikTok&#39;s head of operations and trust and safety, will be the CEO of TikTok USDS Joint Venture; TikTok CEO Shou Chew will be a director &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260122/p54#a260122p54)
+ - [EC &amp; Apple play the blame game with MacPaw alternative app store failure](https://appleinsider.com/articles/26/01/23/ec-apple-play-the-blame-game-with-macpaw-alternative-app-store-failure?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

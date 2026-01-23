@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The end of the Sony era in TVs](https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast)
+ - [Source: by the end of 2025, Claude Code&#39;s ARR had grown by at least another $100M from the $1B announced in November, making up 12% of Anthropic&#39;s total ARR &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260123/p18#a260123p18)
  - [Anbernic’s next wireless controller adds a screen and heart rate monitoring](https://www.theverge.com/tech/866600/anbernic-rg-g01-smart-wireless-gaming-controller-heart-rate-sensor-display)
  - [Sources: Ledger is working with banks on a US IPO that could value the French cryptocurrency company at more than $4B; it was valued at $1.5B in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p17#a260123p17)
- - [Best Action Cameras &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
- - [Influencers are pushing suspicious peptides. How much are you willing to risk?](https://www.theverge.com/column/866577/optimizer-peptides-compounding-pharmacies-glp-3-retatrutide-influencers-wellness-wild-west)
- - [Dock Your M4 Mac mini into this 32-inch 4K touchscreen monitor](https://appleinsider.com/articles/26/01/23/dock-your-m4-mac-mini-into-this-32-inch-touchscreen-monitor?utm_source=rss)<!-- TECH:END -->
+ - [Best Action Cameras &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

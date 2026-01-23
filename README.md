@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely incredible items](http://9gag.com/gag/agm9gGK)
- - 😝 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 💣 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
- - 😝 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
- - 👉 [Accountability, zero](http://9gag.com/gag/axyKMKn)<!-- MEMES:END -->
+ - 😝 [Wait till the weebs and lemmings find out about immigration laws in Japan lulz](http://9gag.com/gag/aVvrxLO)
+ - 😝 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)
+ - 💣 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
+ - 😝 [Sho ronery](http://9gag.com/gag/amoQorj)
+ - 👉 [A Snow Angel](http://9gag.com/gag/aO8EQR6)<!-- MEMES:END -->
 
 ---
 

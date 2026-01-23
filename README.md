@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still protecting her](http://9gag.com/gag/azxyeyK)
- - 😝 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
- - 💣 [Grandpa&#39;s got a secret stash and grandma&#39;s not having it](http://9gag.com/gag/aAyAGR0)
- - 😝 [Memes after seeing the latest fable trailer](http://9gag.com/gag/an7Z7YL)
- - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
+ - 😝 [Dog communication is fascinating](http://9gag.com/gag/a7ogo6x)
+ - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 💣 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)
+ - 😝 [He is right though](http://9gag.com/gag/aVvrv6O)
+ - 👉 [Sho ronery](http://9gag.com/gag/amoQorj)<!-- MEMES:END -->
 
 ---
 

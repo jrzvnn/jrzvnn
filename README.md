@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait till the weebs and lemmings find out about immigration laws in Japan lulz](http://9gag.com/gag/aVvrxLO)
- - 😝 [Sho ronery](http://9gag.com/gag/amoQorj)
- - 💣 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
- - 😝 [A Snow Angel](http://9gag.com/gag/aO8EQR6)
- - 👉 [Biblically accurate Liam Neeson](http://9gag.com/gag/aD29DrK)<!-- MEMES:END -->
+ - 😝 [Legend, both of them](http://9gag.com/gag/awyjz7y)
+ - 😝 [Accountability, zero](http://9gag.com/gag/axyKMKn)
+ - 💣 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
+ - 😝 [F**k around and find out](http://9gag.com/gag/ae9z9Z5)
+ - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
 
 ---
 

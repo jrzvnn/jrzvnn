@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
  - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
- - 💣 [Accountability, zero](http://9gag.com/gag/axyKMKn)
- - 😝 [Biblically accurate Liam Neeson](http://9gag.com/gag/aD29DrK)
- - 👉 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)<!-- MEMES:END -->
+ - 💣 [This man is a legend already](http://9gag.com/gag/aMV7K1P)
+ - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
+ - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
 
 ---
 

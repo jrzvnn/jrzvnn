@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US DOJ opened a criminal probe and sent out grand-jury subpoenas in recent weeks over allegations that Deel recruited a spy inside rival Rippling &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260123/p27#a260123p27)
+ - [TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes](https://www.wired.com/story/tiktok-new-privacy-policy/)
  - [Sources: China deepens its probe into Meta&#39;s Manus acquisition in December to investigate cross-border currency flows, tax accounting, and overseas investments &lpar;Bloomberg&rpar;](http://www.techmeme.com/260123/p26#a260123p26)
  - [Fable Reboot Set for Fall 2026 as RPG Franchise Debuts on PS5](https://www.cnet.com/tech/gaming/fable-reboot-set-for-fall-2026-as-rpg-franchise-debuts-on-ps5/)
- - [Best LED Masks of 2026: FDA-Cleared Options for Your Wellness Routine](https://www.cnet.com/health/best-led-face-masks/)
- - [AI Chatbots Posing as Therapists Give Worse Advice the More You Talk to Them](https://www.cnet.com/tech/services-and-software/ai-chatbots-posing-as-therapists-give-worse-advice-the-more-you-talk-to-them/)
- - [How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear](https://www.wired.com/story/how-to-prep-for-a-winter-storm/)<!-- TECH:END -->
+ - [Best LED Masks of 2026: FDA-Cleared Options for Your Wellness Routine](https://www.cnet.com/health/best-led-face-masks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hang on, there’s a Trump Phone Ultra coming too?](https://www.theverge.com/news/866601/trump-mobile-t1-ultra-phone-don-hendrickson-interview)
+ - [Meta says it is pausing teens&#39; access to its AI characters globally across all its apps as it develops a special version of an AI character for teens &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260123/p21#a260123p21)
+ - [CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars](https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/)
  - [Marshall’s new hub connects to multiple Bluetooth speakers without pairing](https://www.theverge.com/tech/866640/marshall-music-streaming-hub-heddon-bluetooth-auracast-speakers)
- - [Today only, you can buy the AirPods Pro 3 for less than $200](https://www.theverge.com/gadgets/866710/apple-airpods-pro-3-super-mario-bros-deal-sale)
- - [Mews, which makes AI-powered hospitality management software, raised a $300M Series D led by EQT Growth at a $2.5B valuation &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260123/p20#a260123p20)
- - [Age Verification Is Reaching a Global Tipping Point. Is TikTok’s Strategy a Good Compromise?](https://www.wired.com/story/age-verification-is-reaching-a-global-tipping-point-is-tiktoks-strategy-a-good-compromise/)
- - [Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea](https://www.theverge.com/report/866683/chatgpt-health-sharing-data)<!-- TECH:END -->
+ - [Today only, you can buy the AirPods Pro 3 for less than $200](https://www.theverge.com/gadgets/866710/apple-airpods-pro-3-super-mario-bros-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

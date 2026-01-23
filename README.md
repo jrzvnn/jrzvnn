@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay fees that don&#39;t cost the consumer a dime at center of $2 billion lawsuit](https://appleinsider.com/articles/26/01/23/apple-pay-fees-that-dont-cost-the-consumer-a-dime-at-center-of-2-billion-lawsuit?utm_source=rss)
- - [The Best Over-the-Counter Sleep Aids &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aids/)
- - [Sources: China has told Alibaba, Tencent, and ByteDance that they can prepare orders for Nvidia&#39;s H200 chips, suggesting Beijing is close to approving imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/260123/p14#a260123p14)
- - [Apple is hosting a three-day Creator Studio event](https://appleinsider.com/articles/26/01/23/creators-invited-to-three-day-apple-creator-studio-event?utm_source=rss)
- - [Lenovo LOQ 15 Review: The Best Gaming Laptop Under $1,000](https://www.wired.com/review/lenovo-loq-15/)<!-- TECH:END -->
+ - [Apple goes on the offensive, lashes out at EU about alternative app store failure](https://appleinsider.com/articles/26/01/23/ec-apple-play-the-blame-game-with-macpaw-alternative-app-store-failure?utm_source=rss)
+ - [Apple Intelligence Pin, F1, leaker wars, and iPhone 18 rumors on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/23/apple-intelligence-pin-f1-leaker-wars-and-iphone-18-rumors-on-the-appleinsider-podcast?utm_source=rss)
+ - [R&amp;D firm Merkle, which sold Farcaster, says it plans to repay VCs the $180M they invested in the social media project, and says Farcaster is not shutting down &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260123/p15#a260123p15)
+ - [Dock Your M4 Mac mini into this 32-inch touchscreen monitor](https://appleinsider.com/articles/26/01/23/dock-your-m4-mac-mini-into-this-32-inch-touchscreen-monitor?utm_source=rss)
+ - [The Best Paper Notebooks and Journals, Tested and Reviewed &lpar;2026&rpar;: Leuchttherm, Midori, Field Notes](https://www.wired.com/gallery/the-best-paper-notebook-and-journals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

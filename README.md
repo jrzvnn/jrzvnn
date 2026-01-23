@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A Snow Angel](http://9gag.com/gag/aO8EQR6)
  - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 😝 [Legend, both of them](http://9gag.com/gag/awyjz7y)
- - 💣 [The F00F bug was worse..](http://9gag.com/gag/aE0Kpm9)
- - 😝 [Memes after seeing the latest fable trailer](http://9gag.com/gag/an7Z7YL)
- - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
+ - 💣 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)
+ - 😝 [Sho ronery](http://9gag.com/gag/amoQorj)
+ - 👉 [Dog communication is fascinating](http://9gag.com/gag/a7ogo6x)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
  - 😝 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 💣 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 😝 [Accountability, zero](http://9gag.com/gag/axyKMKn)
+ - 💣 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
  - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
  - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grandpa&#39;s got a secret stash and grandma&#39;s not having it](http://9gag.com/gag/aAyAGR0)
- - 😝 [Accountability, zero](http://9gag.com/gag/axyKMKn)
- - 💣 [Legend, both of them](http://9gag.com/gag/awyjz7y)
+ - 😝 [Still protecting her](http://9gag.com/gag/azxyeyK)
  - 😝 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
- - 👉 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)<!-- MEMES:END -->
+ - 💣 [Grandpa&#39;s got a secret stash and grandma&#39;s not having it](http://9gag.com/gag/aAyAGR0)
+ - 😝 [Memes after seeing the latest fable trailer](http://9gag.com/gag/an7Z7YL)
+ - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
 
 ---
 

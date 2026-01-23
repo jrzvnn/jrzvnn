@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flash deal: Apple&#39;s M5 MacBook Pro dips to $1,429 with coupon](https://appleinsider.com/articles/26/01/23/flash-deal-apples-m5-macbook-pro-dips-to-1429-with-coupon?utm_source=rss)
+ - [Apple Cash Instant Transfers will cost more for faster withdrawals](https://appleinsider.com/articles/26/01/23/apple-cash-instant-transfers-will-cost-more-for-faster-withdrawals?utm_source=rss)
  - [Meta is stopping teens from chatting with its AI characters](https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version)
  - [Sources: Richard Socher&#39;s Recursive is in talks to raise hundreds of millions at a $4B pre-money valuation to build self-improving superintelligent AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260123/p25#a260123p25)
- - [Source: Databricks obtained $1.8B in fresh debt and now has over $7B in debt ahead of a potential IPO; it raised $4B+ in December at a $134B valuation &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260123/p24#a260123p24)
- - [Our Favorite Earbuds for Most People Are Over 25 Percent Off](https://www.wired.com/story/nothing-ear-a-deal-126/)
- - [What TikTok’s new owners mean for your feed](https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained)<!-- TECH:END -->
+ - [Source: Databricks obtained $1.8B in fresh debt and now has over $7B in debt ahead of a potential IPO; it raised $4B+ in December at a $134B valuation &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260123/p24#a260123p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

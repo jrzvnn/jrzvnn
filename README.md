@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hang on, there’s a Trump Phone Ultra coming too?](https://www.theverge.com/news/866601/trump-mobile-t1-ultra-phone-don-hendrickson-interview)
- - [Meta says it is pausing teens&#39; access to its AI characters globally across all its apps as it develops a special version of an AI character for teens &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260123/p21#a260123p21)
- - [CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars](https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/)
- - [Marshall’s new hub connects to multiple Bluetooth speakers without pairing](https://www.theverge.com/tech/866640/marshall-music-streaming-hub-heddon-bluetooth-auracast-speakers)
- - [Today only, you can buy the AirPods Pro 3 for less than $200](https://www.theverge.com/gadgets/866710/apple-airpods-pro-3-super-mario-bros-deal-sale)<!-- TECH:END -->
+ - [Casio teased a retro gaming-inspired sampler](https://www.theverge.com/news/866709/casio-sx-c1-retro-gaming-inspired-sampler-at-namm)
+ - [Apple Pay fees that don&#39;t cost the consumer a dime at center of $2 billion lawsuit](https://appleinsider.com/articles/26/01/23/apple-pay-fees-that-dont-cost-the-consumer-a-dime-at-center-of-2-billion-lawsuit?utm_source=rss)
+ - [Epic hypocrisy -- Google gets $800 million in &#39;Fortnite&#39; antitrust settlement](https://appleinsider.com/articles/26/01/23/epic-hypocrisy----google-gets-800-million-in-fortnite-antitrust-settlement?utm_source=rss)
+ - [Google Chrome is ditching support for macOS 12 Monterey, leaving older Macs stranded](https://appleinsider.com/articles/26/01/23/google-chrome-is-ditching-support-for-macos-12-monterey-leaving-older-macs-stranded?utm_source=rss)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

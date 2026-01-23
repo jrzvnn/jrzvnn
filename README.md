@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 24, #488](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-24-488/)
+ - [Google Photos Adds AI-Powered Meme Creation With &#39;Me Meme&#39;](https://www.cnet.com/tech/services-and-software/google-photos-adds-ai-powered-meme-creation-with-me-meme/)
  - [‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort](https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/)
  - [US Judge Rules ICE Raids Require Judicial Warrants, Contradicting Secret ICE Memo](https://www.wired.com/story/us-judge-rules-ice-raids-require-judicial-warrants-contradicting-secret-ice-memo/)
- - [Source: Greenoaks, one of Brex&#39;s top investors, will return twice its investment after Capital One&#39;s Brex acquisition for $5.15B in a half-cash, half-stock deal &lpar;The Information&rpar;](http://www.techmeme.com/260123/p29#a260123p29)
- - [Congress doesn’t seem to know if the TikTok deal complies with its law](https://www.theverge.com/news/866977/tiktok-deal-congress-china)
- - [Inside Apple Maps - How to get the most out of your iPhone&#39;s navigation app](https://appleinsider.com/inside/apple-maps/tips/inside-apple-maps---how-to-get-the-most-out-of-your-iphones-navigation-app?utm_source=rss)<!-- TECH:END -->
+ - [Source: Greenoaks, one of Brex&#39;s top investors, will return twice its investment after Capital One&#39;s Brex acquisition for $5.15B in a half-cash, half-stock deal &lpar;The Information&rpar;](http://www.techmeme.com/260123/p29#a260123p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

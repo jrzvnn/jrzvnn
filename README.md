@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pay fees that don&#39;t cost the consumer a dime at center of $2 billion lawsuit](https://appleinsider.com/articles/26/01/23/apple-pay-fees-that-dont-cost-the-consumer-a-dime-at-center-of-2-billion-lawsuit?utm_source=rss)
+ - [The Best Over-the-Counter Sleep Aids &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aids/)
+ - [Sources: China has told Alibaba, Tencent, and ByteDance that they can prepare orders for Nvidia&#39;s H200 chips, suggesting Beijing is close to approving imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/260123/p14#a260123p14)
  - [Apple is hosting a three-day Creator Studio event](https://appleinsider.com/articles/26/01/23/creators-invited-to-three-day-apple-creator-studio-event?utm_source=rss)
- - [If Apple Is Charging for AI-Based Personal Health Advice, Then I&#39;m Going Wild With Trackers](https://www.cnet.com/tech/services-and-software/if-apple-is-charging-for-ai-based-personal-health-advice-then-im-going-wild-with-trackers/)
- - [iPhone 17 Pro&#39;s Camera Is Defeated by the Oppo Find X9 Pro in My Tests](https://www.cnet.com/tech/mobile/iphone-17-pro-loses-fight-against-the-oppo-find-x9-pros-camera/)
- - [Lenovo LOQ 15 Review: The Best Gaming Laptop Under $1,000](https://www.wired.com/review/lenovo-loq-15/)
- - [TikTok Deal Will Keep It Online in the US, but Your Experience of the App Might Change](https://www.cnet.com/tech/services-and-software/tiktok-strikes-deal-with-white-house-to-split-off-us-app/)<!-- TECH:END -->
+ - [Lenovo LOQ 15 Review: The Best Gaming Laptop Under $1,000](https://www.wired.com/review/lenovo-loq-15/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

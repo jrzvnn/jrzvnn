@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - 😝 [Accountability, zero](http://9gag.com/gag/axyKMKn)
- - 💣 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 😝 [Sho ronery](http://9gag.com/gag/amoQorj)
- - 👉 [Legend, both of them](http://9gag.com/gag/awyjz7y)<!-- MEMES:END -->
+ - 😝 [Absolutely incredible items](http://9gag.com/gag/agm9gGK)
+ - 😝 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
+ - 💣 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 😝 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
+ - 👉 [Accountability, zero](http://9gag.com/gag/axyKMKn)<!-- MEMES:END -->
 
 ---
 

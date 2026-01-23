@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bengaluru-based digital payments startup Juspay raised $50M, in a mix of primary and secondary investments, from WestBridge Capital at a $1.2B valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/260123/p6#a260123p6)
+ - [iPhone 18 Pro Max smaller Dynamic Island dimensions detailed in new leak](https://appleinsider.com/articles/26/01/23/smaller-dynamic-island-shown-in-leakers-concept-for-iphone-18-pro-max?utm_source=rss)
  - [Sam Altman says OpenAI added more than $1B in annual recurring revenue in the past month &quot;just from our API business&quot; &lpar;Lee Chong Ming/Business Insider&rpar;](http://www.techmeme.com/260123/p5#a260123p5)
  - [The US&#39; TikTok deal is a win for ByteDance: it will keep and license the algorithm instead of selling it, and continue to run TikTok&#39;s commercial activities &lpar;Jim Secreto/Financial Times&rpar;](http://www.techmeme.com/260123/p4#a260123p4)
- - [Intel says it struggled to satisfy demand for its server chips used in AI data centers, and forecasts Q1 2026 revenue and profit below market estimates &lpar;Reuters&rpar;](http://www.techmeme.com/260123/p3#a260123p3)
- - [$30 Off Chewy Promo Codes | January 2026](https://www.wired.com/story/chewy-promo-code/)
- - [Sources: China&#39;s review of Meta&#39;s Manus deal was spurred by what officials called &quot;selling young crops&quot;, a concern over cross-border transfer of emerging tech &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p2#a260123p2)<!-- TECH:END -->
+ - [Intel says it struggled to satisfy demand for its server chips used in AI data centers, and forecasts Q1 2026 revenue and profit below market estimates &lpar;Reuters&rpar;](http://www.techmeme.com/260123/p3#a260123p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

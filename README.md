@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort](https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/)
+ - [US Judge Rules ICE Raids Require Judicial Warrants, Contradicting Secret ICE Memo](https://www.wired.com/story/us-judge-rules-ice-raids-require-judicial-warrants-contradicting-secret-ice-memo/)
  - [Source: Greenoaks, one of Brex&#39;s top investors, will return twice its investment after Capital One&#39;s Brex acquisition for $5.15B in a half-cash, half-stock deal &lpar;The Information&rpar;](http://www.techmeme.com/260123/p29#a260123p29)
  - [Congress doesn’t seem to know if the TikTok deal complies with its law](https://www.theverge.com/news/866977/tiktok-deal-congress-china)
- - [Inside Apple Maps - How to get the most out of your iPhone&#39;s navigation app](https://appleinsider.com/inside/apple-maps/tips/inside-apple-maps---how-to-get-the-most-out-of-your-iphones-navigation-app?utm_source=rss)
- - [Solos Technology sues Meta and EssilorLuxottica, alleging they willfully violated several patents that cover &quot;core technologies in the field of smart eyewear&quot; &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260123/p28#a260123p28)
- - [Sources: the US DOJ opened a criminal probe and sent out grand-jury subpoenas in recent weeks over allegations that Deel recruited a spy inside rival Rippling &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260123/p27#a260123p27)<!-- TECH:END -->
+ - [Inside Apple Maps - How to get the most out of your iPhone&#39;s navigation app](https://appleinsider.com/inside/apple-maps/tips/inside-apple-maps---how-to-get-the-most-out-of-your-iphones-navigation-app?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 😝 [Legend, both of them](http://9gag.com/gag/awyjz7y)
- - 💣 [This man is a legend already](http://9gag.com/gag/aMV7K1P)
- - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
- - 👉 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)<!-- MEMES:END -->
+ - 😝 [He is ready](http://9gag.com/gag/amoQgZV)
+ - 😝 [Perfect loop?](http://9gag.com/gag/aD29dY9)
+ - 💣 [Happy friendship day, whenever it is..](http://9gag.com/gag/a87NqYO)
+ - 😝 [Memes after seeing the latest fable trailer](http://9gag.com/gag/an7Z7YL)
+ - 👉 [Wait till the weebs and lemmings find out about immigration laws in Japan lulz](http://9gag.com/gag/aVvrxLO)<!-- MEMES:END -->
 
 ---
 

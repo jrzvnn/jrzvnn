@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`You can&#39;t defeat me!.` `No, I know. But he can!`](http://9gag.com/gag/a1mg132)
- - 😝 [A Snow Angel](http://9gag.com/gag/aO8EQR6)
- - 💣 [Honest Suggestion](http://9gag.com/gag/amoQgBV)
- - 😝 [Happy friendship day, whenever it is..](http://9gag.com/gag/a87NqYO)
- - 👉 [How to deal with a bully](http://9gag.com/gag/aByzd8N)<!-- MEMES:END -->
+ - 😝 [Equal pay:](http://9gag.com/gag/a0egNgX)
+ - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
+ - 💣 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
+ - 😝 [These guys deserve more than pizza](http://9gag.com/gag/aKGZE83)
+ - 👉 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)<!-- MEMES:END -->
 
 ---
 

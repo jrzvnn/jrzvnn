@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google invests an undisclosed sum in Sakana AI, valued at $2.6B in November 2025, to boost Gemini&#39;s presence in Japan; Sakana AI gains access to Google&#39;s LLMs &lpar;Min-Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/260123/p11#a260123p11)
+ - [We Are Rewind GB-001 Cassette Boombox: Old-School Stylish](https://www.wired.com/review/we-are-rewind-gb-000/)
  - [Creators invited to three-day Apple Creator Studio event](https://appleinsider.com/articles/26/01/23/creators-invited-to-three-day-apple-creator-studio-event?utm_source=rss)
  - [Microsoft Paint can now make AI coloring books](https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book)
- - [Malaysia lifted its temporary ban on Elon Musk&#39;s Grok AI chatbot after xAI added safety measures; Grok remains subject to continuous monitoring by authorities &lpar;Anisah Shukry/Bloomberg&rpar;](http://www.techmeme.com/260123/p10#a260123p10)
- - [149 Million Usernames and Passwords Exposed by Unsecured Database](https://www.wired.com/story/149-million-stolen-usernames-passwords/)
- - [&#39;F1&#39; driving Apple&#39;s Oscar awards ambitions in 2026](https://appleinsider.com/articles/26/01/22/f1-driving-apples-oscar-awards-ambitions-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [Malaysia lifted its temporary ban on Elon Musk&#39;s Grok AI chatbot after xAI added safety measures; Grok remains subject to continuous monitoring by authorities &lpar;Anisah Shukry/Bloomberg&rpar;](http://www.techmeme.com/260123/p10#a260123p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gmail’s spam filter and automatic sorting are broken](https://www.theverge.com/tech/867247/gmails-spam-filter-broken)
  - [Microsoft confirms it does provide BitLocker recovery keys for encrypted data if it receives a valid legal order and the user has stored the keys on its servers &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/260124/p11#a260124p11)
  - [La Liga Soccer: Stream Villarreal vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-villarreal-vs-real-madrid-live-from-anywhere/)
  - [ICE has killed another person in Minneapolis](https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis)
- - [The 7 Best Supplements for Joint Health to Support Your 2026 Wellness Goals](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health/)
- - [Sources: the EU&#39;s executive arm is drafting new legislation aimed at promoting tech sovereignty and openly discussing the security risks posed by US tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260124/p10#a260124p10)<!-- TECH:END -->
+ - [The 7 Best Supplements for Joint Health to Support Your 2026 Wellness Goals](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

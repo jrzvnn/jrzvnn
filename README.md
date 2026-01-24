@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
+ - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
  - 😝 [Name this game](http://9gag.com/gag/aqyMeBM)
- - 💣 [He needed some time for himself](http://9gag.com/gag/abADA9X)
- - 😝 [What&#39;s your goosebump songs?](http://9gag.com/gag/a4Pg1Np)
- - 👉 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)<!-- MEMES:END -->
+ - 💣 [What&#39;s your goosebump songs?](http://9gag.com/gag/a4Pg1Np)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 👉 [Emotional damage](http://9gag.com/gag/aD29Yqd)<!-- MEMES:END -->
 
 ---
 

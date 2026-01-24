@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emotional damage](http://9gag.com/gag/aD29Yqd)
- - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
+ - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
+ - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
  - 💣 [What&#39;s your goosebump songs?](http://9gag.com/gag/a4Pg1Np)
  - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 👉 [Good lesson](http://9gag.com/gag/a4Pgo1w)<!-- MEMES:END -->
+ - 👉 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)<!-- MEMES:END -->
 
 ---
 

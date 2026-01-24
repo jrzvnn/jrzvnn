@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
+ - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
  - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
  - 💣 [What&#39;s your goosebump songs?](http://9gag.com/gag/a4Pg1Np)
  - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 👉 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)<!-- MEMES:END -->
+ - 👉 [Just one of the guys](http://9gag.com/gag/a7ogqAb)<!-- MEMES:END -->
 
 ---
 

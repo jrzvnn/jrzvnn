@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
- - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
- - 💣 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 😝 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
- - 👉 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)<!-- MEMES:END -->
+ - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
+ - 💣 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
+ - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
+ - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
- - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
- - 💣 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
- - 😝 [Feeling guilty every time putting my knives back](http://9gag.com/gag/aZZX1L9)
- - 👉 [Post](http://9gag.com/gag/aD297Q7)<!-- MEMES:END -->
+ - 😝 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
+ - 😝 [I want to be Honorary Aryan](http://9gag.com/gag/aNDMLN4)
+ - 💣 [By process of elimination](http://9gag.com/gag/aYQ6G10)
+ - 😝 [Paying taxes](http://9gag.com/gag/aqyMRDP)
+ - 👉 [The Four Types Of Black Americans](http://9gag.com/gag/aryEWr5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
- - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
- - 💣 [Name this game](http://9gag.com/gag/aqyMeBM)
- - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 👉 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)<!-- MEMES:END -->
+ - 😝 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)
+ - 😝 [I once bought this new for 100 euros, goodbye partner](http://9gag.com/gag/aGyvLRz)
+ - 💣 [Memes after seeing the latest fable trailer](http://9gag.com/gag/an7Z7YL)
+ - 😝 [Grandpa&#39;s got the best summer activity](http://9gag.com/gag/an7ZOpq)
+ - 👉 [If you can dream it you can build it!](http://9gag.com/gag/aryEyEV)<!-- MEMES:END -->
 
 ---
 

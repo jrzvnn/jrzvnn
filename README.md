@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
- - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
- - 💣 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
- - 👉 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)<!-- MEMES:END -->
+ - 😝 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
+ - 💣 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
+ - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
+ - 👉 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)<!-- MEMES:END -->
 
 ---
 

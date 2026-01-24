@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 😝 [A Snow Angel](http://9gag.com/gag/aO8EQR6)
- - 💣 [It Heckin Wimdy!](http://9gag.com/gag/aMV7VX1)
- - 😝 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)
- - 👉 [If you can dream it you can build it!](http://9gag.com/gag/aryEyEV)<!-- MEMES:END -->
+ - 😝 [Emotional damage](http://9gag.com/gag/aD29Yqd)
+ - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
+ - 💣 [What&#39;s your goosebump songs?](http://9gag.com/gag/a4Pg1Np)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 👉 [Good lesson](http://9gag.com/gag/a4Pgo1w)<!-- MEMES:END -->
 
 ---
 

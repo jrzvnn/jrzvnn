@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s the Best Red Light Therapy Mask for Your Skin in 2026?](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
- - [Winter Weather Is No Joke. Here&#39;s What an Expert Does to Prepare His Home](https://www.cnet.com/home/services/experts-winter-safety-checklist/)
- - [I&#39;m a Dad, and Here&#39;s Why I&#39;m Not Posting About My Kid Online](https://www.cnet.com/tech/services-and-software/not-posting-child-online-social-media/)
- - [The 52 Best Movies on Netflix, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [3 Best Cheap Gaming Laptops &lpar;2026&rpar;: WIRED-Tested and Approved](https://www.wired.com/gallery/best-cheap-gaming-laptops/)<!-- TECH:END -->
+ - [Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More](https://www.cnet.com/tech/mobile/iphone-17e-release-date-price-specs-features-rumors/)
+ - [Best Kitchen Composters and Food Recyclers &lpar;2026&rpar;](https://www.wired.com/story/home-composters-buying-guide/)
+ - [Gemini with Personal Intelligence is awfully familiar](https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai)
+ - [Get stuff done by yelling at your phone](https://www.theverge.com/tech/866946/todoist-ramble-nexphone-crossplay-installe)
+ - [What Happened to the $500 Gold Trump Phone?](https://www.cnet.com/tech/mobile/trump-phone-delayed-until-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

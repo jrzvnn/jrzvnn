@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
+ - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
+ - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
+ - 💣 [Name this game](http://9gag.com/gag/aqyMeBM)
  - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 💣 [Emotional damage](http://9gag.com/gag/aD29Yqd)
- - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
  - 👉 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)<!-- MEMES:END -->
 
 ---

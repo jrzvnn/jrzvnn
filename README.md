@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Autonomous Aquatic Robot Is Smaller Than a Grain of Salt](https://www.wired.com/story/autonomous-aquatic-robot-smaller-than-a-grain-of-salt/)
  - [The Loch Capsule dishwasher is small, fast, and efficient — it even sanitizes gadgets](https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house)
  - [A look at Kalshi and Polymarket&#39;s rise; reports say Polymarket had 491K monthly active traders in December 2025, and &lt;0.04% of addresses took 70% of profits &lpar;Benjamin Wallace/New York Times&rpar;](http://www.techmeme.com/260124/p7#a260124p7)
  - [OpenAI and longtime US government contractor Leidos announce a partnership to roll out generative and agentic AI tools for specific missions at federal agencies &lpar;Miranda Nazzaro/FedScoop&rpar;](http://www.techmeme.com/260124/p6#a260124p6)
- - [Sources: the Trump administration dismissed two Commerce Department officials, who focused on Chinese tech threats, raising concerns about a softening stance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260124/p5#a260124p5)
- - [Memo: TikTok CEO Shou Chew hailed the establishment of the TikTok USDS JV as &quot;great news&quot;, and said the app is used by 200M US users and 7.5M US businesses &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/260124/p4#a260124p4)<!-- TECH:END -->
+ - [Sources: the Trump administration dismissed two Commerce Department officials, who focused on Chinese tech threats, raising concerns about a softening stance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260124/p5#a260124p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

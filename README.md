@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
- - 😝 [Never thought about it like that, but it&#39;s true](http://9gag.com/gag/aAyAQwR)
- - 💣 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
- - 😝 [We&#39;re down to the final 4 and one of these might just take the cake!](http://9gag.com/gag/aqyMyeZ)
- - 👉 [When you don&#39;t make games for the `modern audience`.](http://9gag.com/gag/aO8EeY3)<!-- MEMES:END -->
+ - 😝 [When you don&#39;t make games for the `modern audience`.](http://9gag.com/gag/aO8EeY3)
+ - 😝 [Grandpa&#39;s got the best summer activity](http://9gag.com/gag/an7ZOpq)
+ - 💣 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
+ - 😝 [16 century or final fantasy](http://9gag.com/gag/a87N621)
+ - 👉 [EZ PZ](http://9gag.com/gag/aByz691)<!-- MEMES:END -->
 
 ---
 

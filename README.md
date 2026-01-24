@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
  - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
- - 💣 [Name this game](http://9gag.com/gag/aqyMeBM)
- - 😝 [Bro saw the ultimate form of his species.](http://9gag.com/gag/an7Z7Oo)
- - 👉 [He needed some time for himself](http://9gag.com/gag/abADA9X)<!-- MEMES:END -->
+ - 💣 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
+ - 👉 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)<!-- MEMES:END -->
 
 ---
 

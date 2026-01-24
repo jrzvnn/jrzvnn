@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MicroSD Express cards and Anker’s travel adapter rule the deal roost this week](https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale)
  - [Gmail’s spam filter and automatic sorting are broken](https://www.theverge.com/tech/867247/gmails-spam-filter-broken)
  - [Microsoft confirms it does provide BitLocker recovery keys for encrypted data if it receives a valid legal order and the user has stored the keys on its servers &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/260124/p11#a260124p11)
- - [La Liga Soccer: Stream Villarreal vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-villarreal-vs-real-madrid-live-from-anywhere/)
- - [ICE has killed another person in Minneapolis](https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis)
- - [The 7 Best Supplements for Joint Health to Support Your 2026 Wellness Goals](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health/)<!-- TECH:END -->
+ - [I Tested Several Smart Rings, and This Is the Only One I Recommend for Tracking Your 2026 Health and Fitness Goals](https://www.cnet.com/health/fitness/best-smart-ring/)
+ - [Why World Models Are AI&#39;s Next Big Thing](https://www.cnet.com/tech/services-and-software/2026-will-be-the-year-of-world-models-heres-why-they-matter-more-than-llms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

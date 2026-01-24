@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This coming-of-age adventure game made me feel a little too seen](https://www.theverge.com/entertainment/865082/perfect-tides-station-to-station-review-steam)
  - [Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More](https://www.cnet.com/tech/mobile/iphone-17e-release-date-price-specs-features-rumors/)
  - [Best Kitchen Composters and Food Recyclers &lpar;2026&rpar;](https://www.wired.com/story/home-composters-buying-guide/)
  - [Gemini with Personal Intelligence is awfully familiar](https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai)
- - [Get stuff done by yelling at your phone](https://www.theverge.com/tech/866946/todoist-ramble-nexphone-crossplay-installe)
- - [What Happened to the $500 Gold Trump Phone?](https://www.cnet.com/tech/mobile/trump-phone-delayed-until-2026/)<!-- TECH:END -->
+ - [Get stuff done by yelling at your phone](https://www.theverge.com/tech/866946/todoist-ramble-nexphone-crossplay-installe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

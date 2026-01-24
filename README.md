@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
  - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
- - 💣 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
- - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 👉 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)<!-- MEMES:END -->
+ - 💣 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 👉 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)<!-- MEMES:END -->
 
 ---
 

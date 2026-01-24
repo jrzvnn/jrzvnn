@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is the world&#39;s most admired company for the 19th year in a row](https://appleinsider.com/articles/26/01/24/apple-is-the-worlds-most-admired-company-for-the-19th-year-in-a-row?utm_source=rss)
+ - [Get ready for the AI ad-pocalypse](https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity)
  - [Elliptic: ruble-backed stablecoin A7A5 surpassed $100B in transactions in under a year, but demand cooled and daily volume fell from a peak of $1.5B+ to ~$500M &lpar;Melos Ambaye/Bloomberg&rpar;](http://www.techmeme.com/260124/p9#a260124p9)
  - [This coming-of-age adventure game made me feel a little too seen](https://www.theverge.com/entertainment/865082/perfect-tides-station-to-station-review-steam)
- - [Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More](https://www.cnet.com/tech/mobile/iphone-17e-release-date-price-specs-features-rumors/)
- - [Best Kitchen Composters and Food Recyclers &lpar;2026&rpar;](https://www.wired.com/story/home-composters-buying-guide/)
- - [Gemini with Personal Intelligence is awfully familiar](https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai)<!-- TECH:END -->
+ - [Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More](https://www.cnet.com/tech/mobile/iphone-17e-release-date-price-specs-features-rumors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

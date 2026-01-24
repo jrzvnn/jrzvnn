@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Counterpoint: India smartphone shipments were flat YoY at ~153M; Apple shipped 14M iPhones, raising its share of shipments to a record 9%, up from 7% in 2024 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260124/p8#a260124p8)
- - [Best Portable Blenders of 2026: Ninja, Nutribullet, Beast](https://www.wired.com/story/best-portable-blenders/)
- - [DOGE May Have Misused Social Security Data, DOJ Admits](https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/)
- - [Gear News of the Week: Apple’s AI Wearable and a Phone That Can Boot Android, Linux, and Windows](https://www.wired.com/story/gear-news-of-the-week-apples-ai-wearable-and-a-phone-that-can-boot-android-linux-and-windows/)
- - [Watch Party: The Best TAG in Years, a ’60s Sensation, and Omega Goes All White](https://www.wired.com/story/lvmh-watch-week-the-best-tag-in-years-a-60s-sensation-and-omega-goes-all-white/)<!-- TECH:END -->
+ - [What&#39;s the Best Red Light Therapy Mask for Your Skin in 2026?](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
+ - [Winter Weather Is No Joke. Here&#39;s What an Expert Does to Prepare His Home](https://www.cnet.com/home/services/experts-winter-safety-checklist/)
+ - [I&#39;m a Dad, and Here&#39;s Why I&#39;m Not Posting About My Kid Online](https://www.cnet.com/tech/services-and-software/not-posting-child-online-social-media/)
+ - [The 52 Best Movies on Netflix, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [3 Best Cheap Gaming Laptops &lpar;2026&rpar;: WIRED-Tested and Approved](https://www.wired.com/gallery/best-cheap-gaming-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

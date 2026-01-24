@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ICE has killed another person in Minneapolis](https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis)
  - [Sources: the EU&#39;s executive arm is drafting new legislation aimed at promoting tech sovereignty and openly discussing the security risks posed by US tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260124/p10#a260124p10)
  - [The Best Fantasy Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-prime-video-fantasy-movies/)
  - [Gaming&amp;#8217;s most fun sales data is full of old and obscure games](https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games)
- - [Apple is the world&#39;s most admired company for the 19th year in a row](https://appleinsider.com/articles/26/01/24/apple-is-the-worlds-most-admired-company-for-the-19th-year-in-a-row?utm_source=rss)
- - [300,000 AI Poses in an Instant: My Visit to Disney Studios and the New Reality for Animation](https://www.cnet.com/tech/services-and-software/300000-ai-animated-poses-in-an-instant-my-visit-to-disney-and-the-new-reality-for-cartoons/)<!-- TECH:END -->
+ - [Apple is the world&#39;s most admired company for the 19th year in a row](https://appleinsider.com/articles/26/01/24/apple-is-the-worlds-most-admired-company-for-the-19th-year-in-a-row?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

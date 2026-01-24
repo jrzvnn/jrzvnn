@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
- - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
- - 💣 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
- - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
- - 👉 [Name this game](http://9gag.com/gag/aqyMeBM)<!-- MEMES:END -->
+ - 😝 [Name this game](http://9gag.com/gag/aqyMeBM)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 💣 [Emotional damage](http://9gag.com/gag/aD29Yqd)
+ - 😝 [He is ready](http://9gag.com/gag/amoQgZV)
+ - 👉 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)<!-- MEMES:END -->
 
 ---
 

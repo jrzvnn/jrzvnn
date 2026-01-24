@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
  - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
  - 💣 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
  - 👉 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)<!-- MEMES:END -->
 
 ---

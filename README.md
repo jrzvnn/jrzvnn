@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
- - 💣 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
+ - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
+ - 😝 [Name this game](http://9gag.com/gag/aqyMeBM)
+ - 💣 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
  - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
- - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
+ - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Portable Blenders of 2026: Ninja, Nutribullet, Beast](https://www.wired.com/story/best-portable-blenders/)
+ - [DOGE May Have Misused Social Security Data, DOJ Admits](https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/)
  - [Gear News of the Week: Apple’s AI Wearable and a Phone That Can Boot Android, Linux, and Windows](https://www.wired.com/story/gear-news-of-the-week-apples-ai-wearable-and-a-phone-that-can-boot-android-linux-and-windows/)
  - [Watch Party: The Best TAG in Years, a ’60s Sensation, and Omega Goes All White](https://www.wired.com/story/lvmh-watch-week-the-best-tag-in-years-a-60s-sensation-and-omega-goes-all-white/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 24 #692](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-24-692/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 24, #488](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-24-488/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 24, #958](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-24-958/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 24 #692](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-24-692/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
- - 😝 [Name this game](http://9gag.com/gag/aqyMeBM)
- - 💣 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
- - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
- - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
+ - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [A Snow Angel](http://9gag.com/gag/aO8EQR6)
+ - 💣 [Dog communication is fascinating](http://9gag.com/gag/a7ogo6x)
+ - 😝 [It Heckin Wimdy!](http://9gag.com/gag/aMV7VX1)
+ - 👉 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)<!-- MEMES:END -->
 
 ---
 

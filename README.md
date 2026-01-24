@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nifty Gateway, the NFT trading platform which had facilitated $300M in sales by mid-2021, enters withdrawal-only mode and plans to shut down on Feb. 23, 2026 &lpar;CoinDesk&rpar;](http://www.techmeme.com/260124/p12#a260124p12)
- - [MicroSD Express cards and Anker’s travel adapter rule the deal roost this week](https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale)
- - [Gmail’s spam filter and automatic sorting are broken](https://www.theverge.com/tech/867247/gmails-spam-filter-broken)
- - [Microsoft confirms it does provide BitLocker recovery keys for encrypted data if it receives a valid legal order and the user has stored the keys on its servers &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/260124/p11#a260124p11)
- - [I Tested Several Smart Rings, and This Is the Only One I Recommend for Tracking Your 2026 Health and Fitness Goals](https://www.cnet.com/health/fitness/best-smart-ring/)<!-- TECH:END -->
+ - [SanDisk&#39;s stock has surged ~1,000% in the past five months, driven by AI demand for its chips, which have a cost advantage thanks to its 20-year JV with Kioxia &lpar;Matt Phillips/Sherwood News&rpar;](http://www.techmeme.com/260124/p13#a260124p13)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 25 #693](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-25-693/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 25 #959](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-25-959/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 25, #1681](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-25-1681/)
+ - [Nifty Gateway, the NFT trading platform which had facilitated $300M in sales by mid-2021, enters withdrawal-only mode and plans to shut down on Feb. 23, 2026 &lpar;CoinDesk&rpar;](http://www.techmeme.com/260124/p12#a260124p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

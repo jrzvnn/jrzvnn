@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
  - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
+ - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
  - 💣 [Name this game](http://9gag.com/gag/aqyMeBM)
  - 😝 [Post](http://9gag.com/gag/aD297Q7)
  - 👉 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)<!-- MEMES:END -->

@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
  - 😝 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
- - 💣 [Post](http://9gag.com/gag/aD297Q7)
- - 😝 [Just a suggestion](http://9gag.com/gag/aE0K6XN)
+ - 💣 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
  - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
 
 ---

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple is the world&#39;s most admired company for the 19th year in a row](https://appleinsider.com/articles/26/01/24/apple-is-the-worlds-most-admired-company-for-the-19th-year-in-a-row?utm_source=rss)
- - [Why World Models Are AI&#39;s Next Big Thing](https://www.cnet.com/tech/services-and-software/2026-will-be-the-year-of-world-models-heres-why-they-matter-more-than-llms/)
  - [Get ready for the AI ad-pocalypse](https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity)
  - [Elliptic: ruble-backed stablecoin A7A5 surpassed $100B in transactions in under a year, but demand cooled and daily volume fell from a peak of $1.5B+ to ~$500M &lpar;Melos Ambaye/Bloomberg&rpar;](http://www.techmeme.com/260124/p9#a260124p9)
- - [This coming-of-age adventure game made me feel a little too seen](https://www.theverge.com/entertainment/865082/perfect-tides-station-to-station-review-steam)<!-- TECH:END -->
+ - [This coming-of-age adventure game made me feel a little too seen](https://www.theverge.com/entertainment/865082/perfect-tides-station-to-station-review-steam)
+ - [Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More](https://www.cnet.com/tech/mobile/iphone-17e-release-date-price-specs-features-rumors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

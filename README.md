@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 24, #488](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-24-488/)
- - [Google Photos Adds AI-Powered Meme Creation With &#39;Me Meme&#39;](https://www.cnet.com/tech/services-and-software/google-photos-adds-ai-powered-meme-creation-with-me-meme/)
- - [‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort](https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/)
- - [US Judge Rules ICE Raids Require Judicial Warrants, Contradicting Secret ICE Memo](https://www.wired.com/story/us-judge-rules-ice-raids-require-judicial-warrants-contradicting-secret-ice-memo/)
- - [Source: Greenoaks, one of Brex&#39;s top investors, will return twice its investment after Capital One&#39;s Brex acquisition for $5.15B in a half-cash, half-stock deal &lpar;The Information&rpar;](http://www.techmeme.com/260123/p29#a260123p29)<!-- TECH:END -->
+ - [Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops](https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell)
+ - [Court filing: SEC drops a case against Gemini Trust, founded by the Winklevoss twins, major Trump donors; the case stemmed from Gemini Earn&#39;s implosion &lpar;New York Times&rpar;](http://www.techmeme.com/260123/p31#a260123p31)
+ - [Google Photos&#39; latest generative AI-powered feature, &quot;Me Meme&quot;, lets users create memes from their own images, launching first in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260123/p30#a260123p30)
+ - [I Tested 6 Microcurrent Devices for 2 Months. This Is Best One for Firmer Skin in 2026](https://www.cnet.com/health/best-microcurrent-devices/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 24, #488](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-24-488/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

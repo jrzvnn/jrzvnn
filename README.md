@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you don&#39;t make games for the `modern audience`.](http://9gag.com/gag/aO8EeY3)
- - 😝 [Grandpa&#39;s got the best summer activity](http://9gag.com/gag/an7ZOpq)
- - 💣 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
- - 😝 [16 century or final fantasy](http://9gag.com/gag/a87N621)
- - 👉 [EZ PZ](http://9gag.com/gag/aByz691)<!-- MEMES:END -->
+ - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
+ - 😝 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
+ - 💣 [Post](http://9gag.com/gag/aD297Q7)
+ - 😝 [Just a suggestion](http://9gag.com/gag/aE0K6XN)
+ - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
 
 ---
 

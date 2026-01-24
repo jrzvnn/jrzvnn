@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Snow Angel](http://9gag.com/gag/aO8EQR6)
- - 😝 [Dog communication is fascinating](http://9gag.com/gag/a7ogo6x)
- - 💣 [Post](http://9gag.com/gag/aD297Q7)
- - 😝 [It Heckin Wimdy!](http://9gag.com/gag/aMV7VX1)
- - 👉 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)<!-- MEMES:END -->
+ - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
+ - 😝 [Name this game](http://9gag.com/gag/aqyMeBM)
+ - 💣 [He needed some time for himself](http://9gag.com/gag/abADA9X)
+ - 😝 [What&#39;s your goosebump songs?](http://9gag.com/gag/a4Pg1Np)
+ - 👉 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)<!-- MEMES:END -->
 
 ---
 

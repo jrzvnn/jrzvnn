@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-24/)
- - [TikTok users in the US were presented with a new privacy policy; the changes were part of the app&#39;s ownership transition and now allow precise location tracking &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260123/p32#a260123p32)
- - [Best Senior Phone Plans of 2026](https://www.cnet.com/tech/mobile/best-senior-phone-plans/)
- - [Chromebooks train schoolkids to be loyal customers, internal Google document suggests](https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings)
- - [This Mega Snowstorm Will Be a Test for the US Supply Chain](https://www.wired.com/story/here-comes-a-mega-snowstorm-shipping-logistics/)<!-- TECH:END -->
+ - [Sources: Grab&#39;s planned acquisition of GoTo has hit a snag over Indonesian carrier Telkomsel&#39;s unwillingness to sell its ~2% stake in GoTo at current valuations &lpar;Bloomberg&rpar;](http://www.techmeme.com/260124/p2#a260124p2)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [Google acquires Common Sense Machines, whose AI models create 3D assets from 2D images, and was last valued at $15M after raising $10M from a16z and others &lpar;The Information&rpar;](http://www.techmeme.com/260124/p1#a260124p1)
+ - [$100 Off Home Depot Promo Code | January 2026](https://www.wired.com/story/home-depot-promo-code/)
+ - [60% HP Discount Codes &amp; Coupons January 2026](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

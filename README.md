@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: OpenAI mulls new tools to help business users understand the financial benefits of using its products and has made changes to its sales force strategy &lpar;The Information&rpar;](http://www.techmeme.com/260124/p14#a260124p14)
+ - [ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations](https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/)
  - [SanDisk&#39;s stock has surged ~1,000% in the past five months, driven by AI demand for its chips, which have a cost advantage thanks to its 20-year JV with Kioxia &lpar;Matt Phillips/Sherwood News&rpar;](http://www.techmeme.com/260124/p13#a260124p13)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 25 #693](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-25-693/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 25 #959](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-25-959/)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 25, #1681](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-25-1681/)
- - [Nifty Gateway, the NFT trading platform which had facilitated $300M in sales by mid-2021, enters withdrawal-only mode and plans to shut down on Feb. 23, 2026 &lpar;CoinDesk&rpar;](http://www.techmeme.com/260124/p12#a260124p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 25 #959](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-25-959/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

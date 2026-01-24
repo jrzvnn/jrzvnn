@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
- - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 💣 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
+ - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
+ - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
+ - 💣 [Name this game](http://9gag.com/gag/aqyMeBM)
  - 😝 [Bro saw the ultimate form of his species.](http://9gag.com/gag/an7Z7Oo)
- - 👉 [Post](http://9gag.com/gag/aD297Q7)<!-- MEMES:END -->
+ - 👉 [He needed some time for himself](http://9gag.com/gag/abADA9X)<!-- MEMES:END -->
 
 ---
 

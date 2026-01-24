@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
- - 😝 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 💣 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 😝 [Klassiker](http://9gag.com/gag/aZZXZe6)
- - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
+ - 😝 [Sho ronery](http://9gag.com/gag/amoQorj)
+ - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 💣 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)
+ - 😝 [If you can dream it you can build it!](http://9gag.com/gag/aryEyEV)
+ - 👉 [Dog communication is fascinating](http://9gag.com/gag/a7ogo6x)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the EU&#39;s executive arm is drafting new legislation aimed at promoting tech sovereignty and openly discussing the security risks posed by US tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260124/p10#a260124p10)
+ - [The Best Fantasy Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-prime-video-fantasy-movies/)
+ - [Gaming&amp;#8217;s most fun sales data is full of old and obscure games](https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games)
  - [Apple is the world&#39;s most admired company for the 19th year in a row](https://appleinsider.com/articles/26/01/24/apple-is-the-worlds-most-admired-company-for-the-19th-year-in-a-row?utm_source=rss)
- - [Get ready for the AI ad-pocalypse](https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity)
- - [Elliptic: ruble-backed stablecoin A7A5 surpassed $100B in transactions in under a year, but demand cooled and daily volume fell from a peak of $1.5B+ to ~$500M &lpar;Melos Ambaye/Bloomberg&rpar;](http://www.techmeme.com/260124/p9#a260124p9)
- - [This coming-of-age adventure game made me feel a little too seen](https://www.theverge.com/entertainment/865082/perfect-tides-station-to-station-review-steam)
- - [Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More](https://www.cnet.com/tech/mobile/iphone-17e-release-date-price-specs-features-rumors/)<!-- TECH:END -->
+ - [300,000 AI Poses in an Instant: My Visit to Disney Studios and the New Reality for Animation](https://www.cnet.com/tech/services-and-software/300000-ai-animated-poses-in-an-instant-my-visit-to-disney-and-the-new-reality-for-cartoons/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

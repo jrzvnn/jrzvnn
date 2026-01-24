@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
- - 😝 [I want to be Honorary Aryan](http://9gag.com/gag/aNDMLN4)
- - 💣 [By process of elimination](http://9gag.com/gag/aYQ6G10)
- - 😝 [Paying taxes](http://9gag.com/gag/aqyMRDP)
- - 👉 [The Four Types Of Black Americans](http://9gag.com/gag/aryEWr5)<!-- MEMES:END -->
+ - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
+ - 😝 [Emotional damage](http://9gag.com/gag/aD29Yqd)
+ - 💣 [Bro saw the ultimate form of his species.](http://9gag.com/gag/an7Z7Oo)
+ - 😝 [Smart horse](http://9gag.com/gag/aD2964B)
+ - 👉 [Post](http://9gag.com/gag/aD297Q7)<!-- MEMES:END -->
 
 ---
 

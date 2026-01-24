@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Name this game](http://9gag.com/gag/aqyMeBM)
- - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [What did you expect?](http://9gag.com/gag/aYQ6QyN)
  - 💣 [Emotional damage](http://9gag.com/gag/aD29Yqd)
- - 😝 [He is ready](http://9gag.com/gag/amoQgZV)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
  - 👉 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)<!-- MEMES:END -->
 
 ---

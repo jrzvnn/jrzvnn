@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: TikTok CEO Shou Chew hailed the establishment of the TikTok USDS JV as &quot;great news&quot;, and said the app is used by 200M US users and 7.5M US businesses &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/260124/p4#a260124p4)
  - [Intel&#39;s stock, riding high for months after the US government took a 10% stake, crashed 17% on Jan. 23, after the company flagged continued operational issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260124/p3#a260124p3)
  - [TopResume Free Review, Discounts &amp; Packages for 2026](https://www.wired.com/story/topresume-discount-code/)
  - [Sources: Grab&#39;s planned acquisition of GoTo has hit a snag over Indonesian carrier Telkomsel&#39;s unwillingness to sell its ~2% stake in GoTo at current valuations &lpar;Bloomberg&rpar;](http://www.techmeme.com/260124/p2#a260124p2)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Google acquires Common Sense Machines, whose AI models create 3D assets from 2D images, and was last valued at $15M after raising $10M from a16z and others &lpar;The Information&rpar;](http://www.techmeme.com/260124/p1#a260124p1)<!-- TECH:END -->
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

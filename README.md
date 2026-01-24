@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
- - 😝 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
+ - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
  - 💣 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
- - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
- - 👉 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)<!-- MEMES:END -->
+ - 😝 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
+ - 👉 [Post](http://9gag.com/gag/aD297Q7)<!-- MEMES:END -->
 
 ---
 

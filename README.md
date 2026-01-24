@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [La Liga Soccer: Stream Villarreal vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-villarreal-vs-real-madrid-live-from-anywhere/)
  - [ICE has killed another person in Minneapolis](https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis)
+ - [The 7 Best Supplements for Joint Health to Support Your 2026 Wellness Goals](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health/)
  - [Sources: the EU&#39;s executive arm is drafting new legislation aimed at promoting tech sovereignty and openly discussing the security risks posed by US tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260124/p10#a260124p10)
- - [The Best Fantasy Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-prime-video-fantasy-movies/)
- - [Gaming&amp;#8217;s most fun sales data is full of old and obscure games](https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games)
- - [Apple is the world&#39;s most admired company for the 19th year in a row](https://appleinsider.com/articles/26/01/24/apple-is-the-worlds-most-admired-company-for-the-19th-year-in-a-row?utm_source=rss)<!-- TECH:END -->
+ - [The Best Fantasy Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-prime-video-fantasy-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

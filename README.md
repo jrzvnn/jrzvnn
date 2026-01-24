@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
+ - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
+ - 💣 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
  - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 😝 [What did you expect?](http://9gag.com/gag/aYQ6QyN)
- - 💣 [Emotional damage](http://9gag.com/gag/aD29Yqd)
- - 😝 [Post](http://9gag.com/gag/aD297Q7)
  - 👉 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)<!-- MEMES:END -->
 
 ---

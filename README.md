@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops](https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell)
- - [Court filing: SEC drops a case against Gemini Trust, founded by the Winklevoss twins, major Trump donors; the case stemmed from Gemini Earn&#39;s implosion &lpar;New York Times&rpar;](http://www.techmeme.com/260123/p31#a260123p31)
- - [Google Photos&#39; latest generative AI-powered feature, &quot;Me Meme&quot;, lets users create memes from their own images, launching first in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260123/p30#a260123p30)
- - [I Tested 6 Microcurrent Devices for 2 Months. This Is Best One for Firmer Skin in 2026](https://www.cnet.com/health/best-microcurrent-devices/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 24, #488](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-24-488/)<!-- TECH:END -->
+ - [TikTok users in the US were presented with a new privacy policy; the changes were part of the app&#39;s ownership transition and now allow precise location tracking &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260123/p32#a260123p32)
+ - [Best Senior Phone Plans of 2026](https://www.cnet.com/tech/mobile/best-senior-phone-plans/)
+ - [Chromebooks train schoolkids to be loyal customers, internal Google document suggests](https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings)
+ - [This Mega Snowstorm Will Be a Test for the US Supply Chain](https://www.wired.com/story/here-comes-a-mega-snowstorm-shipping-logistics/)
+ - [Clearly Filtered Discount: Pitcher, Water Bottle, Under-Sink](https://www.wired.com/story/clearly-filtered-sale-january-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

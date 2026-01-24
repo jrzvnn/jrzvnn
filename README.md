@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
- - 💣 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 💣 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
  - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 👉 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)<!-- MEMES:END -->
+ - 👉 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)<!-- MEMES:END -->
 
 ---
 

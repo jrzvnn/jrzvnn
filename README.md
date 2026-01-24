@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
- - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
- - 💣 [But wait there is more](http://9gag.com/gag/aE0Kqgx)
- - 😝 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
- - 👉 [Post](http://9gag.com/gag/aD297Q7)<!-- MEMES:END -->
+ - 😝 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
+ - 😝 [Never thought about it like that, but it&#39;s true](http://9gag.com/gag/aAyAQwR)
+ - 💣 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
+ - 😝 [We&#39;re down to the final 4 and one of these might just take the cake!](http://9gag.com/gag/aqyMyeZ)
+ - 👉 [When you don&#39;t make games for the `modern audience`.](http://9gag.com/gag/aO8EeY3)<!-- MEMES:END -->
 
 ---
 

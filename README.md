@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
  - 😝 [A Snow Angel](http://9gag.com/gag/aO8EQR6)
- - 💣 [Dog communication is fascinating](http://9gag.com/gag/a7ogo6x)
+ - 😝 [Dog communication is fascinating](http://9gag.com/gag/a7ogo6x)
+ - 💣 [Post](http://9gag.com/gag/aD297Q7)
  - 😝 [It Heckin Wimdy!](http://9gag.com/gag/aMV7VX1)
  - 👉 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)<!-- MEMES:END -->
 

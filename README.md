@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
- - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
- - 💣 [Name this game](http://9gag.com/gag/aqyMeBM)
- - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 👉 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)<!-- MEMES:END -->
+ - 😝 [Oklahoma has a live map of their snowplows](https://www.reddit.com/r/funny/comments/1qlpsir/oklahoma_has_a_live_map_of_their_snowplows/)
+ - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
+ - 💣 [He needed some time for himself](http://9gag.com/gag/abADA9X)
+ - 😝 [Name this game](http://9gag.com/gag/aqyMeBM)
+ - 👉 [Good lesson](http://9gag.com/gag/a4Pgo1w)<!-- MEMES:END -->
 
 ---
 

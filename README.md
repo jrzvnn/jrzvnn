@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emotional damage](http://9gag.com/gag/aD29Yqd)
- - 😝 [Name this game](http://9gag.com/gag/aqyMeBM)
- - 💣 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
- - 😝 [Paying taxes](http://9gag.com/gag/aqyMRDP)
- - 👉 [What&#39;s your goosebump songs?](http://9gag.com/gag/a4Pg1Np)<!-- MEMES:END -->
+ - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
+ - 😝 [Good lesson](http://9gag.com/gag/a4Pgo1w)
+ - 💣 [Name this game](http://9gag.com/gag/aqyMeBM)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 👉 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)<!-- MEMES:END -->
 
 ---
 

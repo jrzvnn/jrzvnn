@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
+ - 😝 [*God left*](http://9gag.com/gag/a5QgBQG)
  - 😝 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
  - 💣 [Did she want that in football fields per second units?](http://9gag.com/gag/a1mgDYG)
  - 😝 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose wisely](http://9gag.com/gag/a0egXxn)
- - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
  - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 👉 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)<!-- MEMES:END -->
+ - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
+ - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [The doctor didn&#39;t hold back](http://9gag.com/gag/ayNr4pM)
+ - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
 
 ---
 

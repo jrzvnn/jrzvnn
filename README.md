@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Long Should You Cold Plunge? We Asked Experts &lpar;2026&rpar;](https://www.wired.com/story/how-long-do-you-cold-plunge/)
  - [The Lego Pokémon Line Shows Toys Are Only for Rich Adults Now](https://www.wired.com/story/legos-pokemon-partnership-shows-toys-are-only-for-rich-adults-now/)
  - [Bambu P1S Combo Review: Clean, Fast, 3D Printing](https://www.wired.com/review/bambu-p1s-combo/)
  - [The 10 Best Essential Oil Diffusers We’ve Tried in 2026 &lpar;and 2 to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)
- - [Domain Name Stat: the number of .ai domains has surpassed 1M; data suggests Anguilla, the UK territory managing the domain, made ~$70M in fees in the past year &lpar;Sherwood News&rpar;](http://www.techmeme.com/260125/p3#a260125p3)
- - [HSBC: JioHotstar had 300M paying subscribers in India in 2025, compared with 65M for Amazon Prime Video and 20M for Netflix; ~24% of OTT users pay for content &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260125/p2#a260125p2)<!-- TECH:END -->
+ - [Domain Name Stat: the number of .ai domains has surpassed 1M; data suggests Anguilla, the UK territory managing the domain, made ~$70M in fees in the past year &lpar;Sherwood News&rpar;](http://www.techmeme.com/260125/p3#a260125p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

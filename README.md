@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The great e-bike crackdown has begun](https://www.theverge.com/column/866218/e-bike-crackdown)
  - [Crime blotter: iPad used in $3 million crypto heist](https://appleinsider.com/articles/26/01/25/crime-blotter-ipad-used-in-3-million-crypto-heist?utm_source=rss)
  - [Phonak Audeo Infinio Ultra Sphere Review: Premium Hearing Aids](https://www.wired.com/review/phonak-audeo-infinio-ultra-sphere/)
  - [No One Is Quite Sure Why Ice Is Slippery](https://www.wired.com/story/no-one-is-quite-sure-why-ice-is-slippery/)
- - [Q&amp;A with David Liu, CEO of PlusAI, which is slated to go public next month, on the ongoing commercial trial of its autonomous truck driving software, and more &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/260125/p4#a260125p4)
- - [How Long Should You Cold Plunge? We Asked Experts &lpar;2026&rpar;](https://www.wired.com/story/how-long-do-you-cold-plunge/)<!-- TECH:END -->
+ - [Q&amp;A with David Liu, CEO of PlusAI, which is slated to go public next month, on the ongoing commercial trial of its autonomous truck driving software, and more &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/260125/p4#a260125p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

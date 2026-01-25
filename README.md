@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)
  - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
- - 😝 [The mystery machine](http://9gag.com/gag/aoyoW7w)
- - 💣 [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
- - 😝 [I&#39;ve been there... ...millions of years ago.](http://9gag.com/gag/abAD4m9)
+ - 💣 [The mystery machine](http://9gag.com/gag/aoyoW7w)
+ - 😝 [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
  - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
 
 ---

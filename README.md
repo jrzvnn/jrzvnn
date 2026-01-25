@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EquipmentShare, which runs a jobsite tech and equipment rental platform for the construction industry, raised $747.3M in its IPO, valuing the company at $7.16B &lpar;Reuters&rpar;](http://www.techmeme.com/260124/p16#a260124p16)
+ - [The day of the second killing](https://www.theverge.com/policy/867410/minneapolis-ice-protest-alex-pretti-killing)
+ - [Tests show GPT-5.2 on ChatGPT citing Grokipedia as a source on a wide range of queries, including on Iranian conglomerates and Holocaust deniers &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/260124/p15#a260124p15)
  - [The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti](https://www.wired.com/story/the-instant-smear-campaign-against-border-patrol-shooting-victim-alex-pretti/)
- - [Microsoft handed the government encryption keys for customer data](https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi)
- - [Source: OpenAI mulls new tools to help business users understand the financial benefits of using its products and has made changes to its sales force strategy &lpar;The Information&rpar;](http://www.techmeme.com/260124/p14#a260124p14)
- - [ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations](https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/)
- - [SanDisk&#39;s stock has surged ~1,000% in the past five months, driven by AI demand for its chips, which have a cost advantage thanks to its 20-year JV with Kioxia &lpar;Matt Phillips/Sherwood News&rpar;](http://www.techmeme.com/260124/p13#a260124p13)<!-- TECH:END -->
+ - [Microsoft handed the government encryption keys for customer data](https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

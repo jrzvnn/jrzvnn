@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: scientists who appeared to use LLMs posted 33% more papers on arXiv than those who didn&#39;t, as concerns grow over AI slop in scientific publishing &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/260125/p1#a260125p1)
  - [A look at Clawdbot, an open-source personal AI agent that runs locally on the user&#39;s computer and integrates with multiple LLMs and messaging services &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/260124/p17#a260124p17)
  - [EquipmentShare, which runs a jobsite tech and equipment rental platform for the construction industry, raised $747.3M in its IPO, valuing the company at $7.16B &lpar;Reuters&rpar;](http://www.techmeme.com/260124/p16#a260124p16)
  - [The day of the second killing](https://www.theverge.com/policy/867410/minneapolis-ice-protest-alex-pretti-killing)
- - [Tests show GPT-5.2 on ChatGPT citing Grokipedia as a source on a wide range of queries, including on Iranian conglomerates and Holocaust deniers &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/260124/p15#a260124p15)
- - [The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti](https://www.wired.com/story/the-instant-smear-campaign-against-border-patrol-shooting-victim-alex-pretti/)<!-- TECH:END -->
+ - [Tests show GPT-5.2 on ChatGPT citing Grokipedia as a source on a wide range of queries, including on Iranian conglomerates and Holocaust deniers &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/260124/p15#a260124p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

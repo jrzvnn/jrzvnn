@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
- - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
- - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
+ - 😝 [The mystery machine](http://9gag.com/gag/aoyoW7w)
+ - 😝 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
+ - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [What does your elf eyes tell you legoland?](http://9gag.com/gag/ajPvLr1)
+ - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)
- - 😝 [16 century or final fantasy](http://9gag.com/gag/a87N621)
- - 💣 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
- - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
- - 👉 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)<!-- MEMES:END -->
+ - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
+ - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [The curse is lifted](http://9gag.com/gag/aGyvnqw)
+ - 👉 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)<!-- MEMES:END -->
 
 ---
 

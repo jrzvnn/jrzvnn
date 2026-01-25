@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Meta&#39;s decision to deprioritize VR in favor of AI and internet-connected glasses has chilled the VR industry, leading to concerns about its future &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260125/p6#a260125p6)
  - [Creators and communities everywhere take a stand against ICE](https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice)
  - [It doesn’t matter if Alex Pretti had a gun](https://www.theverge.com/policy/867455/dhs-ice-border-patrol-minneapolis-alex-pretti)
- - [Setapp denied Launchpad replacement for not using AI. This is not good.](https://appleinsider.com/articles/26/01/25/setapp-denied-launchpad-replacement-for-not-using-ai-this-is-not-good?utm_source=rss)
- - [Trusting your phone to Abxylute’s mobile controller requires a big leap of faith](https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth)<!-- TECH:END -->
+ - [Super Bowl 2026 Performances: How to Watch the Halftime Show and Pre-Show](https://www.cnet.com/tech/services-and-software/super-bowl-2026-bad-bunny-halftime-show-and-pre-show/)
+ - [Setapp denied Launchpad replacement for not using AI. This is not good.](https://appleinsider.com/articles/26/01/25/setapp-denied-launchpad-replacement-for-not-using-ai-this-is-not-good?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

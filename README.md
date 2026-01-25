@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mystery machine](http://9gag.com/gag/aoyoW7w)
- - 😝 [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)
- - 💣 [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
- - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
- - 👉 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)<!-- MEMES:END -->
+ - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
+ - 😝 [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
+ - 💣 [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)
+ - 😝 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
+ - 👉 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
 
 ---
 

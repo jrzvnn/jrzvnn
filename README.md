@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did she want that in football fields per second units?](http://9gag.com/gag/a1mgDYG)
- - 😝 [People enjoying a nice quiet evening at a cafe in Tokyo. Then a loud obnoxious man came in.](http://9gag.com/gag/aZZXww3)
- - 💣 [What does your elf eyes tell you legoland?](http://9gag.com/gag/ajPvLr1)
- - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 👉 [I mean yah sure](http://9gag.com/gag/ayNr4bV)<!-- MEMES:END -->
+ - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
+ - 😝 [The mystery machine](http://9gag.com/gag/aoyoW7w)
+ - 💣 [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
+ - 😝 [I&#39;ve been there... ...millions of years ago.](http://9gag.com/gag/abAD4m9)
+ - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
 
 ---
 

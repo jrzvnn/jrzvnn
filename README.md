@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Lego Pokémon Line Shows Toys Are Only for Rich Adults Now](https://www.wired.com/story/legos-pokemon-partnership-shows-toys-are-only-for-rich-adults-now/)
+ - [Bambu P1S Combo Review: Clean, Fast, 3D Printing](https://www.wired.com/review/bambu-p1s-combo/)
  - [The 10 Best Essential Oil Diffusers We’ve Tried in 2026 &lpar;and 2 to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)
  - [Domain Name Stat: the number of .ai domains has surpassed 1M; data suggests Anguilla, the UK territory managing the domain, made ~$70M in fees in the past year &lpar;Sherwood News&rpar;](http://www.techmeme.com/260125/p3#a260125p3)
- - [HSBC: JioHotstar had 300M paying subscribers in India in 2025, compared with 65M for Amazon Prime Video and 20M for Netflix; ~24% of OTT users pay for content &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260125/p2#a260125p2)
- - [Analysis: scientists who appeared to use LLMs posted 33% more papers on arXiv than those who didn&#39;t, as concerns grow over AI slop in scientific publishing &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/260125/p1#a260125p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 25, #489](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-25-489/)<!-- TECH:END -->
+ - [HSBC: JioHotstar had 300M paying subscribers in India in 2025, compared with 65M for Amazon Prime Video and 20M for Netflix; ~24% of OTT users pay for content &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260125/p2#a260125p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

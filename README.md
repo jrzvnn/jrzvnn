@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s unusual OS 27 code name shift could reflect AI strategy changes, or nothing at all](https://appleinsider.com/articles/26/01/25/apples-unusual-os-27-code-name-shift-could-reflect-ai-strategy-changes?utm_source=rss)
+ - [WWE Royal Rumble 2026: Where to Watch, Match Card, Start Time](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)
  - [Sony’s first clip earbuds don’t quite hit the mark](https://www.theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review)
  - [New MacBook Pros are expected soon, but maybe not just days away](https://appleinsider.com/articles/26/01/25/new-macbook-pros-are-expected-soon-but-maybe-not-just-days-away?utm_source=rss)
- - [New Siri expected to finally debut in iOS 26.4 beta](https://appleinsider.com/articles/26/01/25/new-siri-expected-to-finally-debut-in-ios-264-beta-shortly?utm_source=rss)
- - [Want a Galaxy S25 Ultra for Cheap? Buy a Galaxy S24 Ultra Instead](https://www.cnet.com/tech/mobile/want-a-galaxy-s25-ultra-for-cheap-buy-a-galaxy-s24-ultra-instead/)<!-- TECH:END -->
+ - [New Siri expected to finally debut in iOS 26.4 beta](https://appleinsider.com/articles/26/01/25/new-siri-expected-to-finally-debut-in-ios-264-beta-shortly?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

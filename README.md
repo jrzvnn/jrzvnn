@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*God left*](http://9gag.com/gag/a5QgBQG)
- - 😝 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
- - 💣 [Did she want that in football fields per second units?](http://9gag.com/gag/a1mgDYG)
- - 😝 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
- - 👉 [Smart horse](http://9gag.com/gag/aD2964B)<!-- MEMES:END -->
+ - 😝 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)
+ - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 💣 [16 century or final fantasy](http://9gag.com/gag/a87N621)
+ - 😝 [Italian wife has her reasons](http://9gag.com/gag/aGyv8y7)
+ - 👉 [Post](http://9gag.com/gag/aD297Q7)<!-- MEMES:END -->
 
 ---
 

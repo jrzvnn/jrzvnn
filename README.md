@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Puppy Bowl 2026: How to Watch and Stream the Furry Showdown](https://www.cnet.com/tech/services-and-software/how-to-watch-puppy-bowl-2026/)
+ - [A deep dive into Apple&#39;s AI strategy reset, as it prepares to announce a Gemini-powered personalized Siri next month and a reimagined chatbot-like Siri at WWDC &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260125/p5#a260125p5)
  - [Why won’t anyone stop ICE from masking?](https://www.theverge.com/policy/867202/ice-mask-ban-no-secret-police-california)
- - [How to Recycle Printers and Laptops Instantly for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)
  - [Apple&#39;s unusual OS 27 code name shift could reflect AI strategy changes, or nothing at all](https://appleinsider.com/articles/26/01/25/apples-unusual-os-27-code-name-shift-could-reflect-ai-strategy-changes?utm_source=rss)
- - [Patriots vs. Broncos and Rams vs. Seahawks: How to Watch AFC and NFC Title Games Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-nfl-playoffs-2026/)<!-- TECH:END -->
+ - [WWE Royal Rumble 2026: Where to Watch, Match Card, Start Time](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)
+ - [Sony’s first clip earbuds don’t quite hit the mark](https://www.theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

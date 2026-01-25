@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
- - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 💣 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
- - 😝 [Italian wife has her reasons](http://9gag.com/gag/aGyv8y7)
- - 👉 [Post](http://9gag.com/gag/aD297Q7)<!-- MEMES:END -->
+ - 😝 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
+ - 😝 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
+ - 💣 [Did she want that in football fields per second units?](http://9gag.com/gag/a1mgDYG)
+ - 😝 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
+ - 👉 [Smart horse](http://9gag.com/gag/aD2964B)<!-- MEMES:END -->
 
 ---
 

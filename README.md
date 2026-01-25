@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You don&#39;t say?!](http://9gag.com/gag/aVvrg9n)
- - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 💣 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)
+ - 😝 [16 century or final fantasy](http://9gag.com/gag/a87N621)
+ - 💣 [Post](http://9gag.com/gag/aD297Q7)
  - 😝 [What does your elf eyes tell you legoland?](http://9gag.com/gag/ajPvLr1)
- - 👉 [Post](http://9gag.com/gag/aD297Q7)<!-- MEMES:END -->
+ - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
 
 ---
 

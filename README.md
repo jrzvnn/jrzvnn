@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Expert-Approved Continuous Glucose Monitors for Easy Tracking in 2026](https://www.cnet.com/health/medical/best-continuous-glucose-monitors-according-to-experts/)
  - [Power prices surge in Virginia, home to the world&#39;s largest data center hub; record demand is expected during the winter storm, partly due to data center needs &lpar;Tim McLaughlin/Reuters&rpar;](http://www.techmeme.com/260125/p7#a260125p7)
  - [Apple&#39;s M5 iPad Pro drops to $899, plus save $600 on blowout M4 spec](https://appleinsider.com/articles/26/01/25/apples-m5-ipad-pro-drops-to-899-plus-save-600-on-blowout-m4-spec?utm_source=rss)
  - [Why Minnesota Can&#39;t Do More to Stop ICE](https://www.wired.com/story/why-minnesota-cant-do-more-to-stop-ice/)
- - [Meta&#39;s decision to deprioritize VR in favor of AI and internet-connected glasses has chilled the VR industry, leading to concerns about its future &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260125/p6#a260125p6)
- - [Creators and communities everywhere take a stand against ICE](https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice)<!-- TECH:END -->
+ - [Meta&#39;s decision to deprioritize VR in favor of AI and internet-connected glasses has chilled the VR industry, leading to concerns about its future &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260125/p6#a260125p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

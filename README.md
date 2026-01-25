@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)
+ - 😝 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
+ - 😝 [The mystery machine](http://9gag.com/gag/aoyoW7w)
+ - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
  - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
- - 💣 [The mystery machine](http://9gag.com/gag/aoyoW7w)
- - 😝 [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
- - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
+ - 👉 [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)<!-- MEMES:END -->
 
 ---
 

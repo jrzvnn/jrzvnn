@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
- - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [You don&#39;t say?!](http://9gag.com/gag/aVvrg9n)
+ - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
  - 💣 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)
- - 😝 [Bored of peace](http://9gag.com/gag/ae9zOL5)
+ - 😝 [What does your elf eyes tell you legoland?](http://9gag.com/gag/ajPvLr1)
  - 👉 [Post](http://9gag.com/gag/aD297Q7)<!-- MEMES:END -->
 
 ---

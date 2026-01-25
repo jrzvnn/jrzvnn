@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Creators and communities everywhere take a stand against ICE](https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice)
+ - [It doesn’t matter if Alex Pretti had a gun](https://www.theverge.com/policy/867455/dhs-ice-border-patrol-minneapolis-alex-pretti)
+ - [Super Bowl 2026 Performances: How to Watch the Halftime Show and Pre-Show](https://www.cnet.com/tech/services-and-software/super-bowl-2026-bad-bunny-halftime-show-and-pre-show/)
  - [Setapp denied Launchpad replacement for not using AI. This is not good.](https://appleinsider.com/articles/26/01/25/setapp-denied-launchpad-replacement-for-not-using-ai-this-is-not-good?utm_source=rss)
- - [Trusting your phone to Abxylute’s mobile controller requires a big leap of faith](https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth)
- - [A deep dive into Apple&#39;s AI strategy reset, as it prepares to announce a Gemini-powered personalized Siri next month and a reimagined chatbot-like Siri at WWDC &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260125/p5#a260125p5)
- - [Puppy Bowl 2026: How to Watch and Stream the Furry Showdown](https://www.cnet.com/tech/services-and-software/how-to-watch-puppy-bowl-2026/)
- - [Why won’t anyone stop ICE from masking?](https://www.theverge.com/policy/867202/ice-mask-ban-no-secret-police-california)<!-- TECH:END -->
+ - [Trusting your phone to Abxylute’s mobile controller requires a big leap of faith](https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

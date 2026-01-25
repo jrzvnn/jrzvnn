@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yet he\u2019s still a billionaire.](http://9gag.com/gag/aD297gZ)
- - 😝 [Kurt Cobain was ahead of his time complaining about ticket prices](http://9gag.com/gag/aLno1OV)
- - 💣 [Post](http://9gag.com/gag/aD297Q7)
- - 😝 [Name this game](http://9gag.com/gag/aqyMeBM)
- - 👉 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)<!-- MEMES:END -->
+ - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
+ - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 💣 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
 
 ---
 

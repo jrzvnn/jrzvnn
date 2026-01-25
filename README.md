@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
- - 😝 [We&#39;re down to the final 4 and one of these might just take the cake!](http://9gag.com/gag/aqyMyeZ)
- - 💣 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
- - 😝 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
- - 👉 [Smart horse](http://9gag.com/gag/aD2964B)<!-- MEMES:END -->
+ - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 👉 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)<!-- MEMES:END -->
 
 ---
 

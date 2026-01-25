@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s unusual OS 27 code name shift could reflect AI strategy changes, or nothing at all](https://appleinsider.com/articles/26/01/25/apples-unusual-os-27-code-name-shift-could-reflect-ai-strategy-changes?utm_source=rss)
+ - [Sony’s first clip earbuds don’t quite hit the mark](https://www.theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review)
  - [New MacBook Pros are expected soon, but maybe not just days away](https://appleinsider.com/articles/26/01/25/new-macbook-pros-are-expected-soon-but-maybe-not-just-days-away?utm_source=rss)
- - [New Siri expected to finally debut in iOS 26.4 beta shortly](https://appleinsider.com/articles/26/01/25/new-siri-expected-to-finally-debut-in-ios-264-beta-shortly?utm_source=rss)
- - [Want a Galaxy S25 Ultra for Cheap? Buy a Galaxy S24 Ultra Instead](https://www.cnet.com/tech/mobile/want-a-galaxy-s25-ultra-for-cheap-buy-a-galaxy-s24-ultra-instead/)
- - [Apple TV: 15 Best Sci-Fi Shows You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows/)
- - [Trump’s FCC Just Handed Musk a Major Win, but Scientists Are Warning of an &#39;Orbital House of Cards&#39;](https://www.cnet.com/home/internet/i-spoke-to-astrophysicists-about-starlinks-expansion-heres-the-doomsday-scenario-keeping-them-up-at-night/)<!-- TECH:END -->
+ - [New Siri expected to finally debut in iOS 26.4 beta](https://appleinsider.com/articles/26/01/25/new-siri-expected-to-finally-debut-in-ios-264-beta-shortly?utm_source=rss)
+ - [Want a Galaxy S25 Ultra for Cheap? Buy a Galaxy S24 Ultra Instead](https://www.cnet.com/tech/mobile/want-a-galaxy-s25-ultra-for-cheap-buy-a-galaxy-s24-ultra-instead/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

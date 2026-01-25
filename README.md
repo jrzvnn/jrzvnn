@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many AI founders now find it necessary to raise at valuations requiring absolute domination of the field; Brex, once valued at $12B, shows the downsides of this &lpar;Jason Lemkin/SaaStr&rpar;](http://www.techmeme.com/260125/p9#a260125p9)
  - [A profile of Mercor, which pays about $2M daily to ~30K experts training AI models at $95/hour on average, with roles like radiologists earning up to $375/hour &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/260125/p8#a260125p8)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 26 #960](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-26-960/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 26 #694](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-26-694/)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 26, #1682](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-26-1682/)
- - [Expert-Approved Continuous Glucose Monitors for Easy Tracking in 2026](https://www.cnet.com/health/medical/best-continuous-glucose-monitors-according-to-experts/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 26, #1682](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-26-1682/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

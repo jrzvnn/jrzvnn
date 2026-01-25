@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expert-Approved Continuous Glucose Monitors for Easy Tracking in 2026](https://www.cnet.com/health/medical/best-continuous-glucose-monitors-according-to-experts/)
- - [Power prices surge in Virginia, home to the world&#39;s largest data center hub; record demand is expected during the winter storm, partly due to data center needs &lpar;Tim McLaughlin/Reuters&rpar;](http://www.techmeme.com/260125/p7#a260125p7)
- - [Apple&#39;s M5 iPad Pro drops to $899, plus save $600 on blowout M4 spec](https://appleinsider.com/articles/26/01/25/apples-m5-ipad-pro-drops-to-899-plus-save-600-on-blowout-m4-spec?utm_source=rss)
- - [Why Minnesota Can&#39;t Do More to Stop ICE](https://www.wired.com/story/why-minnesota-cant-do-more-to-stop-ice/)
- - [Meta&#39;s decision to deprioritize VR in favor of AI and internet-connected glasses has chilled the VR industry, leading to concerns about its future &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260125/p6#a260125p6)<!-- TECH:END -->
+ - [A profile of Mercor, which pays about $2M daily to ~30K experts training AI models at $95/hour on average, with roles like radiologists earning up to $375/hour &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/260125/p8#a260125p8)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 26 #960](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-26-960/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 26 #694](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-26-694/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 26, #1682](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-26-1682/)
+ - [Expert-Approved Continuous Glucose Monitors for Easy Tracking in 2026](https://www.cnet.com/health/medical/best-continuous-glucose-monitors-according-to-experts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

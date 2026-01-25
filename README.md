@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t say?!](http://9gag.com/gag/aVvrg9n)
- - 😝 [16 century or final fantasy](http://9gag.com/gag/a87N621)
- - 💣 [Post](http://9gag.com/gag/aD297Q7)
- - 😝 [What does your elf eyes tell you legoland?](http://9gag.com/gag/ajPvLr1)
+ - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
+ - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
+ - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
  - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
 
 ---

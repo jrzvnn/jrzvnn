@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The great e-bike crackdown has begun](https://www.theverge.com/column/866218/e-bike-crackdown)
- - [Crime blotter: iPad used in $3 million crypto heist](https://appleinsider.com/articles/26/01/25/crime-blotter-ipad-used-in-3-million-crypto-heist?utm_source=rss)
- - [Phonak Audeo Infinio Ultra Sphere Review: Premium Hearing Aids](https://www.wired.com/review/phonak-audeo-infinio-ultra-sphere/)
- - [No One Is Quite Sure Why Ice Is Slippery](https://www.wired.com/story/no-one-is-quite-sure-why-ice-is-slippery/)
- - [Q&amp;A with David Liu, CEO of PlusAI, which is slated to go public next month, on the ongoing commercial trial of its autonomous truck driving software, and more &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/260125/p4#a260125p4)<!-- TECH:END -->
+ - [New MacBook Pros are expected soon, but maybe not just days away](https://appleinsider.com/articles/26/01/25/new-macbook-pros-are-expected-soon-but-maybe-not-just-days-away?utm_source=rss)
+ - [New Siri expected to finally debut in iOS 26.4 beta shortly](https://appleinsider.com/articles/26/01/25/new-siri-expected-to-finally-debut-in-ios-264-beta-shortly?utm_source=rss)
+ - [Want a Galaxy S25 Ultra for Cheap? Buy a Galaxy S24 Ultra Instead](https://www.cnet.com/tech/mobile/want-a-galaxy-s25-ultra-for-cheap-buy-a-galaxy-s24-ultra-instead/)
+ - [Apple TV: 15 Best Sci-Fi Shows You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows/)
+ - [Trump’s FCC Just Handed Musk a Major Win, but Scientists Are Warning of an &#39;Orbital House of Cards&#39;](https://www.cnet.com/home/internet/i-spoke-to-astrophysicists-about-starlinks-expansion-heres-the-doomsday-scenario-keeping-them-up-at-night/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

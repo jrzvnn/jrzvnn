@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose wisely](http://9gag.com/gag/a0egXxn)
+ - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
  - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
- - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 👉 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)<!-- MEMES:END -->
+ - 💣 [Bro saw the ultimate form of his species.](http://9gag.com/gag/an7Z7Oo)
+ - 😝 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)
+ - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
 
 ---
 

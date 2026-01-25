@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
- - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
- - 💣 [Bro saw the ultimate form of his species.](http://9gag.com/gag/an7Z7Oo)
- - 😝 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)
- - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
+ - 😝 [We&#39;re down to the final 4 and one of these might just take the cake!](http://9gag.com/gag/aqyMyeZ)
+ - 😝 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
+ - 💣 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
+ - 😝 [Meerkats and warthogs really spend time together - playing, relaxing and just sleeping, just like in The Lion King](http://9gag.com/gag/amoQG5v)
+ - 👉 [Smart horse](http://9gag.com/gag/aD2964B)<!-- MEMES:END -->
 
 ---
 

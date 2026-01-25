@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
- - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 👉 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)<!-- MEMES:END -->
+ - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
+ - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 💣 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
+ - 😝 [Italian wife has her reasons](http://9gag.com/gag/aGyv8y7)
+ - 👉 [Post](http://9gag.com/gag/aD297Q7)<!-- MEMES:END -->
 
 ---
 

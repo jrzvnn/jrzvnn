@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
- - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
+ - 😝 [16 century or final fantasy](http://9gag.com/gag/a87N621)
  - 💣 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
- - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
+ - 😝 [Thanks, Ed.](http://9gag.com/gag/avyqe0b)
+ - 👉 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)<!-- MEMES:END -->
 
 ---
 

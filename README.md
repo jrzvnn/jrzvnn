@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HandGrip](http://9gag.com/gag/axyK3Y2)
  - 😝 [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
- - 💣 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
- - 😝 [Italian wife has her reasons](http://9gag.com/gag/aGyv8y7)
- - 👉 [The mystery machine](http://9gag.com/gag/aoyoW7w)<!-- MEMES:END -->
+ - 😝 [In Feb 2022, this NFT image was sold for $23 millions. And here I am giving to you degenerates for free](http://9gag.com/gag/a87N6KV)
+ - 💣 [The mystery machine](http://9gag.com/gag/aoyoW7w)
+ - 😝 [Lil dude pranked his dad](http://9gag.com/gag/aNDM9q3)
+ - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
 
 ---
 

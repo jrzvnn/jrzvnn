@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
+ - 😝 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)
  - 😝 [16 century or final fantasy](http://9gag.com/gag/a87N621)
- - 💣 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
- - 😝 [Thanks, Ed.](http://9gag.com/gag/avyqe0b)
+ - 💣 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
+ - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
  - 👉 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)<!-- MEMES:END -->
 
 ---

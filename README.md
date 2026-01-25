@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)
+ - 😝 [16 century or final fantasy](http://9gag.com/gag/a87N621)
  - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 💣 [16 century or final fantasy](http://9gag.com/gag/a87N621)
- - 😝 [Italian wife has her reasons](http://9gag.com/gag/aGyv8y7)
- - 👉 [Post](http://9gag.com/gag/aD297Q7)<!-- MEMES:END -->
+ - 💣 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
 
 ---
 

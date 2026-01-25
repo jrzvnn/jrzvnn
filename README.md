@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like it, that&#39;s the point](http://9gag.com/gag/aAyA6E9)
- - 😝 [We&#39;re down to the final 4 and one of these might just take the cake!](http://9gag.com/gag/aqyMyeZ)
- - 💣 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
- - 😝 [Meerkats and warthogs really spend time together - playing, relaxing and just sleeping, just like in The Lion King](http://9gag.com/gag/amoQG5v)
- - 👉 [Smart horse](http://9gag.com/gag/aD2964B)<!-- MEMES:END -->
+ - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 💣 [He needed some time for himself](http://9gag.com/gag/abADA9X)
+ - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 👉 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)<!-- MEMES:END -->
 
 ---
 

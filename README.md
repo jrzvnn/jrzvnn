@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/an7ZOYB)
- - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
- - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
- - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
- - 👉 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)<!-- MEMES:END -->
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 💣 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
+ - 😝 [The doctor didn&#39;t hold back](http://9gag.com/gag/ayNr4pM)
+ - 👉 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)<!-- MEMES:END -->
 
 ---
 

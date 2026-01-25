@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart horse](http://9gag.com/gag/aD2964B)
- - 😝 [*God left*](http://9gag.com/gag/a5QgBQG)
- - 💣 [I mean yah sure](http://9gag.com/gag/ayNr4bV)
- - 😝 [Good luck zoomers](http://9gag.com/gag/aQzbQN2)
- - 👉 [People enjoying a nice quiet evening at a cafe in Tokyo. Then a loud obnoxious man came in.](http://9gag.com/gag/aZZXww3)<!-- MEMES:END -->
+ - 😝 [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
+ - 😝 [HandGrip](http://9gag.com/gag/axyK3Y2)
+ - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
+ - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
 
 ---
 

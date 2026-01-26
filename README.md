@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
  - 😝 [Welcome To Minnesota Walmart .](http://9gag.com/gag/a87N6zV)
- - 💣 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
- - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
+ - 💣 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 😝 [Dad&#39;s priorities are straight](http://9gag.com/gag/a87ND6V)
+ - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
 
 ---
 

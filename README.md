@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the explicit deepfake ecosystem evolved from images to high-quality video; an analysis shows 1.4M+ Telegram accounts signed up to 39 deepfake creation bots &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260126/p18#a260126p18)
  - [Nvidia invests an additional $2B in CoreWeave to help speed up adding 5GW+ of AI computing capacity by 2030 and deploy Nvidia&#39;s new Vera CPU; CRWV jumps 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260126/p17#a260126p17)
  - [Inside Apple Maps - How to get the most out of your iPhone&#39;s navigation app](https://appleinsider.com/inside/apple-maps/tips/inside-apple-maps---how-to-get-the-most-out-of-your-iphones-navigation-app?utm_source=rss)
  - [JP Morgan hikes AAPL target to $315 over iPhone 18 expectations](https://appleinsider.com/articles/26/01/26/jp-morgan-hikes-aapl-target-to-315-over-iphone-18-expectations?utm_source=rss)
- - [TSMC&#39;s conservative capex approach is resulting in supply-demand imbalances and foregone revenue, and hyperscalers must build up Samsung or Intel as its rivals &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260126/p16#a260126p16)
- - [Tim Cook slammed for attending &#39;Melania&#39; screening on night of Alex Pretti killing](https://appleinsider.com/articles/26/01/26/tim-cook-slammed-for-attending-melania-screening-on-night-of-alex-pretti-killing?utm_source=rss)<!-- TECH:END -->
+ - [TSMC&#39;s conservative capex approach is resulting in supply-demand imbalances and foregone revenue, and hyperscalers must build up Samsung or Intel as its rivals &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260126/p16#a260126p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese autonomous trucking company DeepWay raised ~$173M ahead of its planned Hong Kong IPO, filed in November 2025; DeepWay reported ~$215M in H1 2025 revenue &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/260126/p6#a260126p6)
- - [Quantum computing company IonQ acquires US chipmaker SkyWater for ~$1.8B, paying $35/share, in IonQ&#39;s biggest deal yet; SkyWater will operate as a subsidiary &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p5#a260126p5)
- - [Sources: SoftBank halts talks about a ~$50B acquisition of US data center operator Switch, a setback to Masayoshi Son&#39;s goal to roll out Stargate infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/260126/p4#a260126p4)
- - [TikTok broke in its first weekend with US ownership](https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review)
- - [18 Health Stresses You Can Leave Behind in 2026](https://www.cnet.com/health/18-myths-about-your-health-you-can-ignore/)<!-- TECH:END -->
+ - [Documents: China&#39;s military is focused on harnessing AI to deploy swarms of drones, robot dogs, and other autonomous systems, learning from hawks and coyotes &lpar;Josh Chin/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p10#a260126p10)
+ - [Claude Code can feel daunting, and most people&#39;s problems are not software-shaped, but it is clearly autonomous and the home-cooked app renaissance is great &lpar;Jasmine Sun/@jasmine&#39;s substack&rpar;](http://www.techmeme.com/260126/p9#a260126p9)
+ - [The EU opens a formal DSA investigation into xAI over Grok generating sexualized images of women and children; xAI faces fines of up to 6% of global revenue &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260126/p8#a260126p8)
+ - [Digital Realty, QTS, and NTT Data warn the data center industry is doing a poor job of combating local opposition; 24+ US projects were blocked in January alone &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260126/p7#a260126p7)
+ - [People Are Protesting Data Centers—but Embracing the Factories That Supply Them](https://www.wired.com/story/data-center-criticism-factories-supply-us/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

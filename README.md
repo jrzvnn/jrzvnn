@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Quantum computing company IonQ acquires US chipmaker SkyWater for ~$1.8B, paying $35/share, in IonQ&#39;s biggest deal yet; SkyWater will operate as a subsidiary &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p5#a260126p5)
+ - [Sources: SoftBank halts talks about a ~$50B acquisition of US data center operator Switch, a setback to Masayoshi Son&#39;s goal to roll out Stargate infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/260126/p4#a260126p4)
  - [TikTok broke in its first weekend with US ownership](https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review)
- - [London-based enterprise AI video startup Synthesia raised a $200M Series E led by GV at a $4B valuation, up from $2.1B after raising $180M in January 2025 &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260126/p3#a260126p3)
- - [Manufacturers say that AI is fundamentally changing how some new products are created, finding unexpected solutions and reducing R&amp;D time from weeks to days &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p2#a260126p2)
- - [Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#39;s M5](https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/)
- - [Entropy, a decentralized crypto custodian that raised a $25M seed led by a16z in June 2022, is shutting down after &quot;several pivots, and two rounds of layoffs&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260126/p1#a260126p1)<!-- TECH:END -->
+ - [18 Health Stresses You Can Leave Behind in 2026](https://www.cnet.com/health/18-myths-about-your-health-you-can-ignore/)
+ - [London-based enterprise AI video startup Synthesia raised a $200M Series E led by GV at a $4B valuation, up from $2.1B after raising $180M in January 2025 &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260126/p3#a260126p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

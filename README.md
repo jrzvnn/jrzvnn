@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ricursive, founded by ex-Google researchers to automate advanced chip design, raised $335M from Sequoia, Radical, Lightspeed, and others at a $4B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260126/p12#a260126p12)
+ - [Morgan Stanley: UK companies reported that AI led to 8% net job losses over the past 12 months, above Japan&#39;s 7%, Germany&#39;s 4%, Australia&#39;s 2%; the US added 2% &lpar;Irina Anghel/Bloomberg&rpar;](http://www.techmeme.com/260126/p11#a260126p11)
  - [Documents: China&#39;s military is focused on harnessing AI to deploy swarms of drones, robot dogs, and other autonomous systems, learning from hawks and coyotes &lpar;Josh Chin/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p10#a260126p10)
  - [Claude Code can feel daunting, and most people&#39;s problems are not software-shaped, but it is clearly autonomous and the home-cooked app renaissance is great &lpar;Jasmine Sun/@jasmine&#39;s substack&rpar;](http://www.techmeme.com/260126/p9#a260126p9)
- - [The EU opens a formal DSA investigation into xAI over Grok generating sexualized images of women and children; xAI faces fines of up to 6% of global revenue &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260126/p8#a260126p8)
- - [Digital Realty, QTS, and NTT Data warn the data center industry is doing a poor job of combating local opposition; 24+ US projects were blocked in January alone &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260126/p7#a260126p7)
- - [People Are Protesting Data Centers—but Embracing the Factories That Supply Them](https://www.wired.com/story/data-center-criticism-factories-supply-us/)<!-- TECH:END -->
+ - [The EU opens a formal DSA investigation into xAI over Grok generating sexualized images of women and children; xAI faces fines of up to 6% of global revenue &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260126/p8#a260126p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

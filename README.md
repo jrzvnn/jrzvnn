@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [Apple&#39;s iOS 26.2.1 Update for iPhones Adds Support for More Precise 2nd Gen AirTags](https://www.cnet.com/tech/services-and-software/apples-ios-26-2-1-iphone-update-supports-airtag-gen-2/)
+ - [OpenAI’s president is a Trump mega-donor](https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac)
  - [Wikimedia data puts iOS 26 adoption at ~50% in January vs. iOS 18&#39;s 72% in 2025 as Apple slows auto-updates; Statcounter showed 15% after missing Safari changes &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/260126/p35#a260126p35)
- - [Redditors Are Mounting a Resistance Against ICE](https://www.wired.com/story/redditors-are-mounting-a-resistance-against-ice/)
- - [Google will settle its Assistant spying lawsuit for $68 million](https://www.theverge.com/news/868078/google-assistant-lawsuit-settlement)
- - [Apple’s luxe AirPods Max have dropped to one of their lowest prices ever](https://www.theverge.com/gadgets/868017/apple-airpods-max-usb-c-best-buy-flash-deal-sale)
- - [Incremental iOS 26.2.1, iPadOS 26.2.1, watchOS 26.2.1 updates support the new AirTag](https://appleinsider.com/articles/26/01/26/incremental-ios-2621-update-supports-the-new-airtag?utm_source=rss)<!-- TECH:END -->
+ - [Redditors Are Mounting a Resistance Against ICE](https://www.wired.com/story/redditors-are-mounting-a-resistance-against-ice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
+ - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
  - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - 💣 [Robbing Child&#39;s underwear.??](http://9gag.com/gag/aLnozZv)
- - 😝 [Who spends $820 billions on millitary and can&#39;t make simple bread?](http://9gag.com/gag/awyjLL8)
- - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
+ - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
+ - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 👉 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)<!-- MEMES:END -->
 
 ---
 

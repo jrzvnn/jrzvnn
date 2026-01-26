@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a 38-page essay, Dario Amodei warns of civilization-level damage from superintelligent AI, questioning whether humanity has the maturity to handle such power &lpar;Axios&rpar;](http://www.techmeme.com/260126/p29#a260126p29)
- - [Apple&#39;s new AirTag has finally arrived, but it&#39;s not a must-buy for everyone](https://appleinsider.com/inside/airtags/vs/apples-new-airtag-has-finally-arrived-but-its-not-a-must-buy-for-everyone?utm_source=rss)
- - [TikTok is shaky after US ownership shift, reigniting censorship debate](https://appleinsider.com/articles/26/01/26/tiktok-is-shaky-after-us-ownership-shift-reigniting-censorship-debate?utm_source=rss)
- - [&#39;Send Help&#39; Review: Survival Thriller Delivers Deliciously Savage Gore and Comedy](https://www.cnet.com/culture/entertainment/send-help-review-survival-thriller-delivers-deliciously-savage-gore-comedy/)
- - [Upwind Security, which filters out false security alerts in cloud apps to let security teams address actual risks, raised a $250M Series B at a ~$1.5B valuation &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p28#a260126p28)<!-- TECH:END -->
+ - [MacBook Pro could benefit from thinner Face ID rumored for iPhone Air 2 &amp; iPhone Fold](https://appleinsider.com/articles/26/01/26/macbook-pro-could-benefit-from-thinner-face-id-rumored-for-iphone-air-2-iphone-fold?utm_source=rss)
+ - [Qwen releases Qwen3-Max-Thinking, its flagship reasoning model that it says demonstrates performance comparable to models such as GPT-5.2 Thinking and Opus 4.5 &lpar;Qwen&rpar;](http://www.techmeme.com/260126/p30#a260126p30)
+ - [TikTokers are heading to UpScrolled following US takeover](https://www.theverge.com/news/867958/tiktok-upscrolled-app-us-takeover)
+ - [Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#39;s M5](https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/)
+ - [In a 38-page essay, Dario Amodei warns of civilization-level damage from superintelligent AI, questioning whether humanity has the maturity to handle such power &lpar;Axios&rpar;](http://www.techmeme.com/260126/p29#a260126p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
  - 😝 [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)
- - 💣 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
- - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
- - 👉 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)<!-- MEMES:END -->
+ - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [Men only want one thing](http://9gag.com/gag/abAD4VX)
+ - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
 
 ---
 

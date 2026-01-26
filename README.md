@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok blames its US problems on a power outage](https://www.theverge.com/news/867873/tiktok-down-outage-us-data-center-power-outage)
- - [Microsoft unveils the Maia 200, its 2nd-generation AI accelerator built on TSMC&#39;s 3nm process, deploying today in its Azure US Central data center region &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260126/p26#a260126p26)
- - [iPhone 17 will drive strong Q1 results, Apple&#39;s biggest bull declares](https://appleinsider.com/articles/26/01/26/iphone-17-will-drive-strong-q1-results-apples-biggest-bull-declares?utm_source=rss)
- - [A powerful AMD gaming desktop is hundreds off at Costco](https://www.theverge.com/gadgets/867754/asus-desktop-pc-stream-deck-lg-oled-animal-crossing-deal-sale)
- - [Microsoft’s latest AI chip goes head-to-head with Amazon and Google](https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement)<!-- TECH:END -->
+ - [Internal chats show how social media companies discussed teen engagement](https://www.theverge.com/policy/867845/meta-youtube-snap-tiktok-social-media-trials-documents)
+ - [TikTok US says it is working to restore services after a power outage at a data center and any algorithm changes users noticed were likely due to the outage &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/260126/p27#a260126p27)
+ - [Amazon is blowing out AirTag inventory at up to 29% off on the heels of new release](https://appleinsider.com/articles/26/01/26/amazon-is-blowing-out-airtag-inventory-at-up-to-29-off-on-the-heels-of-new-release?utm_source=rss)
+ - [OpenAI is working out how much to charge for ChatGPT ads](https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing)
+ - [Payment processors were against CSAM until Grok started making it](https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
  - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - 💣 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
- - 😝 [Gordon Shumway photobomb](http://9gag.com/gag/a9yw82j)
+ - 💣 [Welcome To Minnesota Walmart .](http://9gag.com/gag/a87N6zV)
+ - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
  - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
 
 ---

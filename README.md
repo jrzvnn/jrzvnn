@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X faces EU investigation over Grok’s sexualized deepfakes](https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation)
+ - [StepFun, a Chinese AI startup that develops LLMs and has partnered with automaker Geely and smartphone brands like Oppo and Honor, raised a ~$717M Series B+ &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/260126/p40#a260126p40)
  - [Tim Cook attending a private White House screening of the documentary Melania hours after ICE killed a man suggests horrible judgment, or worse, cowardice &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/260126/p39#a260126p39)
  - [Judge Delays Minnesota ICE Decision While Weighing Whether State Was Being Illegally Punished](https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/)
  - [Billionaire Tom Steyer, who is running for California governor, says he&#39;ll vote for the one-time 5% tax on billionaire wealth if it reaches the November ballot &lpar;Eliyahu Kamisher/Bloomberg&rpar;](http://www.techmeme.com/260126/p38#a260126p38)

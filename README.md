@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US DOT plans to use Gemini to draft federal regulations, cutting the process to just 30 days; the DOT used it to draft a still-unpublished FAA rule &lpar;Jesse Coburn/ProPublica&rpar;](http://www.techmeme.com/260126/p25#a260126p25)
- - [TikTok USA is broken](https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review)
- - [2026 is the year of social media’s legal reckoning](https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts)
- - [The EU Commission says WhatsApp&#39;s Channels fall under the DSA&#39;s Very Large Online Platform rules, joining Instagram and Facebook, requiring it to address risks &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/260126/p24#a260126p24)
- - [Playing Leon in Resident Evil Requiem Is a Kickass Catharsis](https://www.cnet.com/tech/gaming/resident-evil-requiem-preview-leon-kickass/)<!-- TECH:END -->
+ - [TikTok blames its US problems on a power outage](https://www.theverge.com/news/867873/tiktok-down-outage-us-data-center-power-outage)
+ - [Microsoft unveils the Maia 200, its 2nd-generation AI accelerator built on TSMC&#39;s 3nm process, deploying today in its Azure US Central data center region &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260126/p26#a260126p26)
+ - [iPhone 17 will drive strong Q1 results, Apple&#39;s biggest bull declares](https://appleinsider.com/articles/26/01/26/iphone-17-will-drive-strong-q1-results-apples-biggest-bull-declares?utm_source=rss)
+ - [A powerful AMD gaming desktop is hundreds off at Costco](https://www.theverge.com/gadgets/867754/asus-desktop-pc-stream-deck-lg-oled-animal-crossing-deal-sale)
+ - [Microsoft’s latest AI chip goes head-to-head with Amazon and Google](https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

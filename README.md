@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)
- - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
- - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 😝 [Ma&#39;am](http://9gag.com/gag/aPALe4G)
- - 👉 [No one heeds the OSHA prophet until it is too late..](http://9gag.com/gag/aRBWzG5)<!-- MEMES:END -->
+ - 😝 [Rate my wi-fi setup](http://9gag.com/gag/aO8EZEN)
+ - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 💣 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - 😝 [Corpo meeting we all deserve](http://9gag.com/gag/ae9zxeB)
+ - 👉 [Robbing Child&#39;s underwear.??](http://9gag.com/gag/aLnozZv)<!-- MEMES:END -->
 
 ---
 

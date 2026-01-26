@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
- - 😝 [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
- - 💣 [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)
- - 😝 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
- - 👉 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
+ - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)
+ - 💣 [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)
+ - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
 
 ---
 

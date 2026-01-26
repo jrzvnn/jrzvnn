@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 10 Best Sleep Masks We’ve Tested While Snoozing &lpar;2026&rpar;](https://www.wired.com/gallery/best-sleep-masks/)
+ - [Incremental iOS 26.2.1, iPadOS 26.2.1, watchOS 26.2.1 updates support the new AirTag](https://appleinsider.com/articles/26/01/26/incremental-ios-2621-update-supports-the-new-airtag?utm_source=rss)
+ - [AirTag refresh prompts mass updates of older iOS, iPadOS versions](https://appleinsider.com/articles/26/01/26/airtag-refresh-prompts-mass-updates-of-older-ios-ipados-versions?utm_source=rss)
  - [Shares of Zoom jump 10%+ after analysts at Baird estimated that Zoom&#39;s 2023 investment in Anthropic could be worth $2B to $4B, depending on dilution &lpar;Nate Wolf/Barron&#39;s Online&rpar;](http://www.techmeme.com/260126/p34#a260126p34)
- - [Zocks, which offers an AI assistant for financial advisers, raised a $45M Series B co-led by Lightspeed and QED Investors, taking its total funding to $65M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260126/p33#a260126p33)
- - [Even the big dick subreddit is mad about ICE](https://www.theverge.com/news/867967/ice-shooting-minneapolis-reddit-communities-activism)
- - [This Wireless Mic Kit Is $70 Off](https://www.wired.com/story/dji-mic-3-deal-126/)
- - [Incremental iOS 26.2.1 update supports the new AirTag](https://appleinsider.com/articles/26/01/26/incremental-ios-2621-update-supports-the-new-airtag?utm_source=rss)<!-- TECH:END -->
+ - [Zocks, which offers an AI assistant for financial advisers, raised a $45M Series B co-led by Lightspeed and QED Investors, taking its total funding to $65M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260126/p33#a260126p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rate my wi-fi setup](http://9gag.com/gag/aO8EZEN)
- - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
- - 💣 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - 😝 [Men only want one thing](http://9gag.com/gag/abAD4VX)
+ - 😝 [Old but gold](http://9gag.com/gag/aO8EDBM)
+ - 💣 [Useful Tips](http://9gag.com/gag/ae9zVxj)
  - 😝 [Corpo meeting we all deserve](http://9gag.com/gag/ae9zxeB)
- - 👉 [Robbing Child&#39;s underwear.??](http://9gag.com/gag/aLnozZv)<!-- MEMES:END -->
+ - 👉 [Mid level oof](http://9gag.com/gag/amoQxNy)<!-- MEMES:END -->
 
 ---
 

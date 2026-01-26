@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US DOT plans to use Gemini to draft federal regulations, cutting the process to just 30 days; the DOT used it to draft a still-unpublished FAA rule &lpar;Jesse Coburn/ProPublica&rpar;](http://www.techmeme.com/260126/p25#a260126p25)
+ - [TikTok USA is broken](https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review)
+ - [2026 is the year of social media’s legal reckoning](https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts)
  - [The EU Commission says WhatsApp&#39;s Channels fall under the DSA&#39;s Very Large Online Platform rules, joining Instagram and Facebook, requiring it to address risks &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/260126/p24#a260126p24)
- - [Playing Leon in Resident Evil Requiem Is a Kickass Catharsis](https://www.cnet.com/tech/gaming/resident-evil-requiem-preview-leon-kickass/)
- - [Experian’s tech chief defends credit scores: ‘We’re not Palantir’](https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview)
- - [Apple&#39;s new AirTag makes it easier to stay on top of your stuff](https://appleinsider.com/articles/26/01/26/apples-new-airtag-makes-it-easier-to-stay-on-top-of-your-stuff?utm_source=rss)
- - [After 5 Years, Apple Finally Upgrades the AirTag](https://www.wired.com/story/apple-second-generation-airtag-2026/)<!-- TECH:END -->
+ - [Playing Leon in Resident Evil Requiem Is a Kickass Catharsis](https://www.cnet.com/tech/gaming/resident-evil-requiem-preview-leon-kickass/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
- - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
- - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
  - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
+ - 💣 [Robbing Child&#39;s underwear.??](http://9gag.com/gag/aLnozZv)
+ - 😝 [Who spends $820 billions on millitary and can&#39;t make simple bread?](http://9gag.com/gag/awyjLL8)
  - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
 
 ---

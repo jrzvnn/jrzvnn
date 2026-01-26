@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - 😝 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)
- - 💣 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
  - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
+ - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
+ - 😝 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
+ - 👉 [The future is now old men](http://9gag.com/gag/adBAOdZ)<!-- MEMES:END -->
 
 ---
 

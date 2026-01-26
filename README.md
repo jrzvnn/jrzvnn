@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro could benefit from thinner Face ID rumored for iPhone Air 2 &amp; iPhone Fold](https://appleinsider.com/articles/26/01/26/macbook-pro-could-benefit-from-thinner-face-id-rumored-for-iphone-air-2-iphone-fold?utm_source=rss)
- - [Qwen releases Qwen3-Max-Thinking, its flagship reasoning model that it says demonstrates performance comparable to models such as GPT-5.2 Thinking and Opus 4.5 &lpar;Qwen&rpar;](http://www.techmeme.com/260126/p30#a260126p30)
- - [TikTokers are heading to UpScrolled following US takeover](https://www.theverge.com/news/867958/tiktok-upscrolled-app-us-takeover)
- - [Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#39;s M5](https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/)
- - [In a 38-page essay, Dario Amodei warns of civilization-level damage from superintelligent AI, questioning whether humanity has the maturity to handle such power &lpar;Axios&rpar;](http://www.techmeme.com/260126/p29#a260126p29)<!-- TECH:END -->
+ - [This Wireless Mic Kit Is $70 Off](https://www.wired.com/story/dji-mic-3-deal-126/)
+ - [Incremental iOS 26.2.1 update supports the new AirTag](https://appleinsider.com/articles/26/01/26/incremental-ios-2621-update-supports-the-new-airtag?utm_source=rss)
+ - [Anthropic rolls out a new extension to MCP to let users interact with apps directly inside the Claude chatbot, with support for Asana, Figma, Slack, and others &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260126/p32#a260126p32)
+ - [UpScrolled, a platform for sharing photos, videos, and text that claims political impartiality, says user growth has surged since TikTok&#39;s US takeover &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260126/p31#a260126p31)
+ - [Highguard Review: I Can&#39;t Get Enough of Horseback Gunplay and Raiding Bases](https://www.cnet.com/tech/gaming/highguard-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

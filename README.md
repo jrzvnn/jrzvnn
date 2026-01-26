@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mystery machine](http://9gag.com/gag/aoyoW7w)
- - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
+ - 😝 [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)
  - 💣 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
  - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
- - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
+ - 👉 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)<!-- MEMES:END -->
 
 ---
 

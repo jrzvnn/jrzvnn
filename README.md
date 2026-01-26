@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
  - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
- - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
- - 💣 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
+ - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
  - 😝 [No one heeds the OSHA prophet until it is too late..](http://9gag.com/gag/aRBWzG5)
  - 👉 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)<!-- MEMES:END -->
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - 😝 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)
- - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
- - 😝 [Rate my wi-fi setup](http://9gag.com/gag/aO8EZEN)
+ - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 😝 [Sign me up for this job, sounds like a dream](http://9gag.com/gag/avyqez5)
+ - 💣 [HandGrip](http://9gag.com/gag/axyK3Y2)
+ - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
  - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
 
 ---

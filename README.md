@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third iOS 26.3, macOS Tahoe 26.3 developer betas are available to download](https://appleinsider.com/articles/26/01/26/third-ios-263-macos-tahoe-263-developer-betas-are-available-to-download?utm_source=rss)
- - [TikTok Data Center Outage Triggers Trust Crisis for New US Owners](https://www.wired.com/story/tiktok-ice-videos-censorship-allegations-algorithm/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 27, #961](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-27-961/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 27 #695](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-27-695/)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 27, #1683](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-27-1683/)<!-- TECH:END -->
+ - [Billionaire Tom Steyer, who is running for California governor, says he&#39;ll vote for the one-time 5% tax on billionaire wealth if it reaches the November ballot &lpar;Eliyahu Kamisher/Bloomberg&rpar;](http://www.techmeme.com/260126/p38#a260126p38)
+ - [A group of YouTubers with a combined 6.2M subscribers adds Snap to a class action lawsuit, alleging the company trained its AI systems on their video content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260126/p37#a260126p37)
+ - [Palantir Defends Work With ICE to Staff Following Killing of Alex Pretti](https://www.wired.com/story/palantir-ice-dhs-alex-pretti-killing-workers-slack-minneapolis/)
+ - [Your Sling Subscription Could Cost More Soon. Here&#39;s What to Know](https://www.cnet.com/tech/services-and-software/sling-blue-price-hike-2026/)
+ - [Third iOS 26.3, macOS Tahoe 26.3 developer betas are available to download](https://appleinsider.com/articles/26/01/26/third-ios-263-macos-tahoe-263-developer-betas-are-available-to-download?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

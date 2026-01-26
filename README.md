@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
- - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - 😝 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
+ - 😝 [Welcome To Minnesota Walmart .](http://9gag.com/gag/a87N6zV)
  - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 😝 [Please I want my Meme&#39;s back](http://9gag.com/gag/aD29ZNN)
- - 👉 [Welcome To Minnesota Walmart .](http://9gag.com/gag/a87N6zV)<!-- MEMES:END -->
+ - 😝 [No one heeds the OSHA prophet until it is too late..](http://9gag.com/gag/aRBWzG5)
+ - 👉 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)<!-- MEMES:END -->
 
 ---
 

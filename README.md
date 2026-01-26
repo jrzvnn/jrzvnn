@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Best Sleep Masks We’ve Tested While Snoozing &lpar;2026&rpar;](https://www.wired.com/gallery/best-sleep-masks/)
+ - [Google will settle its Assistant spying lawsuit for $68 million](https://www.theverge.com/news/868078/google-assistant-lawsuit-settlement)
+ - [Apple’s luxe AirPods Max have dropped to one of their lowest prices ever](https://www.theverge.com/gadgets/868017/apple-airpods-max-usb-c-best-buy-flash-deal-sale)
  - [Incremental iOS 26.2.1, iPadOS 26.2.1, watchOS 26.2.1 updates support the new AirTag](https://appleinsider.com/articles/26/01/26/incremental-ios-2621-update-supports-the-new-airtag?utm_source=rss)
- - [AirTag refresh prompts mass updates of older iOS, iPadOS versions](https://appleinsider.com/articles/26/01/26/airtag-refresh-prompts-mass-updates-of-older-ios-ipados-versions?utm_source=rss)
- - [Shares of Zoom jump 10%+ after analysts at Baird estimated that Zoom&#39;s 2023 investment in Anthropic could be worth $2B to $4B, depending on dilution &lpar;Nate Wolf/Barron&#39;s Online&rpar;](http://www.techmeme.com/260126/p34#a260126p34)
- - [Zocks, which offers an AI assistant for financial advisers, raised a $45M Series B co-led by Lightspeed and QED Investors, taking its total funding to $65M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260126/p33#a260126p33)<!-- TECH:END -->
+ - [The 10 Best Sleep Masks We’ve Tested While Snoozing &lpar;2026&rpar;](https://www.wired.com/gallery/best-sleep-masks/)
+ - [AirTag refresh prompts mass updates of older iOS, iPadOS versions](https://appleinsider.com/articles/26/01/26/airtag-refresh-prompts-mass-updates-of-older-ios-ipados-versions?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

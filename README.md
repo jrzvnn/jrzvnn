@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU Commission says WhatsApp&#39;s Channels fall under the DSA&#39;s Very Large Online Platform rules, joining Instagram and Facebook, requiring it to address risks &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/260126/p24#a260126p24)
+ - [Playing Leon in Resident Evil Requiem Is a Kickass Catharsis](https://www.cnet.com/tech/gaming/resident-evil-requiem-preview-leon-kickass/)
+ - [Experian’s tech chief defends credit scores: ‘We’re not Palantir’](https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview)
  - [Apple&#39;s new AirTag makes it easier to stay on top of your stuff](https://appleinsider.com/articles/26/01/26/apples-new-airtag-makes-it-easier-to-stay-on-top-of-your-stuff?utm_source=rss)
- - [After 5 Years, Apple Finally Upgrades the AirTag](https://www.wired.com/story/apple-second-generation-airtag-2026/)
- - [Infostealer malware database exposes millions of iCloud and email passwords](https://appleinsider.com/articles/26/01/26/infostealer-malware-database-exposes-millions-of-icloud-and-email-passwords?utm_source=rss)
- - [Apple Watch Unity Connection Braided Solo Loop arrives ahead of Black History Month](https://appleinsider.com/articles/26/01/26/apple-watch-unity-connection-braided-solo-loop-arrives-ahead-of-black-history-month?utm_source=rss)
- - [Swivel base for Apple Home Hub, new Netatmo Thermo line &amp; more on HomeKit insider](https://appleinsider.com/articles/26/01/26/swivel-base-for-apple-home-hub-new-netatmo-thermo-line-more-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [After 5 Years, Apple Finally Upgrades the AirTag](https://www.wired.com/story/apple-second-generation-airtag-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

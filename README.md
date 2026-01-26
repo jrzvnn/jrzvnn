@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ricursive, founded by ex-Google researchers to automate advanced chip design, raised $335M from Sequoia, Radical, Lightspeed, and others at a $4B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260126/p12#a260126p12)
- - [Morgan Stanley: UK companies reported that AI led to 8% net job losses over the past 12 months, above Japan&#39;s 7%, Germany&#39;s 4%, Australia&#39;s 2%; the US added 2% &lpar;Irina Anghel/Bloomberg&rpar;](http://www.techmeme.com/260126/p11#a260126p11)
- - [Documents: China&#39;s military is focused on harnessing AI to deploy swarms of drones, robot dogs, and other autonomous systems, learning from hawks and coyotes &lpar;Josh Chin/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p10#a260126p10)
- - [Claude Code can feel daunting, and most people&#39;s problems are not software-shaped, but it is clearly autonomous and the home-cooked app renaissance is great &lpar;Jasmine Sun/@jasmine&#39;s substack&rpar;](http://www.techmeme.com/260126/p9#a260126p9)
- - [The EU opens a formal DSA investigation into xAI over Grok generating sexualized images of women and children; xAI faces fines of up to 6% of global revenue &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260126/p8#a260126p8)<!-- TECH:END -->
+ - [Interviews with 100+ therapists and psychiatrists on clients&#39; AI chatbot usage show, while there are some upsides, conversations also deepened negative feelings &lpar;New York Times&rpar;](http://www.techmeme.com/260126/p14#a260126p14)
+ - [Microsoft’s first Windows 11 update of 2026 has been a mess](https://www.theverge.com/news/867647/microsoft-windows-11-january-2026-update-bugs-issues)
+ - [OpenAI says nearly 1.3M weekly users are discussing &quot;advanced topics in hard science&quot; in January, with an average of 8.4M ChatGPT messages on those topics &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/260126/p13#a260126p13)
+ - [We Strapped on Exoskeletons and Raced. There’s One Clear Winner](https://www.wired.com/story/story/we-raced-exoskeletons-and-theres-one-clear-winner/)
+ - [Ricursive, founded by ex-Google researchers to automate advanced chip design, raised $335M from Sequoia, Radical, Lightspeed, and others at a $4B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260126/p12#a260126p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
- - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
- - 💣 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)
- - 😝 [Men only want one thing](http://9gag.com/gag/abAD4VX)
- - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
+ - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
+ - 😝 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)
+ - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
+ - 😝 [Rate my wi-fi setup](http://9gag.com/gag/aO8EZEN)
+ - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal chats show how social media companies discussed teen engagement](https://www.theverge.com/policy/867845/meta-youtube-snap-tiktok-social-media-trials-documents)
- - [TikTok US says it is working to restore services after a power outage at a data center and any algorithm changes users noticed were likely due to the outage &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/260126/p27#a260126p27)
- - [Amazon is blowing out AirTag inventory at up to 29% off on the heels of new release](https://appleinsider.com/articles/26/01/26/amazon-is-blowing-out-airtag-inventory-at-up-to-29-off-on-the-heels-of-new-release?utm_source=rss)
- - [OpenAI is working out how much to charge for ChatGPT ads](https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing)
- - [Payment processors were against CSAM until Grok started making it](https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok)<!-- TECH:END -->
+ - [In a 38-page essay, Dario Amodei warns of civilization-level damage from superintelligent AI, questioning whether humanity has the maturity to handle such power &lpar;Axios&rpar;](http://www.techmeme.com/260126/p29#a260126p29)
+ - [Apple&#39;s new AirTag has finally arrived, but it&#39;s not a must-buy for everyone](https://appleinsider.com/inside/airtags/vs/apples-new-airtag-has-finally-arrived-but-its-not-a-must-buy-for-everyone?utm_source=rss)
+ - [TikTok is shaky after US ownership shift, reigniting censorship debate](https://appleinsider.com/articles/26/01/26/tiktok-is-shaky-after-us-ownership-shift-reigniting-censorship-debate?utm_source=rss)
+ - [&#39;Send Help&#39; Review: Survival Thriller Delivers Deliciously Savage Gore and Comedy](https://www.cnet.com/culture/entertainment/send-help-review-survival-thriller-delivers-deliciously-savage-gore-comedy/)
+ - [Upwind Security, which filters out false security alerts in cloud apps to let security teams address actual risks, raised a $250M Series B at a ~$1.5B valuation &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p28#a260126p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

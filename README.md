@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The mystery machine](http://9gag.com/gag/aoyoW7w)
  - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 😝 [Sign me up for this job, sounds like a dream](http://9gag.com/gag/avyqez5)
- - 💣 [HandGrip](http://9gag.com/gag/axyK3Y2)
- - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
+ - 💣 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
+ - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
 
 ---
 

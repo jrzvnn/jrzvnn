@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
  - 😝 [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)
- - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
- - 😝 [Dad&#39;s priorities are straight](http://9gag.com/gag/a87ND6V)
+ - 💣 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 😝 [Men only want one thing](http://9gag.com/gag/abAD4VX)
  - 👉 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
 
 ---

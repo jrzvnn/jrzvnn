@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men only want one thing](http://9gag.com/gag/abAD4VX)
- - 😝 [Old but gold](http://9gag.com/gag/aO8EDBM)
- - 💣 [Useful Tips](http://9gag.com/gag/ae9zVxj)
- - 😝 [Corpo meeting we all deserve](http://9gag.com/gag/ae9zxeB)
- - 👉 [Mid level oof](http://9gag.com/gag/amoQxNy)<!-- MEMES:END -->
+ - 😝 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
+ - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 💣 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - 😝 [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)
+ - 👉 [Robbing Child&#39;s underwear.??](http://9gag.com/gag/aLnozZv)<!-- MEMES:END -->
 
 ---
 

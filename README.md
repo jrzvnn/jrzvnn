@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s new AirTag has more range and a better speaker](https://www.theverge.com/news/867757/apple-airtag-new-uwb-bluetooth-range-speaker)
+ - [Apple&#39;s new AirTag makes it easier to stay on top of your stuff](https://appleinsider.com/articles/26/01/26/apples-new-airtag-makes-it-easier-to-stay-on-top-of-your-stuff?utm_source=rss)
+ - [After 5 Years, Apple Finally Upgrades the AirTag](https://www.wired.com/story/apple-second-generation-airtag-2026/)
+ - [Infostealer malware database exposes millions of iCloud and email passwords](https://appleinsider.com/articles/26/01/26/infostealer-malware-database-exposes-millions-of-icloud-and-email-passwords?utm_source=rss)
  - [Apple Watch Unity Connection Braided Solo Loop arrives ahead of Black History Month](https://appleinsider.com/articles/26/01/26/apple-watch-unity-connection-braided-solo-loop-arrives-ahead-of-black-history-month?utm_source=rss)
- - [Source: OpenAI targets ~$60 per 1,000 views for ChatGPT ads, on par with live NFL broadcasts and above Meta&#39;s sub-$20 CPM, while offering little conversion data &lpar;The Information&rpar;](http://www.techmeme.com/260126/p23#a260126p23)
- - [Nvidia announces its Earth-2 Medium Range weather model, built on its Atlas architecture, claiming it outperforms Google DeepMind&#39;s GenCast in 70+ variables &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260126/p22#a260126p22)
- - [Apple unveils a second-gen AirTag with an updated speaker and the same second-gen Ultra Wideband chip as in the iPhone 17, costing $29 for one and $99 for four &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/260126/p21#a260126p21)<!-- TECH:END -->
+ - [Swivel base for Apple Home Hub, new Netatmo Thermo line &amp; more on HomeKit insider](https://appleinsider.com/articles/26/01/26/swivel-base-for-apple-home-hub-new-netatmo-thermo-line-more-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

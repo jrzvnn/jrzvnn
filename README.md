@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
  - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 😝 [When you enjoy your job ^^](http://9gag.com/gag/ayNr6rY)
- - 💣 [No brother](http://9gag.com/gag/a9yw53j)
+ - 💣 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
  - 😝 [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)
- - 👉 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)<!-- MEMES:END -->
+ - 👉 [No brother](http://9gag.com/gag/a9yw53j)<!-- MEMES:END -->
 
 ---
 

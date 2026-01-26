@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wikimedia data puts iOS 26 adoption at ~50% in January vs. iOS 18&#39;s 72% in 2025 as Apple slows auto-updates; Statcounter showed 15% after missing Safari changes &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/260126/p35#a260126p35)
+ - [Redditors Are Mounting a Resistance Against ICE](https://www.wired.com/story/redditors-are-mounting-a-resistance-against-ice/)
  - [Google will settle its Assistant spying lawsuit for $68 million](https://www.theverge.com/news/868078/google-assistant-lawsuit-settlement)
  - [Apple’s luxe AirPods Max have dropped to one of their lowest prices ever](https://www.theverge.com/gadgets/868017/apple-airpods-max-usb-c-best-buy-flash-deal-sale)
- - [Incremental iOS 26.2.1, iPadOS 26.2.1, watchOS 26.2.1 updates support the new AirTag](https://appleinsider.com/articles/26/01/26/incremental-ios-2621-update-supports-the-new-airtag?utm_source=rss)
- - [The 10 Best Sleep Masks We’ve Tested While Snoozing &lpar;2026&rpar;](https://www.wired.com/gallery/best-sleep-masks/)
- - [AirTag refresh prompts mass updates of older iOS, iPadOS versions](https://appleinsider.com/articles/26/01/26/airtag-refresh-prompts-mass-updates-of-older-ios-ipados-versions?utm_source=rss)<!-- TECH:END -->
+ - [Incremental iOS 26.2.1, iPadOS 26.2.1, watchOS 26.2.1 updates support the new AirTag](https://appleinsider.com/articles/26/01/26/incremental-ios-2621-update-supports-the-new-airtag?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

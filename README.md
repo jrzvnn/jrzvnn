@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Samsung enters the final qualification phase to supply its HBM4 chips to Nvidia, and targets mass production in February; Samsung&#39;s shares jumped 3.2% &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260125/p11#a260125p11)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-26/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 26, #490](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-26-490/)
  - [The Best Teeth Whitening Strips for a Brighter Smile in 2026](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/)
- - [Gallup: 12% of employed US adults reported using AI daily in their job in Q4 2025, compared to 10% in Q3 and 8% in Q2; 49% say they never use AI in their role &lpar;Andy Kemp/Gallup&rpar;](http://www.techmeme.com/260125/p10#a260125p10)
- - [Does Walking Count as Exercise? Fitness Experts Weigh In](https://www.cnet.com/health/fitness/does-walking-count-as-exercise/)
- - [Many AI founders now find it necessary to raise at valuations requiring absolute domination of the field; Brex, once valued at $12B, shows the downsides of this &lpar;Jason Lemkin/SaaStr&rpar;](http://www.techmeme.com/260125/p9#a260125p9)<!-- TECH:END -->
+ - [Gallup: 12% of employed US adults reported using AI daily in their job in Q4 2025, compared to 10% in Q3 and 8% in Q2; 49% say they never use AI in their role &lpar;Andy Kemp/Gallup&rpar;](http://www.techmeme.com/260125/p10#a260125p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Third iOS 26.3, macOS Tahoe 26.3 developer betas are available to download](https://appleinsider.com/articles/26/01/26/third-ios-263-macos-tahoe-263-developer-betas-are-available-to-download?utm_source=rss)
+ - [TikTok Data Center Outage Triggers Trust Crisis for New US Owners](https://www.wired.com/story/tiktok-ice-videos-censorship-allegations-algorithm/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 27, #961](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-27-961/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 27 #695](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-27-695/)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 27, #1683](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-27-1683/)
- - [Google agrees to pay $68M to settle a class action lawsuit claiming that Google Assistant inappropriately recorded private conversations on users&#39; devices &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260126/p36#a260126p36)
- - [Chocolate Bars Recalled Due to Potential Salmonella Contamination. What to Know Right Now](https://www.cnet.com/health/chocolate-bars-recalled-due-to-potential-salmonella-contamination-what-to-know-right-now/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 27, #1683](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-27-1683/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

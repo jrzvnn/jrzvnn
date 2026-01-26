@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese autonomous trucking company DeepWay raised ~$173M ahead of its planned Hong Kong IPO, filed in November 2025; DeepWay reported ~$215M in H1 2025 revenue &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/260126/p6#a260126p6)
  - [Quantum computing company IonQ acquires US chipmaker SkyWater for ~$1.8B, paying $35/share, in IonQ&#39;s biggest deal yet; SkyWater will operate as a subsidiary &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p5#a260126p5)
  - [Sources: SoftBank halts talks about a ~$50B acquisition of US data center operator Switch, a setback to Masayoshi Son&#39;s goal to roll out Stargate infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/260126/p4#a260126p4)
  - [TikTok broke in its first weekend with US ownership](https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review)
- - [18 Health Stresses You Can Leave Behind in 2026](https://www.cnet.com/health/18-myths-about-your-health-you-can-ignore/)
- - [London-based enterprise AI video startup Synthesia raised a $200M Series E led by GV at a $4B valuation, up from $2.1B after raising $180M in January 2025 &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260126/p3#a260126p3)<!-- TECH:END -->
+ - [18 Health Stresses You Can Leave Behind in 2026](https://www.cnet.com/health/18-myths-about-your-health-you-can-ignore/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

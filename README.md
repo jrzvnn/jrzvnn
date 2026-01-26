@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with 100+ therapists and psychiatrists on clients&#39; AI chatbot usage show, while there are some upsides, conversations also deepened negative feelings &lpar;New York Times&rpar;](http://www.techmeme.com/260126/p14#a260126p14)
- - [Microsoft’s first Windows 11 update of 2026 has been a mess](https://www.theverge.com/news/867647/microsoft-windows-11-january-2026-update-bugs-issues)
- - [OpenAI says nearly 1.3M weekly users are discussing &quot;advanced topics in hard science&quot; in January, with an average of 8.4M ChatGPT messages on those topics &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/260126/p13#a260126p13)
- - [We Strapped on Exoskeletons and Raced. There’s One Clear Winner](https://www.wired.com/story/story/we-raced-exoskeletons-and-theres-one-clear-winner/)
- - [Ricursive, founded by ex-Google researchers to automate advanced chip design, raised $335M from Sequoia, Radical, Lightspeed, and others at a $4B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260126/p12#a260126p12)<!-- TECH:END -->
+ - [Nvidia invests an additional $2B in CoreWeave to help speed up adding 5GW+ of AI computing capacity by 2030 and deploy Nvidia&#39;s new Vera CPU; CRWV jumps 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260126/p17#a260126p17)
+ - [Inside Apple Maps - How to get the most out of your iPhone&#39;s navigation app](https://appleinsider.com/inside/apple-maps/tips/inside-apple-maps---how-to-get-the-most-out-of-your-iphones-navigation-app?utm_source=rss)
+ - [JP Morgan hikes AAPL target to $315 over iPhone 18 expectations](https://appleinsider.com/articles/26/01/26/jp-morgan-hikes-aapl-target-to-315-over-iphone-18-expectations?utm_source=rss)
+ - [TSMC&#39;s conservative capex approach is resulting in supply-demand imbalances and foregone revenue, and hyperscalers must build up Samsung or Intel as its rivals &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260126/p16#a260126p16)
+ - [Tim Cook slammed for attending &#39;Melania&#39; screening on night of Alex Pretti killing](https://appleinsider.com/articles/26/01/26/tim-cook-slammed-for-attending-melania-screening-on-night-of-alex-pretti-killing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

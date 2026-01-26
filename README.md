@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 😝 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
- - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
- - 😝 [Who spends $820 billions on millitary and can&#39;t make simple bread?](http://9gag.com/gag/awyjLL8)
- - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
+ - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
+ - 💣 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
+ - 😝 [Gordon Shumway photobomb](http://9gag.com/gag/a9yw82j)
+ - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 💣 [Welcome To Minnesota Walmart .](http://9gag.com/gag/a87N6zV)
+ - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 😝 [Welcome To Minnesota Walmart .](http://9gag.com/gag/a87N6zV)
+ - 💣 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
  - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
  - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
 

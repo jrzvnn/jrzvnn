@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the explicit deepfake ecosystem evolved from images to high-quality video; an analysis shows 1.4M+ Telegram accounts signed up to 39 deepfake creation bots &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260126/p18#a260126p18)
- - [Nvidia invests an additional $2B in CoreWeave to help speed up adding 5GW+ of AI computing capacity by 2030 and deploy Nvidia&#39;s new Vera CPU; CRWV jumps 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260126/p17#a260126p17)
- - [Inside Apple Maps - How to get the most out of your iPhone&#39;s navigation app](https://appleinsider.com/inside/apple-maps/tips/inside-apple-maps---how-to-get-the-most-out-of-your-iphones-navigation-app?utm_source=rss)
- - [JP Morgan hikes AAPL target to $315 over iPhone 18 expectations](https://appleinsider.com/articles/26/01/26/jp-morgan-hikes-aapl-target-to-315-over-iphone-18-expectations?utm_source=rss)
- - [TSMC&#39;s conservative capex approach is resulting in supply-demand imbalances and foregone revenue, and hyperscalers must build up Samsung or Intel as its rivals &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260126/p16#a260126p16)<!-- TECH:END -->
+ - [Apple&amp;#8217;s new AirTag has more range and a better speaker](https://www.theverge.com/news/867757/apple-airtag-new-uwb-bluetooth-range-speaker)
+ - [Apple Watch Unity Connection Braided Solo Loop arrives ahead of Black History Month](https://appleinsider.com/articles/26/01/26/apple-watch-unity-connection-braided-solo-loop-arrives-ahead-of-black-history-month?utm_source=rss)
+ - [Source: OpenAI targets ~$60 per 1,000 views for ChatGPT ads, on par with live NFL broadcasts and above Meta&#39;s sub-$20 CPM, while offering little conversion data &lpar;The Information&rpar;](http://www.techmeme.com/260126/p23#a260126p23)
+ - [Nvidia announces its Earth-2 Medium Range weather model, built on its Atlas architecture, claiming it outperforms Google DeepMind&#39;s GenCast in 70+ variables &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260126/p22#a260126p22)
+ - [Apple unveils a second-gen AirTag with an updated speaker and the same second-gen Ultra Wideband chip as in the iPhone 17, costing $29 for one and $99 for four &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/260126/p21#a260126p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

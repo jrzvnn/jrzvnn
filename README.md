@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
+ - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 😝 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
  - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
- - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
- - 👉 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)<!-- MEMES:END -->
+ - 😝 [Who spends $820 billions on millitary and can&#39;t make simple bread?](http://9gag.com/gag/awyjLL8)
+ - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
 
 ---
 

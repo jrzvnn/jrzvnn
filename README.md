@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Code Vein II Review: A Better Sequel Still Struggling to Stand Out Among Soulslikes](https://www.cnet.com/tech/gaming/code-vein-ii-review/)
+ - [Google&#39;s Gemini AI Will Now Generate Meeting Suggestions in Your Calendar. How It Works](https://www.cnet.com/tech/services-and-software/googles-gemini-ai-will-now-generate-meeting-suggestions-in-your-calendar-how-it-works/)
  - [StepFun, a Chinese AI startup that develops LLMs and has partnered with automaker Geely and smartphone brands like Oppo and Honor, raised a ~$717M Series B+ &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/260126/p40#a260126p40)
- - [Tim Cook attending a private White House screening of the documentary Melania hours after ICE killed a man suggests horrible judgment, or worse, cowardice &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/260126/p39#a260126p39)
- - [Judge Delays Minnesota ICE Decision While Weighing Whether State Was Being Illegally Punished](https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/)
- - [Billionaire Tom Steyer, who is running for California governor, says he&#39;ll vote for the one-time 5% tax on billionaire wealth if it reaches the November ballot &lpar;Eliyahu Kamisher/Bloomberg&rpar;](http://www.techmeme.com/260126/p38#a260126p38)
- - [A group of YouTubers with a combined 6.2M subscribers adds Snap to a class action lawsuit, alleging the company trained its AI systems on their video content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260126/p37#a260126p37)<!-- TECH:END -->
+ - [X faces EU investigation over Grok’s sexualized deepfakes](https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation)
+ - [Tim Cook attending a private White House screening of the documentary Melania hours after ICE killed a man suggests horrible judgment, or worse, cowardice &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/260126/p39#a260126p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No brother](http://9gag.com/gag/a9yw53j)
  - 😝 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
+ - 💣 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
  - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 💣 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
- - 😝 [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)
- - 👉 [Robbing Child&#39;s underwear.??](http://9gag.com/gag/aLnozZv)<!-- MEMES:END -->
+ - 👉 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)<!-- MEMES:END -->
 
 ---
 

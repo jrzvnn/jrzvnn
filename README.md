@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [My last hope](http://9gag.com/gag/aVvro0n)
- - 😝 [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)
- - 💣 [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)
- - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
+ - 💣 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)
+ - 😝 [Men only want one thing](http://9gag.com/gag/abAD4VX)
  - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
 
 ---

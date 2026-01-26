@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Teeth Whitening Strips for a Brighter Smile in 2026](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/)
  - [Gallup: 12% of employed US adults reported using AI daily in their job in Q4 2025, compared to 10% in Q3 and 8% in Q2; 49% say they never use AI in their role &lpar;Andy Kemp/Gallup&rpar;](http://www.techmeme.com/260125/p10#a260125p10)
  - [Does Walking Count as Exercise? Fitness Experts Weigh In](https://www.cnet.com/health/fitness/does-walking-count-as-exercise/)
  - [Many AI founders now find it necessary to raise at valuations requiring absolute domination of the field; Brex, once valued at $12B, shows the downsides of this &lpar;Jason Lemkin/SaaStr&rpar;](http://www.techmeme.com/260125/p9#a260125p9)
- - [A profile of Mercor, which pays about $2M daily to ~30K experts training AI models at $95/hour on average, with roles like radiologists earning up to $375/hour &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/260125/p8#a260125p8)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 26 #960](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-26-960/)<!-- TECH:END -->
+ - [A profile of Mercor, which pays about $2M daily to ~30K experts training AI models at $95/hour on average, with roles like radiologists earning up to $375/hour &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/260125/p8#a260125p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

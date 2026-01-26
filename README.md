@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
+ - 😝 [Just trying to get my steps in while history happens behind me](http://9gag.com/gag/awyjmdB)
  - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
  - 💣 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
  - 😝 [Italian wife is not wrong](http://9gag.com/gag/aD29b0O)
- - 👉 [No one heeds the OSHA prophet until it is too late..](http://9gag.com/gag/aRBWzG5)<!-- MEMES:END -->
+ - 👉 [Robbing Child&#39;s underwear.??](http://9gag.com/gag/aLnozZv)<!-- MEMES:END -->
 
 ---
 

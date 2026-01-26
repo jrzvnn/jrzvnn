@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)
- - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
- - 😝 [Men only want one thing](http://9gag.com/gag/abAD4VX)
- - 👉 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)<!-- MEMES:END -->
+ - 😝 [Did she want that in football fields per second units?](http://9gag.com/gag/a1mgDYG)
+ - 😝 [Drive it like you stole it.](http://9gag.com/gag/ae9zZRQ)
+ - 💣 [The engineering of roman aqueducts explained](http://9gag.com/gag/a34g0V7)
+ - 😝 [Old but gold](http://9gag.com/gag/aO8EDBM)
+ - 👉 [Just a suggestion](http://9gag.com/gag/aE0K6XN)<!-- MEMES:END -->
 
 ---
 

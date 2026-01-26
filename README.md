@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based enterprise AI video startup Synthesia raised a $200M Series E led by GV at a $4B valuation, up from $2.1B after raising $180M in January 2025 &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260126/p3#a260126p3)
  - [Manufacturers say that AI is fundamentally changing how some new products are created, finding unexpected solutions and reducing R&amp;D time from weeks to days &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p2#a260126p2)
  - [Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#39;s M5](https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/)
  - [Entropy, a decentralized crypto custodian that raised a $25M seed led by a16z in June 2022, is shutting down after &quot;several pivots, and two rounds of layoffs&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260126/p1#a260126p1)
- - [Sources: Samsung enters the final qualification phase to supply its HBM4 chips to Nvidia, and targets mass production in February; Samsung&#39;s shares jumped 3.2% &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260125/p11#a260125p11)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-26/)<!-- TECH:END -->
+ - [Sources: Samsung enters the final qualification phase to supply its HBM4 chips to Nvidia, and targets mass production in February; Samsung&#39;s shares jumped 3.2% &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260125/p11#a260125p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

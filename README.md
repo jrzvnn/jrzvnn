@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Apple&#39;s iOS 26.2.1 Update for iPhones Adds Support for More Precise 2nd Gen AirTags](https://www.cnet.com/tech/services-and-software/apples-ios-26-2-1-iphone-update-supports-airtag-gen-2/)
- - [OpenAI’s president is a Trump mega-donor](https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac)
- - [Wikimedia data puts iOS 26 adoption at ~50% in January vs. iOS 18&#39;s 72% in 2025 as Apple slows auto-updates; Statcounter showed 15% after missing Safari changes &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/260126/p35#a260126p35)
- - [Redditors Are Mounting a Resistance Against ICE](https://www.wired.com/story/redditors-are-mounting-a-resistance-against-ice/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 27, #961](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-27-961/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 27 #695](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-27-695/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 27, #1683](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-27-1683/)
+ - [Google agrees to pay $68M to settle a class action lawsuit claiming that Google Assistant inappropriately recorded private conversations on users&#39; devices &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260126/p36#a260126p36)
+ - [Chocolate Bars Recalled Due to Potential Salmonella Contamination. What to Know Right Now](https://www.cnet.com/health/chocolate-bars-recalled-due-to-potential-salmonella-contamination-what-to-know-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

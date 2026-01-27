@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
- - 😝 [When you enjoy your job ^^](http://9gag.com/gag/ayNr6rY)
- - 💣 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
- - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
- - 👉 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)<!-- MEMES:END -->
+ - 😝 [Men only want one thing](http://9gag.com/gag/abAD4VX)
+ - 😝 [Water returning to the dry riverbed, a beautiful sight from horseback](http://9gag.com/gag/a6Zgnq8)
+ - 💣 [Choose](http://9gag.com/gag/azxyGAb)
+ - 😝 [Deep thoughts from the shower, probably](http://9gag.com/gag/aZZXEQ0)
+ - 👉 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)<!-- MEMES:END -->
 
 ---
 

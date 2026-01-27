@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MSI&#39;s Panther Lake Laptop Delivers on Intel&#39;s Promise of Power Plus Efficiency](https://www.cnet.com/tech/computing/msis-panther-lake-laptop-delivers-on-intels-promise-of-power-plus-efficiency/)
+ - [Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#39;s M5](https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/)
  - [An interview with OpenAI for Science head Kevin Weil on the team&#39;s mission, why LLMs can&#39;t come up with game-changing discoveries yet, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260127/p3#a260127p3)
  - [TikTok US says it doesn&#39;t &quot;have rules against sharing the name Epstein in direct messages&quot; and is &quot;investigating why some users are experiencing issues&quot; &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260127/p2#a260127p2)
- - [10% Dell Coupon Codes | January 2026](https://www.wired.com/story/dell-coupon-code/)
- - [20% Off TurboTax Service Codes | January 2026](https://www.wired.com/story/turbotax-coupon/)
- - [Newegg Promo Code: 10% Off in January 2026](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
+ - [10% Dell Coupon Codes | January 2026](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Sources: the interim director of CISA, Madhu Gottumukkala, triggered automated security warnings last summer by uploading sensitive documents to ChatGPT &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260127/p49#a260127p49)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 28, #962](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-28-962/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 28 #696](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-28-696/)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 28, #1684](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-28-1684/)
- - [Privacy-focused MVNO Cape, which has raised $61M from a16z and others, launches across the US following a March 2025 beta, offering a $99 monthly plan &lpar;Steven Melendez/Fast Company&rpar;](http://www.techmeme.com/260127/p48#a260127p48)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 28, #1684](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-28-1684/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

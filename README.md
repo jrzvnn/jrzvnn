@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp launches Strict Account Settings, a high-security mode to protect high-risk users like journalists and public figures from sophisticated cyberattacks &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260127/p25#a260127p25)
+ - [Yahoo launches Scout, an AI answer engine powered by Claude, in beta for US users on desktop and mobile, and joins Microsoft&#39;s Publisher Content Marketplace &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/260127/p24#a260127p24)
  - [You’ll be able to change the color of Virtual Boy games on Nintendo Switch Online](https://www.theverge.com/tech/868569/nintendo-switch-online-virtual-boy-3d-lineup-launch)
  - [Amazon plans to close all 57 Fresh and 15 Go locations in the US, as it pivots its physical retail strategy to focus exclusively on Whole Foods &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260127/p23#a260127p23)
- - [Israeli startup Memcyco, which offers real-time phishing and account takeover protection, raised a $37M Series A led by NAventures and others &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260127/p22#a260127p22)
- - [UPS plans to eliminate 30,000 jobs this year as part of winding down its partnership with Amazon; it expects $3B in savings related to the Amazon unwind &lpar;Laya Neelakandan/CNBC&rpar;](http://www.techmeme.com/260127/p21#a260127p21)
- - [Pornhub parent Aylo says it will restrict UK users from February 2, after six months of complying with the UK&#39;s OSA; users who verified their ages can login &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/260127/p20#a260127p20)<!-- TECH:END -->
+ - [Israeli startup Memcyco, which offers real-time phishing and account takeover protection, raised a $37M Series A led by NAventures and others &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260127/p22#a260127p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

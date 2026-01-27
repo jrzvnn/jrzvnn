@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sleep well](http://9gag.com/gag/aByzEP1)
- - 😝 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)
- - 💣 [Choose](http://9gag.com/gag/azxyGAb)
- - 😝 [Mid level oof](http://9gag.com/gag/amoQxNy)
- - 👉 [Dad&#39;s priorities are straight](http://9gag.com/gag/a87ND6V)<!-- MEMES:END -->
+ - 😝 [Makeup is a lie](http://9gag.com/gag/axyKve2)
+ - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - 💣 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
+ - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
+ - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
 
 ---
 

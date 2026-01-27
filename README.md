@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO](http://9gag.com/gag/aryEqqp)
  - 😝 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 💣 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
- - 😝 [She is also speaking the whole time](http://9gag.com/gag/a5QgzoG)
+ - 😝 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
+ - 💣 [FAFO](http://9gag.com/gag/aryEqqp)
+ - 😝 [Representative Artistic Ensemble of the Polish Army](http://9gag.com/gag/an7ZEr0)
  - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
 
 ---

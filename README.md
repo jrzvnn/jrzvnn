@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The State-Led Crackdown on Grok and xAI Has Begun](https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/)
- - [An interview with Mozilla president Mark Surman about plans to deploy its ~$1.4B in reserves to fund an AI &quot;rebel alliance&quot; to challenge companies like OpenAI &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260127/p40#a260127p40)
- - [New Data Shows Robotaxis Competing on Price—and Speed](https://www.wired.com/story/new-data-shows-robotaxis-competing-on-price-and-speed/)
- - [OpenAI for Science launches Prism, a free LaTeX-based text editor that embeds GPT-5.2 to assist in scientific paper drafting and citation management &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260127/p39#a260127p39)
- - [A former Netflix game studio went indie to reach more players](https://www.theverge.com/entertainment/868711/spry-fox-netflix-game-studio-indie-spirit-crossing)<!-- TECH:END -->
+ - [Sources: Anthropic is set to raise about $20B led by Singapore&#39;s GIC and Coatue, double the amount it had targeted, at a $350B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260127/p42#a260127p42)
+ - [These Feature-Packed Earbuds Are Less Than $50](https://www.wired.com/story/anker-soundcore-a40-deal-126/)
+ - [Cloudflare stock surged 9.2% on Monday and 14% on Tuesday as users of Moltbot, previously Clawdbot, adopt the free Cloudflare Tunnel to secure their connections &lpar;Nate Wolf/Barron&#39;s Online&rpar;](http://www.techmeme.com/260127/p41#a260127p41)
+ - [Meta&#39;s latest subscription move is an attempt to offset its AI bets](https://appleinsider.com/articles/26/01/27/metas-latest-subscription-move-is-an-attempt-to-offset-its-ai-bets?utm_source=rss)
+ - [The State-Led Crackdown on Grok and xAI Has Begun](https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

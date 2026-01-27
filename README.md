@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
- - 😝 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
- - 💣 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)
- - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
- - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
+ - 😝 [Damm](http://9gag.com/gag/ae9zxdj)
+ - 💣 [Ma&#39;am](http://9gag.com/gag/aPALe4G)
+ - 😝 [Martyn got no chill. &lpar;removed the laughing emoji according to 9gag tradition&rpar;](http://9gag.com/gag/ayNrRyX)
+ - 👉 [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)<!-- MEMES:END -->
 
 ---
 

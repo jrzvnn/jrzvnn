@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta blocks users from sharing links to ICE List, which compiles names of DHS staffers; Meta cites a policy against &quot;asking for personally identifiable&quot; info &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/260127/p47#a260127p47)
+ - [Revolut launches full banking operations in Mexico in its first expansion outside Europe, with capital of $100M+, more than double the regulatory minimum &lpar;Yamini Kalia/Reuters&rpar;](http://www.techmeme.com/260127/p46#a260127p46)
+ - [The 50 Best Shows on HBO Max, WIRED’s Picks &lpar;February 2026&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Apple releases iOS 12.5.8 for the iPhone 5s and iPhone 6, extending software support for these devices to 13 and 12 years after their respective launches &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260127/p45#a260127p45)
- - [Court filings: Mark Zuckerberg approved allowing minors to access AI chatbot companions that safety staffers warned were capable of sexual interactions &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/260127/p44#a260127p44)
- - [Ongoing RAM supply and cost crisis isn&#39;t an issue for Apple&#39;s iPhone -- right now](https://appleinsider.com/articles/26/01/27/ongoing-ram-supply-and-cost-crisis-isnt-an-issue-for-apples-iphone----right-now?utm_source=rss)
- - [Razer’s testing a new tool for customizing its keyboards in your browser](https://www.theverge.com/tech/868843/razer-synapse-web-beta-browser-chromium-configure-settings)
- - [Tether launches USAT, a US-regulated stablecoin issued by Anchorage Digital Bank, marking the company&#39;s direct return to the US market that it left in 2018 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260127/p43#a260127p43)<!-- TECH:END -->
+ - [Court filings: Mark Zuckerberg approved allowing minors to access AI chatbot companions that safety staffers warned were capable of sexual interactions &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/260127/p44#a260127p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

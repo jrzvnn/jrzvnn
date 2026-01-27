@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok US says it doesn&#39;t &quot;have rules against sharing the name Epstein in direct messages&quot; and is &quot;investigating why some users are experiencing issues&quot; &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260127/p2#a260127p2)
  - [10% Dell Coupon Codes | January 2026](https://www.wired.com/story/dell-coupon-code/)
  - [20% Off TurboTax Service Codes | January 2026](https://www.wired.com/story/turbotax-coupon/)
  - [Newegg Promo Code: 10% Off in January 2026](https://www.wired.com/story/newegg-promo-code/)
- - [Micron plans to invest $24B over the next decade to build a 700,000 square foot memory chip facility in Singapore, with wafer output starting in H2 2028 &lpar;Reuters&rpar;](http://www.techmeme.com/260127/p1#a260127p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 27, #491](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-27-491/)<!-- TECH:END -->
+ - [Micron plans to invest $24B over the next decade to build a 700,000 square foot memory chip facility in Singapore, with wafer output starting in H2 2028 &lpar;Reuters&rpar;](http://www.techmeme.com/260127/p1#a260127p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

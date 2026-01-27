@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Makeup is a lie](http://9gag.com/gag/axyKve2)
- - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
- - 💣 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
- - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
- - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
+ - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
+ - 😝 [Priorities might differ](http://9gag.com/gag/aNDMvXw)
+ - 💣 [Who will win?!](http://9gag.com/gag/aPALPqG)
+ - 😝 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
+ - 👉 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)<!-- MEMES:END -->
 
 ---
 

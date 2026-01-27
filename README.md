@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seagate reports Q2 revenue up 22% YoY to $2.83B, vs. $2.73B est., forecasts Q3 results above estimates on strong data storage demand; STX jumps 8%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260127/p52#a260127p52)
  - [The winter storm tested power grids straining to accommodate AI data centers](https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm)
  - [Apple TV comedy &#39;Shrinking&#39; renewed for a fourth season](https://appleinsider.com/articles/26/01/27/apple-tv-comedy-shrinking-renewed-for-a-fourth-season?utm_source=rss)
  - [TikTok says the new US entity has not updated its algorithm since the joint venture was announced, after users accused it of suppressing posts related to ICE &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/260127/p51#a260127p51)
- - [Texas Instruments reports Q4 revenue up 10% YoY to $4.42B, vs. $4.44B est., and forecasts Q1 revenue above estimates; TXN jumps 9%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/260127/p50#a260127p50)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Texas Instruments reports Q4 revenue up 10% YoY to $4.42B, vs. $4.44B est., and forecasts Q1 revenue above estimates; TXN jumps 9%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/260127/p50#a260127p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

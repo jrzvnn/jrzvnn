@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
+ - 😝 [FAFO](http://9gag.com/gag/aryEqqp)
  - 😝 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 💣 [She is also speaking the whole time](http://9gag.com/gag/a5QgzoG)
- - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
+ - 💣 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
+ - 😝 [She is also speaking the whole time](http://9gag.com/gag/a5QgzoG)
  - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
 
 ---

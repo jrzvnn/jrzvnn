@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
- - 😝 [Priorities might differ](http://9gag.com/gag/aNDMvXw)
- - 💣 [Who will win?!](http://9gag.com/gag/aPALPqG)
  - 😝 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
- - 👉 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)<!-- MEMES:END -->
+ - 😝 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
+ - 💣 [Gotta start the habits from young](http://9gag.com/gag/adBAxe9)
+ - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
+ - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
 
 ---
 

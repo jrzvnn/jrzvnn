@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italians trying to find Italy on a map is a whole mood](http://9gag.com/gag/aByzEON)
- - 😝 [Dad&#39;s priorities are straight](http://9gag.com/gag/a87ND6V)
- - 💣 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
- - 😝 [FAFO](http://9gag.com/gag/aryEqqp)
+ - 😝 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
+ - 😝 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
+ - 💣 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
+ - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
  - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
 
 ---

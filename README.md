@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
- - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 💣 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
+ - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
+ - 😝 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
+ - 💣 [Makeup is a lie](http://9gag.com/gag/axyKve2)
  - 😝 [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)
- - 👉 [Makeup is a lie](http://9gag.com/gag/axyKve2)<!-- MEMES:END -->
+ - 👉 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)<!-- MEMES:END -->
 
 ---
 

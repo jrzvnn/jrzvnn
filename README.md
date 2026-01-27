@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Summize, which uses AI to let in-house legal teams manage contract workflows within apps like Slack, raised $50M, bringing its total funding to $65M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260127/p26#a260127p26)
- - [WhatsApp launches Strict Account Settings, a high-security mode to protect high-risk users like journalists and public figures from sophisticated cyberattacks &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260127/p25#a260127p25)
- - [Yahoo launches Scout, an AI answer engine powered by Claude, in beta for US users on desktop and mobile, and joins Microsoft&#39;s Publisher Content Marketplace &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/260127/p24#a260127p24)
- - [You’ll be able to change the color of Virtual Boy games on Nintendo Switch Online](https://www.theverge.com/tech/868569/nintendo-switch-online-virtual-boy-3d-lineup-launch)
- - [Amazon plans to close all 57 Fresh and 15 Go locations in the US, as it pivots its physical retail strategy to focus exclusively on Whole Foods &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260127/p23#a260127p23)<!-- TECH:END -->
+ - [Dozens of nudify apps found on Google and Apple’s app stores](https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores)
+ - [Ai2 launches Open Coding Agents, starting with SERA, an open-source family that includes 32B and 8B parameter models designed to adapt to private codebases &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260127/p30#a260127p30)
+ - [Sonos announces the Amp Multi, a large digital amplifier and its first new device in over a year, ending a pause in hardware releases as it focused on software &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260127/p29#a260127p29)
+ - [Flora, whose node-based design tool uses AI to create media assets for clients like Lionsgate, raised a $42M Series A, bringing its total funding to $52M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260127/p28#a260127p28)
+ - [Pornhub Will Block New UK Users Starting Next Week to Protest ‘Flawed’ ID Law](https://www.wired.com/story/pornhub-will-block-new-uk-users-starting-next-week-to-protest-flawed-id-law/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

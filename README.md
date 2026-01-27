@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon agrees to pay a $309M settlement and return $600M to users in a US class action lawsuit over allegedly incorrectly denied refunds since September 2017 &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/260127/p19#a260127p19)
- - [Amazon is paying $309 million to settle a class action lawsuit over return refunds](https://www.theverge.com/news/868547/amazon-1-billion-settlement-return-refunds)
- - [Abu Dhabi&#39;s top tech university MBZUAI launches K2 Think, a new model it says is capable of advanced reasoning, as part of the UAE&#39;s push into &quot;sovereign&quot; AI &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260127/p18#a260127p18)
- - [Montreal-based Vention raised a $110M Series D to scale its physical AI platform into manufacturing plants worldwide, taking its total raised to ~$216M &lpar;Madison McLauchlan/BetaKit&rpar;](http://www.techmeme.com/260127/p17#a260127p17)
- - [Samsung says the Galaxy Z TriFold costs $2,899, or $899 more than the Galaxy Z Fold 7, launching in the US on January 30 exclusively via its website and stores &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260127/p16#a260127p16)<!-- TECH:END -->
+ - [You’ll be able to change the color of Virtual Boy games on Nintendo Switch Online](https://www.theverge.com/tech/868569/nintendo-switch-online-virtual-boy-3d-lineup-launch)
+ - [Amazon plans to close all 57 Fresh and 15 Go locations in the US, as it pivots its physical retail strategy to focus exclusively on Whole Foods &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260127/p23#a260127p23)
+ - [Israeli startup Memcyco, which offers real-time phishing and account takeover protection, raised a $37M Series A led by NAventures and others &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260127/p22#a260127p22)
+ - [UPS plans to eliminate 30,000 jobs this year as part of winding down its partnership with Amazon; it expects $3B in savings related to the Amazon unwind &lpar;Laya Neelakandan/CNBC&rpar;](http://www.techmeme.com/260127/p21#a260127p21)
+ - [Pornhub parent Aylo says it will restrict UK users from February 2, after six months of complying with the UK&#39;s OSA; users who verified their ages can login &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/260127/p20#a260127p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

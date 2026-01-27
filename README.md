@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Continuity Camera lands Apple in legal trouble for &#39;Sherlocking&#39; Camo](https://appleinsider.com/articles/26/01/27/continuity-camera-lands-apple-in-legal-trouble-for-sherlocking-camo?utm_source=rss)
- - [&#39;F1&#39; keeps pulling down awards nominations, this time for the American Cinema Editors awar](https://appleinsider.com/articles/26/01/27/f1-keeps-pulling-down-awards-nominations-this-time-for-the-american-cinema-editors-awar?utm_source=rss)
- - [Best Walking Pad Deals: Save $150 and More &lpar;2026&rpar;](https://www.wired.com/story/walking-pad-deals-2026/)
- - [&#39;F1: the Movie&#39; and &#39;The Lost Bus&#39; nominated for UK Bafta awards](https://appleinsider.com/articles/26/01/27/f1-the-movie-and-the-lost-bus-nominated-for-uk-bafta-awards?utm_source=rss)
- - [France plans to replace Microsoft Teams and Zoom with French-made and Outscale-hosted Visio by 2027, as part of a push to drop US software vendors in government &lpar;Pascale Davies/Euronews&rpar;](http://www.techmeme.com/260127/p36#a260127p36)<!-- TECH:END -->
+ - [The State-Led Crackdown on Grok and xAI Has Begun](https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/)
+ - [An interview with Mozilla president Mark Surman about plans to deploy its ~$1.4B in reserves to fund an AI &quot;rebel alliance&quot; to challenge companies like OpenAI &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260127/p40#a260127p40)
+ - [New Data Shows Robotaxis Competing on Price—and Speed](https://www.wired.com/story/new-data-shows-robotaxis-competing-on-price-and-speed/)
+ - [OpenAI for Science launches Prism, a free LaTeX-based text editor that embeds GPT-5.2 to assist in scientific paper drafting and citation management &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260127/p39#a260127p39)
+ - [A former Netflix game studio went indie to reach more players](https://www.theverge.com/entertainment/868711/spry-fox-netflix-game-studio-indie-spirit-crossing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

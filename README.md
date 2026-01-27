@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Again](http://9gag.com/gag/a1mg048)
- - 😝 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 💣 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
- - 😝 [Ma&#39;am](http://9gag.com/gag/aPALe4G)
- - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
+ - 😝 [Representative Artistic Ensemble of the Polish Army](http://9gag.com/gag/an7ZEr0)
+ - 😝 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
+ - 💣 [Damm](http://9gag.com/gag/ae9zxdj)
+ - 😝 [For me, this is enough](http://9gag.com/gag/aD29VKG)
+ - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
 
 ---
 

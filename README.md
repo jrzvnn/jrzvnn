@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
- - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
- - 💣 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 😝 [That smile though](http://9gag.com/gag/a7og9XL)
- - 👉 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)<!-- MEMES:END -->
+ - 😝 [Ooooffff](http://9gag.com/gag/avyqe3d)
+ - 😝 [Ubisoft Developers when they learned their CEO cancelled Prince of Persia Remake after it was 99% complete](http://9gag.com/gag/aoyo42e)
+ - 💣 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 😝 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
+ - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
 
 ---
 

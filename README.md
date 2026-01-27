@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - 😝 [When you enjoy your job ^^](http://9gag.com/gag/ayNr6rY)
+ - 💣 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
  - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
- - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - 💣 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
- - 😝 [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)
- - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
+ - 👉 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)<!-- MEMES:END -->
 
 ---
 

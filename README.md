@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UK shopping experience](http://9gag.com/gag/a6Zg5v9)
  - 😝 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
- - 💣 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
- - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
- - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
+ - 😝 [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)
+ - 💣 [Sleep well](http://9gag.com/gag/aByzEP1)
+ - 😝 [Interesting](http://9gag.com/gag/a34g2r5)
+ - 👉 [Nerds](http://9gag.com/gag/apR7bXB)<!-- MEMES:END -->
 
 ---
 

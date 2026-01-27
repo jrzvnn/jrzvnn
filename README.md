@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MSI&#39;s Panther Lake Laptop Delivers on Intel&#39;s Promise of Power Plus Efficiency](https://www.cnet.com/tech/computing/msis-panther-lake-laptop-delivers-on-intels-promise-of-power-plus-efficiency/)
- - [Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#39;s M5](https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/)
- - [An interview with OpenAI for Science head Kevin Weil on the team&#39;s mission, why LLMs can&#39;t come up with game-changing discoveries yet, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260127/p3#a260127p3)
- - [TikTok US says it doesn&#39;t &quot;have rules against sharing the name Epstein in direct messages&quot; and is &quot;investigating why some users are experiencing issues&quot; &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260127/p2#a260127p2)
- - [10% Dell Coupon Codes | January 2026](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Where Tech Leaders and Students Really Think AI Is Going](https://www.wired.com/story/for-future-reference-ai-technology/)
+ - [Strava and Komoot finally bring offline maps to Apple Watch](https://www.theverge.com/news/868418/strava-and-komoot-finally-bring-offline-maps-to-apple-watch)
+ - [Chinese startup Moonshot updates its Kimi model, saying K2.5 can process text, images, and videos simultaneously and beats its open-source peers in some tests &lpar;Bloomberg&rpar;](http://www.techmeme.com/260127/p4#a260127p4)
+ - [Southwest Airlines Says Bye to Open Seating—and Hello to Boarding Complexity](https://www.wired.com/story/southwest-airlines-ends-open-seating/)
+ - [MSI&#39;s Panther Lake Laptop Delivers on Intel&#39;s Promise of Power Plus Efficiency](https://www.cnet.com/tech/computing/msis-panther-lake-laptop-delivers-on-intels-promise-of-power-plus-efficiency/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

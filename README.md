@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The winter storm tested power grids straining to accommodate AI data centers](https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm)
+ - [Apple TV comedy &#39;Shrinking&#39; renewed for a fourth season](https://appleinsider.com/articles/26/01/27/apple-tv-comedy-shrinking-renewed-for-a-fourth-season?utm_source=rss)
+ - [TikTok says the new US entity has not updated its algorithm since the joint venture was announced, after users accused it of suppressing posts related to ICE &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/260127/p51#a260127p51)
  - [Texas Instruments reports Q4 revenue up 10% YoY to $4.42B, vs. $4.44B est., and forecasts Q1 revenue above estimates; TXN jumps 9%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/260127/p50#a260127p50)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Sources: the interim director of CISA, Madhu Gottumukkala, triggered automated security warnings last summer by uploading sensitive documents to ChatGPT &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260127/p49#a260127p49)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 28, #962](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-28-962/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 28 #696](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-28-696/)<!-- TECH:END -->
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

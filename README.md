@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose](http://9gag.com/gag/azxyGAb)
- - 😝 [Makeup is a lie](http://9gag.com/gag/axyKve2)
- - 💣 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
- - 😝 [Damm](http://9gag.com/gag/ae9zxdj)
- - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
+ - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 💣 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
+ - 😝 [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)
+ - 👉 [Makeup is a lie](http://9gag.com/gag/axyKve2)<!-- MEMES:END -->
 
 ---
 

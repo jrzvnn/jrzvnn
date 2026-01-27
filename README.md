@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who will win?!](http://9gag.com/gag/aPALPqG)
- - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 💣 [Makeup is a lie](http://9gag.com/gag/axyKve2)
- - 😝 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
- - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
+ - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - 😝 [Makeup is a lie](http://9gag.com/gag/axyKve2)
+ - 💣 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
+ - 😝 [Damm](http://9gag.com/gag/ae9zxdj)
+ - 👉 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)<!-- MEMES:END -->
 
 ---
 

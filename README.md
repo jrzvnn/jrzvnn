@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether launches USAT, a US-regulated stablecoin issued by Anchorage Digital Bank, marking the company&#39;s direct return to the US market that it left in 2018 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260127/p43#a260127p43)
- - [Amazon Alexa+ Is Now Available to Everyone. Here’s How to Turn It Off &lpar;2026&rpar;](https://www.wired.com/story/alexa-plus-early-access-rollout-2026/)
- - [Sources: Anthropic is set to raise about $20B led by Singapore&#39;s GIC and Coatue, double the amount it had targeted, at a $350B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260127/p42#a260127p42)
- - [Amazon shutters all of its physical Go and Fresh stores](https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed)
- - [Lego&#39;s Already Announcing More Smart Brick-Compatible Lego Sets: Falcon, Cantina and More](https://www.cnet.com/culture/entertainment/legos-already-announcing-more-smart-brick-compatible-lego-sets-falcon-cantina-and-more/)<!-- TECH:END -->
+ - [Apple releases iOS 12.5.8 for the iPhone 5s and iPhone 6, extending software support for these devices to 13 and 12 years after their respective launches &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260127/p45#a260127p45)
+ - [Court filings: Mark Zuckerberg approved allowing minors to access AI chatbot companions that safety staffers warned were capable of sexual interactions &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/260127/p44#a260127p44)
+ - [Ongoing RAM supply and cost crisis isn&#39;t an issue for Apple&#39;s iPhone -- right now](https://appleinsider.com/articles/26/01/27/ongoing-ram-supply-and-cost-crisis-isnt-an-issue-for-apples-iphone----right-now?utm_source=rss)
+ - [Razer’s testing a new tool for customizing its keyboards in your browser](https://www.theverge.com/tech/868843/razer-synapse-web-beta-browser-chromium-configure-settings)
+ - [Tether launches USAT, a US-regulated stablecoin issued by Anchorage Digital Bank, marking the company&#39;s direct return to the US market that it left in 2018 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260127/p43#a260127p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

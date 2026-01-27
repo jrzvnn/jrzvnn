@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dozens of nudify apps found on Google and Apple’s app stores](https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores)
- - [Ai2 launches Open Coding Agents, starting with SERA, an open-source family that includes 32B and 8B parameter models designed to adapt to private codebases &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260127/p30#a260127p30)
- - [Sonos announces the Amp Multi, a large digital amplifier and its first new device in over a year, ending a pause in hardware releases as it focused on software &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260127/p29#a260127p29)
- - [Flora, whose node-based design tool uses AI to create media assets for clients like Lionsgate, raised a $42M Series A, bringing its total funding to $52M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260127/p28#a260127p28)
- - [Pornhub Will Block New UK Users Starting Next Week to Protest ‘Flawed’ ID Law](https://www.wired.com/story/pornhub-will-block-new-uk-users-starting-next-week-to-protest-flawed-id-law/)<!-- TECH:END -->
+ - [TikTok settles a California lawsuit ahead of a landmark social media addiction trial; Snap recently settled the suit, while Meta and YouTube remain defendants &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260127/p33#a260127p33)
+ - [Continuity Camera lands Apple in legal trouble for &#39;Sherlocking&#39; Camo](https://appleinsider.com/articles/26/01/27/continuity-camera-lands-apple-in-legal-trouble-for-sherlocking-camo?utm_source=rss)
+ - [Google Search now lets you ask AI Overviews follow-up questions](https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3)
+ - [The promise and peril of a new online shooter](https://www.theverge.com/entertainment/868558/highguard-online-shooters)
+ - [The UK government says it recruited a team of AI specialists to build AI tools to improve transport, public safety and defense, backed by Meta&#39;s funding &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/260127/p32#a260127p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

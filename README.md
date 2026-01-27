@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Privacy-focused MVNO Cape, which has raised $61M from a16z and others, launches across the US following a March 2025 beta, offering a $99 monthly plan &lpar;Steven Melendez/Fast Company&rpar;](http://www.techmeme.com/260127/p48#a260127p48)
- - [Meta blocks users from sharing links to ICE List, which compiles names of DHS staffers; Meta cites a policy against &quot;asking for personally identifiable&quot; info &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/260127/p47#a260127p47)
- - [Revolut launches full banking operations in Mexico in its first expansion outside Europe, with capital of $100M+, more than double the regulatory minimum &lpar;Yamini Kalia/Reuters&rpar;](http://www.techmeme.com/260127/p46#a260127p46)
- - [Best Home Security Cameras Without Subscriptions in 2026](https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/)
- - [WWE Royal Rumble 2026: Where to Watch, Start Time, Matches and Confirmed Entrants](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)<!-- TECH:END -->
+ - [Sources: the interim director of CISA, Madhu Gottumukkala, triggered automated security warnings last summer by uploading sensitive documents to ChatGPT &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260127/p49#a260127p49)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 28, #962](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-28-962/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 28 #696](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-28-696/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 28, #1684](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-28-1684/)
+ - [Privacy-focused MVNO Cape, which has raised $61M from a16z and others, launches across the US following a March 2025 beta, offering a $99 monthly plan &lpar;Steven Melendez/Fast Company&rpar;](http://www.techmeme.com/260127/p48#a260127p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

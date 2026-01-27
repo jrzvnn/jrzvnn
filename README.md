@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple C-series modem enables new privacy-focused limit precise location feature](https://appleinsider.com/articles/26/01/26/apple-c-series-modem-enables-new-privacy-focused-limit-precise-location-feature?utm_source=rss)
- - [Meta says it will test new paid subscriptions that give people access to exclusive features on its apps and plans to scale Manus as part of those offerings &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260126/p41#a260126p41)
- - [Code Vein II Review: A Better Sequel Still Struggling to Stand Out Among Soulslikes](https://www.cnet.com/tech/gaming/code-vein-ii-review/)
- - [Google&#39;s Gemini AI Will Now Generate Meeting Suggestions in Your Calendar. How It Works](https://www.cnet.com/tech/services-and-software/googles-gemini-ai-will-now-generate-meeting-suggestions-in-your-calendar-how-it-works/)
- - [StepFun, a Chinese AI startup that develops LLMs and has partnered with automaker Geely and smartphone brands like Oppo and Honor, raised a ~$717M Series B+ &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/260126/p40#a260126p40)<!-- TECH:END -->
+ - [The US Army signs a $5.6B, 10-year contract with Salesforce to speed up outdated practices; as part of the deal, military recruiters will get access to Slack &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260126/p45#a260126p45)
+ - [Audio-Technica ATH-R50x headphones review: Open-backed music to my ears](https://appleinsider.com/articles/26/01/27/audio-technica-ath-r50x-headphones-review-open-backed-music-to-my-ears?utm_source=rss)
+ - [YC updated its website to remove Canada from its list of approved jurisdictions for incorporation, leaving the US, Cayman Islands, and Singapore as options &lpar;Murad Hemmadi/The Logic&rpar;](http://www.techmeme.com/260126/p44#a260126p44)
+ - [Khosla Ventures&#39; Vinod Khosla and Ethan Choi disavow Keith Rabois&#39; comments on an ICE shooting; Rabois said the man killed by agents was committing a &quot;felony&quot; &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260126/p43#a260126p43)
+ - [It&#39;s not usable yet, but Asahi Linux runs on M3 Macs now](https://appleinsider.com/articles/26/01/27/its-not-usable-yet-but-asahi-linux-runs-on-m3-macs-now?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

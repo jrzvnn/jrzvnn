@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corning says Meta committed to paying up to $6B through 2030 for fiber-optic cable in its AI data centers, and it plans to expand its Hickory, NC, factory &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260127/p11#a260127p11)
- - [Google Photos now lets you describe how to transform images into video](https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support)
- - [A profile of White House AI adviser Sriram Krishnan, who wrote an EO against &quot;Woke&quot; AI, aims to &quot;fight China&quot;, and rallies executives around Trump&#39;s policies &lpar;Financial Times&rpar;](http://www.techmeme.com/260127/p10#a260127p10)
- - [The Smart Light Bulbs Worth Buying in 2026: Cync, Meross, Tapo](https://www.wired.com/story/best-smart-light-bulbs/)
- - [Khaby Lame, the world&#39;s biggest TikToker, partners with Nasdaq-listed Rich Sparkle in a $975M, 36-month deal to monetize his fan base, including an AI version &lpar;Katarina Hoije/Bloomberg&rpar;](http://www.techmeme.com/260127/p9#a260127p9)<!-- TECH:END -->
+ - [Truth and AI in Minneapolis](https://www.theverge.com/podcast/868359/minneapolis-alex-pretti-tiktok-vergecast)
+ - [Uber launches Uber AV Labs, a division to collect real-world driving data via sensor-equipped vehicles to train reinforcement learning models for its partners &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260127/p14#a260127p14)
+ - [If you give ChatGPT your health data, have your doctor on speed-dial](https://appleinsider.com/articles/26/01/27/if-you-give-chatgpt-your-health-data-have-your-doctor-on-speed-dial?utm_source=rss)
+ - [The Best Ski Goggles, Editor Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/gallery/best-ski-goggles/)
+ - [SEC filing: Pinterest plans to lay off less than 15% of its workforce by Q3 and cut back on office space, saying it is &quot;reallocating resources&quot; to AI teams &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260127/p13#a260127p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

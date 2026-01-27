@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Again](http://9gag.com/gag/a1mg048)
  - 😝 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
- - 😝 [Damm](http://9gag.com/gag/ae9zxdj)
  - 💣 [Ma&#39;am](http://9gag.com/gag/aPALe4G)
  - 😝 [Martyn got no chill. &lpar;removed the laughing emoji according to 9gag tradition&rpar;](http://9gag.com/gag/ayNrRyX)
- - 👉 [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)<!-- MEMES:END -->
+ - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
 
 ---
 

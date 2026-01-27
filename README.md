@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Privacy-focused MVNO Cape, which has raised $61M from a16z and others, launches across the US following a March 2025 beta, offering a $99 monthly plan &lpar;Steven Melendez/Fast Company&rpar;](http://www.techmeme.com/260127/p48#a260127p48)
  - [Meta blocks users from sharing links to ICE List, which compiles names of DHS staffers; Meta cites a policy against &quot;asking for personally identifiable&quot; info &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/260127/p47#a260127p47)
  - [Revolut launches full banking operations in Mexico in its first expansion outside Europe, with capital of $100M+, more than double the regulatory minimum &lpar;Yamini Kalia/Reuters&rpar;](http://www.techmeme.com/260127/p46#a260127p46)
  - [Best Home Security Cameras Without Subscriptions in 2026](https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/)
- - [WWE Royal Rumble 2026: Where to Watch, Start Time, Matches and Confirmed Entrants](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)
- - [&#39;Shrinking&#39; Season 3: When Does Apple TV&#39;s Hit Comedy Return?](https://www.cnet.com/tech/services-and-software/shrinking-season-3-release-schedule-apple-tv/)<!-- TECH:END -->
+ - [WWE Royal Rumble 2026: Where to Watch, Start Time, Matches and Confirmed Entrants](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

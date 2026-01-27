@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 😝 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
  - 😝 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 💣 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)
- - 😝 [Bravo.](http://9gag.com/gag/a9yw21m)
- - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
+ - 💣 [She is also speaking the whole time](http://9gag.com/gag/a5QgzoG)
+ - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
+ - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
 
 ---
 

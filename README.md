@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men only want one thing](http://9gag.com/gag/abAD4VX)
- - 😝 [Water returning to the dry riverbed, a beautiful sight from horseback](http://9gag.com/gag/a6Zgnq8)
- - 💣 [Choose](http://9gag.com/gag/azxyGAb)
- - 😝 [Deep thoughts from the shower, probably](http://9gag.com/gag/aZZXEQ0)
- - 👉 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)<!-- MEMES:END -->
+ - 😝 [Choose](http://9gag.com/gag/azxyGAb)
+ - 😝 [Makeup is a lie](http://9gag.com/gag/axyKve2)
+ - 💣 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
+ - 😝 [Damm](http://9gag.com/gag/ae9zxdj)
+ - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
 
 ---
 

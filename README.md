@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
- - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
- - 💣 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 😝 [Damm](http://9gag.com/gag/ae9zxdj)
- - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
+ - 😝 [Sleep well](http://9gag.com/gag/aByzEP1)
+ - 😝 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)
+ - 💣 [Choose](http://9gag.com/gag/azxyGAb)
+ - 😝 [Mid level oof](http://9gag.com/gag/amoQxNy)
+ - 👉 [Dad&#39;s priorities are straight](http://9gag.com/gag/a87ND6V)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ooooffff](http://9gag.com/gag/avyqe3d)
- - 😝 [Ubisoft Developers when they learned their CEO cancelled Prince of Persia Remake after it was 99% complete](http://9gag.com/gag/aoyo42e)
- - 💣 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
- - 😝 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
- - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
+ - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 😝 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
+ - 💣 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)
+ - 😝 [Bravo.](http://9gag.com/gag/a9yw21m)
+ - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is spending millions to convince people that data centers are cool and you like them](https://www.theverge.com/news/869008/meta-data-centers-ad-campaign)
  - [Moltbot, the AI agent that &amp;#8216;actually does things,&amp;#8217; is tech’s new obsession](https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent)
  - [AdImpact: Meta spent $6.4M in November and December 2025 to run TV ads in eight US state capitals and DC, aiming to change negative opinions about data centers &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/260127/p53#a260127p53)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [Seagate reports Q2 revenue up 22% YoY to $2.83B, vs. $2.73B est., forecasts Q3 results above estimates on strong data storage demand; STX jumps 8%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260127/p52#a260127p52)
- - [The Doomsday Clock Jumps Closer to Midnight. AI Is a Big Reason Why](https://www.cnet.com/tech/services-and-software/the-doomsday-clock-jumps-closer-to-midnight-ai-is-a-big-reason-why/)<!-- TECH:END -->
+ - [Seagate reports Q2 revenue up 22% YoY to $2.83B, vs. $2.73B est., forecasts Q3 results above estimates on strong data storage demand; STX jumps 8%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260127/p52#a260127p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

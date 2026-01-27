@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
- - 😝 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
- - 💣 [Gotta start the habits from young](http://9gag.com/gag/adBAxe9)
- - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
- - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
+ - 😝 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - 😝 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 💣 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
+ - 😝 [That smile though](http://9gag.com/gag/a7og9XL)
+ - 👉 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Truth and AI in Minneapolis](https://www.theverge.com/podcast/868359/minneapolis-alex-pretti-tiktok-vergecast)
- - [Uber launches Uber AV Labs, a division to collect real-world driving data via sensor-equipped vehicles to train reinforcement learning models for its partners &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260127/p14#a260127p14)
- - [If you give ChatGPT your health data, have your doctor on speed-dial](https://appleinsider.com/articles/26/01/27/if-you-give-chatgpt-your-health-data-have-your-doctor-on-speed-dial?utm_source=rss)
- - [The Best Ski Goggles, Editor Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/gallery/best-ski-goggles/)
- - [SEC filing: Pinterest plans to lay off less than 15% of its workforce by Q3 and cut back on office space, saying it is &quot;reallocating resources&quot; to AI teams &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260127/p13#a260127p13)<!-- TECH:END -->
+ - [Samsung says the Galaxy Z TriFold costs $2,899, or $899 more than the Galaxy Z Fold 7, launching in the US on January 30 exclusively via its website and stores &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260127/p16#a260127p16)
+ - [Pinterest cuts workforce by around 15 percent to focus on AI](https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation)
+ - [Internal Slack message: Sam Altman tells OpenAI staff that &quot;What&#39;s happening with ICE is going too far&quot; and he hopes President Trump &quot;will rise to this moment&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/260127/p15#a260127p15)
+ - [The Samsung Trifold will cost nearly three grand](https://www.theverge.com/news/868190/samsung-galaxy-z-trifold-us-price-release-date-availability)
+ - [Truth and AI in Minneapolis](https://www.theverge.com/podcast/868359/minneapolis-alex-pretti-tiktok-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

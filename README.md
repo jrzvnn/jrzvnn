@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents: a whistleblower details the Boshang scam compound in Laos that defrauded victims of ~$2.2M over 11 weeks and utilized a system of worker debt bondage &lpar;Wired&rpar;](http://www.techmeme.com/260127/p8#a260127p8)
+ - [8 Best Laptops &lpar;2026&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
+ - [All rise for JudgeGPT](https://www.theverge.com/policy/868151/ai-judges-arbitration)
  - [US court filings detail Anthropic&#39;s Project Panama, an effort to &quot;destructively scan&quot; up to 2M books with a hydraulic &quot;cutting machine&quot; led by an ex-Google exec &lpar;Washington Post&rpar;](http://www.techmeme.com/260127/p7#a260127p7)
- - [Xbox Cloud Gaming’s new design teases the future of Xbox console UI](https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design)
- - [He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive](https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/)
- - [Revealed: Leaked Chats Expose the Daily Life of a Scam Compound’s Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)
- - [The EU gives Google a six-month deadline to lift technical barriers to rival AI search assistants on Android and give key data to other search engine providers &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260127/p6#a260127p6)<!-- TECH:END -->
+ - [Xbox Cloud Gaming’s new design teases the future of Xbox console UI](https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

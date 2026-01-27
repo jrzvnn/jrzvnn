@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Representative Artistic Ensemble of the Polish Army](http://9gag.com/gag/an7ZEr0)
  - 😝 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
- - 💣 [Damm](http://9gag.com/gag/ae9zxdj)
- - 😝 [For me, this is enough](http://9gag.com/gag/aD29VKG)
+ - 😝 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
+ - 💣 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)
+ - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
  - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
 
 ---

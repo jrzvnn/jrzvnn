@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;F1&#39; keeps pulling down awards nominations, this time for the American Cinema Editors awar](https://appleinsider.com/articles/26/01/27/f1-keeps-pulling-down-awards-nominations-this-time-for-the-american-cinema-editors-awar?utm_source=rss)
- - [&#39;F1: the Movie&#39; and &#39;The Lost Bus&#39; nominated for UK Bafta awards](https://appleinsider.com/articles/26/01/27/f1-the-movie-and-the-lost-bus-nominated-for-uk-bafta-awards?utm_source=rss)
  - [Continuity Camera lands Apple in legal trouble for &#39;Sherlocking&#39; Camo](https://appleinsider.com/articles/26/01/27/continuity-camera-lands-apple-in-legal-trouble-for-sherlocking-camo?utm_source=rss)
- - [France plans to replace Microsoft Teams and Zoom with French-made and Outscale-hosted Visio by 2027, as part of a push to drop US software vendors in government &lpar;Pascale Davies/Euronews&rpar;](http://www.techmeme.com/260127/p36#a260127p36)
- - [Google expands Android&#39;s anti-theft suite, including a dedicated toggle for its Failed Authentication Lock feature on devices running Android 16 or later &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260127/p35#a260127p35)<!-- TECH:END -->
+ - [&#39;F1&#39; keeps pulling down awards nominations, this time for the American Cinema Editors awar](https://appleinsider.com/articles/26/01/27/f1-keeps-pulling-down-awards-nominations-this-time-for-the-american-cinema-editors-awar?utm_source=rss)
+ - [Best Walking Pad Deals: Save $150 and More &lpar;2026&rpar;](https://www.wired.com/story/walking-pad-deals-2026/)
+ - [&#39;F1: the Movie&#39; and &#39;The Lost Bus&#39; nominated for UK Bafta awards](https://appleinsider.com/articles/26/01/27/f1-the-movie-and-the-lost-bus-nominated-for-uk-bafta-awards?utm_source=rss)
+ - [France plans to replace Microsoft Teams and Zoom with French-made and Outscale-hosted Visio by 2027, as part of a push to drop US software vendors in government &lpar;Pascale Davies/Euronews&rpar;](http://www.techmeme.com/260127/p36#a260127p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

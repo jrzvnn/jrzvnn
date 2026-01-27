@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Meta blocks users from sharing links to ICE List, which compiles names of DHS staffers; Meta cites a policy against &quot;asking for personally identifiable&quot; info &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/260127/p47#a260127p47)
  - [Revolut launches full banking operations in Mexico in its first expansion outside Europe, with capital of $100M+, more than double the regulatory minimum &lpar;Yamini Kalia/Reuters&rpar;](http://www.techmeme.com/260127/p46#a260127p46)
- - [The 50 Best Shows on HBO Max, WIRED’s Picks &lpar;February 2026&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Apple releases iOS 12.5.8 for the iPhone 5s and iPhone 6, extending software support for these devices to 13 and 12 years after their respective launches &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260127/p45#a260127p45)
- - [Court filings: Mark Zuckerberg approved allowing minors to access AI chatbot companions that safety staffers warned were capable of sexual interactions &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/260127/p44#a260127p44)<!-- TECH:END -->
+ - [Best Home Security Cameras Without Subscriptions in 2026](https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/)
+ - [WWE Royal Rumble 2026: Where to Watch, Start Time, Matches and Confirmed Entrants](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)
+ - [&#39;Shrinking&#39; Season 3: When Does Apple TV&#39;s Hit Comedy Return?](https://www.cnet.com/tech/services-and-software/shrinking-season-3-release-schedule-apple-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

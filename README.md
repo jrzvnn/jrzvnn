@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU gives Google a six-month deadline to lift technical barriers to rival AI search assistants on Android and give key data to other search engine providers &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260127/p6#a260127p6)
+ - [Instagram, Facebook, and WhatsApp will test premium subscriptions](https://www.theverge.com/news/868439/meta-premium-subscription-ai-facebook-instagram-whatsapp)
+ - [Moonshot says Kimi K2.5 builds on K2 with &quot;pretraining over ~15T mixed visual and text tokens&quot; and &quot;can self-direct an agent swarm with up to 100 sub-agents&quot; &lpar;Kimi&rpar;](http://www.techmeme.com/260127/p5#a260127p5)
  - [Where Tech Leaders and Students Really Think AI Is Going](https://www.wired.com/story/for-future-reference-ai-technology/)
- - [Strava and Komoot finally bring offline maps to Apple Watch](https://www.theverge.com/news/868418/strava-and-komoot-finally-bring-offline-maps-to-apple-watch)
- - [Chinese startup Moonshot updates its Kimi model, saying K2.5 can process text, images, and videos simultaneously and beats its open-source peers in some tests &lpar;Bloomberg&rpar;](http://www.techmeme.com/260127/p4#a260127p4)
- - [Southwest Airlines Says Bye to Open Seating—and Hello to Boarding Complexity](https://www.wired.com/story/southwest-airlines-ends-open-seating/)
- - [MSI&#39;s Panther Lake Laptop Delivers on Intel&#39;s Promise of Power Plus Efficiency](https://www.cnet.com/tech/computing/msis-panther-lake-laptop-delivers-on-intels-promise-of-power-plus-efficiency/)<!-- TECH:END -->
+ - [Strava and Komoot finally bring offline maps to Apple Watch](https://www.theverge.com/news/868418/strava-and-komoot-finally-bring-offline-maps-to-apple-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether launches USAT, a US-regulated stablecoin issued by Anchorage Digital Bank, marking the company&#39;s direct return to the US market that it left in 2018 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260127/p43#a260127p43)
+ - [Amazon Alexa+ Is Now Available to Everyone. Here’s How to Turn It Off &lpar;2026&rpar;](https://www.wired.com/story/alexa-plus-early-access-rollout-2026/)
  - [Sources: Anthropic is set to raise about $20B led by Singapore&#39;s GIC and Coatue, double the amount it had targeted, at a $350B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260127/p42#a260127p42)
- - [These Feature-Packed Earbuds Are Less Than $50](https://www.wired.com/story/anker-soundcore-a40-deal-126/)
- - [Cloudflare stock surged 9.2% on Monday and 14% on Tuesday as users of Moltbot, previously Clawdbot, adopt the free Cloudflare Tunnel to secure their connections &lpar;Nate Wolf/Barron&#39;s Online&rpar;](http://www.techmeme.com/260127/p41#a260127p41)
- - [Meta&#39;s latest subscription move is an attempt to offset its AI bets](https://appleinsider.com/articles/26/01/27/metas-latest-subscription-move-is-an-attempt-to-offset-its-ai-bets?utm_source=rss)
- - [The State-Led Crackdown on Grok and xAI Has Begun](https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/)<!-- TECH:END -->
+ - [Amazon shutters all of its physical Go and Fresh stores](https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed)
+ - [Lego&#39;s Already Announcing More Smart Brick-Compatible Lego Sets: Falcon, Cantina and More](https://www.cnet.com/culture/entertainment/legos-already-announcing-more-smart-brick-compatible-lego-sets-falcon-cantina-and-more/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

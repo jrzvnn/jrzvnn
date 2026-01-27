@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
- - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 💣 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
+ - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
+ - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
+ - 💣 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
  - 😝 [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)
- - 👉 [No brother](http://9gag.com/gag/a9yw53j)<!-- MEMES:END -->
+ - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
 
 ---
 

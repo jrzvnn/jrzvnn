@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML CEO Christophe Fouquet says the company plans to cut 1,700 jobs, or 4% of its workforce, mainly in its Tech and IT organizations; ASML jumps 5%+ pre-market &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/260128/p18#a260128p18)
+ - [Amazon plans to cut ~16,000 roles across the company as part of an ongoing effort to reduce organizational layers and bureaucracy, after cuts in October 2025 &lpar;Beth Galetti/About Amazon&rpar;](http://www.techmeme.com/260128/p17#a260128p17)
  - [A critique of a large UK social media study that suggested measures like social media bans are unlikely to have an effect on teens&#39; long term mental health &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260128/p16#a260128p16)
  - [The One Thing You Need to Toggle Before You Move Money Between Venmo and PayPal](https://www.cnet.com/tech/services-and-software/before-you-use-venmo-and-paypals-new-transfer-feature-change-this-one-setting/)
- - [Momentum Works: the GMV of the online food delivery market in Southeast Asia&#39;s six biggest economies grew 18% YoY to $22.7B in 2025, and Grab accounted for 55% &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/260128/p15#a260128p15)
- - [Samsung says it will introduce a display feature for the Galaxy S26 series that improves &quot;privacy at a pixel level&quot; to protect users from &quot;shoulder surfing&quot; &lpar;Abhijeet Mishra/SamMobile&rpar;](http://www.techmeme.com/260128/p14#a260128p14)
- - [SK Hynix reports Q4 revenue up 66% YoY to $23B, above ~$22.4B est., and operating profit up 137% YoY to $13.3B, both company records, driven by AI HBM demand &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260128/p13#a260128p13)<!-- TECH:END -->
+ - [Momentum Works: the GMV of the online food delivery market in Southeast Asia&#39;s six biggest economies grew 18% YoY to $22.7B in 2025, and Grab accounted for 55% &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/260128/p15#a260128p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

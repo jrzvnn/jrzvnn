@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro could get a teleconverter for greater zoom](https://appleinsider.com/articles/26/01/28/iphone-18-pro-could-get-a-teleconverter-for-greater-zoom?utm_source=rss)
- - [PayPal survey in October 2025: 40% of merchants already accept crypto, led by large enterprises, 85% expect crypto payments to be commonplace by 2030, and more &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260128/p23#a260128p23)
- - [Apple Patches Old Versions of iOS to Keep iMessage and FaceTime Running](https://www.wired.com/story/apple-patches-older-ios-versions-to-keep-imessage-facetime-working/)
- - [Amazon plans to discontinue its Amazon One palm recognition system on June 3 and will automatically delete all user data; One remains for healthcare check-ins &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/260128/p22#a260128p22)
- - [Windows 11&amp;#8217;s ability to resume Android apps on your PC is getting closer](https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview)<!-- TECH:END -->
+ - [ADL study of Grok, ChatGPT, Llama, Claude, Gemini, and DeepSeek: Grok performed worst at identifying and countering antisemitic content, while Claude was best &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/260128/p26#a260128p26)
+ - [Some US college students say they are using AI &quot;humanizer&quot; tools to alter text to avoid cheating accusations; AI detection tools now aim to catch &quot;humanizers&quot; &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/260128/p25#a260128p25)
+ - [6 Best VPN Services &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)
+ - [How the iPad created the tablet market despite being late to the game](https://appleinsider.com/articles/26/01/27/how-the-ipad-created-the-tablet-market-despite-being-late-to-the-game?utm_source=rss)
+ - [Long-awaited &#39;Ted Lasso&#39; season 4 finally gets a vague premiere date](https://appleinsider.com/articles/26/01/28/long-awaited-ted-lasso-season-4-finally-gets-a-vague-premiere-date?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

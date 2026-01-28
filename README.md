@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beyond Meat’s protein soda might be its last chance and best hope](https://www.theverge.com/science/869209/beyond-meat-immerse-protein-soda)
+ - [Slice, which uses AI agents to encode tax policies and legal rules across 60+ countries, raised a $25M Series A led by Insight, taking its total funding to $32M &lpar;Mary Ann Azevedo/This Week in Fintech&rpar;](http://www.techmeme.com/260128/p38#a260128p38)
+ - [Expect strong iPhone 17 demand, AI talk in Apple&#39;s Q1 results call](https://appleinsider.com/articles/26/01/28/expect-strong-iphone-17-demand-ai-talk-in-apples-q1-results-call?utm_source=rss)
  - [This soft humanoid robot is designed to be ‘physically safe and socially approachable’](https://www.theverge.com/tech/869293/fauna-robotics-sprout-humanoid-robot-research)
- - [Adaptive6, which treats cloud cost inefficiencies as security vulnerabilities to help companies cut bills, raised a $28M Series A, for $44M in total funding &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260128/p37#a260128p37)
- - [My favorite folding phone is the one that doesn’t exist yet](https://www.theverge.com/tech/869084/folding-phone-google-pixel-10-pro-samsung-galaxy-z-fold-7)
- - [This fanny pack robot helped me walk miles](https://www.theverge.com/tech/869109/fanny-pack-exoskeleton-wirobotics-wim-s-ces-2026)
- - [Outtake, which uses autonomous AI agents to help companies detect and remove cyberthreats, raised $40M led by Iconiq, after a $16.5M Series A in April 2025 &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260128/p36#a260128p36)<!-- TECH:END -->
+ - [Adaptive6, which treats cloud cost inefficiencies as security vulnerabilities to help companies cut bills, raised a $28M Series A, for $44M in total funding &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260128/p37#a260128p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

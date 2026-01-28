@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s the proper reaction of any adult person.](http://9gag.com/gag/aVvr23O)
- - 😝 [Go outside they said. It will be fun they said.](http://9gag.com/gag/azxyYgK)
- - 💣 [He deserves it.](http://9gag.com/gag/aAyAXEE)
- - 😝 [Ouch. My. Face.](http://9gag.com/gag/ayNrYoM)
- - 👉 [Tesla coil fly trap](http://9gag.com/gag/a2vgL5p)<!-- MEMES:END -->
+ - 😝 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
+ - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - 💣 [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
+ - 😝 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
+ - 👉 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)<!-- MEMES:END -->
 
 ---
 

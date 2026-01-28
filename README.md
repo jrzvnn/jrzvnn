@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Following UK CMA&#39;s proposals, Google says it is exploring controls to let websites opt out of AI Overviews and AI Mode &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/260128/p42#a260128p42)
- - [The UK CMA proposes measures to let publishers opt out of content scraping for Google&#39;s AI Overviews and AI training without losing visibility in search results &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/260128/p41#a260128p41)
- - [The noise-canceling AirPods 4 are down to $120, one of their best prices yet](https://www.theverge.com/gadgets/869428/apple-airpods-4-active-noise-cancellation-deal-sale)
- - [Canada says it is talking to Meta to restore news to Facebook and Instagram as the Online News Act is put on the table as part of trade negotiations with the US &lpar;Marie Woolf/Globe and Mail&rpar;](http://www.techmeme.com/260128/p40#a260128p40)
- - [HP OmniBook 5 14 Review: You Won&#39;t Believe How Long This Snapdragon X Laptop Runs](https://www.cnet.com/tech/computing/hp-omnibook-5-14-review-you-wont-believe-how-long-this-snapdragon-x-laptop-runs/)<!-- TECH:END -->
+ - [Google updates Gemini in Chrome with a new side panel, an auto browse feature that can navigate pages and take actions for AI Pro and AI Ultra users, and more &lpar;Kyle Kucharski/ZDNET&rpar;](http://www.techmeme.com/260128/p43#a260128p43)
+ - [Spotify says it paid out $11 billion in royalties in 2025](https://www.theverge.com/news/869523/spotify-11-billion-in-royalties)
+ - [Process Zero II will let you do a little processing, if you want](https://www.theverge.com/tech/869354/halide-mark-iii-process-zero-update)
+ - [Google Gives Chrome an AI Side Panel and Lets Gemini Browse for You](https://www.cnet.com/tech/services-and-software/google-chrome-gets-new-gemini-updates/)
+ - [Champions League Soccer: Livestream Napoli vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-napoli-vs-chelsea-live-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

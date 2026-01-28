@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML CEO Christophe Fouquet says the company plans to cut 1,700 jobs, or 4% of its workforce, mainly in its Tech and IT organizations; ASML jumps 5%+ pre-market &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/260128/p18#a260128p18)
- - [Amazon plans to cut ~16,000 roles across the company as part of an ongoing effort to reduce organizational layers and bureaucracy, after cuts in October 2025 &lpar;Beth Galetti/About Amazon&rpar;](http://www.techmeme.com/260128/p17#a260128p17)
- - [A critique of a large UK social media study that suggested measures like social media bans are unlikely to have an effect on teens&#39; long term mental health &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260128/p16#a260128p16)
- - [The One Thing You Need to Toggle Before You Move Money Between Venmo and PayPal](https://www.cnet.com/tech/services-and-software/before-you-use-venmo-and-paypals-new-transfer-feature-change-this-one-setting/)
- - [Momentum Works: the GMV of the online food delivery market in Southeast Asia&#39;s six biggest economies grew 18% YoY to $22.7B in 2025, and Grab accounted for 55% &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/260128/p15#a260128p15)<!-- TECH:END -->
+ - [A Google bug report apparently leaks the planned Android desktop interface, showing a taller status bar, a new mouse cursor, Chrome extensions, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260128/p20#a260128p20)
+ - [NotebookLM Review: Bring Your Own Sources to This Ultra-Practical Google AI Tool](https://www.cnet.com/tech/services-and-software/notebooklm-review-bring-your-own-sources-to-this-ultrapractical-google-ai-tool/)
+ - [What&#39;s Better, Manual or Electric? I Asked Chefs About 6 Popular Kitchen Tools](https://www.cnet.com/news/whats-better-manual-or-electric-i-asked-chefs-about-6-popular-kitchen-tools/)
+ - [A North Atlantic Right Whale Baby Boom Is On—but the Species Remains at Risk](https://www.wired.com/story/a-north-atlantic-right-whale-baby-boom-is-on-but-the-species-remains-at-risk/)
+ - [Expert-Approved Continuous Glucose Monitors to Track Your Glucose Daily](https://www.cnet.com/health/medical/best-continuous-glucose-monitors-according-to-experts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

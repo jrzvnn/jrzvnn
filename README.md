@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Apple Creator Studio vs Adobe Creative Cloud Pro](https://appleinsider.com/inside/apple-services/vs/compared-apple-creator-studio-vs-adobe-creative-cloud-pro?utm_source=rss)
- - [Snap launches a wholly-owned subsidiary called Specs Inc. for its upcoming AR glasses, in a bid to facilitate minority investment and offer distinct branding &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260128/p30#a260128p30)
- - [Apple Creator Studio review: the subscription suite offers value, but lacks a photo management tool to rival Lightroom and lacks iOS support for flagship apps &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260128/p29#a260128p29)
- - [Consider Cutting Back on These 10 Foods for a Clean, Well-Rounded Diet](https://www.cnet.com/health/nutrition/foods-cut-back-balanced-well-rounded-diet/)
- - [Motorola&#39;s Moto Watch Feels Like a Steal at $150](https://www.cnet.com/tech/mobile/motorolas-new-moto-watch-smartwatch-partnership-polar-fitness/)<!-- TECH:END -->
+ - [ESA astronomers say they used AI model AnomalyMatch to scan 100M image cutouts from the Hubble Legacy Archive in 2.5 days, finding ~1,400 &quot;anomalous objects&quot; &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260128/p35#a260128p35)
+ - [Tel Aviv-based Factify raised a $73M seed led by Valley Capital to develop an AI-native document standard intended to replace the legacy PDF format &lpar;Gil Press/Forbes&rpar;](http://www.techmeme.com/260128/p34#a260128p34)
+ - [LinkedIn launches a new feature to let users display verified &quot;vibe coding&quot; and AI proficiency levels from third-party partners including Replit and Lovabl &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260128/p33#a260128p33)
+ - [Apple aims to keep iPhone 18 price flat in face of RAM shortage, Kuo says](https://www.theverge.com/news/869272/apple-iphone-18-price-increase-kuo-report)
+ - [Apple Creator Studio review: Incredible value for most creative pros](https://appleinsider.com/articles/26/01/28/apple-creator-studio-review-incredible-value-for-most-creative-pros?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

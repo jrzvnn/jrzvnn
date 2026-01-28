@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Surface Laptop Is $400 Off](https://www.wired.com/story/surface-laptop-deal-126/)
+ - [Give Your Problems &lpar;and Passwords&rpar; to Moltbot, Then Watch It Go](https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/)
+ - [Remember: Cancel Final Cut Pro iPad subscriptions when you set up Apple Creator Studio](https://appleinsider.com/inside/final-cut-pro/tips/remember-cancel-final-cut-pro-ipad-subscriptions-when-you-set-up-apple-creator-studio?utm_source=rss)
  - [Google updates Gemini in Chrome with a new side panel, an auto browse feature that can navigate pages and take actions for AI Pro and AI Ultra users, and more &lpar;Kyle Kucharski/ZDNET&rpar;](http://www.techmeme.com/260128/p43#a260128p43)
- - [Spotify says it paid out $11 billion in royalties in 2025](https://www.theverge.com/news/869523/spotify-11-billion-in-royalties)
- - [Process Zero II will let you do a little processing, if you want](https://www.theverge.com/tech/869354/halide-mark-iii-process-zero-update)
- - [Google Gives Chrome an AI Side Panel and Lets Gemini Browse for You](https://www.cnet.com/tech/services-and-software/google-chrome-gets-new-gemini-updates/)
- - [Champions League Soccer: Livestream Napoli vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-napoli-vs-chelsea-live-from-anywhere/)<!-- TECH:END -->
+ - [Spotify says it paid out $11 billion in royalties in 2025](https://www.theverge.com/news/869523/spotify-11-billion-in-royalties)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

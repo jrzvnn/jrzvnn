@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 18 Pro could get a teleconverter for greater zoom](https://appleinsider.com/articles/26/01/28/iphone-18-pro-could-get-a-teleconverter-for-greater-zoom?utm_source=rss)
+ - [PayPal survey in October 2025: 40% of merchants already accept crypto, led by large enterprises, 85% expect crypto payments to be commonplace by 2030, and more &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260128/p23#a260128p23)
+ - [Apple Patches Old Versions of iOS to Keep iMessage and FaceTime Running](https://www.wired.com/story/apple-patches-older-ios-versions-to-keep-imessage-facetime-working/)
  - [Amazon plans to discontinue its Amazon One palm recognition system on June 3 and will automatically delete all user data; One remains for healthcare check-ins &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/260128/p22#a260128p22)
- - [Windows 11&amp;#8217;s ability to resume Android apps on your PC is getting closer](https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview)
- - [Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives](https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives)
- - [Toronto-based self-driving truck startup Waabi raised a $750M Series C led by Khosla and G2 and partners with Uber, which can invest $250M based on performance &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260128/p21#a260128p21)
- - [A Google bug report apparently leaks the planned Android desktop interface, showing a taller status bar, a new mouse cursor, Chrome extensions, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260128/p20#a260128p20)<!-- TECH:END -->
+ - [Windows 11&amp;#8217;s ability to resume Android apps on your PC is getting closer](https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moral low ground: App Store is rife with AI &#39;nudify&#39; apps](https://appleinsider.com/articles/26/01/28/moral-low-ground-app-store-is-rife-with-ai-nudify-apps?utm_source=rss)
- - [Bluesky is testing ‘live’ features to take on X](https://www.theverge.com/news/869235/bluesky-roadmap-2026-feeds-live-event-features)
- - [AI sales startup Clay launches its second employee tender offer in under nine months, valuing it at $5B, up from $3.1B in August and $1.5B in its May 2025 offer &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260128/p27#a260128p27)
- - [Long-awaited &#39;Ted Lasso&#39; season 4 finally gets a vague premiere date](https://appleinsider.com/articles/26/01/28/long-awaited-ted-lasso-season-4-finally-gets-a-vague-premiere-date?utm_source=rss)
- - [Mac malware is sneaking into some sponsored Google ads](https://appleinsider.com/articles/26/01/28/mac-malware-is-sneaking-into-some-sponsored-google-ads?utm_source=rss)<!-- TECH:END -->
+ - [Compared: Apple Creator Studio vs Adobe Creative Cloud Pro](https://appleinsider.com/inside/apple-services/vs/compared-apple-creator-studio-vs-adobe-creative-cloud-pro?utm_source=rss)
+ - [Snap launches a wholly-owned subsidiary called Specs Inc. for its upcoming AR glasses, in a bid to facilitate minority investment and offer distinct branding &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260128/p30#a260128p30)
+ - [Apple Creator Studio review: the subscription suite offers value, but lacks a photo management tool to rival Lightroom and lacks iOS support for flagship apps &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260128/p29#a260128p29)
+ - [Consider Cutting Back on These 10 Foods for a Clean, Well-Rounded Diet](https://www.cnet.com/health/nutrition/foods-cut-back-balanced-well-rounded-diet/)
+ - [Motorola&#39;s Moto Watch Feels Like a Steal at $150](https://www.cnet.com/tech/mobile/motorolas-new-moto-watch-smartwatch-partnership-polar-fitness/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The entry-level Samsung Galaxy Buds FE are on sale for $30 off right now](https://www.theverge.com/gadgets/868870/samsung-galaxy-buds-fe-kindle-paperwhite-deal-sale)
- - [Decagon, which offers AI-powered customer service agents, raised a $250M Series D led by Coatue and Index Ventures at a $4.5B valuation, up from $1.5B in June &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260128/p44#a260128p44)
- - [Compared: Apple Creator Studio vs Adobe Creative Cloud Pro](https://appleinsider.com/inside/apple-services/vs/compared-apple-creator-studio-vs-adobe-creative-cloud-pro?utm_source=rss)
- - [The Surface Laptop Is $400 Off](https://www.wired.com/story/surface-laptop-deal-126/)
- - [Give Your Problems &lpar;and Passwords&rpar; to Moltbot, Then Watch It Go](https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/)<!-- TECH:END -->
+ - [Fidelity Investments announces its own stablecoin, the Fidelity Digital Dollar, or FIDD, available to institutional and retail clients in the coming weeks &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260128/p46#a260128p46)
+ - [Here&#39;s the Company That Sold DHS ICE&#39;s Notorious Face Recognition App](https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/)
+ - [The Doomsday Clock Is Now 85 Seconds to Midnight. Here’s What That Means](https://www.wired.com/story/the-doomsday-clock-is-now-85-seconds-to-midnight-heres-what-that-means/)
+ - [A co-creator of the dark web marketplace Empire Market pleads guilty to US drug conspiracy charges for facilitating $430M in illegal transactions in 2018-2020 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260128/p45#a260128p45)
+ - [I used Claude to vibe-code my wildly overcomplicated smart home](https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

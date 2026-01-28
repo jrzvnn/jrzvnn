@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [British crime thriller &#39;Criminal Record&#39; warrants a return to Apple TV in April](https://appleinsider.com/articles/26/01/28/british-crime-thriller-criminal-record-warrants-a-return-to-apple-tv-in-april?utm_source=rss)
+ - [Apple CEO Tim Cook &#39;heartbroken&#39; after repeated ICE killings in Minneapolis](https://appleinsider.com/articles/26/01/28/apple-ceo-tim-cook-heartbroken-after-repeated-ice-killings-in-minneapolis?utm_source=rss)
+ - [Election Denier Tina Peters Was ‘Pardoned’ by Trump. She’s Still in Prison](https://www.wired.com/story/donald-trump-wants-to-force-colorado-to-free-an-imprisoned-election-denier-its-not-working/)
  - [Beyond Meat’s protein soda might be its last chance and best hope](https://www.theverge.com/science/869209/beyond-meat-immerse-protein-soda)
- - [Slice, which uses AI agents to encode tax policies and legal rules across 60+ countries, raised a $25M Series A led by Insight, taking its total funding to $32M &lpar;Mary Ann Azevedo/This Week in Fintech&rpar;](http://www.techmeme.com/260128/p38#a260128p38)
- - [Expect strong iPhone 17 demand, AI talk in Apple&#39;s Q1 results call](https://appleinsider.com/articles/26/01/28/expect-strong-iphone-17-demand-ai-talk-in-apples-q1-results-call?utm_source=rss)
- - [This soft humanoid robot is designed to be ‘physically safe and socially approachable’](https://www.theverge.com/tech/869293/fauna-robotics-sprout-humanoid-robot-research)
- - [Adaptive6, which treats cloud cost inefficiencies as security vulnerabilities to help companies cut bills, raised a $28M Series A, for $44M in total funding &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260128/p37#a260128p37)<!-- TECH:END -->
+ - [Slice, which uses AI agents to encode tax policies and legal rules across 60+ countries, raised a $25M Series A led by Insight, taking its total funding to $32M &lpar;Mary Ann Azevedo/This Week in Fintech&rpar;](http://www.techmeme.com/260128/p38#a260128p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

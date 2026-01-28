@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML reports Q4 net sales of €9.7B, vs. €9.6B est., and €2.84B net profit, vs. €3.01B est., and says it expects China to account for 20% of its total 2026 sales &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260128/p8#a260128p8)
  - [Sources: Google&#39;s &quot;cease and desist&quot; letter forces Kantar and Barb to halt UK TV measurement service comparing YouTube viewership with linear TV and streamers &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/260128/p7#a260128p7)
  - [ASML reports Q4 bookings of €13.2B, beating analyst estimates of €6.32B, and projects its 2026 full-year sales of between €34B and €39B, compared with €35B est. &lpar;Reuters&rpar;](http://www.techmeme.com/260128/p6#a260128p6)
  - [We-Vibe Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/we-vibe-discount-code/)
- - [Lovehoney Discount Codes and Deals: Up to 70% Off](https://www.wired.com/story/lovehoney-discount-code/)
- - [Sources: Hugging Face declined Nvidia&#39;s $500M investment offer at a $7B valuation in late 2025; Hugging Face says it does not want a single dominant investor &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260128/p5#a260128p5)<!-- TECH:END -->
+ - [Lovehoney Discount Codes and Deals: Up to 70% Off](https://www.wired.com/story/lovehoney-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

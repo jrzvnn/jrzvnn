@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sleep well](http://9gag.com/gag/aByzEP1)
  - 😝 [Bravo.](http://9gag.com/gag/a9yw21m)
- - 💣 [FAFO](http://9gag.com/gag/aryEqqp)
- - 😝 [These vintage Aerolux bulbs are absolutely stunning, especially that rare purple one. Who knew light bulbs could be this beautiful](http://9gag.com/gag/awyj4dD)
- - 👉 [Martyn got no chill. &lpar;removed the laughing emoji according to 9gag tradition&rpar;](http://9gag.com/gag/ayNrRyX)<!-- MEMES:END -->
+ - 😝 [FAFO](http://9gag.com/gag/aryEqqp)
+ - 💣 [Martyn got no chill. &lpar;removed the laughing emoji according to 9gag tradition&rpar;](http://9gag.com/gag/ayNrRyX)
+ - 😝 [Hans](http://9gag.com/gag/aqyMzxL)
+ - 👉 [Drama is a luxury](http://9gag.com/gag/agm925v)<!-- MEMES:END -->
 
 ---
 

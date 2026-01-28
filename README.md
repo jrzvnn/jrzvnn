@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ADL study of Grok, ChatGPT, Llama, Claude, Gemini, and DeepSeek: Grok performed worst at identifying and countering antisemitic content, while Claude was best &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/260128/p26#a260128p26)
- - [Some US college students say they are using AI &quot;humanizer&quot; tools to alter text to avoid cheating accusations; AI detection tools now aim to catch &quot;humanizers&quot; &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/260128/p25#a260128p25)
- - [6 Best VPN Services &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)
- - [How the iPad created the tablet market despite being late to the game](https://appleinsider.com/articles/26/01/27/how-the-ipad-created-the-tablet-market-despite-being-late-to-the-game?utm_source=rss)
- - [Long-awaited &#39;Ted Lasso&#39; season 4 finally gets a vague premiere date](https://appleinsider.com/articles/26/01/28/long-awaited-ted-lasso-season-4-finally-gets-a-vague-premiere-date?utm_source=rss)<!-- TECH:END -->
+ - [Moral low ground: App Store is rife with AI &#39;nudify&#39; apps](https://appleinsider.com/articles/26/01/28/moral-low-ground-app-store-is-rife-with-ai-nudify-apps?utm_source=rss)
+ - [Bluesky is testing ‘live’ features to take on X](https://www.theverge.com/news/869235/bluesky-roadmap-2026-feeds-live-event-features)
+ - [AI sales startup Clay launches its second employee tender offer in under nine months, valuing it at $5B, up from $3.1B in August and $1.5B in its May 2025 offer &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260128/p27#a260128p27)
+ - [Long-awaited &#39;Ted Lasso&#39; season 4 finally gets a vague premiere date](https://appleinsider.com/articles/26/01/28/long-awaited-ted-lasso-season-4-finally-gets-a-vague-premiere-date?utm_source=rss)
+ - [Mac malware is sneaking into some sponsored Google ads](https://appleinsider.com/articles/26/01/28/mac-malware-is-sneaking-into-some-sponsored-google-ads?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

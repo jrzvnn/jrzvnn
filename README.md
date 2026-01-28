@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ESA astronomers say they used AI model AnomalyMatch to scan 100M image cutouts from the Hubble Legacy Archive in 2.5 days, finding ~1,400 &quot;anomalous objects&quot; &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260128/p35#a260128p35)
- - [Tel Aviv-based Factify raised a $73M seed led by Valley Capital to develop an AI-native document standard intended to replace the legacy PDF format &lpar;Gil Press/Forbes&rpar;](http://www.techmeme.com/260128/p34#a260128p34)
- - [LinkedIn launches a new feature to let users display verified &quot;vibe coding&quot; and AI proficiency levels from third-party partners including Replit and Lovabl &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260128/p33#a260128p33)
- - [Apple aims to keep iPhone 18 price flat in face of RAM shortage, Kuo says](https://www.theverge.com/news/869272/apple-iphone-18-price-increase-kuo-report)
- - [Apple Creator Studio review: Incredible value for most creative pros](https://appleinsider.com/articles/26/01/28/apple-creator-studio-review-incredible-value-for-most-creative-pros?utm_source=rss)<!-- TECH:END -->
+ - [This soft humanoid robot is designed to be ‘physically safe and socially approachable’](https://www.theverge.com/tech/869293/fauna-robotics-sprout-humanoid-robot-research)
+ - [Adaptive6, which treats cloud cost inefficiencies as security vulnerabilities to help companies cut bills, raised a $28M Series A, for $44M in total funding &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260128/p37#a260128p37)
+ - [My favorite folding phone is the one that doesn’t exist yet](https://www.theverge.com/tech/869084/folding-phone-google-pixel-10-pro-samsung-galaxy-z-fold-7)
+ - [This fanny pack robot helped me walk miles](https://www.theverge.com/tech/869109/fanny-pack-exoskeleton-wirobotics-wim-s-ces-2026)
+ - [Outtake, which uses autonomous AI agents to help companies detect and remove cyberthreats, raised $40M led by Iconiq, after a $16.5M Series A in April 2025 &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260128/p36#a260128p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

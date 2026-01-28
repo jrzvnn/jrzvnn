@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind researchers unveil AlphaGenome, an AI model trained on molecular data to predict 11 different genomic processes, such as gene splicing &lpar;Carl Zimmer/New York Times&rpar;](http://www.techmeme.com/260128/p39#a260128p39)
- - [British crime thriller &#39;Criminal Record&#39; warrants a return to Apple TV in April](https://appleinsider.com/articles/26/01/28/british-crime-thriller-criminal-record-warrants-a-return-to-apple-tv-in-april?utm_source=rss)
- - [Apple CEO Tim Cook &#39;heartbroken&#39; after repeated ICE killings in Minneapolis](https://appleinsider.com/articles/26/01/28/apple-ceo-tim-cook-heartbroken-after-repeated-ice-killings-in-minneapolis?utm_source=rss)
- - [Election Denier Tina Peters Was ‘Pardoned’ by Trump. She’s Still in Prison](https://www.wired.com/story/donald-trump-wants-to-force-colorado-to-free-an-imprisoned-election-denier-its-not-working/)
- - [Beyond Meat’s protein soda might be its last chance and best hope](https://www.theverge.com/science/869209/beyond-meat-immerse-protein-soda)<!-- TECH:END -->
+ - [The UK CMA proposes measures to let publishers opt out of content scraping for Google&#39;s AI Overviews and AI training without losing visibility in search results &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/260128/p41#a260128p41)
+ - [The noise-canceling AirPods 4 are down to $120, one of their best prices yet](https://www.theverge.com/gadgets/869428/apple-airpods-4-active-noise-cancellation-deal-sale)
+ - [Canada says it is talking to Meta to restore news to Facebook and Instagram as the Online News Act is put on the table as part of trade negotiations with the US &lpar;Marie Woolf/Globe and Mail&rpar;](http://www.techmeme.com/260128/p40#a260128p40)
+ - [AirTag 2 has a thinner motherboard, bigger speaker coil, and lots of glue](https://appleinsider.com/articles/26/01/28/airtag-2-has-a-thinner-motherboard-bigger-speaker-coil-and-lots-of-glue?utm_source=rss)
+ - [Google DeepMind researchers unveil AlphaGenome, an AI model trained on molecular data to predict 11 different genomic processes, such as gene splicing &lpar;Carl Zimmer/New York Times&rpar;](http://www.techmeme.com/260128/p39#a260128p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

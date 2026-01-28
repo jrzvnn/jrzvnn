@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Price war: Save $300 on 16-inch MacBook Pro with 48GB RAM](https://appleinsider.com/articles/26/01/28/price-war-save-300-on-16-inch-macbook-pro-with-48gb-ram?utm_source=rss)
- - [Microsoft reports Azure Q2 revenue up 39% YoY, vs. 38.8% est.; Microsoft cloud&#39;s contracted backlog grew 110% to $625B, ~45% of which was driven by OpenAI alone &lpar;Reuters&rpar;](http://www.techmeme.com/260128/p57#a260128p57)
- - [PaleBlueDot, which operates a GPU capacity marketplace and designs GPU clusters for enterprises, raised a $150M Series B led by B Capital at a $1B+ valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260128/p56#a260128p56)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Microsoft says capital expenditures for Q2 hit $37.5B, exceeding analyst estimates for $36.2B; MSFT drops 4%+ after hours &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260128/p55#a260128p55)<!-- TECH:END -->
+ - [Tesla discontinuing Model S and Model X to make room for robots](https://www.theverge.com/transportation/869872/tesla-model-s-model-x-discontinue-optimus-robot-factory)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [ServiceNow reports Q4 revenue up 20.5% YoY to $3.57B, vs. $3.53B est., and subscription revenue up 21% YoY to $3.47B; NOW drops ~3% after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260128/p59#a260128p59)
+ - [Tesla says it agreed to invest $2B in xAI for preferred shares as part of xAI&#39;s Series E, despite a shareholder vote in November that failed to win approval &lpar;Kara Carlson/Bloomberg&rpar;](http://www.techmeme.com/260128/p58#a260128p58)
+ - [Price war: Save $300 on 16-inch MacBook Pro with 48GB RAM](https://appleinsider.com/articles/26/01/28/price-war-save-300-on-16-inch-macbook-pro-with-48gb-ram?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

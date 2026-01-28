@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A critique of a large UK social media study that suggested measures like social media bans are unlikely to have an effect on teens&#39; long term mental health &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260128/p16#a260128p16)
+ - [The One Thing You Need to Toggle Before You Move Money Between Venmo and PayPal](https://www.cnet.com/tech/services-and-software/before-you-use-venmo-and-paypals-new-transfer-feature-change-this-one-setting/)
+ - [Momentum Works: the GMV of the online food delivery market in Southeast Asia&#39;s six biggest economies grew 18% YoY to $22.7B in 2025, and Grab accounted for 55% &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/260128/p15#a260128p15)
  - [Samsung says it will introduce a display feature for the Galaxy S26 series that improves &quot;privacy at a pixel level&quot; to protect users from &quot;shoulder surfing&quot; &lpar;Abhijeet Mishra/SamMobile&rpar;](http://www.techmeme.com/260128/p14#a260128p14)
- - [SK Hynix reports Q4 revenue up 66% YoY to $23B, above ~$22.4B est., and operating profit up 137% YoY to $13.3B, both company records, driven by AI HBM demand &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260128/p13#a260128p13)
- - [Google just leaked a first look at Android for PC in action](https://www.theverge.com/news/869142/google-leak-aluminium-os-android-pc-bug-report-video)
- - [A look at AI-powered tools and apps like Aira Explorer that are helping blind people access visual feedback about their bodies, sometimes for the first time &lpar;Milagros Costabel/BBC&rpar;](http://www.techmeme.com/260128/p12#a260128p12)
- - [Several Indian tech workers say they are buckling under deadline pressure and worry about layoffs, with many fearing conditions will worsen with the rise of AI &lpar;Parth Mn/Rest of World&rpar;](http://www.techmeme.com/260128/p11#a260128p11)<!-- TECH:END -->
+ - [SK Hynix reports Q4 revenue up 66% YoY to $23B, above ~$22.4B est., and operating profit up 137% YoY to $13.3B, both company records, driven by AI HBM demand &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260128/p13#a260128p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

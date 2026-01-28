@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
  - 😝 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
- - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - 💣 [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
+ - 💣 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
  - 😝 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
- - 👉 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)<!-- MEMES:END -->
+ - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
 
 ---
 

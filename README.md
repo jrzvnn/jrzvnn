@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
- - 😝 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)
+ - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
+ - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
  - 💣 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - 😝 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
- - 👉 [Carbonara](http://9gag.com/gag/aByzXYO)<!-- MEMES:END -->
+ - 😝 [T\u00dcRKEI is Turkey is garbage](http://9gag.com/gag/avyqdQO)
+ - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
 
 ---
 

@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
+ - 😝 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
  - 😝 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)
  - 💣 [That will be a great 1.5 years journey!](http://9gag.com/gag/a34g8R8)
  - 😝 [These playgrounds built character](http://9gag.com/gag/aXP32nV)

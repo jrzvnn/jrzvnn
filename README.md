@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds Gemini AI-powered ‘auto browse’ to Chrome](https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse)
- - [Tesla says production-ready Optimus robot is coming soon](https://www.theverge.com/transportation/869746/tesla-optimus-gen-3-q1-2026-earnings)
- - [IBM reports Q4 revenue up 12% YoY to $19.7B, vs. $19.2B est., and projects 2026 revenue growth and free cash flow above estimates; IBM jumps 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260128/p53#a260128p53)
- - [Meta reports Reality Labs Q4 revenue of $955M vs. $940.8M est. and a $6.02B operating loss vs. $5.67B est.; Reality Labs now has $75B+ in losses since late 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260128/p52#a260128p52)
- - [Microsoft reports strong cloud earnings in Q2 as gaming declines](https://www.theverge.com/news/869493/microsoft-q2-2026-earnings-revenue-profits-windows-xbox-gaming-surface)<!-- TECH:END -->
+ - [PaleBlueDot, which operates a GPU capacity marketplace and designs GPU clusters for enterprises, raised a $150M Series B led by B Capital at a $1B+ valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260128/p56#a260128p56)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Microsoft says capital expenditures for Q2 hit $37.5B, exceeding analyst estimates for $36.2B; MSFT drops 4%+ after hours &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260128/p55#a260128p55)
+ - [ICE Is Using Palantir’s AI Tools to Sort Through Tips](https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/)
+ - [Microsoft Q2 gaming revenue fell 9% YoY, including a 32% drop in Xbox hardware revenue and a 5% decline in Xbox content and services, which includes Game Pass &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260128/p54#a260128p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

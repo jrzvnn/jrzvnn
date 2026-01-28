@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Several Indian tech workers say they are buckling under deadline pressure and worry about layoffs, with many fearing conditions will worsen with the rise of AI &lpar;Parth Mn/Rest of World&rpar;](http://www.techmeme.com/260128/p11#a260128p11)
+ - [Q&amp;A with James Wu on leaving his role as DJI&#39;s chief scientist to found FJDynamics to build robots for labor intensive sectors like agriculture and construction &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260128/p10#a260128p10)
  - [A look at &quot;neolabs&quot; such as Safe Superintelligence and Humans&amp;, which give priority to long-term AI R&amp;D over immediate profits; dozens have become unicorns &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p9#a260128p9)
  - [ASML reports Q4 net sales of €9.7B, vs. €9.6B est., and €2.84B net profit, vs. €3.01B est., and says it expects China to account for 20% of its total 2026 sales &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260128/p8#a260128p8)
- - [Sources: Google&#39;s &quot;cease and desist&quot; letter forces Kantar and Barb to halt UK TV measurement service comparing YouTube viewership with linear TV and streamers &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/260128/p7#a260128p7)
- - [ASML reports record quarterly bookings of €13.2B in Q4, beating €6.32B est., and projects its 2026 full-year sales of between €34B and €39B, vs. €35B est. &lpar;Reuters&rpar;](http://www.techmeme.com/260128/p6#a260128p6)
- - [We-Vibe Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/we-vibe-discount-code/)<!-- TECH:END -->
+ - [Sources: Google sends &quot;cease and desist&quot; letters to Kantar, halting Kantar and Barb&#39;s UK TV measurement tools comparing YouTube with linear TV and streamers &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/260128/p7#a260128p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

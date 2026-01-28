@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
  - 😝 [That will be a great 1.5 years journey!](http://9gag.com/gag/a34g8R8)
- - 💣 [Ma&#39;am](http://9gag.com/gag/aPALe4G)
- - 😝 [These playgrounds built character](http://9gag.com/gag/aXP32nV)
- - 👉 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)<!-- MEMES:END -->
+ - 💣 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)
+ - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
+ - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
 
 ---
 

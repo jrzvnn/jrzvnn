@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto PAC Fairshake expanded its war chest to $193M by the end of last year, up from $141M in July; Ripple gave $25M, and a16z gave $24M in H2 2025 &lpar;Emily Wilkins/CNBC&rpar;](http://www.techmeme.com/260128/p48#a260128p48)
+ - [YouTube&amp;#8217;s top AI slop channels are disappearing](https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing)
+ - [DHS reveals that NEC is the vendor that sold Mobile Fortify, a facial recognition app used by federal immigration agents to identify people in the field, to CBP &lpar;Wired&rpar;](http://www.techmeme.com/260128/p47#a260128p47)
  - [Fidelity Investments announces its own stablecoin, the Fidelity Digital Dollar, or FIDD, available to institutional and retail clients in the coming weeks &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260128/p46#a260128p46)
- - [Here&#39;s the Company That Sold DHS ICE&#39;s Notorious Face Recognition App](https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/)
- - [The Doomsday Clock Is Now 85 Seconds to Midnight. Here’s What That Means](https://www.wired.com/story/the-doomsday-clock-is-now-85-seconds-to-midnight-heres-what-that-means/)
- - [A co-creator of the dark web marketplace Empire Market pleads guilty to US drug conspiracy charges for facilitating $430M in illegal transactions in 2018-2020 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260128/p45#a260128p45)
- - [I used Claude to vibe-code my wildly overcomplicated smart home](https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home)<!-- TECH:END -->
+ - [Here’s the Company That Sold DHS ICE’s Notorious Face Recognition App](https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

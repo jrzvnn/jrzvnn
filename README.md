@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damm](http://9gag.com/gag/ae9zxdj)
- - 😝 [Ma&#39;am](http://9gag.com/gag/aPALe4G)
- - 💣 [Interesting](http://9gag.com/gag/a34g2r5)
- - 😝 [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)
- - 👉 [Sleep well](http://9gag.com/gag/aByzEP1)<!-- MEMES:END -->
+ - 😝 [Nerds](http://9gag.com/gag/apR7bXB)
+ - 😝 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
+ - 💣 [That will be a great 1.5 years journey!](http://9gag.com/gag/a34g8R8)
+ - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
+ - 👉 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)<!-- MEMES:END -->
 
 ---
 

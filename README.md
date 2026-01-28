@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is spending millions to convince people that data centers are cool and you like them](https://www.theverge.com/news/869008/meta-data-centers-ad-campaign)
- - [Moltbot, the AI agent that &amp;#8216;actually does things,&amp;#8217; is tech’s new obsession](https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent)
- - [AdImpact: Meta spent $6.4M in November and December 2025 to run TV ads in eight US state capitals and DC, aiming to change negative opinions about data centers &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/260127/p53#a260127p53)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [Seagate reports Q2 revenue up 22% YoY to $2.83B, vs. $2.73B est., forecasts Q3 results above estimates on strong data storage demand; STX jumps 8%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260127/p52#a260127p52)<!-- TECH:END -->
+ - [Internal documents from 2025: Microsoft expects its annual water consumption to reach 28B liters by 2030, up from 7.9B liters in 2020 and 10.4B liters in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/260127/p56#a260127p56)
+ - [The crypto bill is falling apart in Congress](https://www.theverge.com/column/868941/clarity-act-congress-shutdown)
+ - [Paolo Ardoino says Tether now holds ~140 tons of gold, worth ~$23B, has been buying one to two tons a week, and plans to keep doing so for the next few months &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/260127/p55#a260127p55)
+ - [Sources: SoftBank is in talks to invest up to $30B more in OpenAI; SoftBank is already one of OpenAI&#39;s largest shareholders after investing $22.5B in December &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260127/p54#a260127p54)
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

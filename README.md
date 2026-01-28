@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the White House will meet with banks and crypto firms on Monday to discuss a path forward for crypto legislation stalled by a clash between the sectors &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/260128/p60#a260128p60)
+ - [Pro camera app Halide developer Sebastiaan de With returning to Apple for Design Team](https://appleinsider.com/articles/26/01/28/pro-camera-app-halide-developer-sebastiaan-de-with-returning-to-apple-for-design-team?utm_source=rss)
  - [Tesla discontinuing Model S and Model X to make room for robots](https://www.theverge.com/transportation/869872/tesla-model-s-model-x-discontinue-optimus-robot-factory)
  - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [ServiceNow reports Q4 revenue up 20.5% YoY to $3.57B, vs. $3.53B est., and subscription revenue up 21% YoY to $3.47B; NOW drops ~3% after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260128/p59#a260128p59)
- - [Tesla says it agreed to invest $2B in xAI for preferred shares as part of xAI&#39;s Series E, despite a shareholder vote in November that failed to win approval &lpar;Kara Carlson/Bloomberg&rpar;](http://www.techmeme.com/260128/p58#a260128p58)
- - [Price war: Save $300 on 16-inch MacBook Pro with 48GB RAM](https://appleinsider.com/articles/26/01/28/price-war-save-300-on-16-inch-macbook-pro-with-48gb-ram?utm_source=rss)<!-- TECH:END -->
+ - [ServiceNow reports Q4 revenue up 20.5% YoY to $3.57B, vs. $3.53B est., and subscription revenue up 21% YoY to $3.47B; NOW drops ~3% after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260128/p59#a260128p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

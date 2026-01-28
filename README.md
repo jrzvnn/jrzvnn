@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind researchers unveil AlphaGenome, an AI model trained on molecular data to predict 11 different genomic processes, such as gene splicing &lpar;Carl Zimmer/New York Times&rpar;](http://www.techmeme.com/260128/p39#a260128p39)
  - [British crime thriller &#39;Criminal Record&#39; warrants a return to Apple TV in April](https://appleinsider.com/articles/26/01/28/british-crime-thriller-criminal-record-warrants-a-return-to-apple-tv-in-april?utm_source=rss)
  - [Apple CEO Tim Cook &#39;heartbroken&#39; after repeated ICE killings in Minneapolis](https://appleinsider.com/articles/26/01/28/apple-ceo-tim-cook-heartbroken-after-repeated-ice-killings-in-minneapolis?utm_source=rss)
  - [Election Denier Tina Peters Was ‘Pardoned’ by Trump. She’s Still in Prison](https://www.wired.com/story/donald-trump-wants-to-force-colorado-to-free-an-imprisoned-election-denier-its-not-working/)
- - [Beyond Meat’s protein soda might be its last chance and best hope](https://www.theverge.com/science/869209/beyond-meat-immerse-protein-soda)
- - [Slice, which uses AI agents to encode tax policies and legal rules across 60+ countries, raised a $25M Series A led by Insight, taking its total funding to $32M &lpar;Mary Ann Azevedo/This Week in Fintech&rpar;](http://www.techmeme.com/260128/p38#a260128p38)<!-- TECH:END -->
+ - [Beyond Meat’s protein soda might be its last chance and best hope](https://www.theverge.com/science/869209/beyond-meat-immerse-protein-soda)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

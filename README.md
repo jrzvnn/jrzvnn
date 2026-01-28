@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google&#39;s &quot;cease and desist&quot; letter forces Kantar and Barb to halt UK TV measurement service comparing YouTube viewership with linear TV and streamers &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/260128/p7#a260128p7)
+ - [ASML reports Q4 bookings of €13.2B, beating analyst estimates of €6.32B, and projects its 2026 full-year sales of between €34B and €39B, compared with €35B est. &lpar;Reuters&rpar;](http://www.techmeme.com/260128/p6#a260128p6)
+ - [We-Vibe Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/we-vibe-discount-code/)
  - [Lovehoney Discount Codes and Deals: Up to 70% Off](https://www.wired.com/story/lovehoney-discount-code/)
- - [Sources: Hugging Face declined Nvidia&#39;s $500M investment offer at a $7B valuation in late 2025; Hugging Face says it does not want a single dominant investor &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260128/p5#a260128p5)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [20% Squarespace Promo Codes | February 2026](https://www.wired.com/story/squarespace-promo-code/)
- - [AI Whistleblower Initiative says OpenAI recently updated its whistleblower policy, addressing 8 of 13 recommendations and going further than Anthropic&#39;s policy &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/260128/p4#a260128p4)<!-- TECH:END -->
+ - [Sources: Hugging Face declined Nvidia&#39;s $500M investment offer at a $7B valuation in late 2025; Hugging Face says it does not want a single dominant investor &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260128/p5#a260128p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

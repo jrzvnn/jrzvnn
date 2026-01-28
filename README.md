@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
  - 😝 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
  - 💣 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)
- - 😝 [Brings back memories. Great bus driver and kids](http://9gag.com/gag/ayNrYnX)
+ - 😝 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
  - 👉 [FAFO](http://9gag.com/gag/aryEqqp)<!-- MEMES:END -->
 
 ---

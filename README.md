@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
- - 😝 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
- - 💣 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)
- - 😝 [That will be a great 1.5 years journey!](http://9gag.com/gag/a34g8R8)
- - 👉 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)<!-- MEMES:END -->
+ - 😝 [My son gets his game from the best teachers](http://9gag.com/gag/a34gWyQ)
+ - 😝 [Unlocked every achievement except \u2018decent human\u2019](http://9gag.com/gag/aXP32K6)
+ - 💣 [These sodium street lights giving me pure nostalgia](http://9gag.com/gag/axyKRpW)
+ - 😝 [Not all heroes wear capes, some just jump into rivers](http://9gag.com/gag/aRBW2E2)
+ - 👉 [Drama is a luxury](http://9gag.com/gag/agm925v)<!-- MEMES:END -->
 
 ---
 

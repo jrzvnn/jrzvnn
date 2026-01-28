@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Following UK CMA&#39;s proposals, Google says it is exploring controls to let websites opt out of AI Overviews and AI Mode &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/260128/p42#a260128p42)
  - [The UK CMA proposes measures to let publishers opt out of content scraping for Google&#39;s AI Overviews and AI training without losing visibility in search results &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/260128/p41#a260128p41)
  - [The noise-canceling AirPods 4 are down to $120, one of their best prices yet](https://www.theverge.com/gadgets/869428/apple-airpods-4-active-noise-cancellation-deal-sale)
  - [Canada says it is talking to Meta to restore news to Facebook and Instagram as the Online News Act is put on the table as part of trade negotiations with the US &lpar;Marie Woolf/Globe and Mail&rpar;](http://www.techmeme.com/260128/p40#a260128p40)
- - [AirTag 2 has a thinner motherboard, bigger speaker coil, and lots of glue](https://appleinsider.com/articles/26/01/28/airtag-2-has-a-thinner-motherboard-bigger-speaker-coil-and-lots-of-glue?utm_source=rss)
- - [Google DeepMind researchers unveil AlphaGenome, an AI model trained on molecular data to predict 11 different genomic processes, such as gene splicing &lpar;Carl Zimmer/New York Times&rpar;](http://www.techmeme.com/260128/p39#a260128p39)<!-- TECH:END -->
+ - [HP OmniBook 5 14 Review: You Won&#39;t Believe How Long This Snapdragon X Laptop Runs](https://www.cnet.com/tech/computing/hp-omnibook-5-14-review-you-wont-believe-how-long-this-snapdragon-x-laptop-runs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

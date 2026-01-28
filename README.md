@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Whistleblower Initiative says OpenAI recently updated its whistleblower policy, addressing 8 of 13 recommendations and going further than Anthropic&#39;s policy &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/260128/p4#a260128p4)
+ - [Sources: Elon Musk has proposed timing SpaceX&#39;s IPO with a rare planetary alignment and his June birthday; SpaceX seeks as much as $50B at a ~$1.5T valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260128/p3#a260128p3)
  - [Sources: Nvidia has allocated ~70% of its 2026 HBM4 demand to SK hynix; Counterpoint estimates SK hynix will account for 54% of the global HBM4 market in 2026 &lpar;Kang Yoon-seung/Yonhap News Agency&rpar;](http://www.techmeme.com/260128/p2#a260128p2)
  - [Sources: C3.ai is in talks to merge with Automation Anywhere, which would go public in the deal; C3.ai&#39;s market cap is now ~$1.7B, a tenth of its 2020 valuation &lpar;The Information&rpar;](http://www.techmeme.com/260128/p1#a260128p1)
- - [Sources: China approved its first batch of Nvidia H200 chips for import, covering several hundred thousand units, during Jensen Huang&#39;s visit to China this week &lpar;Reuters&rpar;](http://www.techmeme.com/260127/p61#a260127p61)
- - [Amazon partners with Harris Farm to offer fresh food delivery in Australia for the first time, starting in inner Sydney, free for Prime members on AU$100 orders &lpar;Carrie LaFrenz/Australian Financial Review&rpar;](http://www.techmeme.com/260127/p60#a260127p60)
- - [Apple CEO Tim Cook &#39;heartbroken&#39; after repeated ICE killings in Minneapolis](https://appleinsider.com/articles/26/01/28/apple-ceo-tim-cook-heartbroken-after-repeated-ice-killings-in-minneapolis?utm_source=rss)<!-- TECH:END -->
+ - [Sources: China approved its first batch of Nvidia H200 chips for import, covering several hundred thousand units, during Jensen Huang&#39;s visit to China this week &lpar;Reuters&rpar;](http://www.techmeme.com/260127/p61#a260127p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

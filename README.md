@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Several Indian tech workers say they are buckling under deadline pressure and worry about layoffs, with many fearing conditions will worsen with the rise of AI &lpar;Parth Mn/Rest of World&rpar;](http://www.techmeme.com/260128/p11#a260128p11)
- - [Q&amp;A with James Wu on leaving his role as DJI&#39;s chief scientist to found FJDynamics to build robots for labor intensive sectors like agriculture and construction &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260128/p10#a260128p10)
- - [A look at &quot;neolabs&quot; such as Safe Superintelligence and Humans&amp;, which give priority to long-term AI R&amp;D over immediate profits; dozens have become unicorns &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p9#a260128p9)
- - [ASML reports Q4 net sales of €9.7B, vs. €9.6B est., and €2.84B net profit, vs. €3.01B est., and says it expects China to account for 20% of its total 2026 sales &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260128/p8#a260128p8)
- - [Sources: Google sends &quot;cease and desist&quot; letters to Kantar, halting Kantar and Barb&#39;s UK TV measurement tools comparing YouTube with linear TV and streamers &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/260128/p7#a260128p7)<!-- TECH:END -->
+ - [Samsung says it will introduce a display feature for the Galaxy S26 series that improves &quot;privacy at a pixel level&quot; to protect users from &quot;shoulder surfing&quot; &lpar;Abhijeet Mishra/SamMobile&rpar;](http://www.techmeme.com/260128/p14#a260128p14)
+ - [SK Hynix reports Q4 revenue up 66% YoY to $23B, above ~$22.4B est., and operating profit up 137% YoY to $13.3B, both company records, driven by AI HBM demand &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260128/p13#a260128p13)
+ - [Google just leaked a first look at Android for PC in action](https://www.theverge.com/news/869142/google-leak-aluminium-os-android-pc-bug-report-video)
+ - [A look at AI-powered tools and apps like Aira Explorer that are helping blind people access visual feedback about their bodies, sometimes for the first time &lpar;Milagros Costabel/BBC&rpar;](http://www.techmeme.com/260128/p12#a260128p12)
+ - [Several Indian tech workers say they are buckling under deadline pressure and worry about layoffs, with many fearing conditions will worsen with the rise of AI &lpar;Parth Mn/Rest of World&rpar;](http://www.techmeme.com/260128/p11#a260128p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

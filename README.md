@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo says a robotaxi struck a child at 6MPH near an elementary school in Santa Monica on January 23, resulting in minor injuries; the NHTSA opens a probe &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260129/p27#a260129p27)
- - [Waymo says it hopes to launch its London robotaxi service as soon as September, after an April pilot; the UK government plans to change regulations in H2 2026 &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/260129/p26#a260129p26)
- - [The Stream Deck-packed gaming keyboard is a monster of good ideas](https://www.theverge.com/tech/869542/corsair-galleon-stream-deck-gaming-keyboard-review)
- - [Apple says Patreon creators must switch to subscription billing by November](https://www.theverge.com/tech/870022/patreon-creator-apple-ios-subscription-billing-november-2026)
- - [&#39;Father of the iPod&#39; says Apple screwed up AI and should have kept going with the car](https://appleinsider.com/articles/26/01/29/father-of-the-ipod-says-apple-screwed-up-ai-and-should-have-kept-going-with-the-car?utm_source=rss)<!-- TECH:END -->
+ - [Netflix is eating Hollywood — because it has to](https://www.theverge.com/podcast/869464/netflix-warner-bros-discovery-deal-paramount-skydance-hollywood-streaming-future)
+ - [Sen. Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout](https://www.theverge.com/news/869983/elizabeth-warren-openai-sam-altman-bailout-letter)
+ - [Google expands Gemini&#39;s hands-free conversational capabilities to walking and cycling modes in Google Maps, available on iOS and rolling out on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260129/p29#a260129p29)
+ - [This ring watch squeezes in heart rate, sleep, and fitness tracking](https://www.theverge.com/news/870023/rogbid-fusion-2-in-1-smart-ring-watch-heart-rate-fitness-sleep-tracking)
+ - [Nvidia launches a native GeForce NOW app for Linux, starting with Debian-based Ubuntu, after releasing a Steam Deck app in 2025; in a hands-on, it works well &lpar;Ben Wilson/Windows Central&rpar;](http://www.techmeme.com/260129/p28#a260129p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

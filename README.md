@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s a new heyday for gas thanks to data centers](https://www.theverge.com/news/870422/data-center-ai-gas-power-surge)
+ - [Apple blows away Wall Street expectations with record $143.8 billion quarter](https://appleinsider.com/articles/26/01/29/apple-blows-away-wall-street-expectations-with-record-1438-billion-quarter?utm_source=rss)
  - [Tim Cook: Apple won&#39;t change privacy rules with Google Gemini partnership](https://appleinsider.com/articles/26/01/29/tim-cook-apple-wont-change-privacy-rules-with-google-gemini-partnership?utm_source=rss)
- - [AI Is a Copyright Catastrophe and It Affects Everyone](https://www.cnet.com/tech/services-and-software/ai-has-sent-copyright-laws-into-chaos-what-you-need-to-know-about-your-rights-online/)
- - [Apple just had a record-breaking iPhone quarter](https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026)
- - [Apple reports Q1 revenue from Services, which includes the App Store, Apple Pay, Apple TV, Apple Music, and iCloud, up 14% YoY to $30B, in line with estimates &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260129/p48#a260129p48)<!-- TECH:END -->
+ - [Apple reaches 2.5 billion active devices after record-breaking quarter](https://appleinsider.com/articles/26/01/29/apple-reaches-25-billion-active-devices-after-record-breaking-quarter?utm_source=rss)
+ - [&#39;Encrypt it already&#39; campaign challenges big tech to keep your data secure](https://appleinsider.com/articles/26/01/29/encrypt-it-already-campaign-challenges-big-tech-to-keep-your-data-secure?utm_source=rss)
+ - [iPhone 17 Pro array will be used in a new offside camera system](https://appleinsider.com/articles/26/01/29/iphone-17-pro-array-will-be-used-in-a-new-offside-camera-system?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

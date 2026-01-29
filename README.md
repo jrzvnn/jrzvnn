@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jones Lang LaSalle projects Malaysia&#39;s operational data center capacity to increase from ~1,025 MW at the end of 2025 to ~2,100 MW by the end of 2026 &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/260129/p9#a260129p9)
- - [The US construction industry is adopting AI tools to improve project management and support site managers and foremen; IDC says 60% of firms use some form of AI &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p8#a260129p8)
- - [A look at Amazon&#39;s and Walmart&#39;s differing approaches to agentic AI shopping; Similarweb says Walmart doubled its AI referral share in the US to 32.5% in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p7#a260129p7)
- - [Security researchers warn Moltbot, previously Clawdbot, requires a specialist skillset to use safely, as data exposure risks persist even when set up correctly &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/260129/p6#a260129p6)
- - [A federal judge in Virginia ruled that Norfolk&#39;s use of ~200 Flock automated license plate scanners is constitutional and doesn&#39;t violate the Fourth Amendment &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/260129/p5#a260129p5)<!-- TECH:END -->
+ - [Google disables Take a Message on older Pixel phones amid audio leak bug](https://www.theverge.com/news/869965/google-pixel-4-5-take-a-message-disabled-audio-leak)
+ - [STMicro reports Q4 net revenue up 0.2% YoY to $3.33B, operating income down 66% YoY to $125M, and forecasts Q1 2026 net revenue of $3.04B, above $2.92B est. &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260129/p13#a260129p13)
+ - [Amazon&#39;s $35M marketing campaign for Melania is ~10x the budget for similar documentaries like CNN&#39;s RBG; some suggest Amazon is currying favor with Trump &lpar;New York Times&rpar;](http://www.techmeme.com/260129/p12#a260129p12)
+ - [SAP reports Q4 revenue up 3% YoY to €9.68B, adjusted operating profit up 27% YoY to €2.83B, and forecasts 2026 cloud revenue to grow at least 23% YoY to €25.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260129/p11#a260129p11)
+ - [Airtable unveils Superagent, a service that can deploy AI agents in parallel for tasks like market analysis, its first standalone product in its 13-year history &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260129/p10#a260129p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 😝 [I newt it](http://9gag.com/gag/a1mgErG)
  - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 💣 [Modern problems require modern solutions](http://9gag.com/gag/aZZXz5X)
+ - 💣 [Carbonara](http://9gag.com/gag/aByzXYO)
  - 😝 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
  - 👉 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)<!-- MEMES:END -->
 

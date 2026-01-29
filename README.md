@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marble clock](http://9gag.com/gag/ayNrYOY)
- - 😝 [These vintage Aerolux bulbs are absolutely stunning, especially that rare purple one. Who knew light bulbs could be this beautiful](http://9gag.com/gag/awyj4dD)
- - 💣 [Brings back memories. Great bus driver and kids](http://9gag.com/gag/ayNrYnX)
+ - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
  - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 👉 [We could call it...Good Australia](http://9gag.com/gag/ae9z2dW)<!-- MEMES:END -->
+ - 💣 [Modern problems require modern solutions](http://9gag.com/gag/aZZXz5X)
+ - 😝 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
+ - 👉 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)<!-- MEMES:END -->
 
 ---
 

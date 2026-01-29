@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
+ - 😝 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
  - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 💣 [No title](http://9gag.com/gag/aNDMjQb)
+ - 💣 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
  - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
  - 👉 [Bro understood the assignment](http://9gag.com/gag/aKGZYmZ)<!-- MEMES:END -->
 

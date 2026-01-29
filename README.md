@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple acquires Q.ai, whose tech can analyze facial expressions to enable non-verbal discussions with AI assistants; sources: the deal values Q.ai at ~$2B &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p35#a260129p35)
+ - [Apple buys audio AI firm Q.ai as it scrambles to upgade Siri](https://appleinsider.com/articles/26/01/29/apple-buys-audio-ai-firm-qai-as-it-scrambles-to-upgade-siri?utm_source=rss)
+ - [ICE Pretends It’s a Military Force. Its Tactics Would Get Real Soldiers Killed](https://www.wired.com/story/ice-pretends-its-a-military-force-its-tactics-would-get-real-soldiers-killed/)
+ - [Apple acquires Q.ai, whose tech can analyze facial expressions and could enable non-verbal discussions with AI assistants; sources: the deal values Q.ai at ~$2B &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p35#a260129p35)
  - [Spotify&amp;#8217;s new group chats share music with everyone in your circle](https://www.theverge.com/news/870288/spotify-group-chats-direct-messaging-expansion)
- - [&#39;F1: The Movie&#39; is officially the most-watched film Apple TV history](https://appleinsider.com/articles/26/01/29/f1-the-movie-is-officially-the-most-watched-film-apple-tv-history?utm_source=rss)
- - [Apple kills off Pro Apps for Education in favor of Creator Studio education subscription](https://appleinsider.com/articles/26/01/29/apple-kills-off-pro-apps-for-education-in-favor-of-creator-studio-education-subscription?utm_source=rss)
- - [Google launches Project Genie, which lets users create interactive worlds using Genie 3, Nano Banana Pro, and Gemini, for Google AI Ultra subscribers in the US &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260129/p34#a260129p34)<!-- TECH:END -->
+ - [&#39;F1: The Movie&#39; is officially the most-watched film Apple TV history](https://appleinsider.com/articles/26/01/29/f1-the-movie-is-officially-the-most-watched-film-apple-tv-history?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

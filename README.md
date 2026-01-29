@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
- - 💣 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
+ - 😝 [I newt it](http://9gag.com/gag/a1mgErG)
  - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
- - 👉 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)<!-- MEMES:END -->
+ - 💣 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
+ - 😝 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)
+ - 👉 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)<!-- MEMES:END -->
 
 ---
 

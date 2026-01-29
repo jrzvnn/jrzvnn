@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
+ - 😝 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
  - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - 💣 [I newt it](http://9gag.com/gag/a1mgErG)
+ - 💣 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
  - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
  - 👉 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)<!-- MEMES:END -->
 

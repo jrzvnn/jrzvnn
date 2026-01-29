@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s SpaceX and xAI might merge into one company](https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger)
- - [Apple’s second biggest acquisition ever is an AI company that listens to ‘silent speech’](https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech)
- - [A San Francisco jury finds former Google engineer Linwei Ding guilty of stealing trade secrets related to AI chip technology to build a startup in China &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/260129/p40#a260129p40)
- - [Obsbot’s new gimbal webcam doesn’t justify its $350 price](https://www.theverge.com/tech/867950/obsbot-tiny-3-lite-hands-on-impressions)
- - [AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment](https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/)<!-- TECH:END -->
+ - [Grubhub plans to remove delivery and service fees on restaurant orders over $50 starting Feb. 2; Grubhub&#39;s US market share fell to ~4% in 2025 from 10% in 2023 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260129/p42#a260129p42)
+ - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
+ - [The Q.ai acquisition could be Apple&#39;s second-largest ever and marks founder Aviad Maizels&#39; second exit to Apple, which bought his startup PrimeSense in 2013 &lpar;Omer Kabir/CTech&rpar;](http://www.techmeme.com/260129/p41#a260129p41)
+ - [The 45 Best Movies on HBO Max Right Now &lpar;February 2026&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [Best OLED TV of 2026](https://www.cnet.com/tech/home-entertainment/best-oled-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

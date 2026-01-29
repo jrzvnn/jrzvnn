@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple buys audio AI firm Q.ai as it scrambles to upgade Siri](https://appleinsider.com/articles/26/01/29/apple-buys-audio-ai-firm-qai-as-it-scrambles-to-upgade-siri?utm_source=rss)
- - [ICE Pretends It’s a Military Force. Its Tactics Would Get Real Soldiers Killed](https://www.wired.com/story/ice-pretends-its-a-military-force-its-tactics-would-get-real-soldiers-killed/)
- - [Apple acquires Q.ai, whose tech can analyze facial expressions and could enable non-verbal discussions with AI assistants; sources: the deal values Q.ai at ~$2B &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p35#a260129p35)
- - [Spotify&amp;#8217;s new group chats share music with everyone in your circle](https://www.theverge.com/news/870288/spotify-group-chats-direct-messaging-expansion)
- - [&#39;F1: The Movie&#39; is officially the most-watched film Apple TV history](https://appleinsider.com/articles/26/01/29/f1-the-movie-is-officially-the-most-watched-film-apple-tv-history?utm_source=rss)<!-- TECH:END -->
+ - [A Yann LeCun–Linked Startup Charts a New Path to AGI](https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/)
+ - [Source: SpaceX and xAI are in talks to merge ahead of a planned IPO this year; under the proposed deal, shares of xAI would be exchanged for shares in SpaceX &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p39#a260129p39)
+ - [Appfigures: Sora&#39;s app downloads dropped 32% month-over-month in December and 45% in January to 1.2M; consumer spending on the app fell 32% MoM as of January &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260129/p38#a260129p38)
+ - [Our Favorite Open Earbuds Are $60 Off](https://www.wired.com/story/anker-soundcore-aeroclip-deal-126/)
+ - [Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi](https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

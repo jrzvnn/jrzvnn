@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple blows away Wall Street expectations with record $143.8 billion quarter](https://appleinsider.com/articles/26/01/29/apple-blows-away-wall-street-expectations-with-record-1438-billion-quarter?utm_source=rss)
- - [Tim Cook: Apple won&#39;t change privacy rules with Google Gemini partnership](https://appleinsider.com/articles/26/01/29/tim-cook-apple-wont-change-privacy-rules-with-google-gemini-partnership?utm_source=rss)
+ - [Sources: OpenAI is laying the groundwork for a public listing in Q4 2026, holding informal talks with Wall Street banks and growing its finance team &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260129/p51#a260129p51)
  - [Apple reaches 2.5 billion active devices after record-breaking quarter](https://appleinsider.com/articles/26/01/29/apple-reaches-25-billion-active-devices-after-record-breaking-quarter?utm_source=rss)
- - [&#39;Encrypt it already&#39; campaign challenges big tech to keep your data secure](https://appleinsider.com/articles/26/01/29/encrypt-it-already-campaign-challenges-big-tech-to-keep-your-data-secure?utm_source=rss)
- - [iPhone 17 Pro array will be used in a new offside camera system](https://appleinsider.com/articles/26/01/29/iphone-17-pro-array-will-be-used-in-a-new-offside-camera-system?utm_source=rss)<!-- TECH:END -->
+ - [Sources: SpaceX is considering a potential merger with Tesla, an idea some investors are pushing, while separately exploring a tie-up between SpaceX and xAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260129/p50#a260129p50)
+ - [Apple is resurgent in China with unexpected iPhone 17 sales domination](https://appleinsider.com/articles/26/01/29/apple-is-resurgent-in-china-with-unexpected-iphone-17-sales-domination?utm_source=rss)
+ - [Memory cost explosion won&#39;t hurt Apple too badly in Q2, may sting in Q3](https://appleinsider.com/articles/26/01/29/memory-cost-explosion-wont-hurt-apple-too-badly-in-q2-may-sting-in-q3?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

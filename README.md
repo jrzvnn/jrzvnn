@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 😝 [When she laughs](http://9gag.com/gag/apR7V9E)
- - 💣 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
- - 😝 [Difference between men and women](http://9gag.com/gag/aQzbONe)
- - 👉 [Introvert comfort zone.](http://9gag.com/gag/aYQ6A3O)<!-- MEMES:END -->
+ - 😝 [Revulsion](http://9gag.com/gag/aKGZKej)
+ - 😝 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
+ - 💣 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
+ - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 👉 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)<!-- MEMES:END -->
 
 ---
 

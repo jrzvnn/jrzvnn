@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
- - 😝 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)
- - 💣 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
- - 😝 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
- - 👉 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)<!-- MEMES:END -->
+ - 😝 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
+ - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
+ - 💣 [I newt it](http://9gag.com/gag/a1mgErG)
+ - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
+ - 👉 [Carbonara](http://9gag.com/gag/aByzXYO)<!-- MEMES:END -->
 
 ---
 

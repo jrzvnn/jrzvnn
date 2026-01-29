@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft is focusing on fixing the core issues of Windows 11 over the coming months after persistent bugs, ads, and bloatware eroded user trust &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260129/p44#a260129p44)
+ - [Sources: Amazon is in talks to invest up to $50B in OpenAI, which is seeking up to $100B in new capital, a round that could value it at as much as $830B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260129/p43#a260129p43)
  - [Grubhub plans to remove delivery and service fees on restaurant orders over $50 starting Feb. 2; Grubhub&#39;s US market share fell to ~4% in 2025 from 10% in 2023 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260129/p42#a260129p42)
  - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [The Q.ai acquisition could be Apple&#39;s second-largest ever and marks founder Aviad Maizels&#39; second exit to Apple, which bought his startup PrimeSense in 2013 &lpar;Omer Kabir/CTech&rpar;](http://www.techmeme.com/260129/p41#a260129p41)
- - [The 45 Best Movies on HBO Max Right Now &lpar;February 2026&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Best OLED TV of 2026](https://www.cnet.com/tech/home-entertainment/best-oled-tv/)<!-- TECH:END -->
+ - [The Q.ai acquisition could be Apple&#39;s second-largest ever and marks founder Aviad Maizels&#39; second exit to Apple, which bought his startup PrimeSense in 2013 &lpar;Omer Kabir/CTech&rpar;](http://www.techmeme.com/260129/p41#a260129p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

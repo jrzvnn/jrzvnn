@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Letter: Rep. John Moolenaar, chair of the US House Select Committee on China, says Nvidia helped DeepSeek hone AI models later used by the Chinese military &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260129/p1#a260129p1)
  - [Job listings show that DeepSeek hopes to broaden its AI offerings with a search engine capable of supporting multiple languages and more emphasis on agents &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260128/p73#a260128p73)
  - [US-based AI startup Arcee releases Trinity Large, a 400B-parameter open-weight model that it says compares to Meta&#39;s Llama 4 Maverick 400B on some benchmarks &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260128/p72#a260128p72)
  - [Sources: OpenAI is in talks to raise up to $30B from Nvidia, less than $10B from Microsoft, and $10B-$20B from Amazon as part of a $100B funding round &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260128/p71#a260128p71)
- - [How to view translated lyrics in Apple Music](https://appleinsider.com/inside/ios-26/tips/how-to-view-translated-lyrics-in-apple-music?utm_source=rss)
- - [Google agrees to pay $135M to settle a proposed class action lawsuit alleging that the tech giant programmed Android to illegally collect users&#39; cellular data &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260128/p70#a260128p70)<!-- TECH:END -->
+ - [How to view translated lyrics in Apple Music](https://appleinsider.com/inside/ios-26/tips/how-to-view-translated-lyrics-in-apple-music?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

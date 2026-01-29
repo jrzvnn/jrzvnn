@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A coalition of music publishers, including UMG, filed a second lawsuit against Anthropic, seeking $3B over allegations of copyright infringement of 20k+ songs &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260129/p33#a260129p33)
- - [Half of developers think gen AI is bad for the gaming industry](https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey)
- - [Google’s AI helped me make bad Nintendo knockoffs](https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on)
- - [Microsoft is working to rebuild trust in Windows](https://www.theverge.com/tech/870045/microsoft-windows-11-issues-rebuilding-trust-notepad)
- - [Waymo is finally starting passenger trips at SFO — but not to the terminals](https://www.theverge.com/news/870102/waymo-sfo-passenger-trip-approval-airport)<!-- TECH:END -->
+ - [Apple acquires Q.ai, whose tech can analyze facial expressions to enable non-verbal discussions with AI assistants; sources: the deal values Q.ai at ~$2B &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p35#a260129p35)
+ - [Spotify&amp;#8217;s new group chats share music with everyone in your circle](https://www.theverge.com/news/870288/spotify-group-chats-direct-messaging-expansion)
+ - [&#39;F1: The Movie&#39; is officially the most-watched film Apple TV history](https://appleinsider.com/articles/26/01/29/f1-the-movie-is-officially-the-most-watched-film-apple-tv-history?utm_source=rss)
+ - [Apple kills off Pro Apps for Education in favor of Creator Studio education subscription](https://appleinsider.com/articles/26/01/29/apple-kills-off-pro-apps-for-education-in-favor-of-creator-studio-education-subscription?utm_source=rss)
+ - [Google launches Project Genie, which lets users create interactive worlds using Genie 3, Nano Banana Pro, and Gemini, for Google AI Ultra subscribers in the US &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260129/p34#a260129p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

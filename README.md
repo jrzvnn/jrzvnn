@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 😝 [I newt it](http://9gag.com/gag/a1mgErG)
- - 💣 [If youve ever wondered what Morgan Freeman sounded when he is young, here he is in 1971](http://9gag.com/gag/amoQRm6)
- - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
- - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
+ - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
+ - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - 💣 [I newt it](http://9gag.com/gag/a1mgErG)
+ - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 👉 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)<!-- MEMES:END -->
 
 ---
 

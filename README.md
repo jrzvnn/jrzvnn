@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is considering using biometric verification like World&#39;s eyeball scanning Orb for its planned social network to ensure its users are real people &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260128/p61#a260128p61)
- - [Brandon Sanderson&#39;s Cosmere universe coming to Apple TV](https://appleinsider.com/articles/26/01/28/brandon-sandersons-cosmere-universe-coming-to-apple-tv?utm_source=rss)
- - [Mark Zuckerberg is all in on AI as the new social media](https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025)
- - [Windows 11 has reached 1 billion users faster than Windows 10](https://www.theverge.com/news/869889/microsoft-windows-11-1-billion-users)
- - [Sources: the White House will meet with banks and crypto firms on Monday to discuss a path forward for crypto legislation stalled by a clash between the sectors &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/260128/p60#a260128p60)<!-- TECH:END -->
+ - [Google says it took legal action to take down dozens of domains and disrupt the residential proxy network of Chinese company Ipidea, widely used by bad actors &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p66#a260128p66)
+ - [SK Hynix announces a new US-based &quot;AI Company&quot; from a restructuring of its California-based subsidiary Solidigm, and commits at least $10B to the new entity &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260128/p65#a260128p65)
+ - [In Meta&#39;s Q4 earnings call, Mark Zuckerberg says it plans to start shipping new models and products throughout 2026 and hints at &quot;agentic shopping tools&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260128/p64#a260128p64)
+ - [Satya Nadella says Windows 11 reached 1B users during Q2, growing over 45% YoY and at a faster rate than Windows 10 did &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260128/p63#a260128p63)
+ - [Sebastiaan de With, co-founder of the iPhone camera app Halide who previously freelanced for Apple, says he has joined Apple&#39;s Human Interface Design team &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/260128/p62#a260128p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reported hundreds of thousands of pieces of potential CSAM in AI training data to NCMEC in 2025; child safety officials say Amazon didn&#39;t give the source &lpar;Bloomberg&rpar;](http://www.techmeme.com/260129/p19#a260129p19)
- - [There won’t be a Nothing Phone 4 this year](https://www.theverge.com/tech/869975/nothing-phone-4-not-releasing-2026-flagship)
- - [Samsung and SK Hynix executives say they expect global memory supply shortages will persist until 2027 due to AI demand, after the companies reported earnings &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/260129/p18#a260129p18)
- - [RedMagic&#39;s Thinner Gaming Phone Gets a 7,000-mAh Battery and a Cooling Fan](https://www.cnet.com/tech/mobile/redmagic-11-air-announcement-7000mah-battery-cooling-fan/)
- - [Best Open Earbuds &lpar;2026&rpar;: Bose, Soundcore, and More](https://www.wired.com/gallery/best-open-ear-buds/)<!-- TECH:END -->
+ - [Waymo robotaxi hits a child near a school, causing minor injuries](https://www.theverge.com/transportation/869994/waymo-robotaxi-hits-child-school-santa-monica-nhtsa)
+ - [Apple&#39;s iPhone 16 was the world&#39;s best-selling smartphone in 2025, followed by the 16 Pro Max and 16 Pro; Apple took 7 of the top 10 spots and Samsung took 3 &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260129/p24#a260129p24)
+ - [iPhone 16 gives Apple seven of the 10 best-selling phones in 2025](https://appleinsider.com/articles/26/01/29/iphone-16-gives-apple-seven-of-the-10-best-selling-phones-in-2025?utm_source=rss)
+ - [Crypto exchange Bybit plans to offer banking services via &quot;MyBank&quot; accounts that can hold USD and other currencies, set to launch in February pending approvals &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/260129/p23#a260129p23)
+ - [You may not have the Creator Studio iWork apps installed on your Mac yet](https://appleinsider.com/inside/iwork/tips/you-may-not-have-the-creator-studio-iwork-apps-installed-on-your-mac-yet?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

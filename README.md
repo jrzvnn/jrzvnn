@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
+ - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 💣 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
  - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
- - 💣 [I newt it](http://9gag.com/gag/a1mgErG)
- - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
- - 👉 [Carbonara](http://9gag.com/gag/aByzXYO)<!-- MEMES:END -->
+ - 👉 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)<!-- MEMES:END -->
 
 ---
 

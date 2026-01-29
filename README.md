@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo robotaxi hits a child near a school, causing minor injuries](https://www.theverge.com/transportation/869994/waymo-robotaxi-hits-child-school-santa-monica-nhtsa)
- - [Apple&#39;s iPhone 16 was the world&#39;s best-selling smartphone in 2025, followed by the 16 Pro Max and 16 Pro; Apple took 7 of the top 10 spots and Samsung took 3 &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260129/p24#a260129p24)
- - [iPhone 16 gives Apple seven of the 10 best-selling phones in 2025](https://appleinsider.com/articles/26/01/29/iphone-16-gives-apple-seven-of-the-10-best-selling-phones-in-2025?utm_source=rss)
- - [Crypto exchange Bybit plans to offer banking services via &quot;MyBank&quot; accounts that can hold USD and other currencies, set to launch in February pending approvals &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/260129/p23#a260129p23)
- - [You may not have the Creator Studio iWork apps installed on your Mac yet](https://appleinsider.com/inside/iwork/tips/you-may-not-have-the-creator-studio-iwork-apps-installed-on-your-mac-yet?utm_source=rss)<!-- TECH:END -->
+ - [Waymo says a robotaxi struck a child at 6MPH near an elementary school in Santa Monica on January 23, resulting in minor injuries; the NHTSA opens a probe &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260129/p27#a260129p27)
+ - [Waymo says it hopes to launch its London robotaxi service as soon as September, after an April pilot; the UK government plans to change regulations in H2 2026 &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/260129/p26#a260129p26)
+ - [The Stream Deck-packed gaming keyboard is a monster of good ideas](https://www.theverge.com/tech/869542/corsair-galleon-stream-deck-gaming-keyboard-review)
+ - [Apple says Patreon creators must switch to subscription billing by November](https://www.theverge.com/tech/870022/patreon-creator-apple-ios-subscription-billing-november-2026)
+ - [&#39;Father of the iPod&#39; says Apple screwed up AI and should have kept going with the car](https://appleinsider.com/articles/26/01/29/father-of-the-ipod-says-apple-screwed-up-ai-and-should-have-kept-going-with-the-car?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

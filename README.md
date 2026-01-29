@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia says a crypto regulatory framework will come into force July 1, 2027; it will ban privacy coins like monero and cap retail investor purchases at ~$4K &lpar;Olivier Acuna/CoinDesk&rpar;](http://www.techmeme.com/260129/p30#a260129p30)
- - [Arco is a brilliant and beautiful sci-fi film inspired by animation legends](https://www.theverge.com/entertainment/869700/arco-review-sci-fi-animated-film)
- - [Netflix is eating Hollywood — because it has to](https://www.theverge.com/podcast/869464/netflix-warner-bros-discovery-deal-paramount-skydance-hollywood-streaming-future)
- - [Sen. Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout](https://www.theverge.com/news/869983/elizabeth-warren-openai-sam-altman-bailout-letter)
- - [Google expands Gemini&#39;s hands-free conversational capabilities to walking and cycling modes in Google Maps, available on iOS and rolling out on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260129/p29#a260129p29)<!-- TECH:END -->
+ - [Nvidia’s Campaign to Sell AI Chips to China Finally Pays Off](https://www.wired.com/story/made-in-china-china-nvidia-h200-beijing-approval/)
+ - [Deezer opens its AI music detection tool to other platforms](https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available)
+ - [How to Watch Super Bowl 2026: When Do the Patriots and Seahawks Play? TV Channel, VPN, Streaming Info](https://www.cnet.com/tech/services-and-software/where-to-watch-super-bowl-2026-how-to-stream-patriots-seahawks/)
+ - [Talos, which develops digital asset trading infrastructure, raised a $45M extension from Robinhood and others to its $105M Series B, at a $1.5B valuation &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260129/p31#a260129p31)
+ - [The rise of the slopagandist](https://www.theverge.com/news/869824/right-wing-influencers-nick-shirley-slopaganda)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

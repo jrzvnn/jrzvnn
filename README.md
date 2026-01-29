@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We could call it...Good Australia](http://9gag.com/gag/ae9z2dW)
- - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
- - 💣 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
- - 😝 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
- - 👉 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)<!-- MEMES:END -->
+ - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
+ - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - 💣 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 😝 [It all makes sense now](http://9gag.com/gag/aQzbyd7)
+ - 👉 [Don&#39;t forget he also in Toy Story](http://9gag.com/gag/aGyvOZn)<!-- MEMES:END -->
 
 ---
 

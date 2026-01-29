@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba&#39;s Cainiao logistics unit merges with Chinese robovan company Zelos, creating a business sources say valued at ~$2B with a fleet set to hit 20K+ vehicles &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p16#a260129p16)
- - [The US SEC clarifies its tokenized stock rules, saying they are subject to securities and derivatives rules and issuer approval is required for true ownership &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260129/p15#a260129p15)
- - [Tesla plans to scrap its premium S and X models and convert its California factory into an Optimus manufacturing hub, as Elon Musk refocuses on robotics and AI &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p14#a260129p14)
+ - [Chinese media: China executed 11 members of the Ming mafia family that ran online scam centres in Myanmar; five Bai family members are also sentenced to death &lpar;Koh Ewe/BBC&rpar;](http://www.techmeme.com/260129/p17#a260129p17)
+ - [6 Best Coffee Makers &lpar;2026&rpar;: Drip Is Drippin’](https://www.wired.com/gallery/best-coffee-makers/)
  - [This Chinese Startup Wants to Build a New Brain-Computer Interface—No Implant Required](https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/)
- - [Google disables Take a Message on older Pixel phones amid audio leak bug](https://www.theverge.com/news/869965/google-pixel-4-5-take-a-message-disabled-audio-leak)<!-- TECH:END -->
+ - [Alibaba&#39;s Cainiao logistics unit merges with Chinese robovan company Zelos, creating a business sources say valued at ~$2B with a fleet set to hit 20K+ vehicles &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p16#a260129p16)
+ - [The US SEC clarifies its tokenized stock rules, saying they are subject to securities and derivatives rules and issuer approval is required for true ownership &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260129/p15#a260129p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

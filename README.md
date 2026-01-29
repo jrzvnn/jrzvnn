@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 😝 [We could call it...Good Australia](http://9gag.com/gag/ae9z2dW)
  - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
  - 💣 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
- - 😝 [Tesla coil fly trap](http://9gag.com/gag/a2vgL5p)
+ - 😝 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
  - 👉 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)<!-- MEMES:END -->
 
 ---

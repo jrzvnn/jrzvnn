@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia says a crypto regulatory framework will come into force July 1, 2027; it will ban privacy coins like monero and cap retail investor purchases at ~$4K &lpar;Olivier Acuna/CoinDesk&rpar;](http://www.techmeme.com/260129/p30#a260129p30)
+ - [Arco is a brilliant and beautiful sci-fi film inspired by animation legends](https://www.theverge.com/entertainment/869700/arco-review-sci-fi-animated-film)
  - [Netflix is eating Hollywood — because it has to](https://www.theverge.com/podcast/869464/netflix-warner-bros-discovery-deal-paramount-skydance-hollywood-streaming-future)
  - [Sen. Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout](https://www.theverge.com/news/869983/elizabeth-warren-openai-sam-altman-bailout-letter)
- - [Google expands Gemini&#39;s hands-free conversational capabilities to walking and cycling modes in Google Maps, available on iOS and rolling out on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260129/p29#a260129p29)
- - [This ring watch squeezes in heart rate, sleep, and fitness tracking](https://www.theverge.com/news/870023/rogbid-fusion-2-in-1-smart-ring-watch-heart-rate-fitness-sleep-tracking)
- - [Nvidia launches a native GeForce NOW app for Linux, starting with Debian-based Ubuntu, after releasing a Steam Deck app in 2025; in a hands-on, it works well &lpar;Ben Wilson/Windows Central&rpar;](http://www.techmeme.com/260129/p28#a260129p28)<!-- TECH:END -->
+ - [Google expands Gemini&#39;s hands-free conversational capabilities to walking and cycling modes in Google Maps, available on iOS and rolling out on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260129/p29#a260129p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

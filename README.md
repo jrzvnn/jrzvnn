@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Pentagon is clashing with Anthropic over safeguards limiting the use of its tech to target weapons autonomously and conduct domestic surveillance &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p53#a260129p53)
  - [Sources: special agents with the US Commerce Department investigated claims by ex-Meta contractors that Meta staff had &quot;unfettered&quot; access to WhatsApp messages &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/260129/p52#a260129p52)
  - [We Found Two Theaters With Sold-Out ‘Melania’ Opening Day Screenings](https://www.wired.com/story/we-found-2-theaters-with-sold-out-melania-opening-day-screenings/)
  - [Sources: OpenAI is laying the groundwork for an IPO in Q4 2026, and its executives have privately expressed concerns about Anthropic beating OpenAI to an IPO &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260129/p51#a260129p51)
- - [Apple reaches 2.5 billion active devices after record-breaking quarter](https://appleinsider.com/articles/26/01/29/apple-reaches-25-billion-active-devices-after-record-breaking-quarter?utm_source=rss)
- - [Sources: SpaceX is considering a potential merger with Tesla, an idea some investors are pushing, while separately exploring a tie-up between SpaceX and xAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260129/p50#a260129p50)<!-- TECH:END -->
+ - [Apple reaches 2.5 billion active devices after record-breaking quarter](https://appleinsider.com/articles/26/01/29/apple-reaches-25-billion-active-devices-after-record-breaking-quarter?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

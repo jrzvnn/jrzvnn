@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese media: China executed 11 members of the Ming mafia family that ran online scam centres in Myanmar; five Bai family members are also sentenced to death &lpar;Koh Ewe/BBC&rpar;](http://www.techmeme.com/260129/p17#a260129p17)
- - [6 Best Coffee Makers &lpar;2026&rpar;: Drip Is Drippin’](https://www.wired.com/gallery/best-coffee-makers/)
- - [This Chinese Startup Wants to Build a New Brain-Computer Interface—No Implant Required](https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/)
- - [Alibaba&#39;s Cainiao logistics unit merges with Chinese robovan company Zelos, creating a business sources say valued at ~$2B with a fleet set to hit 20K+ vehicles &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p16#a260129p16)
- - [The US SEC clarifies its tokenized stock rules, saying they are subject to securities and derivatives rules and issuer approval is required for true ownership &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260129/p15#a260129p15)<!-- TECH:END -->
+ - [Amazon reported hundreds of thousands of pieces of potential CSAM in AI training data to NCMEC in 2025; child safety officials say Amazon didn&#39;t give the source &lpar;Bloomberg&rpar;](http://www.techmeme.com/260129/p19#a260129p19)
+ - [There won’t be a Nothing Phone 4 this year](https://www.theverge.com/tech/869975/nothing-phone-4-not-releasing-2026-flagship)
+ - [Samsung and SK Hynix executives say they expect global memory supply shortages will persist until 2027 due to AI demand, after the companies reported earnings &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/260129/p18#a260129p18)
+ - [RedMagic&#39;s Thinner Gaming Phone Gets a 7,000-mAh Battery and a Cooling Fan](https://www.cnet.com/tech/mobile/redmagic-11-air-announcement-7000mah-battery-cooling-fan/)
+ - [Best Open Earbuds &lpar;2026&rpar;: Bose, Soundcore, and More](https://www.wired.com/gallery/best-open-ear-buds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

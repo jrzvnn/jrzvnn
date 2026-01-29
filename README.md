@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s SpaceX and xAI might merge into one company](https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger)
  - [Apple’s second biggest acquisition ever is an AI company that listens to ‘silent speech’](https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech)
  - [A San Francisco jury finds former Google engineer Linwei Ding guilty of stealing trade secrets related to AI chip technology to build a startup in China &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/260129/p40#a260129p40)
  - [Obsbot’s new gimbal webcam doesn’t justify its $350 price](https://www.theverge.com/tech/867950/obsbot-tiny-3-lite-hands-on-impressions)
- - [AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment](https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/)
- - [A Yann LeCun–Linked Startup Charts a New Path to AGI](https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/)<!-- TECH:END -->
+ - [AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment](https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
  - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
- - 💣 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
- - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 👉 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)<!-- MEMES:END -->
+ - 😝 [We could call it...Good Australia](http://9gag.com/gag/ae9z2dW)
+ - 💣 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
+ - 😝 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
+ - 👉 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)<!-- MEMES:END -->
 
 ---
 

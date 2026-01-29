@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reports Q1 revenue from Services, which includes the App Store, Apple Pay, Apple TV, Apple Music, and iCloud, up 14% YoY to $30B, in line with estimates &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260129/p48#a260129p48)
- - [Apple is resurgent in China with unexpected iPhone 17 sales domination](https://appleinsider.com/articles/26/01/29/apple-is-resurgent-in-china-with-unexpected-iphone-17-sales-domination?utm_source=rss)
- - [Apple reports Q1 revenue up 16% YoY to $143.76B, vs. $138.48B est., net income up 16% to $42.1B, and China net sales up 38% to $25.53B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/260129/p47#a260129p47)
- - [Apple blows away Wall Street expectations with record $143.8 billion quarter](https://appleinsider.com/articles/26/01/29/apple-blows-away-wall-street-expectations-with-record-1438-billion-quarter?utm_source=rss)
- - [Apple Q1: iPhone up 23% YoY to $85.27B, vs. $78.65B est., Mac down 7% to $8.39B, iPad up 6% to $8.6B, and Wearables, Home, and Accessories down 2% to $11.49B &lpar;Apple&rpar;](http://www.techmeme.com/260129/p46#a260129p46)<!-- TECH:END -->
+ - [It’s a new heyday for gas thanks to data centers](https://www.theverge.com/news/870422/data-center-ai-gas-power-surge)
+ - [Tim Cook: Apple won&#39;t change privacy rules with Google Gemini partnership](https://appleinsider.com/articles/26/01/29/tim-cook-apple-wont-change-privacy-rules-with-google-gemini-partnership?utm_source=rss)
+ - [AI Is a Copyright Catastrophe and It Affects Everyone](https://www.cnet.com/tech/services-and-software/ai-has-sent-copyright-laws-into-chaos-what-you-need-to-know-about-your-rights-online/)
+ - [Apple just had a record-breaking iPhone quarter](https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026)
+ - [Apple reports Q1 revenue from Services, which includes the App Store, Apple Pay, Apple TV, Apple Music, and iCloud, up 14% YoY to $30B, in line with estimates &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260129/p48#a260129p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

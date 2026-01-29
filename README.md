@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it took legal action to take down dozens of domains and disrupt the residential proxy network of Chinese company Ipidea, widely used by bad actors &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p66#a260128p66)
- - [SK Hynix announces a new US-based &quot;AI Company&quot; from a restructuring of its California-based subsidiary Solidigm, and commits at least $10B to the new entity &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260128/p65#a260128p65)
- - [In Meta&#39;s Q4 earnings call, Mark Zuckerberg says it plans to start shipping new models and products throughout 2026 and hints at &quot;agentic shopping tools&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260128/p64#a260128p64)
- - [Satya Nadella says Windows 11 reached 1B users during Q2, growing over 45% YoY and at a faster rate than Windows 10 did &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260128/p63#a260128p63)
- - [Sebastiaan de With, co-founder of the iPhone camera app Halide who previously freelanced for Apple, says he has joined Apple&#39;s Human Interface Design team &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/260128/p62#a260128p62)<!-- TECH:END -->
+ - [How to view translated lyrics in Apple Music](https://appleinsider.com/inside/ios-26/tips/how-to-view-translated-lyrics-in-apple-music?utm_source=rss)
+ - [Google agrees to pay $135M to settle a proposed class action lawsuit alleging that the tech giant programmed Android to illegally collect users&#39; cellular data &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260128/p70#a260128p70)
+ - [The UK&#39;s Advertising Standards Authority bans some Coinbase ads, finding them &quot;irresponsible&quot; for suggesting crypto as a solution to the cost of living crisis &lpar;Tom Knowles/The Guardian&rpar;](http://www.techmeme.com/260128/p69#a260128p69)
+ - [LinkedIn&#39;s Q2 revenue rose 11% YoY, topping $5B for the first time, giving LinkedIn an annual run rate of $20B+; Satya Nadella said paid video ads grew 30% YoY &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260128/p68#a260128p68)
+ - [Samsung reports Q4 revenue up 24% YoY to ~$65.6B, vs. ~$65.28B est., and operating profit up 200%+ to ~$14.06B, driven by memory chip price surge and HBM demand &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260128/p67#a260128p67)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

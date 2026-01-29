@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
- - 😝 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
- - 💣 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - 😝 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
+ - 😝 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
+ - 😝 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)
+ - 💣 [T\u00dcRKEI is Turkey is garbage](http://9gag.com/gag/avyqdQO)
+ - 😝 [Engineering Students Build &#39;Popsicle Bridge&#39; That Can Hold 430kg Load](http://9gag.com/gag/abADBLX)
  - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
- - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - 💣 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
- - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 👉 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)<!-- MEMES:END -->
+ - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
+ - 😝 [When she laughs](http://9gag.com/gag/apR7V9E)
+ - 💣 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
+ - 😝 [Difference between men and women](http://9gag.com/gag/aQzbONe)
+ - 👉 [Introvert comfort zone.](http://9gag.com/gag/aYQ6A3O)<!-- MEMES:END -->
 
 ---
 

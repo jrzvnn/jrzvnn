@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
- - 😝 [We could call it...Good Australia](http://9gag.com/gag/ae9z2dW)
- - 💣 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
- - 😝 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
- - 👉 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)<!-- MEMES:END -->
+ - 😝 [Ouch. My. Face.](http://9gag.com/gag/ayNrYoM)
+ - 😝 [Introvert comfort zone.](http://9gag.com/gag/aYQ6A3O)
+ - 💣 [Brings back memories. Great bus driver and kids](http://9gag.com/gag/ayNrYnX)
+ - 😝 [These vintage Aerolux bulbs are absolutely stunning, especially that rare purple one. Who knew light bulbs could be this beautiful](http://9gag.com/gag/awyj4dD)
+ - 👉 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)<!-- MEMES:END -->
 
 ---
 

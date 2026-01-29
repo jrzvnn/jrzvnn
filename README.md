@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Amazon&#39;s and Walmart&#39;s differing approaches to agentic AI shopping; Similarweb: Walmart doubled its share of AI referrals in the US to 32.5% in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p7#a260129p7)
+ - [Security researchers warn Moltbot, previously Clawdbot, requires a specialist skillset to use safely, as data exposure risks persist even when set up correctly &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/260129/p6#a260129p6)
  - [A federal judge in Virginia ruled that Norfolk&#39;s use of ~200 Flock automated license plate scanners is constitutional and doesn&#39;t violate the Fourth Amendment &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/260129/p5#a260129p5)
  - [Advantest shares hit a record high after the chip equipment maker beat Q3 earnings estimates and raised its FY operating profit forecast from $2.45B to $2.97B &lpar;Momoka Yokoyama/Bloomberg&rpar;](http://www.techmeme.com/260129/p4#a260129p4)
- - [50% Off Blue Apron Promo Codes | February 2026](https://www.wired.com/story/blue-apron-coupon/)
- - [SK Hynix surpassed Samsung in annual operating profit for the first time in 2025; SK Hynix posted a record profit of ~$33B in 2025 while Samsung posted ~$30.5B &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260129/p3#a260129p3)
- - [50% Off DoorDash Promo Code | February 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [50% Off Blue Apron Promo Codes | February 2026](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft shares fell ~10% on Thursday following an earnings report that disappointed some investors, the stock&#39;s sharpest daily decline since March 2020 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260129/p45#a260129p45)
- - [The weirdest headphones at CES will launch on Kickstarter next month](https://www.theverge.com/news/870416/tdm-neo-wireless-headphones-bluetooth-speaker-kickstarter-february)
- - [Sources: Microsoft is focusing on fixing the core issues of Windows 11 over the coming months after persistent bugs, ads, and bloatware eroded user trust &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260129/p44#a260129p44)
- - [Sources: Amazon is in talks to invest up to $50B in OpenAI, which is seeking up to $100B in new capital, a round that could value it at as much as $830B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260129/p43#a260129p43)
- - [Grubhub plans to remove delivery and service fees on restaurant orders over $50 starting Feb. 2; Grubhub&#39;s US market share fell to ~4% in 2025 from 10% in 2023 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260129/p42#a260129p42)<!-- TECH:END -->
+ - [Apple reports Q1 revenue from Services, which includes the App Store, Apple Pay, Apple TV, Apple Music, and iCloud, up 14% YoY to $30B, in line with estimates &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260129/p48#a260129p48)
+ - [Apple is resurgent in China with unexpected iPhone 17 sales domination](https://appleinsider.com/articles/26/01/29/apple-is-resurgent-in-china-with-unexpected-iphone-17-sales-domination?utm_source=rss)
+ - [Apple reports Q1 revenue up 16% YoY to $143.76B, vs. $138.48B est., net income up 16% to $42.1B, and China net sales up 38% to $25.53B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/260129/p47#a260129p47)
+ - [Apple blows away Wall Street expectations with record $143.8 billion quarter](https://appleinsider.com/articles/26/01/29/apple-blows-away-wall-street-expectations-with-record-1438-billion-quarter?utm_source=rss)
+ - [Apple Q1: iPhone up 23% YoY to $85.27B, vs. $78.65B est., Mac down 7% to $8.39B, iPad up 6% to $8.6B, and Wearables, Home, and Accessories down 2% to $11.49B &lpar;Apple&rpar;](http://www.techmeme.com/260129/p46#a260129p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

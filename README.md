@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eyes are bigger than your stomach](http://9gag.com/gag/aXP3WBb)
- - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 💣 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
- - 😝 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
- - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
+ - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - 😝 [Give him a name](http://9gag.com/gag/ayNrRRp)
+ - 💣 [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 😝 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)
+ - 👉 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)<!-- MEMES:END -->
 
 ---
 

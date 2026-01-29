@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modern problems require modern solutions](http://9gag.com/gag/aZZXz5X)
+ - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
  - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
- - 💣 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
- - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
+ - 💣 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
+ - 😝 [Tesla coil fly trap](http://9gag.com/gag/a2vgL5p)
  - 👉 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)<!-- MEMES:END -->
 
 ---

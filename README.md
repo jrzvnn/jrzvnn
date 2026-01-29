@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s Campaign to Sell AI Chips to China Finally Pays Off](https://www.wired.com/story/made-in-china-china-nvidia-h200-beijing-approval/)
- - [Deezer opens its AI music detection tool to other platforms](https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available)
- - [How to Watch Super Bowl 2026: When Do the Patriots and Seahawks Play? TV Channel, VPN, Streaming Info](https://www.cnet.com/tech/services-and-software/where-to-watch-super-bowl-2026-how-to-stream-patriots-seahawks/)
- - [Talos, which develops digital asset trading infrastructure, raised a $45M extension from Robinhood and others to its $105M Series B, at a $1.5B valuation &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260129/p31#a260129p31)
- - [The rise of the slopagandist](https://www.theverge.com/news/869824/right-wing-influencers-nick-shirley-slopaganda)<!-- TECH:END -->
+ - [A coalition of music publishers, including UMG, filed a second lawsuit against Anthropic, seeking $3B over allegations of copyright infringement of 20k+ songs &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260129/p33#a260129p33)
+ - [Half of developers think gen AI is bad for the gaming industry](https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey)
+ - [Google’s AI helped me make bad Nintendo knockoffs](https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on)
+ - [Microsoft is working to rebuild trust in Windows](https://www.theverge.com/tech/870045/microsoft-windows-11-issues-rebuilding-trust-notepad)
+ - [Waymo is finally starting passenger trips at SFO — but not to the terminals](https://www.theverge.com/news/870102/waymo-sfo-passenger-trip-approval-airport)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

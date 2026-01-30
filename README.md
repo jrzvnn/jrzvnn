@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
- - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
- - 💣 [`Biggus` - my oil painting](http://9gag.com/gag/azxy4ZB)
+ - 😝 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
  - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 👉 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)<!-- MEMES:END -->
+ - 💣 [This dude is something else](http://9gag.com/gag/aZZXz2V)
+ - 😝 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
+ - 👉 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)<!-- MEMES:END -->
 
 ---
 

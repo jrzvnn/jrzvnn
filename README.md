@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla throws in the towel on car sales](https://www.theverge.com/transportation/870332/tesla-throws-in-the-towel-on-car-sales)
+ - [The lonely promise of cute robots](https://www.theverge.com/column/870438/optimizer-mirumi-loneliness-social-companion-robots)
+ - [Pro-AI super PAC Leading the Future has raised $125M+ in 2025, including from a16z and Greg Brockman, to try to shape the US midterms and federal AI regulation &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260130/p13#a260130p13)
  - [Peter Steinberger rebrands his AI agent project to OpenClaw, its second name change after Anthropic forced a shift from Clawdbot to Moltbot &lpar;Ron Schmelzer/Forbes&rpar;](http://www.techmeme.com/260130/p12#a260130p12)
- - [Sources: Granola, which makes an AI-based note-taking app, aims to raise $100M+ led by Index Ventures at a $1B+ valuation, up from a $250M valuation in May 2025 &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260130/p11#a260130p11)
- - [Who’s afraid of the new TikTok?](https://www.theverge.com/tech/870543/tiktok-us-ownership-oracle-algorithm-trust)
- - [Apple’s sci-fi detective show Sugar is coming back in June](https://www.theverge.com/streaming/870721/sugar-season-2-apple-tv-date)
- - [Apple Creator Studio, ChatGPT health, and iPhone 18 rumors on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/30/apple-creator-studio-chatgpt-health-and-iphone-18-rumors-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Xfinity Adds Fan-First Upgrades for Your 2026 Winter Olympics Viewing](https://www.cnet.com/tech/services-and-software/xfinity-adds-fan-first-upgrades-for-your-2026-winter-olympics-viewing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

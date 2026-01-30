@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 😝 [He was just released for SA then he goes and SA a female detective .](http://9gag.com/gag/abADRNE)
- - 💣 [I would binge watch the whole season.](http://9gag.com/gag/azxyQ2z)
- - 😝 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
- - 👉 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
+ - 😝 [Modern problems require modern solutions](http://9gag.com/gag/aZZXz5X)
+ - 😝 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
+ - 💣 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
+ - 😝 [Xd](http://9gag.com/gag/ayNrvKW)
+ - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
 
 ---
 

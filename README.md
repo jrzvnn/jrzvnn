@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Q1 sales in greater China surged 38% to $25.5B; Tim Cook attributed the increase to users upgrading and switching from other platforms to iPhone 17 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260129/p57#a260129p57)
- - [Apple expects Q2 revenue to grow 13% to 16% YoY, vs. 10% est.; it&#39;s currently constrained by iPhone processor supply and expects memory costs to rise after Q2 &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p56#a260129p56)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 30, #494](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-30-494/)
- - [OpenAI plans to retire several models from ChatGPT on February 13, including GPT‑4o, GPT‑4.1, and o4-mini, saying only 0.1% of users still choose GPT-4o &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260129/p55#a260129p55)
- - [Perplexity signs a deal with Microsoft; sources say the $750M, three-year commitment will let Perplexity deploy AI models through Microsoft&#39;s Foundry service &lpar;Bloomberg&rpar;](http://www.techmeme.com/260129/p54#a260129p54)<!-- TECH:END -->
+ - [Filing: Chinese AI chipmaker Axera aims to raise up to ~$379.2M in a Hong Kong IPO, offering 104.9M shares at ~$3.61 each; trading expected to start February 10 &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p61#a260129p61)
+ - [Q&amp;A with Google DeepMind&#39;s Demis Hassabis on AGI, next breakthroughs like continual learning, his vision for AI glasses, whether AI progress is slowing, more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/260129/p60#a260129p60)
+ - [Filing: Chinese chip designer Montage plans to raise up to ~$902M in a Hong Kong IPO, pricing shares at ~$13.69, and expects trading to start February 9 &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260129/p59#a260129p59)
+ - [Darren Aronofsky&#39;s Primordial Soup debuts its short-form Revolutionary War series, made using Google DeepMind&#39;s AI tools and human voice actors &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260129/p58#a260129p58)
+ - [Apple&#39;s Q1 sales in greater China surged 38% to $25.5B; Tim Cook attributed the increase to users upgrading and switching from other platforms to iPhone 17 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260129/p57#a260129p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

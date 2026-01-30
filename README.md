@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
- - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 💣 [I mean... goku is that you](http://9gag.com/gag/a9ywBmo)
+ - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
  - 😝 [This dude is something else](http://9gag.com/gag/aZZXz2V)
- - 👉 [You mad bro?](http://9gag.com/gag/amoQpYo)<!-- MEMES:END -->
+ - 💣 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 😝 [I mean... goku is that you](http://9gag.com/gag/a9ywBmo)
+ - 👉 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)<!-- MEMES:END -->
 
 ---
 

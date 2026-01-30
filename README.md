@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether says it generated over $10B in net profits in 2025, down from $13B+ in 2024, and says it holds $193B in assets backing the $186B USDT in circulation &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260130/p28#a260130p28)
+ - [A look at the clash between Coinbase and Wall Street over the Clarity Act and whether crypto exchanges can offer stablecoin &quot;rewards&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260130/p27#a260130p27)
  - [Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing](https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/)
  - [Video game company stock prices dip after Google introduces an AI world-generation tool](https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity)
- - [Record labels are catering directly to iTunes customers to bolster Billboard chart numbers](https://appleinsider.com/articles/26/01/30/record-labels-are-catering-directly-to-itunes-customers-to-bolster-billboard-chart-numbers?utm_source=rss)
- - [Disney Plus: 31 of the Best TV Shows You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/disney-plus-best-tv-shows-2026/)
- - [Sources: SpaceX generated about $8B in EBITDA on $15B to $16B of revenue last year; Starlink accounted for about 50% to 80% of the total revenue &lpar;Reuters&rpar;](http://www.techmeme.com/260130/p26#a260130p26)<!-- TECH:END -->
+ - [Record labels are catering directly to iTunes customers to bolster Billboard chart numbers](https://appleinsider.com/articles/26/01/30/record-labels-are-catering-directly-to-itunes-customers-to-bolster-billboard-chart-numbers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

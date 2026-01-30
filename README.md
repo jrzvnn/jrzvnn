@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
- - 😝 [Marble clock](http://9gag.com/gag/ayNrYOY)
- - 💣 [I miss my junior days. And my senior days as well](http://9gag.com/gag/avyq91b)
- - 😝 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)
- - 👉 [Ever wondered how electric motors are manufactured?](http://9gag.com/gag/a4Pgw0Z)<!-- MEMES:END -->
+ - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
+ - 💣 [This dude is something else](http://9gag.com/gag/aZZXz2V)
+ - 😝 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
+ - 👉 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)<!-- MEMES:END -->
 
 ---
 

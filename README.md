@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare says it mitigated a 31.4 Tbps DDoS attack from the Aisuru/Kimwolf botnet in December 2025, making it the largest attack ever disclosed publicly &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260130/p5#a260130p5)
- - [Microdosing for Depression Appears to Work About as Well as Drinking Coffee](https://www.wired.com/story/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee/)
- - [The Netherlands&#39; consumer protection regulator launches an investigation into Roblox under the DSA over potential risks to underage users in the EU &lpar;Charlotte Van Campenhout/Reuters&rpar;](http://www.techmeme.com/260130/p4#a260130p4)
- - [One of the biggest manga piracy networks has been shut down](https://www.theverge.com/tech/870643/bato-manga-piracy-site-shut-down)
- - [Sources: China has given DeepSeek approval to buy Nvidia&#39;s H200 AI chips but imposes regulatory conditions, which are still being finalized &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260130/p3#a260130p3)<!-- TECH:END -->
+ - [France blocks Eutelsat&#39;s ~€550M sale of its ground antenna business to EQT, calling it Europe&#39;s only Starlink competitor; France has a 29.6% stake in Eutelsat &lpar;Financial Times&rpar;](http://www.techmeme.com/260130/p6#a260130p6)
+ - [HigherDose Red Light Hat Review: Scalp Savior &lpar;2026&rpar;](https://www.wired.com/review/higherdose-red-light-hat/)
+ - [Silicon Valley Tech Workers Are Campaigning to Get ICE Out of US Cities](https://www.wired.com/story/the-big-interview-podcast-ice-out-tech/)
+ - [Microsoft is experimenting with a top menu bar for Windows 11](https://www.theverge.com/news/870663/microsoft-windows-11-top-menu-bar-powertoy-experiment)
+ - [Cloudflare says it mitigated a 31.4 Tbps DDoS attack from the Aisuru/Kimwolf botnet in December 2025, making it the largest attack ever disclosed publicly &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260130/p5#a260130p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

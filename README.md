@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Pentagon is clashing with Anthropic over safeguards limiting the use of its tech to target weapons autonomously and conduct domestic surveillance &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p53#a260129p53)
- - [Sources: special agents with the US Commerce Department investigated claims by ex-Meta contractors that Meta staff had &quot;unfettered&quot; access to WhatsApp messages &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/260129/p52#a260129p52)
- - [We Found Two Theaters With Sold-Out ‘Melania’ Opening Day Screenings](https://www.wired.com/story/we-found-2-theaters-with-sold-out-melania-opening-day-screenings/)
- - [Sources: OpenAI is laying the groundwork for an IPO in Q4 2026, and its executives have privately expressed concerns about Anthropic beating OpenAI to an IPO &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260129/p51#a260129p51)
- - [Apple reaches 2.5 billion active devices after record-breaking quarter](https://appleinsider.com/articles/26/01/29/apple-reaches-25-billion-active-devices-after-record-breaking-quarter?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s Q1 sales in greater China surged 38% to $25.5B; Tim Cook attributed the increase to users upgrading and switching from other platforms to iPhone 17 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260129/p57#a260129p57)
+ - [Apple expects Q2 revenue to grow 13% to 16% YoY, vs. 10% est.; it&#39;s currently constrained by iPhone processor supply and expects memory costs to rise after Q2 &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p56#a260129p56)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 30, #494](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-30-494/)
+ - [OpenAI plans to retire several models from ChatGPT on February 13, including GPT‑4o, GPT‑4.1, and o4-mini, saying only 0.1% of users still choose GPT-4o &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260129/p55#a260129p55)
+ - [Perplexity signs a deal with Microsoft; sources say the $750M, three-year commitment will let Perplexity deploy AI models through Microsoft&#39;s Foundry service &lpar;Bloomberg&rpar;](http://www.techmeme.com/260129/p54#a260129p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

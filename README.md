@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poetiq, which leverages existing LLMs to create &quot;expert agents&quot; for specific tasks, and spent just $40K to achieve high ARC-AGI-2 scores, raised a $45.8M seed &lpar;Ian Krietzberg/Puck&rpar;](http://www.techmeme.com/260130/p15#a260130p15)
- - [This DIY kit turned my favorite mechanical keyboard into my favorite electrocapacitive keyboard](https://www.theverge.com/tech/868153/dynacap-diy-electrocapacitive-keyboard-hands-on)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
- - [Belkin’s Wemo smart devices will go offline on Saturday](https://www.theverge.com/tech/870890/belkin-wemo-cloud-services-shut-down)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
+ - [Apple could have used Claude to power a future Siri, but Anthropic got greedy](https://appleinsider.com/articles/26/01/30/apple-could-have-used-claude-to-power-a-future-siri-but-anthropic-got-greedy?utm_source=rss)
+ - [ICE invades Minnesota and Minnesotans fight back](https://www.theverge.com/policy/870315/ice-invades-minnesota-and-minnesotans-fight-back)
+ - [You can now use Nintendo’s wireless N64 controller with the Analogue 3D](https://www.theverge.com/news/870968/analogue-3d-n64-nintendo-switch-online-wireless-controller-software-update)
+ - [How to import eBooks and PDFs from Messages to Apple Books](https://appleinsider.com/inside/ios-18/tips/how-to-import-ebooks-and-pdfs-from-messages-to-apple-books?utm_source=rss)
+ - [Poetiq, which leverages existing LLMs to create &quot;expert agents&quot; for specific tasks, and spent just $40K to achieve high ARC-AGI-2 scores, raised a $45.8M seed &lpar;Ian Krietzberg/Puck&rpar;](http://www.techmeme.com/260130/p15#a260130p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

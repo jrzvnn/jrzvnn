@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Viome Full Body Intelligence Test Review: Little Clarity, Pricey Supplements](https://www.wired.com/review/viome-full-body-intelligence-test/)
+ - [NAD+ Supplement 101: Possible Benefits and Precautions Explained &lpar;2026&rpar;](https://www.wired.com/story/nad-supplement-101/)
+ - [The small film that answers the big questions](https://www.theverge.com/entertainment/870138/hlynur-palmason-the-love-that-remains-interview)
  - [France blocks Eutelsat&#39;s ~€550M sale of its ground antenna business to EQT, calling it Europe&#39;s only Starlink competitor; France has a 29.6% stake in Eutelsat &lpar;Financial Times&rpar;](http://www.techmeme.com/260130/p6#a260130p6)
- - [HigherDose Red Light Hat Review: Scalp Savior &lpar;2026&rpar;](https://www.wired.com/review/higherdose-red-light-hat/)
- - [Silicon Valley Tech Workers Are Campaigning to Get ICE Out of US Cities](https://www.wired.com/story/the-big-interview-podcast-ice-out-tech/)
- - [Microsoft is experimenting with a top menu bar for Windows 11](https://www.theverge.com/news/870663/microsoft-windows-11-top-menu-bar-powertoy-experiment)
- - [Cloudflare says it mitigated a 31.4 Tbps DDoS attack from the Aisuru/Kimwolf botnet in December 2025, making it the largest attack ever disclosed publicly &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260130/p5#a260130p5)<!-- TECH:END -->
+ - [HigherDose Red Light Hat Review: Scalp Savior &lpar;2026&rpar;](https://www.wired.com/review/higherdose-red-light-hat/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

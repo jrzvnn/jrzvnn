@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson’s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today](https://www.theverge.com/gadgets/870256/dyson-360-vis-nav-robot-vacuum-lego-lotr-balrog-deal-sale)
- - [Shares of major gaming companies plunge after Google released Project Genie, which lets users create interactive worlds; Unity is down ~21% and Take-Two ~10% &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260130/p20#a260130p20)
- - [Give us some &#39;Sugar&#39; - Neo-noir detective drama sneaks back onto Apple TV in June](https://appleinsider.com/articles/26/01/30/give-us-some-sugar---neo-noir-detective-drama-sneaks-back-onto-apple-tv-in-june?utm_source=rss)
- - [A look at Moltbook, a social network where OpenClaw assistants interact autonomously, as they discuss consciousness and identity, technical tips, and more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260130/p19#a260130p19)
- - [Anthropic expands its agentic plugins, which let enterprise users automate department-specific workflows, from Claude Code to its new general-use tool Cowork &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260130/p18#a260130p18)<!-- TECH:END -->
+ - [Widely beloved actress Catherine O&#39;Hara has passed away at age 71](https://appleinsider.com/articles/26/01/30/widely-beloved-actress-catherine-ohara-has-passed-away-at-age-71?utm_source=rss)
+ - [Samsung&#39;s M8 monitor drops to $399, plus save $100 on bundle deals](https://appleinsider.com/articles/26/01/30/samsungs-m8-monitor-drops-to-399-plus-save-100-on-bundle-deals?utm_source=rss)
+ - [Sources: Apple lost at least four more AI researchers in recent weeks, two of whom went to Meta and one to DeepMind; a top Siri executive left for DeepMind &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260130/p21#a260130p21)
+ - [There’s a social network for AI agents, and it’s getting weird](https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw)
+ - [We finally heard from Trump Mobile… and they immediately ghosted us](https://www.theverge.com/tech/870934/trump-mobile-executive-team-don-hendrickson)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

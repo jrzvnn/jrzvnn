@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OnlyFans is in talks to sell a nearly 60% stake to Architect Capital in a deal that values the company at around $5.5B, including debt &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260130/p23#a260130p23)
- - [I Let Google&#39;s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn&#39;t Quite Click](https://www.wired.com/story/google-chrome-auto-browse-hands-on/)
- - [Very first Apple check &amp; early Apple-1 motherboard sold for $5 million combined](https://appleinsider.com/articles/26/01/30/very-first-apple-check-early-apple-1-motherboard-sold-for-5-million-combined?utm_source=rss)
- - [Fitbit users now have until May to migrate to a Google account](https://www.theverge.com/gadgets/871218/fitbit-account-migration-google-deadline-may-2026)
- - [Anthropic details how NASA engineers used Claude to plot out the route for Perseverance rover to navigate a ~400 meter path on the Martian surface &lpar;Anthropic&rpar;](http://www.techmeme.com/260130/p22#a260130p22)<!-- TECH:END -->
+ - [Hands-on with Google&#39;s Auto Browse for Chrome: its ability to perform multistep tasks is noticeably better than similar tools but struggles with complex tasks &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260130/p25#a260130p25)
+ - [Anthropic details an experiment on whether AI coding tools shape developer skills, finding that the biggest performance gap appears in debugging tasks &lpar;Anthropic&rpar;](http://www.techmeme.com/260130/p24#a260130p24)
+ - [What Gets You Free Netflix, Hulu and Paramount Plus? A T-Mobile Subscription, That&#39;s What](https://www.cnet.com/tech/services-and-software/t-mobile-streaming-freebies-netflix-hulu-paramount-plus/)
+ - [Sonos’ Super Bowl sale knocks hundreds off its audio gear](https://www.theverge.com/gadgets/871054/sonos-super-bowl-deal-sale-era-beam-arc-ultra-sub)
+ - [Some AI researchers have left Apple but that won&#39;t affect Siri&#39;s big upgrade](https://appleinsider.com/articles/26/01/30/some-ai-researchers-have-left-apple-but-that-wont-affect-siris-big-upgrade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

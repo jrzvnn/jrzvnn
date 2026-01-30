@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)
- - 😝 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
- - 💣 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
+ - 😝 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
+ - 💣 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
  - 😝 [This dude is something else](http://9gag.com/gag/aZZXz2V)
  - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
 

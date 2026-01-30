@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare says it mitigated a 31.4 Tbps DDoS attack from the Aisuru/Kimwolf botnet in December 2025, making it the largest attack ever disclosed publicly &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260130/p5#a260130p5)
+ - [Microdosing for Depression Appears to Work About as Well as Drinking Coffee](https://www.wired.com/story/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee/)
  - [The Netherlands&#39; consumer protection regulator launches an investigation into Roblox under the DSA over potential risks to underage users in the EU &lpar;Charlotte Van Campenhout/Reuters&rpar;](http://www.techmeme.com/260130/p4#a260130p4)
  - [One of the biggest manga piracy networks has been shut down](https://www.theverge.com/tech/870643/bato-manga-piracy-site-shut-down)
- - [Sources: China has given DeepSeek approval to buy Nvidia&#39;s H200 AI chips but imposes regulatory conditions, which are still being finalized &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260130/p3#a260130p3)
- - [I’ve Tested 1,000+ Sex Toys. These 8 Are What I Always Recommend](https://www.wired.com/gallery/i-have-tested-1000-sex-toys-these-8-are-what-i-always-recommend/)
- - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/)<!-- TECH:END -->
+ - [Sources: China has given DeepSeek approval to buy Nvidia&#39;s H200 AI chips but imposes regulatory conditions, which are still being finalized &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260130/p3#a260130p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

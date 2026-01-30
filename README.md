@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
- - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
- - 💣 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 😝 [Artificial intelligence](http://9gag.com/gag/aW4y9E3)
- - 👉 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)<!-- MEMES:END -->
+ - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
+ - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 💣 [This dude is something else](http://9gag.com/gag/aZZXz2V)
+ - 😝 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
+ - 👉 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)<!-- MEMES:END -->
 
 ---
 

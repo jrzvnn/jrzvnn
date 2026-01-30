@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Very first Apple check &amp; early Apple-1 motherboard sold for $5 million combined](https://appleinsider.com/articles/26/01/30/very-first-apple-check-early-apple-1-motherboard-sold-for-5-million-combined?utm_source=rss)
+ - [Fitbit users now have until May to migrate to a Google account](https://www.theverge.com/gadgets/871218/fitbit-account-migration-google-deadline-may-2026)
  - [Anthropic details how NASA engineers used Claude to plot out the route for Perseverance rover to navigate a ~400 meter path on the Martian surface &lpar;Anthropic&rpar;](http://www.techmeme.com/260130/p22#a260130p22)
  - [3 Great Heated Blanket Deals on My Favorite Affordable Models](https://www.wired.com/story/heated-blanket-deals-january-2026/)
- - [Widely beloved actress Catherine O&#39;Hara has passed away at age 71](https://appleinsider.com/articles/26/01/30/widely-beloved-actress-catherine-ohara-has-passed-away-at-age-71?utm_source=rss)
- - [Samsung&#39;s M8 monitor drops to $399, plus save $100 on bundle deals](https://appleinsider.com/articles/26/01/30/samsungs-m8-monitor-drops-to-399-plus-save-100-on-bundle-deals?utm_source=rss)
- - [Sources: Apple lost at least four more AI researchers in recent weeks, two of whom went to Meta and one to DeepMind; a top Siri executive left for DeepMind &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260130/p21#a260130p21)<!-- TECH:END -->
+ - [Widely beloved actress Catherine O&#39;Hara has passed away at age 71](https://appleinsider.com/articles/26/01/30/widely-beloved-actress-catherine-ohara-has-passed-away-at-age-71?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

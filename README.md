@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
  - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 💣 [This dude is something else](http://9gag.com/gag/aZZXz2V)
- - 😝 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
+ - 😝 [Heavy burden](http://9gag.com/gag/amoQpn4)
+ - 💣 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
+ - 😝 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
  - 👉 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)<!-- MEMES:END -->
 
 ---

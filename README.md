@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Soundbars We’ve Tested: Sonos, Sony, Bose, and More](https://www.wired.com/gallery/best-soundbars/)
- - [Oura CEO Tom Hale says the company has no plans to abandon its subscription model, even as rivals experiment with cheaper hardware and no recurring fees &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260130/p9#a260130p9)
- - [I wear lots of technology for a living, ask me anything](https://www.theverge.com/column/870394/i-wear-lots-of-technology-for-a-living-ask-me-anything)
- - [Parenting in ICE-occupied Minneapolis](https://www.theverge.com/policy/870720/ice-minneapolis-parenting-liam-conejo-ramos)
- - [&#39;Infinite Jest&#39; Is Back. Maybe Litbros Should Be, Too](https://www.wired.com/story/infinite-jest-is-back-if-only-litbros-were-too/)<!-- TECH:END -->
+ - [Costco will use Instacart&#39;s white-label e-commerce service to offer grocery delivery in Spain and France, extending their partnership beyond North America &lpar;Bloomberg&rpar;](http://www.techmeme.com/260130/p10#a260130p10)
+ - [6 Best Beard Trimmers &lpar;2026&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
+ - [iPhone 18 split launch strategy is about more than marketing](https://appleinsider.com/articles/26/01/30/iphone-18-split-launch-strategy-is-about-more-than-marketing?utm_source=rss)
+ - [Amid record revenue, Apple&#39;s Q1 2026 R&amp;D spend reveals its AI ambitions](https://appleinsider.com/articles/26/01/30/amid-record-revenue-apples-q1-2026-rd-spend-reveals-its-ai-ambitions?utm_source=rss)
+ - [The Best Soundbars We’ve Tested: Sonos, Sony, Bose, and More](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

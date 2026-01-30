@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla throws in the towel on car sales](https://www.theverge.com/transportation/870332/tesla-throws-in-the-towel-on-car-sales)
- - [The lonely promise of cute robots](https://www.theverge.com/column/870438/optimizer-mirumi-loneliness-social-companion-robots)
- - [Pro-AI super PAC Leading the Future has raised $125M+ in 2025, including from a16z and Greg Brockman, to try to shape the US midterms and federal AI regulation &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260130/p13#a260130p13)
- - [Peter Steinberger rebrands his AI agent project to OpenClaw, its second name change after Anthropic forced a shift from Clawdbot to Moltbot &lpar;Ron Schmelzer/Forbes&rpar;](http://www.techmeme.com/260130/p12#a260130p12)
- - [Xfinity Adds Fan-First Upgrades for Your 2026 Winter Olympics Viewing](https://www.cnet.com/tech/services-and-software/xfinity-adds-fan-first-upgrades-for-your-2026-winter-olympics-viewing/)<!-- TECH:END -->
+ - [Belkin’s Wemo smart devices will go offline on Saturday](https://www.theverge.com/tech/870890/belkin-wemo-cloud-services-shut-down)
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+ - [Binance says it will convert $1B in stablecoin reserves held in its SAFU into bitcoin over the next 30 days, as BTC falls to its lowest level since November &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/260130/p14#a260130p14)
+ - [After Minneapolis, Tech CEOs Are Struggling to Stay Silent](https://www.wired.com/story/after-minneapolis-tech-ceos-are-struggling-to-stay-silent/)
+ - [Don Lemon has been arrested for covering an anti-ICE protest](https://www.theverge.com/policy/870765/don-lemon-arrest-ice-protest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

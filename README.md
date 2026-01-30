@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peloton lays off 11 percent of its staff just a few months after launching its AI hardware](https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026)
  - [Tether says it generated over $10B in net profits in 2025, down from $13B+ in 2024, and says it holds $193B in assets backing the $186B USDT in circulation &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260130/p28#a260130p28)
- - [A look at the clash between Coinbase and Wall Street over the Clarity Act and whether crypto exchanges can offer stablecoin &quot;rewards&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260130/p27#a260130p27)
- - [Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing](https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/)
- - [Video game company stock prices dip after Google introduces an AI world-generation tool](https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity)
- - [Record labels are catering directly to iTunes customers to bolster Billboard chart numbers](https://appleinsider.com/articles/26/01/30/record-labels-are-catering-directly-to-itunes-customers-to-bolster-billboard-chart-numbers?utm_source=rss)<!-- TECH:END -->
+ - [Clawdbot, Moltbot, OpenClaw? The Wild Ride of This Viral AI Agent](https://www.cnet.com/tech/services-and-software/from-clawdbot-to-moltbot-to-openclaw/)
+ - [10 Movies Coming to Netflix in February 2026 That You Won&#39;t Want to Miss](https://www.cnet.com/tech/services-and-software/10-movies-coming-to-netflix-in-february-2026-that-you-wont-want-to-miss/)
+ - [A look at the clash between Coinbase and Wall Street over the Clarity Act and whether crypto exchanges can offer stablecoin &quot;rewards&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260130/p27#a260130p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

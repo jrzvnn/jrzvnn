@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Netherlands&#39; consumer protection regulator launches an investigation into Roblox under the DSA over potential risks to underage users in the EU &lpar;Charlotte Van Campenhout/Reuters&rpar;](http://www.techmeme.com/260130/p4#a260130p4)
+ - [One of the biggest manga piracy networks has been shut down](https://www.theverge.com/tech/870643/bato-manga-piracy-site-shut-down)
  - [Sources: China has given DeepSeek approval to buy Nvidia&#39;s H200 AI chips but imposes regulatory conditions, which are still being finalized &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260130/p3#a260130p3)
  - [I’ve Tested 1,000+ Sex Toys. These 8 Are What I Always Recommend](https://www.wired.com/gallery/i-have-tested-1000-sex-toys-these-8-are-what-i-always-recommend/)
- - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/)
- - [These 7 Workout Apps Make Exercising at Home Easy in 2026](https://www.cnet.com/health/fitness/best-workout-apps/)
- - [The US government finalized forfeiture of $400M+ tied to Helix crypto mixer last week; Helix operator Larry Dean Harmon was sentenced to three years in 2024 &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/260130/p2#a260130p2)<!-- TECH:END -->
+ - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

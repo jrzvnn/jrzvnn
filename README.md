@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic details how NASA engineers used Claude to plot out the route for Perseverance rover to navigate a ~400 meter path on the Martian surface &lpar;Anthropic&rpar;](http://www.techmeme.com/260130/p22#a260130p22)
+ - [3 Great Heated Blanket Deals on My Favorite Affordable Models](https://www.wired.com/story/heated-blanket-deals-january-2026/)
  - [Widely beloved actress Catherine O&#39;Hara has passed away at age 71](https://appleinsider.com/articles/26/01/30/widely-beloved-actress-catherine-ohara-has-passed-away-at-age-71?utm_source=rss)
  - [Samsung&#39;s M8 monitor drops to $399, plus save $100 on bundle deals](https://appleinsider.com/articles/26/01/30/samsungs-m8-monitor-drops-to-399-plus-save-100-on-bundle-deals?utm_source=rss)
- - [Sources: Apple lost at least four more AI researchers in recent weeks, two of whom went to Meta and one to DeepMind; a top Siri executive left for DeepMind &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260130/p21#a260130p21)
- - [There’s a social network for AI agents, and it’s getting weird](https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw)
- - [We finally heard from Trump Mobile… and they immediately ghosted us](https://www.theverge.com/tech/870934/trump-mobile-executive-team-don-hendrickson)<!-- TECH:END -->
+ - [Sources: Apple lost at least four more AI researchers in recent weeks, two of whom went to Meta and one to DeepMind; a top Siri executive left for DeepMind &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260130/p21#a260130p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

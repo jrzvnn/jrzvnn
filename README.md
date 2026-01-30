@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poetiq, which leverages existing LLMs to create &quot;expert agents&quot; for specific tasks, and spent just $40K to achieve high ARC-AGI-2 scores, raised a $45.8M seed &lpar;Ian Krietzberg/Puck&rpar;](http://www.techmeme.com/260130/p15#a260130p15)
+ - [This DIY kit turned my favorite mechanical keyboard into my favorite electrocapacitive keyboard](https://www.theverge.com/tech/868153/dynacap-diy-electrocapacitive-keyboard-hands-on)
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
  - [Belkin’s Wemo smart devices will go offline on Saturday](https://www.theverge.com/tech/870890/belkin-wemo-cloud-services-shut-down)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [Binance says it will convert $1B in stablecoin reserves held in its SAFU into bitcoin over the next 30 days, as BTC falls to its lowest level since November &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/260130/p14#a260130p14)
- - [After Minneapolis, Tech CEOs Are Struggling to Stay Silent](https://www.wired.com/story/after-minneapolis-tech-ceos-are-struggling-to-stay-silent/)
- - [Don Lemon has been arrested for covering an anti-ICE protest](https://www.theverge.com/policy/870765/don-lemon-arrest-ice-protest)<!-- TECH:END -->
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

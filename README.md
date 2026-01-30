@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Google&#39;s Auto Browse for Chrome: its ability to perform multistep tasks is noticeably better than similar tools but struggles with complex tasks &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260130/p25#a260130p25)
- - [Anthropic details an experiment on whether AI coding tools shape developer skills, finding that the biggest performance gap appears in debugging tasks &lpar;Anthropic&rpar;](http://www.techmeme.com/260130/p24#a260130p24)
- - [What Gets You Free Netflix, Hulu and Paramount Plus? A T-Mobile Subscription, That&#39;s What](https://www.cnet.com/tech/services-and-software/t-mobile-streaming-freebies-netflix-hulu-paramount-plus/)
+ - [Sources: SpaceX generated about $8B in EBITDA on $15B to $16B of revenue last year; Starlink accounted for about 50% to 80% of the total revenue &lpar;Reuters&rpar;](http://www.techmeme.com/260130/p26#a260130p26)
+ - [Hands-on with Google&#39;s Auto Browse for Chrome: it performs multistep tasks noticeably better than similar tools but struggles with complex tasks &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260130/p25#a260130p25)
+ - [Anthropic details an experiment on whether AI coding tools shape developer skills, finding that the biggest performance decline appears in debugging tasks &lpar;Anthropic&rpar;](http://www.techmeme.com/260130/p24#a260130p24)
  - [Sonos’ Super Bowl sale knocks hundreds off its audio gear](https://www.theverge.com/gadgets/871054/sonos-super-bowl-deal-sale-era-beam-arc-ultra-sub)
  - [Some AI researchers have left Apple but that won&#39;t affect Siri&#39;s big upgrade](https://appleinsider.com/articles/26/01/30/some-ai-researchers-have-left-apple-but-that-wont-affect-siris-big-upgrade?utm_source=rss)<!-- TECH:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
+ - 😝 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
  - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
- - 💣 [He was just released for SA then he goes and SA a female detective .](http://9gag.com/gag/abADRNE)
- - 😝 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
- - 👉 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
+ - 💣 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 😝 [Artificial intelligence](http://9gag.com/gag/aW4y9E3)
+ - 👉 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)<!-- MEMES:END -->
 
 ---
 

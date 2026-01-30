@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing](https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/)
+ - [Video game company stock prices dip after Google introduces an AI world-generation tool](https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity)
  - [Record labels are catering directly to iTunes customers to bolster Billboard chart numbers](https://appleinsider.com/articles/26/01/30/record-labels-are-catering-directly-to-itunes-customers-to-bolster-billboard-chart-numbers?utm_source=rss)
  - [Disney Plus: 31 of the Best TV Shows You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/disney-plus-best-tv-shows-2026/)
- - [Sources: SpaceX generated about $8B in EBITDA on $15B to $16B of revenue last year; Starlink accounted for about 50% to 80% of the total revenue &lpar;Reuters&rpar;](http://www.techmeme.com/260130/p26#a260130p26)
- - [Hands-on with Google&#39;s Auto Browse for Chrome: it performs multistep tasks noticeably better than similar tools but struggles with complex tasks &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260130/p25#a260130p25)
- - [Your Guide to Meal Kits: The Essential Tools You&#39;ll Need to Get Started](https://www.cnet.com/health/nutrition/meal-kit-beginner-tools/)<!-- TECH:END -->
+ - [Sources: SpaceX generated about $8B in EBITDA on $15B to $16B of revenue last year; Starlink accounted for about 50% to 80% of the total revenue &lpar;Reuters&rpar;](http://www.techmeme.com/260130/p26#a260130p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

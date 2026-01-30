@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)
- - 😝 [This dude is something else](http://9gag.com/gag/aZZXz2V)
- - 💣 [That&#39;s one way to deal with paranormal](http://9gag.com/gag/aQzbOz2)
- - 😝 [RIP Catherine O&#39;Hara](http://9gag.com/gag/aXP3e1z)
- - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/aNDMjQb)
+ - 😝 [I&#39;m beginning to see a pattern here](http://9gag.com/gag/a0egwNL)
+ - 💣 [When the filter is too accurate](http://9gag.com/gag/an7ZV2b)
+ - 😝 [It will be helpful next time](http://9gag.com/gag/aByz4ON)
+ - 👉 [Xd](http://9gag.com/gag/ayNrvKW)<!-- MEMES:END -->
 
 ---
 

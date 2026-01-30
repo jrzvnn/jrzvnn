@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/aNDMjQb)
- - 😝 [I&#39;m beginning to see a pattern here](http://9gag.com/gag/a0egwNL)
- - 💣 [When the filter is too accurate](http://9gag.com/gag/an7ZV2b)
- - 😝 [It will be helpful next time](http://9gag.com/gag/aByz4ON)
- - 👉 [Xd](http://9gag.com/gag/ayNrvKW)<!-- MEMES:END -->
+ - 😝 [This dude is something else](http://9gag.com/gag/aZZXz2V)
+ - 😝 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)
+ - 💣 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 😝 [Yeah I&#39;m old. So what? Kiss my ass.](http://9gag.com/gag/aXP3ezV)
+ - 👉 [The f**k shake](http://9gag.com/gag/avyqdMb)<!-- MEMES:END -->
 
 ---
 

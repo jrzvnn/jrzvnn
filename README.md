@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Checkbox, an AI startup that aims to automate legal intake, raised a $23M Series A led by Touring Capital; Checkbox has 100+ clients, including SAP and PepsiCo &lpar;Anastasia Santoreneos/Forbes Australia&rpar;](http://www.techmeme.com/260130/p8#a260130p8)
- - [Melania documentary creators say its big price tag wasn&amp;#8217;t bribery](https://www.theverge.com/entertainment/870713/melania-amazon-documentary-bribe-accusations)
- - [Can Apple&#39;s New AirTag Track How Many Fans Tim Cook Just Lost?](https://www.cnet.com/tech/mobile/can-apples-new-airtag-track-how-many-fans-tim-cook-just-lost/)
- - [Super Bowl 2026 Ads Are Trickling Out. Here&#39;s a First Look at Teasers](https://www.cnet.com/tech/services-and-software/super-bowl-2026-ads-first-look-teasers/)
- - [I&#39;m a Pro Photographer and Xiaomi&#39;s 17 Ultra Leica Phone Looks Amazing](https://www.cnet.com/tech/mobile/im-a-pro-photographer-and-xiaomis-17-ultra-leica-phone-looks-amazing/)<!-- TECH:END -->
+ - [The Best Soundbars We’ve Tested: Sonos, Sony, Bose, and More](https://www.wired.com/gallery/best-soundbars/)
+ - [Oura CEO Tom Hale says the company has no plans to abandon its subscription model, even as rivals experiment with cheaper hardware and no recurring fees &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260130/p9#a260130p9)
+ - [I wear lots of technology for a living, ask me anything](https://www.theverge.com/column/870394/i-wear-lots-of-technology-for-a-living-ask-me-anything)
+ - [Parenting in ICE-occupied Minneapolis](https://www.theverge.com/policy/870720/ice-minneapolis-parenting-liam-conejo-ramos)
+ - [&#39;Infinite Jest&#39; Is Back. Maybe Litbros Should Be, Too](https://www.wired.com/story/infinite-jest-is-back-if-only-litbros-were-too/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OnlyFans is in talks to sell a nearly 60% stake to Architect Capital in a deal that values the company at around $5.5B, including debt &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260130/p23#a260130p23)
+ - [I Let Google&#39;s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn&#39;t Quite Click](https://www.wired.com/story/google-chrome-auto-browse-hands-on/)
  - [Very first Apple check &amp; early Apple-1 motherboard sold for $5 million combined](https://appleinsider.com/articles/26/01/30/very-first-apple-check-early-apple-1-motherboard-sold-for-5-million-combined?utm_source=rss)
  - [Fitbit users now have until May to migrate to a Google account](https://www.theverge.com/gadgets/871218/fitbit-account-migration-google-deadline-may-2026)
- - [Anthropic details how NASA engineers used Claude to plot out the route for Perseverance rover to navigate a ~400 meter path on the Martian surface &lpar;Anthropic&rpar;](http://www.techmeme.com/260130/p22#a260130p22)
- - [3 Great Heated Blanket Deals on My Favorite Affordable Models](https://www.wired.com/story/heated-blanket-deals-january-2026/)
- - [Widely beloved actress Catherine O&#39;Hara has passed away at age 71](https://appleinsider.com/articles/26/01/30/widely-beloved-actress-catherine-ohara-has-passed-away-at-age-71?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic details how NASA engineers used Claude to plot out the route for Perseverance rover to navigate a ~400 meter path on the Martian surface &lpar;Anthropic&rpar;](http://www.techmeme.com/260130/p22#a260130p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

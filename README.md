@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This sh*t can&#39;t be real right?](http://9gag.com/gag/a1mgOK2)
- - 😝 [Six Flags Texas &lpar;old&rpar;](http://9gag.com/gag/aqyMDev)
- - 💣 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)
- - 😝 [This dude is something else](http://9gag.com/gag/aZZXz2V)
- - 👉 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)<!-- MEMES:END -->
+ - 😝 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
+ - 😝 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)
+ - 💣 [This dude is something else](http://9gag.com/gag/aZZXz2V)
+ - 😝 [I mean... goku is that you](http://9gag.com/gag/a9ywBmo)
+ - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
 
 ---
 

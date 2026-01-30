@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could have used Claude to power a future Siri, but Anthropic got greedy](https://appleinsider.com/articles/26/01/30/apple-could-have-used-claude-to-power-a-future-siri-but-anthropic-got-greedy?utm_source=rss)
- - [ICE invades Minnesota and Minnesotans fight back](https://www.theverge.com/policy/870315/ice-invades-minnesota-and-minnesotans-fight-back)
- - [You can now use Nintendo’s wireless N64 controller with the Analogue 3D](https://www.theverge.com/news/870968/analogue-3d-n64-nintendo-switch-online-wireless-controller-software-update)
- - [How to import eBooks and PDFs from Messages to Apple Books](https://appleinsider.com/inside/ios-18/tips/how-to-import-ebooks-and-pdfs-from-messages-to-apple-books?utm_source=rss)
- - [Poetiq, which leverages existing LLMs to create &quot;expert agents&quot; for specific tasks, and spent just $40K to achieve high ARC-AGI-2 scores, raised a $45.8M seed &lpar;Ian Krietzberg/Puck&rpar;](http://www.techmeme.com/260130/p15#a260130p15)<!-- TECH:END -->
+ - [Gurman: internal development at Apple &quot;runs on Anthropic at this point&quot;, Apple wanted to rebuild Siri around Claude, but Anthropic&#39;s terms were too steep &lpar;@tbpn&rpar;](http://www.techmeme.com/260130/p17#a260130p17)
+ - [You can now buy Apple Store demo chargers and stands, until the lawyers attack](https://appleinsider.com/articles/26/01/30/you-can-now-buy-apple-store-demo-chargers-and-stands-until-the-lawyers-attack?utm_source=rss)
+ - [Tim Cook is destroying his own legacy](https://www.theverge.com/podcast/870717/tim-cook-melania-minneapolis-tiktok-vergecast)
+ - [Bluesky releases its first transparency report: users rose 60% in 2025 to 41.2M, including AT Protocol accounts; moderation reports from users grew 54% to 9.97M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260130/p16#a260130p16)
+ - [Apple could have used Claude to power a future Siri, but Anthropic got greedy](https://appleinsider.com/articles/26/01/30/apple-could-have-used-claude-to-power-a-future-siri-but-anthropic-got-greedy?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

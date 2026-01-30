@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gurman: internal development at Apple &quot;runs on Anthropic at this point&quot;, Apple wanted to rebuild Siri around Claude, but Anthropic&#39;s terms were too steep &lpar;@tbpn&rpar;](http://www.techmeme.com/260130/p17#a260130p17)
- - [You can now buy Apple Store demo chargers and stands, until the lawyers attack](https://appleinsider.com/articles/26/01/30/you-can-now-buy-apple-store-demo-chargers-and-stands-until-the-lawyers-attack?utm_source=rss)
- - [Tim Cook is destroying his own legacy](https://www.theverge.com/podcast/870717/tim-cook-melania-minneapolis-tiktok-vergecast)
- - [Bluesky releases its first transparency report: users rose 60% in 2025 to 41.2M, including AT Protocol accounts; moderation reports from users grew 54% to 9.97M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260130/p16#a260130p16)
- - [Apple could have used Claude to power a future Siri, but Anthropic got greedy](https://appleinsider.com/articles/26/01/30/apple-could-have-used-claude-to-power-a-future-siri-but-anthropic-got-greedy?utm_source=rss)<!-- TECH:END -->
+ - [Dyson’s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today](https://www.theverge.com/gadgets/870256/dyson-360-vis-nav-robot-vacuum-lego-lotr-balrog-deal-sale)
+ - [Shares of major gaming companies plunge after Google released Project Genie, which lets users create interactive worlds; Unity is down ~21% and Take-Two ~10% &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260130/p20#a260130p20)
+ - [Give us some &#39;Sugar&#39; - Neo-noir detective drama sneaks back onto Apple TV in June](https://appleinsider.com/articles/26/01/30/give-us-some-sugar---neo-noir-detective-drama-sneaks-back-onto-apple-tv-in-june?utm_source=rss)
+ - [A look at Moltbook, a social network where OpenClaw assistants interact autonomously, as they discuss consciousness and identity, technical tips, and more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260130/p19#a260130p19)
+ - [Anthropic expands its agentic plugins, which let enterprise users automate department-specific workflows, from Claude Code to its new general-use tool Cowork &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260130/p18#a260130p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

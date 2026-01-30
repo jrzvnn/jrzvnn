@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viome Full Body Intelligence Test Review: Little Clarity, Pricey Supplements](https://www.wired.com/review/viome-full-body-intelligence-test/)
- - [NAD+ Supplement 101: Possible Benefits and Precautions Explained &lpar;2026&rpar;](https://www.wired.com/story/nad-supplement-101/)
- - [The small film that answers the big questions](https://www.theverge.com/entertainment/870138/hlynur-palmason-the-love-that-remains-interview)
- - [France blocks Eutelsat&#39;s ~€550M sale of its ground antenna business to EQT, calling it Europe&#39;s only Starlink competitor; France has a 29.6% stake in Eutelsat &lpar;Financial Times&rpar;](http://www.techmeme.com/260130/p6#a260130p6)
- - [HigherDose Red Light Hat Review: Scalp Savior &lpar;2026&rpar;](https://www.wired.com/review/higherdose-red-light-hat/)<!-- TECH:END -->
+ - [Checkbox, an AI startup that aims to automate legal intake, raised a $23M Series A led by Touring Capital; Checkbox has 100+ clients, including SAP and PepsiCo &lpar;Anastasia Santoreneos/Forbes Australia&rpar;](http://www.techmeme.com/260130/p8#a260130p8)
+ - [Melania documentary creators say its big price tag wasn&amp;#8217;t bribery](https://www.theverge.com/entertainment/870713/melania-amazon-documentary-bribe-accusations)
+ - [Can Apple&#39;s New AirTag Track How Many Fans Tim Cook Just Lost?](https://www.cnet.com/tech/mobile/can-apples-new-airtag-track-how-many-fans-tim-cook-just-lost/)
+ - [Super Bowl 2026 Ads Are Trickling Out. Here&#39;s a First Look at Teasers](https://www.cnet.com/tech/services-and-software/super-bowl-2026-ads-first-look-teasers/)
+ - [I&#39;m a Pro Photographer and Xiaomi&#39;s 17 Ultra Leica Phone Looks Amazing](https://www.cnet.com/tech/mobile/im-a-pro-photographer-and-xiaomis-17-ultra-leica-phone-looks-amazing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

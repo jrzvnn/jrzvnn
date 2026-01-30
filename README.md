@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
- - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 💣 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 😝 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
- - 👉 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)<!-- MEMES:END -->
+ - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 😝 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
+ - 💣 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
+ - 😝 [This dude is something else](http://9gag.com/gag/aZZXz2V)
+ - 👉 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China has given DeepSeek approval to buy Nvidia&#39;s H200 AI chips but imposes regulatory conditions, which are still being finalized &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260130/p3#a260130p3)
+ - [I’ve Tested 1,000+ Sex Toys. These 8 Are What I Always Recommend](https://www.wired.com/gallery/i-have-tested-1000-sex-toys-these-8-are-what-i-always-recommend/)
+ - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/)
  - [These 7 Workout Apps Make Exercising at Home Easy in 2026](https://www.cnet.com/health/fitness/best-workout-apps/)
- - [The US government finalized forfeiture of $400M+ tied to Helix crypto mixer last week; Helix operator Larry Dean Harmon was sentenced to three years in 2024 &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/260130/p2#a260130p2)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-30/)
- - [Google&#39;s experience in India has become a proving ground to scale AI in education, as the country accounts for the highest global usage of Gemini for learning &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260130/p1#a260130p1)
- - [Filing: Chinese AI chipmaker Axera, which focuses on AI inference SoCs for on-device and edge computing, aims to raise up to ~$379.2M in a Hong Kong IPO &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p61#a260129p61)<!-- TECH:END -->
+ - [The US government finalized forfeiture of $400M+ tied to Helix crypto mixer last week; Helix operator Larry Dean Harmon was sentenced to three years in 2024 &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/260130/p2#a260130p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

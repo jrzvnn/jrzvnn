@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Difference between men and women](http://9gag.com/gag/aQzbONe)
- - 😝 [Xd](http://9gag.com/gag/ayNrvKW)
- - 💣 [Ever wondered how electric motors are manufactured?](http://9gag.com/gag/a4Pgw0Z)
- - 😝 [I miss my junior days. And my senior days as well](http://9gag.com/gag/avyq91b)
- - 👉 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)<!-- MEMES:END -->
+ - 😝 [Modern problems require modern solutions](http://9gag.com/gag/aZZXz5X)
+ - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 💣 [You mad bro?](http://9gag.com/gag/amoQpYo)
+ - 😝 [He was just released for SA then he goes and SA a female detective .](http://9gag.com/gag/abADRNE)
+ - 👉 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - 😝 [This sh*t can&#39;t be real right?](http://9gag.com/gag/a1mgOK2)
  - 😝 [This dude is something else](http://9gag.com/gag/aZZXz2V)
- - 💣 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 😝 [I mean... goku is that you](http://9gag.com/gag/a9ywBmo)
- - 👉 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)<!-- MEMES:END -->
+ - 💣 [That&#39;s one way to deal with paranormal](http://9gag.com/gag/aQzbOz2)
+ - 😝 [Share your best gif](http://9gag.com/gag/ae9zWxW)
+ - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
 
 ---
 

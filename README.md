@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Costco will use Instacart&#39;s white-label e-commerce service to offer grocery delivery in Spain and France, extending their partnership beyond North America &lpar;Bloomberg&rpar;](http://www.techmeme.com/260130/p10#a260130p10)
- - [6 Best Beard Trimmers &lpar;2026&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
- - [iPhone 18 split launch strategy is about more than marketing](https://appleinsider.com/articles/26/01/30/iphone-18-split-launch-strategy-is-about-more-than-marketing?utm_source=rss)
- - [Amid record revenue, Apple&#39;s Q1 2026 R&amp;D spend reveals its AI ambitions](https://appleinsider.com/articles/26/01/30/amid-record-revenue-apples-q1-2026-rd-spend-reveals-its-ai-ambitions?utm_source=rss)
- - [The Best Soundbars We’ve Tested: Sonos, Sony, Bose, and More](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
+ - [Peter Steinberger rebrands his AI agent project to OpenClaw, its second name change after Anthropic forced a shift from Clawdbot to Moltbot &lpar;Ron Schmelzer/Forbes&rpar;](http://www.techmeme.com/260130/p12#a260130p12)
+ - [Sources: Granola, which makes an AI-based note-taking app, aims to raise $100M+ led by Index Ventures at a $1B+ valuation, up from a $250M valuation in May 2025 &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260130/p11#a260130p11)
+ - [Who’s afraid of the new TikTok?](https://www.theverge.com/tech/870543/tiktok-us-ownership-oracle-algorithm-trust)
+ - [Apple’s sci-fi detective show Sugar is coming back in June](https://www.theverge.com/streaming/870721/sugar-season-2-apple-tv-date)
+ - [Apple Creator Studio, ChatGPT health, and iPhone 18 rumors on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/30/apple-creator-studio-chatgpt-health-and-iphone-18-rumors-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

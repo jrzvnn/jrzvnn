@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia](https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia)
- - [A nice upgrade for Apple’s simplest gadget](https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer)
- - [Protesting ICE Today? Prepare Yourself &lpar;and Your Phone&rpar; for Maximum Safety](https://www.cnet.com/culture/how-to-stay-safe-while-protesting/)
- - [Our Testing Revealed These Are the Best AI Video Generators of 2026](https://www.cnet.com/tech/services-and-software/best-ai-video-generators/)
- - [Have an Air Purifier? This Is the One Thing You’re Doing Wrong](https://www.cnet.com/home/kitchen-and-household/one-thing-do-air-purifier-before-turning-on/)<!-- TECH:END -->
+ - [When Is the WWE Royal Rumble 2026? Start Time, Where to Watch, Match Card and Confirmed Entrants](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)
+ - [Cassette Boy forces you to see its world in a whole new way](https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch)
+ - [I Tested 6 Frozen Fries in the Air Fryer. The Winner Cost Just $3 a Bag](https://www.cnet.com/news/we-ranked-the-best-frozen-french-fries-to-make-in-an-air-fryer/)
+ - [The Surprising Way Most Coffee Professionals Brew Their Morning Pots](https://www.cnet.com/news/best-way-brew-coffee/)
+ - [Apple&#39;s New Lip-Reading Tech Is a Weird Signal of Where We&#39;re Heading](https://www.cnet.com/tech/services-and-software/apple-qai-acquisition-lip-reading-tech-wearables/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

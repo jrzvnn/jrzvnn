@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Nvidia&#39;s senior VP of hardware engineering, Andrew Bell, on continuing to provide Shield Android TV software updates a decade after its launch &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/260131/p16#a260131p16)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 1 #700](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-1-700/)
  - [Today&#39;s Wordle Hints, Answer and Help for Feb. 1, #1688](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-1-1688/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 1, #966](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-1-966/)
- - [Sources: Waymo nears a $16B round, valuing it at $110B; Alphabet will contribute $12B+, with a16z, Dragoneer, Mubadala, Sequoia, and DST Global participating &lpar;Financial Times&rpar;](http://www.techmeme.com/260131/p15#a260131p15)
- - [“No more Minnesota nice, Minneapolis will strike”](https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest)<!-- TECH:END -->
+ - [Sources: Waymo nears a $16B round, valuing it at $110B; Alphabet will contribute $12B+, with a16z, Dragoneer, Mubadala, Sequoia, and DST Global participating &lpar;Financial Times&rpar;](http://www.techmeme.com/260131/p15#a260131p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

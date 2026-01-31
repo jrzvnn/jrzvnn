@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Premier League Soccer 2026: Stream Leeds vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-leeds-vs-arsenal/)
+ - [Best Mirrorless Cameras &lpar;2026&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
+ - [The 24 Best Movies on Amazon Prime, WIRED&#39;s Picks &lpar;February 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [Global Energy Monitor: over 97 GW of gas-fired power in the US pipeline were explicitly earmarked for data centers in 2025, compared with just 4 GW in 2024 &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/260131/p8#a260131p8)
- - [5 Best Touchscreen Gloves &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-touchscreen-gloves/)
- - [Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims](https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/)
- - [Gear News of the Week: Samsung’s TriFold Sells Out in Minutes, and a Leak Teases Google’s New OS](https://www.wired.com/story/gear-news-of-the-week-samsungs-trifold-sells-out-in-minutes-and-a-leak-teases-googles-new-os/)
- - [How to Film ICE](https://www.wired.com/story/how-to-film-ice/)<!-- TECH:END -->
+ - [5 Best Touchscreen Gloves &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-touchscreen-gloves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

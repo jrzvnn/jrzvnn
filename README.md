@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals](https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale)
+ - [I Tested the New AirTag and Found That Apple More Than Doubled Its Range](https://www.cnet.com/tech/mobile/airtag-2-review/)
  - [Nvidia CEO Jensen Huang said the company will &quot;absolutely&quot; be involved in OpenAI&#39;s current funding round, though the investment will be &quot;nothing like&quot; $100B &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260131/p10#a260131p10)
  - [Q&amp;A with AMD CTO Mark Papermaster, who says AMD is the first customer for TSMC&#39;s 2nm process, on AMD&#39;s rise since he joined in 2011, AI in chip design, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/260131/p9#a260131p9)
- - [When Is the WWE Royal Rumble 2026? Start Time, Where to Watch, Match Card and Confirmed Entrants](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)
- - [Cassette Boy forces you to see its world in a whole new way](https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch)<!-- TECH:END -->
+ - [When Is the WWE Royal Rumble 2026? Start Time, Where to Watch, Match Card and Confirmed Entrants](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

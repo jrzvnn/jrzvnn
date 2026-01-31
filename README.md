@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Even though Moltbook has security risks and a lot of spam, the scale of nearly 150,000 autonomous AI agents interacting with each other is unprecedented &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260130/p35#a260130p35)
+ - [A look at South Park Commons, the VC firm behind a startup community focusing on idea exploration over immediate business plans, as it aims to raise $500M &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260130/p34#a260130p34)
+ - [Senate passes budget with two more weeks of Homeland Security funding](https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding)
  - [A US judge says her &quot;tentative view&quot; is to grant OpenAI&#39;s motion to dismiss xAI&#39;s lawsuit accusing OpenAI of stealing trade secrets by poaching xAI employees &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260130/p33#a260130p33)
- - [Ripple co-founder Chris Larsen and crypto evangelist Tim Draper plan to spend millions this year on an effort to elect moderate California legislators &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260130/p32#a260130p32)
- - [Report: Jensen Huang has privately criticized what he has described as a lack of discipline in OpenAI&#39;s business approach &lpar;Fabiola Arámburo/Reuters&rpar;](http://www.techmeme.com/260130/p31#a260130p31)
- - [Indian e-commerce platform Meesho reports Q3 net loss of Rs. 4.91B, or $53.4M, up from Rs. 374.3M a year ago, in its first earnings report since its IPO &lpar;Komal Salecha/Reuters&rpar;](http://www.techmeme.com/260130/p30#a260130p30)
- - [Jeffrey Epstein was permanently banned from Xbox Live](https://www.theverge.com/tech/871425/jeffrey-epstein-xbox-live-ban-microsoft-sex-offender)<!-- TECH:END -->
+ - [Ripple co-founder Chris Larsen and crypto evangelist Tim Draper plan to spend millions this year on an effort to elect moderate California legislators &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260130/p32#a260130p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

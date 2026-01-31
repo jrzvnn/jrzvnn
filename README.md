@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And they have the audacity to say: `wE gOttA sAvE THe eNvirONMEnt ! dO yOuR PArt` Fycking hypocrites](http://9gag.com/gag/azxy4Bq)
  - 😝 [Six Flags Texas &lpar;old&rpar;](http://9gag.com/gag/aqyMDev)
- - 💣 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)
- - 😝 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
- - 👉 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)<!-- MEMES:END -->
+ - 😝 [Revulsion](http://9gag.com/gag/aKGZKej)
+ - 💣 [No comments](http://9gag.com/gag/azxyQ6b)
+ - 😝 [Guess I&#39;m a dog person now](http://9gag.com/gag/agm9dNn)
+ - 👉 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
- - 😝 [He was just released for SA then he goes and SA a female detective .](http://9gag.com/gag/abADRNE)
- - 💣 [Imagine his wife know it](http://9gag.com/gag/avyqD8E)
- - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
- - 👉 [Korean Invasion](http://9gag.com/gag/a9ywVp6)<!-- MEMES:END -->
+ - 😝 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
+ - 😝 [Imagine his wife know it](http://9gag.com/gag/avyqD8E)
+ - 💣 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 😝 [And yet it does, and too many will be offended.](http://9gag.com/gag/a0egWLZ)
+ - 👉 [He was just released for SA then he goes and SA a female detective .](http://9gag.com/gag/abADRNE)<!-- MEMES:END -->
 
 ---
 

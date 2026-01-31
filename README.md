@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Axolotis out of their tanks](http://9gag.com/gag/aqyMD0p)
- - 😝 [Imagine his wife know it](http://9gag.com/gag/avyqD8E)
- - 💣 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
- - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
+ - 😝 [I mean... goku is that you](http://9gag.com/gag/a9ywBmo)
+ - 😝 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
+ - 💣 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
+ - 😝 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
  - 👉 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)<!-- MEMES:END -->
 
 ---

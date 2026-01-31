@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her shirt says just the tip I promise](http://9gag.com/gag/ae9zWDm)
- - 😝 [And they have the audacity to say: `wE gOttA sAvE THe eNvirONMEnt ! dO yOuR PArt` Fycking hypocrites](http://9gag.com/gag/azxy4Bq)
- - 💣 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)
- - 😝 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
- - 👉 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)<!-- MEMES:END -->
+ - 😝 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)
+ - 😝 [Revulsion](http://9gag.com/gag/aKGZKej)
+ - 💣 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
+ - 😝 [Well, actually](http://9gag.com/gag/awyj8px)
+ - 👉 [He was just released for SA then he goes and SA a female detective .](http://9gag.com/gag/abADRNE)<!-- MEMES:END -->
 
 ---
 

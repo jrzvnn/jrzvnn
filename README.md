@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off LG Promo Code &amp; Coupons | February 2026](https://www.wired.com/story/lg-promo-code/)
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in February](https://www.wired.com/story/att-promo-code/)
- - [Taiwan&#39;s GDP rose 12.68% in Q4 2025, its fastest quarterly growth since 1987; full-year GDP grew 8.63%, topping the 7.5% forecast on AI demand for tech products &lpar;Bloomberg&rpar;](http://www.techmeme.com/260131/p2#a260131p2)
- - [NordVPN Coupons and Deals: 77% Off in February 2026](https://www.wired.com/story/nordvpn-coupon/)
- - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
+ - [Global Net: three Chinese firms ranked among the world&#39;s top 20 chipmaking equipment manufacturers in 2025, up from one in 2022, with Naura Tech rising to fifth &lpar;Fumie Yaku/Nikkei Asia&rpar;](http://www.techmeme.com/260131/p5#a260131p5)
+ - [TechCreate&#39;s shares surged ~1,995% in the past week; the payment software company says it is not aware of any info that would account for the trading activity &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260131/p4#a260131p4)
+ - [Sandisk and Kioxia announce a five-year extension of their JV manufacturing contract from 2029 to 2034; the new deal involves SanDisk paying Kioxia $1.165B &lpar;Ryo Mukano/Nikkei Asia&rpar;](http://www.techmeme.com/260131/p3#a260131p3)
+ - [Nomad Goods Promo Codes: 25% Off | February 2026](https://www.wired.com/story/nomad-discount-code/)
+ - [Factor Promo Code: 50% Off Off Meal Prep](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Six Flags Texas &lpar;old&rpar;](http://9gag.com/gag/aqyMDev)
  - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 💣 [This sh*t can&#39;t be real right?](http://9gag.com/gag/a1mgOK2)
- - 😝 [For what](http://9gag.com/gag/a0egxLd)
- - 👉 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)<!-- MEMES:END -->
+ - 😝 [Revulsion](http://9gag.com/gag/aKGZKej)
+ - 💣 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)
+ - 😝 [Home Alone mom has passed](http://9gag.com/gag/a6Zgx7q)
+ - 👉 [The f**k shake](http://9gag.com/gag/avyqdMb)<!-- MEMES:END -->
 
 ---
 

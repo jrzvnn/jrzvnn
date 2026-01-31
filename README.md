@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Waymo nears a $16B round, valuing it at $110B; Alphabet will contribute $12B+, with a16z, Dragoneer, Mubadala, Sequoia, and DST Global participating &lpar;Financial Times&rpar;](http://www.techmeme.com/260131/p15#a260131p15)
  - [“No more Minnesota nice, Minneapolis will strike”](https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest)
  - [Onnit&#39;s Instant Melatonin Spray Keeps Bedtime Uncomplicated](https://www.wired.com/story/onnit-instant-melatonin-spray-rave/)
  - [SpaceX wants to put 1 million solar-powered data centers into orbit](https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit)
- - [Bitcoin has fallen to ~$78K, down ~7% in 24 hours, over 12% in the past week, and down ~37% since its ATH in Oct. 2025; Ethereum dropped ~18% in the past week &lpar;Bloomberg&rpar;](http://www.techmeme.com/260131/p14#a260131p14)
- - [Online Apple Store makes buying a Mac more like buying an iPhone](https://appleinsider.com/articles/26/01/31/online-apple-store-makes-buying-a-mac-more-like-buying-an-iphone?utm_source=rss)<!-- TECH:END -->
+ - [Bitcoin has fallen to ~$78K, down ~7% in 24 hours, over 12% in the past week, and down ~37% since its ATH in Oct. 2025; Ethereum dropped ~18% in the past week &lpar;Bloomberg&rpar;](http://www.techmeme.com/260131/p14#a260131p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

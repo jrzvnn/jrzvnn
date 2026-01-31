@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Axolotis out of their tanks](http://9gag.com/gag/aqyMD0p)
  - 😝 [Imagine his wife know it](http://9gag.com/gag/avyqD8E)
- - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
- - 💣 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
+ - 💣 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
  - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
- - 👉 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)<!-- MEMES:END -->
+ - 👉 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)<!-- MEMES:END -->
 
 ---
 

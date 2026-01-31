@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Imagine his wife know it](http://9gag.com/gag/avyqD8E)
  - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
- - 😝 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
- - 💣 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
- - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
+ - 💣 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
+ - 😝 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
  - 👉 [Korean Invasion](http://9gag.com/gag/a9ywVp6)<!-- MEMES:END -->
 
 ---

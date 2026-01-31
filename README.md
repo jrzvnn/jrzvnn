@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)
+ - 😝 [Her shirt says just the tip I promise](http://9gag.com/gag/ae9zWDm)
  - 😝 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)
- - 💣 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
- - 😝 [The earth a wity little planet](http://9gag.com/gag/aZZXdw9)
- - 👉 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)<!-- MEMES:END -->
+ - 💣 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
+ - 😝 [My friends: cant wait for weekend to party! Me on weekend:](http://9gag.com/gag/aAyAmm9)
+ - 👉 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)<!-- MEMES:END -->
 
 ---
 

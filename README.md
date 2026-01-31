@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton lays off 11 percent of its staff just a few months after launching its AI hardware](https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026)
- - [Tether says it generated over $10B in net profits in 2025, down from $13B+ in 2024, and says it holds $193B in assets backing the $186B USDT in circulation &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260130/p28#a260130p28)
- - [Clawdbot, Moltbot, OpenClaw? The Wild Ride of This Viral AI Agent](https://www.cnet.com/tech/services-and-software/from-clawdbot-to-moltbot-to-openclaw/)
- - [10 Movies Coming to Netflix in February 2026 That You Won&#39;t Want to Miss](https://www.cnet.com/tech/services-and-software/10-movies-coming-to-netflix-in-february-2026-that-you-wont-want-to-miss/)
- - [A look at the clash between Coinbase and Wall Street over the Clarity Act and whether crypto exchanges can offer stablecoin &quot;rewards&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260130/p27#a260130p27)<!-- TECH:END -->
+ - [A US judge says her &quot;tentative view&quot; is to grant OpenAI&#39;s motion to dismiss xAI&#39;s lawsuit accusing OpenAI of stealing trade secrets by poaching xAI employees &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260130/p33#a260130p33)
+ - [Ripple co-founder Chris Larsen and crypto evangelist Tim Draper plan to spend millions this year on an effort to elect moderate California legislators &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260130/p32#a260130p32)
+ - [Report: Jensen Huang has privately criticized what he has described as a lack of discipline in OpenAI&#39;s business approach &lpar;Fabiola Arámburo/Reuters&rpar;](http://www.techmeme.com/260130/p31#a260130p31)
+ - [Indian e-commerce platform Meesho reports Q3 net loss of Rs. 4.91B, or $53.4M, up from Rs. 374.3M a year ago, in its first earnings report since its IPO &lpar;Komal Salecha/Reuters&rpar;](http://www.techmeme.com/260130/p30#a260130p30)
+ - [Jeffrey Epstein was permanently banned from Xbox Live](https://www.theverge.com/tech/871425/jeffrey-epstein-xbox-live-ban-microsoft-sex-offender)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

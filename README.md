@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global Energy Monitor: over 97 GW of gas-fired power in the US pipeline were explicitly earmarked for data centers in 2025, compared with just 4 GW in 2024 &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/260131/p8#a260131p8)
+ - [5 Best Touchscreen Gloves &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-touchscreen-gloves/)
+ - [Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims](https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/)
  - [Gear News of the Week: Samsung’s TriFold Sells Out in Minutes, and a Leak Teases Google’s New OS](https://www.wired.com/story/gear-news-of-the-week-samsungs-trifold-sells-out-in-minutes-and-a-leak-teases-googles-new-os/)
- - [How to Film ICE](https://www.wired.com/story/how-to-film-ice/)
- - [I Don&#39;t Like Turning on My Big Oven. This iQ MiniOven Is My Secret Weapon](https://www.cnet.com/deals/chef-iq-mini-oven-review/)
- - [The latest Instax printer is a pricey but worthy upgrade](https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos)
- - [Q&amp;A with Gokul Rajaram, investor and a former product leader at Google, Meta, and others, on AI changing product development, building ad businesses, and more &lpar;Patrick O&#39;Shaughnessy/Invest Like The Best on YouTube&rpar;](http://www.techmeme.com/260131/p7#a260131p7)<!-- TECH:END -->
+ - [How to Film ICE](https://www.wired.com/story/how-to-film-ice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

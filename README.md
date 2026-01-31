@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 1 #700](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-1-700/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 1, #1688](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-1-1688/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 1, #966](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-1-966/)
  - [Sources: Waymo nears a $16B round, valuing it at $110B; Alphabet will contribute $12B+, with a16z, Dragoneer, Mubadala, Sequoia, and DST Global participating &lpar;Financial Times&rpar;](http://www.techmeme.com/260131/p15#a260131p15)
- - [“No more Minnesota nice, Minneapolis will strike”](https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest)
- - [Onnit&#39;s Instant Melatonin Spray Keeps Bedtime Uncomplicated](https://www.wired.com/story/onnit-instant-melatonin-spray-rave/)
- - [SpaceX wants to put 1 million solar-powered data centers into orbit](https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit)
- - [Bitcoin has fallen to ~$78K, down ~7% in 24 hours, over 12% in the past week, and down ~37% since its ATH in Oct. 2025; Ethereum dropped ~18% in the past week &lpar;Bloomberg&rpar;](http://www.techmeme.com/260131/p14#a260131p14)<!-- TECH:END -->
+ - [“No more Minnesota nice, Minneapolis will strike”](https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

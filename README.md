@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the music industry is split over AI; some labels signed licensing deals for AI that mirror revenue splits they use with YouTube for user-generated content &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/260131/p13#a260131p13)
  - [Filing: SpaceX is seeking FCC approval to launch 1M satellites into space; SpaceX claims the fleet will orbit the Earth and use the sun to power AI data centers &lpar;Reuters&rpar;](http://www.techmeme.com/260131/p12#a260131p12)
  - [Best Vitamins to Get Healthier Hair, Skin and Nails in 2026](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/)
  - [Miami-based Indigo, which uses AI-powered underwriting tech to provide medical liability insurance to physicians, raised a $50M Series B led by Rubicon Founders &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/260131/p11#a260131p11)
- - [La Liga Soccer: Stream Elche vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-elche-vs-barcelona-live-from-anywhere/)
- - [HDMI ARC and eARC: Audio Return Channel Explained](https://www.cnet.com/tech/home-entertainment/hdmi-audio-return-channel-and-earc-for-beginners/)<!-- TECH:END -->
+ - [La Liga Soccer: Stream Elche vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-elche-vs-barcelona-live-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

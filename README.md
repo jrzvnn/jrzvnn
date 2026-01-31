@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals](https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale)
- - [I Tested the New AirTag and Found That Apple More Than Doubled Its Range](https://www.cnet.com/tech/mobile/airtag-2-review/)
- - [Nvidia CEO Jensen Huang said the company will &quot;absolutely&quot; be involved in OpenAI&#39;s current funding round, though the investment will be &quot;nothing like&quot; $100B &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260131/p10#a260131p10)
- - [Q&amp;A with AMD CTO Mark Papermaster, who says AMD is the first customer for TSMC&#39;s 2nm process, on AMD&#39;s rise since he joined in 2011, AI in chip design, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/260131/p9#a260131p9)
- - [When Is the WWE Royal Rumble 2026? Start Time, Where to Watch, Match Card and Confirmed Entrants](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)<!-- TECH:END -->
+ - [Miami-based Indigo, which uses AI-powered underwriting tech to provide medical liability insurance to physicians, raised a $50M Series B led by Rubicon Founders &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/260131/p11#a260131p11)
+ - [La Liga Soccer: Stream Elche vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-elche-vs-barcelona-live-from-anywhere/)
+ - [HDMI ARC and eARC: Audio Return Channel Explained](https://www.cnet.com/tech/home-entertainment/hdmi-audio-return-channel-and-earc-for-beginners/)
+ - [How to Perfectly Steam Your Vegetables in an Instant Pot, According to a Chef](https://www.cnet.com/home/kitchen-and-household/how-steam-vegetables-instant-pot/)
+ - [The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals](https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

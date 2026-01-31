@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 😝 [Revulsion](http://9gag.com/gag/aKGZKej)
- - 💣 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)
- - 😝 [Home Alone mom has passed](http://9gag.com/gag/a6Zgx7q)
- - 👉 [The f**k shake](http://9gag.com/gag/avyqdMb)<!-- MEMES:END -->
+ - 😝 [It will be helpful next time](http://9gag.com/gag/aByz4ON)
+ - 😝 [Thanos](http://9gag.com/gag/aByzovZ)
+ - 💣 [When the filter is too accurate](http://9gag.com/gag/an7ZV2b)
+ - 😝 [I would binge watch the whole season.](http://9gag.com/gag/azxyQ2z)
+ - 👉 [Chicken Shawarma](http://9gag.com/gag/an7ZVZo)<!-- MEMES:END -->
 
 ---
 

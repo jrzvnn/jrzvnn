@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI details its custom internal-only GPT‑5.2-powered AI data agent that allows its employees to do natural language data analysis across 600+ PB of data &lpar;OpenAI&rpar;](http://www.techmeme.com/260131/p1#a260131p1)
- - [Even though Moltbook has security risks and a lot of spam, the scale of nearly 150,000 autonomous AI agents interacting with each other is unprecedented &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260130/p35#a260130p35)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-31/)
- - [A look at South Park Commons, the VC firm behind a startup community focusing on idea exploration over immediate business plans, as it aims to raise $500M &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260130/p34#a260130p34)
- - [Senate passes budget with two more weeks of Homeland Security funding](https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding)<!-- TECH:END -->
+ - [20% Off LG Promo Code &amp; Coupons | February 2026](https://www.wired.com/story/lg-promo-code/)
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in February](https://www.wired.com/story/att-promo-code/)
+ - [Taiwan&#39;s GDP rose 12.68% in Q4 2025, its fastest quarterly growth since 1987; full-year GDP grew 8.63%, topping the 7.5% forecast on AI demand for tech products &lpar;Bloomberg&rpar;](http://www.techmeme.com/260131/p2#a260131p2)
+ - [NordVPN Coupons and Deals: 77% Off in February 2026](https://www.wired.com/story/nordvpn-coupon/)
+ - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

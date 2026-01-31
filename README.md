@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with AMD CTO Mark Papermaster, who says AMD is the first customer for TSMC&#39;s 2nm process, on AMD&#39;s rise since he joined in 2011, AI in chip design, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/260131/p9#a260131p9)
  - [When Is the WWE Royal Rumble 2026? Start Time, Where to Watch, Match Card and Confirmed Entrants](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)
  - [Cassette Boy forces you to see its world in a whole new way](https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch)
  - [I Tested 6 Frozen Fries in the Air Fryer. The Winner Cost Just $3 a Bag](https://www.cnet.com/news/we-ranked-the-best-frozen-french-fries-to-make-in-an-air-fryer/)
- - [The Surprising Way Most Coffee Professionals Brew Their Morning Pots](https://www.cnet.com/news/best-way-brew-coffee/)
- - [Apple&#39;s New Lip-Reading Tech Is a Weird Signal of Where We&#39;re Heading](https://www.cnet.com/tech/services-and-software/apple-qai-acquisition-lip-reading-tech-wearables/)<!-- TECH:END -->
+ - [The Surprising Way Most Coffee Professionals Brew Their Morning Pots](https://www.cnet.com/news/best-way-brew-coffee/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

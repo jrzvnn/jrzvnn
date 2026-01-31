@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gear News of the Week: Samsung’s TriFold Sells Out in Minutes, and a Leak Teases Google’s New OS](https://www.wired.com/story/gear-news-of-the-week-samsungs-trifold-sells-out-in-minutes-and-a-leak-teases-googles-new-os/)
  - [How to Film ICE](https://www.wired.com/story/how-to-film-ice/)
+ - [I Don&#39;t Like Turning on My Big Oven. This iQ MiniOven Is My Secret Weapon](https://www.cnet.com/deals/chef-iq-mini-oven-review/)
  - [The latest Instax printer is a pricey but worthy upgrade](https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos)
- - [Q&amp;A with Gokul Rajaram, investor and a former product leader at Google, Meta, and others, on AI changing product development, building ad businesses, and more &lpar;Patrick O&#39;Shaughnessy/Invest Like The Best on YouTube&rpar;](http://www.techmeme.com/260131/p7#a260131p7)
- - [Ant Group reports 30M MAUs for its AI health chatbot Ant Afu, which integrates appointments, test analysis, and insurance payments within Alipay&#39;s ecosystem &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260131/p6#a260131p6)
- - [Global Net: three Chinese firms ranked among the world&#39;s top 20 chipmaking equipment manufacturers in 2025, up from one in 2022, with Naura Tech rising to fifth &lpar;Fumie Yaku/Nikkei Asia&rpar;](http://www.techmeme.com/260131/p5#a260131p5)<!-- TECH:END -->
+ - [Q&amp;A with Gokul Rajaram, investor and a former product leader at Google, Meta, and others, on AI changing product development, building ad businesses, and more &lpar;Patrick O&#39;Shaughnessy/Invest Like The Best on YouTube&rpar;](http://www.techmeme.com/260131/p7#a260131p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

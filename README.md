@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia CEO Jensen Huang said the company will &quot;absolutely&quot; be involved in OpenAI&#39;s current funding round, though the investment will be &quot;nothing like&quot; $100B &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260131/p10#a260131p10)
  - [Q&amp;A with AMD CTO Mark Papermaster, who says AMD is the first customer for TSMC&#39;s 2nm process, on AMD&#39;s rise since he joined in 2011, AI in chip design, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/260131/p9#a260131p9)
  - [When Is the WWE Royal Rumble 2026? Start Time, Where to Watch, Match Card and Confirmed Entrants](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)
  - [Cassette Boy forces you to see its world in a whole new way](https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch)
- - [I Tested 6 Frozen Fries in the Air Fryer. The Winner Cost Just $3 a Bag](https://www.cnet.com/news/we-ranked-the-best-frozen-french-fries-to-make-in-an-air-fryer/)
- - [The Surprising Way Most Coffee Professionals Brew Their Morning Pots](https://www.cnet.com/news/best-way-brew-coffee/)<!-- TECH:END -->
+ - [I Tested 6 Frozen Fries in the Air Fryer. The Winner Cost Just $3 a Bag](https://www.cnet.com/news/we-ranked-the-best-frozen-french-fries-to-make-in-an-air-fryer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

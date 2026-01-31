@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premier League Soccer 2026: Stream Leeds vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-leeds-vs-arsenal/)
- - [Best Mirrorless Cameras &lpar;2026&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
- - [The 24 Best Movies on Amazon Prime, WIRED&#39;s Picks &lpar;February 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [Global Energy Monitor: over 97 GW of gas-fired power in the US pipeline were explicitly earmarked for data centers in 2025, compared with just 4 GW in 2024 &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/260131/p8#a260131p8)
- - [5 Best Touchscreen Gloves &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-touchscreen-gloves/)<!-- TECH:END -->
+ - [ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia](https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia)
+ - [A nice upgrade for Apple’s simplest gadget](https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer)
+ - [Protesting ICE Today? Prepare Yourself &lpar;and Your Phone&rpar; for Maximum Safety](https://www.cnet.com/culture/how-to-stay-safe-while-protesting/)
+ - [Our Testing Revealed These Are the Best AI Video Generators of 2026](https://www.cnet.com/tech/services-and-software/best-ai-video-generators/)
+ - [Have an Air Purifier? This Is the One Thing You’re Doing Wrong](https://www.cnet.com/home/kitchen-and-household/one-thing-do-air-purifier-before-turning-on/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

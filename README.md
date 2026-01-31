@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
  - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
- - 💣 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
- - 😝 [And yet it does, and too many will be offended.](http://9gag.com/gag/a0egWLZ)
- - 👉 [Home Alone mom has passed](http://9gag.com/gag/a6Zgx7q)<!-- MEMES:END -->
+ - 😝 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
+ - 💣 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
+ - 👉 [Korean Invasion](http://9gag.com/gag/a9ywVp6)<!-- MEMES:END -->
 
 ---
 

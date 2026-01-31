@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It will be helpful next time](http://9gag.com/gag/aByz4ON)
- - 😝 [Thanos](http://9gag.com/gag/aByzovZ)
- - 💣 [When the filter is too accurate](http://9gag.com/gag/an7ZV2b)
- - 😝 [I would binge watch the whole season.](http://9gag.com/gag/azxyQ2z)
- - 👉 [Chicken Shawarma](http://9gag.com/gag/an7ZVZo)<!-- MEMES:END -->
+ - 😝 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)
+ - 😝 [Six Flags Texas &lpar;old&rpar;](http://9gag.com/gag/aqyMDev)
+ - 💣 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)
+ - 😝 [Home Alone mom has passed](http://9gag.com/gag/a6Zgx7q)
+ - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
 
 ---
 

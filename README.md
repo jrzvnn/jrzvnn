@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)
- - 😝 [Her shirt says just the tip I promise](http://9gag.com/gag/ae9zWDm)
- - 💣 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
+ - 😝 [Chicken Shawarma](http://9gag.com/gag/an7ZVZo)
+ - 😝 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
+ - 💣 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
  - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
- - 👉 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)<!-- MEMES:END -->
+ - 👉 [I mean... goku is that you](http://9gag.com/gag/a9ywBmo)<!-- MEMES:END -->
 
 ---
 

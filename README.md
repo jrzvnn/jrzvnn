@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP Catherine O&#39;Hara](http://9gag.com/gag/aXP3e1z)
- - 😝 [This dude is something else](http://9gag.com/gag/aZZXz2V)
- - 💣 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)
- - 😝 [Yeah I&#39;m old. So what? Kiss my ass.](http://9gag.com/gag/aXP3ezV)
- - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
+ - 😝 [Chicken Shawarma](http://9gag.com/gag/an7ZVZo)
+ - 😝 [Share your best gif](http://9gag.com/gag/ae9zWxW)
+ - 💣 [When the filter is too accurate](http://9gag.com/gag/an7ZV2b)
+ - 😝 [Thanos](http://9gag.com/gag/aByzovZ)
+ - 👉 [I would binge watch the whole season.](http://9gag.com/gag/azxyQ2z)<!-- MEMES:END -->
 
 ---
 

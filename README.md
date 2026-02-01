@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Researchers detail how AI tools for generating deepfakes proliferated on Civitai before it banned them in 2025; many tools submitted before the ban remain live &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260201/p16#a260201p16)
+ - [My Current Netflix Food Show Obsession Is Like a Fever Dream Spin-Off of &#39;The Bear&#39;](https://www.cnet.com/tech/services-and-software/netflix-food-show-just-a-dash-matty-matheson-the-bear/)
+ - [Google Brings Genie 3&#39;s Interactive World-Building Prototype to AI Ultra Subscribers](https://www.cnet.com/tech/services-and-software/google-brings-genie-3-world-building-experiment-to-ai-ultra-subscribers/)
  - [Bill Gates says accusations contained in Epstein files are ‘absolutely absurd’](https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd)
- - [5 Best Multivitamins for Women Over 50 in 2026](https://www.cnet.com/health/nutrition/best-vitamins-for-women-50-plus/)
- - [Shedding light on Iran’s longest internet blackout](https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani)
- - [India proposes zero taxes for foreign cloud providers through 2047 on services sold outside the country as long as they run workloads from Indian data centers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260201/p15#a260201p15)<!-- TECH:END -->
+ - [5 Best Multivitamins for Women Over 50 in 2026](https://www.cnet.com/health/nutrition/best-vitamins-for-women-50-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

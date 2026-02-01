@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it is asking select advertisers to commit at least $200K as it rolls out beta ads on ChatGPT; two sources say their firms were pitched lower amounts &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/260201/p4#a260201p4)
- - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
- - [Amazon asks the FCC for a 2-year extension until July 30, 2028, to deploy half of the 3,232 satellites for its Leo internet system, citing a rocket shortage &lpar;Alan Boyle/GeekWire&rpar;](http://www.techmeme.com/260201/p3#a260201p3)
- - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
- - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
+ - [Walmart Promo Codes and Coupons: Up to 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Anthropic positions itself as the AI sector&#39;s superego, but it&#39;s caught between the pressures to be safe, fast, and rigorous while being commercially successful &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/260201/p7#a260201p7)
+ - [Altra Promo Codes: Get 20% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
+ - [Sources: Alibaba has delivered more than 100K units of the Zhenwu 810E, an ASIC for AI training and inference, surpassing those of its domestic rival Cambricon &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/260201/p6#a260201p6)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

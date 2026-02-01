@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shedding light on Iran’s longest internet blackout](https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani)
+ - [India proposes zero taxes for foreign cloud providers through 2047 on services sold outside the country as long as they run workloads from Indian data centers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260201/p15#a260201p15)
+ - [You need to listen to M83’s icy post-rock record Dead Cities, Red Seas &amp;#038; Lost Ghosts](https://www.theverge.com/column/871847/m83-dead-cities-red-seas-lost-ghosts)
  - [Indonesia lifts its ban on Grok after receiving a letter from X &quot;outlining concrete steps&quot; to prevent misuse; Indonesia was the first country to ban Grok &lpar;Jin Yu Young/New York Times&rpar;](http://www.techmeme.com/260201/p14#a260201p14)
- - [Clamshell iPhone could be Apple&#39;s second foldable](https://appleinsider.com/articles/26/02/01/clamshell-iphone-could-be-apples-second-foldable?utm_source=rss)
- - [Sources: Apple execs question if it has the ingredients to win in AI-first era, new MacBook Pros are about to launch, Apple considers clamshell foldable iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260201/p13#a260201p13)
- - [Best Mental Health Apps of 2026](https://www.cnet.com/health/mental/best-mental-health-apps/)
- - [India to exempt foreign companies from being taxed when providing equipment to their contract manufacturers in the country, a rule change Apple lobbied for &lpar;Reuters&rpar;](http://www.techmeme.com/260201/p12#a260201p12)<!-- TECH:END -->
+ - [Clamshell iPhone could be Apple&#39;s second foldable](https://appleinsider.com/articles/26/02/01/clamshell-iphone-could-be-apples-second-foldable?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

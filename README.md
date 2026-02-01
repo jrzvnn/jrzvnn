@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Building a Watch Collection on a Budget? Here’s Where to Start &lpar;2026&rpar;](https://www.wired.com/gallery/want-to-build-a-watch-collection-on-a-budget-heres-where-to-start/)
+ - [Antigravity’s 360-degree A1 drone is 15 percent off](https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale)
  - [A look at iOS 26&#39;s call-screening feature, which some say is like having an assistant to filter out unwanted calls, as some complain it makes them miss calls &lpar;Andrew Zucker/Wall Street Journal&rpar;](http://www.techmeme.com/260201/p10#a260201p10)
  - [Kite-Powered Sailboat Aims to Become World&#39;s Fastest This Year](https://www.cnet.com/roadshow/news/kite-powered-sailboat-aims-to-become-worlds-fastest-this-year/)
- - [How to Watch Super Bowl 2026: When Do the Patriots and Seahawks Play? TV Channel, VPN, Streaming Info](https://www.cnet.com/tech/services-and-software/where-to-watch-super-bowl-2026-how-to-stream-patriots-seahawks/)
- - [These Are the Weirdest Phones I&#39;ve Tested Over 14 Years](https://www.cnet.com/tech/mobile/the-weirdest-phones-ive-tested-in-14-years/)
- - [Every Season of This Beloved Hallmark Series Is Now on Netflix](https://www.cnet.com/tech/services-and-software/every-season-of-this-beloved-hallmark-series-is-now-on-netflix/)<!-- TECH:END -->
+ - [How to Watch Super Bowl 2026: When Do the Patriots and Seahawks Play? TV Channel, VPN, Streaming Info](https://www.cnet.com/tech/services-and-software/where-to-watch-super-bowl-2026-how-to-stream-patriots-seahawks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

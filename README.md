@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)
  - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 💣 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
- - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
- - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
+ - 😝 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
+ - 💣 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 😝 [Not today](http://9gag.com/gag/avyqXdd)
+ - 👉 [Korean Invasion](http://9gag.com/gag/a9ywVp6)<!-- MEMES:END -->
 
 ---
 

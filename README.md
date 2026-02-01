@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX and Tesla are feeling the gravitational pull toward xAI, as Elon Musk looks to use his empire to fund xAI&#39;s ravenous appetite for cash and compute &lpar;Bloomberg&rpar;](http://www.techmeme.com/260201/p18#a260201p18)
  - [Survey of 100 companies in the Global 2000 on AI use: 78% of CIOs use OpenAI models in production vs. 44% for Anthropic, but Anthropic&#39;s gains are impressive &lpar;a16z&rpar;](http://www.techmeme.com/260201/p17#a260201p17)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 2, #967](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-2-967/)
  - [Today&#39;s Wordle Hints, Answer and Help for Feb. 2, #1689](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-2-1689/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 2 #701](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-2-701/)
- - [Researchers detail how AI tools for generating deepfakes proliferated on Civitai before it banned them in 2025; many tools submitted before the ban remain live &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260201/p16#a260201p16)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 2 #701](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-2-701/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

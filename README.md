@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
- - 😝 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
- - 💣 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
- - 😝 [Her shirt says just the tip I promise](http://9gag.com/gag/ae9zWDm)
- - 👉 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)<!-- MEMES:END -->
+ - 😝 [Its been more than 20 years and I can still feel this pic on my ass haha.](http://9gag.com/gag/axyKnjn)
+ - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
+ - 💣 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)
+ - 😝 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
+ - 👉 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)<!-- MEMES:END -->
 
 ---
 

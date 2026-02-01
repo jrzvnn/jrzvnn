@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Clamshell iPhone could be Apple&#39;s second foldable](https://appleinsider.com/articles/26/02/01/clamshell-iphone-could-be-apples-second-foldable?utm_source=rss)
+ - [Sources: Apple execs question if it has the ingredients to win in AI-first era, new MacBook Pros are about to launch, Apple considers clamshell foldable iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260201/p13#a260201p13)
+ - [Best Mental Health Apps of 2026](https://www.cnet.com/health/mental/best-mental-health-apps/)
  - [India to exempt foreign companies from being taxed when providing equipment to their contract manufacturers in the country, a rule change Apple lobbied for &lpar;Reuters&rpar;](http://www.techmeme.com/260201/p12#a260201p12)
- - [This tiny pocket-friendly e-reader is packed with frustration and potential](https://www.theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on)
- - [Strength Training for Beginners: How to Build a Workout Program That Will Make 2026 Your Strongest Year Yet](https://www.cnet.com/health/fitness/a-beginners-guide-to-strength-training/)
- - [M5 Pro, Max updates for MacBook Pro expected alongside macOS 26.3](https://appleinsider.com/articles/26/02/01/m5-pro-max-updates-for-macbook-pro-expected-alongside-macos-263?utm_source=rss)
- - [Inside Physical Intelligence, a startup co-founded by Stripe veteran Lachy Groom that is building general-purpose robotics foundation models and has raised $1B+ &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260201/p11#a260201p11)<!-- TECH:END -->
+ - [Prime Video: The 16 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-prime-video/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

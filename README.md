@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)
- - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 💣 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
- - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
- - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
+ - 😝 [Hot dog water kids unite](http://9gag.com/gag/aYQ6nov)
+ - 😝 [Wholesome moment](http://9gag.com/gag/a1mgqER)
+ - 💣 [Home Alone mom has passed](http://9gag.com/gag/a6Zgx7q)
+ - 😝 [Mourinho dropping truth bombs like it&#39;s a tactical masterclass](http://9gag.com/gag/agm9dAg)
+ - 👉 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)
+ - 😝 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
  - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
  - 💣 [Newly released footage of Epstein chasing underage black squares](http://9gag.com/gag/a34gpR1)
- - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
- - 👉 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)<!-- MEMES:END -->
+ - 😝 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)
+ - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
 
 ---
 

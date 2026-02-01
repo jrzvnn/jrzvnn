@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [La Liga Soccer: Stream Real Madrid vs. Rayo Vallecano Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-rayo-vallecano-live-from-anywhere/)
  - [A look at China&#39;s &quot;genius class&quot; system that selects ~100K gifted teens annually for elite science-focused schooling; its alumni include many top tech founders &lpar;Financial Times&rpar;](http://www.techmeme.com/260201/p8#a260201p8)
  - [Walmart Promo Codes and Coupons: Up to 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)
  - [Anthropic positions itself as the AI sector&#39;s superego, but it&#39;s caught between the pressures to be safe, fast, and rigorous while being commercially successful &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/260201/p7#a260201p7)
- - [Altra Promo Codes: Get 20% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
- - [Sources: Alibaba has delivered more than 100K units of the Zhenwu 810E, an ASIC for AI training and inference, surpassing those of its domestic rival Cambricon &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/260201/p6#a260201p6)<!-- TECH:END -->
+ - [Altra Promo Codes: Get 20% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

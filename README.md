@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia lifts its ban on Grok after receiving a letter from X &quot;outlining concrete steps&quot; to prevent misuse; Indonesia was the first country to ban Grok &lpar;Jin Yu Young/New York Times&rpar;](http://www.techmeme.com/260201/p14#a260201p14)
  - [Clamshell iPhone could be Apple&#39;s second foldable](https://appleinsider.com/articles/26/02/01/clamshell-iphone-could-be-apples-second-foldable?utm_source=rss)
  - [Sources: Apple execs question if it has the ingredients to win in AI-first era, new MacBook Pros are about to launch, Apple considers clamshell foldable iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260201/p13#a260201p13)
  - [Best Mental Health Apps of 2026](https://www.cnet.com/health/mental/best-mental-health-apps/)
- - [India to exempt foreign companies from being taxed when providing equipment to their contract manufacturers in the country, a rule change Apple lobbied for &lpar;Reuters&rpar;](http://www.techmeme.com/260201/p12#a260201p12)
- - [Prime Video: The 16 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-prime-video/)<!-- TECH:END -->
+ - [India to exempt foreign companies from being taxed when providing equipment to their contract manufacturers in the country, a rule change Apple lobbied for &lpar;Reuters&rpar;](http://www.techmeme.com/260201/p12#a260201p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

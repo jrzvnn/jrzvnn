@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
- - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 💣 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 😝 [Its been more than 20 years and I can still feel this pic on my ass haha.](http://9gag.com/gag/axyKnjn)
+ - 😝 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 💣 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
  - 😝 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
  - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
 

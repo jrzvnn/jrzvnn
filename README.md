@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nomura: total returns for software debt in collateralized loan obligations have been lower than all other sectors in 2026, amid fears about AI&#39;s impact on SaaS &lpar;Bloomberg&rpar;](http://www.techmeme.com/260131/p17#a260131p17)
  - [Nvidia CEO denies he’s ‘unhappy’ with OpenAI](https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai)
  - [An interview with Nvidia&#39;s senior VP of hardware engineering, Andrew Bell, on continuing to provide Shield Android TV software updates a decade after its launch &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/260131/p16#a260131p16)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 1 #700](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-1-700/)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 1, #1688](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-1-1688/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 1, #966](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-1-966/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 1, #1688](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-1-1688/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

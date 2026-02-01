@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
- - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
- - 💣 [Well, actually](http://9gag.com/gag/awyj8px)
- - 😝 [Hot dog water kids unite](http://9gag.com/gag/aYQ6nov)
- - 👉 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)<!-- MEMES:END -->
+ - 😝 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
+ - 😝 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
+ - 💣 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
+ - 😝 [The director of the recently released Melania movie?](http://9gag.com/gag/a87NX11)
+ - 👉 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)<!-- MEMES:END -->
 
 ---
 

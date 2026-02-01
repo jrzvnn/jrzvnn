@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
  - 😝 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)
- - 💣 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
- - 😝 [Hot dog water kids unite](http://9gag.com/gag/aYQ6nov)
- - 👉 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)<!-- MEMES:END -->
+ - 💣 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
+ - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
+ - 👉 [Korean Invasion](http://9gag.com/gag/a9ywVp6)<!-- MEMES:END -->
 
 ---
 

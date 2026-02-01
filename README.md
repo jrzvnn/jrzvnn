@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
  - 😝 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
- - 💣 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)
- - 😝 [The director of the recently released Melania movie?](http://9gag.com/gag/a87NX11)
- - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
+ - 😝 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)
+ - 💣 [The director of the recently released Melania movie?](http://9gag.com/gag/a87NX11)
+ - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
+ - 👉 [Korean Invasion](http://9gag.com/gag/a9ywVp6)<!-- MEMES:END -->
 
 ---
 

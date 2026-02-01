@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Denver-based Northslope, which builds customized AI applications for Palantir OS, raised a $22M Series A led by Friends &amp; Family Capital and Goldcrest Capital &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260131/p18#a260131p18)
- - [Nomura: total returns for software debt in collateralized loan obligations have been lower than all other sectors in 2026, amid fears about AI&#39;s impact on SaaS &lpar;Bloomberg&rpar;](http://www.techmeme.com/260131/p17#a260131p17)
- - [Nvidia CEO denies he’s ‘unhappy’ with OpenAI](https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai)
- - [An interview with Nvidia&#39;s senior VP of hardware engineering, Andrew Bell, on continuing to provide Shield Android TV software updates a decade after its launch &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/260131/p16#a260131p16)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 1 #700](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-1-700/)<!-- TECH:END -->
+ - [OpenAI says it is asking select advertisers to commit at least $200K as it rolls out beta ads on ChatGPT; two sources say their firms were pitched lower amounts &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/260201/p4#a260201p4)
+ - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
+ - [Amazon asks the FCC for a 2-year extension until July 30, 2028, to deploy half of the 3,232 satellites for its Leo internet system, citing a rocket shortage &lpar;Alan Boyle/GeekWire&rpar;](http://www.techmeme.com/260201/p3#a260201p3)
+ - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
+ - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

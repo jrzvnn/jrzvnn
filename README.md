@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
- - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 💣 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
- - 😝 [The director of the recently released Melania movie?](http://9gag.com/gag/a87NX11)
+ - 😝 [Well, actually](http://9gag.com/gag/awyj8px)
+ - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
+ - 💣 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
+ - 😝 [Wholesome moment](http://9gag.com/gag/a1mgqER)
  - 👉 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)<!-- MEMES:END -->
 
 ---

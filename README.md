@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail how AI tools for generating deepfakes proliferated on Civitai before it banned them in 2025; many tools submitted before the ban remain live &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260201/p16#a260201p16)
  - [Bill Gates says accusations contained in Epstein files are ‘absolutely absurd’](https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd)
  - [5 Best Multivitamins for Women Over 50 in 2026](https://www.cnet.com/health/nutrition/best-vitamins-for-women-50-plus/)
  - [Shedding light on Iran’s longest internet blackout](https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani)
- - [India proposes zero taxes for foreign cloud providers through 2047 on services sold outside the country as long as they run workloads from Indian data centers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260201/p15#a260201p15)
- - [NordVPN Software Blocked 92% of Phishing Emails in Independent Testing](https://www.cnet.com/tech/services-and-software/nordvpn-anti-phishing-lab-test/)<!-- TECH:END -->
+ - [India proposes zero taxes for foreign cloud providers through 2047 on services sold outside the country as long as they run workloads from Indian data centers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260201/p15#a260201p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

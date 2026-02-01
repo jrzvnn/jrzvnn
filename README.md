@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Valentine’s Day Gifts &lpar;2026&rpar;: Legos, Karaoke, Digital Frames, and More](https://www.wired.com/story/best-valentines-day-gifts-2026/)
- - [Chinese government funding is backing traditional Chinese medicine providers to adopt AI for drug discovery, clinical diagnostics, acupuncture robots, and more &lpar;Nicole Fan/Rest of World&rpar;](http://www.techmeme.com/260201/p9#a260201p9)
- - [The Best Chocolate Boxes of 2026 for Valentine’s Delivery](https://www.wired.com/story/best-chocolate-boxes-delivery-2026/)
- - [The Information Networks That Connect Venezuelans in Uncertain Times](https://www.wired.com/story/venezuela-information-networks-maduro-censorship/)
- - [La Liga Soccer: Stream Real Madrid vs. Rayo Vallecano Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-rayo-vallecano-live-from-anywhere/)<!-- TECH:END -->
+ - [The Best Date-Night Boxes of 2026, Tested With My Hinge Dates](https://www.wired.com/gallery/best-date-night-boxes/)
+ - [Lenovo Yoga Pro 9i 16 Aura Edition Review: Kick-Ass Laptop for Creators](https://www.cnet.com/tech/computing/lenovo-yoga-pro-9i-16-aura-edition-review-kick-ass-laptop-for-creators/)
+ - [How to Use Physics to Escape an Ice Bowl](https://www.wired.com/story/how-to-use-physics-to-escape-an-ice-bowl/)
+ - [Best Walking Pad for Remote Work](https://www.cnet.com/health/fitness/im-an-active-mom-heres-how-i-increase-my-step-count-in-the-winter-time/)
+ - [Best Valentine’s Day Gifts &lpar;2026&rpar;: Legos, Karaoke, Digital Frames, and More](https://www.wired.com/story/best-valentines-day-gifts-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

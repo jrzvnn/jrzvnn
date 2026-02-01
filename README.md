@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Date-Night Boxes of 2026, Tested With My Hinge Dates](https://www.wired.com/gallery/best-date-night-boxes/)
- - [Lenovo Yoga Pro 9i 16 Aura Edition Review: Kick-Ass Laptop for Creators](https://www.cnet.com/tech/computing/lenovo-yoga-pro-9i-16-aura-edition-review-kick-ass-laptop-for-creators/)
- - [How to Use Physics to Escape an Ice Bowl](https://www.wired.com/story/how-to-use-physics-to-escape-an-ice-bowl/)
- - [Best Walking Pad for Remote Work](https://www.cnet.com/health/fitness/im-an-active-mom-heres-how-i-increase-my-step-count-in-the-winter-time/)
- - [Best Valentine’s Day Gifts &lpar;2026&rpar;: Legos, Karaoke, Digital Frames, and More](https://www.wired.com/story/best-valentines-day-gifts-2026/)<!-- TECH:END -->
+ - [A look at iOS 26&#39;s call-screening feature, which some say is like having an assistant to filter out unwanted calls, as some complain it makes them miss calls &lpar;Andrew Zucker/Wall Street Journal&rpar;](http://www.techmeme.com/260201/p10#a260201p10)
+ - [Kite-Powered Sailboat Aims to Become World&#39;s Fastest This Year](https://www.cnet.com/roadshow/news/kite-powered-sailboat-aims-to-become-worlds-fastest-this-year/)
+ - [How to Watch Super Bowl 2026: When Do the Patriots and Seahawks Play? TV Channel, VPN, Streaming Info](https://www.cnet.com/tech/services-and-software/where-to-watch-super-bowl-2026-how-to-stream-patriots-seahawks/)
+ - [These Are the Weirdest Phones I&#39;ve Tested Over 14 Years](https://www.cnet.com/tech/mobile/the-weirdest-phones-ive-tested-in-14-years/)
+ - [Every Season of This Beloved Hallmark Series Is Now on Netflix](https://www.cnet.com/tech/services-and-software/every-season-of-this-beloved-hallmark-series-is-now-on-netflix/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

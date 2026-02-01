@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese government funding is backing traditional Chinese medicine providers to adopt AI for drug discovery, clinical diagnostics, acupuncture robots, and more &lpar;Nicole Fan/Rest of World&rpar;](http://www.techmeme.com/260201/p9#a260201p9)
+ - [The Best Chocolate Boxes of 2026 for Valentine’s Delivery](https://www.wired.com/story/best-chocolate-boxes-delivery-2026/)
  - [The Information Networks That Connect Venezuelans in Uncertain Times](https://www.wired.com/story/venezuela-information-networks-maduro-censorship/)
  - [La Liga Soccer: Stream Real Madrid vs. Rayo Vallecano Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-rayo-vallecano-live-from-anywhere/)
- - [A look at China&#39;s &quot;genius class&quot; system that selects ~100K gifted teens annually for elite science-focused schooling; its alumni include many top tech founders &lpar;Financial Times&rpar;](http://www.techmeme.com/260201/p8#a260201p8)
- - [Walmart Promo Codes and Coupons: Up to 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Anthropic positions itself as the AI sector&#39;s superego, but it&#39;s caught between the pressures to be safe, fast, and rigorous while being commercially successful &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/260201/p7#a260201p7)<!-- TECH:END -->
+ - [A look at China&#39;s &quot;genius class&quot; system that selects ~100K gifted teens annually for elite science-focused schooling; its alumni include many top tech founders &lpar;Financial Times&rpar;](http://www.techmeme.com/260201/p8#a260201p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

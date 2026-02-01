@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot dog water kids unite](http://9gag.com/gag/aYQ6nov)
- - 😝 [Wholesome moment](http://9gag.com/gag/a1mgqER)
- - 💣 [Home Alone mom has passed](http://9gag.com/gag/a6Zgx7q)
- - 😝 [Mourinho dropping truth bombs like it&#39;s a tactical masterclass](http://9gag.com/gag/agm9dAg)
- - 👉 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)<!-- MEMES:END -->
+ - 😝 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)
+ - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
+ - 💣 [Newly released footage of Epstein chasing underage black squares](http://9gag.com/gag/a34gpR1)
+ - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
+ - 👉 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)<!-- MEMES:END -->
 
 ---
 

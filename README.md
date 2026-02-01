@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [M5 Pro, Max updates for MacBook Pro expected alongside macOS 26.3](https://appleinsider.com/articles/26/02/01/m5-pro-max-updates-for-macbook-pro-expected-alongside-macos-263?utm_source=rss)
- - [Inside Physical Intelligence, a startup co-founded by Stripe veteran Lachy Groom that is building general-purpose robotic foundation models and has raised $1B+ &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260201/p11#a260201p11)
+ - [Inside Physical Intelligence, a startup co-founded by Stripe veteran Lachy Groom that is building general-purpose robotics foundation models and has raised $1B+ &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260201/p11#a260201p11)
  - [I don’t hate the robot barista like I thought I would](https://www.theverge.com/tech/871350/artly-robot-coffee-jarvis-seattle)
  - [Do Nighttime Driving Glasses Work? A Science-Backed Guide for This Winter](https://www.cnet.com/health/personal-care/what-are-night-driving-glasses/)
  - [4 TV Shows That Will Get You Pumped for the 2026 Winter Olympics](https://www.cnet.com/tech/services-and-software/4-tv-shows-that-will-get-you-pumped-for-the-2026-winter-olympics/)<!-- TECH:END -->

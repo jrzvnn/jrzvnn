@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its been more than 20 years and I can still feel this pic on my ass haha.](http://9gag.com/gag/axyKnjn)
- - 😝 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
- - 💣 [To oblivion](http://9gag.com/gag/ae9zdLj)
- - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
- - 👉 [Korean Invasion](http://9gag.com/gag/a9ywVp6)<!-- MEMES:END -->
+ - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
+ - 😝 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
+ - 💣 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
+ - 😝 [Her shirt says just the tip I promise](http://9gag.com/gag/ae9zWDm)
+ - 👉 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)<!-- MEMES:END -->
 
 ---
 

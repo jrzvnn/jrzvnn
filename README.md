@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 😝 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
- - 💣 [It all make sense now](http://9gag.com/gag/a87NQMp)
- - 😝 [Improvise adapt overcome](http://9gag.com/gag/aByzjYx)
- - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
+ - 😝 [How to find if you are reach](http://9gag.com/gag/a34gpx8)
+ - 😝 [What kind of sorcery is this..](http://9gag.com/gag/aAyANo0)
+ - 💣 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 😝 [Not today](http://9gag.com/gag/avyqXdd)
+ - 👉 [Unspeakable acts](http://9gag.com/gag/ajPvMpx)<!-- MEMES:END -->
 
 ---
 

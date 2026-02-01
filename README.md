@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 Pro, Max updates for MacBook Pro expected alongside macOS 26.3](https://appleinsider.com/articles/26/02/01/m5-pro-max-updates-for-macbook-pro-expected-alongside-macos-263?utm_source=rss)
+ - [Do Nighttime Driving Glasses Work? A Science-Backed Guide for This Winter](https://www.cnet.com/health/personal-care/what-are-night-driving-glasses/)
+ - [4 TV Shows That Will Get You Pumped for the 2026 Winter Olympics](https://www.cnet.com/tech/services-and-software/4-tv-shows-that-will-get-you-pumped-for-the-2026-winter-olympics/)
  - [Building a Watch Collection on a Budget? Here’s Where to Start &lpar;2026&rpar;](https://www.wired.com/gallery/want-to-build-a-watch-collection-on-a-budget-heres-where-to-start/)
- - [Antigravity’s 360-degree A1 drone is 15 percent off](https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale)
- - [A look at iOS 26&#39;s call-screening feature, which some say is like having an assistant to filter out unwanted calls, as some complain it makes them miss calls &lpar;Andrew Zucker/Wall Street Journal&rpar;](http://www.techmeme.com/260201/p10#a260201p10)
- - [Kite-Powered Sailboat Aims to Become World&#39;s Fastest This Year](https://www.cnet.com/roadshow/news/kite-powered-sailboat-aims-to-become-worlds-fastest-this-year/)
- - [How to Watch Super Bowl 2026: When Do the Patriots and Seahawks Play? TV Channel, VPN, Streaming Info](https://www.cnet.com/tech/services-and-software/where-to-watch-super-bowl-2026-how-to-stream-patriots-seahawks/)<!-- TECH:END -->
+ - [Antigravity’s 360-degree A1 drone is 15 percent off](https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

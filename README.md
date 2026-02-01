@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)
- - 😝 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
- - 💣 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 😝 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)
- - 👉 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)<!-- MEMES:END -->
+ - 😝 [Just American things](http://9gag.com/gag/a5QgygE)
+ - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
+ - 💣 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 😝 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
+ - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
- - 😝 [He was just released for SA then he goes and SA a female detective .](http://9gag.com/gag/abADRNE)
- - 💣 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
- - 😝 [America needs an age limit for politicians](http://9gag.com/gag/aByzN8O)
- - 👉 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)<!-- MEMES:END -->
+ - 😝 [Its been more than 20 years and I can still feel this pic on my ass haha.](http://9gag.com/gag/axyKnjn)
+ - 😝 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
+ - 💣 [To oblivion](http://9gag.com/gag/ae9zdLj)
+ - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
+ - 👉 [Korean Invasion](http://9gag.com/gag/a9ywVp6)<!-- MEMES:END -->
 
 ---
 

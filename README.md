@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cat-hat-strophe !](http://9gag.com/gag/aGyvNwX)
- - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
- - 💣 [How to find if you are reach](http://9gag.com/gag/a34gpx8)
- - 😝 [Not today](http://9gag.com/gag/avyqXdd)
- - 👉 [Recording herself throwing a stolen gun.. Genius..](http://9gag.com/gag/aYQ6n9v)<!-- MEMES:END -->
+ - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
+ - 😝 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
+ - 💣 [It all make sense now](http://9gag.com/gag/a87NQMp)
+ - 😝 [Improvise adapt overcome](http://9gag.com/gag/aByzjYx)
+ - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
 
 ---
 

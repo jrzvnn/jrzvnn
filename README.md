@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 😝 [Its been more than 20 years and I can still feel this pic on my ass haha.](http://9gag.com/gag/axyKnjn)
- - 💣 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)
  - 😝 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
- - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
+ - 💣 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 😝 [Repost from my folder](http://9gag.com/gag/aD29r3G)
+ - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
 
 ---
 

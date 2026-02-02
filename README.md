@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nolan what have you done?](http://9gag.com/gag/aAyANLg)
- - 😝 [To the 9gager who recommended The Outpost as a must watch my most sincere thanks good sir, it really has all in fantasy genre &lpar;I&#39;m currently at season 4th&rpar;... And to the geh who recommended me Alice in Borderlands I wish you the worst...](http://9gag.com/gag/a34gpG7)
- - 💣 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)
- - 😝 [Go work as a cleaner, they said. It&#39;s a safe job, they said.](http://9gag.com/gag/aAyAqqE)
- - 👉 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)<!-- MEMES:END -->
+ - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 😝 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)
+ - 💣 [Go work as a cleaner, they said. It&#39;s a safe job, they said.](http://9gag.com/gag/aAyAqqE)
+ - 😝 [November rain](http://9gag.com/gag/aD29rY9)
+ - 👉 [The director of the recently released Melania movie?](http://9gag.com/gag/a87NX11)<!-- MEMES:END -->
 
 ---
 

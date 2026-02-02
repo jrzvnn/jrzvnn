@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just about every spec of the iPhone Fold may have just been leaked](https://appleinsider.com/articles/26/02/02/just-about-every-spec-of-the-iphone-fold-may-have-just-been-leaked?utm_source=rss)
- - [Day AI, which is developing an AI-powered CRM service that can automate data entry, meeting prep, and more, raised a $20M Series A led by Sequoia &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/260202/p25#a260202p25)
- - [Sony’s last-gen, but still great 1000XM5 are cheaper than ever](https://www.theverge.com/gadgets/872182/sony-xm5-noise-canceling-headphones-super-bowl-tv-deal-sale)
- - [OpenClaw: all the news about the trending AI agent](https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news)
- - [Wiz says Moltbook had a major flaw that exposed private messages, emails, and credentials; Wiz co-founder Ami Luttwak called the flaw a byproduct of vibe coding &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260202/p24#a260202p24)<!-- TECH:END -->
+ - [Amazon launches $299 iPad 11 deal for February](https://appleinsider.com/articles/26/02/02/amazon-launches-299-ipad-11-deal-for-february?utm_source=rss)
+ - [Shield, which acquires IT businesses and uses AI to make them efficient, raised $100M from Thrive Holdings and says it crossed $100M in annual revenue in 2025 &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260202/p27#a260202p27)
+ - [The Verge’s 2026 Valentine’s Day gift guide &lpar;for her&rpar;](https://www.theverge.com/gadgets/865281/valentines-day-2026-gift-ideas-for-her-girlfriend-wife-partner)
+ - [Fieldguide, which uses AI agents to automate accounting and auditing tasks, raised a $75M Series C led by Goldman Sachs Alternatives at a $700M valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/260202/p26#a260202p26)
+ - [Just about every spec of the iPhone Fold may have just been leaked](https://appleinsider.com/articles/26/02/02/just-about-every-spec-of-the-iphone-fold-may-have-just-been-leaked?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

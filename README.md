@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Sound Bar for Most People Is $50 Off](https://www.wired.com/story/yamaha-sr-c30a-deal-226/)
- - [Former Windows 8 boss recruited Epstein to help negotiate his messy Microsoft exit](https://www.theverge.com/report/872073/steven-sinofsky-jeffrey-epstein-files-emails-microsoft-exit-settlement)
- - [OpenAI launches a Codex app for macOS, designed to serve as a command center for managing AI agents, and says Codex usage has nearly doubled since mid-December &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260202/p30#a260202p30)
- - [You Can Adapt That Recipe for the Air Fryer. Here&#39;s How](https://www.cnet.com/news/how-to-adapt-any-recipe-for-the-air-fryer/)
- - [Time to Suit Up With Warhammer 40,000: Space Marine 2 and Quarantine Zone on Game Pass](https://www.cnet.com/tech/gaming/time-to-suit-up-with-warhammer-40000-space-marine-ii-quarantine-zone-on-game-pass/)<!-- TECH:END -->
+ - [Oracle says the Nvidia-OpenAI deal has &quot;zero impact&quot; on its financial relationship with OpenAI and it is &quot;highly confident in OpenAI&#39;s ability to raise funds&quot; &lpar;@oracle&rpar;](http://www.techmeme.com/260202/p41#a260202p41)
+ - [Adobe Animate is shutting down next month](https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date)
+ - [Source: SpaceX acquired xAI for $250B; the announcement about the acquisition focuses on SpaceX&#39;s plans to launch data centers into space &lpar;The Information&rpar;](http://www.techmeme.com/260202/p40#a260202p40)
+ - [Waymo raises $16 billion to take its robotaxi business ‘global’](https://www.theverge.com/transportation/872651/waymo-raises-16-billion-investment-value-robotaxi)
+ - [Waymo raised $16B led by Sequoia, DST Global, and Dragoneer at a $126B valuation and plans a rapid expansion across the US and into the UK this year &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/260202/p39#a260202p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

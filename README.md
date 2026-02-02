@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SpaceX is in advanced talks to combine with xAI and they have informed some of their investors, as Elon Musk moves quickly to consolidate his empire &lpar;Bloomberg&rpar;](http://www.techmeme.com/260202/p16#a260202p16)
+ - [How food delivery is reshaping US mealtimes, as some users spend thousands; NRA data shows nearly 75% of 2024 restaurant orders were not eaten in a restaurant &lpar;Priya Krishna/New York Times&rpar;](http://www.techmeme.com/260202/p15#a260202p15)
+ - [Snap blocked 415K+ Australian accounts as of January to comply with the under-16 social media ban and warns of &quot;technical limitations&quot; in the implementation &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/260202/p14#a260202p14)
  - [The US&#39; high-speed internet rollout means drillers, linemen, and splicers pull in soaring pay nationwide amid a labor shortage for the physically demanding work &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260202/p13#a260202p13)
- - [5 Movies You Must Watch Before the 2026 Winter Olympics](https://www.wired.com/gallery/5-movies-to-watch-before-2026-winter-olympics/)
- - [Your Complete Guide to the 2026 Winter Olympics](https://www.wired.com/story/winter-olympics-2026-milano-cortina-complete-guide/)
- - [ICE and Qatari Security Forces at the Winter Olympics Put Italians on Edge](https://www.wired.com/story/ice-and-qatari-security-forces-at-the-winter-olympics-put-italians-on-edge/)
- - [How to Watch the 2026 Winter Olympics](https://www.wired.com/story/how-to-watch-winter-olympics-2026/)<!-- TECH:END -->
+ - [Prime Video&#39;s 23 Best Sci-Fi TV Shows You Should Stream Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

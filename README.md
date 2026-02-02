@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC complaint: a whistleblower alleges Google broke its ethics rules in 2024 to help an Israeli military contractor use AI to analyze drone surveillance video &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/260202/p7#a260202p7)
+ - [Sources: a KKR-led consortium is nearing a deal to buy Singapore-based ST Telemedia Global Data Centers for $10B+, as Asia sees a data center investment frenzy &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/260202/p6#a260202p6)
+ - [OpenSourceMalware: 230 malicious OpenClaw extensions, disguised as crypto trading automation tools to steal user info, were uploaded to ClawHub since January 27 &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260202/p5#a260202p5)
  - [A look at DestinE, an EU-funded project to create Earth&#39;s digital twin using AI that has produced climate models with far higher resolution than current models &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/260202/p4#a260202p4)
- - [AI conferences have rushed to restrict the use of LLMs for writing and reviewing research papers in recent months after being flooded with AI-generated slop &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260202/p3#a260202p3)
- - [Q&amp;A with D‑Wave CEO Alan Baratz on the Quantum Circuits acquisition, error-correcting quantum systems, its Davidson and Anduril defense collaboration, and more &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260202/p2#a260202p2)
- - [French IT company Capgemini plans to sell its US subsidiary Capgemini Government Solutions, whose contract with the US ICE drew scrutiny from French lawmakers &lpar;Sybille de La Hamaide/Reuters&rpar;](http://www.techmeme.com/260202/p1#a260202p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 2, #497](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-2-497/)<!-- TECH:END -->
+ - [AI conferences have rushed to restrict the use of LLMs for writing and reviewing research papers in recent months after being flooded with AI-generated slop &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260202/p3#a260202p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

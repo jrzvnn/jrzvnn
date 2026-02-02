@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok US says it has resolved technical issues and glitches that have impacted core features, such as video likes and view counts, over the past week &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260201/p21#a260201p21)
+ - [Apple, long dominant in the electronics supply chain, is starting to be outbid by AI companies for components like memory as suppliers gain leverage over Apple &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260201/p20#a260201p20)
  - [Oracle says it plans to raise $45B to $50B in 2026 to build additional capacity for its cloud infrastructure through a combination of debt and equity sales &lpar;Vincent Lee/Bloomberg&rpar;](http://www.techmeme.com/260201/p19#a260201p19)
  - [SpaceX and Tesla are feeling the gravitational pull toward xAI, as Elon Musk looks to use his empire to fund xAI&#39;s ravenous appetite for cash and compute &lpar;Bloomberg&rpar;](http://www.techmeme.com/260201/p18#a260201p18)
- - [Survey of 100 companies in the Global 2000 on AI use: 78% of CIOs use OpenAI models in production vs. 44% for Anthropic, but Anthropic&#39;s gains are impressive &lpar;a16z&rpar;](http://www.techmeme.com/260201/p17#a260201p17)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 2, #967](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-2-967/)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 2, #1689](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-2-1689/)<!-- TECH:END -->
+ - [Survey of 100 companies in the Global 2000 on AI use: 78% of CIOs use OpenAI models in production vs. 44% for Anthropic, but Anthropic&#39;s gains are impressive &lpar;a16z&rpar;](http://www.techmeme.com/260201/p17#a260201p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docusign&amp;#8217;s CEO on the dangers of trusting AI to read, and write, your contracts](https://www.theverge.com/podcast/871205/docusign-ceo-allan-thygesen-ai-contracts-e-signature-interview)
- - [Dragon Quest gets another great remake that’s perfect for newcomers](https://www.theverge.com/games/871307/dragon-quest-7-reimagined-review-ps5-switch-xbox)
- - [Integrating home automations &amp; Shortcuts with Matthew Cassinelli on this week&#39;s HomeKit Insider](https://appleinsider.com/articles/26/02/02/integrating-home-automations-shortcuts-with-matthew-cassinelli-on-this-weeks-homekit-insider?utm_source=rss)
- - [Alabama-based Linq, which pivoted to programmatic messaging APIs in February 2025, raised a $20M Series A to build AI assistants that work within messaging apps &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/260202/p21#a260202p21)
- - [After X updated Grok to ban sexual deepfakes of women, tests show Grok still undresses men on Grok&#39;s app, Grok&#39;s website, and X, rarely resisting user requests &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260202/p20#a260202p20)<!-- TECH:END -->
+ - [OpenClaw: all the news about the trending AI agent](https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news)
+ - [Wiz says Moltbook had a major flaw that exposed private messages, emails, and credentials; Wiz co-founder Ami Luttwak called the flaw a byproduct of vibe coding &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260202/p24#a260202p24)
+ - [Notepad++ and security researchers say Chinese state-sponsored threat actors were likely behind the hijacking of its update traffic from June to December 2025 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260202/p23#a260202p23)
+ - [Snowflake and OpenAI agree to a multi-year, $200M partnership to integrate OpenAI&#39;s models into Snowflake Cortex AI and the Snowflake Intelligence agent &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260202/p22#a260202p22)
+ - [The Epstein files](https://www.theverge.com/policy/872092/jeffrey-epstein-files-doj-trump-musk-brin-gates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
  - 😝 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
  - 💣 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)
- - 😝 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
+ - 😝 [HR is watching you](http://9gag.com/gag/a0egxGz)
  - 👉 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)<!-- MEMES:END -->
 
 ---

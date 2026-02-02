@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [3 Best Floodlight Security Cameras &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-floodlight-security-cameras/)
+ - [Vivo and Oppo’s telephoto extender comes to iPhone](https://www.theverge.com/gadgets/872058/pgytech-telephoto-extender-iphone)
+ - [AI demand forcing Apple to look for alternatives to TSMC](https://appleinsider.com/articles/26/02/02/ai-demand-forcing-apple-to-look-for-alternatives-to-tsmc?utm_source=rss)
  - [Inside Elon Musk&#39;s bet to hook X users that turned Grok into a porn generator; sources say xAI&#39;s AI safety team was just two or three people for most of 2025 &lpar;Washington Post&rpar;](http://www.techmeme.com/260202/p19#a260202p19)
- - [The person who could be Apple CEO: Who is John Ternus?](https://appleinsider.com/articles/26/01/30/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)
- - [How Kontigo, a crypto startup from YC S24 that raised $20M+, helped move money in and out of Venezuela and now faces cutoffs from banks and payment networks &lpar;Ben Foldy/Wall Street Journal&rpar;](http://www.techmeme.com/260202/p18#a260202p18)
- - [The 20 Best Sexy Gifts for Lovers &lpar;2026&rpar;](https://www.wired.com/gallery/best-sexy-gift/)
- - [xAI rolls out Grok Imagine 1.0, which it says can generate 720p 10-second videos with better audio, and says Imagine generated 1.245B videos in the past 30 days &lpar;@xai&rpar;](http://www.techmeme.com/260202/p17#a260202p17)<!-- TECH:END -->
+ - [The person who could be Apple CEO: Who is John Ternus?](https://appleinsider.com/articles/26/01/30/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

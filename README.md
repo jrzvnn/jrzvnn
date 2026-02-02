@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [HR is watching you](http://9gag.com/gag/a0egxGz)
- - 😝 [All right stop, collaborate and listen](http://9gag.com/gag/aKGZNw6)
- - 💣 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 😝 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
+ - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
+ - 💣 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 😝 [It was nothing.](http://9gag.com/gag/amoQKrV)
  - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
 
 ---

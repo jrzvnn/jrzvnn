@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nolan what have you done?](http://9gag.com/gag/aAyANLg)
- - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - 💣 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)
- - 😝 [No body.](http://9gag.com/gag/aryE9jp)
- - 👉 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)<!-- MEMES:END -->
+ - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
+ - 😝 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
+ - 💣 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 😝 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)
+ - 👉 [The director of the recently released Melania movie?](http://9gag.com/gag/a87NX11)<!-- MEMES:END -->
 
 ---
 

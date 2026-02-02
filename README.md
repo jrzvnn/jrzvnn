@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI conferences have rushed to restrict the use of LLMs for writing and reviewing research papers in recent months after being flooded with AI-generated slop &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260202/p3#a260202p3)
  - [Q&amp;A with D‑Wave CEO Alan Baratz on the Quantum Circuits acquisition, error-correcting quantum systems, its Davidson and Anduril defense collaboration, and more &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260202/p2#a260202p2)
  - [French IT company Capgemini plans to sell its US subsidiary Capgemini Government Solutions, whose contract with the US ICE drew scrutiny from French lawmakers &lpar;Sybille de La Hamaide/Reuters&rpar;](http://www.techmeme.com/260202/p1#a260202p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 2, #497](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-2-497/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-2/)
- - [Anthropic researchers detail &quot;disempowerment patterns&quot; in AI assistant interactions where AI potentially distorts a user&#39;s reality, beliefs, or actions &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/260201/p22#a260201p22)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
  - 😝 [HR is watching you](http://9gag.com/gag/a0egxGz)
  - 💣 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)
  - 😝 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)

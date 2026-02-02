@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX is in advanced talks to combine with xAI and they have informed some of their investors, as Elon Musk moves quickly to consolidate his empire &lpar;Bloomberg&rpar;](http://www.techmeme.com/260202/p16#a260202p16)
- - [How food delivery is reshaping US mealtimes, as some users spend thousands; NRA data shows nearly 75% of 2024 restaurant orders were not eaten in a restaurant &lpar;Priya Krishna/New York Times&rpar;](http://www.techmeme.com/260202/p15#a260202p15)
- - [Snap blocked 415K+ Australian accounts as of January to comply with the under-16 social media ban and warns of &quot;technical limitations&quot; in the implementation &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/260202/p14#a260202p14)
- - [The US&#39; high-speed internet rollout means drillers, linemen, and splicers pull in soaring pay nationwide amid a labor shortage for the physically demanding work &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260202/p13#a260202p13)
- - [Prime Video&#39;s 23 Best Sci-Fi TV Shows You Should Stream Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows/)<!-- TECH:END -->
+ - [Inside Elon Musk&#39;s bet to hook X users that turned Grok into a porn generator; sources say xAI&#39;s AI safety team was just two or three people for most of 2025 &lpar;Washington Post&rpar;](http://www.techmeme.com/260202/p19#a260202p19)
+ - [The person who could be Apple CEO: Who is John Ternus?](https://appleinsider.com/articles/26/01/30/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)
+ - [How Kontigo, a crypto startup from YC S24 that raised $20M+, helped move money in and out of Venezuela and now faces cutoffs from banks and payment networks &lpar;Ben Foldy/Wall Street Journal&rpar;](http://www.techmeme.com/260202/p18#a260202p18)
+ - [The 20 Best Sexy Gifts for Lovers &lpar;2026&rpar;](https://www.wired.com/gallery/best-sexy-gift/)
+ - [xAI rolls out Grok Imagine 1.0, which it says can generate 720p 10-second videos with better audio, and says Imagine generated 1.245B videos in the past 30 days &lpar;@xai&rpar;](http://www.techmeme.com/260202/p17#a260202p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

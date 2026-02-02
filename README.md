@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Polymarket&#39;s rise since the US DOJ dropped its probe: securing publisher deals and US licenses, insider trading concerns, and bet resolution disputes &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260202/p10#a260202p10)
- - [Alibaba plans to spend ~$431M in a Lunar New Year campaign starting February 6 to attract users to its Qwen AI app, above Tencent&#39;s ~$143.7M and Baidu&#39;s ~$71.8M &lpar;Reuters&rpar;](http://www.techmeme.com/260202/p9#a260202p9)
- - [Taiwan hits a 21.06% weight in the MSCI Emerging Markets Index, surpassing China&#39;s 20.93%, the first time since July 2007, boosted by AI-linked local companies &lpar;Abhishek Vishnoi/Bloomberg&rpar;](http://www.techmeme.com/260202/p8#a260202p8)
- - [SEC complaint: a whistleblower alleges Google broke its ethics rules in 2024 to help an Israeli military contractor use AI to analyze drone surveillance video &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/260202/p7#a260202p7)
- - [Sources: a KKR-led consortium is nearing a deal to buy Singapore-based ST Telemedia Global Data Centers for $10B+, as Asia sees a data center investment frenzy &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/260202/p6#a260202p6)<!-- TECH:END -->
+ - [The US&#39; high-speed internet rollout means drillers, linemen, and splicers pull in soaring pay nationwide amid a labor shortage for the physically demanding work &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260202/p13#a260202p13)
+ - [5 Movies You Must Watch Before the 2026 Winter Olympics](https://www.wired.com/gallery/5-movies-to-watch-before-2026-winter-olympics/)
+ - [Your Complete Guide to the 2026 Winter Olympics](https://www.wired.com/story/winter-olympics-2026-milano-cortina-complete-guide/)
+ - [ICE and Qatari Security Forces at the Winter Olympics Put Italians on Edge](https://www.wired.com/story/ice-and-qatari-security-forces-at-the-winter-olympics-put-italians-on-edge/)
+ - [How to Watch the 2026 Winter Olympics](https://www.wired.com/story/how-to-watch-winter-olympics-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

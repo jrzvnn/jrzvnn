@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump unveils a $12B critical minerals stockpile, called Project Vault, to minimize reliance on China, with participation from 12+ companies, including Google &lpar;Bloomberg&rpar;](http://www.techmeme.com/260202/p43#a260202p43)
+ - [Adobe plans to discontinue its 2D animation software Animate on March 1; enterprise customers can receive support until March 2029, and others until March 2027 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260202/p42#a260202p42)
  - [Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company](https://www.wired.com/story/spacex-acquires-xai-elon-musk/)
  - [Oracle says the Nvidia-OpenAI deal has &quot;zero impact&quot; on its financial relationship with OpenAI and it is &quot;highly confident in OpenAI&#39;s ability to raise funds&quot; &lpar;@oracle&rpar;](http://www.techmeme.com/260202/p41#a260202p41)
- - [Adobe Animate is shutting down next month](https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date)
- - [Artemis II Will Head to the Moon: All the Details About NASA&#39;s Historic Mission](https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-launch-itinerary/)
- - [Source: SpaceX acquired xAI for $250B; the announcement about the acquisition focuses on SpaceX&#39;s plans to launch data centers into space &lpar;The Information&rpar;](http://www.techmeme.com/260202/p40#a260202p40)<!-- TECH:END -->
+ - [Adobe Animate is shutting down next month](https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

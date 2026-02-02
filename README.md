@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Just about every spec of the iPhone Fold may have just been leaked](https://appleinsider.com/articles/26/02/02/just-about-every-spec-of-the-iphone-fold-may-have-just-been-leaked?utm_source=rss)
+ - [Day AI, which is developing an AI-powered CRM service that can automate data entry, meeting prep, and more, raised a $20M Series A led by Sequoia &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/260202/p25#a260202p25)
+ - [Sony’s last-gen, but still great 1000XM5 are cheaper than ever](https://www.theverge.com/gadgets/872182/sony-xm5-noise-canceling-headphones-super-bowl-tv-deal-sale)
  - [OpenClaw: all the news about the trending AI agent](https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news)
- - [Wiz says Moltbook had a major flaw that exposed private messages, emails, and credentials; Wiz co-founder Ami Luttwak called the flaw a byproduct of vibe coding &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260202/p24#a260202p24)
- - [Notepad++ and security researchers say Chinese state-sponsored threat actors were likely behind the hijacking of its update traffic from June to December 2025 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260202/p23#a260202p23)
- - [Snowflake and OpenAI agree to a multi-year, $200M partnership to integrate OpenAI&#39;s models into Snowflake Cortex AI and the Snowflake Intelligence agent &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260202/p22#a260202p22)
- - [The Epstein files](https://www.theverge.com/policy/872092/jeffrey-epstein-files-doj-trump-musk-brin-gates)<!-- TECH:END -->
+ - [Wiz says Moltbook had a major flaw that exposed private messages, emails, and credentials; Wiz co-founder Ami Luttwak called the flaw a byproduct of vibe coding &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260202/p24#a260202p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

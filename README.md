@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Best Floodlight Security Cameras &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-floodlight-security-cameras/)
- - [Vivo and Oppo’s telephoto extender comes to iPhone](https://www.theverge.com/gadgets/872058/pgytech-telephoto-extender-iphone)
- - [AI demand forcing Apple to look for alternatives to TSMC](https://appleinsider.com/articles/26/02/02/ai-demand-forcing-apple-to-look-for-alternatives-to-tsmc?utm_source=rss)
- - [Inside Elon Musk&#39;s bet to hook X users that turned Grok into a porn generator; sources say xAI&#39;s AI safety team was just two or three people for most of 2025 &lpar;Washington Post&rpar;](http://www.techmeme.com/260202/p19#a260202p19)
- - [The person who could be Apple CEO: Who is John Ternus?](https://appleinsider.com/articles/26/01/30/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)<!-- TECH:END -->
+ - [After X updated Grok to ban sexual deepfakes of women, tests show Grok still undresses men on the Grok app, website, and X, rarely resisting user requests &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260202/p20#a260202p20)
+ - [Elon Musk’s Grok is still undressing men](https://www.theverge.com/report/872062/grok-still-undressing-men)
+ - [How terrible - the insanely wealthy are confounded by Call Screening](https://appleinsider.com/articles/26/02/02/how-terrible---the-insanely-wealthy-are-confounded-by-call-screening?utm_source=rss)
+ - [Now anyone can tap Ring doorbells to search for lost dogs](https://www.theverge.com/tech/871916/search-party-non-ring-owners-neighbors-app)
+ - [Subscriptions like Creator Studio are the future of Apple&#39;s revenue](https://appleinsider.com/articles/26/02/02/subscriptions-like-creator-studio-are-the-future-of-apples-revenue?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

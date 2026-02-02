@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Barcelona-based Biorce, which is developing an AI service to speed up clinical trials, raised a $52.5M Series A, bringing its total funding to $60M+ &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260202/p29#a260202p29)
- - [Abxylute’s new Switch 2 controller is for all the die-hard GameCube fans](https://www.theverge.com/tech/872223/abxylute-nintendo-switch-2-controller-n6-n9c-gamecube-retro)
- - [OpenText is selling its analytics business Vertica to Rocket Software for $150M to reduce its outstanding debt, its second business unit sale within five months &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/260202/p28#a260202p28)
- - [&#39;Your Friends &amp; Neighbors&#39; returning to Apple TV for third season](https://appleinsider.com/articles/26/02/02/your-friends-neighbors-returning-to-apple-tv-for-third-season?utm_source=rss)
- - [Amazon launches $299 iPad 11 deal for February](https://appleinsider.com/articles/26/02/02/amazon-launches-299-ipad-11-deal-for-february?utm_source=rss)<!-- TECH:END -->
+ - [Our Favorite Sound Bar for Most People Is $50 Off](https://www.wired.com/story/yamaha-sr-c30a-deal-226/)
+ - [Former Windows 8 boss recruited Epstein to help negotiate his messy Microsoft exit](https://www.theverge.com/report/872073/steven-sinofsky-jeffrey-epstein-files-emails-microsoft-exit-settlement)
+ - [OpenAI launches a Codex app for macOS, designed to serve as a command center for managing AI agents, and says Codex usage has nearly doubled since mid-December &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260202/p30#a260202p30)
+ - [You Can Adapt That Recipe for the Air Fryer. Here&#39;s How](https://www.cnet.com/news/how-to-adapt-any-recipe-for-the-air-fryer/)
+ - [Time to Suit Up With Warhammer 40,000: Space Marine 2 and Quarantine Zone on Game Pass](https://www.cnet.com/tech/gaming/time-to-suit-up-with-warhammer-40000-space-marine-ii-quarantine-zone-on-game-pass/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

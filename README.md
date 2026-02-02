@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nolan what have you done?](http://9gag.com/gag/aAyANLg)
  - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 😝 [HR is watching you](http://9gag.com/gag/a0egxGz)
  - 💣 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)
- - 😝 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)
- - 👉 [HR is watching you](http://9gag.com/gag/a0egxGz)<!-- MEMES:END -->
+ - 😝 [November rain](http://9gag.com/gag/aD29rY9)
+ - 👉 [The director of the recently released Melania movie?](http://9gag.com/gag/a87NX11)<!-- MEMES:END -->
 
 ---
 

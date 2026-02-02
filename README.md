@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches $299 iPad 11 deal for February](https://appleinsider.com/articles/26/02/02/amazon-launches-299-ipad-11-deal-for-february?utm_source=rss)
- - [Shield, which acquires IT businesses and uses AI to make them efficient, raised $100M from Thrive Holdings and says it crossed $100M in annual revenue in 2025 &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260202/p27#a260202p27)
- - [The Verge’s 2026 Valentine’s Day gift guide &lpar;for her&rpar;](https://www.theverge.com/gadgets/865281/valentines-day-2026-gift-ideas-for-her-girlfriend-wife-partner)
- - [Fieldguide, which uses AI agents to automate accounting and auditing tasks, raised a $75M Series C led by Goldman Sachs Alternatives at a $700M valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/260202/p26#a260202p26)
- - [Just about every spec of the iPhone Fold may have just been leaked](https://appleinsider.com/articles/26/02/02/just-about-every-spec-of-the-iphone-fold-may-have-just-been-leaked?utm_source=rss)<!-- TECH:END -->
+ - [Barcelona-based Biorce, which is developing an AI service to speed up clinical trials, raised a $52.5M Series A, bringing its total funding to $60M+ &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260202/p29#a260202p29)
+ - [Abxylute’s new Switch 2 controller is for all the die-hard GameCube fans](https://www.theverge.com/tech/872223/abxylute-nintendo-switch-2-controller-n6-n9c-gamecube-retro)
+ - [OpenText is selling its analytics business Vertica to Rocket Software for $150M to reduce its outstanding debt, its second business unit sale within five months &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/260202/p28#a260202p28)
+ - [&#39;Your Friends &amp; Neighbors&#39; returning to Apple TV for third season](https://appleinsider.com/articles/26/02/02/your-friends-neighbors-returning-to-apple-tv-for-third-season?utm_source=rss)
+ - [Amazon launches $299 iPad 11 deal for February](https://appleinsider.com/articles/26/02/02/amazon-launches-299-ipad-11-deal-for-february?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After X updated Grok to ban sexual deepfakes of women, tests show Grok still undresses men on the Grok app, website, and X, rarely resisting user requests &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260202/p20#a260202p20)
- - [Elon Musk’s Grok is still undressing men](https://www.theverge.com/report/872062/grok-still-undressing-men)
- - [How terrible - the insanely wealthy are confounded by Call Screening](https://appleinsider.com/articles/26/02/02/how-terrible---the-insanely-wealthy-are-confounded-by-call-screening?utm_source=rss)
- - [Now anyone can tap Ring doorbells to search for lost dogs](https://www.theverge.com/tech/871916/search-party-non-ring-owners-neighbors-app)
- - [Subscriptions like Creator Studio are the future of Apple&#39;s revenue](https://appleinsider.com/articles/26/02/02/subscriptions-like-creator-studio-are-the-future-of-apples-revenue?utm_source=rss)<!-- TECH:END -->
+ - [Docusign&amp;#8217;s CEO on the dangers of trusting AI to read, and write, your contracts](https://www.theverge.com/podcast/871205/docusign-ceo-allan-thygesen-ai-contracts-e-signature-interview)
+ - [Dragon Quest gets another great remake that’s perfect for newcomers](https://www.theverge.com/games/871307/dragon-quest-7-reimagined-review-ps5-switch-xbox)
+ - [Integrating home automations &amp; Shortcuts with Matthew Cassinelli on this week&#39;s HomeKit Insider](https://appleinsider.com/articles/26/02/02/integrating-home-automations-shortcuts-with-matthew-cassinelli-on-this-weeks-homekit-insider?utm_source=rss)
+ - [Alabama-based Linq, which pivoted to programmatic messaging APIs in February 2025, raised a $20M Series A to build AI assistants that work within messaging apps &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/260202/p21#a260202p21)
+ - [After X updated Grok to ban sexual deepfakes of women, tests show Grok still undresses men on Grok&#39;s app, Grok&#39;s website, and X, rarely resisting user requests &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260202/p20#a260202p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

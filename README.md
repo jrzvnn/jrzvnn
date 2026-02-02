@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - 😝 [HR is watching you](http://9gag.com/gag/a0egxGz)
- - 💣 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)
  - 😝 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
- - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
+ - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 💣 [HR is watching you](http://9gag.com/gag/a0egxGz)
+ - 😝 [Xbox doing more than the feds](http://9gag.com/gag/abADKg9)
+ - 👉 [The director of the recently released Melania movie?](http://9gag.com/gag/a87NX11)<!-- MEMES:END -->
 
 ---
 

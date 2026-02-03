@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris prosecutors say they raided X&#39;s French offices with assistance from Europol; Elon Musk and ex-CEO Linda Yaccarino have been summoned to April hearings &lpar;BBC&rpar;](http://www.techmeme.com/260203/p6#a260203p6)
  - [Q&amp;A with Docusign CEO Allan Thygesen on Docusign&#39;s workforce growing to 7,000 staffers, its Intelligent Agreement Management system, AI hallucinations, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260203/p5#a260203p5)
  - [Nintendo says the Switch 1 sold 155.37M units as of December 31 since its 2017 launch, topping the DS&#39;s 154.02M units, becoming its best-selling console ever &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260203/p4#a260203p4)
  - [Nintendo reports Q3 revenue of $5.2B, below $5.45B est., a net profit of $1.03B, vs. $950M est., and maintains its 19M Switch 2 sales forecast for fiscal 2026 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260203/p3#a260203p3)
- - [The Switch is now Nintendo’s best-selling console of all time](https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds)
- - [Sources: China&#39;s top memory chipmakers, CXMT and YMTC, plan their biggest expansions yet as a global supply crunch lets them close the gap with market leaders &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260203/p2#a260203p2)<!-- TECH:END -->
+ - [The Switch is now Nintendo’s best-selling console of all time](https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

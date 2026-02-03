@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Borderlands 4 for Switch 2 is on ‘pause’](https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause)
- - [Match reports Q4 revenue up 2% YoY to $878M, vs. $871M est., net income up 32% YoY to $210M, paying users down 5% to 13.8M; MTCH jumps 7%+ after hours &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260203/p38#a260203p38)
- - [An ‘Intimacy Crisis’ Is Driving the Dating Divide](https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/)
- - [AMD reports Q4 revenue up 34% YoY to $10.3B, Data Center revenue up 39% to $5.4B, forecasts Q1 revenue below the highest projections; AMD drops 5%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260203/p37#a260203p37)
- - [Sources: Texas Instruments is in advanced talks to buy chip designer Silicon Laboratories for ~$7B, a premium to Silicon Labs&#39; market cap of $4.4B as of Tuesday &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p36#a260203p36)<!-- TECH:END -->
+ - [EA reports Q3 net bookings up 38% YoY to $3.05B, vs. $2.86B est., driven by strong sales of Battlefield 6, and net income of $88M, down from $293M a year ago &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260203/p40#a260203p40)
+ - [Slopaganda goes West](https://www.theverge.com/news/873400/nick-shirley-somali-daycares-san-diego-california-youtube)
+ - [Take-Two reports Q3 net bookings up 28% YoY to $1.76B, vs. $1.58B, net revenue up 25% to $1.7B, and raises its annual bookings forecast; TTWO up 5%+ after hours &lpar;Max Knoblauch/Sherwood News&rpar;](http://www.techmeme.com/260203/p39#a260203p39)
+ - [&#39;High Potential&#39; Hulu Release Schedule: How to Watch Season 2, Episode 12](https://www.cnet.com/tech/services-and-software/high-potential-hulu-watch-season-2-episode-12/)
+ - [Borderlands 4 for Switch 2 is on ‘pause’](https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

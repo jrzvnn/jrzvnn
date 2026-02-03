@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upgrade Your Roku Before the Big Game](https://www.wired.com/story/roku-deal-226/)
- - [Skyryse, which plans to integrate its flight automation OS, SkyOS, in Black Hawk helicopters and other aircraft, raised a $300M+ Series C at a $1.15B valuation &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260203/p33#a260203p33)
- - [Apple’s Xcode adds OpenAI and Anthropic’s coding agents](https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding)
- - [At the Cisco AI Summit, Intel CEO Lip-Bu Tan says the company plans to build GPUs and has already hired a chief GPU architect &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/260203/p32#a260203p32)
- - [AI agents plus Terminal access equals a macOS security mess](https://appleinsider.com/articles/26/02/03/ai-agents-plus-terminal-access-equals-a-macos-security-mess?utm_source=rss)<!-- TECH:END -->
+ - [Bitcoin dived below the $73,000 mark on Tuesday, hitting its lowest price since November 2024 as heavy selling resumes amid mounting geopolitical concerns &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/260203/p34#a260203p34)
+ - [Jonah Hill&#39;s dark comedy &#39;Outcome&#39; brings Keanu Reeves to Apple TV](https://appleinsider.com/articles/26/02/03/jonah-hills-dark-comedy-outcome-brings-keanu-reeves-to-apple-tv?utm_source=rss)
+ - [&#39;Monarch&#39; season two signals a darker, riskier future for the Monsterverse](https://appleinsider.com/articles/26/02/03/monarch-season-two-signals-a-darker-riskier-future-for-the-monsterverse?utm_source=rss)
+ - [Microsoft says it’s building an app store for AI content licensing](https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing)
+ - [I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren&#39;t Allowed](https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

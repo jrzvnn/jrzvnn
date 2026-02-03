@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classical Collection](http://9gag.com/gag/a5Qg9Dr)
- - 😝 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
- - 💣 [Never surrender](http://9gag.com/gag/an7Z01o)
- - 😝 [Unwearable shirt](http://9gag.com/gag/aryEDo6)
- - 👉 [November rain](http://9gag.com/gag/aD29rY9)<!-- MEMES:END -->
+ - 😝 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
+ - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 💣 [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
+ - 😝 [That&#39;s gonna need some serious warning labels on it to prevent dumb f**ks...well you know what they gonna do with it.](http://9gag.com/gag/a4Pg84m)
+ - 👉 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)<!-- MEMES:END -->
 
 ---
 

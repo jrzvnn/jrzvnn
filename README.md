@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 😝 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)
- - 💣 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - 😝 [Once he checks out there no going back. play stupid games, win stupid prizes.](http://9gag.com/gag/aGyv6E6)
- - 👉 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)<!-- MEMES:END -->
+ - 😝 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
+ - 😝 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
+ - 💣 [Once he checks out there no going back. play stupid games, win stupid prizes.](http://9gag.com/gag/aGyv6E6)
+ - 😝 [Sunset](http://9gag.com/gag/aLno31A)
+ - 👉 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)<!-- MEMES:END -->
 
 ---
 

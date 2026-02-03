@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
  - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - 💣 [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
+ - 😝 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)
+ - 💣 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
  - 😝 [That&#39;s gonna need some serious warning labels on it to prevent dumb f**ks...well you know what they gonna do with it.](http://9gag.com/gag/a4Pg84m)
- - 👉 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)<!-- MEMES:END -->
+ - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
 
 ---
 

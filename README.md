@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo says the Switch 1 sold 155.37M units as of December 31, 2025 since its 2017 launch, topping the DS at 154.02M, becoming its best-selling console ever &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260203/p4#a260203p4)
+ - [Nintendo reports Q3 revenue of $5.2B vs. $5.45B est., a net profit of $1.03B vs. $950M est., and maintains its 19M Switch 2 sales forecast for fiscal 2026 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260203/p3#a260203p3)
+ - [The Switch is now Nintendo’s best-selling console of all time](https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds)
  - [Sources: China&#39;s top memory chipmakers, CXMT and YMTC, plan their biggest expansions yet as a global supply crunch lets them close the gap with market leaders &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260203/p2#a260203p2)
- - [Sources: Telefónica and Liberty Global, co-owners of Virgin Media O2, are set to lead a ~£2B acquisition of UK&#39;s fourth-largest broadband network, Netomnia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260203/p1#a260203p1)
- - [How to watch Super Bowl LX on Apple devices, streaming, cable &amp; antenna](https://appleinsider.com/inside/apple-tv/tips/how-to-watch-super-bowl-lx-on-apple-devices-streaming-cable-antenna?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-3/)
- - [A look at WhatsApp&#39;s E2E encryption and whether it protects from metadata and chat backup leaks, after a lawsuit alleges Meta can read users&#39; private data &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/260202/p49#a260202p49)<!-- TECH:END -->
+ - [Sources: Telefónica and Liberty Global, co-owners of Virgin Media O2, are set to lead a ~£2B acquisition of UK&#39;s fourth-largest broadband network, Netomnia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260203/p1#a260203p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

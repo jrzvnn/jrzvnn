@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches the Publisher Content Marketplace in partnership with Condé Nast, Hearst, AP, and others, to let publishers license content to AI companies &lpar;Anu Adegbola/Search Engine Land&rpar;](http://www.techmeme.com/260203/p35#a260203p35)
- - [Bitcoin dived below the $73,000 mark on Tuesday, hitting its lowest price since November 2024 as heavy selling resumes amid mounting geopolitical concerns &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/260203/p34#a260203p34)
- - [Jonah Hill&#39;s dark comedy &#39;Outcome&#39; brings Keanu Reeves to Apple TV](https://appleinsider.com/articles/26/02/03/jonah-hills-dark-comedy-outcome-brings-keanu-reeves-to-apple-tv?utm_source=rss)
- - [&#39;Monarch&#39; season two signals a darker, riskier future for the Monsterverse](https://appleinsider.com/articles/26/02/03/monarch-season-two-signals-a-darker-riskier-future-for-the-monsterverse?utm_source=rss)
- - [Microsoft says it’s building an app store for AI content licensing](https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing)<!-- TECH:END -->
+ - [Sources: Texas Instruments is in advanced talks to buy chip designer Silicon Laboratories for ~$7B, a premium to Silicon Labs&#39; market cap of $4.4B as of Tuesday &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p36#a260203p36)
+ - [Xcode 26.3 hands on: AI agent coding is astoundingly fast, smart, and too convenient](https://appleinsider.com/articles/26/02/03/xcode-263-hands-on-ai-agent-coding-is-astoundingly-fast-smart-and-too-convenient?utm_source=rss)
+ - [The four best Super Bowl TV deals we found](https://www.theverge.com/gadgets/873160/super-bowl-4k-oled-big-tv-deal-sale)
+ - [The $500 Check That Kickstarted Apple Just Sold for $2.4 Million. Take a Look](https://www.cnet.com/tech/the-500-check-that-kickstarted-apple-just-sold-for-2-4-million-take-a-look/)
+ - [HBO Max: The 26 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-hbo-max/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

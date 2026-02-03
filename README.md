@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at WhatsApp&#39;s E2E encryption and whether it protects from metadata and chat backup leaks, after a lawsuit alleges Meta can read users&#39; private data &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/260202/p49#a260202p49)
+ - [If assumptions hold, SpaceX-xAI could own a full stack of capabilities, from launch to orbital bandwidth to frontier AI models, and offer AI on demand anywhere &lpar;Eric Berger/Ars Technica&rpar;](http://www.techmeme.com/260202/p48#a260202p48)
  - [In a memo to employees, xAI said both companies will maintain their separate branding and the joint venture is continuing to prepare for a possible IPO in 2026 &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260202/p47#a260202p47)
  - [Leaked email: as part of the xAI-SpaceX deal, xAI shares will be converted into 0.1433 shares of SpaceX stock, and employees will have the option to cash out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260202/p46#a260202p46)
- - [Crunchyroll is raising its US prices by $2 per month; the cheapest tier gets its first price increase since 2019 and now offers offline downloads on one device &lpar;Isaac Rouse/Polygon.com&rpar;](http://www.techmeme.com/260202/p45#a260202p45)
- - [Epstein Files Reveal Peter Thiel&#39;s Elaborate Dietary Restrictions](https://www.wired.com/story/epstein-jeffrey-files-peter-thiel-diet-sushi/)
- - [The SpaceX-xAI merger further intermingles Musk&#39;s companies, creates the most valuable private company in the world, and provides a financial lifeline to xAI &lpar;New York Times&rpar;](http://www.techmeme.com/260202/p44#a260202p44)<!-- TECH:END -->
+ - [Crunchyroll is raising its US prices by $2 per month; the cheapest tier gets its first price increase since 2019 and now offers offline downloads on one device &lpar;Isaac Rouse/Polygon.com&rpar;](http://www.techmeme.com/260202/p45#a260202p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

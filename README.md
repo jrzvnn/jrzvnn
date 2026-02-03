@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris prosecutors say they raided X&#39;s French offices with assistance from Europol; Elon Musk and ex-CEO Linda Yaccarino have been summoned to April hearings &lpar;BBC&rpar;](http://www.techmeme.com/260203/p6#a260203p6)
- - [Q&amp;A with Docusign CEO Allan Thygesen on Docusign&#39;s workforce growing to 7,000 staffers, its Intelligent Agreement Management system, AI hallucinations, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260203/p5#a260203p5)
- - [Nintendo says the Switch 1 sold 155.37M units as of December 31 since its 2017 launch, topping the DS&#39;s 154.02M units, becoming its best-selling console ever &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260203/p4#a260203p4)
- - [Nintendo reports Q3 revenue of $5.2B, below $5.45B est., a net profit of $1.03B, vs. $950M est., and maintains its 19M Switch 2 sales forecast for fiscal 2026 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260203/p3#a260203p3)
- - [The Switch is now Nintendo’s best-selling console of all time](https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds)<!-- TECH:END -->
+ - [‘She Has a Presence’: The ‘Melania’ Superfans Who Turned Up for Opening Weekend](https://www.wired.com/story/she-has-a-presence-the-melania-superfans-who-turned-up-for-opening-weekend/)
+ - [How Data Brokers Can Fuel Violence Against Public Servants](https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/)
+ - [How to tear gas children](https://www.theverge.com/policy/872783/tear-gas-children-portland-ice-labor)
+ - [Uber rolls out its service in the Chinese gambling hub of Macau, its first new entry to an Asian market for years; Uber sold its China business to Didi in 2016 &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/260203/p8#a260203p8)
+ - [Sources: OpenAI is prioritizing ChatGPT over long-term research, prompting senior staff departures; Sora and DALL-E teams felt neglected and under resourced &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260203/p7#a260203p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)
- - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - 💣 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
+ - 😝 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
+ - 😝 [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
+ - 💣 [Valar Morghulis](http://9gag.com/gag/a9yweLo)
  - 😝 [Childhood dreams really do come true](http://9gag.com/gag/awyj9YW)
- - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
+ - 👉 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)<!-- MEMES:END -->
 
 ---
 

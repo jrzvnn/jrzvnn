@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Sam Altman, who says &quot;we basically have built AGI, or very close to it&quot; before dialing it back later and calling it &quot;a spiritual statement&quot; &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/260203/p17#a260203p17)
- - [I didn’t expect to love Dyson’s PencilVac Fluffycones – but I did](https://www.theverge.com/tech/872981/dyson-pencilvac-fluffycones-vacuum-hands-on-review)
- - [Apple’s tiny but mighty iPad Mini is $100 off in every storage configuration](https://www.theverge.com/gadgets/872788/apple-ipad-mini-amazfit-active-2-fitness-tracker-deal-sale)
- - [Epic reports third-party game revenue on the Epic Games Store up 57% YoY in 2025 to $400M, total spend up 6% to $1.16B, and total player hours down 14% to 6.65B &lpar;Jon Hicks/GamesIndustry.biz&rpar;](http://www.techmeme.com/260203/p16#a260203p16)
- - [Millions of books died so Claude could live](https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast)<!-- TECH:END -->
+ - [Walmart hits a $1T market cap in intraday trading after a stock surge fueled in part by investor enthusiasm for its e-commerce growth and AI investments &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/260203/p24#a260203p24)
+ - [The Switch is Nintendo&amp;#8217;s best-selling console — and its most transformative](https://www.theverge.com/games/873098/nintendo-switch-era-best-selling-console)
+ - [LexisNexis-owner Relx, Reuters-owner Thomson Reuters, and other stocks fell 10%+ after Anthropic launched Claude Cowork tools that automate legal work &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p23#a260203p23)
+ - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)
+ - [Overland AI, which develops off-road robots and autonomous vehicles for military purposes, raised $100M led by 8VC, bringing its total funding to $142M &lpar;Jen Judson/Bloomberg&rpar;](http://www.techmeme.com/260203/p22#a260203p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft launches the Publisher Content Marketplace in partnership with Condé Nast, Hearst, AP, and others, to let publishers license content to AI companies &lpar;Anu Adegbola/Search Engine Land&rpar;](http://www.techmeme.com/260203/p35#a260203p35)
  - [Bitcoin dived below the $73,000 mark on Tuesday, hitting its lowest price since November 2024 as heavy selling resumes amid mounting geopolitical concerns &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/260203/p34#a260203p34)
  - [Jonah Hill&#39;s dark comedy &#39;Outcome&#39; brings Keanu Reeves to Apple TV](https://appleinsider.com/articles/26/02/03/jonah-hills-dark-comedy-outcome-brings-keanu-reeves-to-apple-tv?utm_source=rss)
  - [&#39;Monarch&#39; season two signals a darker, riskier future for the Monsterverse](https://appleinsider.com/articles/26/02/03/monarch-season-two-signals-a-darker-riskier-future-for-the-monsterverse?utm_source=rss)
- - [Microsoft says it’s building an app store for AI content licensing](https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing)
- - [I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren&#39;t Allowed](https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/)<!-- TECH:END -->
+ - [Microsoft says it’s building an app store for AI content licensing](https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

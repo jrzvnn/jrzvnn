@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
  - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - 😝 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
- - 💣 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
- - 😝 [Childhood dreams really do come true](http://9gag.com/gag/awyj9YW)
+ - 💣 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
+ - 😝 [Refrigerated and Felinesexual](http://9gag.com/gag/a2vg9QO)
  - 👉 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal names HP CEO Enrique Lores as CEO, replacing Alex Chriss on March 1, and reports Q4 revenue up 4% YoY to $8.7B, missing est.; PYPL falls 15% pre-market &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/260203/p10#a260203p10)
- - [How to watch Super Bowl LX on iPhone, Mac, and iPad](https://appleinsider.com/inside/apple-tv/tips/how-to-watch-super-bowl-lx-on-apple-devices-streaming-cable-antenna?utm_source=rss)
- - [‘Fallout’ Producer Jonathan Nolan on AI: ‘We’re in Such a Frothy Moment’](https://www.wired.com/story/the-big-interview-podcast-jonathan-nolan-fallout/)
- - [A community organizer&amp;#8217;s guide to Signal group chats](https://www.theverge.com/tech/872493/signal-community-organizing-guide-group-chat)
- - [All the Sports You Won’t See at the 2026 Winter Olympics](https://www.wired.com/story/winter-olympics-2026-long-lost-events/)<!-- TECH:END -->
+ - [7 Best Shower Filters &lpar;2026&rpar;, WIRED Tested and Approved](https://www.wired.com/gallery/best-shower-water-filters/)
+ - [M6 MacBook Pro OLED screen &amp; M6 chip close to mass production](https://appleinsider.com/articles/26/02/03/m6-macbook-pro-oled-screen-m6-chip-close-to-mass-production?utm_source=rss)
+ - [A Continuous Glucose Monitor Might Help You Lose Weight &lpar;2026&rpar;](https://www.wired.com/story/cgms-really-can-help-you-lose-weight/)
+ - [Aluminium: Why Google’s Android for PC launch may be messy and controversial](https://www.theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial)
+ - [YouTube now blocking background playback on mobile browsers](https://www.theverge.com/news/872937/google-youtube-blocking-third-party-mobile-browsers-background-playback)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI accused of destroying evidence in OpenAI &amp; Apple antitrust lawsuit](https://appleinsider.com/articles/26/02/03/xai-accused-of-destroying-evidence-in-openai-apple-antitrust-lawsuit?utm_source=rss)
+ - [Department of Justice appeals Google search monopoly ruling](https://www.theverge.com/tech/873438/google-antitrust-case-doj-states-appeal)
+ - [Super Micro reports Q2 net sales up 123% to $12.7B, vs. $10.43B est., and expects Q3 net sales above estimates; SMCI jumps 5%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260203/p41#a260203p41)
  - [EA reports Q3 net bookings up 38% YoY to $3.05B, vs. $2.86B est., driven by strong sales of Battlefield 6, and net income of $88M, down from $293M a year ago &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260203/p40#a260203p40)
- - [Slopaganda goes West](https://www.theverge.com/news/873400/nick-shirley-somali-daycares-san-diego-california-youtube)
- - [Take-Two reports Q3 net bookings up 28% YoY to $1.76B, vs. $1.58B, net revenue up 25% to $1.7B, and raises its annual bookings forecast; TTWO up 5%+ after hours &lpar;Max Knoblauch/Sherwood News&rpar;](http://www.techmeme.com/260203/p39#a260203p39)
- - [&#39;High Potential&#39; Hulu Release Schedule: How to Watch Season 2, Episode 12](https://www.cnet.com/tech/services-and-software/high-potential-hulu-watch-season-2-episode-12/)
- - [Borderlands 4 for Switch 2 is on ‘pause’](https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause)<!-- TECH:END -->
+ - [Slopaganda goes West](https://www.theverge.com/news/873400/nick-shirley-somali-daycares-san-diego-california-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

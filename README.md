@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Texas Instruments is in advanced talks to buy chip designer Silicon Laboratories for ~$7B, a premium to Silicon Labs&#39; market cap of $4.4B as of Tuesday &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p36#a260203p36)
- - [Xcode 26.3 hands on: AI agent coding is astoundingly fast, smart, and too convenient](https://appleinsider.com/articles/26/02/03/xcode-263-hands-on-ai-agent-coding-is-astoundingly-fast-smart-and-too-convenient?utm_source=rss)
- - [The four best Super Bowl TV deals we found](https://www.theverge.com/gadgets/873160/super-bowl-4k-oled-big-tv-deal-sale)
- - [The $500 Check That Kickstarted Apple Just Sold for $2.4 Million. Take a Look](https://www.cnet.com/tech/the-500-check-that-kickstarted-apple-just-sold-for-2-4-million-take-a-look/)
- - [HBO Max: The 26 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-hbo-max/)<!-- TECH:END -->
+ - [Borderlands 4 for Switch 2 is on ‘pause’](https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause)
+ - [Match reports Q4 revenue up 2% YoY to $878M, vs. $871M est., net income up 32% YoY to $210M, paying users down 5% to 13.8M; MTCH jumps 7%+ after hours &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260203/p38#a260203p38)
+ - [An ‘Intimacy Crisis’ Is Driving the Dating Divide](https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/)
+ - [AMD reports Q4 revenue up 34% YoY to $10.3B, Data Center revenue up 39% to $5.4B, forecasts Q1 revenue below the highest projections; AMD drops 5%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260203/p37#a260203p37)
+ - [Sources: Texas Instruments is in advanced talks to buy chip designer Silicon Laboratories for ~$7B, a premium to Silicon Labs&#39; market cap of $4.4B as of Tuesday &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p36#a260203p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

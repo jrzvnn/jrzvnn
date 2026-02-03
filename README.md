@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI accused of destroying evidence in OpenAI &amp; Apple antitrust lawsuit](https://appleinsider.com/articles/26/02/03/xai-accused-of-destroying-evidence-in-openai-apple-antitrust-lawsuit?utm_source=rss)
- - [Department of Justice appeals Google search monopoly ruling](https://www.theverge.com/tech/873438/google-antitrust-case-doj-states-appeal)
- - [Super Micro reports Q2 net sales up 123% to $12.7B, vs. $10.43B est., and expects Q3 net sales above estimates; SMCI jumps 5%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260203/p41#a260203p41)
- - [EA reports Q3 net bookings up 38% YoY to $3.05B, vs. $2.86B est., driven by strong sales of Battlefield 6, and net income of $88M, down from $293M a year ago &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260203/p40#a260203p40)
- - [Slopaganda goes West](https://www.theverge.com/news/873400/nick-shirley-somali-daycares-san-diego-california-youtube)<!-- TECH:END -->
+ - [Software and data stocks plunge over fears that new developments in AI will supplant software; ADBE closed down 7.31%, CRM 6.85%, and Thomson Reuters 15.83% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260203/p44#a260203p44)
+ - [OpenAI names Dylan Scandinaro, who worked on AGI safety at Anthropic, as the company&#39;s head of preparedness &lpar;Alicia Tang/Bloomberg&rpar;](http://www.techmeme.com/260203/p43#a260203p43)
+ - [AMD hints Microsoft could launch its next-gen Xbox in 2027](https://www.theverge.com/news/873490/microsoft-next-gen-xbox-console-2027-date-amd)
+ - [US v. Google: the DOJ and a group of states will appeal the September 2025 ruling in the Search antitrust case in which Google dodged a forced sale of Chrome &lpar;Bloomberg&rpar;](http://www.techmeme.com/260203/p42#a260203p42)
+ - [xAI accused of destroying evidence in OpenAI &amp; Apple antitrust lawsuit](https://appleinsider.com/articles/26/02/03/xai-accused-of-destroying-evidence-in-openai-apple-antitrust-lawsuit?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

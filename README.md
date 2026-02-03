@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘She Has a Presence’: The ‘Melania’ Superfans Who Turned Up for Opening Weekend](https://www.wired.com/story/she-has-a-presence-the-melania-superfans-who-turned-up-for-opening-weekend/)
- - [How Data Brokers Can Fuel Violence Against Public Servants](https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/)
- - [How to tear gas children](https://www.theverge.com/policy/872783/tear-gas-children-portland-ice-labor)
- - [Uber rolls out its service in the Chinese gambling hub of Macau, its first new entry to an Asian market for years; Uber sold its China business to Didi in 2016 &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/260203/p8#a260203p8)
- - [Sources: OpenAI is prioritizing ChatGPT over long-term research, prompting senior staff departures; Sora and DALL-E teams felt neglected and under resourced &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260203/p7#a260203p7)<!-- TECH:END -->
+ - [All the Sports You Won’t See at the 2026 Winter Olympics](https://www.wired.com/story/winter-olympics-2026-long-lost-events/)
+ - [12 Athletes to Watch at the 2026 Winter Olympics](https://www.wired.com/story/12-atletes-to-watch-2026-winter-olympics-historic/)
+ - [Nick Goepper’s Starter Pack: Winter Olympics 2026](https://www.wired.com/story/freestyle-skier-nick-goeppers-olympic-starter-pack/)
+ - [A profile of Brazilian neobank Nubank, which aims to enter the US market within 18 months, growing its 120M+ users; analysts expect $2.9B in 2025 net income &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/260203/p9#a260203p9)
+ - [‘She Has a Presence’: The ‘Melania’ Superfans Who Turned Up for Opening Weekend](https://www.wired.com/story/she-has-a-presence-the-melania-superfans-who-turned-up-for-opening-weekend/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

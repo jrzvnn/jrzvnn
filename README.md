@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)
- - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 💣 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - 😝 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)
- - 👉 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)<!-- MEMES:END -->
+ - 😝 [Nice...](http://9gag.com/gag/a9ywerW)
+ - 😝 [That&#39;s gonna need some serious warning labels on it to prevent dumb f**ks...well you know what they gonna do with it.](http://9gag.com/gag/a4Pg84m)
+ - 💣 [Genuinely surprised](http://9gag.com/gag/aZZXKyp)
+ - 😝 [Only acceptable Helen of Troy](http://9gag.com/gag/agm9b86)
+ - 👉 [An adrenaline junkie getting his fix.](http://9gag.com/gag/aAyA7eo)<!-- MEMES:END -->
 
 ---
 

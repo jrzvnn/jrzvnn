@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feeding Charlotte at the farm.](http://9gag.com/gag/aVvr4XP)
- - 😝 [Nolan what have you done?](http://9gag.com/gag/aAyANLg)
- - 💣 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - 😝 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
+ - 😝 [Just American things](http://9gag.com/gag/a5QgygE)
+ - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 💣 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
+ - 😝 [I can&#39;t even imagine](http://9gag.com/gag/avyqB6X)
  - 👉 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)<!-- MEMES:END -->
 
 ---

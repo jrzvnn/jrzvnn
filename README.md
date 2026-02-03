@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the Sports You Won’t See at the 2026 Winter Olympics](https://www.wired.com/story/winter-olympics-2026-long-lost-events/)
- - [12 Athletes to Watch at the 2026 Winter Olympics](https://www.wired.com/story/12-atletes-to-watch-2026-winter-olympics-historic/)
- - [Nick Goepper’s Starter Pack: Winter Olympics 2026](https://www.wired.com/story/freestyle-skier-nick-goeppers-olympic-starter-pack/)
- - [A profile of Brazilian neobank Nubank, which aims to enter the US market within 18 months, growing its 120M+ users; analysts expect $2.9B in 2025 net income &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/260203/p9#a260203p9)
- - [‘She Has a Presence’: The ‘Melania’ Superfans Who Turned Up for Opening Weekend](https://www.wired.com/story/she-has-a-presence-the-melania-superfans-who-turned-up-for-opening-weekend/)<!-- TECH:END -->
+ - [PayPal names HP CEO Enrique Lores as CEO, replacing Alex Chriss on March 1, and reports Q4 revenue up 4% YoY to $8.7B, missing est.; PYPL falls 15% pre-market &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/260203/p10#a260203p10)
+ - [How to watch Super Bowl LX on iPhone, Mac, and iPad](https://appleinsider.com/inside/apple-tv/tips/how-to-watch-super-bowl-lx-on-apple-devices-streaming-cable-antenna?utm_source=rss)
+ - [‘Fallout’ Producer Jonathan Nolan on AI: ‘We’re in Such a Frothy Moment’](https://www.wired.com/story/the-big-interview-podcast-jonathan-nolan-fallout/)
+ - [A community organizer&amp;#8217;s guide to Signal group chats](https://www.theverge.com/tech/872493/signal-community-organizing-guide-group-chat)
+ - [All the Sports You Won’t See at the 2026 Winter Olympics](https://www.wired.com/story/winter-olympics-2026-long-lost-events/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

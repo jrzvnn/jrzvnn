@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
  - 😝 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - 💣 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
- - 😝 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
- - 👉 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)<!-- MEMES:END -->
+ - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 💣 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)
+ - 😝 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)
+ - 👉 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)<!-- MEMES:END -->
 
 ---
 

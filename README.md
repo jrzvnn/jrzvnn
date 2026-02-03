@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart hits a $1T market cap in intraday trading after a stock surge fueled in part by investor enthusiasm for its e-commerce growth and AI investments &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/260203/p24#a260203p24)
- - [The Switch is Nintendo&amp;#8217;s best-selling console — and its most transformative](https://www.theverge.com/games/873098/nintendo-switch-era-best-selling-console)
- - [LexisNexis-owner Relx, Reuters-owner Thomson Reuters, and other stocks fell 10%+ after Anthropic launched Claude Cowork tools that automate legal work &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p23#a260203p23)
- - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)
- - [Overland AI, which develops off-road robots and autonomous vehicles for military purposes, raised $100M led by 8VC, bringing its total funding to $142M &lpar;Jen Judson/Bloomberg&rpar;](http://www.techmeme.com/260203/p22#a260203p22)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Apptopia: ChatGPT&#39;s US market share fell from 69.1% to 45.3% between Jan. 2025 and Jan. 2026; Gemini rose from 14.7% to 25.1%, Grok rose from 1.6% to 15.2% &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/260203/p27#a260203p27)
+ - [Boost your vibe coding with AI agents in Apple&#39;s new Xcode 26.3](https://appleinsider.com/articles/26/02/03/boost-your-vibe-coding-with-ai-agents-in-apples-new-xcode-263?utm_source=rss)
+ - [Republicans Are All in on Boosting Fraud Allegations in California](https://www.wired.com/story/republicans-boosting-fraud-allegations-california/)
+ - [Apple users are being targeted by a coordinated Apple Pay phishing campaign](https://appleinsider.com/articles/26/02/03/apple-users-are-being-targeted-by-a-coordinated-apple-pay-phishing-campaign?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

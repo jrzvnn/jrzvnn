@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Shower Filters &lpar;2026&rpar;, WIRED Tested and Approved](https://www.wired.com/gallery/best-shower-water-filters/)
- - [M6 MacBook Pro OLED screen &amp; M6 chip close to mass production](https://appleinsider.com/articles/26/02/03/m6-macbook-pro-oled-screen-m6-chip-close-to-mass-production?utm_source=rss)
- - [A Continuous Glucose Monitor Might Help You Lose Weight &lpar;2026&rpar;](https://www.wired.com/story/cgms-really-can-help-you-lose-weight/)
- - [Aluminium: Why Google’s Android for PC launch may be messy and controversial](https://www.theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial)
- - [YouTube now blocking background playback on mobile browsers](https://www.theverge.com/news/872937/google-youtube-blocking-third-party-mobile-browsers-background-playback)<!-- TECH:END -->
+ - [Use an external SSD with Final Cut Pro for iPad or risk losing your work](https://appleinsider.com/inside/final-cut-pro/tips/use-an-external-ssd-with-final-cut-pro-for-ipad-or-risk-losing-your-work?utm_source=rss)
+ - [Humans are infiltrating the Reddit for AI bots](https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots)
+ - [Disney says Josh D&amp;#8217;Amaro will replace Bob Iger as CEO](https://www.theverge.com/news/872972/disney-ceo-bob-iger-replacement-josh-damaro)
+ - [Call of Duty tries to block XIM and Cronus cheaters again](https://www.theverge.com/news/872976/call-of-duty-xim-cronus-reasnow-s1-ban-detections)
+ - [Nintendo’s Virtual Boy Is a Silly but Fun Blast From the Past](https://www.wired.com/story/nintendo-virtual-boy-switch-accessory/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

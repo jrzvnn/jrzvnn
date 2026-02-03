@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)
- - 😝 [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
- - 💣 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
- - 😝 [Epstein](http://9gag.com/gag/an7Z0mV)
- - 👉 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)<!-- MEMES:END -->
+ - 😝 [Classical Collection](http://9gag.com/gag/a5Qg9Dr)
+ - 😝 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
+ - 💣 [Never surrender](http://9gag.com/gag/an7Z01o)
+ - 😝 [Unwearable shirt](http://9gag.com/gag/aryEDo6)
+ - 👉 [November rain](http://9gag.com/gag/aD29rY9)<!-- MEMES:END -->
 
 ---
 

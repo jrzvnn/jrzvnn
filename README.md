@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump unveils a $12B critical minerals stockpile, called Project Vault, to minimize reliance on China, with participation from 12+ companies, including Google &lpar;Bloomberg&rpar;](http://www.techmeme.com/260202/p43#a260202p43)
- - [Adobe plans to discontinue its 2D animation software Animate on March 1; enterprise customers can receive support until March 2029, and others until March 2027 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260202/p42#a260202p42)
- - [Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company](https://www.wired.com/story/spacex-acquires-xai-elon-musk/)
- - [Oracle says the Nvidia-OpenAI deal has &quot;zero impact&quot; on its financial relationship with OpenAI and it is &quot;highly confident in OpenAI&#39;s ability to raise funds&quot; &lpar;@oracle&rpar;](http://www.techmeme.com/260202/p41#a260202p41)
- - [Adobe Animate is shutting down next month](https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date)<!-- TECH:END -->
+ - [In a memo to employees, xAI said both companies will maintain their separate branding and the joint venture is continuing to prepare for a possible IPO in 2026 &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260202/p47#a260202p47)
+ - [Leaked email: as part of the xAI-SpaceX deal, xAI shares will be converted into 0.1433 shares of SpaceX stock, and employees will have the option to cash out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260202/p46#a260202p46)
+ - [Crunchyroll is raising its US prices by $2 per month; the cheapest tier gets its first price increase since 2019 and now offers offline downloads on one device &lpar;Isaac Rouse/Polygon.com&rpar;](http://www.techmeme.com/260202/p45#a260202p45)
+ - [Epstein Files Reveal Peter Thiel&#39;s Elaborate Dietary Restrictions](https://www.wired.com/story/epstein-jeffrey-files-peter-thiel-diet-sushi/)
+ - [The SpaceX-xAI merger further intermingles Musk&#39;s companies, creates the most valuable private company in the world, and provides a financial lifeline to xAI &lpar;New York Times&rpar;](http://www.techmeme.com/260202/p44#a260202p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Upgrade Your Roku Before the Big Game](https://www.wired.com/story/roku-deal-226/)
  - [Skyryse, which plans to integrate its flight automation OS, SkyOS, in Black Hawk helicopters and other aircraft, raised a $300M+ Series C at a $1.15B valuation &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260203/p33#a260203p33)
  - [Apple’s Xcode adds OpenAI and Anthropic’s coding agents](https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding)
  - [At the Cisco AI Summit, Intel CEO Lip-Bu Tan says the company plans to build GPUs and has already hired a chief GPU architect &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/260203/p32#a260203p32)
- - [AI agents plus Terminal access equals a macOS security mess](https://appleinsider.com/articles/26/02/03/ai-agents-plus-terminal-access-equals-a-macos-security-mess?utm_source=rss)
- - [Ares Interactive, which makes cross-platform, free-to-play games with plans for a new baseball game in 2026, raised a $70M Series A led by General Catalyst &lpar;Craig Chapple/PocketGamer.biz&rpar;](http://www.techmeme.com/260203/p31#a260203p31)<!-- TECH:END -->
+ - [AI agents plus Terminal access equals a macOS security mess](https://appleinsider.com/articles/26/02/03/ai-agents-plus-terminal-access-equals-a-macos-security-mess?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

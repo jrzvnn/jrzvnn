@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Use an external SSD with Final Cut Pro for iPad or risk losing your work](https://appleinsider.com/inside/final-cut-pro/tips/use-an-external-ssd-with-final-cut-pro-for-ipad-or-risk-losing-your-work?utm_source=rss)
- - [Humans are infiltrating the Reddit for AI bots](https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots)
- - [Disney says Josh D&amp;#8217;Amaro will replace Bob Iger as CEO](https://www.theverge.com/news/872972/disney-ceo-bob-iger-replacement-josh-damaro)
- - [Call of Duty tries to block XIM and Cronus cheaters again](https://www.theverge.com/news/872976/call-of-duty-xim-cronus-reasnow-s1-ban-detections)
- - [Nintendo’s Virtual Boy Is a Silly but Fun Blast From the Past](https://www.wired.com/story/nintendo-virtual-boy-switch-accessory/)<!-- TECH:END -->
+ - [Best Microsoft Surface Laptop &lpar;2026&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)
+ - [China is banning hidden electric door handles for EVs](https://www.theverge.com/transportation/873039/china-ban-hidden-tesla-door-handles-january-2027)
+ - [Sources: after HP CEO Enrique Lores left to become PayPal CEO, HP was blindsided and rushed to launch a CEO search process; Lores had been at HP since 1989 &lpar;Rohan Goswami/Semafor&rpar;](http://www.techmeme.com/260203/p14#a260203p14)
+ - [OLED MacBook screen &amp; M6 chip close to mass production](https://appleinsider.com/articles/26/02/03/m6-macbook-pro-oled-screen-m6-chip-close-to-mass-production?utm_source=rss)
+ - [Fitbit’s founders launch a new platform for monitoring your entire family’s health](https://www.theverge.com/tech/872963/fitbit-james-park-eric-friedman-luffu-caregivers-family-health-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

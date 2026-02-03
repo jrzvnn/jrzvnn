@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unwearable shirt](http://9gag.com/gag/aryEDo6)
- - 😝 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
- - 💣 [I can&#39;t even imagine](http://9gag.com/gag/avyqB6X)
- - 😝 [Classical Collection](http://9gag.com/gag/a5Qg9Dr)
- - 👉 [Never surrender](http://9gag.com/gag/an7Z01o)<!-- MEMES:END -->
+ - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 😝 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
+ - 💣 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
+ - 😝 [Refrigerated and Felinesexual](http://9gag.com/gag/a2vg9QO)
+ - 👉 [Nolan what have you done?](http://9gag.com/gag/aAyANLg)<!-- MEMES:END -->
 
 ---
 

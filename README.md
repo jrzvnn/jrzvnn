@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China&#39;s top memory chipmakers, CXMT and YMTC, plan their biggest expansions yet as a global supply crunch lets them close the gap with market leaders &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260203/p2#a260203p2)
  - [Sources: Telefónica and Liberty Global, co-owners of Virgin Media O2, are set to lead a ~£2B acquisition of UK&#39;s fourth-largest broadband network, Netomnia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260203/p1#a260203p1)
  - [How to watch Super Bowl LX on Apple devices, streaming, cable &amp; antenna](https://appleinsider.com/inside/apple-tv/tips/how-to-watch-super-bowl-lx-on-apple-devices-streaming-cable-antenna?utm_source=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-3/)
- - [A look at WhatsApp&#39;s E2E encryption and whether it protects from metadata and chat backup leaks, after a lawsuit alleges Meta can read users&#39; private data &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/260202/p49#a260202p49)
- - [Starlink Wi-Fi Now Available on a Quarter of All United Airlines Flights](https://www.cnet.com/tech/mobile/starlink-wi-fi-now-available-on-a-quarter-of-all-united-airlines-flights/)<!-- TECH:END -->
+ - [A look at WhatsApp&#39;s E2E encryption and whether it protects from metadata and chat backup leaks, after a lawsuit alleges Meta can read users&#39; private data &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/260202/p49#a260202p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

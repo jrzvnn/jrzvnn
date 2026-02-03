@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice...](http://9gag.com/gag/a9ywerW)
- - 😝 [That&#39;s gonna need some serious warning labels on it to prevent dumb f**ks...well you know what they gonna do with it.](http://9gag.com/gag/a4Pg84m)
- - 💣 [Genuinely surprised](http://9gag.com/gag/aZZXKyp)
- - 😝 [Only acceptable Helen of Troy](http://9gag.com/gag/agm9b86)
- - 👉 [An adrenaline junkie getting his fix.](http://9gag.com/gag/aAyA7eo)<!-- MEMES:END -->
+ - 😝 [Once he checks out there no going back. play stupid games, win stupid prizes.](http://9gag.com/gag/aGyv6E6)
+ - 😝 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
+ - 💣 [Why is the name of the recipient redacted here? It can&#39;t be more obvious that the DOJ is covering up for child trafficers and pedos](http://9gag.com/gag/an7Z0e0)
+ - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 👉 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)<!-- MEMES:END -->
 
 ---
 

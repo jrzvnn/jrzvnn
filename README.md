@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Microsoft Surface Laptop &lpar;2026&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)
- - [China is banning hidden electric door handles for EVs](https://www.theverge.com/transportation/873039/china-ban-hidden-tesla-door-handles-january-2027)
- - [Sources: after HP CEO Enrique Lores left to become PayPal CEO, HP was blindsided and rushed to launch a CEO search process; Lores had been at HP since 1989 &lpar;Rohan Goswami/Semafor&rpar;](http://www.techmeme.com/260203/p14#a260203p14)
- - [OLED MacBook screen &amp; M6 chip close to mass production](https://appleinsider.com/articles/26/02/03/m6-macbook-pro-oled-screen-m6-chip-close-to-mass-production?utm_source=rss)
- - [Fitbit’s founders launch a new platform for monitoring your entire family’s health](https://www.theverge.com/tech/872963/fitbit-james-park-eric-friedman-luffu-caregivers-family-health-app)<!-- TECH:END -->
+ - [A profile of Sam Altman, who says &quot;we basically have built AGI, or very close to it&quot; before dialing it back later and calling it &quot;a spiritual statement&quot; &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/260203/p17#a260203p17)
+ - [I didn’t expect to love Dyson’s PencilVac Fluffycones – but I did](https://www.theverge.com/tech/872981/dyson-pencilvac-fluffycones-vacuum-hands-on-review)
+ - [Apple’s tiny but mighty iPad Mini is $100 off in every storage configuration](https://www.theverge.com/gadgets/872788/apple-ipad-mini-amazfit-active-2-fitness-tracker-deal-sale)
+ - [Epic reports third-party game revenue on the Epic Games Store up 57% YoY in 2025 to $400M, total spend up 6% to $1.16B, and total player hours down 14% to 6.65B &lpar;Jon Hicks/GamesIndustry.biz&rpar;](http://www.techmeme.com/260203/p16#a260203p16)
+ - [Millions of books died so Claude could live](https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

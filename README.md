@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Apptopia: ChatGPT&#39;s US market share fell from 69.1% to 45.3% between Jan. 2025 and Jan. 2026; Gemini rose from 14.7% to 25.1%, Grok rose from 1.6% to 15.2% &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/260203/p27#a260203p27)
- - [Boost your vibe coding with AI agents in Apple&#39;s new Xcode 26.3](https://appleinsider.com/articles/26/02/03/boost-your-vibe-coding-with-ai-agents-in-apples-new-xcode-263?utm_source=rss)
- - [Republicans Are All in on Boosting Fraud Allegations in California](https://www.wired.com/story/republicans-boosting-fraud-allegations-california/)
- - [Apple users are being targeted by a coordinated Apple Pay phishing campaign](https://appleinsider.com/articles/26/02/03/apple-users-are-being-targeted-by-a-coordinated-apple-pay-phishing-campaign?utm_source=rss)<!-- TECH:END -->
+ - [Skyryse, which plans to integrate its flight automation OS, SkyOS, in Black Hawk helicopters and other aircraft, raised a $300M+ Series C at a $1.15B valuation &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260203/p33#a260203p33)
+ - [Apple’s Xcode adds OpenAI and Anthropic’s coding agents](https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding)
+ - [At the Cisco AI Summit, Intel CEO Lip-Bu Tan says the company plans to build GPUs and has already hired a chief GPU architect &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/260203/p32#a260203p32)
+ - [AI agents plus Terminal access equals a macOS security mess](https://appleinsider.com/articles/26/02/03/ai-agents-plus-terminal-access-equals-a-macos-security-mess?utm_source=rss)
+ - [Ares Interactive, which makes cross-platform, free-to-play games with plans for a new baseball game in 2026, raised a $70M Series A led by General Catalyst &lpar;Craig Chapple/PocketGamer.biz&rpar;](http://www.techmeme.com/260203/p31#a260203p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

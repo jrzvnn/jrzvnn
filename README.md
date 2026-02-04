@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Workday is cutting ~400 employees, or ~2% of its workforce, primarily in customer-facing roles, saying the move will help it invest in priority areas &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260204/p48#a260204p48)
  - [Qualcomm reports Q1 revenue up 5% YoY to $12.25B, vs. $12.21B est., and projects Q2 revenue below est. due to memory supply shortage; QCOM drops 9%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260204/p47#a260204p47)
  - [Arm reports Q3 revenue up 26% YoY to $1.24B, vs. $1.22B est., and license and other revenue up 25% to $505M, vs. $519.9M est.; ARM drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260204/p46#a260204p46)
  - [Snap reports Q4 revenue up 10% YoY to $1.72B, vs. $1.7B est., DAUs up 5% to 474M, vs. 478M est., and announces a $500M share buyback; SNAP jumps 5%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260204/p45#a260204p45)
- - [Nintendo’s new Virtual Boy is more fun to look at than to play](https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions)
- - [Alphabet says it expects 2026 capex to be in the range of $175B to $185B, vs. ~$120B est., up from $91.4B in 2025; Q4 capex was $27.9B, up from $14B a year ago &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/260204/p44#a260204p44)<!-- TECH:END -->
+ - [Nintendo’s new Virtual Boy is more fun to look at than to play](https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

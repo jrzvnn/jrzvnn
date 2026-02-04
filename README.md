@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic plans a 30-second ad during the Super Bowl parodying the prospect of intrusive ads in AI conversations, and will also air a 60-second pre-game ad &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260204/p17#a260204p17)
- - [Texas Instruments plans to buy US chip company Silicon Labs in a $7.5B deal, paying $231/share in cash, closing in H1 2027; Silicon Labs has a $4.5B market cap &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/260204/p16#a260204p16)
- - [Uber reports Q4 revenue up 20% YoY to $14.4B, Gross Bookings up 22% YoY to $54.1B, trips up 22% YoY to 3.8B, and a $296M profit, below est.; UBER falls 8%+ &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/260204/p15#a260204p15)
- - [Forget Hinge or Bumble. This App Promises a Personal AI Matchmaker](https://www.wired.com/review/three-day-rule-matchmaking-app/)
- - [Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy](https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy)<!-- TECH:END -->
+ - [Bedrock, which aims to automate heavy construction equipment like excavators, raised $270M led by CapitalG and the Valor Atreides AI Fund at a $1.75B valuation &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260204/p25#a260204p25)
+ - [Everyone is stealing TV](https://www.theverge.com/streaming/873416/piracy-streaming-boxes)
+ - [Anthropic says Claude &quot;will remain ad-free&quot;, users &quot;won&#39;t see &#39;sponsored&#39; links adjacent to&quot; conversations, and responses won&#39;t be influenced by advertisers &lpar;Anthropic&rpar;](http://www.techmeme.com/260204/p24#a260204p24)
+ - [Resolve AI, which offers autonomous AI agents to monitor source code and infrastructure to resolve outages, raised $125M led by Lightspeed at a $1B valuation &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260204/p23#a260204p23)
+ - [Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT](https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

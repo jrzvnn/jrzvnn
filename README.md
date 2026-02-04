@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent Cloud, DigitalOcean, and Alibaba Cloud add OpenClaw support, giving users access to the AI agent service; many OpenClaw users run it on a Mac mini &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/260204/p14#a260204p14)
- - [Why Are Some Women Training for Pregnancy Like It’s a Marathon?](https://www.wired.com/story/pregnancy-zero-trimester-influencers/)
- - [Sources: Reno-based chip startup Positron raised a $230M Series B from the QIA and others to build high-speed memory chips, taking its total raised to $300M+ &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260204/p13#a260204p13)
- - [Prosus agrees to a multiyear AWS cloud and AI deal that runs into &quot;hundreds of millions of dollars&quot;, as it seeks to expand in Europe, India, and Latin America &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/260204/p12#a260204p12)
- - [AI Bots Are Now a Signifigant Source of Web Traffic](https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/)<!-- TECH:END -->
+ - [Alpine Skier Ryan Cochran-Siegle’s Starter Pack: Winter Olympics 2026](https://www.wired.com/story/ryan-cochran-siegles-starter-pack/)
+ - [The 2026 Winter Olympics Opening and Closing Ceremonies: What You Need to Know](https://www.wired.com/story/winter-olympics-2026-opening-closing-ceremonies/)
+ - [Winter Olympics 2026: Why I Love Watching Curling](https://www.wired.com/story/i-love-watching-curling-and-you-will-too/)
+ - [Outdoor Vitals Vantage Alpine Puffer Jacket Review: Perfect Spring Puffer](https://www.wired.com/review/outdoor-vitals-vantage-alpine-puffer-jacket/)
+ - [Tencent Cloud, DigitalOcean, and Alibaba Cloud add OpenClaw support, giving users access to the AI agent service; many OpenClaw users run it on a Mac mini &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/260204/p14#a260204p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

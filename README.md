@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether CEO Paolo Ardoino says initial plans to raise $15B to $20B were a &quot;misconception&quot;; sources say Tether&#39;s advisers have floated raising as little as $5B &lpar;Jill R Shah/Financial Times&rpar;](http://www.techmeme.com/260204/p9#a260204p9)
- - [Pinterest fires two employees who it says &quot;wrote custom scripts&quot; that accessed confidential info to track which workers lost their jobs during recent layoffs &lpar;BBC&rpar;](http://www.techmeme.com/260204/p8#a260204p8)
- - [A US judge sentences Rui-Siang Lin, who pled guilty to operating the $105M+ dark web narcotics marketplace Incognito Market, to 30 years in US federal prison &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260204/p7#a260204p7)
- - [Galaxy Digital reports a Q4 net loss of $482M, above $282M est., driven primarily by the crypto market crash, and says its trading volumes declined ~40% QoQ &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/260204/p6#a260204p6)
- - [A profile of Obsidian, a game studio Microsoft acquired in 2018, as it seeks to expedite game development and reduce costs after releasing three titles in 2025 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260204/p5#a260204p5)<!-- TECH:END -->
+ - [Prosus agrees to a multiyear AWS cloud and AI deal that runs into &quot;hundreds of millions of dollars&quot;, as it seeks to expand in Europe, India, and Latin America &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/260204/p12#a260204p12)
+ - [AI Bots Are Now a Signifigant Source of Web Traffic](https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/)
+ - [Q&amp;A with Stardew Valley developer Eric Barone, aka ConcernedApe, on the game turning 10, evolving as a developer, working solo, cozy game growth, and more &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/260204/p11#a260204p11)
+ - [German chipmaker Infineon reports Q1 revenue up 7% YoY €3.66B, above €3.62B est., expects to raise investments to €2.7B in 2026, and forecasts growing AI demand &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260204/p10#a260204p10)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 4, #499](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-4-499/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

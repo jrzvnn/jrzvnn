@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 14-inch, ARM-based Asus Vivobook is half off today](https://www.theverge.com/gadgets/873792/asus-vivobook-snapdragon-x-laptop-amd-ryzen-switch-2-deal-sale)
- - [Alexa+ is now available to every US customer, new Siri still absent](https://appleinsider.com/articles/26/02/04/alexa-is-now-available-to-every-us-customer-new-siri-still-absent?utm_source=rss)
- - [The Verge’s 2026 Valentine’s Day gift guide &lpar;for him&rpar;](https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner)
- - [Mistral&#39;s New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money](https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/)
- - [Best Laptop Backpacks We’ve Tried and Tested &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-backpacks-for-work/)<!-- TECH:END -->
+ - [&amp;#8216;Incognito&amp;#8217; operator sentenced to 30 years for running a dark web drug market](https://www.theverge.com/tech/873825/incognito-market-dark-web-drug-sales-sentencing)
+ - [iPhone Lockdown Mode will protect your data, even from the FBI](https://appleinsider.com/articles/26/02/04/iphone-lockdown-mode-will-protect-your-data-even-from-the-fbi?utm_source=rss)
+ - [Uber promotes Balaji Krishnamurthy, former VP of strategic finance and investor relations, to CFO, replacing Prashanth Mahendra-Rajah &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/260204/p31#a260204p31)
+ - [Cozey Neptune Sofa Bed Review: Firm but Flexible](https://www.wired.com/review/cozey-neptune-sofa-bed/)
+ - [Inside the ICE Forum Where Agents Complain About Their Jobs](https://www.wired.com/story/inside-the-ice-forum-where-agents-complain-about-their-jobs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

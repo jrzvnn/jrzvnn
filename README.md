@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Genuinely surprised](http://9gag.com/gag/aZZXKyp)
- - 😝 [Grass is greener in the distance.](http://9gag.com/gag/aW4yAn6)
- - 💣 [Justified?](http://9gag.com/gag/a4Pg8wm)
- - 😝 [One Feature Video Went Viral. Now This Greek Restaurant Has Customers Everywhere!](http://9gag.com/gag/aVvr82M)
- - 👉 [Valar Morghulis](http://9gag.com/gag/a9yweLo)<!-- MEMES:END -->
+ - 😝 [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
+ - 😝 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
+ - 💣 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 😝 [Gotta protect the pdf files...](http://9gag.com/gag/avyqVVE)
+ - 👉 [Once he checks out there no going back. play stupid games, win stupid prizes.](http://9gag.com/gag/aGyv6E6)<!-- MEMES:END -->
 
 ---
 

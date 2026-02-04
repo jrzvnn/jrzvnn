@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent Cloud, DigitalOcean, and Alibaba Cloud add OpenClaw support, giving users access to the AI agent service; many OpenClaw users run it on a Mac mini &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/260204/p14#a260204p14)
+ - [Why Are Some Women Training for Pregnancy Like It’s a Marathon?](https://www.wired.com/story/pregnancy-zero-trimester-influencers/)
+ - [Sources: Reno-based chip startup Positron raised a $230M Series B from the QIA and others to build high-speed memory chips, taking its total raised to $300M+ &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260204/p13#a260204p13)
  - [Prosus agrees to a multiyear AWS cloud and AI deal that runs into &quot;hundreds of millions of dollars&quot;, as it seeks to expand in Europe, India, and Latin America &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/260204/p12#a260204p12)
- - [AI Bots Are Now a Signifigant Source of Web Traffic](https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/)
- - [Q&amp;A with Stardew Valley developer Eric Barone, aka ConcernedApe, on the game turning 10, evolving as a developer, working solo, cozy game growth, and more &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/260204/p11#a260204p11)
- - [German chipmaker Infineon reports Q1 revenue up 7% YoY €3.66B, above €3.62B est., expects to raise investments to €2.7B in 2026, and forecasts growing AI demand &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260204/p10#a260204p10)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 4, #499](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-4-499/)<!-- TECH:END -->
+ - [AI Bots Are Now a Signifigant Source of Web Traffic](https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

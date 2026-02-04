@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV Press Day event reveals star-studded lineup of new original content coming soon](https://appleinsider.com/articles/26/02/04/apple-tv-press-day-event-reveals-star-studded-lineup-of-new-original-content-coming-soon?utm_source=rss)
- - [Recon: the US market share of Copilot as paid users&#39; first choice fell from 18.8% in July 2025 to 11.5% in January 2026, while Gemini&#39;s rose from 12.8% to 15.7% &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/260203/p54#a260203p54)
- - [&#39;Fallout&#39; Season 2 Ending Explained: Dissecting the Biggest Moments From the Finale](https://www.cnet.com/tech/services-and-software/fallout-season-2-ending-explained-the-biggest-takeaways-from-the-finale/)
- - [Adobe reversed its plans to discontinue Animate after creators expressed frustration, stating it won&#39;t get new features but will remain available &quot;indefinitely&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260203/p53#a260203p53)
- - [Filing: OpenAI accuses xAI of systematically destroying evidence in its antitrust case by directing employees to use auto-deleting &quot;ephemeral messaging tools&quot; &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/260203/p52#a260203p52)<!-- TECH:END -->
+ - [Global fintech VC funding rose 27% YoY in 2025 to $51.8B; Y Combinator was the most active investor in the space, participating in 151 deals, up 24.8% YoY &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260204/p1#a260204p1)
+ - [Sources: Tokyo-based chipmaker Renesas agrees to sell its clocks and timing device business to Nasdaq-listed chip design company SiTime for ~$3B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260203/p56#a260203p56)
+ - [Sources: US Commerce Dept. has finished review of Nvidia&#39;s license to sell China H200s, but the State Dept. seeks tighter restrictions, delaying final approval &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p55#a260203p55)
+ - [How to add, change, and remove a lock screen message in macOS](https://appleinsider.com/inside/macos-tahoe/tips/how-to-add-change-and-remove-a-lock-screen-message-in-macos?utm_source=rss)
+ - [My Experience With United&#39;s Starlink Service: How All In-Flight Wi-Fi Should Be](https://www.cnet.com/tech/mobile/united-starlink-first-flight/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

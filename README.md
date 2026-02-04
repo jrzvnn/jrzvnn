@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say cheese](http://9gag.com/gag/aZZXXEV)
- - 😝 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)
- - 💣 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
- - 😝 [Let&#39;s see if i can keep it up](http://9gag.com/gag/avyqqdM)
- - 👉 [Teaching them young about siege tactics](http://9gag.com/gag/aXP33Zb)<!-- MEMES:END -->
+ - 😝 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
+ - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 💣 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
+ - 😝 [Hollywood..](http://9gag.com/gag/adBAA62)
+ - 👉 [Valar Morghulis](http://9gag.com/gag/a9yweLo)<!-- MEMES:END -->
 
 ---
 

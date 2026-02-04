@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&amp;#8216;Incognito&amp;#8217; operator sentenced to 30 years for running a dark web drug market](https://www.theverge.com/tech/873825/incognito-market-dark-web-drug-sales-sentencing)
- - [iPhone Lockdown Mode will protect your data, even from the FBI](https://appleinsider.com/articles/26/02/04/iphone-lockdown-mode-will-protect-your-data-even-from-the-fbi?utm_source=rss)
- - [Uber promotes Balaji Krishnamurthy, former VP of strategic finance and investor relations, to CFO, replacing Prashanth Mahendra-Rajah &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/260204/p31#a260204p31)
- - [Cozey Neptune Sofa Bed Review: Firm but Flexible](https://www.wired.com/review/cozey-neptune-sofa-bed/)
- - [Inside the ICE Forum Where Agents Complain About Their Jobs](https://www.wired.com/story/inside-the-ice-forum-where-agents-complain-about-their-jobs/)<!-- TECH:END -->
+ - [Roblox launches a 4D creation feature in open beta, allowing creators to generate interactive objects with individual moving parts rather than static 3D models &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260204/p34#a260204p34)
+ - [Apple Watch data pins down abduction time of NBC News anchor&#39;s mother](https://appleinsider.com/articles/26/02/04/apple-watch-data-pins-down-abduction-time-of-nbc-news-anchors-mother?utm_source=rss)
+ - [I was detained by federal agents in Minneapolis](https://www.theverge.com/policy/873656/alex-pretti-protester-detained-dhs-ice-whipple)
+ - [Apple TV details its 2026 streaming lineup with big list of announcements](https://www.theverge.com/streaming/873862/apple-tv-2026-streaming-lineup)
+ - [Google Cloud’s customer chief returns to Microsoft as head of security](https://www.theverge.com/news/873930/google-cloud-hayete-gallot-microsoft-security)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memos: Meta said Avocado is its &quot;most capable pre-trained base model&quot; and achieves 10x compute efficiency &quot;wins&quot; on text tasks vs. Llama 4 Maverick &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260204/p40#a260204p40)
  - [Sam Altman says the Anthropic Super Bowl ads are funny but &quot;dishonest&quot;, and Anthropic serves a &quot;product to rich people&quot; while OpenAI is committed to free access &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260204/p39#a260204p39)
  - [This Town, 2.0](https://www.theverge.com/column/874050/regulator-shutdown-averted-crypto)
  - [Overwatch: all the news about Blizzard’s hit hero shooter](https://www.theverge.com/2022/6/14/23167853/overwatch-2-activision-blizzard-news)
- - [Notepad++ Users, You May Have Been Hacked by China](https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/)
- - [Public release of iOS 26.3, macOS Tahoe 26.3 nears with release candidates available](https://appleinsider.com/articles/26/02/04/public-release-of-ios-263-macos-tahoe-263-nears-with-release-candidates-available?utm_source=rss)<!-- TECH:END -->
+ - [Notepad++ Users, You May Have Been Hacked by China](https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

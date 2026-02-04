@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether CEO Paolo Ardoino says initial plans to raise $15B to $20B were a &quot;misconception&quot;; sources say Tether&#39;s advisers have floated raising as little as $5B &lpar;Jill R Shah/Financial Times&rpar;](http://www.techmeme.com/260204/p9#a260204p9)
+ - [Pinterest fires two employees who it says &quot;wrote custom scripts&quot; that accessed confidential info to track which workers lost their jobs during recent layoffs &lpar;BBC&rpar;](http://www.techmeme.com/260204/p8#a260204p8)
+ - [A US judge sentences Rui-Siang Lin, who pled guilty to operating the $105M+ dark web narcotics marketplace Incognito Market, to 30 years in US federal prison &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260204/p7#a260204p7)
  - [Galaxy Digital reports a Q4 net loss of $482M, above $282M est., driven primarily by the crypto market crash, and says its trading volumes declined ~40% QoQ &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/260204/p6#a260204p6)
- - [A profile of Obsidian, a game studio Microsoft acquired in 2018, as it seeks to expedite game development and reduce costs after releasing three titles in 2025 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260204/p5#a260204p5)
- - [An interview with Kai-Fu Lee on his startup 01.ai, which builds agentic AI tools for companies, why he thinks China will beat the US in consumer AI, and more &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260204/p4#a260204p4)
- - [Sources: banks are marketing at least $56B in investment-grade data center construction loans tied to Oracle&#39;s leases, as they seek out new buyers for the loans &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260204/p3#a260204p3)
- - [AMD reports $390M in revenue from MI308 AI chip sales in China in Q4; CEO Lisa Su says orders were &quot;from very early in 2025&quot; but shipped in Q4 after US approval &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260204/p2#a260204p2)<!-- TECH:END -->
+ - [A profile of Obsidian, a game studio Microsoft acquired in 2018, as it seeks to expedite game development and reduce costs after releasing three titles in 2025 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260204/p5#a260204p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

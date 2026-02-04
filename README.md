@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teaching them young about siege tactics](http://9gag.com/gag/aXP33Zb)
- - 😝 [Sweat: nature\u2019s luxury lotion](http://9gag.com/gag/aVvr8d8)
- - 💣 [License and registration please...](http://9gag.com/gag/a0eggMZ)
+ - 😝 [License and registration please...](http://9gag.com/gag/a0eggMZ)
  - 😝 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
- - 👉 [Win...](http://9gag.com/gag/aO8EEAM)<!-- MEMES:END -->
+ - 💣 [Premium trolling by Brave](http://9gag.com/gag/a4Pggey)
+ - 😝 [Win...](http://9gag.com/gag/aO8EEAM)
+ - 👉 [Blacklisted by Hollywood, and not in the epstein files. Makes you wonder.](http://9gag.com/gag/aMV77PP)<!-- MEMES:END -->
 
 ---
 

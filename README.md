@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bedrock, which aims to automate heavy construction equipment like excavators, raised $270M led by CapitalG and the Valor Atreides AI Fund at a $1.75B valuation &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260204/p25#a260204p25)
- - [Everyone is stealing TV](https://www.theverge.com/streaming/873416/piracy-streaming-boxes)
- - [Anthropic says Claude &quot;will remain ad-free&quot;, users &quot;won&#39;t see &#39;sponsored&#39; links adjacent to&quot; conversations, and responses won&#39;t be influenced by advertisers &lpar;Anthropic&rpar;](http://www.techmeme.com/260204/p24#a260204p24)
- - [Resolve AI, which offers autonomous AI agents to monitor source code and infrastructure to resolve outages, raised $125M led by Lightspeed at a $1B valuation &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260204/p23#a260204p23)
- - [Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT](https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt)<!-- TECH:END -->
+ - [Questionable leak: MacBook Pro with M5 Pro and M5 Max coming in March, not February](https://appleinsider.com/articles/26/02/04/questionable-leak-macbook-pro-with-m5-pro-and-m5-max-coming-in-march-not-february?utm_source=rss)
+ - [Sources: Amazon and OpenAI are discussing a deal that could require OpenAI to dedicate researchers and engineers to developing customized models for Amazon &lpar;The Information&rpar;](http://www.techmeme.com/260204/p28#a260204p28)
+ - [AI voice startup ElevenLabs raised a $500M Series D led by Sequoia at an $11B valuation, taking its total funding to nearly $800M, and reports $330M in 2025 ARR &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260204/p27#a260204p27)
+ - [Amazon rolls out Alexa+ to all Prime members in the US via any Alexa-enabled device, Alexa.com, and the Alexa app, and launches a free tier for non-Prime users &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/260204/p26#a260204p26)
+ - [What Is RGB LED TV? Everything You Need to Know About This Next-Gen TV Tech In 2026](https://www.wired.com/story/what-is-rgb-led-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memos: Meta said Avocado is its &quot;most capable pre-trained base model&quot; and achieves 10x compute efficiency &quot;wins&quot; on text tasks vs. Llama 4 Maverick &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260204/p40#a260204p40)
- - [Sam Altman says the Anthropic Super Bowl ads are funny but &quot;dishonest&quot;, and Anthropic serves a &quot;product to rich people&quot; while OpenAI is committed to free access &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260204/p39#a260204p39)
- - [This Town, 2.0](https://www.theverge.com/column/874050/regulator-shutdown-averted-crypto)
- - [Overwatch: all the news about Blizzard’s hit hero shooter](https://www.theverge.com/2022/6/14/23167853/overwatch-2-activision-blizzard-news)
- - [Notepad++ Users, You May Have Been Hacked by China](https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/)<!-- TECH:END -->
+ - [Alphabet says it expects 2026 capex to be in the range of $175B to $185B, vs. ~$120B est., up from $91.4B in 2025; Q4 capex was $27.9B, up from $14B a year ago &lpar;Financial Times&rpar;](http://www.techmeme.com/260204/p44#a260204p44)
+ - [Alphabet says it expects 2026 capex to be in the range of $175B to $185B, above estimates of about $115.26B &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/260204/p43#a260204p43)
+ - [Measles Is Causing Brain Swelling in Children in South Carolina](https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/)
+ - [Alphabet reports YouTube&#39;s Q4 ad revenue rose 9% YoY to $11.38B, vs. $11.84B est., and YouTube&#39;s annual revenue surpassed $60B across ads and subscriptions &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260204/p42#a260204p42)
+ - [Alphabet reports Q4 revenue up 18% YoY to $113.8B, Google Cloud revenue up 48% to $17.7B, Google Services revenue up 14% to $95.9B, net income up 30% to $34.46B &lpar;Alphabet&rpar;](http://www.techmeme.com/260204/p41#a260204p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

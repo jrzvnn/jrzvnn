@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alpine Skier Ryan Cochran-Siegle’s Starter Pack: Winter Olympics 2026](https://www.wired.com/story/ryan-cochran-siegles-starter-pack/)
- - [The 2026 Winter Olympics Opening and Closing Ceremonies: What You Need to Know](https://www.wired.com/story/winter-olympics-2026-opening-closing-ceremonies/)
- - [Winter Olympics 2026: Why I Love Watching Curling](https://www.wired.com/story/i-love-watching-curling-and-you-will-too/)
- - [Outdoor Vitals Vantage Alpine Puffer Jacket Review: Perfect Spring Puffer](https://www.wired.com/review/outdoor-vitals-vantage-alpine-puffer-jacket/)
- - [Tencent Cloud, DigitalOcean, and Alibaba Cloud add OpenClaw support, giving users access to the AI agent service; many OpenClaw users run it on a Mac mini &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/260204/p14#a260204p14)<!-- TECH:END -->
+ - [Anthropic plans a 30-second ad during the Super Bowl parodying the prospect of intrusive ads in AI conversations, and will also air a 60-second pre-game ad &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260204/p17#a260204p17)
+ - [Texas Instruments plans to buy US chip company Silicon Labs in a $7.5B deal, paying $231/share in cash, closing in H1 2027; Silicon Labs has a $4.5B market cap &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/260204/p16#a260204p16)
+ - [Uber reports Q4 revenue up 20% YoY to $14.4B, Gross Bookings up 22% YoY to $54.1B, trips up 22% YoY to 3.8B, and a $296M profit, below est.; UBER falls 8%+ &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/260204/p15#a260204p15)
+ - [Forget Hinge or Bumble. This App Promises a Personal AI Matchmaker](https://www.wired.com/review/three-day-rule-matchmaking-app/)
+ - [Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy](https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

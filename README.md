@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Public release of iOS 26.3, macOS Tahoe 26.3 nears with release candidates available](https://appleinsider.com/articles/26/02/04/public-release-of-ios-263-macos-tahoe-263-nears-with-release-candidates-available?utm_source=rss)
+ - [Lunar Energy, which develops software that syncs home batteries into &quot;virtual power plants&quot; and began deploying its own batteries last year, raised $232M &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/260204/p38#a260204p38)
+ - [Ikea&amp;#8217;s cheap new smart home gear is struggling to get connected](https://www.theverge.com/tech/873973/ikea-matter-thread-smart-home-connectivity-issues)
  - [OpenClaw&amp;#8217;s AI &amp;#8216;skill&amp;#8217; extensions are a security nightmare](https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare)
- - [A New AI Math Startup Just Cracked 4 Previously Unsolved Problems](https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/)
- - [Apple&#39;s M5 MacBook Pro with 24GB RAM plunges to $1,499 &lpar;$300 off&rpar;](https://appleinsider.com/articles/26/02/04/apples-m5-macbook-pro-with-24gb-ram-plunges-to-1499-300-off?utm_source=rss)
- - [Google teases the Pixel 10a in a new video, revealing a completely flat rear camera, and says pre-orders begin on February 18 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260204/p37#a260204p37)
- - [Our Favorite Pixel Phone Is $100 Off](https://www.wired.com/story/pixel-9a-deal-226/)<!-- TECH:END -->
+ - [A New AI Math Startup Just Cracked 4 Previously Unsolved Problems](https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

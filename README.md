@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [GitHub integrates Claude and Codex AI coding agents directly into GitHub, GitHub Mobile, and Visual Studio Code, for Copilot Pro Plus and Enterprise users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260204/p36#a260204p36)
- - [Microsoft says cybersecurity head Charlie Bell will move into a position focused on engineering quality; Hayete Gallot will return from Google to run security &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260204/p35#a260204p35)
- - [Roblox launches a 4D creation feature in open beta, allowing creators to generate interactive objects with individual moving parts rather than static 3D models &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260204/p34#a260204p34)
- - [Apple Watch data pins down abduction time of NBC News anchor&#39;s mother](https://appleinsider.com/articles/26/02/04/apple-watch-data-pins-down-abduction-time-of-nbc-news-anchors-mother?utm_source=rss)<!-- TECH:END -->
+ - [OpenClaw&amp;#8217;s AI &amp;#8216;skill&amp;#8217; extensions are a security nightmare](https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare)
+ - [A New AI Math Startup Just Cracked 4 Previously Unsolved Problems](https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/)
+ - [Apple&#39;s M5 MacBook Pro with 24GB RAM plunges to $1,499 &lpar;$300 off&rpar;](https://appleinsider.com/articles/26/02/04/apples-m5-macbook-pro-with-24gb-ram-plunges-to-1499-300-off?utm_source=rss)
+ - [Google teases the Pixel 10a in a new video, revealing a completely flat rear camera, and says pre-orders begin on February 18 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260204/p37#a260204p37)
+ - [Our Favorite Pixel Phone Is $100 Off](https://www.wired.com/story/pixel-9a-deal-226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

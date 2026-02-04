@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - 😝 [Go nuts kids](http://9gag.com/gag/axyKeWp)
- - 💣 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
- - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 👉 [Hollywood..](http://9gag.com/gag/adBAA62)<!-- MEMES:END -->
+ - 😝 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
+ - 😝 [Win...](http://9gag.com/gag/aO8EEAM)
+ - 💣 [Premium trolling by Brave](http://9gag.com/gag/a4Pggey)
+ - 😝 [Blacklisted by Hollywood, and not in the epstein files. Makes you wonder.](http://9gag.com/gag/aMV77PP)
+ - 👉 [Say cheese](http://9gag.com/gag/aZZXXEV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet says it expects 2026 capex to be in the range of $175B to $185B, vs. ~$120B est., up from $91.4B in 2025; Q4 capex was $27.9B, up from $14B a year ago &lpar;Financial Times&rpar;](http://www.techmeme.com/260204/p44#a260204p44)
- - [Alphabet says it expects 2026 capex to be in the range of $175B to $185B, above estimates of about $115.26B &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/260204/p43#a260204p43)
- - [Measles Is Causing Brain Swelling in Children in South Carolina](https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/)
- - [Alphabet reports YouTube&#39;s Q4 ad revenue rose 9% YoY to $11.38B, vs. $11.84B est., and YouTube&#39;s annual revenue surpassed $60B across ads and subscriptions &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260204/p42#a260204p42)
- - [Alphabet reports Q4 revenue up 18% YoY to $113.8B, Google Cloud revenue up 48% to $17.7B, Google Services revenue up 14% to $95.9B, net income up 30% to $34.46B &lpar;Alphabet&rpar;](http://www.techmeme.com/260204/p41#a260204p41)<!-- TECH:END -->
+ - [Qualcomm reports Q1 revenue up 5% YoY to $12.25B, vs. $12.21B est., and projects Q2 revenue below est. due to memory supply shortage; QCOM drops 9%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260204/p47#a260204p47)
+ - [Arm reports Q3 revenue up 26% YoY to $1.24B, vs. $1.22B est., and license and other revenue up 25% to $505M, vs. $519.9M est.; ARM drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260204/p46#a260204p46)
+ - [Snap reports Q4 revenue up 10% YoY to $1.72B, vs. $1.7B est., DAUs up 5% to 474M, vs. 478M est., and announces a $500M share buyback; SNAP jumps 5%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260204/p45#a260204p45)
+ - [Nintendo’s new Virtual Boy is more fun to look at than to play](https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions)
+ - [Alphabet says it expects 2026 capex to be in the range of $175B to $185B, vs. ~$120B est., up from $91.4B in 2025; Q4 capex was $27.9B, up from $14B a year ago &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/260204/p44#a260204p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

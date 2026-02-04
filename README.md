@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [GitHub integrates Claude and Codex AI coding agents directly into GitHub, GitHub Mobile, and Visual Studio Code, for Copilot Pro Plus and Enterprise users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260204/p36#a260204p36)
+ - [Microsoft says cybersecurity head Charlie Bell will move into a position focused on engineering quality; Hayete Gallot will return from Google to run security &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260204/p35#a260204p35)
  - [Roblox launches a 4D creation feature in open beta, allowing creators to generate interactive objects with individual moving parts rather than static 3D models &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260204/p34#a260204p34)
- - [Apple Watch data pins down abduction time of NBC News anchor&#39;s mother](https://appleinsider.com/articles/26/02/04/apple-watch-data-pins-down-abduction-time-of-nbc-news-anchors-mother?utm_source=rss)
- - [I was detained by federal agents in Minneapolis](https://www.theverge.com/policy/873656/alex-pretti-protester-detained-dhs-ice-whipple)
- - [Apple TV details its 2026 streaming lineup with big list of announcements](https://www.theverge.com/streaming/873862/apple-tv-2026-streaming-lineup)
- - [Google Cloud’s customer chief returns to Microsoft as head of security](https://www.theverge.com/news/873930/google-cloud-hayete-gallot-microsoft-security)<!-- TECH:END -->
+ - [Apple Watch data pins down abduction time of NBC News anchor&#39;s mother](https://appleinsider.com/articles/26/02/04/apple-watch-data-pins-down-abduction-time-of-nbc-news-anchors-mother?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

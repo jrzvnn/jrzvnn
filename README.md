@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon MGM Studio plans to develop new AI tools via its &quot;AI Studio&quot; to speed TV and film production and cut costs, in collaboration with AWS and LLM providers &lpar;Reuters&rpar;](http://www.techmeme.com/260204/p50#a260204p50)
+ - [The Best Super Bowl TV Deals &lpar;2026&rpar;](https://www.wired.com/gallery/super-bowl-tv-deals-2026/)
+ - [Formula 1 CEO hints toward a possible &#39;F1&#39; movie sequel on Apple TV](https://appleinsider.com/articles/26/02/04/formula-1-ceo-hints-toward-a-possible-f1-movie-sequel-on-apple-tv?utm_source=rss)
  - [Multicoin co-founder and Managing Partner Kyle Samani says he is stepping back from the VC firm and has transitioned to an advisory role &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260204/p49#a260204p49)
- - [These New AI Transcription Models Are Built for Speed and Privacy](https://www.cnet.com/tech/services-and-software/mistral-voxtral-ai-transcription-on-device/)
- - [Google&amp;#8217;s annual revenue tops $400 billion for the first time](https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings)
- - [Best Budget Earbuds for 2026: Cheap Wireless Picks](https://www.cnet.com/tech/mobile/best-cheap-budget-wireless-earbuds/)
- - [Senators grill Waymo and Tesla over robotaxi safety, liability, and China](https://www.theverge.com/transportation/873891/senate-hearing-autonomous-vehicles-robotaxi-waymo-tesla-legislation)<!-- TECH:END -->
+ - [These New AI Transcription Models Are Built for Speed and Privacy](https://www.cnet.com/tech/services-and-software/mistral-voxtral-ai-transcription-on-device/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
+ - 😝 [Go nuts kids](http://9gag.com/gag/axyKeWp)
+ - 💣 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
  - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 😝 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
- - 💣 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)
- - 😝 [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
- - 👉 [Valar Morghulis](http://9gag.com/gag/a9yweLo)<!-- MEMES:END -->
+ - 👉 [Hollywood..](http://9gag.com/gag/adBAA62)<!-- MEMES:END -->
 
 ---
 

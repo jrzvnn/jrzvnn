@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [License and registration please...](http://9gag.com/gag/a0eggMZ)
- - 😝 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
- - 💣 [Premium trolling by Brave](http://9gag.com/gag/a4Pggey)
- - 😝 [Win...](http://9gag.com/gag/aO8EEAM)
- - 👉 [Blacklisted by Hollywood, and not in the epstein files. Makes you wonder.](http://9gag.com/gag/aMV77PP)<!-- MEMES:END -->
+ - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 😝 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
+ - 💣 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)
+ - 😝 [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
+ - 👉 [Valar Morghulis](http://9gag.com/gag/a9yweLo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 😝 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - 💣 [Win...](http://9gag.com/gag/aO8EEAM)
- - 😝 [Raising twins after your sister passed and they become a doctor and a cop is truly god-tier parenting](http://9gag.com/gag/aO8EEq3)
- - 👉 [Valar Morghulis](http://9gag.com/gag/a9yweLo)<!-- MEMES:END -->
+ - 😝 [Say cheese](http://9gag.com/gag/aZZXXEV)
+ - 😝 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)
+ - 💣 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
+ - 😝 [Let&#39;s see if i can keep it up](http://9gag.com/gag/avyqqdM)
+ - 👉 [Teaching them young about siege tactics](http://9gag.com/gag/aXP33Zb)<!-- MEMES:END -->
 
 ---
 

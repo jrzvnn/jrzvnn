@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go nuts kids](http://9gag.com/gag/axyKeWp)
- - 😝 [Yes dear](http://9gag.com/gag/awyj93r)
- - 💣 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
- - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 👉 [Valar Morghulis](http://9gag.com/gag/a9yweLo)<!-- MEMES:END -->
+ - 😝 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
+ - 😝 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
+ - 💣 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 😝 [Premium trolling by Brave](http://9gag.com/gag/a4Pggey)
+ - 👉 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)<!-- MEMES:END -->
 
 ---
 

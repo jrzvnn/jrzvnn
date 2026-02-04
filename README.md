@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Questionable leak: MacBook Pro with M5 Pro and M5 Max coming in March, not February](https://appleinsider.com/articles/26/02/04/questionable-leak-macbook-pro-with-m5-pro-and-m5-max-coming-in-march-not-february?utm_source=rss)
+ - [Spotify launches offline lyrics, translations, and lyric previews](https://www.theverge.com/entertainment/873779/spotify-lyrics-offline-translations-previews)
+ - [Adobe ramped up its ads in 2025, spending $1.4B amid AI competition and Wall Street skepticism, representing a significantly higher share of sales than rivals &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260204/p29#a260204p29)
  - [Sources: Amazon and OpenAI are discussing a deal that could require OpenAI to dedicate researchers and engineers to developing customized models for Amazon &lpar;The Information&rpar;](http://www.techmeme.com/260204/p28#a260204p28)
- - [AI voice startup ElevenLabs raised a $500M Series D led by Sequoia at an $11B valuation, taking its total funding to nearly $800M, and reports $330M in 2025 ARR &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260204/p27#a260204p27)
- - [Amazon rolls out Alexa+ to all Prime members in the US via any Alexa-enabled device, Alexa.com, and the Alexa app, and launches a free tier for non-Prime users &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/260204/p26#a260204p26)
- - [What Is RGB LED TV? Everything You Need to Know About This Next-Gen TV Tech In 2026](https://www.wired.com/story/what-is-rgb-led-tv/)<!-- TECH:END -->
+ - [AI voice startup ElevenLabs raised a $500M Series D led by Sequoia at an $11B valuation, taking its total funding to nearly $800M, and reports $330M in 2025 ARR &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260204/p27#a260204p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

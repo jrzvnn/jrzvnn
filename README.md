@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Win...](http://9gag.com/gag/aO8EEAM)
  - 😝 [Premium trolling by Brave](http://9gag.com/gag/a4Pggey)
- - 💣 [Blacklisted by Hollywood, and not in the epstein files. Makes you wonder.](http://9gag.com/gag/aMV77PP)
- - 😝 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)
+ - 💣 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)
+ - 😝 [Blacklisted by Hollywood, and not in the epstein files. Makes you wonder.](http://9gag.com/gag/aMV77PP)
  - 👉 [Say cheese](http://9gag.com/gag/aZZXXEV)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
  - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 😝 [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
- - 💣 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)
- - 😝 [Sunset](http://9gag.com/gag/aLno31A)
- - 👉 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)<!-- MEMES:END -->
+ - 💣 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
+ - 😝 [Raising twins after your sister passed and they become a doctor and a cop is truly god-tier parenting](http://9gag.com/gag/aO8EEq3)
+ - 👉 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)<!-- MEMES:END -->
 
 ---
 

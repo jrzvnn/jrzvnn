@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe actually won’t discontinue Animate](https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course)
- - [Alaffia Health, which provides AI tools for health plan claims operations, raised a $55M Series B led by Transformation Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260203/p51#a260203p51)
- - [KKR and Singtel agree to acquire the remaining 82% stake in data center operator STT GDC for ~$5.1B, giving the company an enterprise value of ~$10.86B &lpar;Lee Ying Shan/CNBC&rpar;](http://www.techmeme.com/260203/p50#a260203p50)
- - [Source: Anthropic plans an employee tender offer at a valuation of at least $350B, the same valuation discussed in the company&#39;s ongoing $20B fundraising &lpar;Bloomberg&rpar;](http://www.techmeme.com/260203/p49#a260203p49)
- - [Sources: US-based Arcee AI is pitching investors on a $200M+ funding round valuing it at over $1B, as it plans to train an open-weight model with 1T+ parameters &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260203/p48#a260203p48)<!-- TECH:END -->
+ - [Apple TV Press Day event reveals star-studded lineup of new original content coming soon](https://appleinsider.com/articles/26/02/04/apple-tv-press-day-event-reveals-star-studded-lineup-of-new-original-content-coming-soon?utm_source=rss)
+ - [Recon: the US market share of Copilot as paid users&#39; first choice fell from 18.8% in July 2025 to 11.5% in January 2026, while Gemini&#39;s rose from 12.8% to 15.7% &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/260203/p54#a260203p54)
+ - [&#39;Fallout&#39; Season 2 Ending Explained: Dissecting the Biggest Moments From the Finale](https://www.cnet.com/tech/services-and-software/fallout-season-2-ending-explained-the-biggest-takeaways-from-the-finale/)
+ - [Adobe reversed its plans to discontinue Animate after creators expressed frustration, stating it won&#39;t get new features but will remain available &quot;indefinitely&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260203/p53#a260203p53)
+ - [Filing: OpenAI accuses xAI of systematically destroying evidence in its antitrust case by directing employees to use auto-deleting &quot;ephemeral messaging tools&quot; &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/260203/p52#a260203p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
  - 😝 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - 😝 [THAT LAST LINE !!!](http://9gag.com/gag/aByzjEZ)
- - 💣 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
- - 😝 [Teaching them young about siege tactics](http://9gag.com/gag/aXP33Zb)
+ - 💣 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 😝 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
  - 👉 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)<!-- MEMES:END -->
 
 ---

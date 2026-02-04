@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
- - 😝 [Why is the name of the recipient redacted here? It can&#39;t be more obvious that the DOJ is covering up for child trafficers and pedos](http://9gag.com/gag/an7Z0e0)
- - 💣 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 😝 [Raising twins after your sister passed and they become a doctor and a cop is truly god-tier parenting](http://9gag.com/gag/aO8EEq3)
- - 👉 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)<!-- MEMES:END -->
+ - 😝 [Teaching them young about siege tactics](http://9gag.com/gag/aXP33Zb)
+ - 😝 [Sweat: nature\u2019s luxury lotion](http://9gag.com/gag/aVvr8d8)
+ - 💣 [License and registration please...](http://9gag.com/gag/a0eggMZ)
+ - 😝 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
+ - 👉 [Win...](http://9gag.com/gag/aO8EEAM)<!-- MEMES:END -->
 
 ---
 

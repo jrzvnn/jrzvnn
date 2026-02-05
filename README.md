@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [@KamalaHQ is relaunching as a Gen Z ‘progressive content hub’](https://www.theverge.com/policy/874410/kamala-harris-kamalahq-headquarters-rebrand-launch)
+ - [Duna, a European fintech making AI-powered identity and compliance tools for banks, raised a €30M Series A led by CapitalG, bringing its total funding to €40M+ &lpar;Tim Barnwell/Silicon Republic&rpar;](http://www.techmeme.com/260205/p25#a260205p25)
+ - [Why is the Trump administration really appealing its Meta loss?](https://www.theverge.com/policy/874286/ftc-meta-antitrust-appeal-boasberg-tiktok)
  - [Fundamental, which has developed an LTM to analyze structured data, comes out of stealth with $255M in funding, including a $225M Series A, at a $1.2B valuation &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260205/p24#a260205p24)
- - [Ukraine says Starlink terminals used by Russia on the battlefield have been deactivated via a verification process developed alongside SpaceX &lpar;Anna Pruchnicka/Reuters&rpar;](http://www.techmeme.com/260205/p23#a260205p23)
- - [JLab’s new Bluetooth speaker doubles as supersized headphones](https://www.theverge.com/tech/874340/jlab-blue-xl-wireless-bluetooth-speaker-headphones)
- - [Motorola Moto Watch Review: Polar-Powered](https://www.wired.com/review/motorola-moto-watch/)
- - [Reality is losing the deepfake war](https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels)<!-- TECH:END -->
+ - [Ukraine says Starlink terminals used by Russia on the battlefield have been deactivated via a verification process developed alongside SpaceX &lpar;Anna Pruchnicka/Reuters&rpar;](http://www.techmeme.com/260205/p23#a260205p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

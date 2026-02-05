@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of the best laptop power banks available is cheaper than ever](https://www.theverge.com/gadgets/874509/anker-laptop-power-bank-google-pixel-watch-4-deal-sale)
- - [Google &amp; Apple CEOs differ on details of Siri &amp; Gemini deal](https://appleinsider.com/articles/26/02/05/google-apple-ceos-offer-seemingly-contradictory-statements-regarding-ai-partnership?utm_source=rss)
- - [The Rise and Fall of the World&#39;s Largest Gay Dating App](https://www.wired.com/story/made-in-china-how-people-in-china-learn-what-they-can-say-online/)
- - [Apple&#39;s iPad gains in 2025 came from a market correction, not a breakthrough year](https://appleinsider.com/articles/26/02/05/apples-ipad-gains-in-2025-came-from-a-market-correction-not-a-breakthrough-year?utm_source=rss)
- - [I tested several cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
+ - [Zuckerberg considered changing how Meta studies social issues after research got it in trouble](https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research)
+ - [9 Great Deals on WIRED-Approved Valentine&#39;s Day Gifts &lpar;2026&rpar;](https://www.wired.com/story/valentines-day-deals-2026/)
+ - [Y Combinator adds Canada back to its accepted countries list, and says it had removed the country because its top Canadian companies reincorporated in the US &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/260205/p40#a260205p40)
+ - [Apple will apply all the tech and power it has to make live F1 content a success](https://appleinsider.com/articles/26/02/05/apple-will-apply-all-the-tech-and-power-it-has-to-make-live-f1-content-a-success?utm_source=rss)
+ - [The 2026 Winter Olympics Will Have a Major Impact on the Region’s Snow](https://www.wired.com/story/winter-olympics-2026-impacts-snow/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

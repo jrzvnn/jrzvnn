@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify partners with Bookshop.org to let Premium users in the US and UK buy hardcover and paperback books via its app in spring; Bookshop.org fulfills orders &lpar;Jeffrey A. Trachtenberg/Wall Street ...&rpar;](http://www.techmeme.com/260205/p14#a260205p14)
- - [Arm CEO Rene Haas says investor fears about AI hurting software companies are a &quot;micro-hysteria&quot; that exceeds the reality of how businesses use AI tools &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260205/p13#a260205p13)
- - [How the Olympic Torchbearers Are Chosen](https://www.wired.com/story/winter-olympics-2026-torchbearers-chosen/)
- - [Brenna Huckaby Starter Pack: Paralympic Winter Games 2026](https://www.wired.com/story/para-snowboarder-brenna-huckabys-winter-games-starter-pack/)
- - [Analog chipmaker SiTime agrees to acquire Tokyo-based Renesas&#39; timing unit for $1.5B in cash and 4.13M shares in a ~$2.9B deal, set to close by the end of 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p12#a260205p12)<!-- TECH:END -->
+ - [Low-cost MacBook on track for spring release, and $750 price](https://appleinsider.com/articles/26/02/05/low-cost-macbook-on-track-for-spring-release-and-750-price?utm_source=rss)
+ - [AI accounting startup Accrual, incubated by General Catalyst, emerges from stealth and raised $75M; Accrual is part of General Catalyst&#39;s $1.5B Creation fund &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/260205/p17#a260205p17)
+ - [Palo Alto Networks: an Asian cyber-espionage group broke into systems belonging to 70 critical infrastructure organizations and governments in 37+ countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p16#a260205p16)
+ - [The Best Flower Delivery Services of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)
+ - [What Is Thread? Matter’s Smart Home Network Protocol, Explained](https://www.wired.com/story/what-is-thread/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

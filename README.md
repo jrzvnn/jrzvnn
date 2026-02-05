@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fresh iPhone 17e &amp; iPad leak points to incremental upgrades](https://appleinsider.com/articles/26/02/05/fresh-iphone-17e-ipad-leak-points-to-incremental-upgrades?utm_source=rss)
- - [Mark Zuckerberg continues to blame Apple for Meta&#39;s problems](https://appleinsider.com/articles/26/02/05/mark-zuckerberg-continues-to-blame-apple-for-metas-problems?utm_source=rss)
- - [The price of Bitcoin drops below $65,000](https://www.theverge.com/tech/874603/bitcoin-price-drop-cryptocurrency)
- - [Anthropic details how it used 16 parallel Claude Opus 4.6 agents to build a Rust-based 100,000-line C compiler, incurring ~$20K in API costs over 2,000 sessions &lpar;Anthropic&rpar;](http://www.techmeme.com/260205/p44#a260205p44)
- - [After angry staff complaints, Tim Cook says he will push lawmakers on immigration policy](https://appleinsider.com/articles/26/02/05/after-angry-staff-complaints-tim-cook-says-he-will-push-lawmakers-on-immigration-policy?utm_source=rss)<!-- TECH:END -->
+ - [Amazon reports Q4 AWS revenue up 24% YoY to $35.6B, vs. $34.9B est., AWS operating income up 17% YoY to $12.5B, and boosts capex in 2026 to $200B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260205/p46#a260205p46)
+ - [Amazon reports Q4 revenue up 14% YoY to $213.4B, net income up 6% to $21.19B, and EPS of $1.95, vs. $1.97 est.; AMZN drops 10%+ after hours &lpar;Amazon&rpar;](http://www.techmeme.com/260205/p45#a260205p45)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 6 #705](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-6-705/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 6, #501](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-6-501/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 6, #971](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-6-971/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
- - 😝 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)
- - 💣 [Valar Morghulis](http://9gag.com/gag/a9yweLo)
- - 😝 [Hollywood..](http://9gag.com/gag/adBAA62)
- - 👉 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)<!-- MEMES:END -->
+ - 😝 [Hypothetically](http://9gag.com/gag/a9yw07m)
+ - 😝 [Say cheese](http://9gag.com/gag/aZZXXEV)
+ - 💣 [Got hit with the solar flare](http://9gag.com/gag/a5Qg3og)
+ - 😝 [Avalanche transceiver](http://9gag.com/gag/aQzb5mW)
+ - 👉 [Blacklisted by Hollywood, and not in the epstein files. Makes you wonder.](http://9gag.com/gag/aMV77PP)<!-- MEMES:END -->
 
 ---
 

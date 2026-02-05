@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirDrop-compatible Quick Share feature to roll out to more Android devices in 2026](https://appleinsider.com/articles/26/02/05/airdrop-compatible-quick-share-feature-to-roll-out-to-more-android-devices-in-2026?utm_source=rss)
+ - [Tim Cook told Apple staff at an all-hands that he&#39;s &quot;deeply distraught&quot; with the US&#39; current approach to immigration and he will press the issue with lawmakers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260205/p41#a260205p41)
  - [Zuckerberg considered changing how Meta studies social issues after research got it in trouble](https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research)
  - [9 Great Deals on WIRED-Approved Valentine&#39;s Day Gifts &lpar;2026&rpar;](https://www.wired.com/story/valentines-day-deals-2026/)
- - [Y Combinator adds Canada back to its accepted countries list, and says it had removed the country because its top Canadian companies reincorporated in the US &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/260205/p40#a260205p40)
- - [Apple will apply all the tech and power it has to make live F1 content a success](https://appleinsider.com/articles/26/02/05/apple-will-apply-all-the-tech-and-power-it-has-to-make-live-f1-content-a-success?utm_source=rss)
- - [The 2026 Winter Olympics Will Have a Major Impact on the Region’s Snow](https://www.wired.com/story/winter-olympics-2026-impacts-snow/)<!-- TECH:END -->
+ - [How to Watch 2026 Six Nations Rugby Live From Anywhere For Free](https://www.cnet.com/tech/services-and-software/how-to-watch-2026-six-nations-rugby-live-from-anywhere-for-free/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

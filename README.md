@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
+ - 😝 [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
  - 😝 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)
  - 💣 [Valar Morghulis](http://9gag.com/gag/a9yweLo)
- - 😝 [All of them](http://9gag.com/gag/aLnoERz)
- - 👉 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)<!-- MEMES:END -->
+ - 😝 [Hollywood..](http://9gag.com/gag/adBAA62)
+ - 👉 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)<!-- MEMES:END -->
 
 ---
 

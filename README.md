@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Anthropic&#39;s ruthless efficiency comes in part from its mission-obsessed culture, which eliminates the friction that tends to slow things down at Big Tech &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/260205/p43#a260205p43)
- - [Why this is the worst crypto winter ever: AI crowds out crypto for mindshare and power grid access, crypto is mainstream, gold beats BTC as a safe haven, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p42#a260205p42)
- - [AirDrop-compatible Quick Share feature to roll out to more Android devices in 2026](https://appleinsider.com/articles/26/02/05/airdrop-compatible-quick-share-feature-to-roll-out-to-more-android-devices-in-2026?utm_source=rss)
- - [Tim Cook told Apple staff at an all-hands that he&#39;s &quot;deeply distraught&quot; with the US&#39; current approach to immigration and he will press the issue with lawmakers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260205/p41#a260205p41)
- - [Zuckerberg considered changing how Meta studies social issues after research got it in trouble](https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research)<!-- TECH:END -->
+ - [Fresh iPhone 17e &amp; iPad leak points to incremental upgrades](https://appleinsider.com/articles/26/02/05/fresh-iphone-17e-ipad-leak-points-to-incremental-upgrades?utm_source=rss)
+ - [Mark Zuckerberg continues to blame Apple for Meta&#39;s problems](https://appleinsider.com/articles/26/02/05/mark-zuckerberg-continues-to-blame-apple-for-metas-problems?utm_source=rss)
+ - [The price of Bitcoin drops below $65,000](https://www.theverge.com/tech/874603/bitcoin-price-drop-cryptocurrency)
+ - [Anthropic details how it used 16 parallel Claude Opus 4.6 agents to build a Rust-based 100,000-line C compiler, incurring ~$20K in API costs over 2,000 sessions &lpar;Anthropic&rpar;](http://www.techmeme.com/260205/p44#a260205p44)
+ - [After angry staff complaints, Tim Cook says he will push lawmakers on immigration policy](https://appleinsider.com/articles/26/02/05/after-angry-staff-complaints-tim-cook-says-he-will-push-lawmakers-on-immigration-policy?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

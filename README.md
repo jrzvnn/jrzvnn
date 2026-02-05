@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Low-cost MacBook on track for spring release, and $750 price](https://appleinsider.com/articles/26/02/05/low-cost-macbook-on-track-for-spring-release-and-750-price?utm_source=rss)
- - [AI accounting startup Accrual, incubated by General Catalyst, emerges from stealth and raised $75M; Accrual is part of General Catalyst&#39;s $1.5B Creation fund &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/260205/p17#a260205p17)
- - [Palo Alto Networks: an Asian cyber-espionage group broke into systems belonging to 70 critical infrastructure organizations and governments in 37+ countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p16#a260205p16)
- - [The Best Flower Delivery Services of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)
- - [What Is Thread? Matter’s Smart Home Network Protocol, Explained](https://www.wired.com/story/what-is-thread/)<!-- TECH:END -->
+ - [Very late iPhone Fold display decision could mean fewer scratches than competition](https://appleinsider.com/articles/26/02/05/very-late-iphone-fold-display-decision-could-mean-fewer-scratches-than-competition?utm_source=rss)
+ - [Apple Arcade&#39;s &#39;Civilization VII&#39; is good, but falls short of greatness](https://appleinsider.com/articles/26/02/05/apple-arcades-civilization-vii-is-good-but-falls-short-of-greatness?utm_source=rss)
+ - [Apple Maps &amp; Apple Ads aren&#39;t popular enough for the EU to regulate](https://appleinsider.com/articles/26/02/05/apple-maps-apple-ads-arent-popular-enough-for-the-eu-to-regulate?utm_source=rss)
+ - [Substack notifies users about a &quot;limited&quot; data breach in October 2025, found on February 3 and now patched; a threat actor leaked a database of ~697K records &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260205/p19#a260205p19)
+ - [These 10 Automatic Cat Feeders Were the Best We Tested &lpar;2026&rpar;](https://www.wired.com/gallery/best-automatic-cat-feeders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at India&#39;s push to become a major provider of AI services, as US tech companies pledge tens of billions in Indian data center investments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260205/p8#a260205p8)
- - [RapidFort, which develops tools for securing software supply chains, raised a $42M Series A led by Blue Cloud and ForgePoint, taking its total funding to ~$51M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260205/p7#a260205p7)
- - [I Didn&#39;t Care for Dildos Until I Tried This One From Lelo](https://www.wired.com/story/i-didnt-care-for-dildos-until-i-tried-this-one-from-lelo/)
- - [A look at the informal economy of rogue streaming box resellers, who sell hardware that offers free access to sports games, cable TV, and streaming services &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/260205/p6#a260205p6)
- - [Investor fears that software companies face an AI-driven extinction event are exaggerated, but the belief that they might be facing one is damaging their stocks &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260205/p5#a260205p5)<!-- TECH:END -->
+ - [How iPhones Made a Surprising Comeback in China](https://www.wired.com/story/how-iphones-made-a-surprising-comeback-in-china/)
+ - [Substack data breach exposed users’ emails and phone numbers](https://www.theverge.com/tech/874255/substack-data-breach-user-emails-phone-numbers)
+ - [Wall Street&#39;s idea that a software pure play will &quot;vanish&quot; into an LLM is &quot;nonsense&quot;: we need more software, and AI-enabled software moves up the product stack &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/260205/p10#a260205p10)
+ - [Germany&#39;s Federal Cartel Office rules Amazon must stop enforcing price controls for retailers on its German marketplace and seizes €59M; Amazon can appeal &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/260205/p9#a260205p9)
+ - [Hollywood Is Losing Audiences to AI Fatigue](https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone in space: NASA gives approval for personal iPhones to Artemis astronauts](https://appleinsider.com/articles/26/02/05/iphone-in-space-nasa-gives-approval-for-personal-iphones-to-artemis-astronauts?utm_source=rss)
- - [US tech stocks fall sharply in intraday trading: the Nasdaq drops 1.8%+, S&amp;P 500 1.5%+, GOOG 3%+, QCOM 7%+, and AMZN 3%+, amid a selloff in software stocks &lpar;Financial Times&rpar;](http://www.techmeme.com/260205/p28#a260205p28)
- - [DOJ files reveal Epstein&#39;s deep Silicon Valley relationships and how key insiders offered access to buzzy startups like Coinbase, long after his 2008 conviction &lpar;New York Times&rpar;](http://www.techmeme.com/260205/p27#a260205p27)
- - [Nvidia&amp;#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027](https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay)
- - [Game development diary: Planning, admin, and account flipping](https://appleinsider.com/articles/26/02/05/game-development-diary-planning-admin-and-account-flipping?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic releases Claude Opus 4.6, which it says can scrutinize company data, regulatory filings, and market info; Anthropic now has 300K+ business users &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260205/p33#a260205p33)
+ - [Q&amp;A with Elon Musk on launching 1TW of space GPUs, Grok and human consciousness, Optimus, xAI&#39;s business plan, China&#39;s manufacturing win, DOGE, and more &lpar;Cheeky Pint&rpar;](http://www.techmeme.com/260205/p32#a260205p32)
+ - [Meta confirms it is testing a standalone app for Vibes, its short-form video feed of AI videos, after &quot;strong early traction&quot;, without sharing specific numbers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260205/p31#a260205p31)
+ - [The US FCC grants Starlink competitor Logos clearance to deploy up to 4,178 low Earth orbit broadband satellites by 2035; Logos raised a $50M Series A in 2025 &lpar;Jason Rainbow/SpaceNews&rpar;](http://www.techmeme.com/260205/p30#a260205p30)
+ - [DOJ files reveal how Jeffrey Epstein helped his Russian-born publicist Masha Bucher become a prominent VC who now boasts of early checks to 22 unicorns like xAI &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260205/p29#a260205p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

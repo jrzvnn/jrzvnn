@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How iPhones Made a Surprising Comeback in China](https://www.wired.com/story/how-iphones-made-a-surprising-comeback-in-china/)
- - [Substack data breach exposed users’ emails and phone numbers](https://www.theverge.com/tech/874255/substack-data-breach-user-emails-phone-numbers)
- - [Wall Street&#39;s idea that a software pure play will &quot;vanish&quot; into an LLM is &quot;nonsense&quot;: we need more software, and AI-enabled software moves up the product stack &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/260205/p10#a260205p10)
- - [Germany&#39;s Federal Cartel Office rules Amazon must stop enforcing price controls for retailers on its German marketplace and seizes €59M; Amazon can appeal &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/260205/p9#a260205p9)
- - [Hollywood Is Losing Audiences to AI Fatigue](https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/)<!-- TECH:END -->
+ - [Spotify partners with Bookshop.org to let Premium users in the US and UK buy hardcover and paperback books via its app in spring; Bookshop.org fulfills orders &lpar;Jeffrey A. Trachtenberg/Wall Street ...&rpar;](http://www.techmeme.com/260205/p14#a260205p14)
+ - [Arm CEO Rene Haas says investor fears about AI hurting software companies are a &quot;micro-hysteria&quot; that exceeds the reality of how businesses use AI tools &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260205/p13#a260205p13)
+ - [How the Olympic Torchbearers Are Chosen](https://www.wired.com/story/winter-olympics-2026-torchbearers-chosen/)
+ - [Brenna Huckaby Starter Pack: Paralympic Winter Games 2026](https://www.wired.com/story/para-snowboarder-brenna-huckabys-winter-games-starter-pack/)
+ - [Analog chipmaker SiTime agrees to acquire Tokyo-based Renesas&#39; timing unit for $1.5B in cash and 4.13M shares in a ~$2.9B deal, set to close by the end of 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p12#a260205p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

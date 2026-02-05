@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
+ - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
  - 😝 [Hollywood..](http://9gag.com/gag/adBAA62)
- - 💣 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)
- - 😝 [I works!](http://9gag.com/gag/aqyMEGR)
- - 👉 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)<!-- MEMES:END -->
+ - 💣 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)
+ - 😝 [Where can i get one](http://9gag.com/gag/awyjpGy)
+ - 👉 [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)<!-- MEMES:END -->
 
 ---
 

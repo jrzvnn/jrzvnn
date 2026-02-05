@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [watchOS 11.6.2 out with a key fix for Apple Watch users in Australia](https://appleinsider.com/articles/26/02/05/watchos-1162-out-with-a-key-fix-for-apple-watch-users-in-australia?utm_source=rss)
  - [Tim Cook reflects on Apple&#39;s 50 years and retirement coming for us all](https://appleinsider.com/articles/26/02/05/tim-cook-reflects-on-apples-50-years-and-retirement-coming-for-us-all?utm_source=rss)
- - [Roblox reports Q4 bookings up 63% YoY to $2.2B vs. $2.05B est., DAUs up 69% to 144M, and forecasts FY 2026 bookings above estimates; RBLX jumps 18%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260205/p49#a260205p49)
- - [Amazon reports Q4 ad revenue up 23% YoY to $21.32B, slightly above expectations, and subscription services revenue up 14% to $13.12B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260205/p48#a260205p48)
- - [Republicans attack &amp;#8216;woke&amp;#8217; Netflix — and ignore YouTube](https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing)
- - [Reddit reports Q4 revenue up 70% YoY to $726M, vs. $665M est., DAUq up 19% to 121.4M, above est., forecasts Q1 revenue above est., announces a $1B share buyback &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260205/p47#a260205p47)<!-- TECH:END -->
+ - [Sources: Apple wound down plans for an AI-based virtual health coach in recent weeks; Eddy Cue has told colleagues that Apple needs to move faster in health &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260205/p50#a260205p50)
+ - [Roblox is working to pull in adult players](https://www.theverge.com/games/874675/roblox-earnings-q4-2025-increasing-adult-players)
+ - [Roblox reports Q4 bookings up 63% YoY to $2.2B vs. $2.05B est., DAUs up 69% to 144M, and forecasts FY 2026 bookings above estimates; RBLX jumps 18%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260205/p49#a260205p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

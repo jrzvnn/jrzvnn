@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Anthropic&#39;s ruthless efficiency comes in part from its mission-obsessed culture, which eliminates the friction that tends to slow things down at Big Tech &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/260205/p43#a260205p43)
+ - [Why this is the worst crypto winter ever: AI crowds out crypto for mindshare and power grid access, crypto is mainstream, gold beats BTC as a safe haven, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p42#a260205p42)
  - [AirDrop-compatible Quick Share feature to roll out to more Android devices in 2026](https://appleinsider.com/articles/26/02/05/airdrop-compatible-quick-share-feature-to-roll-out-to-more-android-devices-in-2026?utm_source=rss)
  - [Tim Cook told Apple staff at an all-hands that he&#39;s &quot;deeply distraught&quot; with the US&#39; current approach to immigration and he will press the issue with lawmakers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260205/p41#a260205p41)
- - [Zuckerberg considered changing how Meta studies social issues after research got it in trouble](https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research)
- - [9 Great Deals on WIRED-Approved Valentine&#39;s Day Gifts &lpar;2026&rpar;](https://www.wired.com/story/valentines-day-deals-2026/)
- - [How to Watch 2026 Six Nations Rugby Live From Anywhere For Free](https://www.cnet.com/tech/services-and-software/how-to-watch-2026-six-nations-rugby-live-from-anywhere-for-free/)<!-- TECH:END -->
+ - [Zuckerberg considered changing how Meta studies social issues after research got it in trouble](https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

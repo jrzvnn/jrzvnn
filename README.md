@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon reports Q4 ad revenue up 23% YoY to $21.32B, slightly above expectations, and subscription services revenue up 14% to $13.12B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260205/p48#a260205p48)
  - [Republicans attack &amp;#8216;woke&amp;#8217; Netflix — and ignore YouTube](https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing)
  - [Reddit reports Q4 revenue up 70% YoY to $726M, vs. $665M est., DAUq up 19% to 121.4M, above est., forecasts Q1 revenue above est., announces a $1B share buyback &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260205/p47#a260205p47)
  - [Loyalty Is Dead in Silicon Valley](https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/)
- - [Amazon reports Q4 AWS revenue up 24% YoY to $35.6B, vs. $34.9B est., AWS operating income up 17% YoY to $12.5B, and boosts capex in 2026 to $200B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260205/p46#a260205p46)
- - [Amazon reports Q4 revenue up 14% YoY to $213.4B, net income up 6% to $21.19B, and EPS of $1.95, vs. $1.97 est.; AMZN drops 10%+ after hours &lpar;Amazon&rpar;](http://www.techmeme.com/260205/p45#a260205p45)<!-- TECH:END -->
+ - [Amazon reports Q4 AWS revenue up 24% YoY to $35.6B, vs. $34.9B est., AWS operating income up 17% YoY to $12.5B, and boosts capex in 2026 to $200B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260205/p46#a260205p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

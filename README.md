@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches Frontier, an AI agent management platform that provides shared context, onboarding, and permission boundaries, available to select customers &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260205/p22#a260205p22)
- - [Sources: Nvidia delays the release of its incremental gaming GPU upgrade, codenamed Kicker, marking the first year in three decades without a new GPU for gaming &lpar;The Information&rpar;](http://www.techmeme.com/260205/p21#a260205p21)
- - [Can I offer you a tiny Bluetooth speaker in these trying times?](https://www.theverge.com/tech/874009/bluetooth-speaker-gadget-ikea-vappeby)
- - [Senators ask Meta why it waited so long to make teen accounts private by default](https://www.theverge.com/news/874158/senators-meta-teen-accounts-private-default)
- - [OpenAI Frontier is a single platform to control your AI agents](https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management)<!-- TECH:END -->
+ - [Fundamental, which has developed an LTM to analyze structured data, comes out of stealth with $255M in funding, including a $225M Series A, at a $1.2B valuation &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260205/p24#a260205p24)
+ - [Ukraine says Starlink terminals used by Russia on the battlefield have been deactivated via a verification process developed alongside SpaceX &lpar;Anna Pruchnicka/Reuters&rpar;](http://www.techmeme.com/260205/p23#a260205p23)
+ - [JLab’s new Bluetooth speaker doubles as supersized headphones](https://www.theverge.com/tech/874340/jlab-blue-xl-wireless-bluetooth-speaker-headphones)
+ - [Motorola Moto Watch Review: Polar-Powered](https://www.wired.com/review/motorola-moto-watch/)
+ - [Reality is losing the deepfake war](https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

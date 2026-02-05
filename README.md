@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at India&#39;s push to become a major provider of AI services, as US tech companies pledge tens of billions in Indian data center investments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260205/p8#a260205p8)
+ - [RapidFort, which develops tools for securing software supply chains, raised a $42M Series A led by Blue Cloud and ForgePoint, taking its total funding to ~$51M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260205/p7#a260205p7)
  - [I Didn&#39;t Care for Dildos Until I Tried This One From Lelo](https://www.wired.com/story/i-didnt-care-for-dildos-until-i-tried-this-one-from-lelo/)
  - [A look at the informal economy of rogue streaming box resellers, who sell hardware that offers free access to sports games, cable TV, and streaming services &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/260205/p6#a260205p6)
- - [Investor fears that software companies face an AI-driven extinction event are exaggerated, but the belief that they might be facing one is damaging their stocks &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260205/p5#a260205p5)
- - [A look at Axiom, which is building AxiomProver, an &quot;AI mathematician&quot; it claims has solved at least four previously unsolved math problems &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/260205/p4#a260205p4)
- - [Sources: HP, Dell, Acer, and Asus are considering sourcing memory chips from Chinese chipmakers; HP and Dell are currently qualifying DRAM products from CXMT &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260205/p3#a260205p3)<!-- TECH:END -->
+ - [Investor fears that software companies face an AI-driven extinction event are exaggerated, but the belief that they might be facing one is damaging their stocks &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260205/p5#a260205p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)
- - 😝 [Hollywood..](http://9gag.com/gag/adBAA62)
- - 💣 [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
- - 😝 [Where can i get one](http://9gag.com/gag/awyjpGy)
- - 👉 [Indeed, Kevin](http://9gag.com/gag/aZZX5o9)<!-- MEMES:END -->
+ - 😝 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - 😝 [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
+ - 💣 [Hollywood..](http://9gag.com/gag/adBAA62)
+ - 😝 [I works!](http://9gag.com/gag/aqyMEGR)
+ - 👉 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)<!-- MEMES:END -->
 
 ---
 

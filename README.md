@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Very late iPhone Fold display decision could mean fewer scratches than competition](https://appleinsider.com/articles/26/02/05/very-late-iphone-fold-display-decision-could-mean-fewer-scratches-than-competition?utm_source=rss)
- - [Apple Arcade&#39;s &#39;Civilization VII&#39; is good, but falls short of greatness](https://appleinsider.com/articles/26/02/05/apple-arcades-civilization-vii-is-good-but-falls-short-of-greatness?utm_source=rss)
- - [Apple Maps &amp; Apple Ads aren&#39;t popular enough for the EU to regulate](https://appleinsider.com/articles/26/02/05/apple-maps-apple-ads-arent-popular-enough-for-the-eu-to-regulate?utm_source=rss)
- - [Substack notifies users about a &quot;limited&quot; data breach in October 2025, found on February 3 and now patched; a threat actor leaked a database of ~697K records &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260205/p19#a260205p19)
- - [These 10 Automatic Cat Feeders Were the Best We Tested &lpar;2026&rpar;](https://www.wired.com/gallery/best-automatic-cat-feeders/)<!-- TECH:END -->
+ - [OpenAI launches Frontier, an AI agent management platform that provides shared context, onboarding, and permission boundaries, available to select customers &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260205/p22#a260205p22)
+ - [Sources: Nvidia delays the release of its incremental gaming GPU upgrade, codenamed Kicker, marking the first year in three decades without a new GPU for gaming &lpar;The Information&rpar;](http://www.techmeme.com/260205/p21#a260205p21)
+ - [Can I offer you a tiny Bluetooth speaker in these trying times?](https://www.theverge.com/tech/874009/bluetooth-speaker-gadget-ikea-vappeby)
+ - [Senators ask Meta why it waited so long to make teen accounts private by default](https://www.theverge.com/news/874158/senators-meta-teen-accounts-private-default)
+ - [OpenAI Frontier is a single platform to control your AI agents](https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

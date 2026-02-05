@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)
- - 😝 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
- - 💣 [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
- - 😝 [I works!](http://9gag.com/gag/aqyMEGR)
- - 👉 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)<!-- MEMES:END -->
+ - 😝 [Hollywood..](http://9gag.com/gag/adBAA62)
+ - 😝 [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
+ - 💣 [Where can i get one](http://9gag.com/gag/awyjpGy)
+ - 😝 [Real Cosplay](http://9gag.com/gag/axyKrqD)
+ - 👉 [Who IS you ?](http://9gag.com/gag/azxy3Wz)<!-- MEMES:END -->
 
 ---
 

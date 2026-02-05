@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic releases Claude Opus 4.6, which it says can scrutinize company data, regulatory filings, and market info; Anthropic now has 300K+ business users &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260205/p33#a260205p33)
- - [Q&amp;A with Elon Musk on launching 1TW of space GPUs, Grok and human consciousness, Optimus, xAI&#39;s business plan, China&#39;s manufacturing win, DOGE, and more &lpar;Cheeky Pint&rpar;](http://www.techmeme.com/260205/p32#a260205p32)
- - [Meta confirms it is testing a standalone app for Vibes, its short-form video feed of AI videos, after &quot;strong early traction&quot;, without sharing specific numbers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260205/p31#a260205p31)
- - [The US FCC grants Starlink competitor Logos clearance to deploy up to 4,178 low Earth orbit broadband satellites by 2035; Logos raised a $50M Series A in 2025 &lpar;Jason Rainbow/SpaceNews&rpar;](http://www.techmeme.com/260205/p30#a260205p30)
- - [DOJ files reveal how Jeffrey Epstein helped his Russian-born publicist Masha Bucher become a prominent VC who now boasts of early checks to 22 unicorns like xAI &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260205/p29#a260205p29)<!-- TECH:END -->
+ - [One of the best laptop power banks available is cheaper than ever](https://www.theverge.com/gadgets/874509/anker-laptop-power-bank-google-pixel-watch-4-deal-sale)
+ - [Google &amp; Apple CEOs differ on details of Siri &amp; Gemini deal](https://appleinsider.com/articles/26/02/05/google-apple-ceos-offer-seemingly-contradictory-statements-regarding-ai-partnership?utm_source=rss)
+ - [The Rise and Fall of the World&#39;s Largest Gay Dating App](https://www.wired.com/story/made-in-china-how-people-in-china-learn-what-they-can-say-online/)
+ - [Apple&#39;s iPad gains in 2025 came from a market correction, not a breakthrough year](https://appleinsider.com/articles/26/02/05/apples-ipad-gains-in-2025-came-from-a-market-correction-not-a-breakthrough-year?utm_source=rss)
+ - [I tested several cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

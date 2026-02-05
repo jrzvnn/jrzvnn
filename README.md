@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fears that software companies are facing an AI-driven extinction event are exaggerated, but the belief that they might be facing one is damaging their stocks &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260205/p5#a260205p5)
+ - [A look at Axiom, which is building AxiomProver, an &quot;AI mathematician&quot; it claims has solved at least four previously unsolved math problems &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/260205/p4#a260205p4)
+ - [Sources: HP, Dell, Acer, and Asus are considering sourcing memory chips from Chinese chipmakers; HP and Dell are currently qualifying DRAM products from CXMT &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260205/p3#a260205p3)
  - [Cybersecurity company Varonis agrees to acquire AllTrue, which develops specialized tools for AI trust, risk, and security management, for $125M in cash &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/260205/p2#a260205p2)
- - [TSMC plans to produce 3nm chips at its second plant in Kumamoto, Japan; sources say that is an upgrade from an original plan to produce 7nm chips by late 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p1#a260205p1)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Visible Promo Code: Save Over $400 in February 2026](https://www.wired.com/story/visible-promo-code/)
- - [HBO Max Promo Code: 50% Off | February](https://www.wired.com/story/max-promo-code/)<!-- TECH:END -->
+ - [TSMC plans to produce 3nm chips at its second plant in Kumamoto, Japan; sources say that is an upgrade from an original plan to produce 7nm chips by late 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p1#a260205p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

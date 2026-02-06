@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s About the Song offers context and trivia about your favorite tracks](https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes)
- - [19 Best Food Gifts to Buy Online, as Tested by Our Tastebuds &lpar;2026&rpar;](https://www.wired.com/gallery/best-food-gifts/)
- - [Applications are now open for the 2026 Swift Student Challenge -- but hurry](https://appleinsider.com/articles/26/02/06/applications-are-now-open-for-the-2026-swift-student-challenge----but-hurry?utm_source=rss)
- - [Sources: OpenAI is working with G42 to build a ChatGPT version tuned for the UAE that accommodates local language, political outlook, and speech restrictions &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/260206/p13#a260206p13)
- - [Aura’s Aspen digital frame is a great gift, especially now that it’s $30 off](https://www.theverge.com/gadgets/874904/aura-aspen-kobo-libra-colour-deal-sale)<!-- TECH:END -->
+ - [Crypto.com co-founder Kris Marszalek buys the domain AI.com for $70M, the highest disclosed price for a domain name, as he plans a site offering an AI agent &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260206/p14#a260206p14)
+ - [Apple&#39;s AI Health Coach Project May Need a Wellness Check](https://www.cnet.com/health/medical/apples-ai-health-coach-project-may-need-a-wellness-check/)
+ - [These Impulse Buys Under $25 Actually Make Surprisingly Great Gifts](https://www.cnet.com/pictures/impulse-buy-gifts-under-25/)
+ - [Capitol Hill probe spotlights claims Apple and Google were pushed to block ICE-monitoring apps](https://appleinsider.com/articles/26/02/06/capitol-hill-probe-spotlights-claims-apple-and-google-were-pushed-to-block-ice-monitoring-apps?utm_source=rss)
+ - [Spotify’s About the Song offers context and trivia about your favorite tracks](https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

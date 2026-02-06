@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Mobile execs showcase the T1 Phone&#39;s new design and specs, and say the phones go through &quot;final assembly&quot; in Miami and full assembly in the US is a &quot;goal&quot; &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260206/p27#a260206p27)
+ - [We found 20 Verge-approved gifts on sale ahead of Valentine’s Day](https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale)
  - [Palmer Luckey&#39;s Erebor becomes the first newly created bank to receive a national charter under the second Trump administration, launching with $635M in capital &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260206/p26#a260206p26)
  - [ICE Agent’s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting](https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/)
- - [Spotify rolls out About the Song, swipeable stories in English, summarized from third-party sources to highlight song details, in beta for Premium users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260206/p25#a260206p25)
- - [Apple might let you use ChatGPT from CarPlay](https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor)
- - [This is the Trump Phone](https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson)<!-- TECH:END -->
+ - [Anthropic&#39;s Most Powerful Claude AI Model Just Got More Powerful](https://www.cnet.com/tech/services-and-software/anthropic-claude-opus-4-6-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

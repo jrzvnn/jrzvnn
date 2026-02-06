@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This bolt is worth $8000 and goes in a helicopter](http://9gag.com/gag/aQzbjWw)
- - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 👉 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)<!-- MEMES:END -->
+ - 😝 [Well...well...well.... micro-slop shares are going down the slop of their own making.](http://9gag.com/gag/a87NRdQ)
+ - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 💣 [This bolt is worth $8000 and goes in a helicopter](http://9gag.com/gag/aQzbjWw)
+ - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 👉 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)<!-- MEMES:END -->
 
 ---
 

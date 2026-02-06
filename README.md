@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
+ - 😝 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
  - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 💣 [What a loving coup-hol up](http://9gag.com/gag/ae9zBYj)
- - 😝 [Nobody knows anything](http://9gag.com/gag/a34grP5)
+ - 💣 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
+ - 😝 [It&#39;s a classic](http://9gag.com/gag/azxyWqp)
  - 👉 [Best field trip ever](http://9gag.com/gag/a6Zg63m)<!-- MEMES:END -->
 
 ---

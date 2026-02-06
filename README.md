@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 😝 [This couple&#39;s journey is everything. From weight loss to welcoming their little one, talk about true love and dedication](http://9gag.com/gag/aZZXYZQ)
- - 💣 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)
- - 😝 [Some people get lucky](http://9gag.com/gag/abADNK9)
- - 👉 [Didn\u2018t think I\u2018d ever need the spare but hey\u2026worth it](http://9gag.com/gag/aQzbL3q)<!-- MEMES:END -->
+ - 😝 [This bolt is worth $8000 and goes in a helicopter](http://9gag.com/gag/aQzbjWw)
+ - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
+ - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 👉 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)<!-- MEMES:END -->
 
 ---
 

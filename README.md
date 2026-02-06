@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU says that TikTok&#39;s &quot;addictive design&quot; is illegal under the DSA, citing the app&#39;s infinite scroll and recommendation algorithm, in preliminary findings &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/260206/p6#a260206p6)
- - [Goldman Sachs says it has been working with Anthropic on AI agents to automate a growing number of roles at the bank, including client vetting and onboarding &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/260206/p5#a260206p5)
- - [Why the Artemis II Crew Stays in Quarantine Before Their Journey to Moon](https://www.wired.com/story/why-the-artemis-ii-crew-stays-in-quarantine-before-their-journey-to-moon/)
- - [Why a Dehumidifier Is One of My Favorite Gadgets](https://www.wired.com/story/you-should-buy-a-dehumidifier/)
- - [AT&amp;T launches amiGO Jr., a mid-tier Samsung-made smartphone for kids with parental controls on contacts, app access, screen time, and more, for $2.99 per month &lpar;Annie Bang/Bloomberg&rpar;](http://www.techmeme.com/260206/p4#a260206p4)<!-- TECH:END -->
+ - [Uber found liable for sexual assault in first of thousands of similar lawsuits](https://www.theverge.com/transportation/874751/uber-sexual-assault-federal-case-verdict-liable)
+ - [TikTok&amp;#8217;s infinite scroll is too addictive, say EU regulators](https://www.theverge.com/policy/874746/tiktok-addictive-eu-regulators-infinite-scroll-notifications-autoplay)
+ - [One song can ruin your entire Apple Music algorithm &amp; there needs to be a fix](https://appleinsider.com/articles/26/02/06/one-song-can-ruin-your-entire-apple-music-algorithm-there-needs-to-be-a-fix?utm_source=rss)
+ - [Inside Live Translation on FaceTime on iOS 26](https://appleinsider.com/inside/facetime/tips/inside-live-translation-on-facetime-on-ios-26?utm_source=rss)
+ - [Waymo Hits a Rough Patch In Washington, DC](https://www.wired.com/story/waymo-hits-a-rough-patch-in-washington-dc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

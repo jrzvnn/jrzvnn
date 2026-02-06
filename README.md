@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: London-based 9fin, a data provider for debt markets, is in talks to raise as much as $150M at a pre-money valuation of $1B, about 20x its ARR of ~$50M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260206/p22#a260206p22)
+ - [RFK Jr. Has Packed an Autism Panel With Cranks and Conspiracy Theorists](https://www.wired.com/story/rfk-jr-s-picks-for-a-key-autism-panel-include-advocates-for-bizarre-theories/)
+ - [Galaxy Digital stock jumps 17%+ after the company approved a share buyback program of up to $200M over the next 12 months &lpar;CoinDesk&rpar;](http://www.techmeme.com/260206/p21#a260206p21)
  - [Croatian-founded Daytona, which aims to build infrastructure for large-scale agent workloads, raised a $24M Series A led by FirstMark &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260206/p20#a260206p20)
- - [CarPlay could soon support third-party AI voice assistants like ChatGPT](https://appleinsider.com/articles/26/02/06/carplay-could-soon-support-third-party-ai-voice-assistants-like-chatgpt?utm_source=rss)
- - [A civil subpoena shows the US DOJ is investigating Netflix for potential anticompetitive tactics as DOJ probes the company&#39;s proposed acquisition of WBD &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260206/p19#a260206p19)
- - [My Favorite TV to Watch the Winter Olympics Is on Sale](https://www.wired.com/story/samsung-s90f-qd-oled-tv-deal-226/)
- - [Sources: Apple plans to allow third-party voice-controlled AI chatbots in CarPlay within the coming months; it won&#39;t let users replace CarPlay&#39;s Siri button &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260206/p18#a260206p18)<!-- TECH:END -->
+ - [CarPlay could soon support third-party AI voice assistants like ChatGPT](https://appleinsider.com/articles/26/02/06/carplay-could-soon-support-third-party-ai-voice-assistants-like-chatgpt?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Couples Sex Toys &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-couples-sex-toys/)
  - [Sources: Intel and AMD have notified Chinese customers of supply shortages for server CPUs, with Intel warning of delivery lead times of up to six months &lpar;Reuters&rpar;](http://www.techmeme.com/260206/p2#a260206p2)
  - [Meituan agrees to buy Dingdong, a Chinese fresh grocery e-commerce company, for $717M in cash; Dingdong had 7M+ monthly transacting users as of September 2025 &lpar;Cao Li/South China Morning Post&rpar;](http://www.techmeme.com/260206/p1#a260206p1)
  - [Filing: Zuckerberg considered changing how Meta studies social issues after a WSJ story about Instagram and teen mental health, noting Apple faces less scrutiny &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260205/p61#a260205p61)
- - [How the SpaceX-xAI $1.25T merger deal was fast-tracked after SpaceX had a technical breakthrough in orbital data centers last fall &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260205/p60#a260205p60)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Feb. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-feb-6/)<!-- TECH:END -->
+ - [How the SpaceX-xAI $1.25T merger deal was fast-tracked after SpaceX had a technical breakthrough in orbital data centers last fall &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260205/p60#a260205p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

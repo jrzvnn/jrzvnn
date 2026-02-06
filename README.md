@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Zuckerberg considered changing how Meta studies social issues after a WSJ story about Instagram and teen mental health, noting Apple faces less scrutiny &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260205/p61#a260205p61)
+ - [How the SpaceX-xAI $1.25T merger deal was fast-tracked after SpaceX had a technical breakthrough in orbital data centers last fall &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260205/p60#a260205p60)
  - [Sapiom, which is developing a financial layer for enterprises to let AI agents automatically buy the services they need, raised a $15M seed led by Accel &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260205/p59#a260205p59)
- - [Tether acquires a 12% stake, worth $150M, in Gold.com, which enables access to physical and tokenized gold, and plans to integrate its gold-backed XAUT token &lpar;CoinDesk&rpar;](http://www.techmeme.com/260205/p58#a260205p58)
- - [Alphabet, Amazon, Meta, and Microsoft forecast capital expenditures that reach a combined ~$650B in 2026, a 60% YoY increase driven by data center construction &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p57#a260205p57)
- - [French authorities charge four people with spying for China by allegedly seeking to obtain satellite data from Starlink and other critical entities &lpar;Jenny Che/Bloomberg&rpar;](http://www.techmeme.com/260205/p56#a260205p56)
- - [Only 35 nations signed a declaration affirming &quot;human responsibility over AI-powered weapons&quot;, with the US and China opting out; the US endorsed prior pledges &lpar;Victoria Waldersee/Reuters&rpar;](http://www.techmeme.com/260205/p55#a260205p55)<!-- TECH:END -->
+ - [I Bought the Galaxy Z TriFold for Over $3,000. Follow Along as I Test It &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/samsung-galaxy-z-trifold-ongoing-review/)
+ - [Tether acquires a 12% stake, worth $150M, in Gold.com, which enables access to physical and tokenized gold, and plans to integrate its gold-backed XAUT token &lpar;CoinDesk&rpar;](http://www.techmeme.com/260205/p58#a260205p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excuse me, wtf?](http://9gag.com/gag/agm9Dew)
- - 😝 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
- - 💣 [This bolt is worth $8000 and goes in a helicopter](http://9gag.com/gag/aQzbjWw)
- - 😝 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)
- - 👉 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)<!-- MEMES:END -->
+ - 😝 [Someone saved all of the Epstein emails from the releases and set up a Gmail clone site that you can scroll as if you were in Jeffery&#39;s Gmail. You can search by contacts, photos and even flight history.](http://9gag.com/gag/aW4y3j2)
+ - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 💣 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)
+ - 😝 [I works!](http://9gag.com/gag/aqyMEGR)
+ - 👉 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)<!-- MEMES:END -->
 
 ---
 

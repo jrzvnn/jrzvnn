@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Croatian-founded Daytona, which aims to build infrastructure for large-scale agent workloads, raised a $24M Series A led by FirstMark &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260206/p20#a260206p20)
+ - [CarPlay could soon support third-party AI voice assistants like ChatGPT](https://appleinsider.com/articles/26/02/06/carplay-could-soon-support-third-party-ai-voice-assistants-like-chatgpt?utm_source=rss)
  - [A civil subpoena shows the US DOJ is investigating Netflix for potential anticompetitive tactics as DOJ probes the company&#39;s proposed acquisition of WBD &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260206/p19#a260206p19)
  - [My Favorite TV to Watch the Winter Olympics Is on Sale](https://www.wired.com/story/samsung-s90f-qd-oled-tv-deal-226/)
- - [Sources: Apple plans to allow third-party voice-controlled AI chatbots in CarPlay within the coming months; it won&#39;t let users replace CarPlay&#39;s Siri button &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260206/p18#a260206p18)
- - [Heroku says it is transitioning to a &quot;sustaining engineering model&quot;, as it focuses on &quot;helping organizations build and deploy enterprise-grade AI&quot; &lpar;Nitin T Bhat/Heroku&rpar;](http://www.techmeme.com/260206/p17#a260206p17)
- - [I Tried What US Athletes Will Be Sleeping on at Milano Cortina](https://www.wired.com/story/saatvas-winter-olympic-sleep-bundle/)<!-- TECH:END -->
+ - [Sources: Apple plans to allow third-party voice-controlled AI chatbots in CarPlay within the coming months; it won&#39;t let users replace CarPlay&#39;s Siri button &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260206/p18#a260206p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T launches amiGO Jr., a mid-tier Samsung-made smartphone for kids with parental controls on contacts, app access, screen time, and more, for $2.99 per month &lpar;Annie Bang/Bloomberg&rpar;](http://www.techmeme.com/260206/p4#a260206p4)
- - [Do You Need a Blender, Food Processor and Stand Mixer?](https://www.cnet.com/news/difference-between-blender-food-processor-and-stand-mixer/)
- - [Figure Skaters at the 2026 Winter Olympics Are Pushing the Limits of What’s Possible](https://www.wired.com/story/figure-skating-2026-winter-olympics-pushing-the-limits/)
- - [Public Health Workers Are Quitting Over Assignments to Guantánamo](https://www.wired.com/story/public-health-workers-are-quitting-over-assignments-to-guantanamo/)
- - [What Paralympic Athlete Monster Mike Schultz Packs for His Races](https://www.wired.com/story/mike-schultz-paralympian-snowboardcross-starter-pack/)<!-- TECH:END -->
+ - [The EU says that TikTok&#39;s &quot;addictive design&quot; is illegal under the DSA, citing the app&#39;s infinite scroll and recommendation algorithm, in preliminary findings &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/260206/p6#a260206p6)
+ - [Goldman Sachs says it has been working with Anthropic on AI agents to automate a growing number of roles at the bank, including client vetting and onboarding &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/260206/p5#a260206p5)
+ - [Why the Artemis II Crew Stays in Quarantine Before Their Journey to Moon](https://www.wired.com/story/why-the-artemis-ii-crew-stays-in-quarantine-before-their-journey-to-moon/)
+ - [Why a Dehumidifier Is One of My Favorite Gadgets](https://www.wired.com/story/you-should-buy-a-dehumidifier/)
+ - [AT&amp;T launches amiGO Jr., a mid-tier Samsung-made smartphone for kids with parental controls on contacts, app access, screen time, and more, for $2.99 per month &lpar;Annie Bang/Bloomberg&rpar;](http://www.techmeme.com/260206/p4#a260206p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

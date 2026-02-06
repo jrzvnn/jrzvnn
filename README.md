@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
  - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 💣 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
+ - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
+ - 💣 [The power of friendship](http://9gag.com/gag/a4PgXnd)
  - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 👉 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)<!-- MEMES:END -->
+ - 👉 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)<!-- MEMES:END -->
 
 ---
 

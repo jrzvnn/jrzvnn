@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
- - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 💣 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
- - 😝 [It&#39;s a classic](http://9gag.com/gag/azxyWqp)
- - 👉 [Best field trip ever](http://9gag.com/gag/a6Zg63m)<!-- MEMES:END -->
+ - 😝 [We don&#39;t know what we did!](http://9gag.com/gag/aAyAzD0)
+ - 😝 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)
+ - 💣 [Uhmm.](http://9gag.com/gag/aByz5e2)
+ - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
+ - 👉 [Who IS you ?](http://9gag.com/gag/azxy3Wz)<!-- MEMES:END -->
 
 ---
 

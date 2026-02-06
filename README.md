@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There isn’t even a cynical explanation for Jeff Bezos destroying The Washington Post](https://www.theverge.com/policy/874958/jeff-bezos-washington-post-layoffs-trump)
- - [Amazon&#39;s annual tax bill fell 87% YoY to $1.2B in 2025, as profits grew 45% to ~$90B, mostly due to GOP&#39;s depreciation breaks in the One Big Beautiful Bill &lpar;Brian Faler/Politico&rpar;](http://www.techmeme.com/260206/p16#a260206p16)
- - [The Jeffrey Epstein Fortnite account is fake](https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake)
- - [New York Is the Latest State to Consider a Data Center Pause](https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/)
- - [Blowout AirTag deals deliver prices as low as $17, discounts up to 41% off](https://appleinsider.com/articles/26/02/06/blowout-airtag-deals-deliver-prices-as-low-as-17-discounts-up-to-41-off?utm_source=rss)<!-- TECH:END -->
+ - [My Favorite TV to Watch the Winter Olympics Is on Sale](https://www.wired.com/story/samsung-s90f-qd-oled-tv-deal-226/)
+ - [Sources: Apple plans to allow third-party voice-controlled AI chatbots in CarPlay within the coming months; it won&#39;t let users replace CarPlay&#39;s Siri button &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260206/p18#a260206p18)
+ - [Heroku says it is transitioning to a &quot;sustaining engineering model&quot;, as it focuses on &quot;helping organizations build and deploy enterprise-grade AI&quot; &lpar;Nitin T Bhat/Heroku&rpar;](http://www.techmeme.com/260206/p17#a260206p17)
+ - [I Tried What US Athletes Will Be Sleeping on at Milano Cortina](https://www.wired.com/story/saatvas-winter-olympic-sleep-bundle/)
+ - [There isn’t even a cynical explanation for Jeff Bezos destroying The Washington Post](https://www.theverge.com/policy/874958/jeff-bezos-washington-post-layoffs-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

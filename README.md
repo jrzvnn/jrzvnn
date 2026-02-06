@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Affirm reports Q2 revenue up 30% YoY to $1.12B, vs. $1.06B est., GMV up 36% to $13.8B, and forecasts Q3 revenue slightly above est.; AFRM drops 6%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/260205/p53#a260205p53)
- - [Interviews with Anthropic executives and other tech industry leaders and engineers about Claude Code&#39;s success, which some say has been a long time coming &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260205/p52#a260205p52)
- - [HBO is turning Baldur’s Gate into a TV show](https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin)
- - [Grab a MacBook Air from just $389 heading into Super Bowl weekend](https://appleinsider.com/articles/26/02/06/grab-a-macbook-air-from-just-389-heading-into-super-bowl-weekend?utm_source=rss)
- - [Apple Health+ scaled back internally, will focus on incremental features instead](https://appleinsider.com/articles/26/02/06/apple-health-scaled-back-internally-will-focus-on-incremental-features-instead?utm_source=rss)<!-- TECH:END -->
+ - [Sapiom, which is developing a financial layer for enterprises to let AI agents automatically buy the services they need, raised a $15M seed led by Accel &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260205/p59#a260205p59)
+ - [Tether acquires a 12% stake, worth $150M, in Gold.com, which enables access to physical and tokenized gold, and plans to integrate its gold-backed XAUT token &lpar;CoinDesk&rpar;](http://www.techmeme.com/260205/p58#a260205p58)
+ - [Alphabet, Amazon, Meta, and Microsoft forecast capital expenditures that reach a combined ~$650B in 2026, a 60% YoY increase driven by data center construction &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p57#a260205p57)
+ - [French authorities charge four people with spying for China by allegedly seeking to obtain satellite data from Starlink and other critical entities &lpar;Jenny Che/Bloomberg&rpar;](http://www.techmeme.com/260205/p56#a260205p56)
+ - [Only 35 nations signed a declaration affirming &quot;human responsibility over AI-powered weapons&quot;, with the US and China opting out; the US endorsed prior pledges &lpar;Victoria Waldersee/Reuters&rpar;](http://www.techmeme.com/260205/p55#a260205p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

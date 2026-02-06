@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)
- - 😝 [What could go wrong, driving the wrong lane](http://9gag.com/gag/aByzeBP)
- - 💣 [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
- - 😝 [Where can i get one](http://9gag.com/gag/awyjpGy)
- - 👉 [Indeed, Kevin](http://9gag.com/gag/aZZX5o9)<!-- MEMES:END -->
+ - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 😝 [Best field trip ever](http://9gag.com/gag/a6Zg63m)
+ - 💣 [True or not, his name is on the list of emails, and he married his daughter &lpar;wife&rpar; too](http://9gag.com/gag/aQzb5dK)
+ - 😝 [You Said it Cookie Monster](http://9gag.com/gag/ayNrwwW)
+ - 👉 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)<!-- MEMES:END -->
 
 ---
 

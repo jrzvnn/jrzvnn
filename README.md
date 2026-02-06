@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to factory reset AirTag 2](https://appleinsider.com/inside/airtags/tips/how-to-factory-reset-airtag-2?utm_source=rss)
- - [Spotify changes Developer Mode to require a Premium subscription and reduces the number of test users per app from 25 to 5, to curb AI-aided or automated usage &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260206/p9#a260206p9)
- - [The Best 3-in-1 Apple Charging Stations &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
- - [AG1 is a lot less science-y than it sounds](https://www.theverge.com/column/874696/optimizer-ag1-wellness-report-card-greens-powder)
- - [SIA: chip sales hit $791.7B in 2025, up 25.6% YoY, with Nvidia, AMD, and Intel accounting for $301.9B, up 40%; SIA expects sales to reach $1T in 2026 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260206/p8#a260206p8)<!-- TECH:END -->
+ - [Over 800 Google Workers Urge Company to Cancel Any Contracts With ICE and CBP](https://www.wired.com/story/hundreds-of-google-employees-demand-answers-from-executives-about-ice/)
+ - [Analogue’s 4K N64 is getting five new transparent color options](https://www.theverge.com/tech/874494/analogue-3d-4k-n64-console-prototype-limited-editions)
+ - [What happens when Waymo runs into a tornado? Or an elephant?](https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3)
+ - [iPhone 18 Pro Max battery life to increase again -- but not by much](https://appleinsider.com/articles/26/02/06/iphone-18-pro-max-battery-life-to-increase-again----but-not-by-much?utm_source=rss)
+ - [Analysis: Claude Code currently authors 4% of all public GitHub commits and is on track to cross 20% of all daily commits by the end of 2026 &lpar;Doug O&#39;Laughlin/SemiAnalysis&rpar;](http://www.techmeme.com/260206/p10#a260206p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

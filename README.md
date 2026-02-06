@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Women in rural India report experiencing trauma from data annotation work, which requires them to review violent content and porn for global tech companies &lpar;Anuj Behal/The Guardian&rpar;](http://www.techmeme.com/260206/p3#a260206p3)
- - [Arguments in a Landmark Social Media Addiction Trial Start Next Week. This Is What&#39;s at Stake](https://www.wired.com/story/meta-google-youtube-social-media-addiction-trial/)
- - [Tax Services of 2026: TurboTax and H&amp;R Block Tested](https://www.wired.com/gallery/best-tax-services/)
- - [Best Slippers for Working From Home or Relaxing &lpar;2026&rpar;](https://www.wired.com/gallery/best-slippers/)
- - [Buying a Mattress in 2026? We Tested 100+ and These Were the Standouts](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
+ - [AT&amp;T launches amiGO Jr., a mid-tier Samsung-made smartphone for kids with parental controls on contacts, app access, screen time, and more, for $2.99 per month &lpar;Annie Bang/Bloomberg&rpar;](http://www.techmeme.com/260206/p4#a260206p4)
+ - [Do You Need a Blender, Food Processor and Stand Mixer?](https://www.cnet.com/news/difference-between-blender-food-processor-and-stand-mixer/)
+ - [Figure Skaters at the 2026 Winter Olympics Are Pushing the Limits of What’s Possible](https://www.wired.com/story/figure-skating-2026-winter-olympics-pushing-the-limits/)
+ - [Public Health Workers Are Quitting Over Assignments to Guantánamo](https://www.wired.com/story/public-health-workers-are-quitting-over-assignments-to-guantanamo/)
+ - [What Paralympic Athlete Monster Mike Schultz Packs for His Races](https://www.wired.com/story/mike-schultz-paralympian-snowboardcross-starter-pack/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: London-based 9fin, a data provider for debt markets, is in talks to raise as much as $150M at a pre-money valuation of $1B, about 20x its ARR of ~$50M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260206/p22#a260206p22)
- - [RFK Jr. Has Packed an Autism Panel With Cranks and Conspiracy Theorists](https://www.wired.com/story/rfk-jr-s-picks-for-a-key-autism-panel-include-advocates-for-bizarre-theories/)
- - [Galaxy Digital stock jumps 17%+ after the company approved a share buyback program of up to $200M over the next 12 months &lpar;CoinDesk&rpar;](http://www.techmeme.com/260206/p21#a260206p21)
- - [Croatian-founded Daytona, which aims to build infrastructure for large-scale agent workloads, raised a $24M Series A led by FirstMark &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260206/p20#a260206p20)
- - [CarPlay could soon support third-party AI voice assistants like ChatGPT](https://appleinsider.com/articles/26/02/06/carplay-could-soon-support-third-party-ai-voice-assistants-like-chatgpt?utm_source=rss)<!-- TECH:END -->
+ - [Spotify rolls out About the Song, swipeable stories in English, summarized from third-party sources to highlight song details, in beta for Premium users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260206/p25#a260206p25)
+ - [Apple might let you use ChatGPT from CarPlay](https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor)
+ - [This is the Trump Phone](https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson)
+ - [Sources: AI chip startup SambaNova is raising a $350M+ Series E led by Vista Equity Partners; Intel plans to invest $100M to $150M &lpar;Reuters&rpar;](http://www.techmeme.com/260206/p24#a260206p24)
+ - [Nvidia stock closes up 7.87% after Jensen Huang said the tech industry&#39;s surging capex for AI infrastructure is justified, appropriate, and sustainable &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/260206/p23#a260206p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

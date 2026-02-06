@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A civil subpoena shows the US DOJ is investigating Netflix for potential anticompetitive tactics as DOJ probes the company&#39;s proposed acquisition of WBD &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260206/p19#a260206p19)
  - [My Favorite TV to Watch the Winter Olympics Is on Sale](https://www.wired.com/story/samsung-s90f-qd-oled-tv-deal-226/)
  - [Sources: Apple plans to allow third-party voice-controlled AI chatbots in CarPlay within the coming months; it won&#39;t let users replace CarPlay&#39;s Siri button &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260206/p18#a260206p18)
  - [Heroku says it is transitioning to a &quot;sustaining engineering model&quot;, as it focuses on &quot;helping organizations build and deploy enterprise-grade AI&quot; &lpar;Nitin T Bhat/Heroku&rpar;](http://www.techmeme.com/260206/p17#a260206p17)
- - [I Tried What US Athletes Will Be Sleeping on at Milano Cortina](https://www.wired.com/story/saatvas-winter-olympic-sleep-bundle/)
- - [There isn’t even a cynical explanation for Jeff Bezos destroying The Washington Post](https://www.theverge.com/policy/874958/jeff-bezos-washington-post-layoffs-trump)<!-- TECH:END -->
+ - [I Tried What US Athletes Will Be Sleeping on at Milano Cortina](https://www.wired.com/story/saatvas-winter-olympic-sleep-bundle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

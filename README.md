@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How an appeal changed the way the USPTO assesses AI patents under the US Patent Act, signaling a shift towards more favorable treatment of AI and ML inventions &lpar;Matthew Carey/Bloomberg Law&rpar;](http://www.techmeme.com/260206/p7#a260206p7)
- - [Apple Health+ scaled back internally, new focus on incremental improvement](https://appleinsider.com/articles/26/02/06/apple-health-scaled-back-internally-will-focus-on-incremental-features-instead?utm_source=rss)
- - [I Need Samsung to Add These Things to the Galaxy S26 Ultra](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-wishlist/)
- - [NordProtect &lpar;2026&rpar; Review: A Bundle of ID-Protecting Services](https://www.wired.com/review/nordprotect/)
- - [Here’s How to Watch All the Naked Gun Movies in Order in One Place](https://www.cnet.com/tech/services-and-software/how-to-watch-the-naked-gun-series/)<!-- TECH:END -->
+ - [SIA: chip sales hit $791.7B in 2025, up 25.6% YoY, with Nvidia, AMD, and Intel accounting for $301.9B, up 40%; SIA expects sales to reach $1T in 2026 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260206/p8#a260206p8)
+ - [How Epstein became a tech influencer](https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast)
+ - [Apple Vision Pro anniversary, Gemini confusion, and iPhone Flip on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/06/apple-vision-pro-anniversary-gemini-confusion-and-iphone-flip-on-the-appleinsider-podcast?utm_source=rss)
+ - [The Best OLED TVs We’ve Ever Seen: LG, Samsung, and More](https://www.wired.com/gallery/best-oleds/)
+ - [How an appeal changed the way the USPTO assesses AI patents under the US Patent Act, signaling a shift towards more favorable treatment of AI and ML inventions &lpar;Matthew Carey/Bloomberg Law&rpar;](http://www.techmeme.com/260206/p7#a260206p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

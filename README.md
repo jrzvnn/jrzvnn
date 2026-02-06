@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)
- - 😝 [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
- - 💣 [What could go wrong, driving the wrong lane](http://9gag.com/gag/aByzeBP)
- - 😝 [Where can i get one](http://9gag.com/gag/awyjpGy)
- - 👉 [Indeed, Kevin](http://9gag.com/gag/aZZX5o9)<!-- MEMES:END -->
+ - 😝 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
+ - 💣 [Uhmm.](http://9gag.com/gag/aByz5e2)
+ - 😝 [Best field trip ever](http://9gag.com/gag/a6Zg63m)
+ - 👉 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)<!-- MEMES:END -->
 
 ---
 

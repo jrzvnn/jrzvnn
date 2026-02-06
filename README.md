@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What could go wrong, driving the wrong lane](http://9gag.com/gag/aByzeBP)
+ - 😝 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)
  - 😝 [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
- - 💣 [Where can i get one](http://9gag.com/gag/awyjpGy)
- - 😝 [You Said it Cookie Monster](http://9gag.com/gag/ayNrwwW)
+ - 💣 [What could go wrong, driving the wrong lane](http://9gag.com/gag/aByzeBP)
+ - 😝 [Where can i get one](http://9gag.com/gag/awyjpGy)
  - 👉 [Indeed, Kevin](http://9gag.com/gag/aZZX5o9)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo says it is using DeepMind&#39;s Genie 3 to create realistic digital worlds for its autonomous driving technology to train on edge-case scenarios &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260206/p12#a260206p12)
- - [The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?](https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/)
- - [Amazon, Google, and Microsoft reported a collective $1.1T backlog of cloud computing revenue in their latest quarterly earnings, including Microsoft&#39;s $625B &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/260206/p11#a260206p11)
- - [The Alexa app is so bad I&amp;#8217;m using Siri again](https://www.theverge.com/tech/874792/the-alexa-app-is-so-bad-im-using-siri-again)
- - [Valve Delays Steam Frame and Steam Machine Pricing as Memory Costs Rise](https://www.cnet.com/tech/gaming/valve-delays-steam-frame-and-steam-machine-pricing-as-memory-costs-rise/)<!-- TECH:END -->
+ - [Spotify’s About the Song offers context and trivia about your favorite tracks](https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes)
+ - [19 Best Food Gifts to Buy Online, as Tested by Our Tastebuds &lpar;2026&rpar;](https://www.wired.com/gallery/best-food-gifts/)
+ - [Applications are now open for the 2026 Swift Student Challenge -- but hurry](https://appleinsider.com/articles/26/02/06/applications-are-now-open-for-the-2026-swift-student-challenge----but-hurry?utm_source=rss)
+ - [Sources: OpenAI is working with G42 to build a ChatGPT version tuned for the UAE that accommodates local language, political outlook, and speech restrictions &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/260206/p13#a260206p13)
+ - [Aura’s Aspen digital frame is a great gift, especially now that it’s $30 off](https://www.theverge.com/gadgets/874904/aura-aspen-kobo-libra-colour-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

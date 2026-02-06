@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [watchOS 11.6.2 out with a key fix for Apple Watch users in Australia](https://appleinsider.com/articles/26/02/05/watchos-1162-out-with-a-key-fix-for-apple-watch-users-in-australia?utm_source=rss)
- - [Tim Cook reflects on Apple&#39;s 50 years and retirement coming for us all](https://appleinsider.com/articles/26/02/05/tim-cook-reflects-on-apples-50-years-and-retirement-coming-for-us-all?utm_source=rss)
- - [Sources: Apple wound down plans for an AI-based virtual health coach in recent weeks; Eddy Cue has told colleagues that Apple needs to move faster in health &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260205/p50#a260205p50)
- - [Roblox is working to pull in adult players](https://www.theverge.com/games/874675/roblox-earnings-q4-2025-increasing-adult-players)
- - [Roblox reports Q4 bookings up 63% YoY to $2.2B vs. $2.05B est., DAUs up 69% to 144M, and forecasts FY 2026 bookings above estimates; RBLX jumps 18%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260205/p49#a260205p49)<!-- TECH:END -->
+ - [Affirm reports Q2 revenue up 30% YoY to $1.12B, vs. $1.06B est., GMV up 36% to $13.8B, and forecasts Q3 revenue slightly above est.; AFRM drops 6%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/260205/p53#a260205p53)
+ - [Interviews with Anthropic executives and other tech industry leaders and engineers about Claude Code&#39;s success, which some say has been a long time coming &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260205/p52#a260205p52)
+ - [HBO is turning Baldur’s Gate into a TV show](https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin)
+ - [Grab a MacBook Air from just $389 heading into Super Bowl weekend](https://appleinsider.com/articles/26/02/06/grab-a-macbook-air-from-just-389-heading-into-super-bowl-weekend?utm_source=rss)
+ - [Apple Health+ scaled back internally, will focus on incremental features instead](https://appleinsider.com/articles/26/02/06/apple-health-scaled-back-internally-will-focus-on-incremental-features-instead?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

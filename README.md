@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto.com co-founder Kris Marszalek buys the domain AI.com for $70M, the highest disclosed price for a domain name, as he plans a site offering an AI agent &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260206/p14#a260206p14)
- - [Apple&#39;s AI Health Coach Project May Need a Wellness Check](https://www.cnet.com/health/medical/apples-ai-health-coach-project-may-need-a-wellness-check/)
- - [These Impulse Buys Under $25 Actually Make Surprisingly Great Gifts](https://www.cnet.com/pictures/impulse-buy-gifts-under-25/)
- - [Capitol Hill probe spotlights claims Apple and Google were pushed to block ICE-monitoring apps](https://appleinsider.com/articles/26/02/06/capitol-hill-probe-spotlights-claims-apple-and-google-were-pushed-to-block-ice-monitoring-apps?utm_source=rss)
- - [Spotify’s About the Song offers context and trivia about your favorite tracks](https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes)<!-- TECH:END -->
+ - [There isn’t even a cynical explanation for Jeff Bezos destroying The Washington Post](https://www.theverge.com/policy/874958/jeff-bezos-washington-post-layoffs-trump)
+ - [Amazon&#39;s annual tax bill fell 87% YoY to $1.2B in 2025, as profits grew 45% to ~$90B, mostly due to GOP&#39;s depreciation breaks in the One Big Beautiful Bill &lpar;Brian Faler/Politico&rpar;](http://www.techmeme.com/260206/p16#a260206p16)
+ - [The Jeffrey Epstein Fortnite account is fake](https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake)
+ - [New York Is the Latest State to Consider a Data Center Pause](https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/)
+ - [Blowout AirTag deals deliver prices as low as $17, discounts up to 41% off](https://appleinsider.com/articles/26/02/06/blowout-airtag-deals-deliver-prices-as-low-as-17-discounts-up-to-41-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

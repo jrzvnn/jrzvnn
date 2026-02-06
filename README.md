@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True or not, his name is on the list of emails, and he married his daughter &lpar;wife&rpar; too](http://9gag.com/gag/aQzb5dK)
- - 😝 [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
- - 💣 [Best field trip ever](http://9gag.com/gag/a6Zg63m)
- - 😝 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)
- - 👉 [Uhmm.](http://9gag.com/gag/aByz5e2)<!-- MEMES:END -->
+ - 😝 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)
+ - 😝 [What could go wrong, driving the wrong lane](http://9gag.com/gag/aByzeBP)
+ - 💣 [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
+ - 😝 [Where can i get one](http://9gag.com/gag/awyjpGy)
+ - 👉 [Indeed, Kevin](http://9gag.com/gag/aZZX5o9)<!-- MEMES:END -->
 
 ---
 

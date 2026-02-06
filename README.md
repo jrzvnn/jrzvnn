@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ICE Agent&#39;s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting](https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/)
+ - [Palmer Luckey&#39;s Erebor becomes the first newly created bank to receive a national charter under the second Trump administration, launching with $635M in capital &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260206/p26#a260206p26)
+ - [ICE Agent’s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting](https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/)
  - [Spotify rolls out About the Song, swipeable stories in English, summarized from third-party sources to highlight song details, in beta for Premium users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260206/p25#a260206p25)
  - [Apple might let you use ChatGPT from CarPlay](https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor)
- - [This is the Trump Phone](https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson)
- - [Sources: AI chip startup SambaNova is raising a $350M+ Series E led by Vista Equity Partners; Intel plans to invest $100M to $150M &lpar;Reuters&rpar;](http://www.techmeme.com/260206/p24#a260206p24)<!-- TECH:END -->
+ - [This is the Trump Phone](https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

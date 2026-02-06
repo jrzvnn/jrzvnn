@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well...well...well.... micro-slop shares are going down the slop of their own making.](http://9gag.com/gag/a87NRdQ)
- - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 😝 [Excuse me, wtf?](http://9gag.com/gag/agm9Dew)
+ - 😝 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
  - 💣 [This bolt is worth $8000 and goes in a helicopter](http://9gag.com/gag/aQzbjWw)
- - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 👉 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)<!-- MEMES:END -->
+ - 😝 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)
+ - 👉 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)<!-- MEMES:END -->
 
 ---
 

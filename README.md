@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 800 Google Workers Urge Company to Cancel Any Contracts With ICE and CBP](https://www.wired.com/story/hundreds-of-google-employees-demand-answers-from-executives-about-ice/)
- - [Analogue’s 4K N64 is getting five new transparent color options](https://www.theverge.com/tech/874494/analogue-3d-4k-n64-console-prototype-limited-editions)
- - [What happens when Waymo runs into a tornado? Or an elephant?](https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3)
- - [iPhone 18 Pro Max battery life to increase again -- but not by much](https://appleinsider.com/articles/26/02/06/iphone-18-pro-max-battery-life-to-increase-again----but-not-by-much?utm_source=rss)
- - [Analysis: Claude Code currently authors 4% of all public GitHub commits and is on track to cross 20% of all daily commits by the end of 2026 &lpar;Doug O&#39;Laughlin/SemiAnalysis&rpar;](http://www.techmeme.com/260206/p10#a260206p10)<!-- TECH:END -->
+ - [Waymo says it is using DeepMind&#39;s Genie 3 to create realistic digital worlds for its autonomous driving technology to train on edge-case scenarios &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260206/p12#a260206p12)
+ - [The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?](https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/)
+ - [Amazon, Google, and Microsoft reported a collective $1.1T backlog of cloud computing revenue in their latest quarterly earnings, including Microsoft&#39;s $625B &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/260206/p11#a260206p11)
+ - [The Alexa app is so bad I&amp;#8217;m using Siri again](https://www.theverge.com/tech/874792/the-alexa-app-is-so-bad-im-using-siri-again)
+ - [Valve Delays Steam Frame and Steam Machine Pricing as Memory Costs Rise](https://www.cnet.com/tech/gaming/valve-delays-steam-frame-and-steam-machine-pricing-as-memory-costs-rise/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

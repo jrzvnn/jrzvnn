@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber found liable for sexual assault in first of thousands of similar lawsuits](https://www.theverge.com/transportation/874751/uber-sexual-assault-federal-case-verdict-liable)
- - [TikTok&amp;#8217;s infinite scroll is too addictive, say EU regulators](https://www.theverge.com/policy/874746/tiktok-addictive-eu-regulators-infinite-scroll-notifications-autoplay)
- - [One song can ruin your entire Apple Music algorithm &amp; there needs to be a fix](https://appleinsider.com/articles/26/02/06/one-song-can-ruin-your-entire-apple-music-algorithm-there-needs-to-be-a-fix?utm_source=rss)
- - [Inside Live Translation on FaceTime on iOS 26](https://appleinsider.com/inside/facetime/tips/inside-live-translation-on-facetime-on-ios-26?utm_source=rss)
- - [Waymo Hits a Rough Patch In Washington, DC](https://www.wired.com/story/waymo-hits-a-rough-patch-in-washington-dc/)<!-- TECH:END -->
+ - [How an appeal changed the way the USPTO assesses AI patents under the US Patent Act, signaling a shift towards more favorable treatment of AI and ML inventions &lpar;Matthew Carey/Bloomberg Law&rpar;](http://www.techmeme.com/260206/p7#a260206p7)
+ - [Apple Health+ scaled back internally, new focus on incremental improvement](https://appleinsider.com/articles/26/02/06/apple-health-scaled-back-internally-will-focus-on-incremental-features-instead?utm_source=rss)
+ - [I Need Samsung to Add These Things to the Galaxy S26 Ultra](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-wishlist/)
+ - [NordProtect &lpar;2026&rpar; Review: A Bundle of ID-Protecting Services](https://www.wired.com/review/nordprotect/)
+ - [Here’s How to Watch All the Naked Gun Movies in Order in One Place](https://www.cnet.com/tech/services-and-software/how-to-watch-the-naked-gun-series/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

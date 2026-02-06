@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
  - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
- - 💣 [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 😝 [This bolt is worth $8000 and goes in a helicopter](http://9gag.com/gag/aQzbjWw)
+ - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 😝 [I works!](http://9gag.com/gag/aqyMEGR)
  - 👉 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)<!-- MEMES:END -->
 
 ---

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
  - 😝 [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)
- - 💣 [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 👉 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)<!-- MEMES:END -->
+ - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 😝 [Imagine that](http://9gag.com/gag/aryEjnX)
+ - 👉 [The power of friendship](http://9gag.com/gag/a4PgXnd)<!-- MEMES:END -->
 
 ---
 

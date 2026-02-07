@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
  - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
+ - 😝 [No title](http://9gag.com/gag/azxyn6j)
  - 💣 [If you know the history of Greece and the ottomens, I think we all can get behind this.....](http://9gag.com/gag/a1mg9mG)
  - 😝 [Second time this week](http://9gag.com/gag/a34gmLv)
  - 👉 [The only good cop for me is a good boi cop](http://9gag.com/gag/aryEQx6)<!-- MEMES:END -->

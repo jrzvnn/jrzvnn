@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether froze $544M in alleged illicit income at Turkey&#39;s request, part of its push to aid governments in crackdowns against crypto use in alleged crimes &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p9#a260207p9)
+ - [Apple, whose capital expenditure is just a fraction of its peers, is the only Big Tech company that saw capex decline YoY in Q4, decreasing 19% to $2.37B &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/260207/p8#a260207p8)
  - [LG’s C5 TV and Anker’s powerful power bank are this week’s best deals](https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl)
  - [The second-gen AirTags are a scatterbrain’s best friend](https://www.theverge.com/tech/875314/airtags-second-gen-review-item-tracker)
- - [Best 85-Inch TV for 2026](https://www.cnet.com/tech/home-entertainment/best-85-inch-tv/)
- - [Anker’s new charger with a screen would feel less gimmicky if it did more](https://www.theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs)
- - [The First Planet Parade of 2026 Is Approaching: When and Where to See It](https://www.cnet.com/science/space/the-first-planet-parade-of-2026-is-in-february-heres-how-to-see-it/)<!-- TECH:END -->
+ - [Best 85-Inch TV for 2026](https://www.cnet.com/tech/home-entertainment/best-85-inch-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 7 Best Automatic Litter Boxes &lpar;2025&rpar; Our Cats Would Recommend](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
  - [New US rules banning Chinese software in internet-connected vehicles from March 17 add urgency to industrywide efforts to reduce reliance on Chinese components &lpar;Stephen Wilmot/Wall Street Journal&rpar;](http://www.techmeme.com/260207/p6#a260207p6)
+ - [Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data](https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/)
  - [Gear News of the Week: Google&#39;s Pixel 10a Arrives Soon, and Valve Delays Its Steam Hardware](https://www.wired.com/story/gear-news-of-the-week-googles-pixel-10a-arrives-soon-and-valve-delays-its-steam-hardware/)
- - [Insta360 Ace Pro 2 Xplorer Grip Pro Kit Review: An Even Better Action Camera](https://www.wired.com/review/insta360-ace-pro-2-xplorer-grip-pro-kit/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 7 #706](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-7-706/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 7, #972](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-7-972/)<!-- TECH:END -->
+ - [Insta360 Ace Pro 2 Xplorer Grip Pro Kit Review: An Even Better Action Camera](https://www.wired.com/review/insta360-ace-pro-2-xplorer-grip-pro-kit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

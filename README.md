@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG’s C5 TV and Anker’s powerful power bank are this week’s best deals](https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl)
  - [The second-gen AirTags are a scatterbrain’s best friend](https://www.theverge.com/tech/875314/airtags-second-gen-review-item-tracker)
  - [Best 85-Inch TV for 2026](https://www.cnet.com/tech/home-entertainment/best-85-inch-tv/)
  - [Anker’s new charger with a screen would feel less gimmicky if it did more](https://www.theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs)
- - [The First Planet Parade of 2026 Is Approaching: When and Where to See It](https://www.cnet.com/science/space/the-first-planet-parade-of-2026-is-in-february-heres-how-to-see-it/)
- - [An interview with Kalshi CEO Tarek Mansour about the &quot;wisdom of the crowd&quot;, political polarization, having Trump Jr. as an adviser, casino comparisons, and more &lpar;Oliver Roeder/Financial Times&rpar;](http://www.techmeme.com/260207/p7#a260207p7)<!-- TECH:END -->
+ - [The First Planet Parade of 2026 Is Approaching: When and Where to See It](https://www.cnet.com/science/space/the-first-planet-parade-of-2026-is-in-february-heres-how-to-see-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

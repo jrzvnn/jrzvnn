@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Mobile execs showcase the T1 Phone&#39;s new design and specs, and say the phones go through &quot;final assembly&quot; in Miami and full assembly in the US is a &quot;goal&quot; &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260206/p27#a260206p27)
- - [We found 20 Verge-approved gifts on sale ahead of Valentine’s Day](https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale)
- - [Palmer Luckey&#39;s Erebor becomes the first newly created bank to receive a national charter under the second Trump administration, launching with $635M in capital &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260206/p26#a260206p26)
- - [ICE Agent’s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting](https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/)
- - [Anthropic&#39;s Most Powerful Claude AI Model Just Got More Powerful](https://www.cnet.com/tech/services-and-software/anthropic-claude-opus-4-6-launch/)<!-- TECH:END -->
+ - [New York lawmakers propose a bill to impose a three-year moratorium on data center development, making NY at least the sixth state to introduce such legislation &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/260206/p29#a260206p29)
+ - [US tech stocks and bitcoin rally after three days of selling; Nasdaq Composite closed up 2.18%, Broadcom 7.22%, Strategy 26.11%, and bitcoin rebounded to ~$70K &lpar;Emily Herbert/Financial Times&rpar;](http://www.techmeme.com/260206/p28#a260206p28)
+ - [Astronauts Can Now Use the Latest Smartphones in Space](https://www.cnet.com/tech/mobile/latest-smartphones-now-allowed-in-space-nasa-says/)
+ - [Spotify Launches &#39;About the Song&#39; Beta to Reveal Stories Behind the Music](https://www.cnet.com/tech/services-and-software/fun-fact-lovers-rejoice-spotifys-about-the-song-feature-adds-more-song-facts/)
+ - [Madden NFL 26 Rushes to Xbox Game Pass in February Ahead of the Big Game](https://www.cnet.com/tech/gaming/game-pass-february/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

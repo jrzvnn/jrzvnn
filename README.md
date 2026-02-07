@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOJ-released emails: Jeffrey Epstein helped Ian Osborne, founder of London-based fund Hedosophia, after Osborne&#39;s outreach to help Epstein fix his image in 2011 &lpar;Financial Times&rpar;](http://www.techmeme.com/260207/p11#a260207p11)
  - [I went back to Linux and it was a mistake](https://www.theverge.com/report/875077/linux-was-a-mistake)
  - [Trump-linked World Liberty Financial&#39;s stablecoin, USD1, hit $5B in total circulation in January with 85% held in Binance accounts; Trump pardoned CZ in October &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/260207/p10#a260207p10)
  - [AT&amp;T Launches Its Own Kid Phone in Collaboration With Samsung, the AmiGo Jr.](https://www.cnet.com/tech/mobile/att-amigo-jr-phone-announced/)
- - [Browser interoperability drive made Safari work more like the others](https://appleinsider.com/articles/26/02/07/browser-interoperability-drive-made-safari-work-more-like-the-others?utm_source=rss)
- - [Tether froze $544M in alleged illicit income at Turkey&#39;s request, part of its push to aid governments in crackdowns against crypto use in alleged crimes &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p9#a260207p9)<!-- TECH:END -->
+ - [Browser interoperability drive made Safari work more like the others](https://appleinsider.com/articles/26/02/07/browser-interoperability-drive-made-safari-work-more-like-the-others?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

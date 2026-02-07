@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you do, fellow kids?](http://9gag.com/gag/aoyovne)
- - 😝 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)
- - 💣 [Didn\u2018t think I\u2018d ever need the spare but hey\u2026worth it](http://9gag.com/gag/aQzbL3q)
- - 😝 [Some people get lucky](http://9gag.com/gag/abADNK9)
- - 👉 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)<!-- MEMES:END -->
+ - 😝 [We don&#39;t know what we did!](http://9gag.com/gag/aAyAzD0)
+ - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
+ - 💣 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 😝 [Second time this week](http://9gag.com/gag/a34gmLv)
+ - 👉 [Justice](http://9gag.com/gag/aYQ6Xpx)<!-- MEMES:END -->
 
 ---
 

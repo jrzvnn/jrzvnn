@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Target Darts Omni Auto Scoring System Hits the Mark](https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/)
+ - [Cairn is a climbing journey about perseverance and obsession](https://www.theverge.com/games/874914/cairn-review-pc-playstation-5)
+ - [I Tested the ‘Thermometer of the Future,’ and I Think This Is Its Ideal User](https://www.cnet.com/health/medical/withings-beamo-thermometer-future-review/)
  - [4 Best Website Builders &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
- - [The best way to watch the Olympics](https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer)
- - [Sony&#39;s Biggest QLED Screens See Big Discounts This Weekend](https://www.wired.com/story/bravia-9-deal-226/)
- - [M5 Pro, M5 Max: What I Expect from Apple&#39;s Next-Gen Chips](https://www.cnet.com/tech/computing/m5-pro-m5-max-apples-next-gen-chips/)
- - [7 Game-Day Foods I Make in the Air Fryer That Aren&#39;t Wings](https://www.cnet.com/news/7-game-day-foods-im-making-in-the-air-fryer-that-arent-wings/)<!-- TECH:END -->
+ - [Here’s How to Watch All of the Jurassic Park and Jurassic World Movies in Order](https://www.cnet.com/tech/services-and-software/how-to-watch-jurassic-park-world-series/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

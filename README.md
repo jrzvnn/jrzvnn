@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I went back to Linux and it was a mistake](https://www.theverge.com/report/875077/linux-was-a-mistake)
+ - [Trump-linked World Liberty Financial&#39;s stablecoin, USD1, hit $5B in total circulation in January with 85% held in Binance accounts; Trump pardoned CZ in October &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/260207/p10#a260207p10)
  - [AT&amp;T Launches Its Own Kid Phone in Collaboration With Samsung, the AmiGo Jr.](https://www.cnet.com/tech/mobile/att-amigo-jr-phone-announced/)
  - [Browser interoperability drive made Safari work more like the others](https://appleinsider.com/articles/26/02/07/browser-interoperability-drive-made-safari-work-more-like-the-others?utm_source=rss)
- - [Tether froze $544M in alleged illicit income at Turkey&#39;s request, part of its push to aid governments in crackdowns against crypto use in alleged crimes &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p9#a260207p9)
- - [Apple, whose capital expenditure is just a fraction of its peers, is the only Big Tech company that saw capex decline YoY in Q4, decreasing 19% to $2.37B &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/260207/p8#a260207p8)
- - [LG’s C5 TV and Anker’s powerful power bank are this week’s best deals](https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl)<!-- TECH:END -->
+ - [Tether froze $544M in alleged illicit income at Turkey&#39;s request, part of its push to aid governments in crackdowns against crypto use in alleged crimes &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p9#a260207p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 8, #973](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-8-973/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 8, #1695](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-8-1695/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 8 #707](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-8-707/)
  - [GOG is already working on native Linux support](https://www.theverge.com/tech/875425/gog-native-linux-support)
- - [I Replaced All My Outdoor Lighting with Cheap Smart LED Strips — Here Are 5 Surprises](https://www.cnet.com/home/smart-home/i-replaced-all-my-outdoor-lighting-with-cheap-smart-led-strips-here-are-5-surprises/)
- - [DOJ-released emails: Jeffrey Epstein helped Ian Osborne, founder of London-based fund Hedosophia, after Osborne&#39;s outreach to help Epstein fix his image in 2011 &lpar;Financial Times&rpar;](http://www.techmeme.com/260207/p11#a260207p11)
- - [I went back to Linux and it was a mistake](https://www.theverge.com/report/875077/linux-was-a-mistake)
- - [Trump-linked World Liberty Financial&#39;s stablecoin, USD1, hit $5B in total circulation in January with 85% held in Binance accounts; Trump pardoned CZ in October &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/260207/p10#a260207p10)<!-- TECH:END -->
+ - [I Replaced All My Outdoor Lighting with Cheap Smart LED Strips — Here Are 5 Surprises](https://www.cnet.com/home/smart-home/i-replaced-all-my-outdoor-lighting-with-cheap-smart-led-strips-here-are-5-surprises/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

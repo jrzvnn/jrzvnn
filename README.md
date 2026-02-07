@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The second-gen AirTags are a scatterbrain’s best friend](https://www.theverge.com/tech/875314/airtags-second-gen-review-item-tracker)
  - [Anker’s new charger with a screen would feel less gimmicky if it did more](https://www.theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs)
  - [An interview with Kalshi CEO Tarek Mansour about the &quot;wisdom of the crowd&quot;, political polarization, having Trump Jr. as an adviser, casino comparisons, and more &lpar;Oliver Roeder/Financial Times&rpar;](http://www.techmeme.com/260207/p7#a260207p7)
  - [Target Darts Omni Auto Scoring System Hits the Mark](https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/)
- - [Cairn is a climbing journey about perseverance and obsession](https://www.theverge.com/games/874914/cairn-review-pc-playstation-5)
- - [7 Game-Day Foods You Can Make in an Air Fryer That Aren&#39;t Wings](https://www.cnet.com/news/7-game-day-foods-im-making-in-the-air-fryer-that-arent-wings/)<!-- TECH:END -->
+ - [Cairn is a climbing journey about perseverance and obsession](https://www.theverge.com/games/874914/cairn-review-pc-playstation-5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

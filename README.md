@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
+ - 😝 [Making niceness cost a dollar is peak pettiness](http://9gag.com/gag/ae9zL5Q)
+ - 😝 [Didn\u2018t think I\u2018d ever need the spare but hey\u2026worth it](http://9gag.com/gag/aQzbL3q)
  - 💣 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)
- - 😝 [The only good cop for me is a good boi cop](http://9gag.com/gag/aryEQx6)
- - 👉 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)<!-- MEMES:END -->
+ - 😝 [Fake it till you make it](http://9gag.com/gag/aNDMNDb)
+ - 👉 [It&#39;s a classic](http://9gag.com/gag/azxyWqp)<!-- MEMES:END -->
 
 ---
 

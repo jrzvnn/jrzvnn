@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 😝 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
- - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 😝 [Is this track forbidden in the UK already ?](http://9gag.com/gag/axyKXGM)
- - 👉 [Switzerland\u2019s women\u2019s national football team lost 7\u20131 to an under-15 boys\u2019 club team. The boys had bored faces and looked like they wanted to go home.](http://9gag.com/gag/amoQ4gv)<!-- MEMES:END -->
+ - 😝 [Second time this week](http://9gag.com/gag/a34gmLv)
+ - 😝 [The only good cop for me is a good boi cop](http://9gag.com/gag/aryEQx6)
+ - 💣 [They got him guys! We got the biggest PDF](http://9gag.com/gag/a6ZgPD8)
+ - 😝 [Ladies and gentlemen, Frenchman Marcel Braud, the inventor of the forklift, has died at the age of 93. Press F foor honnor](http://9gag.com/gag/ajPvo00)
+ - 👉 [Endless potential](http://9gag.com/gag/aXP3BPd)<!-- MEMES:END -->
 
 ---
 

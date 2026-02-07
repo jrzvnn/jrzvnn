@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn\u2018t think I\u2018d ever need the spare but hey\u2026worth it](http://9gag.com/gag/aQzbL3q)
- - 😝 [Second time this week](http://9gag.com/gag/a34gmLv)
- - 💣 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)
+ - 😝 [Justice](http://9gag.com/gag/aYQ6Xpx)
+ - 😝 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - 💣 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
  - 😝 [If you know the history of Greece and the ottomens, I think we all can get behind this.....](http://9gag.com/gag/a1mg9mG)
- - 👉 [This couple&#39;s journey is everything. From weight loss to welcoming their little one, talk about true love and dedication](http://9gag.com/gag/aZZXYZQ)<!-- MEMES:END -->
+ - 👉 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)<!-- MEMES:END -->
 
 ---
 

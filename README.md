@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If you know the history of Greece and the ottomens, I think we all can get behind this.....](http://9gag.com/gag/a1mg9mG)
- - 😝 [Endless potential](http://9gag.com/gag/aXP3BPd)
- - 💣 [It&#39;s a classic](http://9gag.com/gag/azxyWqp)
- - 😝 [It\u2019s in Finland, Kuusamo, Ruka](http://9gag.com/gag/a7ogQ0z)
- - 👉 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)<!-- MEMES:END -->
+ - 😝 [It&#39;s a classic](http://9gag.com/gag/azxyWqp)
+ - 💣 [They got him guys! We got the biggest PDF](http://9gag.com/gag/a6ZgPD8)
+ - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 👉 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 😝 [No title](http://9gag.com/gag/azxyn6j)
- - 💣 [If you know the history of Greece and the ottomens, I think we all can get behind this.....](http://9gag.com/gag/a1mg9mG)
- - 😝 [Second time this week](http://9gag.com/gag/a34gmLv)
- - 👉 [The only good cop for me is a good boi cop](http://9gag.com/gag/aryEQx6)<!-- MEMES:END -->
+ - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
+ - 💣 [Switzerland\u2019s women\u2019s national football team lost 7\u20131 to an under-15 boys\u2019 club team. The boys had bored faces and looked like they wanted to go home.](http://9gag.com/gag/amoQ4gv)
+ - 😝 [This might be the most accurate video I\u2019ve ever seen in my life.](http://9gag.com/gag/aD29y9B)
+ - 👉 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 😝 [Justice](http://9gag.com/gag/aYQ6Xpx)
- - 💣 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
+ - 😝 [Hell no](http://9gag.com/gag/aNDM7BA)
  - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 👉 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)<!-- MEMES:END -->
+ - 💣 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
+ - 😝 [Justice](http://9gag.com/gag/aYQ6Xpx)
+ - 👉 [When your Tourettes tic is a 55 year old southern black woman.](http://9gag.com/gag/ae9z83W)<!-- MEMES:END -->
 
 ---
 

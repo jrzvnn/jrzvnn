@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kalshi and Polymarket have facilitated over $800M in Super Bowl contracts, as pro gamblers shift to prediction markets and adopt Wall Street-style strategies &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p5#a260207p5)
- - [Chinese regulators fined Kuaishou $17.2M for failing to curb illegal content; pornographic content appeared on Kuaishou during its December 2025 cyberattacks &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p4#a260207p4)
- - [US data center demand has driven stock surges of contractors and equipment makers like Corning, Sterling Infrastructure, Comfort Systems USA, and Carrier Global &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260207/p3#a260207p3)
- - [Source: Benchmark raised $225M in special funds to invest in Cerebras&#39; ~$1B Series H, led by Tiger Global; Benchmark led Cerebras&#39; $27M Series A in 2016 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260207/p2#a260207p2)
- - [RADICL, which offers threat detection and response services to SMBs supporting US defense industrial base and critical infrastructure, raised a $31M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260207/p1#a260207p1)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 7 #706](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-7-706/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 7, #972](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-7-972/)
+ - [7 Steps to Better Financial Health You Can Take Right Now](https://www.wired.com/story/your-annual-personal-finance-checklist/)
+ - [Premier League Soccer 2026: Stream Man United vs. Tottenham Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-man-united-vs-tottenham/)
+ - [Kalshi and Polymarket have facilitated over $800M in Super Bowl contracts, as pro gamblers shift to prediction markets and adopt Wall Street-style strategies &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p5#a260207p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

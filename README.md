@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 💣 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)
+ - 😝 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
+ - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
  - 😝 [Is this track forbidden in the UK already ?](http://9gag.com/gag/axyKXGM)
- - 👉 [The power of friendship](http://9gag.com/gag/a4PgXnd)<!-- MEMES:END -->
+ - 👉 [Switzerland\u2019s women\u2019s national football team lost 7\u20131 to an under-15 boys\u2019 club team. The boys had bored faces and looked like they wanted to go home.](http://9gag.com/gag/amoQ4gv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
  - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 😝 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)
- - 💣 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
- - 😝 [They got him guys! We got the biggest PDF](http://9gag.com/gag/a6ZgPD8)
- - 👉 [The power of friendship](http://9gag.com/gag/a4PgXnd)<!-- MEMES:END -->
+ - 💣 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)
+ - 😝 [The only good cop for me is a good boi cop](http://9gag.com/gag/aryEQx6)
+ - 👉 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)<!-- MEMES:END -->
 
 ---
 

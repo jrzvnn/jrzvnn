@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Endless potential](http://9gag.com/gag/aXP3BPd)
- - 😝 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)
- - 💣 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 😝 [This](http://9gag.com/gag/ajPvom1)
- - 👉 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)<!-- MEMES:END -->
+ - 😝 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
+ - 😝 [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)
+ - 💣 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 👉 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)<!-- MEMES:END -->
 
 ---
 

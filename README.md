@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
+ - 😝 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - 😝 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
  - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 👉 [Justice](http://9gag.com/gag/aYQ6Xpx)<!-- MEMES:END -->
+ - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 👉 [The power of friendship](http://9gag.com/gag/a4PgXnd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After talking with ~40 people at Anthropic, a look at its &quot;Yes, and...&quot; culture where every idea is welcomed and judged based on vibes, like a hive mind &lpar;Steve Yegge&rpar;](http://www.techmeme.com/260207/p12#a260207p12)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 8, #973](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-8-973/)
  - [Today&#39;s Wordle Hints, Answer and Help for Feb. 8, #1695](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-8-1695/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 8 #707](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-8-707/)
- - [GOG is already working on native Linux support](https://www.theverge.com/tech/875425/gog-native-linux-support)
- - [I Replaced All My Outdoor Lighting with Cheap Smart LED Strips — Here Are 5 Surprises](https://www.cnet.com/home/smart-home/i-replaced-all-my-outdoor-lighting-with-cheap-smart-led-strips-here-are-5-surprises/)<!-- TECH:END -->
+ - [GOG is already working on native Linux support](https://www.theverge.com/tech/875425/gog-native-linux-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

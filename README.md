@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 💣 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - 😝 [Didn\u2018t think I\u2018d ever need the spare but hey\u2026worth it](http://9gag.com/gag/aQzbL3q)
+ - 😝 [Second time this week](http://9gag.com/gag/a34gmLv)
+ - 💣 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)
  - 😝 [If you know the history of Greece and the ottomens, I think we all can get behind this.....](http://9gag.com/gag/a1mg9mG)
- - 👉 [Who IS you ?](http://9gag.com/gag/azxy3Wz)<!-- MEMES:END -->
+ - 👉 [This couple&#39;s journey is everything. From weight loss to welcoming their little one, talk about true love and dedication](http://9gag.com/gag/aZZXYZQ)<!-- MEMES:END -->
 
 ---
 

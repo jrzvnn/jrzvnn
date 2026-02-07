@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell no](http://9gag.com/gag/aNDM7BA)
+ - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
+ - 😝 [Justice](http://9gag.com/gag/aYQ6Xpx)
+ - 💣 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
  - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 💣 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 😝 [This might be the most accurate video I\u2019ve ever seen in my life.](http://9gag.com/gag/aD29y9B)
- - 👉 [Switzerland\u2019s women\u2019s national football team lost 7\u20131 to an under-15 boys\u2019 club team. The boys had bored faces and looked like they wanted to go home.](http://9gag.com/gag/amoQ4gv)<!-- MEMES:END -->
+ - 👉 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)<!-- MEMES:END -->
 
 ---
 

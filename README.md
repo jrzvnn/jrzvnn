@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Second time this week](http://9gag.com/gag/a34gmLv)
  - 😝 [The only good cop for me is a good boi cop](http://9gag.com/gag/aryEQx6)
  - 💣 [They got him guys! We got the biggest PDF](http://9gag.com/gag/a6ZgPD8)
- - 😝 [Ladies and gentlemen, Frenchman Marcel Braud, the inventor of the forklift, has died at the age of 93. Press F foor honnor](http://9gag.com/gag/ajPvo00)
- - 👉 [Endless potential](http://9gag.com/gag/aXP3BPd)<!-- MEMES:END -->
+ - 😝 [Endless potential](http://9gag.com/gag/aXP3BPd)
+ - 👉 [Fake it till you make it](http://9gag.com/gag/aNDMNDb)<!-- MEMES:END -->
 
 ---
 

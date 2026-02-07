@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Second time this week](http://9gag.com/gag/a34gmLv)
- - 😝 [The only good cop for me is a good boi cop](http://9gag.com/gag/aryEQx6)
- - 💣 [They got him guys! We got the biggest PDF](http://9gag.com/gag/a6ZgPD8)
  - 😝 [Endless potential](http://9gag.com/gag/aXP3BPd)
- - 👉 [Fake it till you make it](http://9gag.com/gag/aNDMNDb)<!-- MEMES:END -->
+ - 😝 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)
+ - 💣 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
+ - 😝 [This](http://9gag.com/gag/ajPvom1)
+ - 👉 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)<!-- MEMES:END -->
 
 ---
 

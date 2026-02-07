@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hell no](http://9gag.com/gag/aNDM7BA)
  - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 😝 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
- - 💣 [Justice](http://9gag.com/gag/aYQ6Xpx)
- - 😝 [When your Tourettes tic is a 55 year old southern black woman.](http://9gag.com/gag/ae9z83W)
+ - 💣 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
+ - 😝 [This might be the most accurate video I\u2019ve ever seen in my life.](http://9gag.com/gag/aD29y9B)
  - 👉 [Switzerland\u2019s women\u2019s national football team lost 7\u20131 to an under-15 boys\u2019 club team. The boys had bored faces and looked like they wanted to go home.](http://9gag.com/gag/amoQ4gv)<!-- MEMES:END -->
 
 ---

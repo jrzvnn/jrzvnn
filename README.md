@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
- - 😝 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
- - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 👉 [The power of friendship](http://9gag.com/gag/a4PgXnd)<!-- MEMES:END -->
+ - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
+ - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 💣 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - 😝 [If you know the history of Greece and the ottomens, I think we all can get behind this.....](http://9gag.com/gag/a1mg9mG)
+ - 👉 [Who IS you ?](http://9gag.com/gag/azxy3Wz)<!-- MEMES:END -->
 
 ---
 

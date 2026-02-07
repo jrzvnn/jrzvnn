@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell no](http://9gag.com/gag/aNDM7BA)
  - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 💣 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 😝 [Justice](http://9gag.com/gag/aYQ6Xpx)
- - 👉 [When your Tourettes tic is a 55 year old southern black woman.](http://9gag.com/gag/ae9z83W)<!-- MEMES:END -->
+ - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
+ - 💣 [If you know the history of Greece and the ottomens, I think we all can get behind this.....](http://9gag.com/gag/a1mg9mG)
+ - 😝 [Second time this week](http://9gag.com/gag/a34gmLv)
+ - 👉 [The only good cop for me is a good boi cop](http://9gag.com/gag/aryEQx6)<!-- MEMES:END -->
 
 ---
 

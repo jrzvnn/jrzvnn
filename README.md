@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insta360 Ace Pro 2 Xplorer Grip Pro Kit Review: An Even Better Action Camera](https://www.wired.com/review/insta360-ace-pro-2-xplorer-grip-pro-kit/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 7 #706](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-7-706/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 7, #972](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-7-972/)
  - [7 Steps to Better Financial Health You Can Take Right Now](https://www.wired.com/story/your-annual-personal-finance-checklist/)
- - [Premier League Soccer 2026: Stream Man United vs. Tottenham Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-man-united-vs-tottenham/)
- - [Kalshi and Polymarket have facilitated over $800M in Super Bowl contracts, as pro gamblers shift to prediction markets and adopt Wall Street-style strategies &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p5#a260207p5)<!-- TECH:END -->
+ - [Premier League Soccer 2026: Stream Man United vs. Tottenham Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-man-united-vs-tottenham/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

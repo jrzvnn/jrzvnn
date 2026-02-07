@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
- - 😝 [Someone saved all of the Epstein emails from the releases and set up a Gmail clone site that you can scroll as if you were in Jeffery&#39;s Gmail. You can search by contacts, photos and even flight history.](http://9gag.com/gag/aW4y3j2)
- - 💣 [Justice](http://9gag.com/gag/aYQ6Xpx)
- - 😝 [The only good cop for me is a good boi cop](http://9gag.com/gag/aryEQx6)
- - 👉 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)<!-- MEMES:END -->
+ - 😝 [If you know the history of Greece and the ottomens, I think we all can get behind this.....](http://9gag.com/gag/a1mg9mG)
+ - 😝 [Endless potential](http://9gag.com/gag/aXP3BPd)
+ - 💣 [It&#39;s a classic](http://9gag.com/gag/azxyWqp)
+ - 😝 [It\u2019s in Finland, Kuusamo, Ruka](http://9gag.com/gag/a7ogQ0z)
+ - 👉 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)<!-- MEMES:END -->
 
 ---
 

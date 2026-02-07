@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4 Best Website Builders &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
+ - [The best way to watch the Olympics](https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer)
  - [Sony&#39;s Biggest QLED Screens See Big Discounts This Weekend](https://www.wired.com/story/bravia-9-deal-226/)
  - [M5 Pro, M5 Max: What I Expect from Apple&#39;s Next-Gen Chips](https://www.cnet.com/tech/computing/m5-pro-m5-max-apples-next-gen-chips/)
- - [7 Game-Day Foods I Make in the Air Fryer That Aren&#39;t Wings](https://www.cnet.com/news/7-game-day-foods-im-making-in-the-air-fryer-that-arent-wings/)
- - [Premier League Soccer: Stream Arsenal vs. Sunderland Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-arsenal-vs-sunderland-live/)
- - [Apple MacBook Rumors: New M5 MacBook Pros Could Be Here Soon](https://www.cnet.com/tech/computing/macbook-rumors-new-macbook-pros-prices-release-dates/)<!-- TECH:END -->
+ - [7 Game-Day Foods I Make in the Air Fryer That Aren&#39;t Wings](https://www.cnet.com/news/7-game-day-foods-im-making-in-the-air-fryer-that-arent-wings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese regulators fined Kuaishou $17.2M for failing to curb illegal content; pornographic content appeared on Kuaishou during its December 2025 cyberattacks &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p4#a260207p4)
  - [US data center demand has driven stock surges of contractors and equipment makers like Corning, Sterling Infrastructure, Comfort Systems USA, and Carrier Global &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260207/p3#a260207p3)
  - [Source: Benchmark raised $225M in special funds to invest in Cerebras&#39; ~$1B Series H, led by Tiger Global; Benchmark led Cerebras&#39; $27M Series A in 2016 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260207/p2#a260207p2)
  - [RADICL, which offers threat detection and response services to SMBs supporting US defense industrial base and critical infrastructure, raised a $31M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260207/p1#a260207p1)
- - [South Korean cryptocurrency exchange Bithumb says it accidentally sent $44B worth of bitcoin to customers as promotional rewards and has recovered 99.7% of it &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260206/p31#a260206p31)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-7/)<!-- TECH:END -->
+ - [South Korean cryptocurrency exchange Bithumb says it accidentally sent $44B worth of bitcoin to customers as promotional rewards and has recovered 99.7% of it &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260206/p31#a260206p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

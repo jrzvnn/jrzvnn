@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
- - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 💣 [Justice](http://9gag.com/gag/aYQ6Xpx)
- - 😝 [Second time this week](http://9gag.com/gag/a34gmLv)
- - 👉 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)<!-- MEMES:END -->
+ - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
+ - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 😝 [Justice](http://9gag.com/gag/aYQ6Xpx)
+ - 👉 [We don&#39;t know what we did!](http://9gag.com/gag/aAyAzD0)<!-- MEMES:END -->
 
 ---
 

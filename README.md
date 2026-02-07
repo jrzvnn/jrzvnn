@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York lawmakers propose a bill to impose a three-year moratorium on data center development, making NY at least the sixth state to introduce such legislation &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/260206/p29#a260206p29)
- - [US tech stocks and bitcoin rally after three days of selling; Nasdaq Composite closed up 2.18%, Broadcom 7.22%, Strategy 26.11%, and bitcoin rebounded to ~$70K &lpar;Emily Herbert/Financial Times&rpar;](http://www.techmeme.com/260206/p28#a260206p28)
- - [Astronauts Can Now Use the Latest Smartphones in Space](https://www.cnet.com/tech/mobile/latest-smartphones-now-allowed-in-space-nasa-says/)
- - [Spotify Launches &#39;About the Song&#39; Beta to Reveal Stories Behind the Music](https://www.cnet.com/tech/services-and-software/fun-fact-lovers-rejoice-spotifys-about-the-song-feature-adds-more-song-facts/)
- - [Madden NFL 26 Rushes to Xbox Game Pass in February Ahead of the Big Game](https://www.cnet.com/tech/gaming/game-pass-february/)<!-- TECH:END -->
+ - [South Korean cryptocurrency exchange Bithumb says it accidentally sent $44B worth of bitcoin to customers as promotional rewards and has recovered 99.7% of it &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260206/p31#a260206p31)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-7/)
+ - [A look at the state of AI agents, the evolution of thinking models, the staggering need for inference compute in the coming years, automated research, and more &lpar;Eric Jang/Evjang.com&rpar;](http://www.techmeme.com/260206/p30#a260206p30)
+ - [Adaptive Power in iOS 26 Is Boosting Your iPhone Battery in the Background](https://www.cnet.com/tech/mobile/adaptive-power-ios-26/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 7, #502](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-7-502/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

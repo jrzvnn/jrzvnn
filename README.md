@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
- - 😝 [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)
- - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 😝 [Imagine that](http://9gag.com/gag/aryEjnX)
- - 👉 [The power of friendship](http://9gag.com/gag/a4PgXnd)<!-- MEMES:END -->
+ - 😝 [1 or 2 times a year, I ask my wife make this dish for me. She never understands why I asked for this after or while watching an old cowboy movie. Her recipe in the cmt section.](http://9gag.com/gag/a87NZZe)
+ - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 💣 [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)
+ - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 👉 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)<!-- MEMES:END -->
 
 ---
 

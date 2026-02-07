@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 7 Best Automatic Litter Boxes &lpar;2025&rpar; Our Cats Would Recommend](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
- - [New US rules banning Chinese software in internet-connected vehicles from March 17 add urgency to industrywide efforts to reduce reliance on Chinese components &lpar;Stephen Wilmot/Wall Street Journal&rpar;](http://www.techmeme.com/260207/p6#a260207p6)
- - [Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data](https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/)
- - [Gear News of the Week: Google&#39;s Pixel 10a Arrives Soon, and Valve Delays Its Steam Hardware](https://www.wired.com/story/gear-news-of-the-week-googles-pixel-10a-arrives-soon-and-valve-delays-its-steam-hardware/)
- - [Insta360 Ace Pro 2 Xplorer Grip Pro Kit Review: An Even Better Action Camera](https://www.wired.com/review/insta360-ace-pro-2-xplorer-grip-pro-kit/)<!-- TECH:END -->
+ - [Sony&#39;s Biggest QLED Screens See Big Discounts This Weekend](https://www.wired.com/story/bravia-9-deal-226/)
+ - [M5 Pro, M5 Max: What I Expect from Apple&#39;s Next-Gen Chips](https://www.cnet.com/tech/computing/m5-pro-m5-max-apples-next-gen-chips/)
+ - [7 Game-Day Foods I Make in the Air Fryer That Aren&#39;t Wings](https://www.cnet.com/news/7-game-day-foods-im-making-in-the-air-fryer-that-arent-wings/)
+ - [Premier League Soccer: Stream Arsenal vs. Sunderland Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-arsenal-vs-sunderland-live/)
+ - [Apple MacBook Rumors: New M5 MacBook Pros Could Be Here Soon](https://www.cnet.com/tech/computing/macbook-rumors-new-macbook-pros-prices-release-dates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

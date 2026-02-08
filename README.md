@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Teens arrested for stealing from Cambridge Apple Store](https://appleinsider.com/articles/26/02/08/crime-blotter-teens-arrested-for-stealing-from-cambridge-apple-store?utm_source=rss)
+ - [The Shoes and Brooms Transforming Curling at the 2026 Winter Olympics](https://www.wired.com/story/the-shoes-and-brooms-transforming-curling-at-the-2026-winter-olympics/)
+ - [4 Best AI Notetakers &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ai-notetakers/)
  - [&#39;The Studio&#39; and &#39;Mr. Scorsese&#39; honored at Directors&#39; Guild Awards](https://appleinsider.com/articles/26/02/08/the-studio-and-mr-scorsese-honored-at-directors-guild-awards?utm_source=rss)
- - [I Have Fallen in Love With Open Earbuds &lpar;and You Should Too&rpar;](https://www.wired.com/story/why-open-earbuds-are-my-favorite-new-category/)
- - [European countries are moving toward social media bans for children, even as doubts persist over implementation and the risk of a new battle with US tech groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260208/p8#a260208p8)
- - [Best Vacuum Cleaner &lpar;2026&rpar;: Cordless Vacuums, Robot Vacuums, Dysons](https://www.wired.com/gallery/best-vacuum-cleaner/)
- - [Peacock: 20 of the Best Movies to Stream Right Now](https://www.cnet.com/culture/entertainment/peacock-best-movies-2026/)<!-- TECH:END -->
+ - [I Have Fallen in Love With Open Earbuds &lpar;and You Should Too&rpar;](https://www.wired.com/story/why-open-earbuds-are-my-favorite-new-category/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

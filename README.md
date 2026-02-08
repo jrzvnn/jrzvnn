@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [March 2 release event may be for M5 MacBook Pro refresh](https://appleinsider.com/articles/26/02/08/march-2-release-event-may-be-for-m5-macbook-pro-refresh?utm_source=rss)
  - [The iPhone 17e could launch soon with MagSafe and an A19 chip](https://www.theverge.com/tech/875454/iphone-17e-launching-soon-magsafe-a19)
  - [How Anthropic&#39;s bet on enterprise users is paying off; sources: Anthropic has guided investors that annualized revenue will exceed $30B by the end of 2026 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260208/p10#a260208p10)
  - [How I Built the Star Trek control panel of my dreams](https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek)
- - [GuliKit’s tiny USB dongle lets you connect your PS5 controller to your Switch 2](https://www.theverge.com/tech/874842/gulikit-hyperlink-gen2-usb-adapter-wireless-switch-2-hands-on)
- - [March 2 release event may be for M5 MacBook Pro refresh](https://appleinsider.com/articles/26/02/08/march-2-release-event-may-be-for-m5-macbook-pro-refresh?utm_source=rss)<!-- TECH:END -->
+ - [GuliKit’s tiny USB dongle lets you connect your PS5 controller to your Switch 2](https://www.theverge.com/tech/874842/gulikit-hyperlink-gen2-usb-adapter-wireless-switch-2-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

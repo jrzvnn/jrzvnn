@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)
- - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 💣 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
- - 😝 [This raven is a tic-tac-toe master](http://9gag.com/gag/a2vgBqe)
- - 👉 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
+ - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
+ - 😝 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
+ - 💣 [Job Interview](http://9gag.com/gag/aYQ69dw)
+ - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
+ - 👉 [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)<!-- MEMES:END -->
 
 ---
 

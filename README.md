@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well...well...well.... micro-slop shares are going down the slop of their own making.](http://9gag.com/gag/a87NRdQ)
- - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 💣 [Very near xD](http://9gag.com/gag/aoyobp2)
- - 😝 [This might be the most accurate video I\u2019ve ever seen in my life.](http://9gag.com/gag/aD29y9B)
- - 👉 [The Girl Next Door](http://9gag.com/gag/aE0K3Ln)<!-- MEMES:END -->
+ - 😝 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
+ - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
+ - 💣 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
+ - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 👉 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)<!-- MEMES:END -->
 
 ---
 

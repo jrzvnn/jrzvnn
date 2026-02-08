@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 👉 [The power of friendship](http://9gag.com/gag/a4PgXnd)<!-- MEMES:END -->
+ - 😝 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
+ - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 💣 [Job Interview](http://9gag.com/gag/aYQ69dw)
+ - 😝 [This might be the most accurate video I\u2019ve ever seen in my life.](http://9gag.com/gag/aD29y9B)
+ - 👉 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
  - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 💣 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
  - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
- - 👉 [The Girl Next Door](http://9gag.com/gag/aE0K3Ln)<!-- MEMES:END -->
+ - 💣 [My fellow ginger haired Irish people, would you allow her to stay in Ireland?](http://9gag.com/gag/aXP3Dxv)
+ - 😝 [Release the house panther](http://9gag.com/gag/avyqYz5)
+ - 👉 [Excuse me, wtf?](http://9gag.com/gag/agm9Dew)<!-- MEMES:END -->
 
 ---
 

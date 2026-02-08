@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
- - 😝 [When an atheist realized why religion is necessary](http://9gag.com/gag/aNDMNAG)
- - 💣 [Endless potential](http://9gag.com/gag/aXP3BPd)
+ - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
  - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 👉 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
+ - 💣 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - 😝 [No seriously. Why?](http://9gag.com/gag/aAyAW6L)
+ - 👉 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
 
 ---
 

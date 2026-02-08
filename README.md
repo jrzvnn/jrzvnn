@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1 or 2 times a year, I ask my wife make this dish for me. She never understands why I asked for this after or while watching an old cowboy movie. Her recipe in the cmt section.](http://9gag.com/gag/a87NZZe)
- - 😝 [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)
- - 💣 [The power of friendship](http://9gag.com/gag/a4PgXnd)
  - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
+ - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
+ - 💣 [Its the Eyes](http://9gag.com/gag/avyq35n)
+ - 😝 [Trump suddenly defending Bill Clinton](http://9gag.com/gag/azxy0QB)
  - 👉 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 Max Mac Studio &amp; New Studio Display could finally arrive in the spring](https://appleinsider.com/articles/26/02/08/m5-max-mac-studio-new-studio-display-could-finally-arrive-in-the-spring?utm_source=rss)
+ - [Cheaper MacBook with iPhone chip still expected in early 2026](https://appleinsider.com/articles/26/02/08/cheaper-macbook-with-iphone-chip-still-expected-in-early-2026?utm_source=rss)
  - [Analysis: World Liberty Financial has earned the Trump family at least $1.2B in cash since its launch, while the Witkoff family has earned at least $200M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260208/p9#a260208p9)
  - [Best Wireless Earbuds &lpar;2026&rpar;: Apple, Sony, Bose, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Digital car keys are getting more sophisticated](https://www.theverge.com/transportation/873197/digital-key-car-ccc-plugfest-rivian)
- - [Netflix’s Warner Bros. merger puts rival streamers in survival mode](https://www.theverge.com/column/874781/netflix-warner-bros-merger-other-streamers)
- - [Crime blotter: Teens arrested for stealing from Cambridge Apple Store](https://appleinsider.com/articles/26/02/08/crime-blotter-teens-arrested-for-stealing-from-cambridge-apple-store?utm_source=rss)<!-- TECH:END -->
+ - [I Have 11 Home Security Myths You Need to Memory Wipe](https://www.cnet.com/home/security/dont-believe-these-awful-home-security-myths/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

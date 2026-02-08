@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 8, #973](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-8-973/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 8 #707](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-8-707/)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 8, #1695](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-8-1695/)
- - [This year&#39;s projected capex ramp-up will all but wipe out free cash flow for Amazon, Google, and Meta, potentially forcing stock buyback cuts or more borrowing &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/260208/p7#a260208p7)
- - [Analysts say a design refresh for the iPhone 17 lineup has reinforced Apple&#39;s status-symbol appeal in China, with the &quot;cosmic orange&quot; Pro model going viral &lpar;Financial Times&rpar;](http://www.techmeme.com/260208/p6#a260208p6)<!-- TECH:END -->
+ - [European countries are moving toward social media bans for children, even as doubts persist over implementation and the risk of a new battle with US tech groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260208/p8#a260208p8)
+ - [Best Vacuum Cleaner &lpar;2026&rpar;: Cordless Vacuums, Robot Vacuums, Dysons](https://www.wired.com/gallery/best-vacuum-cleaner/)
+ - [Peacock: 20 of the Best Movies to Stream Right Now](https://www.cnet.com/culture/entertainment/peacock-best-movies-2026/)
+ - [For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable Ones?](https://www.wired.com/story/for-4550-would-you-buy-single-premium-watch-or-swarm-of-affordable-ones/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 8, #973](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-8-973/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

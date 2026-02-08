@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Studio&#39; and &#39;Mr. Scorsese&#39; honored at Directors&#39; Guild Awards](https://appleinsider.com/articles/26/02/08/the-studio-and-mr-scorsese-honored-at-directors-guild-awards?utm_source=rss)
+ - [I Have Fallen in Love With Open Earbuds &lpar;and You Should Too&rpar;](https://www.wired.com/story/why-open-earbuds-are-my-favorite-new-category/)
  - [European countries are moving toward social media bans for children, even as doubts persist over implementation and the risk of a new battle with US tech groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260208/p8#a260208p8)
  - [Best Vacuum Cleaner &lpar;2026&rpar;: Cordless Vacuums, Robot Vacuums, Dysons](https://www.wired.com/gallery/best-vacuum-cleaner/)
- - [Peacock: 20 of the Best Movies to Stream Right Now](https://www.cnet.com/culture/entertainment/peacock-best-movies-2026/)
- - [For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable Ones?](https://www.wired.com/story/for-4550-would-you-buy-single-premium-watch-or-swarm-of-affordable-ones/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 8, #973](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-8-973/)<!-- TECH:END -->
+ - [For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable Ones?](https://www.wired.com/story/for-4550-would-you-buy-single-premium-watch-or-swarm-of-affordable-ones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

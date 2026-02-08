@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 8, #973](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-8-973/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 8 #707](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-8-707/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 8, #1695](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-8-1695/)
  - [This year&#39;s projected capex ramp-up will all but wipe out free cash flow for Amazon, Google, and Meta, potentially forcing stock buyback cuts or more borrowing &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/260208/p7#a260208p7)
- - [Analysts say a design refresh for the iPhone 17 lineup has reinforced Apple&#39;s status-symbol appeal in China, with the &quot;cosmic orange&quot; Pro model going viral &lpar;Financial Times&rpar;](http://www.techmeme.com/260208/p6#a260208p6)
- - [A profile of Ali Ansari, the 25-year-old co-founder of micro1, which recruits human experts to train AI systems; micro1 was last valued at $500M in Sept. 2025 &lpar;Nilesh Christopher/Los Angeles Times&rpar;](http://www.techmeme.com/260208/p5#a260208p5)
- - [Anthropic rolls out a fast mode for Claude Opus 4.6 in research preview, saying it offers the same model quality 2.5 times faster but costs six times more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260208/p4#a260208p4)
- - [India&#39;s updated startup framework doubles deep-tech startup eligibility to 20 years and triples the revenue cap for tax, grant, and regulatory benefits to ~$33M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260208/p3#a260208p3)<!-- TECH:END -->
+ - [Analysts say a design refresh for the iPhone 17 lineup has reinforced Apple&#39;s status-symbol appeal in China, with the &quot;cosmic orange&quot; Pro model going viral &lpar;Financial Times&rpar;](http://www.techmeme.com/260208/p6#a260208p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

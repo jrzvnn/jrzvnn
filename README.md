@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
+ - 😝 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
+ - 💣 [Job Interview](http://9gag.com/gag/aYQ69dw)
  - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
- - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 💣 [My fellow ginger haired Irish people, would you allow her to stay in Ireland?](http://9gag.com/gag/aXP3Dxv)
- - 😝 [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)
  - 👉 [Excuse me, wtf?](http://9gag.com/gag/agm9Dew)<!-- MEMES:END -->
 
 ---

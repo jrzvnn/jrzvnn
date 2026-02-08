@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 💣 [Very near xD](http://9gag.com/gag/aoyobp2)
+ - 😝 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
  - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 👉 [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)<!-- MEMES:END -->
+ - 💣 [Excuse me, wtf?](http://9gag.com/gag/agm9Dew)
+ - 😝 [This might be the most accurate video I\u2019ve ever seen in my life.](http://9gag.com/gag/aD29y9B)
+ - 👉 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
  - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 💣 [Its the Eyes](http://9gag.com/gag/avyq35n)
- - 😝 [Trump suddenly defending Bill Clinton](http://9gag.com/gag/azxy0QB)
- - 👉 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)<!-- MEMES:END -->
+ - 💣 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 😝 [This might be the most accurate video I\u2019ve ever seen in my life.](http://9gag.com/gag/aD29y9B)
+ - 👉 [Its the Eyes](http://9gag.com/gag/avyq35n)<!-- MEMES:END -->
 
 ---
 

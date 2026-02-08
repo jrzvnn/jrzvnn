@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-glass, a type of ultrathin glass sheet used in advanced chips, is in short supply and largely comes from Nittobo, which is not adding capacity for months &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/260208/p16#a260208p16)
  - [A software engineer explains AI fatigue, compounded by a FOMO treadmill of using labs&#39; latest tools, thinking atrophy, and more, alongside boosted productivity &lpar;Siddhant Khare&rpar;](http://www.techmeme.com/260208/p15#a260208p15)
  - [OpenClaw partners with VirusTotal and says that all skills published to ClawHub are now scanned using VirusTotal&#39;s threat intelligence &lpar;The Hacker News&rpar;](http://www.techmeme.com/260208/p14#a260208p14)
  - [You need to listen to the new Mandy, Indiana record: URGH](https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review)
- - [La Liga Soccer: Stream Valencia vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-valencia-vs-real-madrid-live-from-anywhere/)
- - [Sources: Block is notifying hundreds of staff their jobs may be eliminated during annual performance reviews; up to 10% of the workforce is at risk of being cut &lpar;Bloomberg&rpar;](http://www.techmeme.com/260208/p13#a260208p13)<!-- TECH:END -->
+ - [La Liga Soccer: Stream Valencia vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-valencia-vs-real-madrid-live-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

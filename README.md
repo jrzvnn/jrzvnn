@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A glimmer of hope in this dark world](http://9gag.com/gag/aXP3DOV)
- - 😝 [Release the house panther](http://9gag.com/gag/avyqYz5)
- - 💣 [13yo me in GTA for no reason](http://9gag.com/gag/a87NPYO)
- - 😝 [How to approach a police when you have tourette syndrome](http://9gag.com/gag/avyq3V5)
- - 👉 [This might be the most accurate video I\u2019ve ever seen in my life.](http://9gag.com/gag/aD29y9B)<!-- MEMES:END -->
+ - 😝 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
+ - 😝 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)
+ - 💣 [Very near xD](http://9gag.com/gag/aoyobp2)
+ - 😝 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)
+ - 👉 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)<!-- MEMES:END -->
 
 ---
 

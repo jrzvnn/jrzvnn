@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/azxyn6j)
- - 😝 [Fake it till you make it](http://9gag.com/gag/aNDMNDb)
- - 💣 [Endless potential](http://9gag.com/gag/aXP3BPd)
- - 😝 [Trump suddenly defending Bill Clinton](http://9gag.com/gag/azxy0QB)
- - 👉 [Beer commercials before cancel culture](http://9gag.com/gag/aW4ywx6)<!-- MEMES:END -->
+ - 😝 [1 or 2 times a year, I ask my wife make this dish for me. She never understands why I asked for this after or while watching an old cowboy movie. Her recipe in the cmt section.](http://9gag.com/gag/a87NZZe)
+ - 😝 [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)
+ - 💣 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
+ - 👉 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)<!-- MEMES:END -->
 
 ---
 

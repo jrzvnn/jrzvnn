@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mercor rival micro1 has told investors it is now generating $200M in recurring revenue; Mercor is offering micro1 employees signing bonuses up to $2M &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260207/p14#a260207p14)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 8, #503](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-8-503/)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Feb. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-feb-8/)
  - [A look at Corning&#39;s booming fiber-optic business, boosted by data center demand and a $6B Meta deal, as Nvidia explores Corning&#39;s co-packaged optics for servers &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260207/p13#a260207p13)
- - [Former Tumblr head Jeff D’Onofrio steps in as acting CEO at the Washington Post](https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs)
- - [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game)
- - [Variable aperture camera will give iPhone 18 Pro users more photo options](https://appleinsider.com/articles/26/02/07/variable-aperture-camera-will-give-iphone-18-pro-users-more-photo-options?utm_source=rss)
- - [After talking with ~40 people at Anthropic, a look at its &quot;Yes, and...&quot; culture where every idea is welcomed and judged based on vibes, like a hive mind &lpar;Steve Yegge&rpar;](http://www.techmeme.com/260207/p12#a260207p12)<!-- TECH:END -->
+ - [Former Tumblr head Jeff D’Onofrio steps in as acting CEO at the Washington Post](https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

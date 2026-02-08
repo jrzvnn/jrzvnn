@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Endless potential](http://9gag.com/gag/aXP3BPd)
  - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
- - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 💣 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
- - 😝 [No seriously. Why?](http://9gag.com/gag/aAyAW6L)
- - 👉 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
+ - 💣 [Cute monkey you got there... is that piss stain?](http://9gag.com/gag/a4PgeZA)
+ - 😝 [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)
+ - 👉 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)<!-- MEMES:END -->
 
 ---
 

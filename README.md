@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [I Have Fallen in Love With Open Earbuds &lpar;and You Should Too&rpar;](https://www.wired.com/story/why-open-earbuds-are-my-favorite-new-category/)
  - [European countries are moving toward social media bans for children, even as doubts persist over implementation and the risk of a new battle with US tech groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260208/p8#a260208p8)
  - [Best Vacuum Cleaner &lpar;2026&rpar;: Cordless Vacuums, Robot Vacuums, Dysons](https://www.wired.com/gallery/best-vacuum-cleaner/)
- - [For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable Ones?](https://www.wired.com/story/for-4550-would-you-buy-single-premium-watch-or-swarm-of-affordable-ones/)<!-- TECH:END -->
+ - [Peacock: 20 of the Best Movies to Stream Right Now](https://www.cnet.com/culture/entertainment/peacock-best-movies-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

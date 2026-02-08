@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mercor rival micro1 has told investors it is now generating $200M in recurring revenue; Mercor is offering micro1 employees signing bonuses up to $2M &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260207/p14#a260207p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 8, #503](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-8-503/)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Feb. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-feb-8/)
- - [A look at Corning&#39;s booming fiber-optic business, boosted by data center demand and a $6B Meta deal, as Nvidia explores Corning&#39;s co-packaged optics for servers &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260207/p13#a260207p13)
- - [Former Tumblr head Jeff D’Onofrio steps in as acting CEO at the Washington Post](https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs)<!-- TECH:END -->
+ - [Anthropic rolls out a fast mode for Claude Opus 4.6 in research preview, saying it offers the same model quality 2.5 times faster but costs six times more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260208/p4#a260208p4)
+ - [India&#39;s updated startup framework doubles deep-tech startup eligibility to 20 years and triples the revenue cap for tax, grant, and regulatory benefits to ~$33M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260208/p3#a260208p3)
+ - [Chinese regulators reiterate the mainland crypto ban and expand enforcement to cover real-world asset tokenization and offshore yuan-pegged stablecoin issuance &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/260208/p2#a260208p2)
+ - [X unveils a new pay-per-use pricing model for its API, replacing the earlier pricing model that required developers to pay fixed monthly fees of $200 or $5,000 &lpar;Rohit Singh/MediaNama&rpar;](http://www.techmeme.com/260208/p1#a260208p1)
+ - [Sources: Mercor rival micro1 has told investors it is now generating $200M in recurring revenue; Mercor is offering micro1 employees signing bonuses up to $2M &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260207/p14#a260207p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

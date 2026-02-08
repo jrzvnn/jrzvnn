@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
- - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 💣 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 😝 [This might be the most accurate video I\u2019ve ever seen in my life.](http://9gag.com/gag/aD29y9B)
+ - 😝 [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)
+ - 😝 [Idiocracy in space](http://9gag.com/gag/a2vgnw1)
+ - 💣 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
  - 👉 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
 
 ---

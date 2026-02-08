@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Idiocracy in space](http://9gag.com/gag/a2vgnw1)
- - 😝 [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)
- - 💣 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
- - 👉 [The power of friendship](http://9gag.com/gag/a4PgXnd)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/azxyn6j)
+ - 😝 [Fake it till you make it](http://9gag.com/gag/aNDMNDb)
+ - 💣 [Endless potential](http://9gag.com/gag/aXP3BPd)
+ - 😝 [Trump suddenly defending Bill Clinton](http://9gag.com/gag/azxy0QB)
+ - 👉 [Beer commercials before cancel culture](http://9gag.com/gag/aW4ywx6)<!-- MEMES:END -->
 
 ---
 

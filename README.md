@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
+ - 😝 [When an atheist realized why religion is necessary](http://9gag.com/gag/aNDMNAG)
+ - 💣 [Endless potential](http://9gag.com/gag/aXP3BPd)
  - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 😝 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
- - 💣 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
- - 👉 [Excuse me, wtf?](http://9gag.com/gag/agm9Dew)<!-- MEMES:END -->
+ - 👉 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenClaw partners with VirusTotal and says that all skills published to ClawHub are now scanned using VirusTotal&#39;s threat intelligence &lpar;The Hacker News&rpar;](http://www.techmeme.com/260208/p14#a260208p14)
  - [You need to listen to the new Mandy, Indiana record: URGH](https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review)
  - [La Liga Soccer: Stream Valencia vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-valencia-vs-real-madrid-live-from-anywhere/)
  - [Sources: Block is notifying hundreds of staff their jobs may be eliminated during annual performance reviews; up to 10% of the workforce is at risk of being cut &lpar;Bloomberg&rpar;](http://www.techmeme.com/260208/p13#a260208p13)
- - [When to Watch Bad Bunny&#39;s Super Bowl 2026 Halftime Show and Preshow](https://www.cnet.com/tech/services-and-software/super-bowl-2026-bad-bunny-halftime-show-and-pre-show/)
- - [Q&amp;A with mathematicians behind the &quot;First Proof&quot; experiment, which tests AI&#39;s mathematical competence on questions drawn from the authors&#39; unpublished research &lpar;Siobhan Roberts/New York Times&rpar;](http://www.techmeme.com/260208/p12#a260208p12)<!-- TECH:END -->
+ - [When to Watch Bad Bunny&#39;s Super Bowl 2026 Halftime Show and Preshow](https://www.cnet.com/tech/services-and-software/super-bowl-2026-bad-bunny-halftime-show-and-pre-show/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

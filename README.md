@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moltbook was peak AI theater, less of a glimpse at the future and more of a mirror simply reflecting society&#39;s current obsession with AI &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260208/p18#a260208p18)
+ - [YouTube Music starts putting lyrics behind a paywall](https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall)
  - [How AI is impacting the romance novel industry, with authors failing to disclose AI use and using pen names more, bogging down the publishing ecosystem &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/260208/p17#a260208p17)
  - [New York is considering two bills to rein in the AI industry](https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 9, #974](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-9-974/)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 9, #1696](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-9-1696/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 9 #708](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-9-708/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 9, #974](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-9-974/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

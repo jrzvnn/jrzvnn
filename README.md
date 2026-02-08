@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Teens arrested for stealing from Cambridge Apple Store](https://appleinsider.com/articles/26/02/08/crime-blotter-teens-arrested-for-stealing-from-cambridge-apple-store?utm_source=rss)
- - [The Shoes and Brooms Transforming Curling at the 2026 Winter Olympics](https://www.wired.com/story/the-shoes-and-brooms-transforming-curling-at-the-2026-winter-olympics/)
- - [4 Best AI Notetakers &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ai-notetakers/)
- - [&#39;The Studio&#39; and &#39;Mr. Scorsese&#39; honored at Directors&#39; Guild Awards](https://appleinsider.com/articles/26/02/08/the-studio-and-mr-scorsese-honored-at-directors-guild-awards?utm_source=rss)
- - [I Have Fallen in Love With Open Earbuds &lpar;and You Should Too&rpar;](https://www.wired.com/story/why-open-earbuds-are-my-favorite-new-category/)<!-- TECH:END -->
+ - [Analysis: World Liberty Financial has earned the Trump family at least $1.2B in cash since its launch, while the Witkoff family has earned at least $200M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260208/p9#a260208p9)
+ - [Best Wireless Earbuds &lpar;2026&rpar;: Apple, Sony, Bose, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [Digital car keys are getting more sophisticated](https://www.theverge.com/transportation/873197/digital-key-car-ccc-plugfest-rivian)
+ - [Netflix’s Warner Bros. merger puts rival streamers in survival mode](https://www.theverge.com/column/874781/netflix-warner-bros-merger-other-streamers)
+ - [Crime blotter: Teens arrested for stealing from Cambridge Apple Store](https://appleinsider.com/articles/26/02/08/crime-blotter-teens-arrested-for-stealing-from-cambridge-apple-store?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

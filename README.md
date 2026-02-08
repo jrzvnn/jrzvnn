@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At 36, I don&#39;t think I&#39;m making any new friends. I think the relationship door has closed as well. I&#39;m not happy or unhappy. I just exist and carry on.](http://9gag.com/gag/aVvrNNn)
- - 😝 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)
- - 💣 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 😝 [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)
- - 👉 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
+ - 😝 [Endless potential](http://9gag.com/gag/aXP3BPd)
+ - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
+ - 💣 [Very near xD](http://9gag.com/gag/aoyobp2)
+ - 😝 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)
+ - 👉 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How AI is impacting the romance novel industry, with authors failing to disclose AI use and using pen names more, bogging down the publishing ecosystem &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/260208/p17#a260208p17)
  - [New York is considering two bills to rein in the AI industry](https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry)
- - [T-glass, a type of ultrathin glass sheet used in advanced chips, is in short supply and largely comes from Nittobo, which is not adding capacity for months &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/260208/p16#a260208p16)
- - [A software engineer explains AI fatigue, compounded by a FOMO treadmill of using labs&#39; latest tools, thinking atrophy, and more, alongside boosted productivity &lpar;Siddhant Khare&rpar;](http://www.techmeme.com/260208/p15#a260208p15)
- - [OpenClaw partners with VirusTotal and says that all skills published to ClawHub are now scanned using VirusTotal&#39;s threat intelligence &lpar;The Hacker News&rpar;](http://www.techmeme.com/260208/p14#a260208p14)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 9, #974](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-9-974/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 9, #1696](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-9-1696/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 9 #708](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-9-708/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

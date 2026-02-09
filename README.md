@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ticc best](http://9gag.com/gag/axyKxML)
- - 😝 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
- - 💣 [The Girl Next Door](http://9gag.com/gag/aE0K3Ln)
+ - 😝 [Hobbies bees](http://9gag.com/gag/a87NP5Z)
+ - 😝 [Teodor Zajder: 3-Second Barrier Broken \u2013 2.76 s 3x3 Rubik\u2019s Cube World Record](http://9gag.com/gag/ajPv2Qq)
+ - 💣 [Monday again..](http://9gag.com/gag/aXP38d6)
  - 😝 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)
  - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
 

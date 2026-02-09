@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese chip designer Montage raised $902M in its Hong Kong IPO, jumping 64% in its market debut, the biggest rise since Kuaishou&#39;s $6.2B Hong Kong IPO in 2021 &lpar;Julia Zhong/Bloomberg&rpar;](http://www.techmeme.com/260209/p10#a260209p10)
- - [How Curling Became the Winter Olympics’ Favorite Fixation](https://www.wired.com/story/everything-you-need-to-know-curling/)
- - [Iran’s Digital Surveillance Machine Is Almost Complete](https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/)
- - [This whistle fights fascists](https://www.theverge.com/policy/874959/3d-printed-whistles-for-ice-minneapolis-chicago-renee-good-alex-pretti)
- - [YouTube launches a Premium paywall for song lyrics on YouTube Music, after testing it in recent months; users get five free lyrics before they have to subscribe &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260209/p9#a260209p9)<!-- TECH:END -->
+ - [ByteDance releases Seedance 2.0, an update to its AI video generation model that can make multi-shot scenes, available to select Jimeng and Jianying users &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260209/p12#a260209p12)
+ - [AI Is Here to Replace Nuclear Treaties. Scared Yet?](https://www.wired.com/story/satellites-ai-nuclear-treaties/)
+ - [Oticon Zeal Review: A High Bar &lpar;and Price&rpar; for Hearing Aids](https://www.wired.com/review/oticon-zeal/)
+ - [Franco-Italian chipmaker STMicro agrees to supply AWS with various chips, including for high-bandwidth connectivity and power management; STM jumps 5%+ &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260209/p11#a260209p11)
+ - [Chinese chip designer Montage raised $902M in its Hong Kong IPO, jumping 64% in its market debut, the biggest rise since Kuaishou&#39;s $6.2B Hong Kong IPO in 2021 &lpar;Julia Zhong/Bloomberg&rpar;](http://www.techmeme.com/260209/p10#a260209p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

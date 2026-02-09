@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Bad Bunny’s Historic Super Bowl Halftime Show](https://www.wired.com/story/bad-bunny-super-bowl-halftime-show-behind-the-scenes/)
- - [An interview with Jeannette zu Fürstenberg, who was promoted to president of General Catalyst in January, about investing in European tech and defense startups &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260208/p20#a260208p20)
- - [&#39;The Mandalorian and Grogu,&#39; 50 Cent and More of the Biggest Super Bowl 2026 Ads So Far](https://www.cnet.com/tech/services-and-software/watch-super-bowl-2026-ads-now/)
- - [&#39;Star Wars: The Mandalorian and Grogu&#39; Drops Super Bowl Trailer](https://www.cnet.com/tech/services-and-software/star-wars-the-mandalorian-grogu-super-bowl-trailer/)
- - [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game)<!-- TECH:END -->
+ - [OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax](https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake)
+ - [Blackstone and Coatue grant a $10B loan to Australian AI infrastructure startup Firmus for data center expansion, among Australia&#39;s largest private credit deals &lpar;Sharon Klyne/Bloomberg&rpar;](http://www.techmeme.com/260208/p22#a260208p22)
+ - [Turning Point USA’s Halftime Show Was Exactly What You’d Expect](https://www.wired.com/story/turning-point-usas-halftime-show-was-exactly-what-youd-expect/)
+ - [How China boosts its humanoid robot industry, giving companies land, favorable bank loan terms, and sometimes subsidizing the robots&#39; purchase price by ~10% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260208/p21#a260208p21)
+ - [Inside Bad Bunny’s Historic Super Bowl Halftime Show](https://www.wired.com/story/bad-bunny-super-bowl-halftime-show-behind-the-scenes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

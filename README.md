@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siemens CEO Roland Busch’s mission to automate everything](https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs)
- - [OpenAI will reportedly start testing ads in ChatGPT today](https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch)
- - [EU officials and tech executives inaugurate a €2.5B chips research hub in Belgium; ASML and Imec emphasized that the US is dependent on European chip tech &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/260209/p24#a260209p24)
- - [AirPods Pro with built-in cameras may not cost more than current earbuds](https://appleinsider.com/articles/26/02/09/airpods-pro-with-built-in-cameras-may-not-cost-more-than-current-earbuds?utm_source=rss)
- - [Gather AI, which builds &quot;curious&quot; AI for drones and cameras to autonomously monitor warehouses, raised a $40M Series B, taking its total funding to $74M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260209/p23#a260209p23)<!-- TECH:END -->
+ - [Leaked specs for Sony’s next flagship wireless earbuds reveal ANC upgrades](https://www.theverge.com/tech/875782/sony-wf-1000xm6-earbuds-spec-leak)
+ - [Linux 6.19 arrives with a teaser for Linux 7.0](https://www.theverge.com/tech/875784/linux-kernel-7-0-announced)
+ - [Sources: Alphabet plans to sell a rare 100-year sterling bond, as it steps up borrowing to fund its capex growth; IBM sold a 100-year bond back in 1996 &lpar;Financial Times&rpar;](http://www.techmeme.com/260209/p27#a260209p27)
+ - [YouTube TV’s sports-focused package will cost $64.99 / month](https://www.theverge.com/news/875751/youtube-tv-custom-channel-packages-pricing)
+ - [Workday announces CEO Carl Eschenbach is stepping down and will be replaced by the company&#39;s co-founder, Aneel Bhusri, effective immediately; WDAY drops 8%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260209/p26#a260209p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

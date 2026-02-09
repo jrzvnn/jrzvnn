@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ticc best](http://9gag.com/gag/axyKxML)
- - 😝 [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
- - 💣 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)
- - 😝 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)
- - 👉 [Its the Eyes](http://9gag.com/gag/avyq35n)<!-- MEMES:END -->
+ - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 😝 [Scary scary](http://9gag.com/gag/aPALNpR)
+ - 💣 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
+ - 😝 [Results and outcomes are more important than feelings - Masculine men.](http://9gag.com/gag/ayNwE5V)
+ - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
 
 ---
 

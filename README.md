@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scary scary](http://9gag.com/gag/aPALNpR)
- - 😝 [Debbie is still single and doesnt understand why](http://9gag.com/gag/aAyAWw0)
- - 💣 [Monday again..](http://9gag.com/gag/aXP38d6)
- - 😝 [Remember to take a shit before leaving the house guys](http://9gag.com/gag/a5QgLyN)
- - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
+ - 😝 [Typical thai experience](http://9gag.com/gag/apR7eD8)
+ - 😝 [Ticc best](http://9gag.com/gag/axyKxML)
+ - 💣 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 😝 [Its the Eyes](http://9gag.com/gag/avyq35n)
+ - 👉 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
 
 ---
 

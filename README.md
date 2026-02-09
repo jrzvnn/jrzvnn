@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
- - 😝 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)
- - 💣 [Very near xD](http://9gag.com/gag/aoyobp2)
+ - 😝 [Lets hope your valentines day goes better](http://9gag.com/gag/a7ogzyz)
+ - 💣 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)
  - 😝 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)
- - 👉 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)<!-- MEMES:END -->
+ - 👉 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)<!-- MEMES:END -->
 
 ---
 

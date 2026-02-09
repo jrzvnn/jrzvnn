@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
- - 😝 [Lets hope your valentines day goes better](http://9gag.com/gag/a7ogzyz)
+ - 😝 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
  - 💣 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)
  - 😝 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)
- - 👉 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)<!-- MEMES:END -->
+ - 👉 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
 
 ---
 

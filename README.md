@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-generated ads dropped the ball at this year&amp;#8217;s Super Bowl](https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible)
- - [Neara, which builds digital twins of critical infrastructure to help prepare for disasters, raised a AU$90M Series D, a source says at a AU$1.1B valuation &lpar;Rhiannon Hoyle/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p32#a260209p32)
- - [Ferrari’s first EV will have an interior designed by Jony Ive](https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos)
- - [Sources: Alphabet has attracted more than $100B of orders for a bond sale that&#39;s expected to be about $15B &lpar;Brian W Smith/Bloomberg&rpar;](http://www.techmeme.com/260209/p31#a260209p31)
- - [Beast Industries, the entertainment conglomerate founded by MrBeast and last valued at $5.2B, acquires Step Mobile, a teen-focused banking app &lpar;Valida Pau/The Information&rpar;](http://www.techmeme.com/260209/p30#a260209p30)<!-- TECH:END -->
+ - [OpenAI says ads in ChatGPT are not eligible to appear near &quot;sensitive or regulated topics like health, mental health or politics&quot; &lpar;Madison Mills/Axios&rpar;](http://www.techmeme.com/260209/p35#a260209p35)
+ - [OpenAI says it has started testing ads in ChatGPT in the US for logged-in adult users on the Free and Go tiers and that the ads do not change ChatGPT answers &lpar;OpenAI&rpar;](http://www.techmeme.com/260209/p34#a260209p34)
+ - [Apple is killing the old HomeKit tomorrow](https://www.theverge.com/tech/875859/apple-is-killing-the-old-homekit-tomorrow)
+ - [Save $100 On Our Favorite Home Printer](https://www.wired.com/story/epson-et-2980-deal-226/)
+ - [Lyft launches teen accounts in the US more than two years after Uber, with safety features such as PIN verification, real-time tracking, and audio recordings &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260209/p33#a260209p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

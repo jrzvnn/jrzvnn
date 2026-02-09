@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apollo nears a $3.4B loan deal to a Valor-led investment vehicle to buy and lease Nvidia chips to xAI; through fall 2025, xAI was burning $1B per month &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/260209/p22#a260209p22)
- - [Discord plans to roll out age verification globally starting in March to access some content; all accounts will have a &quot;teen-appropriate experience by default&quot; &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260209/p21#a260209p21)
- - [Uber agrees to buy Getir&#39;s delivery operations from Mubadala, without giving the terms; a November 2025 report said it would value Getir&#39;s business at up to $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260209/p20#a260209p20)
- - [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
- - [How Oura won over DC by growing its lobbying spend to $1M+ per year, as RFK Jr. touts wearables for health and the US DOD makes the rings an employee benefit &lpar;Amanda Chu/Politico&rpar;](http://www.techmeme.com/260209/p19#a260209p19)<!-- TECH:END -->
+ - [Siemens CEO Roland Busch’s mission to automate everything](https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs)
+ - [OpenAI will reportedly start testing ads in ChatGPT today](https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch)
+ - [EU officials and tech executives inaugurate a €2.5B chips research hub in Belgium; ASML and Imec emphasized that the US is dependent on European chip tech &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/260209/p24#a260209p24)
+ - [AirPods Pro with built-in cameras may not cost more than current earbuds](https://appleinsider.com/articles/26/02/09/airpods-pro-with-built-in-cameras-may-not-cost-more-than-current-earbuds?utm_source=rss)
+ - [Gather AI, which builds &quot;curious&quot; AI for drones and cameras to autonomously monitor warehouses, raised a $40M Series B, taking its total funding to $74M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260209/p23#a260209p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

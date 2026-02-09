@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh well](http://9gag.com/gag/a87NB6e)
- - 😝 [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)
- - 💣 [Crab](http://9gag.com/gag/awy2NN8)
- - 😝 [Infinity flying paper](http://9gag.com/gag/aQz56Ed)
- - 👉 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
+ - 😝 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
+ - 😝 [Monday again..](http://9gag.com/gag/aXP38d6)
+ - 💣 [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)
+ - 😝 [Did you know that Voyager 1 is still operational? Link in the comments.](http://9gag.com/gag/aVvrGZv)
+ - 👉 [Wife&#39;s morning routine vs husband&#39;s morning routine](http://9gag.com/gag/aD29B6G)<!-- MEMES:END -->
 
 ---
 

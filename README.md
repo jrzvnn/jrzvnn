@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT&amp;#8217;s cheapest options now show you ads](https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt)
+ - [FCC accused of withholding DOGE information ‘in bad faith’](https://www.theverge.com/policy/875981/fcc-doge-frequency-forward-brendan-carr-discovery)
+ - [Riot is already cutting staff on its new fighting game](https://www.theverge.com/games/876038/riot-games-2xko-layoffs-job-cuts-league-of-legends)
  - [An eight-month study at a US tech company finds AI tools didn&#39;t reduce work but intensified it, as employees worked faster and took on a broader range of tasks &lpar;Harvard Business Review&rpar;](http://www.techmeme.com/260209/p36#a260209p36)
- - [The Verge’s 2026 Valentine’s Day gift guide &lpar;for her&rpar;](https://www.theverge.com/gadgets/865281/valentines-day-2026-gift-ideas-for-her-girlfriend-wife-partner)
- - [Toyota made a game engine](https://www.theverge.com/games/875995/toyota-fluorite-game-engine)
- - [Upgrade your Apple Home architecture before the old one gets killed on Tuesday](https://appleinsider.com/articles/26/02/09/upgrade-your-apple-home-architecture-before-the-old-one-gets-killed-on-tuesday?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-9/)<!-- TECH:END -->
+ - [The Verge’s 2026 Valentine’s Day gift guide &lpar;for her&rpar;](https://www.theverge.com/gadgets/865281/valentines-day-2026-gift-ideas-for-her-girlfriend-wife-partner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

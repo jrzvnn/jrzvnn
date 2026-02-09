@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
- - 😝 [Monday again..](http://9gag.com/gag/aXP38d6)
- - 💣 [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)
- - 😝 [Did you know that Voyager 1 is still operational? Link in the comments.](http://9gag.com/gag/aVvrGZv)
- - 👉 [Wife&#39;s morning routine vs husband&#39;s morning routine](http://9gag.com/gag/aD29B6G)<!-- MEMES:END -->
+ - 😝 [No Comment.](http://9gag.com/gag/avyw27W)
+ - 😝 [Crab](http://9gag.com/gag/awy2NN8)
+ - 💣 [Teodor Zajder: 3-Second Barrier Broken \u2013 2.76 s 3x3 Rubik\u2019s Cube World Record](http://9gag.com/gag/ajPv2Qq)
+ - 😝 [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)
+ - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
 
 ---
 

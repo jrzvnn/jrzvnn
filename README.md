@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Stripe is in talks to launch a tender offer that could value the company at $140B+, up from $107B last fall, when it bought back shares from investors &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260209/p37#a260209p37)
- - [ChatGPT&amp;#8217;s cheapest options now show you ads](https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt)
- - [FCC accused of withholding DOGE information ‘in bad faith’](https://www.theverge.com/policy/875981/fcc-doge-frequency-forward-brendan-carr-discovery)
- - [Riot is already cutting staff on its new fighting game](https://www.theverge.com/games/876038/riot-games-2xko-layoffs-job-cuts-league-of-legends)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 10, #975](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-10-975/)<!-- TECH:END -->
+ - [Discord&#39;s upcoming safety update makes age verification hard to avoid](https://appleinsider.com/articles/26/02/09/discords-upcoming-safety-update-makes-age-verification-hard-to-avoid?utm_source=rss)
+ - [Sources: crypto exchange Backpack, built by ex-FTX and Alameda leaders, is in talks to raise $50M at a $1B pre-money valuation, reports $100M+ in annual revenue &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260209/p39#a260209p39)
+ - [England Rugby team gets a competitive advantage with iPhone, iPad, &amp; Mac in latest ad](https://appleinsider.com/articles/26/02/09/apple-ad-shows-how-england-rugby-makes-use-of-the-ipad-and-macbook-pro?utm_source=rss)
+ - [MrBeast just bought a banking app](https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app)
+ - [Oxide Computer, which lets companies build their own cloud, raised $200M led by USIT, taking its total funding to nearly $390M since its 2019 founding &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260209/p38#a260209p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

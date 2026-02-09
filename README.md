@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autodesk sues Google for allegedly infringing its Flow trademark as the name of Google&#39;s AI filmmaking tool &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260209/p29#a260209p29)
- - [Oura&#39;s FDA lobbying benefits Apple Watch, if everyone&#39;s smart about the risks](https://appleinsider.com/articles/26/02/09/ouras-fda-lobbying-benefits-apple-watch-if-everyones-smart-about-the-risks?utm_source=rss)
- - [Apple&#39;s loaded M5 MacBook Pro with 32GB RAM, 1TB SSD plunges to $1,899](https://appleinsider.com/articles/26/02/09/apples-loaded-m5-macbook-pro-with-32gb-ram-1tb-ssd-plunges-to-1899?utm_source=rss)
- - [Google’s Pixel 9A is back down to $349, its cheapest price so far](https://www.theverge.com/gadgets/875742/google-pixel9a-switch-2-case-netgear-gigabit-deal-sale)
- - [Monday.com&#39;s stock plunges 20%+ after the project management software company issued weak Q1 guidance, as it battles rising pressure from agentic AI tools &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260209/p28#a260209p28)<!-- TECH:END -->
+ - [AI-generated ads dropped the ball at this year&amp;#8217;s Super Bowl](https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible)
+ - [Neara, which builds digital twins of critical infrastructure to help prepare for disasters, raised a AU$90M Series D, a source says at a AU$1.1B valuation &lpar;Rhiannon Hoyle/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p32#a260209p32)
+ - [Ferrari’s first EV will have an interior designed by Jony Ive](https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos)
+ - [Sources: Alphabet has attracted more than $100B of orders for a bond sale that&#39;s expected to be about $15B &lpar;Brian W Smith/Bloomberg&rpar;](http://www.techmeme.com/260209/p31#a260209p31)
+ - [Beast Industries, the entertainment conglomerate founded by MrBeast and last valued at $5.2B, acquires Step Mobile, a teen-focused banking app &lpar;Valida Pau/The Information&rpar;](http://www.techmeme.com/260209/p30#a260209p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

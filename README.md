@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba&#39;s Qwen temporarily stops issuing coupons due to customer overload, hampering Alibaba&#39;s Agentic AI ad campaign; Qwen began offering coupons on February 6 &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260209/p16#a260209p16)
- - [Sources: AI legal software startup Harvey seeks to raise $200M led by Sequoia and GIC at an $11B valuation, up from $8B after raising $160M in December 2025 &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260209/p15#a260209p15)
- - [HBO Max is finally launching in the UK next month](https://www.theverge.com/streaming/875668/hbo-max-is-finally-launching-in-the-uk-next-month)
- - [How the US government is adopting AI: NASA reports 420 AI use cases in 2025, up from 18 in 2024, HHS reports 398, Energy 325, DOJ 295, Interior 234, and DHS 205 &lpar;Washington Post&rpar;](http://www.techmeme.com/260209/p14#a260209p14)
- - [Best Ebike Locks &lpar;2026&rpar;: Kryptonite, Litelok, Abus, Hiplok](https://www.wired.com/gallery/best-electric-bike-locks/)<!-- TECH:END -->
+ - [Sources: Apollo nears a $3.4B loan deal to a Valor-led investment vehicle to buy and lease Nvidia chips to xAI; through fall 2025, xAI was burning $1B per month &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/260209/p22#a260209p22)
+ - [Discord plans to roll out age verification globally starting in March to access some content; all accounts will have a &quot;teen-appropriate experience by default&quot; &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260209/p21#a260209p21)
+ - [Uber agrees to buy Getir&#39;s delivery operations from Mubadala, without giving the terms; a November 2025 report said it would value Getir&#39;s business at up to $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260209/p20#a260209p20)
+ - [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
+ - [How Oura won over DC by growing its lobbying spend to $1M+ per year, as RFK Jr. touts wearables for health and the US DOD makes the rings an employee benefit &lpar;Amanda Chu/Politico&rpar;](http://www.techmeme.com/260209/p19#a260209p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

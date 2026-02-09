@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PE firm Advent, FedEx, A&amp;R, and PPF agree to acquire Polish automated parcel delivery company InPost for €7.8B; the company has 61K automated parcel lockers &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p7#a260209p7)
- - [Q&amp;A with YouTube VP of Subscription Products Christian Oestlien on YouTube TV&#39;s future, the NFL and Oscars deals, its friendly rivalry with Netflix, and more &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260209/p6#a260209p6)
- - [Crypto.com CEO Kris Marszalek launches ai.com during the Super Bowl and opens up username handle registration to let users get a private, personalized AI agent &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/260209/p5#a260209p5)
- - [A look at Tether&#39;s global expansion, after it recently hit ~300 staff; sources describe Tether&#39;s internal focus on corporate structure and &quot;profit and loss&quot; &lpar;Jill R Shah/Financial Times&rpar;](http://www.techmeme.com/260209/p4#a260209p4)
- - [A look at the 2026 Super Bowl ads from Anthropic, Amazon, OpenAI, and others, as AI continued to take center stage in ad creations and AI product promotion &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260209/p3#a260209p3)<!-- TECH:END -->
+ - [Chinese chip designer Montage raised $902M in its Hong Kong IPO, jumping 64% in its market debut, the biggest rise since Kuaishou&#39;s $6.2B Hong Kong IPO in 2021 &lpar;Julia Zhong/Bloomberg&rpar;](http://www.techmeme.com/260209/p10#a260209p10)
+ - [How Curling Became the Winter Olympics’ Favorite Fixation](https://www.wired.com/story/everything-you-need-to-know-curling/)
+ - [Iran’s Digital Surveillance Machine Is Almost Complete](https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/)
+ - [This whistle fights fascists](https://www.theverge.com/policy/874959/3d-printed-whistles-for-ice-minneapolis-chicago-renee-good-alex-pretti)
+ - [YouTube launches a Premium paywall for song lyrics on YouTube Music, after testing it in recent months; users get five free lyrics before they have to subscribe &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260209/p9#a260209p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

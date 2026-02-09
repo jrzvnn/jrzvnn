@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game)
+ - [As Section 230 turns 30, a look at how upcoming court cases involving Meta, Alphabet, and others in the US could reshape the bounds of Section 230&#39;s protections &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260208/p19#a260208p19)
  - [Moltbook was peak AI theater, less of a glimpse at the future and more of a mirror simply reflecting society&#39;s current obsession with AI &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260208/p18#a260208p18)
  - [YouTube Music starts putting lyrics behind a paywall](https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall)
- - [How AI is impacting the romance novel industry, with authors failing to disclose AI use and using pen names more, bogging down the publishing ecosystem &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/260208/p17#a260208p17)
- - [New York is considering two bills to rein in the AI industry](https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry)<!-- TECH:END -->
+ - [How AI is impacting the romance novel industry, with authors failing to disclose AI use and using pen names more, bogging down the publishing ecosystem &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/260208/p17#a260208p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

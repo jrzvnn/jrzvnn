@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China says its trade surplus from digital services rose 100%+ to a record $33B in 2025, boosted by overseas revenue of AI, livestreaming, and e-commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/260209/p2#a260209p2)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 9, #504](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-9-504/)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-9/)
  - [How Runna, an AI-powered virtual coaching app acquired by Strava in 2025, toned down its aggressive training plans following reports of injuries from some users &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p1#a260209p1)
- - [Super Bowl Tailgate Photo Essay: Bad Bunny, Big Tech, and the Big Game](https://www.wired.com/story/super-bowl-lx-tailgate-photo-essay/)
- - [OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax](https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake)<!-- TECH:END -->
+ - [Super Bowl Tailgate Photo Essay: Bad Bunny, Big Tech, and the Big Game](https://www.wired.com/story/super-bowl-lx-tailgate-photo-essay/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T&#39;s Turbo Live Keeps Your Phone Connected During Big Stadium Events](https://www.cnet.com/tech/mobile/att-turbo-live-cuts-cell-congestion/)
+ - [Onsemi reports Q4 revenue down 11% YoY to $1.53B, vs. $1.54B est., as its two biggest business units continue to post sales declines; ON drops 4%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p40#a260209p40)
  - [Discord&#39;s upcoming safety update makes age verification hard to avoid](https://appleinsider.com/articles/26/02/09/discords-upcoming-safety-update-makes-age-verification-hard-to-avoid?utm_source=rss)
  - [Sources: crypto exchange Backpack, built by ex-FTX and Alameda leaders, is in talks to raise $50M at a $1B pre-money valuation, reports $100M+ in annual revenue &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260209/p39#a260209p39)
- - [England Rugby team gets a competitive advantage with iPhone, iPad, &amp; Mac in latest ad](https://appleinsider.com/articles/26/02/09/apple-ad-shows-how-england-rugby-makes-use-of-the-ipad-and-macbook-pro?utm_source=rss)
- - [MrBeast just bought a banking app](https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app)
- - [Oxide Computer, which lets companies build their own cloud, raised $200M led by USIT, taking its total funding to nearly $390M since its 2019 founding &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260209/p38#a260209p38)<!-- TECH:END -->
+ - [England Rugby team gets a competitive advantage with iPhone, iPad, &amp; Mac in latest ad](https://appleinsider.com/articles/26/02/09/apple-ad-shows-how-england-rugby-makes-use-of-the-ipad-and-macbook-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

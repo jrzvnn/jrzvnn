@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [OpenAI says ads in ChatGPT are not eligible to appear near &quot;sensitive or regulated topics like health, mental health or politics&quot; &lpar;Madison Mills/Axios&rpar;](http://www.techmeme.com/260209/p35#a260209p35)
  - [OpenAI says it has started testing ads in ChatGPT in the US for logged-in adult users on the Free and Go tiers and that the ads do not change ChatGPT answers &lpar;OpenAI&rpar;](http://www.techmeme.com/260209/p34#a260209p34)
- - [Apple is killing the old HomeKit tomorrow](https://www.theverge.com/tech/875859/apple-is-killing-the-old-homekit-tomorrow)
- - [Save $100 On Our Favorite Home Printer](https://www.wired.com/story/epson-et-2980-deal-226/)
- - [Lyft launches teen accounts in the US more than two years after Uber, with safety features such as PIN verification, real-time tracking, and audio recordings &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260209/p33#a260209p33)<!-- TECH:END -->
+ - [I Bought the Galaxy Z TriFold for Over $3,000. Follow Along as I Test It &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/samsung-galaxy-z-trifold-ongoing-review/)
+ - [HBO Max: The 30 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-shows-to-watch-on-hbo-max/)
+ - [Apple is killing the old HomeKit tomorrow](https://www.theverge.com/tech/875859/apple-is-killing-the-old-homekit-tomorrow)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - 😝 [How to approach a police when you have tourette syndrome](http://9gag.com/gag/avyq3V5)
+ - 😝 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)
+ - 💣 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)
  - 😝 [The Girl Next Door](http://9gag.com/gag/aE0K3Ln)
- - 💣 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)
- - 😝 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)
- - 👉 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
+ - 👉 [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I support this message 100%](http://9gag.com/gag/aPALNdR)
  - 😝 [How to approach a police when you have tourette syndrome](http://9gag.com/gag/avyq3V5)
- - 😝 [Maybe this should be thought earlier](http://9gag.com/gag/a2vgBZ9)
- - 💣 [A glimmer of hope in this dark world](http://9gag.com/gag/aXP3DOV)
- - 😝 [Did you know that Voyager 1 is still operational? Link in the comments.](http://9gag.com/gag/aVvrGZv)
+ - 💣 [Maybe this should be thought earlier](http://9gag.com/gag/a2vgBZ9)
+ - 😝 [A glimmer of hope in this dark world](http://9gag.com/gag/aXP3DOV)
  - 👉 [I really miss everything](http://9gag.com/gag/axyKxOp)<!-- MEMES:END -->
 
 ---

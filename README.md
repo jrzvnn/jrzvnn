@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says ads in ChatGPT are not eligible to appear near &quot;sensitive or regulated topics like health, mental health or politics&quot; &lpar;Madison Mills/Axios&rpar;](http://www.techmeme.com/260209/p35#a260209p35)
- - [OpenAI says it has started testing ads in ChatGPT in the US for logged-in adult users on the Free and Go tiers and that the ads do not change ChatGPT answers &lpar;OpenAI&rpar;](http://www.techmeme.com/260209/p34#a260209p34)
- - [I Bought the Galaxy Z TriFold for Over $3,000. Follow Along as I Test It &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/samsung-galaxy-z-trifold-ongoing-review/)
- - [HBO Max: The 30 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-shows-to-watch-on-hbo-max/)
- - [Apple is killing the old HomeKit tomorrow](https://www.theverge.com/tech/875859/apple-is-killing-the-old-homekit-tomorrow)<!-- TECH:END -->
+ - [An eight-month study at a US tech company finds AI tools didn&#39;t reduce work but intensified it, as employees worked faster and took on a broader range of tasks &lpar;Harvard Business Review&rpar;](http://www.techmeme.com/260209/p36#a260209p36)
+ - [The Verge’s 2026 Valentine’s Day gift guide &lpar;for her&rpar;](https://www.theverge.com/gadgets/865281/valentines-day-2026-gift-ideas-for-her-girlfriend-wife-partner)
+ - [Toyota made a game engine](https://www.theverge.com/games/875995/toyota-fluorite-game-engine)
+ - [Upgrade your Apple Home architecture before the old one gets killed on Tuesday](https://appleinsider.com/articles/26/02/09/upgrade-your-apple-home-architecture-before-the-old-one-gets-killed-on-tuesday?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-9/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

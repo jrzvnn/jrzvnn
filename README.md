@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How to approach a police when you have tourette syndrome](http://9gag.com/gag/avyq3V5)
- - 😝 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)
- - 💣 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)
- - 😝 [The Girl Next Door](http://9gag.com/gag/aE0K3Ln)
- - 👉 [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)<!-- MEMES:END -->
+ - 😝 [Me standing at the urinal and realizing how f**ked up I really am...](http://9gag.com/gag/a87NrdQ)
+ - 💣 [A glimmer of hope in this dark world](http://9gag.com/gag/aXP3DOV)
+ - 😝 [Wololo](http://9gag.com/gag/a9yw36j)
+ - 👉 [I really miss everything](http://9gag.com/gag/axyKxOp)<!-- MEMES:END -->
 
 ---
 

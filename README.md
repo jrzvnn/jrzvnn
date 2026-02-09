@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Stripe is in talks to launch a tender offer that could value the company at $140B+, up from $107B last fall, when it bought back shares from investors &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260209/p37#a260209p37)
  - [ChatGPT&amp;#8217;s cheapest options now show you ads](https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt)
  - [FCC accused of withholding DOGE information ‘in bad faith’](https://www.theverge.com/policy/875981/fcc-doge-frequency-forward-brendan-carr-discovery)
  - [Riot is already cutting staff on its new fighting game](https://www.theverge.com/games/876038/riot-games-2xko-layoffs-job-cuts-league-of-legends)
- - [An eight-month study at a US tech company finds AI tools didn&#39;t reduce work but intensified it, as employees worked faster and took on a broader range of tasks &lpar;Harvard Business Review&rpar;](http://www.techmeme.com/260209/p36#a260209p36)
- - [The Verge’s 2026 Valentine’s Day gift guide &lpar;for her&rpar;](https://www.theverge.com/gadgets/865281/valentines-day-2026-gift-ideas-for-her-girlfriend-wife-partner)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 10, #975](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-10-975/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

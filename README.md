@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game)
- - [As Section 230 turns 30, a look at how upcoming court cases involving Meta, Alphabet, and others in the US could reshape the bounds of Section 230&#39;s protections &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260208/p19#a260208p19)
- - [Moltbook was peak AI theater, less of a glimpse at the future and more of a mirror simply reflecting society&#39;s current obsession with AI &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260208/p18#a260208p18)
- - [YouTube Music starts putting lyrics behind a paywall](https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall)
- - [How AI is impacting the romance novel industry, with authors failing to disclose AI use and using pen names more, bogging down the publishing ecosystem &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/260208/p17#a260208p17)<!-- TECH:END -->
+ - [Inside Bad Bunny’s Historic Super Bowl Halftime Show](https://www.wired.com/story/bad-bunny-super-bowl-halftime-show-behind-the-scenes/)
+ - [An interview with Jeannette zu Fürstenberg, who was promoted to president of General Catalyst in January, about investing in European tech and defense startups &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260208/p20#a260208p20)
+ - [&#39;The Mandalorian and Grogu,&#39; 50 Cent and More of the Biggest Super Bowl 2026 Ads So Far](https://www.cnet.com/tech/services-and-software/watch-super-bowl-2026-ads-now/)
+ - [&#39;Star Wars: The Mandalorian and Grogu&#39; Drops Super Bowl Trailer](https://www.cnet.com/tech/services-and-software/star-wars-the-mandalorian-grogu-super-bowl-trailer/)
+ - [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

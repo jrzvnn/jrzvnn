@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teodor Zajder: 3-Second Barrier Broken \u2013 2.76 s 3x3 Rubik\u2019s Cube World Record](http://9gag.com/gag/ajPv2Qq)
- - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 💣 [Scary scary](http://9gag.com/gag/aPALNpR)
- - 😝 [Crab](http://9gag.com/gag/awy2NN8)
- - 👉 [Oh well](http://9gag.com/gag/a87NB6e)<!-- MEMES:END -->
+ - 😝 [Oh well](http://9gag.com/gag/a87NB6e)
+ - 😝 [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)
+ - 💣 [Crab](http://9gag.com/gag/awy2NN8)
+ - 😝 [Infinity flying paper](http://9gag.com/gag/aQz56Ed)
+ - 👉 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
 
 ---
 

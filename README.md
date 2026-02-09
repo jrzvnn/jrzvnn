@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh well](http://9gag.com/gag/a87NB6e)
- - 😝 [Scary scary](http://9gag.com/gag/aPALNpR)
- - 💣 [Crab](http://9gag.com/gag/awy2NN8)
- - 😝 [Results and outcomes are more important than feelings - Masculine men.](http://9gag.com/gag/ayNwE5V)
- - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
+ - 😝 [Teodor Zajder: 3-Second Barrier Broken \u2013 2.76 s 3x3 Rubik\u2019s Cube World Record](http://9gag.com/gag/ajPv2Qq)
+ - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 💣 [Scary scary](http://9gag.com/gag/aPALNpR)
+ - 😝 [Crab](http://9gag.com/gag/awy2NN8)
+ - 👉 [Oh well](http://9gag.com/gag/a87NB6e)<!-- MEMES:END -->
 
 ---
 

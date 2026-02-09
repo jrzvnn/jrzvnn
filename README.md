@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical thai experience](http://9gag.com/gag/apR7eD8)
  - 😝 [Ticc best](http://9gag.com/gag/axyKxML)
- - 💣 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 😝 [Its the Eyes](http://9gag.com/gag/avyq35n)
- - 👉 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
+ - 😝 [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
+ - 💣 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)
+ - 😝 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)
+ - 👉 [Its the Eyes](http://9gag.com/gag/avyq35n)<!-- MEMES:END -->
 
 ---
 

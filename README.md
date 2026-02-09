@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 😝 [Oh well](http://9gag.com/gag/a87NB6e)
  - 😝 [Scary scary](http://9gag.com/gag/aPALNpR)
- - 💣 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
+ - 💣 [Crab](http://9gag.com/gag/awy2NN8)
  - 😝 [Results and outcomes are more important than feelings - Masculine men.](http://9gag.com/gag/ayNwE5V)
  - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
 

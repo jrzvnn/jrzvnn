@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord says &amp;#8216;vast majority&amp;#8217; of users won&amp;#8217;t see its new age verification setup](https://www.theverge.com/tech/876575/discord-age-verification-vast-majority-users-inference)
+ - [Palantir CEO Alex Karp Recorded a Video About ICE for His Employees](https://www.wired.com/story/palantir-ceo-alex-karp-employee-questions-on-ice/)
+ - [Bernstein&#39;s $340 Apple target bets on Services instead of hardware growth](https://appleinsider.com/articles/26/02/10/bernsteins-340-apple-target-bets-on-services-instead-of-hardware-growth?utm_source=rss)
  - [Slack messages: some staffers complained about Marc Benioff making jokes about ICE at a Salesforce event, including about ICE surveilling employee travel &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/260210/p49#a260210p49)
- - [FBI releases recovered footage from Nancy Guthrie&amp;#8217;s Nest cam](https://www.theverge.com/tech/876542/fbi-nancy-guthrie-nest-cam-video)
- - [iPhone 18 Pro prices should stay static as Apple cuts production costs](https://appleinsider.com/articles/26/02/10/iphone-18-pro-prices-should-stay-static-as-apple-cuts-production-costs?utm_source=rss)
- - [Tech Oversight Project: ahead of a landmark social media addiction trial, Meta paid for 3,500+ ads on CNN, Fox, and others to promote Instagram&#39;s Teen Accounts &lpar;Annie Bang/Bloomberg&rpar;](http://www.techmeme.com/260210/p48#a260210p48)
- - [TikTok-Linked AI Video Tool Debuts With a Catch for the US](https://www.cnet.com/tech/services-and-software/tiktok-creator-bytedances-new-ai-video-tool-is-here-but-theres-a-catch-for-those-in-the-us/)<!-- TECH:END -->
+ - [FBI releases recovered footage from Nancy Guthrie&amp;#8217;s Nest cam](https://www.theverge.com/tech/876542/fbi-nancy-guthrie-nest-cam-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify reports Q4 revenue up 13% YoY to €4.5B, Premium users up 10% YoY to 290M, MAUs up 11% YoY to 751M, and a €701M operating income, above €639.1M est. &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260210/p11#a260210p11)
- - [Analysis: despite AI ads outnumbering traditional Super Bowl ad categories like beer, nostalgia-driven ads from Budweiser and Dunkin&#39; dominated social media &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p10#a260210p10)
- - [The Best Streaming Bundles and Streaming Deals of February 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)
- - [These Hackers Are Turning Dead Vapes Into Musical Synthesizers](https://www.wired.com/story/hackers-turning-dead-vapes-into-musical-synthesizers/)
- - [Alibaba&#39;s DAMO Academy releases RynnBrain, an open-source foundation model to help robots perform real-world tasks like navigating rooms, trained on Qwen3-VL &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260210/p9#a260210p9)<!-- TECH:END -->
+ - [Satellite executives, investors, and researchers say Elon Musk&#39;s aim to launch space data centers by around 2029 is highly ambitious, but the idea is plausible &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260210/p15#a260210p15)
+ - [The UK CMA says Apple and Google committed to making app store changes to ensure fairness to developers and consumers, and asks market players for their views &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/260210/p14#a260210p14)
+ - [Munich-based Constellr, which builds thermal satellite imaging hardware and software, raised a €37M Series A, taking its total funding to €75M &lpar;Ingrid Lunden/Resilience Media&rpar;](http://www.techmeme.com/260210/p13#a260210p13)
+ - [8 Best Space Heaters &lpar;2026&rpar;: Tested, Measured, and Mistreated](https://www.wired.com/gallery/the-best-space-heaters/)
+ - [Samsung Galaxy A17 5G Review: Crippling Performance](https://www.wired.com/review/samsung-galaxy-a17-5g/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

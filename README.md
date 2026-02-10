@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As OpenAI prepares to retire GPT-4o on February 13, sources say it was scrapped partly because OpenAI struggled to contain 4o&#39;s potential for harmful outcomes &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p48#a260209p48)
- - [Spotlight got a huge upgrade in macOS Tahoe, here&#39;s how to use it](https://appleinsider.com/inside/macos-tahoe/tips/spotlight-got-a-huge-upgrade-in-macos-tahoe-heres-how-to-use-it?utm_source=rss)
- - [London-based Tem, which uses AI to optimize energy transactions for businesses, raised a $75M Series B led by Lightspeed, a source says at a $300M+ valuation &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260209/p47#a260209p47)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-10/)
- - [Discord Plans to Treat Some Users as Teens Until They Verify Their Age](https://www.cnet.com/tech/services-and-software/discord-teen-by-default-age-category/)<!-- TECH:END -->
+ - [A court filing in the iyO-OpenAI trademark case reveals OpenAI won&#39;t use the name &quot;io&quot; for its AI device, which isn&#39;t expected to ship before February 2027 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260210/p1#a260210p1)
+ - [KitchenAid Promo Codes and Discounts: Save Up to $500](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [20% Off LG Promo Code &amp; Coupons | February 2026](https://www.wired.com/story/lg-promo-code/)
+ - [H&amp;R Block Coupons and Deals: 20% Off Tax Prep in 2026](https://www.wired.com/story/hr-block-coupon/)
+ - [TurboTax Service Codes: Up to 20% Off | February 2026](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

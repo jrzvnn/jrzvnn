@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jeffrey Epstein’s digital cleanup crew](https://www.theverge.com/report/876081/jeffrey-epstein-files-seo-google-digital-footprint-emails)
- - [UK&#39;s FCA adds Blockchain.com to its registry of licensed crypto companies; the company withdrew its initial application in 2022 to pivot operations to Lithuania &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/260210/p34#a260210p34)
- - [This vintage-looking camera has been updated for shooting the stars](https://www.theverge.com/tech/876264/om-system-om-3-astro-digital-camera-stars-astrophotography)
- - [Matia, which helps enterprises consolidate their data management operations, raised a $21M Series A led by Red Dot Capital, bringing its total funding to $31M+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260210/p33#a260210p33)
- - [Cisco launches the Silicon One G300 switch chip, made using TSMC&#39;s 3nm technology to compete with Broadcom and Nvidia in the AI infrastructure market &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260210/p32#a260210p32)<!-- TECH:END -->
+ - [Razer’s resurrected 25-year-old gaming mouse will cost you $1,337](https://www.theverge.com/gadgets/876333/razer-boomslang-20th-anniversary-edition-wireless-mouse-preorder-price)
+ - [Singapore blames Chinese-backed hacking group UNC3886 for a months-long cyber-espionage campaign that targeted its four largest telecommunication companies &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260210/p40#a260210p40)
+ - [Telegram is reportedly being slowed down and restricted in Russia](https://www.theverge.com/tech/876351/telegram-russia-restrictions)
+ - [Reco, which makes AI agents that monitor SaaS environments for threats, raised a $30M Series B led by Zeev Ventures, bringing its total funding to $85M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260210/p39#a260210p39)
+ - [&#39;Oceanhorn 3&#39; leads March updates coming to Apple Arcade](https://appleinsider.com/articles/26/02/10/oceanhorn-3-leads-march-updates-coming-to-apple-arcade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

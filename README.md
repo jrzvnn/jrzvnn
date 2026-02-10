@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)
- - 😝 [Stars revolving around a super massive black hole](http://9gag.com/gag/a1mjp28)
- - 💣 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)
- - 😝 [Rent makes you reevaluate everything](http://9gag.com/gag/axywdjY)
- - 👉 [It sounds like your `loneliness` may just be another one of your bad choices](http://9gag.com/gag/an7wePn)<!-- MEMES:END -->
+ - 😝 [Typical thai experience](http://9gag.com/gag/apR7eD8)
+ - 😝 [No Comment.](http://9gag.com/gag/avyw27W)
+ - 💣 [Oh wow](http://9gag.com/gag/aE05deM)
+ - 😝 [Upgrade f\u00fcr die Verbotszone f\u00fcr Messerbl\u00f6cke](http://9gag.com/gag/a34rPZr)
+ - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
 
 ---
 

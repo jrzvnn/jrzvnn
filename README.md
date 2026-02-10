@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cosmic Orange iPhone 17 Pro really helped China sales](https://appleinsider.com/articles/26/02/10/cosmic-orange-iphone-17-pro-really-helped-china-sales?utm_source=rss)
- - [Health care navigation startup Solace, which matches patients with 2K+ advocates, raised $130M led by IVP at a $1B valuation, taking its total funding to $211M &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260210/p22#a260210p22)
- - [UK gets Apple and Google to agree to easy App Store changes](https://appleinsider.com/articles/26/02/10/uk-gets-apple-and-google-to-agree-to-easy-app-store-changes?utm_source=rss)
- - [Bretton AI, formerly Greenlite, which uses GenAI to investigate suspicious transactions and verify internal risk policy compliance, raised a $75M Series B &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/260210/p21#a260210p21)
- - [6 Best Gaming Laptops &lpar;2026&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
+ - [Cloud computing provider Nebius agrees to buy Tavily, which helps AI agents search for up-to-date information for tasks like coding, a source says for $275M &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260210/p29#a260210p29)
+ - [NYC-based AI video startup Runway raised a $315M Series E led by General Atlantic, a source says at a $5.3B valuation, and plans to build AI world models &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260210/p28#a260210p28)
+ - [Cadence rolls out ChipStack, an AI agent to help chipmakers like Nvidia speed up the complex chip design process by up to 10x by building a &quot;mental model&quot; &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260210/p27#a260210p27)
+ - [Framework Desktop Review: Small and Mighty, but Shy of Upgrade Greatness](https://www.cnet.com/tech/computing/framework-desktop-review-small-and-mighty-but-not-the-ideal-of-a-desktop/)
+ - [The Best TVs We’ve Reviewed in 2026: Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

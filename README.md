@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Smart Sleep Pads for Your Most Efficient Sleep &lpar;2026&rpar;](https://www.wired.com/story/best-smart-sleep-pads/)
- - [Chinese AI companies like Alibaba and Tencent are releasing new models and spending millions on &quot;red envelope&quot; freebies to woo users ahead of the Lunar New Year &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/260210/p5#a260210p5)
- - [PitchBook: European VC investments rose 5% YoY to a post-pandemic high of €66B in 2025; AI-related deals accounted for 35%+, or €23.5B, up from €17.7B in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/260210/p4#a260210p4)
- - [French President Emmanuel Macron says the US could retaliate against EU countries, including France and Spain, over plans to ban children from social media &lpar;Leila Abboud/Financial Times&rpar;](http://www.techmeme.com/260210/p3#a260210p3)
- - [Paris-based online corporate event booking marketplace Naboo raised a $70M Series B led by Lightspeed with participation from Notion Capital, ISAI, and Ternel &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260210/p2#a260210p2)<!-- TECH:END -->
+ - [Spotify reports Q4 revenue up 13% YoY to €4.5B, Premium users up 10% YoY to 290M, MAUs up 11% YoY to 751M, and a €701M operating income, above €639.1M est. &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260210/p11#a260210p11)
+ - [Analysis: despite AI ads outnumbering traditional Super Bowl ad categories like beer, nostalgia-driven ads from Budweiser and Dunkin&#39; dominated social media &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p10#a260210p10)
+ - [The Best Streaming Bundles and Streaming Deals of February 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)
+ - [These Hackers Are Turning Dead Vapes Into Musical Synthesizers](https://www.wired.com/story/hackers-turning-dead-vapes-into-musical-synthesizers/)
+ - [Alibaba&#39;s DAMO Academy releases RynnBrain, an open-source foundation model to help robots perform real-world tasks like navigating rooms, trained on Qwen3-VL &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260210/p9#a260210p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

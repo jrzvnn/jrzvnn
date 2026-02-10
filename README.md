@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s resurrected 25-year-old gaming mouse will cost you $1,337](https://www.theverge.com/gadgets/876333/razer-boomslang-20th-anniversary-edition-wireless-mouse-preorder-price)
- - [Singapore blames Chinese-backed hacking group UNC3886 for a months-long cyber-espionage campaign that targeted its four largest telecommunication companies &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260210/p40#a260210p40)
- - [Telegram is reportedly being slowed down and restricted in Russia](https://www.theverge.com/tech/876351/telegram-russia-restrictions)
- - [Reco, which makes AI agents that monitor SaaS environments for threats, raised a $30M Series B led by Zeev Ventures, bringing its total funding to $85M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260210/p39#a260210p39)
- - [&#39;Oceanhorn 3&#39; leads March updates coming to Apple Arcade](https://appleinsider.com/articles/26/02/10/oceanhorn-3-leads-march-updates-coming-to-apple-arcade?utm_source=rss)<!-- TECH:END -->
+ - [Flash deal: Save $300 on Apple&#39;s 15-inch MacBook Air with 32GB RAM, 1TB SSD](https://appleinsider.com/articles/26/02/10/flash-deal-save-300-on-apples-15-inch-macbook-air-with-32gb-ram-1tb-ssd?utm_source=rss)
+ - [Microsoft is automatically replacing Secure Boot certificates for older PCs before they expire later this year; Secure Boot was first introduced in 2011 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260210/p44#a260210p44)
+ - [Sources: KPMG negotiated lower fees from auditor Grant Thornton by arguing that AI will make it cheaper to do the work, and threatened to find a new auditor &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/260210/p43#a260210p43)
+ - [An Ark showed me augmented reality’s true artistic potential](https://www.theverge.com/gadgets/875869/an-ark-mixed-reality-simon-stephens-sarah-frankcom-todd-eckert)
+ - [Gary Shapiro plans to step down as CEO of the Consumer Technology Association, the owner and producer of annual CES events in Las Vegas, after 35+ years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260210/p42#a260210p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

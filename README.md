@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese Female Police Motorcycle Officer](http://9gag.com/gag/ae9wKLv)
- - 😝 [Ahead of the curve.](http://9gag.com/gag/a4PyKo6)
- - 💣 [Watching this old book get a stunning makeover is so satisfying](http://9gag.com/gag/aVv5jp8)
- - 😝 [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)
- - 👉 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)<!-- MEMES:END -->
+ - 😝 [Crab](http://9gag.com/gag/awy2NN8)
+ - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 💣 [God help me](http://9gag.com/gag/ae9wjmb)
+ - 😝 [Shut up and take my money!](http://9gag.com/gag/aQz5PgK)
+ - 👉 [Podcast](http://9gag.com/gag/a7ogjKw)<!-- MEMES:END -->
 
 ---
 

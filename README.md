@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Find My outage &amp; iCloud issues hit users once again](https://appleinsider.com/articles/26/02/10/find-my-outage-icloud-issues-hit-users-once-again?utm_source=rss)
- - [CrossOver 26 update adds compatibility for blockbuster &#39;Expedition 33&#39; and &#39;HellDivers 2&#39;](https://appleinsider.com/articles/26/02/10/crossover-26-update-adds-compatibility-for-blockbuster-expedition-33-and-helldivers-2?utm_source=rss)
- - [Sen. Warren plans bipartisan legislation with Sen. Banks that bans the sale of certain AI chips to China after Dario Amodei met with Warren and other lawmakers &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/260210/p55#a260210p55)
- - [Fitbit expands access to its AI health coach](https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios)
- - [Boston Dynamics CEO Robert Playter steps down after more than 30 years with the company and plans to retire; CFO Amanda McMaster will take over as interim CEO &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/260210/p54#a260210p54)<!-- TECH:END -->
+ - [Kalshi says it registered over $1B in trades related to the Super Bowl; Piper Sandler analysts say Kalshi and Polymarket saw ~$1.2B in total trading on Sunday &lpar;Bloomberg&rpar;](http://www.techmeme.com/260210/p58#a260210p58)
+ - [Trump’s new ‘Buy American’ requirement for EV charging would dramatically curtail build-out](https://www.theverge.com/transportation/876703/trump-ev-charging-buy-american-nevi-funds)
+ - [Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE](https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/)
+ - [Discord says that the &quot;vast majority of people can continue using Discord exactly as they do today&quot; without needing to use a face scan or ID to verify their age &lpar;The Verge&rpar;](http://www.techmeme.com/260210/p57#a260210p57)
+ - [Robinhood reports Q4 revenue up 27% YoY to $1.28B, below est., crypto revenue down 38% to $221M, below est., and net income down 34%; HOOD drops 5%+ after hours &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p56#a260210p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

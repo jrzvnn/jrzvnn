@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Five members of xAI&#39;s 12-person founding team have now left the company, with four of the departures coming in just the last year &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260210/p51#a260210p51)
- - [Ayaneo’s new Windows handheld will cost up to $4,299 with maxed out specs](https://www.theverge.com/tech/876521/ayaneo-next-2-windows-handheld-ryzen-ai-max-395-indiegogo-preorder)
- - [Global installed base of active smartphones grew 2% in 2025; eight OEMs had 200M+ active devices each, and nearly one in four active smartphones is an iPhone &lpar;Tarun Pathak/Counterpoint Research&rpar;](http://www.techmeme.com/260210/p50#a260210p50)
- - [The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating](https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/)
- - [RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees](https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/)<!-- TECH:END -->
+ - [Find My outage &amp; iCloud issues hit users once again](https://appleinsider.com/articles/26/02/10/find-my-outage-icloud-issues-hit-users-once-again?utm_source=rss)
+ - [CrossOver 26 update adds compatibility for blockbuster &#39;Expedition 33&#39; and &#39;HellDivers 2&#39;](https://appleinsider.com/articles/26/02/10/crossover-26-update-adds-compatibility-for-blockbuster-expedition-33-and-helldivers-2?utm_source=rss)
+ - [Sen. Warren plans bipartisan legislation with Sen. Banks that bans the sale of certain AI chips to China after Dario Amodei met with Warren and other lawmakers &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/260210/p55#a260210p55)
+ - [Fitbit expands access to its AI health coach](https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios)
+ - [Boston Dynamics CEO Robert Playter steps down after more than 30 years with the company and plans to retire; CFO Amanda McMaster will take over as interim CEO &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/260210/p54#a260210p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord says &amp;#8216;vast majority&amp;#8217; of users won&amp;#8217;t see its new age verification setup](https://www.theverge.com/tech/876575/discord-age-verification-vast-majority-users-inference)
- - [Palantir CEO Alex Karp Recorded a Video About ICE for His Employees](https://www.wired.com/story/palantir-ceo-alex-karp-employee-questions-on-ice/)
- - [Bernstein&#39;s $340 Apple target bets on Services instead of hardware growth](https://appleinsider.com/articles/26/02/10/bernsteins-340-apple-target-bets-on-services-instead-of-hardware-growth?utm_source=rss)
- - [Slack messages: some staffers complained about Marc Benioff making jokes about ICE at a Salesforce event, including about ICE surveilling employee travel &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/260210/p49#a260210p49)
- - [FBI releases recovered footage from Nancy Guthrie&amp;#8217;s Nest cam](https://www.theverge.com/tech/876542/fbi-nancy-guthrie-nest-cam-video)<!-- TECH:END -->
+ - [Five members of xAI&#39;s 12-person founding team have now left the company, with four of the departures coming in just the last year &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260210/p51#a260210p51)
+ - [Ayaneo’s new Windows handheld will cost up to $4,299 with maxed out specs](https://www.theverge.com/tech/876521/ayaneo-next-2-windows-handheld-ryzen-ai-max-395-indiegogo-preorder)
+ - [Global installed base of active smartphones grew 2% in 2025; eight OEMs had 200M+ active devices each, and nearly one in four active smartphones is an iPhone &lpar;Tarun Pathak/Counterpoint Research&rpar;](http://www.techmeme.com/260210/p50#a260210p50)
+ - [The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating](https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/)
+ - [RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees](https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

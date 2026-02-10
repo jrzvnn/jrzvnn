@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh wow](http://9gag.com/gag/aE05deM)
  - 😝 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
- - 💣 [Typical thai experience](http://9gag.com/gag/apR7eD8)
+ - 😝 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
+ - 💣 [Genetics is cruel.](http://9gag.com/gag/a1mjvNP)
  - 😝 [Negative for them, positive to anybody else.](http://9gag.com/gag/a5Q3eno)
- - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
+ - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
 
 ---
 

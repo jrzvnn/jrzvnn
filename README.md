@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Goes to Trial in a New Mexico Child Safety Case. Here&#39;s What&#39;s at Stake](https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/)
- - [Sources: the Trump administration plans to spare US hyperscalers from upcoming tariffs on chips; exemptions would be based on TSMC&#39;s US investment commitments &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/260209/p42#a260209p42)
- - [The US NLRB abandons its 2024 case accusing SpaceX of illegally firing eight engineers and signals it will steer clear of future cases against the company &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/260209/p41#a260209p41)
- - [Need a Splashy Last Minute Valentine’s Day Gift? Try This Dessert Box](https://www.wired.com/story/valentines-day-boarderie-dessert-board/)
- - [AT&amp;T&#39;s Turbo Live Keeps Your Phone Connected During Big Stadium Events](https://www.cnet.com/tech/mobile/att-turbo-live-cuts-cell-congestion/)<!-- TECH:END -->
+ - [Discord Plans to Treat Some Users as Teens Until They Verify Their Age](https://www.cnet.com/tech/services-and-software/discord-teen-by-default-age-category/)
+ - [OpenAI Responds to Critical Super Bowl Commercials by Putting Ads in ChatGPT &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/260209/p46#a260209p46)
+ - [In opening statements in New Mexico&#39;s suit against Meta, state prosecutors argue Meta misrepresented the safety of its platforms, as Meta&#39;s attorney pushes back &lpar;Morgan Lee/Associated Press&rpar;](http://www.techmeme.com/260209/p45#a260209p45)
+ - [New Mexico goes to trial to accuse Meta of facilitating child predators](https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial)
+ - [A new Apple Watch app for Rivian electric vehicles is in the works](https://appleinsider.com/articles/26/02/10/a-new-apple-watch-app-for-rivian-electric-vehicles-is-in-the-works?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

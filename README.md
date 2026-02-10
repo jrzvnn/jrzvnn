@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
- - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 💣 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
- - 😝 [Infinity flying paper](http://9gag.com/gag/aQz56Ed)
- - 👉 [Scary scary](http://9gag.com/gag/aPALNpR)<!-- MEMES:END -->
+ - 😝 [Crab](http://9gag.com/gag/awy2NN8)
+ - 😝 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
+ - 💣 [Wife&#39;s morning routine vs husband&#39;s morning routine](http://9gag.com/gag/aD29B6G)
+ - 😝 [If I\u2019m 5 cents off paying my taxes. I go right to jail.](http://9gag.com/gag/aKG54yQ)
+ - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
 
 ---
 

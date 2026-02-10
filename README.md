@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese AI companies like Alibaba and Tencent are releasing new models and spending millions on &quot;red envelope&quot; freebies to woo users ahead of the Lunar New Year &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/260210/p5#a260210p5)
  - [PitchBook: European VC investments rose 5% YoY to a post-pandemic high of €66B in 2025; AI-related deals accounted for 35%+, or €23.5B, up from €17.7B in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/260210/p4#a260210p4)
  - [French President Emmanuel Macron says the US could retaliate against EU countries, including France and Spain, over plans to ban children from social media &lpar;Leila Abboud/Financial Times&rpar;](http://www.techmeme.com/260210/p3#a260210p3)
  - [Paris-based online corporate event booking marketplace Naboo raised a $70M Series B led by Lightspeed with participation from Notion Capital, ISAI, and Ternel &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260210/p2#a260210p2)
- - [A court filing in the iyO-OpenAI trademark case reveals OpenAI won&#39;t use the name &quot;io&quot; for its AI device, which isn&#39;t expected to ship before February 2027 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260210/p1#a260210p1)
- - [KitchenAid Promo Codes and Discounts: Save Up to $500](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [A court filing in the iyO-OpenAI trademark case reveals OpenAI won&#39;t use the name &quot;io&quot; for its AI device, which isn&#39;t expected to ship before February 2027 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260210/p1#a260210p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

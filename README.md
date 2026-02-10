@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Crab](http://9gag.com/gag/awy2NN8)
  - 😝 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
- - 💣 [Wife&#39;s morning routine vs husband&#39;s morning routine](http://9gag.com/gag/aD29B6G)
- - 😝 [If I\u2019m 5 cents off paying my taxes. I go right to jail.](http://9gag.com/gag/aKG54yQ)
- - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
+ - 💣 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
+ - 😝 [Infinity flying paper](http://9gag.com/gag/aQz56Ed)
+ - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
 
 ---
 

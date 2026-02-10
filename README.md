@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
- - 😝 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
- - 💣 [Genetics is cruel.](http://9gag.com/gag/a1mjvNP)
- - 😝 [Negative for them, positive to anybody else.](http://9gag.com/gag/a5Q3eno)
- - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
+ - 😝 [Japanese Female Police Motorcycle Officer](http://9gag.com/gag/ae9wKLv)
+ - 😝 [Ahead of the curve.](http://9gag.com/gag/a4PyKo6)
+ - 💣 [Watching this old book get a stunning makeover is so satisfying](http://9gag.com/gag/aVv5jp8)
+ - 😝 [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)
+ - 👉 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)<!-- MEMES:END -->
 
 ---
 

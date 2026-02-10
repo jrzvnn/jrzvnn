@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boston Dynamics CEO Robert Playter is stepping down after six years](https://www.theverge.com/tech/876819/boston-dynamics-robots-ceo-steps-down-hyundai)
+ - [A profile of Anthropic and its key executives like Chris Olah, and a look at Project Vend, an internal &quot;Claudius&quot; experiment to run the office vending machine &lpar;Gideon Lewis-Kraus/New Yorker&rpar;](http://www.techmeme.com/260210/p62#a260210p62)
+ - [Bezos could have saved the Washington Post’s local news and sports reporters](https://www.theverge.com/policy/876834/bezos-washington-post-sports-local-reporters)
  - [Samsung announces a Galaxy Unpacked event on February 25 at 10am PT in San Francisco, where it is expected to introduce the Galaxy S26 series &lpar;Max Buondonno/The Shortcut&rpar;](http://www.techmeme.com/260210/p61#a260210p61)
- - [LayerZero Labs unveils a new Layer 1 blockchain called Zero, in collaboration with Citadel Securities, DTCC, Google Cloud, and Intercontinental Exchange &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/260210/p60#a260210p60)
- - [Discord age verification not a requirement for every user, but still bad](https://appleinsider.com/articles/26/02/10/discord-age-verification-not-a-requirement-for-every-user-but-still-bad?utm_source=rss)
- - [ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports](https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer)
- - [Samsung’s next Unpacked is confirmed for later this month](https://www.theverge.com/tech/876717/samsung-galaxy-unpacked-february-2026-s26)<!-- TECH:END -->
+ - [LayerZero Labs unveils a new Layer 1 blockchain called Zero, in collaboration with Citadel Securities, DTCC, Google Cloud, and Intercontinental Exchange &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/260210/p60#a260210p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

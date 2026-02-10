@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloud computing provider Nebius agrees to buy Tavily, which helps AI agents search for up-to-date information for tasks like coding, a source says for $275M &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260210/p29#a260210p29)
- - [NYC-based AI video startup Runway raised a $315M Series E led by General Atlantic, a source says at a $5.3B valuation, and plans to build AI world models &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260210/p28#a260210p28)
- - [Cadence rolls out ChipStack, an AI agent to help chipmakers like Nvidia speed up the complex chip design process by up to 10x by building a &quot;mental model&quot; &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260210/p27#a260210p27)
- - [Framework Desktop Review: Small and Mighty, but Shy of Upgrade Greatness](https://www.cnet.com/tech/computing/framework-desktop-review-small-and-mighty-but-not-the-ideal-of-a-desktop/)
- - [The Best TVs We’ve Reviewed in 2026: Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [Jeffrey Epstein’s digital cleanup crew](https://www.theverge.com/report/876081/jeffrey-epstein-files-seo-google-digital-footprint-emails)
+ - [UK&#39;s FCA adds Blockchain.com to its registry of licensed crypto companies; the company withdrew its initial application in 2022 to pivot operations to Lithuania &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/260210/p34#a260210p34)
+ - [This vintage-looking camera has been updated for shooting the stars](https://www.theverge.com/tech/876264/om-system-om-3-astro-digital-camera-stars-astrophotography)
+ - [Matia, which helps enterprises consolidate their data management operations, raised a $21M Series A led by Red Dot Capital, bringing its total funding to $31M+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260210/p33#a260210p33)
+ - [Cisco launches the Silicon One G300 switch chip, made using TSMC&#39;s 3nm technology to compete with Broadcom and Nvidia in the AI infrastructure market &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260210/p32#a260210p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

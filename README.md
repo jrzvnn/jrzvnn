@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oktoberfest, here we come??](http://9gag.com/gag/a87NrY3)
  - 😝 [Oh wow](http://9gag.com/gag/aE05deM)
- - 💣 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
- - 😝 [Crab](http://9gag.com/gag/awy2NN8)
- - 👉 [Typical thai experience](http://9gag.com/gag/apR7eD8)<!-- MEMES:END -->
+ - 😝 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
+ - 💣 [Typical thai experience](http://9gag.com/gag/apR7eD8)
+ - 😝 [Negative for them, positive to anybody else.](http://9gag.com/gag/a5Q3eno)
+ - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
 
 ---
 

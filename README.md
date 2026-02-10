@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
- - 😝 [Typical thai experience](http://9gag.com/gag/apR7eD8)
- - 💣 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 😝 [Wife&#39;s morning routine vs husband&#39;s morning routine](http://9gag.com/gag/aD29B6G)
+ - 💣 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
  - 😝 [Negative for them, positive to anybody else.](http://9gag.com/gag/a5Q3eno)
- - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
+ - 👉 [No Comment.](http://9gag.com/gag/avyw27W)<!-- MEMES:END -->
 
 ---
 

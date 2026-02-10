@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook rolls out the ability for users to animate their profile picture and to restyle Stories or Memories using preset options or a text-based AI prompt &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260210/p47#a260210p47)
- - [This GoPro and Lens Bundle Is $200 Off](https://www.wired.com/story/gopro-hero-lens-bundle-deal-226/)
- - [Under-screen Touch ID may not just be for iPhone](https://appleinsider.com/articles/26/02/10/under-screen-touch-id-may-not-just-be-for-iphone?utm_source=rss)
- - [Facebook can animate your profile pic with AI](https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai)
- - [Sam Bankman-Fried, who is serving 25 years for fraud, files a long-shot request for a new trial, says new witness testimony could refute the prosecution&#39;s case &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260210/p46#a260210p46)<!-- TECH:END -->
+ - [Slack messages: some staffers complained about Marc Benioff making jokes about ICE at a Salesforce event, including about ICE surveilling employee travel &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/260210/p49#a260210p49)
+ - [FBI releases recovered footage from Nancy Guthrie&amp;#8217;s Nest cam](https://www.theverge.com/tech/876542/fbi-nancy-guthrie-nest-cam-video)
+ - [iPhone 18 Pro prices should stay static as Apple cuts production costs](https://appleinsider.com/articles/26/02/10/iphone-18-pro-prices-should-stay-static-as-apple-cuts-production-costs?utm_source=rss)
+ - [Tech Oversight Project: ahead of a landmark social media addiction trial, Meta paid for 3,500+ ads on CNN, Fox, and others to promote Instagram&#39;s Teen Accounts &lpar;Annie Bang/Bloomberg&rpar;](http://www.techmeme.com/260210/p48#a260210p48)
+ - [TikTok-Linked AI Video Tool Debuts With a Catch for the US](https://www.cnet.com/tech/services-and-software/tiktok-creator-bytedances-new-ai-video-tool-is-here-but-theres-a-catch-for-those-in-the-us/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

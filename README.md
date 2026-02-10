@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Monday again..](http://9gag.com/gag/aXP38d6)
- - 😝 [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)
- - 💣 [Stars revolving around a super massive black hole](http://9gag.com/gag/a1mjp28)
- - 😝 [Funny title](http://9gag.com/gag/aryw1DX)
- - 👉 [Wife&#39;s morning routine vs husband&#39;s morning routine](http://9gag.com/gag/aD29B6G)<!-- MEMES:END -->
+ - 😝 [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
+ - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 💣 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
+ - 😝 [Infinity flying paper](http://9gag.com/gag/aQz56Ed)
+ - 👉 [Scary scary](http://9gag.com/gag/aPALNpR)<!-- MEMES:END -->
 
 ---
 

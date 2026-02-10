@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord Plans to Treat Some Users as Teens Until They Verify Their Age](https://www.cnet.com/tech/services-and-software/discord-teen-by-default-age-category/)
- - [OpenAI Responds to Critical Super Bowl Commercials by Putting Ads in ChatGPT &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/260209/p46#a260209p46)
- - [In opening statements in New Mexico&#39;s suit against Meta, state prosecutors argue Meta misrepresented the safety of its platforms, as Meta&#39;s attorney pushes back &lpar;Morgan Lee/Associated Press&rpar;](http://www.techmeme.com/260209/p45#a260209p45)
- - [New Mexico goes to trial to accuse Meta of facilitating child predators](https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial)
- - [A new Apple Watch app for Rivian electric vehicles is in the works](https://appleinsider.com/articles/26/02/10/a-new-apple-watch-app-for-rivian-electric-vehicles-is-in-the-works?utm_source=rss)<!-- TECH:END -->
+ - [As OpenAI prepares to retire GPT-4o on February 13, sources say it was scrapped partly because OpenAI struggled to contain 4o&#39;s potential for harmful outcomes &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p48#a260209p48)
+ - [Spotlight got a huge upgrade in macOS Tahoe, here&#39;s how to use it](https://appleinsider.com/inside/macos-tahoe/tips/spotlight-got-a-huge-upgrade-in-macos-tahoe-heres-how-to-use-it?utm_source=rss)
+ - [London-based Tem, which uses AI to optimize energy transactions for businesses, raised a $75M Series B led by Lightspeed, a source says at a $300M+ valuation &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260209/p47#a260209p47)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-10/)
+ - [Discord Plans to Treat Some Users as Teens Until They Verify Their Age](https://www.cnet.com/tech/services-and-software/discord-teen-by-default-age-category/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

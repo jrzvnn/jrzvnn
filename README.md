@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: Save $300 on Apple&#39;s 15-inch MacBook Air with 32GB RAM, 1TB SSD](https://appleinsider.com/articles/26/02/10/flash-deal-save-300-on-apples-15-inch-macbook-air-with-32gb-ram-1tb-ssd?utm_source=rss)
- - [Microsoft is automatically replacing Secure Boot certificates for older PCs before they expire later this year; Secure Boot was first introduced in 2011 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260210/p44#a260210p44)
- - [Sources: KPMG negotiated lower fees from auditor Grant Thornton by arguing that AI will make it cheaper to do the work, and threatened to find a new auditor &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/260210/p43#a260210p43)
- - [An Ark showed me augmented reality’s true artistic potential](https://www.theverge.com/gadgets/875869/an-ark-mixed-reality-simon-stephens-sarah-frankcom-todd-eckert)
- - [Gary Shapiro plans to step down as CEO of the Consumer Technology Association, the owner and producer of annual CES events in Las Vegas, after 35+ years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260210/p42#a260210p42)<!-- TECH:END -->
+ - [Facebook rolls out the ability for users to animate their profile picture and to restyle Stories or Memories using preset options or a text-based AI prompt &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260210/p47#a260210p47)
+ - [This GoPro and Lens Bundle Is $200 Off](https://www.wired.com/story/gopro-hero-lens-bundle-deal-226/)
+ - [Under-screen Touch ID may not just be for iPhone](https://appleinsider.com/articles/26/02/10/under-screen-touch-id-may-not-just-be-for-iphone?utm_source=rss)
+ - [Facebook can animate your profile pic with AI](https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai)
+ - [Sam Bankman-Fried, who is serving 25 years for fraud, files a long-shot request for a new trial, says new witness testimony could refute the prosecution&#39;s case &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260210/p46#a260210p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

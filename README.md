@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kalshi says it registered over $1B in trades related to the Super Bowl; Piper Sandler analysts say Kalshi and Polymarket saw ~$1.2B in total trading on Sunday &lpar;Bloomberg&rpar;](http://www.techmeme.com/260210/p58#a260210p58)
- - [Trump’s new ‘Buy American’ requirement for EV charging would dramatically curtail build-out](https://www.theverge.com/transportation/876703/trump-ev-charging-buy-american-nevi-funds)
- - [Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE](https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/)
- - [Discord says that the &quot;vast majority of people can continue using Discord exactly as they do today&quot; without needing to use a face scan or ID to verify their age &lpar;The Verge&rpar;](http://www.techmeme.com/260210/p57#a260210p57)
- - [Robinhood reports Q4 revenue up 27% YoY to $1.28B, below est., crypto revenue down 38% to $221M, below est., and net income down 34%; HOOD drops 5%+ after hours &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p56#a260210p56)<!-- TECH:END -->
+ - [Samsung announces a Galaxy Unpacked event on February 25 at 10am PT in San Francisco, where it is expected to introduce the Galaxy S26 series &lpar;Max Buondonno/The Shortcut&rpar;](http://www.techmeme.com/260210/p61#a260210p61)
+ - [LayerZero Labs unveils a new Layer 1 blockchain called Zero, in collaboration with Citadel Securities, DTCC, Google Cloud, and Intercontinental Exchange &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/260210/p60#a260210p60)
+ - [Discord age verification not a requirement for every user, but still bad](https://appleinsider.com/articles/26/02/10/discord-age-verification-not-a-requirement-for-every-user-but-still-bad?utm_source=rss)
+ - [ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports](https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer)
+ - [Samsung’s next Unpacked is confirmed for later this month](https://www.theverge.com/tech/876717/samsung-galaxy-unpacked-february-2026-s26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crab](http://9gag.com/gag/awy2NN8)
- - 😝 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
- - 💣 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
- - 😝 [Infinity flying paper](http://9gag.com/gag/aQz56Ed)
- - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
+ - 😝 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
+ - 😝 [Scary scary](http://9gag.com/gag/aPALNpR)
+ - 💣 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 😝 [How do you do, fellow kids](http://9gag.com/gag/aMV5epV)
+ - 👉 [Typical thai experience](http://9gag.com/gag/apR7eD8)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crab](http://9gag.com/gag/awy2NN8)
  - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 💣 [God help me](http://9gag.com/gag/ae9wjmb)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aQz5PgK)
- - 👉 [Podcast](http://9gag.com/gag/a7ogjKw)<!-- MEMES:END -->
+ - 😝 [Podcast](http://9gag.com/gag/a7ogjKw)
+ - 💣 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
+ - 😝 [Nice......!!!!!!](http://9gag.com/gag/aMV5266)
+ - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
 
 ---
 

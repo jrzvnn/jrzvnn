@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
- - 😝 [No Comment.](http://9gag.com/gag/avyw27W)
+ - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 😝 [Debbie is still single and doesnt understand why](http://9gag.com/gag/aAyAWw0)
  - 💣 [Crab](http://9gag.com/gag/awy2NN8)
- - 😝 [Infinity flying paper](http://9gag.com/gag/aQz56Ed)
- - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
+ - 😝 [Funny title](http://9gag.com/gag/aryw1DX)
+ - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Crab](http://9gag.com/gag/awy2NN8)
+ - 😝 [Podcast](http://9gag.com/gag/a7ogjKw)
+ - 💣 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
  - 😝 [No Comment.](http://9gag.com/gag/avyw27W)
- - 😝 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
- - 💣 [Podcast](http://9gag.com/gag/a7ogjKw)
- - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
  - 👉 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)<!-- MEMES:END -->
 
 ---

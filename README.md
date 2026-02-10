@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satellite executives, investors, and researchers say Elon Musk&#39;s aim to launch space data centers by around 2029 is highly ambitious, but the idea is plausible &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260210/p15#a260210p15)
- - [The UK CMA says Apple and Google committed to making app store changes to ensure fairness to developers and consumers, and asks market players for their views &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/260210/p14#a260210p14)
- - [Munich-based Constellr, which builds thermal satellite imaging hardware and software, raised a €37M Series A, taking its total funding to €75M &lpar;Ingrid Lunden/Resilience Media&rpar;](http://www.techmeme.com/260210/p13#a260210p13)
- - [8 Best Space Heaters &lpar;2026&rpar;: Tested, Measured, and Mistreated](https://www.wired.com/gallery/the-best-space-heaters/)
- - [Samsung Galaxy A17 5G Review: Crippling Performance](https://www.wired.com/review/samsung-galaxy-a17-5g/)<!-- TECH:END -->
+ - [Cosmic Orange iPhone 17 Pro really helped China sales](https://appleinsider.com/articles/26/02/10/cosmic-orange-iphone-17-pro-really-helped-china-sales?utm_source=rss)
+ - [Health care navigation startup Solace, which matches patients with 2K+ advocates, raised $130M led by IVP at a $1B valuation, taking its total funding to $211M &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260210/p22#a260210p22)
+ - [UK gets Apple and Google to agree to easy App Store changes](https://appleinsider.com/articles/26/02/10/uk-gets-apple-and-google-to-agree-to-easy-app-store-changes?utm_source=rss)
+ - [Bretton AI, formerly Greenlite, which uses GenAI to investigate suspicious transactions and verify internal risk policy compliance, raised a $75M Series B &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/260210/p21#a260210p21)
+ - [6 Best Gaming Laptops &lpar;2026&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An OpenAI researcher who helped shape how models were built and priced says she quit after two years due to &quot;deep reservations&quot; about ads and OpenAI&#39;s strategy &lpar;Zoë Hitzig/New York Times&rpar;](http://www.techmeme.com/260211/p28#a260211p28)
- - [A Dutch court orders an investigation into alleged mismanagement at Chinese-owned chip company Nexperia and upholds the suspension of CEO Zhang Xuezheng &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p27#a260211p27)
- - [Meridian, which uses AI to make financial modeling and spreadsheets more &quot;predictable and auditable&quot;, exits stealth and raised a $17M seed at a $100M valuation &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260211/p26#a260211p26)
- - [Austin-based humanoid robot startup Apptronik raised $520M led by Google and others at a $5.5B valuation, up 3x from when it raised $350M in February 2025 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260211/p25#a260211p25)
- - [Recovery Slides Are My Feet&#39;s Best Friend. Here Are My Top Picks](https://www.cnet.com/health/fitness/best-recovery-slides-and-sandals/)<!-- TECH:END -->
+ - [Jerry Bruckheimer is working on a &quot;F1: The Movie&quot; sequel, but there are no guarantees](https://appleinsider.com/articles/26/02/11/jerry-bruckheimer-is-working-on-a-f1-the-movie-sequel-but-there-are-no-guarantees?utm_source=rss)
+ - [Source: to catch leakers, OpenAI security staff use a custom ChatGPT with access to Slack, email, and docs by cross-referencing news articles with access logs &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260211/p30#a260211p30)
+ - [Google Pixel 10A Rumors: Colors, Announce Date, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)
+ - [Diesel&amp;#8217;s wired earbuds look exactly like wired earbuds from Diesel](https://www.theverge.com/gadgets/877091/diesel-60458-wired-earbuds-headphones)
+ - [The Switch 2’s GameShare multiplayer turns this horror game into an unexpected comedy](https://www.theverge.com/games/876621/nintendo-switch-2-gameshare-tokyo-scramble)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

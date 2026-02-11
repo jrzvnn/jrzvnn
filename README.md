@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Toyota Highlander is now a three-row electric SUV with 320 miles of range](https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs)
- - [600 companies in Japan want the Epic treatment -- a free ride in Apple&#39;s ecosystem](https://appleinsider.com/articles/26/02/11/600-companies-in-japan-want-the-epic-treatment----a-free-ride-in-apples-ecosystem?utm_source=rss)
- - [Q&amp;A with Siemens CEO Roland Busch on the company&#39;s 170+ year history, automation, managing 320K staff, US manufacturing investments, augmenting LLMs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260210/p69#a260210p69)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 11, #506](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-11-506/)
- - [Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash)<!-- TECH:END -->
+ - [NYC-based Garner Health, a platform using data analytics to help workers find healthcare providers, raised a $118M Series D at a $1.35B valuation &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/260210/p72#a260210p72)
+ - [How to bring back macOS Launchpad with this neat command-line tool](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-macos-launchpad-with-this-neat-command-line-tool?utm_source=rss)
+ - [Tel Aviv-based Backslash Security, which safeguards enterprise software development from vibe coding risks, raised a $19M Series A, taking total funding to $27M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260210/p71#a260210p71)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Feb. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-feb-11/)
+ - [Isomorphic Labs, a Google DeepMind spinoff, unveils IsoDDE, a drug design system it says surpasses AlphaFold 3 in predicting biomolecular structures &lpar;Isomorphic Labs&rpar;](http://www.techmeme.com/260210/p70#a260210p70)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

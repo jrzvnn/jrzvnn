@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: London-based AI chip startup Olix, founded by James Dacombe, CEO of brain monitoring startup CoMind, raised $220M led by Hummingbird at a $1B+ valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260211/p2#a260211p2)
+ - [Sources: ByteDance plans to produce at least 100,000 units of its in-house AI inference chip in 2026, and is in talks with Samsung to manufacture it &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p1#a260211p1)
  - [NYC-based Garner Health, a platform using data analytics to help workers find healthcare providers, raised a $118M Series D at a $1.35B valuation &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/260210/p72#a260210p72)
  - [How to bring back macOS Launchpad with this neat command-line tool](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-macos-launchpad-with-this-neat-command-line-tool?utm_source=rss)
- - [Tel Aviv-based Backslash Security, which safeguards enterprise software development from vibe coding risks, raised a $19M Series A, taking total funding to $27M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260210/p71#a260210p71)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Feb. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-feb-11/)
- - [Isomorphic Labs, a Google DeepMind spinoff, unveils IsoDDE, a drug design system it says surpasses AlphaFold 3 in predicting biomolecular structures &lpar;Isomorphic Labs&rpar;](http://www.techmeme.com/260210/p70#a260210p70)<!-- TECH:END -->
+ - [Tel Aviv-based Backslash Security, which safeguards enterprise software development from vibe coding risks, raised a $19M Series A, taking total funding to $27M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260210/p71#a260210p71)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

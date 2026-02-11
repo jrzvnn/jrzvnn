@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - 😝 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 💣 [I feel its a good time to post this again](http://9gag.com/gag/aMV5eq6)
- - 😝 [Reality becomes the meme](http://9gag.com/gag/adBwNzM)
- - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
+ - 😝 [Erik owes his boss a beer and a firm handshake](http://9gag.com/gag/aYQ5bKN)
+ - 😝 [Passionate hater](http://9gag.com/gag/aQz5PYK)
+ - 💣 [Negative for them, positive to anybody else.](http://9gag.com/gag/a5Q3eno)
+ - 😝 [Woody Allen has been mentioned more than 7000 times in the Epstein files but so far there&#39;s no evidence that he cheated on his daughter.](http://9gag.com/gag/aRBdweq)
+ - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
 
 ---
 

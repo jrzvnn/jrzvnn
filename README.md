@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers find Kalshi and Polymarket bettors can more accurately predict economic data, earnings, and political events than analysts, likely due to incentives &lpar;Lydia DePillis/New York Times&rpar;](http://www.techmeme.com/260211/p16#a260211p16)
- - [A profile of South Korea&#39;s SK Hynix, a once unloved memory chipmaker that now enjoys 58% operating margins and a $438B market cap amid the global HBM shortage &lpar;Daniel Tudor/Financial Times&rpar;](http://www.techmeme.com/260211/p15#a260211p15)
- - [Jessie Diggins’ Starter Pack: Winter Olympics 2026](https://www.wired.com/story/cross-country-skier-jessie-digginss-winter-olympic-starter-pack/)
- - [Wacom MovinkPad 11 Tablet Review: A Portable Sketch Pad](https://www.wired.com/review/wacom-movinkpad-11/)
- - [JPMorgan exec Naveen Mallela, global co-head of blockchain division Kinexys, steps down after 11 years at the bank; Kinexys handled $5B transactions per day &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/260211/p14#a260211p14)<!-- TECH:END -->
+ - [Shopify reports Q4 revenue up 31% YoY to $3.7B, vs. $3.59B est., and forecasts Q1 revenue growth at a low-thirties percentage rate, vs. 25% est.; SHOP jumps 10% &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/260211/p19#a260211p19)
+ - [Mistral plans to spend €1.2B to build AI infrastructure in Sweden in partnership with EcoDataCenter, set to open in 2027 and its first investment outside France &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260211/p18#a260211p18)
+ - [Razer Huntsman V3 Pro 8KHz Review: A Keyboard for the Competitive](https://www.wired.com/review/razer-huntsman-v3-pro-8khz/)
+ - [Uber Eats adds AI assistant to help with grocery shopping](https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping)
+ - [Investigation: as Ford pushes its BlueCruise driving system, some drivers found it confusing to use, misunderstood its limitations, and didn&#39;t heed its warnings &lpar;Ryan Felton/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p17#a260211p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

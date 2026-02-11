@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why I wish I hadn’t bought my Samsung OLED TV](https://www.theverge.com/tech/877396/samsung-tv-software-volume-on-screen-display-switch-hdmi-input-tizen)
- - [Anthropic says it will upgrade power grid infrastructure, generate new power, and cover consumer price increases to minimize the effects of its data centers &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260211/p45#a260211p45)
- - [ICE Is Crashing the US Court System in Minnesota](https://www.wired.com/story/ice-crashing-us-court-system-minnesota/)
- - [Bernstein&#39;s $340 Apple target bets on Services instead of hardware growth](https://appleinsider.com/articles/26/02/10/bernsteins-340-apple-target-bets-on-services-instead-of-hardware-growth?utm_source=rss)
- - [Aurora says it will ‘triple’ its driverless truck network](https://www.theverge.com/transportation/877191/aurora-driverless-truck-triple-routes-texas)<!-- TECH:END -->
+ - [‘Heated Rivalry’ Is Bringing New Fans to Hockey. Does the Sport Deserve Them?](https://www.wired.com/story/winter-olympics-heated-rivalry-effect-lgbtq-inclusivity/)
+ - [50 years of Apple history is on display at the Computer History Museum](https://appleinsider.com/articles/26/02/11/50-years-of-apple-history-is-on-display-at-the-computer-history-museum?utm_source=rss)
+ - [Amazon Pharmacy to Offer Same-Day Delivery to 2,000 More Communities in 2026](https://www.cnet.com/tech/amazon-pharmacy-will-offer-same-day-delivery-to-2000-more-communities-in-2026/)
+ - [Social media addiction trial: Adam Mosseri says social media is not &quot;clinically addictive&quot; and that Meta was careful to test features used by young people &lpar;New York Times&rpar;](http://www.techmeme.com/260211/p46#a260211p46)
+ - [Google Pixel 10A Rumors: Colors, Announce Date, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

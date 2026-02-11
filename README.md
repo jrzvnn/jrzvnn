@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 😝 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
- - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
- - 😝 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
+ - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 💣 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
+ - 😝 [Smells different than hockey gloves](http://9gag.com/gag/a87ObGV)
  - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
 
 ---

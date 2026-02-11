@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
  - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
- - 😝 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
  - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
- - 😝 [My what?](http://9gag.com/gag/aXP1Ee6)
+ - 😝 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
  - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 ---

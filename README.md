@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean... How?](http://9gag.com/gag/arywvVX)
- - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
- - 💣 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
- - 😝 [What a marksman.](http://9gag.com/gag/ajPw6Qq)
- - 👉 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)<!-- MEMES:END -->
+ - 😝 [In Turkey, a man drove a forklift into a jewelry store, stole 150 grams of gold, and ran away on a donkey. You can&#39;t make this up.](http://9gag.com/gag/aXP1bDb)
+ - 😝 [Just like that...](http://9gag.com/gag/aBy5KeD)
+ - 💣 [Nice......!!!!!!](http://9gag.com/gag/aMV5266)
+ - 😝 [Eye contact](http://9gag.com/gag/ajPwr5R)
+ - 👉 [Steel Titan](http://9gag.com/gag/apRwq8b)<!-- MEMES:END -->
 
 ---
 

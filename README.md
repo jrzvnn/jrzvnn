@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
- - 😝 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
- - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
- - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - 👉 [Oh wow](http://9gag.com/gag/aE05deM)<!-- MEMES:END -->
+ - 😝 [20 yo: I consent men council: I consent Single 32 yo moms: well I don\u2019t](http://9gag.com/gag/aKG5zVW)
+ - 😝 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 💣 [Oh wow](http://9gag.com/gag/aE05deM)
+ - 😝 [Thanks for getting me through hard times. Females are on 9gag!](http://9gag.com/gag/aZZ5P7n)
+ - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
 
 ---
 

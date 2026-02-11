@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boston Dynamics CEO Robert Playter is stepping down after six years](https://www.theverge.com/tech/876819/boston-dynamics-robots-ceo-steps-down-hyundai)
- - [A profile of Anthropic and its key executives like Chris Olah, and a look at Project Vend, an internal &quot;Claudius&quot; experiment to run the office vending machine &lpar;Gideon Lewis-Kraus/New Yorker&rpar;](http://www.techmeme.com/260210/p62#a260210p62)
- - [Bezos could have saved the Washington Post’s local news and sports reporters](https://www.theverge.com/policy/876834/bezos-washington-post-sports-local-reporters)
- - [Samsung announces a Galaxy Unpacked event on February 25 at 10am PT in San Francisco, where it is expected to introduce the Galaxy S26 series &lpar;Max Buondonno/The Shortcut&rpar;](http://www.techmeme.com/260210/p61#a260210p61)
- - [LayerZero Labs unveils a new Layer 1 blockchain called Zero, in collaboration with Citadel Securities, DTCC, Google Cloud, and Intercontinental Exchange &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/260210/p60#a260210p60)<!-- TECH:END -->
+ - [The Toyota Highlander is now a three-row electric SUV with 320 miles of range](https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs)
+ - [600 companies in Japan want the Epic treatment -- a free ride in Apple&#39;s ecosystem](https://appleinsider.com/articles/26/02/11/600-companies-in-japan-want-the-epic-treatment----a-free-ride-in-apples-ecosystem?utm_source=rss)
+ - [Q&amp;A with Siemens CEO Roland Busch on the company&#39;s 170+ year history, automation, managing 320K staff, US manufacturing investments, augmenting LLMs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260210/p69#a260210p69)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 11, #506](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-11-506/)
+ - [Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

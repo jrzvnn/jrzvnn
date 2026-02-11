@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KPMG citing PitchBook data: UK fintech investment totaled almost $11B in 2025 across 418 deals, down from ~$13.4B in 2024 across 527 deals; Revolut raised $4B &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/260211/p11#a260211p11)
- - [Mazzer Philos Review &lpar;2026&rpar;: Sweet, Zero-Retention Grinds](https://www.wired.com/review/mazzer-philos-coffee-grinder/)
- - [Sources: Amazon, Google, and others plan to skirt Trump&#39;s $100K H-1B fee by finding workers in categories that don&#39;t include the fee, like existing H-1B holders &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p10#a260211p10)
- - [Mistral CEO Arthur Mensch says the startup&#39;s annualized revenue run rate was &quot;north of $400M&quot;, up from $20M a year ago, and it is set to hit $1B ARR by 2026-end &lpar;Financial Times&rpar;](http://www.techmeme.com/260211/p9#a260211p9)
- - [Best Presidents’ Day Mattress Sales of 2026](https://www.wired.com/story/best-presidents-day-mattress-sales-2026/)<!-- TECH:END -->
+ - [Researchers find Kalshi and Polymarket bettors can more accurately predict economic data, earnings, and political events than analysts, likely due to incentives &lpar;Lydia DePillis/New York Times&rpar;](http://www.techmeme.com/260211/p16#a260211p16)
+ - [A profile of South Korea&#39;s SK Hynix, a once unloved memory chipmaker that now enjoys 58% operating margins and a $438B market cap amid the global HBM shortage &lpar;Daniel Tudor/Financial Times&rpar;](http://www.techmeme.com/260211/p15#a260211p15)
+ - [Jessie Diggins’ Starter Pack: Winter Olympics 2026](https://www.wired.com/story/cross-country-skier-jessie-digginss-winter-olympic-starter-pack/)
+ - [Wacom MovinkPad 11 Tablet Review: A Portable Sketch Pad](https://www.wired.com/review/wacom-movinkpad-11/)
+ - [JPMorgan exec Naveen Mallela, global co-head of blockchain division Kinexys, steps down after 11 years at the bank; Kinexys handled $5B transactions per day &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/260211/p14#a260211p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI will be organized into four core areas: Grok&#39;s chatbot and voice products, Coding, Imagine, and Macrohard, which will build digital agents to run companies &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/260211/p48#a260211p48)
- - [Anthropic says it&amp;#8217;ll try to keep its data centers from raising electricity costs](https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge)
- - [Study of Buddhist Monks Finds Meditation Alters Brain Activity](https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/)
- - [Elon Musk announces an xAI reorganization that &quot;required parting ways with some people&quot;, after two xAI co-founders announced they were leaving this week &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260211/p47#a260211p47)
- - [‘Heated Rivalry’ Is Bringing New Fans to Hockey. Does the Sport Deserve Them?](https://www.wired.com/story/winter-olympics-heated-rivalry-effect-lgbtq-inclusivity/)<!-- TECH:END -->
+ - [Robinhood launches a public testnet for Robinhood Chain, an Ethereum Layer 2 network on Arbitrum supporting 24/7 trading, with a broader rollout later in 2026 &lpar;CoinDesk&rpar;](http://www.techmeme.com/260211/p49#a260211p49)
+ - [iOS 26.3 makes it easier to switch to Android](https://www.theverge.com/tech/877587/ios-26-3-released-transfer-to-android)
+ - [Anthropic Expands Claude&#39;s Free Tier With More Features](https://www.cnet.com/tech/services-and-software/anthropic-expands-claudes-free-tier-with-more-features/)
+ - [Diablo Celebrates 30th Anniversary With New Warlock Class, Coming to 3 Games This Year](https://www.cnet.com/tech/gaming/diablo-30th-anniversary-new-warlock-class/)
+ - [xAI will be organized into four core areas: Grok&#39;s chatbot and voice products, Coding, Imagine, and Macrohard, which will build digital agents to run companies &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/260211/p48#a260211p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

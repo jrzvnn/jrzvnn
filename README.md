@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Fidji Simo on ChatGPT ads, OpenAI&#39;s efforts to ship a new model soon to end Sam Altman&#39;s Code Red, Anthropic&#39;s Super Bowl ads, Sora, Jony Ive, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260211/p8#a260211p8)
  - [GPT-5.3-Codex and Claude Opus 4.6 can handle the full app development lifecycle on their own, a sign of what&#39;s coming for most knowledge work within five years &lpar;Matt Shumer&rpar;](http://www.techmeme.com/260211/p7#a260211p7)
  - [A study of 596 Indian high-tech startups suggests that homegrown entrepreneurs fare better over the long run than returning diaspora with overseas experience &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260211/p6#a260211p6)
  - [An interview with LastPass CEO Karim Toubba on the company-wide changes after the 2022 data breach, new services such as controls to curb shadow SaaS, and more &lpar;Charlie Osborne/ZDNET&rpar;](http://www.techmeme.com/260211/p5#a260211p5)
- - [Ant, which elevated its health unit to the same level as Alipay and its lending businesses, is betting on AI-powered healthcare to fuel its next phase of growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/260211/p4#a260211p4)
- - [South Korea&#39;s Science Ministry blames Coupang&#39;s massive 2025 data leak on management failures and accuses it of defying a government order to preserve data logs &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p3#a260211p3)<!-- TECH:END -->
+ - [Ant, which elevated its health unit to the same level as Alipay and its lending businesses, is betting on AI-powered healthcare to fuel its next phase of growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/260211/p4#a260211p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sex Toys for Every Type of Body and Ability &lpar;2026&rpar;](https://www.wired.com/gallery/best-accessible-sex-toys/)
- - [Q&amp;A with Fidji Simo on ChatGPT ads, OpenAI&#39;s efforts to ship a new model soon to end Sam Altman&#39;s Code Red, Anthropic&#39;s Super Bowl ads, Sora, Jony Ive, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260211/p8#a260211p8)
- - [GPT-5.3-Codex and Claude Opus 4.6 can handle the full app development lifecycle on their own, a sign of what&#39;s coming for most knowledge work within five years &lpar;Matt Shumer&rpar;](http://www.techmeme.com/260211/p7#a260211p7)
- - [A study of 596 Indian high-tech startups suggests that homegrown entrepreneurs fare better over the long run than returning diaspora with overseas experience &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260211/p6#a260211p6)
- - [An interview with LastPass CEO Karim Toubba on the company-wide changes after the 2022 data breach, new services such as controls to curb shadow SaaS, and more &lpar;Charlie Osborne/ZDNET&rpar;](http://www.techmeme.com/260211/p5#a260211p5)<!-- TECH:END -->
+ - [KPMG citing PitchBook data: UK fintech investment totaled almost $11B in 2025 across 418 deals, down from ~$13.4B in 2024 across 527 deals; Revolut raised $4B &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/260211/p11#a260211p11)
+ - [Mazzer Philos Review &lpar;2026&rpar;: Sweet, Zero-Retention Grinds](https://www.wired.com/review/mazzer-philos-coffee-grinder/)
+ - [Sources: Amazon, Google, and others plan to skirt Trump&#39;s $100K H-1B fee by finding workers in categories that don&#39;t include the fee, like existing H-1B holders &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p10#a260211p10)
+ - [Mistral CEO Arthur Mensch says the startup&#39;s annualized revenue run rate was &quot;north of $400M&quot;, up from $20M a year ago, and it is set to hit $1B ARR by 2026-end &lpar;Financial Times&rpar;](http://www.techmeme.com/260211/p9#a260211p9)
+ - [Best Presidents’ Day Mattress Sales of 2026](https://www.wired.com/story/best-presidents-day-mattress-sales-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

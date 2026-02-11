@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Full satellite internet on iPhone may not be that far away](https://appleinsider.com/articles/26/02/11/full-satellite-internet-on-iphone-may-not-be-that-far-away?utm_source=rss)
- - [xAI all-hands meeting: Elon Musk tells staff that xAI needs a factory on the moon to build AI satellites and a massive catapult to launch them into space &lpar;New York Times&rpar;](http://www.techmeme.com/260211/p23#a260211p23)
- - [El Paso flights grounded 10 days for ‘special security reasons’](https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security)
- - [Filing: San Jose Mayor Matt Mahan, set to run for California governor to succeed Newsom, gets donations from Sergey Brin, Roblox CEO David Baszucki, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/260211/p22#a260211p22)
- - [Don&#39;t Freak Out, but You&#39;re Probably Eating a Credit Card&#39;s Worth of Plastic With These 8 Foods](https://www.cnet.com/health/nutrition/foods-likely-contain-microplastics/)<!-- TECH:END -->
+ - [An OpenAI researcher who helped shape how models were built and priced says she quit after two years due to &quot;deep reservations&quot; about ads and OpenAI&#39;s strategy &lpar;Zoë Hitzig/New York Times&rpar;](http://www.techmeme.com/260211/p28#a260211p28)
+ - [A Dutch court orders an investigation into alleged mismanagement at Chinese-owned chip company Nexperia and upholds the suspension of CEO Zhang Xuezheng &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p27#a260211p27)
+ - [Meridian, which uses AI to make financial modeling and spreadsheets more &quot;predictable and auditable&quot;, exits stealth and raised a $17M seed at a $100M valuation &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260211/p26#a260211p26)
+ - [Austin-based humanoid robot startup Apptronik raised $520M led by Google and others at a $5.5B valuation, up 3x from when it raised $350M in February 2025 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260211/p25#a260211p25)
+ - [Recovery Slides Are My Feet&#39;s Best Friend. Here Are My Top Picks](https://www.cnet.com/health/fitness/best-recovery-slides-and-sandals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

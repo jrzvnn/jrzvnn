@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I feel its a good time to post this again](http://9gag.com/gag/aMV5eq6)
- - 😝 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
- - 💣 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 😝 [I mean... How?](http://9gag.com/gag/arywvVX)
- - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
+ - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 😝 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 💣 [I feel its a good time to post this again](http://9gag.com/gag/aMV5eq6)
+ - 😝 [Reality becomes the meme](http://9gag.com/gag/adBwNzM)
+ - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
 
 ---
 

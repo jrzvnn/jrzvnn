@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mega Deal Zone: 1TB M4 Pro MacBook Pro laptops plunge to as low as $1,799](https://appleinsider.com/articles/26/02/11/mega-deal-zone-1tb-m4-pro-macbook-pro-laptops-plunge-to-as-low-as-1799?utm_source=rss)
- - [Source: OpenAI disbanded its mission alignment team and transferred its staffers; Joshua Achiam, who led the team, will take on a new title of &quot;chief futurist&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260211/p33#a260211p33)
- - [Payment infrastructure provider Rezolve Ai agrees to acquire UK-based cashback rewards company Reward for $230M &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/260211/p32#a260211p32)
- - [TikTok launches Local Feeds in the US](https://www.theverge.com/tech/877161/tiktok-us-launches-local-feeds)
- - [CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)<!-- TECH:END -->
+ - [Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links](https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution)
+ - [Here are the 40 best Presidents Day deals you can already shop](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)
+ - [Why ‘deleted’ doesn’t mean gone: How police recovered Nancy Guthrie’s doorbell footage](https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage)
+ - [Threads’ new ‘Dear Algo’ feature lets you tell the algorithm what you want to see](https://www.theverge.com/tech/876610/meta-threads-dear-algo-algorithm)
+ - [Amazon Pharmacy plans to bring same-day prescription delivery to almost 4,500 US cities and towns by the end of 2026, adding nearly new 2,000 communities &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260211/p36#a260211p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

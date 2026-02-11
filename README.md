@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify reports Q4 revenue up 31% YoY to $3.7B, vs. $3.59B est., and forecasts Q1 revenue growth at a low-thirties percentage rate, vs. 25% est.; SHOP jumps 10% &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/260211/p19#a260211p19)
- - [Mistral plans to spend €1.2B to build AI infrastructure in Sweden in partnership with EcoDataCenter, set to open in 2027 and its first investment outside France &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260211/p18#a260211p18)
- - [Razer Huntsman V3 Pro 8KHz Review: A Keyboard for the Competitive](https://www.wired.com/review/razer-huntsman-v3-pro-8khz/)
- - [Uber Eats adds AI assistant to help with grocery shopping](https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping)
- - [Investigation: as Ford pushes its BlueCruise driving system, some drivers found it confusing to use, misunderstood its limitations, and didn&#39;t heed its warnings &lpar;Ryan Felton/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p17#a260211p17)<!-- TECH:END -->
+ - [Full satellite internet on iPhone may not be that far away](https://appleinsider.com/articles/26/02/11/full-satellite-internet-on-iphone-may-not-be-that-far-away?utm_source=rss)
+ - [xAI all-hands meeting: Elon Musk tells staff that xAI needs a factory on the moon to build AI satellites and a massive catapult to launch them into space &lpar;New York Times&rpar;](http://www.techmeme.com/260211/p23#a260211p23)
+ - [El Paso flights grounded 10 days for ‘special security reasons’](https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security)
+ - [Filing: San Jose Mayor Matt Mahan, set to run for California governor to succeed Newsom, gets donations from Sergey Brin, Roblox CEO David Baszucki, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/260211/p22#a260211p22)
+ - [Don&#39;t Freak Out, but You&#39;re Probably Eating a Credit Card&#39;s Worth of Plastic With These 8 Foods](https://www.cnet.com/health/nutrition/foods-likely-contain-microplastics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

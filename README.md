@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jerry Bruckheimer is working on a &quot;F1: The Movie&quot; sequel, but there are no guarantees](https://appleinsider.com/articles/26/02/11/jerry-bruckheimer-is-working-on-a-f1-the-movie-sequel-but-there-are-no-guarantees?utm_source=rss)
- - [Source: to catch leakers, OpenAI security staff use a custom ChatGPT with access to Slack, email, and docs by cross-referencing news articles with access logs &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260211/p30#a260211p30)
- - [Google Pixel 10A Rumors: Colors, Announce Date, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)
- - [Diesel&amp;#8217;s wired earbuds look exactly like wired earbuds from Diesel](https://www.theverge.com/gadgets/877091/diesel-60458-wired-earbuds-headphones)
- - [The Switch 2’s GameShare multiplayer turns this horror game into an unexpected comedy](https://www.theverge.com/games/876621/nintendo-switch-2-gameshare-tokyo-scramble)<!-- TECH:END -->
+ - [Mega Deal Zone: 1TB M4 Pro MacBook Pro laptops plunge to as low as $1,799](https://appleinsider.com/articles/26/02/11/mega-deal-zone-1tb-m4-pro-macbook-pro-laptops-plunge-to-as-low-as-1799?utm_source=rss)
+ - [Source: OpenAI disbanded its mission alignment team and transferred its staffers; Joshua Achiam, who led the team, will take on a new title of &quot;chief futurist&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260211/p33#a260211p33)
+ - [Payment infrastructure provider Rezolve Ai agrees to acquire UK-based cashback rewards company Reward for $230M &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/260211/p32#a260211p32)
+ - [TikTok launches Local Feeds in the US](https://www.theverge.com/tech/877161/tiktok-us-launches-local-feeds)
+ - [CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aQz5PgK)
- - 😝 [Passionate hater](http://9gag.com/gag/aQz5PYK)
- - 💣 [God help me](http://9gag.com/gag/ae9wjmb)
- - 😝 [Just like that...](http://9gag.com/gag/aBy5KeD)
- - 👉 [Steel Titan](http://9gag.com/gag/apRwq8b)<!-- MEMES:END -->
+ - 😝 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
+ - 😝 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
+ - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
- - 😝 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
- - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 😝 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
  - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
+ - 💣 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 😝 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 👉 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)<!-- MEMES:END -->
 
 ---
 

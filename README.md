@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
  - 😝 [I mean... How?](http://9gag.com/gag/arywvVX)
- - 💣 [God help me](http://9gag.com/gag/ae9wjmb)
- - 😝 [Here comes the queen for our king...](http://9gag.com/gag/agmw0x1)
- - 👉 [Eye contact](http://9gag.com/gag/ajPwr5R)<!-- MEMES:END -->
+ - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
+ - 💣 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
+ - 😝 [What a marksman.](http://9gag.com/gag/ajPw6Qq)
+ - 👉 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)<!-- MEMES:END -->
 
 ---
 

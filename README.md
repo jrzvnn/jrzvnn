@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Heated Rivalry’ Is Bringing New Fans to Hockey. Does the Sport Deserve Them?](https://www.wired.com/story/winter-olympics-heated-rivalry-effect-lgbtq-inclusivity/)
- - [50 years of Apple history is on display at the Computer History Museum](https://appleinsider.com/articles/26/02/11/50-years-of-apple-history-is-on-display-at-the-computer-history-museum?utm_source=rss)
- - [Amazon Pharmacy to Offer Same-Day Delivery to 2,000 More Communities in 2026](https://www.cnet.com/tech/amazon-pharmacy-will-offer-same-day-delivery-to-2000-more-communities-in-2026/)
- - [Social media addiction trial: Adam Mosseri says social media is not &quot;clinically addictive&quot; and that Meta was careful to test features used by young people &lpar;New York Times&rpar;](http://www.techmeme.com/260211/p46#a260211p46)
- - [Google Pixel 10A Rumors: Colors, Announce Date, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
+ - [xAI will be organized into four core areas: Grok&#39;s chatbot and voice products, Coding, Imagine, and Macrohard, which will build digital agents to run companies &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/260211/p48#a260211p48)
+ - [Anthropic says it&amp;#8217;ll try to keep its data centers from raising electricity costs](https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge)
+ - [Study of Buddhist Monks Finds Meditation Alters Brain Activity](https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/)
+ - [Elon Musk announces an xAI reorganization that &quot;required parting ways with some people&quot;, after two xAI co-founders announced they were leaving this week &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260211/p47#a260211p47)
+ - [‘Heated Rivalry’ Is Bringing New Fans to Hockey. Does the Sport Deserve Them?](https://www.wired.com/story/winter-olympics-heated-rivalry-effect-lgbtq-inclusivity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

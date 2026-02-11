@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Siri testing isn&#39;t going well, new features probably wont ship in iOS 26.4](https://appleinsider.com/articles/26/02/11/siri-testing-isnt-going-well-new-features-probably-wont-ship-in-ios-264?utm_source=rss)
+ - [Anthropic says Claude users on the free plan can now create files, connect to external services, use skills, and more &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/260211/p42#a260211p42)
+ - [Sources: Apple&#39;s Siri upgrade has run into snags recently, possibly pushing some personalized Siri and other features from iOS 26.4 to iOS 26.5, due in May &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260211/p41#a260211p41)
  - [OpenAI announced Monday that the US military will get access to ChatGPT via GenAI.mil; sources say the move came after months of deliberation among employees &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/260211/p40#a260211p40)
- - [The ICE Expansion Won&#39;t Happen in the Dark](https://www.wired.com/story/ice-expansion-wont-happen-in-the-dark/)
- - [Apple didn&#39;t forget macOS Sonoma, macOS Sequoia &amp; iOS 18 on patch day](https://appleinsider.com/articles/26/02/11/apple-didnt-forget-macos-sonoma-macos-sequoia-ios-18-on-patch-day?utm_source=rss)
- - [Google releases Android 17 Beta 1, which requires developers to optimize apps for foldables and large screens, includes performance improvements, and more &lpar;Sanuj Bhatia/Android Central&rpar;](http://www.techmeme.com/260211/p39#a260211p39)
- - [I Loved My OpenClaw AI Agent—Until It Turned on Me](https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/)<!-- TECH:END -->
+ - [The ICE Expansion Won&#39;t Happen in the Dark](https://www.wired.com/story/ice-expansion-wont-happen-in-the-dark/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

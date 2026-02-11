@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
- - 😝 [I mean... How?](http://9gag.com/gag/arywvVX)
- - 💣 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
  - 😝 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
- - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
+ - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 😝 [My what?](http://9gag.com/gag/aXP1Ee6)
+ - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 ---
 

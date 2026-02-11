@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)
  - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
- - 😝 [Funny title](http://9gag.com/gag/aryw1DX)
- - 💣 [After the win, he invited every janitor to join him for a photo with the championship trophy.](http://9gag.com/gag/aMV52OR)
- - 😝 [Eye contact](http://9gag.com/gag/ajPwr5R)
- - 👉 [Nutty Putty Feelings](http://9gag.com/gag/abAwXD8)<!-- MEMES:END -->
+ - 💣 [Funny title](http://9gag.com/gag/aryw1DX)
+ - 😝 [After the win, he invited every janitor to join him for a photo with the championship trophy.](http://9gag.com/gag/aMV52OR)
+ - 👉 [Negative for them, positive to anybody else.](http://9gag.com/gag/a5Q3eno)<!-- MEMES:END -->
 
 ---
 

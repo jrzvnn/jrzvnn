@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aQz5PgK)
- - 💣 [Thanks for getting me through hard times. Females are on 9gag!](http://9gag.com/gag/aZZ5P7n)
- - 😝 [He summoned his ghost](http://9gag.com/gag/a1mjAzR)
- - 👉 [Steel Titan](http://9gag.com/gag/apRwq8b)<!-- MEMES:END -->
+ - 😝 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 😝 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
+ - 💣 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 😝 [What a marksman.](http://9gag.com/gag/ajPw6Qq)
+ - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
 
 ---
 

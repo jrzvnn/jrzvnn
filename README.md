@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AppLovin reports Q4 revenue up 66% YoY to $1.66B, vs. $1.61B est., and forecasts Q1 revenue and adjusted EBITDA above estimates; APP drops 6%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260211/p50#a260211p50)
+ - [Two more xAI co-founders are among those leaving after the SpaceX merger](https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger)
  - [Robinhood launches a public testnet for Robinhood Chain, an Ethereum Layer 2 network on Arbitrum supporting 24/7 trading, with a broader rollout later in 2026 &lpar;CoinDesk&rpar;](http://www.techmeme.com/260211/p49#a260211p49)
  - [iOS 26.3 makes it easier to switch to Android](https://www.theverge.com/tech/877587/ios-26-3-released-transfer-to-android)
- - [Anthropic Expands Claude&#39;s Free Tier With More Features](https://www.cnet.com/tech/services-and-software/anthropic-expands-claudes-free-tier-with-more-features/)
- - [Diablo Celebrates 30th Anniversary With New Warlock Class, Coming to 3 Games This Year](https://www.cnet.com/tech/gaming/diablo-30th-anniversary-new-warlock-class/)
  - [xAI will be organized into four core areas: Grok&#39;s chatbot and voice products, Coding, Imagine, and Macrohard, which will build digital agents to run companies &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/260211/p48#a260211p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why I wish I hadn’t bought my Samsung OLED TV](https://www.theverge.com/tech/877396/samsung-tv-software-volume-on-screen-display-switch-hdmi-input-tizen)
+ - [Anthropic says it will upgrade power grid infrastructure, generate new power, and cover consumer price increases to minimize the effects of its data centers &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260211/p45#a260211p45)
+ - [ICE Is Crashing the US Court System in Minnesota](https://www.wired.com/story/ice-crashing-us-court-system-minnesota/)
  - [Bernstein&#39;s $340 Apple target bets on Services instead of hardware growth](https://appleinsider.com/articles/26/02/10/bernsteins-340-apple-target-bets-on-services-instead-of-hardware-growth?utm_source=rss)
- - [Aurora says it will ‘triple’ its driverless truck network](https://www.theverge.com/transportation/877191/aurora-driverless-truck-triple-routes-texas)
- - [Siri testing isn&#39;t going well, new features probably won&#39;t ship in iOS 26.4](https://appleinsider.com/articles/26/02/11/siri-testing-isnt-going-well-new-features-probably-wont-ship-in-ios-264?utm_source=rss)
- - [Apple keeps hitting bumps with its overhauled Siri](https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized)
- - [EssilorLuxottica says it sold over 7M Meta AI glasses in 2025, up from the 2M that the company sold in 2023 and 2024 combined &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260211/p44#a260211p44)<!-- TECH:END -->
+ - [Aurora says it will ‘triple’ its driverless truck network](https://www.theverge.com/transportation/877191/aurora-driverless-truck-triple-routes-texas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

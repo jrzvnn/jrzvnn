@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 😝 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
- - 💣 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - 😝 [What a marksman.](http://9gag.com/gag/ajPw6Qq)
- - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
+ - 😝 [Shut up and take my money!](http://9gag.com/gag/aQz5PgK)
+ - 😝 [Passionate hater](http://9gag.com/gag/aQz5PYK)
+ - 💣 [God help me](http://9gag.com/gag/ae9wjmb)
+ - 😝 [Just like that...](http://9gag.com/gag/aBy5KeD)
+ - 👉 [Steel Titan](http://9gag.com/gag/apRwq8b)<!-- MEMES:END -->
 
 ---
 

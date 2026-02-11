@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links](https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution)
- - [Here are the 40 best Presidents Day deals you can already shop](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)
- - [Why ‘deleted’ doesn’t mean gone: How police recovered Nancy Guthrie’s doorbell footage](https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage)
- - [Threads’ new ‘Dear Algo’ feature lets you tell the algorithm what you want to see](https://www.theverge.com/tech/876610/meta-threads-dear-algo-algorithm)
- - [Amazon Pharmacy plans to bring same-day prescription delivery to almost 4,500 US cities and towns by the end of 2026, adding nearly new 2,000 communities &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260211/p36#a260211p36)<!-- TECH:END -->
+ - [Apple didn&#39;t forget macOS Sonoma, macOS Sequoia &amp; iOS 18 on patch day](https://appleinsider.com/articles/26/02/11/apple-didnt-forget-macos-sonoma-macos-sequoia-ios-18-on-patch-day?utm_source=rss)
+ - [Google releases Android 17 Beta 1, which requires developers to optimize apps for foldables and large screens, includes performance improvements, and more &lpar;Sanuj Bhatia/Android Central&rpar;](http://www.techmeme.com/260211/p39#a260211p39)
+ - [I Loved My OpenClaw AI Agent—Until It Turned on Me](https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/)
+ - [Greyhound sequel begins filming, shifting from Atlantic to Pacific](https://appleinsider.com/articles/26/02/11/greyhound-sequel-begins-filming-shifting-from-atlantic-to-pacific?utm_source=rss)
+ - [Samsung’s offering up to $900 of trade-in credit toward its new phones](https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with LastPass CEO Karim Toubba on the company-wide changes after the 2022 data breach, new services such as controls to curb shadow SaaS, and more &lpar;Charlie Osborne/ZDNET&rpar;](http://www.techmeme.com/260211/p5#a260211p5)
+ - [Ant, which elevated its health unit to the same level as Alipay and its lending businesses, is betting on AI-powered healthcare to fuel its next phase of growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/260211/p4#a260211p4)
+ - [South Korea&#39;s Science Ministry blames Coupang&#39;s massive 2025 data leak on management failures and accuses it of defying a government order to preserve data logs &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p3#a260211p3)
  - [Docs: London-based AI chip startup Olix, founded by James Dacombe, CEO of brain monitoring startup CoMind, raised $220M led by Hummingbird at a $1B+ valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260211/p2#a260211p2)
- - [Sources: ByteDance plans to produce at least 100,000 units of its in-house AI inference chip in 2026, and is in talks with Samsung to manufacture it &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p1#a260211p1)
- - [NYC-based Garner Health, a platform using data analytics to help workers find healthcare providers, raised a $118M Series D at a $1.35B valuation &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/260210/p72#a260210p72)
- - [How to bring back macOS Launchpad with this neat command-line tool](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-macos-launchpad-with-this-neat-command-line-tool?utm_source=rss)
- - [Tel Aviv-based Backslash Security, which safeguards enterprise software development from vibe coding risks, raised a $19M Series A, taking total funding to $27M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260210/p71#a260210p71)<!-- TECH:END -->
+ - [Sources: ByteDance plans to produce at least 100,000 units of its in-house AI inference chip in 2026, and is in talks with Samsung to manufacture it &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p1#a260211p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

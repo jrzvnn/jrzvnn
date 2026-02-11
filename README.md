@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)
- - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
- - 💣 [Funny title](http://9gag.com/gag/aryw1DX)
- - 😝 [After the win, he invited every janitor to join him for a photo with the championship trophy.](http://9gag.com/gag/aMV52OR)
- - 👉 [Negative for them, positive to anybody else.](http://9gag.com/gag/a5Q3eno)<!-- MEMES:END -->
+ - 😝 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
+ - 😝 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
+ - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 👉 [Oh wow](http://9gag.com/gag/aE05deM)<!-- MEMES:END -->
 
 ---
 

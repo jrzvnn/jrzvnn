@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
- - 💣 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
- - 😝 [Nice!](http://9gag.com/gag/ayNwpjb)
- - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
+ - 😝 [Origin Story](http://9gag.com/gag/a6Z6dRA)
+ - 😝 [I know who can do cheaper](http://9gag.com/gag/a5Q3P2L)
+ - 💣 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 😝 [Actor James Van Der Beek has passed away from cancer at age 48. He leaves behind a wife and six children.](http://9gag.com/gag/an7wXdb)
+ - 👉 [What a marksman.](http://9gag.com/gag/ajPw6Qq)<!-- MEMES:END -->
 
 ---
 

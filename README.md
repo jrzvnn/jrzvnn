@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean... How?](http://9gag.com/gag/arywvVX)
- - 😝 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 💣 [He even got shot at](http://9gag.com/gag/a0eqP2Q)
+ - 😝 [We had dreams](http://9gag.com/gag/aBy5Qr2)
+ - 😝 [Return to monke](http://9gag.com/gag/a0eqPwB)
+ - 💣 [Vindication](http://9gag.com/gag/an7wYN5)
  - 😝 [Five stars for the lawn, one star for my wife](http://9gag.com/gag/a87ObrZ)
- - 👉 [Actor James Van Der Beek has passed away from cancer at age 48. He leaves behind a wife and six children.](http://9gag.com/gag/an7wXdb)<!-- MEMES:END -->
+ - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 ---
 

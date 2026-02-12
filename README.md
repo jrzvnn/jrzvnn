@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
- - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
- - 💣 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
- - 😝 [This will be your legacy!](http://9gag.com/gag/aW450eq)
- - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
+ - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 💣 [God help me](http://9gag.com/gag/ae9wjmb)
+ - 😝 [Nice!](http://9gag.com/gag/ayNwpjb)
+ - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
 
 ---
 

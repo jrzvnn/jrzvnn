@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 😝 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 💣 [I am sorry friend](http://9gag.com/gag/amowNDd)
- - 😝 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
+ - 😝 [I am sorry friend](http://9gag.com/gag/amowNDd)
+ - 💣 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
+ - 😝 [In 38.330 years I&#39;ll be a millionaire!](http://9gag.com/gag/aND5Zxb)
  - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
 ---

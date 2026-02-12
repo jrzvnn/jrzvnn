@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney agrees to pay $2.75M to settle California AG Rob Bonta&#39;s 2024 lawsuit alleging Disney violated CCPA by failing to honor consumers&#39; data opt-out requests &lpar;Alyssa Ray/The Wrap&rpar;](http://www.techmeme.com/260211/p56#a260211p56)
- - [US FTC chair urges Tim Cook to review Apple News&#39; terms and curation after a study claimed the app promoted &quot;leftist outlets&quot; and suppressed conservative ones &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260211/p55#a260211p55)
- - [Sources: the Pentagon is pushing OpenAI, Anthropic, and others to make their AI tools available on classified networks without the standard user restrictions &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p54#a260211p54)
- - [Remember James Van Der Beek by Streaming Dawson&#39;s Creek and His Other Roles](https://www.cnet.com/tech/services-and-software/where-to-stream-james-van-der-beek-best-dawsons-creek/)
- - [Orico MiniPro Dock Case review: Mini Mac Pro, mini bandwidth](https://appleinsider.com/articles/25/09/26/orico-minipro-dock-case-review-mini-mac-pro-mini-bandwidth?utm_source=rss)<!-- TECH:END -->
+ - [iOS 26.3 arrives with a simpler way to transfer from iPhone to Android](https://appleinsider.com/articles/26/02/11/ios-263-arrives-with-a-simpler-way-to-transfer-from-iphone-to-android?utm_source=rss)
+ - [YC&#39;s Garry Tan launches &quot;Garry&#39;s List&quot;, a nonprofit dedicated to supporting &quot;moderate/pragmatic&quot; political candidates and pro-growth policies in California &lpar;Joe Rivano Barros/Mission Local&rpar;](http://www.techmeme.com/260211/p60#a260211p60)
+ - [FTC uses selective Apple News study to ask Apple to stop promoting &#39;leftist outlets&#39;](https://appleinsider.com/articles/26/02/12/ftc-uses-selective-apple-news-study-to-ask-apple-to-stop-promoting-leftist-outlets?utm_source=rss)
+ - [Microsoft fixed a vulnerability in Notepad in Windows 11 allowing attackers to execute remote programs by tricking users into clicking malicious Markdown links &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260211/p59#a260211p59)
+ - [How to manage your iPhone notifications on iOS 26](https://appleinsider.com/articles/26/02/12/how-to-manage-your-iphone-notifications-on-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

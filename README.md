@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Wave of Unexplained Bot Traffic Is Sweeping the Web](https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/)
+ - [In one swoop, Trump kills US greenhouse gas regulations](https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change)
+ - [Ever, which says it is the first &quot;AI-native, full-stack&quot; retail marketplace for electric vehicles, raised a $31M Series A led by Eclipse &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260212/p46#a260212p46)
  - [Anthropic says its run-rate revenue hit $14B, growing over 10x annually in the past three years, and Claude Code&#39;s run-rate revenue hit $2.5B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260212/p45#a260212p45)
- - [Anthropic raised a $30B Series G from GIC, Coatue, Founders Fund, Sequoia, Nvidia, and others at a $380B post-money valuation &lpar;Anthropic&rpar;](http://www.techmeme.com/260212/p44#a260212p44)
- - [Two powerful, OLED-equipped gaming laptops are hundreds off](https://www.theverge.com/gadgets/878209/asus-acer-oled-rtx-5070ti-gaming-laptop-deal-sale)
- - [Spotify says AI is helping it speed up coding and product velocity and its best developers &quot;have not written a single line of code since December&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260212/p43#a260212p43)
- - [OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity](https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/)<!-- TECH:END -->
+ - [Anthropic raised a $30B Series G from GIC, Coatue, Founders Fund, Sequoia, Nvidia, and others at a $380B post-money valuation &lpar;Anthropic&rpar;](http://www.techmeme.com/260212/p44#a260212p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

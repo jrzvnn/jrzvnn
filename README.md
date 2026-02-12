@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didero, which provides an agentic AI layer that integrates with ERP systems to automate supply chains, raised a $30M Series A co-led by Chemistry and Headline &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260212/p56#a260212p56)
- - [Instacart reports Q4 revenue up 12% YoY to $992M vs. $974M est., gross transaction value up 14% to $9.85B, gives strong Q1 guidance; CART jumps 14%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260212/p55#a260212p55)
- - [PlayStation State of Play February 2026: all the news and trailers](https://www.theverge.com/games/877875/playstation-state-of-play-february-2026-ps5-news-trailers)
- - [Roku reports Q4 revenue up 16% YoY to $1.39B, vs. $1.35B est., and an $80.5M net income, vs. a $35.5M loss in Q4 2024; ROKU jumps 9%+ after hours &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/260212/p54#a260212p54)
- - [Airbnb reports Q4 revenue up 12% YoY to $2.78B, vs. $2.72B est., Nights and Seats Booked up 10% to 121.9M, and forecasts Q1 revenue above estimates &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260212/p53#a260212p53)<!-- TECH:END -->
+ - [In a memo to US lawmakers, OpenAI accused DeepSeek of using distillation techniques to train the next generation of R1 and &quot;free-ride&quot; on leading US AI models &lpar;Bloomberg&rpar;](http://www.techmeme.com/260212/p58#a260212p58)
+ - [Coinbase reports Q4 revenue down 22% YoY to $1.78B, vs. $1.84B est., transaction revenue down 37% to $983M, a net loss of $667M, vs. a $1.3B profit in Q4 2024 &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/260212/p57#a260212p57)
+ - [‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](https://www.wired.com/story/uncanny-valley-podcast-ice-expansion-palantir-workers-ethical-concerns-openclaw-ai-assistants/)
+ - [NASA Drove Its Mars Rover Using AI for the First Time. Here&#39;s How It Went](https://www.cnet.com/science/space/nasa-perseverance-ai-driving-anthropic-claude/)
+ - [Didero, which provides an agentic AI layer that integrates with ERP systems to automate supply chains, raised a $30M Series A co-led by Chemistry and Headline &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260212/p56#a260212p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

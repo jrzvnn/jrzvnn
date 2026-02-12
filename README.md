@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Private equity and private credit groups&#39; big bets on SaaS companies, the biggest area of PE activity in the past decade, risk being derailed by the rise of AI &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p13#a260212p13)
- - [SoftBank Group reports Q3 net profit of $1.6B after its Vision Fund posted a $2.4B gain, as a jump in the value of its OpenAI investment helped offset losses &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260212/p12#a260212p12)
- - [Sources: some OpenAI execs were surprised by WSJ&#39;s report that the company was targeting a Q4 2026 IPO; OpenAI hopes to triple its ~$13B 2025 revenue in 2026 &lpar;New York Times&rpar;](http://www.techmeme.com/260212/p11#a260212p11)
- - [Some of the biggest VC firms are backing both OpenAI and Anthropic, breaking a taboo by investing in competing startups, as the AI race reshapes venture capital &lpar;Bloomberg&rpar;](http://www.techmeme.com/260212/p10#a260212p10)
- - [Google unveils WAXAL, a new open speech dataset for 21 African languages to ease speech technology development; African institutions own the dataset &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/260212/p9#a260212p9)<!-- TECH:END -->
+ - [Many Adjustable Bed Frames Have a “Zero Gravity” Feature. I Tried It for a Week](https://www.wired.com/story/what-its-like-to-sleep-in-zero-gravity/)
+ - [The Best Hearing Aids of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)
+ - [The Fight Over US Climate Rules Is Just Beginning](https://www.wired.com/story/the-fight-over-us-climate-rules-is-just-beginning/)
+ - [Meta&#39;s auditor Ernst &amp; Young raised a red flag over the financial engineering Meta used to keep its $27B Hyperion data center project off its balance sheet &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/260212/p14#a260212p14)
+ - [15 Best Bed Frames &lpar;2026&rpar;, Tested in Our Homes](https://www.wired.com/gallery/best-bed-frames/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
+ - 😝 [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
  - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
  - 💣 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
- - 😝 [Mystery solved](http://9gag.com/gag/agmwvQv)
- - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
+ - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
+ - 👉 [Actor James Van Der Beek has passed away from cancer at age 48. He leaves behind a wife and six children.](http://9gag.com/gag/an7wXdb)<!-- MEMES:END -->
 
 ---
 

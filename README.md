@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We had dreams](http://9gag.com/gag/aBy5Qr2)
- - 😝 [Return to monke](http://9gag.com/gag/a0eqPwB)
- - 💣 [Vindication](http://9gag.com/gag/an7wYN5)
- - 😝 [Five stars for the lawn, one star for my wife](http://9gag.com/gag/a87ObrZ)
- - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
+ - 😝 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
+ - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 💣 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 😝 [Nice!](http://9gag.com/gag/ayNwpjb)
+ - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
 
 ---
 

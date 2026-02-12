@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Origin Story](http://9gag.com/gag/a6Z6dRA)
- - 😝 [I know who can do cheaper](http://9gag.com/gag/a5Q3P2L)
- - 💣 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
  - 😝 [Actor James Van Der Beek has passed away from cancer at age 48. He leaves behind a wife and six children.](http://9gag.com/gag/an7wXdb)
- - 👉 [What a marksman.](http://9gag.com/gag/ajPw6Qq)<!-- MEMES:END -->
+ - 💣 [What a marksman.](http://9gag.com/gag/ajPw6Qq)
+ - 😝 [My usual blind dates](http://9gag.com/gag/apRw0dp)
+ - 👉 [Mystery solved](http://9gag.com/gag/agmwvQv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Gorilla Tag is weathering the VR winter](https://www.theverge.com/column/877473/gorilla-tag-vr-winter-quest)
- - [Sony launches the $330 WF-1000XM6 earbuds, with AI-powered beamforming mics for enhanced voice call clarity, improved ANC, and hands-free Gemini on Android &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260212/p32#a260212p32)
- - [The surprising case for AI judges](https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview)
- - [Google updates Gemini 3 Deep Think to better solve modern science, research, and engineering challenges and expands it via the Gemini API to some researchers &lpar;The Keyword&rpar;](http://www.techmeme.com/260212/p31#a260212p31)
- - [DHS announces the end of its “surge operation” in Minneapolis, but not entirely](https://www.theverge.com/policy/878017/dhs-ends-minneapolis-operation-metro-surge-tom-homan)<!-- TECH:END -->
+ - [No, Apple Music didn&#39;t fire Jay-Z over Bad Bunny Super Bowl Halftime Show](https://appleinsider.com/articles/26/02/12/no-apple-music-didnt-fire-jay-z-over-bad-bunny-super-bowl-halftime-show?utm_source=rss)
+ - [A YouTube Apple Vision Pro app is finally here, with 3D video support and more](https://appleinsider.com/articles/26/02/12/a-youtube-apple-vision-pro-app-is-finally-here-with-3d-video-support-and-more?utm_source=rss)
+ - [Opaque, which offers enterprise tools for data privacy in AI workflows, raised a $24M Series B at a $300M valuation, bringing its total raised to $55.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260212/p35#a260212p35)
+ - [El Paso airspace closure was reportedly triggered by the CBP’s use of an anti-drone laser](https://www.theverge.com/policy/878108/el-paso-airspace-closure-cbp-anti-drone-laser)
+ - [Premier League Soccer: Stream Brentford vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brentford-vs-arsenal-live-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

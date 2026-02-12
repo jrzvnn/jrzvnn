@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppLovin reports Q4 revenue up 66% YoY to $1.66B, vs. $1.61B est., and forecasts Q1 revenue and adjusted EBITDA above estimates; APP drops 6%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260211/p50#a260211p50)
- - [Two more xAI co-founders are among those leaving after the SpaceX merger](https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger)
- - [Robinhood launches a public testnet for Robinhood Chain, an Ethereum Layer 2 network on Arbitrum supporting 24/7 trading, with a broader rollout later in 2026 &lpar;CoinDesk&rpar;](http://www.techmeme.com/260211/p49#a260211p49)
- - [iOS 26.3 makes it easier to switch to Android](https://www.theverge.com/tech/877587/ios-26-3-released-transfer-to-android)
- - [xAI will be organized into four core areas: Grok&#39;s chatbot and voice products, Coding, Imagine, and Macrohard, which will build digital agents to run companies &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/260211/p48#a260211p48)<!-- TECH:END -->
+ - [Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch](https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs)
+ - [Russia removes WhatsApp, Facebook, and Instagram from a Roskomnadzor-run online directory, essentially blocking them in the country without workarounds &lpar;Financial Times&rpar;](http://www.techmeme.com/260211/p52#a260211p52)
+ - [&#39;Severance&#39; acquired by Apple for $70 million, expect a 4-season run and spinoffs](https://appleinsider.com/articles/26/02/12/severance-acquired-by-apple-for-70-million-expect-a-4-season-run-and-spinoffs?utm_source=rss)
+ - [Cisco reports Q2 revenue up 10% YoY to $15.35B, vs. $15.12B est., and forecasts Q3 adjusted EPS only in line with estimates; CSCO drops 7%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260211/p51#a260211p51)
+ - [March&#39;s Full Blood Moon Will Feature a Total Lunar Eclipse: Here&#39;s When to See It](https://www.cnet.com/science/space/marchs-full-moon-is-coming-with-a-total-lunar-eclipse-heres-when-to-see-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

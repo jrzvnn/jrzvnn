@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26.3 arrives with a simpler way to transfer from iPhone to Android](https://appleinsider.com/articles/26/02/11/ios-263-arrives-with-a-simpler-way-to-transfer-from-iphone-to-android?utm_source=rss)
- - [YC&#39;s Garry Tan launches &quot;Garry&#39;s List&quot;, a nonprofit dedicated to supporting &quot;moderate/pragmatic&quot; political candidates and pro-growth policies in California &lpar;Joe Rivano Barros/Mission Local&rpar;](http://www.techmeme.com/260211/p60#a260211p60)
- - [FTC uses selective Apple News study to ask Apple to stop promoting &#39;leftist outlets&#39;](https://appleinsider.com/articles/26/02/12/ftc-uses-selective-apple-news-study-to-ask-apple-to-stop-promoting-leftist-outlets?utm_source=rss)
- - [Microsoft fixed a vulnerability in Notepad in Windows 11 allowing attackers to execute remote programs by tricking users into clicking malicious Markdown links &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260211/p59#a260211p59)
- - [How to manage your iPhone notifications on iOS 26](https://appleinsider.com/articles/26/02/12/how-to-manage-your-iphone-notifications-on-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [Lenovo reports Q3 revenue up 18% YoY to $22.2B on strong PC sales ahead of expected memory price hikes and rising AI server demand; net income fell 21% to $546M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260212/p4#a260212p4)
+ - [Mustafa Suleyman says Microsoft is pursuing &quot;true self-sufficiency&quot; in AI by building enterprise- and healthcare-focused models and reducing reliance on OpenAI &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260212/p3#a260212p3)
+ - [The US DOJ says Peter Williams, former boss of L3Harris&#39; Trenchant, stole and sold tools that can hack millions of computers worldwide to a Russian broker &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260212/p2#a260212p2)
+ - [The US CBP signs a one-year Clearview AI deal, granting access to its facial recognition tool for &quot;tactical targeting&quot; and &quot;strategic counter-network analysis&quot; &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/260212/p1#a260212p1)
+ - [iOS 26.3 arrives with a simpler way to transfer from iPhone to Android](https://appleinsider.com/articles/26/02/11/ios-263-arrives-with-a-simpler-way-to-transfer-from-iphone-to-android?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

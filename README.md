@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US jury finds Apple did not infringe Optis&#39; 4G wireless technology patents, after two earlier trial verdicts Optis had won were overturned &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260212/p60#a260212p60)
+ - [A surprise God of War prequel is out on the PS5 right now](https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer)
+ - [The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap](https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/)
  - [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled)
- - [Russia confirms it has blocked WhatsApp, citing Meta&#39;s &quot;unwillingness to comply with Russian law&quot;, and proposes that Russians switch to the state-owned Max app &lpar;Reuters&rpar;](http://www.techmeme.com/260212/p59#a260212p59)
- - [In a memo to US lawmakers, OpenAI accused DeepSeek of using distillation techniques to train the next generation of R1 and &quot;free-ride&quot; on leading US AI models &lpar;Bloomberg&rpar;](http://www.techmeme.com/260212/p58#a260212p58)
- - [Coinbase reports Q4 revenue down 22% YoY to $1.78B, vs. $1.84B est., transaction revenue down 37% to $983M, a net loss of $667M, vs. a $1.3B profit in Q4 2024 &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/260212/p57#a260212p57)
- - [‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](https://www.wired.com/story/uncanny-valley-podcast-ice-expansion-palantir-workers-ethical-concerns-openclaw-ai-assistants/)<!-- TECH:END -->
+ - [Russia confirms it has blocked WhatsApp, citing Meta&#39;s &quot;unwillingness to comply with Russian law&quot;, and proposes that Russians switch to the state-owned Max app &lpar;Reuters&rpar;](http://www.techmeme.com/260212/p59#a260212p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

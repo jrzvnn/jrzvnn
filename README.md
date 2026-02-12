@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
- - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - 💣 [God help me](http://9gag.com/gag/ae9wjmb)
- - 😝 [Nice!](http://9gag.com/gag/ayNwpjb)
- - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
+ - 😝 [Nice......!!!!!!](http://9gag.com/gag/aMV5266)
+ - 😝 [How should we see the Epstein connection?](http://9gag.com/gag/ae9w3rb)
+ - 💣 [Nice!](http://9gag.com/gag/ayNwpjb)
+ - 😝 [Steel Titan](http://9gag.com/gag/apRwq8b)
+ - 👉 [We had dreams](http://9gag.com/gag/aBy5Qr2)<!-- MEMES:END -->
 
 ---
 

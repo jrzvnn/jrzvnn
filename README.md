@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch](https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs)
- - [Russia removes WhatsApp, Facebook, and Instagram from a Roskomnadzor-run online directory, essentially blocking them in the country without workarounds &lpar;Financial Times&rpar;](http://www.techmeme.com/260211/p52#a260211p52)
- - [&#39;Severance&#39; acquired by Apple for $70 million, expect a 4-season run and spinoffs](https://appleinsider.com/articles/26/02/12/severance-acquired-by-apple-for-70-million-expect-a-4-season-run-and-spinoffs?utm_source=rss)
- - [Cisco reports Q2 revenue up 10% YoY to $15.35B, vs. $15.12B est., and forecasts Q3 adjusted EPS only in line with estimates; CSCO drops 7%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260211/p51#a260211p51)
- - [March&#39;s Full Blood Moon Will Feature a Total Lunar Eclipse: Here&#39;s When to See It](https://www.cnet.com/science/space/marchs-full-moon-is-coming-with-a-total-lunar-eclipse-heres-when-to-see-it/)<!-- TECH:END -->
+ - [Disney agrees to pay $2.75M to settle California AG Rob Bonta&#39;s 2024 lawsuit alleging Disney violated CCPA by failing to honor consumers&#39; data opt-out requests &lpar;Alyssa Ray/The Wrap&rpar;](http://www.techmeme.com/260211/p56#a260211p56)
+ - [US FTC chair urges Tim Cook to review Apple News&#39; terms and curation after a study claimed the app promoted &quot;leftist outlets&quot; and suppressed conservative ones &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260211/p55#a260211p55)
+ - [Sources: the Pentagon is pushing OpenAI, Anthropic, and others to make their AI tools available on classified networks without the standard user restrictions &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p54#a260211p54)
+ - [Remember James Van Der Beek by Streaming Dawson&#39;s Creek and His Other Roles](https://www.cnet.com/tech/services-and-software/where-to-stream-james-van-der-beek-best-dawsons-creek/)
+ - [Orico MiniPro Dock Case review: Mini Mac Pro, mini bandwidth](https://appleinsider.com/articles/25/09/26/orico-minipro-dock-case-review-mini-mac-pro-mini-bandwidth?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

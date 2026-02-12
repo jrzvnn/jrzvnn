@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
- - 😝 [Oh wait](http://9gag.com/gag/aD25w6G)
- - 💣 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
  - 😝 [I need your worst Gifs.](http://9gag.com/gag/ayNwpG8)
- - 👉 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)<!-- MEMES:END -->
+ - 😝 [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
+ - 💣 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
+ - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 ---
 

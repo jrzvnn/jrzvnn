@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic&#39;s latest funding round includes part of the $15B commitment from Microsoft and Nvidia in 2025; sources say the remainder was several times subscribed &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260212/p48#a260212p48)
+ - [An interview with OpenAI president Greg Brockman on donating $50M to AI and pro-Trump super PACs, why such donations serve a larger AI mission, and more &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260212/p47#a260212p47)
+ - [Waymo Asks the DC Public to Pressure Their City Officials](https://www.wired.com/story/waymo-asks-the-dc-public-to-pressure-their-city-officials/)
  - [A Wave of Unexplained Bot Traffic Is Sweeping the Web](https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/)
- - [In one swoop, Trump kills US greenhouse gas regulations](https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change)
- - [Ever, which says it is the first &quot;AI-native, full-stack&quot; retail marketplace for electric vehicles, raised a $31M Series A led by Eclipse &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260212/p46#a260212p46)
- - [Anthropic says its run-rate revenue hit $14B, growing over 10x annually in the past three years, and Claude Code&#39;s run-rate revenue hit $2.5B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260212/p45#a260212p45)
- - [Anthropic raised a $30B Series G from GIC, Coatue, Founders Fund, Sequoia, Nvidia, and others at a $380B post-money valuation &lpar;Anthropic&rpar;](http://www.techmeme.com/260212/p44#a260212p44)<!-- TECH:END -->
+ - [In one swoop, Trump kills US greenhouse gas regulations](https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

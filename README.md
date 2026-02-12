@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
- - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 💣 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
- - 😝 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)
- - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
+ - 😝 [Nice!](http://9gag.com/gag/ayNwpjb)
+ - 😝 [Everyone thinks they are an expert . . .](http://9gag.com/gag/aBy5r9Z)
+ - 💣 [Western diversity quotas vs Japan](http://9gag.com/gag/axywZAW)
+ - 😝 [Here comes the queen for our king...](http://9gag.com/gag/agmw0x1)
+ - 👉 [Yeah but the stock market](http://9gag.com/gag/a4PydMA)<!-- MEMES:END -->
 
 ---
 

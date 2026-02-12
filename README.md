@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Simile, which uses AI to help companies predict human behavior, including guessing items customers might buy, raised $100M led by Index and emerges from stealth &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/260212/p26#a260212p26)
- - [Apple Creator Studio users are hitting generative AI usage limits far too soon](https://appleinsider.com/articles/26/02/12/apple-creator-studio-users-are-hitting-generative-ai-usage-limits-far-too-soon?utm_source=rss)
- - [The Best Kindle Accessories &lpar;2026&rpar;: Cases, Page Turners, Stickers](https://www.wired.com/story/best-kindle-accessories/)
- - [Crypto transaction volume linked to suspected human trafficking, largely based in Southeast Asia, hit hundreds of millions of dollars in 2025, up 85% YoY &lpar;Chainalysis&rpar;](http://www.techmeme.com/260212/p25#a260212p25)
- - [Crypto-Funded Human Trafficking Is Exploding](https://www.wired.com/story/crypto-funded-human-trafficking-is-exploding/)<!-- TECH:END -->
+ - [Israeli authorities charge a reservist and a civilian for allegedly using classified information to bet on military operations on Polymarket &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p29#a260212p29)
+ - [Nvidia launches a native GeForce Now app on select Amazon Fire TV sticks, offering up to 1080p and 60 fps gaming; Fire TV users previously had to sideload it &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/260212/p28#a260212p28)
+ - [Amazon’s Send to Alexa Plus makes the Kindle Scribe feel more like a productivity device](https://www.theverge.com/gadgets/877625/amazon-send-to-alexa-plus-kindle-scribe-hands-on)
+ - [Fitbit&#39;s Gemini-Powered Coach Is Coming to iPhone and Other Countries](https://www.cnet.com/tech/mobile/fitbits-biggest-app-overhaul-is-coming-but-not-to-everyone-yet/)
+ - [40 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

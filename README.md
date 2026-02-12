@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice......!!!!!!](http://9gag.com/gag/aMV5266)
- - 😝 [How should we see the Epstein connection?](http://9gag.com/gag/ae9w3rb)
- - 💣 [Nice!](http://9gag.com/gag/ayNwpjb)
- - 😝 [Steel Titan](http://9gag.com/gag/apRwq8b)
- - 👉 [We had dreams](http://9gag.com/gag/aBy5Qr2)<!-- MEMES:END -->
+ - 😝 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 😝 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 💣 [He even got shot at](http://9gag.com/gag/a0eqP2Q)
+ - 😝 [Five stars for the lawn, one star for my wife](http://9gag.com/gag/a87ObrZ)
+ - 👉 [Actor James Van Der Beek has passed away from cancer at age 48. He leaves behind a wife and six children.](http://9gag.com/gag/an7wXdb)<!-- MEMES:END -->
 
 ---
 

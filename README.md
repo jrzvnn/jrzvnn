@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Actor James Van Der Beek has passed away from cancer at age 48. He leaves behind a wife and six children.](http://9gag.com/gag/an7wXdb)
+ - 😝 [Proof of Procrastination](http://9gag.com/gag/amow0Mv)
  - 😝 [He will not expect it](http://9gag.com/gag/aRBdPrG)
- - 💣 [Proof of Procrastination](http://9gag.com/gag/amow0Mv)
- - 😝 [What a marksman.](http://9gag.com/gag/ajPw6Qq)
- - 👉 [Mystery solved](http://9gag.com/gag/agmwvQv)<!-- MEMES:END -->
+ - 💣 [Western diversity quotas vs Japan](http://9gag.com/gag/axywZAW)
+ - 😝 [It took me 2 years, 1 month and 17 days, but for the first time in my 30 years of life, I used all the ink from a pen without losing its cap](http://9gag.com/gag/aZZ5xYX)
+ - 👉 [Oh wait](http://9gag.com/gag/aD25w6G)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video](https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch)
- - [Apple&#39;s AI summaries include racial &amp; gender biases, if the query is vague enough](https://appleinsider.com/articles/26/02/12/apples-ai-summaries-include-racial-gender-biases-if-the-query-is-vague-enough?utm_source=rss)
- - [Israeli authorities charge a reservist and a civilian for allegedly using classified information to bet on &quot;the occurrence of military operations&quot; on Polymarket &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p29#a260212p29)
- - [Elon Musk&#39;s X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders](https://www.wired.com/story/elon-musk-x-premium-accounts-iran/)
- - [Nvidia launches a native GeForce Now app on select Amazon Fire TV sticks, offering up to 1080p and 60 fps gaming; Fire TV users previously had to sideload it &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/260212/p28#a260212p28)<!-- TECH:END -->
+ - [How Gorilla Tag is weathering the VR winter](https://www.theverge.com/column/877473/gorilla-tag-vr-winter-quest)
+ - [Sony launches the $330 WF-1000XM6 earbuds, with AI-powered beamforming mics for enhanced voice call clarity, improved ANC, and hands-free Gemini on Android &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260212/p32#a260212p32)
+ - [The surprising case for AI judges](https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview)
+ - [Google updates Gemini 3 Deep Think to better solve modern science, research, and engineering challenges and expands it via the Gemini API to some researchers &lpar;The Keyword&rpar;](http://www.techmeme.com/260212/p31#a260212p31)
+ - [DHS announces the end of its “surge operation” in Minneapolis, but not entirely](https://www.theverge.com/policy/878017/dhs-ends-minneapolis-operation-metro-surge-tom-homan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

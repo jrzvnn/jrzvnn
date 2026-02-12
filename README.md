@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, Apple Music didn&#39;t fire Jay-Z over Bad Bunny Super Bowl Halftime Show](https://appleinsider.com/articles/26/02/12/no-apple-music-didnt-fire-jay-z-over-bad-bunny-super-bowl-halftime-show?utm_source=rss)
- - [A YouTube Apple Vision Pro app is finally here, with 3D video support and more](https://appleinsider.com/articles/26/02/12/a-youtube-apple-vision-pro-app-is-finally-here-with-3d-video-support-and-more?utm_source=rss)
- - [Opaque, which offers enterprise tools for data privacy in AI workflows, raised a $24M Series B at a $300M valuation, bringing its total raised to $55.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260212/p35#a260212p35)
- - [El Paso airspace closure was reportedly triggered by the CBP’s use of an anti-drone laser](https://www.theverge.com/policy/878108/el-paso-airspace-closure-cbp-anti-drone-laser)
- - [Premier League Soccer: Stream Brentford vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brentford-vs-arsenal-live-from-anywhere/)<!-- TECH:END -->
+ - [Jeffrey Epstein might not have created /pol/, but he helped carry out its mission](https://www.theverge.com/tech/877903/jeffrey-epstein-4chan-pol-moot)
+ - [ServiceNow is acquiring Pyramid Analytics, which makes business intelligence and analytics tools, sources say for hundreds of millions; Pyramid has raised $200M &lpar;Globes&rpar;](http://www.techmeme.com/260212/p41#a260212p41)
+ - [GPT-5.3-Codex-Spark is OpenAI&#39;s first AI model to run on chips from Nvidia rival Cerebras; OpenAI says Codex has more than 1M weekly active users &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260212/p40#a260212p40)
+ - [OpenAI launches a research preview of GPT-5.3-Codex-Spark, a smaller version of GPT-5.3-Codex that it claims generates code 15 times faster, for Pro users &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260212/p39#a260212p39)
+ - [Letter: the EU launched a new probe into Google for potentially &quot;artificially increasing the clearing price&quot; of ad auctions &quot;to the detriment of advertisers&quot; &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260212/p38#a260212p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

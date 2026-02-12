@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jeffrey Epstein might not have created /pol/, but he helped carry out its mission](https://www.theverge.com/tech/877903/jeffrey-epstein-4chan-pol-moot)
- - [ServiceNow is acquiring Pyramid Analytics, which makes business intelligence and analytics tools, sources say for hundreds of millions; Pyramid has raised $200M &lpar;Globes&rpar;](http://www.techmeme.com/260212/p41#a260212p41)
- - [GPT-5.3-Codex-Spark is OpenAI&#39;s first AI model to run on chips from Nvidia rival Cerebras; OpenAI says Codex has more than 1M weekly active users &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260212/p40#a260212p40)
- - [OpenAI launches a research preview of GPT-5.3-Codex-Spark, a smaller version of GPT-5.3-Codex that it claims generates code 15 times faster, for Pro users &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260212/p39#a260212p39)
- - [Letter: the EU launched a new probe into Google for potentially &quot;artificially increasing the clearing price&quot; of ad auctions &quot;to the detriment of advertisers&quot; &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260212/p38#a260212p38)<!-- TECH:END -->
+ - [Anthropic says its run-rate revenue hit $14B, growing over 10x annually in the past three years, and Claude Code&#39;s run-rate revenue hit $2.5B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260212/p45#a260212p45)
+ - [Anthropic raised a $30B Series G from GIC, Coatue, Founders Fund, Sequoia, Nvidia, and others at a $380B post-money valuation &lpar;Anthropic&rpar;](http://www.techmeme.com/260212/p44#a260212p44)
+ - [Two powerful, OLED-equipped gaming laptops are hundreds off](https://www.theverge.com/gadgets/878209/asus-acer-oled-rtx-5070ti-gaming-laptop-deal-sale)
+ - [Spotify says AI is helping it speed up coding and product velocity and its best developers &quot;have not written a single line of code since December&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260212/p43#a260212p43)
+ - [OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity](https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

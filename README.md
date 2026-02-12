@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Highspot, which has raised $650M and makes AI-powered sales enablement software, plans to merge with rival Seismic; the combined company will be called Seismic &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/260212/p51#a260212p51)
- - [Walmart Saturday Showdown games coming to Apple TV on February 21](https://appleinsider.com/articles/26/02/12/walmart-saturday-showdown-games-coming-to-apple-tv-on-february-21?utm_source=rss)
- - [IBM says it plans to triple entry-level hiring in the US in 2026 &quot;for all these jobs that we&#39;re being told AI can do&quot; &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/260212/p50#a260212p50)
- - [AirPods Pro 2, AirPods Pro 3, AirPods 4 just got another beta firmware update](https://appleinsider.com/articles/26/02/12/airpods-pro-2-airpods-pro-3-airpods-4-just-got-another-beta-firmware-update?utm_source=rss)
- - [Cisco stock falls 12%+ as rising memory prices put pressure on the networking company&#39;s margins; it is the stock&#39;s worst day since 2022 &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260212/p49#a260212p49)<!-- TECH:END -->
+ - [Didero, which provides an agentic AI layer that integrates with ERP systems to automate supply chains, raised a $30M Series A co-led by Chemistry and Headline &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260212/p56#a260212p56)
+ - [Instacart reports Q4 revenue up 12% YoY to $992M vs. $974M est., gross transaction value up 14% to $9.85B, gives strong Q1 guidance; CART jumps 14%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260212/p55#a260212p55)
+ - [PlayStation State of Play February 2026: all the news and trailers](https://www.theverge.com/games/877875/playstation-state-of-play-february-2026-ps5-news-trailers)
+ - [Roku reports Q4 revenue up 16% YoY to $1.39B, vs. $1.35B est., and an $80.5M net income, vs. a $35.5M loss in Q4 2024; ROKU jumps 9%+ after hours &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/260212/p54#a260212p54)
+ - [Airbnb reports Q4 revenue up 12% YoY to $2.78B, vs. $2.72B est., Nights and Seats Booked up 10% to 121.9M, and forecasts Q1 revenue above estimates &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260212/p53#a260212p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Five stars for the lawn, one star for my wife](http://9gag.com/gag/a87ObrZ)
- - 😝 [Nice!](http://9gag.com/gag/ayNwpjb)
- - 💣 [Western diversity quotas vs Japan](http://9gag.com/gag/axywZAW)
- - 😝 [I don&#39;t know how they tricked Disney into this but I&#39;m in](http://9gag.com/gag/a34rLqv)
- - 👉 [Yeah but the stock market](http://9gag.com/gag/a4PydMA)<!-- MEMES:END -->
+ - 😝 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
+ - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - 💣 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)
+ - 😝 [Friends... with power](http://9gag.com/gag/a7oXb7e)
+ - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proof of Procrastination](http://9gag.com/gag/amow0Mv)
- - 😝 [He will not expect it](http://9gag.com/gag/aRBdPrG)
- - 💣 [Western diversity quotas vs Japan](http://9gag.com/gag/axywZAW)
- - 😝 [It took me 2 years, 1 month and 17 days, but for the first time in my 30 years of life, I used all the ink from a pen without losing its cap](http://9gag.com/gag/aZZ5xYX)
- - 👉 [Oh wait](http://9gag.com/gag/aD25w6G)<!-- MEMES:END -->
+ - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - 😝 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 💣 [I am sorry friend](http://9gag.com/gag/amowNDd)
+ - 😝 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
+ - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
 ---
 

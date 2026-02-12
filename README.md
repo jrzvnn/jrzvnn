@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
  - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 😝 [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
- - 💣 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
- - 😝 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
- - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
+ - 💣 [Eye contact](http://9gag.com/gag/ajPwr5R)
+ - 😝 [Reporter asks director of The Promised Land about the `severe lack of diversity` in his all-Nordic cast in a movie about Nordic history](http://9gag.com/gag/ae9wp4v)
+ - 👉 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)<!-- MEMES:END -->
 
 ---
 

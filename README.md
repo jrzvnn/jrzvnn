@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s latest funding round includes part of the $15B commitment from Microsoft and Nvidia in 2025; sources say the remainder was several times subscribed &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260212/p48#a260212p48)
- - [An interview with OpenAI president Greg Brockman on donating $50M to AI and pro-Trump super PACs, why such donations serve a larger AI mission, and more &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260212/p47#a260212p47)
- - [Waymo Asks the DC Public to Pressure Their City Officials](https://www.wired.com/story/waymo-asks-the-dc-public-to-pressure-their-city-officials/)
- - [A Wave of Unexplained Bot Traffic Is Sweeping the Web](https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/)
- - [In one swoop, Trump kills US greenhouse gas regulations](https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change)<!-- TECH:END -->
+ - [Highspot, which has raised $650M and makes AI-powered sales enablement software, plans to merge with rival Seismic; the combined company will be called Seismic &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/260212/p51#a260212p51)
+ - [Walmart Saturday Showdown games coming to Apple TV on February 21](https://appleinsider.com/articles/26/02/12/walmart-saturday-showdown-games-coming-to-apple-tv-on-february-21?utm_source=rss)
+ - [IBM says it plans to triple entry-level hiring in the US in 2026 &quot;for all these jobs that we&#39;re being told AI can do&quot; &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/260212/p50#a260212p50)
+ - [AirPods Pro 2, AirPods Pro 3, AirPods 4 just got another beta firmware update](https://appleinsider.com/articles/26/02/12/airpods-pro-2-airpods-pro-3-airpods-4-just-got-another-beta-firmware-update?utm_source=rss)
+ - [Cisco stock falls 12%+ as rising memory prices put pressure on the networking company&#39;s margins; it is the stock&#39;s worst day since 2022 &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260212/p49#a260212p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

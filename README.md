@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo co-CEO Tekedra Mawakana expects the company to hit 1M+ paid weekly robotaxi rides in the US by the end of 2026, up from ~400K per week in six cities now &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/260212/p20#a260212p20)
+ - [Internal messages: Amazon pushes in-house AI coding assistant Kiro for production code, prompting criticism and causing ~1,500 staff to push for Claude Code &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260212/p19#a260212p19)
+ - [KYY X90G Quad Portable Monitor Extender Review: 3 More Screens](https://www.wired.com/review/kyy-x90g-quad-portable-monitor-extender/)
  - [xAI all-hands: Nikita Bier says X hit $1B in ARR from selling $3 to $40 per month subscriptions, but offered no details on ad revenue or other xAI financials &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/260212/p18#a260212p18)
- - [Alexa+ and Kindle Scribe Now Work Together With ‘Send to Alexa’](https://www.wired.com/story/send-to-alexa-kindle-scribe/)
- - [AI tools like Opus 4.6 actually do make engineers 10x more productive and are addictive, but the &quot;AI Vampire&quot; effect is causing widespread developer burnout &lpar;Steve Yegge&rpar;](http://www.techmeme.com/260212/p17#a260212p17)
- - [I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/)
- - [ICE is pushing Minneapolis underground](https://www.theverge.com/policy/877106/minneapolis-ice-cbp-occupation-immigration-raid-mutual-aid)<!-- TECH:END -->
+ - [Can NAD Plus Supplements Reverse the Aging Process? We Asked Actual Doctors](https://www.cnet.com/health/nutrition/can-nad-supplements-reverse-aging/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

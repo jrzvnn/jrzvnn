@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
+ - 😝 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
  - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 💣 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)
- - 😝 [Friends... with power](http://9gag.com/gag/a7oXb7e)
+ - 💣 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
+ - 😝 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)
  - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 ---

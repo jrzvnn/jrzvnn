@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many Adjustable Bed Frames Have a “Zero Gravity” Feature. I Tried It for a Week](https://www.wired.com/story/what-its-like-to-sleep-in-zero-gravity/)
- - [The Best Hearing Aids of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)
- - [The Fight Over US Climate Rules Is Just Beginning](https://www.wired.com/story/the-fight-over-us-climate-rules-is-just-beginning/)
- - [Meta&#39;s auditor Ernst &amp; Young raised a red flag over the financial engineering Meta used to keep its $27B Hyperion data center project off its balance sheet &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/260212/p14#a260212p14)
- - [15 Best Bed Frames &lpar;2026&rpar;, Tested in Our Homes](https://www.wired.com/gallery/best-bed-frames/)<!-- TECH:END -->
+ - [xAI all-hands: Nikita Bier says X hit $1B in ARR from selling $3 to $40 per month subscriptions, but offered no details on ad revenue or other xAI financials &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/260212/p18#a260212p18)
+ - [Alexa+ and Kindle Scribe Now Work Together With ‘Send to Alexa’](https://www.wired.com/story/send-to-alexa-kindle-scribe/)
+ - [AI tools like Opus 4.6 actually do make engineers 10x more productive and are addictive, but the &quot;AI Vampire&quot; effect is causing widespread developer burnout &lpar;Steve Yegge&rpar;](http://www.techmeme.com/260212/p17#a260212p17)
+ - [I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/)
+ - [ICE is pushing Minneapolis underground](https://www.theverge.com/policy/877106/minneapolis-ice-cbp-occupation-immigration-raid-mutual-aid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

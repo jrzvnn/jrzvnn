@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)
  - [Disney sent a cease-and-desist letter to ByteDance, claiming it infringed on Disney&#39;s works to train its Seedance 2.0 video generation model without pay &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260213/p20#a260213p20)
  - [Marvel&#39;s Spider-Man 2 Leaps Onto PS Plus in February](https://www.cnet.com/tech/gaming/marvel-spider-man-2-ps-plus/)
  - [What Are the Best Wireless Earbuds Right Now?](https://www.cnet.com/tech/mobile/what-are-the-best-wireless-earbuds-right-now/)
- - [Sources: Grafana Labs, which makes cloud and AI monitoring tools, is in talks to raise at a $9B valuation, up from $6.6B in 2024; its ARR hit $400M in Sept. &lpar;The Information&rpar;](http://www.techmeme.com/260213/p19#a260213p19)
- - [OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK](https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/)<!-- TECH:END -->
+ - [Sources: Grafana Labs, which makes cloud and AI monitoring tools, is in talks to raise at a $9B valuation, up from $6.6B in 2024; its ARR hit $400M in Sept. &lpar;The Information&rpar;](http://www.techmeme.com/260213/p19#a260213p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
- - 😝 [Oh wait](http://9gag.com/gag/aD25w6G)
- - 💣 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)
+ - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - 😝 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
+ - 💣 [Oh wait](http://9gag.com/gag/aD25w6G)
  - 😝 [Fluffer getting a new leg](http://9gag.com/gag/amow9zy)
- - 👉 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)<!-- MEMES:END -->
+ - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Mattress Toppers &lpar;2026&rpar;: Supportive, Plush, Memory Foam](https://www.wired.com/gallery/best-mattress-toppers/)
- - [Companies like Stripe, OpenAI, Anthropic, and SpaceX are letting workers cash out before their IPOs, a move once seen as taboo and lacking long-term commitment &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260213/p2#a260213p2)
- - [Tenways’ compact e-bike twists and folds to go flat](https://www.theverge.com/transportation/877796/tenways-cgo-compact-e-bike-twists-folds-flat)
- - [A look at Higgsfield, an AI video startup that grew to $300M ARR within 11 months, as it faces a creator backlash over aggressive and shocking marketing tactics &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/260213/p1#a260213p1)
- - [The MPA urges ByteDance to curb its AI video model Seedance 2.0, saying the model engages in unauthorized use of US copyrighted material &quot;on a massive scale&quot; &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/260212/p68#a260212p68)<!-- TECH:END -->
+ - [Baidu plans to let users access OpenClaw via its search app and integrate OpenClaw&#39;s capabilities into its e-commerce business and other services &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/260213/p4#a260213p4)
+ - [Inside the New York City Date Night for AI Lovers](https://www.wired.com/story/inside-the-new-york-city-date-night-for-ai-lovers/)
+ - [Sources: Meta plans to add facial recognition to its smart glasses as soon as 2026, and considers letting the glasses identify people with public Meta accounts &lpar;New York Times&rpar;](http://www.techmeme.com/260213/p3#a260213p3)
+ - [Here&#39;s Why I&#39;d Buy the Last Samsung Soundbar First](https://www.wired.com/story/the-best-soundbar-is-last-years-samsung/)
+ - [The Best Mattress Toppers &lpar;2026&rpar;: Supportive, Plush, Memory Foam](https://www.wired.com/gallery/best-mattress-toppers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Applied Materials reports Q1 revenue down 2% YoY to $7.01B, vs. $6.86B est., and forecasts Q2 revenue above estimates; AMAT jumps 12%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260212/p61#a260212p61)
- - [A US jury finds Apple did not infringe Optis&#39; 4G wireless technology patents, after two earlier trial verdicts Optis had won were overturned &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260212/p60#a260212p60)
- - [A surprise God of War prequel is out on the PS5 right now](https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer)
- - [The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap](https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/)
- - [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled)<!-- TECH:END -->
+ - [The suspect believed to be behind the mass shooting in Tumbler Ridge, Canada made a Roblox game simulating a mall shooting; Roblox says it removed the account &lpar;404 Media&rpar;](http://www.techmeme.com/260212/p67#a260212p67)
+ - [Anna&#39;s Archive has quietly begun releasing millions of music files from its scrape of Spotify, despite an injunction against distribution of copyrighted works &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/260212/p66#a260212p66)
+ - [God of War Original Trilogy Remakes Are Coming, and a New 2D Platformer Is Out Today](https://www.cnet.com/tech/gaming/god-of-war-greek-trilogy-remakes-revealed-alongside-sons-of-sparta-2d-platformer/)
+ - [Sources: the Trump administration has shelved tech security measures against China, including data center equipment curbs, ahead of a Trump-Xi meeting in April &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/260212/p64#a260212p64)
+ - [Amazon&#39;s Ring cancels its partnership with Flock that would have let law enforcement agencies request footage from Ring doorbell users, following backlash &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/260212/p63#a260212p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

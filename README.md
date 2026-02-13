@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google warns that the EU risks undermining its own competitiveness drive with the &quot;tech sovereignty package&quot; the bloc is set to present in the spring &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260213/p6#a260213p6)
+ - [There’s a tiny digital camera inside these retro 35mm film rolls](https://www.theverge.com/tech/878701/opt100-neo-film-35mm-digital-camera-japan)
  - [Fix blurry photos, upscale, and enhance image quality with this Mac app](https://appleinsider.com/articles/26/02/13/fix-blurry-photos-upscale-and-enhance-image-quality-with-this-mac-app?utm_source=rss)
- - [YouTube&#39;s bare-minimum app for Apple Vision Pro is better than nothing -- hands on](https://appleinsider.com/articles/26/02/13/youtubes-bare-minimum-app-for-apple-vision-pro-is-better-than-nothing----hands-on?utm_source=rss)
- - [Aqara U400 review: UWB home key will be hard to beat](https://appleinsider.com/articles/26/02/13/aqara-u400-review-uwb-home-key-will-be-hard-to-beat-on-other-smart-locks?utm_source=rss)
- - [Are Waterproof Sneakers Worth It? &lpar;2026&rpar;](https://www.wired.com/story/waterproof-running-shoes-worth-it/)
- - [The hottest indie game is about breeding cats with ADHD and dyslexia](https://www.theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview)<!-- TECH:END -->
+ - [This Cult Favorite Dark Comedy Is Rarely on Streaming, but It Just Arrived on Pluto TV](https://www.cnet.com/tech/services-and-software/this-cult-favorite-rarely-on-streaming-but-arrived-on-plutotv/)
+ - [YouTube&#39;s bare-minimum app for Apple Vision Pro is better than nothing -- hands on](https://appleinsider.com/articles/26/02/13/youtubes-bare-minimum-app-for-apple-vision-pro-is-better-than-nothing----hands-on?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

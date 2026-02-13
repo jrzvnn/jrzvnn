@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [4chan’s creator says ‘Epstein had nothing to do’ with creating infamous far-right board /pol/](https://www.theverge.com/tech/879132/moot-4chan-jeffrey-epstein-meeting-pol)
- - [The Verge’s 2026 Valentine’s Day gift guide &lpar;for him&rpar;](https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner)
- - [Apple says 74% of iPhones launched in the last four years and 66% of all iPhones are running iOS 26; 68% of iPhones were running iOS 18 as of Jan. 21, 2025 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/260213/p17#a260213p17)
- - [Social Security Workers Are Being Told to Hand Over Appointment Details to ICE](https://www.wired.com/story/social-security-administration-appointment-details-ice/)
- - [The see-through Beats Studio Buds Plus are more than 40 percent off for Presidents Day](https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal)<!-- TECH:END -->
+ - [iOS 26 adoption rate isn&#39;t the crisis some analysts are portraying](https://appleinsider.com/articles/26/02/13/ios-26-adoption-rate-isnt-the-crisis-some-analysts-are-portraying?utm_source=rss)
+ - [Blockchain-based lending company Figure confirms a data breach; ShinyHunters hacking group published 2.5GB of data, saying Figure refused to pay a ransom &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260213/p18#a260213p18)
+ - [YouTube TV, DirecTV, Sling and Others: Which Service Carries the Top 100 Live TV Channels](https://www.cnet.com/tech/services-and-software/youtubetv-hulu-live-fubo-slingtv-directv-live-tv-streaming-channels-compared/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 14 #713](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-14-713/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 14, #979](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-14-979/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

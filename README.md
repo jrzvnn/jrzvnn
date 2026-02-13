@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
- - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 💣 [Eye contact](http://9gag.com/gag/ajPwr5R)
- - 😝 [Reporter asks director of The Promised Land about the `severe lack of diversity` in his all-Nordic cast in a movie about Nordic history](http://9gag.com/gag/ae9wp4v)
- - 👉 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)<!-- MEMES:END -->
+ - 😝 [Understandable](http://9gag.com/gag/aD25mxN)
+ - 😝 [Everyone thinks they are an expert . . .](http://9gag.com/gag/aBy5r9Z)
+ - 💣 [Yeah but the stock market](http://9gag.com/gag/a4PydMA)
+ - 😝 [It worked out in the end](http://9gag.com/gag/adBwpvB)
+ - 👉 [It took me 2 years, 1 month and 17 days, but for the first time in my 30 years of life, I used all the ink from a pen without losing its cap](http://9gag.com/gag/aZZ5xYX)<!-- MEMES:END -->
 
 ---
 

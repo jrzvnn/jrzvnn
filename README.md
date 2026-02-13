@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 😝 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)
- - 💣 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
- - 😝 [Fluffer getting a new leg](http://9gag.com/gag/amow9zy)
- - 👉 [More news](http://9gag.com/gag/aYQ5wdq)<!-- MEMES:END -->
+ - 😝 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
+ - 😝 [More news](http://9gag.com/gag/aYQ5wdq)
+ - 💣 [Oh wait](http://9gag.com/gag/aD25w6G)
+ - 😝 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
+ - 👉 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)<!-- MEMES:END -->
 
 ---
 

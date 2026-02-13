@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable](http://9gag.com/gag/aD25mxN)
- - 😝 [Everyone thinks they are an expert . . .](http://9gag.com/gag/aBy5r9Z)
- - 💣 [Yeah but the stock market](http://9gag.com/gag/a4PydMA)
- - 😝 [It worked out in the end](http://9gag.com/gag/adBwpvB)
- - 👉 [It took me 2 years, 1 month and 17 days, but for the first time in my 30 years of life, I used all the ink from a pen without losing its cap](http://9gag.com/gag/aZZ5xYX)<!-- MEMES:END -->
+ - 😝 [Sure](http://9gag.com/gag/aRBdP6q)
+ - 😝 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
+ - 💣 [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
+ - 😝 [Oh wait](http://9gag.com/gag/aD25w6G)
+ - 👉 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)<!-- MEMES:END -->
 
 ---
 

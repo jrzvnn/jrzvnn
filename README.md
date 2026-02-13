@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook estimates that 25%+ of VC-backed unicorns have become &quot;undercorns,&quot; startups once valued at $1B or more by VCs but now valued below that threshold &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/260213/p14#a260213p14)
- - [The US DoD published and then deleted a document adding Alibaba, Baidu, and BYD to a list of companies with alleged connections to the Chinese military &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260213/p13#a260213p13)
- - [Sources: the US FTC accelerated a probe into whether Microsoft illegally monopolized the enterprise computing market with its cloud software and AI offerings &lpar;Bloomberg&rpar;](http://www.techmeme.com/260213/p12#a260213p12)
- - [What’s behind the mass exodus at xAI?](https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring)
- - [Sources: Binance has fired its employees in late 2025 who uncovered evidence that Iran received $1B+ through Binance between March 2024 and August 2025 &lpar;Fortune&rpar;](http://www.techmeme.com/260213/p11#a260213p11)<!-- TECH:END -->
+ - [20 Best Presidents&#39; Day Deals on Gear Our Reviewers Actually Used &lpar;2026&rpar;](https://www.wired.com/story/presidents-day-deals-2026/)
+ - [Record Low Snow in the West Will Mean Less Water, More Fire, and Political Chaos](https://www.wired.com/story/record-low-snow-in-the-west-will-mean-less-water-more-fire-and-political-chaos/)
+ - [The ‘Heated Rivalry’ Fandom Is Tearing Itself Apart](https://www.wired.com/story/the-heated-rivalry-fandom-is-tearing-itself-apart/)
+ - [Again, don&#39;t count on Mac Studio stock levels for release timing](https://appleinsider.com/articles/26/02/13/again-dont-count-on-mac-studio-stock-levels-for-release-timing?utm_source=rss)
+ - [These Open Earbuds Are Just Over $20](https://www.wired.com/story/acefast-acefit-air-deal-226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

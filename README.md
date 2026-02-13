@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
  - 😝 [Here comes the queen for our king...](http://9gag.com/gag/agmw0x1)
- - 💣 [I know who can do cheaper](http://9gag.com/gag/a5Q3P2L)
- - 😝 [Couldn&#39;t have said any better, thank you! [2:04]](http://9gag.com/gag/apRw0Wb)
- - 👉 [Understandable](http://9gag.com/gag/aD25mxN)<!-- MEMES:END -->
+ - 😝 [I know who can do cheaper](http://9gag.com/gag/a5Q3P2L)
+ - 💣 [Couldn&#39;t have said any better, thank you! [2:04]](http://9gag.com/gag/apRw0Wb)
+ - 😝 [Cheetah crab](http://9gag.com/gag/aD25oww)
+ - 👉 [I don&#39;t know how they tricked Disney into this but I&#39;m in](http://9gag.com/gag/a34rLqv)<!-- MEMES:END -->
 
 ---
 

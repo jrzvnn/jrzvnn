@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Grafana Labs, which makes cloud and AI monitoring tools, is in talks to raise at a $9B valuation, up from $6.6B in 2024; its ARR hit $400M in Sept. &lpar;The Information&rpar;](http://www.techmeme.com/260213/p19#a260213p19)
+ - [OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK](https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/)
  - [iOS 26 adoption rate isn&#39;t the crisis some analysts are portraying](https://appleinsider.com/articles/26/02/13/ios-26-adoption-rate-isnt-the-crisis-some-analysts-are-portraying?utm_source=rss)
  - [Blockchain-based lending company Figure confirms a data breach; ShinyHunters hacking group published 2.5GB of data, saying Figure refused to pay a ransom &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260213/p18#a260213p18)
- - [YouTube TV, DirecTV, Sling and Others: Which Service Carries the Top 100 Live TV Channels](https://www.cnet.com/tech/services-and-software/youtubetv-hulu-live-fubo-slingtv-directv-live-tv-streaming-channels-compared/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 14 #713](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-14-713/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 14, #979](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-14-979/)<!-- TECH:END -->
+ - [YouTube TV, DirecTV, Sling and Others: Which Service Carries the Top 100 Live TV Channels](https://www.cnet.com/tech/services-and-software/youtubetv-hulu-live-fubo-slingtv-directv-live-tv-streaming-channels-compared/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)
- - 😝 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
- - 💣 [Oh wait](http://9gag.com/gag/aD25w6G)
- - 😝 [Cheetah crab](http://9gag.com/gag/aD25oww)
- - 👉 [Actor James Van Der Beek has passed away from cancer at age 48. He leaves behind a wife and six children.](http://9gag.com/gag/an7wXdb)<!-- MEMES:END -->
+ - 😝 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
+ - 😝 [Actor James Van Der Beek has passed away from cancer at age 48. He leaves behind a wife and six children.](http://9gag.com/gag/an7wXdb)
+ - 💣 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
+ - 😝 [More news](http://9gag.com/gag/aYQ5wdq)
+ - 👉 [Reporter asks director of The Promised Land about the `severe lack of diversity` in his all-Nordic cast in a movie about Nordic history](http://9gag.com/gag/ae9wp4v)<!-- MEMES:END -->
 
 ---
 

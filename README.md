@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah but the stock market](http://9gag.com/gag/a4PydMA)
  - 😝 [Everyone thinks they are an expert . . .](http://9gag.com/gag/aBy5r9Z)
- - 💣 [It took me 2 years, 1 month and 17 days, but for the first time in my 30 years of life, I used all the ink from a pen without losing its cap](http://9gag.com/gag/aZZ5xYX)
+ - 😝 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
+ - 💣 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34rLb7)
  - 😝 [Here comes the queen for our king...](http://9gag.com/gag/agmw0x1)
- - 👉 [Understandable](http://9gag.com/gag/aD25mxN)<!-- MEMES:END -->
+ - 👉 [I know who can do cheaper](http://9gag.com/gag/a5Q3P2L)<!-- MEMES:END -->
 
 ---
 

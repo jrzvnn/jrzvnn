@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More news](http://9gag.com/gag/aYQ5wdq)
- - 😝 [Priorities](http://9gag.com/gag/aBy5Y0x)
- - 💣 [Cheetah crab](http://9gag.com/gag/aD25oww)
- - 😝 [Understandable](http://9gag.com/gag/aD25mxN)
- - 👉 [Charlie Chaplin on Olympics](http://9gag.com/gag/aGy5xy7)<!-- MEMES:END -->
+ - 😝 [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
+ - 😝 [Britain Democracy](http://9gag.com/gag/avywLvq)
+ - 💣 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
+ - 😝 [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
+ - 👉 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)<!-- MEMES:END -->
 
 ---
 

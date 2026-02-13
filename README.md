@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eminem&#39;s journey is truly inspiring](http://9gag.com/gag/aXP1XOg)
+ - 😝 [More news](http://9gag.com/gag/aYQ5wdq)
  - 😝 [Priorities](http://9gag.com/gag/aBy5Y0x)
- - 💣 [Charlie Chaplin on Olympics](http://9gag.com/gag/aGy5xy7)
- - 😝 [Cheetah crab](http://9gag.com/gag/aD25oww)
- - 👉 [Understandable](http://9gag.com/gag/aD25mxN)<!-- MEMES:END -->
+ - 💣 [Cheetah crab](http://9gag.com/gag/aD25oww)
+ - 😝 [Understandable](http://9gag.com/gag/aD25mxN)
+ - 👉 [Charlie Chaplin on Olympics](http://9gag.com/gag/aGy5xy7)<!-- MEMES:END -->
 
 ---
 

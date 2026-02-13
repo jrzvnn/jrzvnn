@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 Best Presidents&#39; Day Deals on Gear Our Reviewers Actually Used &lpar;2026&rpar;](https://www.wired.com/story/presidents-day-deals-2026/)
- - [Record Low Snow in the West Will Mean Less Water, More Fire, and Political Chaos](https://www.wired.com/story/record-low-snow-in-the-west-will-mean-less-water-more-fire-and-political-chaos/)
- - [The ‘Heated Rivalry’ Fandom Is Tearing Itself Apart](https://www.wired.com/story/the-heated-rivalry-fandom-is-tearing-itself-apart/)
- - [Again, don&#39;t count on Mac Studio stock levels for release timing](https://appleinsider.com/articles/26/02/13/again-dont-count-on-mac-studio-stock-levels-for-release-timing?utm_source=rss)
- - [These Open Earbuds Are Just Over $20](https://www.wired.com/story/acefast-acefit-air-deal-226/)<!-- TECH:END -->
+ - [Join Our Livestream: The Hype, Reality, and Future of EVs](https://www.wired.com/story/livestream-the-hype-reality-and-future-of-electric-vehicles/)
+ - [Looking for Blood on Valentine&#39;s Day? This Netflix Slasher Rom-Com Is a Wild Joyride](https://www.cnet.com/tech/services-and-software/valentines-day-horror-movie-netflix-wild-slasher-heart-eyes/)
+ - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)
+ - [ChatGPT Rolls Out Ads to US Users for the First Time](https://www.cnet.com/tech/services-and-software/ads-are-officially-rolling-out-in-chatgpt/)
+ - [Ugreen NASync DH4300 Plus review: Beginner-friendly, easily expandable](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

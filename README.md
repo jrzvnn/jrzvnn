@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
- - 😝 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
- - 💣 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
- - 😝 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
- - 👉 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)<!-- MEMES:END -->
+ - 😝 [Eminem&#39;s journey is truly inspiring](http://9gag.com/gag/aXP1XOg)
+ - 😝 [Priorities](http://9gag.com/gag/aBy5Y0x)
+ - 💣 [Charlie Chaplin on Olympics](http://9gag.com/gag/aGy5xy7)
+ - 😝 [Cheetah crab](http://9gag.com/gag/aD25oww)
+ - 👉 [Understandable](http://9gag.com/gag/aD25mxN)<!-- MEMES:END -->
 
 ---
 

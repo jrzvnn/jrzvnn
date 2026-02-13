@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone thinks they are an expert . . .](http://9gag.com/gag/aBy5r9Z)
  - 😝 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
- - 💣 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34rLb7)
- - 😝 [Here comes the queen for our king...](http://9gag.com/gag/agmw0x1)
- - 👉 [I know who can do cheaper](http://9gag.com/gag/a5Q3P2L)<!-- MEMES:END -->
+ - 😝 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)
+ - 💣 [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
+ - 😝 [Oh wait](http://9gag.com/gag/aD25w6G)
+ - 👉 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)<!-- MEMES:END -->
 
 ---
 

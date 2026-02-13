@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iRobot&amp;#8217;s Roombas have a new Chinese owner, but it says your data will remain in the US](https://www.theverge.com/tech/878809/irobot-picea-robotics-acquisition-irobot-safe)
- - [Apple testing, but still undecided about clamshell folding iPhone](https://appleinsider.com/articles/26/02/13/apple-is-testing-a-clamshell-foldable-iphone-leaker-claims?utm_source=rss)
- - [As OpenAI retires GPT-4o, some users say they are angry and grieving to lose the flirty, quirky companion &lpar;Alaina Demopoulos/The Guardian&rpar;](http://www.techmeme.com/260213/p10#a260213p10)
- - [Samsung Galaxy Unpacked 2026: Launch Date Revealed for Rumored S26 Lineup](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
- - [Zillow Has Gone Wild—for AI](https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/)<!-- TECH:END -->
+ - [What’s behind the mass exodus at xAI?](https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring)
+ - [Sources: Binance has fired its employees in late 2025 who uncovered evidence that Iran received $1B+ through Binance between March 2024 and August 2025 &lpar;Fortune&rpar;](http://www.techmeme.com/260213/p11#a260213p11)
+ - [Why Ferrari turned to Jony Ive to design its new car&#39;s controversial interior](https://appleinsider.com/articles/26/02/13/why-ferrari-turned-to-jony-ive-to-design-its-new-cars-controversial-interior?utm_source=rss)
+ - [Can Democrats post their way to midterm victories?](https://www.theverge.com/policy/877603/kamalahq-headquarters-democrats-social-media-strategy)
+ - [Trump Mobile’s origins lie with a Mexican middleweight boxer](https://www.theverge.com/tech/878699/trump-mobile-interview-canelo-alvarez-origins)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

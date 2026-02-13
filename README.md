@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google warns that the EU risks undermining its own competitiveness drive with the &quot;tech sovereignty package&quot; the bloc is set to present in the spring &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260213/p6#a260213p6)
- - [There’s a tiny digital camera inside these retro 35mm film rolls](https://www.theverge.com/tech/878701/opt100-neo-film-35mm-digital-camera-japan)
- - [Fix blurry photos, upscale, and enhance image quality with this Mac app](https://appleinsider.com/articles/26/02/13/fix-blurry-photos-upscale-and-enhance-image-quality-with-this-mac-app?utm_source=rss)
- - [This Cult Favorite Dark Comedy Is Rarely on Streaming, but It Just Arrived on Pluto TV](https://www.cnet.com/tech/services-and-software/this-cult-favorite-rarely-on-streaming-but-arrived-on-plutotv/)
- - [YouTube&#39;s bare-minimum app for Apple Vision Pro is better than nothing -- hands on](https://appleinsider.com/articles/26/02/13/youtubes-bare-minimum-app-for-apple-vision-pro-is-better-than-nothing----hands-on?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic adds Chris Liddell, an ex-Microsoft and GM exec who helped GM IPO and worked in Trump&#39;s first administration, to its board ahead of a potential IPO &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260213/p9#a260213p9)
+ - [Meta’s Quest 3S is $50 off, and includes Batman: Arkham Shadow for free](https://www.theverge.com/gadgets/878338/meta-quest-3s-batman-arkham-shadow-nothing-headphone-1-deal-sale)
+ - [Ring killing Flock deal exposes the trust problem in AI-powered home security](https://appleinsider.com/articles/26/02/13/ring-killing-flock-deal-exposes-the-trust-problem-in-ai-powered-home-security?utm_source=rss)
+ - [ICE moves out to the suburbs](https://www.theverge.com/policy/878713/ice-minnesota-dhs-suburbs)
+ - [Meta reportedly wants to add face recognition to smart glasses while privacy advocates are distracted](https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic adds Chris Liddell, an ex-Microsoft and GM exec who helped GM IPO and worked in Trump&#39;s first administration, to its board ahead of a potential IPO &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260213/p9#a260213p9)
- - [Meta’s Quest 3S is $50 off, and includes Batman: Arkham Shadow for free](https://www.theverge.com/gadgets/878338/meta-quest-3s-batman-arkham-shadow-nothing-headphone-1-deal-sale)
- - [Ring killing Flock deal exposes the trust problem in AI-powered home security](https://appleinsider.com/articles/26/02/13/ring-killing-flock-deal-exposes-the-trust-problem-in-ai-powered-home-security?utm_source=rss)
- - [ICE moves out to the suburbs](https://www.theverge.com/policy/878713/ice-minnesota-dhs-suburbs)
- - [Meta reportedly wants to add face recognition to smart glasses while privacy advocates are distracted](https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates)<!-- TECH:END -->
+ - [iRobot&amp;#8217;s Roombas have a new Chinese owner, but it says your data will remain in the US](https://www.theverge.com/tech/878809/irobot-picea-robotics-acquisition-irobot-safe)
+ - [Apple testing, but still undecided about clamshell folding iPhone](https://appleinsider.com/articles/26/02/13/apple-is-testing-a-clamshell-foldable-iphone-leaker-claims?utm_source=rss)
+ - [As OpenAI retires GPT-4o, some users say they are angry and grieving to lose the flirty, quirky companion &lpar;Alaina Demopoulos/The Guardian&rpar;](http://www.techmeme.com/260213/p10#a260213p10)
+ - [Samsung Galaxy Unpacked 2026: Launch Date Revealed for Rumored S26 Lineup](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
+ - [Zillow Has Gone Wild—for AI](https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

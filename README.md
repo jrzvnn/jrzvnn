@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
- - 😝 [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
- - 💣 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
+ - 😝 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
+ - 💣 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
  - 😝 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
- - 👉 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)<!-- MEMES:END -->
+ - 👉 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)<!-- MEMES:END -->
 
 ---
 

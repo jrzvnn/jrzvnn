@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US court sentences Ramil Ventura Palafox, CEO of Praetorian Group, to 20 years in prison for operating a $200M bitcoin Ponzi scheme that defrauded 90K+ people &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/260213/p5#a260213p5)
+ - [20 Best Couches We’ve Tested That You Can Buy Online &lpar;2026&rpar;](https://www.wired.com/gallery/best-couch/)
  - [Baidu plans to let users access OpenClaw via its search app and integrate OpenClaw&#39;s capabilities into its e-commerce business and other services &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/260213/p4#a260213p4)
  - [Inside the New York City Date Night for AI Lovers](https://www.wired.com/story/inside-the-new-york-city-date-night-for-ai-lovers/)
- - [Sources: Meta plans to add facial recognition to its smart glasses as soon as 2026, and considers letting the glasses identify people with public Meta accounts &lpar;New York Times&rpar;](http://www.techmeme.com/260213/p3#a260213p3)
- - [Here&#39;s Why I&#39;d Buy the Last Samsung Soundbar First](https://www.wired.com/story/the-best-soundbar-is-last-years-samsung/)
- - [The Best Mattress Toppers &lpar;2026&rpar;: Supportive, Plush, Memory Foam](https://www.wired.com/gallery/best-mattress-toppers/)<!-- TECH:END -->
+ - [Sources: Meta plans to add facial recognition to its smart glasses as soon as 2026, and considers letting the glasses identify people with public Meta accounts &lpar;New York Times&rpar;](http://www.techmeme.com/260213/p3#a260213p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

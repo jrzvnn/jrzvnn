@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some former employees blame xAI&#39;s staff exodus on xAI&#39;s focus on NSFW Grok and disregard for safety, constantly playing catch up to OpenAI, infighting, and more &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260213/p16#a260213p16)
+ - [Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits](https://www.wired.com/story/senators-urge-top-regulators-to-stay-out-of-prediction-market-lawsuits/)
  - [Join Our Livestream: The Hype, Reality, and Future of EVs](https://www.wired.com/story/livestream-the-hype-reality-and-future-of-electric-vehicles/)
  - [Looking for Blood on Valentine&#39;s Day? This Netflix Slasher Rom-Com Is a Wild Joyride](https://www.cnet.com/tech/services-and-software/valentines-day-horror-movie-netflix-wild-slasher-heart-eyes/)
- - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)
- - [ChatGPT Rolls Out Ads to US Users for the First Time](https://www.cnet.com/tech/services-and-software/ads-are-officially-rolling-out-in-chatgpt/)
- - [Ugreen NASync DH4300 Plus review: Beginner-friendly, easily expandable](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)<!-- TECH:END -->
+ - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

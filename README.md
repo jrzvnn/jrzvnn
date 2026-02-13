@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The hottest indie game is about breeding cats with ADHD and dyslexia](https://www.theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview)
- - [HP&amp;#8217;s laptop subscriptions are a great deal — for HP](https://www.theverge.com/report/878333/hp-laptop-subscription-elitebook-omen-gaming-bad-deal)
- - [Siri delays, Health delays, and Apple Creator Studio limits on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/13/siri-delays-health-delays-and-apple-creator-studio-limits-on-the-appleinsider-podcast?utm_source=rss)
- - [Best Apple 3-in-1 Wireless Travel Chargers &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/)
- - [iPhone 17e update may not be as fast as expected](https://appleinsider.com/articles/26/02/13/iphone-17e-update-may-not-be-as-fast-as-expected?utm_source=rss)<!-- TECH:END -->
+ - [Fix blurry photos, upscale, and enhance image quality with this Mac app](https://appleinsider.com/articles/26/02/13/fix-blurry-photos-upscale-and-enhance-image-quality-with-this-mac-app?utm_source=rss)
+ - [YouTube&#39;s bare-minimum app for Apple Vision Pro is better than nothing -- hands on](https://appleinsider.com/articles/26/02/13/youtubes-bare-minimum-app-for-apple-vision-pro-is-better-than-nothing----hands-on?utm_source=rss)
+ - [Aqara U400 review: UWB home key will be hard to beat](https://appleinsider.com/articles/26/02/13/aqara-u400-review-uwb-home-key-will-be-hard-to-beat-on-other-smart-locks?utm_source=rss)
+ - [Are Waterproof Sneakers Worth It? &lpar;2026&rpar;](https://www.wired.com/story/waterproof-running-shoes-worth-it/)
+ - [The hottest indie game is about breeding cats with ADHD and dyslexia](https://www.theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

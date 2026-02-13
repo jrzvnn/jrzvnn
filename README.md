@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 😝 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
- - 💣 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
- - 😝 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
- - 👉 [More news](http://9gag.com/gag/aYQ5wdq)<!-- MEMES:END -->
+ - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34rLb7)
+ - 😝 [Eminem&#39;s journey is truly inspiring](http://9gag.com/gag/aXP1XOg)
+ - 💣 [Understandable](http://9gag.com/gag/aD25mxN)
+ - 😝 [The fact that they are Pakistani Muslims is merely a coincidence](http://9gag.com/gag/aLn52eW)
+ - 👉 [Cheetah crab](http://9gag.com/gag/aD25oww)<!-- MEMES:END -->
 
 ---
 

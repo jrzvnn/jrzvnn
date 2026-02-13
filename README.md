@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here comes the queen for our king...](http://9gag.com/gag/agmw0x1)
- - 😝 [I know who can do cheaper](http://9gag.com/gag/a5Q3P2L)
- - 💣 [Couldn&#39;t have said any better, thank you! [2:04]](http://9gag.com/gag/apRw0Wb)
- - 😝 [Cheetah crab](http://9gag.com/gag/aD25oww)
- - 👉 [I don&#39;t know how they tricked Disney into this but I&#39;m in](http://9gag.com/gag/a34rLqv)<!-- MEMES:END -->
+ - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - 😝 [More news](http://9gag.com/gag/aYQ5wdq)
+ - 💣 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
+ - 😝 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)
+ - 👉 [Reporter asks director of The Promised Land about the `severe lack of diversity` in his all-Nordic cast in a movie about Nordic history](http://9gag.com/gag/ae9wp4v)<!-- MEMES:END -->
 
 ---
 

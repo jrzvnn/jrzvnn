@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
  - 😝 [More news](http://9gag.com/gag/aYQ5wdq)
- - 💣 [Oh wait](http://9gag.com/gag/aD25w6G)
- - 😝 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
- - 👉 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)<!-- MEMES:END -->
+ - 😝 [I don&#39;t know how they tricked Disney into this but I&#39;m in](http://9gag.com/gag/a34rLqv)
+ - 💣 [Eminem&#39;s journey is truly inspiring](http://9gag.com/gag/aXP1XOg)
+ - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34rLb7)
+ - 👉 [Understandable](http://9gag.com/gag/aD25mxN)<!-- MEMES:END -->
 
 ---
 

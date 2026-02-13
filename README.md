@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Applied Materials reports Q1 revenue down 2% YoY to $7.01B, vs. $6.86B est., and forecasts Q2 revenue above estimates; AMAT jumps 12%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260212/p61#a260212p61)
  - [A US jury finds Apple did not infringe Optis&#39; 4G wireless technology patents, after two earlier trial verdicts Optis had won were overturned &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260212/p60#a260212p60)
  - [A surprise God of War prequel is out on the PS5 right now](https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer)
  - [The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap](https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/)
- - [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled)
- - [Russia confirms it has blocked WhatsApp, citing Meta&#39;s &quot;unwillingness to comply with Russian law&quot;, and proposes that Russians switch to the state-owned Max app &lpar;Reuters&rpar;](http://www.techmeme.com/260212/p59#a260212p59)<!-- TECH:END -->
+ - [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

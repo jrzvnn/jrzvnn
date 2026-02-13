@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says 74% of iPhones launched in the last four years and 66% of all iPhones are running iOS 26; 68% of iPhones were running iOS 18 as of Jan. 21, 2025 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/260213/p17#a260213p17)
+ - [Social Security Workers Are Being Told to Hand Over Appointment Details to ICE](https://www.wired.com/story/social-security-administration-appointment-details-ice/)
+ - [The see-through Beats Studio Buds Plus are more than 40 percent off for Presidents Day](https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal)
  - [Some former employees blame xAI&#39;s staff exodus on xAI&#39;s focus on NSFW Grok and disregard for safety, constantly playing catch up to OpenAI, infighting, and more &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260213/p16#a260213p16)
- - [Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits](https://www.wired.com/story/senators-urge-top-regulators-to-stay-out-of-prediction-market-lawsuits/)
- - [Join Our Livestream: The Hype, Reality, and Future of EVs](https://www.wired.com/story/livestream-the-hype-reality-and-future-of-electric-vehicles/)
- - [Looking for Blood on Valentine&#39;s Day? This Netflix Slasher Rom-Com Is a Wild Joyride](https://www.cnet.com/tech/services-and-software/valentines-day-horror-movie-netflix-wild-slasher-heart-eyes/)
- - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)<!-- TECH:END -->
+ - [Amazon Prime Members Can Play These New Games for Free](https://www.cnet.com/tech/gaming/new-luna-games-amazon-prime-members-can-play-for-free-in-february/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

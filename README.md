@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Home Security Systems in 2026: Access Control and So Much More](https://www.cnet.com/home/security/best-home-security-system/)
  - [A deep dive into a global money-laundering ecosystem powered by crypto and messaging apps like WeChat and Telegram, used by drug cartels and criminal groups &lpar;Jessica Brice/Bloomberg&rpar;](http://www.techmeme.com/260214/p9#a260214p9)
  - [Current and former senior employees say AWS is undergoing a strategic shake-up amid fears it is losing ground to competitors in securing corporate AI contracts &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260214/p8#a260214p8)
  - [Disneyland&#39;s 3D-Printed Jungle Cruise Canoe: A Peek Behind the Scenes](https://www.cnet.com/tech/computing/disney-3d-printed-polymer-prop-canoe-jungle-cruise/)
- - [La Liga Soccer: Stream Real Madrid vs. Real Sociedad Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-real-sociedad-live-from-anywhere/)
- - [Livestream FA Cup Soccer: Watch Liverpool vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-liverpool-vs-brighton-from-anywhere/)<!-- TECH:END -->
+ - [La Liga Soccer: Stream Real Madrid vs. Real Sociedad Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-real-sociedad-live-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

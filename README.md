@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Britain Democracy](http://9gag.com/gag/avywLvq)
- - 😝 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
- - 💣 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
+ - 😝 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
+ - 😝 [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
+ - 💣 [Britain Democracy](http://9gag.com/gag/avywLvq)
  - 😝 [I&#39;ll forgive him for inventing JavaScript](http://9gag.com/gag/aGy5DV0)
- - 👉 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)<!-- MEMES:END -->
+ - 👉 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)<!-- MEMES:END -->
 
 ---
 

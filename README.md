@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dealroom and NATO Innovation Fund: European defense, security, and resilience startup funding rose 55% YoY to a record $8.7B in 2025, with AI accounting for 44% &lpar;Ingrid Lunden/Resilience Media&rpar;](http://www.techmeme.com/260214/p6#a260214p6)
  - [Best Apple Watch &lpar;2026&rpar;: Series 11, SE 3, and Ultra 3](https://www.wired.com/gallery/best-apple-watch/)
  - [How to un-Big Tech your online life](https://www.theverge.com/tech/879114/best-big-tech-app-alternatives-installer)
  - [Ring’s Flock breakup doesn’t fix its real problem](https://www.theverge.com/report/879320/ring-flock-partnership-breakup-does-not-fix-problems)
- - [How to Choose the Right Gaming Laptop &lpar;2026&rpar;: What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)
- - [Best Apple HomeKit and Siri Devices to Buy in 2026](https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/)<!-- TECH:END -->
+ - [How to Choose the Right Gaming Laptop &lpar;2026&rpar;: What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

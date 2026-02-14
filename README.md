@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
  - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 💣 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
- - 😝 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
- - 👉 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)<!-- MEMES:END -->
+ - 😝 [Close one](http://9gag.com/gag/aqywLjZ)
+ - 💣 [Typical](http://9gag.com/gag/aAy5wRE)
+ - 😝 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
+ - 👉 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)<!-- MEMES:END -->
 
 ---
 

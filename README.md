@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DJI’s first robovac is an autonomous cleaning drone you can’t trust](https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop)
+ - [The DJI Romo robovac had security so poor, this man remotely accessed thousands of them](https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt)
  - [BNP Paribas analysis: Anthropic saw visits to its site jump 6.5% after its Super Bowl ad and DAUs jump 11% post-game, outperforming other AI companies &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260214/p5#a260214p5)
- - [Sources: TSMC plans to invest another $100B to build four more US fabs to ensure tariff-free chip sales; analysis: its Arizona site has land for four more fabs &lpar;Financial Times&rpar;](http://www.techmeme.com/260214/p4#a260214p4)
- - [India partners with Alibaba.com to help Indian startups and small businesses reach overseas buyers, highlighting its selective engagement with Chinese platforms &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260214/p3#a260214p3)
- - [Sources: OpenAI is charging $60 per 1,000 impressions for ads in ChatGPT, a high price similar to Netflix&#39;s rate when it introduced ads &lpar;Financial Times&rpar;](http://www.techmeme.com/260214/p2#a260214p2)
- - [SoftBank-owned Japanese payments app PayPay files for a US IPO, and reports a $675.47M profit on ~$1.82B revenue for nine months ending December 31, 2025 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/260214/p1#a260214p1)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-14/)
+ - [Sources: TSMC plans to invest another $100B to build four more US fabs to ensure tariff-free chip sales; analysis: its Arizona site has land for four more fabs &lpar;Financial Times&rpar;](http://www.techmeme.com/260214/p4#a260214p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

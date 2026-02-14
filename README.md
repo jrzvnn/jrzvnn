@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
- - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 💣 [Britain Democracy](http://9gag.com/gag/avywLvq)
+ - 😝 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
+ - 😝 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
+ - 💣 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
  - 😝 [Meme\u2019d](http://9gag.com/gag/aBy5wyZ)
- - 👉 [Finally found some voter fraud](http://9gag.com/gag/a9y0730)<!-- MEMES:END -->
+ - 👉 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)<!-- MEMES:END -->
 
 ---
 

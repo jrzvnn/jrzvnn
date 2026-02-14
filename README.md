@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
- - 😝 [This is why we can&#39;t have nice things](http://9gag.com/gag/aMV5GYP)
- - 💣 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
+ - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
+ - 😝 [Britain Democracy](http://9gag.com/gag/avywLvq)
+ - 💣 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
  - 😝 [Maybe this time I&#39;ll finally win the State Lottery...](http://9gag.com/gag/aoyw29e)
- - 👉 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)<!-- MEMES:END -->
+ - 👉 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)<!-- MEMES:END -->
 
 ---
 

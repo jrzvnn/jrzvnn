@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Current and former senior employees say AWS is undergoing a strategic shake-up amid fears it is losing ground to competitors in securing corporate AI contracts &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260214/p8#a260214p8)
+ - [La Liga Soccer: Stream Real Madrid vs. Real Sociedad Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-real-sociedad-live-from-anywhere/)
+ - [Livestream FA Cup Soccer: Watch Liverpool vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-liverpool-vs-brighton-from-anywhere/)
  - [iBuyPower’s gaming desktops are discounted for Presidents Day](https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal)
- - [Georgia Tech announced the finalists in its wild musical instrument competition](https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge)
- - [Windows Secure Boot Certificates From 2011 Will Be Expiring Soon. What You Need to Know](https://www.cnet.com/tech/services-and-software/windows-secure-boot-certificates-from-2011-will-be-expiring-soon-what-you-need-to-know/)
- - [How To Buy an Ultrashort-Throw Projector](https://www.cnet.com/tech/home-entertainment/how-to-buy-an-ultra-short-throw-projector/)<!-- TECH:END -->
+ - [Georgia Tech announced the finalists in its wild musical instrument competition](https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

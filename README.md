@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
- - 😝 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
- - 💣 [Britain Democracy](http://9gag.com/gag/avywLvq)
- - 😝 [I&#39;ll forgive him for inventing JavaScript](http://9gag.com/gag/aGy5DV0)
- - 👉 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)<!-- MEMES:END -->
+ - 😝 [Britain Democracy](http://9gag.com/gag/avywLvq)
+ - 😝 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
+ - 💣 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
+ - 😝 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
+ - 👉 [Pick your fighter](http://9gag.com/gag/aXP1XeV)<!-- MEMES:END -->
 
 ---
 

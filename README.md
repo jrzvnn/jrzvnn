@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
  - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 😝 [Team Canada caught cheating at the olympics by Team Sweden. Canadian throws a fit on live TV.](http://9gag.com/gag/aW45864)
- - 💣 [The ultimate computer hack that&#39;s not really a hack](http://9gag.com/gag/a1mjXgG)
- - 😝 [The world needs more Japanese! Not the WWII kind, but the current generation is totally awesome!](http://9gag.com/gag/azxwAMN)
- - 👉 [Close one](http://9gag.com/gag/aqywLjZ)<!-- MEMES:END -->
+ - 💣 [Britain Democracy](http://9gag.com/gag/avywLvq)
+ - 😝 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
+ - 👉 [That is how normal self respecting men acts](http://9gag.com/gag/adBwpK2)<!-- MEMES:END -->
 
 ---
 

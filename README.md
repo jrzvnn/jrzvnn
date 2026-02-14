@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Apple Watch &lpar;2026&rpar;: Series 11, SE 3, and Ultra 3](https://www.wired.com/gallery/best-apple-watch/)
+ - [How to un-Big Tech your online life](https://www.theverge.com/tech/879114/best-big-tech-app-alternatives-installer)
+ - [Ring’s Flock breakup doesn’t fix its real problem](https://www.theverge.com/report/879320/ring-flock-partnership-breakup-does-not-fix-problems)
  - [How to Choose the Right Gaming Laptop &lpar;2026&rpar;: What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)
- - [Ring Kills Flock Safety Deal After Super Bowl Ad Uproar](https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/)
- - [Best Alternatives to Google’s Android Operating System &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-android-alternatives/)
- - [We Tested 35 Phones and Found the Surprising Winner of Best Battery Life](https://www.cnet.com/tech/mobile/best-phones-for-battery-life-we-tested/)
- - [Here’s What It’s Like to Use H&amp;R Block’s DIY Tax Service &lpar;2026&rpar;](https://www.wired.com/story/handr-block-diy-service/)<!-- TECH:END -->
+ - [Best Apple HomeKit and Siri Devices to Buy in 2026](https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

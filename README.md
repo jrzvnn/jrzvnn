@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lola Blankets Are 45 Percent Off This Presidents’ Day Weekend](https://www.wired.com/story/the-viral-lola-blankets-are-45-percent-off-right-now/)
  - [Best Presidents’ Day Mattress Sales of 2026](https://www.wired.com/story/best-presidents-day-mattress-sales-2026/)
- - [Robot Dogs Are on Going on Patrol at the 2026 World Cup in Mexico](https://www.wired.com/story/robot-dogs-are-on-going-on-patrol-at-the-2026-world-cup-in-mexico/)
- - [DJI’s first robovac is an autonomous cleaning drone you can’t trust](https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop)
- - [The DJI Romo robovac had security so poor, this man remotely accessed thousands of them](https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt)
- - [BNP Paribas analysis: Anthropic saw visits to its site jump 6.5% after its Super Bowl ad and DAUs jump 11% post-game, outperforming other AI companies &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260214/p5#a260214p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 14, #979](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-14-979/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 14 #713](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-14-713/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 14, #1701](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-14-1701/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

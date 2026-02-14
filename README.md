@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iBuyPower’s gaming desktops are discounted for Presidents Day](https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal)
+ - [Georgia Tech announced the finalists in its wild musical instrument competition](https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge)
  - [Windows Secure Boot Certificates From 2011 Will Be Expiring Soon. What You Need to Know](https://www.cnet.com/tech/services-and-software/windows-secure-boot-certificates-from-2011-will-be-expiring-soon-what-you-need-to-know/)
  - [How To Buy an Ultrashort-Throw Projector](https://www.cnet.com/tech/home-entertainment/how-to-buy-an-ultra-short-throw-projector/)
- - [ByteDance launches Doubao 2.0, an &quot;agent era&quot; upgrade of China&#39;s most widely used AI app capable of executing multi-step tasks, ahead of the Lunar New Year &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260214/p7#a260214p7)
- - [The First Planet Parade of 2026 Is Coming Up Soon: When and How to See It](https://www.cnet.com/science/space/the-first-planet-parade-of-2026-is-in-february-heres-how-to-see-it/)
- - [The Pocket Taco is the best way to turn your phone into a Game Boy](https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on)<!-- TECH:END -->
+ - [ByteDance launches Doubao 2.0, an &quot;agent era&quot; upgrade of China&#39;s most widely used AI app capable of executing multi-step tasks, ahead of the Lunar New Year &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260214/p7#a260214p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

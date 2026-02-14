@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
- - 😝 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
+ - 😝 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
  - 💣 [When you go to the BARBER, but its in TURKEY.](http://9gag.com/gag/aO85vBN)
  - 😝 [Maybe this time I&#39;ll finally win the State Lottery...](http://9gag.com/gag/aoyw29e)
  - 👉 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)<!-- MEMES:END -->

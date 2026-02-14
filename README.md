@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Britain Democracy](http://9gag.com/gag/avywLvq)
  - 😝 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
- - 💣 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
- - 😝 [I&#39;ll forgive him for inventing JavaScript](http://9gag.com/gag/aGy5DV0)
- - 👉 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)<!-- MEMES:END -->
+ - 💣 [Bribe bury](http://9gag.com/gag/a7oX7jL)
+ - 😝 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
+ - 👉 [Execute order 66!](http://9gag.com/gag/aKG5B4j)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring Kills Flock Safety Deal After Super Bowl Ad Uproar](https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/)
+ - [Best Alternatives to Google’s Android Operating System &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-android-alternatives/)
  - [Here’s What It’s Like to Use H&amp;R Block’s DIY Tax Service &lpar;2026&rpar;](https://www.wired.com/story/handr-block-diy-service/)
  - [Gear News of the Week: Samsung Sets a Date for Galaxy Unpacked, and Fitbit’s AI Coach Comes to iOS](https://www.wired.com/story/gear-news-of-the-week-samsung-sets-a-date-for-galaxy-unpacked-and-fitbits-ai-coach-comes-to-ios/)
- - [Lola Blankets Are 45 Percent Off This Presidents’ Day Weekend](https://www.wired.com/story/the-viral-lola-blankets-are-45-percent-off-right-now/)
- - [Best Presidents’ Day Mattress Sales of 2026](https://www.wired.com/story/best-presidents-day-mattress-sales-2026/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 14, #979](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-14-979/)<!-- TECH:END -->
+ - [Lola Blankets Are 45 Percent Off This Presidents’ Day Weekend](https://www.wired.com/story/the-viral-lola-blankets-are-45-percent-off-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

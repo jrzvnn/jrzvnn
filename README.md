@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance releases Doubao 2.0 for the &quot;agent era&quot;, joining other Chinese firms hoping to generate buzz around their AI models during the Lunar New Year holiday &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260214/p7#a260214p7)
+ - [The First Planet Parade of 2026 Is Coming Up Soon: When and How to See It](https://www.cnet.com/science/space/the-first-planet-parade-of-2026-is-in-february-heres-how-to-see-it/)
  - [The Pocket Taco is the best way to turn your phone into a Game Boy](https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on)
  - [A powerful tool of resistance is already in your hands](https://www.theverge.com/policy/879273/alex-pretti-ice-cbp-trump-free-speech)
- - [My uncanny AI valentines](https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions)
- - [Don&#39;t Bother Waiting for the iPhone 18. Just Buy the iPhone 17](https://www.cnet.com/tech/mobile/dont-wait-for-the-iphone-18-its-fine-to-buy-the-iphone-17/)
- - [I Was Shocked to Discover My Home&#39;s Worst &#39;Energy Vampire&#39;](https://www.cnet.com/news/i-was-shocked-to-discover-home-worst-energy-vampire/)<!-- TECH:END -->
+ - [My uncanny AI valentines](https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
- - 😝 [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
- - 💣 [Britain Democracy](http://9gag.com/gag/avywLvq)
+ - 😝 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
+ - 😝 [Bribe bury](http://9gag.com/gag/a7oX7jL)
+ - 💣 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
  - 😝 [I&#39;ll forgive him for inventing JavaScript](http://9gag.com/gag/aGy5DV0)
- - 👉 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)<!-- MEMES:END -->
+ - 👉 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
- - 😝 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
- - 💣 [Will Smith has a chance to make history again](http://9gag.com/gag/a9y0L66)
+ - 😝 [A cia profiler explains how psychopaths work](http://9gag.com/gag/ae9wpZb)
+ - 😝 [The most UNEXPECTED hidden talent reveal on live breakfast tv](http://9gag.com/gag/avywPrq)
+ - 💣 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
  - 😝 [I&#39;ll forgive him for inventing JavaScript](http://9gag.com/gag/aGy5DV0)
- - 👉 [Britain Democracy](http://9gag.com/gag/avywLvq)<!-- MEMES:END -->
+ - 👉 [Execute order 66!](http://9gag.com/gag/aKG5B4j)<!-- MEMES:END -->
 
 ---
 

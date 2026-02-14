@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
  - 😝 [That is how normal self respecting men acts](http://9gag.com/gag/adBwpK2)
- - 😝 [Britain Democracy](http://9gag.com/gag/avywLvq)
- - 💣 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
- - 😝 [I&#39;ll forgive him for inventing JavaScript](http://9gag.com/gag/aGy5DV0)
- - 👉 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)<!-- MEMES:END -->
+ - 💣 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
+ - 😝 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
+ - 👉 [Britain Democracy](http://9gag.com/gag/avywLvq)<!-- MEMES:END -->
 
 ---
 

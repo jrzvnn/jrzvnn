@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: recently the DHS has sent hundreds of administrative subpoenas, which do not need a judge&#39;s approval, to tech firms to identify people critical of ICE &lpar;New York Times&rpar;](http://www.techmeme.com/260213/p22#a260213p22)
  - [A matplotlib maintainer explains how an AI agent that suggests code changes on open source repos wrote a hit piece on him after a rejection, and the aftermath &lpar;Scott/The Shamblog&rpar;](http://www.techmeme.com/260213/p21#a260213p21)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 14, #509](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-14-509/)
  - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)
- - [Google Revives Android 17 Beta 1 Just Days After Halting Launch](https://www.cnet.com/tech/mobile/google-unveils-android-17-beta-1-days-after-pulling-it-at-last-minute/)
- - [Disney sent a cease-and-desist letter to ByteDance, claiming it infringed on Disney&#39;s works to train its Seedance 2.0 video generation model without pay &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260213/p20#a260213p20)<!-- TECH:END -->
+ - [Google Revives Android 17 Beta 1 Just Days After Halting Launch](https://www.cnet.com/tech/mobile/google-unveils-android-17-beta-1-days-after-pulling-it-at-last-minute/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

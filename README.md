@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pocket Taco is the best way to turn your phone into a Game Boy](https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on)
+ - [A powerful tool of resistance is already in your hands](https://www.theverge.com/policy/879273/alex-pretti-ice-cbp-trump-free-speech)
+ - [My uncanny AI valentines](https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions)
  - [Don&#39;t Bother Waiting for the iPhone 18. Just Buy the iPhone 17](https://www.cnet.com/tech/mobile/dont-wait-for-the-iphone-18-its-fine-to-buy-the-iphone-17/)
- - [I Was Shocked to Discover My Home&#39;s Worst &#39;Energy Vampire&#39;](https://www.cnet.com/news/i-was-shocked-to-discover-home-worst-energy-vampire/)
- - [My Houseplants Kept Dying Until I Tried This $13 Device](https://www.cnet.com/news/houseplants-kept-dying-until-tried-this-13-dollar-device/)
- - [Returning stolen artifacts becomes a thrilling heist in Relooted](https://www.theverge.com/games/878121/relooted-review-xbox-steam)
- - [Anker’s USB-C cable that lets you charge two gadgets at once is 20 percent off](https://www.theverge.com/gadgets/879003/anker-140w-2-in-1-usb-c-cable-presidents-day-sale-deal)<!-- TECH:END -->
+ - [I Was Shocked to Discover My Home&#39;s Worst &#39;Energy Vampire&#39;](https://www.cnet.com/news/i-was-shocked-to-discover-home-worst-energy-vampire/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

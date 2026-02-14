@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India approves a $1.1B state-backed VC fund to finance high-risk areas like AI and advanced manufacturing, doubling down on an effort that debuted in 2016 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260214/p11#a260214p11)
+ - [Jikipedia turns Epstein’s emails into an encyclopedia of the his powerful friends](https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia)
+ - [We&#39;re Tracking Streaming Price Hikes in 2026: Spotify, Paramount Plus, Crunchyroll and Others](https://www.cnet.com/tech/services-and-software/streaming-price-hikes-2026-spotify-paramount-plus-crunchyroll-and-more/)
  - [Analysis: despite investing $150B+ in 10+ years, China is expected to produce 2% of global AI chips in 2026 and 70x less memory storage than foreign chipmakers &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/260214/p10#a260214p10)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 15, #510](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-15-510/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 15, #980](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-15-980/)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 15, #1702](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-15-1702/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 15 #714](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-15-714/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 15, #510](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-15-510/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
- - 😝 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
- - 💣 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
- - 😝 [Maybe this time I&#39;ll finally win the State Lottery...](http://9gag.com/gag/aoyw29e)
- - 👉 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)<!-- MEMES:END -->
+ - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
+ - 😝 [The ultimate computer hack that&#39;s not really a hack](http://9gag.com/gag/a1mjXgG)
+ - 💣 [The world needs more Japanese! Not the WWII kind, but the current generation is totally awesome!](http://9gag.com/gag/azxwAMN)
+ - 😝 [Close one](http://9gag.com/gag/aqywLjZ)
+ - 👉 [Typical](http://9gag.com/gag/aAy5wRE)<!-- MEMES:END -->
 
 ---
 

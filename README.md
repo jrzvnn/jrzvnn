@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
- - 😝 [Clue&#39;s in the name](http://9gag.com/gag/ajPwn4q)
- - 💣 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
- - 😝 [Britain Democracy](http://9gag.com/gag/avywLvq)
- - 👉 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)<!-- MEMES:END -->
+ - 😝 [The world needs more Japanese! Not the WWII kind, but the current generation is totally awesome!](http://9gag.com/gag/azxwAMN)
+ - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
+ - 💣 [Close one](http://9gag.com/gag/aqywLjZ)
+ - 😝 [Typical](http://9gag.com/gag/aAy5wRE)
+ - 👉 [Team Canada caught cheating at the olympics by Team Sweden. Canadian throws a fit on live TV.](http://9gag.com/gag/aW45864)<!-- MEMES:END -->
 
 ---
 

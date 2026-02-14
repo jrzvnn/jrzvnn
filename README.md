@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
- - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 💣 [Britain Democracy](http://9gag.com/gag/avywLvq)
- - 😝 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
- - 👉 [That is how normal self respecting men acts](http://9gag.com/gag/adBwpK2)<!-- MEMES:END -->
+ - 😝 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
+ - 😝 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
+ - 💣 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
+ - 😝 [Maybe this time I&#39;ll finally win the State Lottery...](http://9gag.com/gag/aoyw29e)
+ - 👉 [Britain Democracy](http://9gag.com/gag/avywLvq)<!-- MEMES:END -->
 
 ---
 

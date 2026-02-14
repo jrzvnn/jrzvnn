@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 😝 [The ultimate computer hack that&#39;s not really a hack](http://9gag.com/gag/a1mjXgG)
- - 💣 [The world needs more Japanese! Not the WWII kind, but the current generation is totally awesome!](http://9gag.com/gag/azxwAMN)
- - 😝 [Close one](http://9gag.com/gag/aqywLjZ)
- - 👉 [Typical](http://9gag.com/gag/aAy5wRE)<!-- MEMES:END -->
+ - 😝 [Team Canada caught cheating at the olympics by Team Sweden. Canadian throws a fit on live TV.](http://9gag.com/gag/aW45864)
+ - 💣 [The ultimate computer hack that&#39;s not really a hack](http://9gag.com/gag/a1mjXgG)
+ - 😝 [The world needs more Japanese! Not the WWII kind, but the current generation is totally awesome!](http://9gag.com/gag/azxwAMN)
+ - 👉 [Close one](http://9gag.com/gag/aqywLjZ)<!-- MEMES:END -->
 
 ---
 

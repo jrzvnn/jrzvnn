@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
- - 😝 [Britain Democracy](http://9gag.com/gag/avywLvq)
- - 💣 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
- - 😝 [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
- - 👉 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)<!-- MEMES:END -->
+ - 😝 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
+ - 😝 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
+ - 💣 [Will Smith has a chance to make history again](http://9gag.com/gag/a9y0L66)
+ - 😝 [I&#39;ll forgive him for inventing JavaScript](http://9gag.com/gag/aGy5DV0)
+ - 👉 [Britain Democracy](http://9gag.com/gag/avywLvq)<!-- MEMES:END -->
 
 ---
 

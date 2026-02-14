@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most UNEXPECTED hidden talent reveal on live breakfast tv](http://9gag.com/gag/avywPrq)
+ - 😝 [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
  - 😝 [This is why we can&#39;t have nice things](http://9gag.com/gag/aMV5GYP)
- - 💣 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
+ - 💣 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
  - 😝 [Maybe this time I&#39;ll finally win the State Lottery...](http://9gag.com/gag/aoyw29e)
- - 👉 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)<!-- MEMES:END -->
+ - 👉 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)<!-- MEMES:END -->
 
 ---
 

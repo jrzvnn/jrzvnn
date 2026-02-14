@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
  - 😝 [Will Smith has a chance to make history again](http://9gag.com/gag/a9y0L66)
- - 😝 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
  - 💣 [Clue&#39;s in the name](http://9gag.com/gag/ajPwn4q)
  - 😝 [I&#39;ll forgive him for inventing JavaScript](http://9gag.com/gag/aGy5DV0)
- - 👉 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)<!-- MEMES:END -->
+ - 👉 [Pick your fighter](http://9gag.com/gag/aXP1XeV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ugreen NASync DH4300 Plus review: Easy &amp; affordable Time Capsule replacement](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)
  - [You need to watch the intensely surreal cult classic Possession](https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani)
  - [Thanks AI: Hard drives aren&#39;t going to get cheaper anytime soon](https://appleinsider.com/articles/26/02/15/thanks-ai-hard-drives-arent-going-to-get-cheaper-anytime-soon?utm_source=rss)
  - [When to Watch Netflix&#39;s &#39;America&#39;s Next Top Model&#39; Docuseries](https://www.cnet.com/tech/services-and-software/when-to-watch-netflix-americas-next-top-model-docuseries/)
- - [Here are the 55 best Presidents Day deals we’ve found so far](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)
- - [Sources: the WH is pressuring Utah Republican State Rep. Doug Fiefia to abandon HB 286, an AI transparency and kids&#39; safety bill similar to California&#39;s AI law &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260215/p10#a260215p10)<!-- TECH:END -->
+ - [Here are the 55 best Presidents Day deals we’ve found so far](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

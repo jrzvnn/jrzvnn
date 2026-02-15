@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb says its custom-built AI agent now handles ~33% of its customer support issues in North America, and it is preparing to roll out the feature globally &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260215/p1#a260215p1)
- - [Amazon stock fell for the ninth straight day on Friday, its longest losing streak since 2006, opening at $244.98 on Feb. 3 and closing at $198.79 on Feb. 13 &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/260214/p13#a260214p13)
- - [Admin official: Pentagon may sever Anthropic relationship over AI safeguards; Anthropic says only mass surveillance and fully autonomous weapons are off limits &lpar;Axios&rpar;](http://www.techmeme.com/260214/p12#a260214p12)
- - [India approves a $1.1B state-backed VC fund to finance high-risk areas like AI and advanced manufacturing, doubling down on an effort that debuted in 2016 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260214/p11#a260214p11)
- - [Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends](https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia)<!-- TECH:END -->
+ - [Western Digital Has No More HDD Capacity Left, as CEO Reveals Massive AI Deals; Brace Yourself For Price Surges Ahead! &lpar;Muhammad Zuhair/Wccftech&rpar;](http://www.techmeme.com/260215/p6#a260215p6)
+ - [Abhishek Singh, CEO of IndiaAI Mission, says India will seek international agreement on a &quot;global AI commons&quot; at this week&#39;s AI Impact Summit in New Delhi &lpar;Financial Times&rpar;](http://www.techmeme.com/260215/p5#a260215p5)
+ - [Anthropic partners with CodePath to help redesign computer coding curricula at hundreds of US community and state colleges, integrating Claude AI tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260215/p4#a260215p4)
+ - [Scale AI is suing the US DoD; Scale AI has several contracts with the department, and a spokesperson says the lawsuit &quot;relates to a recent procurement decision&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/260215/p3#a260215p3)
+ - [Uber says it plans to launch Uber Eats in Austria and six other European countries in 2026, as it gains market share in the UK, Germany, France, and Spain &lpar;Financial Times&rpar;](http://www.techmeme.com/260215/p2#a260215p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

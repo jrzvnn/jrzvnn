@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
  - 😝 [Bribe bury](http://9gag.com/gag/a7oX7jL)
- - 💣 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
- - 😝 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)
+ - 😝 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
+ - 💣 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
+ - 😝 [Seem to be the time to repost this.](http://9gag.com/gag/an7wb9L)
  - 👉 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)<!-- MEMES:END -->
 
 ---

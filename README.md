@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Close one](http://9gag.com/gag/aqywLjZ)
- - 😝 [Happy Caturday](http://9gag.com/gag/awy256W)
- - 💣 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
- - 😝 [`I didn&#39;t f**king touch it.`](http://9gag.com/gag/an7wyVV)
- - 👉 [I&#39;ll forgive him for inventing JavaScript](http://9gag.com/gag/aGy5DV0)<!-- MEMES:END -->
+ - 😝 [Security guard letting her learn a lesson](http://9gag.com/gag/a1mjbAD)
+ - 😝 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
+ - 💣 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
+ - 😝 [A lathe from 1888](http://9gag.com/gag/a0eqbOn)
+ - 👉 [Finally found some voter fraud](http://9gag.com/gag/a9y0730)<!-- MEMES:END -->
 
 ---
 

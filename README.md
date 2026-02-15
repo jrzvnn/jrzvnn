@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why are Epstein’s emails full of equals signs?](https://www.theverge.com/policy/879016/epstein-files-emails-text-errors-encoding)
- - [AI can’t make good video game worlds yet, and it might never be able to](https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie)
- - [The Nothing That Has the Potential to Be Anything](https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/)
- - [The Best Samsung Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
- - [Google’s AI Overviews Can Scam You. Here’s How to Stay Safe](https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/)<!-- TECH:END -->
+ - [Apple isn&#39;t compromising build quality with new, colorful, inexpensive MacBook](https://appleinsider.com/articles/26/02/15/apple-isnt-compromising-build-quality-with-new-colorful-inexpensive-macbook?utm_source=rss)
+ - [iOS 27 expected to deliver better battery life even if you have an older iPhone](https://appleinsider.com/articles/26/02/15/ios-27-expected-to-deliver-better-battery-life-even-if-you-have-an-older-iphone?utm_source=rss)
+ - [5 Ways to Handle a Robot When It Goes Rogue](https://www.cnet.com/tech/computing/5-ways-to-handle-a-rogue-robot/)
+ - [How a TikTok Creator&#39;s Viral Dr. Pepper Jingle Snagged Vita Coco, Too](https://www.cnet.com/culture/internet/how-romeo-tiktok-dr-pepper-jingle-vita-coco/)
+ - [Why are Epstein’s emails full of equals signs?](https://www.theverge.com/policy/879016/epstein-files-emails-text-errors-encoding)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

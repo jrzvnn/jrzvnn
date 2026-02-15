@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As AI and agents are adopted to accelerate development, cognitive load and cognitive debt are likely to become bigger threats to developers than technical debt &lpar;Margaret-Anne Storey&rpar;](http://www.techmeme.com/260215/p7#a260215p7)
  - [Western Digital said on its Q2 earnings call it had &quot;pretty much sold out&quot; its 2026 HDD capacity, and that the consumer sector accounted for 5% of total revenue &lpar;Muhammad Zuhair/Wccftech&rpar;](http://www.techmeme.com/260215/p6#a260215p6)
  - [Abhishek Singh, CEO of IndiaAI Mission, says India will seek international agreement on a &quot;global AI commons&quot; at this week&#39;s AI Impact Summit in New Delhi &lpar;Financial Times&rpar;](http://www.techmeme.com/260215/p5#a260215p5)
  - [Anthropic partners with CodePath to help redesign computer coding curricula at hundreds of US community and state colleges, integrating Claude AI tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260215/p4#a260215p4)
- - [Scale AI is suing the US DoD; Scale AI has several contracts with the department, and a spokesperson says the lawsuit &quot;relates to a recent procurement decision&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/260215/p3#a260215p3)
- - [Uber says it plans to launch Uber Eats in Austria and six other European countries in 2026, as it gains market share in the UK, Germany, France, and Spain &lpar;Financial Times&rpar;](http://www.techmeme.com/260215/p2#a260215p2)<!-- TECH:END -->
+ - [Scale AI is suing the US DoD; Scale AI has several contracts with the department, and a spokesperson says the lawsuit &quot;relates to a recent procurement decision&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/260215/p3#a260215p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

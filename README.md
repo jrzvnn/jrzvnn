@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s AI Overviews Can Scam You. Here’s How to Stay Safe](https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/)
+ - [9 Best Windows Laptops &lpar;2026&rpar;: WIRED-Tested Laptops to Buy](https://www.wired.com/gallery/best-windows-laptops/)
  - [CurrentBody LED Hair Growth Helmet Review: Baby Hairs Abound &lpar;2026&rpar;](https://www.wired.com/review/currentbody-led-hair-growth-helmet/)
  - [AI, Fancy Footwear, and All the Other Gear Powering Olympic Bobsledding](https://www.wired.com/story/ai-fancy-footwear-and-all-the-other-gear-powering-olympic-bobsledding/)
- - [As AI and agents are adopted to accelerate development, cognitive load and cognitive debt are likely to become bigger threats to developers than technical debt &lpar;Margaret-Anne Storey&rpar;](http://www.techmeme.com/260215/p7#a260215p7)
- - [This iPhone Feature Helps Me Get More Quality Sleep](https://www.cnet.com/health/sleep/one-iphone-feature-helped-more-quality-sleep/)
- - [Western Digital said on its Q2 earnings call it had &quot;pretty much sold out&quot; its 2026 HDD capacity, and that the consumer sector accounted for 5% of total revenue &lpar;Muhammad Zuhair/Wccftech&rpar;](http://www.techmeme.com/260215/p6#a260215p6)<!-- TECH:END -->
+ - [As AI and agents are adopted to accelerate development, cognitive load and cognitive debt are likely to become bigger threats to developers than technical debt &lpar;Margaret-Anne Storey&rpar;](http://www.techmeme.com/260215/p7#a260215p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

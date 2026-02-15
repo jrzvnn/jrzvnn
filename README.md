@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Security guard letting her learn a lesson](http://9gag.com/gag/a1mjbAD)
- - 😝 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
- - 💣 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
+ - 😝 [Finally found some voter fraud](http://9gag.com/gag/a9y0730)
+ - 😝 [Bribe bury](http://9gag.com/gag/a7oX7jL)
+ - 💣 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
  - 😝 [A lathe from 1888](http://9gag.com/gag/a0eqbOn)
- - 👉 [Finally found some voter fraud](http://9gag.com/gag/a9y0730)<!-- MEMES:END -->
+ - 👉 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)<!-- MEMES:END -->
 
 ---
 

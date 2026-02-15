@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI Overviews Can Scam You. Here’s How to Stay Safe](https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/)
- - [9 Best Windows Laptops &lpar;2026&rpar;: WIRED-Tested Laptops to Buy](https://www.wired.com/gallery/best-windows-laptops/)
- - [CurrentBody LED Hair Growth Helmet Review: Baby Hairs Abound &lpar;2026&rpar;](https://www.wired.com/review/currentbody-led-hair-growth-helmet/)
- - [AI, Fancy Footwear, and All the Other Gear Powering Olympic Bobsledding](https://www.wired.com/story/ai-fancy-footwear-and-all-the-other-gear-powering-olympic-bobsledding/)
- - [As AI and agents are adopted to accelerate development, cognitive load and cognitive debt are likely to become bigger threats to developers than technical debt &lpar;Margaret-Anne Storey&rpar;](http://www.techmeme.com/260215/p7#a260215p7)<!-- TECH:END -->
+ - [Why are Epstein’s emails full of equals signs?](https://www.theverge.com/policy/879016/epstein-files-emails-text-errors-encoding)
+ - [AI can’t make good video game worlds yet, and it might never be able to](https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie)
+ - [The Nothing That Has the Potential to Be Anything](https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/)
+ - [The Best Samsung Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
+ - [Google’s AI Overviews Can Scam You. Here’s How to Stay Safe](https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

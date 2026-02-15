@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla CarPlay delay caused by fears of slow iOS 26 adoption rates](https://appleinsider.com/articles/26/02/15/tesla-carplay-delay-caused-by-fears-of-slow-ios-26-adoption-rates?utm_source=rss)
  - [iOS 26 adoption rate isn&#39;t the crisis some analysts are portraying](https://appleinsider.com/articles/26/02/13/ios-26-adoption-rate-isnt-the-crisis-some-analysts-are-portraying?utm_source=rss)
  - [Colorful MacBook &amp; iPhone 17e launching as soon as March](https://appleinsider.com/articles/26/02/15/colorful-macbook-iphone-17e-launching-as-soon-as-march?utm_source=rss)
- - [Professor David J. Farber, whose work on academic experimental computer networks helped define the evolution of the early internet, died on February 7 at age 91 &lpar;Peter Wayner/New York Times&rpar;](http://www.techmeme.com/260215/p8#a260215p8)
- - [Apple isn&#39;t compromising build quality with new, colorful, inexpensive MacBook](https://appleinsider.com/articles/26/02/15/apple-isnt-compromising-build-quality-with-new-colorful-inexpensive-macbook?utm_source=rss)
- - [iOS 27 expected to deliver better battery life even if you have an older iPhone](https://appleinsider.com/articles/26/02/15/ios-27-expected-to-deliver-better-battery-life-even-if-you-have-an-older-iphone?utm_source=rss)<!-- TECH:END -->
+ - [I Tested 6 Major Frozen Fry Brands and the Best One Is a Total Steal at Just $3](https://www.cnet.com/home/kitchen-and-household/best-frozen-french-fries-air-fryer-ranked/)
+ - [Galaxy S26 Rumors: More Details Leaked About Samsung&#39;s Upcoming Phones](https://www.cnet.com/tech/mobile/galaxy-s26-leaks-rumor-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

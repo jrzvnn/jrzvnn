@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Astronauts Are Now Allowed to Use the Latest Smartphones in Space](https://www.cnet.com/tech/mobile/latest-smartphones-now-allowed-in-space-nasa-says/)
  - [Former NPR host David Greene sues Google for allegedly replicating his voice in NotebookLM without permission; Google says the voice is based on a paid actor &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/260215/p11#a260215p11)
  - [Ugreen NASync DH4300 Plus review: Easy &amp; affordable Time Capsule replacement](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)
  - [You need to watch the intensely surreal cult classic Possession](https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani)
- - [Thanks AI: Hard drives aren&#39;t going to get cheaper anytime soon](https://appleinsider.com/articles/26/02/15/thanks-ai-hard-drives-arent-going-to-get-cheaper-anytime-soon?utm_source=rss)
- - [When to Watch Netflix&#39;s &#39;America&#39;s Next Top Model&#39; Docuseries](https://www.cnet.com/tech/services-and-software/when-to-watch-netflix-americas-next-top-model-docuseries/)<!-- TECH:END -->
+ - [Thanks AI: Hard drives aren&#39;t going to get cheaper anytime soon](https://appleinsider.com/articles/26/02/15/thanks-ai-hard-drives-arent-going-to-get-cheaper-anytime-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

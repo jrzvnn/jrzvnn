@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 26 adoption rate isn&#39;t the crisis some analysts are portraying](https://appleinsider.com/articles/26/02/13/ios-26-adoption-rate-isnt-the-crisis-some-analysts-are-portraying?utm_source=rss)
+ - [Colorful MacBook &amp; iPhone 17e launching as soon as March](https://appleinsider.com/articles/26/02/15/colorful-macbook-iphone-17e-launching-as-soon-as-march?utm_source=rss)
+ - [Professor David J. Farber, whose work on academic experimental computer networks helped define the evolution of the early internet, died on February 7 at age 91 &lpar;Peter Wayner/New York Times&rpar;](http://www.techmeme.com/260215/p8#a260215p8)
  - [Apple isn&#39;t compromising build quality with new, colorful, inexpensive MacBook](https://appleinsider.com/articles/26/02/15/apple-isnt-compromising-build-quality-with-new-colorful-inexpensive-macbook?utm_source=rss)
- - [iOS 27 expected to deliver better battery life even if you have an older iPhone](https://appleinsider.com/articles/26/02/15/ios-27-expected-to-deliver-better-battery-life-even-if-you-have-an-older-iphone?utm_source=rss)
- - [5 Ways to Handle a Robot When It Goes Rogue](https://www.cnet.com/tech/computing/5-ways-to-handle-a-rogue-robot/)
- - [How a TikTok Creator&#39;s Viral Dr. Pepper Jingle Snagged Vita Coco, Too](https://www.cnet.com/culture/internet/how-romeo-tiktok-dr-pepper-jingle-vita-coco/)
- - [Why are Epstein’s emails full of equals signs?](https://www.theverge.com/policy/879016/epstein-files-emails-text-errors-encoding)<!-- TECH:END -->
+ - [iOS 27 expected to deliver better battery life even if you have an older iPhone](https://appleinsider.com/articles/26/02/15/ios-27-expected-to-deliver-better-battery-life-even-if-you-have-an-older-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

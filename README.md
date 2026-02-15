@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rain Epler, a member of the Estonian Parliament, doesn&#39;t go to a barber and cuts his own hair.](http://9gag.com/gag/aZZ5B8p)
+ - 😝 [Security guard letting her learn a lesson](http://9gag.com/gag/a1mjbAD)
  - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 💣 [They Cheated And even stood and screamed at the Swedish players when they were doing their interview. Extremely embarrassing and poor sportsmanship.](http://9gag.com/gag/aPA2WBR)
- - 😝 [The way he just accepts his fate](http://9gag.com/gag/apRwLr5)
- - 👉 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)<!-- MEMES:END -->
+ - 💣 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)
+ - 😝 [Rain Epler, a member of the Estonian Parliament, doesn&#39;t go to a barber and cuts his own hair.](http://9gag.com/gag/aZZ5B8p)
+ - 👉 [The way he just accepts his fate](http://9gag.com/gag/apRwLr5)<!-- MEMES:END -->
 
 ---
 

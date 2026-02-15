@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
  - 😝 [Security guard letting her learn a lesson](http://9gag.com/gag/a1mjbAD)
- - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 💣 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)
- - 😝 [Rain Epler, a member of the Estonian Parliament, doesn&#39;t go to a barber and cuts his own hair.](http://9gag.com/gag/aZZ5B8p)
+ - 💣 [She&#39;s happy it wasn&#39;t a card crash](http://9gag.com/gag/adBw7RM)
+ - 😝 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)
  - 👉 [The way he just accepts his fate](http://9gag.com/gag/apRwLr5)<!-- MEMES:END -->
 
 ---

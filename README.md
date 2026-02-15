@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 😝 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
- - 💣 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)
- - 😝 [Even community notes is getting tired](http://9gag.com/gag/aBy5Wp2)
- - 👉 [The way he just accepts his fate](http://9gag.com/gag/apRwLr5)<!-- MEMES:END -->
+ - 😝 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
+ - 😝 [A lathe from 1888](http://9gag.com/gag/a0eqbOn)
+ - 💣 [Arte in Movimento](http://9gag.com/gag/aGy512G)
+ - 😝 [So much body positivity.. just gonna leave it here](http://9gag.com/gag/aKG5V01)
+ - 👉 [On todays nature programme](http://9gag.com/gag/adBw7WV)<!-- MEMES:END -->
 
 ---
 

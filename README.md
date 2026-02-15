@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bribe bury](http://9gag.com/gag/a7oX7jL)
- - 😝 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
- - 💣 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
- - 😝 [Seem to be the time to repost this.](http://9gag.com/gag/an7wb9L)
- - 👉 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)<!-- MEMES:END -->
+ - 😝 [Close one](http://9gag.com/gag/aqywLjZ)
+ - 😝 [Happy Caturday](http://9gag.com/gag/awy256W)
+ - 💣 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
+ - 😝 [`I didn&#39;t f**king touch it.`](http://9gag.com/gag/an7wyVV)
+ - 👉 [Team Canada caught cheating at the olympics by Team Sweden. Canadian throws a fit on live TV.](http://9gag.com/gag/aW45864)<!-- MEMES:END -->
 
 ---
 

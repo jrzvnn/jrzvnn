@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
  - 😝 [Bribe bury](http://9gag.com/gag/a7oX7jL)
- - 😝 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
- - 💣 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 😝 [Nobody read the title](http://9gag.com/gag/a34rqd5)
- - 👉 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)<!-- MEMES:END -->
+ - 💣 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
+ - 😝 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)
+ - 👉 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)<!-- MEMES:END -->
 
 ---
 

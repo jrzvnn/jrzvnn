@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
- - 😝 [Security guard letting her learn a lesson](http://9gag.com/gag/a1mjbAD)
- - 💣 [She&#39;s happy it wasn&#39;t a card crash](http://9gag.com/gag/adBw7RM)
+ - 😝 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
  - 😝 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)
- - 👉 [The way he just accepts his fate](http://9gag.com/gag/apRwLr5)<!-- MEMES:END -->
+ - 💣 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
+ - 😝 [She&#39;s happy it wasn&#39;t a card crash](http://9gag.com/gag/adBw7RM)
+ - 👉 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)<!-- MEMES:END -->
 
 ---
 

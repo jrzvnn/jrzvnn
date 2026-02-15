@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I didn&#39;t f**king touch it.`](http://9gag.com/gag/an7wyVV)
+ - 😝 [They Cheated And even stood and screamed at the Swedish players when they were doing their interview. Extremely embarrassing and poor sportsmanship.](http://9gag.com/gag/aPA2WBR)
  - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 💣 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)
- - 😝 [Even community notes is getting tired](http://9gag.com/gag/aBy5Wp2)
- - 👉 [The way he just accepts his fate](http://9gag.com/gag/apRwLr5)<!-- MEMES:END -->
+ - 💣 [The way he just accepts his fate](http://9gag.com/gag/apRwLr5)
+ - 😝 [Get your swimming lessons here](http://9gag.com/gag/aO85BqN)
+ - 👉 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)<!-- MEMES:END -->
 
 ---
 

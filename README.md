@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Here are the 55 best Presidents Day deals we’ve found so far](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)
  - [Sources: the WH is pressuring Utah Republican State Rep. Doug Fiefia to abandon HB 286, an AI transparency and kids&#39; safety bill similar to California&#39;s AI law &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260215/p10#a260215p10)
+ - [You&#39;ll Be Able to Disable the New AI Features Coming to Firefox](https://www.cnet.com/tech/services-and-software/mozilla-adds-kill-switch-for-new-ai-features-coming-to-firefox-browser/)
  - [Sources: Apple tweaked its Maps app for Tesla before the EV maker&#39;s planned addition of CarPlay; low-cost MacBook will get an aluminum chassis in playful colors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260215/p9#a260215p9)
- - [The Best Vegan Meal Delivery Services for 2026, Tested by a Plant-Based Eater](https://www.cnet.com/health/nutrition/best-vegan-meal-delivery-services/)
- - [I hate my AI pet with every fiber of my being](https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet)<!-- TECH:END -->
+ - [HDR10 vs. Dolby Vision vs. HLG: HDR Formats Compared](https://www.cnet.com/tech/home-entertainment/hdr10-vs-dolby-vision-vs-hlg-how-do-hdr-formats-compare/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

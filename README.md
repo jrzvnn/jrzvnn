@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is in advanced talks to hire OpenClaw founder Peter Steinberger and several team members; Steinberger would likely work on personal agents &lpar;The Information&rpar;](http://www.techmeme.com/260215/p15#a260215p15)
+ - [Sam Altman says Peter Steinberger, founder of OpenClaw, is joining OpenAI &quot;to drive the next generation of personal agents&quot;; OpenClaw will remain open source &lpar;The Information&rpar;](http://www.techmeme.com/260215/p15#a260215p15)
  - [Sources: OpenAI is in advanced talks to hire OpenClaw founder Peter Steinberger and several team members; Steinberger would likely work on personal agents &lpar;Nick Wingfield/The Information&rpar;](http://www.techmeme.com/260215/p14#a260215p14)
- - [Analysis: DRAM and NAND memory prices have jumped 600%+ over the past year for routers and set-top boxes, hitting telcos targeting aggressive broadband rollouts &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260215/p13#a260215p13)
- - [Ugreen NASync DH4300 Plus review: Affordable Time Capsule backup replacement](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)
- - [Sam Altman says that India has 100M weekly active ChatGPT users, the app&#39;s second-largest userbase after the US, ahead of the AI Impact Summit &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260215/p12#a260215p12)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 16, #1703](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-16-1703/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 16, #981](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-16-981/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 16 #715](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-16-715/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Happy Caturday](http://9gag.com/gag/awy256W)
  - 💣 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
  - 😝 [`I didn&#39;t f**king touch it.`](http://9gag.com/gag/an7wyVV)
- - 👉 [Team Canada caught cheating at the olympics by Team Sweden. Canadian throws a fit on live TV.](http://9gag.com/gag/aW45864)<!-- MEMES:END -->
+ - 👉 [I&#39;ll forgive him for inventing JavaScript](http://9gag.com/gag/aGy5DV0)<!-- MEMES:END -->
 
 ---
 

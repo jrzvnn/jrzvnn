@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Team Canada caught cheating at the olympics by Team Sweden. Canadian throws a fit on live TV.](http://9gag.com/gag/aW45864)
- - 😝 [Meme\u2019d](http://9gag.com/gag/aBy5wyZ)
- - 💣 [`I didn&#39;t f**king touch it.`](http://9gag.com/gag/an7wyVV)
- - 😝 [A lathe from 1888](http://9gag.com/gag/a0eqbOn)
- - 👉 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)<!-- MEMES:END -->
+ - 😝 [`I didn&#39;t f**king touch it.`](http://9gag.com/gag/an7wyVV)
+ - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
+ - 💣 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
+ - 😝 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)
+ - 👉 [Finally found some voter fraud](http://9gag.com/gag/a9y0730)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: DRAM and NAND memory prices have jumped 600%+ over the past year for routers and set-top boxes, hitting telcos targeting aggressive broadband rollouts &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260215/p13#a260215p13)
+ - [Ugreen NASync DH4300 Plus review: Affordable Time Capsule backup replacement](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)
  - [Sam Altman says that India has 100M weekly active ChatGPT users, the app&#39;s second-largest userbase after the US, ahead of the AI Impact Summit &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260215/p12#a260215p12)
  - [Astronauts Are Now Allowed to Use the Latest Smartphones in Space](https://www.cnet.com/tech/mobile/latest-smartphones-now-allowed-in-space-nasa-says/)
- - [Former NPR host David Greene sues Google for allegedly replicating his voice in NotebookLM without permission; Google says the voice is based on a paid actor &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/260215/p11#a260215p11)
- - [Ugreen NASync DH4300 Plus review: Easy &amp; affordable Time Capsule replacement](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)
- - [You need to watch the intensely surreal cult classic Possession](https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani)<!-- TECH:END -->
+ - [Former NPR host David Greene sues Google for allegedly replicating his voice in NotebookLM without permission; Google says the voice is based on a paid actor &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/260215/p11#a260215p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers outline Iran&#39;s digital surveillance capabilities, integrated across communications and internet networks, and recently used to track down protesters &lpar;New York Times&rpar;](http://www.techmeme.com/260215/p17#a260215p17)
  - [Sam Altman says Peter Steinberger, founder of OpenClaw, is joining OpenAI &quot;to drive the next generation of personal agents&quot;; OpenClaw will remain open source &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260215/p16#a260215p16)
+ - [How to Watch Netflix&#39;s &#39;America&#39;s Next Top Model&#39; Docuseries](https://www.cnet.com/tech/services-and-software/how-to-watch-netflixs-americas-next-top-model-docuseries/)
  - [Sam Altman says Peter Steinberger, founder of OpenClaw, is joining OpenAI &quot;to drive the next generation of personal agents&quot;; OpenClaw will remain open source &lpar;The Information&rpar;](http://www.techmeme.com/260215/p15#a260215p15)
- - [Sources: OpenAI is in advanced talks to hire OpenClaw founder Peter Steinberger and several team members; Steinberger would likely work on personal agents &lpar;Nick Wingfield/The Information&rpar;](http://www.techmeme.com/260215/p14#a260215p14)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 16, #1703](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-16-1703/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 16, #981](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-16-981/)<!-- TECH:END -->
+ - [Sources: OpenAI is in advanced talks to hire OpenClaw founder Peter Steinberger and several team members; Steinberger would likely work on personal agents &lpar;Nick Wingfield/The Information&rpar;](http://www.techmeme.com/260215/p14#a260215p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

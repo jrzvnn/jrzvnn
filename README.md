@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
+ - 😝 [Happy Caturday](http://9gag.com/gag/awy256W)
+ - 😝 [Close one](http://9gag.com/gag/aqywLjZ)
+ - 💣 [`I didn&#39;t f**king touch it.`](http://9gag.com/gag/an7wyVV)
  - 😝 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
- - 💣 [Bribe bury](http://9gag.com/gag/a7oX7jL)
- - 😝 [Maybe this time I&#39;ll finally win the State Lottery...](http://9gag.com/gag/aoyw29e)
- - 👉 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)<!-- MEMES:END -->
+ - 👉 [Team Canada caught cheating at the olympics by Team Sweden. Canadian throws a fit on live TV.](http://9gag.com/gag/aW45864)<!-- MEMES:END -->
 
 ---
 

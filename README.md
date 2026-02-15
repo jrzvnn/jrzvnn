@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple tweaked its Maps app for Tesla before the EV maker&#39;s planned addition of CarPlay; low-cost MacBook will get an aluminum chassis in playful colors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260215/p9#a260215p9)
  - [The Best Vegan Meal Delivery Services for 2026, Tested by a Plant-Based Eater](https://www.cnet.com/health/nutrition/best-vegan-meal-delivery-services/)
  - [I hate my AI pet with every fiber of my being](https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet)
  - [Logitech’s new Superstrike is a faster, more customizable gaming mouse](https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on)
- - [Apple’s first-gen AirTags are still worth buying now that they’re $16 apiece](https://www.theverge.com/gadgets/879325/apple-airtag-1st-generation-presidents-day-sale-deal)
- - [Tesla CarPlay delay caused by fears of slow iOS 26 adoption rates](https://appleinsider.com/articles/26/02/15/tesla-carplay-delay-caused-by-fears-of-slow-ios-26-adoption-rates?utm_source=rss)<!-- TECH:END -->
+ - [Apple’s first-gen AirTags are still worth buying now that they’re $16 apiece](https://www.theverge.com/gadgets/879325/apple-airtag-1st-generation-presidents-day-sale-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

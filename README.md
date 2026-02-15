@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 😝 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
+ - 😝 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
+ - 😝 [Clue&#39;s in the name](http://9gag.com/gag/ajPwn4q)
  - 💣 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
- - 😝 [Made me chuckle, ngl](http://9gag.com/gag/aAy5w2d)
- - 👉 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)<!-- MEMES:END -->
+ - 😝 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)
+ - 👉 [Wait a minute. Who are you?](http://9gag.com/gag/an7wBwV)<!-- MEMES:END -->
 
 ---
 

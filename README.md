@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
- - 😝 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
- - 💣 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)
- - 😝 [You gotta get the mixture just right](http://9gag.com/gag/a0eqbRO)
- - 👉 [Finally found some voter fraud](http://9gag.com/gag/a9y0730)<!-- MEMES:END -->
+ - 😝 [Close one](http://9gag.com/gag/aqywLjZ)
+ - 😝 [Happy Caturday](http://9gag.com/gag/awy256W)
+ - 💣 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
+ - 😝 [`I didn&#39;t f**king touch it.`](http://9gag.com/gag/an7wyVV)
+ - 👉 [I&#39;ll forgive him for inventing JavaScript](http://9gag.com/gag/aGy5DV0)<!-- MEMES:END -->
 
 ---
 

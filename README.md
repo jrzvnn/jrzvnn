@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance says it &quot;respects IP rights and we have heard the concerns regarding Seedance&quot; and it plans to &quot;strengthen&quot; safeguards, after Disney&#39;s legal threats &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/260216/p9#a260216p9)
+ - [Makers Are Building Back Against ICE](https://www.wired.com/story/makers-are-building-back-against-ice/)
  - [A look at the US tech industry&#39;s effort to influence Californian politics: fighting the 5% billionaire tax, super PACs, and seeking a new tech-friendly governor &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/260216/p8#a260216p8)
  - [A look at Anti Fund, a small VC firm cofounded by YouTuber Jake Paul that has gained access to hot rounds in startups like OpenAI, Anduril, Polymarket, and Ramp &lpar;Jake Angelo/Fortune&rpar;](http://www.techmeme.com/260216/p7#a260216p7)
- - [In a podcast, OpenClaw creator Peter Steinberger describes his phone calls with Mark Zuckerberg and Sam Altman, and says he had been contacted by &quot;every big VC&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260216/p6#a260216p6)
- - [Analysis: sports bets on Kalshi generate an estimated ~$1.3B in annualized revenue, underscoring the threat prediction markets pose to traditional operators &lpar;Financial Times&rpar;](http://www.techmeme.com/260216/p5#a260216p5)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-16/)<!-- TECH:END -->
+ - [In a podcast, OpenClaw creator Peter Steinberger describes his phone calls with Mark Zuckerberg and Sam Altman, and says he had been contacted by &quot;every big VC&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260216/p6#a260216p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

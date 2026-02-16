@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Pro rumored to not get major design changes for many years](https://appleinsider.com/articles/26/02/16/ipad-pro-rumored-to-not-get-major-design-changes-for-many-years?utm_source=rss)
- - [Government overreach must be fought said Apple, ten years ago today](https://appleinsider.com/articles/26/02/16/government-overreach-must-be-fought-said-apple-ten-years-ago-today?utm_source=rss)
- - [iPads, MacBook Air, and Apple TV -- everything Apple has ever launched in March](https://appleinsider.com/articles/26/02/16/ipads-macbook-air-and-apple-tv----everything-apple-has-ever-launched-in-march?utm_source=rss)
- - [Out of the park: The March 4 event may not be all that special](https://appleinsider.com/articles/26/02/16/out-of-the-park-the-march-4-event-may-not-be-all-that-special?utm_source=rss)
- - [Internal email: the European Parliament has blocked AI features on the work devices of lawmakers and their staff over cybersecurity and data protection concerns &lpar;Politico&rpar;](http://www.techmeme.com/260216/p23#a260216p23)<!-- TECH:END -->
+ - [Sources: SpaceX and xAI are competing in a $100M DoD contest to make voice-controlled, autonomous drone swarms; OpenAI is helping Applied Intuition&#39;s submission &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260216/p25#a260216p25)
+ - [First iOS 26.4, macOS Tahoe developer betas surface as new Siri waits in the wings](https://appleinsider.com/articles/26/02/16/first-ios-264-macos-tahoe-developer-betas-surface-as-new-siri-waits-in-the-wings?utm_source=rss)
+ - [Apple says it will bring &quot;advanced video capabilities&quot; to Apple Podcasts this spring, including allowing users to switch between watching and listening to shows &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260216/p24#a260216p24)
+ - [La Liga Soccer: Stream Girona vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-girona-vs-barcelona-live-from-anywhere/)
+ - [iPad Pro rumored to not get major design changes for many years](https://appleinsider.com/articles/26/02/16/ipad-pro-rumored-to-not-get-major-design-changes-for-many-years?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music Playlist Playground could be among first new AI features in iOS 26.4](https://appleinsider.com/articles/26/02/16/apple-music-playlist-playground-could-be-among-first-new-ai-features-in-ios-264?utm_source=rss)
+ - [New in iOS 26.4 beta 1: Videos in Podcasts, Playlist Playground, RCS, more](https://appleinsider.com/articles/26/02/16/new-in-ios-264-beta-1-videos-in-podcasts-playlist-playground-rcs-more?utm_source=rss)
  - [macOS Tahoe 26.4 warns if your apps won&#39;t work when Rosetta 2 dies](https://appleinsider.com/articles/26/02/16/macos-tahoe-264-warns-if-your-apps-wont-work-when-rosetta-2-dies?utm_source=rss)
- - [Apple starts testing end-to-end encrypted RCS messages on iPhone](https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted)
- - [iOS 26.4 has iPhone Stolen Device Protection on by default](https://appleinsider.com/articles/26/02/16/ios-264-has-iphone-stolen-device-protection-on-by-default?utm_source=rss)
- - [Video won&#39;t kill the Apple Podcasts star, but will make them more engaging](https://appleinsider.com/articles/26/02/16/video-wont-kill-the-apple-podcasts-star-but-will-make-them-more-engaging?utm_source=rss)
- - [Q&amp;A with Google Chief AI Scientist Jeff Dean about the evolution of Google Search, TPUs, coding agents, balancing model efficiency and performance, and more &lpar;Latent.Space&rpar;](http://www.techmeme.com/260216/p26#a260216p26)<!-- TECH:END -->
+ - [Apple&#39;s upgraded Siri is late but not lost -- the real story is timing](https://appleinsider.com/articles/26/02/16/apples-upgraded-siri-is-late-but-not-lost----the-real-story-is-timing?utm_source=rss)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 17, No. 512](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-17-512/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

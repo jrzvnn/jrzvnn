@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
- - 😝 [`Dude there&#39;s no way you could ever win unless every single person in front of you crashed`](http://9gag.com/gag/apRwQA5)
- - 💣 [Polish circle of life](http://9gag.com/gag/awy2QbW)
- - 😝 [What time is it? It&#39;s lunch time!](http://9gag.com/gag/aAy5DZ0)
- - 👉 [Pick a number](http://9gag.com/gag/ayNwxrq)<!-- MEMES:END -->
+ - 😝 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
+ - 😝 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
+ - 💣 [Just miss](http://9gag.com/gag/an7wbzn)
+ - 😝 [Since 9gag is shadow banning and censoring everything in sight, here](http://9gag.com/gag/adBw7mj)
+ - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
 
 ---
 

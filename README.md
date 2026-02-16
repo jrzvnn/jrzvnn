@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music Playlist Playground among first new AI features in iOS 26.4](https://appleinsider.com/articles/26/02/16/apple-music-playlist-playground-could-be-among-first-new-ai-features-in-ios-264?utm_source=rss)
  - [Apple debuts iOS 26.4 beta 1 for developers, adding limited support for encrypted RCS messages, enhancements to Apple Music, a Smart List for Reminders, more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/260216/p27#a260216p27)
  - [Formula 1 channel pops up in Apple TV, can&#39;t be removed](https://appleinsider.com/articles/26/02/16/formula-1-channel-pops-up-in-apple-tv-cant-be-removed?utm_source=rss)
- - [Apple Music Playlist Playground could be among first new AI features in iOS 26.4](https://appleinsider.com/articles/26/02/16/apple-music-playlist-playground-could-be-among-first-new-ai-features-in-ios-264?utm_source=rss)
  - [New in iOS 26.4 beta 1: Videos in Podcasts, Playlist Playground, RCS, more](https://appleinsider.com/articles/26/02/16/new-in-ios-264-beta-1-videos-in-podcasts-playlist-playground-rcs-more?utm_source=rss)
  - [macOS Tahoe 26.4 warns if your apps won&#39;t work when Rosetta 2 dies](https://appleinsider.com/articles/26/02/16/macos-tahoe-264-warns-if-your-apps-wont-work-when-rosetta-2-dies?utm_source=rss)<!-- TECH:END -->
 

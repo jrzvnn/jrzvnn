@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s happy it wasn&#39;t a card crash](http://9gag.com/gag/adBw7RM)
  - 😝 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
+ - 😝 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
  - 💣 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
  - 😝 [I am bread](http://9gag.com/gag/a7oXD7z)
  - 👉 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)<!-- MEMES:END -->

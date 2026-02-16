@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 💣 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
- - 😝 [I am bread](http://9gag.com/gag/a7oXD7z)
- - 👉 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)<!-- MEMES:END -->
+ - 😝 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)
+ - 😝 [They want farmers to disappear](http://9gag.com/gag/amow2YX)
+ - 💣 [Maybe this time I&#39;ll finally win the State Lottery...](http://9gag.com/gag/aoyw29e)
+ - 😝 [Even community notes is getting tired](http://9gag.com/gag/aBy5Wp2)
+ - 👉 [The only correct answer to this question](http://9gag.com/gag/an7wypq)<!-- MEMES:END -->
 
 ---
 

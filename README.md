@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX and xAI are competing in a $100M DoD contest to make voice-controlled, autonomous drone swarms; OpenAI is helping Applied Intuition&#39;s submission &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260216/p25#a260216p25)
- - [First iOS 26.4, macOS Tahoe developer betas surface as new Siri waits in the wings](https://appleinsider.com/articles/26/02/16/first-ios-264-macos-tahoe-developer-betas-surface-as-new-siri-waits-in-the-wings?utm_source=rss)
- - [Apple says it will bring &quot;advanced video capabilities&quot; to Apple Podcasts this spring, including allowing users to switch between watching and listening to shows &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260216/p24#a260216p24)
- - [La Liga Soccer: Stream Girona vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-girona-vs-barcelona-live-from-anywhere/)
- - [iPad Pro rumored to not get major design changes for many years](https://appleinsider.com/articles/26/02/16/ipad-pro-rumored-to-not-get-major-design-changes-for-many-years?utm_source=rss)<!-- TECH:END -->
+ - [Video won&#39;t kill the Apple Podcasts star, but will make them more engaging](https://appleinsider.com/articles/26/02/16/video-wont-kill-the-apple-podcasts-star-but-will-make-them-more-engaging?utm_source=rss)
+ - [Q&amp;A with Google Chief AI Scientist Jeff Dean about the evolution of Google Search, TPUs, coding agents, balancing model efficiency and performance, and more &lpar;Latent.Space&rpar;](http://www.techmeme.com/260216/p26#a260216p26)
+ - [Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows](https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming)
+ - [RCS encryption surfaces in iOS 26.4 developer beta, but testing is extremely limited](https://appleinsider.com/articles/26/02/16/rcs-encryption-surfaces-in-ios-264-developer-beta-but-testing-is-extremely-limited?utm_source=rss)
+ - [Sources: SpaceX and xAI are competing in a $100M DoD contest to make voice-controlled, autonomous drone swarms; OpenAI is helping Applied Intuition&#39;s submission &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260216/p25#a260216p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

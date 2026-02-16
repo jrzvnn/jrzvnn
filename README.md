@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
- - 😝 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - 💣 [The true origin story of the mommy meme](http://9gag.com/gag/a0eqbVz)
- - 😝 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)
+ - 😝 [Security guard letting her learn a lesson](http://9gag.com/gag/a1mjbAD)
+ - 😝 [The true origin story of the mommy meme](http://9gag.com/gag/a0eqbVz)
+ - 💣 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)
+ - 😝 [Let&#39;s start the Monday with a meme my fellow degenartes](http://9gag.com/gag/an7wj8E)
  - 👉 [The only correct answer to this question](http://9gag.com/gag/an7wypq)<!-- MEMES:END -->
 
 ---

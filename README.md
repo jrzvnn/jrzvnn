@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
+ - 😝 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
  - 😝 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - 💣 [Security guard letting her learn a lesson](http://9gag.com/gag/a1mjbAD)
- - 😝 [What a dilemma\u2026](http://9gag.com/gag/a1mjK2w)
+ - 💣 [The true origin story of the mommy meme](http://9gag.com/gag/a0eqbVz)
+ - 😝 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)
  - 👉 [The only correct answer to this question](http://9gag.com/gag/an7wypq)<!-- MEMES:END -->
 
 ---

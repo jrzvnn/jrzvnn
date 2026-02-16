@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba debuts Qwen 3.5, adding &quot;visual agentic capabilities&quot; to independently execute tasks, and says it is 60% cheaper to use and 8x better at large workloads &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260216/p12#a260216p12)
- - [Inside the App Where Queer Gooners Run Free](https://www.wired.com/story/inside-the-app-where-queer-gooners-run-free/)
- - [The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess](https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/)
- - [After spooking Hollywood, ByteDance will tweak safeguards on new AI model](https://www.theverge.com/ai-artificial-intelligence/879644/bytedance-seedance-safeguards-ai-video-copyright-infringement)
- - [Analysis: US productivity rose by ~2.7% in 2025, nearly doubling the 1.4% annual average over a decade, as AI-exposed sectors cooled their entry-level hiring &lpar;Erik Brynjolfsson/Financial Times&rpar;](http://www.techmeme.com/260216/p11#a260216p11)<!-- TECH:END -->
+ - [Sources: Sony is considering pushing back the debut of its next PlayStation console to 2028 or even 2029, as the AI boom fuels huge memory chip demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p14#a260216p14)
+ - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)
+ - [Amazon Props Up Misleading, Junky Laptops No One Should Buy](https://www.wired.com/story/bad-amazon-laptops/)
+ - [Samsung ad confirms rumors of a useful S26 ‘privacy display’](https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel)
+ - [London lawsuit: Getir co-founders Nazim Salur and Serkan Borançılı sue Abu Dhabi&#39;s Mubadala for $700M, alleging a &quot;significant loss&quot; in breaking up Getir assets &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/260216/p13#a260216p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

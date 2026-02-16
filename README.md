@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
- - 😝 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
- - 💣 [Just miss](http://9gag.com/gag/an7wbzn)
- - 😝 [Since 9gag is shadow banning and censoring everything in sight, here](http://9gag.com/gag/adBw7mj)
- - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
+ - 😝 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
+ - 😝 [Just miss](http://9gag.com/gag/an7wbzn)
+ - 💣 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)
+ - 😝 [I am bread](http://9gag.com/gag/a7oXD7z)
+ - 👉 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)<!-- MEMES:END -->
 
 ---
 

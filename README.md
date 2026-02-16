@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alice in Wonderland](http://9gag.com/gag/aD25WVO)
- - 😝 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
+ - 😝 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)
+ - 😝 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)
  - 💣 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
  - 😝 [Type A Type B](http://9gag.com/gag/aQz5e5z)
- - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
+ - 👉 [The only correct answer to this question](http://9gag.com/gag/an7wypq)<!-- MEMES:END -->
 
 ---
 

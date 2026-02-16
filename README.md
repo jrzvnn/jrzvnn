@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
- - 😝 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
- - 💣 [Just miss](http://9gag.com/gag/an7wbzn)
- - 😝 [Enjoy the cuteness :&rpar;](http://9gag.com/gag/awy2X5W)
- - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
+ - 😝 [They want farmers to disappear](http://9gag.com/gag/amow2YX)
+ - 😝 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
+ - 💣 [`Dude there&#39;s no way you could ever win unless every single person in front of you crashed`](http://9gag.com/gag/apRwQA5)
+ - 😝 [Polish circle of life](http://9gag.com/gag/awy2QbW)
+ - 👉 [What time is it? It&#39;s lunch time!](http://9gag.com/gag/aAy5DZ0)<!-- MEMES:END -->
 
 ---
 

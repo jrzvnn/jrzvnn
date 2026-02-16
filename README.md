@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sony is considering pushing back the debut of its next PlayStation console to 2028 or even 2029, as the AI boom fuels huge memory chip demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p14#a260216p14)
- - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)
- - [Amazon Props Up Misleading, Junky Laptops No One Should Buy](https://www.wired.com/story/bad-amazon-laptops/)
- - [Samsung ad confirms rumors of a useful S26 ‘privacy display’](https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel)
- - [London lawsuit: Getir co-founders Nazim Salur and Serkan Borançılı sue Abu Dhabi&#39;s Mubadala for $700M, alleging a &quot;significant loss&quot; in breaking up Getir assets &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/260216/p13#a260216p13)<!-- TECH:END -->
+ - [Government overreach must be fought said Apple, ten years ago today](https://appleinsider.com/articles/26/02/16/government-overreach-must-be-fought-said-apple-ten-years-ago-today?utm_source=rss)
+ - [Data analytics company Fractal, which became India&#39;s first AI unicorn in 2022, raised $313M in its Mumbai IPO; its shares fell 5% amid a weak Indian IPO market &lpar;Rajesh Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260216/p17#a260216p17)
+ - [Samsung releases an ad for the Galaxy S26 series that briefly shows a &quot;Zero-peeking privacy&quot; toggle to black out on-screen content for onlookers at an angle &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260216/p16#a260216p16)
+ - [Anthropic opens a Bengaluru office, its second in Asia, says its India run rate revenue doubled since October, and curates training data for 10 Indic languages &lpar;Anthropic&rpar;](http://www.techmeme.com/260216/p15#a260216p15)
+ - [Saatva Memory Foam Hybrid Mattress Review: Going for Gold and Good Sleep](https://www.wired.com/review/saatva-memory-foam-hybrid-mattress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

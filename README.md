@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The true origin story of the mommy meme](http://9gag.com/gag/a0eqbVz)
- - 😝 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
- - 💣 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - 😝 [I am bread](http://9gag.com/gag/a7oXD7z)
+ - 😝 [They want farmers to disappear](http://9gag.com/gag/amow2YX)
+ - 😝 [`Dude there&#39;s no way you could ever win unless every single person in front of you crashed`](http://9gag.com/gag/apRwQA5)
+ - 💣 [Launching at 80 km/h from the back of a truck running at 80 km/h.](http://9gag.com/gag/aAy5d20)
+ - 😝 [We are all still safe. Skynet still doesn&#39;t know what John Connor as a kid looks like.](http://9gag.com/gag/a1mjK9R)
  - 👉 [The only correct answer to this question](http://9gag.com/gag/an7wypq)<!-- MEMES:END -->
 
 ---

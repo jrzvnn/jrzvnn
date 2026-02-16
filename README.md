@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
+ - 😝 [Representation](http://9gag.com/gag/aPA299G)
  - 😝 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - 💣 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)
- - 😝 [Men only want one thing, and it&#39;s...](http://9gag.com/gag/aZZ5gn3)
- - 👉 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)<!-- MEMES:END -->
+ - 💣 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
+ - 😝 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
+ - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
 
 ---
 

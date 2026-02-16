@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance says it &quot;respects IP rights and we have heard the concerns regarding Seedance&quot; and it plans to &quot;strengthen&quot; safeguards, after Disney&#39;s legal threats &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/260216/p9#a260216p9)
- - [Makers Are Building Back Against ICE](https://www.wired.com/story/makers-are-building-back-against-ice/)
- - [A look at the US tech industry&#39;s effort to influence Californian politics: fighting the 5% billionaire tax, super PACs, and seeking a new tech-friendly governor &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/260216/p8#a260216p8)
- - [A look at Anti Fund, a small VC firm cofounded by YouTuber Jake Paul that has gained access to hot rounds in startups like OpenAI, Anduril, Polymarket, and Ramp &lpar;Jake Angelo/Fortune&rpar;](http://www.techmeme.com/260216/p7#a260216p7)
- - [In a podcast, OpenClaw creator Peter Steinberger describes his phone calls with Mark Zuckerberg and Sam Altman, and says he had been contacted by &quot;every big VC&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260216/p6#a260216p6)<!-- TECH:END -->
+ - [Alibaba debuts Qwen 3.5, adding &quot;visual agentic capabilities&quot; to independently execute tasks, and says it is 60% cheaper to use and 8x better at large workloads &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260216/p12#a260216p12)
+ - [Inside the App Where Queer Gooners Run Free](https://www.wired.com/story/inside-the-app-where-queer-gooners-run-free/)
+ - [The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess](https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/)
+ - [After spooking Hollywood, ByteDance will tweak safeguards on new AI model](https://www.theverge.com/ai-artificial-intelligence/879644/bytedance-seedance-safeguards-ai-video-copyright-infringement)
+ - [Analysis: US productivity rose by ~2.7% in 2025, nearly doubling the 1.4% annual average over a decade, as AI-exposed sectors cooled their entry-level hiring &lpar;Erik Brynjolfsson/Financial Times&rpar;](http://www.techmeme.com/260216/p11#a260216p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
- - 😝 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)
- - 💣 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
- - 😝 [She&#39;s happy it wasn&#39;t a card crash](http://9gag.com/gag/adBw7RM)
- - 👉 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)<!-- MEMES:END -->
+ - 😝 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
+ - 😝 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
+ - 💣 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)
+ - 😝 [Men only want one thing, and it&#39;s...](http://9gag.com/gag/aZZ5gn3)
+ - 👉 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple starts testing end-to-end encrypted RCS messages on iPhone](https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted)
  - [iOS 26.4 has iPhone Stolen Device Protection on by default](https://appleinsider.com/articles/26/02/16/ios-264-has-iphone-stolen-device-protection-on-by-default?utm_source=rss)
  - [Video won&#39;t kill the Apple Podcasts star, but will make them more engaging](https://appleinsider.com/articles/26/02/16/video-wont-kill-the-apple-podcasts-star-but-will-make-them-more-engaging?utm_source=rss)
  - [Q&amp;A with Google Chief AI Scientist Jeff Dean about the evolution of Google Search, TPUs, coding agents, balancing model efficiency and performance, and more &lpar;Latent.Space&rpar;](http://www.techmeme.com/260216/p26#a260216p26)
- - [Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows](https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming)
- - [RCS encryption surfaces in iOS 26.4 developer beta, but testing is extremely limited](https://appleinsider.com/articles/26/02/16/rcs-encryption-surfaces-in-ios-264-developer-beta-but-testing-is-extremely-limited?utm_source=rss)<!-- TECH:END -->
+ - [Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows](https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

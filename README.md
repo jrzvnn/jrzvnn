@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: dating app downloads in Saudi Arabia have risen annually for five years, hitting 3.5M in 2025, as liberalization enables more casual relationships &lpar;Omar Abdel-Baqui/Wall Street Journal&rpar;](http://www.techmeme.com/260216/p4#a260216p4)
- - [Credit derivatives trading on specific tech companies continues to rise, amid concerns that they may be borrowing too much to fuel AI development &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p3#a260216p3)
- - [Vitalik Buterin, who backed Polymarket, says he&#39;s &quot;starting to worry&quot; that prediction markets &quot;seem to be over-converging to an unhealthy product market fit&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260216/p2#a260216p2)
- - [Sensor Tower: TikTok&#39;s US DAUs are at ~95% of the week of Jan. 19, with engagement metrics showing little sign of a mass exodus since its Jan. 23 US takeover &lpar;Matthew Chin/CNBC&rpar;](http://www.techmeme.com/260216/p1#a260216p1)
- - [Bengaluru-based C2i Semiconductors, building a &quot;grid-to-GPU&quot; power system for datacenters, raised a $15M Series A led by Peak XV, bringing total funding to $19M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260215/p22#a260215p22)<!-- TECH:END -->
+ - [A look at the US tech industry&#39;s effort to influence Californian politics: fighting the 5% billionaire tax, super PACs, and seeking a new tech-friendly governor &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/260216/p8#a260216p8)
+ - [A look at Anti Fund, a small VC firm cofounded by YouTuber Jake Paul that has gained access to hot rounds in startups like OpenAI, Anduril, Polymarket, and Ramp &lpar;Jake Angelo/Fortune&rpar;](http://www.techmeme.com/260216/p7#a260216p7)
+ - [In a podcast, OpenClaw creator Peter Steinberger describes his phone calls with Mark Zuckerberg and Sam Altman, and says he had been contacted by &quot;every big VC&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260216/p6#a260216p6)
+ - [Analysis: sports bets on Kalshi generate an estimated ~$1.3B in annualized revenue, underscoring the threat prediction markets pose to traditional operators &lpar;Financial Times&rpar;](http://www.techmeme.com/260216/p5#a260216p5)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-16/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

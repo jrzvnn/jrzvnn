@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They want farmers to disappear](http://9gag.com/gag/amow2YX)
- - 😝 [`Dude there&#39;s no way you could ever win unless every single person in front of you crashed`](http://9gag.com/gag/apRwQA5)
- - 💣 [Launching at 80 km/h from the back of a truck running at 80 km/h.](http://9gag.com/gag/aAy5d20)
- - 😝 [We are all still safe. Skynet still doesn&#39;t know what John Connor as a kid looks like.](http://9gag.com/gag/a1mjK9R)
- - 👉 [The only correct answer to this question](http://9gag.com/gag/an7wypq)<!-- MEMES:END -->
+ - 😝 [Launching at 80 km/h from the back of a truck running at 80 km/h.](http://9gag.com/gag/aAy5d20)
+ - 😝 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
+ - 💣 [`Dude there&#39;s no way you could ever win unless every single person in front of you crashed`](http://9gag.com/gag/apRwQA5)
+ - 😝 [Give cookieee lol.](http://9gag.com/gag/aO85B6R)
+ - 👉 [What time is it? It&#39;s lunch time!](http://9gag.com/gag/aAy5DZ0)<!-- MEMES:END -->
 
 ---
 

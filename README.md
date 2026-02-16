@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto lender Nexo says it is relaunching in the US in partnership with Bakkt, three years after leaving the US and paying a $45M fine to settle SEC charges &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/260216/p22#a260216p22)
- - [Here 50 Presidents Day deals actually worth shopping for](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)
- - [Reboot: Apple TV, Ive style, and quantified cat poop](https://appleinsider.com/articles/26/02/16/reboot-apple-tv-ive-style-and-quantified-cat-poop?utm_source=rss)
- - [Why I Stopped Wearing Earbuds After Hearing Loss](https://www.cnet.com/tech/mobile/why-stopped-wearing-earbuds-hearing-loss/)
- - [As India prepares to host its AI Impact Summit in New Delhi this week, the country is set to promote a frugal AI strategy focused on solving local issues &lpar;Tripti Lahiri/Wall Street Journal&rpar;](http://www.techmeme.com/260216/p21#a260216p21)<!-- TECH:END -->
+ - [Government overreach must be fought said Apple, ten years ago today](https://appleinsider.com/articles/26/02/16/government-overreach-must-be-fought-said-apple-ten-years-ago-today?utm_source=rss)
+ - [iPads, MacBook Air, and Apple TV -- everything Apple has ever launched in March](https://appleinsider.com/articles/26/02/16/ipads-macbook-air-and-apple-tv----everything-apple-has-ever-launched-in-march?utm_source=rss)
+ - [Out of the park: The March 4 event may not be all that special](https://appleinsider.com/articles/26/02/16/out-of-the-park-the-march-4-event-may-not-be-all-that-special?utm_source=rss)
+ - [Internal email: the European Parliament has blocked AI features on the work devices of lawmakers and their staff over cybersecurity and data protection concerns &lpar;Politico&rpar;](http://www.techmeme.com/260216/p23#a260216p23)
+ - [Crypto lender Nexo says it is relaunching in the US in partnership with Bakkt, three years after leaving the US and paying a $45M fine to settle SEC charges &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/260216/p22#a260216p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

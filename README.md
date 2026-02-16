@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They want farmers to disappear](http://9gag.com/gag/amow2YX)
- - 😝 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
- - 💣 [`Dude there&#39;s no way you could ever win unless every single person in front of you crashed`](http://9gag.com/gag/apRwQA5)
- - 😝 [Polish circle of life](http://9gag.com/gag/awy2QbW)
- - 👉 [What time is it? It&#39;s lunch time!](http://9gag.com/gag/aAy5DZ0)<!-- MEMES:END -->
+ - 😝 [SUCK IT!](http://9gag.com/gag/ajPwq3G)
+ - 😝 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
+ - 💣 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
+ - 😝 [Get well soon](http://9gag.com/gag/aD25x2G)
+ - 👉 [Just miss](http://9gag.com/gag/an7wbzn)<!-- MEMES:END -->
 
 ---
 

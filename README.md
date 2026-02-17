@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Now Pixel 9 phones can transfer files with AirDrop, too](https://www.theverge.com/tech/880210/google-pixel-9-airdrop-quick-share)
  - [Apple is reportedly planning to launch AI-powered glasses, a pendant, and AirPods](https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods)
  - [Some private software companies including McAfee released earnings early to reassure investors worried about an AI-linked selloff, dubbed the &quot;SaaSpocalypse&quot; &lpar;Reshmi Basu/Bloomberg&rpar;](http://www.techmeme.com/260217/p43#a260217p43)
- - [The Curling Controversy at the Winter Olympics Isn’t What You Think](https://www.wired.com/story/2026-winter-olympics-curling-controversy-canada-sweden/)
- - [Apple Intelligence pendant &amp; AirPods with cameras reportedly getting renewed focus](https://appleinsider.com/articles/26/02/17/apple-intelligence-pendant-airpods-with-cameras-reportedly-getting-renewed-focus?utm_source=rss)
- - [Apple eyes 2027 for AI smart glasses built around context, not screens](https://appleinsider.com/articles/26/02/17/apple-eyes-2027-for-ai-smart-glasses-built-around-context-not-screens?utm_source=rss)<!-- TECH:END -->
+ - [The Curling Controversy at the Winter Olympics Isn’t What You Think](https://www.wired.com/story/2026-winter-olympics-curling-controversy-canada-sweden/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

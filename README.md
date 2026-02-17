@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Replit CEO Amjad Masad, who says India is Replit&#39;s second-largest market by active users, on integrating Razorpay&#39;s tech, AI&#39;s impact on SaaS, and more &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/260217/p9#a260217p9)
  - [Indian conglomerate Adani Group announces plans to invest $100B to build renewable energy-powered AI-ready data centers across India by 2035 &lpar;Urvi Dugar/Reuters&rpar;](http://www.techmeme.com/260217/p8#a260217p8)
  - [How LLMs are dismantling the moats that made vertical SaaS defensible, and why the market selloff is structurally justified but temporally exaggerated &lpar;Nicolas Bustamante/@nicbstme&rpar;](http://www.techmeme.com/260217/p7#a260217p7)
  - [The Small English Town Swept Up in the Global AI Arms Race](https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/)
- - [Indian IT giant Infosys partners with Anthropic to develop AI services for telecom, with plans to expand to finance, manufacturing, and software development &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p6#a260217p6)
- - [Top AI researchers argue that AI is now more useful for mathematics thanks to the latest &quot;reasoning&quot; models, as math becomes a key way to test AI progress &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260217/p5#a260217p5)<!-- TECH:END -->
+ - [Indian IT giant Infosys partners with Anthropic to develop AI services for telecom, with plans to expand to finance, manufacturing, and software development &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p6#a260217p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Tahoe 26.4 warns if your apps won&#39;t work when Rosetta 2 dies](https://appleinsider.com/articles/26/02/16/macos-tahoe-264-warns-if-your-apps-wont-work-when-rosetta-2-dies?utm_source=rss)
- - [Manus launches Manus Agents, allowing users to access Manus directly inside messaging apps, starting with Telegram and coming soon to other platforms &lpar;Manus&rpar;](http://www.techmeme.com/260216/p28#a260216p28)
- - [Apple Music Playlist Playground among first new AI features in iOS 26.4](https://appleinsider.com/articles/26/02/16/apple-music-playlist-playground-could-be-among-first-new-ai-features-in-ios-264?utm_source=rss)
- - [Apple debuts iOS 26.4 beta 1 for developers, adding limited support for encrypted RCS messages, enhancements to Apple Music, a Smart List for Reminders, more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/260216/p27#a260216p27)
- - [Formula 1 channel pops up in Apple TV, can&#39;t be removed](https://appleinsider.com/articles/26/02/16/formula-1-channel-pops-up-in-apple-tv-cant-be-removed?utm_source=rss)<!-- TECH:END -->
+ - [Micron introduces the first mass-produced PCIe 6.0 SSDs, with read speeds up to 28GB/s, double that of PCIe 5.0 SSDs, optimized for AI/data center deployments &lpar;Aaron Klotz/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260216/p32#a260216p32)
+ - [Letter and sources: Starboard plans to nominate a majority slate to Tripadvisor&#39;s board; Starboard holds a 9% stake, and TRIP has dropped ~46% in the past year &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/260216/p31#a260216p31)
+ - [Nifty IT Index, which tracks Indian IT stocks, has slumped about 15% so far in February on worries about AI and is on track for its worst month since March 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p30#a260216p30)
+ - [Twelve South Valet review: A bespoke catchall MagSafe charger that could be faster](https://appleinsider.com/articles/26/02/17/twelve-south-valet-review-a-bespoke-catchall-magsafe-charger-that-could-be-faster?utm_source=rss)
+ - [Streaming VR games, experiences, &amp; applications made easier in visionOS 26.4](https://appleinsider.com/articles/26/02/17/streaming-vr-games-experiences-applications-made-easier-in-visionos-264?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CFTC Chair Mike Selig says the commission will file friend-of-the-court briefs to defend its exclusive jurisdiction over prediction markets amid state lawsuits &lpar;Nathan Bomey/Axios&rpar;](http://www.techmeme.com/260217/p36#a260217p36)
- - [Automattic adds an AI assistant to WordPress.com, enabling users to perform site-wide layout and style modifications via natural language commands &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260217/p35#a260217p35)
- - [SEC filing: Liftoff withdraws its IPO filing without specifying a reason, less than two weeks after the mobile ad platform postponed plans to price its IPO &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/260217/p34#a260217p34)
- - [This backup camera cleaner hides behind your license plate](https://www.theverge.com/gadgets/877893/lens-lizard-backup-camera-cleaner-aftermarket-wiper-fluid-kickstarter)
- - [Figma and Anthropic partner to launch Code to Canvas, letting users import code generated in Claude Code directly into Figma as editable designs &lpar;Deirdre Bosa/CNBC&rpar;](http://www.techmeme.com/260217/p33#a260217p33)<!-- TECH:END -->
+ - [Over 100 researchers from Johns Hopkins, Oxford, and more call for guardrails on some infectious disease datasets that could enable AI to design deadly viruses &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260217/p41#a260217p41)
+ - [Here are the best Presidents Day deals you can still grab](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)
+ - [Sources: Apple ramps up work on AI wearables with cameras and Siri, including smart glasses, AirPods, and a pendant that can be worn as a necklace or pinned &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260217/p40#a260217p40)
+ - [Computers Powered by Light Could Help AI&#39;s Energy Problem](https://www.cnet.com/tech/how-computers-powered-by-light-could-help-ais-energy-problem/)
+ - [Anthropic Says Its Newest AI Model Is Getting Pretty Good at Using a Computer](https://www.cnet.com/tech/services-and-software/anthropic-says-its-newest-ai-model-is-getting-pretty-good-at-using-a-computer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

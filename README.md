@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)
  - 😝 [Wife material](http://9gag.com/gag/amow7Y2)
- - 💣 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
+ - 💣 [Another INSANE email](http://9gag.com/gag/avyw7wZ)
  - 😝 [Pick a number](http://9gag.com/gag/ayNwxrq)
  - 👉 [Smart guy](http://9gag.com/gag/a9y0K1W)<!-- MEMES:END -->
 

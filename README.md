@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What will Vlad the impaler do in situations like this?](http://9gag.com/gag/a0eqKdz)
- - 😝 [Wife material](http://9gag.com/gag/amow7Y2)
+ - 😝 [Pick a number](http://9gag.com/gag/ayNwxrq)
+ - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
  - 💣 [Another INSANE email](http://9gag.com/gag/avyw7wZ)
  - 😝 [His voice caught me off guard...](http://9gag.com/gag/amowBb9)
- - 👉 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)<!-- MEMES:END -->
+ - 👉 [Wife material](http://9gag.com/gag/amow7Y2)<!-- MEMES:END -->
 
 ---
 

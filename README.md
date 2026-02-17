@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Privatise the profits, socialise the loses.](http://9gag.com/gag/aYQ5YZ2)
- - 😝 [My childhood imagination was peak cozy goals](http://9gag.com/gag/a2vpopd)
- - 💣 [Where are you. What are you doing. Just picking up some neat rocks](http://9gag.com/gag/a1mjQ7D)
- - 😝 [Pick a number](http://9gag.com/gag/ayNwxrq)
- - 👉 [Everyone&#39;s just trying their best, even the bodybuilders](http://9gag.com/gag/aMV5ZVR)<!-- MEMES:END -->
+ - 😝 [Damn](http://9gag.com/gag/a0eq5Gn)
+ - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
+ - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - 😝 [His voice caught me off guard...](http://9gag.com/gag/amowBb9)
+ - 👉 [Pick a number](http://9gag.com/gag/ayNwxrq)<!-- MEMES:END -->
 
 ---
 

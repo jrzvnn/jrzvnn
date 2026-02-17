@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cattle farming](http://9gag.com/gag/a2vp49w)
- - 😝 [She&#39;s happy it wasn&#39;t a card crash](http://9gag.com/gag/adBw7RM)
- - 💣 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
  - 😝 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
- - 👉 [Wife material](http://9gag.com/gag/amow7Y2)<!-- MEMES:END -->
+ - 😝 [Don&#39;t get me wrong. Lupita has excellent form factor, but still, the agenda is too strong here](http://9gag.com/gag/adBw9P2)
+ - 💣 [Wife material](http://9gag.com/gag/amow7Y2)
+ - 😝 [Pick a number](http://9gag.com/gag/ayNwxrq)
+ - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Search `no images produced` and change pdf to mp4](http://9gag.com/gag/an7w9xB)
+ - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
  - 😝 [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)
- - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [Always knew, Palestine is Serbia](http://9gag.com/gag/aXP1j0v)
+ - 💣 [Search `no images produced` and change pdf to mp4](http://9gag.com/gag/an7w9xB)
+ - 😝 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
  - 👉 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)<!-- MEMES:END -->
 
 ---

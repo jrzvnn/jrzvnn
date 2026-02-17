@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google signs a power purchase agreement with Ormat to supply up to 150 MW of geothermal energy to its Nevada data centers through NV Energy starting in 2028 &lpar;Lauren Rosenthal/Bloomberg&rpar;](http://www.techmeme.com/260217/p53#a260217p53)
  - [Stephen Colbert says CBS banned him from airing this James Talarico interview](https://www.theverge.com/policy/880009/stephen-colbert-cbs-fcc-brendan-carr-talarico-interview)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Apple Car Key support now available on the 2026 Toyota Rav4](https://appleinsider.com/articles/26/02/17/apple-car-key-support-now-available-on-the-2026-toyota-rav4?utm_source=rss)
- - [Sources: Western Digital plans to raise $3.09B by selling a Sandisk stake at $535-$555/share, a 9.4% discount to Tuesday&#39;s close; the offering is oversubscribed &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/260217/p52#a260217p52)
- - [Palo Alto Networks reports Q2 revenue up 15% YoY to $2.6B, vs. $2.58B est., and projects Q3 adjusted EPS below estimates; PANW drops 7%+ after hours &lpar;Elias Schisgall/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p51#a260217p51)<!-- TECH:END -->
+ - [Sources: Western Digital plans to raise $3.09B by selling a Sandisk stake at $535-$555/share, a 9.4% discount to Tuesday&#39;s close; the offering is oversubscribed &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/260217/p52#a260217p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

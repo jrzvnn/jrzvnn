@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian conglomerate Adani Group announces plans to invest $100B to build renewable energy-powered AI-ready data centers across India by 2035 &lpar;Urvi Dugar/Reuters&rpar;](http://www.techmeme.com/260217/p8#a260217p8)
  - [How LLMs are dismantling the moats that made vertical SaaS defensible, and why the market selloff is structurally justified but temporally exaggerated &lpar;Nicolas Bustamante/@nicbstme&rpar;](http://www.techmeme.com/260217/p7#a260217p7)
  - [The Small English Town Swept Up in the Global AI Arms Race](https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/)
  - [Indian IT giant Infosys partners with Anthropic to develop AI services for telecom, with plans to expand to finance, manufacturing, and software development &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p6#a260217p6)
- - [Top AI researchers argue that AI is now more useful for mathematics thanks to the latest &quot;reasoning&quot; models, as math becomes a key way to test AI progress &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260217/p5#a260217p5)
- - [Micron, which has undertaken a $200B US expansion, says it can currently meet about 50%-66% of demand for some key customers, as AI drives memory chip demand &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p4#a260217p4)<!-- TECH:END -->
+ - [Top AI researchers argue that AI is now more useful for mathematics thanks to the latest &quot;reasoning&quot; models, as math becomes a key way to test AI progress &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260217/p5#a260217p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

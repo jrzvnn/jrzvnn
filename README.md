@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Gemini says its COO, CFO, and chief legal officer are leaving; Cameron Winklevoss will take on many of the COO&#39;s duties; GEMI falls 10%+ &lpar;Olivier Acuna/CoinDesk&rpar;](http://www.techmeme.com/260217/p25#a260217p25)
- - [EU investigates Shein’s ‘addictive design’ and illegal products](https://www.theverge.com/policy/879964/shein-eu-dsa-investigation-illegal-products-addictive-design)
- - [Qualcomm says UK consumer association Which? is withdrawing its chip royalties lawsuit that sought £480M for 29M iPhone and Samsung users, after a CAT trial &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/260217/p24#a260217p24)
- - [Toyota fills out its skimpy EV lineup with the bZ Woodland SUV](https://www.theverge.com/transportation/878849/toyota-bz-woodland-specs-price-ev-offroad)
- - [Palo Alto Networks agrees to acquire Israeli endpoint security company Koi Security, sources say for ~$400M; Koi raised $48M across two rounds, per PitchBook &lpar;Assaf Gilead/Globes&rpar;](http://www.techmeme.com/260217/p23#a260217p23)<!-- TECH:END -->
+ - [Snapchat launches creator subscriptions in alpha, available to some creators in the US starting February 23; creators set custom monthly pricing &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260217/p31#a260217p31)
+ - [How to manage notifications on macOS 26](https://appleinsider.com/articles/26/02/17/how-to-manage-notifications-on-mac?utm_source=rss)
+ - [Israeli drone OS developer Xtend merges with New York-listed JFB to list on Nasdaq at a $1.5B valuation, including a $152M investment from Eric Trump and others &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/260217/p30#a260217p30)
+ - [Braintrust, which helps companies evaluate and monitor their AI tools&#39; performance, raised an $80M Series B led by Iconiq at an $800M post-money valuation &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260217/p29#a260217p29)
+ - [Ford is fighting against physics to build affordable EVs](https://www.theverge.com/transportation/879975/ford-universal-ev-platform-skunkworks-aero-battery-range)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

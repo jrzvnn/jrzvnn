@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pick a number](http://9gag.com/gag/ayNwxrq)
- - 😝 [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)
- - 💣 [Another INSANE email](http://9gag.com/gag/avyw7wZ)
+ - 😝 [My childhood imagination was peak cozy goals](http://9gag.com/gag/a2vpopd)
+ - 😝 [Where are you. What are you doing. Just picking up some neat rocks](http://9gag.com/gag/a1mjQ7D)
+ - 💣 [Pick a number](http://9gag.com/gag/ayNwxrq)
  - 😝 [Always knew, Palestine is Serbia](http://9gag.com/gag/aXP1j0v)
- - 👉 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)<!-- MEMES:END -->
+ - 👉 [Everyone&#39;s just trying their best, even the bodybuilders](http://9gag.com/gag/aMV5ZVR)<!-- MEMES:END -->
 
 ---
 

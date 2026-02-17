@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI legal software startup Legora is in talks to raise $400M at a $5B+ valuation, after raising $150M in October 2025 at a $1.8B valuation &lpar;Forbes&rpar;](http://www.techmeme.com/260217/p49#a260217p49)
- - [Stripe&#39;s stablecoin firm Bridge wins conditional approval from the US OCC to form a national trust bank, which would allow it to issue and manage stablecoins &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/260217/p48#a260217p48)
- - [Piggyback’s fantastic Metroid Prime art book is nearly 20 percent off](https://www.theverge.com/gadgets/821108/metroid-prime-1-3-a-visual-retrospective-art-book-deal-sale)
- - [Meta commits to buy millions of Nvidia Blackwell and Rubin GPUs in a multiyear deal; source: Meta&#39;s in-house AI chip strategy has suffered technical challenges &lpar;Financial Times&rpar;](http://www.techmeme.com/260217/p47#a260217p47)
- - [Source: Benchmark&#39;s 2020 fund is now worth 10x+ and 2024 fund is 3x what investors put in, based on cash distributions and the paper value of its investments &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260217/p46#a260217p46)<!-- TECH:END -->
+ - [Sources: Western Digital plans to raise $3.09B by selling a Sandisk stake at $535-$555/share, a 9.4% discount to Tuesday&#39;s close; the offering is oversubscribed &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/260217/p52#a260217p52)
+ - [Palo Alto Networks reports Q2 revenue up 15% YoY to $2.6B, vs. $2.58B est., and projects Q3 adjusted EPS below estimates; PANW drops 7%+ after hours &lpar;Elias Schisgall/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p51#a260217p51)
+ - [Google’s AI search results will make links more obvious](https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update)
+ - [Sony’s WH-1000XM6 are nearly $100 off for just a few more hours](https://www.theverge.com/gadgets/880476/sony-wh-1000-xm6-deal-sale)
+ - [Quantum computing company Infleqtion closed at $15.59 in its trading debut, up ~9% from its opening price of $14.25, after merging with a Michael Klein-led SPAC &lpar;Mackenzie Tatananni/Barron&#39;s Online&rpar;](http://www.techmeme.com/260217/p50#a260217p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

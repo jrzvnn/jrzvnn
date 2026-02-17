@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stephen Colbert says CBS banned him from airing this James Talarico interview](https://www.theverge.com/policy/880009/stephen-colbert-cbs-fcc-brendan-carr-talarico-interview)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Apple Car Key support now available on the 2026 Toyota Rav4](https://appleinsider.com/articles/26/02/17/apple-car-key-support-now-available-on-the-2026-toyota-rav4?utm_source=rss)
  - [Sources: Western Digital plans to raise $3.09B by selling a Sandisk stake at $535-$555/share, a 9.4% discount to Tuesday&#39;s close; the offering is oversubscribed &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/260217/p52#a260217p52)
- - [Palo Alto Networks reports Q2 revenue up 15% YoY to $2.6B, vs. $2.58B est., and projects Q3 adjusted EPS below estimates; PANW drops 7%+ after hours &lpar;Elias Schisgall/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p51#a260217p51)
- - [Google’s AI search results will make links more obvious](https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update)
- - [Sony’s WH-1000XM6 are nearly $100 off for just a few more hours](https://www.theverge.com/gadgets/880476/sony-wh-1000-xm6-deal-sale)
- - [Quantum computing company Infleqtion closed at $15.59 in its trading debut, up ~9% from its opening price of $14.25, after merging with a Michael Klein-led SPAC &lpar;Mackenzie Tatananni/Barron&#39;s Online&rpar;](http://www.techmeme.com/260217/p50#a260217p50)<!-- TECH:END -->
+ - [Palo Alto Networks reports Q2 revenue up 15% YoY to $2.6B, vs. $2.58B est., and projects Q3 adjusted EPS below estimates; PANW drops 7%+ after hours &lpar;Elias Schisgall/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p51#a260217p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

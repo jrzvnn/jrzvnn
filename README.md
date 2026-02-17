@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto VC firm Dragonfly closes a $650M fund, its fourth, as the crypto VCs go through a &quot;mass extinction event&quot;; Dragonfly backed Polymarket&#39;s Series B &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/260217/p21#a260217p21)
- - [Inside the Homeland Security Forum Where ICE Agents Talk Shit About Other Agents](https://www.wired.com/story/hsi-forum-ice-agents/)
- - [Peak Design has wearable gadget straps for people who hate bags](https://www.theverge.com/tech/879908/peak-design-crossbody-phone-strap-launch-price)
- - [Warner Bros. Discovery gives Paramount one week to present its ‘best and final’ offer](https://www.theverge.com/entertainment/879947/warner-bros-discovery-reopen-talks-paramount-netflix-merger)
- - [Danaher agrees to acquire US medical tech company Masimo for $9.9B, paying $180 per share, a nearly 40% premium on February 13&#39;s close, set to close in H2 2026 &lpar;Stuart Biggs/Bloomberg&rpar;](http://www.techmeme.com/260217/p20#a260217p20)<!-- TECH:END -->
+ - [Filing: Gemini says its COO, CFO, and chief legal officer are leaving; Cameron Winklevoss will take on many of the COO&#39;s duties; GEMI falls 10%+ &lpar;Olivier Acuna/CoinDesk&rpar;](http://www.techmeme.com/260217/p25#a260217p25)
+ - [EU investigates Shein’s ‘addictive design’ and illegal products](https://www.theverge.com/policy/879964/shein-eu-dsa-investigation-illegal-products-addictive-design)
+ - [Qualcomm says UK consumer association Which? is withdrawing its chip royalties lawsuit that sought £480M for 29M iPhone and Samsung users, after a CAT trial &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/260217/p24#a260217p24)
+ - [Toyota fills out its skimpy EV lineup with the bZ Woodland SUV](https://www.theverge.com/transportation/878849/toyota-bz-woodland-specs-price-ev-offroad)
+ - [Palo Alto Networks agrees to acquire Israeli endpoint security company Koi Security, sources say for ~$400M; Koi raised $48M across two rounds, per PitchBook &lpar;Assaf Gilead/Globes&rpar;](http://www.techmeme.com/260217/p23#a260217p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

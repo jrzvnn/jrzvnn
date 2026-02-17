@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pick a number](http://9gag.com/gag/ayNwxrq)
- - 😝 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
- - 💣 [Don&#39;t get me wrong. Lupita has excellent form factor, but still, the agenda is too strong here](http://9gag.com/gag/adBw9P2)
- - 😝 [Valhalla awaits the spatula](http://9gag.com/gag/aZZ53oW)
- - 👉 [Wife material](http://9gag.com/gag/amow7Y2)<!-- MEMES:END -->
+ - 😝 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
+ - 😝 [Just miss](http://9gag.com/gag/an7wbzn)
+ - 💣 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
+ - 😝 [It&#39;s Friday &#39;o&#39;clock somewhere](http://9gag.com/gag/a4Py7gA)
+ - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK activist investor Palliser says Toto, Japan&#39;s largest toilet maker, is an &quot;undervalued and overlooked&quot; AI play due to its &quot;advanced ceramics&quot; used in chips &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/260217/p15#a260217p15)
- - [Google&#39;s Android XR design docs and developer tools hint at the XR glasses&#39; details, including mandatory physical buttons and &quot;Glimmer&quot; UI design language &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260217/p14#a260217p14)
- - [The Simplest Android App for Scanning Documents](https://www.wired.com/story/fairscan-simple-app-for-scanning-documents-on-android/)
- - [The European Commission opens a full DSA investigation into Shein over sales of child-like sex dolls that &quot;could constitute child sexual abuse material&quot; &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260217/p13#a260217p13)
- - [How locals in Potters Bar, a town near London, are challenging Equinix&#39;s $5B data center plans, as the UK reclassifies &quot;green belt&quot; land to boost construction &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/260217/p12#a260217p12)<!-- TECH:END -->
+ - [Danaher agrees to acquire US medical tech company Masimo for $9.9B, paying $180 per share, a nearly 40% premium on February 13&#39;s close, set to close in H2 2026 &lpar;Stuart Biggs/Bloomberg&rpar;](http://www.techmeme.com/260217/p20#a260217p20)
+ - [Airbnb expands its Reserve Now, Pay Later feature globally, after a US pilot for domestic travel saw a 70% adoption rate for eligible bookings &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260217/p19#a260217p19)
+ - [Laurie Spiegel on the difference between algorithmic music and ‘AI’](https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival)
+ - [Temporal, which builds open-source software to ensure &quot;durable execution&quot; of code, raised a $300M Series D at a $5B valuation, up from $2.5B in October 2025 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260217/p18#a260217p18)
+ - [Stick with Apple, an increasingly bullish Wedbush tells investors](https://appleinsider.com/articles/26/02/17/stick-with-apple-an-increasingly-bullish-wedbush-tells-investors?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

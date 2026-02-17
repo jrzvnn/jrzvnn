@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Danaher agrees to acquire US medical tech company Masimo for $9.9B, paying $180 per share, a nearly 40% premium on February 13&#39;s close, set to close in H2 2026 &lpar;Stuart Biggs/Bloomberg&rpar;](http://www.techmeme.com/260217/p20#a260217p20)
- - [Airbnb expands its Reserve Now, Pay Later feature globally, after a US pilot for domestic travel saw a 70% adoption rate for eligible bookings &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260217/p19#a260217p19)
- - [Laurie Spiegel on the difference between algorithmic music and ‘AI’](https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival)
- - [Temporal, which builds open-source software to ensure &quot;durable execution&quot; of code, raised a $300M Series D at a $5B valuation, up from $2.5B in October 2025 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260217/p18#a260217p18)
- - [Stick with Apple, an increasingly bullish Wedbush tells investors](https://appleinsider.com/articles/26/02/17/stick-with-apple-an-increasingly-bullish-wedbush-tells-investors?utm_source=rss)<!-- TECH:END -->
+ - [Crypto VC firm Dragonfly closes a $650M fund, its fourth, as the crypto VCs go through a &quot;mass extinction event&quot;; Dragonfly backed Polymarket&#39;s Series B &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/260217/p21#a260217p21)
+ - [Inside the Homeland Security Forum Where ICE Agents Talk Shit About Other Agents](https://www.wired.com/story/hsi-forum-ice-agents/)
+ - [Peak Design has wearable gadget straps for people who hate bags](https://www.theverge.com/tech/879908/peak-design-crossbody-phone-strap-launch-price)
+ - [Warner Bros. Discovery gives Paramount one week to present its ‘best and final’ offer](https://www.theverge.com/entertainment/879947/warner-bros-discovery-reopen-talks-paramount-netflix-merger)
+ - [Danaher agrees to acquire US medical tech company Masimo for $9.9B, paying $180 per share, a nearly 40% premium on February 13&#39;s close, set to close in H2 2026 &lpar;Stuart Biggs/Bloomberg&rpar;](http://www.techmeme.com/260217/p20#a260217p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What time is it? It&#39;s lunch time!](http://9gag.com/gag/aAy5DZ0)
- - 😝 [Wife material](http://9gag.com/gag/amow7Y2)
- - 💣 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)
- - 😝 [This is why women live longer than men.](http://9gag.com/gag/ae9wMOm)
- - 👉 [Men only want one thing, and it&#39;s...](http://9gag.com/gag/aZZ5gn3)<!-- MEMES:END -->
+ - 😝 [Pick a number](http://9gag.com/gag/ayNwxrq)
+ - 😝 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
+ - 💣 [Don&#39;t get me wrong. Lupita has excellent form factor, but still, the agenda is too strong here](http://9gag.com/gag/adBw9P2)
+ - 😝 [Valhalla awaits the spatula](http://9gag.com/gag/aZZ53oW)
+ - 👉 [Wife material](http://9gag.com/gag/amow7Y2)<!-- MEMES:END -->
 
 ---
 

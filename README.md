@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 100 researchers from Johns Hopkins, Oxford, and more call for guardrails on some infectious disease datasets that could enable AI to design deadly viruses &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260217/p41#a260217p41)
- - [Here are the best Presidents Day deals you can still grab](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)
- - [Sources: Apple ramps up work on AI wearables with cameras and Siri, including smart glasses, AirPods, and a pendant that can be worn as a necklace or pinned &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260217/p40#a260217p40)
- - [Computers Powered by Light Could Help AI&#39;s Energy Problem](https://www.cnet.com/tech/how-computers-powered-by-light-could-help-ais-energy-problem/)
- - [Anthropic Says Its Newest AI Model Is Getting Pretty Good at Using a Computer](https://www.cnet.com/tech/services-and-software/anthropic-says-its-newest-ai-model-is-getting-pretty-good-at-using-a-computer/)<!-- TECH:END -->
+ - [Apple is reportedly planning to launch AI-powered glasses, a pendant, and AirPods](https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods)
+ - [Some private software companies including McAfee released earnings early to reassure investors worried about an AI-linked selloff, dubbed the &quot;SaaSpocalypse&quot; &lpar;Reshmi Basu/Bloomberg&rpar;](http://www.techmeme.com/260217/p43#a260217p43)
+ - [The Curling Controversy at the Winter Olympics Isn’t What You Think](https://www.wired.com/story/2026-winter-olympics-curling-controversy-canada-sweden/)
+ - [Apple Intelligence pendant &amp; AirPods with cameras reportedly getting renewed focus](https://appleinsider.com/articles/26/02/17/apple-intelligence-pendant-airpods-with-cameras-reportedly-getting-renewed-focus?utm_source=rss)
+ - [Apple eyes 2027 for AI smart glasses built around context, not screens](https://appleinsider.com/articles/26/02/17/apple-eyes-2027-for-ai-smart-glasses-built-around-context-not-screens?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

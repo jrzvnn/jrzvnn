@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is slopping AI ads all over its social channels](https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop)
- - [Dubai-based fractional property investment startup Stake raised a $31M Series B led by Emirates NBD PJSC; the platform facilitates investments starting at ~$136 &lpar;Zainab Fattah/Bloomberg&rpar;](http://www.techmeme.com/260217/p11#a260217p11)
- - [Cohere releases Tiny Aya, a family of 3.35B-parameter open-weight models supporting 70+ languages for offline use, trained on a single cluster of 64 H100 GPUs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260217/p10#a260217p10)
- - [Q&amp;A with Replit CEO Amjad Masad, who says India is Replit&#39;s second-largest market by active users, on integrating Razorpay&#39;s tech, AI&#39;s impact on SaaS, and more &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/260217/p9#a260217p9)
- - [Indian conglomerate Adani Group announces plans to invest $100B to build renewable energy-powered AI-ready data centers across India by 2035 &lpar;Urvi Dugar/Reuters&rpar;](http://www.techmeme.com/260217/p8#a260217p8)<!-- TECH:END -->
+ - [Google&#39;s Android XR design docs and developer tools hint at the XR glasses&#39; details, including mandatory physical buttons and &quot;Glimmer&quot; UI design language &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260217/p14#a260217p14)
+ - [The Simplest Android App for Scanning Documents](https://www.wired.com/story/fairscan-simple-app-for-scanning-documents-on-android/)
+ - [The European Commission opens a full DSA investigation into Shein over sales of child-like sex dolls that &quot;could constitute child sexual abuse material&quot; &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260217/p13#a260217p13)
+ - [How locals in Potters Bar, a town near London, are challenging Equinix&#39;s $5B data center plans, as the UK reclassifies &quot;green belt&quot; land to boost construction &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/260217/p12#a260217p12)
+ - [How Much Can a New Fridge Actually Save You? The Surprising Truth About Energy](https://www.cnet.com/news/considering-a-new-fridge-heres-how-much-energy-a-new-model-saves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

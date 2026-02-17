@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Now Pixel 9 phones can transfer files with AirDrop, too](https://www.theverge.com/tech/880210/google-pixel-9-airdrop-quick-share)
- - [Apple is reportedly planning to launch AI-powered glasses, a pendant, and AirPods](https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods)
- - [Some private software companies including McAfee released earnings early to reassure investors worried about an AI-linked selloff, dubbed the &quot;SaaSpocalypse&quot; &lpar;Reshmi Basu/Bloomberg&rpar;](http://www.techmeme.com/260217/p43#a260217p43)
- - [The Curling Controversy at the Winter Olympics Isn’t What You Think](https://www.wired.com/story/2026-winter-olympics-curling-controversy-canada-sweden/)<!-- TECH:END -->
+ - [The Best Noise-Canceling Headphones for Traveling Are $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-226/)
+ - [Apple MacBook Rumors: New M5 MacBook Pros Could Arrive March 4](https://www.cnet.com/tech/computing/macbook-rumors-new-m5-macbook-pros-prices-release-dates/)
+ - [Google schedules I/O 2026 for May 19 to 20 in Mountain View, teasing the &quot;latest AI breakthroughs and updates&quot; in Gemini, Android, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260217/p44#a260217p44)
+ - [Meta and Other Tech Companies Ban OpenClaw Over Cybersecurity Concerns](https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/)
+ - [iTunes TV &amp; Movies apps exit stage left in tvOS 26.4 beta](https://appleinsider.com/articles/26/02/17/itunes-tv-movies-apps-exit-stage-left-in-tvos-264-beta?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

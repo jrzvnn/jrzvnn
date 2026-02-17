@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [Balkan TV is something else](http://9gag.com/gag/aqyw1oP)
- - 💣 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
- - 😝 [Another INSANE email](http://9gag.com/gag/avyw7wZ)
- - 👉 [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)<!-- MEMES:END -->
+ - 😝 [Privatise the profits, socialise the loses.](http://9gag.com/gag/aYQ5YZ2)
+ - 😝 [My childhood imagination was peak cozy goals](http://9gag.com/gag/a2vpopd)
+ - 💣 [Where are you. What are you doing. Just picking up some neat rocks](http://9gag.com/gag/a1mjQ7D)
+ - 😝 [Pick a number](http://9gag.com/gag/ayNwxrq)
+ - 👉 [Everyone&#39;s just trying their best, even the bodybuilders](http://9gag.com/gag/aMV5ZVR)<!-- MEMES:END -->
 
 ---
 

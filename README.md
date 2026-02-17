@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Benchmark&#39;s 2020 fund is now worth 10x+ and 2024 fund is 3x what investors put in, based on cash distributions and the paper value of its investments &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260217/p46#a260217p46)
- - [Google announces dates for I/O 2026](https://www.theverge.com/tech/880401/google-io-2026-dates-ai)
- - [Benchmark hires Jack Altman, the founder of Alt Capital and Lattice, as its fifth general partner; three Alt Capital team members will join him at Benchmark &lpar;The Information&rpar;](http://www.techmeme.com/260217/p45#a260217p45)
- - [Apple Health gets new Average Bedtime metric in iOS 26.4 beta](https://appleinsider.com/articles/26/02/17/apple-health-gets-new-average-bedtime-metric-in-ios-264-beta?utm_source=rss)
- - [The Best Noise-Canceling Headphones for Traveling Are $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-226/)<!-- TECH:END -->
+ - [Sources: AI legal software startup Legora is in talks to raise $400M at a $5B+ valuation, after raising $150M in October 2025 at a $1.8B valuation &lpar;Forbes&rpar;](http://www.techmeme.com/260217/p49#a260217p49)
+ - [Stripe&#39;s stablecoin firm Bridge wins conditional approval from the US OCC to form a national trust bank, which would allow it to issue and manage stablecoins &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/260217/p48#a260217p48)
+ - [Piggyback’s fantastic Metroid Prime art book is nearly 20 percent off](https://www.theverge.com/gadgets/821108/metroid-prime-1-3-a-visual-retrospective-art-book-deal-sale)
+ - [Meta commits to buy millions of Nvidia Blackwell and Rubin GPUs in a multiyear deal; source: Meta&#39;s in-house AI chip strategy has suffered technical challenges &lpar;Financial Times&rpar;](http://www.techmeme.com/260217/p47#a260217p47)
+ - [Source: Benchmark&#39;s 2020 fund is now worth 10x+ and 2024 fund is 3x what investors put in, based on cash distributions and the paper value of its investments &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260217/p46#a260217p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

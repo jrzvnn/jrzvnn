@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cattle farming](http://9gag.com/gag/a2vp49w)
+ - 😝 [Wife material](http://9gag.com/gag/amow7Y2)
  - 😝 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - 💣 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
- - 😝 [Christina Hendricks](http://9gag.com/gag/abAwMPB)
- - 👉 [Wife material](http://9gag.com/gag/amow7Y2)<!-- MEMES:END -->
+ - 💣 [Christina Hendricks](http://9gag.com/gag/abAwMPB)
+ - 😝 [Pick a number](http://9gag.com/gag/ayNwxrq)
+ - 👉 [Damn](http://9gag.com/gag/a0eq5Gn)<!-- MEMES:END -->
 
 ---
 

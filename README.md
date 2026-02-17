@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Noise-Canceling Headphones for Traveling Are $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-226/)
- - [Apple MacBook Rumors: New M5 MacBook Pros Could Arrive March 4](https://www.cnet.com/tech/computing/macbook-rumors-new-m5-macbook-pros-prices-release-dates/)
- - [Google schedules I/O 2026 for May 19 to 20 in Mountain View, teasing the &quot;latest AI breakthroughs and updates&quot; in Gemini, Android, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260217/p44#a260217p44)
- - [Meta and Other Tech Companies Ban OpenClaw Over Cybersecurity Concerns](https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/)
- - [iTunes TV &amp; Movies apps exit stage left in tvOS 26.4 beta](https://appleinsider.com/articles/26/02/17/itunes-tv-movies-apps-exit-stage-left-in-tvos-264-beta?utm_source=rss)<!-- TECH:END -->
+ - [Source: Benchmark&#39;s 2020 fund is now worth 10x+ and 2024 fund is 3x what investors put in, based on cash distributions and the paper value of its investments &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260217/p46#a260217p46)
+ - [Google announces dates for I/O 2026](https://www.theverge.com/tech/880401/google-io-2026-dates-ai)
+ - [Benchmark hires Jack Altman, the founder of Alt Capital and Lattice, as its fifth general partner; three Alt Capital team members will join him at Benchmark &lpar;The Information&rpar;](http://www.techmeme.com/260217/p45#a260217p45)
+ - [Apple Health gets new Average Bedtime metric in iOS 26.4 beta](https://appleinsider.com/articles/26/02/17/apple-health-gets-new-average-bedtime-metric-in-ios-264-beta?utm_source=rss)
+ - [The Best Noise-Canceling Headphones for Traveling Are $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

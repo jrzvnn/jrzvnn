@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn](http://9gag.com/gag/a0eq5Gn)
- - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
+ - 😝 [Search `no images produced` and change pdf to mp4](http://9gag.com/gag/an7w9xB)
+ - 😝 [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)
  - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [His voice caught me off guard...](http://9gag.com/gag/amowBb9)
- - 👉 [Pick a number](http://9gag.com/gag/ayNwxrq)<!-- MEMES:END -->
+ - 😝 [Always knew, Palestine is Serbia](http://9gag.com/gag/aXP1j0v)
+ - 👉 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)<!-- MEMES:END -->
 
 ---
 

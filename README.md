@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to manage notifications on Mac](https://appleinsider.com/articles/26/02/17/how-to-manage-notifications-on-mac?utm_source=rss)
- - [Sources: top VC firms operating in India are expected to commit investments ranging from $300M to $500M each to India&#39;s AI ecosystem at the AI Impact Summit &lpar;The Economic Times&rpar;](http://www.techmeme.com/260216/p35#a260216p35)
- - [Valve says the Steam Deck OLED may be &quot;intermittently&quot; out of stock due to memory and storage shortages; it has been out of stock in the US for a few days &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260216/p34#a260216p34)
- - [Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis](https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis)
- - [Sony says it has developed tech to identify copyrighted music in AI-generated songs, aiming to help rights holders receive compensation if their music was used &lpar;Rei Nakafuji/Nikkei Asia&rpar;](http://www.techmeme.com/260216/p33#a260216p33)<!-- TECH:END -->
+ - [Micron, which has undertaken a $200B US expansion, says it can currently meet about 50%-66% of demand for some key customers, as AI drives memory chip demand &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p4#a260217p4)
+ - [Sources: US healthcare manufacturer Danaher is nearing a deal to buy medtech company Masimo for ~$10B; Masimo is in an IP dispute with Apple over Apple Watch &lpar;Financial Times&rpar;](http://www.techmeme.com/260217/p3#a260217p3)
+ - [Sources: Moonshot, the Chinese startup behind Kimi chatbot, is targeting a $10B valuation in a funding round expansion after securing $500M at a $4.3B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260217/p2#a260217p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-17/)
+ - [UK software firm Pinewood&#39;s stock fell ~31% on Feb. 16 after Apax Partners withdrew its £575M takeover offer, citing &quot;prevailing challenging market conditions&quot; &lpar;Alexandra Heal/Financial Times&rpar;](http://www.techmeme.com/260217/p1#a260217p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

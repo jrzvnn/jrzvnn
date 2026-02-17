@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat launches creator subscriptions in alpha, available to some creators in the US starting February 23; creators set custom monthly pricing &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260217/p31#a260217p31)
- - [How to manage notifications on macOS 26](https://appleinsider.com/articles/26/02/17/how-to-manage-notifications-on-mac?utm_source=rss)
- - [Israeli drone OS developer Xtend merges with New York-listed JFB to list on Nasdaq at a $1.5B valuation, including a $152M investment from Eric Trump and others &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/260217/p30#a260217p30)
- - [Braintrust, which helps companies evaluate and monitor their AI tools&#39; performance, raised an $80M Series B led by Iconiq at an $800M post-money valuation &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260217/p29#a260217p29)
- - [Ford is fighting against physics to build affordable EVs](https://www.theverge.com/transportation/879975/ford-universal-ev-platform-skunkworks-aero-battery-range)<!-- TECH:END -->
+ - [CFTC Chair Mike Selig says the commission will file friend-of-the-court briefs to defend its exclusive jurisdiction over prediction markets amid state lawsuits &lpar;Nathan Bomey/Axios&rpar;](http://www.techmeme.com/260217/p36#a260217p36)
+ - [Automattic adds an AI assistant to WordPress.com, enabling users to perform site-wide layout and style modifications via natural language commands &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260217/p35#a260217p35)
+ - [SEC filing: Liftoff withdraws its IPO filing without specifying a reason, less than two weeks after the mobile ad platform postponed plans to price its IPO &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/260217/p34#a260217p34)
+ - [This backup camera cleaner hides behind your license plate](https://www.theverge.com/gadgets/877893/lens-lizard-backup-camera-cleaner-aftermarket-wiper-fluid-kickstarter)
+ - [Figma and Anthropic partner to launch Code to Canvas, letting users import code generated in Claude Code directly into Figma as editable designs &lpar;Deirdre Bosa/CNBC&rpar;](http://www.techmeme.com/260217/p33#a260217p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

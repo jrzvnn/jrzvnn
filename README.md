@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His voice caught me off guard...](http://9gag.com/gag/amowBb9)
- - 😝 [Strong and independent women](http://9gag.com/gag/arywVM5)
- - 💣 [White is the new black](http://9gag.com/gag/a87O5G3)
+ - 😝 [Titel](http://9gag.com/gag/a87O546)
+ - 😝 [Christina Hendricks](http://9gag.com/gag/abAwMPB)
+ - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
  - 😝 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)
- - 👉 [Never trust women ever again.](http://9gag.com/gag/amow7ey)<!-- MEMES:END -->
+ - 👉 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 💣 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - 😝 [Hehe G\u00ebh](http://9gag.com/gag/aBy5mjD)
- - 👉 [And that my friends is what hotels are for](http://9gag.com/gag/aAy5epZ)<!-- MEMES:END -->
+ - 😝 [White is the new black](http://9gag.com/gag/a87O5G3)
+ - 😝 [Never trust women ever again.](http://9gag.com/gag/amow7ey)
+ - 💣 [Parking like a wanker](http://9gag.com/gag/aAy5ebL)
+ - 😝 [When you finally meet someone that matches your energy](http://9gag.com/gag/aND50gr)
+ - 👉 [Strong and independent women](http://9gag.com/gag/arywVM5)<!-- MEMES:END -->
 
 ---
 

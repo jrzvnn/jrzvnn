@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What will Vlad the impaler do in situations like this?](http://9gag.com/gag/a0eqKdz)
- - 😝 [Cattle farming](http://9gag.com/gag/a2vp49w)
- - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [Another INSANE email](http://9gag.com/gag/avyw7wZ)
- - 👉 [Smart guy](http://9gag.com/gag/a9y0K1W)<!-- MEMES:END -->
+ - 😝 [He&#39;s right](http://9gag.com/gag/awy2AW4)
+ - 😝 [Pick a number](http://9gag.com/gag/ayNwxrq)
+ - 💣 [White is the new black](http://9gag.com/gag/a87O5G3)
+ - 😝 [I guess at this point, nothing should surprise me anymore.](http://9gag.com/gag/a0eqRXz)
+ - 👉 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)<!-- MEMES:END -->
 
 ---
 

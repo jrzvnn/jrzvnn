@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What will Vlad the impaler do in situations like this?](http://9gag.com/gag/a0eqKdz)
+ - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
+ - 💣 [Christina Hendricks](http://9gag.com/gag/abAwMPB)
  - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 💣 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
- - 😝 [His voice caught me off guard...](http://9gag.com/gag/amowBb9)
  - 👉 [Smart guy](http://9gag.com/gag/a9y0K1W)<!-- MEMES:END -->
 
 ---

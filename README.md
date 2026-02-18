@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to spend $65M this year backing state politicians friendly to AI; filings: it is starting two super PACs, one backing GOP and another for Democrats &lpar;New York Times&rpar;](http://www.techmeme.com/260218/p41#a260218p41)
- - [A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft](https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/)
- - [This New Toilet Won&#39;t Do You Dirty. It Cleans the Entire Bowl and Rim With One Flush](https://www.cnet.com/news/toto-aurora-washlet-toilet-kbis/)
- - [Acer’s Chromebook Plus Spin 514 is $200 off, marking a new low price](https://www.theverge.com/gadgets/880744/acer-chromebook-plus-spin-514-google-pixelsnap-deal-sale)
- - [Berkshire trims Apple stake but keeps the stock as a $62 billion anchor](https://appleinsider.com/articles/26/02/18/berkshire-trims-apple-stake-but-keeps-the-stock-as-a-62-billion-anchor?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft is bringing a built-in network speed test to Windows 11](https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview)
+ - [Google&#39;s Pixel 10A Launch Day: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)
+ - [Google Pixel 10A vs. Pixel 10, 10 Pro, 10 Pro XL: How the Cheaper Pixel Matches Up](https://www.cnet.com/tech/mobile/google-pixel-10a-vs-pixel-10-10-pro-10-pro-xl-how-the-cheaper-pixel-matches-up/)
+ - [March&#39;s Full Blood Moon: Here&#39;s When the Total Lunar Eclipse Happens](https://www.cnet.com/science/space/marchs-full-moon-is-coming-with-a-total-lunar-eclipse-heres-when-to-see-it/)
+ - [Ken Watanabe didn’t think a kabuki movie would work](https://www.theverge.com/report/880620/ken-watanabe-interview-kokuho)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

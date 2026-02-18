@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC filing: Peter Thiel and Founders Fund have fully exited ETHZilla, down from a 7.5% stake in August 2025; ether is down 60% from its August 2025 peak &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/260218/p15#a260218p15)
- - [An Inside Look at Lego’s New Tech-Packed Smart Brick](https://www.wired.com/story/exclusive-inside-look-at-new-lego-smart-brick/)
- - [Tesla won’t use the term ‘Autopilot’ in California anymore](https://www.theverge.com/transportation/880548/tesla-autopilot-california-dmv-marketing-update)
- - [How to Choose the Bamboo Sheets for You &lpar;2026&rpar;](https://www.wired.com/story/best-bamboo-sheets/)
- - [WBD joins Disney and Paramount in claiming infringement on ByteDance&#39;s AI video tool Seedance and demands ByteDance cease training AI on Warner Bros. characters &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/260218/p14#a260218p14)<!-- TECH:END -->
+ - [Filings: Warren Buffett&#39;s Berkshire Hathaway cut its Amazon stake by 75%+ to ~2.3M shares in Q4 2025; Berkshire bought 5.1M NYT shares, worth ~$352M in December &lpar;Alexandre Rajbhandari/Bloomberg&rpar;](http://www.techmeme.com/260218/p17#a260218p17)
+ - [Are Mushroom Supplements Worth Taking? &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-mushroom-supplements/)
+ - [Dell XPS 14 Review &lpar;2026&rpar;: This Laptop Marks an Incredible Comeback](https://www.wired.com/review/dell-xps-14-2026/)
+ - [Q&amp;A with Synthesia founder and CEO Victor Riparbelli on growing the London-based enterprise AI video platform, hitting a $4B valuation, AI regulation, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260218/p16#a260218p16)
+ - [Perplexity joins anti-ad camp as AI companies battle over trust and revenue](https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

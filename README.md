@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 💣 [Wednesday](http://9gag.com/gag/a0eqNZZ)
- - 😝 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
- - 👉 [Smart guy](http://9gag.com/gag/a9y0K1W)<!-- MEMES:END -->
+ - 😝 [This is why we can&#39;t have nice things, or just tuna](http://9gag.com/gag/an7w5Pb)
+ - 😝 [Dad just moved in and already needs help with his &#39;accidental&#39; beer purchase](http://9gag.com/gag/apRw5WE)
+ - 💣 [That&#39;s a proud father right there](http://9gag.com/gag/aND50e3)
+ - 😝 [His voice caught me off guard...](http://9gag.com/gag/amowBb9)
+ - 👉 [White is the new black](http://9gag.com/gag/a87O5G3)<!-- MEMES:END -->
 
 ---
 

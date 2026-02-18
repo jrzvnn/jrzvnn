@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Polestar aims to shake off EV doldrums with 4 new models in 3 years](https://www.theverge.com/transportation/880808/polestar-four-new-models-ev-europe)
+ - [Texas AG Ken Paxton sues TP-Link, alleging it deceptively markets its products as secure while allowing the CCP to hack into consumers&#39; devices &lpar;The Record&rpar;](http://www.techmeme.com/260218/p44#a260218p44)
+ - [OpenAI hires Instagram&#39;s VP of global partnerships, Charles Porch, as its first VP of global creative partnerships, seeking to win over a skeptical Hollywood &lpar;Julia Black/Vanity Fair&rpar;](http://www.techmeme.com/260218/p43#a260218p43)
  - [Microsoft is bringing a built-in network speed test to Windows 11](https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview)
- - [Google&#39;s Pixel 10A Launch Day: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)
- - [Google Pixel 10A vs. Pixel 10, 10 Pro, 10 Pro XL: How the Cheaper Pixel Matches Up](https://www.cnet.com/tech/mobile/google-pixel-10a-vs-pixel-10-10-pro-10-pro-xl-how-the-cheaper-pixel-matches-up/)
- - [March&#39;s Full Blood Moon: Here&#39;s When the Total Lunar Eclipse Happens](https://www.cnet.com/science/space/marchs-full-moon-is-coming-with-a-total-lunar-eclipse-heres-when-to-see-it/)
- - [Ken Watanabe didn’t think a kabuki movie would work](https://www.theverge.com/report/880620/ken-watanabe-interview-kokuho)<!-- TECH:END -->
+ - [Google&#39;s Pixel 10A Launch Day: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

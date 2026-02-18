@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WBD joins Disney and Paramount in claiming infringement on ByteDance&#39;s AI video tool Seedance and demands ByteDance cease training AI on Warner Bros. characters &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/260218/p14#a260218p14)
+ - [A US federal judge orders OpenAI to stop using the word &quot;Cameo&quot; for its Sora products and features, in a trademark lawsuit filed by celebrity video app Cameo &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260218/p13#a260218p13)
  - [A look at China&#39;s push to become a world leader in brain-computer interfaces, as Shanghai-based startup NeuroXess moves to human trials with Beijing&#39;s backing &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260218/p12#a260218p12)
  - [Bengaluru-based AI startup Sarvam AI announces two models at the AI Impact Summit that it says are tailored to Indian languages and cultures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260218/p11#a260218p11)
- - [Microsoft says it is on pace to invest $50B by 2030 to help expand AI across the &quot;Global South&quot;, after unveiling $17.5B in AI investments in India in 2025 &lpar;Abu Sultan/Reuters&rpar;](http://www.techmeme.com/260218/p10#a260218p10)
- - [Battery Ventures raised $3.25B for its XV fund, roughly matching its 2022 raise, to back software and industrial tech firms amid AI disruption concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p9#a260218p9)
- - [As the AI Impact Summit in New Delhi draws attention, a look at India&#39;s AI opportunities and the political economy gridlock that threatens its ambitions &lpar;Shruti Rajagopalan/Get Down and Shruti&rpar;](http://www.techmeme.com/260218/p8#a260218p8)<!-- TECH:END -->
+ - [Microsoft says it is on pace to invest $50B by 2030 to help expand AI across the &quot;Global South&quot;, after unveiling $17.5B in AI investments in India in 2025 &lpar;Abu Sultan/Reuters&rpar;](http://www.techmeme.com/260218/p10#a260218p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

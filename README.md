@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Titel](http://9gag.com/gag/a87O546)
- - 😝 [Christina Hendricks](http://9gag.com/gag/abAwMPB)
- - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 😝 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)
- - 👉 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)<!-- MEMES:END -->
+ - 😝 [And that my friends is what hotels are for](http://9gag.com/gag/aAy5epZ)
+ - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - 😝 [I would steal it](http://9gag.com/gag/aW45xE3)
+ - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
 
 ---
 

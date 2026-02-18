@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Titel](http://9gag.com/gag/a87O546)
+ - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
  - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [And that my friends is what hotels are for](http://9gag.com/gag/aAy5epZ)
- - 👉 [Smart guy](http://9gag.com/gag/a9y0K1W)<!-- MEMES:END -->
+ - 💣 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
+ - 😝 [Hehe G\u00ebh](http://9gag.com/gag/aBy5mjD)
+ - 👉 [And that my friends is what hotels are for](http://9gag.com/gag/aAy5epZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
  - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
- - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [The Cigarette : the trademark of a good tradesman](http://9gag.com/gag/agmw5Dr)
- - 👉 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
+ - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 😝 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
+ - 👉 [Christina Hendricks](http://9gag.com/gag/abAwMPB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI agents are coming to CarPlay, but they&#39;re not getting the keys](https://appleinsider.com/articles/26/02/18/ai-agents-are-coming-to-carplay-but-theyre-not-getting-the-keys?utm_source=rss)
- - [March madness: What Apple is getting ready to launch](https://appleinsider.com/articles/26/02/18/march-madness-what-apple-is-getting-ready-to-launch?utm_source=rss)
- - [KBIS 2026: Live Updates From Day 2 at the Kitchen and Bath Industry Show](https://www.cnet.com/news-live/kbis-2026-live/)
- - [OpenAI and Paradigm announce EVMbench, a benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities &lpar;OpenAI&rpar;](http://www.techmeme.com/260218/p47#a260218p47)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [The Bose QuietComfort Ultra Gen 2 Headphones Are At Their Lowest Price In Months](https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-0218/)
+ - [Sources: Meta has revived a previously shelved smartwatch project, now code-named Malibu 2, and plans to release it in 2026 with health features and Meta AI &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260218/p49#a260218p49)
+ - [Ring&amp;#8217;s AI-powered Search Party won&amp;#8217;t stop at finding lost dogs, leaked email shows](https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion)
+ - [Social media addiction trial: Mark Zuckerberg says increasing engagement on Instagram is not a company goal and that Meta removes underage users it identifies &lpar;CNBC&rpar;](http://www.techmeme.com/260218/p48#a260218p48)
+ - [AI agents are coming to CarPlay, but they&#39;re not getting the keys](https://appleinsider.com/articles/26/02/18/ai-agents-are-coming-to-carplay-but-theyre-not-getting-the-keys?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

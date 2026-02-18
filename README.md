@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At India&#39;s AI Summit, Sundar Pichai announces the America-India Connect Initiative to build new fiber optic lines between India, the US, and other countries &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260218/p19#a260218p19)
+ - [A Las Vegas federal appeals court rejects Kalshi&#39;s emergency bid for an administrative stay against Nevada&#39;s efforts to block the platform, a major setback &lpar;Krystal Hur/Wall Street Journal&rpar;](http://www.techmeme.com/260218/p18#a260218p18)
  - [Filings: Warren Buffett&#39;s Berkshire Hathaway cut its Amazon stake by 75%+ to ~2.3M shares in Q4 2025; Berkshire bought 5.1M NYT shares, worth ~$352M in December &lpar;Alexandre Rajbhandari/Bloomberg&rpar;](http://www.techmeme.com/260218/p17#a260218p17)
  - [Are Mushroom Supplements Worth Taking? &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-mushroom-supplements/)
- - [Dell XPS 14 Review &lpar;2026&rpar;: This Laptop Marks an Incredible Comeback](https://www.wired.com/review/dell-xps-14-2026/)
- - [Q&amp;A with Synthesia founder and CEO Victor Riparbelli on growing the London-based enterprise AI video platform, hitting a $4B valuation, AI regulation, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260218/p16#a260218p16)
- - [Perplexity joins anti-ad camp as AI companies battle over trust and revenue](https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads)<!-- TECH:END -->
+ - [Dell XPS 14 Review &lpar;2026&rpar;: This Laptop Marks an Incredible Comeback](https://www.wired.com/review/dell-xps-14-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

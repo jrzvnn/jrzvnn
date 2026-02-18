@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As the AI Impact Summit in New Delhi draws attention, a look at India&#39;s AI opportunities and the political economy gridlock that threatens its ambitions &lpar;Shruti Rajagopalan/Get Down and Shruti&rpar;](http://www.techmeme.com/260218/p8#a260218p8)
+ - [Q&amp;A with Ramp CEO Eric Glyman on scaling the expense management company to over $1B revenue, the &quot;SaaS apocalypse&quot;, using AI agents to review expenses, and more &lpar;Cheeky Pint&rpar;](http://www.techmeme.com/260218/p7#a260218p7)
+ - [Dreamer, founded by former Stripe CTO David Singleton, Hugo Barra, and others, launches in beta to let technical and non-technical users build agentic AI apps &lpar;David Singleton/flurries of latent ...&rpar;](http://www.techmeme.com/260218/p6#a260218p6)
  - [A look at MGX, Abu Dhabi&#39;s AI investment vehicle with stakes in Anthropic, xAI, and OpenAI; the firm plans to spend up to $10B annually over the next few years &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p5#a260218p5)
- - [Bengaluru-based Stable Money, whose app lets users invest in fixed deposits and corporate bonds, raised $25M at a $175M valuation, taking total funding to $65M &lpar;The Economic Times&rpar;](http://www.techmeme.com/260218/p4#a260218p4)
- - [Lovehoney Discount Codes and Deals: Up to 70% Off](https://www.wired.com/story/lovehoney-discount-code/)
- - [Lowe’s Promo Codes and Deals: Up to 40% Off Appliances](https://www.wired.com/story/lowes-promo-code/)
- - [Sources: Ineffable Intelligence, founded by Google DeepMind&#39;s former principal scientist David Silver, is raising a $1B seed led by Sequoia at a $4B valuation &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260218/p3#a260218p3)<!-- TECH:END -->
+ - [Google Pixel 10A Rumors: Wednesday Reveal, New Colors, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

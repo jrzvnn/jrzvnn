@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google signs a power purchase agreement with Ormat to supply up to 150 MW of geothermal energy to its Nevada data centers through NV Energy starting in 2028 &lpar;Lauren Rosenthal/Bloomberg&rpar;](http://www.techmeme.com/260217/p53#a260217p53)
- - [Stephen Colbert says CBS banned him from airing this James Talarico interview](https://www.theverge.com/policy/880009/stephen-colbert-cbs-fcc-brendan-carr-talarico-interview)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Apple Car Key support now available on the 2026 Toyota Rav4](https://appleinsider.com/articles/26/02/17/apple-car-key-support-now-available-on-the-2026-toyota-rav4?utm_source=rss)
- - [Sources: Western Digital plans to raise $3.09B by selling a Sandisk stake at $535-$555/share, a 9.4% discount to Tuesday&#39;s close; the offering is oversubscribed &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/260217/p52#a260217p52)<!-- TECH:END -->
+ - [Is YouTube Down Right Now? Outage Hits Over 800K People According to Downdetector](https://www.cnet.com/news-live/youtube-down-outage-updates-feb-2026/)
+ - [YouTube services are partially resolved after a brief outage starting at ~7:45pm ET due to a recommendations system issue; YouTube is working on a full fix &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260217/p58#a260217p58)
+ - [Anthropic expects to pay Amazon, Google, and Microsoft $80B+ total to run its models on their servers through 2029, plus an additional $100B for training costs &lpar;The Information&rpar;](http://www.techmeme.com/260217/p57#a260217p57)
+ - [Emergent, which offers an AI-powered software development service, says it is generating annual run-rate revenue of $100M+, just eight months after launch &lpar;TechCrunch&rpar;](http://www.techmeme.com/260217/p56#a260217p56)
+ - [5 Dietitian-Approved Air Fryer Recipes for Quick Meals and Snacks](https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-according-registered-dietitians/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

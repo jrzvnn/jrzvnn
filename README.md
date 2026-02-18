@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is YouTube Down Right Now? Outage Hits Over 800K People According to Downdetector](https://www.cnet.com/news-live/youtube-down-outage-updates-feb-2026/)
- - [YouTube services are partially resolved after a brief outage starting at ~7:45pm ET due to a recommendations system issue; YouTube is working on a full fix &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260217/p58#a260217p58)
- - [Anthropic expects to pay Amazon, Google, and Microsoft $80B+ total to run its models on their servers through 2029, plus an additional $100B for training costs &lpar;The Information&rpar;](http://www.techmeme.com/260217/p57#a260217p57)
- - [Emergent, which offers an AI-powered software development service, says it is generating annual run-rate revenue of $100M+, just eight months after launch &lpar;TechCrunch&rpar;](http://www.techmeme.com/260217/p56#a260217p56)
- - [5 Dietitian-Approved Air Fryer Recipes for Quick Meals and Snacks](https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-according-registered-dietitians/)<!-- TECH:END -->
+ - [How to get into retro gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)
+ - [Perplexity says it has no plans to further pursue advertising, which it introduced in 2024, phasing out ads late last year over fears it would erode user trust &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260217/p60#a260217p60)
+ - [Tesla agrees to stop using the term &quot;autopilot&quot; to market its electric vehicles in California to avoid a 30-day suspension by the state&#39;s DMV &lpar;Rachel Swan/San Francisco Chronicle&rpar;](http://www.techmeme.com/260217/p59#a260217p59)
+ - [Is YouTube Down Right Now? Outage Hits Over a Million People, According to Downdetector](https://www.cnet.com/news-live/youtube-down-outage-updates-feb-2026/)
+ - [Best Apple Watch for 2026](https://www.cnet.com/tech/mobile/best-apple-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WBD joins Disney and Paramount in claiming infringement on ByteDance&#39;s AI video tool Seedance and demands ByteDance cease training AI on Warner Bros. characters &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/260218/p14#a260218p14)
- - [A US federal judge orders OpenAI to stop using the word &quot;Cameo&quot; for its Sora products and features, in a trademark lawsuit filed by celebrity video app Cameo &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260218/p13#a260218p13)
- - [A look at China&#39;s push to become a world leader in brain-computer interfaces, as Shanghai-based startup NeuroXess moves to human trials with Beijing&#39;s backing &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260218/p12#a260218p12)
- - [Bengaluru-based AI startup Sarvam AI announces two models at the AI Impact Summit that it says are tailored to Indian languages and cultures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260218/p11#a260218p11)
- - [Microsoft says it is on pace to invest $50B by 2030 to help expand AI across the &quot;Global South&quot;, after unveiling $17.5B in AI investments in India in 2025 &lpar;Abu Sultan/Reuters&rpar;](http://www.techmeme.com/260218/p10#a260218p10)<!-- TECH:END -->
+ - [SEC filing: Peter Thiel and Founders Fund have fully exited ETHZilla, down from a 7.5% stake in August 2025; ether is down 60% from its August 2025 peak &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/260218/p15#a260218p15)
+ - [An Inside Look at Lego’s New Tech-Packed Smart Brick](https://www.wired.com/story/exclusive-inside-look-at-new-lego-smart-brick/)
+ - [Tesla won’t use the term ‘Autopilot’ in California anymore](https://www.theverge.com/transportation/880548/tesla-autopilot-california-dmv-marketing-update)
+ - [How to Choose the Bamboo Sheets for You &lpar;2026&rpar;](https://www.wired.com/story/best-bamboo-sheets/)
+ - [WBD joins Disney and Paramount in claiming infringement on ByteDance&#39;s AI video tool Seedance and demands ByteDance cease training AI on Warner Bros. characters &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/260218/p14#a260218p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

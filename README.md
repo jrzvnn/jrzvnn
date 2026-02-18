@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lowest price ever: M5 iPad Pro plunges to $799](https://appleinsider.com/articles/26/02/18/lowest-price-ever-m5-ipad-pro-plunges-to-799?utm_source=rss)
- - [March madness: What Apple is getting ready to launch](https://appleinsider.com/articles/26/02/18/march-madness-what-apple-is-getting-ready-to-launch?utm_source=rss)
- - [Google rolls out Lyria 3, a generative music model that can make 30-second tracks with Nano Banana cover art, in beta in the Gemini app in eight languages &lpar;The Keyword&rpar;](http://www.techmeme.com/260218/p37#a260218p37)
- - [Ring and Kidde’s Newest Smoke Detector Is Here, and It’s Battery Powered &lpar;2026&rpar;](https://www.wired.com/story/kidde-ring-new-smoke-alarm-2026/)
- - [The Best Carbon Monoxide Detectors for Detecting Deadly Gas in Your Home](https://www.cnet.com/home/security/best-carbon-monoxide-detector/)<!-- TECH:END -->
+ - [Meta plans to spend $65M this year backing state politicians friendly to AI; filings: it is starting two super PACs, one backing GOP and another for Democrats &lpar;New York Times&rpar;](http://www.techmeme.com/260218/p41#a260218p41)
+ - [A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft](https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/)
+ - [This New Toilet Won&#39;t Do You Dirty. It Cleans the Entire Bowl and Rim With One Flush](https://www.cnet.com/news/toto-aurora-washlet-toilet-kbis/)
+ - [Acer’s Chromebook Plus Spin 514 is $200 off, marking a new low price](https://www.theverge.com/gadgets/880744/acer-chromebook-plus-spin-514-google-pixelsnap-deal-sale)
+ - [Berkshire trims Apple stake but keeps the stock as a $62 billion anchor](https://appleinsider.com/articles/26/02/18/berkshire-trims-apple-stake-but-keeps-the-stock-as-a-62-billion-anchor?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

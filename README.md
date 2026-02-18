@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ghost Busters](http://9gag.com/gag/a5Q3o9O)
- - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
+ - 😝 [What will Vlad the impaler do in situations like this?](http://9gag.com/gag/a0eqKdz)
+ - 😝 [Cattle farming](http://9gag.com/gag/a2vp49w)
  - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
  - 😝 [Another INSANE email](http://9gag.com/gag/avyw7wZ)
- - 👉 [Christina Hendricks](http://9gag.com/gag/abAwMPB)<!-- MEMES:END -->
+ - 👉 [Smart guy](http://9gag.com/gag/a9y0K1W)<!-- MEMES:END -->
 
 ---
 

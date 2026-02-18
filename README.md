@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White is the new black](http://9gag.com/gag/a87O5G3)
- - 😝 [Never trust women ever again.](http://9gag.com/gag/amow7ey)
- - 💣 [Parking like a wanker](http://9gag.com/gag/aAy5ebL)
- - 😝 [When you finally meet someone that matches your energy](http://9gag.com/gag/aND50gr)
- - 👉 [Strong and independent women](http://9gag.com/gag/arywVM5)<!-- MEMES:END -->
+ - 😝 [Christina Hendricks](http://9gag.com/gag/abAwMPB)
+ - 😝 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
+ - 💣 [Smart guy](http://9gag.com/gag/a9y0K1W)
+ - 😝 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)
+ - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
 
 ---
 

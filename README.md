@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
- - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 😝 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - 👉 [Christina Hendricks](http://9gag.com/gag/abAwMPB)<!-- MEMES:END -->
+ - 😝 [He&#39;s right](http://9gag.com/gag/awy2AW4)
+ - 😝 [Smart guy](http://9gag.com/gag/a9y0K1W)
+ - 💣 [That&#39;s a proud father right there](http://9gag.com/gag/aND50e3)
+ - 😝 [Coz its wed ma dude](http://9gag.com/gag/a9y0RQo)
+ - 👉 [White is the new black](http://9gag.com/gag/a87O5G3)<!-- MEMES:END -->
 
 ---
 

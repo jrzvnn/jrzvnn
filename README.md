@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [Christina Hendricks](http://9gag.com/gag/abAwMPB)
- - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 😝 [Titel](http://9gag.com/gag/a87O546)
+ - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
  - 😝 [And that my friends is what hotels are for](http://9gag.com/gag/aAy5epZ)
  - 👉 [Smart guy](http://9gag.com/gag/a9y0K1W)<!-- MEMES:END -->
 

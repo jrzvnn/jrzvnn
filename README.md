@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fei-Fei Li&#39;s World Labs raised $200M from Autodesk, part of a larger round; the companies are exploring integrating World Labs&#39; AI models in Autodesk products &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260218/p27#a260218p27)
- - [Robinhood launches an IPO for Robinhood Ventures Fund I, a $1B closed-end fund to provide retail investors access to private markets, offering 40M shares at $25 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p26#a260218p26)
- - [How to get into retro gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)
- - [DG Matrix, which builds solid-state transformers to handle up to 2.4 MW and boost data center power efficiency, raised a $60M Series A led by Engine Ventures &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260218/p25#a260218p25)
- - [March 4 international Apple Experiences may follow week of online launches](https://appleinsider.com/articles/26/02/18/march-4-international-apple-experiences-may-follow-week-of-online-launches?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI partners with six Indian education institutions, including IIT Delhi, IIM Ahmedabad, and AIIMS New Delhi, to provide ChatGPT Edu access to 100K+ students &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260218/p32#a260218p32)
+ - [I Saw a Hidden Induction Stove Concept at KBIS. It Looked Cool and Very Dangerous](https://www.cnet.com/news/hidden-induction-stove-at-kbis/)
+ - [The Sun&#39;s Temper Tantrums: What You Should Know About Solar Storms](https://www.cnet.com/science/space/the-suns-temper-tantrums-what-you-should-know-about-solar-storms/)
+ - [Big Tech Says Generative AI Will Save the Planet. It Doesn&#39;t Offer Much Proof](https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/)
+ - [Google&#39;s Pixel 10A Launch Day: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cadence shares closed up 7.6% on Wednesday after the chip design company reported Q4 revenue up ~6% to $1.44B and adjusted EPS of $1.99, both above estimates &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260218/p58#a260218p58)
  - [Sources: the US State Department is developing an online portal at &quot;freedom.gov&quot; to let users in Europe and elsewhere view content banned by their governments &lpar;Reuters&rpar;](http://www.techmeme.com/260218/p57#a260218p57)
  - [Dyson&#39;s Slimmest Cordless Vacuum Now Has a Swiffer-Like Cousin. I Tried It](https://www.cnet.com/home/kitchen-and-household/dysons-pencilwash-wet-vacuum/)
  - [Dyson turned its skinny PencilVac into a lightweight wet floor cleaner](https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle)
- - [Uber Has Big Plans for Lots More Robotaxis and EV Charging Stations](https://www.cnet.com/roadshow/news/uber-robotaxi-autonomous-vehicle-ev-charging-stations/)
- - [Selector, which offers an AI platform that promises to simplify network monitoring, raised a $32M Series B led by AVP at a $375M valuation &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/260218/p56#a260218p56)<!-- TECH:END -->
+ - [Uber Has Big Plans for Lots More Robotaxis and EV Charging Stations](https://www.cnet.com/roadshow/news/uber-robotaxi-autonomous-vehicle-ev-charging-stations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

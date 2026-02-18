@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ineffable Intelligence, founded by Google DeepMind&#39;s former principal scientist David Silver, is raising a $1B seed led by Sequoia at a $4B valuation &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260218/p3#a260218p3)
- - [Nvidia says it is working with Peak XV and other VC firms in India to fund AI startups; over 4,000 Indian AI startups have joined its global startup program &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260218/p2#a260218p2)
- - [Yotta says it is investing $2B to deploy Nvidia&#39;s Blackwell B300 GPUs at its Noida data center campus in India to create one of Asia&#39;s largest AI superclusters &lpar;Himanshi Lohchab/The Economic Times&rpar;](http://www.techmeme.com/260218/p1#a260218p1)
- - [Google Pixel 10A Rumors: Wednesday Reveal, New Colors, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)
- - [How to get into retro gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)<!-- TECH:END -->
+ - [A look at MGX, Abu Dhabi&#39;s AI investment vehicle with stakes in Anthropic, xAI, and OpenAI; the firm plans to spend up to $10B annually over the next few years &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p5#a260218p5)
+ - [Bengaluru-based Stable Money, whose app lets users invest in fixed deposits and corporate bonds, raised $25M at a $175M valuation, taking total funding to $65M &lpar;The Economic Times&rpar;](http://www.techmeme.com/260218/p4#a260218p4)
+ - [Lovehoney Discount Codes and Deals: Up to 70% Off](https://www.wired.com/story/lovehoney-discount-code/)
+ - [Lowe’s Promo Codes and Deals: Up to 40% Off Appliances](https://www.wired.com/story/lowes-promo-code/)
+ - [Sources: Ineffable Intelligence, founded by Google DeepMind&#39;s former principal scientist David Silver, is raising a $1B seed led by Sequoia at a $4B valuation &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260218/p3#a260218p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

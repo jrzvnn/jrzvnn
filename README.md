@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get into retro gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)
- - [Perplexity says it has no plans to further pursue advertising, which it introduced in 2024, phasing out ads late last year over fears it would erode user trust &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260217/p60#a260217p60)
- - [Tesla agrees to stop using the term &quot;autopilot&quot; to market its electric vehicles in California to avoid a 30-day suspension by the state&#39;s DMV &lpar;Rachel Swan/San Francisco Chronicle&rpar;](http://www.techmeme.com/260217/p59#a260217p59)
- - [Is YouTube Down Right Now? Outage Hits Over a Million People, According to Downdetector](https://www.cnet.com/news-live/youtube-down-outage-updates-feb-2026/)
- - [Best Apple Watch for 2026](https://www.cnet.com/tech/mobile/best-apple-watch/)<!-- TECH:END -->
+ - [Sources: Ineffable Intelligence, founded by Google DeepMind&#39;s former principal scientist David Silver, is raising a $1B seed led by Sequoia at a $4B valuation &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260218/p3#a260218p3)
+ - [Nvidia says it is working with Peak XV and other VC firms in India to fund AI startups; over 4,000 Indian AI startups have joined its global startup program &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260218/p2#a260218p2)
+ - [Yotta says it is investing $2B to deploy Nvidia&#39;s Blackwell B300 GPUs at its Noida data center campus in India to create one of Asia&#39;s largest AI superclusters &lpar;Himanshi Lohchab/The Economic Times&rpar;](http://www.techmeme.com/260218/p1#a260218p1)
+ - [Google Pixel 10A Rumors: Wednesday Reveal, New Colors, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)
+ - [How to get into retro gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

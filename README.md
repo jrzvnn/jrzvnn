@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polestar aims to shake off EV doldrums with 4 new models in 3 years](https://www.theverge.com/transportation/880808/polestar-four-new-models-ev-europe)
- - [Texas AG Ken Paxton sues TP-Link, alleging it deceptively markets its products as secure while allowing the CCP to hack into consumers&#39; devices &lpar;The Record&rpar;](http://www.techmeme.com/260218/p44#a260218p44)
- - [OpenAI hires Instagram&#39;s VP of global partnerships, Charles Porch, as its first VP of global creative partnerships, seeking to win over a skeptical Hollywood &lpar;Julia Black/Vanity Fair&rpar;](http://www.techmeme.com/260218/p43#a260218p43)
- - [Microsoft is bringing a built-in network speed test to Windows 11](https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview)
- - [Google&#39;s Pixel 10A Launch Day: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
+ - [OpenAI and Paradigm announce EVMbench, a benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities &lpar;OpenAI&rpar;](http://www.techmeme.com/260218/p47#a260218p47)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [This Defense Company Made AI Agents That Blow Things Up](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/)
+ - [Save on Gaming Earbuds Perfect for Playing on Switch or ROG Xbox Ally](https://www.wired.com/story/arctis-gamebuds-deal-226/)
+ - [Apple adds support for third-party voice-based conversational apps in CarPlay starting with iOS 26.4, letting CarPlay users access apps like AI chatbots &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260218/p46#a260218p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

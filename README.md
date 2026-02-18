@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bose QuietComfort Ultra Gen 2 Headphones Are At Their Lowest Price In Months](https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-0218/)
- - [Sources: Meta has revived a previously shelved smartwatch project, now code-named Malibu 2, and plans to release it in 2026 with health features and Meta AI &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260218/p49#a260218p49)
- - [Ring&amp;#8217;s AI-powered Search Party won&amp;#8217;t stop at finding lost dogs, leaked email shows](https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion)
- - [Social media addiction trial: Mark Zuckerberg says increasing engagement on Instagram is not a company goal and that Meta removes underage users it identifies &lpar;CNBC&rpar;](http://www.techmeme.com/260218/p48#a260218p48)
- - [AI agents are coming to CarPlay, but they&#39;re not getting the keys](https://appleinsider.com/articles/26/02/18/ai-agents-are-coming-to-carplay-but-theyre-not-getting-the-keys?utm_source=rss)<!-- TECH:END -->
+ - [eBay reports Q4 revenue up 15% YoY to $3B, vs. $2.87B est., GMV up 10% to $21.2B, and forecasts Q1 profit above estimates; EBAY jumps 6%+ after hours &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/260218/p52#a260218p52)
+ - [Figma reports Q4 revenue up 40% YoY to $303.8M, vs. $293.15M est., and forecasts Q1 revenue above estimates; FIG jumps 15%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260218/p51#a260218p51)
+ - [Social media on trial: tech giants face lawsuits over addiction, safety, and mental health](https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok)
+ - [eBay agrees to acquire secondhand clothing app Depop from Etsy for ~$1.2B in cash; Etsy bought Depop in 2021 for $1.6B; ETSY jumps 17%+ after hours &lpar;Niko Gallogly/New York Times&rpar;](http://www.techmeme.com/260218/p50#a260218p50)
+ - [The Bose QuietComfort Ultra Gen 2 Headphones Are at Their Lowest Price in Months](https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-0218/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

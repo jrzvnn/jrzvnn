@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it is on pace to invest $50B by 2030 to help expand AI across the &quot;Global South&quot;; it unveiled $17.5B worth of AI investments in India in 2025 &lpar;Abu Sultan/Reuters&rpar;](http://www.techmeme.com/260218/p10#a260218p10)
+ - [A look at China&#39;s push to become a world leader in brain-computer interfaces, as Shanghai-based startup NeuroXess moves to human trials with Beijing&#39;s backing &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260218/p12#a260218p12)
+ - [Bengaluru-based AI startup Sarvam AI announces two models at the AI Impact Summit that it says are tailored to Indian languages and cultures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260218/p11#a260218p11)
+ - [Microsoft says it is on pace to invest $50B by 2030 to help expand AI across the &quot;Global South&quot;, after unveiling $17.5B in AI investments in India in 2025 &lpar;Abu Sultan/Reuters&rpar;](http://www.techmeme.com/260218/p10#a260218p10)
  - [Battery Ventures raised $3.25B for its XV fund, roughly matching its 2022 raise, to back software and industrial tech firms amid AI disruption concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p9#a260218p9)
- - [As the AI Impact Summit in New Delhi draws attention, a look at India&#39;s AI opportunities and the political economy gridlock that threatens its ambitions &lpar;Shruti Rajagopalan/Get Down and Shruti&rpar;](http://www.techmeme.com/260218/p8#a260218p8)
- - [Q&amp;A with Ramp CEO Eric Glyman on scaling the expense management company to over $1B revenue, the &quot;SaaS apocalypse&quot;, using AI agents to review expenses, and more &lpar;Cheeky Pint&rpar;](http://www.techmeme.com/260218/p7#a260218p7)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Feb. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-feb-18/)<!-- TECH:END -->
+ - [As the AI Impact Summit in New Delhi draws attention, a look at India&#39;s AI opportunities and the political economy gridlock that threatens its ambitions &lpar;Shruti Rajagopalan/Get Down and Shruti&rpar;](http://www.techmeme.com/260218/p8#a260218p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI partners with six Indian education institutions, including IIT Delhi, IIM Ahmedabad, and AIIMS New Delhi, to provide ChatGPT Edu access to 100K+ students &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260218/p32#a260218p32)
- - [I Saw a Hidden Induction Stove Concept at KBIS. It Looked Cool and Very Dangerous](https://www.cnet.com/news/hidden-induction-stove-at-kbis/)
- - [The Sun&#39;s Temper Tantrums: What You Should Know About Solar Storms](https://www.cnet.com/science/space/the-suns-temper-tantrums-what-you-should-know-about-solar-storms/)
- - [Big Tech Says Generative AI Will Save the Planet. It Doesn&#39;t Offer Much Proof](https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/)
- - [Google&#39;s Pixel 10A Launch Day: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
+ - [Lowest price ever: M5 iPad Pro plunges to $799](https://appleinsider.com/articles/26/02/18/lowest-price-ever-m5-ipad-pro-plunges-to-799?utm_source=rss)
+ - [March madness: What Apple is getting ready to launch](https://appleinsider.com/articles/26/02/18/march-madness-what-apple-is-getting-ready-to-launch?utm_source=rss)
+ - [Google rolls out Lyria 3, a generative music model that can make 30-second tracks with Nano Banana cover art, in beta in the Gemini app in eight languages &lpar;The Keyword&rpar;](http://www.techmeme.com/260218/p37#a260218p37)
+ - [Ring and Kidde’s Newest Smoke Detector Is Here, and It’s Battery Powered &lpar;2026&rpar;](https://www.wired.com/story/kidde-ring-new-smoke-alarm-2026/)
+ - [The Best Carbon Monoxide Detectors for Detecting Deadly Gas in Your Home](https://www.cnet.com/home/security/best-carbon-monoxide-detector/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

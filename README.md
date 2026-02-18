@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`If you want to know who rules over you, look at who you are not allowed to criticize`](http://9gag.com/gag/aD25xXx)
- - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 💣 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - 😝 [His voice caught me off guard...](http://9gag.com/gag/amowBb9)
- - 👉 [Wife material](http://9gag.com/gag/amow7Y2)<!-- MEMES:END -->
+ - 😝 [Ghost Busters](http://9gag.com/gag/a5Q3o9O)
+ - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
+ - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - 😝 [Another INSANE email](http://9gag.com/gag/avyw7wZ)
+ - 👉 [Christina Hendricks](http://9gag.com/gag/abAwMPB)<!-- MEMES:END -->
 
 ---
 

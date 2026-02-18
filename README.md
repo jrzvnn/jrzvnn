@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
- - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
- - 👉 [Christina Hendricks](http://9gag.com/gag/abAwMPB)<!-- MEMES:END -->
+ - 😝 [His voice caught me off guard...](http://9gag.com/gag/amowBb9)
+ - 😝 [Strong and independent women](http://9gag.com/gag/arywVM5)
+ - 💣 [White is the new black](http://9gag.com/gag/a87O5G3)
+ - 😝 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)
+ - 👉 [Never trust women ever again.](http://9gag.com/gag/amow7ey)<!-- MEMES:END -->
 
 ---
 

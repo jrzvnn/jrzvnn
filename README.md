@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At India&#39;s AI Summit, Sundar Pichai announces the America-India Connect Initiative to build new fiber optic lines between India, the US, and other countries &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260218/p19#a260218p19)
- - [A Las Vegas federal appeals court rejects Kalshi&#39;s emergency bid for an administrative stay against Nevada&#39;s efforts to block the platform, a major setback &lpar;Krystal Hur/Wall Street Journal&rpar;](http://www.techmeme.com/260218/p18#a260218p18)
- - [Filings: Warren Buffett&#39;s Berkshire Hathaway cut its Amazon stake by 75%+ to ~2.3M shares in Q4 2025; Berkshire bought 5.1M NYT shares, worth ~$352M in December &lpar;Alexandre Rajbhandari/Bloomberg&rpar;](http://www.techmeme.com/260218/p17#a260218p17)
- - [Are Mushroom Supplements Worth Taking? &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-mushroom-supplements/)
- - [Dell XPS 14 Review &lpar;2026&rpar;: This Laptop Marks an Incredible Comeback](https://www.wired.com/review/dell-xps-14-2026/)<!-- TECH:END -->
+ - [DG Matrix, which builds solid-state transformers to handle up to 2.4 MW and boost data center power efficiency, raised a $60M Series A led by Engine Ventures &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260218/p25#a260218p25)
+ - [March 4 international Apple Experiences may follow week of online launches](https://appleinsider.com/articles/26/02/18/march-4-international-apple-experiences-may-follow-week-of-online-launches?utm_source=rss)
+ - [Sources: Amazon shut down Blue Jay, a multi-armed robotic system launched in October 2025 for same-day delivery warehouses, to focus on small modular warehouses &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260218/p24#a260218p24)
+ - [AI Slop Is Destroying the Internet. These Are the People Fighting to Save It](https://www.cnet.com/tech/services-and-software/features/ai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it/)
+ - [Samsung&#39;s $200 Galaxy A17: A Closer Look at the Essentials-Only Phone](https://www.cnet.com/pictures/samsungs-200-galaxy-a17-photos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

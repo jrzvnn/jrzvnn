@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)
- - 💣 [Search `no images produced` and change pdf to mp4](http://9gag.com/gag/an7w9xB)
- - 😝 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - 👉 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)<!-- MEMES:END -->
+ - 😝 [Another INSANE email](http://9gag.com/gag/avyw7wZ)
+ - 😝 [Damn](http://9gag.com/gag/a0eq5Gn)
+ - 💣 [Ghost Busters](http://9gag.com/gag/a5Q3o9O)
+ - 😝 [Jail right away](http://9gag.com/gag/avywo5X)
+ - 👉 [Interesting](http://9gag.com/gag/an7wjpV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fei-Fei Li&#39;s World Labs raised $200M from Autodesk, part of a larger round; the companies are exploring integrating World Labs&#39; AI models in Autodesk products &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260218/p27#a260218p27)
+ - [Robinhood launches an IPO for Robinhood Ventures Fund I, a $1B closed-end fund to provide retail investors access to private markets, offering 40M shares at $25 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p26#a260218p26)
+ - [How to get into retro gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)
  - [DG Matrix, which builds solid-state transformers to handle up to 2.4 MW and boost data center power efficiency, raised a $60M Series A led by Engine Ventures &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260218/p25#a260218p25)
- - [March 4 international Apple Experiences may follow week of online launches](https://appleinsider.com/articles/26/02/18/march-4-international-apple-experiences-may-follow-week-of-online-launches?utm_source=rss)
- - [Sources: Amazon shut down Blue Jay, a multi-armed robotic system launched in October 2025 for same-day delivery warehouses, to focus on small modular warehouses &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260218/p24#a260218p24)
- - [AI Slop Is Destroying the Internet. These Are the People Fighting to Save It](https://www.cnet.com/tech/services-and-software/features/ai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it/)
- - [Samsung&#39;s $200 Galaxy A17: A Closer Look at the Essentials-Only Phone](https://www.cnet.com/pictures/samsungs-200-galaxy-a17-photos/)<!-- TECH:END -->
+ - [March 4 international Apple Experiences may follow week of online launches](https://appleinsider.com/articles/26/02/18/march-4-international-apple-experiences-may-follow-week-of-online-launches?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

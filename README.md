@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone satellite SOS helps save six skiers after Lake Tahoe avalanche](https://appleinsider.com/articles/26/02/19/iphone-satellite-sos-helps-save-six-skiers-after-lake-tahoe-avalanche?utm_source=rss)
- - [CZ returned to the US for the first time since his release from prison in 2024, to attend a WLF event at Mar-a-Lago attended by Brian Armstrong and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260219/p38#a260219p38)
- - [Meta’s VR metaverse is ditching VR](https://www.theverge.com/tech/881647/meta-vr-mobile-metaverse-horizon-worlds)
- - [Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past](https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/)
- - [Workers describe a deteriorating culture at Jack Dorsey&#39;s Block as morale plunges amid rolling layoffs and a push to use AI tools to improve productivity &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260219/p37#a260219p37)<!-- TECH:END -->
+ - [The best earbuds we’ve tested for 2026](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Meta says it is &quot;explicitly separating&quot; Quest VR from its Worlds platform, making Worlds &quot;almost exclusively mobile&quot;, letting it better compete with Roblox &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260219/p40#a260219p40)
+ - [Apple Sued Over Allegations of CSAM on iCloud](https://www.cnet.com/tech/services-and-software/apple-sued-over-csam-icloud-allegations/)
+ - [Docs: DHS has signed a five-year, $1B blanket purchase agreement with Palantir, allowing agencies like ICE to skip the competitive bidding process &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/260219/p39#a260219p39)
+ - [Google&#39;s Pixel 10A Launch: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

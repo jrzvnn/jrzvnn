@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atlassian&#39;s founders lost ~$7.2B in wealth in 2026, behind AppLovin&#39;s three founders, amid an SaaS rout; TEAM dropped ~48% YTD, the Nasdaq 100&#39;s worst performer &lpar;Bloomberg&rpar;](http://www.techmeme.com/260219/p18#a260219p18)
- - [Sources: Uber is moving to bar drivers with convictions for violent felonies, sexual offenses, and child or elder abuse, after an NYT report in December 2025 &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/260219/p17#a260219p17)
- - [Best Home Gym Setup &lpar;2026&rpar;: Adjustable Weights, Resistance Bands, and More](https://www.wired.com/story/the-best-home-gym-setup/)
- - [Book extract: ex-Sony Entertainment CEO Michael Lynton recounts his role in sparking North Korea&#39;s 2014 hack, one of the worst cyberattacks in corporate history &lpar;Michael Lynton/Wall Street Journal&rpar;](http://www.techmeme.com/260219/p16#a260219p16)
- - [Inside the Gay Tech Mafia](https://www.wired.com/story/inside-the-gay-tech-mafia/)<!-- TECH:END -->
+ - [ByteDance is currently hiring for nearly 100 US-based roles within its Seed AI team across San Jose, LA, and Seattle to develop LLMs, drug discovery, and more &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/260219/p24#a260219p24)
+ - [Mobile gaming company Scopely buys a majority stake in Istanbul-based studio Loom, maker of puzzle game Pixel Flow!; a source says the deal values Loom at $1B+ &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/260219/p23#a260219p23)
+ - [Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared &lpar;2026&rpar;](https://www.wired.com/story/best-unlimited-phone-plans/)
+ - [Klarna reports Q4 revenue up 38% YoY to $1.08B and a $26M net loss, down from a $40M profit in Q4 2024; KLAR is down 50%+ since its September 2025 NYSE IPO &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/260219/p22#a260219p22)
+ - [8 Best Computer Monitors &lpar;2026&rpar;: Budget, OLED, 4K, and More](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

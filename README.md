@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
- - 😝 [This is next level parenting](http://9gag.com/gag/amow5y4)
- - 💣 [When you finally meet someone that matches your energy](http://9gag.com/gag/aND50gr)
+ - 😝 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
+ - 😝 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)
+ - 💣 [Nom nom nom](http://9gag.com/gag/a5Q3EqN)
  - 😝 [Find a wife like her](http://9gag.com/gag/arywMB0)
- - 👉 [Baby Seal](http://9gag.com/gag/azxwmBB)<!-- MEMES:END -->
+ - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christina Hendricks](http://9gag.com/gag/abAwMPB)
- - 😝 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - 💣 [Smart guy](http://9gag.com/gag/a9y0K1W)
- - 😝 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)
- - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
+ - 😝 [Smart guy](http://9gag.com/gag/a9y0K1W)
+ - 😝 [Completely normal hotel room](http://9gag.com/gag/amowB1y)
+ - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 😝 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)
+ - 👉 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
 
 ---
 

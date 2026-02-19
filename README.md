@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
- - 😝 [Completely normal hotel room](http://9gag.com/gag/amowB1y)
- - 💣 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - 😝 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)
- - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
+ - 😝 [Smart guy](http://9gag.com/gag/a9y0K1W)
+ - 😝 [Titel](http://9gag.com/gag/a87O546)
+ - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 😝 [Feel the rhythm, feel the rhyme, get on up, its bobsled time](http://9gag.com/gag/aKG57rO)
+ - 👉 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
 
 ---
 

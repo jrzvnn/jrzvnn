@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg and his Ray-Ban entourage have their day in court](https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters)
+ - [Samsung shares surged 5.4% to a record high after a report said the company plans to price HBM4 chips at ~$700 per unit, 30% higher than the previous generation &lpar;Kurt Schussler/Bloomberg&rpar;](http://www.techmeme.com/260218/p67#a260218p67)
+ - [Austin-based Circuit, which is building an AI platform for manufacturing and service enterprises, raised $30M from a group of angel investors &lpar;Karoline Leonard/Austin American ...&rpar;](http://www.techmeme.com/260218/p66#a260218p66)
  - [An experiment finds X&#39;s feed algorithm favored conservative content, and switching to the &quot;For you&quot; feed shifted users&#39; views toward more conservative positions &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/260218/p65#a260218p65)
- - [AI agents are coming to CarPlay, but they&#39;re not getting the keys](https://appleinsider.com/articles/26/02/18/ai-agents-are-coming-to-carplay-but-theyre-not-getting-the-keys?utm_source=rss)
- - [Sources: OpenAI is close to finalizing the first phase of its $100B round; its overall valuation, including the eventual funding, could exceed $850B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p64#a260218p64)
- - [Sources: Dylan Patel&#39;s SemiAnalysis is in early talks to raise hundreds of millions for a VC fund; Patel raised a $50M SPV toward Fluidstack&#39;s $700M fundraising &lpar;The Information&rpar;](http://www.techmeme.com/260218/p63#a260218p63)
- - [Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony](https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/)<!-- TECH:END -->
+ - [AI agents are coming to CarPlay, but they&#39;re not getting the keys](https://appleinsider.com/articles/26/02/18/ai-agents-are-coming-to-carplay-but-theyre-not-getting-the-keys?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

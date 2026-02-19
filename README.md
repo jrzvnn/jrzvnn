@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pitt has a sharp take on AI](https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting)
+ - [Sources: Meta cuts its annual distribution of stock options by ~5% for most of its staff, equating to tens of thousands of employees, after a ~10% cut in 2025 &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/260219/p43#a260219p43)
  - [Sources: Emerald AI, which develops software to curb data center energy demand, is raising a $25M seed extension at a ~$250M post-money valuation &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/260219/p42#a260219p42)
  - [A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&amp;#8217;s cloud](https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu)
- - [Apple TV F1, MLS, MLB streaming reach expands to bars &amp; restaurants](https://appleinsider.com/articles/26/02/19/apple-tv-f1-mls-mlb-streaming-reach-expands-to-bars-restaurants?utm_source=rss)
- - [Sony shuts down Bluepoint Games, the PlayStation subsidiary behind remakes of older games like Demon&#39;s Souls and Uncharted; ~70 employees will lose their jobs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260219/p41#a260219p41)
- - [KBIS 2026: Live Updates From the Final Day at the Kitchen and Bath Industry Show](https://www.cnet.com/news-live/kbis-2026-live/)<!-- TECH:END -->
+ - [Apple TV F1, MLS, MLB streaming reach expands to bars &amp; restaurants](https://appleinsider.com/articles/26/02/19/apple-tv-f1-mls-mlb-streaming-reach-expands-to-bars-restaurants?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

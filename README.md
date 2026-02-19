@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is closing the studio behind the Demon&amp;#8217;s Souls and Shadow of the Colossus remakes](https://www.theverge.com/games/881578/sony-close-bluepoint-games-studio-remaster-remake-demons-souls-shadow-colossus-god-of-war)
- - [The AI security nightmare is here and it looks suspiciously like lobster](https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack)
- - [Reddit is testing an AI search feature that takes community recommendations and shows matching products from its advertisers in the results &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260219/p34#a260219p34)
- - [Baseus’ retractable, 6-in-1 travel adapter is on sale for its lowest price to date](https://www.theverge.com/gadgets/881424/baseus-enercore-cg11-universal-travel-adapter-deal-sale)
- - [Perplexity&#39;s Comet AI browser is coming to iPhone soon](https://appleinsider.com/articles/26/02/19/perplexitys-comet-ai-browser-is-coming-to-iphone-soon?utm_source=rss)<!-- TECH:END -->
+ - [Toronto-based chip startup Taalas, which hardwires AI models into custom silicon to achieve faster inference, raised $169M, bringing its total funding to $219M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/260219/p36#a260219p36)
+ - [After Search Party backlash, Ring is still avoiding the bigger questions](https://www.theverge.com/news/881339/after-search-party-backlash-ring-is-still-avoiding-the-bigger-questions)
+ - [Inexpensive MacBook is the perfect way to get users deeper into the Apple ecosystem](https://appleinsider.com/articles/26/02/19/inexpensive-macbook-is-the-perfect-way-to-get-users-deeper-into-the-apple-ecosystem?utm_source=rss)
+ - [Code Metal Raises $125 Million to Rewrite the Defense Industry&#39;s Code With AI](https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/)
+ - [Woody and Buzz Join Forces to Take On a Tablet in New &#39;Toy Story 5&#39; Trailer](https://www.cnet.com/tech/services-and-software/new-toy-story-5-trailer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

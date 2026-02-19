@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
  - 😝 [This is next level parenting](http://9gag.com/gag/amow5y4)
- - 💣 [Baby Seal](http://9gag.com/gag/azxwmBB)
- - 😝 [Tell that to the library of Alexandria](http://9gag.com/gag/aAy5br2)
- - 👉 [When you finally meet someone that matches your energy](http://9gag.com/gag/aND50gr)<!-- MEMES:END -->
+ - 💣 [When you finally meet someone that matches your energy](http://9gag.com/gag/aND50gr)
+ - 😝 [Find a wife like her](http://9gag.com/gag/arywMB0)
+ - 👉 [Baby Seal](http://9gag.com/gag/azxwmBB)<!-- MEMES:END -->
 
 ---
 

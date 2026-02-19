@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pitt has a sharp take on AI](https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting)
+ - [A Mystery Phone, Found in the Desert, Slowly Reveals Its Secrets](https://www.cnet.com/tech/mobile/samsung-phone-lost-in-desert-10-years-lives-again/)
+ - [Moonquakes: Understanding the Moon&#39;s Tectonic Forces Could Protect Future Astronauts](https://www.cnet.com/science/understanding-moonquakes-could-protect-future-astronauts/)
+ - [An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years](https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/)
  - [Sources: Meta cuts its annual distribution of stock options by ~5% for most of its staff, equating to tens of thousands of employees, after a ~10% cut in 2025 &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/260219/p43#a260219p43)
- - [Sources: Emerald AI, which develops software to curb data center energy demand, is raising a $25M seed extension at a ~$250M post-money valuation &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/260219/p42#a260219p42)
- - [A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&amp;#8217;s cloud](https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu)
- - [Apple TV F1, MLS, MLB streaming reach expands to bars &amp; restaurants](https://appleinsider.com/articles/26/02/19/apple-tv-f1-mls-mlb-streaming-reach-expands-to-bars-restaurants?utm_source=rss)<!-- TECH:END -->
+ - [Google Pixel 10A Specs vs. Pixel 9A, 8A, 7A: What&#39;s New in the $499 Phone](https://www.cnet.com/tech/mobile/google-pixel-10a-specs-vs-pixel-9a-8a-7a-whats-new-in-the-499-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

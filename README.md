@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atlassian&#39;s founders lost ~$7.2B in wealth in 2026, behind AppLovin&#39;s three founders, amid an SaaS rout; TEAM dropped ~48% YTD, the Nasdaq 100&#39;s worst performer &lpar;Bloomberg&rpar;](http://www.techmeme.com/260219/p18#a260219p18)
+ - [Sources: Uber is moving to bar drivers with convictions for violent felonies, sexual offenses, and child or elder abuse, after an NYT report in December 2025 &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/260219/p17#a260219p17)
+ - [Best Home Gym Setup &lpar;2026&rpar;: Adjustable Weights, Resistance Bands, and More](https://www.wired.com/story/the-best-home-gym-setup/)
  - [Book extract: ex-Sony Entertainment CEO Michael Lynton recounts his role in sparking North Korea&#39;s 2014 hack, one of the worst cyberattacks in corporate history &lpar;Michael Lynton/Wall Street Journal&rpar;](http://www.techmeme.com/260219/p16#a260219p16)
- - [Inside the Gay Tech Mafia](https://www.wired.com/story/inside-the-gay-tech-mafia/)
- - [The biggest app in the whole wide world](https://www.theverge.com/tech/876196/top-app-store-apps-developers)
- - [India&#39;s AI Summit: Modi orchestrated a photo op with tech and business leaders holding hands in a line, but Sam Altman and Dario Amodei awkwardly refused &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260219/p15#a260219p15)
- - [The Gates Foundation says Bill Gates will not deliver his keynote at India&#39;s AI Summit after &quot;careful consideration&quot; amid controversy over his Epstein ties &lpar;Cherylann Mollan/BBC&rpar;](http://www.techmeme.com/260219/p14#a260219p14)<!-- TECH:END -->
+ - [Inside the Gay Tech Mafia](https://www.wired.com/story/inside-the-gay-tech-mafia/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

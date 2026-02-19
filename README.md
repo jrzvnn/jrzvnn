@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FreeForm, which is building an AI native 3D printing system that uses 18 lasers to fuse metal powders into precision components, raised a $67M Series B &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260219/p26#a260219p26)
- - [The speech police came for Colbert](https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast)
- - [Money no longer matters to AI’s top talent](https://www.theverge.com/podcast/880778/ai-talent-war-hiring-frenzy-openai-anthropic-ipo)
- - [March madness: What Apple is getting ready to launch](https://appleinsider.com/articles/26/02/18/march-madness-what-apple-is-getting-ready-to-launch?utm_source=rss)
- - [No, iPhone 18 won&#39;t have Mac-like MagSafe charging](https://appleinsider.com/articles/26/02/19/no-iphone-18-wont-have-mac-like-magsafe-charging?utm_source=rss)<!-- TECH:END -->
+ - [Mastodon is testing easier ways to get you started in the fediverse](https://www.theverge.com/tech/881352/mastodon-default-server-recommendations-experiment)
+ - [Ownwell, which uses AI to let homeowners appeal property taxes, raised a $30M Series B, bringing its total funding to $54M; it also raised $20M in debt &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260219/p29#a260219p29)
+ - [A leaked internal email shows Ring&#39;s plan targets more than pets](https://appleinsider.com/articles/26/02/19/a-leaked-internal-email-shows-rings-plan-targets-more-than-pets?utm_source=rss)
+ - [ZaiNar, a developer of a GPS alternative that uses Wi-Fi and 5G to provide location data, raised $10M at a $1B valuation, bringing its total funding to $100M &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/260219/p28#a260219p28)
+ - [A FaceBook smart watch is okay, if you don&#39;t value privacy](https://appleinsider.com/articles/26/02/19/a-facebook-smart-watch-is-okay-if-you-dont-value-privacy?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

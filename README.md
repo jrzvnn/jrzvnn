@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
- - 😝 [Titel](http://9gag.com/gag/a87O546)
- - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [And that my friends is what hotels are for](http://9gag.com/gag/aAy5epZ)
+ - 😝 [Parking like a wanker](http://9gag.com/gag/aAy5ebL)
+ - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 😝 [Tell that to the library of Alexandria](http://9gag.com/gag/aAy5br2)
  - 👉 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)<!-- MEMES:END -->
 
 ---

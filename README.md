@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
+ - 😝 [Titel](http://9gag.com/gag/a87O546)
  - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
  - 💣 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
  - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)

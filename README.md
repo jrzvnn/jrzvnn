@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get into classic arcade gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)
- - [Cleveland-based Eagle Wireless, which makes cellular modules used in IoT devices, raised a $30M Series B as the US seeks to reduce its reliance on China &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260219/p33#a260219p33)
- - [Full internet by satellite could come via an Apple-designed iPhone or iPad case](https://appleinsider.com/articles/26/02/19/full-internet-by-satellite-could-come-via-an-iphone-or-ipad-case?utm_source=rss)
- - [Apple TV’s The Hunt finally has a premiere date](https://www.theverge.com/tech/881386/apple-tv-the-hunt-premiere-date)
- - [Plagiarism probe ends, Apple TV thriller &#39;The Hunt&#39; debuts soon](https://appleinsider.com/articles/26/02/19/plagiarism-probe-ends-apple-tv-thriller-the-hunt-debuts-soon?utm_source=rss)<!-- TECH:END -->
+ - [Sony is closing the studio behind the Demon&amp;#8217;s Souls and Shadow of the Colossus remakes](https://www.theverge.com/games/881578/sony-close-bluepoint-games-studio-remaster-remake-demons-souls-shadow-colossus-god-of-war)
+ - [The AI security nightmare is here and it looks suspiciously like lobster](https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack)
+ - [Reddit is testing an AI search feature that takes community recommendations and shows matching products from its advertisers in the results &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260219/p34#a260219p34)
+ - [Baseus’ retractable, 6-in-1 travel adapter is on sale for its lowest price to date](https://www.theverge.com/gadgets/881424/baseus-enercore-cg11-universal-travel-adapter-deal-sale)
+ - [Perplexity&#39;s Comet AI browser is coming to iPhone soon](https://appleinsider.com/articles/26/02/19/perplexitys-comet-ai-browser-is-coming-to-iphone-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

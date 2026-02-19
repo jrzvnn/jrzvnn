@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart guy](http://9gag.com/gag/a9y0K1W)
- - 😝 [Titel](http://9gag.com/gag/a87O546)
- - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 😝 [Feel the rhythm, feel the rhyme, get on up, its bobsled time](http://9gag.com/gag/aKG57rO)
- - 👉 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
+ - 😝 [I would steal it](http://9gag.com/gag/aW45xE3)
+ - 😝 [This is next level parenting](http://9gag.com/gag/amow5y4)
+ - 💣 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)
+ - 😝 [Just some work](http://9gag.com/gag/an7w48E)
+ - 👉 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)<!-- MEMES:END -->
 
 ---
 

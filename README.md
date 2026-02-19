@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I guess at this point, nothing should surprise me anymore.](http://9gag.com/gag/a0eqRXz)
  - 😝 [This is next level parenting](http://9gag.com/gag/amow5y4)
- - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 💣 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
+ - 💣 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
  - 😝 [Cucumber-carrot](http://9gag.com/gag/aPA2ZRR)
- - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
+ - 👉 [Jail right away](http://9gag.com/gag/avywo5X)<!-- MEMES:END -->
 
 ---
 

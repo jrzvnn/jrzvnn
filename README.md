@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Gates Foundation says Bill Gates will not deliver his keynote at India&#39;s AI Summit after &quot;careful consideration&quot; amid controversy over his Epstein ties &lpar;Cherylann Mollan/BBC&rpar;](http://www.techmeme.com/260219/p14#a260219p14)
- - [Bowers &amp; Wilkins Px7 S3 Review: Stronger Build, Sweeter Sound](https://www.wired.com/review/bowers-and-wilkins-px7-s3/)
- - [This AI Tool Will Tell You to Stop Slacking Off](https://www.wired.com/story/fomi-ai-will-tell-you-to-stop-slacking-off/)
- - [Russian forces in Ukraine face communications issues as SpaceX restricts Starlink access and Telegram faces a crackdown, per pro-Russian military channels &lpar;Bloomberg&rpar;](http://www.techmeme.com/260219/p13#a260219p13)
- - [How to Organize Safely in the Age of Surveillance](https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/)<!-- TECH:END -->
+ - [Book extract: ex-Sony Entertainment CEO Michael Lynton recounts his role in sparking North Korea&#39;s 2014 hack, one of the worst cyberattacks in corporate history &lpar;Michael Lynton/Wall Street Journal&rpar;](http://www.techmeme.com/260219/p16#a260219p16)
+ - [Inside the Gay Tech Mafia](https://www.wired.com/story/inside-the-gay-tech-mafia/)
+ - [The biggest app in the whole wide world](https://www.theverge.com/tech/876196/top-app-store-apps-developers)
+ - [India&#39;s AI Summit: Modi orchestrated a photo op with tech and business leaders holding hands in a line, but Sam Altman and Dario Amodei awkwardly refused &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260219/p15#a260219p15)
+ - [The Gates Foundation says Bill Gates will not deliver his keynote at India&#39;s AI Summit after &quot;careful consideration&quot; amid controversy over his Epstein ties &lpar;Cherylann Mollan/BBC&rpar;](http://www.techmeme.com/260219/p14#a260219p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

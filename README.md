@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [This is next level parenting](http://9gag.com/gag/amow5y4)
  - 😝 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
- - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 💣 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 😝 [Cucumber-carrot](http://9gag.com/gag/aPA2ZRR)
  - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 ---

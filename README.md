@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Rolling Layoffs at Jack Dorsey’s Block](https://www.wired.com/story/inside-rolling-layoffs-jack-dorsey-block/)
- - [Upgrade Your Computer Speakers With These Discounted Edifier M60s](https://www.wired.com/story/edifier-m60-deal-226/)
- - [Toronto-based chip startup Taalas, which hardwires AI models into custom silicon to achieve faster inference, raised $169M, bringing its total funding to $219M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/260219/p36#a260219p36)
- - [After Search Party backlash, Ring is still avoiding the bigger questions](https://www.theverge.com/news/881339/after-search-party-backlash-ring-is-still-avoiding-the-bigger-questions)
- - [Inexpensive MacBook is the perfect way to get users deeper into the Apple ecosystem](https://appleinsider.com/articles/26/02/19/inexpensive-macbook-is-the-perfect-way-to-get-users-deeper-into-the-apple-ecosystem?utm_source=rss)<!-- TECH:END -->
+ - [Workers describe a deteriorating culture at Jack Dorsey&#39;s Block as morale plunges amid rolling layoffs and a push to use AI tools to improve productivity &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260219/p37#a260219p37)
+ - [T-Mobile vs. Verizon: Which Major Phone Carrier to Choose?](https://www.cnet.com/tech/mobile/t-mobile-vs-verizon/)
+ - [iPhone camera &amp; microphone dot can be suppressed if you&#39;re already hacked](https://appleinsider.com/articles/26/02/19/iphone-camera-microphone-dot-can-be-suppressed-if-youre-already-hacked?utm_source=rss)
+ - [The 10 Best Shows to Stream Right Now &lpar;February 2026&rpar;](https://www.wired.com/story/the-best-shows-to-stream-right-now/)
+ - [‘Pew Pew’: The Chinese Companies Marketing Anti-Drone Weapons on TikTok](https://www.wired.com/story/pew-pew-the-chinese-sellers-marketing-military-drones-on-tiktok/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

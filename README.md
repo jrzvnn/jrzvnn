@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV F1, MLS, MLB streaming reach expands to bars &amp; restaurants](https://appleinsider.com/articles/26/02/19/apple-tv-f1-mls-mlb-streaming-reach-expands-to-bars-restaurants?utm_source=rss)
+ - [Sony shuts down Bluepoint Games, the PlayStation subsidiary behind remakes of older games like Demon&#39;s Souls and Uncharted; ~70 employees will lose their jobs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260219/p41#a260219p41)
  - [The best earbuds we’ve tested for 2026](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Meta says it is &quot;explicitly separating&quot; Quest VR from its Worlds platform, making Worlds &quot;almost exclusively mobile&quot;, letting it better compete with Roblox &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260219/p40#a260219p40)
- - [Apple Sued Over Allegations of CSAM on iCloud](https://www.cnet.com/tech/services-and-software/apple-sued-over-csam-icloud-allegations/)
- - [Docs: DHS has signed a five-year, $1B blanket purchase agreement with Palantir, allowing agencies like ICE to skip the competitive bidding process &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/260219/p39#a260219p39)
- - [Google&#39;s Pixel 10A Launch: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
+ - [Apple Sued Over Allegations of CSAM on iCloud](https://www.cnet.com/tech/services-and-software/apple-sued-over-csam-icloud-allegations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

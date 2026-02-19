@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart guy](http://9gag.com/gag/a9y0K1W)
  - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
+ - 😝 [Titel](http://9gag.com/gag/a87O546)
  - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 👉 [Wednesday](http://9gag.com/gag/a0eqNZZ)<!-- MEMES:END -->
+ - 😝 [And that my friends is what hotels are for](http://9gag.com/gag/aAy5epZ)
+ - 👉 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)<!-- MEMES:END -->
 
 ---
 

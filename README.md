@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Accenture told execs promotions would require &quot;regular adoption&quot; of AI and is tracking individual weekly logins to its AI tools for some senior staff &lpar;Financial Times&rpar;](http://www.techmeme.com/260219/p3#a260219p3)
+ - [India&#39;s TCS signs OpenAI as its first data center customer, starting with 100MW of capacity; Tata Group plans to deploy ChatGPT Enterprise, starting with TCS &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260219/p2#a260219p2)
+ - [Microsoft&#39;s Project Silica team details its laser-modified glass storage tech, saying tests suggest that it can preserve information for at least 10,000 years &lpar;Gayoung Lee/Gizmodo&rpar;](http://www.techmeme.com/260219/p1#a260219p1)
  - [Mark Zuckerberg and his Ray-Ban entourage have their day in court](https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters)
- - [Samsung shares surged 5.4% to a record high after a report said the company plans to price HBM4 chips at ~$700 per unit, 30% higher than the previous generation &lpar;Kurt Schussler/Bloomberg&rpar;](http://www.techmeme.com/260218/p67#a260218p67)
- - [Austin-based Circuit, which is building an AI platform for manufacturing and service enterprises, raised $30M from a group of angel investors &lpar;Karoline Leonard/Austin American ...&rpar;](http://www.techmeme.com/260218/p66#a260218p66)
- - [An experiment finds X&#39;s feed algorithm favored conservative content, and switching to the &quot;For you&quot; feed shifted users&#39; views toward more conservative positions &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/260218/p65#a260218p65)
- - [AI agents are coming to CarPlay, but they&#39;re not getting the keys](https://appleinsider.com/articles/26/02/18/ai-agents-are-coming-to-carplay-but-theyre-not-getting-the-keys?utm_source=rss)<!-- TECH:END -->
+ - [Samsung shares surged 5.4% to a record high after a report said the company plans to price HBM4 chips at ~$700 per unit, 30% higher than the previous generation &lpar;Kurt Schussler/Bloomberg&rpar;](http://www.techmeme.com/260218/p67#a260218p67)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

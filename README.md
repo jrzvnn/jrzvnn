@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
- - 😝 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - 💣 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
+ - 💣 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
  - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
  - 👉 [Nom nom nom](http://9gag.com/gag/a5Q3EqN)<!-- MEMES:END -->
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Titel](http://9gag.com/gag/a87O546)
  - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 💣 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
  - 😝 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
+ - 💣 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 😝 [\ud83d\uddbc\ufe0f First look at Brendan Fraser as Dwight D. Eisenhower in \u2018PRESSURE\u2019](http://9gag.com/gag/amowgzo)
  - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 ---

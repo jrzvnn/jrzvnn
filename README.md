@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe G\u00ebh](http://9gag.com/gag/aBy5mjD)
- - 😝 [Old but gold](http://9gag.com/gag/aPA2Z6n)
- - 💣 [Damn ninjas cutting onions](http://9gag.com/gag/adBwgyV)
- - 😝 [\ud83d\uddbc\ufe0f First look at Brendan Fraser as Dwight D. Eisenhower in \u2018PRESSURE\u2019](http://9gag.com/gag/amowgzo)
- - 👉 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)<!-- MEMES:END -->
+ - 😝 [This is next level parenting](http://9gag.com/gag/amow5y4)
+ - 😝 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
+ - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 ---
 

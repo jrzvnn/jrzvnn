@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The RAM crunch could kill products and even entire companies, memory exec admits](https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview)
- - [The UK proposes new rules requiring tech firms to remove nonconsensual abusive content within 48 hours or risk blocking and fines of up to 10% of global revenue &lpar;The Guardian&rpar;](http://www.techmeme.com/260218/p60#a260218p60)
- - [Crypto lending firm Ledn sold $188M in securitized bonds backed by bitcoin loans, making it the first deal of its kind in the market for asset-backed debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p59#a260218p59)
- - [Cadence shares closed up 7.6% on Wednesday after the chip design company reported Q4 revenue up ~6% to $1.44B and adjusted EPS of $1.99, both above estimates &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260218/p58#a260218p58)
- - [Meta Could Release a Smartwatch This Year: This Is Why It Makes Sense](https://www.cnet.com/tech/mobile/meta-could-release-a-smartwatch-this-year-this-is-why-it-makes-sense/)<!-- TECH:END -->
+ - [An experiment finds X&#39;s feed algorithm favored conservative content, and switching to the &quot;For you&quot; feed shifted users&#39; views toward more conservative positions &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/260218/p65#a260218p65)
+ - [AI agents are coming to CarPlay, but they&#39;re not getting the keys](https://appleinsider.com/articles/26/02/18/ai-agents-are-coming-to-carplay-but-theyre-not-getting-the-keys?utm_source=rss)
+ - [Sources: OpenAI is close to finalizing the first phase of its $100B round; its overall valuation, including the eventual funding, could exceed $850B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p64#a260218p64)
+ - [Sources: Dylan Patel&#39;s SemiAnalysis is in early talks to raise hundreds of millions for a VC fund; Patel raised a $50M SPV toward Fluidstack&#39;s $700M fundraising &lpar;The Information&rpar;](http://www.techmeme.com/260218/p63#a260218p63)
+ - [Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony](https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

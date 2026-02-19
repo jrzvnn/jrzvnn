@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside India&#39;s AI Impact Summit: 300+ exhibitors, 500 sessions, 250K visitors, billions in investment, and entrepreneurs touting solutions to real-world issues &lpar;New York Times&rpar;](http://www.techmeme.com/260219/p12#a260219p12)
- - [Indian conglomerate Reliance plans to invest up to $110B in building AI-related infrastructure over the next seven years, and JioHotstar plans a ChatGPT bot &lpar;Bloomberg&rpar;](http://www.techmeme.com/260219/p11#a260219p11)
- - [How Lego&#39;s Creative Play Lab built the Smart Brick, its custom chip, sensors, and proprietary communication system to seamlessly integrate with existing sets &lpar;Jeremy White/Wired&rpar;](http://www.techmeme.com/260219/p10#a260219p10)
- - [Apple Podcasts&#39; fresh leap into video podcasts accelerates the podcast industry&#39;s shift from an audio-centric medium to a decidedly video-focused one &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260219/p9#a260219p9)
- - [A study of 12K+ EU companies finds AI adoption increases labor productivity by 4% on average in the EU, with no evidence of reduced employment in the short run &lpar;CEPR&rpar;](http://www.techmeme.com/260219/p8#a260219p8)<!-- TECH:END -->
+ - [The Gates Foundation says Bill Gates will not deliver his keynote at India&#39;s AI Summit after &quot;careful consideration&quot; amid controversy over his Epstein ties &lpar;Cherylann Mollan/BBC&rpar;](http://www.techmeme.com/260219/p14#a260219p14)
+ - [Bowers &amp; Wilkins Px7 S3 Review: Stronger Build, Sweeter Sound](https://www.wired.com/review/bowers-and-wilkins-px7-s3/)
+ - [This AI Tool Will Tell You to Stop Slacking Off](https://www.wired.com/story/fomi-ai-will-tell-you-to-stop-slacking-off/)
+ - [Russian forces in Ukraine face communications issues as SpaceX restricts Starlink access and Telegram faces a crackdown, per pro-Russian military channels &lpar;Bloomberg&rpar;](http://www.techmeme.com/260219/p13#a260219p13)
+ - [How to Organize Safely in the Age of Surveillance](https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

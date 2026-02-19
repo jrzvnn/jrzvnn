@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baby Seal](http://9gag.com/gag/azxwmBB)
- - 😝 [This is next level parenting](http://9gag.com/gag/amow5y4)
- - 💣 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)
- - 😝 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
- - 👉 [When you finally meet someone that matches your energy](http://9gag.com/gag/aND50gr)<!-- MEMES:END -->
+ - 😝 [Smart guy](http://9gag.com/gag/a9y0K1W)
+ - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
+ - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 👉 [Wednesday](http://9gag.com/gag/a0eqNZZ)<!-- MEMES:END -->
 
 ---
 

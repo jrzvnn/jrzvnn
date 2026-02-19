@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Lego&#39;s Creative Play Lab built the Smart Brick, its custom chip, sensors, and proprietary communication system to seamlessly integrate with existing sets &lpar;Jeremy White/Wired&rpar;](http://www.techmeme.com/260219/p10#a260219p10)
  - [Apple Podcasts&#39; fresh leap into video podcasts accelerates the podcast industry&#39;s shift from an audio-centric medium to a decidedly video-focused one &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260219/p9#a260219p9)
  - [A study of 12K+ EU companies finds AI adoption increases labor productivity by 4% on average in the EU, with no evidence of reduced employment in the short run &lpar;CEPR&rpar;](http://www.techmeme.com/260219/p8#a260219p8)
  - [Nonprofit What To Fix says Facebook&#39;s content monetization program grew from under 3M to over 12M participants in just over a year; 8M+ accounts are in English &lpar;Hazel Gandhi/Rest of World&rpar;](http://www.techmeme.com/260219/p7#a260219p7)
- - [Apple&#39;s 40-day correlation to the Nasdaq 100 fell to 0.21 last week, the lowest since 2006, making it an appealing alternative to the AI-fueled volatility &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260219/p6#a260219p6)
- - [OPM Director Scott Kupor says tech billionaires such as Elon Musk will give talks to the US Tech Force, which aims to recruit roughly 1,000 software engineers &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260219/p5#a260219p5)<!-- TECH:END -->
+ - [Apple&#39;s 40-day correlation to the Nasdaq 100 fell to 0.21 last week, the lowest since 2006, making it an appealing alternative to the AI-fueled volatility &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260219/p6#a260219p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

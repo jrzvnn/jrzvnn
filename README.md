@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, iPhone 18 won&#39;t have Mac-like MagSafe charging](https://appleinsider.com/articles/26/02/19/no-iphone-18-wont-have-mac-like-magsafe-charging?utm_source=rss)
- - [Race to the IMAX theater: Apple TV &amp; F1 will screen live races](https://appleinsider.com/articles/26/02/19/race-to-the-imax-theater-apple-tv-f1-will-screen-live-races?utm_source=rss)
- - [40 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/)
- - [Abxylute’s new Switch 2 controller prototype has one big problem](https://www.theverge.com/tech/880971/abxylute-n6-switch-2-hands-on-controller)
- - [Amsterdam-based Stacks, which builds AI software to automate accounting workflows, raised a $23M Series A led by Lightspeed, after a €10M seed in 2025 &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260219/p25#a260219p25)<!-- TECH:END -->
+ - [FreeForm, which is building an AI native 3D printing system that uses 18 lasers to fuse metal powders into precision components, raised a $67M Series B &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260219/p26#a260219p26)
+ - [The speech police came for Colbert](https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast)
+ - [Money no longer matters to AI’s top talent](https://www.theverge.com/podcast/880778/ai-talent-war-hiring-frenzy-openai-anthropic-ipo)
+ - [March madness: What Apple is getting ready to launch](https://appleinsider.com/articles/26/02/18/march-madness-what-apple-is-getting-ready-to-launch?utm_source=rss)
+ - [No, iPhone 18 won&#39;t have Mac-like MagSafe charging](https://appleinsider.com/articles/26/02/19/no-iphone-18-wont-have-mac-like-magsafe-charging?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside the Rolling Layoffs at Jack Dorsey’s Block](https://www.wired.com/story/inside-rolling-layoffs-jack-dorsey-block/)
+ - [Upgrade Your Computer Speakers With These Discounted Edifier M60s](https://www.wired.com/story/edifier-m60-deal-226/)
  - [Toronto-based chip startup Taalas, which hardwires AI models into custom silicon to achieve faster inference, raised $169M, bringing its total funding to $219M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/260219/p36#a260219p36)
  - [After Search Party backlash, Ring is still avoiding the bigger questions](https://www.theverge.com/news/881339/after-search-party-backlash-ring-is-still-avoiding-the-bigger-questions)
- - [Inexpensive MacBook is the perfect way to get users deeper into the Apple ecosystem](https://appleinsider.com/articles/26/02/19/inexpensive-macbook-is-the-perfect-way-to-get-users-deeper-into-the-apple-ecosystem?utm_source=rss)
- - [Code Metal Raises $125 Million to Rewrite the Defense Industry&#39;s Code With AI](https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/)
- - [Woody and Buzz Join Forces to Take On a Tablet in New &#39;Toy Story 5&#39; Trailer](https://www.cnet.com/tech/services-and-software/new-toy-story-5-trailer/)<!-- TECH:END -->
+ - [Inexpensive MacBook is the perfect way to get users deeper into the Apple ecosystem](https://appleinsider.com/articles/26/02/19/inexpensive-macbook-is-the-perfect-way-to-get-users-deeper-into-the-apple-ecosystem?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

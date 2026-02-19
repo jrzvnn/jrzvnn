@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would steal it](http://9gag.com/gag/aW45xE3)
+ - 😝 [Baby Seal](http://9gag.com/gag/azxwmBB)
  - 😝 [This is next level parenting](http://9gag.com/gag/amow5y4)
  - 💣 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)
- - 😝 [Just some work](http://9gag.com/gag/an7w48E)
- - 👉 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)<!-- MEMES:END -->
+ - 😝 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
+ - 👉 [When you finally meet someone that matches your energy](http://9gag.com/gag/aND50gr)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The RAM crunch could kill products and even entire companies, memory exec admits](https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview)
+ - [The UK proposes new rules requiring tech firms to remove nonconsensual abusive content within 48 hours or risk blocking and fines of up to 10% of global revenue &lpar;The Guardian&rpar;](http://www.techmeme.com/260218/p60#a260218p60)
+ - [Crypto lending firm Ledn sold $188M in securitized bonds backed by bitcoin loans, making it the first deal of its kind in the market for asset-backed debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p59#a260218p59)
  - [Cadence shares closed up 7.6% on Wednesday after the chip design company reported Q4 revenue up ~6% to $1.44B and adjusted EPS of $1.99, both above estimates &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260218/p58#a260218p58)
- - [Sources: the US State Department is developing an online portal at &quot;freedom.gov&quot; to let users in Europe and elsewhere view content banned by their governments &lpar;Reuters&rpar;](http://www.techmeme.com/260218/p57#a260218p57)
- - [Dyson&#39;s Slimmest Cordless Vacuum Now Has a Swiffer-Like Cousin. I Tried It](https://www.cnet.com/home/kitchen-and-household/dysons-pencilwash-wet-vacuum/)
- - [Dyson turned its skinny PencilVac into a lightweight wet floor cleaner](https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle)
- - [Uber Has Big Plans for Lots More Robotaxis and EV Charging Stations](https://www.cnet.com/roadshow/news/uber-robotaxi-autonomous-vehicle-ev-charging-stations/)<!-- TECH:END -->
+ - [Meta Could Release a Smartwatch This Year: This Is Why It Makes Sense](https://www.cnet.com/tech/mobile/meta-could-release-a-smartwatch-this-year-this-is-why-it-makes-sense/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

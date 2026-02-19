@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [West Virginia sues Apple for allegedly letting child abuse spread in iCloud](https://www.theverge.com/tech/881433/apple-west-virginia-lawsuit-icloud-csam)
- - [DHS Opens a Billion-Dollar Tab With Palantir](https://www.wired.com/story/department-homeland-security-ice-billion-dollar-agreement-palantir/)
+ - [How to get into classic arcade gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)
+ - [Cleveland-based Eagle Wireless, which makes cellular modules used in IoT devices, raised a $30M Series B as the US seeks to reduce its reliance on China &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260219/p33#a260219p33)
  - [Full internet by satellite could come via an Apple-designed iPhone or iPad case](https://appleinsider.com/articles/26/02/19/full-internet-by-satellite-could-come-via-an-iphone-or-ipad-case?utm_source=rss)
- - [Inside the &quot;gay tech mafia&quot; that mixes social and professional lives, as investors, entrepreneurs, and executives detail gay influence in Silicon Valley &lpar;Zoë Bernard/Wired&rpar;](http://www.techmeme.com/260219/p31#a260219p31)
- - [New York drops plan to legalize robotaxis in setback for Waymo](https://www.theverge.com/transportation/881354/new-york-drops-plan-to-legalize-robotaxis-waymo)<!-- TECH:END -->
+ - [Apple TV’s The Hunt finally has a premiere date](https://www.theverge.com/tech/881386/apple-tv-the-hunt-premiere-date)
+ - [Plagiarism probe ends, Apple TV thriller &#39;The Hunt&#39; debuts soon](https://appleinsider.com/articles/26/02/19/plagiarism-probe-ends-apple-tv-thriller-the-hunt-debuts-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

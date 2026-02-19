@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parking like a wanker](http://9gag.com/gag/aAy5ebL)
- - 😝 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 💣 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 😝 [Tell that to the library of Alexandria](http://9gag.com/gag/aAy5br2)
- - 👉 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)<!-- MEMES:END -->
+ - 😝 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)
+ - 😝 [This is next level parenting](http://9gag.com/gag/amow5y4)
+ - 💣 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
+ - 😝 [Baby Seal](http://9gag.com/gag/azxwmBB)
+ - 👉 [When you finally meet someone that matches your energy](http://9gag.com/gag/aND50gr)<!-- MEMES:END -->
 
 ---
 

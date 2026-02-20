@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: SoftBank plans to form a consortium to build a $33B power plant in Ohio, set to produce 9.2 GW for AI data centers, as part of the US-Japan trade deal &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260220/p4#a260220p4)
  - [The Best Mushroom Gummies on the Market, Lab-Approved &lpar;2026&rpar;](https://www.wired.com/gallery/best-mushroom-gummies/)
  - [Meet Scotland’s Whisky-Sniffing Robot Dog](https://www.wired.com/story/meet-scotlands-whisky-sniffing-robot-dog/)
- - [The Search Engine for OnlyFans Models Who Look Like Your Crush](https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/)
- - [Will Stancil, man of the people or just an annoying guy?](https://www.theverge.com/policy/881024/will-stancil-minneapolis-ice-commuting-profile)<!-- TECH:END -->
+ - [All the Mind-Blowing Home and Kitchen Tech We Saw at KBIS 2026](https://www.cnet.com/news/the-best-of-kbis-2026/)
+ - [PlayStation 6 Rumors: Potential 2029 Release, Specs, Pricing and More](https://www.cnet.com/tech/gaming/playstation-6-rumors-potential-2028-release-specs-pricing-and-more/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

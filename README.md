@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SoftBank plans to form a consortium to build a $33B power plant in Ohio, set to produce 9.2 GW for AI data centers, as part of the US-Japan trade deal &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260220/p4#a260220p4)
+ - [The Best Mushroom Gummies on the Market, Lab-Approved &lpar;2026&rpar;](https://www.wired.com/gallery/best-mushroom-gummies/)
+ - [Meet Scotland’s Whisky-Sniffing Robot Dog](https://www.wired.com/story/meet-scotlands-whisky-sniffing-robot-dog/)
  - [The Search Engine for OnlyFans Models Who Look Like Your Crush](https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/)
- - [Will Stancil, man of the people or just an annoying guy?](https://www.theverge.com/policy/881024/will-stancil-minneapolis-ice-commuting-profile)
- - [General Catalyst plans to invest $5B in India over five years, an increase from the $500M to $1B previously announced, after merging with a local VC in 2024 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p3#a260220p3)
- - [Gmail Is Killing POP and Gmailify Access. Here&#39;s What It Means for You](https://www.wired.com/story/gmail-killing-pop-and-gmailify-access-what-it-means-for-you/)
- - [The War Over Prediction Markets Is Just Getting Started](https://www.wired.com/story/the-political-war-over-prediction-markets-is-just-getting-started/)<!-- TECH:END -->
+ - [Will Stancil, man of the people or just an annoying guy?](https://www.theverge.com/policy/881024/will-stancil-minneapolis-ice-commuting-profile)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

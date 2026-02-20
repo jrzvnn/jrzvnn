@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi](https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood)
- - [Tech stocks rise slightly from their morning lows after the Supreme Court ruled that President Trump lacked the authority to impose sweeping global tariffs &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/260220/p12#a260220p12)
- - [Peak XV, which split from Sequoia in 2023, raised $1.3B across new India- and Asia-focused funds, bringing its total assets under management to over $10B &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p11#a260220p11)
- - [Smart glasses in court are a privacy nightmare](https://www.theverge.com/tech/882030/smart-glasses-in-court-meta-mark-zuckerberg)
- - [AI Safety Meets the War Machine](https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/)<!-- TECH:END -->
+ - [Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans](https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/)
+ - [A US judge rejects Tesla&#39;s bid to overturn a $243M jury verdict over a fatal 2019 Autopilot crash, a blow for Tesla as it faces a growing wave of lawsuits &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/260220/p14#a260220p14)
+ - [The Best Chairs and Desks from Branch Are on Sale &lpar;We’ve Tested Them All&rpar;](https://www.wired.com/story/branch-deals-february-2026/)
+ - [Trump Mobile is just Liberty Mobile in gold foil](https://www.theverge.com/tech/882064/trump-mobile-liberty-mobile-wireless-mvno)
+ - [Sources: Google may invest $100M in Fluidstack at a $7.5B valuation and has backstopped crypto miners that are building datacenters, seeking to expand TPU use &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260220/p13#a260220p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

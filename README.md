@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC calls on broadcasters to air ‘pro-America content’ for the country’s 250th anniversary](https://www.theverge.com/policy/882250/fcc-brendan-carr-pro-america-content-250-anniversary)
- - [Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans](https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/)
- - [A US judge rejects Tesla&#39;s bid to overturn a $243M jury verdict over a fatal 2019 Autopilot crash, a blow for Tesla as it faces a growing wave of lawsuits &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/260220/p14#a260220p14)
- - [Prime Video: The 31 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video/)
- - [The Best Chairs and Desks From Branch Are On Sale &lpar;We&#39;ve Tested Them All&rpar;](https://www.wired.com/story/branch-deals-february-2026/)<!-- TECH:END -->
+ - [Trump fights back, replaces struck-down reciprocal tariffs with 10% global import tax](https://appleinsider.com/articles/26/02/20/trump-fights-back-replaces-struck-down-reciprocal-tariffs-with-10-global-import-tax?utm_source=rss)
+ - [You can save $30 on Sony’s DualSense Edge controller by buying refurbished](https://www.theverge.com/gadgets/815676/sony-playstation-dualsense-edge-controller-refurbished-deal-sale)
+ - [America is at risk of becoming an automotive backwater](https://www.theverge.com/transportation/882194/america-auto-backwater-ev-loss-detroit-trump-emissions)
+ - [The CDC Has a Leadership Crisis](https://www.wired.com/story/the-cdc-has-a-leadership-crisis/)
+ - [Code Metal, which uses AI to let engineers translate legacy code into modern languages, raised a $125M Series B led by Salesforce Ventures at a $1.25B valuation &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/260220/p15#a260220p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn ninjas cutting onions](http://9gag.com/gag/adBwgyV)
- - 😝 [Lol](http://9gag.com/gag/a34r1Wv)
- - 💣 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
- - 😝 [That look is universally understood](http://9gag.com/gag/aBy5nZD)
- - 👉 [Find a wife like her](http://9gag.com/gag/arywMB0)<!-- MEMES:END -->
+ - 😝 [Story of punchi](http://9gag.com/gag/a1mj1D8)
+ - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 💣 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - 😝 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
+ - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 ---
 

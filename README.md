@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon blames human employees for an AI coding agent&amp;#8217;s mistake](https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake)
+ - [OpenAI&amp;#8217;s first ChatGPT gadget could be a smart speaker with a camera](https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp)
+ - [Piggyback’s fantastic Metroid Prime art book is nearly 30 percent off](https://www.theverge.com/gadgets/821108/metroid-prime-1-3-a-visual-retrospective-art-book-deal-sale)
  - [Trump&#39;s &#39;reciprocal&#39; tariffs that cost Apple $2 billion shot down by Supreme Court](https://appleinsider.com/articles/26/02/20/trumps-reciprocal-tariffs-that-cost-apple-2-billion-shot-down-by-supreme-court?utm_source=rss)
- - [Sources: OpenAI has 200+ people working on a family of AI devices, including a smart speaker priced from $200 to $300, possibly smart glasses and a smart lamp &lpar;The Information&rpar;](http://www.techmeme.com/260220/p9#a260220p9)
- - [Avantos, which makes an AI-native client management system for financial institutions, raised a $25M Series A led by Bessemer, taking its total funding to $35M &lpar;Minh Le/Tech in Asia&rpar;](http://www.techmeme.com/260220/p8#a260220p8)
- - [Samsung’s Galaxy Z TriFold restock sold out in minutes](https://www.theverge.com/gadgets/881946/samsung-galaxy-z-trifold-restock-buy)
- - [Tamron’s new dongle lets you wirelessly control your lens from your phone](https://www.theverge.com/tech/881943/tamron-link-usb-dongle-bluetooth-adapter-camera-lens-remote)<!-- TECH:END -->
+ - [Supreme Court Rules Most of Donald Trump’s Tariffs Are Illegal](https://www.wired.com/story/supreme-court-trump-tariffs-ruling/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

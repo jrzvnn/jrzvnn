@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Search Engine for OnlyFans Models Who Look Like Your Crush](https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/)
+ - [Will Stancil, man of the people or just an annoying guy?](https://www.theverge.com/policy/881024/will-stancil-minneapolis-ice-commuting-profile)
  - [General Catalyst plans to invest $5B in India over five years, an increase from the $500M to $1B previously announced, after merging with a local VC in 2024 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p3#a260220p3)
- - [Best Coffee Grinders For Espresso and Drip, Machine-Tested &lpar;2026&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)
- - [Leading US Research Lab Appears to Be Squeezing Out Foreign Scientists](https://www.wired.com/story/leading-us-research-lab-appears-to-be-squeezing-out-foreign-scientists/)
- - [The Olympics and Politics Are More Intertwined Than Ever. Maybe That’s a Good Thing](https://www.wired.com/story/the-olympics-and-politics-are-more-intertwined-than-ever/)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Feb. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-feb-20/)<!-- TECH:END -->
+ - [Gmail Is Killing POP and Gmailify Access. Here&#39;s What It Means for You](https://www.wired.com/story/gmail-killing-pop-and-gmailify-access-what-it-means-for-you/)
+ - [The War Over Prediction Markets Is Just Getting Started](https://www.wired.com/story/the-political-war-over-prediction-markets-is-just-getting-started/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

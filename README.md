@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India joins Pax Silica, a US-led initiative that aims to build secure supply chains for semiconductors, advanced manufacturing, and critical technologies &lpar;Rajesh Roy/Associated Press&rpar;](http://www.techmeme.com/260220/p22#a260220p22)
  - [Source: OpenAI is projecting that its revenue will exceed $280B in 2030; last month, OpenAI said its annualized revenue grew to $20B+ in 2025 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260220/p21#a260220p21)
  - [Sources: OpenAI is telling investors it&#39;s targeting ~$600B in total compute spend by 2030, months after Sam Altman touted $1.4T in infrastructure commitments &lpar;CNBC&rpar;](http://www.techmeme.com/260220/p20#a260220p20)
  - [Wisconsin Reverses Decision to Ban VPNs in Age-Verification Bill](https://www.cnet.com/tech/services-and-software/wisconsin-reverses-decision-to-ban-vpns-in-age-verification-bill/)
- - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Trump&#39;s &#39;reciprocal&#39; tariffs that cost Apple billions shot down by Supreme Court](https://appleinsider.com/articles/26/02/20/trumps-reciprocal-tariffs-that-cost-apple-2-billion-shot-down-by-supreme-court?utm_source=rss)<!-- TECH:END -->
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

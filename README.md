@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC calls on broadcasters to air ‘pro-America content’ for the country’s 250th anniversary](https://www.theverge.com/policy/882250/fcc-brendan-carr-pro-america-content-250-anniversary)
  - [Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans](https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/)
  - [A US judge rejects Tesla&#39;s bid to overturn a $243M jury verdict over a fatal 2019 Autopilot crash, a blow for Tesla as it faces a growing wave of lawsuits &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/260220/p14#a260220p14)
- - [The Best Chairs and Desks from Branch Are on Sale &lpar;We’ve Tested Them All&rpar;](https://www.wired.com/story/branch-deals-february-2026/)
- - [Trump Mobile is just Liberty Mobile in gold foil](https://www.theverge.com/tech/882064/trump-mobile-liberty-mobile-wireless-mvno)
- - [Sources: Google may invest $100M in Fluidstack at a $7.5B valuation and has backstopped crypto miners that are building datacenters, seeking to expand TPU use &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260220/p13#a260220p13)<!-- TECH:END -->
+ - [Prime Video: The 31 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video/)
+ - [The Best Chairs and Desks From Branch Are On Sale &lpar;We&#39;ve Tested Them All&rpar;](https://www.wired.com/story/branch-deals-february-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

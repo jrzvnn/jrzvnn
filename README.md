@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop](https://www.wired.com/review/epilogue-gb-operator/)
- - [Meta will ruin its smart glasses by being Meta](https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables)
- - [Apple has its problems, but still the only real choice for privacy](https://appleinsider.com/articles/26/02/20/apple-has-its-problems-but-still-the-only-real-choice-for-privacy?utm_source=rss)
- - [Tesla&amp;#8217;s cheaper $60,000 Cybertruck is still a Cybertruck](https://www.theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut)
- - [Two new Apple Studio Displays could gatecrash March MacBook announcements](https://appleinsider.com/articles/26/02/20/two-new-apple-studio-displays-could-gatecrash-march-macbook-announcements?utm_source=rss)<!-- TECH:END -->
+ - [Nintendo turned its biggest flop into an expensive, uncomfortable novelty](https://www.theverge.com/games/881677/nintendo-switch-virtual-boy-review)
+ - [Your Coffee Grinder Is as Important as Your Brewer—Here Are the 5 Best We’ve Tested](https://www.wired.com/gallery/best-coffee-grinders/)
+ - [Scott Myers, the head of Snap&#39;s AR glasses subsidiary Specs, leaves after six years; sources say Myers left after a &quot;blow-up&quot; with Evan Spiegel over strategy &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260220/p5#a260220p5)
+ - [Virtual Boy Review: Nintendo&#39;s Oddest Switch Accessory Yet Is an Immersive &#39;90s Museum](https://www.cnet.com/tech/gaming/nintendo-virtual-boy-switch-accessory-review/)
+ - [Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop](https://www.wired.com/review/epilogue-gb-operator/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

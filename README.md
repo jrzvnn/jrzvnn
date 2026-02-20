@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Story of punchi](http://9gag.com/gag/a1mj1D8)
+ - 😝 [If you don&#39;t like it. You might have PDS](http://9gag.com/gag/aQz5X3q)
+ - 💣 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
  - 😝 [Just another day in the UK.](http://9gag.com/gag/avywAMO)
- - 😝 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
- - 💣 [Story of punchi](http://9gag.com/gag/a1mj1D8)
- - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 👉 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)<!-- MEMES:END -->
+ - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [They Bet Against Trump&#39;s Tariffs. Now They Stand to Make Millions](https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/)
+ - [Microsoft says today’s Xbox shake-up doesn’t mean game studio layoffs](https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs)
  - [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out)
  - [Our Reviewers’ Top TV Pick for Gamers Is at Its Lowest Price in Months](https://www.wired.com/story/samsung-s90f-deal-226/)
- - [Memo: Xbox President Sarah Bond, long thought to be Phil Spencer&#39;s heir, is leaving; Xbox Game Studios head Matt Booty is promoted to Chief Content Officer &lpar;Ryan McCaffrey/IGN&rpar;](http://www.techmeme.com/260220/p18#a260220p18)
- - [SCOTUS rules Trump’s tariffs are illegal — but the fight is far from over](https://www.theverge.com/policy/882227/scotus-trump-tariffs-ruling-imports-small-businesses-refunds)
- - [Memo: Phil Spencer will retire after 38 years at Microsoft; Asha Sharma, the president of product in Microsoft&#39;s Core AI business, will become the CEO of gaming &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260220/p17#a260220p17)<!-- TECH:END -->
+ - [Xbox President Sarah Bond, long thought to be Phil Spencer&#39;s heir, is leaving; Xbox Game Studios head Matt Booty is promoted to Chief Content Officer &lpar;Ryan McCaffrey/IGN&rpar;](http://www.techmeme.com/260220/p18#a260220p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

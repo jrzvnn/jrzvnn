@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon blames human employees for an AI coding agent&amp;#8217;s mistake](https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake)
- - [OpenAI&amp;#8217;s first ChatGPT gadget could be a smart speaker with a camera](https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp)
- - [Piggyback’s fantastic Metroid Prime art book is nearly 30 percent off](https://www.theverge.com/gadgets/821108/metroid-prime-1-3-a-visual-retrospective-art-book-deal-sale)
- - [Trump&#39;s &#39;reciprocal&#39; tariffs that cost Apple $2 billion shot down by Supreme Court](https://appleinsider.com/articles/26/02/20/trumps-reciprocal-tariffs-that-cost-apple-2-billion-shot-down-by-supreme-court?utm_source=rss)
- - [Supreme Court Rules Most of Donald Trump’s Tariffs Are Illegal](https://www.wired.com/story/supreme-court-trump-tariffs-ruling/)<!-- TECH:END -->
+ - [Tech stocks rise slightly from their morning lows after the Supreme Court ruled that President Trump lacked the authority to impose sweeping global tariffs &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/260220/p12#a260220p12)
+ - [Peak XV, which split from Sequoia in 2023, raised $1.3B across new India- and Asia-focused funds, bringing its total assets under management to over $10B &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p11#a260220p11)
+ - [Smart glasses in court are a privacy nightmare](https://www.theverge.com/tech/882030/smart-glasses-in-court-meta-mark-zuckerberg)
+ - [AI Safety Meets the War Machine](https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/)
+ - [Amazon blames human employees for an AI coding agent&amp;#8217;s mistake](https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

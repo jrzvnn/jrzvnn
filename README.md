@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi](https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood)
  - [Tech stocks rise slightly from their morning lows after the Supreme Court ruled that President Trump lacked the authority to impose sweeping global tariffs &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/260220/p12#a260220p12)
  - [Peak XV, which split from Sequoia in 2023, raised $1.3B across new India- and Asia-focused funds, bringing its total assets under management to over $10B &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p11#a260220p11)
  - [Smart glasses in court are a privacy nightmare](https://www.theverge.com/tech/882030/smart-glasses-in-court-meta-mark-zuckerberg)
- - [AI Safety Meets the War Machine](https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/)
- - [Amazon blames human employees for an AI coding agent&amp;#8217;s mistake](https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake)<!-- TECH:END -->
+ - [AI Safety Meets the War Machine](https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

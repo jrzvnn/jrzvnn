@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
  - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
- - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 💣 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 😝 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
- - 👉 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)<!-- MEMES:END -->
+ - 💣 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
+ - 😝 [Training for what?](http://9gag.com/gag/aE05qxp)
+ - 👉 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Story of punchi](http://9gag.com/gag/a1mj1D8)
  - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - 😝 [Story of punchi](http://9gag.com/gag/a1mj1D8)
  - 💣 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
- - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 👉 [And that my friends is what hotels are for](http://9gag.com/gag/aAy5epZ)<!-- MEMES:END -->
+ - 😝 [Brain shrink](http://9gag.com/gag/aqywe4Z)
+ - 👉 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)<!-- MEMES:END -->
 
 ---
 

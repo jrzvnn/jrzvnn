@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
  - 😝 [Story of punchi](http://9gag.com/gag/a1mj1D8)
- - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 💣 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 😝 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
- - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
+ - 💣 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
+ - 👉 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)<!-- MEMES:END -->
 
 ---
 

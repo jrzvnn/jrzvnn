@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tamron’s new dongle lets you wirelessly control your lens from your phone](https://www.theverge.com/tech/881943/tamron-link-usb-dongle-bluetooth-adapter-camera-lens-remote)
- - [Samsung’s Galaxy Z TriFold is back in stock](https://www.theverge.com/gadgets/881946/samsung-galaxy-z-trifold-restock-buy)
- - [OpenAI says users aged 18-24 account for ~50% and under-30s represent 80% of ChatGPT usage in India; Indians use ChatGPT mostly for work &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260220/p7#a260220p7)
- - [I review laptops for The Verge, ask me anything](https://www.theverge.com/column/881567/i-review-laptops-for-the-verge-ask-me-anything)
- - [The wellness wild west’s latest skincare fad is salmon sperm](https://www.theverge.com/column/881906/optimizer-wellness-wild-west-pdrn-salmon-sperm-skincare-rejuran)<!-- TECH:END -->
+ - [Trump&#39;s &#39;reciprocal&#39; tariffs that cost Apple $2 billion shot down by Supreme Court](https://appleinsider.com/articles/26/02/20/trumps-reciprocal-tariffs-that-cost-apple-2-billion-shot-down-by-supreme-court?utm_source=rss)
+ - [Sources: OpenAI has 200+ people working on a family of AI devices, including a smart speaker priced from $200 to $300, possibly smart glasses and a smart lamp &lpar;The Information&rpar;](http://www.techmeme.com/260220/p9#a260220p9)
+ - [Avantos, which makes an AI-native client management system for financial institutions, raised a $25M Series A led by Bessemer, taking its total funding to $35M &lpar;Minh Le/Tech in Asia&rpar;](http://www.techmeme.com/260220/p8#a260220p8)
+ - [Samsung’s Galaxy Z TriFold restock sold out in minutes](https://www.theverge.com/gadgets/881946/samsung-galaxy-z-trifold-restock-buy)
+ - [Tamron’s new dongle lets you wirelessly control your lens from your phone](https://www.theverge.com/tech/881943/tamron-link-usb-dongle-bluetooth-adapter-camera-lens-remote)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

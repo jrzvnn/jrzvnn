@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is telling investors it&#39;s targeting ~$600B in total compute spend by 2030, months after Sam Altman touted $1.4T in infrastructure commitments &lpar;CNBC&rpar;](http://www.techmeme.com/260220/p20#a260220p20)
  - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [Trump&#39;s &#39;reciprocal&#39; tariffs that cost Apple billions shot down by Supreme Court](https://appleinsider.com/articles/26/02/20/trumps-reciprocal-tariffs-that-cost-apple-2-billion-shot-down-by-supreme-court?utm_source=rss)
  - [Government Docs Reveal New Details About Tesla and Waymo Robotaxis’ Human Babysitters](https://www.wired.com/story/government-docs-reveal-new-details-about-tesla-and-waymo-robotaxi-programs/)
- - [Sources: OpenAI staff raised concerns about a Canadian mass shooting suspect months ago; OpenAI says her activity didn&#39;t meet the bar for reporting to police &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/260220/p19#a260220p19)
- - [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out)<!-- TECH:END -->
+ - [Sources: OpenAI staff raised concerns about a Canadian mass shooting suspect months ago; OpenAI says her activity didn&#39;t meet the bar for reporting to police &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/260220/p19#a260220p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

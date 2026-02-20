@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
+ - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - 💣 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
  - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
- - 😝 [Just another day in the UK.](http://9gag.com/gag/avywAMO)
- - 💣 [Training for what?](http://9gag.com/gag/aE05qxp)
- - 😝 [Why don&#39;t you give up? Cause he never did.](http://9gag.com/gag/ajPwVqq)
- - 👉 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)<!-- MEMES:END -->
+ - 👉 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)<!-- MEMES:END -->
 
 ---
 

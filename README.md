@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump fights back, replaces struck-down reciprocal tariffs with 10% global import tax](https://appleinsider.com/articles/26/02/20/trump-fights-back-replaces-struck-down-reciprocal-tariffs-with-10-global-import-tax?utm_source=rss)
- - [You can save $30 on Sony’s DualSense Edge controller by buying refurbished](https://www.theverge.com/gadgets/815676/sony-playstation-dualsense-edge-controller-refurbished-deal-sale)
- - [America is at risk of becoming an automotive backwater](https://www.theverge.com/transportation/882194/america-auto-backwater-ev-loss-detroit-trump-emissions)
- - [The CDC Has a Leadership Crisis](https://www.wired.com/story/the-cdc-has-a-leadership-crisis/)
- - [Code Metal, which uses AI to let engineers translate legacy code into modern languages, raised a $125M Series B led by Salesforce Ventures at a $1.25B valuation &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/260220/p15#a260220p15)<!-- TECH:END -->
+ - [Read Microsoft gaming CEO Asha Sharma&amp;#8217;s first memo on the future of Xbox](https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo)
+ - [Read Xbox chief Phil Spencer’s memo about leaving Microsoft](https://www.theverge.com/news/882340/xbox-phil-spencer-microsoft-retirement-memo)
+ - [Xbox chief Phil Spencer is leaving Microsoft](https://www.theverge.com/news/882241/microsoft-phil-spencer-xbox-leaving-retirement)
+ - [Sarah Bond is leaving Xbox](https://www.theverge.com/games/882281/xbox-sarah-bond-leaving-microsoft)
+ - [Trump is making coal plants even dirtier as AI demands more energy](https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

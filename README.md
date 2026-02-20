@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s AI safety team proposed technical standards for detecting AI-generated content, but its CSO declined to commit to using them across its platforms &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260219/p51#a260219p51)
+ - [How some political candidates and activists across ideologies and professions are pushing back on the spread of data centers and AI in the US &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/260219/p50#a260219p50)
+ - [Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe](https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/)
  - [Uber&#39;s market cap fell to ~$150B, down ~25% in six months, as investors weigh robotaxi disruption, perceiving it as a two-horse race between Waymo and Tesla &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260219/p49#a260219p49)
- - [Brazil banks want &#39;free ride&#39; access to iPhone NFC payments, says Apple](https://appleinsider.com/articles/26/02/20/brazil-banks-want-free-ride-access-to-iphone-nfc-payments-says-apple?utm_source=rss)
- - [A US grand jury indicted three people, including two former Google engineers, for allegedly stealing trade secrets relating to Pixel&#39;s Tensor processor &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/260219/p48#a260219p48)
- - [Tech companies are increasingly building private power plants to fuel off-grid data centers, a move experts warn face reliability challenges and climate risks &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/260219/p47#a260219p47)
- - [Perplexity&#39;s retreat from ads signals a strategic shift as it recognizes its product is not for a mass audience and expects growth to come from enterprise sales &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260219/p46#a260219p46)<!-- TECH:END -->
+ - [Brazil banks want &#39;free ride&#39; access to iPhone NFC payments, says Apple](https://appleinsider.com/articles/26/02/20/brazil-banks-want-free-ride-access-to-iphone-nfc-payments-says-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

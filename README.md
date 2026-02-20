@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo’s next big Pokémon presentation is on February 27th](https://www.theverge.com/games/881332/nintendo-pokemon-presents-pokemon-day)
+ - [Pepper, which provides a digital storefront for independent food distributors, raised a $50M Series C led by Lead Edge, bringing its total funding to $100M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260220/p6#a260220p6)
+ - [Apple&#39;s new MacBook colors nearly debuted in 2022 MacBook Air](https://appleinsider.com/articles/26/02/20/apples-new-macbook-colors-nearly-debuted-in-2022-macbook-air?utm_source=rss)
  - [Nintendo turned its biggest flop into an expensive, uncomfortable novelty](https://www.theverge.com/games/881677/nintendo-switch-virtual-boy-review)
- - [Your Coffee Grinder Is as Important as Your Brewer—Here Are the 5 Best We’ve Tested](https://www.wired.com/gallery/best-coffee-grinders/)
- - [Scott Myers, the head of Snap&#39;s AR glasses subsidiary Specs, leaves after six years; sources say Myers left after a &quot;blow-up&quot; with Evan Spiegel over strategy &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260220/p5#a260220p5)
- - [Virtual Boy Review: Nintendo&#39;s Oddest Switch Accessory Yet Is an Immersive &#39;90s Museum](https://www.cnet.com/tech/gaming/nintendo-virtual-boy-switch-accessory-review/)
- - [Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop](https://www.wired.com/review/epilogue-gb-operator/)<!-- TECH:END -->
+ - [Your Coffee Grinder Is as Important as Your Brewer—Here Are the 5 Best We’ve Tested](https://www.wired.com/gallery/best-coffee-grinders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 😝 [Story of punchi](http://9gag.com/gag/a1mj1D8)
+ - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - 💣 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
  - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 💣 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
- - 😝 [I\u2019ve been gone for 2 and half years. Is this still the law of the land?](http://9gag.com/gag/aZZ5r60)
- - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
+ - 👉 [And that my friends is what hotels are for](http://9gag.com/gag/aAy5epZ)<!-- MEMES:END -->
 
 ---
 

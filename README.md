@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Story of punchi](http://9gag.com/gag/a1mj1D8)
- - 😝 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
+ - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
  - 💣 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
  - 😝 [In TV they say the country name as `Tche-Tchya`. I heard is watchin Canada - Czechia hockey game](http://9gag.com/gag/a4Pyo3m)
  - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->

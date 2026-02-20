@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 💣 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
- - 😝 [In TV they say the country name as `Tche-Tchya`. I heard is watchin Canada - Czechia hockey game](http://9gag.com/gag/a4Pyo3m)
- - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
+ - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
+ - 😝 [Just another day in the UK.](http://9gag.com/gag/avywAMO)
+ - 💣 [Training for what?](http://9gag.com/gag/aE05qxp)
+ - 😝 [Why don&#39;t you give up? Cause he never did.](http://9gag.com/gag/ajPwVqq)
+ - 👉 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)<!-- MEMES:END -->
 
 ---
 

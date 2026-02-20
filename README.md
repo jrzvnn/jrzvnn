@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Andrew formerly known as Prince.](http://9gag.com/gag/aPA232q)
- - 😝 [Old but gold](http://9gag.com/gag/aPA2Z6n)
- - 💣 [Damn ninjas cutting onions](http://9gag.com/gag/adBwgyV)
- - 😝 [I\u2019ve been gone for 2 and half years. Is this still the law of the land?](http://9gag.com/gag/aZZ5r60)
- - 👉 [What a strange culture](http://9gag.com/gag/aBy52eN)<!-- MEMES:END -->
+ - 😝 [Eugene Stoner, the designer of the M-16, tried the AK-47; Mikhail Kalashnikov, the designer of the AK-47, also tried the M-16.](http://9gag.com/gag/aGy5zL5)
+ - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 💣 [Justice for punchi](http://9gag.com/gag/a34r1A5)
+ - 😝 [Cucumber-carrot](http://9gag.com/gag/aPA2ZRR)
+ - 👉 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)<!-- MEMES:END -->
 
 ---
 

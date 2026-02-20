@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
- - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 💣 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
+ - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 😝 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
+ - 💣 [Old but gold](http://9gag.com/gag/aPA2Z6n)
+ - 😝 [The Andrew formerly known as Prince.](http://9gag.com/gag/aPA232q)
+ - 👉 [Damn ninjas cutting onions](http://9gag.com/gag/adBwgyV)<!-- MEMES:END -->
 
 ---
 

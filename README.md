@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eugene Stoner, the designer of the M-16, tried the AK-47; Mikhail Kalashnikov, the designer of the AK-47, also tried the M-16.](http://9gag.com/gag/aGy5zL5)
- - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 💣 [Justice for punchi](http://9gag.com/gag/a34r1A5)
- - 😝 [Cucumber-carrot](http://9gag.com/gag/aPA2ZRR)
- - 👉 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)<!-- MEMES:END -->
+ - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - 💣 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
+ - 👉 [Justice for punchi](http://9gag.com/gag/a34r1A5)<!-- MEMES:END -->
 
 ---
 

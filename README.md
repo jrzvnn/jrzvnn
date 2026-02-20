@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
  - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
- - 💣 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
- - 😝 [Training for what?](http://9gag.com/gag/aE05qxp)
- - 👉 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)<!-- MEMES:END -->
+ - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 💣 [Story of punchi](http://9gag.com/gag/a1mj1D8)
+ - 😝 [Why don&#39;t you give up? Cause he never did.](http://9gag.com/gag/ajPwVqq)
+ - 👉 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)<!-- MEMES:END -->
 
 ---
 

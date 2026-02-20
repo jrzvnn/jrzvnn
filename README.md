@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Read Microsoft gaming CEO Asha Sharma&amp;#8217;s first memo on the future of Xbox](https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo)
- - [Read Xbox chief Phil Spencer’s memo about leaving Microsoft](https://www.theverge.com/news/882340/xbox-phil-spencer-microsoft-retirement-memo)
- - [Xbox chief Phil Spencer is leaving Microsoft](https://www.theverge.com/news/882241/microsoft-phil-spencer-xbox-leaving-retirement)
- - [Sarah Bond is leaving Xbox](https://www.theverge.com/games/882281/xbox-sarah-bond-leaving-microsoft)
- - [Trump is making coal plants even dirtier as AI demands more energy](https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats)<!-- TECH:END -->
+ - [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out)
+ - [Our Reviewers’ Top TV Pick for Gamers Is at Its Lowest Price in Months](https://www.wired.com/story/samsung-s90f-deal-226/)
+ - [Memo: Xbox President Sarah Bond, long thought to be Phil Spencer&#39;s heir, is leaving; Xbox Game Studios head Matt Booty is promoted to Chief Content Officer &lpar;Ryan McCaffrey/IGN&rpar;](http://www.techmeme.com/260220/p18#a260220p18)
+ - [SCOTUS rules Trump’s tariffs are illegal — but the fight is far from over](https://www.theverge.com/policy/882227/scotus-trump-tariffs-ruling-imports-small-businesses-refunds)
+ - [Memo: Phil Spencer will retire after 38 years at Microsoft; Asha Sharma, the president of product in Microsoft&#39;s Core AI business, will become the CEO of gaming &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260220/p17#a260220p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

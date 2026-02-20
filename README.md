@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
- - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 💣 [Story of punchi](http://9gag.com/gag/a1mj1D8)
- - 😝 [Why don&#39;t you give up? Cause he never did.](http://9gag.com/gag/ajPwVqq)
- - 👉 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/a34r1Wv)
+ - 😝 [We need more karma](http://9gag.com/gag/aE058j9)
+ - 💣 [That look is universally understood](http://9gag.com/gag/aBy5nZD)
+ - 😝 [30&#39;s](http://9gag.com/gag/aD25Db7)
+ - 👉 [I&#39;m not christian, but god damn this guy makes good points](http://9gag.com/gag/agmwgK1)<!-- MEMES:END -->
 
 ---
 

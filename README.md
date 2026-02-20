@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [They Bet Against Trump&#39;s Tariffs. Now They Stand to Make Millions](https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/)
- - [Microsoft says today’s Xbox shake-up doesn’t mean game studio layoffs](https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs)
  - [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out)
- - [Our Reviewers’ Top TV Pick for Gamers Is at Its Lowest Price in Months](https://www.wired.com/story/samsung-s90f-deal-226/)
- - [Xbox President Sarah Bond, long thought to be Phil Spencer&#39;s heir, is leaving; Xbox Game Studios head Matt Booty is promoted to Chief Content Officer &lpar;Ryan McCaffrey/IGN&rpar;](http://www.techmeme.com/260220/p18#a260220p18)<!-- TECH:END -->
+ - [They Bet Against Trump’s Tariffs. Now They Stand to Make Millions](https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 21, #986](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-21-986/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 21 #720](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-21-720/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 21, #1708](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-21-1708/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

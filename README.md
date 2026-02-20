@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 😝 [Story of punchi](http://9gag.com/gag/a1mj1D8)
- - 💣 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
- - 😝 [Brain shrink](http://9gag.com/gag/aqywe4Z)
- - 👉 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)<!-- MEMES:END -->
+ - 😝 [Damn ninjas cutting onions](http://9gag.com/gag/adBwgyV)
+ - 😝 [Lol](http://9gag.com/gag/a34r1Wv)
+ - 💣 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
+ - 😝 [That look is universally understood](http://9gag.com/gag/aBy5nZD)
+ - 👉 [Find a wife like her](http://9gag.com/gag/arywMB0)<!-- MEMES:END -->
 
 ---
 

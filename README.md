@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/a34r1Wv)
- - 😝 [We need more karma](http://9gag.com/gag/aE058j9)
- - 💣 [That look is universally understood](http://9gag.com/gag/aBy5nZD)
- - 😝 [30&#39;s](http://9gag.com/gag/aD25Db7)
- - 👉 [I&#39;m not christian, but god damn this guy makes good points](http://9gag.com/gag/agmwgK1)<!-- MEMES:END -->
+ - 😝 [Story of punchi](http://9gag.com/gag/a1mj1D8)
+ - 😝 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
+ - 💣 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
+ - 😝 [In TV they say the country name as `Tche-Tchya`. I heard is watchin Canada - Czechia hockey game](http://9gag.com/gag/a4Pyo3m)
+ - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 ---
 

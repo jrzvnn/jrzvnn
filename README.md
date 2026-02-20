@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s next big Pokémon presentation is on February 27th](https://www.theverge.com/games/881332/nintendo-pokemon-presents-pokemon-day)
- - [Pepper, which provides a digital storefront for independent food distributors, raised a $50M Series C led by Lead Edge, bringing its total funding to $100M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260220/p6#a260220p6)
- - [Apple&#39;s new MacBook colors nearly debuted in 2022 MacBook Air](https://appleinsider.com/articles/26/02/20/apples-new-macbook-colors-nearly-debuted-in-2022-macbook-air?utm_source=rss)
- - [Nintendo turned its biggest flop into an expensive, uncomfortable novelty](https://www.theverge.com/games/881677/nintendo-switch-virtual-boy-review)
- - [Your Coffee Grinder Is as Important as Your Brewer—Here Are the 5 Best We’ve Tested](https://www.wired.com/gallery/best-coffee-grinders/)<!-- TECH:END -->
+ - [Tamron’s new dongle lets you wirelessly control your lens from your phone](https://www.theverge.com/tech/881943/tamron-link-usb-dongle-bluetooth-adapter-camera-lens-remote)
+ - [Samsung’s Galaxy Z TriFold is back in stock](https://www.theverge.com/gadgets/881946/samsung-galaxy-z-trifold-restock-buy)
+ - [OpenAI says users aged 18-24 account for ~50% and under-30s represent 80% of ChatGPT usage in India; Indians use ChatGPT mostly for work &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260220/p7#a260220p7)
+ - [I review laptops for The Verge, ask me anything](https://www.theverge.com/column/881567/i-review-laptops-for-the-verge-ask-me-anything)
+ - [The wellness wild west’s latest skincare fad is salmon sperm](https://www.theverge.com/column/881906/optimizer-wellness-wild-west-pdrn-salmon-sperm-skincare-rejuran)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

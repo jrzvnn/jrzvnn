@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 💣 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
- - 👉 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)<!-- MEMES:END -->
+ - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 💣 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 😝 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
+ - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 ---
 

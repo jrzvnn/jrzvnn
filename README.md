@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Government Docs Reveal New Details About Tesla and Waymo Robotaxis’ Human Babysitters](https://www.wired.com/story/government-docs-reveal-new-details-about-tesla-and-waymo-robotaxi-programs/)
+ - [Sources: OpenAI staff raised concerns about a Canadian mass shooting suspect months ago; OpenAI says her activity didn&#39;t meet the bar for reporting to police &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/260220/p19#a260220p19)
  - [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out)
  - [They Bet Against Trump’s Tariffs. Now They Stand to Make Millions](https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 21, #986](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-21-986/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 21 #720](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-21-720/)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 21, #1708](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-21-1708/)<!-- TECH:END -->
+ - [Microsoft says today’s Xbox shake-up doesn’t mean game studio layoffs](https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

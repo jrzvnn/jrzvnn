@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 😝 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
- - 💣 [Old but gold](http://9gag.com/gag/aPA2Z6n)
- - 😝 [The Andrew formerly known as Prince.](http://9gag.com/gag/aPA232q)
- - 👉 [Damn ninjas cutting onions](http://9gag.com/gag/adBwgyV)<!-- MEMES:END -->
+ - 😝 [Justice for punchi](http://9gag.com/gag/a34r1A5)
+ - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - 💣 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
+ - 😝 [Eugene Stoner, the designer of the M-16, tried the AK-47; Mikhail Kalashnikov, the designer of the AK-47, also tried the M-16.](http://9gag.com/gag/aGy5zL5)
+ - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 ---
 

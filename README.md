@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
  - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 💣 [And that my friends is what hotels are for](http://9gag.com/gag/aAy5epZ)
+ - 💣 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
  - 😝 [I\u2019ve been gone for 2 and half years. Is this still the law of the land?](http://9gag.com/gag/aZZ5r60)
  - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 

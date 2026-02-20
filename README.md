@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cucumber-carrot](http://9gag.com/gag/aPA2ZRR)
- - 😝 [I&#39;m not christian, but god damn this guy makes good points](http://9gag.com/gag/agmwgK1)
- - 💣 [In TV they say the country name as `Tche-Tchya`. I heard is watchin Canada - Czechia hockey game](http://9gag.com/gag/a4Pyo3m)
- - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 👉 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)<!-- MEMES:END -->
+ - 😝 [Just another day in the UK.](http://9gag.com/gag/avywAMO)
+ - 😝 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
+ - 💣 [Story of punchi](http://9gag.com/gag/a1mj1D8)
+ - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 👉 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)<!-- MEMES:END -->
 
 ---
 

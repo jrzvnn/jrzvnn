@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
- - 💣 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)
+ - 😝 [Old meme](http://9gag.com/gag/aND5wR3)
+ - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 💣 [Dick facts](http://9gag.com/gag/aMV5EZX)
  - 😝 [American gun experiment with gardening tools](http://9gag.com/gag/awy2yzD)
- - 👉 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)<!-- MEMES:END -->
+ - 👉 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)<!-- MEMES:END -->
 
 ---
 

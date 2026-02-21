@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces a partnership with Sea to develop AI tools for Sea&#39;s Shopee, Southeast Asia&#39;s most dominant e-commerce platform, and Sea&#39;s gaming unit Garena &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/260221/p1#a260221p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 21, #516](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-21-516/)
  - [President Trump signs an EO to continue the suspension of the de minimis exemption, despite the SCOTUS&#39; ruling that overturned most of Trump&#39;s 2025 tariffs &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260220/p27#a260220p27)
- - [Trump Imposes New Tariffs to Sidestep Supreme Court Ruling](https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/)
- - [&quot;Claws&quot; is becoming a term to describe OpenClaw-like agent systems that usually run on personal hardware and are a new layer on top of LLM agents &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260220/p26#a260220p26)
- - [Bengaluru-based Sarvam, which is building AI models for local languages, launches its Indus chat app in beta, powered by its Sarvam 105B model &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p25#a260220p25)
- - [The US launches the Tech Corps, a program under the Peace Corps to send volunteers abroad to promote American AI, as the US competes with China for AI dominance &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260220/p24#a260220p24)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-21/)
+ - [Trump Imposes New Tariffs to Sidestep Supreme Court Ruling](https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

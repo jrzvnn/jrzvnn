@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 💣 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
+ - 😝 [DIY project. Aluminum bowls](http://9gag.com/gag/aVv5gzM)
+ - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 💣 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
  - 😝 [Truth Seekers](http://9gag.com/gag/a34rG5Q)
- - 👉 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)<!-- MEMES:END -->
+ - 👉 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)<!-- MEMES:END -->
 
 ---
 

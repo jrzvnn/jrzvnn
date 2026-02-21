@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker’s powerful home theater on wheels is pure chaos](https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1)
  - [How Claude Code, released publicly a year ago, cemented Anthropic as a leader in the lucrative, emerging market for AI coding tools &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260221/p3#a260221p3)
  - [Pinterest users, especially artists, says the platform has gotten worse in the past year due to AI moderation, AI-generated art, and AI features &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/260221/p2#a260221p2)
  - [Google announces a partnership with Sea to develop AI tools for Sea&#39;s Shopee, Southeast Asia&#39;s most dominant e-commerce platform, and Sea&#39;s gaming unit Garena &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/260221/p1#a260221p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 21, #516](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-21-516/)
- - [President Trump signs an EO to continue the suspension of the de minimis exemption, despite the SCOTUS&#39; ruling that overturned most of Trump&#39;s 2025 tariffs &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260220/p27#a260220p27)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 21, #516](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-21-516/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

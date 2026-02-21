@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Projects with open codebases like VLC and Blender are seeing a decline in the average quality of submissions, likely as AI coding tools lower barriers to entry &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260221/p9#a260221p9)
  - [Arturia’s FX Collection 6 adds two new effects and a $99 intro version](https://www.theverge.com/tech/882852/arturia-fx-collection-6)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 22, #987](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-22-987/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 22 #721](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-22-721/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 22, #517](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-22-517/)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 22, #1709](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-22-1709/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 22, #517](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-22-517/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

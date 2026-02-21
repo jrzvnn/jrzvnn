@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish](https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox)
+ - [In a World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback](https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/)
+ - [Galaxy S26 Rumors: Lots of Leaks About Samsung&#39;s New Phone Series](https://www.cnet.com/tech/mobile/galaxy-s26-leaks-rumor-roundup/)
  - [Stellantis is in a crisis of its own making](https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations)
- - [An interview with Notion CEO Ivan Zhao on Custom Notion AI agents launching in the coming week, over 50% of Notion databases now being built by agents, and more &lpar;Sources&rpar;](http://www.techmeme.com/260221/p4#a260221p4)
- - [Don&#39;t Buy the Galaxy S25 Ultra. Get the Galaxy S24 Ultra Instead](https://www.cnet.com/tech/mobile/want-a-galaxy-s25-ultra-for-cheap-buy-a-galaxy-s24-ultra-instead/)
- - [Souvenirs From the 2026 Winter Olympics Are Being Resold for Big Bucks Online](https://www.wired.com/story/gear-from-the-2026-winter-olympics-is-being-resold-for-big-bucks-online/)
- - [Best Budget Monitors: I Found 3 Impressive Screens Under $200 &lpar;2026&rpar;](https://www.wired.com/story/best-budget-monitors/)<!-- TECH:END -->
+ - [What&#39;s Coming to Disneyland and Disney World in 2026 and Beyond? Rides, Lands and More](https://www.cnet.com/tech/whats-coming-to-disney-world-and-disneyland-new-rides-lands-and-attractions-in-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

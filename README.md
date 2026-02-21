@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Imposes New Tariffs to Sidestep Supreme Court Ruling](https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/)
+ - [&quot;Claws&quot; is becoming a term to describe OpenClaw-like agent systems that usually run on personal hardware and are a new layer on top of LLM agents &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260220/p26#a260220p26)
+ - [Bengaluru-based Sarvam, which is building AI models for local languages, launches its Indus chat app in beta, powered by its Sarvam 105B model &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p25#a260220p25)
  - [The US launches the Tech Corps, a program under the Peace Corps to send volunteers abroad to promote American AI, as the US competes with China for AI dominance &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260220/p24#a260220p24)
- - [Microsoft Gaming CEO Asha Sharma says she is committed to &quot;the return of Xbox&quot; and that the company won&#39;t &quot;flood our ecosystem with soulless AI slop&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260220/p23#a260220p23)
- - [The Supreme Court’s Tariff Ruling Won’t Bring Car Prices Back to Earth](https://www.wired.com/story/the-supreme-courts-tariff-ruling-wont-bring-car-prices-back-to-earth/)
- - [A Galaxy Composed Almost Entirely of Dark Matter Has Been Confirmed](https://www.wired.com/story/a-galaxy-composed-almost-entirely-of-dark-matter-has-been-confirmed/)
- - [India joins Pax Silica, a US-led initiative that aims to build secure supply chains for semiconductors, advanced manufacturing, and critical technologies &lpar;Rajesh Roy/Associated Press&rpar;](http://www.techmeme.com/260220/p22#a260220p22)<!-- TECH:END -->
+ - [Microsoft Gaming CEO Asha Sharma says she is committed to &quot;the return of Xbox&quot; and that the company won&#39;t &quot;flood our ecosystem with soulless AI slop&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260220/p23#a260220p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

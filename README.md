@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 😝 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
+ - 😝 [Meat pizza](http://9gag.com/gag/aQz5oK2)
+ - 💣 [Do not use perfumes with too strong a scent, as this may bother people around you.](http://9gag.com/gag/aoywMGg)
  - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 💣 [Meat pizza](http://9gag.com/gag/aQz5oK2)
- - 😝 [American gun experiment with gardening tools](http://9gag.com/gag/awy2yzD)
  - 👉 [Training for what?](http://9gag.com/gag/aE05qxp)<!-- MEMES:END -->
 
 ---

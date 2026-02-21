@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is ending Gmailify and POP access in Gmail; new users will lose access in Q1 2026, and existing users will keep both features until later in 2026 &lpar;David Nield/Wired&rpar;](http://www.techmeme.com/260221/p8#a260221p8)
  - [Apple&#39;s latest Ferret AI model is a step towards Siri seeing and controlling iPhone apps](https://appleinsider.com/articles/26/02/21/apples-latest-ferret-ai-model-is-a-step-towards-siri-seeing-and-controlling-iphone-apps?utm_source=rss)
  - [English-language Wikipedia bans Archive.today after editors discover it was used to direct a DDoS attack and tampered with snapshots; 695K+ links to be removed &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260221/p7#a260221p7)
  - [Samsung Galaxy Unpacked 2026 Is Days Away: Galaxy S26 Rumors, Release Date and More](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
- - [Interviews with Cluely&#39;s Roy Lee, Donald Boat, and other highly &quot;agentic&quot; young men, as agency becomes more valuable than technical skills in Silicon Valley &lpar;Sam Kriss/Harper&#39;s&rpar;](http://www.techmeme.com/260221/p6#a260221p6)
- - [Georgia says Elon Musk’s America PAC violated election law](https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud)<!-- TECH:END -->
+ - [Interviews with Cluely&#39;s Roy Lee, Donald Boat, and other highly &quot;agentic&quot; young men, as agency becomes more valuable than technical skills in Silicon Valley &lpar;Sam Kriss/Harper&#39;s&rpar;](http://www.techmeme.com/260221/p6#a260221p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

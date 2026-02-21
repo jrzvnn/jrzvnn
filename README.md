@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Georgia says Elon Musk’s America PAC violated election law](https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud)
+ - [How to Recycle Your Old Laptops and Printers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)
  - [Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt)
  - [A look at the fundamental questions facing OpenAI: its models have a very large user base but very narrow engagement, incumbents are matching its tech, and more &lpar;Benedict Evans&rpar;](http://www.techmeme.com/260221/p5#a260221p5)
- - [Best Robot Vacuums: Our Latest Lab-Tested Robovacs Can Clean Just About Anything](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/)
- - [I Asked Audiologists if My Earbuds Are Damaging My Ears](https://www.cnet.com/tech/mobile/why-stopped-wearing-earbuds-hearing-loss/)
- - [The Pixel 10A and Soundcore Space One are just two of the best deals this week](https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale)<!-- TECH:END -->
+ - [Best Robot Vacuums: Our Latest Lab-Tested Robovacs Can Clean Just About Anything](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

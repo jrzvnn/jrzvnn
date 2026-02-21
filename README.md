@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 😝 [Shave your beard](http://9gag.com/gag/aAy50Yo)
- - 💣 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 😝 [Well well well](http://9gag.com/gag/aLn5nb6)
- - 👉 [Do not use perfumes with too strong a scent, as this may bother people around you.](http://9gag.com/gag/aoywMGg)<!-- MEMES:END -->
+ - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 😝 [Dick facts](http://9gag.com/gag/aMV5EZX)
+ - 💣 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
+ - 😝 [The office drama just keeps getting renewed](http://9gag.com/gag/apRwRNp)
+ - 👉 [American gun experiment with gardening tools](http://9gag.com/gag/awy2yzD)<!-- MEMES:END -->
 
 ---
 

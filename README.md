@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [English-language Wikipedia bans Archive.today after editors discover it was used to direct a DDoS attack and tampered with snapshots; 695K+ links to be removed &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260221/p7#a260221p7)
+ - [Samsung Galaxy Unpacked 2026 Is Days Away: Galaxy S26 Rumors, Release Date and More](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
  - [Interviews with Cluely&#39;s Roy Lee, Donald Boat, and other highly &quot;agentic&quot; young men, as agency becomes more valuable than technical skills in Silicon Valley &lpar;Sam Kriss/Harper&#39;s&rpar;](http://www.techmeme.com/260221/p6#a260221p6)
  - [Georgia says Elon Musk’s America PAC violated election law](https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud)
- - [How to Recycle Your Old Laptops and Printers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)
- - [Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt)<!-- TECH:END -->
+ - [How to Recycle Your Old Laptops and Printers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI making up numbers for 3 months and no one noticed until now. This is fine](http://9gag.com/gag/aVv5vVO)
  - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 💣 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
  - 😝 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
+ - 💣 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 😝 [Sorry bud](http://9gag.com/gag/a9y0zMo)
  - 👉 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)<!-- MEMES:END -->
 
 ---

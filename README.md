@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 💣 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 😝 [Well well well](http://9gag.com/gag/aLn5nb6)
- - 👉 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)<!-- MEMES:END -->
+ - 😝 [The office drama just keeps getting renewed](http://9gag.com/gag/apRwRNp)
+ - 😝 [After days of rejection punch finally felt warmth of love](http://9gag.com/gag/aAy50Ep)
+ - 💣 [American gun experiment with gardening tools](http://9gag.com/gag/awy2yzD)
+ - 😝 [Lucky there was a man on the train.](http://9gag.com/gag/a87Oq9Q)
+ - 👉 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)<!-- MEMES:END -->
 
 ---
 

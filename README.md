@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
- - 😝 [Shave your beard](http://9gag.com/gag/aAy50Yo)
- - 💣 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
- - 😝 [Well well well](http://9gag.com/gag/aLn5nb6)
- - 👉 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)<!-- MEMES:END -->
+ - 😝 [His fav guy is here](http://9gag.com/gag/a34r4qe)
+ - 😝 [AI making up numbers for 3 months and no one noticed until now. This is fine](http://9gag.com/gag/aVv5vVO)
+ - 💣 [The office drama just keeps getting renewed](http://9gag.com/gag/apRwRNp)
+ - 😝 [Why don&#39;t you give up? Cause he never did.](http://9gag.com/gag/ajPwVqq)
+ - 👉 [American gun experiment with gardening tools](http://9gag.com/gag/awy2yzD)<!-- MEMES:END -->
 
 ---
 

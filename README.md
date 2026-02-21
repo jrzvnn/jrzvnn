@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Pixel 10A and Soundcore Space One are just two of the best deals this week](https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale)
+ - [MLS 2026 Kicks Off This Weekend With a New Setup on Apple TV](https://www.cnet.com/tech/services-and-software/mls-2026-kicks-off-this-weekend-with-a-new-setup-on-apple-tv/)
  - [Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish](https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox)
  - [In a World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback](https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/)
- - [Galaxy S26 Rumors: Lots of Leaks About Samsung&#39;s New Phone Series](https://www.cnet.com/tech/mobile/galaxy-s26-leaks-rumor-roundup/)
- - [Stellantis is in a crisis of its own making](https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations)<!-- TECH:END -->
+ - [Galaxy S26 Rumors: Lots of Leaks About Samsung&#39;s New Phone Series](https://www.cnet.com/tech/mobile/galaxy-s26-leaks-rumor-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

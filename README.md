@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DIY project. Aluminum bowls](http://9gag.com/gag/aVv5gzM)
- - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
- - 💣 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
+ - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
+ - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
+ - 💣 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
  - 😝 [Truth Seekers](http://9gag.com/gag/a34rG5Q)
- - 👉 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)<!-- MEMES:END -->
+ - 👉 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
- - 😝 [Meat pizza](http://9gag.com/gag/aQz5oK2)
- - 💣 [Do not use perfumes with too strong a scent, as this may bother people around you.](http://9gag.com/gag/aoywMGg)
+ - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
  - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 👉 [Training for what?](http://9gag.com/gag/aE05qxp)<!-- MEMES:END -->
+ - 💣 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)
+ - 😝 [Lucky there was a man on the train.](http://9gag.com/gag/a87Oq9Q)
+ - 👉 [Do not use perfumes with too strong a scent, as this may bother people around you.](http://9gag.com/gag/aoywMGg)<!-- MEMES:END -->
 
 ---
 

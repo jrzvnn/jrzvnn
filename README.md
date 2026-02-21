@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Story of punchi](http://9gag.com/gag/a1mj1D8)
- - 😝 [If you don&#39;t like it. You might have PDS](http://9gag.com/gag/aQz5X3q)
- - 💣 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
- - 😝 [Just another day in the UK.](http://9gag.com/gag/avywAMO)
- - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
+ - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
+ - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
+ - 💣 [Just another day in the UK.](http://9gag.com/gag/avywAMO)
+ - 😝 [People should help each other](http://9gag.com/gag/a87OqZe)
+ - 👉 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)<!-- MEMES:END -->
 
 ---
 

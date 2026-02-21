@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
- - 😝 [The office drama just keeps getting renewed](http://9gag.com/gag/apRwRNp)
- - 💣 [Why don&#39;t you give up? Cause he never did.](http://9gag.com/gag/ajPwVqq)
- - 😝 [After days of rejection punch finally felt warmth of love](http://9gag.com/gag/aAy50Ep)
- - 👉 [American gun experiment with gardening tools](http://9gag.com/gag/awy2yzD)<!-- MEMES:END -->
+ - 😝 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
+ - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 💣 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 😝 [Well well well](http://9gag.com/gag/aLn5nb6)
+ - 👉 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)<!-- MEMES:END -->
 
 ---
 

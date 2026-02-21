@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 😝 [Dick facts](http://9gag.com/gag/aMV5EZX)
- - 💣 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
- - 😝 [The office drama just keeps getting renewed](http://9gag.com/gag/apRwRNp)
- - 👉 [American gun experiment with gardening tools](http://9gag.com/gag/awy2yzD)<!-- MEMES:END -->
+ - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
+ - 💣 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
+ - 😝 [Meat pizza](http://9gag.com/gag/aQz5oK2)
+ - 👉 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
- - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 💣 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
+ - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 💣 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
  - 😝 [Well well well](http://9gag.com/gag/aLn5nb6)
  - 👉 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)<!-- MEMES:END -->
 

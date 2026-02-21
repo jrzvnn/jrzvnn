@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
  - 😝 [Shave your beard](http://9gag.com/gag/aAy50Yo)
- - 💣 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
  - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 👉 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)<!-- MEMES:END -->
+ - 💣 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 😝 [Well well well](http://9gag.com/gag/aLn5nb6)
+ - 👉 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)<!-- MEMES:END -->
 
 ---
 

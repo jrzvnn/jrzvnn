@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with Cluely&#39;s Roy Lee, Donald Boat, and other highly &quot;agentic&quot; young men, as agency becomes more valuable than technical skills in Silicon Valley &lpar;Sam Kriss/Harper&#39;s&rpar;](http://www.techmeme.com/260221/p6#a260221p6)
  - [Georgia says Elon Musk’s America PAC violated election law](https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud)
  - [How to Recycle Your Old Laptops and Printers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)
  - [Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt)
- - [A look at the fundamental questions facing OpenAI: its models have a very large user base but very narrow engagement, incumbents are matching its tech, and more &lpar;Benedict Evans&rpar;](http://www.techmeme.com/260221/p5#a260221p5)
- - [Best Robot Vacuums: Our Latest Lab-Tested Robovacs Can Clean Just About Anything](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/)<!-- TECH:END -->
+ - [A look at the fundamental questions facing OpenAI: its models have a very large user base but very narrow engagement, incumbents are matching its tech, and more &lpar;Benedict Evans&rpar;](http://www.techmeme.com/260221/p5#a260221p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump signs an EO to continue the suspension of the de minimis exemption, despite the SCOTUS&#39; ruling that overturned most of Trump&#39;s 2025 tariffs &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260220/p27#a260220p27)
  - [Trump Imposes New Tariffs to Sidestep Supreme Court Ruling](https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/)
  - [&quot;Claws&quot; is becoming a term to describe OpenClaw-like agent systems that usually run on personal hardware and are a new layer on top of LLM agents &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260220/p26#a260220p26)
  - [Bengaluru-based Sarvam, which is building AI models for local languages, launches its Indus chat app in beta, powered by its Sarvam 105B model &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p25#a260220p25)
- - [The US launches the Tech Corps, a program under the Peace Corps to send volunteers abroad to promote American AI, as the US competes with China for AI dominance &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260220/p24#a260220p24)
- - [Microsoft Gaming CEO Asha Sharma says she is committed to &quot;the return of Xbox&quot; and that the company won&#39;t &quot;flood our ecosystem with soulless AI slop&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260220/p23#a260220p23)<!-- TECH:END -->
+ - [The US launches the Tech Corps, a program under the Peace Corps to send volunteers abroad to promote American AI, as the US competes with China for AI dominance &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260220/p24#a260220p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

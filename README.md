@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
  - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
- - 💣 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 👉 [Training for what?](http://9gag.com/gag/aE05qxp)<!-- MEMES:END -->
+ - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 💣 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
+ - 😝 [Sorry bud](http://9gag.com/gag/a9y0zMo)
+ - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
 
 ---
 

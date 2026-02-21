@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 💣 [Just another day in the UK.](http://9gag.com/gag/avywAMO)
- - 😝 [People should help each other](http://9gag.com/gag/a87OqZe)
- - 👉 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)<!-- MEMES:END -->
+ - 😝 [Old meme](http://9gag.com/gag/aND5wR3)
+ - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 💣 [I&#39;m not christian, but god damn this guy makes good points](http://9gag.com/gag/agmwgK1)
+ - 😝 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
+ - 👉 [Dick facts](http://9gag.com/gag/aMV5EZX)<!-- MEMES:END -->
 
 ---
 

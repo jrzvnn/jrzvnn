@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 💣 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 😝 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)
- - 👉 [Meat pizza](http://9gag.com/gag/aQz5oK2)<!-- MEMES:END -->
+ - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 😝 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
+ - 💣 [Meat pizza](http://9gag.com/gag/aQz5oK2)
+ - 😝 [American gun experiment with gardening tools](http://9gag.com/gag/awy2yzD)
+ - 👉 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)<!-- MEMES:END -->
 
 ---
 

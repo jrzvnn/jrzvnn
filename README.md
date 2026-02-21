@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 💣 [Do not use perfumes with too strong a scent, as this may bother people around you.](http://9gag.com/gag/aoywMGg)
- - 😝 [Lucky there was a man on the train.](http://9gag.com/gag/a87Oq9Q)
- - 👉 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)<!-- MEMES:END -->
+ - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
+ - 😝 [Shave your beard](http://9gag.com/gag/aAy50Yo)
+ - 💣 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 😝 [Well well well](http://9gag.com/gag/aLn5nb6)
+ - 👉 [Do not use perfumes with too strong a scent, as this may bother people around you.](http://9gag.com/gag/aoywMGg)<!-- MEMES:END -->
 
 ---
 

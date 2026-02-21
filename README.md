@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 💣 [Shave your beard](http://9gag.com/gag/aAy50Yo)
+ - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 💣 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
  - 😝 [Well well well](http://9gag.com/gag/aLn5nb6)
- - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
+ - 👉 [Shave your beard](http://9gag.com/gag/aAy50Yo)<!-- MEMES:END -->
 
 ---
 

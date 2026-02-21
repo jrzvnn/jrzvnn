@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stellantis is in a crisis of its own making](https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations)
+ - [An interview with Notion CEO Ivan Zhao on Custom Notion AI agents launching in the coming week, over 50% of Notion databases now being built by agents, and more &lpar;Sources&rpar;](http://www.techmeme.com/260221/p4#a260221p4)
  - [Don&#39;t Buy the Galaxy S25 Ultra. Get the Galaxy S24 Ultra Instead](https://www.cnet.com/tech/mobile/want-a-galaxy-s25-ultra-for-cheap-buy-a-galaxy-s24-ultra-instead/)
  - [Souvenirs From the 2026 Winter Olympics Are Being Resold for Big Bucks Online](https://www.wired.com/story/gear-from-the-2026-winter-olympics-is-being-resold-for-big-bucks-online/)
- - [Best Budget Monitors: I Found 3 Impressive Screens Under $200 &lpar;2026&rpar;](https://www.wired.com/story/best-budget-monitors/)
- - [6 Best Phones With Headphone Jacks &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
- - [This Is the Only Smart Ring You Should Own to Keep Track of Your Health](https://www.cnet.com/health/fitness/best-smart-ring/)<!-- TECH:END -->
+ - [Best Budget Monitors: I Found 3 Impressive Screens Under $200 &lpar;2026&rpar;](https://www.wired.com/story/best-budget-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

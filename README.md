@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 💣 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 😝 [Meat pizza](http://9gag.com/gag/aQz5oK2)
- - 👉 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)<!-- MEMES:END -->
+ - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
+ - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 💣 [Meat pizza](http://9gag.com/gag/aQz5oK2)
+ - 😝 [Lucky there was a man on the train.](http://9gag.com/gag/a87Oq9Q)
+ - 👉 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)<!-- MEMES:END -->
 
 ---
 

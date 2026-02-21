@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old meme](http://9gag.com/gag/aND5wR3)
- - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 💣 [I&#39;m not christian, but god damn this guy makes good points](http://9gag.com/gag/agmwgK1)
- - 😝 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
- - 👉 [Dick facts](http://9gag.com/gag/aMV5EZX)<!-- MEMES:END -->
+ - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
+ - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
+ - 💣 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
+ - 😝 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)
+ - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India joins Pax Silica, a US-led initiative that aims to build secure supply chains for semiconductors, advanced manufacturing, and critical technologies &lpar;Rajesh Roy/Associated Press&rpar;](http://www.techmeme.com/260220/p22#a260220p22)
- - [Source: OpenAI is projecting that its revenue will exceed $280B in 2030; last month, OpenAI said its annualized revenue grew to $20B+ in 2025 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260220/p21#a260220p21)
- - [Sources: OpenAI is telling investors it&#39;s targeting ~$600B in total compute spend by 2030, months after Sam Altman touted $1.4T in infrastructure commitments &lpar;CNBC&rpar;](http://www.techmeme.com/260220/p20#a260220p20)
- - [Wisconsin Reverses Decision to Ban VPNs in Age-Verification Bill](https://www.cnet.com/tech/services-and-software/wisconsin-reverses-decision-to-ban-vpns-in-age-verification-bill/)
- - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [The US launches the Tech Corps, a program under the Peace Corps to send volunteers abroad to promote American AI, as the US competes with China for AI dominance &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260220/p24#a260220p24)
+ - [Microsoft Gaming CEO Asha Sharma says she is committed to &quot;the return of Xbox&quot; and that the company won&#39;t &quot;flood our ecosystem with soulless AI slop&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260220/p23#a260220p23)
+ - [The Supreme Court’s Tariff Ruling Won’t Bring Car Prices Back to Earth](https://www.wired.com/story/the-supreme-courts-tariff-ruling-wont-bring-car-prices-back-to-earth/)
+ - [A Galaxy Composed Almost Entirely of Dark Matter Has Been Confirmed](https://www.wired.com/story/a-galaxy-composed-almost-entirely-of-dark-matter-has-been-confirmed/)
+ - [India joins Pax Silica, a US-led initiative that aims to build secure supply chains for semiconductors, advanced manufacturing, and critical technologies &lpar;Rajesh Roy/Associated Press&rpar;](http://www.techmeme.com/260220/p22#a260220p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

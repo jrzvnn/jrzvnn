@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Arturia’s FX Collection 6 adds two new effects and a $99 intro version](https://www.theverge.com/tech/882852/arturia-fx-collection-6)
- - [Apple faces more pain as Trump&#39;s global import tariff grows from 10% to 15%](https://appleinsider.com/articles/26/02/21/apple-faces-more-pain-as-trumps-global-import-tariff-grows-from-10-to-15?utm_source=rss)
- - [Sony’s WH-CH720N headphones offer excellent value at full price, but right now they&#39;re a steal.](https://www.wired.com/story/sony-wh-ch720n-deal-february-2026/)
- - [Google is ending Gmailify and POP access in Gmail; new users will lose access in Q1 2026, and existing users will keep both features until later in 2026 &lpar;David Nield/Wired&rpar;](http://www.techmeme.com/260221/p8#a260221p8)
- - [Apple&#39;s latest Ferret AI model is a step towards Siri seeing and controlling iPhone apps](https://appleinsider.com/articles/26/02/21/apples-latest-ferret-ai-model-is-a-step-towards-siri-seeing-and-controlling-iphone-apps?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 22, #987](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-22-987/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 22 #721](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-22-721/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 22, #517](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-22-517/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 22, #1709](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-22-1709/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

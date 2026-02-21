@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
  - 😝 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
- - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 💣 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 😝 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)
- - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
+ - 💣 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)
+ - 😝 [American gun experiment with gardening tools](http://9gag.com/gag/awy2yzD)
+ - 👉 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)<!-- MEMES:END -->
 
 ---
 

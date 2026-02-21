@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 😝 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
- - 💣 [Meat pizza](http://9gag.com/gag/aQz5oK2)
+ - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 💣 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)
  - 😝 [American gun experiment with gardening tools](http://9gag.com/gag/awy2yzD)
- - 👉 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)<!-- MEMES:END -->
+ - 👉 [Meat pizza](http://9gag.com/gag/aQz5oK2)<!-- MEMES:END -->
 
 ---
 

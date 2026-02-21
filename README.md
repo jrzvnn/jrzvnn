@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
  - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 💣 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)
+ - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
+ - 💣 [Meat pizza](http://9gag.com/gag/aQz5oK2)
  - 😝 [American gun experiment with gardening tools](http://9gag.com/gag/awy2yzD)
- - 👉 [Meat pizza](http://9gag.com/gag/aQz5oK2)<!-- MEMES:END -->
+ - 👉 [Training for what?](http://9gag.com/gag/aE05qxp)<!-- MEMES:END -->
 
 ---
 

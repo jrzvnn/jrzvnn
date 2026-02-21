@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You Can Now Install—and Update—Microsoft Store Apps Using the Command Line](https://www.wired.com/story/install-and-update-microsoft-store-apps-using-the-command-line-in-windows/)
  - [iRestore Elite Laser Hair Growth System Review: Surprisingly Effective](https://www.wired.com/review/irestore-elite-laser-hair-growth-system/)
  - [After the 2026 Winter Olympics, Figure Skating Will Never Be the Same](https://www.wired.com/story/2026-winter-olympics-figure-skating-adam-rippon-interview/)
  - [‘Narco-Submarine’ Carrying 4 Tons of Cocaine Captured by Mexico&#39;s Navy](https://www.wired.com/story/narco-submarine-carrying-4-tons-of-cocaine-captured-by-mexicos-navy/)
- - [Anker’s powerful home theater on wheels is pure chaos](https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1)
- - [How Claude Code, released publicly a year ago, cemented Anthropic as a leader in the lucrative, emerging market for AI coding tools &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260221/p3#a260221p3)<!-- TECH:END -->
+ - [Anker’s X1 Pro shouldn’t exist, but I’m so glad it does](https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt)
+ - [A look at the fundamental questions facing OpenAI: its models have a very large user base but very narrow engagement, incumbents are matching its tech, and more &lpar;Benedict Evans&rpar;](http://www.techmeme.com/260221/p5#a260221p5)
  - [The Pixel 10A and Soundcore Space One are just two of the best deals this week](https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale)
  - [MLS 2026 Kicks Off This Weekend With a New Setup on Apple TV](https://www.cnet.com/tech/services-and-software/mls-2026-kicks-off-this-weekend-with-a-new-setup-on-apple-tv/)
- - [Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish](https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox)
- - [In a World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback](https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/)
- - [Galaxy S26 Rumors: Lots of Leaks About Samsung&#39;s New Phone Series](https://www.cnet.com/tech/mobile/galaxy-s26-leaks-rumor-roundup/)<!-- TECH:END -->
+ - [Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish](https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

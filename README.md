@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice](https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice)
  - [Tim Cook&#39;s increased mentions of Visual Intelligence hint it will be a major part of Apple&#39;s new wearables; sources: Apple considers a deep red iPhone 18 Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260222/p9#a260222p9)
  - [Expect at least five announcements during Apple&#39;s March launch week](https://appleinsider.com/articles/26/02/22/expect-at-least-five-announcements-during-apples-march-launch-week?utm_source=rss)
  - [This magazine plays Tetris — here’s how](https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display)
- - [iPhone 18 Pro may come in deep red after success of its orange predecessor](https://appleinsider.com/articles/26/02/22/iphone-18-pro-may-come-in-deep-red-after-success-of-its-orange-predecessor?utm_source=rss)
- - [Premier League Soccer 2026: Watch Tottenham vs. Arsenal Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-watch-tottenham-vs-arsenal-live/)<!-- TECH:END -->
+ - [iPhone 18 Pro may come in deep red after success of its orange predecessor](https://appleinsider.com/articles/26/02/22/iphone-18-pro-may-come-in-deep-red-after-success-of-its-orange-predecessor?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

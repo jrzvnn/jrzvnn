@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HOT MIC catches Les Wexner\u2019s attorney THREATENING him during his House Oversight Committee deposition](http://9gag.com/gag/ae9wQ9v)
- - 😝 [Language Barrier](http://9gag.com/gag/aqywyvp)
- - 💣 [So you want an economic growth or not?](http://9gag.com/gag/a5Q3Q6N)
- - 😝 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)
- - 👉 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)<!-- MEMES:END -->
+ - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 😝 [What the actual fook](http://9gag.com/gag/abAwej8)
+ - 💣 [RIP XBOX...](http://9gag.com/gag/a6Z6Xrm)
+ - 😝 [Sorry bud](http://9gag.com/gag/a9y0zMo)
+ - 👉 [Norway takes 17 gold total, and this guy takes home 6 all by himself. Johannes H. Kl\u00e6bo, already a legend.](http://9gag.com/gag/aGy5Lyz)<!-- MEMES:END -->
 
 ---
 

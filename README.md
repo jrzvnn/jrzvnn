@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Truth Seekers](http://9gag.com/gag/a34rG5Q)
- - 😝 [50/50](http://9gag.com/gag/aVv5oRn)
- - 💣 [RIP XBOX...](http://9gag.com/gag/a6Z6Xrm)
- - 😝 [Peter Jackson is a genius.](http://9gag.com/gag/a5Q36yN)
- - 👉 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)<!-- MEMES:END -->
+ - 😝 [RIP XBOX...](http://9gag.com/gag/a6Z6Xrm)
+ - 💣 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)
+ - 😝 [Logan Paul&#39;s NFT investment is a masterclass in financial wizardry](http://9gag.com/gag/aRBdLOj)
+ - 👉 [50/50](http://9gag.com/gag/aVv5oRn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump calls on Netflix to fire board member Susan Rice or face &quot;consequences,&quot; after she said corporations that &quot;take a knee&quot; to Trump would be held accountable &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/260221/p12#a260221p12)
  - [Sources: DOJ&#39;s review of Netflix&#39;s WBD takeover examines whether Netflix wields anticompetitive leverage over creators in violation of Clayton and Sherman Acts &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/260221/p11#a260221p11)
  - [Samsung Galaxy Unpacked 2026 Is Days Away: Galaxy S26 Rumors, Release Date and More](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Feb. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-feb-22/)
- - [Sam Altman says there is some &quot;AI washing&quot;, where companies blame AI for layoffs that they would otherwise do, alongside &quot;real displacement by AI&quot; of some jobs &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/260221/p10#a260221p10)
- - [Open source projects like VLC and Blender are seeing a decline in the average quality of contributions, likely as AI coding tools lower barriers to entry &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260221/p9#a260221p9)<!-- TECH:END -->
+ - [Sam Altman says there is some &quot;AI washing&quot;, where companies blame AI for layoffs that they would otherwise do, alongside &quot;real displacement by AI&quot; of some jobs &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/260221/p10#a260221p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

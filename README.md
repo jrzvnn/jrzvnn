@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Hide Google’s AI Overviews From Your Search Results](https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/)
  - [Creatine Supplements Are Everywhere. Do I Need Them? &lpar;2026&rpar;](https://www.wired.com/story/should-you-be-taking-creatine-supplements/)
  - [India&#39;s AI Summit highlighted the limits of the country&#39;s AI ambitions, as the US and its tech companies largely dismissed India&#39;s push for global AI governance &lpar;Krishn Kaushik/Financial Times&rpar;](http://www.techmeme.com/260222/p7#a260222p7)
  - [How to View the ‘Blood Moon’ Total Lunar Eclipse on March 3](https://www.wired.com/story/how-to-view-the-blood-moon-total-lunar-eclipse-on-march-3/)
- - [Best Electric Toothbrush, Backed by Real-Life Testing &lpar;2026&rpar;](https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/)
- - [Anthropic&#39;s data shows software engineering accounts for ~50% of its AI agent tool calls; the remaining verticals are greenfields most founders are overlooking &lpar;Garry Tan/Garry&#39;s List&rpar;](http://www.techmeme.com/260222/p6#a260222p6)<!-- TECH:END -->
+ - [Best Electric Toothbrush, Backed by Real-Life Testing &lpar;2026&rpar;](https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turkey launches a review of how social media platforms handle children&#39;s data as it prepares new rules that include identity verification and age restrictions &lpar;Turkish Minute&rpar;](http://www.techmeme.com/260222/p10#a260222p10)
  - [Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice](https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice)
  - [Tim Cook&#39;s increased mentions of Visual Intelligence hint it will be a major part of Apple&#39;s new wearables; sources: Apple considers a deep red iPhone 18 Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260222/p9#a260222p9)
- - [Expect at least five announcements during Apple&#39;s March launch week](https://appleinsider.com/articles/26/02/22/expect-at-least-five-announcements-during-apples-march-launch-week?utm_source=rss)
- - [This magazine plays Tetris — here’s how](https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display)
- - [iPhone 18 Pro may come in deep red after success of its orange predecessor](https://appleinsider.com/articles/26/02/22/iphone-18-pro-may-come-in-deep-red-after-success-of-its-orange-predecessor?utm_source=rss)<!-- TECH:END -->
+ - [&#39;Bridgerton&#39; Season 4, Part 2: Release Date and Time on Netflix](https://www.cnet.com/tech/services-and-software/bridgerton-season-4-part-2-release-date-and-time-on-netflix/)
+ - [I 3D Printed Dyson Vacuum Tools and Other Cool Home Accessories](https://www.cnet.com/tech/computing/i-3d-printed-my-own-dyson-tools-and-other-cool-home-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

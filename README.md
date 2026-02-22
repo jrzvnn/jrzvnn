@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yep! Xbox is dead. RIP.](http://9gag.com/gag/aLn51qM)
+ - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
  - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
- - 💣 [Language Barrier](http://9gag.com/gag/aqywyvp)
- - 😝 [DIY project. Aluminum bowls](http://9gag.com/gag/aVv5gzM)
+ - 💣 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
+ - 😝 [Well well well](http://9gag.com/gag/aLn5nb6)
  - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
 
 ---

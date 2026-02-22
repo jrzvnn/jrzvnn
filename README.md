@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reboot: Podcast haircuts, in-car Apple TV, and the real F1 on big screens](https://appleinsider.com/articles/26/02/22/reboot-podcast-haircuts-in-car-apple-tv-and-the-real-f1-on-big-screens?utm_source=rss)
  - [The EU&#39;s DSA probe into Shein is just the latest of the company&#39;s problems, which are stacking up in many of its big markets as it seeks to push through an IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/260222/p13#a260222p13)
  - [A profile of Neil Shen of HSG, formerly Sequoia China, which raised $9B from US investors before US restrictions and has funded Manus and other Chinese startups &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260222/p12#a260222p12)
  - [What Happened in Hulu&#39;s &#39;Paradise&#39;? Here&#39;s a Recap Before Season 2 Premieres](https://www.cnet.com/tech/services-and-software/hulu-paradise-recap-how-to-watch-season-2-premiere/)
- - [Sam Altman says discussions about AI&#39;s energy usage are &quot;unfair&quot;, as it takes &quot;20 years of life and all of the food you eat during that time&quot; to train a human &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/260222/p11#a260222p11)
- - [Samsung Galaxy Unpacked 2026 Is Days Away: Galaxy S26 Rumors, Release Date and More](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
+ - [Sam Altman says discussions about AI&#39;s energy usage are &quot;unfair&quot;, as it takes &quot;20 years of life and all of the food you eat during that time&quot; to train a human &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/260222/p11#a260222p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

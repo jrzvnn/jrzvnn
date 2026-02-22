@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Man accused of stealing 60 iPhones from Walmart](https://appleinsider.com/articles/26/02/22/crime-blotter-man-accused-of-stealing-60-iphones-from-walmart?utm_source=rss)
  - [What to Know About At-Home STI Tests: Pros, Cons, and Recommendations &lpar;2026&rpar;](https://www.wired.com/story/at-home-sti-tests/)
  - [What Is Down Fill Power &lpar;2026&rpar;: Fill Weight, Synthetics](https://www.wired.com/story/what-is-down-fill-power/)
- - [How to Hide Google’s AI Overviews From Your Search Results](https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/)
- - [Creatine Supplements Are Everywhere. Do I Need Them? &lpar;2026&rpar;](https://www.wired.com/story/should-you-be-taking-creatine-supplements/)
- - [India&#39;s AI Summit highlighted the limits of the country&#39;s AI ambitions, as the US and its tech companies largely dismissed India&#39;s push for global AI governance &lpar;Krishn Kaushik/Financial Times&rpar;](http://www.techmeme.com/260222/p7#a260222p7)<!-- TECH:END -->
+ - [AI Slop Is Destroying the Internet. These Are the People Fighting to Save It](https://www.cnet.com/tech/services-and-software/features/ai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it/)
+ - [Premier League Soccer: Stream Nottingham Forest vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-nottingham-forest-vs-liverpool-live-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

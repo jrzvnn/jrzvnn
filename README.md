@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 😝 [Netflix interview](http://9gag.com/gag/ae9w92b)
  - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
- - 💣 [HOT MIC catches Les Wexner\u2019s attorney THREATENING him during his House Oversight Committee deposition](http://9gag.com/gag/ae9wQ9v)
- - 😝 [Simpler times, best times](http://9gag.com/gag/aYQ5G90)
- - 👉 [Training for what?](http://9gag.com/gag/aE05qxp)<!-- MEMES:END -->
+ - 💣 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 😝 [HOT MIC catches Les Wexner\u2019s attorney THREATENING him during his House Oversight Committee deposition](http://9gag.com/gag/ae9wQ9v)
+ - 👉 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)<!-- MEMES:END -->
 
 ---
 

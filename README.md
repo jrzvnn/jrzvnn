@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
- - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 💣 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 😝 [Logan Paul&#39;s NFT investment is a masterclass in financial wizardry](http://9gag.com/gag/aRBdLOj)
- - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
+ - 😝 [Language Barrier](http://9gag.com/gag/aqywyvp)
+ - 😝 [DIY project. Aluminum bowls](http://9gag.com/gag/aVv5gzM)
+ - 💣 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
+ - 😝 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
+ - 👉 [Training for what?](http://9gag.com/gag/aE05qxp)<!-- MEMES:END -->
 
 ---
 

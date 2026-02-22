@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says there is some &quot;AI washing&quot;, where companies blame AI for layoffs that they would otherwise do, alongside &quot;real displacement by AI&quot; of some jobs &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/260221/p10#a260221p10)
  - [Open source projects like VLC and Blender are seeing a decline in the average quality of contributions, likely as AI coding tools lower barriers to entry &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260221/p9#a260221p9)
  - [Arturia’s FX Collection 6 adds two new effects and a $99 intro version](https://www.theverge.com/tech/882852/arturia-fx-collection-6)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 22, #987](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-22-987/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 22 #721](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-22-721/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 22, #517](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-22-517/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 22 #721](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-22-721/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

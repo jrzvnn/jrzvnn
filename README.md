@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She&#39;s pretty](http://9gag.com/gag/aoywWRe)
  - 😝 [Netflix interview](http://9gag.com/gag/ae9w92b)
- - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
- - 💣 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)
- - 😝 [Indeed](http://9gag.com/gag/aKG5AKQ)
- - 👉 [Straight to jail](http://9gag.com/gag/awy2gpy)<!-- MEMES:END -->
+ - 💣 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 😝 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
+ - 👉 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)<!-- MEMES:END -->
 
 ---
 

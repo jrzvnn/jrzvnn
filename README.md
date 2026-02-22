@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
- - 😝 [Sorry bud](http://9gag.com/gag/a9y0zMo)
- - 💣 [Norway takes 17 gold total, and this guy takes home 6 all by himself. Johannes H. Kl\u00e6bo, already a legend.](http://9gag.com/gag/aGy5Lyz)
- - 😝 [RIP XBOX...](http://9gag.com/gag/a6Z6Xrm)
- - 👉 [Truth Seekers](http://9gag.com/gag/a34rG5Q)<!-- MEMES:END -->
+ - 😝 [Bro cant wait](http://9gag.com/gag/aRBdLxA)
+ - 💣 [DAMN FUNNY!!!!!](http://9gag.com/gag/a9y0zb1)
+ - 😝 [Logan Paul&#39;s NFT investment is a masterclass in financial wizardry](http://9gag.com/gag/aRBdLOj)
+ - 👉 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)<!-- MEMES:END -->
 
 ---
 

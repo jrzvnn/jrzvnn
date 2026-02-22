@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [HOT MIC catches Les Wexner\u2019s attorney THREATENING him during his House Oversight Committee deposition](http://9gag.com/gag/ae9wQ9v)
- - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 💣 [Language Barrier](http://9gag.com/gag/aqywyvp)
- - 😝 [Straight to jail](http://9gag.com/gag/awy2gpy)
- - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
+ - 😝 [Language Barrier](http://9gag.com/gag/aqywyvp)
+ - 💣 [So you want an economic growth or not?](http://9gag.com/gag/a5Q3Q6N)
+ - 😝 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)
+ - 👉 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)<!-- MEMES:END -->
 
 ---
 

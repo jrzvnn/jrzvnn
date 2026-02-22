@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
  - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 💣 [Thoughts?](http://9gag.com/gag/a1mjPVD)
- - 😝 [Simpler times, best times](http://9gag.com/gag/aYQ5G90)
- - 👉 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)<!-- MEMES:END -->
+ - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
+ - 💣 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
+ - 😝 [HOT MIC catches Les Wexner\u2019s attorney THREATENING him during his House Oversight Committee deposition](http://9gag.com/gag/ae9wQ9v)
+ - 👉 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)<!-- MEMES:END -->
 
 ---
 

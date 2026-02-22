@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
- - 😝 [Bro cant wait](http://9gag.com/gag/aRBdLxA)
- - 💣 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
- - 😝 [Chicken your destiny....](http://9gag.com/gag/ae9w1V5)
+ - 😝 [DAMN FUNNY!!!!!](http://9gag.com/gag/a9y0zb1)
+ - 😝 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
+ - 💣 [Bro cant wait](http://9gag.com/gag/aRBdLxA)
+ - 😝 [What the actual fook](http://9gag.com/gag/abAwej8)
  - 👉 [Straight to jail](http://9gag.com/gag/awy2gpy)<!-- MEMES:END -->
 
 ---

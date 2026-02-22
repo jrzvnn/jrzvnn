@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
  - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
- - 💣 [Thoughts?](http://9gag.com/gag/a1mjPVD)
- - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 💣 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 😝 [Coldplays finest](http://9gag.com/gag/aoywWGn)
  - 👉 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
+ - 😝 [Why don&#39;t you give up? Cause he never did.](http://9gag.com/gag/ajPwVqq)
  - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 💣 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 😝 [Truth Seekers](http://9gag.com/gag/a34rG5Q)
- - 👉 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)<!-- MEMES:END -->
+ - 💣 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
+ - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 👉 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)<!-- MEMES:END -->
 
 ---
 

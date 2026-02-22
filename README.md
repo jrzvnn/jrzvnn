@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Language Barrier](http://9gag.com/gag/aqywyvp)
+ - 😝 [Yep! Xbox is dead. RIP.](http://9gag.com/gag/aLn51qM)
+ - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
+ - 💣 [Language Barrier](http://9gag.com/gag/aqywyvp)
  - 😝 [DIY project. Aluminum bowls](http://9gag.com/gag/aVv5gzM)
- - 💣 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 😝 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
- - 👉 [Training for what?](http://9gag.com/gag/aE05qxp)<!-- MEMES:END -->
+ - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
 
 ---
 

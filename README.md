@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent closed its TiMi Montréal studio after nearly five years, without ever releasing a game, as Chinese giants scale back funding for Western game studios &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/260222/p15#a260222p15)
  - [Samsung is adding Perplexity to Galaxy AI](https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai)
  - [Documents submitted by Waymo and Tesla to the US government reveal new info about the remote assistance programs for their robotaxis, staffed by human operators &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260222/p14#a260222p14)
  - [You need to listen to Laurie Spiegel’s masterpiece of early ambient music](https://www.theverge.com/entertainment/882915/laurie-spiegel-the-expanding-universe-review-masterpiece-ambient-music)
- - [Reboot: Podcast haircuts, in-car Apple TV, and the real F1 on big screens](https://appleinsider.com/articles/26/02/22/reboot-podcast-haircuts-in-car-apple-tv-and-the-real-f1-on-big-screens?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 23 #722](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-23-722/)<!-- TECH:END -->
+ - [Reboot: Podcast haircuts, in-car Apple TV, and the real F1 on big screens](https://appleinsider.com/articles/26/02/22/reboot-podcast-haircuts-in-car-apple-tv-and-the-real-f1-on-big-screens?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

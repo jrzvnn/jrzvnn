@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
  - 😝 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)
- - 💣 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)
+ - 😝 [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
+ - 💣 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
  - 😝 [Indeed](http://9gag.com/gag/aKG5AKQ)
- - 👉 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)<!-- MEMES:END -->
+ - 👉 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)<!-- MEMES:END -->
 
 ---
 

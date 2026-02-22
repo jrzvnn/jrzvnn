@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Astronauts Will Be Allowed to Use the Latest Smartphones During Space Missions](https://www.cnet.com/tech/mobile/latest-smartphones-now-allowed-in-space-nasa-says/)
+ - [Trump Phone Reportedly Costs More, Looks Different, Isn&#39;t Made in America](https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/)
  - [Visual Intelligence &amp; Apple wearables are Tim Cook&#39;s next big thing](https://appleinsider.com/articles/26/02/22/visual-intelligence-apple-wearables-are-tim-cooks-next-big-thing?utm_source=rss)
  - [Turkey launches a review of how social media platforms handle children&#39;s data as it prepares new rules that include identity verification and age restrictions &lpar;Turkish Minute&rpar;](http://www.techmeme.com/260222/p10#a260222p10)
- - [Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice](https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice)
- - [Tim Cook&#39;s increased mentions of Visual Intelligence hint it will be a major part of Apple&#39;s new wearables; sources: Apple considers a deep red iPhone 18 Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260222/p9#a260222p9)
- - [&#39;Bridgerton&#39; Season 4, Part 2: Release Date and Time on Netflix](https://www.cnet.com/tech/services-and-software/bridgerton-season-4-part-2-release-date-and-time-on-netflix/)<!-- TECH:END -->
+ - [Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice](https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

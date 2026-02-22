@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
  - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 💣 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
- - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 👉 [Thoughts?](http://9gag.com/gag/a1mjPVD)<!-- MEMES:END -->
+ - 💣 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 😝 [Logan Paul&#39;s NFT investment is a masterclass in financial wizardry](http://9gag.com/gag/aRBdLOj)
+ - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
 
 ---
 

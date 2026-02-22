@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source Global: the US consulting market is set to grow 7% in 2026, the fastest pace in the post-COVID era, as companies seek advice on profiting from AI &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/260222/p5#a260222p5)
+ - [Sam Altman says currently &quot;the idea of putting data centers in space is ridiculous&quot; and that it is &quot;not something that&#39;s going to matter at scale this decade&quot; &lpar;Bijin Jose/The Indian Express&rpar;](http://www.techmeme.com/260222/p4#a260222p4)
+ - [Amazon details how a Russian-speaking hacker used generative AI as part of a campaign that breached 600+ FortiGate firewalls across 55 countries in five weeks &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260222/p3#a260222p3)
  - [Salt Lake City-based Jump, a provider of AI tools for financial advisors to automate meeting prep and more, raised an $80M Series B led by Insight Partners &lpar;FinSMEs&rpar;](http://www.techmeme.com/260222/p2#a260222p2)
- - [Sam Altman says currently &quot;the idea of putting data centers in space is ridiculous&quot; and that it is &quot;not something that&#39;s going to matter at scale this decade&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/260222/p1#a260222p1)
- - [Trump calls on Netflix to fire board member Susan Rice or face &quot;consequences,&quot; after she said corporations that &quot;take a knee&quot; to Trump would be held accountable &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/260221/p12#a260221p12)
- - [Sources: DOJ&#39;s review of Netflix&#39;s WBD takeover examines whether Netflix wields anticompetitive leverage over creators in violation of Clayton and Sherman Acts &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/260221/p11#a260221p11)
- - [Samsung Galaxy Unpacked 2026 Is Days Away: Galaxy S26 Rumors, Release Date and More](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
+ - [Sam Altman says Elon Musk&#39;s idea of putting data centers in space is &#39;ridiculous&#39; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/260222/p1#a260222p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

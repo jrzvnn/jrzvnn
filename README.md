@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
- - 💣 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 😝 [Well well well](http://9gag.com/gag/aLn5nb6)
- - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
+ - 😝 [Norway takes 17 gold total, and this guy takes home 6 all by himself. Johannes H. Kl\u00e6bo, already a legend.](http://9gag.com/gag/aGy5Lyz)
+ - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 💣 [Shave your beard](http://9gag.com/gag/aAy50Yo)
+ - 😝 [Coldplays finest](http://9gag.com/gag/aoywWGn)
+ - 👉 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)<!-- MEMES:END -->
 
 ---
 

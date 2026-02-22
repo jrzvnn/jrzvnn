@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [DAMN FUNNY!!!!!](http://9gag.com/gag/a9y0zb1)
+ - 😝 [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
+ - 💣 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)
  - 😝 [Straight to jail](http://9gag.com/gag/awy2gpy)
- - 💣 [Bro cant wait](http://9gag.com/gag/aRBdLxA)
- - 😝 [What the actual fook](http://9gag.com/gag/abAwej8)
- - 👉 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)<!-- MEMES:END -->
+ - 👉 [Bro cant wait](http://9gag.com/gag/aRBdLxA)<!-- MEMES:END -->
 
 ---
 

@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Netflix interview](http://9gag.com/gag/ae9w92b)
  - 💣 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
  - 😝 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
- - 👉 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)<!-- MEMES:END -->
+ - 👉 [Straight to jail](http://9gag.com/gag/awy2gpy)<!-- MEMES:END -->
 
 ---
 

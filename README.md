@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Truth Seekers](http://9gag.com/gag/a34rG5Q)
- - 😝 [RIP XBOX...](http://9gag.com/gag/a6Z6Xrm)
- - 💣 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)
- - 😝 [Logan Paul&#39;s NFT investment is a masterclass in financial wizardry](http://9gag.com/gag/aRBdLOj)
- - 👉 [50/50](http://9gag.com/gag/aVv5oRn)<!-- MEMES:END -->
+ - 😝 [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
+ - 😝 [Norway takes 17 gold total, and this guy takes home 6 all by himself. Johannes H. Kl\u00e6bo, already a legend.](http://9gag.com/gag/aGy5Lyz)
+ - 💣 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
+ - 😝 [Indeed](http://9gag.com/gag/aKG5AKQ)
+ - 👉 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)<!-- MEMES:END -->
 
 ---
 

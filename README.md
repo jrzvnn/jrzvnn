@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
- - 😝 [Bro cant wait](http://9gag.com/gag/aRBdLxA)
- - 💣 [DAMN FUNNY!!!!!](http://9gag.com/gag/a9y0zb1)
- - 😝 [Logan Paul&#39;s NFT investment is a masterclass in financial wizardry](http://9gag.com/gag/aRBdLOj)
- - 👉 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)<!-- MEMES:END -->
+ - 😝 [Its not like I know either](http://9gag.com/gag/aPA2xEG)
+ - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
+ - 💣 [Bro cant wait](http://9gag.com/gag/aRBdLxA)
+ - 😝 [Straight to jail](http://9gag.com/gag/awy2gpy)
+ - 👉 [DAMN FUNNY!!!!!](http://9gag.com/gag/a9y0zb1)<!-- MEMES:END -->
 
 ---
 

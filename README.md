@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Expect at least five announcements during Apple&#39;s March launch week](https://appleinsider.com/articles/26/02/22/expect-at-least-five-announcements-during-apples-march-launch-week?utm_source=rss)
+ - [This magazine plays Tetris — here’s how](https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display)
  - [iPhone 18 Pro may come in deep red after success of its orange predecessor](https://appleinsider.com/articles/26/02/22/iphone-18-pro-may-come-in-deep-red-after-success-of-its-orange-predecessor?utm_source=rss)
- - [Analysis: the crypto industry has spent $288M+ on the 2026 US midterms so far, over double the 2024 cycle; crypto PAC Fairshake is the US&#39; fifth most-funded PAC &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/260222/p8#a260222p8)
- - [America desperately needs new privacy laws](https://www.theverge.com/column/882516/privacy-laws-america)
- - [Vibe camera shootout: Camp Snap Pro vs. Flashback One35 V2](https://www.theverge.com/gadgets/882641/camp-snap-pro-flashback-one35-v2-digicam-camera-comparison-review)
- - [Crime blotter: Man accused of stealing 60 iPhones from Walmart](https://appleinsider.com/articles/26/02/22/crime-blotter-man-accused-of-stealing-60-iphones-from-walmart?utm_source=rss)<!-- TECH:END -->
+ - [The Best Smart Scales of 2026 for Measuring Body Fat, Muscle Mass and More](https://www.cnet.com/health/fitness/best-smart-scales/)
+ - [Give Your Phone Photos a Warm, Dreamy Analog Film Look With These 3 Tricks](https://www.cnet.com/tech/mobile/phone-photos-tips-filters-that-make-them-look-like-analog-film/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

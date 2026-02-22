@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 😝 [HOT MIC catches Les Wexner\u2019s attorney THREATENING him during his House Oversight Committee deposition](http://9gag.com/gag/ae9wQ9v)
  - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 💣 [HOT MIC catches Les Wexner\u2019s attorney THREATENING him during his House Oversight Committee deposition](http://9gag.com/gag/ae9wQ9v)
- - 😝 [Happy ramadan, infidels!](http://9gag.com/gag/amow1N4)
- - 👉 [Thoughts?](http://9gag.com/gag/a1mjPVD)<!-- MEMES:END -->
+ - 💣 [Language Barrier](http://9gag.com/gag/aqywyvp)
+ - 😝 [Straight to jail](http://9gag.com/gag/awy2gpy)
+ - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
 
 ---
 

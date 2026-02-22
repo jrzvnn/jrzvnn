@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Man accused of stealing 60 iPhones from Walmart](https://appleinsider.com/articles/26/02/22/crime-blotter-man-accused-of-stealing-60-iphones-from-walmart?utm_source=rss)
- - [What to Know About At-Home STI Tests: Pros, Cons, and Recommendations &lpar;2026&rpar;](https://www.wired.com/story/at-home-sti-tests/)
- - [What Is Down Fill Power &lpar;2026&rpar;: Fill Weight, Synthetics](https://www.wired.com/story/what-is-down-fill-power/)
- - [AI Slop Is Destroying the Internet. These Are the People Fighting to Save It](https://www.cnet.com/tech/services-and-software/features/ai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it/)
- - [Premier League Soccer: Stream Nottingham Forest vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-nottingham-forest-vs-liverpool-live-from-anywhere/)<!-- TECH:END -->
+ - [iPhone 18 Pro may come in deep red after success of its orange predecessor](https://appleinsider.com/articles/26/02/22/iphone-18-pro-may-come-in-deep-red-after-success-of-its-orange-predecessor?utm_source=rss)
+ - [Analysis: the crypto industry has spent $288M+ on the 2026 US midterms so far, over double the 2024 cycle; crypto PAC Fairshake is the US&#39; fifth most-funded PAC &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/260222/p8#a260222p8)
+ - [America desperately needs new privacy laws](https://www.theverge.com/column/882516/privacy-laws-america)
+ - [Vibe camera shootout: Camp Snap Pro vs. Flashback One35 V2](https://www.theverge.com/gadgets/882641/camp-snap-pro-flashback-one35-v2-digicam-camera-comparison-review)
+ - [Crime blotter: Man accused of stealing 60 iPhones from Walmart](https://appleinsider.com/articles/26/02/22/crime-blotter-man-accused-of-stealing-60-iphones-from-walmart?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

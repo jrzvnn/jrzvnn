@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DAMN FUNNY!!!!!](http://9gag.com/gag/a9y0zb1)
+ - 😝 [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
+ - 😝 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
+ - 💣 [Look what I found](http://9gag.com/gag/apRw9Mn)
  - 😝 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
- - 💣 [Bro cant wait](http://9gag.com/gag/aRBdLxA)
- - 😝 [What the actual fook](http://9gag.com/gag/abAwej8)
- - 👉 [Straight to jail](http://9gag.com/gag/awy2gpy)<!-- MEMES:END -->
+ - 👉 [Bro cant wait](http://9gag.com/gag/aRBdLxA)<!-- MEMES:END -->
 
 ---
 

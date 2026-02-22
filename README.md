@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)
- - 😝 [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
- - 💣 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
- - 😝 [Indeed](http://9gag.com/gag/aKG5AKQ)
- - 👉 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)<!-- MEMES:END -->
+ - 😝 [Truth Seekers](http://9gag.com/gag/a34rG5Q)
+ - 😝 [50/50](http://9gag.com/gag/aVv5oRn)
+ - 💣 [RIP XBOX...](http://9gag.com/gag/a6Z6Xrm)
+ - 😝 [Peter Jackson is a genius.](http://9gag.com/gag/a5Q36yN)
+ - 👉 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)<!-- MEMES:END -->
 
 ---
 

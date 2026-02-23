@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will Trump’s DOJ actually take on Ticketmaster?](https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial)
- - [IBM shares fall 12%+ after Anthropic outlined in a blog post how Claude Code can automate the exploration and analysis phases of COBOL modernization &lpar;Pia Singh/CNBC&rpar;](http://www.techmeme.com/260223/p26#a260223p26)
- - [Billions of dollars later and still nobody knows what an Xbox is](https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass)
- - [Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI](https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation)
- - [Amazon plans to invest $12B in new data centers in Louisiana and says it worked with the local utility &quot;to ensure we pay 100% of the costs&quot; tied to the campus &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260223/p25#a260223p25)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 24, #519](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-24-519/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 24 #723](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-24-723/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 24, #989](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-24-989/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 24, #1711](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-24-1711/)
+ - [Streaming Service Deals for Students: Save on Peacock, HBO Max and Music](https://www.cnet.com/deals/streaming-service-deals-students/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

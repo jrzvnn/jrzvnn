@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
  - 😝 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
- - 💣 [Straight to jail](http://9gag.com/gag/awy2gpy)
- - 😝 [Im going to bed then](http://9gag.com/gag/ajPw1jQ)
- - 👉 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)<!-- MEMES:END -->
+ - 😝 [Straight to jail](http://9gag.com/gag/awy2gpy)
+ - 💣 [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
+ - 😝 [Bro cant wait](http://9gag.com/gag/aRBdLxA)
+ - 👉 [In This Economy](http://9gag.com/gag/aqyw8mY)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic says DeepSeek, MiniMax, and Moonshot violated its ToS by prompting Claude a combined 16M+ times and using distillation to train their own products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p22#a260223p22)
+ - [Apple’s newest AirTags are already on sale if you’re looking to upgrade](https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale)
+ - [Internal memo: Lightricks, creator of photo editing app Facetune, is splitting its consumer app unit from its GenAI unit LTX to better capture the growth in AI &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260223/p21#a260223p21)
  - [The creators of Dark Sky have a new weather app that shares multiple predictions](https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription)
- - [Software stocks extend their weeks-long selloff, with AppLovin, Datadog, Workday down 7%+; several of the biggest decliners were discussed in a post by Citrini &lpar;Jack Pitcher/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p20#a260223p20)
- - [Sources: Trump&#39;s &quot;Board of Peace&quot; is exploring a USD-pegged stablecoin for Gaza; a source says it will not be a &quot;Gaza Coin&quot; or a new Palestinian currency &lpar;Financial Times&rpar;](http://www.techmeme.com/260223/p19#a260223p19)
- - [The US Had a Big Battery Boom Last Year](https://www.wired.com/story/the-us-had-a-big-battery-boom-last-year/)
- - [Lamborghini is the Latest Automaker to Pull the Plug on Luxury EVs](https://www.wired.com/story/lamborghini-is-latest-to-pull-the-plug-on-luxury-evs/)<!-- TECH:END -->
+ - [Software stocks extend their weeks-long selloff, with AppLovin, Datadog, Workday down 7%+; several of the biggest decliners were discussed in a post by Citrini &lpar;Jack Pitcher/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p20#a260223p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

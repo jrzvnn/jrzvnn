@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean trade data: chip exports rose 134% YoY, while computer peripherals rose 129% in the first 20 days of February, extending gains driven by AI demand &lpar;Heesu Lee/Bloomberg&rpar;](http://www.techmeme.com/260223/p4#a260223p4)
- - [A look at the rising popularity of &quot;WorkTok&quot; videos, where employees film their daily work routines on TikTok and Instagram, particularly among Gen Z viewers &lpar;Kimi Chaddah/Financial Times&rpar;](http://www.techmeme.com/260223/p3#a260223p3)
- - [A look at Japan&#39;s Team Mirai, a party founded by software engineers that won 11 of 465 parliament seats by promising self-driving buses and high-tech jobs &lpar;New York Times&rpar;](http://www.techmeme.com/260223/p2#a260223p2)
- - [A look at CISA during Trump&#39;s second term as it navigates job cuts, continues to operate without a Senate-confirmed leader, and faces a demoralized workforce &lpar;Adam Sella/New York Times&rpar;](http://www.techmeme.com/260223/p1#a260223p1)
- - [Samsung plans to add Perplexity to Galaxy AI on the upcoming S26 series; users can launch the Perplexity agent by saying &quot;Hey Plex&quot; or with a physical button &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/260222/p22#a260222p22)<!-- TECH:END -->
+ - [A thought experiment imagines the AI-driven &quot;2028 Global Intelligence Crisis&quot;: S&amp;P down, high unemployment, and economy failing, as AI exceeds every expectation &lpar;Citrini Research&rpar;](http://www.techmeme.com/260223/p6#a260223p6)
+ - [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/)
+ - [Taara Beam provides 25Gbps connectivity over invisible beams of light](https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light)
+ - [How many AIs does it take to read a PDF?](https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure)
+ - [How Buddy Rizer, an official in Virginia&#39;s Loudoun County, helped build the world&#39;s largest data center market, with ~200 buildings spanning ~49M square feet &lpar;David Uberti/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p5#a260223p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

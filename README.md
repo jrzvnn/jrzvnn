@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data center developers are seeking credit ratings even while facilities are under construction to unlock new capital; S&amp;P, Moody&#39;s, and others expand coverage &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260223/p7#a260223p7)
  - [A thought experiment imagines the AI-driven &quot;2028 Global Intelligence Crisis&quot;: S&amp;P down, high unemployment, and economy failing, as AI exceeds every expectation &lpar;Citrini Research&rpar;](http://www.techmeme.com/260223/p6#a260223p6)
- - [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/)
- - [Taara Beam provides 25Gbps connectivity over invisible beams of light](https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light)
- - [How many AIs does it take to read a PDF?](https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure)
- - [How Buddy Rizer, an official in Virginia&#39;s Loudoun County, helped build the world&#39;s largest data center market, with ~200 buildings spanning ~49M square feet &lpar;David Uberti/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p5#a260223p5)<!-- TECH:END -->
+ - [Apple TV: 26 of the Best TV Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/best-apple-tv-shows/)
+ - [Don&#39;t Buy a Refurbished or Used Windows 10 Computer](https://www.cnet.com/tech/computing/dont-buy-a-refurbished-or-used-windows-10-computer/)
+ - [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

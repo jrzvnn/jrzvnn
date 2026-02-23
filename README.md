@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung will add Perplexity to Galaxy AI on the upcoming S26 series; users can launch the Perplexity agent by saying &quot;Hey Plex&quot; or with a physical helper button &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/260222/p22#a260222p22)
+ - [OpenAI scrambled for compute power after the Stargate project stalled; sources: OpenAI still plans to build its own data centers, but not in the near future &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/260222/p21#a260222p21)
  - [Google Antigravity users say their paid Google AI accounts were banned after linking Gemini models via OpenClaw; Peter Steinberger says he may &quot;remove support&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260222/p20#a260222p20)
- - [How Russia-linked crypto exchanges, like Bitpapa, Exmo, and others help Russian entities move money across borders, bypassing banking oversight and sanctions &lpar;Elliptic&rpar;](http://www.techmeme.com/260222/p19#a260222p19)
- - [Sources: Dell, Lenovo, and other PC makers are working with Nvidia on laptops using the Arm-based Nvidia-MediaTek system-on-a-chip, which could come in H1 2026 &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/260222/p18#a260222p18)
- - [In recent interviews, Sam Altman said AI&#39;s adoption faces more resistance than he expected, while Jensen Huang warned the &quot;doomer narrative&quot; may be winning &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/260222/p17#a260222p17)
- - [NASA Delays Launch of Artemis II Lunar Mission Once Again](https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 23, #518](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-23-518/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-23/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

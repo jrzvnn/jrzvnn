@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic details the AI Fluency Index, tracking 11 behaviors that represent human-AI collaboration and measure how people collaborate with AI &lpar;Anthropic&rpar;](http://www.techmeme.com/260223/p17#a260223p17)
- - [Discord distances itself from Persona age verification after user backlash](https://www.theverge.com/tech/878369/discord-persona-age-verification)
- - [Kohler&amp;#8217;s new shower reuses dirty water to get you clean](https://www.theverge.com/tech/883006/kohler-anthem-evocycle-smart-shower-system-water-recirculate-filter-recycle)
- - [If Big Tech cared about fighting AI slop, it wouldn’t be drowning us in it](https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube)
- - [Finnish quantum computing company IQM plans to go public via a SPAC merger with New Jersey-based Real Asset Acquisition in a deal set to value it at $1.8B &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260223/p16#a260223p16)<!-- TECH:END -->
+ - [The creators of Dark Sky have a new weather app that shares multiple predictions](https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription)
+ - [Software stocks extend their weeks-long selloff, with AppLovin, Datadog, Workday down 7%+; several of the biggest decliners were discussed in a post by Citrini &lpar;Jack Pitcher/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p20#a260223p20)
+ - [Sources: Trump&#39;s &quot;Board of Peace&quot; is exploring a USD-pegged stablecoin for Gaza; a source says it will not be a &quot;Gaza Coin&quot; or a new Palestinian currency &lpar;Financial Times&rpar;](http://www.techmeme.com/260223/p19#a260223p19)
+ - [The US Had a Big Battery Boom Last Year](https://www.wired.com/story/the-us-had-a-big-battery-boom-last-year/)
+ - [Lamborghini is the Latest Automaker to Pull the Plug on Luxury EVs](https://www.wired.com/story/lamborghini-is-latest-to-pull-the-plug-on-luxury-evs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

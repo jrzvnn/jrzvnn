@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft was forced to announce Xbox leadership changes early on Friday because the news had begun to leak to IGN, causing a day of internal chaos &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260223/p14#a260223p14)
- - [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out)
- - [Hank Green will gladly take billionaire money for education videos](https://www.theverge.com/podcast/882021/hank-green-complexly-non-profit-youtube-ai-algorithms-interview)
- - [Inside Microsoft’s big Xbox leadership shake-up](https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad)
- - [Anthropic-backed super PAC Public First Action begins running ads urging AI regulations in New Jersey; the PAC raised nearly $50M and now aims to raise $75M &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260223/p13#a260223p13)<!-- TECH:END -->
+ - [Anthropic details the AI Fluency Index, tracking 11 behaviors that represent human-AI collaboration and measure how people collaborate with AI &lpar;Anthropic&rpar;](http://www.techmeme.com/260223/p17#a260223p17)
+ - [Discord distances itself from Persona age verification after user backlash](https://www.theverge.com/tech/878369/discord-persona-age-verification)
+ - [Kohler&amp;#8217;s new shower reuses dirty water to get you clean](https://www.theverge.com/tech/883006/kohler-anthem-evocycle-smart-shower-system-water-recirculate-filter-recycle)
+ - [If Big Tech cared about fighting AI slop, it wouldn’t be drowning us in it](https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube)
+ - [Finnish quantum computing company IQM plans to go public via a SPAC merger with New Jersey-based Real Asset Acquisition in a deal set to value it at $1.8B &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260223/p16#a260223p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

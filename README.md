@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Duffel Bags We Tested While Traveling &lpar;2026&rpar;](https://www.wired.com/gallery/best-duffel-bags/)
+ - [Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/260223/p27#a260223p27)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 24, #519](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-24-519/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 24 #723](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-24-723/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 24, #989](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-24-989/)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 24, #1711](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-24-1711/)
- - [Streaming Service Deals for Students: Save on Peacock, HBO Max and Music](https://www.cnet.com/deals/streaming-service-deals-students/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 24, #989](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-24-989/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

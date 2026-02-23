@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic-backed super PAC Public First Action begins running ads urging AI regulations in New Jersey; the PAC raised nearly $50M and now aims to raise $75M &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260223/p13#a260223p13)
+ - [Aalyria, a Google spinoff and a Starlink rival that helps satellite constellations fill network gaps during disasters, raised $100M at a $1.3B valuation &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260223/p12#a260223p12)
  - [HR app Humand, used by 1.5M+ &quot;deskless&quot; workers in construction, retail, hospitals, and more, raised a $66M Series A led by Goodwater and Kaszek &lpar;Maria Clara Cobo/Bloomberg&rpar;](http://www.techmeme.com/260223/p11#a260223p11)
  - [Uber launches Uber Autonomous Solutions, offering services like insurance, roadside assistance, and &quot;AV mission control&quot; tools, and will offer fleet financing &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260223/p10#a260223p10)
- - [Nothing couldn’t wait to show off the Phone 4A](https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar)
- - [The Ultimate Guide to Seeing the Total Lunar Eclipse This March](https://www.cnet.com/science/space/marchs-full-moon-is-coming-with-a-total-lunar-eclipse-heres-when-to-see-it/)
- - [Best Puffer Jacket &lpar;2026&rpar;: Patagonia, Arc’teryx, REI](https://www.wired.com/gallery/the-best-puffer-jackets/)<!-- TECH:END -->
+ - [Nothing couldn’t wait to show off the Phone 4A](https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

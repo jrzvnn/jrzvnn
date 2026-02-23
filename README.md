@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Japan&#39;s Team Mirai, a party founded by software engineers that won 11 of 465 parliament seats by promising self-driving buses and high-tech jobs &lpar;New York Times&rpar;](http://www.techmeme.com/260223/p2#a260223p2)
+ - [A look at CISA during Trump&#39;s second term as it navigates job cuts, continues to operate without a Senate-confirmed leader, and faces a demoralized workforce &lpar;Adam Sella/New York Times&rpar;](http://www.techmeme.com/260223/p1#a260223p1)
  - [Samsung will add Perplexity to Galaxy AI on the upcoming S26 series; users can launch the Perplexity agent by saying &quot;Hey Plex&quot; or with a physical helper button &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/260222/p22#a260222p22)
- - [OpenAI scrambled for compute power after the Stargate project stalled; sources: OpenAI still plans to build its own data centers, but not in the near future &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/260222/p21#a260222p21)
- - [Google Antigravity users say their paid Google AI accounts were banned after linking Gemini models via OpenClaw; Peter Steinberger says he may &quot;remove support&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260222/p20#a260222p20)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 23, #518](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-23-518/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-23/)<!-- TECH:END -->
+ - [How OpenAI scrambled for compute as Stargate stalled amid disagreements with SoftBank; sources: building its own data centers is not OpenAI&#39;s near-term priority &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/260222/p21#a260222p21)
+ - [Google Antigravity users say their paid Google AI accounts were banned after linking Gemini models via OpenClaw; Peter Steinberger says he may &quot;remove support&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260222/p20#a260222p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Start Your Surround Sound Journey With $50 off This Klipsch Soundbar](https://www.wired.com/story/klipsch-flexus-core-200-deal-226/)
+ - [Sources: AI chipmaker Cerebras confidentially files for a US IPO after withdrawing a previous IPO last year, and a listing could take place as soon as April &lpar;The Information&rpar;](http://www.techmeme.com/260223/p28#a260223p28)
  - [6 Best Duffel Bags We Tested While Traveling &lpar;2026&rpar;](https://www.wired.com/gallery/best-duffel-bags/)
  - [Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/260223/p27#a260223p27)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 24, #519](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-24-519/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 24 #723](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-24-723/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 24, #989](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-24-989/)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked 2026 Is Days Away: Galaxy S26 Rumors, Release Date and More](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI](https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation)
+ - [Amazon plans to invest $12B in new data centers in Louisiana and says it worked with the local utility &quot;to ensure we pay 100% of the costs&quot; tied to the campus &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260223/p25#a260223p25)
  - [Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party](https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/)
  - [Some AI startups are boosting their valuations by raising capital in back-to-back or multitiered deals, raising questions about how much they are really worth &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p24#a260223p24)
- - [Ubicquia, which provides software to utilities, cities, and companies to manage energy infrastructure like transformers, raised a $106M Series D &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/260223/p23#a260223p23)
- - [Anthropic says DeepSeek, MiniMax, and Moonshot violated its ToS by prompting Claude a combined 16M+ times and using distillation to train their own products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p22#a260223p22)
- - [Apple’s newest AirTags are already on sale if you’re looking to upgrade](https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale)<!-- TECH:END -->
+ - [Is Amazon&#39;s Spring Sale Happening This Year? Here&#39;s How We&#39;re Getting Ready](https://www.cnet.com/tech/everything-we-know-about-the-amazon-spring-sale/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

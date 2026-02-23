@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Straight to jail](http://9gag.com/gag/awy2gpy)
  - 😝 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
- - 💣 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
- - 😝 [Im going to bed then](http://9gag.com/gag/ajPw1jQ)
- - 👉 [Bro cant wait](http://9gag.com/gag/aRBdLxA)<!-- MEMES:END -->
+ - 😝 [Straight to jail](http://9gag.com/gag/awy2gpy)
+ - 💣 [In This Economy](http://9gag.com/gag/aqyw8mY)
+ - 😝 [Tom Hardy spitting facts, a true man of culture](http://9gag.com/gag/a1mjDX2)
+ - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
 
 ---
 

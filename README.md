@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2026](https://www.wired.com/gallery/the-best-ipad/)
  - [Data center developers are seeking credit ratings even while facilities are under construction to unlock new capital; S&amp;P, Moody&#39;s, and others expand coverage &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260223/p7#a260223p7)
  - [A thought experiment imagines the AI-driven &quot;2028 Global Intelligence Crisis&quot;: S&amp;P down, high unemployment, and economy failing, as AI exceeds every expectation &lpar;Citrini Research&rpar;](http://www.techmeme.com/260223/p6#a260223p6)
  - [Apple TV: 26 of the Best TV Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/best-apple-tv-shows/)
- - [Don&#39;t Buy a Refurbished or Used Windows 10 Computer](https://www.cnet.com/tech/computing/dont-buy-a-refurbished-or-used-windows-10-computer/)
- - [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/)<!-- TECH:END -->
+ - [Don&#39;t Buy a Refurbished or Used Windows 10 Computer](https://www.cnet.com/tech/computing/dont-buy-a-refurbished-or-used-windows-10-computer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

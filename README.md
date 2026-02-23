@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hummmm](http://9gag.com/gag/a7oXOQA)
  - 😝 [She&#39;s pretty](http://9gag.com/gag/aoywWRe)
- - 😝 [Netflix interview](http://9gag.com/gag/ae9w92b)
- - 💣 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
- - 😝 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
+ - 💣 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
+ - 😝 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
  - 👉 [Straight to jail](http://9gag.com/gag/awy2gpy)<!-- MEMES:END -->
 
 ---

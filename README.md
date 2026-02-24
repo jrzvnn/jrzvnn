@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Start Your Surround Sound Journey With $50 off This Klipsch Soundbar](https://www.wired.com/story/klipsch-flexus-core-200-deal-226/)
- - [Sources: AI chipmaker Cerebras confidentially files for a US IPO after withdrawing a previous IPO last year, and a listing could take place as soon as April &lpar;The Information&rpar;](http://www.techmeme.com/260223/p28#a260223p28)
- - [6 Best Duffel Bags We Tested While Traveling &lpar;2026&rpar;](https://www.wired.com/gallery/best-duffel-bags/)
- - [Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/260223/p27#a260223p27)
- - [Samsung Galaxy Unpacked 2026 Is Days Away: Galaxy S26 Rumors, Release Date and More](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
+ - [Tesla sues California&#39;s DMV to reverse a ruling that found Tesla violated the law by falsely promoting its Autopilot and Full Self-Driving systems &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260223/p32#a260223p32)
+ - [A Trump administration official says DeepSeek&#39;s new model, expected next week, was trained on Nvidia Blackwell chips, in a potential US export control violation &lpar;Reuters&rpar;](http://www.techmeme.com/260223/p31#a260223p31)
+ - [Sources: Anthropic has lined up $5B to $6B for an employee share sale at a valuation of about $350B; outside investors will be buying up the insider shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/260223/p30#a260223p30)
+ - [A DOD official says xAI has agreed to let the military use Grok in classified systems and agreed to the &quot;all lawful use&quot; standard, which Anthropic has refused &lpar;Axios&rpar;](http://www.techmeme.com/260223/p29#a260223p29)
+ - [Samsung Galaxy Unpacked 2026 Is Days Away: Galaxy S26 Rumors, How to Watch and More](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

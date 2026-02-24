@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kraken launches what it claims are the first regulated perpetual futures contracts based on tokenized stocks, available to non-US users and trading 24/7 &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/260224/p28#a260224p28)
- - [Nimble, whose AI agents structure real-time web data into tables that can be queried like a database, raised a $47M Series B, bringing its total funding to $75M &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/260224/p27#a260224p27)
- - [ADT just bought the company that invented Wi-Fi motion sensing](https://www.theverge.com/tech/883661/adt-smart-home-security-origin-wireless-ai-wi-fi-motion-presence-sensing)
- - [CrowdStrike says the average breakout time for attackers moving from intrusion to other network systems fell to 29 minutes in 2025, a 65% YoY increase in speed &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/260224/p26#a260224p26)
- - [Sources: Meta aims to enter the stablecoin space in H2, with plans to integrate a vendor to administer stablecoin-backed payments and implement a new wallet &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/260224/p25#a260224p25)<!-- TECH:END -->
+ - [DOJ files reveal how Jeffrey Epstein ingratiated himself with top Microsoft executives, aiding his return to society after his release from prison in 2009 &lpar;New York Times&rpar;](http://www.techmeme.com/260224/p33#a260224p33)
+ - [The Last Mystery of Antarctica’s ‘Blood Falls’ Has Finally Been Solved](https://www.wired.com/story/the-last-mystery-of-antarcticas-blood-falls-has-finally-been-solved/)
+ - [Slang AI, which develops voice-based software for the hospitality industry that answers inbound calls, manages reservations, and more, raised a $36M Series B &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260224/p32#a260224p32)
+ - [Profound, which tracks how AI models recommend brands across millions of prompts, raised a $96M Series C at a $1B valuation, bringing its total funding to $155M &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260224/p31#a260224p31)
+ - [Samsung’s artsy Frame TV has dropped to a record-low price for a limited time](https://www.theverge.com/gadgets/883331/samsung-2025-frame-tv-anker-nano-travel-adapter-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

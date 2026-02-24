@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic introduces &quot;persona selection model&quot;, a theory to explain AI&#39;s human-like behavior, and details how AI personas form in pre-training and post-training &lpar;Anthropic&rpar;](http://www.techmeme.com/260224/p5#a260224p5)
- - [Discord says it &quot;ran a limited test of Persona in the UK&quot; to verify user ages and &quot;that test has since concluded&quot;, distancing itself from Persona amid backlash &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260224/p4#a260224p4)
- - [A look at the challenges some AI developers face in building models to extract trillions of high-quality tokens from PDFs, which are hard to parse, for training &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/260224/p3#a260224p3)
- - [Bengaluru-based Xflow, which facilitates B2B cross-border payments, raised a $16.6M Series A led by GC at an $85M valuation, bringing its total raised to $32M+ &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260224/p2#a260224p2)
- - [Filings: some Meta execs warned in 2019 that adding E2E encryption to Facebook and Instagram messaging would hinder the ability to flag CSAM to law enforcement &lpar;Reuters&rpar;](http://www.techmeme.com/260224/p1#a260224p1)<!-- TECH:END -->
+ - [Russian media: Russia opens an investigation into Telegram founder Pavel Durov for &quot;abetting terrorist activities&quot;, as it promotes its state-run rival Max app &lpar;Max Seddon/Financial Times&rpar;](http://www.techmeme.com/260224/p9#a260224p9)
+ - [The Best Laptop Tote Bags to Buy &lpar;2026&rpar;, WIRED-Tested and Reviewed](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
+ - [How Silicon Valley has long ignored China&#39;s looming Taiwan invasion and its chip supply impact; US officials warned Apple, AMD, and Qualcomm about China&#39;s plans &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/260224/p8#a260224p8)
+ - [Apple will soon make &lpar;some&rpar; Mac Minis in the US](https://www.theverge.com/tech/883581/apple-mac-mini-production-texas-houston)
+ - [Samsung&#39;s $2,899 Galaxy Z TriFold works well as a smartphone, especially for entertainment, but falls short as a tablet and laptop, marred by unpredictability &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260224/p7#a260224p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Salsa Wanderosa Electric Bike Review: Full-Suspension Drop-Bar Gravel Ride](https://www.wired.com/review/salsa-wanderosa-electric-gravel-bike/)
+ - [Court docs: the IRS seeks $16B in back taxes and penalties from Meta, arguing it failed to report ~$54B in overseas profits; in December 2025, Meta sued the IRS &lpar;Jesse Drucker/New York Times&rpar;](http://www.techmeme.com/260224/p10#a260224p10)
  - [Russian media: Russia opens an investigation into Telegram founder Pavel Durov for &quot;abetting terrorist activities&quot;, as it promotes its state-run rival Max app &lpar;Max Seddon/Financial Times&rpar;](http://www.techmeme.com/260224/p9#a260224p9)
  - [The Best Laptop Tote Bags to Buy &lpar;2026&rpar;, WIRED-Tested and Reviewed](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
- - [How Silicon Valley has long ignored China&#39;s looming Taiwan invasion and its chip supply impact; US officials warned Apple, AMD, and Qualcomm about China&#39;s plans &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/260224/p8#a260224p8)
- - [Apple will soon make &lpar;some&rpar; Mac Minis in the US](https://www.theverge.com/tech/883581/apple-mac-mini-production-texas-houston)
- - [Samsung&#39;s $2,899 Galaxy Z TriFold works well as a smartphone, especially for entertainment, but falls short as a tablet and laptop, marred by unpredictability &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260224/p7#a260224p7)<!-- TECH:END -->
+ - [How Silicon Valley has long ignored China&#39;s looming Taiwan invasion and its chip supply impact; US officials warned Apple, AMD, and Qualcomm about China&#39;s plans &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/260224/p8#a260224p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

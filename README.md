@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salsa Wanderosa Electric Bike Review: Full-Suspension Drop-Bar Gravel Ride](https://www.wired.com/review/salsa-wanderosa-electric-gravel-bike/)
- - [Court docs: the IRS seeks $16B in back taxes and penalties from Meta, arguing it failed to report ~$54B in overseas profits; in December 2025, Meta sued the IRS &lpar;Jesse Drucker/New York Times&rpar;](http://www.techmeme.com/260224/p10#a260224p10)
- - [Russian media: Russia opens an investigation into Telegram founder Pavel Durov for &quot;abetting terrorist activities&quot;, as it promotes its state-run rival Max app &lpar;Max Seddon/Financial Times&rpar;](http://www.techmeme.com/260224/p9#a260224p9)
- - [The Best Laptop Tote Bags to Buy &lpar;2026&rpar;, WIRED-Tested and Reviewed](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
- - [How Silicon Valley has long ignored China&#39;s looming Taiwan invasion and its chip supply impact; US officials warned Apple, AMD, and Qualcomm about China&#39;s plans &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/260224/p8#a260224p8)<!-- TECH:END -->
+ - [Shein founder Xu Yangtian made a rare public appearance in Guangdong, pledging to invest ~$1.45B into the province&#39;s supply chains in the next three years &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/260224/p21#a260224p21)
+ - [More Shohei Ohtani content is coming to TikTok](https://www.theverge.com/tech/883266/tiktok-mlb-content-partnership-world-series-creators)
+ - [ADT agrees to acquire Origin Wireless for $170M to integrate advanced AI motion classification into its popular home security suite starting in 2027 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260224/p20#a260224p20)
+ - [MatX, an AI chip startup founded by two alumni of Google&#39;s chip business, raised $500M+ led by Jane Street and Situational Awareness to compete with Nvidia &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260224/p19#a260224p19)
+ - [Stripe hits a $159B valuation after an employee share sale to investors like Thrive, Coatue, and a16z, a 70% jump from its $92B valuation in February 2025 &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/260224/p18#a260224p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

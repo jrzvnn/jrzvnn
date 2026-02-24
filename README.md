@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will block users in Australia, Brazil, and Singapore from downloading apps rated 18+ without age assurance and rolls out new age assurance tools for devs &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260224/p46#a260224p46)
+ - [Let me see some ID: age verification is spreading across the internet](https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety)
+ - [Sources: Stripe, which is privately held, has expressed preliminary interest in a potential acquisition of PayPal or its assets; PYPL jumps 7%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260224/p45#a260224p45)
  - [Sources: CoreWeave is seeking an ~$8.5B loan from banks, backed by a contract Meta signed last year to pay CoreWeave up to $14.2B for its services &lpar;Bloomberg&rpar;](http://www.techmeme.com/260224/p44#a260224p44)
- - [Source: Anthropic has no intention of easing Claude usage restrictions for military purposes, following Dario Amodei&#39;s meeting with Pete Hegseth &lpar;David Jeans/Reuters&rpar;](http://www.techmeme.com/260224/p43#a260224p43)
- - [Anthropic overhauls its Responsible Scaling Policy, including scrapping a promise to not release AI models if Anthropic can&#39;t guarantee proper risk mitigations &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/260224/p42#a260224p42)
- - [A California judge dismisses a lawsuit from xAI that accused OpenAI of stealing its trade secrets, with permission for xAI to refile the case at a later date &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260224/p41#a260224p41)
- - [&#39;Survivor 50&#39;: How to Watch the Premiere Without Cable](https://www.cnet.com/tech/services-and-software/survivor-50-how-to-watch-the-premiere-without-cable/)<!-- TECH:END -->
+ - [Source: Anthropic has no intention of easing Claude usage restrictions for military purposes, following Dario Amodei&#39;s meeting with Pete Hegseth &lpar;David Jeans/Reuters&rpar;](http://www.techmeme.com/260224/p43#a260224p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

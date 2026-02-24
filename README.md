@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ files reveal how Jeffrey Epstein ingratiated himself with top Microsoft executives, aiding his return to society after his release from prison in 2009 &lpar;New York Times&rpar;](http://www.techmeme.com/260224/p33#a260224p33)
- - [The Last Mystery of Antarctica’s ‘Blood Falls’ Has Finally Been Solved](https://www.wired.com/story/the-last-mystery-of-antarcticas-blood-falls-has-finally-been-solved/)
- - [Slang AI, which develops voice-based software for the hospitality industry that answers inbound calls, manages reservations, and more, raised a $36M Series B &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260224/p32#a260224p32)
- - [Profound, which tracks how AI models recommend brands across millions of prompts, raised a $96M Series C at a $1B valuation, bringing its total funding to $155M &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260224/p31#a260224p31)
- - [Samsung’s artsy Frame TV has dropped to a record-low price for a limited time](https://www.theverge.com/gadgets/883331/samsung-2025-frame-tv-anker-nano-travel-adapter-deal-sale)<!-- TECH:END -->
+ - [SambaNova, which says its SN50 AI chip runs 5x faster than its rivals and will be deployed by SoftBank, raised a $350M Series E led by Vista Equity and Cambium &lpar;Bloomberg&rpar;](http://www.techmeme.com/260224/p35#a260224p35)
+ - [PlayStation’s Wolverine game hits PS5 in September](https://www.theverge.com/games/883760/playstation-marvels-wolverine-release-date-insomniac-games)
+ - [Archer Aviation accuses rival Vertical Aerospace of ripping off its air taxi designs](https://www.theverge.com/transportation/883648/archer-vertical-patent-infringement-air-taxi)
+ - [DJI sues over the FCC’s decision to block new drone imports](https://www.theverge.com/tech/883734/dji-fcc-lawsuit-drone-import-ban)
+ - [YouTube Boosts Premium Lite Plan With Two Big Feature Changes](https://www.cnet.com/tech/services-and-software/youtube-adds-background-play-and-downloads-to-premium-lite-plan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

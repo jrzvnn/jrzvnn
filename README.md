@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop](https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke)
- - [Waymo opens its robotaxi service to &quot;select riders&quot; in Dallas, Houston, San Antonio, and Orlando, expanding its operations to 10 US cities &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260224/p37#a260224p37)
- - [Do Smart Glasses Make Cooking Easier? Here&#39;s My Take After Real-World Testing](https://www.cnet.com/home/smart-home/i-tried-cooking-with-smart-glasses/)
- - [OpenAI and Google Take Steps to Avoid Abusive AI Imagery After Grok Scandal](https://www.cnet.com/tech/services-and-software/openai-and-google-take-steps-to-avoid-abusive-ai-imagery-after-grok-scandal/)
- - [You can still get $30 in Samsung credit when you reserve a Galaxy S26 phone](https://www.theverge.com/gadgets/883686/samsung-galaxy-s26-plus-ultra-reserve-preorder-unpacked-deal-sale)<!-- TECH:END -->
+ - [Save $20 On Our Favorite Gaming Headset](https://www.wired.com/story/arctis-nova-3-deal-226/)
+ - [Discord is delaying its global age verification rollout](https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay)
+ - [10 of the Best Movies on Hulu You Should Stream Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-movies-on-hulu-you-should-stream-now/)
+ - [Sources: DoD told Anthropic it will invoke the Defense Production Act or label Anthropic a &quot;supply chain risk&quot;, if not given unfettered Claude access by Friday &lpar;Axios&rpar;](http://www.techmeme.com/260224/p38#a260224p38)
+ - [1Password is going up in price](https://www.theverge.com/tech/883837/1password-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

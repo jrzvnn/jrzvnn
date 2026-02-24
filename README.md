@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge sentences ex-L3Harris exec Peter Williams to over 7 years in prison, after he pleaded guilty in 2025 to theft of trade secrets and selling exploits &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/260224/p49#a260224p49)
  - [The US Treasury sanctions Russian zero-day broker Operation Zero, its founder Sergey Zelenyuk, and others for acquiring and reselling stolen US defense exploits &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260224/p48#a260224p48)
  - [Sources: MacBook Pros with touch screens, due this fall, will have a Dynamic Island and a refreshed, dynamic UI optimized for touch or point-and-click input &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260224/p47#a260224p47)
  - [Galaxy Unpacked 2026: Samsung&#39;s S26 Reveal Is One Day Away](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
- - [Apple will block users in Australia, Brazil, and Singapore from downloading apps rated 18+ without age assurance and rolls out new age assurance tools for devs &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260224/p46#a260224p46)
- - [Let me see some ID: age verification is spreading across the internet](https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety)<!-- TECH:END -->
+ - [Apple will block users in Australia, Brazil, and Singapore from downloading apps rated 18+ without age assurance and rolls out new age assurance tools for devs &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260224/p46#a260224p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

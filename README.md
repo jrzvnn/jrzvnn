@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Treasury sanctions Russian zero-day broker Operation Zero, its founder Sergey Zelenyuk, and others for acquiring and reselling stolen US defense exploits &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260224/p48#a260224p48)
+ - [Sources: MacBook Pros with touch screens, due this fall, will have a Dynamic Island and a refreshed, dynamic UI optimized for touch or point-and-click input &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260224/p47#a260224p47)
+ - [Galaxy Unpacked 2026: Samsung&#39;s S26 Reveal Is One Day Away](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
  - [Apple will block users in Australia, Brazil, and Singapore from downloading apps rated 18+ without age assurance and rolls out new age assurance tools for devs &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260224/p46#a260224p46)
- - [Let me see some ID: age verification is spreading across the internet](https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety)
- - [Sources: Stripe, which is privately held, has expressed preliminary interest in a potential acquisition of PayPal or its assets; PYPL jumps 7%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260224/p45#a260224p45)
- - [Sources: CoreWeave is seeking an ~$8.5B loan from banks, backed by a contract Meta signed last year to pay CoreWeave up to $14.2B for its services &lpar;Bloomberg&rpar;](http://www.techmeme.com/260224/p44#a260224p44)
- - [Source: Anthropic has no intention of easing Claude usage restrictions for military purposes, following Dario Amodei&#39;s meeting with Pete Hegseth &lpar;David Jeans/Reuters&rpar;](http://www.techmeme.com/260224/p43#a260224p43)<!-- TECH:END -->
+ - [Let me see some ID: age verification is spreading across the internet](https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

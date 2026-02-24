@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now](https://www.wired.com/story/jbl-flip-7-deal-0223/)
+ - [YouTube updates its $7.99 per month Premium Lite subscription to let users download videos for offline access and play videos in the background &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260224/p39#a260224p39)
  - [Save $20 On Our Favorite Gaming Headset](https://www.wired.com/story/arctis-nova-3-deal-226/)
  - [Discord is delaying its global age verification rollout](https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay)
- - [10 of the Best Movies on Hulu You Should Stream Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-movies-on-hulu-you-should-stream-now/)
- - [Sources: DoD told Anthropic it will invoke the Defense Production Act or label Anthropic a &quot;supply chain risk&quot;, if not given unfettered Claude access by Friday &lpar;Axios&rpar;](http://www.techmeme.com/260224/p38#a260224p38)
- - [1Password is going up in price](https://www.theverge.com/tech/883837/1password-price-increase)<!-- TECH:END -->
+ - [10 of the Best Movies on Hulu You Should Stream Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-movies-on-hulu-you-should-stream-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

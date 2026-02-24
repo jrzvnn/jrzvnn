@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Claude Code Claude Codes](https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast)
- - [Google says AI music generation platform ProducerAI is joining Labs and will be powered by a Lyria 3 preview version; ProducerAI was developed alongside artists &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260224/p23#a260224p23)
- - [Tide’s Evo Tiles Are a Fresh, Overengineered Take on the Tide Pod](https://www.wired.com/story/tide-evo-tiles/)
- - [Samsung is on slop watch at Unpacked](https://www.theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026)
- - [This Chainsmokers-approved AI music producer is joining Google](https://www.theverge.com/tech/883307/google-producerai-deal-music)<!-- TECH:END -->
+ - [Kraken launches what it claims are the first regulated perpetual futures contracts based on tokenized stocks, available to non-US users and trading 24/7 &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/260224/p28#a260224p28)
+ - [Nimble, whose AI agents structure real-time web data into tables that can be queried like a database, raised a $47M Series B, bringing its total funding to $75M &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/260224/p27#a260224p27)
+ - [ADT just bought the company that invented Wi-Fi motion sensing](https://www.theverge.com/tech/883661/adt-smart-home-security-origin-wireless-ai-wi-fi-motion-presence-sensing)
+ - [CrowdStrike says the average breakout time for attackers moving from intrusion to other network systems fell to 29 minutes in 2025, a 65% YoY increase in speed &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/260224/p26#a260224p26)
+ - [Sources: Meta aims to enter the stablecoin space in H2, with plans to integrate a vendor to administer stablecoin-backed payments and implement a new wallet &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/260224/p25#a260224p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

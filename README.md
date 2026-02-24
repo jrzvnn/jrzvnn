@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SambaNova, which says its SN50 AI chip runs 5x faster than its rivals and will be deployed by SoftBank, raised a $350M Series E led by Vista Equity and Cambium &lpar;Bloomberg&rpar;](http://www.techmeme.com/260224/p35#a260224p35)
- - [PlayStation’s Wolverine game hits PS5 in September](https://www.theverge.com/games/883760/playstation-marvels-wolverine-release-date-insomniac-games)
- - [Archer Aviation accuses rival Vertical Aerospace of ripping off its air taxi designs](https://www.theverge.com/transportation/883648/archer-vertical-patent-infringement-air-taxi)
- - [DJI sues over the FCC’s decision to block new drone imports](https://www.theverge.com/tech/883734/dji-fcc-lawsuit-drone-import-ban)
- - [YouTube Boosts Premium Lite Plan With Two Big Feature Changes](https://www.cnet.com/tech/services-and-software/youtube-adds-background-play-and-downloads-to-premium-lite-plan/)<!-- TECH:END -->
+ - [Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop](https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke)
+ - [Waymo opens its robotaxi service to &quot;select riders&quot; in Dallas, Houston, San Antonio, and Orlando, expanding its operations to 10 US cities &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260224/p37#a260224p37)
+ - [Do Smart Glasses Make Cooking Easier? Here&#39;s My Take After Real-World Testing](https://www.cnet.com/home/smart-home/i-tried-cooking-with-smart-glasses/)
+ - [OpenAI and Google Take Steps to Avoid Abusive AI Imagery After Grok Scandal](https://www.cnet.com/tech/services-and-software/openai-and-google-take-steps-to-avoid-abusive-ai-imagery-after-grok-scandal/)
+ - [You can still get $30 in Samsung credit when you reserve a Galaxy S26 phone](https://www.theverge.com/gadgets/883686/samsung-galaxy-s26-plus-ultra-reserve-preorder-unpacked-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

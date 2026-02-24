@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it plans to move some production of Mac Mini to Houston from Asia later in 2026, as part of its efforts to invest $600B in the US over four years &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p35#a260223p35)
+ - [The administrator winding down Terraform Labs sues Jane Street, alleging it engaged in insider trading to profit from and ultimately hasten Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p34#a260223p34)
+ - [How Binance staffers found $1B was sent to sanctioned Iranian entities via the exchange, which dismantled their probe and suspended them after Trump pardoned CZ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p33#a260223p33)
  - [Tesla sues California&#39;s DMV to reverse a ruling that found Tesla violated the law by falsely promoting its Autopilot and Full Self-Driving systems &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260223/p32#a260223p32)
- - [A Trump administration official says DeepSeek&#39;s new model, expected next week, was trained on Nvidia Blackwell chips, in a potential US export control violation &lpar;Reuters&rpar;](http://www.techmeme.com/260223/p31#a260223p31)
- - [Sources: Anthropic has lined up $5B to $6B for an employee share sale at a valuation of about $350B; outside investors will be buying up the insider shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/260223/p30#a260223p30)
- - [A DOD official says xAI has agreed to let the military use Grok in classified systems and agreed to the &quot;all lawful use&quot; standard, which Anthropic has refused &lpar;Axios&rpar;](http://www.techmeme.com/260223/p29#a260223p29)
- - [Samsung Galaxy Unpacked 2026 Is Days Away: Galaxy S26 Rumors, How to Watch and More](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
+ - [A Trump administration official says DeepSeek&#39;s new model, expected next week, was trained on Nvidia Blackwell chips, in a potential US export control violation &lpar;Reuters&rpar;](http://www.techmeme.com/260223/p31#a260223p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

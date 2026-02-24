@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Luan, the head of Amazon&#39;s AGI lab, is leaving the company less than two years after he joined through an acqui-hire deal of his startup Adept &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260224/p50#a260224p50)
- - [Oura Ring Wants to Put an OB-GYN on Your Finger With New AI for Women’s Health](https://www.cnet.com/health/oura-ring-ai-model-womens-health/)
- - [A US judge sentences ex-L3Harris exec Peter Williams to over 7 years in prison, after he pleaded guilty in 2025 to theft of trade secrets and selling exploits &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/260224/p49#a260224p49)
+ - [Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files](https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/)
+ - [OpenAI defeats xAI’s trade secrets lawsuit](https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit)
  - [Galaxy Unpacked 2026: Samsung&#39;s S26 Reveal Is One Day Away](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
- - [Probiotic Sodas Are Trending, but Are They Healthy? We Asked Medical Experts](https://www.cnet.com/health/nutrition/does-healthy-soda-exist-experts-weigh-in-on-trendy-beverages/)<!-- TECH:END -->
+ - [Marvel&#39;s Wolverine Finally Has a Release Date, and It&#39;s Soon](https://www.cnet.com/tech/gaming/marvels-wolverine-finally-has-a-release-date-and-its-soon/)
+ - [Eufy&#39;s Newest Robot Vacuum Has the Longest Roller Mop We&#39;ve Seen for the Price](https://www.cnet.com/home/kitchen-and-household/eufys-newest-robot-vacuum-longest-roller-mop-price/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

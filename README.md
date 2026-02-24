@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s efforts to reshore the US chip supply chain, as the company commits to buying more than 100M chips from TSMC Arizona in 2026 &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p36#a260223p36)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-24/)
  - [Apple says it plans to move some production of Mac Mini to Houston from Asia later in 2026, as part of its efforts to invest $600B in the US over four years &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p35#a260223p35)
  - [The administrator winding down Terraform Labs sues Jane Street, alleging it engaged in insider trading to profit from and ultimately hasten Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p34#a260223p34)
- - [How Binance staffers found $1B was sent to sanctioned Iranian entities via the exchange, which dismantled their probe and suspended them after Trump pardoned CZ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p33#a260223p33)
- - [Tesla sues California&#39;s DMV to reverse a ruling that found Tesla violated the law by falsely promoting its Autopilot and Full Self-Driving systems &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260223/p32#a260223p32)
- - [A Trump administration official says DeepSeek&#39;s new model, expected next week, was trained on Nvidia Blackwell chips, in a potential US export control violation &lpar;Reuters&rpar;](http://www.techmeme.com/260223/p31#a260223p31)<!-- TECH:END -->
+ - [How Binance staffers found $1B was sent to sanctioned Iranian entities via the exchange, which dismantled their probe and suspended them after Trump pardoned CZ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p33#a260223p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

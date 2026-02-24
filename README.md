@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shein founder Xu Yangtian made a rare public appearance in Guangdong, pledging to invest ~$1.45B into the province&#39;s supply chains in the next three years &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/260224/p21#a260224p21)
- - [More Shohei Ohtani content is coming to TikTok](https://www.theverge.com/tech/883266/tiktok-mlb-content-partnership-world-series-creators)
- - [ADT agrees to acquire Origin Wireless for $170M to integrate advanced AI motion classification into its popular home security suite starting in 2027 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260224/p20#a260224p20)
- - [MatX, an AI chip startup founded by two alumni of Google&#39;s chip business, raised $500M+ led by Jane Street and Situational Awareness to compete with Nvidia &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260224/p19#a260224p19)
- - [Stripe hits a $159B valuation after an employee share sale to investors like Thrive, Coatue, and a16z, a 70% jump from its $92B valuation in February 2025 &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/260224/p18#a260224p18)<!-- TECH:END -->
+ - [How Claude Code Claude Codes](https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast)
+ - [Google says AI music generation platform ProducerAI is joining Labs and will be powered by a Lyria 3 preview version; ProducerAI was developed alongside artists &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260224/p23#a260224p23)
+ - [Tide’s Evo Tiles Are a Fresh, Overengineered Take on the Tide Pod](https://www.wired.com/story/tide-evo-tiles/)
+ - [Samsung is on slop watch at Unpacked](https://www.theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026)
+ - [This Chainsmokers-approved AI music producer is joining Google](https://www.theverge.com/tech/883307/google-producerai-deal-music)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

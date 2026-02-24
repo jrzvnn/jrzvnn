@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now](https://www.wired.com/story/jbl-flip-7-deal-0223/)
- - [YouTube updates its $7.99 per month Premium Lite subscription to let users download videos for offline access and play videos in the background &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260224/p39#a260224p39)
- - [Save $20 On Our Favorite Gaming Headset](https://www.wired.com/story/arctis-nova-3-deal-226/)
- - [Discord is delaying its global age verification rollout](https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay)
- - [10 of the Best Movies on Hulu You Should Stream Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-movies-on-hulu-you-should-stream-now/)<!-- TECH:END -->
+ - [Sources: CoreWeave is seeking an ~$8.5B loan from banks, backed by a contract Meta signed last year to pay CoreWeave up to $14.2B for its services &lpar;Bloomberg&rpar;](http://www.techmeme.com/260224/p44#a260224p44)
+ - [Source: Anthropic has no intention of easing Claude usage restrictions for military purposes, following Dario Amodei&#39;s meeting with Pete Hegseth &lpar;David Jeans/Reuters&rpar;](http://www.techmeme.com/260224/p43#a260224p43)
+ - [Anthropic overhauls its Responsible Scaling Policy, including scrapping a promise to not release AI models if Anthropic can&#39;t guarantee proper risk mitigations &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/260224/p42#a260224p42)
+ - [A California judge dismisses a lawsuit from xAI that accused OpenAI of stealing its trade secrets, with permission for xAI to refile the case at a later date &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260224/p41#a260224p41)
+ - [&#39;Survivor 50&#39;: How to Watch the Premiere Without Cable](https://www.cnet.com/tech/services-and-software/survivor-50-how-to-watch-the-premiere-without-cable/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

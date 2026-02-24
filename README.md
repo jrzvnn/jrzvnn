@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [David Luan, the head of Amazon&#39;s AGI lab, is leaving the company less than two years after he joined through an acqui-hire deal of his startup Adept &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260224/p50#a260224p50)
+ - [Oura Ring Wants to Put an OB-GYN on Your Finger With New AI for Women’s Health](https://www.cnet.com/health/oura-ring-ai-model-womens-health/)
  - [A US judge sentences ex-L3Harris exec Peter Williams to over 7 years in prison, after he pleaded guilty in 2025 to theft of trade secrets and selling exploits &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/260224/p49#a260224p49)
- - [The US Treasury sanctions Russian zero-day broker Operation Zero, its founder Sergey Zelenyuk, and others for acquiring and reselling stolen US defense exploits &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260224/p48#a260224p48)
- - [Sources: MacBook Pros with touch screens, due this fall, will have a Dynamic Island and a refreshed, dynamic UI optimized for touch or point-and-click input &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260224/p47#a260224p47)
  - [Galaxy Unpacked 2026: Samsung&#39;s S26 Reveal Is One Day Away](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
- - [Apple will block users in Australia, Brazil, and Singapore from downloading apps rated 18+ without age assurance and rolls out new age assurance tools for devs &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260224/p46#a260224p46)<!-- TECH:END -->
+ - [Probiotic Sodas Are Trending, but Are They Healthy? We Asked Medical Experts](https://www.cnet.com/health/nutrition/does-healthy-soda-exist-experts-weigh-in-on-trendy-beverages/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

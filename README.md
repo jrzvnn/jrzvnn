@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and Samsung just launched the AI features Apple couldn’t with Siri](https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri)
- - [Source: Google plans to test search changes in Europe, displaying results from competing vertical search services next to its own, seeking to avoid EU fines &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260225/p41#a260225p41)
- - [Anthropic acquires Vercept, whose Vy desktop agent lets users control a Mac or PC with natural language, to &quot;advance Claude&#39;s computer use capabilities&quot; &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260225/p40#a260225p40)
- - [Big Shock: Samsung&#39;s Galaxy S26 Ultra Camera Updates Have a Ton of AI](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-camera-updates/)
- - [After Backlash, Discord Will Delay Age Verification Changes to Its Platform](https://www.cnet.com/tech/services-and-software/discord-delays-age-verification-changes/)<!-- TECH:END -->
+ - [The Peace Corps is recruiting volunteers to sell AI to developing nations](https://www.theverge.com/policy/884625/peace-corps-tech-promote-american-ai)
+ - [Leaked Thrive deck: $26.8B in AUM as of June 30, 2025, deal value peaked in Q4 2021, positive DPI for four early funds, including 2.4x for 2016&#39;s Thrive V, more &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/260225/p42#a260225p42)
+ - [Trump claims he’ll make data centers pay for their own power supply](https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump)
+ - [Podcast Listenership Outranks Talk Radio for the First Time in History](https://www.cnet.com/tech/services-and-software/podcasts-officially-outrank-talk-radio-for-the-first-time-in-history/)
+ - [Galaxy Unpacked 2026 Live Updates: Samsung&#39;s S26 Reveal Is Here](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

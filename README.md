@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s touchscreen MacBooks might also have a Dynamic Island](https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island)
- - [Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files](https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/)
- - [OpenAI defeats xAI’s trade secrets lawsuit](https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit)
- - [Galaxy Unpacked 2026: Samsung&#39;s S26 Reveal Is One Day Away](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
- - [Marvel&#39;s Wolverine Finally Has a Release Date, and It&#39;s Soon](https://www.cnet.com/tech/gaming/marvels-wolverine-finally-has-a-release-date-and-its-soon/)<!-- TECH:END -->
+ - [A look at how both small and large companies are tracking and enforcing employees&#39; AI usage and considering it during performance reviews &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260224/p54#a260224p54)
+ - [Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire](https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg)
+ - [Anthropic starts rolling out Remote Control for Claude Code, letting users control a session begun in the terminal from the Claude mobile app or the web &lpar;Claude/@claudeai&rpar;](http://www.techmeme.com/260224/p53#a260224p53)
+ - [Uber Moves Into Parking in Deal to Acquire SpotHero](https://www.cnet.com/roadshow/news/uber-buys-spothero-adding-parking-reservations/)
+ - [Apple&amp;#8217;s new age verification tools block underage app downloads where required by law](https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

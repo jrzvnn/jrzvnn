@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gambit Security: an unknown hacker used Claude to steal 150GB of Mexican government data, including 195M taxpayer records, in December 2025 and January 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p24#a260225p24)
- - [Xiaomi&amp;#8217;s magnetic power bank is incredibly thin](https://www.theverge.com/tech/884330/xiaomi-ultra-thin-magnetic-magsafe-power-bank-5000-qi2)
- - [Insurance brokerage Harper, which uses AI to automate submission routing and follow-up, raised $46.8M in combined Series A and seed led by Emergence Capital &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260225/p23#a260225p23)
- - [Galaxy Unpacked 2026: Samsung&#39;s S26 Reveal Is Just Hours Away](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
- - [Does Anthropic think Claude is alive? Define ‘alive’](https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution)<!-- TECH:END -->
+ - [Fanttik’s foldable V10 Apex vacuum is on sale for the lowest price we’ve seen](https://www.theverge.com/gadgets/883696/fanttik-fold-v10-apex-foldable-car-vacuum-astro-bot-ps5-deal-sale)
+ - [Sensor Tower: EA led all publishers in 2025 with 200M+ PC and console downloads, ahead of its $55B deal to go private; Fortnite had the top console player base &lpar;Payton Turkeltaub/Variety&rpar;](http://www.techmeme.com/260225/p25#a260225p25)
+ - [Amazon&amp;#8217;s AGI lab leader is leaving](https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure)
+ - [Galaxy Unpacked 2026: Samsung&#39;s S26 Reveal Is Almost Here](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
+ - [We played Resident Evil Requiem, ask us anything](https://www.theverge.com/entertainment/884295/resident-evil-requiem-ask-me-anything)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

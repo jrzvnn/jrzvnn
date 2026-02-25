@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google and Samsung just launched the AI features Apple couldn’t with Siri](https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri)
+ - [Source: Google plans to test search changes in Europe, displaying results from competing vertical search services next to its own, seeking to avoid EU fines &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260225/p41#a260225p41)
  - [Anthropic acquires Vercept, whose Vy desktop agent lets users control a Mac or PC with natural language, to &quot;advance Claude&#39;s computer use capabilities&quot; &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260225/p40#a260225p40)
  - [Big Shock: Samsung&#39;s Galaxy S26 Ultra Camera Updates Have a Ton of AI](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-camera-updates/)
- - [After Backlash, Discord Will Delay Age Verification Changes to Its Platform](https://www.cnet.com/tech/services-and-software/discord-delays-age-verification-changes/)
- - [New Mexico&#39;s Meta lawsuit: some police officers testify that Meta&#39;s AI is sending a flood of &quot;junk&quot; CSAM reports that are draining resources and slowing cases &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/260225/p39#a260225p39)
- - [Galaxy Unpacked 2026 Live Updates: Samsung&#39;s S26 Reveal Is Here](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/)<!-- TECH:END -->
+ - [After Backlash, Discord Will Delay Age Verification Changes to Its Platform](https://www.cnet.com/tech/services-and-software/discord-delays-age-verification-changes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

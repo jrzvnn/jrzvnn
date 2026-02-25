@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD will buy $150M in Nutanix stock and provide up to $100M to fund joint initiatives to develop an infrastructure platform for powering AI applications &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p46#a260225p46)
+ - [How the new Galaxy S26 phones stack up against each other on paper](https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison)
+ - [Alexa Plus Now Adapts to Your Moods in Real Time: We Try It Out](https://www.cnet.com/tech/services-and-software/alexa-plus-is-trying-to-be-brief-chill-or-sweet-i-gave-it-a-test-run/)
  - [Sources: DeepSeek did not share its upcoming V4 model with US chipmakers, including AMD and Nvidia, but granted early access to Chinese companies like Huawei &lpar;Reuters&rpar;](http://www.techmeme.com/260225/p45#a260225p45)
- - [Corsair is halting Drop sales after March 25th](https://www.theverge.com/news/884824/corsair-ending-drop-shopping-site)
- - [Nvidia reports Q4 revenue up 73% YoY to $68.13B, vs. $66.21B est., Data Center revenue up 75% to $62.3B, and forecasts Q1 revenue above estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260225/p44#a260225p44)
- - [Salesforce reports Q4 revenue up 12% YoY to $11.2B, vs. $11.18B est., forecasts Q1 revenue above estimates, and announces a $50B share repurchase program &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260225/p43#a260225p43)
- - [Galaxy Unpacked 2026 Live Updates: Samsung&#39;s S26 Reveal Is Here](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/)<!-- TECH:END -->
+ - [On Expands Robot Factories to Manufacture Its Cloud-Like Sneakers](https://www.cnet.com/tech/on-expands-robot-factories-to-manufacture-its-running-sneakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

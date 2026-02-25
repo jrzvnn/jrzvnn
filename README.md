@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Thrive invested $1B in OpenAI in 2025 at a $285B valuation in a transaction akin to a call option; OpenAI was separately raising at a $830B valuation &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p38#a260225p38)
- - [Perplexity launches Perplexity Computer, &quot;a general-purpose digital worker&quot; that can route work across 19 AI models, available initially for Max subscribers &lpar;Jason Hiner/The Deep View&rpar;](http://www.techmeme.com/260225/p37#a260225p37)
- - [Google launches task automation for Gemini on Pixel 10 and Samsung Galaxy S26, enabling it to autonomously navigate apps like Uber and DoorDash &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260225/p36#a260225p36)
- - [Hands-on with Galaxy S26 Ultra&#39;s Privacy Display: very impressive with a dual-pixel system that allows users to toggle viewing angles to prevent side-peeking &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260225/p35#a260225p35)
- - [Source: Amazon, Google, Meta, Microsoft, xAI, Oracle, and OpenAI will sign White House&#39;s initiative to build their own electricity supply for AI data centers &lpar;Emma Colton/Fox News&rpar;](http://www.techmeme.com/260225/p34#a260225p34)<!-- TECH:END -->
+ - [Anthropic acquires Vercept, whose Vy desktop agent lets users control a Mac or PC with natural language, to &quot;advance Claude&#39;s computer use capabilities&quot; &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260225/p40#a260225p40)
+ - [Big Shock: Samsung&#39;s Galaxy S26 Ultra Camera Updates Have a Ton of AI](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-camera-updates/)
+ - [After Backlash, Discord Will Delay Age Verification Changes to Its Platform](https://www.cnet.com/tech/services-and-software/discord-delays-age-verification-changes/)
+ - [New Mexico&#39;s Meta lawsuit: some police officers testify that Meta&#39;s AI is sending a flood of &quot;junk&quot; CSAM reports that are draining resources and slowing cases &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/260225/p39#a260225p39)
+ - [Galaxy Unpacked 2026 Live Updates: Samsung&#39;s S26 Reveal Is Here](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

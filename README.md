@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workday reports Q4 revenue up 14.5% YoY to $2.53B, vs. $2.52B est., and forecasts FY 2027 subscription revenue below estimates; WDAY drops 9%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/260225/p7#a260225p7)
- - [A look at TAT-8, the first transoceanic fiber-optic cable, which went into service in 1988, was retired in 2002, and is now being pulled up for recycling &lpar;Jane Ruffino/Wired&rpar;](http://www.techmeme.com/260225/p6#a260225p6)
- - [Galaxy Unpacked 2026: Samsung&#39;s S26 Reveal Is Just Hours Away](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
- - [A look at Motif Technologies and Upstage, South Korean AI startups competing with SK Group and LG in the race for a national AI foundation model &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260225/p5#a260225p5)
- - [Peacock Promo Codes: 40% Off February 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [DoorDash says it plans to exit Qatar, Singapore, Japan and Uzbekistan, winding down both Deliveroo and Wolt, and make limited operational changes elsewhere &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p11#a260225p11)
+ - [Malaysia blocks access to Grindr&#39;s and Blued&#39;s websites and says it may engage with Google and Apple to curb the LGBTQ dating apps in the Muslim-majority nation &lpar;Anuradha Raghu/Bloomberg&rpar;](http://www.techmeme.com/260225/p10#a260225p10)
+ - [Sources: Japan&#39;s FTC raids Microsoft&#39;s Japan offices as part of a probe into whether Azure customers were improperly hindered from using other cloud services &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260225/p9#a260225p9)
+ - [On Running Is Finally Ramping Up Production of Its ‘Hyper-Foam’ Spray-On Shoes](https://www.wired.com/story/on-lightspray-cloudmaster-3-hyper/)
+ - [Workday CEO Aneel Bhusri says Anthropic, Google, and OpenAI use Workday tools and &quot;no amount of vibe coding&quot; could replace them; WDAY is down about 40% YTD &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p8#a260225p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

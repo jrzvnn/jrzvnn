@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Live: Samsung unveils new Galaxy phones](https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026)
+ - [Samsung Unpacked 2026: live updates from the Galaxy S26 announcement event](https://www.theverge.com/tech/883932/samsung-unpacked-2026-live-updates-galaxy-s26-announcement)
+ - [Kalshi says it has suspended an editor for MrBeast and a former GOP California gubernatorial candidate for insider trading, its first public enforcement action &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260225/p28#a260225p28)
  - [A White House Staffer Appears to Run Massive Pro-Trump X Account](https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-trump-meme-page/)
- - [Court records: the FBI subpoenaed X for details about Grok prompts a man allegedly used to create 200+ sexual deepfakes of a woman he knew in real life &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/260225/p27#a260225p27)
- - [Spotify&amp;#8217;s Smart Reorder treats your playlists like a DJ set](https://www.theverge.com/entertainment/884399/spotify-mix-smart-reorder-feature)
- - [Galaxy Unpacked 2026 Live Updates: Samsung&#39;s S26 Reveal Is Almost Here](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
- - [MAGA Is Raging Over the Epstein Files. But They’re Not Mad at Donald Trump](https://www.wired.com/story/maga-is-still-very-angry-about-epstein-but-they-wont-blame-trump/)<!-- TECH:END -->
+ - [Court records: the FBI subpoenaed X for details about Grok prompts a man allegedly used to create 200+ sexual deepfakes of a woman he knew in real life &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/260225/p27#a260225p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

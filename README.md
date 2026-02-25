@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live: Samsung unveils new Galaxy phones](https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026)
- - [Samsung Unpacked 2026: live updates from the Galaxy S26 announcement event](https://www.theverge.com/tech/883932/samsung-unpacked-2026-live-updates-galaxy-s26-announcement)
- - [Kalshi says it has suspended an editor for MrBeast and a former GOP California gubernatorial candidate for insider trading, its first public enforcement action &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260225/p28#a260225p28)
- - [A White House Staffer Appears to Run Massive Pro-Trump X Account](https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-trump-meme-page/)
- - [Court records: the FBI subpoenaed X for details about Grok prompts a man allegedly used to create 200+ sexual deepfakes of a woman he knew in real life &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/260225/p27#a260225p27)<!-- TECH:END -->
+ - [Sources: Thrive invested $1B in OpenAI in 2025 at a $285B valuation in a transaction akin to a call option; OpenAI was separately raising at a $830B valuation &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p38#a260225p38)
+ - [Perplexity launches Perplexity Computer, &quot;a general-purpose digital worker&quot; that can route work across 19 AI models, available initially for Max subscribers &lpar;Jason Hiner/The Deep View&rpar;](http://www.techmeme.com/260225/p37#a260225p37)
+ - [Google launches task automation for Gemini on Pixel 10 and Samsung Galaxy S26, enabling it to autonomously navigate apps like Uber and DoorDash &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260225/p36#a260225p36)
+ - [Hands-on with Galaxy S26 Ultra&#39;s Privacy Display: very impressive with a dual-pixel system that allows users to toggle viewing angles to prevent side-peeking &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260225/p35#a260225p35)
+ - [Source: Amazon, Google, Meta, Microsoft, xAI, Oracle, and OpenAI will sign White House&#39;s initiative to build their own electricity supply for AI data centers &lpar;Emma Colton/Fox News&rpar;](http://www.techmeme.com/260225/p34#a260225p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

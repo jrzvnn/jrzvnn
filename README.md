@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York&#39;s AG sues Valve over its use of loot boxes, accusing the game developer of violating state gambling laws and threatening to addict children to gambling &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260225/p51#a260225p51)
+ - [Alphabet&#39;s Intrinsic, which builds AI models and software for industrial robots, joins Google; it will remain a distinct entity and work with Google DeepMind &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260225/p50#a260225p50)
  - [New York sues Valve, alleging its loot boxes are ‘quintessential gambling’](https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit)
  - [Snowflake reports Q4 product revenue up 30% YoY to $1.23B, vs. $1.18B est., and forecasts Q1 and FY 2027 product revenue above estimates &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260225/p49#a260225p49)
- - [Zoom reports Q4 revenue up 5.3% YoY to $1.25B, vs. $1.23B est., online revenue up 2.6% to $489.7M, and forecasts Q1 adjusted profit per share below estimates &lpar;Anhata Rooprai/Reuters&rpar;](http://www.techmeme.com/260225/p48#a260225p48)
- - [Sources: DOD asked Boeing and Lockheed Martin to assess their reliance on Claude, a first step toward blacklisting Anthropic; Lockheed confirms it was contacted &lpar;Axios&rpar;](http://www.techmeme.com/260225/p47#a260225p47)
- - [AMD will buy $150M in Nutanix stock and provide up to $100M to fund joint initiatives to develop an infrastructure platform for powering AI applications &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p46#a260225p46)<!-- TECH:END -->
+ - [Zoom reports Q4 revenue up 5.3% YoY to $1.25B, vs. $1.23B est., online revenue up 2.6% to $489.7M, and forecasts Q1 adjusted profit per share below estimates &lpar;Anhata Rooprai/Reuters&rpar;](http://www.techmeme.com/260225/p48#a260225p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

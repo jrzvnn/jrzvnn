@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at TAT-8, the first transoceanic fiber-optic cable, which went into service in 1988, was retired in 2002, and is now being pulled up for recycling &lpar;Jane Ruffino/Wired&rpar;](http://www.techmeme.com/260225/p6#a260225p6)
  - [A look at Motif Technologies and Upstage, South Korean AI startups competing with SK Group and LG in the race for a national AI foundation model &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260225/p5#a260225p5)
  - [Peacock Promo Codes: 40% Off February 2026](https://www.wired.com/story/peacock-promo-code/)
  - [50% Off Blue Apron Promo Codes | February 2026](https://www.wired.com/story/blue-apron-coupon/)
- - [Zetrix, a publicly traded Malaysian digital infrastructure provider, raised ~$40M from the World Bank&#39;s IFC and plans to list its AI unit on Nasdaq by end-2026 &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260225/p4#a260225p4)
- - [H&amp;R Block Coupons and Deals: $25 Off Tax Prep in 2026](https://www.wired.com/story/hr-block-coupon/)<!-- TECH:END -->
+ - [Zetrix, a publicly traded Malaysian digital infrastructure provider, raised ~$40M from the World Bank&#39;s IFC and plans to list its AI unit on Nasdaq by end-2026 &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260225/p4#a260225p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD will buy $150M in Nutanix stock and provide up to $100M to fund joint initiatives to develop an infrastructure platform for powering AI applications &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p46#a260225p46)
- - [How the new Galaxy S26 phones stack up against each other on paper](https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison)
- - [Alexa Plus Now Adapts to Your Moods in Real Time: We Try It Out](https://www.cnet.com/tech/services-and-software/alexa-plus-is-trying-to-be-brief-chill-or-sweet-i-gave-it-a-test-run/)
- - [Sources: DeepSeek did not share its upcoming V4 model with US chipmakers, including AMD and Nvidia, but granted early access to Chinese companies like Huawei &lpar;Reuters&rpar;](http://www.techmeme.com/260225/p45#a260225p45)
- - [On Expands Robot Factories to Manufacture Its Cloud-Like Sneakers](https://www.cnet.com/tech/on-expands-robot-factories-to-manufacture-its-running-sneakers/)<!-- TECH:END -->
+ - [New York sues Valve, alleging its loot boxes are ‘quintessential gambling’](https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit)
+ - [Snowflake reports Q4 product revenue up 30% YoY to $1.23B, vs. $1.18B est., and forecasts Q1 and FY 2027 product revenue above estimates &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260225/p49#a260225p49)
+ - [Zoom reports Q4 revenue up 5.3% YoY to $1.25B, vs. $1.23B est., online revenue up 2.6% to $489.7M, and forecasts Q1 adjusted profit per share below estimates &lpar;Anhata Rooprai/Reuters&rpar;](http://www.techmeme.com/260225/p48#a260225p48)
+ - [Sources: DOD asked Boeing and Lockheed Martin to assess their reliance on Claude, a first step toward blacklisting Anthropic; Lockheed confirms it was contacted &lpar;Axios&rpar;](http://www.techmeme.com/260225/p47#a260225p47)
+ - [AMD will buy $150M in Nutanix stock and provide up to $100M to fund joint initiatives to develop an infrastructure platform for powering AI applications &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p46#a260225p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Diplomatic cable: US officials order diplomats to lobby against attempts to regulate how US tech companies handle foreigners&#39; data, citing risks to AI services &lpar;Reuters&rpar;](http://www.techmeme.com/260225/p15#a260225p15)
- - [Best Wireless Headphones &lpar;2026&rpar;: I Compare Bose, Apple, Sony and More](https://www.wired.com/gallery/best-wireless-headphones/)
- - [Kubuntu Focus Zr Gen 1 Review: A Powerhouse Linux Laptop](https://www.wired.com/review/kubuntu-focus-zr-gen-1-linux-laptop/)
- - [12 Things You Can Make in a Rice Cooker That Aren&#39;t Rice](https://www.cnet.com/news/12-things-you-can-make-in-a-rice-cooker-that-arent-rice/)
- - [A top US export control official says Nvidia has yet to sell any H200 chips to China, two months after President Trump&#39;s decision to allow AI chip shipments &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/260225/p14#a260225p14)<!-- TECH:END -->
+ - [Google disrupts Chinese-linked group UNC2814, which breached 53+ organizations across 42 countries and utilized Google Sheets to manage targeting and data theft &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/260225/p18#a260225p18)
+ - [Stablecoin operator Circle reports Q4 revenue up 77% YoY to $770M, vs. $747M est., and $133.4M net income; USDC ended 2025 with ~$75B in circulation, up 72% YoY &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p17#a260225p17)
+ - [Galaxy Unpacked 2026: Samsung&#39;s S26 Reveal Is Just Hours Away](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
+ - [Deutsche Bank partners with Google Cloud to build agentic AI to monitor 1TB of daily communications and 40+ channels for market abuse and data loss prevention &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/260225/p16#a260225p16)
+ - [Ricoh GR IV Review: Peak Pocket Photos to Potentially Outperform Your Phone](https://www.cnet.com/tech/computing/ricoh-gr-iv-review-compact-aps-c-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

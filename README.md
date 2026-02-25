@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fanttik’s foldable V10 Apex vacuum is on sale for the lowest price we’ve seen](https://www.theverge.com/gadgets/883696/fanttik-fold-v10-apex-foldable-car-vacuum-astro-bot-ps5-deal-sale)
- - [Sensor Tower: EA led all publishers in 2025 with 200M+ PC and console downloads, ahead of its $55B deal to go private; Fortnite had the top console player base &lpar;Payton Turkeltaub/Variety&rpar;](http://www.techmeme.com/260225/p25#a260225p25)
- - [Amazon&amp;#8217;s AGI lab leader is leaving](https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure)
- - [Galaxy Unpacked 2026: Samsung&#39;s S26 Reveal Is Almost Here](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
- - [We played Resident Evil Requiem, ask us anything](https://www.theverge.com/entertainment/884295/resident-evil-requiem-ask-me-anything)<!-- TECH:END -->
+ - [A White House Staffer Appears to Run Massive Pro-Trump X Account](https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-trump-meme-page/)
+ - [Court records: the FBI subpoenaed X for details about Grok prompts a man allegedly used to create 200+ sexual deepfakes of a woman he knew in real life &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/260225/p27#a260225p27)
+ - [Spotify&amp;#8217;s Smart Reorder treats your playlists like a DJ set](https://www.theverge.com/entertainment/884399/spotify-mix-smart-reorder-feature)
+ - [Galaxy Unpacked 2026 Live Updates: Samsung&#39;s S26 Reveal Is Almost Here](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
+ - [MAGA Is Raging Over the Epstein Files. But They’re Not Mad at Donald Trump](https://www.wired.com/story/maga-is-still-very-angry-about-epstein-but-they-wont-blame-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

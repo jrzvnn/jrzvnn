@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia reports Q4 revenue up 73% YoY to $68.13B, vs. $66.21B est., Data Center revenue up 75% to $62.3B, and forecasts Q1 revenue above estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260225/p44#a260225p44)
  - [Salesforce reports Q4 revenue up 12% YoY to $11.2B, vs. $11.18B est., forecasts Q1 revenue above estimates, and announces a $50B share repurchase program &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260225/p43#a260225p43)
- - [Everyone Speaks Incel Now](https://www.wired.com/story/everyone-speaks-incel-now/)
- - [The Peace Corps is recruiting volunteers to sell AI to developing nations](https://www.theverge.com/policy/884625/peace-corps-tech-promote-american-ai)
- - [Leaked Thrive deck: $26.8B in AUM as of June 30, 2025, deal value peaked in Q4 2021, positive DPI for four early funds, including 2.4x for 2016&#39;s Thrive V, more &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/260225/p42#a260225p42)
- - [Trump claims tech companies will sign deals next week to pay for their own power supply](https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump)<!-- TECH:END -->
+ - [Galaxy Unpacked 2026 Live Updates: Samsung&#39;s S26 Reveal Is Here](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 26, #991](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-26-991/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 26, #1713](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-26-1713/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China&#39;s top chipmakers, with strong government backing, aim to increase advanced chip production capacity fivefold to 100K wafers within two years &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260225/p3#a260225p3)
- - [HP says memory now accounts for 35% of its PC bill of materials, up from 15% to 18% in Q4 2025, and expects RAM&#39;s share to rise through 2026 &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/260225/p2#a260225p2)
- - [Analysis: overseas investors bought a net $2.77B of Taiwan equities on February 24, the most since December 2005, signaling confidence in an AI driven chip boom &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p1#a260225p1)
- - [Sensor Tower: India was the largest market for GenAI app downloads in 2025, surging 207% YoY; India accounts for 20% of global installs but 1% of in-app revenue &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260224/p60#a260224p60)
- - [Australian freight software maker WiseTech plans to cut ~2,000 jobs, or ~30% of its workforce, this fiscal year and next, amid CEO Zubin Appoo&#39;s embrace of AI &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/260224/p59#a260224p59)<!-- TECH:END -->
+ - [A look at Motif Technologies and Upstage, South Korean AI startups competing with SK Group and LG in the race for a national AI foundation model &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260225/p5#a260225p5)
+ - [Peacock Promo Codes: 40% Off February 2026](https://www.wired.com/story/peacock-promo-code/)
+ - [50% Off Blue Apron Promo Codes | February 2026](https://www.wired.com/story/blue-apron-coupon/)
+ - [Zetrix, a publicly traded Malaysian digital infrastructure provider, raised ~$40M from the World Bank&#39;s IFC and plans to list its AI unit on Nasdaq by end-2026 &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260225/p4#a260225p4)
+ - [H&amp;R Block Coupons and Deals: $25 Off Tax Prep in 2026](https://www.wired.com/story/hr-block-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

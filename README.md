@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon continues retreat from games by ending publishing deal for open-world racer](https://www.theverge.com/entertainment/884280/amazon-publishing-deal-maverick-games-forza-cancel)
- - [London-based enterprise coding startup SolveAI raised a $45M Series A led by GV in November 2025 and a $5M pre-seed led by Accel in August 2025 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260225/p20#a260225p20)
- - [A study finds GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash deployed tactical nuclear weapons in 95% of 21 simulated war game scenarios, and never surrendered &lpar;Chris Stokel-Walker/New Scientist&rpar;](http://www.techmeme.com/260225/p19#a260225p19)
- - [Google disrupts Chinese-linked group UNC2814, which breached 53+ organizations across 42 countries and utilized Google Sheets to manage targeting and data theft &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/260225/p18#a260225p18)
- - [Stablecoin operator Circle reports Q4 revenue up 77% YoY to $770M, vs. $747M est., and $133.4M net income; USDC ended 2025 with ~$75B in circulation, up 72% YoY &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p17#a260225p17)<!-- TECH:END -->
+ - [Gambit Security: an unknown hacker used Claude to steal 150GB of Mexican government data, including 195M taxpayer records, in December 2025 and January 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p24#a260225p24)
+ - [Xiaomi&amp;#8217;s magnetic power bank is incredibly thin](https://www.theverge.com/tech/884330/xiaomi-ultra-thin-magnetic-magsafe-power-bank-5000-qi2)
+ - [Insurance brokerage Harper, which uses AI to automate submission routing and follow-up, raised $46.8M in combined Series A and seed led by Emergence Capital &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260225/p23#a260225p23)
+ - [Galaxy Unpacked 2026: Samsung&#39;s S26 Reveal Is Just Hours Away](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)
+ - [Does Anthropic think Claude is alive? Define ‘alive’](https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

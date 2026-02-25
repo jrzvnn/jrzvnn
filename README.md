@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A top US export control official says Nvidia has yet to sell any H200 chips to China, two months after President Trump&#39;s decision to allow AI chip shipments &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/260225/p14#a260225p14)
- - [This Is the Worst Thing That Could Happen to the International Space Station](https://www.wired.com/story/this-is-the-worst-thing-that-could-happen-to-the-international-space-station/)
- - [Sources: General Atlantic is selling a stake in ByteDance in a deal that values it at $550B, up 66% since September 2025, the first divestment since its US sale &lpar;Reuters&rpar;](http://www.techmeme.com/260225/p13#a260225p13)
- - [Honor’s new MagicPad 4 is the world’s thinnest Android tablet](https://www.theverge.com/tech/883816/honor-magicpad-4-android-16-tablet-oled-ultra-thin)
- - [Vantrue E1 4K Pro Review &lpar;2026&rpar;: Tiny and High-Definition](https://www.wired.com/review/vantrue-e1-4k-pro-mini-dashcam/)<!-- TECH:END -->
+ - [Diplomatic cable: US officials order diplomats to lobby against attempts to regulate how US tech companies handle foreigners&#39; data, citing risks to AI services &lpar;Reuters&rpar;](http://www.techmeme.com/260225/p15#a260225p15)
+ - [Best Wireless Headphones &lpar;2026&rpar;: I Compare Bose, Apple, Sony and More](https://www.wired.com/gallery/best-wireless-headphones/)
+ - [Kubuntu Focus Zr Gen 1 Review: A Powerhouse Linux Laptop](https://www.wired.com/review/kubuntu-focus-zr-gen-1-linux-laptop/)
+ - [12 Things You Can Make in a Rice Cooker That Aren&#39;t Rice](https://www.cnet.com/news/12-things-you-can-make-in-a-rice-cooker-that-arent-rice/)
+ - [A top US export control official says Nvidia has yet to sell any H200 chips to China, two months after President Trump&#39;s decision to allow AI chip shipments &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/260225/p14#a260225p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

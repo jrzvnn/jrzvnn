@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected....](http://9gag.com/gag/awy2dBB)
  - 😝 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
+ - 😝 [PAIGE NO!](http://9gag.com/gag/aAy5M6d)
  - 💣 [Mom won the night](http://9gag.com/gag/aZZ5E8V)
- - 😝 [John Cleese would approve](http://9gag.com/gag/ayNwQ3p)
- - 👉 [You think the story about Epstein is crazy? Learn about this Belgian guy. 27 witness got suiced. High-ranking politicians were involved. The world is insane.](http://9gag.com/gag/ae9wVL5)<!-- MEMES:END -->
+ - 😝 [You think the story about Epstein is crazy? Learn about this Belgian guy. 27 witness got suiced. High-ranking politicians were involved. The world is insane.](http://9gag.com/gag/ae9wVL5)
+ - 👉 [Unexpected....](http://9gag.com/gag/awy2dBB)<!-- MEMES:END -->
 
 ---
 

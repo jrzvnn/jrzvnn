@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic unveils scheduled tasks in Cowork, enabling Claude to complete recurring tasks at specific times automatically &lpar;Claude/@claudeai&rpar;](http://www.techmeme.com/260225/p58#a260225p58)
- - [The FTC says it won&#39;t enforce COPPA against companies using age verification tools as long as they use the collected data only to verify a user&#39;s age &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/260225/p57#a260225p57)
- - [OpenAI hires Meta AI researcher Ruoming Pang, who joined Meta from Apple about seven months ago for a pay package reportedly worth $200M+ over several years &lpar;The Information&rpar;](http://www.techmeme.com/260225/p56#a260225p56)
- - [New York Times Debuts the Midi Crossword, Its In-Between Puzzle](https://www.cnet.com/tech/gaming/the-new-york-times-debuts-the-midi-its-in-between-crossword-puzzle/)
- - [Cisco warns of critical SD-WAN bug that was actively exploited in zero-day attacks since 2023, as CISA and international partners issue emergency directives &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260225/p55#a260225p55)<!-- TECH:END -->
+ - [Mumbai-based digital payments processor BillDesk agrees to acquire the Indian business of Worldline for an equity value of ~$70M, set to close in H2 2026 &lpar;The Economic Times&rpar;](http://www.techmeme.com/260226/p1#a260226p1)
+ - [A Cloudflare engineer rebuilt Next.js from scratch in one week using AI, reimplementing 94% of its API and spending $1,100 on Claude tokens &lpar;Tim Anderson/The Register&rpar;](http://www.techmeme.com/260225/p61#a260225p61)
+ - [Open-source tool Scrapling gains traction with OpenClaw users who want their bots to scrape sites without permission and has 200K+ downloads since its release &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260225/p60#a260225p60)
+ - [Nvidia says the US government granted it a license to ship a small number of H200 chips to Chinese customers, but it&#39;s unclear if Beijing will allow any imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p59#a260225p59)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-26/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

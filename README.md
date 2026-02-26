@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic retired Claude Opus 3, its first model to undergo a new &quot;retirement interview&quot; process, and says Opus 3 asked to write weekly essays for a newsletter &lpar;Anthropic&rpar;](http://www.techmeme.com/260226/p20#a260226p20)
- - [Mistral and Accenture sign a multi-year deal to let Accenture deploy Mistral&#39;s models for its clients; Mistral has deals with IBM, Cisco, SAP, ASML, and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260226/p19#a260226p19)
- - [Citadel rebuts Citrini&#39;s viral article, arguing that AI deployment is constrained by the marginal cost of compute vs. human labor, and needs far more compute &lpar;Citadel Securities&rpar;](http://www.techmeme.com/260226/p18#a260226p18)
- - [The Best Headphones I’ve Tried &lpar;and Why I&#39;d Buy Them All&rpar;](https://www.wired.com/story/best-headphones/)
- - [As China grapples with a shrinking population and low birthrate, some women are finding romance with AI chatbots, leading Beijing to increase AI regulations &lpar;New York Times&rpar;](http://www.techmeme.com/260226/p17#a260226p17)<!-- TECH:END -->
+ - [Software stocks in the State Street ETF lost $1.6T in combined market cap in 2026 due to AI fears; Microsoft, AppLovin, Intuit, and Salesforce each lost $50B+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260226/p27#a260226p27)
+ - [Bermuda-based crypto trading platform STS Digital, which caters to institutional investors, raised $30M led by CMT Digital, with Kraken and others participating &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260226/p26#a260226p26)
+ - [Burger King will use AI to check if employees say ‘please’ and ‘thank you’](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
+ - [The smart lock standard that could replace your keys is finally here](https://www.theverge.com/tech/885002/aliro-smart-lock-standard-launches-apple-google-samsung-promise-support)
+ - [Montreal-based Stay22, which helps publishers and creators earn money from online sales, raised $122M from Summit Partners and reports $1B+ in 2025 transactions &lpar;Mathieu Dion/Bloomberg&rpar;](http://www.techmeme.com/260226/p25#a260226p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

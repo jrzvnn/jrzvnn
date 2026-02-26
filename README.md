@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: super PACs for and against AI regulation have raised $265M ahead of the midterms, with pro-AI groups significantly outraising pro-regulation groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p10#a260226p10)
- - [London-based Dwelly, which aims to roll up independent UK real estate agencies and modernize their operations using AI, raised £32M in equity and £37M in debt &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260226/p9#a260226p9)
- - [Several UK consultants have left large firms to start AI consultancy startups, as growth in the country&#39;s AI consulting sector outpaces the broader market &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/260226/p8#a260226p8)
- - [London-based digital bank Allica, which caters to over 30K SMBs across the UK, raised a $155M Series D from Ventura Capital and others at a $1.2B valuation &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/260226/p7#a260226p7)
- - [A look at VW&#39;s robotaxi unit MOIA, which has 100 test vehicles across Germany, Norway, and the US, and plans to launch its robotaxis this year in LA with Uber &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p6#a260226p6)<!-- TECH:END -->
+ - [Revolut says 58% of reported job scams globally came from Telegram in 2025, dwarfing other platforms for these cases, based on an analysis of 10B+ transactions &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/260226/p13#a260226p13)
+ - [Baidu reports Q4 revenue down 4% YoY to ~$4.8B, its third consecutive quarter of revenue decline, and net profit down 66% YoY to ~$259M, below ~$374M est. &lpar;Tracy Qu/Wall Street Journal&rpar;](http://www.techmeme.com/260226/p12#a260226p12)
+ - [Factor Offers High Protein Meal Delivery Options &lpar;2026&rpar;](https://www.wired.com/story/factor-meal-delivery-service-2026/)
+ - [OpenAI says ChatGPT refused to assist a user associated with Chinese law enforcement in planning an online campaign to discredit Japanese PM Sanae Takaichi &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260226/p11#a260226p11)
+ - [The Top 25 Best Pokemon Games of All Time, Ranked](https://www.cnet.com/tech/gaming/the-top-25-best-pokemon-games-of-all-time-ranked/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

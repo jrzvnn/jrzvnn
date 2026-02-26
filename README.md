@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intuit reports Q2 revenue up 17% YoY to $4.65B, vs. $4.53B est., and forecasts Q3 revenue growth of ~10% and EPS below expectations; INTU drops 5%+ after hours &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/260226/p57#a260226p57)
+ - [Source: Meta has signed a multiyear deal to rent Google&#39;s TPUs to develop new models and has also been in talks to buy TPUs for its data centers as soon as 2027 &lpar;The Information&rpar;](http://www.techmeme.com/260226/p56#a260226p56)
  - [Apple Vision Pro owners get sports-related fix to keep F1 &amp; MLS streams looking crisp](https://appleinsider.com/articles/26/02/26/apple-vision-pro-owners-get-sports-related-fix-to-keep-f1-mls-streams-looking-crisp?utm_source=rss)
  - [Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei)
- - [‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union](https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/)
- - [Netflix walks away from its deal to buy Warner Bros. after Paramount came back with a better offer](https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount)
- - [Anthropic says new DOD &quot;contract language&quot; made &quot;virtually no progress&quot; on preventing Claude&#39;s use for mass domestic surveillance or fully autonomous weapons &lpar;Axios&rpar;](http://www.techmeme.com/260226/p55#a260226p55)<!-- TECH:END -->
+ - [‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union](https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

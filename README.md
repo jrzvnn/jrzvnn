@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s new laptop sleeve wirelessly charges other devices](https://www.theverge.com/tech/885381/razer-laptop-sleeve-16-inch-wireless-charger-qi-power)
- - [Sources: US semiconductor companies face worsening rare earth shortages, as shipments still rarely make it to the US despite an October 2025 detente with China &lpar;Reuters&rpar;](http://www.techmeme.com/260226/p42#a260226p42)
- - [Viture, which ranked top in XR glasses shipments in the US in Q3 2025, per IDC, raised $100M, bringing its funding in the past six months to $200M &lpar;Charlie Fink/Forbes&rpar;](http://www.techmeme.com/260226/p41#a260226p41)
- - [Cricut’s most popular cutting machine now takes up less space in your crafting room](https://www.theverge.com/tech/883743/cricut-cutting-machine-explore-5-joy-2-drawing-writing-crafting)
- - [A Greek court sentences four people, including spyware maker Intellexa&#39;s founder, to prison, for using spyware to target journalists, politicians, and others &lpar;Nektaria Stamouli/Politico&rpar;](http://www.techmeme.com/260226/p40#a260226p40)<!-- TECH:END -->
+ - [Are You ‘Agentic’ Enough for the AI Era?](https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/)
+ - [A decade after US authorization, the iPhone is allowed to handle classified data for NATO](https://appleinsider.com/articles/26/02/26/a-decade-after-us-authorization-the-iphone-is-allowed-to-handle-classified-data-for-nato?utm_source=rss)
+ - [Apple says iPhone and iPad on iOS 26 and iPadOS 26 have become the first consumer devices NATO approved for use up to the &quot;restricted&quot; level of classified data &lpar;Elyse Betters Picaro/ZDNET&rpar;](http://www.techmeme.com/260226/p43#a260226p43)
+ - [Apple Watch Series 11 drops to $299, plus grab deals on titanium styles](https://appleinsider.com/articles/26/02/26/apple-watch-series-11-drops-to-299-plus-grab-deals-on-titanium-styles?utm_source=rss)
+ - [Razer’s new laptop sleeve wirelessly charges other devices](https://www.theverge.com/tech/885381/razer-laptop-sleeve-16-inch-wireless-charger-qi-power)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

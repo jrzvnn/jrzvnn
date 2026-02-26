@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IDC: global smartphone shipments will fall 12.9% YoY to 1.12B units in 2026, the market&#39;s largest-ever decline, as surging memory prices drive up device costs &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/260226/p46#a260226p46)
+ - [How Chinese AI Chatbots Censor Themselves](https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/)
+ - [Some AI policymakers and lawyers warn that DOD&#39;s threats to Anthropic are contradictory and could chill partnerships between the government and Silicon Valley &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/260226/p45#a260226p45)
  - [DHS reportedly detained a Columbia University student and content creator](https://www.theverge.com/policy/885525/columbia-university-student-detained-dhs-influencer)
- - [Netflix&amp;#8217;s F1 series Drive to Survive will stream on Apple TV, too](https://www.theverge.com/streaming/885538/netflix-f1-drive-to-survive-apple-tv-streaming)
- - [Corsair is halting Drop sales after March 25th](https://www.theverge.com/news/884824/corsair-ending-drop-shopping-site)
- - [Xcode with vibecoding AI agents to help build apps is now available](https://appleinsider.com/articles/26/02/26/xcode-with-vibecoding-ai-agents-to-help-build-apps-is-now-available?utm_source=rss)
- - [Sam Altman&#39;s Tools for Humanity is partnering with brands like Gap, Visa, and Tinder to market its World ID human verification product &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/260226/p44#a260226p44)<!-- TECH:END -->
+ - [Netflix&amp;#8217;s F1 series Drive to Survive will stream on Apple TV, too](https://www.theverge.com/streaming/885538/netflix-f1-drive-to-survive-apple-tv-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

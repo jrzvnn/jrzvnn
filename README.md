@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil is Apple TV&#39;s second largest market &amp; is growing fast, says Eddy Cue](https://appleinsider.com/articles/26/02/26/brazil-is-apple-tvs-second-largest-market-is-growing-fast-says-eddy-cue?utm_source=rss)
- - [Microsoft&amp;#8217;s “Copilot Tasks” AI uses its own computer to get things done](https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai)
- - [Netflix is walking away from a deal to buy WBD&#39;s studio and streaming assets after the WBD board deemed a revised bid by Paramount Skydance to be superior &lpar;CNBC&rpar;](http://www.techmeme.com/260226/p54#a260226p54)
- - [The Pentagon says it has offered compromises to Anthropic, including putting in writing that laws already bar the military from mass surveillance of Americans &lpar;Jennifer Jacobs/CBS News&rpar;](http://www.techmeme.com/260226/p53#a260226p53)
- - [Social media addiction trial: 20-year-old plaintiff KGM testifies her social media use, which began in childhood, exacerbated depression and suicidal thoughts &lpar;Associated Press&rpar;](http://www.techmeme.com/260226/p52#a260226p52)<!-- TECH:END -->
+ - [Apple Vision Pro owners get sports-related fix to keep F1 &amp; MLS streams looking crisp](https://appleinsider.com/articles/26/02/26/apple-vision-pro-owners-get-sports-related-fix-to-keep-f1-mls-streams-looking-crisp?utm_source=rss)
+ - [Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei)
+ - [‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union](https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/)
+ - [Netflix walks away from its deal to buy Warner Bros. after Paramount came back with a better offer](https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount)
+ - [Anthropic says new DOD &quot;contract language&quot; made &quot;virtually no progress&quot; on preventing Claude&#39;s use for mass domestic surveillance or fully autonomous weapons &lpar;Axios&rpar;](http://www.techmeme.com/260226/p55#a260226p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

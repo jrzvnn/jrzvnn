@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A more meaningful play](http://9gag.com/gag/awy243B)
  - 😝 [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
+ - 😝 [A more meaningful play](http://9gag.com/gag/awy243B)
  - 💣 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)
- - 😝 [Please be good. Please be good.](http://9gag.com/gag/aGy526w)
- - 👉 [Y so mad, bro?](http://9gag.com/gag/aD25X2Z)<!-- MEMES:END -->
+ - 😝 [Y so mad, bro?](http://9gag.com/gag/aD25X2Z)
+ - 👉 [Please be good. Please be good.](http://9gag.com/gag/aGy526w)<!-- MEMES:END -->
 
 ---
 

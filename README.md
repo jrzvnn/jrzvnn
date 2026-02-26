@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at VW&#39;s robotaxi unit MOIA, which has 100 test vehicles across Germany, Norway, and the US, and plans to launch its robotaxis this year in LA with Uber &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p6#a260226p6)
- - [Sources: Apple is in talks with Visa, Mastercard, and Indian banks ICICI, HDFC, and Axis as it plans to launch Apple Pay in India around mid-2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260226/p5#a260226p5)
- - [Turns Out Perplexity Might Be the Sleeper Feature on Samsung&#39;s Galaxy S26](https://www.cnet.com/tech/mobile/turns-out-perplexity-might-be-the-sleeper-feature-on-samsungs-galaxy-s26/)
- - [Q&amp;A with Skild AI CEO Deepak Pathak on building a general-purpose brain for robots, standing out among big tech&#39;s robotics efforts, the path to AGI, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260226/p4#a260226p4)
- - [TurboTax Service Codes: Up to 20% Off | February 2026](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
+ - [Analysis: super PACs for and against AI regulation have raised $265M ahead of the midterms, with pro-AI groups significantly outraising pro-regulation groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p10#a260226p10)
+ - [London-based Dwelly, which aims to roll up independent UK real estate agencies and modernize their operations using AI, raised £32M in equity and £37M in debt &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260226/p9#a260226p9)
+ - [Several UK consultants have left large firms to start AI consultancy startups, as growth in the country&#39;s AI consulting sector outpaces the broader market &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/260226/p8#a260226p8)
+ - [London-based digital bank Allica, which caters to over 30K SMBs across the UK, raised a $155M Series D from Ventura Capital and others at a $1.2B valuation &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/260226/p7#a260226p7)
+ - [A look at VW&#39;s robotaxi unit MOIA, which has 100 test vehicles across Germany, Norway, and the US, and plans to launch its robotaxis this year in LA with Uber &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p6#a260226p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

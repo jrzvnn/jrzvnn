@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
- - 😝 [Straight to jail](http://9gag.com/gag/awy2gpy)
- - 💣 [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
- - 😝 [Bro cant wait](http://9gag.com/gag/aRBdLxA)
- - 👉 [In This Economy](http://9gag.com/gag/aqyw8mY)<!-- MEMES:END -->
+ - 😝 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
+ - 😝 [Why is the rich friend so cheap??](http://9gag.com/gag/aLn5Ang)
+ - 💣 [You think the story about Epstein is crazy? Learn about this Belgian guy. 27 witness got suiced. High-ranking politicians were involved. The world is insane.](http://9gag.com/gag/ae9wVL5)
+ - 😝 [Mom won the night](http://9gag.com/gag/aZZ5E8V)
+ - 👉 [Unexpected....](http://9gag.com/gag/awy2dBB)<!-- MEMES:END -->
 
 ---
 

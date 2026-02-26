@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t worry the cops got this. Y\u2019all keep messing with that lock](http://9gag.com/gag/ae9wmOq)
- - 😝 [A more meaningful play](http://9gag.com/gag/awy243B)
- - 💣 [Mercury 1951](http://9gag.com/gag/aVv52bM)
- - 😝 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)
- - 👉 [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)<!-- MEMES:END -->
+ - 😝 [Unexpected....](http://9gag.com/gag/awy2dBB)
+ - 😝 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
+ - 💣 [Mom won the night](http://9gag.com/gag/aZZ5E8V)
+ - 😝 [John Cleese would approve](http://9gag.com/gag/ayNwQ3p)
+ - 👉 [You think the story about Epstein is crazy? Learn about this Belgian guy. 27 witness got suiced. High-ranking politicians were involved. The world is insane.](http://9gag.com/gag/ae9wVL5)<!-- MEMES:END -->
 
 ---
 

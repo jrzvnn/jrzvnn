@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are You ‘Agentic’ Enough for the AI Era?](https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/)
- - [A decade after US authorization, the iPhone is allowed to handle classified data for NATO](https://appleinsider.com/articles/26/02/26/a-decade-after-us-authorization-the-iphone-is-allowed-to-handle-classified-data-for-nato?utm_source=rss)
- - [Apple says iPhone and iPad on iOS 26 and iPadOS 26 have become the first consumer devices NATO approved for use up to the &quot;restricted&quot; level of classified data &lpar;Elyse Betters Picaro/ZDNET&rpar;](http://www.techmeme.com/260226/p43#a260226p43)
- - [Apple Watch Series 11 drops to $299, plus grab deals on titanium styles](https://appleinsider.com/articles/26/02/26/apple-watch-series-11-drops-to-299-plus-grab-deals-on-titanium-styles?utm_source=rss)
- - [Razer’s new laptop sleeve wirelessly charges other devices](https://www.theverge.com/tech/885381/razer-laptop-sleeve-16-inch-wireless-charger-qi-power)<!-- TECH:END -->
+ - [DHS reportedly detained a Columbia University student and content creator](https://www.theverge.com/policy/885525/columbia-university-student-detained-dhs-influencer)
+ - [Netflix&amp;#8217;s F1 series Drive to Survive will stream on Apple TV, too](https://www.theverge.com/streaming/885538/netflix-f1-drive-to-survive-apple-tv-streaming)
+ - [Corsair is halting Drop sales after March 25th](https://www.theverge.com/news/884824/corsair-ending-drop-shopping-site)
+ - [Xcode with vibecoding AI agents to help build apps is now available](https://appleinsider.com/articles/26/02/26/xcode-with-vibecoding-ai-agents-to-help-build-apps-is-now-available?utm_source=rss)
+ - [Sam Altman&#39;s Tools for Humanity is partnering with brands like Gap, Visa, and Tinder to market its World ID human verification product &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/260226/p44#a260226p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

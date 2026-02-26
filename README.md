@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at VW&#39;s robotaxi unit MOIA, which has 100 test vehicles across Germany, Norway, and the US, and plans to launch its robotaxis this year in LA with Uber &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p6#a260226p6)
+ - [Sources: Apple is in talks with Visa, Mastercard, and Indian banks ICICI, HDFC, and Axis as it plans to launch Apple Pay in India around mid-2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260226/p5#a260226p5)
+ - [Turns Out Perplexity Might Be the Sleeper Feature on Samsung&#39;s Galaxy S26](https://www.cnet.com/tech/mobile/turns-out-perplexity-might-be-the-sleeper-feature-on-samsungs-galaxy-s26/)
  - [Q&amp;A with Skild AI CEO Deepak Pathak on building a general-purpose brain for robots, standing out among big tech&#39;s robotics efforts, the path to AGI, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260226/p4#a260226p4)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Tech companies are increasingly turning to GPU-backed debt, a model pioneered by CoreWeave, using SPVs to shift debt off their balance sheets &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260226/p3#a260226p3)
- - [Sources: Amazon plans to invest up to $50B in OpenAI, $35B of which could hinge on an IPO or AGI milestone; OpenAI is discussing custom models for Amazon &lpar;The Information&rpar;](http://www.techmeme.com/260226/p2#a260226p2)
- - [Mumbai-based digital payments processor BillDesk agrees to acquire the Indian business of Worldline for an equity value of ~$70M, set to close in H2 2026 &lpar;The Economic Times&rpar;](http://www.techmeme.com/260226/p1#a260226p1)<!-- TECH:END -->
+ - [TurboTax Service Codes: Up to 20% Off | February 2026](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

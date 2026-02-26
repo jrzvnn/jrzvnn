@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung exec confirms you can blame RAM — and other materials — for the Galaxy S26’s higher pricetag](https://www.theverge.com/tech/885566/samsung-ram-galaxy-s26-price)
+ - [FTC declines to enforce a kids privacy law for data collected to verify users’ ages](https://www.theverge.com/policy/885592/ftc-age-verification-childrens-online-privacy-enforcement)
+ - [Qualcomm won&amp;#8217;t be announcing Windows gaming handhelds at GDC after all](https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all)
  - [IDC: global smartphone shipments will fall 12.9% YoY to 1.12B units in 2026, the market&#39;s largest-ever decline, as surging memory prices drive up device costs &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/260226/p46#a260226p46)
- - [How Chinese AI Chatbots Censor Themselves](https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/)
- - [Some AI policymakers and lawyers warn that DOD&#39;s threats to Anthropic are contradictory and could chill partnerships between the government and Silicon Valley &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/260226/p45#a260226p45)
- - [DHS reportedly detained a Columbia University student and content creator](https://www.theverge.com/policy/885525/columbia-university-student-detained-dhs-influencer)
- - [Netflix&amp;#8217;s F1 series Drive to Survive will stream on Apple TV, too](https://www.theverge.com/streaming/885538/netflix-f1-drive-to-survive-apple-tv-streaming)<!-- TECH:END -->
+ - [How Chinese AI Chatbots Censor Themselves](https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

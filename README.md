@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revolut says 58% of reported job scams globally came from Telegram in 2025, dwarfing other platforms for these cases, based on an analysis of 10B+ transactions &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/260226/p13#a260226p13)
- - [Baidu reports Q4 revenue down 4% YoY to ~$4.8B, its third consecutive quarter of revenue decline, and net profit down 66% YoY to ~$259M, below ~$374M est. &lpar;Tracy Qu/Wall Street Journal&rpar;](http://www.techmeme.com/260226/p12#a260226p12)
- - [Factor Offers High Protein Meal Delivery Options &lpar;2026&rpar;](https://www.wired.com/story/factor-meal-delivery-service-2026/)
- - [OpenAI says ChatGPT refused to assist a user associated with Chinese law enforcement in planning an online campaign to discredit Japanese PM Sanae Takaichi &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260226/p11#a260226p11)
- - [The Top 25 Best Pokemon Games of All Time, Ranked](https://www.cnet.com/tech/gaming/the-top-25-best-pokemon-games-of-all-time-ranked/)<!-- TECH:END -->
+ - [As China grapples with a shrinking population and low birthrate, some women are finding romance with AI chatbots, leading Beijing to increase AI regulations &lpar;New York Times&rpar;](http://www.techmeme.com/260226/p17#a260226p17)
+ - [Salesforce CEO Marc Benioff dismisses concerns of a &quot;SaaS-pocalypse&quot;, saying companies like Anthropic use &quot;a lot of SaaS because it just got better with agents&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p16#a260226p16)
+ - [Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)
+ - [As studios like Arc Raiders maker Embark embrace AI for non-essential game elements, gamers worry that AI squeezes the art out of games, amid industry job cuts &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260226/p15#a260226p15)
+ - [Why Sierra the Supercomputer Had to Die](https://www.wired.com/story/why-sierra-the-supercomputer-had-to-die/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

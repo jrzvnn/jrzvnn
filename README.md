@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mumbai-based digital payments processor BillDesk agrees to acquire the Indian business of Worldline for an equity value of ~$70M, set to close in H2 2026 &lpar;The Economic Times&rpar;](http://www.techmeme.com/260226/p1#a260226p1)
- - [A Cloudflare engineer rebuilt Next.js from scratch in one week using AI, reimplementing 94% of its API and spending $1,100 on Claude tokens &lpar;Tim Anderson/The Register&rpar;](http://www.techmeme.com/260225/p61#a260225p61)
- - [Open-source tool Scrapling gains traction with OpenClaw users who want their bots to scrape sites without permission and has 200K+ downloads since its release &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260225/p60#a260225p60)
- - [Nvidia says the US government granted it a license to ship a small number of H200 chips to Chinese customers, but it&#39;s unclear if Beijing will allow any imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p59#a260225p59)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-26/)<!-- TECH:END -->
+ - [Q&amp;A with Skild AI CEO Deepak Pathak on building a general-purpose brain for robots, standing out among big tech&#39;s robotics efforts, the path to AGI, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260226/p4#a260226p4)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [Tech companies are increasingly turning to GPU-backed debt, a model pioneered by CoreWeave, using SPVs to shift debt off their balance sheets &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260226/p3#a260226p3)
+ - [Sources: Amazon plans to invest up to $50B in OpenAI, $35B of which could hinge on an IPO or AGI milestone; OpenAI is discussing custom models for Amazon &lpar;The Information&rpar;](http://www.techmeme.com/260226/p2#a260226p2)
+ - [Mumbai-based digital payments processor BillDesk agrees to acquire the Indian business of Worldline for an equity value of ~$70M, set to close in H2 2026 &lpar;The Economic Times&rpar;](http://www.techmeme.com/260226/p1#a260226p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

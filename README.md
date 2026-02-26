@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why no magnets in Galaxy S26? Samsung R&amp;#038;D chief explains](https://www.theverge.com/news/885616/samsung-galaxy-s26-no-magnets-because-people-use-cases)
+ - [CoreWeave reports Q4 revenue up 110% YoY to $1.57B, vs. $1.55B est., and adjusted loss of $284M, vs. $258.9M est.; CRWV drops 5%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260226/p51#a260226p51)
  - [Dell reports Q4 revenue up 39% YoY to $33.4B, vs. $31.73B est., and forecasts FY 2027 revenue above estimates; DELL jumps 10%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260226/p50#a260226p50)
  - [Smartphone sales could be in for their biggest drop ever](https://www.theverge.com/gadgets/885638/smartphone-decline-ram-shortage-idc)
- - [Blender shelves iPad app, says it&#39;s focusing on Android tablets first](https://appleinsider.com/articles/26/02/26/blender-shelves-ipad-app-says-its-focusing-on-android-tablets-first?utm_source=rss)
- - [Block says it is laying off more than 4,000 of its 10,000+ employees; XYZ jumps 19%+ in extended trading &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260226/p49#a260226p49)
- - [Sources: Meta last week scrapped the most advanced AI chip it was developing, after struggling with the design, and shifted its focus to a less complicated chip &lpar;The Information&rpar;](http://www.techmeme.com/260226/p48#a260226p48)<!-- TECH:END -->
+ - [Blender shelves iPad app, says it&#39;s focusing on Android tablets first](https://appleinsider.com/articles/26/02/26/blender-shelves-ipad-app-says-its-focusing-on-android-tablets-first?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

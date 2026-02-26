@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer’s new laptop sleeve wirelessly charges other devices](https://www.theverge.com/tech/885381/razer-laptop-sleeve-16-inch-wireless-charger-qi-power)
+ - [Sources: US semiconductor companies face worsening rare earth shortages, as shipments still rarely make it to the US despite an October 2025 detente with China &lpar;Reuters&rpar;](http://www.techmeme.com/260226/p42#a260226p42)
  - [Viture, which ranked top in XR glasses shipments in the US in Q3 2025, per IDC, raised $100M, bringing its funding in the past six months to $200M &lpar;Charlie Fink/Forbes&rpar;](http://www.techmeme.com/260226/p41#a260226p41)
  - [Cricut’s most popular cutting machine now takes up less space in your crafting room](https://www.theverge.com/tech/883743/cricut-cutting-machine-explore-5-joy-2-drawing-writing-crafting)
- - [A Greek court sentences four people, including spyware maker Intellexa&#39;s founder, to prison, for using spyware to target journalists, politicians, and others &lpar;Nektaria Stamouli/Politico&rpar;](http://www.techmeme.com/260226/p40#a260226p40)
- - [Driverless truck startup Einride raised a $113M PIPE at a $1.35B pre-money valuation, down from $1.8B initially attached to its upcoming SPAC deal &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260226/p39#a260226p39)
- - [Encord, whose software helps companies developing AI models manage training data for robots and other uses, raised $60M at a $500M pre-money valuation &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/260226/p38#a260226p38)<!-- TECH:END -->
+ - [A Greek court sentences four people, including spyware maker Intellexa&#39;s founder, to prison, for using spyware to target journalists, politicians, and others &lpar;Nektaria Stamouli/Politico&rpar;](http://www.techmeme.com/260226/p40#a260226p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

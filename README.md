@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revel, founded by ex-SpaceX Starship software lead Scott Morton to replace legacy systems that test complex hardware like rockets, raised $150M led by Index &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260226/p29#a260226p29)
- - [eBay says it plans to cut ~800 jobs, or ~6% of its full-time employees, after laying off ~500 people in early 2023 and ~1,000 staff in early 2024 &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/260226/p28#a260226p28)
- - [Software stocks in the State Street ETF lost $1.6T in combined market cap in 2026 due to AI fears; Microsoft, AppLovin, Intuit, and Salesforce each lost $50B+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260226/p27#a260226p27)
- - [Bermuda-based crypto trading platform STS Digital, which caters to institutional investors, raised $30M led by CMT Digital, with Kraken and others participating &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260226/p26#a260226p26)
- - [My Quest to Virtually Learn the Piano With Roli Airwave](https://www.cnet.com/tech/roli-airwave-piano-prove-it/)<!-- TECH:END -->
+ - [Xbox is in danger. Will Microsoft fix it or kill it?](https://www.theverge.com/podcast/884693/xbox-phil-spencer-microsoft-gaming-future-cloud-game-pass)
+ - [OpenAI says it will make London its largest research hub outside of the US, without giving specific details; OpenAI&#39;s European headquarters are in Dublin &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/260226/p32#a260226p32)
+ - [Burger King launches Patty, an OpenAI-powered voice chatbot in headsets that offers coaching, meal prep help, and evaluates interactions for &quot;friendliness&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260226/p31#a260226p31)
+ - [Anthropic gives its retired Claude AI a Substack](https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack)
+ - [Total on-chain ransomware payments fell 8% YoY to $820M in 2025, despite a record 50% rise in claimed victims; the median payment grew 368% YoY to nearly $60K &lpar;Chainalysis&rpar;](http://www.techmeme.com/260226/p30#a260226p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

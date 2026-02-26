@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As China grapples with a shrinking population and low birthrate, some women are finding romance with AI chatbots, leading Beijing to increase AI regulations &lpar;New York Times&rpar;](http://www.techmeme.com/260226/p17#a260226p17)
- - [Salesforce CEO Marc Benioff dismisses concerns of a &quot;SaaS-pocalypse&quot;, saying companies like Anthropic use &quot;a lot of SaaS because it just got better with agents&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p16#a260226p16)
- - [Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)
- - [As studios like Arc Raiders maker Embark embrace AI for non-essential game elements, gamers worry that AI squeezes the art out of games, amid industry job cuts &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260226/p15#a260226p15)
- - [Why Sierra the Supercomputer Had to Die](https://www.wired.com/story/why-sierra-the-supercomputer-had-to-die/)<!-- TECH:END -->
+ - [Anthropic retired Claude Opus 3, its first model to undergo a new &quot;retirement interview&quot; process, and says Opus 3 asked to write weekly essays for a newsletter &lpar;Anthropic&rpar;](http://www.techmeme.com/260226/p20#a260226p20)
+ - [Mistral and Accenture sign a multi-year deal to let Accenture deploy Mistral&#39;s models for its clients; Mistral has deals with IBM, Cisco, SAP, ASML, and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260226/p19#a260226p19)
+ - [Citadel rebuts Citrini&#39;s viral article, arguing that AI deployment is constrained by the marginal cost of compute vs. human labor, and needs far more compute &lpar;Citadel Securities&rpar;](http://www.techmeme.com/260226/p18#a260226p18)
+ - [The Best Headphones I’ve Tried &lpar;and Why I&#39;d Buy Them All&rpar;](https://www.wired.com/story/best-headphones/)
+ - [As China grapples with a shrinking population and low birthrate, some women are finding romance with AI chatbots, leading Beijing to increase AI regulations &lpar;New York Times&rpar;](http://www.techmeme.com/260226/p17#a260226p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

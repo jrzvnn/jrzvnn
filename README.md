@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox is in danger. Will Microsoft fix it or kill it?](https://www.theverge.com/podcast/884693/xbox-phil-spencer-microsoft-gaming-future-cloud-game-pass)
- - [OpenAI says it will make London its largest research hub outside of the US, without giving specific details; OpenAI&#39;s European headquarters are in Dublin &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/260226/p32#a260226p32)
- - [Burger King launches Patty, an OpenAI-powered voice chatbot in headsets that offers coaching, meal prep help, and evaluates interactions for &quot;friendliness&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260226/p31#a260226p31)
- - [Anthropic gives its retired Claude AI a Substack](https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack)
- - [Total on-chain ransomware payments fell 8% YoY to $820M in 2025, despite a record 50% rise in claimed victims; the median payment grew 368% YoY to nearly $60K &lpar;Chainalysis&rpar;](http://www.techmeme.com/260226/p30#a260226p30)<!-- TECH:END -->
+ - [8BitDo’s customizable Pro 3 controller is $30 off for the first time](https://www.theverge.com/gadgets/885192/8bitdo-pro-3-controller-switch-2-pc-galaxy-buds-4-pro-deal-sale)
+ - [HBO Max&amp;#8217;s password-sharing crackdown is going global](https://www.theverge.com/streaming/885303/hbo-max-password-sharing-global-expansion-q4-2025)
+ - [Democrats to introduce bill aimed at resurrecting IRS Direct File](https://www.theverge.com/policy/885225/democrats-irs-direct-file-act-taxes)
+ - [Google’s Nano Banana 2 brings advanced AI image tools to free users](https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch)
+ - [OpenAI Announces Major Expansion of London Office](https://www.wired.com/story/openai-expands-london-office-major-research-hub/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

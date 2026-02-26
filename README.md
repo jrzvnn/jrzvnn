@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Social media addiction trial: 20-year-old plaintiff KGM testifies her social media use, which began in childhood, exacerbated depression and suicidal thoughts &lpar;Associated Press&rpar;](http://www.techmeme.com/260226/p52#a260226p52)
+ - [Jack Dorsey’s Block cuts nearly half of its staff in AI gamble](https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai)
+ - [Lenovo leak reveals a foldable gaming handheld that&amp;#8217;s also a Windows laptop](https://www.theverge.com/tech/885656/lenovo-legion-go-fold-concept-leak)
  - [Why no magnets in Galaxy S26? Samsung R&amp;#038;D chief explains](https://www.theverge.com/news/885616/samsung-galaxy-s26-no-magnets-because-people-use-cases)
- - [CoreWeave reports Q4 revenue up 110% YoY to $1.57B, vs. $1.55B est., and adjusted loss of $284M, vs. $258.9M est.; CRWV drops 5%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260226/p51#a260226p51)
- - [Dell reports Q4 revenue up 39% YoY to $33.4B, vs. $31.73B est., and forecasts FY 2027 revenue above estimates; DELL jumps 10%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260226/p50#a260226p50)
- - [Smartphone sales could be in for their biggest drop ever](https://www.theverge.com/gadgets/885638/smartphone-decline-ram-shortage-idc)
- - [Blender shelves iPad app, says it&#39;s focusing on Android tablets first](https://appleinsider.com/articles/26/02/26/blender-shelves-ipad-app-says-its-focusing-on-android-tablets-first?utm_source=rss)<!-- TECH:END -->
+ - [CoreWeave reports Q4 revenue up 110% YoY to $1.57B, vs. $1.55B est., and adjusted loss of $284M, vs. $258.9M est.; CRWV drops 5%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260226/p51#a260226p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

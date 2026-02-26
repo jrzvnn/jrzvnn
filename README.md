@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung exec confirms you can blame RAM — and other materials — for the Galaxy S26’s higher pricetag](https://www.theverge.com/tech/885566/samsung-ram-galaxy-s26-price)
- - [FTC declines to enforce a kids privacy law for data collected to verify users’ ages](https://www.theverge.com/policy/885592/ftc-age-verification-childrens-online-privacy-enforcement)
- - [Qualcomm won&amp;#8217;t be announcing Windows gaming handhelds at GDC after all](https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all)
- - [IDC: global smartphone shipments will fall 12.9% YoY to 1.12B units in 2026, the market&#39;s largest-ever decline, as surging memory prices drive up device costs &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/260226/p46#a260226p46)
- - [How Chinese AI Chatbots Censor Themselves](https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/)<!-- TECH:END -->
+ - [Dell reports Q4 revenue up 39% YoY to $33.4B, vs. $31.73B est., and forecasts FY 2027 revenue above estimates; DELL jumps 10%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260226/p50#a260226p50)
+ - [Smartphone sales could be in for their biggest drop ever](https://www.theverge.com/gadgets/885638/smartphone-decline-ram-shortage-idc)
+ - [Blender shelves iPad app, says it&#39;s focusing on Android tablets first](https://appleinsider.com/articles/26/02/26/blender-shelves-ipad-app-says-its-focusing-on-android-tablets-first?utm_source=rss)
+ - [Block says it is laying off more than 4,000 of its 10,000+ employees; XYZ jumps 19%+ in extended trading &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260226/p49#a260226p49)
+ - [Sources: Meta last week scrapped the most advanced AI chip it was developing, after struggling with the design, and shifted its focus to a less complicated chip &lpar;The Information&rpar;](http://www.techmeme.com/260226/p48#a260226p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

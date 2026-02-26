@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8BitDo’s customizable Pro 3 controller is $30 off for the first time](https://www.theverge.com/gadgets/885192/8bitdo-pro-3-controller-switch-2-pc-galaxy-buds-4-pro-deal-sale)
- - [HBO Max&amp;#8217;s password-sharing crackdown is going global](https://www.theverge.com/streaming/885303/hbo-max-password-sharing-global-expansion-q4-2025)
- - [Democrats to introduce bill aimed at resurrecting IRS Direct File](https://www.theverge.com/policy/885225/democrats-irs-direct-file-act-taxes)
- - [Google’s Nano Banana 2 brings advanced AI image tools to free users](https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch)
- - [OpenAI Announces Major Expansion of London Office](https://www.wired.com/story/openai-expands-london-office-major-research-hub/)<!-- TECH:END -->
+ - [Viture, which ranked top in XR glasses shipments in the US in Q3 2025, per IDC, raised $100M, bringing its funding in the past six months to $200M &lpar;Charlie Fink/Forbes&rpar;](http://www.techmeme.com/260226/p41#a260226p41)
+ - [Cricut’s most popular cutting machine now takes up less space in your crafting room](https://www.theverge.com/tech/883743/cricut-cutting-machine-explore-5-joy-2-drawing-writing-crafting)
+ - [A Greek court sentences four people, including spyware maker Intellexa&#39;s founder, to prison, for using spyware to target journalists, politicians, and others &lpar;Nektaria Stamouli/Politico&rpar;](http://www.techmeme.com/260226/p40#a260226p40)
+ - [Driverless truck startup Einride raised a $113M PIPE at a $1.35B pre-money valuation, down from $1.8B initially attached to its upcoming SPAC deal &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260226/p39#a260226p39)
+ - [Encord, whose software helps companies developing AI models manage training data for robots and other uses, raised $60M at a $500M pre-money valuation &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/260226/p38#a260226p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York&#39;s AG sues Valve over its use of loot boxes, accusing the game developer of violating state gambling laws and threatening to addict children to gambling &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260225/p51#a260225p51)
- - [Alphabet&#39;s Intrinsic, which builds AI models and software for industrial robots, joins Google; it will remain a distinct entity and work with Google DeepMind &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260225/p50#a260225p50)
- - [New York sues Valve, alleging its loot boxes are ‘quintessential gambling’](https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit)
- - [Snowflake reports Q4 product revenue up 30% YoY to $1.23B, vs. $1.18B est., and forecasts Q1 and FY 2027 product revenue above estimates &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260225/p49#a260225p49)
- - [Zoom reports Q4 revenue up 5.3% YoY to $1.25B, vs. $1.23B est., online revenue up 2.6% to $489.7M, and forecasts Q1 adjusted profit per share below estimates &lpar;Anhata Rooprai/Reuters&rpar;](http://www.techmeme.com/260225/p48#a260225p48)<!-- TECH:END -->
+ - [Filing: C3.ai plans to cut ~26% of its workforce; the company had ~1,200 employees as of April 2025; C3.ai shares drop 20%+ after hours on weaker FY guidance &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p53#a260225p53)
+ - [Samsung Galaxy S26 Ultra vs. Galaxy S26 and S26 Plus: Flagship Specs Comparison](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/)
+ - [A Hacker Threat Is Hiding in Your Car&#39;s Tire Pressure System](https://www.cnet.com/roadshow/news/hacker-threat-hiding-in-car-tire-pressure-system/)
+ - [Sources: Saronic, which is building autonomous warships, is raising up to $1.5B at a ~$7.5B pre-money valuation; Saronic was last valued at $3.4B a year ago &lpar;The Information&rpar;](http://www.techmeme.com/260225/p52#a260225p52)
+ - [On Expands Robot Factories to Manufacture Its Cloud-Like Sneakers](https://www.cnet.com/tech/on-expands-robot-factories-to-manufacture-its-running-sneakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

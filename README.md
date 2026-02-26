@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: C3.ai plans to cut ~26% of its workforce; the company had ~1,200 employees as of April 2025; C3.ai shares drop 20%+ after hours on weaker FY guidance &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p53#a260225p53)
- - [Samsung Galaxy S26 Ultra vs. Galaxy S26 and S26 Plus: Flagship Specs Comparison](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/)
- - [A Hacker Threat Is Hiding in Your Car&#39;s Tire Pressure System](https://www.cnet.com/roadshow/news/hacker-threat-hiding-in-car-tire-pressure-system/)
- - [Sources: Saronic, which is building autonomous warships, is raising up to $1.5B at a ~$7.5B pre-money valuation; Saronic was last valued at $3.4B a year ago &lpar;The Information&rpar;](http://www.techmeme.com/260225/p52#a260225p52)
- - [On Expands Robot Factories to Manufacture Its Cloud-Like Sneakers](https://www.cnet.com/tech/on-expands-robot-factories-to-manufacture-its-running-sneakers/)<!-- TECH:END -->
+ - [Anthropic unveils scheduled tasks in Cowork, enabling Claude to complete recurring tasks at specific times automatically &lpar;Claude/@claudeai&rpar;](http://www.techmeme.com/260225/p58#a260225p58)
+ - [The FTC says it won&#39;t enforce COPPA against companies using age verification tools as long as they use the collected data only to verify a user&#39;s age &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/260225/p57#a260225p57)
+ - [OpenAI hires Meta AI researcher Ruoming Pang, who joined Meta from Apple about seven months ago for a pay package reportedly worth $200M+ over several years &lpar;The Information&rpar;](http://www.techmeme.com/260225/p56#a260225p56)
+ - [New York Times Debuts the Midi Crossword, Its In-Between Puzzle](https://www.cnet.com/tech/gaming/the-new-york-times-debuts-the-midi-its-in-between-crossword-puzzle/)
+ - [Cisco warns of critical SD-WAN bug that was actively exploited in zero-day attacks since 2023, as CISA and international partners issue emergency directives &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260225/p55#a260225p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

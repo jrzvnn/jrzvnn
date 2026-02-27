@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Preorder Google’s Newest Phone and Get a Free $100 Gift Card](https://www.wired.com/story/google-pixel-10a-gift-card-february-2026/)
  - [Security researchers detail AirSnitch, a series of attacks that bypass Wi-Fi client isolation, enabling machine-in-the-middle attacks in modern Wi-Fi networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260227/p4#a260227p4)
  - [California DMV records show Tesla has logged zero autonomous test miles on the state&#39;s roads since 2019, despite Musk&#39;s claims of an imminent CA robotaxi launch &lpar;Chris Kirkham/Reuters&rpar;](http://www.techmeme.com/260227/p3#a260227p3)
  - [Sources: Jeff Bezos&#39; Project Prometheus is raising tens of billions to buy companies hit by AI; it was valued at ~$30B in November 2025 when it raised $6.2B &lpar;Financial Times&rpar;](http://www.techmeme.com/260227/p2#a260227p2)
- - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)
- - [KitchenAid Promo Codes and Discounts: Save Up To 20%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

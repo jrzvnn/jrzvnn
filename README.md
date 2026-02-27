@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A more meaningful play](http://9gag.com/gag/awy243B)
- - 😝 [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
- - 💣 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)
- - 😝 [Y so mad, bro?](http://9gag.com/gag/aD25X2Z)
- - 👉 [Please be good. Please be good.](http://9gag.com/gag/aGy526w)<!-- MEMES:END -->
+ - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 😝 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
+ - 💣 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
+ - 😝 [Unexpected....](http://9gag.com/gag/awy2dBB)
+ - 👉 [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)<!-- MEMES:END -->
 
 ---
 

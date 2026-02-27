@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French e-commerce marketplace ManoMano notifies its customers of a data breach affecting 38M; the company said the incident involved a third party subcontractor &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260227/p8#a260227p8)
+ - [Equinix and Canada Pension Plan Investment Board agree to acquire atNorth Holding, a pan-Nordic data center operator, valuing atNorth at $4B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p7#a260227p7)
+ - [Tin Can Is a Dumb Phone for Kids. Can Someone Teach Them How to Use It?](https://www.wired.com/story/tin-can-is-a-dumb-phone-for-kids-can-someone-teach-them-how-to-use-it/)
  - [South Korea approves Google&#39;s request to export detailed geographic data overseas, reversing a longstanding policy that made Google Maps largely nonfunctional &lpar;John Yoon/New York Times&rpar;](http://www.techmeme.com/260227/p6#a260227p6)
- - [Best Red Light Therapy for Hair Growth: WIRED-Approved &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)
- - [Plaid allowed employees to sell some of their shares at an $8B valuation, up 31% from the $6.1B valuation in April 2025 and 40% below its $13.4B peak in 2021 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260227/p5#a260227p5)
- - [Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses](https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/)
- - [6 Great Power Bank Deals for Your Thirsty Phone Battery](https://www.wired.com/story/power-bank-deals-february-2026/)<!-- TECH:END -->
+ - [Best Red Light Therapy for Hair Growth: WIRED-Approved &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

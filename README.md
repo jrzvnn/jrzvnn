@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 😝 [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)
  - 😝 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
- - 💣 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 😝 [I&#39;m in my 40&#39;s but my mom still prepares me some sandwiches for work. Poor, single &amp; no kids. But all is good when you have loving parents.](http://9gag.com/gag/avyw9Zn)
- - 👉 [Eva Green](http://9gag.com/gag/ae9w7GO)<!-- MEMES:END -->
+ - 💣 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
+ - 😝 [Who is this and why is this the wisest, most spot on thing I&#39;ve heard in a long time](http://9gag.com/gag/aE05ZVK)
+ - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
 
 ---
 

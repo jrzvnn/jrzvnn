@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pattern recognition](http://9gag.com/gag/amowVV6)
+ - 😝 [Melania nails it](http://9gag.com/gag/a0eq1xL)
  - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 💣 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
- - 😝 [I&#39;m in my 40&#39;s but my mom still prepares me some sandwiches for work. Poor, single &amp; no kids. But all is good when you have loving parents.](http://9gag.com/gag/avyw9Zn)
- - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 💣 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 😝 [Literally mee](http://9gag.com/gag/ae9wRbv)
+ - 👉 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)<!-- MEMES:END -->
 
 ---
 

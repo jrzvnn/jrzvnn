@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2026: all the phones, gadgets, and announcements from Barcelona](https://www.theverge.com/tech/882980/mwc-2026-news-phones-gadgets-announcements)
- - [Apple at 50: Michael Scott, the company&#39;s first CEO, made bold and bad choices](https://appleinsider.com/articles/26/02/27/apple-at-50-michael-scott-the-companys-first-ceo-made-bold-and-bad-choices?utm_source=rss)
- - [‘Love Is Blind’ Embraces the Manosphere](https://www.wired.com/story/love-is-blind-embraces-the-manosphere/)
- - [French e-commerce marketplace ManoMano notifies its customers of a data breach affecting 38M; the company said the incident involved a third party subcontractor &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260227/p8#a260227p8)
- - [Equinix and Canada Pension Plan Investment Board agree to acquire atNorth Holding, a pan-Nordic data center operator, valuing atNorth at $4B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p7#a260227p7)<!-- TECH:END -->
+ - [Aventon Soltera 3 Electric Bike Review: A Fun Hybrid Single-Speed](https://www.wired.com/review/aventon-soltera-3-electric-bike/)
+ - [Ultrahuman’s new flagship smart ring has a 15-day battery](https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability)
+ - [Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI](https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/)
+ - [Aktiia Hilo Blood Pressure Monitor Review: Cuffless BP Tracking](https://www.wired.com/review/aktiia-hilo-blood-pressure-monitor/)
+ - [Notes from a Burmese Prison](https://www.theverge.com/cs/features/820915/notes-burmese-prison-comic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

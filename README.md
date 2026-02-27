@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
- - 😝 [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)
- - 💣 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 💣 [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)
  - 😝 [I&#39;m in my 40&#39;s but my mom still prepares me some sandwiches for work. Poor, single &amp; no kids. But all is good when you have loving parents.](http://9gag.com/gag/avyw9Zn)
- - 👉 [Funny how that works...](http://9gag.com/gag/a7oXN0b)<!-- MEMES:END -->
+ - 👉 [Eva Green](http://9gag.com/gag/ae9w7GO)<!-- MEMES:END -->
 
 ---
 

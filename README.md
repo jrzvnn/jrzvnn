@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
- - 😝 [A more meaningful play](http://9gag.com/gag/awy243B)
- - 💣 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)
- - 😝 [Y so mad, bro?](http://9gag.com/gag/aD25X2Z)
- - 👉 [Please be good. Please be good.](http://9gag.com/gag/aGy526w)<!-- MEMES:END -->
+ - 😝 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
+ - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 💣 [Filter accidentally turned off briefly revealing the red flags](http://9gag.com/gag/ayNwQAy)
+ - 😝 [John Cleese would approve](http://9gag.com/gag/ayNwQ3p)
+ - 👉 [Bafta actors reaction after a guy with Tourette&#39;s started screaming the hard N......R](http://9gag.com/gag/ajPwZDq)<!-- MEMES:END -->
 
 ---
 

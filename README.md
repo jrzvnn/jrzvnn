@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
- - 😝 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - 💣 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
- - 😝 [$30 would have gotten you 1/2lb back then](http://9gag.com/gag/aE05O9o)
- - 👉 [Bafta actors reaction after a guy with Tourette&#39;s started screaming the hard N......R](http://9gag.com/gag/ajPwZDq)<!-- MEMES:END -->
+ - 😝 [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)
+ - 😝 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
+ - 💣 [Pattern recognition](http://9gag.com/gag/amowVV6)
+ - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
+ - 👉 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)<!-- MEMES:END -->
 
 ---
 

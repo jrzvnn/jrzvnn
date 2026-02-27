@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A federal judge issues a preliminary injunction blocking Virginia from enforcing a new law restricting children&#39;s social media use, on First Amendment grounds &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260227/p35#a260227p35)
  - [NASA is pushing back its plans for a Moon landing](https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028)
  - [Defense secretary Pete Hegseth designates Anthropic a supply chain risk](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff)
  - [Dell stock closes up 22%, its biggest single-day gain since March 1, 2024, after the company gave an outlook for sales of its AI servers that exceeded estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260227/p34#a260227p34)
- - [Defense Secretary Pete Hegseth directs the DOD to designate Anthropic as a supply chain risk, barring military contractors from doing business with the company &lpar;@secwar&rpar;](http://www.techmeme.com/260227/p33#a260227p33)
- - [The FCC Just Approved Charter’s $34.5 Billion Cox Purchase. Here’s What It Means for 37 Million Customers](https://www.cnet.com/home/internet/fcc-approves-charter-acquisition-of-cox/)<!-- TECH:END -->
+ - [Defense Secretary Pete Hegseth directs the DOD to designate Anthropic as a supply chain risk, barring military contractors from doing business with the company &lpar;@secwar&rpar;](http://www.techmeme.com/260227/p33#a260227p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

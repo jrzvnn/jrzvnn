@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suno CEO and co-founder Mikey Shulman says the AI music company hit 2M paid subscribers and $300M ARR; pitch deck: it had 1M paid subscribers in November 2025 &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/260227/p22#a260227p22)
- - [The global RAM and SSD shortage crisis, explained](https://appleinsider.com/articles/26/02/27/the-global-ram-and-ssd-shortage-crisis-explained?utm_source=rss)
- - [HBO Max: The 26 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-hbo-max-february-2026/)
- - [The Clicks Communicator Will Have Keyboard Layouts in Arabic, French, German, Korean](https://www.cnet.com/tech/mobile/the-clicks-communicator-keyboard-layouts-for-arabic-french-german-korean/)
- - [AI vs. the Pentagon: killer robots, mass surveillance, and red lines](https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines)<!-- TECH:END -->
+ - [Two coalitions of workers, including employees of Amazon, Google, Microsoft, and OpenAI, ask their companies to join Anthropic in refusing DOD&#39;s demands &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p24#a260227p24)
+ - [OpenAI Fires an Employee for Prediction Market Insider Trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
+ - [CISA is getting a new acting director after less than a year](https://www.theverge.com/policy/886316/acting-cisa-director-replaced-madhu-gottumukkala)
+ - [Everything Larry and David Ellison Will Control if Paramount Buys Warner Bros.](https://www.wired.com/story/everything-the-ellison-family-will-control-if-paramount-acquires-warner-brothers-discovery/)
+ - [Court docs from a New Mexico trial reveal internal divisions at Meta as Instagram teen safety initiatives conflicted with growth and engagement goals &lpar;The Atlantic&rpar;](http://www.techmeme.com/260227/p23#a260227p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

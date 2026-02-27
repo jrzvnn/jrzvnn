@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a newly released deposition in Elon Musk&#39;s case against OpenAI, Musk attacked OpenAI&#39;s safety record, saying nobody &quot;committed suicide because of Grok&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260227/p29#a260227p29)
+ - [As part of the Amazon-OpenAI deal, the companies plan a &quot;stateful runtime environment&quot; for AWS, letting agents carry context forward to handle ongoing projects &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260227/p28#a260227p28)
  - [What&#39;s an E-Bike? California Wants You to Know](https://www.wired.com/story/what-is-an-e-bike-california-might-find-out/)
  - [Amazon is paying ~16x Microsoft&#39;s price per OpenAI percentage point, while getting none of Microsoft&#39;s exclusives, showing the cost of being late in AI &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/260227/p27#a260227p27)
- - [The Trump phone sure looks a lot like this HTC handset](https://www.theverge.com/tech/886135/trump-mobile-t1-phone-htc-u24-pro)
- - [OpenAI fired an employee for insider trading on prediction markets like Polymarket; Unusual Whales has flagged 77 suspected insider trades around OpenAI events &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260227/p26#a260227p26)
- - [Source: OpenAI expects to raise an additional $10B from financial investors by the end of March 2026, bringing its post-investment valuation to $850B &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260227/p25#a260227p25)<!-- TECH:END -->
+ - [The Trump phone sure looks a lot like this HTC handset](https://www.theverge.com/tech/886135/trump-mobile-t1-phone-htc-u24-pro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

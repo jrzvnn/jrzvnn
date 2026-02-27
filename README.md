@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aventon Soltera 3 Electric Bike Review: A Fun Hybrid Single-Speed](https://www.wired.com/review/aventon-soltera-3-electric-bike/)
- - [Ultrahuman’s new flagship smart ring has a 15-day battery](https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability)
- - [Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI](https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/)
- - [Aktiia Hilo Blood Pressure Monitor Review: Cuffless BP Tracking](https://www.wired.com/review/aktiia-hilo-blood-pressure-monitor/)
- - [Notes from a Burmese Prison](https://www.theverge.com/cs/features/820915/notes-burmese-prison-comic)<!-- TECH:END -->
+ - [Pokémon Presents 2026: all the news and trailers](https://www.theverge.com/games/885578/pokemon-presents-2026-news-trailers)
+ - [OpenAI raised $110B at a $730B pre-money valuation, up from $500B in a secondary financing in Oct.; Amazon invested $50B, Nvidia and SoftBank invested $30B each &lpar;CNBC&rpar;](http://www.techmeme.com/260227/p11#a260227p11)
+ - [Sources detail how the standoff between the Pentagon and Anthropic escalated after discussions about using Claude during hypothetical nuclear missile attacks &lpar;Washington Post&rpar;](http://www.techmeme.com/260227/p10#a260227p10)
+ - [What Apple&#39;s launching in March, and more on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/27/what-apples-launching-in-march-and-more-on-the-appleinsider-podcast?utm_source=rss)
+ - [AirPods Pro 3 vs Sony XM6 earbuds: Personal audio compared](https://appleinsider.com/inside/airpods-pro/vs/airpods-pro-3-vs-sony-xm6-earbuds-personal-audio-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

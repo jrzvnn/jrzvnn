@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Terence Tao on AI-generated Erdős solutions, &quot;cheap wins&quot;, hybrid human AI contributions, push-of-a-button workflows, new ways of doing math, and more &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/260226/p62#a260226p62)
- - [Sources: two members of Thinking Machines Lab&#39;s founding team, Christian Gibson and Noah Shpak, left the startup and have been working at Meta for a few weeks &lpar;Business Insider&rpar;](http://www.techmeme.com/260226/p61#a260226p61)
- - [Dario Amodei says Anthropic cannot &quot;in good conscience&quot; accede to DOD&#39;s request to remove safeguards and will work to ensure a smooth transition if offboarded &lpar;Anthropic&rpar;](http://www.techmeme.com/260226/p60#a260226p60)
- - [Smartphone Sales to Plummet 13% in 2026 Due to RAM Crisis, Says IDC](https://www.cnet.com/tech/mobile/smartphone-sales-to-plummet-13-pct-2026-idc/)
- - [The Latest Repair Battlefield Is the Iowa Farmlands—Again](https://www.wired.com/story/latest-repair-battlefield-iowa-farmlands-again/)<!-- TECH:END -->
+ - [Letter: 100+ Google DeepMind and other AI employees urge Jeff Dean to block US military deals that use Gemini for mass surveillance or autonomous weapons &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/260226/p66#a260226p66)
+ - [CISA&#39;s interim director Madhu Gottumukkala is reassigned as DHS&#39; director of strategic implementation; executive assistant director Nick Andersen will take over &lpar;Luke Barr/ABC News&rpar;](http://www.techmeme.com/260226/p65#a260226p65)
+ - [xAI co-founder Toby Pohlen is leaving the company, the seventh of 12 xAI co-founders to depart; Elon Musk put Pohlen in charge of Macrohard earlier this month &lpar;Tamsin McMahon/Bloomberg&rpar;](http://www.techmeme.com/260226/p64#a260226p64)
+ - [OpenAI says it will overhaul safety protocols and establish direct contact with Canadian police, after not alerting authorities about the Tumbler Ridge suspect &lpar;Mickey Djuric/Politico&rpar;](http://www.techmeme.com/260226/p63#a260226p63)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Feb. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-feb-27/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

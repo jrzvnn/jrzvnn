@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TMTG says it is in talks to spin off Truth Social into a public company, following the close of its previously announced merger with nuclear fusion startup TAE &lpar;Christine Wang/Axios&rpar;](http://www.techmeme.com/260227/p19#a260227p19)
- - [We don&amp;#8217;t have to have unsupervised killer robots](https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react)
- - [TikTok returns to Albania after a year-long ban, ostensibly linked to the death of a teenage boy, expired; Albania says TikTok has tightened safety measures &lpar;Reuters&rpar;](http://www.techmeme.com/260227/p18#a260227p18)
- - [Studio Display Pro rumors resurface after code references suggest a premium model](https://appleinsider.com/articles/26/02/27/studio-display-pro-rumors-resurface-after-code-references-suggest-a-premium-model?utm_source=rss)
- - [Everything Announced During the Pokemon Day 2026 Livestream](https://www.cnet.com/tech/gaming/everything-announced-for-pokemon-day-2026/)<!-- TECH:END -->
+ - [AI vs. the Pentagon: killer robots, mass surveillance, and red lines](https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines)
+ - [India-based Ultrahuman launches the $479 Ring Pro, available for pre-order globally, excluding the US, after the ITC ruled in favor of Oura in a patent dispute &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260227/p21#a260227p21)
+ - [Woot’s ‘Video Games for All’ sale features some of our favorite games](https://www.theverge.com/gadgets/885334/woot-ps5-nintendo-switch-video-game-sale-lg-c5-oled-tv-deal)
+ - [Get Apple&#39;s 15-inch MacBook Air M4 for $1,049 with this weekend deal](https://appleinsider.com/articles/26/02/27/get-apples-15-inch-macbook-air-m4-for-1049-with-this-weekend-deal?utm_source=rss)
+ - [Flux, which offers an AI-powered platform to design PCBs for electronic devices, raised $37M, including a $27M Series B led by 8VC and a $10M Series A &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260227/p20#a260227p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

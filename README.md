@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)
- - 😝 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
- - 💣 [Pattern recognition](http://9gag.com/gag/amowVV6)
+ - 😝 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
+ - 💣 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
  - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - 👉 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)<!-- MEMES:END -->
+ - 👉 [Pattern recognition](http://9gag.com/gag/amowVV6)<!-- MEMES:END -->
 
 ---
 

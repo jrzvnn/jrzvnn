@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected....](http://9gag.com/gag/awy2dBB)
- - 😝 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - 💣 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
- - 😝 [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)
- - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
+ - 😝 [Pattern recognition](http://9gag.com/gag/amowVV6)
+ - 💣 [Don\u2019t worry the cops got this. Y\u2019all keep messing with that lock](http://9gag.com/gag/ae9wmOq)
+ - 😝 [$30 would have gotten you 1/2lb back then](http://9gag.com/gag/aE05O9o)
+ - 👉 [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)<!-- MEMES:END -->
 
 ---
 

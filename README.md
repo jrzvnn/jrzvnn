@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paramount agrees to acquire WBD, paying $31 per share in cash, giving WBD an enterprise value of $110B; Paramount paid a $2.8B breakup fee to Netflix &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260227/p32#a260227p32)
+ - [Warner Bros. Discovery agrees to $110 billion Paramount merger](https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement)
+ - [Trump Moves to Ban Anthropic From the US Government](https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/)
  - [Trump orders federal agencies to drop Anthropic’s AI](https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod)
- - [President Trump calls Anthropic a &quot;radical left, woke company&quot; and says he is directing every federal agency in the US to stop using its products &lpar;Axios&rpar;](http://www.techmeme.com/260227/p31#a260227p31)
- - [Sources: SpaceX weighs filing confidentially for an IPO as soon as March, targeting a June listing that could raise up to $50B at a $1.75T valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p30#a260227p30)
- - [The Best Roku Is $20 Off](https://www.wired.com/story/roku-ultra-deal-226/)
- - [In a newly released deposition in Elon Musk&#39;s case against OpenAI, Musk attacked OpenAI&#39;s safety record, saying nobody &quot;committed suicide because of Grok&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260227/p29#a260227p29)<!-- TECH:END -->
+ - [Trump Tells Feds to Stop Using Claude AI After Anthropic Stood by Surveillance Restrictions](https://www.cnet.com/tech/services-and-software/anthropic-claude-pentagon-surveillance-weapons-concerns-trump-order/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

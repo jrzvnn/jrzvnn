@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
- - 💣 [Filter accidentally turned off briefly revealing the red flags](http://9gag.com/gag/ayNwQAy)
- - 😝 [John Cleese would approve](http://9gag.com/gag/ayNwQ3p)
- - 👉 [Bafta actors reaction after a guy with Tourette&#39;s started screaming the hard N......R](http://9gag.com/gag/ajPwZDq)<!-- MEMES:END -->
+ - 😝 [Unexpected....](http://9gag.com/gag/awy2dBB)
+ - 😝 [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)
+ - 💣 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
+ - 😝 [Filter accidentally turned off briefly revealing the red flags](http://9gag.com/gag/ayNwQAy)
+ - 👉 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)<!-- MEMES:END -->
 
 ---
 

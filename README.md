@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Presents 2026: all the news and trailers](https://www.theverge.com/games/885578/pokemon-presents-2026-news-trailers)
- - [OpenAI raised $110B at a $730B pre-money valuation, up from $500B in a secondary financing in Oct.; Amazon invested $50B, Nvidia and SoftBank invested $30B each &lpar;CNBC&rpar;](http://www.techmeme.com/260227/p11#a260227p11)
- - [Sources detail how the standoff between the Pentagon and Anthropic escalated after discussions about using Claude during hypothetical nuclear missile attacks &lpar;Washington Post&rpar;](http://www.techmeme.com/260227/p10#a260227p10)
- - [What Apple&#39;s launching in March, and more on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/27/what-apples-launching-in-march-and-more-on-the-appleinsider-podcast?utm_source=rss)
- - [AirPods Pro 3 vs Sony XM6 earbuds: Personal audio compared](https://appleinsider.com/inside/airpods-pro/vs/airpods-pro-3-vs-sony-xm6-earbuds-personal-audio-compared?utm_source=rss)<!-- TECH:END -->
+ - [Note to staff: Sam Altman says OpenAI seeks a DOD deal with exemptions for cases like domestic surveillance and wants to &quot;help de-escalate&quot; DOD-Anthropic fight &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/260227/p12#a260227p12)
+ - [Netflix isn&amp;#8217;t buying Warner Bros: all of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)
+ - [visionOS 26 gets fix to keep F1 &amp; MLS streams looking crisp](https://appleinsider.com/articles/26/02/26/apple-vision-pro-owners-get-sports-related-fix-to-keep-f1-mls-streams-looking-crisp?utm_source=rss)
+ - [How to Watch the February 2026 Pokemon Presents Livestream](https://www.cnet.com/tech/gaming/how-to-watch-february-2026-pokemon-presents/)
+ - [TCL&amp;#8217;s $7,000+ flagship TV is ready to fight](https://www.theverge.com/tech/884981/tcl-x11l-sqd-mini-led-tv-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

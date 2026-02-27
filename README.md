@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - 😝 [Pattern recognition](http://9gag.com/gag/amowVV6)
- - 💣 [Don\u2019t worry the cops got this. Y\u2019all keep messing with that lock](http://9gag.com/gag/ae9wmOq)
+ - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 😝 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
+ - 💣 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
  - 😝 [$30 would have gotten you 1/2lb back then](http://9gag.com/gag/aE05O9o)
- - 👉 [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)<!-- MEMES:END -->
+ - 👉 [Bafta actors reaction after a guy with Tourette&#39;s started screaming the hard N......R](http://9gag.com/gag/ajPwZDq)<!-- MEMES:END -->
 
 ---
 

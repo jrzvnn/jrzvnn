@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected....](http://9gag.com/gag/awy2dBB)
- - 😝 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
- - 💣 [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)
- - 😝 [Post](http://9gag.com/gag/aBy5Or1)
- - 👉 [41 people Pepsi because of this](http://9gag.com/gag/ayNwRVX)<!-- MEMES:END -->
+ - 😝 [A more meaningful play](http://9gag.com/gag/awy243B)
+ - 😝 [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
+ - 💣 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)
+ - 😝 [Y so mad, bro?](http://9gag.com/gag/aD25X2Z)
+ - 👉 [Please be good. Please be good.](http://9gag.com/gag/aGy526w)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says ChatGPT has 900M+ weekly active users, 50M+ consumer subscribers, and weekly Codex users have more than tripled since the start of the year to 1.6M &lpar;OpenAI&rpar;](http://www.techmeme.com/260227/p16#a260227p16)
- - [The US military reportedly shot down a CBP drone with a laser](https://www.theverge.com/policy/886021/us-military-cbp-drone-laser-texas)
- - [Sam Altman says OpenAI shares Anthropic&#39;s red lines with respect to AI use by the military, which are &quot;an issue for the whole industry&quot; &lpar;Axios&rpar;](http://www.techmeme.com/260227/p15#a260227p15)
- - [Here&amp;#8217;s your first look at Kratos in Amazon&amp;#8217;s God of War show](https://www.theverge.com/streaming/886008/amazon-god-of-war-kratos-image)
- - [The Galaxy S26 is a photography nightmare](https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast)<!-- TECH:END -->
+ - [TMTG says it is in talks to spin off Truth Social into a public company, following the close of its previously announced merger with nuclear fusion startup TAE &lpar;Christine Wang/Axios&rpar;](http://www.techmeme.com/260227/p19#a260227p19)
+ - [We don&amp;#8217;t have to have unsupervised killer robots](https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react)
+ - [TikTok returns to Albania after a year-long ban, ostensibly linked to the death of a teenage boy, expired; Albania says TikTok has tightened safety measures &lpar;Reuters&rpar;](http://www.techmeme.com/260227/p18#a260227p18)
+ - [Studio Display Pro rumors resurface after code references suggest a premium model](https://appleinsider.com/articles/26/02/27/studio-display-pro-rumors-resurface-after-code-references-suggest-a-premium-model?utm_source=rss)
+ - [Everything Announced During the Pokemon Day 2026 Livestream](https://www.cnet.com/tech/gaming/everything-announced-for-pokemon-day-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

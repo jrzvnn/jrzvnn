@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Japanese government plans to invest ~$1.6B in Rapidus over the next two fiscal years to help it mass-produce 2nm logic chips and potentially challenge TSMC &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260226/p67#a260226p67)
  - [Letter: 100+ Google DeepMind and other AI employees urge Jeff Dean to block US military deals that use Gemini for mass surveillance or autonomous weapons &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/260226/p66#a260226p66)
  - [CISA&#39;s interim director Madhu Gottumukkala is reassigned as DHS&#39; director of strategic implementation; executive assistant director Nick Andersen will take over &lpar;Luke Barr/ABC News&rpar;](http://www.techmeme.com/260226/p65#a260226p65)
  - [xAI co-founder Toby Pohlen is leaving the company, the seventh of 12 xAI co-founders to depart; Elon Musk put Pohlen in charge of Macrohard earlier this month &lpar;Tamsin McMahon/Bloomberg&rpar;](http://www.techmeme.com/260226/p64#a260226p64)
- - [OpenAI says it will overhaul safety protocols and establish direct contact with Canadian police, after not alerting authorities about the Tumbler Ridge suspect &lpar;Mickey Djuric/Politico&rpar;](http://www.techmeme.com/260226/p63#a260226p63)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Feb. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-feb-27/)<!-- TECH:END -->
+ - [OpenAI says it will overhaul safety protocols and establish direct contact with Canadian police, after not alerting authorities about the Tumbler Ridge suspect &lpar;Mickey Djuric/Politico&rpar;](http://www.techmeme.com/260226/p63#a260226p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

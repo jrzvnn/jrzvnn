@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pattern recognition](http://9gag.com/gag/amowVV6)
- - 😝 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
+ - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 😝 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
  - 💣 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - 😝 [New Yorker gets cutoff during interview when blaming private equity for local issues](http://9gag.com/gag/ae9wR3Q)
+ - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
  - 👉 [Eva Green](http://9gag.com/gag/ae9w7GO)<!-- MEMES:END -->
 
 ---

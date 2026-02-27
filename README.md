@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says ChatGPT has 900M+ weekly active users, 50M+ consumer subscribers, and weekly Codex users have more than tripled since the start of the year to 1.6M &lpar;OpenAI&rpar;](http://www.techmeme.com/260227/p16#a260227p16)
+ - [The US military reportedly shot down a CBP drone with a laser](https://www.theverge.com/policy/886021/us-military-cbp-drone-laser-texas)
  - [Sam Altman says OpenAI shares Anthropic&#39;s red lines with respect to AI use by the military, which are &quot;an issue for the whole industry&quot; &lpar;Axios&rpar;](http://www.techmeme.com/260227/p15#a260227p15)
- - [The Galaxy S26 is a photography nightmare](https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast)
- - [Sources: multiple federal agencies raised concerns about Grok&#39;s safety and reliability in recent months, before DOD approved Grok for use in classified settings &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260227/p14#a260227p14)
- - [Amazon will invest $15B in OpenAI initially, followed by $35B if certain conditions are met; OpenAI commits to consuming ~2 GW of Trainium capacity through AWS &lpar;About Amazon&rpar;](http://www.techmeme.com/260227/p13#a260227p13)
- - [Pokémon Winds and Waves launch on the Switch 2 in 2027](https://www.theverge.com/games/885321/pokemon-winds-and-waves-trailer-browt-pombom-gecua)<!-- TECH:END -->
+ - [Here&amp;#8217;s your first look at Kratos in Amazon&amp;#8217;s God of War show](https://www.theverge.com/streaming/886008/amazon-god-of-war-kratos-image)
+ - [The Galaxy S26 is a photography nightmare](https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

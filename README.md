@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected....](http://9gag.com/gag/awy2dBB)
- - 😝 [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)
- - 💣 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - 😝 [Filter accidentally turned off briefly revealing the red flags](http://9gag.com/gag/ayNwQAy)
- - 👉 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)<!-- MEMES:END -->
+ - 😝 [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
+ - 😝 [Y so mad, bro?](http://9gag.com/gag/aD25X2Z)
+ - 💣 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)
+ - 😝 [Ive been informed that this is a tuna, you\u2019re effing kidding me right?](http://9gag.com/gag/aYQ5AKN)
+ - 👉 [Please be good. Please be good.](http://9gag.com/gag/aGy526w)<!-- MEMES:END -->
 
 ---
 

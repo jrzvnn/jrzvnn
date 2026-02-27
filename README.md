@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MWC 2026: all the phones, gadgets, and announcements from Barcelona](https://www.theverge.com/tech/882980/mwc-2026-news-phones-gadgets-announcements)
+ - [Apple at 50: Michael Scott, the company&#39;s first CEO, made bold and bad choices](https://appleinsider.com/articles/26/02/27/apple-at-50-michael-scott-the-companys-first-ceo-made-bold-and-bad-choices?utm_source=rss)
+ - [‘Love Is Blind’ Embraces the Manosphere](https://www.wired.com/story/love-is-blind-embraces-the-manosphere/)
  - [French e-commerce marketplace ManoMano notifies its customers of a data breach affecting 38M; the company said the incident involved a third party subcontractor &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260227/p8#a260227p8)
- - [Equinix and Canada Pension Plan Investment Board agree to acquire atNorth Holding, a pan-Nordic data center operator, valuing atNorth at $4B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p7#a260227p7)
- - [Tin Can Is a Dumb Phone for Kids. Can Someone Teach Them How to Use It?](https://www.wired.com/story/tin-can-is-a-dumb-phone-for-kids-can-someone-teach-them-how-to-use-it/)
- - [South Korea approves Google&#39;s request to export detailed geographic data overseas, reversing a longstanding policy that made Google Maps largely nonfunctional &lpar;John Yoon/New York Times&rpar;](http://www.techmeme.com/260227/p6#a260227p6)
- - [Best Red Light Therapy for Hair Growth: WIRED-Approved &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)<!-- TECH:END -->
+ - [Equinix and Canada Pension Plan Investment Board agree to acquire atNorth Holding, a pan-Nordic data center operator, valuing atNorth at $4B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p7#a260227p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

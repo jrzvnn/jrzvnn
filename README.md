@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
- - 😝 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
- - 💣 [Eva Green](http://9gag.com/gag/ae9w7GO)
- - 😝 [Literally mee](http://9gag.com/gag/ae9wRbv)
- - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 😝 [Pattern recognition](http://9gag.com/gag/amowVV6)
+ - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 💣 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
+ - 😝 [I&#39;m in my 40&#39;s but my mom still prepares me some sandwiches for work. Poor, single &amp; no kids. But all is good when you have loving parents.](http://9gag.com/gag/avyw9Zn)
+ - 👉 [Houston we have a problem](http://9gag.com/gag/aqywzPR)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI vs. the Pentagon: killer robots, mass surveillance, and red lines](https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines)
- - [India-based Ultrahuman launches the $479 Ring Pro, available for pre-order globally, excluding the US, after the ITC ruled in favor of Oura in a patent dispute &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260227/p21#a260227p21)
- - [Woot’s ‘Video Games for All’ sale features some of our favorite games](https://www.theverge.com/gadgets/885334/woot-ps5-nintendo-switch-video-game-sale-lg-c5-oled-tv-deal)
- - [Get Apple&#39;s 15-inch MacBook Air M4 for $1,049 with this weekend deal](https://appleinsider.com/articles/26/02/27/get-apples-15-inch-macbook-air-m4-for-1049-with-this-weekend-deal?utm_source=rss)
- - [Flux, which offers an AI-powered platform to design PCBs for electronic devices, raised $37M, including a $27M Series B led by 8VC and a $10M Series A &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260227/p20#a260227p20)<!-- TECH:END -->
+ - [Suno CEO and co-founder Mikey Shulman says the AI music company hit 2M paid subscribers and $300M ARR; pitch deck: it had 1M paid subscribers in November 2025 &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/260227/p22#a260227p22)
+ - [The global RAM and SSD shortage crisis, explained](https://appleinsider.com/articles/26/02/27/the-global-ram-and-ssd-shortage-crisis-explained?utm_source=rss)
+ - [HBO Max: The 26 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-hbo-max-february-2026/)
+ - [The Clicks Communicator Will Have Keyboard Layouts in Arabic, French, German, Korean](https://www.cnet.com/tech/mobile/the-clicks-communicator-keyboard-layouts-for-arabic-french-german-korean/)
+ - [AI vs. the Pentagon: killer robots, mass surveillance, and red lines](https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

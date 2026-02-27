@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
  - 😝 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
- - 💣 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - 😝 [Not the news you were looking for, but the news you needed. Some of you need to take the same road, join me. It\u2019s cooking time.](http://9gag.com/gag/avyw9OO)
- - 👉 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)<!-- MEMES:END -->
+ - 😝 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
+ - 💣 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 😝 [Pattern recognition](http://9gag.com/gag/amowVV6)
+ - 👉 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)<!-- MEMES:END -->
 
 ---
 

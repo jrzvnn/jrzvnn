@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea approves Google&#39;s request to export detailed geographic data overseas, reversing a longstanding policy that made Google Maps largely nonfunctional &lpar;John Yoon/New York Times&rpar;](http://www.techmeme.com/260227/p6#a260227p6)
+ - [Best Red Light Therapy for Hair Growth: WIRED-Approved &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)
+ - [Plaid allowed employees to sell some of their shares at an $8B valuation, up 31% from the $6.1B valuation in April 2025 and 40% below its $13.4B peak in 2021 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260227/p5#a260227p5)
  - [Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses](https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/)
- - [6 Great Power Bank Deals for Your Thirsty Phone Battery](https://www.wired.com/story/power-bank-deals-february-2026/)
- - [Preorder Google’s Newest Phone and Get a Free $100 Gift Card](https://www.wired.com/story/google-pixel-10a-gift-card-february-2026/)
- - [Security researchers detail AirSnitch, a series of attacks that bypass Wi-Fi client isolation, enabling machine-in-the-middle attacks in modern Wi-Fi networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260227/p4#a260227p4)
- - [California DMV records show Tesla has logged zero autonomous test miles on the state&#39;s roads since 2019, despite Musk&#39;s claims of an imminent CA robotaxi launch &lpar;Chris Kirkham/Reuters&rpar;](http://www.techmeme.com/260227/p3#a260227p3)<!-- TECH:END -->
+ - [6 Great Power Bank Deals for Your Thirsty Phone Battery](https://www.wired.com/story/power-bank-deals-february-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

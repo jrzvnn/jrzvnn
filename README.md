@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Note to staff: Sam Altman says OpenAI seeks a DOD deal with exemptions for cases like domestic surveillance and wants to &quot;help de-escalate&quot; DOD-Anthropic fight &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/260227/p12#a260227p12)
- - [Netflix isn&amp;#8217;t buying Warner Bros: all of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)
- - [visionOS 26 gets fix to keep F1 &amp; MLS streams looking crisp](https://appleinsider.com/articles/26/02/26/apple-vision-pro-owners-get-sports-related-fix-to-keep-f1-mls-streams-looking-crisp?utm_source=rss)
- - [How to Watch the February 2026 Pokemon Presents Livestream](https://www.cnet.com/tech/gaming/how-to-watch-february-2026-pokemon-presents/)
- - [TCL&amp;#8217;s $7,000+ flagship TV is ready to fight](https://www.theverge.com/tech/884981/tcl-x11l-sqd-mini-led-tv-review)<!-- TECH:END -->
+ - [Sam Altman says OpenAI shares Anthropic&#39;s red lines with respect to AI use by the military, which are &quot;an issue for the whole industry&quot; &lpar;Axios&rpar;](http://www.techmeme.com/260227/p15#a260227p15)
+ - [The Galaxy S26 is a photography nightmare](https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast)
+ - [Sources: multiple federal agencies raised concerns about Grok&#39;s safety and reliability in recent months, before DOD approved Grok for use in classified settings &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260227/p14#a260227p14)
+ - [Amazon will invest $15B in OpenAI initially, followed by $35B if certain conditions are met; OpenAI commits to consuming ~2 GW of Trainium capacity through AWS &lpar;About Amazon&rpar;](http://www.techmeme.com/260227/p13#a260227p13)
+ - [Pokémon Winds and Waves launch on the Switch 2 in 2027](https://www.theverge.com/games/885321/pokemon-winds-and-waves-trailer-browt-pombom-gecua)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

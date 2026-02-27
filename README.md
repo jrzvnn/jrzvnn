@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA is pushing back its plans for a Moon landing](https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028)
+ - [Defense secretary Pete Hegseth designates Anthropic a supply chain risk](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff)
+ - [Dell stock closes up 22%, its biggest single-day gain since March 1, 2024, after the company gave an outlook for sales of its AI servers that exceeded estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260227/p34#a260227p34)
  - [Defense Secretary Pete Hegseth directs the DOD to designate Anthropic as a supply chain risk, barring military contractors from doing business with the company &lpar;@secwar&rpar;](http://www.techmeme.com/260227/p33#a260227p33)
- - [The FCC Just Approved Charter’s $34.5 Billion Cox Purchase. Here’s What It Means for 37 Million Customers](https://www.cnet.com/home/internet/fcc-approves-charter-acquisition-of-cox/)
- - [Burger King Cooks Up &#39;Patty,&#39; an AI Chatbot to Monitor Employees](https://www.cnet.com/tech/services-and-software/burger-kings-cooks-up-patty-ai-chatbot-in-employee-headsets/)
- - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
- - [These Deals Can Have You Zipping Around on a New E-Scooter This Spring](https://www.wired.com/story/electric-scooters-spring-deals-2026/)<!-- TECH:END -->
+ - [The FCC Just Approved Charter’s $34.5 Billion Cox Purchase. Here’s What It Means for 37 Million Customers](https://www.cnet.com/home/internet/fcc-approves-charter-acquisition-of-cox/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
  - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 😝 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
- - 💣 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 💣 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 😝 [$30 would have gotten you 1/2lb back then](http://9gag.com/gag/aE05O9o)
  - 👉 [Eva Green](http://9gag.com/gag/ae9w7GO)<!-- MEMES:END -->
 
 ---

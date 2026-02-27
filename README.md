@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump calls Anthropic a &quot;radical left, woke company&quot; and says he is directing every federal agency in the US to stop using its products &lpar;Axios&rpar;](http://www.techmeme.com/260227/p31#a260227p31)
  - [Sources: SpaceX weighs filing confidentially for an IPO as soon as March, targeting a June listing that could raise up to $50B at a $1.75T valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p30#a260227p30)
  - [The Best Roku Is $20 Off](https://www.wired.com/story/roku-ultra-deal-226/)
  - [In a newly released deposition in Elon Musk&#39;s case against OpenAI, Musk attacked OpenAI&#39;s safety record, saying nobody &quot;committed suicide because of Grok&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260227/p29#a260227p29)
- - [As part of the Amazon-OpenAI deal, the companies plan a &quot;stateful runtime environment&quot; for AWS, letting agents carry context forward to handle ongoing projects &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260227/p28#a260227p28)
- - [I Tested the New Circle to Search on the Galaxy S26 and It Nailed My Outfit](https://www.cnet.com/tech/mobile/samsungs-galaxy-s26-circle-to-search-google-ai-full-outift/)<!-- TECH:END -->
+ - [As part of the Amazon-OpenAI deal, the companies plan a &quot;stateful runtime environment&quot; for AWS, letting agents carry context forward to handle ongoing projects &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260227/p28#a260227p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

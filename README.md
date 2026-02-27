@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SpaceX weighs filing confidentially for an IPO as soon as March, targeting a June listing that could raise up to $50B at a $1.75T valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p30#a260227p30)
+ - [The Best Roku Is $20 Off](https://www.wired.com/story/roku-ultra-deal-226/)
  - [In a newly released deposition in Elon Musk&#39;s case against OpenAI, Musk attacked OpenAI&#39;s safety record, saying nobody &quot;committed suicide because of Grok&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260227/p29#a260227p29)
  - [As part of the Amazon-OpenAI deal, the companies plan a &quot;stateful runtime environment&quot; for AWS, letting agents carry context forward to handle ongoing projects &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260227/p28#a260227p28)
- - [What&#39;s an E-Bike? California Wants You to Know](https://www.wired.com/story/what-is-an-e-bike-california-might-find-out/)
- - [Amazon is paying ~16x Microsoft&#39;s price per OpenAI percentage point, while getting none of Microsoft&#39;s exclusives, showing the cost of being late in AI &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/260227/p27#a260227p27)
- - [The Trump phone sure looks a lot like this HTC handset](https://www.theverge.com/tech/886135/trump-mobile-t1-phone-htc-u24-pro)<!-- TECH:END -->
+ - [I Tested the New Circle to Search on the Galaxy S26 and It Nailed My Outfit](https://www.cnet.com/tech/mobile/samsungs-galaxy-s26-circle-to-search-google-ai-full-outift/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

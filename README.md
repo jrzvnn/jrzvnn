@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two coalitions of workers, including employees of Amazon, Google, Microsoft, and OpenAI, ask their companies to join Anthropic in refusing DOD&#39;s demands &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p24#a260227p24)
- - [OpenAI Fires an Employee for Prediction Market Insider Trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
- - [CISA is getting a new acting director after less than a year](https://www.theverge.com/policy/886316/acting-cisa-director-replaced-madhu-gottumukkala)
- - [Everything Larry and David Ellison Will Control if Paramount Buys Warner Bros.](https://www.wired.com/story/everything-the-ellison-family-will-control-if-paramount-acquires-warner-brothers-discovery/)
- - [Court docs from a New Mexico trial reveal internal divisions at Meta as Instagram teen safety initiatives conflicted with growth and engagement goals &lpar;The Atlantic&rpar;](http://www.techmeme.com/260227/p23#a260227p23)<!-- TECH:END -->
+ - [What&#39;s an E-Bike? California Wants You to Know](https://www.wired.com/story/what-is-an-e-bike-california-might-find-out/)
+ - [Amazon is paying ~16x Microsoft&#39;s price per OpenAI percentage point, while getting none of Microsoft&#39;s exclusives, showing the cost of being late in AI &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/260227/p27#a260227p27)
+ - [The Trump phone sure looks a lot like this HTC handset](https://www.theverge.com/tech/886135/trump-mobile-t1-phone-htc-u24-pro)
+ - [OpenAI fired an employee for insider trading on prediction markets like Polymarket; Unusual Whales has flagged 77 suspected insider trades around OpenAI events &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260227/p26#a260227p26)
+ - [Source: OpenAI expects to raise an additional $10B from financial investors by the end of March 2026, bringing its post-investment valuation to $850B &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260227/p25#a260227p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

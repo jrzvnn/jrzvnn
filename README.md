@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intuit reports Q2 revenue up 17% YoY to $4.65B, vs. $4.53B est., and forecasts Q3 revenue growth of ~10% and EPS below expectations; INTU drops 5%+ after hours &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/260226/p57#a260226p57)
- - [Source: Meta has signed a multiyear deal to rent Google&#39;s TPUs to develop new models and has also been in talks to buy TPUs for its data centers as soon as 2027 &lpar;The Information&rpar;](http://www.techmeme.com/260226/p56#a260226p56)
- - [Apple Vision Pro owners get sports-related fix to keep F1 &amp; MLS streams looking crisp](https://appleinsider.com/articles/26/02/26/apple-vision-pro-owners-get-sports-related-fix-to-keep-f1-mls-streams-looking-crisp?utm_source=rss)
- - [Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei)
- - [‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union](https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/)<!-- TECH:END -->
+ - [Q&amp;A with Terence Tao on AI-generated Erdős solutions, &quot;cheap wins&quot;, hybrid human AI contributions, push-of-a-button workflows, new ways of doing math, and more &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/260226/p62#a260226p62)
+ - [Sources: two members of Thinking Machines Lab&#39;s founding team, Christian Gibson and Noah Shpak, left the startup and have been working at Meta for a few weeks &lpar;Business Insider&rpar;](http://www.techmeme.com/260226/p61#a260226p61)
+ - [Dario Amodei says Anthropic cannot &quot;in good conscience&quot; accede to DOD&#39;s request to remove safeguards and will work to ensure a smooth transition if offboarded &lpar;Anthropic&rpar;](http://www.techmeme.com/260226/p60#a260226p60)
+ - [Smartphone Sales to Plummet 13% in 2026 Due to RAM Crisis, Says IDC](https://www.cnet.com/tech/mobile/smartphone-sales-to-plummet-13-pct-2026-idc/)
+ - [The Latest Repair Battlefield Is the Iowa Farmlands—Again](https://www.wired.com/story/latest-repair-battlefield-iowa-farmlands-again/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

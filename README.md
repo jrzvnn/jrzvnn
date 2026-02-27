@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 💣 [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)
+ - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 😝 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
+ - 💣 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
  - 😝 [I&#39;m in my 40&#39;s but my mom still prepares me some sandwiches for work. Poor, single &amp; no kids. But all is good when you have loving parents.](http://9gag.com/gag/avyw9Zn)
  - 👉 [Eva Green](http://9gag.com/gag/ae9w7GO)<!-- MEMES:END -->
 

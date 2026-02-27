@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Deals Can Have You Zipping Around on a New E-Scooter This Spring](https://www.wired.com/story/electric-scooters-spring-deals-2026/)
  - [Paramount agrees to acquire WBD, paying $31 per share in cash, giving WBD an enterprise value of $110B; Paramount paid a $2.8B breakup fee to Netflix &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260227/p32#a260227p32)
  - [Warner Bros. Discovery agrees to $110 billion Paramount merger](https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement)
  - [Trump Moves to Ban Anthropic From the US Government](https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/)
- - [Trump orders federal agencies to drop Anthropic’s AI](https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod)
- - [Trump Tells Feds to Stop Using Claude AI After Anthropic Stood by Surveillance Restrictions](https://www.cnet.com/tech/services-and-software/anthropic-claude-pentagon-surveillance-weapons-concerns-trump-order/)<!-- TECH:END -->
+ - [Trump orders federal agencies to drop Anthropic’s AI](https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

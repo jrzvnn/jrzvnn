@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 😝 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
  - 😝 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
  - 💣 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
- - 😝 [Unexpected....](http://9gag.com/gag/awy2dBB)
- - 👉 [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)<!-- MEMES:END -->
+ - 😝 [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)
+ - 👉 [Unexpected....](http://9gag.com/gag/awy2dBB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Defense secretary Pete Hegseth designates Anthropic a supply chain risk](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff)
- - [Sources: DeepSeek plans to release its multimodal model V4 next week and worked with Huawei and Chinese AI chipmaker Cambricon to optimize V4 for their products &lpar;Financial Times&rpar;](http://www.techmeme.com/260227/p40#a260227p40)
- - [Anthropic says it&#39;ll challenge &quot;any supply chain risk designation in court&quot; and that the designation would only affect contractors&#39; use of Claude on DOD work &lpar;Anthropic&rpar;](http://www.techmeme.com/260227/p39#a260227p39)
- - [Ultrahuman Ring Pro Brings Better Battery Life, More Action and Analysis](https://www.cnet.com/tech/mobile/ultrahuman-ring-pro-better-bettery-more-data/)
- - [Source: Sam Altman told employees the DOD is willing to let OpenAI build its own &quot;safety stack&quot; and won&#39;t force OpenAI to comply if its model refuses a task &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/260227/p38#a260227p38)<!-- TECH:END -->
+ - [Anthropic Hits Back After US Military Labels It a &#39;Supply Chain Risk&#39;](https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/)
+ - [Sources: Nvidia plans to unveil a new AI inference chip at its GTC conference in March; the system will have a Groq-designed chip and OpenAI is a customer &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260227/p43#a260227p43)
+ - [Sam Altman says OpenAI reached an agreement with the DOD to deploy its models in DOD&#39;s classified network and asks DOD to extend those terms to all AI companies &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260227/p42#a260227p42)
+ - [A look at a local group&#39;s lawsuit against Micron over its $100B New York manufacturing complex, alleging a rushed permitting process and environmental review &lpar;Fast Company&rpar;](http://www.techmeme.com/260227/p41#a260227p41)
+ - [Defense secretary Pete Hegseth designates Anthropic a supply chain risk](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

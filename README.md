@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/an7wr3E)
- - 😝 [Bro got schooled on basic economics](http://9gag.com/gag/adBwR4B)
- - 💣 [$30 would have gotten you 1/2lb back then](http://9gag.com/gag/aE05O9o)
- - 😝 [\ud83c\udde7\ud83c\uddf7 Ronaldinho might be the only player in history to have a post-retirement compilation made of his skills.](http://9gag.com/gag/aW45RjZ)
- - 👉 [John Cleese would approve](http://9gag.com/gag/ayNwQ3p)<!-- MEMES:END -->
+ - 😝 [All good questions](http://9gag.com/gag/amowpBX)
+ - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
+ - 💣 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
+ - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
+ - 👉 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)<!-- MEMES:END -->
 
 ---
 

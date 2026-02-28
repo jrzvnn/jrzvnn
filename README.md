@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Marco finding out he needs to be the Shah of Iran in 72 hours.](https://www.reddit.com/r/funny/comments/1rhezmn/marco_finding_out_he_needs_to_be_the_shah_of_iran/)
  - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
- - 😝 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
- - 💣 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
- - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 💣 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
+ - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 👉 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)<!-- MEMES:END -->
 
 ---
 

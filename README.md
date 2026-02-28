@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Xiaomi launches the €999 Xiaomi 17, the €1,499 17 Ultra, and the €1,999 Leica-branded Leitzphone, all featuring a Snapdragon 8 Elite Gen 5 chipset, in Europe &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260228/p14#a260228p14)
  - [Xiaomi launches the €15 Xiaomi tag, an AirTag-like device that works with both Apple Find My and Android Find Hub, and the €300 Xiaomi Watch 5, in Europe &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260228/p13#a260228p13)
+ - [Shooting Videos of Fancy Cars With the Galaxy S26&#39;s New Camera Feature Is a Dream](https://www.cnet.com/tech/mobile/fancy-cars-with-the-galaxy-s26-horizontal-lock/)
  - [Claude hit #2 on Apple&#39;s US App Store, hours after the DOD designated Anthropic a supply chain risk; it bounced between #20 and #50 for much of February &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260228/p12#a260228p12)
- - [Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260228/p11#a260228p11)
- - [Q&amp;A with Reiner Pope, a former Google TPU architect and CEO of MatX, which designs specialized chips for LLMs, on the limitations of current AI chips, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260228/p10#a260228p10)<!-- TECH:END -->
+ - [Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260228/p11#a260228p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16-inch M4 Pro MacBook Pro vs. Acer Predator Helios Neo 14: Apple&#39;s never been so far behind](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-m4-pro-macbook-pro-vs-acer-predator-helios-neo-14-apples-never-been-so-far-behind?utm_source=rss)
  - [Polymarket defends its decision to allow betting on war as ‘invaluable’](https://www.theverge.com/tech/887040/polymarket-iran-war-betting-invaluable)
  - [An interview with Amazon&#39;s AI chief Peter DeSantis on plans to use in-house chips, Trainium and Inferentia, to develop AI models more cheaply, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260228/p16#a260228p16)
  - [China faces a dilemma as it looks to balance productivity gains from AI with labor displacement risks due to automation, which could trigger an economic spiral &lpar;Bloomberg&rpar;](http://www.techmeme.com/260228/p15#a260228p15)
- - [The Rubin Observatory’s alert system sent 800,000 pings on its first night](https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts)
- - [Xiaomi launches the €999 Xiaomi 17, the €1,499 17 Ultra, and the €1,999 Leica-branded Leitzphone, all featuring a Snapdragon 8 Elite Gen 5 chipset, in Europe &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260228/p14#a260228p14)<!-- TECH:END -->
+ - [The Rubin Observatory’s alert system sent 800,000 pings on its first night](https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

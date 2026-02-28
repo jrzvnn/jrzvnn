@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
- - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
- - 💣 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 😝 [When the ant rise up against the grasshoppers. Iranian celebrating on the street](http://9gag.com/gag/a87OnMp)
- - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
+ - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 😝 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
+ - 💣 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
+ - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
+ - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
 
 ---
 

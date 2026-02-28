@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tenways nearly perfects the shareable city e-bike](https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable)
  - [Tests of 12+ AI-detection tools show many capable of spotting basic fakes, but struggle with complex images; few analyze video, and most identified fake audio &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/260228/p5#a260228p5)
  - [US Congressional Joint Economic Committee report: US consumers lost $20.9B nominally to identity theft from four major data broker breaches over the past decade &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/260228/p4#a260228p4)
  - [Sources: TSMC urges clients to apply for N2 production allocation as far out as Q2 2027, with large capacity allotments nearly sold out for the next two years &lpar;Tim Culpan/Culpium&rpar;](http://www.techmeme.com/260228/p3#a260228p3)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-28/)
- - [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic &lpar;Wired&rpar;](http://www.techmeme.com/260228/p2#a260228p2)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-28/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

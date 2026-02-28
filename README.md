@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Witcher is a perfect fit for Reigns’ Tinder-like roleplaying](https://www.theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android)
  - [Dario Amodei says &quot;we are patriotic Americans&quot; and Anthropic fears some AI uses could clash with American values as AI&#39;s potential gets &quot;ahead of the law&quot; &lpar;Jo Ling/CBS News&rpar;](http://www.techmeme.com/260228/p8#a260228p8)
  - [How India&#39;s outsourcing industry, which employs 6M+ people and is worth nearly $300B, is racing to adapt as AI promises to automate white-collar work &lpar;New York Times&rpar;](http://www.techmeme.com/260228/p7#a260228p7)
- - [A legendary weather app makes a comeback](https://www.theverge.com/tech/886462/acme-weather-samsung-s26-installer)
- - [14 Best Travel Toiletry Bags, Tested Over Many Miles &lpar;2026&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
- - [5 Places You Should Never Keep a Bottle of Wine, According to Experts](https://www.cnet.com/news/5-places-you-should-never-store-a-bottle-of-wine-according-to-experts/)<!-- TECH:END -->
+ - [I Watched a Play in AR. It Made Me Feel More Connected to Actual Reality](https://www.cnet.com/culture/entertainment/i-watched-a-play-in-ar-it-made-me-feel-more-connected-to-actual-reality/)
+ - [Hey Samsung, Please Stop Forcing AI on Me](https://www.cnet.com/tech/services-and-software/hey-samsung-please-stop-forcing-ai-on-me/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: TSMC urges clients to apply for N2 production allocation as far out as Q2 2027, with large capacity allotments nearly sold out for the next two years &lpar;Tim Culpan/Culpium&rpar;](http://www.techmeme.com/260228/p3#a260228p3)
+ - [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic &lpar;Wired&rpar;](http://www.techmeme.com/260228/p2#a260228p2)
  - [Coupang reports Q4 revenue up 11% YoY to $8.8B, below $8.9B est., and a net loss of $26M, versus $131M net profit in Q4 2024, hurt by fallout from a data breach &lpar;Reuters&rpar;](http://www.techmeme.com/260228/p1#a260228p1)
  - [Source: India issued a blocking order on February 24 to restrict access to developer database service Supabase; the government did not publicly cite a reason &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260227/p44#a260227p44)
- - [Anthropic Hits Back After US Military Labels It a &#39;Supply Chain Risk&#39;](https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/)
- - [Sources: Nvidia plans to unveil a new AI inference chip at its GTC conference in March; the system will have a Groq-designed chip and OpenAI is a customer &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260227/p43#a260227p43)
- - [Sam Altman says OpenAI reached an agreement with the DOD to deploy its models in DOD&#39;s classified network and asks DOD to extend those terms to all AI companies &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260227/p42#a260227p42)<!-- TECH:END -->
+ - [Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’](https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

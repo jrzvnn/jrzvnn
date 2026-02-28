@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
- - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 💣 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
- - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
- - 👉 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)<!-- MEMES:END -->
+ - 😝 [Satoru Takaba&#39;s wife&#39;s life was taken in their apartment in 1999](http://9gag.com/gag/amowd59)
+ - 😝 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
+ - 💣 [The long game](http://9gag.com/gag/aND538G)
+ - 😝 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
+ - 👉 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)<!-- MEMES:END -->
 
 ---
 

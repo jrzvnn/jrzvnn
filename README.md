@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 😝 [Eva Green](http://9gag.com/gag/ae9w7GO)
- - 💣 [Stupidity](http://9gag.com/gag/aVv5BLP)
- - 😝 [Sons of Anarchy](http://9gag.com/gag/aYQ5mB2)
- - 👉 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)<!-- MEMES:END -->
+ - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
+ - 💣 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
+ - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
+ - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
 
 ---
 

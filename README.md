@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [18 Best Wireless Chargers, All Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/gallery/best-wireless-chargers/)
- - [A federal judge issues a preliminary injunction blocking Virginia from enforcing a new law restricting children&#39;s social media use, on First Amendment grounds &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260227/p35#a260227p35)
- - [NASA is pushing back its plans for a Moon landing](https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028)
  - [Defense secretary Pete Hegseth designates Anthropic a supply chain risk](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff)
- - [Dell stock closes up 22%, its biggest single-day gain since March 1, 2024, after the company gave an outlook for sales of its AI servers that exceeded estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260227/p34#a260227p34)<!-- TECH:END -->
+ - [Sources: DeepSeek plans to release its multimodal model V4 next week and worked with Huawei and Chinese AI chipmaker Cambricon to optimize V4 for their products &lpar;Financial Times&rpar;](http://www.techmeme.com/260227/p40#a260227p40)
+ - [Anthropic says it&#39;ll challenge &quot;any supply chain risk designation in court&quot; and that the designation would only affect contractors&#39; use of Claude on DOD work &lpar;Anthropic&rpar;](http://www.techmeme.com/260227/p39#a260227p39)
+ - [Ultrahuman Ring Pro Brings Better Battery Life, More Action and Analysis](https://www.cnet.com/tech/mobile/ultrahuman-ring-pro-better-bettery-more-data/)
+ - [Source: Sam Altman told employees the DOD is willing to let OpenAI build its own &quot;safety stack&quot; and won&#39;t force OpenAI to comply if its model refuses a task &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/260227/p38#a260227p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

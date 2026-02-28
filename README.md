@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Which Water Filter Pitchers Filter PFAS? How to Check](https://www.wired.com/story/water-filter-explainer-nsf-verifications/)
+ - [AI&#39;s deflationary impact on India&#39;s IT industry, which has never seen a decline in software exports in 24 years, will likely take years to fully materialize &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260228/p6#a260228p6)
  - [This Ruroc Helmet Ruined My Ski Holiday](https://www.wired.com/story/this-helmet-ruined-my-ski-holiday/)
  - [US and Israel Launch Strikes Against Iran](https://www.wired.com/story/us-iran-strike-donald-trump/)
- - [MWC Barcelona 2026: All the New Tech, Phones, Wearables and AI We Expect to See](https://www.cnet.com/tech/mobile/mwc-2026-barcelona-what-to-expect-and-how-to-watch/)
- - [Tenways nearly perfects the shareable city e-bike](https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable)
- - [Tests of 12+ AI-detection tools show many capable of spotting basic fakes, but struggle with complex images; few analyze video, and most identified fake audio &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/260228/p5#a260228p5)<!-- TECH:END -->
+ - [MWC Barcelona 2026: All the New Tech, Phones, Wearables and AI We Expect to See](https://www.cnet.com/tech/mobile/mwc-2026-barcelona-what-to-expect-and-how-to-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

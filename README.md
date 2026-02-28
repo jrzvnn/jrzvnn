@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
  - 😝 [What species is that](http://9gag.com/gag/aryw2RB)
- - 💣 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
- - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 💣 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 😝 [This dog is a whole mood](http://9gag.com/gag/an7wVgq)
  - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
 
 ---

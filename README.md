@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember pop rocks?](http://9gag.com/gag/aMV5OvM)
  - 😝 [Pattern recognition](http://9gag.com/gag/amowVV6)
- - 💣 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 😝 [Blessed Holly molly](http://9gag.com/gag/aryw8L7)
+ - 😝 [Remember pop rocks?](http://9gag.com/gag/aMV5OvM)
+ - 💣 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 😝 [Padme had a point though](http://9gag.com/gag/apRwVOB)
  - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
 
 ---

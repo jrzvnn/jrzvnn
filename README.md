@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi launches the €15 Xiaomi tag, an AirTag-like device that works with both Apple Find My and Android Find Hub, and the €300 Xiaomi Watch 5, in Europe &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260228/p13#a260228p13)
  - [Claude hit #2 on Apple&#39;s US App Store, hours after the DOD designated Anthropic a supply chain risk; it bounced between #20 and #50 for much of February &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260228/p12#a260228p12)
  - [Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260228/p11#a260228p11)
  - [Q&amp;A with Reiner Pope, a former Google TPU architect and CEO of MatX, which designs specialized chips for LLMs, on the limitations of current AI chips, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260228/p10#a260228p10)
- - [You can still grab great deals on Bose headphones and Astro Bot this weekend](https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale)
- - [NASA Is Making Big Changes to Speed Up the Artemis Program](https://www.wired.com/story/nasa-is-making-big-changes-to-speed-up-the-artemis-program/)<!-- TECH:END -->
+ - [You can still grab great deals on Bose headphones and Astro Bot this weekend](https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

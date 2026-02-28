@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
- - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
- - 💣 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
- - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
+ - 😝 [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)
+ - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 💣 [What species is that](http://9gag.com/gag/aryw2RB)
+ - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
  - 👉 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)<!-- MEMES:END -->
 
 ---

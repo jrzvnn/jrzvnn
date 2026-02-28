@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eva Green](http://9gag.com/gag/ae9w7GO)
- - 😝 [An interesting wank](http://9gag.com/gag/a9y0DML)
- - 💣 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
- - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
+ - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 😝 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
+ - 💣 [Eva Green](http://9gag.com/gag/ae9w7GO)
+ - 😝 [Caulk like a Pro](http://9gag.com/gag/a7oXAqq)
+ - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
 
 ---
 

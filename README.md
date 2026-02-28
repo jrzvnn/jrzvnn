@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 😝 [What species is that](http://9gag.com/gag/aryw2RB)
- - 💣 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
- - 😝 [This dog is a whole mood](http://9gag.com/gag/an7wVgq)
- - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
+ - 😝 [Blessed Holly molly](http://9gag.com/gag/aryw8L7)
+ - 😝 [Could you not](http://9gag.com/gag/a87OVvO)
+ - 💣 [John Cleese would approve](http://9gag.com/gag/ayNwQ3p)
+ - 😝 [Crows taking Jobs](http://9gag.com/gag/apRwVmM)
+ - 👉 [Bridgeish](http://9gag.com/gag/a6Z6G2N)<!-- MEMES:END -->
 
 ---
 

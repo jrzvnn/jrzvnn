@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All good questions](http://9gag.com/gag/amowpBX)
- - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - 💣 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
- - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
- - 👉 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)<!-- MEMES:END -->
+ - 😝 [Remember pop rocks?](http://9gag.com/gag/aMV5OvM)
+ - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
+ - 💣 [Eva Green](http://9gag.com/gag/ae9w7GO)
+ - 😝 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
+ - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
 
 ---
 

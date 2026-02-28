@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Laptop Cooling Pad and Why You Should Buy One](https://www.wired.com/story/best-laptop-cooling-pad/)
  - [Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums](https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/)
  - [EveryPlate’s Meal Kit Offers Affordable Vegetarian Options](https://www.wired.com/story/everyplate-vegetarian-meal-kit-rave/)
  - [Which Water Filter Pitchers Filter PFAS? How to Check](https://www.wired.com/story/water-filter-explainer-nsf-verifications/)
- - [AI&#39;s deflationary impact on India&#39;s IT industry, which has never seen a decline in software exports in 24 years, will likely take years to fully materialize &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260228/p6#a260228p6)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 28, #993](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-28-993/)<!-- TECH:END -->
+ - [AI&#39;s deflationary impact on India&#39;s IT industry, which has never seen a decline in software exports in 24 years, will likely take years to fully materialize &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260228/p6#a260228p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

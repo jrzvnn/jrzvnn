@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
- - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 💣 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
  - 😝 [Eva Green](http://9gag.com/gag/ae9w7GO)
+ - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 💣 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
  - 👉 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)<!-- MEMES:END -->
 
 ---

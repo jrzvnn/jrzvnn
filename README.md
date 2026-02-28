@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blessed Holly molly](http://9gag.com/gag/aryw8L7)
- - 😝 [Could you not](http://9gag.com/gag/a87OVvO)
- - 💣 [John Cleese would approve](http://9gag.com/gag/ayNwQ3p)
- - 😝 [Crows taking Jobs](http://9gag.com/gag/apRwVmM)
- - 👉 [Bridgeish](http://9gag.com/gag/a6Z6G2N)<!-- MEMES:END -->
+ - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
+ - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 💣 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 😝 [Eva Green](http://9gag.com/gag/ae9w7GO)
+ - 👉 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)<!-- MEMES:END -->
 
 ---
 

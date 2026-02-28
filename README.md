@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
  - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 😝 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
- - 💣 [Eva Green](http://9gag.com/gag/ae9w7GO)
- - 😝 [Caulk like a Pro](http://9gag.com/gag/a7oXAqq)
- - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 💣 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
+ - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 👉 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crows taking Jobs](http://9gag.com/gag/apRwVmM)
  - 😝 [Look there&#39;s a Lion!](http://9gag.com/gag/aZZ5RvQ)
- - 💣 [Henry Cavill demanding lore accuracy on set is peak energy](http://9gag.com/gag/aO85pn2)
- - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 👉 [Blessed Holly molly](http://9gag.com/gag/aryw8L7)<!-- MEMES:END -->
+ - 😝 [Henry Cavill demanding lore accuracy on set is peak energy](http://9gag.com/gag/aO85pn2)
+ - 💣 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 😝 [Blessed Holly molly](http://9gag.com/gag/aryw8L7)
+ - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - 💣 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
- - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
- - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
+ - 😝 [Crows taking Jobs](http://9gag.com/gag/apRwVmM)
+ - 😝 [Look there&#39;s a Lion!](http://9gag.com/gag/aZZ5RvQ)
+ - 💣 [Henry Cavill demanding lore accuracy on set is peak energy](http://9gag.com/gag/aO85pn2)
+ - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 👉 [Blessed Holly molly](http://9gag.com/gag/aryw8L7)<!-- MEMES:END -->
 
 ---
 

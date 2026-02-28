@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 😝 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
- - 💣 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
+ - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 😝 [The long game](http://9gag.com/gag/aND538G)
+ - 💣 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
  - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
- - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
+ - 👉 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)<!-- MEMES:END -->
 
 ---
 

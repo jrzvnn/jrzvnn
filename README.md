@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 💣 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
- - 😝 [Surely we&#39;ve all been there.](http://9gag.com/gag/aD25PAO)
- - 👉 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)<!-- MEMES:END -->
+ - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
+ - 😝 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
+ - 💣 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
+ - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
 
 ---
 

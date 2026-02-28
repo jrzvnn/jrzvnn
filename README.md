@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
- - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 💣 [An interesting wank](http://9gag.com/gag/a9y0DML)
  - 😝 [Eva Green](http://9gag.com/gag/ae9w7GO)
+ - 😝 [An interesting wank](http://9gag.com/gag/a9y0DML)
+ - 💣 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
  - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
 
 ---

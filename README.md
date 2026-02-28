@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EveryPlate’s Meal Kit Offers Affordable Vegetarian Options](https://www.wired.com/story/everyplate-vegetarian-meal-kit-rave/)
  - [Which Water Filter Pitchers Filter PFAS? How to Check](https://www.wired.com/story/water-filter-explainer-nsf-verifications/)
  - [AI&#39;s deflationary impact on India&#39;s IT industry, which has never seen a decline in software exports in 24 years, will likely take years to fully materialize &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260228/p6#a260228p6)
- - [This Ruroc Helmet Ruined My Ski Holiday](https://www.wired.com/story/this-helmet-ruined-my-ski-holiday/)
- - [US and Israel Launch Strikes Against Iran](https://www.wired.com/story/us-iran-strike-donald-trump/)
- - [MWC Barcelona 2026: All the New Tech, Phones, Wearables and AI We Expect to See](https://www.cnet.com/tech/mobile/mwc-2026-barcelona-what-to-expect-and-how-to-watch/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 28, #993](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-28-993/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 28, #523](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-28-523/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

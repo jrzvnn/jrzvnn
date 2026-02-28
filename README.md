@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
- - 😝 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
+ - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
  - 💣 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
- - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 😝 [When the ant rise up against the grasshoppers. Iranian celebrating on the street](http://9gag.com/gag/a87OnMp)
+ - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
 
 ---
 

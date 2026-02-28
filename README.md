@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Herstory](http://9gag.com/gag/a6Z6pgm)
  - 😝 [What you guys think?](http://9gag.com/gag/a2vpLQD)
- - 💣 [All good questions](http://9gag.com/gag/amowpBX)
- - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 😝 [All good questions](http://9gag.com/gag/amowpBX)
+ - 💣 [Nice](http://9gag.com/gag/an7wr3E)
+ - 😝 [Bro got schooled on basic economics](http://9gag.com/gag/adBwR4B)
  - 👉 [\ud83c\udde7\ud83c\uddf7 Ronaldinho might be the only player in history to have a post-retirement compilation made of his skills.](http://9gag.com/gag/aW45RjZ)<!-- MEMES:END -->
 
 ---

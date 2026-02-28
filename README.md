@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI coding agents are fueling productivity panic among executives and engineers, as a UCB study finds those offloading work to AI are also working longer hours &lpar;Issie Lapowsky/Bloomberg&rpar;](http://www.techmeme.com/260228/p17#a260228p17)
  - [16-inch M4 Pro MacBook Pro vs. Acer Predator Helios Neo 14: Apple&#39;s never been so far behind](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-m4-pro-macbook-pro-vs-acer-predator-helios-neo-14-apples-never-been-so-far-behind?utm_source=rss)
  - [How to Watch the 2026 MotoGP Season Live From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2026-motogp-season-live-from-anywhere/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 1, #524](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-1-524/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 1, #994](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-1-994/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 1 #728](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-1-728/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 1, #994](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-1-994/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

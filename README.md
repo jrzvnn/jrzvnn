@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
- - 😝 [Eva Green](http://9gag.com/gag/ae9w7GO)
- - 💣 [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)
- - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 👉 [Funny how that works...](http://9gag.com/gag/a7oXN0b)<!-- MEMES:END -->
+ - 😝 [Remember pop rocks?](http://9gag.com/gag/aMV5OvM)
+ - 😝 [Pattern recognition](http://9gag.com/gag/amowVV6)
+ - 💣 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 😝 [Blessed Holly molly](http://9gag.com/gag/aryw8L7)
+ - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
 
 ---
 

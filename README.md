@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pentagon&#39;s fight with Anthropic sparks fears in Silicon Valley and the Capitol of a fundamental shift in the balance of power between DC and the AI industry &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/260228/p9#a260228p9)
+ - [This Is the System That Intercepted Iran&#39;s Missiles Over the UAE](https://www.wired.com/story/uae-missile-intercept-system-iran/)
  - [Review: Xiaomi 17 Ultra and Leitzphone Pack Leica Magic Into a Flagship Phone](https://www.wired.com/review/xiaomi-17-ultra-leitzphone/)
  - [Xiaomi’s tracker doesn’t need a case to clip to your keys](https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth)
- - [Xiaomi’s Leica Leitzphone mostly earns the name](https://www.theverge.com/gadgets/886131/xiaomi-leica-leitzphone-17-ultra-review)
- - [Xiaomi 17 is a small&lpar;ish&rpar; phone with a big&lpar;ish&rpar; battery](https://www.theverge.com/gadgets/886322/xiaomi-17-release-specs-price-mwc-ultra-leica)
- - [Alogic Clarity Touch 6K monitor review: When a $2,500 display is considered cheap](https://appleinsider.com/articles/26/02/28/alogic-clarity-touch-6k-monitor-review-when-a-2500-display-is-considered-cheap?utm_source=rss)<!-- TECH:END -->
+ - [Xiaomi’s Leica Leitzphone mostly earns the name](https://www.theverge.com/gadgets/886131/xiaomi-leica-leitzphone-17-ultra-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pattern recognition](http://9gag.com/gag/amowVV6)
- - 😝 [Remember pop rocks?](http://9gag.com/gag/aMV5OvM)
+ - 😝 [Eva Green](http://9gag.com/gag/ae9w7GO)
+ - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
  - 💣 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
- - 😝 [Padme had a point though](http://9gag.com/gag/apRwVOB)
+ - 😝 [This dog is a whole mood](http://9gag.com/gag/an7wVgq)
  - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
 
 ---

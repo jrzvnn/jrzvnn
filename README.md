@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look there&#39;s a Lion!](http://9gag.com/gag/aZZ5RvQ)
- - 😝 [Henry Cavill demanding lore accuracy on set is peak energy](http://9gag.com/gag/aO85pn2)
- - 💣 [Crows taking Jobs](http://9gag.com/gag/apRwVmM)
  - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 👉 [Could you not](http://9gag.com/gag/a87OVvO)<!-- MEMES:END -->
+ - 😝 [Eva Green](http://9gag.com/gag/ae9w7GO)
+ - 💣 [Stupidity](http://9gag.com/gag/aVv5BLP)
+ - 😝 [Sons of Anarchy](http://9gag.com/gag/aYQ5mB2)
+ - 👉 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)<!-- MEMES:END -->
 
 ---
 

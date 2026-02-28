@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember pop rocks?](http://9gag.com/gag/aMV5OvM)
- - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
- - 💣 [Eva Green](http://9gag.com/gag/ae9w7GO)
  - 😝 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
- - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
+ - 😝 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
+ - 💣 [Remember pop rocks?](http://9gag.com/gag/aMV5OvM)
+ - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 👉 [Funny how that works...](http://9gag.com/gag/a7oXN0b)<!-- MEMES:END -->
 
 ---
 

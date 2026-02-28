@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Witcher is a perfect fit for Reigns’ Tinder-like roleplaying](https://www.theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android)
- - [Dario Amodei says &quot;we are patriotic Americans&quot; and Anthropic fears some AI uses could clash with American values as AI&#39;s potential gets &quot;ahead of the law&quot; &lpar;Jo Ling/CBS News&rpar;](http://www.techmeme.com/260228/p8#a260228p8)
- - [How India&#39;s outsourcing industry, which employs 6M+ people and is worth nearly $300B, is racing to adapt as AI promises to automate white-collar work &lpar;New York Times&rpar;](http://www.techmeme.com/260228/p7#a260228p7)
- - [I Watched a Play in AR. It Made Me Feel More Connected to Actual Reality](https://www.cnet.com/culture/entertainment/i-watched-a-play-in-ar-it-made-me-feel-more-connected-to-actual-reality/)
- - [Hey Samsung, Please Stop Forcing AI on Me](https://www.cnet.com/tech/services-and-software/hey-samsung-please-stop-forcing-ai-on-me/)<!-- TECH:END -->
+ - [Review: Xiaomi 17 Ultra and Leitzphone Pack Leica Magic Into a Flagship Phone](https://www.wired.com/review/xiaomi-17-ultra-leitzphone/)
+ - [Xiaomi’s tracker doesn’t need a case to clip to your keys](https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth)
+ - [Xiaomi’s Leica Leitzphone mostly earns the name](https://www.theverge.com/gadgets/886131/xiaomi-leica-leitzphone-17-ultra-review)
+ - [Xiaomi 17 is a small&lpar;ish&rpar; phone with a big&lpar;ish&rpar; battery](https://www.theverge.com/gadgets/886322/xiaomi-17-release-specs-price-mwc-ultra-leica)
+ - [Alogic Clarity Touch 6K monitor review: When a $2,500 display is considered cheap](https://appleinsider.com/articles/26/02/28/alogic-clarity-touch-6k-monitor-review-when-a-2500-display-is-considered-cheap?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

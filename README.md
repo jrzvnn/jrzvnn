@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look there&#39;s a Lion!](http://9gag.com/gag/aZZ5RvQ)
- - 😝 [Henry Cavill demanding lore accuracy on set is peak energy](http://9gag.com/gag/aO85pn2)
- - 💣 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 😝 [Blessed Holly molly](http://9gag.com/gag/aryw8L7)
- - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
+ - 😝 [The long game](http://9gag.com/gag/aND538G)
+ - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 💣 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 😝 [Surely we&#39;ve all been there.](http://9gag.com/gag/aD25PAO)
+ - 👉 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)<!-- MEMES:END -->
 
 ---
 

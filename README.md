@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [16-inch M4 Pro MacBook Pro vs. Acer Predator Helios Neo 14: Apple&#39;s never been so far behind](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-m4-pro-macbook-pro-vs-acer-predator-helios-neo-14-apples-never-been-so-far-behind?utm_source=rss)
- - [Polymarket defends its decision to allow betting on war as ‘invaluable’](https://www.theverge.com/tech/887040/polymarket-iran-war-betting-invaluable)
- - [An interview with Amazon&#39;s AI chief Peter DeSantis on plans to use in-house chips, Trainium and Inferentia, to develop AI models more cheaply, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260228/p16#a260228p16)
- - [China faces a dilemma as it looks to balance productivity gains from AI with labor displacement risks due to automation, which could trigger an economic spiral &lpar;Bloomberg&rpar;](http://www.techmeme.com/260228/p15#a260228p15)
- - [The Rubin Observatory’s alert system sent 800,000 pings on its first night](https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts)<!-- TECH:END -->
+ - [How to Watch the 2026 MotoGP Season Live From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2026-motogp-season-live-from-anywhere/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 1, #524](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-1-524/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 1, #994](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-1-994/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 1 #728](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-1-728/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

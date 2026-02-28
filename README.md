@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dario Amodei says &quot;we are patriotic Americans&quot; and Anthropic fears some AI uses could clash with American values as AI&#39;s potential gets &quot;ahead of the law&quot; &lpar;Jo Ling/CBS News&rpar;](http://www.techmeme.com/260228/p8#a260228p8)
+ - [How India&#39;s outsourcing industry, which employs 6M+ people and is worth nearly $300B, is racing to adapt as AI promises to automate white-collar work &lpar;New York Times&rpar;](http://www.techmeme.com/260228/p7#a260228p7)
  - [A legendary weather app makes a comeback](https://www.theverge.com/tech/886462/acme-weather-samsung-s26-installer)
  - [14 Best Travel Toiletry Bags, Tested Over Many Miles &lpar;2026&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
- - [The Best MicroSD Cards for Your Camera, Switch, and More](https://www.wired.com/gallery/best-micro-sd-cards/)
- - [The Best Laptop Cooling Pad and Why You Should Buy One](https://www.wired.com/story/best-laptop-cooling-pad/)
- - [Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums](https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/)<!-- TECH:END -->
+ - [5 Places You Should Never Keep a Bottle of Wine, According to Experts](https://www.cnet.com/news/5-places-you-should-never-store-a-bottle-of-wine-according-to-experts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

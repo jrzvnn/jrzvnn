@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [You can still grab great deals on Bose headphones and Astro Bot this weekend](https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale)
  - [NASA Is Making Big Changes to Speed Up the Artemis Program](https://www.wired.com/story/nasa-is-making-big-changes-to-speed-up-the-artemis-program/)
- - [Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli Strikes](https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/)
+ - [Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes](https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/)
  - [The Pentagon&#39;s fight with Anthropic sparks fears in Silicon Valley and the Capitol of a fundamental shift in the balance of power between DC and the AI industry &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/260228/p9#a260228p9)
  - [This Is the System That Intercepted Iran&#39;s Missiles Over the UAE](https://www.wired.com/story/uae-missile-intercept-system-iran/)<!-- TECH:END -->
 

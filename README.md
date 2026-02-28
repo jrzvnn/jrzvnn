@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Congressional Joint Economic Committee report: US consumers lost $20.9B nominally to identity theft from four major data broker breaches over the past decade &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/260228/p4#a260228p4)
  - [Sources: TSMC urges clients to apply for N2 production allocation as far out as Q2 2027, with large capacity allotments nearly sold out for the next two years &lpar;Tim Culpan/Culpium&rpar;](http://www.techmeme.com/260228/p3#a260228p3)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-28/)
  - [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic &lpar;Wired&rpar;](http://www.techmeme.com/260228/p2#a260228p2)
- - [Coupang reports Q4 revenue up 11% YoY to $8.8B, below $8.9B est., and a net loss of $26M, versus $131M net profit in Q4 2024, hurt by fallout from a data breach &lpar;Reuters&rpar;](http://www.techmeme.com/260228/p1#a260228p1)
- - [Source: India issued a blocking order on February 24 to restrict access to developer database service Supabase; the government did not publicly cite a reason &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260227/p44#a260227p44)
- - [Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’](https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/)<!-- TECH:END -->
+ - [Coupang reports Q4 revenue up 11% YoY to $8.8B, below $8.9B est., and a net loss of $26M, versus $131M net profit in Q4 2024, hurt by fallout from a data breach &lpar;Reuters&rpar;](http://www.techmeme.com/260228/p1#a260228p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

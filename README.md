@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A legendary weather app makes a comeback](https://www.theverge.com/tech/886462/acme-weather-samsung-s26-installer)
+ - [14 Best Travel Toiletry Bags, Tested Over Many Miles &lpar;2026&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
+ - [The Best MicroSD Cards for Your Camera, Switch, and More](https://www.wired.com/gallery/best-micro-sd-cards/)
  - [The Best Laptop Cooling Pad and Why You Should Buy One](https://www.wired.com/story/best-laptop-cooling-pad/)
- - [Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums](https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/)
- - [EveryPlate’s Meal Kit Offers Affordable Vegetarian Options](https://www.wired.com/story/everyplate-vegetarian-meal-kit-rave/)
- - [Which Water Filter Pitchers Filter PFAS? How to Check](https://www.wired.com/story/water-filter-explainer-nsf-verifications/)
- - [AI&#39;s deflationary impact on India&#39;s IT industry, which has never seen a decline in software exports in 24 years, will likely take years to fully materialize &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260228/p6#a260228p6)<!-- TECH:END -->
+ - [Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums](https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s eSafety Commissioner threatens action against app stores and search engines if AI services operating in Australia don&#39;t verify user ages by March 9 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/260301/p13#a260301p13)
- - [Israel-based Guidde, which is developing a platform to accelerate the adoption of AI in organizations, raised a $50M Series B round led by PSG Equity &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260301/p12#a260301p12)
- - [Reboot: Godzilla, mini Macs, and easing the supply chain](https://appleinsider.com/articles/26/03/01/reboot-godzilla-mini-macs-and-easing-the-supply-chain?utm_source=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 2, #995](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-2-995/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 2, #525](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-2-525/)<!-- TECH:END -->
+ - [India, home to one of the world&#39;s biggest AI user bases, should treat local datasets for AI as a strategic asset to avoid training Silicon Valley for free &lpar;Catherine Thorbecke/Bloomberg&rpar;](http://www.techmeme.com/260301/p14#a260301p14)
+ - [Lenovo’s Latest Wacky Concepts Include a Laptop With a Built-in Portable Monitor](https://www.wired.com/story/lenovo-mwc-concepts-thinkbook-modular-ai-pc-legion-go-fold/)
+ - [A robot arm with puppy dog eyes is just one of Lenovo&amp;#8217;s new desktop AI concepts](https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub)
+ - [The new Yoga 9i 2-in-1 from Lenovo has an angled ‘canvas mode’ for easier note-taking](https://www.theverge.com/tech/885724/lenovo-yoga-9i-2-in-1-angled-canvas-mode)
+ - [Lenovo’s redesigned ThinkPad Detachable tablet has a bigger screen and legit keyboard](https://www.theverge.com/tech/886134/lenovo-thinkpad-x13-detachable-tablet-t14-t14s-t16-laptops-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
  - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 💣 [Comment F for respect...](http://9gag.com/gag/aZZ5dy3)
+ - 💣 [An interesting wank](http://9gag.com/gag/a9y0DML)
  - 😝 [That is better than LEGO.](http://9gag.com/gag/a87OnKV)
  - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
 

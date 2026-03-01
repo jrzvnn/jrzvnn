@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block is a poster child for the lack of operational discipline common among mid-tier public tech companies that lived on the largesse of cloud, mobile, and ZIRP &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/260301/p16#a260301p16)
+ - [Ted Sarandos interview on the scenario planning Netflix did before Paramount&#39;s final WBD bid, how if Paramount&#39;s deal closes there&#39;ll be cuts of $16B+, and more &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260301/p15#a260301p15)
  - [India, home to one of the world&#39;s biggest AI user bases, should treat local datasets for AI as a strategic asset to avoid training Silicon Valley for free &lpar;Catherine Thorbecke/Bloomberg&rpar;](http://www.techmeme.com/260301/p14#a260301p14)
- - [Lenovo’s Latest Wacky Concepts Include a Laptop With a Built-in Portable Monitor](https://www.wired.com/story/lenovo-mwc-concepts-thinkbook-modular-ai-pc-legion-go-fold/)
- - [A robot arm with puppy dog eyes is just one of Lenovo&amp;#8217;s new desktop AI concepts](https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub)
- - [The new Yoga 9i 2-in-1 from Lenovo has an angled ‘canvas mode’ for easier note-taking](https://www.theverge.com/tech/885724/lenovo-yoga-9i-2-in-1-angled-canvas-mode)
- - [Lenovo’s redesigned ThinkPad Detachable tablet has a bigger screen and legit keyboard](https://www.theverge.com/tech/886134/lenovo-thinkpad-x13-detachable-tablet-t14-t14s-t16-laptops-price-specs)<!-- TECH:END -->
+ - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
+ - [I&#39;m Enamored With Lenovo&#39;s Desktop AI Companions, and I Could Use Their Help](https://www.cnet.com/tech/services-and-software/lenovo-magic-bay-tico-desktop-ai-companions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

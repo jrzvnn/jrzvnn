@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Make the Most of Chrome&#39;s Toolbar by Customizing It to Your Liking](https://www.wired.com/story/how-to-customize-google-chrome-toolbar-to-your-liking/)
- - [Inside the world&#39;s largest crypto casino Stake, which claims ~4% of all BTC transactions, with popularity boosted by celebs like Drake and influencers on Kick &lpar;Bloomberg&rpar;](http://www.techmeme.com/260301/p5#a260301p5)
- - [These MWC Phones and Gadgets Were Wild, So What Happened to Them?](https://www.cnet.com/tech/mobile/i-was-wowed-by-these-mwc-phones-and-gadgets-but-where-are-they-now/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 1 #728](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-1-728/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 1, #524](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-1-524/)<!-- TECH:END -->
+ - [Best Laser Printers I&#39;ve Tried &lpar;2026&rpar;: Brother, HP, and More](https://www.wired.com/gallery/best-laser-printers/)
+ - [Xiaomi 17 Ultra is a Sparkling Photography Powerhouse](https://www.cnet.com/tech/mobile/xiaomi-17-ultra-is-a-sparkling-photography-powerhouse/)
+ - [After Testing 3 Methods, This Is My New Favorite Way to Make Bacon](https://www.cnet.com/news/after-trying-3-methods-this-my-new-favorite-way-to-make-bacon/)
+ - [How to Rock the Afterlife With Spotify and Liquid Death&#39;s Diabolical New Device](https://www.cnet.com/tech/services-and-software/spotify-liquid-death-eternal-playlist-urn/)
+ - [Make the Most of Chrome&#39;s Toolbar by Customizing It to Your Liking](https://www.wired.com/story/how-to-customize-google-chrome-toolbar-to-your-liking/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

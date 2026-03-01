@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Love at first sight](http://9gag.com/gag/an7wdjV)
- - 😝 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
+ - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
  - 💣 [The long game](http://9gag.com/gag/aND538G)
- - 😝 [Ancient Roman engineering still going strong after 2000 years](http://9gag.com/gag/aD25P97)
- - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
+ - 😝 [That is better than LEGO.](http://9gag.com/gag/a87OnKV)
+ - 👉 [Satoru Takaba&#39;s wife&#39;s life was taken in their apartment in 1999](http://9gag.com/gag/amowd59)<!-- MEMES:END -->
 
 ---
 

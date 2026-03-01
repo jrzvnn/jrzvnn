@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Weird flex but Ok](http://9gag.com/gag/a34rx2m)
  - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 💣 [Stunt double?](http://9gag.com/gag/axywA6K)
- - 😝 [Meow](http://9gag.com/gag/aoywqPA)
- - 👉 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)<!-- MEMES:END -->
+ - 💣 [Nice....](http://9gag.com/gag/aGy5b10)
+ - 😝 [That is better than LEGO.](http://9gag.com/gag/a87OnKV)
+ - 👉 [Stunt double?](http://9gag.com/gag/axywA6K)<!-- MEMES:END -->
 
 ---
 

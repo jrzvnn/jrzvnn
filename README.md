@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look there&#39;s a Lion!](http://9gag.com/gag/aZZ5RvQ)
- - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 😝 [Love at first sight](http://9gag.com/gag/an7wdjV)
+ - 😝 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
  - 💣 [The long game](http://9gag.com/gag/aND538G)
- - 😝 [That is better than LEGO.](http://9gag.com/gag/a87OnKV)
+ - 😝 [Ancient Roman engineering still going strong after 2000 years](http://9gag.com/gag/aD25P97)
  - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
 
 ---

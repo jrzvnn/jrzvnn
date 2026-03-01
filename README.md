@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
+ - [If You&#39;re Buying the iPhone 16E Right Now, Stop! The iPhone 17E Is Almost Here](https://www.cnet.com/tech/mobile/dont-buy-an-iphone-16e-right-now-heres-why/)
  - [Flash deals: Samsung&#39;s S85F OLED TV plunges to $847 today only](https://appleinsider.com/articles/26/03/01/flash-deals-samsungs-s85f-oled-tv-plunges-to-847-today-only?utm_source=rss)
  - [Netflix actually won by walking away from the WBD bid, collecting a $2.8B termination fee and driving up the price and debt load of the Paramount-WBD merger &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260301/p3#a260301p3)
- - [Multiple AWS developers say they are asked to take on new roles with AI tools&#39; assistance, and engineers are now required to complete technical writing tasks &lpar;Financial Times&rpar;](http://www.techmeme.com/260301/p2#a260301p2)
- - [Block&#39;s plan to lay off over 4,000 employees, citing AI work automation, adds to growing angst among white-collar workers over AI&#39;s potential for job disruption &lpar;Chip Cutter/Wall Street Journal&rpar;](http://www.techmeme.com/260301/p1#a260301p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-1/)<!-- TECH:END -->
+ - [Multiple AWS developers say they are asked to take on new roles with AI tools&#39; assistance, and engineers are now required to complete technical writing tasks &lpar;Financial Times&rpar;](http://www.techmeme.com/260301/p2#a260301p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

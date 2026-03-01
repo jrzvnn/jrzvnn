@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love at first sight](http://9gag.com/gag/an7wdjV)
- - 😝 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
- - 💣 [The long game](http://9gag.com/gag/aND538G)
- - 😝 [That is better than LEGO.](http://9gag.com/gag/a87OnKV)
- - 👉 [Satoru Takaba&#39;s wife&#39;s life was taken in their apartment in 1999](http://9gag.com/gag/amowd59)<!-- MEMES:END -->
+ - 😝 [Nice....](http://9gag.com/gag/aGy5b10)
+ - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 💣 [Weird flex but Ok](http://9gag.com/gag/a34rx2m)
+ - 😝 [Mourning](http://9gag.com/gag/aBy5vez)
+ - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
 
 ---
 

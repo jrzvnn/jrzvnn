@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Make the Most of Chrome&#39;s Toolbar by Customizing It to Your Liking](https://www.wired.com/story/how-to-customize-google-chrome-toolbar-to-your-liking/)
  - [Inside the world&#39;s largest crypto casino Stake, which claims ~4% of all BTC transactions, with popularity boosted by celebs like Drake and influencers on Kick &lpar;Bloomberg&rpar;](http://www.techmeme.com/260301/p5#a260301p5)
  - [These MWC Phones and Gadgets Were Wild, So What Happened to Them?](https://www.cnet.com/tech/mobile/i-was-wowed-by-these-mwc-phones-and-gadgets-but-where-are-they-now/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 1 #728](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-1-728/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 1, #524](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-1-524/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 1, #994](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-1-994/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 1, #524](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-1-524/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

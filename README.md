@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia&#39;s eSafety Commissioner threatens action against app stores and search engines if AI services operating in Australia don&#39;t verify user ages by March 9 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/260301/p13#a260301p13)
  - [Israel-based Guidde, which is developing a platform to accelerate the adoption of AI in organizations, raised a $50M Series B round led by PSG Equity &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260301/p12#a260301p12)
  - [Reboot: Godzilla, mini Macs, and easing the supply chain](https://appleinsider.com/articles/26/03/01/reboot-godzilla-mini-macs-and-easing-the-supply-chain?utm_source=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for March 2, #995](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-2-995/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 2, #525](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-2-525/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 2 #729](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-2-729/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 2, #525](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-2-525/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

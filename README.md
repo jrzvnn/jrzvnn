@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Hyundai&#39;s Atlas humanoid robot, slated for assembly tasks in 2028; Hyundai has invested billions in robotics since acquiring Boston Dynamics in 2021 &lpar;Hyonhee Shin/Bloomberg&rpar;](http://www.techmeme.com/260301/p7#a260301p7)
+ - [Soundcore’s Space 2 are an evolution of its budget headphones](https://www.theverge.com/tech/886180/soundcore-space-2-announcement-mwc-2026)
  - [iPad Pro with vapor chamber cooling will wait until early 2027](https://appleinsider.com/articles/26/03/01/ipad-pro-with-vapor-chamber-cooling-will-wait-until-early-2027?utm_source=rss)
  - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
- - [Honor claims its Robot Phone will launch later this year](https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs)
- - [Baseus PicoGo AM52 Qi2.2 batteries review: multi-device charging &amp; 25W MagSafe](https://appleinsider.com/articles/26/03/01/baseus-picogo-am52-qi22-batteries-review-multi-device-charging-25w-magsafe?utm_source=rss)
- - [My Favorite Galaxy S26 Ultra Feature Comes With a Side of Paranoia](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-in-depth-hands-on/)<!-- TECH:END -->
+ - [Honor claims its Robot Phone will launch later this year](https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

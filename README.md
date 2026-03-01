@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Commands around the world, including the US Central Command in the Middle East, use Anthropic&#39;s Claude AI tool for a range of military operations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260228/p21#a260228p21)
  - [Polymarket trades on contracts tied to strikes on Iran hit $529M, and six new accounts profited a total of $1M by betting on the US to strike Iran by Feb. 28 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260228/p20#a260228p20)
  - [OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon &lpar;@openai&rpar;](http://www.techmeme.com/260228/p19#a260228p19)
  - [OpenAI says its DOD agreement upholds its redlines and &quot;has more guardrails than any previous agreement for classified AI deployments, including Anthropic&#39;s&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/260228/p18#a260228p18)
- - [X Is Drowning in Disinformation Following US and Israel’s Attack on Iran](https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/)
- - [AI coding agents are fueling productivity panic among executives and engineers, as a UCB study finds those offloading work to AI are also working longer hours &lpar;Issie Lapowsky/Bloomberg&rpar;](http://www.techmeme.com/260228/p17#a260228p17)<!-- TECH:END -->
+ - [X Is Drowning in Disinformation Following US and Israeli Attack on Iran](https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

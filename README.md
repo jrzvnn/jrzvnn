@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me irl](http://9gag.com/gag/a4PyxLd)
- - 😝 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
- - 💣 [The long game](http://9gag.com/gag/aND538G)
- - 😝 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
+ - 😝 [Iran before Islamic revolution](http://9gag.com/gag/a4Pyx5Q)
+ - 😝 [Yeaaahhhh](http://9gag.com/gag/axywAQL)
+ - 💣 [Have a nice day!](http://9gag.com/gag/aoywqMA)
+ - 😝 [Cutting open an ancient ammonite to reveal its stunning crystal chambers and internal patterns. So satisfying](http://9gag.com/gag/a0eqxwn)
+ - 👉 [Satoru Takaba&#39;s wife&#39;s life was taken in their apartment in 1999](http://9gag.com/gag/amowd59)<!-- MEMES:END -->
 
 ---
 

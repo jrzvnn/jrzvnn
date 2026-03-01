@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cutting open an ancient ammonite to reveal its stunning crystal chambers and internal patterns. So satisfying](http://9gag.com/gag/a0eqxwn)
  - 😝 [Me irl](http://9gag.com/gag/a4PyxLd)
- - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
+ - 💣 [Sounds and looks like something straight out of Mordor](http://9gag.com/gag/avywDn5)
  - 😝 [Stupidity](http://9gag.com/gag/aVv5BLP)
- - 👉 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)<!-- MEMES:END -->
+ - 👉 [Le Title.](http://9gag.com/gag/aPA2dxB)<!-- MEMES:END -->
 
 ---
 

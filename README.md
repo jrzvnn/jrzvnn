@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
  - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 😝 [Would you ?](http://9gag.com/gag/aZZ5z5p)
  - 💣 [An interesting wank](http://9gag.com/gag/a9y0DML)
- - 😝 [That is better than LEGO.](http://9gag.com/gag/a87OnKV)
- - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
+ - 😝 [Ancient Roman engineering still going strong after 2000 years](http://9gag.com/gag/aD25P97)
+ - 👉 [Satoru Takaba&#39;s wife&#39;s life was taken in their apartment in 1999](http://9gag.com/gag/amowd59)<!-- MEMES:END -->
 
 ---
 

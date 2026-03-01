@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [[Thread] In an AMA, Sam Altman says DOD blacklisting Anthropic sets an &quot;extremely scary precedent&quot;, OpenAI rushed its deal to &quot;de-escalate things&quot;, and more &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260301/p4#a260301p4)
+ - [Scottish Premiership Soccer 2026: Stream Rangers vs. Celtic Live](https://www.cnet.com/tech/services-and-software/scottish-premiership-soccer-2026-stream-rangers-vs-celtic-live/)
  - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
  - [If You&#39;re Buying the iPhone 16E Right Now, Stop! The iPhone 17E Is Almost Here](https://www.cnet.com/tech/mobile/dont-buy-an-iphone-16e-right-now-heres-why/)
- - [Flash deals: Samsung&#39;s S85F OLED TV plunges to $847 today only](https://appleinsider.com/articles/26/03/01/flash-deals-samsungs-s85f-oled-tv-plunges-to-847-today-only?utm_source=rss)
- - [Netflix actually won by walking away from the WBD bid, collecting a $2.8B termination fee and driving up the price and debt load of the Paramount-WBD merger &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260301/p3#a260301p3)<!-- TECH:END -->
+ - [Flash deals: Samsung&#39;s S85F OLED TV plunges to $847 today only](https://appleinsider.com/articles/26/03/01/flash-deals-samsungs-s85f-oled-tv-plunges-to-847-today-only?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

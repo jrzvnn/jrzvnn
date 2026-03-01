@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 😝 [Would you ?](http://9gag.com/gag/aZZ5z5p)
- - 💣 [An interesting wank](http://9gag.com/gag/a9y0DML)
- - 😝 [Ancient Roman engineering still going strong after 2000 years](http://9gag.com/gag/aD25P97)
- - 👉 [Satoru Takaba&#39;s wife&#39;s life was taken in their apartment in 1999](http://9gag.com/gag/amowd59)<!-- MEMES:END -->
+ - 😝 [Love at first sight](http://9gag.com/gag/an7wdjV)
+ - 😝 [Hard worker](http://9gag.com/gag/an7wde5)
+ - 💣 [Surely we&#39;ve all been there.](http://9gag.com/gag/aD25PAO)
+ - 😝 [Iran before Islamic revolution](http://9gag.com/gag/a4Pyx5Q)
+ - 👉 [Who\u2019s playing Pokemon FireRed or LeafGreen today?](http://9gag.com/gag/a2vpOpe)<!-- MEMES:END -->
 
 ---
 

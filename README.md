@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The long game](http://9gag.com/gag/aND538G)
  - 😝 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - 💣 [Stupidity](http://9gag.com/gag/aVv5BLP)
+ - 😝 [Stupidity](http://9gag.com/gag/aVv5BLP)
+ - 💣 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
  - 😝 [Confusion sets in](http://9gag.com/gag/aVv51Nd)
- - 👉 [In this economy](http://9gag.com/gag/aD25QrZ)<!-- MEMES:END -->
+ - 👉 [Comment F for respect...](http://9gag.com/gag/aZZ5dy3)<!-- MEMES:END -->
 
 ---
 

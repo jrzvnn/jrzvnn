@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source describes the failed Pentagon-Anthropic talks: through the end, the Pentagon wanted to use Anthropic&#39;s AI to analyze bulk data collected about Americans &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/260301/p9#a260301p9)
  - [Lego’s Smart Brick is here, and it transforms these new Star Wars sets](https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy)
  - [Apple Stores close in United Arab Emirates following Iran strikes](https://appleinsider.com/articles/26/03/01/apple-stores-close-in-united-arab-emirates-following-iran-strikes?utm_source=rss)
  - [Nvidia partners with Cisco, Nokia, and others to build 6G networks based on open, software-defined AI radio access networking &lpar;AI-RAN&rpar; architecture &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260301/p8#a260301p8)
- - [What Happens if Iran Shuts Down the Strait of Hormuz?](https://www.wired.com/story/what-happens-if-iran-shuts-down-the-strait-of-hormuz/)
- - [A look at Hyundai&#39;s Atlas humanoid robot, slated for assembly tasks in 2028; Hyundai has invested billions in robotics since acquiring Boston Dynamics in 2021 &lpar;Hyonhee Shin/Bloomberg&rpar;](http://www.techmeme.com/260301/p7#a260301p7)<!-- TECH:END -->
+ - [What Happens if Iran Shuts Down the Strait of Hormuz?](https://www.wired.com/story/what-happens-if-iran-shuts-down-the-strait-of-hormuz/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

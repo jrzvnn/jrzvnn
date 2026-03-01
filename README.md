@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me irl](http://9gag.com/gag/a4PyxLd)
- - 😝 [An incredibly valuable lesson was learned here](http://9gag.com/gag/aZZ5vRV)
- - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
+ - 😝 [The long game](http://9gag.com/gag/aND538G)
+ - 😝 [Le Title.](http://9gag.com/gag/aPA2dxB)
+ - 💣 [They live](http://9gag.com/gag/aYQ5RvO)
  - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
  - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
 

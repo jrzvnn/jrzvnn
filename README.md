@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you ?](http://9gag.com/gag/aZZ5z5p)
  - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 💣 [The long game](http://9gag.com/gag/aND538G)
- - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
- - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
+ - 😝 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)
+ - 💣 [Stupidity](http://9gag.com/gag/aVv5BLP)
+ - 😝 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
+ - 👉 [Would you ?](http://9gag.com/gag/aZZ5z5p)<!-- MEMES:END -->
 
 ---
 

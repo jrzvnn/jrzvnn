@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Me irl](http://9gag.com/gag/a4PyxLd)
- - 😝 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
+ - 😝 [The long game](http://9gag.com/gag/aND538G)
  - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
- - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
+ - 😝 [Stupidity](http://9gag.com/gag/aVv5BLP)
+ - 👉 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)<!-- MEMES:END -->
 
 ---
 

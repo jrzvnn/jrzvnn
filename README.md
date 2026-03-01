@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Chinese matchmaking apps like Wanmei Qinjia, which has 50M users and lets parents look for spouses for their children, surge as marriage rates continue to fall &lpar;Kohei Fujimura/Nikkei Asia&rpar;](http://www.techmeme.com/260301/p10#a260301p10)
  - [Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’](https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death)
+ - [300,000 Poses in an AI Instant: My Visit to Disney Studios and the New Reality for Animation](https://www.cnet.com/tech/services-and-software/300000-ai-animated-poses-in-an-instant-my-visit-to-disney-and-the-new-reality-for-cartoons/)
  - [The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran](https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/)
- - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
- - [Source describes the failed Pentagon-Anthropic talks: through the end, the Pentagon wanted to use Anthropic&#39;s AI to analyze bulk data collected about Americans &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/260301/p9#a260301p9)<!-- TECH:END -->
+ - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

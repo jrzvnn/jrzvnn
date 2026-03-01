@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iPad Pro with vapor chamber cooling will wait until early 2027](https://appleinsider.com/articles/26/03/01/ipad-pro-with-vapor-chamber-cooling-will-wait-until-early-2027?utm_source=rss)
+ - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
  - [Honor claims its Robot Phone will launch later this year](https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs)
  - [Baseus PicoGo AM52 Qi2.2 batteries review: multi-device charging &amp; 25W MagSafe](https://appleinsider.com/articles/26/03/01/baseus-picogo-am52-qi22-batteries-review-multi-device-charging-25w-magsafe?utm_source=rss)
- - [WWDC 2026 to introduce Core AI as replacement for Core ML](https://appleinsider.com/articles/26/03/01/wwdc-2026-to-introduce-core-ai-as-replacement-for-core-ml?utm_source=rss)
- - [Table space: Apple retail braces for affordable MacBook push](https://appleinsider.com/articles/26/03/01/table-space-apple-retail-braces-for-affordable-macbook-push?utm_source=rss)<!-- TECH:END -->
+ - [My Favorite Galaxy S26 Ultra Feature Comes With a Side of Paranoia](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-in-depth-hands-on/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

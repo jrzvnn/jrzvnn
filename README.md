@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
  - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 💣 [The long game](http://9gag.com/gag/aND538G)
- - 😝 [Iran before Islamic revolution](http://9gag.com/gag/a4Pyx5Q)
+ - 😝 [The long game](http://9gag.com/gag/aND538G)
+ - 💣 [Comment F for respect...](http://9gag.com/gag/aZZ5dy3)
+ - 😝 [That is better than LEGO.](http://9gag.com/gag/a87OnKV)
  - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me irl](http://9gag.com/gag/a4PyxLd)
- - 😝 [Sounds and looks like something straight out of Mordor](http://9gag.com/gag/avywDn5)
- - 💣 [Stupidity](http://9gag.com/gag/aVv5BLP)
- - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
- - 👉 [In this economy](http://9gag.com/gag/aD25QrZ)<!-- MEMES:END -->
+ - 😝 [Cutting open an ancient ammonite to reveal its stunning crystal chambers and internal patterns. So satisfying](http://9gag.com/gag/a0eqxwn)
+ - 😝 [Satoru Takaba&#39;s wife&#39;s life was taken in their apartment in 1999](http://9gag.com/gag/amowd59)
+ - 💣 [Be careful](http://9gag.com/gag/aAy5NyL)
+ - 😝 [Old but gold!](http://9gag.com/gag/agmwd2v)
+ - 👉 [Tokyo, Japan](http://9gag.com/gag/aZZ5dO3)<!-- MEMES:END -->
 
 ---
 

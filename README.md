@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look there&#39;s a Lion!](http://9gag.com/gag/aZZ5RvQ)
- - 😝 [Bro got schooled on basic economics](http://9gag.com/gag/adBwR4B)
- - 💣 [Could you not](http://9gag.com/gag/a87OVvO)
- - 😝 [Hard worker](http://9gag.com/gag/an7wde5)
- - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
+ - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 💣 [The long game](http://9gag.com/gag/aND538G)
+ - 😝 [Iran before Islamic revolution](http://9gag.com/gag/a4Pyx5Q)
+ - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
 
 ---
 

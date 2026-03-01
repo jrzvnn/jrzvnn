@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baseus PicoGo AM52 Qi2.2 batteries review: multi-device charging &amp; 25W MagSafe](https://appleinsider.com/articles/26/03/01/baseus-picogo-am52-qi22-batteries-review-multi-device-charging-25w-magsafe?utm_source=rss)
  - [WWDC 2026 to introduce Core AI as replacement for Core ML](https://appleinsider.com/articles/26/03/01/wwdc-2026-to-introduce-core-ai-as-replacement-for-core-ml?utm_source=rss)
  - [Table space: Apple retail braces for affordable MacBook push](https://appleinsider.com/articles/26/03/01/table-space-apple-retail-braces-for-affordable-macbook-push?utm_source=rss)
  - [Massive foldable iPad is in the works, but may never launch](https://appleinsider.com/articles/26/03/01/massive-foldable-ipad-is-in-the-works-but-may-never-launch?utm_source=rss)
- - [How some companies are trying to become the &quot;Strava of tennis&quot; by offering match video, stats, highlights, social features, and performance analysis for players &lpar;Charlie Eccleshare/The Athletic&rpar;](http://www.techmeme.com/260301/p6#a260301p6)
- - [Resident Evil Requiem leans too much on the series’ past](https://www.theverge.com/games/885811/resident-evil-requiem-grace-leon-nostalgia-ending)<!-- TECH:END -->
+ - [How some companies are trying to become the &quot;Strava of tennis&quot; by offering match video, stats, highlights, social features, and performance analysis for players &lpar;Charlie Eccleshare/The Athletic&rpar;](http://www.techmeme.com/260301/p6#a260301p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

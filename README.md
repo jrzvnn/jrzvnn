@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Laser Printers I&#39;ve Tried &lpar;2026&rpar;: Brother, HP, and More](https://www.wired.com/gallery/best-laser-printers/)
- - [Xiaomi 17 Ultra is a Sparkling Photography Powerhouse](https://www.cnet.com/tech/mobile/xiaomi-17-ultra-is-a-sparkling-photography-powerhouse/)
- - [After Testing 3 Methods, This Is My New Favorite Way to Make Bacon](https://www.cnet.com/news/after-trying-3-methods-this-my-new-favorite-way-to-make-bacon/)
- - [How to Rock the Afterlife With Spotify and Liquid Death&#39;s Diabolical New Device](https://www.cnet.com/tech/services-and-software/spotify-liquid-death-eternal-playlist-urn/)
- - [Make the Most of Chrome&#39;s Toolbar by Customizing It to Your Liking](https://www.wired.com/story/how-to-customize-google-chrome-toolbar-to-your-liking/)<!-- TECH:END -->
+ - [Recteq Flagship 1600 Review: An Upgraded Smoker](https://www.wired.com/review/recteq-flagship-1600-review/)
+ - [Video Doorbell Advice and Settings for Opting Out of the Surveillance State](https://www.wired.com/story/how-to-secure-your-video-doorbell/)
+ - [Stop Wasting Money: The Hidden Energy Vampire Draining Your Wallet](https://www.cnet.com/news/i-was-shocked-to-discover-home-worst-energy-vampire/)
+ - [These 6 Expert-Backed Vitamins Will Help You Age Well](https://www.cnet.com/health/nutrition/healthy-aging-vitamins/)
+ - [Best Laser Printers I&#39;ve Tried &lpar;2026&rpar;: Brother, HP, and More](https://www.wired.com/gallery/best-laser-printers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

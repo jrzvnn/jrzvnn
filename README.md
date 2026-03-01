@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cutting open an ancient ammonite to reveal its stunning crystal chambers and internal patterns. So satisfying](http://9gag.com/gag/a0eqxwn)
  - 😝 [Me irl](http://9gag.com/gag/a4PyxLd)
- - 💣 [Sounds and looks like something straight out of Mordor](http://9gag.com/gag/avywDn5)
- - 😝 [Stupidity](http://9gag.com/gag/aVv5BLP)
- - 👉 [Le Title.](http://9gag.com/gag/aPA2dxB)<!-- MEMES:END -->
+ - 😝 [An incredibly valuable lesson was learned here](http://9gag.com/gag/aZZ5vRV)
+ - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
+ - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
+ - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
 
 ---
 

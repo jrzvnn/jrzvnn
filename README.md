@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice....](http://9gag.com/gag/aGy5b10)
- - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 💣 [Weird flex but Ok](http://9gag.com/gag/a34rx2m)
- - 😝 [Mourning](http://9gag.com/gag/aBy5vez)
+ - 😝 [Weird flex but Ok](http://9gag.com/gag/a34rx2m)
+ - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 💣 [An interesting wank](http://9gag.com/gag/a9y0DML)
+ - 😝 [Meow](http://9gag.com/gag/aoywqPA)
  - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
 
 ---

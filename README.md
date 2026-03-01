@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The long game](http://9gag.com/gag/aND538G)
  - 😝 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - 💣 [They live](http://9gag.com/gag/aYQ5RvO)
- - 😝 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)
- - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
+ - 😝 [Sounds and looks like something straight out of Mordor](http://9gag.com/gag/avywDn5)
+ - 💣 [The long game](http://9gag.com/gag/aND538G)
+ - 😝 [Stupidity](http://9gag.com/gag/aVv5BLP)
+ - 👉 [Stunt double?](http://9gag.com/gag/axywA6K)<!-- MEMES:END -->
 
 ---
 

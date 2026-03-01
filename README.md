@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Polymarket trades on contracts tied to strikes on Iran hit $529M, and six new accounts profited a total of $1M by betting on the US to strike Iran by Feb. 28 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260228/p20#a260228p20)
  - [OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon &lpar;@openai&rpar;](http://www.techmeme.com/260228/p19#a260228p19)
  - [OpenAI says its DOD agreement upholds its redlines and &quot;has more guardrails than any previous agreement for classified AI deployments, including Anthropic&#39;s&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/260228/p18#a260228p18)
  - [X Is Drowning in Disinformation Following US and Israel’s Attack on Iran](https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/)
- - [AI coding agents are fueling productivity panic among executives and engineers, as a UCB study finds those offloading work to AI are also working longer hours &lpar;Issie Lapowsky/Bloomberg&rpar;](http://www.techmeme.com/260228/p17#a260228p17)
- - [16-inch M4 Pro MacBook Pro vs. Acer Predator Helios Neo 14: Apple&#39;s never been so far behind](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-m4-pro-macbook-pro-vs-acer-predator-helios-neo-14-apples-never-been-so-far-behind?utm_source=rss)<!-- TECH:END -->
+ - [AI coding agents are fueling productivity panic among executives and engineers, as a UCB study finds those offloading work to AI are also working longer hours &lpar;Issie Lapowsky/Bloomberg&rpar;](http://www.techmeme.com/260228/p17#a260228p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weird flex but Ok](http://9gag.com/gag/a34rx2m)
+ - 😝 [Nice....](http://9gag.com/gag/aGy5b10)
  - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 💣 [Nice....](http://9gag.com/gag/aGy5b10)
+ - 💣 [Weird flex but Ok](http://9gag.com/gag/a34rx2m)
  - 😝 [That is better than LEGO.](http://9gag.com/gag/a87OnKV)
  - 👉 [Stunt double?](http://9gag.com/gag/axywA6K)<!-- MEMES:END -->
 

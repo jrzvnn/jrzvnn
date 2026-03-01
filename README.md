@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 😝 [Iran before Islamic revolution](http://9gag.com/gag/a4Pyx5Q)
- - 💣 [Cutting open an ancient ammonite to reveal its stunning crystal chambers and internal patterns. So satisfying](http://9gag.com/gag/a0eqxwn)
- - 😝 [Le Title.](http://9gag.com/gag/aPA2dxB)
+ - 😝 [Bad Luck Khamenei](http://9gag.com/gag/ajPwdO8)
+ - 💣 [Iran before Islamic revolution](http://9gag.com/gag/a4Pyx5Q)
+ - 😝 [Cutting open an ancient ammonite to reveal its stunning crystal chambers and internal patterns. So satisfying](http://9gag.com/gag/a0eqxwn)
  - 👉 [Satoru Takaba&#39;s wife&#39;s life was taken in their apartment in 1999](http://9gag.com/gag/amowd59)<!-- MEMES:END -->
 
 ---

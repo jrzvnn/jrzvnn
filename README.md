@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stupidity](http://9gag.com/gag/aVv5BLP)
+ - 😝 [Would you ?](http://9gag.com/gag/aZZ5z5p)
  - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 💣 [Would you ?](http://9gag.com/gag/aZZ5z5p)
+ - 💣 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
  - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 👉 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)<!-- MEMES:END -->
+ - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Portable Sonos Play speaker leaks on Canadian Best Buy](https://www.theverge.com/tech/887220/sonos-play-leak)
- - [Sources describe in detail the failed talks between Anthropic and DOD, and how officials at agencies, including the CIA, still hope for a peace agreement &lpar;New York Times&rpar;](http://www.techmeme.com/260301/p11#a260301p11)
+ - [Israel-based Guidde, which is developing a platform to accelerate the adoption of AI in organizations, raised a $50M Series B round led by PSG Equity &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260301/p12#a260301p12)
+ - [Reboot: Godzilla, mini Macs, and easing the supply chain](https://appleinsider.com/articles/26/03/01/reboot-godzilla-mini-macs-and-easing-the-supply-chain?utm_source=rss)
  - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
- - [Chinese matchmaking apps like Wanmei Qinjia, which has 50M users and lets parents look for spouses for their children, surge as marriage rates continue to fall &lpar;Kohei Fujimura/Nikkei Asia&rpar;](http://www.techmeme.com/260301/p10#a260301p10)
- - [Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’](https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death)<!-- TECH:END -->
+ - [Portable Sonos Play speaker leaks on Canadian Best Buy](https://www.theverge.com/tech/887220/sonos-play-leak)
+ - [Sources describe in detail the failed talks between Anthropic and DOD, and how officials at agencies, including the CIA, still hope for a peace agreement &lpar;New York Times&rpar;](http://www.techmeme.com/260301/p11#a260301p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

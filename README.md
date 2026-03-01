@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blessed Holly molly](http://9gag.com/gag/aryw8L7)
- - 😝 [Could you not](http://9gag.com/gag/a87OVvO)
- - 💣 [Bro got schooled on basic economics](http://9gag.com/gag/adBwR4B)
+ - 😝 [Look there&#39;s a Lion!](http://9gag.com/gag/aZZ5RvQ)
+ - 😝 [Bro got schooled on basic economics](http://9gag.com/gag/adBwR4B)
+ - 💣 [Could you not](http://9gag.com/gag/a87OVvO)
  - 😝 [Hard worker](http://9gag.com/gag/an7wde5)
  - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
 

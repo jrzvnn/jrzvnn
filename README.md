@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Israel-based Guidde, which is developing a platform to accelerate the adoption of AI in organizations, raised a $50M Series B round led by PSG Equity &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260301/p12#a260301p12)
  - [Reboot: Godzilla, mini Macs, and easing the supply chain](https://appleinsider.com/articles/26/03/01/reboot-godzilla-mini-macs-and-easing-the-supply-chain?utm_source=rss)
- - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
- - [Portable Sonos Play speaker leaks on Canadian Best Buy](https://www.theverge.com/tech/887220/sonos-play-leak)
- - [Sources describe in detail the failed talks between Anthropic and DOD, and how officials at agencies, including the CIA, still hope for a peace agreement &lpar;New York Times&rpar;](http://www.techmeme.com/260301/p11#a260301p11)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 2, #995](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-2-995/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 2, #525](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-2-525/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 2 #729](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-2-729/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

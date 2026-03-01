@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Stores close in United Arab Emirates following Iran strikes](https://appleinsider.com/articles/26/03/01/apple-stores-close-in-united-arab-emirates-following-iran-strikes?utm_source=rss)
+ - [Nvidia partners with Cisco, Nokia, and others to build 6G networks based on open, software-defined AI radio access networking &lpar;AI-RAN&rpar; architecture &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260301/p8#a260301p8)
  - [What Happens if Iran Shuts Down the Strait of Hormuz?](https://www.wired.com/story/what-happens-if-iran-shuts-down-the-strait-of-hormuz/)
  - [A look at Hyundai&#39;s Atlas humanoid robot, slated for assembly tasks in 2028; Hyundai has invested billions in robotics since acquiring Boston Dynamics in 2021 &lpar;Hyonhee Shin/Bloomberg&rpar;](http://www.techmeme.com/260301/p7#a260301p7)
- - [Soundcore’s Space 2 are an evolution of its budget headphones](https://www.theverge.com/tech/886180/soundcore-space-2-announcement-mwc-2026)
- - [iPad Pro with vapor chamber cooling will wait until early 2027](https://appleinsider.com/articles/26/03/01/ipad-pro-with-vapor-chamber-cooling-will-wait-until-early-2027?utm_source=rss)
- - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)<!-- TECH:END -->
+ - [&#39;Marshals&#39;: How to Watch the Premiere Without Cable](https://www.cnet.com/tech/services-and-software/marshals-how-to-watch-the-premiere-without-cable/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

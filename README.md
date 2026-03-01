@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love at first sight](http://9gag.com/gag/an7wdjV)
- - 😝 [Hard worker](http://9gag.com/gag/an7wde5)
- - 💣 [Surely we&#39;ve all been there.](http://9gag.com/gag/aD25PAO)
- - 😝 [Iran before Islamic revolution](http://9gag.com/gag/a4Pyx5Q)
- - 👉 [Who\u2019s playing Pokemon FireRed or LeafGreen today?](http://9gag.com/gag/a2vpOpe)<!-- MEMES:END -->
+ - 😝 [Look there&#39;s a Lion!](http://9gag.com/gag/aZZ5RvQ)
+ - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 💣 [The long game](http://9gag.com/gag/aND538G)
+ - 😝 [That is better than LEGO.](http://9gag.com/gag/a87OnKV)
+ - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
 
 ---
 

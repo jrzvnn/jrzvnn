@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you ?](http://9gag.com/gag/aZZ5z5p)
- - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 💣 [The IRGC almost hit Burj Khalifa, the tallest building on Earth.](http://9gag.com/gag/aZZ5vA0)
- - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
+ - 😝 [Blessed Holly molly](http://9gag.com/gag/aryw8L7)
+ - 😝 [Could you not](http://9gag.com/gag/a87OVvO)
+ - 💣 [Bro got schooled on basic economics](http://9gag.com/gag/adBwR4B)
+ - 😝 [Hard worker](http://9gag.com/gag/an7wde5)
+ - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
  - 😝 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 💣 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
  - 😝 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - 👉 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
+ - 💣 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
+ - 😝 [Influenzer gerade in Dubai:](http://9gag.com/gag/aVv54Kd)
+ - 👉 [A sober Generation?](http://9gag.com/gag/azxwD0K)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
  - 😝 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
- - 💣 [Average 9gag hater](http://9gag.com/gag/aVv59w8)
- - 😝 [Keeping it old school](http://9gag.com/gag/aND5GOA)
- - 👉 [Ukrainian Student](http://9gag.com/gag/aND58pw)<!-- MEMES:END -->
+ - 😝 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 💣 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
+ - 😝 [Hold my beer...](http://9gag.com/gag/aGy5rGw)
+ - 👉 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the research into using metal-organic frameworks as photoresists for cutting-edge silicon etching, as ASML aims to move from EUV to X-ray lithography &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260302/p4#a260302p4)
- - [Vivo’s next phone will launch with a professional camera rig](https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage)
- - [MWC 2026: a look at Lenovo&#39;s concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/260302/p3#a260302p3)
- - [Qualcomm&#39;s Latest Chip Could Lead a New Wave of Camera-Equipped AI Watches and Wearables](https://www.cnet.com/tech/services-and-software/qualcomms-latest-chip-could-lead-a-new-wave-of-camera-equipped-ai-watches-and-wearables/)
- - [Samsung, Google and Motorola to Make AI Watches, Pins, Pendants With New Qualcomm Chip](https://www.cnet.com/tech/mobile/samsung-google-and-motorola-to-make-ai-watches-pins-pendants-with-new-qualcomm-chip/)<!-- TECH:END -->
+ - [Qualcomm unveils the 3nm Snapdragon Wear Elite SoC for smartwatches, offering a Hexagon NPU that it says can run on-device AI models with up to 2B parameters &lpar;Matt Swider/The Shortcut&rpar;](http://www.techmeme.com/260302/p7#a260302p7)
+ - [MWC 2026 Live Updates: All the Phones, Robots and Wild Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
+ - [Vitalik Buterin outlines a two-part plan to overhaul Ethereum&#39;s execution layer with a binary state tree and eventually move beyond the Ethereum virtual machine &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260302/p6#a260302p6)
+ - [Frontier AI labs&#39; policies around military use of their AI tools are incoherent, vague, and often prone to change, allowing leadership to preserve &quot;optionality&quot; &lpar;Sarah Shoker/fishbowlification&rpar;](http://www.techmeme.com/260302/p5#a260302p5)
+ - [Tecno’s latest concept phone is lit by neon](https://www.theverge.com/gadgets/886923/tecnos-latest-concept-phone-is-lit-by-neon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 😝 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
- - 💣 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
- - 😝 [Support Israel and AIPAC](http://9gag.com/gag/aD25qRG)
- - 👉 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)<!-- MEMES:END -->
+ - 😝 [The ultimate desk toy for any Minecraft addict](http://9gag.com/gag/a87OQyY)
+ - 😝 [Nevermind a bone](http://9gag.com/gag/a6Z63Re)
+ - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
+ - 😝 [Ancient Roman engineering still going strong after 2000 years](http://9gag.com/gag/aD25P97)
+ - 👉 [They should make an app for things like this](http://9gag.com/gag/ae9wy6v)<!-- MEMES:END -->
 
 ---
 

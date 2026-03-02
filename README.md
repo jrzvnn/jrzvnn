@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic upgrades Claude’s memory to attract AI switchers](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing)
+ - [Sources: US considers limiting Chinese companies to 75K Nvidia H200 chips each, less than half of what some want to buy; AMD MI325 chips also count toward a cap &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p37#a260302p37)
+ - [Apple’s cheapest AirPods have hit $89](https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale)
  - [Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads](https://www.wired.com/story/with-missile-attacks-overhead-in-the-gulf-delivery-drivers-are-still-on-the-road/)
- - [Iranians turn to Starlink, decentralized messaging apps, and VPNs to circumvent an internet blackout; NetBlocks says connectivity is at 1% of ordinary levels &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p36#a260302p36)
- - [iPhone 17e vs iPhone 17: Budget against performance, compared](https://appleinsider.com/inside/iphone-17e/vs/iphone-17e-vs-iphone-17-budget-against-performance-compared?utm_source=rss)
- - [WhatsApp Advises Users to Try Mullvad and Amnezia VPNs to Circumvent Blocks](https://www.cnet.com/tech/services-and-software/whatsapp-names/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 3, #1718](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-3-1718/)<!-- TECH:END -->
+ - [Iranians turn to Starlink, decentralized messaging apps, and VPNs to circumvent an internet blackout; NetBlocks says connectivity is at 1% of ordinary levels &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p36#a260302p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

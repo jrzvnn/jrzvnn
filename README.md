@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Australian AI infrastructure company Firmus signed a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips &lpar;Sharon Klyne/Bloomberg&rpar;](http://www.techmeme.com/260302/p1#a260302p1)
+ - [Motorola&#39;s Upcoming Razr Fold Pairs a Massive Battery With a Sleek Design](https://www.cnet.com/tech/mobile/motorola-razr-battery-design-details-mwc-2026/)
  - [The Motorola Razr Fold is shaping up to be pure flagship](https://www.theverge.com/tech/887249/motorola-razr-fold-specs-camera-silicon-carbon-battery)
  - [Early data show wages are rising for AI-exposed jobs that place a high value on a &quot;worker&#39;s tacit knowledge and experience&quot;, as textbook knowledge loses value &lpar;J. Scott Davis/Federal Reserve Bank of Dallas&rpar;](http://www.techmeme.com/260301/p20#a260301p20)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-2/)
- - [A Waymo robotaxi stopped in the middle of a road and blocked an ambulance near a mass shooting site in Austin; Waymo confirms it was en route for rider pickup &lpar;Nicole Cobler/Axios&rpar;](http://www.techmeme.com/260301/p19#a260301p19)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, March 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

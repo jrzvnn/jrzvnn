@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Support Israel and AIPAC](http://9gag.com/gag/aD25qRG)
- - 😝 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
- - 💣 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
- - 😝 [Keeping it old school](http://9gag.com/gag/aND5GOA)
- - 👉 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)<!-- MEMES:END -->
+ - 😝 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
+ - 😝 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
+ - 💣 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
+ - 😝 [Meanwhile in Germany](http://9gag.com/gag/aBy5bNQ)
+ - 👉 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
 
 ---
 

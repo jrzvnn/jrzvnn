@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - 😝 [Sounds and looks like something straight out of Mordor](http://9gag.com/gag/avywDn5)
- - 💣 [Me irl](http://9gag.com/gag/a4PyxLd)
- - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
+ - 😝 [You should go hiking. Its such lovely weather](http://9gag.com/gag/aW45NRn)
+ - 😝 [Ancient Roman engineering still going strong after 2000 years](http://9gag.com/gag/aD25P97)
+ - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
+ - 😝 [Have a nice day!](http://9gag.com/gag/aoywqMA)
+ - 👉 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)<!-- MEMES:END -->
 
 ---
 

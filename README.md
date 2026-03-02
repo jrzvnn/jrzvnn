@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australian AI infrastructure company Firmus signed a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips &lpar;Sharon Klyne/Bloomberg&rpar;](http://www.techmeme.com/260302/p1#a260302p1)
- - [Motorola&#39;s Upcoming Razr Fold Pairs a Massive Battery With a Sleek Design](https://www.cnet.com/tech/mobile/motorola-razr-battery-design-details-mwc-2026/)
- - [The Motorola Razr Fold is shaping up to be pure flagship](https://www.theverge.com/tech/887249/motorola-razr-fold-specs-camera-silicon-carbon-battery)
- - [Early data show wages are rising for AI-exposed jobs that place a high value on a &quot;worker&#39;s tacit knowledge and experience&quot;, as textbook knowledge loses value &lpar;J. Scott Davis/Federal Reserve Bank of Dallas&rpar;](http://www.techmeme.com/260301/p20#a260301p20)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-2/)<!-- TECH:END -->
+ - [MWC 2026: a look at Lenovo&#39;s concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/260302/p3#a260302p3)
+ - [Qualcomm&#39;s Latest Chip Could Lead a New Wave of Camera-Equipped AI Watches and Wearables](https://www.cnet.com/tech/services-and-software/qualcomms-latest-chip-could-lead-a-new-wave-of-camera-equipped-ai-watches-and-wearables/)
+ - [Samsung, Google and Motorola to Make AI Watches, Pins, Pendants With New Qualcomm Chip](https://www.cnet.com/tech/mobile/samsung-google-and-motorola-to-make-ai-watches-pins-pendants-with-new-qualcomm-chip/)
+ - [Qualcomm’s new chip is geared toward wearable AI gadgets](https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables)
+ - [Lenovo&#39;s Motorola partners with GrapheneOS, a privacy-focused, de-Googled version of Android, to preinstall GrapheneOS on upcoming Motorola smartphones &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260302/p2#a260302p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

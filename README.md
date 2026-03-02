@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Cursor&#39;s annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260302/p39#a260302p39)
+ - [The US Treasury Department, State Department, and federal housing agency are ending use of Anthropic products; State Department says it will switch to OpenAI &lpar;Reuters&rpar;](http://www.techmeme.com/260302/p38#a260302p38)
  - [Anthropic upgrades Claude’s memory to attract AI switchers](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing)
- - [Sources: US considers limiting Chinese companies to 75K Nvidia H200 chips each, less than half of what some want to buy; AMD MI325 chips also count toward a cap &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p37#a260302p37)
- - [Apple’s cheapest AirPods have hit $89](https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale)
- - [Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads](https://www.wired.com/story/with-missile-attacks-overhead-in-the-gulf-delivery-drivers-are-still-on-the-road/)
- - [Iranians turn to Starlink, decentralized messaging apps, and VPNs to circumvent an internet blackout; NetBlocks says connectivity is at 1% of ordinary levels &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p36#a260302p36)<!-- TECH:END -->
+ - [Apple Updated the Wrong iPad](https://www.cnet.com/tech/computing/apple-updated-the-wrong-ipad/)
+ - [Sources: US considers limiting Chinese companies to 75K Nvidia H200 chips each, less than half of what some want to buy; AMD MI325 chips also count toward a cap &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p37#a260302p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

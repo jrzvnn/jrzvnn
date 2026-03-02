@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the research into using metal-organic frameworks as photoresists for cutting-edge silicon etching, as ASML aims to move from EUV to X-ray lithography &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260302/p4#a260302p4)
  - [Vivo’s next phone will launch with a professional camera rig](https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage)
  - [MWC 2026: a look at Lenovo&#39;s concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/260302/p3#a260302p3)
  - [Qualcomm&#39;s Latest Chip Could Lead a New Wave of Camera-Equipped AI Watches and Wearables](https://www.cnet.com/tech/services-and-software/qualcomms-latest-chip-could-lead-a-new-wave-of-camera-equipped-ai-watches-and-wearables/)
- - [Samsung, Google and Motorola to Make AI Watches, Pins, Pendants With New Qualcomm Chip](https://www.cnet.com/tech/mobile/samsung-google-and-motorola-to-make-ai-watches-pins-pendants-with-new-qualcomm-chip/)
- - [Qualcomm’s new chip is geared toward wearable AI gadgets](https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables)<!-- TECH:END -->
+ - [Samsung, Google and Motorola to Make AI Watches, Pins, Pendants With New Qualcomm Chip](https://www.cnet.com/tech/mobile/samsung-google-and-motorola-to-make-ai-watches-pins-pendants-with-new-qualcomm-chip/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

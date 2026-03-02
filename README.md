@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 😝 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
  - 😝 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 💣 [Stunt double?](http://9gag.com/gag/axywA6K)
- - 😝 [Professor McGonagall inspecting the new wand shop.](http://9gag.com/gag/aXP1Q99)
+ - 💣 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 😝 [Stunt double?](http://9gag.com/gag/axywA6K)
  - 👉 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)<!-- MEMES:END -->
 
 ---

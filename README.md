@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils the iPhone 17e, offering a 6.1-inch display, 3nm A19 chip, C1X modem, a 48MP Fusion camera, and more, starting at $599 and shipping March 11 &lpar;Apple&rpar;](http://www.techmeme.com/260302/p21#a260302p21)
- - [Apple announces the iPhone 17E](https://www.theverge.com/tech/886476/apple-iphone-march-2026)
- - [Pico’s Project Swan XR Headset Wants to Go Where the Apple Vision Pro Failed](https://www.wired.com/story/pico-os-6-project-swan-xr-headset/)
- - [Apple launches a new iPad Air with an upgraded M4 processor](https://www.theverge.com/tech/886433/apple-ipad-air-2026-launch-price-specs-availability)
- - [AWS plans to invest an additional €18B in Aragon, Spain, taking its total investment to €33.7B; its Aragon facilities have used 100% renewable energy since 2022 &lpar;Cristina Cueto/DatacenterDynamics&rpar;](http://www.techmeme.com/260302/p20#a260302p20)<!-- TECH:END -->
+ - [Sources: OpenAI agreed to follow laws that have allowed for mass surveillance in the past, and the DOD didn&#39;t budge from its demands over bulk analyzing data &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260302/p24#a260302p24)
+ - [There&#39;s not much in the new M4 iPad Air update other than speed](https://appleinsider.com/articles/26/03/02/theres-not-much-in-the-new-m4-ipad-air-update-other-than-speed?utm_source=rss)
+ - [Apple Gives the iPad Air a Small Power Boost](https://www.wired.com/story/apple-ipad-air-m4-2026/)
+ - [Sources: at Apple&#39;s request, Google investigated hosting servers inside its data centers to run a Gemini-based Siri while adhering to Apple&#39;s privacy standards &lpar;The Information&rpar;](http://www.techmeme.com/260302/p23#a260302p23)
+ - [iPhone 17e arrives with A19 chip upgrade and MagSafe charging](https://appleinsider.com/articles/26/03/02/iphone-17e-arrives-with-a19-chip-upgrade-and-magsafe-charging?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

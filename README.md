@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17e vs iPhone 16e: Apple&#39;s low-end, compared](https://appleinsider.com/inside/iphone-17e/vs/iphone-17e-vs-iphone-16e-apples-low-end-compared?utm_source=rss)
- - [Anthropic&#39;s $60B+ in funding, half of which came just last month, from over 200 investors is now at risk due to the company&#39;s contract dispute with the Pentagon &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/260302/p30#a260302p30)
- - [Here&amp;#8217;s the upgrade to my favorite phone camera of last year](https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage)
- - [Sources: Reflection AI, which is developing open foundation models, seeks to raise $2B+ at a $20B+ valuation, after raising $2B at an $8B valuation in October &lpar;Financial Times&rpar;](http://www.techmeme.com/260302/p29#a260302p29)
- - [Apple&#39;s spring hardware refresh brings new colors for cases and accessories](https://appleinsider.com/articles/26/03/02/apples-spring-hardware-refresh-brings-new-colors-for-cases-and-accessories?utm_source=rss)<!-- TECH:END -->
+ - [macOS Tahoe 26.4 absent from third round of developer betas](https://appleinsider.com/articles/26/03/02/macos-tahoe-264-absent-from-third-round-of-developer-betas?utm_source=rss)
+ - [You could be an influencer without even realizing it](https://www.theverge.com/tech/887692/instagram-shop-the-look-ai-shopping-tiktok-influencers)
+ - [Attacks on GPS Spike Amid US and Israeli War on Iran](https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/)
+ - [A profile of Palmer Luckey and his startup Anduril, which has more than $6B in global contracts, had roughly $2B in revenue last year, and is valued at ~$31B &lpar;New York Times&rpar;](http://www.techmeme.com/260302/p31#a260302p31)
+ - [Our Favorite Budget TV Is On Sale](https://www.wired.com/story/vizio-tv-deal-226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

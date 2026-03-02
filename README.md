@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm unveils the 3nm Snapdragon Wear Elite SoC for smartwatches, offering a Hexagon NPU that it says can run on-device AI models with up to 2B parameters &lpar;Matt Swider/The Shortcut&rpar;](http://www.techmeme.com/260302/p7#a260302p7)
- - [MWC 2026 Live Updates: All the Phones, Robots and Wild Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
- - [Vitalik Buterin outlines a two-part plan to overhaul Ethereum&#39;s execution layer with a binary state tree and eventually move beyond the Ethereum virtual machine &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260302/p6#a260302p6)
- - [Frontier AI labs&#39; policies around military use of their AI tools are incoherent, vague, and often prone to change, allowing leadership to preserve &quot;optionality&quot; &lpar;Sarah Shoker/fishbowlification&rpar;](http://www.techmeme.com/260302/p5#a260302p5)
- - [Tecno’s latest concept phone is lit by neon](https://www.theverge.com/gadgets/886923/tecnos-latest-concept-phone-is-lit-by-neon)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 2 #729](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-2-729/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 2, #525](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-2-525/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 2, #995](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-2-995/)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 2, #1717](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-2-1717/)
+ - [The Data Centers Have Arrived at the Edge of the Arctic Circle](https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

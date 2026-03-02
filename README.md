@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US-led Iran bombing campaign causes longer delivery times for Amazon, Shein, and others in the Middle East, one of the fastest-growing e-commerce markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p13#a260302p13)
  - [Anthropic launches a tool to bring a user&#39;s preferences and context from other AI platforms to Claude via one copy-paste command, available on all paid plans &lpar;Claude&rpar;](http://www.techmeme.com/260302/p12#a260302p12)
  - [Best AirPods &lpar;2026&rpar;: Which Apple Headphones Should You Buy?](https://www.wired.com/gallery/best-airpods/)
  - [An unpublished draft of Changpeng Zhao&#39;s memoir, &quot;Freedom of Money&quot;, details secret negotiations in 2023 that led to his imprisonment and a run-in with ICE &lpar;New York Times&rpar;](http://www.techmeme.com/260302/p11#a260302p11)
- - [Oh great, here comes 6G](https://www.theverge.com/tech/886558/6g-satellite-ai-isac)
- - [Shanghai-based MiniMax reports 2025 revenue up 159% YoY to $79M, above ~$71.4M est., and a $1.87B net loss, up from a ~$465.2M loss in 2024, after its IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p10#a260302p10)<!-- TECH:END -->
+ - [Oh great, here comes 6G](https://www.theverge.com/tech/886558/6g-satellite-ai-isac)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

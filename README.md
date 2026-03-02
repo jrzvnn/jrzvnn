@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Kickstarter CEO Everette Taylor on modernizing the platform, attracting new creators, managing a fully remote, four-day-per-week workplace, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/260302/p9#a260302p9)
- - [When the Internet Goes Dark, the Truth Goes With It](https://www.wired.com/story/plestia-alaqad-gaza-citizen-journalist-social-media/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 2 #729](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-2-729/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 2, #525](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-2-525/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 2, #995](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-2-995/)<!-- TECH:END -->
+ - [Anthropic launches a tool to bring a user&#39;s preferences and context from other AI platforms to Claude via one copy-paste command, available on all paid plans &lpar;Claude&rpar;](http://www.techmeme.com/260302/p12#a260302p12)
+ - [Best AirPods &lpar;2026&rpar;: Which Apple Headphones Should You Buy?](https://www.wired.com/gallery/best-airpods/)
+ - [An unpublished draft of Changpeng Zhao&#39;s memoir, &quot;Freedom of Money&quot;, details secret negotiations in 2023 that led to his imprisonment and a run-in with ICE &lpar;New York Times&rpar;](http://www.techmeme.com/260302/p11#a260302p11)
+ - [Oh great, here comes 6G](https://www.theverge.com/tech/886558/6g-satellite-ai-isac)
+ - [Shanghai-based MiniMax reports 2025 revenue up 159% YoY to $79M, above ~$71.4M est., and a $1.87B net loss, up from a ~$465.2M loss in 2024, after its IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p10#a260302p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

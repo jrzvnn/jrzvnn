@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s spring hardware refresh brings new colors for cases and accessories](https://appleinsider.com/articles/26/03/02/apples-spring-hardware-refresh-brings-new-colors-for-cases-and-accessories?utm_source=rss)
  - [iPhone 17e vs iPhone 16e: Apple&#39;s low-end, compared](https://appleinsider.com/inside/iphone-17e/vs/iphone-17e-vs-iphone-16e-apples-low-end-compared?utm_source=rss)
- - [Nvidia&amp;#8217;s spending $4 billion on photonics to stay ahead of the curve in AI](https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent)
- - [The Analogue Pocket will be back in stock and slightly more expensive](https://www.theverge.com/tech/887599/analogue-pocket-restock-tariffs-available)
- - [X announces a &quot;Paid Partnership&quot; label that creators can apply to their posts to indicate they&#39;re ads; until now, creators relied on hashtags to label posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260302/p28#a260302p28)<!-- TECH:END -->
+ - [Anthropic&#39;s $60B+ in funding, half of which came just last month, from over 200 investors is now at risk due to the company&#39;s contract dispute with the Pentagon &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/260302/p30#a260302p30)
+ - [Here&amp;#8217;s the upgrade to my favorite phone camera of last year](https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage)
+ - [Sources: Reflection AI, which is developing open foundation models, seeks to raise $2B+ at a $20B+ valuation, after raising $2B at an $8B valuation in October &lpar;Financial Times&rpar;](http://www.techmeme.com/260302/p29#a260302p29)
+ - [Apple&#39;s spring hardware refresh brings new colors for cases and accessories](https://appleinsider.com/articles/26/03/02/apples-spring-hardware-refresh-brings-new-colors-for-cases-and-accessories?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

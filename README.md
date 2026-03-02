@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vivo’s next phone will launch with a professional camera rig](https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage)
  - [MWC 2026: a look at Lenovo&#39;s concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/260302/p3#a260302p3)
  - [Qualcomm&#39;s Latest Chip Could Lead a New Wave of Camera-Equipped AI Watches and Wearables](https://www.cnet.com/tech/services-and-software/qualcomms-latest-chip-could-lead-a-new-wave-of-camera-equipped-ai-watches-and-wearables/)
  - [Samsung, Google and Motorola to Make AI Watches, Pins, Pendants With New Qualcomm Chip](https://www.cnet.com/tech/mobile/samsung-google-and-motorola-to-make-ai-watches-pins-pendants-with-new-qualcomm-chip/)
- - [Qualcomm’s new chip is geared toward wearable AI gadgets](https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables)
- - [Lenovo&#39;s Motorola partners with GrapheneOS, a privacy-focused, de-Googled version of Android, to preinstall GrapheneOS on upcoming Motorola smartphones &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260302/p2#a260302p2)<!-- TECH:END -->
+ - [Qualcomm’s new chip is geared toward wearable AI gadgets](https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 😝 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - 💣 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
- - 😝 [Influenzer gerade in Dubai:](http://9gag.com/gag/aVv54Kd)
- - 👉 [A sober Generation?](http://9gag.com/gag/azxwD0K)<!-- MEMES:END -->
+ - 😝 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 😝 [Stupidity](http://9gag.com/gag/aVv5BLP)
+ - 💣 [A sober Generation?](http://9gag.com/gag/azxwD0K)
+ - 😝 [Tamagotchi 2026: The planta edition](http://9gag.com/gag/aYQ5ZLO)
+ - 👉 [Stunt double?](http://9gag.com/gag/axywA6K)<!-- MEMES:END -->
 
 ---
 

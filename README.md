@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)
  - 😝 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
- - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 👉 [A sober Generation?](http://9gag.com/gag/azxwD0K)<!-- MEMES:END -->
+ - 😝 [Me irl](http://9gag.com/gag/a4PyxLd)
+ - 💣 [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)
+ - 😝 [Tamagotchi 2026: The planta edition](http://9gag.com/gag/aYQ5ZLO)
+ - 👉 [Stupidity](http://9gag.com/gag/aVv5BLP)<!-- MEMES:END -->
 
 ---
 

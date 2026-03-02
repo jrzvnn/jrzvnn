@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 😝 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
- - 💣 [Stunt double?](http://9gag.com/gag/axywA6K)
- - 😝 [People who litter are the worst.](http://9gag.com/gag/aVv59qM)
- - 👉 [A sober Generation?](http://9gag.com/gag/azxwD0K)<!-- MEMES:END -->
+ - 😝 [Stunt double?](http://9gag.com/gag/axywA6K)
+ - 💣 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 😝 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
+ - 👉 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)<!-- MEMES:END -->
 
 ---
 

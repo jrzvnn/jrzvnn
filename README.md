@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS declines to hear a dispute over copyrights for AI-generated material, in a case where a computer scientist was denied a copyright for AI-generated art &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260302/p27#a260302p27)
- - [The Anthropic-DOD skirmish is the first major public debate on control over frontier AI, and institutions behaved erratically, maliciously, and without clarity &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/260302/p26#a260302p26)
- - [Your Wi-Fi router&#39;s guest network may not be as secure as you think](https://appleinsider.com/articles/26/03/02/your-wi-fi-routers-guest-network-may-not-be-as-secure-as-you-think?utm_source=rss)
- - [Samsung Needs to Learn a Big Lesson From Xiaomi](https://www.cnet.com/tech/mobile/samsung-s26-ultra-xiaomi-leica-leitzphone/)
- - [A look at the rights AI companies have in US government contracts, such as the &quot;any lawful use&quot; standard, amid the Anthropic-DOD dispute and the OpenAI-DOD deal &lpar;Jessica Tillipman&rpar;](http://www.techmeme.com/260302/p25#a260302p25)<!-- TECH:END -->
+ - [HBO Max and Paramount Plus could become one streamer](https://www.theverge.com/streaming/887538/paramount-plus-warner-bros-hbo-max-merging)
+ - [War in Iran Spiked Oil Prices. Trump Will Decide How High They Go](https://www.wired.com/story/war-in-iran-sent-oil-prices-up-trump-will-decide-how-high-they-go/)
+ - [Samsung’s Digital Home Key lets you use your phone as your key](https://www.theverge.com/tech/887564/samsung-wallet-digital-key-smart-home-aliro)
+ - [Apple either over- or under-invested in server hardware, depending on how you read this report](https://appleinsider.com/articles/26/03/02/apple-either-over--or-under-invested-in-server-hardware-depending-on-how-you-read-this-report?utm_source=rss)
+ - [The best mobile tech announced at MWC 2026 so far](https://www.theverge.com/tech/882992/mobile-world-congress-mwc-2026-smartphones-laptops-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

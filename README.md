@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Waymo robotaxi stopped in the middle of a road and blocked an ambulance near a mass shooting site in Austin; Waymo confirms it was en route for rider pickup &lpar;Nicole Cobler/Axios&rpar;](http://www.techmeme.com/260301/p19#a260301p19)
- - [A profile of Telegram CEO Pavel Durov, who is facing a probe in France on a dozen preliminary charges and a Russian criminal case for &quot;aiding terrorism&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260301/p18#a260301p18)
- - [Save $100 on iPad mini 7, plus grab Apple Pencil Pro deal](https://appleinsider.com/articles/26/03/02/save-100-on-ipad-mini-7-plus-grab-apple-pencil-pro-deal?utm_source=rss)
- - [AWS said objects struck one of its data centers in the UAE, impacting its mec1-az2 availability zone, and that connectivity will take several hours to restore &lpar;Reuters&rpar;](http://www.techmeme.com/260301/p17#a260301p17)
- - [Block is a poster child for the lack of operational discipline common among mid-tier public tech companies that lived on the largesse of cloud, mobile, and ZIRP &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/260301/p16#a260301p16)<!-- TECH:END -->
+ - [Australian AI infrastructure company Firmus signed a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips &lpar;Sharon Klyne/Bloomberg&rpar;](http://www.techmeme.com/260302/p1#a260302p1)
+ - [The Motorola Razr Fold is shaping up to be pure flagship](https://www.theverge.com/tech/887249/motorola-razr-fold-specs-camera-silicon-carbon-battery)
+ - [Early data show wages are rising for AI-exposed jobs that place a high value on a &quot;worker&#39;s tacit knowledge and experience&quot;, as textbook knowledge loses value &lpar;J. Scott Davis/Federal Reserve Bank of Dallas&rpar;](http://www.techmeme.com/260301/p20#a260301p20)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, March 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-2/)
+ - [A Waymo robotaxi stopped in the middle of a road and blocked an ambulance near a mass shooting site in Austin; Waymo confirms it was en route for rider pickup &lpar;Nicole Cobler/Axios&rpar;](http://www.techmeme.com/260301/p19#a260301p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI agreed to follow laws that have allowed for mass surveillance in the past, and the DOD didn&#39;t budge from its demands over bulk analyzing data &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260302/p24#a260302p24)
- - [There&#39;s not much in the new M4 iPad Air update other than speed](https://appleinsider.com/articles/26/03/02/theres-not-much-in-the-new-m4-ipad-air-update-other-than-speed?utm_source=rss)
- - [Apple Gives the iPad Air a Small Power Boost](https://www.wired.com/story/apple-ipad-air-m4-2026/)
- - [Sources: at Apple&#39;s request, Google investigated hosting servers inside its data centers to run a Gemini-based Siri while adhering to Apple&#39;s privacy standards &lpar;The Information&rpar;](http://www.techmeme.com/260302/p23#a260302p23)
- - [iPhone 17e arrives with A19 chip upgrade and MagSafe charging](https://appleinsider.com/articles/26/03/02/iphone-17e-arrives-with-a19-chip-upgrade-and-magsafe-charging?utm_source=rss)<!-- TECH:END -->
+ - [SCOTUS declines to hear a dispute over copyrights for AI-generated material, in a case where a computer scientist was denied a copyright for AI-generated art &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260302/p27#a260302p27)
+ - [The Anthropic-DOD skirmish is the first major public debate on control over frontier AI, and institutions behaved erratically, maliciously, and without clarity &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/260302/p26#a260302p26)
+ - [Your Wi-Fi router&#39;s guest network may not be as secure as you think](https://appleinsider.com/articles/26/03/02/your-wi-fi-routers-guest-network-may-not-be-as-secure-as-you-think?utm_source=rss)
+ - [Samsung Needs to Learn a Big Lesson From Xiaomi](https://www.cnet.com/tech/mobile/samsung-s26-ultra-xiaomi-leica-leitzphone/)
+ - [A look at the rights AI companies have in US government contracts, such as the &quot;any lawful use&quot; standard, amid the Anthropic-DOD dispute and the OpenAI-DOD deal &lpar;Jessica Tillipman&rpar;](http://www.techmeme.com/260302/p25#a260302p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

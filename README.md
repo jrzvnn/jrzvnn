@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Kickstarter CEO Everette Taylor on modernizing the platform, attracting new creators, managing a fully remote, four-day-per-week workplace, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/260302/p9#a260302p9)
+ - [When the Internet Goes Dark, the Truth Goes With It](https://www.wired.com/story/plestia-alaqad-gaza-citizen-journalist-social-media/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 2 #729](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-2-729/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 2, #525](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-2-525/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 2, #995](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-2-995/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 2, #1717](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-2-1717/)
- - [The Data Centers Have Arrived at the Edge of the Arctic Circle](https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 2, #995](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-2-995/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

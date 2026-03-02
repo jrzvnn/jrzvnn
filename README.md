@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US-led Iran bombing campaign causes longer delivery times for Amazon, Shein, and others in the Middle East, one of the fastest-growing e-commerce markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p13#a260302p13)
- - [Anthropic launches a tool to bring a user&#39;s preferences and context from other AI platforms to Claude via one copy-paste command, available on all paid plans &lpar;Claude&rpar;](http://www.techmeme.com/260302/p12#a260302p12)
- - [Best AirPods &lpar;2026&rpar;: Which Apple Headphones Should You Buy?](https://www.wired.com/gallery/best-airpods/)
- - [An unpublished draft of Changpeng Zhao&#39;s memoir, &quot;Freedom of Money&quot;, details secret negotiations in 2023 that led to his imprisonment and a run-in with ICE &lpar;New York Times&rpar;](http://www.techmeme.com/260302/p11#a260302p11)
- - [Oh great, here comes 6G](https://www.theverge.com/tech/886558/6g-satellite-ai-isac)<!-- TECH:END -->
+ - [Anthropic&#39;s concerns are legitimate, but its position is intolerable and misaligned with a reality where US foes are developing autonomous fighting capabilities &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260302/p18#a260302p18)
+ - [Pokémon Pokopia is an expansive adventure disguised as a cozy life sim](https://www.theverge.com/games/885431/pokemon-pokopia-review)
+ - [Qualcomm forms a &quot;coalition&quot; to launch 6G in 2029 and unveils the FastConnect 8800, an &quot;AI-native&quot; Wi-Fi 8-ready NIC that doubles peak speeds over Wi-Fi 7 &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/260302/p17#a260302p17)
+ - [Anthropic reports elevated errors on claude.ai, console, and Claude Code, starting at 11:49 UTC and impacting logins, and says the API &quot;is working as intended&quot; &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/260302/p16#a260302p16)
+ - [MWC 2026 Live Updates: All the Phones, Robots and Wild Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

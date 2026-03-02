@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: amid negotiations with the DOD, Anthropic submitted a bid to compete in a $100M DOD contest to develop voice-controlled, autonomous drone swarming tech &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260302/p41#a260302p41)
+ - [Filing: PayPay is seeking to raise up to $1.1B at a valuation of up to $13.4B in its US IPO, selling nearly 55M shares priced between $17 and $20 apiece &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/260302/p40#a260302p40)
  - [Source: Cursor&#39;s annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260302/p39#a260302p39)
  - [The US Treasury Department, State Department, and federal housing agency are ending use of Anthropic products; State Department says it will switch to OpenAI &lpar;Reuters&rpar;](http://www.techmeme.com/260302/p38#a260302p38)
- - [Anthropic upgrades Claude’s memory to attract AI switchers](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing)
- - [Apple Updated the Wrong iPad](https://www.cnet.com/tech/computing/apple-updated-the-wrong-ipad/)
- - [Sources: US considers limiting Chinese companies to 75K Nvidia H200 chips each, less than half of what some want to buy; AMD MI325 chips also count toward a cap &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p37#a260302p37)<!-- TECH:END -->
+ - [Anthropic upgrades Claude’s memory to attract AI switchers](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

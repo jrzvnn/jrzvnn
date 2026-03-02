@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple might use Google servers to store data for its upgraded AI Siri](https://www.theverge.com/tech/887802/apple-ai-siri-google-servers)
+ - [Mastodon now has a button for sharing content from other websites](https://www.theverge.com/tech/887791/mastodon-official-share-button-widget)
+ - [Iranian Ayatollah Khamenei’s Death Sparks Revolt Among Kalshi Customers](https://www.wired.com/story/iranian-ayatollah-khameneis-death-sparks-revolt-among-kalshi-customers/)
  - [Amazon slashes AirPods 4 with active noise cancellation to $119, save 34%](https://appleinsider.com/articles/26/03/02/amazon-slashes-airpods-4-with-active-noise-cancellation-to-119-save-34?utm_source=rss)
- - [Performance anxiety: iPad Air M4 chip is binned, has only three performance cores](https://appleinsider.com/articles/26/03/02/performance-anxiety-ipad-air-m4-chip-is-binned-has-only-three-performance-cores?utm_source=rss)
- - [This Modular Phone Transforms Into a Fully-Fledged Camera](https://www.cnet.com/tech/mobile/tecno-modular-concept-camera-phone/)
- - [Sources: SoftBank-owned Japanese payments app PayPay delays its IPO roadshow that was scheduled to launch Monday, as markets were rattled by the strikes in Iran &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260302/p33#a260302p33)
- - [I Danced With Honor&#39;s Robot Phone and It Complimented My &#39;Shiny&#39; Hair](https://www.cnet.com/tech/mobile/honor-robot-phone-hands-on-at-mwc-2026/)<!-- TECH:END -->
+ - [Performance anxiety: iPad Air M4 chip is binned, has only three performance cores](https://appleinsider.com/articles/26/03/02/performance-anxiety-ipad-air-m4-chip-is-binned-has-only-three-performance-cores?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

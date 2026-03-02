@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s concerns are legitimate, but its position is intolerable and misaligned with a reality where US foes are developing autonomous fighting capabilities &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260302/p18#a260302p18)
- - [Pokémon Pokopia is an expansive adventure disguised as a cozy life sim](https://www.theverge.com/games/885431/pokemon-pokopia-review)
- - [Qualcomm forms a &quot;coalition&quot; to launch 6G in 2029 and unveils the FastConnect 8800, an &quot;AI-native&quot; Wi-Fi 8-ready NIC that doubles peak speeds over Wi-Fi 7 &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/260302/p17#a260302p17)
- - [Anthropic reports elevated errors on claude.ai, console, and Claude Code, starting at 11:49 UTC and impacting logins, and says the API &quot;is working as intended&quot; &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/260302/p16#a260302p16)
- - [MWC 2026 Live Updates: All the Phones, Robots and Wild Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)<!-- TECH:END -->
+ - [Apple unveils the iPhone 17e, offering a 6.1-inch display, 3nm A19 chip, C1X modem, a 48MP Fusion camera, and more, starting at $599 and shipping March 11 &lpar;Apple&rpar;](http://www.techmeme.com/260302/p21#a260302p21)
+ - [Apple announces the iPhone 17E](https://www.theverge.com/tech/886476/apple-iphone-march-2026)
+ - [Pico’s Project Swan XR Headset Wants to Go Where the Apple Vision Pro Failed](https://www.wired.com/story/pico-os-6-project-swan-xr-headset/)
+ - [Apple launches a new iPad Air with an upgraded M4 processor](https://www.theverge.com/tech/886433/apple-ipad-air-2026-launch-price-specs-availability)
+ - [AWS plans to invest an additional €18B in Aragon, Spain, taking its total investment to €33.7B; its Aragon facilities have used 100% renewable energy since 2022 &lpar;Cristina Cueto/DatacenterDynamics&rpar;](http://www.techmeme.com/260302/p20#a260302p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

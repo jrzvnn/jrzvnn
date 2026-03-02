@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - 😝 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
  - 😝 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
  - 💣 [Average 9gag hater](http://9gag.com/gag/aVv59w8)
- - 😝 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
- - 👉 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
+ - 😝 [People who litter are the worst.](http://9gag.com/gag/aVv59qM)
+ - 👉 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
 
 ---
 

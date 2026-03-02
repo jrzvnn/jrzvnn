@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You should go hiking. Its such lovely weather](http://9gag.com/gag/aW45NRn)
- - 😝 [Ancient Roman engineering still going strong after 2000 years](http://9gag.com/gag/aD25P97)
- - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - 😝 [Have a nice day!](http://9gag.com/gag/aoywqMA)
- - 👉 [What is this? a house for ants ?](http://9gag.com/gag/aO85pW6)<!-- MEMES:END -->
+ - 😝 [A sober Generation?](http://9gag.com/gag/azxwD0K)
+ - 😝 [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)
+ - 💣 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 😝 [Le Title.](http://9gag.com/gag/aPA2dxB)
+ - 👉 [Me irl](http://9gag.com/gag/a4PyxLd)<!-- MEMES:END -->
 
 ---
 

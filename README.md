@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X announces a policy change suspending users from Creator Revenue Sharing for 90 days if they post AI-generated videos of an armed conflict without disclosure &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/260303/p32#a260303p32)
- - [Studio Display XDR doesn&#39;t work on Intel Macs at all, big limitations on early Apple Silicon](https://appleinsider.com/articles/26/03/03/studio-display-xdr-doesnt-work-on-intel-macs-at-all-big-limitations-on-early-apple-silicon?utm_source=rss)
- - [The New M5 MacBook Air Is Here: Should You Upgrade?](https://www.cnet.com/tech/computing/the-new-m5-macbook-air-is-here-should-you-upgrade/)
- - [Google adds new Android features, including custom calling cards, real-time location sharing in Google Messages, and luggage tracking with partner airlines &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260303/p31#a260303p31)
- - [A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)<!-- TECH:END -->
+ - [Anthropic says voice mode for Claude Code is now live for about 5% of users, with a broader rollout planned in the coming weeks &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260303/p34#a260303p34)
+ - [Highguard is shutting down this month](https://www.theverge.com/games/880206/highguard-shut-down)
+ - [Shark’s latest robot vacuum hunts stains with UV light](https://www.theverge.com/tech/888179/shark-powerdetect-uv-reveal-robot-vacuum-review)
+ - [Sources: Meta is creating a new applied AI engineering organization led by Maher Saba in its Reality Labs division to help bolster its superintelligence efforts &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p33#a260303p33)
+ - [X announces a policy change suspending users from Creator Revenue Sharing for 90 days if they post AI-generated videos of an armed conflict without disclosure &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/260303/p32#a260303p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

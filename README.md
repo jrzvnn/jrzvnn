@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now I want to learn about it](http://9gag.com/gag/a9y0436)
- - 😝 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
- - 💣 [Some funny stuff](http://9gag.com/gag/a6Z6eyN)
- - 😝 [Daughter doesn&#39;t really understand the meaning of the word. All she knows is that `if you don&#39;t worship the god-emperor ,you are a heretic`.](http://9gag.com/gag/aW45Ajd)
- - 👉 [All that practice for nada](http://9gag.com/gag/a87Ovw6)<!-- MEMES:END -->
+ - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 😝 [Female F-15E Strike Eagle pilot that ejected is filmed and thanked by Kuwaiti locals moments after she landed safely.](http://9gag.com/gag/a7oXmVr)
+ - 💣 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
+ - 😝 [Professor McGonagall inspecting the new wand shop.](http://9gag.com/gag/aXP1Q99)
+ - 👉 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
 
 ---
 

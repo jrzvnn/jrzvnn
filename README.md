@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professor McGonagall inspecting the new wand shop.](http://9gag.com/gag/aXP1Q99)
- - 😝 [At least they have fun](http://9gag.com/gag/aAy57YZ)
- - 💣 [Guys will understand](http://9gag.com/gag/abAwLD9)
- - 😝 [Now I want to learn about it](http://9gag.com/gag/a9y0436)
- - 👉 [After seeing there were some earthquakes inside Iran](http://9gag.com/gag/aND5X26)<!-- MEMES:END -->
+ - 😝 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
+ - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 💣 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
+ - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says voice mode for Claude Code is now live for about 5% of users, with a broader rollout planned in the coming weeks &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260303/p34#a260303p34)
- - [Highguard is shutting down this month](https://www.theverge.com/games/880206/highguard-shut-down)
- - [Shark’s latest robot vacuum hunts stains with UV light](https://www.theverge.com/tech/888179/shark-powerdetect-uv-reveal-robot-vacuum-review)
- - [Sources: Meta is creating a new applied AI engineering organization led by Maher Saba in its Reality Labs division to help bolster its superintelligence efforts &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p33#a260303p33)
- - [X announces a policy change suspending users from Creator Revenue Sharing for 90 days if they post AI-generated videos of an armed conflict without disclosure &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/260303/p32#a260303p32)<!-- TECH:END -->
+ - [Sources: Amazon Publisher Services, which helps websites run ad auctions, is exploring offering technology to help other apps and sites sell ads in AI chatbots &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/260303/p36#a260303p36)
+ - [All-hands: Sam Altman defended OpenAI&#39;s DOD deal, saying it was the right decision with &quot;extremely difficult brand consequences and very negative&quot; short-term PR &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p35#a260303p35)
+ - [Another Oracle outage is messing up US TikTok](https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026)
+ - [Apple outlines game dev strategy with three GDC sessions](https://appleinsider.com/articles/26/03/03/apple-outlines-game-dev-strategy-with-three-gdc-sessions?utm_source=rss)
+ - [Anthropic says voice mode for Claude Code is now live for about 5% of users, with a broader rollout planned in the coming weeks &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260303/p34#a260303p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Support Israel and AIPAC](http://9gag.com/gag/aD25qRG)
  - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - 😝 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
- - 💣 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
- - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
+ - 💣 [Damn I would fall for it](http://9gag.com/gag/avywB5O)
+ - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 👉 [A sober Generation?](http://9gag.com/gag/azxwD0K)<!-- MEMES:END -->
 
 ---
 

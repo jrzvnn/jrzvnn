@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - 😝 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
- - 💣 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 😝 [Daughter doesn&#39;t really understand the meaning of the word. All she knows is that `if you don&#39;t worship the god-emperor ,you are a heretic`.](http://9gag.com/gag/aW45Ajd)
- - 👉 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)<!-- MEMES:END -->
+ - 😝 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
+ - 💣 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
+ - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
 
 ---
 

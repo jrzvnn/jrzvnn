@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta has signed a multiyear AI content licensing deal with News Corp worth $50M per year; the deal will run for at least three years &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p38#a260303p38)
+ - [What Trump’s war on Iran means for the US energy crunch](https://www.theverge.com/science/888526/what-trumps-war-on-iran-means-for-the-us-energy-crunch)
+ - [MWC 2026 Live Updates: All the Phones, Robots and Wild Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)
  - [Here’s Why Trump Posted About Iran ‘Stealing’ the 2020 Election Hours After the US Attacked](https://www.wired.com/story/heres-why-trump-posted-about-iran-stealing-the-2020-election-hours-after-the-us-attacked/)
- - [Google adds a feature to let users with a Pixel 8 and newer connect their device to an external monitor via USB-C for a &quot;desktop-like multi-window experience&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260303/p37#a260303p37)
- - [The best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Sources: Amazon Publisher Services, which helps websites run ad auctions, is exploring offering technology to help other apps and sites sell ads in AI chatbots &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/260303/p36#a260303p36)
- - [All-hands: Sam Altman defended OpenAI&#39;s DOD deal, saying it was the right decision with &quot;extremely difficult brand consequences and very negative&quot; short-term PR &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p35#a260303p35)<!-- TECH:END -->
+ - [Google adds a feature to let users with a Pixel 8 and newer connect their device to an external monitor via USB-C for a &quot;desktop-like multi-window experience&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260303/p37#a260303p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

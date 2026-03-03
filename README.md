@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grow Therapy, which connects patients with therapists covered by their insurance, raised a $150M Series D at a $3B valuation and hits $1B+ in annual revenue &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260303/p8#a260303p8)
+ - [How to Monitor Your Blood Pressure at Home &lpar;2026&rpar;](https://www.wired.com/story/how-to-monitor-blood-pressure-at-home/)
+ - [&#39;Palm Royale&#39; cancelled after two seasons on Apple TV](https://appleinsider.com/articles/26/03/03/palm-royale-cancelled-after-two-seasons-on-apple-tv?utm_source=rss)
  - [Iranian cryptoasset outflows reached ~$10.3M between February 28 and March 2 amid US and Israeli strikes; in 2025, Iran&#39;s crypto ecosystem was worth $7.8B &lpar;Chainalysis&rpar;](http://www.techmeme.com/260303/p7#a260303p7)
- - [How Palantir, Microsoft, Amazon, and Google Power Trump’s Immigration Crackdown](https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/)
- - [Sources: in the EU, US criticism over censorship has been met with disbelief and anger, and some Big Tech lobbyists acknowledge US accusations are overstated &lpar;Financial Times&rpar;](http://www.techmeme.com/260303/p6#a260303p6)
- - [Google unveils Home updates to fix a long list of annoyances and idiosyncrasies, and debuts Live Search to let Gemini analyze and describe live camera feeds &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/260303/p5#a260303p5)
- - [The Ultimate Guide to Safely Disposing of Your Old Tech for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)<!-- TECH:END -->
+ - [How Palantir, Microsoft, Amazon, and Google Power Trump’s Immigration Crackdown](https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

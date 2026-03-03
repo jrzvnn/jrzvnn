@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
- - 😝 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
- - 💣 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
- - 😝 [Meanwhile in Germany](http://9gag.com/gag/aBy5bNQ)
- - 👉 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
+ - 😝 [The horror](http://9gag.com/gag/aO85nDD)
+ - 😝 [Legends of Aviation](http://9gag.com/gag/adBwW5d)
+ - 💣 [The ultimate desk toy for any Minecraft addict](http://9gag.com/gag/a87OQyY)
+ - 😝 [Female F-15E Strike Eagle pilot that ejected is filmed and thanked by Kuwaiti locals moments after she landed safely.](http://9gag.com/gag/a7oXmVr)
+ - 👉 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)<!-- MEMES:END -->
 
 ---
 

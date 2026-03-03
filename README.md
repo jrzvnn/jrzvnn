@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok USDS says users &quot;may temporarily experience lags in posting content&quot; due to an issue at Oracle&#39;s Ashburn data center, the second Oracle outage in a month &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260303/p42#a260303p42)
+ - [Best Business Laptop for 2026](https://www.cnet.com/tech/computing/best-laptop-for-business/)
  - [CrowdStrike reports Q4 revenue up 23% YoY to $1.31B, vs. $1.30B est., a profit of $38.7M, compared with a loss of $86.3M a year earlier &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p41#a260303p41)
  - [An internal DHS document shows CBP used location data sourced from the online ad industry to track phone locations; ICE has bought access to similar tools &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/260303/p40#a260303p40)
- - [Amazon tells users it is shutting down the Wondery podcast app and Wondery+ subscription service &quot;in the coming months&quot;; some shows will be available on Audible &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260303/p39#a260303p39)
- - [Sources: Meta has signed a multiyear AI content licensing deal with News Corp worth $50M per year; the deal will run for at least three years &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p38#a260303p38)
- - [What Trump’s war on Iran means for the US energy crunch](https://www.theverge.com/science/888526/what-trumps-war-on-iran-means-for-the-us-energy-crunch)<!-- TECH:END -->
+ - [Amazon tells users it is shutting down the Wondery podcast app and Wondery+ subscription service &quot;in the coming months&quot;; some shows will be available on Audible &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260303/p39#a260303p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

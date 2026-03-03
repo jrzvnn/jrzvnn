@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ultimate desk toy for any Minecraft addict](http://9gag.com/gag/a87OQyY)
- - 😝 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
- - 💣 [Some funny stuff](http://9gag.com/gag/a6Z6eyN)
- - 😝 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
- - 👉 [Now I want to learn about it](http://9gag.com/gag/a9y0436)<!-- MEMES:END -->
+ - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 😝 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
+ - 💣 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
+ - 😝 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
+ - 👉 [Ukrainian Student](http://9gag.com/gag/aND58pw)<!-- MEMES:END -->
 
 ---
 

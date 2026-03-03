@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sam Altman says the DOD affirmed that OpenAI&#39;s tools wouldn&#39;t be used by agencies like the NSA, and services to them would need a further contract modification &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260303/p1#a260303p1)
  - [L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear](https://www.wired.com/story/ll-bean-promo-code/)
  - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)
- - [A look at the US DOJ&#39;s December lawsuit alleging a smuggling ring illegally exported or tried to export at least $160M in advanced Nvidia AI chips to China &lpar;Eliot Chen/The Wire China&rpar;](http://www.techmeme.com/260302/p53#a260302p53)
+ - [A look at the US DOJ&#39;s December 2025 lawsuit that alleged a smuggling ring illegally exported or tried to export $160M+ in advanced Nvidia AI chips to China &lpar;Eliot Chen/The Wire China&rpar;](http://www.techmeme.com/260302/p53#a260302p53)
  - [Sam Altman says &quot;the democratic process must stay in control, and we must democratize AI&quot; and no private company should decide the fate of the world &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260302/p52#a260302p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

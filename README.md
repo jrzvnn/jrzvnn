@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grow Therapy, which connects patients with therapists covered by their insurance, raised a $150M Series D at a $3B valuation and hits $1B+ in annual revenue &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260303/p8#a260303p8)
- - [How to Monitor Your Blood Pressure at Home &lpar;2026&rpar;](https://www.wired.com/story/how-to-monitor-blood-pressure-at-home/)
- - [&#39;Palm Royale&#39; cancelled after two seasons on Apple TV](https://appleinsider.com/articles/26/03/03/palm-royale-cancelled-after-two-seasons-on-apple-tv?utm_source=rss)
- - [Iranian cryptoasset outflows reached ~$10.3M between February 28 and March 2 amid US and Israeli strikes; in 2025, Iran&#39;s crypto ecosystem was worth $7.8B &lpar;Chainalysis&rpar;](http://www.techmeme.com/260303/p7#a260303p7)
- - [How Palantir, Microsoft, Amazon, and Google Power Trump’s Immigration Crackdown](https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/)<!-- TECH:END -->
+ - [What privacy? As expected, Meta Ray-Bans are a privacy disaster](https://appleinsider.com/articles/26/03/03/what-privacy-as-expected-meta-ray-bans-are-a-privacy-disaster?utm_source=rss)
+ - [Shark UV Reveal Review &lpar;2026&rpar;: UV Light Mode](https://www.wired.com/review/shark-powerdetect-uv-reveal/)
+ - [A UK trial by the National Grid, Nvidia, and others finds AI data centers can operate without using peak power continuously, adjusting consumption when asked &lpar;Eamon Farhat/Bloomberg&rpar;](http://www.techmeme.com/260303/p11#a260303p11)
+ - [Elliott injects $1B into Pinterest to fund stock buybacks, buying convertible senior notes with an initial conversion price of $22.72 per share, a 30% premium &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p10#a260303p10)
+ - [US Defense Secretary Pete Hegseth&#39;s and Trump&#39;s actions against Anthropic have serious legal issues, and its designation exceeds what the statute authorizes &lpar;Lawfare&rpar;](http://www.techmeme.com/260303/p9#a260303p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The horror](http://9gag.com/gag/aO85nDD)
- - 😝 [Legends of Aviation](http://9gag.com/gag/adBwW5d)
- - 💣 [The ultimate desk toy for any Minecraft addict](http://9gag.com/gag/a87OQyY)
- - 😝 [Female F-15E Strike Eagle pilot that ejected is filmed and thanked by Kuwaiti locals moments after she landed safely.](http://9gag.com/gag/a7oXmVr)
- - 👉 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)<!-- MEMES:END -->
+ - 😝 [Support Israel and AIPAC](http://9gag.com/gag/aD25qRG)
+ - 😝 [Damn I would fall for it](http://9gag.com/gag/avywB5O)
+ - 💣 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
+ - 😝 [Watching this being built is pure ASMR](http://9gag.com/gag/aYQ5BN7)
+ - 👉 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)<!-- MEMES:END -->
 
 ---
 

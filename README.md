@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches M5 Pro and M5 Max chips](https://www.theverge.com/tech/888090/apple-m5-pro-max-processors)
- - [Apple unveils the M5 MacBook Air in 13&quot; and 15&quot; sizes, boosting its starting price by $100 to $1,099 and offering 512GB of base storage, shipping March 11 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260303/p15#a260303p15)
- - [Apple updates $1,599+ Studio Display and unveils a new $3,299+ 27&quot; 5K Studio Display XDR, with a 120Hz refresh rate and up to 2,000 nits of peak HDR brightness &lpar;Apple&rpar;](http://www.techmeme.com/260303/p14#a260303p14)
- - [MacBook Pro with M5 Pro and M5 Max arrive, with few surprises](https://appleinsider.com/articles/26/03/03/macbook-pro-with-m5-pro-and-m5-max-arrive-with-few-surprises?utm_source=rss)
- - [Apple announces M5 MacBook Air and updated MacBook Pro](https://www.theverge.com/tech/888091/apple-march-2026-event-macbook-air-pro-announcement)<!-- TECH:END -->
+ - [How M5 Pro and M5 Max push MacBook Pro into high-bandwidth AI era](https://appleinsider.com/articles/26/03/03/how-m5-pro-and-m5-max-push-macbook-pro-into-high-bandwidth-ai-era?utm_source=rss)
+ - [We played Pokémon Pokopia, ask us anything](https://www.theverge.com/games/887838/pokemon-pokopia-ask-us-anything)
+ - [Scott Pilgrim creator Bryan Lee O’Malley on taking ‘another run’ with new game](https://www.theverge.com/games/887845/scott-pilgrim-ex-game-bryan-lee-omalley-interview)
+ - [New M5 MacBook Air gets double the storage, Wi-Fi 7, and a higher price](https://appleinsider.com/articles/26/03/03/new-m5-macbook-air-gets-double-the-storage-wi-fi-7-and-a-higher-price?utm_source=rss)
+ - [MacBook Pro with M5 Pro and M5 Max arrive, with few surprises](https://appleinsider.com/articles/26/03/03/macbook-pro-with-m5-pro-and-m5-max-arrive-with-few-surprises?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Pajamas for Women &lpar;2026&rpar;, WIRED Tested and Reviewed](https://www.wired.com/story/the-best-pajamas-brands-for-women/)
- - [Investigation: Sama data annotators in Nairobi say they often view private footage from Meta&#39;s Ray-Ban glasses, like bathroom visits; some footage is blurred &lpar;SvD&rpar;](http://www.techmeme.com/260303/p3#a260303p3)
- - [Senator Ron Wyden, the top Democrat on the Senate Finance Committee, vows to &quot;pull out all the stops&quot; to fight back after the US moved to bar Anthropic &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/260303/p2#a260303p2)
- - [Why Missile Alerts and War Updates Trigger Doomscrolling](https://www.wired.com/story/why-missile-alerts-and-war-updates-trigger-doomscrolling/)
- - [Big Google Home update lets Gemini describe live camera feeds](https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe-live-camera-feeds)<!-- TECH:END -->
+ - [Sources: in the EU, US criticism over censorship has been met with disbelief and anger, and some Big Tech lobbyists acknowledge US accusations are overstated &lpar;Financial Times&rpar;](http://www.techmeme.com/260303/p6#a260303p6)
+ - [Google unveils Home updates to fix a long list of annoyances and idiosyncrasies, and debuts Live Search to let Gemini analyze and describe live camera feeds &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/260303/p5#a260303p5)
+ - [The Untold Story of the Birth of the iPhone](https://www.wired.com/story/the-untold-story-of-the-birth-of-the-iphone-david-pogue-book-excerpt/)
+ - [Sources: Samsung Foundry has frequently delayed the timeline for its plant in Taylor, Texas, with its mass production plans moving from early 2026 to early 2027 &lpar;Lee Jae-Lim/Korea Joongang Daily&rpar;](http://www.techmeme.com/260303/p4#a260303p4)
+ - [Best Pajamas for Women &lpar;2026&rpar;, WIRED Tested and Reviewed](https://www.wired.com/story/the-best-pajamas-brands-for-women/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

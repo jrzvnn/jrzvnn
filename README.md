@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least they have fun](http://9gag.com/gag/aAy57YZ)
- - 😝 [Professor McGonagall inspecting the new wand shop.](http://9gag.com/gag/aXP1Q99)
- - 💣 [Guys will understand](http://9gag.com/gag/abAwLD9)
- - 😝 [Now I want to learn about it](http://9gag.com/gag/a9y0436)
- - 👉 [So satisfying](http://9gag.com/gag/aBy5MKN)<!-- MEMES:END -->
+ - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
+ - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 😝 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
+ - 👉 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
 
 ---
 

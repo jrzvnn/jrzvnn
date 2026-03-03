@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Junyang Lin, a tech lead on Alibaba&#39;s Qwen team, abruptly steps down; two other members of the Qwen team also leave &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260303/p48#a260303p48)
  - [Intel says board chair Frank Yeary, who has served on the board since 2009, will retire after Intel&#39;s annual meeting in May and be replaced by Craig Barratt &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/260303/p47#a260303p47)
  - [Sources: Anthropic recently surpassed $19B in run-rate revenue, up from $9B at the end of 2025 and roughly $14B a few weeks ago &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260303/p46#a260303p46)
  - [Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time](https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale)
- - [Does Ticketmaster have a stranglehold on concert ticketing — or is it just ‘bringing joy’?](https://www.theverge.com/policy/888778/live-nation-ticketmaster-doj-opening-statements)
- - [President Trump says the GENIUS Act is being &quot;threatened and undermined&quot; by banks, following their opposition to stablecoin yield payouts &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/260303/p45#a260303p45)<!-- TECH:END -->
+ - [Does Ticketmaster have a stranglehold on concert ticketing — or is it just ‘bringing joy’?](https://www.theverge.com/policy/888778/live-nation-ticketmaster-doj-opening-statements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

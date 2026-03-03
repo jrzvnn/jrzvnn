@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn I would fall for it](http://9gag.com/gag/avywB5O)
- - 😝 [Who are the the poorest minority?](http://9gag.com/gag/aE05NNN)
- - 💣 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
+ - 😝 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
+ - 😝 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
+ - 💣 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
  - 😝 [Watching this being built is pure ASMR](http://9gag.com/gag/aYQ5BN7)
- - 👉 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
+ - 👉 [Ukrainian Student](http://9gag.com/gag/aND58pw)<!-- MEMES:END -->
 
 ---
 

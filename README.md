@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
+ - 😝 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
  - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - 💣 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
+ - 💣 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
  - 😝 [After seeing there were some earthquakes inside Iran](http://9gag.com/gag/aND5X26)
- - 👉 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
+ - 👉 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)<!-- MEMES:END -->
 
 ---
 

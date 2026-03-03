@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Female F-15E Strike Eagle pilot that ejected is filmed and thanked by Kuwaiti locals moments after she landed safely.](http://9gag.com/gag/a7oXmVr)
  - 😝 [The ultimate desk toy for any Minecraft addict](http://9gag.com/gag/a87OQyY)
- - 😝 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
- - 💣 [Some funny stuff](http://9gag.com/gag/a6Z6eyN)
- - 😝 [All that practice for nada](http://9gag.com/gag/a87Ovw6)
- - 👉 [Guys will understand](http://9gag.com/gag/abAwLD9)<!-- MEMES:END -->
+ - 💣 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - 😝 [Some funny stuff](http://9gag.com/gag/a6Z6eyN)
+ - 👉 [All that practice for nada](http://9gag.com/gag/a87Ovw6)<!-- MEMES:END -->
 
 ---
 

@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at the US DOJ&#39;s December lawsuit alleging a smuggling ring illegally exported or tried to export at least $160M in advanced Nvidia AI chips to China &lpar;Eliot Chen/The Wire China&rpar;](http://www.techmeme.com/260302/p53#a260302p53)
  - [Sam Altman says &quot;the democratic process must stay in control, and we must democratize AI&quot; and no private company should decide the fate of the world &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260302/p52#a260302p52)
- - [Sam Altman says OpenAI is amending its DOD contract to ensure AI isn&#39;t used for domestic surveillance of US persons, the NSA is excluded from the deal for now &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260302/p51#a260302p51)
+ - [Sam Altman says OpenAI is amending its DOD contract to ensure &quot;the AI system&quot; is not &quot;intentionally used for domestic surveillance of US persons and nationals&quot; &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260302/p51#a260302p51)
  - [Sam Altman says rushing the DOD deal was wrong as &quot;the issues are super complex, and demand clear communication&quot; but we were &quot;trying to de-escalate things&quot; &lpar;Katherine Li/Business Insider&rpar;](http://www.techmeme.com/260302/p50#a260302p50)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-3/)<!-- TECH:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s Why Trump Posted About Iran ‘Stealing’ the 2020 Election Hours After the US Attacked](https://www.wired.com/story/heres-why-trump-posted-about-iran-stealing-the-2020-election-hours-after-the-us-attacked/)
+ - [Google adds a feature to let users with a Pixel 8 and newer connect their device to an external monitor via USB-C for a &quot;desktop-like multi-window experience&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260303/p37#a260303p37)
+ - [The best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Sources: Amazon Publisher Services, which helps websites run ad auctions, is exploring offering technology to help other apps and sites sell ads in AI chatbots &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/260303/p36#a260303p36)
- - [All-hands: Sam Altman defended OpenAI&#39;s DOD deal, saying it was the right decision with &quot;extremely difficult brand consequences and very negative&quot; short-term PR &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p35#a260303p35)
- - [Another Oracle outage is messing up US TikTok](https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026)
- - [Apple outlines game dev strategy with three GDC sessions](https://appleinsider.com/articles/26/03/03/apple-outlines-game-dev-strategy-with-three-gdc-sessions?utm_source=rss)
- - [Anthropic says voice mode for Claude Code is now live for about 5% of users, with a broader rollout planned in the coming weeks &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260303/p34#a260303p34)<!-- TECH:END -->
+ - [All-hands: Sam Altman defended OpenAI&#39;s DOD deal, saying it was the right decision with &quot;extremely difficult brand consequences and very negative&quot; short-term PR &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p35#a260303p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

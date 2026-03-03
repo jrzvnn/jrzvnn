@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How M5 Pro and M5 Max push MacBook Pro into high-bandwidth AI era](https://appleinsider.com/articles/26/03/03/how-m5-pro-and-m5-max-push-macbook-pro-into-high-bandwidth-ai-era?utm_source=rss)
- - [We played Pokémon Pokopia, ask us anything](https://www.theverge.com/games/887838/pokemon-pokopia-ask-us-anything)
- - [Scott Pilgrim creator Bryan Lee O’Malley on taking ‘another run’ with new game](https://www.theverge.com/games/887845/scott-pilgrim-ex-game-bryan-lee-omalley-interview)
- - [New M5 MacBook Air gets double the storage, Wi-Fi 7, and a higher price](https://appleinsider.com/articles/26/03/03/new-m5-macbook-air-gets-double-the-storage-wi-fi-7-and-a-higher-price?utm_source=rss)
- - [MacBook Pro with M5 Pro and M5 Max arrive, with few surprises](https://appleinsider.com/articles/26/03/03/macbook-pro-with-m5-pro-and-m5-max-arrive-with-few-surprises?utm_source=rss)<!-- TECH:END -->
+ - [Farewell Pro Display XDR -- we barely afforded you](https://appleinsider.com/articles/26/03/03/farewell-pro-display-xdr----we-barely-afforded-you?utm_source=rss)
+ - [Unihertz’s new QWERTY phone is even more like a Blackberry](https://www.theverge.com/tech/888101/unihertz-titan-2-elite-qwerty-keyboard)
+ - [Audible launches a cheaper, $8.99/month streaming tier in the US, vs. $14.95 for its premium plans, to compete with Spotify; the plan includes ad-free podcasts &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260303/p19#a260303p19)
+ - [Apple itself has leaked a &#39;MacBook Neo&#39;](https://appleinsider.com/articles/26/03/03/apple-itself-has-leaked-a-macbook-neo?utm_source=rss)
+ - [The best mobile tech announced at MWC 2026 so far](https://www.theverge.com/tech/882992/mobile-world-congress-mwc-2026-smartphones-laptops-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

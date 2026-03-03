@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
  - 😝 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
- - 👉 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
+ - 😝 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - 💣 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
+ - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
 
 ---
 

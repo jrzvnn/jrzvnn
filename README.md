@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic brings Claude&#39;s memory feature to free users, after launching it for paid users in 2025 &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/260302/p44#a260302p44)
- - [The ‘European’ Jolla Phone Is an Anti-Big-Tech Smartphone](https://www.wired.com/story/jolla-phone-2026/)
- - [This AI Agent Is Ready to Serve, Mid-Phone Call](https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/)
- - [AI apps without age checks may soon be removed from the App Store in Australia](https://appleinsider.com/articles/26/03/03/ai-apps-without-age-checks-may-soon-be-removed-from-the-app-store-in-australia?utm_source=rss)
- - [Sources: X and xAI are set to repay ~$17.5B of debt in full; X took on ~$12.5B of debt during Musk&#39;s purchase, and xAI borrowed $5B via bonds and loans in June &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p43#a260302p43)<!-- TECH:END -->
+ - [Ayar Labs, which is replacing the copper wiring in semiconductors with fiber optics, raised a $500M Series E led by Neuberger Berman at a $3.8B valuation &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/260302/p49#a260302p49)
+ - [Meta is testing a shopping research feature in its Meta AI web browser for select US users, positioning it against e-commerce tools in ChatGPT and Gemini &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260302/p48#a260302p48)
+ - [AWS says its facilities in the Middle East are facing power and connectivity issues after drone strikes impacted its infrastructure in the UAE and Bahrain &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260302/p47#a260302p47)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 3, #526](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-3-526/)
+ - [Bengaluru-based Pronto, which offers on-demand home-help services like cooking and cleaning, raised a $25M Series B led by Epiq Capital at a $100M valuation &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/260302/p46#a260302p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

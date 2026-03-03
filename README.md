@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Farewell Pro Display XDR -- we barely afforded you](https://appleinsider.com/articles/26/03/03/farewell-pro-display-xdr----we-barely-afforded-you?utm_source=rss)
- - [Unihertz’s new QWERTY phone is even more like a Blackberry](https://www.theverge.com/tech/888101/unihertz-titan-2-elite-qwerty-keyboard)
- - [Audible launches a cheaper, $8.99/month streaming tier in the US, vs. $14.95 for its premium plans, to compete with Spotify; the plan includes ad-free podcasts &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260303/p19#a260303p19)
- - [Apple itself has leaked a &#39;MacBook Neo&#39;](https://appleinsider.com/articles/26/03/03/apple-itself-has-leaked-a-macbook-neo?utm_source=rss)
- - [The best mobile tech announced at MWC 2026 so far](https://www.theverge.com/tech/882992/mobile-world-congress-mwc-2026-smartphones-laptops-headphones)<!-- TECH:END -->
+ - [You can soon live out your James Bond fantasies with retractable stud winter tires](https://www.theverge.com/tech/888225/nokian-hakkapeliitta-01-winter-tires-snow-ice-stud-retract-extend)
+ - [Google launches Gemini 3.1 Flash-Lite, which it says delivers &quot;enhanced performance&quot; at a fraction of the cost of larger models and outperforms 2.5 Flash &lpar;The Keyword&rpar;](http://www.techmeme.com/260303/p21#a260303p21)
+ - [M5 MacBook Pro maxxed out will cost you $7349, but could have been a lot worse](https://appleinsider.com/articles/26/03/03/m5-macbook-pro-maxxed-out-will-cost-you-7349-but-could-have-been-a-lot-worse?utm_source=rss)
+ - [X is testing a standalone X Chat iOS app with 1,000 users via Apple&#39;s TestFlight, a shift away from Elon Musk&#39;s plan to make X an &quot;everything app&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260303/p20#a260303p20)
+ - [As a YouTube Creator, I&#39;m Buzzed About Honor&#39;s Robot Camera Phone](https://www.cnet.com/tech/mobile/honor-robot-phone-youtube-creator-excited/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

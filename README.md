@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Support Israel and AIPAC](http://9gag.com/gag/aD25qRG)
  - 😝 [Damn I would fall for it](http://9gag.com/gag/avywB5O)
- - 💣 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
+ - 😝 [Who are the the poorest minority?](http://9gag.com/gag/aE05NNN)
+ - 💣 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
  - 😝 [Watching this being built is pure ASMR](http://9gag.com/gag/aYQ5BN7)
- - 👉 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)<!-- MEMES:END -->
+ - 👉 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
 
 ---
 

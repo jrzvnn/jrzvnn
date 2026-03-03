@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Google Home update lets Gemini describe live camera feeds](https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe-live-camera-feeds)
- - [How Journalists Are Reporting From Iran With No Internet](https://www.wired.com/story/how-journalists-are-reporting-from-iran-with-no-internet/)
- - [Sam Altman says the DOD affirmed that OpenAI&#39;s tools wouldn&#39;t be used by agencies like the NSA, and services to them would need a further contract modification &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260303/p1#a260303p1)
- - [L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear](https://www.wired.com/story/ll-bean-promo-code/)
- - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)<!-- TECH:END -->
+ - [Best Pajamas for Women &lpar;2026&rpar;, WIRED Tested and Reviewed](https://www.wired.com/story/the-best-pajamas-brands-for-women/)
+ - [Investigation: Sama data annotators in Nairobi say they often view private footage from Meta&#39;s Ray-Ban glasses, like bathroom visits; some footage is blurred &lpar;SvD&rpar;](http://www.techmeme.com/260303/p3#a260303p3)
+ - [Senator Ron Wyden, the top Democrat on the Senate Finance Committee, vows to &quot;pull out all the stops&quot; to fight back after the US moved to bar Anthropic &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/260303/p2#a260303p2)
+ - [Why Missile Alerts and War Updates Trigger Doomscrolling](https://www.wired.com/story/why-missile-alerts-and-war-updates-trigger-doomscrolling/)
+ - [Big Google Home update lets Gemini describe live camera feeds](https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe-live-camera-feeds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New MacBooks, the iPhone 17E, and more: everything we know about Apple’s March 2026 announcements](https://www.theverge.com/tech/888352/apple-march-2026-event-experience-announcements-iphone-macbook-ipad)
- - [M5 MacBook Pro drops 512GB, gets $100 hike and 1TB storage](https://appleinsider.com/articles/26/03/03/m5-macbook-pro-drops-512gb-gets-100-hike-and-1tb-storage?utm_source=rss)
- - [Intel unveils its Xeon 6+ Clearwater Forest CPUs, its first data center CPUs built on 18A, offering up to 288 Darkmont efficiency cores, set for a 2026 release &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260303/p25#a260303p25)
- - [Microsoft moves Build from Seattle back to San Francisco, scheduled for June 2-3, instead of May, and invites 2,500 developers, down from the usual ~3K to ~5K &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260303/p24#a260303p24)
- - [Only Cooking Rice in Your Rice Cooker? Here Are 12 Other Things You Can Make](https://www.cnet.com/news/12-things-you-can-make-in-a-rice-cooker-that-arent-rice/)<!-- TECH:END -->
+ - [Here’s how journalists spot deepfakes](https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway)
+ - [Vivo&#39;s X300 Ultra Aims to Catapult You Into Hollywood Stardom](https://www.cnet.com/tech/mobile/vivo-x300-ultra-review-mwc-2026/)
+ - [What you get from a maxed-out MacBook Pro, MacBook Air, or Mac mini](https://appleinsider.com/articles/26/03/03/what-you-get-from-a-maxed-out-macbook-pro-macbook-air-or-mac-mini?utm_source=rss)
+ - [OpenAI releases GPT-5.3 Instant, which it says delivers more accurate answers and better-contextualized results when searching the web, for all ChatGPT users &lpar;OpenAI&rpar;](http://www.techmeme.com/260303/p27#a260303p27)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

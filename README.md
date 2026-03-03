@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
- - 😝 [A sober Generation?](http://9gag.com/gag/azxwD0K)
- - 💣 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
- - 😝 [So satisfying](http://9gag.com/gag/aBy5MKN)
- - 👉 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)<!-- MEMES:END -->
+ - 😝 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
+ - 💣 [A sober Generation?](http://9gag.com/gag/azxwD0K)
+ - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
+ - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
 
 ---
 

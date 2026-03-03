@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
  - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 💣 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
+ - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 😝 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
 
 ---
 

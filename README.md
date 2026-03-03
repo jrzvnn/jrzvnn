@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how journalists spot deepfakes](https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway)
- - [Vivo&#39;s X300 Ultra Aims to Catapult You Into Hollywood Stardom](https://www.cnet.com/tech/mobile/vivo-x300-ultra-review-mwc-2026/)
- - [What you get from a maxed-out MacBook Pro, MacBook Air, or Mac mini](https://appleinsider.com/articles/26/03/03/what-you-get-from-a-maxed-out-macbook-pro-macbook-air-or-mac-mini?utm_source=rss)
- - [OpenAI releases GPT-5.3 Instant, which it says delivers more accurate answers and better-contextualized results when searching the web, for all ChatGPT users &lpar;OpenAI&rpar;](http://www.techmeme.com/260303/p27#a260303p27)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [X announces a policy change suspending users from Creator Revenue Sharing for 90 days if they post AI-generated videos of an armed conflict without disclosure &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/260303/p32#a260303p32)
+ - [Studio Display XDR doesn&#39;t work on Intel Macs at all, big limitations on early Apple Silicon](https://appleinsider.com/articles/26/03/03/studio-display-xdr-doesnt-work-on-intel-macs-at-all-big-limitations-on-early-apple-silicon?utm_source=rss)
+ - [The New M5 MacBook Air Is Here: Should You Upgrade?](https://www.cnet.com/tech/computing/the-new-m5-macbook-air-is-here-should-you-upgrade/)
+ - [Google adds new Android features, including custom calling cards, real-time location sharing in Google Messages, and luggage tracking with partner airlines &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260303/p31#a260303p31)
+ - [A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

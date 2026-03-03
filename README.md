@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can soon live out your James Bond fantasies with retractable stud winter tires](https://www.theverge.com/tech/888225/nokian-hakkapeliitta-01-winter-tires-snow-ice-stud-retract-extend)
- - [Google launches Gemini 3.1 Flash-Lite, which it says delivers &quot;enhanced performance&quot; at a fraction of the cost of larger models and outperforms 2.5 Flash &lpar;The Keyword&rpar;](http://www.techmeme.com/260303/p21#a260303p21)
- - [M5 MacBook Pro maxxed out will cost you $7349, but could have been a lot worse](https://appleinsider.com/articles/26/03/03/m5-macbook-pro-maxxed-out-will-cost-you-7349-but-could-have-been-a-lot-worse?utm_source=rss)
- - [X is testing a standalone X Chat iOS app with 1,000 users via Apple&#39;s TestFlight, a shift away from Elon Musk&#39;s plan to make X an &quot;everything app&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260303/p20#a260303p20)
- - [As a YouTube Creator, I&#39;m Buzzed About Honor&#39;s Robot Camera Phone](https://www.cnet.com/tech/mobile/honor-robot-phone-youtube-creator-excited/)<!-- TECH:END -->
+ - [New MacBooks, the iPhone 17E, and more: everything we know about Apple’s March 2026 announcements](https://www.theverge.com/tech/888352/apple-march-2026-event-experience-announcements-iphone-macbook-ipad)
+ - [M5 MacBook Pro drops 512GB, gets $100 hike and 1TB storage](https://appleinsider.com/articles/26/03/03/m5-macbook-pro-drops-512gb-gets-100-hike-and-1tb-storage?utm_source=rss)
+ - [Intel unveils its Xeon 6+ Clearwater Forest CPUs, its first data center CPUs built on 18A, offering up to 288 Darkmont efficiency cores, set for a 2026 release &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260303/p25#a260303p25)
+ - [Microsoft moves Build from Seattle back to San Francisco, scheduled for June 2-3, instead of May, and invites 2,500 developers, down from the usual ~3K to ~5K &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260303/p24#a260303p24)
+ - [Only Cooking Rice in Your Rice Cooker? Here Are 12 Other Things You Can Make](https://www.cnet.com/news/12-things-you-can-make-in-a-rice-cooker-that-arent-rice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

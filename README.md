@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
- - 😝 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
  - 💣 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
+ - 😝 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
+ - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
 
 ---
 

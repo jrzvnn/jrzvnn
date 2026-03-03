@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ayar Labs, which is replacing the copper wiring in semiconductors with fiber optics, raised a $500M Series E led by Neuberger Berman at a $3.8B valuation &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/260302/p49#a260302p49)
- - [Meta is testing a shopping research feature in its Meta AI web browser for select US users, positioning it against e-commerce tools in ChatGPT and Gemini &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260302/p48#a260302p48)
- - [AWS says its facilities in the Middle East are facing power and connectivity issues after drone strikes impacted its infrastructure in the UAE and Bahrain &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260302/p47#a260302p47)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 3, #526](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-3-526/)
- - [Bengaluru-based Pronto, which offers on-demand home-help services like cooking and cleaning, raised a $25M Series B led by Epiq Capital at a $100M valuation &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/260302/p46#a260302p46)<!-- TECH:END -->
+ - [A look at the US DOJ&#39;s December lawsuit alleging a smuggling ring illegally exported or tried to export at least $160M in advanced Nvidia AI chips to China &lpar;Eliot Chen/The Wire China&rpar;](http://www.techmeme.com/260302/p53#a260302p53)
+ - [Sam Altman says &quot;the democratic process must stay in control, and we must democratize AI&quot; and no private company should decide the fate of the world &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260302/p52#a260302p52)
+ - [Sam Altman says OpenAI is amending its DOD contract to ensure AI isn&#39;t used for domestic surveillance of US persons, the NSA is excluded from the deal for now &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260302/p51#a260302p51)
+ - [Sam Altman says rushing the DOD deal was wrong as &quot;the issues are super complex, and demand clear communication&quot; but we were &quot;trying to de-escalate things&quot; &lpar;Katherine Li/Business Insider&rpar;](http://www.techmeme.com/260302/p50#a260302p50)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

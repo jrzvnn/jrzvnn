@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
- - 😝 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
- - 💣 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - 😝 [Watching this being built is pure ASMR](http://9gag.com/gag/aYQ5BN7)
- - 👉 [Ukrainian Student](http://9gag.com/gag/aND58pw)<!-- MEMES:END -->
+ - 😝 [The ultimate desk toy for any Minecraft addict](http://9gag.com/gag/a87OQyY)
+ - 😝 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - 💣 [Some funny stuff](http://9gag.com/gag/a6Z6eyN)
+ - 😝 [All that practice for nada](http://9gag.com/gag/a87Ovw6)
+ - 👉 [Guys will understand](http://9gag.com/gag/abAwLD9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Iranian cryptoasset outflows reached ~$10.3M between February 28 and March 2 amid US and Israeli strikes; in 2025, Iran&#39;s crypto ecosystem was worth $7.8B &lpar;Chainalysis&rpar;](http://www.techmeme.com/260303/p7#a260303p7)
+ - [How Palantir, Microsoft, Amazon, and Google Power Trump’s Immigration Crackdown](https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/)
  - [Sources: in the EU, US criticism over censorship has been met with disbelief and anger, and some Big Tech lobbyists acknowledge US accusations are overstated &lpar;Financial Times&rpar;](http://www.techmeme.com/260303/p6#a260303p6)
  - [Google unveils Home updates to fix a long list of annoyances and idiosyncrasies, and debuts Live Search to let Gemini analyze and describe live camera feeds &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/260303/p5#a260303p5)
- - [The Untold Story of the Birth of the iPhone](https://www.wired.com/story/the-untold-story-of-the-birth-of-the-iphone-david-pogue-book-excerpt/)
- - [Sources: Samsung Foundry has frequently delayed the timeline for its plant in Taylor, Texas, with its mass production plans moving from early 2026 to early 2027 &lpar;Lee Jae-Lim/Korea Joongang Daily&rpar;](http://www.techmeme.com/260303/p4#a260303p4)
- - [Best Pajamas for Women &lpar;2026&rpar;, WIRED Tested and Reviewed](https://www.wired.com/story/the-best-pajamas-brands-for-women/)<!-- TECH:END -->
+ - [The Ultimate Guide to Safely Disposing of Your Old Tech for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

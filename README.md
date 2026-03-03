@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 😝 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
- - 💣 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
+ - 😝 [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - 💣 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
+ - 😝 [The Theodore Roosevelt of cats](http://9gag.com/gag/ae9wz0O)
+ - 👉 [A sober Generation?](http://9gag.com/gag/azxwD0K)<!-- MEMES:END -->
 
 ---
 

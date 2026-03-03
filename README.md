@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What privacy? As expected, Meta Ray-Bans are a privacy disaster](https://appleinsider.com/articles/26/03/03/what-privacy-as-expected-meta-ray-bans-are-a-privacy-disaster?utm_source=rss)
- - [Shark UV Reveal Review &lpar;2026&rpar;: UV Light Mode](https://www.wired.com/review/shark-powerdetect-uv-reveal/)
- - [A UK trial by the National Grid, Nvidia, and others finds AI data centers can operate without using peak power continuously, adjusting consumption when asked &lpar;Eamon Farhat/Bloomberg&rpar;](http://www.techmeme.com/260303/p11#a260303p11)
- - [Elliott injects $1B into Pinterest to fund stock buybacks, buying convertible senior notes with an initial conversion price of $22.72 per share, a 30% premium &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p10#a260303p10)
- - [US Defense Secretary Pete Hegseth&#39;s and Trump&#39;s actions against Anthropic have serious legal issues, and its designation exceeds what the statute authorizes &lpar;Lawfare&rpar;](http://www.techmeme.com/260303/p9#a260303p9)<!-- TECH:END -->
+ - [Apple launches M5 Pro and M5 Max chips](https://www.theverge.com/tech/888090/apple-m5-pro-max-processors)
+ - [Apple unveils the M5 MacBook Air in 13&quot; and 15&quot; sizes, boosting its starting price by $100 to $1,099 and offering 512GB of base storage, shipping March 11 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260303/p15#a260303p15)
+ - [Apple updates $1,599+ Studio Display and unveils a new $3,299+ 27&quot; 5K Studio Display XDR, with a 120Hz refresh rate and up to 2,000 nits of peak HDR brightness &lpar;Apple&rpar;](http://www.techmeme.com/260303/p14#a260303p14)
+ - [MacBook Pro with M5 Pro and M5 Max arrive, with few surprises](https://appleinsider.com/articles/26/03/03/macbook-pro-with-m5-pro-and-m5-max-arrive-with-few-surprises?utm_source=rss)
+ - [Apple announces M5 MacBook Air and updated MacBook Pro](https://www.theverge.com/tech/888091/apple-march-2026-event-macbook-air-pro-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

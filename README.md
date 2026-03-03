@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 😝 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 💣 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
- - 😝 [The Theodore Roosevelt of cats](http://9gag.com/gag/ae9wz0O)
+ - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
+ - 💣 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
+ - 😝 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
  - 👉 [A sober Generation?](http://9gag.com/gag/azxwD0K)<!-- MEMES:END -->
 
 ---

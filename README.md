@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - 😝 [Female F-15E Strike Eagle pilot that ejected is filmed and thanked by Kuwaiti locals moments after she landed safely.](http://9gag.com/gag/a7oXmVr)
- - 💣 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
+ - 😝 [Brrrr](http://9gag.com/gag/an7w8eL)
+ - 😝 [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - 💣 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
  - 😝 [Professor McGonagall inspecting the new wand shop.](http://9gag.com/gag/aXP1Q99)
  - 👉 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
 

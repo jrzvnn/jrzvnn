@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
  - 😝 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
- - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - 💣 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 😝 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
- - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
+ - 💣 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
+ - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
 
 ---
 

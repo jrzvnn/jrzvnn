@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Console exclusives might be making a comeback](https://www.theverge.com/entertainment/889336/console-exclusives-comeback)
- - [USB Hubs Can Save You Lots of Hassles—Here Are 5 We Like Best in 2026](https://www.wired.com/gallery/best-usb-hubs/)
- - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)
- - [Google Pixel 10a review: long battery life and a good camera with no bump, but weak gaming performance and barely an upgrade from the Pixel 9a &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/260304/p36#a260304p36)
- - [Apple updates iOS, macOS Tahoe to 26.3.1 to support new Studio Displays](https://appleinsider.com/articles/26/03/04/apple-updates-ios-macos-tahoe-to-2631-to-support-new-studio-displays?utm_source=rss)<!-- TECH:END -->
+ - [MacBook Neo vs M5 MacBook Air: Budget notebooks compared](https://appleinsider.com/inside/macbook-air/vs/macbook-neo-vs-m5-macbook-air-budget-notebooks-compared?utm_source=rss)
+ - [NotebookLM can now summarize research in ‘cinematic’ video overviews](https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews)
+ - [The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price](https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale)
+ - [The world’s biggest automaker has one of the dirtiest supply chains: report](https://www.theverge.com/transportation/889145/lead-the-charge-supply-chain-leaderboard-toyota-tesla)
+ - [Console exclusives might be making a comeback](https://www.theverge.com/entertainment/889336/console-exclusives-comeback)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

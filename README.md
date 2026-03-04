@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pasqal, a French startup that builds quantum processors using neutral atom technology, plans to go public via a SPAC merger at a $2B pre-money valuation &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/260304/p42#a260304p42)
- - [Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive](https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/)
- - [Google, Microsoft, Meta, Amazon, OpenAI, and others sign a pledge at the White House to bear the cost of new electricity generation to power their data centers &lpar;Reuters&rpar;](http://www.techmeme.com/260304/p41#a260304p41)
- - [Here’s how Google describes its fee-reducing Apps Experience and Games Level Up programs](https://www.theverge.com/tech/889538/google-apps-experience-games-level-up-program)
- - [Leaked Friday memo: Dario Amodei called OpenAI&#39;s DOD deal &quot;safety theater&quot;, said DOD dislikes Anthropic in part for not giving &quot;dictator-style praise to Trump&quot; &lpar;The Information&rpar;](http://www.techmeme.com/260304/p40#a260304p40)<!-- TECH:END -->
+ - [Sources: OpenAI has held early talks with The Trade Desk to sell ads, and it has projected ads could help double consumer ChatGPT revenue this year to $17B &lpar;The Information&rpar;](http://www.techmeme.com/260304/p45#a260304p45)
+ - [Sources: the WH&#39;s data center pledge relies on enforcement by local utilities and states through rate deals, without penalties for tech firms refusing to comply &lpar;Bloomberg&rpar;](http://www.techmeme.com/260304/p44#a260304p44)
+ - [AI content in Apple Music can now be labeled, if distributors so choose](https://appleinsider.com/articles/26/03/04/ai-content-in-apple-music-can-now-be-labeled-if-distributors-so-choose?utm_source=rss)
+ - [New Mexico child safety trial: Mark Zuckerberg downplayed Meta&#39;s own research on how the company&#39;s apps affect teens; Adam Mosseri made similar comments &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260304/p43#a260304p43)
+ - [These $500 Windows Laptops Show the MacBook Neo’s Competition](https://www.wired.com/story/asus-vivobook-14-deal-macbook-neo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

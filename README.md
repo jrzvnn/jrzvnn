@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI is preparing to launch GPT-5.4, which will feature an &quot;extreme&quot; reasoning mode and a context window of 1M tokens, up from 400K in GPT-5.2 &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260304/p26#a260304p26)
- - [MacBook Neo external display support is remarkably similar to iPhone &amp; M1](https://appleinsider.com/articles/26/03/04/macbook-neo-external-display-support-is-remarkably-similar-to-iphone-m1?utm_source=rss)
- - [How and why MacBook Neo will excel for most everyday tasks](https://appleinsider.com/articles/26/03/04/how-and-why-macbook-neo-will-excel-for-most-everyday-tasks?utm_source=rss)
- - [Apple&#39;s MacBook Neo has two USB-C ports with different specs: one is USB-C 3 with up to 10 Gb/s transfer speeds, and the other is USB-C 2, limited to 480 Mb/s &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/260304/p25#a260304p25)
- - [The Colorful MacBook Neo Is Apple’s Cheapest Laptop Ever](https://www.wired.com/story/new-budget-apple-macbook-2026/)<!-- TECH:END -->
+ - [The Media Trust report: online ads surpassed email as the primary malware channel in 2025, accounting for 60%+ of all observed malware and phishing campaigns &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/260304/p28#a260304p28)
+ - [Google’s Pixel 10 is the best Android phone available, and it’s $200 off](https://www.theverge.com/gadgets/889060/google-pixel-10-anker-soundcore-boom-3i-speaker-deal-sale)
+ - [Here’s where you can preorder Apple’s budget-friendly MacBook Neo](https://www.theverge.com/gadgets/888285/macbook-neo-preorder-how-to-buy-price-release-date)
+ - [BenQ’s new Mac monitor could be a cheaper alternative to Apple’s new Studio Display](https://www.theverge.com/tech/889082/benq-27-inch-5k-mac-monitor-ma270s-display)
+ - [A US lawsuit says Gemini sent a man to find an android body it could inhabit, before he died by suicide; Google says it sent him to crisis hotlines &quot;many times&quot; &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/260304/p27#a260304p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

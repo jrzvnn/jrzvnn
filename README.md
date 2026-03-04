@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s Science.](http://9gag.com/gag/a4PygNm)
- - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - 💣 [Stop making stupid people famous](http://9gag.com/gag/agmwbPr)
- - 😝 [STFU David go eat shit my phone take pictures just as good](http://9gag.com/gag/aZZ5Xo6)
- - 👉 [So satisfying](http://9gag.com/gag/aBy5MKN)<!-- MEMES:END -->
+ - 😝 [Saved by the pan](http://9gag.com/gag/aW45eLZ)
+ - 😝 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - 💣 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 😝 [Flasback](http://9gag.com/gag/a2vpg7Z)
+ - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
 
 ---
 

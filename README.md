@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KeyCare, a virtual care platform built on the Epic EHR, raised $27.4M led by HealthX Ventures, bringing its total funding to over $55M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/260303/p53#a260303p53)
- - [CPU benchmarks for M4 iPad Air show comparable scores to M4 iPad Pro](https://appleinsider.com/articles/26/03/04/cpu-benchmarks-for-m4-ipad-air-show-comparable-scores-to-m4-ipad-pro?utm_source=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 4, #997](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-4-997/)
- - [Google details Coruna, an exploit kit used to hijack iPhones via malicious websites; iVerify suggests it may have been originally built for the US government &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260303/p52#a260303p52)
- - [Self-driving software startup Oxa raised a $103M Series D, with $50M coming from the UK government&#39;s National Wealth Fund; Nvidia&#39;s NVentures also invested &lpar;Tom Nugent/Sifted&rpar;](http://www.techmeme.com/260303/p51#a260303p51)<!-- TECH:END -->
+ - [Dario Amodei says Anthropic has a higher retention than OpenAI, emphasizing its &quot;mission&quot; as a way to reinforce staff loyalty and fend off competitors&#39; offers &lpar;The Information&rpar;](http://www.techmeme.com/260303/p56#a260303p56)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-4/)
+ - [TikTok won&#39;t add E2EE to DMs because it would prevent police and safety teams from reading messages if needed, saying it wants to protect young users from harm &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/260303/p55#a260303p55)
+ - [iPhone Coruna virus: possible US government hacking toolset spreading via black market](https://appleinsider.com/articles/26/03/04/iphone-coruna-virus-possible-us-government-hacking-toolset-spreading-via-black-market?utm_source=rss)
+ - [OpenAI&#39;s red lines within its DOD agreement are built upon legal language that the NSA has redefined over decades to permit the things they appear to prohibit &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/260303/p54#a260303p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

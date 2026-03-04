@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
  - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 😝 [Flasback](http://9gag.com/gag/a2vpg7Z)
- - 💣 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
- - 😝 [That&#39;s an art.](http://9gag.com/gag/a1mjg3v)
- - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
+ - 💣 [Flasback](http://9gag.com/gag/a2vpg7Z)
+ - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 😝 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
- - 💣 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
- - 😝 [That&#39;s an art.](http://9gag.com/gag/a1mjg3v)
- - 👉 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
+ - 😝 [After seeing there were some earthquakes inside Iran](http://9gag.com/gag/aND5X26)
+ - 😝 [Now I want to learn about it](http://9gag.com/gag/a9y0436)
+ - 💣 [Daughter doesn&#39;t really understand the meaning of the word. All she knows is that `if you don&#39;t worship the god-emperor ,you are a heretic`.](http://9gag.com/gag/aW45Ajd)
+ - 😝 [We should be actively fighting to protect this!](http://9gag.com/gag/an7wZE0)
+ - 👉 [Stop making stupid people famous](http://9gag.com/gag/agmwbPr)<!-- MEMES:END -->
 
 ---
 

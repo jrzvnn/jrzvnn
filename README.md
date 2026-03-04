@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X user TheGhostOfHope, one of top Call of Duty leakers, says Activision &quot;legally demanded that I stop leaking and disseminating confidential information&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260304/p12#a260304p12)
- - [Polymarket removes long-running markets letting users bet on the chances of a nuclear weapon detonating amid the Iran strikes; a 2025 market had $1.7M in volume &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260304/p11#a260304p11)
- - [How Is Kalshi Not Gambling?](https://www.wired.com/story/big-interview-tarek-mansour-kalshi/)
- - [Inside the secret meeting that led to the AI political resistance](https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli)
- - [Analysis: since the end of 2025, Polymarket users have rarely bet large sums on US strikes the next day; before the Iran strikes, 150+ accounts placed such bets &lpar;Amy Fan/New York Times&rpar;](http://www.techmeme.com/260304/p10#a260304p10)<!-- TECH:END -->
+ - [Boston-based Whoop, which makes screenless fitness bands, says it plans to grow staff by up to 75% in 2026, adding 600+ roles, ahead of a likely IPO &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260304/p14#a260304p14)
+ - [Unlike in the West, Chinese policymakers and the public appear to be much more optimistic about AI, likely due to a focus on real-world applications of AI &lpar;Vivian Wang/New York Times&rpar;](http://www.techmeme.com/260304/p13#a260304p13)
+ - [16 Best Air Purifiers &lpar;2026&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
+ - [Some People See Aliens While on DMT. Researchers Want to Find Out What They Can Teach Us](https://www.wired.com/story/some-people-see-aliens-while-on-dmt-researchers-want-to-find-out-what-they-can-teach-us/)
+ - [I’m not ashamed to admit the Kobo Remote is the best gadget I’ve bought this year](https://www.theverge.com/tech/885941/kobo-wireless-bluetooth-remote-page-turn-clara-libra-sage-elipsa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Media Trust report: online ads surpassed email as the primary malware channel in 2025, accounting for 60%+ of all observed malware and phishing campaigns &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/260304/p28#a260304p28)
- - [Google’s Pixel 10 is the best Android phone available, and it’s $200 off](https://www.theverge.com/gadgets/889060/google-pixel-10-anker-soundcore-boom-3i-speaker-deal-sale)
- - [Here’s where you can preorder Apple’s budget-friendly MacBook Neo](https://www.theverge.com/gadgets/888285/macbook-neo-preorder-how-to-buy-price-release-date)
- - [BenQ’s new Mac monitor could be a cheaper alternative to Apple’s new Studio Display](https://www.theverge.com/tech/889082/benq-27-inch-5k-mac-monitor-ma270s-display)
- - [A US lawsuit says Gemini sent a man to find an android body it could inhabit, before he died by suicide; Google says it sent him to crisis hotlines &quot;many times&quot; &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/260304/p27#a260304p27)<!-- TECH:END -->
+ - [Sources: Arda, co-founded by ex-OpenAI chief research officer Bob McGrew to automate manufacturing using AI, is raising $70M at a $700M valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260304/p30#a260304p30)
+ - [Budget speed: How fast will the low-cost MacBook Neo really be?](https://appleinsider.com/articles/26/03/04/budget-speed-how-fast-will-the-low-cost-macbook-neo-really-be?utm_source=rss)
+ - [The MacBook Neo is &lpar;probably&rpar; not for you, but that doesn&#39;t make it a failure](https://appleinsider.com/articles/26/03/04/the-macbook-neo-is-probably-not-for-you-but-that-doesnt-make-it-a-failure?utm_source=rss)
+ - [The Texas Senate Primary Was a Preview of Creator Wars to Come](https://www.wired.com/story/the-texas-senate-primary-was-a-preview-of-creator-wars-to-come/)
+ - [Sources: Neura Robotics, which is building cognitive, humanoid robots for logistics, is raising ~€1B in a funding round backed by Tether at a ~€4B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260304/p29#a260304p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

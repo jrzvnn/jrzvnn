@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a prize-winning cartoonist brings hand-drawn comics to the web](https://www.theverge.com/uncategorized/888672/how-a-prize-winning-cartoonist-brings-hand-drawn-comics-to-the-web)
  - [Boston-based Whoop, which makes screenless fitness bands, says it plans to grow staff by up to 75% in 2026, adding 600+ roles, ahead of a likely IPO &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260304/p14#a260304p14)
  - [Unlike in the West, Chinese policymakers and the public appear to be much more optimistic about AI, likely due to a focus on real-world applications of AI &lpar;Vivian Wang/New York Times&rpar;](http://www.techmeme.com/260304/p13#a260304p13)
  - [16 Best Air Purifiers &lpar;2026&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [Some People See Aliens While on DMT. Researchers Want to Find Out What They Can Teach Us](https://www.wired.com/story/some-people-see-aliens-while-on-dmt-researchers-want-to-find-out-what-they-can-teach-us/)
- - [I’m not ashamed to admit the Kobo Remote is the best gadget I’ve bought this year](https://www.theverge.com/tech/885941/kobo-wireless-bluetooth-remote-page-turn-clara-libra-sage-elipsa)<!-- TECH:END -->
+ - [Some People See Aliens While on DMT. Researchers Want to Find Out What They Can Teach Us](https://www.wired.com/story/some-people-see-aliens-while-on-dmt-researchers-want-to-find-out-what-they-can-teach-us/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Junyang Lin, a tech lead on Alibaba&#39;s Qwen team, abruptly steps down; two other members of the Qwen team also leave &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260303/p48#a260303p48)
- - [Intel says board chair Frank Yeary, who has served on the board since 2009, will retire after Intel&#39;s annual meeting in May and be replaced by Craig Barratt &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/260303/p47#a260303p47)
- - [Sources: Anthropic recently surpassed $19B in run-rate revenue, up from $9B at the end of 2025 and roughly $14B a few weeks ago &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260303/p46#a260303p46)
- - [Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time](https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale)
- - [Does Ticketmaster have a stranglehold on concert ticketing — or is it just ‘bringing joy’?](https://www.theverge.com/policy/888778/live-nation-ticketmaster-doj-opening-statements)<!-- TECH:END -->
+ - [KeyCare, a virtual care platform built on the Epic EHR, raised $27.4M led by HealthX Ventures, bringing its total funding to over $55M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/260303/p53#a260303p53)
+ - [CPU benchmarks for M4 iPad Air show comparable scores to M4 iPad Pro](https://appleinsider.com/articles/26/03/04/cpu-benchmarks-for-m4-ipad-air-show-comparable-scores-to-m4-ipad-pro?utm_source=rss)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 4, #997](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-4-997/)
+ - [Google details Coruna, an exploit kit used to hijack iPhones via malicious websites; iVerify suggests it may have been originally built for the US government &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260303/p52#a260303p52)
+ - [Self-driving software startup Oxa raised a $103M Series D, with $50M coming from the UK government&#39;s National Wealth Fund; Nvidia&#39;s NVentures also invested &lpar;Tom Nugent/Sifted&rpar;](http://www.techmeme.com/260303/p51#a260303p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

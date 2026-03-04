@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: a16z Crypto is targeting around $2B for its fifth fund and plans to close the raise by the end of the first half of 2026 &lpar;Fortune&rpar;](http://www.techmeme.com/260304/p39#a260304p39)
- - [Big Tech Signs White House Data Center Pledge With Good Optics and Little Substance](https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/)
- - [What AI Models for War Actually Look Like](https://www.wired.com/story/ai-model-military-use-smack-technologies/)
- - [Epic and Google have signed a special deal for a new class of &amp;#8216;metaverse&amp;#8217; apps](https://www.theverge.com/tech/889526/epic-games-google-deal-metaverse-apps)
- - [Broadcom reports Q1 revenue up 29% YoY to $19.31B, vs. $19.18B est., AI revenue up 106% to $8.4B, and announces a $10B share buyback program &lpar;CNBC&rpar;](http://www.techmeme.com/260304/p38#a260304p38)<!-- TECH:END -->
+ - [Google, Microsoft, Meta, Amazon, OpenAI, and others sign a pledge at the White House to bear the cost of new electricity generation to power their data centers &lpar;Reuters&rpar;](http://www.techmeme.com/260304/p41#a260304p41)
+ - [Here’s how Google describes its fee-reducing Apps Experience and Games Level Up programs](https://www.theverge.com/tech/889538/google-apps-experience-games-level-up-program)
+ - [Leaked Friday memo: Dario Amodei called OpenAI&#39;s DOD deal &quot;safety theater&quot;, said DOD dislikes Anthropic in part for not giving &quot;dictator-style praise to Trump&quot; &lpar;The Information&rpar;](http://www.techmeme.com/260304/p40#a260304p40)
+ - [Highguard to Go Offline After Rapid Player Drop](https://www.cnet.com/tech/gaming/highguard-offline-player-drop/)
+ - [Source: a16z Crypto is targeting around $2B for its fifth fund and plans to close the raise by the end of the first half of 2026 &lpar;Fortune&rpar;](http://www.techmeme.com/260304/p39#a260304p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

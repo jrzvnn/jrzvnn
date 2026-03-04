@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saved by the pan](http://9gag.com/gag/aW45eLZ)
- - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - 💣 [Flasback](http://9gag.com/gag/a2vpg7Z)
- - 😝 [Took me 21 years to realize I don&#39;t fit in this bloody country](http://9gag.com/gag/aoywwEx)
- - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
+ - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 💣 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 😝 [Bro got betrayed by his own kind](http://9gag.com/gag/aAy55Vg)
+ - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
 
 ---
 

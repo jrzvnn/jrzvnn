@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Panna Cotta Dessert](http://9gag.com/gag/aZZ5Xr9)
- - 😝 [We should be actively fighting to protect this!](http://9gag.com/gag/an7wZE0)
- - 💣 [Traumatized for life](http://9gag.com/gag/ajPwjbQ)
- - 😝 [I&#39;ve been told if you tell someone who is mad to calm down, it helps.](http://9gag.com/gag/a4Pyy7A)
- - 👉 [STFU David go eat shit my phone take pictures just as good](http://9gag.com/gag/aZZ5Xo6)<!-- MEMES:END -->
+ - 😝 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - 😝 [Flasback](http://9gag.com/gag/a2vpg7Z)
+ - 💣 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
+ - 😝 [Bro got betrayed by his own kind](http://9gag.com/gag/aAy55Vg)
+ - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
 
 ---
 

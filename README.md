@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
- - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 💣 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 😝 [Hmm](http://9gag.com/gag/aE0550o)
- - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
+ - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
+ - 💣 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
+ - 😝 [That&#39;s an art.](http://9gag.com/gag/a1mjg3v)
+ - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
 
 ---
 

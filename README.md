@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic and Google propose a settlement that would have Google share its Play Store app catalog with rivals and offer a registered app store program for Android &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/260304/p32#a260304p32)
- - [Google isn’t waiting for a settlement — the 30 percent Android app store fee is dead](https://www.theverge.com/policy/889252/google-app-store-fee-reduction-20-percent-epic-v-google)
- - [How and why MacBook Neo will excel for most everyday tasks](https://appleinsider.com/articles/26/03/04/how-and-why-macbook-neo-will-excel-for-most-everyday-tasks?utm_source=rss)
- - [M5 Max 16-inch MacBook Pro vs M4 Max 16-inch MacBook Pro compared](https://appleinsider.com/inside/macbook-pro/vs/m5-max-16-inch-macbook-pro-vs-m4-max-16-inch-mabook-pro-compared?utm_source=rss)
- - [How to use more than one external monitor on MacBook Neo](https://appleinsider.com/articles/26/03/04/how-to-use-more-than-one-external-monitor-on-macbook-neo?utm_source=rss)<!-- TECH:END -->
+ - [How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers](https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/)
+ - [Google’s AI-powered workspace is now available to more users in Search](https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch)
+ - [Authorities from 14 countries shut down LeakBase, seize its domains, and arrest multiple people allegedly tied to the cybercrime forum, which had 142K+ members &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/260304/p33#a260304p33)
+ - [This 5.1 Soundbar Bundle Is $100 Off](https://www.wired.com/story/sony-bravia-theater-system-deal-326/)
+ - [Epic and Google propose a settlement that would have Google share its Play Store app catalog with rivals and offer a registered app store program for Android &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/260304/p32#a260304p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

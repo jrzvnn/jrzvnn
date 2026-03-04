@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
  - 😝 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
- - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
  - 💣 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
- - 😝 [How the orange trees are watered in this Spanish courtyard](http://9gag.com/gag/ae9wwoj)
- - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
+ - 😝 [The band is getting back together.](http://9gag.com/gag/aAy55oo)
+ - 👉 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)<!-- MEMES:END -->
 
 ---
 

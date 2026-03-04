@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Embo, which is developing world models for robotics, is in talks to raise a $100M+ seed led by a16z, with Khosla, DST Global, and Striker participating &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/260304/p37#a260304p37)
  - [MacBook Neo vs M5 MacBook Air: Budget notebooks compared](https://appleinsider.com/inside/macbook-air/vs/macbook-neo-vs-m5-macbook-air-budget-notebooks-compared?utm_source=rss)
  - [NotebookLM can now summarize research in ‘cinematic’ video overviews](https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews)
  - [The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price](https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale)
- - [The world’s biggest automaker has one of the dirtiest supply chains: report](https://www.theverge.com/transportation/889145/lead-the-charge-supply-chain-leaderboard-toyota-tesla)
- - [Console exclusives might be making a comeback](https://www.theverge.com/entertainment/889336/console-exclusives-comeback)<!-- TECH:END -->
+ - [The world’s biggest automaker has one of the dirtiest supply chains: report](https://www.theverge.com/transportation/889145/lead-the-charge-supply-chain-leaderboard-toyota-tesla)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

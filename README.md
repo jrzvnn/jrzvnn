@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Arda, co-founded by ex-OpenAI chief research officer Bob McGrew to automate manufacturing using AI, is raising $70M at a $700M valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260304/p30#a260304p30)
- - [Budget speed: How fast will the low-cost MacBook Neo really be?](https://appleinsider.com/articles/26/03/04/budget-speed-how-fast-will-the-low-cost-macbook-neo-really-be?utm_source=rss)
- - [The MacBook Neo is &lpar;probably&rpar; not for you, but that doesn&#39;t make it a failure](https://appleinsider.com/articles/26/03/04/the-macbook-neo-is-probably-not-for-you-but-that-doesnt-make-it-a-failure?utm_source=rss)
- - [The Texas Senate Primary Was a Preview of Creator Wars to Come](https://www.wired.com/story/the-texas-senate-primary-was-a-preview-of-creator-wars-to-come/)
- - [Sources: Neura Robotics, which is building cognitive, humanoid robots for logistics, is raising ~€1B in a funding round backed by Tether at a ~€4B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260304/p29#a260304p29)<!-- TECH:END -->
+ - [M5 Max 16-inch MacBook Pro vs M4 Max 16-inch MacBook Pro compared](https://appleinsider.com/inside/macbook-pro/vs/m5-max-16-inch-macbook-pro-vs-m4-max-16-inch-mabook-pro-compared?utm_source=rss)
+ - [How to use more than one external monitor on MacBook Neo](https://appleinsider.com/articles/26/03/04/how-to-use-more-than-one-external-monitor-on-macbook-neo?utm_source=rss)
+ - [Downdetector and Speedtest sold to Accenture for $1.2 billion](https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture)
+ - [Sources: some investors push Anthropic to de-escalate its DOD dispute, worried about the &quot;supply-chain risk&quot; designation ; Anthropic and DOD continue some talks &lpar;Reuters&rpar;](http://www.techmeme.com/260304/p31#a260304p31)
+ - [Google&#39;s Gemini AI Drove Man Into Deadly Delusion, Family Claims in Lawsuit](https://www.cnet.com/tech/services-and-software/gemini-ai-jonathan-gavalas-wrongful-death-lawsuit-march-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation is reportedly moving away from PC ports](https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel)
- - [Sources: Sony no longer plans to release its big single-player PlayStation 5 games on PC, a major shift in strategy that sees it return to console exclusivity &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260304/p19#a260304p19)
- - [M5 Max 16-inch MacBook Pro vs M4 Max 16-inch MaBook Pro compared](https://appleinsider.com/inside/macbook-pro/vs/m5-max-16-inch-macbook-pro-vs-m4-max-16-inch-mabook-pro-compared?utm_source=rss)
- - [Want to Avoid Getting Sick? Our Data Reveals That This Air Purifier Works Best](https://www.cnet.com/home/kitchen-and-household/best-air-purifier-preventing-sickness-cold-flu-season/)
- - [Perplexity signs a multiyear deal with CoreWeave to use dedicated clusters powered by Nvidia Grace Blackwell chips for AI inference; CRWV jumps 5%+ pre-market &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260304/p18#a260304p18)<!-- TECH:END -->
+ - [MacBook Neo is Apple&#39;s new $599 entry-level notebook](https://appleinsider.com/articles/26/03/04/macbook-neo-is-apples-new-entry-level-notebook?utm_source=rss)
+ - [MacBook Neo hands-on: a new product category for Apple, and it doesn&#39;t look budget with a vibrant display and aluminum body, but the keyboard is a bit flimsy &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/260304/p24#a260304p24)
+ - [Apple&#39;s MacBook Neo uses an A18 Pro that launched in the iPhone 16 lineup, alongside 8GB of RAM and a headphone jack; Apple discontinued the 12&quot; MacBook in 2019 &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260304/p23#a260304p23)
+ - [Where to preorder the new iPhone 17E before it hits stores on March 11th](https://www.theverge.com/gadgets/887512/iphone-17e-preorder-how-to-buy-price-release-date)
+ - [The Colorful MacBook Neo Is Apple’s Cheapest Laptop Ever](https://www.wired.com/story/new-budget-apple-macbook-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not a `chick flick` unless there&#39;s romanticized cheating.](http://9gag.com/gag/a6Z6e0q)
- - 😝 [Saved by the pan](http://9gag.com/gag/aW45eLZ)
- - 💣 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
- - 😝 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
- - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
+ - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 😝 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - 💣 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
+ - 😝 [That&#39;s an art.](http://9gag.com/gag/a1mjg3v)
+ - 👉 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
 
 ---
 

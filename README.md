@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We should be actively fighting to protect this!](http://9gag.com/gag/an7wZE0)
  - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - 💣 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - 😝 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - 💣 [Stamps cost money](http://9gag.com/gag/an7wwOB)
  - 😝 [STFU David go eat shit my phone take pictures just as good](http://9gag.com/gag/aZZ5Xo6)
  - 👉 [I&#39;ve been told if you tell someone who is mad to calm down, it helps.](http://9gag.com/gag/a4Pyy7A)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: since the end of 2025, Polymarket users have rarely bet large sums on US strikes the next day; before the Iran strikes, 150+ accounts placed such bets &lpar;Amy Fan/New York Times&rpar;](http://www.techmeme.com/260304/p10#a260304p10)
+ - [Best Theraguns and Therabody Tools for Smarter Recovery &lpar;2026&rpar;](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)
  - [What It’s Like to Have a Brain Implant for 5 Years](https://www.wired.com/story/synchron-brain-computer-interface-five-years-als/)
  - [Activision silences trusted Call of Duty leaker](https://www.theverge.com/games/888858/call-of-duty-leaker-hope-legal-demand-shutdown)
- - [Sources: Walmart-backed PhonePe targets an up to $10.5B valuation in its Indian IPO; PhonePe raised $600M from General Atlantic at a $14.5B valuation in October &lpar;Jaspreet Kalra/Reuters&rpar;](http://www.techmeme.com/260304/p9#a260304p9)
- - [Visa and Stripe&#39;s Bridge plan to expand their partnership to issue stablecoin-linked cards in 100+ countries; the cards are currently live in 18 countries &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260304/p8#a260304p8)
- - [Corning unveils Gorilla Glass Ceramic 3 for smartphones, promising enhanced drop durability over multiple years, first launching on the new Motorola Razr Fold &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260304/p7#a260304p7)<!-- TECH:END -->
+ - [Sources: Walmart-backed PhonePe targets an up to $10.5B valuation in its Indian IPO; PhonePe raised $600M from General Atlantic at a $14.5B valuation in October &lpar;Jaspreet Kalra/Reuters&rpar;](http://www.techmeme.com/260304/p9#a260304p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

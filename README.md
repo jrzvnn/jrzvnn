@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: since the end of 2025, Polymarket users have rarely bet large sums on US strikes the next day; before the Iran strikes, 150+ accounts placed such bets &lpar;Amy Fan/New York Times&rpar;](http://www.techmeme.com/260304/p10#a260304p10)
- - [Best Theraguns and Therabody Tools for Smarter Recovery &lpar;2026&rpar;](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)
- - [What It’s Like to Have a Brain Implant for 5 Years](https://www.wired.com/story/synchron-brain-computer-interface-five-years-als/)
- - [Activision silences trusted Call of Duty leaker](https://www.theverge.com/games/888858/call-of-duty-leaker-hope-legal-demand-shutdown)
- - [Sources: Walmart-backed PhonePe targets an up to $10.5B valuation in its Indian IPO; PhonePe raised $600M from General Atlantic at a $14.5B valuation in October &lpar;Jaspreet Kalra/Reuters&rpar;](http://www.techmeme.com/260304/p9#a260304p9)<!-- TECH:END -->
+ - [X user TheGhostOfHope, one of top Call of Duty leakers, says Activision &quot;legally demanded that I stop leaking and disseminating confidential information&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260304/p12#a260304p12)
+ - [Polymarket removes long-running markets letting users bet on the chances of a nuclear weapon detonating amid the Iran strikes; a 2025 market had $1.7M in volume &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260304/p11#a260304p11)
+ - [How Is Kalshi Not Gambling?](https://www.wired.com/story/big-interview-tarek-mansour-kalshi/)
+ - [Inside the secret meeting that led to the AI political resistance](https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli)
+ - [Analysis: since the end of 2025, Polymarket users have rarely bet large sums on US strikes the next day; before the Iran strikes, 150+ accounts placed such bets &lpar;Amy Fan/New York Times&rpar;](http://www.techmeme.com/260304/p10#a260304p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

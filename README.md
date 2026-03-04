@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh how glad I am to live in such a wonderfully providing country!](http://9gag.com/gag/awy2DDQ)
- - 😝 [SOMEBODY SHAT IN THE SHELTER](http://9gag.com/gag/aAy57Pd)
- - 💣 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 😝 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
- - 👉 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)<!-- MEMES:END -->
+ - 😝 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
+ - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
+ - 💣 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
+ - 😝 [How the orange trees are watered in this Spanish courtyard](http://9gag.com/gag/ae9wwoj)
+ - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
 
 ---
 

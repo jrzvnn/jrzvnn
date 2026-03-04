@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Oh how glad I am to live in such a wonderfully providing country!](http://9gag.com/gag/awy2DDQ)
+ - 😝 [SOMEBODY SHAT IN THE SHELTER](http://9gag.com/gag/aAy57Pd)
+ - 💣 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
  - 😝 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
- - 💣 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)
- - 😝 [When they give you that job to force you to quit!](http://9gag.com/gag/aVv5562)
- - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
+ - 👉 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)<!-- MEMES:END -->
 
 ---
 

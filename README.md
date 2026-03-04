@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers](https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/)
- - [Google’s AI-powered workspace is now available to more users in Search](https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch)
- - [Authorities from 14 countries shut down LeakBase, seize its domains, and arrest multiple people allegedly tied to the cybercrime forum, which had 142K+ members &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/260304/p33#a260304p33)
- - [This 5.1 Soundbar Bundle Is $100 Off](https://www.wired.com/story/sony-bravia-theater-system-deal-326/)
- - [Epic and Google propose a settlement that would have Google share its Play Store app catalog with rivals and offer a registered app store program for Android &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/260304/p32#a260304p32)<!-- TECH:END -->
+ - [Google Pixel 10a review: long battery life and a good camera with no bump, but weak gaming performance and barely an upgrade from the Pixel 9a &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/260304/p36#a260304p36)
+ - [Apple updates iOS, macOS Tahoe to 26.3.1 to support new Studio Displays](https://appleinsider.com/articles/26/03/04/apple-updates-ios-macos-tahoe-to-2631-to-support-new-studio-displays?utm_source=rss)
+ - [Tencent-owned Finnish game company Supercell says it is cooperating with a CFIUS security probe of Tencent&#39;s data practices &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/260304/p35#a260304p35)
+ - [Jensen Huang says Nvidia&#39;s recent $30B investment in OpenAI &quot;might be the last time&quot; it invests in the company, because OpenAI is &quot;going to go public&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260304/p34#a260304p34)
+ - [Trump’s War on Iran Could Screw Over US Farmers](https://www.wired.com/story/trumps-war-on-iran-could-screw-over-us-farmers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

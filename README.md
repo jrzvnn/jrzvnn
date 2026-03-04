@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
  - 😝 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
- - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
+ - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 💣 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
+ - 😝 [Hmm](http://9gag.com/gag/aE0550o)
+ - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Console exclusives might be making a comeback](https://www.theverge.com/entertainment/889336/console-exclusives-comeback)
+ - [USB Hubs Can Save You Lots of Hassles—Here Are 5 We Like Best in 2026](https://www.wired.com/gallery/best-usb-hubs/)
+ - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)
  - [Google Pixel 10a review: long battery life and a good camera with no bump, but weak gaming performance and barely an upgrade from the Pixel 9a &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/260304/p36#a260304p36)
- - [Apple updates iOS, macOS Tahoe to 26.3.1 to support new Studio Displays](https://appleinsider.com/articles/26/03/04/apple-updates-ios-macos-tahoe-to-2631-to-support-new-studio-displays?utm_source=rss)
- - [Tencent-owned Finnish game company Supercell says it is cooperating with a CFIUS security probe of Tencent&#39;s data practices &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/260304/p35#a260304p35)
- - [Jensen Huang says Nvidia&#39;s recent $30B investment in OpenAI &quot;might be the last time&quot; it invests in the company, because OpenAI is &quot;going to go public&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260304/p34#a260304p34)
- - [Trump’s War on Iran Could Screw Over US Farmers](https://www.wired.com/story/trumps-war-on-iran-could-screw-over-us-farmers/)<!-- TECH:END -->
+ - [Apple updates iOS, macOS Tahoe to 26.3.1 to support new Studio Displays](https://appleinsider.com/articles/26/03/04/apple-updates-ios-macos-tahoe-to-2631-to-support-new-studio-displays?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

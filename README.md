@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - 😝 [SOMEBODY SHAT IN THE SHELTER](http://9gag.com/gag/aAy57Pd)
+ - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 💣 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
  - 😝 [Flasback](http://9gag.com/gag/a2vpg7Z)
- - 💣 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 😝 [Bro got betrayed by his own kind](http://9gag.com/gag/aAy55Vg)
- - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
+ - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
 
 ---
 

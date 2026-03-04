@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 💣 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - 😝 [Bro got betrayed by his own kind](http://9gag.com/gag/aAy55Vg)
- - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
+ - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
+ - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 😝 [That&#39;s an art.](http://9gag.com/gag/a1mjg3v)
+ - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
 
 ---
 

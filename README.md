@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saved by the pan](http://9gag.com/gag/aW45eLZ)
- - 😝 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
- - 💣 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 😝 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)
+ - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
  - 😝 [Flasback](http://9gag.com/gag/a2vpg7Z)
- - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
+ - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 😝 [Oh how glad I am to live in such a wonderfully providing country!](http://9gag.com/gag/awy2DDQ)
  - 😝 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
- - 💣 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
- - 😝 [That&#39;s an art.](http://9gag.com/gag/a1mjg3v)
+ - 💣 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)
+ - 😝 [When they give you that job to force you to quit!](http://9gag.com/gag/aVv5562)
  - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
 
 ---

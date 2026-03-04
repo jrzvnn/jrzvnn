@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity signs a multiyear deal with CoreWeave to use dedicated clusters powered by Nvidia Grace Blackwell chips for AI inference; CRWV jumps 5%+ pre-market &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260304/p18#a260304p18)
- - [Raycast’s Glaze is an all-in-one vibe coding app platform](https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store)
- - [Apple&#39;s launch week also includes new Hermes Apple Watch bands](https://appleinsider.com/articles/26/03/04/apples-launch-week-also-includes-new-hermes-apple-watch-bands?utm_source=rss)
- - [The Best Linux Laptops &lpar;I Install Linux on Every Laptop I Test&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-linux-laptops/)
- - [I Ranked 30 Energy Drinks, From Celsius to Ghost &lpar;2025&rpar;](https://www.wired.com/story/best-energy-drinks/)<!-- TECH:END -->
+ - [PlayStation is reportedly moving away from PC ports](https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel)
+ - [Sources: Sony no longer plans to release its big single-player PlayStation 5 games on PC, a major shift in strategy that sees it return to console exclusivity &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260304/p19#a260304p19)
+ - [M5 Max 16-inch MacBook Pro vs M4 Max 16-inch MaBook Pro compared](https://appleinsider.com/inside/macbook-pro/vs/m5-max-16-inch-macbook-pro-vs-m4-max-16-inch-mabook-pro-compared?utm_source=rss)
+ - [Want to Avoid Getting Sick? Our Data Reveals That This Air Purifier Works Best](https://www.cnet.com/home/kitchen-and-household/best-air-purifier-preventing-sickness-cold-flu-season/)
+ - [Perplexity signs a multiyear deal with CoreWeave to use dedicated clusters powered by Nvidia Grace Blackwell chips for AI inference; CRWV jumps 5%+ pre-market &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260304/p18#a260304p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

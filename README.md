@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [We should be actively fighting to protect this!](http://9gag.com/gag/an7wZE0)
  - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 💣 [Flasback](http://9gag.com/gag/a2vpg7Z)
- - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
+ - 💣 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - 😝 [STFU David go eat shit my phone take pictures just as good](http://9gag.com/gag/aZZ5Xo6)
+ - 👉 [I&#39;ve been told if you tell someone who is mad to calm down, it helps.](http://9gag.com/gag/a4Pyy7A)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SOMEBODY SHAT IN THE SHELTER](http://9gag.com/gag/aAy57Pd)
- - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 💣 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
- - 😝 [Flasback](http://9gag.com/gag/a2vpg7Z)
- - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
+ - 😝 [Panna Cotta Dessert](http://9gag.com/gag/aZZ5Xr9)
+ - 😝 [We should be actively fighting to protect this!](http://9gag.com/gag/an7wZE0)
+ - 💣 [Traumatized for life](http://9gag.com/gag/ajPwjbQ)
+ - 😝 [Stamps cost money](http://9gag.com/gag/an7wwOB)
+ - 👉 [STFU David go eat shit my phone take pictures just as good](http://9gag.com/gag/aZZ5Xo6)<!-- MEMES:END -->
 
 ---
 

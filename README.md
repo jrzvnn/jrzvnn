@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Corning unveils Gorilla Glass Ceramic 3 for smartphones, promising enhanced drop durability over multiple years, first launching on the new Motorola Razr Fold &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260304/p7#a260304p7)
+ - [These Official ChromeOS Flex USB Sticks Can Give Your Old Mac or Windows PC a Second Life](https://www.wired.com/story/back-market-google-chromeos-flex-usb-sticks/)
  - [Sources: President Trump met with Coinbase CEO Brian Armstrong on March 3 before publicly admonishing banks over the GENIUS Act, echoing Coinbase&#39;s position &lpar;Jasper Goodman/Politico&rpar;](http://www.techmeme.com/260304/p6#a260304p6)
  - [An OpenAI spokesperson says Sam Altman misspoke in saying OpenAI was looking to deploy on NATO classified networks, and that it was for &quot;unclassified networks&quot; &lpar;Hyunsu Yim/Reuters&rpar;](http://www.techmeme.com/260304/p5#a260304p5)
- - [Barkbox Promo Codes and Discounts: Up to 50% Off](https://www.wired.com/story/barkbox-promo-code/)
- - [Asia&#39;s smaller chip companies are joining their bigger peers in hiking prices as robust AI demand fuels capex, projected to rise 25% YoY to over $136B in 2026 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260304/p4#a260304p4)
- - [The UK government commits an initial £40M to an AI research lab, modeled on its DARPA-inspired ARIA, seeking breakthroughs in science, healthcare, and transport &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260304/p3#a260304p3)<!-- TECH:END -->
+ - [Barkbox Promo Codes and Discounts: Up to 50% Off](https://www.wired.com/story/barkbox-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

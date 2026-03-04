@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 💣 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
+ - 😝 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
+ - 💣 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
  - 😝 [That&#39;s an art.](http://9gag.com/gag/a1mjg3v)
- - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
+ - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
 
 ---
 

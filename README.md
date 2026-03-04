@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Panna Cotta Dessert](http://9gag.com/gag/aZZ5Xr9)
+ - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
  - 😝 [We should be actively fighting to protect this!](http://9gag.com/gag/an7wZE0)
  - 💣 [Traumatized for life](http://9gag.com/gag/ajPwjbQ)
- - 😝 [Stamps cost money](http://9gag.com/gag/an7wwOB)
+ - 😝 [I&#39;ve been told if you tell someone who is mad to calm down, it helps.](http://9gag.com/gag/a4Pyy7A)
  - 👉 [STFU David go eat shit my phone take pictures just as good](http://9gag.com/gag/aZZ5Xo6)<!-- MEMES:END -->
 
 ---

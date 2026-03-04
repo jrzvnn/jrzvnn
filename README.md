@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
- - 😝 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 😝 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - 😝 [It&#39;s not a `chick flick` unless there&#39;s romanticized cheating.](http://9gag.com/gag/a6Z6e0q)
+ - 😝 [Saved by the pan](http://9gag.com/gag/aW45eLZ)
+ - 💣 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - 😝 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
  - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
 
 ---

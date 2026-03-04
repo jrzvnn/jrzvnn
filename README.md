@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a prize-winning cartoonist brings hand-drawn comics to the web](https://www.theverge.com/uncategorized/888672/how-a-prize-winning-cartoonist-brings-hand-drawn-comics-to-the-web)
- - [Boston-based Whoop, which makes screenless fitness bands, says it plans to grow staff by up to 75% in 2026, adding 600+ roles, ahead of a likely IPO &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260304/p14#a260304p14)
- - [Unlike in the West, Chinese policymakers and the public appear to be much more optimistic about AI, likely due to a focus on real-world applications of AI &lpar;Vivian Wang/New York Times&rpar;](http://www.techmeme.com/260304/p13#a260304p13)
- - [16 Best Air Purifiers &lpar;2026&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [Some People See Aliens While on DMT. Researchers Want to Find Out What They Can Teach Us](https://www.wired.com/story/some-people-see-aliens-while-on-dmt-researchers-want-to-find-out-what-they-can-teach-us/)<!-- TECH:END -->
+ - [Perplexity signs a multiyear deal with CoreWeave to use dedicated clusters powered by Nvidia Grace Blackwell chips for AI inference; CRWV jumps 5%+ pre-market &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260304/p18#a260304p18)
+ - [Raycast’s Glaze is an all-in-one vibe coding app platform](https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store)
+ - [Apple&#39;s launch week also includes new Hermes Apple Watch bands](https://appleinsider.com/articles/26/03/04/apples-launch-week-also-includes-new-hermes-apple-watch-bands?utm_source=rss)
+ - [The Best Linux Laptops &lpar;I Install Linux on Every Laptop I Test&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-linux-laptops/)
+ - [I Ranked 30 Energy Drinks, From Celsius to Ghost &lpar;2025&rpar;](https://www.wired.com/story/best-energy-drinks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 😝 [That&#39;s an art.](http://9gag.com/gag/a1mjg3v)
- - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
+ - 😝 [It&#39;s Science.](http://9gag.com/gag/a4PygNm)
+ - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
+ - 💣 [Stop making stupid people famous](http://9gag.com/gag/agmwbPr)
+ - 😝 [STFU David go eat shit my phone take pictures just as good](http://9gag.com/gag/aZZ5Xo6)
+ - 👉 [So satisfying](http://9gag.com/gag/aBy5MKN)<!-- MEMES:END -->
 
 ---
 

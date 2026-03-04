@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pasqal, a French startup that builds quantum processors using neutral atom technology, plans to go public via a SPAC merger at a $2B pre-money valuation &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/260304/p42#a260304p42)
+ - [Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive](https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/)
  - [Google, Microsoft, Meta, Amazon, OpenAI, and others sign a pledge at the White House to bear the cost of new electricity generation to power their data centers &lpar;Reuters&rpar;](http://www.techmeme.com/260304/p41#a260304p41)
  - [Here’s how Google describes its fee-reducing Apps Experience and Games Level Up programs](https://www.theverge.com/tech/889538/google-apps-experience-games-level-up-program)
- - [Leaked Friday memo: Dario Amodei called OpenAI&#39;s DOD deal &quot;safety theater&quot;, said DOD dislikes Anthropic in part for not giving &quot;dictator-style praise to Trump&quot; &lpar;The Information&rpar;](http://www.techmeme.com/260304/p40#a260304p40)
- - [Highguard to Go Offline After Rapid Player Drop](https://www.cnet.com/tech/gaming/highguard-offline-player-drop/)
- - [Source: a16z Crypto is targeting around $2B for its fifth fund and plans to close the raise by the end of the first half of 2026 &lpar;Fortune&rpar;](http://www.techmeme.com/260304/p39#a260304p39)<!-- TECH:END -->
+ - [Leaked Friday memo: Dario Amodei called OpenAI&#39;s DOD deal &quot;safety theater&quot;, said DOD dislikes Anthropic in part for not giving &quot;dictator-style praise to Trump&quot; &lpar;The Information&rpar;](http://www.techmeme.com/260304/p40#a260304p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

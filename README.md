@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What It’s Like to Have a Brain Implant for 5 Years](https://www.wired.com/story/synchron-brain-computer-interface-five-years-als/)
+ - [Activision silences trusted Call of Duty leaker](https://www.theverge.com/games/888858/call-of-duty-leaker-hope-legal-demand-shutdown)
  - [Sources: Walmart-backed PhonePe targets an up to $10.5B valuation in its Indian IPO; PhonePe raised $600M from General Atlantic at a $14.5B valuation in October &lpar;Jaspreet Kalra/Reuters&rpar;](http://www.techmeme.com/260304/p9#a260304p9)
  - [Visa and Stripe&#39;s Bridge plan to expand their partnership to issue stablecoin-linked cards in 100+ countries; the cards are currently live in 18 countries &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260304/p8#a260304p8)
- - [Corning unveils Gorilla Glass Ceramic 3 for smartphones, promising enhanced drop durability over multiple years, first launching on the new Motorola Razr Fold &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260304/p7#a260304p7)
- - [These Official ChromeOS Flex USB Sticks Can Give Your Old Mac or Windows PC a Second Life](https://www.wired.com/story/back-market-google-chromeos-flex-usb-sticks/)
- - [Sources: President Trump met with Coinbase CEO Brian Armstrong on March 3 before publicly admonishing banks over the GENIUS Act, echoing Coinbase&#39;s position &lpar;Jasper Goodman/Politico&rpar;](http://www.techmeme.com/260304/p6#a260304p6)<!-- TECH:END -->
+ - [Corning unveils Gorilla Glass Ceramic 3 for smartphones, promising enhanced drop durability over multiple years, first launching on the new Motorola Razr Fold &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260304/p7#a260304p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

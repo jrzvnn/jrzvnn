@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - 😝 [Oh how glad I am to live in such a wonderfully providing country!](http://9gag.com/gag/awy2DDQ)
- - 💣 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
- - 😝 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
- - 👉 [Rogue](http://9gag.com/gag/aD255RB)<!-- MEMES:END -->
+ - 😝 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)
+ - 😝 [Archery is a contact sport apparently](http://9gag.com/gag/aO85E5E)
+ - 💣 [Rogue](http://9gag.com/gag/aD255RB)
+ - 😝 [Driver sees man in distress and helps.](http://9gag.com/gag/aW45XEq)
+ - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
  - 😝 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
- - 😝 [Rogue](http://9gag.com/gag/aD255RB)
- - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 😝 [Mountain Hard and Big](http://9gag.com/gag/aQz5W4z)
- - 👉 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)<!-- MEMES:END -->
+ - 💣 [Being a step dad is fun](http://9gag.com/gag/abAw81X)
+ - 😝 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)
+ - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 ---
 

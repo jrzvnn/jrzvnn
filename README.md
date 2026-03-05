@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 😝 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
- - 💣 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
- - 😝 [The band is getting back together.](http://9gag.com/gag/aAy55oo)
- - 👉 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)<!-- MEMES:END -->
+ - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
+ - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 💣 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 😝 [Brocoli hair strike again](http://9gag.com/gag/a9y0GM0)
+ - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
 
 ---
 

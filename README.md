@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Rogue](http://9gag.com/gag/aD255RB)
  - 😝 [American Dream.](http://9gag.com/gag/aZZ5YKX)
- - 😝 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
  - 💣 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - 😝 [He&#39;s just making it worse](http://9gag.com/gag/aVv56Qd)
- - 👉 [Rogue](http://9gag.com/gag/aD255RB)<!-- MEMES:END -->
+ - 😝 [It was a different time](http://9gag.com/gag/aYQ5XW0)
+ - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
 
 ---
 

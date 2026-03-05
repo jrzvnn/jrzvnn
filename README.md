@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Munich&#39;s UnternehmerTUM, which tops the FT ranking of Europe&#39;s startup hubs for a third straight year and has supported 1,000+ companies since 2002 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/260305/p12#a260305p12)
- - [Grammarly is offering an AI-powered tool called &quot;Expert Review&quot; that simulates feedback from famous writers, dead and living, without their permission &lpar;Miles Klee/Wired&rpar;](http://www.techmeme.com/260305/p11#a260305p11)
- - [Staff memo: Alibaba says it is setting up a new task force to accelerate foundation AI model development, after the resignation of Qwen AI head Lin Junyang &lpar;Reuters&rpar;](http://www.techmeme.com/260305/p10#a260305p10)
- - [In its latest quarterly report, Capcom says &quot;PC sales account for approximately 50% of total unit sales, and we expect this ratio to continue increasing&quot; &lpar;Shaun Prescott/PC Gamer&rpar;](http://www.techmeme.com/260305/p9#a260305p9)
- - [Oslo-based Unleash, which develops tools that let enterprises manage risks in AI-accelerated software development, raised a $35M Series B led by One Peak &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/260305/p8#a260305p8)<!-- TECH:END -->
+ - [Best Sheets Under $200 and $100 &lpar;2026&rpar;: Cotton, Bamboo, Organic](https://www.wired.com/story/best-sheets/)
+ - [Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed](https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/)
+ - [Amsterdam-based Silverflow, a cloud-native card payment processing service with a single API to card networks, raised a $40M Series B led by Picus Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260305/p14#a260305p14)
+ - [Bill Gates&amp;#8217; nuclear company is the first to get approval to build next-gen reactor](https://www.theverge.com/science/889768/bill-gates-terrapower-nuclear-wyoming-reactor)
+ - [Huawei dominated MWC as the largest exhibitor, illustrating the challenge facing the EU as it pushes to outlaw the Chinese supplier from European networks &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/260305/p13#a260305p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

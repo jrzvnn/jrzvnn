@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Teacher We Never Had](http://9gag.com/gag/a34rO3Q)
- - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - 💣 [Just squeeze it](http://9gag.com/gag/aND55Or)
- - 😝 [Ah, good memories...](http://9gag.com/gag/aND5b2G)
- - 👉 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)<!-- MEMES:END -->
+ - 😝 [For mankind!](http://9gag.com/gag/aVv55nP)
+ - 😝 [Someone finally found a way to skateboard in GTA 5.](http://9gag.com/gag/aW455b4)
+ - 💣 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)
+ - 😝 [A window to the world](http://9gag.com/gag/aAy5952)
+ - 👉 [Just squeeze it](http://9gag.com/gag/aND55Or)<!-- MEMES:END -->
 
 ---
 

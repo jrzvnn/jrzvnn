@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is scaling back shopping directly inside ChatGPT via Instant Checkout by having checkouts instead take place in the specific apps that plug into ChatGPT &lpar;The Information&rpar;](http://www.techmeme.com/260305/p4#a260305p4)
+ - [Steve Bannon, Susan Rice, and Richard Branson among the broad coalition of leaders signing the Future of Life Institute&#39;s Pro-Human AI Declaration &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260305/p3#a260305p3)
+ - [Sources: Nvidia has reallocated manufacturing capacity at TSMC away from making H200 chips intended for Chinese market to its latest Vera Rubin products &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260305/p2#a260305p2)
  - [The US Central Command says US military forces are using a range of AI tools to quickly manage enormous amounts of data for operations against Iran &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260305/p1#a260305p1)
- - [Sources: OpenAI topped $25B in annualized revenue by end-February, up from $21.4B at end-2025; it annualizes by multiplying the last four weeks&#39; revenue by 12 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260304/p57#a260304p57)
- - [Apple Music introduces Transparency Tags, a metadata system for music distributors and labels to disclose AI-generated creative elements like artwork or lyrics &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260304/p56#a260304p56)
- - [Microsoft releases Phi-4-reasoning-vision-15B, a 15B-parameter open-weight model it says matches larger systems while using far less compute and training data &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260304/p55#a260304p55)
- - [Deveillance&#39;s upcoming anti-surveillance device, Spectre I, went viral after its founder said it blocks nearby listening devices with AI, but some are skeptical &lpar;Lindsey Weedston/The Daily Dot&rpar;](http://www.techmeme.com/260304/p54#a260304p54)<!-- TECH:END -->
+ - [Sources: OpenAI topped $25B in annualized revenue by end-February, up from $21.4B at end-2025; it annualizes by multiplying the last four weeks&#39; revenue by 12 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260304/p57#a260304p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

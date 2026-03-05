@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For mankind!](http://9gag.com/gag/aVv55nP)
- - 😝 [Someone finally found a way to skateboard in GTA 5.](http://9gag.com/gag/aW455b4)
- - 💣 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)
- - 😝 [A window to the world](http://9gag.com/gag/aAy5952)
- - 👉 [Just squeeze it](http://9gag.com/gag/aND55Or)<!-- MEMES:END -->
+ - 😝 [The Teacher We Never Had](http://9gag.com/gag/a34rO3Q)
+ - 😝 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
+ - 💣 [Rogue](http://9gag.com/gag/aD255RB)
+ - 😝 [Just squeeze it](http://9gag.com/gag/aND55Or)
+ - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
 
 ---
 

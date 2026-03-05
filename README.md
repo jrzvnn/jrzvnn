@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - 😝 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
  - 😝 [Rogue](http://9gag.com/gag/aD255RB)
- - 💣 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
- - 😝 [Pokemon in real life. Ratata vs Meowth](http://9gag.com/gag/a87OxE3)
+ - 💣 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)
+ - 😝 [Mountain Hard and Big](http://9gag.com/gag/aQz5W4z)
  - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 ---

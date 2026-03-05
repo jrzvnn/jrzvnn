@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
- - 😝 [Rogue](http://9gag.com/gag/aD255RB)
+ - 😝 [And they say Romance is dead](http://9gag.com/gag/ajPwvOG)
+ - 😝 [Being a step dad is fun](http://9gag.com/gag/abAw81X)
  - 💣 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)
- - 😝 [Mountain Hard and Big](http://9gag.com/gag/aQz5W4z)
- - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
+ - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - 👉 [Rogue](http://9gag.com/gag/aD255RB)<!-- MEMES:END -->
 
 ---
 

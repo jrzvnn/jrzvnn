@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Officials say NATO&#39;s main focus at its July summit will be on investments into drones and AI systems rather than primarily conventional defense hardware &lpar;Bloomberg&rpar;](http://www.techmeme.com/260305/p6#a260305p6)
+ - [Many of Stockholm&#39;s thriving tech businesses consider relocating as they look to scale up, amid growing US interest in Swedish AI startups Lovable and Legora &lpar;Orlando Crowcroft/Financial Times&rpar;](http://www.techmeme.com/260305/p5#a260305p5)
  - [OpenAI is scaling back shopping directly inside ChatGPT via Instant Checkout by having checkouts instead take place in the specific apps that plug into ChatGPT &lpar;The Information&rpar;](http://www.techmeme.com/260305/p4#a260305p4)
  - [Steve Bannon, Susan Rice, and Richard Branson among the broad coalition of leaders signing the Future of Life Institute&#39;s Pro-Human AI Declaration &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260305/p3#a260305p3)
- - [Sources: Nvidia has reallocated manufacturing capacity at TSMC away from making H200 chips intended for Chinese market to its latest Vera Rubin products &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260305/p2#a260305p2)
- - [The US Central Command says US military forces are using a range of AI tools to quickly manage enormous amounts of data for operations against Iran &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260305/p1#a260305p1)
- - [Sources: OpenAI topped $25B in annualized revenue by end-February, up from $21.4B at end-2025; it annualizes by multiplying the last four weeks&#39; revenue by 12 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260304/p57#a260304p57)<!-- TECH:END -->
+ - [Sources: Nvidia has reallocated manufacturing capacity at TSMC away from making H200 chips intended for Chinese market to its latest Vera Rubin products &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260305/p2#a260305p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

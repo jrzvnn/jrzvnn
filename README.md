@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI has picked two law firms to prepare its IPO, which could come as soon as Q4, in one of its first concrete steps toward a public listing &lpar;The Information&rpar;](http://www.techmeme.com/260304/p51#a260304p51)
- - [Did Live Nation punish a venue by taking Billie Eilish away?](https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats)
- - [Budget speed: How fast will the low-cost MacBook Neo really be?](https://appleinsider.com/articles/26/03/04/budget-speed-how-fast-will-the-low-cost-macbook-neo-really-be?utm_source=rss)
- - [Sources: Dario Amodei has been holding talks with the DOD&#39;s Emil Michael in a bid to iron out a contract governing the Pentagon&#39;s access to Anthropic&#39;s models &lpar;Financial Times&rpar;](http://www.techmeme.com/260304/p50#a260304p50)
- - [MacBook Neo vs M5 MacBook Air: Budget notebooks compared](https://appleinsider.com/inside/macbook-air/vs/macbook-neo-vs-m5-macbook-air-budget-notebooks-compared?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft releases Phi-4-reasoning-vision-15B, a 15B-parameter open-weight model it says matches larger systems while using far less compute and training data &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260304/p55#a260304p55)
+ - [Deveillance&#39;s upcoming anti-surveillance device, Spectre I, went viral after its founder said it blocks nearby listening devices with AI, but some are skeptical &lpar;Lindsey Weedston/The Daily Dot&rpar;](http://www.techmeme.com/260304/p54#a260304p54)
+ - [A New York bill would ban chatbots from impersonating licensed professionals like doctors and lawyers and giving &quot;substantive response, information, or advice&quot; &lpar;Keely Quinlan/StateScoop&rpar;](http://www.techmeme.com/260304/p53#a260304p53)
+ - [Study: ChatGPT Health underestimated the severity of medical emergencies 51.6% of the time and overestimated the severity in nonurgent cases 64.8% of the time &lpar;Kaan Ozcan/NBC News&rpar;](http://www.techmeme.com/260304/p52#a260304p52)
+ - [Sources: OpenAI has picked two law firms to prepare its IPO, which could come as soon as Q4, in one of its first concrete steps toward a public listing &lpar;The Information&rpar;](http://www.techmeme.com/260304/p51#a260304p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

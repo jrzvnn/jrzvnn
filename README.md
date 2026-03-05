@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KEF Muo Bluetooth Speaker: Portable Hi-Fi](https://www.wired.com/review/kef-muo-2026/)
- - [Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup](https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal)
- - [Analysis: Nintendo&#39;s software sales are under threat from soaring NAND prices; in December, the average game sales per console were 2.18, down from 3.88 in 2018 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260305/p19#a260305p19)
- - [Google expands its AI-powered Canvas workspace to everyone in the US using AI Mode in Search, letting them get information, organize plans, draft docs, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260305/p18#a260305p18)
- - [Suunto Vertical 2 Review: Catching Up to the Pack](https://www.wired.com/review/suunto-vertical-2/)<!-- TECH:END -->
+ - [China&#39;s new five-year plan introduces an &quot;AI+ action plan&quot;, mentions AI over 50 times, and outlines investments in quantum computing, 6G, embodied AI, and more &lpar;Reuters&rpar;](http://www.techmeme.com/260305/p24#a260305p24)
+ - [AI tools can unmask anonymous accounts](https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts)
+ - [Nominal, which makes software for the defense, space, energy, and automotive sectors, raised an $80M Series B extension led by Founders Fund at a $1B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/260305/p23#a260305p23)
+ - [Reclaim Security, which uses AI-driven automation to remediate threat exposures, raised a $20M Series A led by Acrew Capital and a $6M seed &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260305/p22#a260305p22)
+ - [Best Gravel Running Shoes &lpar;2026&rpar;: Salomon, Adidas, Nike](https://www.wired.com/gallery/best-gravel-running-shoes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

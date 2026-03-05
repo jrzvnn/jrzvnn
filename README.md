@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns](https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/)
+ - [Pokopia made me look at Pokémon’s high-tech future in a whole new way](https://www.theverge.com/games/890131/pokopia-pokemon-high-tech-future-3d-printer)
+ - [It’s Peak Season for Birdwatchers to Spot Migratory Hummingbirds, and Our Favorite Feeder Is on Sale](https://www.wired.com/story/its-time-to-put-out-your-hummingbird-feeders-2026/)
  - [Anthropic launches an early-warning system for potential AI-driven destruction of white-collar jobs, says it shows &quot;limited evidence&quot; of AI-led job loss so far &lpar;Courtenay Brown/Axios&rpar;](http://www.techmeme.com/260305/p53#a260305p53)
- - [Microsoft&#39;s new gaming CEO, Asha Sharma, teases the next-gen Xbox, codenamed Project Helix, saying it &quot;will lead in performance and play your Xbox and PC games&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260305/p52#a260305p52)
- - [Amazon.com is up and down, with login errors and prices not loading](https://www.theverge.com/tech/890215/amazon-is-down-login-prices)
- - [United Airlines can permanently ban passengers who don’t wear headphones](https://www.theverge.com/transportation/890202/united-airlines-headphones-policy-contract-of-carriage)
- - [Microsoft teases its next Xbox, says &amp;#8216;Project Helix&amp;#8217; will play PC games too](https://www.theverge.com/games/890194/microsoft-teases-its-next-xbox-says-project-helix-will-play-pc-games-too)<!-- TECH:END -->
+ - [Microsoft&#39;s new gaming CEO, Asha Sharma, teases the next-gen Xbox, codenamed Project Helix, saying it &quot;will lead in performance and play your Xbox and PC games&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260305/p52#a260305p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

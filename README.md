@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)
- - 😝 [Archery is a contact sport apparently](http://9gag.com/gag/aO85E5E)
- - 💣 [Rogue](http://9gag.com/gag/aD255RB)
- - 😝 [Driver sees man in distress and helps.](http://9gag.com/gag/aW45XEq)
- - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
+ - 😝 [The Teacher We Never Had](http://9gag.com/gag/a34rO3Q)
+ - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 💣 [Just squeeze it](http://9gag.com/gag/aND55Or)
+ - 😝 [Ah, good memories...](http://9gag.com/gag/aND5b2G)
+ - 👉 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)<!-- MEMES:END -->
 
 ---
 

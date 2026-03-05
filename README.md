@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Teacher We Never Had](http://9gag.com/gag/a34rO3Q)
- - 😝 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
- - 💣 [Rogue](http://9gag.com/gag/aD255RB)
+ - 😝 [Highguard didn&#39;t flop... see!?](http://9gag.com/gag/amowQb6)
+ - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 💣 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
  - 😝 [Just squeeze it](http://9gag.com/gag/aND55Or)
- - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
+ - 👉 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)<!-- MEMES:END -->
 
 ---
 

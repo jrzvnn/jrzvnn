@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [114 times](http://9gag.com/gag/ajPw448)
- - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 💣 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)
- - 😝 [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)
- - 👉 [Made me laugh](http://9gag.com/gag/aD25ejN)<!-- MEMES:END -->
+ - 😝 [Rogue](http://9gag.com/gag/aD255RB)
+ - 😝 [Diversity](http://9gag.com/gag/adBwDNM)
+ - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
+ - 👉 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)<!-- MEMES:END -->
 
 ---
 

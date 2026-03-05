@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone finally found a way to skateboard in GTA 5.](http://9gag.com/gag/aW455b4)
- - 😝 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)
- - 💣 [Twitter age](http://9gag.com/gag/aBy55eZ)
- - 😝 [Those mfers](http://9gag.com/gag/aVv56qK)
- - 👉 [Just squeeze it](http://9gag.com/gag/aND55Or)<!-- MEMES:END -->
+ - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
+ - 😝 [The Teacher We Never Had](http://9gag.com/gag/a34rO3Q)
+ - 💣 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
+ - 😝 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)
+ - 👉 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)<!-- MEMES:END -->
 
 ---
 

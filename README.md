@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 💣 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
+ - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
  - 😝 [Rogue](http://9gag.com/gag/aD255RB)
- - 👉 [American Dream.](http://9gag.com/gag/aZZ5YKX)<!-- MEMES:END -->
+ - 💣 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - 😝 [Pokemon in real life. Ratata vs Meowth](http://9gag.com/gag/a87OxE3)
+ - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 ---
 

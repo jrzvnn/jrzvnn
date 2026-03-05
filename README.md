@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Best Shows to Stream Right Now &lpar;March 2026&rpar;](https://www.wired.com/story/the-best-shows-to-stream-right-now/)
- - [The Controversies Finally Caught Up to Kristi Noem](https://www.wired.com/story/the-controversies-finally-caught-up-to-kristi-noem/)
- - [Meta recently hired the engineering team from Atma Sciences, the company behind the vibe coding app Gizmo, to join its Superintelligence Labs &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/260305/p50#a260305p50)
- - [Why Fandom Discourse Feels Extra Cringe Right Now](https://www.wired.com/story/why-fandom-discourse-feels-extra-cringe-right-now/)
- - [Apple&#39;s MacBook Neo Is Surprisingly Premium for $599](https://www.cnet.com/tech/computing/apple-debuts-budget-macbook-neo-for-599/)<!-- TECH:END -->
+ - [Anthropic launches an early-warning system for potential AI-driven destruction of white-collar jobs, says it shows &quot;limited evidence&quot; of AI-led job loss so far &lpar;Courtenay Brown/Axios&rpar;](http://www.techmeme.com/260305/p53#a260305p53)
+ - [Microsoft&#39;s new gaming CEO, Asha Sharma, teases the next-gen Xbox, codenamed Project Helix, saying it &quot;will lead in performance and play your Xbox and PC games&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260305/p52#a260305p52)
+ - [Amazon.com is up and down, with login errors and prices not loading](https://www.theverge.com/tech/890215/amazon-is-down-login-prices)
+ - [United Airlines can permanently ban passengers who don’t wear headphones](https://www.theverge.com/transportation/890202/united-airlines-headphones-policy-contract-of-carriage)
+ - [Microsoft teases its next Xbox, says &amp;#8216;Project Helix&amp;#8217; will play PC games too](https://www.theverge.com/games/890194/microsoft-teases-its-next-xbox-says-project-helix-will-play-pc-games-too)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

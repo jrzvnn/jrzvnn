@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone finally found a way to skateboard in GTA 5.](http://9gag.com/gag/aW455b4)
- - 😝 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)
- - 💣 [Just squeeze it](http://9gag.com/gag/aND55Or)
- - 😝 [Those mfers](http://9gag.com/gag/aVv56qK)
- - 👉 [Twitter age](http://9gag.com/gag/aBy55eZ)<!-- MEMES:END -->
+ - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 😝 [Oh how glad I am to live in such a wonderfully providing country!](http://9gag.com/gag/awy2DDQ)
+ - 💣 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
+ - 😝 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
+ - 👉 [Rogue](http://9gag.com/gag/aD255RB)<!-- MEMES:END -->
 
 ---
 

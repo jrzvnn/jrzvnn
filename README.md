@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 💣 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 😝 [Detail level, expert](http://9gag.com/gag/azxw3qZ)
- - 👉 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)<!-- MEMES:END -->
+ - 😝 [Someone finally found a way to skateboard in GTA 5.](http://9gag.com/gag/aW455b4)
+ - 😝 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)
+ - 💣 [Twitter age](http://9gag.com/gag/aBy55eZ)
+ - 😝 [Those mfers](http://9gag.com/gag/aVv56qK)
+ - 👉 [Just squeeze it](http://9gag.com/gag/aND55Or)<!-- MEMES:END -->
 
 ---
 

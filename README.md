@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s new five-year plan introduces an &quot;AI+ action plan&quot;, mentions AI over 50 times, and outlines investments in quantum computing, 6G, embodied AI, and more &lpar;Reuters&rpar;](http://www.techmeme.com/260305/p24#a260305p24)
- - [AI tools can unmask anonymous accounts](https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts)
- - [Nominal, which makes software for the defense, space, energy, and automotive sectors, raised an $80M Series B extension led by Founders Fund at a $1B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/260305/p23#a260305p23)
- - [Reclaim Security, which uses AI-driven automation to remediate threat exposures, raised a $20M Series A led by Acrew Capital and a $6M seed &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260305/p22#a260305p22)
- - [Best Gravel Running Shoes &lpar;2026&rpar;: Salomon, Adidas, Nike](https://www.wired.com/gallery/best-gravel-running-shoes/)<!-- TECH:END -->
+ - [Apple&#39;s MacBook Neo poses a big threat to OEMs like HP, Lenovo, and Dell, as their $599 laptops seem inferior and Windows 11&#39;s reputation is at an all-time low &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260305/p27#a260305p27)
+ - [Ikea’s Matter-compatible smart bulbs are now available in the US](https://www.theverge.com/tech/889820/ikea-matter-over-thread-smart-home-light-bulbs-available-pricing)
+ - [Brain tech startup Science Corp. raised $230M, a source says at a $1.25B valuation, bringing total raised to $489M, to commercialize its implant for blindness &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/260305/p26#a260305p26)
+ - [Apple Music adds optional labels for AI songs and visuals](https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch)
+ - [Lio, which uses AI agents to automate enterprise procurement, including document reading and supplier evaluation, raised a $30M Series A led by a16z &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260305/p25#a260305p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

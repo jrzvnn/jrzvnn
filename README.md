@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s MacBook Neo poses a big threat to OEMs like HP, Lenovo, and Dell, as their $599 laptops seem inferior and Windows 11&#39;s reputation is at an all-time low &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260305/p27#a260305p27)
- - [Ikea’s Matter-compatible smart bulbs are now available in the US](https://www.theverge.com/tech/889820/ikea-matter-over-thread-smart-home-light-bulbs-available-pricing)
- - [Brain tech startup Science Corp. raised $230M, a source says at a $1.25B valuation, bringing total raised to $489M, to commercialize its implant for blindness &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/260305/p26#a260305p26)
- - [Apple Music adds optional labels for AI songs and visuals](https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch)
- - [Lio, which uses AI agents to automate enterprise procurement, including document reading and supplier evaluation, raised a $30M Series A led by a16z &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260305/p25#a260305p25)<!-- TECH:END -->
+ - [Cylake, co-founded by Palo Alto Networks&#39; Nir Zuk to develop an AI-powered cybersecurity platform that doesn&#39;t rely on the public cloud, raised a $45M seed &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260305/p30#a260305p30)
+ - [iPhone 17e vs iPhone 16e: Apple&#39;s low-end, compared](https://appleinsider.com/inside/iphone-17e/vs/iphone-17e-vs-iphone-16e-apples-low-end-compared?utm_source=rss)
+ - [Prediction markets in the news are a dangerous gamble](https://www.theverge.com/podcast/889177/prediction-markets-news-gambling-polymarket-kalshi-iran-war-regulation)
+ - [AWS launches Amazon Connect Health, an agentic AI tool that automates clinical documentation, billing and procedure coding, and patient identity verification &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260305/p29#a260305p29)
+ - [Canada says Sam Altman agreed to take immediate steps to strengthen OpenAI&#39;s safety protocols around notifying police about potentially suspicious ChatGPT use &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/260305/p28#a260305p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

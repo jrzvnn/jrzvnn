@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Sweeney signed away his right to criticize Google until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032)
- - [Sources: OpenAI has held early talks with The Trade Desk to sell ads, and it has projected ads could help double consumer ChatGPT revenue this year to $17B &lpar;The Information&rpar;](http://www.techmeme.com/260304/p45#a260304p45)
- - [Sources: the WH&#39;s data center pledge relies on enforcement by local utilities and states through rate deals, without penalties for tech firms refusing to comply &lpar;Bloomberg&rpar;](http://www.techmeme.com/260304/p44#a260304p44)
- - [AI content in Apple Music can now be labeled, if distributors so choose](https://appleinsider.com/articles/26/03/04/ai-content-in-apple-music-can-now-be-labeled-if-distributors-so-choose?utm_source=rss)
- - [New Mexico child safety trial: Mark Zuckerberg downplayed Meta&#39;s own research on how the company&#39;s apps affect teens; Adam Mosseri made similar comments &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260304/p43#a260304p43)<!-- TECH:END -->
+ - [Sources: OpenAI has picked two law firms to prepare its IPO, which could come as soon as Q4, in one of its first concrete steps toward a public listing &lpar;The Information&rpar;](http://www.techmeme.com/260304/p51#a260304p51)
+ - [Did Live Nation punish a venue by taking Billie Eilish away?](https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats)
+ - [Budget speed: How fast will the low-cost MacBook Neo really be?](https://appleinsider.com/articles/26/03/04/budget-speed-how-fast-will-the-low-cost-macbook-neo-really-be?utm_source=rss)
+ - [Sources: Dario Amodei has been holding talks with the DOD&#39;s Emil Michael in a bid to iron out a contract governing the Pentagon&#39;s access to Anthropic&#39;s models &lpar;Financial Times&rpar;](http://www.techmeme.com/260304/p50#a260304p50)
+ - [MacBook Neo vs M5 MacBook Air: Budget notebooks compared](https://appleinsider.com/inside/macbook-air/vs/macbook-neo-vs-m5-macbook-air-budget-notebooks-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

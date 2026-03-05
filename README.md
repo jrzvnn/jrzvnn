@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Sweeney signed away his right to criticize Google until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032)
  - [Sources: OpenAI has held early talks with The Trade Desk to sell ads, and it has projected ads could help double consumer ChatGPT revenue this year to $17B &lpar;The Information&rpar;](http://www.techmeme.com/260304/p45#a260304p45)
  - [Sources: the WH&#39;s data center pledge relies on enforcement by local utilities and states through rate deals, without penalties for tech firms refusing to comply &lpar;Bloomberg&rpar;](http://www.techmeme.com/260304/p44#a260304p44)
  - [AI content in Apple Music can now be labeled, if distributors so choose](https://appleinsider.com/articles/26/03/04/ai-content-in-apple-music-can-now-be-labeled-if-distributors-so-choose?utm_source=rss)
- - [New Mexico child safety trial: Mark Zuckerberg downplayed Meta&#39;s own research on how the company&#39;s apps affect teens; Adam Mosseri made similar comments &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260304/p43#a260304p43)
- - [These $500 Windows Laptops Show the MacBook Neo’s Competition](https://www.wired.com/story/asus-vivobook-14-deal-macbook-neo/)<!-- TECH:END -->
+ - [New Mexico child safety trial: Mark Zuckerberg downplayed Meta&#39;s own research on how the company&#39;s apps affect teens; Adam Mosseri made similar comments &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260304/p43#a260304p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

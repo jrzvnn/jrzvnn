@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway](https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/)
  - [Roku&amp;#8217;s solution to streaming decision fatigue is a trivia game](https://www.theverge.com/streaming/890312/roku-roklue-trivia-game)
  - [Anthropic says Claude&#39;s free active users grew 60%+ and daily signups grew 4x since the start of the year, with Monday being its strongest day ever &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260305/p54#a260305p54)
  - [ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns](https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 6 #733](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-6-733/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 6, #999](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-6-999/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 6 #733](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-6-733/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway](https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/)
- - [Roku&amp;#8217;s solution to streaming decision fatigue is a trivia game](https://www.theverge.com/streaming/890312/roku-roklue-trivia-game)
- - [Anthropic says Claude&#39;s free active users grew 60%+ and daily signups grew 4x since the start of the year, with Monday being its strongest day ever &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260305/p54#a260305p54)
- - [ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns](https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 6 #733](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-6-733/)<!-- TECH:END -->
+ - [Sources: the US is considering requiring countries whose companies buy large volumes of Nvidia and AMD AI chips to invest in US AI infrastructure &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260305/p56#a260305p56)
+ - [Lawmakers just advanced online safety laws that require age verification at the app store](https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act)
+ - [The Pentagon formally labels Anthropic a supply-chain risk](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk)
+ - [Sources: Together AI is in talks to raise ~$1B at a $7.5B pre-money valuation, up from $3.3B in 2025; its annualized revenue has hit ~$1B, up 3x+ from mid-2025 &lpar;The Information&rpar;](http://www.techmeme.com/260305/p55#a260305p55)
+ - [Here’s Every Country Directly Impacted by the War on Iran](https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

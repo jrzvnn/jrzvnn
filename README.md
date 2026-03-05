@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [STFU David go eat shit my phone take pictures just as good](http://9gag.com/gag/aZZ5Xo6)
- - 😝 [Bro got betrayed by his own kind](http://9gag.com/gag/aAy55Vg)
- - 💣 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)
- - 😝 [Someone finally found a way to skateboard in GTA 5.](http://9gag.com/gag/aW455b4)
- - 👉 [Just squeeze it](http://9gag.com/gag/aND55Or)<!-- MEMES:END -->
+ - 😝 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
+ - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 💣 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
+ - 😝 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - 👉 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)<!-- MEMES:END -->
 
 ---
 

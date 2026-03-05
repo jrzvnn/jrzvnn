@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Highguard didn&#39;t flop... see!?](http://9gag.com/gag/amowQb6)
- - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - 💣 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
- - 😝 [Just squeeze it](http://9gag.com/gag/aND55Or)
- - 👉 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)<!-- MEMES:END -->
+ - 😝 [American Dream.](http://9gag.com/gag/aZZ5YKX)
+ - 😝 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
+ - 💣 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 😝 [He&#39;s just making it worse](http://9gag.com/gag/aVv56Qd)
+ - 👉 [Rogue](http://9gag.com/gag/aD255RB)<!-- MEMES:END -->
 
 ---
 

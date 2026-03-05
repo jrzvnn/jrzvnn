@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Sheets Under $200 and $100 &lpar;2026&rpar;: Cotton, Bamboo, Organic](https://www.wired.com/story/best-sheets/)
- - [Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed](https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/)
- - [Amsterdam-based Silverflow, a cloud-native card payment processing service with a single API to card networks, raised a $40M Series B led by Picus Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260305/p14#a260305p14)
- - [Bill Gates&amp;#8217; nuclear company is the first to get approval to build next-gen reactor](https://www.theverge.com/science/889768/bill-gates-terrapower-nuclear-wyoming-reactor)
- - [Huawei dominated MWC as the largest exhibitor, illustrating the challenge facing the EU as it pushes to outlaw the Chinese supplier from European networks &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/260305/p13#a260305p13)<!-- TECH:END -->
+ - [China&#39;s Hang Seng Tech Index, which includes Chinese tech giants like Tencent and Alibaba, is down 28% since October 2025, shedding nearly $600B in market value &lpar;Bloomberg&rpar;](http://www.techmeme.com/260305/p17#a260305p17)
+ - [Nothing Has 2 New Midrange Phones, but Only 1 Will Be Sold in the US](https://www.wired.com/story/nothing-phone-4a-and-phone-4a-pro-and-headphone-a/)
+ - [Nothing’s Headphone A are something worth considering](https://www.theverge.com/tech/889615/nothing-headphone-a-review)
+ - [Nothing is finally covering up with the metal Phone 4A Pro](https://www.theverge.com/tech/889769/nothing-phone-4a-pro-design-opaque-transparent)
+ - [How to Survive Daylight Saving Time: Start Early &lpar;2026&rpar;](https://www.wired.com/story/survive-daylight-savings-by-starting-early/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

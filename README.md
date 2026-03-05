@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Officials say NATO&#39;s main focus at its July summit will be on investments into drones and AI systems rather than primarily conventional defense hardware &lpar;Bloomberg&rpar;](http://www.techmeme.com/260305/p6#a260305p6)
- - [Many of Stockholm&#39;s thriving tech businesses consider relocating as they look to scale up, amid growing US interest in Swedish AI startups Lovable and Legora &lpar;Orlando Crowcroft/Financial Times&rpar;](http://www.techmeme.com/260305/p5#a260305p5)
- - [OpenAI is scaling back shopping directly inside ChatGPT via Instant Checkout by having checkouts instead take place in the specific apps that plug into ChatGPT &lpar;The Information&rpar;](http://www.techmeme.com/260305/p4#a260305p4)
- - [Steve Bannon, Susan Rice, and Richard Branson among the broad coalition of leaders signing the Future of Life Institute&#39;s Pro-Human AI Declaration &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260305/p3#a260305p3)
- - [Sources: Nvidia has reallocated manufacturing capacity at TSMC away from making H200 chips intended for Chinese market to its latest Vera Rubin products &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260305/p2#a260305p2)<!-- TECH:END -->
+ - [A look at Munich&#39;s UnternehmerTUM, which tops the FT ranking of Europe&#39;s startup hubs for a third straight year and has supported 1,000+ companies since 2002 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/260305/p12#a260305p12)
+ - [Grammarly is offering an AI-powered tool called &quot;Expert Review&quot; that simulates feedback from famous writers, dead and living, without their permission &lpar;Miles Klee/Wired&rpar;](http://www.techmeme.com/260305/p11#a260305p11)
+ - [Staff memo: Alibaba says it is setting up a new task force to accelerate foundation AI model development, after the resignation of Qwen AI head Lin Junyang &lpar;Reuters&rpar;](http://www.techmeme.com/260305/p10#a260305p10)
+ - [In its latest quarterly report, Capcom says &quot;PC sales account for approximately 50% of total unit sales, and we expect this ratio to continue increasing&quot; &lpar;Shaun Prescott/PC Gamer&rpar;](http://www.techmeme.com/260305/p9#a260305p9)
+ - [Oslo-based Unleash, which develops tools that let enterprises manage risks in AI-accelerated software development, raised a $35M Series B led by One Peak &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/260305/p8#a260305p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

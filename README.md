@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cylake, co-founded by Palo Alto Networks&#39; Nir Zuk to develop an AI-powered cybersecurity platform that doesn&#39;t rely on the public cloud, raised a $45M seed &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260305/p30#a260305p30)
- - [iPhone 17e vs iPhone 16e: Apple&#39;s low-end, compared](https://appleinsider.com/inside/iphone-17e/vs/iphone-17e-vs-iphone-16e-apples-low-end-compared?utm_source=rss)
- - [Prediction markets in the news are a dangerous gamble](https://www.theverge.com/podcast/889177/prediction-markets-news-gambling-polymarket-kalshi-iran-war-regulation)
- - [AWS launches Amazon Connect Health, an agentic AI tool that automates clinical documentation, billing and procedure coding, and patient identity verification &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260305/p29#a260305p29)
- - [Canada says Sam Altman agreed to take immediate steps to strengthen OpenAI&#39;s safety protocols around notifying police about potentially suspicious ChatGPT use &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/260305/p28#a260305p28)<!-- TECH:END -->
+ - [Match eliminates the role of COO, putting Hesam Hosseini out of a job after 18 years with the dating app giant, as part of changes under CEO Spencer Rascoff &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260305/p33#a260305p33)
+ - [You can now fill your home with Ikea’s cheap and tiny new Bluetooth speaker](https://www.theverge.com/tech/889878/ikea-bluetooth-speaker-kallsup-now-available-price)
+ - [Stockholm-based Validio, whose agentic platform autonomously detects and resolves data quality issues, raised a $30M Series A, bringing its total raised to $47M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260305/p32#a260305p32)
+ - [Revolut, which has about 70M clients in 40 markets, applies for a US bank charter and appoints former Visa executive Cetin Duransoy as its new US CEO &lpar;Reuters&rpar;](http://www.techmeme.com/260305/p31#a260305p31)
+ - [Preorders for Apple’s colorful MacBook Neo come with a $25 gift card](https://www.theverge.com/gadgets/889199/macbook-neo-metroid-prime-4-beyond-switch-2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

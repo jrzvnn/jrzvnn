@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KEF Muo Bluetooth Speaker: Portable Hi-Fi](https://www.wired.com/review/kef-muo-2026/)
  - [Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup](https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal)
  - [Analysis: Nintendo&#39;s software sales are under threat from soaring NAND prices; in December, the average game sales per console were 2.18, down from 3.88 in 2018 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260305/p19#a260305p19)
  - [Google expands its AI-powered Canvas workspace to everyone in the US using AI Mode in Search, letting them get information, organize plans, draft docs, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260305/p18#a260305p18)
- - [Suunto Vertical 2 Review: Catching Up to the Pack](https://www.wired.com/review/suunto-vertical-2/)
- - [China&#39;s Hang Seng Tech Index, which includes Chinese tech giants like Tencent and Alibaba, is down 28% since October 2025, shedding nearly $600B in market value &lpar;Bloomberg&rpar;](http://www.techmeme.com/260305/p17#a260305p17)<!-- TECH:END -->
+ - [Suunto Vertical 2 Review: Catching Up to the Pack](https://www.wired.com/review/suunto-vertical-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

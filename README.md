@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [72 &#39;Buy It for Life&#39; Products: Cast-Iron, Tools, Speakers, Chairs, and More](https://www.wired.com/story/buy-it-for-life/)
+ - [Valve’s Steam Machine may not launch this year](https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory)
+ - [IDC: India&#39;s PC market had its strongest year on record in 2025, with shipments up 10.2% YoY to 15.9M units; commercial buyers accounted for 52.9% of shipments &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260306/p26#a260306p26)
  - [How Cursor is evolving through its Composer coding models built on Chinese open models, as coding agents like Claude Code threaten to make code editors obsolete &lpar;Forbes&rpar;](http://www.techmeme.com/260306/p25#a260306p25)
- - [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews)
- - [President Trump signs an EO aimed at fighting cybercrime, directing officials to identify robust tools to combat transnational criminal organizations &lpar;Catherine Lucey/Bloomberg&rpar;](http://www.techmeme.com/260306/p24#a260306p24)
- - [The best microSD Express card for the Switch 2 is the cheapest one you can find](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
- - [Sources: Oracle and OpenAI abandoned plans to expand a Stargate Texas data center amid financing disputes; Meta considers leasing the planned expansion site &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p23#a260306p23)<!-- TECH:END -->
+ - [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

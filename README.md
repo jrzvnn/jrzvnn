@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hayden AI, which raised $180M for its traffic management system, sues its ex-CEO Chris Carson Jr. for allegedly using its data to start a competitor and more &lpar;William Hicks/San Francisco Business ...&rpar;](http://www.techmeme.com/260306/p10#a260306p10)
+ - [The Trump phone was a no-show at the world’s biggest mobile show](https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc)
+ - [Trump&amp;#8217;s surgeon general nominee is running the wellness grifter playbook perfectly](https://www.theverge.com/column/889922/optimizer-casey-means-wellness-influencer-playbook)
  - [New iPads mean new accessories &amp; ESR has productivity-boosting options](https://appleinsider.com/articles/26/03/06/new-ipads-mean-new-accessories-esr-has-productivity-boosting-options?utm_source=rss)
- - [Mozilla says Claude Opus 4.6 found 100+ bugs in Firefox in two weeks in January, 14 of them high-severity, more than the bugs typically reported in two months &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260306/p9#a260306p9)
- - [MacBook Neo, Studio Display XDR, iPhone 17e and more, on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/06/macbook-neo-studio-display-xdr-iphone-17e-and-more-on-the-appleinsider-podcast?utm_source=rss)
- - [11 Best USB Flash Drives &lpar;2026&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [Indie games are turning the act of looking into an art](https://www.theverge.com/entertainment/889978/hidden-object-games-indie)<!-- TECH:END -->
+ - [Mozilla says Claude Opus 4.6 found 100+ bugs in Firefox in two weeks in January, 14 of them high-severity, more than the bugs typically reported in two months &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260306/p9#a260306p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

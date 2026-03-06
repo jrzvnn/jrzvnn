@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [End of the beniginging](http://9gag.com/gag/an7woL5)
+ - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
  - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - 💣 [Where they went](http://9gag.com/gag/aE055ro)
- - 😝 [I fell in love with this](http://9gag.com/gag/a1mjyvG)
- - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
+ - 💣 [His reaction is everything](http://9gag.com/gag/aXP1ybd)
+ - 😝 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)
+ - 👉 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
 
 ---
 

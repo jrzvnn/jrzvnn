@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic launches Claude Marketplace, letting companies buy third-party software using some of their committed annual spending on Anthropic&#39;s services &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260306/p21#a260306p21)
+ - [The Future of Iran’s Internet Is More Uncertain Than Ever](https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/)
+ - [Nintendo of America sues the US government, seeking a refund with interest for tariffs that the company says Trump implemented in &quot;unlawful&quot; EOs &lpar;Nicole Carpenter/Aftermath&rpar;](http://www.techmeme.com/260306/p20#a260306p20)
  - [Apple thinks it can lure in the &#39;Apple curious&#39; for $599](https://appleinsider.com/articles/26/03/06/apple-thinks-it-can-lure-in-the-apple-curious-for-599?utm_source=rss)
- - [An interview with Pentagon AI head Emil Michael about Anthropic leaking to the media to win anti-Trump users, dealing with Amodei and his &quot;politburo&quot;, and more &lpar;Pirate Wires&rpar;](http://www.techmeme.com/260306/p19#a260306p19)
- - [Nintendo is suing the US government for a refund of Trump&amp;#8217;s illegal tariffs](https://www.theverge.com/games/890861/nintendo-lawsuit-tariffs-donald-trump)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [The AI Doc is an overwrought hype piece for doomers and accelerationists alike](https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review)<!-- TECH:END -->
+ - [An interview with Pentagon AI head Emil Michael about Anthropic leaking to the media to win anti-Trump users, dealing with Amodei and his &quot;politburo&quot;, and more &lpar;Pirate Wires&rpar;](http://www.techmeme.com/260306/p19#a260306p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

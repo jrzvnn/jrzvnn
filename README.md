@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple thinks it can lure in the &#39;Apple curious&#39; for $599](https://appleinsider.com/articles/26/03/06/apple-thinks-it-can-lure-in-the-apple-curious-for-599?utm_source=rss)
+ - [An interview with Pentagon AI head Emil Michael about Anthropic leaking to the media to win anti-Trump users, dealing with Amodei and his &quot;politburo&quot;, and more &lpar;Pirate Wires&rpar;](http://www.techmeme.com/260306/p19#a260306p19)
+ - [Nintendo is suing the US government for a refund of Trump&amp;#8217;s illegal tariffs](https://www.theverge.com/games/890861/nintendo-lawsuit-tariffs-donald-trump)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [The AI Doc is an overwrought hype piece for doomers and accelerationists alike](https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review)
- - [OpenAI rolls out Codex Security, an AI agent that evolved from its research project Aardvark to automate vulnerability discovery, validation, and remediation &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260306/p18#a260306p18)
- - [Google joins Microsoft in saying it will keep working with Anthropic on non-defense projects after the DOD designated the startup a supply chain risk &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/260306/p17#a260306p17)
- - [Marvell stock jumps 20%+ after the chip company reported Q4 revenue up 22% YoY to $2.2B and issued strong guidance citing growing AI demand &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260306/p16#a260306p16)<!-- TECH:END -->
+ - [The AI Doc is an overwrought hype piece for doomers and accelerationists alike](https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

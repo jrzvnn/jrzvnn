@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: the 2024 cyber-attack by the Scattered Spider group on Transport For London resulted in the theft of personal data of ~10M people &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/260306/p13#a260306p13)
+ - [MacBook Neo proves Apple can build a $599 laptop without cheapening the Mac](https://appleinsider.com/articles/26/03/06/macbook-neo-proves-apple-can-build-a-599-laptop-without-cheapening-the-mac?utm_source=rss)
+ - [OpenAI says it is delaying the launch of ChatGPT Adult Mode, originally planned for Q1, to focus on higher priorities, like gains in intelligence &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260306/p12#a260306p12)
  - [Save up to $100 on Apple&#39;s new M4 iPad Air at Amazon](https://appleinsider.com/articles/26/03/06/save-up-to-100-on-apples-new-m4-ipad-air-at-amazon?utm_source=rss)
- - [You can already save up to $50 on the new M4 iPad Air](https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale)
- - [M5 13-inch MacBook Air vs M5 14-inch MacBook Pro -- compared](https://appleinsider.com/articles/26/03/06/m5-13-inch-macbook-air-vs-m5-14-inch-macbook-pro----compared?utm_source=rss)
- - [Robinhood debuts its $658.4M venture fund on the NYSE, pricing the IPO at $25 per share, offering retail investors access to private companies like Databricks &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/260306/p11#a260306p11)
- - [9 Hardy Houseplants That Practically Take Care of Themselves](https://www.cnet.com/news/hardest-houseplants-to-kill/)<!-- TECH:END -->
+ - [23 of the Absolute Best TV Shows on Hulu You Shouldn&#39;t Miss](https://www.cnet.com/tech/services-and-software/best-tv-shows-watch-hulu/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

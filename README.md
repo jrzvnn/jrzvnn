@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Cursor is evolving through its Composer coding models built on Chinese open models, as coding agents like Claude Code threaten to make code editors obsolete &lpar;Forbes&rpar;](http://www.techmeme.com/260306/p25#a260306p25)
+ - [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews)
  - [President Trump signs an EO aimed at fighting cybercrime, directing officials to identify robust tools to combat transnational criminal organizations &lpar;Catherine Lucey/Bloomberg&rpar;](http://www.techmeme.com/260306/p24#a260306p24)
  - [The best microSD Express card for the Switch 2 is the cheapest one you can find](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
- - [Sources: Oracle and OpenAI abandoned plans to expand a Stargate Texas data center amid financing disputes; Meta considers leasing the planned expansion site &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p23#a260306p23)
- - [Q&amp;A with Block CEO Jack Dorsey on laying off 40% of the company&#39;s workers, wanting Block to &quot;feel like a mini AGI&quot;, his take on Elon Musk&#39;s X, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/260306/p22#a260306p22)
- - [The Trump administration says it can’t process tariff refunds because of computer problems](https://www.theverge.com/policy/890904/trump-administration-cbp-tariff-refunds-technology-issues)<!-- TECH:END -->
+ - [Sources: Oracle and OpenAI abandoned plans to expand a Stargate Texas data center amid financing disputes; Meta considers leasing the planned expansion site &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p23#a260306p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [7 Laptop Docking Stations to Unlock the Full Desktop Experience &lpar;2026&rpar;](https://www.wired.com/gallery/best-laptop-docking-stations/)
  - [From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’](https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/)
- - [Indonesia says it will ban &quot;high risk platforms&quot;, including YouTube, TikTok, Facebook, Instagram, Threads, X, and Roblox, for children under 16 from March 28 &lpar;Associated Press&rpar;](http://www.techmeme.com/260306/p7#a260306p7)
- - [Why Is Alexa+ So Bad?](https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/)
- - [US federal regulators say banks don&#39;t need extra capital against losses when dealing with blockchain-based securities, calling their rules &quot;technology neutral&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260306/p6#a260306p6)<!-- TECH:END -->
+ - [Indonesia says it will ban &quot;high-risk&quot; platforms, including YouTube, TikTok, Facebook, Instagram, Threads, X, and Roblox, for children under 16 from March 28 &lpar;Associated Press&rpar;](http://www.techmeme.com/260306/p7#a260306p7)
+ - [Your Best Streaming Bet May Be a Skinny TV Package. But What Are They?](https://www.cnet.com/tech/services-and-software/your-best-bet-may-be-a-skinny-streaming-tv-package-but-what-are-they/)
+ - [Why Is Alexa+ So Bad?](https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

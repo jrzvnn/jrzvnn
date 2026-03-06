@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marley Spoon Meal Kit Review 2026: Less Martha, More Moroccan](https://www.wired.com/review/marley-spoon-meal-kit-2026/)
  - [The Pentagon is right in trying to coerce Anthropic as AI may become a superweapon and nation-states must have a monopoly on the use of force &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/260306/p28#a260306p28)
- - [Sources: AI chipmaker Cerebras could raise ~$2B in its IPO as soon as April; it withdrew its previous IPO registration in October, nearly a year after filing &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p27#a260306p27)
- - [72 &#39;Buy It for Life&#39; Products: Cast-Iron, Tools, Speakers, Chairs, and More](https://www.wired.com/story/buy-it-for-life/)
- - [Valve’s Steam Machine may not launch this year](https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory)
- - [IDC: India&#39;s PC market had its strongest year on record in 2025, with shipments up 10.2% YoY to 15.9M units; commercial buyers accounted for 52.9% of shipments &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260306/p26#a260306p26)<!-- TECH:END -->
+ - [The Best Fantasy Movies to Stream on Prime Video Now](https://www.cnet.com/tech/services-and-software/prime-video-best-fantasy-movies/)
+ - [United Can Now Ban Passengers Who Listen to Audio and Video Without Headphones](https://www.cnet.com/tech/mobile/united-can-now-ban-passengers-who-use-phones-without-headphones/)
+ - [Sources: AI chipmaker Cerebras could raise ~$2B in its IPO as soon as April; it withdrew its previous IPO registration in October, nearly a year after filing &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p27#a260306p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

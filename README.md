@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where they went](http://9gag.com/gag/aE055ro)
+ - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
  - 😝 [American Dream.](http://9gag.com/gag/aZZ5YKX)
- - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 😝 [I fell in love with this](http://9gag.com/gag/a1mjyvG)
+ - 💣 [Where they went](http://9gag.com/gag/aE055ro)
+ - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
  - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---

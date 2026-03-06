@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jack Dorsey Is Ready to Explain the Block Layoffs](https://www.wired.com/story/jack-dorsey-explains-block-layoffs/)
  - [Sleep Apnea Often Goes Undetected in Women. That’s Starting to Change](https://www.wired.com/story/sleep-apnea-women-detection-treatment/)
  - [A look at SpaceX&#39;s IPO, reportedly aiming to raise up to $50B at a $1.75T valuation, more than seven times higher than its ~$200B valuation in October 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/260306/p4#a260306p4)
  - [The War on Iran Puts Global Chip Supplies and AI Expansion at Risk](https://www.wired.com/story/the-war-on-iran-puts-global-chip-supply-and-ai-expansion-at-risk/)
- - [Mattress Firm Coupons and Discounts: Save Up to $600](https://www.wired.com/story/mattress-firm-coupon/)
- - [KitchenAid Promo Codes and Discounts: Save Up To 50%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Mattress Firm Coupons and Discounts: Save Up to $600](https://www.wired.com/story/mattress-firm-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

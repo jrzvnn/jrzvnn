@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
  - 😝 [American Dream.](http://9gag.com/gag/aZZ5YKX)
- - 💣 [Something about this doesn&#39;t seem right](http://9gag.com/gag/aD25ewK)
+ - 😝 [Goth donut](http://9gag.com/gag/aW4530x)
+ - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
  - 😝 [The Nokia N91 was released 20 years ago and had an incredible feature for its time: a built-in hard drive. It was the smallest HDD ever created by Toshiba. Initially, the model was released with a 4GB drive, and later an 8GB model was released.](http://9gag.com/gag/axyw57M)
- - 👉 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
+ - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 ---
 

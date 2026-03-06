@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPads mean new accessories &amp; ESR has productivity-boosting options](https://appleinsider.com/articles/26/03/06/new-ipads-mean-new-accessories-esr-has-productivity-boosting-options?utm_source=rss)
+ - [Mozilla says Claude Opus 4.6 found 100+ bugs in Firefox in two weeks in January, 14 of them high-severity, more than the bugs typically reported in two months &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260306/p9#a260306p9)
  - [MacBook Neo, Studio Display XDR, iPhone 17e and more, on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/06/macbook-neo-studio-display-xdr-iphone-17e-and-more-on-the-appleinsider-podcast?utm_source=rss)
- - [Indie games are turning the act of looking into an art](https://www.theverge.com/entertainment/889978/hidden-object-games-indie)
- - [M5 Max MacBook Pro benchmarks beat M3 Ultra Mac Studio](https://appleinsider.com/articles/26/03/06/m5-max-geekbench-scores-show-impressive-results-beating-out-m3-ultra-cpu-matching-gpu?utm_source=rss)
- - [This phone starts fires on purpose](https://www.theverge.com/podcast/890324/mwc-2026-phones-epic-google-vergecast)
- - [Sources: SoftBank is seeking a bridge loan of up to $40B, its largest-ever borrowing denominated solely in dollars, to help finance its investment in OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p8#a260306p8)<!-- TECH:END -->
+ - [11 Best USB Flash Drives &lpar;2026&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
+ - [Indie games are turning the act of looking into an art](https://www.theverge.com/entertainment/889978/hidden-object-games-indie)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

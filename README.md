@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)
+ - 😝 [Marine Sgt. Brian McGuinness stood up in Congress to say `No one wants to fight for Israel`](http://9gag.com/gag/azxw3dB)
  - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 💣 [114 times](http://9gag.com/gag/ajPw448)
- - 😝 [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)
- - 👉 [Made me laugh](http://9gag.com/gag/aD25ejN)<!-- MEMES:END -->
+ - 💣 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
+ - 😝 [Diversity](http://9gag.com/gag/adBwDNM)
+ - 👉 [American Dream.](http://9gag.com/gag/aZZ5YKX)<!-- MEMES:END -->
 
 ---
 

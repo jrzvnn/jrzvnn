@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American Dream.](http://9gag.com/gag/aZZ5YKX)
  - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - 💣 [Goth donut](http://9gag.com/gag/aW4530x)
- - 😝 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)
- - 👉 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
+ - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 💣 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
+ - 😝 [Where they went](http://9gag.com/gag/aE055ro)
+ - 👉 [American Dream.](http://9gag.com/gag/aZZ5YKX)<!-- MEMES:END -->
 
 ---
 

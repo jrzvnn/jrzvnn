@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Dorsey Is Ready to Explain the Block Layoffs](https://www.wired.com/story/jack-dorsey-explains-block-layoffs/)
- - [Sleep Apnea Often Goes Undetected in Women. That’s Starting to Change](https://www.wired.com/story/sleep-apnea-women-detection-treatment/)
- - [A look at SpaceX&#39;s IPO, reportedly aiming to raise up to $50B at a $1.75T valuation, more than seven times higher than its ~$200B valuation in October 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/260306/p4#a260306p4)
- - [The War on Iran Puts Global Chip Supplies and AI Expansion at Risk](https://www.wired.com/story/the-war-on-iran-puts-global-chip-supply-and-ai-expansion-at-risk/)
- - [Mattress Firm Coupons and Discounts: Save Up to $600](https://www.wired.com/story/mattress-firm-coupon/)<!-- TECH:END -->
+ - [US federal regulators say banks don&#39;t need extra capital against losses when dealing with blockchain-based securities, calling their rules &quot;technology neutral&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260306/p6#a260306p6)
+ - [Posture Correctors That Will Straighten You Out &lpar;2026&rpar;](https://www.wired.com/gallery/posture-correctors/)
+ - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
+ - [Microsoft plans to keep Anthropic&#39;s tools embedded in client products, after its lawyers determine the DOD&#39;s designation doesn&#39;t apply to non-defense projects &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260306/p5#a260306p5)
+ - [Jack Dorsey Is Ready to Explain the Block Layoffs](https://www.wired.com/story/jack-dorsey-explains-block-layoffs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

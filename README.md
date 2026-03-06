@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [End of the beniginging](http://9gag.com/gag/an7woL5)
  - 😝 [Where they went](http://9gag.com/gag/aE055ro)
- - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
- - 💣 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 👉 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)<!-- MEMES:END -->
+ - 💣 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
+ - 😝 [Driveshaft has left the chat](http://9gag.com/gag/a7oXR5r)
+ - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 ---
 

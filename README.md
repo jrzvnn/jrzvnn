@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hulu and Disney Plus for $5? Yes, This Deal Is Real](https://www.cnet.com/deals/hulu-and-disney-plus-for-5-yes-this-deal-is-real/)
  - [Hayden AI, which raised $180M for its traffic management system, sues its ex-CEO Chris Carson Jr. for allegedly using its data to start a competitor and more &lpar;William Hicks/San Francisco Business ...&rpar;](http://www.techmeme.com/260306/p10#a260306p10)
  - [The Trump phone was a no-show at the world’s biggest mobile show](https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc)
  - [Trump&amp;#8217;s surgeon general nominee is running the wellness grifter playbook perfectly](https://www.theverge.com/column/889922/optimizer-casey-means-wellness-influencer-playbook)
- - [New iPads mean new accessories &amp; ESR has productivity-boosting options](https://appleinsider.com/articles/26/03/06/new-ipads-mean-new-accessories-esr-has-productivity-boosting-options?utm_source=rss)
- - [Mozilla says Claude Opus 4.6 found 100+ bugs in Firefox in two weeks in January, 14 of them high-severity, more than the bugs typically reported in two months &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260306/p9#a260306p9)<!-- TECH:END -->
+ - [New iPads mean new accessories &amp; ESR has productivity-boosting options](https://appleinsider.com/articles/26/03/06/new-ipads-mean-new-accessories-esr-has-productivity-boosting-options?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

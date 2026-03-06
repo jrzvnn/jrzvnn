@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: AI chipmaker Cerebras could raise ~$2B in its IPO as soon as April; it withdrew its previous IPO registration in October, nearly a year after filing &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p27#a260306p27)
  - [72 &#39;Buy It for Life&#39; Products: Cast-Iron, Tools, Speakers, Chairs, and More](https://www.wired.com/story/buy-it-for-life/)
  - [Valve’s Steam Machine may not launch this year](https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory)
  - [IDC: India&#39;s PC market had its strongest year on record in 2025, with shipments up 10.2% YoY to 15.9M units; commercial buyers accounted for 52.9% of shipments &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260306/p26#a260306p26)
- - [How Cursor is evolving through its Composer coding models built on Chinese open models, as coding agents like Claude Code threaten to make code editors obsolete &lpar;Forbes&rpar;](http://www.techmeme.com/260306/p25#a260306p25)
- - [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews)<!-- TECH:END -->
+ - [How Cursor is evolving through its Composer coding models built on Chinese open models, as coding agents like Claude Code threaten to make code editors obsolete &lpar;Forbes&rpar;](http://www.techmeme.com/260306/p25#a260306p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

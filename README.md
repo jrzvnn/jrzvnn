@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won&#39;t Work](https://www.wired.com/story/deveillance-spectre-i/)
+ - [The Trump administration debuts its cyber strategy, outlining priorities including promoting offense operations, securing AI tech, and streamlining regulations &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/260306/p30#a260306p30)
+ - [Valve says it still plans to ship the Steam Machine in 2026](https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory)
  - [Sources: the US believes Chinese state-affiliated hackers breached an FBI computer network that holds information related to some domestic surveillance orders &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/260306/p29#a260306p29)
- - [Marley Spoon Meal Kit Review 2026: Less Martha, More Moroccan](https://www.wired.com/review/marley-spoon-meal-kit-2026/)
- - [The Pentagon is right in trying to coerce Anthropic as AI may become a superweapon and nation-states must have a monopoly on the use of force &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/260306/p28#a260306p28)
- - [The Best Fantasy Movies to Stream on Prime Video Now](https://www.cnet.com/tech/services-and-software/prime-video-best-fantasy-movies/)
- - [United Can Now Ban Passengers Who Listen to Audio and Video Without Headphones](https://www.cnet.com/tech/mobile/united-can-now-ban-passengers-who-use-phones-without-headphones/)<!-- TECH:END -->
+ - [Marley Spoon Meal Kit Review 2026: Less Martha, More Moroccan](https://www.wired.com/review/marley-spoon-meal-kit-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

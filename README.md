@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
- - 😝 [Goth donut](http://9gag.com/gag/aW4530x)
- - 💣 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
+ - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
+ - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
  - 😝 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)
- - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
+ - 👉 [Goth donut](http://9gag.com/gag/aW4530x)<!-- MEMES:END -->
 
 ---
 

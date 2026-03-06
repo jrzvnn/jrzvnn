@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Tim Sweeney on the Google/Epic settlement, what Play Store changes mean for developers, why Epic&#39;s case against Apple is different, and more &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/260306/p1#a260306p1)
+ - [Cursor launches Automations, a new tool that lets users automatically launch agents triggered through new additions to a codebase, a Slack message, or a timer &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260305/p65#a260305p65)
  - [Filing: the US SEC settles with Tron founder Justin Sun over its 2023 case that alleged securities fraud; a Tron-affiliated company will pay the $10M fine &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/260305/p64#a260305p64)
  - [ByteDance&#39;s Seedance 2.0 AI model is held back by limited compute resources that create a bottleneck, forcing users to wait hours to generate a single video &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260305/p63#a260305p63)
- - [Apple&#39;s long-awaited HomeHub rumored to launch in fall 2026](https://appleinsider.com/articles/26/03/06/apples-long-awaited-homehub-rumored-to-launch-in-fall-2026?utm_source=rss)
- - [McDonald&#39;s CEO Burger Video: Ketchup With This Bizarre New Meme](https://www.cnet.com/news/mcdonalds-ceo-burger-video-ketchup-with-this-bizarre-new-meme/)
- - [Sources: OpenAI employees claim the DOD tested Microsoft&#39;s Azure version of OpenAI models before OpenAI lifted its blanket ban on military use in January 2024 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260305/p62#a260305p62)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, March 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

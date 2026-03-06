@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cluely&#39;s CEO, Roy Lee, says he lied about its $7M annual recurring revenue last year, calling it &quot;the only blatantly dishonest thing I&#39;ve said publicly online&quot; &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260305/p57#a260305p57)
  - [Sources: the US is considering requiring countries whose companies buy large volumes of Nvidia and AMD AI chips to invest in US AI infrastructure &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260305/p56#a260305p56)
  - [Lawmakers just advanced online safety laws that require age verification at the app store](https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act)
  - [The Pentagon formally labels Anthropic a supply-chain risk](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk)
- - [Sources: Together AI is in talks to raise ~$1B at a $7.5B pre-money valuation, up from $3.3B in 2025; its annualized revenue has hit ~$1B, up 3x+ from mid-2025 &lpar;The Information&rpar;](http://www.techmeme.com/260305/p55#a260305p55)
- - [Here’s Every Country Directly Impacted by the War on Iran](https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/)<!-- TECH:END -->
+ - [MWC 2026 Last Day Live Updates: A Robot Phone, Xiaomi&#39;s Leitzphone and Labubu-Like Bots](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Laptop Docking Stations to Unlock the Full Desktop Experience &lpar;2026&rpar;](https://www.wired.com/gallery/best-laptop-docking-stations/)
+ - [From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’](https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/)
  - [Indonesia says it will ban &quot;high risk platforms&quot;, including YouTube, TikTok, Facebook, Instagram, Threads, X, and Roblox, for children under 16 from March 28 &lpar;Associated Press&rpar;](http://www.techmeme.com/260306/p7#a260306p7)
  - [Why Is Alexa+ So Bad?](https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/)
- - [US federal regulators say banks don&#39;t need extra capital against losses when dealing with blockchain-based securities, calling their rules &quot;technology neutral&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260306/p6#a260306p6)
- - [Posture Correctors That Will Straighten You Out &lpar;2026&rpar;](https://www.wired.com/gallery/posture-correctors/)
- - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
+ - [US federal regulators say banks don&#39;t need extra capital against losses when dealing with blockchain-based securities, calling their rules &quot;technology neutral&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260306/p6#a260306p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

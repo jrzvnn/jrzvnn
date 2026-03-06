@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mattress Firm Coupons and Discounts: Save Up to $600](https://www.wired.com/story/mattress-firm-coupon/)
+ - [KitchenAid Promo Codes and Discounts: Save Up To 50%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Peacock Promo Codes: 40% Off March 2026](https://www.wired.com/story/peacock-promo-code/)
  - [Rozana, which offers rural e-commerce and logistics services to 21,000 villages across India, raised a $31.6M Series B led by Bertelsmann India Investments &lpar;Gyan Vardhan/Entrackr&rpar;](http://www.techmeme.com/260306/p3#a260306p3)
- - [TurboTax Service Codes: Up to $150 Off | March 2026](https://www.wired.com/story/turbotax-coupon/)
- - [Norton Coupon Codes and Discounts: Up to 58% Off](https://www.wired.com/story/norton-coupon-code/)
- - [Sources: the UK plans to delay copyright rule changes for AI training after a two-month consultation failed to land on a favored proposal among stakeholders &lpar;Financial Times&rpar;](http://www.techmeme.com/260306/p2#a260306p2)<!-- TECH:END -->
+ - [TurboTax Service Codes: Up to $150 Off | March 2026](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

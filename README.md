@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Where they went](http://9gag.com/gag/aE055ro)
  - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
  - 💣 [His reaction is everything](http://9gag.com/gag/aXP1ybd)
- - 😝 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)
- - 👉 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
+ - 😝 [I fell in love with this](http://9gag.com/gag/a1mjyvG)
+ - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---
 

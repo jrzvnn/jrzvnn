@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cluely&#39;s CEO, Roy Lee, says he lied about its $7M annual recurring revenue last year, calling it &quot;the only blatantly dishonest thing I&#39;ve said publicly online&quot; &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260305/p57#a260305p57)
- - [Sources: the US is considering requiring countries whose companies buy large volumes of Nvidia and AMD AI chips to invest in US AI infrastructure &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260305/p56#a260305p56)
- - [Lawmakers just advanced online safety laws that require age verification at the app store](https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act)
- - [The Pentagon formally labels Anthropic a supply-chain risk](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk)
- - [MWC 2026 Last Day Live Updates: A Robot Phone, Xiaomi&#39;s Leitzphone and Labubu-Like Bots](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)<!-- TECH:END -->
+ - [The US Senate passed COPPA 2.0 again, which would create new protections for young users; the bill now heads to the House, where it has struggled to pass &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/260305/p61#a260305p61)
+ - [A look at Cloverleaf, which strikes deals with utility companies and secures land for AI companies and their data center needs; the company has raised $300M &lpar;New York Times&rpar;](http://www.techmeme.com/260305/p60#a260305p60)
+ - [MacBook Neo benchmark results are predictably close to iPhone 16 Pro, M1 comparable](https://appleinsider.com/articles/26/03/06/macbook-neo-benchmark-results-are-predictably-close-to-iphone-16-pro-m1-comparable?utm_source=rss)
+ - [Amazon.com says things are fixed after some issues with logging in and checking out](https://www.theverge.com/tech/890215/amazon-is-down-login-prices)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

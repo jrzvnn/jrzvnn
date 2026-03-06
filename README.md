@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 😝 [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)
- - 💣 [Made me laugh](http://9gag.com/gag/aD25ejN)
+ - 😝 [114 times](http://9gag.com/gag/ajPw448)
+ - 😝 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)
+ - 💣 [Universal TV Show Quality Indicator Chart](http://9gag.com/gag/aYQ50zN)
  - 😝 [This needs to be federal law ASAP](http://9gag.com/gag/a1mjyeb)
- - 👉 [114 times](http://9gag.com/gag/ajPw448)<!-- MEMES:END -->
+ - 👉 [A window to the world](http://9gag.com/gag/aAy5952)<!-- MEMES:END -->
 
 ---
 

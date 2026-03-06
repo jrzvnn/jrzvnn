@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)
- - 😝 [Made me laugh](http://9gag.com/gag/aD25ejN)
- - 💣 [114 times](http://9gag.com/gag/ajPw448)
- - 😝 [Universal TV Show Quality Indicator Chart](http://9gag.com/gag/aYQ50zN)
- - 👉 [A window to the world](http://9gag.com/gag/aAy5952)<!-- MEMES:END -->
+ - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - 💣 [Goth donut](http://9gag.com/gag/aW4530x)
+ - 😝 [One more day... And it&#39;s 3AM again.](http://9gag.com/gag/azxwW7p)
+ - 👉 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
 
 ---
 

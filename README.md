@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [114 times](http://9gag.com/gag/ajPw448)
- - 😝 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)
- - 💣 [Universal TV Show Quality Indicator Chart](http://9gag.com/gag/aYQ50zN)
- - 😝 [This needs to be federal law ASAP](http://9gag.com/gag/a1mjyeb)
- - 👉 [A window to the world](http://9gag.com/gag/aAy5952)<!-- MEMES:END -->
+ - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 😝 [Diversity](http://9gag.com/gag/adBwDNM)
+ - 👉 [He&#39;s just making it worse](http://9gag.com/gag/aVv56Qd)<!-- MEMES:END -->
 
 ---
 

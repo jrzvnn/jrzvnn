@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $100 on Apple&#39;s new M4 iPad Air at Amazon](https://appleinsider.com/articles/26/03/06/save-up-to-100-on-apples-new-m4-ipad-air-at-amazon?utm_source=rss)
+ - [You can already save up to $50 on the new M4 iPad Air](https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale)
  - [M5 13-inch MacBook Air vs M5 14-inch MacBook Pro -- compared](https://appleinsider.com/articles/26/03/06/m5-13-inch-macbook-air-vs-m5-14-inch-macbook-pro----compared?utm_source=rss)
  - [Robinhood debuts its $658.4M venture fund on the NYSE, pricing the IPO at $25 per share, offering retail investors access to private companies like Databricks &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/260306/p11#a260306p11)
- - [9 Hardy Houseplants That Practically Take Care of Themselves](https://www.cnet.com/news/hardest-houseplants-to-kill/)
- - [The PetPhone Lets Your Furball Dial You. These Catcalls Are Welcome Anytime](https://www.cnet.com/tech/mobile/petphone-petcam-calls-from-your-dog-cat/)
- - [Hulu and Disney Plus for $5? Yes, This Deal Is Real](https://www.cnet.com/deals/hulu-and-disney-plus-for-5-yes-this-deal-is-real/)<!-- TECH:END -->
+ - [9 Hardy Houseplants That Practically Take Care of Themselves](https://www.cnet.com/news/hardest-houseplants-to-kill/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

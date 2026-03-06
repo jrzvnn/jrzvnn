@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goth donut](http://9gag.com/gag/aW4530x)
  - 😝 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - 😝 [American Dream.](http://9gag.com/gag/aZZ5YKX)
+ - 💣 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
  - 😝 [The Nokia N91 was released 20 years ago and had an incredible feature for its time: a built-in hard drive. It was the smallest HDD ever created by Toshiba. Initially, the model was released with a 4GB drive, and later an 8GB model was released.](http://9gag.com/gag/axyw57M)
- - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
+ - 👉 [He&#39;s just making it worse](http://9gag.com/gag/aVv56Qd)<!-- MEMES:END -->
 
 ---
 

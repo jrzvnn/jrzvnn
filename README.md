@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Laptop Docking Stations to Unlock the Full Desktop Experience &lpar;2026&rpar;](https://www.wired.com/gallery/best-laptop-docking-stations/)
- - [From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’](https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/)
- - [Indonesia says it will ban &quot;high-risk&quot; platforms, including YouTube, TikTok, Facebook, Instagram, Threads, X, and Roblox, for children under 16 from March 28 &lpar;Associated Press&rpar;](http://www.techmeme.com/260306/p7#a260306p7)
- - [Your Best Streaming Bet May Be a Skinny TV Package. But What Are They?](https://www.cnet.com/tech/services-and-software/your-best-bet-may-be-a-skinny-streaming-tv-package-but-what-are-they/)
- - [Why Is Alexa+ So Bad?](https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/)<!-- TECH:END -->
+ - [Sydney Opera House to be lit up by art created on iPad](https://appleinsider.com/articles/26/03/06/sydney-opera-house-to-be-lit-up-by-art-created-on-ipad?utm_source=rss)
+ - [Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review](https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/)
+ - [Marathon is in a sprint](https://www.theverge.com/entertainment/890333/marathon-live-service-game-mess)
+ - [M5 Max MacBook Pro benchmarkjs beat M3 Ultra Mac Studio](https://appleinsider.com/articles/26/03/06/m5-max-geekbench-scores-show-impressive-results-beating-out-m3-ultra-cpu-matching-gpu?utm_source=rss)
+ - [MacBook Neo starts seeing shipping delays](https://appleinsider.com/articles/26/03/06/macbook-neo-starts-seeing-shipping-delays?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

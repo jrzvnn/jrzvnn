@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Where they went](http://9gag.com/gag/aE055ro)
  - 😝 [American Dream.](http://9gag.com/gag/aZZ5YKX)
- - 😝 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
+ - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 😝 [I fell in love with this](http://9gag.com/gag/a1mjyvG)
+ - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---
 

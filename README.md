@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic launches Claude Marketplace, letting companies buy third-party software using some of their committed annual spending on Anthropic&#39;s services &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260306/p21#a260306p21)
- - [The Future of Iran’s Internet Is More Uncertain Than Ever](https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/)
- - [Nintendo of America sues the US government, seeking a refund with interest for tariffs that the company says Trump implemented in &quot;unlawful&quot; EOs &lpar;Nicole Carpenter/Aftermath&rpar;](http://www.techmeme.com/260306/p20#a260306p20)
- - [Apple thinks it can lure in the &#39;Apple curious&#39; for $599](https://appleinsider.com/articles/26/03/06/apple-thinks-it-can-lure-in-the-apple-curious-for-599?utm_source=rss)
- - [An interview with Pentagon AI head Emil Michael about Anthropic leaking to the media to win anti-Trump users, dealing with Amodei and his &quot;politburo&quot;, and more &lpar;Pirate Wires&rpar;](http://www.techmeme.com/260306/p19#a260306p19)<!-- TECH:END -->
+ - [President Trump signs an EO aimed at fighting cybercrime, directing officials to identify robust tools to combat transnational criminal organizations &lpar;Catherine Lucey/Bloomberg&rpar;](http://www.techmeme.com/260306/p24#a260306p24)
+ - [The best microSD Express card for the Switch 2 is the cheapest one you can find](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
+ - [Sources: Oracle and OpenAI abandoned plans to expand a Stargate Texas data center amid financing disputes; Meta considers leasing the planned expansion site &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p23#a260306p23)
+ - [Q&amp;A with Block CEO Jack Dorsey on laying off 40% of the company&#39;s workers, wanting Block to &quot;feel like a mini AGI&quot;, his take on Elon Musk&#39;s X, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/260306/p22#a260306p22)
+ - [The Trump administration says it can’t process tariff refunds because of computer problems](https://www.theverge.com/policy/890904/trump-administration-cbp-tariff-refunds-technology-issues)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

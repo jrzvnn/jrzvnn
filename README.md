@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sydney Opera House to be lit up by art created on iPad](https://appleinsider.com/articles/26/03/06/sydney-opera-house-to-be-lit-up-by-art-created-on-ipad?utm_source=rss)
- - [Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review](https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/)
- - [Marathon is in a sprint](https://www.theverge.com/entertainment/890333/marathon-live-service-game-mess)
- - [M5 Max MacBook Pro benchmarkjs beat M3 Ultra Mac Studio](https://appleinsider.com/articles/26/03/06/m5-max-geekbench-scores-show-impressive-results-beating-out-m3-ultra-cpu-matching-gpu?utm_source=rss)
- - [MacBook Neo starts seeing shipping delays](https://appleinsider.com/articles/26/03/06/macbook-neo-starts-seeing-shipping-delays?utm_source=rss)<!-- TECH:END -->
+ - [MacBook Neo, Studio Display XDR, iPhone 17e and more, on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/06/macbook-neo-studio-display-xdr-iphone-17e-and-more-on-the-appleinsider-podcast?utm_source=rss)
+ - [Indie games are turning the act of looking into an art](https://www.theverge.com/entertainment/889978/hidden-object-games-indie)
+ - [M5 Max MacBook Pro benchmarks beat M3 Ultra Mac Studio](https://appleinsider.com/articles/26/03/06/m5-max-geekbench-scores-show-impressive-results-beating-out-m3-ultra-cpu-matching-gpu?utm_source=rss)
+ - [This phone starts fires on purpose](https://www.theverge.com/podcast/890324/mwc-2026-phones-epic-google-vergecast)
+ - [Sources: SoftBank is seeking a bridge loan of up to $40B, its largest-ever borrowing denominated solely in dollars, to help finance its investment in OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p8#a260306p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

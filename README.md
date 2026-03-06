@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Where they went](http://9gag.com/gag/aE055ro)
+ - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
+ - 💣 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
  - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - 💣 [Goth donut](http://9gag.com/gag/aW4530x)
- - 😝 [One more day... And it&#39;s 3AM again.](http://9gag.com/gag/azxwW7p)
- - 👉 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
+ - 👉 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)<!-- MEMES:END -->
 
 ---
 

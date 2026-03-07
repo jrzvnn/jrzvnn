@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
- - 😝 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
- - 💣 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 😝 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)
- - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
+ - 😝 [Girls vs Boys on their birthday](http://9gag.com/gag/aBy5pAD)
+ - 😝 [It&#39;s not hiding if no one cares](http://9gag.com/gag/awy2wWy)
+ - 💣 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
+ - 😝 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)
+ - 👉 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s commerce ministry warns of global chip shortages due to &quot;new conflicts&quot; between Dutch chipmaker Nexperia and its Chinese subsidiary &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260307/p9#a260307p9)
+ - [Financial figures shared with prospective investors: Anduril expects its revenue to grow 100% in 2026 to ~$4.3B, and its operating loss to rise by ~50% to $1.2B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/260307/p8#a260307p8)
  - [Vizio accounts are becoming Walmart accounts](https://www.theverge.com/gadgets/891056/vizio-accounts-are-becoming-walmart-accounts)
  - [Artemis II Is Shooting for the Moon: All the Details About NASA&#39;s Historic Mission](https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-launch-itinerary/)
- - [2022 Apple Studio Display vs 2026 Apple Studio Display: A lackluster upgrade](https://appleinsider.com/articles/26/03/07/2022-apple-studio-display-vs-2026-apple-studio-display-a-lackluster-upgrade?utm_source=rss)
- - [A profile of Simile, which offers &quot;agentic twins&quot; modeled on real people to provide answers for polling and market research for companies like CVS and Gallup &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260307/p7#a260307p7)
- - [&#39;Zootopia 2&#39; Streaming on Disney Plus: Release Date and Time](https://www.cnet.com/tech/services-and-software/zootopia-2-streaming-on-disney-plus-release-date-and-time/)<!-- TECH:END -->
+ - [2022 Apple Studio Display vs 2026 Apple Studio Display: A lackluster upgrade](https://appleinsider.com/articles/26/03/07/2022-apple-studio-display-vs-2026-apple-studio-display-a-lackluster-upgrade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 😝 [BROOM BROOM](http://9gag.com/gag/aYQ531v)
- - 💣 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 😝 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
- - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
+ - 😝 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
+ - 😝 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)
+ - 💣 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)
+ - 😝 [`This smells delicious. Let&#39;s share`](http://9gag.com/gag/azxw02B)
+ - 👉 [Best I can do is feel better soon](http://9gag.com/gag/aBy5pBN)<!-- MEMES:END -->
 
 ---
 

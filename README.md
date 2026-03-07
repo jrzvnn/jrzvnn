@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Cellphone Plans of 2026: Our Top Picks](https://www.cnet.com/tech/mobile/best-phone-plans/)
  - [The OpenClaw superfan meetup serves optimism and lobster](https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai)
  - [A bite-sized adventure that puts a wrench into the classic Zelda formula](https://www.theverge.com/entertainment/890664/ratcheteer-dx-review-zelda-steam-switch)
  - [Roblox says it paid out $1.5B to game creators in 2025 and the top 1,000 earned $1.3M on average; 50%+ of creators list high school as their highest education &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/260307/p6#a260307p6)
- - [2022 Apple Studio Display vs 2026 Apple Studio Display: A lackluster upgrade](https://appleinsider.com/articles/26/03/07/2022-apple-studio-display-vs-2026-apple-studio-display-a-lackluster-upgrade?utm_source=rss)
- - [The WIRED Guide to Wires: How to Manage the Mess of Cables Around Your Desk](https://www.wired.com/story/fix-the-dangling-wires-behind-your-desk/)<!-- TECH:END -->
+ - [2022 Apple Studio Display vs 2026 Apple Studio Display: A lackluster upgrade](https://appleinsider.com/articles/26/03/07/2022-apple-studio-display-vs-2026-apple-studio-display-a-lackluster-upgrade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

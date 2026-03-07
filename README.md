@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [United States of pedophile](http://9gag.com/gag/a7oXY0x)
- - 😝 [Funny how that works...](http://9gag.com/gag/aD25KXw)
- - 💣 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
- - 😝 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 👉 [BROOM BROOM](http://9gag.com/gag/aYQ531v)<!-- MEMES:END -->
+ - 😝 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
+ - 😝 [How does a drill make a triangular hole? This mechanism is incredible.](http://9gag.com/gag/a9y0ob1)
+ - 💣 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
+ - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
+ - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
 
 ---
 

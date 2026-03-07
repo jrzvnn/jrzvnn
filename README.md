@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leading the Future, a pro-AI PAC backed by Palantir-cofounder Joe Lonsdale, hit pro-regulation Democrat Alex Bores with attack ads over Bores&#39; work for Palantir &lpar;Nancy Scola/Politico&rpar;](http://www.techmeme.com/260307/p12#a260307p12)
  - [Sony appears to be testing dynamic pricing on PlayStation games](https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games)
  - [Caitlin Kalinowski, OpenAI&#39;s head of hardware and robotics, resigns over concerns about domestic surveillance and autonomous weapons after OpenAI&#39;s DOD contract &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/260307/p11#a260307p11)
  - [Sources: Palmer Luckey&#39;s ModRetro, which wants to sell updated versions of 1990s consoles like the Nintendo 64, is in talks to raise funding at a $1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260307/p10#a260307p10)
- - [Livestream FA Cup Soccer: Watch Newcastle vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-newcastle-vs-man-city-from-anywhere/)
- - [La Liga Soccer: Stream Athletic Bilbao vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-athletic-bilbao-vs-barcelona-live-from-anywhere/)<!-- TECH:END -->
+ - [Livestream FA Cup Soccer: Watch Newcastle vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-newcastle-vs-man-city-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

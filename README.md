@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A billion dollars is a billion dollars](http://9gag.com/gag/aW45r0A)
- - 😝 [Goth donut](http://9gag.com/gag/aW4530x)
- - 💣 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 😝 [10/10 dragon. 0/10 remaining blood volume.](http://9gag.com/gag/amow3y2)
- - 👉 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)<!-- MEMES:END -->
+ - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 💣 [American Dream.](http://9gag.com/gag/aZZ5YKX)
+ - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
+ - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---
 

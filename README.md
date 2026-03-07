@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This cat greet all his friends everyday](http://9gag.com/gag/aBy5Aex)
- - 😝 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
- - 💣 [The Nokia N91 was released 20 years ago and had an incredible feature for its time: a built-in hard drive. It was the smallest HDD ever created by Toshiba. Initially, the model was released with a 4GB drive, and later an 8GB model was released.](http://9gag.com/gag/axyw57M)
- - 😝 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)
- - 👉 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)<!-- MEMES:END -->
+ - 😝 [The Nokia N91 was released 20 years ago and had an incredible feature for its time: a built-in hard drive. It was the smallest HDD ever created by Toshiba. Initially, the model was released with a 4GB drive, and later an 8GB model was released.](http://9gag.com/gag/axyw57M)
+ - 💣 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
+ - 😝 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)
+ - 👉 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)<!-- MEMES:END -->
 
 ---
 

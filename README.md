@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
- - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 💣 [First of all... Why are u there?!](http://9gag.com/gag/apRwZXp)
- - 😝 [The ambush](http://9gag.com/gag/a0eq2WB)
- - 👉 [Check !](http://9gag.com/gag/awy2Ew1)<!-- MEMES:END -->
+ - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
+ - 😝 [Funny how that works...](http://9gag.com/gag/aD25KXw)
+ - 💣 [United States of pedophile](http://9gag.com/gag/a7oXY0x)
+ - 😝 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
+ - 👉 [Mom](http://9gag.com/gag/aO85Xzv)<!-- MEMES:END -->
 
 ---
 

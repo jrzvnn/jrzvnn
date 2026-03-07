@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
- - 😝 [How does a drill make a triangular hole? This mechanism is incredible.](http://9gag.com/gag/a9y0ob1)
- - 💣 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
- - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
+ - 😝 [This cat greet all his friends everyday](http://9gag.com/gag/aBy5Aex)
+ - 😝 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
+ - 💣 [The Nokia N91 was released 20 years ago and had an incredible feature for its time: a built-in hard drive. It was the smallest HDD ever created by Toshiba. Initially, the model was released with a 4GB drive, and later an 8GB model was released.](http://9gag.com/gag/axyw57M)
+ - 😝 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)
+ - 👉 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)<!-- MEMES:END -->
 
 ---
 

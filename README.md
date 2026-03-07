@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not hiding if no one cares](http://9gag.com/gag/awy2wWy)
- - 😝 [Girls vs Boys on their birthday](http://9gag.com/gag/aBy5pAD)
- - 💣 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
- - 😝 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)
- - 👉 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)<!-- MEMES:END -->
+ - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
+ - 😝 [Funny how that works...](http://9gag.com/gag/aD25KXw)
+ - 💣 [BROOM BROOM](http://9gag.com/gag/aYQ531v)
+ - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
 
 ---
 

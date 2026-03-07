@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US&#39; February jobs report shows the tech sector&#39;s post-2022 job losses are now outpacing past downturns in 2008 and 2020 &lpar;Business Insider&rpar;](http://www.techmeme.com/260306/p35#a260306p35)
  - [DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs](https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security)
  - [Alphabet gives Sundar Pichai a new three-year pay deal worth up to $692M, with stock incentives worth as much as $350M linked to the growth of Waymo and Wing &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/260306/p34#a260306p34)
  - [In a Twitter shareholder trial, former CEO Parag Agrawal and CFO Ned Segal disputed Musk&#39;s claims that they lied to him about the percentage of spam accounts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p33#a260306p33)
- - [Kids Online Safety Act Advances to House Amid Concerns Over Free Speech and Civil Rights](https://www.cnet.com/news/privacy/kids-online-safety-act-goes-to-the-vote-but-could-it-mean-end-of-internet-anonymity/)
- - [A draft guidance from the US GSA tightens rules for civilian AI contracts to require AI companies to allow &quot;any lawful&quot; use by the government of their models &lpar;Financial Times&rpar;](http://www.techmeme.com/260306/p32#a260306p32)<!-- TECH:END -->
+ - [Kids Online Safety Act Advances to House Amid Concerns Over Free Speech and Civil Rights](https://www.cnet.com/news/privacy/kids-online-safety-act-goes-to-the-vote-but-could-it-mean-end-of-internet-anonymity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

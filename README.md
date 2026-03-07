@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Girls vs Boys on their birthday](http://9gag.com/gag/aBy5pAD)
  - 😝 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
- - 😝 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)
- - 💣 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)
- - 😝 [`This smells delicious. Let&#39;s share`](http://9gag.com/gag/azxw02B)
+ - 💣 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)
+ - 😝 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)
  - 👉 [Best I can do is feel better soon](http://9gag.com/gag/aBy5pBN)<!-- MEMES:END -->
 
 ---

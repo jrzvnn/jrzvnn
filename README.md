@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
  - 😝 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
- - 💣 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
- - 😝 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
- - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
+ - 😝 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
+ - 💣 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
+ - 👉 [BROOM BROOM](http://9gag.com/gag/aYQ531v)<!-- MEMES:END -->
 
 ---
 

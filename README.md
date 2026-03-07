@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
  - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
- - 💣 [Mom](http://9gag.com/gag/aO85Xzv)
+ - 😝 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
+ - 💣 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
  - 😝 [Just say it, woman](http://9gag.com/gag/a4PyD8m)
- - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
+ - 👉 [Mom](http://9gag.com/gag/aO85Xzv)<!-- MEMES:END -->
 
 ---
 

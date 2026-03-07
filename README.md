@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
- - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
- - 💣 [Mom](http://9gag.com/gag/aO85Xzv)
- - 😝 [Just say it, woman](http://9gag.com/gag/a4PyD8m)
- - 👉 [First of all... Why are u there?!](http://9gag.com/gag/apRwZXp)<!-- MEMES:END -->
+ - 😝 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
+ - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 💣 [First of all... Why are u there?!](http://9gag.com/gag/apRwZXp)
+ - 😝 [The ambush](http://9gag.com/gag/a0eq2WB)
+ - 👉 [Check !](http://9gag.com/gag/awy2Ew1)<!-- MEMES:END -->
 
 ---
 

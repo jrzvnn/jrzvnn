@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s just ctrl right](http://9gag.com/gag/agmwW3r)
- - 😝 [Short and witty title](http://9gag.com/gag/a34rmQ7)
- - 💣 [How does a drill make a triangular hole? This mechanism is incredible.](http://9gag.com/gag/a9y0ob1)
- - 😝 [This needs to be federal law ASAP](http://9gag.com/gag/a1mjyeb)
- - 👉 [This is the reunion we&#39;ve been waiting for](http://9gag.com/gag/aPA2EoV)<!-- MEMES:END -->
+ - 😝 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
+ - 😝 [Funny how that works...](http://9gag.com/gag/aD25KXw)
+ - 💣 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 😝 [BROOM BROOM](http://9gag.com/gag/aYQ531v)
+ - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 ---
 

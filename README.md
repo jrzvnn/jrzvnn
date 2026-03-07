@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Palmer Luckey&#39;s ModRetro, which wants to sell updated versions of 1990s consoles like the Nintendo 64, is in talks to raise funding at a $1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260307/p10#a260307p10)
  - [Time’s running out to get a free gift card when you preorder a new MacBook](https://www.theverge.com/gadgets/890788/macbook-neo-air-pro-samsung-galaxy-s26-gift-card-deal-sale)
  - [China&#39;s commerce ministry warns of global chip shortages due to &quot;new conflicts&quot; between Dutch chipmaker Nexperia and its Chinese subsidiary &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260307/p9#a260307p9)
  - [Best Prepaid Phone Plans for 2026](https://www.cnet.com/tech/mobile/best-prepaid-phone-plan/)
- - [Financial figures shared with prospective investors: Anduril expects its revenue to grow 100% in 2026 to ~$4.3B, and its operating loss to rise by ~50% to $1.2B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/260307/p8#a260307p8)
- - [Daylight Saving Time Arrives Tomorrow. Here&#39;s How to Get Ready](https://www.cnet.com/health/daylight-saving-time-starts-sunday-change-clocks/)<!-- TECH:END -->
+ - [Financial figures shared with prospective investors: Anduril expects its revenue to grow 100% in 2026 to ~$4.3B, and its operating loss to rise by ~50% to $1.2B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/260307/p8#a260307p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

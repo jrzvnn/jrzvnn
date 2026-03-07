@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Mid Layer for Hiking, Backpacking, and Travel &lpar;2026&rpar;](https://www.wired.com/gallery/best-mid-layers/)
+ - [CBP Used Online Ad Data to Track Phone Locations](https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/)
  - [How Each Gulf Country Is Intercepting Iranian Missiles and Drones](https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/)
- - [How to Avoid Getting Locked Out of Your Google Account](https://www.wired.com/story/how-to-avoid-getting-locked-out-of-your-google-account/)
- - [A look at the rivalry between Kalshi CEO Tarek Mansour and Polymarket CEO Shayne Coplan, who have competing visions for how prediction markets should grow &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260307/p5#a260307p5)
- - [Sources: online DTC luxury brand Quince is in talks to raise funding at a $10B+ valuation, up from $4.5B in July; its annualized revenue run rate has hit ~$2B &lpar;The Information&rpar;](http://www.techmeme.com/260307/p4#a260307p4)
- - [China&#39;s smartphone market is seeing one of its widest price hikes as memory chip crunch deepens; Meizu announces it will suspend developing new mobile hardware &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260307/p3#a260307p3)<!-- TECH:END -->
+ - [Think AI Can Do Your Taxes? The IRS Might Disagree](https://www.cnet.com/tech/services-and-software/thinking-of-using-ai-to-do-your-taxes-think-again/)
+ - [How to Avoid Getting Locked Out of Your Google Account](https://www.wired.com/story/how-to-avoid-getting-locked-out-of-your-google-account/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
- - 😝 [Funny how that works...](http://9gag.com/gag/aD25KXw)
- - 💣 [BROOM BROOM](http://9gag.com/gag/aYQ531v)
  - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
+ - 😝 [BROOM BROOM](http://9gag.com/gag/aYQ531v)
+ - 💣 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
+ - 😝 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
+ - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
 
 ---
 

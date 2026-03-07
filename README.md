@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How does a drill make a triangular hole? This mechanism is incredible.](http://9gag.com/gag/a9y0ob1)
- - 😝 [He tried to be serious...](http://9gag.com/gag/aND57rb)
- - 💣 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)
- - 😝 [This is the reunion we&#39;ve been waiting for](http://9gag.com/gag/aPA2EoV)
- - 👉 [It&#39;s just ctrl right](http://9gag.com/gag/agmwW3r)<!-- MEMES:END -->
+ - 😝 [American Dream.](http://9gag.com/gag/aZZ5YKX)
+ - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 💣 [A billion dollars is a billion dollars](http://9gag.com/gag/aW45r0A)
+ - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
+ - 👉 [He send them last night xD](http://9gag.com/gag/aMV5MWP)<!-- MEMES:END -->
 
 ---
 

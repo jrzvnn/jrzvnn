@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Think AI Can Do Your Taxes? The IRS Might Disagree](https://www.cnet.com/tech/services-and-software/thinking-of-using-ai-to-do-your-taxes-think-again/)
  - [How to Avoid Getting Locked Out of Your Google Account](https://www.wired.com/story/how-to-avoid-getting-locked-out-of-your-google-account/)
  - [A look at the rivalry between Kalshi CEO Tarek Mansour and Polymarket CEO Shayne Coplan, who have competing visions for how prediction markets should grow &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260307/p5#a260307p5)
  - [Sources: online DTC luxury brand Quince is in talks to raise funding at a $10B+ valuation, up from $4.5B in July; its annualized revenue run rate has hit ~$2B &lpar;The Information&rpar;](http://www.techmeme.com/260307/p4#a260307p4)
- - [China&#39;s smartphone market is seeing one of its widest price hikes as memory chip crunch deepens; Meizu announces it will suspend developing new mobile hardware &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260307/p3#a260307p3)
- - [Google&#39;s TIG documented 90 zero-day vulnerabilities exploited in 2025, up from 78 in 2024; commercial spyware vendors and China-linked groups led the abuse &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/260307/p2#a260307p2)<!-- TECH:END -->
+ - [China&#39;s smartphone market is seeing one of its widest price hikes as memory chip crunch deepens; Meizu announces it will suspend developing new mobile hardware &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260307/p3#a260307p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

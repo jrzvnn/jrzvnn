@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
- - 💣 [Check !](http://9gag.com/gag/awy2Ew1)
- - 😝 [Best I can do is feel better soon](http://9gag.com/gag/aBy5pBN)
- - 👉 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)<!-- MEMES:END -->
+ - 😝 [It&#39;s just ctrl right](http://9gag.com/gag/agmwW3r)
+ - 😝 [Short and witty title](http://9gag.com/gag/a34rmQ7)
+ - 💣 [How does a drill make a triangular hole? This mechanism is incredible.](http://9gag.com/gag/a9y0ob1)
+ - 😝 [This needs to be federal law ASAP](http://9gag.com/gag/a1mjyeb)
+ - 👉 [This is the reunion we&#39;ve been waiting for](http://9gag.com/gag/aPA2EoV)<!-- MEMES:END -->
 
 ---
 

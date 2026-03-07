@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 😝 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
- - 💣 [Take note champs](http://9gag.com/gag/aW45zZK)
- - 😝 [Mom](http://9gag.com/gag/aO85Xzv)
- - 👉 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)<!-- MEMES:END -->
+ - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
+ - 💣 [Mom](http://9gag.com/gag/aO85Xzv)
+ - 😝 [Just say it, woman](http://9gag.com/gag/a4PyD8m)
+ - 👉 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)<!-- MEMES:END -->
 
 ---
 

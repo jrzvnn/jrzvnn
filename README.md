@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best MIDI Controllers for Synths, Guitars, and More &lpar;2026&rpar;](https://www.wired.com/gallery/best-midi-controllers/)
+ - [The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost](https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance)
  - [Best Mid Layer for Hiking, Backpacking, and Travel &lpar;2026&rpar;](https://www.wired.com/gallery/best-mid-layers/)
  - [CBP Used Online Ad Data to Track Phone Locations](https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/)
- - [How Each Gulf Country Is Intercepting Iranian Missiles and Drones](https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/)
- - [Think AI Can Do Your Taxes? The IRS Might Disagree](https://www.cnet.com/tech/services-and-software/thinking-of-using-ai-to-do-your-taxes-think-again/)
- - [How to Avoid Getting Locked Out of Your Google Account](https://www.wired.com/story/how-to-avoid-getting-locked-out-of-your-google-account/)<!-- TECH:END -->
+ - [How Each Gulf Country Is Intercepting Iranian Missiles and Drones](https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

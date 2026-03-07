@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
  - 😝 [American Dream.](http://9gag.com/gag/aZZ5YKX)
- - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 💣 [A billion dollars is a billion dollars](http://9gag.com/gag/aW45r0A)
- - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
- - 👉 [He send them last night xD](http://9gag.com/gag/aMV5MWP)<!-- MEMES:END -->
+ - 💣 [Check !](http://9gag.com/gag/awy2Ew1)
+ - 😝 [Not all heroes wear capes, some give us cheap iced tea and hot dogs](http://9gag.com/gag/a4Pyvxp)
+ - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why the Ratio Four Series Two Is What I Use to Test New Coffees](https://www.wired.com/story/ratio-four-drip-coffee-java-base/)
  - [Today&#39;s Wordle Hints, Answer and Help for March 8, #1723](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-8-1723/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 8 #735](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-8-735/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for March 8, #1001](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-8-1001/)
- - [Iran targeting commercial datacenters in the UAE and Bahrain signals a new frontier in asymmetric warfare and raises doubts over the Gulf as a global AI hub &lpar;Daniel Boffey/The Guardian&rpar;](http://www.techmeme.com/260307/p13#a260307p13)
- - [Forget the Specs. Which MacBook Neo Color Is Best? CNET Weighs In](https://www.cnet.com/tech/computing/cnet-judges-macbook-neo-colors/)<!-- TECH:END -->
+ - [Iran targeting commercial datacenters in the UAE and Bahrain signals a new frontier in asymmetric warfare and raises doubts over the Gulf as a global AI hub &lpar;Daniel Boffey/The Guardian&rpar;](http://www.techmeme.com/260307/p13#a260307p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

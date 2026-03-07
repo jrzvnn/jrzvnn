@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
- - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
- - 💣 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 😝 [Just say it, woman](http://9gag.com/gag/a4PyD8m)
+ - 😝 [Mom](http://9gag.com/gag/aO85Xzv)
+ - 😝 [So? What do you think?](http://9gag.com/gag/apRwZY9)
+ - 💣 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
+ - 😝 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
  - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
 
 ---

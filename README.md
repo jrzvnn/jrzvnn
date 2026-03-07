@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony appears to be testing dynamic pricing on PlayStation games](https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games)
  - [Caitlin Kalinowski, OpenAI&#39;s head of hardware and robotics, resigns over concerns about domestic surveillance and autonomous weapons after OpenAI&#39;s DOD contract &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/260307/p11#a260307p11)
  - [Sources: Palmer Luckey&#39;s ModRetro, which wants to sell updated versions of 1990s consoles like the Nintendo 64, is in talks to raise funding at a $1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260307/p10#a260307p10)
- - [Time’s running out to get a free gift card when you preorder a new MacBook](https://www.theverge.com/gadgets/890788/macbook-neo-air-pro-samsung-galaxy-s26-gift-card-deal-sale)
- - [China&#39;s commerce ministry warns of global chip shortages due to &quot;new conflicts&quot; between Dutch chipmaker Nexperia and its Chinese subsidiary &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260307/p9#a260307p9)
- - [Best Prepaid Phone Plans for 2026](https://www.cnet.com/tech/mobile/best-prepaid-phone-plan/)<!-- TECH:END -->
+ - [Livestream FA Cup Soccer: Watch Newcastle vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-newcastle-vs-man-city-from-anywhere/)
+ - [La Liga Soccer: Stream Athletic Bilbao vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-athletic-bilbao-vs-barcelona-live-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
- - 😝 [BROOM BROOM](http://9gag.com/gag/aYQ531v)
- - 💣 [First it&#39;s just hot school teachers. Now we get a mayor.](http://9gag.com/gag/avywMDq)
+ - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
+ - 😝 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
+ - 💣 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
  - 😝 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)
- - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
+ - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---
 

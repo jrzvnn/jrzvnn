@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
+ - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
  - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
  - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 😝 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)
- - 👉 [Goth donut](http://9gag.com/gag/aW4530x)<!-- MEMES:END -->
+ - 😝 [One of the greatest, nothing like it before or since\u2026. Oh Luc Besson you need to get back to form mate](http://9gag.com/gag/amow3x9)
+ - 👉 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)<!-- MEMES:END -->
 
 ---
 

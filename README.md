@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
- - 😝 [Driveshaft has left the chat](http://9gag.com/gag/a7oXR5r)
- - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 😝 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 👉 [Funny how that works...](http://9gag.com/gag/aD25KXw)<!-- MEMES:END -->
+ - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 😝 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
+ - 💣 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
+ - 😝 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)
+ - 👉 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)<!-- MEMES:END -->
 
 ---
 

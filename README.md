@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox says it paid out $1.5B to game creators in 2025 and the top 1,000 earned $1.3M on average; 50%+ of creators list high school as their highest education &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/260307/p6#a260307p6)
  - [2022 Apple Studio Display vs 2026 Apple Studio Display: A lackluster upgrade](https://appleinsider.com/articles/26/03/07/2022-apple-studio-display-vs-2026-apple-studio-display-a-lackluster-upgrade?utm_source=rss)
  - [The WIRED Guide to Wires: How to Manage the Mess of Cables Around Your Desk](https://www.wired.com/story/fix-the-dangling-wires-behind-your-desk/)
  - [Apple’s cheap laptop looks like a winner](https://www.theverge.com/tech/890785/macbook-neo-slay-spire-2-pokopia-installer)
- - [The Best MIDI Controllers for Synths, Guitars, and More &lpar;2026&rpar;](https://www.wired.com/gallery/best-midi-controllers/)
- - [The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost](https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance)<!-- TECH:END -->
+ - [Can You Pop Popcorn in an Air Fryer? I Went Straight to the Source](https://www.cnet.com/home/kitchen-and-household/can-pop-popcorn-air-fryer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

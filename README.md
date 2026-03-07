@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2022 Apple Studio Display vs 2026 Apple Studio Display: A lackluster upgrade](https://appleinsider.com/articles/26/03/07/2022-apple-studio-display-vs-2026-apple-studio-display-a-lackluster-upgrade?utm_source=rss)
+ - [The WIRED Guide to Wires: How to Manage the Mess of Cables Around Your Desk](https://www.wired.com/story/fix-the-dangling-wires-behind-your-desk/)
+ - [Apple’s cheap laptop looks like a winner](https://www.theverge.com/tech/890785/macbook-neo-slay-spire-2-pokopia-installer)
  - [The Best MIDI Controllers for Synths, Guitars, and More &lpar;2026&rpar;](https://www.wired.com/gallery/best-midi-controllers/)
- - [The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost](https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance)
- - [Best Mid Layer for Hiking, Backpacking, and Travel &lpar;2026&rpar;](https://www.wired.com/gallery/best-mid-layers/)
- - [CBP Used Online Ad Data to Track Phone Locations](https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/)
- - [How Each Gulf Country Is Intercepting Iranian Missiles and Drones](https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/)<!-- TECH:END -->
+ - [The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost](https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

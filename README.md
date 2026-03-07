@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Short and witty title](http://9gag.com/gag/a34rmQ7)
- - 😝 [How does a drill make a triangular hole? This mechanism is incredible.](http://9gag.com/gag/a9y0ob1)
- - 💣 [This cat greet all his friends everyday](http://9gag.com/gag/aBy5Aex)
- - 😝 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
- - 👉 [The Nokia N91 was released 20 years ago and had an incredible feature for its time: a built-in hard drive. It was the smallest HDD ever created by Toshiba. Initially, the model was released with a 4GB drive, and later an 8GB model was released.](http://9gag.com/gag/axyw57M)<!-- MEMES:END -->
+ - 😝 [United States of pedophile](http://9gag.com/gag/a7oXY0x)
+ - 😝 [Funny how that works...](http://9gag.com/gag/aD25KXw)
+ - 💣 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
+ - 😝 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
+ - 👉 [BROOM BROOM](http://9gag.com/gag/aYQ531v)<!-- MEMES:END -->
 
 ---
 

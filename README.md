@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny how that works...](http://9gag.com/gag/aD25KXw)
- - 😝 [End of the beniginging](http://9gag.com/gag/an7woL5)
- - 💣 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
- - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
- - 👉 [American Dream.](http://9gag.com/gag/aZZ5YKX)<!-- MEMES:END -->
+ - 😝 [Goth donut](http://9gag.com/gag/aW4530x)
+ - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
+ - 💣 [Something about this doesn&#39;t seem right](http://9gag.com/gag/aD25ewK)
+ - 😝 [High tech from my era.](http://9gag.com/gag/arywYrV)
+ - 👉 [114 times](http://9gag.com/gag/ajPw448)<!-- MEMES:END -->
 
 ---
 

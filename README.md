@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)
- - 😝 [A friend in need is the one I knead](http://9gag.com/gag/aZZ59Bp)
- - 💣 [Still smoking hot... The movie enemy at the gates is awesome.](http://9gag.com/gag/a87OP8d)
- - 😝 [Just say it, woman](http://9gag.com/gag/a4PyD8m)
- - 👉 [Deadly Technique](http://9gag.com/gag/aVv5nG8)<!-- MEMES:END -->
+ - 😝 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
+ - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 💣 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
+ - 😝 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)
+ - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
 
 ---
 

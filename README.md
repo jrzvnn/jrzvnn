@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Guild.ai, which helps companies develop, deploy, and observe AI agents, raised a $14M seed and $30M Series A, both led by GV, and is now valued at $300M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260308/p1#a260308p1)
  - [Documents show two DOGE employees used ChatGPT to identify National Endowment for the Humanities grants, worth over $100M, to be cut for being related to DEI &lpar;Jennifer Schuessler/New York Times&rpar;](http://www.techmeme.com/260307/p15#a260307p15)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 8, #531](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-8-531/)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-8/)
- - [As cheap, powerful GPS jammers proliferate, a look at some alternatives to GPS, including using supersensitive, quantum-based magnetic sensors &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260307/p14#a260307p14)
- - [Why the Ratio Four Series Two Is What I Use to Test New Coffees](https://www.wired.com/story/ratio-four-drip-coffee-java-base/)<!-- TECH:END -->
+ - [As cheap, powerful GPS jammers proliferate, a look at some alternatives to GPS, including using supersensitive, quantum-based magnetic sensors &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260307/p14#a260307p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

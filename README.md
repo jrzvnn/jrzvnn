@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Born yesterday, already tired of this](http://9gag.com/gag/aoywXon)
- - 😝 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
- - 💣 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 😝 [First it&#39;s just hot school teachers. Now we get a mayor.](http://9gag.com/gag/avywMDq)
+ - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
+ - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 💣 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
+ - 😝 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
  - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
 
 ---

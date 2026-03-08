@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Run Ethernet Cables to Your Router and Keep Them Tidy](https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/)
- - [Force Your MacBook to Only Charge up to 80 Percent &lpar;and Why You Should&rpar;](https://www.wired.com/story/only-charge-your-macbook-to-80-percent/)
- - [Fender Mix Headphones Review: Modular Over-Ears](https://www.wired.com/review/fender-audio-mix/)
- - [A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart &lpar;2026&rpar;](https://www.wired.com/story/sleep-week-deals-2026/)
- - [The Moka Pot Is the Best Way to Brew Coffee &lpar;2026&rpar;](https://www.wired.com/story/moka-pot-best-way-to-brew-coffee/)<!-- TECH:END -->
+ - [The cute and cursed story of Furby](https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby)
+ - [Crime blotter: AirTag helps police catch car thief](https://appleinsider.com/articles/26/03/08/crime-blotter-airtag-helps-police-catch-car-thief?utm_source=rss)
+ - [A study finds LLMs from Anthropic, Google, OpenAI, and xAI can help with academic fraud, specifically helping non-researchers submit fabricated papers to arXiv &lpar;Elizabeth Gibney/Nature&rpar;](http://www.techmeme.com/260308/p5#a260308p5)
+ - [The uncomfortable truth about hybrid vehicles](https://www.theverge.com/column/890135/truth-hybrid-vehicles)
+ - [How to Run Ethernet Cables to Your Router and Keep Them Tidy](https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

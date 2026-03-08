@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
- - 😝 [Comeback](http://9gag.com/gag/a5Q3O9y)
- - 💣 [First it&#39;s just hot school teachers. Now we get a mayor.](http://9gag.com/gag/avywMDq)
- - 😝 [Just say it, woman](http://9gag.com/gag/a4PyD8m)
+ - 😝 [Netflix..](http://9gag.com/gag/a87OZ5Z)
+ - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 💣 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
+ - 😝 [Remember the good old days of internet exploration](http://9gag.com/gag/a0eqAOq)
  - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 😝 [Mom](http://9gag.com/gag/aO85Xzv)
- - 💣 [College level English. And I thought I was retarded in High School. God damn. If only I was born 10yrs later.](http://9gag.com/gag/aZZ5Gez)
- - 😝 [From Cloud Engineer To Netdresser](http://9gag.com/gag/azxwNYN)
- - 👉 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)<!-- MEMES:END -->
+ - 😝 [First day as a spy](http://9gag.com/gag/adBwmXj)
+ - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
+ - 💣 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)
+ - 😝 [How to load a flintlock rifle](http://9gag.com/gag/a87OrW1)
+ - 👉 [Still smoking hot... The movie enemy at the gates is awesome.](http://9gag.com/gag/a87OP8d)<!-- MEMES:END -->
 
 ---
 

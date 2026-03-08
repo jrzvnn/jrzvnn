@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
- - 😝 [Mild chock](http://9gag.com/gag/abAw9x8)
- - 💣 [Best I can do is feel better soon](http://9gag.com/gag/aBy5pBN)
- - 😝 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)
- - 👉 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)<!-- MEMES:END -->
+ - 😝 [Born yesterday, already tired of this](http://9gag.com/gag/aoywXon)
+ - 😝 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
+ - 💣 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 😝 [First it&#39;s just hot school teachers. Now we get a mayor.](http://9gag.com/gag/avywMDq)
+ - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
 
 ---
 

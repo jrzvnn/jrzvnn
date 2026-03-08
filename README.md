@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Trying to save a parking spot like it&#39;s a seat at a concert](http://9gag.com/gag/an7w635)
- - 😝 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
- - 💣 [Born yesterday, already tired of this](http://9gag.com/gag/aoywXon)
  - 😝 [Mom](http://9gag.com/gag/aO85Xzv)
+ - 💣 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 😝 [Born yesterday, already tired of this](http://9gag.com/gag/aoywXon)
  - 👉 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)<!-- MEMES:END -->
 
 ---

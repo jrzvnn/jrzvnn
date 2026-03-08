@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mild chock](http://9gag.com/gag/abAw9x8)
- - 😝 [100% efficient](http://9gag.com/gag/aBy57p1)
- - 💣 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)
- - 😝 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)
- - 👉 [Me on my way to post some random BS on this wretched site](http://9gag.com/gag/arywjwV)<!-- MEMES:END -->
+ - 😝 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
+ - 😝 [Comeback](http://9gag.com/gag/a5Q3O9y)
+ - 💣 [First it&#39;s just hot school teachers. Now we get a mayor.](http://9gag.com/gag/avywMDq)
+ - 😝 [Just say it, woman](http://9gag.com/gag/a4PyD8m)
+ - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
 
 ---
 

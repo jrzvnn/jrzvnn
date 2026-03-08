@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
  - 😝 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
+ - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
  - 💣 [Mom](http://9gag.com/gag/aO85Xzv)
- - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
- - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
+ - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
+ - 👉 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)<!-- MEMES:END -->
 
 ---
 

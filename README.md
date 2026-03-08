@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First day as a spy](http://9gag.com/gag/adBwmXj)
- - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
- - 💣 [Deadly Technique](http://9gag.com/gag/aVv5nG8)
- - 😝 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)
- - 👉 [Still smoking hot... The movie enemy at the gates is awesome.](http://9gag.com/gag/a87OP8d)<!-- MEMES:END -->
+ - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 💣 [She was great](http://9gag.com/gag/ae9wXrm)
+ - 😝 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)
+ - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
 
 ---
 

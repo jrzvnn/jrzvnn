@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
- - 😝 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
- - 💣 [Funny how that works...](http://9gag.com/gag/aD25KXw)
- - 😝 [Just say it, woman](http://9gag.com/gag/a4PyD8m)
+ - 😝 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
+ - 💣 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
+ - 😝 [Funny how that works...](http://9gag.com/gag/aD25KXw)
  - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
 
 ---

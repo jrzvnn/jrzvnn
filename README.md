@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
- - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 💣 [She was great](http://9gag.com/gag/ae9wXrm)
- - 😝 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)
- - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
+ - 😝 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)
+ - 😝 [A friend in need is the one I knead](http://9gag.com/gag/aZZ59Bp)
+ - 💣 [Still smoking hot... The movie enemy at the gates is awesome.](http://9gag.com/gag/a87OP8d)
+ - 😝 [Just say it, woman](http://9gag.com/gag/a4PyD8m)
+ - 👉 [Deadly Technique](http://9gag.com/gag/aVv5nG8)<!-- MEMES:END -->
 
 ---
 

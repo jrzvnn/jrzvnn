@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
- - 😝 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
- - 💣 [Mom](http://9gag.com/gag/aO85Xzv)
- - 😝 [From Cloud Engineer To Netdresser](http://9gag.com/gag/azxwNYN)
- - 👉 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)<!-- MEMES:END -->
+ - 😝 [I just watched the first episode, the CGI is absolutely amazing, produced by Spielberg and narrated by Morgan Freeman, a must if you like dinosaurs](http://9gag.com/gag/aZZ5ew9)
+ - 💣 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
+ - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 👉 [Mom](http://9gag.com/gag/aO85Xzv)<!-- MEMES:END -->
 
 ---
 

@@ -158,8 +158,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A long wait: New iMac colors, Mac mini update expected much later in 2026](https://appleinsider.com/articles/26/03/08/a-long-wait-new-imac-colors-mac-mini-update-expected-much-later-in-2026?utm_source=rss)
- - [A 3D printed iPhone is possible if Apple overcomes challenges with aluminum](https://appleinsider.com/articles/26/03/08/a-3d-printed-iphone-is-possible-if-apple-overcomes-challenges-with-aluminum?utm_source=rss)
  - [Mac Studio set to get its M5 update next this summer](https://appleinsider.com/articles/26/03/08/mac-studio-set-to-get-its-m5-update-next-this-summer?utm_source=rss)
+ - [A 3D printed iPhone is possible if Apple overcomes challenges with aluminum](https://appleinsider.com/articles/26/03/08/a-3d-printed-iphone-is-possible-if-apple-overcomes-challenges-with-aluminum?utm_source=rss)
  - [The cute and cursed story of Furby](https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby)
  - [Crime blotter: AirTag helps police catch car thief](https://appleinsider.com/articles/26/03/08/crime-blotter-airtag-helps-police-catch-car-thief?utm_source=rss)<!-- TECH:END -->
 

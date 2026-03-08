@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
+ - 😝 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
+ - 💣 [First it&#39;s just hot school teachers. Now we get a mayor.](http://9gag.com/gag/avywMDq)
  - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
- - 💣 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
- - 😝 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
- - 👉 [First it&#39;s just hot school teachers. Now we get a mayor.](http://9gag.com/gag/avywMDq)<!-- MEMES:END -->
+ - 👉 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)<!-- MEMES:END -->
 
 ---
 

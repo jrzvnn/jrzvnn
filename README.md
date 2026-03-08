@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents show two DOGE employees used ChatGPT to identify National Endowment for the Humanities grants, worth over $100M, to be cut for being related to DEI &lpar;Jennifer Schuessler/New York Times&rpar;](http://www.techmeme.com/260307/p15#a260307p15)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 8, #531](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-8-531/)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-8/)
  - [As cheap, powerful GPS jammers proliferate, a look at some alternatives to GPS, including using supersensitive, quantum-based magnetic sensors &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260307/p14#a260307p14)
- - [Why the Ratio Four Series Two Is What I Use to Test New Coffees](https://www.wired.com/story/ratio-four-drip-coffee-java-base/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 8, #1723](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-8-1723/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 8 #735](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-8-735/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 8, #1001](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-8-1001/)<!-- TECH:END -->
+ - [Why the Ratio Four Series Two Is What I Use to Test New Coffees](https://www.wired.com/story/ratio-four-drip-coffee-java-base/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

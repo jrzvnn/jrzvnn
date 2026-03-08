@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
- - 😝 [Trying to save a parking spot like it&#39;s a seat at a concert](http://9gag.com/gag/an7w635)
- - 💣 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
- - 👉 [Mom](http://9gag.com/gag/aO85Xzv)<!-- MEMES:END -->
+ - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - 😝 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
+ - 💣 [Mom](http://9gag.com/gag/aO85Xzv)
+ - 😝 [From Cloud Engineer To Netdresser](http://9gag.com/gag/azxwNYN)
+ - 👉 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)<!-- MEMES:END -->
 
 ---
 

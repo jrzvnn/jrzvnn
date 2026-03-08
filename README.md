@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart &lpar;2026&rpar;](https://www.wired.com/story/sleep-week-deals-2026/)
+ - [The Moka Pot Is the Best Way to Brew Coffee &lpar;2026&rpar;](https://www.wired.com/story/moka-pot-best-way-to-brew-coffee/)
  - [Best Sunrise Alarm Clock &lpar;2026&rpar;: Lumie, Hatch, WiiM](https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/)
  - [Left-Handed People Are More Competitive, Says Science](https://www.wired.com/story/left-handed-people-are-more-competitive-says-science/)
- - [Orange iPhone 17 Pro Impersonators Were Out in Droves at MWC 2026](https://www.cnet.com/tech/mobile/orange-iphone-17-pro-impersonators-were-out-in-droves-at-mwc-2026/)
- - [A profile of Emil Michael, who made his name as an aggressive dealmaker for Uber, as he takes a leading role in the Pentagon&#39;s dispute with Anthropic &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260308/p4#a260308p4)
- - [German quick grocery delivery startup Flink raised $100M led by Prosus, a source says at a $900M valuation; Flink was reportedly valued at $5B in May 2022 &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260308/p3#a260308p3)<!-- TECH:END -->
+ - [Orange iPhone 17 Pro Impersonators Were Out in Droves at MWC 2026](https://www.cnet.com/tech/mobile/orange-iphone-17-pro-impersonators-were-out-in-droves-at-mwc-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

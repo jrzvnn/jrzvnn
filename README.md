@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
- - 😝 [I just watched the first episode, the CGI is absolutely amazing, produced by Spielberg and narrated by Morgan Freeman, a must if you like dinosaurs](http://9gag.com/gag/aZZ5ew9)
- - 💣 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
  - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 👉 [Mom](http://9gag.com/gag/aO85Xzv)<!-- MEMES:END -->
+ - 😝 [Mom](http://9gag.com/gag/aO85Xzv)
+ - 💣 [College level English. And I thought I was retarded in High School. God damn. If only I was born 10yrs later.](http://9gag.com/gag/aZZ5Gez)
+ - 😝 [From Cloud Engineer To Netdresser](http://9gag.com/gag/azxwNYN)
+ - 👉 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)<!-- MEMES:END -->
 
 ---
 

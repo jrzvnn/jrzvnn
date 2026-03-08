@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Born yesterday, already tired of this](http://9gag.com/gag/aoywXon)
- - 😝 [Mom](http://9gag.com/gag/aO85Xzv)
- - 💣 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 😝 [She was great](http://9gag.com/gag/ae9wXrm)
- - 👉 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)<!-- MEMES:END -->
+ - 😝 [First day as a spy](http://9gag.com/gag/adBwmXj)
+ - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
+ - 💣 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)
+ - 😝 [Old joke](http://9gag.com/gag/a9y03L6)
+ - 👉 [Still smoking hot... The movie enemy at the gates is awesome.](http://9gag.com/gag/a87OP8d)<!-- MEMES:END -->
 
 ---
 

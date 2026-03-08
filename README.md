@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [100% efficient](http://9gag.com/gag/aBy57p1)
- - 😝 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
- - 💣 [Just in case of emergency](http://9gag.com/gag/aO85gZ6)
- - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 👉 [First day as a spy](http://9gag.com/gag/adBwmXj)<!-- MEMES:END -->
+ - 😝 [Does anybody know?](http://9gag.com/gag/aRBd5w2)
+ - 😝 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
+ - 💣 [Mom](http://9gag.com/gag/aO85Xzv)
+ - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
+ - 👉 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)<!-- MEMES:END -->
 
 ---
 

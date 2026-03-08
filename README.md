@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)
- - 😝 [100% efficient](http://9gag.com/gag/aBy57p1)
- - 💣 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
- - 😝 [Me on my way to post some random BS on this wretched site](http://9gag.com/gag/arywjwV)
- - 👉 [Still smoking hot... The movie enemy at the gates is awesome.](http://9gag.com/gag/a87OP8d)<!-- MEMES:END -->
+ - 😝 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
+ - 😝 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
+ - 💣 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
+ - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
+ - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
 
 ---
 

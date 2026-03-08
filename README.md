@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Run Ethernet Cables to Your Router and Keep Them Tidy](https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/)
  - [Force Your MacBook to Only Charge up to 80 Percent &lpar;and Why You Should&rpar;](https://www.wired.com/story/only-charge-your-macbook-to-80-percent/)
  - [Fender Mix Headphones Review: Modular Over-Ears](https://www.wired.com/review/fender-audio-mix/)
  - [A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart &lpar;2026&rpar;](https://www.wired.com/story/sleep-week-deals-2026/)
- - [The Moka Pot Is the Best Way to Brew Coffee &lpar;2026&rpar;](https://www.wired.com/story/moka-pot-best-way-to-brew-coffee/)
- - [Best Sunrise Alarm Clock &lpar;2026&rpar;: Lumie, Hatch, WiiM](https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/)<!-- TECH:END -->
+ - [The Moka Pot Is the Best Way to Brew Coffee &lpar;2026&rpar;](https://www.wired.com/story/moka-pot-best-way-to-brew-coffee/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

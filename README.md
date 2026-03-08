@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
  - 😝 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
+ - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
  - 💣 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
- - 😝 [Funny how that works...](http://9gag.com/gag/aD25KXw)
- - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
+ - 😝 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
+ - 👉 [First it&#39;s just hot school teachers. Now we get a mayor.](http://9gag.com/gag/avywMDq)<!-- MEMES:END -->
 
 ---
 

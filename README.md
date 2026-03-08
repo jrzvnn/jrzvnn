@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
  - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
- - 💣 [BROOM BROOM](http://9gag.com/gag/aYQ531v)
- - 😝 [Just say it, woman](http://9gag.com/gag/a4PyD8m)
- - 👉 [First it&#39;s just hot school teachers. Now we get a mayor.](http://9gag.com/gag/avywMDq)<!-- MEMES:END -->
+ - 😝 [Mild chock](http://9gag.com/gag/abAw9x8)
+ - 💣 [Best I can do is feel better soon](http://9gag.com/gag/aBy5pBN)
+ - 😝 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)
+ - 👉 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)<!-- MEMES:END -->
 
 ---
 

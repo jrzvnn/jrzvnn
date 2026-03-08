@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Check !](http://9gag.com/gag/awy2Ew1)
- - 😝 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 💣 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - 😝 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
+ - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - 💣 [BROOM BROOM](http://9gag.com/gag/aYQ531v)
  - 😝 [Just say it, woman](http://9gag.com/gag/a4PyD8m)
- - 👉 [Mom](http://9gag.com/gag/aO85Xzv)<!-- MEMES:END -->
+ - 👉 [First it&#39;s just hot school teachers. Now we get a mayor.](http://9gag.com/gag/avywMDq)<!-- MEMES:END -->
 
 ---
 

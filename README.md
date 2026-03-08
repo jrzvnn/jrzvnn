@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
- - 😝 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
- - 💣 [First it&#39;s just hot school teachers. Now we get a mayor.](http://9gag.com/gag/avywMDq)
- - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
- - 👉 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)<!-- MEMES:END -->
+ - 😝 [Mild chock](http://9gag.com/gag/abAw9x8)
+ - 😝 [100% efficient](http://9gag.com/gag/aBy57p1)
+ - 💣 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)
+ - 😝 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)
+ - 👉 [Me on my way to post some random BS on this wretched site](http://9gag.com/gag/arywjwV)<!-- MEMES:END -->
 
 ---
 

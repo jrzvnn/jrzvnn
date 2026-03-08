@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Left-Handed People Are More Competitive, Says Science](https://www.wired.com/story/left-handed-people-are-more-competitive-says-science/)
  - [A profile of Emil Michael, who made his name as an aggressive dealmaker for Uber, as he takes a leading role in the Pentagon&#39;s dispute with Anthropic &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260308/p4#a260308p4)
  - [German quick grocery delivery startup Flink raised $100M led by Prosus, a source says at a $900M valuation; Flink was reportedly valued at $5B in May 2022 &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260308/p3#a260308p3)
- - [Samsung&#39;s consumer device chief TM Roh says it was &quot;open to strategic co-operation&quot; with more AI groups, having recently added Perplexity to its mobile OS &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260308/p2#a260308p2)
- - [Guild.ai, which helps companies develop, deploy, and observe AI agents, raised a $14M seed and $30M Series A, both led by GV, and is now valued at $300M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260308/p1#a260308p1)
- - [Documents show two DOGE employees used ChatGPT to identify National Endowment for the Humanities grants, worth over $100M, to be cut for being related to DEI &lpar;Jennifer Schuessler/New York Times&rpar;](http://www.techmeme.com/260307/p15#a260307p15)<!-- TECH:END -->
+ - [Samsung&#39;s consumer device chief TM Roh says it is &quot;open to strategic co-operation&quot; with more AI groups, having recently added Perplexity to its mobile OS &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260308/p2#a260308p2)
+ - [Guild.ai, which helps companies develop, deploy, and observe AI agents, raised a $14M seed and $30M Series A, both led by GV, and is now valued at $300M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260308/p1#a260308p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

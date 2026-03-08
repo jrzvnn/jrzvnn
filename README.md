@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does anybody know?](http://9gag.com/gag/aRBd5w2)
- - 😝 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
+ - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
+ - 😝 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
  - 💣 [Mom](http://9gag.com/gag/aO85Xzv)
- - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
- - 👉 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)<!-- MEMES:END -->
+ - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
 
 ---
 

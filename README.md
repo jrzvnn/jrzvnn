@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [HomeHub will recharge with MagSafe by sticking to your wall](https://appleinsider.com/articles/26/03/08/homehub-will-recharge-with-magsafe-by-sticking-to-your-wall?utm_source=rss)
  - [Israel-based ZyG, which is building an agentic OS to help scale DTC e-commerce brands, raised a $58M seed co-led by Bessemer, Viola Ventures, and Lightspeed &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260308/p7#a260308p7)
- - [What we&amp;#8217;re listening to, watching, and reading right now.](https://www.theverge.com/entertainment/891057/what-were-listening-to-watching-and-reading)
- - [Thoughts on MacBook Neo, as Apple also expands its superpremium tier via &quot;Ultra&quot; products; sources: Apple wants to use aluminum 3D-printing for Watch and iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260308/p6#a260308p6)
- - [The best Switch 2 controller just got better &lpar;and a little worse&rpar;](https://www.theverge.com/tech/888482/easysmx-s10-lite-switch-2-native-wireless-controller-hands-on)<!-- TECH:END -->
+ - [How War in the Middle East Impacted the World&#39;s Largest Mobile Phone Show](https://www.cnet.com/tech/mobile/how-war-in-the-middle-east-impacted-the-worlds-largest-mobile-phone-show/)
+ - [&#39;Marshals&#39;: When Is Episode 2 Coming to Paramount Plus?](https://www.cnet.com/tech/services-and-software/marshals-when-is-episode-2-coming-to-paramount-plus/)
+ - [What we&amp;#8217;re listening to, watching, and reading right now.](https://www.theverge.com/entertainment/891057/what-were-listening-to-watching-and-reading)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [First day as a spy](http://9gag.com/gag/adBwmXj)
  - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
- - 💣 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)
- - 😝 [Old joke](http://9gag.com/gag/a9y03L6)
+ - 💣 [Deadly Technique](http://9gag.com/gag/aVv5nG8)
+ - 😝 [Shots filmed, not fired](http://9gag.com/gag/aRBdY0G)
  - 👉 [Still smoking hot... The movie enemy at the gates is awesome.](http://9gag.com/gag/a87OP8d)<!-- MEMES:END -->
 
 ---

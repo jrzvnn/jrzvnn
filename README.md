@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Netflix..](http://9gag.com/gag/a87OZ5Z)
- - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 💣 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
+ - 😝 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
+ - 😝 [100% efficient](http://9gag.com/gag/aBy57p1)
+ - 💣 [From Cloud Engineer To Netdresser](http://9gag.com/gag/azxwNYN)
  - 😝 [Remember the good old days of internet exploration](http://9gag.com/gag/a0eqAOq)
- - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
+ - 👉 [Me on my way to post some random BS on this wretched site](http://9gag.com/gag/arywjwV)<!-- MEMES:END -->
 
 ---
 

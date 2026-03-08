@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
+ - 😝 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)
  - 😝 [100% efficient](http://9gag.com/gag/aBy57p1)
- - 💣 [From Cloud Engineer To Netdresser](http://9gag.com/gag/azxwNYN)
- - 😝 [Remember the good old days of internet exploration](http://9gag.com/gag/a0eqAOq)
- - 👉 [Me on my way to post some random BS on this wretched site](http://9gag.com/gag/arywjwV)<!-- MEMES:END -->
+ - 💣 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
+ - 😝 [Me on my way to post some random BS on this wretched site](http://9gag.com/gag/arywjwV)
+ - 👉 [Still smoking hot... The movie enemy at the gates is awesome.](http://9gag.com/gag/a87OP8d)<!-- MEMES:END -->
 
 ---
 

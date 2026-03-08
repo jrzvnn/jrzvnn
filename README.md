@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Expect more &#39;Ultra&#39; products from Apple, if not by name](https://appleinsider.com/articles/26/03/08/expect-more-ultra-products-from-apple-if-not-by-name?utm_source=rss)
  - [How Circle, Stripe, Coinbase, and others are building stablecoin-based agentic payments infrastructure that makes microtransactions between AI agents economical &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/260308/p10#a260308p10)
  - [Apple is going high-end with new ‘Ultra’ products next](https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next)
  - [The US and Israel are using AI to wage war on Iran with unprecedented speed and precision in attacks, even as the cost of ill-informed decisions remains high &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260308/p9#a260308p9)
- - [MacBook Neo vs M1 MacBook Air: you decide - M4 lite or M1 plus](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-m1-macbook-air-you-decide---m4-lite-or-m1-plus?utm_source=rss)
- - [A look at countries that moved to ban social media for kids in recent months, including Australia, Denmark, France, Germany, Greece, Malaysia, Spain, Indonesia &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260308/p8#a260308p8)<!-- TECH:END -->
+ - [MacBook Neo vs M1 MacBook Air: you decide - M4 lite or M1 plus](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-m1-macbook-air-you-decide---m4-lite-or-m1-plus?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

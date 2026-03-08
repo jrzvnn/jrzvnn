@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Luma AI debuts Uni-1, an image model that combines image understanding and generation in a single architecture, topping Nano Banana 2 on logic-based benchmarks &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/260308/p11#a260308p11)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 9, #736](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-9-736/)
  - [Today&#39;s Wordle Hints, Answer and Help for March 9, #1724](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-9-1724/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for March 9, #1002](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-9-1002/)
- - [Expect more &#39;Ultra&#39; products from Apple, if not by name](https://appleinsider.com/articles/26/03/08/expect-more-ultra-products-from-apple-if-not-by-name?utm_source=rss)
- - [How Circle, Stripe, Coinbase, and others are building stablecoin-based agentic payments infrastructure that makes microtransactions between AI agents economical &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/260308/p10#a260308p10)<!-- TECH:END -->
+ - [Expect more &#39;Ultra&#39; products from Apple, if not by name](https://appleinsider.com/articles/26/03/08/expect-more-ultra-products-from-apple-if-not-by-name?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

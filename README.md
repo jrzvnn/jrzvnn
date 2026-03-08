@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
  - 😝 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
- - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
- - 💣 [Mom](http://9gag.com/gag/aO85Xzv)
- - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
- - 👉 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)<!-- MEMES:END -->
+ - 💣 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
+ - 😝 [From Cloud Engineer To Netdresser](http://9gag.com/gag/azxwNYN)
+ - 👉 [Mom](http://9gag.com/gag/aO85Xzv)<!-- MEMES:END -->
 
 ---
 

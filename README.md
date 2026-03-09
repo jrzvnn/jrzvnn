@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How some candidates for the midterms are using social media posts and niche buzzwords on their websites to signal for support from crypto and AI super PACs &lpar;New York Times&rpar;](http://www.techmeme.com/260308/p13#a260308p13)
+ - [Get Disney Plus, Hulu bundle for $4.99/mo for 3 months with March streaming deal](https://appleinsider.com/articles/26/03/09/get-disney-plus-hulu-bundle-for-499mo-for-3-months-with-march-streaming-deal?utm_source=rss)
  - [A study of ~1,500 US workers finds AI use can reduce burnout but also cause &quot;AI brain fry&quot;, a mental fatigue from using AI tools beyond one&#39;s cognitive capacity &lpar;Harvard Business Review&rpar;](http://www.techmeme.com/260308/p12#a260308p12)
  - [Reboot: Downgrades, gaming, and opera house doodles](https://appleinsider.com/articles/26/03/08/reboot-downgrades-gaming-and-opera-house-doodles?utm_source=rss)
- - [Party of One: Tim Cook doubts Apple&#39;s 50-year-old DNA can be replicated](https://appleinsider.com/articles/26/03/08/party-of-one-tim-cook-doubts-apples-50-year-old-dna-can-be-replicated?utm_source=rss)
- - [Luma AI debuts Uni-1, an image model that combines image understanding and generation in a single architecture, topping Nano Banana 2 on logic-based benchmarks &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/260308/p11#a260308p11)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 9, #736](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-9-736/)<!-- TECH:END -->
+ - [Party of One: Tim Cook doubts Apple&#39;s 50-year-old DNA can be replicated](https://appleinsider.com/articles/26/03/08/party-of-one-tim-cook-doubts-apples-50-year-old-dna-can-be-replicated?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

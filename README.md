@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get three months of Disney Plus and Hulu for $15](https://www.theverge.com/gadgets/891598/disney-plus-hulu-academy-awards-deal-sale)
- - [Apple&amp;#8217;s new M5 Max feels like a huge upgrade if you bought your laptop 3 years ago](https://www.theverge.com/gadgets/891508/apple-macbook-pro-air-2026-m5-max-benchmark-comparisons-m4-m3-m2-m1)
- - [Apple Studio Display XDR review: pro at a premium](https://www.theverge.com/tech/891436/apple-studio-display-xdr-review)
- - [macOS 26.4 beta 4 lets everyone use the colorful MacBook Neo wallpapers](https://appleinsider.com/articles/26/03/09/macos-264-beta-4-lets-everyone-use-the-colorful-macbook-neo-wallpapers?utm_source=rss)
- - [Apple&#39;s smart home hub delayed again because mondernizing Siri is hard](https://appleinsider.com/articles/26/03/09/apples-smart-home-hub-delayed-again-because-updating-siri-is-hard?utm_source=rss)<!-- TECH:END -->
+ - [Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon](https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google)
+ - [OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government](https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/)
+ - [MacBook Pro 16&quot; &lpar;M5 Max&rpar; review: &quot;Super core&quot; architecture and 40-core GPU deliver beastly performance, but still retains a five-year-old design &lpar;Brian Westover/PCMag&rpar;](http://www.techmeme.com/260309/p32#a260309p32)
+ - [Apple&#39;s Foldable iPhone Just Got Its Most Convincing Leak Yet](https://www.cnet.com/tech/mobile/apple-foldable-iphone-leak-render/)
+ - [Bluesky CEO Jay Graber will step aside](https://www.theverge.com/tech/891562/bluesky-new-ceo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

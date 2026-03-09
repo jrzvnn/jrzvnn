@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
- - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 💣 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
- - 😝 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)
- - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
+ - 😝 [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)
+ - 😝 [The ambush](http://9gag.com/gag/a0eq2WB)
+ - 💣 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)
+ - 😝 [Title](http://9gag.com/gag/aYQ585m)
+ - 👉 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)<!-- MEMES:END -->
 
 ---
 

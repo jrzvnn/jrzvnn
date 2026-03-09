@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic Sues Department of Defense Over Supply-Chain Risk Designation](https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/)
- - [MacBook Neo is just the latest in Apple&#39;s 35 years of trying to make a budget portable](https://appleinsider.com/articles/26/03/09/macbook-neo-is-just-the-latest-in-apples-35-years-of-trying-to-make-a-budget-portable?utm_source=rss)
- - [X says you can block Grok from editing your photos](https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle)
- - [Anthropic sues to block the DOD from designating it a supply chain risk, says the designation is unlawful and violates its free speech and due process rights &lpar;Jack Queen/Reuters&rpar;](http://www.techmeme.com/260309/p19#a260309p19)
- - [Nexperia&#39;s Chinese subsidiary says it has begun producing its own chips using 12-inch wafers, a further step toward independence from its Dutch parent &lpar;Reuters&rpar;](http://www.techmeme.com/260309/p18#a260309p18)<!-- TECH:END -->
+ - [Battlefield 6 teams hit with layoffs despite ‘biggest launch in franchise history’](https://www.theverge.com/entertainment/891378/battlefield-6-layoffs-ea)
+ - [Qualcomm unveils the Arduino Ventuno Q, a single-board computer for AI and robotics applications, powered by Dragonwing IQ8 processor and 16GB of RAM &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/260309/p22#a260309p22)
+ - [Live Nation settles government antitrust suit — that probably doesn’t include a breakup](https://www.theverge.com/policy/891379/live-nation-antitrust-settlement-ticketmaster)
+ - [Donut Lab says latest test proves its solid-state battery isn’t a supercapacitor](https://www.theverge.com/transportation/891310/donut-lab-solid-state-battery-supercapacitor-test-result)
+ - [Australia&#39;s online age restrictions take effect, requiring platforms to verify users are 18+ before they can access content including porn and R-rated games &lpar;Ahmed Yussuf/ABC&rpar;](http://www.techmeme.com/260309/p21#a260309p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

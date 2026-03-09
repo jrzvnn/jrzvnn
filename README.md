@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aYQ585m)
- - 😝 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
+ - 😝 [Memorials of Iryna Zarutska keep getting vandalised](http://9gag.com/gag/aD25Eyw)
+ - 😝 [College level English. And I thought I was retarded in High School. God damn. If only I was born 10yrs later.](http://9gag.com/gag/aZZ5Gez)
  - 💣 [That was dirty...](http://9gag.com/gag/aO85gXv)
  - 😝 [Keep supporting the troops!](http://9gag.com/gag/aVv6z7w)
- - 👉 [Justice!](http://9gag.com/gag/aE05e0O)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/aYQ585m)<!-- MEMES:END -->
 
 ---
 

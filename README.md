@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia and ABB partner to bring ABB&#39;s robot training software to Nvidia&#39;s Omniverse simulation platform to build autonomous robots, which Foxconn is trialling &lpar;Financial Times&rpar;](http://www.techmeme.com/260309/p17#a260309p17)
- - [Stablecoin payments company KAST raised $80M led by QED and Left Lane; sources say the fundraise is at a $600M valuation, and KAST expects $100M ARR in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260309/p16#a260309p16)
- - [Microsoft launches Copilot Cowork, integrating Anthropic&#39;s Claude Cowork tech into Microsoft 365 and using Work IQ to ground actions in organizational data &lpar;Charles Lamanna/Microsoft 365 Blog&rpar;](http://www.techmeme.com/260309/p15#a260309p15)
- - [Microsoft launches the E7 bundle for $99/user/month, a 65% jump; of the 450M+ business users that paid for its tools in January, only ~3% also paid for Copilot &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260309/p14#a260309p14)
- - [iPad Air &lpar;M4&rpar; review: powerful M4 chip, good multitasking with iPadOS 26, and robust hardware, but its screen could be better, no Face ID, and can get pricey &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/260309/p13#a260309p13)<!-- TECH:END -->
+ - [Inside Control Center on macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/inside-control-center-on-macos-tahoe?utm_source=rss)
+ - [Apple iPad Air review roundup: Faster as expected, but iterative](https://appleinsider.com/articles/26/03/09/apple-ipad-air-review-roundup-faster-as-expected-but-iterative?utm_source=rss)
+ - [iPhone 17e review roundup: Cheap, cheerful, and fixes the iPhone 16e&#39;s mistakes](https://appleinsider.com/articles/26/03/09/iphone-17e-review-roundup-cheap-cheerful-and-fixes-the-iphone-16es-mistakes?utm_source=rss)
+ - [Integrating pet products into the smart home with Jacob Zuppke on Smart Home Insider](https://appleinsider.com/articles/26/03/09/integrating-pet-products-into-the-smart-home-with-jacob-zuppke-on-smart-home-insider?utm_source=rss)
+ - [Hasbro’s CEO has an AI Peppa Pig help design toys](https://www.theverge.com/podcast/890703/hasbro-toys-games-magic-exodus-ai-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

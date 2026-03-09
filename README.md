@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Add more ports to the MacBook Neo with these docking stations](https://appleinsider.com/articles/26/03/09/add-more-ports-to-the-macbook-neo-with-these-docking-stations?utm_source=rss)
- - [SoftBank&#39;s stock is down ~48% since Nov. 3, as scrutiny into the scale of its OpenAI involvement grows; on Monday, SoftBank fell 9.8% on Stargate delay reports &lpar;Financial Times&rpar;](http://www.techmeme.com/260309/p30#a260309p30)
- - [One of this rugged phone&amp;#8217;s cameras is a pop-out action cam](https://www.theverge.com/tech/891496/ulefone-rugone-xsnap-7-pro-removable-action-camera)
- - [Apple&#39;s smart home hub delayed again because mondernizing Siri is hard](https://appleinsider.com/articles/26/03/09/apples-smart-home-hub-delayed-again-because-updating-siri-is-hard?utm_source=rss)
- - [Anthropic debuts a Code Review feature for Claude Code, which uses agents working in teams to check pull requests for bugs, available in research preview &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260309/p29#a260309p29)<!-- TECH:END -->
+ - [You can get three months of Disney Plus and Hulu for $15](https://www.theverge.com/gadgets/891598/disney-plus-hulu-academy-awards-deal-sale)
+ - [Apple&amp;#8217;s new M5 Max feels like a huge upgrade if you bought your laptop 3 years ago](https://www.theverge.com/gadgets/891508/apple-macbook-pro-air-2026-m5-max-benchmark-comparisons-m4-m3-m2-m1)
+ - [Apple Studio Display XDR review: pro at a premium](https://www.theverge.com/tech/891436/apple-studio-display-xdr-review)
+ - [macOS 26.4 beta 4 lets everyone use the colorful MacBook Neo wallpapers](https://appleinsider.com/articles/26/03/09/macos-264-beta-4-lets-everyone-use-the-colorful-macbook-neo-wallpapers?utm_source=rss)
+ - [Apple&#39;s smart home hub delayed again because mondernizing Siri is hard](https://appleinsider.com/articles/26/03/09/apples-smart-home-hub-delayed-again-because-updating-siri-is-hard?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

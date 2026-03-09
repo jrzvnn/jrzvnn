@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Battlefield 6 teams hit with layoffs despite ‘biggest launch in franchise history’](https://www.theverge.com/entertainment/891378/battlefield-6-layoffs-ea)
- - [Qualcomm unveils the Arduino Ventuno Q, a single-board computer for AI and robotics applications, powered by Dragonwing IQ8 processor and 16GB of RAM &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/260309/p22#a260309p22)
- - [Live Nation settles government antitrust suit — that probably doesn’t include a breakup](https://www.theverge.com/policy/891379/live-nation-antitrust-settlement-ticketmaster)
- - [Donut Lab says latest test proves its solid-state battery isn’t a supercapacitor](https://www.theverge.com/transportation/891310/donut-lab-solid-state-battery-supercapacitor-test-result)
- - [Australia&#39;s online age restrictions take effect, requiring platforms to verify users are 18+ before they can access content including porn and R-rated games &lpar;Ahmed Yussuf/ABC&rpar;](http://www.techmeme.com/260309/p21#a260309p21)<!-- TECH:END -->
+ - [OpenAI agrees to acquire Promptfoo, which fixes security issues in AI systems being built and is &quot;trusted by 25%+ of Fortune 500&quot;, to fold into OpenAI Frontier &lpar;OpenAI&rpar;](http://www.techmeme.com/260309/p24#a260309p24)
+ - [iPhone 18e production is on time, leak predictably claims](https://appleinsider.com/articles/26/03/09/iphone-18e-production-is-on-time-leak-predictably-claims?utm_source=rss)
+ - [Your Espresso Machine Doesn’t Have to Be Fancy to Make Good Coffee](https://www.wired.com/story/casabrews-5700-espresso-machine-java-base/)
+ - [This is what case-makers think the iPhone Fold will look like](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
+ - [Apple&#39;s updated leadership page reveals renewed focus on design](https://appleinsider.com/articles/26/03/09/apples-updated-leadership-page-reveals-renewed-focus-on-design?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

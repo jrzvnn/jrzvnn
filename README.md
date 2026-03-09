@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aYQ585m)
- - 😝 [Mom](http://9gag.com/gag/aO85Xzv)
- - 💣 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
- - 😝 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)
- - 👉 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)<!-- MEMES:END -->
+ - 😝 [Deadly Technique](http://9gag.com/gag/aVv5nG8)
+ - 😝 [Just in case of emergency](http://9gag.com/gag/aO85gZ6)
+ - 💣 [That&#39;s why women are disappearing from my area](http://9gag.com/gag/amowDoo)
+ - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 👉 [I was there, 3000 yrs ago](http://9gag.com/gag/arywPxV)<!-- MEMES:END -->
 
 ---
 

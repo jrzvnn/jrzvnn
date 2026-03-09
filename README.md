@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just in case of emergency](http://9gag.com/gag/aO85gZ6)
- - 😝 [A friend in need is the one I knead](http://9gag.com/gag/aZZ59Bp)
- - 💣 [Deadly Technique](http://9gag.com/gag/aVv5nG8)
- - 😝 [That&#39;s why women are disappearing from my area](http://9gag.com/gag/amowDoo)
- - 👉 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)<!-- MEMES:END -->
+ - 😝 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
+ - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 💣 [Title](http://9gag.com/gag/aYQ585m)
+ - 😝 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)
+ - 👉 [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)<!-- MEMES:END -->
 
 ---
 

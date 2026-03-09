@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
  - 😝 [Title](http://9gag.com/gag/aYQ585m)
- - 💣 [Mom](http://9gag.com/gag/aO85Xzv)
- - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
- - 👉 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)<!-- MEMES:END -->
+ - 😝 [Mom](http://9gag.com/gag/aO85Xzv)
+ - 💣 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
+ - 😝 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)
+ - 👉 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)<!-- MEMES:END -->
 
 ---
 

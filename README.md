@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s updated leadership page reveals renewed focus on design](https://appleinsider.com/articles/26/03/09/apples-updated-leadership-page-reveals-renewed-focus-on-design?utm_source=rss)
  - [Best Sonos Speakers &lpar;2026&rpar;: Soundbars, Headphones, Dolby Atmos, and More](https://www.wired.com/gallery/best-sonos-speakers-buying-guide/)
  - [Kalshi partners with XP, Brazil&#39;s largest brokerage firm with 4.8M active clients in December 2025, to list event contracts, its first international expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/260309/p8#a260309p8)
  - [This is what case-makers think the iPhone Fold will look like](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
- - [Hatch’s Sale Has the Restore 3, Rest, and Rest+ All Discounted](https://www.wired.com/story/hatch-sleep-week-sale-2026/)
- - [South Korean giant Coupang is lobbying the US to represent its interests as it faces 10+ data leak probes; Coupang Korea CEO Harold Rogers attended Trump&#39;s SOTU &lpar;Financial Times&rpar;](http://www.techmeme.com/260309/p7#a260309p7)<!-- TECH:END -->
+ - [Hatch’s Sale Has the Restore 3, Rest, and Rest+ All Discounted](https://www.wired.com/story/hatch-sleep-week-sale-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

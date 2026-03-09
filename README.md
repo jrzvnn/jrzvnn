@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s AI drive, touted since 2024 and featuring splashy NScale and CoreWeave deals, to build datacenters is riddled with phantom investments and shaky accounting &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/260309/p25#a260309p25)
- - [Fourth iOS 26.4, macOS 26.4 developer betas arrive for testing](https://appleinsider.com/articles/26/03/09/fourth-ios-264-macos-264-developer-betas-arrive-for-testing?utm_source=rss)
- - [OpenAI agrees to acquire Promptfoo, which fixes security issues in AI systems being built and is &quot;trusted by 25%+ of Fortune 500&quot;, to fold into OpenAI Frontier &lpar;OpenAI&rpar;](http://www.techmeme.com/260309/p24#a260309p24)
- - [iPhone 18e production is on time, leak predictably claims](https://appleinsider.com/articles/26/03/09/iphone-18e-production-is-on-time-leak-predictably-claims?utm_source=rss)
- - [Apple Gave Us the Neo, Now It Might Be Planning a High-End MacBook Ultra](https://www.cnet.com/tech/computing/apple-macbook-ultra-oled-display-rumor/)<!-- TECH:END -->
+ - [Bluesky CEO Jay Graber Is Stepping Down](https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/)
+ - [Sources: Apple delayed the release of its smart home display, planned for this month, until later this year to let the company finish work on the new Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260309/p27#a260309p27)
+ - [Bigfoot, Orca, a Trombone, and five more new emoji are here with iOS 26.4 beta 4](https://appleinsider.com/articles/26/03/09/bigfoot-orca-a-trombone-and-five-more-new-emoji-are-here-with-ios-264-beta-4?utm_source=rss)
+ - [NBC News poll of 1,000 registered voters: just 26% had a positive view of AI, while 46% had a negative view, the third worst net negative score of all topics &lpar;Jake Angelo/Fortune&rpar;](http://www.techmeme.com/260309/p26#a260309p26)
+ - [UK&#39;s AI drive, touted since 2024 and featuring splashy NScale and CoreWeave deals, to build datacenters is riddled with phantom investments and shaky accounting &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/260309/p25#a260309p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

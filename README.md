@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have an update.](http://9gag.com/gag/aO856XR)
+ - 😝 [Sometimes my genius is almost frightening](http://9gag.com/gag/aNDbrQ6)
+ - 😝 [Keep supporting the troops!](http://9gag.com/gag/aVv6z7w)
+ - 💣 [Hitman easter egg](http://9gag.com/gag/a9yGbyZ)
  - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
- - 💣 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - 😝 [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)
- - 👉 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)<!-- MEMES:END -->
+ - 👉 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)<!-- MEMES:END -->
 
 ---
 

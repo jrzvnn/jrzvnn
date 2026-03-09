@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
  - 😝 [Have an update.](http://9gag.com/gag/aO856XR)
- - 💣 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)
- - 😝 [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)
+ - 😝 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)
+ - 💣 [The FAFO king 2015](http://9gag.com/gag/a5QYeoq)
+ - 😝 [2000 .... years ago](http://9gag.com/gag/aW4XZZ2)
  - 👉 [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)<!-- MEMES:END -->
 
 ---

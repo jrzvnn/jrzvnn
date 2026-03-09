@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK data center developer Nscale raised a $2B Series C led by Aker and 8090 Industries at a $14.6B valuation and adds Sheryl Sandberg and Nick Clegg to its board &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260309/p4#a260309p4)
- - [Can AI Kill the Venture Capitalist?](https://www.wired.com/story/ai-kill-venture-capital/)
- - [A Lloyds-commissioned study of 5,000 people in the UK finds that 50%+ of the adults used generative AI platforms for financial advice; ChatGPT was the most used &lpar;Mary McDougall/Financial Times&rpar;](http://www.techmeme.com/260309/p3#a260309p3)
- - [A look at the OpenClaw craze in China: AI labs launch tools to help users set up OpenClaw, a Shenzhen district drafts policies to support AI agents, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/260309/p2#a260309p2)
- - [Advice to developers: make software that agents want, with API-first design, as AI agents, instead of humans, will become the primary users of future software &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/260309/p1#a260309p1)<!-- TECH:END -->
+ - [South Korean giant Coupang is lobbying the US to represent its interests as it faces 10+ data leak probes; Coupang Korea CEO Harold Rogers attended Trump&#39;s SOTU &lpar;Financial Times&rpar;](http://www.techmeme.com/260309/p7#a260309p7)
+ - [Possible iPhone Fold CAD designs leaked](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
+ - [A profile of Nscale founder Josh Payne, a former coal miner in Australia who moved to London and started the data center developer in 2024 amid the AI boom &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/260309/p6#a260309p6)
+ - [Don’t Expect Big Surprises in the Government’s Alien Files](https://www.wired.com/story/dont-expect-big-surprises-in-the-governments-alien-files/)
+ - [Sources: Chinese AI circuit board maker Victory Giant plans a Hong Kong IPO as soon as April that may raise $2B+; Chinese regulators approved the IPO last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/260309/p5#a260309p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
  - 😝 [Good that I&#39;m not eating any of that trash](http://9gag.com/gag/agmwMRx)
- - 💣 [Title](http://9gag.com/gag/aYQ585m)
- - 😝 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)
- - 👉 [The ambush](http://9gag.com/gag/a0eq2WB)<!-- MEMES:END -->
+ - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
+ - 💣 [The FAFO king 2015](http://9gag.com/gag/a5QYeoq)
+ - 😝 [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)
+ - 👉 [Title](http://9gag.com/gag/aYQ585m)<!-- MEMES:END -->
 
 ---
 

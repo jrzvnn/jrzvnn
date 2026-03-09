@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK data center developer Nscale raised a $2B Series C led by Aker and 8090 Industries at a $14.6B valuation and adds Sheryl Sandberg and Nick Clegg to its board &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260309/p4#a260309p4)
+ - [Can AI Kill the Venture Capitalist?](https://www.wired.com/story/ai-kill-venture-capital/)
  - [A Lloyds-commissioned study of 5,000 people in the UK finds that 50%+ of the adults used generative AI platforms for financial advice; ChatGPT was the most used &lpar;Mary McDougall/Financial Times&rpar;](http://www.techmeme.com/260309/p3#a260309p3)
  - [A look at the OpenClaw craze in China: AI labs launch tools to help users set up OpenClaw, a Shenzhen district drafts policies to support AI agents, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/260309/p2#a260309p2)
- - [Advice to developers: make software that agents want, with API-first design, as AI agents, instead of humans, will become the primary users of future software &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/260309/p1#a260309p1)
- - [Kalshi is trying to broaden its user base via targeted marketing, enlisting female influencers and others; 26% of users now are women, up from 13% in May 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260308/p15#a260308p15)
- - [MacBook Neo vs M1 MacBook Air: you decide - M4 lite or M1 plus](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-m1-macbook-air-you-decide---m4-lite-or-m1-plus?utm_source=rss)<!-- TECH:END -->
+ - [Advice to developers: make software that agents want, with API-first design, as AI agents, instead of humans, will become the primary users of future software &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/260309/p1#a260309p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

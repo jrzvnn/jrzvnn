@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Anthropic says it had $5B+ in all-time revenue since 2023 and could lose billions after clients paused deal talks due to supply-chain risk designation &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260309/p34#a260309p34)
  - [Everything from the last week of everything is gambling now](https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets)
  - [More than 30 staffers from OpenAI and Google, including DeepMind chief scientist Jeff Dean, file an amicus brief in support of Anthropic in its fight with DOD &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260309/p33#a260309p33)
  - [Anthropic Claims Pentagon Feud Could Cost It Billions](https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/)
- - [Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon](https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google)
- - [OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government](https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/)<!-- TECH:END -->
+ - [Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon](https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

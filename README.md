@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Control Center on macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/inside-control-center-on-macos-tahoe?utm_source=rss)
- - [Apple iPad Air review roundup: Faster as expected, but iterative](https://appleinsider.com/articles/26/03/09/apple-ipad-air-review-roundup-faster-as-expected-but-iterative?utm_source=rss)
- - [iPhone 17e review roundup: Cheap, cheerful, and fixes the iPhone 16e&#39;s mistakes](https://appleinsider.com/articles/26/03/09/iphone-17e-review-roundup-cheap-cheerful-and-fixes-the-iphone-16es-mistakes?utm_source=rss)
- - [Integrating pet products into the smart home with Jacob Zuppke on Smart Home Insider](https://appleinsider.com/articles/26/03/09/integrating-pet-products-into-the-smart-home-with-jacob-zuppke-on-smart-home-insider?utm_source=rss)
- - [Hasbro’s CEO has an AI Peppa Pig help design toys](https://www.theverge.com/podcast/890703/hasbro-toys-games-magic-exodus-ai-tariffs)<!-- TECH:END -->
+ - [Anthropic Sues Department of Defense Over Supply-Chain Risk Designation](https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/)
+ - [MacBook Neo is just the latest in Apple&#39;s 35 years of trying to make a budget portable](https://appleinsider.com/articles/26/03/09/macbook-neo-is-just-the-latest-in-apples-35-years-of-trying-to-make-a-budget-portable?utm_source=rss)
+ - [X says you can block Grok from editing your photos](https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle)
+ - [Anthropic sues to block the DOD from designating it a supply chain risk, says the designation is unlawful and violates its free speech and due process rights &lpar;Jack Queen/Reuters&rpar;](http://www.techmeme.com/260309/p19#a260309p19)
+ - [Nexperia&#39;s Chinese subsidiary says it has begun producing its own chips using 12-inch wafers, a further step toward independence from its Dutch parent &lpar;Reuters&rpar;](http://www.techmeme.com/260309/p18#a260309p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

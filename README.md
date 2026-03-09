@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How some candidates for the midterms are using social media posts and niche buzzwords on their websites to signal for support from crypto and AI super PACs &lpar;New York Times&rpar;](http://www.techmeme.com/260308/p13#a260308p13)
- - [Get Disney Plus, Hulu bundle for $4.99/mo for 3 months with March streaming deal](https://appleinsider.com/articles/26/03/09/get-disney-plus-hulu-bundle-for-499mo-for-3-months-with-march-streaming-deal?utm_source=rss)
- - [A study of ~1,500 US workers finds AI use can reduce burnout but also cause &quot;AI brain fry&quot;, a mental fatigue from using AI tools beyond one&#39;s cognitive capacity &lpar;Harvard Business Review&rpar;](http://www.techmeme.com/260308/p12#a260308p12)
- - [Reboot: Downgrades, gaming, and opera house doodles](https://appleinsider.com/articles/26/03/08/reboot-downgrades-gaming-and-opera-house-doodles?utm_source=rss)
- - [Party of One: Tim Cook doubts Apple&#39;s 50-year-old DNA can be replicated](https://appleinsider.com/articles/26/03/08/party-of-one-tim-cook-doubts-apples-50-year-old-dna-can-be-replicated?utm_source=rss)<!-- TECH:END -->
+ - [Kalshi is trying to broaden its user base via targeted marketing, enlisting female influencers, and more; 26% of users now are women, up from 13% in May 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260308/p15#a260308p15)
+ - [MacBook Neo vs M1 MacBook Air: you decide - M4 lite or M1 plus](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-m1-macbook-air-you-decide---m4-lite-or-m1-plus?utm_source=rss)
+ - [Party of One: Tim Cook doubts Apple&#39;s 50-year-old DNA can be replicated](https://appleinsider.com/articles/26/03/08/party-of-one-tim-cook-doubts-apples-50-year-old-dna-can-be-replicated?utm_source=rss)
+ - [The war in Iran is complicating plans by Gulf nations to spend $300B+ on AI investments, putting at risk a potential source of funding for tech companies &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/260308/p14#a260308p14)
+ - [How some candidates for the midterms are using social media posts and niche buzzwords on their websites to signal for support from crypto and AI super PACs &lpar;New York Times&rpar;](http://www.techmeme.com/260308/p13#a260308p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s updated leadership page reveals renewed focus on design](https://appleinsider.com/articles/26/03/09/apples-updated-leadership-page-reveals-renewed-focus-on-design?utm_source=rss)
- - [Best Sonos Speakers &lpar;2026&rpar;: Soundbars, Headphones, Dolby Atmos, and More](https://www.wired.com/gallery/best-sonos-speakers-buying-guide/)
- - [Kalshi partners with XP, Brazil&#39;s largest brokerage firm with 4.8M active clients in December 2025, to list event contracts, its first international expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/260309/p8#a260309p8)
- - [This is what case-makers think the iPhone Fold will look like](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
- - [Hatch’s Sale Has the Restore 3, Rest, and Rest+ All Discounted](https://www.wired.com/story/hatch-sleep-week-sale-2026/)<!-- TECH:END -->
+ - [Nvidia and ABB partner to bring ABB&#39;s robot training software to Nvidia&#39;s Omniverse simulation platform to build autonomous robots, which Foxconn is trialling &lpar;Financial Times&rpar;](http://www.techmeme.com/260309/p17#a260309p17)
+ - [Stablecoin payments company KAST raised $80M led by QED and Left Lane; sources say the fundraise is at a $600M valuation, and KAST expects $100M ARR in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260309/p16#a260309p16)
+ - [Microsoft launches Copilot Cowork, integrating Anthropic&#39;s Claude Cowork tech into Microsoft 365 and using Work IQ to ground actions in organizational data &lpar;Charles Lamanna/Microsoft 365 Blog&rpar;](http://www.techmeme.com/260309/p15#a260309p15)
+ - [Microsoft launches the E7 bundle for $99/user/month, a 65% jump; of the 450M+ business users that paid for its tools in January, only ~3% also paid for Copilot &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260309/p14#a260309p14)
+ - [iPad Air &lpar;M4&rpar; review: powerful M4 chip, good multitasking with iPadOS 26, and robust hardware, but its screen could be better, no Face ID, and can get pricey &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/260309/p13#a260309p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

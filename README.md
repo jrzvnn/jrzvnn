@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 Pro &amp; M5 Max MacBook Pro review roundup: More of the same, at a higher price](https://appleinsider.com/articles/26/03/09/m5-pro-m5-max-macbook-pro-review-roundup-more-of-the-same-at-a-higher-price?utm_source=rss)
  - [‘Flying Cars’ Will Take Off in American Skies This Summer](https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/)
  - [Apple smart home display rumors now point to a fall launch with iOS 27](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor)
  - [HPE reports Q1 revenue up 18% YoY to $9.3B, vs. $9.37B est., Cloud and AI revenue down 2.7% YoY to $6.3B but reports an AI server backlog of $5B &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260309/p35#a260309p35)
- - [Studio Display XDR review roundup: Pro display hardware, with a few caveats](https://appleinsider.com/articles/26/03/09/studio-display-xdr-review-roundup-pro-display-hardware-with-a-few-caveats?utm_source=rss)
- - [The government shutdown is hitting airports — but not ICE](https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports)<!-- TECH:END -->
+ - [Studio Display XDR review roundup: Pro display hardware, with a few caveats](https://appleinsider.com/articles/26/03/09/studio-display-xdr-review-roundup-pro-display-hardware-with-a-few-caveats?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

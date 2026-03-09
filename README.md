@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hatch’s Sale Has the Restore 3, Rest, and Rest+ All Discounted](https://www.wired.com/story/hatch-sleep-week-sale-2026/)
  - [South Korean giant Coupang is lobbying the US to represent its interests as it faces 10+ data leak probes; Coupang Korea CEO Harold Rogers attended Trump&#39;s SOTU &lpar;Financial Times&rpar;](http://www.techmeme.com/260309/p7#a260309p7)
  - [Possible iPhone Fold CAD designs leaked](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
  - [A profile of Nscale founder Josh Payne, a former coal miner in Australia who moved to London and started the data center developer in 2024 amid the AI boom &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/260309/p6#a260309p6)
- - [Don’t Expect Big Surprises in the Government’s Alien Files](https://www.wired.com/story/dont-expect-big-surprises-in-the-governments-alien-files/)
- - [Sources: Chinese AI circuit board maker Victory Giant plans a Hong Kong IPO as soon as April that may raise $2B+; Chinese regulators approved the IPO last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/260309/p5#a260309p5)<!-- TECH:END -->
+ - [Don’t Expect Big Surprises in the Government’s Alien Files](https://www.wired.com/story/dont-expect-big-surprises-in-the-governments-alien-files/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 Pro &amp; M5 Max MacBook Pro review roundup: More of the same, at a higher price](https://appleinsider.com/articles/26/03/09/m5-pro-m5-max-macbook-pro-review-roundup-more-of-the-same-at-a-higher-price?utm_source=rss)
- - [‘Flying Cars’ Will Take Off in American Skies This Summer](https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/)
- - [Apple smart home display rumors now point to a fall launch with iOS 27](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor)
- - [HPE reports Q1 revenue up 18% YoY to $9.3B, vs. $9.37B est., Cloud and AI revenue down 2.7% YoY to $6.3B but reports an AI server backlog of $5B &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260309/p35#a260309p35)
- - [Studio Display XDR review roundup: Pro display hardware, with a few caveats](https://appleinsider.com/articles/26/03/09/studio-display-xdr-review-roundup-pro-display-hardware-with-a-few-caveats?utm_source=rss)<!-- TECH:END -->
+ - [Sources: PE firm EQT is exploring a sale of Linux distribution vendor SUSE in a deal that could value it at up to $6B; SUSE was valued at ~$2.96B in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/260309/p38#a260309p38)
+ - [Sources: Nvidia is pitching NemoClaw, an upcoming open-source AI agent platform for enterprises, and plans to offer security and privacy tools for it &lpar;Wired&rpar;](http://www.techmeme.com/260309/p37#a260309p37)
+ - [Canada will allow TikTok to continue operating in the country under new security commitments, reversing a 2024 order to wind down TikTok&#39;s Canadian subsidiary &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/260309/p36#a260309p36)
+ - [Nvidia Is Planning to Launch an Open-Source AI Agent Platform](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)
+ - [M5 Pro &amp; M5 Max MacBook Pro review roundup: More of the same, at a higher price](https://appleinsider.com/articles/26/03/09/m5-pro-m5-max-macbook-pro-review-roundup-more-of-the-same-at-a-higher-price?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

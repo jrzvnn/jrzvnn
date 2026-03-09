@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Advice to developers: make software that agents want, with API-first design, as AI agents, instead of humans, will become the primary users of future software &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/260309/p1#a260309p1)
  - [Kalshi is trying to broaden its user base via targeted marketing, enlisting female influencers, and more; 26% of users now are women, up from 13% in May 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260308/p15#a260308p15)
  - [MacBook Neo vs M1 MacBook Air: you decide - M4 lite or M1 plus](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-m1-macbook-air-you-decide---m4-lite-or-m1-plus?utm_source=rss)
  - [Party of One: Tim Cook doubts Apple&#39;s 50-year-old DNA can be replicated](https://appleinsider.com/articles/26/03/08/party-of-one-tim-cook-doubts-apples-50-year-old-dna-can-be-replicated?utm_source=rss)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 9, #532](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-9-532/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-9/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 9, #532](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-9-532/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

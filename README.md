@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 😝 [Mom](http://9gag.com/gag/aO85Xzv)
- - 💣 [That was dirty...](http://9gag.com/gag/aO85gXv)
- - 😝 [Jacketed glass chemical reactor](http://9gag.com/gag/a0e3vvB)
- - 👉 [Title](http://9gag.com/gag/aYQ585m)<!-- MEMES:END -->
+ - 😝 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - 😝 [Title](http://9gag.com/gag/aYQ585m)
+ - 💣 [Mom](http://9gag.com/gag/aO85Xzv)
+ - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
+ - 👉 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)<!-- MEMES:END -->
 
 ---
 

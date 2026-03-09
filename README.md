@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky CEO Jay Graber Is Stepping Down](https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/)
- - [Sources: Apple delayed the release of its smart home display, planned for this month, until later this year to let the company finish work on the new Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260309/p27#a260309p27)
- - [Bigfoot, Orca, a Trombone, and five more new emoji are here with iOS 26.4 beta 4](https://appleinsider.com/articles/26/03/09/bigfoot-orca-a-trombone-and-five-more-new-emoji-are-here-with-ios-264-beta-4?utm_source=rss)
- - [NBC News poll of 1,000 registered voters: just 26% had a positive view of AI, while 46% had a negative view, the third worst net negative score of all topics &lpar;Jake Angelo/Fortune&rpar;](http://www.techmeme.com/260309/p26#a260309p26)
- - [UK&#39;s AI drive, touted since 2024 and featuring splashy NScale and CoreWeave deals, to build datacenters is riddled with phantom investments and shaky accounting &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/260309/p25#a260309p25)<!-- TECH:END -->
+ - [Add more ports to the MacBook Neo with these docking stations](https://appleinsider.com/articles/26/03/09/add-more-ports-to-the-macbook-neo-with-these-docking-stations?utm_source=rss)
+ - [SoftBank&#39;s stock is down ~48% since Nov. 3, as scrutiny into the scale of its OpenAI involvement grows; on Monday, SoftBank fell 9.8% on Stargate delay reports &lpar;Financial Times&rpar;](http://www.techmeme.com/260309/p30#a260309p30)
+ - [One of this rugged phone&amp;#8217;s cameras is a pop-out action cam](https://www.theverge.com/tech/891496/ulefone-rugone-xsnap-7-pro-removable-action-camera)
+ - [Apple&#39;s smart home hub delayed again because mondernizing Siri is hard](https://appleinsider.com/articles/26/03/09/apples-smart-home-hub-delayed-again-because-updating-siri-is-hard?utm_source=rss)
+ - [Anthropic debuts a Code Review feature for Claude Code, which uses agents working in teams to check pull requests for bugs, available in research preview &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260309/p29#a260309p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

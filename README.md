@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK&#39;s AI drive, touted since 2024 and featuring splashy NScale and CoreWeave deals, to build datacenters is riddled with phantom investments and shaky accounting &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/260309/p25#a260309p25)
+ - [Fourth iOS 26.4, macOS 26.4 developer betas arrive for testing](https://appleinsider.com/articles/26/03/09/fourth-ios-264-macos-264-developer-betas-arrive-for-testing?utm_source=rss)
  - [OpenAI agrees to acquire Promptfoo, which fixes security issues in AI systems being built and is &quot;trusted by 25%+ of Fortune 500&quot;, to fold into OpenAI Frontier &lpar;OpenAI&rpar;](http://www.techmeme.com/260309/p24#a260309p24)
  - [iPhone 18e production is on time, leak predictably claims](https://appleinsider.com/articles/26/03/09/iphone-18e-production-is-on-time-leak-predictably-claims?utm_source=rss)
- - [Your Espresso Machine Doesn’t Have to Be Fancy to Make Good Coffee](https://www.wired.com/story/casabrews-5700-espresso-machine-java-base/)
- - [This is what case-makers think the iPhone Fold will look like](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
- - [Apple&#39;s updated leadership page reveals renewed focus on design](https://appleinsider.com/articles/26/03/09/apples-updated-leadership-page-reveals-renewed-focus-on-design?utm_source=rss)<!-- TECH:END -->
+ - [Apple Gave Us the Neo, Now It Might Be Planning a High-End MacBook Ultra](https://www.cnet.com/tech/computing/apple-macbook-ultra-oled-display-rumor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

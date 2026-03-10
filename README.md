@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emil Michael says Google will deploy Gemini AI agents to Pentagon&#39;s 3M-strong workforce, initially on unclassified networks for tasks such as creating budgets &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260310/p29#a260310p29)
- - [iPhone cameras move deeper into podcast studios with the RodeCaster Video Core](https://appleinsider.com/articles/26/03/10/iphone-cameras-move-deeper-into-podcast-studios-with-the-rodecaster-video-core?utm_source=rss)
- - [I reviewed the MacBook Neo, ask me anything](https://www.theverge.com/gadgets/892071/i-reviewed-the-macbook-neo-ask-me-anything)
- - [Rhoda AI, which is developing an AI model for industrial robots trained on public internet videos, raised $450M led by Premji Invest at a $1.7B valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260310/p28#a260310p28)
- - [Bluetti&#39;s new Elite 300 portable power station can keep your Apple Home &amp; gear powered for any adventure](https://appleinsider.com/articles/26/03/10/bluettis-new-elite-300-portable-power-station-can-keep-your-apple-home-gear-powered-for-any-adventure?utm_source=rss)<!-- TECH:END -->
+ - [In a preliminary ruling, a US judge orders Perplexity to stop using Comet browser to make purchases on behalf of users from password-protected Amazon accounts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p32#a260310p32)
+ - [Nvidia’s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March](https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation)
+ - [Every influencer eventually becomes a merch store](https://www.theverge.com/tech/892140/tucker-carlson-merch-commie-hat-influencers-mrbeast)
+ - [After a backlash, Google adds a toggle to let Google Photos users return to the &quot;classic&quot; search experience instead of the newer AI-powered &quot;Ask Photos&quot; option &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260310/p31#a260310p31)
+ - [The gym-friendly Beats Powerbeats Pro 2 are 20 percent off right now](https://www.theverge.com/gadgets/891550/beats-powerbeats-pro-2-apple-watch-series-9-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

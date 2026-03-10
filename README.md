@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [F1: The Stream - how the launch leveraged Apple&#39;s entire ecosystem](https://appleinsider.com/articles/26/03/10/f1-the-stream---how-the-launch-leveraged-apples-entire-ecosystem?utm_source=rss)
+ - [Nexthop AI, which offers specialized switches to reduce power consumption and latency for hyperscalers, raised $500M led by Lightspeed at a $4.2B valuation &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260310/p12#a260310p12)
+ - [8 Best Cheap Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
  - [How AI training company Mercor, valued at $10B in 2025, uses AI interviewer Melvin and invasive monitoring software Insightful to manage its 30K+ workforce &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/260310/p11#a260310p11)
- - [India makes one in four of all iPhones worldwide](https://appleinsider.com/articles/26/03/10/india-makes-one-in-four-of-all-iphones-worldwide?utm_source=rss)
- - [The Best Streaming Bundles and Streaming Deals of March 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)
- - [AT&amp;T says it plans to spend $250B+ over the next five years to build out its US infrastructure, including high-speed fiber; AT&amp;T spent $21B on capex in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p10#a260310p10)
- - [How Can a Locomotive Pull a Long Train That’s Much Heavier?](https://www.wired.com/story/how-can-a-locomotive-pull-a-train-thats-much-heavier/)<!-- TECH:END -->
+ - [India makes one in four of all iPhones worldwide](https://appleinsider.com/articles/26/03/10/india-makes-one-in-four-of-all-iphones-worldwide?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

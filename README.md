@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - 😝 [Have an update.](http://9gag.com/gag/aO856XR)
- - 💣 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 😝 [Modern problems, i miss the old movie system.](http://9gag.com/gag/an7oXzb)
- - 👉 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)<!-- MEMES:END -->
+ - 😝 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)
+ - 😝 [Just listen to your heart](http://9gag.com/gag/agme0GK)
+ - 💣 [Human Logic](http://9gag.com/gag/azx3bxj)
+ - 😝 [Trust me. This one is definitely worth the time.](http://9gag.com/gag/aGyQ9Y5)
+ - 👉 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
  - 😝 [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)
- - 💣 [I know you&#39;d never try this, you are just a better man](http://9gag.com/gag/aD2v0o7)
- - 😝 [Penguins giving their partners colorful pebbles is the cutest thing you&#39;ll see today](http://9gag.com/gag/adBzNbN)
- - 👉 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)<!-- MEMES:END -->
+ - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
+ - 💣 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)
+ - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
+ - 👉 [Justice!](http://9gag.com/gag/aE05e0O)<!-- MEMES:END -->
 
 ---
 

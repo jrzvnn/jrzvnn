@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dify, which offers an open-source platform to build and run AI applications and agentic workflows, raised a $30M pre-Series A led by HSG at a $180M valuation &lpar;FinSMEs&rpar;](http://www.techmeme.com/260309/p41#a260309p41)
- - [xAI aims to build a natural gas power plant in Southaven, MS, to run its data centers; a key meeting with regulators is set on an election day ~200 miles away &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260309/p40#a260309p40)
- - [Huion Kamvas 22 &lpar;Gen 3&rpar; drawing tablet review: An excellent entry-level option](https://appleinsider.com/articles/26/03/10/huion-kamvas-22-gen-3-drawing-tablet-review-an-excellent-entry-level-option?utm_source=rss)
- - [Sources: the White House is preparing an executive order formally instructing federal agencies to stop using Anthropic&#39;s AI tools &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260309/p39#a260309p39)
- - [Here&#39;s How to Track the Artemis II Mission in Real Time With NASA&#39;s New Tool](https://www.cnet.com/science/space/mission-control-track-the-artemis-ii-mission-in-real-time-with-nasas-new-tool/)<!-- TECH:END -->
+ - [Sources: Apple made ~55M iPhones in India in 2025, up 53% YoY from 36M in 2024, ~25% of total iPhone production as it shifts away from China to avoid tariffs &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/260309/p44#a260309p44)
+ - [Flipkart moves its headquarters back to India, more than a decade after it moved to Singapore, as it prepares for a potential IPO in India in the coming months &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260309/p43#a260309p43)
+ - [App Tracking Transparency still under fire from German publishers](https://appleinsider.com/articles/26/03/10/app-tracking-transparency-still-under-fire-from-german-publishers?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-10/)
+ - [Source: Spark Capital, the first VC firm to back Anthropic in 2023, is raising about $3B in new funds, 50% more than the size of funds it raised two years ago &lpar;The Information&rpar;](http://www.techmeme.com/260309/p42#a260309p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)
- - 😝 [Might need a hazmat suit](http://9gag.com/gag/avyjpqb)
- - 💣 [Human Logic](http://9gag.com/gag/azx3bxj)
- - 😝 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)
- - 👉 [I pray that you\u2019ll find love one day, it happened to me, it can happen to you](http://9gag.com/gag/aKGMzvj)<!-- MEMES:END -->
+ - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
+ - 💣 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)
+ - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
+ - 👉 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
 
 ---
 

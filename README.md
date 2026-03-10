@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer’s BlackShark V2 Pro gaming headset is $90, which is a new low price](https://www.theverge.com/gadgets/892489/razer-blackshark-v2-pro-wireless-gaming-headset-deal-sale)
+ - [Sources: US Social Security&#39;s inspector general is investigating claims an ex-DOGE engineer took sensitive data on a thumb drive to his new private employer &lpar;Washington Post&rpar;](http://www.techmeme.com/260310/p41#a260310p41)
  - [Pokopia Pokédex review: a classic, reimagined](https://www.theverge.com/games/892066/pokopia-pokedex-review)
  - [Anker’s Discounted Power Station Can Power Your Next Camping Trip](https://www.wired.com/story/anker-solix-c1000-spring-deal/)
- - [Sources: Nielsen&#39;s Gracenote sues OpenAI for copyright infringement, saying OpenAI copied Gracenote&#39;s data and relational framework used to connect metadata &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260310/p40#a260310p40)
- - [Interstellar Comet 3I/Atlas Has Another Surprise: It’s Full of Alcohol](https://www.wired.com/story/interstellar-comet-3i-atlas-has-another-surprise-its-full-of-alcohol/)
- - [This $11K 2019 Intel Mac Pro beats M3 Max MacBook Pro in one specific workflow](https://appleinsider.com/articles/26/03/10/this-11k-2019-intel-mac-pro-beats-m3-max-macbook-pro-in-one-specific-workflow?utm_source=rss)<!-- TECH:END -->
+ - [Nielsen&#39;s Gracenote sues OpenAI for copyright infringement, saying OpenAI copied Gracenote&#39;s data and relational framework used to connect metadata &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260310/p40#a260310p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

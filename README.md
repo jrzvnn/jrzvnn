@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [F1: The Stream - how the launch leveraged Apple&#39;s entire ecosystem](https://appleinsider.com/articles/26/03/10/f1-the-stream---how-the-launch-leveraged-apples-entire-ecosystem?utm_source=rss)
- - [Nexthop AI, which offers specialized switches to reduce power consumption and latency for hyperscalers, raised $500M led by Lightspeed at a $4.2B valuation &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260310/p12#a260310p12)
- - [8 Best Cheap Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
- - [How AI training company Mercor, valued at $10B in 2025, uses AI interviewer Melvin and invasive monitoring software Insightful to manage its 30K+ workforce &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/260310/p11#a260310p11)
- - [India makes one in four of all iPhones worldwide](https://appleinsider.com/articles/26/03/10/india-makes-one-in-four-of-all-iphones-worldwide?utm_source=rss)<!-- TECH:END -->
+ - [M5 Pro 14-inch MacBook Pro vs. M4 Pro 14-inch MacBook Pro: Compared](https://appleinsider.com/articles/26/03/10/m5-pro-14-inch-macbook-pro-vs-m4-pro-14-inch-macbook-pro-compared?utm_source=rss)
+ - [Memo: Amazon SVP Dave Treadwell says junior and mid-level engineers now require more senior engineers to sign off any AI-assisted code changes, after outages &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260310/p16#a260310p16)
+ - [AI networking equipment startup Eridu emerges from stealth and raised a $200M Series A led by Socratic, John Doerr, and more, taking its total funding to $230M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260310/p15#a260310p15)
+ - [Some People Are Too Sleepy to Make Fancy Coffee. For Them, There’s the Keurig K-Cafe](https://www.wired.com/story/keurig-k-cafe-smart-rave/)
+ - [Meta emails advertisers about &quot;location fees&quot; in select European countries to cover digital services taxes, starting July 1; Google and Amazon have similar fees &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260310/p14#a260310p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

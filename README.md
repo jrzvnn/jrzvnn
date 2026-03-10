@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Responsibly Dispose of Your Electronics &lpar;2026&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
- - [Use Microsoft PC Manager to Speed Up Your Windows 11 Computer](https://www.wired.com/story/microsoft-pc-manager-speed-up-windows-11/)
- - [US commercial satellite provider Planet Labs delays Middle East imagery to two weeks from four days over concerns it could be used to target NATO members &lpar;Aaron Clark/Bloomberg&rpar;](http://www.techmeme.com/260310/p7#a260310p7)
- - [A look at the top 100 GenAI consumer apps: ChatGPT leads but the race for the &quot;default AI&quot; is on, global usage is splintering by product, and AI agents arrive &lpar;Olivia Moore/Andreessen Horowitz&rpar;](http://www.techmeme.com/260310/p6#a260310p6)
- - [Meta’s deepfake moderation isn’t good enough, says Oversight Board](https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram)<!-- TECH:END -->
+ - [How AI training company Mercor, valued at $10B in 2025, uses AI interviewer Melvin and invasive monitoring software Insightful to manage its 30K+ workforce &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/260310/p11#a260310p11)
+ - [India makes one in four of all iPhones worldwide](https://appleinsider.com/articles/26/03/10/india-makes-one-in-four-of-all-iphones-worldwide?utm_source=rss)
+ - [The Best Streaming Bundles and Streaming Deals of March 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)
+ - [AT&amp;T says it plans to spend $250B+ over the next five years to build out its US infrastructure, including high-speed fiber; AT&amp;T spent $21B on capex in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p10#a260310p10)
+ - [How Can a Locomotive Pull a Long Train That’s Much Heavier?](https://www.wired.com/story/how-can-a-locomotive-pull-a-train-thats-much-heavier/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

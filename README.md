@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
- - 😝 [Old man making vlog about his hobby](http://9gag.com/gag/a9yGbro)
- - 💣 [Have an update.](http://9gag.com/gag/aO856XR)
- - 😝 [Good cracker 2](http://9gag.com/gag/aO8WyPN)
- - 👉 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)<!-- MEMES:END -->
+ - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
+ - 😝 [Have an update.](http://9gag.com/gag/aO856XR)
+ - 💣 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
+ - 😝 [Modern problems, i miss the old movie system.](http://9gag.com/gag/an7oXzb)
+ - 👉 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)<!-- MEMES:END -->
 
 ---
 

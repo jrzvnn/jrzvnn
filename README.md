@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the spiraling Iran conflict could affect data centers and electricity costs](https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity)
+ - [Sandbar, which is developing the Stream ring, a $249+ AI-powered wearable that transcribes audio notes, raised a $23M Series A, bringing total funding to $36M &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/260310/p51#a260310p51)
+ - [Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260310/p50#a260310p50)
  - [A live-action Samurai Champloo is in the works](https://www.theverge.com/entertainment/892675/a-live-action-samurai-champloo-is-in-the-works)
- - [Leaked memo: a top Senate administrator gave aides the green light to use ChatGPT, Gemini, and Copilot for official Senate work, including preparing briefings &lpar;Catie Edmondson/New York Times&rpar;](http://www.techmeme.com/260310/p49#a260310p49)
- - [Listen to the Live Nation CEO&amp;#8217;s alleged threats to a concert venue](https://www.theverge.com/policy/892558/live-nation-ceo-michael-rapino-barclays-center-john-abbamondi-ticketmaster-call-trial)
- - [Internal doc: the State Department moved its internal chatbot from Claude Sonnet 4.5 to GPT-4.1, following Trump&#39;s directive to cancel Anthropic contracts &lpar;Nextgov/FCW&rpar;](http://www.techmeme.com/260310/p48#a260310p48)
- - [Ford is giving its commercial fleet business an AI makeover](https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet)<!-- TECH:END -->
+ - [Leaked memo: a top Senate administrator gave aides the green light to use ChatGPT, Gemini, and Copilot for official Senate work, including preparing briefings &lpar;Catie Edmondson/New York Times&rpar;](http://www.techmeme.com/260310/p49#a260310p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

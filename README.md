@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
- - 😝 [Going the extra mile](http://9gag.com/gag/aryLpA7)
- - 💣 [Have an update.](http://9gag.com/gag/aO856XR)
+ - 😝 [I was there Gandalf](http://9gag.com/gag/aW4XZ4n)
+ - 😝 [I pray that you\u2019ll find love one day, it happened to me, it can happen to you](http://9gag.com/gag/aKGMzvj)
+ - 💣 [Human Logic](http://9gag.com/gag/azx3bxj)
  - 😝 [Cats distribution system at its finest](http://9gag.com/gag/aO8WyYy)
- - 👉 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)<!-- MEMES:END -->
+ - 👉 [Might need a hazmat suit](http://9gag.com/gag/avyjpqb)<!-- MEMES:END -->
 
 ---
 

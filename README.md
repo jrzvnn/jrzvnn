@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
+ - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
  - 😝 [Old man making vlog about his hobby](http://9gag.com/gag/a9yGbro)
- - 💣 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 😝 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)
+ - 💣 [Have an update.](http://9gag.com/gag/aO856XR)
+ - 😝 [Good cracker 2](http://9gag.com/gag/aO8WyPN)
  - 👉 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)<!-- MEMES:END -->
 
 ---

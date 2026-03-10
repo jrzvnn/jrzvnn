@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 Pro 14-inch MacBook Pro vs. M4 Pro 14-inch MacBook Pro: Compared](https://appleinsider.com/articles/26/03/10/m5-pro-14-inch-macbook-pro-vs-m4-pro-14-inch-macbook-pro-compared?utm_source=rss)
- - [Memo: Amazon SVP Dave Treadwell says junior and mid-level engineers now require more senior engineers to sign off any AI-assisted code changes, after outages &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260310/p16#a260310p16)
- - [AI networking equipment startup Eridu emerges from stealth and raised a $200M Series A led by Socratic, John Doerr, and more, taking its total funding to $230M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260310/p15#a260310p15)
- - [Some People Are Too Sleepy to Make Fancy Coffee. For Them, There’s the Keurig K-Cafe](https://www.wired.com/story/keurig-k-cafe-smart-rave/)
- - [Meta emails advertisers about &quot;location fees&quot; in select European countries to cover digital services taxes, starting July 1; Google and Amazon have similar fees &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260310/p14#a260310p14)<!-- TECH:END -->
+ - [Israeli startup Jazz, which uses AI agents to tackle data loss prevention, raised $61M across seed and Series A led by Glilot and Team8, and has 15 paying users &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/260310/p24#a260310p24)
+ - [Sonos just launched Play, a new $299 portable speaker](https://www.theverge.com/tech/891755/sonos-announces-play-era-100-sl-speakers)
+ - [Sources: Tencent is developing a top-secret AI agent for WeChat, and has tested using models from Zhipu, Alibaba, and DeepSeek, to compete with Qwen and Doubao &lpar;The Information&rpar;](http://www.techmeme.com/260310/p23#a260310p23)
+ - [iRobot’s Roomba Mini can clean where its larger robovacs can’t reach](https://www.theverge.com/tech/891985/irobot-roomba-mini-robot-robovac-vacuum-price-availability)
+ - [Google rolls out Gemini-powered AI capabilities across Docs, Sheets, Slides, and Drive, including a &quot;Help me create&quot; tool in Docs to generate first drafts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260310/p22#a260310p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

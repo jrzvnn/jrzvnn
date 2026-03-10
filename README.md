@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli startup Jazz, which uses AI agents to tackle data loss prevention, raised $61M across seed and Series A led by Glilot and Team8, and has 15 paying users &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/260310/p24#a260310p24)
- - [Sonos just launched Play, a new $299 portable speaker](https://www.theverge.com/tech/891755/sonos-announces-play-era-100-sl-speakers)
- - [Sources: Tencent is developing a top-secret AI agent for WeChat, and has tested using models from Zhipu, Alibaba, and DeepSeek, to compete with Qwen and Doubao &lpar;The Information&rpar;](http://www.techmeme.com/260310/p23#a260310p23)
- - [iRobot’s Roomba Mini can clean where its larger robovacs can’t reach](https://www.theverge.com/tech/891985/irobot-roomba-mini-robot-robovac-vacuum-price-availability)
- - [Google rolls out Gemini-powered AI capabilities across Docs, Sheets, Slides, and Drive, including a &quot;Help me create&quot; tool in Docs to generate first drafts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260310/p22#a260310p22)<!-- TECH:END -->
+ - [Emil Michael says Google will deploy Gemini AI agents to Pentagon&#39;s 3M-strong workforce, initially on unclassified networks for tasks such as creating budgets &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260310/p29#a260310p29)
+ - [iPhone cameras move deeper into podcast studios with the RodeCaster Video Core](https://appleinsider.com/articles/26/03/10/iphone-cameras-move-deeper-into-podcast-studios-with-the-rodecaster-video-core?utm_source=rss)
+ - [I reviewed the MacBook Neo, ask me anything](https://www.theverge.com/gadgets/892071/i-reviewed-the-macbook-neo-ask-me-anything)
+ - [Rhoda AI, which is developing an AI model for industrial robots trained on public internet videos, raised $450M led by Premji Invest at a $1.7B valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260310/p28#a260310p28)
+ - [Bluetti&#39;s new Elite 300 portable power station can keep your Apple Home &amp; gear powered for any adventure](https://appleinsider.com/articles/26/03/10/bluettis-new-elite-300-portable-power-station-can-keep-your-apple-home-gear-powered-for-any-adventure?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

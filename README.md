@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;X-Plane 12&#39; flight simulator to take advantage of Nvidia CloudXR 6 in visionOS 26.4](https://appleinsider.com/articles/26/03/10/x-plane-12-flight-simulator-to-take-advantage-of-nvidia-cloudxr-6-in-visionos-264?utm_source=rss)
+ - [A now-resolved Apple server outage stopped developers from verifying apps](https://appleinsider.com/articles/26/03/10/a-now-resolved-apple-server-outage-stopped-developers-from-verifying-apps?utm_source=rss)
+ - [Polymarket says it is partnering with Palantir and TWG AI to identify, prevent, and report suspicious activity in Polymarket&#39;s sports contracts &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/260310/p52#a260310p52)
  - [How the spiraling Iran conflict could affect data centers and electricity costs](https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity)
- - [Sandbar, which is developing the Stream ring, a $249+ AI-powered wearable that transcribes audio notes, raised a $23M Series A, bringing total funding to $36M &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/260310/p51#a260310p51)
- - [Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260310/p50#a260310p50)
- - [A live-action Samurai Champloo is in the works](https://www.theverge.com/entertainment/892675/a-live-action-samurai-champloo-is-in-the-works)
- - [Leaked memo: a top Senate administrator gave aides the green light to use ChatGPT, Gemini, and Copilot for official Senate work, including preparing briefings &lpar;Catie Edmondson/New York Times&rpar;](http://www.techmeme.com/260310/p49#a260310p49)<!-- TECH:END -->
+ - [Sandbar, which is developing the Stream ring, a $249+ AI-powered wearable that transcribes audio notes, raised a $23M Series A, bringing total funding to $36M &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/260310/p51#a260310p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

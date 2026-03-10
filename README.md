@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dify, which offers an open-source platform to build and run AI applications and agentic workflows, raised a $30M pre-Series A led by HSG at a $180M valuation &lpar;FinSMEs&rpar;](http://www.techmeme.com/260309/p41#a260309p41)
+ - [xAI aims to build a natural gas power plant in Southaven, MS, to run its data centers; a key meeting with regulators is set on an election day ~200 miles away &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260309/p40#a260309p40)
+ - [Huion Kamvas 22 &lpar;Gen 3&rpar; drawing tablet review: An excellent entry-level option](https://appleinsider.com/articles/26/03/10/huion-kamvas-22-gen-3-drawing-tablet-review-an-excellent-entry-level-option?utm_source=rss)
  - [Sources: the White House is preparing an executive order formally instructing federal agencies to stop using Anthropic&#39;s AI tools &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260309/p39#a260309p39)
- - [Sources: PE firm EQT is exploring a sale of Linux distribution vendor SUSE in a deal that could value it at up to $6B; SUSE was valued at ~$2.96B in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/260309/p38#a260309p38)
- - [Sources: Nvidia is pitching NemoClaw, an upcoming open-source AI agent platform for enterprises, and plans to offer security and privacy tools for it &lpar;Wired&rpar;](http://www.techmeme.com/260309/p37#a260309p37)
- - [Canada will allow TikTok to continue operating in the country under new security commitments, reversing a 2024 order to wind down TikTok&#39;s Canadian subsidiary &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/260309/p36#a260309p36)
- - [Nvidia Is Planning to Launch an Open-Source AI Agent Platform](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)<!-- TECH:END -->
+ - [Here&#39;s How to Track the Artemis II Mission in Real Time With NASA&#39;s New Tool](https://www.cnet.com/science/space/mission-control-track-the-artemis-ii-mission-in-real-time-with-nasas-new-tool/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

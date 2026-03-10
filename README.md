@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You Could Be Next](https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor)
  - [How &quot;dark factories&quot;, powered by AI and robotics and requiring essentially no workers, are set to upend China&#39;s labor market, already stressed by tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p3#a260310p3)
  - [How AI may disrupt venture capital, from making it easier and cheaper to start software companies, to agentic investors analyzing startup pitch decks and teams &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/260310/p2#a260310p2)
- - [Yann LeCun&#39;s Advanced Machine Intelligence Labs raised a $1.03B seed at a $3.5B pre-money valuation to work on world models, in Europe&#39;s largest ever seed round &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260310/p1#a260310p1)
- - [Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
- - [Sources: Apple made ~55M iPhones in India in 2025, up 53% YoY from 36M in 2024, or ~25% of total iPhone production, as it shifts away from China amid tariffs &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/260309/p44#a260309p44)<!-- TECH:END -->
+ - [Yann LeCun&#39;s Advanced Machine Intelligence Labs raised a $1.03B seed at a $3.5B pre-money valuation to work on world models, in Europe&#39;s largest-ever seed round &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260310/p1#a260310p1)
+ - [Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

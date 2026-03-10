@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS](https://www.wired.com/story/pete-hegseth-is-pushing-defense-employees-to-volunteer-for-dhs/)
- - [Bad CAPTCHA in the wild tricks Mac users into installing malware through Terminal](https://appleinsider.com/articles/26/03/10/bad-captcha-in-the-wild-tricks-mac-users-into-installing-malware-through-terminal?utm_source=rss)
- - [MoffettNathanson: YouTube became the world&#39;s largest media company in 2025 with an estimated $62B in revenue, passing $60.9B earned by Disney&#39;s media business &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260310/p42#a260310p42)
- - [Apple Home Hub rumored to offer watchOS-style UI and MagSafe](https://appleinsider.com/articles/26/03/10/apple-home-hub-rumored-to-offer-watchos-style-ui-and-magsafe?utm_source=rss)
- - [Razer’s BlackShark V2 Pro gaming headset is $90, which is a new low price](https://www.theverge.com/gadgets/892489/razer-blackshark-v2-pro-wireless-gaming-headset-deal-sale)<!-- TECH:END -->
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+ - [Sources: General Catalyst is in talks with investors to raise about $10B; it raised $8B in capital in 2024 and had more than $40B in AUM as of last summer &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260310/p45#a260310p45)
+ - [Nitra, which offers a platform powered by AI agents to manage medical practices, raised a $50M Series B, bringing its total funding to $205M &lpar;Catherina Gioino/Fortune&rpar;](http://www.techmeme.com/260310/p44#a260310p44)
+ - [iPhone Flip death rumors fold under close examination](https://appleinsider.com/articles/26/03/10/iphone-flip-death-rumors-fold-under-close-examination?utm_source=rss)
+ - [Oracle reports Q3 revenue up 22% YoY to $17.19B, vs. $16.91B est., and cloud revenue up 44% to $8.9B, vs. $8.85B est.; ORCL jumps 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260310/p43#a260310p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

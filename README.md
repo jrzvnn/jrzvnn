@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos returns to speaker hardware after Apple TV 4K competitor &amp; app failures](https://appleinsider.com/articles/26/03/10/sonos-returns-to-speaker-hardware-after-apple-tv-4k-competitor-app-failures?utm_source=rss)
- - [The Senate confirms Army Lt. Gen. Joshua Rudd to lead the NSA and US Cyber Command, filling a vacancy created when Gen. Timothy Haugh was fired in April 2025 &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/260310/p37#a260310p37)
- - [Fake AI Content About the Iran War Is All Over X](https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/)
- - [After an online backlash, Superhuman says experts can now opt out of Grammarly&#39;s Expert Review feature by emailing a dedicated address, but fails to apologize &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260310/p36#a260310p36)
- - [Sources: Salesforce plans a record debt sale of up to $25B to fund its share buybacks; the company announced a $50B stock buyback program in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p35#a260310p35)<!-- TECH:END -->
+ - [Sandbar, which is developing the Stream Ring, a $249+ AI-powered wearable that transcribes audio notes, raised a $23M Series A, bringing total funding to $36M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260310/p39#a260310p39)
+ - [Our Favorite Earbuds for Samsung Owners Are on Sale](https://www.wired.com/story/samsung-galaxy-buds-fe-deal-326/)
+ - [This $11K 2019 Intel Mac Pro beats M3 Max MacBook Pro in one specific workflow](https://appleinsider.com/articles/26/03/10/this-11k-2019-intel-mac-pro-beats-m3-max-macbook-pro-in-one-specific-workflow?utm_source=rss)
+ - [Slide, which develops data backup and disaster recovery tech for managed service providers, raised a $70M Series B led by GC, bringing its total funding to $95M &lpar;CJ Fairfield/CRN&rpar;](http://www.techmeme.com/260310/p38#a260310p38)
+ - [Slay the Spire II is even better with a friend](https://www.theverge.com/entertainment/892210/slay-the-spire-2-co-op-multiplayer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

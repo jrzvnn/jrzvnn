@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 😝 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 💣 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - 😝 [Good cracker 2](http://9gag.com/gag/aO8WyPN)
- - 👉 [Have an update.](http://9gag.com/gag/aO856XR)<!-- MEMES:END -->
+ - 😝 [Human Logic](http://9gag.com/gag/azx3bxj)
+ - 😝 [Trust me. This one is definitely worth the time.](http://9gag.com/gag/aGyQ9Y5)
+ - 💣 [Just listen to your heart](http://9gag.com/gag/agme0GK)
+ - 😝 [Every damn time](http://9gag.com/gag/aNDboBb)
+ - 👉 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)<!-- MEMES:END -->
 
 ---
 

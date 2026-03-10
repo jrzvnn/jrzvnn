@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You Could Be Next](https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor)
- - [How &quot;dark factories&quot;, powered by AI and robotics and requiring essentially no workers, are set to upend China&#39;s labor market, already stressed by tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p3#a260310p3)
- - [How AI may disrupt venture capital, from making it easier and cheaper to start software companies, to agentic investors analyzing startup pitch decks and teams &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/260310/p2#a260310p2)
- - [Yann LeCun&#39;s Advanced Machine Intelligence Labs raised a $1.03B seed at a $3.5B pre-money valuation to work on world models, in Europe&#39;s largest-ever seed round &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260310/p1#a260310p1)
- - [Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)<!-- TECH:END -->
+ - [Pentagon official Emil Michael says Anthropic&#39;s lawsuit is an &quot;expected reaction&quot; and &quot;I don&#39;t think there&#39;s a scenario where this gets resolved in that way&quot; &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260310/p5#a260310p5)
+ - [Uzbek fintech and e-commerce company Uzum raised $131.5M led by Oman&#39;s sovereign funds, with $81.5M equity, at a $2.3B valuation, up from $1.5B in August 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260310/p4#a260310p4)
+ - [11 Best Pillows: Tested For Side, Back, and Stomach Sleepers &lpar;2026&rpar;](https://www.wired.com/gallery/best-pillows/)
+ - [The Best Microcurrent Devices for Firmer Skin in 2026](https://www.cnet.com/health/best-microcurrent-devices/)
+ - [You Could Be Next](https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

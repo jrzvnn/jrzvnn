@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS 26.3.2 delivers quality-of-life improvements for MacBook Neo](https://appleinsider.com/articles/26/03/10/macos-2632-delivers-quality-of-life-improvements-for-macbook-neo?utm_source=rss)
+ - [Amazon expands its healthcare AI assistant Health AI to its website and app; it was previously only available on the app for One Medical &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260310/p46#a260310p46)
  - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
  - [Sources: General Catalyst is in talks with investors to raise about $10B; it raised $8B in capital in 2024 and had more than $40B in AUM as of last summer &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260310/p45#a260310p45)
- - [Nitra, which offers a platform powered by AI agents to manage medical practices, raised a $50M Series B, bringing its total funding to $205M &lpar;Catherina Gioino/Fortune&rpar;](http://www.techmeme.com/260310/p44#a260310p44)
- - [iPhone Flip death rumors fold under close examination](https://appleinsider.com/articles/26/03/10/iphone-flip-death-rumors-fold-under-close-examination?utm_source=rss)
- - [Oracle reports Q3 revenue up 22% YoY to $17.19B, vs. $16.91B est., and cloud revenue up 44% to $8.9B, vs. $8.85B est.; ORCL jumps 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260310/p43#a260310p43)<!-- TECH:END -->
+ - [Nitra, which offers a platform powered by AI agents to manage medical practices, raised a $50M Series B, bringing its total funding to $205M &lpar;Catherina Gioino/Fortune&rpar;](http://www.techmeme.com/260310/p44#a260310p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

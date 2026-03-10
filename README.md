@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s BlackShark V2 Pro gaming headset is $90, which is a new low price](https://www.theverge.com/gadgets/892489/razer-blackshark-v2-pro-wireless-gaming-headset-deal-sale)
- - [Sources: US Social Security&#39;s inspector general is investigating claims an ex-DOGE engineer took sensitive data on a thumb drive to his new private employer &lpar;Washington Post&rpar;](http://www.techmeme.com/260310/p41#a260310p41)
- - [Pokopia Pokédex review: a classic, reimagined](https://www.theverge.com/games/892066/pokopia-pokedex-review)
- - [Anker’s Discounted Power Station Can Power Your Next Camping Trip](https://www.wired.com/story/anker-solix-c1000-spring-deal/)
- - [Nielsen&#39;s Gracenote sues OpenAI for copyright infringement, saying OpenAI copied Gracenote&#39;s data and relational framework used to connect metadata &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260310/p40#a260310p40)<!-- TECH:END -->
+ - [Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS](https://www.wired.com/story/pete-hegseth-is-pushing-defense-employees-to-volunteer-for-dhs/)
+ - [Bad CAPTCHA in the wild tricks Mac users into installing malware through Terminal](https://appleinsider.com/articles/26/03/10/bad-captcha-in-the-wild-tricks-mac-users-into-installing-malware-through-terminal?utm_source=rss)
+ - [MoffettNathanson: YouTube became the world&#39;s largest media company in 2025 with an estimated $62B in revenue, passing $60.9B earned by Disney&#39;s media business &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260310/p42#a260310p42)
+ - [Apple Home Hub rumored to offer watchOS-style UI and MagSafe](https://appleinsider.com/articles/26/03/10/apple-home-hub-rumored-to-offer-watchos-style-ui-and-magsafe?utm_source=rss)
+ - [Razer’s BlackShark V2 Pro gaming headset is $90, which is a new low price](https://www.theverge.com/gadgets/892489/razer-blackshark-v2-pro-wireless-gaming-headset-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

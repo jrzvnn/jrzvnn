@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yann LeCun&#39;s Advanced Machine Intelligence Labs raised a $1.03B seed at a $3.5B pre-money valuation to work on world models, in Europe&#39;s largest ever seed round &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260310/p1#a260310p1)
+ - [Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
  - [Sources: Apple made ~55M iPhones in India in 2025, up 53% YoY from 36M in 2024, ~25% of total iPhone production as it shifts away from China to avoid tariffs &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/260309/p44#a260309p44)
  - [Flipkart moves its headquarters back to India, more than a decade after it moved to Singapore, as it prepares for a potential IPO in India in the coming months &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260309/p43#a260309p43)
- - [App Tracking Transparency still under fire from German publishers](https://appleinsider.com/articles/26/03/10/app-tracking-transparency-still-under-fire-from-german-publishers?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-10/)
- - [Source: Spark Capital, the first VC firm to back Anthropic in 2023, is raising about $3B in new funds, 50% more than the size of funds it raised two years ago &lpar;The Information&rpar;](http://www.techmeme.com/260309/p42#a260309p42)<!-- TECH:END -->
+ - [App Tracking Transparency still under fire from German publishers](https://appleinsider.com/articles/26/03/10/app-tracking-transparency-still-under-fire-from-german-publishers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

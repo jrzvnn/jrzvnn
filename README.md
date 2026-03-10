@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 😝 [It&#39;s not her fault](http://9gag.com/gag/aGyQYMz)
- - 💣 [Going the extra mile](http://9gag.com/gag/aryLpA7)
- - 😝 [Get straight to the point](http://9gag.com/gag/aND5yV4)
- - 👉 [The FAFO king 2015](http://9gag.com/gag/a5QYeoq)<!-- MEMES:END -->
+ - 😝 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)
+ - 😝 [Might need a hazmat suit](http://9gag.com/gag/avyjpqb)
+ - 💣 [Human Logic](http://9gag.com/gag/azx3bxj)
+ - 😝 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)
+ - 👉 [I pray that you\u2019ll find love one day, it happened to me, it can happen to you](http://9gag.com/gag/aKGMzvj)<!-- MEMES:END -->
 
 ---
 

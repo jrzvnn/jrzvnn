@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Human Logic](http://9gag.com/gag/azx3bxj)
  - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
+ - 😝 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)
  - 💣 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)
- - 😝 [Mind blown by this light and color experiment](http://9gag.com/gag/aXPObB9)
+ - 😝 [What a dinner that must have been](http://9gag.com/gag/aGyQV9Z)
  - 👉 [I was there Gandalf](http://9gag.com/gag/aW4XZ4n)<!-- MEMES:END -->
 
 ---

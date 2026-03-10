@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A live-action Samurai Champloo is in the works](https://www.theverge.com/entertainment/892675/a-live-action-samurai-champloo-is-in-the-works)
+ - [Leaked memo: a top Senate administrator gave aides the green light to use ChatGPT, Gemini, and Copilot for official Senate work, including preparing briefings &lpar;Catie Edmondson/New York Times&rpar;](http://www.techmeme.com/260310/p49#a260310p49)
  - [Listen to the Live Nation CEO&amp;#8217;s alleged threats to a concert venue](https://www.theverge.com/policy/892558/live-nation-ceo-michael-rapino-barclays-center-john-abbamondi-ticketmaster-call-trial)
  - [Internal doc: the State Department moved its internal chatbot from Claude Sonnet 4.5 to GPT-4.1, following Trump&#39;s directive to cancel Anthropic contracts &lpar;Nextgov/FCW&rpar;](http://www.techmeme.com/260310/p48#a260310p48)
- - [Ford is giving its commercial fleet business an AI makeover](https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet)
- - [Harvard Business Review Study Finds &#39;AI Brain Fry&#39; Is Leaving Workers Mentally Fatigued](https://www.cnet.com/tech/services-and-software/harvard-business-study-finds-ai-brain-fry-is-leaving-workers-mentally-fatigued/)
- - [Nosh Robotics’ $1,500 robot chef doesn&amp;#8217;t need any help with dinner](https://www.theverge.com/tech/892655/nosh-robotics-nosh-one-launch)<!-- TECH:END -->
+ - [Ford is giving its commercial fleet business an AI makeover](https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

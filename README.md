@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
  - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
- - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - 💣 [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)
- - 😝 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)
- - 👉 [Have an update.](http://9gag.com/gag/aO856XR)<!-- MEMES:END -->
+ - 💣 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
+ - 😝 [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)
+ - 👉 [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)<!-- MEMES:END -->
 
 ---
 

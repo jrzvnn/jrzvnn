@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Salesforce plans a record debt sale of up to $25B to fund its share buybacks; the company announced a $50B stock buyback program in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p35#a260310p35)
- - [Future Apple Pencils could physically transform to feel like drawing with fountain pens or paintbrushes](https://appleinsider.com/articles/26/03/10/future-apple-pencils-could-physically-transform-to-feel-like-drawing-with-fountain-pens-or-paintbrushes?utm_source=rss)
- - [Epic says V-bucks will get more expensive starting March 19, with players getting 800 V-bucks for $8.99, down from 1,000 now, citing Fortnite running costs &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260310/p34#a260310p34)
- - [Satechi’s new folding dock adds USB, audio, and video ports to the iPad](https://www.theverge.com/tech/890592/satechi-onthego-foldable-stand-hub-dock-ipad-tablet)
- - [Grammarly will keep using authors’ identities without permission unless they opt out](https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email)<!-- TECH:END -->
+ - [Sonos returns to speaker hardware after Apple TV 4K competitor &amp; app failures](https://appleinsider.com/articles/26/03/10/sonos-returns-to-speaker-hardware-after-apple-tv-4k-competitor-app-failures?utm_source=rss)
+ - [The Senate confirms Army Lt. Gen. Joshua Rudd to lead the NSA and US Cyber Command, filling a vacancy created when Gen. Timothy Haugh was fired in April 2025 &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/260310/p37#a260310p37)
+ - [Fake AI Content About the Iran War Is All Over X](https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/)
+ - [After an online backlash, Superhuman says experts can now opt out of Grammarly&#39;s Expert Review feature by emailing a dedicated address, but fails to apologize &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260310/p36#a260310p36)
+ - [Sources: Salesforce plans a record debt sale of up to $25B to fund its share buybacks; the company announced a $50B stock buyback program in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p35#a260310p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

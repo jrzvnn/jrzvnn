@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep supporting the troops!](http://9gag.com/gag/aVv6z7w)
+ - 😝 [HABEMUS JEFFREY](http://9gag.com/gag/aRBpQ7j)
  - 😝 [Hitman easter egg](http://9gag.com/gag/a9yGbyZ)
  - 💣 [That was dirty...](http://9gag.com/gag/aO85gXv)
- - 😝 [I was there Gandalf](http://9gag.com/gag/aW4XZ4n)
- - 👉 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)<!-- MEMES:END -->
+ - 😝 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)
+ - 👉 [I was there Gandalf](http://9gag.com/gag/aW4XZ4n)<!-- MEMES:END -->
 
 ---
 

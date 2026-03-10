@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pentagon official Emil Michael says Anthropic&#39;s lawsuit is an &quot;expected reaction&quot; and &quot;I don&#39;t think there&#39;s a scenario where this gets resolved in that way&quot; &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260310/p5#a260310p5)
- - [Uzbek fintech and e-commerce company Uzum raised $131.5M led by Oman&#39;s sovereign funds, with $81.5M equity, at a $2.3B valuation, up from $1.5B in August 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260310/p4#a260310p4)
- - [11 Best Pillows: Tested For Side, Back, and Stomach Sleepers &lpar;2026&rpar;](https://www.wired.com/gallery/best-pillows/)
- - [The Best Microcurrent Devices for Firmer Skin in 2026](https://www.cnet.com/health/best-microcurrent-devices/)
- - [You Could Be Next](https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor)<!-- TECH:END -->
+ - [How to Responsibly Dispose of Your Electronics &lpar;2026&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
+ - [Use Microsoft PC Manager to Speed Up Your Windows 11 Computer](https://www.wired.com/story/microsoft-pc-manager-speed-up-windows-11/)
+ - [US commercial satellite provider Planet Labs delays Middle East imagery to two weeks from four days over concerns it could be used to target NATO members &lpar;Aaron Clark/Bloomberg&rpar;](http://www.techmeme.com/260310/p7#a260310p7)
+ - [A look at the top 100 GenAI consumer apps: ChatGPT leads but the race for the &quot;default AI&quot; is on, global usage is splintering by product, and AI agents arrive &lpar;Olivia Moore/Andreessen Horowitz&rpar;](http://www.techmeme.com/260310/p6#a260310p6)
+ - [Meta’s deepfake moderation isn’t good enough, says Oversight Board](https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

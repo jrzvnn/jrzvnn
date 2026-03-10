@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS 26.3.2 delivers quality-of-life improvements for MacBook Neo](https://appleinsider.com/articles/26/03/10/macos-2632-delivers-quality-of-life-improvements-for-macbook-neo?utm_source=rss)
- - [Amazon expands its healthcare AI assistant Health AI to its website and app; it was previously only available on the app for One Medical &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260310/p46#a260310p46)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [Sources: General Catalyst is in talks with investors to raise about $10B; it raised $8B in capital in 2024 and had more than $40B in AUM as of last summer &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260310/p45#a260310p45)
- - [Nitra, which offers a platform powered by AI agents to manage medical practices, raised a $50M Series B, bringing its total funding to $205M &lpar;Catherina Gioino/Fortune&rpar;](http://www.techmeme.com/260310/p44#a260310p44)<!-- TECH:END -->
+ - [Listen to the Live Nation CEO&amp;#8217;s alleged threats to a concert venue](https://www.theverge.com/policy/892558/live-nation-ceo-michael-rapino-barclays-center-john-abbamondi-ticketmaster-call-trial)
+ - [Internal doc: the State Department moved its internal chatbot from Claude Sonnet 4.5 to GPT-4.1, following Trump&#39;s directive to cancel Anthropic contracts &lpar;Nextgov/FCW&rpar;](http://www.techmeme.com/260310/p48#a260310p48)
+ - [Ford is giving its commercial fleet business an AI makeover](https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet)
+ - [Harvard Business Review Study Finds &#39;AI Brain Fry&#39; Is Leaving Workers Mentally Fatigued](https://www.cnet.com/tech/services-and-software/harvard-business-study-finds-ai-brain-fry-is-leaving-workers-mentally-fatigued/)
+ - [Nosh Robotics’ $1,500 robot chef doesn&amp;#8217;t need any help with dinner](https://www.theverge.com/tech/892655/nosh-robotics-nosh-one-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

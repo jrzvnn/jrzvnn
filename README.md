@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a preliminary ruling, a US judge orders Perplexity to stop using Comet browser to make purchases on behalf of users from password-protected Amazon accounts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p32#a260310p32)
- - [Nvidia’s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March](https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation)
- - [Every influencer eventually becomes a merch store](https://www.theverge.com/tech/892140/tucker-carlson-merch-commie-hat-influencers-mrbeast)
- - [After a backlash, Google adds a toggle to let Google Photos users return to the &quot;classic&quot; search experience instead of the newer AI-powered &quot;Ask Photos&quot; option &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260310/p31#a260310p31)
- - [The gym-friendly Beats Powerbeats Pro 2 are 20 percent off right now](https://www.theverge.com/gadgets/891550/beats-powerbeats-pro-2-apple-watch-series-9-deal-sale)<!-- TECH:END -->
+ - [Sources: Salesforce plans a record debt sale of up to $25B to fund its share buybacks; the company announced a $50B stock buyback program in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p35#a260310p35)
+ - [Future Apple Pencils could physically transform to feel like drawing with fountain pens or paintbrushes](https://appleinsider.com/articles/26/03/10/future-apple-pencils-could-physically-transform-to-feel-like-drawing-with-fountain-pens-or-paintbrushes?utm_source=rss)
+ - [Epic says V-bucks will get more expensive starting March 19, with players getting 800 V-bucks for $8.99, down from 1,000 now, citing Fortnite running costs &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260310/p34#a260310p34)
+ - [Satechi’s new folding dock adds USB, audio, and video ports to the iPad](https://www.theverge.com/tech/890592/satechi-onthego-foldable-stand-hub-dock-ipad-tablet)
+ - [Grammarly will keep using authors’ identities without permission unless they opt out](https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

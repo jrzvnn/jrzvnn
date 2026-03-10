@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Have an update.](http://9gag.com/gag/aO856XR)
+ - 😝 [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)
+ - 💣 [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)
  - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
- - 💣 [Title](http://9gag.com/gag/aYQ585m)
- - 😝 [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)
- - 👉 [The FAFO king 2015](http://9gag.com/gag/a5QYeoq)<!-- MEMES:END -->
+ - 👉 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)<!-- MEMES:END -->
 
 ---
 

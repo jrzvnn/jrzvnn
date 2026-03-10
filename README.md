@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was dirty...](http://9gag.com/gag/aO85gXv)
- - 😝 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)
+ - 😝 [Hitman easter egg](http://9gag.com/gag/a9yGbyZ)
+ - 😝 [Human Logic](http://9gag.com/gag/azx3bxj)
  - 💣 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)
- - 😝 [What a dinner that must have been](http://9gag.com/gag/aGyQV9Z)
- - 👉 [I was there Gandalf](http://9gag.com/gag/aW4XZ4n)<!-- MEMES:END -->
+ - 😝 [I was there Gandalf](http://9gag.com/gag/aW4XZ4n)
+ - 👉 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)<!-- MEMES:END -->
 
 ---
 

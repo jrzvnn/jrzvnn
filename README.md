@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CNN and CCDH investigation: 80% of major AI chatbots gave guidance on weapons or targets to &quot;teen&quot; personas 50% of the time; only Claude consistently refused &lpar;CNN&rpar;](http://www.techmeme.com/260311/p21#a260311p21)
- - [Nvidia plans to invest $2B in Amsterdam-based Nebius as part of a partnership to build AI data centers and deploy 5GW+ of Nvidia systems by the end of 2030 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p20#a260311p20)
- - [Every MacBook Neo color is available at retail, shipping delays increase](https://appleinsider.com/articles/26/03/11/every-macbook-neo-color-is-available-at-retail-shipping-delays-increase?utm_source=rss)
- - [Amazon&#39;s Zoox partners with Uber to offer its robotaxis on the Uber app, starting in Las Vegas in late 2026 and expanding to LA in 2027; Zoox needs US approval &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260311/p19#a260311p19)
- - [Meta Ramps Up Efforts to Disrupt Industrialized Scamming](https://www.wired.com/story/meta-ramps-up-efforts-to-disrupt-industrialized-scamming/)<!-- TECH:END -->
+ - [Spotify says artists from 75 countries made $500K+ in royalties in 2025, up from 66 in 2024; ~50% of an average artist&#39;s streams came from outside their country &lpar;Ethan Millman/The Hollywood Reporter&rpar;](http://www.techmeme.com/260311/p28#a260311p28)
+ - [Here’s where you can buy Apple’s budget-friendly MacBook Neo](https://www.theverge.com/gadgets/888285/macbook-neo-preorder-how-to-buy-price-release-date)
+ - [The mysterious case of the DHS white supremacist memelord](https://www.theverge.com/column/892985/dhs-white-supremacist-memelord)
+ - [Where to buy the new iPhone 17E](https://www.theverge.com/gadgets/887512/iphone-17e-preorder-how-to-buy-price-release-date)
+ - [Google closes its acquisition of Israeli cybersecurity company Wiz for $32B, marking Google&#39;s biggest acquisition ever; Google initially approached Wiz in 2024 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260311/p27#a260311p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

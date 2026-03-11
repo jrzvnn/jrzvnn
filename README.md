@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do it yourself](http://9gag.com/gag/a1m6ZKv)
  - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 💣 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
+ - 😝 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - 💣 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
  - 😝 [These Netflix adaptations are wild](http://9gag.com/gag/aE041LK)
  - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
 

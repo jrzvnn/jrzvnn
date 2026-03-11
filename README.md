@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Human Logic](http://9gag.com/gag/azx3bxj)
- - 😝 [Trust me. This one is definitely worth the time.](http://9gag.com/gag/aGyQ9Y5)
- - 💣 [Just listen to your heart](http://9gag.com/gag/agme0GK)
- - 😝 [Every damn time](http://9gag.com/gag/aNDboBb)
- - 👉 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)<!-- MEMES:END -->
+ - 😝 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - 😝 [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)
+ - 💣 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
+ - 😝 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)
+ - 👉 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)<!-- MEMES:END -->
 
 ---
 

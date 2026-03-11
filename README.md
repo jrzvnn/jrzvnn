@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US DOJ is investigating Iran&#39;s use of Binance to evade sanctions, focusing on money flowing to networks backing terror groups like Yemen&#39;s Houthis &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260311/p17#a260311p17)
- - [Best Indoor Garden Systems: We’ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
- - [Translucent, a health care finance startup that helps hospitals improve cash management, raised a $27M Series A led by GV, after a $7M seed in August 2024 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260311/p16#a260311p16)
- - [Meta adds more scam detection tools to its platforms, including unrecognized device linking warnings on WhatsApp and Facebook friend request warnings &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260311/p15#a260311p15)
- - [Documents and a source: a foreign hacker compromised files relating to the FBI&#39;s Jeffrey Epstein investigation in 2023; the FBI confirms a &quot;cyber incident&quot; &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260311/p14#a260311p14)<!-- TECH:END -->
+ - [CNN and CCDH investigation: 80% of major AI chatbots gave guidance on weapons or targets to &quot;teen&quot; personas 50% of the time; only Claude consistently refused &lpar;CNN&rpar;](http://www.techmeme.com/260311/p21#a260311p21)
+ - [Nvidia plans to invest $2B in Amsterdam-based Nebius as part of a partnership to build AI data centers and deploy 5GW+ of Nvidia systems by the end of 2030 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p20#a260311p20)
+ - [Every MacBook Neo color is available at retail, shipping delays increase](https://appleinsider.com/articles/26/03/11/every-macbook-neo-color-is-available-at-retail-shipping-delays-increase?utm_source=rss)
+ - [Amazon&#39;s Zoox partners with Uber to offer its robotaxis on the Uber app, starting in Las Vegas in late 2026 and expanding to LA in 2027; Zoox needs US approval &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260311/p19#a260311p19)
+ - [Meta Ramps Up Efforts to Disrupt Industrialized Scamming](https://www.wired.com/story/meta-ramps-up-efforts-to-disrupt-industrialized-scamming/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

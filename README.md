@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
  - 😝 [Breaking Bad in Germany would be a very short series](http://9gag.com/gag/agmevoq)
+ - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
  - 💣 [This is our climate](http://9gag.com/gag/aAy9ryE)
  - 😝 [These Netflix adaptations are wild](http://9gag.com/gag/aE041LK)
  - 👉 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)<!-- MEMES:END -->

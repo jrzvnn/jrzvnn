@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart &lpar;2026&rpar;](https://www.wired.com/story/sleep-week-deals-2026/)
+ - [Oppo’s new foldable isn’t quite creaseless, but it’s pretty damn close](https://www.theverge.com/tech/892547/oppo-find-n6-zero-feel-crease-impressions)
  - [Anduril agrees to acquire missile defense modeling company ExoAnalytic for an undisclosed sum and says the deal will grow its space unit staff from 120 to ~250 &lpar;Sana Pashankar/Bloomberg&rpar;](http://www.techmeme.com/260311/p9#a260311p9)
  - [Technology Is Reshaping Sleep Apnea Treatment](https://www.wired.com/story/sleep-apnea-treatment-tech/)
- - [Chinese Gen Z day traders, who prefer tech stocks and increasingly use AI chatbots for investment advice, fuel the country&#39;s latest tech investment craze &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p8#a260311p8)
- - [A profile of Sachin Katti, who joined OpenAI from Intel in November 2025 as head of industrial compute, as he helps guide OpenAI&#39;s infrastructure efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p7#a260311p7)
- - [Indian AI lab Lossfunk&#39;s prompting method lets LLMs generate Tulu language text without prior training; the method may expand to other low-resource languages &lpar;The Economic Times&rpar;](http://www.techmeme.com/260311/p6#a260311p6)<!-- TECH:END -->
+ - [Chinese Gen Z day traders, who prefer tech stocks and increasingly use AI chatbots for investment advice, fuel the country&#39;s latest tech investment craze &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p8#a260311p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

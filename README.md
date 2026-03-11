@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to Do in Chicago If You’re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/)
- - [A look at Aaru, a startup founded by teens that uses AI agents to simulate human responses for product development, polling, and more, recently valued at $1B &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260310/p59#a260310p59)
- - [A look at the rise and fall of Chen Zhi, an alleged online scam kingpin whom the US and UK accused of laundering billions; he was extradited to China in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p58#a260310p58)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-11/)
- - [Intel unveiled its Heracles chip at ISSCC in February, saying it accelerates fully homomorphic encryption tasks up to 5,000x faster than top Intel server CPUs &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/260310/p57#a260310p57)<!-- TECH:END -->
+ - [The AI-assisted overhaul of a Python character encoding detection library raises questions about software relicensing and derivative versions of the original &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260311/p5#a260311p5)
+ - [Applied Materials partners with Micron and SK Hynix to develop next-gen memory chips for AI and HPC at its new EPIC center, part of a planned $5B R&amp;D investment &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260311/p4#a260311p4)
+ - [Sources: Chinese state enterprises and agencies move to curb in-office OpenClaw use over potential security risks as users across China experiment with OpenClaw &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p3#a260311p3)
+ - [Google rolls out Gemini in Chrome to India, Canada, and New Zealand, and adds support for over 50 additional languages, including Hindi, French, and Spanish &lpar;Charmaine D&#39;Silva/The Keyword&rpar;](http://www.techmeme.com/260311/p2#a260311p2)
+ - [Sources: OpenAI plans to launch Sora AI in ChatGPT soon to help boost weekly active users, now at 920M, short of the 1B goal the company targeted last year &lpar;The Information&rpar;](http://www.techmeme.com/260311/p1#a260311p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

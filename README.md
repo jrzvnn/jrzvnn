@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hijabi Girl Left Speechless When Facts Enter the Chat](http://9gag.com/gag/aGyQVew)
- - 😝 [Memes write themselves](http://9gag.com/gag/aD2vwmO)
- - 💣 [Just look look at the size](http://9gag.com/gag/amoZLyv)
- - 😝 [Nostalgia](http://9gag.com/gag/aNDbZ1w)
- - 👉 [Occupation](http://9gag.com/gag/aGyQVLn)<!-- MEMES:END -->
+ - 😝 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
+ - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 💣 [Sony changes the price of games as soon as you login](http://9gag.com/gag/aByeKD1)
+ - 😝 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - 👉 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
 
 ---
 

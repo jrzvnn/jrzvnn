@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Sachin Katti, who joined OpenAI from Intel in November as head of industrial compute and is helping guide the company&#39;s infrastructure efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p7#a260311p7)
- - [Indian AI lab Lossfunk&#39;s prompting method lets LLMs generate Tulu language text without prior training; the method may expand to other low-resource languages &lpar;The Economic Times&rpar;](http://www.techmeme.com/260311/p6#a260311p6)
- - [The AI-assisted overhaul of a Python character encoding detection library raises questions about software relicensing and derivative versions of the original &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260311/p5#a260311p5)
- - [Applied Materials partners with Micron and SK Hynix to develop next-gen memory chips for AI and HPC at its new EPIC center, part of a planned $5B R&amp;D investment &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260311/p4#a260311p4)
- - [Sources: Chinese state enterprises and agencies move to curb in-office OpenClaw use over potential security risks as users across China experiment with OpenClaw &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p3#a260311p3)<!-- TECH:END -->
+ - [Anduril agrees to acquire missile defense modeling company ExoAnalytic for an undisclosed sum and says the deal will grow its space unit staff from 120 to ~250 &lpar;Sana Pashankar/Bloomberg&rpar;](http://www.techmeme.com/260311/p9#a260311p9)
+ - [Technology Is Reshaping Sleep Apnea Treatment](https://www.wired.com/story/sleep-apnea-treatment-tech/)
+ - [Chinese Gen Z day traders, who prefer tech stocks and increasingly use AI chatbots for investment advice, fuel the country&#39;s latest tech investment craze &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p8#a260311p8)
+ - [A profile of Sachin Katti, who joined OpenAI from Intel in November 2025 as head of industrial compute, as he helps guide OpenAI&#39;s infrastructure efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p7#a260311p7)
+ - [Indian AI lab Lossfunk&#39;s prompting method lets LLMs generate Tulu language text without prior training; the method may expand to other low-resource languages &lpar;The Economic Times&rpar;](http://www.techmeme.com/260311/p6#a260311p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

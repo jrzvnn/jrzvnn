@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
- - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - 💣 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 😝 [My brain is a filing cabinet for useless info](http://9gag.com/gag/a5QYPZr)
- - 👉 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)<!-- MEMES:END -->
+ - 😝 [Hijabi Girl Left Speechless When Facts Enter the Chat](http://9gag.com/gag/aGyQVew)
+ - 😝 [Memes write themselves](http://9gag.com/gag/aD2vwmO)
+ - 💣 [Just look look at the size](http://9gag.com/gag/amoZLyv)
+ - 😝 [Nostalgia](http://9gag.com/gag/aNDbZ1w)
+ - 👉 [Occupation](http://9gag.com/gag/aGyQVLn)<!-- MEMES:END -->
 
 ---
 

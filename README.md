@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just look look at the size](http://9gag.com/gag/amoZLyv)
+ - 😝 [Going the extra mile](http://9gag.com/gag/aryLpA7)
  - 😝 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 💣 [Buy gold](http://9gag.com/gag/aE04Gjo)
- - 😝 [My brain is a filing cabinet for useless info](http://9gag.com/gag/a5QYPZr)
- - 👉 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)<!-- MEMES:END -->
+ - 💣 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 😝 [I have no idea what this is, but it looks awesome.](http://9gag.com/gag/aBye3WN)
+ - 👉 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)<!-- MEMES:END -->
 
 ---
 

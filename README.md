@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 💣 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)
- - 😝 [These Netflix adaptations are wild](http://9gag.com/gag/aE041LK)
+ - 😝 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
+ - 💣 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 😝 [Buy gold](http://9gag.com/gag/aE04Gjo)
  - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
 
 ---

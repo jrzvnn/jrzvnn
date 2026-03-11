@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp adds parent-managed accounts for users under the age of 13 and says the accounts will not get access to features like Meta AI, Channels, or Status &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260311/p35#a260311p35)
- - [Alternative app store AltStore PAL is joining the fediverse](https://www.theverge.com/tech/893085/altstore-pal-alternative-app-store-fediverse)
- - [Online DTC luxury brand Quince raised a $500M Series E led by Iconiq at a $10.1B valuation; it recently launched in Canada and its revenue topped $1B in 2025 &lpar;James Manso/WWD&rpar;](http://www.techmeme.com/260311/p34#a260311p34)
- - [Rivian CEO RJ Scaringe&#39;s Mind Robotics, which is building AI-powered factory robots, raised $500M led by Accel and a16z, source says at a $2B valuation &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260311/p33#a260311p33)
- - [Axiamatic, which offers an &quot;agentic control plane&quot; to manage large-scale enterprise transformations, emerges from stealth with $54M from Greylock and Bessemer &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260311/p32#a260311p32)<!-- TECH:END -->
+ - [OpenAI’s Sora video generator is reportedly coming to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration)
+ - [Canva launches Magic Layers, an AI tool that turns a flat bitmap image into a fully editable Canva project by extracting text and objects into individual layers &lpar;Jesus Diaz/Fast Company&rpar;](http://www.techmeme.com/260311/p37#a260311p37)
+ - [Best Mattress for Back Pain &lpar;2026&rpar;: Saatva, Bear, Helix](https://www.wired.com/gallery/the-best-mattresses-for-back-pain/)
+ - [Apple&#39;s updated Studio Display vs Alogic Edge 5K : Big screens compared](https://appleinsider.com/inside/studio-display/vs/apples-updated-studio-display-vs-alogic-edge-5k-big-screens-compared?utm_source=rss)
+ - [Revolut says it has secured a full banking license from UK regulators after a four-year wait, allowing the company to expand lending to its 13M UK customers &lpar;Financial Times&rpar;](http://www.techmeme.com/260311/p36#a260311p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

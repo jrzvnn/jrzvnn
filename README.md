@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside OpenAI&#39;s race to catch up with Claude Code, based on interviews with 30+ sources; a source says Codex had $1B+ in annualized revenue by January&#39;s end &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260311/p13#a260311p13)
- - [Louis Theroux on the Manosphere: ‘It’s Highly Profitable to Be a Dick on the Internet’](https://www.wired.com/story/louis-theroux-on-the-manosphere-its-highly-profitable-to-be-a-dick-on-the-internet/)
- - [Fujifilm Instax Evo Cinema Review: Retro Video Fun](https://www.wired.com/review/fujifilm-instax-evo-cinema/)
- - [Best Android Phones of 2026: Tested by Our Experts](https://www.cnet.com/tech/mobile/best-android-phone/)
- - [Paris-based digital health insurance startup Alan raised €100M led by Index Ventures at a €5B valuation, up from €4B after raising €173M in September 2024 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/260311/p12#a260311p12)<!-- TECH:END -->
+ - [Meta adds more scam detection tools to its platforms, including unrecognized device linking warnings on WhatsApp and Facebook friend request warnings &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260311/p15#a260311p15)
+ - [Documents and a source: a foreign hacker compromised files relating to the FBI&#39;s Jeffrey Epstein investigation in 2023; the FBI confirms a &quot;cyber incident&quot; &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260311/p14#a260311p14)
+ - [Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers](https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/)
+ - [Samsung Galaxy S26 and S26 Plus review: This again](https://www.theverge.com/tech/892311/samsung-galaxy-s26-plus-review-screen-battery-camera-software)
+ - [Facebook, WhatsApp, and Messenger get new ways to protect users from scams](https://www.theverge.com/tech/892939/meta-facebook-whatsapp-messenger-scam-detection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show](https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/)
+ - [Sources: xAI&#39;s AI agent project Macrohard has stalled as Tesla ramps up its own AI agent project Digital Optimus; Musk says they are a joint xAI-Tesla project &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260311/p38#a260311p38)
+ - [Microsoft’s next Xbox, Project Helix, won&amp;#8217;t reach alpha until 2027](https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026)
  - [OpenAI’s Sora video generator is reportedly coming to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration)
- - [Canva launches Magic Layers, an AI tool that turns a flat bitmap image into a fully editable Canva project by extracting text and objects into individual layers &lpar;Jesus Diaz/Fast Company&rpar;](http://www.techmeme.com/260311/p37#a260311p37)
- - [Best Mattress for Back Pain &lpar;2026&rpar;: Saatva, Bear, Helix](https://www.wired.com/gallery/the-best-mattresses-for-back-pain/)
- - [Apple&#39;s updated Studio Display vs Alogic Edge 5K : Big screens compared](https://appleinsider.com/inside/studio-display/vs/apples-updated-studio-display-vs-alogic-edge-5k-big-screens-compared?utm_source=rss)
- - [Revolut says it has secured a full banking license from UK regulators after a four-year wait, allowing the company to expand lending to its 13M UK customers &lpar;Financial Times&rpar;](http://www.techmeme.com/260311/p36#a260311p36)<!-- TECH:END -->
+ - [Canva launches Magic Layers, an AI tool that turns a flat bitmap image into a fully editable Canva project by extracting text and objects into individual layers &lpar;Jesus Diaz/Fast Company&rpar;](http://www.techmeme.com/260311/p37#a260311p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

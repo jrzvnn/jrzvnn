@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kai, which is developing an AI-enabled cyber platform, raised $125M in a combined seed and Series A round led by Evolution Equity Partners &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/260311/p31#a260311p31)
- - [Save up to $320 on M4, M5 MacBook Air laptops with March savings](https://appleinsider.com/articles/26/03/11/save-up-to-320-on-m4-m5-macbook-air-laptops-with-march-savings?utm_source=rss)
- - [Canva’s new editing tool adds layers to AI-generated designs](https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta)
- - [This Is the Next Wave of Political Fundraising](https://www.wired.com/story/this-is-the-next-wave-of-political-fundraising/)
- - [Apple Vision Pro user learns the hard way that flight attendants have the final say](https://appleinsider.com/articles/26/03/11/apple-vision-pro-user-learns-the-hard-way-that-flight-attendants-have-the-final-say?utm_source=rss)<!-- TECH:END -->
+ - [WhatsApp adds parent-managed accounts for users under the age of 13 and says the accounts will not get access to features like Meta AI, Channels, or Status &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260311/p35#a260311p35)
+ - [Alternative app store AltStore PAL is joining the fediverse](https://www.theverge.com/tech/893085/altstore-pal-alternative-app-store-fediverse)
+ - [Online DTC luxury brand Quince raised a $500M Series E led by Iconiq at a $10.1B valuation; it recently launched in Canada and its revenue topped $1B in 2025 &lpar;James Manso/WWD&rpar;](http://www.techmeme.com/260311/p34#a260311p34)
+ - [Rivian CEO RJ Scaringe&#39;s Mind Robotics, which is building AI-powered factory robots, raised $500M led by Accel and a16z, source says at a $2B valuation &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260311/p33#a260311p33)
+ - [Axiamatic, which offers an &quot;agentic control plane&quot; to manage large-scale enterprise transformations, emerges from stealth with $54M from Greylock and Bessemer &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260311/p32#a260311p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

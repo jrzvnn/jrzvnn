@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ripple kicks off a share buyback at a $50B valuation to repurchase up to $750M in shares from investors and employees in a tender offer through April &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p42#a260311p42)
- - [Anthropic says Claude for Excel and Claude for PowerPoint now share full context across open files, and skills are available inside Excel and PowerPoint add-ins &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260311/p41#a260311p41)
- - [Grammarly says it will stop using AI to clone experts without permission](https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled)
- - [Iran Warns US Tech Firms Could Become Targets as War Expands](https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/)
- - [Amazon raised €14.5B in its euro bond market debut, the biggest ever corporate deal in the currency, following a dollar offering on Tuesday that raised $37B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p40#a260311p40)<!-- TECH:END -->
+ - [Perplexity&#39;s Personal Computer lets AI agents access your Mac mini&#39;s files](https://appleinsider.com/articles/26/03/11/perplexitys-personal-computer-lets-ai-agents-access-your-mac-minis-files?utm_source=rss)
+ - [Studio Display XDR seemingly works on Intel Macs after all, with a caveat](https://appleinsider.com/articles/26/03/11/studio-display-xdr-seemingly-works-on-intel-macs-after-all-with-a-caveat?utm_source=rss)
+ - [FCC Chair Brendan Carr criticizes the slow pace of Amazon&#39;s satellite launches, after Amazon raised concerns about SpaceX&#39;s plan to launch up to 1M satellites &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260311/p45#a260311p45)
+ - [The Live Nation settlement has industry insiders baffled](https://www.theverge.com/policy/893272/live-nation-ticketmaster-doj-settlement-states)
+ - [Superhuman says it has disabled Grammarly&#39;s Expert Review feature, which gave editing suggestions &quot;inspired by&quot; real writers without permission, after backlash &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260311/p44#a260311p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

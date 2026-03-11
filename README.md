@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - 💣 [Buy gold](http://9gag.com/gag/aE04Gjo)
- - 😝 [Cats distribution system at its finest](http://9gag.com/gag/aO8WyYy)
- - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
+ - 😝 [Just listen to your heart](http://9gag.com/gag/agme0GK)
+ - 😝 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)
+ - 💣 [Memes write themselves](http://9gag.com/gag/aD2vwmO)
+ - 😝 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)
+ - 👉 [Occupation](http://9gag.com/gag/aGyQVLn)<!-- MEMES:END -->
 
 ---
 

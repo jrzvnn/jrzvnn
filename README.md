@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says that Windows 11 Xbox mode, a controller-first, full-screen gaming interface, will begin rolling out in April and work across all PC form factors &lpar;Abhijith M B/Windows Latest&rpar;](http://www.techmeme.com/260311/p50#a260311p50)
  - [Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature](https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/)
  - [Microsoft says the next Xbox, Project Helix, will have a custom AMD chip, and it will begin sending out &quot;alpha versions&quot; of Project Helix to developers in 2027 &lpar;The Verge&rpar;](http://www.techmeme.com/260311/p49#a260311p49)
  - [Perplexity announces Personal Computer, an OpenClaw-like AI agent that can run on a Mac, and an enterprise version of Perplexity Computer &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260311/p48#a260311p48)
- - [Sources: Netflix will pay as much as $600M for InterPositive, Ben Affleck&#39;s AI moviemaking company, including bonuses for meeting certain performance targets &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260311/p47#a260311p47)
- - [Sources: the foldable iPhone will feature an iPad-like interface for its iPad mini-sized inner display and have an outer screen the size of a small iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260311/p46#a260311p46)<!-- TECH:END -->
+ - [Sources: Netflix will pay as much as $600M for InterPositive, Ben Affleck&#39;s AI moviemaking company, including bonuses for meeting certain performance targets &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260311/p47#a260311p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

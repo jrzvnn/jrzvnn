@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)
  - 😝 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
- - 💣 [Sony changes the price of games as soon as you login](http://9gag.com/gag/aByeKD1)
- - 😝 [Buy gold](http://9gag.com/gag/aE04Gjo)
- - 👉 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
+ - 💣 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 😝 [I have no idea what this is, but it looks awesome.](http://9gag.com/gag/aBye3WN)
+ - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
 
 ---
 

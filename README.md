@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Going the extra mile](http://9gag.com/gag/aryLpA7)
- - 😝 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 💣 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 😝 [I have no idea what this is, but it looks awesome.](http://9gag.com/gag/aBye3WN)
- - 👉 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)<!-- MEMES:END -->
+ - 😝 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
+ - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
+ - 💣 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
+ - 😝 [My brain is a filing cabinet for useless info](http://9gag.com/gag/a5QYPZr)
+ - 👉 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)<!-- MEMES:END -->
 
 ---
 

@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
  - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
  - 💣 [Just look look at the size](http://9gag.com/gag/amoZLyv)
- - 😝 [I have no idea what this is, but it looks awesome.](http://9gag.com/gag/aBye3WN)
- - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
+ - 😝 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)
+ - 👉 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
 
 ---
 

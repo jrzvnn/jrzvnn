@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tool Tips](http://9gag.com/gag/adBz0o2)
- - 😝 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
- - 💣 [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)
- - 😝 [Excuse me.... do you have time to talk about......](http://9gag.com/gag/apRMoen)
- - 👉 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)<!-- MEMES:END -->
+ - 😝 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
+ - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
+ - 💣 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - 😝 [Cats distribution system at its finest](http://9gag.com/gag/aO8WyYy)
+ - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
 
 ---
 

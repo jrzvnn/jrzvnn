@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breaking Bad in Germany would be a very short series](http://9gag.com/gag/agmevoq)
- - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
- - 💣 [This is our climate](http://9gag.com/gag/aAy9ryE)
- - 😝 [These Netflix adaptations are wild](http://9gag.com/gag/aE041LK)
- - 👉 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)<!-- MEMES:END -->
+ - 😝 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 💣 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 😝 [Drone pilot is good too](http://9gag.com/gag/abA8bZ9)
+ - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sequoia&#39;s Ravi Gupta and ex-Meta CRO John Hegeman seek to raise $1B+ for a holding company to acquire at least one firm and infuse it with new tech &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p54#a260310p54)
- - [Mississippi regulators authorize xAI to build a power plant with 41 natural gas-burning turbines in Southaven to power its data centers &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260310/p53#a260310p53)
- - [&#39;X-Plane 12&#39; flight simulator to take advantage of Nvidia CloudXR 6 in visionOS 26.4](https://appleinsider.com/articles/26/03/10/x-plane-12-flight-simulator-to-take-advantage-of-nvidia-cloudxr-6-in-visionos-264?utm_source=rss)
- - [A now-resolved Apple server outage stopped developers from verifying apps](https://appleinsider.com/articles/26/03/10/a-now-resolved-apple-server-outage-stopped-developers-from-verifying-apps?utm_source=rss)
- - [Polymarket says it is partnering with Palantir and TWG AI to identify, prevent, and report suspicious activity in Polymarket&#39;s sports contracts &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/260310/p52#a260310p52)<!-- TECH:END -->
+ - [A look at the rise and fall of Chen Zhi, an alleged online scam kingpin whom the US and UK accused of laundering billions; he was extradited to China in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p58#a260310p58)
+ - [Intel unveiled its Heracles chip at ISSCC in February, saying it accelerates fully homomorphic encryption tasks up to 5,000x faster than top Intel server CPUs &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/260310/p57#a260310p57)
+ - [Trump Administration Won’t Rule Out Further Action Against Anthropic](https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/)
+ - [How age-verification laws to enhance online child safety are raising surveillance concerns for adults; ~50% of US states have enacted or are advancing such laws &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/260310/p56#a260310p56)
+ - [Valerion VisionMaster Max review: Premium projector that&#39;s still consumer-friendly](https://appleinsider.com/articles/26/03/11/valerion-visionmaster-max-review-premium-projector-thats-still-consumer-friendly?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

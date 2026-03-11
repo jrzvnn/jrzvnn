@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just look look at the size](http://9gag.com/gag/amoZLyv)
- - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 💣 [Sony changes the price of games as soon as you login](http://9gag.com/gag/aByeKD1)
- - 😝 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)
- - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 😝 [Meanwhile..](http://9gag.com/gag/ayNKp4p)
+ - 💣 [I pray that you\u2019ll find love one day, it happened to me, it can happen to you](http://9gag.com/gag/aKGMzvj)
+ - 😝 [Occupation](http://9gag.com/gag/aGyQVLn)
+ - 👉 [Some day...](http://9gag.com/gag/aQzj4m7)<!-- MEMES:END -->
 
 ---
 

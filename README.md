@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 😝 [Just look look at the size](http://9gag.com/gag/amoZLyv)
  - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 💣 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)
- - 😝 [Some day...](http://9gag.com/gag/aQzj4m7)
+ - 💣 [Sony changes the price of games as soon as you login](http://9gag.com/gag/aByeKD1)
+ - 😝 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)
  - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
 
 ---

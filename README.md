@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)
- - 😝 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 💣 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 💣 [Just look look at the size](http://9gag.com/gag/amoZLyv)
  - 😝 [I have no idea what this is, but it looks awesome.](http://9gag.com/gag/aBye3WN)
- - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
+ - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
 
 ---
 

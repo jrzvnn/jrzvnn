@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to Do in Chicago If You’re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/)
+ - [A look at Aaru, a startup founded by teens that uses AI agents to simulate human responses for product development, polling, and more, recently valued at $1B &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260310/p59#a260310p59)
  - [A look at the rise and fall of Chen Zhi, an alleged online scam kingpin whom the US and UK accused of laundering billions; he was extradited to China in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p58#a260310p58)
- - [Intel unveiled its Heracles chip at ISSCC in February, saying it accelerates fully homomorphic encryption tasks up to 5,000x faster than top Intel server CPUs &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/260310/p57#a260310p57)
- - [Trump Administration Won’t Rule Out Further Action Against Anthropic](https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/)
- - [How age-verification laws to enhance online child safety are raising surveillance concerns for adults; ~50% of US states have enacted or are advancing such laws &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/260310/p56#a260310p56)
- - [Valerion VisionMaster Max review: Premium projector that&#39;s still consumer-friendly](https://appleinsider.com/articles/26/03/11/valerion-visionmaster-max-review-premium-projector-thats-still-consumer-friendly?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-11/)
+ - [Intel unveiled its Heracles chip at ISSCC in February, saying it accelerates fully homomorphic encryption tasks up to 5,000x faster than top Intel server CPUs &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/260310/p57#a260310p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

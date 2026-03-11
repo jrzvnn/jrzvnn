@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify says artists from 75 countries made $500K+ in royalties in 2025, up from 66 in 2024; ~50% of an average artist&#39;s streams came from outside their country &lpar;Ethan Millman/The Hollywood Reporter&rpar;](http://www.techmeme.com/260311/p28#a260311p28)
- - [Here’s where you can buy Apple’s budget-friendly MacBook Neo](https://www.theverge.com/gadgets/888285/macbook-neo-preorder-how-to-buy-price-release-date)
- - [The mysterious case of the DHS white supremacist memelord](https://www.theverge.com/column/892985/dhs-white-supremacist-memelord)
- - [Where to buy the new iPhone 17E](https://www.theverge.com/gadgets/887512/iphone-17e-preorder-how-to-buy-price-release-date)
- - [Google closes its acquisition of Israeli cybersecurity company Wiz for $32B, marking Google&#39;s biggest acquisition ever; Google initially approached Wiz in 2024 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260311/p27#a260311p27)<!-- TECH:END -->
+ - [How to Ding, Dong, Ditch Ring’s surveillance network](https://www.theverge.com/tech/890910/best-ring-alternatives-privacy-focused-video-doorbell-local-storage-reolink-aqara-tapo-ecobee)
+ - [You can’t replace the battery in Lego’s Smart Bricks — and many of its sensors aren’t available yet](https://www.theverge.com/tech/892894/lego-smart-brick-battery-sensors-disposable)
+ - [Meta unveils four new chips, the MTIA 300, MTIA 400, MTIA 450, and MTIA 500, set to launch by the end of 2027; the MTIA 300 is in production for content ranking &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p30#a260311p30)
+ - [Godzilla Minus One, a very good movie, is $15 on 4K Blu-ray](https://www.theverge.com/gadgets/893043/godzilla-minus-one-4k-bluray-apple-watch-pixel-10a-deal-sale)
+ - [Meta Developed 4 New Chips to Power Its AI and Recommendation Systems](https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

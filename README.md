@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show](https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/)
- - [Sources: xAI&#39;s AI agent project Macrohard has stalled as Tesla ramps up its own AI agent project Digital Optimus; Musk says they are a joint xAI-Tesla project &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260311/p38#a260311p38)
- - [Microsoft’s next Xbox, Project Helix, won&amp;#8217;t reach alpha until 2027](https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026)
- - [OpenAI’s Sora video generator is reportedly coming to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration)
- - [Canva launches Magic Layers, an AI tool that turns a flat bitmap image into a fully editable Canva project by extracting text and objects into individual layers &lpar;Jesus Diaz/Fast Company&rpar;](http://www.techmeme.com/260311/p37#a260311p37)<!-- TECH:END -->
+ - [Sources: Ripple kicks off a share buyback at a $50B valuation to repurchase up to $750M in shares from investors and employees in a tender offer through April &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p42#a260311p42)
+ - [Anthropic says Claude for Excel and Claude for PowerPoint now share full context across open files, and skills are available inside Excel and PowerPoint add-ins &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260311/p41#a260311p41)
+ - [Grammarly says it will stop using AI to clone experts without permission](https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled)
+ - [Iran Warns US Tech Firms Could Become Targets as War Expands](https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/)
+ - [Amazon raised €14.5B in its euro bond market debut, the biggest ever corporate deal in the currency, following a dollar offering on Tuesday that raised $37B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p40#a260311p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

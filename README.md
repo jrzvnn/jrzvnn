@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
  - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 😝 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
  - 💣 [Just look look at the size](http://9gag.com/gag/amoZLyv)
  - 😝 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)
  - 👉 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->

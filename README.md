@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Superhuman faces a proposed class action lawsuit from Julia Angwin, founder of The Markup, alleging Grammarly&#39;s Expert Review tool involved &quot;misappropriation&quot; &lpar;Miles Klee/Wired&rpar;](http://www.techmeme.com/260311/p54#a260311p54)
+ - [Friday Night Baseball coming back to Apple TV for its fifth season on March 27](https://appleinsider.com/articles/26/03/11/friday-night-baseball-coming-back-to-apple-tv-for-its-fifth-season-on-march-27?utm_source=rss)
  - [One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature](https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin)
  - [Source: Microsoft is in advanced talks to lease hundreds of MWs of data center capacity in Abilene, TX, after Oracle abandoned its expansion plans at the site &lpar;The Information&rpar;](http://www.techmeme.com/260311/p53#a260311p53)
- - [New iOS and iPadOS security updates arrive for older Apple hardware](https://appleinsider.com/articles/26/03/11/new-ios-and-ipados-security-updates-arrive-for-older-apple-hardware?utm_source=rss)
- - [iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID](https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor)
- - [The South Carolina Measles Outbreak Is Slowing Down](https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/)<!-- TECH:END -->
+ - [New iOS and iPadOS security updates arrive for older Apple hardware](https://appleinsider.com/articles/26/03/11/new-ios-and-ipados-security-updates-arrive-for-older-apple-hardware?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Ding, Dong, Ditch Ring’s surveillance network](https://www.theverge.com/tech/890910/best-ring-alternatives-privacy-focused-video-doorbell-local-storage-reolink-aqara-tapo-ecobee)
- - [You can’t replace the battery in Lego’s Smart Bricks — and many of its sensors aren’t available yet](https://www.theverge.com/tech/892894/lego-smart-brick-battery-sensors-disposable)
- - [Meta unveils four new chips, the MTIA 300, MTIA 400, MTIA 450, and MTIA 500, set to launch by the end of 2027; the MTIA 300 is in production for content ranking &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p30#a260311p30)
- - [Godzilla Minus One, a very good movie, is $15 on 4K Blu-ray](https://www.theverge.com/gadgets/893043/godzilla-minus-one-4k-bluray-apple-watch-pixel-10a-deal-sale)
- - [Meta Developed 4 New Chips to Power Its AI and Recommendation Systems](https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/)<!-- TECH:END -->
+ - [Kai, which is developing an AI-enabled cyber platform, raised $125M in a combined seed and Series A round led by Evolution Equity Partners &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/260311/p31#a260311p31)
+ - [Save up to $320 on M4, M5 MacBook Air laptops with March savings](https://appleinsider.com/articles/26/03/11/save-up-to-320-on-m4-m5-macbook-air-laptops-with-march-savings?utm_source=rss)
+ - [Canva’s new editing tool adds layers to AI-generated designs](https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta)
+ - [This Is the Next Wave of Political Fundraising](https://www.wired.com/story/this-is-the-next-wave-of-political-fundraising/)
+ - [Apple Vision Pro user learns the hard way that flight attendants have the final say](https://appleinsider.com/articles/26/03/11/apple-vision-pro-user-learns-the-hard-way-that-flight-attendants-have-the-final-say?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

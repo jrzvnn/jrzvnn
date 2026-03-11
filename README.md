@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo&#39;s stock jumps 8%+, its steepest climb since April 2025, after Pokémon Pokopia, a Switch 2 exclusive released on March 5, sold out at major US retailers &lpar;Alice French/Bloomberg&rpar;](http://www.techmeme.com/260311/p10#a260311p10)
- - [Anthropic is launching a new think tank amid Pentagon blacklist fight](https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark)
- - [Pulling Espresso by Hand Is More Fun Than Pushing a Button](https://www.wired.com/story/flair-signature/)
- - [Rally Orbital Massager Review: The Oscillating Revolution](https://www.wired.com/review/rally-orbital-massager/)
- - [A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart &lpar;2026&rpar;](https://www.wired.com/story/sleep-week-deals-2026/)<!-- TECH:END -->
+ - [Inside OpenAI&#39;s race to catch up with Claude Code, based on interviews with 30+ sources; a source says Codex had $1B+ in annualized revenue by January&#39;s end &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260311/p13#a260311p13)
+ - [Louis Theroux on the Manosphere: ‘It’s Highly Profitable to Be a Dick on the Internet’](https://www.wired.com/story/louis-theroux-on-the-manosphere-its-highly-profitable-to-be-a-dick-on-the-internet/)
+ - [Fujifilm Instax Evo Cinema Review: Retro Video Fun](https://www.wired.com/review/fujifilm-instax-evo-cinema/)
+ - [Best Android Phones of 2026: Tested by Our Experts](https://www.cnet.com/tech/mobile/best-android-phone/)
+ - [Paris-based digital health insurance startup Alan raised €100M led by Index Ventures at a €5B valuation, up from €4B after raising €173M in September 2024 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/260311/p12#a260311p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

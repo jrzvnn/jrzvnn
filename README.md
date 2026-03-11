@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
  - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
  - 💣 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)
- - 😝 [Some day...](http://9gag.com/gag/aQzj4m7)
+ - 😝 [These Netflix adaptations are wild](http://9gag.com/gag/aE041LK)
  - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
 
 ---

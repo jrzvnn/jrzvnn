@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: PayPay priced its US IPO at $16 per share, below its targeted price range of between $17 and $20; the IPO raised $880M, valuing the company at $10.7B &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260311/p52#a260311p52)
- - [How the Iran War Could Jack Up Prices on Store Shelves](https://www.wired.com/story/how-the-iran-war-could-jack-up-prices-on-store-shelves/)
- - [Some of the best horror games ever made are included in Humble’s $15 bundle](https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam)
- - [Nvidia debuts Nemotron 3 Super, a 120B-parameter hybrid MoE open-weight model; filing: Nvidia plans to spend $26B over the next five years to build open models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/260311/p51#a260311p51)
- - [iPhone Fold rumored to offer side-by-side iPad-like app multitasking](https://appleinsider.com/articles/26/03/11/iphone-fold-rumored-to-offer-side-by-side-ipad-like-app-multitasking?utm_source=rss)<!-- TECH:END -->
+ - [Source: Microsoft is in advanced talks to lease hundreds of MWs of data center capacity in Abilene, TX, after Oracle abandoned its expansion plans at the site &lpar;The Information&rpar;](http://www.techmeme.com/260311/p53#a260311p53)
+ - [New iOS and iPadOS security updates arrive for older Apple hardware](https://appleinsider.com/articles/26/03/11/new-ios-and-ipados-security-updates-arrive-for-older-apple-hardware?utm_source=rss)
+ - [iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID](https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor)
+ - [The South Carolina Measles Outbreak Is Slowing Down](https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/)
+ - [Sources: PayPay priced its US IPO at $16 per share, below its targeted price range of between $17 and $20; the IPO raised $880M, valuing the company at $10.7B &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260311/p52#a260311p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

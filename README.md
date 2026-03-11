@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart &lpar;2026&rpar;](https://www.wired.com/story/sleep-week-deals-2026/)
- - [Oppo’s new foldable isn’t quite creaseless, but it’s pretty damn close](https://www.theverge.com/tech/892547/oppo-find-n6-zero-feel-crease-impressions)
- - [Anduril agrees to acquire missile defense modeling company ExoAnalytic for an undisclosed sum and says the deal will grow its space unit staff from 120 to ~250 &lpar;Sana Pashankar/Bloomberg&rpar;](http://www.techmeme.com/260311/p9#a260311p9)
- - [Technology Is Reshaping Sleep Apnea Treatment](https://www.wired.com/story/sleep-apnea-treatment-tech/)
- - [Chinese Gen Z day traders, who prefer tech stocks and increasingly use AI chatbots for investment advice, fuel the country&#39;s latest tech investment craze &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p8#a260311p8)<!-- TECH:END -->
+ - [Nintendo&#39;s stock jumps 8%+, its steepest climb since April 2025, after Pokémon Pokopia, a Switch 2 exclusive released on March 5, sold out at major US retailers &lpar;Alice French/Bloomberg&rpar;](http://www.techmeme.com/260311/p10#a260311p10)
+ - [Anthropic is launching a new think tank amid Pentagon blacklist fight](https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark)
+ - [Pulling Espresso by Hand Is More Fun Than Pushing a Button](https://www.wired.com/story/flair-signature/)
+ - [Rally Orbital Massager Review: The Oscillating Revolution](https://www.wired.com/review/rally-orbital-massager/)
+ - [A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart &lpar;2026&rpar;](https://www.wired.com/story/sleep-week-deals-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

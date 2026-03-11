@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity&#39;s Personal Computer lets AI agents access your Mac mini&#39;s files](https://appleinsider.com/articles/26/03/11/perplexitys-personal-computer-lets-ai-agents-access-your-mac-minis-files?utm_source=rss)
- - [Studio Display XDR seemingly works on Intel Macs after all, with a caveat](https://appleinsider.com/articles/26/03/11/studio-display-xdr-seemingly-works-on-intel-macs-after-all-with-a-caveat?utm_source=rss)
- - [FCC Chair Brendan Carr criticizes the slow pace of Amazon&#39;s satellite launches, after Amazon raised concerns about SpaceX&#39;s plan to launch up to 1M satellites &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260311/p45#a260311p45)
- - [The Live Nation settlement has industry insiders baffled](https://www.theverge.com/policy/893272/live-nation-ticketmaster-doj-settlement-states)
- - [Superhuman says it has disabled Grammarly&#39;s Expert Review feature, which gave editing suggestions &quot;inspired by&quot; real writers without permission, after backlash &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260311/p44#a260311p44)<!-- TECH:END -->
+ - [Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature](https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/)
+ - [Microsoft says the next Xbox, Project Helix, will have a custom AMD chip, and it will begin sending out &quot;alpha versions&quot; of Project Helix to developers in 2027 &lpar;The Verge&rpar;](http://www.techmeme.com/260311/p49#a260311p49)
+ - [Perplexity announces Personal Computer, an OpenClaw-like AI agent that can run on a Mac, and an enterprise version of Perplexity Computer &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260311/p48#a260311p48)
+ - [Sources: Netflix will pay as much as $600M for InterPositive, Ben Affleck&#39;s AI moviemaking company, including bonuses for meeting certain performance targets &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260311/p47#a260311p47)
+ - [Sources: the foldable iPhone will feature an iPad-like interface for its iPad mini-sized inner display and have an outer screen the size of a small iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260311/p46#a260311p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

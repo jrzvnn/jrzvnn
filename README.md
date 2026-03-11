@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 😝 [Do it yourself](http://9gag.com/gag/a1m6ZKv)
  - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 💣 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
- - 😝 [Just look look at the size](http://9gag.com/gag/amoZLyv)
- - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
+ - 💣 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
+ - 😝 [These Netflix adaptations are wild](http://9gag.com/gag/aE041LK)
+ - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
 
 ---
 

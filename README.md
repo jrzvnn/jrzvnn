@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Greenoaks founder Neil Mehta is pitching an endowment-type fund to Silicon Valley billionaires to influence CA politics, aiming to raise $100M to $500M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260312/p37#a260312p37)
- - [Anthropic&amp;#8217;s Claude AI can respond with charts, diagrams, and other visuals now](https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams)
- - [Amazon announces new personality styles for Alexa+, including an adult-only &quot;Sassy&quot; option, which it says won&#39;t get into areas like explicit sexual content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260312/p36#a260312p36)
- - [European video game age ratings body PEGI plans to add four new categories in June to tackle elements of addictive design in games, including loot boxes &lpar;Robert Purchese/Eurogamer.net&rpar;](http://www.techmeme.com/260312/p35#a260312p35)
- - [MacBook Neo is more repairable than any Apple laptop made in the last decade](https://appleinsider.com/articles/26/03/12/macbook-neo-is-more-repairable-than-any-apple-laptop-made-in-the-last-decade?utm_source=rss)<!-- TECH:END -->
+ - [A US DOJ-led international law enforcement operation disrupted SocksEscort, a residential proxy network used to exploit residential routers worldwide &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/260312/p43#a260312p43)
+ - [Get an iPhone 17e on T-Mobile, no trade-in needed](https://appleinsider.com/articles/26/03/12/get-an-iphone-17e-on-t-mobile-no-trade-in-needed?utm_source=rss)
+ - [Gemini’s task automation is here and it’s wild](https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10)
+ - [Sunday, which is building autonomous home robots, raised a $165M Series B led by Coatue at a valuation of $1.15B, and aims to begin testing in homes this year &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/260312/p42#a260312p42)
+ - [Google’s TV Streamer 4K doubles as a smart home hub and it’s on sale](https://www.theverge.com/gadgets/893822/google-tv-streamer-4k-oscars-march-madness-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [New Sassy Personality Style for Alexa Plus Brings Sarcasm and Swear Words](https://www.cnet.com/tech/services-and-software/sassy-personality-amazon-alexa/)
+ - [Dyson&#39;s First Wet Dry Robot Vacuum Boasts Better Stain Detection and Improved Cleaning](https://www.cnet.com/home/kitchen-and-household/dysons-first-wet-dry-robot-vacuum-boasts-better-stain-detection-and-improved-cleaning/)
  - [Google Chrome is coming to Arm-powered Linux devices later this year](https://www.theverge.com/tech/894095/google-chrome-for-arm-linux)
- - [Sources: Amazon plans to move its Prime Day sale from July to late June; the shift affects its financial reporting, with event sales coming in Q2 rather than Q3 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260312/p51#a260312p51)
- - [Sources: Meta has paused the Persian Gulf section of its 2Africa subsea cable project as the war in the Middle East freezes activity in the region &lpar;Bloomberg&rpar;](http://www.techmeme.com/260312/p50#a260312p50)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 13, #536](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-13-536/)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-12/)<!-- TECH:END -->
+ - [Sources: Amazon plans to move its Prime Day sale from July to late June; the shift affects its financial reporting, with event sales coming in Q2 rather than Q3 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260312/p51#a260312p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

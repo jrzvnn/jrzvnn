@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages](https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings)
+ - [Swarm Aero, which is developing large swarming drones capable of carrying missiles and cargo, raised a $35M Series A, following a $22M seed in 2023 &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/260312/p44#a260312p44)
+ - [These Excellent Computer Speakers Are $100 Off](https://www.wired.com/story/iloud-micro-monitor-deal-326/)
  - [A US DOJ-led international law enforcement operation disrupted SocksEscort, a residential proxy network used to exploit residential routers worldwide &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/260312/p43#a260312p43)
- - [Get an iPhone 17e on T-Mobile, no trade-in needed](https://appleinsider.com/articles/26/03/12/get-an-iphone-17e-on-t-mobile-no-trade-in-needed?utm_source=rss)
- - [Gemini’s task automation is here and it’s wild](https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10)
- - [Sunday, which is building autonomous home robots, raised a $165M Series B led by Coatue at a valuation of $1.15B, and aims to begin testing in homes this year &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/260312/p42#a260312p42)
- - [Google’s TV Streamer 4K doubles as a smart home hub and it’s on sale](https://www.theverge.com/gadgets/893822/google-tv-streamer-4k-oscars-march-madness-deal-sale)<!-- TECH:END -->
+ - [Get an iPhone 17e on T-Mobile, no trade-in needed](https://appleinsider.com/articles/26/03/12/get-an-iphone-17e-on-t-mobile-no-trade-in-needed?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

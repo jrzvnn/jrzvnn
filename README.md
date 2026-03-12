@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
  - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 💣 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - 😝 [A famous man](http://9gag.com/gag/a2vXmGZ)
- - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
+ - 💣 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: India plans to unveil a ~$10.8B fund aimed at bolstering domestic chipmaking, including subsidizing chip design projects and manufacturing equipment &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/260312/p17#a260312p17)
+ - [IDS and ADRN study: 11 African governments spent $2B+ on Chinese-built surveillance tech that recognizes faces and monitors movements; Nigeria spent $470M &lpar;Kaamil Ahmed/The Guardian&rpar;](http://www.techmeme.com/260312/p16#a260312p16)
  - [Axiom Math, which uses AI and the Lean language to verify code in much the same way that mathematicians prove math problems, raised $200M at a $1.6B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260312/p15#a260312p15)
  - [Microsoft is pushing for more Africans to adopt its AI tools as it competes with DeepSeek: training 3M people, partnering with telecom MTN to sell 365, and more &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/260312/p14#a260312p14)
- - [AeroPress Coffee Is Superb When I’m Traveling, but I Use Mine Even When I Stay Home](https://www.wired.com/story/aeropress-coffee-superb-when-traveling-but-also-at-home/)
- - [Chinese brain-computer interface startup Gestala raised $21.6M co-led by Guosheng Capital and Dalton Venture at a $100M to $200M valuation, per CEO Phoenix Peng &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260312/p13#a260312p13)
- - [Sources: Alibaba-backed PixVerse, which develops AI video generation tools, raised a $300M Series C led by CDH; the company says the round values it at $1B+ &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260312/p12#a260312p12)<!-- TECH:END -->
+ - [AeroPress Coffee Is Superb When I’m Traveling, but I Use Mine Even When I Stay Home](https://www.wired.com/story/aeropress-coffee-superb-when-traveling-but-also-at-home/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

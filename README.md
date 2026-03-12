@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
  - 😝 [Who cares](http://9gag.com/gag/aBye3px)
  - 💣 [Every alcoholics dream](http://9gag.com/gag/a6ZR7v8)
- - 😝 [The struggle is real, sometimes being nice just gets you into trouble](http://9gag.com/gag/aGyQxnZ)
+ - 😝 [Iran engineers working overtime like...](http://9gag.com/gag/ae9Bp1j)
  - 👉 [Skillz](http://9gag.com/gag/a34OL5e)<!-- MEMES:END -->
 
 ---

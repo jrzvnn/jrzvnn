@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Allen Institute for AI CEO Ali Farhadi steps down after two and a half years to pursue research ambitions; founding member Peter Clark will serve as interim CEO &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260312/p52#a260312p52)
  - [Grab Amazon&#39;s first material discounts on M5 Pro &amp; M5 Max MacBook Pros](https://appleinsider.com/articles/26/03/12/grab-amazons-first-material-discounts-on-m5-pro-m5-max-macbook-pros?utm_source=rss)
  - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
  - [New Sassy Personality Style for Alexa Plus Brings Sarcasm and Swear Words](https://www.cnet.com/tech/services-and-software/sassy-personality-amazon-alexa/)
- - [Dyson&#39;s First Wet Dry Robot Vacuum Boasts Better Stain Detection and Improved Cleaning](https://www.cnet.com/home/kitchen-and-household/dysons-first-wet-dry-robot-vacuum-boasts-better-stain-detection-and-improved-cleaning/)
- - [Google Chrome is coming to Arm-powered Linux devices later this year](https://www.theverge.com/tech/894095/google-chrome-for-arm-linux)<!-- TECH:END -->
+ - [Dyson&#39;s First Wet Dry Robot Vacuum Boasts Better Stain Detection and Improved Cleaning](https://www.cnet.com/home/kitchen-and-household/dysons-first-wet-dry-robot-vacuum-boasts-better-stain-detection-and-improved-cleaning/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

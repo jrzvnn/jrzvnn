@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cooking hack](http://9gag.com/gag/aE04GLp)
- - 😝 [Who cares](http://9gag.com/gag/aBye3px)
- - 💣 [Nothing can touch that](http://9gag.com/gag/aYQ0Wzw)
- - 😝 [Skillz](http://9gag.com/gag/a34OL5e)
- - 👉 [Meme origins](http://9gag.com/gag/agmevjx)<!-- MEMES:END -->
+ - 😝 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
+ - 😝 [Do it yourself](http://9gag.com/gag/a1m6ZKv)
+ - 💣 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 😝 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
+ - 👉 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)<!-- MEMES:END -->
 
 ---
 

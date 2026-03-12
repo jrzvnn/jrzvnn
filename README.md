@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just listen to your heart](http://9gag.com/gag/agme0GK)
- - 😝 [BRUTAL](http://9gag.com/gag/aW4XWOn)
- - 💣 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
- - 😝 [Iran engineers working overtime like...](http://9gag.com/gag/ae9Bp1j)
- - 👉 [World&#39;s fastest elevator.](http://9gag.com/gag/azx3L2m)<!-- MEMES:END -->
+ - 😝 [Cooking hack](http://9gag.com/gag/aE04GLp)
+ - 😝 [Who cares](http://9gag.com/gag/aBye3px)
+ - 💣 [Nothing can touch that](http://9gag.com/gag/aYQ0Wzw)
+ - 😝 [Skillz](http://9gag.com/gag/a34OL5e)
+ - 👉 [Meme origins](http://9gag.com/gag/agmevjx)<!-- MEMES:END -->
 
 ---
 

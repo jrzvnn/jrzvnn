@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BackOps, which makes automation tools for supply chain operations, raised a $26M Series A led by Theory Ventures &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260312/p32#a260312p32)
- - [Rivian R2 prices revealed: you’re going to have to wait longer for that $45,000 version](https://www.theverge.com/transportation/893058/rivian-r2-price-specs-range-performance-charging)
- - [Dyson’s new stain-spotting AI robovac is now available](https://www.theverge.com/tech/893133/dyson-spot-scrub-ai-robot-vacuum-mop-lasers-multifunction-dock-availability-price)
- - [Honda cancels Zero Series EVs, citing ‘extremely challenging’ situation](https://www.theverge.com/transportation/893750/honda-zero-ev-cancel-tariff-acura)
- - [BMBL jumps 30%+ after Bumble reported Q4 revenue above estimates and unveiled an AI-driven app overhaul to lure back users; BMBL is down 90% since its 2021 IPO &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/260312/p31#a260312p31)<!-- TECH:END -->
+ - [Sources: Greenoaks founder Neil Mehta is pitching an endowment-type fund to Silicon Valley billionaires to influence CA politics, aiming to raise $100M to $500M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260312/p37#a260312p37)
+ - [Anthropic&amp;#8217;s Claude AI can respond with charts, diagrams, and other visuals now](https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams)
+ - [Amazon announces new personality styles for Alexa+, including an adult-only &quot;Sassy&quot; option, which it says won&#39;t get into areas like explicit sexual content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260312/p36#a260312p36)
+ - [European video game age ratings body PEGI plans to add four new categories in June to tackle elements of addictive design in games, including loot boxes &lpar;Robert Purchese/Eurogamer.net&rpar;](http://www.techmeme.com/260312/p35#a260312p35)
+ - [MacBook Neo is more repairable than any Apple laptop made in the last decade](https://appleinsider.com/articles/26/03/12/macbook-neo-is-more-repairable-than-any-apple-laptop-made-in-the-last-decade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World&#39;s fastest elevator.](http://9gag.com/gag/azx3L2m)
  - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 💣 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)
- - 😝 [Just look look at the size](http://9gag.com/gag/amoZLyv)
- - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
+ - 😝 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
+ - 💣 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)
+ - 😝 [That was Unexpected....](http://9gag.com/gag/aYQ0eA0)
+ - 👉 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)<!-- MEMES:END -->
 
 ---
 

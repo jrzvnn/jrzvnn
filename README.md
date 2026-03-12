@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL’s new party speaker comes with a karaoke mic that helps you hit those high notes](https://www.theverge.com/tech/890868/jbl-partybox-on-the-go-2-bluetooth-speaker-wireless-easysing-mic)
- - [Israeli startup Onyx Security, which helps secure and manage AI agents&#39; operational risks, raised a $35M Series A led by Conviction, after a $5M seed in 2024 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260312/p21#a260312p21)
- - [Sennheiser RS 275 TV Headphone Bundle Review: Awesome Tech, OK Headphones](https://www.wired.com/review/sennheiser-rs-275-tv-headphones-bta1-auracast/)
- - [Best Massage Guns of 2026: Hyperice, Therabody, and More](https://www.wired.com/story/best-massage-guns/)
- - [Iran-linked cyber attack targets US medtech giant Stryker](https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack)<!-- TECH:END -->
+ - [Tim Cook kicks off Apple&#39;s 50th anniversary celebration](https://appleinsider.com/articles/26/03/12/tim-cook-kicks-off-apples-50th-anniversary-celebration?utm_source=rss)
+ - [Former Windows chief applauds MacBook Neo, laments Microsoft&#39;s ARM struggles](https://appleinsider.com/articles/26/03/12/former-windows-chief-applauds-macbook-neo-laments-microsofts-arm-struggles?utm_source=rss)
+ - [Microsoft launches Copilot Health, which integrates medical records, biometric data from wearables, and lab results to give personalized advice, in the US &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/260312/p24#a260312p24)
+ - [Microsoft’s Copilot Health can connect to your medical records and wearables](https://www.theverge.com/tech/893594/microsoft-copilot-health-launch)
+ - [iPhone Fold will be called iPhone Ultra, guesses new leaker](https://appleinsider.com/articles/26/03/12/iphone-fold-will-called-iphone-ultra-guesses-new-leaker?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

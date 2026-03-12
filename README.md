@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tinder unveils updates designed to reinvigorate its product, bolster safety, and harness AI, including an Events tab and a virtual speed dating test in LA &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260312/p47#a260312p47)
  - [What it was like to watch grieving parents stare down Mark Zuckerberg in court](https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube)
  - [PayPay shares jump 19% in their Nasdaq debut after the company&#39;s $879.8M US IPO, the biggest listing by a Japanese company on a US stock exchange in a decade &lpar;Georgie McKay/Bloomberg&rpar;](http://www.techmeme.com/260312/p46#a260312p46)
  - [The original AirTag is the cheapest it’s ever been](https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale)
- - [KPop Demon Hunters is getting a sequel, obviously](https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel)
- - [Emil Michael says Anthropic&#39;s Claude models would &quot;pollute&quot; the DOD&#39;s supply chain because they have &quot;a different policy preference&quot; that is baked in &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260312/p45#a260312p45)<!-- TECH:END -->
+ - [KPop Demon Hunters is getting a sequel, obviously](https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

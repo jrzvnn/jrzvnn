@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 😝 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - 💣 [The ants feel the wrath of the elephant king.](http://9gag.com/gag/aQzj4D2)
  - 😝 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
- - 💣 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)
- - 😝 [That was Unexpected....](http://9gag.com/gag/aYQ0eA0)
- - 👉 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)<!-- MEMES:END -->
+ - 👉 [This poor guy is getting groomed](http://9gag.com/gag/aVv6Q1y)<!-- MEMES:END -->
 
 ---
 

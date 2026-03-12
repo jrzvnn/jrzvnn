@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where&#39;s Bobby?](http://9gag.com/gag/aXPOXA9)
  - 😝 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
- - 💣 [I see what you did there](http://9gag.com/gag/aRBpA9B)
- - 😝 [Icelandic jokes](http://9gag.com/gag/a9yGPeo)
- - 👉 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)<!-- MEMES:END -->
+ - 😝 [Where&#39;s Bobby?](http://9gag.com/gag/aXPOXA9)
+ - 💣 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 😝 [Nailed it!](http://9gag.com/gag/a34OjKv)
+ - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
 
 ---
 

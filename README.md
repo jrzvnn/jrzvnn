@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
- - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
- - 💣 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)
- - 😝 [This poor guy is getting groomed](http://9gag.com/gag/aVv6Q1y)
- - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
+ - 😝 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 💣 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 😝 [Apex Legends loot tick in real life?](http://9gag.com/gag/a87gjXe)
+ - 👉 [This poor guy is getting groomed](http://9gag.com/gag/aVv6Q1y)<!-- MEMES:END -->
 
 ---
 

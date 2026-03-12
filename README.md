@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Anthropic is in talks with Blackstone and other PE firms to form a JV selling consulting services for integrating Claude into portfolio companies &lpar;The Information&rpar;](http://www.techmeme.com/260311/p65#a260311p65)
- - [Google spins off GFiber, formerly Google Fiber, forming an independent provider with investment firm Stonepeak&#39;s Astound; Google will retain a minority stake &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/260311/p64#a260311p64)
- - [Binance.US named Stephen Gregory as CEO, replacing Norman Reed; Gregory was previously CEO of Currency.com and held compliance roles at Gemini and CEX.IO &lpar;CoinDesk&rpar;](http://www.techmeme.com/260311/p63#a260311p63)
- - [Valve says 5,863 games made $100K+ on Steam in 2025, up from ~3,000 titles that reached that mark in 2020, and Steam passed 42M peak concurrent users last month &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/260311/p62#a260311p62)
- - [Chicago-based restaurant software startup Chowbus raised an $81M Series E led by Prysm Capital and Left Lane Capital; it focuses primarily on Asian restaurants &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260311/p61#a260311p61)<!-- TECH:END -->
+ - [Sources: India is drafting new smartphone manufacturing incentives linking subsidies to exports and greater use of local components, benefiting Apple and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/260312/p4#a260312p4)
+ - [The US SEC and CFTC announce an agreement to coordinate operations where their duties overlap, including building a combined crypto oversight framework &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/260312/p3#a260312p3)
+ - [Booking.com Promo Codes and Deals: Up to 20% Off](https://www.wired.com/story/booking-com-promo-code/)
+ - [Expedia Coupons and Deals: Up to 75% Off Select Trips](https://www.wired.com/story/expedia-coupon/)
+ - [Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders](https://www.wired.com/story/birdfy-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

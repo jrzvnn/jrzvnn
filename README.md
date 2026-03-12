@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple continues to renovate its social media presence with new @helloapple Instagram account](https://appleinsider.com/articles/26/03/12/apple-continues-to-renovate-its-social-media-presence-with-new-helloapple-instagram-account?utm_source=rss)
- - [Anthropic doesn’t trust the Pentagon, and neither should you](https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying)
- - [Bespoke AI models are the next big thing in filmmaking](https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck)
- - [Essential Gear for an Emergency Kit—for Cars or Go-Bags](https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/)
- - [Grammarly wisely killed off feature that plagiarized top writers&#39; voices](https://appleinsider.com/articles/26/03/12/grammarly-wisely-killed-off-feature-that-plagiarized-top-writers-voices?utm_source=rss)<!-- TECH:END -->
+ - [BackOps, which makes automation tools for supply chain operations, raised a $26M Series A led by Theory Ventures &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260312/p32#a260312p32)
+ - [Rivian R2 prices revealed: you’re going to have to wait longer for that $45,000 version](https://www.theverge.com/transportation/893058/rivian-r2-price-specs-range-performance-charging)
+ - [Dyson’s new stain-spotting AI robovac is now available](https://www.theverge.com/tech/893133/dyson-spot-scrub-ai-robot-vacuum-mop-lasers-multifunction-dock-availability-price)
+ - [Honda cancels Zero Series EVs, citing ‘extremely challenging’ situation](https://www.theverge.com/transportation/893750/honda-zero-ev-cancel-tariff-acura)
+ - [BMBL jumps 30%+ after Bumble reported Q4 revenue above estimates and unveiled an AI-driven app overhaul to lure back users; BMBL is down 90% since its 2021 IPO &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/260312/p31#a260312p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

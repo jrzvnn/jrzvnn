@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
- - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
- - 💣 [Buy gold](http://9gag.com/gag/aE04Gjo)
- - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 😝 [Who cares](http://9gag.com/gag/aBye3px)
+ - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
+ - 💣 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
+ - 😝 [Bring back the super soaker ads](http://9gag.com/gag/apRMv2n)
  - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
 
 ---

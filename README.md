@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: investors demanded steep concessions in Salesforce&#39;s $25B bond deal to fund a share buyback; it sold debt at a significant premium in borrowing costs &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260311/p56#a260311p56)
- - [Nuro says it has begun testing its self-driving tech on public roads in Tokyo, marking the US-based company&#39;s first international autonomous deployment &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/260311/p55#a260311p55)
- - [TikTok to Let Apple Music Users Stream Full Songs Without Ever Leaving the App](https://www.cnet.com/tech/services-and-software/tiktok-apple-music-stream-full-songs-listening-party/)
- - [Superhuman faces a proposed class action lawsuit from Julia Angwin, founder of The Markup, alleging Grammarly&#39;s Expert Review tool involved &quot;misappropriation&quot; &lpar;Miles Klee/Wired&rpar;](http://www.techmeme.com/260311/p54#a260311p54)
- - [Amazon Expands Health AI Access for Virtual Health Care](https://www.cnet.com/tech/amazon-expands-health-ai-access-for-amazon-users-looking-to-receive-virtual-healthcare/)<!-- TECH:END -->
+ - [Source: Anthropic is in talks with Blackstone and other PE firms to form a JV selling consulting services for integrating Claude into portfolio companies &lpar;The Information&rpar;](http://www.techmeme.com/260311/p65#a260311p65)
+ - [Google spins off GFiber, formerly Google Fiber, forming an independent provider with investment firm Stonepeak&#39;s Astound; Google will retain a minority stake &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/260311/p64#a260311p64)
+ - [Binance.US named Stephen Gregory as CEO, replacing Norman Reed; Gregory was previously CEO of Currency.com and held compliance roles at Gemini and CEX.IO &lpar;CoinDesk&rpar;](http://www.techmeme.com/260311/p63#a260311p63)
+ - [Valve says 5,863 games made $100K+ on Steam in 2025, up from ~3,000 titles that reached that mark in 2020, and Steam passed 42M peak concurrent users last month &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/260311/p62#a260311p62)
+ - [Chicago-based restaurant software startup Chowbus raised an $81M Series E led by Prysm Capital and Left Lane Capital; it focuses primarily on Asian restaurants &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260311/p61#a260311p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

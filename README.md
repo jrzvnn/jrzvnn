@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
- - 😝 [Who cares](http://9gag.com/gag/aBye3px)
- - 💣 [Every alcoholics dream](http://9gag.com/gag/a6ZR7v8)
- - 😝 [Iran engineers working overtime like...](http://9gag.com/gag/ae9Bp1j)
- - 👉 [Skillz](http://9gag.com/gag/a34OL5e)<!-- MEMES:END -->
+ - 😝 [Where&#39;s Bobby?](http://9gag.com/gag/aXPOXA9)
+ - 😝 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
+ - 💣 [I see what you did there](http://9gag.com/gag/aRBpA9B)
+ - 😝 [Icelandic jokes](http://9gag.com/gag/a9yGPeo)
+ - 👉 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)<!-- MEMES:END -->
 
 ---
 

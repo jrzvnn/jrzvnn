@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
- - 😝 [Facial scars signified honor. Rare photos of the German tradition of sword duels.](http://9gag.com/gag/aryLReX)
- - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 😝 [Every alcoholics dream](http://9gag.com/gag/a6ZR7v8)
- - 👉 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)<!-- MEMES:END -->
+ - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
+ - 😝 [Who cares](http://9gag.com/gag/aBye3px)
+ - 💣 [Every alcoholics dream](http://9gag.com/gag/a6ZR7v8)
+ - 😝 [The struggle is real, sometimes being nice just gets you into trouble](http://9gag.com/gag/aGyQxnZ)
+ - 👉 [Skillz](http://9gag.com/gag/a34OL5e)<!-- MEMES:END -->
 
 ---
 

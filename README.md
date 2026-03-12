@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [These Netflix adaptations are wild](http://9gag.com/gag/aE041LK)
  - 😝 [This is our climate](http://9gag.com/gag/aAy9ryE)
- - 😝 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)
- - 💣 [These Netflix adaptations are wild](http://9gag.com/gag/aE041LK)
+ - 💣 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)
  - 😝 [Cooking hack](http://9gag.com/gag/aE04GLp)
  - 👉 [Not sure](http://9gag.com/gag/aYQ0W67)<!-- MEMES:END -->
 

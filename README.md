@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These Netflix adaptations are wild](http://9gag.com/gag/aE041LK)
- - 😝 [This is our climate](http://9gag.com/gag/aAy9ryE)
- - 💣 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)
- - 😝 [Cooking hack](http://9gag.com/gag/aE04GLp)
- - 👉 [Not sure](http://9gag.com/gag/aYQ0W67)<!-- MEMES:END -->
+ - 😝 [Just listen to your heart](http://9gag.com/gag/agme0GK)
+ - 😝 [BRUTAL](http://9gag.com/gag/aW4XWOn)
+ - 💣 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
+ - 😝 [Iran engineers working overtime like...](http://9gag.com/gag/ae9Bp1j)
+ - 👉 [World&#39;s fastest elevator.](http://9gag.com/gag/azx3L2m)<!-- MEMES:END -->
 
 ---
 

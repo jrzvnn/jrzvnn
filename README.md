@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 😝 [Buy gold](http://9gag.com/gag/aE04Gjo)
- - 💣 [The ants feel the wrath of the elephant king.](http://9gag.com/gag/aQzj4D2)
- - 😝 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
- - 👉 [This poor guy is getting groomed](http://9gag.com/gag/aVv6Q1y)<!-- MEMES:END -->
+ - 😝 [Just look look at the size](http://9gag.com/gag/amoZLyv)
+ - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 💣 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 😝 [Apex Legends loot tick in real life?](http://9gag.com/gag/a87gjXe)
+ - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
 
 ---
 

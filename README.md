@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some day...](http://9gag.com/gag/aQzj4m7)
- - 😝 [Who cares](http://9gag.com/gag/aBye3px)
- - 💣 [Meme origins](http://9gag.com/gag/agmevjx)
+ - 😝 [World&#39;s fastest elevator.](http://9gag.com/gag/azx3L2m)
  - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 👉 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)<!-- MEMES:END -->
+ - 💣 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)
+ - 😝 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
+ - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
 
 ---
 

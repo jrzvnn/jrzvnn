@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe CEO Shantanu Narayen will step down after a successor is named; he became CEO in 2007 and will remain as chair of the board; ADBE drops 6%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/260312/p49#a260312p49)
+ - [John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job](https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/)
  - [xAI hires senior Cursor leaders Andrew Milich and Jason Ginsberg; Elon Musk said he expects xAI to catch up with rivals in coding by &quot;the middle of this year&quot; &lpar;The Information&rpar;](http://www.techmeme.com/260312/p48#a260312p48)
  - [‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs](https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/)
- - [Tinder unveils updates designed to reinvigorate its product, bolster safety, and harness AI, including an Events tab and a virtual speed dating test in LA &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260312/p47#a260312p47)
- - [What it was like to watch grieving parents stare down Mark Zuckerberg in court](https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube)
- - [PayPay shares jump 19% in their Nasdaq debut after the company&#39;s $879.8M US IPO, the biggest listing by a Japanese company on a US stock exchange in a decade &lpar;Georgie McKay/Bloomberg&rpar;](http://www.techmeme.com/260312/p46#a260312p46)<!-- TECH:END -->
+ - [Tinder unveils updates designed to reinvigorate its product, bolster safety, and harness AI, including an Events tab and a virtual speed dating test in LA &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260312/p47#a260312p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

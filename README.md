@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Some day...](http://9gag.com/gag/aQzj4m7)
  - 😝 [Who cares](http://9gag.com/gag/aBye3px)
- - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
- - 💣 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
- - 😝 [Bring back the super soaker ads](http://9gag.com/gag/apRMv2n)
- - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
+ - 💣 [Meme origins](http://9gag.com/gag/agmevjx)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 👉 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)<!-- MEMES:END -->
 
 ---
 

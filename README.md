@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: investors demanded steep concessions in Salesforce&#39;s $25B bond deal to fund a share buyback; it sold debt at a significant premium in borrowing costs &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260311/p56#a260311p56)
+ - [Nuro says it has begun testing its self-driving tech on public roads in Tokyo, marking the US-based company&#39;s first international autonomous deployment &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/260311/p55#a260311p55)
+ - [TikTok to Let Apple Music Users Stream Full Songs Without Ever Leaving the App](https://www.cnet.com/tech/services-and-software/tiktok-apple-music-stream-full-songs-listening-party/)
  - [Superhuman faces a proposed class action lawsuit from Julia Angwin, founder of The Markup, alleging Grammarly&#39;s Expert Review tool involved &quot;misappropriation&quot; &lpar;Miles Klee/Wired&rpar;](http://www.techmeme.com/260311/p54#a260311p54)
- - [Friday Night Baseball coming back to Apple TV for its fifth season on March 27](https://appleinsider.com/articles/26/03/11/friday-night-baseball-coming-back-to-apple-tv-for-its-fifth-season-on-march-27?utm_source=rss)
- - [One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature](https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin)
- - [Source: Microsoft is in advanced talks to lease hundreds of MWs of data center capacity in Abilene, TX, after Oracle abandoned its expansion plans at the site &lpar;The Information&rpar;](http://www.techmeme.com/260311/p53#a260311p53)
- - [New iOS and iPadOS security updates arrive for older Apple hardware](https://appleinsider.com/articles/26/03/11/new-ios-and-ipados-security-updates-arrive-for-older-apple-hardware?utm_source=rss)<!-- TECH:END -->
+ - [Amazon Expands Health AI Access for Virtual Health Care](https://www.cnet.com/tech/amazon-expands-health-ai-access-for-amazon-users-looking-to-receive-virtual-healthcare/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

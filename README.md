@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
- - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 💣 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
- - 😝 [Apex Legends loot tick in real life?](http://9gag.com/gag/a87gjXe)
- - 👉 [This poor guy is getting groomed](http://9gag.com/gag/aVv6Q1y)<!-- MEMES:END -->
+ - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 💣 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
 
 ---
 

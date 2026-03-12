@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: India is drafting new smartphone manufacturing incentives linking subsidies to exports and greater use of local components, benefiting Apple and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/260312/p4#a260312p4)
- - [The US SEC and CFTC announce an agreement to coordinate operations where their duties overlap, including building a combined crypto oversight framework &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/260312/p3#a260312p3)
- - [Booking.com Promo Codes and Deals: Up to 20% Off](https://www.wired.com/story/booking-com-promo-code/)
- - [Expedia Coupons and Deals: Up to 75% Off Select Trips](https://www.wired.com/story/expedia-coupon/)
- - [Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders](https://www.wired.com/story/birdfy-discount-code/)<!-- TECH:END -->
+ - [Apple&#39;s MacBook Neo validates a vision that began with Windows on ARM, which to this day is still held back by Microsoft&#39;s commitment to x86 compatibility &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/260312/p8#a260312p8)
+ - [IDC: Motorola holds 50% of the foldable market in the US and 55% in Latin America, ahead of Samsung and Google; Motorola only holds 13% of the European market &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/260312/p7#a260312p7)
+ - [A small cottage industry offering OpenClaw installation services and preconfigured hardware emerges in China as the tool becomes the country&#39;s latest tech craze &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260312/p6#a260312p6)
+ - [Apple updates iOS and iPadOS for older devices, including iPhone 6s, iPad Air 2, and iPod touch &lpar;7th gen&rpar;, to address the Coruna exploit disclosed last week &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260312/p5#a260312p5)
+ - [Sources: India is drafting new smartphone manufacturing incentives linking subsidies to exports and greater use of local components, benefiting Apple and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/260312/p4#a260312p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

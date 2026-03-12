@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ants feel the wrath of the elephant king.](http://9gag.com/gag/aQzj4D2)
- - 😝 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
- - 💣 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 😝 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
+ - 😝 [Facial scars signified honor. Rare photos of the German tradition of sword duels.](http://9gag.com/gag/aryLReX)
+ - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
  - 😝 [Every alcoholics dream](http://9gag.com/gag/a6ZR7v8)
- - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
+ - 👉 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)<!-- MEMES:END -->
 
 ---
 

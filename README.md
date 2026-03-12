@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
- - 💣 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
+ - 😝 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 💣 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
  - 😝 [A famous man](http://9gag.com/gag/a2vXmGZ)
- - 👉 [Skillz](http://9gag.com/gag/a34OL5e)<!-- MEMES:END -->
+ - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just look look at the size](http://9gag.com/gag/amoZLyv)
- - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - 💣 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 😝 [Apex Legends loot tick in real life?](http://9gag.com/gag/a87gjXe)
- - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
+ - 💣 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
+ - 😝 [A famous man](http://9gag.com/gag/a2vXmGZ)
+ - 👉 [Skillz](http://9gag.com/gag/a34OL5e)<!-- MEMES:END -->
 
 ---
 

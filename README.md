@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli-Dutch startup Wonderful AI, which offers AI agents that can handle customer conversations across voice, chat, and more, raised $150M at a $2B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260312/p19#a260312p19)
- - [iPhone Fold will called iPhone Ultra, guesses new leaker](https://appleinsider.com/articles/26/03/12/iphone-fold-will-called-iphone-ultra-guesses-new-leaker?utm_source=rss)
- - [Apple MacBook Pro Review &lpar;M5 Max, 16-inch&rpar;: The Fastest MacBook Yet](https://www.wired.com/review/macbook-pro-16-inch-m5-max/)
- - [How to Watch the Oscars &lpar;2026&rpar;](https://www.wired.com/story/how-to-watch-the-oscars-2026/)
- - [The Best Large TVs &lpar;Best Over 75 Inches&rpar;: Samsung, LG, and More](https://www.wired.com/gallery/best-large-tvs/)<!-- TECH:END -->
+ - [Sennheiser RS 275 TV Headphone Bundle Review: Awesome Tech, OK Headphones](https://www.wired.com/review/sennheiser-rs-275-tv-headphones-bta1-auracast/)
+ - [Best Massage Guns of 2026: Hyperice, Therabody, and More](https://www.wired.com/story/best-massage-guns/)
+ - [Iran-linked cyber attack targets US medtech giant Stryker](https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack)
+ - [Sources: after Google&#39;s $32B deal, each of Wiz&#39;s four co-founders is set to get $2B in post-tax cash; Index is set to net $4B, Insight $2.7B, and Sequoia $3B &lpar;Sofia Chierchio/Forbes&rpar;](http://www.techmeme.com/260312/p20#a260312p20)
+ - [Israeli-Dutch startup Wonderful AI, which offers AI agents that can handle customer conversations across voice, chat, and more, raised $150M at a $2B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260312/p19#a260312p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

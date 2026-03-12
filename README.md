@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
  - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
- - 😝 [Buy gold](http://9gag.com/gag/aE04Gjo)
- - 💣 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
- - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
+ - 💣 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)
+ - 😝 [This poor guy is getting groomed](http://9gag.com/gag/aVv6Q1y)
+ - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
 
 ---
 

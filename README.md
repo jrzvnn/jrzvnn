@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: India plans to unveil a ~$10.8B fund aimed at bolstering domestic chipmaking, including subsidizing chip design projects and manufacturing equipment &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/260312/p17#a260312p17)
- - [IDS and ADRN study: 11 African governments spent $2B+ on Chinese-built surveillance tech that recognizes faces and monitors movements; Nigeria spent $470M &lpar;Kaamil Ahmed/The Guardian&rpar;](http://www.techmeme.com/260312/p16#a260312p16)
- - [Axiom Math, which uses AI and the Lean language to verify code in much the same way that mathematicians prove math problems, raised $200M at a $1.6B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260312/p15#a260312p15)
- - [Microsoft is pushing for more Africans to adopt its AI tools as it competes with DeepSeek: training 3M people, partnering with telecom MTN to sell 365, and more &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/260312/p14#a260312p14)
- - [AeroPress Coffee Is Superb When I’m Traveling, but I Use Mine Even When I Stay Home](https://www.wired.com/story/aeropress-coffee-superb-when-traveling-but-also-at-home/)<!-- TECH:END -->
+ - [Israeli-Dutch startup Wonderful AI, which offers AI agents that can handle customer conversations across voice, chat, and more, raised $150M at a $2B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260312/p19#a260312p19)
+ - [iPhone Fold will called iPhone Ultra, guesses new leaker](https://appleinsider.com/articles/26/03/12/iphone-fold-will-called-iphone-ultra-guesses-new-leaker?utm_source=rss)
+ - [Apple MacBook Pro Review &lpar;M5 Max, 16-inch&rpar;: The Fastest MacBook Yet](https://www.wired.com/review/macbook-pro-16-inch-m5-max/)
+ - [How to Watch the Oscars &lpar;2026&rpar;](https://www.wired.com/story/how-to-watch-the-oscars-2026/)
+ - [The Best Large TVs &lpar;Best Over 75 Inches&rpar;: Samsung, LG, and More](https://www.wired.com/gallery/best-large-tvs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

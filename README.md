@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages](https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings)
- - [Swarm Aero, which is developing large swarming drones capable of carrying missiles and cargo, raised a $35M Series A, following a $22M seed in 2023 &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/260312/p44#a260312p44)
- - [These Excellent Computer Speakers Are $100 Off](https://www.wired.com/story/iloud-micro-monitor-deal-326/)
- - [A US DOJ-led international law enforcement operation disrupted SocksEscort, a residential proxy network used to exploit residential routers worldwide &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/260312/p43#a260312p43)
- - [Get an iPhone 17e on T-Mobile, no trade-in needed](https://appleinsider.com/articles/26/03/12/get-an-iphone-17e-on-t-mobile-no-trade-in-needed?utm_source=rss)<!-- TECH:END -->
+ - [What it was like to watch grieving parents stare down Mark Zuckerberg in court](https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube)
+ - [PayPay shares jump 19% in their Nasdaq debut after the company&#39;s $879.8M US IPO, the biggest listing by a Japanese company on a US stock exchange in a decade &lpar;Georgie McKay/Bloomberg&rpar;](http://www.techmeme.com/260312/p46#a260312p46)
+ - [The original AirTag is the cheapest it’s ever been](https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale)
+ - [KPop Demon Hunters is getting a sequel, obviously](https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel)
+ - [Emil Michael says Anthropic&#39;s Claude models would &quot;pollute&quot; the DOD&#39;s supply chain because they have &quot;a different policy preference&quot; that is baked in &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260312/p45#a260312p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

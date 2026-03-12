@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
- - 😝 [Do it yourself](http://9gag.com/gag/a1m6ZKv)
- - 💣 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 😝 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
- - 👉 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)<!-- MEMES:END -->
+ - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 😝 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - 💣 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
+ - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
 
 ---
 

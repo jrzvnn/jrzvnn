@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook kicks off Apple&#39;s 50th anniversary celebration](https://appleinsider.com/articles/26/03/12/tim-cook-kicks-off-apples-50th-anniversary-celebration?utm_source=rss)
- - [Former Windows chief applauds MacBook Neo, laments Microsoft&#39;s ARM struggles](https://appleinsider.com/articles/26/03/12/former-windows-chief-applauds-macbook-neo-laments-microsofts-arm-struggles?utm_source=rss)
- - [Microsoft launches Copilot Health, which integrates medical records, biometric data from wearables, and lab results to give personalized advice, in the US &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/260312/p24#a260312p24)
- - [Microsoft’s Copilot Health can connect to your medical records and wearables](https://www.theverge.com/tech/893594/microsoft-copilot-health-launch)
- - [iPhone Fold will be called iPhone Ultra, guesses new leaker](https://appleinsider.com/articles/26/03/12/iphone-fold-will-called-iphone-ultra-guesses-new-leaker?utm_source=rss)<!-- TECH:END -->
+ - [Apple continues to renovate its social media presence with new @helloapple Instagram account](https://appleinsider.com/articles/26/03/12/apple-continues-to-renovate-its-social-media-presence-with-new-helloapple-instagram-account?utm_source=rss)
+ - [Anthropic doesn’t trust the Pentagon, and neither should you](https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying)
+ - [Bespoke AI models are the next big thing in filmmaking](https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck)
+ - [Essential Gear for an Emergency Kit—for Cars or Go-Bags](https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/)
+ - [Grammarly wisely killed off feature that plagiarized top writers&#39; voices](https://appleinsider.com/articles/26/03/12/grammarly-wisely-killed-off-feature-that-plagiarized-top-writers-voices?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JBL’s new party speaker comes with a karaoke mic that helps you hit those high notes](https://www.theverge.com/tech/890868/jbl-partybox-on-the-go-2-bluetooth-speaker-wireless-easysing-mic)
+ - [Israeli startup Onyx Security, which helps secure and manage AI agents&#39; operational risks, raised a $35M Series A led by Conviction, after a $5M seed in 2024 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260312/p21#a260312p21)
  - [Sennheiser RS 275 TV Headphone Bundle Review: Awesome Tech, OK Headphones](https://www.wired.com/review/sennheiser-rs-275-tv-headphones-bta1-auracast/)
  - [Best Massage Guns of 2026: Hyperice, Therabody, and More](https://www.wired.com/story/best-massage-guns/)
- - [Iran-linked cyber attack targets US medtech giant Stryker](https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack)
- - [Sources: after Google&#39;s $32B deal, each of Wiz&#39;s four co-founders is set to get $2B in post-tax cash; Index is set to net $4B, Insight $2.7B, and Sequoia $3B &lpar;Sofia Chierchio/Forbes&rpar;](http://www.techmeme.com/260312/p20#a260312p20)
- - [Israeli-Dutch startup Wonderful AI, which offers AI agents that can handle customer conversations across voice, chat, and more, raised $150M at a $2B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260312/p19#a260312p19)<!-- TECH:END -->
+ - [Iran-linked cyber attack targets US medtech giant Stryker](https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

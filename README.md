@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta delayed the launch of its Avocado model to at least May over performance concerns and discussed temporarily licensing Gemini to power its products &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/260312/p54#a260312p54)
+ - [Adobe reports Q1 revenue up 12% YoY to $6.4B, vs. $6.28B est., adjusted EPS above estimates, and forecasts Q2 revenue between $6.43B and $6.48B, vs. $6.43B est. &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260312/p53#a260312p53)
  - [Allen Institute for AI CEO Ali Farhadi steps down after two and a half years to pursue research ambitions; founding member Peter Clark will serve as interim CEO &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260312/p52#a260312p52)
  - [Grab Amazon&#39;s first material discounts on M5 Pro &amp; M5 Max MacBook Pros](https://appleinsider.com/articles/26/03/12/grab-amazons-first-material-discounts-on-m5-pro-m5-max-macbook-pros?utm_source=rss)
- - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [New Sassy Personality Style for Alexa Plus Brings Sarcasm and Swear Words](https://www.cnet.com/tech/services-and-software/sassy-personality-amazon-alexa/)
- - [Dyson&#39;s First Wet Dry Robot Vacuum Boasts Better Stain Detection and Improved Cleaning](https://www.cnet.com/home/kitchen-and-household/dysons-first-wet-dry-robot-vacuum-boasts-better-stain-detection-and-improved-cleaning/)<!-- TECH:END -->
+ - [AT&amp;T Revamps Its Unlimited Plans With Simpler Names and More Data](https://www.cnet.com/tech/mobile/att-new-2-0-unlimited-phone-plans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

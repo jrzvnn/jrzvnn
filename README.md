@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Axiom Math, which uses AI and the Lean language to verify code in much the same way that mathematicians prove math problems, raised $200M at a $1.6B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260312/p15#a260312p15)
+ - [Microsoft is pushing for more Africans to adopt its AI tools as it competes with DeepSeek: training 3M people, partnering with telecom MTN to sell 365, and more &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/260312/p14#a260312p14)
+ - [AeroPress Coffee Is Superb When I’m Traveling, but I Use Mine Even When I Stay Home](https://www.wired.com/story/aeropress-coffee-superb-when-traveling-but-also-at-home/)
  - [Chinese brain-computer interface startup Gestala raised $21.6M co-led by Guosheng Capital and Dalton Venture at a $100M to $200M valuation, per CEO Phoenix Peng &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260312/p13#a260312p13)
- - [Sources: Alibaba-backed PixVerse, which develops AI video generation tools, raised a $300M Series C led by CDH; the company says the round values it at $1B+ &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260312/p12#a260312p12)
- - [Bernstein: 42% of China&#39;s 20K+ humanoid robot shipments in 2025 were for learning and R&amp;D; data collection and human-robot interaction services each made up 19% &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/260312/p11#a260312p11)
- - [Mastercard unveils a Crypto Partner Program with 85+ companies, including Binance, PayPal, and Ripple, to link blockchain tech with its payments infrastructure &lpar;CoinDesk&rpar;](http://www.techmeme.com/260312/p10#a260312p10)
- - [How Amazon pushes employees to integrate AI across their workload despite their concerns that the company&#39;s &quot;half-baked&quot; tools are creating more work &lpar;Varsha Bansal/The Guardian&rpar;](http://www.techmeme.com/260312/p9#a260312p9)<!-- TECH:END -->
+ - [Sources: Alibaba-backed PixVerse, which develops AI video generation tools, raised a $300M Series C led by CDH; the company says the round values it at $1B+ &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260312/p12#a260312p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
- - 😝 [Where&#39;s Bobby?](http://9gag.com/gag/aXPOXA9)
- - 💣 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - 😝 [Nailed it!](http://9gag.com/gag/a34OjKv)
+ - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 😝 [Facial scars signified honor. Rare photos of the German tradition of sword duels.](http://9gag.com/gag/aryLReX)
+ - 💣 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
  - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
 
 ---

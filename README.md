@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
- - 😝 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
- - 💣 [Who cares](http://9gag.com/gag/aBye3px)
- - 😝 [The struggle is real, sometimes being nice just gets you into trouble](http://9gag.com/gag/aGyQxnZ)
- - 👉 [Skillz](http://9gag.com/gag/a34OL5e)<!-- MEMES:END -->
+ - 😝 [The ants feel the wrath of the elephant king.](http://9gag.com/gag/aQzj4D2)
+ - 😝 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
+ - 💣 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 😝 [Every alcoholics dream](http://9gag.com/gag/a6ZR7v8)
+ - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
 
 ---
 

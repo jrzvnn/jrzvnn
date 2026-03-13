@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Your Phone Battery Dies Faster During a Public Emergency](https://www.wired.com/story/why-your-phone-battery-dies-faster-during-a-public-emergency/)
  - [Alex Karp says AI disrupts the economic power of &quot;humanities-trained, largely Democratic voters&quot; and strengthens that of &quot;working-class, often male voters&quot; &lpar;Kelby Vera/HuffPost&rpar;](http://www.techmeme.com/260313/p2#a260313p2)
  - [Docs: Binance investigators found accounts, including those of VIP Chinese traders and a suspected Iranian gold smuggler, helped move $1B to Iran-linked groups &lpar;Fortune&rpar;](http://www.techmeme.com/260313/p1#a260313p1)
  - [Source: the perpetrators of a wiper attack on Stryker appear to have used Microsoft Intune to issue a &quot;remote wipe&quot; command against all connected devices &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/260312/p65#a260312p65)
- - [Sources: ByteDance is working with Aolani Cloud to deploy 500 Nvidia Blackwell systems in Malaysia, featuring ~36,000 B200 chips and likely costing over $2.5B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260312/p64#a260312p64)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, March 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-13/)<!-- TECH:END -->
+ - [Sources: ByteDance is working with Aolani Cloud to deploy 500 Nvidia Blackwell systems in Malaysia, featuring ~36,000 B200 chips and likely costing over $2.5B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260312/p64#a260312p64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

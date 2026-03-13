@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didi reports Q4 revenue up 10.5% YoY to $8.46B, international revenue up 47% YoY to $638M, and a net loss of $43.48M amid an overseas expansion push &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p19#a260313p19)
- - [Surprise Alicia Keys concert turns Grand Central Apple Store into a piano stage](https://appleinsider.com/articles/26/03/13/surprise-alicia-keys-concert-turns-grand-central-apple-store-into-a-piano-stage?utm_source=rss)
- - [MacBook Neo teardown: most repairable MacBook in ~14 years, with no parts pairing issues, a screwed-down battery, and relatively easy keyboard replacement &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/260313/p18#a260313p18)
- - [Adobe begrudgingly admits defeat, agrees to pay $150m over confusing cancellation fees](https://appleinsider.com/articles/26/03/13/adobe-begrudgingly-admits-defeat-agrees-to-pay-150m-over-confusing-cancellation-fees?utm_source=rss)
- - [Travis Kalanick renames CloudKitchens&#39; parent company as Atoms, focused on creating &quot;gainfully employed robots&quot; for the food, mining, and transport industries &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260313/p17#a260313p17)<!-- TECH:END -->
+ - [Facebook launches new tools to help creators detect and report impersonation, and updates guidelines to better define what it considers to be &quot;original content&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260313/p21#a260313p21)
+ - [Sources: Mirendil, founded by former Anthropic researchers to develop AI models for scientific research, is in talks to raise $175M at a $1B valuation &lpar;The Information&rpar;](http://www.techmeme.com/260313/p20#a260313p20)
+ - [Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year](https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles)
+ - [Trump Mobile is just one in the crowd of conservative carriers](https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty)
+ - [Digg’s open beta shuts down after just two months, blaming AI bot spam](https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

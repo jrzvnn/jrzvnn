@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A boy learned a valuable lesson after fafoing.](http://9gag.com/gag/ae9B6wm)
- - 😝 [Macho cheng](http://9gag.com/gag/a1m6XR2)
- - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 😝 [The missing element](http://9gag.com/gag/avyjPqW)
- - 👉 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)<!-- MEMES:END -->
+ - 😝 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
+ - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 💣 [A boy learned a valuable lesson after fafoing.](http://9gag.com/gag/ae9B6wm)
+ - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
 
 ---
 

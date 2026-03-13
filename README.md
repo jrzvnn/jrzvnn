@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toss Your Not-Quite-Clean Clothes on Simone Giertz’s Laundry Chair](https://www.wired.com/story/simone-giertz-laundry-chair/)
+ - [The Best Outdoor Deals from The REI Member Days Sale &lpar;2026&rpar;](https://www.wired.com/story/rei-member-days-sale-2026/)
+ - [Epic says its Fortnite V-bucks price hike is a &amp;#8216;direct correlation&amp;#8217; to operating costs](https://www.theverge.com/games/894379/epic-games-fortnite-v-bucks-price-hike-operating-costs)
  - [Peacock is adding an AI Andy Cohen to narrate an endless stream of Bravo clips](https://www.theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo)
- - [Peacock’s NBA streams are going vertical](https://www.theverge.com/streaming/894152/peacock-live-sports-nba-streams-vertical-mobile)
- - [MacBook Neo, iPhone 17e and special guest David Pogue on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/13/macbook-neo-iphone-17e-and-special-guest-david-pogue-on-the-appleinsider-podcast?utm_source=rss)
- - [David Pogue reveals why Tim Cook wouldn&#39;t be interviewed for his book](https://appleinsider.com/articles/26/03/13/david-pogue-reveals-why-tim-cook-wouldnt-be-interviewed-for-his-book?utm_source=rss)<!-- TECH:END -->
+ - [Peacock adds a new feature to its app that uses AI to curate personalized vertical video playlists, narrated by a generative AI avatar of host Andy Cohen &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260313/p8#a260313p8)
+ - [Toss Your Not-Quite-Clean Clothes on Simone Giertz’s Laundry Chair](https://www.wired.com/story/simone-giertz-laundry-chair/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

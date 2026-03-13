@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Shingles Virus May Be Aging You More Quickly](https://www.wired.com/story/shingles-virus-aging/)
+ - [Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans](https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/)
  - [My Moccamaster Delivers Drip Coffee Perfection](https://www.wired.com/story/technivorm-moccamaster-drip-coffee-java-base/)
  - [Sources: HSBC and Standard Chartered are set to be among the first licensed stablecoin issuers in Hong Kong, as the city pushes to become a crypto hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/260313/p4#a260313p4)
- - [China approves the market launch of an invasive BCI system that helps restore hand movement, the world&#39;s first approval of such a device for commercial use &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p3#a260313p3)
- - [Why Your Phone Battery Dies Faster During a Public Emergency](https://www.wired.com/story/why-your-phone-battery-dies-faster-during-a-public-emergency/)
- - [Alex Karp says AI disrupts the economic power of &quot;humanities-trained, largely Democratic voters&quot; and strengthens that of &quot;working-class, often male voters&quot; &lpar;Kelby Vera/HuffPost&rpar;](http://www.techmeme.com/260313/p2#a260313p2)<!-- TECH:END -->
+ - [China approves the market launch of an invasive BCI system that helps restore hand movement, the world&#39;s first approval of such a device for commercial use &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p3#a260313p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

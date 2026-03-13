@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Travis Kalanick renames CloudKitchens&#39; parent company as Atoms, focused on creating &quot;gainfully employed robots&quot; for the food, mining, and transport industries &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260313/p17#a260313p17)
- - [Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used](https://www.theverge.com/tech/894752/instagram-end-to-end-encryption)
- - [Claude Opus 4.6 and Sonnet 4.6 now offer a 1M context window at standard pricing; it is the default for Claude Code Max, Team, and Enterprise users on Opus 4.6 &lpar;Anthropic&rpar;](http://www.techmeme.com/260313/p16#a260313p16)
- - [Apple&#39;s 15-inch MacBook Air M4 with 512GB SSD plunges to $1,079](https://appleinsider.com/articles/26/03/13/apples-15-inch-macbook-air-m4-with-512gb-ssd-plunges-to-1079?utm_source=rss)
- - [Best Cellphone Plans of 2026: Our Top Picks](https://www.cnet.com/tech/mobile/best-phone-plans/)<!-- TECH:END -->
+ - [Didi reports Q4 revenue up 10.5% YoY to $8.46B, international revenue up 47% YoY to $638M, and a net loss of $43.48M amid an overseas expansion push &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p19#a260313p19)
+ - [Surprise Alicia Keys concert turns Grand Central Apple Store into a piano stage](https://appleinsider.com/articles/26/03/13/surprise-alicia-keys-concert-turns-grand-central-apple-store-into-a-piano-stage?utm_source=rss)
+ - [MacBook Neo teardown: most repairable MacBook in ~14 years, with no parts pairing issues, a screwed-down battery, and relatively easy keyboard replacement &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/260313/p18#a260313p18)
+ - [Adobe begrudgingly admits defeat, agrees to pay $150m over confusing cancellation fees](https://appleinsider.com/articles/26/03/13/adobe-begrudgingly-admits-defeat-agrees-to-pay-150m-over-confusing-cancellation-fees?utm_source=rss)
+ - [Travis Kalanick renames CloudKitchens&#39; parent company as Atoms, focused on creating &quot;gainfully employed robots&quot; for the food, mining, and transport industries &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260313/p17#a260313p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My Moccamaster Delivers Drip Coffee Perfection](https://www.wired.com/story/technivorm-moccamaster-drip-coffee-java-base/)
+ - [Sources: HSBC and Standard Chartered are set to be among the first licensed stablecoin issuers in Hong Kong, as the city pushes to become a crypto hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/260313/p4#a260313p4)
+ - [China approves the market launch of an invasive BCI system that helps restore hand movement, the world&#39;s first approval of such a device for commercial use &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p3#a260313p3)
  - [Why Your Phone Battery Dies Faster During a Public Emergency](https://www.wired.com/story/why-your-phone-battery-dies-faster-during-a-public-emergency/)
- - [Alex Karp says AI disrupts the economic power of &quot;humanities-trained, largely Democratic voters&quot; and strengthens that of &quot;working-class, often male voters&quot; &lpar;Kelby Vera/HuffPost&rpar;](http://www.techmeme.com/260313/p2#a260313p2)
- - [Docs: Binance investigators found accounts, including those of VIP Chinese traders and a suspected Iranian gold smuggler, helped move $1B to Iran-linked groups &lpar;Fortune&rpar;](http://www.techmeme.com/260313/p1#a260313p1)
- - [Source: the perpetrators of a wiper attack on Stryker appear to have used Microsoft Intune to issue a &quot;remote wipe&quot; command against all connected devices &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/260312/p65#a260312p65)
- - [Sources: ByteDance is working with Aolani Cloud to deploy 500 Nvidia Blackwell systems in Malaysia, featuring ~36,000 B200 chips and likely costing over $2.5B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260312/p64#a260312p64)<!-- TECH:END -->
+ - [Alex Karp says AI disrupts the economic power of &quot;humanities-trained, largely Democratic voters&quot; and strengthens that of &quot;working-class, often male voters&quot; &lpar;Kelby Vera/HuffPost&rpar;](http://www.techmeme.com/260313/p2#a260313p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

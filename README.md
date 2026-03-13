@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ninja’s star Creami ice cream maker is on sale for $169](https://www.theverge.com/gadgets/894461/ninja-creami-5-in-1-ice-cream-maker-deal-sale)
+ - [AWS plans to deploy Cerebras&#39; Wafer-Scale Engine chip for AI inference functions; AWS will still offer slower, cheaper computing using its Trainium processors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260313/p12#a260313p12)
+ - [Amazon Prime Video plans to raise the price of its ad-free plan, Ultra, to $4.99 per month, and add support for up to five simultaneous streams, from April 10 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260313/p11#a260313p11)
  - [Sources: Elon Musk pushed out two more xAI co-founders after getting frustrated with xAI&#39;s coding product progress and brought in &quot;fixers&quot; from SpaceX and Tesla &lpar;Financial Times&rpar;](http://www.techmeme.com/260313/p10#a260313p10)
- - [Dive, Decorate and Nurture: Apple Arcade Adds Three New Games in April](https://www.cnet.com/tech/gaming/apple-arcade-april-2026-lineup/)
- - [Higher Jet Fuel Prices Could Melt Your Summer Travel Plans](https://www.wired.com/story/higher-jet-fuel-prices-could-melt-your-summer-travel-plans/)
- - [Foldable iPhone chatter starts again with new Samsung display rumor](https://appleinsider.com/articles/26/03/13/foldable-iphone-chatter-starts-again-with-new-samsung-display-rumor?utm_source=rss)
- - [Adobe agrees to pay $75M to resolve a US government lawsuit accusing it of concealing hefty termination fees and making it difficult to cancel subscriptions &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260313/p9#a260313p9)<!-- TECH:END -->
+ - [Dive, Decorate and Nurture: Apple Arcade Adds Three New Games in April](https://www.cnet.com/tech/gaming/apple-arcade-april-2026-lineup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Travis Kalanick renames CloudKitchens&#39; parent company as Atoms, focused on creating &quot;gainfully employed robots&quot; for the food, mining, and transport industries &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260313/p17#a260313p17)
  - [Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used](https://www.theverge.com/tech/894752/instagram-end-to-end-encryption)
  - [Claude Opus 4.6 and Sonnet 4.6 now offer a 1M context window at standard pricing; it is the default for Claude Code Max, Team, and Enterprise users on Opus 4.6 &lpar;Anthropic&rpar;](http://www.techmeme.com/260313/p16#a260313p16)
  - [Apple&#39;s 15-inch MacBook Air M4 with 512GB SSD plunges to $1,079](https://appleinsider.com/articles/26/03/13/apples-15-inch-macbook-air-m4-with-512gb-ssd-plunges-to-1079?utm_source=rss)
- - [Best Cellphone Plans of 2026: Our Top Picks](https://www.cnet.com/tech/mobile/best-phone-plans/)
- - [Best Dreo Spring Sale Deals: Air Fryer, Heater, Fans](https://www.wired.com/story/dreo-spring-sale-deals-dreo-chefmaker/)<!-- TECH:END -->
+ - [Best Cellphone Plans of 2026: Our Top Picks](https://www.cnet.com/tech/mobile/best-phone-plans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

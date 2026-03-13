@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
- - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 💣 [A boy learned a valuable lesson after fafoing.](http://9gag.com/gag/ae9B6wm)
+ - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
  - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
+ - 💣 [An Italian streamer in Japan said \u201camiga\u201d in Spanish &lpar;meaning \u201cfriend\u201d&rpar; to some fans. Malik Stanley&lpar;US Football Player&rpar; thought he\u2019d said \u201cN*gga\u201d and aggressively confronted him. \u201cYou have five seconds to apologize before I slap you.\u201d The Italian had no idea what was going on.](http://9gag.com/gag/apRMLAM)
+ - 😝 [Nailed it!](http://9gag.com/gag/a34OjKv)
+ - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
 
 ---
 

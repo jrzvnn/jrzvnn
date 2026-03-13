@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Trump administration is set to receive a ~$10B fee from investors in TikTok&#39;s US business for the government&#39;s role in brokering the TikTok US deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260313/p23#a260313p23)
+ - [States’ anti-monopoly case against Live Nation continues Monday](https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial)
  - [Spotify tests letting users directly customize their Taste Profile](https://www.theverge.com/entertainment/894753/spotify-taste-profile)
  - [Digg announces a &quot;hard reset&quot; and shuts down operations two months after it was relaunched by Kevin Rose and Alexis Ohanian, citing the scale of AI bot spam &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/260313/p22#a260313p22)
- - [Facebook launches new tools to help creators detect and report impersonation, and updates guidelines to better define what it considers to be &quot;original content&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260313/p21#a260313p21)
- - [Sources: Mirendil, founded by former Anthropic researchers to develop AI models for scientific research, is in talks to raise $175M at a $1B valuation &lpar;The Information&rpar;](http://www.techmeme.com/260313/p20#a260313p20)
- - [Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year](https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles)<!-- TECH:END -->
+ - [Facebook launches new tools to help creators detect and report impersonation, and updates guidelines to better define what it considers to be &quot;original content&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260313/p21#a260313p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

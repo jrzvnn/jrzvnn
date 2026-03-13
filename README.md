@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
- - 😝 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
- - 💣 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
- - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
+ - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 😝 [The missing element](http://9gag.com/gag/avyjPqW)
+ - 💣 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 😝 [Mistakes were made that day ...](http://9gag.com/gag/a0e3jjq)
+ - 👉 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)<!-- MEMES:END -->
 
 ---
 

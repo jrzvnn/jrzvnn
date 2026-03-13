@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The R2 is nearly here — can Rivian stick the landing?](https://www.theverge.com/transportation/893953/rivian-r2-tesla-model-y-specs-compare)
- - [The Pixel Buds Pro 2 are some of the best wireless earbuds $170 can buy](https://www.theverge.com/gadgets/894392/google-pixel-buds-pro-2-deal-sale)
+ - [Sources: Elon Musk pushed out two more xAI co-founders after getting frustrated with xAI&#39;s coding product progress and brought in &quot;fixers&quot; from SpaceX and Tesla &lpar;Financial Times&rpar;](http://www.techmeme.com/260313/p10#a260313p10)
+ - [Dive, Decorate and Nurture: Apple Arcade Adds Three New Games in April](https://www.cnet.com/tech/gaming/apple-arcade-april-2026-lineup/)
+ - [Higher Jet Fuel Prices Could Melt Your Summer Travel Plans](https://www.wired.com/story/higher-jet-fuel-prices-could-melt-your-summer-travel-plans/)
  - [Foldable iPhone chatter starts again with new Samsung display rumor](https://appleinsider.com/articles/26/03/13/foldable-iphone-chatter-starts-again-with-new-samsung-display-rumor?utm_source=rss)
- - [Adobe agrees to pay $75M to resolve a US government lawsuit accusing it of concealing hefty termination fees and making it difficult to cancel subscriptions &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260313/p9#a260313p9)
- - [The Iran War Is Throwing Global Shipping Into Chaos](https://www.wired.com/story/iran-war-global-supply-chain-chaos/)<!-- TECH:END -->
+ - [Adobe agrees to pay $75M to resolve a US government lawsuit accusing it of concealing hefty termination fees and making it difficult to cancel subscriptions &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260313/p9#a260313p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

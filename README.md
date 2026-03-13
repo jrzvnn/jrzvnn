@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
  - 😝 [The missing element](http://9gag.com/gag/avyjPqW)
- - 💣 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 😝 [Mistakes were made that day ...](http://9gag.com/gag/a0e3jjq)
+ - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 😝 [You don\u2019t know me](http://9gag.com/gag/adBzX1B)
  - 👉 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)<!-- MEMES:END -->
 
 ---

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The missing element](http://9gag.com/gag/avyjPqW)
- - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
  - 😝 [A boy learned a valuable lesson after fafoing.](http://9gag.com/gag/ae9B6wm)
+ - 😝 [Macho cheng](http://9gag.com/gag/a1m6XR2)
+ - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 😝 [The missing element](http://9gag.com/gag/avyjPqW)
  - 👉 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)<!-- MEMES:END -->
 
 ---

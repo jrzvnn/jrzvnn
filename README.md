@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Thunder players showing some love to their favorite reporter, Nick Gallo. This is too wholesome](http://9gag.com/gag/aryLR3d)
- - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 💣 [The struggle is real, sometimes being nice just gets you into trouble](http://9gag.com/gag/aGyQxnZ)
- - 😝 [A famous man](http://9gag.com/gag/a2vXmGZ)
- - 👉 [Apex Legends loot tick in real life?](http://9gag.com/gag/a87gjXe)<!-- MEMES:END -->
+ - 😝 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 💣 [The ants feel the wrath of the elephant king.](http://9gag.com/gag/aQzj4D2)
+ - 😝 [Icelandic jokes](http://9gag.com/gag/a9yGPeo)
+ - 👉 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)<!-- MEMES:END -->
 
 ---
 

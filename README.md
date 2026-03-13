@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
+ - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
  - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
  - 💣 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 😝 [Dad bought the best car he could... and she knew exactly what it meant.](http://9gag.com/gag/a1m6d5Y)
+ - 😝 [Please join the meeting](http://9gag.com/gag/a4P0ZAm)
  - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
 
 ---

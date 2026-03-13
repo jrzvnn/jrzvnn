@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of Our Favorite Large TVs Is $400 Off](https://www.wired.com/story/hisense-u75qc-deal-326/)
- - [iPhone Fold, Mac Studio, OLED MacBook Pro: What to expect from Apple for the rest of 2026](https://appleinsider.com/articles/26/03/13/iphone-fold-mac-studio-oled-macbook-pro-what-to-expect-from-apple-for-the-rest-of-2026?utm_source=rss)
- - [There&#39;s a way to make a 1TB MacBook Neo, but it&#39;s not easy or cheap](https://appleinsider.com/articles/26/03/13/theres-a-way-to-make-a-1tb-macbook-neo-but-its-not-easy-or-cheap?utm_source=rss)
- - [Apple Studio Display XDR Review: Too Much but Not Enough](https://www.wired.com/review/apple-studio-display-xdr/)
- - [Elon Musk says xAI &quot;was not built right first time around, so is being rebuilt from the foundations up&quot; &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/260313/p13#a260313p13)<!-- TECH:END -->
+ - [David Pogue reveals why Tim Cook wouldn&#39;t be interviewed for his book](https://appleinsider.com/articles/26/03/13/david-pogue-reveals-why-tim-cook-wouldnt-be-interviewed-for-his-book?utm_source=rss)
+ - [Meta updates a support page to say that end-to-end encrypted messaging on Instagram will no longer be supported after May 8 &lpar;Karandeep Singh Oberoi/Android Police&rpar;](http://www.techmeme.com/260313/p15#a260313p15)
+ - [Backbone’s versatile pro controller is nearly matching its best price to date](https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale)
+ - [Adobe will pay $75 million to settle US cancellation fee lawsuit](https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions)
+ - [Sources: Travis Kalanick prepares to launch a self-driving car company with backing from Uber and has been discussing acquiring Anthony Levandowski&#39;s Pronto.ai &lpar;Jessica E. Lessin/The Information&rpar;](http://www.techmeme.com/260313/p14#a260313p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

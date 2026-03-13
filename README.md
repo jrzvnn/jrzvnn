@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta delayed the launch of its Avocado model to at least May over performance concerns and discussed temporarily licensing Gemini to power its products &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/260312/p54#a260312p54)
- - [Adobe reports Q1 revenue up 12% YoY to $6.4B, vs. $6.28B est., adjusted EPS above estimates, and forecasts Q2 revenue between $6.43B and $6.48B, vs. $6.43B est. &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260312/p53#a260312p53)
- - [Allen Institute for AI CEO Ali Farhadi steps down after two and a half years to pursue research ambitions; founding member Peter Clark will serve as interim CEO &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260312/p52#a260312p52)
- - [Grab Amazon&#39;s first material discounts on M5 Pro &amp; M5 Max MacBook Pros](https://appleinsider.com/articles/26/03/12/grab-amazons-first-material-discounts-on-m5-pro-m5-max-macbook-pros?utm_source=rss)
- - [AT&amp;T Revamps Its Unlimited Plans With Simpler Names and More Data](https://www.cnet.com/tech/mobile/att-new-2-0-unlimited-phone-plans/)<!-- TECH:END -->
+ - [Sources: Qualified Health, which helps health care organizations assess and orchestrate AI tools, is raising a ~$100M Series A from NEA, SignalFire, and others &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/260312/p58#a260312p58)
+ - [Bumble&#39;s AI Assistant Bee Wants to Replace Endless Swiping](https://www.cnet.com/tech/services-and-software/bumble-dating-app-adds-ai-assistant-bee/)
+ - [F1&#39;s debut race in the 2026 season beat everyone&#39;s expectations, even Apple&#39;s](https://appleinsider.com/articles/26/03/13/f1s-debut-race-in-the-2026-season-beat-everyones-expectations-even-apples?utm_source=rss)
+ - [Social media addiction trial: the plaintiff, Meta, and YouTube make closing arguments; jurors begin deliberations Friday on liability for harm to children &lpar;Associated Press&rpar;](http://www.techmeme.com/260312/p57#a260312p57)
+ - [Sources: UK-based cloud provider Nscale is in talks to buy a major data center site in West Virginia; Amazon and Meta have also expressed interest in the site &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/260312/p56#a260312p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

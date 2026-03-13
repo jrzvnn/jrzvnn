@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon wins its appeal against a €746M GDPR fine imposed by Luxembourg&#39;s privacy watchdog after a court finds the watchdog had not properly done its analysis &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260313/p24#a260313p24)
  - [Sources: the Trump administration is set to receive a ~$10B fee from investors in TikTok&#39;s US business for the government&#39;s role in brokering the TikTok US deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260313/p23#a260313p23)
- - [States’ anti-monopoly case against Live Nation continues Monday](https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial)
  - [Spotify tests letting users directly customize their Taste Profile](https://www.theverge.com/entertainment/894753/spotify-taste-profile)
- - [Digg announces a &quot;hard reset&quot; and shuts down operations two months after it was relaunched by Kevin Rose and Alexis Ohanian, citing the scale of AI bot spam &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/260313/p22#a260313p22)
- - [Facebook launches new tools to help creators detect and report impersonation, and updates guidelines to better define what it considers to be &quot;original content&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260313/p21#a260313p21)<!-- TECH:END -->
+ - [AI Toys Can Pose Safety Concerns for Children, New Study Suggests Caution](https://www.cnet.com/tech/services-and-software/ai-toys-for-toddlers-study/)
+ - [SXSW 2026 Updates: Steven Spielberg, Serena Williams and Others Talk Tech and More](https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

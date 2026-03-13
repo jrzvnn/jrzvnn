@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reduces App Store fees in China to ward off regulators](https://www.theverge.com/tech/894306/apple-app-store-fees-china-reduced-antitrust)
+ - [Apple at 50: Mike Markkula, Apple&#39;s second CEO was as important as Steve Jobs](https://appleinsider.com/articles/26/03/13/apple-at-50-mike-markkula-apples-second-ceo-was-as-important-as-steve-jobs?utm_source=rss)
  - [STMicro plans to retrain workers and deploy humanoid robots in its older chip plants for repetitive and physically demanding tasks, aiming to avoid closures &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/260313/p5#a260313p5)
- - [Grand Central Station Apple Store closes temporarily](https://appleinsider.com/articles/26/03/13/grand-central-station-apple-store-closes-temporarily?utm_source=rss)
- - [Sony WF-1000XM6 Review: My New Favorite Earbuds](https://www.wired.com/review/sony-wf-1000xm6/)
- - [6G Is Coming. Here’s What to Expect From the Next Generation of Cellular Tech](https://www.wired.com/story/6g-is-coming/)
- - [The Shingles Virus May Be Aging You More Quickly](https://www.wired.com/story/shingles-virus-aging/)<!-- TECH:END -->
+ - [Logitech K98M Wireless Keyboard Review: Great for Productivity](https://www.wired.com/review/logitech-k98m-wireless/)
+ - [Gamers’ Worst Nightmares About AI Are Coming True](https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Qualified Health, which helps health care organizations assess and orchestrate AI tools, is raising a ~$100M Series A from NEA, SignalFire, and others &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/260312/p58#a260312p58)
- - [Bumble&#39;s AI Assistant Bee Wants to Replace Endless Swiping](https://www.cnet.com/tech/services-and-software/bumble-dating-app-adds-ai-assistant-bee/)
- - [F1&#39;s debut race in the 2026 season beat everyone&#39;s expectations, even Apple&#39;s](https://appleinsider.com/articles/26/03/13/f1s-debut-race-in-the-2026-season-beat-everyones-expectations-even-apples?utm_source=rss)
- - [Social media addiction trial: the plaintiff, Meta, and YouTube make closing arguments; jurors begin deliberations Friday on liability for harm to children &lpar;Associated Press&rpar;](http://www.techmeme.com/260312/p57#a260312p57)
- - [Sources: UK-based cloud provider Nscale is in talks to buy a major data center site in West Virginia; Amazon and Meta have also expressed interest in the site &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/260312/p56#a260312p56)<!-- TECH:END -->
+ - [Source: the perpetrators of a wiper attack on Stryker appear to have used Microsoft Intune to issue a &quot;remote wipe&quot; command against all connected devices &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/260312/p65#a260312p65)
+ - [Sources: ByteDance is working with Aolani Cloud to deploy 500 Nvidia Blackwell systems in Malaysia, featuring ~36,000 B200 chips and likely costing over $2.5B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260312/p64#a260312p64)
+ - [The European Commission says &quot;X has submitted remedies in relation to its blue check mark&quot; in the EU and the commission will &quot;assess&quot; the proposed remedies &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260312/p63#a260312p63)
+ - [MacBook Neo Teardown Reveals It&#39;s the Most Repairable Apple Laptop in Ages](https://www.cnet.com/tech/computing/macbook-neo-teardown-repairable/)
+ - [A survey of US adults: 75% say they have heard a lot or a little about data centers; 39% say they are bad for the environment, and 38% bad for home energy costs &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260312/p62#a260312p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

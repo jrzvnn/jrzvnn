@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
  - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
- - 💣 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 😝 [REBECCA....](http://9gag.com/gag/an7oyen)
  - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
 
 ---

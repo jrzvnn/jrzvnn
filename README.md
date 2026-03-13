@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 💣 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - 😝 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
- - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
+ - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 💣 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
+ - 😝 [Nailed it!](http://9gag.com/gag/a34OjKv)
+ - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
 
 ---
 

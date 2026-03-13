@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 😝 [REBECCA....](http://9gag.com/gag/an7oyen)
- - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
+ - 😝 [Icelandic jokes](http://9gag.com/gag/a9yGPeo)
+ - 😝 [Po-tay-toes!](http://9gag.com/gag/abA8Zj9)
+ - 💣 [Matrix becomes reality](http://9gag.com/gag/aRBpeny)
+ - 😝 [Dad bought the best car he could... and she knew exactly what it meant.](http://9gag.com/gag/a1m6d5Y)
+ - 👉 [Macho cheng](http://9gag.com/gag/a1m6XR2)<!-- MEMES:END -->
 
 ---
 

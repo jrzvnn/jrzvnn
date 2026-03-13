@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Finally a company that understands employee needs](http://9gag.com/gag/a5QYK5g)
  - 😝 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
- - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 💣 [The ants feel the wrath of the elephant king.](http://9gag.com/gag/aQzj4D2)
- - 😝 [Icelandic jokes](http://9gag.com/gag/a9yGPeo)
- - 👉 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)<!-- MEMES:END -->
+ - 💣 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 😝 [You don\u2019t know me](http://9gag.com/gag/adBzX1B)
+ - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
 
 ---
 

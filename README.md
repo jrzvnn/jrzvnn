@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally a company that understands employee needs](http://9gag.com/gag/a5QYK5g)
- - 😝 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
- - 💣 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 😝 [You don\u2019t know me](http://9gag.com/gag/adBzX1B)
+ - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
+ - 😝 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
+ - 💣 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
  - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
 
 ---

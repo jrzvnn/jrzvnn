@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 😝 [Skillz](http://9gag.com/gag/a34OL5e)
+ - 😝 [The YouTube looked like this 20 years ago... motherfu...](http://9gag.com/gag/aRBpeeq)
+ - 💣 [Macho cheng](http://9gag.com/gag/a1m6XR2)
  - 😝 [A boy learned a valuable lesson after fafoing.](http://9gag.com/gag/ae9B6wm)
- - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
+ - 👉 [That was Unexpected....](http://9gag.com/gag/aYQ0eA0)<!-- MEMES:END -->
 
 ---
 

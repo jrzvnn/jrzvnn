@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Outdoor Deals from The REI Member Days Sale &lpar;2026&rpar;](https://www.wired.com/story/rei-member-days-sale-2026/)
- - [Epic says its Fortnite V-bucks price hike is a &amp;#8216;direct correlation&amp;#8217; to operating costs](https://www.theverge.com/games/894379/epic-games-fortnite-v-bucks-price-hike-operating-costs)
- - [Peacock is adding an AI Andy Cohen to narrate an endless stream of Bravo clips](https://www.theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo)
- - [Peacock adds a new feature to its app that uses AI to curate personalized vertical video playlists, narrated by a generative AI avatar of host Andy Cohen &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260313/p8#a260313p8)
- - [Toss Your Not-Quite-Clean Clothes on Simone Giertz’s Laundry Chair](https://www.wired.com/story/simone-giertz-laundry-chair/)<!-- TECH:END -->
+ - [The R2 is nearly here — can Rivian stick the landing?](https://www.theverge.com/transportation/893953/rivian-r2-tesla-model-y-specs-compare)
+ - [The Pixel Buds Pro 2 are some of the best wireless earbuds $170 can buy](https://www.theverge.com/gadgets/894392/google-pixel-buds-pro-2-deal-sale)
+ - [Foldable iPhone chatter starts again with new Samsung display rumor](https://appleinsider.com/articles/26/03/13/foldable-iphone-chatter-starts-again-with-new-samsung-display-rumor?utm_source=rss)
+ - [Adobe agrees to pay $75M to resolve a US government lawsuit accusing it of concealing hefty termination fees and making it difficult to cancel subscriptions &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260313/p9#a260313p9)
+ - [The Iran War Is Throwing Global Shipping Into Chaos](https://www.wired.com/story/iran-war-global-supply-chain-chaos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
  - 😝 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
- - 💣 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
  - 😝 [REBECCA....](http://9gag.com/gag/an7oyen)
  - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
 

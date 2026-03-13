@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Don’t buy a $4,400 gray market Samsung TriFold on eBay](https://www.theverge.com/tech/894063/samsung-galaxy-z-trifold-sold-out-ebay)
+ - [Toss Your Not-Quite-Clean Clothes on Simone Giertz’s Laundry Chair](https://www.wired.com/story/simone-giertz-laundry-chair/)
+ - [Peacock is adding an AI Andy Cohen to narrate an endless stream of Bravo clips](https://www.theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo)
+ - [Peacock’s NBA streams are going vertical](https://www.theverge.com/streaming/894152/peacock-live-sports-nba-streams-vertical-mobile)
  - [MacBook Neo, iPhone 17e and special guest David Pogue on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/13/macbook-neo-iphone-17e-and-special-guest-david-pogue-on-the-appleinsider-podcast?utm_source=rss)
- - [Uber is relaunching a robotaxi service with Hyundai-backed Motional in Las Vegas; the service will initially have a safety driver behind the wheel &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260313/p6#a260313p6)
- - [Google&#39;s AI Searches Love to Refer You Back to Google](https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/)
- - [MacBook Neo Launches Apple Into a Cooler Era &lpar;With a Mascot?&rpar;](https://www.cnet.com/tech/computing/macbook-neo-launches-apple-into-a-cooler-era-and-with-a-mascot/)<!-- TECH:END -->
+ - [David Pogue reveals why Tim Cook wouldn&#39;t be interviewed for his book](https://appleinsider.com/articles/26/03/13/david-pogue-reveals-why-tim-cook-wouldnt-be-interviewed-for-his-book?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

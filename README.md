@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reduces App Store fees in China to ward off regulators](https://www.theverge.com/tech/894306/apple-app-store-fees-china-reduced-antitrust)
- - [Apple at 50: Mike Markkula, Apple&#39;s second CEO was as important as Steve Jobs](https://appleinsider.com/articles/26/03/13/apple-at-50-mike-markkula-apples-second-ceo-was-as-important-as-steve-jobs?utm_source=rss)
- - [STMicro plans to retrain workers and deploy humanoid robots in its older chip plants for repetitive and physically demanding tasks, aiming to avoid closures &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/260313/p5#a260313p5)
- - [Logitech K98M Wireless Keyboard Review: Great for Productivity](https://www.wired.com/review/logitech-k98m-wireless/)
- - [Gamers’ Worst Nightmares About AI Are Coming True](https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/)<!-- TECH:END -->
+ - [PSA: Don’t buy a $4,400 gray market Samsung TriFold on eBay](https://www.theverge.com/tech/894063/samsung-galaxy-z-trifold-sold-out-ebay)
+ - [MacBook Neo, iPhone 17e and special guest David Pogue on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/13/macbook-neo-iphone-17e-and-special-guest-david-pogue-on-the-appleinsider-podcast?utm_source=rss)
+ - [Uber is relaunching a robotaxi service with Hyundai-backed Motional in Las Vegas; the service will initially have a safety driver behind the wheel &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260313/p6#a260313p6)
+ - [Google&#39;s AI Searches Love to Refer You Back to Google](https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/)
+ - [MacBook Neo Launches Apple Into a Cooler Era &lpar;With a Mascot?&rpar;](https://www.cnet.com/tech/computing/macbook-neo-launches-apple-into-a-cooler-era-and-with-a-mascot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

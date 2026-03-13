@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 💣 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
  - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
+ - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 💣 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
+ - 😝 [Iran has a stock pile of leaders](http://9gag.com/gag/adBzqq9)
+ - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
 
 ---
 

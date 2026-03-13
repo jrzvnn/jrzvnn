@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to Do in Vegas If You’re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/in-transit-las-vegas/)
  - [$TRUMP memecoin surged as much as 60% after its promoters said it would host a gala luncheon at Mar-a-Lago with Trump; the WH hasn&#39;t confirmed his attendance &lpar;Bloomberg&rpar;](http://www.techmeme.com/260313/p25#a260313p25)
  - [Amazon wins its appeal against a €746M GDPR fine imposed by Luxembourg&#39;s privacy watchdog after a court finds the watchdog had not properly done its analysis &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260313/p24#a260313p24)
- - [Sources: the Trump administration is set to receive a ~$10B fee from investors in TikTok&#39;s US business for the government&#39;s role in brokering the TikTok US deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260313/p23#a260313p23)
- - [States’ anti-monopoly case against Live Nation continues Monday](https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial)
- - [Spotify tests letting users directly customize their Taste Profile](https://www.theverge.com/entertainment/894753/spotify-taste-profile)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 14, #1007](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-14-1007/)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 14, #1729](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-14-1729/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

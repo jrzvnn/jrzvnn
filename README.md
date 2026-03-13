@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Pogue reveals why Tim Cook wouldn&#39;t be interviewed for his book](https://appleinsider.com/articles/26/03/13/david-pogue-reveals-why-tim-cook-wouldnt-be-interviewed-for-his-book?utm_source=rss)
- - [Meta updates a support page to say that end-to-end encrypted messaging on Instagram will no longer be supported after May 8 &lpar;Karandeep Singh Oberoi/Android Police&rpar;](http://www.techmeme.com/260313/p15#a260313p15)
- - [Backbone’s versatile pro controller is nearly matching its best price to date](https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale)
- - [Adobe will pay $75 million to settle US cancellation fee lawsuit](https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions)
- - [Sources: Travis Kalanick prepares to launch a self-driving car company with backing from Uber and has been discussing acquiring Anthony Levandowski&#39;s Pronto.ai &lpar;Jessica E. Lessin/The Information&rpar;](http://www.techmeme.com/260313/p14#a260313p14)<!-- TECH:END -->
+ - [Best Dreo Spring Sale Deals: Air Fryer, Heater, Fans](https://www.wired.com/story/dreo-spring-sale-deals-dreo-chefmaker/)
+ - [Google Pixel 10A review: Just buy the 9A](https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera)
+ - [Amazon&#39;s ad-free Prime Video tier gets a new name, and a new price](https://appleinsider.com/articles/26/03/13/amazons-ad-free-prime-video-tier-gets-a-new-name-and-a-new-price?utm_source=rss)
+ - [iFixit MacBook Neo teardown confirms that it is Apple&#39;s most repairable laptop since 2012](https://appleinsider.com/articles/26/03/13/ifixit-macbook-neo-teardown-confirms-that-it-is-apples-most-repairable-laptop-since-2012?utm_source=rss)
+ - [David Pogue reveals why Tim Cook wouldn&#39;t be interviewed for his book](https://appleinsider.com/articles/26/03/13/david-pogue-reveals-why-tim-cook-wouldnt-be-interviewed-for-his-book?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

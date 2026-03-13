@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
  - 😝 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - 💣 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
- - 😝 [Nailed it!](http://9gag.com/gag/a34OjKv)
- - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
+ - 😝 [Every alcoholics dream](http://9gag.com/gag/a6ZR7v8)
+ - 💣 [I don&#39;t know how to express such a beautiful feeling](http://9gag.com/gag/a4P0jQv)
+ - 😝 [Iran has a stock pile of leaders](http://9gag.com/gag/adBzqq9)
+ - 👉 [Icelandic jokes](http://9gag.com/gag/a9yGPeo)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Let there be light](http://9gag.com/gag/aLnEDmP)
- - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
- - 💣 [We still haven\u2019t heard from the World Food Programme about this. Why is that?](http://9gag.com/gag/a4P0jrd)
+ - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
+ - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
  - 😝 [Oh look, the leaked plot of Shrek 5](http://9gag.com/gag/a34OM3v)
- - 👉 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)<!-- MEMES:END -->
+ - 👉 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
 
 ---
 

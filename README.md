@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anywhere. Click anywhere.](http://9gag.com/gag/a2vX5bd)
+ - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
  - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 💣 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
+ - 💣 [I see what you did there](http://9gag.com/gag/aRBpA9B)
  - 😝 [Men do men things](http://9gag.com/gag/a6ZRb5m)
- - 👉 [I see what you did there](http://9gag.com/gag/aRBpA9B)<!-- MEMES:END -->
+ - 👉 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)<!-- MEMES:END -->
 
 ---
 

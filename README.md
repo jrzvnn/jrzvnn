@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S26 Ultra review: show off](https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off)
- - [How to Buy Used or Refurbished Electronics &lpar;2026&rpar;](https://www.wired.com/story/how-to-buy-refurbished-electronics/)
- - [What Is Filmmaker Mode? This TV Setting Takes the Guesswork Out of Picture Quality](https://www.cnet.com/tech/home-entertainment/what-is-filmmaker-mode/)
- - [If Your iPhone&#39;s Battery Drains Faster After iOS 26.3.1, Don&#39;t Worry](https://www.cnet.com/tech/services-and-software/apple-iphone-battery-drain-after-ios-update/)
- - [You Can Approximate Pi by Dropping Needles on the Floor](https://www.wired.com/story/you-can-approximate-pi-by-dropping-needles-on-the-floor/)<!-- TECH:END -->
+ - [Asus’ new open earbuds are a wonderful companion for handheld gaming](https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions)
+ - [TSMC&#39;s N3 logic wafer capacity has become one of the AI industry&#39;s biggest constraints, which could push customers to explore greater foundry diversification &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260314/p7#a260314p7)
+ - [Surprise Alicia Keys concert turns Grand Central Apple Store into a piano stage](https://appleinsider.com/articles/26/03/13/surprise-alicia-keys-concert-turns-grand-central-apple-store-into-a-piano-stage?utm_source=rss)
+ - [The Next Apple Watch Series 12 Could Finally Bring Back Classic iPhone Feature](https://www.cnet.com/tech/mobile/apple-watch-series-12-rumors-touch-id-fingerprint-sensor/)
+ - [My Camera Test: Comparing the $499 Pixel 10A With the Galaxy S25 FE, Motorola Edge](https://www.cnet.com/tech/mobile/i-take-the-499-pixel-10a-on-a-florida-camera-test-with-the-galaxy-s25-fe-motorola-edge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
- - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
  - 💣 [Let there be light](http://9gag.com/gag/aLnEDmP)
- - 😝 [Oh look, the leaked plot of Shrek 5](http://9gag.com/gag/a34OM3v)
- - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
+ - 😝 [Big respect to this legend, 30 days is a huge step](http://9gag.com/gag/an7obEL)
+ - 👉 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
 
 ---
 

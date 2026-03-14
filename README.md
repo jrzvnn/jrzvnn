@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
- - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
- - 💣 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)
- - 😝 [Big respect to this legend, 30 days is a huge step](http://9gag.com/gag/an7obEL)
- - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
+ - 😝 [Chaotic Evil](http://9gag.com/gag/aVv6Dvd)
+ - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 💣 [Let there be light](http://9gag.com/gag/aLnEDmP)
+ - 😝 [Secret formula](http://9gag.com/gag/a5QYZ9r)
+ - 👉 [Found out](http://9gag.com/gag/aXPOAN2)<!-- MEMES:END -->
 
 ---
 

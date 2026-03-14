@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An excerpt from the upcoming book Project Maven details how the Pentagon enlisted Silicon Valley to build AI-powered tools of war, now playing out in Iran &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260314/p5#a260314p5)
- - [Mobile internet blackouts hit Moscow as the Kremlin tightens control; Roskomnadzor data shows daily traffic down ~20% since March 5 vs. the previous month &lpar;Anastasia Stognei/Financial Times&rpar;](http://www.techmeme.com/260314/p4#a260314p4)
- - [Palantir software demos and DOD records show how the military may be using AI chatbots, including the kinds of queries and the data used to generate responses &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/260314/p3#a260314p3)
- - [Singapore-based MetaComp, which bridges traditional fiat payment rails and stablecoin settlement infrastructure, raised $35M across two pre-Series A rounds &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/260314/p2#a260314p2)
- - [A survey of 1,692 US physicians: over 80% use AI professionally and the most common use cases are medical research summarization and clinical care documentation &lpar;American Medical Association&rpar;](http://www.techmeme.com/260314/p1#a260314p1)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 14 #741](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-14-741/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 14, #1007](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-14-1007/)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 14, #1729](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-14-1729/)
+ - [Peaky Blinders: The Immortal Man Is a Violent Delight From Netflix](https://www.cnet.com/tech/services-and-software/peaky-blinders-immortal-man-review/)
+ - [How to Watch March Madness 2026](https://www.wired.com/story/how-to-watch-march-madness/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

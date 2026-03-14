@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
  - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
- - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
- - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 😝 [Let there be light](http://9gag.com/gag/aLnEDmP)
+ - 💣 [Let there be light](http://9gag.com/gag/aLnEDmP)
+ - 😝 [Horses](http://9gag.com/gag/aAy9dq9)
  - 👉 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)<!-- MEMES:END -->
 
 ---

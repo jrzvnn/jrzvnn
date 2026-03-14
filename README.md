@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 😝 [Was Lemmy alive for this](http://9gag.com/gag/aW4X89n)
- - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
+ - 😝 [The missing element](http://9gag.com/gag/avyjPqW)
+ - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
+ - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 😝 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
+ - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
 
 ---
 

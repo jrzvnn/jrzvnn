@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Regret to Inform You That You’re Using an Inferior Pour-Over Coffee Brewer](https://www.wired.com/story/kalita-wave-pour-over-coffee-brewer/)
+ - [An interview with SemiAnalysis CEO Dylan Patel on logic, memory, and power bottlenecks in scaling AI compute, Nvidia securing TSMC N3 allocation early, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/260314/p6#a260314p6)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 14 #741](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-14-741/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for March 14, #1007](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-14-1007/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 14, #1729](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-14-1729/)
- - [Peaky Blinders: The Immortal Man Is a Violent Delight From Netflix](https://www.cnet.com/tech/services-and-software/peaky-blinders-immortal-man-review/)
- - [How to Watch March Madness 2026](https://www.wired.com/story/how-to-watch-march-madness/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 14, #1729](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-14-1729/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

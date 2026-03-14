@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-14/)
- - [The US Army awards Anduril a 10-year contract worth up to $20B to buy its software, hardware, and services; the deal includes a 5-year optional ordering period &lpar;Jen Judson/Bloomberg&rpar;](http://www.techmeme.com/260313/p29#a260313p29)
- - [A US government website shows the Commerce Department withdrew a planned rule tightening AI chip exports; a draft was sent to agencies for feedback in February &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260313/p28#a260313p28)
- - [Sources: Meta plans sweeping layoffs that could affect 20% or more of the company, amid mounting AI infrastructure costs; it had ~79,000 employees as of Dec. 31 &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p27#a260313p27)
- - [A US judge questions Elon Musk&#39;s $134B claim for damages in his lawsuit against OpenAI and Microsoft but rules he can still make his case to a jury &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260313/p26#a260313p26)<!-- TECH:END -->
+ - [Singapore-based MetaComp, which bridges traditional fiat payment rails and stablecoin settlement infrastructure, raised $35M across two pre-Series A rounds &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/260314/p2#a260314p2)
+ - [A survey of 1,692 US physicians: over 80% use AI professionally and the most common use cases are medical research summarization and clinical care documentation &lpar;American Medical Association&rpar;](http://www.techmeme.com/260314/p1#a260314p1)
+ - [Vivid Seats Promo Codes and Deals: Save 10% This March](https://www.wired.com/story/vivid-seats-promo-code/)
+ - [Coleman Promo Codes and Deals: Up to 30% Off in March](https://www.wired.com/story/coleman-promo-code/)
+ - [Chirp Discount Codes and Deals: Save Up to 67%](https://www.wired.com/story/chirp-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

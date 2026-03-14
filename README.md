@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
- - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 😝 [Finally some clarity](http://9gag.com/gag/aD2vjyG)
+ - 😝 [Macho cheng](http://9gag.com/gag/a1m6XR2)
+ - 😝 [Please join the meeting](http://9gag.com/gag/a4P0ZAm)
+ - 💣 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
+ - 😝 [Nailed it!](http://9gag.com/gag/a34OjKv)
  - 👉 [Found out](http://9gag.com/gag/aXPOAN2)<!-- MEMES:END -->
 
 ---

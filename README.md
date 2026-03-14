@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US government website shows the Commerce Department withdrew a planned rule tightening AI chip exports; a draft was sent to agencies for feedback in February &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260313/p28#a260313p28)
+ - [Sources: Meta plans sweeping layoffs that could affect 20% or more of the company, amid mounting AI infrastructure costs; it had ~79,000 employees as of Dec. 31 &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p27#a260313p27)
+ - [A US judge questions Elon Musk&#39;s $134B claim for damages in his lawsuit against OpenAI and Microsoft but rules he can still make his case to a jury &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260313/p26#a260313p26)
  - [What to Do in Vegas If You’re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/in-transit-las-vegas/)
- - [$TRUMP memecoin surged as much as 60% after its promoters said it would host a gala luncheon at Mar-a-Lago with Trump; the WH hasn&#39;t confirmed his attendance &lpar;Bloomberg&rpar;](http://www.techmeme.com/260313/p25#a260313p25)
- - [Amazon wins its appeal against a €746M GDPR fine imposed by Luxembourg&#39;s privacy watchdog after a court finds the watchdog had not properly done its analysis &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260313/p24#a260313p24)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 14, #1007](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-14-1007/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 14, #1729](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-14-1729/)<!-- TECH:END -->
+ - [Two Lost &#39;Doctor Who&#39; Episodes Found Intact in Waterlogged Collection](https://www.cnet.com/culture/entertainment/two-lost-doctor-who-episodes-found-in-waterlogged-basement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

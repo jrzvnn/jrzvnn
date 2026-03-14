@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 😝 [We still haven\u2019t heard from the World Food Programme about this. Why is that?](http://9gag.com/gag/a4P0jrd)
- - 💣 [Let there be light](http://9gag.com/gag/aLnEDmP)
- - 😝 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
- - 👉 [Found out](http://9gag.com/gag/aXPOAN2)<!-- MEMES:END -->
+ - 😝 [Let there be light](http://9gag.com/gag/aLnEDmP)
+ - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
+ - 💣 [We still haven\u2019t heard from the World Food Programme about this. Why is that?](http://9gag.com/gag/a4P0jrd)
+ - 😝 [Oh look, the leaked plot of Shrek 5](http://9gag.com/gag/a34OM3v)
+ - 👉 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)<!-- MEMES:END -->
 
 ---
 

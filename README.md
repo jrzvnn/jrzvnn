@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [European retailers yank popular headphones after study reports trace amounts of hormone-disrupting chemicals](https://www.theverge.com/science/894771/headphones-hormone-disrupting-chemicals-study)
  - [A Hacker Accidentally Broke Into the FBI’s Epstein Files](https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/)
  - [Identity Theft Protection Services: Do You Actually Need One?](https://www.wired.com/story/best-id-protection-services/)
  - [Norda 001A G+ Trail Running Shoe Review: As Expensive as an Apple Watch](https://www.wired.com/review/norda-001a-g-trail-shoe/)
- - [I Regret to Inform You That You’re Using an Inferior Pour-Over Coffee Brewer](https://www.wired.com/story/kalita-wave-pour-over-coffee-brewer/)
- - [An interview with SemiAnalysis CEO Dylan Patel on logic, memory, and power bottlenecks in scaling AI compute, Nvidia securing TSMC N3 allocation early, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/260314/p6#a260314p6)<!-- TECH:END -->
+ - [I Regret to Inform You That You’re Using an Inferior Pour-Over Coffee Brewer](https://www.wired.com/story/kalita-wave-pour-over-coffee-brewer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

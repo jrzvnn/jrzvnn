@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)
- - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
+ - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
+ - 💣 [Found out](http://9gag.com/gag/aXPOAN2)
+ - 😝 [The creativity is endless.](http://9gag.com/gag/aO8Wdgy)
  - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
 
 ---

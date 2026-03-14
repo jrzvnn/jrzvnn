@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palantir software demos and DOD records show how the military may be using AI chatbots, including the kinds of queries and the data used to generate responses &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/260314/p3#a260314p3)
  - [Singapore-based MetaComp, which bridges traditional fiat payment rails and stablecoin settlement infrastructure, raised $35M across two pre-Series A rounds &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/260314/p2#a260314p2)
  - [A survey of 1,692 US physicians: over 80% use AI professionally and the most common use cases are medical research summarization and clinical care documentation &lpar;American Medical Association&rpar;](http://www.techmeme.com/260314/p1#a260314p1)
  - [Vivid Seats Promo Codes and Deals: Save 10% This March](https://www.wired.com/story/vivid-seats-promo-code/)
- - [Coleman Promo Codes and Deals: Up to 30% Off in March](https://www.wired.com/story/coleman-promo-code/)
- - [Chirp Discount Codes and Deals: Save Up to 67%](https://www.wired.com/story/chirp-discount-code/)<!-- TECH:END -->
+ - [Coleman Promo Codes and Deals: Up to 30% Off in March](https://www.wired.com/story/coleman-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

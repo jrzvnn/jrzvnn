@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
  - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
- - 💣 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
+ - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
  - 😝 [Let there be light](http://9gag.com/gag/aLnEDmP)
- - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
+ - 👉 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)<!-- MEMES:END -->
 
 ---
 

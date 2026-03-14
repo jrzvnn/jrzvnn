@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
  - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
- - 💣 [Found out](http://9gag.com/gag/aXPOAN2)
- - 😝 [The creativity is endless.](http://9gag.com/gag/aO8Wdgy)
- - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
+ - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 😝 [Finally some clarity](http://9gag.com/gag/aD2vjyG)
+ - 👉 [Found out](http://9gag.com/gag/aXPOAN2)<!-- MEMES:END -->
 
 ---
 

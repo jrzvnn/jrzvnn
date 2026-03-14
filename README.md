@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s M5 MacBook Pro sale delivers deals from just $1,399](https://appleinsider.com/articles/26/03/14/amazons-m5-macbook-pro-sale-delivers-deals-from-just-1399?utm_source=rss)
  - [Meta is reportedly laying off up to 20 percent of its staff](https://www.theverge.com/business/895026/meta-laying-off-20-percent)
  - [Kaiko: cumulative trading volume on crypto exchange Hyperliquid&#39;s perpetual oil futures surged to ~$7.3B on March 12 from $339M on February 28 amid the Iran war &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260314/p10#a260314p10)
  - [Before &#39;One Battle After Another,&#39; Leonardo DiCaprio Was a Delightful Mess in This Netflix Satire](https://www.cnet.com/culture/entertainment/one-battle-after-another-leonardo-dicaprio-dont-look-up-netflix/)
- - [Sources: ByteDance suspended the global launch of Seedance 2.0 amid copyright disputes with Hollywood studios and streamers; it was launched in China last month &lpar;The Information&rpar;](http://www.techmeme.com/260314/p9#a260314p9)
- - [Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals](https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale)<!-- TECH:END -->
+ - [Sources: ByteDance suspended the global launch of Seedance 2.0 amid copyright disputes with Hollywood studios and streamers; it was launched in China last month &lpar;The Information&rpar;](http://www.techmeme.com/260314/p9#a260314p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

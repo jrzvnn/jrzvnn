@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chaotic Evil](http://9gag.com/gag/aVv6Dvd)
+ - 😝 [Let there be light](http://9gag.com/gag/aLnEDmP)
  - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 💣 [Let there be light](http://9gag.com/gag/aLnEDmP)
- - 😝 [Secret formula](http://9gag.com/gag/a5QYZ9r)
+ - 💣 [Secret formula](http://9gag.com/gag/a5QYZ9r)
+ - 😝 [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
  - 👉 [Found out](http://9gag.com/gag/aXPOAN2)<!-- MEMES:END -->
 
 ---

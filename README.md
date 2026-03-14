@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S26 Ultra review: show off](https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off)
  - [How to Buy Used or Refurbished Electronics &lpar;2026&rpar;](https://www.wired.com/story/how-to-buy-refurbished-electronics/)
  - [What Is Filmmaker Mode? This TV Setting Takes the Guesswork Out of Picture Quality](https://www.cnet.com/tech/home-entertainment/what-is-filmmaker-mode/)
  - [If Your iPhone&#39;s Battery Drains Faster After iOS 26.3.1, Don&#39;t Worry](https://www.cnet.com/tech/services-and-software/apple-iphone-battery-drain-after-ios-update/)
- - [You Can Approximate Pi by Dropping Needles on the Floor](https://www.wired.com/story/you-can-approximate-pi-by-dropping-needles-on-the-floor/)
- - [Samsung Galaxy S26 Ultra Review: The Privacy Screen](https://www.wired.com/review/samsung-galaxy-s26-ultra/)<!-- TECH:END -->
+ - [You Can Approximate Pi by Dropping Needles on the Floor](https://www.wired.com/story/you-can-approximate-pi-by-dropping-needles-on-the-floor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

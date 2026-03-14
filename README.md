@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [European retailers yank popular headphones after study reports trace amounts of hormone-disrupting chemicals](https://www.theverge.com/science/894771/headphones-hormone-disrupting-chemicals-study)
- - [A Hacker Accidentally Broke Into the FBI’s Epstein Files](https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/)
- - [Identity Theft Protection Services: Do You Actually Need One?](https://www.wired.com/story/best-id-protection-services/)
- - [Norda 001A G+ Trail Running Shoe Review: As Expensive as an Apple Watch](https://www.wired.com/review/norda-001a-g-trail-shoe/)
- - [I Regret to Inform You That You’re Using an Inferior Pour-Over Coffee Brewer](https://www.wired.com/story/kalita-wave-pour-over-coffee-brewer/)<!-- TECH:END -->
+ - [How to Buy Used or Refurbished Electronics &lpar;2026&rpar;](https://www.wired.com/story/how-to-buy-refurbished-electronics/)
+ - [What Is Filmmaker Mode? This TV Setting Takes the Guesswork Out of Picture Quality](https://www.cnet.com/tech/home-entertainment/what-is-filmmaker-mode/)
+ - [If Your iPhone&#39;s Battery Drains Faster After iOS 26.3.1, Don&#39;t Worry](https://www.cnet.com/tech/services-and-software/apple-iphone-battery-drain-after-ios-update/)
+ - [You Can Approximate Pi by Dropping Needles on the Floor](https://www.wired.com/story/you-can-approximate-pi-by-dropping-needles-on-the-floor/)
+ - [Samsung Galaxy S26 Ultra Review: The Privacy Screen](https://www.wired.com/review/samsung-galaxy-s26-ultra/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

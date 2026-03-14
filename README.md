@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump administration is allegedly collecting $10 billion on the TikTok deal](https://www.theverge.com/policy/895039/trump-10-billion-tiktok)
+ - [iPhone Fold: Launch Date, Price, Design Leaks and Everything We Know](https://www.cnet.com/tech/mobile/iphone-fold-launch-date-price-and-everything-we-know/)
  - [Drones caused a Qatari Helium-producing energy hub to shutter; crucial in chipmaking, Bloomberg says the closed hub makes up ~33% of global Helium production &lpar;Ines Ferré/Yahoo Finance&rpar;](http://www.techmeme.com/260314/p11#a260314p11)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 15, #742](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-15-742/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 15, #1008](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-15-1008/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 15, #1730](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-15-1730/)
- - [Amazon&#39;s M5 MacBook Pro sale delivers deals from just $1,399](https://appleinsider.com/articles/26/03/14/amazons-m5-macbook-pro-sale-delivers-deals-from-just-1399?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 15, #1008](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-15-1008/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

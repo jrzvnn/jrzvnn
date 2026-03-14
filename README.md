@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Before &#39;One Battle After Another,&#39; Leonardo DiCaprio Was a Delightful Mess in This Netflix Satire](https://www.cnet.com/culture/entertainment/one-battle-after-another-leonardo-dicaprio-dont-look-up-netflix/)
  - [Sources: ByteDance suspended the global launch of Seedance 2.0 amid copyright disputes with Hollywood studios and streamers; it was launched in China last month &lpar;The Information&rpar;](http://www.techmeme.com/260314/p9#a260314p9)
  - [Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals](https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale)
  - [Prediction markets want the Oscars to be your gateway drug to betting on everything](https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling)
- - [A survey of 1,000 hiring managers: 59% say they stress AI&#39;s role in layoffs or hiring freezes &quot;because it plays better&quot;; only 9% say AI has fully replaced roles &lpar;Gautam Mukunda/Bloomberg&rpar;](http://www.techmeme.com/260314/p8#a260314p8)
- - [Bigme B251 Color E Ink Monitor Review: Dreams Don&#39;t Always Come True](https://www.cnet.com/tech/computing/bigme-b251-color-e-ink-monitor-review-dreams-dont-always-come-true/)<!-- TECH:END -->
+ - [A survey of 1,000 hiring managers: 59% say they stress AI&#39;s role in layoffs or hiring freezes &quot;because it plays better&quot;; only 9% say AI has fully replaced roles &lpar;Gautam Mukunda/Bloomberg&rpar;](http://www.techmeme.com/260314/p8#a260314p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

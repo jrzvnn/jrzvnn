@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-14/)
+ - [The US Army awards Anduril a 10-year contract worth up to $20B to buy its software, hardware, and services; the deal includes a 5-year optional ordering period &lpar;Jen Judson/Bloomberg&rpar;](http://www.techmeme.com/260313/p29#a260313p29)
  - [A US government website shows the Commerce Department withdrew a planned rule tightening AI chip exports; a draft was sent to agencies for feedback in February &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260313/p28#a260313p28)
  - [Sources: Meta plans sweeping layoffs that could affect 20% or more of the company, amid mounting AI infrastructure costs; it had ~79,000 employees as of Dec. 31 &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p27#a260313p27)
- - [A US judge questions Elon Musk&#39;s $134B claim for damages in his lawsuit against OpenAI and Microsoft but rules he can still make his case to a jury &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260313/p26#a260313p26)
- - [What to Do in Vegas If You’re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/in-transit-las-vegas/)
- - [Two Lost &#39;Doctor Who&#39; Episodes Found Intact in Waterlogged Collection](https://www.cnet.com/culture/entertainment/two-lost-doctor-who-episodes-found-in-waterlogged-basement/)<!-- TECH:END -->
+ - [A US judge questions Elon Musk&#39;s $134B claim for damages in his lawsuit against OpenAI and Microsoft but rules he can still make his case to a jury &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260313/p26#a260313p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of 1,000 hiring managers: 59% say they stress AI&#39;s role in layoffs or hiring freezes &quot;because it plays better&quot;; only 9% say AI has fully replaced roles &lpar;Gautam Mukunda/Bloomberg&rpar;](http://www.techmeme.com/260314/p8#a260314p8)
+ - [MacBook Air M5 review: a small update for the ‘just right’ Mac](https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review)
  - [A Scavengers Reign artist explores contemplative sci-fi in new comics](https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign)
  - [Asus’ new open earbuds are a wonderful companion for handheld gaming](https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions)
- - [SXSW 2026 Updates: Saturday Has Tech, Breaking Bad and Jamie Lee Curtis](https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/)
- - [TSMC&#39;s N3 logic wafer capacity has become one of the AI industry&#39;s biggest constraints, which could push customers to explore greater foundry diversification &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260314/p7#a260314p7)
- - [Best Meal Kits, Ranked by Value: We Analyzed Recipes From 7 Top Services](https://www.cnet.com/health/nutrition/which-meal-kit-is-the-best-value-we-evaluated-recipes-from-7-to-find-out/)<!-- TECH:END -->
+ - [SXSW 2026 Updates: Saturday Has Tech, Breaking Bad and Jamie Lee Curtis](https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

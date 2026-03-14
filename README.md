@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let there be light](http://9gag.com/gag/aLnEDmP)
+ - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
  - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
- - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 😝 [Oh look, the leaked plot of Shrek 5](http://9gag.com/gag/a34OM3v)
+ - 💣 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 😝 [Let there be light](http://9gag.com/gag/aLnEDmP)
  - 👉 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
+ - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
  - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 💣 [I see what you did there](http://9gag.com/gag/aRBpA9B)
+ - 💣 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)
  - 😝 [Men do men things](http://9gag.com/gag/a6ZRb5m)
- - 👉 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)<!-- MEMES:END -->
+ - 👉 [Poor girl](http://9gag.com/gag/azx3j0p)<!-- MEMES:END -->
 
 ---
 

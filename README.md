@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 😝 [Anywhere. Click anywhere.](http://9gag.com/gag/a2vX5bd)
  - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
  - 💣 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
- - 😝 [The creativity is endless.](http://9gag.com/gag/aO8Wdgy)
- - 👉 [Poor girl](http://9gag.com/gag/azx3j0p)<!-- MEMES:END -->
+ - 😝 [Men do men things](http://9gag.com/gag/a6ZRb5m)
+ - 👉 [I see what you did there](http://9gag.com/gag/aRBpA9B)<!-- MEMES:END -->
 
 ---
 

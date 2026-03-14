@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The missing element](http://9gag.com/gag/avyjPqW)
+ - 😝 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)
+ - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
  - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
- - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 😝 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
- - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
+ - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 😝 [Poor girl](http://9gag.com/gag/azx3j0p)
- - 💣 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)
- - 😝 [Dad bought the best car he could... and she knew exactly what it meant.](http://9gag.com/gag/a1m6d5Y)
- - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
+ - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
+ - 😝 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
+ - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 👉 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)<!-- MEMES:END -->
 
 ---
 

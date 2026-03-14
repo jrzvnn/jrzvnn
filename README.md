@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
  - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
  - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 😝 [Big respect to this legend, 30 days is a huge step](http://9gag.com/gag/an7obEL)
+ - 😝 [Horses](http://9gag.com/gag/aAy9dq9)
  - 👉 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)<!-- MEMES:END -->
 
 ---

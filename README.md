@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Drones caused a Qatari Helium-producing energy hub to shutter; crucial in chipmaking, Bloomberg says the closed hub makes up ~33% of global Helium production &lpar;Ines Ferré/Yahoo Finance&rpar;](http://www.techmeme.com/260314/p11#a260314p11)
- - [Amazon&#39;s M5 MacBook Pro sale delivers deals from just $1,399](https://appleinsider.com/articles/26/03/14/amazons-m5-macbook-pro-sale-delivers-deals-from-just-1399?utm_source=rss)
- - [Meta is reportedly laying off up to 20 percent of its staff](https://www.theverge.com/business/895026/meta-laying-off-20-percent)
- - [Kaiko: cumulative trading volume on crypto exchange Hyperliquid&#39;s perpetual oil futures surged to ~$7.3B on March 12 from $339M on February 28 amid the Iran war &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260314/p10#a260314p10)
- - [Before &#39;One Battle After Another,&#39; Leonardo DiCaprio Was a Delightful Mess in This Netflix Satire](https://www.cnet.com/culture/entertainment/one-battle-after-another-leonardo-dicaprio-dont-look-up-netflix/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 15, #742](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-15-742/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 15, #1008](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-15-1008/)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 15, #1730](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-15-1730/)
+ - [Amazon&#39;s M5 MacBook Pro sale delivers deals from just $1,399](https://appleinsider.com/articles/26/03/14/amazons-m5-macbook-pro-sale-delivers-deals-from-just-1399?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sunday Reboot: Alicia Keys, social oddness, and AVP in the air](https://appleinsider.com/articles/26/03/15/sunday-reboot-alicia-keys-social-oddness-and-avp-in-the-air?utm_source=rss)
  - [Scanner, which helps organizations build cloud-native security data lakes for threat hunting, detection, and response, raised a $22M Series A led by Sequoia &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/260315/p7#a260315p7)
- - [Aether OS is computer in a browser built for the AT Protocol](https://www.theverge.com/tech/895083/aether-os-browser-at-protocol)
- - [Indian edtech startup upGrad plans to acquire rival Unacademy in an all-stock deal; Unacademy was valued at less than $500M in 2025, down from $3.5B in 2021 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260315/p6#a260315p6)
- - [Sotomayor’s Wabi Sabi is the funnest record of 2026](https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 16, #1009](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-16-1009/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 16 #743](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-16-743/)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 16, #1731](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-16-1731/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

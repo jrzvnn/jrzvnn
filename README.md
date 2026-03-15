@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI companies want to harvest improv actors’ skills to train AI on human emotion](https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data)
  - [BTS Is Back: Here&#39;s Everything to Know About Their Return and Live Show on Netflix](https://www.cnet.com/tech/services-and-software/bts-is-back-heres-how-to-watch-their-new-documentary-and-live-concert-on-netflix/)
  - [Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone](https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review)
  - [Siri and refined Liquid Glass controls on the docket for WWDC 2026](https://appleinsider.com/articles/26/03/15/siri-and-refined-liquid-glass-controls-on-the-docket-for-wwdc-2026?utm_source=rss)
- - [7 Coffee Mistakes You May Not Know You&#39;re Making, According to an Expert](https://www.cnet.com/news/7-coffee-mistakes-you-might-not-know-youre-making-according-to-an-expert/)
- - [SXSW 2026 Updates: Sunday Explores Activism, Fandom and the Future of AI](https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/)<!-- TECH:END -->
+ - [7 Coffee Mistakes You May Not Know You&#39;re Making, According to an Expert](https://www.cnet.com/news/7-coffee-mistakes-you-might-not-know-youre-making-according-to-an-expert/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

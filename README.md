@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The gaming industry is shaping up to be one of the AI boom&#39;s biggest casualties, from job losses to rising console prices due to the global RAM shortage &lpar;Helen Vogelsong-Donahue/Wired&rpar;](http://www.techmeme.com/260315/p3#a260315p3)
+ - [Zendesk agrees to acquire Forethought, which makes AI-powered customer support software, for an undisclosed sum; Forethought has raised $115M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260315/p2#a260315p2)
  - [San Francisco&#39;s housing market is seeing a big rebound, driven by the AI boom; Apartment List says rents rose 14% YoY in February, the fastest growth in the US &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260315/p1#a260315p1)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-15/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 15, #538](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-15-538/)
- - [Takeaways from the 2026 Game Developers Conference: a high volume of job seekers amid layoffs, AI was the hot buzzword, more outsourcing than ever, and more &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260314/p13#a260314p13)
- - [A preview of Nvidia&#39;s 2026 GTC, which kicks off on March 16, where the company is expected to unveil new agentic-optimized CPUs, a CPU-only rack, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260314/p12#a260314p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 15, #538](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-15-538/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

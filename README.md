@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A New Study Details How Cats Almost Always Land on Their Feet](https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/)
  - [The gaming industry is shaping up to be one of the AI boom&#39;s biggest casualties, from job losses to rising console prices due to the global RAM shortage &lpar;Helen Vogelsong-Donahue/Wired&rpar;](http://www.techmeme.com/260315/p3#a260315p3)
  - [Zendesk agrees to acquire Forethought, which makes AI-powered customer support software, for an undisclosed sum; Forethought has raised $115M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260315/p2#a260315p2)
  - [San Francisco&#39;s housing market is seeing a big rebound, driven by the AI boom; Apartment List says rents rose 14% YoY in February, the fastest growth in the US &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260315/p1#a260315p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-15/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 15, #538](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-15-538/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-15/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

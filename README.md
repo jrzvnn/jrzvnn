@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It sucks that he retired from making camping videos.](http://9gag.com/gag/aVv6M9n)
- - 😝 [Taking the phrase `barking with the same tree` literally.](http://9gag.com/gag/ae9BYBj)
- - 💣 [The creativity is endless.](http://9gag.com/gag/aO8Wdgy)
- - 😝 [From the archives. Bustin rhymes](http://9gag.com/gag/a0e35LL)
- - 👉 [Aint nobody got time fou that](http://9gag.com/gag/aNDbzoA)<!-- MEMES:END -->
+ - 😝 [Oh look, the leaked plot of Shrek 5](http://9gag.com/gag/a34OM3v)
+ - 😝 [Arnold Schwarzenegger tells this kid he has good genes](http://9gag.com/gag/an7ob00)
+ - 💣 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
+ - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 👉 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)<!-- MEMES:END -->
 
 ---
 

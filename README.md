@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
  - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
  - 💣 [Found out](http://9gag.com/gag/aXPOAN2)
- - 😝 [Kiss me.](http://9gag.com/gag/avyj7Vn)
- - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
+ - 😝 [Big respect to this legend, 30 days is a huge step](http://9gag.com/gag/an7obEL)
+ - 👉 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
 
 ---
 

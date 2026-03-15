@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
- - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
- - 💣 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
- - 😝 [Big respect to this legend, 30 days is a huge step](http://9gag.com/gag/an7obEL)
+ - 😝 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
+ - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 💣 [Dad bought the best car he could... and she knew exactly what it meant.](http://9gag.com/gag/a1m6d5Y)
+ - 😝 [No cellphones, just 200000 ravers at the Prodigy concert, 1997](http://9gag.com/gag/aYQ0gb7)
  - 👉 [She can&#39;t stop interrupting him](http://9gag.com/gag/aoy72z0)<!-- MEMES:END -->
 
 ---

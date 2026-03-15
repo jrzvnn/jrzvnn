@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not crying, you&#39;re crying](http://9gag.com/gag/aoy7Ojm)
  - 😝 [Points and laughs](http://9gag.com/gag/aZZYgqn)
+ - 😝 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
  - 💣 [It&#39;s a truly expensive hobby.](http://9gag.com/gag/abA8zR8)
- - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
- - 👉 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)<!-- MEMES:END -->
+ - 😝 [This guy](http://9gag.com/gag/aE04xVn)
+ - 👉 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
- - 😝 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
- - 💣 [In your dreams](http://9gag.com/gag/aW4X80q)
  - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
+ - 💣 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
+ - 😝 [Big respect to this legend, 30 days is a huge step](http://9gag.com/gag/an7obEL)
  - 👉 [She can&#39;t stop interrupting him](http://9gag.com/gag/aoy72z0)<!-- MEMES:END -->
 
 ---

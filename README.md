@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
- - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
- - 💣 [Dad bought the best car he could... and she knew exactly what it meant.](http://9gag.com/gag/a1m6d5Y)
+ - 😝 [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
+ - 😝 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
+ - 💣 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
  - 😝 [No cellphones, just 200000 ravers at the Prodigy concert, 1997](http://9gag.com/gag/aYQ0gb7)
- - 👉 [She can&#39;t stop interrupting him](http://9gag.com/gag/aoy72z0)<!-- MEMES:END -->
+ - 👉 [Chaotic Evil](http://9gag.com/gag/aVv6Dvd)<!-- MEMES:END -->
 
 ---
 

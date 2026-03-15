@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taking the phrase `barking with the same tree` literally.](http://9gag.com/gag/ae9BYBj)
- - 😝 [Dad bought the best car he could... and she knew exactly what it meant.](http://9gag.com/gag/a1m6d5Y)
- - 💣 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
- - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 😝 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
+ - 😝 [It&#39;s a truly expensive hobby.](http://9gag.com/gag/abA8zR8)
+ - 💣 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
  - 👉 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
  - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
- - 💣 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
- - 😝 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
- - 👉 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
+ - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 💣 [Found out](http://9gag.com/gag/aXPOAN2)
+ - 😝 [Kiss me.](http://9gag.com/gag/avyj7Vn)
+ - 👉 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
 
 ---
 

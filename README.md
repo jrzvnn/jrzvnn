@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
- - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
- - 💣 [In your dreams](http://9gag.com/gag/aW4X80q)
- - 😝 [Big respect to this legend, 30 days is a huge step](http://9gag.com/gag/an7obEL)
- - 👉 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)<!-- MEMES:END -->
+ - 😝 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
+ - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
+ - 💣 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 😝 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
+ - 👉 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
 
 ---
 

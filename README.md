@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
+ - 😝 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
+ - 💣 [In your dreams](http://9gag.com/gag/aW4X80q)
  - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
- - 😝 [Chaotic Evil](http://9gag.com/gag/aVv6Dvd)
- - 💣 [Taking the phrase `barking with the same tree` literally.](http://9gag.com/gag/ae9BYBj)
- - 😝 [Aint nobody got time fou that](http://9gag.com/gag/aNDbzoA)
- - 👉 [From the archives. Bustin rhymes](http://9gag.com/gag/a0e35LL)<!-- MEMES:END -->
+ - 👉 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma is a pumpkin](http://9gag.com/gag/aMVLj2R)
- - 😝 [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
- - 💣 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
- - 😝 [This guy](http://9gag.com/gag/aE04xVn)
- - 👉 [No cellphones, just 200000 ravers at the Prodigy concert, 1997](http://9gag.com/gag/aYQ0gb7)<!-- MEMES:END -->
+ - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 😝 [Let a guy have hobbies](http://9gag.com/gag/aqyEbqZ)
+ - 💣 [Girl, you&#39;re thicker than a bowl of oatmeal](http://9gag.com/gag/aMVLA5M)
+ - 😝 [Years ago I shared my excitement of being one month sober from alcohol with all of you. Today I just wanted let you guys know I didn&#39;t give up and I changed my life. I even became a dad! I will be 6 years sober next month.](http://9gag.com/gag/aVv63Lw)
+ - 👉 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)<!-- MEMES:END -->
 
 ---
 

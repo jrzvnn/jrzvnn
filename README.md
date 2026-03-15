@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Camp Snap Camera Review: At Least It Looks Good](https://www.cnet.com/tech/computing/camp-snap-camera-review/)
+ - [Check Out All These iOS 26 Tips, Tricks and Hacks](https://www.cnet.com/tech/services-and-software/apple-iphone-ios-26-cheat-sheet/)
  - [Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power](https://www.wired.com/review/brompton-electric-t-line-with-e-motiq/)
  - [This At-Home Hair Growth System Just Dropped in Price](https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/)
- - [The $100,000 fee for H-1Bs is causing all sorts of problems](https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers)
- - [iGarden M1 Pro Max 100 Review: A Sports Car for Your Pool](https://www.wired.com/review/igarden-m1-pro-max-100-pool-robot/)
- - [Razer Boomslang 20th Anniversary Mouse Review: For Collectors](https://www.wired.com/review/razer-boomslang-20th-anniversary/)<!-- TECH:END -->
+ - [4 Kitchen Utensils That Could Be Leaking Microplastics Into Your Meals](https://www.cnet.com/health/found-kitchen-items-leaking-microplastics-my-food/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether, flush with cash, has been investing in diverse sectors ranging from sleep tech company Eight Sleep to humanoid robotics company Neura Robotics &lpar;PitchBook&rpar;](http://www.techmeme.com/260315/p5#a260315p5)
  - [AI Czar David Sacks wants Trump to ‘get out’ of Iran](https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran)
  - [&#39;Marshals&#39;: When Does Episode 3 Premiere on Paramount Plus?](https://www.cnet.com/tech/services-and-software/marshals-when-does-episode-3-premiere-on-paramount-plus/)
  - [AI companies want to harvest improv actors’ skills to train AI on human emotion](https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data)
- - [Premier League Soccer: Stream Liverpool vs. Spurs Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-spurs-live-from-anywhere/)
- - [Bluey Arrives at Disneyland Next Week. What Else Is Coming to Disney Parks in 2026 and Beyond?](https://www.cnet.com/tech/whats-coming-to-disney-world-and-disneyland-new-rides-lands-and-attractions-in-2026/)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Liverpool vs. Spurs Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-spurs-live-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

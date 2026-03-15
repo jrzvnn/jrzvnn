@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
- - 😝 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
- - 💣 [From the archives. Bustin rhymes](http://9gag.com/gag/a0e35LL)
- - 😝 [Taking the phrase `barking with the same tree` literally.](http://9gag.com/gag/ae9BYBj)
- - 👉 [A boy learned a valuable lesson after fafoing.](http://9gag.com/gag/ae9B6wm)<!-- MEMES:END -->
+ - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
+ - 💣 [In your dreams](http://9gag.com/gag/aW4X80q)
+ - 😝 [Big respect to this legend, 30 days is a huge step](http://9gag.com/gag/an7obEL)
+ - 👉 [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)<!-- MEMES:END -->
 
 ---
 

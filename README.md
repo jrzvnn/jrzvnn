@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Camp Snap Camera Review: At Least It Looks Good](https://www.cnet.com/tech/computing/camp-snap-camera-review/)
- - [Check Out All These iOS 26 Tips, Tricks and Hacks](https://www.cnet.com/tech/services-and-software/apple-iphone-ios-26-cheat-sheet/)
- - [Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power](https://www.wired.com/review/brompton-electric-t-line-with-e-motiq/)
- - [This At-Home Hair Growth System Just Dropped in Price](https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/)
- - [4 Kitchen Utensils That Could Be Leaking Microplastics Into Your Meals](https://www.cnet.com/health/found-kitchen-items-leaking-microplastics-my-food/)<!-- TECH:END -->
+ - [Staff departures do not mean Apple will abandon Liquid Glass](https://appleinsider.com/articles/26/03/15/staff-departures-do-not-mean-apple-will-abandon-liquid-glass?utm_source=rss)
+ - [The fast rise and epic fall of Clubhouse](https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history)
+ - [Study: most AI-generated videos on social media about the war in Iran push pro-Iranian views, often exaggerating its military capabilities and sophistication &lpar;New York Times&rpar;](http://www.techmeme.com/260315/p4#a260315p4)
+ - [Live-service games are a mess](https://www.theverge.com/column/893294/live-service-games-mess)
+ - [Camp Snap Camera Review: At Least It Looks Good](https://www.cnet.com/tech/computing/camp-snap-camera-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

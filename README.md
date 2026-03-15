@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sunday Reboot: Alicia Keys, social oddness, and AVP in the air](https://appleinsider.com/articles/26/03/15/sunday-reboot-alicia-keys-social-oddness-and-avp-in-the-air?utm_source=rss)
+ - [Scanner, which helps organizations build cloud-native security data lakes for threat hunting, detection, and response, raised a $22M Series A led by Sequoia &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/260315/p7#a260315p7)
  - [Aether OS is computer in a browser built for the AT Protocol](https://www.theverge.com/tech/895083/aether-os-browser-at-protocol)
  - [Indian edtech startup upGrad plans to acquire rival Unacademy in an all-stock deal; Unacademy was valued at less than $500M in 2025, down from $3.5B in 2021 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260315/p6#a260315p6)
- - [Sotomayor’s Wabi Sabi is the funnest record of 2026](https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review)
- - [HDR TV Formats Explained](https://www.cnet.com/tech/home-entertainment/every-hdr-tv-format-explained/)
- - [Tether, flush with cash, has been investing in diverse sectors ranging from sleep tech company Eight Sleep to humanoid robotics company Neura Robotics &lpar;PitchBook&rpar;](http://www.techmeme.com/260315/p5#a260315p5)<!-- TECH:END -->
+ - [Sotomayor’s Wabi Sabi is the funnest record of 2026](https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It sucks that he retired from making camping videos.](http://9gag.com/gag/aVv6M9n)
- - 😝 [Aint nobody got time fou that](http://9gag.com/gag/aNDbzoA)
- - 💣 [Tomb Raider](http://9gag.com/gag/ae9BMbm)
- - 😝 [Goodest bwoi ^^](http://9gag.com/gag/aXPOxvb)
- - 👉 [Oh look, the leaked plot of Shrek 5](http://9gag.com/gag/a34OM3v)<!-- MEMES:END -->
+ - 😝 [I&#39;m not crying, you&#39;re crying](http://9gag.com/gag/aoy7Ojm)
+ - 😝 [Points and laughs](http://9gag.com/gag/aZZYgqn)
+ - 💣 [It&#39;s a truly expensive hobby.](http://9gag.com/gag/abA8zR8)
+ - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 👉 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power](https://www.wired.com/review/brompton-electric-t-line-with-e-motiq/)
+ - [This At-Home Hair Growth System Just Dropped in Price](https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/)
+ - [The $100,000 fee for H-1Bs is causing all sorts of problems](https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers)
  - [iGarden M1 Pro Max 100 Review: A Sports Car for Your Pool](https://www.wired.com/review/igarden-m1-pro-max-100-pool-robot/)
- - [Razer Boomslang 20th Anniversary Mouse Review: For Collectors](https://www.wired.com/review/razer-boomslang-20th-anniversary/)
- - [Eighty Years Later, the Chemex Still Makes Better Coffee](https://www.wired.com/story/chemex-makes-every-other-coffee-maker-seem-tacky/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 15, #1008](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-15-1008/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 15, #1730](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-15-1730/)<!-- TECH:END -->
+ - [Razer Boomslang 20th Anniversary Mouse Review: For Collectors](https://www.wired.com/review/razer-boomslang-20th-anniversary/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

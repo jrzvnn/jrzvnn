@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We still haven\u2019t heard from the World Food Programme about this. Why is that?](http://9gag.com/gag/a4P0jrd)
- - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
- - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
+ - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 💣 [Let there be light](http://9gag.com/gag/aLnEDmP)
  - 😝 [A Meowdem 128k](http://9gag.com/gag/aKGMDvW)
- - 👉 [Let there be light](http://9gag.com/gag/aLnEDmP)<!-- MEMES:END -->
+ - 👉 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
 
 ---
 

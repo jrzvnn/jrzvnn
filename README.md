@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian edtech startup upGrad plans to acquire rival Unacademy in an all-stock deal; Unacademy was valued at less than $500M in 2025, down from $3.5B in 2021 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260315/p6#a260315p6)
  - [Sotomayor’s Wabi Sabi is the funnest record of 2026](https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review)
  - [HDR TV Formats Explained](https://www.cnet.com/tech/home-entertainment/every-hdr-tv-format-explained/)
  - [Tether, flush with cash, has been investing in diverse sectors ranging from sleep tech company Eight Sleep to humanoid robotics company Neura Robotics &lpar;PitchBook&rpar;](http://www.techmeme.com/260315/p5#a260315p5)
- - [Peacock Hopes an Andy Cohen Avatar Will Keep You Hooked on Reality TV](https://www.cnet.com/tech/home-entertainment/peacock-adds-ai-features-to-app/)
- - [AI Czar David Sacks wants Trump to ‘get out’ of Iran](https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran)<!-- TECH:END -->
+ - [Peacock Hopes an Andy Cohen Avatar Will Keep You Hooked on Reality TV](https://www.cnet.com/tech/home-entertainment/peacock-adds-ai-features-to-app/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Takeaways from the 2026 Game Developers Conference: a high volume of job seekers amid layoffs, AI was the hot buzzword, more outsourcing than ever, and more &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260314/p13#a260314p13)
  - [A preview of Nvidia&#39;s 2026 GTC, which kicks off on March 16, where the company is expected to unveil new agentic-optimized CPUs, a CPU-only rack, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260314/p12#a260314p12)
  - [Trump administration is allegedly collecting $10 billion on the TikTok deal](https://www.theverge.com/policy/895039/trump-10-billion-tiktok)
  - [iPhone Fold: Launch Date, Price, Design Leaks and Everything We Know](https://www.cnet.com/tech/mobile/iphone-fold-launch-date-price-and-everything-we-know/)
- - [Drones caused a Qatari Helium-producing energy hub to shutter; crucial in chipmaking, Bloomberg says the closed hub makes up ~33% of global Helium production &lpar;Ines Ferré/Yahoo Finance&rpar;](http://www.techmeme.com/260314/p11#a260314p11)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 15, #742](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-15-742/)<!-- TECH:END -->
+ - [Drones caused a Qatari Helium-producing energy hub to shutter; crucial in chipmaking, Bloomberg says the closed hub makes up ~33% of global Helium production &lpar;Ines Ferré/Yahoo Finance&rpar;](http://www.techmeme.com/260314/p11#a260314p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

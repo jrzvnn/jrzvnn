@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer Boomslang 20th Anniversary Mouse Review: For Collectors](https://www.wired.com/review/razer-boomslang-20th-anniversary/)
  - [Eighty Years Later, the Chemex Still Makes Better Coffee](https://www.wired.com/story/chemex-makes-every-other-coffee-maker-seem-tacky/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for March 15, #1008](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-15-1008/)
  - [Today&#39;s Wordle Hints, Answer and Help for March 15, #1730](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-15-1730/)
- - [This Is the Bacon Upgrade You Didn&#39;t Know You Needed](https://www.cnet.com/news/the-best-way-to-make-bacon-isnt-a-frying-pan-or-oven-heres-the-tool-i-use/)
- - [A New Study Details How Cats Almost Always Land on Their Feet](https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/)<!-- TECH:END -->
+ - [This Is the Bacon Upgrade You Didn&#39;t Know You Needed](https://www.cnet.com/news/the-best-way-to-make-bacon-isnt-a-frying-pan-or-oven-heres-the-tool-i-use/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

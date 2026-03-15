@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh look, the leaked plot of Shrek 5](http://9gag.com/gag/a34OM3v)
+ - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
  - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
- - 💣 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
- - 😝 [Found out](http://9gag.com/gag/aXPOAN2)
- - 👉 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)<!-- MEMES:END -->
+ - 💣 [It&#39;s a truly expensive hobby.](http://9gag.com/gag/abA8zR8)
+ - 😝 [Goodest bwoi ^^](http://9gag.com/gag/aXPOxvb)
+ - 👉 [Found out](http://9gag.com/gag/aXPOAN2)<!-- MEMES:END -->
 
 ---
 

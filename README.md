@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Czar David Sacks wants Trump to ‘get out’ of Iran](https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran)
+ - [&#39;Marshals&#39;: When Does Episode 3 Premiere on Paramount Plus?](https://www.cnet.com/tech/services-and-software/marshals-when-does-episode-3-premiere-on-paramount-plus/)
  - [AI companies want to harvest improv actors’ skills to train AI on human emotion](https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data)
- - [BTS Is Back: Here&#39;s Everything to Know About Their Return and Live Show on Netflix](https://www.cnet.com/tech/services-and-software/bts-is-back-heres-how-to-watch-their-new-documentary-and-live-concert-on-netflix/)
- - [Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone](https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review)
- - [Siri and refined Liquid Glass controls on the docket for WWDC 2026](https://appleinsider.com/articles/26/03/15/siri-and-refined-liquid-glass-controls-on-the-docket-for-wwdc-2026?utm_source=rss)
- - [7 Coffee Mistakes You May Not Know You&#39;re Making, According to an Expert](https://www.cnet.com/news/7-coffee-mistakes-you-might-not-know-youre-making-according-to-an-expert/)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Liverpool vs. Spurs Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-spurs-live-from-anywhere/)
+ - [Bluey Arrives at Disneyland Next Week. What Else Is Coming to Disney Parks in 2026 and Beyond?](https://www.cnet.com/tech/whats-coming-to-disney-world-and-disneyland-new-rides-lands-and-attractions-in-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

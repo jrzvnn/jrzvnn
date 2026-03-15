@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Recovered notes from a lobbyist&#39;s phone outline a $5M payment structure tied to Argentine President Milei and other top officials&#39; promotion of the Libra token &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260315/p9#a260315p9)
  - [Intellexa&#39;s founder says his firm sells surveillance tech exclusively to governments, reviving claims of state spying in Greece after being sentenced last month &lpar;Eliza Triantafillou/OCCRP&rpar;](http://www.techmeme.com/260315/p8#a260315p8)
  - [Sunday Reboot: Alicia Keys, social oddness, and AVP in the air](https://appleinsider.com/articles/26/03/15/sunday-reboot-alicia-keys-social-oddness-and-avp-in-the-air?utm_source=rss)
  - [Scanner, which helps organizations build cloud-native security data lakes for threat hunting, detection, and response, raised a $22M Series A led by Sequoia &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/260315/p7#a260315p7)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 16, #1009](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-16-1009/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 16 #743](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-16-743/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 16, #1009](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-16-1009/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

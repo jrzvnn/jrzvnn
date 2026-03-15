@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
- - 😝 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
- - 💣 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
- - 😝 [No cellphones, just 200000 ravers at the Prodigy concert, 1997](http://9gag.com/gag/aYQ0gb7)
- - 👉 [Chaotic Evil](http://9gag.com/gag/aVv6Dvd)<!-- MEMES:END -->
+ - 😝 [Oh look, the leaked plot of Shrek 5](http://9gag.com/gag/a34OM3v)
+ - 😝 [From the archives. Bustin rhymes](http://9gag.com/gag/a0e35LL)
+ - 💣 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
+ - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 👉 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)<!-- MEMES:END -->
 
 ---
 

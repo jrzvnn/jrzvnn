@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
+ - 😝 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
  - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
- - 💣 [Found out](http://9gag.com/gag/aXPOAN2)
- - 😝 [Big respect to this legend, 30 days is a huge step](http://9gag.com/gag/an7obEL)
- - 👉 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
+ - 💣 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
+ - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
+ - 👉 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)<!-- MEMES:END -->
 
 ---
 

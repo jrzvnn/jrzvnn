@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
  - 💣 [In your dreams](http://9gag.com/gag/aW4X80q)
  - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
- - 👉 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)<!-- MEMES:END -->
+ - 👉 [She can&#39;t stop interrupting him](http://9gag.com/gag/aoy72z0)<!-- MEMES:END -->
 
 ---
 

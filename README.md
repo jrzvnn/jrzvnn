@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, Microsoft, LinkedIn, Meta, Amazon, OpenAI, Adobe, and Match sign a voluntary pledge to share threat intelligence on scammers abusing their services &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260316/p10#a260316p10)
- - [How competition between Brazilian delivery app iFood and Meituan&#39;s Keeta in Brazil has descended into accusations of corporate espionage and shady tactics &lpar;Financial Times&rpar;](http://www.techmeme.com/260316/p9#a260316p9)
- - [As AI models commodify, Apple&#39;s plans to spend just $14B on 2026 capex, far below hyperscalers&#39; combined $650B, or 90%+ of their cash flow, may be a genius move &lpar;Horace Dediu/Asymco&rpar;](http://www.techmeme.com/260316/p8#a260316p8)
- - [Sources: Hua Hong is readying a 7nm process at its Shanghai fab with Huawei&#39;s collaboration, which would make it China&#39;s second chipmaker at the node after SMIC &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260316/p7#a260316p7)
- - [Sources: Alibaba may unveil a Qwen-based AI agent for enterprises as soon as this week, and plans to gradually integrate the agent into its services like Alipay &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260316/p6#a260316p6)<!-- TECH:END -->
+ - [Foxconn reports Q4 revenue up 22% YoY to ~$81B, net profit down 2% YoY to ~$1.4B, below ~$1.9B est., due to a higher tax expense, and a 5.9% gross profit margin &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p12#a260316p12)
+ - [These Musical Instruments of the Future Sound Weird, Wacky—and Are Easy for Anyone to Play](https://www.wired.com/story/georgia-tech-guthman-musical-instrument-competition-2026/)
+ - [My fitness tracker is a secret weapon against my chronic illness](https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop)
+ - [Samsung Galaxy S26 Ultra review: Privacy Display works well, meaningful camera upgrades, and sleeker than S25 Ultra, but still huge, expensive, and lacks Qi2 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260316/p11#a260316p11)
+ - [Wall Street Is Already Betting on Prediction Markets](https://www.wired.com/story/prediction-markets-find-a-welcome-on-wall-street/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

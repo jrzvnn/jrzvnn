@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
- - 😝 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
- - 💣 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
- - 😝 [Coco-M\u00f8r: why the French don&#39;t like to speak English](http://9gag.com/gag/amoZ2Mv)
- - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
+ - 😝 [Ballas](http://9gag.com/gag/a9yGpvo)
+ - 😝 [Boss says we are all in the same boat](http://9gag.com/gag/aqyEKNQ)
+ - 💣 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
+ - 😝 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - 👉 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)<!-- MEMES:END -->
 
 ---
 

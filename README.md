@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma is a pumpkin](http://9gag.com/gag/aMVLj2R)
- - 😝 [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
- - 💣 [No cellphones, just 200000 ravers at the Prodigy concert, 1997](http://9gag.com/gag/aYQ0gb7)
- - 😝 [Ballas](http://9gag.com/gag/a9yGpvo)
- - 👉 [Tomb Raider](http://9gag.com/gag/ae9BMbm)<!-- MEMES:END -->
+ - 😝 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 💣 [Points and laughs](http://9gag.com/gag/aZZYgqn)
+ - 😝 [Let a guy have hobbies](http://9gag.com/gag/aqyEbqZ)
+ - 👉 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is not a fly uploaded to a computer](https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload)
- - [iPhone 17e review: Welcome improvements at Apple&#39;s lower-end](https://appleinsider.com/articles/26/03/16/iphone-17e-review-welcome-improvements-at-apples-lower-end?utm_source=rss)
- - [The story about how the third Apple founder sold out for $800 isn&#39;t quite right](https://appleinsider.com/articles/26/03/16/the-story-about-how-the-third-apple-founder-sold-out-for-800-isnt-quite-right?utm_source=rss)
- - [Chip cooling startup Frore, which designs channels that conduct liquid coolant in 3D shapes unique to each chip, raised $143M led by MVP at a $1.64B valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260316/p18#a260316p18)
- - [Meta Explained Its Smart Glasses AI Privacy Policies to Me. I&#39;m Still Worried](https://www.cnet.com/tech/services-and-software/meta-ray-ban-smart-glasses-ai-privacy-policy/)<!-- TECH:END -->
+ - [Sources: OpenAI is in advanced talks with PE firms including TPG and Advent to form a JV that would distribute its enterprise tools to their portfolio companies &lpar;Reuters&rpar;](http://www.techmeme.com/260316/p22#a260316p22)
+ - [AirPods Max 2 arrive with better ANC, Live Translation, and more](https://appleinsider.com/articles/26/03/16/airpods-max-2-arrive-with-better-anc-live-translation-and-more?utm_source=rss)
+ - [Sources: OpenAI appoints new leaders to oversee Stargate after deciding to rent more AI servers from cloud providers, and splits its computing effort in three &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/260316/p21#a260316p21)
+ - [Apple&amp;#8217;s $549 AirPods Max 2 add better ANC and live translation](https://www.theverge.com/tech/895155/apple-airpods-max-2-pricing-availability)
+ - [Taiwan&#39;s chip sector faces critical supply risks as the island relies on the Middle East for 37% of its LNG and much of its helium and sulfur, amid the Iran war &lpar;Bloomberg&rpar;](http://www.techmeme.com/260316/p20#a260316p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

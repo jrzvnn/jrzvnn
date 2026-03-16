@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ballas](http://9gag.com/gag/a9yGpvo)
- - 😝 [Boss says we are all in the same boat](http://9gag.com/gag/aqyEKNQ)
- - 💣 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
- - 😝 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
- - 👉 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)<!-- MEMES:END -->
+ - 😝 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
+ - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 💣 [King of memes!](http://9gag.com/gag/aMVLZZP)
+ - 😝 [Years ago I shared my excitement of being one month sober from alcohol with all of you. Today I just wanted let you guys know I didn&#39;t give up and I changed my life. I even became a dad! I will be 6 years sober next month.](http://9gag.com/gag/aVv63Lw)
+ - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
 
 ---
 

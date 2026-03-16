@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is in advanced talks with PE firms including TPG and Advent to form a JV that would distribute its enterprise tools to their portfolio companies &lpar;Reuters&rpar;](http://www.techmeme.com/260316/p22#a260316p22)
- - [AirPods Max 2 arrive with better ANC, Live Translation, and more](https://appleinsider.com/articles/26/03/16/airpods-max-2-arrive-with-better-anc-live-translation-and-more?utm_source=rss)
- - [Sources: OpenAI appoints new leaders to oversee Stargate after deciding to rent more AI servers from cloud providers, and splits its computing effort in three &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/260316/p21#a260316p21)
- - [Apple&amp;#8217;s $549 AirPods Max 2 add better ANC and live translation](https://www.theverge.com/tech/895155/apple-airpods-max-2-pricing-availability)
- - [Taiwan&#39;s chip sector faces critical supply risks as the island relies on the Middle East for 37% of its LNG and much of its helium and sulfur, amid the Iran war &lpar;Bloomberg&rpar;](http://www.techmeme.com/260316/p20#a260316p20)<!-- TECH:END -->
+ - [Encyclopedia Britannica and its Merriam-Webster subsidiary sue OpenAI for allegedly misusing their reference materials to train its AI models &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260316/p24#a260316p24)
+ - [Liquid Glass is divisive now, but Apple knows where it&#39;s going](https://appleinsider.com/articles/26/03/16/liquid-glass-is-divisive-now-but-apple-knows-where-its-going?utm_source=rss)
+ - [Amazon’s best Echo speakers and screens just got their biggest discounts](https://www.theverge.com/gadgets/895201/echo-show-dot-max-studio-amazon-apple-watch-ultra-deal-sale)
+ - [Yahoo CEO Jim Lanzone on reviving the web&amp;#8217;s homepage](https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web)
+ - [This chair gives half-worn clothes a home](https://www.theverge.com/tech/895194/laundry-chair-kickstarter-simone-giertz)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

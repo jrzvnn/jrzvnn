@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)
- - 😝 [Points and laughs](http://9gag.com/gag/aZZYgqn)
- - 💣 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
- - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 😝 [Where ze Germans heading?](http://9gag.com/gag/an7obmE)
+ - 😝 [Still miss it](http://9gag.com/gag/avyjGwO)
+ - 💣 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)
+ - 😝 [Years ago I shared my excitement of being one month sober from alcohol with all of you. Today I just wanted let you guys know I didn&#39;t give up and I changed my life. I even became a dad! I will be 6 years sober next month.](http://9gag.com/gag/aVv63Lw)
  - 👉 [Let a guy have hobbies](http://9gag.com/gag/aqyEbqZ)<!-- MEMES:END -->
 
 ---

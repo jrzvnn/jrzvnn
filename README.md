@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
  - 😝 [Karma is a pumpkin](http://9gag.com/gag/aMVLj2R)
+ - 😝 [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
  - 💣 [Tomb Raider](http://9gag.com/gag/ae9BMbm)
- - 😝 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
- - 👉 [Ballas](http://9gag.com/gag/a9yGpvo)<!-- MEMES:END -->
+ - 😝 [Ballas](http://9gag.com/gag/a9yGpvo)
+ - 👉 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos finally returns to hardware with Jennifer Tuohy on Smart Home Insider](https://appleinsider.com/articles/26/03/16/sonos-finally-returns-to-hardware-with-jennifer-tuohy-on-smart-home-insider?utm_source=rss)
+ - [Sony&amp;#8217;s AI graphics upscaling for PS5 Pro games is getting a big update tonight](https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill)
+ - [A livestream of Jensen Huang&#39;s Nvidia GTC 2026 keynote at the SAP Center in San Jose, California &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/260316/p30#a260316p30)
  - [Digital asset wealth management platform Abra plans to go public on Nasdaq via a SPAC merger with New Providence at a $750M pre-money valuation &lpar;Stacy Jones/Decrypt&rpar;](http://www.techmeme.com/260316/p29#a260316p29)
- - [Amazon drops Apple&#39;s iPad 11 to $299 with March markdowns](https://appleinsider.com/articles/26/03/16/amazon-drops-apples-ipad-11-to-299-with-march-markdowns?utm_source=rss)
- - [A group of Tennessee teenagers sues xAI, alleging its AI tools were used to create nude images of them by editing photos in which they were clothed &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/260316/p28#a260316p28)
- - [JBL’s Best Wireless Headphones Are $170 Off at Walmart](https://www.wired.com/story/jbl-tour-one-m3-headphones-deal-326/)
- - [Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT](https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit)<!-- TECH:END -->
+ - [Amazon drops Apple&#39;s iPad 11 to $299 with March markdowns](https://appleinsider.com/articles/26/03/16/amazon-drops-apples-ipad-11-to-299-with-march-markdowns?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

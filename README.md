@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma is a pumpkin](http://9gag.com/gag/aMVLj2R)
- - 😝 [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
- - 💣 [Tomb Raider](http://9gag.com/gag/ae9BMbm)
- - 😝 [Ballas](http://9gag.com/gag/a9yGpvo)
- - 👉 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)<!-- MEMES:END -->
+ - 😝 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
+ - 😝 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
+ - 💣 [Hemp](http://9gag.com/gag/abA8M4O)
+ - 😝 [Years ago I shared my excitement of being one month sober from alcohol with all of you. Today I just wanted let you guys know I didn&#39;t give up and I changed my life. I even became a dad! I will be 6 years sober next month.](http://9gag.com/gag/aVv63Lw)
+ - 👉 [Let a guy have hobbies](http://9gag.com/gag/aqyEbqZ)<!-- MEMES:END -->
 
 ---
 

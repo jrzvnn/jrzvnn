@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Benjamin Netanyahu is struggling to prove he&amp;#8217;s not an AI clone](https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy)
- - [Nvidia announces NemoClaw, which combines the OpenClaw agent platform with components of Nvidia&#39;s Agent Toolkit to add privacy and security controls &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/260316/p36#a260316p36)
- - [Nvidia unveils a server rack with 256 Vera CPUs, with each CPU featuring 88 custom Olympus cores and LPDDR5X memory for up to 1.2 TB/s of bandwidth &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/260316/p35#a260316p35)
- - [Nvidia says China’s BYD and Geely will use its robotaxi platform](https://www.theverge.com/tech/895301/nvidia-robotaxi-byd-geely-hyperion-lyft-halos)
- - [I met Olaf — the Frozen robot who might be the future of Disney Parks](https://www.theverge.com/tech/895369/olaf-disney-imagineering-frozen-robot-up-close)<!-- TECH:END -->
+ - [Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off](https://www.theverge.com/gadgets/895458/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-amazon-big-spring-sale-deal-2026)
+ - [Nvidia says BYD, Geely, Isuzu, and Nissan will use its Drive Hyperion AV platform, and that Uber will launch Hyperion-powered robotaxis across 28 cities by 2028 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260316/p39#a260316p39)
+ - [Nvidia unveils Space-1 Vera Rubin for orbital data centers, saying its GPU delivers up to 25x more AI compute for space-based inferencing compared to the H100 &lpar;Sebastian Moss/DatacenterDynamics&rpar;](http://www.techmeme.com/260316/p38#a260316p38)
+ - [US startup Reflection AI is working with South Korea&#39;s Shinsegae Group to build a 250MW data center in South Korea, sources say in a several-billion-dollar deal &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p37#a260316p37)
+ - [File Your Taxes With TurboTax Full Service Now Before Prices Go Up](https://www.wired.com/story/turbotax-deal-326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

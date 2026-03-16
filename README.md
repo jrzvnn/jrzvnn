@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn reports Q4 revenue up 22% YoY to ~$81B, net profit down 2% YoY to ~$1.4B, below ~$1.9B est., due to a higher tax expense, and a 5.9% gross profit margin &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p12#a260316p12)
- - [These Musical Instruments of the Future Sound Weird, Wacky—and Are Easy for Anyone to Play](https://www.wired.com/story/georgia-tech-guthman-musical-instrument-competition-2026/)
- - [My fitness tracker is a secret weapon against my chronic illness](https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop)
- - [Samsung Galaxy S26 Ultra review: Privacy Display works well, meaningful camera upgrades, and sleeker than S25 Ultra, but still huge, expensive, and lacks Qi2 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260316/p11#a260316p11)
- - [Wall Street Is Already Betting on Prediction Markets](https://www.wired.com/story/prediction-markets-find-a-welcome-on-wall-street/)<!-- TECH:END -->
+ - [&#39;F1: the Movie&#39; is now an Oscar-winning hit](https://appleinsider.com/articles/26/03/16/f1-the-movie-is-now-an-oscar-winning-hit?utm_source=rss)
+ - [Memo: Alibaba unveils Alibaba Token Hub, a new AI unit that consolidates research, consumer-facing apps, AI products, and more, as it focuses on monetizing AI &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260316/p16#a260316p16)
+ - [COBOL Is the Asbestos of Programming Languages](https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/)
+ - [Sources: OpenAI faced intense backlash from its advisory council over a planned ChatGPT &quot;adult mode&quot;, delayed earlier in March due to technical and other issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260316/p15#a260316p15)
+ - [How tech billionaires are turning on the Giving Pledge, promoted by Bill Gates and Warren Buffett; Peter Thiel says he privately told ~12 signers to undo it &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260316/p14#a260316p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

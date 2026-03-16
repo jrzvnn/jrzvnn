@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
- - 😝 [Men are truly oblivious](http://9gag.com/gag/aPAqjEB)
- - 💣 [Tomb Raider](http://9gag.com/gag/ae9BMbm)
- - 😝 [Ballas](http://9gag.com/gag/a9yGpvo)
- - 👉 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)<!-- MEMES:END -->
+ - 😝 [Where ze Germans heading?](http://9gag.com/gag/an7obmE)
+ - 😝 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - 💣 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
+ - 😝 [How do you get there?](http://9gag.com/gag/aLnEjrg)
+ - 👉 [Let a guy have hobbies](http://9gag.com/gag/aqyEbqZ)<!-- MEMES:END -->
 
 ---
 

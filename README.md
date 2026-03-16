@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple at 50: Mike Markkula, Apple&#39;s second CEO was as important as Steve Jobs](https://appleinsider.com/articles/26/03/13/apple-at-50-mike-markkula-apples-second-ceo-was-as-important-as-steve-jobs?utm_source=rss)
- - [OpenAI&amp;#8217;s adult mode will reportedly be smutty, not pornographic](https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica)
- - [GovAI and Brookings: many of the people most at risk if AI transforms work are also the best placed to find new jobs, as researchers disagree over AI&#39;s impact &lpar;Washington Post&rpar;](http://www.techmeme.com/260316/p17#a260316p17)
- - [&#39;F1: the Movie&#39; is now an Oscar-winning hit](https://appleinsider.com/articles/26/03/16/f1-the-movie-is-now-an-oscar-winning-hit?utm_source=rss)
- - [Memo: Alibaba unveils Alibaba Token Hub, a new AI unit that consolidates research, consumer-facing apps, AI products, and more, as it focuses on monetizing AI &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260316/p16#a260316p16)<!-- TECH:END -->
+ - [This is not a fly uploaded to a computer](https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload)
+ - [iPhone 17e review: Welcome improvements at Apple&#39;s lower-end](https://appleinsider.com/articles/26/03/16/iphone-17e-review-welcome-improvements-at-apples-lower-end?utm_source=rss)
+ - [The story about how the third Apple founder sold out for $800 isn&#39;t quite right](https://appleinsider.com/articles/26/03/16/the-story-about-how-the-third-apple-founder-sold-out-for-800-isnt-quite-right?utm_source=rss)
+ - [Chip cooling startup Frore, which designs channels that conduct liquid coolant in 3D shapes unique to each chip, raised $143M led by MVP at a $1.64B valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260316/p18#a260316p18)
+ - [Meta Explained Its Smart Glasses AI Privacy Policies to Me. I&#39;m Still Worried](https://www.cnet.com/tech/services-and-software/meta-ray-ban-smart-glasses-ai-privacy-policy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

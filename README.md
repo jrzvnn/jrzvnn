@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos finally returns to hardware with Jennifer Tuohy on Smart Home Insider](https://appleinsider.com/articles/26/03/16/sonos-finally-returns-to-hardware-with-jennifer-tuohy-on-smart-home-insider?utm_source=rss)
- - [Sony&amp;#8217;s AI graphics upscaling for PS5 Pro games is getting a big update tonight](https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill)
- - [A livestream of Jensen Huang&#39;s Nvidia GTC 2026 keynote at the SAP Center in San Jose, California &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/260316/p30#a260316p30)
- - [Digital asset wealth management platform Abra plans to go public on Nasdaq via a SPAC merger with New Providence at a $750M pre-money valuation &lpar;Stacy Jones/Decrypt&rpar;](http://www.techmeme.com/260316/p29#a260316p29)
- - [Amazon drops Apple&#39;s iPad 11 to $299 with March markdowns](https://appleinsider.com/articles/26/03/16/amazon-drops-apples-ipad-11-to-299-with-march-markdowns?utm_source=rss)<!-- TECH:END -->
+ - [Jensen Huang says Nvidia expects to generate $1T+ from its Blackwell and Rubin chips through the end of 2027, after previously forecasting $500B by 2026&#39;s end &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260316/p32#a260316p32)
+ - [Nvidia unveils DLSS 5, which uses a real-time neural rendering model to add photorealistic lighting to game frames, arriving this fall to RTX 50-series GPUs &lpar;Richard Leadbetter/Digital Foundry&rpar;](http://www.techmeme.com/260316/p31#a260316p31)
+ - [Save Almost 20 Percent On Our Favorite Portable Bluetooth Speaker](https://www.wired.com/story/tribit-stormbox-miniplus-deal-326/)
+ - [MacBook Neo can be modded to run faster, but you probably shouldn&#39;t](https://appleinsider.com/articles/26/03/16/macbook-neo-can-be-modded-to-run-faster-but-you-probably-shouldnt?utm_source=rss)
+ - [Sonos finally returns to hardware with Jennifer Tuohy on Smart Home Insider](https://appleinsider.com/articles/26/03/16/sonos-finally-returns-to-hardware-with-jennifer-tuohy-on-smart-home-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

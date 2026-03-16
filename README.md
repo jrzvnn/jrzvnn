@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off](https://www.theverge.com/gadgets/895458/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-amazon-big-spring-sale-deal-2026)
- - [Nvidia says BYD, Geely, Isuzu, and Nissan will use its Drive Hyperion AV platform, and that Uber will launch Hyperion-powered robotaxis across 28 cities by 2028 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260316/p39#a260316p39)
- - [Nvidia unveils Space-1 Vera Rubin for orbital data centers, saying its GPU delivers up to 25x more AI compute for space-based inferencing compared to the H100 &lpar;Sebastian Moss/DatacenterDynamics&rpar;](http://www.techmeme.com/260316/p38#a260316p38)
- - [US startup Reflection AI is working with South Korea&#39;s Shinsegae Group to build a 250MW data center in South Korea, sources say in a several-billion-dollar deal &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p37#a260316p37)
- - [File Your Taxes With TurboTax Full Service Now Before Prices Go Up](https://www.wired.com/story/turbotax-deal-326/)<!-- TECH:END -->
+ - [DLSS 5 looks like a real-time generative AI filter for video games](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)
+ - [Manus introduces My Computer, a desktop application that enables its AI agent to interact directly with the user&#39;s local files, tools, and applications &lpar;Manus&rpar;](http://www.techmeme.com/260316/p41#a260316p41)
+ - [Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM](https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk)
+ - [Roche says it has deployed 3,500+ Nvidia Blackwell GPUs, which it calls &quot;the greatest announced GPU footprint available to a pharmaceutical company&quot; &lpar;Sebastian Moss/DatacenterDynamics&rpar;](http://www.techmeme.com/260316/p40#a260316p40)
+ - [Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off](https://www.theverge.com/gadgets/895458/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-amazon-big-spring-sale-deal-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

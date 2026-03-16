@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coco-M\u00f8r: why the French don&#39;t like to speak English](http://9gag.com/gag/amoZ2Mv)
- - 😝 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)
+ - 😝 [How do you get there?](http://9gag.com/gag/aLnEjrg)
+ - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
  - 💣 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 😝 [They just destroyed the Iranian C130 and this comment is gold.](http://9gag.com/gag/aryLoRp)
- - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
+ - 😝 [Years ago I shared my excitement of being one month sober from alcohol with all of you. Today I just wanted let you guys know I didn&#39;t give up and I changed my life. I even became a dad! I will be 6 years sober next month.](http://9gag.com/gag/aVv63Lw)
+ - 👉 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)<!-- MEMES:END -->
 
 ---
 

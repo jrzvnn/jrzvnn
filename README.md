@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Encyclopedia Britannica and its Merriam-Webster subsidiary sue OpenAI for allegedly misusing their reference materials to train its AI models &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260316/p24#a260316p24)
- - [Liquid Glass is divisive now, but Apple knows where it&#39;s going](https://appleinsider.com/articles/26/03/16/liquid-glass-is-divisive-now-but-apple-knows-where-its-going?utm_source=rss)
- - [Amazon’s best Echo speakers and screens just got their biggest discounts](https://www.theverge.com/gadgets/895201/echo-show-dot-max-studio-amazon-apple-watch-ultra-deal-sale)
- - [Yahoo CEO Jim Lanzone on reviving the web&amp;#8217;s homepage](https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web)
- - [This chair gives half-worn clothes a home](https://www.theverge.com/tech/895194/laundry-chair-kickstarter-simone-giertz)<!-- TECH:END -->
+ - [MotionVFX acquisition hints at new Final Cut Pro features on iPad](https://appleinsider.com/articles/26/03/16/motionvfx-acquisition-hints-at-new-final-cut-pro-features-on-ipad?utm_source=rss)
+ - [Apple acquires MotionVFX, a Polish company that develops plugins, visual effects, and motion graphics tools for Final Cut Pro &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/260316/p26#a260316p26)
+ - [Apple is the TCS London Marathon Official Performance Technology Product Partner](https://appleinsider.com/articles/26/03/16/apple-is-the-tcs-london-marathon-official-performance-technology-product-partner?utm_source=rss)
+ - [Halcyon, which uses AI to aggregate documents from public utility commissions, energy regulators, and more, raised a $21M Series A led by Energize Capital &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/260316/p25#a260316p25)
+ - [AirPods Max 2 vs AirPods Max: Premium personal audio compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-2-vs-airpods-max-premium-personal-audio-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

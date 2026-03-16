@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
+ - 😝 [Coco-M\u00f8r: why the French don&#39;t like to speak English](http://9gag.com/gag/amoZ2Mv)
  - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
- - 💣 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 😝 [Years ago I shared my excitement of being one month sober from alcohol with all of you. Today I just wanted let you guys know I didn&#39;t give up and I changed my life. I even became a dad! I will be 6 years sober next month.](http://9gag.com/gag/aVv63Lw)
+ - 💣 [Hemp](http://9gag.com/gag/abA8M4O)
+ - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
  - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
 
 ---

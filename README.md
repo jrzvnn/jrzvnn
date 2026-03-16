@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
+ - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
  - 😝 [Still miss it](http://9gag.com/gag/avyjGwO)
- - 💣 [It&#39;s a truly expensive hobby.](http://9gag.com/gag/abA8zR8)
- - 😝 [Years ago I shared my excitement of being one month sober from alcohol with all of you. Today I just wanted let you guys know I didn&#39;t give up and I changed my life. I even became a dad! I will be 6 years sober next month.](http://9gag.com/gag/aVv63Lw)
- - 👉 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)<!-- MEMES:END -->
+ - 💣 [Where ze Germans heading?](http://9gag.com/gag/an7obmE)
+ - 😝 [Let a guy have hobbies](http://9gag.com/gag/aqyEbqZ)
+ - 👉 [It&#39;s a truly expensive hobby.](http://9gag.com/gag/abA8zR8)<!-- MEMES:END -->
 
 ---
 

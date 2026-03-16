@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple at 50: Mike Markkula, Apple&#39;s second CEO was as important as Steve Jobs](https://appleinsider.com/articles/26/03/13/apple-at-50-mike-markkula-apples-second-ceo-was-as-important-as-steve-jobs?utm_source=rss)
+ - [OpenAI&amp;#8217;s adult mode will reportedly be smutty, not pornographic](https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica)
+ - [GovAI and Brookings: many of the people most at risk if AI transforms work are also the best placed to find new jobs, as researchers disagree over AI&#39;s impact &lpar;Washington Post&rpar;](http://www.techmeme.com/260316/p17#a260316p17)
  - [&#39;F1: the Movie&#39; is now an Oscar-winning hit](https://appleinsider.com/articles/26/03/16/f1-the-movie-is-now-an-oscar-winning-hit?utm_source=rss)
- - [Memo: Alibaba unveils Alibaba Token Hub, a new AI unit that consolidates research, consumer-facing apps, AI products, and more, as it focuses on monetizing AI &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260316/p16#a260316p16)
- - [COBOL Is the Asbestos of Programming Languages](https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/)
- - [Sources: OpenAI faced intense backlash from its advisory council over a planned ChatGPT &quot;adult mode&quot;, delayed earlier in March due to technical and other issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260316/p15#a260316p15)
- - [How tech billionaires are turning on the Giving Pledge, promoted by Bill Gates and Warren Buffett; Peter Thiel says he privately told ~12 signers to undo it &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260316/p14#a260316p14)<!-- TECH:END -->
+ - [Memo: Alibaba unveils Alibaba Token Hub, a new AI unit that consolidates research, consumer-facing apps, AI products, and more, as it focuses on monetizing AI &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260316/p16#a260316p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

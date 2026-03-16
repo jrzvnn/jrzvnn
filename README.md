@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JD.com launches online marketplace Joybuy in the UK, Germany, France, the Netherlands, Belgium, and Luxembourg, as it expands globally to challenge Amazon &lpar;Reuters&rpar;](http://www.techmeme.com/260315/p12#a260315p12)
- - [Q&amp;A with Waymo co-CEO Tekedra Mawakana on accidents, why autonomous vehicles won&#39;t lead to job losses, plans to license Waymo tech to other companies, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/260315/p11#a260315p11)
- - [Standard Kernel, which is making AI-powered GPU optimization software, raised a $20M seed led by Jump Capital, with General Catalyst and others participating &lpar;Clinton Nwachukwu/Ventureburn&rpar;](http://www.techmeme.com/260315/p10#a260315p10)
- - [Recovered notes from a lobbyist&#39;s phone outline a $5M payment structure tied to Argentine President Milei and other top officials&#39; promotion of the Libra token &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260315/p9#a260315p9)
- - [Intellexa&#39;s founder says his firm sells surveillance tech exclusively to governments, reviving claims of state spying in Greece after being sentenced last month &lpar;Eliza Triantafillou/OCCRP&rpar;](http://www.techmeme.com/260315/p8#a260315p8)<!-- TECH:END -->
+ - [Sources: Microsoft sidelined some Copilot-branded AI features on Windows 11 after the Recall delay, and shipped some promised features without the Copilot name &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260316/p4#a260316p4)
+ - [Reliz Ltd., which operates crypto lender BlockFills, files for Chapter 11 bankruptcy, reporting $50M-$100M in estimated assets and $100M-$500M in liabilities &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/260316/p3#a260316p3)
+ - [These 15 Amazon Spring Sale Tech Deals Are Actually Good. WWe Checked the Price History  &lpar;2026&rpar;](https://www.wired.com/story/amazon-spring-sale-2026/)
+ - [Google&#39;s and Accel&#39;s joint AI startup accelerator Atoms picked five Indian startups from 4K+ applications, saying ~70% of rejected applicants were AI &quot;wrappers&quot; &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260316/p2#a260316p2)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 16, #539](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-16-539/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where ze Germans heading?](http://9gag.com/gag/an7obmE)
- - 😝 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
- - 💣 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
+ - 😝 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
  - 😝 [How do you get there?](http://9gag.com/gag/aLnEjrg)
- - 👉 [Let a guy have hobbies](http://9gag.com/gag/aqyEbqZ)<!-- MEMES:END -->
+ - 💣 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
+ - 😝 [Missed opportunity.](http://9gag.com/gag/ayNKBqW)
+ - 👉 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)<!-- MEMES:END -->
 
 ---
 

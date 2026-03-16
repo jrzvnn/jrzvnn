@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 5 reaches the end of the line as Apple declares it obsolete](https://appleinsider.com/articles/26/03/16/iphone-5-reaches-the-end-of-the-line-as-apple-declares-it-obsolete?utm_source=rss)
- - [Nvidia announces the Nvidia Groq 3 LPX, an inference server rack featuring 256 Groq 3 LPUs and 128GB of on-chip SRAM, available in H2 2026 &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/260316/p33#a260316p33)
- - [Jensen Huang says Nvidia expects to generate $1T+ from its Blackwell and Rubin chips through the end of 2027, after previously forecasting $500B by 2026&#39;s end &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260316/p32#a260316p32)
- - [Nvidia unveils DLSS 5, which uses a real-time neural rendering model to add photorealistic lighting to game frames, arriving this fall to RTX 50-series GPUs &lpar;Richard Leadbetter/Digital Foundry&rpar;](http://www.techmeme.com/260316/p31#a260316p31)
- - [Save Almost 20 Percent On Our Favorite Portable Bluetooth Speaker](https://www.wired.com/story/tribit-stormbox-miniplus-deal-326/)<!-- TECH:END -->
+ - [Benjamin Netanyahu is struggling to prove he&amp;#8217;s not an AI clone](https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy)
+ - [Nvidia announces NemoClaw, which combines the OpenClaw agent platform with components of Nvidia&#39;s Agent Toolkit to add privacy and security controls &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/260316/p36#a260316p36)
+ - [Nvidia unveils a server rack with 256 Vera CPUs, with each CPU featuring 88 custom Olympus cores and LPDDR5X memory for up to 1.2 TB/s of bandwidth &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/260316/p35#a260316p35)
+ - [Nvidia says China’s BYD and Geely will use its robotaxi platform](https://www.theverge.com/tech/895301/nvidia-robotaxi-byd-geely-hyperion-lyft-halos)
+ - [I met Olaf — the Frozen robot who might be the future of Disney Parks](https://www.theverge.com/tech/895369/olaf-disney-imagineering-frozen-robot-up-close)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MotionVFX acquisition hints at new Final Cut Pro features on iPad](https://appleinsider.com/articles/26/03/16/motionvfx-acquisition-hints-at-new-final-cut-pro-features-on-ipad?utm_source=rss)
- - [Apple acquires MotionVFX, a Polish company that develops plugins, visual effects, and motion graphics tools for Final Cut Pro &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/260316/p26#a260316p26)
- - [Apple is the TCS London Marathon Official Performance Technology Product Partner](https://appleinsider.com/articles/26/03/16/apple-is-the-tcs-london-marathon-official-performance-technology-product-partner?utm_source=rss)
- - [Halcyon, which uses AI to aggregate documents from public utility commissions, energy regulators, and more, raised a $21M Series A led by Energize Capital &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/260316/p25#a260316p25)
- - [AirPods Max 2 vs AirPods Max: Premium personal audio compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-2-vs-airpods-max-premium-personal-audio-compared?utm_source=rss)<!-- TECH:END -->
+ - [Digital asset wealth management platform Abra plans to go public on Nasdaq via a SPAC merger with New Providence at a $750M pre-money valuation &lpar;Stacy Jones/Decrypt&rpar;](http://www.techmeme.com/260316/p29#a260316p29)
+ - [Amazon drops Apple&#39;s iPad 11 to $299 with March markdowns](https://appleinsider.com/articles/26/03/16/amazon-drops-apples-ipad-11-to-299-with-march-markdowns?utm_source=rss)
+ - [A group of Tennessee teenagers sues xAI, alleging its AI tools were used to create nude images of them by editing photos in which they were clothed &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/260316/p28#a260316p28)
+ - [JBL’s Best Wireless Headphones Are $170 Off at Walmart](https://www.wired.com/story/jbl-tour-one-m3-headphones-deal-326/)
+ - [Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT](https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

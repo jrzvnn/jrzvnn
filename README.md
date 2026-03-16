@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As AI models commodify, Apple&#39;s plans to spend just $14B on 2026 capex, far below hyperscalers&#39; combined $650B, or 90%+ of their cash flow, may be a genius move &lpar;Horace Dediu/Asymco&rpar;](http://www.techmeme.com/260316/p8#a260316p8)
  - [Sources: Hua Hong is readying a 7nm process at its Shanghai fab with Huawei&#39;s collaboration, which would make it China&#39;s second chipmaker at the node after SMIC &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260316/p7#a260316p7)
  - [Sources: Alibaba may unveil a Qwen-based AI agent for enterprises as soon as this week, and plans to gradually integrate the agent into its services like Alipay &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260316/p6#a260316p6)
  - [Spotify announces Taste Profile editing in beta, the first time it lets users fine-tune the recommendation algorithm, starting with Premium users in New Zealand &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260316/p5#a260316p5)
- - [Sources: Microsoft cut plans to add some Copilot AI features to Windows 11 and shipped some tools without the Copilot branding, to reduce AI bloat in the OS &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260316/p4#a260316p4)
- - [Reliz Ltd., which operates crypto lender BlockFills, files for Chapter 11 bankruptcy, reporting $50M-$100M in estimated assets and $100M-$500M in liabilities &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/260316/p3#a260316p3)<!-- TECH:END -->
+ - [Sources: Microsoft cut plans to add some Copilot AI features to Windows 11 and shipped some tools without the Copilot branding, to reduce AI bloat in the OS &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260316/p4#a260316p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

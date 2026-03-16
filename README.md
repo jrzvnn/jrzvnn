@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia announces the Nemotron Coalition, which includes Thinking Machines Lab, Cursor, and Mistral and will develop an open model trained on Nvidia DGX Cloud &lpar;Sebastian Moss/DatacenterDynamics&rpar;](http://www.techmeme.com/260316/p44#a260316p44)
+ - [Nscale acquires American Intelligence &amp; Power, which owns a 2,250-acre data center campus in West Virginia, where it plans to build up to 8GW of compute by 2031 &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p43#a260316p43)
+ - [Austin-based Ironlight, which is building a regulated marketplace for tokenized securities, raised a $21M Series A; its platform received FINRA approval in 2025 &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260316/p42#a260316p42)
  - [DLSS 5 looks like a real-time generative AI filter for video games](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)
- - [Manus introduces My Computer, a desktop application that enables its AI agent to interact directly with the user&#39;s local files, tools, and applications &lpar;Manus&rpar;](http://www.techmeme.com/260316/p41#a260316p41)
- - [Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM](https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk)
- - [Roche says it has deployed 3,500+ Nvidia Blackwell GPUs, which it calls &quot;the greatest announced GPU footprint available to a pharmaceutical company&quot; &lpar;Sebastian Moss/DatacenterDynamics&rpar;](http://www.techmeme.com/260316/p40#a260316p40)
- - [Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off](https://www.theverge.com/gadgets/895458/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-amazon-big-spring-sale-deal-2026)<!-- TECH:END -->
+ - [Manus introduces My Computer, a desktop application that enables its AI agent to interact directly with the user&#39;s local files, tools, and applications &lpar;Manus&rpar;](http://www.techmeme.com/260316/p41#a260316p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

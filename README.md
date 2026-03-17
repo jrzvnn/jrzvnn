@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
+ - 😝 [Girl has a dream](http://9gag.com/gag/a87goZ3)
  - 😝 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
- - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - 💣 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)
  - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
- - 👉 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)<!-- MEMES:END -->
+ - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 ---
 

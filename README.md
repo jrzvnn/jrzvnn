@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
- - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 💣 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
- - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
- - 👉 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)<!-- MEMES:END -->
+ - 😝 [29 years of marriage and he just walks away](http://9gag.com/gag/aLnEgw5)
+ - 😝 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
+ - 💣 [Nokia](http://9gag.com/gag/apRM5g9)
+ - 😝 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
+ - 👉 [Gainz](http://9gag.com/gag/amoZ71j)<!-- MEMES:END -->
 
 ---
 

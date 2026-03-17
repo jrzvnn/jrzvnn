@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s Wordle Hints, Answer and Help for March 17, #1732](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-17-1732/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 17, #1010](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-17-1010/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 17 #744](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-17-744/)
- - [Samsung says it is winding down sales of its $2,899 Galaxy Z TriFold in South Korea and the US once it clears inventory, after just three months on the market &lpar;Bloomberg&rpar;](http://www.techmeme.com/260317/p5#a260317p5)
- - [Hands on with Aqara’s new Matter-compatible camera](https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review)<!-- TECH:END -->
+ - [SK Group Chair Chey Tae-won says memory chip makers are expanding capacity but are unlikely to match demand until around 2030; basic wafer supply lags by 20%+ &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260317/p10#a260317p10)
+ - [Leaving civilization is now easier with this ‘off-grid utility core’](https://www.theverge.com/tech/895836/klumpen-off-grid-utilities-for-cabins)
+ - [Q&amp;A with Ted Sarandos on his visit to Brussels, Netflix&#39;s European investments, EU regulation, YouTube, TikTok, WBD, Trump&#39;s Susan Rice criticism, AI, and more &lpar;Carrie Budoff Brown/Politico&rpar;](http://www.techmeme.com/260317/p9#a260317p9)
+ - [The UK plans to spend £1B+ on quantum computing research over four years, including funding companies in pharmaceuticals, financial services, and energy &lpar;Mia Dawkins/Bloomberg&rpar;](http://www.techmeme.com/260317/p8#a260317p8)
+ - [Two Literal Crypto Bros Built a Real Estate Empire. Then the Homes Started to Fall Apart](https://www.wired.com/story/crypto-bros-built-a-real-estate-empire-then-the-homes-started-to-fall-apart/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

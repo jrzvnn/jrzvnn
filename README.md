@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you get there?](http://9gag.com/gag/aLnEjrg)
  - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 💣 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
+ - 😝 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
+ - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
  - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
- - 👉 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)<!-- MEMES:END -->
+ - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
 
 ---
 

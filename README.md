@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl has a dream](http://9gag.com/gag/a87goZ3)
- - 😝 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
- - 💣 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)
- - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
- - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
+ - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
+ - 😝 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - 💣 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
+ - 😝 [Agreed](http://9gag.com/gag/aD2v4QN)
+ - 👉 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)<!-- MEMES:END -->
 
 ---
 

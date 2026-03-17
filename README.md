@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17e teardown shows you can switch most parts with an iPhone 16e](https://appleinsider.com/articles/26/03/17/iphone-17e-teardown-shows-you-can-switch-most-parts-with-an-iphone-16e?utm_source=rss)
- - [Remedy’s live-service shooter Firebreak is getting its final major update](https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy)
- - [Sources: China is penalizing people tied to Meta&#39;s $2B Manus acquisition, including by apparently restricting Manus executives from leaving China for Singapore &lpar;New York Times&rpar;](http://www.techmeme.com/260317/p38#a260317p38)
- - [Spotify adds &amp;#8216;Exclusive Mode&amp;#8217; audiophile feature for Windows PCs](https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows)
- - [At an all-hands, Andy Jassy said he expects AI to help AWS reach $600B in annual sales by 2036, double his prior estimate; AWS had revenue of $128.7B in 2025 &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260317/p37#a260317p37)<!-- TECH:END -->
+ - [I went to the Pentagon to watch Pete Hegseth scold war reporters](https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth)
+ - [The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale](https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026)
+ - [DoorDash Reservations Scored America’s Most Exclusive Restaurants](https://www.wired.com/story/doordash-reservations-exclusive-restaurants/)
+ - [Meta says Quest users will lose access to Meta Horizon Worlds on the headsets on June 15; access will continue on the Meta Horizon mobile app &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/260317/p41#a260317p41)
+ - [Apple&#39;s latest Background Security Improvement targets a WebKit flaw](https://appleinsider.com/articles/26/03/17/apples-latest-background-security-improvement-targets-a-webkit-flaw?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

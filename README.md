@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an all-hands meeting, Fidji Simo told OpenAI staff not to be distracted by &quot;side quests&quot; and said Anthropic&#39;s success should serve as a &quot;wake-up call&quot; &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p46#a260316p46)
- - [RoboForce, which is developing robotics systems to perform physically demanding industrial work, raised $52M led by YZi Labs, bringing its total funding to $67M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260316/p45#a260316p45)
- - [Death by Tariffs: Volvo Discontinuing Entry-Level EX30 EV in the US](https://www.cnet.com/roadshow/news/volvo-ex30-cross-country-discontinued-in-us-2026/)
- - [What Apple’s New Partnership Could Mean for Its Fitness Future](https://www.cnet.com/health/fitness/apple-tcs-london-marathon-2026-partnership/)
- - [3 Things From Nvidia GTC 2026 Keynote: NemoClaw, DLSS 5 and Vera CPU](https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/)<!-- TECH:END -->
+ - [A reporter details harassment and death threats from gamblers trying to win a Polymarket bet if he doesn&#39;t change his report on a missile impact in Israel &lpar;Emanuel Fabian/The Times of Israel&rpar;](http://www.techmeme.com/260316/p49#a260316p49)
+ - [AI Toys Can Pose Safety Concerns for Children, New Study Suggests Caution](https://www.cnet.com/tech/services-and-software/ai-toys-for-toddlers-study/)
+ - [Fuse, which offers AI-powered loan origination software to credit unions and other financial institutions, raised a $25M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260316/p48#a260316p48)
+ - [The Live Nation trial restarts with a &amp;#8216;velvet hammer&amp;#8217;](https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues)
+ - [How Disney Imagineering built an Olaf robot, set to arrive at Disneyland Paris this month, and taught it to move via reinforcement learning and simulation &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/260316/p47#a260316p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

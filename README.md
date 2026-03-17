@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A reporter details harassment and death threats from gamblers trying to win a Polymarket bet if he doesn&#39;t change his report on a missile impact in Israel &lpar;Emanuel Fabian/The Times of Israel&rpar;](http://www.techmeme.com/260316/p49#a260316p49)
+ - [Mistral releases Small 4, its first model to unify reasoning, multimodal, and coding capabilities of its flagship Magistral, Pixtral, and Devstral models &lpar;Mistral AI&rpar;](http://www.techmeme.com/260316/p50#a260316p50)
+ - [A reporter details harassment and death threats from gamblers who stand to win a Polymarket bet if he would change his report on a missile impact in Israel &lpar;Emanuel Fabian/The Times of Israel&rpar;](http://www.techmeme.com/260316/p49#a260316p49)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-17/)
  - [AI Toys Can Pose Safety Concerns for Children, New Study Suggests Caution](https://www.cnet.com/tech/services-and-software/ai-toys-for-toddlers-study/)
- - [Fuse, which offers AI-powered loan origination software to credit unions and other financial institutions, raised a $25M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260316/p48#a260316p48)
- - [The Live Nation trial restarts with a &amp;#8216;velvet hammer&amp;#8217;](https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues)
- - [How Disney Imagineering built an Olaf robot, set to arrive at Disneyland Paris this month, and taught it to move via reinforcement learning and simulation &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/260316/p47#a260316p47)<!-- TECH:END -->
+ - [Fuse, which offers AI-powered loan origination software to credit unions and other financial institutions, raised a $25M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260316/p48#a260316p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

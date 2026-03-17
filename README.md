@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stoopidity](http://9gag.com/gag/amoZ50o)
- - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - 😝 [Just try and act normal](http://9gag.com/gag/aQzjdvW)
- - 👉 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)<!-- MEMES:END -->
+ - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
+ - 💣 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)
+ - 😝 [Agreed](http://9gag.com/gag/aD2v4QN)
+ - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 ---
 

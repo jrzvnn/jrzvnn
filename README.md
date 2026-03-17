@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You.com appoints Saahil Jain as new CTO after co-founder Bryan McCann left to Anthropic; You.com, which began in consumer search, is targeting enterprise more &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/260317/p43#a260317p43)
  - [Mistral announces Mistral Forge to help enterprises build custom models actually trained on their own data, using Mistral open-weight models as a starting point &lpar;TechCrunch&rpar;](http://www.techmeme.com/260317/p42#a260317p42)
  - [Nvidia GTC: Catch Up on All the AI and Robotics News from Jensen Huang&#39;s Keynote](https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/)
  - [I went to the Pentagon to watch Pete Hegseth scold war reporters](https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth)
- - [FIFA Joins Forces With YouTube for World Cup 2026](https://www.cnet.com/tech/services-and-software/youtube-fifa-world-cup-2026/)
- - [The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale](https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026)<!-- TECH:END -->
+ - [FIFA Joins Forces With YouTube for World Cup 2026](https://www.cnet.com/tech/services-and-software/youtube-fifa-world-cup-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
- - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 💣 [How do you get there?](http://9gag.com/gag/aLnEjrg)
+ - 😝 [Hemp](http://9gag.com/gag/abA8M4O)
+ - 😝 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
+ - 💣 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)
  - 😝 [Such a lovely duo.](http://9gag.com/gag/aW4XEv6)
- - 👉 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)<!-- MEMES:END -->
+ - 👉 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)<!-- MEMES:END -->
 
 ---
 

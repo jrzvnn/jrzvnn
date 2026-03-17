@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mistral announces Mistral Forge to help enterprises build custom models actually trained on their own data, using Mistral open-weight models as a starting point &lpar;TechCrunch&rpar;](http://www.techmeme.com/260317/p42#a260317p42)
+ - [Nvidia GTC: Catch Up on All the AI and Robotics News from Jensen Huang&#39;s Keynote](https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/)
  - [I went to the Pentagon to watch Pete Hegseth scold war reporters](https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth)
- - [The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale](https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026)
- - [DoorDash Reservations Scored America’s Most Exclusive Restaurants](https://www.wired.com/story/doordash-reservations-exclusive-restaurants/)
- - [Meta says Quest users will lose access to Meta Horizon Worlds on the headsets on June 15; access will continue on the Meta Horizon mobile app &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/260317/p41#a260317p41)
- - [Apple&#39;s latest Background Security Improvement targets a WebKit flaw](https://appleinsider.com/articles/26/03/17/apples-latest-background-security-improvement-targets-a-webkit-flaw?utm_source=rss)<!-- TECH:END -->
+ - [FIFA Joins Forces With YouTube for World Cup 2026](https://www.cnet.com/tech/services-and-software/youtube-fifa-world-cup-2026/)
+ - [The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale](https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

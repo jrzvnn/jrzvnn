@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 😝 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - 💣 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
- - 😝 [Agreed](http://9gag.com/gag/aD2v4QN)
- - 👉 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)<!-- MEMES:END -->
+ - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 😝 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)
+ - 💣 [Funny that you can see which cat has hunter instincts, and which has the wild instincts of a potato](http://9gag.com/gag/aryLoNV)
+ - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
+ - 👉 [When two old guys mean the world to each other](http://9gag.com/gag/a34ORrm)<!-- MEMES:END -->
 
 ---
 

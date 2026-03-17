@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Group Chair Chey Tae-won says memory chip makers are expanding capacity but are unlikely to match demand until around 2030; basic wafer supply lags by 20%+ &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260317/p10#a260317p10)
- - [Leaving civilization is now easier with this ‘off-grid utility core’](https://www.theverge.com/tech/895836/klumpen-off-grid-utilities-for-cabins)
- - [Q&amp;A with Ted Sarandos on his visit to Brussels, Netflix&#39;s European investments, EU regulation, YouTube, TikTok, WBD, Trump&#39;s Susan Rice criticism, AI, and more &lpar;Carrie Budoff Brown/Politico&rpar;](http://www.techmeme.com/260317/p9#a260317p9)
- - [The UK plans to spend £1B+ on quantum computing research over four years, including funding companies in pharmaceuticals, financial services, and energy &lpar;Mia Dawkins/Bloomberg&rpar;](http://www.techmeme.com/260317/p8#a260317p8)
- - [Two Literal Crypto Bros Built a Real Estate Empire. Then the Homes Started to Fall Apart](https://www.wired.com/story/crypto-bros-built-a-real-estate-empire-then-the-homes-started-to-fall-apart/)<!-- TECH:END -->
+ - [Amazon begins three-hour deliveries in ~2K US cities and towns and one-hour deliveries in hundreds of those areas, after 2025 pilots; 90K+ products are eligible &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260317/p14#a260317p14)
+ - [Sources: Google is in talks with Envicool and other Chinese companies about buying data center liquid cooling equipment, amid a tight supply of such parts &lpar;Reuters&rpar;](http://www.techmeme.com/260317/p13#a260317p13)
+ - [What Are Gravel Running Shoes? &lpar;2026&rpar;](https://www.wired.com/story/what-are-gravel-running-shoes/)
+ - [How Invisalign Became the World’s Biggest User of 3D Printers](https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/)
+ - [Gecko Robotics secures a $71M US Navy contract to use robots to slash repair time for dated ships, as the US races to reindustrialize its aging defense systems &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260317/p12#a260317p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

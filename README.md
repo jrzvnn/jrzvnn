@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17e teardown shows you can switch most parts with an iPhone 16e](https://appleinsider.com/articles/26/03/17/iphone-17e-teardown-shows-you-can-switch-most-parts-with-an-iphone-16e?utm_source=rss)
  - [Remedy’s live-service shooter Firebreak is getting its final major update](https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy)
  - [Sources: China is penalizing people tied to Meta&#39;s $2B Manus acquisition, including by apparently restricting Manus executives from leaving China for Singapore &lpar;New York Times&rpar;](http://www.techmeme.com/260317/p38#a260317p38)
  - [Spotify adds &amp;#8216;Exclusive Mode&amp;#8217; audiophile feature for Windows PCs](https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows)
- - [At an all-hands, Andy Jassy said he expects AI to help AWS reach $600B in annual sales by 2036, double his prior estimate; AWS had revenue of $128.7B in 2025 &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260317/p37#a260317p37)
- - [Ikea tried to build a smart home for everyone — here&amp;#8217;s why it&amp;#8217;s not working yet](https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems)<!-- TECH:END -->
+ - [At an all-hands, Andy Jassy said he expects AI to help AWS reach $600B in annual sales by 2036, double his prior estimate; AWS had revenue of $128.7B in 2025 &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260317/p37#a260317p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

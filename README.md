@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 😝 [Imagine getting this call seven years later](http://9gag.com/gag/a87g8r1)
+ - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
  - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
  - 😝 [This doctor absolutely bodied UnitedHealthcare](http://9gag.com/gag/agme5jr)
  - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two more EVs for the trash heap: Volvo EX30 and Honda Prologue](https://www.theverge.com/transportation/895953/volvo-ex30-honda-prologue-ev-cancel)
- - [World launches AgentKit, a software development tool that enables sites to verify that a real human is behind the purchasing decisions of AI shopping agents &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260317/p28#a260317p28)
- - [Several Sonos audio products got their first 2026 discounts](https://www.theverge.com/gadgets/895370/sonos-speaker-headphone-arc-beam-roam-move-deal-sale)
- - [Microsoft appoints a new Copilot boss after AI leadership shakeup](https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial)
- - [The future of code is exciting and terrifying](https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast)<!-- TECH:END -->
+ - [Now everyone in the US is getting Google&amp;#8217;s personalized Gemini AI](https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence)
+ - [Google expands Personal Intelligence, which lets Gemini tailor its responses by connecting to Gmail and other Google services, from paid users to all US users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260317/p32#a260317p32)
+ - [Intel unveils the Core Ultra 200HX Plus CPUs for high-end gaming laptops, offering an Intel Binary Optimization Tool to improve native performance in some games &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/260317/p31#a260317p31)
+ - [Tim Cook denies imminent retirement rumors, &#39;can&#39;t imagine life without Apple&#39;](https://appleinsider.com/articles/26/03/17/tim-cook-denies-imminent-retirement-rumors-cant-imagine-life-without-apple?utm_source=rss)
+ - [Tel Aviv- and Seattle-based Native, which helps companies monitor security across cloud providers, emerges from stealth with an $11M seed and a $31M Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260317/p30#a260317p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

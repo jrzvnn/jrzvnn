@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now everyone in the US is getting Google&amp;#8217;s personalized Gemini AI](https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence)
- - [Google expands Personal Intelligence, which lets Gemini tailor its responses by connecting to Gmail and other Google services, from paid users to all US users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260317/p32#a260317p32)
- - [Intel unveils the Core Ultra 200HX Plus CPUs for high-end gaming laptops, offering an Intel Binary Optimization Tool to improve native performance in some games &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/260317/p31#a260317p31)
- - [Tim Cook denies imminent retirement rumors, &#39;can&#39;t imagine life without Apple&#39;](https://appleinsider.com/articles/26/03/17/tim-cook-denies-imminent-retirement-rumors-cant-imagine-life-without-apple?utm_source=rss)
- - [Tel Aviv- and Seattle-based Native, which helps companies monitor security across cloud providers, emerges from stealth with an $11M seed and a $31M Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260317/p30#a260317p30)<!-- TECH:END -->
+ - [Arizona sues Kalshi for allegedly operating an illegal gambling business and unlawfully facilitating betting on elections; Kalshi faces a similar suit in Nevada &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/260317/p34#a260317p34)
+ - [Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop](https://www.theverge.com/gadgets/895980/antigravity-a1-360-degree-drone-deal-amazon-big-spring-sale-2026)
+ - [OpenAI launches GPT-5.4 mini and nano, aimed at agents, coding, and multi-modal workflows, and offering near GPT-5.4-level performance at a much lower cost &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260317/p33#a260317p33)
+ - [The messiah rises in Dune: Part Three’s new trailer](https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date)
+ - [Dyson’s New PencilWash Is Here](https://www.wired.com/story/dyson-pencilwash-now-available/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

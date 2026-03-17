@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amsterdam-based Nebius plans to raise ~$3.75B in convertible debt to fund its data center expansion and to purchase customized AI chips, after its Meta deal &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260317/p16#a260317p16)
- - [Samsung discontinues its Galaxy Z TriFold after just three months](https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out)
- - [How Apple secures MacBook Neo&#39;s camera indicator without a hardware light](https://appleinsider.com/articles/26/03/17/how-apple-secures-macbook-neos-camera-indicator-without-a-hardware-light?utm_source=rss)
- - [Q&amp;A with Jensen Huang on Nvidia&#39;s CUDA core, reasoning and coding, CPUs&#39; role in accelerated computing, Groq, China and the doomers, Nvidia&#39;s nature, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260317/p15#a260317p15)
- - [Amazon begins three-hour deliveries in ~2K US cities and towns and one-hour deliveries in hundreds of those areas, after 2025 pilots; 90K+ products are eligible &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260317/p14#a260317p14)<!-- TECH:END -->
+ - [Poco’s first Pro Max phone earns the name with an 8,500mAh battery](https://www.theverge.com/tech/895884/poco-x8-pro-max-8500mah-battery-dynamic-rgb-lights-iron-man)
+ - [PayPal expands access to its PYUSD stablecoin from the US and UK to 70 countries in total, including new markets in Uganda, Colombia, Peru, and Malawi &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260317/p21#a260317p21)
+ - [I Clamp Every Accessory I Can to My Desk To Avoid Clutter, and You Should, Too](https://www.wired.com/story/you-should-be-mounting-everything-on-your-desk/)
+ - [Mastercard agrees to acquire UK-based stablecoin payments infrastructure startup BVNK for $1.8B, including $300M in contingent payments, set to close in 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/260317/p20#a260317p20)
+ - [Enterprise AI automation startup Standard Template Labs raised a $49M seed co-led by Iconiq and CRV, a source says at a $300M post-money valuation &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260317/p19#a260317p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

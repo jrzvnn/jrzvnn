@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Candex, which helps large companies pay small, one-time, or irregular vendors, raised a $40M Series C, bringing its total funding to more than $120M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260317/p36#a260317p36)
- - [NetBlocks and Kentik: Iran further restricted what little internet connectivity remained, in a bid to curb VPNs, ahead of the Festival of Fire tied to protests &lpar;Bloomberg&rpar;](http://www.techmeme.com/260317/p35#a260317p35)
- - [Nvidia&amp;#8217;s DLSS 5 is like motion smoothing for video games, but worse](https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing)
- - [MacBook Neo, MacBook Air, MacBook Pro: Which to buy in early 2026](https://appleinsider.com/articles/26/03/17/macbook-neo-macbook-air-macbook-pro-which-to-buy-in-early-2026?utm_source=rss)
- - [These Sonos Over-Ear Headphones Are $100 Off](https://www.wired.com/story/sonos-ace-deal-326/)<!-- TECH:END -->
+ - [Remedy’s live-service shooter Firebreak is getting its final major update](https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy)
+ - [Sources: China is penalizing people tied to Meta&#39;s $2B Manus acquisition, including by apparently restricting Manus executives from leaving China for Singapore &lpar;New York Times&rpar;](http://www.techmeme.com/260317/p38#a260317p38)
+ - [Spotify adds &amp;#8216;Exclusive Mode&amp;#8217; audiophile feature for Windows PCs](https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows)
+ - [At an all-hands, Andy Jassy said he expects AI to help AWS reach $600B in annual sales by 2036, double his prior estimate; AWS had revenue of $128.7B in 2025 &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260317/p37#a260317p37)
+ - [Ikea tried to build a smart home for everyone — here&amp;#8217;s why it&amp;#8217;s not working yet](https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

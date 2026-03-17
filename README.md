@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon begins three-hour deliveries in ~2K US cities and towns and one-hour deliveries in hundreds of those areas, after 2025 pilots; 90K+ products are eligible &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260317/p14#a260317p14)
- - [Sources: Google is in talks with Envicool and other Chinese companies about buying data center liquid cooling equipment, amid a tight supply of such parts &lpar;Reuters&rpar;](http://www.techmeme.com/260317/p13#a260317p13)
- - [What Are Gravel Running Shoes? &lpar;2026&rpar;](https://www.wired.com/story/what-are-gravel-running-shoes/)
- - [How Invisalign Became the World’s Biggest User of 3D Printers](https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/)
- - [Gecko Robotics secures a $71M US Navy contract to use robots to slash repair time for dated ships, as the US races to reindustrialize its aging defense systems &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260317/p12#a260317p12)<!-- TECH:END -->
+ - [Amsterdam-based Nebius plans to raise ~$3.75B in convertible debt to fund its data center expansion and to purchase customized AI chips, after its Meta deal &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260317/p16#a260317p16)
+ - [Samsung discontinues its Galaxy Z TriFold after just three months](https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out)
+ - [How Apple secures MacBook Neo&#39;s camera indicator without a hardware light](https://appleinsider.com/articles/26/03/17/how-apple-secures-macbook-neos-camera-indicator-without-a-hardware-light?utm_source=rss)
+ - [Q&amp;A with Jensen Huang on Nvidia&#39;s CUDA core, reasoning and coding, CPUs&#39; role in accelerated computing, Groq, China and the doomers, Nvidia&#39;s nature, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260317/p15#a260317p15)
+ - [Amazon begins three-hour deliveries in ~2K US cities and towns and one-hour deliveries in hundreds of those areas, after 2025 pilots; 90K+ products are eligible &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260317/p14#a260317p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

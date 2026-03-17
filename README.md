@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poco’s first Pro Max phone earns the name with an 8,500mAh battery](https://www.theverge.com/tech/895884/poco-x8-pro-max-8500mah-battery-dynamic-rgb-lights-iron-man)
- - [PayPal expands access to its PYUSD stablecoin from the US and UK to 70 countries in total, including new markets in Uganda, Colombia, Peru, and Malawi &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260317/p21#a260317p21)
- - [I Clamp Every Accessory I Can to My Desk To Avoid Clutter, and You Should, Too](https://www.wired.com/story/you-should-be-mounting-everything-on-your-desk/)
- - [Mastercard agrees to acquire UK-based stablecoin payments infrastructure startup BVNK for $1.8B, including $300M in contingent payments, set to close in 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/260317/p20#a260317p20)
- - [Enterprise AI automation startup Standard Template Labs raised a $49M seed co-led by Iconiq and CRV, a source says at a $300M post-money valuation &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260317/p19#a260317p19)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s new &amp;#8216;getitfast&amp;#8217; delivery page lists items you can have in 1 hour](https://www.theverge.com/tech/895940/amazon-1-hour-3-hour-delivery)
+ - [Nintendo Switch 2 update adds &amp;#8216;Handheld Boost Mode&amp;#8217; for original Switch games](https://www.theverge.com/games/895919/nintendo-switch-2-handheld-boost-mode-update)
+ - [App Store fees drop in China &amp; Beijing immediately asks for more](https://appleinsider.com/articles/26/03/17/app-store-fees-drop-in-china-beijing-immediately-asks-for-more?utm_source=rss)
+ - [Why Project Hail Mary’s creators were ‘scared’ about making the sci-fi adaptation](https://www.theverge.com/entertainment/895508/project-hail-mary-interview-andy-weir-drew-goddard)
+ - [Apple&#39;s next 50th anniversary concert is probably in China](https://appleinsider.com/articles/26/03/17/apples-next-50th-anniversary-concert-is-probably-in-china?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

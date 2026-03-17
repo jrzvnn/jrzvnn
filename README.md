@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arizona sues Kalshi for allegedly operating an illegal gambling business and unlawfully facilitating betting on elections; Kalshi faces a similar suit in Nevada &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/260317/p34#a260317p34)
- - [Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop](https://www.theverge.com/gadgets/895980/antigravity-a1-360-degree-drone-deal-amazon-big-spring-sale-2026)
- - [OpenAI launches GPT-5.4 mini and nano, aimed at agents, coding, and multi-modal workflows, and offering near GPT-5.4-level performance at a much lower cost &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260317/p33#a260317p33)
- - [The messiah rises in Dune: Part Three’s new trailer](https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date)
- - [Dyson’s New PencilWash Is Here](https://www.wired.com/story/dyson-pencilwash-now-available/)<!-- TECH:END -->
+ - [Candex, which helps large companies pay small, one-time, or irregular vendors, raised a $40M Series C, bringing its total funding to more than $120M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260317/p36#a260317p36)
+ - [NetBlocks and Kentik: Iran further restricted what little internet connectivity remained, in a bid to curb VPNs, ahead of the Festival of Fire tied to protests &lpar;Bloomberg&rpar;](http://www.techmeme.com/260317/p35#a260317p35)
+ - [Nvidia&amp;#8217;s DLSS 5 is like motion smoothing for video games, but worse](https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing)
+ - [MacBook Neo, MacBook Air, MacBook Pro: Which to buy in early 2026](https://appleinsider.com/articles/26/03/17/macbook-neo-macbook-air-macbook-pro-which-to-buy-in-early-2026?utm_source=rss)
+ - [These Sonos Over-Ear Headphones Are $100 Off](https://www.wired.com/story/sonos-ace-deal-326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

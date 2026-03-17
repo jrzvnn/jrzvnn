@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia is preparing to sell a version of Groq chips to the Chinese market that is expected to be available in May and will not be downgraded &lpar;Reuters&rpar;](http://www.techmeme.com/260317/p49#a260317p49)
+ - [Sources: a JPMorgan-led bank group halted a $5.3B debt deal for Qualtrics, whose existing $1.5B loan trades at 86 cents on the dollar, on weak investor interest &lpar;Bloomberg&rpar;](http://www.techmeme.com/260317/p48#a260317p48)
  - [Turquoise Health, which offers a healthcare pricing and payments platform, raised a $40M Series C led by Oak HC/FT, bringing its total funding to $95.3M &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/260317/p47#a260317p47)
  - [Apple Home hardware chief leaves for Oura](https://appleinsider.com/articles/26/03/17/apple-home-hardware-chief-leaves-for-oura?utm_source=rss)
- - [Brian Lynch, Apple&#39;s senior director in charge of home devices since 2022, leaves for Oura, a setback for a unit already contending with product delays &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260317/p46#a260317p46)
- - [An Argentine court ruled Polymarket lacked approval to operate and directed ISPs and app stores to restrict it; Polymarket is now unavailable in 30+ countries &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260317/p45#a260317p45)
- - [Meta Is Shutting Down Horizon Worlds on Meta Quest](https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/)<!-- TECH:END -->
+ - [Brian Lynch, Apple&#39;s senior director in charge of home devices since 2022, leaves for Oura, a setback for a unit already contending with product delays &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260317/p46#a260317p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 😝 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)
+ - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
  - 💣 [Relationship goals](http://9gag.com/gag/aW4XEYA)
  - 😝 [29 years of marriage and he just walks away](http://9gag.com/gag/aLnEgw5)
  - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&amp;#8217;s new &amp;#8216;getitfast&amp;#8217; delivery page lists items you can have in 1 hour](https://www.theverge.com/tech/895940/amazon-1-hour-3-hour-delivery)
- - [Nintendo Switch 2 update adds &amp;#8216;Handheld Boost Mode&amp;#8217; for original Switch games](https://www.theverge.com/games/895919/nintendo-switch-2-handheld-boost-mode-update)
- - [App Store fees drop in China &amp; Beijing immediately asks for more](https://appleinsider.com/articles/26/03/17/app-store-fees-drop-in-china-beijing-immediately-asks-for-more?utm_source=rss)
- - [Why Project Hail Mary’s creators were ‘scared’ about making the sci-fi adaptation](https://www.theverge.com/entertainment/895508/project-hail-mary-interview-andy-weir-drew-goddard)
- - [Apple&#39;s next 50th anniversary concert is probably in China](https://appleinsider.com/articles/26/03/17/apples-next-50th-anniversary-concert-is-probably-in-china?utm_source=rss)<!-- TECH:END -->
+ - [Two more EVs for the trash heap: Volvo EX30 and Honda Prologue](https://www.theverge.com/transportation/895953/volvo-ex30-honda-prologue-ev-cancel)
+ - [World launches AgentKit, a software development tool that enables sites to verify that a real human is behind the purchasing decisions of AI shopping agents &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260317/p28#a260317p28)
+ - [Several Sonos audio products got their first 2026 discounts](https://www.theverge.com/gadgets/895370/sonos-speaker-headphone-arc-beam-roam-move-deal-sale)
+ - [Microsoft appoints a new Copilot boss after AI leadership shakeup](https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial)
+ - [The future of code is exciting and terrifying](https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

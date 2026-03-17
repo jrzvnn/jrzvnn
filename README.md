@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you get there?](http://9gag.com/gag/aLnEjrg)
- - 😝 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
- - 💣 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)
- - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
+ - 😝 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
+ - 😝 [Nokia](http://9gag.com/gag/apRM5g9)
+ - 💣 [Gainz](http://9gag.com/gag/amoZ71j)
+ - 😝 [Someone just got schooled so hard](http://9gag.com/gag/aVv6wDM)
+ - 👉 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [29 years of marriage and he just walks away](http://9gag.com/gag/aLnEgw5)
- - 😝 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
- - 💣 [Nokia](http://9gag.com/gag/apRM5g9)
+ - 😝 [How do you get there?](http://9gag.com/gag/aLnEjrg)
  - 😝 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
- - 👉 [Gainz](http://9gag.com/gag/amoZ71j)<!-- MEMES:END -->
+ - 💣 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)
+ - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
+ - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 ---
 

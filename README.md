@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Stoopidity](http://9gag.com/gag/amoZ50o)
- - 😝 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - 💣 [Just try and act normal](http://9gag.com/gag/aQzjdvW)
- - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
+ - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
+ - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - 😝 [Just try and act normal](http://9gag.com/gag/aQzjdvW)
  - 👉 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)<!-- MEMES:END -->
 
 ---

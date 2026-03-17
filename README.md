@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - 😝 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)
- - 💣 [Funny that you can see which cat has hunter instincts, and which has the wild instincts of a potato](http://9gag.com/gag/aryLoNV)
- - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
- - 👉 [When two old guys mean the world to each other](http://9gag.com/gag/a34ORrm)<!-- MEMES:END -->
+ - 😝 [Stoopidity](http://9gag.com/gag/amoZ50o)
+ - 😝 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - 💣 [Just try and act normal](http://9gag.com/gag/aQzjdvW)
+ - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
+ - 👉 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with Aqara’s new Matter-compatible camera](https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review)
+ - [Q&amp;A with CEO Jim Lanzone on Yahoo being &quot;very profitable&quot;, its new AI search engine, focusing on sports content, including original video and podcasts, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260317/p4#a260317p4)
  - [Open models will largely lose if they keep chasing closed frontier AI models; instead, open models should serve as complementary tools to closed agents &lpar;Nathan Lambert/Interconnects AI&rpar;](http://www.techmeme.com/260317/p3#a260317p3)
  - [Nvidia says game developers have full &quot;artistic control over DLSS 5&#39;s effects&quot;, following backlash alleging that the AI rendering tech altered source material &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/260317/p2#a260317p2)
- - [Sam&#39;s Club Coupons and Deals: Save up to 60% in March 2026](https://www.wired.com/story/sams-club-coupon/)
- - [Expedia Coupons and Deals: Up to 75% Off Select Trips](https://www.wired.com/story/expedia-coupon/)
- - [Dermstore Promo Codes and Deals: Save Up to 25%](https://www.wired.com/story/dermstore-promo-code/)<!-- TECH:END -->
+ - [Sam&#39;s Club Coupons and Deals: Save up to 60% in March 2026](https://www.wired.com/story/sams-club-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

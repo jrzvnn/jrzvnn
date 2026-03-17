@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 😝 [What a 220V shock looks like. Happened in Brazil on live TV &lpar;structure was not grounded&rpar;](http://9gag.com/gag/azx31Qm)
  - 😝 [29 years of marriage and he just walks away](http://9gag.com/gag/aLnEgw5)
- - 💣 [Relationship goals](http://9gag.com/gag/aW4XEYA)
+ - 💣 [2010. L\u00e1szl\u00f3 Hanyecz, a Hungarian-born Florida programmer, used 10,000 bitcoins to buy two pizzas, the first known real-world purchase with cryptocurrency.](http://9gag.com/gag/aGyQgw0)
  - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
- - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
+ - 👉 [Relationship goals](http://9gag.com/gag/aW4XEYA)<!-- MEMES:END -->
 
 ---
 

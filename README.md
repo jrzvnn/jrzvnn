@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
  - 😝 [King of memes!](http://9gag.com/gag/aMVLZZP)
+ - 💣 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
  - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
- - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - 😝 [This doctor absolutely bodied UnitedHealthcare](http://9gag.com/gag/agme5jr)
- - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
+ - 👉 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)<!-- MEMES:END -->
 
 ---
 

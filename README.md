@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This severe and international iPhone hack is the best reason to update to iOS 26.3 yet](https://appleinsider.com/articles/26/03/18/this-severe-and-international-iphone-hack-is-the-best-reason-to-update-to-ios-263-yet?utm_source=rss)
- - [Israeli startup Raven, which offers runtime monitoring and intervention in attacks as they unfold inside applications, raised a $20M seed &lpar;CTech&rpar;](http://www.techmeme.com/260318/p35#a260318p35)
- - [Paraform, which connects tech companies with specialized recruiters, raised a $40M Series B led by Scale VP &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260318/p34#a260318p34)
- - [The best early Amazon Big Spring Sale deals you can get right now](https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026)
- - [The UK government withdraws a proposal to let AI companies train on copyrighted works, unless creators opt out, after a backlash from artists like Dua Lipa &lpar;Graham Fraser/BBC&rpar;](http://www.techmeme.com/260318/p33#a260318p33)<!-- TECH:END -->
+ - [Kasa’s Matter-compatible smart plugs are on sale for $11 a pop](https://www.theverge.com/gadgets/896899/kasa-smart-wi-fi-plug-slim-amazon-early-big-spring-sale-deal-sale)
+ - [Perplexity&#39;s Comet AI-powered browser arrives on iPhone with a new surfing paradigm](https://appleinsider.com/articles/26/03/18/perplexitys-comet-ai-powered-browser-arrives-on-iphone-with-a-new-surfing-paradigm?utm_source=rss)
+ - [Amazon is blowing out remaining Apple Watch Ultra 2 inventory at $499](https://appleinsider.com/articles/26/03/18/amazon-is-blowing-out-remaining-apple-watch-ultra-2-inventory-at-499?utm_source=rss)
+ - [Director Coerte Voorhees says he is using AI to feature Val Kilmer in &quot;a significant part&quot; in an indie film, with the cooperation of the late actor&#39;s estate &lpar;Brent Lang/Variety&rpar;](http://www.techmeme.com/260318/p40#a260318p40)
+ - [Facebook launches Creator Fast Track, offering big Instagram, TikTok and YouTube creators guaranteed monthly pay and boosted reach to post on Facebook &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/260318/p39#a260318p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta confirms a critical security incident after an internal rogue AI agent&#39;s actions led to the exposure of sensitive data to employees without authorization &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260318/p48#a260318p48)
  - [The FBI is buying Americans’ location data](https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant)
  - [Democratic voters in Illinois rejected most candidates supported by the crypto and AI industries, marking an unexpected defeat after industry PACs spent $18M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260318/p47#a260318p47)
  - [AI training lawsuit drags Apple in yet again for alleged use of pirated book dataset](https://appleinsider.com/articles/26/03/18/ai-training-lawsuit-drags-apple-in-yet-again-for-alleged-use-of-pirated-book-dataset?utm_source=rss)
- - [Micron reports Q2 revenue up 196% YoY to $23.9B, vs. $19.7B est., expects 2026 capex to exceed $25B, vs. $22.4B est., and forecasts Q3 revenue above estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260318/p46#a260318p46)
- - [Amazon doesn’t want the blame for the Post Office going under](https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out)<!-- TECH:END -->
+ - [Micron reports Q2 revenue up 196% YoY to $23.9B, vs. $19.7B est., expects 2026 capex to exceed $25B, vs. $22.4B est., and forecasts Q3 revenue above estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260318/p46#a260318p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

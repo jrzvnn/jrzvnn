@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Companies are starting to track employees&#39; AI token use and tallying the costs to measure their return on AI investments, and to prevent potential token abuse &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260317/p56#a260317p56)
- - [AI drone software company Swarmer closed up 520% in its Nasdaq debut, valuing it at $380M+; its tech has been deployed in 100K+ combat missions in Ukraine &lpar;Arvelisse Bonilla Ramos/Bloomberg&rpar;](http://www.techmeme.com/260317/p55#a260317p55)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-18/)
- - [Source: Beijing has approved multiple Chinese companies to purchase H200 chips from Nvidia; a Chinese spokesperson said they are &quot;not aware of specifics&quot; &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260317/p54#a260317p54)
- - [Do You Need to Upgrade Your MacBook Air? M5, M4, M3, M2, M1 Models Compared](https://www.cnet.com/tech/computing/macbook-air-upgrade-guide-m5-vs-m4-m3-m2-m1/)<!-- TECH:END -->
+ - [50% Off DoorDash Promo Code | March 2026](https://www.wired.com/story/doordash-promo-code/)
+ - [$20 Chewy Promo Code | March 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [NordVPN Coupons and Deals: 77% Off in March 2026](https://www.wired.com/story/nordvpn-coupon/)
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in March](https://www.wired.com/story/att-promo-code/)
+ - [The Linux Foundation announces $12.5M in total grants from Google and others to help FOSS maintainers cope with the influx of AI-generated security findings &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/260318/p4#a260318p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

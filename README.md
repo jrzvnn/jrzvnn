@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Quantum Leap for the Turing Award](https://www.wired.com/story/a-quantum-leap-for-the-turing-award/)
+ - [A mystery 1T-parameter AI model called Hunter Alpha, which appeared on OpenRouter on March 11, sparks speculation that DeepSeek is quietly testing its V4 model &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260318/p10#a260318p10)
+ - [Alibaba raises prices for its T-Head AI computing chips, including the Zhenwu 810E, by 5% to 34%, and its Cloud Parallel File Storage by 30%, after demand soars &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260318/p9#a260318p9)
  - [Founders are increasingly leasing multimillion-dollar mansions in San Francisco&#39;s wealthy neighborhoods as corporate HQs and hacker houses, amid the AI boom &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/260318/p8#a260318p8)
- - [Banks start offloading $18B debt tied to the $55B buyout of EA; sources say EA told potential investors AI could let gaming companies cut engineering workforces &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p7#a260318p7)
- - [The UK&#39;s FCA says Meta has repeatedly failed to stop illegal ads for high-risk financial products running on its platforms, despite committing to block them &lpar;Reuters&rpar;](http://www.techmeme.com/260318/p6#a260318p6)
- - [Sources: Microsoft weighs legal action against Amazon and OpenAI over whether AWS can offer OpenAI Frontier without breaching Microsoft-OpenAI agreement &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p5#a260318p5)
- - [$20 Chewy Promo Code | March 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
+ - [Banks start offloading $18B debt tied to the $55B buyout of EA; sources say EA told potential investors AI could let gaming companies cut engineering workforces &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p7#a260318p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

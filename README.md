@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hoto’s powerful PixelDrive electric screwdriver is 25 percent off](https://www.theverge.com/gadgets/897056/hoto-pixeldrive-electric-screwdriver-amazon-big-spring-sale-deal)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [The Best Outdoor Deals From the REI Member Days Sale &lpar;2026&rpar;](https://www.wired.com/story/rei-member-days-sale-2026/)
- - [Compute startup Andromeda raised new funding from Paradigm at a $1.5B valuation, bringing Paradigm&#39;s total to $60M; it passed a $100M revenue run rate in 2025 &lpar;Upstarts Media&rpar;](http://www.techmeme.com/260318/p45#a260318p45)
- - [Family Sharing no longer means sharing a credit card in iOS 26.4](https://appleinsider.com/articles/26/03/18/family-sharing-no-longer-means-sharing-a-credit-card-in-ios-264?utm_source=rss)<!-- TECH:END -->
+ - [AI training lawsuit drags Apple in yet again for alleged use of pirated book dataset](https://appleinsider.com/articles/26/03/18/ai-training-lawsuit-drags-apple-in-yet-again-for-alleged-use-of-pirated-book-dataset?utm_source=rss)
+ - [Micron reports Q2 revenue up 196% YoY to $23.9B, vs. $19.7B est., expects 2026 capex to exceed $25B, vs. $22.4B est., and forecasts Q3 revenue above estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260318/p46#a260318p46)
+ - [Amazon doesn’t want the blame for the Post Office going under](https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out)
+ - [Congress considers blowing up internet law](https://www.theverge.com/policy/897106/section-230-reform-hearing-jawboning-social-media)
+ - [Hoto’s powerful PixelDrive electric screwdriver is 25 percent off](https://www.theverge.com/gadgets/897056/hoto-pixeldrive-electric-screwdriver-amazon-big-spring-sale-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU unveils EU Inc., a single bloc-wide incorporation regime that it says takes 48 hours, to help European startups compete with US and Chinese rivals &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260318/p21#a260318p21)
- - [Humanscale’s New $15K Lounge Chair Is the Ultimate Home Office Workstation](https://www.wired.com/story/humanscale-diffrient-lounge/)
- - [DLSS 5: Has Nvidia&amp;#8217;s AI graphics technology gone too far?](https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering)
- - [Tim Cook dashes over to China for the latest Apple anniversary concert](https://appleinsider.com/articles/26/03/18/tim-cook-dashes-over-to-china-for-the-latest-apple-anniversary-concert?utm_source=rss)
- - [5 Best Folding Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)<!-- TECH:END -->
+ - [Researchers from Google, iVerify, and Lookout discover DarkSword, a hacking tool used by Russian state-sponsored groups to target iOS 18 via Ukrainian websites &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260318/p28#a260318p28)
+ - [Stripe and Paradigm-backed startup Tempo launches the Machine Payments Protocol and its blockchain to facilitate autonomous AI agent transactions &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260318/p27#a260318p27)
+ - [Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild](https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/)
+ - [Musi lawyers hand Apple big win, judge rules apps can be delisted &#39;with or without cause&#39;](https://appleinsider.com/articles/26/03/18/musi-hands-apple-big-win-as-judge-rules-apps-can-be-delisted-with-or-without-cause?utm_source=rss)
+ - [Investigation: the US FedRAMP authorized Microsoft service GCC High to handle sensitive government data in 2024, despite years of concerns about its security &lpar;ProPublica&rpar;](http://www.techmeme.com/260318/p26#a260318p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

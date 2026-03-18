@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fuse replacement at home](http://9gag.com/gag/aQzjdK7)
+ - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
  - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
- - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
+ - 💣 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)
+ - 😝 [This D&amp;D setup is next level, I need friends like this](http://9gag.com/gag/a2vX7jE)
  - 👉 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)<!-- MEMES:END -->
 
 ---

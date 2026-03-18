@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
  - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
- - 💣 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
- - 😝 [Me in 1997 instead of buying Bitcoins](http://9gag.com/gag/aZZY0nW)
+ - 😝 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
+ - 💣 [Me in 1997 instead of buying Bitcoins](http://9gag.com/gag/aZZY0nW)
+ - 😝 [Government: you made a what?](http://9gag.com/gag/a1m61Yb)
  - 👉 [Cheers](http://9gag.com/gag/a87gGvd)<!-- MEMES:END -->
 
 ---

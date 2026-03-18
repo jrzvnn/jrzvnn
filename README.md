@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
- - 😝 [Fuse replacement at home](http://9gag.com/gag/aQzjdK7)
- - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
+ - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 💣 [Sad face](http://9gag.com/gag/aE04PYO)
  - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
- - 👉 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)<!-- MEMES:END -->
+ - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 ---
 

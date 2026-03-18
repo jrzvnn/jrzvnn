@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a 220V shock looks like. Happened in Brazil on live TV &lpar;structure was not grounded&rpar;](http://9gag.com/gag/azx31Qm)
+ - 😝 [Guys I want to be European...](http://9gag.com/gag/a1m6rQ6)
  - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
- - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - 😝 [Shut up and take my cash](http://9gag.com/gag/azx3exb)
- - 👉 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)<!-- MEMES:END -->
+ - 💣 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
+ - 😝 [Snow leopards of Himalaya are known as `Ghost of Himalaya`, can you spot one here?](http://9gag.com/gag/aRBpre7)
+ - 👉 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)<!-- MEMES:END -->
 
 ---
 

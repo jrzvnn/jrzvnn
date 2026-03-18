@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [The Best Outdoor Deals From the REI Member Days Sale &lpar;2026&rpar;](https://www.wired.com/story/rei-member-days-sale-2026/)
  - [Compute startup Andromeda raised new funding from Paradigm at a $1.5B valuation, bringing Paradigm&#39;s total to $60M; it passed a $100M revenue run rate in 2025 &lpar;Upstarts Media&rpar;](http://www.techmeme.com/260318/p45#a260318p45)
  - [Family Sharing no longer means sharing a credit card in iOS 26.4](https://appleinsider.com/articles/26/03/18/family-sharing-no-longer-means-sharing-a-credit-card-in-ios-264?utm_source=rss)
- - [Keyboard accuracy bug quashed in iOS 26.4](https://appleinsider.com/articles/26/03/18/keyboard-accuracy-bug-quashed-in-ios-264?utm_source=rss)
- - [Trump&amp;#8217;s AI chief&amp;#8217;s big Iran warning gets big time ignored](https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket)
- - [Robinhood is making a social network](https://www.theverge.com/tech/896989/robinhood-social-network-beta)<!-- TECH:END -->
+ - [Keyboard accuracy bug quashed in iOS 26.4](https://appleinsider.com/articles/26/03/18/keyboard-accuracy-bug-quashed-in-ios-264?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

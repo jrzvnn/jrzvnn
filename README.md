@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
- - 😝 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
- - 💣 [Relationship goals](http://9gag.com/gag/aW4XEYA)
- - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
- - 👉 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)<!-- MEMES:END -->
+ - 😝 [Awesome technology](http://9gag.com/gag/aMVLxVW)
+ - 😝 [Mood ...](http://9gag.com/gag/aAy9322)
+ - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 😝 [Cheers](http://9gag.com/gag/a87gGvd)
+ - 👉 [When two old guys mean the world to each other](http://9gag.com/gag/a34ORrm)<!-- MEMES:END -->
 
 ---
 

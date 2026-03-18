@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - 😝 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
+ - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
+ - 😝 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
  - 💣 [Sad face](http://9gag.com/gag/aE04PYO)
- - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
- - 👉 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)<!-- MEMES:END -->
+ - 😝 [Me in 1997 instead of buying Bitcoins](http://9gag.com/gag/aZZY0nW)
+ - 👉 [Gotcha moment](http://9gag.com/gag/aqyEn1v)<!-- MEMES:END -->
 
 ---
 

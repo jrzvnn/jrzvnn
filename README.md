@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Banks start offloading $18B debt tied to the $55B buyout of EA; sources say EA told potential investors AI could let gaming companies cut engineering workforces &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p7#a260318p7)
  - [The UK&#39;s FCA says Meta has repeatedly failed to stop illegal ads for high-risk financial products running on its platforms, despite committing to block them &lpar;Reuters&rpar;](http://www.techmeme.com/260318/p6#a260318p6)
  - [Sources: Microsoft weighs legal action against Amazon and OpenAI over whether AWS can offer OpenAI Frontier without breaching Microsoft-OpenAI agreement &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p5#a260318p5)
- - [50% Off DoorDash Promo Code | March 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [$20 Chewy Promo Code | March 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

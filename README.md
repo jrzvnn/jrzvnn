@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys I want to be European...](http://9gag.com/gag/a1m6rQ6)
- - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
- - 💣 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
- - 😝 [Snow leopards of Himalaya are known as `Ghost of Himalaya`, can you spot one here?](http://9gag.com/gag/aRBpre7)
- - 👉 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)<!-- MEMES:END -->
+ - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
+ - 😝 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
+ - 💣 [Snow leopards of Himalaya are known as `Ghost of Himalaya`, can you spot one here?](http://9gag.com/gag/aRBpre7)
+ - 😝 [This D&amp;D setup is next level, I need friends like this](http://9gag.com/gag/a2vX7jE)
+ - 👉 [FAQ in the comment](http://9gag.com/gag/azx3Mem)<!-- MEMES:END -->
 
 ---
 

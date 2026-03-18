@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia is preparing to sell a version of Groq chips to the Chinese market that is expected to be available in May and will not be downgraded &lpar;Reuters&rpar;](http://www.techmeme.com/260317/p49#a260317p49)
- - [Sources: a JPMorgan-led bank group halted a $5.3B debt deal for Qualtrics, whose existing $1.5B loan trades at 86 cents on the dollar, on weak investor interest &lpar;Bloomberg&rpar;](http://www.techmeme.com/260317/p48#a260317p48)
- - [Turquoise Health, which offers a healthcare pricing and payments platform, raised a $40M Series C led by Oak HC/FT, bringing its total funding to $95.3M &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/260317/p47#a260317p47)
- - [Apple Home hardware chief leaves for Oura](https://appleinsider.com/articles/26/03/17/apple-home-hardware-chief-leaves-for-oura?utm_source=rss)
- - [Brian Lynch, Apple&#39;s senior director in charge of home devices since 2022, leaves for Oura, a setback for a unit already contending with product delays &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260317/p46#a260317p46)<!-- TECH:END -->
+ - [Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems](https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/)
+ - [Source: the Pentagon is discussing plans to set up secure environments for AI companies to train military-specific versions of their models on classified data &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260317/p51#a260317p51)
+ - [A US appeals court puts on hold an earlier ruling that had blocked Perplexity from using its agentic shopping tool to shop on Amazon&#39;s marketplace &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260317/p50#a260317p50)
+ - [Musi hands Apple big win as judge rules apps can be delisted &#39;with or without cause&#39;](https://appleinsider.com/articles/26/03/18/musi-hands-apple-big-win-as-judge-rules-apps-can-be-delisted-with-or-without-cause?utm_source=rss)
+ - [Sources: Nvidia is preparing to sell a version of Groq chips to the Chinese market that is expected to be available in May and will not be downgraded &lpar;Reuters&rpar;](http://www.techmeme.com/260317/p49#a260317p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

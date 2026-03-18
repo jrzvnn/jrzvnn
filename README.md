@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems](https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/)
- - [Source: the Pentagon is discussing plans to set up secure environments for AI companies to train military-specific versions of their models on classified data &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260317/p51#a260317p51)
- - [A US appeals court puts on hold an earlier ruling that had blocked Perplexity from using its agentic shopping tool to shop on Amazon&#39;s marketplace &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260317/p50#a260317p50)
- - [Musi hands Apple big win as judge rules apps can be delisted &#39;with or without cause&#39;](https://appleinsider.com/articles/26/03/18/musi-hands-apple-big-win-as-judge-rules-apps-can-be-delisted-with-or-without-cause?utm_source=rss)
- - [Sources: Nvidia is preparing to sell a version of Groq chips to the Chinese market that is expected to be available in May and will not be downgraded &lpar;Reuters&rpar;](http://www.techmeme.com/260317/p49#a260317p49)<!-- TECH:END -->
+ - [Companies are starting to track employees&#39; AI token use and tallying the costs to measure their return on AI investments, and to prevent potential token abuse &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260317/p56#a260317p56)
+ - [AI drone software company Swarmer closed up 520% in its Nasdaq debut, valuing it at $380M+; its tech has been deployed in 100K+ combat missions in Ukraine &lpar;Arvelisse Bonilla Ramos/Bloomberg&rpar;](http://www.techmeme.com/260317/p55#a260317p55)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-18/)
+ - [Source: Beijing has approved multiple Chinese companies to purchase H200 chips from Nvidia; a Chinese spokesperson said they are &quot;not aware of specifics&quot; &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260317/p54#a260317p54)
+ - [Do You Need to Upgrade Your MacBook Air? M5, M4, M3, M2, M1 Models Compared](https://www.cnet.com/tech/computing/macbook-air-upgrade-guide-m5-vs-m4-m3-m2-m1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

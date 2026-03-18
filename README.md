@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Quantum Leap for the Turing Award](https://www.wired.com/story/a-quantum-leap-for-the-turing-award/)
- - [A mystery 1T-parameter AI model called Hunter Alpha, which appeared on OpenRouter on March 11, sparks speculation that DeepSeek is quietly testing its V4 model &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260318/p10#a260318p10)
- - [Alibaba raises prices for its T-Head AI computing chips, including the Zhenwu 810E, by 5% to 34%, and its Cloud Parallel File Storage by 30%, after demand soars &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260318/p9#a260318p9)
- - [Founders are increasingly leasing multimillion-dollar mansions in San Francisco&#39;s wealthy neighborhoods as corporate HQs and hacker houses, amid the AI boom &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/260318/p8#a260318p8)
- - [Banks start offloading $18B debt tied to the $55B buyout of EA; sources say EA told potential investors AI could let gaming companies cut engineering workforces &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p7#a260318p7)<!-- TECH:END -->
+ - [BMW i3 2026: Specs, Price, Availability, Range](https://www.wired.com/story/bmw-i3-2026/)
+ - [He Built the Definitive Epstein Database—and It Consumed His Life](https://www.wired.com/story/he-built-the-definitive-epstein-database-and-it-consumed-his-life/)
+ - [BMW brings back the i3 as a funky four-door EV](https://www.theverge.com/transportation/895265/bmw-i3-neue-klasse-ev-price-specs)
+ - [Tencent reports Q4 revenue up 13% YoY to ~$28.3B, vs. ~$28.2B est., its fifth quarter of double-digit growth, driven by gaming and ads, as it bets on agentic AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260318/p12#a260318p12)
+ - [Samsung and AMD sign a preliminary deal for Samsung to supply its next-gen HBM4 for AMD&#39;s MI455X accelerators, used in data centers, and DDR5 for AMD&#39;s Helios &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260318/p11#a260318p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

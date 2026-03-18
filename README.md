@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW i3 2026: Specs, Price, Availability, Range](https://www.wired.com/story/bmw-i3-2026/)
- - [He Built the Definitive Epstein Database—and It Consumed His Life](https://www.wired.com/story/he-built-the-definitive-epstein-database-and-it-consumed-his-life/)
- - [BMW brings back the i3 as a funky four-door EV](https://www.theverge.com/transportation/895265/bmw-i3-neue-klasse-ev-price-specs)
- - [Tencent reports Q4 revenue up 13% YoY to ~$28.3B, vs. ~$28.2B est., its fifth quarter of double-digit growth, driven by gaming and ads, as it bets on agentic AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260318/p12#a260318p12)
- - [Samsung and AMD sign a preliminary deal for Samsung to supply its next-gen HBM4 for AMD&#39;s MI455X accelerators, used in data centers, and DDR5 for AMD&#39;s Helios &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260318/p11#a260318p11)<!-- TECH:END -->
+ - [China&#39;s Chengdu says Tim Cook attended Apple&#39;s 50th anniversary event in the city; state media called for Apple to fix its &quot;monopolistic&quot; App Store practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/260318/p18#a260318p18)
+ - [Samsung Galaxy Buds4 Pro Review: AirPods Pro for Android](https://www.wired.com/review/samsung-galaxy-buds-4-pro/)
+ - [How to Organize Your Tech and Purge That Random Box of Cables](https://www.wired.com/story/how-to-tidy-your-tech/)
+ - [Q&amp;A with GV&#39;s Tom Hulme on the AI investment cycle, London and Europe&#39;s opportunities, Q.ai and Nothing investments, AI privacy issues, sovereign AI, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p17#a260318p17)
+ - [Investigation: Jeffrey Epstein spent hundreds of thousands on a campaign to manipulate Google search results and sanitize his Wikipedia, after his 2009 release &lpar;New York Times&rpar;](http://www.techmeme.com/260318/p16#a260318p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

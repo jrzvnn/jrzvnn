@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
- - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - 💣 [Day](http://9gag.com/gag/a7ox3Wm)
- - 😝 [This is next level RC fun](http://9gag.com/gag/aXPOoj2)
- - 👉 [Relationship goals](http://9gag.com/gag/aW4XEYA)<!-- MEMES:END -->
+ - 😝 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
+ - 😝 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
+ - 💣 [Relationship goals](http://9gag.com/gag/aW4XEYA)
+ - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
+ - 👉 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity releases its Comet browser app for iOS and iPadOS with a built-in AI assistant, four months after launching on Android &lpar;Laurent Giret/Thurrott&rpar;](http://www.techmeme.com/260318/p50#a260318p50)
  - [NYC-based BusRight, which provides an AI-powered platform to help school bus operators manage routes, communication, and more, raised $30M from Volition Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260318/p49#a260318p49)
  - [Apple Update Frees Families From Sharing Only 1 Payment Option](https://www.cnet.com/tech/services-and-software/apple-unchains-family-members-from-a-single-payment-option-in-new-family-sharing/)
  - [Meta confirms a critical security incident after an internal rogue AI agent&#39;s actions led to the exposure of sensitive data to employees without authorization &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260318/p48#a260318p48)
- - [The FBI is buying Americans’ location data](https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant)
- - [Democratic voters in Illinois rejected most candidates supported by the crypto and AI industries, marking an unexpected defeat after industry PACs spent $18M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260318/p47#a260318p47)<!-- TECH:END -->
+ - [The FBI is buying Americans’ location data](https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

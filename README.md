@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood is making a social network](https://www.theverge.com/tech/896989/robinhood-social-network-beta)
- - [During a Senate hearing, FBI Director Kash Patel says FBI does purchase &quot;commercially available information&quot; that can be used to track people&#39;s location history &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/260318/p44#a260318p44)
- - [Sources: Polymarket is looking to hire a chief risk officer following a CFTC demand; the company has expanded its legal team in recent months &lpar;Bernard Goyder/Bloomberg&rpar;](http://www.techmeme.com/260318/p43#a260318p43)
- - [Meta makes its Meta Lab NYC pop-up on Fifth Avenue a permanent flagship location after signing a 10-year lease; it opened its first flagship store in LA in 2025 &lpar;Kanika Talwar/WWD&rpar;](http://www.techmeme.com/260318/p42#a260318p42)
- - [ChatGPT did not cure a dog’s cancer](https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer)<!-- TECH:END -->
+ - [Compute startup Andromeda raised new funding from Paradigm at a $1.5B valuation, bringing Paradigm&#39;s total to $60M; it passed a $100M revenue run rate in 2025 &lpar;Upstarts Media&rpar;](http://www.techmeme.com/260318/p45#a260318p45)
+ - [Family Sharing no longer means sharing a credit card in iOS 26.4](https://appleinsider.com/articles/26/03/18/family-sharing-no-longer-means-sharing-a-credit-card-in-ios-264?utm_source=rss)
+ - [Keyboard accuracy bug quashed in iOS 26.4](https://appleinsider.com/articles/26/03/18/keyboard-accuracy-bug-quashed-in-ios-264?utm_source=rss)
+ - [Trump&amp;#8217;s AI chief&amp;#8217;s big Iran warning gets big time ignored](https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket)
+ - [Robinhood is making a social network](https://www.theverge.com/tech/896989/robinhood-social-network-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

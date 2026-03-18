@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
- - 😝 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
- - 💣 [Sad face](http://9gag.com/gag/aE04PYO)
- - 😝 [Me in 1997 instead of buying Bitcoins](http://9gag.com/gag/aZZY0nW)
- - 👉 [Gotcha moment](http://9gag.com/gag/aqyEn1v)<!-- MEMES:END -->
+ - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
+ - 😝 [Fuse replacement at home](http://9gag.com/gag/aQzjdK7)
+ - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
+ - 👉 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)<!-- MEMES:END -->
 
 ---
 

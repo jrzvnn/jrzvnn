@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbow, which uses AI to probe apps for security vulnerabilities, raised $120M led by DFJ Growth and Northzone at a $1B+ valuation, and reports 100+ clients &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260318/p20#a260318p20)
- - [Best Barefoot Shoes for Running or Walking &lpar;2026&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
- - [South Korea hosts K-Pop stars Cortis for Apple anniversary event](https://appleinsider.com/articles/26/03/18/south-korea-hosts-k-pop-stars-cortis-for-apple-anniversary-event?utm_source=rss)
- - [The US goods trade deficit hit a record $1.2T in 2025, driven by a 60% rise in imports of computers and chips to $450B+ since President Trump&#39;s inauguration &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/260318/p19#a260318p19)
- - [Boroux Versus Rorra Countertop Water Filters, Tested Head to Head](https://www.wired.com/story/steel-water-filters-head-to-head/)<!-- TECH:END -->
+ - [The EU unveils EU Inc., a single bloc-wide incorporation regime that it says takes 48 hours, to help European startups compete with US and Chinese rivals &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260318/p21#a260318p21)
+ - [Humanscale’s New $15K Lounge Chair Is the Ultimate Home Office Workstation](https://www.wired.com/story/humanscale-diffrient-lounge/)
+ - [DLSS 5: Has Nvidia&amp;#8217;s AI graphics technology gone too far?](https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering)
+ - [Tim Cook dashes over to China for the latest Apple anniversary concert](https://appleinsider.com/articles/26/03/18/tim-cook-dashes-over-to-china-for-the-latest-apple-anniversary-concert?utm_source=rss)
+ - [5 Best Folding Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Kraken has paused its IPO plans, amid the downturn in crypto markets since October, and may revisit a listing when market conditions improve &lpar;CoinDesk&rpar;](http://www.techmeme.com/260318/p31#a260318p31)
- - [Bad vibes: Apple blocks updates for some AI coding apps in the App Store](https://appleinsider.com/articles/26/03/18/bad-vibes-apple-blocks-updates-for-some-ai-coding-apps-in-the-app-store?utm_source=rss)
- - [Advanced Navigation, which makes AI-assisted hardware to let ships and aircraft navigate even when GPS is jammed, raised a $110M Series C at a $1B+ valuation &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/260318/p30#a260318p30)
- - [Philips’ new audio gear brings back the bright, bold colors of the ’80s](https://www.theverge.com/tech/896593/philips-moving-sound-bluetooth-speaker-wireless-headphones-earbuds)
- - [Confessions of the ICE Agent Whisperer](https://www.wired.com/story/confessions-of-the-ice-agent-whisperer/)<!-- TECH:END -->
+ - [This severe and international iPhone hack is the best reason to update to iOS 26.3 yet](https://appleinsider.com/articles/26/03/18/this-severe-and-international-iphone-hack-is-the-best-reason-to-update-to-ios-263-yet?utm_source=rss)
+ - [Israeli startup Raven, which offers runtime monitoring and intervention in attacks as they unfold inside applications, raised a $20M seed &lpar;CTech&rpar;](http://www.techmeme.com/260318/p35#a260318p35)
+ - [Paraform, which connects tech companies with specialized recruiters, raised a $40M Series B led by Scale VP &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260318/p34#a260318p34)
+ - [The best early Amazon Big Spring Sale deals you can get right now](https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026)
+ - [The UK government withdraws a proposal to let AI companies train on copyrighted works, unless creators opt out, after a backlash from artists like Dua Lipa &lpar;Graham Fraser/BBC&rpar;](http://www.techmeme.com/260318/p33#a260318p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

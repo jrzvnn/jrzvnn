@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awesome technology](http://9gag.com/gag/aMVLxVW)
- - 😝 [Mood ...](http://9gag.com/gag/aAy9322)
- - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - 😝 [Cheers](http://9gag.com/gag/a87gGvd)
- - 👉 [When two old guys mean the world to each other](http://9gag.com/gag/a34ORrm)<!-- MEMES:END -->
+ - 😝 [Stoopidity](http://9gag.com/gag/amoZ50o)
+ - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
+ - 💣 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
+ - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
+ - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 ---
 

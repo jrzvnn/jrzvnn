@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
  - 😝 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 😝 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
+ - 💣 [Sad face](http://9gag.com/gag/aE04PYO)
  - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
  - 👉 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)<!-- MEMES:END -->
 

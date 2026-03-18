@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers from Google, iVerify, and Lookout discover DarkSword, a hacking tool used by Russian state-sponsored groups to target iOS 18 via Ukrainian websites &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260318/p28#a260318p28)
- - [Stripe and Paradigm-backed startup Tempo launches the Machine Payments Protocol and its blockchain to facilitate autonomous AI agent transactions &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260318/p27#a260318p27)
- - [Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild](https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/)
- - [Musi lawyers hand Apple big win, judge rules apps can be delisted &#39;with or without cause&#39;](https://appleinsider.com/articles/26/03/18/musi-hands-apple-big-win-as-judge-rules-apps-can-be-delisted-with-or-without-cause?utm_source=rss)
- - [Investigation: the US FedRAMP authorized Microsoft service GCC High to handle sensitive government data in 2024, despite years of concerns about its security &lpar;ProPublica&rpar;](http://www.techmeme.com/260318/p26#a260318p26)<!-- TECH:END -->
+ - [Sources: Kraken has paused its IPO plans, amid the downturn in crypto markets since October, and may revisit a listing when market conditions improve &lpar;CoinDesk&rpar;](http://www.techmeme.com/260318/p31#a260318p31)
+ - [Bad vibes: Apple blocks updates for some AI coding apps in the App Store](https://appleinsider.com/articles/26/03/18/bad-vibes-apple-blocks-updates-for-some-ai-coding-apps-in-the-app-store?utm_source=rss)
+ - [Advanced Navigation, which makes AI-assisted hardware to let ships and aircraft navigate even when GPS is jammed, raised a $110M Series C at a $1B+ valuation &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/260318/p30#a260318p30)
+ - [Philips’ new audio gear brings back the bright, bold colors of the ’80s](https://www.theverge.com/tech/896593/philips-moving-sound-bluetooth-speaker-wireless-headphones-earbuds)
+ - [Confessions of the ICE Agent Whisperer](https://www.wired.com/story/confessions-of-the-ice-agent-whisperer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

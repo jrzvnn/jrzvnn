@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
- - 😝 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
- - 💣 [Me in 1997 instead of buying Bitcoins](http://9gag.com/gag/aZZY0nW)
- - 😝 [Government: you made a what?](http://9gag.com/gag/a1m61Yb)
- - 👉 [Cheers](http://9gag.com/gag/a87gGvd)<!-- MEMES:END -->
+ - 😝 [What a 220V shock looks like. Happened in Brazil on live TV &lpar;structure was not grounded&rpar;](http://9gag.com/gag/azx31Qm)
+ - 😝 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)
+ - 💣 [Sad face](http://9gag.com/gag/aE04PYO)
+ - 😝 [How Samurai Jack uses the 60:30:10 colour rule for visual magic](http://9gag.com/gag/aNDbPob)
+ - 👉 [Board of Peace](http://9gag.com/gag/a6ZRN4q)<!-- MEMES:END -->
 
 ---
 

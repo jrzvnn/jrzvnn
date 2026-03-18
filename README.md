@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
- - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - 💣 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)
+ - 😝 [This is next level RC fun](http://9gag.com/gag/aXPOoj2)
+ - 😝 [There is always a reason](http://9gag.com/gag/amoZgL2)
+ - 💣 [Anything for views](http://9gag.com/gag/aBye2jP)
  - 😝 [This masterpiece turns 30 today](http://9gag.com/gag/avyjA1n)
- - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
+ - 👉 [A cat caused a man to experience paranormal fear](http://9gag.com/gag/an7oQwL)<!-- MEMES:END -->
 
 ---
 

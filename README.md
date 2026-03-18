@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s Chengdu says Tim Cook attended Apple&#39;s 50th anniversary event in the city; state media called for Apple to fix its &quot;monopolistic&quot; App Store practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/260318/p18#a260318p18)
- - [Samsung Galaxy Buds4 Pro Review: AirPods Pro for Android](https://www.wired.com/review/samsung-galaxy-buds-4-pro/)
- - [How to Organize Your Tech and Purge That Random Box of Cables](https://www.wired.com/story/how-to-tidy-your-tech/)
- - [Q&amp;A with GV&#39;s Tom Hulme on the AI investment cycle, London and Europe&#39;s opportunities, Q.ai and Nothing investments, AI privacy issues, sovereign AI, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p17#a260318p17)
- - [Investigation: Jeffrey Epstein spent hundreds of thousands on a campaign to manipulate Google search results and sanitize his Wikipedia, after his 2009 release &lpar;New York Times&rpar;](http://www.techmeme.com/260318/p16#a260318p16)<!-- TECH:END -->
+ - [Xbow, which uses AI to probe apps for security vulnerabilities, raised $120M led by DFJ Growth and Northzone at a $1B+ valuation, and reports 100+ clients &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260318/p20#a260318p20)
+ - [Best Barefoot Shoes for Running or Walking &lpar;2026&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
+ - [South Korea hosts K-Pop stars Cortis for Apple anniversary event](https://appleinsider.com/articles/26/03/18/south-korea-hosts-k-pop-stars-cortis-for-apple-anniversary-event?utm_source=rss)
+ - [The US goods trade deficit hit a record $1.2T in 2025, driven by a 60% rise in imports of computers and chips to $450B+ since President Trump&#39;s inauguration &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/260318/p19#a260318p19)
+ - [Boroux Versus Rorra Countertop Water Filters, Tested Head to Head](https://www.wired.com/story/steel-water-filters-head-to-head/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

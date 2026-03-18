@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
  - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - 💣 [Relationship goals](http://9gag.com/gag/aW4XEYA)
- - 😝 [The special Olympics are lit.](http://9gag.com/gag/amoZvj6)
- - 👉 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)<!-- MEMES:END -->
+ - 💣 [Day](http://9gag.com/gag/a7ox3Wm)
+ - 😝 [This is next level RC fun](http://9gag.com/gag/aXPOoj2)
+ - 👉 [Relationship goals](http://9gag.com/gag/aW4XEYA)<!-- MEMES:END -->
 
 ---
 

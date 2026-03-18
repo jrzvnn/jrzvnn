@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
- - 😝 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
- - 💣 [Snow leopards of Himalaya are known as `Ghost of Himalaya`, can you spot one here?](http://9gag.com/gag/aRBpre7)
- - 😝 [This D&amp;D setup is next level, I need friends like this](http://9gag.com/gag/a2vX7jE)
- - 👉 [FAQ in the comment](http://9gag.com/gag/azx3Mem)<!-- MEMES:END -->
+ - 😝 [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
+ - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 💣 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)
+ - 😝 [This masterpiece turns 30 today](http://9gag.com/gag/avyjA1n)
+ - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
 
 ---
 

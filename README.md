@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Relationship goals](http://9gag.com/gag/aW4XEYA)
- - 😝 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - 💣 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)
+ - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
+ - 😝 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 💣 [Relationship goals](http://9gag.com/gag/aW4XEYA)
  - 😝 [The special Olympics are lit.](http://9gag.com/gag/amoZvj6)
  - 👉 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)<!-- MEMES:END -->
 

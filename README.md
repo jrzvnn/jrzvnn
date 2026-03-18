@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stoopidity](http://9gag.com/gag/amoZ50o)
- - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
- - 💣 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
- - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
- - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
+ - 😝 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
+ - 😝 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
+ - 👉 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)<!-- MEMES:END -->
 
 ---
 

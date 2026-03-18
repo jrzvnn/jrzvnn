@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft weighs legal action against Amazon and OpenAI over whether AWS can offer OpenAI Frontier without breaching Microsoft-OpenAI agreement &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p5#a260318p5)
  - [50% Off DoorDash Promo Code | March 2026](https://www.wired.com/story/doordash-promo-code/)
  - [$20 Chewy Promo Code | March 2026](https://www.wired.com/story/chewy-promo-code/)
  - [NordVPN Coupons and Deals: 77% Off in March 2026](https://www.wired.com/story/nordvpn-coupon/)
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in March](https://www.wired.com/story/att-promo-code/)
- - [The Linux Foundation announces $12.5M in total grants from Google and others to help FOSS maintainers cope with the influx of AI-generated security findings &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/260318/p4#a260318p4)<!-- TECH:END -->
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in March](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

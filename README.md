@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
- - 😝 [Fuse replacement at home](http://9gag.com/gag/aQzjdK7)
- - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - 😝 [Happiness redefined](http://9gag.com/gag/a6ZRK18)
- - 👉 [Board of Peace](http://9gag.com/gag/a6ZRN4q)<!-- MEMES:END -->
+ - 😝 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
+ - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
+ - 💣 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
+ - 😝 [Me in 1997 instead of buying Bitcoins](http://9gag.com/gag/aZZY0nW)
+ - 👉 [Cheers](http://9gag.com/gag/a87gGvd)<!-- MEMES:END -->
 
 ---
 

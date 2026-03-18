@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kasa’s Matter-compatible smart plugs are on sale for $11 a pop](https://www.theverge.com/gadgets/896899/kasa-smart-wi-fi-plug-slim-amazon-early-big-spring-sale-deal-sale)
- - [Perplexity&#39;s Comet AI-powered browser arrives on iPhone with a new surfing paradigm](https://appleinsider.com/articles/26/03/18/perplexitys-comet-ai-powered-browser-arrives-on-iphone-with-a-new-surfing-paradigm?utm_source=rss)
- - [Amazon is blowing out remaining Apple Watch Ultra 2 inventory at $499](https://appleinsider.com/articles/26/03/18/amazon-is-blowing-out-remaining-apple-watch-ultra-2-inventory-at-499?utm_source=rss)
- - [Director Coerte Voorhees says he is using AI to feature Val Kilmer in &quot;a significant part&quot; in an indie film, with the cooperation of the late actor&#39;s estate &lpar;Brent Lang/Variety&rpar;](http://www.techmeme.com/260318/p40#a260318p40)
- - [Facebook launches Creator Fast Track, offering big Instagram, TikTok and YouTube creators guaranteed monthly pay and boosted reach to post on Facebook &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/260318/p39#a260318p39)<!-- TECH:END -->
+ - [Robinhood is making a social network](https://www.theverge.com/tech/896989/robinhood-social-network-beta)
+ - [During a Senate hearing, FBI Director Kash Patel says FBI does purchase &quot;commercially available information&quot; that can be used to track people&#39;s location history &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/260318/p44#a260318p44)
+ - [Sources: Polymarket is looking to hire a chief risk officer following a CFTC demand; the company has expanded its legal team in recent months &lpar;Bernard Goyder/Bloomberg&rpar;](http://www.techmeme.com/260318/p43#a260318p43)
+ - [Meta makes its Meta Lab NYC pop-up on Fifth Avenue a permanent flagship location after signing a 10-year lease; it opened its first flagship store in LA in 2025 &lpar;Kanika Talwar/WWD&rpar;](http://www.techmeme.com/260318/p42#a260318p42)
+ - [ChatGPT did not cure a dog’s cancer](https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

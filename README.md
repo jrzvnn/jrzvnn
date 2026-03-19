@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart is embedding its own chatbot Sparky in ChatGPT after conversion rates via OpenAI&#39;s Instant Checkout were 3x lower than those requiring clicking out &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260318/p55#a260318p55)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-19/)
- - [Anthropic releases a survey of 80,508 Claude users&#39; views, hopes, and fears about AI, calling it &quot;the largest and most multilingual qualitative study&quot; &lpar;Anthropic&rpar;](http://www.techmeme.com/260318/p54#a260318p54)
- - [Viwoods AiPaper e-reader review: a damn fine digital notebook](https://appleinsider.com/articles/26/03/19/viwoods-aipaper-e-reader-review-a-damn-fine-digital-notebook?utm_source=rss)
- - [LinkedIn signs The Trade Desk as its first DSP partner for connected TV ads, allowing ad buyers to layer in LinkedIn data to reach target audiences &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/260318/p53#a260318p53)<!-- TECH:END -->
+ - [Best Buy Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/best-buy-discount-code/)
+ - [Nike Promo Codes and Deals: 30% Off](https://www.wired.com/story/nike-promo-code/)
+ - [10% Dell Coupon Codes | March 2026](https://www.wired.com/story/dell-coupon-code/)
+ - [50% Off Home Depot Promo Codes | March 2026](https://www.wired.com/story/home-depot-promo-code/)
+ - [20% Off LG Promo Code &amp; Coupons | March 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

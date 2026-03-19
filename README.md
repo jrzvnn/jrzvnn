@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sketchy iPhone Fold launch timing shared by analyst with shaky history](https://appleinsider.com/articles/26/03/19/sketchy-iphone-fold-launch-timing-shared-by-analyst-with-shaky-history?utm_source=rss)
+ - [Sources: Kalshi is raising ~$1B led by Coatue at a $22B valuation, up from the $11B valuation announced in December, and has a revenue run rate of ~$1.5B &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p49#a260319p49)
+ - [Amazon acquires Zurich-based autonomous robotics startup Rivr, formerly Swiss-Mile; PitchBook: the startup was valued at $110M in an August 2024 funding round &lpar;The Information&rpar;](http://www.techmeme.com/260319/p48#a260319p48)
  - [Signal&#39;s Moxie Marlinspike says his privacy-focused AI platform Confer will integrate its encryption tech into Meta AI to provide E2EE for chatbot interactions &lpar;Wired&rpar;](http://www.techmeme.com/260319/p47#a260319p47)
- - [Google finally bringing Gemini app to Mac after Apple partnership](https://appleinsider.com/articles/26/03/19/google-finally-bringing-gemini-app-to-mac-after-apple-partnership?utm_source=rss)
- - [Marc Andreessen is a philosophical zombie](https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie)
- - [The coolest game controller for your phone is $50 off](https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale)
- - [Sources: Google has started consumer beta testing of a dedicated Gemini AI app for the Mac, as it seeks to compete with Mac apps for ChatGPT and Claude &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260319/p46#a260319p46)<!-- TECH:END -->
+ - [Google finally bringing Gemini app to Mac after Apple partnership](https://appleinsider.com/articles/26/03/19/google-finally-bringing-gemini-app-to-mac-after-apple-partnership?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

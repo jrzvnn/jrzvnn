@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind appoints Jasjeet Sekhon, Bridgewater&#39;s chief scientist and head of AI, as chief strategy officer; Sekhon helped build Bridgewater&#39;s AIA Labs &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/260318/p52#a260318p52)
- - [Cloudflare says it has appealed the €14.2M fine issued by Italy for refusing to block pirate sites on its 1.1.1.1 DNS service, calling the amount &quot;staggering&quot; &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260318/p51#a260318p51)
- - [Perplexity releases its Comet browser app for iOS and iPadOS with a built-in AI assistant, four months after launching on Android &lpar;Laurent Giret/Thurrott&rpar;](http://www.techmeme.com/260318/p50#a260318p50)
- - [NYC-based BusRight, which provides an AI-powered platform to help school bus operators manage routes, communication, and more, raised $30M from Volition Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260318/p49#a260318p49)
- - [Apple Update Frees Families From Sharing Only 1 Payment Option](https://www.cnet.com/tech/services-and-software/apple-unchains-family-members-from-a-single-payment-option-in-new-family-sharing/)<!-- TECH:END -->
+ - [Walmart is embedding its own chatbot Sparky in ChatGPT after conversion rates via OpenAI&#39;s Instant Checkout were 3x lower than those requiring clicking out &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260318/p55#a260318p55)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-19/)
+ - [Anthropic releases a survey of 80,508 Claude users&#39; views, hopes, and fears about AI, calling it &quot;the largest and most multilingual qualitative study&quot; &lpar;Anthropic&rpar;](http://www.techmeme.com/260318/p54#a260318p54)
+ - [Viwoods AiPaper e-reader review: a damn fine digital notebook](https://appleinsider.com/articles/26/03/19/viwoods-aipaper-e-reader-review-a-damn-fine-digital-notebook?utm_source=rss)
+ - [LinkedIn signs The Trade Desk as its first DSP partner for connected TV ads, allowing ad buyers to layer in LinkedIn data to reach target audiences &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/260318/p53#a260318p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

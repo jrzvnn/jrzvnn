@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the favourites 2](http://9gag.com/gag/awypzmr)
- - 😝 [Anything for views](http://9gag.com/gag/aBye2jP)
- - 💣 [A cat caused a man to experience paranormal fear](http://9gag.com/gag/an7oQwL)
  - 😝 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
- - 👉 [This D&amp;D setup is next level, I need friends like this](http://9gag.com/gag/a2vX7jE)<!-- MEMES:END -->
+ - 😝 [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)
+ - 💣 [Sporty Spice](http://9gag.com/gag/aE04qvO)
+ - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
+ - 👉 [Fuse replacement at home](http://9gag.com/gag/aQzjdK7)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He probably thought: `Oh Shee-Heet`](http://9gag.com/gag/ajP4m6g)
- - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
- - 💣 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
- - 😝 [Play stupid games, win stupid prizes](http://9gag.com/gag/agmegbK)
- - 👉 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)<!-- MEMES:END -->
+ - 😝 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
+ - 😝 [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)
+ - 💣 [Why? Please Why?](http://9gag.com/gag/aGyQdm6)
+ - 😝 [Mom thought I was just riding my bike](http://9gag.com/gag/a0e3ZWv)
+ - 👉 [Totally worth it](http://9gag.com/gag/apRMG2E)<!-- MEMES:END -->
 
 ---
 

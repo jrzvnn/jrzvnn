@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saying what we are thinking.](http://9gag.com/gag/aZZYryV)
- - 😝 [Anything for views](http://9gag.com/gag/aBye2jP)
- - 💣 [A cat caused a man to experience paranormal fear](http://9gag.com/gag/an7oQwL)
- - 😝 [Mom thought I was just riding my bike](http://9gag.com/gag/a0e3ZWv)
- - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
+ - 😝 [I appreciate their effort.](http://9gag.com/gag/aByem21)
+ - 😝 [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)
+ - 💣 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
+ - 😝 [My new toy car has better camera skills than me](http://9gag.com/gag/aZZYrdz)
+ - 👉 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)<!-- MEMES:END -->
 
 ---
 

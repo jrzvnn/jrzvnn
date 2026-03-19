@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ofcom fines 4chan £520K for OSA violations, including a £450K penalty for failing to implement age assurance checks, giving it until April 2 to implement them &lpar;Mizy Clifton/Politico&rpar;](http://www.techmeme.com/260319/p19#a260319p19)
- - [Soundcore Nebula X1 Pro Dolby Atmos Projector Review: Big, Brilliant](https://www.wired.com/review/anker-soundcore-nebula-x1-projector/)
+ - [Uber to invest $1.25 billion in Rivian as part of new robotaxi deal](https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal)
  - [M5 Max 16-inch MacBook Pro review: Portable Mac Studio power](https://appleinsider.com/articles/26/03/19/m5-max-16-inch-macbook-pro-review-portable-mac-studio-power?utm_source=rss)
- - [There&#39;s so much more we can do with iPhone, says Tim Cook](https://appleinsider.com/articles/26/03/19/theres-so-much-more-we-can-do-with-iphone-says-tim-cook?utm_source=rss)
- - [The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth &amp; Paper](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
+ - [Crypto.com CEO Kris Marszalek says the company cut ~12% of its workforce, or ~180 roles, saying the layoffs target roles that &quot;do not adapt&quot; as it integrates AI &lpar;Brian Danga/The Block&rpar;](http://www.techmeme.com/260319/p21#a260319p21)
+ - [France goes for conversation, fashion and a fictitious radio station in its celebration of Apple&#39;s anniversary](https://appleinsider.com/articles/26/03/19/france-goes-for-conversation-fashion-and-a-fictitious-radio-station-in-its-celebration-of-apples-anniversary?utm_source=rss)
+ - [DHL Supply Chain says it will open 10 warehouses in 2026 across North America to serve data center operators and component suppliers, totaling 7M+ square feet &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p20#a260319p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

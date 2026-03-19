@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
- - 😝 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)
- - 💣 [This masterpiece turns 30 today](http://9gag.com/gag/avyjA1n)
+ - 😝 [He probably thought: `Oh Shee-Heet`](http://9gag.com/gag/ajP4m6g)
  - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
- - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
+ - 💣 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
+ - 😝 [Play stupid games, win stupid prizes](http://9gag.com/gag/agmegbK)
+ - 👉 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)<!-- MEMES:END -->
 
 ---
 

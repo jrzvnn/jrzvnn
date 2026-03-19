@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The shot shot him](http://9gag.com/gag/agmegQ6)
  - 😝 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
+ - 😝 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
  - 💣 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
  - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
- - 👉 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)<!-- MEMES:END -->
+ - 👉 [The shot shot him](http://9gag.com/gag/agmegQ6)<!-- MEMES:END -->
 
 ---
 

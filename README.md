@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
- - 😝 [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)
- - 💣 [Why? Please Why?](http://9gag.com/gag/aGyQdm6)
- - 😝 [Mom thought I was just riding my bike](http://9gag.com/gag/a0e3ZWv)
- - 👉 [Totally worth it](http://9gag.com/gag/apRMG2E)<!-- MEMES:END -->
+ - 😝 [Draw me like one of your japenese swords](http://9gag.com/gag/axyrMdM)
+ - 😝 [This is next level RC fun](http://9gag.com/gag/aXPOoj2)
+ - 💣 [Anything for views](http://9gag.com/gag/aBye2jP)
+ - 😝 [A cat caused a man to experience paranormal fear](http://9gag.com/gag/an7oQwL)
+ - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
 
 ---
 

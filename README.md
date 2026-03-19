@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Money well, SPENT. - MARK Y WORLD](http://9gag.com/gag/avyjA9O)
- - 😝 [The shot shot him](http://9gag.com/gag/agmegQ6)
- - 💣 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
- - 😝 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - 👉 [FAQ in the comment](http://9gag.com/gag/azx3Mem)<!-- MEMES:END -->
+ - 😝 [Heavy](http://9gag.com/gag/adBz892)
+ - 😝 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
+ - 💣 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
+ - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
+ - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
 
 ---
 

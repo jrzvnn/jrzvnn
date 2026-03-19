@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity&#39;s new AI health feature includes Apple Health integration nobody should use](https://appleinsider.com/articles/26/03/19/perplexitys-new-ai-health-feature-includes-apple-health-integration-nobody-should-use?utm_source=rss)
- - [Oasis Security, which specializes in securing non-human identities, such as AI bots and automated work tools, raised $120M, bringing its total funding to $190M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/260319/p42#a260319p42)
- - [Google announces a new &quot;advanced flow&quot; for Android sideloading that requires a mandatory 24-hour cooling-off period to install apps from unverified developers &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260319/p41#a260319p41)
- - [All the wrong EVs are getting cancelled](https://www.theverge.com/transportation/897399/all-the-wrong-evs-are-getting-cancelled)
- - [The Original AirPods Max Are $100 Off](https://www.wired.com/story/airpods-max-deal-326/)<!-- TECH:END -->
+ - [Hermès doesn’t include a power adapter with its $5,150 charging case](https://www.theverge.com/tech/897474/hermes-paddock-wireless-charger-apple-watch-airpods-iphone-leather-luxury)
+ - [Sources: Jeff Bezos is in talks to raise $100B for a fund that would buy companies in industrial sectors such as chipmaking and defense and revamp them with AI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260319/p44#a260319p44)
+ - [Google moved some staffers working on Project Mariner, its AI agent that can navigate Chrome and complete tasks on a user&#39;s behalf, to higher-priority projects &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260319/p43#a260319p43)
+ - [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+ - [Microsoft’s go-to Xbox controller is selling at its best price of the year](https://www.theverge.com/gadgets/897334/xbox-wireless-controller-pc-steam-deck-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

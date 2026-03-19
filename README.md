@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/best-buy-discount-code/)
- - [Nike Promo Codes and Deals: 30% Off](https://www.wired.com/story/nike-promo-code/)
- - [10% Dell Coupon Codes | March 2026](https://www.wired.com/story/dell-coupon-code/)
- - [50% Off Home Depot Promo Codes | March 2026](https://www.wired.com/story/home-depot-promo-code/)
- - [20% Off LG Promo Code &amp; Coupons | March 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [Source: Fal, a GenAI model hosting service, is in talks to raise $300M to $350M at an $8B valuation; annualized revenue has hit $400M, up from $200M in October &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/260319/p7#a260319p7)
+ - [Industry executives say chip testing firms are racing to meet AI chip demand; Advantest, Teradyne, and Chroma shares have more than tripled over the past year &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/260319/p6#a260319p6)
+ - [PwC&#39;s US boss Paul Griggs says partners who resist AI have no place at the firm, and it plans to convert some services into AI-powered automated tools &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/260319/p5#a260319p5)
+ - [20% Off LG Promo Code &amp; Coupons | March 2026](https://www.wired.com/story/lg-promo-code/)
+ - [30% Off Canon Promo Codes | March 2026](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

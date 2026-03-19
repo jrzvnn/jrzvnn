@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber to invest $1.25 billion in Rivian as part of new robotaxi deal](https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal)
- - [M5 Max 16-inch MacBook Pro review: Portable Mac Studio power](https://appleinsider.com/articles/26/03/19/m5-max-16-inch-macbook-pro-review-portable-mac-studio-power?utm_source=rss)
- - [Crypto.com CEO Kris Marszalek says the company cut ~12% of its workforce, or ~180 roles, saying the layoffs target roles that &quot;do not adapt&quot; as it integrates AI &lpar;Brian Danga/The Block&rpar;](http://www.techmeme.com/260319/p21#a260319p21)
- - [France goes for conversation, fashion and a fictitious radio station in its celebration of Apple&#39;s anniversary](https://appleinsider.com/articles/26/03/19/france-goes-for-conversation-fashion-and-a-fictitious-radio-station-in-its-celebration-of-apples-anniversary?utm_source=rss)
- - [DHL Supply Chain says it will open 10 warehouses in 2026 across North America to serve data center operators and component suppliers, totaling 7M+ square feet &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p20#a260319p20)<!-- TECH:END -->
+ - [Adobe launches Firefly Custom Models in public beta, letting users train AI image generators on their own assets; the custom models are private by default &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260319/p28#a260319p28)
+ - [OpenAI agrees to acquire Astral, which makes Python tools for developers, to integrate its team into Codex, and says Codex has 2M+ users, up 3x since January &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260319/p27#a260319p27)
+ - [The UK CMA launches an investigation into Adobe, saying early membership cancellation fees for certain products might be in breach of consumer protection laws &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p26#a260319p26)
+ - [Tubi and TikTok are partnering to produce long form series](https://www.theverge.com/entertainment/896648/tubi-tiktok-creatorverse-incubator)
+ - [Apple France leans on fashion &amp; fictitious radio station in 50th anniversary celebration](https://appleinsider.com/articles/26/03/19/france-goes-for-conversation-fashion-and-a-fictitious-radio-station-in-its-celebration-of-apples-anniversary?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Masimo wins hollow victory over Apple Watch&#39;s blood oxygen sensors](https://appleinsider.com/articles/26/03/19/masimo-wins-hollow-victory-over-apple-watchs-blood-oxygen-sensors?utm_source=rss)
- - [ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance](https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/)
- - [Amazon drops AirPods 4 to $99, AirPods Pro 3 to $199 in today&#39;s earbuds sale](https://appleinsider.com/articles/26/03/19/amazon-drops-airpods-4-to-99-airpods-pro-3-to-199-in-todays-earbuds-sale?utm_source=rss)
- - [Waymo says its fleet hit 170M+ miles as of December 2025, and its Waymo Driver system was involved in 92% fewer serious-injury crashes than human drivers &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260319/p35#a260319p35)
- - [Epic and Disney now let Fortnite creators make Star Wars games](https://www.theverge.com/games/897163/fortnite-star-wars-creators-uefn-epic-games-disney)<!-- TECH:END -->
+ - [Prediction markets are trying to lure journalists with partnership deals](https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals)
+ - [Google reveals its solution for true Android sideloading: a mandatory waiting period](https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process)
+ - [Cursor says Composer 2 is &quot;frontier-level at coding&quot; and is priced at $0.50/1M input tokens and $2.50/1M output tokens, with a faster variant costing 3x more &lpar;Cursor&rpar;](http://www.techmeme.com/260319/p38#a260319p38)
+ - [A New Game Turns the H-1B Visa System Into a Surreal Simulation](https://www.wired.com/story/made-in-china-a-new-game-turns-the-h-1b-visa-system-into-a-surreal-simulation/)
+ - [Meta is actually keeping its VR metaverse running, for now](https://www.theverge.com/tech/897396/meta-vr-horizon-worlds-metaverse-andrew-bosworth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

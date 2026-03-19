@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Electric Mountain Bikes &lpar;2026&rpar;: Specialized, Cannondale, Salsa](https://www.wired.com/story/best-electric-mountain-bikes/)
- - [The Fight to Hold AI Companies Accountable for Children’s Deaths](https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/)
- - [CISA warns US companies to follow Microsoft&#39;s recommendations for fortifying Intune, a tool to manage staff access, after a cyberattack on Stryker last week &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/260319/p14#a260319p14)
- - [Filing: Samsung says it plans to spend ~$73.3B on capital expenditure and research in 2026, up from ~$60B in 2025, and pay ~$6.5B in regular dividends &lpar;Reuters&rpar;](http://www.techmeme.com/260319/p13#a260319p13)
- - [HigherDose Red Light Shower Filter Review &lpar;2026&rpar;: Filter Needed](https://www.wired.com/review/higherdose-red-light-shower-filter/)<!-- TECH:END -->
+ - [The UN-backed World Happiness Report says passively consuming algorithmic social media hurts teens&#39; mental health, disproportionately affecting girls &lpar;Kati Pohjanpalo/Bloomberg&rpar;](http://www.techmeme.com/260319/p18#a260319p18)
+ - [TechInsights: chip manufacturing emissions will climb by ~33% to 247M metric tons of carbon dioxide equivalent by 2030, roughly equivalent to Algeria in 2024 &lpar;Aaron Clark/Bloomberg&rpar;](http://www.techmeme.com/260319/p17#a260319p17)
+ - [Android Auto’s Secret Superpower Is a Customizable Shortcut Button](https://www.wired.com/story/android-auto-customizable-shortcut-button/)
+ - [Apple MacBook Air &lpar;M5&rpar; Review: The Goldilocks MacBook](https://www.wired.com/review/macbook-air-m5/)
+ - [Alibaba reports Q3 revenue up 2% YoY ~$41.3B, below ~$42B est., and net income down 67% YoY to ~$2.4B, as it seeks to monetize its expensive AI push &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260319/p16#a260319p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

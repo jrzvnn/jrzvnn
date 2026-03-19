@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Signal&#39;s Moxie Marlinspike says his privacy-focused AI platform Confer will integrate its encryption tech into Meta AI to provide E2EE for chatbot interactions &lpar;Wired&rpar;](http://www.techmeme.com/260319/p47#a260319p47)
+ - [Google finally bringing Gemini app to Mac after Apple partnership](https://appleinsider.com/articles/26/03/19/google-finally-bringing-gemini-app-to-mac-after-apple-partnership?utm_source=rss)
+ - [Marc Andreessen is a philosophical zombie](https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie)
  - [The coolest game controller for your phone is $50 off](https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale)
- - [Sources: Google has started consumer beta testing of a dedicated Gemini AI app for the Mac, as it seeks to compete with Mac apps for ChatGPT and Claude &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260319/p46#a260319p46)
- - [iPhone isn&#39;t safe on old iOS anymore, update to at least iOS 15 now](https://appleinsider.com/articles/26/03/19/iphone-isnt-safe-on-old-ios-anymore-update-to-at-least-ios-15-now?utm_source=rss)
- - [Bluesky raised a $100M Series B led by Bain Capital Crypto in April 2025, following a $15M Series A in 2024 and an $8M seed in 2023; it now has over 43M users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260319/p45#a260319p45)
- - [Hermès doesn’t include a power adapter with its $5,150 charging case](https://www.theverge.com/tech/897474/hermes-paddock-wireless-charger-apple-watch-airpods-iphone-leather-luxury)<!-- TECH:END -->
+ - [Sources: Google has started consumer beta testing of a dedicated Gemini AI app for the Mac, as it seeks to compete with Mac apps for ChatGPT and Claude &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260319/p46#a260319p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

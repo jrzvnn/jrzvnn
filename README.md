@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s WF-1000XM6 wireless earbuds are on sale for the first time](https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale)
+ - [Filing: the Pentagon says Anthropic&#39;s use of foreign workers, including from China, poses security risks and that its case is &quot;different&quot; from other companies&#39; &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260319/p51#a260319p51)
+ - [Verily raised $300M led by Series X Capital, giving it ~2 years of runway per a source; Alphabet remains an investor but no longer has a controlling stake &lpar;Axios&rpar;](http://www.techmeme.com/260319/p50#a260319p50)
  - [Sketchy iPhone Fold launch timing shared by analyst with shaky history](https://appleinsider.com/articles/26/03/19/sketchy-iphone-fold-launch-timing-shared-by-analyst-with-shaky-history?utm_source=rss)
- - [Sources: Kalshi is raising ~$1B led by Coatue at a $22B valuation, up from the $11B valuation announced in December, and has a revenue run rate of ~$1.5B &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p49#a260319p49)
- - [Amazon acquires Zurich-based autonomous robotics startup Rivr, formerly Swiss-Mile; PitchBook: the startup was valued at $110M in an August 2024 funding round &lpar;The Information&rpar;](http://www.techmeme.com/260319/p48#a260319p48)
- - [Signal&#39;s Moxie Marlinspike says his privacy-focused AI platform Confer will integrate its encryption tech into Meta AI to provide E2EE for chatbot interactions &lpar;Wired&rpar;](http://www.techmeme.com/260319/p47#a260319p47)
- - [Google finally bringing Gemini app to Mac after Apple partnership](https://appleinsider.com/articles/26/03/19/google-finally-bringing-gemini-app-to-mac-after-apple-partnership?utm_source=rss)<!-- TECH:END -->
+ - [FBI Confirms Buying Data That Could Be Used to Track Americans](https://www.cnet.com/news/privacy/the-fbi-buys-data-that-could-track-americans-director-kash-patel-confirms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

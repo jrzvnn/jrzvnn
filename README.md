@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I appreciate their effort.](http://9gag.com/gag/aByem21)
- - 😝 [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)
- - 💣 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
- - 😝 [My new toy car has better camera skills than me](http://9gag.com/gag/aZZYrdz)
- - 👉 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)<!-- MEMES:END -->
+ - 😝 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
+ - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
+ - 💣 [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)
+ - 😝 [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
+ - 👉 [He probably thought: `Oh Shee-Heet`](http://9gag.com/gag/ajP4m6g)<!-- MEMES:END -->
 
 ---
 

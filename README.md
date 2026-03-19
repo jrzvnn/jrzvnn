@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic met behind closed doors with House Homeland Security and discussed issues like export controls, only briefly touching on its DOD fight &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260319/p53#a260319p53)
+ - [Nvidia says it will sell 1M GPUs and a broad mix of other chips, including new Groq chips, to AWS by the end of 2027; financial terms were not disclosed &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260319/p52#a260319p52)
  - [‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/)
  - [Sony’s WF-1000XM6 wireless earbuds are on sale for the first time](https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale)
- - [Filing: the Pentagon says Anthropic&#39;s use of foreign workers, including from China, poses security risks and that its case is &quot;different&quot; from other companies&#39; &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260319/p51#a260319p51)
- - [Verily raised $300M led by Series X Capital, giving it ~2 years of runway per a source; Alphabet remains an investor but no longer has a controlling stake &lpar;Axios&rpar;](http://www.techmeme.com/260319/p50#a260319p50)
- - [Sketchy iPhone Fold launch timing shared by analyst with shaky history](https://appleinsider.com/articles/26/03/19/sketchy-iphone-fold-launch-timing-shared-by-analyst-with-shaky-history?utm_source=rss)<!-- TECH:END -->
+ - [Filing: the Pentagon says Anthropic&#39;s use of foreign workers, including from China, poses security risks and that its case is &quot;different&quot; from other companies&#39; &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260319/p51#a260319p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UN-backed World Happiness Report says passively consuming algorithmic social media hurts teens&#39; mental health, disproportionately affecting girls &lpar;Kati Pohjanpalo/Bloomberg&rpar;](http://www.techmeme.com/260319/p18#a260319p18)
- - [TechInsights: chip manufacturing emissions will climb by ~33% to 247M metric tons of carbon dioxide equivalent by 2030, roughly equivalent to Algeria in 2024 &lpar;Aaron Clark/Bloomberg&rpar;](http://www.techmeme.com/260319/p17#a260319p17)
- - [Android Auto’s Secret Superpower Is a Customizable Shortcut Button](https://www.wired.com/story/android-auto-customizable-shortcut-button/)
- - [Apple MacBook Air &lpar;M5&rpar; Review: The Goldilocks MacBook](https://www.wired.com/review/macbook-air-m5/)
- - [Alibaba reports Q3 revenue up 2% YoY ~$41.3B, below ~$42B est., and net income down 67% YoY to ~$2.4B, as it seeks to monetize its expensive AI push &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260319/p16#a260319p16)<!-- TECH:END -->
+ - [Ofcom fines 4chan £520K for OSA violations, including a £450K penalty for failing to implement age assurance checks, giving it until April 2 to implement them &lpar;Mizy Clifton/Politico&rpar;](http://www.techmeme.com/260319/p19#a260319p19)
+ - [Soundcore Nebula X1 Pro Dolby Atmos Projector Review: Big, Brilliant](https://www.wired.com/review/anker-soundcore-nebula-x1-projector/)
+ - [M5 Max 16-inch MacBook Pro review: Portable Mac Studio power](https://appleinsider.com/articles/26/03/19/m5-max-16-inch-macbook-pro-review-portable-mac-studio-power?utm_source=rss)
+ - [There&#39;s so much more we can do with iPhone, says Tim Cook](https://appleinsider.com/articles/26/03/19/theres-so-much-more-we-can-do-with-iphone-says-tim-cook?utm_source=rss)
+ - [The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth &amp; Paper](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

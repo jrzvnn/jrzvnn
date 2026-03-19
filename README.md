@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: European chip importers are tapping backup stores and paying higher air freight costs as the US-led Iran war disrupts Middle Eastern cargo routes &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260319/p12#a260319p12)
- - [Get Ready for a Year of Chaotic Weather in the US](https://www.wired.com/story/get-ready-for-a-year-of-chaotic-weather-in-the-us/)
- - [Trump is threatening international students, and a new bill could help stop him](https://www.theverge.com/policy/897097/opt-bill-international-student-visas)
- - [Paris-based Parallel, which develops AI agents for hospitals and is initially focused on medical coding workflows, raised a $20M Series A led by Index Ventures &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260319/p11#a260319p11)
- - [Edra, which says it helps companies automate workflows by turning their operational data into a living knowledge base, raised a $30M Series A led by Sequoia &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260319/p10#a260319p10)<!-- TECH:END -->
+ - [Best Electric Mountain Bikes &lpar;2026&rpar;: Specialized, Cannondale, Salsa](https://www.wired.com/story/best-electric-mountain-bikes/)
+ - [The Fight to Hold AI Companies Accountable for Children’s Deaths](https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/)
+ - [CISA warns US companies to follow Microsoft&#39;s recommendations for fortifying Intune, a tool to manage staff access, after a cyberattack on Stryker last week &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/260319/p14#a260319p14)
+ - [Filing: Samsung says it plans to spend ~$73.3B on capital expenditure and research in 2026, up from ~$60B in 2025, and pay ~$6.5B in regular dividends &lpar;Reuters&rpar;](http://www.techmeme.com/260319/p13#a260319p13)
+ - [HigherDose Red Light Shower Filter Review &lpar;2026&rpar;: Filter Needed](https://www.wired.com/review/higherdose-red-light-shower-filter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

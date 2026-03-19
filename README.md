@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US prosecutors charge three people affiliated with Super Micro, including a co-founder, with smuggling Nvidia chips to China; SMCI drops 9%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260319/p55#a260319p55)
  - [OpenAI plans to unify ChatGPT, Codex, and its browser into a desktop &quot;superapp&quot; to simplify the user experience and focus on engineering and business customers &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p54#a260319p54)
  - [Sources: Anthropic met behind closed doors with House Homeland Security and discussed issues like export controls, only briefly touching on its DOD fight &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260319/p53#a260319p53)
  - [Nvidia says it will sell 1M GPUs and a broad mix of other chips, including new Groq chips, to AWS by the end of 2027; financial terms were not disclosed &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260319/p52#a260319p52)
- - [‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/)
- - [Best Battery Life Laptops of 2026](https://www.cnet.com/tech/computing/best-battery-life-laptop/)<!-- TECH:END -->
+ - [‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

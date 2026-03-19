@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the favourites 2](http://9gag.com/gag/awypzmr)
- - 😝 [Dementia](http://9gag.com/gag/amoZgzy)
- - 💣 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
+ - 😝 [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
+ - 😝 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 💣 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
  - 😝 [More old stuff I found](http://9gag.com/gag/aAy9030)
- - 👉 [This D&amp;D setup is next level, I need friends like this](http://9gag.com/gag/a2vX7jE)<!-- MEMES:END -->
+ - 👉 [The East has fallen](http://9gag.com/gag/a34OEP7)<!-- MEMES:END -->
 
 ---
 

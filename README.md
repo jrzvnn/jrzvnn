@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
- - 😝 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
- - 💣 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - 😝 [How a true judge actually enforces the laws](http://9gag.com/gag/apRM98E)
- - 👉 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)<!-- MEMES:END -->
+ - 😝 [Take care of your place](http://9gag.com/gag/a4P012p)
+ - 😝 [Mr Anderson](http://9gag.com/gag/a2vX1nD)
+ - 💣 [One of the favourites 2](http://9gag.com/gag/awypzmr)
+ - 😝 [They are peaceful, as long as you do exactly as they say.](http://9gag.com/gag/a4P0oVm)
+ - 👉 [How Samurai Jack uses the 60:30:10 colour rule for visual magic](http://9gag.com/gag/aNDbPob)<!-- MEMES:END -->
 
 ---
 

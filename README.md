@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
- - 😝 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 😝 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)
+ - 😝 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)
  - 💣 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - 😝 [More old stuff I found](http://9gag.com/gag/aAy9030)
- - 👉 [The East has fallen](http://9gag.com/gag/a34OEP7)<!-- MEMES:END -->
+ - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
+ - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
 
 ---
 

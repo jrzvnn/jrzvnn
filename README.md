@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heavy](http://9gag.com/gag/adBz892)
- - 😝 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
- - 💣 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
- - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
+ - 😝 [Take care of your place](http://9gag.com/gag/a4P012p)
+ - 😝 [How Samurai Jack uses the 60:30:10 colour rule for visual magic](http://9gag.com/gag/aNDbPob)
+ - 💣 [More old stuff I found](http://9gag.com/gag/aAy9030)
+ - 😝 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 👉 [The debate is officially over](http://9gag.com/gag/azx32gm)<!-- MEMES:END -->
 
 ---
 

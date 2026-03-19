@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
- - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
+ - 😝 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
  - 💣 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - 😝 [More old stuff I found](http://9gag.com/gag/aAy9030)
- - 👉 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)<!-- MEMES:END -->
+ - 😝 [How a true judge actually enforces the laws](http://9gag.com/gag/apRM98E)
+ - 👉 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)<!-- MEMES:END -->
 
 ---
 

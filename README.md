@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claros, which aims to cut data center energy losses by using voltage regulators that provide power directly to servers&#39; main processors, raised a $30M seed &lpar;Ben Geman/Axios&rpar;](http://www.techmeme.com/260319/p30#a260319p30)
- - [Tesla&amp;#8217;s Full Self-Driving is on the cusp of a recall](https://www.theverge.com/transportation/897303/tesla-full-self-driving-nhtsa-probe-march-2026)
- - [Casio’s new $600 calculator is a work of art](https://www.theverge.com/tech/897278/casio-s100x-calculator-japanese-lacquer-finish-limited-edition)
- - [Signal’s Creator Is Helping Encrypt Meta AI](https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/)
- - [Paramount’s $110 billion Warner Bros. gamble](https://www.theverge.com/podcast/896694/paramount-warner-bros-discovery-david-ellison-netflix-deal-merger)<!-- TECH:END -->
+ - [Lina Khan was right](https://www.theverge.com/report/896820/lina-khan-ftc-meta-supernatural-antitrust)
+ - [DoorDash launches Tasks, a new app that pays delivery couriers in some markets to submit video clips and complete other tasks for training AI models &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260319/p32#a260319p32)
+ - [Belkin’s wireless HDMI adapter freed me from a long annoying cable when I travel](https://www.theverge.com/tech/889512/belkin-connectair-wireless-hdmi-display-adapter-hands-on)
+ - [Waymo hits 170 million miles while avoiding serious mayhem](https://www.theverge.com/transportation/896837/waymo-170-million-miles-safety-crashes-injuries)
+ - [Letters: industry groups pushed back after India proposed in January that Apple, Google, and others consider pre-installing biometric ID app Aadhaar on phones &lpar;Reuters&rpar;](http://www.techmeme.com/260319/p31#a260319p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

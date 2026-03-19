@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prediction markets are trying to lure journalists with partnership deals](https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals)
- - [Google reveals its solution for true Android sideloading: a mandatory waiting period](https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process)
- - [Cursor says Composer 2 is &quot;frontier-level at coding&quot; and is priced at $0.50/1M input tokens and $2.50/1M output tokens, with a faster variant costing 3x more &lpar;Cursor&rpar;](http://www.techmeme.com/260319/p38#a260319p38)
- - [A New Game Turns the H-1B Visa System Into a Surreal Simulation](https://www.wired.com/story/made-in-china-a-new-game-turns-the-h-1b-visa-system-into-a-surreal-simulation/)
- - [Meta is actually keeping its VR metaverse running, for now](https://www.theverge.com/tech/897396/meta-vr-horizon-worlds-metaverse-andrew-bosworth)<!-- TECH:END -->
+ - [Perplexity&#39;s new AI health feature includes Apple Health integration nobody should use](https://appleinsider.com/articles/26/03/19/perplexitys-new-ai-health-feature-includes-apple-health-integration-nobody-should-use?utm_source=rss)
+ - [Oasis Security, which specializes in securing non-human identities, such as AI bots and automated work tools, raised $120M, bringing its total funding to $190M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/260319/p42#a260319p42)
+ - [Google announces a new &quot;advanced flow&quot; for Android sideloading that requires a mandatory 24-hour cooling-off period to install apps from unverified developers &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260319/p41#a260319p41)
+ - [All the wrong EVs are getting cancelled](https://www.theverge.com/transportation/897399/all-the-wrong-evs-are-getting-cancelled)
+ - [The Original AirPods Max Are $100 Off](https://www.wired.com/story/airpods-max-deal-326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe launches Firefly Custom Models in public beta, letting users train AI image generators on their own assets; the custom models are private by default &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260319/p28#a260319p28)
- - [OpenAI agrees to acquire Astral, which makes Python tools for developers, to integrate its team into Codex, and says Codex has 2M+ users, up 3x since January &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260319/p27#a260319p27)
- - [The UK CMA launches an investigation into Adobe, saying early membership cancellation fees for certain products might be in breach of consumer protection laws &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p26#a260319p26)
- - [Tubi and TikTok are partnering to produce long form series](https://www.theverge.com/entertainment/896648/tubi-tiktok-creatorverse-incubator)
- - [Apple France leans on fashion &amp; fictitious radio station in 50th anniversary celebration](https://appleinsider.com/articles/26/03/19/france-goes-for-conversation-fashion-and-a-fictitious-radio-station-in-its-celebration-of-apples-anniversary?utm_source=rss)<!-- TECH:END -->
+ - [Claros, which aims to cut data center energy losses by using voltage regulators that provide power directly to servers&#39; main processors, raised a $30M seed &lpar;Ben Geman/Axios&rpar;](http://www.techmeme.com/260319/p30#a260319p30)
+ - [Tesla&amp;#8217;s Full Self-Driving is on the cusp of a recall](https://www.theverge.com/transportation/897303/tesla-full-self-driving-nhtsa-probe-march-2026)
+ - [Casio’s new $600 calculator is a work of art](https://www.theverge.com/tech/897278/casio-s100x-calculator-japanese-lacquer-finish-limited-edition)
+ - [Signal’s Creator Is Helping Encrypt Meta AI](https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/)
+ - [Paramount’s $110 billion Warner Bros. gamble](https://www.theverge.com/podcast/896694/paramount-warner-bros-discovery-david-ellison-netflix-deal-merger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

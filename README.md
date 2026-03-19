@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
  - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
- - 💣 [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)
  - 😝 [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
- - 👉 [He probably thought: `Oh Shee-Heet`](http://9gag.com/gag/ajP4m6g)<!-- MEMES:END -->
+ - 💣 [Fuse replacement at home](http://9gag.com/gag/aQzjdK7)
+ - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
+ - 👉 [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
- - 😝 [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)
- - 💣 [Sporty Spice](http://9gag.com/gag/aE04qvO)
- - 😝 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
- - 👉 [Fuse replacement at home](http://9gag.com/gag/aQzjdK7)<!-- MEMES:END -->
+ - 😝 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
+ - 😝 [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
+ - 💣 [Now i get inspired to make a video game](http://9gag.com/gag/aBye2gQ)
+ - 😝 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
+ - 👉 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)<!-- MEMES:END -->
 
 ---
 

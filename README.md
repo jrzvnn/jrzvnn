@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take care of your place](http://9gag.com/gag/a4P012p)
- - 😝 [The debate is officially over](http://9gag.com/gag/azx32gm)
- - 💣 [They are peaceful, as long as you do exactly as they say.](http://9gag.com/gag/a4P0oVm)
- - 😝 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)
- - 👉 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)<!-- MEMES:END -->
+ - 😝 [My fellow office worker](http://9gag.com/gag/agmeovn)
+ - 😝 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
+ - 💣 [Save him guyssss.](http://9gag.com/gag/aGyQzwK)
+ - 😝 [Modern problems require modern solutions](http://9gag.com/gag/a87g726)
+ - 👉 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)<!-- MEMES:END -->
 
 ---
 

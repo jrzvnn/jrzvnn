@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He&#39;s done](http://9gag.com/gag/aMVL45P)
- - 😝 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
- - 💣 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
- - 😝 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
- - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
+ - 😝 [Me giving peep talk to my last two brain cells during exam](http://9gag.com/gag/a87g1gp)
+ - 💣 [Thank you internet](http://9gag.com/gag/a6ZR1G8)
+ - 😝 [Feeling ancient yet](http://9gag.com/gag/adBzBY2)
+ - 👉 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)<!-- MEMES:END -->
 
 ---
 

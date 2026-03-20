@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The horror...](http://9gag.com/gag/azx3eZp)
- - 😝 [My fellow office worker](http://9gag.com/gag/agmeovn)
- - 💣 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - 😝 [Japanese prime minister reaction on Trumps &#39;joke&#39;](http://9gag.com/gag/aLnE1YA)
- - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
+ - 😝 [Me giving peep talk to my last two brain cells during exam](http://9gag.com/gag/a87g1gp)
+ - 😝 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
+ - 💣 [Japanese prime minister reaction on Trumps &#39;joke&#39;](http://9gag.com/gag/aLnE1YA)
+ - 😝 [Holy f**king shit. Chuck Norris actually died. RIP](http://9gag.com/gag/aAy9Q1d)
+ - 👉 [The horror...](http://9gag.com/gag/azx3eZp)<!-- MEMES:END -->
 
 ---
 

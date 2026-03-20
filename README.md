@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Sony PlayStation games will use AI to imagine new frames](https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames)
- - [Pinterest CEO Bill Ready calls on governments to ban social media for users under 16, says social platforms gave &quot;insufficient forethought&quot; about consequences &lpar;Bill Ready/Time&rpar;](http://www.techmeme.com/260320/p19#a260320p19)
- - [Microsoft acknowledges complaints about Windows 11, promising a reduction of &quot;unnecessary&quot; Copilot integrations, more control over updates, and more &lpar;Ed Bott/ZDNET&rpar;](http://www.techmeme.com/260320/p18#a260320p18)
- - [Gamers Hate Nvidia&#39;s DLSS 5. Developers Aren’t Crazy About It, Either](https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/)
- - [Disco Elysium, Absolum and More Indie Darlings Head to Xbox Game Pass](https://www.cnet.com/tech/gaming/disco-elysium-absolum-more-indie-darlings-head-to-xbox-game-pass/)<!-- TECH:END -->
+ - [Jensen Huang proposes a compensation model where engineers receive an AI token budget on top of their base salary, to deploy agents as productivity multipliers &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/260320/p20#a260320p20)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 21, #1014](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-21-1014/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 21 #748](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-21-748/)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 21, #1736](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-21-1736/)
+ - [A new Nintendo Switch 2 could be the poster child for replaceable batteries](https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

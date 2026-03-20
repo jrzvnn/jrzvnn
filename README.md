@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The horror...](http://9gag.com/gag/azx3eZp)
- - 😝 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
- - 💣 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
- - 😝 [Holy f**king shit. Chuck Norris actually died. RIP](http://9gag.com/gag/aAy9Q1d)
- - 👉 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)<!-- MEMES:END -->
+ - 😝 [Hollywood look](http://9gag.com/gag/axyryep)
+ - 😝 [When your RC truck looks more real than your actual car](http://9gag.com/gag/awypyrQ)
+ - 💣 [My new toy car has better camera skills than me](http://9gag.com/gag/aZZYrdz)
+ - 😝 [Here we go. All the best!](http://9gag.com/gag/aD2v7zN)
+ - 👉 [An ancient technique for lifting giant stone blocks using a Lewis tool](http://9gag.com/gag/axyry4W)<!-- MEMES:END -->
 
 ---
 

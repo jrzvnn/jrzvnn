@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US DOJ operation disrupted four botnets that infected 3M+ devices and includes the Aisuru and Kimwolf botnets used in a 31.4 Tbps DDoS attack in December 2025 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260319/p59#a260319p59)
- - [MiniMax releases M2.7, a proprietary &quot;self-evolving&quot; LLM that the company used to build, monitor, and optimize the model&#39;s own reinforcement learning harnesses &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260319/p58#a260319p58)
- - [Spring Equinox Arrives Friday, Marking the Official End of Winter](https://www.cnet.com/science/space/spring-equinox-everything-you-need-to-know/)
- - [Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine](https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally)
- - [A man accused of using thousands of bot accounts to stream AI songs, making millions in royalties, pleads guilty in US district court to wire fraud conspiracy &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260319/p57#a260319p57)<!-- TECH:END -->
+ - [Sources: Indian AI data center operator Yotta is aiming to secure ~$500M to $600M at a ~$4B valuation, then file initial paperwork for an IPO within weeks &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260320/p1#a260320p1)
+ - [Microsoft releases MAI-Image-2, ranked #3 on the text-to-image Arena leaderboard behind models from Google and OpenAI, available in the MAI Playground &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260319/p63#a260319p63)
+ - [Filing: Blue Origin seeks US FCC approval to deploy nearly 52K satellites as part of its proposed orbital AI data center system &quot;Project Sunrise&quot; &lpar;Micah Maidenberg/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p62#a260319p62)
+ - [Sources: Jeff Bezos&#39; $100B fund would be part of the same holding company as Project Prometheus and would invest in companies that could benefit from its tech &lpar;New York Times&rpar;](http://www.techmeme.com/260319/p61#a260319p61)
+ - [How AI startups and founders use &quot;taste&quot; as the latest buzzword for describing and distinguishing their products, in an attempt to evoke an aura of artisanality &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/260319/p60#a260319p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

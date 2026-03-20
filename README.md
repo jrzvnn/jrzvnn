@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: contract electronics manufacturer Zetwerk plans to file for an IPO in India, aiming to raise ~$550M at a ~$4B valuation; it was valued at $3.1B in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/260320/p17#a260320p17)
- - [Trump takes another shot at dismantling state AI regulation](https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework)
- - [Memo: Roblox is planning to take a share of revenue from sponsorships in its games and is overhauling advertising policies beginning May 4 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/260320/p16#a260320p16)
- - [These electronic Polaroids are powered by your phone’s NFC chip](https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet)
- - [OpenAI Plans to Combine Its AI Tools in a Desktop &#39;Superapp&#39;](https://www.cnet.com/tech/services-and-software/openai-is-planning-to-combine-its-ai-tools-in-a-desktop-superapp/)<!-- TECH:END -->
+ - [Pinterest CEO Bill Ready calls on governments to ban social media for users under 16, says social platforms gave &quot;insufficient forethought&quot; about consequences &lpar;Bill Ready/Time&rpar;](http://www.techmeme.com/260320/p19#a260320p19)
+ - [Microsoft acknowledges complaints about Windows 11, promising a reduction of &quot;unnecessary&quot; Copilot integrations, more control over updates, and more &lpar;Ed Bott/ZDNET&rpar;](http://www.techmeme.com/260320/p18#a260320p18)
+ - [Gamers Hate Nvidia&#39;s DLSS 5. Developers Aren’t Crazy About It, Either](https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/)
+ - [Windows 11 is finally getting a movable taskbar](https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable)
+ - [Microsoft is ending the Windows Update nightmare — and letting you pause them indefinitely](https://www.theverge.com/tech/898082/microsoft-promises-to-end-forced-windows-updates-still-automatic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

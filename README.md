@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s done](http://9gag.com/gag/aMVL45P)
- - 😝 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
- - 💣 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
+ - 😝 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
  - 😝 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - 👉 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)<!-- MEMES:END -->
+ - 💣 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
+ - 😝 [What separates humans from animals? The Mediterranean sea](http://9gag.com/gag/apRMR8p)
+ - 👉 [Save him guyssss.](http://9gag.com/gag/aGyQzwK)<!-- MEMES:END -->
 
 ---
 

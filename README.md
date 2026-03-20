@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
- - 😝 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - 💣 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
- - 😝 [A solution](http://9gag.com/gag/a4P0Pwv)
- - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
+ - 😝 [They are peaceful, as long as you do exactly as they say.](http://9gag.com/gag/a4P0oVm)
+ - 😝 [More of this, before it\u2019s too late.](http://9gag.com/gag/aZZYDGp)
+ - 💣 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 😝 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)
+ - 👉 [What we need more today...](http://9gag.com/gag/a5QYQdo)<!-- MEMES:END -->
 
 ---
 

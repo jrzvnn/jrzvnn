@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Neo review: the new king of budget laptops](https://appleinsider.com/articles/26/03/20/macbook-neo-review-the-new-king-of-budget-laptops?utm_source=rss)
- - [&amp;#8216;Work from home,&amp;#8217; encourages the world&amp;#8217;s energy watchdog](https://www.theverge.com/science/897874/iea-fuel-gas-shortage-recommendations-work-from-home)
- - [GhostClaw turns GitHub habits into a macOS malware pipeline](https://appleinsider.com/articles/26/03/20/ghostclaw-turns-github-habits-into-a-macos-malware-pipeline?utm_source=rss)
- - [Best Kids&#39; Bikes &lpar;2026&rpar;: Woom, Prevelo, Guardian, and More](https://www.wired.com/gallery/best-kids-bikes/)
- - [Apple wasn&#39;t alone in 1976 -- these companies helped define an era](https://appleinsider.com/articles/26/03/20/apple-wasnt-alone-in-1976----these-companies-helped-define-an-era?utm_source=rss)<!-- TECH:END -->
+ - [Why people really hate AI](https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast)
+ - [Blackberry&#39;s ghost still haunts Apple in lawsuits that have nothing to do with them](https://appleinsider.com/articles/26/03/20/blackberrys-ghost-still-haunts-apple-in-lawsuits-that-have-nothing-to-do-with-them?utm_source=rss)
+ - [The White House releases an AI policy framework, explicitly calling on Congress to preempt state AI laws, create age-gating requirements for AI models, and more &lpar;Politico&rpar;](http://www.techmeme.com/260320/p9#a260320p9)
+ - [Amazon&amp;#8217;s Big Spring Sale 2026: all of the latest deals](https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news)
+ - [Filing: Unitree, China&#39;s leading robot company, is aiming to raise ~$610M in its Shanghai IPO; it brought in ~$247M in revenue in 2025 and ~$41.6M in net profit &lpar;Jessica Sui/Bloomberg&rpar;](http://www.techmeme.com/260320/p8#a260320p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

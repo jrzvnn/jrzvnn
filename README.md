@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - 😝 [He&#39;s done](http://9gag.com/gag/aMVL45P)
- - 💣 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
- - 😝 [Call an ambulance... but not for him](http://9gag.com/gag/aByeZg2)
- - 👉 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)<!-- MEMES:END -->
+ - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
+ - 💣 [How to lift your girl](http://9gag.com/gag/ajP47Lw)
+ - 😝 [Rest in Peace \u2013 a legend is gone.](http://9gag.com/gag/ae9B4G5)
+ - 👉 [Japanese prime minister reaction on Trumps &#39;joke&#39;](http://9gag.com/gag/aLnE1YA)<!-- MEMES:END -->
 
 ---
 

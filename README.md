@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hollywood look](http://9gag.com/gag/axyryep)
- - 😝 [When your RC truck looks more real than your actual car](http://9gag.com/gag/awypyrQ)
- - 💣 [My new toy car has better camera skills than me](http://9gag.com/gag/aZZYrdz)
- - 😝 [Here we go. All the best!](http://9gag.com/gag/aD2v7zN)
- - 👉 [An ancient technique for lifting giant stone blocks using a Lewis tool](http://9gag.com/gag/axyry4W)<!-- MEMES:END -->
+ - 😝 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
+ - 😝 [He&#39;s done](http://9gag.com/gag/aMVL45P)
+ - 💣 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
+ - 😝 [Call an ambulance... but not for him](http://9gag.com/gag/aByeZg2)
+ - 👉 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)<!-- MEMES:END -->
 
 ---
 

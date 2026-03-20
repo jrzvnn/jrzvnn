@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon&#39;s ZeroOne team is developing &quot;Transformer&quot;, a phone that syncs up with Alexa; it would be Amazon&#39;s first smartphone since its 2014 Fire Phone &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260320/p7#a260320p7)
+ - [I Learned More Than I Thought I Would From Using Food-Tracking Apps](https://www.wired.com/story/food-tracking-apps-ai-nutrition-weight-loss/)
+ - [Corsair Frame 4000D RS PC Case Review: Excellent Flow](https://www.wired.com/review/corsair-frame-4000d-rs/)
  - [The Danger Behind Meta’s Decision to Kill End-to-End Encrypted Instagram DMs](https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/)
- - [LinkedIn Invited My AI &#39;Cofounder&#39; to Give a Corporate Talk—Then Banned It](https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/)
- - [Shareholder letter: crypto exchange Gemini has cut ~30% of its staff since the beginning of 2026 and had 445 employees as of March 1; Gemini lost $500M+ in 2025 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260320/p6#a260320p6)
- - [Memo: ByteDance agrees to sell gaming unit Moonton to Savvy Games, owned by Saudi Arabia&#39;s PIF, a source says for $6B; ByteDance bought Moonton for $4B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260320/p5#a260320p5)
- - [Tempur-ActiveBreeze Smart Bed Review: High-Tech Titan](https://www.wired.com/review/tempur-activebreeze-smart-bed/)<!-- TECH:END -->
+ - [LinkedIn Invited My AI &#39;Cofounder&#39; to Give a Corporate Talk—Then Banned It](https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jury finds Elon Musk&amp;#8217;s &amp;#8216;stupid tweets&amp;#8217; caused Twitter investors&amp;#8217; losses](https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit)
  - [The Fifth Circuit Court of Appeals throws out a 2024 FTC order barring Intuit from advertising TurboTax products as &quot;free&quot; when many taxpayers are ineligible &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260320/p26#a260320p26)
  - [The US Department of Energy announces a partnership with SoftBank and its affiliate SB Energy to develop a 10 GW data center with its own power supply in Ohio &lpar;Associated Press&rpar;](http://www.techmeme.com/260320/p25#a260320p25)
  - [Trump Outlines New AI Regulation Plan: What&#39;s in It and What&#39;s Missing](https://www.cnet.com/tech/services-and-software/trump-national-ai-legislation-plan-march-2026-news/)
- - [There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone](https://www.wired.com/story/amazon-smartphone-rumor-2026/)
- - [An automated moderation error left Tumblr users panicked](https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026)<!-- TECH:END -->
+ - [There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone](https://www.wired.com/story/amazon-smartphone-rumor-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

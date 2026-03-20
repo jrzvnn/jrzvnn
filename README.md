@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Tinder Fix The Dating Landscape It Helped Ruin?](https://www.wired.com/story/can-tinder-fix-the-dating-landscape-it-helped-ruin/)
- - [Firewire Surfboard Review &lpar;2026&rpar;: Neutrino, Revo Max, Machadocado](https://www.wired.com/story/firewire-neutrino-surfboard-rave/)
- - [Sources: Amazon&#39;s ZeroOne team is developing &quot;Transformer&quot;, a phone that syncs up with Alexa; it would be Amazon&#39;s first smartphone since its 2014 Fire Phone &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260320/p7#a260320p7)
- - [I Learned More Than I Thought I Would From Using Food-Tracking Apps](https://www.wired.com/story/food-tracking-apps-ai-nutrition-weight-loss/)
- - [Corsair Frame 4000D RS PC Case Review: Excellent Flow](https://www.wired.com/review/corsair-frame-4000d-rs/)<!-- TECH:END -->
+ - [China Approves the First Brain Chips for Sale—and Has a Plan to Dominate the Industry](https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/)
+ - [Behind on Siri, Apple makes a billion dollars from rival AI apps](https://appleinsider.com/articles/26/03/20/behind-on-siri-apple-makes-a-billion-dollars-from-rival-ai-apps?utm_source=rss)
+ - [16 Best Camera Bags, Slings, Straps, and Backpacks &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
+ - [&#39;The Madison&#39;: When Does Part 2 of Taylor Sheridan&#39;s New Western Come Out?](https://www.cnet.com/tech/services-and-software/the-madison-how-to-watch-taylor-sheridan-paramount-plus/)
+ - [If You Don&#39;t Like Your iPhone&#39;s Liquid Glass Design, Here&#39;s How to Change It](https://www.cnet.com/tech/services-and-software/apple-iphone-ios-26-1-liquid-glass-design-change/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

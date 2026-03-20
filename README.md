@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
+ - 😝 [How to lift your girl](http://9gag.com/gag/ajP47Lw)
+ - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
+ - 💣 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
  - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
- - 💣 [How to lift your girl](http://9gag.com/gag/ajP47Lw)
- - 😝 [Dutch reporter dives into the story](http://9gag.com/gag/aMVLdvR)
- - 👉 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)<!-- MEMES:END -->
+ - 👉 [Why was he so angry?](http://9gag.com/gag/aryLmzp)<!-- MEMES:END -->
 
 ---
 

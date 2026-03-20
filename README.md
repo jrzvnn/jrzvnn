@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
+ - 😝 [Take care of your place](http://9gag.com/gag/a4P012p)
+ - 😝 [They are peaceful, as long as you do exactly as they say.](http://9gag.com/gag/a4P0oVm)
+ - 💣 [The debate is officially over](http://9gag.com/gag/azx32gm)
  - 😝 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)
- - 💣 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
- - 👉 [The shot shot him](http://9gag.com/gag/agmegQ6)<!-- MEMES:END -->
+ - 👉 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)<!-- MEMES:END -->
 
 ---
 

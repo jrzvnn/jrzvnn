@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow office worker](http://9gag.com/gag/agmeovn)
  - 😝 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
- - 💣 [Save him guyssss.](http://9gag.com/gag/aGyQzwK)
- - 😝 [Modern problems require modern solutions](http://9gag.com/gag/a87g726)
- - 👉 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)<!-- MEMES:END -->
+ - 😝 [The horror...](http://9gag.com/gag/azx3eZp)
+ - 💣 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 😝 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
+ - 👉 [Save him guyssss.](http://9gag.com/gag/aGyQzwK)<!-- MEMES:END -->
 
 ---
 

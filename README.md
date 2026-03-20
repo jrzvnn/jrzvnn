@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take care of your place](http://9gag.com/gag/a4P012p)
- - 😝 [They are peaceful, as long as you do exactly as they say.](http://9gag.com/gag/a4P0oVm)
- - 💣 [The debate is officially over](http://9gag.com/gag/azx32gm)
- - 😝 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)
- - 👉 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)<!-- MEMES:END -->
+ - 😝 [He&#39;s done](http://9gag.com/gag/aMVL45P)
+ - 😝 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 💣 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
+ - 😝 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
+ - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
 
 ---
 

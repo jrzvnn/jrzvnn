@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China Approves the First Brain Chips for Sale—and Has a Plan to Dominate the Industry](https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/)
- - [Behind on Siri, Apple makes a billion dollars from rival AI apps](https://appleinsider.com/articles/26/03/20/behind-on-siri-apple-makes-a-billion-dollars-from-rival-ai-apps?utm_source=rss)
- - [16 Best Camera Bags, Slings, Straps, and Backpacks &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
- - [&#39;The Madison&#39;: When Does Part 2 of Taylor Sheridan&#39;s New Western Come Out?](https://www.cnet.com/tech/services-and-software/the-madison-how-to-watch-taylor-sheridan-paramount-plus/)
- - [If You Don&#39;t Like Your iPhone&#39;s Liquid Glass Design, Here&#39;s How to Change It](https://www.cnet.com/tech/services-and-software/apple-iphone-ios-26-1-liquid-glass-design-change/)<!-- TECH:END -->
+ - [MacBook Neo review: the new king of budget laptops](https://appleinsider.com/articles/26/03/20/macbook-neo-review-the-new-king-of-budget-laptops?utm_source=rss)
+ - [&amp;#8216;Work from home,&amp;#8217; encourages the world&amp;#8217;s energy watchdog](https://www.theverge.com/science/897874/iea-fuel-gas-shortage-recommendations-work-from-home)
+ - [GhostClaw turns GitHub habits into a macOS malware pipeline](https://appleinsider.com/articles/26/03/20/ghostclaw-turns-github-habits-into-a-macos-malware-pipeline?utm_source=rss)
+ - [Best Kids&#39; Bikes &lpar;2026&rpar;: Woom, Prevelo, Guardian, and More](https://www.wired.com/gallery/best-kids-bikes/)
+ - [Apple wasn&#39;t alone in 1976 -- these companies helped define an era](https://appleinsider.com/articles/26/03/20/apple-wasnt-alone-in-1976----these-companies-helped-define-an-era?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

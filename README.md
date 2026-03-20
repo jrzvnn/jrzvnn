@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nine months later, the Trump phone still doesn’t exist](https://www.theverge.com/tech/898110/trump-phone-t1-release-certification)
+ - [This Compact Bose Soundbar Is $80 Off](https://www.wired.com/story/bose-smart-soundbar-deal-326/)
+ - [Anker’s Qi2 MagGo Power Bank is down to its best price in months](https://www.theverge.com/gadgets/897992/anker-maggo-power-bank-10k-amazon-big-spring-sale-2026-deal)
  - [A judge issues an order requiring Kalshi to temporarily halt sports and election contracts in Nevada, the first US state to force Kalshi to cease operations &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260320/p15#a260320p15)
- - [WordPress.com says it will now allow AI agents to draft, edit, and publish content on customers&#39; websites, as well as manage comments, update metadata, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260320/p14#a260320p14)
- - [OpenAI plans &quot;an autonomous AI research intern&quot; by September and says its &quot;North Star&quot; is to build a fully automated multi-agent research system by 2028 &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260320/p13#a260320p13)
- - [Kalshi Has Been Temporarily Banned in Nevada](https://www.wired.com/story/nevada-bans-kalshi-prediction-market/)
- - [Apple just broke launch-week records for new Mac users](https://appleinsider.com/articles/26/03/20/apple-just-broke-launch-week-records-for-new-mac-users?utm_source=rss)<!-- TECH:END -->
+ - [WordPress.com says it will now allow AI agents to draft, edit, and publish content on customers&#39; websites, as well as manage comments, update metadata, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260320/p14#a260320p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

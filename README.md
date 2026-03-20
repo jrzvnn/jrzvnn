@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tempur-ActiveBreeze Smart Bed Review: High-Tech Titan](https://www.wired.com/review/tempur-activebreeze-smart-bed/)
- - [Xiaomi releases MiMo-V2-Pro, its new 1T-parameter foundation model, codenamed Hunter Alpha, which the company says benchmarks close to GPT-5.2 and Opus 4.6 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260320/p4#a260320p4)
- - [Filing: the SEC approved a Nasdaq rule change allowing some securities to trade in tokenized form; the new approach will be tested in an upcoming pilot program &lpar;The Block&rpar;](http://www.techmeme.com/260320/p3#a260320p3)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Newegg Promo Code: 10% Off in March 2026](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
+ - [The Danger Behind Meta’s Decision to Kill End-to-End Encrypted Instagram DMs](https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/)
+ - [LinkedIn Invited My AI &#39;Cofounder&#39; to Give a Corporate Talk—Then Banned It](https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/)
+ - [Shareholder letter: crypto exchange Gemini has cut ~30% of its staff since the beginning of 2026 and had 445 employees as of March 1; Gemini lost $500M+ in 2025 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260320/p6#a260320p6)
+ - [Memo: ByteDance agrees to sell gaming unit Moonton to Savvy Games, owned by Saudi Arabia&#39;s PIF, a source says for $6B; ByteDance bought Moonton for $4B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260320/p5#a260320p5)
+ - [Tempur-ActiveBreeze Smart Bed Review: High-Tech Titan](https://www.wired.com/review/tempur-activebreeze-smart-bed/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

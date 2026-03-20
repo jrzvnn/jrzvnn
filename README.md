@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
- - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
- - 💣 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
- - 😝 [I know people say this advice all the time. But that doesn&#39;t make it less true. So I&#39;m here to remind you about this for the millionth time. Live. Work is second.](http://9gag.com/gag/abA8eBX)
- - 👉 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)<!-- MEMES:END -->
+ - 😝 [Hollywood look](http://9gag.com/gag/axyryep)
+ - 😝 [An ancient technique for lifting giant stone blocks using a Lewis tool](http://9gag.com/gag/axyry4W)
+ - 💣 [FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF](http://9gag.com/gag/aByeZYx)
+ - 😝 [Call an ambulance... but not for him](http://9gag.com/gag/aByeZg2)
+ - 👉 [Holy f**king shit. Chuck Norris actually died. RIP](http://9gag.com/gag/aAy9Q1d)<!-- MEMES:END -->
 
 ---
 

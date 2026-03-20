@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [Newegg Promo Code: 10% Off in March 2026](https://www.wired.com/story/newegg-promo-code/)
+ - [Alibaba and Tencent lost a combined $66B in market value over about 24 hours as investors reacted to unclear monetization plans for their AI investments &lpar;Bloomberg&rpar;](http://www.techmeme.com/260320/p2#a260320p2)
  - [Sources: Indian AI data center operator Yotta is aiming to secure ~$500M to $600M at a ~$4B valuation, then file initial paperwork for an IPO within weeks &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260320/p1#a260320p1)
- - [Microsoft releases MAI-Image-2, ranked #3 on the text-to-image Arena leaderboard behind models from Google and OpenAI, available in the MAI Playground &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260319/p63#a260319p63)
- - [Filing: Blue Origin seeks US FCC approval to deploy nearly 52K satellites as part of its proposed orbital AI data center system &quot;Project Sunrise&quot; &lpar;Micah Maidenberg/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p62#a260319p62)
- - [Sources: Jeff Bezos&#39; $100B fund would be part of the same holding company as Project Prometheus and would invest in companies that could benefit from its tech &lpar;New York Times&rpar;](http://www.techmeme.com/260319/p61#a260319p61)
- - [How AI startups and founders use &quot;taste&quot; as the latest buzzword for describing and distinguishing their products, in an attempt to evoke an aura of artisanality &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/260319/p60#a260319p60)<!-- TECH:END -->
+ - [Microsoft releases MAI-Image-2, ranked #3 on the text-to-image Arena leaderboard behind models from Google and OpenAI, available in the MAI Playground &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260319/p63#a260319p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

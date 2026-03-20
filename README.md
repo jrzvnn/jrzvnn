@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)
- - 😝 [More of this, before it\u2019s too late.](http://9gag.com/gag/aZZYDGp)
- - 💣 [That took a turn](http://9gag.com/gag/aO8W82r)
- - 😝 [A solution](http://9gag.com/gag/a4P0Pwv)
- - 👉 [He&#39;s done](http://9gag.com/gag/aMVL45P)<!-- MEMES:END -->
+ - 😝 [Guys...](http://9gag.com/gag/a87gq3V)
+ - 😝 [My fellow office worker](http://9gag.com/gag/agmeovn)
+ - 💣 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
+ - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
+ - 👉 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That took a turn](http://9gag.com/gag/aO8W82r)
- - 😝 [What we need more today...](http://9gag.com/gag/a5QYQdo)
- - 💣 [Jurassic Pasta](http://9gag.com/gag/apRM998)
- - 😝 [Holy f**king shit. Chuck Norris actually died. RIP](http://9gag.com/gag/aAy9Q1d)
- - 👉 [An ancient technique for lifting giant stone blocks using a Lewis tool](http://9gag.com/gag/axyry4W)<!-- MEMES:END -->
+ - 😝 [Jurassic Pasta](http://9gag.com/gag/apRM998)
+ - 💣 [What we need more today...](http://9gag.com/gag/a5QYQdo)
+ - 😝 [An ancient technique for lifting giant stone blocks using a Lewis tool](http://9gag.com/gag/axyry4W)
+ - 👉 [My new toy car has better camera skills than me](http://9gag.com/gag/aZZYrdz)<!-- MEMES:END -->
 
 ---
 

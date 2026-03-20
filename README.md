@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US jury finds Elon Musk intentionally misled Twitter shareholders by disparaging the company in 2022 to buy it for a lower price than his original $44B bid &lpar;Bloomberg&rpar;](http://www.techmeme.com/260320/p24#a260320p24)
  - [Moonshot says Kimi K2.5 provides &quot;the foundation&quot; for Cursor&#39;s Composer 2 model and that Cursor accesses Kimi K2.5 via Fireworks AI &lpar;@kimi_moonshot&rpar;](http://www.techmeme.com/260320/p23#a260320p23)
  - [‘A Rigged and Dangerous Product’: The Wildest Week for Prediction Markets Yet](https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/)
  - [Super Micro says co-founder Yih-Shyan Liaw has resigned from its board after US prosecutors indicted him on allegations of smuggling Nvidia AI chips to China &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260320/p22#a260320p22)
- - [Anthropic launches Claude Code channels, which let users interact with a Claude Code session through Telegram and Discord &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260320/p21#a260320p21)
- - [A Top Democrat Is Urging Colleagues to Support Trump’s Spy Machine](https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/)<!-- TECH:END -->
+ - [Anthropic launches Claude Code channels, which let users interact with a Claude Code session through Telegram and Discord &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260320/p21#a260320p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

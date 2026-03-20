@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can Tinder Fix The Dating Landscape It Helped Ruin?](https://www.wired.com/story/can-tinder-fix-the-dating-landscape-it-helped-ruin/)
+ - [Firewire Surfboard Review &lpar;2026&rpar;: Neutrino, Revo Max, Machadocado](https://www.wired.com/story/firewire-neutrino-surfboard-rave/)
  - [Sources: Amazon&#39;s ZeroOne team is developing &quot;Transformer&quot;, a phone that syncs up with Alexa; it would be Amazon&#39;s first smartphone since its 2014 Fire Phone &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260320/p7#a260320p7)
  - [I Learned More Than I Thought I Would From Using Food-Tracking Apps](https://www.wired.com/story/food-tracking-apps-ai-nutrition-weight-loss/)
- - [Corsair Frame 4000D RS PC Case Review: Excellent Flow](https://www.wired.com/review/corsair-frame-4000d-rs/)
- - [The Danger Behind Meta’s Decision to Kill End-to-End Encrypted Instagram DMs](https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/)
- - [LinkedIn Invited My AI &#39;Cofounder&#39; to Give a Corporate Talk—Then Banned It](https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/)<!-- TECH:END -->
+ - [Corsair Frame 4000D RS PC Case Review: Excellent Flow](https://www.wired.com/review/corsair-frame-4000d-rs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

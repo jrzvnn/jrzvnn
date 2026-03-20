@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why people really hate AI](https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast)
- - [Blackberry&#39;s ghost still haunts Apple in lawsuits that have nothing to do with them](https://appleinsider.com/articles/26/03/20/blackberrys-ghost-still-haunts-apple-in-lawsuits-that-have-nothing-to-do-with-them?utm_source=rss)
- - [The White House releases an AI policy framework, explicitly calling on Congress to preempt state AI laws, create age-gating requirements for AI models, and more &lpar;Politico&rpar;](http://www.techmeme.com/260320/p9#a260320p9)
- - [Amazon&amp;#8217;s Big Spring Sale 2026: all of the latest deals](https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news)
- - [Filing: Unitree, China&#39;s leading robot company, is aiming to raise ~$610M in its Shanghai IPO; it brought in ~$247M in revenue in 2025 and ~$41.6M in net profit &lpar;Jessica Sui/Bloomberg&rpar;](http://www.techmeme.com/260320/p8#a260320p8)<!-- TECH:END -->
+ - [Mistral CEO proposes a revenue-based levy for AI model providers in the EU, to be invested in &quot;new content creation and supporting Europe&#39;s cultural sectors&quot; &lpar;Arthur Mensch/Financial Times&rpar;](http://www.techmeme.com/260320/p10#a260320p10)
+ - [&#39;Project Hail Mary&#39; Creator Andy Weir Just Taught Me a Surprising Thing About Sci-Fi](https://www.cnet.com/culture/entertainment/project-hail-mary-andy-weir-interview/)
+ - [Much ado about protein](https://www.theverge.com/column/897715/optimizer-protein-proteinmaxxing-proteinwashing-wellness)
+ - [Apple just broke launch-week records for new Mac users](https://appleinsider.com/articles/26/03/20/apple-just-broke-launch-week-records-for-new-mac-users?utm_source=rss)
+ - [AI Cooking Robots Have Flopped. Will the Nosh One Be Any Different? Here&#39;s My Take](https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

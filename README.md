@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moonshot says Kimi K2.5 provides &quot;the foundation&quot; for Cursor&#39;s Composer 2 model and that Cursor accesses Kimi K2.5 via Fireworks AI &lpar;@kimi_moonshot&rpar;](http://www.techmeme.com/260320/p23#a260320p23)
+ - [‘A Rigged and Dangerous Product’: The Wildest Week for Prediction Markets Yet](https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/)
+ - [Super Micro says co-founder Yih-Shyan Liaw has resigned from its board after US prosecutors indicted him on allegations of smuggling Nvidia AI chips to China &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260320/p22#a260320p22)
  - [Anthropic launches Claude Code channels, which let users interact with a Claude Code session through Telegram and Discord &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260320/p21#a260320p21)
- - [A Top Democrat Is Urging Colleagues to Support Trump’s Spy Machine](https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/)
- - [Jensen Huang proposes a compensation model where engineers receive an AI token budget on top of their base salary, to deploy agents as productivity multipliers &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/260320/p20#a260320p20)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 21, #1014](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-21-1014/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 21 #748](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-21-748/)<!-- TECH:END -->
+ - [A Top Democrat Is Urging Colleagues to Support Trump’s Spy Machine](https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

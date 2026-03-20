@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic launches Claude Code channels, which let users interact with a Claude Code session through Telegram and Discord &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260320/p21#a260320p21)
+ - [A Top Democrat Is Urging Colleagues to Support Trump’s Spy Machine](https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/)
  - [Jensen Huang proposes a compensation model where engineers receive an AI token budget on top of their base salary, to deploy agents as productivity multipliers &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/260320/p20#a260320p20)
  - [Today&#39;s NYT Connections Hints, Answers and Help for March 21, #1014](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-21-1014/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 21 #748](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-21-748/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 21, #1736](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-21-1736/)
- - [A new Nintendo Switch 2 could be the poster child for replaceable batteries](https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 21 #748](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-21-748/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

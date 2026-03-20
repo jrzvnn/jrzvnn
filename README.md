@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me giving peep talk to my last two brain cells during exam](http://9gag.com/gag/a87g1gp)
- - 😝 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
- - 💣 [Japanese prime minister reaction on Trumps &#39;joke&#39;](http://9gag.com/gag/aLnE1YA)
+ - 😝 [The horror...](http://9gag.com/gag/azx3eZp)
+ - 😝 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
+ - 💣 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
  - 😝 [Holy f**king shit. Chuck Norris actually died. RIP](http://9gag.com/gag/aAy9Q1d)
- - 👉 [The horror...](http://9gag.com/gag/azx3eZp)<!-- MEMES:END -->
+ - 👉 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)<!-- MEMES:END -->
 
 ---
 

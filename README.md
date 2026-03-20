@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the White House plans to unveil a federal AI framework on Friday covering preemption of state laws, child safety, communities, creators, and censorship &lpar;Axios&rpar;](http://www.techmeme.com/260319/p56#a260319p56)
- - [US prosecutors charge three people affiliated with Super Micro, including a co-founder, with smuggling Nvidia chips to China; SMCI drops 9%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260319/p55#a260319p55)
- - [OpenAI plans to unify ChatGPT, Codex, and its browser into a desktop &quot;superapp&quot; to simplify the user experience and focus on engineering and business customers &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p54#a260319p54)
- - [Sources: Anthropic met behind closed doors with House Homeland Security and discussed issues like export controls, only briefly touching on its DOD fight &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260319/p53#a260319p53)
- - [Did You Know You Can Watch Free Anime Every Day? Here&#39;s Where to Find It](https://www.cnet.com/tech/services-and-software/watch-free-anime-every-day-where-to-stream/)<!-- TECH:END -->
+ - [A US DOJ operation disrupted four botnets that infected 3M+ devices and includes the Aisuru and Kimwolf botnets used in a 31.4 Tbps DDoS attack in December 2025 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260319/p59#a260319p59)
+ - [MiniMax releases M2.7, a proprietary &quot;self-evolving&quot; LLM that the company used to build, monitor, and optimize the model&#39;s own reinforcement learning harnesses &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260319/p58#a260319p58)
+ - [Spring Equinox Arrives Friday, Marking the Official End of Winter](https://www.cnet.com/science/space/spring-equinox-everything-you-need-to-know/)
+ - [Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine](https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally)
+ - [A man accused of using thousands of bot accounts to stream AI songs, making millions in royalties, pleads guilty in US district court to wire fraud conspiracy &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260319/p57#a260319p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

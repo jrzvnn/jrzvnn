@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral CEO proposes a revenue-based levy for AI model providers in the EU, to be invested in &quot;new content creation and supporting Europe&#39;s cultural sectors&quot; &lpar;Arthur Mensch/Financial Times&rpar;](http://www.techmeme.com/260320/p10#a260320p10)
- - [&#39;Project Hail Mary&#39; Creator Andy Weir Just Taught Me a Surprising Thing About Sci-Fi](https://www.cnet.com/culture/entertainment/project-hail-mary-andy-weir-interview/)
- - [Much ado about protein](https://www.theverge.com/column/897715/optimizer-protein-proteinmaxxing-proteinwashing-wellness)
- - [Apple just broke launch-week records for new Mac users](https://appleinsider.com/articles/26/03/20/apple-just-broke-launch-week-records-for-new-mac-users?utm_source=rss)
- - [AI Cooking Robots Have Flopped. Will the Nosh One Be Any Different? Here&#39;s My Take](https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/)<!-- TECH:END -->
+ - [Google is running a &quot;small&quot; experiment replacing news headlines in search results with AI-generated ones, after adding the feature in Google Discover in January &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260320/p11#a260320p11)
+ - [The Artist Pro 27 is XP-Pen’s latest 4K flagship display tablet](https://www.theverge.com/tech/897947/xppen-artist-pro-27-drawing-display-tablet-launch-price)
+ - [At Palantir’s Developer Conference, AI Is Built to Win Wars](https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/)
+ - [This sleek alarm clock uses lights and sounds to help you sleep, focus, and wake up](https://www.theverge.com/tech/897902/balmuda-japan-travel-alarm-clock-led-speaker-white-noise-aluminum)
+ - [Google Search is now using AI to replace headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

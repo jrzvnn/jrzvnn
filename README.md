@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are peaceful, as long as you do exactly as they say.](http://9gag.com/gag/a4P0oVm)
- - 😝 [More of this, before it\u2019s too late.](http://9gag.com/gag/aZZYDGp)
- - 💣 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
- - 😝 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)
- - 👉 [What we need more today...](http://9gag.com/gag/a5QYQdo)<!-- MEMES:END -->
+ - 😝 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
+ - 😝 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 💣 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
+ - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
+ - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
 
 ---
 

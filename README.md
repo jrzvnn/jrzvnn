@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - 😝 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
- - 💣 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
- - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
- - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
+ - 😝 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)
+ - 😝 [More of this, before it\u2019s too late.](http://9gag.com/gag/aZZYDGp)
+ - 💣 [That took a turn](http://9gag.com/gag/aO8W82r)
+ - 😝 [A solution](http://9gag.com/gag/a4P0Pwv)
+ - 👉 [He&#39;s done](http://9gag.com/gag/aMVL45P)<!-- MEMES:END -->
 
 ---
 

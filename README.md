@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hollywood look](http://9gag.com/gag/axyryep)
- - 😝 [An ancient technique for lifting giant stone blocks using a Lewis tool](http://9gag.com/gag/axyry4W)
- - 💣 [FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF](http://9gag.com/gag/aByeZYx)
- - 😝 [Call an ambulance... but not for him](http://9gag.com/gag/aByeZg2)
- - 👉 [Holy f**king shit. Chuck Norris actually died. RIP](http://9gag.com/gag/aAy9Q1d)<!-- MEMES:END -->
+ - 😝 [He&#39;s done](http://9gag.com/gag/aMVL45P)
+ - 😝 [Confidence is a key](http://9gag.com/gag/aGyQy97)
+ - 💣 [FAFO](http://9gag.com/gag/ae9B9zW)
+ - 😝 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 👉 [Why was he so angry?](http://9gag.com/gag/aryLmzp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is running a &quot;small&quot; experiment replacing news headlines in search results with AI-generated ones, after adding the feature in Google Discover in January &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260320/p11#a260320p11)
- - [The Artist Pro 27 is XP-Pen’s latest 4K flagship display tablet](https://www.theverge.com/tech/897947/xppen-artist-pro-27-drawing-display-tablet-launch-price)
- - [At Palantir’s Developer Conference, AI Is Built to Win Wars](https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/)
- - [This sleek alarm clock uses lights and sounds to help you sleep, focus, and wake up](https://www.theverge.com/tech/897902/balmuda-japan-travel-alarm-clock-led-speaker-white-noise-aluminum)
- - [Google Search is now using AI to replace headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment)<!-- TECH:END -->
+ - [ChatGPT wants a do-it-all super app, but Apple will probably stand in the way](https://appleinsider.com/articles/26/03/20/chatgpt-wants-a-do-it-all-super-app-but-apple-will-probably-stand-in-the-way?utm_source=rss)
+ - [Google’s battery-powered Nest Doorbell is $40 off right now](https://www.theverge.com/gadgets/897085/google-nest-video-doorbell-amazon-big-spring-sale-2026-deal)
+ - [A new anonymous Substack alleges AI compliance startup Delve &quot;faked&quot; compliance for startups by generating pre-populated audit reports and fabricating evidence &lpar;DeepDelver&rpar;](http://www.techmeme.com/260320/p12#a260320p12)
+ - [AirPods Max, MacBook Neo, and Family Sharing on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/20/airpods-max-macbook-neo-and-family-sharing-on-the-appleinsider-podcast?utm_source=rss)
+ - [Google is running a &quot;small&quot; experiment replacing news headlines in search results with AI-generated ones, after adding the feature in Google Discover in January &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260320/p11#a260320p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nine months later, the Trump phone still doesn’t exist](https://www.theverge.com/tech/898110/trump-phone-t1-release-certification)
- - [This Compact Bose Soundbar Is $80 Off](https://www.wired.com/story/bose-smart-soundbar-deal-326/)
- - [Anker’s Qi2 MagGo Power Bank is down to its best price in months](https://www.theverge.com/gadgets/897992/anker-maggo-power-bank-10k-amazon-big-spring-sale-2026-deal)
- - [A judge issues an order requiring Kalshi to temporarily halt sports and election contracts in Nevada, the first US state to force Kalshi to cease operations &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260320/p15#a260320p15)
- - [WordPress.com says it will now allow AI agents to draft, edit, and publish content on customers&#39; websites, as well as manage comments, update metadata, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260320/p14#a260320p14)<!-- TECH:END -->
+ - [Sources: contract electronics manufacturer Zetwerk plans to file for an IPO in India, aiming to raise ~$550M at a ~$4B valuation; it was valued at $3.1B in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/260320/p17#a260320p17)
+ - [Trump takes another shot at dismantling state AI regulation](https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework)
+ - [Memo: Roblox is planning to take a share of revenue from sponsorships in its games and is overhauling advertising policies beginning May 4 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/260320/p16#a260320p16)
+ - [These electronic Polaroids are powered by your phone’s NFC chip](https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet)
+ - [OpenAI Plans to Combine Its AI Tools in a Desktop &#39;Superapp&#39;](https://www.cnet.com/tech/services-and-software/openai-is-planning-to-combine-its-ai-tools-in-a-desktop-superapp/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

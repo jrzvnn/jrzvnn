@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Iran War Puts Global Energy Markets on the Brink of a Worst-Case Scenario](https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/)
+ - [A Foolproof Formula for Air Frying Almost Anything](https://www.cnet.com/news/how-to-adapt-any-recipe-for-the-air-fryer/)
+ - [AT&amp;T&#39;s New 2.0 Data Plans Are a Better Value &lpar;With Some Exceptions&rpar;](https://www.cnet.com/tech/mobile/att-new-2-0-unlimited-phone-plans/)
  - [ChatGPT wants a do-it-all super app, but Apple will probably stand in the way](https://appleinsider.com/articles/26/03/20/chatgpt-wants-a-do-it-all-super-app-but-apple-will-probably-stand-in-the-way?utm_source=rss)
- - [Google’s battery-powered Nest Doorbell is $40 off right now](https://www.theverge.com/gadgets/897085/google-nest-video-doorbell-amazon-big-spring-sale-2026-deal)
- - [A new anonymous Substack alleges AI compliance startup Delve &quot;faked&quot; compliance for startups by generating pre-populated audit reports and fabricating evidence &lpar;DeepDelver&rpar;](http://www.techmeme.com/260320/p12#a260320p12)
- - [AirPods Max, MacBook Neo, and Family Sharing on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/20/airpods-max-macbook-neo-and-family-sharing-on-the-appleinsider-podcast?utm_source=rss)
- - [Google is running a &quot;small&quot; experiment replacing news headlines in search results with AI-generated ones, after adding the feature in Google Discover in January &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260320/p11#a260320p11)<!-- TECH:END -->
+ - [Google’s battery-powered Nest Doorbell is $40 off right now](https://www.theverge.com/gadgets/897085/google-nest-video-doorbell-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

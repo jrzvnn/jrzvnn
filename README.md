@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future Sony PlayStation games will use AI to imagine new frames](https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames)
  - [Pinterest CEO Bill Ready calls on governments to ban social media for users under 16, says social platforms gave &quot;insufficient forethought&quot; about consequences &lpar;Bill Ready/Time&rpar;](http://www.techmeme.com/260320/p19#a260320p19)
  - [Microsoft acknowledges complaints about Windows 11, promising a reduction of &quot;unnecessary&quot; Copilot integrations, more control over updates, and more &lpar;Ed Bott/ZDNET&rpar;](http://www.techmeme.com/260320/p18#a260320p18)
  - [Gamers Hate Nvidia&#39;s DLSS 5. Developers Aren’t Crazy About It, Either](https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/)
- - [Windows 11 is finally getting a movable taskbar](https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable)
- - [Microsoft is ending the Windows Update nightmare — and letting you pause them indefinitely](https://www.theverge.com/tech/898082/microsoft-promises-to-end-forced-windows-updates-still-automatic)<!-- TECH:END -->
+ - [Disco Elysium, Absolum and More Indie Darlings Head to Xbox Game Pass](https://www.cnet.com/tech/gaming/disco-elysium-absolum-more-indie-darlings-head-to-xbox-game-pass/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

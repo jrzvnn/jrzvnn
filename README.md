@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 22, #1737](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-22-1737/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 22, #1015](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-22-1015/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 22 #749](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-22-749/)
  - [Social media accounts showing AI-generated women as pro-Trump soldiers, truckers, and cops have gone viral, with thousands appearing to believe they are real &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/260321/p10#a260321p10)
- - [March Madness 2026: How to Watch the Second Round](https://www.cnet.com/tech/services-and-software/march-madness-2026-how-to-watch-second-round/)
- - [Sources: advertisers that bought ChatGPT&#39;s first ad campaigns say the process was low tech and that they haven&#39;t received much data showing if their ads worked &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/260321/p9#a260321p9)
- - [The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal)
- - [CEO of Halide-maker Lux Optics, Ben Sandofsky, sues his co-founder Sebastiaan de With, now on Apple&#39;s design team, alleging improper use of funds and stolen IP &lpar;Aaron Tilley/The Information&rpar;](http://www.techmeme.com/260321/p8#a260321p8)<!-- TECH:END -->
+ - [March Madness 2026: How to Watch the Second Round](https://www.cnet.com/tech/services-and-software/march-madness-2026-how-to-watch-second-round/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

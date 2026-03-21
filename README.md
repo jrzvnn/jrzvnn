@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Jury Duty Presents: Company Retreat&#39; Almost Makes Corporate Culture Seem Fun](https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/)
+ - [The 19 Best EVs Coming in 2026](https://www.wired.com/story/the-16-best-evs-coming-in-2026/)
  - [A look at China&#39;s rapidly expanding robotics sector, which now has roughly 140 companies hoping to build humanoids, fueled by massive state-backed investments &lpar;Chang Che/The Guardian&rpar;](http://www.techmeme.com/260321/p4#a260321p4)
  - [How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps](https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 21, #1736](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-21-1736/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 21, #1014](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-21-1014/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 21 #748](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-21-748/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 21, #1736](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-21-1736/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

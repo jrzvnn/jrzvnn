@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vercel, which helps developers host web apps and AI agents, says its run-rate GAAP revenue hit $340M at the end of February, up 86% YoY, amid the AI coding boom &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/260321/p7#a260321p7)
  - [Apple wanted to buy Halide, co-founder lawsuit reveals](https://appleinsider.com/articles/26/03/21/apple-wanted-to-buy-halide-co-founder-lawsuit-fight-reveals?utm_source=rss)
  - [Here are 20 of our favorite outdoor deals from REI’s Member Days Sale](https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026)
  - [The gen AI Kool-Aid tastes like eugenics](https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview)
- - [Best Air Purifiers of 2026: Allergy Season is Here. These Models Can Help](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/)
- - [Oeuf is a punishing platformer in a cozy shell](https://www.theverge.com/entertainment/895435/oeuf-review)<!-- TECH:END -->
+ - [Best Air Purifiers of 2026: Allergy Season is Here. These Models Can Help](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

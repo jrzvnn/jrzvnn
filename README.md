@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aiper Scuba V3 Pool Robot Review: Eye on the Prize](https://www.wired.com/review/aiper-scuba-v3-pool-robot/)
+ - [I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work](https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/)
+ - [Kodiak CEO says making trucks drive themselves is only half the battle](https://www.theverge.com/transportation/897551/kodiak-ai-self-driving-truck-ceo-interview)
  - [Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck](https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/)
- - [&#39;Jury Duty Presents: Company Retreat&#39; Almost Makes Corporate Culture Seem Fun](https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/)
- - [The 19 Best EVs Coming in 2026](https://www.wired.com/story/the-16-best-evs-coming-in-2026/)
- - [A look at China&#39;s rapidly expanding robotics sector, which now has roughly 140 companies hoping to build humanoids, fueled by massive state-backed investments &lpar;Chang Che/The Guardian&rpar;](http://www.techmeme.com/260321/p4#a260321p4)
- - [How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps](https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/)<!-- TECH:END -->
+ - [&#39;Jury Duty Presents: Company Retreat&#39; Almost Makes Corporate Culture Seem Fun](https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

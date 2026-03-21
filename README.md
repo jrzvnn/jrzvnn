@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hollywood love interests](http://9gag.com/gag/a2vXvEE)
- - 😝 [Because I got high](http://9gag.com/gag/a2vXMMO)
- - 💣 [Confidence is a key](http://9gag.com/gag/aGyQy97)
- - 😝 [When you respawn and have to do it all over again](http://9gag.com/gag/aVv6oOO)
+ - 😝 [Guys...](http://9gag.com/gag/a87gq3V)
+ - 😝 [Confidence is a key](http://9gag.com/gag/aGyQy97)
+ - 💣 [Hollywood love interests](http://9gag.com/gag/a2vXvEE)
+ - 😝 [Kids used to roam free, now we&#39;re helicopter parents](http://9gag.com/gag/a7oxODe)
  - 👉 [Bambooze](http://9gag.com/gag/adBzBNV)<!-- MEMES:END -->
 
 ---

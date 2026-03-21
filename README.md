@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)
+ - 😝 [...](http://9gag.com/gag/a7oxqgA)
  - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
- - 💣 [...](http://9gag.com/gag/a7oxqgA)
- - 😝 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
+ - 💣 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
+ - 😝 [Don&#39;t let your fine art dreams become memes...](http://9gag.com/gag/a5QY64G)
  - 👉 [Confidence is a key](http://9gag.com/gag/aGyQy97)<!-- MEMES:END -->
 
 ---

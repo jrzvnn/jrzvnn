@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The motorcycle killer is here. So cute](http://9gag.com/gag/aW4X7LK)
- - 😝 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)
- - 💣 [This illusion on a frozen lake. Looks like the pole is moving but it&#39;s actually the ice sheet](http://9gag.com/gag/ae9B1gB)
- - 😝 [In 2017 an Estonian reporter tried to interview a deer. This was the result](http://9gag.com/gag/aW4XpW2)
- - 👉 [Badly needed feature in every game](http://9gag.com/gag/aYQ0G32)<!-- MEMES:END -->
+ - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
+ - 💣 [FAFO](http://9gag.com/gag/ae9B9zW)
+ - 😝 [Confidence is a key](http://9gag.com/gag/aGyQy97)
+ - 👉 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)<!-- MEMES:END -->
 
 ---
 

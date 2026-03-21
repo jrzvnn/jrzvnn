@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
- - 😝 [...](http://9gag.com/gag/a7oxqgA)
- - 💣 [Confidence is a key](http://9gag.com/gag/aGyQy97)
- - 😝 [Rest in Peace \u2013 a legend is gone.](http://9gag.com/gag/ae9B4G5)
- - 👉 [Bambooze](http://9gag.com/gag/adBzBNV)<!-- MEMES:END -->
+ - 😝 [Kids used to roam free, now we&#39;re helicopter parents](http://9gag.com/gag/a7oxODe)
+ - 😝 [This court sketch is pure fire](http://9gag.com/gag/aryL3by)
+ - 💣 [Alright, pack it up everyone.](http://9gag.com/gag/a2vXMyd)
+ - 😝 [This .... is a nice duck](http://9gag.com/gag/aW4X7y2)
+ - 👉 [Hollywood look](http://9gag.com/gag/axyryep)<!-- MEMES:END -->
 
 ---
 

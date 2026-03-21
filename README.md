@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/a7oxqgA)
+ - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
  - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
- - 💣 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
- - 😝 [Rest in Peace \u2013 a legend is gone.](http://9gag.com/gag/ae9B4G5)
- - 👉 [Confidence is a key](http://9gag.com/gag/aGyQy97)<!-- MEMES:END -->
+ - 💣 [Confidence is a key](http://9gag.com/gag/aGyQy97)
+ - 😝 [I&#39;m with Afroman on this](http://9gag.com/gag/aKGMA76)
+ - 👉 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)<!-- MEMES:END -->
 
 ---
 

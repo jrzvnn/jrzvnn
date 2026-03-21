@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hollywood look](http://9gag.com/gag/axyryep)
- - 😝 [This illusion on a frozen lake. Looks like the pole is moving but it&#39;s actually the ice sheet](http://9gag.com/gag/ae9B1gB)
- - 💣 [In 2017 an Estonian reporter tried to interview a deer. This was the result](http://9gag.com/gag/aW4XpW2)
- - 😝 [Gotta hustle](http://9gag.com/gag/awypm5W)
+ - 😝 [The motorcycle killer is here. So cute](http://9gag.com/gag/aW4X7LK)
+ - 😝 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)
+ - 💣 [This illusion on a frozen lake. Looks like the pole is moving but it&#39;s actually the ice sheet](http://9gag.com/gag/ae9B1gB)
+ - 😝 [In 2017 an Estonian reporter tried to interview a deer. This was the result](http://9gag.com/gag/aW4XpW2)
  - 👉 [Badly needed feature in every game](http://9gag.com/gag/aYQ0G32)<!-- MEMES:END -->
 
 ---

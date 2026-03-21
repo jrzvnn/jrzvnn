@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This court sketch is pure fire](http://9gag.com/gag/aryL3by)
- - 😝 [Kids used to roam free, now we&#39;re helicopter parents](http://9gag.com/gag/a7oxODe)
- - 💣 [I know people say this advice all the time. But that doesn&#39;t make it less true. So I&#39;m here to remind you about this for the millionth time. Live. Work is second.](http://9gag.com/gag/abA8eBX)
- - 😝 [Alright, pack it up everyone.](http://9gag.com/gag/a2vXMyd)
- - 👉 [Hollywood look](http://9gag.com/gag/axyryep)<!-- MEMES:END -->
+ - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
+ - 😝 [...](http://9gag.com/gag/a7oxqgA)
+ - 💣 [Confidence is a key](http://9gag.com/gag/aGyQy97)
+ - 😝 [Rest in Peace \u2013 a legend is gone.](http://9gag.com/gag/ae9B4G5)
+ - 👉 [Bambooze](http://9gag.com/gag/adBzBNV)<!-- MEMES:END -->
 
 ---
 

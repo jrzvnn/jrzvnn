@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeet!](http://9gag.com/gag/a0e3onv)
- - 😝 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
+ - 😝 [Hollywood love interests](http://9gag.com/gag/a2vXvEE)
+ - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
  - 💣 [Confidence is a key](http://9gag.com/gag/aGyQy97)
- - 😝 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
- - 👉 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)<!-- MEMES:END -->
+ - 😝 [When you respawn and have to do it all over again](http://9gag.com/gag/aVv6oOO)
+ - 👉 [Why was he so angry?](http://9gag.com/gag/aryLmzp)<!-- MEMES:END -->
 
 ---
 

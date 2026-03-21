@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jury finds Elon Musk&amp;#8217;s &amp;#8216;stupid tweets&amp;#8217; caused Twitter investors&amp;#8217; losses](https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit)
- - [The Fifth Circuit Court of Appeals throws out a 2024 FTC order barring Intuit from advertising TurboTax products as &quot;free&quot; when many taxpayers are ineligible &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260320/p26#a260320p26)
- - [The US Department of Energy announces a partnership with SoftBank and its affiliate SB Energy to develop a 10 GW data center with its own power supply in Ohio &lpar;Associated Press&rpar;](http://www.techmeme.com/260320/p25#a260320p25)
- - [Trump Outlines New AI Regulation Plan: What&#39;s in It and What&#39;s Missing](https://www.cnet.com/tech/services-and-software/trump-national-ai-legislation-plan-march-2026-news/)
- - [There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone](https://www.wired.com/story/amazon-smartphone-rumor-2026/)<!-- TECH:END -->
+ - [A US judge dismisses a lawsuit by Sam Altman&#39;s sister accusing Altman of sexual abuse from 1997 to 2006, as the claims expired in 2008, but says she can refile &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260320/p31#a260320p31)
+ - [Interviews with over three dozen people detail how lobbyist Mike Davis used his ties to Trump to push the DOJ to approve deals, including HPE&#39;s Juniper deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260320/p30#a260320p30)
+ - [Filing: Anthropic says it cannot manipulate Claude once the military has deployed it, denying DOD accusations that Anthropic could tamper with models during war &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260320/p29#a260320p29)
+ - [Microsoft Lays Out Next Windows Updates: Faster, Lighter and More Flexible](https://www.cnet.com/tech/services-and-software/microsoft-lays-out-next-windows-updates/)
+ - [Anthropic Denies It Could Sabotage AI Tools During War](https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

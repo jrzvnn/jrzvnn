@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Protein Bars &lpar;2026&rpar;: Vegan, Gluten-Free, High Fiber](https://www.wired.com/story/best-protein-bars/)
- - [Gemini task automation is slow, clunky, and super impressive](https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on)
- - [Aiper Scuba V3 Pool Robot Review: Eye on the Prize](https://www.wired.com/review/aiper-scuba-v3-pool-robot/)
- - [I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work](https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/)
- - [Kodiak CEO says making trucks drive themselves is only half the battle](https://www.theverge.com/transportation/897551/kodiak-ai-self-driving-truck-ceo-interview)<!-- TECH:END -->
+ - [Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price](https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal)
+ - [71 Best Podcasts &lpar;2026&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)
+ - [The new MacBook Pro is still fast as hell](https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review)
+ - [An early contender for movie of the year](https://www.theverge.com/tech/898265/project-hail-mary-airpods-max-2-installer)
+ - [Best Protein Bars &lpar;2026&rpar;: Vegan, Gluten-Free, High Fiber](https://www.wired.com/story/best-protein-bars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

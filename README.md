@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oeuf is a punishing platformer in a cozy shell](https://www.theverge.com/entertainment/895435/oeuf-review)
+ - [Inside Palantir&#39;s recent developer conference, where it doubled down on a vision of AI built for battlefield advantage as its commercial business soars &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/260321/p5#a260321p5)
+ - [Sources: OpenAI aims to grow to about 8,000 employees by the end of 2026, from ~4,500 today, as it seeks to arrest Anthropic&#39;s momentum with business customers &lpar;Financial Times&rpar;](http://www.techmeme.com/260321/p6#a260321p6)
  - [Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price](https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal)
- - [71 Best Podcasts &lpar;2026&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)
- - [The new MacBook Pro is still fast as hell](https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review)
- - [An early contender for movie of the year](https://www.theverge.com/tech/898265/project-hail-mary-airpods-max-2-installer)
- - [Best Protein Bars &lpar;2026&rpar;: Vegan, Gluten-Free, High Fiber](https://www.wired.com/story/best-protein-bars/)<!-- TECH:END -->
+ - [I Tested a Low-Cost Phone With One of the Biggest Batteries We&#39;ve Seen Yet](https://www.cnet.com/tech/mobile/i-tested-a-low-cost-phone-with-one-of-the-biggest-batteries-weve-seen-yet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)
+ - 😝 [Confidence is a key](http://9gag.com/gag/aGyQy97)
  - 😝 [Nobody learned anything that day](http://9gag.com/gag/aoy7Wz2)
- - 💣 [...](http://9gag.com/gag/a7oxqgA)
- - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
- - 👉 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)<!-- MEMES:END -->
+ - 💣 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
+ - 😝 [Gotta hustle](http://9gag.com/gag/awypm5W)
+ - 👉 [Bambooze](http://9gag.com/gag/adBzBNV)<!-- MEMES:END -->
 
 ---
 

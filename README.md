@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Air Purifiers of 2026: Allergy Season is Here. These Models Can Help](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/)
  - [Oeuf is a punishing platformer in a cozy shell](https://www.theverge.com/entertainment/895435/oeuf-review)
+ - [I Tried Cooking Bacon 3 Ways. It Turns Out I&#39;ve Been Doing It All Wrong](https://www.cnet.com/news/the-best-way-to-cook-bacon/)
  - [Inside Palantir&#39;s recent developer conference, where it doubled down on a vision of AI built for battlefield advantage as its commercial business soars &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/260321/p5#a260321p5)
- - [Sources: OpenAI aims to grow to about 8,000 employees by the end of 2026, from ~4,500 today, as it seeks to arrest Anthropic&#39;s momentum with business customers &lpar;Financial Times&rpar;](http://www.techmeme.com/260321/p6#a260321p6)
- - [Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price](https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal)
- - [I Tested a Low-Cost Phone With One of the Biggest Batteries We&#39;ve Seen Yet](https://www.cnet.com/tech/mobile/i-tested-a-low-cost-phone-with-one-of-the-biggest-batteries-weve-seen-yet/)<!-- TECH:END -->
+ - [Sources: OpenAI aims to grow to about 8,000 employees by the end of 2026, from ~4,500 today, as it seeks to stop Anthropic&#39;s momentum with business customers &lpar;Financial Times&rpar;](http://www.techmeme.com/260321/p6#a260321p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

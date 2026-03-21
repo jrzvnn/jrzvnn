@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
- - 😝 [...](http://9gag.com/gag/a7oxqgA)
- - 💣 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
- - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
- - 👉 [Bambooze](http://9gag.com/gag/adBzBNV)<!-- MEMES:END -->
+ - 😝 [Fetch boy](http://9gag.com/gag/an7oOVB)
+ - 😝 [Call an ambulance... but not for him](http://9gag.com/gag/aByeZg2)
+ - 💣 [Alright, pack it up everyone.](http://9gag.com/gag/a2vXMyd)
+ - 😝 [I know people say this advice all the time. But that doesn&#39;t make it less true. So I&#39;m here to remind you about this for the millionth time. Live. Work is second.](http://9gag.com/gag/abA8eBX)
+ - 👉 [An ancient technique for lifting giant stone blocks using a Lewis tool](http://9gag.com/gag/axyry4W)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kids used to roam free, now we&#39;re helicopter parents](http://9gag.com/gag/a7oxODe)
+ - 😝 [I know people say this advice all the time. But that doesn&#39;t make it less true. So I&#39;m here to remind you about this for the millionth time. Live. Work is second.](http://9gag.com/gag/abA8eBX)
  - 😝 [This court sketch is pure fire](http://9gag.com/gag/aryL3by)
- - 💣 [Alright, pack it up everyone.](http://9gag.com/gag/a2vXMyd)
- - 😝 [This .... is a nice duck](http://9gag.com/gag/aW4X7y2)
+ - 💣 [Kids used to roam free, now we&#39;re helicopter parents](http://9gag.com/gag/a7oxODe)
+ - 😝 [Alright, pack it up everyone.](http://9gag.com/gag/a2vXMyd)
  - 👉 [Hollywood look](http://9gag.com/gag/axyryep)<!-- MEMES:END -->
 
 ---

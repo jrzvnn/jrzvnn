@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-21/)
+ - [Super Micro names VP DeAnna Luna as acting chief compliance officer, after SMCI closed down 33% on March 20 amid a chip smuggling scandal &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260320/p32#a260320p32)
  - [A US judge dismisses a lawsuit by Sam Altman&#39;s sister accusing Altman of sexual abuse from 1997 to 2006, as the claims expired in 2008, but says she can refile &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260320/p31#a260320p31)
  - [Interviews with over three dozen people detail how lobbyist Mike Davis used his ties to Trump to push the DOJ to approve deals, including HPE&#39;s Juniper deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260320/p30#a260320p30)
- - [Filing: Anthropic says it cannot manipulate Claude once the military has deployed it, denying DOD accusations that Anthropic could tamper with models during war &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260320/p29#a260320p29)
- - [Microsoft Lays Out Next Windows Updates: Faster, Lighter and More Flexible](https://www.cnet.com/tech/services-and-software/microsoft-lays-out-next-windows-updates/)
- - [Anthropic Denies It Could Sabotage AI Tools During War](https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/)<!-- TECH:END -->
+ - [Filing: Anthropic says it cannot manipulate Claude once the military has deployed it, denying DOD accusations that Anthropic could tamper with models during war &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260320/p29#a260320p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
  - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
- - 💣 [FAFO](http://9gag.com/gag/ae9B9zW)
- - 😝 [Confidence is a key](http://9gag.com/gag/aGyQy97)
- - 👉 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)<!-- MEMES:END -->
+ - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
+ - 💣 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)
+ - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - 👉 [Confidence is a key](http://9gag.com/gag/aGyQy97)<!-- MEMES:END -->
 
 ---
 

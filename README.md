@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
- - 😝 [Trump casually dropping Pearl Harbor jokes with the Japanese PM](http://9gag.com/gag/aD2vYKK)
- - 💣 [Bambooze](http://9gag.com/gag/adBzBNV)
- - 😝 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
- - 👉 [Why was he so angry?](http://9gag.com/gag/aryLmzp)<!-- MEMES:END -->
+ - 😝 [Confidence is a key](http://9gag.com/gag/aGyQy97)
+ - 😝 [Hollywood love interests](http://9gag.com/gag/a2vXvEE)
+ - 💣 [...](http://9gag.com/gag/a7oxqgA)
+ - 😝 [Piss in bed is the solution](http://9gag.com/gag/aZZY1EW)
+ - 👉 [Bambooze](http://9gag.com/gag/adBzBNV)<!-- MEMES:END -->
 
 ---
 

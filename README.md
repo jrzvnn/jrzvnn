@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys...](http://9gag.com/gag/a87gq3V)
- - 😝 [Confidence is a key](http://9gag.com/gag/aGyQy97)
- - 💣 [Hollywood love interests](http://9gag.com/gag/a2vXvEE)
- - 😝 [Kids used to roam free, now we&#39;re helicopter parents](http://9gag.com/gag/a7oxODe)
- - 👉 [Bambooze](http://9gag.com/gag/adBzBNV)<!-- MEMES:END -->
+ - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
+ - 😝 [Trump casually dropping Pearl Harbor jokes with the Japanese PM](http://9gag.com/gag/aD2vYKK)
+ - 💣 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
+ - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
+ - 👉 [Confidence is a key](http://9gag.com/gag/aGyQy97)<!-- MEMES:END -->
 
 ---
 

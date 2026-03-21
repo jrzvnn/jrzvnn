@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [March Madness 2026: How to Watch the Second Round](https://www.cnet.com/tech/services-and-software/march-madness-2026-how-to-watch-second-round/)
  - [Sources: advertisers that bought ChatGPT&#39;s first ad campaigns say the process was low tech and that they haven&#39;t received much data showing if their ads worked &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/260321/p9#a260321p9)
  - [The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal)
- - [Lux Optics CEO Ben Sandofsky sues his co-founder Sebastiaan de With, now a part of the design team at Apple, alleging improper use of funds and stolen IP &lpar;Aaron Tilley/The Information&rpar;](http://www.techmeme.com/260321/p8#a260321p8)
- - [Amazon&#39;s $949 15-inch MacBook Air deal hits lowest price ever ahead of Big Spring Sale](https://appleinsider.com/articles/26/03/21/amazons-949-15-inch-macbook-air-deal-hits-lowest-price-ever-ahead-of-big-spring-sale?utm_source=rss)
- - [Vercel, which helps developers host web apps and AI agents, says its run-rate GAAP revenue hit $340M at the end of February, up 86% YoY, amid the AI coding boom &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/260321/p7#a260321p7)<!-- TECH:END -->
+ - [CEO of Halide-maker Lux Optics, Ben Sandofsky, sues his co-founder Sebastiaan de With, now on Apple&#39;s design team, alleging improper use of funds and stolen IP &lpar;Aaron Tilley/The Information&rpar;](http://www.techmeme.com/260321/p8#a260321p8)
+ - [Amazon&#39;s $949 15-inch MacBook Air deal hits lowest price ever ahead of Big Spring Sale](https://appleinsider.com/articles/26/03/21/amazons-949-15-inch-macbook-air-deal-hits-lowest-price-ever-ahead-of-big-spring-sale?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

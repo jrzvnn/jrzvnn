@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Because I got high](http://9gag.com/gag/a2vXMMO)
  - 😝 [Confidence is a key](http://9gag.com/gag/aGyQy97)
- - 💣 [Bambooze](http://9gag.com/gag/adBzBNV)
+ - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
+ - 💣 [...](http://9gag.com/gag/a7oxqgA)
  - 😝 [Rest in Peace \u2013 a legend is gone.](http://9gag.com/gag/ae9B4G5)
- - 👉 [...](http://9gag.com/gag/a7oxqgA)<!-- MEMES:END -->
+ - 👉 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)<!-- MEMES:END -->
 
 ---
 

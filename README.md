@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confidence is a key](http://9gag.com/gag/aGyQy97)
- - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
- - 💣 [...](http://9gag.com/gag/a7oxqgA)
- - 😝 [Rest in Peace \u2013 a legend is gone.](http://9gag.com/gag/ae9B4G5)
- - 👉 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)<!-- MEMES:END -->
+ - 😝 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
+ - 😝 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
+ - 💣 [Bambooze](http://9gag.com/gag/adBzBNV)
+ - 😝 [Kids used to roam free, now we&#39;re helicopter parents](http://9gag.com/gag/a7oxODe)
+ - 👉 [...](http://9gag.com/gag/a7oxqgA)<!-- MEMES:END -->
 
 ---
 

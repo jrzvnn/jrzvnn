@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holy f**king shit. Chuck Norris actually died. RIP](http://9gag.com/gag/aAy9Q1d)
- - 😝 [FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF](http://9gag.com/gag/aByeZYx)
- - 💣 [Here we go. All the best!](http://9gag.com/gag/aD2v7zN)
- - 😝 [Call an ambulance... but not for him](http://9gag.com/gag/aByeZg2)
- - 👉 [An ancient technique for lifting giant stone blocks using a Lewis tool](http://9gag.com/gag/axyry4W)<!-- MEMES:END -->
+ - 😝 [Because I got high](http://9gag.com/gag/a2vXMMO)
+ - 😝 [Confidence is a key](http://9gag.com/gag/aGyQy97)
+ - 💣 [Bambooze](http://9gag.com/gag/adBzBNV)
+ - 😝 [Rest in Peace \u2013 a legend is gone.](http://9gag.com/gag/ae9B4G5)
+ - 👉 [...](http://9gag.com/gag/a7oxqgA)<!-- MEMES:END -->
 
 ---
 

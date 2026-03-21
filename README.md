@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
- - 😝 [Trump casually dropping Pearl Harbor jokes with the Japanese PM](http://9gag.com/gag/aD2vYKK)
- - 💣 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
- - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
- - 👉 [Confidence is a key](http://9gag.com/gag/aGyQy97)<!-- MEMES:END -->
+ - 😝 [Holy f**king shit. Chuck Norris actually died. RIP](http://9gag.com/gag/aAy9Q1d)
+ - 😝 [FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF](http://9gag.com/gag/aByeZYx)
+ - 💣 [Here we go. All the best!](http://9gag.com/gag/aD2v7zN)
+ - 😝 [Call an ambulance... but not for him](http://9gag.com/gag/aByeZg2)
+ - 👉 [An ancient technique for lifting giant stone blocks using a Lewis tool](http://9gag.com/gag/axyry4W)<!-- MEMES:END -->
 
 ---
 

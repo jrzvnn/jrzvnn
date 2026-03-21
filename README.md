@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confidence is a key](http://9gag.com/gag/aGyQy97)
- - 😝 [Nobody learned anything that day](http://9gag.com/gag/aoy7Wz2)
- - 💣 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
+ - 😝 [Hollywood look](http://9gag.com/gag/axyryep)
+ - 😝 [This illusion on a frozen lake. Looks like the pole is moving but it&#39;s actually the ice sheet](http://9gag.com/gag/ae9B1gB)
+ - 💣 [In 2017 an Estonian reporter tried to interview a deer. This was the result](http://9gag.com/gag/aW4XpW2)
  - 😝 [Gotta hustle](http://9gag.com/gag/awypm5W)
- - 👉 [Bambooze](http://9gag.com/gag/adBzBNV)<!-- MEMES:END -->
+ - 👉 [Badly needed feature in every game](http://9gag.com/gag/aYQ0G32)<!-- MEMES:END -->
 
 ---
 

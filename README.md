@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hollywood love interests](http://9gag.com/gag/a2vXvEE)
- - 😝 [Sporty Spice](http://9gag.com/gag/aE04qvO)
+ - 😝 [Because I got high](http://9gag.com/gag/a2vXMMO)
  - 💣 [Confidence is a key](http://9gag.com/gag/aGyQy97)
  - 😝 [When you respawn and have to do it all over again](http://9gag.com/gag/aVv6oOO)
- - 👉 [Why was he so angry?](http://9gag.com/gag/aryLmzp)<!-- MEMES:END -->
+ - 👉 [Bambooze](http://9gag.com/gag/adBzBNV)<!-- MEMES:END -->
 
 ---
 

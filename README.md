@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Scenes from a dermatologist conference in hawaii](http://9gag.com/gag/aBye6NN)
- - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
- - 💣 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - 😝 [Great Ass](http://9gag.com/gag/apRM31n)
+ - 💣 [Confidence is a key](http://9gag.com/gag/aGyQy97)
  - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
- - 👉 [Confidence is a key](http://9gag.com/gag/aGyQy97)<!-- MEMES:END -->
+ - 👉 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)<!-- MEMES:END -->
 
 ---
 

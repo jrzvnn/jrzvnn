@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Universal recipes for startup success are impossible: once good ideas are widely adopted, founders converge on the same moves, erasing any competitive moats &lpar;Jerry Neumann/Colossus&rpar;](http://www.techmeme.com/260321/p3#a260321p3)
  - [A review of Polymarket&#39;s social media feeds found it has published hundreds of false and misleading posts, as the betting market presents itself as &quot;News 2.0&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/260321/p2#a260321p2)
  - [Nvidia Chief Software Architect Jonathan Ross discusses the $20B Nvidia-Groq deal; sources say Groq&#39;s annual revenue was near $100M at the time of the deal &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/260321/p1#a260321p1)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-21/)
- - [Super Micro names VP DeAnna Luna as acting chief compliance officer, after SMCI closed down 33% on March 20 amid a chip smuggling scandal &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260320/p32#a260320p32)
- - [A US judge dismisses a lawsuit by Sam Altman&#39;s sister accusing Altman of sexual abuse from 1997 to 2006, as the claims expired in 2008, but says she can refile &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260320/p31#a260320p31)<!-- TECH:END -->
+ - [Super Micro names VP DeAnna Luna as acting chief compliance officer, after SMCI closed down 33% on March 20 amid a chip smuggling scandal &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260320/p32#a260320p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

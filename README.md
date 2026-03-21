@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Protein Bars &lpar;2026&rpar;: Vegan, Gluten-Free, High Fiber](https://www.wired.com/story/best-protein-bars/)
+ - [Gemini task automation is slow, clunky, and super impressive](https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on)
  - [Aiper Scuba V3 Pool Robot Review: Eye on the Prize](https://www.wired.com/review/aiper-scuba-v3-pool-robot/)
  - [I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work](https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/)
- - [Kodiak CEO says making trucks drive themselves is only half the battle](https://www.theverge.com/transportation/897551/kodiak-ai-self-driving-truck-ceo-interview)
- - [Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck](https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/)
- - [&#39;Jury Duty Presents: Company Retreat&#39; Almost Makes Corporate Culture Seem Fun](https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/)<!-- TECH:END -->
+ - [Kodiak CEO says making trucks drive themselves is only half the battle](https://www.theverge.com/transportation/897551/kodiak-ai-self-driving-truck-ceo-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

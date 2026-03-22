@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
- - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - 💣 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
- - 😝 [Rest in Peace absolute legend](http://9gag.com/gag/an7oONz)
+ - 😝 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
+ - 😝 [Both pepsi](http://9gag.com/gag/aXPONrz)
+ - 💣 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
+ - 😝 [Karen fukuhara as chun lee](http://9gag.com/gag/ayNK3XV)
  - 👉 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)<!-- MEMES:END -->
 
 ---

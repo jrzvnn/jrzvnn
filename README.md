@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Give Your Phone a Huge &lpar;and Free&rpar; Upgrade by Switching to Another Keyboard](https://www.wired.com/story/switch-your-phone-to-another-keyboard-ios-android/)
  - [12 Best Coffee Subscriptions &lpar;2026&rpar;, Tested by Caffeine Hounds](https://www.wired.com/gallery/best-coffee-subscriptions/)
  - [An essay on the history, theory, progress, and potential of world models, a prominent theme at Nvidia GTC 2026, co-written by General Intuition CEO Pim de Witte &lpar;Not Boring by Packy McCormick&rpar;](http://www.techmeme.com/260322/p4#a260322p4)
- - [The 9 Best Places to Buy Reading Glasses Online With No Prescription](https://www.cnet.com/health/personal-care/best-places-to-buy-reading-glasses-online/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 22 #749](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-22-749/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 22, #1015](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-22-1015/)<!-- TECH:END -->
+ - [Here Are the Mother&#39;s Day Gifts Our Editors Are Asking for in 2026](https://www.cnet.com/news/best-mothers-day-gifts/)
+ - [The 9 Best Places to Buy Reading Glasses Online With No Prescription](https://www.cnet.com/health/personal-care/best-places-to-buy-reading-glasses-online/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

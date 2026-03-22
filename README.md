@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 22, #545](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-22-545/)
- - [How gig apps like Kled AI, Silencio, Neon Mobile, and Luel AI pay users for data that AI companies can use to train models, from phone calls to videos of places &lpar;Shubham Agarwal/The Guardian&rpar;](http://www.techmeme.com/260321/p12#a260321p12)
- - [A look at &quot;tokenmaxxing&quot;, a status game where employees at a number of companies compete on leaderboards to show how much AI they&#39;re using &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260321/p11#a260321p11)
- - [Halide co-founder is suing former partner for bringing source code to Apple](https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple)
- - [Today&#39;s Wordle Hints, Answer and Help for March 22, #1737](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-22-1737/)<!-- TECH:END -->
+ - [Speaking at a Beijing forum, Tim Cook praised Apple&#39;s partners and developers in China, a week after Chinese state media labeled the App Store &quot;monopolistic&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260322/p2#a260322p2)
+ - [Cloaked, which offers security and privacy services such as VPNs, raised a $375M Series B in a mix of equity and growth funding, for enterprise expansion &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260322/p1#a260322p1)
+ - [Hands-on with Gemini task automation on mobile: it&#39;s super impressive despite being very slow and failing at some tasks; it can order food, book Ubers, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260321/p13#a260321p13)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-22/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 22, #545](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-22-545/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

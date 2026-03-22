@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scenes from a dermatologist conference in hawaii](http://9gag.com/gag/aBye6NN)
- - 😝 [Great Ass](http://9gag.com/gag/apRM31n)
- - 💣 [Confidence is a key](http://9gag.com/gag/aGyQy97)
- - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
- - 👉 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)<!-- MEMES:END -->
+ - 😝 [This illusion on a frozen lake. Looks like the pole is moving but it&#39;s actually the ice sheet](http://9gag.com/gag/ae9B1gB)
+ - 😝 [Badly needed feature in every game](http://9gag.com/gag/aYQ0G32)
+ - 💣 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)
+ - 😝 [Improvise. Adapt. Overcome.](http://9gag.com/gag/avyj1Wn)
+ - 👉 [I&#39;m with Afroman on this](http://9gag.com/gag/aKGMA76)<!-- MEMES:END -->
 
 ---
 

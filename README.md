@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which Instax Camera Should You Buy? &lpar;2026&rpar;](https://www.wired.com/gallery/which-instax-camera-should-you-buy/)
- - [How to Back Up Your Android Phone &lpar;2026&rpar;](https://www.wired.com/story/how-to-backup-your-android/)
- - [Crime blotter: Chinese national sentenced in Apple counterfeiting case](https://appleinsider.com/articles/26/03/22/crime-blotter-chinese-national-sentenced-in-apple-counterfeiting-case?utm_source=rss)
- - [iOS 26.3.1 &lpar;a&rpar;: What to Know About Apple&#39;s First Background Security Improvement](https://www.cnet.com/tech/services-and-software/apple-iphone-background-security-improvement-ios-26-3-1-a/)
- - [The Best Subscription-Free Home Security Cameras I&#39;ve Tried](https://www.wired.com/story/best-subscription-free-security-cameras/)<!-- TECH:END -->
+ - [Apple raises external storage prices as AI consumes everything](https://appleinsider.com/articles/26/03/22/apple-raises-external-storage-prices-as-ai-consumes-everything?utm_source=rss)
+ - [The pint-sized Sonos Roam 2 is more over 20 percent this weekend](https://www.theverge.com/gadgets/898414/sonos-roam-2-bluetooth-speaker-amazon-big-spring-sale-2026-deals)
+ - [Apple iPhone 20: All We Know About the Button-Less, All-Glass Redesign Coming in 2027](https://www.cnet.com/tech/mobile/apple-iphone-20th-anniversary-edition-rumors-2027/)
+ - [Generative AI in Gaming Is Here, but Facing Pushback from Gamers -- and Developers](https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/)
+ - [Meeting Every Robot at Nvidia GTC: What the Future May Bring](https://www.cnet.com/tech/services-and-software/meeting-every-robot-at-nvidia-gtc-what-the-future-may-bring/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

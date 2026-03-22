@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Chinese national sentenced in Apple counterfeiting case](https://appleinsider.com/articles/26/03/22/crime-blotter-chinese-national-sentenced-in-apple-counterfeiting-case?utm_source=rss)
+ - [The Best Subscription-Free Home Security Cameras I&#39;ve Tried](https://www.wired.com/story/best-subscription-free-security-cameras/)
  - [Give Your Phone a Huge &lpar;and Free&rpar; Upgrade by Switching to Another Keyboard](https://www.wired.com/story/switch-your-phone-to-another-keyboard-ios-android/)
  - [12 Best Coffee Subscriptions &lpar;2026&rpar;, Tested by Caffeine Hounds](https://www.wired.com/gallery/best-coffee-subscriptions/)
- - [An essay on the history, theory, progress, and potential of world models, a prominent theme at Nvidia GTC 2026, co-written by General Intuition CEO Pim de Witte &lpar;Not Boring by Packy McCormick&rpar;](http://www.techmeme.com/260322/p4#a260322p4)
- - [Here Are the Mother&#39;s Day Gifts Our Editors Are Asking for in 2026](https://www.cnet.com/news/best-mothers-day-gifts/)
- - [The 9 Best Places to Buy Reading Glasses Online With No Prescription](https://www.cnet.com/health/personal-care/best-places-to-buy-reading-glasses-online/)<!-- TECH:END -->
+ - [An essay on the history, theory, progress, and potential of world models, a prominent theme at Nvidia GTC 2026, co-written by General Intuition CEO Pim de Witte &lpar;Not Boring by Packy McCormick&rpar;](http://www.techmeme.com/260322/p4#a260322p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent launches ClawBot, an OpenClaw-based agent integrated into WeChat, letting its 1B+ MAUs send and receive commands to interact with the AI agent via chat &lpar;Reuters&rpar;](http://www.techmeme.com/260322/p8#a260322p8)
  - [Sunday Reboot: MotionVFX, celebrations, and questionable updates](https://appleinsider.com/articles/26/03/22/sunday-reboot-motionvfx-celebrations-and-questionable-updates?utm_source=rss)
- - [AI tools like Claude Code have transformed coders&#39; lives, and AI labs are now eyeing a bigger goal: automating everyone&#39;s lives and winning the non-coder market &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p7#a260322p7)
- - [&#39;Marshals&#39; Release Schedule: When Episode 4 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-4-hits-paramount-plus/)
- - [Crimson Desert dev apologizes for use of AI art](https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art)
- - [La Liga Soccer: Stream Real Madrid vs. Atlético Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-atletico-madrid-live-from-anywhere/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 23, #1016](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-23-1016/)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 23, #1738](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-23-1738/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 23 #750](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-23-750/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

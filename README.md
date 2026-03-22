@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - 😝 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
+ - 😝 [Both pepsi](http://9gag.com/gag/aXPONrz)
  - 💣 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)
- - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/aGyQBLG)
- - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
+ - 😝 [Import third world](http://9gag.com/gag/aGyQ8m5)
+ - 👉 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)<!-- MEMES:END -->
 
 ---
 

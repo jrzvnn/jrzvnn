@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early deals you can already grab from Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026)
+ - [A look at Huawei-backed Yuanjie, a maker of photonic chips used in AI data center optical interconnects, whose stock has surged 780% over the past year &lpar;Yue Wang/Forbes&rpar;](http://www.techmeme.com/260322/p6#a260322p6)
+ - [Chimp Slasher Flick &#39;Primate&#39; Hits Streaming. Warning: This Ain&#39;t No Punch the Monkey Story](https://www.cnet.com/tech/services-and-software/primate-movie-streaming-how-to-watch-paramount-plus/)
  - [Musk says he’s building Terafab chip plant in Austin, Texas](https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant)
- - [A profile of Chinese bitcoin mining company Bitmain, now allied with Eric Trump&#39;s American Bitcoin and previously the target of a DHS espionage-risk probe &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/260322/p5#a260322p5)
- - [iPad with A18 chip on schedule for launch in early 2026](https://appleinsider.com/articles/26/03/22/ipad-with-a18-chip-on-schedule-for-launch-in-early-2026?utm_source=rss)
- - [The secret story of the vocoder, the military tech that changed music forever](https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history)
- - [Apple raises external storage prices as AI consumes everything](https://appleinsider.com/articles/26/03/22/apple-raises-external-storage-prices-as-ai-consumes-everything?utm_source=rss)<!-- TECH:END -->
+ - [A profile of Chinese bitcoin mining company Bitmain, now allied with Eric Trump&#39;s American Bitcoin and previously the target of a DHS espionage-risk probe &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/260322/p5#a260322p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

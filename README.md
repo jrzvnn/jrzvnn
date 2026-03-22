@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Both pepsi](http://9gag.com/gag/aXPONrz)
- - 😝 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)
- - 💣 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
- - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/aGyQBLG)
- - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
+ - 😝 [Didnt see epstein today, so...](http://9gag.com/gag/a87gmRZ)
+ - 😝 [Signs that the world is healing.](http://9gag.com/gag/a9yGve6)
+ - 💣 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
+ - 😝 [My man.](http://9gag.com/gag/amoZGov)
+ - 👉 [This .... is a nice duck](http://9gag.com/gag/aW4X7y2)<!-- MEMES:END -->
 
 ---
 

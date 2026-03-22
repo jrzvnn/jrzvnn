@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karen fukuhara as chun lee](http://9gag.com/gag/ayNK3XV)
- - 😝 [Rest in Peace absolute legend](http://9gag.com/gag/an7oONz)
- - 💣 [Welcome to NY west boy!](http://9gag.com/gag/agmeQxv)
- - 😝 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)
- - 👉 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)<!-- MEMES:END -->
+ - 😝 [Improvise. Adapt. Overcome.](http://9gag.com/gag/avyj1Wn)
+ - 😝 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
+ - 💣 [Signs that the world is healing.](http://9gag.com/gag/a9yGve6)
+ - 😝 [Lol skynet might be blind](http://9gag.com/gag/aLnE4Bv)
+ - 👉 [My man.](http://9gag.com/gag/amoZGov)<!-- MEMES:END -->
 
 ---
 

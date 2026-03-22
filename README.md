@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 22, #545](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-22-545/)
  - [How gig apps like Kled AI, Silencio, Neon Mobile, and Luel AI pay users for data that AI companies can use to train models, from phone calls to videos of places &lpar;Shubham Agarwal/The Guardian&rpar;](http://www.techmeme.com/260321/p12#a260321p12)
  - [A look at &quot;tokenmaxxing&quot;, a status game where employees at a number of companies compete on leaderboards to show how much AI they&#39;re using &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260321/p11#a260321p11)
  - [Halide co-founder is suing former partner for bringing source code to Apple](https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple)
- - [Today&#39;s Wordle Hints, Answer and Help for March 22, #1737](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-22-1737/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 22, #1015](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-22-1015/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 22, #1737](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-22-1737/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO](http://9gag.com/gag/ae9B9zW)
+ - 😝 [Great Ass](http://9gag.com/gag/apRM31n)
  - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - 💣 [Scenes from a dermatologist conference in hawaii](http://9gag.com/gag/aBye6NN)
- - 😝 [This .... is a nice duck](http://9gag.com/gag/aW4X7y2)
- - 👉 [Rest in Peace absolute legend](http://9gag.com/gag/an7oONz)<!-- MEMES:END -->
+ - 💣 [Rest in Peace absolute legend](http://9gag.com/gag/an7oONz)
+ - 😝 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
+ - 👉 [Scenes from a dermatologist conference in hawaii](http://9gag.com/gag/aBye6NN)<!-- MEMES:END -->
 
 ---
 

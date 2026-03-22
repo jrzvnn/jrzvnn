@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk announces Terafab, an Austin-based project run by Tesla and SpaceX to manufacture robotics, AI, and space data center chips for Tesla, xAI, and SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/260322/p3#a260322p3)
  - [Speaking at a Beijing forum, Tim Cook praised Apple&#39;s partners and developers in China, a week after Chinese state media labeled the App Store &quot;monopolistic&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260322/p2#a260322p2)
  - [Cloaked, which offers security and privacy services such as VPNs, raised a $375M Series B in a mix of equity and growth funding, for enterprise expansion &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260322/p1#a260322p1)
  - [Hands-on with Gemini task automation on mobile: it&#39;s super impressive despite being very slow and failing at some tasks; it can order food, book Ubers, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260321/p13#a260321p13)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-22/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 22, #545](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-22-545/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-22/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

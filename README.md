@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
  - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - 💣 [Both pepsi](http://9gag.com/gag/aXPONrz)
- - 😝 [Import third world](http://9gag.com/gag/aGyQ8m5)
- - 👉 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)<!-- MEMES:END -->
+ - 😝 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
+ - 💣 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)
+ - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/aGyQBLG)
+ - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 ---
 

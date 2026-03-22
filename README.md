@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
- - 😝 [Karen fukuhara as chun lee](http://9gag.com/gag/ayNK3XV)
- - 💣 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
  - 😝 [Rest in Peace absolute legend](http://9gag.com/gag/an7oONz)
- - 👉 [Welcome to NY west boy!](http://9gag.com/gag/agmeQxv)<!-- MEMES:END -->
+ - 💣 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - 😝 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)
+ - 👉 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)<!-- MEMES:END -->
 
 ---
 

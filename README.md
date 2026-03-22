@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Both pepsi](http://9gag.com/gag/aXPONrz)
- - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - 💣 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
+ - 😝 [If you thought Fallout caps were dumb](http://9gag.com/gag/aZZYwjQ)
+ - 😝 [Dude just wanted to vent, I was really young and not interested in that stuf](http://9gag.com/gag/aByeLNA)
+ - 💣 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
  - 😝 [Lol skynet might be blind](http://9gag.com/gag/aLnE4Bv)
- - 👉 [Scenes from a dermatologist conference in hawaii](http://9gag.com/gag/aBye6NN)<!-- MEMES:END -->
+ - 👉 [Signs that the world is healing.](http://9gag.com/gag/a9yGve6)<!-- MEMES:END -->
 
 ---
 

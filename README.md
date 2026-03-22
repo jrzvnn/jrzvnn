@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karen fukuhara as chun lee](http://9gag.com/gag/ayNK3XV)
- - 😝 [Both pepsi](http://9gag.com/gag/aXPONrz)
- - 💣 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - 😝 [Import third world](http://9gag.com/gag/aGyQ8m5)
- - 👉 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)<!-- MEMES:END -->
+ - 😝 [Didnt see epstein today, so...](http://9gag.com/gag/a87gmRZ)
+ - 😝 [Tell me you are a Steampunk fan without telling me you are a Steampunk fan](http://9gag.com/gag/aKGM93b)
+ - 💣 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
+ - 😝 [Lol skynet might be blind](http://9gag.com/gag/aLnE4Bv)
+ - 👉 [No rastplatz for this dude](http://9gag.com/gag/a5QYBmL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This illusion on a frozen lake. Looks like the pole is moving but it&#39;s actually the ice sheet](http://9gag.com/gag/ae9B1gB)
- - 😝 [Badly needed feature in every game](http://9gag.com/gag/aYQ0G32)
- - 💣 [I&#39;m with Afroman on this](http://9gag.com/gag/aKGMA76)
- - 😝 [Dude just wanted to vent, I was really young and not interested in that stuf](http://9gag.com/gag/aByeLNA)
- - 👉 [Improvise. Adapt. Overcome.](http://9gag.com/gag/avyj1Wn)<!-- MEMES:END -->
+ - 😝 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
+ - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - 💣 [Both pepsi](http://9gag.com/gag/aXPONrz)
+ - 😝 [Rest in Peace absolute legend](http://9gag.com/gag/an7oONz)
+ - 👉 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)<!-- MEMES:END -->
 
 ---
 

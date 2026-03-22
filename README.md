@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rest in Peace absolute legend](http://9gag.com/gag/an7oONz)
  - 😝 [Both pepsi](http://9gag.com/gag/aXPONrz)
- - 💣 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
- - 😝 [Great Ass](http://9gag.com/gag/apRM31n)
+ - 😝 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
+ - 💣 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
+ - 😝 [Didnt see epstein today, so...](http://9gag.com/gag/a87gmRZ)
  - 👉 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)<!-- MEMES:END -->
 
 ---

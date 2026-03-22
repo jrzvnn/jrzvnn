@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didnt see epstein today, so...](http://9gag.com/gag/a87gmRZ)
- - 😝 [Tell me you are a Steampunk fan without telling me you are a Steampunk fan](http://9gag.com/gag/aKGM93b)
- - 💣 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
- - 😝 [Lol skynet might be blind](http://9gag.com/gag/aLnE4Bv)
- - 👉 [No rastplatz for this dude](http://9gag.com/gag/a5QYBmL)<!-- MEMES:END -->
+ - 😝 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
+ - 😝 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
+ - 💣 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
+ - 😝 [80s](http://9gag.com/gag/a7ox072)
+ - 👉 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Both pepsi](http://9gag.com/gag/aXPONrz)
  - 😝 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
- - 💣 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
+ - 😝 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)
+ - 💣 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
  - 😝 [Didnt see epstein today, so...](http://9gag.com/gag/a87gmRZ)
- - 👉 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)<!-- MEMES:END -->
+ - 👉 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)<!-- MEMES:END -->
 
 ---
 

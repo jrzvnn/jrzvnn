@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Poste Italiane says it will launch a €10.8B cash-and-share offer to fully acquire Telecom Italia; Poste is already Telecom Italia&#39;s largest shareholder &lpar;Reuters&rpar;](http://www.techmeme.com/260322/p9#a260322p9)
+ - [Topical Dancer is propulsive, playful, and political](https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review)
  - [Airlines Are Already Preparing for an Oil Crisis](https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/)
  - [Tencent launches ClawBot, an OpenClaw-based agent integrated into WeChat, letting its 1B+ MAUs send and receive commands to interact with the AI agent via chat &lpar;Reuters&rpar;](http://www.techmeme.com/260322/p8#a260322p8)
- - [Sunday Reboot: MotionVFX, celebrations, and questionable updates](https://appleinsider.com/articles/26/03/22/sunday-reboot-motionvfx-celebrations-and-questionable-updates?utm_source=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 23, #1016](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-23-1016/)<!-- TECH:END -->
+ - [Sunday Reboot: MotionVFX, celebrations, and questionable updates](https://appleinsider.com/articles/26/03/22/sunday-reboot-motionvfx-celebrations-and-questionable-updates?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

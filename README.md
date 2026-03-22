@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad with A18 chip on schedule for launch in early 2026](https://appleinsider.com/articles/26/03/22/ipad-with-a18-chip-on-schedule-for-launch-in-early-2026?utm_source=rss)
+ - [The secret story of the vocoder, the military tech that changed music forever](https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history)
  - [Apple raises external storage prices as AI consumes everything](https://appleinsider.com/articles/26/03/22/apple-raises-external-storage-prices-as-ai-consumes-everything?utm_source=rss)
  - [The pint-sized Sonos Roam 2 is more over 20 percent this weekend](https://www.theverge.com/gadgets/898414/sonos-roam-2-bluetooth-speaker-amazon-big-spring-sale-2026-deals)
- - [Apple iPhone 20: All We Know About the Button-Less, All-Glass Redesign Coming in 2027](https://www.cnet.com/tech/mobile/apple-iphone-20th-anniversary-edition-rumors-2027/)
- - [Generative AI in Gaming Is Here, but Facing Pushback from Gamers -- and Developers](https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/)
- - [Meeting Every Robot at Nvidia GTC: What the Future May Bring](https://www.cnet.com/tech/services-and-software/meeting-every-robot-at-nvidia-gtc-what-the-future-may-bring/)<!-- TECH:END -->
+ - [Nosh Robotics Launched a $1,500 Cooking Robot. Here&#39;s What It Does &lpar;and Doesn&#39;t Do&rpar;](https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

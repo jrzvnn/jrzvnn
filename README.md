@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Both pepsi](http://9gag.com/gag/aXPONrz)
- - 😝 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)
- - 💣 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
+ - 😝 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
+ - 💣 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
  - 😝 [Import third world](http://9gag.com/gag/aGyQ8m5)
- - 👉 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)<!-- MEMES:END -->
+ - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 ---
 

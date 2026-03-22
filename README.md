@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Musk says he’s building Terafab chip plant in Austin, Texas](https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant)
+ - [A profile of Chinese bitcoin mining company Bitmain, now allied with Eric Trump&#39;s American Bitcoin and previously the target of a DHS espionage-risk probe &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/260322/p5#a260322p5)
  - [iPad with A18 chip on schedule for launch in early 2026](https://appleinsider.com/articles/26/03/22/ipad-with-a18-chip-on-schedule-for-launch-in-early-2026?utm_source=rss)
  - [The secret story of the vocoder, the military tech that changed music forever](https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history)
- - [Apple raises external storage prices as AI consumes everything](https://appleinsider.com/articles/26/03/22/apple-raises-external-storage-prices-as-ai-consumes-everything?utm_source=rss)
- - [The pint-sized Sonos Roam 2 is more over 20 percent this weekend](https://www.theverge.com/gadgets/898414/sonos-roam-2-bluetooth-speaker-amazon-big-spring-sale-2026-deals)
- - [Nosh Robotics Launched a $1,500 Cooking Robot. Here&#39;s What It Does &lpar;and Doesn&#39;t Do&rpar;](https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/)<!-- TECH:END -->
+ - [Apple raises external storage prices as AI consumes everything](https://appleinsider.com/articles/26/03/22/apple-raises-external-storage-prices-as-ai-consumes-everything?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

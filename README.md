@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you thought Fallout caps were dumb](http://9gag.com/gag/aZZYwjQ)
- - 😝 [Dude just wanted to vent, I was really young and not interested in that stuf](http://9gag.com/gag/aByeLNA)
- - 💣 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
- - 😝 [Lol skynet might be blind](http://9gag.com/gag/aLnE4Bv)
- - 👉 [Signs that the world is healing.](http://9gag.com/gag/a9yGve6)<!-- MEMES:END -->
+ - 😝 [Both pepsi](http://9gag.com/gag/aXPONrz)
+ - 😝 [Welcome to NY west boy!](http://9gag.com/gag/agmeQxv)
+ - 💣 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - 😝 [Import third world](http://9gag.com/gag/aGyQ8m5)
+ - 👉 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)<!-- MEMES:END -->
 
 ---
 

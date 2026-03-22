@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Karen fukuhara as chun lee](http://9gag.com/gag/ayNK3XV)
  - 😝 [Great Ass](http://9gag.com/gag/apRM31n)
- - 😝 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
  - 💣 [Both pepsi](http://9gag.com/gag/aXPONrz)
  - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - 👉 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)<!-- MEMES:END -->
+ - 👉 [Rest in Peace absolute legend](http://9gag.com/gag/an7oONz)<!-- MEMES:END -->
 
 ---
 

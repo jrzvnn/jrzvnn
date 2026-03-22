@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources describe efforts to build and use internal AI tools at Meta, including Mark Zuckerberg building a CEO agent to help him do his job better &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p10#a260322p10)
+ - [Samsung&#39;s Galaxy S26 Phones Will Work With Apple&#39;s AirDrop, Much Like the Pixel 10](https://www.cnet.com/tech/mobile/samsungs-galaxy-s26-phones-will-work-with-apples-airdrop-much-like-the-pixel-10/)
  - [Poste Italiane says it will launch a €10.8B cash-and-share offer to fully acquire Telecom Italia; Poste is already Telecom Italia&#39;s largest shareholder &lpar;Reuters&rpar;](http://www.techmeme.com/260322/p9#a260322p9)
  - [Topical Dancer is propulsive, playful, and political](https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review)
- - [Airlines Are Already Preparing for an Oil Crisis](https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/)
- - [Tencent launches ClawBot, an OpenClaw-based agent integrated into WeChat, letting its 1B+ MAUs send and receive commands to interact with the AI agent via chat &lpar;Reuters&rpar;](http://www.techmeme.com/260322/p8#a260322p8)<!-- TECH:END -->
+ - [Airlines Are Already Preparing for an Oil Crisis](https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mexico City&#39;s &#39;Xoli&#39; Chatbot Will Help World Cup Tourists Navigate the City](https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/)
- - [Elon Musk announces Terafab, an Austin-based project run by Tesla and SpaceX to manufacture robotics, AI, and space data center chips for Tesla, xAI, and SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/260322/p3#a260322p3)
- - [Speaking at a Beijing forum, Tim Cook praised Apple&#39;s partners and developers in China, a week after Chinese state media labeled the App Store &quot;monopolistic&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260322/p2#a260322p2)
- - [Cloaked, which offers security and privacy services such as VPNs, raised a $375M Series B in a mix of equity and growth funding, for enterprise expansion &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260322/p1#a260322p1)
- - [Hands-on with Gemini task automation on mobile: it&#39;s super impressive despite being very slow and failing at some tasks; it can order food, book Ubers, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260321/p13#a260321p13)<!-- TECH:END -->
+ - [12 Best Coffee Subscriptions &lpar;2026&rpar;, Tested by Caffeine Hounds](https://www.wired.com/gallery/best-coffee-subscriptions/)
+ - [An essay on the history, theory, progress, and potential of world models, a prominent theme at Nvidia GTC 2026, co-written by General Intuition CEO Pim de Witte &lpar;Not Boring by Packy McCormick&rpar;](http://www.techmeme.com/260322/p4#a260322p4)
+ - [The 9 Best Places to Buy Reading Glasses Online With No Prescription](https://www.cnet.com/health/personal-care/best-places-to-buy-reading-glasses-online/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 22 #749](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-22-749/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 22, #1015](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-22-1015/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

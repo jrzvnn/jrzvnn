@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
  - 😝 [Both pepsi](http://9gag.com/gag/aXPONrz)
- - 💣 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
- - 😝 [Karen fukuhara as chun lee](http://9gag.com/gag/ayNK3XV)
- - 👉 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)<!-- MEMES:END -->
+ - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - 💣 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
+ - 😝 [Lol skynet might be blind](http://9gag.com/gag/aLnE4Bv)
+ - 👉 [Scenes from a dermatologist conference in hawaii](http://9gag.com/gag/aBye6NN)<!-- MEMES:END -->
 
 ---
 

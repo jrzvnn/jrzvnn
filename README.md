@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didnt see epstein today, so...](http://9gag.com/gag/a87gmRZ)
- - 😝 [Signs that the world is healing.](http://9gag.com/gag/a9yGve6)
- - 💣 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
- - 😝 [My man.](http://9gag.com/gag/amoZGov)
- - 👉 [This .... is a nice duck](http://9gag.com/gag/aW4X7y2)<!-- MEMES:END -->
+ - 😝 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
+ - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - 💣 [Both pepsi](http://9gag.com/gag/aXPONrz)
+ - 😝 [Import third world](http://9gag.com/gag/aGyQ8m5)
+ - 👉 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)<!-- MEMES:END -->
 
 ---
 

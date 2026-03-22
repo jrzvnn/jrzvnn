@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Crimson Desert dev apologizes for use of AI art](https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art)
  - [La Liga Soccer: Stream Real Madrid vs. Atlético Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-atletico-madrid-live-from-anywhere/)
- - [The best early deals you can already grab from Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026)
+ - [The best deals you can already grab from Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026)
  - [A look at Huawei-backed Yuanjie, a maker of photonic chips used in AI data center optical interconnects, whose stock has surged 780% over the past year &lpar;Yue Wang/Forbes&rpar;](http://www.techmeme.com/260322/p6#a260322p6)
  - [Chimp Slasher Flick &#39;Primate&#39; Hits Streaming. Warning: This Ain&#39;t No Punch the Monkey Story](https://www.cnet.com/tech/services-and-software/primate-movie-streaming-how-to-watch-paramount-plus/)<!-- TECH:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Great Ass](http://9gag.com/gag/apRM31n)
  - 😝 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
- - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
  - 💣 [Both pepsi](http://9gag.com/gag/aXPONrz)
- - 😝 [Rest in Peace absolute legend](http://9gag.com/gag/an7oONz)
- - 👉 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)<!-- MEMES:END -->
+ - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - 👉 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)<!-- MEMES:END -->
 
 ---
 

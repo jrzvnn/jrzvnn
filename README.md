@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senators Adam Schiff and John Curtis introduce bipartisan legislation to ban sports betting on CFTC-regulated prediction markets like Kalshi and Polymarket &lpar;Krystal Hur/Wall Street Journal&rpar;](http://www.techmeme.com/260323/p14#a260323p14)
- - [Best Laptops &lpar;2026&rpar;: My Honest Advice Having Tested Hundreds](https://www.wired.com/story/best-laptops/)
- - [Sources: Sony is nearing a binding agreement to sell a 51% stake in its home entertainment business to Chinese rival TCL for ~$1B as soon as this month &lpar;Bloomberg&rpar;](http://www.techmeme.com/260323/p13#a260323p13)
- - [Addison Lee CEO Liam Griffin says London cab drivers should be protected via &quot;a minimum price&quot; on Waymo&#39;s and Tesla&#39;s robotaxis to prevent &quot;predatory pricing&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260323/p12#a260323p12)
- - [Elaborate 50th anniversary party to be held at Apple Park](https://appleinsider.com/articles/26/03/23/elaborate-50th-anniversary-party-to-be-held-at-apple-park?utm_source=rss)<!-- TECH:END -->
+ - [Sources: EA is marketing a $15B debt package to fund its $55B Saudi-led take-private deal, including nearly $700M in projected annual cost savings &lpar;Bloomberg&rpar;](http://www.techmeme.com/260323/p18#a260323p18)
+ - [Leonid Radvinsky, the reclusive billionaire owner of OnlyFans parent Fenix, died at 43 after a long battle with cancer; he acquired the OnlyFans stake in 2018 &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/260323/p17#a260323p17)
+ - [Cook praises Chinese developers as government presses for open App Store](https://appleinsider.com/articles/26/03/23/cook-praises-chinese-developers-as-government-presses-for-open-app-store?utm_source=rss)
+ - [OpenAI hires Dave Dugan, a former top ad executive at Meta, to lead ad sales, reporting to COO Brad Lightcap; Dugan stepped down as Meta VP earlier this month &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260323/p16#a260323p16)
+ - [AI chip company Kandou AI raised $225M from SoftBank, Synopsys, and others at a $400M valuation after pivoting from consumer hardware to AI infrastructure &lpar;Nino Paoli/Bloomberg&rpar;](http://www.techmeme.com/260323/p15#a260323p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

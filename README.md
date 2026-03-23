@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel Core Ultra 7 270K Plus review: unbelievable app performance, big price cut, and improvements over the 265K, but mediocre at gaming and large power demands &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260323/p22#a260323p22)
- - [Canal+, ITV, Sky, and other broadcasters urge the EU to designate smart TV operating systems such as Android TV and Amazon Fire OS as gatekeepers under the DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260323/p21#a260323p21)
- - [Confronting the CEO of the AI company that impersonated me](https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation)
- - [Psst. Our Readers Are Looking at These Gadgets Before Amazon&#39;s Big Spring Sale Even Starts](https://www.cnet.com/deals/cnet-readers-are-looking-at-these-gadgets-for-amazons-big-spring-sale/)
- - [The person who could be Apple CEO: Who is John Ternus?](https://appleinsider.com/articles/26/03/23/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)<!-- TECH:END -->
+ - [Interviews with Sundar Pichai and other Google executives on being blindsided by ChatGPT&#39;s launch, Gemini, Pichai&#39;s vision of useful AI everywhere, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/260323/p24#a260323p24)
+ - [Some writing advice from Project Hail Mary’s Andy Weir](https://www.theverge.com/entertainment/898918/project-hail-mary-andy-weir-writing-advice-interview)
+ - [Apple’s four-pack of first-gen AirTags is down $60 for the first time](https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale)
+ - [Source: OpenAI is in talks to buy 5 GW of electricity by 2030 from Sam Altman-backed fusion startup Helion; Altman has stepped down as Helion&#39;s board chair &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260323/p23#a260323p23)
+ - [In-hub motors make this humble Hyundai a monster on ice](https://www.theverge.com/transportation/898131/elaphe-in-hub-motor-hyundai-ice-traction)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

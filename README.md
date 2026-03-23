@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
+ - 😝 [7H/W gym versus 30 years of physical working job](http://9gag.com/gag/aQzj7X2)
+ - 💣 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
  - 😝 [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - 😝 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
- - 💣 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
- - 😝 [My inner child just did a backflip](http://9gag.com/gag/a7ox0P2)
- - 👉 [You are the sun](http://9gag.com/gag/axyrvK2)<!-- MEMES:END -->
+ - 👉 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)<!-- MEMES:END -->
 
 ---
 

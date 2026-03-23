@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC is banning imports of new foreign-made consumer routers over security concerns; China is estimated to control 60%+ of the US market for home routers &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260323/p40#a260323p40)
+ - [A new version of iPhone exploit kit DarkSword has been leaked on GitHub; iVerify co-founder Matthias Frielingsdorf says the exploits &quot;will work out of the box&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/260323/p39#a260323p39)
+ - [Anthropic rolls out a computer use feature for Claude Cowork and the Claude Code desktop app, in research preview on macOS for Pro and Max subscribers &lpar;Blake Stimac/CNET&rpar;](http://www.techmeme.com/260323/p38#a260323p38)
  - [Apple looks to be planning a third retail location in Mexico City](https://appleinsider.com/articles/26/03/23/apple-looks-to-be-planning-a-third-retail-location-in-mexico-city?utm_source=rss)
- - [Grammarly CEO steps on same rake over and over in embarrassing interview about AI slop](https://appleinsider.com/articles/26/03/23/grammarly-ceo-steps-on-same-rake-over-and-over-in-embarrassing-interview-about-ai-slop?utm_source=rss)
- - [These New Govee Outdoor Smart String Lights Let You Customize Each Bulb](https://www.cnet.com/home/smart-home/govees-new-outdoor-smart-string-lights-are-here-and-you-can-customize-each-bulb/)
- - [The kid-friendly Fitbit Ace is $100, which matches its best price](https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal)
- - [These Are the Best Exercise Bikes for Achieving Your Fitness Goals in 2026](https://www.cnet.com/health/fitness/best-exercise-bike/)<!-- TECH:END -->
+ - [Grammarly CEO steps on same rake over and over in embarrassing interview about AI slop](https://appleinsider.com/articles/26/03/23/grammarly-ceo-steps-on-same-rake-over-and-over-in-embarrassing-interview-about-ai-slop?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
- - 😝 [No rastplatz for this dude](http://9gag.com/gag/a5QYBmL)
- - 💣 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)
+ - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - 😝 [100% usage of the brain](http://9gag.com/gag/azx3Pvj)
+ - 💣 [A female comedian disguised as a man to prove women are funny but had a mental breakdown when no one laughed](http://9gag.com/gag/aKGMARO)
  - 😝 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
- - 👉 [Wait, you guys get invited to parties?](http://9gag.com/gag/aGyQBLG)<!-- MEMES:END -->
+ - 👉 [Great Ass](http://9gag.com/gag/apRM31n)<!-- MEMES:END -->
 
 ---
 

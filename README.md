@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - 😝 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
- - 💣 [A female comedian disguised as a man to prove women are funny but had a mental breakdown when no one laughed](http://9gag.com/gag/aKGMARO)
- - 😝 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)
- - 👉 [Malcolm wanted to be in the middle.](http://9gag.com/gag/ayNK30b)<!-- MEMES:END -->
+ - 😝 [I have found my calling !](http://9gag.com/gag/amoZGpo)
+ - 💣 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
+ - 😝 [T600](http://9gag.com/gag/an7o2w0)
+ - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Mysterious Numbers Station Is Broadcasting Through the Iran War](https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/)
- - [Apple could put ads in Maps as soon as this summer](https://www.theverge.com/tech/899053/apple-maps-advertising-rumor)
- - [Memo: Meta hires the founders and team behind Dreamer, which lets users create AI agents; co-founder Hugo Barra is joining Meta Superintelligence Labs &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260323/p34#a260323p34)
- - [The US plans to create a voluntary consortium of countries to invest $4T to secure supply chains for chips, energy, and minerals; the US will contribute $250M &lpar;New York Times&rpar;](http://www.techmeme.com/260323/p33#a260323p33)
- - [2026 Swift Student Challenge winners to be announced on March 26](https://appleinsider.com/articles/26/03/23/2026-swift-student-challenge-winners-to-be-announced-on-march-26?utm_source=rss)<!-- TECH:END -->
+ - [Google’s new Pixel 10 ads made me go ‘wait, WHAT are they trying to sell?’](https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom)
+ - [A Billionaire-Backed Startup Wants to Grow &#39;Organ Sacks&#39; to Replace Animal Testing](https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/)
+ - [Nvidia CEO Jensen Huang says &amp;#8216;I think we&amp;#8217;ve achieved AGI&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi)
+ - [Two of my favorite color e-book readers are the cheapest they’ve been in months](https://www.theverge.com/gadgets/899019/kindle-colorsoft-kobo-libra-colour-ebook-reader-amazon-big-spring-sale-2026-deal)
+ - [Apple Store Reflects RAM Shortage With External Storage Products Sold Out or Marked Up](https://www.cnet.com/tech/computing/external-storage-products-sold-out-or-increasing-in-price-on-apple-website/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

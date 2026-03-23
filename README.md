@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - 😝 [100% usage of the brain](http://9gag.com/gag/azx3Pvj)
- - 💣 [A female comedian disguised as a man to prove women are funny but had a mental breakdown when no one laughed](http://9gag.com/gag/aKGMARO)
- - 😝 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
- - 👉 [Great Ass](http://9gag.com/gag/apRM31n)<!-- MEMES:END -->
+ - 😝 [Never share too much](http://9gag.com/gag/aVv6EKn)
+ - 😝 [A female comedian disguised as a man to prove women are funny but had a mental breakdown when no one laughed](http://9gag.com/gag/aKGMARO)
+ - 💣 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
+ - 😝 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 👉 [I have found my calling !](http://9gag.com/gag/amoZGpo)<!-- MEMES:END -->
 
 ---
 

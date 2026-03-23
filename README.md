@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple prepares to add search ads to Apple Maps](https://appleinsider.com/articles/26/03/23/apple-prepares-to-add-search-ads-to-apple-maps?utm_source=rss)
- - [Our Favorite Budget Earbuds Are Literally $19](https://www.wired.com/story/jlab-go-pop-deal-326/)
- - [Q&amp;A with Jensen Huang, who says &quot;we&#39;ve achieved AGI&quot;, on running Nvidia, AI scaling laws, OpenClaw, future of coding, data centers in space, China, and more &lpar;Lex Fridman&rpar;](http://www.techmeme.com/260323/p31#a260323p31)
- - [Donut Lab’s solid-state battery could barely hold a charge after getting damaged](https://www.theverge.com/transportation/898881/donut-lab-solid-state-battery-damage-test)
- - [iPhone Air C1X modem matches Qualcomm speed &amp; wins on latency](https://appleinsider.com/articles/26/03/23/iphone-air-c1x-modem-matches-qualcomm-speed-wins-on-latency?utm_source=rss)<!-- TECH:END -->
+ - [A Mysterious Numbers Station Is Broadcasting Through the Iran War](https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/)
+ - [Apple could put ads in Maps as soon as this summer](https://www.theverge.com/tech/899053/apple-maps-advertising-rumor)
+ - [Memo: Meta hires the founders and team behind Dreamer, which lets users create AI agents; co-founder Hugo Barra is joining Meta Superintelligence Labs &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260323/p34#a260323p34)
+ - [The US plans to create a voluntary consortium of countries to invest $4T to secure supply chains for chips, energy, and minerals; the US will contribute $250M &lpar;New York Times&rpar;](http://www.techmeme.com/260323/p33#a260323p33)
+ - [2026 Swift Student Challenge winners to be announced on March 26](https://appleinsider.com/articles/26/03/23/2026-swift-student-challenge-winners-to-be-announced-on-march-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

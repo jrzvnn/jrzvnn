@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u200e \u200e](http://9gag.com/gag/a34OAR7)
- - 😝 [Never share too much](http://9gag.com/gag/aVv6EKn)
- - 💣 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
- - 😝 [My inner child just did a backflip](http://9gag.com/gag/a7ox0P2)
- - 👉 [I have found my calling !](http://9gag.com/gag/amoZGpo)<!-- MEMES:END -->
+ - 😝 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 😝 [I have found my calling !](http://9gag.com/gag/amoZGpo)
+ - 💣 [Never share too much](http://9gag.com/gag/aVv6EKn)
+ - 😝 [Dragonflies are nature&#39;s fighter jets, protecting our farms from pesky flies. Who knew these tiny creatures were such efficient predators](http://9gag.com/gag/aKGMWDQ)
+ - 👉 [My first celebrity crush. Who was yours?](http://9gag.com/gag/awyp1vD)<!-- MEMES:END -->
 
 ---
 

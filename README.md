@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts](http://9gag.com/gag/aGyQBoX)
- - 😝 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
- - 💣 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)
- - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/aGyQBLG)
- - 👉 [People don&#39;t want to work any more. Or so we&#39;re told.](http://9gag.com/gag/a87g08O)<!-- MEMES:END -->
+ - 😝 [\u200e \u200e](http://9gag.com/gag/a34OAR7)
+ - 😝 [Never share too much](http://9gag.com/gag/aVv6EKn)
+ - 💣 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
+ - 😝 [My inner child just did a backflip](http://9gag.com/gag/a7ox0P2)
+ - 👉 [I have found my calling !](http://9gag.com/gag/amoZGpo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
- - 😝 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
- - 💣 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
+ - 😝 [Normal life](http://9gag.com/gag/aByeLoO)
  - 😝 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
- - 👉 [You are the sun](http://9gag.com/gag/axyrvK2)<!-- MEMES:END -->
+ - 💣 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
+ - 😝 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)
+ - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 ---
 

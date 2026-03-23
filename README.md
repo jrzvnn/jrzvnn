@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Normal life](http://9gag.com/gag/aByeLoO)
- - 😝 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
- - 💣 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)
+ - 😝 [\u201cPelvic strengthening\u201d](http://9gag.com/gag/aNDbvEw)
+ - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 💣 [Almost there!](http://9gag.com/gag/ajP4BXq)
  - 😝 [Serious question\u2026?](http://9gag.com/gag/a34O8EQ)
- - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
+ - 👉 [Dragonflies are nature&#39;s fighter jets, protecting our farms from pesky flies. Who knew these tiny creatures were such efficient predators](http://9gag.com/gag/aKGMWDQ)<!-- MEMES:END -->
 
 ---
 

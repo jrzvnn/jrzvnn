@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [You are out of time to update: Severe iOS hack code leaks to everyone](https://appleinsider.com/articles/26/03/23/you-are-out-of-time-to-update-severe-ios-hack-code-leaks-to-everyone?utm_source=rss)
  - [Microsoft hires a group of AI researchers from the Allen Institute for AI, including former CEO Ali Farhadi, who stepped down on March 12 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260323/p41#a260323p41)
  - [The US government just banned consumer routers made outside the US](https://www.theverge.com/news/899172/fcc-foreign-router-ban)
- - [The FCC is banning imports of new foreign-made consumer routers over security concerns; China is estimated to control 60%+ of the US market for home routers &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260323/p40#a260323p40)<!-- TECH:END -->
+ - [FCC Bans Foreign-Made Routers as a &#39;National Security Risk&#39;](https://www.cnet.com/home/internet/fcc-bans-foreign-made-routers-as-national-security-risk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

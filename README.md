@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Korean AI startup Upstage says it is in talks to acquire 10K of AMD&#39;s MI355 chips, in a bid to &quot;diversify to other chips&quot; as &quot;we have a lot of Nvidia chips&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260323/p9#a260323p9)
- - [Don’t Listen to Anyone Who Thinks Secession Will Solve Anything](https://www.wired.com/story/dont-listen-anyone-who-thinks-secession-will-solve-anything/)
- - [Hassan Took a Bike Ride. Now He&#39;s One of the Thousands Missing in Gaza](https://www.wired.com/story/hassan-took-a-bike-ride-now-hes-one-of-the-thousands-missing-in-gaza/)
- - [What Happens When You Can’t Get a Death Certificate in Gaza](https://www.wired.com/story/what-happens-when-you-cant-get-a-death-certificate-in-gaza/)
- - [Meet the Gods of AI Warfare](https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/)<!-- TECH:END -->
+ - [NYC-based Dash0, which offers AI agents to monitor and troubleshoot cloud, app, and infrastructure issues, raised $110M led by Balderton at a $1B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260323/p11#a260323p11)
+ - [The Rise of the Ray-Ban Meta Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/)
+ - [Apple wasn&#39;t alone in 1976 -- these companies helped define an era](https://appleinsider.com/articles/26/03/20/apple-wasnt-alone-in-1976----these-companies-helped-define-an-era?utm_source=rss)
+ - [7 Best Phones You Can’t Buy in the US &lpar;2026&rpar;](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)
+ - [The EC&#39;s EU Inc. proposal is a missed opportunity, leaving national courts to interpret corporate rules, and it seems like Brussels has pre-emptively aimed low &lpar;Martin Sandbu/Financial Times&rpar;](http://www.techmeme.com/260323/p10#a260323p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

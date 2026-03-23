@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Normal life](http://9gag.com/gag/aByeLoO)
- - 😝 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
- - 💣 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
- - 😝 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)
+ - 😝 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 💣 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)
+ - 😝 [Serious question\u2026?](http://9gag.com/gag/a34O8EQ)
  - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 ---

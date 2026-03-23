@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - 😝 [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - 💣 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
- - 😝 [T600](http://9gag.com/gag/an7o2w0)
- - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
+ - 😝 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
+ - 😝 [No rastplatz for this dude](http://9gag.com/gag/a5QYBmL)
+ - 💣 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)
+ - 😝 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
+ - 👉 [Wait, you guys get invited to parties?](http://9gag.com/gag/aGyQBLG)<!-- MEMES:END -->
 
 ---
 

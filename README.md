@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with Sundar Pichai and other Google executives on being blindsided by ChatGPT&#39;s launch, Gemini, Pichai&#39;s vision of useful AI everywhere, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/260323/p24#a260323p24)
- - [Some writing advice from Project Hail Mary’s Andy Weir](https://www.theverge.com/entertainment/898918/project-hail-mary-andy-weir-writing-advice-interview)
- - [Apple’s four-pack of first-gen AirTags is down $60 for the first time](https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale)
- - [Source: OpenAI is in talks to buy 5 GW of electricity by 2030 from Sam Altman-backed fusion startup Helion; Altman has stepped down as Helion&#39;s board chair &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260323/p23#a260323p23)
- - [In-hub motors make this humble Hyundai a monster on ice](https://www.theverge.com/transportation/898131/elaphe-in-hub-motor-hyundai-ice-traction)<!-- TECH:END -->
+ - [PDP’s wireless guitar controller has returned to its best price to date](https://www.theverge.com/gadgets/898962/pdp-riffmaster-guitar-controller-amazon-big-spring-sale-2026-deal)
+ - [What M5 Pro, M5 Max get using UltraFusion architecture for performance](https://appleinsider.com/articles/26/03/23/what-m5-pro-m5-max-get-using-vertically-stacked-dies-for-performance?utm_source=rss)
+ - [Apple announces WWDC 2026 for June 8-12, which will be an online event free for developers, with an in-person event at Apple Park on June 8 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260323/p29#a260323p29)
+ - [Sources: Apple is preparing to introduce ads in its Maps app, allowing retailers and brands to bid for ad slots against search queries &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260323/p28#a260323p28)
+ - [The person who could be Apple CEO: Who is John Ternus?](https://appleinsider.com/articles/26/03/23/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

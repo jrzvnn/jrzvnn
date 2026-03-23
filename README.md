@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget this happened](http://9gag.com/gag/avyjEQb)
- - 😝 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
- - 💣 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
- - 😝 [\u201cPelvic strengthening\u201d](http://9gag.com/gag/aNDbvEw)
- - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
+ - 😝 [This one made me chuckle](http://9gag.com/gag/a0e30zB)
+ - 😝 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
+ - 💣 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
+ - 😝 [Death doesn\u2019t stop the legend!](http://9gag.com/gag/adBzngB)
+ - 👉 [A statue for heroes](http://9gag.com/gag/a5QYzeO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC is banning imports of new foreign-made consumer routers over security concerns; China is estimated to control 60%+ of the US market for home routers &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260323/p40#a260323p40)
- - [A new version of iPhone exploit kit DarkSword has been leaked on GitHub; iVerify co-founder Matthias Frielingsdorf says the exploits &quot;will work out of the box&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/260323/p39#a260323p39)
- - [Anthropic rolls out a computer use feature for Claude Cowork and the Claude Code desktop app, in research preview on macOS for Pro and Max subscribers &lpar;Blake Stimac/CNET&rpar;](http://www.techmeme.com/260323/p38#a260323p38)
- - [Apple looks to be planning a third retail location in Mexico City](https://appleinsider.com/articles/26/03/23/apple-looks-to-be-planning-a-third-retail-location-in-mexico-city?utm_source=rss)
- - [Grammarly CEO steps on same rake over and over in embarrassing interview about AI slop](https://appleinsider.com/articles/26/03/23/grammarly-ceo-steps-on-same-rake-over-and-over-in-embarrassing-interview-about-ai-slop?utm_source=rss)<!-- TECH:END -->
+ - [Jury deliberations begin in New Mexico&#39;s lawsuit against Meta over children&#39;s safety risks, after both sides delivered closing arguments &lpar;Morgan Lee/Associated Press&rpar;](http://www.techmeme.com/260323/p42#a260323p42)
+ - [You are out of time to update: Severe iOS hack code leaks to everyone](https://appleinsider.com/articles/26/03/23/you-are-out-of-time-to-update-severe-ios-hack-code-leaks-to-everyone?utm_source=rss)
+ - [Microsoft hires a group of AI researchers from the Allen Institute for AI, including former CEO Ali Farhadi, who stepped down on March 12 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260323/p41#a260323p41)
+ - [The US government just banned consumer routers made outside the US](https://www.theverge.com/news/899172/fcc-foreign-router-ban)
+ - [The FCC is banning imports of new foreign-made consumer routers over security concerns; China is estimated to control 60%+ of the US market for home routers &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260323/p40#a260323p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: activist investor Elliott has a multibillion-dollar stake in Synopsys and plans to engage with the company to boost its software and service profits &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p13#a260322p13)
  - [Reality Labs lost $80B+, but it still makes all of Meta&#39;s hardware, and reflects Mark Zuckerberg&#39;s desire to run a business without Google or Apple as middlemen &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/260322/p12#a260322p12)
  - [AI influencer awards season is upon us](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)
  - [Profile of John Ternus, likely Tim Cook successor, who shapes Apple&#39;s hardware portfolio, is expanding his domain within Apple, and his visibility to the public &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260322/p11#a260322p11)
- - [Sources describe efforts to build and use internal AI tools at Meta, including Mark Zuckerberg building a CEO agent to help him do his job better &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p10#a260322p10)
- - [Samsung&#39;s Galaxy S26 Phones Will Work With Apple&#39;s AirDrop, Much Like the Pixel 10](https://www.cnet.com/tech/mobile/samsungs-galaxy-s26-phones-will-work-with-apples-airdrop-much-like-the-pixel-10/)<!-- TECH:END -->
+ - [Sources describe efforts to build and use internal AI tools at Meta, including Mark Zuckerberg building a CEO agent to help him do his job better &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p10#a260322p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Air is demonstrably not a failure for Apple](https://appleinsider.com/articles/26/03/23/iphone-air-is-demonstrably-not-a-failure-for-apple?utm_source=rss)
  - [Students attending University of Texas in 2027 to get IDs in Apple Wallet](https://appleinsider.com/articles/26/03/23/students-attending-university-of-texas-in-2027-to-get-ids-in-apple-wallet?utm_source=rss)
  - [Kalshi says it will block politicians and athletes from trading in markets they’re tied to](https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked)
  - [Kalshi announces new guardrails to preemptively block politicians, athletes, and others from trading in their relevant markets &lpar;Nathan Bomey/Axios&rpar;](http://www.techmeme.com/260323/p35#a260323p35)
- - [Google’s new Pixel 10 ads made me go ‘wait, WHAT are they trying to sell?’](https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom)
- - [A Billionaire-Backed Startup Wants to Grow &#39;Organ Sacks&#39; to Replace Animal Testing](https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 24, #1739](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-24-1739/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

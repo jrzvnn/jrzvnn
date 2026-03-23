@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never share too much](http://9gag.com/gag/aVv6EKn)
  - 😝 [\u200e \u200e](http://9gag.com/gag/a34OAR7)
- - 💣 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
- - 😝 [My inner child just did a backflip](http://9gag.com/gag/a7ox0P2)
- - 👉 [You are the sun](http://9gag.com/gag/axyrvK2)<!-- MEMES:END -->
+ - 😝 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 💣 [Never share too much](http://9gag.com/gag/aVv6EKn)
+ - 😝 [First time?](http://9gag.com/gag/aVv6moO)
+ - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 ---
 

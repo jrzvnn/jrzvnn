@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of AWS at its 20th anniversary, covering its creation, rise to market dominance, response to the ChatGPT disruption, and the future of its AI bets &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260323/p6#a260323p6)
+ - [The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids](https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/)
+ - [Inside Amazon&#39;s plan to bring fast delivery to rural America and reduce its reliance on USPS; Amazon aims to have 200 rural delivery hubs serving 13K zip codes &lpar;Sean McLain/Wall Street Journal&rpar;](http://www.techmeme.com/260323/p5#a260323p5)
  - [Google signs deals with five US electric utilities for 1GW of &quot;demand response&quot; in total, to reduce data center power consumption during peak grid demand hours &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/260323/p4#a260323p4)
- - [A look at Andrej Karpathy&#39;s &quot;autoresearch&quot; experiment, where an AI agent runs in a loop iterating and evaluating on training code to optimize a model &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260323/p3#a260323p3)
- - [Palantir won a three-month, £30K+/week trial to access the UK FCA&#39;s intelligence data to tackle financial crime, a source says raising concerns inside the FCA &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/260323/p2#a260323p2)
- - [Samsung rolls out Apple AirDrop support to Quick Share, starting with the Galaxy S26 series in South Korea, and plans to expand to more devices and regions &lpar;Mike Sorrentino/CNET&rpar;](http://www.techmeme.com/260323/p1#a260323p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 23, #546](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-23-546/)<!-- TECH:END -->
+ - [A look at Andrej Karpathy&#39;s &quot;autoresearch&quot; experiment, where an AI agent runs in a loop iterating and evaluating on training code to optimize a model &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260323/p3#a260323p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

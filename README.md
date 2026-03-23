@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple looks to be planning a third retail location in Mexico City](https://appleinsider.com/articles/26/03/23/apple-looks-to-be-planning-a-third-retail-location-in-mexico-city?utm_source=rss)
  - [Grammarly CEO steps on same rake over and over in embarrassing interview about AI slop](https://appleinsider.com/articles/26/03/23/grammarly-ceo-steps-on-same-rake-over-and-over-in-embarrassing-interview-about-ai-slop?utm_source=rss)
+ - [These New Govee Outdoor Smart String Lights Let You Customize Each Bulb](https://www.cnet.com/home/smart-home/govees-new-outdoor-smart-string-lights-are-here-and-you-can-customize-each-bulb/)
  - [The kid-friendly Fitbit Ace is $100, which matches its best price](https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal)
- - [Crunchyroll is investigating a breach after hackers claimed they accessed a support agent&#39;s account and stole the personal information of ~6.8M users &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260323/p37#a260323p37)
- - [Drone delivery startup Zipline raised an additional $200M, including from Paradigm, bringing Zipline&#39;s Series H, originally announced in January, to $800M &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260323/p36#a260323p36)
- - [iPhone Air is demonstrably not a failure for Apple](https://appleinsider.com/articles/26/03/23/iphone-air-is-demonstrably-not-a-failure-for-apple?utm_source=rss)<!-- TECH:END -->
+ - [These Are the Best Exercise Bikes for Achieving Your Fitness Goals in 2026](https://www.cnet.com/health/fitness/best-exercise-bike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

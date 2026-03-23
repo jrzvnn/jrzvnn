@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reality Labs lost $80B+, but it still makes all of Meta&#39;s hardware, and reflects Mark Zuckerberg&#39;s desire to run a business without Google or Apple as middlemen &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/260322/p12#a260322p12)
+ - [AI influencer awards season is upon us](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)
+ - [Profile of John Ternus, likely Tim Cook successor, who shapes Apple&#39;s hardware portfolio, is expanding his domain within Apple, and his visibility to the public &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260322/p11#a260322p11)
  - [Sources describe efforts to build and use internal AI tools at Meta, including Mark Zuckerberg building a CEO agent to help him do his job better &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p10#a260322p10)
- - [Samsung&#39;s Galaxy S26 Phones Will Work With Apple&#39;s AirDrop, Much Like the Pixel 10](https://www.cnet.com/tech/mobile/samsungs-galaxy-s26-phones-will-work-with-apples-airdrop-much-like-the-pixel-10/)
- - [Poste Italiane says it will launch a €10.8B cash-and-share offer to fully acquire Telecom Italia; Poste is already Telecom Italia&#39;s largest shareholder &lpar;Reuters&rpar;](http://www.techmeme.com/260322/p9#a260322p9)
- - [Topical Dancer is propulsive, playful, and political](https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review)
- - [Airlines Are Already Preparing for an Oil Crisis](https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/)<!-- TECH:END -->
+ - [Samsung&#39;s Galaxy S26 Phones Will Work With Apple&#39;s AirDrop, Much Like the Pixel 10](https://www.cnet.com/tech/mobile/samsungs-galaxy-s26-phones-will-work-with-apples-airdrop-much-like-the-pixel-10/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

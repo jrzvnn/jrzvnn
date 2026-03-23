@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Dash0, which offers AI agents to monitor and troubleshoot cloud, app, and infrastructure issues, raised $110M led by Balderton at a $1B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260323/p11#a260323p11)
- - [The Rise of the Ray-Ban Meta Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/)
- - [Apple wasn&#39;t alone in 1976 -- these companies helped define an era](https://appleinsider.com/articles/26/03/20/apple-wasnt-alone-in-1976----these-companies-helped-define-an-era?utm_source=rss)
- - [7 Best Phones You Can’t Buy in the US &lpar;2026&rpar;](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)
- - [The EC&#39;s EU Inc. proposal is a missed opportunity, leaving national courts to interpret corporate rules, and it seems like Brussels has pre-emptively aimed low &lpar;Martin Sandbu/Financial Times&rpar;](http://www.techmeme.com/260323/p10#a260323p10)<!-- TECH:END -->
+ - [Senators Adam Schiff and John Curtis introduce bipartisan legislation to ban sports betting on CFTC-regulated prediction markets like Kalshi and Polymarket &lpar;Krystal Hur/Wall Street Journal&rpar;](http://www.techmeme.com/260323/p14#a260323p14)
+ - [Best Laptops &lpar;2026&rpar;: My Honest Advice Having Tested Hundreds](https://www.wired.com/story/best-laptops/)
+ - [Sources: Sony is nearing a binding agreement to sell a 51% stake in its home entertainment business to Chinese rival TCL for ~$1B as soon as this month &lpar;Bloomberg&rpar;](http://www.techmeme.com/260323/p13#a260323p13)
+ - [Addison Lee CEO Liam Griffin says London cab drivers should be protected via &quot;a minimum price&quot; on Waymo&#39;s and Tesla&#39;s robotaxis to prevent &quot;predatory pricing&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260323/p12#a260323p12)
+ - [Elaborate 50th anniversary party to be held at Apple Park](https://appleinsider.com/articles/26/03/23/elaborate-50th-anniversary-party-to-be-held-at-apple-park?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

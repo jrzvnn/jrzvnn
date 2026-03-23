@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Air is demonstrably not a failure for Apple](https://appleinsider.com/articles/26/03/23/iphone-air-is-demonstrably-not-a-failure-for-apple?utm_source=rss)
- - [Students attending University of Texas in 2027 to get IDs in Apple Wallet](https://appleinsider.com/articles/26/03/23/students-attending-university-of-texas-in-2027-to-get-ids-in-apple-wallet?utm_source=rss)
- - [Kalshi says it will block politicians and athletes from trading in markets they’re tied to](https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked)
- - [Kalshi announces new guardrails to preemptively block politicians, athletes, and others from trading in their relevant markets &lpar;Nathan Bomey/Axios&rpar;](http://www.techmeme.com/260323/p35#a260323p35)
- - [Today&#39;s Wordle Hints, Answer and Help for March 24, #1739](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-24-1739/)<!-- TECH:END -->
+ - [Grammarly CEO steps on same rake over and over in embarrassing interview about AI slop](https://appleinsider.com/articles/26/03/23/grammarly-ceo-steps-on-same-rake-over-and-over-in-embarrassing-interview-about-ai-slop?utm_source=rss)
+ - [The kid-friendly Fitbit Ace is $100, which matches its best price](https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal)
+ - [Crunchyroll is investigating a breach after hackers claimed they accessed a support agent&#39;s account and stole the personal information of ~6.8M users &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260323/p37#a260323p37)
+ - [Drone delivery startup Zipline raised an additional $200M, including from Paradigm, bringing Zipline&#39;s Series H, originally announced in January, to $800M &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260323/p36#a260323p36)
+ - [iPhone Air is demonstrably not a failure for Apple](https://appleinsider.com/articles/26/03/23/iphone-air-is-demonstrably-not-a-failure-for-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Signs that the world is healing.](http://9gag.com/gag/a9yGve6)
- - 😝 [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - 💣 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
+ - 😝 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
+ - 😝 [You are the sun](http://9gag.com/gag/axyrvK2)
+ - 💣 [This one made me chuckle](http://9gag.com/gag/a0e30zB)
  - 😝 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
- - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
+ - 👉 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)<!-- MEMES:END -->
 
 ---
 

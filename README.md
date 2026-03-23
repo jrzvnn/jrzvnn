@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EA is marketing a $15B debt package to fund its $55B Saudi-led take-private deal, including nearly $700M in projected annual cost savings &lpar;Bloomberg&rpar;](http://www.techmeme.com/260323/p18#a260323p18)
- - [Leonid Radvinsky, the reclusive billionaire owner of OnlyFans parent Fenix, died at 43 after a long battle with cancer; he acquired the OnlyFans stake in 2018 &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/260323/p17#a260323p17)
- - [Cook praises Chinese developers as government presses for open App Store](https://appleinsider.com/articles/26/03/23/cook-praises-chinese-developers-as-government-presses-for-open-app-store?utm_source=rss)
- - [OpenAI hires Dave Dugan, a former top ad executive at Meta, to lead ad sales, reporting to COO Brad Lightcap; Dugan stepped down as Meta VP earlier this month &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260323/p16#a260323p16)
- - [AI chip company Kandou AI raised $225M from SoftBank, Synopsys, and others at a $400M valuation after pivoting from consumer hardware to AI infrastructure &lpar;Nino Paoli/Bloomberg&rpar;](http://www.techmeme.com/260323/p15#a260323p15)<!-- TECH:END -->
+ - [Canal+, ITV, Sky, and other broadcasters urge the EU to designate smart TV operating systems such as Android TV and Amazon Fire OS as gatekeepers under the DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260323/p21#a260323p21)
+ - [Confronting the CEO of the AI company that impersonated me](https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation)
+ - [Psst. Our Readers Are Looking at These Gadgets Before Amazon&#39;s Big Spring Sale Even Starts](https://www.cnet.com/deals/cnet-readers-are-looking-at-these-gadgets-for-amazons-big-spring-sale/)
+ - [The person who could be Apple CEO: Who is John Ternus?](https://appleinsider.com/articles/26/03/23/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)
+ - [London-based luxury ride-hailing app Wheely launches in NYC, aiming to compete with Uber Elite; Wheely reports ~1,250 corporate accounts and ~100K active riders &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260323/p20#a260323p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have found my calling !](http://9gag.com/gag/amoZGpo)
  - 😝 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)
- - 💣 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 😝 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
+ - 💣 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
  - 😝 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
- - 👉 [Both pepsi](http://9gag.com/gag/aXPONrz)<!-- MEMES:END -->
+ - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: activist investor Elliott has a multibillion-dollar stake in Synopsys and plans to engage with the company to boost its software and service profits &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p13#a260322p13)
- - [Reality Labs lost $80B+, but it still makes all of Meta&#39;s hardware, and reflects Mark Zuckerberg&#39;s desire to run a business without Google or Apple as middlemen &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/260322/p12#a260322p12)
- - [AI influencer awards season is upon us](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)
- - [Profile of John Ternus, likely Tim Cook successor, who shapes Apple&#39;s hardware portfolio, is expanding his domain within Apple, and his visibility to the public &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260322/p11#a260322p11)
- - [Sources describe efforts to build and use internal AI tools at Meta, including Mark Zuckerberg building a CEO agent to help him do his job better &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p10#a260322p10)<!-- TECH:END -->
+ - [Palantir won a three-month, £30K+/week trial to access the UK FCA&#39;s intelligence data to tackle financial crime, a source says raising concerns inside the FCA &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/260323/p2#a260323p2)
+ - [Samsung rolls out Apple AirDrop support to Quick Share, starting with the Galaxy S26 series in South Korea, and plans to expand to more devices and regions &lpar;Mike Sorrentino/CNET&rpar;](http://www.techmeme.com/260323/p1#a260323p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 23, #546](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-23-546/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, March 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-23/)
+ - [Sources: activist investor Elliott has a multibillion-dollar stake in Synopsys and plans to engage with the company to boost its software and service profits &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p13#a260322p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

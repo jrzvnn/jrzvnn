@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cPelvic strengthening\u201d](http://9gag.com/gag/aNDbvEw)
- - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 💣 [Almost there!](http://9gag.com/gag/ajP4BXq)
- - 😝 [Serious question\u2026?](http://9gag.com/gag/a34O8EQ)
- - 👉 [Dragonflies are nature&#39;s fighter jets, protecting our farms from pesky flies. Who knew these tiny creatures were such efficient predators](http://9gag.com/gag/aKGMWDQ)<!-- MEMES:END -->
+ - 😝 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)
+ - 😝 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 😝 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
+ - 👉 [My first celebrity crush. Who was yours?](http://9gag.com/gag/awyp1vD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BoA shaves Apple share target by $5, wierdly concerned about iPhone 18 launch timing](https://appleinsider.com/articles/26/03/24/boa-shaves-apple-share-target-by-5-wierdly-concerned-about-iphone-18-launch-timing?utm_source=rss)
- - [UK television giants demand regulatory action against big tech streaming hardware](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)
- - [Kleiner Perkins raised $3.5B for two new funds, allocating $1B to its 22nd early-stage fund and $2.5B to a growth-stage fund, taking its AUM to $21B+ &lpar;Caroline Hyde/Bloomberg&rpar;](http://www.techmeme.com/260324/p15#a260324p15)
- - [I Only Listened to AI Music for a Week. It Was Terrible, but Not for the Reason You Think](https://www.cnet.com/tech/services-and-software/generative-ai-music-experiment-culture/)
- - [&#39;Daredevil: Born Again&#39; Season 2: When to Watch the Premiere on Disney Plus](https://www.cnet.com/tech/services-and-software/daredevil-born-again-season-2-when-to-watch-the-premiere-and-weekly-episodes/)<!-- TECH:END -->
+ - [The MPC Sample is my new favorite portable beat maker](https://www.theverge.com/entertainment/899233/akai-mpc-sample-review)
+ - [For All Mankind will end with season 6](https://www.theverge.com/streaming/899327/for-all-mankind-season-6-renewal-apple-tv)
+ - [EU television giants demand regulatory action against big tech streaming hardware](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)
+ - [Anthropic’s Claude Code and Cowork can control your computer](https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer)
+ - [Mirage, formerly Captions, which develops an AI video editing and marketing suite, raised $75M from General Catalyst, after moving to a freemium model in 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260324/p18#a260324p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

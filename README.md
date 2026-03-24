@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
  - 😝 [How is life bro?](http://9gag.com/gag/a7ox27q)
- - 💣 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
- - 😝 [I love a windy day](http://9gag.com/gag/a34O2x1)
+ - 😝 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
+ - 💣 [I love a windy day](http://9gag.com/gag/a34O2x1)
+ - 😝 [Footage at the mall 40 years ago shows a different society](http://9gag.com/gag/avyjRNZ)
  - 👉 [He WAS his own bodyguard!](http://9gag.com/gag/aAy9270)<!-- MEMES:END -->
 
 ---

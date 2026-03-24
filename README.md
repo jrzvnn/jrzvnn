@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge dismisses a lawsuit against Meta by Attaullah Baig, former head of cybersecurity at WhatsApp, who alleged Meta ignored critical security flaws &lpar;Carly Nairn/Courthouse News Service&rpar;](http://www.techmeme.com/260324/p52#a260324p52)
+ - [watchOS 8 and watchOS 5 get minor updates with iMessage fix](https://appleinsider.com/articles/26/03/24/watchos-8-and-watchos-5-get-minor-updates-with-imessage-fix?utm_source=rss)
  - [Instagram and Facebook are about to be filled with affiliate content](https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels)
- - [Databricks launches Lakewatch, a security information and event management service, and announces acquisitions of security startups Antimatter and SiftD &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260324/p51#a260324p51)
- - [Sources: Anduril, Palantir, and Scale AI are part of the group developing software to run President Trump&#39;s planned $185B Golden Dome antimissile shield &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/260324/p50#a260324p50)
- - [OpenAI CFO Sarah Friar says OpenAI is raising an additional $10B from a16z, D.E. Shaw, MGX, TPG, and others, bringing its record fundraise to &quot;north of $120B&quot; &lpar;Morgan Chittum/CNBC&rpar;](http://www.techmeme.com/260324/p49#a260324p49)
- - [Arm CEO Rene Haas projects $25B in revenue in 2031, up from $4B in 2025, including $15B from sales of Arm&#39;s first in-house chip; ARM jumps 6%+ after hours &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260324/p48#a260324p48)<!-- TECH:END -->
+ - [A Historic Heat Dome Is Creeping Across the US. Here&#39;s How to Prepare](https://www.cnet.com/news/historic-heat-dome-creeping-across-us-how-prepare/)
+ - [Databricks launches Lakewatch, a security information and event management service, and announces acquisitions of security startups Antimatter and SiftD &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260324/p51#a260324p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

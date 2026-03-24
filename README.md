@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flickering](http://9gag.com/gag/aD2vVzO)
- - 😝 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
- - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 😝 [Death doesn\u2019t stop the legend!](http://9gag.com/gag/adBzngB)
+ - 😝 [It was just the wind](http://9gag.com/gag/apRMx1n)
+ - 💣 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
  - 😝 [Happy black history month](http://9gag.com/gag/agme4Kn)
- - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
+ - 👉 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)<!-- MEMES:END -->
 
 ---
 

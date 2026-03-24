@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
- - 😝 [Mac, Windows, Linux and Autism](http://9gag.com/gag/aKGMWd3)
- - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 😝 [Almost there!](http://9gag.com/gag/ajP4BXq)
- - 👉 [Dragonflies are nature&#39;s fighter jets, protecting our farms from pesky flies. Who knew these tiny creatures were such efficient predators](http://9gag.com/gag/aKGMWDQ)<!-- MEMES:END -->
+ - 😝 [Financial genius at work](http://9gag.com/gag/aqyE62R)
+ - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 💣 [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)
+ - 😝 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 👉 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)<!-- MEMES:END -->
 
 ---
 

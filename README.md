@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best way to deal with stupidity](http://9gag.com/gag/aryLxg6)
- - 😝 [Magnetic skateboard](http://9gag.com/gag/an7oxqq)
- - 💣 [Islamic philosophy, episode 4: how to respect women](http://9gag.com/gag/a6ZRBq2)
- - 😝 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
- - 👉 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)<!-- MEMES:END -->
+ - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 😝 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
+ - 💣 [It was just the wind](http://9gag.com/gag/apRMx1n)
+ - 😝 [This tiny car has more style than my parking skills](http://9gag.com/gag/aD2vVdG)
+ - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
 
 ---
 

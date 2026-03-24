@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)
- - 😝 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)
- - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 😝 [Death doesn\u2019t stop the legend!](http://9gag.com/gag/adBzngB)
- - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
+ - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 😝 [Best way to deal with stupidity](http://9gag.com/gag/aryLxg6)
+ - 💣 [Almost there!](http://9gag.com/gag/ajP4BXq)
+ - 😝 [Dragonflies are nature&#39;s fighter jets, protecting our farms from pesky flies. Who knew these tiny creatures were such efficient predators](http://9gag.com/gag/aKGMWDQ)
+ - 👉 [Islamic philosophy, episode 4: how to respect women](http://9gag.com/gag/a6ZRBq2)<!-- MEMES:END -->
 
 ---
 

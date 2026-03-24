@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MPC Sample is my new favorite portable beat maker](https://www.theverge.com/entertainment/899233/akai-mpc-sample-review)
- - [For All Mankind will end with season 6](https://www.theverge.com/streaming/899327/for-all-mankind-season-6-renewal-apple-tv)
- - [EU television giants demand regulatory action against big tech streaming hardware](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)
- - [Anthropic’s Claude Code and Cowork can control your computer](https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer)
- - [Mirage, formerly Captions, which develops an AI video editing and marketing suite, raised $75M from General Catalyst, after moving to a freemium model in 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260324/p18#a260324p18)<!-- TECH:END -->
+ - [Pokémon Champions is coming to the Nintendo Switch on April 8th](https://www.theverge.com/games/899535/pokemon-champions-is-coming-to-the-nintendo-switch-on-april-8th)
+ - [Meta’s reckoning over kids safety is in the hands of two juries](https://www.theverge.com/policy/899494/meta-new-mexico-los-angeles-kids-safety-jury-trial)
+ - [Fortnite maker Epic is laying off over 1,000 workers](https://www.theverge.com/games/899529/epic-games-layoffs-fortnite)
+ - [Epic cuts 1,000+ jobs, saying &quot;we&#39;re spending significantly more than we&#39;re making&quot; and that the layoffs and $500M in savings put it &quot;in a more stable place&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p21#a260324p21)
+ - [Apple launched its revolutionary OS X 25 years ago](https://appleinsider.com/articles/21/03/24/apple-launched-its-revolutionary-os-x-20-years-ago?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

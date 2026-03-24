@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`And all your money won&#39;t another minute buy`.](http://9gag.com/gag/aD2vZyZ)
- - 😝 [This one made me chuckle](http://9gag.com/gag/a0e30zB)
- - 💣 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
- - 😝 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - 👉 [It was just the wind](http://9gag.com/gag/apRMx1n)<!-- MEMES:END -->
+ - 😝 [It shouldn&#39;t be this easy](https://www.reddit.com/r/funny/comments/1s2qv9x/it_shouldnt_be_this_easy/)
+ - 😝 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
+ - 💣 [This will never get old](http://9gag.com/gag/aNDbBA6)
+ - 😝 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)
+ - 👉 [A statue for heroes](http://9gag.com/gag/a5QYzeO)<!-- MEMES:END -->
 
 ---
 

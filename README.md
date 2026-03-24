@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Champions is coming to the Nintendo Switch on April 8th](https://www.theverge.com/games/899535/pokemon-champions-is-coming-to-the-nintendo-switch-on-april-8th)
- - [Meta’s reckoning over kids safety is in the hands of two juries](https://www.theverge.com/policy/899494/meta-new-mexico-los-angeles-kids-safety-jury-trial)
- - [Fortnite maker Epic is laying off over 1,000 workers](https://www.theverge.com/games/899529/epic-games-layoffs-fortnite)
- - [Epic cuts 1,000+ jobs, saying &quot;we&#39;re spending significantly more than we&#39;re making&quot; and that the layoffs and $500M in savings put it &quot;in a more stable place&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p21#a260324p21)
- - [Apple launched its revolutionary OS X 25 years ago](https://appleinsider.com/articles/21/03/24/apple-launched-its-revolutionary-os-x-20-years-ago?utm_source=rss)<!-- TECH:END -->
+ - [Google launches Android Automotive OS for Software-Defined Vehicles, expanding its &quot;open infrastructure&quot; from infotainment to non-safety internal systems &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260324/p28#a260324p28)
+ - [Apple Business goes free, consolidating business and brand management tools in one platform](https://appleinsider.com/articles/26/03/24/apple-business-goes-free-consolidating-business-and-brand-management-tools-in-one-platform?utm_source=rss)
+ - [OpenAI plans to invest $1B in AI-related causes in 2026 via the OpenAI Foundation, and names co-founder Wojciech Zaremba to lead its AI resilience initiatives &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260324/p27#a260324p27)
+ - [Life is Strange: Reunion is a full-circle moment for its stars](https://www.theverge.com/entertainment/897984/life-is-strange-reunion-cast-interview)
+ - [Google’s Android Automotive is moving from the dashboard to the ‘brain’ of the car](https://www.theverge.com/tech/899034/google-android-automotive-os-software-defined-vehicle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

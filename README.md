@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
- - 😝 [Ungrateful Girls](http://9gag.com/gag/adBzQAB)
- - 💣 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - 😝 [This tiny car has more style than my parking skills](http://9gag.com/gag/aD2vVdG)
- - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
+ - 😝 [Proof that true love exists. Michael J Fox and his wife are an inspiration](http://9gag.com/gag/amoZM92)
+ - 😝 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 😝 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 👉 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)<!-- MEMES:END -->
 
 ---
 

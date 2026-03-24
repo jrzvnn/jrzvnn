@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Orico HS500 MetaBox Pro 5 NAS review - Good hardware, badly let down by software](https://appleinsider.com/articles/26/03/24/orico-hs500-metabox-pro-5-nas-review---good-hardware-badly-let-down-by-software?utm_source=rss)
+ - [Shark Cordless Vacuums Are on Sale at Amazon. Here Are the 2 I Recommend](https://www.cnet.com/deals/shark-stratos-cordless-vacuum-amazon-spring-sale/)
+ - [Bengaluru-based Swish, which offers a 10-minute food delivery service, raised a $38M Series B at a $139M post-money valuation, bringing its total raised to $54M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260323/p43#a260323p43)
  - [Jury deliberations begin in New Mexico&#39;s lawsuit against Meta over children&#39;s safety risks, after both sides delivered closing arguments &lpar;Morgan Lee/Associated Press&rpar;](http://www.techmeme.com/260323/p42#a260323p42)
- - [You are out of time to update: Severe iOS hack code leaks to everyone](https://appleinsider.com/articles/26/03/23/you-are-out-of-time-to-update-severe-ios-hack-code-leaks-to-everyone?utm_source=rss)
- - [Microsoft hires a group of AI researchers from the Allen Institute for AI, including former CEO Ali Farhadi, who stepped down on March 12 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260323/p41#a260323p41)
- - [The US government just banned consumer routers made outside the US](https://www.theverge.com/news/899172/fcc-foreign-router-ban)
- - [FCC Bans Foreign-Made Routers as a &#39;National Security Risk&#39;](https://www.cnet.com/home/internet/fcc-bans-foreign-made-routers-as-national-security-risk/)<!-- TECH:END -->
+ - [You are out of time to update: Severe iOS hack code leaks to everyone](https://appleinsider.com/articles/26/03/23/you-are-out-of-time-to-update-severe-ios-hack-code-leaks-to-everyone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

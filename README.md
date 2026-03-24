@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proof that true love exists. Michael J Fox and his wife are an inspiration](http://9gag.com/gag/amoZM92)
- - 😝 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 😝 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
- - 👉 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)<!-- MEMES:END -->
+ - 😝 [Best way to deal with stupidity](http://9gag.com/gag/aryLxg6)
+ - 😝 [Magnetic skateboard](http://9gag.com/gag/an7oxqq)
+ - 💣 [Islamic philosophy, episode 4: how to respect women](http://9gag.com/gag/a6ZRBq2)
+ - 😝 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
+ - 👉 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)<!-- MEMES:END -->
 
 ---
 

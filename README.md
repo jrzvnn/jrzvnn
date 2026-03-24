@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 😝 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
- - 💣 [It was just the wind](http://9gag.com/gag/apRMx1n)
- - 😝 [This tiny car has more style than my parking skills](http://9gag.com/gag/aD2vVdG)
+ - 😝 [Flickering](http://9gag.com/gag/aD2vVzO)
+ - 😝 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
+ - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 😝 [Happy black history month](http://9gag.com/gag/agme4Kn)
  - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 😝 [The hero we all needed, but didnt deserve](http://9gag.com/gag/aZZY8A6)
- - 💣 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
- - 😝 [Death doesn\u2019t stop the legend!](http://9gag.com/gag/adBzngB)
- - 👉 [A statue for heroes](http://9gag.com/gag/a5QYzeO)<!-- MEMES:END -->
+ - 😝 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
+ - 😝 [Mac, Windows, Linux and Autism](http://9gag.com/gag/aKGMWd3)
+ - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 😝 [Almost there!](http://9gag.com/gag/ajP4BXq)
+ - 👉 [Dragonflies are nature&#39;s fighter jets, protecting our farms from pesky flies. Who knew these tiny creatures were such efficient predators](http://9gag.com/gag/aKGMWDQ)<!-- MEMES:END -->
 
 ---
 

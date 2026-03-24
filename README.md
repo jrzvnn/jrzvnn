@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI revamps ChatGPT&#39;s shopping experience by letting users upload images or describe items and include criteria like their budget &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260324/p34#a260324p34)
- - [Our Favorite Turntable Is $51 Off Before Record Store Day](https://www.wired.com/story/atlp120x-deal-326/)
- - [Doss, which provides an AI-native inventory management layer that integrates with existing accounting systems, raised a $55M Series B &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260324/p33#a260324p33)
- - [Apple releases iOS 26.4, with Playlist Playground, which generates Apple Music playlist from a prompt, 8 new emojis, improved keyboard accuracy, and more &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260324/p32#a260324p32)
- - [Apple Business Mail tempts Google Workspace users with free email](https://appleinsider.com/articles/26/03/24/apple-business-mail-temps-google-workspace-users-with-free-email?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI releases a set of prompts designed to be used with its open-weight safety model gpt-oss-safeguard that lets developers make their apps safer for teens &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/260324/p38#a260324p38)
+ - [Sources: OpenAI nears a deal to raise ~$10B from Abu Dhabi&#39;s MGX, Coatue, and Thrive, bringing its latest funding round to ~$120B at a $730B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p37#a260324p37)
+ - [Sources: Apple&#39;s plans for a Siri reboot include a standalone Siri app, an overhauled interface in the Dynamic Island, and Ask Siri and Write with Siri features &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260324/p36#a260324p36)
+ - [What You Need to Know About the Foreign-Made Router Ban in the US](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/)
+ - [Update to iOS 18.7.7, macOS 15.7.5 to fix kernel memory leaks &amp; WebKit flaws](https://appleinsider.com/articles/26/03/24/update-to-ios-1877-macos-1575-to-fix-kernel-memory-leaks-webkit-flaws?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

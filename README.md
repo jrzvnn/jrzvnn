@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm CEO Rene Haas projects $25B in revenue in 2031, up from $4B in 2025, including $15B from sales of Arm&#39;s first in-house chip; ARM jumps 6%+ after hours &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260324/p48#a260324p48)
- - [Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troublesome, Judge Says](https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/)
- - [Meta Ordered to Pay $375M in New Mexico Child Exploitation Lawsuit](https://www.cnet.com/tech/services-and-software/meta-loses-new-mexico-child-safety-exploitation-lawsuit-must-pay-375m/)
- - [Anthropic&#39;s AI Piracy Settlement Is Getting Close to Final Approval](https://www.cnet.com/tech/services-and-software/anthropics-ai-piracy-settlement-is-getting-close-to-final-approval/)
- - [Meta misled users about its products’ safety, jury decides](https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict)<!-- TECH:END -->
+ - [Instagram and Facebook are about to be filled with affiliate content](https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels)
+ - [Databricks launches Lakewatch, a security information and event management service, and announces acquisitions of security startups Antimatter and SiftD &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260324/p51#a260324p51)
+ - [Sources: Anduril, Palantir, and Scale AI are part of the group developing software to run President Trump&#39;s planned $185B Golden Dome antimissile shield &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/260324/p50#a260324p50)
+ - [OpenAI CFO Sarah Friar says OpenAI is raising an additional $10B from a16z, D.E. Shaw, MGX, TPG, and others, bringing its record fundraise to &quot;north of $120B&quot; &lpar;Morgan Chittum/CNBC&rpar;](http://www.techmeme.com/260324/p49#a260324p49)
+ - [Arm CEO Rene Haas projects $25B in revenue in 2031, up from $4B in 2025, including $15B from sales of Arm&#39;s first in-house chip; ARM jumps 6%+ after hours &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260324/p48#a260324p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

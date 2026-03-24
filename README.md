@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta misled users about its products’ safety, jury decides](https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict)
+ - [NASA wants to put a $20 billion base on the Moon](https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman)
+ - [At a hearing, a US federal judge says the Pentagon&#39;s treatment of Anthropic is &quot;troubling&quot; and that &quot;it looks like an attempt to cripple Anthropic&quot; &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260324/p47#a260324p47)
  - [OpenCore Legacy Patcher faces uncertainty with the end of Intel Mac support nearing](https://appleinsider.com/articles/26/03/24/opencore-legacy-patcher-faces-uncertainty-with-the-end-of-intel-mac-support-nearing?utm_source=rss)
- - [What is ICE actually doing at the airport?](https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk)
- - [Disney ends its partnership with OpenAI, signed in December 2025, in which it pledged to invest $1B and agreed to license some characters to Sora &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260324/p46#a260324p46)
- - [A New Mexico jury finds that Meta violated state laws by failing to safeguard its platforms from child predators and orders it to pay $375M in damages &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260324/p45#a260324p45)
- - [Arm says its AGI CPU offers up to 136 Neoverse V3 cores, 6GB/s memory bandwidth per core, and more than 2x performance per rack compared with x86 systems &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/260324/p44#a260324p44)<!-- TECH:END -->
+ - [What is ICE actually doing at the airport?](https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

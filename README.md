@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flickering](http://9gag.com/gag/aD2vVzO)
- - 😝 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
- - 💣 [It was just the wind](http://9gag.com/gag/apRMx1n)
+ - 😝 [This one made me chuckle](http://9gag.com/gag/a0e30zB)
  - 😝 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
+ - 💣 [You are bad guy. But that doesn&#39;t mean you a BAD guy.](http://9gag.com/gag/abA8BLL)
+ - 😝 [He WAS his own bodyguard!](http://9gag.com/gag/aAy9270)
+ - 👉 [How is life bro?](http://9gag.com/gag/a7ox27q)<!-- MEMES:END -->
 
 ---
 

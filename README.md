@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Death doesn\u2019t stop the legend!](http://9gag.com/gag/adBzngB)
- - 😝 [It was just the wind](http://9gag.com/gag/apRMx1n)
- - 💣 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
- - 😝 [Happy black history month](http://9gag.com/gag/agme4Kn)
- - 👉 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)<!-- MEMES:END -->
+ - 😝 [Flickering](http://9gag.com/gag/aD2vVzO)
+ - 😝 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
+ - 💣 [It was just the wind](http://9gag.com/gag/apRMx1n)
+ - 😝 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
 
 ---
 

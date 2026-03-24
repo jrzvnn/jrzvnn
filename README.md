@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.7.7, macOS 15.7.5 updates fix kernel memory leaks &amp; WebKit flaws](https://appleinsider.com/articles/26/03/24/update-to-ios-1877-macos-1575-to-fix-kernel-memory-leaks-webkit-flaws?utm_source=rss)
- - [Two versions of LiteLLM, an interface for accessing LLMs, have been removed from PyPI after a supply chain attack injected them with credential-stealing code &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260324/p41#a260324p41)
- - [iOS 27 will finally get that long-awaited Siri update](https://appleinsider.com/articles/26/03/24/ios-27-will-finally-get-that-long-awaited-siri-update?utm_source=rss)
- - [Amazon acquired New York-based Fauna Robotics, which is developing a human-like, 42-inch tall robot that can interact with people, walk, grip items, and dance &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260324/p40#a260324p40)
- - [Baltimore becomes the first major US city to sue xAI, accusing it of violating consumer protection laws by marketing Grok as generally safe &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260324/p39#a260324p39)<!-- TECH:END -->
+ - [Arm’s first CPU ever will plug into Meta’s AI datacenters later this year](https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta)
+ - [Apple is testing a standalone app for its overhauled Siri](https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app)
+ - [Sam Altman told staff he has ceded oversight of OpenAI&#39;s safety and security teams to focus on fundraising, supply chains, and building data centers at scale &lpar;The Information&rpar;](http://www.techmeme.com/260324/p43#a260324p43)
+ - [The man who coined Metaverse now says Meta&amp;#8217;s glasses are creepy](https://www.theverge.com/tech/899797/metaverse-neal-stephenson-headsets-goggles-glasses-creepy-no-business-case)
+ - [Best Budget Laptops I&#39;ve Tested: Cheap Computers for Every Use](https://www.cnet.com/tech/computing/best-budget-laptop/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

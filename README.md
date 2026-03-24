@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SK Hynix plans to spend ~$8B to buy cutting-edge EUV lithography chipmaking tools from ASML through 2027, as it competes with Samsung to supply DRAM and HBM &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p7#a260324p7)
  - [Q&amp;A with Superhuman CEO Shishir Mehrotra, who apologized for Grammarly&#39;s Expert Review feature, on AI impersonation, attribution, compensating creators, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260324/p6#a260324p6)
  - [Filing: OpenAI petitions the UK CMA to include AI chatbots with search function in Google&#39;s mandated default search engine choice screen for Chrome and Android &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/260324/p5#a260324p5)
  - [US Senators Warren and Banks urge suspending Nvidia AI chip export licenses to China and Southeast Asia, following Supermicro co-founder Wally Liaw&#39;s indictment &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260324/p4#a260324p4)
- - [Sources: Nintendo plans to cut Switch 2 production this quarter to 4M units, down ~33% from 6M, after weaker-than-expected holiday demand, especially in the US &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260324/p3#a260324p3)
- - [20% Off Brooks Promo Code &amp; Deals for | March 2026](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
+ - [Sources: Nintendo plans to cut Switch 2 production this quarter to 4M units, down ~33% from 6M, after weaker-than-expected holiday demand, especially in the US &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260324/p3#a260324p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

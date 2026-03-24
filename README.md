@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix plans to spend ~$8B to buy cutting-edge EUV lithography chipmaking tools from ASML through 2027, as it competes with Samsung to supply DRAM and HBM &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p7#a260324p7)
- - [Q&amp;A with Superhuman CEO Shishir Mehrotra, who apologized for Grammarly&#39;s Expert Review feature, on AI impersonation, attribution, compensating creators, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260324/p6#a260324p6)
- - [Filing: OpenAI petitions the UK CMA to include AI chatbots with search function in Google&#39;s mandated default search engine choice screen for Chrome and Android &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/260324/p5#a260324p5)
- - [US Senators Warren and Banks urge suspending Nvidia AI chip export licenses to China and Southeast Asia, following Supermicro co-founder Wally Liaw&#39;s indictment &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260324/p4#a260324p4)
- - [Sources: Nintendo plans to cut Switch 2 production this quarter to 4M units, down ~33% from 6M, after weaker-than-expected holiday demand, especially in the US &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260324/p3#a260324p3)<!-- TECH:END -->
+ - [In a Kleiner podcast interview, DOD official Emil Michael says he will &quot;never forget&quot; nor &quot;forgive&quot; Uber investors that ousted him and Travis Kalanick in 2017 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260324/p10#a260324p10)
+ - [Your Body Is Betraying Your Right to Privacy](https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/)
+ - [‘Get Down! Get Down! They’re Gonna See Us!’: Six Months of Hiding From ICE](https://www.wired.com/story/get-down-get-down-six-months-of-hiding-from-ice/)
+ - [European VC firm Hummingbird raised $800M to find &quot;misfit&quot; founders, taking its total assets to ~$2B, after backing Kraken and AI vibe coding startup Lovable &lpar;Financial Times&rpar;](http://www.techmeme.com/260324/p9#a260324p9)
+ - [London-based Revolut reports 2025 revenue up 46% YoY to £4.5B, a £1.7B pre-tax profit, up from £1.1B in 2024, and customers up 33%, as it moves to become a bank &lpar;Elena Vardon/Wall Street Journal&rpar;](http://www.techmeme.com/260324/p8#a260324p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

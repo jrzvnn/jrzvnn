@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm’s first CPU ever will plug into Meta’s AI datacenters later this year](https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta)
- - [Apple is testing a standalone app for its overhauled Siri](https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app)
- - [Sam Altman told staff he has ceded oversight of OpenAI&#39;s safety and security teams to focus on fundraising, supply chains, and building data centers at scale &lpar;The Information&rpar;](http://www.techmeme.com/260324/p43#a260324p43)
- - [The man who coined Metaverse now says Meta&amp;#8217;s glasses are creepy](https://www.theverge.com/tech/899797/metaverse-neal-stephenson-headsets-goggles-glasses-creepy-no-business-case)
- - [Best Budget Laptops I&#39;ve Tested: Cheap Computers for Every Use](https://www.cnet.com/tech/computing/best-budget-laptop/)<!-- TECH:END -->
+ - [OpenCore Legacy Patcher faces uncertainty with the end of Intel Mac support nearing](https://appleinsider.com/articles/26/03/24/opencore-legacy-patcher-faces-uncertainty-with-the-end-of-intel-mac-support-nearing?utm_source=rss)
+ - [What is ICE actually doing at the airport?](https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk)
+ - [Disney ends its partnership with OpenAI, signed in December 2025, in which it pledged to invest $1B and agreed to license some characters to Sora &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260324/p46#a260324p46)
+ - [A New Mexico jury finds that Meta violated state laws by failing to safeguard its platforms from child predators and orders it to pay $375M in damages &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260324/p45#a260324p45)
+ - [Arm says its AGI CPU offers up to 136 Neoverse V3 cores, 6GB/s memory bandwidth per core, and more than 2x performance per rack compared with x86 systems &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/260324/p44#a260324p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

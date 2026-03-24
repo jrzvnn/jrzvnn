@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta misled users about its products’ safety, jury decides](https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict)
- - [NASA wants to put a $20 billion base on the Moon](https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman)
- - [At a hearing, a US federal judge says the Pentagon&#39;s treatment of Anthropic is &quot;troubling&quot; and that &quot;it looks like an attempt to cripple Anthropic&quot; &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260324/p47#a260324p47)
- - [OpenCore Legacy Patcher faces uncertainty with the end of Intel Mac support nearing](https://appleinsider.com/articles/26/03/24/opencore-legacy-patcher-faces-uncertainty-with-the-end-of-intel-mac-support-nearing?utm_source=rss)
- - [What is ICE actually doing at the airport?](https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk)<!-- TECH:END -->
+ - [Arm CEO Rene Haas projects $25B in revenue in 2031, up from $4B in 2025, including $15B from sales of Arm&#39;s first in-house chip; ARM jumps 6%+ after hours &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260324/p48#a260324p48)
+ - [Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troublesome, Judge Says](https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/)
+ - [Meta Ordered to Pay $375M in New Mexico Child Exploitation Lawsuit](https://www.cnet.com/tech/services-and-software/meta-loses-new-mexico-child-safety-exploitation-lawsuit-must-pay-375m/)
+ - [Anthropic&#39;s AI Piracy Settlement Is Getting Close to Final Approval](https://www.cnet.com/tech/services-and-software/anthropics-ai-piracy-settlement-is-getting-close-to-final-approval/)
+ - [Meta misled users about its products’ safety, jury decides](https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

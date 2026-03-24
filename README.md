@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`And all your money won&#39;t another minute buy`.](http://9gag.com/gag/aD2vZyZ)
  - 😝 [This one made me chuckle](http://9gag.com/gag/a0e30zB)
+ - 💣 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
  - 😝 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - 💣 [You are bad guy. But that doesn&#39;t mean you a BAD guy.](http://9gag.com/gag/abA8BLL)
- - 😝 [He WAS his own bodyguard!](http://9gag.com/gag/aAy9270)
- - 👉 [How is life bro?](http://9gag.com/gag/a7ox27q)<!-- MEMES:END -->
+ - 👉 [It was just the wind](http://9gag.com/gag/apRMx1n)<!-- MEMES:END -->
 
 ---
 

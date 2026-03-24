@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo cuts Switch 2 production amid weakening console sales](https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales)
- - [Clear Drop Soft Plastic Compactor Review: Eco Experiment](https://www.wired.com/review/clear-drop-soft-plastic-compactor/)
- - [Russian space company Bureau 1440 says it launched 16 broadband internet satellites, an early operational step in a low-Earth orbit network to rival SpaceX &lpar;Anthony Halpin/Bloomberg&rpar;](http://www.techmeme.com/260324/p14#a260324p14)
- - [How Palantir became a flashpoint on the US campaign trail due to its ICE work, ahead of the midterms; six lawmakers publicly refuse any further Palantir funds &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260324/p13#a260324p13)
- - [How to Use Apple’s Live Translation on Your AirPods](https://www.wired.com/story/apple-live-translation-airpods/)<!-- TECH:END -->
+ - [BoA shaves Apple share target by $5, wierdly concerned about iPhone 18 launch timing](https://appleinsider.com/articles/26/03/24/boa-shaves-apple-share-target-by-5-wierdly-concerned-about-iphone-18-launch-timing?utm_source=rss)
+ - [UK television giants demand regulatory action against big tech streaming hardware](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)
+ - [Kleiner Perkins raised $3.5B for two new funds, allocating $1B to its 22nd early-stage fund and $2.5B to a growth-stage fund, taking its AUM to $21B+ &lpar;Caroline Hyde/Bloomberg&rpar;](http://www.techmeme.com/260324/p15#a260324p15)
+ - [I Only Listened to AI Music for a Week. It Was Terrible, but Not for the Reason You Think](https://www.cnet.com/tech/services-and-software/generative-ai-music-experiment-culture/)
+ - [&#39;Daredevil: Born Again&#39; Season 2: When to Watch the Premiere on Disney Plus](https://www.cnet.com/tech/services-and-software/daredevil-born-again-season-2-when-to-watch-the-premiere-and-weekly-episodes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

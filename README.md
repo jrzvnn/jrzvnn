@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Best way to deal with stupidity](http://9gag.com/gag/aryLxg6)
  - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 😝 [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)
- - 💣 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
- - 😝 [How they made balrog for LOTR.](http://9gag.com/gag/an7oxv0)
- - 👉 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)<!-- MEMES:END -->
+ - 💣 [Almost there!](http://9gag.com/gag/ajP4BXq)
+ - 😝 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - 👉 [Dragonflies are nature&#39;s fighter jets, protecting our farms from pesky flies. Who knew these tiny creatures were such efficient predators](http://9gag.com/gag/aKGMWDQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a Kleiner podcast interview, DOD official Emil Michael says he will &quot;never forget&quot; nor &quot;forgive&quot; Uber investors that ousted him and Travis Kalanick in 2017 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260324/p10#a260324p10)
- - [Your Body Is Betraying Your Right to Privacy](https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/)
- - [‘Get Down! Get Down! They’re Gonna See Us!’: Six Months of Hiding From ICE](https://www.wired.com/story/get-down-get-down-six-months-of-hiding-from-ice/)
- - [European VC firm Hummingbird raised $800M to find &quot;misfit&quot; founders, taking its total assets to ~$2B, after backing Kraken and AI vibe coding startup Lovable &lpar;Financial Times&rpar;](http://www.techmeme.com/260324/p9#a260324p9)
- - [London-based Revolut reports 2025 revenue up 46% YoY to £4.5B, a £1.7B pre-tax profit, up from £1.1B in 2024, and customers up 33%, as it moves to become a bank &lpar;Elena Vardon/Wall Street Journal&rpar;](http://www.techmeme.com/260324/p8#a260324p8)<!-- TECH:END -->
+ - [How Palantir became a flashpoint on the US campaign trail due to its ICE work, ahead of the midterms; six lawmakers publicly refuse any further Palantir funds &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260324/p13#a260324p13)
+ - [How to Use Apple’s Live Translation on Your AirPods](https://www.wired.com/story/apple-live-translation-airpods/)
+ - [Amazon says its AWS region in Bahrain has been &quot;disrupted&quot; due to drone activity in the area amid the US-led Iran war, marking the second disruption in a month &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260324/p12#a260324p12)
+ - [Best Premium Soundbars: Dolby Atmos, Hi-Res Audio, and More](https://www.wired.com/gallery/best-premium-soundbars/)
+ - [Chris Hayes Has Some Advice for Keeping Up With the News](https://www.wired.com/story/the-big-interview-podcast-chris-hayes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

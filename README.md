@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo cuts Switch 2 production amid weakening console sales](https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales)
+ - [Clear Drop Soft Plastic Compactor Review: Eco Experiment](https://www.wired.com/review/clear-drop-soft-plastic-compactor/)
+ - [Russian space company Bureau 1440 says it launched 16 broadband internet satellites, an early operational step in a low-Earth orbit network to rival SpaceX &lpar;Anthony Halpin/Bloomberg&rpar;](http://www.techmeme.com/260324/p14#a260324p14)
  - [How Palantir became a flashpoint on the US campaign trail due to its ICE work, ahead of the midterms; six lawmakers publicly refuse any further Palantir funds &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260324/p13#a260324p13)
- - [How to Use Apple’s Live Translation on Your AirPods](https://www.wired.com/story/apple-live-translation-airpods/)
- - [Amazon says its AWS region in Bahrain has been &quot;disrupted&quot; due to drone activity in the area amid the US-led Iran war, marking the second disruption in a month &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260324/p12#a260324p12)
- - [Best Premium Soundbars: Dolby Atmos, Hi-Res Audio, and More](https://www.wired.com/gallery/best-premium-soundbars/)
- - [Chris Hayes Has Some Advice for Keeping Up With the News](https://www.wired.com/story/the-big-interview-podcast-chris-hayes/)<!-- TECH:END -->
+ - [How to Use Apple’s Live Translation on Your AirPods](https://www.wired.com/story/apple-live-translation-airpods/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)
- - 😝 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
- - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 😝 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
- - 👉 [My first celebrity crush. Who was yours?](http://9gag.com/gag/awyp1vD)<!-- MEMES:END -->
+ - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 😝 [The hero we all needed, but didnt deserve](http://9gag.com/gag/aZZY8A6)
+ - 💣 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
+ - 😝 [Death doesn\u2019t stop the legend!](http://9gag.com/gag/adBzngB)
+ - 👉 [A statue for heroes](http://9gag.com/gag/a5QYzeO)<!-- MEMES:END -->
 
 ---
 

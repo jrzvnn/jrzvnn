@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT and Gemini are fighting to be the AI bot that sells you stuff](https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features)
- - [Arm unveils its own AI chip called the AGI CPU, a departure from its traditional role as a designer of chips for others; Meta and OpenAI will be early customers &lpar;Financial Times&rpar;](http://www.techmeme.com/260324/p31#a260324p31)
- - [Nvidia CloudXR is now available for Apple Vision Pro with the release of visionOS 26.4](https://appleinsider.com/articles/26/03/24/nvidia-cloudxr-is-now-available-for-apple-vision-pro-with-the-release-of-visionos-264?utm_source=rss)
- - [iPadOS 26.4 arrives with new emoji, video podcast additions](https://appleinsider.com/articles/26/03/24/ipados-264-arrives-with-new-emoji-video-podcast-additions?utm_source=rss)
- - [iOS 26.4 is here with Playlist Playground, videos in Podcasts, new emoji, more](https://appleinsider.com/articles/26/03/24/ios-264-is-here-with-playlist-playground-videos-in-podcasts-new-emoji-more?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI revamps ChatGPT&#39;s shopping experience by letting users upload images or describe items and include criteria like their budget &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260324/p34#a260324p34)
+ - [Our Favorite Turntable Is $51 Off Before Record Store Day](https://www.wired.com/story/atlp120x-deal-326/)
+ - [Doss, which provides an AI-native inventory management layer that integrates with existing accounting systems, raised a $55M Series B &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260324/p33#a260324p33)
+ - [Apple releases iOS 26.4, with Playlist Playground, which generates Apple Music playlist from a prompt, 8 new emojis, improved keyboard accuracy, and more &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260324/p32#a260324p32)
+ - [Apple Business Mail tempts Google Workspace users with free email](https://appleinsider.com/articles/26/03/24/apple-business-mail-temps-google-workspace-users-with-free-email?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

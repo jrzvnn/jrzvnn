@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank says its loan-to-value ratio, a measure of net debt against the value of its holdings, could exceed its 25% limit as it commits another $30B to OpenAI &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/260323/p47#a260323p47)
- - [United States FCC bans import of all new foreign-made consumer routers](https://appleinsider.com/articles/26/03/24/united-states-fcc-bans-import-of-all-new-foreign-made-consumer-routers?utm_source=rss)
- - [How Nvidia became the AI industry&#39;s most powerful financier, investing billions in startups and supporting customers who couldn&#39;t otherwise afford its chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260323/p46#a260323p46)
- - [Television giants team up against dominant streaming OS &amp; Apple TV](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)
- - [The Internet Watch Foundation says it identified 8,029 AI-generated images and videos of realistic child sexual abuse in 2025, up 14% from the previous year &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260323/p45#a260323p45)<!-- TECH:END -->
+ - [20% Off Brooks Promo Code &amp; Deals for | March 2026](https://www.wired.com/story/brooks-promo-code/)
+ - [Ulta Coupons and Deals: Up to 50% Off in March](https://www.wired.com/story/ulta-coupon/)
+ - [Sony Promo Codes and Discounts: 45% Off](https://www.wired.com/story/sony-promo-code/)
+ - [Design Within Reach Promo Codes: 30% Off | March 2026](https://www.wired.com/story/design-within-reach-promo-code/)
+ - [Report: Alibaba&#39;s DAMO Academy unveils XuanTie C950, a 5nm server chip with 3.2 GHz clock, and claims it to be &quot;the highest performing RISC-V CPU in the world&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260324/p2#a260324p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

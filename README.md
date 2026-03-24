@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 😝 [Best way to deal with stupidity](http://9gag.com/gag/aryLxg6)
- - 💣 [Almost there!](http://9gag.com/gag/ajP4BXq)
- - 😝 [Dragonflies are nature&#39;s fighter jets, protecting our farms from pesky flies. Who knew these tiny creatures were such efficient predators](http://9gag.com/gag/aKGMWDQ)
- - 👉 [Islamic philosophy, episode 4: how to respect women](http://9gag.com/gag/a6ZRBq2)<!-- MEMES:END -->
+ - 😝 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
+ - 😝 [Ungrateful Girls](http://9gag.com/gag/adBzQAB)
+ - 💣 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - 😝 [This tiny car has more style than my parking skills](http://9gag.com/gag/aD2vVdG)
+ - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
 
 ---
 

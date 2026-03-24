@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)
- - 😝 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
- - 💣 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - 😝 [It was just the wind](http://9gag.com/gag/apRMx1n)
- - 👉 [Paint job tips](http://9gag.com/gag/agme2rq)<!-- MEMES:END -->
+ - 😝 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
+ - 😝 [How is life bro?](http://9gag.com/gag/a7ox27q)
+ - 💣 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
+ - 😝 [I love a windy day](http://9gag.com/gag/a34O2x1)
+ - 👉 [He WAS his own bodyguard!](http://9gag.com/gag/aAy9270)<!-- MEMES:END -->
 
 ---
 

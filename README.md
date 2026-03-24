@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: OpenAI petitions the UK CMA to include AI chatbots with search function in Google&#39;s mandated default search engine choice screen for Chrome and Android &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/260324/p5#a260324p5)
+ - [US Senators Warren and Banks urge suspending Nvidia AI chip export licenses to China and Southeast Asia, following Supermicro co-founder Wally Liaw&#39;s indictment &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260324/p4#a260324p4)
+ - [Sources: Nintendo plans to cut Switch 2 production this quarter to 4M units, down ~33% from 6M, after weaker-than-expected holiday demand, especially in the US &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260324/p3#a260324p3)
  - [20% Off Brooks Promo Code &amp; Deals for | March 2026](https://www.wired.com/story/brooks-promo-code/)
- - [Ulta Coupons and Deals: Up to 50% Off in March](https://www.wired.com/story/ulta-coupon/)
- - [Sony Promo Codes and Discounts: 45% Off](https://www.wired.com/story/sony-promo-code/)
- - [Design Within Reach Promo Codes: 30% Off | March 2026](https://www.wired.com/story/design-within-reach-promo-code/)
- - [Report: Alibaba&#39;s DAMO Academy unveils XuanTie C950, a 5nm server chip with 3.2 GHz clock, and claims it to be &quot;the highest performing RISC-V CPU in the world&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260324/p2#a260324p2)<!-- TECH:END -->
+ - [Ulta Coupons and Deals: Up to 50% Off in March](https://www.wired.com/story/ulta-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

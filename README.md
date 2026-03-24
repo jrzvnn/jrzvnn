@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Orico HS500 MetaBox Pro 5 NAS review - Good hardware, badly let down by software](https://appleinsider.com/articles/26/03/24/orico-hs500-metabox-pro-5-nas-review---good-hardware-badly-let-down-by-software?utm_source=rss)
- - [Shark Cordless Vacuums Are on Sale at Amazon. Here Are the 2 I Recommend](https://www.cnet.com/deals/shark-stratos-cordless-vacuum-amazon-spring-sale/)
- - [Bengaluru-based Swish, which offers a 10-minute food delivery service, raised a $38M Series B at a $139M post-money valuation, bringing its total raised to $54M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260323/p43#a260323p43)
- - [Jury deliberations begin in New Mexico&#39;s lawsuit against Meta over children&#39;s safety risks, after both sides delivered closing arguments &lpar;Morgan Lee/Associated Press&rpar;](http://www.techmeme.com/260323/p42#a260323p42)
- - [You are out of time to update: Severe iOS hack code leaks to everyone](https://appleinsider.com/articles/26/03/23/you-are-out-of-time-to-update-severe-ios-hack-code-leaks-to-everyone?utm_source=rss)<!-- TECH:END -->
+ - [SoftBank says its loan-to-value ratio, a measure of net debt against the value of its holdings, could exceed its 25% limit as it commits another $30B to OpenAI &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/260323/p47#a260323p47)
+ - [United States FCC bans import of all new foreign-made consumer routers](https://appleinsider.com/articles/26/03/24/united-states-fcc-bans-import-of-all-new-foreign-made-consumer-routers?utm_source=rss)
+ - [How Nvidia became the AI industry&#39;s most powerful financier, investing billions in startups and supporting customers who couldn&#39;t otherwise afford its chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260323/p46#a260323p46)
+ - [Television giants team up against dominant streaming OS &amp; Apple TV](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)
+ - [The Internet Watch Foundation says it identified 8,029 AI-generated images and videos of realistic child sexual abuse in 2025, up 14% from the previous year &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260323/p45#a260323p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

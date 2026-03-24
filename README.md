@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
+ - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
  - 😝 [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)
- - 💣 [My first celebrity crush. Who was yours?](http://9gag.com/gag/awyp1vD)
- - 😝 [Gen X parents really had no time for your complaints](http://9gag.com/gag/aByeEOZ)
+ - 💣 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 😝 [How they made balrog for LOTR.](http://9gag.com/gag/an7oxv0)
  - 👉 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)<!-- MEMES:END -->
 
 ---

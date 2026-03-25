@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3/25](http://9gag.com/gag/adBze3V)
- - 😝 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)
- - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
- - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
- - 👉 [A 90s darling](http://9gag.com/gag/abA8xGb)<!-- MEMES:END -->
+ - 😝 [Still figuring it out at 33, no biggie](http://9gag.com/gag/amoZVn9)
+ - 😝 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
+ - 💣 [She&#39;s a keeper, protect her at all costs](http://9gag.com/gag/aQzj27z)
+ - 😝 [He WAS his own bodyguard!](http://9gag.com/gag/aAy9270)
+ - 👉 [Brutal](http://9gag.com/gag/a0e3EYB)<!-- MEMES:END -->
 
 ---
 

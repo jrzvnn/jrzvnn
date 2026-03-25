@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy black history month](http://9gag.com/gag/agme4Kn)
- - 😝 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)
- - 💣 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
- - 😝 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
- - 👉 [Paint job tips](http://9gag.com/gag/agme2rq)<!-- MEMES:END -->
+ - 😝 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
+ - 😝 [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)
+ - 💣 [I love a windy day](http://9gag.com/gag/a34O2x1)
+ - 😝 [You are bad guy. But that doesn&#39;t mean you a BAD guy.](http://9gag.com/gag/abA8BLL)
+ - 👉 [Brutal](http://9gag.com/gag/a0e3EYB)<!-- MEMES:END -->
 
 ---
 

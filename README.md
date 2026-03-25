@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen NASync iDX6011 Pro NAS review: The right kind of overkill](https://appleinsider.com/articles/26/03/24/ugreen-nasync-idx6011-pro-nas-review-the-right-kind-of-overkill?utm_source=rss)
- - [Generative video creator Sora is dead along with $1 billion Disney content deal](https://appleinsider.com/articles/26/03/24/generative-video-creator-sora-is-dead-along-with-1-billion-disney-content-deal?utm_source=rss)
- - [Meta announces new shopping and ad features, including affiliate marketing tools for Instagram and Facebook creators and a &quot;buy now&quot; button for Facebook ads &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/260324/p53#a260324p53)
- - [A US judge dismisses a lawsuit against Meta by Attaullah Baig, former head of cybersecurity at WhatsApp, who alleged Meta ignored critical security flaws &lpar;Carly Nairn/Courthouse News Service&rpar;](http://www.techmeme.com/260324/p52#a260324p52)
- - [watchOS 8 and watchOS 5 get minor updates with iMessage fix](https://appleinsider.com/articles/26/03/24/watchos-8-and-watchos-5-get-minor-updates-with-imessage-fix?utm_source=rss)<!-- TECH:END -->
+ - [Amity, a Thailand-based startup that provides generative AI tools to businesses like retail and telecom, raised $100M in a Series D as it plans for a 2027 IPO &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260324/p60#a260324p60)
+ - [Neal Stephenson says he no longer believes head-mounted displays are the future, citing public discomfort with the devices and a general distrust of the users &lpar;Neal Stephenson/Graphomane&rpar;](http://www.techmeme.com/260324/p59#a260324p59)
+ - [The BB-777 is the ultimate in boombox nostalgia](https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia)
+ - [Sources: some Sora team members were surprised by OpenAI&#39;s sudden decision to end Sora support, just a day after OpenAI posted a blog on Sora safety standards &lpar;Reuters&rpar;](http://www.techmeme.com/260324/p58#a260324p58)
+ - [&#39;Daredevil: Born Again&#39; Season 2 Review: Series Soars With Unexpected Turns, Pumped-Up Suspense and Fierce Action](https://www.cnet.com/culture/entertainment/daredevil-born-again-season-2-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
+ - 😝 [I love a windy day](http://9gag.com/gag/a34O2x1)
  - 😝 [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)
- - 💣 [I love a windy day](http://9gag.com/gag/a34O2x1)
- - 😝 [You are bad guy. But that doesn&#39;t mean you a BAD guy.](http://9gag.com/gag/abA8BLL)
- - 👉 [Brutal](http://9gag.com/gag/a0e3EYB)<!-- MEMES:END -->
+ - 💣 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
+ - 😝 [Have you read and understood the terms of use?](http://9gag.com/gag/aXPOKAg)
+ - 👉 [You are bad guy. But that doesn&#39;t mean you a BAD guy.](http://9gag.com/gag/abA8BLL)<!-- MEMES:END -->
 
 ---
 

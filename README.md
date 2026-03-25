@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
- - 😝 [Hear me out](http://9gag.com/gag/aQzjZ0z)
- - 💣 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)
- - 😝 [Hello fellow 9gagers, I&#39;d like to brag that at the age of 38, I managed to leave the corporate world, overcome depression, and start a career as a self-employed carpenter. It can be tough, but I don&#39;t feel suicidal when I go to work.](http://9gag.com/gag/avyjdEq)
- - 👉 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)<!-- MEMES:END -->
+ - 😝 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
+ - 💣 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)
+ - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
+ - 👉 [Hear me out](http://9gag.com/gag/aQzjZ0z)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iranians Don’t Have a Missile Alert System, So Volunteers Built Their Own Warning Map](https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/)
- - [EQT and McKinsey study: between 2014 and 2025, European tech companies with a current combined value of ~$1.4T listed abroad or were acquired by foreign buyers &lpar;Bloomberg&rpar;](http://www.techmeme.com/260325/p6#a260325p6)
- - [Memo: Sam Altman says OpenAI&#39;s next model finished pretraining, and moves Safety to Research and Security to Scaling; Fidji Simo becomes CEO of &quot;AGI Deployment&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260325/p5#a260325p5)
- - [Amazon&#39;s Big Spring Sale drops stainless steel Apple Watch S9 with cellular to $299](https://appleinsider.com/articles/26/03/25/amazons-big-spring-sale-drops-stainless-steel-apple-watch-s9-with-cellular-to-299?utm_source=rss)
- - [These 25 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History  &lpar;2026&rpar;](https://www.wired.com/story/the-amazon-spring-sale-2026/)<!-- TECH:END -->
+ - [How internet censorship tech maker Sandvine, a vendor to repressive regimes like Egypt, nearly collapsed before US restrictions forced new ownership and a pivot &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260325/p9#a260325p9)
+ - [US digital rights group Holistic Resilience launched Mahsa Alert to provide Iranians with offline mapping and strike notifications, hitting 100K DAUs in days &lpar;Wired&rpar;](http://www.techmeme.com/260325/p8#a260325p8)
+ - [Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off](https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/)
+ - [How American Camouflage Conquered the World](https://www.wired.com/camouflage-multicam-military-navy-seals-ice/)
+ - [OpenAI hires Kiran Mani, the CEO of Indian streaming platform JioStar, for a newly created role leading its Asia-Pacific operations, reporting to CSO Jason Kwon &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/260325/p7#a260325p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

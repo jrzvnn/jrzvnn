@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A 90s darling](http://9gag.com/gag/abA8xGb)
- - 😝 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)
+ - 😝 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)
  - 💣 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)
- - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
- - 👉 [Hear me out](http://9gag.com/gag/aQzjZ0z)<!-- MEMES:END -->
+ - 😝 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
+ - 👉 [Paint job tips](http://9gag.com/gag/agme2rq)<!-- MEMES:END -->
 
 ---
 

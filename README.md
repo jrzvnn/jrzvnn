@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale](https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal)
+ - [Apple Vision Pro trade secret lawsuit reaches settlement](https://appleinsider.com/articles/26/03/25/apple-vision-pro-trade-secret-lawsuit-reaches-settlement?utm_source=rss)
+ - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
  - [Musk&#39;s lawyers ask a Delaware judge to step back from cases involving him, after her account &quot;liked&quot; a LinkedIn post celebrating his defeat in a California case &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/260325/p41#a260325p41)
- - [Singapore-based Startale, developer of the Strium blockchain for tokenized securities and JPYSC and USDSC stablecoins, raised a $63M Series A from SBI and Sony &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260325/p40#a260325p40)
- - [The portable Fanttik X9 Pro tire inflator is down to its best price in months](https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale)
- - [Nintendo Dropped a Switch 2 Update With a New Mode You&#39;ll Want to Turn On Immediately](https://www.cnet.com/tech/gaming/nintendo-switch-2-handheld-mode-boost-update/)
- - [Meta is laying off hundreds of employees as it pours money into AI](https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees)<!-- TECH:END -->
+ - [Singapore-based Startale, developer of the Strium blockchain for tokenized securities and JPYSC and USDSC stablecoins, raised a $63M Series A from SBI and Sony &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260325/p40#a260325p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

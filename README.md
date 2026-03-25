@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alien technology](http://9gag.com/gag/aPAqexP)
- - 😝 [Flickering](http://9gag.com/gag/aD2vVzO)
- - 💣 [It was just the wind](http://9gag.com/gag/apRMx1n)
- - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
- - 👉 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)<!-- MEMES:END -->
+ - 😝 [The cheeks on this persimmon I picked last year.](https://www.reddit.com/r/funny/comments/1s33asm/the_cheeks_on_this_persimmon_i_picked_last_year/)
+ - 😝 [In the end, it&#39;s not all about winning, it&#39;s about who you become.](http://9gag.com/gag/aoy7Lpg)
+ - 💣 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
+ - 😝 [How is life bro?](http://9gag.com/gag/a7ox27q)
+ - 👉 [I love a windy day](http://9gag.com/gag/a34O2x1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kansas-based NoTraffic, which uses AI-driven operating systems and sensor data to optimize intersection traffic flow, raised a $90M Series C led by PSG Equity &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260325/p12#a260325p12)
- - [Aeronaut Is an Actual Mac App for Bluesky](https://www.wired.com/story/aeronaut-mac-app-for-bluesky/)
- - [Lego Star Wars Smart Play Throne Room Duel and A-Wing Review](https://www.wired.com/story/lego-star-wars-smart-play-throne-room-duel-a-wing-review/)
- - [It&amp;#8217;s always a good time to revisit Super Mario Bros. Wonder](https://www.theverge.com/games/899839/super-mario-bros-wonder-nintendo-switch-2-review)
- - [Chinese AI company Kuaishou reports Q4 revenue up 12% YoY to ~$5.7B, meeting est., adjusted net income up 16% YoY, and Kling text-to-video revenue of ~$49M &lpar;Rachel Yeo/Bloomberg&rpar;](http://www.techmeme.com/260325/p11#a260325p11)<!-- TECH:END -->
+ - [Nine Apple TV shows nominated for UK&#39;s Bafta television awards](https://appleinsider.com/articles/26/03/25/nine-apple-tv-shows-nominated-for-uks-bafta-television-awards?utm_source=rss)
+ - [Anthropic’s Claude Code gets ‘safer’ auto mode](https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode)
+ - [The Best Digital Wall Calendar &lpar;2026&rpar;: Skylight, Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/)
+ - [Memo: Mark Zuckerberg launches Meta Small Business, a company-wide priority to support entrepreneurship and drive AI use, led by Dina Powell McCormick and more &lpar;Axios&rpar;](http://www.techmeme.com/260325/p14#a260325p14)
+ - [Q&amp;A with Arm CEO Rene Haas on changing Arm&#39;s culture, working with SoftBank, developing its Arm AGI CPU data center chip fabricated by TSMC, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/260325/p13#a260325p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

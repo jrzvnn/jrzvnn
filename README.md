@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [3/25](http://9gag.com/gag/adBze3V)
- - 😝 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
- - 💣 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
+ - 😝 [A 90s darling](http://9gag.com/gag/abA8xGb)
+ - 💣 [It was just the wind](http://9gag.com/gag/apRMx1n)
+ - 😝 [Y tho.](http://9gag.com/gag/aLnEXzg)
  - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
 
 ---

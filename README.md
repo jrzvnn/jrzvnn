@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GitHub says it will use Copilot interaction data, including inputs, outputs, and code snippets, to train its AI models starting April 24, unless users opt out &lpar;Corbin Davenport/How-To Geek&rpar;](http://www.techmeme.com/260325/p43#a260325p43)
  - [Google sets a 2029 deadline for its post-quantum cryptography migration, aiming to &quot;secure the quantum era&quot; as &quot;frontiers may be closer than they appear&quot; &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260325/p42#a260325p42)
- - [The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale](https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal)
- - [Apple Vision Pro trade secret lawsuit reaches settlement](https://appleinsider.com/articles/26/03/25/apple-vision-pro-trade-secret-lawsuit-reaches-settlement?utm_source=rss)
- - [OpenAI Gives Users a Long-Term Storage Option With ChatGPT Library](https://www.cnet.com/tech/services-and-software/openai-gives-users-long-term-storage-option-with-chatgpt-library/)
- - [New Features Make NotebookLM More Flexible and Easier to Use](https://www.cnet.com/tech/services-and-software/new-notebooklm-features-make-ai-tool-flexible-easier-to-use/)<!-- TECH:END -->
+ - [The Top Tech Deals Our Readers Are Shopping During Amazon&#39;s Big Spring Sale](https://www.cnet.com/deals/tech-deals-our-readers-are-eyeing-amazon-big-spring-sale/)
+ - [McDonald&#39;s KPop Demon Hunter Meals Include Bright Purple Nugget Sauce](https://www.cnet.com/tech/services-and-software/mcdonalds-kpop-demon-hunter-meals-include-bright-purple-nugget-sauce/)
+ - [The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale](https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

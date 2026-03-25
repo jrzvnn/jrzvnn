@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
- - 😝 [3/25](http://9gag.com/gag/adBze3V)
- - 💣 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)
- - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
- - 👉 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)<!-- MEMES:END -->
+ - 😝 [Happy black history month](http://9gag.com/gag/agme4Kn)
+ - 😝 [It is Wednesday ma dudes](http://9gag.com/gag/avyjd0Z)
+ - 💣 [Y tho.](http://9gag.com/gag/aLnEXzg)
+ - 😝 [Skilled Professional](http://9gag.com/gag/aXPOKmg)
+ - 👉 [99% destructive fire power, 1% hit rate.](http://9gag.com/gag/aryL246)<!-- MEMES:END -->
 
 ---
 

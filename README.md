@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3/25](http://9gag.com/gag/adBze3V)
- - 😝 [A 90s darling](http://9gag.com/gag/abA8xGb)
- - 💣 [It was just the wind](http://9gag.com/gag/apRMx1n)
- - 😝 [Y tho.](http://9gag.com/gag/aLnEXzg)
- - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
+ - 😝 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
+ - 😝 [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)
+ - 💣 [How is life bro?](http://9gag.com/gag/a7ox27q)
+ - 😝 [I love a windy day](http://9gag.com/gag/a34O2x1)
+ - 👉 [You are bad guy. But that doesn&#39;t mean you a BAD guy.](http://9gag.com/gag/abA8BLL)<!-- MEMES:END -->
 
 ---
 

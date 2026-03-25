@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can you monitor a situation without monitors? The Polymarket sports bar tried](https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket)
+ - [ARC Prize Foundation unveils ARC-AGI-3, an AI benchmark with simple video-game-like scenarios designed to measure on-the-fly reasoning rather than memory recall &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/260325/p37#a260325p37)
  - [Google &amp; Meta found liable for social media addiction](https://appleinsider.com/articles/26/03/25/google-meta-found-liable-for-social-media-addiction?utm_source=rss)
- - [The United States router ban, explained](https://www.theverge.com/tech/899906/fcc-router-ban-march-2026-explainer)
- - [Meta and YouTube found negligent in landmark social media addiction case](https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision)
- - [OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage](https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/)<!-- TECH:END -->
+ - [Woot is offering over 20 percent off Switch 2 controllers and games today](https://www.theverge.com/gadgets/900490/nintendo-switch-2-controllers-games-amazon-big-spring-sale-2026-deals)
+ - [Reddit says it will label automated accounts that provide a service to users and will require accounts suspected of being bots to verify they are human &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260325/p36#a260325p36)
+ - [There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos](https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

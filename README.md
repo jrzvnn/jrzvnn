@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Iranians Don’t Have a Missile Alert System, So Volunteers Built Their Own Warning Map](https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/)
+ - [EQT and McKinsey study: between 2014 and 2025, European tech companies with a current combined value of ~$1.4T listed abroad or were acquired by foreign buyers &lpar;Bloomberg&rpar;](http://www.techmeme.com/260325/p6#a260325p6)
  - [Memo: Sam Altman says OpenAI&#39;s next model finished pretraining, and moves Safety to Research and Security to Scaling; Fidji Simo becomes CEO of &quot;AGI Deployment&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260325/p5#a260325p5)
  - [Amazon&#39;s Big Spring Sale drops stainless steel Apple Watch S9 with cellular to $299](https://appleinsider.com/articles/26/03/25/amazons-big-spring-sale-drops-stainless-steel-apple-watch-s9-with-cellular-to-299?utm_source=rss)
- - [These 25 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History  &lpar;2026&rpar;](https://www.wired.com/story/the-amazon-spring-sale-2026/)
- - [How AI is helping geologists identify thousands of slopes around the world at high risk of slipping by analyzing data from satellites and ground-based sensors &lpar;Chris Baraniuk/BBC&rpar;](http://www.techmeme.com/260325/p4#a260325p4)
- - [Large US corporations are not ditching core business software for AI yet, instead seeking better vendor deals and &quot;vibe-coding&quot; smaller apps and customizations &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p3#a260325p3)<!-- TECH:END -->
+ - [These 25 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History  &lpar;2026&rpar;](https://www.wired.com/story/the-amazon-spring-sale-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

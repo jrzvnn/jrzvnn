@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Charlotte-based Lucid Bots, which manufactures autonomous drones for cleaning windows, raised a $20M Series B co-led by Cubit and Idea Fund &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260325/p28#a260325p28)
- - [Live-service games are such a mess even Fortnite is struggling](https://www.theverge.com/games/900389/live-service-games-mess-fortnite-layoffs)
- - [Google Research details TurboQuant, a quantization algorithm to enable massive compression of LLMs and vector search engines without sacrificing accuracy &lpar;Google Research&rpar;](http://www.techmeme.com/260325/p27#a260325p27)
- - [Senate Democrats are trying to ‘codify’ Anthropic&amp;#8217;s red lines on autonomous weapons and mass surveillance](https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance)
- - [The Ex-CIA Agent Going Viral Asking for a Trump Pardon](https://www.wired.com/story/that-ex-cia-agent-in-all-your-feeds-is-after-a-pardon-from-donald-trump/)<!-- TECH:END -->
+ - [Seiko resurrected a 44-year-old digital watch NASA astronauts wore to space](https://www.theverge.com/tech/900428/seiko-rotocall-digital-watch-retro-nasa-astronauts)
+ - [Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez plan to introduce legislation to pause new data center construction until AI safeguards are in place &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260325/p32#a260325p32)
+ - [Sources: cloud provider Vultr is seeking to raise $1B+ to expand its AI computing capacity, after raising $333M at a $3.5B valuation in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/260325/p31#a260325p31)
+ - [Epic Microsystems, which designs power delivery architecture for better thermal and efficiency management of AI data centers, raised a $21M Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260325/p30#a260325p30)
+ - [Get AirPods 4 from $99, AirPods Pro 3 for $199 during Amazon&#39;s Big Spring Sale](https://appleinsider.com/articles/26/03/25/get-airpods-4-from-99-airpods-pro-3-for-199-during-amazons-big-spring-sale?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

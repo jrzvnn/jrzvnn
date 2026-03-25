@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google sets a 2029 deadline for its post-quantum cryptography migration, aiming to &quot;secure the quantum era&quot; as &quot;frontiers may be closer than they appear&quot; &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260325/p42#a260325p42)
  - [The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale](https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal)
  - [Apple Vision Pro trade secret lawsuit reaches settlement](https://appleinsider.com/articles/26/03/25/apple-vision-pro-trade-secret-lawsuit-reaches-settlement?utm_source=rss)
- - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
- - [Musk&#39;s lawyers ask a Delaware judge to step back from cases involving him, after her account &quot;liked&quot; a LinkedIn post celebrating his defeat in a California case &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/260325/p41#a260325p41)
- - [Singapore-based Startale, developer of the Strium blockchain for tokenized securities and JPYSC and USDSC stablecoins, raised a $63M Series A from SBI and Sony &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260325/p40#a260325p40)<!-- TECH:END -->
+ - [OpenAI Gives Users a Long-Term Storage Option With ChatGPT Library](https://www.cnet.com/tech/services-and-software/openai-gives-users-long-term-storage-option-with-chatgpt-library/)
+ - [New Features Make NotebookLM More Flexible and Easier to Use](https://www.cnet.com/tech/services-and-software/new-notebooklm-features-make-ai-tool-flexible-easier-to-use/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
- - 😝 [Brutal](http://9gag.com/gag/a0e3EYB)
- - 💣 [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)
- - 😝 [How is life bro?](http://9gag.com/gag/a7ox27q)
- - 👉 [I love a windy day](http://9gag.com/gag/a34O2x1)<!-- MEMES:END -->
+ - 😝 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
+ - 😝 [Hear me out](http://9gag.com/gag/aQzjZ0z)
+ - 💣 [Paint job tips](http://9gag.com/gag/agme2rq)
+ - 😝 [Still figuring it out at 33, no biggie](http://9gag.com/gag/amoZVn9)
+ - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
 
 ---
 

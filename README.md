@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seiko resurrected a 44-year-old digital watch NASA astronauts wore to space](https://www.theverge.com/tech/900428/seiko-rotocall-digital-watch-retro-nasa-astronauts)
- - [Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez plan to introduce legislation to pause new data center construction until AI safeguards are in place &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260325/p32#a260325p32)
- - [Sources: cloud provider Vultr is seeking to raise $1B+ to expand its AI computing capacity, after raising $333M at a $3.5B valuation in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/260325/p31#a260325p31)
- - [Epic Microsystems, which designs power delivery architecture for better thermal and efficiency management of AI data centers, raised a $21M Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260325/p30#a260325p30)
- - [Get AirPods 4 from $99, AirPods Pro 3 for $199 during Amazon&#39;s Big Spring Sale](https://appleinsider.com/articles/26/03/25/get-airpods-4-from-99-airpods-pro-3-for-199-during-amazons-big-spring-sale?utm_source=rss)<!-- TECH:END -->
+ - [Social media addiction trial: a Los Angeles jury finds Meta and YouTube were negligent and failed to warn users about the dangers of using their platforms &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260325/p34#a260325p34)
+ - [The Comedy Club at the End of the Metaverse](https://www.wired.com/story/the-last-comedy-club-at-the-end-of-the-metaverse/)
+ - [Save $100 On Our Favorite Soundbar and Subwoofer Combo](https://www.wired.com/story/jbl-bar500mk2-deal-326/)
+ - [X tries to limit creator revenue for foreign influencers but Musk intervenes](https://www.theverge.com/tech/900535/x-creator-payouts-american-politics-elon-musk)
+ - [The TSA is broken — is privatization next?](https://www.theverge.com/transportation/900510/airport-tsa-seurity-wait-privatization-trump-mullin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

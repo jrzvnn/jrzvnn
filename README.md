@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo says new first-party games exclusive to Switch 2 will have different prices for physical and digital versions in the US, beginning in May &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/260325/p38#a260325p38)
- - [ARC Prize Foundation unveils ARC-AGI-3, an AI benchmark with simple video-game-like scenarios designed to measure on-the-fly reasoning rather than memory recall &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/260325/p37#a260325p37)
- - [New Harry Potter TV Series Trailer Reintroduces Hogwarts Magic for HBO](https://www.cnet.com/culture/entertainment/harry-potter-series-new-trailer/)
- - [We&#39;ve Been Tracking Our Favorite Deals Across the Amazon Big Spring Sale and There Are a Ton of Great Ones](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
- - [Nvidia&#39;s NemoClaw Adds Security and Privacy Features for AI Agents. Is It Enough?](https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/)<!-- TECH:END -->
+ - [Razer’s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM](https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram)
+ - [The surprise hit Nex Playground is the latest console to get a price hike](https://www.theverge.com/entertainment/900856/nex-playground-price-hike)
+ - [Source: Meta on Wednesday laid off around 700 employees in the Reality Labs unit, as well as some in recruiting, sales, and Facebook &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/260325/p39#a260325p39)
+ - [Disney’s big bets on the metaverse and AI slop aren’t going so well](https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 26 #753](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-26-753/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

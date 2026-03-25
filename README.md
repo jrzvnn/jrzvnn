@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How internet censorship tech maker Sandvine, a vendor to repressive regimes like Egypt, nearly collapsed before US restrictions forced new ownership and a pivot &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260325/p9#a260325p9)
- - [US digital rights group Holistic Resilience launched Mahsa Alert to provide Iranians with offline mapping and strike notifications, hitting 100K DAUs in days &lpar;Wired&rpar;](http://www.techmeme.com/260325/p8#a260325p8)
- - [Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off](https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/)
- - [How American Camouflage Conquered the World](https://www.wired.com/camouflage-multicam-military-navy-seals-ice/)
- - [OpenAI hires Kiran Mani, the CEO of Indian streaming platform JioStar, for a newly created role leading its Asia-Pacific operations, reporting to CSO Jason Kwon &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/260325/p7#a260325p7)<!-- TECH:END -->
+ - [Kansas-based NoTraffic, which uses AI-driven operating systems and sensor data to optimize intersection traffic flow, raised a $90M Series C led by PSG Equity &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260325/p12#a260325p12)
+ - [Aeronaut Is an Actual Mac App for Bluesky](https://www.wired.com/story/aeronaut-mac-app-for-bluesky/)
+ - [Lego Star Wars Smart Play Throne Room Duel and A-Wing Review](https://www.wired.com/story/lego-star-wars-smart-play-throne-room-duel-a-wing-review/)
+ - [It&amp;#8217;s always a good time to revisit Super Mario Bros. Wonder](https://www.theverge.com/games/899839/super-mario-bros-wonder-nintendo-switch-2-review)
+ - [Chinese AI company Kuaishou reports Q4 revenue up 12% YoY to ~$5.7B, meeting est., adjusted net income up 16% YoY, and Kling text-to-video revenue of ~$49M &lpar;Rachel Yeo/Bloomberg&rpar;](http://www.techmeme.com/260325/p11#a260325p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When Satellite Data Becomes a Weapon](https://www.wired.com/story/when-satellite-data-becomes-a-weapon/)
- - [Apple rolls out mandatory UK age verification with iOS 26.4, requiring users to provide a credit card or ID, a first in Europe, after UK government pressure &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260325/p17#a260325p17)
- - [Temu owner PDD reports Q4 revenue up 12% YoY to ~$18B and net profit down 11% YoY to ~$3.56B, below ~$4B est., as it seeks to retain merchants on its platform &lpar;Tracy Qu/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p16#a260325p16)
- - [AI note taking startup Granola raised $125M led by Index Ventures at a $1.5B valuation, and plans Claude integrations and agentic AI features in the next year &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260325/p15#a260325p15)
- - [We&#39;ve Been Tracking Our Favorite Deals Across the Amazon Big Spring Sale and There Are a Ton of Great Ones](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)<!-- TECH:END -->
+ - [Ring finally brings 4K video to its battery-powered doorbell camera](https://www.theverge.com/tech/900270/ring-4k-battery-powered-video-doorbell-ai-price-release-date-specs)
+ - [Notch, which is developing an OS designed for high-compliance sectors, raised a $30M Series A led by Headline, after pivoting from being a specialty insurer &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260325/p24#a260325p24)
+ - [Keychron’s mechanical keyboards are up to 60 percent off](https://www.theverge.com/gadgets/899433/keychron-mechanical-keyboards-amazon-big-spring-sale-2026-deal)
+ - [Elon Musk says X will &quot;pause&quot; new creator monetization rules that would base payouts on engagement from a user&#39;s local audience, after criticism from creators &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260325/p23#a260325p23)
+ - [Developers finally get more App Store data from Apple](https://appleinsider.com/articles/26/03/25/developers-finally-get-more-app-store-data-from-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

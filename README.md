@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
  - 😝 [3/25](http://9gag.com/gag/adBze3V)
- - 💣 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)
+ - 😝 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)
+ - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
  - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
- - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
+ - 👉 [A 90s darling](http://9gag.com/gag/abA8xGb)<!-- MEMES:END -->
 
 ---
 

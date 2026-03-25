@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`And all your money won&#39;t another minute buy`.](http://9gag.com/gag/aD2vZyZ)
- - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
+ - 😝 [Alien technology](http://9gag.com/gag/aPAqexP)
+ - 😝 [Flickering](http://9gag.com/gag/aD2vVzO)
  - 💣 [It was just the wind](http://9gag.com/gag/apRMx1n)
- - 😝 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
+ - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
+ - 👉 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)<!-- MEMES:END -->
 
 ---
 

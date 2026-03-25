@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
- - 😝 [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)
- - 💣 [How is life bro?](http://9gag.com/gag/a7ox27q)
- - 😝 [I love a windy day](http://9gag.com/gag/a34O2x1)
- - 👉 [You are bad guy. But that doesn&#39;t mean you a BAD guy.](http://9gag.com/gag/abA8BLL)<!-- MEMES:END -->
+ - 😝 [Brutal](http://9gag.com/gag/a0e3EYB)
+ - 💣 [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)
+ - 😝 [How is life bro?](http://9gag.com/gag/a7ox27q)
+ - 👉 [I love a windy day](http://9gag.com/gag/a34O2x1)<!-- MEMES:END -->
 
 ---
 

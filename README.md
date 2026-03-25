@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: worsening supply constraints in CPUs made by Intel and AMD add a fresh blow to PC and server makers already hit by a severe memory chip shortage &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260325/p2#a260325p2)
+ - [Sources: China bars Manus co-founders Xiao Hong and Ji Yichao from leaving the country as it reviews whether Meta&#39;s $2B acquisition of Manus violates FDI rules &lpar;Financial Times&rpar;](http://www.techmeme.com/260325/p1#a260325p1)
+ - [Rover Promo Codes and Deals: Get Up to $50 This Month](https://www.wired.com/story/rover-promo-code/)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-25/)
- - [The Trump administration settles the 2022 Murthy v. Missouri case, preventing the Surgeon General, CDC, and CISA from pressuring social media to suppress speech &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/260324/p62#a260324p62)
- - [Filing: Meta offers top executives stock options for the first time since its 2012 IPO to retain talent, if it hits stock-price milestones in the coming years &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260324/p61#a260324p61)
- - [Amity, a Thailand-based startup that provides generative AI tools to businesses like retail and telecom, raised $100M in a Series D as it plans for a 2027 IPO &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260324/p60#a260324p60)
- - [Neal Stephenson says he no longer believes head-mounted displays are the future, citing public discomfort with the devices and a general distrust of the users &lpar;Neal Stephenson/Graphomane&rpar;](http://www.techmeme.com/260324/p59#a260324p59)<!-- TECH:END -->
+ - [The Trump administration settles the 2022 Murthy v. Missouri case, preventing the Surgeon General, CDC, and CISA from pressuring social media to suppress speech &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/260324/p62#a260324p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

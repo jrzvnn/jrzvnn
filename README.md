@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring finally brings 4K video to its battery-powered doorbell camera](https://www.theverge.com/tech/900270/ring-4k-battery-powered-video-doorbell-ai-price-release-date-specs)
- - [Notch, which is developing an OS designed for high-compliance sectors, raised a $30M Series A led by Headline, after pivoting from being a specialty insurer &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260325/p24#a260325p24)
- - [Keychron’s mechanical keyboards are up to 60 percent off](https://www.theverge.com/gadgets/899433/keychron-mechanical-keyboards-amazon-big-spring-sale-2026-deal)
- - [Elon Musk says X will &quot;pause&quot; new creator monetization rules that would base payouts on engagement from a user&#39;s local audience, after criticism from creators &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260325/p23#a260325p23)
- - [Developers finally get more App Store data from Apple](https://appleinsider.com/articles/26/03/25/developers-finally-get-more-app-store-data-from-apple?utm_source=rss)<!-- TECH:END -->
+ - [Charlotte-based Lucid Bots, which manufactures autonomous drones for cleaning windows, raised a $20M Series B co-led by Cubit and Idea Fund &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260325/p28#a260325p28)
+ - [Live-service games are such a mess even Fortnite is struggling](https://www.theverge.com/games/900389/live-service-games-mess-fortnite-layoffs)
+ - [Google Research details TurboQuant, a quantization algorithm to enable massive compression of LLMs and vector search engines without sacrificing accuracy &lpar;Google Research&rpar;](http://www.techmeme.com/260325/p27#a260325p27)
+ - [Senate Democrats are trying to ‘codify’ Anthropic&amp;#8217;s red lines on autonomous weapons and mass surveillance](https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance)
+ - [The Ex-CIA Agent Going Viral Asking for a Trump Pardon](https://www.wired.com/story/that-ex-cia-agent-in-all-your-feeds-is-after-a-pardon-from-donald-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

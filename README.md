@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3/25](http://9gag.com/gag/adBze3V)
- - 😝 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
- - 💣 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
+ - 😝 [Happy black history month](http://9gag.com/gag/agme4Kn)
+ - 😝 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)
+ - 💣 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
  - 😝 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
  - 👉 [Paint job tips](http://9gag.com/gag/agme2rq)<!-- MEMES:END -->
 

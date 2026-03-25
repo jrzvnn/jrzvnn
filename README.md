@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The portable Fanttik X9 Pro tire inflator is down to its best price in months](https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale)
+ - [Meta is laying off hundreds of employees as it pours money into AI](https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees)
+ - [Spotify is letting artists manually approve releases to combat AI fakes](https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones)
  - [Razer’s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM](https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram)
- - [The surprise hit Nex Playground is the latest console to get a price hike](https://www.theverge.com/entertainment/900856/nex-playground-price-hike)
- - [Source: Meta on Wednesday laid off around 700 employees in the Reality Labs unit, as well as some in recruiting, sales, and Facebook &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/260325/p39#a260325p39)
- - [Disney’s big bets on the metaverse and AI slop aren’t going so well](https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 26 #753](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-26-753/)<!-- TECH:END -->
+ - [The surprise hit Nex Playground is the latest console to get a price hike](https://www.theverge.com/entertainment/900856/nex-playground-price-hike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

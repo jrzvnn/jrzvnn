@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nine Apple TV shows nominated for UK&#39;s Bafta television awards](https://appleinsider.com/articles/26/03/25/nine-apple-tv-shows-nominated-for-uks-bafta-television-awards?utm_source=rss)
- - [Anthropic’s Claude Code gets ‘safer’ auto mode](https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode)
- - [The Best Digital Wall Calendar &lpar;2026&rpar;: Skylight, Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/)
- - [Memo: Mark Zuckerberg launches Meta Small Business, a company-wide priority to support entrepreneurship and drive AI use, led by Dina Powell McCormick and more &lpar;Axios&rpar;](http://www.techmeme.com/260325/p14#a260325p14)
- - [Q&amp;A with Arm CEO Rene Haas on changing Arm&#39;s culture, working with SoftBank, developing its Arm AGI CPU data center chip fabricated by TSMC, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/260325/p13#a260325p13)<!-- TECH:END -->
+ - [When Satellite Data Becomes a Weapon](https://www.wired.com/story/when-satellite-data-becomes-a-weapon/)
+ - [Apple rolls out mandatory UK age verification with iOS 26.4, requiring users to provide a credit card or ID, a first in Europe, after UK government pressure &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260325/p17#a260325p17)
+ - [Temu owner PDD reports Q4 revenue up 12% YoY to ~$18B and net profit down 11% YoY to ~$3.56B, below ~$4B est., as it seeks to retain merchants on its platform &lpar;Tracy Qu/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p16#a260325p16)
+ - [AI note taking startup Granola raised $125M led by Index Ventures at a $1.5B valuation, and plans Claude integrations and agentic AI features in the next year &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260325/p15#a260325p15)
+ - [We&#39;ve Been Tracking Our Favorite Deals Across the Amazon Big Spring Sale and There Are a Ton of Great Ones](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social media addiction trial: a Los Angeles jury finds Meta and YouTube were negligent and failed to warn users about the dangers of using their platforms &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260325/p34#a260325p34)
- - [The Comedy Club at the End of the Metaverse](https://www.wired.com/story/the-last-comedy-club-at-the-end-of-the-metaverse/)
- - [Save $100 On Our Favorite Soundbar and Subwoofer Combo](https://www.wired.com/story/jbl-bar500mk2-deal-326/)
- - [X tries to limit creator revenue for foreign influencers but Musk intervenes](https://www.theverge.com/tech/900535/x-creator-payouts-american-politics-elon-musk)
- - [The TSA is broken — is privatization next?](https://www.theverge.com/transportation/900510/airport-tsa-seurity-wait-privatization-trump-mullin)<!-- TECH:END -->
+ - [Can you monitor a situation without monitors? The Polymarket sports bar tried](https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket)
+ - [Google &amp; Meta found liable for social media addiction](https://appleinsider.com/articles/26/03/25/google-meta-found-liable-for-social-media-addiction?utm_source=rss)
+ - [The United States router ban, explained](https://www.theverge.com/tech/899906/fcc-router-ban-march-2026-explainer)
+ - [Meta and YouTube found negligent in landmark social media addiction case](https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision)
+ - [OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage](https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

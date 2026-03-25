@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The cheeks on this persimmon I picked last year.](https://www.reddit.com/r/funny/comments/1s33asm/the_cheeks_on_this_persimmon_i_picked_last_year/)
- - 😝 [In the end, it&#39;s not all about winning, it&#39;s about who you become.](http://9gag.com/gag/aoy7Lpg)
- - 💣 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
- - 😝 [How is life bro?](http://9gag.com/gag/a7ox27q)
- - 👉 [I love a windy day](http://9gag.com/gag/a34O2x1)<!-- MEMES:END -->
+ - 😝 [3/25](http://9gag.com/gag/adBze3V)
+ - 😝 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
+ - 💣 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
+ - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
 
 ---
 

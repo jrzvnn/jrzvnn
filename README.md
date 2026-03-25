@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How is life bro?](http://9gag.com/gag/a7ox27q)
- - 😝 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
- - 💣 [I love a windy day](http://9gag.com/gag/a34O2x1)
- - 😝 [Footage at the mall 40 years ago shows a different society](http://9gag.com/gag/avyjRNZ)
- - 👉 [He WAS his own bodyguard!](http://9gag.com/gag/aAy9270)<!-- MEMES:END -->
+ - 😝 [3/25](http://9gag.com/gag/adBze3V)
+ - 😝 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
+ - 😝 [But how about three?](http://9gag.com/gag/aYQ0PzO)
+ - 👉 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)<!-- MEMES:END -->
 
 ---
 

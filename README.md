@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still figuring it out at 33, no biggie](http://9gag.com/gag/amoZVn9)
- - 😝 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
- - 💣 [She&#39;s a keeper, protect her at all costs](http://9gag.com/gag/aQzj27z)
- - 😝 [He WAS his own bodyguard!](http://9gag.com/gag/aAy9270)
- - 👉 [Brutal](http://9gag.com/gag/a0e3EYB)<!-- MEMES:END -->
+ - 😝 [A 90s darling](http://9gag.com/gag/abA8xGb)
+ - 😝 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)
+ - 💣 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)
+ - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
+ - 👉 [Hear me out](http://9gag.com/gag/aQzjZ0z)<!-- MEMES:END -->
 
 ---
 

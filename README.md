@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A 90s darling](http://9gag.com/gag/abA8xGb)
- - 😝 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)
- - 💣 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)
- - 😝 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
- - 👉 [Paint job tips](http://9gag.com/gag/agme2rq)<!-- MEMES:END -->
+ - 😝 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
+ - 😝 [Hear me out](http://9gag.com/gag/aQzjZ0z)
+ - 💣 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)
+ - 😝 [Hello fellow 9gagers, I&#39;d like to brag that at the age of 38, I managed to leave the corporate world, overcome depression, and start a career as a self-employed carpenter. It can be tough, but I don&#39;t feel suicidal when I go to work.](http://9gag.com/gag/avyjdEq)
+ - 👉 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)<!-- MEMES:END -->
 
 ---
 

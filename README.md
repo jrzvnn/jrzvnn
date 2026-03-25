@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo says new first-party games exclusive to Switch 2 will have different prices for physical and digital versions in the US, beginning in May &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/260325/p38#a260325p38)
  - [ARC Prize Foundation unveils ARC-AGI-3, an AI benchmark with simple video-game-like scenarios designed to measure on-the-fly reasoning rather than memory recall &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/260325/p37#a260325p37)
- - [Google &amp; Meta found liable for social media addiction](https://appleinsider.com/articles/26/03/25/google-meta-found-liable-for-social-media-addiction?utm_source=rss)
- - [Woot is offering over 20 percent off Switch 2 controllers and games today](https://www.theverge.com/gadgets/900490/nintendo-switch-2-controllers-games-amazon-big-spring-sale-2026-deals)
- - [Reddit says it will label automated accounts that provide a service to users and will require accounts suspected of being bots to verify they are human &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260325/p36#a260325p36)
- - [There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos](https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/)<!-- TECH:END -->
+ - [New Harry Potter TV Series Trailer Reintroduces Hogwarts Magic for HBO](https://www.cnet.com/culture/entertainment/harry-potter-series-new-trailer/)
+ - [We&#39;ve Been Tracking Our Favorite Deals Across the Amazon Big Spring Sale and There Are a Ton of Great Ones](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
+ - [Nvidia&#39;s NemoClaw Adds Security and Privacy Features for AI Agents. Is It Enough?](https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

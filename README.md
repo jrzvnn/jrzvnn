@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young](https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/)
- - [Book excerpt: how Google acquired DeepMind for $650M in 2014, beating Facebook to the deal; Mustafa Suleyman used poker-style bluffing to secure a safety board &lpar;Sebastian Mallaby/Wall Street Journal&rpar;](http://www.techmeme.com/260326/p9#a260326p9)
- - [Sources: Google&#39;s top India counsel Bijoya Roy resigned after 16 months to start a new venture, a high-profile exit in a market where it faces regulatory issues &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/260326/p8#a260326p8)
- - [Pony AI reports 2025 revenue up 20% YoY to ~$90M, total annual losses down 72% YoY to ~$76.8M, and a $75.5M net income in Q4, its first profitable quarter ever &lpar;Bloomberg&rpar;](http://www.techmeme.com/260326/p7#a260326p7)
- - [Why ICE Is Allowed to Impersonate Law Enforcement](https://www.wired.com/story/why-ice-is-allowed-to-impersonate-law-enforcement/)<!-- TECH:END -->
+ - [As US lawmakers struggle to pass online safety laws, LA and New Mexico juries take the lead, holding social media companies accountable for harming young users &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260326/p15#a260326p15)
+ - [Meituan reports Q4 revenue up 4.1% YoY to ~$13.3B and a ~$2.2B adjusted net loss, vs. ~$1.9B est., amid an intense food delivery fight with Alibaba and JD.com &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260326/p14#a260326p14)
+ - [OpenAI puts plans for an erotic chatbot on hold &quot;indefinitely&quot; as it refocuses on its core products, sources say after concerns from staff and investors &lpar;Financial Times&rpar;](http://www.techmeme.com/260326/p13#a260326p13)
+ - [macOS 26.4 warning about potentially malicious Terminal commands](https://appleinsider.com/articles/26/03/26/macos-264-warning-about-potentially-malicious-terminal-commands?utm_source=rss)
+ - [This Groundbreaking Omega Watch’s Accuracy Is Calibrated Using Sound](https://www.wired.com/story/omega-constellation-observatory-watch-accuracy-is-calibrated-using-sound/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

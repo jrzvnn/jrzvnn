@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
+ - 😝 [Five guy fan](http://9gag.com/gag/aqyEzKQ)
  - 😝 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 💣 [Berlin, Berlin, wir fahren in Berlin](http://9gag.com/gag/ae9BWNv)
+ - 💣 [No way it was a woman](http://9gag.com/gag/a2vXLDw)
  - 😝 [Seriously, go back home!](http://9gag.com/gag/aqyEA9v)
- - 👉 [Paint job tips](http://9gag.com/gag/agme2rq)<!-- MEMES:END -->
+ - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
 
 ---
 

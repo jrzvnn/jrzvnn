@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Meta smartglasses-detecting app is a great model for Apple Glass developers to follow](https://appleinsider.com/articles/26/02/24/this-meta-smartglasses-detecting-app-is-a-great-model-for-apple-glass-developers-to-follow?utm_source=rss)
- - [Isara, which aims to build software that can coordinate the work of thousands of AI agents, raised $94M and says OpenAI backed the startup at a $650M valuation &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p44#a260325p44)
- - [Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever](https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel)
- - [Elgato Prompter XL review -- simply the teleprompter for Apple users to buy](https://appleinsider.com/articles/26/03/26/elgato-prompter-xl-review----simply-the-teleprompter-for-apple-users-to-buy?utm_source=rss)
- - [Melania Trump Escorted by Talking Humanoid Robot at White House Tech Summit](https://www.cnet.com/tech/first-lady-melania-trump-humanoid-robot-childrens-technology-educational-summit/)<!-- TECH:END -->
+ - [The US DOJ charged a Chinese national and two Americans for allegedly trying to smuggle ~$62M worth of export-controlled A100 and H100 Nvidia chips into China &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260325/p51#a260325p51)
+ - [Deccan AI, which supplies post-training data and evaluation work, raised a $25M Series A led by A91 Partners; most of its workforce of experts is based in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260325/p50#a260325p50)
+ - [Leaked memo: Meta&#39;s Reality Labs is reorganizing staff into AI-native &quot;pods&quot; focused on specific outcomes, flattening the organization&#39;s leadership structure &lpar;Charles Rollet/Business Insider&rpar;](http://www.techmeme.com/260325/p49#a260325p49)
+ - [Sources: Reflection AI, which is developing open foundation models, seeks to raise $2.5B at a pre-money valuation of $25B; JPMorgan is in talks to participate &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260325/p48#a260325p48)
+ - [How to use Playlist Playground to build Apple Music playlists in seconds](https://appleinsider.com/inside/apple-music/tips/how-to-use-playlist-playground-to-build-apple-music-playlists-in-seconds?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is Wednesday ma dudes](http://9gag.com/gag/avyjd0Z)
- - 😝 [99% destructive fire power, 1% hit rate.](http://9gag.com/gag/aryL246)
- - 💣 [Yeah...](http://9gag.com/gag/aRBpO15)
+ - 😝 [How many reps, yes](http://9gag.com/gag/apRMYNE)
+ - 😝 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
+ - 💣 [Val Kilmer\u2019s rapid-fire reload during the bank heist in Heat &lpar;1995&rpar; was so technically perfect that the footage was later used by Special Forces instructors as a training example for `proper magazine changes under fire.`](http://9gag.com/gag/aVv62q8)
  - 😝 [And just like that James Potter is not just a bully but also a Racist. Just like JKR always intended as seen in her first sketches and descriptions of Snape.](http://9gag.com/gag/axyrmqW)
- - 👉 [Scary movie](http://9gag.com/gag/a9yGONm)<!-- MEMES:END -->
+ - 👉 [Hear me out](http://9gag.com/gag/aQzjZ0z)<!-- MEMES:END -->
 
 ---
 

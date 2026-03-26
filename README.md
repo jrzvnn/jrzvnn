@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ charged a Chinese national and two Americans for allegedly trying to smuggle ~$62M worth of export-controlled A100 and H100 Nvidia chips into China &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260325/p51#a260325p51)
- - [Deccan AI, which supplies post-training data and evaluation work, raised a $25M Series A led by A91 Partners; most of its workforce of experts is based in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260325/p50#a260325p50)
- - [Leaked memo: Meta&#39;s Reality Labs is reorganizing staff into AI-native &quot;pods&quot; focused on specific outcomes, flattening the organization&#39;s leadership structure &lpar;Charles Rollet/Business Insider&rpar;](http://www.techmeme.com/260325/p49#a260325p49)
- - [Sources: Reflection AI, which is developing open foundation models, seeks to raise $2.5B at a pre-money valuation of $25B; JPMorgan is in talks to participate &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260325/p48#a260325p48)
- - [How to use Playlist Playground to build Apple Music playlists in seconds](https://appleinsider.com/inside/apple-music/tips/how-to-use-playlist-playground-to-build-apple-music-playlists-in-seconds?utm_source=rss)<!-- TECH:END -->
+ - [Back-to-back jury verdicts against Meta could spur a flood of litigation against social media companies and threaten to undermine Section 230 protections &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p1#a260326p1)
+ - [Therabody Promo Codes: 15% Off March 2026](https://www.wired.com/story/therabody-promo-code/)
+ - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
+ - [20% Squarespace Promo Codes | March 2026](https://www.wired.com/story/squarespace-promo-code/)
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

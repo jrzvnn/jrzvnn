@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to open up Siri to run any AI service via App Store apps in iOS 27, dropping ChatGPT as exclusive partner in Apple Intelligence and Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260326/p34#a260326p34)
- - [Apple&#39;s iPhone Fold might not ship alongside iPhone 18 Pro after all](https://appleinsider.com/articles/26/03/26/apples-iphone-fold-might-not-ship-alongside-iphone-18-pro-after-all?utm_source=rss)
- - [You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade](https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/)
- - [These 35 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History &lpar;2026&rpar;](https://www.wired.com/story/the-amazon-spring-sale-2026-1/)
- - [The China Computer Federation calls for a boycott of AI conference NeurIPS after organizers barred submissions from US-sanctioned companies like Huawei &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/260326/p33#a260326p33)<!-- TECH:END -->
+ - [Netflix raises US prices following a January 2025 hike; standard with ads rises $1 to $8.99/month; standard with no ads and premium rise $2 to $19.99 and $26.99 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260326/p38#a260326p38)
+ - [Amazon&#39;s Big Spring Sale delivers Apple deals from $14.99](https://appleinsider.com/articles/26/03/26/amazons-big-spring-sale-delivers-apple-deals-from-1499?utm_source=rss)
+ - [Sources: X let go of 20+ staffers in nontechnical roles ahead of a SpaceX IPO; X staff have been told to focus on growing revenue since xAI brought on a CRO &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p37#a260326p37)
+ - [Streaming keeps getting more expensive: all the latest price hikes](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)
+ - [We&#39;re Tracking Our Favorite Deals During the Amazon Big Spring Sale and There Are a Ton of Great Ones](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

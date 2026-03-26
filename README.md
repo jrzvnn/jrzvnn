@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Five guy fan](http://9gag.com/gag/aqyEzKQ)
- - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
- - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
- - 😝 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)
- - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
+ - 😝 [It is Wednesday ma dudes](http://9gag.com/gag/avyjd0Z)
+ - 😝 [99% destructive fire power, 1% hit rate.](http://9gag.com/gag/aryL246)
+ - 💣 [Yeah...](http://9gag.com/gag/aRBpO15)
+ - 😝 [And just like that James Potter is not just a bully but also a Racist. Just like JKR always intended as seen in her first sketches and descriptions of Snape.](http://9gag.com/gag/axyrmqW)
+ - 👉 [Scary movie](http://9gag.com/gag/a9yGONm)<!-- MEMES:END -->
 
 ---
 

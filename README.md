@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
- - 😝 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 💣 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
+ - 😝 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
+ - 😝 [100% true](http://9gag.com/gag/aQzjVPK)
+ - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
  - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
  - 👉 [Is it multicultural enough](http://9gag.com/gag/aNDbjqw)<!-- MEMES:END -->
 

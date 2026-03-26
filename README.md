@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)
- - 😝 [Hear me out](http://9gag.com/gag/aQzjZ0z)
- - 💣 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)
- - 😝 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)
- - 👉 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)<!-- MEMES:END -->
+ - 😝 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)
+ - 😝 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
+ - 💣 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
+ - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
+ - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
 
 ---
 

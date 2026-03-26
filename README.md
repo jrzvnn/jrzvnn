@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Defense tech startup Shield AI raised $2B at a $12.7B valuation, up from $5.3B after raising $240M in March 2025; half of its business is autonomous software &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260326/p19#a260326p19)
- - [Interviews with 37 Anduril sources detail safety concerns and project challenges at Anduril&#39;s manufacturing operations; Anduril calls the claims &quot;inaccurate&quot; &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260326/p18#a260326p18)
- - [Senators Demand to Know How Much Energy Data Centers Use](https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/)
- - [DJI’s Avata 360 is a more functional, flexible 360 drone](https://www.theverge.com/tech/899735/dji-avata-360-release-date-price-specs-impressions-antigravity-a1-comparison)
- - [OpenAI shelves erotic chatbot &amp;#8216;indefinitely&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely)<!-- TECH:END -->
+ - [Apple will spend $400 million more through 2030 to bring more manufacturing to the U.S.](https://appleinsider.com/articles/26/03/26/apple-will-spend-400-million-more-through-2030-to-bring-more-manufacturing-to-the-us?utm_source=rss)
+ - [Using a VPN May Subject You to NSA Spying](https://www.wired.com/story/using-a-vpn-may-subject-you-to-nsa-spying/)
+ - [Apple expands its American Manufacturing Program, bringing in Bosch, Cirrus Logic, TDK, and Qnity Electronics to make components in the US for sale worldwide &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/260326/p23#a260326p23)
+ - [The European Parliament votes to delay EU AI Act deadlines, including pushing compliance for high-risk AI systems back to December 2027, and to ban nudify apps &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260326/p22#a260326p22)
+ - [WhatsApp rolls out features and updates: an AI tool to suggest replies based on a user&#39;s conversations, the ability to touch up photos with Meta AI, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260326/p21#a260326p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

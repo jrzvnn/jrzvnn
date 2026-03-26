@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub says it will use Copilot interaction data, including inputs, outputs, and code snippets, to train its AI models starting April 24, unless users opt out &lpar;Corbin Davenport/How-To Geek&rpar;](http://www.techmeme.com/260325/p43#a260325p43)
- - [Google sets a 2029 deadline for its post-quantum cryptography migration, aiming to &quot;secure the quantum era&quot; as &quot;frontiers may be closer than they appear&quot; &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260325/p42#a260325p42)
- - [The Top Tech Deals Our Readers Are Shopping During Amazon&#39;s Big Spring Sale](https://www.cnet.com/deals/tech-deals-our-readers-are-eyeing-amazon-big-spring-sale/)
- - [McDonald&#39;s KPop Demon Hunter Meals Include Bright Purple Nugget Sauce](https://www.cnet.com/tech/services-and-software/mcdonalds-kpop-demon-hunter-meals-include-bright-purple-nugget-sauce/)
- - [The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale](https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
+ - [This Meta smartglasses-detecting app is a great model for Apple Glass developers to follow](https://appleinsider.com/articles/26/02/24/this-meta-smartglasses-detecting-app-is-a-great-model-for-apple-glass-developers-to-follow?utm_source=rss)
+ - [Isara, which aims to build software that can coordinate the work of thousands of AI agents, raised $94M and says OpenAI backed the startup at a $650M valuation &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p44#a260325p44)
+ - [Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever](https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel)
+ - [Elgato Prompter XL review -- simply the teleprompter for Apple users to buy](https://appleinsider.com/articles/26/03/26/elgato-prompter-xl-review----simply-the-teleprompter-for-apple-users-to-buy?utm_source=rss)
+ - [Melania Trump Escorted by Talking Humanoid Robot at White House Tech Summit](https://www.cnet.com/tech/first-lady-melania-trump-humanoid-robot-childrens-technology-educational-summit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

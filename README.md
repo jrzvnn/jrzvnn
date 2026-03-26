@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No way it was a woman](http://9gag.com/gag/a2vXLDw)
- - 😝 [Is it multicultural enough](http://9gag.com/gag/aNDbjqw)
- - 💣 [Five guy fan](http://9gag.com/gag/aqyEzKQ)
- - 😝 [Uploading my old 9gag collection 154](http://9gag.com/gag/aLnEr9V)
- - 👉 [She relaxed](http://9gag.com/gag/aVv6VyM)<!-- MEMES:END -->
+ - 😝 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
+ - 😝 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 💣 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
+ - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
+ - 👉 [Is it multicultural enough](http://9gag.com/gag/aNDbjqw)<!-- MEMES:END -->
 
 ---
 

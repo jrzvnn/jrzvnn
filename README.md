@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
  - 😝 [Five guy fan](http://9gag.com/gag/aqyEzKQ)
- - 💣 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)
- - 😝 [The legendary outlaw](http://9gag.com/gag/aD2vQx7)
- - 👉 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)<!-- MEMES:END -->
+ - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
+ - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
+ - 👉 [Hear me out](http://9gag.com/gag/aQzjZ0z)<!-- MEMES:END -->
 
 ---
 

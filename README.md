@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X limits X Pro access to subscribers of the $40/month Premium+ plan without notifying users in advance; it was previously available in the $8/month Premium plan &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260326/p41#a260326p41)
- - [Siri could support third-party AI tools in iOS 27 as Apple expands access](https://appleinsider.com/articles/26/03/26/siri-could-support-third-party-ai-tools-in-ios-27-as-apple-expands-access?utm_source=rss)
- - [Xona, which aims to build a commercial alternative to GPS by launching a low-Earth orbit satellite constellation, raised a $170M Series C &lpar;Sandra Erwin/SpaceNews&rpar;](http://www.techmeme.com/260326/p40#a260326p40)
- - [Your Netflix subscription is getting a price hike -- again](https://appleinsider.com/articles/26/03/26/your-netflix-subscription-is-getting-a-price-hike----again?utm_source=rss)
- - [April Ignites the Night: Two Meteor Showers Are On the Way, and Here&#39;s How to See Them](https://www.cnet.com/science/space/two-meteor-showers-are-coming-in-april/)<!-- TECH:END -->
+ - [In with a bang, out in silence -- the end of the Mac Pro](https://appleinsider.com/articles/26/03/26/in-with-a-bang-out-in-silence----the-end-of-the-mac-pro?utm_source=rss)
+ - [Apple discontinues the Mac Pro and says it has no plans to offer future Mac Pro hardware &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/260326/p43#a260326p43)
+ - [Sources: Apple granted out-of-cycle bonuses worth several hundred thousand dollars to iPhone hardware designers, as OpenAI and others poach its engineers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260326/p42#a260326p42)
+ - [Anker’s wireless charging pad offers Qi2 speeds for $15](https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal)
+ - [Apple’s AI Playlist Playground is bad at music](https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

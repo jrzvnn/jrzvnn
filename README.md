@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)
- - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
- - 💣 [Energy Drink Alternatives](http://9gag.com/gag/awypd31)
- - 😝 [The legendary outlaw](http://9gag.com/gag/aD2vQx7)
- - 👉 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)<!-- MEMES:END -->
+ - 😝 [Happy black history month](http://9gag.com/gag/agme4Kn)
+ - 😝 [Have you read and understood the terms of use?](http://9gag.com/gag/aXPOKAg)
+ - 💣 [Scary movie](http://9gag.com/gag/a9yGONm)
+ - 😝 [Y tho.](http://9gag.com/gag/aLnEXzg)
+ - 👉 [It is Wednesday ma dudes](http://9gag.com/gag/avyjd0Z)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hear me out](http://9gag.com/gag/aQzjZ0z)
- - 😝 [Five guy fan](http://9gag.com/gag/aqyEzKQ)
- - 💣 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 😝 [The legendary outlaw](http://9gag.com/gag/aD2vQx7)
- - 👉 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)<!-- MEMES:END -->
+ - 😝 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
+ - 😝 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
+ - 💣 [Berlin, Berlin, wir fahren in Berlin](http://9gag.com/gag/ae9BWNv)
+ - 😝 [Seriously, go back home!](http://9gag.com/gag/aqyEA9v)
+ - 👉 [Paint job tips](http://9gag.com/gag/agme2rq)<!-- MEMES:END -->
 
 ---
 

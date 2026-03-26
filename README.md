@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone hardware engineers allegedly get bonuses as Apple tries to prevent poaching](https://appleinsider.com/articles/26/03/26/iphone-hardware-engineers-allegedly-get-bonuses-as-apple-tries-to-prevent-poaching?utm_source=rss)
- - [Google releases new tools for its Gemini AI assistant that let users upload chat history and context from other AI apps, making it easier to switch from them &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260326/p44#a260326p44)
- - [Google is making it easier to import another AI’s memory into Gemini](https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history)
- - [How Trump’s Plot to Grab Iran&#39;s Nuclear Fuel Would Actually Work](https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/)
- - [Apple will reportedly allow other AI chatbots to plug into Siri](https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27)<!-- TECH:END -->
+ - [Sources: Anthropic executives have discussed an IPO as soon as Q4, and bankers vying to take the company public expect it to raise more than $60B &lpar;The Information&rpar;](http://www.techmeme.com/260326/p46#a260326p46)
+ - [Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale](https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals)
+ - [Apple’s Mac Pro is dead, apparently for good this time](https://www.theverge.com/tech/902050/mac-pro-discontinued)
+ - [Senators Elizabeth Warren and Josh Hawley Push for Data Center Energy Transparency](https://www.cnet.com/tech/services-and-software/senators-warren-hawley-push-data-center-energy-transparency/)
+ - [Hide My Email is great for battling surveillance capitalism, not the FBI](https://appleinsider.com/articles/26/03/26/hide-my-email-is-great-for-battling-surveillance-capitalism-not-the-fbi?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

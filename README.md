@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My brief, weird time with the Samsung TriFold](https://www.theverge.com/tech/901525/samsung-galaxy-z-trifold-hands-on-singapore-rom)
- - [This Premium Gaming Headset Is $80 Off on Amazon](https://www.wired.com/story/steelseries-arctis-nova-pro-deal-326/)
- - [Meta stock falls 6%+ to a 10-month low after juries in two US trials found the company failed to adequately warn or protect young users &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/260326/p31#a260326p31)
- - [iPhone Dynamic Island isn&#39;t going away yet, but its days are numbered](https://appleinsider.com/articles/26/03/26/iphone-dynamic-island-isnt-going-away-yet-but-its-days-are-numbered?utm_source=rss)
- - [Govee’s color-changing smart lamps are on sale for up to 30 percent off](https://www.theverge.com/gadgets/901580/govee-rgb-table-lamp-2-pro-speaker-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
+ - [Sources: Apple plans to open up Siri to run any AI service via App Store apps in iOS 27, dropping ChatGPT as exclusive partner in Apple Intelligence and Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260326/p34#a260326p34)
+ - [Apple&#39;s iPhone Fold might not ship alongside iPhone 18 Pro after all](https://appleinsider.com/articles/26/03/26/apples-iphone-fold-might-not-ship-alongside-iphone-18-pro-after-all?utm_source=rss)
+ - [You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade](https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/)
+ - [These 35 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History &lpar;2026&rpar;](https://www.wired.com/story/the-amazon-spring-sale-2026-1/)
+ - [The China Computer Federation calls for a boycott of AI conference NeurIPS after organizers barred submissions from US-sanctioned companies like Huawei &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/260326/p33#a260326p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FCC opens a comment period for a proposal to help return outsourced call center jobs to the US; critics say the plan could drive companies to automation &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260326/p29#a260326p29)
- - [ByteDance launches its Dreamina Seedance 2.0 audio and video model in its CapCut editing platform, supporting clips up to 15 seconds across six aspect ratios &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260326/p28#a260326p28)
- - [A US federal judge dismisses X&#39;s antitrust lawsuit that accused the World Federation of Advertisers and a group of major companies of illegally boycotting X &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/260326/p27#a260326p27)
- - [Google launches Gemini 3.1 Flash Live, an audio model with improved tonal understanding and lower latency for real-time dialogue, watermarked with SynthID &lpar;Valeria Wu/The Keyword&rpar;](http://www.techmeme.com/260326/p26#a260326p26)
- - [Other than Apple-1, other world-changing inventions launched in 1976](https://appleinsider.com/articles/26/03/26/other-than-apple-1-other-world-changing-inventions-launched-in-1976?utm_source=rss)<!-- TECH:END -->
+ - [My brief, weird time with the Samsung TriFold](https://www.theverge.com/tech/901525/samsung-galaxy-z-trifold-hands-on-singapore-rom)
+ - [This Premium Gaming Headset Is $80 Off on Amazon](https://www.wired.com/story/steelseries-arctis-nova-pro-deal-326/)
+ - [Meta stock falls 6%+ to a 10-month low after juries in two US trials found the company failed to adequately warn or protect young users &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/260326/p31#a260326p31)
+ - [iPhone Dynamic Island isn&#39;t going away yet, but its days are numbered](https://appleinsider.com/articles/26/03/26/iphone-dynamic-island-isnt-going-away-yet-but-its-days-are-numbered?utm_source=rss)
+ - [Govee’s color-changing smart lamps are on sale for up to 30 percent off](https://www.theverge.com/gadgets/901580/govee-rgb-table-lamp-2-pro-speaker-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

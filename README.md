@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to increase its investment in a data center in El Paso, Texas, to more than $10B, a significant rise from the initial $1.5B commitment &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/260326/p39#a260326p39)
- - [Netflix raises US prices following a January 2025 hike; standard with ads rises $1 to $8.99/month; standard with no ads and premium rise $2 to $19.99 and $26.99 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260326/p38#a260326p38)
- - [Amazon&#39;s Big Spring Sale delivers Apple deals from $14.99](https://appleinsider.com/articles/26/03/26/amazons-big-spring-sale-delivers-apple-deals-from-1499?utm_source=rss)
- - [Sources: X let go of 20+ staffers in nontechnical roles ahead of a SpaceX IPO; X staff have been told to focus on growing revenue since xAI brought on a CRO &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p37#a260326p37)
- - [Streaming keeps getting more expensive: all the latest price hikes](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)<!-- TECH:END -->
+ - [X limits X Pro access to subscribers of the $40/month Premium+ plan without notifying users in advance; it was previously available in the $8/month Premium plan &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260326/p41#a260326p41)
+ - [Siri could support third-party AI tools in iOS 27 as Apple expands access](https://appleinsider.com/articles/26/03/26/siri-could-support-third-party-ai-tools-in-ios-27-as-apple-expands-access?utm_source=rss)
+ - [Xona, which aims to build a commercial alternative to GPS by launching a low-Earth orbit satellite constellation, raised a $170M Series C &lpar;Sandra Erwin/SpaceNews&rpar;](http://www.techmeme.com/260326/p40#a260326p40)
+ - [Your Netflix subscription is getting a price hike -- again](https://appleinsider.com/articles/26/03/26/your-netflix-subscription-is-getting-a-price-hike----again?utm_source=rss)
+ - [April Ignites the Night: Two Meteor Showers Are On the Way, and Here&#39;s How to See Them](https://www.cnet.com/science/space/two-meteor-showers-are-coming-in-april/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

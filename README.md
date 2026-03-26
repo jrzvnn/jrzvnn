@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No way it was a woman](http://9gag.com/gag/a2vXLDw)
- - 😝 [Five guy fan](http://9gag.com/gag/aqyEzKQ)
- - 💣 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)
- - 😝 [The legendary outlaw](http://9gag.com/gag/aD2vQx7)
- - 👉 [Is it multicultural enough](http://9gag.com/gag/aNDbjqw)<!-- MEMES:END -->
+ - 😝 [Is it multicultural enough](http://9gag.com/gag/aNDbjqw)
+ - 💣 [Five guy fan](http://9gag.com/gag/aqyEzKQ)
+ - 😝 [Uploading my old 9gag collection 154](http://9gag.com/gag/aLnEr9V)
+ - 👉 [She relaxed](http://9gag.com/gag/aVv6VyM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
  - 😝 [Five guy fan](http://9gag.com/gag/aqyEzKQ)
+ - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
  - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
- - 😝 [Paint job tips](http://9gag.com/gag/agme2rq)
- - 👉 [Hear me out](http://9gag.com/gag/aQzjZ0z)<!-- MEMES:END -->
+ - 😝 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)
+ - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
 
 ---
 

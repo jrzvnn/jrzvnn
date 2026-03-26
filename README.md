@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an interview, David Sacks says he has relinquished his role as AI and crypto czar after using up his time as a special government employee &lpar;Bloomberg&rpar;](http://www.techmeme.com/260326/p47#a260326p47)
  - [Sources: Anthropic executives have discussed an IPO as soon as Q4, and bankers vying to take the company public expect it to raise more than $60B &lpar;The Information&rpar;](http://www.techmeme.com/260326/p46#a260326p46)
  - [Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale](https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals)
  - [Apple’s Mac Pro is dead, apparently for good this time](https://www.theverge.com/tech/902050/mac-pro-discontinued)
- - [Senators Elizabeth Warren and Josh Hawley Push for Data Center Energy Transparency](https://www.cnet.com/tech/services-and-software/senators-warren-hawley-push-data-center-energy-transparency/)
- - [Hide My Email is great for battling surveillance capitalism, not the FBI](https://appleinsider.com/articles/26/03/26/hide-my-email-is-great-for-battling-surveillance-capitalism-not-the-fbi?utm_source=rss)<!-- TECH:END -->
+ - [Senators Elizabeth Warren and Josh Hawley Push for Data Center Energy Transparency](https://www.cnet.com/tech/services-and-software/senators-warren-hawley-push-data-center-energy-transparency/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

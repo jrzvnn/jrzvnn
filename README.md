@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Theia, a satellite imaging startup that raised $250M+ by 2020, collapsed after the founder and four other execs were indicted on federal fraud charges &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/260326/p2#a260326p2)
  - [Back-to-back jury verdicts against Meta could spur a flood of litigation against social media companies and threaten to undermine Section 230 protections &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p1#a260326p1)
  - [Therabody Promo Codes: 15% Off March 2026](https://www.wired.com/story/therabody-promo-code/)
  - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
- - [20% Squarespace Promo Codes | March 2026](https://www.wired.com/story/squarespace-promo-code/)
- - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)<!-- TECH:END -->
+ - [20% Squarespace Promo Codes | March 2026](https://www.wired.com/story/squarespace-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

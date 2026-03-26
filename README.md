@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As US lawmakers struggle to pass online safety laws, LA and New Mexico juries take the lead, holding social media companies accountable for harming young users &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260326/p15#a260326p15)
- - [Meituan reports Q4 revenue up 4.1% YoY to ~$13.3B and a ~$2.2B adjusted net loss, vs. ~$1.9B est., amid an intense food delivery fight with Alibaba and JD.com &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260326/p14#a260326p14)
- - [OpenAI puts plans for an erotic chatbot on hold &quot;indefinitely&quot; as it refocuses on its core products, sources say after concerns from staff and investors &lpar;Financial Times&rpar;](http://www.techmeme.com/260326/p13#a260326p13)
- - [macOS 26.4 warning about potentially malicious Terminal commands](https://appleinsider.com/articles/26/03/26/macos-264-warning-about-potentially-malicious-terminal-commands?utm_source=rss)
- - [This Groundbreaking Omega Watch’s Accuracy Is Calibrated Using Sound](https://www.wired.com/story/omega-constellation-observatory-watch-accuracy-is-calibrated-using-sound/)<!-- TECH:END -->
+ - [Defense tech startup Shield AI raised $2B at a $12.7B valuation, up from $5.3B after raising $240M in March 2025; half of its business is autonomous software &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260326/p19#a260326p19)
+ - [Interviews with 37 Anduril sources detail safety concerns and project challenges at Anduril&#39;s manufacturing operations; Anduril calls the claims &quot;inaccurate&quot; &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260326/p18#a260326p18)
+ - [Senators Demand to Know How Much Energy Data Centers Use](https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/)
+ - [DJI’s Avata 360 is a more functional, flexible 360 drone](https://www.theverge.com/tech/899735/dji-avata-360-release-date-price-specs-impressions-antigravity-a1-comparison)
+ - [OpenAI shelves erotic chatbot &amp;#8216;indefinitely&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

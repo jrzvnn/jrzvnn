@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Saatva HD Mattress Review: A Solution for Heavy-Bodied Sleepers](https://www.wired.com/review/saatva-hd-mattress/)
+ - [The Government’s Shittiest Website](https://www.wired.com/story/the-governments-shittiest-website/)
+ - [An oral history of Apple&#39;s earliest days told by people who lived it, including Steve Wozniak, Ronald Wayne, Mike Markkula, and Liza Loop, as Apple turns 50 &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/260326/p4#a260326p4)
  - [The $6M LA social media verdict is a win for the plaintiffs bar, not kids or society; parenting helps limit such harms, and most kids don&#39;t face severe issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p3#a260326p3)
- - [Uber aims to launch Europe’s first robotaxi service with Pony AI and Verne](https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe)
- - [How Theia, a satellite imaging startup that raised $250M+ by 2020, collapsed after the US indicted its founder and four other execs on federal fraud charges &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/260326/p2#a260326p2)
- - [Back-to-back jury verdicts against Meta could spur a flood of litigation against social media companies and threaten to undermine Section 230 protections &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p1#a260326p1)
- - [Therabody Promo Codes: 15% Off March 2026](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
+ - [Uber aims to launch Europe’s first robotaxi service with Pony AI and Verne](https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

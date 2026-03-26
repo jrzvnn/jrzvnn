@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In with a bang, out in silence -- the end of the Mac Pro](https://appleinsider.com/articles/26/03/26/in-with-a-bang-out-in-silence----the-end-of-the-mac-pro?utm_source=rss)
- - [Apple discontinues the Mac Pro and says it has no plans to offer future Mac Pro hardware &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/260326/p43#a260326p43)
- - [Sources: Apple granted out-of-cycle bonuses worth several hundred thousand dollars to iPhone hardware designers, as OpenAI and others poach its engineers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260326/p42#a260326p42)
- - [Anker’s wireless charging pad offers Qi2 speeds for $15](https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal)
- - [Apple’s AI Playlist Playground is bad at music](https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music)<!-- TECH:END -->
+ - [Google releases new tools for its Gemini AI assistant that let users upload chat history and context from other AI apps, making it easier to switch from them &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260326/p44#a260326p44)
+ - [Google is making it easier to import another AI’s memory into Gemini](https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history)
+ - [How Trump’s Plot to Grab Iran&#39;s Nuclear Fuel Would Actually Work](https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/)
+ - [Apple will reportedly allow other AI chatbots to plug into Siri](https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27)
+ - [In with a bang, out in silence -- the end of the Mac Pro](https://appleinsider.com/articles/26/03/26/in-with-a-bang-out-in-silence----the-end-of-the-mac-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

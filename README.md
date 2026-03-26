@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
- - [Apple&#39;s 50th: London celebrates &amp; Sydney Opera House is lit with iPad art](https://appleinsider.com/articles/26/03/26/apples-50th-london-celebrates-sydney-opera-house-is-lit-with-ipad-art?utm_source=rss)
- - [Cents, which makes operating and payments software for laundromats, raised a $110M Series C, following a $40M Series B in 2024 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260326/p24#a260326p24)
- - [Senators are pushing to find out how much electricity data centers actually use](https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers)
- - [The Sony Afeela Was Doomed to Fail](https://www.wired.com/story/sony-afeela-was-doomed-to-fail/)<!-- TECH:END -->
+ - [The US FCC opens a comment period for a proposal to help return outsourced call center jobs to the US; critics say the plan could drive companies to automation &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260326/p29#a260326p29)
+ - [ByteDance launches its Dreamina Seedance 2.0 audio and video model in its CapCut editing platform, supporting clips up to 15 seconds across six aspect ratios &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260326/p28#a260326p28)
+ - [A US federal judge dismisses X&#39;s antitrust lawsuit that accused the World Federation of Advertisers and a group of major companies of illegally boycotting X &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/260326/p27#a260326p27)
+ - [Google launches Gemini 3.1 Flash Live, an audio model with improved tonal understanding and lower latency for real-time dialogue, watermarked with SynthID &lpar;Valeria Wu/The Keyword&rpar;](http://www.techmeme.com/260326/p26#a260326p26)
+ - [Other than Apple-1, other world-changing inventions launched in 1976](https://appleinsider.com/articles/26/03/26/other-than-apple-1-other-world-changing-inventions-launched-in-1976?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

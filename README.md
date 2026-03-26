@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Theia, a satellite imaging startup that raised $250M+ by 2020, collapsed after the founder and four other execs were indicted on federal fraud charges &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/260326/p2#a260326p2)
+ - [The $6M LA social media verdict is a win for the plaintiffs bar, not kids or society; parenting helps limit such harms, and most kids don&#39;t face severe issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p3#a260326p3)
+ - [Uber aims to launch Europe’s first robotaxi service with Pony AI and Verne](https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe)
+ - [How Theia, a satellite imaging startup that raised $250M+ by 2020, collapsed after the US indicted its founder and four other execs on federal fraud charges &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/260326/p2#a260326p2)
  - [Back-to-back jury verdicts against Meta could spur a flood of litigation against social media companies and threaten to undermine Section 230 protections &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p1#a260326p1)
- - [Therabody Promo Codes: 15% Off March 2026](https://www.wired.com/story/therabody-promo-code/)
- - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
- - [20% Squarespace Promo Codes | March 2026](https://www.wired.com/story/squarespace-promo-code/)<!-- TECH:END -->
+ - [Therabody Promo Codes: 15% Off March 2026](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will spend $400 million more through 2030 to bring more manufacturing to the U.S.](https://appleinsider.com/articles/26/03/26/apple-will-spend-400-million-more-through-2030-to-bring-more-manufacturing-to-the-us?utm_source=rss)
- - [Using a VPN May Subject You to NSA Spying](https://www.wired.com/story/using-a-vpn-may-subject-you-to-nsa-spying/)
- - [Apple expands its American Manufacturing Program, bringing in Bosch, Cirrus Logic, TDK, and Qnity Electronics to make components in the US for sale worldwide &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/260326/p23#a260326p23)
- - [The European Parliament votes to delay EU AI Act deadlines, including pushing compliance for high-risk AI systems back to December 2027, and to ban nudify apps &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260326/p22#a260326p22)
- - [WhatsApp rolls out features and updates: an AI tool to suggest replies based on a user&#39;s conversations, the ability to touch up photos with Meta AI, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260326/p21#a260326p21)<!-- TECH:END -->
+ - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
+ - [Apple&#39;s 50th: London celebrates &amp; Sydney Opera House is lit with iPad art](https://appleinsider.com/articles/26/03/26/apples-50th-london-celebrates-sydney-opera-house-is-lit-with-ipad-art?utm_source=rss)
+ - [Cents, which makes operating and payments software for laundromats, raised a $110M Series C, following a $40M Series B in 2024 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260326/p24#a260326p24)
+ - [Senators are pushing to find out how much electricity data centers actually use](https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers)
+ - [The Sony Afeela Was Doomed to Fail](https://www.wired.com/story/sony-afeela-was-doomed-to-fail/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

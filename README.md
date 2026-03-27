@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New AirPods Max 2 drop to $529 with this weekend&#39;s best preorder deal](https://appleinsider.com/articles/26/03/27/new-airpods-max-2-drop-to-529-with-this-weekends-best-preorder-deal?utm_source=rss)
- - [China&#39;s broadening Manus review raises doubts about the &quot;Singapore-washing&quot; model; sources: Meta moved 100+ Manus employees to Singapore in early March &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/260327/p14#a260327p14)
- - [This Premium Sennheiser Soundbar Is $1,000 Off](https://www.wired.com/story/sennheiser-ambeo-max-deal-326/)
- - [Microsoft will lease Crusoe&#39;s 900 MW data center in Abilene, Texas, after Oracle and OpenAI reportedly withdrew, with the first building expected by mid-2027 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260327/p13#a260327p13)
- - [Snag AMC Plus, MGM Plus or Starz for $3 Per Month on the Roku Channel](https://www.cnet.com/deals/snag-amc-plus-mgm-plus-or-starz-for-3-per-month-on-the-roku-channel/)<!-- TECH:END -->
+ - [The FBI confirms Iran-linked Handala breached Kash Patel&#39;s personal email but says the data accessed was &quot;historical in nature&quot; and involves no government info &lpar;TechCrunch&rpar;](http://www.techmeme.com/260327/p16#a260327p16)
+ - [The latest in data centers, AI, and energy](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)
+ - [Anker’s 160W Prime Charger can power three devices at once, and it&amp;#8217;s $50 off](https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal)
+ - [Sources: Google nears a deal to help finance Nexus Data Centers&#39; Texas campus that is leased to Anthropic, as Google deepens its partnership with the AI startup &lpar;Financial Times&rpar;](http://www.techmeme.com/260327/p15#a260327p15)
+ - [I Didn&#39;t Want a Harry Potter Reboot, but the New Trailer Has Me Under Its Spell](https://www.cnet.com/tech/home-entertainment/harry-potter-tv-reboot-commentary/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

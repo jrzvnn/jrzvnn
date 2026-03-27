@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out its Veo video model globally within Google Ads, allowing advertisers to create 10-second videos for YouTube from up to three static images &lpar;Anu Adegbola/Search Engine Land&rpar;](http://www.techmeme.com/260327/p28#a260327p28)
+ - [NeurIPS reverses a policy change that would have banned papers from researchers at any entity under US sanctions, after backlash from Chinese researchers &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260327/p27#a260327p27)
  - [Sony Japan temporarily suspends fulfillment of orders for nearly all of its CFexpress and SD memory card product lines due to solid state memory shortages &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/260327/p26#a260327p26)
  - [IPL Cricket 2026 Livestream: How to Watch the Indian Premier League From Anywhere](https://www.cnet.com/tech/services-and-software/ipl-cricket-2026-livestream-how-to-watch-the-indian-premier-league-from-anywhere/)
- - [Sources: Meta plans to debut two Ray-Ban smart glasses models next week intended for prescription wearers, to be sold mainly via prescription eyewear channels &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260327/p25#a260327p25)
- - [Sony temporarily suspends memory card sales due to shortages](https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage)
- - [Anthropic adjusts Claude session limits and says users will use up their limits faster during peak hours, amid compute strain due to Claude&#39;s new popularity &lpar;Brent D. Griffiths/Business Insider&rpar;](http://www.techmeme.com/260327/p24#a260327p24)<!-- TECH:END -->
+ - [Sources: Meta plans to debut two Ray-Ban smart glasses models next week intended for prescription wearers, to be sold mainly via prescription eyewear channels &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260327/p25#a260327p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

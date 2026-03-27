@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
  - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
- - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 😝 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
- - 👉 [Time to Reset Your Pelvis Folks](http://9gag.com/gag/aNDbj5A)<!-- MEMES:END -->
+ - 😝 [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)
+ - 💣 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
+ - 😝 [Don&#39;t know how to crop ...](http://9gag.com/gag/abA8dBb)
+ - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
 
 ---
 

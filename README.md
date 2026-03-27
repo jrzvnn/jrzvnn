@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What?](http://9gag.com/gag/aQzjVVq)
+ - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
+ - 💣 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
  - 😝 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)
- - 😝 [I nominate for new Queen, let&#39;s make it fappen](http://9gag.com/gag/aoy7nZX)
- - 💣 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
- - 😝 [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)
- - 👉 [Time to Reset Your Pelvis Folks](http://9gag.com/gag/aNDbj5A)<!-- MEMES:END -->
+ - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
 
 ---
 

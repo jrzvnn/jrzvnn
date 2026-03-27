@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Still Plans to Sell iPhones When It Turns 100](https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/)
- - [We picked the 24 best Big Spring Sale deals that are under $50](https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026)
- - [Sources: Aetherflux, founded by Robinhood co-founder Baiju Bhatt to develop orbital data centers, aims to raise $250M to $300M in a Series B at a $2B valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260327/p10#a260327p10)
- - [Motorola’s Razr Ultra 2026 might be a hair thicker than last year’s version](https://www.theverge.com/gadgets/902300/motorola-razr-ultra-2026-dimensions-leaked)
- - [Returning from a humanitarian aid trip to Cuba, Americans have phones seized at US airport](https://www.theverge.com/policy/902284/cuba-aid-convoy-phones-seized-cbp-nuestra-america)<!-- TECH:END -->
+ - [Apple claims a 100% protection rate with iPhone Lockdown Mode](https://appleinsider.com/articles/26/03/27/apple-claims-a-100-protection-rate-with-iphone-lockdown-mode?utm_source=rss)
+ - [Iran-linked hacker group Handala Hack Team claims the breach of FBI Director Kash Patel&#39;s personal email and publishes some documents online &lpar;Reuters&rpar;](http://www.techmeme.com/260327/p12#a260327p12)
+ - [Anime streaming service Crunchyroll is now available in Apple TV channels](https://appleinsider.com/articles/26/03/27/anime-streaming-service-crunchyroll-is-now-available-in-the-apple-tv-app-as-a-channel?utm_source=rss)
+ - [Meta agrees to fund Entergy Louisiana&#39;s new energy infrastructure for its Louisiana data center, including seven natural gas power plants &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/260327/p11#a260327p11)
+ - [This modular crafting machine can create custom shirts, phone cases, and molds](https://www.theverge.com/tech/902369/xtool-wonderpress-heat-press-vacuum-former-oven-crafting-preorder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

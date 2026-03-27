@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House has an app now, and Trump wants you to report people to ICE on it](https://www.theverge.com/tech/902703/white-house-app-iphone-android)
- - [Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s](https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/)
- - [Wait, the Trump phone might actually exist](https://www.theverge.com/tech/902399/trump-phone-mobile-t1-fcc-certification-authorization)
- - [Filing: Kalshi has secured a license allowing it to offer margin trading to users, which would make the platform more appealing to institutional investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/260327/p18#a260327p18)
- - [A Trio of Stars: The Spring Triangle Is Visible All Spring. Here&#39;s How to See It](https://www.cnet.com/science/space/a-trio-of-stars-the-spring-triangle-is-visible-all-spring-and-heres-how-to-see-it/)<!-- TECH:END -->
+ - [The Best Office Chair Is $50 Cheaper Than We&#39;ve Seen Before](https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/)
+ - [10 Things You Can Do While Waiting in the TSA Line](https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/)
+ - [Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off](https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal)
+ - [US memory chip stocks lost ~$100B in market value this week, led by Micron&#39;s 15% drop, after Google Research detailed its TurboQuant compression algorithm &lpar;Financial Times&rpar;](http://www.techmeme.com/260327/p19#a260327p19)
+ - [The White House has an app now, and Trump wants you to report people to ICE on it](https://www.theverge.com/tech/902703/white-house-app-iphone-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

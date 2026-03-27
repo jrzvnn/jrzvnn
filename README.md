@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I nominate for new Queen, let&#39;s make it fappen](http://9gag.com/gag/aoy7nZX)
- - 😝 [What?](http://9gag.com/gag/aQzjVVq)
- - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 😝 [Hexagons are the Bestagons](http://9gag.com/gag/aXPOd6D)
- - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
+ - 😝 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)
+ - 😝 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
+ - 💣 [What?](http://9gag.com/gag/aQzjVVq)
+ - 😝 [Time to Reset Your Pelvis Folks](http://9gag.com/gag/aNDbj5A)
+ - 👉 [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)<!-- MEMES:END -->
 
 ---
 

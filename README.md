@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta plans to debut two Ray-Ban smart glasses models next week intended for prescription wearers, to be sold mainly via prescription eyewear channels &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260327/p25#a260327p25)
  - [Sony temporarily suspends memory card sales due to shortages](https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage)
  - [Anthropic adjusts Claude session limits and says users will use up their limits faster during peak hours, amid compute strain due to Claude&#39;s new popularity &lpar;Brent D. Griffiths/Business Insider&rpar;](http://www.techmeme.com/260327/p24#a260327p24)
  - [Toronto-based quantum computing company Xanadu&#39;s stock closed up 15% in its trading debut on Nasdaq; it also began trading on the Toronto Stock Exchange &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/260327/p23#a260327p23)
- - [Sources: Physical Intelligence, which is developing AI models for robotics, is discussing a new funding round of about $1B that would value it at $11B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260327/p22#a260327p22)
- - [AI Research Is Getting Harder to Separate From Geopolitics](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/)<!-- TECH:END -->
+ - [Sources: Physical Intelligence, which is developing AI models for robotics, is discussing a new funding round of about $1B that would value it at $11B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260327/p22#a260327p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

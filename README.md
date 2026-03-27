@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best External Hard Drive &lpar;2026&rpar;: SSD to Store Data, Video, and More](https://www.wired.com/story/best-portable-external-storage-drives/)
- - [One Way or Another, Most of Our Electricity Comes From Solar Power](https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/)
- - [A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them](https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/)
- - [Apple at 50: John Sculley, Apple&#39;s most maligned CEO](https://appleinsider.com/articles/26/03/27/apple-at-50-john-sculley-apples-most-maligned-ceo?utm_source=rss)
- - [SoftBank says it has secured a $40B bridge loan maturing in 2027 from JPMorgan Chase, Goldman Sachs, and other banks, to fund further investment in OpenAI &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/260327/p5#a260327p5)<!-- TECH:END -->
+ - [WWDC, Apple Music Genius, and ads in Apple Maps, on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/27/wwdc-apple-music-genius-and-ads-in-apple-maps-on-the-appleinsider-podcast?utm_source=rss)
+ - [Sony says it plans to raise the price of its PlayStation 5 consoles globally beginning on April 2; the PS5 will cost $650, PS5 Digital $600, and PS5 Pro $900 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260327/p7#a260327p7)
+ - [Studio Display XDR review: An almost pixel perfect monitor for creative pros](https://appleinsider.com/articles/26/03/27/studio-display-xdr-review-an-almost-pixel-perfect-monitor-for-creative-pros?utm_source=rss)
+ - [Sony is raising PS5 prices by $100 in April](https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike)
+ - [All iPhone 18 models will get a smaller Dynamic Island, says optimistic leak](https://appleinsider.com/articles/26/03/27/all-iphone-18-models-will-get-a-smaller-dynamic-island-says-optimistic-leak?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

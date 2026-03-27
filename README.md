@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
- - 😝 [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)
- - 💣 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - 😝 [Just this time i say good job google](http://9gag.com/gag/avyjDEd)
- - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
+ - 😝 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)
+ - 😝 [Uploading my old 9gag collection 154](http://9gag.com/gag/aLnEr9V)
+ - 💣 [Fat trash panda](http://9gag.com/gag/aRBpDyG)
+ - 😝 [I saw what you did here...](http://9gag.com/gag/adBzbZV)
+ - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
 
 ---
 

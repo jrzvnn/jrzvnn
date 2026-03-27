@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)
- - 😝 [Characters development](http://9gag.com/gag/aAy9ZnE)
- - 💣 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
- - 😝 [Remember MTV?](http://9gag.com/gag/axyrAmn)
- - 👉 [I saw what you did here...](http://9gag.com/gag/adBzbZV)<!-- MEMES:END -->
+ - 😝 [What?](http://9gag.com/gag/aQzjVVq)
+ - 😝 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 💣 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
+ - 😝 [Hexagons are the Bestagons](http://9gag.com/gag/aXPOd6D)
+ - 👉 [Time to Reset Your Pelvis Folks](http://9gag.com/gag/aNDbj5A)<!-- MEMES:END -->
 
 ---
 

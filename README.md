@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)
- - 😝 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
- - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
  - 😝 [100% true](http://9gag.com/gag/aQzjVPK)
+ - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 😝 [One more year of life, I know that you are not happy, but I am.](http://9gag.com/gag/aO8WGZR)
  - 👉 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)<!-- MEMES:END -->
 
 ---

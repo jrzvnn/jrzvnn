@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brendan Carr says his broadcast license threat wasn&amp;#8217;t really about Iran war coverage](https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat)
  - [David Sacks is no longer the White House AI and Crypto Czar](https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar)
  - [Anthropic Supply-Chain Risk Designation Halted By Judge](https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/)
  - [A US judge grants Anthropic&#39;s request for a preliminary injunction in its suit against the Trump administration over the DOD&#39;s decision to blacklist the company &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260326/p48#a260326p48)
- - [Stop holding out hope, Liquid Glass will be mandatory in iOS 27](https://appleinsider.com/articles/26/03/26/stop-holding-out-hope-liquid-glass-will-be-mandatory-in-ios-27?utm_source=rss)
- - [In an interview, David Sacks says he has relinquished his role as AI and crypto czar after using up his time as a special government employee &lpar;Bloomberg&rpar;](http://www.techmeme.com/260326/p47#a260326p47)<!-- TECH:END -->
+ - [Stop holding out hope, Liquid Glass will be mandatory in iOS 27](https://appleinsider.com/articles/26/03/26/stop-holding-out-hope-liquid-glass-will-be-mandatory-in-ios-27?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

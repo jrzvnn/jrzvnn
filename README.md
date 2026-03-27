@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC, Apple Music Genius, and ads in Apple Maps, on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/27/wwdc-apple-music-genius-and-ads-in-apple-maps-on-the-appleinsider-podcast?utm_source=rss)
- - [Sony says it plans to raise the price of its PlayStation 5 consoles globally beginning on April 2; the PS5 will cost $650, PS5 Digital $600, and PS5 Pro $900 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260327/p7#a260327p7)
- - [Studio Display XDR review: An almost pixel perfect monitor for creative pros](https://appleinsider.com/articles/26/03/27/studio-display-xdr-review-an-almost-pixel-perfect-monitor-for-creative-pros?utm_source=rss)
- - [Sony is raising PS5 prices by $100 in April](https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike)
- - [All iPhone 18 models will get a smaller Dynamic Island, says optimistic leak](https://appleinsider.com/articles/26/03/27/all-iphone-18-models-will-get-a-smaller-dynamic-island-says-optimistic-leak?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic says it&#39;s testing an AI model that&#39;s a &quot;step change&quot; in performance after a draft blog in an unsecured data store revealed the Claude Mythos model &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/260327/p9#a260327p9)
+ - [The photo mode consultant helping you take better video game screenshots](https://www.theverge.com/entertainment/901329/shinobi-video-game-photo-mode-consultant)
+ - [These ‘clinically tested’ gummies may or may not help you poop](https://www.theverge.com/column/902231/optimizer-gruns-wellness-multivitamins-clinical-testing)
+ - [Meta’s court losses could be just the beginning](https://www.theverge.com/podcast/902162/meta-youtube-kgm-court-ruling-vergecast)
+ - [OpenAI launches Codex plugins to standardize repeatable AI workflows, with 20+ initial integrations such as Figma, Notion, Gmail, and Slack &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260327/p8#a260327p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

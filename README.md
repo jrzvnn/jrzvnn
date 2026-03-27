@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At Gaza’s Al-Shifa Hospital, the War Isn’t Over](https://www.wired.com/story/gaza-war-al-shifa-hospital-ghosts/)
- - [Rank the 50 best Apple products](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products)
- - [Here’s how to rank the 50 best Apple products ever](https://www.theverge.com/podcast/901378/apple-50-anniversary-rank-vergecast)
- - [Sources: Alibaba and ByteDance plan to order Huawei&#39;s new 950PR AI chip after tests show better CUDA compatibility; Huawei targets ~750K 950PR shipments in 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/260327/p4#a260327p4)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 27 #754](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-27-754/)<!-- TECH:END -->
+ - [One Way or Another, Most of Our Electricity Comes From Solar Power](https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/)
+ - [A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them](https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/)
+ - [Apple at 50: John Sculley, Apple&#39;s most maligned CEO](https://appleinsider.com/articles/26/03/27/apple-at-50-john-sculley-apples-most-maligned-ceo?utm_source=rss)
+ - [SoftBank says it has secured a $40B bridge loan maturing in 2027 from JPMorgan Chase, Goldman Sachs, and other banks, to fund further investment in OpenAI &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/260327/p5#a260327p5)
+ - [I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often](https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

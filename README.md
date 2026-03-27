@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Moonshot AI may scrap its Cayman structure for a China or Hong Kong entity to prepare for a Hong Kong IPO and plans to raise funding at ~$18B valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260327/p3#a260327p3)
  - [Meta&#39;s Oversight Board says Community Notes aren&#39;t a proper substitute for fact checking, and warns expanding them beyond the US could pose human rights risks &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/260327/p2#a260327p2)
  - [Surfshark Promo Codes: 87% Off | March 2026](https://www.wired.com/story/surfshark-coupon/)
  - [Layla Sleep Coupon: Save Up to $600 in March 2026](https://www.wired.com/story/layla-sleep-coupon/)
- - [50% Off DoorDash Promo Code | March 2026](https://www.wired.com/story/doordash-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, March 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-27/)<!-- TECH:END -->
+ - [50% Off DoorDash Promo Code | March 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

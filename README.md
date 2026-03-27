@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 😝 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
- - 💣 [She relaxed](http://9gag.com/gag/aVv6VyM)
- - 😝 [To a man who doesn&#39;t need fixing.](http://9gag.com/gag/adBzb8N)
- - 👉 [100% true](http://9gag.com/gag/aQzjVPK)<!-- MEMES:END -->
+ - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
+ - 💣 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
+ - 😝 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
+ - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
 
 ---
 

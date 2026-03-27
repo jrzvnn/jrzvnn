@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Super gramps.](http://9gag.com/gag/aoy7nnX)
  - 😝 [If you don\u2019t understand this, you lived a bullshit life](http://9gag.com/gag/a9yGDAK)
- - 💣 [Uploading my old 9gag collection 154](http://9gag.com/gag/aLnEr9V)
- - 😝 [Our education system needs an update](http://9gag.com/gag/aW4XdB6)
- - 👉 [The legendary outlaw](http://9gag.com/gag/aD2vQx7)<!-- MEMES:END -->
+ - 😝 [Uploading my old 9gag collection 154](http://9gag.com/gag/aLnEr9V)
+ - 💣 [The legendary outlaw](http://9gag.com/gag/aD2vQx7)
+ - 😝 [The board has spoken, no forgiveness today](http://9gag.com/gag/a1m6xv2)
+ - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
 
 ---
 

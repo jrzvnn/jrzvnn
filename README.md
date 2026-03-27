@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best External Hard Drive &lpar;2026&rpar;: SSD to Store Data, Video, and More](https://www.wired.com/story/best-portable-external-storage-drives/)
  - [One Way or Another, Most of Our Electricity Comes From Solar Power](https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/)
  - [A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them](https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/)
  - [Apple at 50: John Sculley, Apple&#39;s most maligned CEO](https://appleinsider.com/articles/26/03/27/apple-at-50-john-sculley-apples-most-maligned-ceo?utm_source=rss)
- - [SoftBank says it has secured a $40B bridge loan maturing in 2027 from JPMorgan Chase, Goldman Sachs, and other banks, to fund further investment in OpenAI &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/260327/p5#a260327p5)
- - [I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often](https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/)<!-- TECH:END -->
+ - [SoftBank says it has secured a $40B bridge loan maturing in 2027 from JPMorgan Chase, Goldman Sachs, and other banks, to fund further investment in OpenAI &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/260327/p5#a260327p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

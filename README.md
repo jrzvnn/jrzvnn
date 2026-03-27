@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miami-based telehealth company eMed raised a $200M Series A at a $2B+ valuation to advance its agentic AI platform and more; Tom Brady participated in the round &lpar;Sneha S K/Reuters&rpar;](http://www.techmeme.com/260326/p55#a260326p55)
- - [Senior Trump officials say SMIC has been sending chipmaking tools to Iran for about a year; the US has sanctioned the company over alleged Chinese military ties &lpar;Reuters&rpar;](http://www.techmeme.com/260326/p54#a260326p54)
- - [NY-based Blossom Health, which makes an &quot;AI copilot&quot; to augment psychiatrists&#39; clinical decisions and automate office tasks, raised $20M in seed and Series A &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260326/p53#a260326p53)
- - [Anime streaming service Crunchyroll is now available in Apple TV channels](https://appleinsider.com/articles/26/03/27/anime-streaming-service-crunchyroll-is-now-available-in-the-apple-tv-app-as-a-channel?utm_source=rss)
- - [Judge Blocks Pentagon&#39;s Attempt to Blacklist Anthropic](https://www.cnet.com/news/judge-blocks-pentagons-attempt-to-blacklist-anthropic/)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board says Community Notes aren&#39;t a proper substitute for fact checking, and warns expanding them beyond the US could pose human rights risks &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/260327/p2#a260327p2)
+ - [Surfshark Promo Codes: 87% Off | March 2026](https://www.wired.com/story/surfshark-coupon/)
+ - [Layla Sleep Coupon: Save Up to $600 in March 2026](https://www.wired.com/story/layla-sleep-coupon/)
+ - [50% Off DoorDash Promo Code | March 2026](https://www.wired.com/story/doordash-promo-code/)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, March 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-27/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

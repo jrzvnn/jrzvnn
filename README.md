@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI confirms Iran-linked Handala breached Kash Patel&#39;s personal email but says the data accessed was &quot;historical in nature&quot; and involves no government info &lpar;TechCrunch&rpar;](http://www.techmeme.com/260327/p16#a260327p16)
- - [The latest in data centers, AI, and energy](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)
- - [Anker’s 160W Prime Charger can power three devices at once, and it&amp;#8217;s $50 off](https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal)
- - [Sources: Google nears a deal to help finance Nexus Data Centers&#39; Texas campus that is leased to Anthropic, as Google deepens its partnership with the AI startup &lpar;Financial Times&rpar;](http://www.techmeme.com/260327/p15#a260327p15)
- - [I Didn&#39;t Want a Harry Potter Reboot, but the New Trailer Has Me Under Its Spell](https://www.cnet.com/tech/home-entertainment/harry-potter-tv-reboot-commentary/)<!-- TECH:END -->
+ - [Filing: Kalshi has secured a license allowing it to offer margin trading to users, which would make the platform more appealing to institutional investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/260327/p18#a260327p18)
+ - [A Trio of Stars: The Spring Triangle Is Visible All Spring. Here&#39;s How to See It](https://www.cnet.com/science/space/a-trio-of-stars-the-spring-triangle-is-visible-all-spring-and-heres-how-to-see-it/)
+ - [Former Google VP to lead Apple&#39;s AI product marketing](https://appleinsider.com/articles/26/03/27/former-google-vp-to-lead-apples-ai-product-marketing?utm_source=rss)
+ - [The Trump administration launches the White House app, promising news &quot;straight from the source, no filter&quot;, with news, live, social, and gallery sections &lpar;Emily Goodin/New York Post&rpar;](http://www.techmeme.com/260327/p17#a260327p17)
+ - [The FBI confirms Iran-linked Handala breached Kash Patel&#39;s personal email but says the data accessed was &quot;historical in nature&quot; and involves no government info &lpar;TechCrunch&rpar;](http://www.techmeme.com/260327/p16#a260327p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

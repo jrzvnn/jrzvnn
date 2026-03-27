@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brendan Carr says his broadcast license threat wasn&amp;#8217;t really about Iran war coverage](https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat)
- - [David Sacks is no longer the White House AI and Crypto Czar](https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar)
- - [Anthropic Supply-Chain Risk Designation Halted By Judge](https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/)
- - [A US judge grants Anthropic&#39;s request for a preliminary injunction in its suit against the Trump administration over the DOD&#39;s decision to blacklist the company &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260326/p48#a260326p48)
- - [Stop holding out hope, Liquid Glass will be mandatory in iOS 27](https://appleinsider.com/articles/26/03/26/stop-holding-out-hope-liquid-glass-will-be-mandatory-in-ios-27?utm_source=rss)<!-- TECH:END -->
+ - [Miami-based telehealth company eMed raised a $200M Series A at a $2B+ valuation to advance its agentic AI platform and more; Tom Brady participated in the round &lpar;Sneha S K/Reuters&rpar;](http://www.techmeme.com/260326/p55#a260326p55)
+ - [Senior Trump officials say SMIC has been sending chipmaking tools to Iran for about a year; the US has sanctioned the company over alleged Chinese military ties &lpar;Reuters&rpar;](http://www.techmeme.com/260326/p54#a260326p54)
+ - [NY-based Blossom Health, which makes an &quot;AI copilot&quot; to augment psychiatrists&#39; clinical decisions and automate office tasks, raised $20M in seed and Series A &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260326/p53#a260326p53)
+ - [Anime streaming service Crunchyroll is now available in Apple TV channels](https://appleinsider.com/articles/26/03/27/anime-streaming-service-crunchyroll-is-now-available-in-the-apple-tv-app-as-a-channel?utm_source=rss)
+ - [Judge Blocks Pentagon&#39;s Attempt to Blacklist Anthropic](https://www.cnet.com/news/judge-blocks-pentagons-attempt-to-blacklist-anthropic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

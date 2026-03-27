@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
- - 💣 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
- - 😝 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
- - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
+ - 😝 [How many reps, yes](http://9gag.com/gag/apRMYNE)
+ - 😝 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)
+ - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 😝 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
+ - 👉 [She relaxed](http://9gag.com/gag/aVv6VyM)<!-- MEMES:END -->
 
 ---
 

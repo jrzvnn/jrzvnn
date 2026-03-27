@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
+ - 😝 [The suspense was real, but the flan came through](http://9gag.com/gag/aByeo4A)
  - 😝 [100% true](http://9gag.com/gag/aQzjVPK)
- - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 😝 [One more year of life, I know that you are not happy, but I am.](http://9gag.com/gag/aO8WGZR)
- - 👉 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)<!-- MEMES:END -->
+ - 💣 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
+ - 😝 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
+ - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
 
 ---
 

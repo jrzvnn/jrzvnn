@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin InReach Mini 3 Plus Satellite Messenger Review: Robust With Lots of Upselling](https://www.wired.com/review/garmin-inreach-mini-3-plus/)
- - [Sources: Moonshot AI may scrap its Cayman structure for a China or Hong Kong entity to prepare for a Hong Kong IPO and plans to raise funding at ~$18B valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260327/p3#a260327p3)
- - [Meta&#39;s Oversight Board says Community Notes aren&#39;t a proper substitute for fact checking, and warns expanding them beyond the US could pose human rights risks &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/260327/p2#a260327p2)
- - [Surfshark Promo Codes: 87% Off | March 2026](https://www.wired.com/story/surfshark-coupon/)
- - [Layla Sleep Coupon: Save Up to $600 in March 2026](https://www.wired.com/story/layla-sleep-coupon/)<!-- TECH:END -->
+ - [At Gaza’s Al-Shifa Hospital, the War Isn’t Over](https://www.wired.com/story/gaza-war-al-shifa-hospital-ghosts/)
+ - [Rank the 50 best Apple products](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products)
+ - [Here’s how to rank the 50 best Apple products ever](https://www.theverge.com/podcast/901378/apple-50-anniversary-rank-vergecast)
+ - [Sources: Alibaba and ByteDance plan to order Huawei&#39;s new 950PR AI chip after tests show better CUDA compatibility; Huawei targets ~750K 950PR shipments in 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/260327/p4#a260327p4)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 27 #754](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-27-754/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

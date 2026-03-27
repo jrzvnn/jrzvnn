@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)
- - 😝 [Uploading my old 9gag collection 154](http://9gag.com/gag/aLnEr9V)
- - 💣 [Fat trash panda](http://9gag.com/gag/aRBpDyG)
- - 😝 [I saw what you did here...](http://9gag.com/gag/adBzbZV)
- - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
+ - 😝 [Characters development](http://9gag.com/gag/aAy9ZnE)
+ - 💣 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
+ - 😝 [Remember MTV?](http://9gag.com/gag/axyrAmn)
+ - 👉 [I saw what you did here...](http://9gag.com/gag/adBzbZV)<!-- MEMES:END -->
 
 ---
 

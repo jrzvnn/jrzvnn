@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 😝 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - 💣 [I nominate for new Queen, let&#39;s make it fappen](http://9gag.com/gag/aoy7nZX)
+ - 😝 [Just kids from Syria, having some fun... &gt;_&gt;](http://9gag.com/gag/aByev7N)
+ - 😝 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
+ - 💣 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
  - 😝 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)
- - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
+ - 👉 [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)<!-- MEMES:END -->
 
 ---
 

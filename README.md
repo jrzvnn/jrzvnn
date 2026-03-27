@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you don\u2019t understand this, you lived a bullshit life](http://9gag.com/gag/a9yGDAK)
- - 😝 [Uploading my old 9gag collection 154](http://9gag.com/gag/aLnEr9V)
- - 💣 [The legendary outlaw](http://9gag.com/gag/aD2vQx7)
- - 😝 [The board has spoken, no forgiveness today](http://9gag.com/gag/a1m6xv2)
- - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
+ - 😝 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
+ - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
+ - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 😝 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
+ - 👉 [Time to Reset Your Pelvis Folks](http://9gag.com/gag/aNDbj5A)<!-- MEMES:END -->
 
 ---
 

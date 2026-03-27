@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The suspense was real, but the flan came through](http://9gag.com/gag/aByeo4A)
- - 😝 [100% true](http://9gag.com/gag/aQzjVPK)
- - 💣 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
- - 😝 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
- - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
+ - 😝 [Super gramps.](http://9gag.com/gag/aoy7nnX)
+ - 😝 [If you don\u2019t understand this, you lived a bullshit life](http://9gag.com/gag/a9yGDAK)
+ - 💣 [Uploading my old 9gag collection 154](http://9gag.com/gag/aLnEr9V)
+ - 😝 [Our education system needs an update](http://9gag.com/gag/aW4XdB6)
+ - 👉 [The legendary outlaw](http://9gag.com/gag/aD2vQx7)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Vizio TVs Will Require Walmart Accounts, Report Says](https://www.cnet.com/tech/home-entertainment/new-vizio-tvs-will-require-walmart-accounts-report-says/)
+ - [Tech stocks suffer their worst week in almost a year, driven by the Iran war and Meta&#39;s legal defeats; Meta fell 11%, Alphabet fell ~9%, and Microsoft fell ~7% &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/260327/p20#a260327p20)
+ - [4 Different Futures for Quantum Computing Converge at Nvidia GTC](https://www.cnet.com/tech/computing/four-different-futures-for-quantum-computing-converge-at-nvidia-gtc/)
  - [The Best Office Chair Is $50 Cheaper Than We&#39;ve Seen Before](https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/)
- - [10 Things You Can Do While Waiting in the TSA Line](https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/)
- - [Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off](https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal)
- - [US memory chip stocks lost ~$100B in market value this week, led by Micron&#39;s 15% drop, after Google Research detailed its TurboQuant compression algorithm &lpar;Financial Times&rpar;](http://www.techmeme.com/260327/p19#a260327p19)
- - [The White House has an app now, and Trump wants you to report people to ICE on it](https://www.theverge.com/tech/902703/white-house-app-iphone-android)<!-- TECH:END -->
+ - [10 Things You Can Do While Waiting in the TSA Line](https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

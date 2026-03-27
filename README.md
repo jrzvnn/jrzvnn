@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I nominate for new Queen, let&#39;s make it fappen](http://9gag.com/gag/aoy7nZX)
  - 😝 [What?](http://9gag.com/gag/aQzjVVq)
- - 😝 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 💣 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
+ - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
  - 😝 [Hexagons are the Bestagons](http://9gag.com/gag/aXPOd6D)
- - 👉 [Time to Reset Your Pelvis Folks](http://9gag.com/gag/aNDbj5A)<!-- MEMES:END -->
+ - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
 
 ---
 

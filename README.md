@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Vizio TVs Will Require Walmart Accounts, Report Says](https://www.cnet.com/tech/home-entertainment/new-vizio-tvs-will-require-walmart-accounts-report-says/)
+ - [AI Research Is Getting Harder to Separate From Geopolitics](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/)
+ - [Court docs: Zuckerberg texted Musk approvingly about his work with DOGE in February 2025, offering to &quot;take down content doxxing or threatening&quot; DOGE staffers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260327/p21#a260327p21)
  - [Tech stocks suffer their worst week in almost a year, driven by the Iran war and Meta&#39;s legal defeats; Meta fell 11%, Alphabet fell ~9%, and Microsoft fell ~7% &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/260327/p20#a260327p20)
- - [4 Different Futures for Quantum Computing Converge at Nvidia GTC](https://www.cnet.com/tech/computing/four-different-futures-for-quantum-computing-converge-at-nvidia-gtc/)
  - [The Best Office Chair Is $50 Cheaper Than We&#39;ve Seen Before](https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/)
  - [10 Things You Can Do While Waiting in the TSA Line](https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/)<!-- TECH:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nuki’s one-touch retrofit smart lock got its first-ever discount](https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal)
+ - [Get Paramount Plus for $2.99/mo for 2 months with this flash streaming deal](https://appleinsider.com/articles/26/03/27/get-paramount-plus-for-299mo-for-2-months-with-this-flash-streaming-deal?utm_source=rss)
+ - [Your TCL TV Can Look Even Better if You Change These Settings](https://www.cnet.com/tech/home-entertainment/new-tcl-tv-make-sure-you-change-these-settings-straight-away/)
  - [Apple claims a 100% protection rate with iPhone Lockdown Mode](https://appleinsider.com/articles/26/03/27/apple-claims-a-100-protection-rate-with-iphone-lockdown-mode?utm_source=rss)
- - [Iran-linked hacker group Handala Hack Team claims the breach of FBI Director Kash Patel&#39;s personal email and publishes some documents online &lpar;Reuters&rpar;](http://www.techmeme.com/260327/p12#a260327p12)
- - [Anime streaming service Crunchyroll is now available in Apple TV channels](https://appleinsider.com/articles/26/03/27/anime-streaming-service-crunchyroll-is-now-available-in-the-apple-tv-app-as-a-channel?utm_source=rss)
- - [Meta agrees to fund Entergy Louisiana&#39;s new energy infrastructure for its Louisiana data center, including seven natural gas power plants &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/260327/p11#a260327p11)
- - [This modular crafting machine can create custom shirts, phone cases, and molds](https://www.theverge.com/tech/902369/xtool-wonderpress-heat-press-vacuum-former-oven-crafting-preorder)<!-- TECH:END -->
+ - [Iran-linked hacker group Handala Hack Team claims the breach of FBI Director Kash Patel&#39;s personal email and publishes some documents online &lpar;Reuters&rpar;](http://www.techmeme.com/260327/p12#a260327p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

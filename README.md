@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 😝 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 💣 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
- - 😝 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
- - 👉 [Is it multicultural enough](http://9gag.com/gag/aNDbjqw)<!-- MEMES:END -->
+ - 😝 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
+ - 😝 [No way it was a woman](http://9gag.com/gag/a2vXLDw)
+ - 💣 [100% true](http://9gag.com/gag/aQzjVPK)
+ - 😝 [Kaboom](http://9gag.com/gag/a87gVb1)
+ - 👉 [I nominate for new Queen, let&#39;s make it fappen](http://9gag.com/gag/aoy7nZX)<!-- MEMES:END -->
 
 ---
 

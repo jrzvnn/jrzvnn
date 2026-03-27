@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Research Is Getting Harder to Separate From Geopolitics](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/)
- - [Court docs: Zuckerberg texted Musk approvingly about his work with DOGE in February 2025, offering to &quot;take down content doxxing or threatening&quot; DOGE staffers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260327/p21#a260327p21)
- - [Tech stocks suffer their worst week in almost a year, driven by the Iran war and Meta&#39;s legal defeats; Meta fell 11%, Alphabet fell ~9%, and Microsoft fell ~7% &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/260327/p20#a260327p20)
- - [The Best Office Chair Is $50 Cheaper Than We&#39;ve Seen Before](https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/)
- - [10 Things You Can Do While Waiting in the TSA Line](https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/)<!-- TECH:END -->
+ - [Sony temporarily suspends memory card sales due to shortages](https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage)
+ - [Anthropic adjusts Claude session limits and says users will use up their limits faster during peak hours, amid compute strain due to Claude&#39;s new popularity &lpar;Brent D. Griffiths/Business Insider&rpar;](http://www.techmeme.com/260327/p24#a260327p24)
+ - [Toronto-based quantum computing company Xanadu&#39;s stock closed up 15% in its trading debut on Nasdaq; it also began trading on the Toronto Stock Exchange &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/260327/p23#a260327p23)
+ - [Sources: Physical Intelligence, which is developing AI models for robotics, is discussing a new funding round of about $1B that would value it at $11B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260327/p22#a260327p22)
+ - [AI Research Is Getting Harder to Separate From Geopolitics](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
  - 😝 [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)
  - 💣 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - 😝 [Don&#39;t know how to crop ...](http://9gag.com/gag/abA8dBb)
+ - 😝 [Just this time i say good job google](http://9gag.com/gag/avyjDEd)
  - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
 
 ---

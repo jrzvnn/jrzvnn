@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What?](http://9gag.com/gag/aQzjVVq)
+ - 😝 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
+ - 💣 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
  - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
- - 💣 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - 😝 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)
- - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
+ - 👉 [Time to Reset Your Pelvis Folks](http://9gag.com/gag/aNDbj5A)<!-- MEMES:END -->
 
 ---
 

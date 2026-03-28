@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feel old yet?](http://9gag.com/gag/a6ZR3q8)
- - 😝 [Princesses knights](http://9gag.com/gag/aAy9NvE)
- - 💣 [Our education system needs an update](http://9gag.com/gag/aW4XdB6)
- - 😝 [The suspense was real, but the flan came through](http://9gag.com/gag/aByeo4A)
- - 👉 [Just another desperate Hollywood cash grab](http://9gag.com/gag/a34Oxj3)<!-- MEMES:END -->
+ - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
+ - 😝 [The show must always go on](http://9gag.com/gag/aXPOd4b)
+ - 💣 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)
+ - 😝 [This is how vinyl record is made](http://9gag.com/gag/aLnEVbg)
+ - 👉 [Shamelessly](http://9gag.com/gag/apRMde9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is the Best Garmin Watch Right Now? &lpar;2026&rpar;](https://www.wired.com/story/best-garmin-watch/)
- - [The Best Pixel 10 Cases and Accessories &lpar;2026&rpar;: We’ve Tested Dozens](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
- - [Your Vape Wants to Know How Old You Are](https://www.wired.com/story/your-vape-wants-to-know-how-old-you-are/)
- - [Oppo made the best foldable phone, again](https://www.theverge.com/tech/901846/oppo-find-n6-review-crease-screen-specs-price)
- - [A look at some themes at this year&#39;s Hill and Valley Forum: embracing government-led industrial policy to onshore manufacturing, AI&#39;s unpopularity, and more &lpar;Newcomer&rpar;](http://www.techmeme.com/260328/p5#a260328p5)<!-- TECH:END -->
+ - [I Was Amazed That this Oppo Camera Slammed the iPhone 17 Pro in My Tests](https://www.cnet.com/tech/mobile/iphone-17-pro-loses-fight-against-the-oppo-find-x9-pros-camera/)
+ - [Want Better Film Photos? Here Are My Pro Tips for Analog Photography](https://www.cnet.com/tech/computing/analog-camera-film-photography-tips-starters-guide/)
+ - [Soundcore Nebula X1 Pro: The Ultimate Projector Party in a Box](https://www.cnet.com/tech/home-entertainment/soundcore-nebula-x1-pro-the-ultimate-party-in-a-box/)
+ - [Oura Ring Helps Uncover &#39;Multiple Cases of Lymphoma,&#39; Says Its Chief Medical Officer](https://www.cnet.com/tech/mobile/oura-ring-uncovers-lymphoma-cases-interview-chief-medical-officer-ricky-bloomfield/)
+ - [Why OpenAI killed Sora](https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The suspense was real, but the flan came through](http://9gag.com/gag/aByeo4A)
- - 😝 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 😝 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
- - 👉 [I nominate for new Queen, let&#39;s make it fappen](http://9gag.com/gag/aoy7nZX)<!-- MEMES:END -->
+ - 😝 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
+ - 😝 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)
+ - 💣 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
+ - 😝 [Just another desperate Hollywood cash grab](http://9gag.com/gag/a34Oxj3)
+ - 👉 [White guy owns black woman &lpar;rhetorically&rpar;](http://9gag.com/gag/an7oVgB)<!-- MEMES:END -->
 
 ---
 

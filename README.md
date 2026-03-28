@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at some themes at this year&#39;s Hill and Valley Forum: embracing government-led industrial policy to onshore manufacturing, AI&#39;s unpopularity, and more &lpar;Newcomer&rpar;](http://www.techmeme.com/260328/p5#a260328p5)
+ - [The Best Samsung Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
+ - [Samsung Frame Pro Review: A Good TV for a Pretty Living Room](https://www.wired.com/review/samsung-frame-pro/)
  - [Best 360 Cameras &lpar;2026&rpar;: DJI, Insta360, GoPro](https://www.wired.com/gallery/best-360-cameras/)
- - [Bluetti’s Sora 500 solar panel is incredibly powerful for its size](https://www.theverge.com/reviews/899289/bluetti-sora-500-review-portable-solar-panel)
- - [Prediction market bets decided on linguistic technicalities expose how hard it is to turn language into a binary market, with payouts hinging on a single word &lpar;Christopher Beam/Bloomberg&rpar;](http://www.techmeme.com/260328/p4#a260328p4)
- - [Meta&#39;s longtime content policy chief Monika Bickert is leaving the company to teach at Harvard; she will stay at Meta until August to work on a transition plan &lpar;Reuters&rpar;](http://www.techmeme.com/260328/p3#a260328p3)
- - [Investment in Austin-based startups grew to a record high of $7.19B in 2025, up from $4.37B in 2024 and topping a pandemic peak of $6.1B in 2021 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260328/p2#a260328p2)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 28, #1021](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-28-1021/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

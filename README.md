@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
+ - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
  - 😝 [Shamelessly](http://9gag.com/gag/apRMde9)
- - 💣 [I think i need to consider Vietnam for now. It looks fun.](http://9gag.com/gag/aZZYdoX)
- - 😝 [Something\u00b4s not right](http://9gag.com/gag/a87gQq3)
- - 👉 [Israel&#39;s Iron Beam Laser in Action. Footage just dropped showing the new high-energy laser system intercepting incoming rockets and drones. No more $50k missiles for cheap threats \u2014 each laser `shot` costs just a few dollars in electricity. This is the future of air defense.](http://9gag.com/gag/an7odPq)<!-- MEMES:END -->
+ - 💣 [Israel&#39;s Iron Beam Laser in Action. Footage just dropped showing the new high-energy laser system intercepting incoming rockets and drones. No more $50k missiles for cheap threats \u2014 each laser `shot` costs just a few dollars in electricity. This is the future of air defense.](http://9gag.com/gag/an7odPq)
+ - 😝 [The show must always go on](http://9gag.com/gag/aXPOd4b)
+ - 👉 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)<!-- MEMES:END -->
 
 ---
 

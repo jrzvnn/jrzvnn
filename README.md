@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Ross Nordeen, the last remaining cofounder at xAI, left the company on Friday; Nordeen reported directly to Elon Musk as his right-hand operator &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260328/p8#a260328p8)
  - [SteelSeries’ feature-packed Nova Pro Wireless headset is $80 off](https://www.theverge.com/gadgets/902643/steelseries-arctis-nova-pro-wireless-pc-ps5-xbox-headset-gaming-amazon-big-spring-sale-2026-deal)
  - [A look at the decadelong feud between Sam Altman and Dario Amodei; sources say Amodei likened Altman&#39;s legal fight with Musk to Hitler&#39;s fight with Stalin &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/260328/p7#a260328p7)
  - [We&#39;re Tracking the 80+ Absolute Best Deals to Shop at Amazon&#39;s Big Spring Sale](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
- - [TikTok&amp;#8217;s policy for AI ads isn&amp;#8217;t working](https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure)
- - [Meta’s legal defeat could be a victory for children, or a loss for everyone](https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact)<!-- TECH:END -->
+ - [TikTok&amp;#8217;s policy for AI ads isn&amp;#8217;t working](https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

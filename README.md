@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One more year of life, I know that you are not happy, but I am.](http://9gag.com/gag/aO8WGZR)
- - 😝 [Just a Bunny](http://9gag.com/gag/aD2vN37)
- - 💣 [I saw what you did here...](http://9gag.com/gag/adBzbZV)
- - 😝 [Just this time i say good job google](http://9gag.com/gag/avyjDEd)
- - 👉 [Thats what men are for when b1tc#es got a bad day](http://9gag.com/gag/ae9BdWQ)<!-- MEMES:END -->
+ - 😝 [The suspense was real, but the flan came through](http://9gag.com/gag/aByeo4A)
+ - 😝 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
+ - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 😝 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
+ - 👉 [I nominate for new Queen, let&#39;s make it fappen](http://9gag.com/gag/aoy7nZX)<!-- MEMES:END -->
 
 ---
 

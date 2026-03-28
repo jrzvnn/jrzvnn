@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-28/)
- - [Indonesia begins implementing a regulation that bans under-16s from digital platforms that could expose them to porn, cyberbullying, online scams, and addiction &lpar;Edna Tarigan/Associated Press&rpar;](http://www.techmeme.com/260327/p32#a260327p32)
- - [Worth, which aims to help financial services onboard and underwrite SMBs, raised a $30M Series A led by Fulcrum Equity Partners, following a $25M seed round &lpar;Brian Contreras/Inc&rpar;](http://www.techmeme.com/260327/p31#a260327p31)
- - [Despite Anthropic winning a ruling against the DOD in California, it must still convince the DC Circuit Court of Appeals to lift the supply chain risk label &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/260327/p30#a260327p30)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 28, #551](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-28-551/)<!-- TECH:END -->
+ - [Taiwanese memory chipmaker Nanya raised $2.5B in a private placement from Sandisk, SK Hynix&#39;s Solidigm, Cisco, and Kioxia to expand advanced chip production &lpar;Reuters&rpar;](http://www.techmeme.com/260328/p1#a260328p1)
+ - [Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets](https://www.wired.com/story/loop-earplugs-discount-code/)
+ - [Instacart Promo Code: Save on Groceries in March 2026](https://www.wired.com/story/instacart-promo/code/)
+ - [Meta Quest Promo Codes: $50 Off | March 2026](https://www.wired.com/story/meta-quest-promo-code/)
+ - [Acer Promo Codes and Deals: Save 40% on Bundles](https://www.wired.com/story/acer-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

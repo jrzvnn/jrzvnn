@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
- - 💣 [Israel&#39;s Iron Beam Laser in Action. Footage just dropped showing the new high-energy laser system intercepting incoming rockets and drones. No more $50k missiles for cheap threats \u2014 each laser `shot` costs just a few dollars in electricity. This is the future of air defense.](http://9gag.com/gag/an7odPq)
- - 😝 [Hexagons are the Bestagons](http://9gag.com/gag/aXPOd6D)
- - 👉 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)<!-- MEMES:END -->
+ - 😝 [The prophecy was fulfilled](http://9gag.com/gag/aRBpNwq)
+ - 😝 [Mr world wide](http://9gag.com/gag/an7oW3L)
+ - 💣 [Just a Bunny](http://9gag.com/gag/aD2vN37)
+ - 😝 [Thats what men are for when b1tc#es got a bad day](http://9gag.com/gag/ae9BdWQ)
+ - 👉 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)<!-- MEMES:END -->
 
 ---
 

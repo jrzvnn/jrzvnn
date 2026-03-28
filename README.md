@@ -159,8 +159,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
  - [Sources: DHS clears seven CISA staffers of wrongdoing; the staffers arranged a polygraph for CISA&#39;s former acting director Madhu Gottumukkala that he failed &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260328/p9#a260328p9)
- - [Sources: Ross Nordeen, the last remaining cofounder at xAI, left the company on Friday; Nordeen reported directly to Elon Musk as his right-hand operator &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260328/p8#a260328p8)
  - [We&#39;re Tracking the 80+ Absolute Best Deals to Shop at Amazon&#39;s Big Spring Sale](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
+ - [Sources: Ross Nordeen, the last remaining cofounder at xAI, left the company on Friday; Nordeen reported directly to Elon Musk as his right-hand operator &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260328/p8#a260328p8)
  - [SteelSeries’ feature-packed Nova Pro Wireless headset is $80 off](https://www.theverge.com/gadgets/902643/steelseries-arctis-nova-pro-wireless-pc-ps5-xbox-headset-gaming-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

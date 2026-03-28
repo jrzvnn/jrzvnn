@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
  - 😝 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
- - 😝 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
- - 💣 [Shamelessly](http://9gag.com/gag/apRMde9)
+ - 💣 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
  - 😝 [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)
- - 👉 [Time to Reset Your Pelvis Folks](http://9gag.com/gag/aNDbj5A)<!-- MEMES:END -->
+ - 👉 [Shamelessly](http://9gag.com/gag/apRMde9)<!-- MEMES:END -->
 
 ---
 

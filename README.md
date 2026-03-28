@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 😝 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
- - 💣 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
+ - 😝 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
  - 😝 [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)
+ - 💣 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
+ - 😝 [Just another desperate Hollywood cash grab](http://9gag.com/gag/a34Oxj3)
  - 👉 [Shamelessly](http://9gag.com/gag/apRMde9)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - 😝 [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)
- - 💣 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
- - 😝 [Just another desperate Hollywood cash grab](http://9gag.com/gag/a34Oxj3)
- - 👉 [Shamelessly](http://9gag.com/gag/apRMde9)<!-- MEMES:END -->
+ - 😝 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
+ - 😝 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
+ - 💣 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
+ - 😝 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 👉 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)<!-- MEMES:END -->
 
 ---
 

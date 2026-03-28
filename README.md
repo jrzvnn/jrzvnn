@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out its Veo video model globally within Google Ads, allowing advertisers to create 10-second videos for YouTube from up to three static images &lpar;Anu Adegbola/Search Engine Land&rpar;](http://www.techmeme.com/260327/p28#a260327p28)
- - [NeurIPS reverses a policy change that would have banned papers from researchers at any entity under US sanctions, after backlash from Chinese researchers &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260327/p27#a260327p27)
- - [Sony Japan temporarily suspends fulfillment of orders for nearly all of its CFexpress and SD memory card product lines due to solid state memory shortages &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/260327/p26#a260327p26)
- - [IPL Cricket 2026 Livestream: How to Watch the Indian Premier League From Anywhere](https://www.cnet.com/tech/services-and-software/ipl-cricket-2026-livestream-how-to-watch-the-indian-premier-league-from-anywhere/)
- - [Sources: Meta plans to debut two Ray-Ban smart glasses models next week intended for prescription wearers, to be sold mainly via prescription eyewear channels &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260327/p25#a260327p25)<!-- TECH:END -->
+ - [Indonesia begins implementing a regulation that bans under-16s from digital platforms that could expose them to porn, cyberbullying, online scams, and addiction &lpar;Edna Tarigan/Associated Press&rpar;](http://www.techmeme.com/260327/p32#a260327p32)
+ - [Worth, which aims to help financial services onboard and underwrite SMBs, raised a $30M Series A led by Fulcrum Equity Partners, following a $25M seed round &lpar;Brian Contreras/Inc&rpar;](http://www.techmeme.com/260327/p31#a260327p31)
+ - [Despite Anthropic winning a ruling against the DOD in California, it must still convince the DC Circuit Court of Appeals to lift the supply chain risk label &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/260327/p30#a260327p30)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 28, #551](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-28-551/)
+ - [Best Senior Phone Plans of 2026](https://www.cnet.com/tech/mobile/best-senior-phone-plans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

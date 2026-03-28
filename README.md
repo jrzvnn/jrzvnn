@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just this time i say good job google](http://9gag.com/gag/avyjDEd)
- - 😝 [I saw what you did here...](http://9gag.com/gag/adBzbZV)
- - 💣 [Thats what men are for when b1tc#es got a bad day](http://9gag.com/gag/ae9BdWQ)
- - 😝 [Just a Bunny](http://9gag.com/gag/aD2vN37)
- - 👉 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)<!-- MEMES:END -->
+ - 😝 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
+ - 😝 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
+ - 💣 [Shamelessly](http://9gag.com/gag/apRMde9)
+ - 😝 [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)
+ - 👉 [Time to Reset Your Pelvis Folks](http://9gag.com/gag/aNDbj5A)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oppo made the best foldable phone, again](https://www.theverge.com/tech/901846/oppo-find-n6-review-crease-screen-specs-price)
  - [A look at some themes at this year&#39;s Hill and Valley Forum: embracing government-led industrial policy to onshore manufacturing, AI&#39;s unpopularity, and more &lpar;Newcomer&rpar;](http://www.techmeme.com/260328/p5#a260328p5)
  - [The Best Samsung Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
- - [Samsung Frame Pro Review: A Good TV for a Pretty Living Room](https://www.wired.com/review/samsung-frame-pro/)
- - [Best 360 Cameras &lpar;2026&rpar;: DJI, Insta360, GoPro](https://www.wired.com/gallery/best-360-cameras/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 28, #1021](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-28-1021/)<!-- TECH:END -->
+ - [Anthropic&#39;s Claude Can Now Take Over Your Computer to Do Tasks for You](https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/)
+ - [Your AirPods Could Help You Take a Great iPhone Photo](https://www.cnet.com/tech/services-and-software/your-airpods-could-help-take-great-iphone-photo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

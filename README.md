@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
- - 😝 [Thought they&#39;d be bigger tbh](http://9gag.com/gag/a6ZR31q)
- - 💣 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
+ - 😝 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
  - 😝 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)
- - 👉 [Israel&#39;s Iron Beam Laser in Action. Footage just dropped showing the new high-energy laser system intercepting incoming rockets and drones. No more $50k missiles for cheap threats \u2014 each laser `shot` costs just a few dollars in electricity. This is the future of air defense.](http://9gag.com/gag/an7odPq)<!-- MEMES:END -->
+ - 💣 [Israel&#39;s Iron Beam Laser in Action. Footage just dropped showing the new high-energy laser system intercepting incoming rockets and drones. No more $50k missiles for cheap threats \u2014 each laser `shot` costs just a few dollars in electricity. This is the future of air defense.](http://9gag.com/gag/an7odPq)
+ - 😝 [Mr world wide](http://9gag.com/gag/an7oW3L)
+ - 👉 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
- - 💣 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
- - 😝 [Mr world wide](http://9gag.com/gag/an7oW3L)
- - 👉 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)<!-- MEMES:END -->
+ - 😝 [Just a Bunny](http://9gag.com/gag/aD2vN37)
+ - 😝 [Princesses knights](http://9gag.com/gag/aAy9NvE)
+ - 💣 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)
+ - 😝 [Like cute fluffy piranhas](http://9gag.com/gag/a87gXO3)
+ - 👉 [Our education system needs an update](http://9gag.com/gag/aW4XdB6)<!-- MEMES:END -->
 
 ---
 

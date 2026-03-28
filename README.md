@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - 😝 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
- - 💣 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)
- - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
- - 👉 [Shamelessly](http://9gag.com/gag/apRMde9)<!-- MEMES:END -->
+ - 😝 [Musical chairs just got real](http://9gag.com/gag/a2vXGgw)
+ - 😝 [What?](http://9gag.com/gag/aQzjVVq)
+ - 💣 [Quickie](http://9gag.com/gag/ayNKzRX)
+ - 😝 [Thought they&#39;d be bigger tbh](http://9gag.com/gag/a6ZR31q)
+ - 👉 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the decadelong feud between Sam Altman and Dario Amodei; sources say Amodei likened Altman&#39;s legal fight with Musk to Hitler&#39;s fight with Stalin &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/260328/p7#a260328p7)
  - [TikTok&amp;#8217;s policy for AI ads isn&amp;#8217;t working](https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure)
  - [Meta’s legal defeat could be a victory for children, or a loss for everyone](https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact)
  - [Chess grandmasters find new ways to win by making less optimal moves after AI pushed classical chess toward perfect play, breathing new life into the game &lpar;Kevin Lincoln/Bloomberg&rpar;](http://www.techmeme.com/260328/p6#a260328p6)
- - [A classic Zelda-style adventure, but a lot more cozy](https://www.theverge.com/games/902384/under-the-island-review)
- - [Here’s what Verge readers are buying during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/902473/most-popular-reader-picks-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
+ - [A classic Zelda-style adventure, but a lot more cozy](https://www.theverge.com/games/902384/under-the-island-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu-march-2026/)
  - [Report analyzing payments of 28M US consumers shows Claude adding paid subs at a steadily increasing pace; Anthropic: paid subs have more than doubled this year &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260328/p11#a260328p11)
  - [Suno leans into customization with v5.5](https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model)
  - [ShinyHunters says it stole 350GB+ of data in a cyberattack on the European Commission, detected on March 24; the EC says its internal systems were not affected &lpar;Pierluigi Paganini/Security Affairs&rpar;](http://www.techmeme.com/260328/p10#a260328p10)
- - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
- - [Sources: DHS clears seven CISA staffers of wrongdoing; the staffers arranged a polygraph for CISA&#39;s former acting director Madhu Gottumukkala that he failed &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260328/p9#a260328p9)<!-- TECH:END -->
+ - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

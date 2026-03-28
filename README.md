@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Was Amazed That this Oppo Camera Slammed the iPhone 17 Pro in My Tests](https://www.cnet.com/tech/mobile/iphone-17-pro-loses-fight-against-the-oppo-find-x9-pros-camera/)
- - [Want Better Film Photos? Here Are My Pro Tips for Analog Photography](https://www.cnet.com/tech/computing/analog-camera-film-photography-tips-starters-guide/)
- - [Soundcore Nebula X1 Pro: The Ultimate Projector Party in a Box](https://www.cnet.com/tech/home-entertainment/soundcore-nebula-x1-pro-the-ultimate-party-in-a-box/)
- - [Oura Ring Helps Uncover &#39;Multiple Cases of Lymphoma,&#39; Says Its Chief Medical Officer](https://www.cnet.com/tech/mobile/oura-ring-uncovers-lymphoma-cases-interview-chief-medical-officer-ricky-bloomfield/)
- - [Why OpenAI killed Sora](https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition)<!-- TECH:END -->
+ - [A classic Zelda-style adventure, but a lot more cozy](https://www.theverge.com/games/902384/under-the-island-review)
+ - [Here’s what Verge readers are buying during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/902473/most-popular-reader-picks-amazon-big-spring-sale-2026-deals)
+ - [We&#39;re Tracking the 80+ Absolute Best Deals to Shop at Amazon&#39;s Big Spring Sale](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
+ - [Bluey at Disneyland: What to Know and What Else Is Coming to Disney Parks in 2026 and Beyond](https://www.cnet.com/tech/whats-coming-to-disney-world-and-disneyland-new-rides-lands-and-attractions-in-2026/)
+ - [I Was Amazed That this Oppo Camera Slammed the iPhone 17 Pro in My Tests](https://www.cnet.com/tech/mobile/iphone-17-pro-loses-fight-against-the-oppo-find-x9-pros-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

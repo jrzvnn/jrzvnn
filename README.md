@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Mark Lanier, a TX lawyer and part-time pastor who beat Meta and Google in the LA social media case and said Zuckerberg was &quot;rattled&quot; on the stand &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260328/p12#a260328p12)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 29 #756](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-29-756/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for March 29, #1022](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-29-1022/)
  - [Today&#39;s Wordle Hints, Answer and Help for March 29, #1744](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-29-1744/)
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu-march-2026/)
- - [Report analyzing payments of 28M US consumers shows Claude adding paid subs at a steadily increasing pace; Anthropic: paid subs have more than doubled this year &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260328/p11#a260328p11)<!-- TECH:END -->
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu-march-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feel old yet?](http://9gag.com/gag/a6ZR3q8)
- - 😝 [Princesses knights](http://9gag.com/gag/aAy9NvE)
- - 💣 [Our education system needs an update](http://9gag.com/gag/aW4XdB6)
- - 😝 [The suspense was real, but the flan came through](http://9gag.com/gag/aByeo4A)
- - 👉 [Just another desperate Hollywood cash grab](http://9gag.com/gag/a34Oxj3)<!-- MEMES:END -->
+ - 😝 [Shamelessly](http://9gag.com/gag/apRMde9)
+ - 😝 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
+ - 💣 [What?](http://9gag.com/gag/aQzjVVq)
+ - 😝 [Something\u00b4s not right](http://9gag.com/gag/a87gQq3)
+ - 👉 [Israel&#39;s Iron Beam Laser in Action. Footage just dropped showing the new high-energy laser system intercepting incoming rockets and drones. No more $50k missiles for cheap threats \u2014 each laser `shot` costs just a few dollars in electricity. This is the future of air defense.](http://9gag.com/gag/an7odPq)<!-- MEMES:END -->
 
 ---
 

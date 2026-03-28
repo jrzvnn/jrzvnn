@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok&amp;#8217;s policy for AI ads isn&amp;#8217;t working](https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure)
+ - [Meta’s legal defeat could be a victory for children, or a loss for everyone](https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact)
+ - [Chess grandmasters find new ways to win by making less optimal moves after AI pushed classical chess toward perfect play, breathing new life into the game &lpar;Kevin Lincoln/Bloomberg&rpar;](http://www.techmeme.com/260328/p6#a260328p6)
  - [A classic Zelda-style adventure, but a lot more cozy](https://www.theverge.com/games/902384/under-the-island-review)
- - [Here’s what Verge readers are buying during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/902473/most-popular-reader-picks-amazon-big-spring-sale-2026-deals)
- - [We&#39;re Tracking the 80+ Absolute Best Deals to Shop at Amazon&#39;s Big Spring Sale](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
- - [Bluey at Disneyland: What to Know and What Else Is Coming to Disney Parks in 2026 and Beyond](https://www.cnet.com/tech/whats-coming-to-disney-world-and-disneyland-new-rides-lands-and-attractions-in-2026/)
- - [I Was Amazed That this Oppo Camera Slammed the iPhone 17 Pro in My Tests](https://www.cnet.com/tech/mobile/iphone-17-pro-loses-fight-against-the-oppo-find-x9-pros-camera/)<!-- TECH:END -->
+ - [Here’s what Verge readers are buying during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/902473/most-popular-reader-picks-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

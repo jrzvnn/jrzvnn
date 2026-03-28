@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Musical chairs just got real](http://9gag.com/gag/a2vXGgw)
- - 😝 [What?](http://9gag.com/gag/aQzjVVq)
- - 💣 [Quickie](http://9gag.com/gag/ayNKzRX)
- - 😝 [Thought they&#39;d be bigger tbh](http://9gag.com/gag/a6ZR31q)
- - 👉 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)<!-- MEMES:END -->
+ - 😝 [I saw what you did here...](http://9gag.com/gag/adBzbZV)
+ - 😝 [The prophecy was fulfilled](http://9gag.com/gag/aRBpNwq)
+ - 💣 [Soon](https://www.reddit.com/r/funny/comments/1s61i9r/soon/)
+ - 😝 [Thats what men are for when b1tc#es got a bad day](http://9gag.com/gag/ae9BdWQ)
+ - 👉 [Just a Bunny](http://9gag.com/gag/aD2vN37)<!-- MEMES:END -->
 
 ---
 

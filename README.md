@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)
- - 😝 [Princesses knights](http://9gag.com/gag/aAy9NvE)
- - 💣 [Our education system needs an update](http://9gag.com/gag/aW4XdB6)
- - 😝 [The suspense was real, but the flan came through](http://9gag.com/gag/aByeo4A)
- - 👉 [Like cute fluffy piranhas](http://9gag.com/gag/a87gXO3)<!-- MEMES:END -->
+ - 😝 [Israel&#39;s Iron Beam Laser in Action. Footage just dropped showing the new high-energy laser system intercepting incoming rockets and drones. No more $50k missiles for cheap threats \u2014 each laser `shot` costs just a few dollars in electricity. This is the future of air defense.](http://9gag.com/gag/an7odPq)
+ - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
+ - 💣 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)
+ - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
+ - 👉 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not the sign I was looking for...](https://www.reddit.com/r/funny/comments/1s63vnv/not_the_sign_i_was_looking_for/)
- - 😝 [This is super accurate](https://www.reddit.com/r/funny/comments/1s63uou/this_is_super_accurate/)
- - 💣 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)
- - 😝 [Monochrome Frieren](http://9gag.com/gag/aGyQbP7)
- - 👉 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)<!-- MEMES:END -->
+ - 😝 [The prophecy was fulfilled](http://9gag.com/gag/aRBpNwq)
+ - 😝 [Thats what men are for when b1tc#es got a bad day](http://9gag.com/gag/ae9BdWQ)
+ - 💣 [Just a Bunny](http://9gag.com/gag/aD2vN37)
+ - 😝 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)
+ - 👉 [The suspense was real, but the flan came through](http://9gag.com/gag/aByeo4A)<!-- MEMES:END -->
 
 ---
 

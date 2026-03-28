@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats what men are for when b1tc#es got a bad day](http://9gag.com/gag/ae9BdWQ)
- - 😝 [Just a Bunny](http://9gag.com/gag/aD2vN37)
- - 💣 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)
- - 😝 [The suspense was real, but the flan came through](http://9gag.com/gag/aByeo4A)
- - 👉 [Our education system needs an update](http://9gag.com/gag/aW4XdB6)<!-- MEMES:END -->
+ - 😝 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
+ - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
+ - 💣 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)
+ - 😝 [Mr world wide](http://9gag.com/gag/an7oW3L)
+ - 👉 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Is the Best Garmin Watch Right Now? &lpar;2026&rpar;](https://www.wired.com/story/best-garmin-watch/)
+ - [The Best Pixel 10 Cases and Accessories &lpar;2026&rpar;: We’ve Tested Dozens](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
+ - [Your Vape Wants to Know How Old You Are](https://www.wired.com/story/your-vape-wants-to-know-how-old-you-are/)
  - [Oppo made the best foldable phone, again](https://www.theverge.com/tech/901846/oppo-find-n6-review-crease-screen-specs-price)
- - [A look at some themes at this year&#39;s Hill and Valley Forum: embracing government-led industrial policy to onshore manufacturing, AI&#39;s unpopularity, and more &lpar;Newcomer&rpar;](http://www.techmeme.com/260328/p5#a260328p5)
- - [The Best Samsung Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
- - [Anthropic&#39;s Claude Can Now Take Over Your Computer to Do Tasks for You](https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/)
- - [Your AirPods Could Help You Take a Great iPhone Photo](https://www.cnet.com/tech/services-and-software/your-airpods-could-help-take-great-iphone-photo/)<!-- TECH:END -->
+ - [A look at some themes at this year&#39;s Hill and Valley Forum: embracing government-led industrial policy to onshore manufacturing, AI&#39;s unpopularity, and more &lpar;Newcomer&rpar;](http://www.techmeme.com/260328/p5#a260328p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

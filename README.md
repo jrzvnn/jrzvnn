@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
+ - 😝 [Thought they&#39;d be bigger tbh](http://9gag.com/gag/a6ZR31q)
+ - 💣 [This mate was shocked to find his house spotlessly clean, from top to bottom, by the woman he&#39;d spent the night with after meeting her on a dating app](http://9gag.com/gag/aryLrjV)
  - 😝 [Trump was right](http://9gag.com/gag/abA8m6v)
- - 😝 [This mate was shocked to find his house spotlessly clean, from top to bottom, by the woman he&#39;d spent the night with after meeting her on a dating app](http://9gag.com/gag/aryLrjV)
- - 💣 [Very bold](http://9gag.com/gag/aD2vrW7)
- - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
- - 👉 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)<!-- MEMES:END -->
+ - 👉 [Just give me the burger](http://9gag.com/gag/aByejoN)<!-- MEMES:END -->
 
 ---
 

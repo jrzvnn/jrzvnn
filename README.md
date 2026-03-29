@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes up to $200 off new M5 Pro &amp; M5 Max MacBook Pros](https://appleinsider.com/articles/26/03/29/amazon-slashes-up-to-200-off-new-m5-pro-m5-max-macbook-pros?utm_source=rss)
+ - [Sunday Reboot: Addiction, VR, and how the iPhone Air doesn&#39;t suck](https://appleinsider.com/articles/26/03/29/sunday-reboot-addiction-vr-and-how-the-iphone-air-doesnt-suck?utm_source=rss)
  - [Red Rooms makes online poker as thrilling as its serial killer](https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web)
  - [A look at Coinbase One and other insurance-like plans for crypto users that typically exclude coverage for many kinds of account hacks, including phishing scams &lpar;Bloomberg&rpar;](http://www.techmeme.com/260329/p8#a260329p8)
- - [Trump Phone Reportedly Costs More, Looks Different, Isn&#39;t Made in America](https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/)
- - [Bluesky&#39;s CEO talks about their new app, Attie, an agentic social app built on Bluesky&#39;s AT Protocol, which uses Claude and enables users to build custom feeds &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260329/p7#a260329p7)
- - [10 of the Best Movies on Hulu You Should Watch Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-movies-on-hulu-you-should-stream-now/)<!-- TECH:END -->
+ - [Trump Phone Reportedly Costs More, Looks Different, Isn&#39;t Made in America](https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

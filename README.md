@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like cute fluffy piranhas](http://9gag.com/gag/a87gXO3)
- - 😝 [Mr world wide](http://9gag.com/gag/an7oW3L)
- - 💣 [Watching a Disney artist bring a drawing to life is pure magic](http://9gag.com/gag/a6ZRerL)
+ - 😝 [This mate was shocked to find his house spotlessly clean, from top to bottom, by the woman he&#39;d spent the night with after meeting her on a dating app](http://9gag.com/gag/aryLrjV)
+ - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
+ - 💣 [Very bold](http://9gag.com/gag/aD2vrW7)
  - 😝 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
- - 👉 [Have a nice day!](http://9gag.com/gag/aByej7Q)<!-- MEMES:END -->
+ - 👉 [Just give me the burger](http://9gag.com/gag/aByejoN)<!-- MEMES:END -->
 
 ---
 

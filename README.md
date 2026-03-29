@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky&#39;s CEO talks about their new app, Attie, an agentic social app built on Bluesky&#39;s AT Protocol, which uses Claude and enables users to build custom feeds &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260329/p7#a260329p7)
+ - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
+ - [Anniversary party at Apple Park will feature a British Invasion performance](https://appleinsider.com/articles/26/03/29/anniversary-party-at-apple-park-will-feature-a-british-invasion-performance?utm_source=rss)
  - [It&#39;s Day 5 of the Amazon Spring Sale and We&#39;re Tracking the 80+ Absolute Best Deals](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
- - [Can my favorite Game Boy gadget tell fake cartridges from real?](https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection)
- - [If You Buy a New Router, It Might ‘Turn Into a Pumpkin’ Next Year](https://www.cnet.com/home/internet/my-expert-advice-dont-buy-a-router-right-now/)
- - [Hong Kong-listed AI drug discovery company Insilico Medicine and Eli Lilly sign a drug co-development deal worth up to $2.75B, with $115M in upfront payments &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/260329/p6#a260329p6)
- - [There is no ethical consumption of HBO’s Harry Potter series](https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia)<!-- TECH:END -->
+ - [Can my favorite Game Boy gadget tell fake cartridges from real?](https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thought they&#39;d be bigger tbh](http://9gag.com/gag/a6ZR31q)
- - 😝 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)
- - 💣 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
  - 😝 [It is peaceful life](http://9gag.com/gag/aKGMLX1)
- - 👉 [Very bold](http://9gag.com/gag/aD2vrW7)<!-- MEMES:END -->
+ - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
+ - 💣 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
+ - 😝 [Very bold](http://9gag.com/gag/aD2vrW7)
+ - 👉 [The show must always go on](http://9gag.com/gag/aXPOd4b)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Android Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work](https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/)
  - [Your Photos Are Probably Giving Away Your Location. Here’s How to Stop That](https://www.wired.com/story/how-to-stop-your-photos-giving-away-your-location/)
  - [Best Noise-Canceling Earbuds: Bose, Sony, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-earbuds/)
- - [An AI-generated TikTok parody of reality series Love Island, called Fruit Love Island, averaged 10M+ views across its first 21 episodes after debuting last week &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260329/p5#a260329p5)
- - [iOS 26.4 Brings New Emoji, a Playlist Generator and More to Your iPhone](https://www.cnet.com/tech/services-and-software/ios-26-4-brings-new-emoji-a-playlist-generator-and-more-to-your-iphone/)
- - [The Deceptively Tricky Art of Designing a Steering Wheel](https://www.wired.com/story/the-deceptively-tricky-art-of-designing-a-steering-wheel/)<!-- TECH:END -->
+ - [An AI-generated TikTok parody of reality series Love Island, called Fruit Love Island, averaged 10M+ views across its first 21 episodes after debuting last week &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260329/p5#a260329p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

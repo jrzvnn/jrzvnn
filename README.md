@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It&#39;s Day 5 of the Amazon Spring Sale and We&#39;re Tracking the 80+ Absolute Best Deals](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
  - [Can my favorite Game Boy gadget tell fake cartridges from real?](https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection)
  - [If You Buy a New Router, It Might ‘Turn Into a Pumpkin’ Next Year](https://www.cnet.com/home/internet/my-expert-advice-dont-buy-a-router-right-now/)
  - [Hong Kong-listed AI drug discovery company Insilico Medicine and Eli Lilly sign a drug co-development deal worth up to $2.75B, with $115M in upfront payments &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/260329/p6#a260329p6)
- - [There is no ethical consumption of HBO’s Harry Potter series](https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia)
- - [Artemis II Is Shooting for the Moon Next Week: All the Details About NASA&#39;s Historic Mission](https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-launch-itinerary/)<!-- TECH:END -->
+ - [There is no ethical consumption of HBO’s Harry Potter series](https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pro-AI group Innovation Council Action, praised by David Sacks, plans to spend $100M+ in the US midterms to drive deregulation and support Trump&#39;s AI agenda &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/260329/p9#a260329p9)
+ - [Bluesky’s new app is an AI for customizing your feed](https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds)
  - [Amazon slashes up to $200 off new M5 Pro &amp; M5 Max MacBook Pros](https://appleinsider.com/articles/26/03/29/amazon-slashes-up-to-200-off-new-m5-pro-m5-max-macbook-pros?utm_source=rss)
  - [Sunday Reboot: Addiction, VR, and how the iPhone Air doesn&#39;t suck](https://appleinsider.com/articles/26/03/29/sunday-reboot-addiction-vr-and-how-the-iphone-air-doesnt-suck?utm_source=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 30, #1023](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-30-1023/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 30 #757](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-30-757/)
- - [&#39;Marshals&#39; Release Schedule: When Episode 5 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-5-hits-paramount-plus/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 30, #1023](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-30-1023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
- - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
+ - 😝 [Very bold](http://9gag.com/gag/aD2vrW7)
+ - 😝 [Probabilty 1/3](http://9gag.com/gag/azx3oAq)
  - 💣 [Now THAT&#39;S clean magic!](http://9gag.com/gag/aByeNd1)
- - 😝 [Best Stargate outtake ever](http://9gag.com/gag/a34OzVv)
- - 👉 [This mate was shocked to find his house spotlessly clean, from top to bottom, by the woman he&#39;d spent the night with after meeting her on a dating app](http://9gag.com/gag/aryLrjV)<!-- MEMES:END -->
+ - 😝 [When you trust your life to the laws of physics when being ejected at 80 km/h from a truck moving at 80 km/h.](http://9gag.com/gag/a34Oz0r)
+ - 👉 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)<!-- MEMES:END -->
 
 ---
 

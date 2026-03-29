@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)
- - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
- - 💣 [Israel&#39;s Iron Beam Laser in Action. Footage just dropped showing the new high-energy laser system intercepting incoming rockets and drones. No more $50k missiles for cheap threats \u2014 each laser `shot` costs just a few dollars in electricity. This is the future of air defense.](http://9gag.com/gag/an7odPq)
- - 😝 [Shamelessly](http://9gag.com/gag/apRMde9)
- - 👉 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)<!-- MEMES:END -->
+ - 😝 [Our education system needs an update](http://9gag.com/gag/aW4XdB6)
+ - 😝 [Just another desperate Hollywood cash grab](http://9gag.com/gag/a34Oxj3)
+ - 💣 [Crack a cold one](http://9gag.com/gag/axyrQKD)
+ - 😝 [Hexagons are the Bestagons](http://9gag.com/gag/aXPOd6D)
+ - 👉 [Like cute fluffy piranhas](http://9gag.com/gag/a87gXO3)<!-- MEMES:END -->
 
 ---
 

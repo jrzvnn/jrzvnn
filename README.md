@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Coinbase One and other insurance-like plans for crypto users that typically exclude coverage for many kinds of account hacks, including phishing scams &lpar;Bloomberg&rpar;](http://www.techmeme.com/260329/p8#a260329p8)
  - [Trump Phone Reportedly Costs More, Looks Different, Isn&#39;t Made in America](https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/)
  - [Bluesky&#39;s CEO talks about their new app, Attie, an agentic social app built on Bluesky&#39;s AT Protocol, which uses Claude and enables users to build custom feeds &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260329/p7#a260329p7)
  - [10 of the Best Movies on Hulu You Should Watch Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-movies-on-hulu-you-should-stream-now/)
- - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
- - [Anniversary party at Apple Park will feature a British Invasion performance](https://appleinsider.com/articles/26/03/29/anniversary-party-at-apple-park-will-feature-a-british-invasion-performance?utm_source=rss)<!-- TECH:END -->
+ - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

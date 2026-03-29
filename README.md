@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is probably a 9gagger](http://9gag.com/gag/aByeb8D)
- - 😝 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
- - 💣 [Have a nice day!](http://9gag.com/gag/aByej7Q)
- - 😝 [And there it goes.](http://9gag.com/gag/ae9ByvQ)
- - 👉 [A British hiker became lost at high altitudes in the Peruvian mountains, then a stray dog appeared from the fog and led him safely back.](http://9gag.com/gag/a5QYvXN)<!-- MEMES:END -->
+ - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
+ - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
+ - 💣 [Now THAT&#39;S clean magic!](http://9gag.com/gag/aByeNd1)
+ - 😝 [Best Stargate outtake ever](http://9gag.com/gag/a34OzVv)
+ - 👉 [This mate was shocked to find his house spotlessly clean, from top to bottom, by the woman he&#39;d spent the night with after meeting her on a dating app](http://9gag.com/gag/aryLrjV)<!-- MEMES:END -->
 
 ---
 

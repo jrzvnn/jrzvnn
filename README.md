@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Watching a Disney artist bring a drawing to life is pure magic](http://9gag.com/gag/a6ZRerL)
  - 😝 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
- - 😝 [Thought they&#39;d be bigger tbh](http://9gag.com/gag/a6ZR31q)
- - 💣 [This mate was shocked to find his house spotlessly clean, from top to bottom, by the woman he&#39;d spent the night with after meeting her on a dating app](http://9gag.com/gag/aryLrjV)
- - 😝 [Trump was right](http://9gag.com/gag/abA8m6v)
- - 👉 [Just give me the burger](http://9gag.com/gag/aByejoN)<!-- MEMES:END -->
+ - 💣 [When you trust your life to the laws of physics when being ejected at 80 km/h from a truck moving at 80 km/h.](http://9gag.com/gag/a34Oz0r)
+ - 😝 [Have a nice day!](http://9gag.com/gag/aByej7Q)
+ - 👉 [And there it goes.](http://9gag.com/gag/ae9ByvQ)<!-- MEMES:END -->
 
 ---
 

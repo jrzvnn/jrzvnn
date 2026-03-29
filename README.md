@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder](https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals)
+ - [It&#39;s Day Five of the Amazon Spring Sale and We&#39;re Tracking the 80+ Absolute Best Deals](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
  - [The Macintosh changed computers forever](https://www.theverge.com/podcast/903068/macintosh-1984-version-history)
  - [Why Most Quantum Computers Need to Be Colder Than Space](https://www.cnet.com/tech/computing/why-most-quantum-computers-need-to-be-colder-than-space/)
- - [The iPhone 17E&#39;s Biggest Rival Isn&#39;t Budget Android Phones -- It&#39;s Older iPhones](https://www.cnet.com/tech/mobile/apples-biggest-iphone-17e-competition-isnt-android-its-older-iphones/)
- - [Apple’s long, bitter App Store antitrust war](https://www.theverge.com/column/902668/apple-antitrust-app-store-war)<!-- TECH:END -->
+ - [The iPhone 17E&#39;s Biggest Rival Isn&#39;t Budget Android Phones -- It&#39;s Older iPhones](https://www.cnet.com/tech/mobile/apples-biggest-iphone-17e-competition-isnt-android-its-older-iphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

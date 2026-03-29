@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Amazon slashes up to $200 off new M5 Pro &amp; M5 Max MacBook Pros](https://appleinsider.com/articles/26/03/29/amazon-slashes-up-to-200-off-new-m5-pro-m5-max-macbook-pros?utm_source=rss)
  - [Sunday Reboot: Addiction, VR, and how the iPhone Air doesn&#39;t suck](https://appleinsider.com/articles/26/03/29/sunday-reboot-addiction-vr-and-how-the-iphone-air-doesnt-suck?utm_source=rss)
- - [Red Rooms makes online poker as thrilling as its serial killer](https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web)
- - [A look at Coinbase One and other insurance-like plans for crypto users that typically exclude coverage for many kinds of account hacks, including phishing scams &lpar;Bloomberg&rpar;](http://www.techmeme.com/260329/p8#a260329p8)
- - [Trump Phone Reportedly Costs More, Looks Different, Isn&#39;t Made in America](https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 30, #1023](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-30-1023/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 30 #757](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-30-757/)
+ - [&#39;Marshals&#39; Release Schedule: When Episode 5 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-5-hits-paramount-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

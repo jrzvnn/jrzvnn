@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart Dog Training](http://9gag.com/gag/adBzrPj)
- - 😝 [Princesses knights](http://9gag.com/gag/aAy9NvE)
- - 💣 [And there it goes.](http://9gag.com/gag/ae9ByvQ)
- - 😝 [Just another desperate Hollywood cash grab](http://9gag.com/gag/a34Oxj3)
- - 👉 [Hexagons are the Bestagons](http://9gag.com/gag/aXPOd6D)<!-- MEMES:END -->
+ - 😝 [Thought they&#39;d be bigger tbh](http://9gag.com/gag/a6ZR31q)
+ - 😝 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)
+ - 💣 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
+ - 😝 [It is peaceful life](http://9gag.com/gag/aKGMLX1)
+ - 👉 [Very bold](http://9gag.com/gag/aD2vrW7)<!-- MEMES:END -->
 
 ---
 

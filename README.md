@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watching a Disney artist bring a drawing to life is pure magic](http://9gag.com/gag/a6ZRerL)
- - 😝 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
- - 💣 [When you trust your life to the laws of physics when being ejected at 80 km/h from a truck moving at 80 km/h.](http://9gag.com/gag/a34Oz0r)
- - 😝 [Have a nice day!](http://9gag.com/gag/aByej7Q)
- - 👉 [And there it goes.](http://9gag.com/gag/ae9ByvQ)<!-- MEMES:END -->
+ - 😝 [Pre smartphone game](http://9gag.com/gag/agmepQ1)
+ - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
+ - 💣 [Very bold](http://9gag.com/gag/aD2vrW7)
+ - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
+ - 👉 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)<!-- MEMES:END -->
 
 ---
 

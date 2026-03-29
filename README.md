@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is peaceful life](http://9gag.com/gag/aKGMLX1)
- - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 💣 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
- - 😝 [Very bold](http://9gag.com/gag/aD2vrW7)
- - 👉 [The show must always go on](http://9gag.com/gag/aXPOd4b)<!-- MEMES:END -->
+ - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
+ - 😝 [Restaurants are overrated](http://9gag.com/gag/aGyQN50)
+ - 💣 [Smart Dog Training](http://9gag.com/gag/adBzrPj)
+ - 😝 [Hexagons are the Bestagons](http://9gag.com/gag/aXPOd6D)
+ - 👉 [And there it goes.](http://9gag.com/gag/ae9ByvQ)<!-- MEMES:END -->
 
 ---
 

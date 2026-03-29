@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
- - 😝 [The show must always go on](http://9gag.com/gag/aXPOd4b)
- - 💣 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)
- - 😝 [This is how vinyl record is made](http://9gag.com/gag/aLnEVbg)
- - 👉 [Shamelessly](http://9gag.com/gag/apRMde9)<!-- MEMES:END -->
+ - 😝 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)
+ - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
+ - 💣 [Israel&#39;s Iron Beam Laser in Action. Footage just dropped showing the new high-energy laser system intercepting incoming rockets and drones. No more $50k missiles for cheap threats \u2014 each laser `shot` costs just a few dollars in electricity. This is the future of air defense.](http://9gag.com/gag/an7odPq)
+ - 😝 [Shamelessly](http://9gag.com/gag/apRMde9)
+ - 👉 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)<!-- MEMES:END -->
 
 ---
 

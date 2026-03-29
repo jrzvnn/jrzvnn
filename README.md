@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Our education system needs an update](http://9gag.com/gag/aW4XdB6)
- - 😝 [Just another desperate Hollywood cash grab](http://9gag.com/gag/a34Oxj3)
- - 💣 [Crack a cold one](http://9gag.com/gag/axyrQKD)
- - 😝 [Hexagons are the Bestagons](http://9gag.com/gag/aXPOd6D)
- - 👉 [Like cute fluffy piranhas](http://9gag.com/gag/a87gXO3)<!-- MEMES:END -->
+ - 😝 [Very bold](http://9gag.com/gag/aD2vrW7)
+ - 😝 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)
+ - 💣 [Thought they&#39;d be bigger tbh](http://9gag.com/gag/a6ZR31q)
+ - 😝 [When your bookshelf needs its own tiny library](http://9gag.com/gag/agme6Mr)
+ - 👉 [Now THAT&#39;S clean magic!](http://9gag.com/gag/aByeNd1)<!-- MEMES:END -->
 
 ---
 

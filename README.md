@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
- - 😝 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)
- - 💣 [I&#39;m sorry, what?](http://9gag.com/gag/aKGMnQQ)
- - 😝 [When your bookshelf needs its own tiny library](http://9gag.com/gag/agme6Mr)
- - 👉 [Thought they&#39;d be bigger tbh](http://9gag.com/gag/a6ZR31q)<!-- MEMES:END -->
+ - 😝 [Smart Dog Training](http://9gag.com/gag/adBzrPj)
+ - 😝 [Princesses knights](http://9gag.com/gag/aAy9NvE)
+ - 💣 [And there it goes.](http://9gag.com/gag/ae9ByvQ)
+ - 😝 [Just another desperate Hollywood cash grab](http://9gag.com/gag/a34Oxj3)
+ - 👉 [Hexagons are the Bestagons](http://9gag.com/gag/aXPOd6D)<!-- MEMES:END -->
 
 ---
 

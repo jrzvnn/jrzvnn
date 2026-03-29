@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump was right](http://9gag.com/gag/abA8m6v)
- - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 💣 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
- - 😝 [Probabilty 1/3](http://9gag.com/gag/azx3oAq)
- - 👉 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)<!-- MEMES:END -->
+ - 😝 [Like cute fluffy piranhas](http://9gag.com/gag/a87gXO3)
+ - 😝 [Mr world wide](http://9gag.com/gag/an7oW3L)
+ - 💣 [Watching a Disney artist bring a drawing to life is pure magic](http://9gag.com/gag/a6ZRerL)
+ - 😝 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
+ - 👉 [Have a nice day!](http://9gag.com/gag/aByej7Q)<!-- MEMES:END -->
 
 ---
 

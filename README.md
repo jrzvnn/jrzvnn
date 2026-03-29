@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quickie](http://9gag.com/gag/ayNKzRX)
- - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 💣 [Very bold](http://9gag.com/gag/aD2vrW7)
- - 😝 [Wooden Rave](http://9gag.com/gag/ae9BqGO)
- - 👉 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)<!-- MEMES:END -->
+ - 😝 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
+ - 😝 [Smart Dog Training](http://9gag.com/gag/adBzrPj)
+ - 💣 [Hexagons are the Bestagons](http://9gag.com/gag/aXPOd6D)
+ - 😝 [This dog is so talented](http://9gag.com/gag/aVv69Q8)
+ - 👉 [Have a nice day!](http://9gag.com/gag/aByej7Q)<!-- MEMES:END -->
 
 ---
 

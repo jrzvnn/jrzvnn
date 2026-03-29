@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s long, bitter App Store antitrust war](https://www.theverge.com/column/902668/apple-antitrust-app-store-war)
- - [Measure Weight, Body Fat and Muscle Mass at Home With Expert-Approved Smart Scales](https://www.cnet.com/health/fitness/best-smart-scales/)
- - [9 Best Android Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work](https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/)
- - [Your Photos Are Probably Giving Away Your Location. Here’s How to Stop That](https://www.wired.com/story/how-to-stop-your-photos-giving-away-your-location/)<!-- TECH:END -->
+ - [Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder](https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals)
+ - [The Macintosh changed computers forever](https://www.theverge.com/podcast/903068/macintosh-1984-version-history)
+ - [Why Most Quantum Computers Need to Be Colder Than Space](https://www.cnet.com/tech/computing/why-most-quantum-computers-need-to-be-colder-than-space/)
+ - [The iPhone 17E&#39;s Biggest Rival Isn&#39;t Budget Android Phones -- It&#39;s Older iPhones](https://www.cnet.com/tech/mobile/apples-biggest-iphone-17e-competition-isnt-android-its-older-iphones/)
+ - [Apple’s long, bitter App Store antitrust war](https://www.theverge.com/column/902668/apple-antitrust-app-store-war)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

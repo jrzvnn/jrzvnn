@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
  - 😝 [Very bold](http://9gag.com/gag/aD2vrW7)
- - 😝 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)
- - 💣 [Thought they&#39;d be bigger tbh](http://9gag.com/gag/a6ZR31q)
- - 😝 [When your bookshelf needs its own tiny library](http://9gag.com/gag/agme6Mr)
- - 👉 [Now THAT&#39;S clean magic!](http://9gag.com/gag/aByeNd1)<!-- MEMES:END -->
+ - 💣 [I&#39;m sorry, what?](http://9gag.com/gag/aKGMnQQ)
+ - 😝 [And there it goes.](http://9gag.com/gag/ae9ByvQ)
+ - 👉 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)<!-- MEMES:END -->
 
 ---
 

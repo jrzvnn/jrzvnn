@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
+ - 😝 [Trump was right](http://9gag.com/gag/abA8m6v)
  - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 💣 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)
- - 😝 [A British hiker became lost at high altitudes in the Peruvian mountains, then a stray dog appeared from the fog and led him safely back.](http://9gag.com/gag/a5QYvXN)
- - 👉 [Probabilty 1/3](http://9gag.com/gag/azx3oAq)<!-- MEMES:END -->
+ - 💣 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
+ - 😝 [Probabilty 1/3](http://9gag.com/gag/azx3oAq)
+ - 👉 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)<!-- MEMES:END -->
 
 ---
 

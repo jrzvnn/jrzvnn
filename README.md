@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He is probably a 9gagger](http://9gag.com/gag/aByeb8D)
  - 😝 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
- - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
- - 💣 [Trump was right](http://9gag.com/gag/abA8m6v)
- - 😝 [What if...](http://9gag.com/gag/aqyEVMZ)
- - 👉 [Pre smartphone game](http://9gag.com/gag/agmepQ1)<!-- MEMES:END -->
+ - 💣 [Have a nice day!](http://9gag.com/gag/aByej7Q)
+ - 😝 [And there it goes.](http://9gag.com/gag/ae9ByvQ)
+ - 👉 [A British hiker became lost at high altitudes in the Peruvian mountains, then a stray dog appeared from the fog and led him safely back.](http://9gag.com/gag/a5QYvXN)<!-- MEMES:END -->
 
 ---
 

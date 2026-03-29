@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Bluesky&#39;s CEO talks about their new app, Attie, an agentic social app built on Bluesky&#39;s AT Protocol, which uses Claude and enables users to build custom feeds &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260329/p7#a260329p7)
+ - [10 of the Best Movies on Hulu You Should Watch Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-movies-on-hulu-you-should-stream-now/)
  - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
  - [Anniversary party at Apple Park will feature a British Invasion performance](https://appleinsider.com/articles/26/03/29/anniversary-party-at-apple-park-will-feature-a-british-invasion-performance?utm_source=rss)
- - [It&#39;s Day 5 of the Amazon Spring Sale and We&#39;re Tracking the 80+ Absolute Best Deals](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
- - [Can my favorite Game Boy gadget tell fake cartridges from real?](https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection)<!-- TECH:END -->
+ - [These Vizio TV Settings Can Make Your TV Look Even Better](https://www.cnet.com/tech/home-entertainment/new-vizio-tv-change-these-settings-right-away/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualified Health, which helps health systems evaluate and adopt AI tools, raised a $125M Series B led by NEA at a valuation of between $500M and $1B &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/260328/p14#a260328p14)
+ - [A look at why Dotcom Bubble comparisons to the AI boom are off, vertical SaaS is up +3% last 12 months vs. horizontal SaaS down 35%, and other reflections on AI &lpar;Logan Bartlett/@loganbartlett&rpar;](http://www.techmeme.com/260328/p13#a260328p13)
  - [A profile of Mark Lanier, a TX lawyer and part-time pastor who beat Meta and Google in the LA social media case and said Zuckerberg was &quot;rattled&quot; on the stand &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260328/p12#a260328p12)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 29 #756](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-29-756/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 29, #1022](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-29-1022/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 29, #1744](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-29-1744/)
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu-march-2026/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 29, #1022](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-29-1022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
- - 😝 [Restaurants are overrated](http://9gag.com/gag/aGyQN50)
- - 💣 [Smart Dog Training](http://9gag.com/gag/adBzrPj)
- - 😝 [Hexagons are the Bestagons](http://9gag.com/gag/aXPOd6D)
- - 👉 [And there it goes.](http://9gag.com/gag/ae9ByvQ)<!-- MEMES:END -->
+ - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
+ - 😝 [Quickie](http://9gag.com/gag/ayNKzRX)
+ - 💣 [Very bold](http://9gag.com/gag/aD2vrW7)
+ - 😝 [This dog is so talented](http://9gag.com/gag/aVv69Q8)
+ - 👉 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)<!-- MEMES:END -->
 
 ---
 

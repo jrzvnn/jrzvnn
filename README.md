@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very bold](http://9gag.com/gag/aD2vrW7)
- - 😝 [Trump was right](http://9gag.com/gag/abA8m6v)
- - 💣 [Pre smartphone game](http://9gag.com/gag/agmepQ1)
- - 😝 [When you trust your life to the laws of physics when being ejected at 80 km/h from a truck moving at 80 km/h.](http://9gag.com/gag/a34Oz0r)
- - 👉 [Just give me the burger](http://9gag.com/gag/aByejoN)<!-- MEMES:END -->
+ - 😝 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
+ - 😝 [Puttee fold](http://9gag.com/gag/aAy9qBp)
+ - 💣 [Trump was right](http://9gag.com/gag/abA8m6v)
+ - 😝 [What if...](http://9gag.com/gag/aqyEVMZ)
+ - 👉 [Pre smartphone game](http://9gag.com/gag/agmepQ1)<!-- MEMES:END -->
 
 ---
 

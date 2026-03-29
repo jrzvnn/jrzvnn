@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
  - 😝 [Quickie](http://9gag.com/gag/ayNKzRX)
+ - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
  - 💣 [Very bold](http://9gag.com/gag/aD2vrW7)
- - 😝 [This dog is so talented](http://9gag.com/gag/aVv69Q8)
+ - 😝 [Wooden Rave](http://9gag.com/gag/ae9BqGO)
  - 👉 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)<!-- MEMES:END -->
 
 ---

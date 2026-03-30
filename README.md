@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [That top Google result for Homebrew could infect your Mac](https://appleinsider.com/articles/26/03/30/that-top-google-result-for-homebrew-could-infect-your-mac?utm_source=rss)
- - [Apple&#39;s AI home strategy, hands on with Sonos Play, and more on Smart Home Insider](https://appleinsider.com/articles/26/03/30/apples-ai-home-strategy-hands-on-with-sonos-play-and-more-on-smart-home-insider?utm_source=rss)
- - [Uber agrees to acquire Berlin-based chauffeur booking app Blacklane for an undisclosed sum to bolster its Uber Elite service, set to close by the end of 2026 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260330/p23#a260330p23)
- - [M5 MacBook Air review: Incremental update, but the best buy for most](https://appleinsider.com/articles/26/03/30/m5-macbook-air-review-incremental-update-but-the-best-buy-for-most?utm_source=rss)
- - [Apple&#39;s third co-founder insists he still owns 10% of Apple](https://appleinsider.com/articles/26/03/30/apples-third-co-founder-insists-he-still-owns-10-of-apple?utm_source=rss)<!-- TECH:END -->
+ - [GeForce Now streams Apple Vision Pro faster &amp; better than to Meta headsets](https://appleinsider.com/articles/26/03/30/geforce-now-streams-apple-vision-pro-faster-better-than-to-meta-headsets?utm_source=rss)
+ - [Sycamore, founded by former Atlassian CTO Sri Viswanath to let enterprises build, deploy, and monitor AI agents, raised a $65M seed led by Coatue and Lightspeed &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260330/p27#a260330p27)
+ - [Okta&amp;#8217;s CEO is betting big on AI agent identity](https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity)
+ - [After Copilot injected an ad into a pull request on GitHub, referencing Raycast, GitHub says it &quot;disabled product tips entirely thanks to the feedback&quot; &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/260330/p26#a260330p26)
+ - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

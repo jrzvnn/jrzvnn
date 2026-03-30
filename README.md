@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GeForce Now streams Apple Vision Pro faster &amp; better than to Meta headsets](https://appleinsider.com/articles/26/03/30/geforce-now-streams-apple-vision-pro-faster-better-than-to-meta-headsets?utm_source=rss)
- - [Sycamore, founded by former Atlassian CTO Sri Viswanath to let enterprises build, deploy, and monitor AI agents, raised a $65M seed led by Coatue and Lightspeed &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260330/p27#a260330p27)
- - [Okta&amp;#8217;s CEO is betting big on AI agent identity](https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity)
- - [After Copilot injected an ad into a pull request on GitHub, referencing Raycast, GitHub says it &quot;disabled product tips entirely thanks to the feedback&quot; &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/260330/p26#a260330p26)
- - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
+ - [Dyson&amp;#8217;s thin PencilVac Fluffycones is tougher to resist at $150 off](https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale)
+ - [Match Group agrees to settle an FTC lawsuit claiming it illegally shared user data from the OkCupid app with facial recognition tech company Clarifai in 2014 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260330/p29#a260330p29)
+ - [A Delaware judge reassigns Elon Musk cases over &quot;disproportionate media attention&quot; after allegations she &quot;liked&quot; a LinkedIn post celebrating a Musk legal defeat &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/260330/p28#a260330p28)
+ - [A new manufacturing process uses lasers to seal paper packaging instead of glue](https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling)
+ - [The latest Pixel 11 leak shows slimmer bezels and an all-black camera bar](https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

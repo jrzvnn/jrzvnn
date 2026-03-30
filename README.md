@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 😝 [This mate was shocked to find his house spotlessly clean, from top to bottom, by the woman he&#39;d spent the night with after meeting her on a dating app](http://9gag.com/gag/aryLrjV)
- - 💣 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)
- - 😝 [When you trust your life to the laws of physics when being ejected at 80 km/h from a truck moving at 80 km/h.](http://9gag.com/gag/a34Oz0r)
- - 👉 [Radical](http://9gag.com/gag/a2vXVqY)<!-- MEMES:END -->
+ - 😝 [Ireland](http://9gag.com/gag/an7o0Vq)
+ - 😝 [The real Severus Snape](http://9gag.com/gag/ayNKmjV)
+ - 💣 [This dog is so talented](http://9gag.com/gag/aVv69Q8)
+ - 😝 [This is so accurate it hurts](http://9gag.com/gag/a2vXV0Z)
+ - 👉 [A British hiker became lost at high altitudes in the Peruvian mountains, then a stray dog appeared from the fog and led him safely back.](http://9gag.com/gag/a5QYvXN)<!-- MEMES:END -->
 
 ---
 

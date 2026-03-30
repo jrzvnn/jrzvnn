@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some schools in North Carolina, Virginia, Maryland, and Michigan are reevaluating classroom tech usage, including Chromebooks, amid student screen time concerns &lpar;New York Times&rpar;](http://www.techmeme.com/260330/p13#a260330p13)
- - [Meet the Man Making Music With His Brain Implant](https://www.wired.com/story/meet-the-man-making-music-with-his-brain-implant/)
- - [Q&amp;A with NYU professor Julian Togelius on his recent paper about LLMs&#39; limitations in playing video games, why coding is a kind of well-designed game, and more &lpar;Matthew S. Smith/IEEE Spectrum&rpar;](http://www.techmeme.com/260330/p12#a260330p12)
- - [Amazon MGM&#39;s Project Hail Mary becomes its highest-grossing film ever, crossing $300M globally, including $54.1M just this weekend; the movie cost $200M to make &lpar;Brent Lang/Variety&rpar;](http://www.techmeme.com/260330/p11#a260330p11)
- - [‘Guns, Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race](https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4/)<!-- TECH:END -->
+ - [London-based money transfer company Wise plans to launch UK bank accounts, joining an increasingly crowded market; Monzo reports 15M personal and business users &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/260330/p17#a260330p17)
+ - [5 Best Video Doorbell Cameras &lpar;2026&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
+ - [These retractable studded tires might save our roads, ears, and lungs](https://www.theverge.com/transportation/902561/nokian-hakkapeliitta-tire-retract-stud-winter)
+ - [Space data center startup Starcloud raised a $170M Series A led by Benchmark and EQT at a $1.1B valuation, and plans to launch Starcloud 2 later in 2026 &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260330/p16#a260330p16)
+ - [How Google DeepMind Chief Scientist Jeff Dean has been an outspoken voice on politics, a rare tech leader openly criticizing Trump actions and an ICE shooting &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/260330/p15#a260330p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

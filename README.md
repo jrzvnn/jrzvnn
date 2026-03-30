@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look safe](http://9gag.com/gag/aAy9Lmp)
- - 😝 [The Cycle](http://9gag.com/gag/aD2vqgG)
- - 💣 [Very bold](http://9gag.com/gag/aD2vrW7)
  - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 👉 [Probabilty 1/3](http://9gag.com/gag/azx3oAq)<!-- MEMES:END -->
+ - 😝 [Livin the dream](http://9gag.com/gag/aoy7G0g)
+ - 💣 [Look safe](http://9gag.com/gag/aAy9Lmp)
+ - 😝 [Radical](http://9gag.com/gag/a2vXVqY)
+ - 👉 [&gt;_&lt;](http://9gag.com/gag/a5QY9PO)<!-- MEMES:END -->
 
 ---
 

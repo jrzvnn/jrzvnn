@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some thoughts about companies and people in San Francisco adapting to AI workflows, AI&#39;s sycophancy, &quot;cognitive offloading&quot; and &quot;cognitive surrender&quot;, and more &lpar;Ezra Klein/New York Times&rpar;](http://www.techmeme.com/260330/p9#a260330p9)
- - [A look at Amazon&#39;s major push into rural US areas, including building 24-hour delivery distribution centers in recent years, encroaching on Walmart&#39;s territory &lpar;Bloomberg&rpar;](http://www.techmeme.com/260330/p8#a260330p8)
- - [Paris-based AI startup Mistral raised $830M in its debut debt financing to build Nvidia-powered data centers across Europe; Mistral plans to spend €4B in total &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260330/p7#a260330p7)
- - [DeepSeek&#39;s chatbot suffered a major outage of over seven hours in China, its biggest outage since debut in 2025 and an unusual downtime for a globally used app &lpar;Bloomberg&rpar;](http://www.techmeme.com/260330/p6#a260330p6)
- - [An interview with early Twitter executive Jason Goldman on the platform&#39;s early free-speech-maximalist decisions, underinvestment in trust and safety, and more &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/260330/p5#a260330p5)<!-- TECH:END -->
+ - [Some schools in North Carolina, Virginia, Maryland, and Michigan are reevaluating classroom tech usage, including Chromebooks, amid student screen time concerns &lpar;New York Times&rpar;](http://www.techmeme.com/260330/p13#a260330p13)
+ - [Meet the Man Making Music With His Brain Implant](https://www.wired.com/story/meet-the-man-making-music-with-his-brain-implant/)
+ - [Q&amp;A with NYU professor Julian Togelius on his recent paper about LLMs&#39; limitations in playing video games, why coding is a kind of well-designed game, and more &lpar;Matthew S. Smith/IEEE Spectrum&rpar;](http://www.techmeme.com/260330/p12#a260330p12)
+ - [Amazon MGM&#39;s Project Hail Mary becomes its highest-grossing film ever, crossing $300M globally, including $54.1M just this weekend; the movie cost $200M to make &lpar;Brent Lang/Variety&rpar;](http://www.techmeme.com/260330/p11#a260330p11)
+ - [‘Guns, Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race](https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

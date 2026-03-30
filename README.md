@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Midjourney CEO David Holz says the company&#39;s revenue &quot;significantly surpassed&quot; $200M in 2023, and has &quot;gone up&quot; since then, despite its declining web traffic &lpar;Jemima McEvoy/The Information&rpar;](http://www.techmeme.com/260329/p10#a260329p10)
- - [Pro-AI group Innovation Council Action, praised by David Sacks, plans to spend $100M+ in the US midterms to drive deregulation and support Trump&#39;s AI agenda &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/260329/p9#a260329p9)
- - [Bluesky’s new app is an AI for customizing your feed](https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds)
- - [Amazon slashes up to $200 off new M5 Pro &amp; M5 Max MacBook Pros](https://appleinsider.com/articles/26/03/29/amazon-slashes-up-to-200-off-new-m5-pro-m5-max-macbook-pros?utm_source=rss)
- - [Sunday Reboot: Addiction, VR, and how the iPhone Air doesn&#39;t suck](https://appleinsider.com/articles/26/03/29/sunday-reboot-addiction-vr-and-how-the-iphone-air-doesnt-suck?utm_source=rss)<!-- TECH:END -->
+ - [Some defense tech startups are considering relocating to the US due to the UK&#39;s military spending delays, as some execs say the UK sector is at a &quot;standstill&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260329/p14#a260329p14)
+ - [An analysis of four large private-credit funds finds an average of ~25% software share exposure vs. ~19% disclosed, amid investor concerns about software stocks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260329/p13#a260329p13)
+ - [Inside the rise and fall of Sora, whose team worked separately from OpenAI&#39;s core research team, as OpenAI shuts down Sora and redirects compute to other tasks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260329/p12#a260329p12)
+ - [All the latest in AI &amp;#8216;music&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit)
+ - [Some developers say the App Store review process is taking significantly longer, up to multiple weeks, with an influx of vibe-coded apps as the likely cause &lpar;Business Insider&rpar;](http://www.techmeme.com/260329/p11#a260329p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

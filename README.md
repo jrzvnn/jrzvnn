@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She&#39;s nice](http://9gag.com/gag/a6ZR49q)
  - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 😝 [Livin the dream](http://9gag.com/gag/aoy7G0g)
- - 💣 [Look safe](http://9gag.com/gag/aAy9Lmp)
- - 😝 [Radical](http://9gag.com/gag/a2vXVqY)
- - 👉 [&gt;_&lt;](http://9gag.com/gag/a5QY9PO)<!-- MEMES:END -->
+ - 💣 [&gt;_&lt;](http://9gag.com/gag/a5QY9PO)
+ - 😝 [When you trust your life to the laws of physics when being ejected at 80 km/h from a truck moving at 80 km/h.](http://9gag.com/gag/a34Oz0r)
+ - 👉 [This mate was shocked to find his house spotlessly clean, from top to bottom, by the woman he&#39;d spent the night with after meeting her on a dating app](http://9gag.com/gag/aryLrjV)<!-- MEMES:END -->
 
 ---
 

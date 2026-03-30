@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivo launches X300 Ultra flagship ‘designed for professional photography’](https://www.theverge.com/tech/903250/vivo-x300-ultra-flagship-china-launch-specs)
- - [OpenAI&#39;s ChatGPT app store now has 300+ app integrations six months after its launch, but faces sluggish adoption due to limited functionality for many apps &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260330/p19#a260330p19)
- - [Apple II Forever!](https://www.theverge.com/tech/900677/apple-ii-personal-computer)
- - [KitchenAid redesigned its iconic mixer so you can set an exact speed](https://www.theverge.com/tech/901470/kitchenaid-artisan-plus-tilting-stand-mixer-speed-control-light)
- - [Finnish startup IQM Quantum Computers raised €50M from BlackRock to accelerate its global growth, ahead of a planned dual US and Helsinki IPO later in 2026 &lpar;Anne Kauranen/Reuters&rpar;](http://www.techmeme.com/260330/p18#a260330p18)<!-- TECH:END -->
+ - [That top Google result for Homebrew could infect your Mac](https://appleinsider.com/articles/26/03/30/that-top-google-result-for-homebrew-could-infect-your-mac?utm_source=rss)
+ - [Apple&#39;s AI home strategy, hands on with Sonos Play, and more on Smart Home Insider](https://appleinsider.com/articles/26/03/30/apples-ai-home-strategy-hands-on-with-sonos-play-and-more-on-smart-home-insider?utm_source=rss)
+ - [Uber agrees to acquire Berlin-based chauffeur booking app Blacklane for an undisclosed sum to bolster its Uber Elite service, set to close by the end of 2026 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260330/p23#a260330p23)
+ - [M5 MacBook Air review: Incremental update, but the best buy for most](https://appleinsider.com/articles/26/03/30/m5-macbook-air-review-incremental-update-but-the-best-buy-for-most?utm_source=rss)
+ - [Apple&#39;s third co-founder insists he still owns 10% of Apple](https://appleinsider.com/articles/26/03/30/apples-third-co-founder-insists-he-still-owns-10-of-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

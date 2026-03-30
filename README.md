@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Radical](http://9gag.com/gag/a2vXVqY)
  - 😝 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
- - 💣 [OSHA is calling](http://9gag.com/gag/abA8LNB)
- - 😝 [Ctrl + shift + T works even if you accidentally closed down the entire browser](http://9gag.com/gag/agme9G6)
- - 👉 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)<!-- MEMES:END -->
+ - 😝 [Lucky](http://9gag.com/gag/aoy7Gqn)
+ - 💣 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
+ - 😝 [LIFEGOAL](http://9gag.com/gag/aVv68p2)
+ - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
 
 ---
 

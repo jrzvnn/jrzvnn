@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal)
+ - [New in iOS 26.5: Notification Forwarding, Apple Intelligence in China](https://appleinsider.com/articles/26/03/30/new-in-ios-265-notification-forwarding-apple-intelligence-in-china?utm_source=rss)
+ - [It&#39;s the Final Days of the Amazon Spring Sale, and We&#39;re Tracking More Than 140 of the Absolute Best Deals](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
  - [Apple Intelligence finally rolls out in China](https://appleinsider.com/articles/26/03/30/apple-intelligence-finally-rolls-out-in-china?utm_source=rss)
- - [Apple Intelligence is rolling out in China, according to user reports, after launching in the US in October 2024 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/260330/p38#a260330p38)
- - [Sources: US prosecutors are exploring whether some prediction market bets, including on the capture of Nicolás Maduro, violated insider trading and other laws &lpar;Kara Scannell/CNN&rpar;](http://www.techmeme.com/260330/p37#a260330p37)
- - [Meta is testing an Instagram Plus subscription in a few countries, offering features including anonymous Story viewing and extended 48-hour Story durations &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260330/p36#a260330p36)
- - [Quinnipiac poll: 55% of Americans say AI will do more harm than good in their day-to-day lives, and 65% oppose building data centers in their community &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/260330/p35#a260330p35)<!-- TECH:END -->
+ - [Gurman: Apple pulls Apple Intelligence in China, after accidentally launching it in the country; there is no imminent launch as Apple has no regulatory approval &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/260330/p38#a260330p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

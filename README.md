@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based money transfer company Wise plans to launch UK bank accounts, joining an increasingly crowded market; Monzo reports 15M personal and business users &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/260330/p17#a260330p17)
- - [5 Best Video Doorbell Cameras &lpar;2026&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
- - [These retractable studded tires might save our roads, ears, and lungs](https://www.theverge.com/transportation/902561/nokian-hakkapeliitta-tire-retract-stud-winter)
- - [Space data center startup Starcloud raised a $170M Series A led by Benchmark and EQT at a $1.1B valuation, and plans to launch Starcloud 2 later in 2026 &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260330/p16#a260330p16)
- - [How Google DeepMind Chief Scientist Jeff Dean has been an outspoken voice on politics, a rare tech leader openly criticizing Trump actions and an ICE shooting &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/260330/p15#a260330p15)<!-- TECH:END -->
+ - [Vivo launches X300 Ultra flagship ‘designed for professional photography’](https://www.theverge.com/tech/903250/vivo-x300-ultra-flagship-china-launch-specs)
+ - [OpenAI&#39;s ChatGPT app store now has 300+ app integrations six months after its launch, but faces sluggish adoption due to limited functionality for many apps &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260330/p19#a260330p19)
+ - [Apple II Forever!](https://www.theverge.com/tech/900677/apple-ii-personal-computer)
+ - [KitchenAid redesigned its iconic mixer so you can set an exact speed](https://www.theverge.com/tech/901470/kitchenaid-artisan-plus-tilting-stand-mixer-speed-control-light)
+ - [Finnish startup IQM Quantum Computers raised €50M from BlackRock to accelerate its global growth, ahead of a planned dual US and Helsinki IPO later in 2026 &lpar;Anne Kauranen/Reuters&rpar;](http://www.techmeme.com/260330/p18#a260330p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lucky](http://9gag.com/gag/aoy7Gqn)
- - 😝 [Radical](http://9gag.com/gag/a2vXVqY)
- - 💣 [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 😝 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)
- - 👉 [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)<!-- MEMES:END -->
+ - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
+ - 😝 [This mate was shocked to find his house spotlessly clean, from top to bottom, by the woman he&#39;d spent the night with after meeting her on a dating app](http://9gag.com/gag/aryLrjV)
+ - 💣 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)
+ - 😝 [When you trust your life to the laws of physics when being ejected at 80 km/h from a truck moving at 80 km/h.](http://9gag.com/gag/a34Oz0r)
+ - 👉 [Radical](http://9gag.com/gag/a2vXVqY)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lucky](http://9gag.com/gag/aoy7Gqn)
- - 😝 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
- - 💣 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)
+ - 😝 [Pre smartphone game](http://9gag.com/gag/agmepQ1)
  - 😝 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - 👉 [Radical](http://9gag.com/gag/a2vXVqY)<!-- MEMES:END -->
+ - 💣 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)
+ - 😝 [Ctrl + shift + T works even if you accidentally closed down the entire browser](http://9gag.com/gag/agme9G6)
+ - 👉 [Lucky](http://9gag.com/gag/aoy7Gqn)<!-- MEMES:END -->
 
 ---
 

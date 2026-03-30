@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is more aggressively booting vibe coding apps from the App Store](https://appleinsider.com/articles/26/03/30/apple-is-more-aggressively-booting-vibe-coding-apps-from-the-app-store?utm_source=rss)
- - [Levels.fyi: median base-salary offers for US software engineers at VC-backed startups have risen 25% to $200K since 2022; total compensation has risen just 18% &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260330/p39#a260330p39)
- - [Apple Intelligence rolled out in China accidentally, without government approval](https://appleinsider.com/articles/26/03/30/apple-intelligence-finally-rolls-out-in-china?utm_source=rss)
- - [Save $200 on Apple&#39;s M5 Pro 16-inch MacBook Pro, lowest prices to date](https://appleinsider.com/articles/26/03/30/save-200-on-apples-m5-pro-16-inch-macbook-pro-lowest-prices-to-date?utm_source=rss)
- - [The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
+ - [OpenAI introduces a Codex plugin for Claude Code, letting users invoke Codex from inside Claude Code to review code or delegate tasks &lpar;Vaibhav &lpar;VB&rpar; Srivastav/@reach_vb&rpar;](http://www.techmeme.com/260330/p42#a260330p42)
+ - [These Are the Best Exercise Bikes for Achieving Your Fitness Goals in 2026](https://www.cnet.com/health/fitness/best-exercise-bike/)
+ - [Leaked January presentation: Coatue estimated that Anthropic would lose $14B in EBITDA on $18B in revenue in 2026 and reach a $1.995T valuation in 2030 &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/260330/p41#a260330p41)
+ - [Alibaba releases its Qwen3.5-Omni omnimodal LLM with support for 10+ hours of audio input, saying the Plus variant surpasses Gemini 3.1 Pro on audio benchmarks &lpar;Qwen&rpar;](http://www.techmeme.com/260330/p40#a260330p40)
+ - [Landlines Aren&#39;t Dead Yet: Here&#39;s Why They Matter in 2026](https://www.cnet.com/tech/mobile/why-you-may-still-need-your-landline/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

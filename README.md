@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new RCS update could connect iPhone and Android video calls, someday](https://www.theverge.com/tech/903509/apple-iphone-google-android-video-calls-rcs-universal-profile-4-0)
- - [iPhone 18 Pro&#39;s Dynamic Island might look like this](https://appleinsider.com/articles/26/03/30/iphone-18-pros-dynamic-island-might-look-like-this?utm_source=rss)
- - [Valinor, which aims to use smart contracts to replace manual lending processes in the private credit industry, raised a $25M seed led by Castle Island Ventures &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260330/p32#a260330p32)
- - [Sources: E*Trade is in talks to lead SpaceX IPO share sale to retail investors; Robinhood and SoFi have pitched for roles but SpaceX is mulling cutting them out &lpar;Reuters&rpar;](http://www.techmeme.com/260330/p31#a260330p31)
- - [Amazon&#39;s Big Spring Sale ends March 31, grab an iPad from $299](https://appleinsider.com/articles/26/03/30/amazons-big-spring-sale-ends-march-31-grab-an-ipad-from-299?utm_source=rss)<!-- TECH:END -->
+ - [Meta is testing an Instagram Plus subscription in a few countries, offering features including anonymous Story viewing and extended 48-hour Story durations &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260330/p36#a260330p36)
+ - [Quinnipiac poll: 55% of Americans say AI will do more harm than good in their day-to-day lives, and 65% oppose building data centers in their community &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/260330/p35#a260330p35)
+ - [Fermi shares drop 12%+ after the data center real estate company reported a $486M YTD net loss, amid concerns over a lack of a tenant for its Texas data center &lpar;Financial Times&rpar;](http://www.techmeme.com/260330/p34#a260330p34)
+ - [Our Favorite Amazon Streaming Stick Is Almost Half Off](https://www.wired.com/story/fire-tv-stick-max-deal-326/)
+ - [First iOS 26.5, macOS 26.5 developer betas now available for testing](https://appleinsider.com/articles/26/03/30/first-ios-265-macos-265-developer-betas-now-available-for-testing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

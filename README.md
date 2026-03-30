@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Pretext, a new JS library that solves the problem of calculating multi-line text height without touching the DOM, enabling highly dynamic layouts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260330/p4#a260330p4)
  - [Emails, texts, and NTSB reports show Waymo and an Austin school district struggled for months to train robotaxis to stop for school buses as required by law &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260330/p3#a260330p3)
  - [Chinese photonic chipmaker Yuanjie reported 2025 revenue up 138.5% YoY to ~$86.99M, data center revenue up 719% to ~$56.89M, ahead of its April 1 Hong Kong IPO &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/260330/p2#a260330p2)
  - [PwC: 76 mainland Chinese companies listed on Hong Kong Stock Exchange in 2025, up from 30 in 2024, despite the city&#39;s waning appeal to international investors &lpar;Sylvia Chang/BBC&rpar;](http://www.techmeme.com/260330/p1#a260330p1)
- - [Some defense tech startups are considering relocating to the US due to the UK&#39;s military spending delays, as some execs say the UK sector is at a &quot;standstill&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260329/p14#a260329p14)
- - [An analysis of four large private-credit funds finds an average of ~25% software share exposure vs. ~19% disclosed, amid investor concerns about software stocks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260329/p13#a260329p13)<!-- TECH:END -->
+ - [Some defense tech startups are considering relocating to the US due to the UK&#39;s military spending delays, as some execs say the UK sector is at a &quot;standstill&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260329/p14#a260329p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

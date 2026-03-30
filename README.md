@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Paradise&#39; Season 2 Ending Explained: From Dystopian Drama to Full-Blown Sci-Fi](https://www.cnet.com/tech/services-and-software/paradise-season-2-ending-explained-hulu/)
- - [I Downloaded &lpar;and Deleted&rpar; the White House App So You Don&#39;t Have To. It&#39;s a Hot Mess](https://www.cnet.com/tech/services-and-software/i-downloaded-and-deleted-the-white-house-app-so-you-dont-have-to-its-a-hot-mess/)
- - [OpenAI introduces a Codex plugin for Claude Code, letting users invoke Codex from inside Claude Code to review code or delegate tasks &lpar;Vaibhav Srivastav/@reach_vb&rpar;](http://www.techmeme.com/260330/p42#a260330p42)
- - [FBI Chief Kash Patel&#39;s Emails Leaked by Iran-Linked Hackers in Recent Breach](https://www.cnet.com/tech/services-and-software/iran-hackers-post-emails-resume-of-fbi-kash-patel/)
- - [These Are the Best Exercise Bikes for Achieving Your Fitness Goals in 2026](https://www.cnet.com/health/fitness/best-exercise-bike/)<!-- TECH:END -->
+ - [Inside David Sacks&#39; new role shaping Trump&#39;s AI agenda; officials say Sriram Krishnan is taking on a position at the National Economic Council to focus on AI &lpar;Axios&rpar;](http://www.techmeme.com/260330/p44#a260330p44)
+ - [Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals)
+ - [The Epic vs. Apple case won&#39;t get a rehearing for App Store fees](https://appleinsider.com/articles/26/03/30/the-epic-vs-apple-case-wont-get-a-rehearing-for-app-store-fees?utm_source=rss)
+ - [Micron shares closed down 10% on Monday and are now down 30% since Micron&#39;s blowout earnings report on March 18; Sandisk fell 7% and Western Digital dropped 9% &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260330/p43#a260330p43)
+ - [&#39;Paradise&#39; Season 2 Ending Explained: From Dystopian Drama to Full-Blown Sci-Fi](https://www.cnet.com/tech/services-and-software/paradise-season-2-ending-explained-hulu/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

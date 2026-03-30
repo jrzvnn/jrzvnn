@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI introduces a Codex plugin for Claude Code, letting users invoke Codex from inside Claude Code to review code or delegate tasks &lpar;Vaibhav &lpar;VB&rpar; Srivastav/@reach_vb&rpar;](http://www.techmeme.com/260330/p42#a260330p42)
- - [These Are the Best Exercise Bikes for Achieving Your Fitness Goals in 2026](https://www.cnet.com/health/fitness/best-exercise-bike/)
- - [Leaked January presentation: Coatue estimated that Anthropic would lose $14B in EBITDA on $18B in revenue in 2026 and reach a $1.995T valuation in 2030 &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/260330/p41#a260330p41)
- - [Alibaba releases its Qwen3.5-Omni omnimodal LLM with support for 10+ hours of audio input, saying the Plus variant surpasses Gemini 3.1 Pro on audio benchmarks &lpar;Qwen&rpar;](http://www.techmeme.com/260330/p40#a260330p40)
- - [Landlines Aren&#39;t Dead Yet: Here&#39;s Why They Matter in 2026](https://www.cnet.com/tech/mobile/why-you-may-still-need-your-landline/)<!-- TECH:END -->
+ - [&#39;Paradise&#39; Season 2 Ending Explained: From Dystopian Drama to Full-Blown Sci-Fi](https://www.cnet.com/tech/services-and-software/paradise-season-2-ending-explained-hulu/)
+ - [I Downloaded &lpar;and Deleted&rpar; the White House App So You Don&#39;t Have To. It&#39;s a Hot Mess](https://www.cnet.com/tech/services-and-software/i-downloaded-and-deleted-the-white-house-app-so-you-dont-have-to-its-a-hot-mess/)
+ - [OpenAI introduces a Codex plugin for Claude Code, letting users invoke Codex from inside Claude Code to review code or delegate tasks &lpar;Vaibhav Srivastav/@reach_vb&rpar;](http://www.techmeme.com/260330/p42#a260330p42)
+ - [FBI Chief Kash Patel&#39;s Emails Leaked by Iran-Linked Hackers in Recent Breach](https://www.cnet.com/tech/services-and-software/iran-hackers-post-emails-resume-of-fbi-kash-patel/)
+ - [These Are the Best Exercise Bikes for Achieving Your Fitness Goals in 2026](https://www.cnet.com/health/fitness/best-exercise-bike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

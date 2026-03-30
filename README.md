@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
- - 😝 [UK officer confiscated the national flag from woman because it&#39;s offensive](http://9gag.com/gag/aW4Xer2)
- - 💣 [Just why](http://9gag.com/gag/amoZyWv)
  - 😝 [Radical](http://9gag.com/gag/a2vXVqY)
- - 👉 [The Cycle](http://9gag.com/gag/aD2vqgG)<!-- MEMES:END -->
+ - 😝 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
+ - 💣 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
+ - 😝 [This is so accurate it hurts](http://9gag.com/gag/a2vXV0Z)
+ - 👉 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)<!-- MEMES:END -->
 
 ---
 

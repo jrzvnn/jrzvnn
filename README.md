@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very bold](http://9gag.com/gag/aD2vrW7)
- - 😝 [Probabilty 1/3](http://9gag.com/gag/azx3oAq)
- - 💣 [Now THAT&#39;S clean magic!](http://9gag.com/gag/aByeNd1)
+ - 😝 [Just give me the burger](http://9gag.com/gag/aByejoN)
+ - 😝 [&gt;_&lt;](http://9gag.com/gag/a5QY9PO)
+ - 💣 [This mate was shocked to find his house spotlessly clean, from top to bottom, by the woman he&#39;d spent the night with after meeting her on a dating app](http://9gag.com/gag/aryLrjV)
  - 😝 [When you trust your life to the laws of physics when being ejected at 80 km/h from a truck moving at 80 km/h.](http://9gag.com/gag/a34Oz0r)
  - 👉 [`I&#39;m white like you, saar... I mean Joe!`](http://9gag.com/gag/aGyQNLZ)<!-- MEMES:END -->
 

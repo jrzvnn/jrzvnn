@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Pretext, a new JS library that solves the problem of calculating multi-line text height without touching the DOM, enabling highly dynamic layouts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260330/p4#a260330p4)
- - [Emails, texts, and NTSB reports show Waymo and an Austin school district struggled for months to train robotaxis to stop for school buses as required by law &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260330/p3#a260330p3)
- - [Chinese photonic chipmaker Yuanjie reported 2025 revenue up 138.5% YoY to ~$86.99M, data center revenue up 719% to ~$56.89M, ahead of its April 1 Hong Kong IPO &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/260330/p2#a260330p2)
- - [PwC: 76 mainland Chinese companies listed on Hong Kong Stock Exchange in 2025, up from 30 in 2024, despite the city&#39;s waning appeal to international investors &lpar;Sylvia Chang/BBC&rpar;](http://www.techmeme.com/260330/p1#a260330p1)
- - [Some defense tech startups are considering relocating to the US due to the UK&#39;s military spending delays, as some execs say the UK sector is at a &quot;standstill&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260329/p14#a260329p14)<!-- TECH:END -->
+ - [Some thoughts about companies and people in San Francisco adapting to AI workflows, AI&#39;s sycophancy, &quot;cognitive offloading&quot; and &quot;cognitive surrender&quot;, and more &lpar;Ezra Klein/New York Times&rpar;](http://www.techmeme.com/260330/p9#a260330p9)
+ - [A look at Amazon&#39;s major push into rural US areas, including building 24-hour delivery distribution centers in recent years, encroaching on Walmart&#39;s territory &lpar;Bloomberg&rpar;](http://www.techmeme.com/260330/p8#a260330p8)
+ - [Paris-based AI startup Mistral raised $830M in its debut debt financing to build Nvidia-powered data centers across Europe; Mistral plans to spend €4B in total &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260330/p7#a260330p7)
+ - [DeepSeek&#39;s chatbot suffered a major outage of over seven hours in China, its biggest outage since debut in 2025 and an unusual downtime for a globally used app &lpar;Bloomberg&rpar;](http://www.techmeme.com/260330/p6#a260330p6)
+ - [An interview with early Twitter executive Jason Goldman on the platform&#39;s early free-speech-maximalist decisions, underinvestment in trust and safety, and more &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/260330/p5#a260330p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

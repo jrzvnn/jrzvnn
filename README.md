@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
- - 😝 [Lucky](http://9gag.com/gag/aoy7Gqn)
- - 💣 [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)
- - 😝 [Ctrl + shift + T works even if you accidentally closed down the entire browser](http://9gag.com/gag/agme9G6)
- - 👉 [Pre smartphone game](http://9gag.com/gag/agmepQ1)<!-- MEMES:END -->
+ - 😝 [It is what it is](http://9gag.com/gag/aAy978Z)
+ - 😝 [Radical](http://9gag.com/gag/a2vXVqY)
+ - 💣 [They really don&#39;t see the irony here do they](http://9gag.com/gag/aVv68by)
+ - 😝 [This is so accurate it hurts](http://9gag.com/gag/a2vXV0Z)
+ - 👉 [4 years clean](http://9gag.com/gag/a6ZRgLN)<!-- MEMES:END -->
 
 ---
 

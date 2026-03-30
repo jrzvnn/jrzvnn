@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
  - 😝 [Radical](http://9gag.com/gag/a2vXVqY)
- - 😝 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
- - 💣 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - 😝 [This is so accurate it hurts](http://9gag.com/gag/a2vXV0Z)
+ - 💣 [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - 😝 [Lucky](http://9gag.com/gag/aoy7Gqn)
  - 👉 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)<!-- MEMES:END -->
 
 ---

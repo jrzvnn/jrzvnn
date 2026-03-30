@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal)
- - [New in iOS 26.5: Notification Forwarding, Apple Intelligence in China](https://appleinsider.com/articles/26/03/30/new-in-ios-265-notification-forwarding-apple-intelligence-in-china?utm_source=rss)
- - [It&#39;s the Final Days of the Amazon Spring Sale, and We&#39;re Tracking More Than 140 of the Absolute Best Deals](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)
- - [Apple Intelligence finally rolls out in China](https://appleinsider.com/articles/26/03/30/apple-intelligence-finally-rolls-out-in-china?utm_source=rss)
- - [Gurman: Apple pulls Apple Intelligence in China, after accidentally launching it in the country; there is no imminent launch as Apple has no regulatory approval &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/260330/p38#a260330p38)<!-- TECH:END -->
+ - [Apple is more aggressively booting vibe coding apps from the App Store](https://appleinsider.com/articles/26/03/30/apple-is-more-aggressively-booting-vibe-coding-apps-from-the-app-store?utm_source=rss)
+ - [Levels.fyi: median base-salary offers for US software engineers at VC-backed startups have risen 25% to $200K since 2022; total compensation has risen just 18% &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260330/p39#a260330p39)
+ - [Apple Intelligence rolled out in China accidentally, without government approval](https://appleinsider.com/articles/26/03/30/apple-intelligence-finally-rolls-out-in-china?utm_source=rss)
+ - [Save $200 on Apple&#39;s M5 Pro 16-inch MacBook Pro, lowest prices to date](https://appleinsider.com/articles/26/03/30/save-200-on-apples-m5-pro-16-inch-macbook-pro-lowest-prices-to-date?utm_source=rss)
+ - [The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

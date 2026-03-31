@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warren Buffett made over $100B on Apple stock, says he sold too soon](https://appleinsider.com/articles/26/03/31/warren-buffett-made-over-100b-on-apple-stock-says-he-sold-too-soon?utm_source=rss)
- - [Amazon&#39;s Big Spring Sale ends today, grab best deals on 2026 MacBooks, AirPods Max 2, iPads &amp; more](https://appleinsider.com/articles/26/03/31/amazons-big-spring-sale-ends-today-grab-best-deals-on-2026-macbooks-airpods-max-2-ipads-more?utm_source=rss)
- - [Claude Code&#39;s source code appears to have leaked via a misconfigured npm package, revealing internal codenames, a &quot;Self-Healing Memory&quot; architecture, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260331/p39#a260331p39)
- - [The best deals to shop on the last day of Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
- - [Anthropic&#39;s Claude Code Source Code Reportedly Leaked Via Their npm Registry &lpar;Guru Baran/Cyber Security News&rpar;](http://www.techmeme.com/260331/p38#a260331p38)<!-- TECH:END -->
+ - [Improved Siri will understand multiple commands in a single sentence](https://appleinsider.com/articles/26/03/31/improved-siri-will-understand-multiple-commands-in-a-single-sentence?utm_source=rss)
+ - [The Best Time to Drink Coffee for Productivity &lpar;and When Not To&rpar;](https://www.wired.com/story/when-to-drink-coffee-optimization/)
+ - [Sources: Apple is testing letting Siri process multiple requests in a single query in iOS 27, and explored a Grammarly-like keyboard that expands autocorrect &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260331/p42#a260331p42)
+ - [Iran Warns US Tech Firms Could Become Targets as War Expands](https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/)
+ - [Future iPhones could feature a breathalyzer that spots high cholesterol](https://appleinsider.com/articles/26/03/31/future-iphones-could-feature-a-breathalyzer-that-spots-high-cholesterol?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Social gaming startup Rec Room is shutting down its service on June 1, saying it could not find a path to profitability; it was valued at $3.5B in December 2021 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260330/p45#a260330p45)
  - [Inside David Sacks&#39; new role shaping Trump&#39;s AI agenda; officials say Sriram Krishnan is taking on a position at the National Economic Council to focus on AI &lpar;Axios&rpar;](http://www.techmeme.com/260330/p44#a260330p44)
  - [Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals)
  - [The Epic vs. Apple case won&#39;t get a rehearing for App Store fees](https://appleinsider.com/articles/26/03/30/the-epic-vs-apple-case-wont-get-a-rehearing-for-app-store-fees?utm_source=rss)
- - [Micron shares closed down 10% on Monday and are now down 30% since Micron&#39;s blowout earnings report on March 18; Sandisk fell 7% and Western Digital dropped 9% &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260330/p43#a260330p43)
- - [&#39;Paradise&#39; Season 2 Ending Explained: From Dystopian Drama to Full-Blown Sci-Fi](https://www.cnet.com/tech/services-and-software/paradise-season-2-ending-explained-hulu/)<!-- TECH:END -->
+ - [Micron shares closed down 10% on Monday and are now down 30% since Micron&#39;s blowout earnings report on March 18; Sandisk fell 7% and Western Digital dropped 9% &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260330/p43#a260330p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

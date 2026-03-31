@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX says it lost contact with a Starlink satellite after suffering an &quot;anomaly&quot;, following a similar incident in December; the satellite likely exploded &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/260331/p9#a260331p9)
- - [Opposing ICE Might Save the Country. It Could Also Ruin Your Life](https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life/)
- - [UK accountancy regulator FRC says auditors can&#39;t blame AI for audit failures, after it published what it called the world&#39;s first guidance on auditor AI usage &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/260331/p8#a260331p8)
- - [Amsterdam-based Nebius announces a $10B, 310MW data center in Lappeenranta, Finland, built by developer Polarnode and set to begin phased operations in 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/260331/p7#a260331p7)
- - [Wearable maker Whoop raised $575M led by Collaborative Fund at a $10.1B valuation and says it hit $1B in ARR by 2025&#39;s end; 60% of its 2025 sales were non-US &lpar;Niko Gallogly/New York Times&rpar;](http://www.techmeme.com/260331/p6#a260331p6)<!-- TECH:END -->
+ - [Vitesy Shelfy 2 Smart Fridge Purifier Review: Small Box, Big Promises](https://www.wired.com/review/vitesy-shelfy-2/)
+ - [This App Makes Even the Sketchiest PDF or Word Doc Safe to Open](https://www.wired.com/story/dangerzone-app-for-safe-pdfs-word-docs/)
+ - [Apple at 50: a visual history](https://www.theverge.com/tech/901418/apple-history-photos)
+ - [Beijing-based AI company Z.ai reports 2025 revenue of ~$105M, below ~$109M est., and net loss up 60% YoY to ~$680M, vs. ~$545M est., amid aggressive spending &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p14#a260331p14)
+ - [Alibaba&#39;s new Qwen3.5-Omni multimodal model, which processes text, audio, images, and video, is proprietary, marking a shift away from its open-source strategy &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260331/p13#a260331p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

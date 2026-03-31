@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AT&amp;T agreed last week to a deal worth up to $2B to upgrade the FirstNet emergency cellular network it runs for the Commerce Department &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260331/p63#a260331p63)
- - [Letters to Sen. Ed Markey: six autonomous vehicle companies say remote assistants don&#39;t directly control vehicles; Tesla says its operators are allowed to do so &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260331/p62#a260331p62)
- - [Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale](https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals)
- - [Sources: Microsoft is in talks with Chevron and investment fund Engine No. 1 over a $7B Texas power plant that would initially generate 2.5 GW of electricity &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p61#a260331p61)
- - [Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260331/p60#a260331p60)<!-- TECH:END -->
+ - [NYC Mayor Zohran Mamdani allows city agencies to use TikTok, with some restrictions, reversing a 2023 ban his predecessor enacted over data security concerns &lpar;Chris Sommerfeldt/Politico&rpar;](http://www.techmeme.com/260331/p65#a260331p65)
+ - [The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal)
+ - [G-Raid Project 2 review: High-quality enterprise storage](https://appleinsider.com/articles/25/10/05/sandisk-professional-g-raid-project-2-review-high-quality-enterprise-storage?utm_source=rss)
+ - [Salesforce announces over 30 new features for Slack, including a meeting transcription feature and an operator mode to complete multi-step tasks on the desktop &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260331/p64#a260331p64)
+ - [Sources: AT&amp;T agreed last week to a deal worth up to $2B to upgrade the FirstNet emergency cellular network it runs for the Commerce Department &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260331/p63#a260331p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

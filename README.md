@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LIFEGOAL](http://9gag.com/gag/aVv68p2)
- - 😝 [My baby&#39;s growth chart vs corporate sales projections](http://9gag.com/gag/a7oxg6L)
- - 💣 [Old meme](http://9gag.com/gag/a87gNr1)
- - 😝 [Drunken elephants really do exist, and their chaotic behavior is hilarious. Thanks to fermented marula fruit &lpar;which has an alcohol content similar to that of beer&rpar;, these gentle giants end up getting drunk.](http://9gag.com/gag/a0e33vd)
- - 👉 [Zoro got lost and ended up on my wall again](http://9gag.com/gag/axyrKoK)<!-- MEMES:END -->
+ - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
+ - 💣 [Just motorbike things](http://9gag.com/gag/aW4XARd)
+ - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
 
 ---
 

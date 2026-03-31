@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Radical](http://9gag.com/gag/a2vXVqY)
  - 😝 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 😝 [Just motorbike things](http://9gag.com/gag/aW4XARd)
  - 💣 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - 😝 [When the remote control car has better moves than your dance](http://9gag.com/gag/abA8DOX)
+ - 😝 [Zoro got lost and ended up on my wall again](http://9gag.com/gag/axyrKoK)
  - 👉 [Pre smartphone game](http://9gag.com/gag/agmepQ1)<!-- MEMES:END -->
 
 ---

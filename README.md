@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI closed a record-breaking $122B funding round led by SoftBank, a16z, and others at a post-money valuation of $852B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260331/p50#a260331p50)
- - [Apple at 50: Paul McCartney sound check and the employee gift bag](https://appleinsider.com/articles/26/03/31/apple-at-50-paul-mccartney-sound-check-and-the-employee-gift-bag?utm_source=rss)
- - [Apple TV HD and iPad mini 4 are now on Apple&#39;s &#39;obsolete products&#39; list](https://appleinsider.com/articles/26/03/31/apple-tv-hd-and-ipad-mini-4-are-now-on-apples-obsolete-products-list?utm_source=rss)
- - [Samsung’s new app claims to alleviate motion sickness using sound](https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms)
- - [Anker&amp;#8217;s power bank with built-in cables is one of my favorite gadgets, and it&amp;#8217;s cheaper than usual](https://www.theverge.com/gadgets/904523/anker-laptop-power-bank-amazon-big-spring-sale-2026-deal-sale)<!-- TECH:END -->
+ - [Snap shares climbed 14% on Tuesday after activist investor Irenic suggested changes to boost the stock&#39;s value 7x, such as cutting staff by 21% and ending Specs &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260331/p54#a260331p54)
+ - [Yupp, which raised a $33M seed led by a16z crypto in 2024 for a crowdsourced AI model picker, shuts down, saying it didn&#39;t reach strong product-market fit &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260331/p53#a260331p53)
+ - [Microsoft stock plunged 23% in Q1, a steeper drop than any of its tech peers or the Nasdaq, and its steepest quarterly drop since the 2008 financial crisis &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260331/p52#a260331p52)
+ - [OpenAI has tapped retail investors for the first time, raising $3B+ as part of its $122B round, through a trio of banks and ETFs managed by ARK Invest &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260331/p51#a260331p51)
+ - [OpenAI closed a $122B funding round led by SoftBank, a16z, and others at an $852B post-money valuation, after previously announcing the round would total $110B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260331/p50#a260331p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

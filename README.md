@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social gaming startup Rec Room is shutting down its service on June 1, saying it could not find a path to profitability; it was valued at $3.5B in December 2021 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260330/p45#a260330p45)
- - [Inside David Sacks&#39; new role shaping Trump&#39;s AI agenda; officials say Sriram Krishnan is taking on a position at the National Economic Council to focus on AI &lpar;Axios&rpar;](http://www.techmeme.com/260330/p44#a260330p44)
- - [Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals)
- - [The Epic vs. Apple case won&#39;t get a rehearing for App Store fees](https://appleinsider.com/articles/26/03/30/the-epic-vs-apple-case-wont-get-a-rehearing-for-app-store-fees?utm_source=rss)
- - [Micron shares closed down 10% on Monday and are now down 30% since Micron&#39;s blowout earnings report on March 18; Sandisk fell 7% and Western Digital dropped 9% &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260330/p43#a260330p43)<!-- TECH:END -->
+ - [How to back up your iPhone &amp; iPad to your Mac before something goes wrong](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-iphone-ipad-to-your-mac-before-something-goes-wrong?utm_source=rss)
+ - [Newsom Signs Executive Order Requiring AI Companies to Provide Safety, Privacy Guardrails](https://www.cnet.com/tech/newsom-signs-executive-order-requiring-ai-companies-to-provide-safety-privacy-guardrails/)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-31/)
+ - [AI coding agents will drastically alter both the practice and the economics of exploit development, automating the discovery of zero-day vulnerabilities &lpar;Thomas H. Ptacek/sockpuppet.org&rpar;](http://www.techmeme.com/260330/p47#a260330p47)
+ - [California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260330/p46#a260330p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Max 2 review: comfortable, excellent sound quality, and lots of new features, but retains the same design, pricey, and only one hearing health feature &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/260331/p30#a260331p30)
- - [Instagram reaches an agreement with the MPA to cease using the PG-13 trademark in its Teen Accounts marketing, after a C&amp;D letter, and will add a disclaimer &lpar;New York Times&rpar;](http://www.techmeme.com/260331/p29#a260331p29)
- - [Samsung rolls out blood pressure monitoring for Galaxy Watch 4 and newer models in the US, requiring a traditional upper-arm blood pressure cuff and a new app &lpar;Vanessa Hand Orellana/CNET&rpar;](http://www.techmeme.com/260331/p28#a260331p28)
- - [Nvidia launches DLSS 4.5, including a 6x Multi Frame Generation feature exclusive to RTX 50-series GPUs that utilizes a second-gen transformer AI model &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260331/p27#a260331p27)
- - [AirPods Max 2 review: Familiar features &amp; design, but needs more](https://appleinsider.com/articles/26/03/31/airpods-max-2-review-familiar-features-design-but-needs-more?utm_source=rss)<!-- TECH:END -->
+ - [Google says all users in the US can now change their Google Account username; users are restricted to one username change every 12 months &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/260331/p37#a260331p37)
+ - [Meta agrees to ‘reduce’ Instagram’s PG-13 rating references](https://www.theverge.com/tech/904081/meta-mpa-agreement-pg-13-rating)
+ - [In a Big Reversal, Zohran Mamdani Tells NYC Agencies to Use TikTok](https://www.wired.com/story/in-a-big-reversal-zohran-mamdani-tells-nyc-agencies-to-use-tiktok/)
+ - [Runway launches a $10M fund to invest in early-stage startups building across AI, media, and world simulation and a Builders program offering free API credits &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260331/p36#a260331p36)
+ - [Rounded chassis, tiny Dynamic Island expected for 20th anniversary iPhone](https://appleinsider.com/articles/26/03/31/rounded-chassis-tiny-dynamic-island-expected-for-20th-anniversary-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

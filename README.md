@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is what it is](http://9gag.com/gag/aAy978Z)
- - 😝 [Radical](http://9gag.com/gag/a2vXVqY)
- - 💣 [They really don&#39;t see the irony here do they](http://9gag.com/gag/aVv68by)
- - 😝 [This is so accurate it hurts](http://9gag.com/gag/a2vXV0Z)
- - 👉 [4 years clean](http://9gag.com/gag/a6ZRgLN)<!-- MEMES:END -->
+ - 😝 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 😝 [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - 💣 [Radical](http://9gag.com/gag/a2vXVqY)
+ - 😝 [Yea... very frightening indeed.](http://9gag.com/gag/axyrK6M)
+ - 👉 [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)<!-- MEMES:END -->
 
 ---
 

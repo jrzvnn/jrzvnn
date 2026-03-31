@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The Cycle](http://9gag.com/gag/aD2vqgG)
- - 😝 [Lucky](http://9gag.com/gag/aoy7Gqn)
- - 💣 [OSHA is calling](http://9gag.com/gag/abA8LNB)
- - 😝 [Denied](http://9gag.com/gag/amoZQPj)
- - 👉 [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)<!-- MEMES:END -->
+ - 😝 [OSHA is calling](http://9gag.com/gag/abA8LNB)
+ - 💣 [Denied](http://9gag.com/gag/amoZQPj)
+ - 😝 [When the remote control car has better moves than your dance](http://9gag.com/gag/abA8DOX)
+ - 👉 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lucky](http://9gag.com/gag/aoy7Gqn)
- - 😝 [Just motorbike things](http://9gag.com/gag/aW4XARd)
- - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - 😝 [LIFEGOAL](http://9gag.com/gag/aVv68p2)
- - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
+ - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 😝 [She just executed a turtle and called it saving](http://9gag.com/gag/aMVL62x)
+ - 💣 [Just why](http://9gag.com/gag/amoZyWv)
+ - 😝 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 👉 [Just motorbike things](http://9gag.com/gag/aW4XARd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - 😝 [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - 😝 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
+ - 😝 [Pre smartphone game](http://9gag.com/gag/agmepQ1)
  - 💣 [Radical](http://9gag.com/gag/a2vXVqY)
- - 😝 [Yea... very frightening indeed.](http://9gag.com/gag/axyrK6M)
- - 👉 [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)<!-- MEMES:END -->
+ - 😝 [Denied](http://9gag.com/gag/amoZQPj)
+ - 👉 [OSHA is calling](http://9gag.com/gag/abA8LNB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to back up your iPhone &amp; iPad to your Mac before something goes wrong](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-iphone-ipad-to-your-mac-before-something-goes-wrong?utm_source=rss)
- - [Newsom Signs Executive Order Requiring AI Companies to Provide Safety, Privacy Guardrails](https://www.cnet.com/tech/newsom-signs-executive-order-requiring-ai-companies-to-provide-safety-privacy-guardrails/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-31/)
- - [AI coding agents will drastically alter both the practice and the economics of exploit development, automating the discovery of zero-day vulnerabilities &lpar;Thomas H. Ptacek/sockpuppet.org&rpar;](http://www.techmeme.com/260330/p47#a260330p47)
- - [California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260330/p46#a260330p46)<!-- TECH:END -->
+ - [T-Mobile Business Promo Codes and Deals](https://www.wired.com/story/t-mobile-business-promo-code/)
+ - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)
+ - [Sources: London-based chip startup Fractile is in talks to raise over $200M from Accel and others at a $1B valuation; Fractile raised a $15M seed round in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/260331/p2#a260331p2)
+ - [A look at Babel Audio, which pairs anonymous strangers to record their conversations, starting at $17/hour, and bundles those recordings into AI training data &lpar;Issie Lapowsky/Bloomberg&rpar;](http://www.techmeme.com/260331/p1#a260331p1)
+ - [How to back up your iPhone &amp; iPad to your Mac before something goes wrong](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-iphone-ipad-to-your-mac-before-something-goes-wrong?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

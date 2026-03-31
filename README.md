@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austin-based Saronic, which builds military autonomous ships, raised a $1.75B Series D led by Kleiner Perkins at a $9.25B valuation, up from $4B in Feb. 2025 &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260331/p57#a260331p57)
- - [Sequoia says Doug Leone is returning in a newly created role of chairman, after he announced his retirement in 2022 from his role as &quot;senior steward&quot; &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260331/p56#a260331p56)
- - [Iran Threatens to Start Attacking Major US Tech Firms on April 1](https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/)
- - [Anthropic confirms it leaked parts of Claude Code&#39;s source code, saying the leak was &quot;a release packaging issue caused by human error, not a security breach&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260331/p55#a260331p55)
- - [OpenAI&#39;s ChatGPT now available hands-free via CarPlay with iOS 26.4](https://appleinsider.com/articles/26/03/31/openais-chatgpt-now-available-hands-free-via-carplay-with-ios-264?utm_source=rss)<!-- TECH:END -->
+ - [Apple CEO Tim Cook delivered speech &amp; rung Nasdaq Opening Bell Tuesday](https://appleinsider.com/articles/26/03/31/apple-ceo-tim-cook-delivered-speech-rung-nasdaq-opening-bell-tuesday?utm_source=rss)
+ - [An excerpt from the book The Infinity Machine details how DeepMind&#39;s early governance battles with Google changed Demis Hassabis from an idealist into a realist &lpar;Sebastian Mallaby/Colossus&rpar;](http://www.techmeme.com/260331/p59#a260331p59)
+ - [You can grab a four-pack of Govee’s color-changing smart bulbs for just $27](https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal)
+ - [Samsung launches Hearapy, a free Android app to mitigate motion sickness by playing a 100Hz sine wave tone; a 60-second session can provide two hours of relief &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/260331/p58#a260331p58)
+ - [Artemis II Countdown: How and When to Watch the Launch](https://www.wired.com/story/artemis-ii-countdown-how-and-when-to-watch-the-launch-of-the-manned-mission-to-the-moon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

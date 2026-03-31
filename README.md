@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - 😝 [Just motorbike things](http://9gag.com/gag/aW4XARd)
- - 💣 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)
- - 😝 [Thank you BlackRock](http://9gag.com/gag/a4P0yyv)
- - 👉 [OSHA is calling](http://9gag.com/gag/abA8LNB)<!-- MEMES:END -->
+ - 😝 [They really don&#39;t see the irony here do they](http://9gag.com/gag/aVv68by)
+ - 😝 [I have mixed feelings about this](http://9gag.com/gag/aMVL6RA)
+ - 💣 [4 years clean](http://9gag.com/gag/a6ZRgLN)
+ - 😝 [Old meme](http://9gag.com/gag/a87gNr1)
+ - 👉 [I&#39;m just saying, it&#39;s not wrong](http://9gag.com/gag/aW4X5BA)<!-- MEMES:END -->
 
 ---
 

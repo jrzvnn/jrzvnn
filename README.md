@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vitesy Shelfy 2 Smart Fridge Purifier Review: Small Box, Big Promises](https://www.wired.com/review/vitesy-shelfy-2/)
- - [This App Makes Even the Sketchiest PDF or Word Doc Safe to Open](https://www.wired.com/story/dangerzone-app-for-safe-pdfs-word-docs/)
- - [Apple at 50: a visual history](https://www.theverge.com/tech/901418/apple-history-photos)
- - [Beijing-based AI company Z.ai reports 2025 revenue of ~$105M, below ~$109M est., and net loss up 60% YoY to ~$680M, vs. ~$545M est., amid aggressive spending &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p14#a260331p14)
- - [Alibaba&#39;s new Qwen3.5-Omni multimodal model, which processes text, audio, images, and video, is proprietary, marking a shift away from its open-source strategy &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260331/p13#a260331p13)<!-- TECH:END -->
+ - [Sources: South Korean memory chipmakers have sufficient helium stocks until at least June, and a South Korean minister ruled out supply disruptions in H1 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/260331/p19#a260331p19)
+ - [US CTO Ethan Klein plans to urge the UK and its allies to help &quot;shore up&quot; quantum computing supply chains at a London meeting, after a US-UK tech deal standoff &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260331/p18#a260331p18)
+ - [We&#39;re Still Tracking All the Best Amazon Spring Sale Deals, Even on the Final Day](https://www.cnet.com/news-live/best-amazon-spring-sale-deals-live-tracker-2026/)
+ - [Analysis: in 2025, Vietnam surpassed China as the leading supplier of laptops and game consoles to the US for the first time, despite President Trump&#39;s tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p17#a260331p17)
+ - [Backup Files and Your Entire Digital Life &lpar;2026&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

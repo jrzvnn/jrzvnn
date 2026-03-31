@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games](https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability)
- - [No Kings is taking back Americana](https://www.theverge.com/policy/904405/no-kings-protests-portland-americana)
- - [Monzo is shuttering its US operations to focus on scaling in the UK and Europe; source: it will lay off ~50 employees and close clients&#39; accounts in June &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/260331/p47#a260331p47)
- - [The Galaxy S26’s photo app can sloppify your memories](https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop)
- - [Google attributes the supply chain attack on HTTP client Axios to a suspected North Korean threat actor it calls UNC1069 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260331/p46#a260331p46)<!-- TECH:END -->
+ - [Anker&amp;#8217;s power bank with built-in cables is one of my favorite gadgets, and it&amp;#8217;s cheaper than usual](https://www.theverge.com/gadgets/904523/anker-laptop-power-bank-amazon-big-spring-sale-2026-deal-sale)
+ - [PrismML, which says its 1-bit LLM achieves radical compression without sacrificing performance, comes out of stealth with $16.25M in SAFE and seed funding &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/260331/p49#a260331p49)
+ - [Iranian media: Iran arrested 46 people allegedly in a network selling Starlink terminals and seized 139 terminals; there are an estimated 50K terminals in Iran &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p48#a260331p48)
+ - [The Super Mario Galaxy Movie is beautiful but a little too busy](https://www.theverge.com/entertainment/904033/the-super-mario-galaxy-movie-review)
+ - [Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games](https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Cycle](http://9gag.com/gag/aD2vqgG)
- - 😝 [OSHA is calling](http://9gag.com/gag/abA8LNB)
- - 💣 [Denied](http://9gag.com/gag/amoZQPj)
+ - 😝 [Lucky](http://9gag.com/gag/aoy7Gqn)
+ - 😝 [Denied](http://9gag.com/gag/amoZQPj)
+ - 💣 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
  - 😝 [When the remote control car has better moves than your dance](http://9gag.com/gag/abA8DOX)
- - 👉 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)<!-- MEMES:END -->
+ - 👉 [The Cycle](http://9gag.com/gag/aD2vqgG)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A supply chain attack compromises HTTP client Axios, which has 100M weekly npm downloads, introducing a malicious dependency and deploying a multi-stage payload &lpar;Socket&rpar;](http://www.techmeme.com/260331/p4#a260331p4)
+ - [Another Starlink satellite has inexplicably exploded](https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded)
  - [Indian government data: India&#39;s smartphone exports rose 55% YoY to $11B in H1 FY 2026; analysts warn the Iran war may trigger a 22%-25% drop in the coming weeks &lpar;Quratulain Rehbar/Nikkei Asia&rpar;](http://www.techmeme.com/260331/p3#a260331p3)
  - [T-Mobile Business Promo Codes and Deals](https://www.wired.com/story/t-mobile-business-promo-code/)
- - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)
- - [Samsung Earbuds App Treats Motion Sickness With Deep, Soothing Sound](https://www.cnet.com/health/medical/samsung-hearapy-app-motion-sickness-sound-treatment/)
- - [Sources: London-based chip startup Fractile is in talks to raise over $200M from Accel and others at a $1B valuation; Fractile raised a $15M seed round in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/260331/p2#a260331p2)<!-- TECH:END -->
+ - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

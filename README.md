@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA Artemis II launch getting the Apple Vision Pro immersive video treatment](https://appleinsider.com/articles/26/03/31/nasa-artemis-ii-launch-getting-the-apple-vision-pro-immersive-video-treatment?utm_source=rss)
- - [Google launches Veo 3.1 Lite, costing &lt;50% of Veo 3.1 Fast and meant for &quot;high-volume video applications&quot;, and affirms its commitment to video generation tools &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260331/p45#a260331p45)
- - [The Sonos Play and mic-less Era 100 SL are now available](https://www.theverge.com/gadgets/903746/sonos-play-era-100-sl-speakers-price-release-date-availability)
- - [The US Military’s GPS Software Is an $8 Billion Mess](https://www.wired.com/story/the-us-militarys-gps-software-is-an-8-billion-mess/)
- - [The Promise of &#39;Woke 2&#39; Is Fueling a Leftist Fever Dream](https://www.wired.com/story/the-promise-of-woke-2-is-fueling-a-leftist-fever-dream/)<!-- TECH:END -->
+ - [Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games](https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability)
+ - [No Kings is taking back Americana](https://www.theverge.com/policy/904405/no-kings-protests-portland-americana)
+ - [Monzo is shuttering its US operations to focus on scaling in the UK and Europe; source: it will lay off ~50 employees and close clients&#39; accounts in June &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/260331/p47#a260331p47)
+ - [The Galaxy S26’s photo app can sloppify your memories](https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop)
+ - [Google attributes the supply chain attack on HTTP client Axios to a suspected North Korean threat actor it calls UNC1069 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260331/p46#a260331p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

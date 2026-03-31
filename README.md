@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says all users in the US can now change their Google Account username; users are restricted to one username change every 12 months &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/260331/p37#a260331p37)
- - [Meta agrees to ‘reduce’ Instagram’s PG-13 rating references](https://www.theverge.com/tech/904081/meta-mpa-agreement-pg-13-rating)
- - [In a Big Reversal, Zohran Mamdani Tells NYC Agencies to Use TikTok](https://www.wired.com/story/in-a-big-reversal-zohran-mamdani-tells-nyc-agencies-to-use-tiktok/)
- - [Runway launches a $10M fund to invest in early-stage startups building across AI, media, and world simulation and a Builders program offering free API credits &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260331/p36#a260331p36)
- - [Rounded chassis, tiny Dynamic Island expected for 20th anniversary iPhone](https://appleinsider.com/articles/26/03/31/rounded-chassis-tiny-dynamic-island-expected-for-20th-anniversary-iphone?utm_source=rss)<!-- TECH:END -->
+ - [Warren Buffett made over $100B on Apple stock, says he sold too soon](https://appleinsider.com/articles/26/03/31/warren-buffett-made-over-100b-on-apple-stock-says-he-sold-too-soon?utm_source=rss)
+ - [Amazon&#39;s Big Spring Sale ends today, grab best deals on 2026 MacBooks, AirPods Max 2, iPads &amp; more](https://appleinsider.com/articles/26/03/31/amazons-big-spring-sale-ends-today-grab-best-deals-on-2026-macbooks-airpods-max-2-ipads-more?utm_source=rss)
+ - [Claude Code&#39;s source code appears to have leaked via a misconfigured npm package, revealing internal codenames, a &quot;Self-Healing Memory&quot; architecture, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260331/p39#a260331p39)
+ - [The best deals to shop on the last day of Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
+ - [Anthropic&#39;s Claude Code Source Code Reportedly Leaked Via Their npm Registry &lpar;Guru Baran/Cyber Security News&rpar;](http://www.techmeme.com/260331/p38#a260331p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

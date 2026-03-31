@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: AT&amp;T agreed last week to a deal worth up to $2B to upgrade the FirstNet emergency cellular network it runs for the Commerce Department &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260331/p63#a260331p63)
+ - [Letters to Sen. Ed Markey: six autonomous vehicle companies say remote assistants don&#39;t directly control vehicles; Tesla says its operators are allowed to do so &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260331/p62#a260331p62)
+ - [Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale](https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals)
  - [Sources: Microsoft is in talks with Chevron and investment fund Engine No. 1 over a $7B Texas power plant that would initially generate 2.5 GW of electricity &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p61#a260331p61)
- - [Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260331/p60#a260331p60)
- - [Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak)
- - [Apple CEO Tim Cook delivered speech &amp; rung Nasdaq Opening Bell Tuesday](https://appleinsider.com/articles/26/03/31/apple-ceo-tim-cook-delivered-speech-rung-nasdaq-opening-bell-tuesday?utm_source=rss)
- - [An excerpt from the book The Infinity Machine details how DeepMind&#39;s early governance battles with Google changed Demis Hassabis from an idealist into a realist &lpar;Sebastian Mallaby/Colossus&rpar;](http://www.techmeme.com/260331/p59#a260331p59)<!-- TECH:END -->
+ - [Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260331/p60#a260331p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

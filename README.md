@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They really don&#39;t see the irony here do they](http://9gag.com/gag/aVv68by)
- - 😝 [I have mixed feelings about this](http://9gag.com/gag/aMVL6RA)
- - 💣 [4 years clean](http://9gag.com/gag/a6ZRgLN)
- - 😝 [Old meme](http://9gag.com/gag/a87gNr1)
- - 👉 [I&#39;m just saying, it&#39;s not wrong](http://9gag.com/gag/aW4X5BA)<!-- MEMES:END -->
+ - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 😝 [OSHA is calling](http://9gag.com/gag/abA8LNB)
+ - 💣 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)
+ - 😝 [Zoro got lost and ended up on my wall again](http://9gag.com/gag/axyrKoK)
+ - 👉 [Just motorbike things](http://9gag.com/gag/aW4XARd)<!-- MEMES:END -->
 
 ---
 

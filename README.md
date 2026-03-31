@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: South Korean memory chipmakers have sufficient helium stocks until at least June, and a South Korean minister ruled out supply disruptions in H1 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/260331/p19#a260331p19)
- - [US CTO Ethan Klein plans to urge the UK and its allies to help &quot;shore up&quot; quantum computing supply chains at a London meeting, after a US-UK tech deal standoff &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260331/p18#a260331p18)
- - [We&#39;re Still Tracking All the Best Amazon Spring Sale Deals, Even on the Final Day](https://www.cnet.com/news-live/best-amazon-spring-sale-deals-live-tracker-2026/)
- - [Analysis: in 2025, Vietnam surpassed China as the leading supplier of laptops and game consoles to the US for the first time, despite President Trump&#39;s tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p17#a260331p17)
- - [Backup Files and Your Entire Digital Life &lpar;2026&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)<!-- TECH:END -->
+ - [AirPods Max 2 review: comfortable, excellent sound quality, and lots of new features, but retains the same design, pricey, and only one hearing health feature &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/260331/p30#a260331p30)
+ - [Instagram reaches an agreement with the MPA to cease using the PG-13 trademark in its Teen Accounts marketing, after a C&amp;D letter, and will add a disclaimer &lpar;New York Times&rpar;](http://www.techmeme.com/260331/p29#a260331p29)
+ - [Samsung rolls out blood pressure monitoring for Galaxy Watch 4 and newer models in the US, requiring a traditional upper-arm blood pressure cuff and a new app &lpar;Vanessa Hand Orellana/CNET&rpar;](http://www.techmeme.com/260331/p28#a260331p28)
+ - [Nvidia launches DLSS 4.5, including a 6x Multi Frame Generation feature exclusive to RTX 50-series GPUs that utilizes a second-gen transformer AI model &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260331/p27#a260331p27)
+ - [AirPods Max 2 review: Familiar features &amp; design, but needs more](https://appleinsider.com/articles/26/03/31/airpods-max-2-review-familiar-features-design-but-needs-more?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

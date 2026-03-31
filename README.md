@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A supply chain attack compromises HTTP client Axios, which has 100M weekly npm downloads, introducing a malicious dependency and deploying a multi-stage payload &lpar;Socket&rpar;](http://www.techmeme.com/260331/p4#a260331p4)
- - [Another Starlink satellite has inexplicably exploded](https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded)
- - [Indian government data: India&#39;s smartphone exports rose 55% YoY to $11B in H1 FY 2026; analysts warn the Iran war may trigger a 22%-25% drop in the coming weeks &lpar;Quratulain Rehbar/Nikkei Asia&rpar;](http://www.techmeme.com/260331/p3#a260331p3)
- - [T-Mobile Business Promo Codes and Deals](https://www.wired.com/story/t-mobile-business-promo-code/)
- - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)<!-- TECH:END -->
+ - [SpaceX says it lost contact with a Starlink satellite after suffering an &quot;anomaly&quot;, following a similar incident in December; the satellite likely exploded &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/260331/p9#a260331p9)
+ - [Opposing ICE Might Save the Country. It Could Also Ruin Your Life](https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life/)
+ - [UK accountancy regulator FRC says auditors can&#39;t blame AI for audit failures, after it published what it called the world&#39;s first guidance on auditor AI usage &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/260331/p8#a260331p8)
+ - [Amsterdam-based Nebius announces a $10B, 310MW data center in Lappeenranta, Finland, built by developer Polarnode and set to begin phased operations in 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/260331/p7#a260331p7)
+ - [Wearable maker Whoop raised $575M led by Collaborative Fund at a $10.1B valuation and says it hit $1B in ARR by 2025&#39;s end; 60% of its 2025 sales were non-US &lpar;Niko Gallogly/New York Times&rpar;](http://www.techmeme.com/260331/p6#a260331p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

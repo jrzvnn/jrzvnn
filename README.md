@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - 😝 [Pre smartphone game](http://9gag.com/gag/agmepQ1)
- - 💣 [Radical](http://9gag.com/gag/a2vXVqY)
+ - 😝 [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - 😝 [Lucky](http://9gag.com/gag/aoy7Gqn)
+ - 💣 [OSHA is calling](http://9gag.com/gag/abA8LNB)
  - 😝 [Denied](http://9gag.com/gag/amoZQPj)
- - 👉 [OSHA is calling](http://9gag.com/gag/abA8LNB)<!-- MEMES:END -->
+ - 👉 [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)<!-- MEMES:END -->
 
 ---
 

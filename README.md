@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft is in talks with Chevron and investment fund Engine No. 1 over a $7B Texas power plant that would initially generate 2.5 GW of electricity &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p61#a260331p61)
+ - [Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260331/p60#a260331p60)
+ - [Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak)
  - [Apple CEO Tim Cook delivered speech &amp; rung Nasdaq Opening Bell Tuesday](https://appleinsider.com/articles/26/03/31/apple-ceo-tim-cook-delivered-speech-rung-nasdaq-opening-bell-tuesday?utm_source=rss)
- - [An excerpt from the book The Infinity Machine details how DeepMind&#39;s early governance battles with Google changed Demis Hassabis from an idealist into a realist &lpar;Sebastian Mallaby/Colossus&rpar;](http://www.techmeme.com/260331/p59#a260331p59)
- - [You can grab a four-pack of Govee’s color-changing smart bulbs for just $27](https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal)
- - [Samsung launches Hearapy, a free Android app to mitigate motion sickness by playing a 100Hz sine wave tone; a 60-second session can provide two hours of relief &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/260331/p58#a260331p58)
- - [Artemis II Countdown: How and When to Watch the Launch](https://www.wired.com/story/artemis-ii-countdown-how-and-when-to-watch-the-launch-of-the-manned-mission-to-the-moon/)<!-- TECH:END -->
+ - [An excerpt from the book The Infinity Machine details how DeepMind&#39;s early governance battles with Google changed Demis Hassabis from an idealist into a realist &lpar;Sebastian Mallaby/Colossus&rpar;](http://www.techmeme.com/260331/p59#a260331p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

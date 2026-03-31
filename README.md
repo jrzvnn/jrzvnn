@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She just executed a turtle and called it saving](http://9gag.com/gag/aMVL62x)
+ - 😝 [Just motorbike things](http://9gag.com/gag/aW4XARd)
  - 😝 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - 💣 [OSHA is calling](http://9gag.com/gag/abA8LNB)
+ - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
  - 😝 [A Totally Fair, Not-Emotional and Balanced Judge](http://9gag.com/gag/aAy95dE)
- - 👉 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)<!-- MEMES:END -->
+ - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
 
 ---
 

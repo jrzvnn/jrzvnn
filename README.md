@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Official data shows India&#39;s smartphone exports hit $11B in H1 FY2026, up 55% YoY; analysts warn the Iran war could trigger a 22% to 25% drop in the coming weeks &lpar;Quratulain Rehbar/Nikkei Asia&rpar;](http://www.techmeme.com/260331/p3#a260331p3)
+ - [Indian government data: India&#39;s smartphone exports rose 55% YoY to $11B in H1 FY 2026; analysts warn the Iran war may trigger a 22%-25% drop in the coming weeks &lpar;Quratulain Rehbar/Nikkei Asia&rpar;](http://www.techmeme.com/260331/p3#a260331p3)
  - [T-Mobile Business Promo Codes and Deals](https://www.wired.com/story/t-mobile-business-promo-code/)
  - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)
  - [Samsung Earbuds App Treats Motion Sickness With Deep, Soothing Sound](https://www.cnet.com/health/medical/samsung-hearapy-app-motion-sickness-sound-treatment/)

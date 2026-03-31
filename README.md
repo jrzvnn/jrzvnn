@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just motorbike things](http://9gag.com/gag/aW4XARd)
- - 😝 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - 😝 [A Totally Fair, Not-Emotional and Balanced Judge](http://9gag.com/gag/aAy95dE)
- - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
+ - 😝 [It is what it is](http://9gag.com/gag/aAy978Z)
+ - 😝 [Radical](http://9gag.com/gag/a2vXVqY)
+ - 💣 [Ctrl + shift + T works even if you accidentally closed down the entire browser](http://9gag.com/gag/agme9G6)
+ - 😝 [They really don&#39;t see the irony here do they](http://9gag.com/gag/aVv68by)
+ - 👉 [I have mixed feelings about this](http://9gag.com/gag/aMVL6RA)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Improved Siri will understand multiple commands in a single sentence](https://appleinsider.com/articles/26/03/31/improved-siri-will-understand-multiple-commands-in-a-single-sentence?utm_source=rss)
- - [The Best Time to Drink Coffee for Productivity &lpar;and When Not To&rpar;](https://www.wired.com/story/when-to-drink-coffee-optimization/)
- - [Sources: Apple is testing letting Siri process multiple requests in a single query in iOS 27, and explored a Grammarly-like keyboard that expands autocorrect &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260331/p42#a260331p42)
- - [Iran Warns US Tech Firms Could Become Targets as War Expands](https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/)
- - [Future iPhones could feature a breathalyzer that spots high cholesterol](https://appleinsider.com/articles/26/03/31/future-iphones-could-feature-a-breathalyzer-that-spots-high-cholesterol?utm_source=rss)<!-- TECH:END -->
+ - [NASA Artemis II launch getting the Apple Vision Pro immersive video treatment](https://appleinsider.com/articles/26/03/31/nasa-artemis-ii-launch-getting-the-apple-vision-pro-immersive-video-treatment?utm_source=rss)
+ - [Google launches Veo 3.1 Lite, costing &lt;50% of Veo 3.1 Fast and meant for &quot;high-volume video applications&quot;, and affirms its commitment to video generation tools &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260331/p45#a260331p45)
+ - [The Sonos Play and mic-less Era 100 SL are now available](https://www.theverge.com/gadgets/903746/sonos-play-era-100-sl-speakers-price-release-date-availability)
+ - [The US Military’s GPS Software Is an $8 Billion Mess](https://www.wired.com/story/the-us-militarys-gps-software-is-an-8-billion-mess/)
+ - [The Promise of &#39;Woke 2&#39; Is Fueling a Leftist Fever Dream](https://www.wired.com/story/the-promise-of-woke-2-is-fueling-a-leftist-fever-dream/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker&amp;#8217;s power bank with built-in cables is one of my favorite gadgets, and it&amp;#8217;s cheaper than usual](https://www.theverge.com/gadgets/904523/anker-laptop-power-bank-amazon-big-spring-sale-2026-deal-sale)
- - [PrismML, which says its 1-bit LLM achieves radical compression without sacrificing performance, comes out of stealth with $16.25M in SAFE and seed funding &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/260331/p49#a260331p49)
- - [Iranian media: Iran arrested 46 people allegedly in a network selling Starlink terminals and seized 139 terminals; there are an estimated 50K terminals in Iran &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p48#a260331p48)
- - [The Super Mario Galaxy Movie is beautiful but a little too busy](https://www.theverge.com/entertainment/904033/the-super-mario-galaxy-movie-review)
- - [Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games](https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability)<!-- TECH:END -->
+ - [OpenAI closed a record-breaking $122B funding round led by SoftBank, a16z, and others at a post-money valuation of $852B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260331/p50#a260331p50)
+ - [Apple at 50: Paul McCartney sound check and the employee gift bag](https://appleinsider.com/articles/26/03/31/apple-at-50-paul-mccartney-sound-check-and-the-employee-gift-bag?utm_source=rss)
+ - [Apple TV HD and iPad mini 4 are now on Apple&#39;s &#39;obsolete products&#39; list](https://appleinsider.com/articles/26/03/31/apple-tv-hd-and-ipad-mini-4-are-now-on-apples-obsolete-products-list?utm_source=rss)
+ - [Samsung’s new app claims to alleviate motion sickness using sound](https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms)
+ - [Anker&amp;#8217;s power bank with built-in cables is one of my favorite gadgets, and it&amp;#8217;s cheaper than usual](https://www.theverge.com/gadgets/904523/anker-laptop-power-bank-amazon-big-spring-sale-2026-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

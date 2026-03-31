@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)
+ - 😝 [She just executed a turtle and called it saving](http://9gag.com/gag/aMVL62x)
+ - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
  - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 😝 [OSHA is calling](http://9gag.com/gag/abA8LNB)
- - 💣 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)
- - 😝 [Zoro got lost and ended up on my wall again](http://9gag.com/gag/axyrKoK)
  - 👉 [Just motorbike things](http://9gag.com/gag/aW4XARd)<!-- MEMES:END -->
 
 ---

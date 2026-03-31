@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lucky](http://9gag.com/gag/aoy7Gqn)
- - 😝 [Denied](http://9gag.com/gag/amoZQPj)
- - 💣 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - 😝 [When the remote control car has better moves than your dance](http://9gag.com/gag/abA8DOX)
- - 👉 [The Cycle](http://9gag.com/gag/aD2vqgG)<!-- MEMES:END -->
+ - 😝 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 😝 [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - 💣 [Just motorbike things](http://9gag.com/gag/aW4XARd)
+ - 😝 [Seven months for a &#39;no&#39;](http://9gag.com/gag/amoZQj2)
+ - 👉 [Radical](http://9gag.com/gag/a2vXVqY)<!-- MEMES:END -->
 
 ---
 

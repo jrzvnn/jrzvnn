@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap shares climbed 14% on Tuesday after activist investor Irenic suggested changes to boost the stock&#39;s value 7x, such as cutting staff by 21% and ending Specs &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260331/p54#a260331p54)
- - [Yupp, which raised a $33M seed led by a16z crypto in 2024 for a crowdsourced AI model picker, shuts down, saying it didn&#39;t reach strong product-market fit &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260331/p53#a260331p53)
- - [Microsoft stock plunged 23% in Q1, a steeper drop than any of its tech peers or the Nasdaq, and its steepest quarterly drop since the 2008 financial crisis &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260331/p52#a260331p52)
- - [OpenAI has tapped retail investors for the first time, raising $3B+ as part of its $122B round, through a trio of banks and ETFs managed by ARK Invest &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260331/p51#a260331p51)
- - [OpenAI closed a $122B funding round led by SoftBank, a16z, and others at an $852B post-money valuation, after previously announcing the round would total $110B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260331/p50#a260331p50)<!-- TECH:END -->
+ - [Austin-based Saronic, which builds military autonomous ships, raised a $1.75B Series D led by Kleiner Perkins at a $9.25B valuation, up from $4B in Feb. 2025 &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260331/p57#a260331p57)
+ - [Sequoia says Doug Leone is returning in a newly created role of chairman, after he announced his retirement in 2022 from his role as &quot;senior steward&quot; &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260331/p56#a260331p56)
+ - [Iran Threatens to Start Attacking Major US Tech Firms on April 1](https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/)
+ - [Anthropic confirms it leaked parts of Claude Code&#39;s source code, saying the leak was &quot;a release packaging issue caused by human error, not a security breach&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260331/p55#a260331p55)
+ - [OpenAI&#39;s ChatGPT now available hands-free via CarPlay with iOS 26.4](https://appleinsider.com/articles/26/03/31/openais-chatgpt-now-available-hands-free-via-carplay-with-ios-264?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

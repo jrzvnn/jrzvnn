@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Official data shows India&#39;s smartphone exports hit $11B in H1 FY2026, up 55% YoY; analysts warn the Iran war could trigger a 22% to 25% drop in the coming weeks &lpar;Quratulain Rehbar/Nikkei Asia&rpar;](http://www.techmeme.com/260331/p3#a260331p3)
  - [T-Mobile Business Promo Codes and Deals](https://www.wired.com/story/t-mobile-business-promo-code/)
  - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)
- - [Sources: London-based chip startup Fractile is in talks to raise over $200M from Accel and others at a $1B valuation; Fractile raised a $15M seed round in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/260331/p2#a260331p2)
- - [A look at Babel Audio, which pairs anonymous strangers to record their conversations, starting at $17/hour, and bundles those recordings into AI training data &lpar;Issie Lapowsky/Bloomberg&rpar;](http://www.techmeme.com/260331/p1#a260331p1)
- - [How to back up your iPhone &amp; iPad to your Mac before something goes wrong](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-iphone-ipad-to-your-mac-before-something-goes-wrong?utm_source=rss)<!-- TECH:END -->
+ - [Samsung Earbuds App Treats Motion Sickness With Deep, Soothing Sound](https://www.cnet.com/health/medical/samsung-hearapy-app-motion-sickness-sound-treatment/)
+ - [Sources: London-based chip startup Fractile is in talks to raise over $200M from Accel and others at a $1B valuation; Fractile raised a $15M seed round in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/260331/p2#a260331p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

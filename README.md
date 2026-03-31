@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)
- - 😝 [She just executed a turtle and called it saving](http://9gag.com/gag/aMVL62x)
- - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 😝 [This is your yearly reminder of the value a good nights sleep . 5 years since the passing of alleeenmaarjsfu. RIP fellow 9gagger .](http://9gag.com/gag/aQzjK2e)
  - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 💣 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)
+ - 😝 [Drunken elephants really do exist, and their chaotic behavior is hilarious. Thanks to fermented marula fruit &lpar;which has an alcohol content similar to that of beer&rpar;, these gentle giants end up getting drunk.](http://9gag.com/gag/a0e33vd)
  - 👉 [Just motorbike things](http://9gag.com/gag/aW4XARd)<!-- MEMES:END -->
 
 ---

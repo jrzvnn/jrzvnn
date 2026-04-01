@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just why](http://9gag.com/gag/amoZyWv)
- - 😝 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - 💣 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
- - 😝 [Ten years and you are pro.](http://9gag.com/gag/aMVL5WA)
- - 👉 [A guide for 9gag](http://9gag.com/gag/aKGMM41)<!-- MEMES:END -->
+ - 😝 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
+ - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
+ - 💣 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 😝 [Richest man in the world](http://9gag.com/gag/aqyEEbZ)
+ - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
 
 ---
 

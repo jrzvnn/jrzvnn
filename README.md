@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A YouTuber channeled his distaste for the PS5’s design into slick console covers](https://www.theverge.com/tech/904086/boxplates-ps5-pro-slim-console-covers-hands-on)
- - [US kid safety groups say they didn&#39;t know OpenAI had entirely funded the Parents &amp; Kids Safe AI Coalition to promote CA legislation until after it was announced &lpar;Emily Shugerman/The San Francisco ...&rpar;](http://www.techmeme.com/260401/p21#a260401p21)
- - [Sources: Amazon&#39;s &quot;sponsored prompts&quot; for its Rufus AI assistant are yielding significantly lower traffic than traditional ads, but are more cost-effective &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/260401/p20#a260401p20)
- - [Nintendo is weathering the storm](https://www.theverge.com/games/904653/nintendo-games-industry-success)
- - [Artemis II Is Shooting for the Moon Today: All the Details About NASA&#39;s Historic Mission](https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-launch-itinerary/)<!-- TECH:END -->
+ - [Computing would be totally different had Apple not been formed 50 years ago, today](https://appleinsider.com/articles/26/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_source=rss)
+ - [These Raspberry Pi price hikes are no joke](https://www.theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb)
+ - [The New Era of Militia Influencers](https://www.wired.com/story/the-new-era-of-militia-influencers/)
+ - [SEC filing: Hasbro confirms a cyberattack and says it may take &quot;several weeks&quot; before the incident is resolved, after it detected an intrusion on March 28 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260401/p24#a260401p24)
+ - [How to stream NASA Artemis II launch live on iPhone, iPad, Mac &amp; Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-stream-nasa-artemis-ii-launch-live-on-iphone-ipad-mac-apple-tv?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

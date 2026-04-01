@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retrospec Judd Rev 2 Electric Folding Bike Review: Affordable, Simple, Easy to Store](https://www.wired.com/review/retrospec-judd-rev-2-electric-folding-bike/)
- - [Watching a 7.5-Hour Movie in Theaters Made Me More Hopeful About Our Collective Brain Rot](https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/)
- - [Paul McCartney headlines as Apple celebrates 50 years with an Apple Park fireworks display](https://appleinsider.com/articles/26/04/01/paul-mccartney-headlines-as-apple-celebrates-50-years-with-an-apple-park-fireworks-display?utm_source=rss)
- - [How a small German state&#39;s bid to replace Microsoft with open-source alternatives like Linux and Kamailio faces issues, as the EU pushes &quot;digital sovereignty&quot; &lpar;Laura Pitel/Financial Times&rpar;](http://www.techmeme.com/260401/p14#a260401p14)
- - [Sources: amid the Iran war, Asian bankers say rising power prices and energy security are becoming a bigger consideration in data center financing decisions &lpar;Bloomberg&rpar;](http://www.techmeme.com/260401/p13#a260401p13)<!-- TECH:END -->
+ - [Global VC investment hit a record $297B in Q1 2026, up 150% YoY, with AI startups capturing 81% of the funding; just four companies raised 64% of the total &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/260401/p16#a260401p16)
+ - [Apple wants you to take a walk through 50 years, Picasso style](https://appleinsider.com/articles/26/04/01/apple-wants-you-to-take-a-walk-through-50-years-picasso-style?utm_source=rss)
+ - [A new remake of &#39;Cape Fear&#39; is making its way to Apple TV in June](https://appleinsider.com/articles/26/04/01/a-new-remake-of-cape-fear-is-making-its-way-to-apple-tv-in-june?utm_source=rss)
+ - [Best WiiM Streamers &lpar;2026&rpar;: Simplify Your Sound With WiiM Streaming Gear](https://www.wired.com/gallery/best-wiim-streamers/)
+ - [Austin-based Coder, which helps developers build and run code from local devices to the cloud, raised a $90M Series C led by KKR, after raising $35M in 2024 &lpar;Julia Hornstein/The Information&rpar;](http://www.techmeme.com/260401/p15#a260401p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the FBI has declared a recent China-linked hack of a system, which contained pen register and trap and trace surveillance returns, a &quot;major incident&quot; &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260401/p33#a260401p33)
  - [The Artemis Moon base project is legally dubious](https://www.theverge.com/science/905406/artemis-ii-moon-base-law)
  - [Hasbro faces weeks of issues following major cyberattack and data breach](https://appleinsider.com/articles/26/04/01/hasbro-faces-weeks-of-issues-following-major-cyberattack-and-data-breach?utm_source=rss)
  - [FDA Approves Eli Lilly’s GLP-1 Pill](https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/)
- - [Franklin Templeton agrees to acquire CoinFund spinoff 250 Digital to form Franklin Crypto, which will offer strategies designed for institutional investors &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260401/p32#a260401p32)
- - [AirTag 2 gets improved anti-stalking capabilities with new firmware update](https://appleinsider.com/articles/26/04/01/airtag-2-gets-improved-anti-stalking-capabilities-with-new-firmware-update?utm_source=rss)<!-- TECH:END -->
+ - [Franklin Templeton agrees to acquire CoinFund spinoff 250 Digital to form Franklin Crypto, which will offer strategies designed for institutional investors &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260401/p32#a260401p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

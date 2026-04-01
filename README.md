@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - 😝 [What&#39;s her secret to a stable relationship?](http://9gag.com/gag/aqyEMGQ)
- - 💣 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
+ - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
+ - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 💣 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
+ - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
+ - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
 
 ---
 

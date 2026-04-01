@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong](https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/)
+ - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
  - [Malta is opposing EU plans to centralize crypto supervision under ESMA, seeing it as a politically motivated assault on its success in attracting crypto firms &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/260401/p10#a260401p10)
  - [South Korean trade data: chip shipments hit a record-high value of $32.83B in March 2026, up 151.4% YoY, pushing total exports to a record $86.13B, up 48.3% YoY &lpar;Steven Borowiec/Nikkei Asia&rpar;](http://www.techmeme.com/260401/p9#a260401p9)
- - [The LA and New Mexico jury verdicts against Meta and YouTube recognized some design features as defective, distinct from what Section 230 was created to protect &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260401/p8#a260401p8)
- - [A profile of Pakistan Virtual Assets Regulatory Authority Chairman Bilal Bin Saqib, who has used crypto diplomacy to help Pakistan win over President Trump &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/260401/p7#a260401p7)
- - [An interview with Galen Buckwalter, a BCI recipient in a Caltech brain implant study, on his recent ability to use the implant to produce musical tones &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/260401/p6#a260401p6)<!-- TECH:END -->
+ - [The LA and New Mexico jury verdicts against Meta and YouTube recognized some design features as defective, distinct from what Section 230 was created to protect &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260401/p8#a260401p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

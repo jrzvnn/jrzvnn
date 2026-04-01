@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The jury verdicts against Meta and YouTube recognized some platform design features as defective, distinct from what Section 230 was created to protect &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260401/p8#a260401p8)
+ - [Malta is opposing EU plans to centralize crypto supervision under ESMA, seeing it as a politically motivated assault on its success in attracting crypto firms &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/260401/p10#a260401p10)
+ - [South Korean trade data: chip shipments hit a record-high value of $32.83B in March 2026, up 151.4% YoY, pushing total exports to a record $86.13B, up 48.3% YoY &lpar;Steven Borowiec/Nikkei Asia&rpar;](http://www.techmeme.com/260401/p9#a260401p9)
+ - [The LA and New Mexico jury verdicts against Meta and YouTube recognized some design features as defective, distinct from what Section 230 was created to protect &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260401/p8#a260401p8)
  - [A profile of Pakistan Virtual Assets Regulatory Authority Chairman Bilal Bin Saqib, who has used crypto diplomacy to help Pakistan win over President Trump &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/260401/p7#a260401p7)
- - [An interview with Galen Buckwalter, a BCI recipient in a Caltech brain implant study, on his recent ability to use the implant to produce musical tones &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/260401/p6#a260401p6)
- - [Waymo Is Quickly Expanding to More Cities. Everything to Know About the Robotaxi](https://www.cnet.com/roadshow/news/waymo-robotaxis-everything-to-know/)
- - [Analysis: half of Asia&#39;s 10 most volatile stocks are recent AI IPOs, including China&#39;s Moore Threads and MiniMax, driven by thin institutional ownership &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/260401/p5#a260401p5)<!-- TECH:END -->
+ - [An interview with Galen Buckwalter, a BCI recipient in a Caltech brain implant study, on his recent ability to use the implant to produce musical tones &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/260401/p6#a260401p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

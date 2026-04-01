@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong](https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/)
- - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
- - [Malta is opposing EU plans to centralize crypto supervision under ESMA, seeing it as a politically motivated assault on its success in attracting crypto firms &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/260401/p10#a260401p10)
- - [South Korean trade data: chip shipments hit a record-high value of $32.83B in March 2026, up 151.4% YoY, pushing total exports to a record $86.13B, up 48.3% YoY &lpar;Steven Borowiec/Nikkei Asia&rpar;](http://www.techmeme.com/260401/p9#a260401p9)
- - [The LA and New Mexico jury verdicts against Meta and YouTube recognized some design features as defective, distinct from what Section 230 was created to protect &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260401/p8#a260401p8)<!-- TECH:END -->
+ - [Retrospec Judd Rev 2 Electric Folding Bike Review: Affordable, Simple, Easy to Store](https://www.wired.com/review/retrospec-judd-rev-2-electric-folding-bike/)
+ - [Watching a 7.5-Hour Movie in Theaters Made Me More Hopeful About Our Collective Brain Rot](https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/)
+ - [Paul McCartney headlines as Apple celebrates 50 years with an Apple Park fireworks display](https://appleinsider.com/articles/26/04/01/paul-mccartney-headlines-as-apple-celebrates-50-years-with-an-apple-park-fireworks-display?utm_source=rss)
+ - [How a small German state&#39;s bid to replace Microsoft with open-source alternatives like Linux and Kamailio faces issues, as the EU pushes &quot;digital sovereignty&quot; &lpar;Laura Pitel/Financial Times&rpar;](http://www.techmeme.com/260401/p14#a260401p14)
+ - [Sources: amid the Iran war, Asian bankers say rising power prices and energy security are becoming a bigger consideration in data center financing decisions &lpar;Bloomberg&rpar;](http://www.techmeme.com/260401/p13#a260401p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

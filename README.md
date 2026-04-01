@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Shokz OpenRun Pro 2 are now at their lowest price in months](https://www.theverge.com/gadgets/905292/shokz-openrun-pro-2-ember-mug-2-deal-sale)
- - [Raspberry Pi raises prices by $11.25 to $150 citing memory prices, after hikes in December and February, and unveils a 3GB Raspberry Pi 4 model for $83.75 &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260401/p30#a260401p30)
- - [I tested a living room full of cheap Ikea speakers against Sonos and Bose](https://www.theverge.com/tech/904822/ikea-kallsup-bluetooth-speaker-review)
- - [Sonnet returns with another best-in-class Thunderbolt 5 dock](https://appleinsider.com/articles/26/04/01/sonnet-returns-with-another-best-in-class-thunderbolt-5-dock?utm_source=rss)
- - [Amazon issues AirPods Max 2 price drop on launch day](https://appleinsider.com/articles/26/04/01/amazon-issues-airpods-max-2-price-drop-on-launch-day?utm_source=rss)<!-- TECH:END -->
+ - [April Fools’ Day 2026: the best and cringiest pranks](https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst)
+ - [Kia&amp;#8217;s compact EV3 is coming to the US this year, with 320 miles of range](https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch)
+ - [Tim Cook checks out Apple&#39;s archive, containing items he&#39;s not seen before](https://appleinsider.com/articles/26/04/01/tim-cook-checks-out-apples-archive-containing-items-hes-not-seen-before?utm_source=rss)
+ - [Our Favorite Budget Smartwatch is $69](https://www.wired.com/story/nothing-watch-3-pro-deal-426/)
+ - [AirPods Max 2 arrive in stores with strong supply &amp; no launch delays](https://appleinsider.com/articles/26/04/01/airpods-max-2-arrive-in-stores-with-strong-supply-no-launch-delays?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

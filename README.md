@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 😝 [Teeta](http://9gag.com/gag/aZZYX3X)
- - 💣 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
+ - 😝 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - 😝 [What&#39;s her secret to a stable relationship?](http://9gag.com/gag/aqyEMGQ)
+ - 💣 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
  - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aYQ00QV)<!-- MEMES:END -->
+ - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
 
 ---
 

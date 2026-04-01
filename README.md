@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All iPad Air 3 variants are now on Apple&#39;s &#39;vintage products&#39; list](https://appleinsider.com/articles/26/04/01/all-ipad-air-3-variants-are-now-on-apples-vintage-products-list?utm_source=rss)
+ - [Eddy Cue talks Jobs, iTunes, &amp; F1 in 50th anniversary interview](https://appleinsider.com/articles/26/04/01/eddy-cue-talks-jobs-itunes-f1-in-50th-anniversary-interview?utm_source=rss)
+ - [Samsung’s Best OLED TV Is $300 Off](https://www.wired.com/story/samsung-s95f-tv-deal-326/)
  - [Sources: the FBI has declared a recent China-linked hack of a system, which contained pen register and trap and trace surveillance returns, a &quot;major incident&quot; &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260401/p33#a260401p33)
- - [The Artemis Moon base project is legally dubious](https://www.theverge.com/science/905406/artemis-ii-moon-base-law)
- - [Hasbro faces weeks of issues following major cyberattack and data breach](https://appleinsider.com/articles/26/04/01/hasbro-faces-weeks-of-issues-following-major-cyberattack-and-data-breach?utm_source=rss)
- - [FDA Approves Eli Lilly’s GLP-1 Pill](https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/)
- - [Franklin Templeton agrees to acquire CoinFund spinoff 250 Digital to form Franklin Crypto, which will offer strategies designed for institutional investors &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260401/p32#a260401p32)<!-- TECH:END -->
+ - [The Artemis Moon base project is legally dubious](https://www.theverge.com/science/905406/artemis-ii-moon-base-law)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

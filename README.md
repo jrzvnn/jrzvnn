@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s birthright citizenship ban may fail — but the administration already got too far](https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments)
+ - [Sources: Amazon is in talks to acquire Globalstar to bolster its low Earth orbit satellite business; Apple&#39;s 20% stake in Globalstar is a complicating factor &lpar;Financial Times&rpar;](http://www.techmeme.com/260401/p36#a260401p36)
  - [NASA launches four astronauts toward the Moon on the Artemis II mission](https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts)
  - [Watch NASA&#39;s Artemis II Become the First Human Trip to the Moon in 50 Years](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [Virgin Galactic Reenters Space Tourism Market at $750K Per Ticket](https://www.cnet.com/science/space/virgin-galactic-resumes-space-flights/)
- - [If You&#39;re Not on iOS 26, You Should Really Download This iOS 18 Update Now](https://www.cnet.com/tech/services-and-software/download-this-ios-18-update-now/)
- - [Solana-based DeFi platform Drift warns users about an &quot;active attack&quot; on its protocol; Arkham data said over $250M had moved from Drift to an interim wallet &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/260401/p35#a260401p35)<!-- TECH:END -->
+ - [Virgin Galactic Reenters Space Tourism Market at $750K Per Ticket](https://www.cnet.com/science/space/virgin-galactic-resumes-space-flights/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

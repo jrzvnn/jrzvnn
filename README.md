@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Solana-based DeFi platform Drift warns users about an &quot;active attack&quot; on its protocol; Arkham data said over $250M had moved from Drift to an interim wallet &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/260401/p35#a260401p35)
  - [Cognichip, which is building an AI model for chip design, raised a $60M Series A led by Seligman Ventures, with participation from new board member Lip-Bu Tan &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260401/p34#a260401p34)
  - [All iPad Air 3 variants are now on Apple&#39;s &#39;vintage products&#39; list](https://appleinsider.com/articles/26/04/01/all-ipad-air-3-variants-are-now-on-apples-vintage-products-list?utm_source=rss)
  - [Eddy Cue talks Jobs, iTunes, &amp; F1 in 50th anniversary interview](https://appleinsider.com/articles/26/04/01/eddy-cue-talks-jobs-itunes-f1-in-50th-anniversary-interview?utm_source=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 2, #1026](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-2-1026/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 2 #760](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-2-760/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 2, #1026](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-2-1026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

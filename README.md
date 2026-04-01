@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Paradigm, a major investor in Kalshi, is building its own prediction markets trading terminal that will cater to professional traders and market makers &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260401/p28#a260401p28)
- - [The Trump administration&amp;#8217;s antitrust honeymoon is over](https://www.theverge.com/policy/905222/antitrust-trump-tech-live-nation)
- - [Sources: OpenRouter is in talks to raise $120M led by CapitalG at a $1.3B post-money valuation; it now has $50M+ in annualized revenue, up from $10M+ in Oct. &lpar;The Information&rpar;](http://www.techmeme.com/260401/p27#a260401p27)
- - [SpaceX reportedly files for IPO but it’s keeping the numbers secret &lpar;for now&rpar;](https://www.theverge.com/science/904991/spacex-announces-ipo-but-its-keeping-the-numbers-secret-for-now)
- - [Sources: SpaceX has filed confidentially for an IPO, putting it on track for a June listing; it could reportedly seek a valuation of $1.75T+ and raise ~$75B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260401/p26#a260401p26)<!-- TECH:END -->
+ - [The Shokz OpenRun Pro 2 are now at their lowest price in months](https://www.theverge.com/gadgets/905292/shokz-openrun-pro-2-ember-mug-2-deal-sale)
+ - [Raspberry Pi raises prices by $11.25 to $150 citing memory prices, after hikes in December and February, and unveils a 3GB Raspberry Pi 4 model for $83.75 &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260401/p30#a260401p30)
+ - [I tested a living room full of cheap Ikea speakers against Sonos and Bose](https://www.theverge.com/tech/904822/ikea-kallsup-bluetooth-speaker-review)
+ - [Sonnet returns with another best-in-class Thunderbolt 5 dock](https://appleinsider.com/articles/26/04/01/sonnet-returns-with-another-best-in-class-thunderbolt-5-dock?utm_source=rss)
+ - [Amazon issues AirPods Max 2 price drop on launch day](https://appleinsider.com/articles/26/04/01/amazon-issues-airpods-max-2-price-drop-on-launch-day?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

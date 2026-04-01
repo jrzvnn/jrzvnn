@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s her secret to a stable relationship?](http://9gag.com/gag/aqyEMGQ)
+ - 😝 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
  - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - 💣 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
- - 😝 [Ten years and you are pro.](http://9gag.com/gag/aMVL5WA)
- - 👉 [This is Jeanne d\u2019Arc in Lille&#39;s stadium. The club has been fined 17500 euros by UEFA for hate speech.](http://9gag.com/gag/a9yGexZ)<!-- MEMES:END -->
+ - 💣 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
+ - 😝 [Had Batman Neck all day .....](http://9gag.com/gag/a4P00gd)
+ - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercor confirmed it was affected by a recent supply chain attack involving LiteLLM; hacker group Lapsus$ claims it accessed and stole Mercor&#39;s data &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260331/p69#a260331p69)
- - [Kestra, an open-source workflow orchestration startup, raised a $25M Series A led by RTP Global, as Kestra looks to expand its go-to-market strategy &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260331/p68#a260331p68)
- - [Robotaxi Outage in China Leaves Passengers Stranded on Highways](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/)
- - [Depthfirst, which aims to build a &quot;general security intelligence&quot; for finding and fixing company vulnerabilities, raised an $80M Series B at a $580M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/260331/p67#a260331p67)
- - [The best deals to shop during the last few hours of Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
+ - [A suspected system failure caused a number of Baidu robotaxis to stop across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260401/p3#a260401p3)
+ - [Grab, in partnership with WeRide, launches a robotaxi service in Singapore, becoming Southeast Asia&#39;s first ride-hailing provider to offer a driverless service &lpar;Bloomberg&rpar;](http://www.techmeme.com/260401/p2#a260401p2)
+ - [Babbel Promo Code: Up to 65% Off in April 2026](https://www.wired.com/story/babbel-promo-code/)
+ - [The European Union&#39;s main institutions have banned staff from using fully AI-generated videos and images in official communications &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/260401/p1#a260401p1)
+ - [England vs. Japan Livestream: How to Watch International Friendly Soccer Free](https://www.cnet.com/tech/services-and-software/england-vs-japan-livestream-how-to-watch-international-friendly-soccer-for-free/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

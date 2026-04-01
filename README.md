@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
- - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - 💣 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
- - 😝 [Had Batman Neck all day .....](http://9gag.com/gag/a4P00gd)
+ - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 💣 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
+ - 😝 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
  - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
 
 ---

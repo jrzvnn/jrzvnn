@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
  - 😝 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
+ - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
  - 💣 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
  - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
- - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
+ - 👉 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)<!-- MEMES:END -->
 
 ---
 

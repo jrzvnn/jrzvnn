@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - 💣 [Just motorbike things](http://9gag.com/gag/aW4XARd)
- - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
+ - 😝 [Just why](http://9gag.com/gag/amoZyWv)
+ - 😝 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 💣 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
+ - 😝 [Ten years and you are pro.](http://9gag.com/gag/aMVL5WA)
+ - 👉 [A guide for 9gag](http://9gag.com/gag/aKGMM41)<!-- MEMES:END -->
 
 ---
 

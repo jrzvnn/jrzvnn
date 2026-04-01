@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global VC investment hit a record $297B in Q1 2026, up 150% YoY, with AI startups capturing 81% of the funding; just four companies raised 64% of the total &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/260401/p16#a260401p16)
- - [Apple wants you to take a walk through 50 years, Picasso style](https://appleinsider.com/articles/26/04/01/apple-wants-you-to-take-a-walk-through-50-years-picasso-style?utm_source=rss)
- - [A new remake of &#39;Cape Fear&#39; is making its way to Apple TV in June](https://appleinsider.com/articles/26/04/01/a-new-remake-of-cape-fear-is-making-its-way-to-apple-tv-in-june?utm_source=rss)
- - [Best WiiM Streamers &lpar;2026&rpar;: Simplify Your Sound With WiiM Streaming Gear](https://www.wired.com/gallery/best-wiim-streamers/)
- - [Austin-based Coder, which helps developers build and run code from local devices to the cloud, raised a $90M Series C led by KKR, after raising $35M in 2024 &lpar;Julia Hornstein/The Information&rpar;](http://www.techmeme.com/260401/p15#a260401p15)<!-- TECH:END -->
+ - [Anthropic is racing to contain the fallout after accidentally leaking Claude Code source code, issuing copyright takedown requests to remove 8,000+ copies &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/260401/p17#a260401p17)
+ - [15 Best Office Chairs of 2026— I’ve Tested 65 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [Users staying on iOS 18 will get a patch for the worst iPhone attack vector we&#39;ve ever seen](https://appleinsider.com/articles/26/04/01/users-staying-on-ios-18-will-get-a-patch-for-the-worst-iphone-attack-vector-weve-ever-seen?utm_source=rss)
+ - [Studio Display XDR without tilt-adjustable stand now costs less](https://appleinsider.com/articles/26/04/01/studio-display-xdr-without-tilt-adjustable-stand-now-costs-less?utm_source=rss)
+ - [The Best E-Readers &lpar;2026&rpar;: Kobo, Kindle](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

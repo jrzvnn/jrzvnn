@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
+ - 😝 [Just motorbike things](http://9gag.com/gag/aW4XARd)
  - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - 💣 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 💣 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
  - 😝 [Richest man in the world](http://9gag.com/gag/aqyEEbZ)
- - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
+ - 👉 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)<!-- MEMES:END -->
 
 ---
 

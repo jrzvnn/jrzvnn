@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LIFEGOAL](http://9gag.com/gag/aVv68p2)
- - 😝 [Old meme](http://9gag.com/gag/a87gNr1)
- - 💣 [Hairy](http://9gag.com/gag/adBzwdM)
- - 😝 [No shit Sherlock](http://9gag.com/gag/aYQ00Mx)
- - 👉 [A Totally Fair, Not-Emotional and Balanced Judge](http://9gag.com/gag/aAy95dE)<!-- MEMES:END -->
+ - 😝 [What&#39;s her secret to a stable relationship?](http://9gag.com/gag/aqyEMGQ)
+ - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
+ - 💣 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
+ - 😝 [Ten years and you are pro.](http://9gag.com/gag/aMVL5WA)
+ - 👉 [This is Jeanne d\u2019Arc in Lille&#39;s stadium. The club has been fined 17500 euros by UEFA for hate speech.](http://9gag.com/gag/a9yGexZ)<!-- MEMES:END -->
 
 ---
 

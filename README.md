@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LIFEGOAL](http://9gag.com/gag/aVv68p2)
- - 😝 [Hairy](http://9gag.com/gag/adBzwdM)
- - 💣 [Old meme](http://9gag.com/gag/a87gNr1)
+ - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
+ - 💣 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
  - 😝 [Sunt make this a race thing even if it is](http://9gag.com/gag/awyppMQ)
- - 👉 [You Asked](http://9gag.com/gag/aD2v5GG)<!-- MEMES:END -->
+ - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
 
 ---
 

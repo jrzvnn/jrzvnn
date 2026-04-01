@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
  - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 💣 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - 😝 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
- - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
+ - 😝 [Teeta](http://9gag.com/gag/aZZYX3X)
+ - 💣 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
+ - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aYQ00QV)<!-- MEMES:END -->
 
 ---
 

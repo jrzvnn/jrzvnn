@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - 😝 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 💣 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
+ - 😝 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
+ - 💣 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
  - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
  - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
 

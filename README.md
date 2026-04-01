@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just motorbike things](http://9gag.com/gag/aW4XARd)
- - 😝 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - 💣 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
- - 😝 [Richest man in the world](http://9gag.com/gag/aqyEEbZ)
- - 👉 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)<!-- MEMES:END -->
+ - 😝 [LIFEGOAL](http://9gag.com/gag/aVv68p2)
+ - 😝 [Hairy](http://9gag.com/gag/adBzwdM)
+ - 💣 [Old meme](http://9gag.com/gag/a87gNr1)
+ - 😝 [Sunt make this a race thing even if it is](http://9gag.com/gag/awyppMQ)
+ - 👉 [You Asked](http://9gag.com/gag/aD2v5GG)<!-- MEMES:END -->
 
 ---
 

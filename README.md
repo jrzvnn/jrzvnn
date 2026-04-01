@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - 😝 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 💣 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
+ - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - 😝 [Ten years and you are pro.](http://9gag.com/gag/aMVL5WA)
+ - 💣 [Richest man in the world](http://9gag.com/gag/aqyEEbZ)
  - 😝 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)
- - 👉 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)<!-- MEMES:END -->
+ - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
 
 ---
 

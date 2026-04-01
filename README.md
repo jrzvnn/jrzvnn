@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dave Matzek&#39;s legacy lives on](http://9gag.com/gag/azx33Gm)
  - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 😝 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
- - 💣 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
- - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
+ - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - 😝 [Richest man in the world](http://9gag.com/gag/aqyEEbZ)
+ - 👉 [Ten years and you are pro.](http://9gag.com/gag/aMVL5WA)<!-- MEMES:END -->
 
 ---
 

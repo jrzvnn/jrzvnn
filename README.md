@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cognichip, which is building an AI model for chip design, raised a $60M Series A led by Seligman Ventures, with participation from new board member Lip-Bu Tan &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260401/p34#a260401p34)
  - [All iPad Air 3 variants are now on Apple&#39;s &#39;vintage products&#39; list](https://appleinsider.com/articles/26/04/01/all-ipad-air-3-variants-are-now-on-apples-vintage-products-list?utm_source=rss)
  - [Eddy Cue talks Jobs, iTunes, &amp; F1 in 50th anniversary interview](https://appleinsider.com/articles/26/04/01/eddy-cue-talks-jobs-itunes-f1-in-50th-anniversary-interview?utm_source=rss)
- - [Samsung’s Best OLED TV Is $300 Off](https://www.wired.com/story/samsung-s95f-tv-deal-326/)
- - [Sources: the FBI has declared a recent China-linked hack of a system, which contained pen register and trap and trace surveillance returns, a &quot;major incident&quot; &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260401/p33#a260401p33)
- - [The Artemis Moon base project is legally dubious](https://www.theverge.com/science/905406/artemis-ii-moon-base-law)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 2, #1026](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-2-1026/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 2 #760](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-2-760/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

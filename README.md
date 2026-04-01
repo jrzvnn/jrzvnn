@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC Mayor Zohran Mamdani allows city agencies to use TikTok, with some restrictions, reversing a 2023 ban his predecessor enacted over data security concerns &lpar;Chris Sommerfeldt/Politico&rpar;](http://www.techmeme.com/260331/p65#a260331p65)
- - [The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal)
- - [G-Raid Project 2 review: High-quality enterprise storage](https://appleinsider.com/articles/25/10/05/sandisk-professional-g-raid-project-2-review-high-quality-enterprise-storage?utm_source=rss)
- - [Salesforce announces over 30 new features for Slack, including a meeting transcription feature and an operator mode to complete multi-step tasks on the desktop &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260331/p64#a260331p64)
- - [Sources: AT&amp;T agreed last week to a deal worth up to $2B to upgrade the FirstNet emergency cellular network it runs for the Commerce Department &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260331/p63#a260331p63)<!-- TECH:END -->
+ - [Mercor confirmed it was affected by a recent supply chain attack involving LiteLLM; hacker group Lapsus$ claims it accessed and stole Mercor&#39;s data &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260331/p69#a260331p69)
+ - [Kestra, an open-source workflow orchestration startup, raised a $25M Series A led by RTP Global, as Kestra looks to expand its go-to-market strategy &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260331/p68#a260331p68)
+ - [Robotaxi Outage in China Leaves Passengers Stranded on Highways](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/)
+ - [Depthfirst, which aims to build a &quot;general security intelligence&quot; for finding and fixing company vulnerabilities, raised an $80M Series B at a $580M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/260331/p67#a260331p67)
+ - [The best deals to shop during the last few hours of Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

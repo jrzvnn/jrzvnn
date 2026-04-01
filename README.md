@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
  - 😝 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - 😝 [Poor Ron](http://9gag.com/gag/a87ggjY)
- - 💣 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)
- - 😝 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)
- - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
+ - 💣 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
+ - 😝 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)
+ - 👉 [Poor Ron](http://9gag.com/gag/a87ggjY)<!-- MEMES:END -->
 
 ---
 

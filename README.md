@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A suspected system failure caused a number of Baidu robotaxis to stop across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260401/p3#a260401p3)
- - [Grab, in partnership with WeRide, launches a robotaxi service in Singapore, becoming Southeast Asia&#39;s first ride-hailing provider to offer a driverless service &lpar;Bloomberg&rpar;](http://www.techmeme.com/260401/p2#a260401p2)
- - [Babbel Promo Code: Up to 65% Off in April 2026](https://www.wired.com/story/babbel-promo-code/)
- - [The European Union&#39;s main institutions have banned staff from using fully AI-generated videos and images in official communications &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/260401/p1#a260401p1)
- - [England vs. Japan Livestream: How to Watch International Friendly Soccer Free](https://www.cnet.com/tech/services-and-software/england-vs-japan-livestream-how-to-watch-international-friendly-soccer-for-free/)<!-- TECH:END -->
+ - [The jury verdicts against Meta and YouTube recognized some platform design features as defective, distinct from what Section 230 was created to protect &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260401/p8#a260401p8)
+ - [A profile of Pakistan Virtual Assets Regulatory Authority Chairman Bilal Bin Saqib, who has used crypto diplomacy to help Pakistan win over President Trump &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/260401/p7#a260401p7)
+ - [An interview with Galen Buckwalter, a BCI recipient in a Caltech brain implant study, on his recent ability to use the implant to produce musical tones &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/260401/p6#a260401p6)
+ - [Waymo Is Quickly Expanding to More Cities. Everything to Know About the Robotaxi](https://www.cnet.com/roadshow/news/waymo-robotaxis-everything-to-know/)
+ - [Analysis: half of Asia&#39;s 10 most volatile stocks are recent AI IPOs, including China&#39;s Moore Threads and MiniMax, driven by thin institutional ownership &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/260401/p5#a260401p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic is racing to contain the fallout after accidentally leaking Claude Code source code, issuing copyright takedown requests to remove 8,000+ copies &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/260401/p17#a260401p17)
- - [15 Best Office Chairs of 2026— I’ve Tested 65 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Users staying on iOS 18 will get a patch for the worst iPhone attack vector we&#39;ve ever seen](https://appleinsider.com/articles/26/04/01/users-staying-on-ios-18-will-get-a-patch-for-the-worst-iphone-attack-vector-weve-ever-seen?utm_source=rss)
- - [Studio Display XDR without tilt-adjustable stand now costs less](https://appleinsider.com/articles/26/04/01/studio-display-xdr-without-tilt-adjustable-stand-now-costs-less?utm_source=rss)
- - [The Best E-Readers &lpar;2026&rpar;: Kobo, Kindle](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
+ - [A YouTuber channeled his distaste for the PS5’s design into slick console covers](https://www.theverge.com/tech/904086/boxplates-ps5-pro-slim-console-covers-hands-on)
+ - [US kid safety groups say they didn&#39;t know OpenAI had entirely funded the Parents &amp; Kids Safe AI Coalition to promote CA legislation until after it was announced &lpar;Emily Shugerman/The San Francisco ...&rpar;](http://www.techmeme.com/260401/p21#a260401p21)
+ - [Sources: Amazon&#39;s &quot;sponsored prompts&quot; for its Rufus AI assistant are yielding significantly lower traffic than traditional ads, but are more cost-effective &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/260401/p20#a260401p20)
+ - [Nintendo is weathering the storm](https://www.theverge.com/games/904653/nintendo-games-industry-success)
+ - [Artemis II Is Shooting for the Moon Today: All the Details About NASA&#39;s Historic Mission](https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-launch-itinerary/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

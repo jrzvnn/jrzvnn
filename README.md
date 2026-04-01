@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dave Matzek&#39;s legacy lives on](http://9gag.com/gag/azx33Gm)
- - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 😝 [Richest man in the world](http://9gag.com/gag/aqyEEbZ)
- - 👉 [Ten years and you are pro.](http://9gag.com/gag/aMVL5WA)<!-- MEMES:END -->
+ - 😝 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
+ - 😝 [Poor Ron](http://9gag.com/gag/a87ggjY)
+ - 💣 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)
+ - 😝 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)
+ - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
 
 ---
 

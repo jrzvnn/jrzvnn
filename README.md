@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [April Fools’ Day 2026: the best and cringiest pranks](https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst)
- - [Kia&amp;#8217;s compact EV3 is coming to the US this year, with 320 miles of range](https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch)
- - [Tim Cook checks out Apple&#39;s archive, containing items he&#39;s not seen before](https://appleinsider.com/articles/26/04/01/tim-cook-checks-out-apples-archive-containing-items-hes-not-seen-before?utm_source=rss)
- - [Our Favorite Budget Smartwatch is $69](https://www.wired.com/story/nothing-watch-3-pro-deal-426/)
- - [AirPods Max 2 arrive in stores with strong supply &amp; no launch delays](https://appleinsider.com/articles/26/04/01/airpods-max-2-arrive-in-stores-with-strong-supply-no-launch-delays?utm_source=rss)<!-- TECH:END -->
+ - [The Artemis Moon base project is legally dubious](https://www.theverge.com/science/905406/artemis-ii-moon-base-law)
+ - [Hasbro faces weeks of issues following major cyberattack and data breach](https://appleinsider.com/articles/26/04/01/hasbro-faces-weeks-of-issues-following-major-cyberattack-and-data-breach?utm_source=rss)
+ - [FDA Approves Eli Lilly’s GLP-1 Pill](https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/)
+ - [Franklin Templeton agrees to acquire CoinFund spinoff 250 Digital to form Franklin Crypto, which will offer strategies designed for institutional investors &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260401/p32#a260401p32)
+ - [AirTag 2 gets improved anti-stalking capabilities with new firmware update](https://appleinsider.com/articles/26/04/01/airtag-2-gets-improved-anti-stalking-capabilities-with-new-firmware-update?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

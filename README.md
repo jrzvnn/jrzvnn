@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
- - 😝 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 💣 [Two towers](http://9gag.com/gag/aNDbbxv)
- - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
- - 👉 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
+ - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - 😝 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
+ - 💣 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - 😝 [The art of SMO](http://9gag.com/gag/aMVLoxG)
+ - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
 
 ---
 

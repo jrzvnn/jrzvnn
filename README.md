@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Some deaths hurt more than others...](http://9gag.com/gag/avyjK6M)
- - 😝 [Smile](http://9gag.com/gag/aLnEEqP)
- - 💣 [Relatable](http://9gag.com/gag/amoZeWy)
- - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - 👉 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)<!-- MEMES:END -->
+ - 😝 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - 💣 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
+ - 😝 [Mistakes were made](http://9gag.com/gag/ae9B8Np)
+ - 👉 [My mind is blown.](http://9gag.com/gag/aryLLQ6)<!-- MEMES:END -->
 
 ---
 

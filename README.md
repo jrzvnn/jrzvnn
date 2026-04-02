@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Momentum Vida E+ Electric Bike Review: Stable, Quality Ride](https://www.wired.com/review/momentum-vida-e-electric-bike/)
- - [Apple iPad Air &lpar;M4&rpar; Review: The Ultimate iPad](https://www.wired.com/review/apple-ipad-air-m4/)
- - [Sources: Chinese optics company and Nvidia supplier Innolight confidentially filed for a Hong Kong IPO that could raise $3B+; Innolight is listed in Shenzhen &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p10#a260402p10)
- - [UK National Education Union poll: 66% of secondary school teachers in England say pupils using AI are losing their capacity for core skills like writing &lpar;Sally Weale/The Guardian&rpar;](http://www.techmeme.com/260402/p9#a260402p9)
- - [Sources: the US State Department ordered embassies to push back against foreign influence campaigns, as officials worry anti-US views are taking root worldwide &lpar;New York Times&rpar;](http://www.techmeme.com/260402/p8#a260402p8)<!-- TECH:END -->
+ - [Apple Fitness+ chief to retire after no wrongdoing found in bullying accusation](https://appleinsider.com/articles/26/04/02/apple-fitness-chief-to-retire-after-no-wrongdoing-found-in-bullying-accusation?utm_source=rss)
+ - [Our 7 Favorite Humidifiers for Home, Travel &amp; More &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-humidifier/)
+ - [How AI helped Medvi, a telehealth provider of GLP-1 weight-loss drugs with just two full-time employees, hit $401M in 2025 sales, as it tracks for $1.8B in 2026 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/260402/p12#a260402p12)
+ - [Gas Prices Are Soaring. So Is the Demand for Used EVs](https://www.wired.com/story/one-solution-to-the-gas-price-spike-used-evs/)
+ - [I Took RFK Jr.’s Advice and Ate Nothing but High-Protein Foods for a Week](https://www.wired.com/story/i-took-rfk-jrs-advice-and-ate-nothing-but-high-protein-foods-for-a-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

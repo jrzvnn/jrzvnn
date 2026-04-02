@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This even smaller credit card-sized e-reader has one tragic flaw](https://www.theverge.com/tech/905258/xteink-x3-e-ink-reader-ebooks-hands-on)
- - [Google Home’s latest update makes Gemini better at understanding your commands](https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting)
- - [United adds TSA wait times to its mobile app](https://www.theverge.com/tech/905817/united-airlines-app-ios-android-airtag-location-sharing-tsa-line)
- - [Rising gas prices are good news for EV sales, for now](https://www.theverge.com/transportation/905309/rising-gas-prices-are-good-news-for-ev-sales-for-now)
- - [Transfer Point is a modern adventure game made with 40-year-old software](https://www.theverge.com/entertainment/905339/transfer-point-mac-adventure-game-world-builder)<!-- TECH:END -->
+ - [An interview with Mustafa Suleyman on Microsoft&#39;s AI reorg, how revising its OpenAI contract &quot;unlocked [Microsoft&#39;s] ability to pursue superintelligence&quot;, more &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260402/p15#a260402p15)
+ - [Inside 50 years of Apple with the only original employee still there](https://appleinsider.com/articles/26/04/02/inside-50-years-of-apple-with-the-only-original-employee-still-there?utm_source=rss)
+ - [Tesla’s sales recover slightly, but the trend lines are all bad](https://www.theverge.com/transportation/905811/tesla-q1-2026-sales-deliveries-elon-musk)
+ - [A jury says Meta and Google hurt a kid. What now?](https://www.theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230)
+ - [Indie Pass is a new subscription service just for indie games](https://www.theverge.com/games/905476/indie-pass-io-subscription-service-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

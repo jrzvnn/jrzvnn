@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump fires attorney general Pam Bondi.](https://www.theverge.com/policy/905961/pam-bondi-fired)
- - [Mental health startup Kintsugi is shutting down and open-sourcing its AI tech to detect depression and anxiety, after failing to secure FDA clearance &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260402/p24#a260402p24)
- - [Your Art Can Go in This San Francisco Alley](https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/)
- - [A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant](https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/)
- - [Five questions for the guys who made a compass that points to the Times Square Olive Garden](https://www.theverge.com/gadgets/905977/five-questions-for-the-guys-who-made-a-compass-that-points-to-the-times-square-olive-garden)<!-- TECH:END -->
+ - [The ABS Challenge System is exposing the worst umpire in baseball](https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball)
+ - [The CFTC sues Arizona, Connecticut, and Illinois over their actions against prediction markets, saying it has the &quot;exclusive&quot; authority to regulate such markets &lpar;Alex Harring/CNBC&rpar;](http://www.techmeme.com/260402/p25#a260402p25)
+ - [OpenAI Acquires Tech Talk Show TBPN—and Buys Itself Some Positive News](https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/)
+ - [Pinterest said he violated laid-off colleagues&amp;#8217; privacy. Now he&amp;#8217;s going public](https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out)
+ - [Trump fires US attorney general Pam Bondi](https://www.theverge.com/policy/905961/pam-bondi-fired)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - 😝 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - 💣 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
+ - 😝 [Stop. please, just stop.](http://9gag.com/gag/aAy995o)
+ - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ayNKje8)
+ - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
  - 😝 [Sad US citizen noise...](http://9gag.com/gag/a34O6K3)
- - 👉 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)<!-- MEMES:END -->
+ - 👉 [Some deaths hurt more than others...](http://9gag.com/gag/avyjK6M)<!-- MEMES:END -->
 
 ---
 

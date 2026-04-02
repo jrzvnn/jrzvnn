@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smile](http://9gag.com/gag/aLnEEqP)
- - 😝 [Relatable](http://9gag.com/gag/amoZeWy)
- - 💣 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)
- - 😝 [Aha-ha... AHA-HA-HA-HA... russian technolojia and maintenance at it&#39;s best \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/aZZY6o3)
- - 👉 [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)<!-- MEMES:END -->
+ - 😝 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
+ - 😝 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)
+ - 💣 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - 😝 [Smart guy](http://9gag.com/gag/a87gR2p)
+ - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
 
 ---
 

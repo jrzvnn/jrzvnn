@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Google Pixel 10 Is $150 Off](https://www.wired.com/story/pixel-10-deal-3426/)
+ - [Tech Companies Are Trying to Neuter Colorado’s Landmark Right-to-Repair Law](https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/)
  - [Sources: SpaceX is floating a $2T+ valuation to prospective investors in its IPO; SpaceX&#39;s acquisition of xAI reportedly valued the combined company at $1.25T &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p27#a260402p27)
  - [Source: OpenAI bought TBPN, which was set to generate $30M in 2026, for &quot;low hundreds of millions of dollars&quot;; OpenAI says TBPN will be editorially independent &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260402/p26#a260402p26)
- - [iPhone 18 may get little more than a new color while iPhone Fold gets 3D printed hinge](https://appleinsider.com/articles/26/04/02/iphone-18-may-get-little-more-than-a-new-color-while-iphone-fold-gets-3d-printed-hinge?utm_source=rss)
- - [This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car](https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack)
- - [The ABS Challenge System is exposing the worst umpire in baseball](https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball)<!-- TECH:END -->
+ - [iPhone 18 may get little more than a new color while iPhone Fold gets 3D printed hinge](https://appleinsider.com/articles/26/04/02/iphone-18-may-get-little-more-than-a-new-color-while-iphone-fold-gets-3d-printed-hinge?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

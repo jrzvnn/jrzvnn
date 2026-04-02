@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
  - 😝 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 😝 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - 💣 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
- - 😝 [The transformation of this horse&#39;s hoof is so satisfying](http://9gag.com/gag/aGyQmRX)
- - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
+ - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - 😝 [280](http://9gag.com/gag/an7omm0)
+ - 👉 [My mind is blown.](http://9gag.com/gag/aryLLQ6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
- - 😝 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - 😝 [280](http://9gag.com/gag/an7omm0)
- - 👉 [My mind is blown.](http://9gag.com/gag/aryLLQ6)<!-- MEMES:END -->
+ - 😝 [Some deaths hurt more than others...](http://9gag.com/gag/avyjK6M)
+ - 😝 [Smile](http://9gag.com/gag/aLnEEqP)
+ - 💣 [Relatable](http://9gag.com/gag/amoZeWy)
+ - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
+ - 👉 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)<!-- MEMES:END -->
 
 ---
 

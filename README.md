@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Treeline, which is building an AI and software-first alternative to legacy corporate IT systems, raised a $25M Series A led by Andreessen Horowitz &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260401/p43#a260401p43)
- - [Tim Cook reflects on 50 years of Apple, Steve Jobs&#39; legacy, reaffirming the company&#39;s values, working with a &quot;very accessible&quot; Trump administration, and more &lpar;Ryan D&#39;Agostino/Esquire&rpar;](http://www.techmeme.com/260401/p42#a260401p42)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-2/)
- - [Artemis II Mission Launches Successfully](https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/)
- - [Variance, which develops AI agents for compliance and fraud investigations, raised a $21.5M Series A led by Ten Eleven Ventures and joined by YC and others &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260401/p41#a260401p41)<!-- TECH:END -->
+ - [Sources: Oracle has cut ~10,000 jobs in India, or ~20% of its Indian workforce, as part of a restructuring that has reportedly affected 30,000 staff worldwide &lpar;The Economic Times&rpar;](http://www.techmeme.com/260402/p2#a260402p2)
+ - [OnePlus Promo Code: $70 Off | April 2026](https://www.wired.com/story/oneplus-promo-code/)
+ - [Exclusive Lovehoney Discount Codes: 15% Off](https://www.wired.com/story/lovehoney-discount-code/)
+ - [Hydrow Discount Code: Save Up to $150 | April 2026](https://www.wired.com/story/hydrow-discount-code/)
+ - [1Password Coupon: Score a Free Trial in April](https://www.wired.com/story/1password-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

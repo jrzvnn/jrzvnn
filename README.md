@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail Fidji Simo&#39;s moves at OpenAI, including spearheading the TBPN acquisition and pushing OpenAI to cut Sora and avoid other social media products &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260402/p31#a260402p31)
+ - [Sources: Meta has told members of its Oversight Board that it may stop funding the board after 2028, though eliminating all funding is not its preferred option &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260402/p30#a260402p30)
+ - [Want Fashion-Forward Smart Glasses? This Company Could Easily Make It So](https://www.cnet.com/tech/mobile/nothing-reportedly-making-smart-glasses-2027-launch-commentary/)
  - [Amazon adds a 3.5% fuel and logistics surcharge to fulfillment fees for US and Canadian third-party sellers from April 17, as the Iran war drives up oil prices &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260402/p29#a260402p29)
- - [Developers that won the 2026 WWDC invite lottery are being notified](https://appleinsider.com/articles/26/04/02/developers-that-won-the-2026-wwdc-invite-lottery-are-being-notified?utm_source=rss)
- - [AO3 is finally out of beta after 17 years](https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit)
- - [PSA: Anyone with a link can view your Granola notes by default](https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa)
- - [Reddit is moving on from r/all](https://www.theverge.com/tech/906314/reddit-r-all-deprecating)<!-- TECH:END -->
+ - [Developers that won the 2026 WWDC invite lottery are being notified](https://appleinsider.com/articles/26/04/02/developers-that-won-the-2026-wwdc-invite-lottery-are-being-notified?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

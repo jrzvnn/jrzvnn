@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI acquires tech news show TBPN; Fidji Simo says the move aims to &quot;help create a space for a real, constructive conversation about the changes AI creates&quot; &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/260402/p23#a260402p23)
- - [OpenAI just bought TBPN](https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn)
- - [OpenAI acquires popular tech news show TBPN; the show will stay the same and will continue to air live at 11am PT weekdays &lpar;John Coogan/@johncoogan&rpar;](http://www.techmeme.com/260402/p22#a260402p22)
- - [Verge subscribers: Join us for a movie night in New York City, hosted by The Vergecast](https://www.theverge.com/podcast/905524/vergecast-subscribers-movie-night)
- - [Cursor launches Cursor 3, an &quot;agent-first&quot; coding product designed to compete with Claude Code and Codex by letting developers manage multiple AI agents &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260402/p21#a260402p21)<!-- TECH:END -->
+ - [Trump fires attorney general Pam Bondi.](https://www.theverge.com/policy/905961/pam-bondi-fired)
+ - [Mental health startup Kintsugi is shutting down and open-sourcing its AI tech to detect depression and anxiety, after failing to secure FDA clearance &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260402/p24#a260402p24)
+ - [Your Art Can Go in This San Francisco Alley](https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/)
+ - [A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant](https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/)
+ - [Five questions for the guys who made a compass that points to the Times Square Olive Garden](https://www.theverge.com/gadgets/905977/five-questions-for-the-guys-who-made-a-compass-that-points-to-the-times-square-olive-garden)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

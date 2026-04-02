@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - 😝 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - 😝 [The transformation of this horse&#39;s hoof is so satisfying](http://9gag.com/gag/aGyQmRX)
+ - 😝 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
  - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 😝 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
- - 👉 [Two towers](http://9gag.com/gag/aNDbbxv)<!-- MEMES:END -->
+ - 😝 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - 👉 [The Irish IRA has been reborn to fight a new enemy...](http://9gag.com/gag/aqyEoDp)<!-- MEMES:END -->
 
 ---
 

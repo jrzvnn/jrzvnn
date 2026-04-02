@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ayNKje8)
- - 😝 [Some deaths hurt more than others...](http://9gag.com/gag/avyjK6M)
- - 💣 [Stop. please, just stop.](http://9gag.com/gag/aAy995o)
- - 😝 [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)
- - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
+ - 😝 [Pokemon craz\u00e9](http://9gag.com/gag/avyjKPX)
+ - 😝 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
+ - 💣 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - 😝 [The Irish IRA has been reborn to fight a new enemy...](http://9gag.com/gag/aqyEoDp)
+ - 👉 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)<!-- MEMES:END -->
 
 ---
 

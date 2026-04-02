@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pokemon craz\u00e9](http://9gag.com/gag/avyjKPX)
- - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 💣 [Two towers](http://9gag.com/gag/aNDbbxv)
- - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
- - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
+ - 😝 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
+ - 😝 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - 💣 [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - 😝 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
 
 ---
 

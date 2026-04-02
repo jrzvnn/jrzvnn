@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cursor launches Cursor 3, an &quot;agent-first&quot; coding product designed to compete with Claude Code and Codex by letting developers manage multiple AI agents &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260402/p21#a260402p21)
- - [Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex](https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/)
- - [Flipboard launches Surf, an app for creating custom feeds from Mastodon, Threads, Bluesky, RSS, podcasts, and YouTube, after over a year in beta &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/260402/p20#a260402p20)
- - [Hisense’s art-inspired CanvasTV has hit a new low price](https://www.theverge.com/gadgets/905964/hisense-canvastv-deal-sale)
- - [Comedy-horror series &#39;Widow&#39;s Bay&#39; to haunt Apple TV on April 29](https://appleinsider.com/articles/26/04/02/comedy-horror-series-widows-bay-to-haunt-apple-tv-on-april-29?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI acquires tech news show TBPN; Fidji Simo says the move aims to &quot;help create a space for a real, constructive conversation about the changes AI creates&quot; &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/260402/p23#a260402p23)
+ - [OpenAI just bought TBPN](https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn)
+ - [OpenAI acquires popular tech news show TBPN; the show will stay the same and will continue to air live at 11am PT weekdays &lpar;John Coogan/@johncoogan&rpar;](http://www.techmeme.com/260402/p22#a260402p22)
+ - [Verge subscribers: Join us for a movie night in New York City, hosted by The Vergecast](https://www.theverge.com/podcast/905524/vergecast-subscribers-movie-night)
+ - [Cursor launches Cursor 3, an &quot;agent-first&quot; coding product designed to compete with Claude Code and Codex by letting developers manage multiple AI agents &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260402/p21#a260402p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

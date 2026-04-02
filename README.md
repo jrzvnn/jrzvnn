@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba releases Qwen3.6-Plus, its third proprietary, closed-source AI model launched within a three-day period, saying it &quot;drastically enhanced&quot; agentic coding &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260402/p6#a260402p6)
- - [15 Design-Forward DIY Tools Worth Upgrading to This Year](https://www.wired.com/story/15-diy-tools-worth-upgrading-to-this-year/)
- - [A profile of Microsoft CFO Amy Hood, who paused some data center expansions in 2025, a decision some say led to its current supply crunch and growth bottleneck &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p5#a260402p5)
- - [IDC: Chinese GPU and AI chipmakers captured ~41% of China&#39;s AI server market in 2025, significantly eroding Nvidia&#39;s share, which stood at 55% with ~2.2M cards &lpar;Reuters&rpar;](http://www.techmeme.com/260402/p4#a260402p4)
- - [Ofcom: the share of adult UK social media users actively posting, sharing, or commenting falls to 49%, down from 61% in 2024, as users become more selective &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/260402/p3#a260402p3)<!-- TECH:END -->
+ - [Momentum Vida E+ Electric Bike Review: Stable, Quality Ride](https://www.wired.com/review/momentum-vida-e-electric-bike/)
+ - [Apple iPad Air &lpar;M4&rpar; Review: The Ultimate iPad](https://www.wired.com/review/apple-ipad-air-m4/)
+ - [Sources: Chinese optics company and Nvidia supplier Innolight confidentially filed for a Hong Kong IPO that could raise $3B+; Innolight is listed in Shenzhen &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p10#a260402p10)
+ - [UK National Education Union poll: 66% of secondary school teachers in England say pupils using AI are losing their capacity for core skills like writing &lpar;Sally Weale/The Guardian&rpar;](http://www.techmeme.com/260402/p9#a260402p9)
+ - [Sources: the US State Department ordered embassies to push back against foreign influence campaigns, as officials worry anti-US views are taking root worldwide &lpar;New York Times&rpar;](http://www.techmeme.com/260402/p8#a260402p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

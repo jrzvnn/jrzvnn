@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LinkedIn job posting data: companies added 640K AI-related jobs from 2023 to 2025 in the US, including 225K &quot;head of AI&quot; jobs, up 49% from the prior four years &lpar;Te-Ping Chen/Wall Street Journal&rpar;](http://www.techmeme.com/260402/p28#a260402p28)
+ - [The best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop](https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/)
  - [The Google Pixel 10 Is $150 Off](https://www.wired.com/story/pixel-10-deal-3426/)
- - [Tech Companies Are Trying to Neuter Colorado’s Landmark Right-to-Repair Law](https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/)
- - [Sources: SpaceX is floating a $2T+ valuation to prospective investors in its IPO; SpaceX&#39;s acquisition of xAI reportedly valued the combined company at $1.25T &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p27#a260402p27)
- - [Source: OpenAI bought TBPN, which was set to generate $30M in 2026, for &quot;low hundreds of millions of dollars&quot;; OpenAI says TBPN will be editorially independent &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260402/p26#a260402p26)
- - [iPhone 18 may get little more than a new color while iPhone Fold gets 3D printed hinge](https://appleinsider.com/articles/26/04/02/iphone-18-may-get-little-more-than-a-new-color-while-iphone-fold-gets-3d-printed-hinge?utm_source=rss)<!-- TECH:END -->
+ - [Tech Companies Are Trying to Neuter Colorado’s Landmark Right-to-Repair Law](https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

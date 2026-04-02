@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California Suspends Enforcement of Law Requiring VCs to Report Diversity Data](https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/)
- - [Amazon looking to buy Globalstar, the company behind Apple&#39;s SOS via Satellite](https://appleinsider.com/articles/26/04/01/amazon-looking-to-buy-globalstar-the-company-behind-apples-sos-via-satellite?utm_source=rss)
- - [Trump’s birthright citizenship ban may fail — but the administration already got too far](https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments)
- - [Liftoff: NASA&#39;s Artemis II Is in Space, the First Human Trip to the Moon in 50 Years](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [Sources: Amazon is in talks to acquire Globalstar to bolster its low Earth orbit satellite business; Apple&#39;s 20% stake in Globalstar is a complicating factor &lpar;Financial Times&rpar;](http://www.techmeme.com/260401/p36#a260401p36)<!-- TECH:END -->
+ - [Treeline, which is building an AI and software-first alternative to legacy corporate IT systems, raised a $25M Series A led by Andreessen Horowitz &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260401/p43#a260401p43)
+ - [Tim Cook reflects on 50 years of Apple, Steve Jobs&#39; legacy, reaffirming the company&#39;s values, working with a &quot;very accessible&quot; Trump administration, and more &lpar;Ryan D&#39;Agostino/Esquire&rpar;](http://www.techmeme.com/260401/p42#a260401p42)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-2/)
+ - [Artemis II Mission Launches Successfully](https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/)
+ - [Variance, which develops AI agents for compliance and fraud investigations, raised a $21.5M Series A led by Ten Eleven Ventures and joined by YC and others &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260401/p41#a260401p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

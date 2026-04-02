@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Microsoft CFO Amy Hood, who paused some data center expansion last year, a decision some say led to its current supply crunch and growth bottleneck &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p5#a260402p5)
+ - [IDC: Chinese GPU and AI chipmakers captured ~41% of China&#39;s AI server market in 2025, significantly eroding Nvidia&#39;s share, which stood at 55% with ~2.2M cards &lpar;Reuters&rpar;](http://www.techmeme.com/260402/p4#a260402p4)
+ - [Ofcom: the share of adult UK social media users actively posting, sharing, or commenting falls to 49%, down from 61% in 2024, as users become more selective &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/260402/p3#a260402p3)
  - [Sources: Oracle has cut ~10,000 jobs in India, or ~20% of its Indian workforce, as part of a restructuring that has reportedly affected 30,000 staff worldwide &lpar;The Economic Times&rpar;](http://www.techmeme.com/260402/p2#a260402p2)
- - [OnePlus Promo Code: $70 Off | April 2026](https://www.wired.com/story/oneplus-promo-code/)
- - [Exclusive Lovehoney Discount Codes: 15% Off](https://www.wired.com/story/lovehoney-discount-code/)
- - [Hydrow Discount Code: Save Up to $150 | April 2026](https://www.wired.com/story/hydrow-discount-code/)
- - [1Password Coupon: Score a Free Trial in April](https://www.wired.com/story/1password-coupon/)<!-- TECH:END -->
+ - [OnePlus Promo Code: $70 Off | April 2026](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

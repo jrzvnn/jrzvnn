@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ABS Challenge System is exposing the worst umpire in baseball](https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball)
- - [The CFTC sues Arizona, Connecticut, and Illinois over their actions against prediction markets, saying it has the &quot;exclusive&quot; authority to regulate such markets &lpar;Alex Harring/CNBC&rpar;](http://www.techmeme.com/260402/p25#a260402p25)
- - [OpenAI Acquires Tech Talk Show TBPN—and Buys Itself Some Positive News](https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/)
- - [Pinterest said he violated laid-off colleagues&amp;#8217; privacy. Now he&amp;#8217;s going public](https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out)
- - [Trump fires US attorney general Pam Bondi](https://www.theverge.com/policy/905961/pam-bondi-fired)<!-- TECH:END -->
+ - [Sources: SpaceX is floating a $2T+ valuation to prospective investors in its IPO; SpaceX&#39;s acquisition of xAI reportedly valued the combined company at $1.25T &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p27#a260402p27)
+ - [Source: OpenAI bought TBPN, which was set to generate $30M in 2026, for &quot;low hundreds of millions of dollars&quot;; OpenAI says TBPN will be editorially independent &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260402/p26#a260402p26)
+ - [iPhone 18 may get little more than a new color while iPhone Fold gets 3D printed hinge](https://appleinsider.com/articles/26/04/02/iphone-18-may-get-little-more-than-a-new-color-while-iphone-fold-gets-3d-printed-hinge?utm_source=rss)
+ - [This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car](https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack)
+ - [The ABS Challenge System is exposing the worst umpire in baseball](https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

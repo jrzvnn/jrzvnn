@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Why aren&#39;t men showing their emotions?`](http://9gag.com/gag/aW4X3Mq)
- - 😝 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 😝 [Two towers](http://9gag.com/gag/aNDbbxv)
- - 👉 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)<!-- MEMES:END -->
+ - 😝 [Pokemon craz\u00e9](http://9gag.com/gag/avyjKPX)
+ - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - 💣 [Two towers](http://9gag.com/gag/aNDbbxv)
+ - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
+ - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The transformation of this horse&#39;s hoof is so satisfying](http://9gag.com/gag/aGyQmRX)
- - 😝 [Smart guy](http://9gag.com/gag/a87gR2p)
- - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - 😝 [Smile](http://9gag.com/gag/aLnEEqP)
+ - 😝 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)
+ - 💣 [Relatable](http://9gag.com/gag/amoZeWy)
  - 😝 [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
- - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
+ - 👉 [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)<!-- MEMES:END -->
 
 ---
 

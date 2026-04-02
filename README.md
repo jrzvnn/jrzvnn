@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 😝 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
- - 💣 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - 😝 [The art of SMO](http://9gag.com/gag/aMVLoxG)
- - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
+ - 😝 [`Why aren&#39;t men showing their emotions?`](http://9gag.com/gag/aW4X3Mq)
+ - 😝 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
+ - 💣 [Two towers](http://9gag.com/gag/aNDbbxv)
+ - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
+ - 👉 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Lego Gifts for Brick Builders &lpar;2026&rpar;: Smart Bricks, Video Games, and More](https://www.wired.com/gallery/gifts-for-lego-lovers/)
+ - [A New Implant Aims to Rewire Stroke Patients’ Brains](https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/)
  - [Apple Fitness+ chief to retire after no wrongdoing found in bullying accusation](https://appleinsider.com/articles/26/04/02/apple-fitness-chief-to-retire-after-no-wrongdoing-found-in-bullying-accusation?utm_source=rss)
  - [Our 7 Favorite Humidifiers for Home, Travel &amp; More &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-humidifier/)
- - [How AI helped Medvi, a telehealth provider of GLP-1 weight-loss drugs with just two full-time employees, hit $401M in 2025 sales, as it tracks for $1.8B in 2026 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/260402/p12#a260402p12)
- - [Gas Prices Are Soaring. So Is the Demand for Used EVs](https://www.wired.com/story/one-solution-to-the-gas-price-spike-used-evs/)
- - [I Took RFK Jr.’s Advice and Ate Nothing but High-Protein Foods for a Week](https://www.wired.com/story/i-took-rfk-jrs-advice-and-ate-nothing-but-high-protein-foods-for-a-week/)<!-- TECH:END -->
+ - [How AI helped Medvi, a telehealth provider of GLP-1 weight-loss drugs with just two full-time employees, hit $401M in 2025 sales, as it tracks for $1.8B in 2026 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/260402/p12#a260402p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

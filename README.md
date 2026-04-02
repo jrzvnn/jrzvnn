@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer gaming accessories include a $25 Taco Bell gift card at Best Buy](https://www.theverge.com/gadgets/905788/razer-taco-bell-best-buy-gaming-mouse-keyboard-deal-sale)
- - [Mustafa Suleyman says Microsoft is &quot;not able to build models in the very largest scale yet&quot; but its &quot;computation ramp is coming to enable us to do&quot; it in 2026 &lpar;Financial Times&rpar;](http://www.techmeme.com/260402/p16#a260402p16)
- - [Russians lose services and apps subscriptions after Apple fined for breaking sanctions](https://appleinsider.com/articles/26/04/02/russians-lose-services-and-apps-subscriptions-after-apple-fined-for-breaking-sanctions?utm_source=rss)
- - [It’s not easy to get depression-detecting AI through the FDA](https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down)
- - [Despite EV headwinds, Rivian’s sales are up](https://www.theverge.com/transportation/905903/despite-ev-headwinds-rivians-sales-are-up)<!-- TECH:END -->
+ - [Flipboard launches Surf, an app for creating custom feeds from Mastodon, Threads, Bluesky, RSS, podcasts, and YouTube, after over a year in beta &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/260402/p20#a260402p20)
+ - [Hisense’s art-inspired CanvasTV has hit a new low price](https://www.theverge.com/gadgets/905964/hisense-canvastv-deal-sale)
+ - [Comedy-horror series &#39;Widow&#39;s Bay&#39; to haunt Apple TV on April 29](https://appleinsider.com/articles/26/04/02/comedy-horror-series-widows-bay-to-haunt-apple-tv-on-april-29?utm_source=rss)
+ - [Google adds new features to its video editing app Vids, including directing and customizing avatars through text prompts and Veo 3.1 support &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260402/p19#a260402p19)
+ - [Google launches Gemma 4, its &quot;most intelligent&quot; open model family, purpose-built for advanced reasoning and agentic workflows, under an Apache 2.0 license &lpar;The Keyword&rpar;](http://www.techmeme.com/260402/p18#a260402p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [`Why aren&#39;t men showing their emotions?`](http://9gag.com/gag/aW4X3Mq)
- - 😝 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
- - 💣 [Two towers](http://9gag.com/gag/aNDbbxv)
- - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
- - 👉 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)<!-- MEMES:END -->
+ - 😝 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - 😝 [Two towers](http://9gag.com/gag/aNDbbxv)
+ - 👉 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)<!-- MEMES:END -->
 
 ---
 

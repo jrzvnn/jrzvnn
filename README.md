@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - 😝 [ScAM](http://9gag.com/gag/a2vXgne)
- - 💣 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)
- - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
- - 👉 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
+ - 😝 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - 😝 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aYQ00QV)
+ - 😝 [The only scam everyone agrees on](http://9gag.com/gag/aKGMoyb)
+ - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
 
 ---
 

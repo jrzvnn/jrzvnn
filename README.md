@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - 😝 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)
- - 💣 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - 😝 [The transformation of this horse&#39;s hoof is so satisfying](http://9gag.com/gag/aGyQmRX)
  - 😝 [Smart guy](http://9gag.com/gag/a87gR2p)
+ - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - 😝 [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
  - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
 
 ---

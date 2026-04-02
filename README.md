@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba releases Qwen3.6-Plus, its third proprietary, closed-source AI model launched within a three-day period, saying it &quot;drastically enhanced&quot; agentic coding &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260402/p6#a260402p6)
+ - [15 Design-Forward DIY Tools Worth Upgrading to This Year](https://www.wired.com/story/15-diy-tools-worth-upgrading-to-this-year/)
  - [A profile of Microsoft CFO Amy Hood, who paused some data center expansions in 2025, a decision some say led to its current supply crunch and growth bottleneck &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p5#a260402p5)
  - [IDC: Chinese GPU and AI chipmakers captured ~41% of China&#39;s AI server market in 2025, significantly eroding Nvidia&#39;s share, which stood at 55% with ~2.2M cards &lpar;Reuters&rpar;](http://www.techmeme.com/260402/p4#a260402p4)
- - [Ofcom: the share of adult UK social media users actively posting, sharing, or commenting falls to 49%, down from 61% in 2024, as users become more selective &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/260402/p3#a260402p3)
- - [Liftoff: NASA&#39;s Artemis II Is in Space, the First Human Trip to the Moon in 50 Years](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [Sources: Oracle has cut ~10,000 jobs in India, or ~20% of its Indian workforce, as part of a restructuring that has reportedly affected 30,000 staff worldwide &lpar;The Economic Times&rpar;](http://www.techmeme.com/260402/p2#a260402p2)<!-- TECH:END -->
+ - [Ofcom: the share of adult UK social media users actively posting, sharing, or commenting falls to 49%, down from 61% in 2024, as users become more selective &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/260402/p3#a260402p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

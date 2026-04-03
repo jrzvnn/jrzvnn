@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - 😝 [WELP.](http://9gag.com/gag/a0e3yWd)
+ - 😝 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)
+ - 💣 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
  - 😝 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
- - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
+ - 👉 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)<!-- MEMES:END -->
 
 ---
 

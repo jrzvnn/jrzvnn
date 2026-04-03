@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you don&#39;t understand the topic but you try to act cool](http://9gag.com/gag/adBzGOQ)
- - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
- - 👉 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)<!-- MEMES:END -->
+ - 😝 [Cool vid](http://9gag.com/gag/aYQ09Kw)
+ - 😝 [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
+ - 💣 [The only scam everyone agrees on](http://9gag.com/gag/aKGMoyb)
+ - 😝 [Future generations will have a blast with this](http://9gag.com/gag/apRMO15)
+ - 👉 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)
- - 😝 [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
- - 💣 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)
- - 😝 [Relatable](http://9gag.com/gag/amoZeWy)
- - 👉 [Who snitched ???](http://9gag.com/gag/a4P0XXp)<!-- MEMES:END -->
+ - 😝 [When you don&#39;t understand the topic but you try to act cool](http://9gag.com/gag/adBzGOQ)
+ - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
+ - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - 😝 [This is not Facebook!](http://9gag.com/gag/aVv6yzn)
+ - 👉 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)<!-- MEMES:END -->
 
 ---
 

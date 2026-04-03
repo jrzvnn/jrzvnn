@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists Have Made French Fry Breakthrough](https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/)
- - [Utah launches a one-year pilot program allowing Legion Health&#39;s AI chatbot to renew prescriptions for 15 low-risk psychiatric maintenance medications &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260403/p16#a260403p16)
- - [NASA did eventually solve Artemis II&amp;#8217;s Outlook glitch](https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed)
- - [OpenAI’s AGI boss is taking a leave of absence](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence)
- - [Our Favorite iPad Is $50 Off](https://www.wired.com/story/ipad-a16-deal-426/)<!-- TECH:END -->
+ - [Sources: Meta has paused its work with Mercor while it investigates a security breach at the data vendor; OpenAI says it is investigating the security incident &lpar;Wired&rpar;](http://www.techmeme.com/260403/p17#a260403p17)
+ - [Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)
+ - [Scientists Have Made a French Fry Breakthrough](https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/)
+ - [NASA&#39;s Artemis II Is Moon-Bound: Day 3 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [Utah launches a one-year pilot program allowing Legion Health&#39;s AI chatbot to renew prescriptions for 15 low-risk psychiatric maintenance medications &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260403/p16#a260403p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

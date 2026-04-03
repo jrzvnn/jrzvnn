@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
  - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - 💣 [Pokemon craz\u00e9](http://9gag.com/gag/avyjKPX)
- - 😝 [Future generations will have a blast with this](http://9gag.com/gag/apRMO15)
- - 👉 [Who snitched ???](http://9gag.com/gag/a4P0XXp)<!-- MEMES:END -->
+ - 😝 [Smart guy](http://9gag.com/gag/a87gR2p)
+ - 💣 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
+ - 😝 [And they blame gamers for this flops](http://9gag.com/gag/apRMO35)
+ - 👉 [WELP.](http://9gag.com/gag/a0e3yWd)<!-- MEMES:END -->
 
 ---
 

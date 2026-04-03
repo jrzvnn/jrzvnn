@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - 😝 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 😝 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
+ - 😝 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)
+ - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
  - 😝 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
- - 👉 [Who snitched ???](http://9gag.com/gag/a4P0XXp)<!-- MEMES:END -->
+ - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA Artemis II Day 2: Orion Leaves Earth&#39;s Orbit on a Trajectory to the Moon](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
  - [Matt Mullenweg says EmDash, while open source, is designed &quot;to sell more Cloudflare services&quot; and lacks the cross-platform democratization of WordPress &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/260403/p3#a260403p3)
- - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)
- - [HelloFresh Coupon Codes: 55% Off + Free Meals](https://www.wired.com/story/hellofresh-coupon/)
- - [Booking.com Promo Codes and Deals: Up to 20% Off](https://www.wired.com/story/booking-com-promo-code/)
- - [$20 Chewy Promo Code | April 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
+ - [$20 Chewy Promo Code | April 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [50% Off Home Depot Promo Codes | April 2026](https://www.wired.com/story/home-depot-promo-code/)
+ - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

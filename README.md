@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
- - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 💣 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
- - 😝 [He was arrested for not serving halal food. Madlad started carrying bacon everywhere](http://9gag.com/gag/aE04L1N)
- - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
+ - 😝 [Peak social engineering](http://9gag.com/gag/aMVLg96)
+ - 😝 [Sad US citizen noise...](http://9gag.com/gag/a34O6K3)
+ - 💣 [America, f**k yeah](http://9gag.com/gag/aVv6APP)
+ - 😝 [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
+ - 👉 [Smart guy](http://9gag.com/gag/a87gR2p)<!-- MEMES:END -->
 
 ---
 

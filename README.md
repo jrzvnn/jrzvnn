@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic says Claude subscriptions will no longer cover usage on third-party tools like OpenClaw starting April 4 at 12pm PT, to better manage capacity &lpar;Boris Cherny/@bcherny&rpar;](http://www.techmeme.com/260403/p20#a260403p20)
+ - [NASA&#39;s Artemis II Is Moon-Bound: Day 3 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
  - [Filing: Anthropic has formed AnthroPAC, a new PAC that will be funded exclusively and voluntarily by its employees and is expected to be bipartisan &lpar;Miranda Nazzaro/The Hill&rpar;](http://www.techmeme.com/260403/p19#a260403p19)
  - [Sources: Meta&#39;s &quot;Project Walleye&quot; Ohio data center seeks $3B in loans in a first-of-its-kind deal where lenders will fund both the building and the power assets &lpar;Financial Times&rpar;](http://www.techmeme.com/260403/p18#a260403p18)
- - [After Cutting Down on &#39;Side Quests,&#39; OpenAI Bought a Talk Show](https://www.cnet.com/tech/services-and-software/openai-acquires-tbpn/)
- - [Livestream FA Cup Soccer: Watch Man City vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-man-city-vs-liverpool-from-anywhere/)
- - [Sources: Meta has paused its work with Mercor while it investigates a security breach at the data vendor; OpenAI says it is investigating the security incident &lpar;Wired&rpar;](http://www.techmeme.com/260403/p17#a260403p17)<!-- TECH:END -->
+ - [After Cutting Down on &#39;Side Quests,&#39; OpenAI Bought a Talk Show](https://www.cnet.com/tech/services-and-software/openai-acquires-tbpn/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

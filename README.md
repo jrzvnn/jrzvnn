@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arcee AI releases Trinity-Large-Thinking, a 399B-parameter MoE AI model under an Apache 2.0 license, allowing full customization and commercial use &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260403/p1#a260403p1)
- - [Anthropic researchers find that an AI model&#39;s representations of emotion can influence its behavior &quot;in ways that matter,&quot; such as driving it to act unethically &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260402/p41#a260402p41)
- - [Noon, an AI-native product design tool, emerges from stealth with $44M in funding from Chemistry, First Round Capital, Scribble Ventures, and others &lpar;Vaibhavi Khanwalkar/The Economic Times&rpar;](http://www.techmeme.com/260402/p40#a260402p40)
- - [AI startup suing Apple over alleged arbitrary enforcement of App Store rules](https://appleinsider.com/articles/26/04/03/ai-startup-suing-apple-over-alleged-arbitrary-enforcement-of-app-store-rules?utm_source=rss)
- - [Microsoft partners with SoftBank and Sakura Internet to build AI data infrastructure in Japan, investing $10B over four years and training 1M AI engineers &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260402/p39#a260402p39)<!-- TECH:END -->
+ - [Matt Mullenweg says EmDash, while open source, is designed &quot;to sell more Cloudflare services&quot; and lacks the cross-platform democratization of WordPress &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/260403/p3#a260403p3)
+ - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)
+ - [HelloFresh Coupon Codes: 55% Off + Free Meals](https://www.wired.com/story/hellofresh-coupon/)
+ - [Booking.com Promo Codes and Deals: Up to 20% Off](https://www.wired.com/story/booking-com-promo-code/)
+ - [$20 Chewy Promo Code | April 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

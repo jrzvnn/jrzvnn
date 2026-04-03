@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: Israeli AI chip startup Hailo is pursuing an urgent IPO via a SPAC merger at a valuation of less than $500M; it was last valued at $1.2B in 2024 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260403/p7#a260403p7)
- - [John Perry Barlow, JFK Jr., and a Night of Grief I Can’t Forget](https://www.wired.com/story/jfk-jr-john-perry-barlow-friendship-love-story/)
- - [I saved a doomed Windows laptop by embracing Linux](https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad)
- - [A US bill seeks to ban exports of DUV lithography tech to China, whose imports of chipmaking equipment reportedly grew from $10.7B in 2016 to ~$51.1B in 2025 &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260403/p6#a260403p6)
- - [Waiting for Trump Phone](https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april)<!-- TECH:END -->
+ - [Sources: Huawei&#39;s Ascend 950PR chip, set for mass production soon, saw prices rise 20% after Chinese tech giants placed bulk orders to run DeepSeek&#39;s V4 model &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/260403/p8#a260403p8)
+ - [Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS](https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs)
+ - [Save $400 on 14-inch MacBook Pro M4 Pro with 20C GPU, 1TB SSD this weekend](https://appleinsider.com/articles/26/04/03/save-400-on-14-inch-macbook-pro-m4-pro-with-20c-gpu-1tb-ssd-this-weekend?utm_source=rss)
+ - [Anker&amp;#8217;s small, five-port travel adapter is down to its best price yet](https://www.theverge.com/gadgets/906392/anker-nano-travel-adapter-samsung-galaxy-watch-ultra-deal-sale)
+ - [Docs: Israeli AI chip startup Hailo is pursuing an urgent IPO via a SPAC merger at a valuation of less than $500M; it was last valued at $1.2B in 2024 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260403/p7#a260403p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 😝 [WELP.](http://9gag.com/gag/a0e3yWd)
- - 💣 [Artemis II](http://9gag.com/gag/aNDbN0G)
- - 😝 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
- - 👉 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)<!-- MEMES:END -->
+ - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
+ - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - 😝 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
+ - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
 
 ---
 

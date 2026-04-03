@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
- - 😝 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)
- - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - 😝 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
- - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
+ - 😝 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
+ - 💣 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)
+ - 😝 [Many... Many... Many years ago, you could joke about anything.](http://9gag.com/gag/aO8WX3y)
+ - 👉 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)<!-- MEMES:END -->
 
 ---
 

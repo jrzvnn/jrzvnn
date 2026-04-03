@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - 😝 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
- - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - 😝 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
- - 👉 [WELP.](http://9gag.com/gag/a0e3yWd)<!-- MEMES:END -->
+ - 😝 [WELP.](http://9gag.com/gag/a0e3yWd)
+ - 😝 [Artemis II](http://9gag.com/gag/aNDbN0G)
+ - 💣 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - 😝 [Just another day at sea for these sailors. The rocking never stops](http://9gag.com/gag/aPAq5xw)
+ - 👉 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)<!-- MEMES:END -->
 
 ---
 

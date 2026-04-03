@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple at 50, Siri, Apple Vision Pro, and vibe coding, on the AppleInsider Podcast](https://appleinsider.com/articles/26/04/03/apple-at-50-siri-apple-vision-pro-and-vibe-coding-on-the-appleinsider-podcast?utm_source=rss)
- - [Apple’s best product ever](https://www.theverge.com/podcast/906548/best-apple-product-vergecast)
- - [Some startups and researchers who can&#39;t access the most advanced chips are adopting a &quot;frugal AI&quot; approach, building smaller models on open-weight systems &lpar;Rina Chandran/Rest of World&rpar;](http://www.techmeme.com/260403/p5#a260403p5)
- - [The Best Samsung Galaxy S26 Cases &lpar;2026&rpar;: S26, S26+, and S26 Ultra](https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/)
- - [Let Us Text You the Very Best Deals Directly to Your Phone](https://www.cnet.com/tech/services-and-software/cnet-will-text-you-the-best-daily-deals-for-free/)<!-- TECH:END -->
+ - [A US bill seeks to ban exports of DUV lithography tech to China, whose imports of chipmaking equipment reportedly grew from $10.7B in 2016 to ~$51.1B in 2025 &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260403/p6#a260403p6)
+ - [Waiting for Trump Phone](https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april)
+ - [How the Apple Watch defined modern health tech](https://www.theverge.com/column/906391/apple-watch-optimizer-apple-50-health-tech-wearables)
+ - [Apple&#39;s iPad is still showing the world how to do tablets, 16 years later](https://appleinsider.com/articles/23/04/03/apples-ipad-is-still-showing-the-world-how-to-do-tablets-13-years-later?utm_source=rss)
+ - [Apple at 50, Siri, Apple Vision Pro, and vibe coding, on the AppleInsider Podcast](https://appleinsider.com/articles/26/04/03/apple-at-50-siri-apple-vision-pro-and-vibe-coding-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

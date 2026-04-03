@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smile](http://9gag.com/gag/aLnEEqP)
- - 😝 [Relatable](http://9gag.com/gag/amoZeWy)
- - 💣 [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)
- - 😝 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)
- - 👉 [The only scam everyone agrees on](http://9gag.com/gag/aKGMoyb)<!-- MEMES:END -->
+ - 😝 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - 😝 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - 💣 [WELP.](http://9gag.com/gag/a0e3yWd)
+ - 😝 [Don&#39;t tap out](http://9gag.com/gag/an7omLq)
+ - 👉 [Two towers](http://9gag.com/gag/aNDbbxv)<!-- MEMES:END -->
 
 ---
 

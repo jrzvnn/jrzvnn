@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alcatraz, which develops AI-powered facial-recognition security systems for building access, raised a $50M Series B, bringing its total funding to $100M+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260402/p38#a260402p38)
- - [Sources: Supabase is in talks to raise ~$500M at a ~$10B valuation, roughly doubling its October 2025 valuation; GIC is expected to lead the funding round &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/260402/p37#a260402p37)
- - [Sony Interactive Entertainment acquires Cinemersive Labs, a UK startup developing tools to convert 2D photos and videos into 3D volumetric photographs &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/260402/p35#a260402p35)
- - [A domestic shortage of electrical equipment such as transformers and switchgear is forcing the US to rely on Chinese imports, delaying data center construction &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p34#a260402p34)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 3, #557](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-3-557/)<!-- TECH:END -->
+ - [Arcee AI releases Trinity-Large-Thinking, a 399B-parameter MoE AI model under an Apache 2.0 license, allowing full customization and commercial use &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260403/p1#a260403p1)
+ - [Anthropic researchers find that an AI model&#39;s representations of emotion can influence its behavior &quot;in ways that matter,&quot; such as driving it to act unethically &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260402/p41#a260402p41)
+ - [Noon, an AI-native product design tool, emerges from stealth with $44M in funding from Chemistry, First Round Capital, Scribble Ventures, and others &lpar;Vaibhavi Khanwalkar/The Economic Times&rpar;](http://www.techmeme.com/260402/p40#a260402p40)
+ - [AI startup suing Apple over alleged arbitrary enforcement of App Store rules](https://appleinsider.com/articles/26/04/03/ai-startup-suing-apple-over-alleged-arbitrary-enforcement-of-app-store-rules?utm_source=rss)
+ - [Microsoft partners with SoftBank and Sakura Internet to build AI data infrastructure in Japan, investing $10B over four years and training 1M AI engineers &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260402/p39#a260402p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

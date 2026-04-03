@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak social engineering](http://9gag.com/gag/aMVLg96)
  - 😝 [This person is living in 3024](http://9gag.com/gag/a9yGoqD)
+ - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
  - 💣 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
- - 😝 [Many... Many... Many years ago, you could joke about anything.](http://9gag.com/gag/aO8WX3y)
- - 👉 [Very interesting](http://9gag.com/gag/abA87QX)<!-- MEMES:END -->
+ - 😝 [Exploring the Hidden World Inside a Terrarium](http://9gag.com/gag/avyj3eW)
+ - 👉 [The day we executed horologist](http://9gag.com/gag/aLnEyM6)<!-- MEMES:END -->
 
 ---
 

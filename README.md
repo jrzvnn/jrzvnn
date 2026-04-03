@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - 😝 [Smart guy](http://9gag.com/gag/a87gR2p)
- - 💣 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 😝 [And they blame gamers for this flops](http://9gag.com/gag/apRMO35)
+ - 😝 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
+ - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - 😝 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
  - 👉 [WELP.](http://9gag.com/gag/a0e3yWd)<!-- MEMES:END -->
 
 ---

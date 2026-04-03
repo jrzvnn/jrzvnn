@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail Fidji Simo&#39;s moves at OpenAI, including spearheading the TBPN acquisition and pushing OpenAI to cut Sora and avoid other social media products &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260402/p31#a260402p31)
- - [Sources: Meta has told members of its Oversight Board that it may stop funding the board after 2028, though eliminating all funding is not its preferred option &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260402/p30#a260402p30)
- - [Want Fashion-Forward Smart Glasses? This Company Could Easily Make It So](https://www.cnet.com/tech/mobile/nothing-reportedly-making-smart-glasses-2027-launch-commentary/)
- - [Amazon adds a 3.5% fuel and logistics surcharge to fulfillment fees for US and Canadian third-party sellers from April 17, as the Iran war drives up oil prices &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260402/p29#a260402p29)
- - [Developers that won the 2026 WWDC invite lottery are being notified](https://appleinsider.com/articles/26/04/02/developers-that-won-the-2026-wwdc-invite-lottery-are-being-notified?utm_source=rss)<!-- TECH:END -->
+ - [Alcatraz, which develops AI-powered facial-recognition security systems for building access, raised a $50M Series B, bringing its total funding to $100M+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260402/p38#a260402p38)
+ - [Sources: Supabase is in talks to raise ~$500M at a ~$10B valuation, roughly doubling its October 2025 valuation; GIC is expected to lead the funding round &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/260402/p37#a260402p37)
+ - [Sony Interactive Entertainment acquires Cinemersive Labs, a UK startup developing tools to convert 2D photos and videos into 3D volumetric photographs &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/260402/p35#a260402p35)
+ - [A domestic shortage of electrical equipment such as transformers and switchgear is forcing the US to rely on Chinese imports, delaying data center construction &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p34#a260402p34)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 3, #557](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-3-557/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

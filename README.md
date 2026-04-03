@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Musk requires banks seeking roles in SpaceX&#39;s IPO to subscribe to Grok and advertise on X; some banks are spending tens of millions integrating Grok &lpar;Maureen Farrell/New York Times&rpar;](http://www.techmeme.com/260403/p11#a260403p11)
  - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [April Fools&#39; Day 2026: The Good, the Bad and the Bizarre of This Year&#39;s Corporate Jokes](https://www.cnet.com/tech/april-fools-day-2026-the-internets-sneakiest-pranks-are-coming/)
  - [Chinese semiconductor companies like SMIC reported record 2025 revenue, driven by AI demand and China&#39;s self-sufficiency push as a result of US restrictions &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260403/p10#a260403p10)
- - [Taking Apple&#39;s AirPods Pro Hearing Test Was a Reality Check. This Is How We Protect Our Hearing Now](https://www.cnet.com/health/personal-care/apple-airpods-pro-hearing-test/)
- - [Tower Semiconductor&#39;s market cap tops $20B, four years after a near-sale to Intel for $5B; shares are up ~60% over the past month and ~525% over the past year &lpar;CTech&rpar;](http://www.techmeme.com/260403/p9#a260403p9)<!-- TECH:END -->
+ - [Taking Apple&#39;s AirPods Pro Hearing Test Was a Reality Check. This Is How We Protect Our Hearing Now](https://www.cnet.com/health/personal-care/apple-airpods-pro-hearing-test/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

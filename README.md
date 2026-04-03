@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our Favorite iPad Is $50 Off](https://www.wired.com/story/ipad-a16-deal-426/)
+ - [Internal memo: Iranian strikes have rendered two AWS zones &quot;hard down&quot; in Dubai and Bahrain and Amazon expects them to be &quot;unavailable for an extended period&quot; &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/260403/p15#a260403p15)
+ - [AirPods Max 2 teardown reveals nothing has changed beyond the H2 chip](https://appleinsider.com/articles/26/04/03/airpods-max-2-teardown-reveals-nothing-has-changed-beyond-the-h2-chip?utm_source=rss)
  - [Interviews with Codex lead Alexander Embiricos, OpenClaw&#39;s Peter Steinberger, and others about OpenAI&#39;s upcoming superapp that combines ChatGPT with Codex &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260403/p14#a260403p14)
- - [OpenAI&#39;s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up](https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/)
- - [Edward ‘Big Balls’ Coristine Is Helping Out on Viral Fraud Videos Now](https://www.wired.com/story/edward-coristine-nick-shirley-fraud-videos/)
- - [OpenAI COO Brad Lightcap is transitioning to a special projects role reporting to Sam Altman; Fidji Simo is taking medical leave for several weeks &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260403/p13#a260403p13)
- - [Lenovo Legion Go 2 suddenly costs $650 more as RAMageddon lays waste to gaming hardware](https://www.theverge.com/games/906752/lenovo-legion-go-2-suddenly-costs-650-more-as-ramageddon-lays-waste-to-gaming-hardware)<!-- TECH:END -->
+ - [OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up](https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

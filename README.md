@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Smile](http://9gag.com/gag/aLnEEqP)
+ - 😝 [Relatable](http://9gag.com/gag/amoZeWy)
+ - 💣 [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)
  - 😝 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)
- - 💣 [Relatable](http://9gag.com/gag/amoZeWy)
- - 😝 [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
- - 👉 [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)<!-- MEMES:END -->
+ - 👉 [The only scam everyone agrees on](http://9gag.com/gag/aKGMoyb)<!-- MEMES:END -->
 
 ---
 

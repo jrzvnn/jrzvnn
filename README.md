@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s LinkedIn is scanning installed browser extensions without user permission](https://appleinsider.com/articles/26/04/03/microsofts-linkedin-is-scanning-installed-browser-extensions-without-user-permission?utm_source=rss)
- - [iOS 26.5 developer beta 1 gets revised release, for reasons unknown](https://appleinsider.com/articles/26/04/03/ios-265-developer-beta-1-gets-revised-release-for-reasons-unknown?utm_source=rss)
- - [Sources: Mercor asked professionals in fields like entertainment to sell their prior work materials for AI training, even if the IP could belong to ex-employers &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260403/p12#a260403p12)
- - [NASA&#39;s Artemis II Is Moon-Bound: Day 3 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [How to Use Apple&#39;s AirDrop on Samsung Galaxy S26 Phones](https://www.cnet.com/tech/mobile/how-to-use-apples-airdrop-samsung-galaxy-phones/)<!-- TECH:END -->
+ - [Interviews with Codex lead Alexander Embiricos, OpenClaw&#39;s Peter Steinberger, and others about OpenAI&#39;s upcoming superapp that combines ChatGPT with Codex &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260403/p14#a260403p14)
+ - [OpenAI&#39;s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up](https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/)
+ - [Edward ‘Big Balls’ Coristine Is Helping Out on Viral Fraud Videos Now](https://www.wired.com/story/edward-coristine-nick-shirley-fraud-videos/)
+ - [OpenAI COO Brad Lightcap is transitioning to a special projects role reporting to Sam Altman; Fidji Simo is taking medical leave for several weeks &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260403/p13#a260403p13)
+ - [Lenovo Legion Go 2 suddenly costs $650 more as RAMageddon lays waste to gaming hardware](https://www.theverge.com/games/906752/lenovo-legion-go-2-suddenly-costs-650-more-as-ramageddon-lays-waste-to-gaming-hardware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

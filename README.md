@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [WELP.](http://9gag.com/gag/a0e3yWd)
+ - 😝 [`Why aren&#39;t men showing their emotions?`](http://9gag.com/gag/aW4X3Mq)
+ - 💣 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)
  - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - 😝 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
- - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
+ - 👉 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)<!-- MEMES:END -->
 
 ---
 

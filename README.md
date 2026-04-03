@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [WELP.](http://9gag.com/gag/a0e3yWd)
- - 😝 [Artemis II](http://9gag.com/gag/aNDbN0G)
- - 💣 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
- - 😝 [Just another day at sea for these sailors. The rocking never stops](http://9gag.com/gag/aPAq5xw)
+ - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
+ - 💣 [Smart guy](http://9gag.com/gag/a87gR2p)
+ - 😝 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
  - 👉 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)<!-- MEMES:END -->
 
 ---

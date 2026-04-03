@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Musk requires banks seeking roles in SpaceX&#39;s IPO to subscribe to Grok and advertise on X; some banks are spending tens of millions integrating Grok &lpar;Maureen Farrell/New York Times&rpar;](http://www.techmeme.com/260403/p11#a260403p11)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [April Fools&#39; Day 2026: The Good, the Bad and the Bizarre of This Year&#39;s Corporate Jokes](https://www.cnet.com/tech/april-fools-day-2026-the-internets-sneakiest-pranks-are-coming/)
- - [Chinese semiconductor companies like SMIC reported record 2025 revenue, driven by AI demand and China&#39;s self-sufficiency push as a result of US restrictions &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260403/p10#a260403p10)
- - [Taking Apple&#39;s AirPods Pro Hearing Test Was a Reality Check. This Is How We Protect Our Hearing Now](https://www.cnet.com/health/personal-care/apple-airpods-pro-hearing-test/)<!-- TECH:END -->
+ - [Microsoft&#39;s LinkedIn is scanning installed browser extensions without user permission](https://appleinsider.com/articles/26/04/03/microsofts-linkedin-is-scanning-installed-browser-extensions-without-user-permission?utm_source=rss)
+ - [iOS 26.5 developer beta 1 gets revised release, for reasons unknown](https://appleinsider.com/articles/26/04/03/ios-265-developer-beta-1-gets-revised-release-for-reasons-unknown?utm_source=rss)
+ - [Sources: Mercor asked professionals in fields like entertainment to sell their prior work materials for AI training, even if the IP could belong to ex-employers &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260403/p12#a260403p12)
+ - [NASA&#39;s Artemis II Is Moon-Bound: Day 3 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [How to Use Apple&#39;s AirDrop on Samsung Galaxy S26 Phones](https://www.cnet.com/tech/mobile/how-to-use-apples-airdrop-samsung-galaxy-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scientists Have Made French Fry Breakthrough](https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/)
+ - [Utah launches a one-year pilot program allowing Legion Health&#39;s AI chatbot to renew prescriptions for 15 low-risk psychiatric maintenance medications &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260403/p16#a260403p16)
  - [NASA did eventually solve Artemis II&amp;#8217;s Outlook glitch](https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed)
  - [OpenAI’s AGI boss is taking a leave of absence](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence)
- - [Our Favorite iPad Is $50 Off](https://www.wired.com/story/ipad-a16-deal-426/)
- - [Internal memo: Iranian strikes have rendered two AWS zones &quot;hard down&quot; in Dubai and Bahrain and Amazon expects them to be &quot;unavailable for an extended period&quot; &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/260403/p15#a260403p15)
- - [AirPods Max 2 teardown reveals nothing has changed beyond the H2 chip](https://appleinsider.com/articles/26/04/03/airpods-max-2-teardown-reveals-nothing-has-changed-beyond-the-h2-chip?utm_source=rss)<!-- TECH:END -->
+ - [Our Favorite iPad Is $50 Off](https://www.wired.com/story/ipad-a16-deal-426/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

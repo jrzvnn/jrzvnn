@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak social engineering](http://9gag.com/gag/aMVLg96)
- - 😝 [Sad US citizen noise...](http://9gag.com/gag/a34O6K3)
- - 💣 [America, f**k yeah](http://9gag.com/gag/aVv6APP)
- - 😝 [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
- - 👉 [Smart guy](http://9gag.com/gag/a87gR2p)<!-- MEMES:END -->
+ - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
+ - 😝 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 😝 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
+ - 👉 [Who snitched ???](http://9gag.com/gag/a4P0XXp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 3 Best Portable Jump Starters in 2026: Get Charged Up](https://www.wired.com/story/best-portable-jump-starters/)
+ - [Trump’s Economy Has Come for Sugar Babies](https://www.wired.com/story/trumps-economy-has-come-for-sugar-babies/)
  - [Samsung Frame Pro and OLED TV News: What You Need To Know in 2026](https://www.wired.com/story/samsung-frame-oled-tvs-news-2026/)
  - [The US NLRB rules that Amazon must negotiate with the Amazon Labor Union, which represents ~5K workers at its Staten Island warehouse; Amazon plans to appeal &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260403/p4#a260403p4)
- - [Think Robots Are Impressive Now? Just Wait Until They Have 6G](https://www.cnet.com/tech/computing/think-robots-are-impressive-now-just-wait-until-they-have-6g/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 3 #761](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-3-761/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 3, #1027](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-3-1027/)<!-- TECH:END -->
+ - [Think Robots Are Impressive Now? Just Wait Until They Have 6G](https://www.cnet.com/tech/computing/think-robots-are-impressive-now-just-wait-until-they-have-6g/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

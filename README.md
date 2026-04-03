@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Samsung Galaxy S26 Cases &lpar;2026&rpar;: S26, S26+, and S26 Ultra](https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/)
  - [Apple at 50: Michael Spindler, the CEO who brought in the clones](https://appleinsider.com/articles/26/04/03/apple-at-50-michael-spindler-the-ceo-who-brought-in-the-clones?utm_source=rss)
  - [Chatbots are now prescribing psychiatric drugs](https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs)
  - [The Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2026: Compare the Air, Pro, Mini](https://www.wired.com/gallery/the-best-ipad/)
- - [&#39;The Bonfire of the Vanities&#39; series headed to Apple TV](https://appleinsider.com/articles/26/04/03/the-bonfire-of-the-vanities-series-headed-to-apple-tv?utm_source=rss)
- - [A Year After DOGE Cuts, GSA Now Plans to Hire Hundreds of Employees](https://www.wired.com/story/doge-cuts-gsa-plans-to-hire-hundreds-of-employees/)<!-- TECH:END -->
+ - [&#39;The Bonfire of the Vanities&#39; series headed to Apple TV](https://appleinsider.com/articles/26/04/03/the-bonfire-of-the-vanities-series-headed-to-apple-tv?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

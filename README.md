@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: Israeli AI chip startup Hailo is pursuing an urgent IPO via a SPAC merger at a valuation of less than $500M; it was last valued at $1.2B in 2024 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260403/p7#a260403p7)
+ - [John Perry Barlow, JFK Jr., and a Night of Grief I Can’t Forget](https://www.wired.com/story/jfk-jr-john-perry-barlow-friendship-love-story/)
+ - [I saved a doomed Windows laptop by embracing Linux](https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad)
  - [A US bill seeks to ban exports of DUV lithography tech to China, whose imports of chipmaking equipment reportedly grew from $10.7B in 2016 to ~$51.1B in 2025 &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260403/p6#a260403p6)
- - [Waiting for Trump Phone](https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april)
- - [How the Apple Watch defined modern health tech](https://www.theverge.com/column/906391/apple-watch-optimizer-apple-50-health-tech-wearables)
- - [Apple&#39;s iPad is still showing the world how to do tablets, 16 years later](https://appleinsider.com/articles/23/04/03/apples-ipad-is-still-showing-the-world-how-to-do-tablets-13-years-later?utm_source=rss)
- - [Apple at 50, Siri, Apple Vision Pro, and vibe coding, on the AppleInsider Podcast](https://appleinsider.com/articles/26/04/03/apple-at-50-siri-apple-vision-pro-and-vibe-coding-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Waiting for Trump Phone](https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

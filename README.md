@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 😝 [Peak social engineering](http://9gag.com/gag/aMVLg96)
- - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 😝 [The day we executed horologist](http://9gag.com/gag/aLnEyM6)
+ - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
  - 😝 [Many... Many... Many years ago, you could joke about anything.](http://9gag.com/gag/aO8WX3y)
  - 👉 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)<!-- MEMES:END -->
 

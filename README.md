@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple at 50, Siri, Apple Vision Pro, and vibe coding, on the AppleInsider Podcast](https://appleinsider.com/articles/26/04/03/apple-at-50-siri-apple-vision-pro-and-vibe-coding-on-the-appleinsider-podcast?utm_source=rss)
+ - [Apple’s best product ever](https://www.theverge.com/podcast/906548/best-apple-product-vergecast)
+ - [Some startups and researchers who can&#39;t access the most advanced chips are adopting a &quot;frugal AI&quot; approach, building smaller models on open-weight systems &lpar;Rina Chandran/Rest of World&rpar;](http://www.techmeme.com/260403/p5#a260403p5)
  - [The Best Samsung Galaxy S26 Cases &lpar;2026&rpar;: S26, S26+, and S26 Ultra](https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/)
- - [Apple at 50: Michael Spindler, the CEO who brought in the clones](https://appleinsider.com/articles/26/04/03/apple-at-50-michael-spindler-the-ceo-who-brought-in-the-clones?utm_source=rss)
- - [Chatbots are now prescribing psychiatric drugs](https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs)
- - [The Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2026: Compare the Air, Pro, Mini](https://www.wired.com/gallery/the-best-ipad/)
- - [&#39;The Bonfire of the Vanities&#39; series headed to Apple TV](https://appleinsider.com/articles/26/04/03/the-bonfire-of-the-vanities-series-headed-to-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [Let Us Text You the Very Best Deals Directly to Your Phone](https://www.cnet.com/tech/services-and-software/cnet-will-text-you-the-best-daily-deals-for-free/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

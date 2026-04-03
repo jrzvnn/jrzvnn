@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This person is living in 3024](http://9gag.com/gag/a9yGoqD)
  - 😝 [WELP.](http://9gag.com/gag/a0e3yWd)
- - 😝 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
- - 😝 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
- - 👉 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)<!-- MEMES:END -->
+ - 💣 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
+ - 😝 [Many... Many... Many years ago, you could joke about anything.](http://9gag.com/gag/aO8WX3y)
+ - 👉 [Very interesting](http://9gag.com/gag/abA87QX)<!-- MEMES:END -->
 
 ---
 

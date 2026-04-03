@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
- - 😝 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
- - 💣 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)
- - 😝 [Many... Many... Many years ago, you could joke about anything.](http://9gag.com/gag/aO8WX3y)
- - 👉 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)<!-- MEMES:END -->
+ - 😝 [WELP.](http://9gag.com/gag/a0e3yWd)
+ - 😝 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 😝 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
+ - 👉 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)<!-- MEMES:END -->
 
 ---
 

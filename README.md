@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
- - 😝 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - 💣 [WELP.](http://9gag.com/gag/a0e3yWd)
- - 😝 [Don&#39;t tap out](http://9gag.com/gag/an7omLq)
- - 👉 [Two towers](http://9gag.com/gag/aNDbbxv)<!-- MEMES:END -->
+ - 😝 [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)
+ - 😝 [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
+ - 💣 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)
+ - 😝 [Relatable](http://9gag.com/gag/amoZeWy)
+ - 👉 [Who snitched ???](http://9gag.com/gag/a4P0XXp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
- - 😝 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)
- - 💣 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
- - 😝 [The Dark Side Has Better Jokes](http://9gag.com/gag/aD2vE2B)
- - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
+ - 😝 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
+ - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
+ - 💣 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
+ - 😝 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)
+ - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
 
 ---
 

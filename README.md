@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD or Nvidia eGPUs can work on Apple Silicon Macs, but not for graphic acceleration](https://appleinsider.com/articles/26/04/04/amd-or-nvidia-egpus-can-work-on-apple-silicon-macs-but-not-for-graphic-acceleration?utm_source=rss)
  - [A folk musician became a target for AI fakes and a copyright troll](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright)
+ - [NASA&#39;s Artemis II Astronauts Are More Than Halfway to the Moon: Day 4 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
  - [Y Combinator appears to have dropped Delve, removing the company&#39;s profile from its startup directory, following allegations of fake compliance certificates &lpar;The Economic Times&rpar;](http://www.techmeme.com/260404/p8#a260404p8)
- - [Russian media says attempts to limit VPN use may have triggered a widespread banking outage, as Moscow intensifies a crackdown on internet use and Telegram &lpar;Anthony Halpin/Bloomberg&rpar;](http://www.techmeme.com/260404/p7#a260404p7)
- - [Buy two Nintendo Switch games, get $30 off at Target](https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal)
- - [How NASA approved the iPhone 17 Pro Max for the Artemis II space mission](https://appleinsider.com/articles/26/04/04/how-nasa-approved-the-iphone-17-pro-max-for-the-artemis-ii-space-mission?utm_source=rss)<!-- TECH:END -->
+ - [Russian media says attempts to limit VPN use may have triggered a widespread banking outage, as Moscow intensifies a crackdown on internet use and Telegram &lpar;Anthony Halpin/Bloomberg&rpar;](http://www.techmeme.com/260404/p7#a260404p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

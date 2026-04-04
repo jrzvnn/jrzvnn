@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Y Combinator appears to have dropped Delve, removing the company&#39;s profile from its startup directory, following allegations of fake compliance certificates &lpar;The Economic Times&rpar;](http://www.techmeme.com/260404/p8#a260404p8)
  - [Russian media says attempts to limit VPN use may have triggered a widespread banking outage, as Moscow intensifies a crackdown on internet use and Telegram &lpar;Anthony Halpin/Bloomberg&rpar;](http://www.techmeme.com/260404/p7#a260404p7)
  - [Buy two Nintendo Switch games, get $30 off at Target](https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal)
  - [How NASA approved the iPhone 17 Pro Max for the Artemis II space mission](https://appleinsider.com/articles/26/04/04/how-nasa-approved-the-iphone-17-pro-max-for-the-artemis-ii-space-mission?utm_source=rss)
- - [Elgato Stream Deck+ review: completely unnecessary but totally compelling](https://appleinsider.com/articles/26/04/04/elgato-stream-deck-review-completely-unnecessary-but-totally-compelling?utm_source=rss)
- - [HBO Max: The 31 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-shows-to-watch-on-hbo-max-april-2026/)<!-- TECH:END -->
+ - [Elgato Stream Deck+ review: completely unnecessary but totally compelling](https://appleinsider.com/articles/26/04/04/elgato-stream-deck-review-completely-unnecessary-but-totally-compelling?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

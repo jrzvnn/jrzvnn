@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
  - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
- - 💣 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
+ - 💣 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
  - 😝 [Random](http://9gag.com/gag/awypqb1)
- - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
+ - 👉 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The day we executed horologist](http://9gag.com/gag/aLnEyM6)
- - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
- - 💣 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
- - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
- - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
+ - 😝 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
+ - 😝 [Artemis II](http://9gag.com/gag/aNDbN0G)
+ - 💣 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
+ - 😝 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
+ - 👉 [The day we executed horologist](http://9gag.com/gag/aLnEyM6)<!-- MEMES:END -->
 
 ---
 

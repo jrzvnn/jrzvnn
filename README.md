@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future generations will have a blast with this](http://9gag.com/gag/apRMO15)
  - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 💣 [Cool vid](http://9gag.com/gag/aYQ09Kw)
- - 😝 [He was arrested for not serving halal food. Madlad started carrying bacon everywhere](http://9gag.com/gag/aE04L1N)
+ - 😝 [Cool vid](http://9gag.com/gag/aYQ09Kw)
+ - 💣 [He was arrested for not serving halal food. Madlad started carrying bacon everywhere](http://9gag.com/gag/aE04L1N)
+ - 😝 [Seriously, what&#39;s wrong with actual trees](http://9gag.com/gag/a9yGQyK)
  - 👉 [Me every Friday at the end of the shift.](http://9gag.com/gag/a34OmgQ)<!-- MEMES:END -->
 
 ---

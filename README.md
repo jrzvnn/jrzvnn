@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
- - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
- - 💣 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
- - 😝 [Random](http://9gag.com/gag/awypqb1)
+ - 😝 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)
+ - 😝 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
+ - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 😝 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)
  - 👉 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)<!-- MEMES:END -->
 
 ---

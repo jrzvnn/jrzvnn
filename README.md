@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free colonoscopy](http://9gag.com/gag/a1m6y9G)
- - 😝 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
- - 💣 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
- - 😝 [Seriously, what&#39;s wrong with actual trees](http://9gag.com/gag/a9yGQyK)
- - 👉 [The day we executed horologist](http://9gag.com/gag/aLnEyM6)<!-- MEMES:END -->
+ - 😝 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
+ - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
+ - 💣 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
+ - 😝 [It&#39;s all so tiring...](http://9gag.com/gag/a2vXByD)
+ - 👉 [Free colonoscopy](http://9gag.com/gag/a1m6y9G)<!-- MEMES:END -->
 
 ---
 

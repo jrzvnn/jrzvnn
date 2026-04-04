@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft&#39;s Judson Althoff said Copilot sales hit &quot;some pretty big audacious goals&quot; in Q3; only 3% of customers were paying for Copilot as of January &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260404/p1#a260404p1)
+ - [Maytag Promo Codes and Deals: Appliances Under $300](https://www.wired.com/story/maytag-promo-code/)
  - [NASA&#39;s Artemis II Is Moon-Bound: Day 3 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-4/)
- - [The Artemis II moon mission is one of the first times NASA has let astronauts fly with smartphones, giving them modified iPhones for taking photos and videos &lpar;Kalley Huang/New York Times&rpar;](http://www.techmeme.com/260403/p24#a260403p24)
- - [Health data startup Bevel&#39;s CEO pushes back against Whoop&#39;s lawsuit that alleges Bevel copied the look of the Whoop app, saying Whoop&#39;s actions are &quot;lawfare&quot; &lpar;Leila Sheridan/Inc.com&rpar;](http://www.techmeme.com/260403/p23#a260403p23)
- - [Sources: Mark Zuckerberg is back to writing code after a two-decade hiatus, submitting three diffs to Meta&#39;s monorepo, and is a heavy user of Claude Code CLI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/260403/p22#a260403p22)<!-- TECH:END -->
+ - [The Artemis II moon mission is one of the first times NASA has let astronauts fly with smartphones, giving them modified iPhones for taking photos and videos &lpar;Kalley Huang/New York Times&rpar;](http://www.techmeme.com/260403/p24#a260403p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

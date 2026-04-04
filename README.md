@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Artemis II](http://9gag.com/gag/aNDbN0G)
- - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - 💣 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
- - 😝 [Exploring the Hidden World Inside a Terrarium](http://9gag.com/gag/avyj3eW)
- - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
+ - 😝 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)
+ - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 💣 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
+ - 😝 [Seriously, what&#39;s wrong with actual trees](http://9gag.com/gag/a9yGQyK)
+ - 👉 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Ski Clothes &lpar;2026&rpar;: Patagonia, Arc’teryx, Burton, and More](https://www.wired.com/gallery/best-ski-clothes/)
- - [Super Meat Boy 3D makes suffering fun](https://www.theverge.com/games/904202/super-meat-boy-3d-review)
- - [The app for tracking TV, movies, podcasts, and everything](https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer)
- - [A profile of Benjamin Brundage, a 22-year-old college senior who helped uncover the Kimwolf botnet, which launched 26,000+ DDoS attacks targeting 8,000+ victims &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260404/p5#a260404p5)
- - [Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven](https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/)<!-- TECH:END -->
+ - [UK hospital uses Apple Vision Pro to help patients visualize surgeries](https://appleinsider.com/articles/26/04/04/uk-hospital-uses-apple-vision-pro-to-help-patients-visualize-surgeries?utm_source=rss)
+ - [Sonos Play Review: Performance Meets Convenience](https://www.wired.com/review/sonos-play/)
+ - [Really, you made this without AI? Prove it](https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content)
+ - [It&#39;s Always Surreal in Philadelphia, Where Art Meets AI in a Sweeping Space](https://www.cnet.com/tech/services-and-software/ministry-of-awe-philadelphia-immersive-art-experience/)
+ - [Motorola&#39;s 2026 Razr Ultra Needs These Features to Win Me Over](https://www.cnet.com/tech/mobile/motorola-2026-razr-ultra-wishlist/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

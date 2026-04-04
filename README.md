@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Future generations will have a blast with this](http://9gag.com/gag/apRMO15)
  - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 😝 [The day we executed horologist](http://9gag.com/gag/aLnEyM6)
- - 💣 [Japanese space robotics from 1991](http://9gag.com/gag/aRBpn1y)
- - 😝 [A `you tube`](http://9gag.com/gag/aKGMrXW)
- - 👉 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)<!-- MEMES:END -->
+ - 💣 [He was arrested for not serving halal food. Madlad started carrying bacon everywhere](http://9gag.com/gag/aE04L1N)
+ - 😝 [Me every Friday at the end of the shift.](http://9gag.com/gag/a34OmgQ)
+ - 👉 [Cool vid](http://9gag.com/gag/aYQ09Kw)<!-- MEMES:END -->
 
 ---
 

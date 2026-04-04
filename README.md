@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)
  - 😝 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
- - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 💣 [When your 2-year-old child is run over and killed and the perpetrator only receives community service &lpar;father throws chair at the judge&rpar;](http://9gag.com/gag/a0e3mPZ)
  - 😝 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)
- - 👉 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)<!-- MEMES:END -->
+ - 👉 [Well well well... how the turntables. Skinny dudes vs bulked up military women.](http://9gag.com/gag/aqyEqNM)<!-- MEMES:END -->
 
 ---
 

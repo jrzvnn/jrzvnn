@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Benjamin Brundage, a 22-year-old college senior who helped uncover the Kimwolf botnet, which launched 26,000+ DDoS attacks targeting 8,000+ victims &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260404/p5#a260404p5)
+ - [Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven](https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/)
  - [Hackers Are Posting the Claude Code Leak With Bonus Malware](https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/)
- - [How to Get Reliable Wi-Fi in Your Backyard](https://www.wired.com/story/how-to-get-wifi-in-your-backyard/)
- - [The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering](https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/)
- - [Anker’s Nebula P1 projector is the portable sound king](https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ)
- - [The White House&#39;s latest effort to enact legislation that would preempt state AI laws stalls as multiple Democrats dismiss the proposal as a partisan play &lpar;Politico&rpar;](http://www.techmeme.com/260404/p4#a260404p4)<!-- TECH:END -->
+ - [You Need to Download This iOS 18 Update ASAP if You Aren&#39;t on iOS 26](https://www.cnet.com/tech/services-and-software/you-need-to-download-this-ios-18-update-now-if-you-arent-on-ios-26/)
+ - [How to Get Reliable Wi-Fi in Your Backyard](https://www.wired.com/story/how-to-get-wifi-in-your-backyard/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

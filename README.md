@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
- - 😝 [The day we executed horologist](http://9gag.com/gag/aLnEyM6)
- - 💣 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
- - 😝 [Exploring the Hidden World Inside a Terrarium](http://9gag.com/gag/avyj3eW)
- - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
+ - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
+ - 😝 [Me every Friday at the end of the shift.](http://9gag.com/gag/a34OmgQ)
+ - 💣 [Cool vid](http://9gag.com/gag/aYQ09Kw)
+ - 😝 [He was arrested for not serving halal food. Madlad started carrying bacon everywhere](http://9gag.com/gag/aE04L1N)
+ - 👉 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)<!-- MEMES:END -->
 
 ---
 

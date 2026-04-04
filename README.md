@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Claude subscriptions will no longer cover usage on third-party tools like OpenClaw starting April 4 at 12pm PT, to better manage capacity &lpar;Boris Cherny/@bcherny&rpar;](http://www.techmeme.com/260403/p20#a260403p20)
+ - [Health data startup Bevel&#39;s CEO pushes back against Whoop&#39;s lawsuit that alleges Bevel copied the look of the Whoop app, saying Whoop&#39;s actions are &quot;lawfare&quot; &lpar;Leila Sheridan/Inc.com&rpar;](http://www.techmeme.com/260403/p23#a260403p23)
+ - [Sources: Mark Zuckerberg is back to writing code after a two-decade hiatus, submitting three diffs to Meta&#39;s monorepo, and is a heavy user of Claude Code CLI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/260403/p22#a260403p22)
  - [NASA&#39;s Artemis II Is Moon-Bound: Day 3 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [Filing: Anthropic has formed AnthroPAC, a new PAC that will be funded exclusively and voluntarily by its employees and is expected to be bipartisan &lpar;Miranda Nazzaro/The Hill&rpar;](http://www.techmeme.com/260403/p19#a260403p19)
- - [Sources: Meta&#39;s &quot;Project Walleye&quot; Ohio data center seeks $3B in loans in a first-of-its-kind deal where lenders will fund both the building and the power assets &lpar;Financial Times&rpar;](http://www.techmeme.com/260403/p18#a260403p18)
- - [After Cutting Down on &#39;Side Quests,&#39; OpenAI Bought a Talk Show](https://www.cnet.com/tech/services-and-software/openai-acquires-tbpn/)<!-- TECH:END -->
+ - [Anthropic says Claude subscriptions will no longer cover usage on third-party tools like OpenClaw starting April 4 at 12pm PT, to better manage capacity &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260403/p21#a260403p21)
+ - [Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

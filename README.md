@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title goes here](http://9gag.com/gag/aRBpYvj)
- - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 💣 [Cool vid](http://9gag.com/gag/aYQ09Kw)
- - 😝 [He was arrested for not serving halal food. Madlad started carrying bacon everywhere](http://9gag.com/gag/aE04L1N)
- - 👉 [Me every Friday at the end of the shift.](http://9gag.com/gag/a34OmgQ)<!-- MEMES:END -->
+ - 😝 [Artemis II](http://9gag.com/gag/aNDbN0G)
+ - 😝 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
+ - 💣 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
+ - 😝 [Exploring the Hidden World Inside a Terrarium](http://9gag.com/gag/avyj3eW)
+ - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
 
 ---
 

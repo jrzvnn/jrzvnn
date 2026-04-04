@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
  - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
- - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
- - 💣 [Who are some other multitalented actresses that you know?](http://9gag.com/gag/ajP4bM8)
- - 😝 [Seriously, what&#39;s wrong with actual trees](http://9gag.com/gag/a9yGQyK)
- - 👉 [Very interesting](http://9gag.com/gag/abA87QX)<!-- MEMES:END -->
+ - 💣 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
+ - 😝 [Random](http://9gag.com/gag/awypqb1)
+ - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
 
 ---
 

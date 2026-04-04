@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research across 1,372 participants and 9K+ trials details &quot;cognitive surrender&quot;, where most subjects had minimal AI skepticism and accepted faulty AI reasoning &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/260404/p10#a260404p10)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 5, #1751](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-5-1751/)
  - [VCs are covering expenses like rent for young college dropouts founding AI startups; Antler: average AI unicorn founder age fell from 40 in 2020 to 29 in 2024 &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260404/p9#a260404p9)
  - [Exhibition at Apple Park lets employees get close to Apple&#39;s history](https://appleinsider.com/articles/26/04/04/exhibition-at-apple-park-lets-employees-get-close-to-apples-history?utm_source=rss)
- - [AMD or Nvidia eGPUs can work on Apple Silicon Macs, but not for graphic acceleration](https://appleinsider.com/articles/26/04/04/amd-or-nvidia-egpus-can-work-on-apple-silicon-macs-but-not-for-graphic-acceleration?utm_source=rss)
- - [A folk musician became a target for AI fakes and a copyright troll](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright)
- - [NASA&#39;s Artemis II Astronauts Are More Than Halfway to the Moon: Day 4 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
+ - [AMD or Nvidia eGPUs can work on Apple Silicon Macs, but not for graphic acceleration](https://appleinsider.com/articles/26/04/04/amd-or-nvidia-egpus-can-work-on-apple-silicon-macs-but-not-for-graphic-acceleration?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

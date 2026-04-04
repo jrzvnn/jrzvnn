@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
- - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
- - 💣 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 😝 [Free colonoscopy](http://9gag.com/gag/a1m6y9G)
- - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
+ - 😝 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
+ - 😝 [Many... Many... Many years ago, you could joke about anything.](http://9gag.com/gag/aO8WX3y)
+ - 💣 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)
+ - 😝 [Well played, abby](http://9gag.com/gag/aNDbxw6)
+ - 👉 [Abdul! GET THE STONES!!](http://9gag.com/gag/aryL61X)<!-- MEMES:END -->
 
 ---
 

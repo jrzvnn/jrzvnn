@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Ski Clothes &lpar;2026&rpar;: Patagonia, Arc’teryx, Burton, and More](https://www.wired.com/gallery/best-ski-clothes/)
+ - [Super Meat Boy 3D makes suffering fun](https://www.theverge.com/games/904202/super-meat-boy-3d-review)
+ - [The app for tracking TV, movies, podcasts, and everything](https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer)
  - [A profile of Benjamin Brundage, a 22-year-old college senior who helped uncover the Kimwolf botnet, which launched 26,000+ DDoS attacks targeting 8,000+ victims &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260404/p5#a260404p5)
- - [Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven](https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/)
- - [Hackers Are Posting the Claude Code Leak With Bonus Malware](https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/)
- - [You Need to Download This iOS 18 Update ASAP if You Aren&#39;t on iOS 26](https://www.cnet.com/tech/services-and-software/you-need-to-download-this-ios-18-update-now-if-you-arent-on-ios-26/)
- - [How to Get Reliable Wi-Fi in Your Backyard](https://www.wired.com/story/how-to-get-wifi-in-your-backyard/)<!-- TECH:END -->
+ - [Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven](https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

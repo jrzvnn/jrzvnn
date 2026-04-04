@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
+ - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
  - 😝 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
- - 💣 [Belgian radio hosts smash statue of Jesus, then get asked if they would smash a symbol of Mohammed..](http://9gag.com/gag/aZZYGQX)
+ - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
  - 😝 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
  - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
 

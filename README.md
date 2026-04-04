@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
  - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
  - 💣 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 😝 [It&#39;s all so tiring...](http://9gag.com/gag/a2vXByD)
- - 👉 [Free colonoscopy](http://9gag.com/gag/a1m6y9G)<!-- MEMES:END -->
+ - 😝 [Free colonoscopy](http://9gag.com/gag/a1m6y9G)
+ - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
 
 ---
 

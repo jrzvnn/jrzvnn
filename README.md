@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
  - 😝 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)
- - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
  - 💣 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
- - 😝 [Seriously, what&#39;s wrong with actual trees](http://9gag.com/gag/a9yGQyK)
- - 👉 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)<!-- MEMES:END -->
+ - 😝 [The Dark Side Has Better Jokes](http://9gag.com/gag/aD2vE2B)
+ - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
 
 ---
 

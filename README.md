@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering](https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/)
  - [Anker’s Nebula P1 projector is the portable sound king](https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ)
  - [The White House&#39;s latest effort to enact legislation that would preempt state AI laws stalls as multiple Democrats dismiss the proposal as a partisan play &lpar;Politico&rpar;](http://www.techmeme.com/260404/p4#a260404p4)
  - [Chinese humanoid robot maker UBTech is seeking a chief scientist with an annual pay of as much as ~$18M; China&#39;s AI industry has eschewed mega pay packages &lpar;Bloomberg&rpar;](http://www.techmeme.com/260404/p3#a260404p3)
- - [Generalist, which raised $140M at a $440M valuation in 2025, releases GEN-1, an AI model to help robots handle high-dexterity tasks typically done by humans &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260404/p2#a260404p2)
- - [Sources: Microsoft&#39;s Judson Althoff said Copilot sales hit &quot;some pretty big audacious goals&quot; in Q3; only 3% of customers were paying for Copilot as of January &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260404/p1#a260404p1)<!-- TECH:END -->
+ - [Generalist, which raised $140M at a $440M valuation in 2025, releases GEN-1, an AI model to help robots handle high-dexterity tasks typically done by humans &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260404/p2#a260404p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

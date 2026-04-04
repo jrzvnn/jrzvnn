@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abdul! GET THE STONES!!](http://9gag.com/gag/aryL61X)
- - 😝 [* Insert hot fuzz `Shame` meme *](http://9gag.com/gag/aKGM0WO)
- - 💣 [Just give em your wife/husbands panties](http://9gag.com/gag/aO8WwB3)
- - 😝 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)
- - 👉 [Many... Many... Many years ago, you could joke about anything.](http://9gag.com/gag/aO8WX3y)<!-- MEMES:END -->
+ - 😝 [The day we executed horologist](http://9gag.com/gag/aLnEyM6)
+ - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
+ - 💣 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
+ - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
+ - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
 
 ---
 

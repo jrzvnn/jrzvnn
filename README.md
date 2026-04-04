@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Future generations will have a blast with this](http://9gag.com/gag/apRMO15)
  - 😝 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 💣 [He was arrested for not serving halal food. Madlad started carrying bacon everywhere](http://9gag.com/gag/aE04L1N)
- - 😝 [Me every Friday at the end of the shift.](http://9gag.com/gag/a34OmgQ)
- - 👉 [Cool vid](http://9gag.com/gag/aYQ09Kw)<!-- MEMES:END -->
+ - 💣 [Cool vid](http://9gag.com/gag/aYQ09Kw)
+ - 😝 [He was arrested for not serving halal food. Madlad started carrying bacon everywhere](http://9gag.com/gag/aE04L1N)
+ - 👉 [Me every Friday at the end of the shift.](http://9gag.com/gag/a34OmgQ)<!-- MEMES:END -->
 
 ---
 

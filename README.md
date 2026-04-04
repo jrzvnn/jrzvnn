@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
- - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
- - 💣 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
- - 😝 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)
- - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
+ - 😝 [Artemis II](http://9gag.com/gag/aNDbN0G)
+ - 😝 [The day we executed horologist](http://9gag.com/gag/aLnEyM6)
+ - 💣 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
+ - 😝 [When You Finally Master That Complicated Ikea Manual!](http://9gag.com/gag/aVv6nBK)
+ - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
 
 ---
 

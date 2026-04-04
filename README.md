@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How NASA approved the iPhone 17 Pro Max for the Artemis II space mission](https://appleinsider.com/articles/26/04/04/how-nasa-approved-the-iphone-17-pro-max-for-the-artemis-ii-space-mission?utm_source=rss)
+ - [Elgato Stream Deck+ review: completely unnecessary but totally compelling](https://appleinsider.com/articles/26/04/04/elgato-stream-deck-review-completely-unnecessary-but-totally-compelling?utm_source=rss)
  - [My dream pair of AR gaming glasses needs to have these nine features](https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2)
  - [Q&amp;A with Simon Willison on the November release of GPT-5.1 and Opus 4.5 as the inflection point for coding, exhaustion due to managing coding agents, and more &lpar;Lenny Rachitsky/Lenny&#39;s Newsletter&rpar;](http://www.techmeme.com/260404/p6#a260404p6)
- - [UK hospital uses Apple Vision Pro to help patients visualize surgeries](https://appleinsider.com/articles/26/04/04/uk-hospital-uses-apple-vision-pro-to-help-patients-visualize-surgeries?utm_source=rss)
- - [AT&amp;T&#39;s New OneConnect Bundles Mobile and Home Internet, but There&#39;s a Catch](https://www.cnet.com/tech/mobile/att-oneconnect-bundle-subscription/)
- - [I Reviewed Every Item From McDonald&#39;s KPop Demon Hunters Meals: Here&#39;s What to Order](https://www.cnet.com/tech/services-and-software/mcdonalds-kpop-demon-hunter-meals-review/)<!-- TECH:END -->
+ - [UK hospital uses Apple Vision Pro to help patients visualize surgeries](https://appleinsider.com/articles/26/04/04/uk-hospital-uses-apple-vision-pro-to-help-patients-visualize-surgeries?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

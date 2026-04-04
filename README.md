@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
- - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
- - 💣 [When your 2-year-old child is run over and killed and the perpetrator only receives community service &lpar;father throws chair at the judge&rpar;](http://9gag.com/gag/a0e3mPZ)
- - 😝 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)
- - 👉 [Well well well... how the turntables. Skinny dudes vs bulked up military women.](http://9gag.com/gag/aqyEqNM)<!-- MEMES:END -->
+ - 😝 [No chill](http://9gag.com/gag/abA8j38)
+ - 💣 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
+ - 😝 [Well well well... how the turntables. Skinny dudes vs bulked up military women.](http://9gag.com/gag/aqyEqNM)
+ - 👉 [Squid Game](http://9gag.com/gag/aGyQXAZ)<!-- MEMES:END -->
 
 ---
 

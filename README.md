@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA&#39;s Artemis II Astronauts Are More Than Halfway to the Moon: Day 4 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [A folk musician became a target for AI fakes and a copyright troll](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright)
  - [Y Combinator appears to have dropped Delve, removing the company&#39;s profile from its startup directory, following allegations of fake compliance certificates &lpar;The Economic Times&rpar;](http://www.techmeme.com/260404/p8#a260404p8)
  - [Russian media says attempts to limit VPN use may have triggered a widespread banking outage, as Moscow intensifies a crackdown on internet use and Telegram &lpar;Anthony Halpin/Bloomberg&rpar;](http://www.techmeme.com/260404/p7#a260404p7)
  - [Buy two Nintendo Switch games, get $30 off at Target](https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal)

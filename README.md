@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The American Renaissance &lpar;2026&rpar;](https://www.reddit.com/r/funny/comments/1sci8eu/the_american_renaissance_2026/)
  - 😝 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
+ - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
  - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
  - 😝 [Who are some other multitalented actresses that you know?](http://9gag.com/gag/ajP4bM8)
- - 👉 [Seriously, what&#39;s wrong with actual trees](http://9gag.com/gag/a9yGQyK)<!-- MEMES:END -->
+ - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
 
 ---
 

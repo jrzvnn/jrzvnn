@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Smart guy](http://9gag.com/gag/a87gR2p)
+ - 😝 [Me every Friday at the end of the shift.](http://9gag.com/gag/a34OmgQ)
+ - 💣 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
  - 😝 [The day we executed horologist](http://9gag.com/gag/aLnEyM6)
- - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
- - 💣 [Peak social engineering](http://9gag.com/gag/aMVLg96)
- - 😝 [Seriously, what&#39;s wrong with actual trees](http://9gag.com/gag/a9yGQyK)
  - 👉 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)<!-- MEMES:END -->
 
 ---

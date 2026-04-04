@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
- - 😝 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
- - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
- - 😝 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
- - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
+ - 😝 [Such well defined gluteus medius. Educational on several levels!](http://9gag.com/gag/a87gZoQ)
+ - 💣 [Who are some other multitalented actresses that you know?](http://9gag.com/gag/ajP4bM8)
+ - 😝 [Seriously, what&#39;s wrong with actual trees](http://9gag.com/gag/a9yGQyK)
+ - 👉 [Very interesting](http://9gag.com/gag/abA87QX)<!-- MEMES:END -->
 
 ---
 

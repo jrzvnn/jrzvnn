@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Younger generation no longer wants jobs.](http://9gag.com/gag/an7opgo)
- - 😝 [Classic](http://9gag.com/gag/a4P0M4v)
- - 💣 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)
+ - 😝 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
+ - 😝 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - 💣 [Classic](http://9gag.com/gag/a4P0M4v)
  - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
- - 👉 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)<!-- MEMES:END -->
+ - 👉 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)<!-- MEMES:END -->
 
 ---
 

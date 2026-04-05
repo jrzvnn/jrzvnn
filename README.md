@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well played, abby](http://9gag.com/gag/aNDbxw6)
  - 😝 [Abdul! GET THE STONES!!](http://9gag.com/gag/aryL61X)
- - 💣 [Pure.. absolut.... WTF!](http://9gag.com/gag/a34O9br)
- - 😝 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)
+ - 😝 [Pure.. absolut.... WTF!](http://9gag.com/gag/a34O9br)
+ - 💣 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)
+ - 😝 [Breaking News!](http://9gag.com/gag/aGyQPB5)
  - 👉 [Seriously, what&#39;s wrong with actual trees](http://9gag.com/gag/a9yGQyK)<!-- MEMES:END -->
 
 ---

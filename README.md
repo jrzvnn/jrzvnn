@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: A $2 million iPhone heist in Florida](https://appleinsider.com/articles/26/04/05/crime-blotter-a-2-million-iphone-heist-in-florida?utm_source=rss)
- - [UK hospital uses Apple Vision Pro to help patients visualize surgeries](https://appleinsider.com/articles/26/04/04/uk-hospital-uses-apple-vision-pro-to-help-patients-visualize-surgeries?utm_source=rss)
- - [Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin](https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/)
- - [Fujifilm Instax Mini 13 Review: Instant Mini Analog](https://www.cnet.com/tech/computing/fujifilm-instax-mini-13-review-instant-film-camera/)
- - [Can AI Find Your Next Obsession? I Tested Its Hobby Suggestions](https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/)<!-- TECH:END -->
+ - [How the Amazon Echo learned to talk — and listen](https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history)
+ - [TrueUp data shows over 67,000 software engineering job openings, up 30% so far in 2026 and the most in three years, with listings up about 2x since mid-2023 &lpar;Alistair Barr/Business Insider&rpar;](http://www.techmeme.com/260405/p5#a260405p5)
+ - [Best Apple Watch Bands of 2026: Nike, Hermés, and More](https://www.wired.com/story/best-apple-watch-bands/)
+ - [Grammarly’s sloppelganger saga](https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga)
+ - [Crime blotter: A $2 million iPhone heist in Florida](https://appleinsider.com/articles/26/04/05/crime-blotter-a-2-million-iphone-heist-in-florida?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
- - 😝 [No chill](http://9gag.com/gag/abA8j38)
+ - 😝 [Well played, abby](http://9gag.com/gag/aNDbxw6)
+ - 😝 [Abdul! GET THE STONES!!](http://9gag.com/gag/aryL61X)
  - 💣 [Pure.. absolut.... WTF!](http://9gag.com/gag/a34O9br)
- - 😝 [Breaking News!](http://9gag.com/gag/aGyQPB5)
- - 👉 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
+ - 😝 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)
+ - 👉 [Seriously, what&#39;s wrong with actual trees](http://9gag.com/gag/a9yGQyK)<!-- MEMES:END -->
 
 ---
 

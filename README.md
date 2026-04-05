@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When boss tells a bad joke, but rent is due](http://9gag.com/gag/apRMyR8)
  - 😝 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
- - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
  - 💣 [Classic](http://9gag.com/gag/a4P0M4v)
- - 😝 [Like Jesus said:](http://9gag.com/gag/aAy9n59)
+ - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
  - 👉 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)<!-- MEMES:END -->
 
 ---

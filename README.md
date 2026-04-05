@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)
- - 😝 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
- - 💣 [Treating bloating in cattle.](http://9gag.com/gag/a6ZRWmm)
+ - 😝 [No chill](http://9gag.com/gag/abA8j38)
+ - 😝 [* Insert hot fuzz `Shame` meme *](http://9gag.com/gag/aKGM0WO)
+ - 💣 [He is Risen!](http://9gag.com/gag/a87grep)
  - 😝 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
- - 👉 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
+ - 👉 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)<!-- MEMES:END -->
 
 ---
 

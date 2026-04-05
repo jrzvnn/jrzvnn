@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When boss tells a bad joke, but rent is due](http://9gag.com/gag/apRMyR8)
+ - 😝 [Younger generation no longer wants jobs.](http://9gag.com/gag/an7opgo)
  - 😝 [Classic](http://9gag.com/gag/a4P0M4v)
  - 💣 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)
  - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)

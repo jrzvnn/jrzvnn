@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [3 Best Robot Lawn Mowers &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-robot-lawn-mowers/)
  - [Sony’s PS5 Price Hikes Prove This Console Generation Is Far From Over. Good.](https://www.wired.com/story/sonys-ps5-price-hikes-prove-this-console-generation-is-far-from-over-good/)
  - [With One Million Displaced, Lebanon Turns to Digital Wallets for Aid](https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/)
  - [How Hollywood support staff are integrating AI into workflows, from mundane tasks to creative development, amid cost-cutting and workload demands &lpar;Mia Galuppo/The Hollywood Reporter&rpar;](http://www.techmeme.com/260405/p4#a260405p4)
- - [The Hack That Exposed Syria’s Sweeping Security Failures](https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/)
- - [According to Microsoft Copilot Terms of Use, updated in Oct. 2025, &quot;Copilot is for entertainment purposes only&quot; and &quot;Don&#39;t rely on Copilot for important advice&quot; &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260405/p3#a260405p3)<!-- TECH:END -->
+ - [The Hack That Exposed Syria’s Sweeping Security Failures](https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

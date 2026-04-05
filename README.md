@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US commercial satellite provider Planet Labs is indefinitely withholding access to imagery of Iran and the conflict region, citing US government&#39;s request &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/260404/p15#a260404p15)
+ - [EU legislation allowing voluntary CSAM scanning by tech and social media companies expired April 3 after lawmakers failed to agree on the terms of an extension &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/260404/p14#a260404p14)
  - [NASA&#39;s Artemis II Astronauts Are More Than Halfway to the Moon: Day 4 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [How India&#39;s film industry is embracing AI, as studios use the tech to cut production time and costs, while union rules constrain its use in Hollywood &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/260404/p12#a260404p12)
- - [Apple reportedly signed a 3rd-party driver, by Tiny Corp, for AMD or Nvidia eGPUs for Apple Silicon Macs; it&#39;s meant for AI research, not accelerating graphics &lpar;AppleInsider&rpar;](http://www.techmeme.com/260404/p11#a260404p11)
- - [Research across 1,372 participants and 9K+ trials details &quot;cognitive surrender&quot;, where most subjects had minimal AI skepticism and accepted faulty AI reasoning &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/260404/p10#a260404p10)
- - [Today&#39;s Wordle Hints, Answer and Help for April 5, #1751](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-5-1751/)<!-- TECH:END -->
+ - [A look at how some teens use popular role-playing chatbots and, for parents, the high stakes task of understanding the impact of the possibly addictive products &lpar;New York Times&rpar;](http://www.techmeme.com/260404/p13#a260404p13)
+ - [How India&#39;s film industry is embracing AI, as studios use the tech to cut production time and costs, while union rules constrain its use in Hollywood &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/260404/p12#a260404p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I let Gemini in Google Maps plan my day and it went surprisingly well](https://www.theverge.com/tech/907015/gemini-google-maps-hands-on)
+ - [Livestream FA Cup Soccer: Watch West Ham vs. Leeds From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-west-ham-vs-leeds-from-anywhere/)
  - [Is the Slate Truck too minimal for its own good?](https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design)
  - [How the Amazon Echo learned to talk — and listen](https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history)
- - [The Artemis II Moonshot Deserves Your Awe, and Your Closer Attention, Too](https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-pay-attention-commentary/)
- - [I Used AI to Help Me Stay Ahead of Home Maintenance. Here&#39;s How](https://www.cnet.com/tech/services-and-software/i-used-ai-to-help-me-stay-ahead-of-home-maintenance-heres-how/)
- - [Samsung Galaxy S26 vs. Google Pixel 10: The Big Differences Between Each Flagship](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-vs-google-pixel-10-the-big-differences-between-each-flagship/)<!-- TECH:END -->
+ - [The Artemis II Moonshot Deserves Your Awe, and Your Closer Attention, Too](https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-pay-attention-commentary/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

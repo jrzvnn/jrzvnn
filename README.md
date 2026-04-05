@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [March Madness 2026: How to Watch the Men&#39;s and Women&#39;s Championship Finals](https://www.cnet.com/tech/services-and-software/march-madness-2026-how-to-watch-championship-finals/)
  - [I let Gemini in Google Maps plan my day and it went surprisingly well](https://www.theverge.com/tech/907015/gemini-google-maps-hands-on)
  - [Livestream FA Cup Soccer: Watch West Ham vs. Leeds From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-west-ham-vs-leeds-from-anywhere/)
  - [Is the Slate Truck too minimal for its own good?](https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design)
- - [How the Amazon Echo learned to talk — and listen](https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history)
- - [The Artemis II Moonshot Deserves Your Awe, and Your Closer Attention, Too](https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-pay-attention-commentary/)<!-- TECH:END -->
+ - [How the Amazon Echo learned to talk — and listen](https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

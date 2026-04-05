@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Surely you can&#39;t be serious](http://9gag.com/gag/aAy9n4d)
  - 😝 [Solid Logic Beats Utopian Fever](http://9gag.com/gag/ayNKyMY)
  - 💣 [He is Risen!](http://9gag.com/gag/a87grep)
- - 😝 [Nice try](http://9gag.com/gag/aKGo44W)
+ - 😝 [The Real Reason Easter Baskets are Overrated](http://9gag.com/gag/a6ZYrpb)
  - 👉 [No chill](http://9gag.com/gag/abA8j38)<!-- MEMES:END -->
 
 ---

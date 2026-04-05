@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Medvi, glorified by the NYT as a two-employee startup with $1B+ in revenue, is a warning about how AI can be misused for shady business and marketing practices &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/260405/p8#a260405p8)
- - [Sunday Reboot: Gift bags, China flubs, and iPhones in space](https://appleinsider.com/articles/26/04/05/sunday-reboot-gift-bags-china-flubs-and-iphones-in-space?utm_source=rss)
- - [&#39;Marshals&#39; Release Schedule: When Episode 6 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-6-hits-paramount-plus/)
- - [Los Thuthanaka’s Wak&amp;#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite](https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review)
- - [Drift details how suspected North Korean attackers stole $270M posing as a quant trading firm in a 6+ month operation with in-person meetings and a $1M+ deposit &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/260405/p7#a260405p7)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 6 #764](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-6-764/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 6, #1030](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-6-1030/)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 6, #1752](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-6-1752/)
+ - [Sunday Reboot: Gift bags, China flubs, and iPhones in space](https://appleinsider.com/articles/26/04/05/sunday-reboot-gift-bags-china-flubs-and-iphones-in-space?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

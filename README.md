@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
  - 😝 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)
- - 😝 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
- - 💣 [Treating bloating in cattle.](http://9gag.com/gag/a6ZRWmm)
- - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
+ - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - 😝 [Treating bloating in cattle.](http://9gag.com/gag/a6ZRWmm)
  - 👉 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)<!-- MEMES:END -->
 
 ---

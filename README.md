@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Crime blotter: A $2 million iPhone heist in Florida](https://appleinsider.com/articles/26/04/05/crime-blotter-a-2-million-iphone-heist-in-florida?utm_source=rss)
  - [UK hospital uses Apple Vision Pro to help patients visualize surgeries](https://appleinsider.com/articles/26/04/04/uk-hospital-uses-apple-vision-pro-to-help-patients-visualize-surgeries?utm_source=rss)
  - [Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin](https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/)
- - [Can AI Find Your Next Obsession? I Tested Its Hobby Suggestions](https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/)
- - [If Your Baby&#39;s Not Sleeping, Try Your iPhone&#39;s Hidden White Noise Feature](https://www.cnet.com/tech/services-and-software/if-you-babys-not-sleeping-try-your-iphones-hidden-white-noise-feature/)<!-- TECH:END -->
+ - [Fujifilm Instax Mini 13 Review: Instant Mini Analog](https://www.cnet.com/tech/computing/fujifilm-instax-mini-13-review-instant-film-camera/)
+ - [Can AI Find Your Next Obsession? I Tested Its Hobby Suggestions](https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

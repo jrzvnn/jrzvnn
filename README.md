@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When boss tells a bad joke, but rent is due](http://9gag.com/gag/apRMyR8)
- - 😝 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
- - 💣 [Classic](http://9gag.com/gag/a4P0M4v)
+ - 😝 [Classic](http://9gag.com/gag/a4P0M4v)
+ - 💣 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)
  - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
  - 👉 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)<!-- MEMES:END -->
 

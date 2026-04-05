@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
+ - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
+ - 💣 [Classic](http://9gag.com/gag/a4P0M4v)
  - 😝 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
- - 😝 [No chill](http://9gag.com/gag/abA8j38)
- - 💣 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
- - 😝 [Classic](http://9gag.com/gag/a4P0M4v)
  - 👉 [Well well well... how the turntables. Skinny dudes vs bulked up military women.](http://9gag.com/gag/aqyEqNM)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
- - 😝 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
- - 💣 [Classic](http://9gag.com/gag/a4P0M4v)
+ - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
  - 😝 [No chill](http://9gag.com/gag/abA8j38)
- - 👉 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)<!-- MEMES:END -->
+ - 💣 [Pure.. absolut.... WTF!](http://9gag.com/gag/a34O9br)
+ - 😝 [Breaking News!](http://9gag.com/gag/aGyQPB5)
+ - 👉 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
 
 ---
 

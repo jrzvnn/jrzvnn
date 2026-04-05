@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Best Robot Lawn Mowers &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-robot-lawn-mowers/)
- - [Sony’s PS5 Price Hikes Prove This Console Generation Is Far From Over. Good.](https://www.wired.com/story/sonys-ps5-price-hikes-prove-this-console-generation-is-far-from-over-good/)
- - [With One Million Displaced, Lebanon Turns to Digital Wallets for Aid](https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/)
- - [How Hollywood support staff are integrating AI into workflows, from mundane tasks to creative development, amid cost-cutting and workload demands &lpar;Mia Galuppo/The Hollywood Reporter&rpar;](http://www.techmeme.com/260405/p4#a260405p4)
- - [The Hack That Exposed Syria’s Sweeping Security Failures](https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/)<!-- TECH:END -->
+ - [Crime blotter: A $2 million iPhone heist in Florida](https://appleinsider.com/articles/26/04/05/crime-blotter-a-2-million-iphone-heist-in-florida?utm_source=rss)
+ - [UK hospital uses Apple Vision Pro to help patients visualize surgeries](https://appleinsider.com/articles/26/04/04/uk-hospital-uses-apple-vision-pro-to-help-patients-visualize-surgeries?utm_source=rss)
+ - [Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin](https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/)
+ - [Can AI Find Your Next Obsession? I Tested Its Hobby Suggestions](https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/)
+ - [If Your Baby&#39;s Not Sleeping, Try Your iPhone&#39;s Hidden White Noise Feature](https://www.cnet.com/tech/services-and-software/if-you-babys-not-sleeping-try-your-iphones-hidden-white-noise-feature/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

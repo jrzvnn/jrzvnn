@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
  - 😝 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - 😝 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
  - 💣 [Treating bloating in cattle.](http://9gag.com/gag/a6ZRWmm)
  - 😝 [Aaand he\u00b4s gone](http://9gag.com/gag/a34Xvxe)
- - 👉 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)<!-- MEMES:END -->
+ - 👉 [Who are some other multitalented actresses that you know?](http://9gag.com/gag/ajP4bM8)<!-- MEMES:END -->
 
 ---
 

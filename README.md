@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is the Slate Truck too minimal for its own good?](https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design)
  - [How the Amazon Echo learned to talk — and listen](https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history)
- - [TrueUp data shows over 67,000 software engineering job openings, up 30% so far in 2026 and the most in three years, with listings up about 2x since mid-2023 &lpar;Alistair Barr/Business Insider&rpar;](http://www.techmeme.com/260405/p5#a260405p5)
- - [Best Apple Watch Bands of 2026: Nike, Hermés, and More](https://www.wired.com/story/best-apple-watch-bands/)
- - [Grammarly’s sloppelganger saga](https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga)
- - [Crime blotter: A $2 million iPhone heist in Florida](https://appleinsider.com/articles/26/04/05/crime-blotter-a-2-million-iphone-heist-in-florida?utm_source=rss)<!-- TECH:END -->
+ - [The Artemis II Moonshot Deserves Your Awe, and Your Closer Attention, Too](https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-pay-attention-commentary/)
+ - [I Used AI to Help Me Stay Ahead of Home Maintenance. Here&#39;s How](https://www.cnet.com/tech/services-and-software/i-used-ai-to-help-me-stay-ahead-of-home-maintenance-heres-how/)
+ - [Samsung Galaxy S26 vs. Google Pixel 10: The Big Differences Between Each Flagship](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-vs-google-pixel-10-the-big-differences-between-each-flagship/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

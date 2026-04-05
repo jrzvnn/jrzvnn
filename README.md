@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Los Thuthanaka’s Wak&amp;#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite](https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review)
  - [Drift details how suspected North Korean attackers stole $270M posing as a quant trading firm in a 6+ month operation with in-person meetings and a $1M+ deposit &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/260405/p7#a260405p7)
+ - [NASA Artemis II Day 5: Astronauts Prep for Tomorrow&#39;s Moon Flyby](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
  - [Vibe coding significantly boosted App Store review submissions in 2025](https://appleinsider.com/articles/26/04/05/vibe-coding-significantly-boosted-app-store-review-submissions-in-2025?utm_source=rss)
- - [Save $150 on Apple&#39;s new M5 MacBook Air during Amazon&#39;s April sale](https://appleinsider.com/articles/26/04/05/save-150-on-apples-new-m5-macbook-air-during-amazons-april-sale?utm_source=rss)
- - [NASA Artemis II Day 5: Astronauts Prep for Tomorrow&#39;s Moon Flyby](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
+ - [Save $150 on Apple&#39;s new M5 MacBook Air during Amazon&#39;s April sale](https://appleinsider.com/articles/26/04/05/save-150-on-apples-new-m5-macbook-air-during-amazons-april-sale?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

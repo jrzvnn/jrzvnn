@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iCloud email goes down for some users in an Easter Sunday outage](https://appleinsider.com/articles/26/04/05/icloud-email-goes-down-for-some-users-in-an-easter-sunday-outage?utm_source=rss)
+ - [Suno is a music copyright nightmare](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers)
  - [NASA shares Artemis II crew&#39;s iPhone shots from space](https://appleinsider.com/articles/26/04/05/nasa-shares-artemis-ii-crews-iphone-shots-from-space?utm_source=rss)
  - [Prime Video: The 31 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video-april-2026/)
- - [A profile of Mikko Hyppönen, a cybersecurity veteran who pivoted from fighting malware to developing anti-drone systems for law enforcement and the military &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260405/p6#a260405p6)
- - [My Expert Advice: Don’t Buy a Router Until We Know More About the FCC&#39;s Ban](https://www.cnet.com/home/internet/my-expert-advice-dont-buy-a-router-until-we-know-more-about-the-fccs-ban/)
- - [March Madness 2026: How to Watch the Men&#39;s and Women&#39;s Championship Finals](https://www.cnet.com/tech/services-and-software/march-madness-2026-how-to-watch-championship-finals/)<!-- TECH:END -->
+ - [A profile of Mikko Hyppönen, a cybersecurity veteran who pivoted from fighting malware to developing anti-drone systems for law enforcement and the military &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260405/p6#a260405p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

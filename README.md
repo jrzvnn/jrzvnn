@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Dark Side Has Better Jokes](http://9gag.com/gag/aD2vE2B)
- - 😝 [He is Risen!](http://9gag.com/gag/a87grep)
- - 💣 [No chill](http://9gag.com/gag/abA8j38)
- - 😝 [* Insert hot fuzz `Shame` meme *](http://9gag.com/gag/aKGM0WO)
- - 👉 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)<!-- MEMES:END -->
+ - 😝 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)
+ - 😝 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - 💣 [Classic](http://9gag.com/gag/a4P0M4v)
+ - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
+ - 👉 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA shares Artemis II crew&#39;s iPhone shots from space](https://appleinsider.com/articles/26/04/05/nasa-shares-artemis-ii-crews-iphone-shots-from-space?utm_source=rss)
+ - [Prime Video: The 31 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video-april-2026/)
  - [A profile of Mikko Hyppönen, a cybersecurity veteran who pivoted from fighting malware to developing anti-drone systems for law enforcement and the military &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260405/p6#a260405p6)
- - [March Madness 2026: How to Watch the Men&#39;s and Women&#39;s Championship Finals](https://www.cnet.com/tech/services-and-software/march-madness-2026-how-to-watch-championship-finals/)
- - [I let Gemini in Google Maps plan my day and it went surprisingly well](https://www.theverge.com/tech/907015/gemini-google-maps-hands-on)
- - [Livestream FA Cup Soccer: Watch West Ham vs. Leeds From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-west-ham-vs-leeds-from-anywhere/)
- - [Is the Slate Truck too minimal for its own good?](https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design)<!-- TECH:END -->
+ - [My Expert Advice: Don’t Buy a Router Until We Know More About the FCC&#39;s Ban](https://www.cnet.com/home/internet/my-expert-advice-dont-buy-a-router-until-we-know-more-about-the-fccs-ban/)
+ - [March Madness 2026: How to Watch the Men&#39;s and Women&#39;s Championship Finals](https://www.cnet.com/tech/services-and-software/march-madness-2026-how-to-watch-championship-finals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

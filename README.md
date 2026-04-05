@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vibe coding significantly boosted App Store review submissions in 2025](https://appleinsider.com/articles/26/04/05/vibe-coding-significantly-boosted-app-store-review-submissions-in-2025?utm_source=rss)
+ - [Save $150 on Apple&#39;s new M5 MacBook Air during Amazon&#39;s April sale](https://appleinsider.com/articles/26/04/05/save-150-on-apples-new-m5-macbook-air-during-amazons-april-sale?utm_source=rss)
  - [iCloud email goes down for some users in an Easter Sunday outage](https://appleinsider.com/articles/26/04/05/icloud-email-goes-down-for-some-users-in-an-easter-sunday-outage?utm_source=rss)
  - [I Just Binged This Underhyped Hipster Comedy on Netflix. Color Me Obsessed](https://www.cnet.com/tech/services-and-software/search-party-netflix-tv-show-comedy/)
- - [Suno is a music copyright nightmare](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers)
- - [NASA shares Artemis II crew&#39;s iPhone shots from space](https://appleinsider.com/articles/26/04/05/nasa-shares-artemis-ii-crews-iphone-shots-from-space?utm_source=rss)
- - [Prime Video: The 31 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video-april-2026/)<!-- TECH:END -->
+ - [Suno is a music copyright nightmare](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

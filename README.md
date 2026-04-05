@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)
- - 😝 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
- - 💣 [Classic](http://9gag.com/gag/a4P0M4v)
- - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
- - 👉 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)<!-- MEMES:END -->
+ - 😝 [Surely you can&#39;t be serious](http://9gag.com/gag/aAy9n4d)
+ - 😝 [Solid Logic Beats Utopian Fever](http://9gag.com/gag/ayNKyMY)
+ - 💣 [He is Risen!](http://9gag.com/gag/a87grep)
+ - 😝 [Nice try](http://9gag.com/gag/aKGo44W)
+ - 👉 [No chill](http://9gag.com/gag/abA8j38)<!-- MEMES:END -->
 
 ---
 

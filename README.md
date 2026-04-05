@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
- - 😝 [No chill](http://9gag.com/gag/abA8j38)
- - 💣 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
- - 😝 [Well well well... how the turntables. Skinny dudes vs bulked up military women.](http://9gag.com/gag/aqyEqNM)
+ - 😝 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
+ - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
+ - 💣 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
+ - 😝 [When your 2-year-old child is run over and killed and the perpetrator only receives community service &lpar;father throws chair at the judge&rpar;](http://9gag.com/gag/a0e3mPZ)
  - 👉 [Squid Game](http://9gag.com/gag/aGyQXAZ)<!-- MEMES:END -->
 
 ---

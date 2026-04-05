@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [According to Microsoft Copilot Terms of Use, updated in Oct. 2025, &quot;Copilot is for entertainment purposes only&quot; and &quot;Don&#39;t rely on Copilot for important advice&quot; &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260405/p3#a260405p3)
  - [Samsung plans to discontinue its Messages app in the US in July 2026 and offers instructions for users on older Android versions to switch to Google Messages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260405/p2#a260405p2)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 5 #763](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-5-763/)
  - [Sources: the UK has stepped up its efforts to get Anthropic to expand in the country, including a dual listing proposal, after Anthropic&#39;s clash with the US DOD &lpar;Financial Times&rpar;](http://www.techmeme.com/260405/p1#a260405p1)
- - [US commercial satellite provider Planet Labs is indefinitely withholding access to imagery of Iran and the conflict region, citing US government&#39;s request &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/260404/p15#a260404p15)
- - [EU legislation allowing voluntary CSAM scanning by tech and social media companies expired April 3 after lawmakers failed to agree on the terms of an extension &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/260404/p14#a260404p14)
- - [NASA&#39;s Artemis II Astronauts Are More Than Halfway to the Moon: Day 4 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 5, #1029](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-5-1029/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

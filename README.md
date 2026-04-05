@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Learn everyday](http://9gag.com/gag/a34O9e1)
- - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
- - 💣 [Squid Game](http://9gag.com/gag/aGyQXAZ)
- - 😝 [Solid Logic Beats Utopian Fever](http://9gag.com/gag/ayNKyMY)
- - 👉 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)<!-- MEMES:END -->
+ - 😝 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
+ - 😝 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
+ - 💣 [Classic](http://9gag.com/gag/a4P0M4v)
+ - 😝 [No chill](http://9gag.com/gag/abA8j38)
+ - 👉 [Squid Game](http://9gag.com/gag/aGyQXAZ)<!-- MEMES:END -->
 
 ---
 

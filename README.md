@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
+ - 😝 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
  - 😝 [Belgian radio hosts smash statue of Jesus, then get asked if they would smash a symbol of Mohammed..](http://9gag.com/gag/aZZYGQX)
  - 💣 [Classic](http://9gag.com/gag/a4P0M4v)
- - 😝 [Breaking News!](http://9gag.com/gag/aGyQPB5)
+ - 😝 [Treating bloating in cattle.](http://9gag.com/gag/a6ZRWmm)
  - 👉 [Well well well... how the turntables. Skinny dudes vs bulked up military women.](http://9gag.com/gag/aqyEqNM)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Drift details how suspected North Korean attackers stole $270M posing as a quant trading firm in a 6+ month operation with in-person meetings and a $1M+ deposit &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/260405/p7#a260405p7)
  - [Vibe coding significantly boosted App Store review submissions in 2025](https://appleinsider.com/articles/26/04/05/vibe-coding-significantly-boosted-app-store-review-submissions-in-2025?utm_source=rss)
  - [Save $150 on Apple&#39;s new M5 MacBook Air during Amazon&#39;s April sale](https://appleinsider.com/articles/26/04/05/save-150-on-apples-new-m5-macbook-air-during-amazons-april-sale?utm_source=rss)
- - [iCloud email goes down for some users in an Easter Sunday outage](https://appleinsider.com/articles/26/04/05/icloud-email-goes-down-for-some-users-in-an-easter-sunday-outage?utm_source=rss)
- - [I Just Binged This Underhyped Hipster Comedy on Netflix. Color Me Obsessed](https://www.cnet.com/tech/services-and-software/search-party-netflix-tv-show-comedy/)
- - [Suno is a music copyright nightmare](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers)<!-- TECH:END -->
+ - [NASA Artemis II Day 5: Astronauts Prep for Tomorrow&#39;s Moon Flyby](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [iCloud email goes down for some users in an Easter Sunday outage](https://appleinsider.com/articles/26/04/05/icloud-email-goes-down-for-some-users-in-an-easter-sunday-outage?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

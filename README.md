@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abdul! GET THE STONES!!](http://9gag.com/gag/aryL61X)
- - 😝 [Pure.. absolut.... WTF!](http://9gag.com/gag/a34O9br)
- - 💣 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)
+ - 😝 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
+ - 😝 [Belgian radio hosts smash statue of Jesus, then get asked if they would smash a symbol of Mohammed..](http://9gag.com/gag/aZZYGQX)
+ - 💣 [Classic](http://9gag.com/gag/a4P0M4v)
  - 😝 [Breaking News!](http://9gag.com/gag/aGyQPB5)
- - 👉 [Seriously, what&#39;s wrong with actual trees](http://9gag.com/gag/a9yGQyK)<!-- MEMES:END -->
+ - 👉 [Well well well... how the turntables. Skinny dudes vs bulked up military women.](http://9gag.com/gag/aqyEqNM)<!-- MEMES:END -->
 
 ---
 

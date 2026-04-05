@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iCloud email goes down for some users in an Easter Sunday outage](https://appleinsider.com/articles/26/04/05/icloud-email-goes-down-for-some-users-in-an-easter-sunday-outage?utm_source=rss)
+ - [I Just Binged This Underhyped Hipster Comedy on Netflix. Color Me Obsessed](https://www.cnet.com/tech/services-and-software/search-party-netflix-tv-show-comedy/)
  - [Suno is a music copyright nightmare](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers)
  - [NASA shares Artemis II crew&#39;s iPhone shots from space](https://appleinsider.com/articles/26/04/05/nasa-shares-artemis-ii-crews-iphone-shots-from-space?utm_source=rss)
- - [Prime Video: The 31 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video-april-2026/)
- - [A profile of Mikko Hyppönen, a cybersecurity veteran who pivoted from fighting malware to developing anti-drone systems for law enforcement and the military &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260405/p6#a260405p6)<!-- TECH:END -->
+ - [Prime Video: The 31 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video-april-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

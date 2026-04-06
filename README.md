@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Who is this guy?!](http://9gag.com/gag/amo4N2v)
+ - 😝 [2-step Verification](http://9gag.com/gag/aGyQPZ6)
+ - 💣 [Worth a shot](http://9gag.com/gag/axyrpx2)
  - 😝 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)
- - 😝 [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)
- - 💣 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)
- - 😝 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)
  - 👉 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
 
 ---

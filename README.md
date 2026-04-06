@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How social media became a freak show: X punishes external links and most top accounts, such as Catturd, are very low-quality but get more engagement than NYT &lpar;Nate Silver/Silver Bulletin&rpar;](http://www.techmeme.com/260406/p17#a260406p17)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [NASA Artemis II Day 6: Artemis II Breaks Apollo 13 Record for Space Travel](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
  - [DJI’s Mic Mini records clear audio on the go, and it&amp;#8217;s on sale for $60](https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale)
- - [Border Patrol Agents Sold Challenge Coins With ‘Charlotte’s Web’ Characters in Riot Gear](https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/)
- - [Robotaxi companies won’t say how often remote operators intervene](https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla)
- - [A federal appeals court rules New Jersey cannot block Kalshi users in the state from sports-related event contracts, finding CFTC has exclusive jurisdiction &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/260406/p16#a260406p16)<!-- TECH:END -->
+ - [Border Patrol Agents Sold Challenge Coins With ‘Charlotte’s Web’ Characters in Riot Gear](https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

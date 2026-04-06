@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
+ - 😝 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
  - 😝 [Who is this guy?!](http://9gag.com/gag/amo4N2v)
  - 💣 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)
- - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
+ - 😝 [He accepted his fate.. :-&rpar;](http://9gag.com/gag/a87xLR6)
  - 👉 [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)<!-- MEMES:END -->
 
 ---

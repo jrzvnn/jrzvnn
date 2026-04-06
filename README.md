@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [* Insert hot fuzz `Shame` meme *](http://9gag.com/gag/aKGM0WO)
- - 😝 [He is Risen!](http://9gag.com/gag/a87grep)
- - 💣 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
- - 😝 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
- - 👉 [This is how I feel recently](http://9gag.com/gag/ajP423G)<!-- MEMES:END -->
+ - 😝 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
+ - 😝 [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)
+ - 💣 [Careful batman...](http://9gag.com/gag/aMVLpnP)
+ - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
+ - 👉 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)<!-- MEMES:END -->
 
 ---
 

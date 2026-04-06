@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung reports preliminary Q1 operating profit of ~$38B, up more than 8x YoY and above ~$27B est., a record, and revenue up 68% YoY to ~$88B &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260406/p26#a260406p26)
+ - [Apps on the App Store are being updated by Apple, though there&#39;s no clear reason why](https://appleinsider.com/articles/26/04/06/apps-on-the-app-store-are-being-updated-by-apple-though-theres-no-clear-reason-why?utm_source=rss)
+ - [Amazon and USPS reach a new delivery deal; sources: Amazon will reduce the packages it ships through USPS by 20%, instead of the two-thirds cut proposed earlier &lpar;Esther Fung/Wall Street Journal&rpar;](http://www.techmeme.com/260406/p25#a260406p25)
  - [OpenAI sends a letter to the California and Delaware AGs, urging them to investigate &quot;anti-competitive behavior&quot; by Elon Musk, ahead of a trial in April &lpar;CNBC&rpar;](http://www.techmeme.com/260406/p24#a260406p24)
- - [Filing: Broadcom agrees to produce future versions of Google&#39;s TPUs and expands its Anthropic deal to give the startup access to ~3.5 GW of computing capacity &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260406/p23#a260406p23)
- - [Trump Administration Bans Chinese Routers. Phones and Cameras Could Follow](https://www.cnet.com/tech/mobile/the-trump-administration-banned-chinese-made-routers-now-mobile-phones-and-cameras-could-be-next/)
- - [Epic vs. Apple lawsuit over App Store fees is moving to the Supreme Court, again](https://appleinsider.com/articles/26/04/06/epic-vs-apple-lawsuit-over-app-store-fees-is-moving-to-the-supreme-court-again?utm_source=rss)
- - [Best Cellphone Plans of 2026: Our Top Picks](https://www.cnet.com/tech/mobile/best-phone-plans/)<!-- TECH:END -->
+ - [Filing: Broadcom agrees to produce future versions of Google&#39;s TPUs and expands its Anthropic deal to give the startup access to ~3.5 GW of computing capacity &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260406/p23#a260406p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan, driven by labor shortages, is increasingly adopting robotics and physical AI, with a hybrid model where startups innovate and corporations provide scale &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260406/p5#a260406p5)
+ - [The Ridiculously Nerdy Intel Bet That Could Rake in Billions](https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/)
+ - [Sources: companies like Palo Alto Networks and Sophos see increased demand for their ransom negotiators, as businesses seek help in talks with cybercriminals &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260406/p4#a260406p4)
  - [Netflix debuts VOID, a vision-language model that can erase objects from a scene and simulate how remaining objects would behave without them &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260406/p3#a260406p3)
- - [Indian IT giant Wipro agrees to buy Mindsprint, the IT services arm of Singapore-based Olam, for $375M, and strikes an eight-year, $1B contract with Olam &lpar;Reuters&rpar;](http://www.techmeme.com/260406/p2#a260406p2)
- - [Documents: OpenAI and Anthropic have projected profitability to investors with and without training costs, and report inference costs exceeding half of revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p1#a260406p1)
- - [Microsoft is updating devices from Windows 11 24H2 to version 25H2 with no way to fully opt out, and says an &quot;intelligent&quot; ML-based system handles the rollout &lpar;Kunal Khullar/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260405/p12#a260405p12)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, April 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-6/)<!-- TECH:END -->
+ - [Indian IT giant Wipro agrees to buy Mindsprint, the IT services arm of Singapore-based Olam, for $375M, and strikes an eight-year, $1B contract with Olam &lpar;Reuters&rpar;](http://www.techmeme.com/260406/p2#a260406p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No chill](http://9gag.com/gag/abA8j38)
- - 😝 [He is Risen!](http://9gag.com/gag/a87grep)
- - 💣 [* Insert hot fuzz `Shame` meme *](http://9gag.com/gag/aKGM0WO)
- - 😝 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
- - 👉 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)<!-- MEMES:END -->
+ - 😝 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
+ - 😝 [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)
+ - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
+ - 👉 [Who are some other multitalented actresses that you know?](http://9gag.com/gag/ajP4bM8)<!-- MEMES:END -->
 
 ---
 

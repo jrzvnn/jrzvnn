@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Artemis II: Everything We Know as Its Crew Approaches the Far Side of the Moon](https://www.wired.com/story/artemis-ii-everything-we-know-as-orion-approaches-the-far-side-of-the-moon/)
- - [How advanced chip packaging became one of Intel&#39;s fast-growing businesses; sources: Intel is in talks with Google and Amazon for its advanced packaging services &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/260406/p11#a260406p11)
- - [iPhone Fold enters manufacturing test phase right on schedule](https://appleinsider.com/articles/26/04/06/iphone-fold-enters-manufacturing-test-phase-right-on-schedule?utm_source=rss)
- - [What the new Matter update delivers to Apple Home users, on Smart Home Insider](https://appleinsider.com/articles/26/04/06/what-the-new-matter-update-delivers-to-apple-home-users-on-smart-home-insider?utm_source=rss)
- - [Xoople, which is developing a satellite constellation to collect earth data for training AI models, raised a $130M Series B, bringing its total funding to $225M &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260406/p10#a260406p10)<!-- TECH:END -->
+ - [Amazon&#39;s $100 Apple Watch Ultra 3 discount delivers lowest price of 2026](https://appleinsider.com/articles/26/04/06/amazons-100-apple-watch-ultra-3-discount-delivers-lowest-price-of-2026?utm_source=rss)
+ - [Logitech’s haptics-enhanced MX Master 4 mouse is on sale for under $100](https://www.theverge.com/gadgets/907302/logitech-mx-master-4-mouse-apple-macbook-air-m5-deal-sale)
+ - [Cisco CEO Chuck Robbins wants data centers in space](https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview)
+ - [OpenAI buying TBPN makes little sense, par for the course for a company that, like Twitter, stumbled into a big market and may never build a functional business &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260406/p12#a260406p12)
+ - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

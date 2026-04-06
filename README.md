@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple at 50: Michael Spindler, the CEO who brought in the clones](https://appleinsider.com/articles/26/04/03/apple-at-50-michael-spindler-the-ceo-who-brought-in-the-clones?utm_source=rss)
  - [Interviews with Sam Altman and 100+ people on if he can be trusted amid allegations of persistent lying and more: some defend him, others call him a sociopath &lpar;New Yorker&rpar;](http://www.techmeme.com/260406/p8#a260406p8)
+ - [Should You Switch to AT&amp;T&#39;s New Unlimited Plans to Save Money?](https://www.cnet.com/tech/mobile/att-new-2-0-unlimited-phone-plans/)
  - [The DOJ Misled a Judge About How It’s Using Voter Roll Data](https://www.wired.com/story/doj-misled-judge-voter-roll-data/)
- - [Can AI responses be influenced? The SEO industry is trying](https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing)
- - [Robot Mowers Are Actually Good Now](https://www.wired.com/story/robot-mowers-are-good-now-rave/)<!-- TECH:END -->
+ - [I Tracked My Toddler’s Sleep Score and Mine. I Didn’t Expect to Learn This](https://www.cnet.com/health/toddler-sleep-score-nanit-pro-smart-baby-monitor-oura-ring/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI, Anthropic, and Google are sharing information via the Frontier Model Forum to detect adversarial distillation attempts that violate their ToS &lpar;Bloomberg&rpar;](http://www.techmeme.com/260406/p20#a260406p20)
- - [Australian AI infrastructure startup Firmus raised $505M led by Coatue at a $5.5B valuation, bringing its funding raised in the last six months to $1.35B &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260406/p19#a260406p19)
- - [Artemis II astronauts break a record, name a crater](https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names)
- - [A look at Eko, whose Arkansas &quot;capture factory&quot; creates digital product catalogs intended to serve as training data for retail-focused AI models &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/260406/p18#a260406p18)
- - [Artemis II Is Slingshotting Around the Moon in Fortnite, and You Can Join In on the Fun](https://www.cnet.com/tech/gaming/the-artemis-ii-is-slingshotting-around-the-moon-in-fortnite-and-you-can-join-in-on-the-fun/)<!-- TECH:END -->
+ - [Filing: Broadcom agrees to produce future versions of Google&#39;s TPUs and expands its Anthropic deal to give the startup access to ~3.5 GW of computing capacity &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260406/p23#a260406p23)
+ - [Epic vs. Apple lawsuit over App Store fees is moving to the Supreme Court, again](https://appleinsider.com/articles/26/04/06/epic-vs-apple-lawsuit-over-app-store-fees-is-moving-to-the-supreme-court-again?utm_source=rss)
+ - [Anthropic signs an agreement with Google and Broadcom for multiple GWs of TPU capacity, and says run-rate revenue has crossed $30B, up from ~$9B at 2025&#39;s end &lpar;Anthropic&rpar;](http://www.techmeme.com/260406/p22#a260406p22)
+ - [The rapid adoption of AI coding tools has let workers generate massive volumes of code, leaving companies scrambling to review and secure the AI-generated code &lpar;New York Times&rpar;](http://www.techmeme.com/260406/p21#a260406p21)
+ - [Wisconsin governor says ‘no’ to age checks for porn](https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

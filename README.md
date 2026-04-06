@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal appeals court rules New Jersey cannot block Kalshi users in the state from sports-related event contracts, finding CFTC has exclusive jurisdiction &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/260406/p16#a260406p16)
- - [Sources: Meta is preparing to release the first AI models developed under Alexandr Wang, with plans to offer versions of those models via an open source license &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260406/p15#a260406p15)
- - [NASA’s Artemis II mission to fly around the far side of the Moon](https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine)
- - [Apple may have scraped YouTube videos without permission for AI training](https://appleinsider.com/articles/26/04/06/apple-may-have-scraped-youtube-videos-without-permission-for-ai-training?utm_source=rss)
- - [&#39;Maximum Pleasure Guaranteed&#39; signals a darker, looser Apple TV strategy](https://appleinsider.com/articles/26/04/06/maximum-pleasure-guaranteed-signals-a-darker-looser-apple-tv-strategy?utm_source=rss)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [DJI’s Mic Mini records clear audio on the go, and it&amp;#8217;s on sale for $60](https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale)
+ - [Border Patrol Agents Sold Challenge Coins With ‘Charlotte’s Web’ Characters in Riot Gear](https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/)
+ - [Robotaxi companies won’t say how often remote operators intervene](https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla)
+ - [A federal appeals court rules New Jersey cannot block Kalshi users in the state from sports-related event contracts, finding CFTC has exclusive jurisdiction &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/260406/p16#a260406p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

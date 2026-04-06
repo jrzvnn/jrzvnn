@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just a dog having the best day of its life.](http://9gag.com/gag/avyKpPq)
  - 😝 [Go to the gym lads](http://9gag.com/gag/agmz35q)
- - 😝 [Yes, yes she will](http://9gag.com/gag/amo4NWo)
  - 💣 [You are a Wizard, daddy.](http://9gag.com/gag/a2v6z7D)
- - 😝 [With and wihout makeup](http://9gag.com/gag/azxp7vK)
- - 👉 [The working man](http://9gag.com/gag/ary71wX)<!-- MEMES:END -->
+ - 😝 [Yes, yes she will](http://9gag.com/gag/amo4NWo)
+ - 👉 [With and wihout makeup](http://9gag.com/gag/azxp7vK)<!-- MEMES:END -->
 
 ---
 

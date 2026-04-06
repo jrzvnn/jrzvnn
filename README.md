@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Dorsey says Apple removed his Bluetooth P2P messaging app Bitchat, used during protests in Iran and Uganda, from China&#39;s App Store following CAC&#39;s demands &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/260406/p7#a260406p7)
- - [OpenAI unveils policy proposals for a world with superintelligence: higher capital gains taxes, a public AI investment fund, strengthened safety nets, and more &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260406/p6#a260406p6)
- - [Snake Bros Keep Getting Bitten by Their Lethal Pets. Only Zoos Can Save Them](https://www.wired.com/snake-bros-antivenom-index-zoos-influencers-chris-gifford/)
- - [5 Mysteries That the Artemis Missions to the Moon Could Finally Solve](https://www.wired.com/story/5-mysteries-that-the-artemis-missions-to-the-moon-could-finally-solve/)
- - [Japan, driven by labor shortages, is increasingly adopting robotics and physical AI, with a hybrid model where startups innovate and corporations provide scale &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260406/p5#a260406p5)<!-- TECH:END -->
+ - [Apple at 50: Michael Spindler, the CEO who brought in the clones](https://appleinsider.com/articles/26/04/03/apple-at-50-michael-spindler-the-ceo-who-brought-in-the-clones?utm_source=rss)
+ - [Interviews with Sam Altman and 100+ people on if he can be trusted amid allegations of persistent lying and more: some defend him, others call him a sociopath &lpar;New Yorker&rpar;](http://www.techmeme.com/260406/p8#a260406p8)
+ - [The DOJ Misled a Judge About How It’s Using Voter Roll Data](https://www.wired.com/story/doj-misled-judge-voter-roll-data/)
+ - [Can AI responses be influenced? The SEO industry is trying](https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing)
+ - [Robot Mowers Are Actually Good Now](https://www.wired.com/story/robot-mowers-are-good-now-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

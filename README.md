@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
  - 😝 [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)
+ - 😝 [2-step Verification](http://9gag.com/gag/aGyQPZ6)
  - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
- - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
- - 👉 [Who are some other multitalented actresses that you know?](http://9gag.com/gag/ajP4bM8)<!-- MEMES:END -->
+ - 😝 [This is how you run a business with a spine. Respect for this establishment](http://9gag.com/gag/a87xLj1)
+ - 👉 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)<!-- MEMES:END -->
 
 ---
 

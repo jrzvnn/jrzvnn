@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $100 Apple Watch Ultra 3 discount delivers lowest price of 2026](https://appleinsider.com/articles/26/04/06/amazons-100-apple-watch-ultra-3-discount-delivers-lowest-price-of-2026?utm_source=rss)
- - [Logitech’s haptics-enhanced MX Master 4 mouse is on sale for under $100](https://www.theverge.com/gadgets/907302/logitech-mx-master-4-mouse-apple-macbook-air-m5-deal-sale)
- - [Cisco CEO Chuck Robbins wants data centers in space](https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview)
- - [OpenAI buying TBPN makes little sense, par for the course for a company that, like Twitter, stumbled into a big market and may never build a functional business &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260406/p12#a260406p12)
- - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)<!-- TECH:END -->
+ - [Samsung&amp;#8217;s Galaxy S27 &amp;#8216;Pro&amp;#8217; could squeeze in between the Ultra and Plus phones](https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor)
+ - [Iran threatens OpenAI’s Stargate data center in Abu Dhabi](https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat)
+ - [The Artemis II astronauts will set a new distance record from Earth today](https://www.theverge.com/science/907364/nasa-artemis-ii-astronauts-moon-orion-distance-record)
+ - [Source: Binance Chief Compliance Officer Noah Perlman is looking to leave sometime in 2026 or 2027; other senior compliance staff left over the past few months &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260406/p13#a260406p13)
+ - [Amazon&#39;s $100 Apple Watch Ultra 3 discount delivers lowest price of 2026](https://appleinsider.com/articles/26/04/06/amazons-100-apple-watch-ultra-3-discount-delivers-lowest-price-of-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

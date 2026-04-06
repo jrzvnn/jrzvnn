@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Careful batman...](http://9gag.com/gag/aMVLpnP)
  - 😝 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
- - 💣 [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
- - 😝 [Who is this guy?!](http://9gag.com/gag/amo4N2v)
+ - 😝 [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
+ - 💣 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)
+ - 😝 [He accepted his fate.. :-&rpar;](http://9gag.com/gag/a87xLR6)
  - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
 
 ---

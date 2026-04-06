@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix is launching a new app for kids games](https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app)
+ - [Gozney Dome Gen 2 Review: The Ultimate Backyard Flex](https://www.wired.com/review/gozney-dome-gen-2/)
  - [Samsung&amp;#8217;s Galaxy S27 &amp;#8216;Pro&amp;#8217; could squeeze in between the Ultra and Plus phones](https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor)
  - [Iran threatens OpenAI’s Stargate data center in Abu Dhabi](https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat)
- - [The Artemis II astronauts will set a new distance record from Earth today](https://www.theverge.com/science/907364/nasa-artemis-ii-astronauts-moon-orion-distance-record)
- - [Source: Binance Chief Compliance Officer Noah Perlman is looking to leave sometime in 2026 or 2027; other senior compliance staff left over the past few months &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260406/p13#a260406p13)
- - [Amazon&#39;s $100 Apple Watch Ultra 3 discount delivers lowest price of 2026](https://appleinsider.com/articles/26/04/06/amazons-100-apple-watch-ultra-3-discount-delivers-lowest-price-of-2026?utm_source=rss)<!-- TECH:END -->
+ - [The Artemis II astronauts will set a new distance record from Earth today](https://www.theverge.com/science/907364/nasa-artemis-ii-astronauts-moon-orion-distance-record)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

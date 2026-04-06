@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix - yes Netflix - jumps on the AI bandwagon with video editor &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260406/p3#a260406p3)
+ - [Netflix debuts VOID, a vision-language model that can erase objects from a scene and simulate how remaining objects would behave without them &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260406/p3#a260406p3)
  - [Indian IT giant Wipro agrees to buy Mindsprint, the IT services arm of Singapore-based Olam, for $375M, and strikes an eight-year, $1B contract with Olam &lpar;Reuters&rpar;](http://www.techmeme.com/260406/p2#a260406p2)
  - [Documents: OpenAI and Anthropic have projected profitability to investors with and without training costs, and report inference costs exceeding half of revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p1#a260406p1)
  - [Microsoft is updating devices from Windows 11 24H2 to version 25H2 with no way to fully opt out, and says an &quot;intelligent&quot; ML-based system handles the rollout &lpar;Kunal Khullar/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260405/p12#a260405p12)

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI, Anthropic, and Google are sharing information via the Frontier Model Forum to detect adversarial distillation attempts that violate their ToS &lpar;Bloomberg&rpar;](http://www.techmeme.com/260406/p20#a260406p20)
  - [Australian AI infrastructure startup Firmus raised $505M led by Coatue at a $5.5B valuation, bringing its funding raised in the last six months to $1.35B &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260406/p19#a260406p19)
  - [Artemis II astronauts break a record, name a crater](https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names)
  - [A look at Eko, whose Arkansas &quot;capture factory&quot; creates digital product catalogs intended to serve as training data for retail-focused AI models &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/260406/p18#a260406p18)
- - [Artemis II Is Slingshotting Around the Moon in Fortnite, and You Can Join In on the Fun](https://www.cnet.com/tech/gaming/the-artemis-ii-is-slingshotting-around-the-moon-in-fortnite-and-you-can-join-in-on-the-fun/)
- - [A Single Strike Won’t Shut Off the Gulf’s Desalination System](https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/)<!-- TECH:END -->
+ - [Artemis II Is Slingshotting Around the Moon in Fortnite, and You Can Join In on the Fun](https://www.cnet.com/tech/gaming/the-artemis-ii-is-slingshotting-around-the-moon-in-fortnite-and-you-can-join-in-on-the-fun/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

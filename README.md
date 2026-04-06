@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is launching a new app for kids games](https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app)
- - [Gozney Dome Gen 2 Review: The Ultimate Backyard Flex](https://www.wired.com/review/gozney-dome-gen-2/)
- - [Samsung&amp;#8217;s Galaxy S27 &amp;#8216;Pro&amp;#8217; could squeeze in between the Ultra and Plus phones](https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor)
- - [Iran threatens OpenAI’s Stargate data center in Abu Dhabi](https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat)
- - [The Artemis II astronauts will set a new distance record from Earth today](https://www.theverge.com/science/907364/nasa-artemis-ii-astronauts-moon-orion-distance-record)<!-- TECH:END -->
+ - [A federal appeals court rules New Jersey cannot block Kalshi users in the state from sports-related event contracts, finding CFTC has exclusive jurisdiction &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/260406/p16#a260406p16)
+ - [Sources: Meta is preparing to release the first AI models developed under Alexandr Wang, with plans to offer versions of those models via an open source license &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260406/p15#a260406p15)
+ - [NASA’s Artemis II mission to fly around the far side of the Moon](https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine)
+ - [Apple may have scraped YouTube videos without permission for AI training](https://appleinsider.com/articles/26/04/06/apple-may-have-scraped-youtube-videos-without-permission-for-ai-training?utm_source=rss)
+ - [&#39;Maximum Pleasure Guaranteed&#39; signals a darker, looser Apple TV strategy](https://appleinsider.com/articles/26/04/06/maximum-pleasure-guaranteed-signals-a-darker-looser-apple-tv-strategy?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

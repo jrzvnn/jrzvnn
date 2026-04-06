@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you run a business with a spine. Respect for this establishment](http://9gag.com/gag/a87xLj1)
- - 😝 [With and wihout makeup](http://9gag.com/gag/azxp7vK)
- - 💣 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
- - 😝 [When your body type was trending in the wrong century](http://9gag.com/gag/agmz3XW)
- - 👉 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)<!-- MEMES:END -->
+ - 😝 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)
+ - 😝 [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)
+ - 💣 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)
+ - 😝 [Man got reality check about his girlfriend](http://9gag.com/gag/agmeMdn)
+ - 👉 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI sends a letter to the California and Delaware AGs, urging them to investigate &quot;anti-competitive behavior&quot; by Elon Musk, ahead of a trial in April &lpar;CNBC&rpar;](http://www.techmeme.com/260406/p24#a260406p24)
  - [Filing: Broadcom agrees to produce future versions of Google&#39;s TPUs and expands its Anthropic deal to give the startup access to ~3.5 GW of computing capacity &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260406/p23#a260406p23)
+ - [Trump Administration Bans Chinese Routers. Phones and Cameras Could Follow](https://www.cnet.com/tech/mobile/the-trump-administration-banned-chinese-made-routers-now-mobile-phones-and-cameras-could-be-next/)
  - [Epic vs. Apple lawsuit over App Store fees is moving to the Supreme Court, again](https://appleinsider.com/articles/26/04/06/epic-vs-apple-lawsuit-over-app-store-fees-is-moving-to-the-supreme-court-again?utm_source=rss)
- - [Anthropic signs an agreement with Google and Broadcom for multiple GWs of TPU capacity, and says run-rate revenue has crossed $30B, up from ~$9B at 2025&#39;s end &lpar;Anthropic&rpar;](http://www.techmeme.com/260406/p22#a260406p22)
- - [The rapid adoption of AI coding tools has let workers generate massive volumes of code, leaving companies scrambling to review and secure the AI-generated code &lpar;New York Times&rpar;](http://www.techmeme.com/260406/p21#a260406p21)
- - [Wisconsin governor says ‘no’ to age checks for porn](https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed)<!-- TECH:END -->
+ - [Best Cellphone Plans of 2026: Our Top Picks](https://www.cnet.com/tech/mobile/best-phone-plans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

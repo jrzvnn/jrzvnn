@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple at 50: Michael Spindler, the CEO who brought in the clones](https://appleinsider.com/articles/26/04/03/apple-at-50-michael-spindler-the-ceo-who-brought-in-the-clones?utm_source=rss)
- - [Interviews with Sam Altman and 100+ people on if he can be trusted amid allegations of persistent lying and more: some defend him, others call him a sociopath &lpar;New Yorker&rpar;](http://www.techmeme.com/260406/p8#a260406p8)
- - [Should You Switch to AT&amp;T&#39;s New Unlimited Plans to Save Money?](https://www.cnet.com/tech/mobile/att-new-2-0-unlimited-phone-plans/)
- - [The DOJ Misled a Judge About How It’s Using Voter Roll Data](https://www.wired.com/story/doj-misled-judge-voter-roll-data/)
- - [I Tracked My Toddler’s Sleep Score and Mine. I Didn’t Expect to Learn This](https://www.cnet.com/health/toddler-sleep-score-nanit-pro-smart-baby-monitor-oura-ring/)<!-- TECH:END -->
+ - [Xoople, which is developing a satellite constellation to collect earth data for training AI models, raised a $130M Series B, bringing its total funding to $225M &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260406/p10#a260406p10)
+ - [Studio Display XDR may be used to look at your next MRI or X-Ray](https://appleinsider.com/articles/26/04/06/studio-display-xdr-may-be-used-to-look-at-your-next-mri-or-x-ray?utm_source=rss)
+ - [Vibe coding app&#39;s victory lap cut very short by the App Store](https://appleinsider.com/articles/26/04/06/vibe-coding-apps-victory-lap-cut-very-short-by-the-app-store?utm_source=rss)
+ - [Russian cryptocurrency payment network A7 expands to Africa, as Moscow builds an alternative payments system amid western sanctions after its Ukraine invasion &lpar;Financial Times&rpar;](http://www.techmeme.com/260406/p9#a260406p9)
+ - [I Tried Cooking Bacon 3 Ways. It Turns Out I&#39;ve Been Doing It All Wrong](https://www.cnet.com/news/the-best-way-to-cook-bacon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

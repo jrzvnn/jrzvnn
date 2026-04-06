@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)
- - 😝 [2-step Verification](http://9gag.com/gag/aGyQPZ6)
- - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
- - 😝 [Aging Breakthrough? Wait a Moment, Please.](http://9gag.com/gag/aAyzRXp)
- - 👉 [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)<!-- MEMES:END -->
+ - 😝 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
+ - 😝 [This is how I feel recently](http://9gag.com/gag/ajP423G)
+ - 💣 [Aging Breakthrough? Wait a Moment, Please.](http://9gag.com/gag/aAyzRXp)
+ - 😝 [Just a dog having the best day of its life.](http://9gag.com/gag/avyKpPq)
+ - 👉 [With and wihout makeup](http://9gag.com/gag/azxp7vK)<!-- MEMES:END -->
 
 ---
 

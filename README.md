@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australian AI infrastructure startup Firmus raised $505M led by Coatue at a $5.5B valuation, bringing its funding raised in the last six months to $1.35B &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260406/p19#a260406p19)
+ - [Artemis II astronauts break a record, name a crater](https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names)
  - [A look at Eko, whose Arkansas &quot;capture factory&quot; creates digital product catalogs intended to serve as training data for retail-focused AI models &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/260406/p18#a260406p18)
- - [A Single Strike Won’t Shut Off the Gulf’s Desalination System](https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/)
- - [How social media became a freak show: X punishes external links and most top accounts, such as Catturd, are very low-quality but get more engagement than NYT &lpar;Nate Silver/Silver Bulletin&rpar;](http://www.techmeme.com/260406/p17#a260406p17)
- - [Netflix Introduces New Ad-Free Gaming App for Kids](https://www.cnet.com/tech/services-and-software/netflix-playground-gaming-app-for-kids/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Artemis II Is Slingshotting Around the Moon in Fortnite, and You Can Join In on the Fun](https://www.cnet.com/tech/gaming/the-artemis-ii-is-slingshotting-around-the-moon-in-fortnite-and-you-can-join-in-on-the-fun/)
+ - [A Single Strike Won’t Shut Off the Gulf’s Desalination System](https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

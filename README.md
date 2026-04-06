@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix - yes Netflix - jumps on the AI bandwagon with video editor &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260406/p3#a260406p3)
+ - [Indian IT giant Wipro agrees to buy Mindsprint, the IT services arm of Singapore-based Olam, for $375M, and strikes an eight-year, $1B contract with Olam &lpar;Reuters&rpar;](http://www.techmeme.com/260406/p2#a260406p2)
+ - [Documents: OpenAI and Anthropic have projected profitability to investors with and without training costs, and report inference costs exceeding half of revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p1#a260406p1)
  - [Microsoft is updating devices from Windows 11 24H2 to version 25H2 with no way to fully opt out, and says an &quot;intelligent&quot; ML-based system handles the rollout &lpar;Kunal Khullar/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260405/p12#a260405p12)
- - [Sources: Sam Altman has excluded OpenAI CFO Sarah Friar from some key financial meetings; Friar began reporting to Fidji Simo instead of the CEO in August 2025 &lpar;The Information&rpar;](http://www.techmeme.com/260405/p11#a260405p11)
- - [China, which dominates the global drone industry, has sharply tightened its drone use rules, as some users say they are hindering routine and lawful flights &lpar;Joy Dong/New York Times&rpar;](http://www.techmeme.com/260405/p10#a260405p10)
- - [NASA Artemis II Day 5: Astronauts Prep for Monday&#39;s Moon Flyby](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [A deep dive into China&#39;s efforts to integrate AI into K-12 education to reduce teacher workloads, improve rural schools, and help students with disabilities &lpar;Lily Ottinger/ChinaTalk&rpar;](http://www.techmeme.com/260405/p9#a260405p9)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, April 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

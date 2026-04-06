@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a dog having the best day of its life.](http://9gag.com/gag/avyKpPq)
- - 😝 [Go to the gym lads](http://9gag.com/gag/agmz35q)
- - 💣 [You are a Wizard, daddy.](http://9gag.com/gag/a2v6z7D)
- - 😝 [Yes, yes she will](http://9gag.com/gag/amo4NWo)
- - 👉 [With and wihout makeup](http://9gag.com/gag/azxp7vK)<!-- MEMES:END -->
+ - 😝 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
+ - 😝 [Who is this guy?!](http://9gag.com/gag/amo4N2v)
+ - 💣 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)
+ - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
+ - 👉 [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)<!-- MEMES:END -->
 
 ---
 

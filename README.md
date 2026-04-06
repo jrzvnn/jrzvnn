@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
- - 😝 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
- - 💣 [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)
- - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
- - 👉 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)<!-- MEMES:END -->
+ - 😝 [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 💣 [This is 9GAG\u2026 you know where this is going](http://9gag.com/gag/aYQXN1v)
+ - 😝 [Meanwhile Merica!](http://9gag.com/gag/an7Pq8E)
+ - 👉 [Who is this guy?!](http://9gag.com/gag/amo4N2v)<!-- MEMES:END -->
 
 ---
 

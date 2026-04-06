@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who is this guy?!](http://9gag.com/gag/amo4N2v)
+ - 😝 [Careful batman...](http://9gag.com/gag/aMVLpnP)
  - 😝 [2-step Verification](http://9gag.com/gag/aGyQPZ6)
- - 💣 [Worth a shot](http://9gag.com/gag/axyrpx2)
- - 😝 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)
+ - 💣 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)
+ - 😝 [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)
  - 👉 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
 
 ---

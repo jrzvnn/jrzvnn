@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone Gets a D- for Repairability](https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/)
- - [Anthropic says Mythos Preview achieves 93.9% on SWE-bench Verified, compared with 80.8% for Opus 4.6, and 77.8% on SWE-bench Pro, versus 53.4% for Opus 4.6 &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260407/p45#a260407p45)
- - [Apple May Bring A19 Pro Chip to MacBook Neo Next Year, but Could Face Supply Hurdles Soon](https://www.cnet.com/tech/computing/apple-a19-pro-chip-macbook-neo-next-year-shortage/)
- - [Q&amp;A with OpenAI President Greg Brockman about OpenAI&#39;s research direction, how far it can push Codex, closing Sora, betting on text vs. world models, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/260407/p44#a260407p44)
- - [Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/)<!-- TECH:END -->
+ - [A group of US agencies including the FBI and the NSA warns that Iran-linked hackers have targeted industrial control devices used in US critical infrastructure &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260407/p48#a260407p48)
+ - [Amazon is ending support for older Kindles and Kindle Fires](https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older)
+ - [2 Cases Show Supreme Court Isn&#39;t Holding ISPs Responsible for Piracy](https://www.cnet.com/home/internet/two-cases-show-supreme-court-isnt-holding-isps-responsible-for-piracy/)
+ - [Google rolls out an AI Enhance button for Photos on Android globally, offering automated lighting and contrast adjustments, and video playback speed controls &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/260407/p47#a260407p47)
+ - [Elon Musk&#39;s $25 Billion Terafab Project Gets a Helping Hand From Intel](https://www.cnet.com/tech/services-and-software/elon-musks-25-billion-terafab-project-gets-a-helping-hand-from-intel/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

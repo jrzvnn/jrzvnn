@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [He Started a Social Network Alone. Then 5 Million People Signed Up](https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/)
- - [Best Mesh Wi-Fi Systems &lpar;2026&rpar;: Netgear, Asus, Amazon, and More](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [The US Treasury says Robinhood and BNY will work with the federal government to handle tax-sheltered &quot;Trump Accounts&quot; for children when they launch this summer &lpar;Stacy Cowley/New York Times&rpar;](http://www.techmeme.com/260407/p16#a260407p16)
- - [Gemini is making it faster for distressed users to reach mental health resources](https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update)
- - [MLB rolls out &quot;robot umps&quot;, or an Automated Ball-Strike System, using Sony-made advanced cameras to help officiate games, but it often validates human umpires &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/260407/p15#a260407p15)<!-- TECH:END -->
+ - [A wild, wide foldable iPhone dummy emerges amid rumors of a delay](https://www.theverge.com/tech/907856/iphone-fold-dummy-design-delay-production)
+ - [First iPhone Fold dummy images show no MagSafe](https://appleinsider.com/articles/26/04/07/first-iphone-fold-dummy-images-show-no-magsafe?utm_source=rss)
+ - [My Blissful Week as a ‘Do Not Disturb’ Maximalist](https://www.wired.com/story/my-blissful-unbothered-life-as-a-do-not-disturb-maximalist/)
+ - [The US IRS is yet to issue guidelines on whether prediction market gains should be taxed as derivatives, gambling winnings, or income, worrying accountants &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260407/p18#a260407p18)
+ - [Analysis: Gemini 3-based AI Overviews are accurate ~90% of the time, meaning across 5T searches per year, tens of millions of answers are erroneous every hour &lpar;New York Times&rpar;](http://www.techmeme.com/260407/p17#a260407p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

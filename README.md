@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The working man](http://9gag.com/gag/ary71wX)
- - 😝 [Average 9gagger home?](http://9gag.com/gag/amo4N8y)
- - 💣 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
- - 😝 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)
- - 👉 [Who is this guy?!](http://9gag.com/gag/amo4N2v)<!-- MEMES:END -->
+ - 😝 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
+ - 😝 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
+ - 💣 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)
+ - 😝 [Crypto really said why wait 9 years](http://9gag.com/gag/aZZOP56)
+ - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 ---
 

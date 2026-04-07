@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with OpenAI President Greg Brockman about OpenAI&#39;s research direction, how far it can push Codex, shutting down Sora, text vs. world models, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/260407/p44#a260407p44)
- - [Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/)
- - [Spotify&amp;#8217;s Prompted Playlists can help you find new podcasts to listen to](https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts)
- - [Tech giant supergroup wants to fight cyberattacks with AI smarts](https://appleinsider.com/articles/26/04/07/tech-giant-supergroup-wants-to-fight-cyberattacks-with-ai-smarts?utm_source=rss)
- - [Artemis II Astronauts Are Using iPhones to Capture Stunning Space Images](https://www.cnet.com/science/space/artemis-ii-iphone-photos/)<!-- TECH:END -->
+ - [The iPhone Gets a D- for Repairability](https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/)
+ - [Anthropic says Mythos Preview achieves 93.9% on SWE-bench Verified, compared with 80.8% for Opus 4.6, and 77.8% on SWE-bench Pro, versus 53.4% for Opus 4.6 &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260407/p45#a260407p45)
+ - [Apple May Bring A19 Pro Chip to MacBook Neo Next Year, but Could Face Supply Hurdles Soon](https://www.cnet.com/tech/computing/apple-a19-pro-chip-macbook-neo-next-year-shortage/)
+ - [Q&amp;A with OpenAI President Greg Brockman about OpenAI&#39;s research direction, how far it can push Codex, closing Sora, betting on text vs. world models, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/260407/p44#a260407p44)
+ - [Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

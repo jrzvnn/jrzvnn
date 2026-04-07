@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Studio Display XDR may be used to look at your next MRI or X-Ray](https://appleinsider.com/articles/26/04/06/studio-display-xdr-may-be-used-to-look-at-your-next-mri-or-x-ray?utm_source=rss)
- - [Anthropic says Mythos Preview is a general-purpose model and found thousands of high-severity vulnerabilities, including some in every major OS and web browser &lpar;Anthropic&rpar;](http://www.techmeme.com/260407/p43#a260407p43)
- - [Google updates Chrome with vertical tabs, a feature that Mozilla Firefox and Microsoft Edge have long offered, and a new full-screen reading mode &lpar;Lance Whitney/ZDNET&rpar;](http://www.techmeme.com/260407/p42#a260407p42)
- - [Interviews with Anthropic executives on why Claude Mythos Preview is a cybersecurity &quot;reckoning&quot;, not releasing it publicly over misuse concerns, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260407/p41#a260407p41)
- - [You can now turn 2D apps into 3D while using the Galaxy XR headset](https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d)<!-- TECH:END -->
+ - [Q&amp;A with OpenAI President Greg Brockman about OpenAI&#39;s research direction, how far it can push Codex, shutting down Sora, text vs. world models, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/260407/p44#a260407p44)
+ - [Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/)
+ - [Spotify&amp;#8217;s Prompted Playlists can help you find new podcasts to listen to](https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts)
+ - [Tech giant supergroup wants to fight cyberattacks with AI smarts](https://appleinsider.com/articles/26/04/07/tech-giant-supergroup-wants-to-fight-cyberattacks-with-ai-smarts?utm_source=rss)
+ - [Artemis II Astronauts Are Using iPhones to Capture Stunning Space Images](https://www.cnet.com/science/space/artemis-ii-iphone-photos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

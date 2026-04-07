@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are a Wizard, daddy.](http://9gag.com/gag/a2v6z7D)
- - 😝 [Aaand he\u00b4s gone](http://9gag.com/gag/a34Xvxe)
- - 💣 [The working man](http://9gag.com/gag/ary71wX)
- - 😝 [With and wihout makeup](http://9gag.com/gag/azxp7vK)
- - 👉 [Yes, yes she will](http://9gag.com/gag/amo4NWo)<!-- MEMES:END -->
+ - 😝 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
+ - 😝 [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
+ - 💣 [This job sucks](http://9gag.com/gag/a34XPGr)
+ - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
+ - 👉 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)<!-- MEMES:END -->
 
 ---
 

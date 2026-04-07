@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic hires Microsoft executive Eric Boyd as head of infrastructure; Boyd oversaw Microsoft&#39;s AI platform and worked at the company for 16 years &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260407/p50#a260407p50)
- - [Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today](https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale)
- - [Z.ai releases GLM-5.1, a 754B-parameter model that it says outperforms GPT-5.4 and Claude Opus 4.6 on SWE-bench Pro, available under an MIT license &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260407/p49#a260407p49)
- - [A group of US agencies including the FBI and the NSA warns that Iran-linked hackers have targeted industrial control devices used in US critical infrastructure &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260407/p48#a260407p48)
- - [Amazon is ending support for older Kindles and Kindle Fires](https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older)<!-- TECH:END -->
+ - [Mythos Preview system card: the model was able to escape a sandbox after it was instructed to try, and posted details about its exploit without being prompted &lpar;Brent D. Griffiths/Business Insider&rpar;](http://www.techmeme.com/260407/p53#a260407p53)
+ - [The US FDIC proposes a rule to establish a regulatory framework for stablecoin issuers, including requirements related to reserve assets, under the GENIUS Act &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/260407/p52#a260407p52)
+ - [Apple research explores AI-assisted UI prototyping, image safety rating](https://appleinsider.com/articles/26/04/07/apple-research-explores-ai-assisted-ui-prototyping-image-safety-rating?utm_source=rss)
+ - [Super Micro begins an independent probe into the indictment of three people for export control violations and an internal review of its trade compliance program &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/260407/p51#a260407p51)
+ - [Anthropic hires Microsoft executive Eric Boyd as head of infrastructure; Boyd oversaw Microsoft&#39;s AI platform and worked at the company for 16 years &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260407/p50#a260407p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

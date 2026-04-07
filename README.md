@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
- - 😝 [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
- - 💣 [This job sucks](http://9gag.com/gag/a34XPGr)
- - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
- - 👉 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)<!-- MEMES:END -->
+ - 😝 [The working man](http://9gag.com/gag/ary71wX)
+ - 😝 [With and wihout makeup](http://9gag.com/gag/azxp7vK)
+ - 💣 [Yes, yes she will](http://9gag.com/gag/amo4NWo)
+ - 😝 [\u2615\ufe0f](http://9gag.com/gag/aPAbv3G)
+ - 👉 [Iron maiden proving metalheads have always been like this](http://9gag.com/gag/ayNj5dM)<!-- MEMES:END -->
 
 ---
 

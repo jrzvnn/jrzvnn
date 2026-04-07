@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic hires Microsoft executive Eric Boyd as head of infrastructure; Boyd oversaw Microsoft&#39;s AI platform and worked at the company for 16 years &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260407/p50#a260407p50)
+ - [Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today](https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale)
+ - [Z.ai releases GLM-5.1, a 754B-parameter model that it says outperforms GPT-5.4 and Claude Opus 4.6 on SWE-bench Pro, available under an MIT license &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260407/p49#a260407p49)
  - [A group of US agencies including the FBI and the NSA warns that Iran-linked hackers have targeted industrial control devices used in US critical infrastructure &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260407/p48#a260407p48)
- - [Amazon is ending support for older Kindles and Kindle Fires](https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older)
- - [2 Cases Show Supreme Court Isn&#39;t Holding ISPs Responsible for Piracy](https://www.cnet.com/home/internet/two-cases-show-supreme-court-isnt-holding-isps-responsible-for-piracy/)
- - [Google rolls out an AI Enhance button for Photos on Android globally, offering automated lighting and contrast adjustments, and video playback speed controls &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/260407/p47#a260407p47)
- - [Elon Musk&#39;s $25 Billion Terafab Project Gets a Helping Hand From Intel](https://www.cnet.com/tech/services-and-software/elon-musks-25-billion-terafab-project-gets-a-helping-hand-from-intel/)<!-- TECH:END -->
+ - [Amazon is ending support for older Kindles and Kindle Fires](https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

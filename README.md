@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to announce its foldable iPhone in September alongside the iPhone 18 Pro and Pro Max, rebutting a report about production delays &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260407/p35#a260407p35)
- - [Giant Mac mini cluster powers Overcast podcast transcripts without the cloud](https://appleinsider.com/articles/26/04/07/giant-mac-mini-cluster-powers-overcast-podcast-transcripts-without-the-cloud?utm_source=rss)
- - [The rugged Bose Soundlink Flex is 25 percent off right now](https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale)
- - [Vertical browser tabs are better and you should use them](https://www.theverge.com/tech/907998/google-chrome-vertical-tabs)
- - [Apple Vision Pro is getting a native Steam Link gaming app](https://appleinsider.com/articles/26/04/07/apple-vision-pro-is-getting-a-native-steam-link-gaming-app?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic says Mythos Preview is a general-purpose model and found thousands of high-severity vulnerabilities, including some in every major OS and web browser &lpar;Anthropic&rpar;](http://www.techmeme.com/260407/p38#a260407p38)
+ - [Leaker battle: September folding iPhone launch still on the cards](https://appleinsider.com/articles/26/04/07/leaker-battle-september-folding-iphone-launch-still-on-the-cards?utm_source=rss)
+ - [Anthropic commits up to $100M in usage credits for Project Glasswing, along with $4M in direct donations to open-source security organizations &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/260407/p37#a260407p37)
+ - [Samsung’s Galaxy S26 Ultra is $200 off for the first time](https://www.theverge.com/gadgets/908196/samsung-galaxy-s26-ultra-privacy-display-deal-sale-unlocked)
+ - [Anthropic says it will make a preview of its Mythos model available to more than 40 organizations, as part of a new Project Glasswing cybersecurity initiative &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260407/p36#a260407p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

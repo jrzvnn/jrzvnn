@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Mythos Preview is a general-purpose model and found thousands of high-severity vulnerabilities, including some in every major OS and web browser &lpar;Anthropic&rpar;](http://www.techmeme.com/260407/p38#a260407p38)
- - [Leaker battle: September folding iPhone launch still on the cards](https://appleinsider.com/articles/26/04/07/leaker-battle-september-folding-iphone-launch-still-on-the-cards?utm_source=rss)
- - [Anthropic commits up to $100M in usage credits for Project Glasswing, along with $4M in direct donations to open-source security organizations &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/260407/p37#a260407p37)
- - [Samsung’s Galaxy S26 Ultra is $200 off for the first time](https://www.theverge.com/gadgets/908196/samsung-galaxy-s26-ultra-privacy-display-deal-sale-unlocked)
- - [Anthropic says it will make a preview of its Mythos model available to more than 40 organizations, as part of a new Project Glasswing cybersecurity initiative &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260407/p36#a260407p36)<!-- TECH:END -->
+ - [Studio Display XDR may be used to look at your next MRI or X-Ray](https://appleinsider.com/articles/26/04/06/studio-display-xdr-may-be-used-to-look-at-your-next-mri-or-x-ray?utm_source=rss)
+ - [Anthropic says Mythos Preview is a general-purpose model and found thousands of high-severity vulnerabilities, including some in every major OS and web browser &lpar;Anthropic&rpar;](http://www.techmeme.com/260407/p43#a260407p43)
+ - [Google updates Chrome with vertical tabs, a feature that Mozilla Firefox and Microsoft Edge have long offered, and a new full-screen reading mode &lpar;Lance Whitney/ZDNET&rpar;](http://www.techmeme.com/260407/p42#a260407p42)
+ - [Interviews with Anthropic executives on why Claude Mythos Preview is a cybersecurity &quot;reckoning&quot;, not releasing it publicly over misuse concerns, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260407/p41#a260407p41)
+ - [You can now turn 2D apps into 3D while using the Galaxy XR headset](https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

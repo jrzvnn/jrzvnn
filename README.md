@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
- - 😝 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
- - 💣 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)
+ - 😝 [Average 9gagger home?](http://9gag.com/gag/amo4N8y)
+ - 😝 [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 💣 [Oohhhh](http://9gag.com/gag/aZZOb4p)
  - 😝 [Crypto really said why wait 9 years](http://9gag.com/gag/aZZOP56)
- - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
+ - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
 
 ---
 

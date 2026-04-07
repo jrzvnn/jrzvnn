@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From Apple II to iPhone 17 Pro, Apple&#39;s space story comes full circle](https://appleinsider.com/articles/26/04/07/from-apple-ii-to-iphone-17-pro-apples-space-story-comes-full-circle?utm_source=rss)
- - [True Footage, which uses AI trained on years of appraisal data to generate property valuations, raised a $40M Series C led by Cox Enterprises&#39; Socium Ventures &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260407/p31#a260407p31)
- - [Spotify expands Prompted Playlists, its AI feature for creating playlists, to include podcasts, for Premium users in the US, Canada, the UK, and other countries &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260407/p30#a260407p30)
- - [Folding iPhone will be named iPhone Ultra, says another leaker](https://appleinsider.com/articles/26/04/07/folding-iphone-will-be-named-iphone-ultra-says-another-leaker?utm_source=rss)
- - [Incredible MacBook Neo demand may finish off Apple&#39;s A18 Pro stock](https://appleinsider.com/articles/26/04/07/incredible-macbook-neo-demand-may-finish-off-apples-a18-pro-stock?utm_source=rss)<!-- TECH:END -->
+ - [The UK says Russia-linked hacking group APT28 is hijacking popular internet routers from MikroTik, TP-Link, and others to steal credentials and redirect traffic &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260407/p34#a260407p34)
+ - [New three-week pilates course now available on Apple Fitness+](https://appleinsider.com/articles/26/04/07/new-three-week-pilates-course-now-available-on-apple-fitness?utm_source=rss)
+ - [Suno and major music labels reportedly clash over AI music sharing](https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement)
+ - [Los Angeles-based Hermeus, which aims to build unmanned hypersonic fighter aircraft, raised $200M led by Khosla Ventures and $150M in debt at a $1B valuation &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260407/p33#a260407p33)
+ - [Satechi’s 3-in-1 travel stand now wirelessly charges your phone at 25W](https://www.theverge.com/tech/906126/satechi-3-in-1-foldable-travel-qi2-2-stand-wireless-charger-25w-pricing-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

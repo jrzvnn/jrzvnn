@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK says Russia-linked hacking group APT28 is hijacking popular internet routers from MikroTik, TP-Link, and others to steal credentials and redirect traffic &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260407/p34#a260407p34)
- - [New three-week pilates course now available on Apple Fitness+](https://appleinsider.com/articles/26/04/07/new-three-week-pilates-course-now-available-on-apple-fitness?utm_source=rss)
- - [Suno and major music labels reportedly clash over AI music sharing](https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement)
- - [Los Angeles-based Hermeus, which aims to build unmanned hypersonic fighter aircraft, raised $200M led by Khosla Ventures and $150M in debt at a $1B valuation &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260407/p33#a260407p33)
- - [Satechi’s 3-in-1 travel stand now wirelessly charges your phone at 25W](https://www.theverge.com/tech/906126/satechi-3-in-1-foldable-travel-qi2-2-stand-wireless-charger-25w-pricing-availability)<!-- TECH:END -->
+ - [Sources: Apple plans to announce its foldable iPhone in September alongside the iPhone 18 Pro and Pro Max, rebutting a report about production delays &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260407/p35#a260407p35)
+ - [Giant Mac mini cluster powers Overcast podcast transcripts without the cloud](https://appleinsider.com/articles/26/04/07/giant-mac-mini-cluster-powers-overcast-podcast-transcripts-without-the-cloud?utm_source=rss)
+ - [The rugged Bose Soundlink Flex is 25 percent off right now](https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale)
+ - [Vertical browser tabs are better and you should use them](https://www.theverge.com/tech/907998/google-chrome-vertical-tabs)
+ - [Apple Vision Pro is getting a native Steam Link gaming app](https://appleinsider.com/articles/26/04/07/apple-vision-pro-is-getting-a-native-steam-link-gaming-app?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

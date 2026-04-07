@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A wild, wide foldable iPhone dummy emerges amid rumors of a delay](https://www.theverge.com/tech/907856/iphone-fold-dummy-design-delay-production)
- - [First iPhone Fold dummy images show no MagSafe](https://appleinsider.com/articles/26/04/07/first-iphone-fold-dummy-images-show-no-magsafe?utm_source=rss)
- - [My Blissful Week as a ‘Do Not Disturb’ Maximalist](https://www.wired.com/story/my-blissful-unbothered-life-as-a-do-not-disturb-maximalist/)
- - [The US IRS is yet to issue guidelines on whether prediction market gains should be taxed as derivatives, gambling winnings, or income, worrying accountants &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260407/p18#a260407p18)
- - [Analysis: Gemini 3-based AI Overviews are accurate ~90% of the time, meaning across 5T searches per year, tens of millions of answers are erroneous every hour &lpar;New York Times&rpar;](http://www.techmeme.com/260407/p17#a260407p17)<!-- TECH:END -->
+ - [Q&amp;A with UpScrolled founder Issam Hijazi, who says the non-algorithmic social app hit 5M users, mainstream apps were censoring pro-Palestinian content, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/260407/p21#a260407p21)
+ - [Best Electric Bikes &lpar;2026&rpar;: Commuting, Cargo Bikes, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)
+ - [Kalshi signs a deal with Fox Corp. to integrate its forecasts into Fox News, Fox Business Network, Fox One, and Fox Weather, following deals with CNN and CNBC &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260407/p20#a260407p20)
+ - [Google is updating Gemini to add a UI that triggers support hotline referrals and a &quot;help is available&quot; module when chats indicate potential crises like suicide &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260407/p19#a260407p19)
+ - [The 5 Best Outdoor Pizza Ovens: Wood-Fired, Gas, Propane &lpar;2026&rpar;](https://www.wired.com/story/best-outdoor-pizza-ovens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

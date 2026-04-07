@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He couldn&#39;t contain his excitement for pool day. There&#39;s nowhere he&#39;d rather be than here with his fish. :-&rpar;](http://9gag.com/gag/aPAbvrV)
- - 😝 [Null](http://9gag.com/gag/azxpLVb)
- - 💣 [Well, yes](http://9gag.com/gag/a34XPNm)
- - 😝 [Bliss](http://9gag.com/gag/awyWbLR)
- - 👉 [The Snickers vs KitKat war is getting out of hand](http://9gag.com/gag/a34XYWr)<!-- MEMES:END -->
+ - 😝 [Steve-O&#39;s attempt at being a mime](http://9gag.com/gag/aVvyOBK)
+ - 😝 [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 💣 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
+ - 😝 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
+ - 👉 [Who is this guy?!](http://9gag.com/gag/amo4N2v)<!-- MEMES:END -->
 
 ---
 

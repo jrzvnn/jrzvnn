@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
  - 💣 [This job sucks](http://9gag.com/gag/a34XPGr)
  - 😝 [Worth a shot](http://9gag.com/gag/axyrpx2)
- - 👉 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)<!-- MEMES:END -->
+ - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
 
 ---
 

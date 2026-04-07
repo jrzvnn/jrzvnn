@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nobody Knows How to File Taxes on Prediction Market Wins](https://www.wired.com/story/nobody-knows-how-to-file-taxes-on-prediction-market-wins-and-losses/)
+ - [Sources: Meta has an internal leaderboard dubbed &quot;Claudeonomics&quot; where employees compete on AI-token usage and earn rewards like &quot;Token Legend&quot; status &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260407/p12#a260407p12)
+ - [Israel-based Q-Factor, which is developing a quantum computer based on neutral atom technology, emerges from stealth with a $24M seed led by NFX and TPY Capital &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/260407/p11#a260407p11)
  - [A cryptography engineer calls for urgent rollout of post-quantum cryptography schemes, saying the risk of inaction is now unacceptable, after Google&#39;s warning &lpar;Filippo Valsorda&rpar;](http://www.techmeme.com/260407/p10#a260407p10)
- - [OpenAI announces a Safety Fellowship program for external researchers, engineers, and practitioners to study the safety and alignment of advanced AI systems &lpar;OpenAI&rpar;](http://www.techmeme.com/260407/p9#a260407p9)
- - [A look at the gold rush for firms claiming to help brands get cited by AI search tools, via tactics like hiding instructions behind &quot;Summarize with AI&quot; buttons &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/260407/p8#a260407p8)
- - [A Taiwan intelligence report to lawmakers says China is targeting Taiwan to obtain its chip manufacturing tech and talent to break through global &quot;containment&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260407/p7#a260407p7)
- - [Sources: AI music startup Suno&#39;s licensing talks with UMG and Sony have stalled; labels argue that AI tools like Suno rely on human-made music and should pay &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/260407/p6#a260407p6)<!-- TECH:END -->
+ - [OpenAI announces a Safety Fellowship program for external researchers, engineers, and practitioners to study the safety and alignment of advanced AI systems &lpar;OpenAI&rpar;](http://www.techmeme.com/260407/p9#a260407p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

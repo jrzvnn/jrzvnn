@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nobody Knows How to File Taxes on Prediction Market Wins](https://www.wired.com/story/nobody-knows-how-to-file-taxes-on-prediction-market-wins-and-losses/)
- - [Sources: Meta has an internal leaderboard dubbed &quot;Claudeonomics&quot; where employees compete on AI-token usage and earn rewards like &quot;Token Legend&quot; status &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260407/p12#a260407p12)
- - [Israel-based Q-Factor, which is developing a quantum computer based on neutral atom technology, emerges from stealth with a $24M seed led by NFX and TPY Capital &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/260407/p11#a260407p11)
- - [A cryptography engineer calls for urgent rollout of post-quantum cryptography schemes, saying the risk of inaction is now unacceptable, after Google&#39;s warning &lpar;Filippo Valsorda&rpar;](http://www.techmeme.com/260407/p10#a260407p10)
- - [OpenAI announces a Safety Fellowship program for external researchers, engineers, and practitioners to study the safety and alignment of advanced AI systems &lpar;OpenAI&rpar;](http://www.techmeme.com/260407/p9#a260407p9)<!-- TECH:END -->
+ - [He Started a Social Network Alone. Then 5 Million People Signed Up](https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/)
+ - [Best Mesh Wi-Fi Systems &lpar;2026&rpar;: Netgear, Asus, Amazon, and More](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [The US Treasury says Robinhood and BNY will work with the federal government to handle tax-sheltered &quot;Trump Accounts&quot; for children when they launch this summer &lpar;Stacy Cowley/New York Times&rpar;](http://www.techmeme.com/260407/p16#a260407p16)
+ - [Gemini is making it faster for distressed users to reach mental health resources](https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update)
+ - [MLB rolls out &quot;robot umps&quot;, or an Automated Ball-Strike System, using Sony-made advanced cameras to help officiate games, but it often validates human umpires &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/260407/p15#a260407p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

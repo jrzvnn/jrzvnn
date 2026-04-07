@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-7/)
- - [A look at Alibaba&#39;s Accio, an AI sourcing tool that helps small online sellers connect with manufacturers, including in China; it exceeded 10M MAUs in March &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260406/p32#a260406p32)
- - [An Indianapolis city councilor says his home was targeted in what appeared to be a politically motivated shooting over a proposed data center in the city &lpar;Kiki Intarasuwan/CBS News&rpar;](http://www.techmeme.com/260406/p31#a260406p31)
- - [Sources: SpaceX plans to earmark a large portion of shares for retail investors and will host 1,500 of them at an event in June after the IPO roadshow launch &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260406/p30#a260406p30)
- - [Sources: Anthropic plans to invest $200M in a new venture with PE firms to sell AI tools to their portfolio companies; it&#39;s in talks to raise $1B for the effort &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p29#a260406p29)<!-- TECH:END -->
+ - [Sources: Apple is facing issues in the test phase of its foldable iPhone that are taking longer than expected to resolve, potentially delaying mass production &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260407/p3#a260407p3)
+ - [AirDoctor Coupon Codes: 40% Off | April 2026](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [Hoka Coupon Codes: 10% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)
+ - [Bose Promo Code: 40% Off Bose for April 2026](https://www.wired.com/story/bose-coupon-code/)
+ - [$50 Target Promo Code &amp; Coupons | April 2026](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

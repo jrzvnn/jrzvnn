@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Average 9gagger home?](http://9gag.com/gag/amo4N8y)
- - 😝 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
- - 💣 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
- - 😝 [Well, yes](http://9gag.com/gag/a34XPNm)
- - 👉 [Who is this guy?!](http://9gag.com/gag/amo4N2v)<!-- MEMES:END -->
+ - 😝 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
+ - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 💣 [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 😝 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)
+ - 👉 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)<!-- MEMES:END -->
 
 ---
 

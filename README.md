@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic plans to invest $200M in a new venture with PE firms to sell AI tools to their portfolio companies; it&#39;s in talks to raise $1B for the effort &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p29#a260406p29)
- - [The US NHTSA ends a 2025 probe into ~2.6M Tesla vehicles over the &quot;Actually Smart Summon&quot; driverless feature after finding it involved only low-speed incidents &lpar;Reuters&rpar;](http://www.techmeme.com/260406/p28#a260406p28)
- - [A look at Catches and other startups that are offering AI tools to let shoppers visualize fit and style before buying clothes, aiming to curb online returns &lpar;Elsa Ohlen/CNBC&rpar;](http://www.techmeme.com/260406/p27#a260406p27)
- - [Elgato Galleon 100 SD review: Mac productivity &amp; streamer&#39;s dream](https://appleinsider.com/articles/26/04/06/elgato-galleon-100-sd-review-mac-productivity-streamers-dream?utm_source=rss)
- - [Samsung reports preliminary Q1 operating profit of ~$38B, up more than 8x YoY and above ~$27B est., a record, and revenue up 68% YoY to ~$88B &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260406/p26#a260406p26)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-7/)
+ - [A look at Alibaba&#39;s Accio, an AI sourcing tool that helps small online sellers connect with manufacturers, including in China; it exceeded 10M MAUs in March &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260406/p32#a260406p32)
+ - [An Indianapolis city councilor says his home was targeted in what appeared to be a politically motivated shooting over a proposed data center in the city &lpar;Kiki Intarasuwan/CBS News&rpar;](http://www.techmeme.com/260406/p31#a260406p31)
+ - [Sources: SpaceX plans to earmark a large portion of shares for retail investors and will host 1,500 of them at an event in June after the IPO roadshow launch &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260406/p30#a260406p30)
+ - [Sources: Anthropic plans to invest $200M in a new venture with PE firms to sell AI tools to their portfolio companies; it&#39;s in talks to raise $1B for the effort &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p29#a260406p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

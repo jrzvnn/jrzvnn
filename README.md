@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with UpScrolled founder Issam Hijazi, who says the non-algorithmic social app hit 5M users, mainstream apps were censoring pro-Palestinian content, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/260407/p21#a260407p21)
- - [Best Electric Bikes &lpar;2026&rpar;: Commuting, Cargo Bikes, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)
- - [Kalshi signs a deal with Fox Corp. to integrate its forecasts into Fox News, Fox Business Network, Fox One, and Fox Weather, following deals with CNN and CNBC &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260407/p20#a260407p20)
- - [Google is updating Gemini to add a UI that triggers support hotline referrals and a &quot;help is available&quot; module when chats indicate potential crises like suicide &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260407/p19#a260407p19)
- - [The 5 Best Outdoor Pizza Ovens: Wood-Fired, Gas, Propane &lpar;2026&rpar;](https://www.wired.com/story/best-outdoor-pizza-ovens/)<!-- TECH:END -->
+ - [Aria Networks, which builds what it calls the world&#39;s first AI-native network to work with any AI chip, raised a $125M Series A from Sutter Hill and others &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260407/p27#a260407p27)
+ - [Asus’ lightweight 16-inch laptop is a formidable MacBook Air alternative](https://www.theverge.com/tech/907864/asus-zenbook-a16-snapdragon-x2-elite-extreme-review)
+ - [Apple’s sci-fi thriller Dark Matter is back in August](https://www.theverge.com/streaming/907885/dark-matter-season-2-date-apple-tv)
+ - [Q&amp;A with Sundar Pichai on the history of Google and AI, speed and Search, Google&#39;s AI comeback, bottlenecks, capital allocation, how Google works, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260407/p26#a260407p26)
+ - [Velotric GoMad e-bike review: Apple Health, Find My, deep customization, and more](https://appleinsider.com/articles/26/04/07/velotric-gomad-e-bike-review-apple-health-find-my-deep-customization-and-more?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

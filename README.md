@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Average 9gagger home?](http://9gag.com/gag/amo4N8y)
+ - 😝 [Oohhhh](http://9gag.com/gag/aZZOb4p)
  - 😝 [Well, yes](http://9gag.com/gag/a34XPNm)
- - 💣 [Oohhhh](http://9gag.com/gag/aZZOb4p)
- - 😝 [Crypto really said why wait 9 years](http://9gag.com/gag/aZZOP56)
- - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
+ - 💣 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)
+ - 😝 [Internet](http://9gag.com/gag/aD2ewdd)
+ - 👉 [Who is this guy?!](http://9gag.com/gag/amo4N2v)<!-- MEMES:END -->
 
 ---
 

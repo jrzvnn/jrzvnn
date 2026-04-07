@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A cryptography engineer calls for urgent rollout of post-quantum cryptography schemes, saying the risk of inaction is now unacceptable, after Google&#39;s warning &lpar;Filippo Valsorda&rpar;](http://www.techmeme.com/260407/p10#a260407p10)
+ - [OpenAI announces a Safety Fellowship program for external researchers, engineers, and practitioners to study the safety and alignment of advanced AI systems &lpar;OpenAI&rpar;](http://www.techmeme.com/260407/p9#a260407p9)
  - [A look at the gold rush for firms claiming to help brands get cited by AI search tools, via tactics like hiding instructions behind &quot;Summarize with AI&quot; buttons &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/260407/p8#a260407p8)
  - [A Taiwan intelligence report to lawmakers says China is targeting Taiwan to obtain its chip manufacturing tech and talent to break through global &quot;containment&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260407/p7#a260407p7)
- - [Sources: AI music startup Suno&#39;s licensing talks with UMG and Sony have stalled; labels argue that AI tools like Suno rely on human-made music and should pay &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/260407/p6#a260407p6)
- - [Europe Gets Serious About Age Verification Online](https://www.wired.com/story/europe-gets-serious-about-age-verification-online/)
- - [Oracle reinstates the CFO role, appointing Hilary Maxson after Safra Catz became principal financial officer in 2014, amid investor scrutiny over AI spending &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260407/p5#a260407p5)<!-- TECH:END -->
+ - [Sources: AI music startup Suno&#39;s licensing talks with UMG and Sony have stalled; labels argue that AI tools like Suno rely on human-made music and should pay &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/260407/p6#a260407p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

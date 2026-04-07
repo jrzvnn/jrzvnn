@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 😝 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
  - 😝 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
  - 💣 [This is 9GAG\u2026 you know where this is going](http://9gag.com/gag/aYQXN1v)
- - 😝 [When Every Industry Needs a Monday Miracle](http://9gag.com/gag/a7oR5jm)
- - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
+ - 😝 [Pick your battles!](http://9gag.com/gag/ary7eZd)
+ - 👉 [Who is this guy?!](http://9gag.com/gag/amo4N2v)<!-- MEMES:END -->
 
 ---
 

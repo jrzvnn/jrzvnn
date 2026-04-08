@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS launches Amazon S3 Files, a new capability built on Amazon&#39;s Elastic File System to let applications and AI agents access S3 buckets as local file systems &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260408/p20#a260408p20)
- - [The vibes are off at OpenAI](https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai)
- - [Memo: Alibaba Cloud CTO Jingren Zhou will step down as CTO to focus on leading AI models in the new role of chief AI architect; executive Feifei Li becomes CTO &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260408/p19#a260408p19)
- - [Ikea’s New Lineup of Smart Home Gear Is Quietly Changing the Game](https://www.wired.com/story/ikea-matter-smart-home-hands-on/)
- - [Asus ROG Xbox Ally review: comfortable design, Xbox Full Screen beats Windows 11, and affordable, but sleep/wake issues, weak display, and average performance &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260408/p18#a260408p18)<!-- TECH:END -->
+ - [New York-based Patlytics, which builds software for law firms and businesses to automate patent filing and litigation, raised a $40M Series B led by SignalFire &lpar;Melia Russell/Business Insider&rpar;](http://www.techmeme.com/260408/p24#a260408p24)
+ - [Alibaba and China Telecom launch a data center in southern China that is powered by 10,000 of Alibaba&#39;s Zhenwu chips designed for AI training and inferencing &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260408/p23#a260408p23)
+ - [The Next Attorney General Will Probably Be an Election Denier](https://www.wired.com/story/the-next-attorney-general-will-probably-be-an-election-denier/)
+ - [The Miniature Wife was an exercise in visual trickery](https://www.theverge.com/entertainment/905862/the-miniature-wife-was-an-exercise-in-visual-trickery)
+ - [Insta360&#39;s Snap Selfie Screen makes rear-camera shooting on iPhone easier](https://appleinsider.com/articles/26/04/08/insta360s-snap-selfie-screen-makes-rear-camera-shooting-on-iphone-easier?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

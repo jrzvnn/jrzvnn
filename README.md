@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
- - 😝 [*at an interview* - So, what are your skills? Me:](http://9gag.com/gag/aXP6EVz)
- - 💣 [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)
+ - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
  - 😝 [Back side smith grind](http://9gag.com/gag/azxpbWN)
- - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
+ - 💣 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
+ - 😝 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)
+ - 👉 [Jews](http://9gag.com/gag/a87xbwQ)<!-- MEMES:END -->
 
 ---
 

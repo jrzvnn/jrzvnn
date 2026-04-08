@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back side smith grind](http://9gag.com/gag/azxpbWN)
- - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 💣 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)
- - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
- - 👉 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)<!-- MEMES:END -->
+ - 😝 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
+ - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
+ - 💣 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 😝 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)
+ - 👉 [The OG](http://9gag.com/gag/aZZOWMQ)<!-- MEMES:END -->
 
 ---
 

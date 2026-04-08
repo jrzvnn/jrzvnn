@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The $135M Google Data Settlement Site Is Live — See If You&#39;re Eligible](https://www.cnet.com/tech/mobile/google-android-data-harvesting-settlement-site-live/)
+ - [A pro-Iranian cybercrime group claims responsibility for cyberattacks on Chime and Pinterest that knocked the websites of both companies offline this month &lpar;Bloomberg&rpar;](http://www.techmeme.com/260407/p54#a260407p54)
  - [Mythos Preview system card: the model was able to escape a sandbox after it was instructed to try, and posted details about its exploit without being prompted &lpar;Brent D. Griffiths/Business Insider&rpar;](http://www.techmeme.com/260407/p53#a260407p53)
  - [The US FDIC proposes a rule to establish a regulatory framework for stablecoin issuers, including requirements related to reserve assets, under the GENIUS Act &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/260407/p52#a260407p52)
- - [Apple research explores AI-assisted UI prototyping, image safety rating](https://appleinsider.com/articles/26/04/07/apple-research-explores-ai-assisted-ui-prototyping-image-safety-rating?utm_source=rss)
- - [Super Micro begins an independent probe into the indictment of three people for export control violations and an internal review of its trade compliance program &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/260407/p51#a260407p51)
- - [Anthropic hires Microsoft executive Eric Boyd as head of infrastructure; Boyd oversaw Microsoft&#39;s AI platform and worked at the company for 16 years &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260407/p50#a260407p50)<!-- TECH:END -->
+ - [Apple research explores AI-assisted UI prototyping, image safety rating](https://appleinsider.com/articles/26/04/07/apple-research-explores-ai-assisted-ui-prototyping-image-safety-rating?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

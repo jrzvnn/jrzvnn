@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oohhhh](http://9gag.com/gag/aZZOb4p)
- - 😝 [This job sucks](http://9gag.com/gag/a34XPGr)
- - 💣 [A 40 year old got rejected](http://9gag.com/gag/aqyo9yR)
- - 😝 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)
- - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
+ - 😝 [Null](http://9gag.com/gag/azxpLVb)
+ - 😝 [When Cat Naps Meet Vintage Chic](http://9gag.com/gag/aVvyOKn)
+ - 💣 [The Snickers vs KitKat war is getting out of hand](http://9gag.com/gag/a34XYWr)
+ - 😝 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)
+ - 👉 [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)<!-- MEMES:END -->
 
 ---
 

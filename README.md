@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When firefighters join the water fight](http://9gag.com/gag/aKGog0j)
- - 😝 [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)
- - 💣 [\u2615\ufe0f](http://9gag.com/gag/aPAbv3G)
- - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
- - 👉 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)<!-- MEMES:END -->
+ - 😝 [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 💣 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)
+ - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 👉 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)<!-- MEMES:END -->
 
 ---
 

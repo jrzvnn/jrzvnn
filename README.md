@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)
- - 😝 [Null](http://9gag.com/gag/azxpLVb)
- - 💣 [Jews](http://9gag.com/gag/a87xbwQ)
- - 😝 [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)
- - 👉 [\u2615\ufe0f](http://9gag.com/gag/aPAbv3G)<!-- MEMES:END -->
+ - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
+ - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 💣 [How cotton is picked](http://9gag.com/gag/aGy4wD7)
+ - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 👉 [Back side smith grind](http://9gag.com/gag/azxpbWN)<!-- MEMES:END -->
 
 ---
 

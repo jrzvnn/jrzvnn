@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
- - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
- - 💣 [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
  - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 👉 [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)<!-- MEMES:END -->
+ - 💣 [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - 😝 [It&#39;s Wednesday...](http://9gag.com/gag/a87xYX6)
+ - 👉 [It&#39;s important to take breaks!](http://9gag.com/gag/avyK0BO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The $135M Google Data Settlement Site Is Live — See If You&#39;re Eligible](https://www.cnet.com/tech/mobile/google-android-data-harvesting-settlement-site-live/)
- - [A pro-Iranian cybercrime group claims responsibility for cyberattacks on Chime and Pinterest that knocked the websites of both companies offline this month &lpar;Bloomberg&rpar;](http://www.techmeme.com/260407/p54#a260407p54)
- - [Mythos Preview system card: the model was able to escape a sandbox after it was instructed to try, and posted details about its exploit without being prompted &lpar;Brent D. Griffiths/Business Insider&rpar;](http://www.techmeme.com/260407/p53#a260407p53)
- - [The US FDIC proposes a rule to establish a regulatory framework for stablecoin issuers, including requirements related to reserve assets, under the GENIUS Act &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/260407/p52#a260407p52)
- - [Apple research explores AI-assisted UI prototyping, image safety rating](https://appleinsider.com/articles/26/04/07/apple-research-explores-ai-assisted-ui-prototyping-image-safety-rating?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Bain&#39;s data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs &lpar;Kari Soo Lindberg/Bloomberg&rpar;](http://www.techmeme.com/260407/p58#a260407p58)
+ - [Bill Gates is set to appear before the US House Oversight Committee on June 10 about his Epstein ties; he says he&#39;s &quot;looking forward&quot; to answering the questions &lpar;Ana Faguy/BBC&rpar;](http://www.techmeme.com/260407/p57#a260407p57)
+ - [Niantic Spatial launches Scaniverse, a platform that lets companies and individuals create robot-ready 3D maps using phone, 360-degree camera, and drone data &lpar;Janko Roettgers/Fast Company&rpar;](http://www.techmeme.com/260407/p56#a260407p56)
+ - [Letter: ICE officials confirm they are using Graphite spyware to intercept encrypted messages, saying it is primarily used to target fentanyl traffickers &lpar;Jude Joffe-Block/NPR&rpar;](http://www.techmeme.com/260407/p55#a260407p55)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 8, #562](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-8-562/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

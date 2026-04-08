@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FBI: US victims lost ~$21B to cybercrime in 2025, up 26% YoY, driven by investment scams, business email compromise, tech support fraud, and data breaches &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260408/p6#a260408p6)
- - [Kuka, one of the largest industrial robotics suppliers, says it is prioritizing US and Asia investments, as Europe&#39;s industrial companies are slow to adopt AI &lpar;Marilen Martin/Bloomberg&rpar;](http://www.techmeme.com/260408/p5#a260408p5)
- - [TikTok says it plans to invest €1B to build a second data center in Finland as part of its €12B European data sovereignty initiative for the data of 200M+ users &lpar;Reuters&rpar;](http://www.techmeme.com/260408/p4#a260408p4)
- - [Sources: Perplexity&#39;s estimated ARR rose to over $450M in March, jumping 50% in a month after the launch of a new agent tool and a shift to usage-based pricing &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260408/p3#a260408p3)
- - [Bengaluru-based KreditBee, a digital lending service for personal and business loans and more, raised a $280M Series E at a $1.5B post-money valuation &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/260408/p2#a260408p2)<!-- TECH:END -->
+ - [Men Are Buying Hacking Tools to Use Against Their Wives and Friends](https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/)
+ - [RationalFX: tech layoffs totaled 78,557 in Q1 2026, with the US accounting for 76.7%; nearly half were attributed to AI implementation and workflow automation &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260408/p9#a260408p9)
+ - [Z.ai raises prices for its most advanced AI model, GLM-5.1, by at least 8% compared to GLM-5 Turbo, joining Alibaba and Tencent as demand for agentic AI surges &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260408/p8#a260408p8)
+ - [Sam Altman says OpenAI is resetting Codex usage limits &quot;to celebrate 3M weekly codex users&quot; and will reset them for every 1M new users until it reaches 10M &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260408/p7#a260408p7)
+ - [FBI: US victims lost ~$21B to cybercrime in 2025, up 26% YoY, driven by investment scams, business email compromise, tech support fraud, and data breaches &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260408/p6#a260408p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

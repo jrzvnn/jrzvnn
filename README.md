@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Microsoft’s war on Windows’ Control Panel is taking so long](https://www.theverge.com/news/908624/microsoft-windows-control-panel-removal-explanation)
- - [Google&#39;s Pixel 10A Is Coming to Japan With an Exclusive Blue Edition and Special Wallpaper](https://www.cnet.com/tech/mobile/googles-pixel-10a-is-coming-to-japan-with-an-exclusive-blue-and-special-wallpaper/)
- - [An investigation suggests Blockstream CEO Adam Back, a British cryptographer who invented Hashcash, is Bitcoin&#39;s pseudonymous inventor Satoshi Nakamoto &lpar;New York Times&rpar;](http://www.techmeme.com/260408/p10#a260408p10)
- - [Men Are Buying Hacking Tools to Use Against Their Wives and Friends](https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/)
- - [RationalFX: tech layoffs totaled 78,557 in Q1 2026, with the US accounting for 76.7%; nearly half were attributed to AI implementation and workflow automation &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260408/p9#a260408p9)<!-- TECH:END -->
+ - [Anthropic&#39;s Mythos Preview is not a publicity stunt, and sources say tech companies privately spoke to Trump officials about the implications for US security &lpar;Thomas L. Friedman/New York Times&rpar;](http://www.techmeme.com/260408/p14#a260408p14)
+ - [Best Lightweight Hiking Boots &lpar;2026&rpar;: La Sportiva, Salomon, Keen, and More](https://www.wired.com/gallery/best-lightweight-hiking-boots/)
+ - [GoPro says it will cut 23% of its workforce, or 145 employees, starting in Q2 and costing $11.5M to $15M, as the company struggles to return to profitability &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/260408/p13#a260408p13)
+ - [AI Forensics: in 16 Italian and Spanish Telegram groups, 24K+ men are sharing nonconsensual images of women and girls, buying spyware, and engaging in doxing &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260408/p12#a260408p12)
+ - [Fender ELIE 6 Bluetooth Speaker Review: Big Sound, App on the Way](https://www.wired.com/review/fender-elie-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

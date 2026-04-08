@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Microsoft’s war on Windows’ Control Panel is taking so long](https://www.theverge.com/news/908624/microsoft-windows-control-panel-removal-explanation)
+ - [Google&#39;s Pixel 10A Is Coming to Japan With an Exclusive Blue Edition and Special Wallpaper](https://www.cnet.com/tech/mobile/googles-pixel-10a-is-coming-to-japan-with-an-exclusive-blue-and-special-wallpaper/)
  - [An investigation suggests Blockstream CEO Adam Back, a British cryptographer who invented Hashcash, is Bitcoin&#39;s pseudonymous inventor Satoshi Nakamoto &lpar;New York Times&rpar;](http://www.techmeme.com/260408/p10#a260408p10)
  - [Men Are Buying Hacking Tools to Use Against Their Wives and Friends](https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/)
- - [RationalFX: tech layoffs totaled 78,557 in Q1 2026, with the US accounting for 76.7%; nearly half were attributed to AI implementation and workflow automation &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260408/p9#a260408p9)
- - [Z.ai raises prices for its most advanced AI model, GLM-5.1, by at least 8% compared to GLM-5 Turbo, joining Alibaba and Tencent as demand for agentic AI surges &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260408/p8#a260408p8)
- - [Sam Altman says OpenAI is resetting Codex usage limits &quot;to celebrate 3M weekly codex users&quot; and will reset them for every 1M new users until it reaches 10M &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260408/p7#a260408p7)<!-- TECH:END -->
+ - [RationalFX: tech layoffs totaled 78,557 in Q1 2026, with the US accounting for 76.7%; nearly half were attributed to AI implementation and workflow automation &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260408/p9#a260408p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
- - 😝 [` Deku: It was cheap,what&#39;s the problem?`](http://9gag.com/gag/aKGowbQ)
- - 💣 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)
- - 😝 [Out you go, no wait, back in](http://9gag.com/gag/amo40vo)
- - 👉 [Well, yes](http://9gag.com/gag/a34XPNm)<!-- MEMES:END -->
+ - 😝 [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - 😝 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)
+ - 💣 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 😝 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)
+ - 👉 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)<!-- MEMES:END -->
 
 ---
 

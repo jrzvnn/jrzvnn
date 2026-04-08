@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Passwords syncing bug corrected by iOS 26.4.1 update](https://appleinsider.com/articles/26/04/08/apple-passwords-syncing-bug-corrected-by-ios-2641-update?utm_source=rss)
- - [CFO Sarah Friar says OpenAI will &quot;for sure&quot; reserve shares for retail investors in its IPO, after &quot;strong demand&quot; from individuals in its latest funding round &lpar;CNBC&rpar;](http://www.techmeme.com/260408/p36#a260408p36)
- - [iPhone Fold doesn&#39;t need to exist, but Apple will release it anyway](https://appleinsider.com/articles/26/04/08/iphone-fold-doesnt-need-to-exist-but-apple-will-release-it-anyway?utm_source=rss)
- - [NASA Artemis II Day 8: What to Expect in the Final Days of the Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [A hacker claims to have stolen 10PB+ of data, including classified defense docs and missile schematics, from China&#39;s National Supercomputing Center in Tianjin &lpar;Isaac Yee/CNN&rpar;](http://www.techmeme.com/260408/p35#a260408p35)<!-- TECH:END -->
+ - [A DC appeals court denies Anthropic&#39;s bid to pause the DOD&#39;s supply chain risk designation, after a California judge granted a preliminary injunction in March &lpar;Jack Queen/Reuters&rpar;](http://www.techmeme.com/260408/p38#a260408p38)
+ - [Anthropic Supply-Chain Risk Label Should Stay in Place, Appeals Court Says](https://www.wired.com/story/anthropic-appeals-court-ruling/)
+ - [MacBook Neo &amp; iPhone 17e parts now offered via Apple&#39;s repair program](https://appleinsider.com/articles/26/04/08/macbook-neo-iphone-17e-parts-now-offered-via-apples-repair-program?utm_source=rss)
+ - [The OpenAI Foundation says it is working to finalize over $100M in grants this month, across six institutions, to support and accelerate Alzheimer&#39;s research &lpar;Jacob Trefethen/OpenAI Foundation&rpar;](http://www.techmeme.com/260408/p37#a260408p37)
+ - [Apple Passwords syncing bug corrected by iOS 26.4.1 update](https://appleinsider.com/articles/26/04/08/apple-passwords-syncing-bug-corrected-by-ios-2641-update?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

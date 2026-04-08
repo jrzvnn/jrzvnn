@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well, yes](http://9gag.com/gag/a34XPNm)
- - 😝 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
- - 💣 [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 💣 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
  - 😝 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)
- - 👉 [Who is this guy?!](http://9gag.com/gag/amo4N2v)<!-- MEMES:END -->
+ - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 ---
 

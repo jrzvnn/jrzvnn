@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He couldn&#39;t contain his excitement for pool day. There&#39;s nowhere he&#39;d rather be than here with his fish. :-&rpar;](http://9gag.com/gag/aPAbvrV)
  - 😝 [Well, yes](http://9gag.com/gag/a34XPNm)
- - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
- - 💣 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
- - 😝 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)
- - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
+ - 💣 [Null](http://9gag.com/gag/azxpLVb)
+ - 😝 [The Snickers vs KitKat war is getting out of hand](http://9gag.com/gag/a34XYWr)
+ - 👉 [When Cat Naps Meet Vintage Chic](http://9gag.com/gag/aVvyOKn)<!-- MEMES:END -->
 
 ---
 

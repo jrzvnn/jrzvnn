@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid&#39;s Table](https://www.wired.com/story/muse-spark-meta-open-source-closed-source/)
- - [‘We Were Not Ready for This’: Lebanon&#39;s Emergency System Is Hanging by a Thread](https://www.wired.com/story/we-were-not-ready-for-this-lebanons-emergency-system-is-hanging-by-a-thread/)
- - [Remote desktop for Mac is shifting toward AI workloads with Workbench](https://appleinsider.com/articles/26/04/08/remote-desktop-for-mac-is-shifting-toward-ai-workloads-with-workbench?utm_source=rss)
- - [Anthropic announces Claude Managed Agents, offering developers an agent harness and other tools to build and deploy AI agents at scale, available in public beta &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260408/p33#a260408p33)
- - [The Neo Effect: How Apple&amp;#8217;s cheapest Mac is changing the PC game](https://www.theverge.com/tech/904705/apple-macbook-neo-news-reviews-mods)<!-- TECH:END -->
+ - [I finally get the iPhone Air](https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular)
+ - [As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover](https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/)
+ - [The AI RAM shortage is also driving up SSD prices](https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases)
+ - [Greek PM Kyriakos Mitsotakis says Greece will ban children under 15 from accessing social media starting January 1, 2027, and calls for coordinated EU action &lpar;Antonis Pothitos/Reuters&rpar;](http://www.techmeme.com/260408/p34#a260408p34)
+ - [Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table](https://www.wired.com/story/muse-spark-meta-open-source-closed-source/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

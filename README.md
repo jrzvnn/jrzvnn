@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says Kindle and Kindle Fire devices released in 2012 and earlier won&#39;t be able to access the Kindle Store from May 20; downloaded books can still be read &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/260408/p31#a260408p31)
- - [5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel](https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/)
- - [Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents](https://www.wired.com/story/anthropic-launches-claude-managed-agents/)
- - [Microsoft’s executive shake-up continues as developer division chief resigns](https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation)
- - [Amazon Pulls Support for Perfectly Fine Older Kindles](https://www.wired.com/story/amazon-pulls-support-for-perfectly-fine-older-kindles/)<!-- TECH:END -->
+ - [Meta&#39;s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid&#39;s Table](https://www.wired.com/story/muse-spark-meta-open-source-closed-source/)
+ - [‘We Were Not Ready for This’: Lebanon&#39;s Emergency System Is Hanging by a Thread](https://www.wired.com/story/we-were-not-ready-for-this-lebanons-emergency-system-is-hanging-by-a-thread/)
+ - [Remote desktop for Mac is shifting toward AI workloads with Workbench](https://appleinsider.com/articles/26/04/08/remote-desktop-for-mac-is-shifting-toward-ai-workloads-with-workbench?utm_source=rss)
+ - [Anthropic announces Claude Managed Agents, offering developers an agent harness and other tools to build and deploy AI agents at scale, available in public beta &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260408/p33#a260408p33)
+ - [The Neo Effect: How Apple&amp;#8217;s cheapest Mac is changing the PC game](https://www.theverge.com/tech/904705/apple-macbook-neo-news-reviews-mods)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

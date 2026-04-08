@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26.4.1 &amp; iPadOS 26.4.1 bug fix updates have arrived](https://appleinsider.com/articles/26/04/08/ios-2641-ipados-2641-bug-fix-updates-have-arrived?utm_source=rss)
- - [OpenAI made economic proposals — here’s what DC thinks of them](https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them)
- - [I finally get the iPhone Air](https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular)
+ - [iPhone Fold doesn&#39;t need to exist, but Apple will release it anyway](https://appleinsider.com/articles/26/04/08/iphone-fold-doesnt-need-to-exist-but-apple-will-release-it-anyway?utm_source=rss)
  - [NASA Artemis II Day 8: What to Expect in the Final Days of the Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover](https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/)<!-- TECH:END -->
+ - [A hacker claims to have stolen 10PB+ of data, including classified defense docs and missile schematics, from China&#39;s National Supercomputing Center in Tianjin &lpar;Isaac Yee/CNN&rpar;](http://www.techmeme.com/260408/p35#a260408p35)
+ - [Computer Won&#39;t Run Windows 11? Google&#39;s ChromeOS Flex Is a Solid Alternative](https://www.cnet.com/tech/computing/computer-wont-run-windows-11-googles-chromeos-flex-is-a-solid-alternative/)
+ - [iOS 26.4.1 &amp; iPadOS 26.4.1 bug fix updates have arrived](https://appleinsider.com/articles/26/04/08/ios-2641-ipados-2641-bug-fix-updates-have-arrived?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

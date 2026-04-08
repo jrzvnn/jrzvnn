@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Null](http://9gag.com/gag/azxpLVb)
- - 😝 [When Cat Naps Meet Vintage Chic](http://9gag.com/gag/aVvyOKn)
- - 💣 [The Snickers vs KitKat war is getting out of hand](http://9gag.com/gag/a34XYWr)
- - 😝 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)
- - 👉 [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)<!-- MEMES:END -->
+ - 😝 [` Deku: It was cheap,what&#39;s the problem?`](http://9gag.com/gag/aKGowbQ)
+ - 😝 [It&#39;s important to take breaks!](http://9gag.com/gag/avyK0BO)
+ - 💣 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
+ - 😝 [The audacity. Accusing others of interfering while basically doing it himself holding this speech. It is beyond me how anyone can support and vote for shitstains like this.](http://9gag.com/gag/aE0m1gO)
+ - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 ---
 

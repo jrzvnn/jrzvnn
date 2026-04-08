@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Patlytics, which builds software for law firms and businesses to automate patent filing and litigation, raised a $40M Series B led by SignalFire &lpar;Melia Russell/Business Insider&rpar;](http://www.techmeme.com/260408/p24#a260408p24)
- - [Alibaba and China Telecom launch a data center in southern China that is powered by 10,000 of Alibaba&#39;s Zhenwu chips designed for AI training and inferencing &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260408/p23#a260408p23)
- - [The Next Attorney General Will Probably Be an Election Denier](https://www.wired.com/story/the-next-attorney-general-will-probably-be-an-election-denier/)
- - [The Miniature Wife was an exercise in visual trickery](https://www.theverge.com/entertainment/905862/the-miniature-wife-was-an-exercise-in-visual-trickery)
- - [Insta360&#39;s Snap Selfie Screen makes rear-camera shooting on iPhone easier](https://appleinsider.com/articles/26/04/08/insta360s-snap-selfie-screen-makes-rear-camera-shooting-on-iphone-easier?utm_source=rss)<!-- TECH:END -->
+ - [Meta will offer Muse Spark in private preview via API to select partners, and plans to offer paid API access to a wider audience at a later date; META jumps 8%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260408/p29#a260408p29)
+ - [Meta says Muse Spark powers Meta AI&#39;s &quot;shopping mode&quot; feature and that it plans to release a version of Muse Spark under an open-source license &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260408/p28#a260408p28)
+ - [Meta is reentering the AI race with a new model called Muse Spark](https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout)
+ - [Meta releases Muse Spark, the first model from Meta Superintelligence Labs under Alexandr Wang, to &quot;power a smarter and faster&quot; Meta AI across Meta&#39;s products &lpar;Financial Times&rpar;](http://www.techmeme.com/260408/p27#a260408p27)
+ - [Grab 15&quot; MacBook Air M5, 24GB RAM, 1TB SSD for $1,549 &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/26/04/08/grab-15-macbook-air-m5-24gb-ram-1tb-ssd-for-1549-lowest-price-ever?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

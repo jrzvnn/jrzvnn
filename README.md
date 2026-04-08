@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back side smith grind](http://9gag.com/gag/azxpbWN)
- - 😝 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)
- - 💣 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 😝 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)
- - 👉 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)<!-- MEMES:END -->
+ - 😝 [When firefighters join the water fight](http://9gag.com/gag/aKGog0j)
+ - 😝 [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)
+ - 💣 [\u2615\ufe0f](http://9gag.com/gag/aPAbv3G)
+ - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
+ - 👉 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)<!-- MEMES:END -->
 
 ---
 

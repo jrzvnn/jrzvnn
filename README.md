@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s Mythos Preview is not a publicity stunt, and sources say tech companies privately spoke to Trump officials about the implications for US security &lpar;Thomas L. Friedman/New York Times&rpar;](http://www.techmeme.com/260408/p14#a260408p14)
- - [Best Lightweight Hiking Boots &lpar;2026&rpar;: La Sportiva, Salomon, Keen, and More](https://www.wired.com/gallery/best-lightweight-hiking-boots/)
- - [GoPro says it will cut 23% of its workforce, or 145 employees, starting in Q2 and costing $11.5M to $15M, as the company struggles to return to profitability &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/260408/p13#a260408p13)
- - [AI Forensics: in 16 Italian and Spanish Telegram groups, 24K+ men are sharing nonconsensual images of women and girls, buying spyware, and engaging in doxing &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260408/p12#a260408p12)
- - [Fender ELIE 6 Bluetooth Speaker Review: Big Sound, App on the Way](https://www.wired.com/review/fender-elie-6/)<!-- TECH:END -->
+ - [iPhone Fold screens will be made exclusively by Samsung because Apple has no choice](https://appleinsider.com/articles/26/04/08/iphone-fold-screens-will-be-made-exclusively-by-samsung-because-apple-has-no-choice?utm_source=rss)
+ - [GoPro is cutting 23 percent of its workforce](https://www.theverge.com/business/908650/gopro-layoffs-cuts-23-percent)
+ - [Dyson Spot+Scrub Ai Robot Vacuum Review &lpar;2026&rpar;](https://www.wired.com/review/dyson-spot-scrub-ai/)
+ - [Continuous glucose monitoring made me continuously crazy](https://www.theverge.com/features/907359/cgms-optimizing-metabolism-dexcom-abbott-wearables-health-tech)
+ - [A profile of South Korea&#39;s Galaxy, which is trying to disrupt K-pop&#39;s traditional idol system by blending AI characters and life-size robots, as it plans an IPO &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/260408/p15#a260408p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

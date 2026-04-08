@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Snickers vs KitKat war is getting out of hand](http://9gag.com/gag/a34XYWr)
+ - 😝 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)
  - 😝 [Null](http://9gag.com/gag/azxpLVb)
- - 💣 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)
- - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
- - 👉 [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)<!-- MEMES:END -->
+ - 💣 [Jews](http://9gag.com/gag/a87xbwQ)
+ - 😝 [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)
+ - 👉 [\u2615\ufe0f](http://9gag.com/gag/aPAbv3G)<!-- MEMES:END -->
 
 ---
 

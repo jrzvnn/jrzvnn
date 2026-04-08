@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
- - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
- - 💣 [How cotton is picked](http://9gag.com/gag/aGy4wD7)
- - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 👉 [Back side smith grind](http://9gag.com/gag/azxpbWN)<!-- MEMES:END -->
+ - 😝 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
+ - 😝 [` Deku: It was cheap,what&#39;s the problem?`](http://9gag.com/gag/aKGowbQ)
+ - 💣 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)
+ - 😝 [Out you go, no wait, back in](http://9gag.com/gag/amo40vo)
+ - 👉 [Well, yes](http://9gag.com/gag/a34XPNm)<!-- MEMES:END -->
 
 ---
 

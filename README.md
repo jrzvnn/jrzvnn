@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
- - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
- - 💣 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 😝 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)
- - 👉 [The OG](http://9gag.com/gag/aZZOWMQ)<!-- MEMES:END -->
+ - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 💣 [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 👉 [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)<!-- MEMES:END -->
 
 ---
 

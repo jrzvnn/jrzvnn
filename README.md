@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Bain&#39;s data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs &lpar;Kari Soo Lindberg/Bloomberg&rpar;](http://www.techmeme.com/260407/p58#a260407p58)
- - [Bill Gates is set to appear before the US House Oversight Committee on June 10 about his Epstein ties; he says he&#39;s &quot;looking forward&quot; to answering the questions &lpar;Ana Faguy/BBC&rpar;](http://www.techmeme.com/260407/p57#a260407p57)
- - [Niantic Spatial launches Scaniverse, a platform that lets companies and individuals create robot-ready 3D maps using phone, 360-degree camera, and drone data &lpar;Janko Roettgers/Fast Company&rpar;](http://www.techmeme.com/260407/p56#a260407p56)
- - [Letter: ICE officials confirm they are using Graphite spyware to intercept encrypted messages, saying it is primarily used to target fentanyl traffickers &lpar;Jude Joffe-Block/NPR&rpar;](http://www.techmeme.com/260407/p55#a260407p55)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 8, #562](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-8-562/)<!-- TECH:END -->
+ - [FBI: US victims lost ~$21B to cybercrime in 2025, up 26% YoY, driven by investment scams, business email compromise, tech support fraud, and data breaches &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260408/p6#a260408p6)
+ - [Kuka, one of the largest industrial robotics suppliers, says it is prioritizing US and Asia investments, as Europe&#39;s industrial companies are slow to adopt AI &lpar;Marilen Martin/Bloomberg&rpar;](http://www.techmeme.com/260408/p5#a260408p5)
+ - [TikTok says it plans to invest €1B to build a second data center in Finland as part of its €12B European data sovereignty initiative for the data of 200M+ users &lpar;Reuters&rpar;](http://www.techmeme.com/260408/p4#a260408p4)
+ - [Sources: Perplexity&#39;s estimated ARR rose to over $450M in March, jumping 50% in a month after the launch of a new agent tool and a shift to usage-based pricing &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260408/p3#a260408p3)
+ - [Bengaluru-based KreditBee, a digital lending service for personal and business loans and more, raised a $280M Series E at a $1.5B post-money valuation &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/260408/p2#a260408p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 😝 [Back side smith grind](http://9gag.com/gag/azxpbWN)
- - 💣 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
- - 😝 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)
- - 👉 [Jews](http://9gag.com/gag/a87xbwQ)<!-- MEMES:END -->
+ - 😝 [I swear &amp; big world](http://9gag.com/gag/azxpLbz)
+ - 😝 [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)
+ - 💣 [Jews](http://9gag.com/gag/a87xbwQ)
+ - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
 
 ---
 

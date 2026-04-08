@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
- - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 💣 [Back side smith grind](http://9gag.com/gag/azxpbWN)
- - 😝 [It&#39;s Wednesday...](http://9gag.com/gag/a87xYX6)
- - 👉 [It&#39;s important to take breaks!](http://9gag.com/gag/avyK0BO)<!-- MEMES:END -->
+ - 😝 [*at an interview* - So, what are your skills? Me:](http://9gag.com/gag/aXP6EVz)
+ - 💣 [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)
+ - 😝 [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
 
 ---
 

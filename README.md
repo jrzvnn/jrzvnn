@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold screens will be made exclusively by Samsung because Apple has no choice](https://appleinsider.com/articles/26/04/08/iphone-fold-screens-will-be-made-exclusively-by-samsung-because-apple-has-no-choice?utm_source=rss)
- - [GoPro is cutting 23 percent of its workforce](https://www.theverge.com/business/908650/gopro-layoffs-cuts-23-percent)
- - [Dyson Spot+Scrub Ai Robot Vacuum Review &lpar;2026&rpar;](https://www.wired.com/review/dyson-spot-scrub-ai/)
- - [Continuous glucose monitoring made me continuously crazy](https://www.theverge.com/features/907359/cgms-optimizing-metabolism-dexcom-abbott-wearables-health-tech)
- - [A profile of South Korea&#39;s Galaxy, which is trying to disrupt K-pop&#39;s traditional idol system by blending AI characters and life-size robots, as it plans an IPO &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/260408/p15#a260408p15)<!-- TECH:END -->
+ - [The only USB-C AA battery I’d buy for myself is the Zepath 3600](https://www.theverge.com/gadgets/907002/best-usb-c-aa-li-ion-battery-zepath)
+ - [UK-based currency hedging platform MillTech raised $60M from Apax Digital Funds at a $325M valuation, and plans to expand in North America and build AI tools &lpar;Carter Johnson/Bloomberg&rpar;](http://www.techmeme.com/260408/p16#a260408p16)
+ - [Insta360’s Snap is a tiny magnetic phone screen for taking rear-camera selfies](https://www.theverge.com/tech/907670/insta360-snap-usb-c-magsafe-screen-selfies-smartphone-rear-camera)
+ - [Unionized ProPublica staff are on strike over AI, layoffs, and wages](https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs)
+ - [The Best Automatic Litter Box of 2026: Petkit and Litter-Robot](https://www.wired.com/gallery/best-automatic-cat-litter-boxes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Passwords syncing bug corrected by iOS 26.4.1 update](https://appleinsider.com/articles/26/04/08/apple-passwords-syncing-bug-corrected-by-ios-2641-update?utm_source=rss)
+ - [CFO Sarah Friar says OpenAI will &quot;for sure&quot; reserve shares for retail investors in its IPO, after &quot;strong demand&quot; from individuals in its latest funding round &lpar;CNBC&rpar;](http://www.techmeme.com/260408/p36#a260408p36)
  - [iPhone Fold doesn&#39;t need to exist, but Apple will release it anyway](https://appleinsider.com/articles/26/04/08/iphone-fold-doesnt-need-to-exist-but-apple-will-release-it-anyway?utm_source=rss)
  - [NASA Artemis II Day 8: What to Expect in the Final Days of the Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [A hacker claims to have stolen 10PB+ of data, including classified defense docs and missile schematics, from China&#39;s National Supercomputing Center in Tianjin &lpar;Isaac Yee/CNN&rpar;](http://www.techmeme.com/260408/p35#a260408p35)
- - [Computer Won&#39;t Run Windows 11? Google&#39;s ChromeOS Flex Is a Solid Alternative](https://www.cnet.com/tech/computing/computer-wont-run-windows-11-googles-chromeos-flex-is-a-solid-alternative/)
- - [iOS 26.4.1 &amp; iPadOS 26.4.1 bug fix updates have arrived](https://appleinsider.com/articles/26/04/08/ios-2641-ipados-2641-bug-fix-updates-have-arrived?utm_source=rss)<!-- TECH:END -->
+ - [A hacker claims to have stolen 10PB+ of data, including classified defense docs and missile schematics, from China&#39;s National Supercomputing Center in Tianjin &lpar;Isaac Yee/CNN&rpar;](http://www.techmeme.com/260408/p35#a260408p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

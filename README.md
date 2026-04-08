@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 26.4.1 &amp; iPadOS 26.4.1 bug fix updates have arrived](https://appleinsider.com/articles/26/04/08/ios-2641-ipados-2641-bug-fix-updates-have-arrived?utm_source=rss)
+ - [OpenAI made economic proposals — here’s what DC thinks of them](https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them)
  - [I finally get the iPhone Air](https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular)
- - [As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover](https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/)
- - [The AI RAM shortage is also driving up SSD prices](https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases)
- - [Greek PM Kyriakos Mitsotakis says Greece will ban children under 15 from accessing social media starting January 1, 2027, and calls for coordinated EU action &lpar;Antonis Pothitos/Reuters&rpar;](http://www.techmeme.com/260408/p34#a260408p34)
- - [Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table](https://www.wired.com/story/muse-spark-meta-open-source-closed-source/)<!-- TECH:END -->
+ - [NASA Artemis II Day 8: What to Expect in the Final Days of the Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover](https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

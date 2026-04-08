@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The only USB-C AA battery I’d buy for myself is the Zepath 3600](https://www.theverge.com/gadgets/907002/best-usb-c-aa-li-ion-battery-zepath)
- - [UK-based currency hedging platform MillTech raised $60M from Apax Digital Funds at a $325M valuation, and plans to expand in North America and build AI tools &lpar;Carter Johnson/Bloomberg&rpar;](http://www.techmeme.com/260408/p16#a260408p16)
- - [Insta360’s Snap is a tiny magnetic phone screen for taking rear-camera selfies](https://www.theverge.com/tech/907670/insta360-snap-usb-c-magsafe-screen-selfies-smartphone-rear-camera)
- - [Unionized ProPublica staff are on strike over AI, layoffs, and wages](https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs)
- - [The Best Automatic Litter Box of 2026: Petkit and Litter-Robot](https://www.wired.com/gallery/best-automatic-cat-litter-boxes/)<!-- TECH:END -->
+ - [AWS launches Amazon S3 Files, a new capability built on Amazon&#39;s Elastic File System to let applications and AI agents access S3 buckets as local file systems &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260408/p20#a260408p20)
+ - [The vibes are off at OpenAI](https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai)
+ - [Memo: Alibaba Cloud CTO Jingren Zhou will step down as CTO to focus on leading AI models in the new role of chief AI architect; executive Feifei Li becomes CTO &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260408/p19#a260408p19)
+ - [Ikea’s New Lineup of Smart Home Gear Is Quietly Changing the Game](https://www.wired.com/story/ikea-matter-smart-home-hands-on/)
+ - [Asus ROG Xbox Ally review: comfortable design, Xbox Full Screen beats Windows 11, and affordable, but sleep/wake issues, weak display, and average performance &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260408/p18#a260408p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

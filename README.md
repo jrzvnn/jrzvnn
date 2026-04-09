@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 💣 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
+ - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 😝 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
+ - 💣 [When you drink too much coffee](http://9gag.com/gag/a6ZYyGe)
  - 😝 [That moment of clarity at work](http://9gag.com/gag/ayNjnKy)
- - 👉 [When you drink too much coffee](http://9gag.com/gag/a6ZYyGe)<!-- MEMES:END -->
+ - 👉 [Forget about Hans](http://9gag.com/gag/a7oRKVe)<!-- MEMES:END -->
 
 ---
 

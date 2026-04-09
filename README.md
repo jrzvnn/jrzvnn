@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lorax](http://9gag.com/gag/an7PBzL)
- - 😝 [Gluteus Maximus](http://9gag.com/gag/aKGoqg1)
+ - 😝 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)
  - 💣 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)
- - 😝 [The flat-earthers have finally won. Thank you, Artemis](http://9gag.com/gag/aAyz12g)
- - 👉 [How cotton is picked](http://9gag.com/gag/aGy4wD7)<!-- MEMES:END -->
+ - 😝 [`Dude if you die there&#39;s no one to feed me, you&#39;re gonna get through this`](http://9gag.com/gag/aRBqAOj)
+ - 👉 [Heros](http://9gag.com/gag/aO8Ly52)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram now lets you edit your own comments](https://www.theverge.com/tech/909455/instagram-edit-comments)
- - [China Is Cracking Down on Scams. Just Not the Ones Hitting Americans](https://www.wired.com/story/made-in-china-inside-chinas-selective-war-on-the-scam-economy/)
- - [Pixelmator Pro &amp; Logic get big upgrades, rest of iWork gets minor ones](https://appleinsider.com/articles/26/04/09/pixelmator-pro-logic-get-big-upgrades-rest-of-iwork-gets-minor-ones?utm_source=rss)
- - [Tesla Is Reportedly Working on a Cheaper Electric SUV Model](https://www.cnet.com/roadshow/news/report-teslas-working-on-a-cheaper-compact-suv-model/)
- - [OpenAI launches a $100/month ChatGPT Pro subscription, which offers 5x more Codex usage than Plus; the $200/month Pro plan offers 20x higher limits than Plus &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260409/p33#a260409p33)<!-- TECH:END -->
+ - [Internal memo: Meta is pulling top engineers into its new Applied AI Engineering division, as part of a push to improve its models and &quot;compete in the AI race&quot; &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260409/p36#a260409p36)
+ - [NASA’s Artemis II mission to fly around the far side of the Moon](https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing)
+ - [An Ohio man is the first convicted under the Take It Down Act after pleading guilty to creating and sharing real and AI-generated explicit images of 10+ victims &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/260409/p35#a260409p35)
+ - [EFF says it is leaving X, as &quot;X is no longer where the fight is happening&quot; and an X post now gets less than 3% of the views a tweet got seven years ago &lpar;Kenyatta Thomas/Electronic Frontier ...&rpar;](http://www.techmeme.com/260409/p34#a260409p34)
+ - [Amazon Delays Launch of Leo, Its Satellite Network and Starlink Rival](https://www.cnet.com/home/internet/amazon-leo-launch-delay-starlink-rival/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

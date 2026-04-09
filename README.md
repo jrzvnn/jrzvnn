@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
+ - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
  - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
- - 💣 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
+ - 💣 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
  - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 👉 [I swear &amp; big world](http://9gag.com/gag/azxpLbz)<!-- MEMES:END -->
+ - 👉 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)<!-- MEMES:END -->
 
 ---
 

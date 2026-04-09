@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nava, which develops cloud infrastructure for AI workloads by combining data centers, GPUs, and software tools, raised a $22M Series A led by Greenoaks Capital &lpar;Samreen Ahmad/Tech in Asia&rpar;](http://www.techmeme.com/260408/p45#a260408p45)
- - [An analysis of the 200 most-recent tweets on X by 18 big publishers indicates links seem to hurt engagement, after debate arose over X&#39;s value for sharing news &lpar;Laura Hazard Owen/Nieman Lab&rpar;](http://www.techmeme.com/260408/p44#a260408p44)
- - [John Deere agreed to pay $99M into a fund to settle a 2022 right-to-repair class action lawsuit, and make digital repair tools available to farmers for 10 years &lpar;Reuters&rpar;](http://www.techmeme.com/260408/p43#a260408p43)
- - [Sources: Anthropic completes an employee tender offer at a $350B valuation, falling short of the $6B investors wanted, as employees held shares ahead of the IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/260408/p42#a260408p42)
- - [No, the Viral iPhone Fold Video Isn&#39;t Real. How We Know It&#39;s Fake](https://www.cnet.com/tech/mobile/no-the-viral-iphone-fold-video-isnt-real-heres-why-its-fake/)<!-- TECH:END -->
+ - [UAE&#39;s leading AI company G42 says its data center campus and overseas plans are on track despite regional tensions and Iranian attacks on UAE infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p2#a260409p2)
+ - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)
+ - [20% Off LG Promo Code &amp; Coupons | April 2026](https://www.wired.com/story/lg-promo-code/)
+ - [NZXT Discount Codes: 50% Off in April 2026](https://www.wired.com/story/nzxt-discount-code/)
+ - [30% Off Canon Promo Codes | April 2026](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

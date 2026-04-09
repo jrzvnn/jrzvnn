@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MAGA Media Seems to Have Hit Its Breaking Point Over Iran](https://www.wired.com/story/maga-media-seems-to-have-hit-its-breaking-point-over-iran/)
- - [From Apple II to iPhone 17 Pro, Apple&#39;s space story comes full circle](https://appleinsider.com/articles/26/04/07/from-apple-ii-to-iphone-17-pro-apples-space-story-comes-full-circle?utm_source=rss)
- - [A jury is about to decide the fate of Ticketmaster](https://www.theverge.com/policy/909192/live-nation-ticketmaster-antitrust-closing-arguments)
- - [Apple demanding info from Samsung&#39;s South Korea HQ for DOJ antitrust trial](https://appleinsider.com/articles/26/04/09/apple-doj-antitrust-case-goes-to-south-korea-in-latest-evidence-request-from-apple?utm_source=rss)
- - [The AI industry’s race for profits is now existential](https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment)<!-- TECH:END -->
+ - [Visa unveils Intelligent Commerce Connect, a platform that facilitates payments for AI agents across multiple card networks, including those of Visa competitors &lpar;Kelly Tyko/Axios&rpar;](http://www.techmeme.com/260409/p27#a260409p27)
+ - [A thin, light entry-level gaming laptop is $300 off at Best Buy](https://www.theverge.com/gadgets/909148/lenovo-gaming-laptop-nvidia-rtx-4050-deal-sale)
+ - [Tesla is un-canceling its plan to build a smaller, cheaper EV: report](https://www.theverge.com/transportation/909196/tesla-cheap-affordable-ev-musk-model-2)
+ - [Fubo&amp;#8217;s mobile app is pushing more sports highlights](https://www.theverge.com/streaming/909118/fubo-mobile-app-update-sports-streaming)
+ - [Chapter, which uses AI to help seniors enroll in Medicare, raised a $100M Series E, doubling its valuation to $3B and bringing its total funding to $285M &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260409/p26#a260409p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

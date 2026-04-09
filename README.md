@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As AI transforms white-collar work, executives across sectors say trust, not AI, is the key differentiator where accuracy, accountability, and regulation matter &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p6#a260409p6)
- - [A look at a global scramble to protect submarine cables vulnerable to potential sabotage, as new monitoring tech like distributed acoustic sensing is developed &lpar;Mike Cherney/Wall Street Journal&rpar;](http://www.techmeme.com/260409/p5#a260409p5)
- - [TSMC says its most advanced chip packaging tech, CoWoS, is growing at an 80% CAGR as it ramps up capacity; Nvidia has reportedly reserved most of the capacity &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260409/p4#a260409p4)
- - [Sources: Arm CEO Rene Haas is in line for an additional role at SoftBank Group to advance Project Izanagi, the Japanese group&#39;s AI chip strategy &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p3#a260409p3)
- - [UAE&#39;s leading AI company G42 says its data center campus and overseas plans are on track despite regional tensions and Iranian attacks on UAE infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p2#a260409p2)<!-- TECH:END -->
+ - [Artemis II Astronauts Witnessed 6 Meteorites Colliding With the Moon](https://www.wired.com/story/artemis-ii-astronauts-witnessed-6-meteorites-collide-with-the-moon/)
+ - [Tubi becomes the first streamer to launch a native app within ChatGPT, allowing viewers to find movies or shows to watch by using conversational phrases &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260409/p8#a260409p8)
+ - [Yuga Labs settles its 2022 lawsuit against artist Ryder Ripps and Jeremy Cahen over their alleged copycatting of its BAYC NFTs; the terms were not disclosed &lpar;CoinDesk&rpar;](http://www.techmeme.com/260409/p7#a260409p7)
+ - [Amflow’s latest e-bikes raise the bar again](https://www.theverge.com/transportation/909060/amflows-latest-e-bikes-raise-the-bar-again)
+ - [As AI transforms white-collar work, executives across sectors say trust, not AI, is the key differentiator where accuracy, accountability, and regulation matter &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p6#a260409p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

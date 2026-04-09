@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 70-Person AI Image Startup Taking on Silicon Valley&#39;s Giants](https://www.wired.com/story/black-forest-labs-ai-image-generation/)
- - [Google&amp;#8217;s Gemini AI can answer your questions with 3D models and simulations](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations)
- - [Apple has released macOS 26.4.1 with unspecified bug fixes](https://appleinsider.com/articles/26/04/09/apple-has-released-macos-2641-with-unspecified-bug-fixes?utm_source=rss)
- - [Sources: the White House is pushing back on GOP-led AI bills in Nebraska and Tennessee, putting new pressure on GOP state lawmakers who support AI guardrails &lpar;Axios&rpar;](http://www.techmeme.com/260409/p31#a260409p31)
- - [Save $20 on This Already Inexpensive Wireless Mic Set](https://www.wired.com/story/dji-mic-mini-deal-426/)<!-- TECH:END -->
+ - [Instagram now lets you edit your own comments](https://www.theverge.com/tech/909455/instagram-edit-comments)
+ - [China Is Cracking Down on Scams. Just Not the Ones Hitting Americans](https://www.wired.com/story/made-in-china-inside-chinas-selective-war-on-the-scam-economy/)
+ - [Pixelmator Pro &amp; Logic get big upgrades, rest of iWork gets minor ones](https://appleinsider.com/articles/26/04/09/pixelmator-pro-logic-get-big-upgrades-rest-of-iwork-gets-minor-ones?utm_source=rss)
+ - [Tesla Is Reportedly Working on a Cheaper Electric SUV Model](https://www.cnet.com/roadshow/news/report-teslas-working-on-a-cheaper-compact-suv-model/)
+ - [OpenAI launches a $100/month ChatGPT Pro subscription, which offers 5x more Codex usage than Plus; the $200/month Pro plan offers 20x higher limits than Plus &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260409/p33#a260409p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

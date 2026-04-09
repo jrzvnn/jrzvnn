@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Florida launches investigation into OpenAI](https://www.theverge.com/policy/909557/openai-florida-investigation)
  - [The EFF is quitting X](https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter)
  - [xAI has filed a lawsuit challenging Colorado&#39;s landmark AI anti-discrimination law, set to take effect in the summer, saying it violates free speech protections &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p39#a260409p39)
  - [John Deere will pay farmers $99 million over right-to-repair lawsuit](https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers)
- - [The Best Gaming Tablets of 2026](https://www.cnet.com/tech/computing/the-best-gaming-tablets-of-2026/)
- - [Samsung’s Galaxy Watch 8 is easier to recommend now it starts at $260](https://www.theverge.com/gadgets/909502/samsung-galaxy-watch-8-classic-deal-sale)<!-- TECH:END -->
+ - [The Best Gaming Tablets of 2026](https://www.cnet.com/tech/computing/the-best-gaming-tablets-of-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

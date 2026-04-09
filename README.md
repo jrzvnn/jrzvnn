@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lorax](http://9gag.com/gag/an7PBzL)
  - 😝 [Gluteus Maximus](http://9gag.com/gag/aKGoqg1)
- - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 💣 [When you drink too much coffee](http://9gag.com/gag/a6ZYyGe)
- - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 👉 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)<!-- MEMES:END -->
+ - 💣 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)
+ - 😝 [The flat-earthers have finally won. Thank you, Artemis](http://9gag.com/gag/aAyz12g)
+ - 👉 [How cotton is picked](http://9gag.com/gag/aGy4wD7)<!-- MEMES:END -->
 
 ---
 

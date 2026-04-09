@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UAE&#39;s leading AI company G42 says its data center campus and overseas plans are on track despite regional tensions and Iranian attacks on UAE infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p2#a260409p2)
- - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)
- - [20% Off LG Promo Code &amp; Coupons | April 2026](https://www.wired.com/story/lg-promo-code/)
- - [NZXT Discount Codes: 50% Off in April 2026](https://www.wired.com/story/nzxt-discount-code/)
- - [30% Off Canon Promo Codes | April 2026](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [As AI transforms white-collar work, executives across sectors say trust, not AI, is the key differentiator where accuracy, accountability, and regulation matter &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p6#a260409p6)
+ - [A look at a global scramble to protect submarine cables vulnerable to potential sabotage, as new monitoring tech like distributed acoustic sensing is developed &lpar;Mike Cherney/Wall Street Journal&rpar;](http://www.techmeme.com/260409/p5#a260409p5)
+ - [TSMC says its most advanced chip packaging tech, CoWoS, is growing at an 80% CAGR as it ramps up capacity; Nvidia has reportedly reserved most of the capacity &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260409/p4#a260409p4)
+ - [Sources: Arm CEO Rene Haas is in line for an additional role at SoftBank Group to advance Project Izanagi, the Japanese group&#39;s AI chip strategy &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p3#a260409p3)
+ - [UAE&#39;s leading AI company G42 says its data center campus and overseas plans are on track despite regional tensions and Iranian attacks on UAE infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p2#a260409p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

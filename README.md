@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
  - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 💣 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)
+ - 😝 [Out you go, no wait, back in](http://9gag.com/gag/amo40vo)
+ - 💣 [How cotton is picked](http://9gag.com/gag/aGy4wD7)
  - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 👉 [Heros](http://9gag.com/gag/aO8Ly52)<!-- MEMES:END -->
+ - 👉 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)<!-- MEMES:END -->
 
 ---
 

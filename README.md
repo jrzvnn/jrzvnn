@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When firefighters join the water fight](http://9gag.com/gag/aKGog0j)
- - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
- - 💣 [Crypto really said why wait 9 years](http://9gag.com/gag/aZZOP56)
- - 😝 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)
- - 👉 [To all my trolls out there...](http://9gag.com/gag/aKGoBqW)<!-- MEMES:END -->
+ - 😝 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)
+ - 😝 [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - 💣 [Jews](http://9gag.com/gag/a87xbwQ)
+ - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 👉 [Heros](http://9gag.com/gag/aO8Ly52)<!-- MEMES:END -->
 
 ---
 

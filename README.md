@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Neo storage can be upgraded to 1TB with the right soldering skills](https://appleinsider.com/articles/26/04/09/macbook-neo-storage-can-be-upgraded-to-1tb-with-the-right-soldering-skills?utm_source=rss)
- - [Sources: Alibaba anonymously released an AI video model called HappyHorse-1.0, which ranks top of Artificial Analysis&#39; AI model leaderboard, above Seedance 2.0 &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260409/p15#a260409p15)
- - [Meta commits to spending additional $21B on AI cloud infrastructure from CoreWeave, running from 2027 to 2032, on top of its prior $14.2B deal that ends in 2031 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260409/p14#a260409p14)
- - [Fi Mini for Cats Review: Track Your Pets and Monitor Their Activity](https://www.wired.com/review/fi-mini-for-cats/)
- - [Meta Cafeteria Workers Did What Execs Won’t: Took on ICE and Won](https://www.wired.com/story/how-meta-cafeteria-workers-rallied-to-take-on-ice/)<!-- TECH:END -->
+ - [Researchers: a zero-day vulnerability in Adobe Reader has been actively exploited since at least December 2025, and some docs contain Russian-language lures &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260409/p18#a260409p18)
+ - [Unless you reboot every once in a while, your Mac will get kicked offline every 49 days](https://appleinsider.com/articles/26/04/09/unless-you-reboot-every-once-in-a-while-your-mac-will-get-kicked-offline-every-49-days?utm_source=rss)
+ - [Samsung plans to invest $4B to construct a chip packaging facility in Vietnam&#39;s Thai Nguyen province to support AI demand; sources say the first phase costs $2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p17#a260409p17)
+ - [Viral iPhone Fold unboxing video is a very well made fake](https://appleinsider.com/articles/26/04/09/viral-iphone-fold-unboxing-video-is-a-very-well-made-fake?utm_source=rss)
+ - [Spotify is adding toggles to stop video from playing inside the app for both music and podcasts, rolling out worldwide on all platforms and devices &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260409/p16#a260409p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
- - 😝 [Always be a mommy&#39;s boy](http://9gag.com/gag/a9ygLjZ)
+ - 😝 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
+ - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
  - 💣 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)
- - 😝 [Thus should fix everything...](http://9gag.com/gag/apRZv6D)
- - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
+ - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - 👉 [Heros](http://9gag.com/gag/aO8Ly52)<!-- MEMES:END -->
 
 ---
 

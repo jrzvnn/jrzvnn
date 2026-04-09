@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic makes Claude Cowork, previously available as a &quot;research preview&quot;, generally available to all paid plans, and adds six features for enterprise use &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260409/p30#a260409p30)
- - [Florida&#39;s AG launches a probe into OpenAI and ChatGPT, saying its data could fall &quot;into the hands of America&#39;s enemies&quot; and citing a mass shooter&#39;s ChatGPT use &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260409/p29#a260409p29)
- - [The team behind 1000xResist is making a game about convincing an AI that it isn’t human](https://www.theverge.com/entertainment/909180/prove-youre-human-announcement-sunset-visitor-1000xresist)
- - [Amazon Is Pulling Support for Kindles From 2012 or Earlier. What to Do Now](https://www.cnet.com/tech/computing/amazon-pulls-the-plug-on-older-kindle-models/)
- - [Coachella 2026 Live: How to Watch the Festival for Free and Who&#39;s Performing](https://www.cnet.com/tech/services-and-software/coachella-2026-how-to-watch-the-festival-live-for-free-justin-bieber-sabrina-carpenter/)<!-- TECH:END -->
+ - [The 70-Person AI Image Startup Taking on Silicon Valley&#39;s Giants](https://www.wired.com/story/black-forest-labs-ai-image-generation/)
+ - [Google&amp;#8217;s Gemini AI can answer your questions with 3D models and simulations](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations)
+ - [Apple has released macOS 26.4.1 with unspecified bug fixes](https://appleinsider.com/articles/26/04/09/apple-has-released-macos-2641-with-unspecified-bug-fixes?utm_source=rss)
+ - [Sources: the White House is pushing back on GOP-led AI bills in Nebraska and Tennessee, putting new pressure on GOP state lawmakers who support AI guardrails &lpar;Axios&rpar;](http://www.techmeme.com/260409/p31#a260409p31)
+ - [Save $20 on This Already Inexpensive Wireless Mic Set](https://www.wired.com/story/dji-mic-mini-deal-426/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

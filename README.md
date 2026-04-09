@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)
- - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 💣 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
- - 😝 [We have to go back!](http://9gag.com/gag/aMVMGKP)
+ - 😝 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
+ - 😝 [Always be a mommy&#39;s boy](http://9gag.com/gag/a9ygLjZ)
+ - 💣 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)
+ - 😝 [Thus should fix everything...](http://9gag.com/gag/apRZv6D)
  - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
 
 ---

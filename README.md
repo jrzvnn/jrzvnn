@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson made a handheld version of its iconic fans](https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability)
- - [Google introduces &quot;notebooks&quot; in the Gemini app for deeper NotebookLM integration and a dedicated space to organize chats and files &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260408/p40#a260408p40)
- - [Stolen Device Protection for enterprise &amp; Apple Passwords sync fix are in iOS 26.4.1](https://appleinsider.com/articles/26/04/08/apple-passwords-syncing-bug-corrected-by-ios-2641-update?utm_source=rss)
- - [Yuga Labs settles its 2022 lawsuit against artist Ryder Ripps and Jeremy Cahen over their alleged copycatting of its BAYC NFTs; the terms were not disclosed &lpar;CoinDesk&rpar;](http://www.techmeme.com/260408/p39#a260408p39)
- - [A DC appeals court denies Anthropic&#39;s bid to pause the DOD&#39;s supply chain risk designation, after a California judge granted a preliminary injunction in March &lpar;Jack Queen/Reuters&rpar;](http://www.techmeme.com/260408/p38#a260408p38)<!-- TECH:END -->
+ - [Nava, which develops cloud infrastructure for AI workloads by combining data centers, GPUs, and software tools, raised a $22M Series A led by Greenoaks Capital &lpar;Samreen Ahmad/Tech in Asia&rpar;](http://www.techmeme.com/260408/p45#a260408p45)
+ - [An analysis of the 200 most-recent tweets on X by 18 big publishers indicates links seem to hurt engagement, after debate arose over X&#39;s value for sharing news &lpar;Laura Hazard Owen/Nieman Lab&rpar;](http://www.techmeme.com/260408/p44#a260408p44)
+ - [John Deere agreed to pay $99M into a fund to settle a 2022 right-to-repair class action lawsuit, and make digital repair tools available to farmers for 10 years &lpar;Reuters&rpar;](http://www.techmeme.com/260408/p43#a260408p43)
+ - [Sources: Anthropic completes an employee tender offer at a $350B valuation, falling short of the $6B investors wanted, as employees held shares ahead of the IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/260408/p42#a260408p42)
+ - [No, the Viral iPhone Fold Video Isn&#39;t Real. How We Know It&#39;s Fake](https://www.cnet.com/tech/mobile/no-the-viral-iphone-fold-video-isnt-real-heres-why-its-fake/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

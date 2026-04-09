@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Black Forest Labs, a 70-person startup based in Germany, became a top competitor in AI image generation; sources: it recently declined to partner with xAI &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260409/p40#a260409p40)
+ - [ChatGPT has a new $100 per month Pro subscription](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Florida launches investigation into OpenAI](https://www.theverge.com/policy/909557/openai-florida-investigation)
- - [The EFF is quitting X](https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter)
- - [xAI has filed a lawsuit challenging Colorado&#39;s landmark AI anti-discrimination law, set to take effect in the summer, saying it violates free speech protections &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p39#a260409p39)
- - [John Deere will pay farmers $99 million over right-to-repair lawsuit](https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers)
- - [The Best Gaming Tablets of 2026](https://www.cnet.com/tech/computing/the-best-gaming-tablets-of-2026/)<!-- TECH:END -->
+ - [You Can Now Clone Yourself on YouTube With an AI Avatar Tool](https://www.cnet.com/tech/services-and-software/clone-yourself-on-youtube-with-ai-avatar-tool/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

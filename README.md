@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A gap in understanding AI is growing, as casual users cite flaws in old free models while power users point to new models&#39; staggering gains in technical domains &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260409/p38#a260409p38)
+ - [An OpenAI note to investors after Anthropic announced Mythos says OpenAI&#39;s early push to increase computing resources gives it a key advantage over Anthropic &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260409/p37#a260409p37)
+ - [The First Person Has Been Convicted Under a New US Anti-Deepfake Law](https://www.cnet.com/tech/services-and-software/first-conviction-ai-deepfake-take-it-down-act-news/)
  - [Internal memo: Meta is pulling top engineers into its new Applied AI Engineering division, as part of a push to improve its models and &quot;compete in the AI race&quot; &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260409/p36#a260409p36)
- - [NASA’s Artemis II mission to fly around the far side of the Moon](https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing)
- - [An Ohio man is the first convicted under the Take It Down Act after pleading guilty to creating and sharing real and AI-generated explicit images of 10+ victims &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/260409/p35#a260409p35)
- - [EFF says it is leaving X, as &quot;X is no longer where the fight is happening&quot; and an X post now gets less than 3% of the views a tweet got seven years ago &lpar;Kenyatta Thomas/Electronic Frontier ...&rpar;](http://www.techmeme.com/260409/p34#a260409p34)
- - [Amazon Delays Launch of Leo, Its Satellite Network and Starlink Rival](https://www.cnet.com/home/internet/amazon-leo-launch-delay-starlink-rival/)<!-- TECH:END -->
+ - [OpenAI Is Adding a $100-a-Month ChatGPT Subscription Because of Vibe Coding](https://www.cnet.com/tech/services-and-software/openai-chatgpt-pro-tier-100-vibe-coding/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forget about Hans](http://9gag.com/gag/a7oRKVe)
  - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 💣 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
- - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 👉 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)<!-- MEMES:END -->
+ - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 💣 [Forget about Hans](http://9gag.com/gag/a7oRKVe)
+ - 😝 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
+ - 👉 [How cotton is picked](http://9gag.com/gag/aGy4wD7)<!-- MEMES:END -->
 
 ---
 

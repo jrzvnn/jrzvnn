@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Forget about Hans](http://9gag.com/gag/a7oRKVe)
  - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 😝 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
- - 💣 [When you drink too much coffee](http://9gag.com/gag/a6ZYyGe)
- - 😝 [That moment of clarity at work](http://9gag.com/gag/ayNjnKy)
- - 👉 [Forget about Hans](http://9gag.com/gag/a7oRKVe)<!-- MEMES:END -->
+ - 💣 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
+ - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - 👉 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)<!-- MEMES:END -->
 
 ---
 

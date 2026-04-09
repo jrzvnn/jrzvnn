@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visa unveils Intelligent Commerce Connect, a platform that facilitates payments for AI agents across multiple card networks, including those of Visa competitors &lpar;Kelly Tyko/Axios&rpar;](http://www.techmeme.com/260409/p27#a260409p27)
- - [A thin, light entry-level gaming laptop is $300 off at Best Buy](https://www.theverge.com/gadgets/909148/lenovo-gaming-laptop-nvidia-rtx-4050-deal-sale)
- - [Tesla is un-canceling its plan to build a smaller, cheaper EV: report](https://www.theverge.com/transportation/909196/tesla-cheap-affordable-ev-musk-model-2)
- - [Fubo&amp;#8217;s mobile app is pushing more sports highlights](https://www.theverge.com/streaming/909118/fubo-mobile-app-update-sports-streaming)
- - [Chapter, which uses AI to help seniors enroll in Medicare, raised a $100M Series E, doubling its valuation to $3B and bringing its total funding to $285M &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260409/p26#a260409p26)<!-- TECH:END -->
+ - [Anthropic makes Claude Cowork, previously available as a &quot;research preview&quot;, generally available to all paid plans, and adds six features for enterprise use &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260409/p30#a260409p30)
+ - [Florida&#39;s AG launches a probe into OpenAI and ChatGPT, saying its data could fall &quot;into the hands of America&#39;s enemies&quot; and citing a mass shooter&#39;s ChatGPT use &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260409/p29#a260409p29)
+ - [The team behind 1000xResist is making a game about convincing an AI that it isn’t human](https://www.theverge.com/entertainment/909180/prove-youre-human-announcement-sunset-visitor-1000xresist)
+ - [Amazon Is Pulling Support for Kindles From 2012 or Earlier. What to Do Now](https://www.cnet.com/tech/computing/amazon-pulls-the-plug-on-older-kindle-models/)
+ - [Coachella 2026 Live: How to Watch the Festival for Free and Who&#39;s Performing](https://www.cnet.com/tech/services-and-software/coachella-2026-how-to-watch-the-festival-live-for-free-justin-bieber-sabrina-carpenter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

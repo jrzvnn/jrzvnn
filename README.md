@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back side smith grind](http://9gag.com/gag/azxpbWN)
- - 😝 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)
- - 💣 [Jews](http://9gag.com/gag/a87xbwQ)
+ - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
+ - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 💣 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
  - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 👉 [The OG](http://9gag.com/gag/aZZOWMQ)<!-- MEMES:END -->
+ - 👉 [I swear &amp; big world](http://9gag.com/gag/azxpLbz)<!-- MEMES:END -->
 
 ---
 

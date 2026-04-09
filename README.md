@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
- - 💣 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
- - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 👉 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)<!-- MEMES:END -->
+ - 😝 [Her : where did you learn that?](http://9gag.com/gag/a9ygLZ0)
+ - 😝 [Pick your battles!](http://9gag.com/gag/ary7eZd)
+ - 💣 [I saw a great meme and had to improve it.](http://9gag.com/gag/aW43Om2)
+ - 😝 [To all my trolls out there...](http://9gag.com/gag/aKGoBqW)
+ - 👉 [Neck tension](http://9gag.com/gag/a0eyPLO)<!-- MEMES:END -->
 
 ---
 

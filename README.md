@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Artemis II Astronauts Witnessed 6 Meteorites Colliding With the Moon](https://www.wired.com/story/artemis-ii-astronauts-witnessed-6-meteorites-collide-with-the-moon/)
- - [Tubi becomes the first streamer to launch a native app within ChatGPT, allowing viewers to find movies or shows to watch by using conversational phrases &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260409/p8#a260409p8)
- - [Yuga Labs settles its 2022 lawsuit against artist Ryder Ripps and Jeremy Cahen over their alleged copycatting of its BAYC NFTs; the terms were not disclosed &lpar;CoinDesk&rpar;](http://www.techmeme.com/260409/p7#a260409p7)
- - [Amflow’s latest e-bikes raise the bar again](https://www.theverge.com/transportation/909060/amflows-latest-e-bikes-raise-the-bar-again)
- - [As AI transforms white-collar work, executives across sectors say trust, not AI, is the key differentiator where accuracy, accountability, and regulation matter &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p6#a260409p6)<!-- TECH:END -->
+ - [Spotify now lets you turn off all its videos](https://www.theverge.com/entertainment/909099/spotify-video-controls-music-podcasts-canvas)
+ - [A survey of 1,500 people aged 14 to 29: hopefulness regarding AI has dropped from 27% to 18% over the past year, and 50% report using GenAI daily or weekly &lpar;Callie Holtermann/New York Times&rpar;](http://www.techmeme.com/260409/p13#a260409p13)
+ - [I Asked Netflix’s Reality TV Boss Why So Many Men On Dating Shows Are Terrible](https://www.wired.com/story/netflix-love-is-blind-brandon-riegg-on-why-so-many-men-on-dating-shows-are-terrible/)
+ - [Source: OpenAI is finalizing a model with advanced cybersecurity capabilities that it plans to release only to a small set of companies, similar to Anthropic &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260409/p12#a260409p12)
+ - [OpenAI pauses Stargate in the UK, citing the high energy costs and regulatory environment; OpenAI announced it in September 2025 alongside Nvidia and Nscale &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260409/p11#a260409p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A gap in understanding AI is growing, as casual users cite flaws in old free models while power users point to new models&#39; staggering gains in technical domains &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260409/p38#a260409p38)
- - [An OpenAI note to investors after Anthropic announced Mythos says OpenAI&#39;s early push to increase computing resources gives it a key advantage over Anthropic &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260409/p37#a260409p37)
- - [The First Person Has Been Convicted Under a New US Anti-Deepfake Law](https://www.cnet.com/tech/services-and-software/first-conviction-ai-deepfake-take-it-down-act-news/)
- - [Internal memo: Meta is pulling top engineers into its new Applied AI Engineering division, as part of a push to improve its models and &quot;compete in the AI race&quot; &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260409/p36#a260409p36)
- - [OpenAI Is Adding a $100-a-Month ChatGPT Subscription Because of Vibe Coding](https://www.cnet.com/tech/services-and-software/openai-chatgpt-pro-tier-100-vibe-coding/)<!-- TECH:END -->
+ - [The EFF is quitting X](https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter)
+ - [xAI has filed a lawsuit challenging Colorado&#39;s landmark AI anti-discrimination law, set to take effect in the summer, saying it violates free speech protections &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p39#a260409p39)
+ - [John Deere will pay farmers $99 million over right-to-repair lawsuit](https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers)
+ - [The Best Gaming Tablets of 2026](https://www.cnet.com/tech/computing/the-best-gaming-tablets-of-2026/)
+ - [Samsung’s Galaxy Watch 8 is easier to recommend now it starts at $260](https://www.theverge.com/gadgets/909502/samsung-galaxy-watch-8-classic-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

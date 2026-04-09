@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dyson made a handheld version of its iconic fans](https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability)
  - [Google introduces &quot;notebooks&quot; in the Gemini app for deeper NotebookLM integration and a dedicated space to organize chats and files &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260408/p40#a260408p40)
  - [Stolen Device Protection for enterprise &amp; Apple Passwords sync fix are in iOS 26.4.1](https://appleinsider.com/articles/26/04/08/apple-passwords-syncing-bug-corrected-by-ios-2641-update?utm_source=rss)
  - [Yuga Labs settles its 2022 lawsuit against artist Ryder Ripps and Jeremy Cahen over their alleged copycatting of its BAYC NFTs; the terms were not disclosed &lpar;CoinDesk&rpar;](http://www.techmeme.com/260408/p39#a260408p39)
- - [A DC appeals court denies Anthropic&#39;s bid to pause the DOD&#39;s supply chain risk designation, after a California judge granted a preliminary injunction in March &lpar;Jack Queen/Reuters&rpar;](http://www.techmeme.com/260408/p38#a260408p38)
- - [Google Upgrades Maps Features With More Gemini and Faster Photo Uploads](https://www.cnet.com/tech/google-upgrades-crowdsourced-maps-features/)<!-- TECH:END -->
+ - [A DC appeals court denies Anthropic&#39;s bid to pause the DOD&#39;s supply chain risk designation, after a California judge granted a preliminary injunction in March &lpar;Jack Queen/Reuters&rpar;](http://www.techmeme.com/260408/p38#a260408p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

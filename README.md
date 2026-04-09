@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
- - 😝 [Jews](http://9gag.com/gag/a87xbwQ)
- - 💣 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
- - 😝 [Software release Friday](http://9gag.com/gag/aXP69XP)
- - 👉 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)<!-- MEMES:END -->
+ - 😝 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
+ - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 💣 [Forget about Hans](http://9gag.com/gag/a7oRKVe)
+ - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
 
 ---
 

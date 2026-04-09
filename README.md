@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic is weighing the possibility of designing its own chips, but it has yet to commit to a design or put together a dedicated team for the project &lpar;Reuters&rpar;](http://www.techmeme.com/260409/p41#a260409p41)
  - [How Black Forest Labs, a 70-person startup based in Germany, became a top competitor in AI image generation; sources: it recently declined to partner with xAI &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260409/p40#a260409p40)
  - [ChatGPT has a new $100 per month Pro subscription](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Florida launches investigation into OpenAI](https://www.theverge.com/policy/909557/openai-florida-investigation)
- - [You Can Now Clone Yourself on YouTube With an AI Avatar Tool](https://www.cnet.com/tech/services-and-software/clone-yourself-on-youtube-with-ai-avatar-tool/)<!-- TECH:END -->
+ - [NASA Artemis II Day 9: How the Astronauts Are Gearing Up for Tomorrow&#39;s Splashdown](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [Street Smarts: Waymo and Waze Turn Driver Data Into Pothole Repairs](https://www.cnet.com/roadshow/news/waymo-waze-partnership-track-potholes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

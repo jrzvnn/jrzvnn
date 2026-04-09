@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Why is the medicine not taking effect? I took it just like prescribed](http://9gag.com/gag/adBDpyZ)
  - 😝 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
- - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 💣 [Forget about Hans](http://9gag.com/gag/a7oRKVe)
- - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - 💣 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 😝 [Forget about Hans](http://9gag.com/gag/a7oRKVe)
  - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
 
 ---

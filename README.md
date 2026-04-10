@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait what .....](http://9gag.com/gag/aNDEnK4)
+ - 😝 [This is what is wrong with this world](http://9gag.com/gag/a1m3Y3R)
+ - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
+ - 💣 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
  - 😝 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
- - 💣 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
- - 😝 [Forklift certificate required](http://9gag.com/gag/a0eyjdd)
- - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
+ - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
 
 ---
 

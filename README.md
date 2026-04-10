@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
+ - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
  - 😝 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
- - 💣 [Gluteus Maximus](http://9gag.com/gag/aKGoqg1)
- - 😝 [Lol.](http://9gag.com/gag/aVvyeRn)
- - 👉 [No comments...](http://9gag.com/gag/aXP6wNz)<!-- MEMES:END -->
+ - 💣 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
+ - 😝 [Wanna share with you degenerates my watch box project. After one month of working I finally made it even it was challenge and I`m really happy and proud I was able to made it.](http://9gag.com/gag/aGy40ww)
+ - 👉 [Were you expecting a different response?](http://9gag.com/gag/ary7Ky6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
- - 😝 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
- - 💣 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 😝 [Prostagma](http://9gag.com/gag/apRZLw5)
- - 👉 [No comments...](http://9gag.com/gag/aXP6wNz)<!-- MEMES:END -->
+ - 😝 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
+ - 😝 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
+ - 💣 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
+ - 😝 [Lol.](http://9gag.com/gag/aVvyeRn)
+ - 👉 [Pickpocket training?](http://9gag.com/gag/avyKPpX)<!-- MEMES:END -->
 
 ---
 

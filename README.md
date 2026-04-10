@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare made a WordPress for AI agents](https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community)
+ - [14-inch MacBook Pro M5 vs Asus Zenbook A16: $2,000 shootout](https://appleinsider.com/inside/14-inch-macbook-pro/vs/14-inch-macbook-pro-m5-vs-asus-zenbook-a16-2000-shootout?utm_source=rss)
+ - [Documents: Amazon is working on &quot;Project Houdini&quot;, which aims to cut the time it takes to construct data centers by preassembling core server rooms into modules &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260410/p13#a260410p13)
  - [Snap announces a partnership between Specs, its AR glasses-focused subsidiary, and Qualcomm, whose Snapdragon XR platform will power Specs&#39; upcoming AI glasses &lpar;TechCrunch&rpar;](http://www.techmeme.com/260410/p12#a260410p12)
- - [Interior design at 25,000 mph](https://www.theverge.com/design/909710/artemis-ii-orion-capsule-interior-design)
- - [iPhone Fold, MacBook Neo, and iPhones in Space, on the AppleInsider Podcast](https://appleinsider.com/articles/26/04/10/iphone-fold-macbook-neo-and-iphones-in-space-on-the-appleinsider-podcast?utm_source=rss)
- - [This Coffee Writer Brewed 20 Bags of Grocery Store Beans. Here Are the 5 Best to Buy](https://www.cnet.com/news/this-barista-turned-coffee-writer-brewed-20-bags-of-grocery-store-beans-here-are-the-5-best/)<!-- TECH:END -->
+ - [After a Lifetime of Gas, I Switched to an Induction Stove. Here&#39;s Why I&#39;m Never Going Back](https://www.cnet.com/news/after-a-lifetime-of-gas-i-made-the-switch-to-induction-heres-why-im-never-going-back/)
+ - [The Apple Watch Series 12 May Revive a Throwback Feature, but No Redesign](https://www.cnet.com/tech/mobile/apple-watch-series-12-rumors-touch-id-fingerprint-sensor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

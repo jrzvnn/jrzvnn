@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
- - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 💣 [Lorax](http://9gag.com/gag/an7PBzL)
- - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
+ - 😝 [Adventure awaits!](http://9gag.com/gag/amo4914)
+ - 😝 [Wait what .....](http://9gag.com/gag/aNDEnK4)
+ - 💣 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
+ - 😝 [`Dude if you die there&#39;s no one to feed me, you&#39;re gonna get through this`](http://9gag.com/gag/aRBqAOj)
+ - 👉 [When you drink too much coffee](http://9gag.com/gag/a6ZYyGe)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gen Z’s love-hate relationship with AI](https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup)
- - [YouTube Premium is getting pricier](https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us)
- - [How to keep an older iPad safe, reliable &amp; useful over time](https://appleinsider.com/inside/ipad/tips/how-to-keep-an-older-ipad-safe-reliable-useful-over-time?utm_source=rss)
- - [Best Smart Shades, Blinds, and Curtains &lpar;2026&rpar;: Motorized, Tailor-Made, and More](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
- - [The Indie News Queen Who’s Not Done Pissing Off the Powerful](https://www.wired.com/story/the-indie-news-queen-whos-not-done-pissing-off-the-powerful/)<!-- TECH:END -->
+ - [YouTube raises Premium prices in the US, with individual plans up $2 to $15.99 per month, family plan up $4 to $26.99, and Premium Lite up $1 to $8.99 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260410/p10#a260410p10)
+ - [Google News is showing Polymarket bets alongside news articles in the &quot;For you&quot; section; in tests, Polymarket bets also appeared on the Google News homepage &lpar;Frank Landymore/Futurism&rpar;](http://www.techmeme.com/260410/p9#a260410p9)
+ - [&#39;Pluribus,&#39; &#39;Mr Scorsese,&#39; and more Apple TV shows nominated for Peabody Awards](https://appleinsider.com/articles/26/04/10/pluribus-mr-scorsese-and-more-apple-tv-shows-nominated-for-peabody-awards?utm_source=rss)
+ - [Google rolls out end-to-end encryption for Gmail on Android and iOS devices for enterprise users, letting them read and compose emails without additional tools &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260410/p8#a260410p8)
+ - [Aventon Current ADV Electric Mountain Bike Review: Feels Just Like the Real Thing](https://www.wired.com/review/aventon-current-adv-electric-mountain-bike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

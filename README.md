@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&quot;Uncanny Valley&quot;: OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home](https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/)
- - [This Clever Bike Bell Can Even Be Heard by People Wearing Noise-Canceling Headphones](https://www.wired.com/story/skoda-duobell-bike-bell-can-be-heard-by-people-wearing-noise-canceling-headphones/)
- - [This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts](https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/)
- - [France says it plans to move government computers running Windows to Linux, to further reduce its reliance on US technology, without providing a timeline &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260410/p16#a260410p16)
- - [Congress can finally close a mass surveillance loophole — but will they?](https://www.theverge.com/policy/909229/fisa-702-reauthorization-davidson-wyden-warrant-reforms)<!-- TECH:END -->
+ - [Three senior executives who helped launch OpenAI&#39;s Stargate initiative are leaving, sources say to join the same new company &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/260410/p18#a260410p18)
+ - [Folding iPhone unveiling &amp; shipment date rumors are all over the place](https://appleinsider.com/articles/26/04/10/folding-iphone-unveiling-shipment-date-rumors-are-all-over-the-place?utm_source=rss)
+ - [Little Snitch&amp;#8217;s software counter surveillance jumps from Mac to Linux](https://www.theverge.com/tech/909975/little-snitch-linux-launch)
+ - [San Francisco police arrested a suspect for allegedly throwing a Molotov cocktail at Sam Altman&#39;s home and also making threats outside OpenAI&#39;s headquarters &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260410/p17#a260410p17)
+ - [Grab Apple&#39;s M5 MacBook Air for $949 this weekend, record low price](https://appleinsider.com/articles/26/04/10/grab-apples-m5-macbook-air-for-949-this-weekend-record-low-price?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

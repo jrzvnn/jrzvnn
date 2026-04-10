@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube raises Premium prices in the US, with individual plans up $2 to $15.99 per month, family plan up $4 to $26.99, and Premium Lite up $1 to $8.99 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260410/p10#a260410p10)
- - [Google News is showing Polymarket bets alongside news articles in the &quot;For you&quot; section; in tests, Polymarket bets also appeared on the Google News homepage &lpar;Frank Landymore/Futurism&rpar;](http://www.techmeme.com/260410/p9#a260410p9)
- - [&#39;Pluribus,&#39; &#39;Mr Scorsese,&#39; and more Apple TV shows nominated for Peabody Awards](https://appleinsider.com/articles/26/04/10/pluribus-mr-scorsese-and-more-apple-tv-shows-nominated-for-peabody-awards?utm_source=rss)
- - [Google rolls out end-to-end encryption for Gmail on Android and iOS devices for enterprise users, letting them read and compose emails without additional tools &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260410/p8#a260410p8)
- - [Aventon Current ADV Electric Mountain Bike Review: Feels Just Like the Real Thing](https://www.wired.com/review/aventon-current-adv-electric-mountain-bike/)<!-- TECH:END -->
+ - [Cloudflare made a WordPress for AI agents](https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community)
+ - [Snap announces a partnership between Specs, its AR glasses-focused subsidiary, and Qualcomm, whose Snapdragon XR platform will power Specs&#39; upcoming AI glasses &lpar;TechCrunch&rpar;](http://www.techmeme.com/260410/p12#a260410p12)
+ - [Interior design at 25,000 mph](https://www.theverge.com/design/909710/artemis-ii-orion-capsule-interior-design)
+ - [iPhone Fold, MacBook Neo, and iPhones in Space, on the AppleInsider Podcast](https://appleinsider.com/articles/26/04/10/iphone-fold-macbook-neo-and-iphones-in-space-on-the-appleinsider-podcast?utm_source=rss)
+ - [This Coffee Writer Brewed 20 Bags of Grocery Store Beans. Here Are the 5 Best to Buy](https://www.cnet.com/news/this-barista-turned-coffee-writer-brewed-20-bags-of-grocery-store-beans-here-are-the-5-best/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

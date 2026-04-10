@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 😝 [How cotton is picked](http://9gag.com/gag/aGy4wD7)
- - 💣 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - 😝 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
  - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 👉 [When you drink too much coffee](http://9gag.com/gag/a6ZYyGe)<!-- MEMES:END -->
+ - 💣 [Lorax](http://9gag.com/gag/an7PBzL)
+ - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
 
 ---
 

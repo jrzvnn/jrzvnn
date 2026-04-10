@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
- - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 💣 [Matt Damon&#39;s real-life rom-com](http://9gag.com/gag/aZZOpwn)
+ - 😝 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
+ - 😝 [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)
+ - 💣 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
  - 😝 [Forklift certificate required](http://9gag.com/gag/a0eyjdd)
- - 👉 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)<!-- MEMES:END -->
+ - 👉 [Gluteus Maximus](http://9gag.com/gag/aKGoqg1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI backs an Illinois bill shielding AI labs from liability even for &quot;critical harms,&quot; like 100+ deaths or $1B+ damage, if safety reports were published &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260410/p2#a260410p2)
- - [Surfshark Promo Codes: 87% Off | April 2026](https://www.wired.com/story/surfshark-coupon/)
- - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
- - [20% Off Sephora Promo Code | April 2026](https://www.wired.com/story/sephora-promo-code/)
- - [Hungryroot Coupon Codes: 30% Off This April](https://www.wired.com/story/hungryroot-promo-code/)<!-- TECH:END -->
+ - [Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice](https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/)
+ - [Microsoft starts removing Copilot buttons from Windows 11 apps](https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons)
+ - [TSMC reports Q1 revenue up 35% YoY to ~$35.6B, above ~$35.2B est., signaling global chip demand remained intact during early weeks of the war in the Middle East &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260410/p3#a260410p3)
+ - [How and When to Watch the Artemis II Mission’s Return to Earth](https://www.wired.com/story/how-and-when-to-watch-the-artemis-ii-missions-return-to-earth/)
+ - [OpenAI backs an Illinois bill shielding AI labs from liability even for &quot;critical harms,&quot; like 100+ deaths or $1B+ damage, if safety reports were published &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260410/p2#a260410p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

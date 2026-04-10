@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arriba los Altos de Jalisco!](http://9gag.com/gag/aVvyQG2)
- - 😝 [Always be a mommy&#39;s boy](http://9gag.com/gag/a9ygLjZ)
- - 💣 [Gluteus Maximus](http://9gag.com/gag/aKGoqg1)
  - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 👉 [How cotton is picked](http://9gag.com/gag/aGy4wD7)<!-- MEMES:END -->
+ - 😝 [How cotton is picked](http://9gag.com/gag/aGy4wD7)
+ - 💣 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 👉 [When you drink too much coffee](http://9gag.com/gag/a6ZYyGe)<!-- MEMES:END -->
 
 ---
 

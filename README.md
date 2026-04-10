@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blackstone files for an IPO of a new data center acquisition vehicle to buy already-built and leased properties, and, sources say, plans to raise ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p27#a260410p27)
+ - [Sources: Cisco is in talks to acquire Tel Aviv-based Astrix Security, which sells software to monitor and secure AI agents, for between $250M and $350M &lpar;The Information&rpar;](http://www.techmeme.com/260410/p26#a260410p26)
  - [Tesla says Dutch regulators approved the use of its full self-driving software, marking the first regulatory sign-off for the feature in Europe &lpar;Reuters&rpar;](http://www.techmeme.com/260410/p25#a260410p25)
- - [Sources: Goldman Sachs, Citigroup, and other banks are testing Anthropic&#39;s Mythos model internally; JPMorgan Chase is the only bank named in Project Glasswing &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p24#a260410p24)
- - [Now the FAA says gamers are the answer to its air traffic controller shortage](https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage)
- - [How to Make Sure Your Private Signal Messages Aren&#39;t Still Lurking on Your Phone](https://www.cnet.com/tech/services-and-software/signal-private-messages-iphone-notifications-privacy/)
- - [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)<!-- TECH:END -->
+ - [Amazon Luna to Drop Support for Third-Party Games and Subscriptions in June](https://www.cnet.com/tech/gaming/amazon-luna-drops-support-third-party-games-subscriptions-june/)
+ - [&#39;Euphoria&#39; Season 3: Release Date and Time on HBO Max](https://www.cnet.com/tech/services-and-software/euphoria-season-3-release-date-and-time-on-hbo-max/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

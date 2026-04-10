@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: Canada&#39;s Cohere and Germany&#39;s Aleph Alpha are in talks to merge; the German government would be willing to become a key customer of a combined company &lpar;Reuters&rpar;](http://www.techmeme.com/260410/p30#a260410p30)
+ - [Sam Altman reflects on the attack on his house, OpenAI&#39;s success, personal regrets, and advocates for de-escalating rhetoric and tactics in the AI industry &lpar;Sam Altman&rpar;](http://www.techmeme.com/260410/p29#a260410p29)
  - [Amazon Luna is dropping support for game purchases and third-party game stores and subscriptions; previously purchased games will be accessible until June 10 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260410/p28#a260410p28)
  - [Blackstone files for an IPO of a new data center acquisition vehicle to buy already-built and leased properties, and, sources say, plans to raise ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p27#a260410p27)
- - [Sources: Cisco is in talks to acquire Tel Aviv-based Astrix Security, which sells software to monitor and secure AI agents, for between $250M and $350M &lpar;The Information&rpar;](http://www.techmeme.com/260410/p26#a260410p26)
- - [Tesla says Dutch regulators approved the use of its full self-driving software, marking the first regulatory sign-off for the feature in Europe &lpar;Reuters&rpar;](http://www.techmeme.com/260410/p25#a260410p25)
- - [Amazon Luna to Drop Support for Third-Party Games and Subscriptions in June](https://www.cnet.com/tech/gaming/amazon-luna-drops-support-third-party-games-subscriptions-june/)<!-- TECH:END -->
+ - [It&#39;s Artemis II Splashdown Day for the Astronauts &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

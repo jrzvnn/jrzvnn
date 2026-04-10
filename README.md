@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool](https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool)
- - [Trump hails Palantir&#39;s &quot;great war fighting capabilities&quot;, days after short seller Michael Burry said the company will lose to AI startups; PLTR is down ~25% YTD &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260410/p19#a260410p19)
- - [Century City will be hosting an immersive fan experience for Apple TV shows](https://appleinsider.com/articles/26/04/10/century-city-will-be-hosting-an-immersive-fan-experience-for-apple-tv-shows?utm_source=rss)
- - [My go-to electric screwdriver is on sale for over 50 percent off today](https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale)
- - [Amazon Luna axes third-party game purchases](https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions)<!-- TECH:END -->
+ - [Game development diary: TestFlight, trial by fire, and a trophy](https://appleinsider.com/articles/26/04/10/game-development-diary-testflight-trial-by-fire-and-a-trophy?utm_source=rss)
+ - [Microsoft unveils plans to streamline the Windows Insider program, offering a simplified channel structure, moving between channels without wiping PCs, and more &lpar;Ed Bott/ZDNET&rpar;](http://www.techmeme.com/260410/p20#a260410p20)
+ - [Motorola’s Souped-Up Folding Phone Is Almost Half Off](https://www.wired.com/story/motorola-razr-ultra-deal-426/)
+ - [Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think](https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/)
+ - [The Future of the Artemis Program Is Riding on Reentry](https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
- - 😝 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
- - 💣 [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)
- - 😝 [Hal\u2026.](http://9gag.com/gag/aqyoL77)
- - 👉 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)<!-- MEMES:END -->
+ - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 💣 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - 😝 [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)
+ - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
 
 ---
 

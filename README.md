@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
  - 😝 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
- - 💣 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 😝 [`I want that ring Mithrandir! Sauron says your good for it!!`](http://9gag.com/gag/an7P130)
- - 👉 [Were you expecting a different response?](http://9gag.com/gag/ary7Ky6)<!-- MEMES:END -->
+ - 💣 [Gluteus Maximus](http://9gag.com/gag/aKGoqg1)
+ - 😝 [Lol.](http://9gag.com/gag/aVvyeRn)
+ - 👉 [No comments...](http://9gag.com/gag/aXP6wNz)<!-- MEMES:END -->
 
 ---
 

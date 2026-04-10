@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lorax](http://9gag.com/gag/an7PBzL)
- - 😝 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)
- - 💣 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)
- - 😝 [`Dude if you die there&#39;s no one to feed me, you&#39;re gonna get through this`](http://9gag.com/gag/aRBqAOj)
- - 👉 [Heros](http://9gag.com/gag/aO8Ly52)<!-- MEMES:END -->
+ - 😝 [Arriba los Altos de Jalisco!](http://9gag.com/gag/aVvyQG2)
+ - 😝 [Always be a mommy&#39;s boy](http://9gag.com/gag/a9ygLjZ)
+ - 💣 [Gluteus Maximus](http://9gag.com/gag/aKGoqg1)
+ - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - 👉 [How cotton is picked](http://9gag.com/gag/aGy4wD7)<!-- MEMES:END -->
 
 ---
 

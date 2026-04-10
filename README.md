@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cSay that Kim Jong Un is a fat, ugly pig.\u201d That\u2019s exactly how an employer tested a candidate for an IT position during an online interview. The guy hesitated, tried to avoid answering, and simply disconnected from the call.](http://9gag.com/gag/ae98p1W)
- - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 💣 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 😝 [Yeah right](http://9gag.com/gag/ae986Z5)
- - 👉 [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)<!-- MEMES:END -->
+ - 😝 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
+ - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - 💣 [Matt Damon&#39;s real-life rom-com](http://9gag.com/gag/aZZOpwn)
+ - 😝 [Forklift certificate required](http://9gag.com/gag/a0eyjdd)
+ - 👉 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)<!-- MEMES:END -->
 
 ---
 

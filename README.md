@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)
+ - [Sources: a week before Mythos release, JD Vance and Scott Bessent questioned Amodei, Altman, and others about AI model security and responding to cyber attacks &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260410/p23#a260410p23)
+ - [How to watch the Artemis II astronauts return to Earth](https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth)
  - [Analysis: Trump&#39;s World Liberty Financial used 5B of its WLFI tokens to borrow $75M from a platform its adviser co-founded; WLFI falls to an all-time low &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/260410/p22#a260410p22)
- - [Home Depot Spring Black Friday &lpar;2026&rpar;: Best Tool and Grill Deals](https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/)
- - [Source: federal prosecutors have subpoenaed Reddit to appear before a grand jury, to provide personal data on an anonymous user who criticized ICE &lpar;Ryan Devereaux/The Intercept&rpar;](http://www.techmeme.com/260410/p21#a260410p21)
- - [Game development diary: TestFlight, trial by fire, and a trophy](https://appleinsider.com/articles/26/04/10/game-development-diary-testflight-trial-by-fire-and-a-trophy?utm_source=rss)
- - [Elden Ring: Tarnished Edition for Switch 2 Reignites Controversy Over Game-Key Cards](https://www.cnet.com/tech/gaming/elden-ring-tarnished-edition-switch-2-preorder-game-key-cards/)<!-- TECH:END -->
+ - [It&#39;s Artemis II Splashdown Day for the Astronauts &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

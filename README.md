@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice](https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/)
- - [Microsoft starts removing Copilot buttons from Windows 11 apps](https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons)
- - [TSMC reports Q1 revenue up 35% YoY to ~$35.6B, above ~$35.2B est., signaling global chip demand remained intact during early weeks of the war in the Middle East &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260410/p3#a260410p3)
- - [How and When to Watch the Artemis II Mission’s Return to Earth](https://www.wired.com/story/how-and-when-to-watch-the-artemis-ii-missions-return-to-earth/)
- - [OpenAI backs an Illinois bill shielding AI labs from liability even for &quot;critical harms,&quot; like 100+ deaths or $1B+ damage, if safety reports were published &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260410/p2#a260410p2)<!-- TECH:END -->
+ - [AI Podcasters Really Want to Tell You How to Keep a Man Happy](https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/)
+ - [The CIA says it recently used AI to create its first-ever autonomous intelligence report, and plans to build &quot;AI co-workers&quot; into all of its analytic platforms &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260410/p6#a260410p6)
+ - [HSBC and Standard Chartered obtain the first stablecoin licenses in Hong Kong, beating 34 other applicants; they are expected to issue stablecoins in H2 2026 &lpar;Kiuyan Wong/Bloomberg&rpar;](http://www.techmeme.com/260410/p5#a260410p5)
+ - [Irrigreen Smart Irrigation System 3.0 &lpar;2026&rpar; Review: Smart Watering, Less Hassle](https://www.wired.com/review/irrigreen-smart-irrigation-system-3-2026/)
+ - [No One Knows Where US Vaccine Policy Goes Next](https://www.wired.com/story/no-one-knows-where-us-vaccine-policy-goes-next/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

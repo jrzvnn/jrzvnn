@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI backs an Illinois bill shielding AI labs from liability even for &quot;critical harms,&quot; like 100+ deaths or $1B+ damage, if safety reports were published &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260410/p2#a260410p2)
  - [Surfshark Promo Codes: 87% Off | April 2026](https://www.wired.com/story/surfshark-coupon/)
  - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
  - [20% Off Sephora Promo Code | April 2026](https://www.wired.com/story/sephora-promo-code/)
- - [Hungryroot Coupon Codes: 30% Off This April](https://www.wired.com/story/hungryroot-promo-code/)
- - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
+ - [Hungryroot Coupon Codes: 30% Off This April](https://www.wired.com/story/hungryroot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

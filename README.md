@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - 😝 [\u201cSay that Kim Jong Un is a fat, ugly pig.\u201d That\u2019s exactly how an employer tested a candidate for an IT position during an online interview. The guy hesitated, tried to avoid answering, and simply disconnected from the call.](http://9gag.com/gag/ae98p1W)
  - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 💣 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
- - 😝 [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)
- - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
+ - 💣 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - 😝 [Yeah right](http://9gag.com/gag/ae986Z5)
+ - 👉 [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 😝 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
  - 😝 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
- - 💣 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 😝 [Forklift certificate required](http://9gag.com/gag/a0eyjdd)
- - 👉 [Were you expecting a different response?](http://9gag.com/gag/ary7Ky6)<!-- MEMES:END -->
+ - 💣 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 😝 [Prostagma](http://9gag.com/gag/apRZLw5)
+ - 👉 [No comments...](http://9gag.com/gag/aXP6wNz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
- - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 💣 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 😝 [Subhuman](http://9gag.com/gag/aAyzwPL)
- - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
+ - 😝 [Here\u2019s a sticker!](http://9gag.com/gag/aByB1EP)
+ - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
+ - 💣 [No comments...](http://9gag.com/gag/aXP6wNz)
+ - 😝 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
+ - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
 
 ---
 

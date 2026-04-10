@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla says Dutch regulators approved the use of its full self-driving software, marking the first regulatory sign-off for the feature in Europe &lpar;Reuters&rpar;](http://www.techmeme.com/260410/p25#a260410p25)
+ - [Sources: Goldman Sachs, Citigroup, and other banks are testing Anthropic&#39;s Mythos model internally; JPMorgan Chase is the only bank named in Project Glasswing &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p24#a260410p24)
  - [Now the FAA says gamers are the answer to its air traffic controller shortage](https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage)
- - [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)
- - [Sources: a week before Mythos release, JD Vance and Scott Bessent questioned Amodei, Altman, and others about AI model security and responding to cyber attacks &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260410/p23#a260410p23)
- - [How to watch the Artemis II astronauts return to Earth](https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth)
- - [Analysis: Trump&#39;s World Liberty Financial used 5B of its WLFI tokens to borrow $75M from a platform its adviser co-founded; WLFI falls to an all-time low &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/260410/p22#a260410p22)<!-- TECH:END -->
+ - [How to Make Sure Your Private Signal Messages Aren&#39;t Still Lurking on Your Phone](https://www.cnet.com/tech/services-and-software/signal-private-messages-iphone-notifications-privacy/)
+ - [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

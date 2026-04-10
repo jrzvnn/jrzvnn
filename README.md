@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
  - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 💣 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
- - 😝 [Wanna share with you degenerates my watch box project. After one month of working I finally made it even it was challenge and I`m really happy and proud I was able to made it.](http://9gag.com/gag/aGy40ww)
- - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
+ - 💣 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
+ - 😝 [Subhuman](http://9gag.com/gag/aAyzwPL)
+ - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
 
 ---
 

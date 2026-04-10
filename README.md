@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Podcasters Really Want to Tell You How to Keep a Man Happy](https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/)
- - [The CIA says it recently used AI to create its first-ever autonomous intelligence report, and plans to build &quot;AI co-workers&quot; into all of its analytic platforms &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260410/p6#a260410p6)
- - [HSBC and Standard Chartered obtain the first stablecoin licenses in Hong Kong, beating 34 other applicants; they are expected to issue stablecoins in H2 2026 &lpar;Kiuyan Wong/Bloomberg&rpar;](http://www.techmeme.com/260410/p5#a260410p5)
- - [Irrigreen Smart Irrigation System 3.0 &lpar;2026&rpar; Review: Smart Watering, Less Hassle](https://www.wired.com/review/irrigreen-smart-irrigation-system-3-2026/)
- - [No One Knows Where US Vaccine Policy Goes Next](https://www.wired.com/story/no-one-knows-where-us-vaccine-policy-goes-next/)<!-- TECH:END -->
+ - [Gen Z’s love-hate relationship with AI](https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup)
+ - [YouTube Premium is getting pricier](https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us)
+ - [How to keep an older iPad safe, reliable &amp; useful over time](https://appleinsider.com/inside/ipad/tips/how-to-keep-an-older-ipad-safe-reliable-useful-over-time?utm_source=rss)
+ - [Best Smart Shades, Blinds, and Curtains &lpar;2026&rpar;: Motorized, Tailor-Made, and More](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
+ - [The Indie News Queen Who’s Not Done Pissing Off the Powerful](https://www.wired.com/story/the-indie-news-queen-whos-not-done-pissing-off-the-powerful/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

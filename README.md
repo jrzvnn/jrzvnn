@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic is weighing the possibility of designing its own chips, but it has yet to commit to a design or put together a dedicated team for the project &lpar;Reuters&rpar;](http://www.techmeme.com/260409/p41#a260409p41)
- - [How Black Forest Labs, a 70-person startup based in Germany, became a top competitor in AI image generation; sources: it recently declined to partner with xAI &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260409/p40#a260409p40)
- - [ChatGPT has a new $100 per month Pro subscription](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)
- - [NASA Artemis II Day 9: How the Astronauts Are Gearing Up for Tomorrow&#39;s Splashdown](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [Street Smarts: Waymo and Waze Turn Driver Data Into Pothole Repairs](https://www.cnet.com/roadshow/news/waymo-waze-partnership-track-potholes/)<!-- TECH:END -->
+ - [AfterQuery, which sells coding and finance training data to AI labs, says it raised a $30M Series A at a $300M valuation, and has hit a $100M+ annual run rate &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260409/p47#a260409p47)
+ - [Luminai, an AI-native platform for automating administrative healthcare workflows, raised a $38M Series B led by Peak XV, bringing its total funding to $60M &lpar;Seth Joseph/Forbes&rpar;](http://www.techmeme.com/260409/p46#a260409p46)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, April 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-10/)
+ - [Apple is closing its Towson, Maryland store, the first US location where retail employees unionized; the union says it is &quot;outraged&quot; and exploring legal options &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/260409/p45#a260409p45)
+ - [Sources: US Treasury Secretary Scott Bessent and Fed Chair Jerome Powell warned bank CEOs about Anthropic&#39;s Mythos model&#39;s risks at an urgent meeting Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p44#a260409p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

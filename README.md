@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Trump&#39;s World Liberty Financial used 5B of its WLFI tokens to borrow $75M from a platform its adviser co-founded; WLFI falls to an all-time low &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/260410/p22#a260410p22)
+ - [Home Depot Spring Black Friday &lpar;2026&rpar;: Best Tool and Grill Deals](https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/)
+ - [Source: federal prosecutors have subpoenaed Reddit to appear before a grand jury, to provide personal data on an anonymous user who criticized ICE &lpar;Ryan Devereaux/The Intercept&rpar;](http://www.techmeme.com/260410/p21#a260410p21)
  - [Game development diary: TestFlight, trial by fire, and a trophy](https://appleinsider.com/articles/26/04/10/game-development-diary-testflight-trial-by-fire-and-a-trophy?utm_source=rss)
- - [Microsoft unveils plans to streamline the Windows Insider program, offering a simplified channel structure, moving between channels without wiping PCs, and more &lpar;Ed Bott/ZDNET&rpar;](http://www.techmeme.com/260410/p20#a260410p20)
- - [Motorola’s Souped-Up Folding Phone Is Almost Half Off](https://www.wired.com/story/motorola-razr-ultra-deal-426/)
- - [Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think](https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/)
- - [The Future of the Artemis Program Is Riding on Reentry](https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/)<!-- TECH:END -->
+ - [Elden Ring: Tarnished Edition for Switch 2 Reignites Controversy Over Game-Key Cards](https://www.cnet.com/tech/gaming/elden-ring-tarnished-edition-switch-2-preorder-game-key-cards/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

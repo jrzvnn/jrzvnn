@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
- - 😝 [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)
+ - 😝 [Wait what .....](http://9gag.com/gag/aNDEnK4)
+ - 😝 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
  - 💣 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
  - 😝 [Forklift certificate required](http://9gag.com/gag/a0eyjdd)
- - 👉 [Gluteus Maximus](http://9gag.com/gag/aKGoqg1)<!-- MEMES:END -->
+ - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
 
 ---
 

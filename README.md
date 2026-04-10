@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three senior executives who helped launch OpenAI&#39;s Stargate initiative are leaving, sources say to join the same new company &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/260410/p18#a260410p18)
- - [Folding iPhone unveiling &amp; shipment date rumors are all over the place](https://appleinsider.com/articles/26/04/10/folding-iphone-unveiling-shipment-date-rumors-are-all-over-the-place?utm_source=rss)
- - [Little Snitch&amp;#8217;s software counter surveillance jumps from Mac to Linux](https://www.theverge.com/tech/909975/little-snitch-linux-launch)
- - [San Francisco police arrested a suspect for allegedly throwing a Molotov cocktail at Sam Altman&#39;s home and also making threats outside OpenAI&#39;s headquarters &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260410/p17#a260410p17)
- - [Grab Apple&#39;s M5 MacBook Air for $949 this weekend, record low price](https://appleinsider.com/articles/26/04/10/grab-apples-m5-macbook-air-for-949-this-weekend-record-low-price?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool](https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool)
+ - [Trump hails Palantir&#39;s &quot;great war fighting capabilities&quot;, days after short seller Michael Burry said the company will lose to AI startups; PLTR is down ~25% YTD &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260410/p19#a260410p19)
+ - [Century City will be hosting an immersive fan experience for Apple TV shows](https://appleinsider.com/articles/26/04/10/century-city-will-be-hosting-an-immersive-fan-experience-for-apple-tv-shows?utm_source=rss)
+ - [My go-to electric screwdriver is on sale for over 50 percent off today](https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale)
+ - [Amazon Luna axes third-party game purchases](https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

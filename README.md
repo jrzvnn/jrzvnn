@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bose’s rugged Soundlink Flex Bluetooth speaker is on sale for up to $50 off](https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale)
+ - [Trump Mobile isn’t giving up just yet](https://www.theverge.com/tech/909846/trump-mobile-phone-47-plan-trademark-registration)
+ - [Jury deliberations began Friday in the Live Nation antitrust trial, after state attorneys general continued to pursue the case even as the US DOJ settled &lpar;Ben Sisario/New York Times&rpar;](http://www.techmeme.com/260410/p15#a260410p15)
  - [14-inch MacBook Pro M5 vs Asus Zenbook A16: $2,000 shootout](https://appleinsider.com/inside/14-inch-macbook-pro/vs/14-inch-macbook-pro-m5-vs-asus-zenbook-a16-2000-shootout?utm_source=rss)
- - [Documents: Amazon is working on &quot;Project Houdini&quot;, which aims to cut the time it takes to construct data centers by preassembling core server rooms into modules &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260410/p13#a260410p13)
- - [Snap announces a partnership between Specs, its AR glasses-focused subsidiary, and Qualcomm, whose Snapdragon XR platform will power Specs&#39; upcoming AI glasses &lpar;TechCrunch&rpar;](http://www.techmeme.com/260410/p12#a260410p12)
- - [After a Lifetime of Gas, I Switched to an Induction Stove. Here&#39;s Why I&#39;m Never Going Back](https://www.cnet.com/news/after-a-lifetime-of-gas-i-made-the-switch-to-induction-heres-why-im-never-going-back/)
- - [The Apple Watch Series 12 May Revive a Throwback Feature, but No Redesign](https://www.cnet.com/tech/mobile/apple-watch-series-12-rumors-touch-id-fingerprint-sensor/)<!-- TECH:END -->
+ - [Waymo and Waze launch a pilot program to send pothole data collected by robotaxi sensors to the Waze for Cities platform and Waze app, starting in five markets &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260410/p14#a260410p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

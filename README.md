@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Adventure awaits!](http://9gag.com/gag/amo4914)
- - 😝 [Wait what .....](http://9gag.com/gag/aNDEnK4)
- - 💣 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
- - 😝 [`Dude if you die there&#39;s no one to feed me, you&#39;re gonna get through this`](http://9gag.com/gag/aRBqAOj)
- - 👉 [When you drink too much coffee](http://9gag.com/gag/a6ZYyGe)<!-- MEMES:END -->
+ - 😝 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - 😝 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
+ - 💣 [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)
+ - 😝 [Hal\u2026.](http://9gag.com/gag/aqyoL77)
+ - 👉 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)<!-- MEMES:END -->
 
 ---
 

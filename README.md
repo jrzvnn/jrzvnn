@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eat zi bugs](http://9gag.com/gag/azxpAom)
- - 😝 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
- - 💣 [Yeah right](http://9gag.com/gag/ae986Z5)
- - 😝 [Forklift certificate required](http://9gag.com/gag/a0eyjdd)
- - 👉 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)<!-- MEMES:END -->
+ - 😝 [I don&#39;t need therapy... Therapy needs me](http://9gag.com/gag/aoyQ9mx)
+ - 😝 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
+ - 💣 [No comments...](http://9gag.com/gag/aXP6wNz)
+ - 😝 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
+ - 👉 [Subhuman](http://9gag.com/gag/aAyzwPL)<!-- MEMES:END -->
 
 ---
 

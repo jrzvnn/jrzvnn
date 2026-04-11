@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese scientists unveil glass that self heals in just 10 seconds.](http://9gag.com/gag/aAyzwrE)
  - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 💣 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
- - 😝 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
- - 👉 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)<!-- MEMES:END -->
+ - 😝 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
+ - 💣 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
+ - 😝 [Sounds pretty useful.](http://9gag.com/gag/a87xy1d)
+ - 👉 [Subhuman](http://9gag.com/gag/aAyzwPL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation details Webloc, an ad-based geo surveillance system providing access to a constantly updated stream of records from up to 500M mobile devices &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/260411/p7#a260411p7)
+ - [Your Push Notifications Aren’t Safe From the FBI](https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/)
  - [Flight Path Data Shows How Mosquitoes Target Humans](https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/)
  - [How the Internet Broke Everyone’s Bullshit Detectors](https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/)
- - [The All-Clad Factory Seconds Sale Is Back—for Now &lpar;2026&rpar;](https://www.wired.com/story/all-clad-factory-seconds-april-2026/)
- - [Today&#39;s Wordle Hints, Answer and Help for April 11, #1757](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-11-1757/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 11 #769](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-11-769/)<!-- TECH:END -->
+ - [The All-Clad Factory Seconds Sale Is Back—for Now &lpar;2026&rpar;](https://www.wired.com/story/all-clad-factory-seconds-april-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

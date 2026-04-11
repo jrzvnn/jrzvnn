@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 😝 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
- - 💣 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
- - 😝 [Artemis 2 landing + splash](http://9gag.com/gag/a34X7Z1)
- - 👉 [Subhuman](http://9gag.com/gag/aAyzwPL)<!-- MEMES:END -->
+ - 😝 [Pickpocket training?](http://9gag.com/gag/avyKPpX)
+ - 💣 [Subhuman](http://9gag.com/gag/aAyzwPL)
+ - 😝 [My mom also got 10+ hours free while I was out exploring the neighborhood](http://9gag.com/gag/aqyorEp)
+ - 👉 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)<!-- MEMES:END -->
 
 ---
 

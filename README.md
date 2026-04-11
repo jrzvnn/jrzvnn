@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flight Path Data Shows How Mosquitoes Target Humans](https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/)
+ - [How the Internet Broke Everyone’s Bullshit Detectors](https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/)
  - [The All-Clad Factory Seconds Sale Is Back—for Now &lpar;2026&rpar;](https://www.wired.com/story/all-clad-factory-seconds-april-2026/)
- - [How AI is transforming golf: optimizing course operations, virtual assistants handling tee time bookings, and AI instructor apps improving player performance &lpar;Bradley S. Klein/Wall Street Journal&rpar;](http://www.techmeme.com/260411/p6#a260411p6)
- - [Court filing: OpenAI says Elon Musk&#39;s recent amendments to his OpenAI lawsuit are a &quot;legal ambush&quot;, calling them &quot;legally improper and factually unsupported&quot; &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/260411/p5#a260411p5)
- - [Ramp data: 30.6% of US businesses paid for Anthropic&#39;s tools in March, up from 24.4% in February; OpenAI&#39;s US business adoption remained nearly flat MoM at ~35% &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/260411/p4#a260411p4)
- - [Indian IT giant TCS reports Q4 sales up 9.7% YoY to $7.63B, net profit up 12.2% to $1.48B, both above est., and says new AI models did not hurt services demand &lpar;Reuters&rpar;](http://www.techmeme.com/260411/p3#a260411p3)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for April 11, #1757](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-11-1757/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 11 #769](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-11-769/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

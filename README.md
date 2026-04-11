@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuvi ColorBox Review: A Hair Dye Printer That Struggles](https://www.wired.com/review/zuvi-colorbox/)
- - [The new show making fun of tech bros](https://www.theverge.com/tech/910422/audacity-artemis-maul-installer)
- - [MacBook Neo vs. MacBook Air: Which One Should You Buy?](https://www.wired.com/story/macbook-neo-vs-macbook-air/)
- - [Best Electric Cargo Bikes &lpar;2026&rpar;: Urban Arrow, Lectric, Tern, and More](https://www.wired.com/story/best-electric-cargo-bikes/)
- - [Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?](https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china)<!-- TECH:END -->
+ - [You don’t have to spend more than $50 on a great USB-C dock for your Switch 2](https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on)
+ - [Demons and pinball are a perfect match](https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate)
+ - [How Iran out-shitposted the White House](https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop)
+ - [‘Crimson Desert’ Is a Cat Dad Simulator](https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/)
+ - [Zuvi ColorBox Review: A Hair Dye Printer That Struggles](https://www.wired.com/review/zuvi-colorbox/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here\u2019s a sticker!](http://9gag.com/gag/aByB1EP)
- - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 💣 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 😝 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
- - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
+ - 😝 [The moment they heard the word Work they ran away and never showed up again.](http://9gag.com/gag/aLn7MDv)
+ - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
+ - 💣 [Pickpocket training?](http://9gag.com/gag/avyKPpX)
+ - 😝 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
+ - 👉 [Subhuman](http://9gag.com/gag/aAyzwPL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with NYT reporter Tiffany Hsu about AI-generated online influencers, how the volume of synthetic content produces exhaustion for users, and more &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/260411/p13#a260411p13)
  - [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
  - [Survey of 6,698 people across six EU countries: around 84% said they don&#39;t trust US tech companies with their personal data; 93% don&#39;t trust Chinese companies &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/260411/p12#a260411p12)
  - [Today&#39;s NYT Connections Hints, Answers and Help for April 12, #1036](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-12-1036/)
- - [Today&#39;s Wordle Hints, Answer and Help for April 12, #1758](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-12-1758/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 12 #770](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-12-770/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for April 12, #1758](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-12-1758/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

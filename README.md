@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ramp data: 30.6% of US businesses paid for Anthropic&#39;s tools in March, up from 24.4% in February; OpenAI&#39;s US business adoption remained nearly flat MoM at ~35% &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/260411/p4#a260411p4)
+ - [Indian IT giant TCS reports Q4 sales up 9.7% YoY to $7.63B, net profit up 12.2% to $1.48B, both above est., and says new AI models did not hurt services demand &lpar;Reuters&rpar;](http://www.techmeme.com/260411/p3#a260411p3)
  - [UK activist investor Palliser has built a stake in Ajinomoto, urging it to raise prices for its ABF, a key material used to form advanced chipmaking substrates &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/260411/p2#a260411p2)
  - [Alat, a $100B Saudi Arabia PIF-backed electronics manufacturing fund, has removed CEO Amit Midha; sources say it has dropped plans to invest in chip production &lpar;Matthew Martin/Semafor&rpar;](http://www.techmeme.com/260411/p1#a260411p1)
- - [OpenAI says a GitHub workflow used to sign its macOS apps downloaded a malicious Axios library on March 31, but no user data or internal system was compromised &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260410/p34#a260410p34)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-11/)
- - [Artemis II Astronauts Splash Down Safely After Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-astronauts-return-home-historic-moon-mission/)<!-- TECH:END -->
+ - [OpenAI says a GitHub workflow used to sign its macOS apps downloaded a malicious Axios library on March 31, but no user data or internal system was compromised &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260410/p34#a260410p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment they heard the word Work they ran away and never showed up again.](http://9gag.com/gag/aLn7MDv)
- - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 💣 [Pickpocket training?](http://9gag.com/gag/avyKPpX)
- - 😝 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
- - 👉 [Subhuman](http://9gag.com/gag/aAyzwPL)<!-- MEMES:END -->
+ - 😝 [Gluteus Maximus](http://9gag.com/gag/aKGoqg1)
+ - 😝 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
+ - 💣 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
+ - 😝 [From being 126.5kg &lpar;278.3lbs&rpar; to 80kg &lpar;176lbs&rpar;. At 176cm, BMI went from 40.84 to 25.82. Took longer than expected, but worth every minute. And no, no ozempic used, just intermittent fasting.](http://9gag.com/gag/avyKrAb)
+ - 👉 [Pickpocket training?](http://9gag.com/gag/avyKPpX)<!-- MEMES:END -->
 
 ---
 

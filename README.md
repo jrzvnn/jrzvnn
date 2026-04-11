@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK activist investor Palliser has built a stake in Ajinomoto, urging it to raise prices for its ABF, a key material used to form advanced chipmaking substrates &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/260411/p2#a260411p2)
+ - [Alat, a $100B Saudi Arabia PIF-backed electronics manufacturing fund, has removed CEO Amit Midha; sources say it has dropped plans to invest in chip production &lpar;Matthew Martin/Semafor&rpar;](http://www.techmeme.com/260411/p1#a260411p1)
  - [OpenAI says a GitHub workflow used to sign its macOS apps downloaded a malicious Axios library on March 31, but no user data or internal system was compromised &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260410/p34#a260410p34)
- - [Sources: three senior executives who helped launch OpenAI&#39;s Stargate initiative are leaving the company and joining Meta &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p33#a260410p33)
- - [Artemis II Astronauts Splash Down Safely After Moon Mission &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [The US CFTC says a district court judge granted its request for a temporary restraining order barring Arizona from continuing its criminal case against Kalshi &lpar;Jack Queen/Reuters&rpar;](http://www.techmeme.com/260410/p32#a260410p32)
- - [Artemis II Returns From Historic Flight Around the Moon](https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-11/)
+ - [Artemis II Astronauts Splash Down Safely After Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-astronauts-return-home-historic-moon-mission/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US National Cyber Director Sean Cairncross is leading an effort to identify security vulnerabilities in critical infrastructure that AI could exploit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260410/p31#a260410p31)
  - [Report: Canada&#39;s Cohere and Germany&#39;s Aleph Alpha are in talks to merge; the German government would be willing to become a key customer of a combined company &lpar;Reuters&rpar;](http://www.techmeme.com/260410/p30#a260410p30)
  - [Sam Altman reflects on the attack on his house, OpenAI&#39;s success, personal regrets, and advocates for de-escalating rhetoric and tactics in the AI industry &lpar;Sam Altman&rpar;](http://www.techmeme.com/260410/p29#a260410p29)
  - [Amazon Luna is dropping support for game purchases and third-party game stores and subscriptions; previously purchased games will be accessible until June 10 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260410/p28#a260410p28)
- - [Blackstone files for an IPO of a new data center acquisition vehicle to buy already-built and leased properties, and, sources say, plans to raise ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p27#a260410p27)
- - [It&#39;s Artemis II Splashdown Day for the Astronauts &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
+ - [Blackstone files for an IPO of a new data center acquisition vehicle to buy already-built and leased properties, and, sources say, plans to raise ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p27#a260410p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
  - 😝 [Here\u2019s a sticker!](http://9gag.com/gag/aByB1EP)
- - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 💣 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
- - 😝 [My mom also got 10+ hours free while I was out exploring the neighborhood](http://9gag.com/gag/aqyorEp)
- - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
+ - 💣 [Took the shot](http://9gag.com/gag/aqyoL0M)
+ - 😝 [From being 126.5kg &lpar;278.3lbs&rpar; to 80kg &lpar;176lbs&rpar;. At 176cm, BMI went from 40.84 to 25.82. Took longer than expected, but worth every minute. And no, no ozempic used, just intermittent fasting.](http://9gag.com/gag/avyKrAb)
+ - 👉 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 😝 [Here\u2019s a sticker!](http://9gag.com/gag/aByB1EP)
- - 💣 [Took the shot](http://9gag.com/gag/aqyoL0M)
- - 😝 [From being 126.5kg &lpar;278.3lbs&rpar; to 80kg &lpar;176lbs&rpar;. At 176cm, BMI went from 40.84 to 25.82. Took longer than expected, but worth every minute. And no, no ozempic used, just intermittent fasting.](http://9gag.com/gag/avyKrAb)
- - 👉 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)<!-- MEMES:END -->
+ - 😝 [Took the shot](http://9gag.com/gag/aqyoL0M)
+ - 😝 [Were you expecting a different response?](http://9gag.com/gag/ary7Ky6)
+ - 💣 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
+ - 😝 [This cute dog is banned from the couch, so the moment its owner leaves the house it races straight onto it \u2013 but instantly drops to the floor the second it hears footsteps approaching](http://9gag.com/gag/a2v6dQe)
+ - 👉 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)<!-- MEMES:END -->
 
 ---
 

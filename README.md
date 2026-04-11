@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took the shot](http://9gag.com/gag/aqyoL0M)
- - 😝 [Pickpocket training?](http://9gag.com/gag/avyKPpX)
- - 💣 [Subhuman](http://9gag.com/gag/aAyzwPL)
- - 😝 [From being 126.5kg &lpar;278.3lbs&rpar; to 80kg &lpar;176lbs&rpar;. At 176cm, BMI went from 40.84 to 25.82. Took longer than expected, but worth every minute. And no, no ozempic used, just intermittent fasting.](http://9gag.com/gag/avyKrAb)
- - 👉 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)<!-- MEMES:END -->
+ - 😝 [Here\u2019s a sticker!](http://9gag.com/gag/aByB1EP)
+ - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
+ - 💣 [Eat zi bugs](http://9gag.com/gag/azxpAom)
+ - 😝 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
+ - 👉 [Yeah right](http://9gag.com/gag/ae986Z5)<!-- MEMES:END -->
 
 ---
 

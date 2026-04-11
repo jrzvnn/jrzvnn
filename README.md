@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Survey of 6,698 people across six EU countries: around 84% said they don&#39;t trust US tech companies with their personal data; 93% don&#39;t trust Chinese companies &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/260411/p12#a260411p12)
  - [Today&#39;s NYT Connections Hints, Answers and Help for April 12, #1036](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-12-1036/)
  - [Today&#39;s Wordle Hints, Answer and Help for April 12, #1758](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-12-1758/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for April 12 #770](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-12-770/)
- - [RAM pinch: More Mac Studio &amp; some Mac mini configs not available from Apple online](https://appleinsider.com/articles/26/04/11/some-mac-studio-mac-mini-configurations-are-not-available-from-apple-online?utm_source=rss)
- - [Sources: Anthropic met with Christian leaders in March to seek input on Claude&#39;s moral and spiritual development and if it could be considered a &quot;child of God&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/260411/p11#a260411p11)<!-- TECH:END -->
+ - [RAM pinch: More Mac Studio &amp; some Mac mini configs not available from Apple online](https://appleinsider.com/articles/26/04/11/some-mac-studio-mac-mini-configurations-are-not-available-from-apple-online?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My baby deer plushie told me that Mitski&amp;#8217;s dad was a CIA operative](https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion)
+ - [Japan approves an additional $4B in subsidies to Rapidus to bankroll the chipmaker&#39;s work for Fujitsu, taking the total state investment and fees to $16.3B &lpar;Mari Kiyohara/Bloomberg&rpar;](http://www.techmeme.com/260411/p8#a260411p8)
  - [You don’t have to spend more than $50 on a great USB-C dock for your Switch 2](https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on)
- - [Demons and pinball are a perfect match](https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate)
- - [How Iran out-shitposted the White House](https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop)
- - [‘Crimson Desert’ Is a Cat Dad Simulator](https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/)
- - [Zuvi ColorBox Review: A Hair Dye Printer That Struggles](https://www.wired.com/review/zuvi-colorbox/)<!-- TECH:END -->
+ - [Watch a Robot Stuff Cash Into a Wallet Just Like You Do](https://www.cnet.com/tech/computing/gen-1-physical-ai-model-robot-dexterity/)
+ - [Demons and pinball are a perfect match](https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

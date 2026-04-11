@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here\u2019s a sticker!](http://9gag.com/gag/aByB1EP)
- - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 💣 [Eat zi bugs](http://9gag.com/gag/azxpAom)
+ - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
  - 😝 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
- - 👉 [Yeah right](http://9gag.com/gag/ae986Z5)<!-- MEMES:END -->
+ - 💣 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
+ - 😝 [Artemis 2 landing + splash](http://9gag.com/gag/a34X7Z1)
+ - 👉 [Subhuman](http://9gag.com/gag/aAyzwPL)<!-- MEMES:END -->
 
 ---
 

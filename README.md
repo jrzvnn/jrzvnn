@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook Neo vs. MacBook Air: Which One Should You Buy?](https://www.wired.com/story/macbook-neo-vs-macbook-air/)
+ - [This Animation Startup Wants to Make It Easier to Tell Open-Ended Stories](https://www.cnet.com/tech/services-and-software/cartwheel-ai-animation-interview/)
  - [Best Electric Cargo Bikes &lpar;2026&rpar;: Urban Arrow, Lectric, Tern, and More](https://www.wired.com/story/best-electric-cargo-bikes/)
- - [Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?](https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china)
- - [An investigation details Webloc, an ad-based geo surveillance system providing access to a constantly updated stream of records from up to 500M mobile devices &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/260411/p7#a260411p7)
- - [Your Push Notifications Aren’t Safe From the FBI](https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/)
- - [Flight Path Data Shows How Mosquitoes Target Humans](https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/)<!-- TECH:END -->
+ - [State Laws Against Surveillance and License Plate Cams: What Works Best for Your Privacy](https://www.cnet.com/home/security/state-laws-against-surveillance-and-license-plate-cams-what-works-best-for-your-privacy/)
+ - [Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?](https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

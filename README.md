@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 💣 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
+ - 😝 [Took the shot](http://9gag.com/gag/aqyoL0M)
+ - 💣 [No comments...](http://9gag.com/gag/aXP6wNz)
  - 😝 [Building a mechanical dragon to guard my virginity.](http://9gag.com/gag/aVvyq3v)
- - 👉 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)<!-- MEMES:END -->
+ - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
 
 ---
 

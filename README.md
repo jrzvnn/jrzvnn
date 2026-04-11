@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US National Cyber Director Sean Cairncross is leading an effort to identify security vulnerabilities in critical infrastructure that AI could exploit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260410/p31#a260410p31)
- - [Report: Canada&#39;s Cohere and Germany&#39;s Aleph Alpha are in talks to merge; the German government would be willing to become a key customer of a combined company &lpar;Reuters&rpar;](http://www.techmeme.com/260410/p30#a260410p30)
- - [Sam Altman reflects on the attack on his house, OpenAI&#39;s success, personal regrets, and advocates for de-escalating rhetoric and tactics in the AI industry &lpar;Sam Altman&rpar;](http://www.techmeme.com/260410/p29#a260410p29)
- - [Amazon Luna is dropping support for game purchases and third-party game stores and subscriptions; previously purchased games will be accessible until June 10 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260410/p28#a260410p28)
- - [Blackstone files for an IPO of a new data center acquisition vehicle to buy already-built and leased properties, and, sources say, plans to raise ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p27#a260410p27)<!-- TECH:END -->
+ - [OpenAI says a GitHub workflow used to sign its macOS apps downloaded a malicious Axios library on March 31, but no user data or internal system was compromised &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260410/p34#a260410p34)
+ - [Sources: three senior executives who helped launch OpenAI&#39;s Stargate initiative are leaving the company and joining Meta &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p33#a260410p33)
+ - [Artemis II Astronauts Splash Down Safely After Moon Mission &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [The US CFTC says a district court judge granted its request for a temporary restraining order barring Arizona from continuing its criminal case against Kalshi &lpar;Jack Queen/Reuters&rpar;](http://www.techmeme.com/260410/p32#a260410p32)
+ - [Artemis II Returns From Historic Flight Around the Moon](https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

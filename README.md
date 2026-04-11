@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 😝 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
+ - 😝 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
+ - 😝 [Subhuman](http://9gag.com/gag/aAyzwPL)
  - 💣 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
- - 😝 [Sounds pretty useful.](http://9gag.com/gag/a87xy1d)
- - 👉 [Subhuman](http://9gag.com/gag/aAyzwPL)<!-- MEMES:END -->
+ - 😝 [Haha yes](http://9gag.com/gag/aNDEAV4)
+ - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
 
 ---
 

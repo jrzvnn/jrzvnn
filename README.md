@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 12, #1036](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-12-1036/)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 12, #1758](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-12-1758/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 12 #770](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-12-770/)
  - [RAM pinch: More Mac Studio &amp; some Mac mini configs not available from Apple online](https://appleinsider.com/articles/26/04/11/some-mac-studio-mac-mini-configurations-are-not-available-from-apple-online?utm_source=rss)
- - [Sources: Anthropic met with Christian leaders in March to seek input on Claude&#39;s moral and spiritual development and if it could be considered a &quot;child of God&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/260411/p11#a260411p11)
- - [A wave of top AI researchers returned from the US to China in the past year, driven by better pay, quality of life, and a more restrictive US immigration system &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260411/p10#a260411p10)
- - [Artemis II Astronauts Splash Down Safely After Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-astronauts-return-home-historic-moon-mission/)
- - [Google says Polymarket bets &quot;briefly appeared in Google News in error&quot;, after the bets appeared alongside news articles in the &quot;For You&quot; section &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260411/p9#a260411p9)<!-- TECH:END -->
+ - [Sources: Anthropic met with Christian leaders in March to seek input on Claude&#39;s moral and spiritual development and if it could be considered a &quot;child of God&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/260411/p11#a260411p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 😝 [Pickpocket training?](http://9gag.com/gag/avyKPpX)
- - 💣 [Subhuman](http://9gag.com/gag/aAyzwPL)
- - 😝 [My mom also got 10+ hours free while I was out exploring the neighborhood](http://9gag.com/gag/aqyorEp)
+ - 😝 [Eat zi bugs](http://9gag.com/gag/azxpAom)
+ - 😝 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
+ - 💣 [Yeah right](http://9gag.com/gag/ae986Z5)
+ - 😝 [Forklift certificate required](http://9gag.com/gag/a0eyjdd)
  - 👉 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)<!-- MEMES:END -->
 
 ---

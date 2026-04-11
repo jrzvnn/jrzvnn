@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [QiDi Max 4 review: The FDM multicolor printer that you want](https://appleinsider.com/articles/26/04/11/qidi-max-4-review-the-fdm-multicolor-printer-that-you-want?utm_source=rss)
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu-april-2026/)
  - [My baby deer plushie told me that Mitski&amp;#8217;s dad was a CIA operative](https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion)
  - [Japan approves an additional $4B in subsidies to Rapidus to bankroll the chipmaker&#39;s work for Fujitsu, taking the total state investment and fees to $16.3B &lpar;Mari Kiyohara/Bloomberg&rpar;](http://www.techmeme.com/260411/p8#a260411p8)
- - [You don’t have to spend more than $50 on a great USB-C dock for your Switch 2](https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on)
- - [Watch a Robot Stuff Cash Into a Wallet Just Like You Do](https://www.cnet.com/tech/computing/gen-1-physical-ai-model-robot-dexterity/)
- - [Demons and pinball are a perfect match](https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate)<!-- TECH:END -->
+ - [You don’t have to spend more than $50 on a great USB-C dock for your Switch 2](https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

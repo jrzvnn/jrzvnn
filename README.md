@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Artemis II Astronauts Splash Down Safely After Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-astronauts-return-home-historic-moon-mission/)
+ - [Google says that Polymarket bets showing up in Google News was an error, and the prediction market&#39;s bets on real world events were not supposed to appear there &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260411/p9#a260411p9)
  - [Google says Polymarket bets showing up in News was an ‘error’](https://www.theverge.com/tech/910691/google-news-polymarket-bets-error)
  - [Pokémon Champions is off to a rough start](https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers)
- - [Your article about AI doesn’t need AI art](https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai)
- - [Google’s latest Nest Doorbells just hit their lowest prices of the year](https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale)
- - [QiDi Max 4 review: The FDM multicolor printer that you want](https://appleinsider.com/articles/26/04/11/qidi-max-4-review-the-fdm-multicolor-printer-that-you-want?utm_source=rss)<!-- TECH:END -->
+ - [Your article about AI doesn’t need AI art](https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

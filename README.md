@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love to see it, never let them know your next move](http://9gag.com/gag/aNDEWDw)
- - 😝 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
- - 💣 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 😝 [My oldest pilfered buds from me as I did from my dad.](http://9gag.com/gag/a9ygrAK)
+ - 😝 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
+ - 😝 [Took the shot](http://9gag.com/gag/aqyoL0M)
+ - 💣 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
+ - 😝 [Building a mechanical dragon to guard my virginity.](http://9gag.com/gag/aVvyq3v)
  - 👉 [No comments...](http://9gag.com/gag/aXP6wNz)<!-- MEMES:END -->
 
 ---

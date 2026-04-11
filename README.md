@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took the shot](http://9gag.com/gag/aqyoL0M)
- - 😝 [Were you expecting a different response?](http://9gag.com/gag/ary7Ky6)
- - 💣 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
- - 😝 [This cute dog is banned from the couch, so the moment its owner leaves the house it races straight onto it \u2013 but instantly drops to the floor the second it hears footsteps approaching](http://9gag.com/gag/a2v6dQe)
- - 👉 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)<!-- MEMES:END -->
+ - 😝 [Here\u2019s a sticker!](http://9gag.com/gag/aByB1EP)
+ - 😝 [Egg mcmuffins are better](http://9gag.com/gag/ayNjd6W)
+ - 💣 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
+ - 😝 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
+ - 👉 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)<!-- MEMES:END -->
 
 ---
 

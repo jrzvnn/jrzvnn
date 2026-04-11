@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [QiDi Max 4 review: The FDM multicolor printer that you want](https://appleinsider.com/articles/26/04/11/qidi-max-4-review-the-fdm-multicolor-printer-that-you-want?utm_source=rss)
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu-april-2026/)
- - [My baby deer plushie told me that Mitski&amp;#8217;s dad was a CIA operative](https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion)
- - [Japan approves an additional $4B in subsidies to Rapidus to bankroll the chipmaker&#39;s work for Fujitsu, taking the total state investment and fees to $16.3B &lpar;Mari Kiyohara/Bloomberg&rpar;](http://www.techmeme.com/260411/p8#a260411p8)
- - [You don’t have to spend more than $50 on a great USB-C dock for your Switch 2](https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on)<!-- TECH:END -->
+ - [Google says Polymarket bets showing up in News was an ‘error’](https://www.theverge.com/tech/910691/google-news-polymarket-bets-error)
+ - [Pokémon Champions is off to a rough start](https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers)
+ - [Your article about AI doesn’t need AI art](https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai)
+ - [Google’s latest Nest Doorbells just hit their lowest prices of the year](https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale)
+ - [QiDi Max 4 review: The FDM multicolor printer that you want](https://appleinsider.com/articles/26/04/11/qidi-max-4-review-the-fdm-multicolor-printer-that-you-want?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

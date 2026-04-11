@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love to see it, never let them know your next move](http://9gag.com/gag/aNDEWDw)
- - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 💣 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 😝 [Dad giving the best advice](http://9gag.com/gag/a6ZYMje)
+ - 😝 [Way to go JD!](http://9gag.com/gag/aVvyDOP)
+ - 😝 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
+ - 💣 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
+ - 😝 [Uranium vs radium](http://9gag.com/gag/agmzLLW)
  - 👉 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)<!-- MEMES:END -->
 
 ---

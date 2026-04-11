@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Mac Studio, Mac mini configurations are not available from Apple online](https://appleinsider.com/articles/26/04/11/some-mac-studio-mac-mini-configurations-are-not-available-from-apple-online?utm_source=rss)
  - [Artemis II Astronauts Splash Down Safely After Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-astronauts-return-home-historic-moon-mission/)
- - [Google says that Polymarket bets showing up in Google News was an error, and the prediction market&#39;s bets on real world events were not supposed to appear there &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260411/p9#a260411p9)
+ - [Google says Polymarket bets &quot;briefly appeared in Google News in error&quot;, after the bets appeared alongside news articles in the &quot;For You&quot; section &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260411/p9#a260411p9)
  - [Google says Polymarket bets showing up in News was an ‘error’](https://www.theverge.com/tech/910691/google-news-polymarket-bets-error)
- - [Pokémon Champions is off to a rough start](https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers)
- - [Your article about AI doesn’t need AI art](https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai)<!-- TECH:END -->
+ - [Pokémon Champions is off to a rough start](https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

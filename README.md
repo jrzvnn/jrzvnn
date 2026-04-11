@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zuvi ColorBox Review: A Hair Dye Printer That Struggles](https://www.wired.com/review/zuvi-colorbox/)
+ - [The new show making fun of tech bros](https://www.theverge.com/tech/910422/audacity-artemis-maul-installer)
  - [MacBook Neo vs. MacBook Air: Which One Should You Buy?](https://www.wired.com/story/macbook-neo-vs-macbook-air/)
- - [This Animation Startup Wants to Make It Easier to Tell Open-Ended Stories](https://www.cnet.com/tech/services-and-software/cartwheel-ai-animation-interview/)
  - [Best Electric Cargo Bikes &lpar;2026&rpar;: Urban Arrow, Lectric, Tern, and More](https://www.wired.com/story/best-electric-cargo-bikes/)
- - [State Laws Against Surveillance and License Plate Cams: What Works Best for Your Privacy](https://www.cnet.com/home/security/state-laws-against-surveillance-and-license-plate-cams-what-works-best-for-your-privacy/)
  - [Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?](https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

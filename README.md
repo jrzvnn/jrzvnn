@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah right](http://9gag.com/gag/ae986Z5)
- - 😝 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
- - 💣 [Forklift certificate required](http://9gag.com/gag/a0eyjdd)
- - 😝 [Wanna share with you degenerates my watch box project. After one month of working I finally made it even it was challenge and I`m really happy and proud I was able to made it.](http://9gag.com/gag/aGy40ww)
+ - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
+ - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
+ - 💣 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
+ - 😝 [Building a mechanical dragon to guard my virginity.](http://9gag.com/gag/aVvyq3v)
  - 👉 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)<!-- MEMES:END -->
 
 ---

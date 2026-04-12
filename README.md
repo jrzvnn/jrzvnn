@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Willie Stroker](http://9gag.com/gag/aByBW3N)
  - 😝 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
- - 😝 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
- - 💣 [Subhuman](http://9gag.com/gag/aAyzwPL)
- - 😝 [Who needs a duty-free chocolate when you can get a new Rolex](http://9gag.com/gag/adBD9q9)
- - 👉 [Nah\u2026](http://9gag.com/gag/an7PbgL)<!-- MEMES:END -->
+ - 💣 [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - 😝 [The 9gaggers files](http://9gag.com/gag/axyq0oD)
+ - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
 
 ---
 

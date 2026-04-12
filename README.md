@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
- - 😝 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 💣 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
- - 😝 [Next week I am moving out. Just don&#39;t.](http://9gag.com/gag/a6ZYVx8)
- - 👉 [Times are changing](http://9gag.com/gag/a34Xq2N)<!-- MEMES:END -->
+ - 😝 [Willie Stroker](http://9gag.com/gag/aByBW3N)
+ - 😝 [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 😝 [Orban is out.](http://9gag.com/gag/aqyo1PY)
+ - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
 
 ---
 

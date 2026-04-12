@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounds pretty useful.](http://9gag.com/gag/a87xy1d)
- - 😝 [If you plan on committing tons of traffic violations, I have news for you](http://9gag.com/gag/apRZpOD)
- - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 😝 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
+ - 😝 [Times are changing](http://9gag.com/gag/a34Xq2N)
+ - 💣 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
  - 😝 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - 👉 [Hayley](http://9gag.com/gag/ary7bdK)<!-- MEMES:END -->
+ - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
 
 ---
 

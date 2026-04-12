@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hisense UR9 is a great first shot against OLED’s bow](https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review)
- - [How AT&amp;#038;T created the most iconic phone ever](https://www.theverge.com/podcast/910725/western-electric-500-att-version-history)
- - [Apple chiefs welcome Artemis II back to Earth after the best Shot on iPhone campaign ever](https://appleinsider.com/articles/26/04/12/apple-chiefs-welcome-artemis-ii-back-to-earth-after-the-best-shot-on-iphone-campaign-ever?utm_source=rss)
- - [5G From the Sky: New Internet Infrastructure Takes Flight](https://www.cnet.com/home/internet/5g-from-the-sky-new-internet-infrastructure-takes-flight/)
- - [I Think the RedMagic 11 Air&#39;s Best Feature Is Its Price for the Hardware](https://www.cnet.com/tech/mobile/i-think-the-redmagic-11-airs-best-feature-is-its-price-for-the-hardware/)<!-- TECH:END -->
+ - [Apple&#39;s future smart glasses plan is just part of a larger computer vision play](https://appleinsider.com/articles/26/04/12/apples-future-smart-glasses-plan-is-just-part-of-a-larger-computer-vision-play?utm_source=rss)
+ - [Sources: Apple is testing four AI glasses designs with rectangular and oval frames, multiple colors, and a camera system with vertically oriented oval lenses &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260412/p5#a260412p5)
+ - [You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99](https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale)
+ - [Premier League Soccer 2026: Watch Chelsea vs. Man City Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-watch-chelsea-vs-man-city-live/)
+ - [The Hisense UR9 is a great first shot against OLED’s bow](https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

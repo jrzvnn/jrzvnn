@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deep dive into the debate about Claude Mythos Preview, the model&#39;s capabilities, attempts to refute Anthropic&#39;s claims, and what it means for the future of AI &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/260412/p8#a260412p8)
  - [Room for the Moon is thrillingly weird experimental pop](https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop)
  - [Sunday Reboot: MacBook Neo upgrades, masses of Mac minis, and iPhone re-entry](https://appleinsider.com/articles/26/04/12/sunday-reboot-macbook-neo-upgrades-masses-of-mac-minis-and-iphone-re-entry?utm_source=rss)
- - [As weather betting grows on prediction markets, climate experts are debating whether it improves forecasts by aggregating knowledge or is simply a zero-sum game &lpar;Bloomberg&rpar;](http://www.techmeme.com/260412/p7#a260412p7)
- - [Rockstar Games says hack will have ‘no impact’](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact)
- - [&#39;Euphoria&#39; Season 3: How to Watch the Premiere Episode](https://www.cnet.com/tech/services-and-software/euphoria-season-3-how-to-watch-the-premiere-episode/)<!-- TECH:END -->
+ - [Apple Reportedly Testing Glasses AI in Several Frame Styles](https://www.cnet.com/news/apple-reportedly-testing-glasses-ai-in-several-frame-styles/)
+ - [The Artemis II Moonshot Deserves Your Awe, and Your Closer Attention, Too](https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-pay-attention-commentary/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

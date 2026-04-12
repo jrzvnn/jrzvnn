@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 😝 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
- - 💣 [Nah\u2026](http://9gag.com/gag/an7PbgL)
- - 😝 [When Your Gaming World Comes to Life](http://9gag.com/gag/aAyzdXp)
- - 👉 [Willie Stroker](http://9gag.com/gag/aByBW3N)<!-- MEMES:END -->
+ - 😝 [Peugeot: Never let them know your next move.](http://9gag.com/gag/aD2eWYx)
+ - 😝 [And if you trim the hedges, the deck looks bigger.](http://9gag.com/gag/abAnpz8)
+ - 💣 [Artemis re-entry from the ISS](http://9gag.com/gag/aNDEzr0)
+ - 😝 [This cute dog is banned from the couch, so the moment its owner leaves the house it races straight onto it \u2013 but instantly drops to the floor the second it hears footsteps approaching](http://9gag.com/gag/a2v6dQe)
+ - 👉 [Dad giving the best advice](http://9gag.com/gag/a6ZYMje)<!-- MEMES:END -->
 
 ---
 

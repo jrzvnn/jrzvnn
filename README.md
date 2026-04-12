@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Screen Time Maximalists Who Spend an Ungodly Amount of Time on Their Phones](https://www.wired.com/story/the-screenmaxxers-who-spend-every-waking-hour-on-their-phones/)
+ - [Mammotion Spino E1 Review: A Budget Pool Bot That Comes Up Short](https://www.wired.com/review/mammotion-spino-e1-pool-robot/)
  - [The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?](https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for April 12 #770](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-12-770/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 12, #1036](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-12-1036/)
- - [Today&#39;s Wordle Hints, Answer and Help for April 12, #1758](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-12-1758/)
- - [Today only: Grab AirPods Max USB-C for $399.95 &lpar;$150 off&rpar;](https://appleinsider.com/articles/26/04/12/today-only-grab-airpods-max-usb-c-for-39995-150-off?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 12, #1036](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-12-1036/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
- - 😝 [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - 😝 [Willie Stroker](http://9gag.com/gag/aByBW3N)
+ - 😝 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
  - 💣 [Who needs a duty-free chocolate when you can get a new Rolex](http://9gag.com/gag/adBD9q9)
- - 😝 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
- - 👉 [Times are changing](http://9gag.com/gag/a34Xq2N)<!-- MEMES:END -->
+ - 😝 [The 9gaggers files](http://9gag.com/gag/axyq0oD)
+ - 👉 [Nah\u2026](http://9gag.com/gag/an7PbgL)<!-- MEMES:END -->
 
 ---
 

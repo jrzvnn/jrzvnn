@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 2-in-1 Laptops &lpar;2026&rpar;: Microsoft, Lenovo, and the iPad](https://www.wired.com/story/best-2-in-1-laptops/)
- - [Flipkart and Amazon&#39;s quick commerce push in India is intensifying competition in an already crowded space where profitability remains under pressure &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260412/p4#a260412p4)
- - [There’s a Secret Ingredient to Making Luxury Ice at Home](https://www.wired.com/story/secret-ingredient-to-making-luxury-ice-at-home/)
- - [Allow me to explain why I love this camera that can’t shoot color](https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review)
- - [The Screen Time Maximalists Who Spend an Ungodly Amount of Time on Their Phones](https://www.wired.com/story/the-screenmaxxers-who-spend-every-waking-hour-on-their-phones/)<!-- TECH:END -->
+ - [Apple chiefs welcome Artemis II back to Earth after the best Shot on iPhone campaign ever](https://appleinsider.com/articles/26/04/12/apple-chiefs-welcome-artemis-ii-back-to-earth-after-the-best-shot-on-iphone-campaign-ever?utm_source=rss)
+ - [5G From the Sky: New Internet Infrastructure Takes Flight](https://www.cnet.com/home/internet/5g-from-the-sky-new-internet-infrastructure-takes-flight/)
+ - [I Think the RedMagic 11 Air&#39;s Best Feature Is Its Price for the Hardware](https://www.cnet.com/tech/mobile/i-think-the-redmagic-11-airs-best-feature-is-its-price-for-the-hardware/)
+ - [‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For](https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/)
+ - [Why Is It So Hard to Fix an Electric Bike? &lpar;2026&rpar;](https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

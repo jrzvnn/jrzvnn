@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who needs a duty-free chocolate when you can get a new Rolex](http://9gag.com/gag/adBD9q9)
- - 😝 [How Asparagus Is Harvested](http://9gag.com/gag/apRZpKb)
+ - 😝 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
+ - 😝 [Times are changing](http://9gag.com/gag/a34Xq2N)
  - 💣 [Willie Stroker](http://9gag.com/gag/aByBW3N)
- - 😝 [When Cyberpunk Meets Nature: The Beetle Edition](http://9gag.com/gag/aE0mBQM)
- - 👉 [Nah\u2026](http://9gag.com/gag/an7PbgL)<!-- MEMES:END -->
+ - 😝 [How Asparagus Is Harvested](http://9gag.com/gag/apRZpKb)
+ - 👉 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)<!-- MEMES:END -->
 
 ---
 

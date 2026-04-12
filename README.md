@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
+ - 😝 [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - 💣 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
  - 😝 [Times are changing](http://9gag.com/gag/a34Xq2N)
- - 😝 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
- - 💣 [Nah\u2026](http://9gag.com/gag/an7PbgL)
- - 😝 [Artemis re-entry from the ISS](http://9gag.com/gag/aNDEzr0)
- - 👉 [Willie Stroker](http://9gag.com/gag/aByBW3N)<!-- MEMES:END -->
+ - 👉 [Subhuman](http://9gag.com/gag/aAyzwPL)<!-- MEMES:END -->
 
 ---
 

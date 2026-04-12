@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Willie Stroker](http://9gag.com/gag/aByBW3N)
+ - 😝 [Who needs a duty-free chocolate when you can get a new Rolex](http://9gag.com/gag/adBD9q9)
  - 😝 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
- - 💣 [Who needs a duty-free chocolate when you can get a new Rolex](http://9gag.com/gag/adBD9q9)
- - 😝 [The 9gaggers files](http://9gag.com/gag/axyq0oD)
- - 👉 [Nah\u2026](http://9gag.com/gag/an7PbgL)<!-- MEMES:END -->
+ - 💣 [Subhuman](http://9gag.com/gag/aAyzwPL)
+ - 😝 [How Asparagus Is Harvested](http://9gag.com/gag/apRZpKb)
+ - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Police report: Sam Altman&#39;s home appears to have been targeted in a second attack after a gun appeared to have been fired at his home from a car early Sunday &lpar;Jonah Owen Lamb/The San Francisco ...&rpar;](http://www.techmeme.com/260412/p10#a260412p10)
  - [A look at the escalating global AI arms race, as the US, China, Russia, and others rush to build AI-backed autonomous weapons and defense systems &lpar;New York Times&rpar;](http://www.techmeme.com/260412/p9#a260412p9)
  - [A deep dive into the debate about Claude Mythos Preview, the model&#39;s capabilities, attempts to refute Anthropic&#39;s claims, and what it means for the future of AI &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/260412/p8#a260412p8)
  - [&#39;Marshals&#39; Release Schedule: When Episode 7 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-7-hits-paramount-plus/)
- - [Today&#39;s Wordle Hints, Answer and Help for April 13, #1759](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-13-1759/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 13, #1037](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-13-1037/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for April 13, #1759](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-13-1759/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

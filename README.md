@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A deep dive into the debate about Claude Mythos Preview, the model&#39;s capabilities, attempts to refute Anthropic&#39;s claims, and what it means for the future of AI &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/260412/p8#a260412p8)
- - [Room for the Moon is thrillingly weird experimental pop](https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop)
- - [Sunday Reboot: MacBook Neo upgrades, masses of Mac minis, and iPhone re-entry](https://appleinsider.com/articles/26/04/12/sunday-reboot-macbook-neo-upgrades-masses-of-mac-minis-and-iphone-re-entry?utm_source=rss)
- - [Apple Reportedly Testing Glasses AI in Several Frame Styles](https://www.cnet.com/news/apple-reportedly-testing-glasses-ai-in-several-frame-styles/)
- - [The Artemis II Moonshot Deserves Your Awe, and Your Closer Attention, Too](https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-pay-attention-commentary/)<!-- TECH:END -->
+ - [&#39;Marshals&#39; Release Schedule: When Episode 7 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-7-hits-paramount-plus/)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 13, #1759](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-13-1759/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 13, #1037](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-13-1037/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 13 #771](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-13-771/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

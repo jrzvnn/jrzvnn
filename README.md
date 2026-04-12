@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Willie Stroker](http://9gag.com/gag/aByBW3N)
- - 😝 [Took the shot](http://9gag.com/gag/aqyoL0M)
- - 💣 [I wish you good luck finding yours video from decades ago that made you nut instantly](http://9gag.com/gag/aLn7Dvv)
- - 😝 [When the Light Switch Takes You to Outer Space!](http://9gag.com/gag/azxp83K)
- - 👉 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)<!-- MEMES:END -->
+ - 😝 [Times are changing](http://9gag.com/gag/a34Xq2N)
+ - 😝 [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
+ - 😝 [When dad&#39;s trying to save a buck](http://9gag.com/gag/aPAbB2n)
+ - 👉 [Willie Stroker](http://9gag.com/gag/aByBW3N)<!-- MEMES:END -->
 
 ---
 

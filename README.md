@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the escalating global AI arms race, as the US, China, Russia, and others rush to build AI-backed autonomous weapons and defense systems &lpar;New York Times&rpar;](http://www.techmeme.com/260412/p9#a260412p9)
  - [A deep dive into the debate about Claude Mythos Preview, the model&#39;s capabilities, attempts to refute Anthropic&#39;s claims, and what it means for the future of AI &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/260412/p8#a260412p8)
  - [&#39;Marshals&#39; Release Schedule: When Episode 7 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-7-hits-paramount-plus/)
  - [Today&#39;s Wordle Hints, Answer and Help for April 13, #1759](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-13-1759/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 13, #1037](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-13-1037/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 13 #771](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-13-771/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 13, #1037](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-13-1037/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

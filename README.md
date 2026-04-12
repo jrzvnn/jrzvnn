@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peugeot: Never let them know your next move.](http://9gag.com/gag/aD2eWYx)
- - 😝 [From being 126.5kg &lpar;278.3lbs&rpar; to 80kg &lpar;176lbs&rpar;. At 176cm, BMI went from 40.84 to 25.82. Took longer than expected, but worth every minute. And no, no ozempic used, just intermittent fasting.](http://9gag.com/gag/avyKrAb)
- - 💣 [And if you trim the hedges, the deck looks bigger.](http://9gag.com/gag/abAnpz8)
- - 😝 [Dad giving the best advice](http://9gag.com/gag/a6ZYMje)
- - 👉 [This cute dog is banned from the couch, so the moment its owner leaves the house it races straight onto it \u2013 but instantly drops to the floor the second it hears footsteps approaching](http://9gag.com/gag/a2v6dQe)<!-- MEMES:END -->
+ - 😝 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
+ - 😝 [Subhuman](http://9gag.com/gag/aAyzwPL)
+ - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
+ - 😝 [House Full of Girls](http://9gag.com/gag/aAyzDP0)
+ - 👉 [Nah\u2026](http://9gag.com/gag/an7PbgL)<!-- MEMES:END -->
 
 ---
 

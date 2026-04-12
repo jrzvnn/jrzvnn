@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Room for the Moon is thrillingly weird experimental pop](https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop)
+ - [Sunday Reboot: MacBook Neo upgrades, masses of Mac minis, and iPhone re-entry](https://appleinsider.com/articles/26/04/12/sunday-reboot-macbook-neo-upgrades-masses-of-mac-minis-and-iphone-re-entry?utm_source=rss)
  - [As weather betting grows on prediction markets, climate experts are debating whether it improves forecasts by aggregating knowledge or is simply a zero-sum game &lpar;Bloomberg&rpar;](http://www.techmeme.com/260412/p7#a260412p7)
  - [Rockstar Games says hack will have ‘no impact’](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact)
- - [&#39;Euphoria&#39; Season 3: How to Watch the Premiere Episode](https://www.cnet.com/tech/services-and-software/euphoria-season-3-how-to-watch-the-premiere-episode/)
- - [Sources: UK regulators plan to warn banks, insurers, and exchanges about security risks exposed by Claude Mythos Preview at a meeting within the next two weeks &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/260412/p6#a260412p6)
- - [You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale)<!-- TECH:END -->
+ - [&#39;Euphoria&#39; Season 3: How to Watch the Premiere Episode](https://www.cnet.com/tech/services-and-software/euphoria-season-3-how-to-watch-the-premiere-episode/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

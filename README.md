@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today only: Grab AirPods Max USB-C for $399.95 &lpar;$150 off&rpar;](https://appleinsider.com/articles/26/04/12/today-only-grab-airpods-max-usb-c-for-39995-150-off?utm_source=rss)
+ - [A journalist recounts how he used ChatGPT to develop a fitness plan to prepare for the Paris Marathon, resulting in a 20-pound weight loss and faster race times &lpar;Derek Wallbank/Bloomberg&rpar;](http://www.techmeme.com/260412/p3#a260412p3)
  - [The Linux Kernel Organization now lets developers submit AI-generated code, as long as it complies with the guidelines, licensing, and attribution requirements &lpar;Simon Batt/XDA Developers&rpar;](http://www.techmeme.com/260412/p2#a260412p2)
  - [Analysts and researchers say Google&#39;s TurboQuant compression algorithm to make LLMs more efficient is more likely to expand memory chip demand than reduce it &lpar;Daniel Tudor/Financial Times&rpar;](http://www.techmeme.com/260412/p1#a260412p1)
- - [Takeaways from HumanX, one of the AI industry&#39;s main events: Claude Code dominated the conversation, while some execs noted China&#39;s lead in open-weight models &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260411/p14#a260411p14)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-12/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 12, #566](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-12-566/)<!-- TECH:END -->
+ - [Takeaways from HumanX, one of the AI industry&#39;s main events: Claude Code dominated the conversation, while some execs noted China&#39;s lead in open-weight models &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260411/p14#a260411p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

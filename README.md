@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today only: Grab AirPods Max USB-C for $399.95 &lpar;$150 off&rpar;](https://appleinsider.com/articles/26/04/12/today-only-grab-airpods-max-usb-c-for-39995-150-off?utm_source=rss)
- - [A journalist recounts how he used ChatGPT to develop a fitness plan to prepare for the Paris Marathon, resulting in a 20-pound weight loss and faster race times &lpar;Derek Wallbank/Bloomberg&rpar;](http://www.techmeme.com/260412/p3#a260412p3)
- - [The Linux Kernel Organization now lets developers submit AI-generated code, as long as it complies with the guidelines, licensing, and attribution requirements &lpar;Simon Batt/XDA Developers&rpar;](http://www.techmeme.com/260412/p2#a260412p2)
- - [Analysts and researchers say Google&#39;s TurboQuant compression algorithm to make LLMs more efficient is more likely to expand memory chip demand than reduce it &lpar;Daniel Tudor/Financial Times&rpar;](http://www.techmeme.com/260412/p1#a260412p1)
- - [Takeaways from HumanX, one of the AI industry&#39;s main events: Claude Code dominated the conversation, while some execs noted China&#39;s lead in open-weight models &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260411/p14#a260411p14)<!-- TECH:END -->
+ - [The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?](https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 12 #770](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-12-770/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 12, #1036](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-12-1036/)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 12, #1758](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-12-1758/)
+ - [Today only: Grab AirPods Max USB-C for $399.95 &lpar;$150 off&rpar;](https://appleinsider.com/articles/26/04/12/today-only-grab-airpods-max-usb-c-for-39995-150-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

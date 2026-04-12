@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Screen Time Maximalists Who Spend an Ungodly Amount of Time on Their Phones](https://www.wired.com/story/the-screenmaxxers-who-spend-every-waking-hour-on-their-phones/)
- - [Mammotion Spino E1 Review: A Budget Pool Bot That Comes Up Short](https://www.wired.com/review/mammotion-spino-e1-pool-robot/)
- - [The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?](https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 12 #770](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-12-770/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 12, #1036](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-12-1036/)<!-- TECH:END -->
+ - [Best 2-in-1 Laptops &lpar;2026&rpar;: Microsoft, Lenovo, and the iPad](https://www.wired.com/story/best-2-in-1-laptops/)
+ - [Flipkart and Amazon&#39;s quick commerce push in India is intensifying competition in an already crowded space where profitability remains under pressure &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260412/p4#a260412p4)
+ - [There’s a Secret Ingredient to Making Luxury Ice at Home](https://www.wired.com/story/secret-ingredient-to-making-luxury-ice-at-home/)
+ - [Allow me to explain why I love this camera that can’t shoot color](https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review)
+ - [The Screen Time Maximalists Who Spend an Ungodly Amount of Time on Their Phones](https://www.wired.com/story/the-screenmaxxers-who-spend-every-waking-hour-on-their-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

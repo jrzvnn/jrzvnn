@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
- - 😝 [Nah\u2026](http://9gag.com/gag/an7PbgL)
- - 💣 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
- - 😝 [Times are changing](http://9gag.com/gag/a34Xq2N)
- - 👉 [Subhuman](http://9gag.com/gag/aAyzwPL)<!-- MEMES:END -->
+ - 😝 [Peugeot: Never let them know your next move.](http://9gag.com/gag/aD2eWYx)
+ - 😝 [From being 126.5kg &lpar;278.3lbs&rpar; to 80kg &lpar;176lbs&rpar;. At 176cm, BMI went from 40.84 to 25.82. Took longer than expected, but worth every minute. And no, no ozempic used, just intermittent fasting.](http://9gag.com/gag/avyKrAb)
+ - 💣 [And if you trim the hedges, the deck looks bigger.](http://9gag.com/gag/abAnpz8)
+ - 😝 [Dad giving the best advice](http://9gag.com/gag/a6ZYMje)
+ - 👉 [This cute dog is banned from the couch, so the moment its owner leaves the house it races straight onto it \u2013 but instantly drops to the floor the second it hears footsteps approaching](http://9gag.com/gag/a2v6dQe)<!-- MEMES:END -->
 
 ---
 

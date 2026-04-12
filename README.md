@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Times are changing](http://9gag.com/gag/a34Xq2N)
- - 😝 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
- - 💣 [Subhuman](http://9gag.com/gag/aAyzwPL)
- - 😝 [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)
- - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
+ - 😝 [And if you trim the hedges, the deck looks bigger.](http://9gag.com/gag/abAnpz8)
+ - 😝 [This cute dog is banned from the couch, so the moment its owner leaves the house it races straight onto it \u2013 but instantly drops to the floor the second it hears footsteps approaching](http://9gag.com/gag/a2v6dQe)
+ - 💣 [Dad giving the best advice](http://9gag.com/gag/a6ZYMje)
+ - 😝 [If you plan on committing tons of traffic violations, I have news for you](http://9gag.com/gag/apRZpOD)
+ - 👉 [Ninja dining in Japan, pretty impressive](http://9gag.com/gag/aMVM89A)<!-- MEMES:END -->
 
 ---
 

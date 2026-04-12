@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eight years later, Apple quietly shuts the door on AI chief John Giannandrea](https://appleinsider.com/articles/26/04/12/eight-years-later-apple-quietly-shuts-the-door-on-ai-chief-john-giannandrea?utm_source=rss)
+ - [You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale)
  - [Apple&#39;s future smart glasses plan is just part of a larger computer vision play](https://appleinsider.com/articles/26/04/12/apples-future-smart-glasses-plan-is-just-part-of-a-larger-computer-vision-play?utm_source=rss)
+ - [Eight years later, Apple quietly shuts the door on AI chief John Giannandrea](https://appleinsider.com/articles/26/04/12/eight-years-later-apple-quietly-shuts-the-door-on-ai-chief-john-giannandrea?utm_source=rss)
  - [Sources: Apple is testing four AI glasses designs with rectangular and oval frames, multiple colors, and a camera system with vertically oriented oval lenses &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260412/p5#a260412p5)
- - [You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99](https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale)
- - [Samsung Galaxy S26 vs. Google Pixel 10: How Each Flagship Phone Compares](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-google-pixel-10-compared/)<!-- TECH:END -->
+ - [You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99](https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

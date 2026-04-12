@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Times are changing](http://9gag.com/gag/a34Xq2N)
- - 😝 [Nah\u2026](http://9gag.com/gag/an7PbgL)
- - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 😝 [When dad&#39;s trying to save a buck](http://9gag.com/gag/aPAbB2n)
+ - 😝 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
+ - 💣 [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - 😝 [Artemis re-entry from the ISS](http://9gag.com/gag/aNDEzr0)
  - 👉 [Willie Stroker](http://9gag.com/gag/aByBW3N)<!-- MEMES:END -->
 
 ---

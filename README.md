@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
- - 😝 [Subhuman](http://9gag.com/gag/aAyzwPL)
- - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 😝 [House Full of Girls](http://9gag.com/gag/aAyzDP0)
- - 👉 [Nah\u2026](http://9gag.com/gag/an7PbgL)<!-- MEMES:END -->
+ - 😝 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
+ - 😝 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
+ - 💣 [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - 😝 [When Your Gaming World Comes to Life](http://9gag.com/gag/aAyzdXp)
+ - 👉 [Willie Stroker](http://9gag.com/gag/aByBW3N)<!-- MEMES:END -->
 
 ---
 

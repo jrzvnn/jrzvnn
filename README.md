@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 😝 [Enough internet for the weekend](http://9gag.com/gag/a1m3db6)
- - 💣 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
  - 😝 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
- - 👉 [Nah\u2026](http://9gag.com/gag/an7PbgL)<!-- MEMES:END -->
+ - 😝 [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - 💣 [Who needs a duty-free chocolate when you can get a new Rolex](http://9gag.com/gag/adBD9q9)
+ - 😝 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
+ - 👉 [Times are changing](http://9gag.com/gag/a34Xq2N)<!-- MEMES:END -->
 
 ---
 

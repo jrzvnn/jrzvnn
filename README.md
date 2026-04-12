@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Hisense UR9 is a great first shot against OLED’s bow](https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review)
+ - [How AT&amp;#038;T created the most iconic phone ever](https://www.theverge.com/podcast/910725/western-electric-500-att-version-history)
  - [Apple chiefs welcome Artemis II back to Earth after the best Shot on iPhone campaign ever](https://appleinsider.com/articles/26/04/12/apple-chiefs-welcome-artemis-ii-back-to-earth-after-the-best-shot-on-iphone-campaign-ever?utm_source=rss)
  - [5G From the Sky: New Internet Infrastructure Takes Flight](https://www.cnet.com/home/internet/5g-from-the-sky-new-internet-infrastructure-takes-flight/)
- - [I Think the RedMagic 11 Air&#39;s Best Feature Is Its Price for the Hardware](https://www.cnet.com/tech/mobile/i-think-the-redmagic-11-airs-best-feature-is-its-price-for-the-hardware/)
- - [‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For](https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/)
- - [Why Is It So Hard to Fix an Electric Bike? &lpar;2026&rpar;](https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike/)<!-- TECH:END -->
+ - [I Think the RedMagic 11 Air&#39;s Best Feature Is Its Price for the Hardware](https://www.cnet.com/tech/mobile/i-think-the-redmagic-11-airs-best-feature-is-its-price-for-the-hardware/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
- - 😝 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
- - 💣 [Matt Damon&#39;s real-life rom-com](http://9gag.com/gag/aZZOpwn)
- - 😝 [Peak childhood right here](http://9gag.com/gag/aZZOm5V)
- - 👉 [Willie Stroker](http://9gag.com/gag/aByBW3N)<!-- MEMES:END -->
+ - 😝 [Willie Stroker](http://9gag.com/gag/aByBW3N)
+ - 😝 [Took the shot](http://9gag.com/gag/aqyoL0M)
+ - 💣 [I wish you good luck finding yours video from decades ago that made you nut instantly](http://9gag.com/gag/aLn7Dvv)
+ - 😝 [When the Light Switch Takes You to Outer Space!](http://9gag.com/gag/azxp83K)
+ - 👉 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Manbun hero](http://9gag.com/gag/aKGojzQ)
  - 😝 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 💣 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
  - 😝 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
- - 💣 [Meanwhile she won&#39;t date a man under 6ft or makes less than six figures](http://9gag.com/gag/aqyobep)
- - 😝 [Tiny Ship&#39;s Big Dreams: Conquering Roads](http://9gag.com/gag/aZZO3QV)
- - 👉 [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)<!-- MEMES:END -->
+ - 👉 [Times are changing](http://9gag.com/gag/a34Xq2N)<!-- MEMES:END -->
 
 ---
 

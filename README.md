@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can finally rest](http://9gag.com/gag/a1m3o0v)
- - 😝 [Men. The tolerant creatures that we are.](http://9gag.com/gag/a6ZYoyR)
- - 💣 [Words of Wisdom #25](http://9gag.com/gag/aE0mxy9)
- - 😝 [Great idea, just make sure it&#39;s the LAST thing on the list.](http://9gag.com/gag/aD2exOB)
- - 👉 [Every... Single... Time.](http://9gag.com/gag/aByB8MZ)<!-- MEMES:END -->
+ - 😝 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
+ - 😝 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
+ - 💣 [In case you ever wondered, this is what&#39;s left of Senegal&#39;s $6bn Wakanda project](http://9gag.com/gag/agmzYjx)
+ - 😝 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 👉 [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shenzhen-listed server PCB maker Victory Giant plans an April 21 Hong Kong listing, aiming to raise as much as $2.2B; the company was valued at $37B on April 10 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260413/p1#a260413p1)
- - [Sources: the US FTC is in settlement talks with ad companies to end an antitrust probe into their alleged coordinated boycotts against sites like Elon Musk&#39;s X &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260412/p13#a260412p13)
- - [Sources: the US&#39; AI chip export push risks being undermined by licensing bottlenecks, staff attrition, and unclear policy at the Bureau of Industry and Security &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/260412/p12#a260412p12)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 13, #567](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-13-567/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, April 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-13/)<!-- TECH:END -->
+ - [Sources: SoftBank, Sony, Honda, and six other Japanese companies launch a new AI company to develop a 1T-parameter foundation model for &quot;physical AI&quot; by 2030 &lpar;Natsuki Yamamoto/Nikkei Asia&rpar;](http://www.techmeme.com/260413/p5#a260413p5)
+ - [Sources: Meta is building photorealistic, AI-powered 3D characters; Zuckerberg helped train and test an AI version of himself that offers feedback to employees &lpar;Financial Times&rpar;](http://www.techmeme.com/260413/p4#a260413p4)
+ - [Analysis: US state lawmakers introduced 12 data center moratorium bills in 2026, 11 stalled or voted out, with a Maine bill set for a final vote on April 15 &lpar;Ellen Thomas/Business Insider&rpar;](http://www.techmeme.com/260413/p3#a260413p3)
+ - [Ornn Compute Price Index: Nvidia Blackwell GPU hourly rent hit $4.08, up 48% from $2.75 two months ago, driven by agentic AI demand &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260413/p2#a260413p2)
+ - [Shenzhen-listed server PCB maker Victory Giant plans an April 21 Hong Kong listing, aiming to raise as much as $2.2B; the company was valued at $37B on April 10 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260413/p1#a260413p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

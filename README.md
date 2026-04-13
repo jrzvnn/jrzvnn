@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [For the first time, 50% of employed US adults say they use AI at work a few times per year or more; leaders are more likely to see AI&#39;s impact as positive &lpar;Andy Kemp/Gallup&rpar;](http://www.techmeme.com/260413/p8#a260413p8)
- - [Huawei beats Apple and Samsung with new wide foldable](https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china)
- - [A profile of the Biological Computing Company, which uses living neurons to build AI chips and algorithms, and emerged from stealth in February with a $25M seed &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260413/p7#a260413p7)
- - [Law firms say lawyers are spending more time responding to swaths of AI-generated client documents, potentially leading firms to raise fixed-fee contract prices &lpar;Elizabeth Bratton/Financial Times&rpar;](http://www.techmeme.com/260413/p6#a260413p6)
- - [Surfshark Just Dropped a Next-Gen VPN Protocol That Could Be Faster and More Secure Than Other VPN Connections](https://www.cnet.com/tech/services-and-software/surfshark-just-dropped-next-gen-dausos-vpn-protocol/)<!-- TECH:END -->
+ - [A verified @elonmusk TikTok account posted its first video, promoting SpaceX and Tesla and hitting 2M+ views; a verified Instagram account is yet to post &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/260413/p11#a260413p11)
+ - [AI Agents Are Coming for Your Dating Life](https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/)
+ - [OpenAI plans to open its first permanent London office with a 500+ staff capacity; in February, OpenAI said it would make London its largest non-US research hub &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260413/p10#a260413p10)
+ - [Sam Altman reportedly targeted in second attack](https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting)
+ - [The Trump family&#39;s World Liberty Financial faces an investor revolt; Justin Sun accuses WLFI of building a &quot;backdoor&quot; that could be used to blacklist investors &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260413/p9#a260413p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

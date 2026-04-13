@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
- - 😝 [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 💣 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
+ - 😝 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
+ - 😝 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
+ - 💣 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
  - 😝 [Tiny Ship&#39;s Big Dreams: Conquering Roads](http://9gag.com/gag/aZZO3QV)
- - 👉 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)<!-- MEMES:END -->
+ - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
 
 ---
 

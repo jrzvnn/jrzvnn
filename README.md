@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: data labeling startup Handshake&#39;s gross annualized revenue hit ~$1B, vs. $550M in January; Mercor hit a $1B+ gross annualized revenue pace this year &lpar;The Information&rpar;](http://www.techmeme.com/260413/p31#a260413p31)
+ - [AI penetration testing company CodeWall says its agent was able to hack into one of Bain&#39;s internal AI tools, following a similar hack at McKinsey &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/260413/p30#a260413p30)
+ - [Disappearing Macs? Global RAM Supply Crisis Likely Hits Apple](https://www.cnet.com/tech/computing/disappearing-macs-global-ram-crisis-likely-hits-apple/)
  - [The Mercedes EQS returns with massive range and charging gains](https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027)
- - [Roblox says developers will need Roblox Plus, a new $4.99-per-month subscription offering benefits like discounts, to publish games for Kids and Select accounts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260413/p29#a260413p29)
- - [iPhone Fold limbo: both delayed &amp; still coming in 2026](https://appleinsider.com/articles/26/04/13/iphone-fold-limbo-both-delayed-still-coming-in-2026?utm_source=rss)
- - [The Feds Took Down a &#39;Full-Service Cybercrime Platform&#39; Behind $20M in Phishing](https://www.cnet.com/tech/services-and-software/fbi-w3ll-phishing-platform/)
- - [Microsoft raises prices for Surface PCs, with Laptop 7 and Pro 11 now $500 more expensive than at their 2024 launch, citing higher memory and component costs &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260413/p28#a260413p28)<!-- TECH:END -->
+ - [&#39;Daredevil: Born Again&#39; Season 2: When to Stream Episode 5 on Disney Plus](https://www.cnet.com/tech/services-and-software/marvel-daredevil-born-again-season-2-episode-release-schedule/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

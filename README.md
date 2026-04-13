@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 😝 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - 💣 [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 😝 [Words of Wisdom #25](http://9gag.com/gag/aE0mxy9)
+ - 😝 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 😝 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
+ - 💣 [Meanwhile she won&#39;t date a man under 6ft or makes less than six figures](http://9gag.com/gag/aqyobep)
+ - 😝 [Tiny Ship&#39;s Big Dreams: Conquering Roads](http://9gag.com/gag/aZZO3QV)
  - 👉 [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)<!-- MEMES:END -->
 
 ---

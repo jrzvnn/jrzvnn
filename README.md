@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 4 Best Water Filter Pitchers &lpar;2026&rpar;: PFAS, Microplastics](https://www.wired.com/story/best-water-filter-pitchers/)
- - [Apple Maps did not erase Lebanon towns during Israeli attacks, insists Apple](https://appleinsider.com/articles/26/04/13/apple-maps-did-not-erase-lebanon-towns-during-israeli-attacks-insists-apple?utm_source=rss)
- - [The Internet&#39;s Most Powerful Archiving Tool Is in Peril](https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/)
- - [Did Neuralink make the wrong bet?](https://www.theverge.com/tech/910834/neuralink-bcis-bet)
- - [Amazon quietly expands Amazon Autos to offer cars from Kia, Mazda, Subaru, Chevrolet, and Jeep, after launching with Hyundai; the service is in 130+ US cities &lpar;Sean McLain/Wall Street Journal&rpar;](http://www.techmeme.com/260413/p13#a260413p13)<!-- TECH:END -->
+ - [Roblox unveils Kids accounts for ages 5-8 and Select accounts for ages 9-15, with age verification, coming in June; games for both must pass a three-step review &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260413/p15#a260413p15)
+ - [Joyously arty App Store animations joins Finder Guy in Apple&#39;s new social media push](https://appleinsider.com/articles/26/04/13/joyously-arty-app-store-animations-joins-finder-guy-in-apples-new-social-media-push?utm_source=rss)
+ - [Roblox will need age verification to make sure you’re at least 9 years old](https://www.theverge.com/games/910218/roblox-age-verification-check-games-kids-select-accounts)
+ - [Roblox has games again](https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-connections)
+ - [Originality AI: 23 major news websites and Reddit block the Internet Archive&#39;s crawler; journalists and advocacy groups sign a letter supporting the Archive &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260413/p14#a260413p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Watch Series 11 has returned to best-ever price](https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale)
+ - [Anthropic says its $20M donation to Public First Action can&#39;t be &quot;used to influence federal elections&quot; and is to educate the public on AI policy &lpar;Veronica Irwin/Transformer&rpar;](http://www.techmeme.com/260413/p26#a260413p26)
+ - [Internal memo: Microsoft&#39;s gaming chief Asha Sharma says &quot;Game Pass has become too expensive for players&quot; and that Microsoft needs &quot;a better value equation&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260413/p25#a260413p25)
  - [Amazon Leo unveils the Aviation Antenna, saying it can deliver up to 1 Gbps download and 400 Mbps upload speeds for in-flight Wi-Fi &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260413/p24#a260413p24)
- - [Xbox Game Pass &amp;#8216;has become too expensive,’ says Microsoft&amp;#8217;s new gaming chief in leaked memo](https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo)
- - [Testing of second iOS 26.5, macOS 26.5 developer beta builds now underway](https://appleinsider.com/articles/26/04/13/testing-of-second-ios-265-macos-265-developer-beta-builds-now-underway?utm_source=rss)
- - [Staunch Trump Supporters Are Now Asking If He&#39;s the Antichrist](https://www.wired.com/story/staunch-trump-supporters-are-now-asking-if-hes-the-antichrist/)
- - [Old iWork apps are now gone, Creator Studio iWork apps are still free](https://appleinsider.com/articles/26/04/13/old-iwork-apps-are-now-gone-creator-studio-iwork-apps-are-still-free?utm_source=rss)<!-- TECH:END -->
+ - [Xbox Game Pass &amp;#8216;has become too expensive,’ says Microsoft’s new gaming chief in leaked memo](https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

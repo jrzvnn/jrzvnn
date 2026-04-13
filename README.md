@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI influencers are ‘everywhere’ at Coachella](https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella)
- - [Apple Maps ads inch closer to release with iOS 26.5 beta 2](https://appleinsider.com/articles/26/04/13/apple-maps-ads-inch-closer-to-release-with-ios-265-beta-2?utm_source=rss)
- - [The Apple Watch Series 11 has returned to best-ever price](https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale)
- - [Anthropic says its $20M donation to Public First Action can&#39;t be &quot;used to influence federal elections&quot; and is to educate the public on AI policy &lpar;Veronica Irwin/Transformer&rpar;](http://www.techmeme.com/260413/p26#a260413p26)
- - [Internal memo: Microsoft&#39;s gaming chief Asha Sharma says &quot;Game Pass has become too expensive for players&quot; and that Microsoft needs &quot;a better value equation&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260413/p25#a260413p25)<!-- TECH:END -->
+ - [iOS 26 boarding passes now available for American Airlines flights](https://appleinsider.com/articles/26/04/13/ios-26-boarding-passes-now-available-for-american-airlines-flights?utm_source=rss)
+ - [RAMageddon has come for Microsoft&amp;#8217;s Surface Pro and Surface Laptop](https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram)
+ - [What’s in Hasan Piker’s Starter Pack? Creatine, Zyns, Signal](https://www.wired.com/story/hasan-pikers-starter-pack/)
+ - [Marine Animals in the Strait of Hormuz Don’t Get a Ceasefire](https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire/)
+ - [Filing: Anthropic hired Ballard Partners, a lobbying firm with strong ties to Trump administration, days after DOD designated the company a supply chain risk &lpar;Bloomberg&rpar;](http://www.techmeme.com/260413/p27#a260413p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)
- - 😝 [Konnichiwa.](http://9gag.com/gag/a1m3KpY)
- - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 😝 [How Asparagus Is Harvested](http://9gag.com/gag/apRZpKb)
- - 👉 [I wish you good luck finding yours video from decades ago that made you nut instantly](http://9gag.com/gag/aLn7Dvv)<!-- MEMES:END -->
+ - 😝 [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 😝 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
+ - 💣 [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)
+ - 😝 [Tiny Ship&#39;s Big Dreams: Conquering Roads](http://9gag.com/gag/aZZO3QV)
+ - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
 
 ---
 

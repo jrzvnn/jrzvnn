@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Police report: Sam Altman&#39;s home appears to have been targeted in a second attack after a gun appeared to have been fired at his home from a car early Sunday &lpar;Jonah Owen Lamb/The San Francisco ...&rpar;](http://www.techmeme.com/260412/p10#a260412p10)
- - [A look at the escalating global AI arms race, as the US, China, Russia, and others rush to build AI-backed autonomous weapons and defense systems &lpar;New York Times&rpar;](http://www.techmeme.com/260412/p9#a260412p9)
- - [A deep dive into the debate about Claude Mythos Preview, the model&#39;s capabilities, attempts to refute Anthropic&#39;s claims, and what it means for the future of AI &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/260412/p8#a260412p8)
- - [&#39;Marshals&#39; Release Schedule: When Episode 7 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-7-hits-paramount-plus/)
- - [Today&#39;s Wordle Hints, Answer and Help for April 13, #1759](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-13-1759/)<!-- TECH:END -->
+ - [Shenzhen-listed server PCB maker Victory Giant plans an April 21 Hong Kong listing, aiming to raise as much as $2.2B; the company was valued at $37B on April 10 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260413/p1#a260413p1)
+ - [Sources: the US FTC is in settlement talks with ad companies to end an antitrust probe into their alleged coordinated boycotts against sites like Elon Musk&#39;s X &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260412/p13#a260412p13)
+ - [Sources: the US&#39; AI chip export push risks being undermined by licensing bottlenecks, staff attrition, and unclear policy at the Bureau of Industry and Security &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/260412/p12#a260412p12)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 13, #567](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-13-567/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, April 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-13/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

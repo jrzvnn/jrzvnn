@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
- - 😝 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - 💣 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
- - 😝 [Tiny Ship&#39;s Big Dreams: Conquering Roads](http://9gag.com/gag/aZZO3QV)
+ - 😝 [Words of Wisdom #25](http://9gag.com/gag/aE0mxy9)
+ - 😝 [Men. The tolerant creatures that we are.](http://9gag.com/gag/a6ZYoyR)
+ - 💣 [Great idea, just make sure it&#39;s the LAST thing on the list.](http://9gag.com/gag/aD2exOB)
+ - 😝 [Every... Single... Time.](http://9gag.com/gag/aByB8MZ)
  - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
 
 ---

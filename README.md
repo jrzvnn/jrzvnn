@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 😝 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
- - 💣 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - 😝 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
+ - 😝 [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)
+ - 😝 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
+ - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 😝 [On April 13, 2014, a group russian mercenaries &amp; some russified locals planned to stage an anti-maidan uprising in Zaporizhzhia, but the Ukrainian population surrounded &amp; egged them. They were finally rescued by the police before the `Right Sector` guys lynched them.](http://9gag.com/gag/aqyo7qZ)
  - 👉 [Times are changing](http://9gag.com/gag/a34Xq2N)<!-- MEMES:END -->
 
 ---

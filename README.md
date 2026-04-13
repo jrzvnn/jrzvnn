@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Willie Stroker](http://9gag.com/gag/aByBW3N)
- - 😝 [Nah\u2026](http://9gag.com/gag/an7PbgL)
- - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
- - 😝 [Orban is out.](http://9gag.com/gag/aqyo1PY)
- - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
+ - 😝 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
+ - 😝 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
+ - 💣 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
+ - 😝 [Threads](http://9gag.com/gag/an7Pj85)
+ - 👉 [Would you drink this for $100000](http://9gag.com/gag/aD2eWRw)<!-- MEMES:END -->
 
 ---
 

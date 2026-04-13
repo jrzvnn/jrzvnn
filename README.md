@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A verified @elonmusk TikTok account posted its first video, promoting SpaceX and Tesla and hitting 2M+ views; a verified Instagram account is yet to post &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/260413/p11#a260413p11)
- - [AI Agents Are Coming for Your Dating Life](https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/)
- - [OpenAI plans to open its first permanent London office with a 500+ staff capacity; in February, OpenAI said it would make London its largest non-US research hub &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260413/p10#a260413p10)
- - [Sam Altman reportedly targeted in second attack](https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting)
- - [The Trump family&#39;s World Liberty Financial faces an investor revolt; Justin Sun accuses WLFI of building a &quot;backdoor&quot; that could be used to blacklist investors &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260413/p9#a260413p9)<!-- TECH:END -->
+ - [The 4 Best Water Filter Pitchers &lpar;2026&rpar;: PFAS, Microplastics](https://www.wired.com/story/best-water-filter-pitchers/)
+ - [Apple Maps did not erase Lebanon towns during Israeli attacks, insists Apple](https://appleinsider.com/articles/26/04/13/apple-maps-did-not-erase-lebanon-towns-during-israeli-attacks-insists-apple?utm_source=rss)
+ - [The Internet&#39;s Most Powerful Archiving Tool Is in Peril](https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/)
+ - [Did Neuralink make the wrong bet?](https://www.theverge.com/tech/910834/neuralink-bcis-bet)
+ - [Amazon quietly expands Amazon Autos to offer cars from Kia, Mazda, Subaru, Chevrolet, and Jeep, after launching with Hyundai; the service is in 130+ US cities &lpar;Sean McLain/Wall Street Journal&rpar;](http://www.techmeme.com/260413/p13#a260413p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

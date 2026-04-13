@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26 boarding passes now available for American Airlines flights](https://appleinsider.com/articles/26/04/13/ios-26-boarding-passes-now-available-for-american-airlines-flights?utm_source=rss)
- - [RAMageddon has come for Microsoft&amp;#8217;s Surface Pro and Surface Laptop](https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram)
- - [What’s in Hasan Piker’s Starter Pack? Creatine, Zyns, Signal](https://www.wired.com/story/hasan-pikers-starter-pack/)
- - [Marine Animals in the Strait of Hormuz Don’t Get a Ceasefire](https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire/)
- - [Filing: Anthropic hired Ballard Partners, a lobbying firm with strong ties to Trump administration, days after DOD designated the company a supply chain risk &lpar;Bloomberg&rpar;](http://www.techmeme.com/260413/p27#a260413p27)<!-- TECH:END -->
+ - [Roblox says developers will need Roblox Plus, a new $4.99-per-month subscription offering benefits like discounts, to publish games for Kids and Select accounts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260413/p29#a260413p29)
+ - [iPhone Fold limbo: both delayed &amp; still coming in 2026](https://appleinsider.com/articles/26/04/13/iphone-fold-limbo-both-delayed-still-coming-in-2026?utm_source=rss)
+ - [The Feds Took Down a &#39;Full-Service Cybercrime Platform&#39; Behind $20M in Phishing](https://www.cnet.com/tech/services-and-software/fbi-w3ll-phishing-platform/)
+ - [Microsoft raises prices for Surface PCs, with Laptop 7 and Pro 11 now $500 more expensive than at their 2024 launch, citing higher memory and component costs &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260413/p28#a260413p28)
+ - [Justin Bieber&amp;#8217;s YouTube Coachella set had nothing to do with who owns his music](https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

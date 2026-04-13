@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
- - 😝 [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 😝 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - 👉 [Times are changing](http://9gag.com/gag/a34Xq2N)<!-- MEMES:END -->
+ - 😝 [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - 😝 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
+ - 💣 [Times are changing](http://9gag.com/gag/a34Xq2N)
+ - 😝 [Tiny Ship&#39;s Big Dreams: Conquering Roads](http://9gag.com/gag/aZZO3QV)
+ - 👉 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)<!-- MEMES:END -->
 
 ---
 

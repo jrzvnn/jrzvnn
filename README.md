@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox unveils Kids accounts for ages 5-8 and Select accounts for ages 9-15, with age verification, coming in June; games for both must pass a three-step review &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260413/p15#a260413p15)
- - [Joyously arty App Store animations joins Finder Guy in Apple&#39;s new social media push](https://appleinsider.com/articles/26/04/13/joyously-arty-app-store-animations-joins-finder-guy-in-apples-new-social-media-push?utm_source=rss)
- - [Roblox will need age verification to make sure you’re at least 9 years old](https://www.theverge.com/games/910218/roblox-age-verification-check-games-kids-select-accounts)
- - [Roblox has games again](https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-connections)
- - [Originality AI: 23 major news websites and Reddit block the Internet Archive&#39;s crawler; journalists and advocacy groups sign a letter supporting the Archive &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260413/p14#a260413p14)<!-- TECH:END -->
+ - [You Need to Be More Freaked Out by Shingles](https://www.wired.com/story/shingles-is-a-bigger-deal-than-you-think/)
+ - [SwitchBot’s button-pressing robot is now available with a rechargeable battery](https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c)
+ - [Can Puck reinvent the news business for the influencer age?](https://www.theverge.com/podcast/910443/can-puck-reinvent-the-news-business-for-the-influencer-age)
+ - [BYD&#39;s Fastest-Charging Car in the World Is Astonishing—in Good and Bad Ways](https://www.wired.com/story/byd-denza-z9-gt-fastest-charging-car-in-the-world/)
+ - [Stanford HAI 2026 AI Index Report: AI capability is accelerating, not plateauing, the US-China gap closed, the US leads in data centers and investment, and more &lpar;Stanford HAI&rpar;](http://www.techmeme.com/260413/p19#a260413p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you plan on committing tons of traffic violations, I have news for you](http://9gag.com/gag/apRZpOD)
- - 😝 [Hayley](http://9gag.com/gag/ary7bdK)
- - 💣 [YouTuber jerryrigeverything started a wheelchair factory, delivering wheelchairs at 50% to 80% less than others with insurance.](http://9gag.com/gag/avyKOLW)
- - 😝 [Sorry for bad quality](http://9gag.com/gag/an7Pj7V)
- - 👉 [Every... Single... Time.](http://9gag.com/gag/aByB8MZ)<!-- MEMES:END -->
+ - 😝 [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)
+ - 😝 [Konnichiwa.](http://9gag.com/gag/a1m3KpY)
+ - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
+ - 😝 [How Asparagus Is Harvested](http://9gag.com/gag/apRZpKb)
+ - 👉 [I wish you good luck finding yours video from decades ago that made you nut instantly](http://9gag.com/gag/aLn7Dvv)<!-- MEMES:END -->
 
 ---
 

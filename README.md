@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You Need to Be More Freaked Out by Shingles](https://www.wired.com/story/shingles-is-a-bigger-deal-than-you-think/)
- - [SwitchBot’s button-pressing robot is now available with a rechargeable battery](https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c)
- - [Can Puck reinvent the news business for the influencer age?](https://www.theverge.com/podcast/910443/can-puck-reinvent-the-news-business-for-the-influencer-age)
- - [BYD&#39;s Fastest-Charging Car in the World Is Astonishing—in Good and Bad Ways](https://www.wired.com/story/byd-denza-z9-gt-fastest-charging-car-in-the-world/)
- - [Stanford HAI 2026 AI Index Report: AI capability is accelerating, not plateauing, the US-China gap closed, the US leads in data centers and investment, and more &lpar;Stanford HAI&rpar;](http://www.techmeme.com/260413/p19#a260413p19)<!-- TECH:END -->
+ - [Slate raises $650 million to make its budget electric truck](https://www.theverge.com/transportation/911085/slate-truck-ev-fundraise-twg-global-bezos)
+ - [Intel added $100B+ in market value after its stock soared 53% in nine sessions following announcements to repurchase an Ireland fab and join the Terafab project &lpar;Bloomberg&rpar;](http://www.techmeme.com/260413/p21#a260413p21)
+ - [Microsoft is testing OpenClaw-like AI bots for 365 Copilot](https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses)
+ - [Google’s Pixel 10A is a good midrange phone that’s $50 off](https://www.theverge.com/gadgets/910966/google-pixel-10a-sony-wf-1000xm6-earbuds-deal-sale)
+ - [What Is the Best Fitness Tracker in 2026? Garmin, Oura, More](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

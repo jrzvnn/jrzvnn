@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 😝 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
- - 💣 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
- - 😝 [Threads](http://9gag.com/gag/an7Pj85)
- - 👉 [Would you drink this for $100000](http://9gag.com/gag/aD2eWRw)<!-- MEMES:END -->
+ - 😝 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
+ - 😝 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
+ - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
+ - 😝 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
+ - 👉 [Nah\u2026](http://9gag.com/gag/an7PbgL)<!-- MEMES:END -->
 
 ---
 

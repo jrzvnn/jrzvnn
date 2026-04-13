@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
- - 😝 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
- - 💣 [In case you ever wondered, this is what&#39;s left of Senegal&#39;s $6bn Wakanda project](http://9gag.com/gag/agmzYjx)
- - 😝 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
- - 👉 [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)<!-- MEMES:END -->
+ - 😝 [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 💣 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
+ - 😝 [In case you ever wondered, this is what&#39;s left of Senegal&#39;s $6bn Wakanda project](http://9gag.com/gag/agmzYjx)
+ - 👉 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)<!-- MEMES:END -->
 
 ---
 

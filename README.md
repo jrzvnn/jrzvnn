@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slate raises $650 million to make its budget electric truck](https://www.theverge.com/transportation/911085/slate-truck-ev-fundraise-twg-global-bezos)
- - [Intel added $100B+ in market value after its stock soared 53% in nine sessions following announcements to repurchase an Ireland fab and join the Terafab project &lpar;Bloomberg&rpar;](http://www.techmeme.com/260413/p21#a260413p21)
- - [Microsoft is testing OpenClaw-like AI bots for 365 Copilot](https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses)
- - [Google’s Pixel 10A is a good midrange phone that’s $50 off](https://www.theverge.com/gadgets/910966/google-pixel-10a-sony-wf-1000xm6-earbuds-deal-sale)
- - [What Is the Best Fitness Tracker in 2026? Garmin, Oura, More](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
+ - [Memo: OpenAI Chief Revenue Officer Denise Dresser says Anthropic is &quot;grossing up rev share with Amazon and Google&quot; and overstating its &quot;run rate by roughly $8B&quot; &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260413/p23#a260413p23)
+ - [Mac Neo should be the follow up to the huge success of the MacBook Neo](https://appleinsider.com/articles/26/04/13/mac-neo-should-be-the-follow-up-to-the-huge-success-of-the-macbook-neo?utm_source=rss)
+ - [Shares of Dell and HP jump after a report said Nvidia &quot;has been in negotiations for over a year to buy a large company and it will reshape the PC landscape&quot; &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260413/p22#a260413p22)
+ - [Top iRestore Deals for Hair Growth and LED Therapy Devices](https://www.wired.com/story/irestore-anniversary-sale-2026/)
+ - [Read OpenAI&amp;#8217;s latest internal memo about beating the competition — including Anthropic](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

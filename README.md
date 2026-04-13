@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nah\u2026](http://9gag.com/gag/an7PbgL)
  - 😝 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 💣 [Times are changing](http://9gag.com/gag/a34Xq2N)
- - 😝 [Tiny Ship&#39;s Big Dreams: Conquering Roads](http://9gag.com/gag/aZZO3QV)
- - 👉 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)<!-- MEMES:END -->
+ - 😝 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
+ - 💣 [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 😝 [Words of Wisdom #25](http://9gag.com/gag/aE0mxy9)
+ - 👉 [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)<!-- MEMES:END -->
 
 ---
 

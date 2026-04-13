@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: OpenAI Chief Revenue Officer Denise Dresser says Anthropic is &quot;grossing up rev share with Amazon and Google&quot; and overstating its &quot;run rate by roughly $8B&quot; &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260413/p23#a260413p23)
- - [Mac Neo should be the follow up to the huge success of the MacBook Neo](https://appleinsider.com/articles/26/04/13/mac-neo-should-be-the-follow-up-to-the-huge-success-of-the-macbook-neo?utm_source=rss)
- - [Shares of Dell and HP jump after a report said Nvidia &quot;has been in negotiations for over a year to buy a large company and it will reshape the PC landscape&quot; &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260413/p22#a260413p22)
- - [Top iRestore Deals for Hair Growth and LED Therapy Devices](https://www.wired.com/story/irestore-anniversary-sale-2026/)
- - [Read OpenAI&amp;#8217;s latest internal memo about beating the competition — including Anthropic](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic)<!-- TECH:END -->
+ - [Amazon Leo unveils the Aviation Antenna, saying it can deliver up to 1 Gbps download and 400 Mbps upload speeds for in-flight Wi-Fi &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260413/p24#a260413p24)
+ - [Xbox Game Pass &amp;#8216;has become too expensive,’ says Microsoft&amp;#8217;s new gaming chief in leaked memo](https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo)
+ - [Testing of second iOS 26.5, macOS 26.5 developer beta builds now underway](https://appleinsider.com/articles/26/04/13/testing-of-second-ios-265-macos-265-developer-beta-builds-now-underway?utm_source=rss)
+ - [Staunch Trump Supporters Are Now Asking If He&#39;s the Antichrist](https://www.wired.com/story/staunch-trump-supporters-are-now-asking-if-hes-the-antichrist/)
+ - [Old iWork apps are now gone, Creator Studio iWork apps are still free](https://appleinsider.com/articles/26/04/13/old-iwork-apps-are-now-gone-creator-studio-iwork-apps-are-still-free?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

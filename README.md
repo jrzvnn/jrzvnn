@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank, Sony, Honda, and six other Japanese companies launch a new AI company to develop a 1T-parameter foundation model for &quot;physical AI&quot; by 2030 &lpar;Natsuki Yamamoto/Nikkei Asia&rpar;](http://www.techmeme.com/260413/p5#a260413p5)
- - [Sources: Meta is building photorealistic, AI-powered 3D characters; Zuckerberg helped train and test an AI version of himself that offers feedback to employees &lpar;Financial Times&rpar;](http://www.techmeme.com/260413/p4#a260413p4)
- - [Analysis: US state lawmakers introduced 12 data center moratorium bills in 2026, 11 stalled or voted out, with a Maine bill set for a final vote on April 15 &lpar;Ellen Thomas/Business Insider&rpar;](http://www.techmeme.com/260413/p3#a260413p3)
- - [Ornn Compute Price Index: Nvidia Blackwell GPU hourly rent hit $4.08, up 48% from $2.75 two months ago, driven by agentic AI demand &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260413/p2#a260413p2)
- - [Shenzhen-listed server PCB maker Victory Giant plans an April 21 Hong Kong listing, aiming to raise as much as $2.2B; the company was valued at $37B on April 10 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260413/p1#a260413p1)<!-- TECH:END -->
+ - [For the first time, 50% of employed US adults say they use AI at work a few times per year or more; leaders are more likely to see AI&#39;s impact as positive &lpar;Andy Kemp/Gallup&rpar;](http://www.techmeme.com/260413/p8#a260413p8)
+ - [Huawei beats Apple and Samsung with new wide foldable](https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china)
+ - [A profile of the Biological Computing Company, which uses living neurons to build AI chips and algorithms, and emerged from stealth in February with a $25M seed &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260413/p7#a260413p7)
+ - [Law firms say lawyers are spending more time responding to swaths of AI-generated client documents, potentially leading firms to raise fixed-fee contract prices &lpar;Elizabeth Bratton/Financial Times&rpar;](http://www.techmeme.com/260413/p6#a260413p6)
+ - [Surfshark Just Dropped a Next-Gen VPN Protocol That Could Be Faster and More Secure Than Other VPN Connections](https://www.cnet.com/tech/services-and-software/surfshark-just-dropped-next-gen-dausos-vpn-protocol/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

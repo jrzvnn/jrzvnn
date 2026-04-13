@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Words of Wisdom #25](http://9gag.com/gag/aE0mxy9)
+ - 😝 [I can finally rest](http://9gag.com/gag/a1m3o0v)
  - 😝 [Men. The tolerant creatures that we are.](http://9gag.com/gag/a6ZYoyR)
- - 💣 [Great idea, just make sure it&#39;s the LAST thing on the list.](http://9gag.com/gag/aD2exOB)
- - 😝 [Every... Single... Time.](http://9gag.com/gag/aByB8MZ)
- - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
+ - 💣 [Words of Wisdom #25](http://9gag.com/gag/aE0mxy9)
+ - 😝 [Great idea, just make sure it&#39;s the LAST thing on the list.](http://9gag.com/gag/aD2exOB)
+ - 👉 [Every... Single... Time.](http://9gag.com/gag/aByB8MZ)<!-- MEMES:END -->
 
 ---
 

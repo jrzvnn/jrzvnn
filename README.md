@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tetten](http://9gag.com/gag/aXP6x4b)
- - 😝 [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
- - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 😝 [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)
+ - 😝 [Threads](http://9gag.com/gag/an7Pj85)
+ - 💣 [Manbun hero](http://9gag.com/gag/aKGojzQ)
  - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
- - 👉 [Wolf fish still got that bite even after being caught](http://9gag.com/gag/a5Q0oXV)<!-- MEMES:END -->
+ - 👉 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)<!-- MEMES:END -->
 
 ---
 

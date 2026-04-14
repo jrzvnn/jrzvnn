@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EV maker Lucid says Uber agreed to buy 35K+ additional Lucid vehicles for its robotaxi fleet and invest $200M, taking its total investments in Lucid to $500M &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/260414/p10#a260414p10)
+ - [Kraken parent Payward is raising $200M from Frankfurt stock exchange operator Deutsche Börse for a 1.5% fully diluted stake, valuing Kraken at $13.3B &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260414/p9#a260414p9)
+ - [The 23 Best iPhone 17 Cases and Accessories Out of More Than 100 &lpar;2026&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
  - [These Are the 3 Power Tools You Need &lpar;2026&rpar;](https://www.wired.com/story/three-power-tools-you-need/)
- - [The Fanfare Around the Band Geese Actually Was a Psyop](https://www.wired.com/story/geese-chaotic-good-marketing-industry-plant/)
- - [Silicon Valley Is Spending Millions to Stop One of Its Own](https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/)
- - [Why You Should Consider a Coros Watch Instead of a Garmin &lpar;2026&rpar;](https://www.wired.com/story/coros-instead-of-garmin-2026/)
- - [Sources: Chinese chipmaker YMTC plans to build two more factories in addition to one that will be completed in 2026, more than doubling its production capacity &lpar;Reuters&rpar;](http://www.techmeme.com/260414/p8#a260414p8)<!-- TECH:END -->
+ - [10 Must-Have Kitchen Tools to Keep You on Track With Your Health Goals](https://www.cnet.com/news/kitchen-tools-for-healthy-eating/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)
- - [$20 Chewy Promo Code | April 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [The Most WIRED Watches at Watches and Wonders 2026](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)
+ - [A profile of Jeffrey Yan and his startup Hyperliquid, a $10B crypto exchange that never took VC money and generated $900M+ in profit in 2025 with 11 employees &lpar;Dom Cooke/Colossus&rpar;](http://www.techmeme.com/260414/p2#a260414p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-14/)
  - [Medicube Coupon Code: 40% Off for April 2026](https://www.wired.com/story/medicube-coupon-code/)
- - [30% Off Samsung Promo Code | April 2026](https://www.wired.com/story/samsung-promo-codes/)
- - [OpenAI acquires personal finance startup Hiro Finance for an undisclosed sum; Hiro stops new signups, will shut down on April 20 and delete all data on May 13 &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260414/p1#a260414p1)<!-- TECH:END -->
+ - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can grab LG’s B5 OLED TV for over 50 percent off right now](https://www.theverge.com/gadgets/911719/lg-b5-oled-tv-48-55-inch-best-buy-deal-sale)
- - [QiDi Max 4 review: The FDM multicolor printer that you want](https://appleinsider.com/articles/26/04/11/qidi-max-4-review-the-fdm-multicolor-printer-that-you-want?utm_source=rss)
- - [Leaked images reveal a dual-lens pro version of DJI’s next Osmo Pocket camera](https://www.theverge.com/tech/911674/dji-osmo-pocket-4-pro-leak-rumor-dual-camera)
- - [Google launches Skills, repeatable AI prompts users can run in Chrome with a keyboard shortcut; users can set up their own Skills or choose from 50+ presets &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260414/p29#a260414p29)
- - [Google&amp;#8217;s Spotlight-like desktop search bar for Windows is available for everyone](https://www.theverge.com/tech/911741/google-windows-app-launch)<!-- TECH:END -->
+ - [Prime Video is bundling Apple TV Plus and Peacock for a limited time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle)
+ - [Gik Acoustics SoundBlocks Review: Good-Looking Acoustic Treatment](https://www.wired.com/story/gik-acoustics-panels-actually-look-good/)
+ - [Bluefish, which helps brands manage visibility across AI platforms such as ChatGPT and Claude, raised a $43M Series B, bringing its total funding to $68M &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/260414/p32#a260414p32)
+ - [Privacy advocates want Google to stop handing consumer data over to ICE](https://www.theverge.com/news/911789/eff-google-giving-data-ice-california-new-york)
+ - [Microsoft agrees to rent 30,000 Nvidia Vera Rubin chips from Nscale at a site in Norway that was initially intended for OpenAI and marketed as part of Stargate &lpar;Bloomberg&rpar;](http://www.techmeme.com/260414/p31#a260414p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

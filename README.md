@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $11 billion Globalstar deal has implications for future iPhone satellite features](https://appleinsider.com/articles/26/04/14/amazons-11-billion-globalstar-deal-has-implications-for-future-iphone-satellite-features?utm_source=rss)
- - [Long-awaited Zurich Apple Store upgrade stops short of flagship scale](https://appleinsider.com/articles/26/04/14/long-awaited-zurich-apple-store-upgrade-stops-short-of-flagship-scale?utm_source=rss)
- - [Has Google’s AI watermarking system been reverse-engineered?](https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered)
- - [Samsung quietly increases US prices of the Galaxy S25 Edge, S25 FE, Z Flip 7, Tab S11, Tab S11 Ultra, and more; the 1TB Galaxy Tab S11 Ultra jumps by $280 &lpar;Adrian Diaconescu/PhoneArena&rpar;](http://www.techmeme.com/260414/p15#a260414p15)
- - [Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen](https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator)<!-- TECH:END -->
+ - [Anthropic opposes an Illinois bill backed by OpenAI that would shield AI labs from liability, even for &quot;critical harms&quot; like 100+ deaths or $1B+ in damage &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260414/p21#a260414p21)
+ - [DaVinci Resolve adds new photo editing tools to take on Lightroom and Photoshop](https://www.theverge.com/tech/911635/blackmagic-design-davinci-resolve-21-photo-page-raw-support)
+ - [Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed](https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/)
+ - [Sources: cloud-computing startup Fluidstack is in talks to raise ~$1B at an $18B valuation, up from $7.5B when it raised money earlier in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260414/p20#a260414p20)
+ - [Jon Prosser&#39;s silence stalls Apple&#39;s leak lawsuit as discovery drags on](https://appleinsider.com/articles/26/04/14/jon-prossers-silence-stalls-apples-leak-lawsuit-as-discovery-drags-on?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

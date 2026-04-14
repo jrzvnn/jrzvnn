@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EV maker Lucid says Uber agreed to buy 35K+ additional Lucid vehicles for its robotaxi fleet and invest $200M, taking its total investments in Lucid to $500M &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/260414/p10#a260414p10)
- - [Kraken parent Payward is raising $200M from Frankfurt stock exchange operator Deutsche Börse for a 1.5% fully diluted stake, valuing Kraken at $13.3B &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260414/p9#a260414p9)
- - [The 23 Best iPhone 17 Cases and Accessories Out of More Than 100 &lpar;2026&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
- - [These Are the 3 Power Tools You Need &lpar;2026&rpar;](https://www.wired.com/story/three-power-tools-you-need/)
- - [10 Must-Have Kitchen Tools to Keep You on Track With Your Health Goals](https://www.cnet.com/news/kitchen-tools-for-healthy-eating/)<!-- TECH:END -->
+ - [Amazon&#39;s $11 billion Globalstar deal has implications for future iPhone satellite features](https://appleinsider.com/articles/26/04/14/amazons-11-billion-globalstar-deal-has-implications-for-future-iphone-satellite-features?utm_source=rss)
+ - [Long-awaited Zurich Apple Store upgrade stops short of flagship scale](https://appleinsider.com/articles/26/04/14/long-awaited-zurich-apple-store-upgrade-stops-short-of-flagship-scale?utm_source=rss)
+ - [Has Google’s AI watermarking system been reverse-engineered?](https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered)
+ - [Samsung quietly increases US prices of the Galaxy S25 Edge, S25 FE, Z Flip 7, Tab S11, Tab S11 Ultra, and more; the 1TB Galaxy Tab S11 Ultra jumps by $280 &lpar;Adrian Diaconescu/PhoneArena&rpar;](http://www.techmeme.com/260414/p15#a260414p15)
+ - [Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen](https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In case you ever wondered, this is what&#39;s left of Senegal&#39;s $6bn Wakanda project](http://9gag.com/gag/agmzYjx)
- - 😝 [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 💣 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
- - 😝 [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)
- - 👉 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)<!-- MEMES:END -->
+ - 😝 [Guess which country this is coming from. Just one guess.](http://9gag.com/gag/aYQX4y0)
+ - 😝 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
+ - 💣 [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 😝 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
+ - 👉 [Who needs a duty-free chocolate when you can get a new Rolex](http://9gag.com/gag/adBD9q9)<!-- MEMES:END -->
 
 ---
 

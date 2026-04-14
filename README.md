@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Surprising MacBook Neo Competitor You&#39;ve Never Heard Of](https://www.wired.com/story/hp-omnibook-5-deal-0426-1/)
- - [Anthropic recently changed Claude Enterprise pricing; customers now pay $20/month per user plus consumption-based charges, instead of a fixed subscription &lpar;The Information&rpar;](http://www.techmeme.com/260414/p44#a260414p44)
- - [Microsoft&amp;#8217;s finally giving up on its massive Surface Hub touchscreen displays](https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued)
- - [Anthropic details using AI agents to accelerate alignment research on &quot;weak-to-strong supervision&quot;, where a weak model supervises the training of a stronger one &lpar;Anthropic&rpar;](http://www.techmeme.com/260414/p43#a260414p43)
- - [Meta and Broadcom announce an expanded partnership to co-develop multiple generations of Meta&#39;s MTIA chips; Broadcom CEO Hock Tan plans to leave Meta&#39;s board &lpar;CNBC&rpar;](http://www.techmeme.com/260414/p42#a260414p42)<!-- TECH:END -->
+ - [In a letter to senators in January, Apple said it notified X that Grok could be removed from the App Store over Grok&#39;s ability to generate sexualized deepfakes &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/260414/p47#a260414p47)
+ - [Uber CTO Praveen Neppalli Naga says the company&#39;s surging use of AI coding tools has maxed out its full-year AI budget just a few months into 2026 &lpar;Laura Bratton/The Information&rpar;](http://www.techmeme.com/260414/p46#a260414p46)
+ - [Sources: Microsoft ended production of its Surface Hub 3 collaborative touch displays and scrapped plans for a Hub 4; Hub 3 debuted in 2023 in 50&quot; and 85&quot; sizes &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260414/p45#a260414p45)
+ - [The Surprising MacBook Neo Competitor You’ve Never Heard Of](https://www.wired.com/story/hp-omnibook-5-deal-0426-1/)
+ - [Anthropic recently changed Claude Enterprise pricing; customers now pay $20/month per user plus consumption-based charges, instead of a fixed subscription &lpar;The Information&rpar;](http://www.techmeme.com/260414/p44#a260414p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

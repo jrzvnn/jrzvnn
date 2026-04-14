@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 😝 [Tetten](http://9gag.com/gag/aXP6x4b)
- - 💣 [Repo name in comments.](http://9gag.com/gag/aNDEYr6)
+ - 😝 [Jason Statham Impression...](http://9gag.com/gag/a5Q0MMN)
+ - 💣 [Designing Gothmogs face in LOTR](http://9gag.com/gag/a87x5y6)
  - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
- - 👉 [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)<!-- MEMES:END -->
+ - 👉 [The sun is basically screaming 24/7 and nasa actually recorded it](http://9gag.com/gag/awyWA8Q)<!-- MEMES:END -->
 
 ---
 

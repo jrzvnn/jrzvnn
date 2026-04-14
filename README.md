@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
- - 😝 [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 💣 [Best dad ever](http://9gag.com/gag/aNDEYm3)
+ - 😝 [Tetten](http://9gag.com/gag/aXP6x4b)
+ - 😝 [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
+ - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
  - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
- - 👉 [Skills vs degree, a timeless debate with a crypto twist](http://9gag.com/gag/a9ygKN0)<!-- MEMES:END -->
+ - 👉 [Wolf fish still got that bite even after being caught](http://9gag.com/gag/a5Q0oXV)<!-- MEMES:END -->
 
 ---
 

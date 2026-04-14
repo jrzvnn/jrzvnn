@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)
- - 😝 [Threads](http://9gag.com/gag/an7Pj85)
- - 💣 [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 😝 [Tetten](http://9gag.com/gag/aXP6x4b)
+ - 😝 [Repo name in comments.](http://9gag.com/gag/aNDEYr6)
+ - 💣 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
  - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
- - 👉 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)<!-- MEMES:END -->
+ - 👉 [For Gods sake Rebecca, that&#39;s disgusting](http://9gag.com/gag/a7oR3Rx)<!-- MEMES:END -->
 
 ---
 

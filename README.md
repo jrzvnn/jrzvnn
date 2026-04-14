@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Users accuse Anthropic of degrading the performance of Claude Opus 4.6 and Claude Code; employees publicly deny the company degrades models to manage capacity &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260414/p38#a260414p38)
- - [Kraken co-CEO Arjun Sethi says the crypto exchange has confidentially filed for a US IPO; it was valued at $13.3B this month, down from a $20B peak in late 2025 &lpar;Cory Schouten/Semafor&rpar;](http://www.techmeme.com/260414/p37#a260414p37)
- - [OpenAI rolls out cybersecurity-focused model GPT-5.4-Cyber to some participants of its Trusted Access for Cyber program, a week after Anthropic announced Mythos &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260414/p36#a260414p36)
- - [In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy](https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/)
- - [Apple Store closures make sense to Apple, but not to the community](https://appleinsider.com/articles/26/04/14/apple-store-closures-make-sense-to-apple-but-not-to-the-community?utm_source=rss)<!-- TECH:END -->
+ - [The FCC grants Netgear a conditional approval to import its future consumer routers, cable modems, and cable gateways into the US through October 1, 2027 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260414/p41#a260414p41)
+ - [US-based Credo, which specializes in data center connectivity, agrees to acquire Israeli chip company DustPhotonics in a cash-and-stock deal worth up to $1.3B &lpar;CTech&rpar;](http://www.techmeme.com/260414/p40#a260414p40)
+ - [AWS launches Amazon Bio Discovery, a new AI-powered application designed to speed up drug development, giving scientists access to biological foundation models &lpar;Reuters&rpar;](http://www.techmeme.com/260414/p39#a260414p39)
+ - [The 10 Best TV Shows to Stream This Month &lpar;April 2026&rpar;](https://www.wired.com/story/the-best-shows-to-stream-right-now/)
+ - [The FCC just saved Netgear from its router ban for no obvious reason](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

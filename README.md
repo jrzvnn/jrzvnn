@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta and Broadcom announce an expanded partnership to co-develop multiple generations of Meta&#39;s MTIA chips; Broadcom CEO Hock Tan plans to leave Meta&#39;s board &lpar;CNBC&rpar;](http://www.techmeme.com/260414/p42#a260414p42)
- - [The FCC grants Netgear a conditional approval to import its future consumer routers, cable modems, and cable gateways into the US through October 1, 2027 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260414/p41#a260414p41)
- - [FCC&#39;s Foreign-Made Router Ban: One Popular Brand Just Got the First Exemption](https://www.cnet.com/home/internet/fccs-foreign-made-router-ban-one-popular-brand-just-got-the-first-exemption/)
- - [US-based Credo, which specializes in data center connectivity, agrees to acquire Israeli chip company DustPhotonics in a cash-and-stock deal worth up to $1.3B &lpar;CTech&rpar;](http://www.techmeme.com/260414/p40#a260414p40)
- - [I Used to Tell People to Skip Wi-Fi 7 Routers. CNET&#39;s Lab Testing Changed My Mind](https://www.cnet.com/home/internet/are-wi-fi-7-routers-worth-hype/)<!-- TECH:END -->
+ - [The Surprising MacBook Neo Competitor You&#39;ve Never Heard Of](https://www.wired.com/story/hp-omnibook-5-deal-0426-1/)
+ - [Anthropic recently changed Claude Enterprise pricing; customers now pay $20/month per user plus consumption-based charges, instead of a fixed subscription &lpar;The Information&rpar;](http://www.techmeme.com/260414/p44#a260414p44)
+ - [Microsoft&amp;#8217;s finally giving up on its massive Surface Hub touchscreen displays](https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued)
+ - [Anthropic details using AI agents to accelerate alignment research on &quot;weak-to-strong supervision&quot;, where a weak model supervises the training of a stronger one &lpar;Anthropic&rpar;](http://www.techmeme.com/260414/p43#a260414p43)
+ - [Meta and Broadcom announce an expanded partnership to co-develop multiple generations of Meta&#39;s MTIA chips; Broadcom CEO Hock Tan plans to leave Meta&#39;s board &lpar;CNBC&rpar;](http://www.techmeme.com/260414/p42#a260414p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft debuts MAI-Image-2-Efficient, a faster version of its flagship text-to-image model, which it says offers production-ready quality at ~50% the cost &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260414/p27#a260414p27)
- - [GoPro&#39;s New Mission 1 Cameras Have 8K Video and Interchangeable Lenses](https://www.wired.com/story/gopro-mission-1-cameras/)
- - [Pillar, which helps businesses driven by commodities, like metals, manage financial risk, raised a $20M seed led by a16z, bringing its total funding to $23M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260414/p26#a260414p26)
- - [The world’s oldest art, now in 6K IMAX](https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax)
- - [Sygaldry, which wants to design AI data center servers that integrate quantum hardware and classical chips, raised a $34M seed and a $105M Series A &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260414/p25#a260414p25)<!-- TECH:END -->
+ - [You can grab LG’s B5 OLED TV for over 50 percent off right now](https://www.theverge.com/gadgets/911719/lg-b5-oled-tv-48-55-inch-best-buy-deal-sale)
+ - [QiDi Max 4 review: The FDM multicolor printer that you want](https://appleinsider.com/articles/26/04/11/qidi-max-4-review-the-fdm-multicolor-printer-that-you-want?utm_source=rss)
+ - [Leaked images reveal a dual-lens pro version of DJI’s next Osmo Pocket camera](https://www.theverge.com/tech/911674/dji-osmo-pocket-4-pro-leak-rumor-dual-camera)
+ - [Google launches Skills, repeatable AI prompts users can run in Chrome with a keyboard shortcut; users can set up their own Skills or choose from 50+ presets &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260414/p29#a260414p29)
+ - [Google&amp;#8217;s Spotlight-like desktop search bar for Windows is available for everyone](https://www.theverge.com/tech/911741/google-windows-app-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

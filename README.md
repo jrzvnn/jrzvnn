@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turns Out Smokey&#39;s Got a New Mission!](http://9gag.com/gag/a87x3N3)
- - 😝 [Words of Wisdom #25](http://9gag.com/gag/aE0mxy9)
- - 💣 [Best dad ever](http://9gag.com/gag/aNDEYm3)
- - 😝 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 😝 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
+ - 😝 [Winona Ryder Distracted By Flying Pizzas](http://9gag.com/gag/apRZm1M)
+ - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
  - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jason Statham Impression...](http://9gag.com/gag/a5Q0MMN)
- - 😝 [The moment when the Artemis II capsule was opened after coming back to earth.](http://9gag.com/gag/amo4BO9)
- - 💣 [Designing Gothmogs face in LOTR](http://9gag.com/gag/a87x5y6)
+ - 😝 [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)
+ - 😝 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
+ - 💣 [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)
  - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
- - 👉 [The sun is basically screaming 24/7 and nasa actually recorded it](http://9gag.com/gag/awyWA8Q)<!-- MEMES:END -->
+ - 👉 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)<!-- MEMES:END -->
 
 ---
 

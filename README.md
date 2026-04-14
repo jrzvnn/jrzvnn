@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Most WIRED Watches at Watches and Wonders 2026](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)
- - [A profile of Jeffrey Yan and his startup Hyperliquid, a $10B crypto exchange that never took VC money and generated $900M+ in profit in 2025 with 11 employees &lpar;Dom Cooke/Colossus&rpar;](http://www.techmeme.com/260414/p2#a260414p2)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-14/)
- - [Medicube Coupon Code: 40% Off for April 2026](https://www.wired.com/story/medicube-coupon-code/)
- - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [Sources: Amazon is in advanced talks to acquire satellite operator Globalstar in a deal that could be announced as soon as Tuesday; GSAT jumps 15%+ pre-market &lpar;Bloomberg&rpar;](http://www.techmeme.com/260414/p4#a260414p4)
+ - [The new Trump Phone design is here](https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website)
+ - [Google designates &quot;back button hijacking&quot; as malicious, saying sites interfering with a browser&#39;s back button function may be demoted in Search starting in June &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260414/p3#a260414p3)
+ - [Bremont Is Sending a Watch to the Moon’s Surface](https://www.wired.com/story/bremont-is-sending-a-watch-to-the-moon-surface/)
+ - [The Most WIRED Watches at Watches and Wonders 2026](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Manbun hero](http://9gag.com/gag/aKGojzQ)
  - 😝 [Jason Statham Impression...](http://9gag.com/gag/a5Q0MMN)
+ - 😝 [The moment when the Artemis II capsule was opened after coming back to earth.](http://9gag.com/gag/amo4BO9)
  - 💣 [Designing Gothmogs face in LOTR](http://9gag.com/gag/a87x5y6)
  - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
  - 👉 [The sun is basically screaming 24/7 and nasa actually recorded it](http://9gag.com/gag/awyWA8Q)<!-- MEMES:END -->

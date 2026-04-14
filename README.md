@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Video is bundling Apple TV Plus and Peacock for a limited time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle)
- - [Gik Acoustics SoundBlocks Review: Good-Looking Acoustic Treatment](https://www.wired.com/story/gik-acoustics-panels-actually-look-good/)
- - [Bluefish, which helps brands manage visibility across AI platforms such as ChatGPT and Claude, raised a $43M Series B, bringing its total funding to $68M &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/260414/p32#a260414p32)
- - [Privacy advocates want Google to stop handing consumer data over to ICE](https://www.theverge.com/news/911789/eff-google-giving-data-ice-california-new-york)
- - [Microsoft agrees to rent 30,000 Nvidia Vera Rubin chips from Nscale at a site in Norway that was initially intended for OpenAI and marketed as part of Stargate &lpar;Bloomberg&rpar;](http://www.techmeme.com/260414/p31#a260414p31)<!-- TECH:END -->
+ - [Apple Store closures make sense to Apple, but not to the community](https://appleinsider.com/articles/26/04/14/apple-store-closures-make-sense-to-apple-but-not-to-the-community?utm_source=rss)
+ - [Anthropic redesigns Claude Code on desktop, adding a sidebar for managing multiple sessions, a drag-and-drop layout, an integrated terminal, and a file editor &lpar;Claude&rpar;](http://www.techmeme.com/260414/p35#a260414p35)
+ - [The Most WIRED Watches at Watches and Wonders 2026](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)
+ - [Dozens of 4K Blu-rays are included in Amazon’s three for $33 sale](https://www.theverge.com/gadgets/911806/4k-bluray-movie-three-for-33-amazon-deal-sale)
+ - [Bogus crypto wallet on App Store steals $9.5M](https://appleinsider.com/articles/26/04/14/bogus-crypto-wallet-on-app-store-steals-95m?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

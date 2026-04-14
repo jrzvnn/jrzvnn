@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
- - 😝 [Guess which country this is coming from. Just one guess.](http://9gag.com/gag/aYQX4y0)
- - 💣 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
- - 😝 [In case you ever wondered, this is what&#39;s left of Senegal&#39;s $6bn Wakanda project](http://9gag.com/gag/agmzYjx)
- - 👉 [New York City](http://9gag.com/gag/a6ZYOnb)<!-- MEMES:END -->
+ - 😝 [Turns Out Smokey&#39;s Got a New Mission!](http://9gag.com/gag/a87x3N3)
+ - 😝 [Words of Wisdom #25](http://9gag.com/gag/aE0mxy9)
+ - 💣 [Best dad ever](http://9gag.com/gag/aNDEYm3)
+ - 😝 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&amp;#8217;s home and OpenAI’s HQ](https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack)
- - [Oracle expands its partnership with fuel cell maker Bloom to procure up to 2.8 GW of capacity, after receiving a warrant to purchase $400M of Bloom stock &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260413/p33#a260413p33)
- - [You Can Soon Buy a $4,370 Humanoid Robot on AliExpress](https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/)
- - [Gemini Can Now Generate Interactive Images Directly in the Chat](https://www.cnet.com/tech/services-and-software/gemini-can-now-generate-interactive-simulation-directly-in-the-chat/)
- - [Daniel Moreno-Gama, a 20-year-old Texas man accused of throwing a Molotov cocktail at Sam Altman&#39;s home, is charged with attempted murder and attempted arson &lpar;Hadas Gold/CNN&rpar;](http://www.techmeme.com/260413/p32#a260413p32)<!-- TECH:END -->
+ - [Regulators in Europe were largely left out of the loop as Anthropic limited the release of its latest model Mythos to select companies and organizations &lpar;Politico&rpar;](http://www.techmeme.com/260413/p35#a260413p35)
+ - [Huawei Teases a Wider Foldable, and the Timing Feels Very Apple-Adjacent](https://www.cnet.com/tech/mobile/huawei-pura-x-max-chinese-iphone-fold-competitor/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 14, #568](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-14-568/)
+ - [Sonos Play review: Sonos is back with the Goldilocks of portable speakers](https://appleinsider.com/articles/26/04/14/sonos-play-review-sonos-is-back-with-the-goldilocks-of-portable-speakers?utm_source=rss)
+ - [What Is Earthshine? How to Spot the Lunar Marvel in the Skies This Week](https://www.cnet.com/science/space/what-is-earthshine-best-time-to-see-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

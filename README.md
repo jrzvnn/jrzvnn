@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A sleek, wearable airbag for cyclists is nearly here](https://www.theverge.com/gadgets/911540/a-sleek-wearable-airbag-for-cyclists-is-nearly-here)
- - [Iran&#39;s internet blackout enters a record 45th day, per NetBlocks, amid the war; the country&#39;s 90M people now rely on the domestic National Information Network &lpar;Financial Times&rpar;](http://www.techmeme.com/260414/p7#a260414p7)
- - [OpenAI&#39;s economic agenda is oddly socialist and wildly hypocritical, and is largely undermined by OpenAI&#39;s support for Republicans who attack welfare programs &lpar;Eric Levitz/Vox&rpar;](http://www.techmeme.com/260414/p6#a260414p6)
- - [The Best Mattresses for Stomach Sleepers, According to a Sleep Science Coach &lpar;2026&rpar;](https://www.wired.com/gallery/best-mattress-for-stomach-sleepers/)
- - [US affidavit: the man charged with attacking Sam Altman&#39;s home had a document that &quot;identified views opposed&quot; to AI and listed addresses of other AI executives &lpar;New York Times&rpar;](http://www.techmeme.com/260414/p5#a260414p5)<!-- TECH:END -->
+ - [These Are the 3 Power Tools You Need &lpar;2026&rpar;](https://www.wired.com/story/three-power-tools-you-need/)
+ - [The Fanfare Around the Band Geese Actually Was a Psyop](https://www.wired.com/story/geese-chaotic-good-marketing-industry-plant/)
+ - [Silicon Valley Is Spending Millions to Stop One of Its Own](https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/)
+ - [Why You Should Consider a Coros Watch Instead of a Garmin &lpar;2026&rpar;](https://www.wired.com/story/coros-instead-of-garmin-2026/)
+ - [Sources: Chinese chipmaker YMTC plans to build two more factories in addition to one that will be completed in 2026, more than doubling its production capacity &lpar;Reuters&rpar;](http://www.techmeme.com/260414/p8#a260414p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Regulators in Europe were largely left out of the loop as Anthropic limited the release of its latest model Mythos to select companies and organizations &lpar;Politico&rpar;](http://www.techmeme.com/260413/p35#a260413p35)
- - [Huawei Teases a Wider Foldable, and the Timing Feels Very Apple-Adjacent](https://www.cnet.com/tech/mobile/huawei-pura-x-max-chinese-iphone-fold-competitor/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 14, #568](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-14-568/)
- - [Sonos Play review: Sonos is back with the Goldilocks of portable speakers](https://appleinsider.com/articles/26/04/14/sonos-play-review-sonos-is-back-with-the-goldilocks-of-portable-speakers?utm_source=rss)
- - [What Is Earthshine? How to Spot the Lunar Marvel in the Skies This Week](https://www.cnet.com/science/space/what-is-earthshine-best-time-to-see-it/)<!-- TECH:END -->
+ - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)
+ - [$20 Chewy Promo Code | April 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [Medicube Coupon Code: 40% Off for April 2026](https://www.wired.com/story/medicube-coupon-code/)
+ - [30% Off Samsung Promo Code | April 2026](https://www.wired.com/story/samsung-promo-codes/)
+ - [OpenAI acquires personal finance startup Hiro Finance for an undisclosed sum; Hiro stops new signups, will shut down on April 20 and delete all data on May 13 &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260414/p1#a260414p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

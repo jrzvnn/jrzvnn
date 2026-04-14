@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic opposes an Illinois bill backed by OpenAI that would shield AI labs from liability, even for &quot;critical harms&quot; like 100+ deaths or $1B+ in damage &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260414/p21#a260414p21)
- - [DaVinci Resolve adds new photo editing tools to take on Lightroom and Photoshop](https://www.theverge.com/tech/911635/blackmagic-design-davinci-resolve-21-photo-page-raw-support)
- - [Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed](https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/)
- - [Sources: cloud-computing startup Fluidstack is in talks to raise ~$1B at an $18B valuation, up from $7.5B when it raised money earlier in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260414/p20#a260414p20)
- - [Jon Prosser&#39;s silence stalls Apple&#39;s leak lawsuit as discovery drags on](https://appleinsider.com/articles/26/04/14/jon-prossers-silence-stalls-apples-leak-lawsuit-as-discovery-drags-on?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft debuts MAI-Image-2-Efficient, a faster version of its flagship text-to-image model, which it says offers production-ready quality at ~50% the cost &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260414/p27#a260414p27)
+ - [GoPro&#39;s New Mission 1 Cameras Have 8K Video and Interchangeable Lenses](https://www.wired.com/story/gopro-mission-1-cameras/)
+ - [Pillar, which helps businesses driven by commodities, like metals, manage financial risk, raised a $20M seed led by a16z, bringing its total funding to $23M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260414/p26#a260414p26)
+ - [The world’s oldest art, now in 6K IMAX](https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax)
+ - [Sygaldry, which wants to design AI data center servers that integrate quantum hardware and classical chips, raised a $34M seed and a $105M Series A &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260414/p25#a260414p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

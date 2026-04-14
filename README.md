@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon is in advanced talks to acquire satellite operator Globalstar in a deal that could be announced as soon as Tuesday; GSAT jumps 15%+ pre-market &lpar;Bloomberg&rpar;](http://www.techmeme.com/260414/p4#a260414p4)
- - [The new Trump Phone design is here](https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website)
- - [Google designates &quot;back button hijacking&quot; as malicious, saying sites interfering with a browser&#39;s back button function may be demoted in Search starting in June &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260414/p3#a260414p3)
- - [Bremont Is Sending a Watch to the Moon’s Surface](https://www.wired.com/story/bremont-is-sending-a-watch-to-the-moon-surface/)
- - [The Most WIRED Watches at Watches and Wonders 2026](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)<!-- TECH:END -->
+ - [A sleek, wearable airbag for cyclists is nearly here](https://www.theverge.com/gadgets/911540/a-sleek-wearable-airbag-for-cyclists-is-nearly-here)
+ - [Iran&#39;s internet blackout enters a record 45th day, per NetBlocks, amid the war; the country&#39;s 90M people now rely on the domestic National Information Network &lpar;Financial Times&rpar;](http://www.techmeme.com/260414/p7#a260414p7)
+ - [OpenAI&#39;s economic agenda is oddly socialist and wildly hypocritical, and is largely undermined by OpenAI&#39;s support for Republicans who attack welfare programs &lpar;Eric Levitz/Vox&rpar;](http://www.techmeme.com/260414/p6#a260414p6)
+ - [The Best Mattresses for Stomach Sleepers, According to a Sleep Science Coach &lpar;2026&rpar;](https://www.wired.com/gallery/best-mattress-for-stomach-sleepers/)
+ - [US affidavit: the man charged with attacking Sam Altman&#39;s home had a document that &quot;identified views opposed&quot; to AI and listed addresses of other AI executives &lpar;New York Times&rpar;](http://www.techmeme.com/260414/p5#a260414p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

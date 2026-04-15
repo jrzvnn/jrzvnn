@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter to senators in January, Apple said it notified X that Grok could be removed from the App Store over Grok&#39;s ability to generate sexualized deepfakes &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/260414/p47#a260414p47)
- - [Uber CTO Praveen Neppalli Naga says the company&#39;s surging use of AI coding tools has maxed out its full-year AI budget just a few months into 2026 &lpar;Laura Bratton/The Information&rpar;](http://www.techmeme.com/260414/p46#a260414p46)
- - [Sources: Microsoft ended production of its Surface Hub 3 collaborative touch displays and scrapped plans for a Hub 4; Hub 3 debuted in 2023 in 50&quot; and 85&quot; sizes &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260414/p45#a260414p45)
- - [The Surprising MacBook Neo Competitor You’ve Never Heard Of](https://www.wired.com/story/hp-omnibook-5-deal-0426-1/)
- - [Anthropic recently changed Claude Enterprise pricing; customers now pay $20/month per user plus consumption-based charges, instead of a fixed subscription &lpar;The Information&rpar;](http://www.techmeme.com/260414/p44#a260414p44)<!-- TECH:END -->
+ - [Mouse: P.I. For Hire Review: A Competent Shooter Oozing With Cartoon Charm](https://www.cnet.com/tech/gaming/mouse-p-i-for-hire-review-a-competent-shooter-oozing-with-cartoon-charm/)
+ - [Sources: at least two US federal agencies and three congressional committees have reached out to Anthropic to test Claude Mythos, quietly bypassing Trump&#39;s ban &lpar;Politico&rpar;](http://www.techmeme.com/260414/p54#a260414p54)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-15/)
+ - [How some mathematicians are exploring ways to incorporate LLM models into their research without losing direct experience with mathematical understanding &lpar;Konstantin Kakaes/Quanta Magazine&rpar;](http://www.techmeme.com/260414/p53#a260414p53)
+ - [Grok nonconsensual pornographic deepfakes almost led to an App Store ban](https://appleinsider.com/articles/26/04/15/grok-nonconsensual-pornographic-deepfakes-almost-led-to-an-app-store-ban?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

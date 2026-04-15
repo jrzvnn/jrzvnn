@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
- - 😝 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
- - 💣 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
- - 😝 [Repo name in comments.](http://9gag.com/gag/aNDEYr6)
- - 👉 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)<!-- MEMES:END -->
+ - 😝 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - 💣 [Some people](http://9gag.com/gag/aGy4d76)
+ - 😝 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
+ - 👉 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)<!-- MEMES:END -->
 
 ---
 

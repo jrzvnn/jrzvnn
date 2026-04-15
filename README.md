@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Standing Desks of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
- - [The new Tomodachi Life is made to be shared — even if Nintendo doesn’t want you to](https://www.theverge.com/entertainment/911950/tomodachi-life-living-the-dream-review-nintendo-switch)
- - [The EU unveils an open-source age verification app that requires legal ID to shield minors from harmful content, aiming to standardize verification in the bloc &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260415/p18#a260415p18)
- - [Freecash app scammed users and the App Store for months before removal](https://appleinsider.com/articles/26/04/15/freecash-app-scammed-users-and-the-app-store-for-months-before-removal?utm_source=rss)
- - [Best GoPro Camera &lpar;2026&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)<!-- TECH:END -->
+ - [The perfect successor to Lost has been hiding from me for years](https://www.theverge.com/entertainment/912044/from-season-4-mgm-plus)
+ - [Artemis, which aims to replace rule-based cybersecurity systems with an AI-driven centralized &quot;brain&quot;, emerges from stealth with a $70M Series A led by Felicis &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/260415/p27#a260415p27)
+ - [London-based Gizmo, which uses AI to turn young students&#39; notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260415/p26#a260415p26)
+ - [Walmart is updating its 4K streaming box with Gemini and Matter support](https://www.theverge.com/tech/912334/walmart-onn-4k-pro-streamer-google-tv-gemini-matter-thread-smart-home)
+ - [AMD, Arm, and Qualcomm invest $60M in London-based self-driving tech startup Wayve as part of an extension to its $1.2B Series D, announced in February &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260415/p25#a260415p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

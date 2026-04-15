@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Allbirds announced a switch from shoes to AI and its stock jumped 600 percent](https://www.theverge.com/news/912484/allbirds-ai-hyperscale)
- - [Cal.com, which provides scheduling software, is moving its core open-source codebase to a closed repository, citing the dangers of AI hacking its open code &lpar;Steven Vaughan-Nichols/ZDNET&rpar;](http://www.techmeme.com/260415/p32#a260415p32)
- - [The US Government Will Ask Data Centers How Much Power They Use](https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use/)
- - [AI cloud infrastructure company Parasail raised a $32M Series A led by Touring Capital and Kindred Ventures, bringing its total funding to $42M &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260415/p31#a260415p31)
- - [Owning an Apple Home: Packing, moving out, moving in, and setting up](https://appleinsider.com/articles/26/04/15/owning-an-apple-home-packing-moving-out-moving-in-and-setting-up?utm_source=rss)<!-- TECH:END -->
+ - [Adobe unveils Firefly AI Assistant, which can orchestrate and execute multistep tasks across Creative Cloud apps, available in public beta in the coming weeks &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260415/p35#a260415p35)
+ - [Best Buy’s Ultimate Upgrade Sale features deals on dozens of our favorite gadgets](https://www.theverge.com/gadgets/911853/best-buy-ultimate-upgrade-sale-2026-tech-deals-apple)
+ - [The Senate is voting to save free IRS Direct File today](https://www.theverge.com/policy/912490/irs-direct-file-senate-vote)
+ - [Google launches a Gemini Mac app, featuring a keyboard shortcut, screen sharing for better context, image generation with Nano Banana, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260415/p34#a260415p34)
+ - [Most people still don’t want anything to do with robotaxis](https://www.theverge.com/transportation/912357/robotaxi-poll-ev-intelligence-report-waymo-tesla)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

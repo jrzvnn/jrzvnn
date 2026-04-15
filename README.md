@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tetten](http://9gag.com/gag/aXP6x4b)
- - 😝 [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)
- - 💣 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
+ - 😝 [For Gods sake Rebecca, that&#39;s disgusting](http://9gag.com/gag/a7oR3Rx)
+ - 😝 [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)
+ - 💣 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
  - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
- - 👉 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)<!-- MEMES:END -->
+ - 👉 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)<!-- MEMES:END -->
 
 ---
 

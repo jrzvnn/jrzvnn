@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Objection, which aims to use AI and experts to evaluate claims in news stories, debuts with funding from Peter Thiel, Balaji Srinivasan; evaluations cost $2,000 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260415/p41#a260415p41)
- - [NY-based Auctor, which uses AI to curate resource plans and process flows to help companies adopt new software, raised $20M in a combined seed and Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260415/p40#a260415p40)
- - [Jon Prosser&#39;s last-ditch effort against Apple&#39;s lawsuit is the First Amendment](https://appleinsider.com/articles/26/04/15/jon-prossers-last-ditch-effort-against-apples-lawsuit-is-the-first-amendment?utm_source=rss)
- - [A jury finds that Live Nation and Ticketmaster illegally maintained monopoly power in the ticketing market, in a case brought by state AGs after the DOJ settled &lpar;NBC News&rpar;](http://www.techmeme.com/260415/p39#a260415p39)
- - [Ford’s EV and software chief Doug Field is leaving the company](https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software)<!-- TECH:END -->
+ - [YouTube now lets you turn off Shorts](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
+ - [X users complain that the latest crackdown on bots purged secret accounts they had used for years to watch and curate their favorite porn &lpar;Jason Parham/Wired&rpar;](http://www.techmeme.com/260415/p42#a260415p42)
+ - [Apple&#39;s &#39;AI coding bootcamp&#39; could help its engineers make a better Siri with AI](https://appleinsider.com/articles/26/04/15/apples-ai-coding-bootcamp-could-help-its-engineers-make-a-better-siri-with-ai?utm_source=rss)
+ - [Spotify Will Let Customers Buy a Hard-Copy Book With a Click in the App](https://www.cnet.com/tech/services-and-software/spotify-bookshop-partnership-feature/)
+ - [Objection, which aims to use AI and experts to evaluate claims in news stories, debuts with funding from Peter Thiel, Balaji Srinivasan; evaluations cost $2,000 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260415/p41#a260415p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

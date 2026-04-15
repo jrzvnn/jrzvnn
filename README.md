@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For Gods sake Rebecca, that&#39;s disgusting](http://9gag.com/gag/a7oR3Rx)
- - 😝 [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)
- - 💣 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
+ - 😝 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
+ - 😝 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
+ - 💣 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
  - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
- - 👉 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)<!-- MEMES:END -->
+ - 👉 [Tetten](http://9gag.com/gag/aXP6x4b)<!-- MEMES:END -->
 
 ---
 

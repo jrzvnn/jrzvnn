@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind introduces Gemini Robotics-ER 1.6 robotic reasoning model, says it shows significant spatial and physical reasoning improvements over ER 1.5 &lpar;Google DeepMind&rpar;](http://www.techmeme.com/260415/p4#a260415p4)
- - [Sources: ahead of US midterms, Democrats have been advised not to antagonize a ~$300M pro-AI lobby; internal polling shows broad support for tougher AI rules &lpar;Financial Times&rpar;](http://www.techmeme.com/260415/p3#a260415p3)
- - [Corsair Discount Code: Save Up to 50% on Gaming Gear in April 2026](https://www.wired.com/story/corsair-coupon/)
- - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)
- - [Booking.com Promo Codes and Deals: Up to 20% Off](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
+ - [Q&amp;A with ElevenLabs co-founder Mati Staniszewski on how audio models work, the company&#39;s business model, the conversational Turing Test, voice agents, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260415/p9#a260415p9)
+ - [Asia&#39;s startup funding rose 93% YoY to $27.4B in Q1, the highest quarterly total in 3+ years, with Chinese startups raising $16.5B and Indian startups $3.8B &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/260415/p8#a260415p8)
+ - [Apple endorses the ~$11.6B Amazon-Globalstar deal, citing a &quot;proven track record&quot; with Amazon infrastructure; Apple holds a ~20% stake in Globalstar &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260415/p7#a260415p7)
+ - [ASML reports Q1 net sales of €8.8B, vs. €8.5B est., and €2.8B net profit, vs. €2.5B est., and raises 2026 net sales forecast to €36B-€40B from €34B-€39B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260415/p6#a260415p6)
+ - [Sources and analyst estimates: Uber is on track to spend $7.5B+ on buying robotaxis and $2.5B+ on equity stakes in their makers over the next few years &lpar;Financial Times&rpar;](http://www.techmeme.com/260415/p5#a260415p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
- - 😝 [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)
- - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
- - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
+ - 😝 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
+ - 💣 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
+ - 😝 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
  - 👉 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)<!-- MEMES:END -->
 
 ---

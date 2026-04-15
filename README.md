@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Space Daddy Simulator](http://9gag.com/gag/a4POQrv)
- - 😝 [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)
- - 💣 [Hey my new graphics card](http://9gag.com/gag/axyq7Ln)
+ - 😝 [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
+ - 😝 [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)
+ - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
  - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
- - 👉 [Thought it was something else there for a second](http://9gag.com/gag/agmz5VK)<!-- MEMES:END -->
+ - 👉 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)<!-- MEMES:END -->
 
 ---
 

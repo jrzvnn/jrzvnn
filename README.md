@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe unveils Firefly AI Assistant, which can orchestrate and execute multistep tasks across Creative Cloud apps, available in public beta in the coming weeks &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260415/p35#a260415p35)
- - [Best Buy’s Ultimate Upgrade Sale features deals on dozens of our favorite gadgets](https://www.theverge.com/gadgets/911853/best-buy-ultimate-upgrade-sale-2026-tech-deals-apple)
- - [The Senate is voting to save free IRS Direct File today](https://www.theverge.com/policy/912490/irs-direct-file-senate-vote)
- - [Google launches a Gemini Mac app, featuring a keyboard shortcut, screen sharing for better context, image generation with Nano Banana, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260415/p34#a260415p34)
- - [Most people still don’t want anything to do with robotaxis](https://www.theverge.com/transportation/912357/robotaxi-poll-ev-intelligence-report-waymo-tesla)<!-- TECH:END -->
+ - [Nike board member Tim Cook pumps another $1M into shoe-maker&#39;s stock](https://appleinsider.com/articles/26/04/15/nike-board-member-tim-cook-pumps-another-1m-into-shoe-makers-stock?utm_source=rss)
+ - [Ikea&amp;#8217;s smart donut lamp is a sweet treat](https://www.theverge.com/tech/911809/ikea-varmblixt-smart-donut-lamp-review-matter-thread)
+ - [WPP, Dentsu, and Publicis settle with the FTC over claims they colluded on misinformation policies that denied ad revenue to conservative publishers &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/260415/p36#a260415p36)
+ - [Google launches a Gemini AI app on Mac](https://www.theverge.com/tech/912638/google-gemini-mac-app)
+ - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

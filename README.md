@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank invites more banks to join its $40B loan backing its OpenAI investment, requiring them to commit ~$5B each; SoftBank has already invested $30B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260415/p12#a260415p12)
- - [The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/)
- - [ByteDance launches its Seedance 2.0 video model to enterprise clients in 100+ countries, excluding the US amid legal disputes, after a February launch in China &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260415/p11#a260415p11)
- - [PitchBook: US growth and late-stage venture funds raised $23.6B YTD, up from $7.4B in 2025 and above the totals for any of the past 12 years, amid the AI boom &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260415/p10#a260415p10)
- - [Q&amp;A with ElevenLabs co-founder Mati Staniszewski on how audio models work, the company&#39;s business model, the conversational Turing Test, voice agents, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260415/p9#a260415p9)<!-- TECH:END -->
+ - [Analysis: nearly 90 schools and 600 students globally have been impacted by AI-generated deepfake nudes; North America had nearly 30 reported cases since 2023 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260415/p17#a260415p17)
+ - [The Caves That Could Help Us Find, or Become, Aliens](https://www.wired.com/story/the-caves-that-could-help-us-find-or-become-aliens/)
+ - [AI Slop Is Making the Internet Fake-Happy](https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/)
+ - [Spotify now sells printed books](https://www.theverge.com/entertainment/912232/spotify-update-physical-book-bookshop-sales)
+ - [Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.](https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

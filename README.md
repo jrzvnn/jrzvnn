@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: nearly 90 schools and 600 students globally have been impacted by AI-generated deepfake nudes; North America had nearly 30 reported cases since 2023 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260415/p17#a260415p17)
- - [The Caves That Could Help Us Find, or Become, Aliens](https://www.wired.com/story/the-caves-that-could-help-us-find-or-become-aliens/)
- - [AI Slop Is Making the Internet Fake-Happy](https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/)
- - [Spotify now sells printed books](https://www.theverge.com/entertainment/912232/spotify-update-physical-book-bookshop-sales)
- - [Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.](https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes)<!-- TECH:END -->
+ - [12 Best Standing Desks of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
+ - [The new Tomodachi Life is made to be shared — even if Nintendo doesn’t want you to](https://www.theverge.com/entertainment/911950/tomodachi-life-living-the-dream-review-nintendo-switch)
+ - [The EU unveils an open-source age verification app that requires legal ID to shield minors from harmful content, aiming to standardize verification in the bloc &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260415/p18#a260415p18)
+ - [Freecash app scammed users and the App Store for months before removal](https://appleinsider.com/articles/26/04/15/freecash-app-scammed-users-and-the-app-store-for-months-before-removal?utm_source=rss)
+ - [Best GoPro Camera &lpar;2026&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

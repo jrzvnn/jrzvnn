@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sebastian should, indeed, go to sleep. Some things one shoukd not witness.](http://9gag.com/gag/a9ygR0m)
- - 😝 [Minimum wage stayed frozen while billionaire wealth went orbital](http://9gag.com/gag/avyK8eE)
- - 💣 [When the problem of evil gets explained with zero chill](http://9gag.com/gag/axyqzRY)
- - 😝 [Dude lost the race but won the show](http://9gag.com/gag/aqyoKQZ)
- - 👉 [Hahahahaha !!!](http://9gag.com/gag/ajPe5DR)<!-- MEMES:END -->
+ - 😝 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - 😝 [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
+ - 💣 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
+ - 😝 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
+ - 👉 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
 
 ---
 

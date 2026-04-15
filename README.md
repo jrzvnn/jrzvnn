@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mouse: P.I. For Hire Review: A Competent Shooter Oozing With Cartoon Charm](https://www.cnet.com/tech/gaming/mouse-p-i-for-hire-review-a-competent-shooter-oozing-with-cartoon-charm/)
- - [Sources: at least two US federal agencies and three congressional committees have reached out to Anthropic to test Claude Mythos, quietly bypassing Trump&#39;s ban &lpar;Politico&rpar;](http://www.techmeme.com/260414/p54#a260414p54)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-15/)
- - [How some mathematicians are exploring ways to incorporate LLM models into their research without losing direct experience with mathematical understanding &lpar;Konstantin Kakaes/Quanta Magazine&rpar;](http://www.techmeme.com/260414/p53#a260414p53)
- - [Grok nonconsensual pornographic deepfakes almost led to an App Store ban](https://appleinsider.com/articles/26/04/15/grok-nonconsensual-pornographic-deepfakes-almost-led-to-an-app-store-ban?utm_source=rss)<!-- TECH:END -->
+ - [Google DeepMind introduces Gemini Robotics-ER 1.6 robotic reasoning model, says it shows significant spatial and physical reasoning improvements over ER 1.5 &lpar;Google DeepMind&rpar;](http://www.techmeme.com/260415/p4#a260415p4)
+ - [Sources: ahead of US midterms, Democrats have been advised not to antagonize a ~$300M pro-AI lobby; internal polling shows broad support for tougher AI rules &lpar;Financial Times&rpar;](http://www.techmeme.com/260415/p3#a260415p3)
+ - [Corsair Discount Code: Save Up to 50% on Gaming Gear in April 2026](https://www.wired.com/story/corsair-coupon/)
+ - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)
+ - [Booking.com Promo Codes and Deals: Up to 20% Off](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

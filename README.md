@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The perfect successor to Lost has been hiding from me for years](https://www.theverge.com/entertainment/912044/from-season-4-mgm-plus)
- - [Artemis, which aims to replace rule-based cybersecurity systems with an AI-driven centralized &quot;brain&quot;, emerges from stealth with a $70M Series A led by Felicis &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/260415/p27#a260415p27)
- - [London-based Gizmo, which uses AI to turn young students&#39; notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260415/p26#a260415p26)
- - [Walmart is updating its 4K streaming box with Gemini and Matter support](https://www.theverge.com/tech/912334/walmart-onn-4k-pro-streamer-google-tv-gemini-matter-thread-smart-home)
- - [AMD, Arm, and Qualcomm invest $60M in London-based self-driving tech startup Wayve as part of an extension to its $1.2B Series D, announced in February &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260415/p25#a260415p25)<!-- TECH:END -->
+ - [MAGA Is Starting to Look Beyond Trump](https://www.wired.com/story/maga-is-starting-to-look-beyond-trump/)
+ - [Allbirds Is Pivoting to AI Compute. Sure, Why Not](https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/)
+ - [FCC hands Netgear an effective monopoly on router sale in the US](https://appleinsider.com/articles/26/04/15/fcc-hands-netgear-an-effective-monopoly-on-router-sale-in-the-us?utm_source=rss)
+ - [A survey of US teens: ~90% say entertainment is a reason they use TikTok, Instagram, or Snapchat, 57% Snapchat message daily, and 37% say TikTok impacts sleep &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260415/p28#a260415p28)
+ - [Adobe announces Firefly AI Assistant as it expands into agentic AI tools](https://appleinsider.com/articles/26/04/15/adobe-announces-firefly-ai-assistant-as-it-expands-into-agentic-ai-tools?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

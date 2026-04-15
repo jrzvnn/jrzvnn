@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nike board member Tim Cook pumps another $1M into shoe-maker&#39;s stock](https://appleinsider.com/articles/26/04/15/nike-board-member-tim-cook-pumps-another-1m-into-shoe-makers-stock?utm_source=rss)
- - [Ikea&amp;#8217;s smart donut lamp is a sweet treat](https://www.theverge.com/tech/911809/ikea-varmblixt-smart-donut-lamp-review-matter-thread)
- - [WPP, Dentsu, and Publicis settle with the FTC over claims they colluded on misinformation policies that denied ad revenue to conservative publishers &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/260415/p36#a260415p36)
- - [Google launches a Gemini AI app on Mac](https://www.theverge.com/tech/912638/google-gemini-mac-app)
- - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students)<!-- TECH:END -->
+ - [Trump’s posting even more AI-generated Trump-Jesus fanart](https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme)
+ - [Google rolls out Gemini 3.1 Flash TTS, a text-to-speech model with support for over 70 languages and audio tags that give developers granular speech control &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/260415/p38#a260415p38)
+ - [Google Gemini Mac app focuses on speed over deep integration](https://appleinsider.com/articles/26/04/15/google-gemini-mac-app-focuses-on-speed-over-deep-integration?utm_source=rss)
+ - [Q&amp;A with Jensen Huang on Nvidia&#39;s supply chain moat, competition from ASICs like Google&#39;s TPU, investing in AI labs and neoclouds, selling to China, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/260415/p37#a260415p37)
+ - [Ticketmaster is an illegal monopoly, jury finds](https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

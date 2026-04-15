@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912262/microsoft-macbook-neo-response-college-offer-free-subscriptions)
+ - [Former Mercor staffers describe &quot;operational mishaps&quot; at the $10B startup, including employee fraud, a security breach, and suspected North Korean infiltration &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/260415/p45#a260415p45)
+ - [Deepfake nonconsensual porn apps are advertising in the App Store](https://appleinsider.com/articles/26/04/15/deepfake-nonconsensual-porn-apps-are-advertising-in-the-app-store?utm_source=rss)
+ - [Filings: Caterpillar acquires self-driving electric tractor startup Monarch Tractor&#39;s assets, after it raised $200M+ and struggled to pivot to software services &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260415/p44#a260415p44)
  - [Improbable Visa &amp; iPhone loophole leads to Apple Pay heist that&#39;ll never happen to you](https://appleinsider.com/articles/26/04/15/improbable-visa-iphone-loophole-leads-to-apple-pay-heist-thatll-never-happen-to-you?utm_source=rss)
- - [&#39;The Last Airbender&#39; Leaked Online. Some Fans Say Paramount Deserves the Fallout](https://www.wired.com/story/the-last-airbender-leak-fans-say-paramount-deserves-fallout/)
- - [Sources: Apple plans to send a significant part of its Siri team, known as a laggard, to an AI coding bootcamp; the group is expected to be fewer than 200 &lpar;The Information&rpar;](http://www.techmeme.com/260415/p43#a260415p43)
- - [Apple&#39;s mandatory &#39;AI coding bootcamp&#39; could help make a better Siri](https://appleinsider.com/articles/26/04/15/apples-ai-coding-bootcamp-could-help-its-engineers-make-a-better-siri-with-ai?utm_source=rss)<!-- TECH:END -->
+ - [‘Avatar: Aang, The Last Airbender’ Leaked Online. Some Fans Say Paramount Deserves the Fallout](https://www.wired.com/story/the-last-airbender-leak-fans-say-paramount-deserves-fallout/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

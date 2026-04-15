@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
- - 😝 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
- - 💣 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
+ - 😝 [The Space Daddy Simulator](http://9gag.com/gag/a4POQrv)
+ - 😝 [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)
+ - 💣 [Hey my new graphics card](http://9gag.com/gag/axyq7Ln)
  - 😝 [Graffiti on the walls, game on the screen. Let\u2019s turn your living room into a stadium with the latest tech. \u26bd\ufe0f\ud83d\udcfa](http://9gag.com/gag/ae985b5)
- - 👉 [Tetten](http://9gag.com/gag/aXP6x4b)<!-- MEMES:END -->
+ - 👉 [Thought it was something else there for a second](http://9gag.com/gag/agmz5VK)<!-- MEMES:END -->
 
 ---
 

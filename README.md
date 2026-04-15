@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
+ - 😝 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
  - 😝 [Cant fall asleep](http://9gag.com/gag/aqyon8R)
- - 💣 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
- - 😝 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - 👉 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
+ - 💣 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - 😝 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
+ - 👉 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)<!-- MEMES:END -->
 
 ---
 

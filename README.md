@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
+ - 😝 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
+ - 💣 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
  - 😝 [Hey cap](http://9gag.com/gag/ary7GmB)
- - 💣 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - 😝 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - 👉 [Nice use of perspect\u2026](http://9gag.com/gag/a9ygn76)<!-- MEMES:END -->
+ - 👉 [Some people](http://9gag.com/gag/aGy4d76)<!-- MEMES:END -->
 
 ---
 

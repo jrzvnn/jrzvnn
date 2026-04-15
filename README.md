@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MAGA Is Starting to Look Beyond Trump](https://www.wired.com/story/maga-is-starting-to-look-beyond-trump/)
- - [Allbirds Is Pivoting to AI Compute. Sure, Why Not](https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/)
- - [FCC hands Netgear an effective monopoly on router sale in the US](https://appleinsider.com/articles/26/04/15/fcc-hands-netgear-an-effective-monopoly-on-router-sale-in-the-us?utm_source=rss)
- - [A survey of US teens: ~90% say entertainment is a reason they use TikTok, Instagram, or Snapchat, 57% Snapchat message daily, and 37% say TikTok impacts sleep &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260415/p28#a260415p28)
- - [Adobe announces Firefly AI Assistant as it expands into agentic AI tools](https://appleinsider.com/articles/26/04/15/adobe-announces-firefly-ai-assistant-as-it-expands-into-agentic-ai-tools?utm_source=rss)<!-- TECH:END -->
+ - [Allbirds announced a switch from shoes to AI and its stock jumped 600 percent](https://www.theverge.com/news/912484/allbirds-ai-hyperscale)
+ - [Cal.com, which provides scheduling software, is moving its core open-source codebase to a closed repository, citing the dangers of AI hacking its open code &lpar;Steven Vaughan-Nichols/ZDNET&rpar;](http://www.techmeme.com/260415/p32#a260415p32)
+ - [The US Government Will Ask Data Centers How Much Power They Use](https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use/)
+ - [AI cloud infrastructure company Parasail raised a $32M Series A led by Touring Capital and Kindred Ventures, bringing its total funding to $42M &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260415/p31#a260415p31)
+ - [Owning an Apple Home: Packing, moving out, moving in, and setting up](https://appleinsider.com/articles/26/04/15/owning-an-apple-home-packing-moving-out-moving-in-and-setting-up?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

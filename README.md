@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cant fall asleep](http://9gag.com/gag/aqyon8R)
+ - 😝 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - 💣 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
  - 😝 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - 😝 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
- - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
- - 😝 [Intresting question](http://9gag.com/gag/avyKzQd)
- - 👉 [Hey cap](http://9gag.com/gag/ary7GmB)<!-- MEMES:END -->
+ - 👉 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)<!-- MEMES:END -->
 
 ---
 

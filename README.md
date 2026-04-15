@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube now lets you turn off Shorts](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
- - [X users complain that the latest crackdown on bots purged secret accounts they had used for years to watch and curate their favorite porn &lpar;Jason Parham/Wired&rpar;](http://www.techmeme.com/260415/p42#a260415p42)
- - [Apple&#39;s &#39;AI coding bootcamp&#39; could help its engineers make a better Siri with AI](https://appleinsider.com/articles/26/04/15/apples-ai-coding-bootcamp-could-help-its-engineers-make-a-better-siri-with-ai?utm_source=rss)
- - [Spotify Will Let Customers Buy a Hard-Copy Book With a Click in the App](https://www.cnet.com/tech/services-and-software/spotify-bookshop-partnership-feature/)
- - [Objection, which aims to use AI and experts to evaluate claims in news stories, debuts with funding from Peter Thiel, Balaji Srinivasan; evaluations cost $2,000 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260415/p41#a260415p41)<!-- TECH:END -->
+ - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912262/microsoft-macbook-neo-response-college-offer-free-subscriptions)
+ - [Improbable Visa &amp; iPhone loophole leads to Apple Pay heist that&#39;ll never happen to you](https://appleinsider.com/articles/26/04/15/improbable-visa-iphone-loophole-leads-to-apple-pay-heist-thatll-never-happen-to-you?utm_source=rss)
+ - [&#39;The Last Airbender&#39; Leaked Online. Some Fans Say Paramount Deserves the Fallout](https://www.wired.com/story/the-last-airbender-leak-fans-say-paramount-deserves-fallout/)
+ - [Sources: Apple plans to send a significant part of its Siri team, known as a laggard, to an AI coding bootcamp; the group is expected to be fewer than 200 &lpar;The Information&rpar;](http://www.techmeme.com/260415/p43#a260415p43)
+ - [Apple&#39;s mandatory &#39;AI coding bootcamp&#39; could help make a better Siri](https://appleinsider.com/articles/26/04/15/apples-ai-coding-bootcamp-could-help-its-engineers-make-a-better-siri-with-ai?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

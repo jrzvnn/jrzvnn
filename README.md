@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - 😝 [Cant fall asleep](http://9gag.com/gag/aqyon8R)
+ - 😝 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
+ - 😝 [Intresting question](http://9gag.com/gag/avyKzQd)
  - 💣 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - 😝 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
- - 👉 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)<!-- MEMES:END -->
+ - 😝 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - 👉 [Marketing needs some work](http://9gag.com/gag/agmzBjr)<!-- MEMES:END -->
 
 ---
 

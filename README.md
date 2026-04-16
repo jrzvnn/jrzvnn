@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI labs are buying Slack, Jira, and email archives from defunct startups to build &quot;reinforcement learning gyms&quot; and train AI agents in simulated workplaces &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260416/p46#a260416p46)
- - [OpenAI launches GPT-Rosalind, an AI model for life sciences research, including drug discovery, as a research preview for customers such as Moderna and Amgen &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260416/p45#a260416p45)
- - [Live Nation says it will fight monopoly suit loss](https://www.theverge.com/policy/913494/live-nation-ticketmaster-fight-state-monopoly-jury-verdict)
- - [Ozlo’s comfy Sleepbuds are nearly 30 percent off in the run-up to Mother’s Day](https://www.theverge.com/gadgets/913352/ozlo-sleepbuds-mothers-day-deal-sale)
- - [Teenage Engineering might be getting into instrument amps next](https://www.theverge.com/gadgets/913396/teenage-engineering-ko-amp-35-leak)<!-- TECH:END -->
+ - [Google updates AI Mode in Chrome, letting users open links side by side with AI Mode on desktop; users can search across multiple tabs on desktop and mobile &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260416/p50#a260416p50)
+ - [Netflix co-founder Reed Hastings is officially leaving the company](https://www.theverge.com/streaming/913201/netflix-reed-hastings-earnings-q1-2026)
+ - [Netflix reports Q1 revenue up 16% YoY to $12.3B, vs. $12.2B est., net income of $5.28B, and forecasts Q2 EPS below estimates; NFLX drops 8%+ after hours &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260416/p49#a260416p49)
+ - [Netflix chairman and co-founder Reed Hastings will step down from the company&#39;s board after his term expires in June to focus on philanthropy and other pursuits &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/260416/p48#a260416p48)
+ - [Sources: Upscale AI, which builds AI networking infrastructure, is in talks to raise $180M to $200M at a $2B valuation, its third funding round in seven months &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p47#a260416p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

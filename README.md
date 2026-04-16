@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders](https://www.wired.com/story/birdfy-discount-code/)
- - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)
- - [50% Off Home Depot Promo Codes | April 2026](https://www.wired.com/story/home-depot-promo-code/)
- - [Therabody Promo Codes: 15% Off April 2026](https://www.wired.com/story/therabody-promo-code/)
- - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [A primer on interpretability and how AI researchers are figuring out how to open and understand the &quot;black box&quot; that holds the formulas within most AI models &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/260416/p7#a260416p7)
+ - [How cyberscammers are bypassing major banks&#39; KYC facial scans using stolen biometric data and virtual camera tools sold via Telegram channels &lpar;Fiona Kelliher/MIT Technology Review&rpar;](http://www.techmeme.com/260416/p6#a260416p6)
+ - [India produces over 1.5M CS graduates annually, but scale is no longer an advantage with the rise of AI coding tools; Infosys revamps hiring to focus on AI &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260416/p5#a260416p5)
+ - [Analysis: China&#39;s chipmaking tool imports from Singapore rose 17% YoY to $5.7B in 2025, from Malaysia rose 2x+ to $3.4B; direct US imports fell 34% YoY to ~$2B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260416/p4#a260416p4)
+ - [Sources say Ola&#39;s AI venture Krutrim&#39;s smart assistant Kruti is unavailable to users and the development of its Indian multilingual LLM, Krutrim 3, has stalled &lpar;Swathi Moorthy/The Economic Times&rpar;](http://www.techmeme.com/260416/p3#a260416p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

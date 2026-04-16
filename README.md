@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon issues $589 MacBook Neo deal, lowest price on new release](https://appleinsider.com/articles/26/04/16/amazon-issues-589-macbook-neo-deal-lowest-price-on-new-release?utm_source=rss)
- - [Netflix says its 2026 ad revenue remains on track to reach $3B, doubling from 2025, and it now works with over 4,000 advertising clients, up 70% YoY &lpar;Bill Bradley/Adweek&rpar;](http://www.techmeme.com/260416/p51#a260416p51)
- - [Netflix Is Introducing Vertical Video to Its Mobile App This Month](https://www.cnet.com/tech/services-and-software/netflix-is-bringing-vertical-video-to-mobile-this-month/)
- - [DuckDuckGo VPN Audit Shows It Doesn&#39;t Track Your Activity](https://www.cnet.com/tech/services-and-software/duckduckgo-vpn-confirms-your-data-is-protected-with-audit/)
- - [Gucci-branded Google smart glasses are coming next year](https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027)<!-- TECH:END -->
+ - [The US and the Philippines agree to launch a high-tech industrial hub on the island of Luzon to counter China&#39;s supply chains; the US will run it as an SEZ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260416/p53#a260416p53)
+ - [Casely Power Pods recall reannounced after a fatality in New Jersey](https://appleinsider.com/articles/26/04/16/casely-power-pods-recall-reannounced-after-a-fatality-in-new-jersey?utm_source=rss)
+ - [$320M money laundering scheme uncovered using iCloud backup](https://appleinsider.com/articles/26/04/16/320m-money-laundering-scheme-uncovered-using-icloud-backup?utm_source=rss)
+ - [NYC-based Nas.com, an AI platform founded by content creator Nas Daily that helps solo entrepreneurs build online stores, raised a $27M Series A led by Khosla &lpar;Robert Scammell/Business Insider&rpar;](http://www.techmeme.com/260416/p52#a260416p52)
+ - [Amazon issues $589 MacBook Neo deal, lowest price on new release](https://appleinsider.com/articles/26/04/16/amazon-issues-589-macbook-neo-deal-lowest-price-on-new-release?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

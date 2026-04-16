@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s 2025 Ads Safety Report: Google blocked a record 8.3B ads, up 63% YoY, but suspended 36% fewer advertisers, attributing the disparity to its use of AI &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260416/p39#a260416p39)
- - [OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code](https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos)
- - [Google’s AI Mode update lets you open links without leaving the page](https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources)
- - [Drift Protocol secures $147.5M in funding, including $127.5M from Tether, to replace Circle stablecoin with USDT after a $270M exploit linked to North Korea &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260416/p38#a260416p38)
- - [The US DOJ says a judge sentenced two US citizens to a combined 16 years in prison for running laptop farms that let North Korean IT workers pose as US workers &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260416/p37#a260416p37)<!-- TECH:END -->
+ - [Price war: Apple&#39;s 1TB M5 MacBook Pro dips to $1,580](https://appleinsider.com/articles/26/04/16/price-war-apples-1tb-m5-macbook-pro-dips-to-1580?utm_source=rss)
+ - [DeepL, best known for its text translation tools, launches DeepL Voice-to-Voice, which enables real-time spoken translation, with add-ons for services like Zoom &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260416/p42#a260416p42)
+ - [The Battle for OpenAI’s Soul](https://www.wired.com/story/musk-v-altman-trial-openai-xai/)
+ - [The UK unveils Sovereign AI, a £500M fund to invest in domestic AI startups, starting with Callosum, which builds software to help different chips work together &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/260416/p41#a260416p41)
+ - [Personal Computer from Perplexity can make a Mac an always-on AI operator](https://appleinsider.com/articles/26/04/16/personal-computer-from-perplexity-can-make-a-mac-an-always-on-ai-operator?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
- - 😝 [Intresting question](http://9gag.com/gag/avyKzQd)
- - 💣 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - 😝 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - 👉 [Marketing needs some work](http://9gag.com/gag/agmzBjr)<!-- MEMES:END -->
+ - 😝 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - 😝 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
+ - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
+ - 😝 [The beavers won&#39;t be very amused](http://9gag.com/gag/a6ZYNpA)
+ - 👉 [Great, now I&#39;m never getting out](http://9gag.com/gag/ayNjMdp)<!-- MEMES:END -->
 
 ---
 

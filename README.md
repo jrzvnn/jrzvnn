@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - 😝 [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - 💣 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
  - 😝 [Some people](http://9gag.com/gag/aGy4d76)
- - 😝 [The beavers won&#39;t be very amused](http://9gag.com/gag/a6ZYNpA)
- - 💣 [Aaand we have terminators in 2026](http://9gag.com/gag/aByBmVQ)
- - 😝 [Great, now I&#39;m never getting out](http://9gag.com/gag/ayNjMdp)
- - 👉 [Always the low quality video!](http://9gag.com/gag/a4PO1p1)<!-- MEMES:END -->
+ - 👉 [Great, now I&#39;m never getting out](http://9gag.com/gag/ayNjMdp)<!-- MEMES:END -->
 
 ---
 

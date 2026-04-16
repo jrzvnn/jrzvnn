@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Opus 4.7 uses &quot;an updated tokenizer that improves how the model processes text&quot;, but &quot;the tradeoff is that the same input can map to more tokens&quot; &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260416/p31#a260416p31)
- - [How Netflix made us fall in love with K-dramas](https://www.theverge.com/column/913101/netflix-korean-movies-tv-shows)
- - [Smartphone buyers are more loyal than ever, but they still switch to iPhone](https://appleinsider.com/articles/26/04/16/smartphone-buyers-are-more-loyal-than-ever-but-they-still-switch-to-iphone?utm_source=rss)
- - [It’s slushy season, and Ninja’s frozen drink machine is nearly half off](https://www.theverge.com/gadgets/913067/ninja-slushi-frozen-drink-machine-youtube-premium-deal-sale)
- - [Canva unveils Canva AI 2.0, which can generate editable layered designs from conversational prompts using Canva&#39;s foundation model built specifically for design &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260416/p30#a260416p30)<!-- TECH:END -->
+ - [Google&#39;s 2025 Ads Safety Report: Google blocked a record 8.3B ads, up 63% YoY, but suspended 36% fewer advertisers, attributing the disparity to its use of AI &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260416/p39#a260416p39)
+ - [OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code](https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos)
+ - [Google’s AI Mode update lets you open links without leaving the page](https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources)
+ - [Drift Protocol secures $147.5M in funding, including $127.5M from Tether, to replace Circle stablecoin with USDT after a $270M exploit linked to North Korea &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260416/p38#a260416p38)
+ - [The US DOJ says a judge sentenced two US citizens to a combined 16 years in prison for running laptop farms that let North Korean IT workers pose as US workers &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260416/p37#a260416p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

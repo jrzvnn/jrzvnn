@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - 😝 [For Gods sake Rebecca, that&#39;s disgusting](http://9gag.com/gag/a7oR3Rx)
- - 💣 [Cant fall asleep](http://9gag.com/gag/aqyon8R)
+ - 😝 [Some people](http://9gag.com/gag/aGy4d76)
+ - 😝 [The beavers won&#39;t be very amused](http://9gag.com/gag/a6ZYNpA)
+ - 💣 [Aaand we have terminators in 2026](http://9gag.com/gag/aByBmVQ)
  - 😝 [Great, now I&#39;m never getting out](http://9gag.com/gag/ayNjMdp)
- - 👉 [Some people](http://9gag.com/gag/aGy4d76)<!-- MEMES:END -->
+ - 👉 [Always the low quality video!](http://9gag.com/gag/a4PO1p1)<!-- MEMES:END -->
 
 ---
 

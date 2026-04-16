@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eating out with the bro](http://9gag.com/gag/a9ygnOo)
- - 😝 [Intresting question](http://9gag.com/gag/avyKzQd)
- - 💣 [Going through it boys. F**k you and see you tomorrow](http://9gag.com/gag/aVvy788)
- - 😝 [Satisfying LightBloom Crystal](http://9gag.com/gag/aW43jn3)
- - 👉 [Forging a Lethal Sword](http://9gag.com/gag/a6ZYEnm)<!-- MEMES:END -->
+ - 😝 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
+ - 😝 [Cant fall asleep](http://9gag.com/gag/aqyon8R)
+ - 💣 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - 😝 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - 👉 [My heart stopped for a second](http://9gag.com/gag/aByBmV2)<!-- MEMES:END -->
 
 ---
 

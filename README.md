@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Price war: Apple&#39;s 1TB M5 MacBook Pro dips to $1,580](https://appleinsider.com/articles/26/04/16/price-war-apples-1tb-m5-macbook-pro-dips-to-1580?utm_source=rss)
- - [DeepL, best known for its text translation tools, launches DeepL Voice-to-Voice, which enables real-time spoken translation, with add-ons for services like Zoom &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260416/p42#a260416p42)
- - [The Battle for OpenAI’s Soul](https://www.wired.com/story/musk-v-altman-trial-openai-xai/)
- - [The UK unveils Sovereign AI, a £500M fund to invest in domestic AI startups, starting with Callosum, which builds software to help different chips work together &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/260416/p41#a260416p41)
- - [Personal Computer from Perplexity can make a Mac an always-on AI operator](https://appleinsider.com/articles/26/04/16/personal-computer-from-perplexity-can-make-a-mac-an-always-on-ai-operator?utm_source=rss)<!-- TECH:END -->
+ - [AI labs are buying Slack, Jira, and email archives from defunct startups to build &quot;reinforcement learning gyms&quot; and train AI agents in simulated workplaces &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260416/p46#a260416p46)
+ - [OpenAI launches GPT-Rosalind, an AI model for life sciences research, including drug discovery, as a research preview for customers such as Moderna and Amgen &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260416/p45#a260416p45)
+ - [Live Nation says it will fight monopoly suit loss](https://www.theverge.com/policy/913494/live-nation-ticketmaster-fight-state-monopoly-jury-verdict)
+ - [Ozlo’s comfy Sleepbuds are nearly 30 percent off in the run-up to Mother’s Day](https://www.theverge.com/gadgets/913352/ozlo-sleepbuds-mothers-day-deal-sale)
+ - [Teenage Engineering might be getting into instrument amps next](https://www.theverge.com/gadgets/913396/teenage-engineering-ko-amp-35-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [In this economy](http://9gag.com/gag/amo4gMv)
  - 😝 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)
- - 😝 [Cant fall asleep](http://9gag.com/gag/aqyon8R)
- - 💣 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
+ - 💣 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
  - 😝 [My heart stopped for a second](http://9gag.com/gag/aByBmV2)
- - 👉 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)<!-- MEMES:END -->
+ - 👉 [Total is a sad day. My best Friend is gone. 15 years old and you were always there for me. Thanks buddy and rest in peace.](http://9gag.com/gag/a6ZY1Gm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remarkable old school tech](http://9gag.com/gag/avyKA9d)
- - 😝 [Jobs anybody?](http://9gag.com/gag/aMVM4vP)
- - 💣 [Satisfying LightBloom Crystal](http://9gag.com/gag/aW43jn3)
- - 😝 [Idiocracy](http://9gag.com/gag/aYQXV4w)
- - 👉 [Forging a Lethal Sword](http://9gag.com/gag/a6ZYEnm)<!-- MEMES:END -->
+ - 😝 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - 😝 [My heart stopped for a second](http://9gag.com/gag/aByBmV2)
+ - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
+ - 😝 [Nice use of perspect\u2026](http://9gag.com/gag/a9ygn76)
+ - 👉 [Idiocracy](http://9gag.com/gag/aYQXV4w)<!-- MEMES:END -->
 
 ---
 

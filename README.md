@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - 😝 [Going through it boys. F**k you and see you tomorrow](http://9gag.com/gag/aVvy788)
+ - 😝 [Eating out with the bro](http://9gag.com/gag/a9ygnOo)
+ - 💣 [They are not from North](http://9gag.com/gag/a6ZY1M2)
  - 😝 [Intresting question](http://9gag.com/gag/avyKzQd)
- - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
- - 😝 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
- - 👉 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)<!-- MEMES:END -->
+ - 👉 [Total is a sad day. My best Friend is gone. 15 years old and you were always there for me. Thanks buddy and rest in peace.](http://9gag.com/gag/a6ZY1Gm)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates AI Mode in Chrome, letting users open links side by side with AI Mode on desktop; users can search across multiple tabs on desktop and mobile &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260416/p50#a260416p50)
- - [Netflix co-founder Reed Hastings is officially leaving the company](https://www.theverge.com/streaming/913201/netflix-reed-hastings-earnings-q1-2026)
- - [Netflix reports Q1 revenue up 16% YoY to $12.3B, vs. $12.2B est., net income of $5.28B, and forecasts Q2 EPS below estimates; NFLX drops 8%+ after hours &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260416/p49#a260416p49)
- - [Netflix chairman and co-founder Reed Hastings will step down from the company&#39;s board after his term expires in June to focus on philanthropy and other pursuits &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/260416/p48#a260416p48)
- - [Sources: Upscale AI, which builds AI networking infrastructure, is in talks to raise $180M to $200M at a $2B valuation, its third funding round in seven months &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p47#a260416p47)<!-- TECH:END -->
+ - [DuckDuckGo VPN Audit Shows It Doesn&#39;t Track Your Activity](https://www.cnet.com/tech/services-and-software/duckduckgo-vpn-confirms-your-data-is-protected-with-audit/)
+ - [Gucci-branded Google smart glasses are coming next year](https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027)
+ - [Ballmer gives $80 million to NPR, with strings attached](https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached)
+ - [Netflix embraces vertical video with major mobile app update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video)
+ - [Google updates AI Mode in Chrome, letting users open links side by side with AI Mode on desktop; users can search across multiple tabs on desktop and mobile &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260416/p50#a260416p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

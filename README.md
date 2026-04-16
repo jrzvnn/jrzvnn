@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smart Plug Guide &lpar;2026&rpar;: When You Should and Shouldn’t Use One](https://www.wired.com/story/do-you-need-a-smart-plug/)
- - [A look at Doug Liman&#39;s $70M Bitcoin: Killing Satoshi movie, which uses AI for sets, lighting, and more in post-production, cutting costs from an estimated $300M &lpar;Emily Zemler/The Wrap&rpar;](http://www.techmeme.com/260416/p19#a260416p19)
- - [LG Sound Suite Review: Big Sound for Larger Rooms](https://www.wired.com/review/lg-sound-suite-2026/)
- - [Best MacBook Accessories &lpar;2026&rpar;: Chargers, Covers, Keyboards, and More](https://www.wired.com/gallery/best-macbook-accessories/)
- - [Spotify just won $322 million from music pirates it can&amp;#8217;t find](https://www.theverge.com/policy/913007/spotify-annas-archive-music-scraping-lawsuit-judgement)<!-- TECH:END -->
+ - [Meta is increasing the price of the Quest 3 by $100 to $599.99 and both Quest 3S models by $50 to $349.99 for 128GB and $449.99 for 256GB, starting April 19 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260416/p27#a260416p27)
+ - [Ronan Farrow on Sam Altman&amp;#8217;s ‘unconstrained’  relationship with the truth](https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry)
+ - [Character.AI’s new Books mode turns reading into roleplay](https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode)
+ - [The Cybertruck of e-bikes is here to replace your car](https://www.theverge.com/transportation/913008/infinite-machine-olto-ebike-review)
+ - [How to get 10% off Apple AirPods and more when you recycle old devices](https://appleinsider.com/articles/26/04/16/how-to-get-10-off-apple-airpods-and-more-when-you-recycle-old-devices?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

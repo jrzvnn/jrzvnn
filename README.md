@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Voice actors worldwide are mobilizing to protect their livelihoods and personality rights as Hollywood studios push AI dubbing to replace human performances &lpar;Rina Chandran/Rest of World&rpar;](http://www.techmeme.com/260416/p8#a260416p8)
- - [A primer on interpretability and how AI researchers are figuring out how to open and understand the &quot;black box&quot; that holds the formulas within most AI models &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/260416/p7#a260416p7)
- - [How cyberscammers are bypassing major banks&#39; KYC facial scans using stolen biometric data and virtual camera tools sold via Telegram channels &lpar;Fiona Kelliher/MIT Technology Review&rpar;](http://www.techmeme.com/260416/p6#a260416p6)
- - [India produces over 1.5M CS graduates annually, but scale is no longer an advantage with the rise of AI coding tools; Infosys revamps hiring to focus on AI &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260416/p5#a260416p5)
- - [Analysis: China&#39;s chipmaking tool imports from Singapore rose 17% YoY to $5.7B in 2025, from Malaysia rose 2x+ to $3.4B; direct US imports fell 34% YoY to ~$2B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260416/p4#a260416p4)<!-- TECH:END -->
+ - [MAGA Indians Went All In on Trump. Many Right-Wingers Can’t Stand Them](https://www.wired.com/story/maga-indians-went-all-in-on-trump/)
+ - [Analysis and filings: Google owns a ~5% SpaceX stake, down from 6.11% at 2025&#39;s end; if SpaceX hits a $2T IPO valuation, Google&#39;s stake would be worth $100B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p13#a260416p13)
+ - [YouTube now lets users set a zero-minute Shorts time limit, effectively removing them from its iOS and Android app; the lowest previous option was 15 minutes &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260416/p12#a260416p12)
+ - [The Best Pillows for Neck Pain, Recommended by a Sleep Science Coach &lpar;2026&rpar;](https://www.wired.com/gallery/best-pillows-for-neck-pain/)
+ - [Germany-based Synera, which develops AI agents to automate CAD and engineering workflows, raised $40M to expand across Europe, the US, and Asia-Pacific &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260416/p11#a260416p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

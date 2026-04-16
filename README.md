@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: UK paraplegic athlete Claire Lomas was being filmed for Apple Vision Pro series Adventure when she crashed a microlight in Jordan and died in July 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260416/p18#a260416p18)
- - [This Beanie Is Designed to Read Your Thoughts](https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/)
- - [Heybike Comfort Ranger 3.0 Pro Electric Bike Review: Tough Little Cargo Ebike](https://www.wired.com/review/heybike-comfort-ranger-30-pro/)
- - [Big Tech companies say a $90B data center buildout in Spain&#39;s Aragón, one of Europe&#39;s fastest-growing hubs, should be an EU model, as local residents push back &lpar;Clara Hernanz Lizarraga/Bloomberg&rpar;](http://www.techmeme.com/260416/p17#a260416p17)
- - [Robot Vacuum Throwdown: Shark Versus Dyson &lpar;2026&rpar;](https://www.wired.com/story/dyson-shark-robot-vacuum-comparison/)<!-- TECH:END -->
+ - [Smart Plug Guide &lpar;2026&rpar;: When You Should and Shouldn’t Use One](https://www.wired.com/story/do-you-need-a-smart-plug/)
+ - [A look at Doug Liman&#39;s $70M Bitcoin: Killing Satoshi movie, which uses AI for sets, lighting, and more in post-production, cutting costs from an estimated $300M &lpar;Emily Zemler/The Wrap&rpar;](http://www.techmeme.com/260416/p19#a260416p19)
+ - [LG Sound Suite Review: Big Sound for Larger Rooms](https://www.wired.com/review/lg-sound-suite-2026/)
+ - [Best MacBook Accessories &lpar;2026&rpar;: Chargers, Covers, Keyboards, and More](https://www.wired.com/gallery/best-macbook-accessories/)
+ - [Spotify just won $322 million from music pirates it can&amp;#8217;t find](https://www.theverge.com/policy/913007/spotify-annas-archive-music-scraping-lawsuit-judgement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - 😝 [Well well well](http://9gag.com/gag/aGy4dNZ)
- - 💣 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
- - 😝 [Some people](http://9gag.com/gag/aGy4d76)
+ - 😝 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
+ - 😝 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
+ - 😝 [Intresting question](http://9gag.com/gag/avyKzQd)
  - 👉 [Great, now I&#39;m never getting out](http://9gag.com/gag/ayNjMdp)<!-- MEMES:END -->
 
 ---

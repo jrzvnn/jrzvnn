@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [European VC funding in Q1 2026 rose nearly 30% YoY to $17.6B, AI claimed over 50% of all European funding for the quarter, and deal volume dropped 40% YoY &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/260415/p49#a260415p49)
- - [Stuck in a Coffee Rut? ChatGPT Can Now Plan Your Next Starbucks Order](https://www.cnet.com/tech/services-and-software/chatgpt-starbucks-app-beta/)
- - [Anthropic rolls out identity verification that may require Claude users to provide a government-issued photo ID and live selfie to access &quot;certain capabilities&quot; &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260415/p48#a260415p48)
- - [Best Power Bank for iPhones in 2026](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/)
- - [A TTP analysis finds dozens of nudify apps in Apple and Google app stores via search, despite company policy prohibiting them; the apps earned $122M+ in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/260415/p47#a260415p47)<!-- TECH:END -->
+ - [Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders](https://www.wired.com/story/birdfy-discount-code/)
+ - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)
+ - [50% Off Home Depot Promo Codes | April 2026](https://www.wired.com/story/home-depot-promo-code/)
+ - [Therabody Promo Codes: 15% Off April 2026](https://www.wired.com/story/therabody-promo-code/)
+ - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

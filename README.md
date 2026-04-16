@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon issues $589 MacBook Neo deal, lowest price on new release](https://appleinsider.com/articles/26/04/16/amazon-issues-589-macbook-neo-deal-lowest-price-on-new-release?utm_source=rss)
  - [Netflix says its 2026 ad revenue remains on track to reach $3B, doubling from 2025, and it now works with over 4,000 advertising clients, up 70% YoY &lpar;Bill Bradley/Adweek&rpar;](http://www.techmeme.com/260416/p51#a260416p51)
+ - [Netflix Is Introducing Vertical Video to Its Mobile App This Month](https://www.cnet.com/tech/services-and-software/netflix-is-bringing-vertical-video-to-mobile-this-month/)
  - [DuckDuckGo VPN Audit Shows It Doesn&#39;t Track Your Activity](https://www.cnet.com/tech/services-and-software/duckduckgo-vpn-confirms-your-data-is-protected-with-audit/)
- - [Gucci-branded Google smart glasses are coming next year](https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027)
- - [Ballmer gives $80 million to NPR, with strings attached](https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached)
- - [Netflix embraces vertical video with major mobile app update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video)<!-- TECH:END -->
+ - [Gucci-branded Google smart glasses are coming next year](https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

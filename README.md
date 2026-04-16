@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - 😝 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
- - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
- - 😝 [The beavers won&#39;t be very amused](http://9gag.com/gag/a6ZYNpA)
- - 👉 [Great, now I&#39;m never getting out](http://9gag.com/gag/ayNjMdp)<!-- MEMES:END -->
+ - 😝 [For Gods sake Rebecca, that&#39;s disgusting](http://9gag.com/gag/a7oR3Rx)
+ - 💣 [Cant fall asleep](http://9gag.com/gag/aqyon8R)
+ - 😝 [Great, now I&#39;m never getting out](http://9gag.com/gag/ayNjMdp)
+ - 👉 [Some people](http://9gag.com/gag/aGy4d76)<!-- MEMES:END -->
 
 ---
 

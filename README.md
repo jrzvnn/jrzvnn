@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is increasing the price of the Quest 3 by $100 to $599.99 and both Quest 3S models by $50 to $349.99 for 128GB and $449.99 for 256GB, starting April 19 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260416/p27#a260416p27)
- - [Ronan Farrow on Sam Altman&amp;#8217;s ‘unconstrained’  relationship with the truth](https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry)
- - [Character.AI’s new Books mode turns reading into roleplay](https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode)
- - [The Cybertruck of e-bikes is here to replace your car](https://www.theverge.com/transportation/913008/infinite-machine-olto-ebike-review)
- - [How to get 10% off Apple AirPods and more when you recycle old devices](https://appleinsider.com/articles/26/04/16/how-to-get-10-off-apple-airpods-and-more-when-you-recycle-old-devices?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic says Opus 4.7 uses &quot;an updated tokenizer that improves how the model processes text&quot;, but &quot;the tradeoff is that the same input can map to more tokens&quot; &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260416/p31#a260416p31)
+ - [How Netflix made us fall in love with K-dramas](https://www.theverge.com/column/913101/netflix-korean-movies-tv-shows)
+ - [Smartphone buyers are more loyal than ever, but they still switch to iPhone](https://appleinsider.com/articles/26/04/16/smartphone-buyers-are-more-loyal-than-ever-but-they-still-switch-to-iphone?utm_source=rss)
+ - [It’s slushy season, and Ninja’s frozen drink machine is nearly half off](https://www.theverge.com/gadgets/913067/ninja-slushi-frozen-drink-machine-youtube-premium-deal-sale)
+ - [Canva unveils Canva AI 2.0, which can generate editable layered designs from conversational prompts using Canva&#39;s foundation model built specifically for design &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260416/p30#a260416p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Voice actors worldwide are mobilizing to protect their livelihoods and personality rights as Hollywood studios push AI dubbing to replace human performances &lpar;Rina Chandran/Rest of World&rpar;](http://www.techmeme.com/260416/p8#a260416p8)
  - [A primer on interpretability and how AI researchers are figuring out how to open and understand the &quot;black box&quot; that holds the formulas within most AI models &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/260416/p7#a260416p7)
  - [How cyberscammers are bypassing major banks&#39; KYC facial scans using stolen biometric data and virtual camera tools sold via Telegram channels &lpar;Fiona Kelliher/MIT Technology Review&rpar;](http://www.techmeme.com/260416/p6#a260416p6)
  - [India produces over 1.5M CS graduates annually, but scale is no longer an advantage with the rise of AI coding tools; Infosys revamps hiring to focus on AI &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260416/p5#a260416p5)
- - [Analysis: China&#39;s chipmaking tool imports from Singapore rose 17% YoY to $5.7B in 2025, from Malaysia rose 2x+ to $3.4B; direct US imports fell 34% YoY to ~$2B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260416/p4#a260416p4)
- - [Sources say Ola&#39;s AI venture Krutrim&#39;s smart assistant Kruti is unavailable to users and the development of its Indian multilingual LLM, Krutrim 3, has stalled &lpar;Swathi Moorthy/The Economic Times&rpar;](http://www.techmeme.com/260416/p3#a260416p3)<!-- TECH:END -->
+ - [Analysis: China&#39;s chipmaking tool imports from Singapore rose 17% YoY to $5.7B in 2025, from Malaysia rose 2x+ to $3.4B; direct US imports fell 34% YoY to ~$2B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260416/p4#a260416p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

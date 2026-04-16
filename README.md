@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Mercor staffers describe &quot;operational mishaps&quot; at the $10B startup, including employee fraud, a security breach, and suspected North Korean infiltration &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/260415/p45#a260415p45)
- - [Deepfake nonconsensual porn apps are advertising in the App Store](https://appleinsider.com/articles/26/04/15/deepfake-nonconsensual-porn-apps-are-advertising-in-the-app-store?utm_source=rss)
- - [Filings: Caterpillar acquires self-driving electric tractor startup Monarch Tractor&#39;s assets, after it raised $200M+ and struggled to pivot to software services &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260415/p44#a260415p44)
- - [Improbable Visa &amp; iPhone loophole leads to Apple Pay heist that&#39;ll never happen to you](https://appleinsider.com/articles/26/04/15/improbable-visa-iphone-loophole-leads-to-apple-pay-heist-thatll-never-happen-to-you?utm_source=rss)
- - [‘Avatar: Aang, The Last Airbender’ Leaked Online. Some Fans Say Paramount Deserves the Fallout](https://www.wired.com/story/the-last-airbender-leak-fans-say-paramount-deserves-fallout/)<!-- TECH:END -->
+ - [European VC funding in Q1 2026 rose nearly 30% YoY to $17.6B, AI claimed over 50% of all European funding for the quarter, and deal volume dropped 40% YoY &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/260415/p49#a260415p49)
+ - [Stuck in a Coffee Rut? ChatGPT Can Now Plan Your Next Starbucks Order](https://www.cnet.com/tech/services-and-software/chatgpt-starbucks-app-beta/)
+ - [Anthropic rolls out identity verification that may require Claude users to provide a government-issued photo ID and live selfie to access &quot;certain capabilities&quot; &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260415/p48#a260415p48)
+ - [Best Power Bank for iPhones in 2026](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/)
+ - [A TTP analysis finds dozens of nudify apps in Apple and Google app stores via search, despite company policy prohibiting them; the apps earned $122M+ in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/260415/p47#a260415p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
- - 😝 [Cream](http://9gag.com/gag/abAngZv)
- - 💣 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
- - 😝 [I am very shocked about this](http://9gag.com/gag/ae98ANp)
- - 👉 [He didn&#39;t lie in his resume](http://9gag.com/gag/aXP6nMP)<!-- MEMES:END -->
+ - 😝 [Choke point](http://9gag.com/gag/aByBd9Z)
+ - 😝 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - 💣 [Cream](http://9gag.com/gag/abAngZv)
+ - 😝 [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
+ - 👉 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)<!-- MEMES:END -->
 
 ---
 

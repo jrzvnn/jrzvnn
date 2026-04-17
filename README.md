@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix plans to launch a vertical video feed, to help with content discovery, this month, and plans to use AI for content creation and recommendations &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260417/p24#a260417p24)
- - [Play Hades 2, the Award-Winning Sequel, on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/play-hades-2-the-award-winning-sequel-on-xbox-game-pass-now/)
- - [Our new favorite budget phones](https://www.theverge.com/tech/912286/our-new-favorite-budget-phones)
- - [The best budget smartphones you can buy](https://www.theverge.com/gadgets/912271/best-budget-smartphones-cheap-iphone-android-phones)
- - [Dairy Queen is putting an AI chatbot in its drive-thrus](https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto)<!-- TECH:END -->
+ - [Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder](https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/)
+ - [App Store scams are getting worse and Apple isn&#39;t doing enough](https://appleinsider.com/articles/26/04/17/app-store-scams-are-getting-worse-and-apple-isnt-doing-enough?utm_source=rss)
+ - [Ad buyers say ad rates for ChatGPT are falling from $60 CPM to as low as $25 and the minimum spend to advertise is down to $50K from $250K at launch &lpar;Krystal Scanlon/Digiday&rpar;](http://www.techmeme.com/260417/p25#a260417p25)
+ - [Was This Game Just On Sale? Steam May Show Price Shifts Over the Past 30 Days](https://www.cnet.com/tech/gaming/steam-may-show-lowest-prices-over-the-past-30-days/)
+ - [Casely Is Recalling Wireless Power Pods Over Fire and Burn Risks, Again](https://www.cnet.com/tech/mobile/casely-is-recalling-wireless-power-pods-over-fire-and-burn-risks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

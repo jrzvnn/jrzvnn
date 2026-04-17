@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - 😝 [Well well well](http://9gag.com/gag/aGy4dNZ)
- - 💣 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
- - 😝 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
- - 👉 [The woman\u2019s noise vs the guys \u201cwell, that was pretty cool\u201d](http://9gag.com/gag/axyqobK)<!-- MEMES:END -->
+ - 😝 [Hope she treats mark well](http://9gag.com/gag/aZZOrjn)
+ - 😝 [Murica sh*t](http://9gag.com/gag/aGy4dqG)
+ - 💣 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)
+ - 😝 [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
+ - 👉 [He didn&#39;t lie in his resume](http://9gag.com/gag/aXP6nMP)<!-- MEMES:END -->
 
 ---
 

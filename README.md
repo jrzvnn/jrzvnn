@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My heart stopped for a second](http://9gag.com/gag/aByBmV2)
- - 😝 [Cant fall asleep](http://9gag.com/gag/aqyon8R)
- - 💣 [Nice use of perspect\u2026](http://9gag.com/gag/a9ygn76)
+ - 😝 [Satisfying LightBloom Crystal](http://9gag.com/gag/aW43jn3)
  - 😝 [Idiocracy](http://9gag.com/gag/aYQXV4w)
- - 👉 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)<!-- MEMES:END -->
+ - 💣 [Total is a sad day. My best Friend is gone. 15 years old and you were always there for me. Thanks buddy and rest in peace.](http://9gag.com/gag/a6ZY1Gm)
+ - 😝 [Remarkable old school tech](http://9gag.com/gag/avyKA9d)
+ - 👉 [Jobs anybody?](http://9gag.com/gag/aMVM4vP)<!-- MEMES:END -->
 
 ---
 

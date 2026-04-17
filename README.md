@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
  - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
- - 💣 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
  - 😝 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
- - 👉 [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)<!-- MEMES:END -->
+ - 💣 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
+ - 😝 [Post it!](http://9gag.com/gag/aKGomwg)
+ - 👉 [Would totally wear this...](http://9gag.com/gag/aPAbAgK)<!-- MEMES:END -->
 
 ---
 

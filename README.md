@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma stock drops ~7% after Anthropic launched Claude Design, a dedicated app powered by its latest model Claude Opus 4.7 &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/260417/p30#a260417p30)
- - [In disclosures due to Broadcom CEO Hock Tan&#39;s presence on the Meta board, Meta says it paid Broadcom $2.3B in 2025; Tan is leaving the board &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/260417/p29#a260417p29)
- - [Aspekt Touch 4K Monitor with Mac mini dock is cool, but $2200 is too expensive](https://appleinsider.com/articles/26/04/17/aspekt-touch-4k-monitor-with-mac-mini-dock-is-cool-but-2200-is-too-expensive?utm_source=rss)
- - [Sources: Cursor is in advanced talks to raise about $2B co-led by a16z at a pre-money valuation of more than $50B, with Nvidia participating &lpar;Bloomberg&rpar;](http://www.techmeme.com/260417/p28#a260417p28)
- - [Could Your Next Phone Be a Foldable? New Tech and a Possible Apple Model Makes It More Likely](https://www.cnet.com/tech/mobile/could-your-next-phone-be-a-foldable-new-tech-and-a-possible-apple-model-makes-it-more-likely/)<!-- TECH:END -->
+ - [Kevin Weil, OpenAI&#39;s former CPO who became VP of OpenAI for Science, is leaving the company; Prism, a web app for scientists launched in Jan., will be shuttered &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260417/p32#a260417p32)
+ - [Anthropic’s new cybersecurity model could get it back in the government’s good graces](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview)
+ - [OpenAI Executive Kevin Weil Is Leaving the Company](https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/)
+ - [Sources: Meta intends to conduct a first wave of sweeping layoffs planned for this year on May 20, laying off ~10% of its global workforce, or ~8,000 employees &lpar;Reuters&rpar;](http://www.techmeme.com/260417/p31#a260417p31)
+ - [Figma stock drops ~7% after Anthropic launched Claude Design, a dedicated app powered by its latest model Claude Opus 4.7 &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/260417/p30#a260417p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

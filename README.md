@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
- - 😝 [Thursday is a small friday ^^](http://9gag.com/gag/a1m31X6)
- - 💣 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
- - 😝 [Some people](http://9gag.com/gag/aGy4d76)
- - 👉 [Cream](http://9gag.com/gag/abAngZv)<!-- MEMES:END -->
+ - 😝 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)
+ - 😝 [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
+ - 💣 [Cream](http://9gag.com/gag/abAngZv)
+ - 😝 [Post it!](http://9gag.com/gag/aKGomwg)
+ - 👉 [So I fact checked it aaaaaand it&#39;s true.](http://9gag.com/gag/aMVMEgX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IAB and PwC: digital ad revenue hit $294.6B in 2025, up 13.9% YoY; social media advertising hit $117.7B, up 32.6%, and digital video hit $78B, up 25.4% &lpar;George Winslow/TV Tech&rpar;](http://www.techmeme.com/260416/p54#a260416p54)
+ - [YouTube’s mobile app finally lets you share timestamped videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips)
  - [The US and the Philippines agree to launch a high-tech industrial hub on the island of Luzon to counter China&#39;s supply chains; the US will run it as an SEZ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260416/p53#a260416p53)
  - [Casely Power Pods recall reannounced after a fatality in New Jersey](https://appleinsider.com/articles/26/04/16/casely-power-pods-recall-reannounced-after-a-fatality-in-new-jersey?utm_source=rss)
- - [$320M money laundering scheme uncovered using iCloud backup](https://appleinsider.com/articles/26/04/16/320m-money-laundering-scheme-uncovered-using-icloud-backup?utm_source=rss)
- - [NYC-based Nas.com, an AI platform founded by content creator Nas Daily that helps solo entrepreneurs build online stores, raised a $27M Series A led by Khosla &lpar;Robert Scammell/Business Insider&rpar;](http://www.techmeme.com/260416/p52#a260416p52)
- - [Amazon issues $589 MacBook Neo deal, lowest price on new release](https://appleinsider.com/articles/26/04/16/amazon-issues-589-macbook-neo-deal-lowest-price-on-new-release?utm_source=rss)<!-- TECH:END -->
+ - [$320M money laundering scheme uncovered using iCloud backup](https://appleinsider.com/articles/26/04/16/320m-money-laundering-scheme-uncovered-using-icloud-backup?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

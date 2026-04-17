@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Satisfying LightBloom Crystal](http://9gag.com/gag/aW43jn3)
- - 😝 [Idiocracy](http://9gag.com/gag/aYQXV4w)
- - 💣 [Total is a sad day. My best Friend is gone. 15 years old and you were always there for me. Thanks buddy and rest in peace.](http://9gag.com/gag/a6ZY1Gm)
- - 😝 [Remarkable old school tech](http://9gag.com/gag/avyKA9d)
- - 👉 [Jobs anybody?](http://9gag.com/gag/aMVM4vP)<!-- MEMES:END -->
+ - 😝 [She made a strong impression](http://9gag.com/gag/aPAb7zQ)
+ - 😝 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
+ - 💣 [Backflip catching a frozen piss missile, with the superhero landing](http://9gag.com/gag/aKGo6OQ)
+ - 😝 [He didn&#39;t lie in his resume](http://9gag.com/gag/aXP6nMP)
+ - 👉 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)<!-- MEMES:END -->
 
 ---
 

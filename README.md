@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber agrees to pay ~€270M for an additional 4.5% stake in German food delivery rival Delivery Hero from Prosus, which would bring its total stake to ~7% &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p6#a260417p6)
- - [Nothing Phone &lpar;4a&rpar; Pro Review: A Close Second](https://www.wired.com/review/nothing-phone-4a-pro/)
- - [The Shocking Secrets of Madison Square Garden&#39;s Surveillance Machine](https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/)
- - [Sources: Sequoia raised ~$7B for a new fund, the first fundraising round under its new leadership; the firm&#39;s last expansion fund was a $3.4B vehicle in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260417/p5#a260417p5)
- - [Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them](https://www.wired.com/story/spoofed-tankers-strait-of-hormuz/)<!-- TECH:END -->
+ - [How Can Astronauts Tell How Fast They’re Going?](https://www.wired.com/story/how-can-astronauts-tell-how-fast-theyre-going/)
+ - [Canyon Spectral:ON CF 8 Electric Mountain Bike: Beginner-Friendly, Under $5K](https://www.wired.com/review/canyon-spectralon-cf-8/)
+ - [The Influencers Normalizing Not Having Sex](https://www.wired.com/story/the-influencers-normalizing-not-having-sex/)
+ - [Sources: Dario Amodei is set to meet with WH Chief of Staff Susie Wiles on Friday, a breakthrough in Anthropic&#39;s effort to resolve its fight with the Pentagon &lpar;Axios&rpar;](http://www.techmeme.com/260417/p7#a260417p7)
+ - [AT&amp;T Revamped Its Unlimited Phone Plans. Here&#39;s How They Compare](https://www.cnet.com/tech/mobile/att-revamped-its-unlimited-phone-plans-heres-how-they-compare/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder](https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/)
- - [App Store scams are getting worse and Apple isn&#39;t doing enough](https://appleinsider.com/articles/26/04/17/app-store-scams-are-getting-worse-and-apple-isnt-doing-enough?utm_source=rss)
- - [Ad buyers say ad rates for ChatGPT are falling from $60 CPM to as low as $25 and the minimum spend to advertise is down to $50K from $250K at launch &lpar;Krystal Scanlon/Digiday&rpar;](http://www.techmeme.com/260417/p25#a260417p25)
- - [Was This Game Just On Sale? Steam May Show Price Shifts Over the Past 30 Days](https://www.cnet.com/tech/gaming/steam-may-show-lowest-prices-over-the-past-30-days/)
- - [Casely Is Recalling Wireless Power Pods Over Fire and Burn Risks, Again](https://www.cnet.com/tech/mobile/casely-is-recalling-wireless-power-pods-over-fire-and-burn-risks/)<!-- TECH:END -->
+ - [Betting on the news raises ethical questions for journalists](https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket)
+ - [World expands its Tinder partnership and partners with Zoom and others to verify human users, as it continues its pivot from crypto to identity verification &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260417/p26#a260417p26)
+ - [Aspekt Touch 4K Monitor with Mac mini dock is cool, but $2200 is too expensive](https://appleinsider.com/articles/26/04/17/aspekt-touch-4k-monitor-with-mac-mini-dock-is-cool-but-2200-is-too-expensive?utm_source=rss)
+ - [This charming gadget writes bad AI poetry](https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on)
+ - [Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder](https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

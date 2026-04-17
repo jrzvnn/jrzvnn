@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kevin Weil, OpenAI&#39;s former CPO who became VP of OpenAI for Science, is leaving the company; Prism, a web app for scientists launched in Jan., will be shuttered &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260417/p32#a260417p32)
- - [Anthropic’s new cybersecurity model could get it back in the government’s good graces](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview)
- - [OpenAI Executive Kevin Weil Is Leaving the Company](https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/)
- - [Sources: Meta intends to conduct a first wave of sweeping layoffs planned for this year on May 20, laying off ~10% of its global workforce, or ~8,000 employees &lpar;Reuters&rpar;](http://www.techmeme.com/260417/p31#a260417p31)
- - [Figma stock drops ~7% after Anthropic launched Claude Design, a dedicated app powered by its latest model Claude Opus 4.7 &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/260417/p30#a260417p30)<!-- TECH:END -->
+ - [Bill Peebles, the researcher behind Sora, is leaving OpenAI as the company consolidates around enterprise AI and its forthcoming &quot;superapp&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260417/p34#a260417p34)
+ - [Cerebras files to go public on Nasdaq and reports $510M in 2025 revenue, up 76% YoY, with a net income of $87.9M, up from a $485M net loss in 2024 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260417/p33#a260417p33)
+ - [Should you stare into Sam Altman&amp;#8217;s orb before your next date?](https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb)
+ - [India won&#39;t force Apple to preinstall its state-run app on iPhone after all](https://appleinsider.com/articles/26/04/17/india-wont-force-apple-to-preinstall-its-state-run-app-on-iphone-after-all?utm_source=rss)
+ - [Kevin Weil, OpenAI&#39;s former CPO who became VP of OpenAI for Science, is leaving the company; Prism, a web app for scientists launched in Jan., will be shuttered &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260417/p32#a260417p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

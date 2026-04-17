@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IAB and PwC: digital ad revenue hit $294.6B in 2025, up 13.9% YoY; social media advertising hit $117.7B, up 32.6%, and digital video hit $78B, up 25.4% &lpar;George Winslow/TV Tech&rpar;](http://www.techmeme.com/260416/p54#a260416p54)
- - [YouTube’s mobile app finally lets you share timestamped videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips)
- - [The US and the Philippines agree to launch a high-tech industrial hub on the island of Luzon to counter China&#39;s supply chains; the US will run it as an SEZ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260416/p53#a260416p53)
- - [Casely Power Pods recall reannounced after a fatality in New Jersey](https://appleinsider.com/articles/26/04/16/casely-power-pods-recall-reannounced-after-a-fatality-in-new-jersey?utm_source=rss)
- - [$320M money laundering scheme uncovered using iCloud backup](https://appleinsider.com/articles/26/04/16/320m-money-laundering-scheme-uncovered-using-icloud-backup?utm_source=rss)<!-- TECH:END -->
+ - [Mozilla launches Thunderbolt, an open-source AI client for users and businesses who want to run their own self-hosted AI infrastructure, available on GitHub &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/260416/p61#a260416p61)
+ - [Q&amp;A: Ronan Farrow on his Sam Altman profile in The New Yorker, how Altman changed in 18 months of reporting, OpenAI&#39;s board drama and enterprise shift, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260416/p60#a260416p60)
+ - [Sources: Cerebras plans to make its IPO public as soon as Friday, aiming to raise $3B+ at a $35B+ valuation, a 60% premium to its $22B February valuation &lpar;The Information&rpar;](http://www.techmeme.com/260416/p59#a260416p59)
+ - [Opera Adds Browser Connector Feature to Integrate AI Chatbots Into Browsers](https://www.cnet.com/tech/opera-adds-browser-connector-feature-to-integrate-ai-chatbots-into-browsers/)
+ - [Sources: OpenAI agrees to pay Cerebras $20B+ to use its server chips, double the amount previously associated with the deal, and may receive equity in Cerebras &lpar;The Information&rpar;](http://www.techmeme.com/260416/p58#a260416p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

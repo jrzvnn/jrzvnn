@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She made a strong impression](http://9gag.com/gag/aPAb7zQ)
- - 😝 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
- - 💣 [Some people](http://9gag.com/gag/aGy4d76)
- - 😝 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
- - 👉 [Cant fall asleep](http://9gag.com/gag/aqyon8R)<!-- MEMES:END -->
+ - 😝 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - 😝 [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - 💣 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
+ - 😝 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
+ - 👉 [The woman\u2019s noise vs the guys \u201cwell, that was pretty cool\u201d](http://9gag.com/gag/axyqobK)<!-- MEMES:END -->
 
 ---
 

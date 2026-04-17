@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She made a strong impression](http://9gag.com/gag/aPAb7zQ)
- - 😝 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
- - 💣 [Backflip catching a frozen piss missile, with the superhero landing](http://9gag.com/gag/aKGo6OQ)
- - 😝 [He didn&#39;t lie in his resume](http://9gag.com/gag/aXP6nMP)
- - 👉 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)<!-- MEMES:END -->
+ - 😝 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
+ - 💣 [Some people](http://9gag.com/gag/aGy4d76)
+ - 😝 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - 👉 [Cant fall asleep](http://9gag.com/gag/aqyon8R)<!-- MEMES:END -->
 
 ---
 

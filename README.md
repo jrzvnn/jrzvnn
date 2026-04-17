@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some shareholders are questioning whether Sam Altman should lead OpenAI through the turbulence of an IPO and have floated Bret Taylor as a successor &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260417/p19#a260417p19)
- - [Epic Games vs Apple -- The continuing six-year App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss)
- - [Republican Mutiny Sinks Trump&#39;s Push to Extend Warrantless Surveillance](https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/)
- - [India drops a proposal to require Apple, Google, Samsung, and other smartphone makers to preinstall the country&#39;s biometric identification app Aadhaar on phones &lpar;Reuters&rpar;](http://www.techmeme.com/260417/p18#a260417p18)
- - [Ghost orchid in the machine](https://www.theverge.com/tech/909806/kinetic-sculpture-fake-flowers-mechanical-artwork-rachel-youn)<!-- TECH:END -->
+ - [China&#39;s smartphone shipments declined 4% YoY in Q1 amid memory shortages; Huawei&#39;s shipments grew 2% YoY for a 20% market share, iPhone grew 20% for a 19% share &lpar;Ivan Lam/Counterpoint Research&rpar;](http://www.techmeme.com/260417/p23#a260417p23)
+ - [Sources: xAI plans to let Cursor train Composer 2.5 AI coding model using tens of thousands of xAI&#39;s GPUs, a new strategy for xAI in a competitive AI landscape &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260417/p22#a260417p22)
+ - [Anthropic launches Claude Design, a new experimental product that lets users create visuals like prototypes, slides, one-pagers, and more using Claude &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260417/p21#a260417p21)
+ - [The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price](https://www.theverge.com/gadgets/913857/apple-airpods-pro-3-blink-video-doorbell-deal-sale)
+ - [Sources: DeepSeek is in talks to raise outside capital for the first time, seeking at least $300M at a valuation of at least $10B &lpar;The Information&rpar;](http://www.techmeme.com/260417/p20#a260417p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

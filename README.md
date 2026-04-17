@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Betting on the news raises ethical questions for journalists](https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket)
- - [World expands its Tinder partnership and partners with Zoom and others to verify human users, as it continues its pivot from crypto to identity verification &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260417/p26#a260417p26)
+ - [Figma stock drops ~7% after Anthropic launched Claude Design, a dedicated app powered by its latest model Claude Opus 4.7 &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/260417/p30#a260417p30)
+ - [In disclosures due to Broadcom CEO Hock Tan&#39;s presence on the Meta board, Meta says it paid Broadcom $2.3B in 2025; Tan is leaving the board &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/260417/p29#a260417p29)
  - [Aspekt Touch 4K Monitor with Mac mini dock is cool, but $2200 is too expensive](https://appleinsider.com/articles/26/04/17/aspekt-touch-4k-monitor-with-mac-mini-dock-is-cool-but-2200-is-too-expensive?utm_source=rss)
- - [This charming gadget writes bad AI poetry](https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on)
- - [Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder](https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/)<!-- TECH:END -->
+ - [Sources: Cursor is in advanced talks to raise about $2B co-led by a16z at a pre-money valuation of more than $50B, with Nvidia participating &lpar;Bloomberg&rpar;](http://www.techmeme.com/260417/p28#a260417p28)
+ - [Could Your Next Phone Be a Foldable? New Tech and a Possible Apple Model Makes It More Likely](https://www.cnet.com/tech/mobile/could-your-next-phone-be-a-foldable-new-tech-and-a-possible-apple-model-makes-it-more-likely/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s smartphone shipments declined 4% YoY in Q1 amid memory shortages; Huawei&#39;s shipments grew 2% YoY for a 20% market share, iPhone grew 20% for a 19% share &lpar;Ivan Lam/Counterpoint Research&rpar;](http://www.techmeme.com/260417/p23#a260417p23)
- - [Sources: xAI plans to let Cursor train Composer 2.5 AI coding model using tens of thousands of xAI&#39;s GPUs, a new strategy for xAI in a competitive AI landscape &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260417/p22#a260417p22)
- - [Anthropic launches Claude Design, a new experimental product that lets users create visuals like prototypes, slides, one-pagers, and more using Claude &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260417/p21#a260417p21)
- - [The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price](https://www.theverge.com/gadgets/913857/apple-airpods-pro-3-blink-video-doorbell-deal-sale)
- - [Sources: DeepSeek is in talks to raise outside capital for the first time, seeking at least $300M at a valuation of at least $10B &lpar;The Information&rpar;](http://www.techmeme.com/260417/p20#a260417p20)<!-- TECH:END -->
+ - [Netflix plans to launch a vertical video feed, to help with content discovery, this month, and plans to use AI for content creation and recommendations &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260417/p24#a260417p24)
+ - [Play Hades 2, the Award-Winning Sequel, on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/play-hades-2-the-award-winning-sequel-on-xbox-game-pass-now/)
+ - [Our new favorite budget phones](https://www.theverge.com/tech/912286/our-new-favorite-budget-phones)
+ - [The best budget smartphones you can buy](https://www.theverge.com/gadgets/912271/best-budget-smartphones-cheap-iphone-android-phones)
+ - [Dairy Queen is putting an AI chatbot in its drive-thrus](https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

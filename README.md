@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cream](http://9gag.com/gag/abAngZv)
+ - 😝 [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
  - 😝 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
- - 💣 [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
- - 😝 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
- - 👉 [Surprise MF](http://9gag.com/gag/aVvyvD2)<!-- MEMES:END -->
+ - 💣 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - 😝 [Thursday is a small friday ^^](http://9gag.com/gag/a1m31X6)
+ - 👉 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)<!-- MEMES:END -->
 
 ---
 

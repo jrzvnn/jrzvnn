@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6,000 Meters Under the Pacific, Japan Seeks Independence From China on Rare Earths](https://www.wired.com/story/under-the-pacific-japan-seeks-independence-from-china-on-rare-earths/)
- - [Physical Intelligence says its new model, π0.7, can direct robots on tasks they weren&#39;t trained on, an &quot;early sign&quot; of generalization, surprising researchers &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260417/p4#a260417p4)
- - [Sources: OnlyFans is in advanced talks to sell a below 20% stake at a $3B+ valuation; previous reports said it wants to sell a ~60% stake at a ~$5.5B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p3#a260417p3)
- - [Sources: China mobilizes multiple agencies to probe Meta&#39;s $2B Manus deal; some officials worry aggressive measures may send chilling signals to the tech sector &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p2#a260417p2)
- - [Foreo Discount Codes and Deals: Up to 50% Off](https://www.wired.com/story/foreo-promo-code/)<!-- TECH:END -->
+ - [Uber agrees to pay ~€270M for an additional 4.5% stake in German food delivery rival Delivery Hero from Prosus, which would bring its total stake to ~7% &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p6#a260417p6)
+ - [Nothing Phone &lpar;4a&rpar; Pro Review: A Close Second](https://www.wired.com/review/nothing-phone-4a-pro/)
+ - [The Shocking Secrets of Madison Square Garden&#39;s Surveillance Machine](https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/)
+ - [Sources: Sequoia raised ~$7B for a new fund, the first fundraising round under its new leadership; the firm&#39;s last expansion fund was a $3.4B vehicle in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260417/p5#a260417p5)
+ - [Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them](https://www.wired.com/story/spoofed-tankers-strait-of-hormuz/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

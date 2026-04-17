@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bill Peebles, the researcher behind Sora, is leaving OpenAI as the company consolidates around enterprise AI and its forthcoming &quot;superapp&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260417/p34#a260417p34)
- - [Cerebras files to go public on Nasdaq and reports $510M in 2025 revenue, up 76% YoY, with a net income of $87.9M, up from a $485M net loss in 2024 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260417/p33#a260417p33)
- - [Should you stare into Sam Altman&amp;#8217;s orb before your next date?](https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb)
- - [India won&#39;t force Apple to preinstall its state-run app on iPhone after all](https://appleinsider.com/articles/26/04/17/india-wont-force-apple-to-preinstall-its-state-run-app-on-iphone-after-all?utm_source=rss)
- - [Kevin Weil, OpenAI&#39;s former CPO who became VP of OpenAI for Science, is leaving the company; Prism, a web app for scientists launched in Jan., will be shuttered &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260417/p32#a260417p32)<!-- TECH:END -->
+ - [Sources: Recursive Superintelligence, a four-month-old start-up developing self-teaching AI and founded by ex-DeepMind and OpenAI engineers, has raised $500M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p37#a260417p37)
+ - [White House says a meeting between Chief of Staff Susie Wiles and Dario Amodei had been &quot;productive and constructive&quot;; source: Scott Bessent joined the meeting &lpar;Axios&rpar;](http://www.techmeme.com/260417/p36#a260417p36)
+ - [Weekend Apple Watch Series 11 deals deliver prices as low as $299](https://appleinsider.com/articles/26/04/17/weekend-apple-watch-series-11-deals-deliver-prices-as-low-as-299?utm_source=rss)
+ - [A deep dive into Dwarkesh Patel&#39;s interview with Jensen Huang, including Huang&#39;s takes on Nvidia&#39;s moat and chip sales to China, and reactions to the interview &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/260417/p35#a260417p35)
+ - [OpenAI’s former Sora boss is leaving](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone&#39;s 20% Chinese sales boost beat out Huawei and others](https://appleinsider.com/articles/26/04/17/iphones-20-chinese-sales-boost-beat-out-huawei-and-others?utm_source=rss)
- - [Counterpoint: India&#39;s smartphone shipments fell 3% YoY in Q1 2026, a six-year low, as price hikes weigh on sales; 80+ smartphone models saw price hikes of ~15% &lpar;Abhinav Parmar/Reuters&rpar;](http://www.techmeme.com/260417/p9#a260417p9)
- - [Apple Watch chief posts loving farewell to Apple Park on his retirement](https://appleinsider.com/articles/26/04/17/apple-watch-chief-posts-loving-farewell-to-apple-park-on-his-retirement?utm_source=rss)
- - [The Best MagSafe Accessories &lpar;for Android, Too!&rpar;: Chargers, Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
- - [Cosmic Orange is out, Dark Cherry rumored to be new hot iPhone 18 Pro color](https://appleinsider.com/articles/26/04/17/cosmic-orange-is-out-dark-cherry-rumored-to-be-new-hot-iphone-18-pro-color?utm_source=rss)<!-- TECH:END -->
+ - [Apple at 50: Gil Amelio, the CEO who brought back Steve Jobs](https://appleinsider.com/articles/26/04/17/apple-at-50-gil-amelio-the-ceo-who-brought-back-steve-jobs?utm_source=rss)
+ - [Loop, which uses AI to predict supply chain disruptions, raised a $95M Series C co-led by Valor Equity Partners and the Valor Atreides AI Fund &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260417/p16#a260417p16)
+ - [An interview with Dario Amodei, who says the negative narrative around AI is dominant because the industry hasn&#39;t yet fully delivered the benefits it promises &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/260417/p15#a260417p15)
+ - [The ‘AI is inevitable’ trap](https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast)
+ - [MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged](https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

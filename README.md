@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Can Astronauts Tell How Fast They’re Going?](https://www.wired.com/story/how-can-astronauts-tell-how-fast-theyre-going/)
- - [Canyon Spectral:ON CF 8 Electric Mountain Bike: Beginner-Friendly, Under $5K](https://www.wired.com/review/canyon-spectralon-cf-8/)
- - [The Influencers Normalizing Not Having Sex](https://www.wired.com/story/the-influencers-normalizing-not-having-sex/)
- - [Sources: Dario Amodei is set to meet with WH Chief of Staff Susie Wiles on Friday, a breakthrough in Anthropic&#39;s effort to resolve its fight with the Pentagon &lpar;Axios&rpar;](http://www.techmeme.com/260417/p7#a260417p7)
- - [AT&amp;T Revamped Its Unlimited Phone Plans. Here&#39;s How They Compare](https://www.cnet.com/tech/mobile/att-revamped-its-unlimited-phone-plans-heres-how-they-compare/)<!-- TECH:END -->
+ - [iPhone&#39;s 20% Chinese sales boost beat out Huawei and others](https://appleinsider.com/articles/26/04/17/iphones-20-chinese-sales-boost-beat-out-huawei-and-others?utm_source=rss)
+ - [Counterpoint: India&#39;s smartphone shipments fell 3% YoY in Q1 2026, a six-year low, as price hikes weigh on sales; 80+ smartphone models saw price hikes of ~15% &lpar;Abhinav Parmar/Reuters&rpar;](http://www.techmeme.com/260417/p9#a260417p9)
+ - [Apple Watch chief posts loving farewell to Apple Park on his retirement](https://appleinsider.com/articles/26/04/17/apple-watch-chief-posts-loving-farewell-to-apple-park-on-his-retirement?utm_source=rss)
+ - [The Best MagSafe Accessories &lpar;for Android, Too!&rpar;: Chargers, Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
+ - [Cosmic Orange is out, Dark Cherry rumored to be new hot iPhone 18 Pro color](https://appleinsider.com/articles/26/04/17/cosmic-orange-is-out-dark-cherry-rumored-to-be-new-hot-iphone-18-pro-color?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

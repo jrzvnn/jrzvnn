@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple at 50: Gil Amelio, the CEO who brought back Steve Jobs](https://appleinsider.com/articles/26/04/17/apple-at-50-gil-amelio-the-ceo-who-brought-back-steve-jobs?utm_source=rss)
- - [Loop, which uses AI to predict supply chain disruptions, raised a $95M Series C co-led by Valor Equity Partners and the Valor Atreides AI Fund &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260417/p16#a260417p16)
- - [An interview with Dario Amodei, who says the negative narrative around AI is dominant because the industry hasn&#39;t yet fully delivered the benefits it promises &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/260417/p15#a260417p15)
- - [The ‘AI is inevitable’ trap](https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast)
- - [MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged](https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged/)<!-- TECH:END -->
+ - [Sources: some shareholders are questioning whether Sam Altman should lead OpenAI through the turbulence of an IPO and have floated Bret Taylor as a successor &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260417/p19#a260417p19)
+ - [Epic Games vs Apple -- The continuing six-year App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss)
+ - [Republican Mutiny Sinks Trump&#39;s Push to Extend Warrantless Surveillance](https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/)
+ - [India drops a proposal to require Apple, Google, Samsung, and other smartphone makers to preinstall the country&#39;s biometric identification app Aadhaar on phones &lpar;Reuters&rpar;](http://www.techmeme.com/260417/p18#a260417p18)
+ - [Ghost orchid in the machine](https://www.theverge.com/tech/909806/kinetic-sculpture-fake-flowers-mechanical-artwork-rachel-youn)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

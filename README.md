@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Take a moment to remember a fallen brother. Last post 12 Sep 24, last upvote 14 Sep 24.](http://9gag.com/gag/a1m3mpP)
- - 😝 [These creatures are being airdropped to the shires to destroy everything](http://9gag.com/gag/azxpxKm)
- - 💣 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
- - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
- - 👉 [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)<!-- MEMES:END -->
+ - 😝 [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
+ - 💣 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 😝 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
+ - 👉 [These creatures are being airdropped to the shires to destroy everything](http://9gag.com/gag/azxpxKm)<!-- MEMES:END -->
 
 ---
 

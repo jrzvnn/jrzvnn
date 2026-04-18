@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hodge 2](http://9gag.com/gag/a1m3P36)
- - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
- - 💣 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
+ - 😝 [Jennifer Lopez.](http://9gag.com/gag/aZZODeQ)
+ - 😝 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
+ - 💣 [Brutal](http://9gag.com/gag/amo4oG9)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [Brutal](http://9gag.com/gag/amo4oG9)<!-- MEMES:END -->
+ - 👉 [A restaurant that gets it](http://9gag.com/gag/aRBqLAj)<!-- MEMES:END -->
 
 ---
 

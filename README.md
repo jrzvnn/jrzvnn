@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge grants an injunction to makers of the banned &quot;ICE Sightings - Chicagoland&quot; Facebook group and Eyes Up mobile app, who say DHS and DOJ violated the 1A &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/260418/p11#a260418p11)
  - [An attacker targeting Kelp DAO&#39;s LayerZero-powered cross-chain bridge, appears to have drained ~$292M worth of rsETH before Kelp paused all rsETH contracts &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260418/p10#a260418p10)
  - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
  - [Anthropic&#39;s Mythos adds to concerns about rising workloads for open-source maintainers, as many have already been dealing with a &quot;crazy&quot; number of bug reports &lpar;Chris Stokel-Walker/Bloomberg&rpar;](http://www.techmeme.com/260418/p9#a260418p9)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 19, #573](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-19-573/)
- - [Today&#39;s Wordle Hints, Answer and Help for April 19, #1765](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-19-1765/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 19, #573](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-19-573/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

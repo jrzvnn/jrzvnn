@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Salesforce announces Headless 360, an initiative that will give AI agents access to Salesforce&#39;s platform capabilities through APIs, MCP tools or CLI commands &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260418/p7#a260418p7)
- - [Judge rules Trump administration violated the First Amendment in fight against ICE-tracking](https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking)
  - [Premier League Soccer: Stream Chelsea vs. Man United From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-chelsea-vs-man-united-from-anywhere-live/)
  - [Cheap stuff that doesn’t suck, take 3](https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers)
- - [ICE monitoring app takedowns violated the First Amendment](https://appleinsider.com/articles/26/04/18/ice-monitoring-app-takedowns-violated-the-first-amendment?utm_source=rss)<!-- TECH:END -->
+ - [ICE monitoring app takedowns violated the First Amendment](https://appleinsider.com/articles/26/04/18/ice-monitoring-app-takedowns-violated-the-first-amendment?utm_source=rss)
+ - [A profile of OpenTable CEO Debby Soo, who shifted its focus from diners to restaurants; it now seats ~2B diners a year across 65K restaurants, an all-time high &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/260418/p6#a260418p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous vehicle startups raised a record $21.4B across 34 deals through April 15, up from $5.9B raised across 99 investments globally in all of 2025 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260418/p4#a260418p4)
- - [Chinese lidar maker Hesai, a primary supplier for Nvidia&#39;s ADAS, announces EXT lidar, calling it the industry&#39;s first to integrate spatial and color detection &lpar;Reuters&rpar;](http://www.techmeme.com/260418/p3#a260418p3)
- - [Some Mac Mini and Mac Studio models are unavailable or facing up to 12-week wait times in the US, with analysts citing strong demand from AI agent power users &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/260418/p2#a260418p2)
- - [The EC awards a six-year, €180M sovereign cloud contract to four European providers as part of a push to reduce the EU&#39;s dependence on non-European tech &lpar;Leo Marchandon/Reuters&rpar;](http://www.techmeme.com/260418/p1#a260418p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-18/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 18, #572](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-18-572/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 18 #776](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-18-776/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 18, #1042](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-18-1042/)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 18, #1764](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-18-1764/)
+ - [The ‘Lonely Runner’ Problem Only Appears Simple](https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

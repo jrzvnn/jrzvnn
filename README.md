@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Dyson’s handheld fan is more powerful and louder than I expected](https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on)
+ - [Health-Tracking Pet Collar Acts Like a Smartwatch for Dogs and Cats](https://www.cnet.com/tech/mobile/tractive-health-tracking-gps-pet-collar-cats-dogs/)
  - [U.S. ITC won&#39;t allow Masimo to bring back the Apple Watch ban](https://appleinsider.com/articles/26/04/18/us-itc-wont-allow-masimo-to-bring-back-the-apple-watch-ban?utm_source=rss)
  - [Motorola Razr 2026 Rumor Roundup: What We Know About the Next Razr Flip Phones](https://www.cnet.com/tech/mobile/motorola-razr-2026-rumor-roundup/)
- - [There’s nothing like an RPG over vacation](https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2)
- - [The AI apps are coming for your PC](https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc)<!-- TECH:END -->
+ - [There’s nothing like an RPG over vacation](https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

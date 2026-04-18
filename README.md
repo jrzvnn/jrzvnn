@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
- - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
- - 💣 [Just UK police things](http://9gag.com/gag/azxp5Ap)
+ - 😝 [Take a moment to remember a fallen brother. Last post 12 Sep 24, last upvote 14 Sep 24.](http://9gag.com/gag/a1m3mpP)
+ - 💣 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [You cheeky dick waffle](http://9gag.com/gag/a5Q0VAO)<!-- MEMES:END -->
+ - 👉 [But she&#39;s cute...](http://9gag.com/gag/aZZOZYn)<!-- MEMES:END -->
 
 ---
 

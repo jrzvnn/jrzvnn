@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb launches a pilot in NYC, LA, and other cities that lets users to select from a range of boutique hotels alongside private homes in a bid to boost growth &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/260418/p8#a260418p8)
- - [Salesforce announces Headless 360, an initiative that will give AI agents access to Salesforce&#39;s platform capabilities through APIs, MCP tools or CLI commands &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260418/p7#a260418p7)
- - [Judge rules Trump administration violated the First Amendment in fight against ICE-tracking](https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking)
- - [Premier League Soccer: Stream Chelsea vs. Man United From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-chelsea-vs-man-united-from-anywhere-live/)
- - [Cheap stuff that doesn’t suck, take 3](https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers)<!-- TECH:END -->
+ - [Anthropic&#39;s Mythos adds to concerns about rising workloads for open-source maintainers, as many have already been dealing with a &quot;crazy&quot; number of bug reports &lpar;Chris Stokel-Walker/Bloomberg&rpar;](http://www.techmeme.com/260418/p9#a260418p9)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 19, #573](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-19-573/)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 19, #1765](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-19-1765/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 19 #777](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-19-777/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 19, #1043](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-19-1043/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

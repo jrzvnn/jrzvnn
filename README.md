@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dyson’s handheld fan is more powerful and louder than I expected](https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on)
+ - [U.S. ITC won&#39;t allow Masimo to bring back the Apple Watch ban](https://appleinsider.com/articles/26/04/18/us-itc-wont-allow-masimo-to-bring-back-the-apple-watch-ban?utm_source=rss)
+ - [Motorola Razr 2026 Rumor Roundup: What We Know About the Next Razr Flip Phones](https://www.cnet.com/tech/mobile/motorola-razr-2026-rumor-roundup/)
  - [There’s nothing like an RPG over vacation](https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2)
- - [The AI apps are coming for your PC](https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc)
- - [Global DRAM supply is likely to meet only 60% of demand through 2027; memory to hit ~40% of low-end smartphone manufacturing costs by mid-2026, up from 20% now &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260418/p5#a260418p5)
- - [The Best Smart Home Accessories to Boost Your Curb Appeal &lpar;2026&rpar;](https://www.wired.com/story/smart-home-curb-appeal/)
- - [I Finally Found an AI Health Coach Worth Listening To](https://www.cnet.com/tech/mobile/whoop-band-ai-health-coach-training/)<!-- TECH:END -->
+ - [The AI apps are coming for your PC](https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

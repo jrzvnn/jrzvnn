@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
  - [Anthropic&#39;s Mythos adds to concerns about rising workloads for open-source maintainers, as many have already been dealing with a &quot;crazy&quot; number of bug reports &lpar;Chris Stokel-Walker/Bloomberg&rpar;](http://www.techmeme.com/260418/p9#a260418p9)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 19, #573](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-19-573/)
  - [Today&#39;s Wordle Hints, Answer and Help for April 19, #1765](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-19-1765/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 19 #777](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-19-777/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 19, #1043](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-19-1043/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 19 #777](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-19-777/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

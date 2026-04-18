@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epstein](http://9gag.com/gag/aoyQKxn)
- - 😝 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
- - 💣 [Brutal](http://9gag.com/gag/amo4oG9)
+ - 😝 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
+ - 😝 [Is This True ?](http://9gag.com/gag/a2v6MDD)
+ - 💣 [Epstein](http://9gag.com/gag/aoyQKxn)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [Weekly science by science alert](http://9gag.com/gag/avyK125)<!-- MEMES:END -->
+ - 👉 [Predator1](http://9gag.com/gag/a2v6vjd)<!-- MEMES:END -->
 
 ---
 

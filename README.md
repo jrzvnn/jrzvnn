@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Movies to Stream This Month &lpar;April 2026&rpar;](https://www.wired.com/story/the-best-movies-to-stream-right-now/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 18, #572](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-18-572/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for April 18 #776](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-18-776/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for April 18, #1042](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-18-1042/)
- - [Today&#39;s Wordle Hints, Answer and Help for April 18, #1764](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-18-1764/)
- - [The ‘Lonely Runner’ Problem Only Appears Simple](https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for April 18, #1764](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-18-1764/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

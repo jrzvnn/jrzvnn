@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus TUF Gaming A14 &lpar;2026&rpar; Review: GPU-Less Gaming Laptop](https://www.wired.com/review/asus-tuf-gaming-a14-2026/)
- - [Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In](https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/)
- - [It Takes 2 Minutes to Hack the EU’s New Age-Verification App](https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/)
- - [Where to Shop for Vinyl Records Online &lpar;2026&rpar;: Discogs, Bandcamp, Ebay](https://www.wired.com/story/where-to-shop-for-vinyl-records-online/)
- - [Going on a Spring Hike? Here&#39;s How to Download a Map to Your iPhone](https://www.cnet.com/tech/services-and-software/going-on-a-spring-hike-heres-how-to-download-a-map-to-your-iphone/)<!-- TECH:END -->
+ - [The Best Smart Home Accessories to Boost Your Curb Appeal &lpar;2026&rpar;](https://www.wired.com/story/smart-home-curb-appeal/)
+ - [I Finally Found an AI Health Coach Worth Listening To](https://www.cnet.com/tech/mobile/whoop-band-ai-health-coach-training/)
+ - [How to Clean Your Vinyl Records &lpar;2026&rpar;: Vacuum, Ultrasonic, Solution, Brush](https://www.wired.com/story/how-to-clean-vinyl-records/)
+ - [The 14 Best Electric Toothbrushes Tested and Approved for Your Family](https://www.cnet.com/health/personal-care/best-electric-toothbrush/)
+ - [Best Smart Locks of 2026: Your High-Tech Security Starter](https://www.cnet.com/home/security/best-smart-locks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

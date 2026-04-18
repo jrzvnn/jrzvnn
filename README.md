@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What some leaders think of using universal income to mitigate AI-fueled layoffs: Musk calls it the &quot;best way&quot;, OpenAI&#39;s policy doc mentions a Public Wealth Fund &lpar;Siladitya Ray/Forbes&rpar;](http://www.techmeme.com/260417/p38#a260417p38)
  - [One Rumored Color for the iPhone 18 Pro? A Rich Dark Cherry Red](https://www.cnet.com/tech/mobile/iphone-18-pro-dark-cherry-rumor/)
  - [Sources: Recursive Superintelligence, a four-month-old start-up developing self-teaching AI and founded by ex-DeepMind and OpenAI engineers, has raised $500M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p37#a260417p37)
  - [AI Trusted Less Than Social Media and Airlines, With Grok Placing Last, Survey Says](https://www.cnet.com/tech/services-and-software/ai-trust-survey-acsi-gemini-grok/)
- - [White House says a meeting between Chief of Staff Susie Wiles and Dario Amodei had been &quot;productive and constructive&quot;; source: Scott Bessent joined the meeting &lpar;Axios&rpar;](http://www.techmeme.com/260417/p36#a260417p36)
- - [This New Air Purifier Filter Can Remove Cannabis Smoke Odor, Just in Time for 4/20](https://www.cnet.com/news/this-new-air-purifier-filter-can-remove-cannabis-smoke-odor-just-in-time-for-420/)<!-- TECH:END -->
+ - [White House says a meeting between Chief of Staff Susie Wiles and Dario Amodei had been &quot;productive and constructive&quot;; source: Scott Bessent joined the meeting &lpar;Axios&rpar;](http://www.techmeme.com/260417/p36#a260417p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

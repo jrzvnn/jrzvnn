@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EC awards a six-year, €180M sovereign cloud contract to four European providers as part of a push to reduce the EU&#39;s dependence on non-European tech &lpar;Leo Marchandon/Reuters&rpar;](http://www.techmeme.com/260418/p1#a260418p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-18/)
+ - [Sources suggest Anthropic is holding off from a wider Mythos release until it can reliably serve it to customers; Anthropic has suffered outages in recent weeks &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p39#a260417p39)
  - [What some leaders think of using universal income to mitigate AI-fueled layoffs: Musk calls it the &quot;best way&quot;, OpenAI&#39;s policy doc mentions a Public Wealth Fund &lpar;Siladitya Ray/Forbes&rpar;](http://www.techmeme.com/260417/p38#a260417p38)
- - [One Rumored Color for the iPhone 18 Pro? A Rich Dark Cherry Red](https://www.cnet.com/tech/mobile/iphone-18-pro-dark-cherry-rumor/)
- - [Sources: Recursive Superintelligence, a four-month-old start-up developing self-teaching AI and founded by ex-DeepMind and OpenAI engineers, has raised $500M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p37#a260417p37)
- - [AI Trusted Less Than Social Media and Airlines, With Grok Placing Last, Survey Says](https://www.cnet.com/tech/services-and-software/ai-trust-survey-acsi-gemini-grok/)
- - [White House says a meeting between Chief of Staff Susie Wiles and Dario Amodei had been &quot;productive and constructive&quot;; source: Scott Bessent joined the meeting &lpar;Axios&rpar;](http://www.techmeme.com/260417/p36#a260417p36)<!-- TECH:END -->
+ - [One Rumored Color for the iPhone 18 Pro? A Rich Dark Cherry Red](https://www.cnet.com/tech/mobile/iphone-18-pro-dark-cherry-rumor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

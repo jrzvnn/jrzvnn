@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
- - 😝 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)
- - 💣 [`Look, Lisa! If you pause, you see the EXACT MOMENT Karen knew she F&#39;d up!`](http://9gag.com/gag/aqyoRWR)
+ - 😝 [He didn&#39;t lie in his resume](http://9gag.com/gag/aXP6nMP)
+ - 😝 [And don&#39;t forget reliable](http://9gag.com/gag/aLn7LPx)
+ - 💣 [Instant karma for this Karen on a bike. You love to see it](http://9gag.com/gag/a1m3mg8)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [Words of Wisdom #30](http://9gag.com/gag/aoyQWYx)<!-- MEMES:END -->
+ - 👉 [Halal Honeymoon at Age 9](http://9gag.com/gag/abAnAEO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 😝 [Just UK police things](http://9gag.com/gag/azxp5Ap)
  - 😝 [Kid interviewed with mum behind the scenes! Kid\u2019s really smart but the cost of it is unbearable!](http://9gag.com/gag/avyKyAd)
- - 💣 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
+ - 💣 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [Words of Wisdom #30](http://9gag.com/gag/aoyQWYx)<!-- MEMES:END -->
+ - 👉 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)<!-- MEMES:END -->
 
 ---
 

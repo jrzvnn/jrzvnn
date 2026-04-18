@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 😝 [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
  - 😝 [Post it!](http://9gag.com/gag/aKGomwg)
- - 💣 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)
- - 😝 [These creatures are being airdropped to the shires to destroy everything](http://9gag.com/gag/azxpxKm)
- - 👉 [Halal Honeymoon at Age 9](http://9gag.com/gag/abAnAEO)<!-- MEMES:END -->
+ - 💣 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
+ - 😝 [Infinite fire as long as there is light.](http://9gag.com/gag/aYQXQv7)
+ - 👉 [In this economy](http://9gag.com/gag/amo4gMv)<!-- MEMES:END -->
 
 ---
 

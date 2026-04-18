@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
  - 😝 [They can&#39;t even read!](http://9gag.com/gag/a0eyeLz)
- - 💣 [Epstein](http://9gag.com/gag/aoyQKxn)
+ - 💣 [Brutal](http://9gag.com/gag/amo4oG9)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
  - 👉 [Weekly science by science alert](http://9gag.com/gag/avyK125)<!-- MEMES:END -->
 

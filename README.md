@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Epstein](http://9gag.com/gag/aoyQKxn)
  - 😝 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
- - 😝 [Take a moment to remember a fallen brother. Last post 12 Sep 24, last upvote 14 Sep 24.](http://9gag.com/gag/a1m3mpP)
- - 💣 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 💣 [Loose screws on Boeing. This is fine...](http://9gag.com/gag/aPAbgEB)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [But she&#39;s cute...](http://9gag.com/gag/aZZOZYn)<!-- MEMES:END -->
+ - 👉 [A restaurant that gets it](http://9gag.com/gag/aRBqLAj)<!-- MEMES:END -->
 
 ---
 

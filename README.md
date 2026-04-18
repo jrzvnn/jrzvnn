@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lol the cop played the gender game card too :&rpar;](http://9gag.com/gag/aD2eYj7)
  - 😝 [What does it mean???](http://9gag.com/gag/a9ygqw0)
- - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
  - 💣 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
- - 😝 [Infinite fire as long as there is light.](http://9gag.com/gag/aYQXQv7)
- - 👉 [In this economy](http://9gag.com/gag/amo4gMv)<!-- MEMES:END -->
+ - 😝 [A restaurant that gets it](http://9gag.com/gag/aRBqLAj)
+ - 👉 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)<!-- MEMES:END -->
 
 ---
 

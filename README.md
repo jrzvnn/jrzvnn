@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
  - 😝 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)
- - 💣 [WOW !!!](http://9gag.com/gag/ary7WRp)
+ - 😝 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
+ - 💣 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [A restaurant that gets it](http://9gag.com/gag/aRBqLAj)<!-- MEMES:END -->
+ - 👉 [Words of Wisdom #30](http://9gag.com/gag/aoyQWYx)<!-- MEMES:END -->
 
 ---
 

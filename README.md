@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn&#39;t lie in his resume](http://9gag.com/gag/aXP6nMP)
- - 😝 [And don&#39;t forget reliable](http://9gag.com/gag/aLn7LPx)
- - 💣 [Instant karma for this Karen on a bike. You love to see it](http://9gag.com/gag/a1m3mg8)
+ - 😝 [Kid interviewed with mum behind the scenes! Kid\u2019s really smart but the cost of it is unbearable!](http://9gag.com/gag/avyKyAd)
+ - 😝 [Wife cringe](http://9gag.com/gag/amo4A3o)
+ - 💣 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [Halal Honeymoon at Age 9](http://9gag.com/gag/abAnAEO)<!-- MEMES:END -->
+ - 👉 [Words of Wisdom #30](http://9gag.com/gag/aoyQWYx)<!-- MEMES:END -->
 
 ---
 

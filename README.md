@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Epstein](http://9gag.com/gag/aoyQKxn)
- - 😝 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
- - 💣 [Loose screws on Boeing. This is fine...](http://9gag.com/gag/aPAbgEB)
+ - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 💣 [Hodge 2](http://9gag.com/gag/a1m3P36)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [A restaurant that gets it](http://9gag.com/gag/aRBqLAj)<!-- MEMES:END -->
+ - 👉 [You cheeky dick waffle](http://9gag.com/gag/a5Q0VAO)<!-- MEMES:END -->
 
 ---
 

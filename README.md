@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Movies to Stream This Month &lpar;April 2026&rpar;](https://www.wired.com/story/the-best-movies-to-stream-right-now/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 18, #572](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-18-572/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 18 #776](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-18-776/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 18, #1042](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-18-1042/)
- - [Today&#39;s Wordle Hints, Answer and Help for April 18, #1764](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-18-1764/)<!-- TECH:END -->
+ - [Asus TUF Gaming A14 &lpar;2026&rpar; Review: GPU-Less Gaming Laptop](https://www.wired.com/review/asus-tuf-gaming-a14-2026/)
+ - [Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In](https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/)
+ - [It Takes 2 Minutes to Hack the EU’s New Age-Verification App](https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/)
+ - [Where to Shop for Vinyl Records Online &lpar;2026&rpar;: Discogs, Bandcamp, Ebay](https://www.wired.com/story/where-to-shop-for-vinyl-records-online/)
+ - [Going on a Spring Hike? Here&#39;s How to Download a Map to Your iPhone](https://www.cnet.com/tech/services-and-software/going-on-a-spring-hike-heres-how-to-download-a-map-to-your-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There’s nothing like an RPG over vacation](https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2)
+ - [The AI apps are coming for your PC](https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc)
+ - [Global DRAM supply is likely to meet only 60% of demand through 2027; memory to hit ~40% of low-end smartphone manufacturing costs by mid-2026, up from 20% now &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260418/p5#a260418p5)
  - [The Best Smart Home Accessories to Boost Your Curb Appeal &lpar;2026&rpar;](https://www.wired.com/story/smart-home-curb-appeal/)
- - [I Finally Found an AI Health Coach Worth Listening To](https://www.cnet.com/tech/mobile/whoop-band-ai-health-coach-training/)
- - [How to Clean Your Vinyl Records &lpar;2026&rpar;: Vacuum, Ultrasonic, Solution, Brush](https://www.wired.com/story/how-to-clean-vinyl-records/)
- - [The 14 Best Electric Toothbrushes Tested and Approved for Your Family](https://www.cnet.com/health/personal-care/best-electric-toothbrush/)
- - [Best Smart Locks of 2026: Your High-Tech Security Starter](https://www.cnet.com/home/security/best-smart-locks/)<!-- TECH:END -->
+ - [I Finally Found an AI Health Coach Worth Listening To](https://www.cnet.com/tech/mobile/whoop-band-ai-health-coach-training/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

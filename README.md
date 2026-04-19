@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made in china](http://9gag.com/gag/ayNjqKb)
  - 😝 [Just hanging around](http://9gag.com/gag/aAyzQOR)
- - 💣 [Just UK police things](http://9gag.com/gag/azxp5Ap)
+ - 😝 [Brutal](http://9gag.com/gag/amo4oG9)
+ - 💣 [Amazing trick! It works!](http://9gag.com/gag/a4POPyd)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
  - 👉 [One day you&#39;re young, the next you&#39;re just vibing with the birds](http://9gag.com/gag/a87x60Z)<!-- MEMES:END -->
 

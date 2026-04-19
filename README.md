@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 😝 [If it works , it works](http://9gag.com/gag/aLn7zOW)
- - 💣 [Nature is healing.](http://9gag.com/gag/a9ygvLj)
+ - 😝 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)
+ - 😝 [Just hanging around](http://9gag.com/gag/aAyzQOR)
+ - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [Everyone would](http://9gag.com/gag/a4PO686)<!-- MEMES:END -->
+ - 👉 [Look what I made: A real lumibug steampunk!](http://9gag.com/gag/aGy48OG)<!-- MEMES:END -->
 
 ---
 

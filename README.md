@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [EU Age Verification has 0 exploits 100% secure, what could go wrong?](http://9gag.com/gag/aXP6LwP)
- - 😝 [But she&#39;s cute...](http://9gag.com/gag/aZZOZYn)
- - 💣 [Just UK police things](http://9gag.com/gag/azxp5Ap)
- - 😝 [Water puppies helping clean up...](http://9gag.com/gag/a2v6w7e)
- - 👉 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)<!-- MEMES:END -->
+ - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 💣 [But she&#39;s cute...](http://9gag.com/gag/aZZOZYn)
+ - 😝 [Amazing trick! It works!](http://9gag.com/gag/a4POPyd)
+ - 👉 [Is This True ?](http://9gag.com/gag/a2v6MDD)<!-- MEMES:END -->
 
 ---
 

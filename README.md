@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brutal](http://9gag.com/gag/amo4oG9)
  - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 💣 [Amazing trick! It works!](http://9gag.com/gag/a4POPyd)
+ - 😝 [Brutal](http://9gag.com/gag/amo4oG9)
+ - 💣 [How easy it is to shop nowadays](http://9gag.com/gag/aYQXEPq)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [Add more fingers](http://9gag.com/gag/aXP6MQ2)<!-- MEMES:END -->
+ - 👉 [Proper use of a drone](http://9gag.com/gag/aXP6M19)<!-- MEMES:END -->
 
 ---
 

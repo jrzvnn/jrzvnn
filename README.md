@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant karma for this Karen on a bike. You love to see it](http://9gag.com/gag/a1m3mg8)
- - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 💣 [Is This True ?](http://9gag.com/gag/a2v6MDD)
- - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [WOW !!!](http://9gag.com/gag/ary7WRp)<!-- MEMES:END -->
+ - 😝 [EU Age Verification has 0 exploits 100% secure, what could go wrong?](http://9gag.com/gag/aXP6LwP)
+ - 😝 [But she&#39;s cute...](http://9gag.com/gag/aZZOZYn)
+ - 💣 [Just UK police things](http://9gag.com/gag/azxp5Ap)
+ - 😝 [Water puppies helping clean up...](http://9gag.com/gag/a2v6w7e)
+ - 👉 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)<!-- MEMES:END -->
 
 ---
 

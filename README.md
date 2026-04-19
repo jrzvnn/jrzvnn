@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So I fact checked it aaaaaand it&#39;s true.](http://9gag.com/gag/aMVMEgX)
- - 😝 [They can&#39;t even read!](http://9gag.com/gag/a0eyeLz)
- - 💣 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 😝 [These creatures are being airdropped to the shires to destroy everything](http://9gag.com/gag/azxpxKm)
+ - 😝 [And don&#39;t forget reliable](http://9gag.com/gag/aLn7LPx)
+ - 💣 [Instant karma for this Karen on a bike. You love to see it](http://9gag.com/gag/a1m3mg8)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [Predator1](http://9gag.com/gag/a2v6vjd)<!-- MEMES:END -->
+ - 👉 [Is This True ?](http://9gag.com/gag/a2v6MDD)<!-- MEMES:END -->
 
 ---
 

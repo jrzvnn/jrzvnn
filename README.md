@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made in china](http://9gag.com/gag/ayNjqKb)
- - 😝 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)
- - 💣 [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)
+ - 😝 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 😝 [Young Big E appearing in a Talk show...](http://9gag.com/gag/aoyQWdw)
+ - 💣 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [Proper use of a drone](http://9gag.com/gag/aXP6M19)<!-- MEMES:END -->
+ - 👉 [Weirdly satisfying](http://9gag.com/gag/avyKen5)<!-- MEMES:END -->
 
 ---
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Food stamp recipients, pouring out water to get the deposit](http://9gag.com/gag/aQzWgAw)
- - 😝 [Young Big E appearing in a Talk show...](http://9gag.com/gag/aoyQWdw)
+ - 😝 [Just hanging around](http://9gag.com/gag/aAyzQOR)
+ - 😝 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)
  - 💣 [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
  - 👉 [Predator1](http://9gag.com/gag/a2v6vjd)<!-- MEMES:END -->

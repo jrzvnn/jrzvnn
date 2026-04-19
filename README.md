@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [True guys?](http://9gag.com/gag/adBDBr9)
  - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 😝 [But she&#39;s cute...](http://9gag.com/gag/aZZOZYn)
  - 💣 [Amazing trick! It works!](http://9gag.com/gag/a4POPyd)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
  - 👉 [Predator1](http://9gag.com/gag/a2v6vjd)<!-- MEMES:END -->

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 27&#39;s home screen update will make customization even easier](https://appleinsider.com/articles/26/04/19/ios-27s-home-screen-update-will-make-customization-even-easier?utm_source=rss)
  - [Sources say NSA is using Mythos Preview, and a source says it is also being used widely within the DoD, despite Anthropic&#39;s designation as a supply chain risk &lpar;Axios&rpar;](http://www.techmeme.com/260419/p12#a260419p12)
- - [Palantir posts a 22-point summary of Alex Karp&#39;s book, advocating for hard power, AI weapons and deterrence, and denouncing pluralism, and &quot;regressive&quot; cultures &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/260419/p11#a260419p11)
+ - [Palantir posts a 22-point summary of Alex Karp&#39;s book, promoting hard power, AI weapons and deterrence, while denouncing pluralism and &quot;regressive&quot; cultures &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/260419/p11#a260419p11)
  - [Spring Clean Your Tech: Where to Recycle Old Computers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)
- - [Mac Studio, touchscreen MacBook Pro delayed by memory shortages](https://appleinsider.com/articles/26/04/19/mac-studio-touchscreen-macbook-pro-delayed-by-memory-shortages?utm_source=rss)
- - [Sources: the glowing &quot;26&quot; in Apple&#39;s WWDC invite is teasing a revamped Siri, memory shortages may push Mac Studio and touch MacBook Pro launches by a few months &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260419/p10#a260419p10)<!-- TECH:END -->
+ - [Mac Studio, touchscreen MacBook Pro delayed by memory shortages](https://appleinsider.com/articles/26/04/19/mac-studio-touchscreen-macbook-pro-delayed-by-memory-shortages?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

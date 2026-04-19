@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You cheeky dick waffle](http://9gag.com/gag/a5Q0VAO)
- - 😝 [Everyone would](http://9gag.com/gag/a4PO686)
- - 💣 [Throw it back.](http://9gag.com/gag/amo41o6)
+ - 😝 [Food stamp recipients, pouring out water to get the deposit](http://9gag.com/gag/aQzWgAw)
+ - 😝 [Young Big E appearing in a Talk show...](http://9gag.com/gag/aoyQWdw)
+ - 💣 [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [Proper Way to Open Milk Carton](http://9gag.com/gag/apRZ3eM)<!-- MEMES:END -->
+ - 👉 [Predator1](http://9gag.com/gag/a2v6vjd)<!-- MEMES:END -->
 
 ---
 

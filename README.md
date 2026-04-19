@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True guys?](http://9gag.com/gag/adBDBr9)
- - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 💣 [How easy it is to shop nowadays](http://9gag.com/gag/aYQXEPq)
+ - 😝 [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
+ - 😝 [Brutal](http://9gag.com/gag/amo4oG9)
+ - 💣 [Just hanging around](http://9gag.com/gag/aAyzQOR)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [Sounds like a solution](http://9gag.com/gag/aD2e6Bd)<!-- MEMES:END -->
+ - 👉 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)<!-- MEMES:END -->
 
 ---
 

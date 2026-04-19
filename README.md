@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kurwa](http://9gag.com/gag/aoyQyo2)
- - 😝 [Instant karma for this Karen on a bike. You love to see it](http://9gag.com/gag/a1m3mg8)
- - 💣 [And don&#39;t forget reliable](http://9gag.com/gag/aLn7LPx)
+ - 😝 [So I fact checked it aaaaaand it&#39;s true.](http://9gag.com/gag/aMVMEgX)
+ - 😝 [They can&#39;t even read!](http://9gag.com/gag/a0eyeLz)
+ - 💣 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [Repost for my brothers. This saved me tonight from ending it](http://9gag.com/gag/aQzWv1q)<!-- MEMES:END -->
+ - 👉 [Predator1](http://9gag.com/gag/a2v6vjd)<!-- MEMES:END -->
 
 ---
 

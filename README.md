@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)
- - 😝 [Just hanging around](http://9gag.com/gag/aAyzQOR)
+ - 😝 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
  - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
  - 👉 [Look what I made: A real lumibug steampunk!](http://9gag.com/gag/aGy48OG)<!-- MEMES:END -->

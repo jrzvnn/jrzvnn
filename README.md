@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge grants an injunction to makers of the banned &quot;ICE Sightings - Chicagoland&quot; Facebook group and Eyes Up mobile app, who say DHS and DOJ violated the 1A &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/260418/p11#a260418p11)
- - [An attacker targeting Kelp DAO&#39;s LayerZero-powered cross-chain bridge, appears to have drained ~$292M worth of rsETH before Kelp paused all rsETH contracts &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260418/p10#a260418p10)
- - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
- - [Anthropic&#39;s Mythos adds to concerns about rising workloads for open-source maintainers, as many have already been dealing with a &quot;crazy&quot; number of bug reports &lpar;Chris Stokel-Walker/Bloomberg&rpar;](http://www.techmeme.com/260418/p9#a260418p9)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 19, #573](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-19-573/)<!-- TECH:END -->
+ - [B&amp;H&#39;s $299 Samsung 32-inch M8 USB-C monitor deal ends today](https://appleinsider.com/articles/26/04/19/bhs-299-samsung-32-inch-m8-usb-c-monitor-deal-ends-today?utm_source=rss)
+ - [Tesla expands its robotaxi service to Dallas and Houston after launching in Austin last year and starting to offer rides without safety drivers in January 2026 &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/260419/p3#a260419p3)
+ - [A look at Dylan Patel&#39;s SemiAnalysis, an AI newsletter and research firm that expects $100M+ in 2026 revenue from subscriptions and AI supply chain research &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/260419/p2#a260419p2)
+ - [Appfigures: app releases across the App Store and Google Play grew 60% YoY in Q1, with App Store releases alone up 80%, possibly driven by AI coding tools &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260419/p1#a260419p1)
+ - [Mistral, which once aimed for top open models, now leans on being an alternative to Chinese and US labs, says it&#39;s on track for $80M in monthly revenue by Dec. &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260418/p12#a260418p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

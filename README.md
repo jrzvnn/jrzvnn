@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 11 Best Fans to Buy Before It Gets Hot Again &lpar;2026&rpar;](https://www.wired.com/story/the-best-fans-2026/)
- - [Our Favorite Apple Watch Has Never Been Less Expensive](https://www.wired.com/story/apple-watch-series-11-deal-april-2026/)
- - [The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot](https://www.wired.com/gallery/best-pet-cameras/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 19, #573](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-19-573/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 19 #777](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-19-777/)<!-- TECH:END -->
+ - [A profile of Quince, an online luxury DTC brand valued at $10B+, which has found success by using data analysis and close manufacturer ties to keep prices low &lpar;Amanda Mull/Bloomberg&rpar;](http://www.techmeme.com/260419/p8#a260419p8)
+ - [Best Meta Glasses &lpar;2026&rpar;: Ray-Ban, Oakley, AR](https://www.wired.com/story/best-meta-glasses/)
+ - [Hisense U7SG TV Review &lpar;2026&rpar;: Better Design, Great Value](https://www.wired.com/review/hisense-u7sg/)
+ - [iOS 26.4.1 Will Automatically Enable This iPhone Security Feature](https://www.cnet.com/tech/services-and-software/ios-26-4-1-enable-iphone-security-feature/)
+ - [Premier League Soccer: Stream Everton vs. Liverpool From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-everton-vs-liverpool-from-anywhere-live/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

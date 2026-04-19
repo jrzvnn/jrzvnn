@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Stars My Destination is classic proto-cyberpunk](https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk)
+ - [Sources: Google is in talks with Marvell Technology to develop a memory processing unit that works alongside TPUs, and a new TPU for running AI models &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/260419/p9#a260419p9)
+ - [Premier League Soccer: Stream Man City vs. Arsenal From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-arsenal-from-anywhere-live/)
  - [Shipping Antimatter by Truck to Understand the Universe](https://www.cnet.com/science/shipping-antimatter-by-truck-to-understand-the-universe/)
- - [How to Tell if Someone Else&#39;s Apple AirTag Is Tracking You](https://www.cnet.com/tech/mobile/how-to-tell-if-an-apple-airtag-is-tracking-you/)
- - [Millions of Satellites, but Who&#39;s in Charge? It&#39;s a Wild West in Space](https://www.cnet.com/science/space/features/satellite-overcrowding-space-junk-low-earth-orbit-starlink/)
- - [Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet](https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review)
- - [The future of local TV news has taken a Trumpian turn](https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news)<!-- TECH:END -->
+ - [How to Tell if Someone Else&#39;s Apple AirTag Is Tracking You](https://www.cnet.com/tech/mobile/how-to-tell-if-an-apple-airtag-is-tracking-you/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

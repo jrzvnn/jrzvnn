@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Save the date: August 8th, 2026](http://9gag.com/gag/avyKW4b)
- - 😝 [Cute](http://9gag.com/gag/amo417d)
- - 💣 [You cheeky dick waffle](http://9gag.com/gag/a5Q0VAO)
+ - 😝 [You cheeky dick waffle](http://9gag.com/gag/a5Q0VAO)
+ - 😝 [Everyone would](http://9gag.com/gag/a4PO686)
+ - 💣 [Throw it back.](http://9gag.com/gag/amo41o6)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [Throw it back.](http://9gag.com/gag/amo41o6)<!-- MEMES:END -->
+ - 👉 [Proper Way to Open Milk Carton](http://9gag.com/gag/apRZ3eM)<!-- MEMES:END -->
 
 ---
 

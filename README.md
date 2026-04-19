@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the AI nonprofit METR, whose time-horizon metrics are used by AI researchers and Wall Street investors to track the rapid development of AI systems &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260419/p7#a260419p7)
- - [Expo, which develops an eponymous React Native framework and provides cloud services for building cross-platform apps, raised a $45M Series B led by Georgian &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/260419/p6#a260419p6)
- - [Binance and Bitget to probe a rally in RaveDAO&#39;s RAVE token, which surged 4,500% in a week, after ZachXBT alleged RAVE insiders engineered a large short squeeze &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260419/p5#a260419p5)
- - [At the Beijing half-marathon, several humanoid robots beat human winners by 10+ minutes; a robot made by Honor beat the human world record held by Jacob Kiplimo &lpar;Reuters&rpar;](http://www.techmeme.com/260419/p4#a260419p4)
- - [B&amp;H&#39;s $299 Samsung 32-inch M8 USB-C monitor deal ends today](https://appleinsider.com/articles/26/04/19/bhs-299-samsung-32-inch-m8-usb-c-monitor-deal-ends-today?utm_source=rss)<!-- TECH:END -->
+ - [Our Favorite Apple Watch Has Never Been Less Expensive](https://www.wired.com/story/apple-watch-series-11-deal-april-2026/)
+ - [The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot](https://www.wired.com/gallery/best-pet-cameras/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 19, #573](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-19-573/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 19 #777](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-19-777/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 19, #1043](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-19-1043/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

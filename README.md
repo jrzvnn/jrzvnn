@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Second suspect sought in $2 million iPhone theft](https://appleinsider.com/articles/26/04/19/crime-blotter-second-suspect-sought-in-2-million-iphone-theft?utm_source=rss)
- - [1000xResist Studio&#39;s Next Indie Game Asks: Can You Convince an AI It Isn&#39;t Human?](https://www.cnet.com/tech/gaming/1000xresist-studios-next-indie-game-prove-youre-human-interview/)
- - [Asus Zenbook A16 Review: A True AI Laptop Among Artificial Imitators](https://www.cnet.com/tech/computing/asus-zenbook-a16-2026-review-ai-laptop/)
- - [A profile of Quince, an online luxury DTC brand valued at $10B+, which has found success by using data analysis and close manufacturer ties to keep prices low &lpar;Amanda Mull/Bloomberg&rpar;](http://www.techmeme.com/260419/p8#a260419p8)
- - [Best Meta Glasses &lpar;2026&rpar;: Ray-Ban, Oakley, AR](https://www.wired.com/story/best-meta-glasses/)<!-- TECH:END -->
+ - [Shipping Antimatter by Truck to Understand the Universe](https://www.cnet.com/science/shipping-antimatter-by-truck-to-understand-the-universe/)
+ - [How to Tell if Someone Else&#39;s Apple AirTag Is Tracking You](https://www.cnet.com/tech/mobile/how-to-tell-if-an-apple-airtag-is-tracking-you/)
+ - [Millions of Satellites, but Who&#39;s in Charge? It&#39;s a Wild West in Space](https://www.cnet.com/science/space/features/satellite-overcrowding-space-junk-low-earth-orbit-starlink/)
+ - [Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet](https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review)
+ - [The future of local TV news has taken a Trumpian turn](https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

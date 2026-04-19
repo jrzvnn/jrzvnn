@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fermi CEO Toby Neugebauer is leaving the company, as the data center developer faces issues in securing an anchor tenant and construction delays &lpar;Amy Harder/Axios&rpar;](http://www.techmeme.com/260419/p14#a260419p14)
  - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)
  - [Sunday Reboot: Japan ads, AI assistance, and a nice retirement](https://appleinsider.com/articles/26/04/19/sunday-reboot-japan-ads-ai-assistance-and-a-nice-retirement?utm_source=rss)
  - [Today&#39;s NYT Strands Hints, Answers and Help for April 20 #778](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-20-778/)
- - [Today&#39;s Wordle Hints, Answer and Help for April 20, #1766](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-20-1766/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 20, #1044](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-20-1044/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for April 20, #1766](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-20-1766/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

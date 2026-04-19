@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just hanging around](http://9gag.com/gag/aAyzQOR)
+ - 😝 [Made in china](http://9gag.com/gag/ayNjqKb)
  - 😝 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)
  - 💣 [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [Predator1](http://9gag.com/gag/a2v6vjd)<!-- MEMES:END -->
+ - 👉 [Proper use of a drone](http://9gag.com/gag/aXP6M19)<!-- MEMES:END -->
 
 ---
 

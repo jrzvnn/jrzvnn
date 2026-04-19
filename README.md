@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H&#39;s $299 Samsung 32-inch M8 USB-C monitor deal ends today](https://appleinsider.com/articles/26/04/19/bhs-299-samsung-32-inch-m8-usb-c-monitor-deal-ends-today?utm_source=rss)
- - [Tesla expands its robotaxi service to Dallas and Houston after launching in Austin last year and starting to offer rides without safety drivers in January 2026 &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/260419/p3#a260419p3)
- - [A look at Dylan Patel&#39;s SemiAnalysis, an AI newsletter and research firm that expects $100M+ in 2026 revenue from subscriptions and AI supply chain research &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/260419/p2#a260419p2)
- - [Appfigures: app releases across the App Store and Google Play grew 60% YoY in Q1, with App Store releases alone up 80%, possibly driven by AI coding tools &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260419/p1#a260419p1)
- - [Mistral, which once aimed for top open models, now leans on being an alternative to Chinese and US labs, says it&#39;s on track for $80M in monthly revenue by Dec. &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260418/p12#a260418p12)<!-- TECH:END -->
+ - [A look at the AI nonprofit METR, whose time-horizon metrics are used by AI researchers and Wall Street investors to track the rapid development of AI systems &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260419/p7#a260419p7)
+ - [Expo, which develops an eponymous React Native framework and provides cloud services for building cross-platform apps, raised a $45M Series B led by Georgian &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/260419/p6#a260419p6)
+ - [Binance and Bitget to probe a rally in RaveDAO&#39;s RAVE token, which surged 4,500% in a week, after ZachXBT alleged RAVE insiders engineered a large short squeeze &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260419/p5#a260419p5)
+ - [At the Beijing half-marathon, several humanoid robots beat human winners by 10+ minutes; a robot made by Honor beat the human world record held by Jacob Kiplimo &lpar;Reuters&rpar;](http://www.techmeme.com/260419/p4#a260419p4)
+ - [B&amp;H&#39;s $299 Samsung 32-inch M8 USB-C monitor deal ends today](https://appleinsider.com/articles/26/04/19/bhs-299-samsung-32-inch-m8-usb-c-monitor-deal-ends-today?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

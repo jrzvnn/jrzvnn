@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
- - 😝 [Young Big E appearing in a Talk show...](http://9gag.com/gag/aoyQWdw)
- - 💣 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)
+ - 😝 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)
+ - 😝 [Food stamp recipients, pouring out water to get the deposit](http://9gag.com/gag/aQzWgAw)
+ - 💣 [Made in china](http://9gag.com/gag/ayNjqKb)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [Weirdly satisfying](http://9gag.com/gag/avyKen5)<!-- MEMES:END -->
+ - 👉 [Just hanging around](http://9gag.com/gag/aAyzQOR)<!-- MEMES:END -->
 
 ---
 

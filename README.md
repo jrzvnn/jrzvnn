@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)
- - 😝 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
- - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
+ - 😝 [Clumsy mom](http://9gag.com/gag/aByB6oz)
+ - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
+ - 💣 [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [Look what I made: A real lumibug steampunk!](http://9gag.com/gag/aGy48OG)<!-- MEMES:END -->
+ - 👉 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)<!-- MEMES:END -->
 
 ---
 

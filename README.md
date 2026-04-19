@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These creatures are being airdropped to the shires to destroy everything](http://9gag.com/gag/azxpxKm)
- - 😝 [And don&#39;t forget reliable](http://9gag.com/gag/aLn7LPx)
- - 💣 [Instant karma for this Karen on a bike. You love to see it](http://9gag.com/gag/a1m3mg8)
+ - 😝 [Instant karma for this Karen on a bike. You love to see it](http://9gag.com/gag/a1m3mg8)
+ - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
+ - 💣 [Is This True ?](http://9gag.com/gag/a2v6MDD)
  - 😝 [You thought your TV was \u201cgood enough\u201d\u2026 until match day hits \u26bd\ufe0f\ud83d\udc40](http://9gag.com/gag/aYQXGy7)
- - 👉 [Is This True ?](http://9gag.com/gag/a2v6MDD)<!-- MEMES:END -->
+ - 👉 [WOW !!!](http://9gag.com/gag/ary7WRp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 11 Best Fans to Buy Before It Gets Hot Again &lpar;2026&rpar;](https://www.wired.com/story/the-best-fans-2026/)
  - [Our Favorite Apple Watch Has Never Been Less Expensive](https://www.wired.com/story/apple-watch-series-11-deal-april-2026/)
  - [The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot](https://www.wired.com/gallery/best-pet-cameras/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 19, #573](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-19-573/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 19 #777](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-19-777/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 19, #1043](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-19-1043/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 19 #777](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-19-777/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

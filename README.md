@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Stars My Destination is classic proto-cyberpunk](https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk)
- - [Sources: Google is in talks with Marvell Technology to develop a memory processing unit that works alongside TPUs, and a new TPU for running AI models &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/260419/p9#a260419p9)
- - [Premier League Soccer: Stream Man City vs. Arsenal From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-arsenal-from-anywhere-live/)
- - [Shipping Antimatter by Truck to Understand the Universe](https://www.cnet.com/science/shipping-antimatter-by-truck-to-understand-the-universe/)
- - [How to Tell if Someone Else&#39;s Apple AirTag Is Tracking You](https://www.cnet.com/tech/mobile/how-to-tell-if-an-apple-airtag-is-tracking-you/)<!-- TECH:END -->
+ - [Mac Studio, touchscreen MacBook Pro delayed by memory shortages](https://appleinsider.com/articles/26/04/19/mac-studio-touchscreen-macbook-pro-delayed-by-memory-shortages?utm_source=rss)
+ - [Sources: the glowing &quot;26&quot; in Apple&#39;s WWDC invite is teasing a revamped Siri, memory shortages may push Mac Studio and touch MacBook Pro launches by a few months &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260419/p10#a260419p10)
+ - [WWDC 2026&#39;s focus will be on iOS 27&#39;s Siri overhaul](https://appleinsider.com/articles/26/04/19/wwdc-2026s-focus-will-be-on-ios-27s-siri-overhaul?utm_source=rss)
+ - [Nothing’s modular CMF Headphone Pro are down to their lowest price to date](https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal)
+ - [The Stars My Destination is classic proto-cyberpunk](https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

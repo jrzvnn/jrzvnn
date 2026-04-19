@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spring Clean Your Tech: Where to Recycle Old Computers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)
  - [Mac Studio, touchscreen MacBook Pro delayed by memory shortages](https://appleinsider.com/articles/26/04/19/mac-studio-touchscreen-macbook-pro-delayed-by-memory-shortages?utm_source=rss)
  - [Sources: the glowing &quot;26&quot; in Apple&#39;s WWDC invite is teasing a revamped Siri, memory shortages may push Mac Studio and touch MacBook Pro launches by a few months &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260419/p10#a260419p10)
  - [WWDC 2026&#39;s focus will be on iOS 27&#39;s Siri overhaul](https://appleinsider.com/articles/26/04/19/wwdc-2026s-focus-will-be-on-ios-27s-siri-overhaul?utm_source=rss)
- - [Nothing’s modular CMF Headphone Pro are down to their lowest price to date](https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal)
- - [&#39;Euphoria&#39; Season 3 Release Schedule: When Does Episode 2 Come Out?](https://www.cnet.com/tech/services-and-software/euphoria-season-3-release-schedule-when-does-episode-2-come-out/)<!-- TECH:END -->
+ - [Nothing’s modular CMF Headphone Pro are down to their lowest price to date](https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

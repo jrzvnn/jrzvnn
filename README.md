@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
- - 😝 [Brutal](http://9gag.com/gag/amo4oG9)
- - 💣 [Just hanging around](http://9gag.com/gag/aAyzQOR)
+ - 😝 [Save the date: August 8th, 2026](http://9gag.com/gag/avyKW4b)
+ - 😝 [Cute](http://9gag.com/gag/amo417d)
+ - 💣 [You cheeky dick waffle](http://9gag.com/gag/a5Q0VAO)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)<!-- MEMES:END -->
+ - 👉 [Throw it back.](http://9gag.com/gag/amo41o6)<!-- MEMES:END -->
 
 ---
 

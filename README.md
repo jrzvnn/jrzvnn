@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Crime blotter: Second suspect sought in $2 million iPhone theft](https://appleinsider.com/articles/26/04/19/crime-blotter-second-suspect-sought-in-2-million-iphone-theft?utm_source=rss)
+ - [1000xResist Studio&#39;s Next Indie Game Asks: Can You Convince an AI It Isn&#39;t Human?](https://www.cnet.com/tech/gaming/1000xresist-studios-next-indie-game-prove-youre-human-interview/)
+ - [Asus Zenbook A16 Review: A True AI Laptop Among Artificial Imitators](https://www.cnet.com/tech/computing/asus-zenbook-a16-2026-review-ai-laptop/)
  - [A profile of Quince, an online luxury DTC brand valued at $10B+, which has found success by using data analysis and close manufacturer ties to keep prices low &lpar;Amanda Mull/Bloomberg&rpar;](http://www.techmeme.com/260419/p8#a260419p8)
- - [Best Meta Glasses &lpar;2026&rpar;: Ray-Ban, Oakley, AR](https://www.wired.com/story/best-meta-glasses/)
- - [Hisense U7SG TV Review &lpar;2026&rpar;: Better Design, Great Value](https://www.wired.com/review/hisense-u7sg/)
- - [iOS 26.4.1 Will Automatically Enable This iPhone Security Feature](https://www.cnet.com/tech/services-and-software/ios-26-4-1-enable-iphone-security-feature/)<!-- TECH:END -->
+ - [Best Meta Glasses &lpar;2026&rpar;: Ray-Ban, Oakley, AR](https://www.wired.com/story/best-meta-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

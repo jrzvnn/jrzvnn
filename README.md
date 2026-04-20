@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clumsy mom](http://9gag.com/gag/aByB6oz)
- - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 💣 [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)
+ - 😝 [Durban, South Africa is an example of what happened in less than 20 years when the White population decreases.](http://9gag.com/gag/a87x63e)
+ - 😝 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)
+ - 💣 [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)<!-- MEMES:END -->
+ - 👉 [Proper use of a drone](http://9gag.com/gag/aXP6M19)<!-- MEMES:END -->
 
 ---
 

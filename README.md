@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercedes’ first all-electric C-Class is its sportiest one yet](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs)
- - [You can grab a Sonos Era 100 for $85 off thanks to Sonos’ latest refurb sale](https://www.theverge.com/gadgets/914900/sonos-era-100-300-refurbished-speakers-anker-nano-charger-deal-sale)
- - [Filing in California&#39;s antitrust lawsuit: CA accuses Amazon of price-fixing by pressuring brands to ask competing retailers to increase prices on some products &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/260420/p19#a260420p19)
- - [Deezer says AI song uploads have nearly overtaken human music](https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads)
- - [Smart glasses race heats up as Apple prepares for late 2026 entry](https://appleinsider.com/articles/26/04/20/smart-glasses-race-heats-up-as-apple-prepares-for-late-2026-entry?utm_source=rss)<!-- TECH:END -->
+ - [Google Photos adds subtle touch-up tools for faces](https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes)
+ - [A profile of far-right influencer Nick Fuentes, who has been kicked off most mainstream social media but made ~$900K from &quot;fanatical&quot; donors since early 2025 &lpar;Washington Post&rpar;](http://www.techmeme.com/260420/p20#a260420p20)
+ - [Insta360 is putting screens on its next wireless mics to show logos or images](https://www.theverge.com/tech/914814/insta360-wireless-mic-pro-e-ink-screen-nab-2026-teaser)
+ - [A Hot-Air Balloon Landed in a California Backyard. The Owner Says It&#39;s a &#39;Very Rare&#39; Event](https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/)
+ - [Spring 2027 iPhone 18 &amp; iPhone 18e may be more alike than different](https://appleinsider.com/articles/26/04/20/spring-2027-iphone-18-iphone-18e-may-be-more-alike-than-different?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

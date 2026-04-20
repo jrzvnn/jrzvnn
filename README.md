@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Match Group CEO Spencer Rascoff says growing women&#39;s share on Tinder is his &quot;primary focus&quot; to stem user declines; Sensor Tower says 75% of Tinder users are men &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260419/p15#a260419p15)
  - [Fermi CEO Toby Neugebauer is leaving the company, as the data center developer faces issues in securing an anchor tenant and construction delays &lpar;Amy Harder/Axios&rpar;](http://www.techmeme.com/260419/p14#a260419p14)
  - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)
  - [Sunday Reboot: Japan ads, AI assistance, and a nice retirement](https://appleinsider.com/articles/26/04/19/sunday-reboot-japan-ads-ai-assistance-and-a-nice-retirement?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 20 #778](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-20-778/)
- - [Today&#39;s Wordle Hints, Answer and Help for April 20, #1766](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-20-1766/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 20 #778](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-20-778/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Arthur Levinson to become Apple&#39;s Lead Independent Director](https://appleinsider.com/articles/26/04/20/arthur-levinson-to-become-apples-lead-independent-director?utm_source=rss)
- - [John Ternus, senior VP of Hardware Engineering, will become Apple&#39;s next CEO on September 1; Tim Cook will become executive chairman of Apple&#39;s board &lpar;CNBC&rpar;](http://www.techmeme.com/260420/p27#a260420p27)
- - [OpenAI rolls out Chronicle, which builds memories from screen captures to make Codex more aware of context, as a research preview for Pro subscribers on macOS &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260420/p28#a260420p28)
- - [Apple&#39;s new CEO: Who is John Ternus?](https://appleinsider.com/articles/26/04/20/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)
- - [Tim Cook thanks users &amp; Apple employees after 15 years of being CEO](https://appleinsider.com/articles/26/04/20/tim-cook-thanks-users-apple-employees-after-15-years-of-being-ceo?utm_source=rss)<!-- TECH:END -->
+ - [Tim Cook thanks users &amp; Apple employees after 15 years of being CEO](https://appleinsider.com/articles/26/04/20/tim-cook-thanks-users-apple-employees-after-15-years-of-being-ceo?utm_source=rss)
+ - [John Ternus is taking over from Tim Cook as Apple&amp;#8217;s CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook)
+ - [How Tim Cook started at Apple in 1998, and how 15 years of being the CEO ends](https://appleinsider.com/articles/26/04/20/how-tim-cook-started-at-apple-in-1998-and-how-15-years-of-being-the-ceo-ends?utm_source=rss)
+ - [Read Tim Cook&amp;#8217;s letter to the Apple world as he departs as CEO](https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

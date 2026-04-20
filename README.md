@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature is healing.](http://9gag.com/gag/a9ygvLj)
- - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
- - 💣 [Husbands are always ready to fight dragons, but never the dishes. Show some respect, Brenda](http://9gag.com/gag/axyqvp1)
- - 😝 [Remember the rock and Oprah on the Hawaii fires? Her alone could swipe her card and all the damage would have been covered and she wouldn\u2019t feel it.](http://9gag.com/gag/a7oRePm)
- - 👉 [This one was pretty good](http://9gag.com/gag/aLn7egv)<!-- MEMES:END -->
+ - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
+ - 😝 [Kid was surely annoying](http://9gag.com/gag/a7oReZm)
+ - 💣 [Durban, South Africa is an example of what happened in less than 20 years when the White population decreases.](http://9gag.com/gag/a87x63e)
+ - 😝 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 👉 [Save the trees](http://9gag.com/gag/apRZDd8)<!-- MEMES:END -->
 
 ---
 

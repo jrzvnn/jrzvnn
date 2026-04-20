@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is This True ?](http://9gag.com/gag/a2v6MDD)
- - 😝 [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)
- - 💣 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [How easy it is to shop nowadays](http://9gag.com/gag/aYQXEPq)<!-- MEMES:END -->
+ - 😝 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)
+ - 😝 [Add more fingers](http://9gag.com/gag/aXP6MQ2)
+ - 💣 [Save the trees](http://9gag.com/gag/apRZDd8)
+ - 😝 [Happy 80th to the legend himself, Tim Curry. What a career](http://9gag.com/gag/aD2enyx)
+ - 👉 [Look what I made: A real lumibug steampunk!](http://9gag.com/gag/aGy48OG)<!-- MEMES:END -->
 
 ---
 

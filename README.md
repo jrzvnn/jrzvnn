@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it works , it works](http://9gag.com/gag/aLn7zOW)
- - 😝 [Everyone would](http://9gag.com/gag/a4PO686)
- - 💣 [Look what I made: A real lumibug steampunk!](http://9gag.com/gag/aGy48OG)
+ - 😝 [Food stamp recipients, pouring out water to get the deposit](http://9gag.com/gag/aQzWgAw)
+ - 😝 [The people of the orange app](http://9gag.com/gag/azxp5PK)
+ - 💣 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)<!-- MEMES:END -->
+ - 👉 [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)<!-- MEMES:END -->
 
 ---
 

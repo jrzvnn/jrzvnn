@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Food stamp recipients, pouring out water to get the deposit](http://9gag.com/gag/aQzWgAw)
- - 😝 [The people of the orange app](http://9gag.com/gag/azxp5PK)
- - 💣 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 😝 [Is This True ?](http://9gag.com/gag/a2v6MDD)
+ - 😝 [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)
+ - 💣 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)<!-- MEMES:END -->
+ - 👉 [How easy it is to shop nowadays](http://9gag.com/gag/aYQXEPq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: Microsoft plans to eventually move GitHub Copilot from request- to token-based billing, as the week-over-week cost to run it has nearly doubled since Jan. &lpar;Edward Zitron/Ed Zitron&#39;s Where&#39;s ...&rpar;](http://www.techmeme.com/260420/p22#a260420p22)
- - [WhatsApp tests &amp;#8216;Plus&amp;#8217; subscription that adds stickers and more for a few bucks a month](https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription)
- - [Second Apple Music outage in a week stops some customers from streaming](https://appleinsider.com/articles/26/04/20/second-apple-music-outage-in-a-week-stops-some-customers-from-streaming?utm_source=rss)
- - [Japanese man sentenced to prison for posting spoilers](https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten)
- - [RaveDAO&#39;s RAVE has lost $6.6B+ in market cap and its price has sunk ~98% since Saturday, after ZachXBT called on exchanges to probe if it was being manipulated &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/260420/p21#a260420p21)<!-- TECH:END -->
+ - [Arthur Levinson to become Apple&#39;s Lead Independent Director](https://appleinsider.com/articles/26/04/20/arthur-levinson-to-become-apples-lead-independent-director?utm_source=rss)
+ - [John Ternus, senior VP of Hardware Engineering, will become Apple&#39;s next CEO on September 1; Tim Cook will become executive chairman of Apple&#39;s board &lpar;CNBC&rpar;](http://www.techmeme.com/260420/p27#a260420p27)
+ - [OpenAI rolls out Chronicle, which builds memories from screen captures to make Codex more aware of context, as a research preview for Pro subscribers on macOS &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260420/p28#a260420p28)
+ - [Apple&#39;s new CEO: Who is John Ternus?](https://appleinsider.com/articles/26/04/20/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)
+ - [Tim Cook thanks users &amp; Apple employees after 15 years of being CEO](https://appleinsider.com/articles/26/04/20/tim-cook-thanks-users-apple-employees-after-15-years-of-being-ceo?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We Love the Bose QuietComfort Ultra 2, Especially at $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-2-earbuds-april-2026/)
- - [I Was Cooking Bacon Wrong for Decades, and You Probably Are Too](https://www.cnet.com/news/i-was-cooking-bacon-wrong-for-decades-and-you-probably-are-too/)
- - [Oura Ring vs. Apple Watch: The One Dealbreaker That Made My Choice](https://www.cnet.com/tech/mobile/apple-watch-vs-oura-ring-which-should-you-buy/)
- - [Researchers Use Quantum Computer to Improve AI Predictions](https://www.cnet.com/tech/services-and-software/researchers-use-quantum-computer-to-improve-ai-predictions/)
- - [Tech CEOs Think AI Will Let Them Be Everywhere at Once](https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/)<!-- TECH:END -->
+ - [Huawei beats Samsung and Apple to market with the first wide foldable](https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability)
+ - [These are rumored to be the four iPhone 18 Pro colors](https://appleinsider.com/articles/26/04/20/these-are-rumored-to-be-the-four-iphone-18-pro-colors?utm_source=rss)
+ - [&#39;Han Solo Wants to Be Me&#39;: Artemis II&#39;s Victor Glover on Flying the Orion](https://www.cnet.com/science/space/artemis-ii-astronaut-victor-glover-han-solo-wants-to-be-me/)
+ - [DJI’s latest power station is proof that good things come in mini packages](https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison)
+ - [India says Apple can&#39;t delay investigation of a potential $38 billion fine](https://appleinsider.com/articles/26/04/20/india-says-apple-cant-delay-investigation-of-a-potential-38-billion-fine?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

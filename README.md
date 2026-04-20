@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - 😝 [Ten months from now, all devices sold within the European Union must have batteries that are easily replaceable by the average user. This law even includes Apple, which has already begun designing its phones to have replaceable batteries.](http://9gag.com/gag/aPAbPnG)
- - 💣 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 😝 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 💣 [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)
  - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
- - 👉 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)<!-- MEMES:END -->
+ - 👉 [Literally a surgeon](http://9gag.com/gag/aXP6V1z)<!-- MEMES:END -->
 
 ---
 

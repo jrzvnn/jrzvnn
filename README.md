@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 😝 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
- - 💣 [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)
  - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
- - 👉 [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)<!-- MEMES:END -->
+ - 😝 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
+ - 💣 [Kid was surely annoying](http://9gag.com/gag/a7oReZm)
+ - 😝 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 👉 [Christina Zenato helps sharks. Not AI](http://9gag.com/gag/a6ZY5G8)<!-- MEMES:END -->
 
 ---
 

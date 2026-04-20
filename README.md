@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SK hynix says it has begun mass production of the 192GB SOCAMM2, a next-gen LPDDR5X low-power DRAM module designed particularly for Nvidia&#39;s Vera Rubin &lpar;The Korea Herald&rpar;](http://www.techmeme.com/260420/p2#a260420p2)
+ - [German Chancellor Friedrich Merz says he will push to ease the EU&#39;s &quot;regulatory burden&quot; on AI and possibly exempt industrial AI to boost productivity &lpar;Andreas Rinke/Reuters&rpar;](http://www.techmeme.com/260420/p1#a260420p1)
  - [Sources: Polymarket is in talks to raise $400M at a ~$15B post-money valuation, up from $9B in October 2025, but below Kalshi&#39;s $22B valuation from March 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260419/p18#a260419p18)
  - [Australian data center operator NextDC plans to raise AU$1.5B in equity for its 350MW Sydney site rollout, and raises its FY26 capex by AU$300M to AU$2.7B-AU$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260419/p17#a260419p17)
- - [A profile of Maria Davidson, who heads California Renewal, a pro-business political group backed by Silicon Valley power players, seeking to raise $100M in 2026 &lpar;Emily Shugerman/The San Francisco ...&rpar;](http://www.techmeme.com/260419/p16#a260419p16)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, April 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-20/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 20, #574](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-20-574/)<!-- TECH:END -->
+ - [A profile of Maria Davidson, who heads California Renewal, a pro-business political group backed by Silicon Valley power players, seeking to raise $100M in 2026 &lpar;Emily Shugerman/The San Francisco ...&rpar;](http://www.techmeme.com/260419/p16#a260419p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

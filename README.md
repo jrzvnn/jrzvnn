@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos adds subtle touch-up tools for faces](https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes)
- - [A profile of far-right influencer Nick Fuentes, who has been kicked off most mainstream social media but made ~$900K from &quot;fanatical&quot; donors since early 2025 &lpar;Washington Post&rpar;](http://www.techmeme.com/260420/p20#a260420p20)
- - [Insta360 is putting screens on its next wireless mics to show logos or images](https://www.theverge.com/tech/914814/insta360-wireless-mic-pro-e-ink-screen-nab-2026-teaser)
- - [A Hot-Air Balloon Landed in a California Backyard. The Owner Says It&#39;s a &#39;Very Rare&#39; Event](https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/)
- - [Spring 2027 iPhone 18 &amp; iPhone 18e may be more alike than different](https://appleinsider.com/articles/26/04/20/spring-2027-iphone-18-iphone-18e-may-be-more-alike-than-different?utm_source=rss)<!-- TECH:END -->
+ - [Docs: Microsoft plans to eventually move GitHub Copilot from request- to token-based billing, as the week-over-week cost to run it has nearly doubled since Jan. &lpar;Edward Zitron/Ed Zitron&#39;s Where&#39;s ...&rpar;](http://www.techmeme.com/260420/p22#a260420p22)
+ - [WhatsApp tests &amp;#8216;Plus&amp;#8217; subscription that adds stickers and more for a few bucks a month](https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription)
+ - [Second Apple Music outage in a week stops some customers from streaming](https://appleinsider.com/articles/26/04/20/second-apple-music-outage-in-a-week-stops-some-customers-from-streaming?utm_source=rss)
+ - [Japanese man sentenced to prison for posting spoilers](https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten)
+ - [RaveDAO&#39;s RAVE has lost $6.6B+ in market cap and its price has sunk ~98% since Saturday, after ZachXBT called on exchanges to probe if it was being manipulated &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/260420/p21#a260420p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

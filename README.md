@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husbands are always ready to fight dragons, but never the dishes. Show some respect, Brenda](http://9gag.com/gag/axyqvp1)
- - 😝 [Proper use of a drone](http://9gag.com/gag/aXP6M19)
- - 💣 [Save the trees](http://9gag.com/gag/apRZDd8)
- - 😝 [Old Repost but gold](http://9gag.com/gag/aoyQ3bg)
- - 👉 [Nature is healing.](http://9gag.com/gag/a9ygvLj)<!-- MEMES:END -->
+ - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
+ - 😝 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
+ - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
+ - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
+ - 👉 [Sensory overload](http://9gag.com/gag/aAyzKGL)<!-- MEMES:END -->
 
 ---
 

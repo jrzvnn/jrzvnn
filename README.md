@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp says it is testing a new subscription called WhatsApp Plus, which includes features like expanded pinned chats, custom lists, and new chat themes &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260420/p17#a260420p17)
- - [Moonshot introduces Kimi K2.6, an open-weight model that it says shows strong improvements in long-horizon coding tasks, available under a modified MIT License &lpar;Kimi AI&rpar;](http://www.techmeme.com/260420/p16#a260420p16)
- - [Birdfy’s new 4K feeder wants to teach you about the birds it identifies](https://www.theverge.com/tech/914832/birdfy-feeder-metal-2-4k-wide-angle-camera-ornisense-ai-price-availability)
- - [Humanoid &amp;#8216;Lightning&amp;#8217; robot smashes the half-marathon record](https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record)
- - [Best Apple deals: $99 AirPods 4, $56 AirTag 4-Pack, $2,499 M5 Pro 16-inch MacBook Pro](https://appleinsider.com/articles/26/04/20/best-apple-deals-99-airpods-4-56-airtag-4-pack-2499-m5-pro-16-inch-macbook-pro?utm_source=rss)<!-- TECH:END -->
+ - [Smart glasses race heats up as Apple prepares for late 2026 entry](https://appleinsider.com/articles/26/04/20/smart-glasses-race-heats-up-as-apple-prepares-for-late-2026-entry?utm_source=rss)
+ - [Third round of iOS 26.5, macOS Tahoe 26.5 developer betas are out now](https://appleinsider.com/articles/26/04/20/third-round-of-ios-265-macos-tahoe-265-developer-betas-are-out-now?utm_source=rss)
+ - [A new media company called MTS launches for &quot;monitoring the situation&quot; across tech, business, politics, and culture, with backing from a16z and others &lpar;a16z&rpar;](http://www.techmeme.com/260420/p18#a260420p18)
+ - [Fortnite developers can make AI characters now — just don&amp;#8217;t try to date them](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations)
+ - [Benq TK705STi Short-Throw Projector Review: Tidy Little Box for Little Rooms](https://www.cnet.com/tech/home-entertainment/benq-tk705sti-short-throw-projector-review-little-box-for-little-rooms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

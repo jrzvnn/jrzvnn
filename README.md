@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LayerZero says North Korea&#39;s Lazarus is likely behind the $292M Kelp DAO exploit on April 18, which triggered $10B in outflows from Aave over bad debt concerns &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/260420/p4#a260420p4)
- - [The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad](https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/)
- - [The Best Hybrid Mattresses for Couples, Back Pain, and More &lpar;2026&rpar;](https://www.wired.com/gallery/best-hybrid-mattresses/)
- - [GoPro’s new Mission cameras are priced beyond most weekend athletes](https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 20 #778](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-20-778/)<!-- TECH:END -->
+ - [We Love the Bose QuietComfort Ultra 2, Especially at $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-2-earbuds-april-2026/)
+ - [I Was Cooking Bacon Wrong for Decades, and You Probably Are Too](https://www.cnet.com/news/i-was-cooking-bacon-wrong-for-decades-and-you-probably-are-too/)
+ - [Oura Ring vs. Apple Watch: The One Dealbreaker That Made My Choice](https://www.cnet.com/tech/mobile/apple-watch-vs-oura-ring-which-should-you-buy/)
+ - [Researchers Use Quantum Computer to Improve AI Predictions](https://www.cnet.com/tech/services-and-software/researchers-use-quantum-computer-to-improve-ai-predictions/)
+ - [Tech CEOs Think AI Will Let Them Be Everywhere at Once](https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

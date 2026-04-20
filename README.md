@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - 😝 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 😝 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
  - 💣 [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)
- - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
+ - 😝 [Hazmat suits ready](http://9gag.com/gag/a0eyVmd)
  - 👉 [Literally a surgeon](http://9gag.com/gag/aXP6V1z)<!-- MEMES:END -->
 
 ---

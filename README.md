@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
- - 😝 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
- - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
  - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 👉 [Sensory overload](http://9gag.com/gag/aAyzKGL)<!-- MEMES:END -->
+ - 😝 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
+ - 💣 [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)
+ - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
+ - 👉 [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)<!-- MEMES:END -->
 
 ---
 

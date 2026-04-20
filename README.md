@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match Group CEO Spencer Rascoff says growing women&#39;s share on Tinder is his &quot;primary focus&quot; to stem user declines; Sensor Tower says 75% of Tinder users are men &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260419/p15#a260419p15)
- - [Fermi CEO Toby Neugebauer is leaving the company, as the data center developer faces issues in securing an anchor tenant and construction delays &lpar;Amy Harder/Axios&rpar;](http://www.techmeme.com/260419/p14#a260419p14)
- - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)
- - [Sunday Reboot: Japan ads, AI assistance, and a nice retirement](https://appleinsider.com/articles/26/04/19/sunday-reboot-japan-ads-ai-assistance-and-a-nice-retirement?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 20 #778](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-20-778/)<!-- TECH:END -->
+ - [Sources: Polymarket is in talks to raise $400M at a ~$15B post-money valuation, up from $9B in October 2025, but below Kalshi&#39;s $22B valuation from March 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260419/p18#a260419p18)
+ - [Australian data center operator NextDC plans to raise AU$1.5B in equity for its 350MW Sydney site rollout, and raises its FY26 capex by AU$300M to AU$2.7B-AU$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260419/p17#a260419p17)
+ - [A profile of Maria Davidson, who heads California Renewal, a pro-business political group backed by Silicon Valley power players, seeking to raise $100M in 2026 &lpar;Emily Shugerman/The San Francisco ...&rpar;](http://www.techmeme.com/260419/p16#a260419p16)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, April 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-20/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 20, #574](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-20-574/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

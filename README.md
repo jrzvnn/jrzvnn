@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Add more fingers](http://9gag.com/gag/aXP6MQ2)
  - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
- - 💣 [Look what I made: A real lumibug steampunk!](http://9gag.com/gag/aGy48OG)
- - 😝 [Watch your thoughts, they become your words. Words-&gt;Actions-&gt;Habits-&gt;Character.](http://9gag.com/gag/aZZOweQ)
- - 👉 [Proper use of a drone](http://9gag.com/gag/aXP6M19)<!-- MEMES:END -->
+ - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
+ - 💣 [Kid was surely annoying](http://9gag.com/gag/a7oReZm)
+ - 😝 [Clumsy mom](http://9gag.com/gag/aByB6oz)
+ - 👉 [True family never leaves your side](http://9gag.com/gag/aLn7eYx)<!-- MEMES:END -->
 
 ---
 

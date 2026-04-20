@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Durban, South Africa is an example of what happened in less than 20 years when the White population decreases.](http://9gag.com/gag/a87x63e)
- - 😝 [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)
- - 💣 [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
+ - 😝 [If it works , it works](http://9gag.com/gag/aLn7zOW)
+ - 😝 [Everyone would](http://9gag.com/gag/a4PO686)
+ - 💣 [Look what I made: A real lumibug steampunk!](http://9gag.com/gag/aGy48OG)
  - 😝 [Zoom in closer to see how a FIFA World Cup 2026\u2122 watch party should be....](http://9gag.com/gag/abAn1db)
- - 👉 [Proper use of a drone](http://9gag.com/gag/aXP6M19)<!-- MEMES:END -->
+ - 👉 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)<!-- MEMES:END -->
 
 ---
 

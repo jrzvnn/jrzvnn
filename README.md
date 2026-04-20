@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei beats Samsung and Apple to market with the first wide foldable](https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability)
- - [These are rumored to be the four iPhone 18 Pro colors](https://appleinsider.com/articles/26/04/20/these-are-rumored-to-be-the-four-iphone-18-pro-colors?utm_source=rss)
- - [&#39;Han Solo Wants to Be Me&#39;: Artemis II&#39;s Victor Glover on Flying the Orion](https://www.cnet.com/science/space/artemis-ii-astronaut-victor-glover-han-solo-wants-to-be-me/)
- - [DJI’s latest power station is proof that good things come in mini packages](https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison)
- - [India says Apple can&#39;t delay investigation of a potential $38 billion fine](https://appleinsider.com/articles/26/04/20/india-says-apple-cant-delay-investigation-of-a-potential-38-billion-fine?utm_source=rss)<!-- TECH:END -->
+ - [Mac sales on the rise, prior to RAM &amp; SSD pricing hammering PC market](https://appleinsider.com/articles/26/04/20/mac-sales-on-the-rise-prior-to-ram-ssd-pricing-hammering-pc-market?utm_source=rss)
+ - [I Tried an Air Purifier Designed to Filter Out Weed and Cigarette Smoke](https://www.cnet.com/news/i-tried-an-air-purifier-designed-to-filter-out-weed-and-cigarette-smoke/)
+ - [A look at creators and organizations warning of AI&#39;s existential threats to humanity; some organizations sponsor social media posts and partner with influencers &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/260420/p12#a260420p12)
+ - [Puff, Puff, Pass… the Menu: These Are the Best 4/20 Food Deals](https://www.cnet.com/deals-live/420-food-deals-live/)
+ - [Adobe introduces CX Enterprise, an AI agent-based platform that aims to help corporate customers automate digital marketing and other functions &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260420/p11#a260420p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

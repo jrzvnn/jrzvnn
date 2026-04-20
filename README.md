@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac sales on the rise, prior to RAM &amp; SSD pricing hammering PC market](https://appleinsider.com/articles/26/04/20/mac-sales-on-the-rise-prior-to-ram-ssd-pricing-hammering-pc-market?utm_source=rss)
- - [I Tried an Air Purifier Designed to Filter Out Weed and Cigarette Smoke](https://www.cnet.com/news/i-tried-an-air-purifier-designed-to-filter-out-weed-and-cigarette-smoke/)
- - [A look at creators and organizations warning of AI&#39;s existential threats to humanity; some organizations sponsor social media posts and partner with influencers &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/260420/p12#a260420p12)
- - [Puff, Puff, Pass… the Menu: These Are the Best 4/20 Food Deals](https://www.cnet.com/deals-live/420-food-deals-live/)
- - [Adobe introduces CX Enterprise, an AI agent-based platform that aims to help corporate customers automate digital marketing and other functions &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260420/p11#a260420p11)<!-- TECH:END -->
+ - [Humanoid &amp;#8216;Lightning&amp;#8217; robot smashes the half-marathon record](https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record)
+ - [Best Apple deals: $99 AirPods 4, $56 AirTag 4-Pack, $2,499 M5 Pro 16-inch MacBook Pro](https://appleinsider.com/articles/26/04/20/best-apple-deals-99-airpods-4-56-airtag-4-pack-2499-m5-pro-16-inch-macbook-pro?utm_source=rss)
+ - [Deezer says AI-generated tracks now account for 44% of daily uploads, totaling ~75K tracks per day and 2M+ per month, but account for just 1-3% of consumption &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260420/p15#a260420p15)
+ - [Blue Origin’s New Glenn rocket grounded after delivering satellite to wrong orbit](https://www.theverge.com/science/914866/blue-origin-new-glenn-grounded-faa)
+ - [Tariff refunds have started, but Apple won&#39;t see cash back for months](https://appleinsider.com/articles/26/04/20/tariff-refunds-have-started-but-apple-wont-see-cash-back-for-months?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

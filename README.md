@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Salesforce CEO Marc Benioff dismisses the idea of vibe coded CRM replacing SaaS companies, saying data security and compliance make Salesforce indispensable &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/260420/p3#a260420p3)
  - [SK hynix says it has begun mass production of the 192GB SOCAMM2, a next-gen LPDDR5X low-power DRAM module designed particularly for Nvidia&#39;s Vera Rubin &lpar;The Korea Herald&rpar;](http://www.techmeme.com/260420/p2#a260420p2)
  - [German Chancellor Friedrich Merz says he will push to ease the EU&#39;s &quot;regulatory burden&quot; on AI and possibly exempt industrial AI to boost productivity &lpar;Andreas Rinke/Reuters&rpar;](http://www.techmeme.com/260420/p1#a260420p1)
  - [Sources: Polymarket is in talks to raise $400M at a ~$15B post-money valuation, up from $9B in October 2025, but below Kalshi&#39;s $22B valuation from March 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260419/p18#a260419p18)
- - [Australian data center operator NextDC plans to raise AU$1.5B in equity for its 350MW Sydney site rollout, and raises its FY26 capex by AU$300M to AU$2.7B-AU$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260419/p17#a260419p17)
- - [A profile of Maria Davidson, who heads California Renewal, a pro-business political group backed by Silicon Valley power players, seeking to raise $100M in 2026 &lpar;Emily Shugerman/The San Francisco ...&rpar;](http://www.techmeme.com/260419/p16#a260419p16)<!-- TECH:END -->
+ - [Australian data center operator NextDC plans to raise AU$1.5B in equity for its 350MW Sydney site rollout, and raises its FY26 capex by AU$300M to AU$2.7B-AU$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260419/p17#a260419p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

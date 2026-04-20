@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp says it is testing a new subscription called WhatsApp Plus, which includes features like expanded pinned chats, custom lists, and new chat themes &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260420/p17#a260420p17)
+ - [Moonshot introduces Kimi K2.6, an open-weight model that it says shows strong improvements in long-horizon coding tasks, available under a modified MIT License &lpar;Kimi AI&rpar;](http://www.techmeme.com/260420/p16#a260420p16)
+ - [Birdfy’s new 4K feeder wants to teach you about the birds it identifies](https://www.theverge.com/tech/914832/birdfy-feeder-metal-2-4k-wide-angle-camera-ornisense-ai-price-availability)
  - [Humanoid &amp;#8216;Lightning&amp;#8217; robot smashes the half-marathon record](https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record)
- - [Best Apple deals: $99 AirPods 4, $56 AirTag 4-Pack, $2,499 M5 Pro 16-inch MacBook Pro](https://appleinsider.com/articles/26/04/20/best-apple-deals-99-airpods-4-56-airtag-4-pack-2499-m5-pro-16-inch-macbook-pro?utm_source=rss)
- - [Deezer says AI-generated tracks now account for 44% of daily uploads, totaling ~75K tracks per day and 2M+ per month, but account for just 1-3% of consumption &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260420/p15#a260420p15)
- - [Blue Origin’s New Glenn rocket grounded after delivering satellite to wrong orbit](https://www.theverge.com/science/914866/blue-origin-new-glenn-grounded-faa)
- - [Tariff refunds have started, but Apple won&#39;t see cash back for months](https://appleinsider.com/articles/26/04/20/tariff-refunds-have-started-but-apple-wont-see-cash-back-for-months?utm_source=rss)<!-- TECH:END -->
+ - [Best Apple deals: $99 AirPods 4, $56 AirTag 4-Pack, $2,499 M5 Pro 16-inch MacBook Pro](https://appleinsider.com/articles/26/04/20/best-apple-deals-99-airpods-4-56-airtag-4-pack-2499-m5-pro-16-inch-macbook-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce CEO Marc Benioff dismisses the idea of vibe coded CRM replacing SaaS companies, saying data security and compliance make Salesforce indispensable &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/260420/p3#a260420p3)
- - [SK hynix says it has begun mass production of the 192GB SOCAMM2, a next-gen LPDDR5X low-power DRAM module designed particularly for Nvidia&#39;s Vera Rubin &lpar;The Korea Herald&rpar;](http://www.techmeme.com/260420/p2#a260420p2)
- - [German Chancellor Friedrich Merz says he will push to ease the EU&#39;s &quot;regulatory burden&quot; on AI and possibly exempt industrial AI to boost productivity &lpar;Andreas Rinke/Reuters&rpar;](http://www.techmeme.com/260420/p1#a260420p1)
- - [Sources: Polymarket is in talks to raise $400M at a ~$15B post-money valuation, up from $9B in October 2025, but below Kalshi&#39;s $22B valuation from March 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260419/p18#a260419p18)
- - [Australian data center operator NextDC plans to raise AU$1.5B in equity for its 350MW Sydney site rollout, and raises its FY26 capex by AU$300M to AU$2.7B-AU$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260419/p17#a260419p17)<!-- TECH:END -->
+ - [LayerZero says North Korea&#39;s Lazarus is likely behind the $292M Kelp DAO exploit on April 18, which triggered $10B in outflows from Aave over bad debt concerns &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/260420/p4#a260420p4)
+ - [The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad](https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/)
+ - [The Best Hybrid Mattresses for Couples, Back Pain, and More &lpar;2026&rpar;](https://www.wired.com/gallery/best-hybrid-mattresses/)
+ - [GoPro’s new Mission cameras are priced beyond most weekend athletes](https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 20 #778](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-20-778/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

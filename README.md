@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)
  - 😝 [Add more fingers](http://9gag.com/gag/aXP6MQ2)
- - 💣 [Save the trees](http://9gag.com/gag/apRZDd8)
- - 😝 [Happy 80th to the legend himself, Tim Curry. What a career](http://9gag.com/gag/aD2enyx)
- - 👉 [Look what I made: A real lumibug steampunk!](http://9gag.com/gag/aGy48OG)<!-- MEMES:END -->
+ - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
+ - 💣 [Look what I made: A real lumibug steampunk!](http://9gag.com/gag/aGy48OG)
+ - 😝 [Watch your thoughts, they become your words. Words-&gt;Actions-&gt;Habits-&gt;Character.](http://9gag.com/gag/aZZOweQ)
+ - 👉 [Proper use of a drone](http://9gag.com/gag/aXP6M19)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
  - 😝 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 💣 [Kid was surely annoying](http://9gag.com/gag/a7oReZm)
- - 😝 [Clumsy mom](http://9gag.com/gag/aByB6oz)
+ - 😝 [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
+ - 💣 [Clumsy mom](http://9gag.com/gag/aByB6oz)
+ - 😝 [Darwin Approves](http://9gag.com/gag/a4PONbd)
  - 👉 [True family never leaves your side](http://9gag.com/gag/aLn7eYx)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nature is healing.](http://9gag.com/gag/a9ygvLj)
  - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
- - 😝 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
- - 💣 [Kid was surely annoying](http://9gag.com/gag/a7oReZm)
- - 😝 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
- - 👉 [Christina Zenato helps sharks. Not AI](http://9gag.com/gag/a6ZY5G8)<!-- MEMES:END -->
+ - 💣 [Husbands are always ready to fight dragons, but never the dishes. Show some respect, Brenda](http://9gag.com/gag/axyqvp1)
+ - 😝 [Remember the rock and Oprah on the Hawaii fires? Her alone could swipe her card and all the damage would have been covered and she wouldn\u2019t feel it.](http://9gag.com/gag/a7oRePm)
+ - 👉 [This one was pretty good](http://9gag.com/gag/aLn7egv)<!-- MEMES:END -->
 
 ---
 

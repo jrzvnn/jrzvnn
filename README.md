@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t expect changes from Apple anytime soon, even with new leadership](https://appleinsider.com/articles/26/04/20/dont-expect-changes-from-apple-anytime-soon-even-with-new-leadership?utm_source=rss)
+ - [The US Air Force cancels RTX&#39;s ground-control network for the US&#39; next generation of GPS satellites after years of delays and cost overruns &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/260420/p31#a260420p31)
+ - [Q&amp;A with Canva CEO Melanie Perkins on the company&#39;s growth in enterprise, competing with AI labs, token pricing, investing in its own models, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260420/p30#a260420p30)
  - [The Lenovo Legion Go S is RAMageddon’s latest victim](https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon)
- - [How Tim Cook started at Apple in 1998, and how 15 years of being the CEO ends](https://appleinsider.com/articles/26/04/20/how-tim-cook-started-at-apple-in-1998-and-how-15-years-of-being-the-ceo-ends?utm_source=rss)
- - [A Humanoid Robot Set a Half-Marathon Record in China](https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/)
- - [A US jury finds Uber liable for a sexual assault by a driver in 2019, handing Uber a second consecutive defeat in its first trials of 3,000+ pending lawsuits &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/260420/p29#a260420p29)
- - [Arthur Levinson to become Apple&#39;s Lead Independent Director](https://appleinsider.com/articles/26/04/20/arthur-levinson-to-become-apples-lead-independent-director?utm_source=rss)<!-- TECH:END -->
+ - [How Tim Cook started at Apple in 1998, and how 15 years of being the CEO ends](https://appleinsider.com/articles/26/04/20/how-tim-cook-started-at-apple-in-1998-and-how-15-years-of-being-the-ceo-ends?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

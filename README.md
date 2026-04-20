@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smart glasses race heats up as Apple prepares for late 2026 entry](https://appleinsider.com/articles/26/04/20/smart-glasses-race-heats-up-as-apple-prepares-for-late-2026-entry?utm_source=rss)
- - [Third round of iOS 26.5, macOS Tahoe 26.5 developer betas are out now](https://appleinsider.com/articles/26/04/20/third-round-of-ios-265-macos-tahoe-265-developer-betas-are-out-now?utm_source=rss)
- - [A new media company called MTS launches for &quot;monitoring the situation&quot; across tech, business, politics, and culture, with backing from a16z and others &lpar;a16z&rpar;](http://www.techmeme.com/260420/p18#a260420p18)
- - [Fortnite developers can make AI characters now — just don&amp;#8217;t try to date them](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations)
- - [Benq TK705STi Short-Throw Projector Review: Tidy Little Box for Little Rooms](https://www.cnet.com/tech/home-entertainment/benq-tk705sti-short-throw-projector-review-little-box-for-little-rooms/)<!-- TECH:END -->
+ - [Mercedes’ first all-electric C-Class is its sportiest one yet](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs)
+ - [You can grab a Sonos Era 100 for $85 off thanks to Sonos’ latest refurb sale](https://www.theverge.com/gadgets/914900/sonos-era-100-300-refurbished-speakers-anker-nano-charger-deal-sale)
+ - [Filing in California&#39;s antitrust lawsuit: CA accuses Amazon of price-fixing by pressuring brands to ask competing retailers to increase prices on some products &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/260420/p19#a260420p19)
+ - [Deezer says AI song uploads have nearly overtaken human music](https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads)
+ - [Smart glasses race heats up as Apple prepares for late 2026 entry](https://appleinsider.com/articles/26/04/20/smart-glasses-race-heats-up-as-apple-prepares-for-late-2026-entry?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

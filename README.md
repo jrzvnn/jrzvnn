@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
+ - 😝 [Its like a rite of passage, or something .](http://9gag.com/gag/a87x6N3)
  - 😝 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
- - 💣 [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)
- - 😝 [Hazmat suits ready](http://9gag.com/gag/a0eyVmd)
- - 👉 [Literally a surgeon](http://9gag.com/gag/aXP6V1z)<!-- MEMES:END -->
+ - 💣 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 😝 [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)
+ - 👉 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook reshaped Apple in his own image and exits as CEO on his own terms, seemingly picking the right successor in John Ternus, much like Jobs did with Cook &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/260421/p2#a260421p2)
  - [A look at transnational scam syndicates in Cambodia, running hundreds of online scam operations and call centers and infiltrating Cambodia&#39;s ruling class &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260421/p1#a260421p1)
  - [Dyson’s back with a travel-size Supersonic hairdryer](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price)
  - [Apple TV&#39;s &#39;The Savant&#39; to premiere in July after politically-motivated delay](https://appleinsider.com/articles/26/04/21/apple-tvs-the-savant-to-premiere-in-july-after-politically-motivated-delay?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-21/)
- - [Chinese PCB maker Victory Giant surges ~57% in its Hong Kong trading debut after raising ~$2.6B in its IPO, the largest in the city so far this year &lpar;Eunice Xu/South China Morning Post&rpar;](http://www.techmeme.com/260420/p35#a260420p35)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-21/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

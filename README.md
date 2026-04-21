@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox](https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-151-bugs-in-firefox/)
- - [X makes it 1,900 percent more expensive to post links](https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme)
- - [Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’](https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users)
- - [Framework’s first eGPUs turn its laptop into a desktop PC](https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16)
- - [Framework is building a better couch keyboard because everyone hates the Logitech one](https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one)<!-- TECH:END -->
+ - [Sources: following Manus probe, Chinese authorities ordered at least one other prominent AI startup, MiroMind, not to send talent and research out of China &lpar;Washington Post&rpar;](http://www.techmeme.com/260421/p38#a260421p38)
+ - [Mozilla says its Firefox 150 release includes fixes for 271 vulnerabilities identified using early access to Anthropic&#39;s Mythos Preview &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/260421/p37#a260421p37)
+ - [NeoCognition, which wants to build AI agents that self-learn like humans, emerges from stealth with a $40M seed co-led by Cambium Capital and Walden Catalyst &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260421/p36#a260421p36)
+ - [ChatGPT Images 2.0 is available globally to ChatGPT and Codex users, with a more powerful version for paying subscribers; its knowledge cutoff is December 2025 &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260421/p35#a260421p35)
+ - [OpenAI says ChatGPT Images 2.0 comes in Instant and Thinking variants and can generate images of up to 2K resolution and in multiple aspect ratios &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260421/p34#a260421p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

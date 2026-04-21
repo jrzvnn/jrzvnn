@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
  - 😝 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
- - 💣 [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
- - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
- - 👉 [Hol up](http://9gag.com/gag/avyKeon)<!-- MEMES:END -->
+ - 💣 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 😝 [Darwin Approves](http://9gag.com/gag/a4PONbd)
+ - 👉 [Enjoy life a little bit more ....](http://9gag.com/gag/aByBPpD)<!-- MEMES:END -->
 
 ---
 

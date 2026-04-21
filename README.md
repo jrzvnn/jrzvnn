@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an email to employees, Johny Srouji details newly combined hardware engineering and hardware technologies division, organized across five key areas &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260420/p33#a260420p33)
- - [Apple says Tim Cook, as executive chairman, &quot;will assist with certain aspects of the company, including engaging with policymakers around the world&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260420/p32#a260420p32)
- - [Tim Cook will still be Apple’s Trump whisperer](https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy)
- - [Blue Origin Rocket Grounded After &#39;Mishap&#39; Destroys Customer Satellite](https://www.cnet.com/science/space/blue-origin-rocket-grounded-after-mishap-destroys-customer-satellite/)
- - [Don&#39;t expect changes from Apple anytime soon, even with new leadership](https://appleinsider.com/articles/26/04/20/dont-expect-changes-from-apple-anytime-soon-even-with-new-leadership?utm_source=rss)<!-- TECH:END -->
+ - [A look at transnational scam syndicates in Cambodia, running hundreds of online scam operations and call centers and infiltrating Cambodia&#39;s ruling class &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260421/p1#a260421p1)
+ - [Dyson’s back with a travel-size Supersonic hairdryer](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price)
+ - [Apple TV&#39;s &#39;The Savant&#39; to premiere in July after politically-motivated delay](https://appleinsider.com/articles/26/04/21/apple-tvs-the-savant-to-premiere-in-july-after-politically-motivated-delay?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-21/)
+ - [Chinese PCB maker Victory Giant surges ~57% in its Hong Kong trading debut after raising ~$2.6B in its IPO, the largest in the city so far this year &lpar;Eunice Xu/South China Morning Post&rpar;](http://www.techmeme.com/260420/p35#a260420p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

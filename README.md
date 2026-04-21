@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
- - 😝 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)
+ - 😝 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
  - 💣 [Hol up](http://9gag.com/gag/avyKeon)
- - 😝 [A Chinese streamer\u2019s beauty filter crashed, she lost 140,000 subscribers in a minute.](http://9gag.com/gag/aXP6N0v)
+ - 😝 [A womans dog was making odd movements whenever she turned her back, so to see she recorded it, and found the dog was making biting motions](http://9gag.com/gag/aYQXPMm)
  - 👉 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)<!-- MEMES:END -->
 
 ---

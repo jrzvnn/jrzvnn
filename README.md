@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: following Manus probe, Chinese authorities ordered at least one other prominent AI startup, MiroMind, not to send talent and research out of China &lpar;Washington Post&rpar;](http://www.techmeme.com/260421/p38#a260421p38)
- - [Mozilla says its Firefox 150 release includes fixes for 271 vulnerabilities identified using early access to Anthropic&#39;s Mythos Preview &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/260421/p37#a260421p37)
- - [NeoCognition, which wants to build AI agents that self-learn like humans, emerges from stealth with a $40M seed co-led by Cambium Capital and Walden Catalyst &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260421/p36#a260421p36)
- - [ChatGPT Images 2.0 is available globally to ChatGPT and Codex users, with a more powerful version for paying subscribers; its knowledge cutoff is December 2025 &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260421/p35#a260421p35)
- - [OpenAI says ChatGPT Images 2.0 comes in Instant and Thinking variants and can generate images of up to 2K resolution and in multiple aspect ratios &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260421/p34#a260421p34)<!-- TECH:END -->
+ - [Roblox reaches settlements totaling $35.8M with the AGs of West Virginia, Alabama, and Nevada over child-safety protections &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/260421/p41#a260421p41)
+ - [An interview with Sam Altman and Greg Brockman on OpenAI&#39;s restructuring, cutting Sora, &quot;personal AGI&quot;, Anthropic&#39;s &quot;fear-based marketing&quot; for Mythos, and more &lpar;Core Memory&rpar;](http://www.techmeme.com/260421/p40#a260421p40)
+ - [ISS astronauts are in the middle of a tech overhaul](https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9)
+ - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)
+ - [Core Scientific plans to raise $3.3B via a junk bond sale to finance its shift from crypto mining to building AI data centers and leasing them to CoreWeave &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260421/p39#a260421p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

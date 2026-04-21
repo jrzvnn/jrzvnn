@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 😝 [Hol up](http://9gag.com/gag/avyKeon)
  - 😝 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
- - 💣 [Hol up](http://9gag.com/gag/avyKeon)
- - 😝 [A womans dog was making odd movements whenever she turned her back, so to see she recorded it, and found the dog was making biting motions](http://9gag.com/gag/aYQXPMm)
+ - 💣 [Save the trees](http://9gag.com/gag/apRZDd8)
+ - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
  - 👉 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)<!-- MEMES:END -->
 
 ---

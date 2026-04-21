@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Anthropic spent $1.6M and OpenAI $1M on lobbying in Q1, vs. $360K and $560K in Q1 2025, respectively; Meta topped Big Tech lobbying spending with $7.1M &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/260421/p50#a260421p50)
+ - [AcuityMD, which provides AI tools that automate sales call recaps, CRM data entry, and more for medtech companies, raised an $80M Series C at a $955M valuation &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/260421/p49#a260421p49)
+ - [Framework&#39;s Latest 13-Inch Laptop Includes Panther Lake Chip, Boosting Battery Life](https://www.cnet.com/tech/computing/frameworks-latest-13-inch-laptop-includes-a-panther-lake-chip-boosting-battery-life-big-time/)
  - [SpaceX cuts a deal to maybe buy Cursor for $60 billion](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)
- - [SpaceX says it&#39;s working with Cursor to build &quot;the world&#39;s most useful models&quot; and it has the right to acquire Cursor for $60B or pay $10B for the partnership &lpar;New York Times&rpar;](http://www.techmeme.com/260421/p48#a260421p48)
- - [Trump Media &amp; Technology Group names Kevin McGurn as interim CEO effective immediately; McGurn previously worked as an executive at Hulu, Vevo, and T-Mobile &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260421/p47#a260421p47)
- - [Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic&#39;s Mythos model since the day the company announced it &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260421/p46#a260421p46)
- - [Google now offers two research agents: Deep Research, replacing its December preview release, and Deep Research Max, both available via Gemini API paid tiers &lpar;The Keyword&rpar;](http://www.techmeme.com/260421/p45#a260421p45)<!-- TECH:END -->
+ - [SpaceX says it&#39;s working with Cursor to build &quot;the world&#39;s most useful models&quot; and it has the right to acquire Cursor for $60B or pay $10B for the partnership &lpar;New York Times&rpar;](http://www.techmeme.com/260421/p48#a260421p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

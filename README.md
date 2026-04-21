@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok,gotcha](http://9gag.com/gag/a9yg8wW)
- - 😝 [Are you serious??](http://9gag.com/gag/aE0mANe)
- - 💣 [Experts say](http://9gag.com/gag/aqyoQVQ)
- - 😝 [Enjoy life a little bit more ....](http://9gag.com/gag/aByBPpD)
- - 👉 [Don&#39;t try watch new harry potter. A .i](http://9gag.com/gag/aVvym7y)<!-- MEMES:END -->
+ - 😝 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
+ - 😝 [Save the trees](http://9gag.com/gag/apRZDd8)
+ - 💣 [This is Cairo, Egypt in 2026. How can you believe that these were the same people who built the pyramids?](http://9gag.com/gag/aoyQRpX)
+ - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 👉 [Darwin Approves](http://9gag.com/gag/a4PONbd)<!-- MEMES:END -->
 
 ---
 

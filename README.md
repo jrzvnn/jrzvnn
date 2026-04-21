@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic&#39;s Mythos model since the day the company announced it &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260421/p46#a260421p46)
+ - [Google now offers two research agents: Deep Research, replacing its December preview release, and Deep Research Max, both available via Gemini API paid tiers &lpar;The Keyword&rpar;](http://www.techmeme.com/260421/p45#a260421p45)
  - [Reliable Robotics, which is developing autonomous aircraft systems for cargo flights, raised $160M led by Nimble Partners, pushing its valuation to ~$1B &lpar;Cailley LaPara/Bloomberg&rpar;](http://www.techmeme.com/260421/p44#a260421p44)
  - [We translated the Palantir manifesto for actual human beings](https://www.theverge.com/policy/915237/palantir-manifesto)
- - [Adobe announces a $25B stock repurchase program through April 30, 2030; Adobe shares have fallen around 30% so far this year &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260421/p43#a260421p43)
- - [NymVPN Adds Split-Tunneling Feature for Windows Customers](https://www.cnet.com/tech/services-and-software/nymvpn-adds-split-tunneling-feature-for-windows-customers/)
- - [The US DOJ says a former ransomware negotiator pleaded guilty to helping cybercriminals extort companies in cyberattacks in five different incidents &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260421/p42#a260421p42)<!-- TECH:END -->
+ - [Adobe announces a $25B stock repurchase program through April 30, 2030; Adobe shares have fallen around 30% so far this year &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260421/p43#a260421p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

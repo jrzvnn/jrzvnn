@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christina Zenato helps sharks. Not AI](http://9gag.com/gag/a6ZY5G8)
- - 😝 [She&#39;s too big for the house](http://9gag.com/gag/aO8LDzN)
- - 💣 [Darwin Approves](http://9gag.com/gag/a4PONbd)
- - 😝 [True family never leaves your side](http://9gag.com/gag/aLn7eYx)
- - 👉 [Are you serious??](http://9gag.com/gag/aE0mANe)<!-- MEMES:END -->
+ - 😝 [Hol up](http://9gag.com/gag/avyKeon)
+ - 😝 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)
+ - 💣 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
+ - 😝 [A Chinese streamer\u2019s beauty filter crashed, she lost 140,000 subscribers in a minute.](http://9gag.com/gag/aXP6N0v)
+ - 👉 [Bub is happy](http://9gag.com/gag/a2v6ywZ)<!-- MEMES:END -->
 
 ---
 

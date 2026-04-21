@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK proposes an amendment to the Children&#39;s Wellbeing and Schools Bill to ban smartphones in all schools in England; a ban was previously just advisory &lpar;Sally Weale/The Guardian&rpar;](http://www.techmeme.com/260421/p7#a260421p7)
- - [H2O Audio Tri Run Workout Headphones Review: A Little Underwhelming](https://www.wired.com/review/h2o-audio-tri-run-workout-headphones/)
- - [The Internet’s Favorite Lawyer Says We’re Living Through ‘Multiple Watergates per Week’](https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/)
- - [Tim Cook&#39;s 15-year legacy by the numbers: Apple&#39;s market cap grew from $350B in 2011 to $4T+ now, net income rose ~700% to $112B for FY 2025, and more &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260421/p6#a260421p6)
- - [They Built a Legendary Privacy Tool. Now They’re Sworn Enemies](https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/)<!-- TECH:END -->
+ - [Apple will have a product guy as CEO again](https://www.theverge.com/tech/915388/apple-ceo-john-ternus-tim-cook)
+ - [Sources: Revolut is aiming for a valuation of $150B to $200B in an IPO; founder Nik Storonsky said this week that Revolut would IPO in 2028 at the earliest &lpar;Financial Times&rpar;](http://www.techmeme.com/260421/p9#a260421p9)
+ - [Best Gaming Laptops &lpar;2026&rpar;: Razer, Asus, Dell, and More](https://www.wired.com/story/best-gaming-laptops/)
+ - [UK&#39;s Ofcom launches an investigation into Telegram over concerns of CSAM being shared on the platform and it being used by predators to groom children &lpar;Muvija M/Reuters&rpar;](http://www.techmeme.com/260421/p8#a260421p8)
+ - [&#39;The Boys&#39; Season 5: When Does Episode 4 Come Out?](https://www.cnet.com/tech/services-and-software/the-boys-season-5-release-schedule-episode-4-prime-video/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

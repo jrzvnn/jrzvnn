@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of John Ternus, a mechanical engineer by background, who joined Apple in 2001 and whose biggest success was helping Mac&#39;s transition to Apple Silicon &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260421/p5#a260421p5)
- - [Microsoft Teams is trying to fix accidental hand-raising](https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix)
- - [Ikea and Samsung promise glitch-free SmartThings integration](https://www.theverge.com/tech/915560/ikea-and-samsung-promise-glitch-free-smartthings-integration)
- - [Apple Sports now lets you follow scores in a CarPlay widget](https://www.theverge.com/news/915564/apple-sports-widget-carplay)
- - [Longtime colleagues say John Ternus will bring back Jobs-era decisiveness, shifting from Cook&#39;s era when decisions were made collectively by top executives &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260421/p4#a260421p4)<!-- TECH:END -->
+ - [The UK proposes an amendment to the Children&#39;s Wellbeing and Schools Bill to ban smartphones in all schools in England; a ban was previously just advisory &lpar;Sally Weale/The Guardian&rpar;](http://www.techmeme.com/260421/p7#a260421p7)
+ - [H2O Audio Tri Run Workout Headphones Review: A Little Underwhelming](https://www.wired.com/review/h2o-audio-tri-run-workout-headphones/)
+ - [The Internet’s Favorite Lawyer Says We’re Living Through ‘Multiple Watergates per Week’](https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/)
+ - [Tim Cook&#39;s 15-year legacy by the numbers: Apple&#39;s market cap grew from $350B in 2011 to $4T+ now, net income rose ~700% to $112B for FY 2025, and more &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260421/p6#a260421p6)
+ - [They Built a Legendary Privacy Tool. Now They’re Sworn Enemies](https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

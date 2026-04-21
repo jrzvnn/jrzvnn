@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation&amp;#8217;s age-gating restrictions are coming to UK consoles](https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat)
- - [A look at EU efforts to cut reliance on US tech; study: Amazon, Microsoft, and Google hold ~70% of EU cloud and US vendors get 80% of enterprise software spend &lpar;Politico&rpar;](http://www.techmeme.com/260421/p3#a260421p3)
- - [Tim Cook reshaped Apple in his own image and exits as CEO on his own terms, seemingly picking the right successor in John Ternus, much like Jobs did with Cook &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/260421/p2#a260421p2)
- - [A look at transnational scam syndicates in Cambodia, running hundreds of online scam operations and call centers and infiltrating Cambodia&#39;s ruling class &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260421/p1#a260421p1)
- - [Dyson’s back with a travel-size Supersonic hairdryer](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price)<!-- TECH:END -->
+ - [A profile of John Ternus, a mechanical engineer by background, who joined Apple in 2001 and whose biggest success was helping Mac&#39;s transition to Apple Silicon &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260421/p5#a260421p5)
+ - [Microsoft Teams is trying to fix accidental hand-raising](https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix)
+ - [Ikea and Samsung promise glitch-free SmartThings integration](https://www.theverge.com/tech/915560/ikea-and-samsung-promise-glitch-free-smartthings-integration)
+ - [Apple Sports now lets you follow scores in a CarPlay widget](https://www.theverge.com/news/915564/apple-sports-widget-carplay)
+ - [Longtime colleagues say John Ternus will bring back Jobs-era decisiveness, shifting from Cook&#39;s era when decisions were made collectively by top executives &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260421/p4#a260421p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

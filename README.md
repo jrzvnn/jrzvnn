@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats brings out Onyx Black Solo 4 collab with Jennie alongside longer charging cables](https://appleinsider.com/articles/26/04/21/beats-brings-out-onyx-black-solo-4-collab-with-jennie-alongside-longer-charging-cables?utm_source=rss)
- - [A long-planned Apple CEO transition meets an analyst-driven AI hype cycle](https://appleinsider.com/articles/26/04/21/a-long-planned-apple-ceo-transition-meets-an-analyst-driven-ai-hype-cycle?utm_source=rss)
- - [Humble unveils a fully electric cabless autonomous truck called the Humble Hauler and comes out of stealth with a $24M seed led by Eclipse &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260421/p16#a260421p16)
- - [Draft of SpaceX&#39;s confidential IPO prospectus: Elon Musk increased his stake in SpaceX last year by purchasing $1.4B of stock from current and former employees &lpar;The Information&rpar;](http://www.techmeme.com/260421/p15#a260421p15)
- - [Paul McCartney shares backstage footage of his Apple Park anniversary concert](https://appleinsider.com/articles/26/04/21/paul-mccartney-shares-backstage-footage-of-his-apple-park-anniversary-concert?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft cuts Xbox Game Pass Ultimate price from $29.99 to $22.99/month and PC Game Pass from $16.49 to $13.99, but both tiers won&#39;t get new Call of Duty games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260421/p20#a260421p20)
+ - [Dyson’s newest floor scrubber is already on sale for 20 percent off](https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale)
+ - [Xbox Game Pass Ultimate gets a price cut but loses new Call of Duty games](https://www.theverge.com/news/915928/microsoft-xbox-game-pass-ultimate-price-drop)
+ - [TAG Heuer Has Dropped New Polylight-Powered F1s](https://www.wired.com/story/tag-heuer-has-dropped-new-pastel-powered-f1s/)
+ - [Stop Paying for a VPN: Firefox Just Built One Right Into Your Browser](https://www.cnet.com/tech/services-and-software/stop-paying-for-a-vpn-firefox-just-built-one-right-into-your-browser/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

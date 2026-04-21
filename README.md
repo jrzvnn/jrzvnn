@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft cuts Xbox Game Pass Ultimate price from $29.99 to $22.99/month and PC Game Pass from $16.49 to $13.99, but both tiers won&#39;t get new Call of Duty games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260421/p20#a260421p20)
- - [Dyson’s newest floor scrubber is already on sale for 20 percent off](https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale)
- - [Xbox Game Pass Ultimate gets a price cut but loses new Call of Duty games](https://www.theverge.com/news/915928/microsoft-xbox-game-pass-ultimate-price-drop)
- - [TAG Heuer Has Dropped New Polylight-Powered F1s](https://www.wired.com/story/tag-heuer-has-dropped-new-pastel-powered-f1s/)
- - [Stop Paying for a VPN: Firefox Just Built One Right Into Your Browser](https://www.cnet.com/tech/services-and-software/stop-paying-for-a-vpn-firefox-just-built-one-right-into-your-browser/)<!-- TECH:END -->
+ - [President Trump praises Tim Cook, but threatens any firm that claims back tariffs](https://appleinsider.com/articles/26/04/21/president-trump-praises-tim-cook-but-threatens-any-firm-that-claims-back-tariffs?utm_source=rss)
+ - [Govee’s new rechargeable table lamp is less than half the price of Hue’s](https://www.theverge.com/tech/915959/govee-table-smart-lamp-classic-battery-rechargeable-matter-pricing)
+ - [Save up to $400 on Apple&#39;s new 16-inch MacBook Pro with M5 Pro and M5 Max](https://appleinsider.com/articles/26/04/21/save-up-to-400-on-apples-new-16-inch-macbook-pro-with-m5-pro-and-m5-max?utm_source=rss)
+ - [Clarifai says it has deleted 3M OkCupid user photos and facial-recognition models trained on them after the US FTC settled with OkCupid over privacy violations &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/260421/p27#a260421p27)
+ - [The Mac is in good hands in Apple’s post-Cook era](https://www.theverge.com/tech/915896/john-ternus-apple-ceo-tim-cook-johny-srouji-mac-future)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Vergecast Vergecast, 2026 edition](https://www.theverge.com/podcast/915682/how-the-verge-works-vergecast)
- - [Stripe and Paradigm-backed Tempo launches a &quot;stablecoin advisory&quot; for businesses and is working with DoorDash to let delivery workers get paid in stablecoins &lpar;Jack Kubinec/Fortune&rpar;](http://www.techmeme.com/260421/p13#a260421p13)
- - [John Ternus’s first big problem is AI](https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri)
- - [The 10 Best Electrolyte Powders &lpar;We Tested Nearly 20&rpar;](https://www.wired.com/story/best-electrolyte-powders/)
- - [YouTube makes its deepfake detection tool available to anyone at high risk of having their likeness abused, expanding it from public officials and politicians &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260421/p12#a260421p12)<!-- TECH:END -->
+ - [Beats brings out Onyx Black Solo 4 collab with Jennie alongside longer charging cables](https://appleinsider.com/articles/26/04/21/beats-brings-out-onyx-black-solo-4-collab-with-jennie-alongside-longer-charging-cables?utm_source=rss)
+ - [A long-planned Apple CEO transition meets an analyst-driven AI hype cycle](https://appleinsider.com/articles/26/04/21/a-long-planned-apple-ceo-transition-meets-an-analyst-driven-ai-hype-cycle?utm_source=rss)
+ - [Humble unveils a fully electric cabless autonomous truck called the Humble Hauler and comes out of stealth with a $24M seed led by Eclipse &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260421/p16#a260421p16)
+ - [Draft of SpaceX&#39;s confidential IPO prospectus: Elon Musk increased his stake in SpaceX last year by purchasing $1.4B of stock from current and former employees &lpar;The Information&rpar;](http://www.techmeme.com/260421/p15#a260421p15)
+ - [Paul McCartney shares backstage footage of his Apple Park anniversary concert](https://appleinsider.com/articles/26/04/21/paul-mccartney-shares-backstage-footage-of-his-apple-park-anniversary-concert?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

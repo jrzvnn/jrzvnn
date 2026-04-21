@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Hol up](http://9gag.com/gag/avyKeon)
  - 😝 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)
- - 💣 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
+ - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
  - 😝 [A Chinese streamer\u2019s beauty filter crashed, she lost 140,000 subscribers in a minute.](http://9gag.com/gag/aXP6N0v)
- - 👉 [Bub is happy](http://9gag.com/gag/a2v6ywZ)<!-- MEMES:END -->
+ - 👉 [With hard work and discipline you too can live this fabulous life](http://9gag.com/gag/an7PvDb)<!-- MEMES:END -->
 
 ---
 

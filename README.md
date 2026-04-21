@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Whoao whoa wupppp...](http://9gag.com/gag/ajPeBEw)
+ - 😝 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 💣 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)
  - 😝 [She&#39;s too big for the house](http://9gag.com/gag/aO8LDzN)
- - 😝 [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
- - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
- - 😝 [Its like a rite of passage, or something .](http://9gag.com/gag/a87x6N3)
- - 👉 [Patrick Crusius murdered 23 people and wounded 22 in a racist mass shooting in El Paso, Texas, federal prosecutors never asked for the death penalty. Clearly the ``justice`` system only cares about rich people](http://9gag.com/gag/aPAb8wP)<!-- MEMES:END -->
+ - 👉 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)<!-- MEMES:END -->
 
 ---
 

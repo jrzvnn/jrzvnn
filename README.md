@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump praises Tim Cook, but threatens any firm that claims back tariffs](https://appleinsider.com/articles/26/04/21/president-trump-praises-tim-cook-but-threatens-any-firm-that-claims-back-tariffs?utm_source=rss)
- - [Govee’s new rechargeable table lamp is less than half the price of Hue’s](https://www.theverge.com/tech/915959/govee-table-smart-lamp-classic-battery-rechargeable-matter-pricing)
- - [Save up to $400 on Apple&#39;s new 16-inch MacBook Pro with M5 Pro and M5 Max](https://appleinsider.com/articles/26/04/21/save-up-to-400-on-apples-new-16-inch-macbook-pro-with-m5-pro-and-m5-max?utm_source=rss)
- - [Clarifai says it has deleted 3M OkCupid user photos and facial-recognition models trained on them after the US FTC settled with OkCupid over privacy violations &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/260421/p27#a260421p27)
- - [The Mac is in good hands in Apple’s post-Cook era](https://www.theverge.com/tech/915896/john-ternus-apple-ceo-tim-cook-johny-srouji-mac-future)<!-- TECH:END -->
+ - [Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox](https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-151-bugs-in-firefox/)
+ - [X makes it 1,900 percent more expensive to post links](https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme)
+ - [Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’](https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users)
+ - [Framework’s first eGPUs turn its laptop into a desktop PC](https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16)
+ - [Framework is building a better couch keyboard because everyone hates the Logitech one](https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

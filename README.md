@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hol up](http://9gag.com/gag/avyKeon)
+ - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
  - 😝 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)
- - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
+ - 💣 [Hol up](http://9gag.com/gag/avyKeon)
  - 😝 [A Chinese streamer\u2019s beauty filter crashed, she lost 140,000 subscribers in a minute.](http://9gag.com/gag/aXP6N0v)
- - 👉 [With hard work and discipline you too can live this fabulous life](http://9gag.com/gag/an7PvDb)<!-- MEMES:END -->
+ - 👉 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)<!-- MEMES:END -->
 
 ---
 

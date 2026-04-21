@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox reaches settlements totaling $35.8M with the AGs of West Virginia, Alabama, and Nevada over child-safety protections &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/260421/p41#a260421p41)
- - [An interview with Sam Altman and Greg Brockman on OpenAI&#39;s restructuring, cutting Sora, &quot;personal AGI&quot;, Anthropic&#39;s &quot;fear-based marketing&quot; for Mythos, and more &lpar;Core Memory&rpar;](http://www.techmeme.com/260421/p40#a260421p40)
- - [ISS astronauts are in the middle of a tech overhaul](https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9)
- - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)
- - [Core Scientific plans to raise $3.3B via a junk bond sale to finance its shift from crypto mining to building AI data centers and leasing them to CoreWeave &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260421/p39#a260421p39)<!-- TECH:END -->
+ - [Reliable Robotics, which is developing autonomous aircraft systems for cargo flights, raised $160M led by Nimble Partners, pushing its valuation to ~$1B &lpar;Cailley LaPara/Bloomberg&rpar;](http://www.techmeme.com/260421/p44#a260421p44)
+ - [We translated the Palantir manifesto for actual human beings](https://www.theverge.com/policy/915237/palantir-manifesto)
+ - [Adobe announces a $25B stock repurchase program through April 30, 2030; Adobe shares have fallen around 30% so far this year &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260421/p43#a260421p43)
+ - [NymVPN Adds Split-Tunneling Feature for Windows Customers](https://www.cnet.com/tech/services-and-software/nymvpn-adds-split-tunneling-feature-for-windows-customers/)
+ - [The US DOJ says a former ransomware negotiator pleaded guilty to helping cybercriminals extort companies in cyberattacks in five different incidents &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260421/p42#a260421p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

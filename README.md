@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
- - 😝 [Dollar Hot Dogs got fans going crazy today](http://9gag.com/gag/adBDOA2)
- - 💣 [How easy it is to shop nowadays](http://9gag.com/gag/aYQXEPq)
- - 😝 [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)
- - 👉 [Its like a rite of passage, or something .](http://9gag.com/gag/a87x6N3)<!-- MEMES:END -->
+ - 😝 [She&#39;s too big for the house](http://9gag.com/gag/aO8LDzN)
+ - 😝 [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
+ - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
+ - 😝 [Its like a rite of passage, or something .](http://9gag.com/gag/a87x6N3)
+ - 👉 [Patrick Crusius murdered 23 people and wounded 22 in a racist mass shooting in El Paso, Texas, federal prosecutors never asked for the death penalty. Clearly the ``justice`` system only cares about rich people](http://9gag.com/gag/aPAb8wP)<!-- MEMES:END -->
 
 ---
 

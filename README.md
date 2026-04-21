@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX cuts a deal to maybe buy Cursor for $60 billion](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)
+ - [SpaceX says it&#39;s working with Cursor to build &quot;the world&#39;s most useful models&quot; and it has the right to acquire Cursor for $60B or pay $10B for the partnership &lpar;New York Times&rpar;](http://www.techmeme.com/260421/p48#a260421p48)
+ - [Trump Media &amp; Technology Group names Kevin McGurn as interim CEO effective immediately; McGurn previously worked as an executive at Hulu, Vevo, and T-Mobile &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260421/p47#a260421p47)
  - [Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic&#39;s Mythos model since the day the company announced it &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260421/p46#a260421p46)
- - [Google now offers two research agents: Deep Research, replacing its December preview release, and Deep Research Max, both available via Gemini API paid tiers &lpar;The Keyword&rpar;](http://www.techmeme.com/260421/p45#a260421p45)
- - [Reliable Robotics, which is developing autonomous aircraft systems for cargo flights, raised $160M led by Nimble Partners, pushing its valuation to ~$1B &lpar;Cailley LaPara/Bloomberg&rpar;](http://www.techmeme.com/260421/p44#a260421p44)
- - [We translated the Palantir manifesto for actual human beings](https://www.theverge.com/policy/915237/palantir-manifesto)
- - [Adobe announces a $25B stock repurchase program through April 30, 2030; Adobe shares have fallen around 30% so far this year &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260421/p43#a260421p43)<!-- TECH:END -->
+ - [Google now offers two research agents: Deep Research, replacing its December preview release, and Deep Research Max, both available via Gemini API paid tiers &lpar;The Keyword&rpar;](http://www.techmeme.com/260421/p45#a260421p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

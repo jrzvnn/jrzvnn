@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will have a product guy as CEO again](https://www.theverge.com/tech/915388/apple-ceo-john-ternus-tim-cook)
- - [Sources: Revolut is aiming for a valuation of $150B to $200B in an IPO; founder Nik Storonsky said this week that Revolut would IPO in 2028 at the earliest &lpar;Financial Times&rpar;](http://www.techmeme.com/260421/p9#a260421p9)
- - [Best Gaming Laptops &lpar;2026&rpar;: Razer, Asus, Dell, and More](https://www.wired.com/story/best-gaming-laptops/)
- - [UK&#39;s Ofcom launches an investigation into Telegram over concerns of CSAM being shared on the platform and it being used by predators to groom children &lpar;Muvija M/Reuters&rpar;](http://www.techmeme.com/260421/p8#a260421p8)
- - [&#39;The Boys&#39; Season 5: When Does Episode 4 Come Out?](https://www.cnet.com/tech/services-and-software/the-boys-season-5-release-schedule-episode-4-prime-video/)<!-- TECH:END -->
+ - [The Vergecast Vergecast, 2026 edition](https://www.theverge.com/podcast/915682/how-the-verge-works-vergecast)
+ - [Stripe and Paradigm-backed Tempo launches a &quot;stablecoin advisory&quot; for businesses and is working with DoorDash to let delivery workers get paid in stablecoins &lpar;Jack Kubinec/Fortune&rpar;](http://www.techmeme.com/260421/p13#a260421p13)
+ - [John Ternus’s first big problem is AI](https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri)
+ - [The 10 Best Electrolyte Powders &lpar;We Tested Nearly 20&rpar;](https://www.wired.com/story/best-electrolyte-powders/)
+ - [YouTube makes its deepfake detection tool available to anyone at high risk of having their likeness abused, expanding it from public officials and politicians &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260421/p12#a260421p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PlayStation&amp;#8217;s age-gating restrictions are coming to UK consoles](https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat)
+ - [A look at EU efforts to cut reliance on US tech; study: Amazon, Microsoft, and Google hold ~70% of EU cloud and US vendors get 80% of enterprise software spend &lpar;Politico&rpar;](http://www.techmeme.com/260421/p3#a260421p3)
  - [Tim Cook reshaped Apple in his own image and exits as CEO on his own terms, seemingly picking the right successor in John Ternus, much like Jobs did with Cook &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/260421/p2#a260421p2)
  - [A look at transnational scam syndicates in Cambodia, running hundreds of online scam operations and call centers and infiltrating Cambodia&#39;s ruling class &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260421/p1#a260421p1)
- - [Dyson’s back with a travel-size Supersonic hairdryer](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price)
- - [Apple TV&#39;s &#39;The Savant&#39; to premiere in July after politically-motivated delay](https://appleinsider.com/articles/26/04/21/apple-tvs-the-savant-to-premiere-in-july-after-politically-motivated-delay?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-21/)<!-- TECH:END -->
+ - [Dyson’s back with a travel-size Supersonic hairdryer](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

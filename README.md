@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases Privacy Filter, an open-weight model for masking personally identifiable information in text, with 1.5B total and 50M active parameters &lpar;OpenAI&rpar;](http://www.techmeme.com/260422/p40#a260422p40)
- - [Google confirms context-aware Siri built from Gemini will debut in 2026](https://appleinsider.com/articles/26/04/22/google-confirms-context-aware-siri-built-from-gemini-will-debut-in-2026?utm_source=rss)
- - [Meta unveils Live Chats on Threads for real-time conversations during cultural events, launching first within the NBA Threads community during the playoffs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260422/p39#a260422p39)
- - [WhatsApp Launches a Subscription Tier With Bonus Features](https://www.cnet.com/tech/mobile/whatsapp-launches-a-subscription-tier-with-bonus-features/)
- - [Apple&#39;s Earth Day Offer: You Can Get 10% Off Select Apple and Beats Accessories](https://www.cnet.com/tech/mobile/apple-will-reportedly-give-you-a-discount-on-accessories-if-you-recycle-your-old-electronics/)<!-- TECH:END -->
+ - [Tesla&amp;#8217;s revenue rises again as it prepares for more AI and robotics](https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue)
+ - [AI failure could trigger the next financial crisis, warns Elizabeth Warren](https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren)
+ - [Notification bug that let FBI access messages patched with iOS 26.4.2](https://appleinsider.com/articles/26/04/22/notification-bug-that-let-fbi-access-messages-patched-with-ios-2642?utm_source=rss)
+ - [Sources: xAI held talks in recent weeks with Mistral and Cursor about a potential three-way partnership; Mistral co-founder Devendra Chaplot joined xAI in March &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260422/p42#a260422p42)
+ - [OpenAI now lets teams make custom bots that can do work on their own](https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM reports Q1 revenue up 9% YoY to $15.92B, vs. $15.62B est., software revenue up 11% to $7.05B, and maintains FY 2026 guidance; IBM drops ~6% after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260422/p45#a260422p45)
- - [ServiceNow reports Q1 subscription revenue up 22% YoY to $3.67B, vs. $3.65B est., says conflict in the Middle East weighed on growth; NOW drops 12%+ after hours &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260422/p44#a260422p44)
- - [X is going to let Grok curate your timeline](https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation)
- - [Texas Instruments reports Q1 revenue up 19% YoY to $4.83B, vs. $4.52B est., and forecasts Q2 revenue above estimates; TXN jumps 8%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260422/p43#a260422p43)
- - [Tesla&amp;#8217;s revenue rises again as it prepares for more AI and robotics](https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue)<!-- TECH:END -->
+ - [Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn&#39;t Exist](https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/)
+ - [Dune Analytics: Polymarket&#39;s global trading volumes have fallen behind Kalshi in recent months; sources: product delays are contributing to Polymarket&#39;s decline &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p47#a260422p47)
+ - [US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose](https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/)
+ - [Kalshi suspends and fines congressional candidates Mark Moran of Virginia, Matt Klein of Minnesota, and Ezekiel Enriquez of Texas for political insider trading &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/260422/p46#a260422p46)
+ - [Cocaine-Fueled Wild Salmon Swam Twice as Far as Sober Ones](https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX isn&#39;t acquiring Cursor immediately because the deal could delay its IPO; Cursor is no longer proceeding with its reported $2B funding round &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p38#a260422p38)
- - [OpenAI announces workspace agents in ChatGPT, letting teams create Codex-powered shared agents for complex tasks, and says they are &quot;an evolution of GPTs&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/260422/p37#a260422p37)
- - [5 AI Models Tried to Scam Me. Some of Them Were Scary Good](https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/)
- - [Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day](https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal)
- - [Bug-fix updates for iOS 26.4.2, iPadOS 26.4.2 are out now](https://appleinsider.com/articles/26/04/22/bug-fix-updates-for-ios-2642-ipados-2642-are-out-now?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI releases Privacy Filter, an open-weight model for masking personally identifiable information in text, with 1.5B total and 50M active parameters &lpar;OpenAI&rpar;](http://www.techmeme.com/260422/p40#a260422p40)
+ - [Google confirms context-aware Siri built from Gemini will debut in 2026](https://appleinsider.com/articles/26/04/22/google-confirms-context-aware-siri-built-from-gemini-will-debut-in-2026?utm_source=rss)
+ - [Meta unveils Live Chats on Threads for real-time conversations during cultural events, launching first within the NBA Threads community during the playoffs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260422/p39#a260422p39)
+ - [WhatsApp Launches a Subscription Tier With Bonus Features](https://www.cnet.com/tech/mobile/whatsapp-launches-a-subscription-tier-with-bonus-features/)
+ - [Apple&#39;s Earth Day Offer: You Can Get 10% Off Select Apple and Beats Accessories](https://www.cnet.com/tech/mobile/apple-will-reportedly-give-you-a-discount-on-accessories-if-you-recycle-your-old-electronics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

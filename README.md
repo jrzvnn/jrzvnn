@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let John Ternus be John Ternus, and not Cook or Jobs](https://appleinsider.com/articles/26/04/22/let-john-ternus-be-john-ternus-and-not-cook-or-jobs?utm_source=rss)
- - [Will a new CEO realize Apple&amp;#8217;s smart home potential?](https://www.theverge.com/tech/916698/apple-home-ternus-hardware-homepad-rumors)
- - [Substack adds translation tools, and says ~100K publishers earn on the platform, including ~30K outside the US; European creators earn $90M+/year collectively &lpar;On Substack&rpar;](http://www.techmeme.com/260422/p29#a260422p29)
- - [Sooth Labs, founded by ex-Meta employees to build AI models that let businesses forecast geopolitical events, is raising ~$50M at a ~$335M valuation &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260422/p28#a260422p28)
- - [Vast Data, which makes software infrastructure for managing large amounts of data with a focus on AI applications, raised a $1B Series F at a $30B valuation &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260422/p27#a260422p27)<!-- TECH:END -->
+ - [Microsoft teases mysterious Discord and Xbox Game Pass partnership](https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership)
+ - [Google Meet will take AI notes for in-person meetings too](https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings)
+ - [LinkedIn names COO Daniel Shapero as its new CEO, succeeding Ryan Roslansky, who will retain his position as EVP at Microsoft &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260422/p34#a260422p34)
+ - [Microsoft says the ‘idea’ of an Xbox mobile store ‘is not dead’](https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment)
+ - [Monk, which automates accounts receivable workflows, raised a $25M Series A co-led by Footwork and Acrew Capital, bringing its total funding to $29M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260422/p33#a260422p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

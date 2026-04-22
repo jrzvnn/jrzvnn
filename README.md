@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggo](http://9gag.com/gag/aNDEVy6)
- - 😝 [Life was awesome ....](http://9gag.com/gag/avyKE3Z)
- - 💣 [White culture](http://9gag.com/gag/amo4xb9)
- - 😝 [Mi\u00e9rcoles de MMAcitas](http://9gag.com/gag/apRZb2D)
- - 👉 [Bub is happy](http://9gag.com/gag/a2v6ywZ)<!-- MEMES:END -->
+ - 😝 [These People Can Vote BTW .](http://9gag.com/gag/ae98xMW)
+ - 😝 [Indestructible they said. It will be fun they said](http://9gag.com/gag/aLn7GL5)
+ - 💣 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
+ - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 👉 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)<!-- MEMES:END -->
 
 ---
 

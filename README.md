@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI has pledged up to $1.5B to a new joint venture with PE firms to help deploy AI across their portfolio companies, starting with $500M in equity &lpar;Financial Times&rpar;](http://www.techmeme.com/260422/p4#a260422p4)
- - [Polymarket says perpetuals are coming to the platform and lets users sign up for early access; it hasn&#39;t specified whether crypto perpetual futures are included &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/260422/p3#a260422p3)
- - [A UK tribunal rules Microsoft must face a lawsuit alleging it overcharged UK businesses to run Windows Server on cloud services from Amazon, Google, and Alibaba &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/260422/p2#a260422p2)
- - [X launches Custom Timelines, a Grok-powered feature letting users pin any of over 75 topics to their home tab, in early access to Premium subscribers on iOS &lpar;Nikita Bier/@nikitabier&rpar;](http://www.techmeme.com/260422/p1#a260422p1)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-22/)<!-- TECH:END -->
+ - [Efforts to revive chip manufacturing in Pennsylvania have been left in limbo by President Trump&#39;s sudden upending of US semiconductor policy over the past year &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260422/p10#a260422p10)
+ - [Tencent launches an international beta for QClaw, its OpenClaw-based AI agent, and says the Chinese version, launched in March, reached over 1M users in 10 days &lpar;T. K. Lin/KrASIA&rpar;](http://www.techmeme.com/260422/p9#a260422p9)
+ - [TikTok&#39;s plan to build a ~$38B data center campus in Brazil, its first in Latin America, is facing local pushback over sustainability in a semi-arid area &lpar;Financial Times&rpar;](http://www.techmeme.com/260422/p8#a260422p8)
+ - [Australia&#39;s eSafety Commissioner issues transparency notices to Roblox, Microsoft&#39;s Minecraft, and other online gaming platforms to detail child safety measures &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/260422/p7#a260422p7)
+ - [Documents and sources: insurers including QBE and Beazley are moving to cap cyber policy payouts for losses and regulatory fines tied to AI use and &quot;LLMjacking&quot; &lpar;Lee Harris/Financial Times&rpar;](http://www.techmeme.com/260422/p6#a260422p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

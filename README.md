@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft teases mysterious Discord and Xbox Game Pass partnership](https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership)
- - [Google Meet will take AI notes for in-person meetings too](https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings)
- - [LinkedIn names COO Daniel Shapero as its new CEO, succeeding Ryan Roslansky, who will retain his position as EVP at Microsoft &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260422/p34#a260422p34)
- - [Microsoft says the ‘idea’ of an Xbox mobile store ‘is not dead’](https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment)
- - [Monk, which automates accounts receivable workflows, raised a $25M Series A co-led by Footwork and Acrew Capital, bringing its total funding to $29M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260422/p33#a260422p33)<!-- TECH:END -->
+ - [New Mac malware goes straight for developer keys](https://appleinsider.com/articles/26/04/22/new-mac-malware-goes-straight-for-developer-keys?utm_source=rss)
+ - [Core Automation, co-founded by ex-OpenAI VP Jerry Tworek, launches to build &quot;the world&#39;s most automated AI lab&quot; with talent from OpenAI, Anthropic, and DeepMind &lpar;Business Insider&rpar;](http://www.techmeme.com/260422/p35#a260422p35)
+ - [Anthropic&amp;#8217;s Mythos rollout has missed America’s cybersecurity agency](https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out)
+ - [M5 MacBook Air with 24GB RAM, 1TB SSD falls to $1,349 with month-end deal](https://appleinsider.com/articles/26/04/22/m5-macbook-air-with-24gb-ram-1tb-ssd-falls-to-1349-with-month-end-deal?utm_source=rss)
+ - [Microsoft teases mysterious Discord and Xbox Game Pass partnership](https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

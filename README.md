@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
- - 😝 [These People Can Vote BTW .](http://9gag.com/gag/ae98xMW)
- - 💣 [Controversial opinion](http://9gag.com/gag/abAnxGO)
- - 😝 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
- - 👉 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)<!-- MEMES:END -->
+ - 😝 [Bub is happy](http://9gag.com/gag/a2v6ywZ)
+ - 😝 [Ok,gotcha](http://9gag.com/gag/a9yg8wW)
+ - 💣 [Well\u2026 here we are.\u201d](http://9gag.com/gag/a7oR94A)
+ - 😝 [Fren has compassion, fren gonna ease the pain.](http://9gag.com/gag/awyWdXD)
+ - 👉 [White culture](http://9gag.com/gag/amo4xb9)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Indestructible they said. It will be fun they said](http://9gag.com/gag/aLn7GL5)
  - 😝 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
- - 💣 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
- - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 😝 [These People Can Vote BTW .](http://9gag.com/gag/ae98xMW)
+ - 💣 [Controversial opinion](http://9gag.com/gag/abAnxGO)
+ - 😝 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
  - 👉 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)<!-- MEMES:END -->
 
 ---

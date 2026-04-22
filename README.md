@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be about to post another blockbuster quarter](https://appleinsider.com/articles/26/04/22/apple-may-be-about-to-post-another-blockbuster-quarter?utm_source=rss)
- - [Air permit docs: new gas projects linked to just 11 US data center campuses could emit 129M+ tons of greenhouse gases per year, more than some small countries &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/260422/p25#a260422p25)
- - [It’s amazing how good Alienware’s $350 OLED monitor is](https://www.theverge.com/tech/916277/alienware-aw2726dm-qdoled-gaming-monitor-specs-hands-on)
- - [How iPhone 18 Pro&#39;s rumored variable aperture will supercharge your photography](https://appleinsider.com/articles/26/04/22/how-iphone-18-pros-rumored-variable-aperture-will-supercharge-your-photography?utm_source=rss)
- - [Call of Duty never made much sense for Xbox Game Pass](https://www.theverge.com/games/916627/call-of-duty-xbox-game-pass)<!-- TECH:END -->
+ - [Let John Ternus be John Ternus, and not Cook or Jobs](https://appleinsider.com/articles/26/04/22/let-john-ternus-be-john-ternus-and-not-cook-or-jobs?utm_source=rss)
+ - [Will a new CEO realize Apple&amp;#8217;s smart home potential?](https://www.theverge.com/tech/916698/apple-home-ternus-hardware-homepad-rumors)
+ - [Substack adds translation tools, and says ~100K publishers earn on the platform, including ~30K outside the US; European creators earn $90M+/year collectively &lpar;On Substack&rpar;](http://www.techmeme.com/260422/p29#a260422p29)
+ - [Sooth Labs, founded by ex-Meta employees to build AI models that let businesses forecast geopolitical events, is raising ~$50M at a ~$335M valuation &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260422/p28#a260422p28)
+ - [Vast Data, which makes software infrastructure for managing large amounts of data with a focus on AI applications, raised a $1B Series F at a $30B valuation &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260422/p27#a260422p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Anthropic spent $1.6M and OpenAI $1M on lobbying in Q1, vs. $360K and $560K in Q1 2025, respectively; Meta topped Big Tech lobbying spending with $7.1M &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/260421/p50#a260421p50)
- - [AcuityMD, which provides AI tools that automate sales call recaps, CRM data entry, and more for medtech companies, raised an $80M Series C at a $955M valuation &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/260421/p49#a260421p49)
- - [Framework&#39;s Latest 13-Inch Laptop Includes Panther Lake Chip, Boosting Battery Life](https://www.cnet.com/tech/computing/frameworks-latest-13-inch-laptop-includes-a-panther-lake-chip-boosting-battery-life-big-time/)
- - [SpaceX cuts a deal to maybe buy Cursor for $60 billion](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)
- - [SpaceX says it&#39;s working with Cursor to build &quot;the world&#39;s most useful models&quot; and it has the right to acquire Cursor for $60B or pay $10B for the partnership &lpar;New York Times&rpar;](http://www.techmeme.com/260421/p48#a260421p48)<!-- TECH:END -->
+ - [Top law firm Sullivan &amp; Cromwell told a US federal bankruptcy court that a major filing it made in a high-profile case contained multiple AI hallucinations &lpar;Financial Times&rpar;](http://www.techmeme.com/260421/p53#a260421p53)
+ - [Latest &#39;Star Wars&#39; movie cut unnecessary costs by using Apple Vision Pro](https://appleinsider.com/articles/26/04/21/latest-star-wars-movie-cut-unnecessary-costs-by-using-apple-vision-pro?utm_source=rss)
+ - [The Los Angeles Unified School District&#39;s board votes to require screen time limits, making it the first major American school system to do so &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/260421/p52#a260421p52)
+ - [Anthropic appears to have removed access to Claude Code from its $20/month Pro plan; Anthropic says it is &quot;running a small test on ~2% of new prosumer signups&quot; &lpar;Ed Zitron/Ed Zitron&#39;s Where&#39;s Your Ed At&rpar;](http://www.techmeme.com/260421/p51#a260421p51)
+ - [Filing: Anthropic spent $1.6M and OpenAI $1M on lobbying in Q1, vs. $360K and $560K in Q1 2025, respectively; Meta topped Big Tech lobbying spending with $7.1M &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/260421/p50#a260421p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top law firm Sullivan &amp; Cromwell told a US federal bankruptcy court that a major filing it made in a high-profile case contained multiple AI hallucinations &lpar;Financial Times&rpar;](http://www.techmeme.com/260421/p53#a260421p53)
- - [Latest &#39;Star Wars&#39; movie cut unnecessary costs by using Apple Vision Pro](https://appleinsider.com/articles/26/04/21/latest-star-wars-movie-cut-unnecessary-costs-by-using-apple-vision-pro?utm_source=rss)
- - [The Los Angeles Unified School District&#39;s board votes to require screen time limits, making it the first major American school system to do so &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/260421/p52#a260421p52)
- - [Anthropic appears to have removed access to Claude Code from its $20/month Pro plan; Anthropic says it is &quot;running a small test on ~2% of new prosumer signups&quot; &lpar;Ed Zitron/Ed Zitron&#39;s Where&#39;s Your Ed At&rpar;](http://www.techmeme.com/260421/p51#a260421p51)
- - [Filing: Anthropic spent $1.6M and OpenAI $1M on lobbying in Q1, vs. $360K and $560K in Q1 2025, respectively; Meta topped Big Tech lobbying spending with $7.1M &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/260421/p50#a260421p50)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-22/)
+ - [How GrapheneOS lead developer Daniel Micay&#39;s legal fights with his former partner James Donaldson over CopperheadOS led to the privacy-focused tool&#39;s creation &lpar;Tiffany Ng/Wired&rpar;](http://www.techmeme.com/260421/p56#a260421p56)
+ - [Report: New Apple CEO&#39;s biggest challenge will be retiring leadership &amp; regular churn](https://appleinsider.com/articles/26/04/22/report-new-apple-ceos-biggest-challenge-will-be-retiring-leadership-regular-churn?utm_source=rss)
+ - [Filing: SpaceX tells investors that orbital AI data centers use &quot;unproven technologies&quot; and may not achieve &quot;commercial viability&quot; due to space-related risks &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260421/p55#a260421p55)
+ - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

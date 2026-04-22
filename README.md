@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That look](http://9gag.com/gag/a0ey0VB)
- - 😝 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
- - 💣 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
- - 😝 [Bub is happy](http://9gag.com/gag/a2v6ywZ)
- - 👉 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)<!-- MEMES:END -->
+ - 😝 [Don&#39;t try watch new harry potter. A .i](http://9gag.com/gag/aVvym7y)
+ - 😝 [She&#39;s too big for the house](http://9gag.com/gag/aO8LDzN)
+ - 💣 [Enjoy life a little bit more ....](http://9gag.com/gag/aByBPpD)
+ - 😝 [Doggo](http://9gag.com/gag/aNDEVy6)
+ - 👉 [Life was awesome ....](http://9gag.com/gag/avyKE3Z)<!-- MEMES:END -->
 
 ---
 

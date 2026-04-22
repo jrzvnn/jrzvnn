@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t try watch new harry potter. A .i](http://9gag.com/gag/aVvym7y)
- - 😝 [She&#39;s too big for the house](http://9gag.com/gag/aO8LDzN)
- - 💣 [Enjoy life a little bit more ....](http://9gag.com/gag/aByBPpD)
- - 😝 [Doggo](http://9gag.com/gag/aNDEVy6)
- - 👉 [Life was awesome ....](http://9gag.com/gag/avyKE3Z)<!-- MEMES:END -->
+ - 😝 [Controversial opinion](http://9gag.com/gag/abAnxGO)
+ - 😝 [That look](http://9gag.com/gag/a0ey0VB)
+ - 💣 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
+ - 😝 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
+ - 👉 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)<!-- MEMES:END -->
 
 ---
 

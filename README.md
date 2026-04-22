@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
- - 😝 [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
- - 💣 [This is Cairo, Egypt in 2026. How can you believe that these were the same people who built the pyramids?](http://9gag.com/gag/aoyQRpX)
- - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
- - 👉 [Darwin Approves](http://9gag.com/gag/a4PONbd)<!-- MEMES:END -->
+ - 😝 [This is Cairo, Egypt in 2026. How can you believe that these were the same people who built the pyramids?](http://9gag.com/gag/aoyQRpX)
+ - 💣 [Darwin Approves](http://9gag.com/gag/a4PONbd)
+ - 😝 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
+ - 👉 [Do You Like Scary Movies?](http://9gag.com/gag/abAn4ZX)<!-- MEMES:END -->
 
 ---
 

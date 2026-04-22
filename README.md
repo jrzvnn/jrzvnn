@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Chromebooks &lpar;2026&rpar;: Most Are Bad, but These Aren&#39;t](https://www.wired.com/story/best-chromebooks/)
- - [Anker announces Thus, a compute-in-memory chip it says will bring on-device AI to its products and accessories, starting with its upcoming Soundcore earbuds &lpar;John Higgins/The Verge&rpar;](http://www.techmeme.com/260422/p16#a260422p16)
- - [Netherlands-based ASM, whose deposition tools are used to make advanced chips, projects Q2 revenue of ~€980M, above €886.8M est., driven by AI demand &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/260422/p15#a260422p15)
- - [When he was hired, Ternus wasn&#39;t sure he even belonged at Apple](https://appleinsider.com/articles/26/04/22/when-he-was-hired-ternus-wasnt-sure-he-even-belonged-at-apple?utm_source=rss)
- - [Dinnerly Meal Kit Review &lpar;2026&rpar;: Hearty Meals on a Budget](https://www.wired.com/review/dinnerly-meal-kit-2026/)<!-- TECH:END -->
+ - [Google unveils a new TPU lineup consisting of the TPU 8t for AI training and the TPU 8i for inference, with general availability scheduled for later in 2026 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260422/p19#a260422p19)
+ - [New Beats Onyx Black Solo 4 is collab with K-pop star Jennie](https://appleinsider.com/articles/26/04/21/beats-brings-out-onyx-black-solo-4-collab-with-jennie-alongside-longer-charging-cables?utm_source=rss)
+ - [The UK&#39;s High Court rules that London&#39;s Metropolitan Police can keep using live facial recognition; police say the tech has led to 2,100+ arrests since 2024 &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/260422/p18#a260422p18)
+ - [Where Apple products are assembled, and where parts come from](https://appleinsider.com/articles/26/04/22/where-apple-products-are-assembled-and-where-their-parts-come-from?utm_source=rss)
+ - [Xbox Game Pass Adds New Indie Darlings After Price Drop](https://www.cnet.com/tech/gaming/game-pass/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Doggo](http://9gag.com/gag/aNDEVy6)
- - 😝 [White culture](http://9gag.com/gag/amo4xb9)
- - 💣 [Life was awesome ....](http://9gag.com/gag/avyKE3Z)
- - 😝 [True and hard words, Freeman](http://9gag.com/gag/ayNjRnV)
+ - 😝 [Life was awesome ....](http://9gag.com/gag/avyKE3Z)
+ - 💣 [White culture](http://9gag.com/gag/amo4xb9)
+ - 😝 [Mi\u00e9rcoles de MMAcitas](http://9gag.com/gag/apRZb2D)
  - 👉 [Bub is happy](http://9gag.com/gag/a2v6ywZ)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
- - 😝 [This is Cairo, Egypt in 2026. How can you believe that these were the same people who built the pyramids?](http://9gag.com/gag/aoyQRpX)
- - 💣 [Darwin Approves](http://9gag.com/gag/a4PONbd)
  - 😝 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - 👉 [Do You Like Scary Movies?](http://9gag.com/gag/abAn4ZX)<!-- MEMES:END -->
+ - 😝 [That look](http://9gag.com/gag/a0ey0VB)
+ - 💣 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 😝 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)
+ - 👉 [This is Cairo, Egypt in 2026. How can you believe that these were the same people who built the pyramids?](http://9gag.com/gag/aoyQRpX)<!-- MEMES:END -->
 
 ---
 

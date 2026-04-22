@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils a new TPU lineup consisting of the TPU 8t for AI training and the TPU 8i for inference, with general availability scheduled for later in 2026 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260422/p19#a260422p19)
- - [New Beats Onyx Black Solo 4 is collab with K-pop star Jennie](https://appleinsider.com/articles/26/04/21/beats-brings-out-onyx-black-solo-4-collab-with-jennie-alongside-longer-charging-cables?utm_source=rss)
- - [The UK&#39;s High Court rules that London&#39;s Metropolitan Police can keep using live facial recognition; police say the tech has led to 2,100+ arrests since 2024 &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/260422/p18#a260422p18)
- - [Where Apple products are assembled, and where parts come from](https://appleinsider.com/articles/26/04/22/where-apple-products-are-assembled-and-where-their-parts-come-from?utm_source=rss)
- - [Xbox Game Pass Adds New Indie Darlings After Price Drop](https://www.cnet.com/tech/gaming/game-pass/)<!-- TECH:END -->
+ - [Apple may be about to post another blockbuster quarter](https://appleinsider.com/articles/26/04/22/apple-may-be-about-to-post-another-blockbuster-quarter?utm_source=rss)
+ - [Air permit docs: new gas projects linked to just 11 US data center campuses could emit 129M+ tons of greenhouse gases per year, more than some small countries &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/260422/p25#a260422p25)
+ - [It’s amazing how good Alienware’s $350 OLED monitor is](https://www.theverge.com/tech/916277/alienware-aw2726dm-qdoled-gaming-monitor-specs-hands-on)
+ - [How iPhone 18 Pro&#39;s rumored variable aperture will supercharge your photography](https://appleinsider.com/articles/26/04/22/how-iphone-18-pros-rumored-variable-aperture-will-supercharge-your-photography?utm_source=rss)
+ - [Call of Duty never made much sense for Xbox Game Pass](https://www.theverge.com/games/916627/call-of-duty-xbox-game-pass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

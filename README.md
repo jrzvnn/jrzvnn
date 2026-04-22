@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This generation will die alone](http://9gag.com/gag/a7oRVqe)
- - 😝 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
- - 💣 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
- - 😝 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - 👉 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)<!-- MEMES:END -->
+ - 😝 [Doggo](http://9gag.com/gag/aNDEVy6)
+ - 😝 [Life was awesome ....](http://9gag.com/gag/avyKE3Z)
+ - 💣 [Bub is happy](http://9gag.com/gag/a2v6ywZ)
+ - 😝 [Well\u2026 here we are.\u201d](http://9gag.com/gag/a7oR94A)
+ - 👉 [Describes me to a tee.](http://9gag.com/gag/aByBP5Z)<!-- MEMES:END -->
 
 ---
 

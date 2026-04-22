@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Efforts to revive chip manufacturing in Pennsylvania have been left in limbo by President Trump&#39;s sudden upending of US semiconductor policy over the past year &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260422/p10#a260422p10)
- - [Tencent launches an international beta for QClaw, its OpenClaw-based AI agent, and says the Chinese version, launched in March, reached over 1M users in 10 days &lpar;T. K. Lin/KrASIA&rpar;](http://www.techmeme.com/260422/p9#a260422p9)
- - [TikTok&#39;s plan to build a ~$38B data center campus in Brazil, its first in Latin America, is facing local pushback over sustainability in a semi-arid area &lpar;Financial Times&rpar;](http://www.techmeme.com/260422/p8#a260422p8)
- - [Australia&#39;s eSafety Commissioner issues transparency notices to Roblox, Microsoft&#39;s Minecraft, and other online gaming platforms to detail child safety measures &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/260422/p7#a260422p7)
- - [Documents and sources: insurers including QBE and Beazley are moving to cap cyber policy payouts for losses and regulatory fines tied to AI use and &quot;LLMjacking&quot; &lpar;Lee Harris/Financial Times&rpar;](http://www.techmeme.com/260422/p6#a260422p6)<!-- TECH:END -->
+ - [Sources: OpenAI has been briefing US federal agencies, state governments, and Five Eyes allies on the capabilities of its GPT-5.4-Cyber model over the past week &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260422/p12#a260422p12)
+ - [Join Our Livestream: Musk v. Altman and the Future of OpenAI](https://www.wired.com/story/livestream-musk-v-altman-trial/)
+ - [Infinite Machine Olto Review: A Tremendously Fun Ride](https://www.wired.com/review/infinite-machine-olto/)
+ - [Filing: Tron founder Justin Sun sues the Trump family&#39;s World Liberty Financial, alleging it unfairly locked up his WLFI holdings and threatened and defamed him &lpar;CoinDesk&rpar;](http://www.techmeme.com/260422/p11#a260422p11)
+ - [The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims](https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

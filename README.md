@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-22/)
- - [How GrapheneOS lead developer Daniel Micay&#39;s legal fights with his former partner James Donaldson over CopperheadOS led to the privacy-focused tool&#39;s creation &lpar;Tiffany Ng/Wired&rpar;](http://www.techmeme.com/260421/p56#a260421p56)
- - [Report: New Apple CEO&#39;s biggest challenge will be retiring leadership &amp; regular churn](https://appleinsider.com/articles/26/04/22/report-new-apple-ceos-biggest-challenge-will-be-retiring-leadership-regular-churn?utm_source=rss)
- - [Filing: SpaceX tells investors that orbital AI data centers use &quot;unproven technologies&quot; and may not achieve &quot;commercial viability&quot; due to space-related risks &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260421/p55#a260421p55)
- - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)<!-- TECH:END -->
+ - [Sources: OpenAI has pledged up to $1.5B to a new joint venture with PE firms to help deploy AI across their portfolio companies, starting with $500M in equity &lpar;Financial Times&rpar;](http://www.techmeme.com/260422/p4#a260422p4)
+ - [Polymarket says perpetuals are coming to the platform and lets users sign up for early access; it hasn&#39;t specified whether crypto perpetual futures are included &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/260422/p3#a260422p3)
+ - [A UK tribunal rules Microsoft must face a lawsuit alleging it overcharged UK businesses to run Windows Server on cloud services from Amazon, Google, and Alibaba &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/260422/p2#a260422p2)
+ - [X launches Custom Timelines, a Grok-powered feature letting users pin any of over 75 topics to their home tab, in early access to Premium subscribers on iOS &lpar;Nikita Bier/@nikitabier&rpar;](http://www.techmeme.com/260422/p1#a260422p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-22/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

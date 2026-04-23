@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases ChatGPT for Clinicians, a tool for medical tasks like documentation and research, free for verified physicians, pharmacists, and more in the US &lpar;OpenAI&rpar;](http://www.techmeme.com/260422/p54#a260422p54)
- - [Sources: SoftBank seeks a $10B two-year margin loan secured by its OpenAI shares, with an option for a year extension, as SoftBank aims to become an AI linchpin &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p53#a260422p53)
- - [Sources: Microsoft considered buying Cursor in recent weeks but didn&#39;t make an offer; Microsoft has been working to boost GitHub Copilot&#39;s popularity &lpar;CNBC&rpar;](http://www.techmeme.com/260422/p52#a260422p52)
- - [Microsoft plans to invest AU$25B by 2029 to expand Azure AI supercomputing and cloud infrastructure in Australia, its largest commitment to the country &lpar;Ainslie Chandler/Bloomberg&rpar;](http://www.techmeme.com/260422/p51#a260422p51)
- - [The Iranian women Trump &amp;#8216;saved&amp;#8217; from execution are simultaneously real and AI-manipulated](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati)<!-- TECH:END -->
+ - [US Commerce Secretary Howard Lutnick says Nvidia has yet to sell H200 chips to Chinese companies and that the Chinese government has not approved such purchases &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/260423/p7#a260423p7)
+ - [Sources: Microsoft told carbon-removal project developers it is shelving contracts under negotiation; Microsoft has been a major backer of carbon capture tech &lpar;Alastair Marsh/Bloomberg&rpar;](http://www.techmeme.com/260423/p6#a260423p6)
+ - [GitHub says it has begun collecting pseudonymous client-side telemetry from command-line interface &lpar;CLI&rpar; users and enabled it by default &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/260423/p5#a260423p5)
+ - [Elon Musk says Tesla plans to use Intel&#39;s 14A process technology to make chips at its Terafab project, which would make Tesla the first major customer for 14A &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p4#a260423p4)
+ - [TSMC says it will hold off on using ASML&#39;s most advanced high-NA EUV machines, costing upwards of €350M apiece, for chip production through 2029 to save money &lpar;Bloomberg&rpar;](http://www.techmeme.com/260423/p3#a260423p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

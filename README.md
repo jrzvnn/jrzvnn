@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI songs are flooding Apple Music but nobody is actually listening to them](https://appleinsider.com/articles/26/04/23/ai-songs-are-flooding-apple-music-but-nobody-is-actually-listening-to-them?utm_source=rss)
- - [WhatsApp partners with PayU to roll out prepaid mobile recharges in India; it remains a marginal payments player in India despite launching payments in 2020 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260423/p37#a260423p37)
- - [DJI’s new Lito Series beginner drones start at less than $400](https://www.theverge.com/tech/917426/dji-drone-lito-1-x1-amateur-4k-obstacle-avoidance-pricing-availability)
- - [Future MacBook notch may get replaced with removable cameras on a rotating screen](https://appleinsider.com/articles/24/07/30/future-macbook-notch-may-get-replaced-with-removable-cameras-on-a-rotating-screen?utm_source=rss)
- - [Netflix can’t seem to follow up its biggest shows](https://www.theverge.com/entertainment/917121/stranger-things-tales-from-85-netflix-spinoffs)<!-- TECH:END -->
+ - [iPhone gets more important as every AI improves, Perplexity CEO says](https://appleinsider.com/articles/26/04/23/iphone-gets-more-important-as-every-ai-improves-perplexity-ceo-says?utm_source=rss)
+ - [Internal memo: Amazon is replacing white-collar job titles at its Ring and Blink units with the designation &quot;builder&quot;, and &quot;builder leaders&quot; for managers &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260423/p43#a260423p43)
+ - [Palantir Employees Are Starting to Wonder if They&#39;re the Bad Guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/)
+ - [Play One of the Best Games of 2025 Right Now on Xbox Game Pass](https://www.cnet.com/tech/gaming/play-one-of-the-best-games-of-2025-now-on-xbox-game-pass/)
+ - [You Should Have Exactly 3 Pairs of Headphones. Here&#39;s Why](https://www.cnet.com/tech/mobile/everyday-carry-three-types-of-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

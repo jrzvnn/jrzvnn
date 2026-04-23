@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says Copilot&#39;s agentic features in Word, Excel, and PowerPoint are now generally available and enabled by default for 365 Copilot and 365 Premium &lpar;Sumit Chauhan/Microsoft 365 Blog&rpar;](http://www.techmeme.com/260423/p10#a260423p10)
- - [Sony Inzone H6 Air Review: Comfortable Headphones, Great Sound](https://www.wired.com/review/sony-inzone-h6-air/)
- - [Honor’s new phones look like iPhones for Android](https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android)
- - [A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others &lpar;Financial Times&rpar;](http://www.techmeme.com/260423/p9#a260423p9)
- - [Report: China&#39;s 360 Digital Security Group has uncovered ~1,000 previously unknown vulnerabilities, including in Microsoft&#39;s Office, using an AI-powered agent &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260423/p8#a260423p8)<!-- TECH:END -->
+ - [Best Robot Vacuum of 2026: Shark, Eufy](https://www.wired.com/story/best-robot-vacuum/)
+ - [Sources: DeepSeek is fundraising to keep its researchers, some of whom have left for rivals whose valuations have soared; it is targeting a $20B valuation &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260423/p19#a260423p19)
+ - [Sources: Bain Capital seeks to sell a stake of 40%+ in Bridge Data Centres in a deal that would value the Singapore-based data infrastructure builder at $5B &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p18#a260423p18)
+ - [Tencent releases Hy3-preview, its first AI model developed under former OpenAI researcher Yao Shunyu; the model features 295B parameters, down from HY2&#39;s 400B &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/260423/p17#a260423p17)
+ - [TSMC SVP Kevin Zhang says the company plans to open an advanced chip packaging plant in Arizona by 2029 and that construction has begun &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p16#a260423p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

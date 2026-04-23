@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
- - 😝 [Indestructible they said. It will be fun they said](http://9gag.com/gag/aLn7GL5)
- - 💣 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
- - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 😝 [These People Can Vote BTW .](http://9gag.com/gag/ae98xMW)
+ - 😝 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
+ - 💣 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
+ - 😝 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
  - 👉 [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)<!-- MEMES:END -->
 
 ---

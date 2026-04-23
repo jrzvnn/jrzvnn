@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just having a casual water fight on a moving truck, what could go wrong](http://9gag.com/gag/aO8L9jR)
  - 😝 [The future is now](http://9gag.com/gag/aKGoeKZ)
- - 😝 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
- - 💣 [To my fellow degenerates](http://9gag.com/gag/aPAbeMP)
- - 😝 [Humour me](http://9gag.com/gag/a87xKWe)
+ - 💣 [The police was looking for her based on her instagram...but she used some moderate filters](http://9gag.com/gag/a87xeQd)
+ - 😝 [NATO selects Swedish Saab GlobalEye to replace 14 E-3 AWACS planes in historic shift from the U.S.](http://9gag.com/gag/aPAbXOB)
  - 👉 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)<!-- MEMES:END -->
 
 ---

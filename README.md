@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone gets more important as every AI improves, Perplexity CEO says](https://appleinsider.com/articles/26/04/23/iphone-gets-more-important-as-every-ai-improves-perplexity-ceo-says?utm_source=rss)
- - [Internal memo: Amazon is replacing white-collar job titles at its Ring and Blink units with the designation &quot;builder&quot;, and &quot;builder leaders&quot; for managers &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260423/p43#a260423p43)
- - [Palantir Employees Are Starting to Wonder if They&#39;re the Bad Guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/)
- - [Play One of the Best Games of 2025 Right Now on Xbox Game Pass](https://www.cnet.com/tech/gaming/play-one-of-the-best-games-of-2025-now-on-xbox-game-pass/)
- - [You Should Have Exactly 3 Pairs of Headphones. Here&#39;s Why](https://www.cnet.com/tech/mobile/everyday-carry-three-types-of-headphones/)<!-- TECH:END -->
+ - [At a town hall, Asha Sharma said Microsoft is returning to using Xbox for its gaming division, instead of Microsoft Gaming, as &quot;Xbox needs to be our identity&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260423/p47#a260423p47)
+ - [Ikea&amp;#8217;s new inflatable chair doesn&amp;#8217;t look like an inflatable chair](https://www.theverge.com/design/917567/ikea-ps-collection-2026-inflatable-easy-chair-experimental-design)
+ - [Memo: Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won&#39;t fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260423/p46#a260423p46)
+ - [Microsoft announces its first voluntary retirement program, for staff whose years of employment and age add up to 70+; source: 7% of US employees are eligible &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260423/p45#a260423p45)
+ - [Great news, the Moto G Stylus is no longer teeming with bloatware](https://www.theverge.com/tech/917497/motorola-moto-g-stylus-2026-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

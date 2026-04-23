@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mystique](http://9gag.com/gag/aByBXyQ)
  - 😝 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)
- - 😝 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
- - 💣 [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)
- - 😝 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
- - 👉 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
+ - 💣 [The future is now](http://9gag.com/gag/aKGoeKZ)
+ - 😝 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
+ - 👉 [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram launched Instants, an app for sharing disappearing photos, in Italy this week, after rolling out an Instants feature in its main app in some regions &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/260423/p54#a260423p54)
- - [OpenAI says &quot;GPT-5.5 matches GPT-5.4 per-token latency in real-world serving, while performing at a much higher level of intelligence&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/260423/p53#a260423p53)
- - [‘We Are Xbox’: read the memo defining Microsoft’s gaming future](https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty)
- - [Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games](https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma)
- - [Anthropic says it has fixed three causes of recent Claude Code quality issues: reduced default reasoning, a caching bug, and a system prompt to reduce verbosity &lpar;Anthropic&rpar;](http://www.techmeme.com/260423/p52#a260423p52)<!-- TECH:END -->
+ - [Sonos’ big sale on refurbished speakers is about to end](https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale)
+ - [Meta is laying off 10 percent of its staff](https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff)
+ - [Music publishers including UMG, Warner Music, and Sony drop a copyright suit against Verizon following a SCOTUS decision limiting ISP liability in Cox&#39;s suit &lpar;Kyle Jahner/Bloomberg Law&rpar;](http://www.techmeme.com/260423/p56#a260423p56)
+ - [Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto](https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/)
+ - [Xbox CEO Asha Sharma and Chief Content Officer Matt Booty detail their &quot;return of Xbox&quot; strategy, including daily active players as its &quot;new north star&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260423/p55#a260423p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

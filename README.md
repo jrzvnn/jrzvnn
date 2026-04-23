@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Robot Vacuum of 2026: Shark, Eufy](https://www.wired.com/story/best-robot-vacuum/)
- - [Sources: DeepSeek is fundraising to keep its researchers, some of whom have left for rivals whose valuations have soared; it is targeting a $20B valuation &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260423/p19#a260423p19)
- - [Sources: Bain Capital seeks to sell a stake of 40%+ in Bridge Data Centres in a deal that would value the Singapore-based data infrastructure builder at $5B &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p18#a260423p18)
- - [Tencent releases Hy3-preview, its first AI model developed under former OpenAI researcher Yao Shunyu; the model features 295B parameters, down from HY2&#39;s 400B &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/260423/p17#a260423p17)
- - [TSMC SVP Kevin Zhang says the company plans to open an advanced chip packaging plant in Arizona by 2029 and that construction has begun &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p16#a260423p16)<!-- TECH:END -->
+ - [Apple Maps was Tim Cook&#39;s biggest mistake](https://appleinsider.com/articles/26/04/23/apple-maps-was-tim-cooks-biggest-mistake?utm_source=rss)
+ - [Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint](https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint)
+ - [Anthropic and law firm Freshfields sign a deal to develop specialized legal AI tools for document drafting, contract review, due diligence, and more &lpar;Kaye Wiggins/Financial Times&rpar;](http://www.techmeme.com/260423/p26#a260423p26)
+ - [Turkey&#39;s parliament passes a bill requiring social media and online game companies to restrict access for children under 15, following a school shooting &lpar;Andrew Wilks/Associated Press&rpar;](http://www.techmeme.com/260423/p25#a260423p25)
+ - [Omni, which is building a &quot;semantic translation layer&quot; for enterprise data, raised a $120M Series C led by Iconiq at a $1.5B valuation, up from $650M in 2025 &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260423/p24#a260423p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

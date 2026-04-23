@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White culture](http://9gag.com/gag/amo4xb9)
- - 😝 [Finally someone said it](http://9gag.com/gag/aW43oPd)
- - 💣 [How to multiply plants quickly!](http://9gag.com/gag/aAyz2bg)
- - 😝 [Well\u2026 here we are.\u201d](http://9gag.com/gag/a7oR94A)
- - 👉 [Controversial opinion](http://9gag.com/gag/abAnxGO)<!-- MEMES:END -->
+ - 😝 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
+ - 😝 [Indestructible they said. It will be fun they said](http://9gag.com/gag/aLn7GL5)
+ - 💣 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
+ - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 👉 [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)<!-- MEMES:END -->
 
 ---
 

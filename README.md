@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Mystique](http://9gag.com/gag/aByBXyQ)
- - 😝 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)
- - 💣 [The future is now](http://9gag.com/gag/aKGoeKZ)
- - 😝 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
+ - 😝 [The future is now](http://9gag.com/gag/aKGoeKZ)
+ - 💣 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
+ - 😝 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
  - 👉 [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)<!-- MEMES:END -->
 
 ---

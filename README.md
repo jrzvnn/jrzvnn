@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mystique](http://9gag.com/gag/aByBXyQ)
- - 😝 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
- - 💣 [Just Guys Being Dudes](http://9gag.com/gag/a87x23d)
- - 😝 [Satisfying LightBloom Crystal](http://9gag.com/gag/awyWYx4)
- - 👉 [It&#39;s great, beautiful mechanics.](http://9gag.com/gag/adBD2rQ)<!-- MEMES:END -->
+ - 😝 [He built a script that calls back spam callers and traps them in an endless loop.](http://9gag.com/gag/agmz4e6)
+ - 😝 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
+ - 💣 [The police was looking for her based on her instagram...but she used some moderate filters](http://9gag.com/gag/a87xeQd)
+ - 😝 [NATO selects Swedish Saab GlobalEye to replace 14 E-3 AWACS planes in historic shift from the U.S.](http://9gag.com/gag/aPAbXOB)
+ - 👉 [Just having a casual water fight on a moving truck, what could go wrong](http://9gag.com/gag/aO8L9jR)<!-- MEMES:END -->
 
 ---
 

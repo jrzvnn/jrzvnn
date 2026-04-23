@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify celebrates its 20th anniversary with a first-ever list of its 20 most streamed artists, albums, songs, podcasts, and audiobooks &lpar;Gil Kaufman/Billboard&rpar;](http://www.techmeme.com/260423/p32#a260423p32)
- - [Lyft agrees to buy London black cab app Gett, its third acquisition in the past year, as the company expands its presence beyond the US &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260423/p31#a260423p31)
- - [How Apple protects designs &amp; marketing materials before a product launch](https://appleinsider.com/articles/26/04/23/how-apple-protects-designs-marketing-materials-before-a-product-launch?utm_source=rss)
- - [Lume Cube Edge Light Go Review &lpar;2026&rpar;: Versatile, Portable](https://www.wired.com/review/lume-cube-edge-light-go-portable-lamp/)
- - [Petual, which automates internal audit work and generates auditor-ready workpapers, raised $20M across a pre-seed led by First Round and a seed led by a16z &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260423/p30#a260423p30)<!-- TECH:END -->
+ - [AI songs are flooding Apple Music but nobody is actually listening to them](https://appleinsider.com/articles/26/04/23/ai-songs-are-flooding-apple-music-but-nobody-is-actually-listening-to-them?utm_source=rss)
+ - [WhatsApp partners with PayU to roll out prepaid mobile recharges in India; it remains a marginal payments player in India despite launching payments in 2020 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260423/p37#a260423p37)
+ - [DJI’s new Lito Series beginner drones start at less than $400](https://www.theverge.com/tech/917426/dji-drone-lito-1-x1-amateur-4k-obstacle-avoidance-pricing-availability)
+ - [Future MacBook notch may get replaced with removable cameras on a rotating screen](https://appleinsider.com/articles/24/07/30/future-macbook-notch-may-get-replaced-with-removable-cameras-on-a-rotating-screen?utm_source=rss)
+ - [Netflix can’t seem to follow up its biggest shows](https://www.theverge.com/entertainment/917121/stranger-things-tales-from-85-netflix-spinoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

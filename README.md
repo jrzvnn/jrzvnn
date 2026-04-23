@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos’ big sale on refurbished speakers is about to end](https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale)
- - [Meta is laying off 10 percent of its staff](https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff)
- - [Music publishers including UMG, Warner Music, and Sony drop a copyright suit against Verizon following a SCOTUS decision limiting ISP liability in Cox&#39;s suit &lpar;Kyle Jahner/Bloomberg Law&rpar;](http://www.techmeme.com/260423/p56#a260423p56)
- - [Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto](https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/)
- - [Xbox CEO Asha Sharma and Chief Content Officer Matt Booty detail their &quot;return of Xbox&quot; strategy, including daily active players as its &quot;new north star&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260423/p55#a260423p55)<!-- TECH:END -->
+ - [Texas Instruments stock rose 19% on Thursday, its best day since 2000, after upbeat Q2 guidance driven by high demand for analog chips used in AI data centers &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260423/p59#a260423p59)
+ - [Shenzhen-based Pudu Robotics, which makes commercial service robots, raised ~$150M, bringing its total funding to $300M+, and says its valuation exceeds $1.5B &lpar;The Robot Report&rpar;](http://www.techmeme.com/260423/p58#a260423p58)
+ - [Rednote Draws a Line Between China and the World](https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/)
+ - [Intel reports Q1 revenue up 7% YoY to $13.58B, vs. $12.42B est., and forecasts Q2 revenue and adjusted EPS above estimates; INTC jumps 15%+ after hours &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260423/p57#a260423p57)
+ - [How Apple Savings compares vs other high-yield savings accounts](https://appleinsider.com/inside/apple-card/vs/how-apple-savings-compares-vs-other-high-yield-savings-accounts?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

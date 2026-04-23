@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brendan Carr’s war on wokeness targets inclusive children&amp;#8217;s television](https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming)
- - [Discover ending support for two Apple Pay features in June 2026](https://appleinsider.com/articles/26/04/23/discover-ending-support-for-two-apple-pay-features-in-june-2026?utm_source=rss)
- - [ChatGPT Helped Plan FSU Shooting, Florida Officials Say](https://www.cnet.com/tech/services-and-software/chatgpt-helped-plan-fsu-shooting-florida-officials-say/)
- - [Texas Instruments stock rose 19% on Thursday, its best day since 2000, after upbeat Q2 guidance driven by high demand for analog chips used in AI data centers &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260423/p59#a260423p59)
- - [Shenzhen-based Pudu Robotics, which makes commercial service robots, raised ~$150M, bringing its total funding to $300M+, and says its valuation exceeds $1.5B &lpar;The Robot Report&rpar;](http://www.techmeme.com/260423/p58#a260423p58)<!-- TECH:END -->
+ - [US arrests soldier who allegedly made $400k on Maduro Polymarket bets](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke)
+ - [Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro](https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle)
+ - [Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)
+ - [Sources: the US DOJ arrested a soldier involved in the capture of Nicolás Maduro for allegedly making $400K+ on Polymarket by betting on his removal from office &lpar;ABC News&rpar;](http://www.techmeme.com/260423/p60#a260423p60)
+ - [Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet](https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

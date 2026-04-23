@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid](https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/)
+ - [Proposed mandatory clean energy guidelines could mean less participation, Apple argues](https://appleinsider.com/articles/26/04/23/proposed-mandatory-clean-energy-guidelines-could-mean-less-participation-apple-argues?utm_source=rss)
  - [US arrests soldier who allegedly made $400k on Maduro Polymarket bets](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke)
  - [Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro](https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle)
- - [Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)
- - [Sources: the US DOJ arrested a soldier involved in the capture of Nicolás Maduro for allegedly making $400K+ on Polymarket by betting on his removal from office &lpar;ABC News&rpar;](http://www.techmeme.com/260423/p60#a260423p60)
- - [Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet](https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/)<!-- TECH:END -->
+ - [Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

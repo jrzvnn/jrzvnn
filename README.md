@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brendan Carr’s war on wokeness targets inclusive children&amp;#8217;s television](https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming)
+ - [Discover ending support for two Apple Pay features in June 2026](https://appleinsider.com/articles/26/04/23/discover-ending-support-for-two-apple-pay-features-in-june-2026?utm_source=rss)
+ - [ChatGPT Helped Plan FSU Shooting, Florida Officials Say](https://www.cnet.com/tech/services-and-software/chatgpt-helped-plan-fsu-shooting-florida-officials-say/)
  - [Texas Instruments stock rose 19% on Thursday, its best day since 2000, after upbeat Q2 guidance driven by high demand for analog chips used in AI data centers &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260423/p59#a260423p59)
- - [Shenzhen-based Pudu Robotics, which makes commercial service robots, raised ~$150M, bringing its total funding to $300M+, and says its valuation exceeds $1.5B &lpar;The Robot Report&rpar;](http://www.techmeme.com/260423/p58#a260423p58)
- - [Rednote Draws a Line Between China and the World](https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/)
- - [Intel reports Q1 revenue up 7% YoY to $13.58B, vs. $12.42B est., and forecasts Q2 revenue and adjusted EPS above estimates; INTC jumps 15%+ after hours &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260423/p57#a260423p57)
- - [How Apple Savings compares vs other high-yield savings accounts](https://appleinsider.com/inside/apple-card/vs/how-apple-savings-compares-vs-other-high-yield-savings-accounts?utm_source=rss)<!-- TECH:END -->
+ - [Shenzhen-based Pudu Robotics, which makes commercial service robots, raised ~$150M, bringing its total funding to $300M+, and says its valuation exceeds $1.5B &lpar;The Robot Report&rpar;](http://www.techmeme.com/260423/p58#a260423p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

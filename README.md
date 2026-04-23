@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says Copilot&#39;s agentic features in Word, Excel, and PowerPoint are now generally available and enabled by default for 365 Copilot and 365 Premium &lpar;Sumit Chauhan/Microsoft 365 Blog&rpar;](http://www.techmeme.com/260423/p10#a260423p10)
+ - [Sony Inzone H6 Air Review: Comfortable Headphones, Great Sound](https://www.wired.com/review/sony-inzone-h6-air/)
+ - [Honor’s new phones look like iPhones for Android](https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android)
  - [A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others &lpar;Financial Times&rpar;](http://www.techmeme.com/260423/p9#a260423p9)
- - [Report: China&#39;s 360 Digital Security Group has uncovered ~1,000 previously unknown vulnerabilities, including in Microsoft&#39;s Office, using an AI-powered agent &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260423/p8#a260423p8)
- - [Hoka Coupon Codes: 30% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)
- - [Verizon Promo Codes: $200 Verizon Gift Cards | April 2026](https://www.wired.com/story/verizon-promo-code/)
- - [Dermstore Promo Codes: 25% Off](https://www.wired.com/story/dermstore-promo-code/)<!-- TECH:END -->
+ - [Report: China&#39;s 360 Digital Security Group has uncovered ~1,000 previously unknown vulnerabilities, including in Microsoft&#39;s Office, using an AI-powered agent &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260423/p8#a260423p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

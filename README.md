@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Commerce Secretary Howard Lutnick says Nvidia has yet to sell H200 chips to Chinese companies and that the Chinese government has not approved such purchases &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/260423/p7#a260423p7)
- - [Sources: Microsoft told carbon-removal project developers it is shelving contracts under negotiation; Microsoft has been a major backer of carbon capture tech &lpar;Alastair Marsh/Bloomberg&rpar;](http://www.techmeme.com/260423/p6#a260423p6)
- - [GitHub says it has begun collecting pseudonymous client-side telemetry from command-line interface &lpar;CLI&rpar; users and enabled it by default &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/260423/p5#a260423p5)
- - [Elon Musk says Tesla plans to use Intel&#39;s 14A process technology to make chips at its Terafab project, which would make Tesla the first major customer for 14A &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p4#a260423p4)
- - [TSMC says it will hold off on using ASML&#39;s most advanced high-NA EUV machines, costing upwards of €350M apiece, for chip production through 2029 to save money &lpar;Bloomberg&rpar;](http://www.techmeme.com/260423/p3#a260423p3)<!-- TECH:END -->
+ - [A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others &lpar;Financial Times&rpar;](http://www.techmeme.com/260423/p9#a260423p9)
+ - [Report: China&#39;s 360 Digital Security Group has uncovered ~1,000 previously unknown vulnerabilities, including in Microsoft&#39;s Office, using an AI-powered agent &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260423/p8#a260423p8)
+ - [Hoka Coupon Codes: 30% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)
+ - [Verizon Promo Codes: $200 Verizon Gift Cards | April 2026](https://www.wired.com/story/verizon-promo-code/)
+ - [Dermstore Promo Codes: 25% Off](https://www.wired.com/story/dermstore-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

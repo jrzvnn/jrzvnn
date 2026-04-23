@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a town hall, Asha Sharma said Microsoft is returning to using Xbox for its gaming division, instead of Microsoft Gaming, as &quot;Xbox needs to be our identity&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260423/p47#a260423p47)
- - [Ikea&amp;#8217;s new inflatable chair doesn&amp;#8217;t look like an inflatable chair](https://www.theverge.com/design/917567/ikea-ps-collection-2026-inflatable-easy-chair-experimental-design)
- - [Memo: Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won&#39;t fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260423/p46#a260423p46)
- - [Microsoft announces its first voluntary retirement program, for staff whose years of employment and age add up to 70+; source: 7% of US employees are eligible &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260423/p45#a260423p45)
- - [Great news, the Moto G Stylus is no longer teeming with bloatware](https://www.theverge.com/tech/917497/motorola-moto-g-stylus-2026-review)<!-- TECH:END -->
+ - [Instagram launched Instants, an app for sharing disappearing photos, in Italy this week, after rolling out an Instants feature in its main app in some regions &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/260423/p54#a260423p54)
+ - [OpenAI says &quot;GPT-5.5 matches GPT-5.4 per-token latency in real-world serving, while performing at a much higher level of intelligence&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/260423/p53#a260423p53)
+ - [‘We Are Xbox’: read the memo defining Microsoft’s gaming future](https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty)
+ - [Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games](https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma)
+ - [Anthropic says it has fixed three causes of recent Claude Code quality issues: reduced default reasoning, a caching bug, and a system prompt to reduce verbosity &lpar;Anthropic&rpar;](http://www.techmeme.com/260423/p52#a260423p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

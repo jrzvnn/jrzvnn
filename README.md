@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SK Hynix reports Q1 revenue up 198% YoY to ~$35.55B, vs. ~$36.2B est., and operating profit up 405% YoY to ~$25.4B, vs. ~$25.6B est., as memory prices rise &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260422/p49#a260422p49)
+ - [Experience F1 tracks with 3D art in Apple Maps ahead of each race](https://appleinsider.com/articles/26/02/26/experience-f1-tracks-with-3d-art-in-apple-maps-ahead-of-each-race?utm_source=rss)
+ - [T-Mobile Begins DoorDashing 5G Internet to Customers for Same-Day Deliveries](https://www.cnet.com/home/internet/t-mobile-doordash-5g-internet-same-day-delivery/)
  - [Alibaba launches Qwen3.6-27B, an open-weight dense model with 27B parameters, saying it surpasses Qwen3.5-397B-A17B on major coding benchmarks &lpar;Qwen&rpar;](http://www.techmeme.com/260422/p48#a260422p48)
- - [Elon Musk admits that millions of Tesla vehicles won&amp;#8217;t get unsupervised FSD](https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd)
- - [Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn&#39;t Exist](https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/)
- - [Dune Analytics: Polymarket&#39;s global trading volumes have fallen behind Kalshi in recent months; sources: product delays are contributing to Polymarket&#39;s decline &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p47#a260422p47)
- - [US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose](https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/)<!-- TECH:END -->
+ - [Elon Musk admits that millions of Tesla vehicles won&amp;#8217;t get unsupervised FSD](https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

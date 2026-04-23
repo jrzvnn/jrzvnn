@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To my fellow degenerates](http://9gag.com/gag/aPAbeMP)
+ - 😝 [Just having a casual water fight on a moving truck, what could go wrong](http://9gag.com/gag/aO8L9jR)
  - 😝 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
- - 💣 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
+ - 💣 [Mystique](http://9gag.com/gag/aByBXyQ)
  - 😝 [NATO selects Swedish Saab GlobalEye to replace 14 E-3 AWACS planes in historic shift from the U.S.](http://9gag.com/gag/aPAbXOB)
- - 👉 [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)<!-- MEMES:END -->
+ - 👉 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
 
 ---
 

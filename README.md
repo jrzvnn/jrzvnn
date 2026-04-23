@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
- - 😝 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
- - 💣 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
- - 😝 [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)
- - 👉 [Controversial opinion](http://9gag.com/gag/abAnxGO)<!-- MEMES:END -->
+ - 😝 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
+ - 😝 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
+ - 💣 [Asking for a friend](http://9gag.com/gag/aO8LPD6)
+ - 😝 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
+ - 👉 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)<!-- MEMES:END -->
 
 ---
 

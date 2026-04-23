@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
- - 😝 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
- - 💣 [Mystique](http://9gag.com/gag/aByBXyQ)
- - 😝 [Look how far we&#39;ve come](http://9gag.com/gag/aNDEROb)
- - 👉 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)<!-- MEMES:END -->
+ - 😝 [Just having a casual water fight on a moving truck, what could go wrong](http://9gag.com/gag/aO8L9jR)
+ - 😝 [Mystique](http://9gag.com/gag/aByBXyQ)
+ - 💣 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
+ - 😝 [Reflexes like a sloth.](http://9gag.com/gag/amo4xE6)
+ - 👉 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
- - 😝 [Fren has compassion, fren gonna ease the pain.](http://9gag.com/gag/awyWdXD)
- - 💣 [People like that can vote. They think they&#39;re better than you and that you&#39;re lesser than them and want you replaced](http://9gag.com/gag/ajPexM1)
- - 😝 [This is exactly how Saturday mornings felt in the 90s, pure overload of awesome cartoons](http://9gag.com/gag/aGy4A75)
- - 👉 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)<!-- MEMES:END -->
+ - 😝 [To my fellow degenerates](http://9gag.com/gag/aPAbeMP)
+ - 😝 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
+ - 💣 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
+ - 😝 [NATO selects Swedish Saab GlobalEye to replace 14 E-3 AWACS planes in historic shift from the U.S.](http://9gag.com/gag/aPAbXOB)
+ - 👉 [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
- - 😝 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
- - 💣 [Asking for a friend](http://9gag.com/gag/aO8LPD6)
- - 😝 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
- - 👉 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)<!-- MEMES:END -->
+ - 😝 [White culture](http://9gag.com/gag/amo4xb9)
+ - 😝 [Finally someone said it](http://9gag.com/gag/aW43oPd)
+ - 💣 [How to multiply plants quickly!](http://9gag.com/gag/aAyz2bg)
+ - 😝 [Well\u2026 here we are.\u201d](http://9gag.com/gag/a7oR94A)
+ - 👉 [Controversial opinion](http://9gag.com/gag/abAnxGO)<!-- MEMES:END -->
 
 ---
 

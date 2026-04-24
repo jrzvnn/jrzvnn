@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France&#39;s forecasting office refers suspected weather sensor tampering at Paris airport to police, after detecting unusual readings alongside Polymarket betting &lpar;Joe Wertz/Bloomberg&rpar;](http://www.techmeme.com/260424/p24#a260424p24)
+ - [360-degree cameras have a new superpower](https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity)
  - [Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?](https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings)
  - [The Latest Push to Extend Key US Spy Powers Is Still a Mess](https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess/)
- - [India&#39;s central bank cancels Paytm Payments Bank&#39;s banking license, after imposing business curbs over non-compliance with rules in January 2024 &lpar;Gopika Gopakumar/Reuters&rpar;](http://www.techmeme.com/260424/p23#a260424p23)
- - [Apple&#39;s Next CEO Needs to Launch a Killer AI Product](https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/)
- - [AirPods, Touch Bars, and the rest of Tim Cook&amp;#8217;s legacy](https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition)<!-- TECH:END -->
+ - [India&#39;s central bank cancels Paytm Payments Bank&#39;s banking license, after imposing business curbs over non-compliance with rules in January 2024 &lpar;Gopika Gopakumar/Reuters&rpar;](http://www.techmeme.com/260424/p23#a260424p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

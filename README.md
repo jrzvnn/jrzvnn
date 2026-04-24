@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US CFTC sues New York, accusing the state of invading its authority to regulate prediction markets by filing lawsuits against Coinbase and Gemini &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260424/p43#a260424p43)
  - [Diplomatic cable: US State Department has ordered a global push to bring attention to what it says are efforts by Chinese companies to steal IP from US AI labs &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260424/p42#a260424p42)
  - [Thrive is taking a stake in the San Francisco Giants via a new venture that will invest in franchises and cultural institutions that can&#39;t be replicated by AI &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260424/p41#a260424p41)
  - [Brazil&#39;s Finance Minister Dario Durigan says the country has blocked prediction market platforms and tightened derivatives rules to curb &quot;bet-like&quot; products &lpar;Reuters&rpar;](http://www.techmeme.com/260424/p40#a260424p40)
- - [Sources: the WH pushed out the head of the Center for AI Standards and Innovation, Collin Burns, a former Anthropic researcher, after just four days on the job &lpar;Ian Duncan/Washington Post&rpar;](http://www.techmeme.com/260424/p39#a260424p39)
- - [Your Air Purifier Could Spit Pollutants Back Into the Air if You Make This One Mistake](https://www.cnet.com/home/kitchen-and-household/air-purifier-could-spit-pollutants-back-into-air-make-one-mistake/)<!-- TECH:END -->
+ - [Sources: the WH pushed out the head of the Center for AI Standards and Innovation, Collin Burns, a former Anthropic researcher, after just four days on the job &lpar;Ian Duncan/Washington Post&rpar;](http://www.techmeme.com/260424/p39#a260424p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

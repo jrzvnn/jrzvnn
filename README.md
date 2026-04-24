@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Diplomatic cable: US State Department has ordered a global push to bring attention to what it says are efforts by Chinese companies to steal IP from US AI labs &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260424/p42#a260424p42)
+ - [Thrive is taking a stake in the San Francisco Giants via a new venture that will invest in franchises and cultural institutions that can&#39;t be replicated by AI &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260424/p41#a260424p41)
  - [Brazil&#39;s Finance Minister Dario Durigan says the country has blocked prediction market platforms and tightened derivatives rules to curb &quot;bet-like&quot; products &lpar;Reuters&rpar;](http://www.techmeme.com/260424/p40#a260424p40)
  - [Sources: the WH pushed out the head of the Center for AI Standards and Innovation, Collin Burns, a former Anthropic researcher, after just four days on the job &lpar;Ian Duncan/Washington Post&rpar;](http://www.techmeme.com/260424/p39#a260424p39)
- - [Series, founded by two seniors at Yale to build an AI-powered social network on iMessage, raised a $5.1M pre-seed from Reddit CEO Steve Huffman and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260424/p38#a260424p38)
- - [The Wire by Acutus, an AI-generated site with articles attacking AI industry critics, appears to be funded by the OpenAI-backed super PAC Leading The Future &lpar;@themidasproj&rpar;](http://www.techmeme.com/260424/p37#a260424p37)
- - [Nvidia stock jumps 4.3% to close at a record for the first time since Oct., pushing Nvidia&#39;s market cap past $5T, as a rally in Intel pushed chipmakers higher &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260424/p36#a260424p36)<!-- TECH:END -->
+ - [Your Air Purifier Could Spit Pollutants Back Into the Air if You Make This One Mistake](https://www.cnet.com/home/kitchen-and-household/air-purifier-could-spit-pollutants-back-into-air-make-one-mistake/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brazil&#39;s Finance Minister Dario Durigan says the country has blocked prediction market platforms and tightened derivatives rules to curb &quot;bet-like&quot; products &lpar;Reuters&rpar;](http://www.techmeme.com/260424/p40#a260424p40)
+ - [Sources: the WH pushed out the head of the Center for AI Standards and Innovation, Collin Burns, a former Anthropic researcher, after just four days on the job &lpar;Ian Duncan/Washington Post&rpar;](http://www.techmeme.com/260424/p39#a260424p39)
  - [Series, founded by two seniors at Yale to build an AI-powered social network on iMessage, raised a $5.1M pre-seed from Reddit CEO Steve Huffman and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260424/p38#a260424p38)
  - [The Wire by Acutus, an AI-generated site with articles attacking AI industry critics, appears to be funded by the OpenAI-backed super PAC Leading The Future &lpar;@themidasproj&rpar;](http://www.techmeme.com/260424/p37#a260424p37)
- - [Nvidia stock jumps 4.3% to close at a record for the first time since Oct., pushing Nvidia&#39;s market cap past $5T, as a rally in Intel pushed chipmakers higher &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260424/p36#a260424p36)
- - [Sam Altman apologizes to a Canadian town for not alerting police to the activity of a mass shooting suspect when her ChatGPT account was suspended &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260424/p35#a260424p35)
- - [Intel stock closes up 23.6%, its best performance since October 1987, as Intel shows signs of renewed growth amid the AI boom; the stock is up 124% YTD &lpar;CNBC&rpar;](http://www.techmeme.com/260424/p34#a260424p34)<!-- TECH:END -->
+ - [Nvidia stock jumps 4.3% to close at a record for the first time since Oct., pushing Nvidia&#39;s market cap past $5T, as a rally in Intel pushed chipmakers higher &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260424/p36#a260424p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

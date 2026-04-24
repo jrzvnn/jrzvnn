@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)
- - 😝 [He built a script that calls back spam callers and traps them in an endless loop.](http://9gag.com/gag/agmz4e6)
- - 💣 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
+ - 😝 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - 😝 [Guys...](http://9gag.com/gag/aO8LpeD)
+ - 💣 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
  - 👉 [The future is now](http://9gag.com/gag/aKGoeKZ)<!-- MEMES:END -->
 

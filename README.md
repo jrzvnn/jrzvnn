@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019s a micro aggression.](http://9gag.com/gag/a87xwqd)
- - 😝 [Be happy](http://9gag.com/gag/azxpYzx)
- - 💣 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
+ - 😝 [Dog almost takes pepsi challenge](http://9gag.com/gag/a2v6OGp)
+ - 😝 [The power of music and a united crowd](http://9gag.com/gag/adBDoWZ)
+ - 💣 [The future is now](http://9gag.com/gag/aKGoeKZ)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
  - 👉 [Guys...](http://9gag.com/gag/aO8LpeD)<!-- MEMES:END -->
 

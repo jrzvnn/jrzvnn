@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Google Cloud CEO Thomas Kurian on building infrastructure for AI agents, balancing internal needs and the demands of customers like Anthropic, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260424/p1#a260424p1)
- - [Trump threatens to &quot;put a big tariff on the UK&quot; if it does not drop its digital services tax, which he views as unfairly targeting US tech companies &lpar;Connor Stringer/Telegraph&rpar;](http://www.techmeme.com/260423/p64#a260423p64)
- - [SAP reports Q1 revenue up 6% YoY to €9.56B, vs. €9.53B est., non-IFRS operating profit up 17% to €2.87B, cloud revenue up 19% to €5.96B; SAP up 10%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p63#a260423p63)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, April 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-24/)
- - [Singapore is slowly emerging as a neutral ground for AI companies, offering an alternative place to build without worrying about US or Chinese regulations &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p62#a260423p62)<!-- TECH:END -->
+ - [Staffing experts say India&#39;s IT sector is seeing a rise in replacement hiring as companies adapt to Gen Z staff leaving jobs faster than previous generations &lpar;Tanya Pandey/The Economic Times&rpar;](http://www.techmeme.com/260424/p9#a260424p9)
+ - [Sources: Cursor hit $2.7B in annualized sales in March, up ~14x from a year ago, and reported a ~$900M loss in its last fiscal year on $770M in total revenue &lpar;The Information&rpar;](http://www.techmeme.com/260424/p8#a260424p8)
+ - [China&#39;s top market regulator says it is launching a six-month crackdown on the country&#39;s online ad sector, targeting malpractices including the misuse of AI &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/260424/p7#a260424p7)
+ - [The AI boom has pushed the market cap of Shenzhen-listed Zhongji Innolight, a leading optical communications device maker, close to $146B, a record high &lpar;Bloomberg&rpar;](http://www.techmeme.com/260424/p6#a260424p6)
+ - [DeepSeek V4 Pro has 1.6T total parameters, its largest model by that metric, and V4 Flash has 284B parameters; both models have a context window of 1M tokens &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/260424/p5#a260424p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

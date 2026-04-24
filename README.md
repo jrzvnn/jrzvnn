@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waking up with golden shower](http://9gag.com/gag/a9ygmXm)
- - 😝 [Mystique](http://9gag.com/gag/aByBXyQ)
- - 💣 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
- - 😝 [The police was looking for her based on her instagram...but she used some moderate filters](http://9gag.com/gag/a87xeQd)
- - 👉 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)<!-- MEMES:END -->
+ - 😝 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
+ - 😝 [Just Guys Being Dudes](http://9gag.com/gag/a87x23d)
+ - 💣 [Humour me](http://9gag.com/gag/a87xKWe)
+ - 😝 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
+ - 👉 [Absolute legends for this move](http://9gag.com/gag/a87xwAd)<!-- MEMES:END -->
 
 ---
 

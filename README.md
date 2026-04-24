@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
  - 😝 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
+ - 💣 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
  - 😝 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
- - 💣 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
- - 😝 [A Japanese police officer is kindly reminding foreigners about public manners](http://9gag.com/gag/aYQX18m)
- - 👉 [Mystique](http://9gag.com/gag/aByBXyQ)<!-- MEMES:END -->
+ - 👉 [Reflexes like a sloth.](http://9gag.com/gag/amo4xE6)<!-- MEMES:END -->
 
 ---
 

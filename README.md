@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Staffing experts say India&#39;s IT sector is seeing a rise in replacement hiring as companies adapt to Gen Z staff leaving jobs faster than previous generations &lpar;Tanya Pandey/The Economic Times&rpar;](http://www.techmeme.com/260424/p9#a260424p9)
- - [Sources: Cursor hit $2.7B in annualized sales in March, up ~14x from a year ago, and reported a ~$900M loss in its last fiscal year on $770M in total revenue &lpar;The Information&rpar;](http://www.techmeme.com/260424/p8#a260424p8)
- - [China&#39;s top market regulator says it is launching a six-month crackdown on the country&#39;s online ad sector, targeting malpractices including the misuse of AI &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/260424/p7#a260424p7)
- - [The AI boom has pushed the market cap of Shenzhen-listed Zhongji Innolight, a leading optical communications device maker, close to $146B, a record high &lpar;Bloomberg&rpar;](http://www.techmeme.com/260424/p6#a260424p6)
- - [DeepSeek V4 Pro has 1.6T total parameters, its largest model by that metric, and V4 Flash has 284B parameters; both models have a context window of 1M tokens &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/260424/p5#a260424p5)<!-- TECH:END -->
+ - [Canada&#39;s Cohere and Germany&#39;s Aleph Alpha agree to a merger deal valuing the combined group at ~$20B to work on sovereign AI; both governments support the deal &lpar;Financial Times&rpar;](http://www.techmeme.com/260424/p14#a260424p14)
+ - [Saros is pure action nirvana](https://www.theverge.com/entertainment/917462/saros-review-ps5)
+ - [EY survey of 18,000 people across 23 countries: ~49% of consumers have used AI over the past six months to support their savings and investment decisions &lpar;Emma Dunkley/Financial Times&rpar;](http://www.techmeme.com/260424/p13#a260424p13)
+ - [Tracxn: global edtech funding fell from $16.7B in 2021 to $2.6B in 2025, while the number of startups launched dropped from 10,491 in 2021 to just 645 in 2025 &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/260424/p12#a260424p12)
+ - [Sources: India is piloting 10 schemes to test whether its CBDC, the e-rupee, can deliver welfare payments more efficiently, as it looks to boost e-rupee usage &lpar;Reuters&rpar;](http://www.techmeme.com/260424/p11#a260424p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

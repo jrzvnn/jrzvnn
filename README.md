@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada&#39;s Cohere and Germany&#39;s Aleph Alpha agree to a merger deal valuing the combined group at ~$20B to work on sovereign AI; both governments support the deal &lpar;Financial Times&rpar;](http://www.techmeme.com/260424/p14#a260424p14)
- - [Saros is pure action nirvana](https://www.theverge.com/entertainment/917462/saros-review-ps5)
- - [EY survey of 18,000 people across 23 countries: ~49% of consumers have used AI over the past six months to support their savings and investment decisions &lpar;Emma Dunkley/Financial Times&rpar;](http://www.techmeme.com/260424/p13#a260424p13)
- - [Tracxn: global edtech funding fell from $16.7B in 2021 to $2.6B in 2025, while the number of startups launched dropped from 10,491 in 2021 to just 645 in 2025 &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/260424/p12#a260424p12)
- - [Sources: India is piloting 10 schemes to test whether its CBDC, the e-rupee, can deliver welfare payments more efficiently, as it looks to boost e-rupee usage &lpar;Reuters&rpar;](http://www.techmeme.com/260424/p11#a260424p11)<!-- TECH:END -->
+ - [As part of the Cohere-Aleph Alpha deal, Aleph Alpha backer Schwarz Group plans to invest $600M in Cohere&#39;s Series E, which a source says is set to close in 2026 &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260424/p16#a260424p16)
+ - [China’s DeepSeek previews new AI model a year after jolting US rivals](https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model)
+ - [Prestigious photo contest answers ‘what is a photo?’](https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo)
+ - [Norway plans to ban children from using social media until they turn 16; the government says it will introduce a bill in parliament by the end of 2026 &lpar;Terje Solsvik/Reuters&rpar;](http://www.techmeme.com/260424/p15#a260424p15)
+ - [The Men Behind Your Favorite AI Gay Thirst Traps](https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute legends for this move](http://9gag.com/gag/a87xwAd)
- - 😝 [Think tylor think](http://9gag.com/gag/aoyQYEx)
- - 💣 [I&#39;m one month in. Sharing it with you degenerates because my family and friends doesn&#39;t know I had this issue.](http://9gag.com/gag/a87xw0e)
+ - 😝 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
+ - 😝 [Mystique](http://9gag.com/gag/aByBXyQ)
+ - 💣 [No need for interpreter](http://9gag.com/gag/amo4Vqj)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [That\u2019s a micro aggression.](http://9gag.com/gag/a87xwqd)<!-- MEMES:END -->
+ - 👉 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
- - 😝 [No need for interpreter](http://9gag.com/gag/amo4Vqj)
- - 💣 [Mystique](http://9gag.com/gag/aByBXyQ)
+ - 😝 [A great motivator I see](http://9gag.com/gag/a2v62we)
+ - 😝 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - 💣 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)<!-- MEMES:END -->
+ - 👉 [Mystique](http://9gag.com/gag/aByBXyQ)<!-- MEMES:END -->
 
 ---
 

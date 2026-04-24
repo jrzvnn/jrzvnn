@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/)
- - [Sources: JPMorgan Chase and other banks struggled to spread the risk of billions in loans they made for data centers leased to Oracle in Texas and Wisconsin &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260424/p27#a260424p27)
- - [BMW is one step closer to selling you a color-changing car](https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing)
- - [iPhone Fold or iPhone Ultra: What to expect from the folding iPhone](https://appleinsider.com/articles/26/04/24/iphone-fold-or-iphone-ultra-what-to-expect-from-the-folding-iphone?utm_source=rss)
- - [Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations](https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale)<!-- TECH:END -->
+ - [Give Mom Warm Coffee Year-Long With This Ember Smart Mug Deal](https://www.wired.com/story/ember-mug-2-deal-april-2026/)
+ - [Instagram&#39;s New &#39;Instants&#39; App Could Let You Ditch the Edits and Just Be Real for 24 Hours](https://www.cnet.com/news/social-media/instagrams-new-instants-app-lets-you-share-disappearing-photos-and-videos/)
+ - [Best Cheap Phone of 2026: You Don’t Need to Pay a Lot for Your Next Phone](https://www.cnet.com/tech/mobile/best-cheap-phone/)
+ - [How CNET Tests Robot Vacuums](https://www.cnet.com/home/kitchen-and-household/how-cnet-tests-robot-vacuums/)
+ - [Best Robot Vacuums: After Testing 47 Vacs We Have an Unexpected Winner](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

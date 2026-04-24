@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As part of the Cohere-Aleph Alpha deal, Aleph Alpha backer Schwarz Group plans to invest $600M in Cohere&#39;s Series E, which a source says is set to close in 2026 &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260424/p16#a260424p16)
- - [China’s DeepSeek previews new AI model a year after jolting US rivals](https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model)
- - [Prestigious photo contest answers ‘what is a photo?’](https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo)
- - [Norway plans to ban children from using social media until they turn 16; the government says it will introduce a bill in parliament by the end of 2026 &lpar;Terje Solsvik/Reuters&rpar;](http://www.techmeme.com/260424/p15#a260424p15)
- - [The Men Behind Your Favorite AI Gay Thirst Traps](https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/)<!-- TECH:END -->
+ - [VMax New V4 Electric Scooter Review: Unleash the Beast](https://www.wired.com/review/vmax-new-vx4-electric-scooter/)
+ - [They Wanted to Join Raya. They’ve Been on the Waiting List for Years](https://www.wired.com/story/raya-waitlist-years/)
+ - [Sources: China recently told tech companies, including ByteDance and Moonshot AI, to reject US capital without state approval, after Meta&#39;s Manus acquisition &lpar;Bloomberg&rpar;](http://www.techmeme.com/260424/p18#a260424p18)
+ - [Best Merino Wool T-Shirts &lpar;2026&rpar;: Ibex, Icebreaker, Unbound Merino](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
+ - [Alibaba says its Qwen AI models will be integrated into BYD, Volkswagen, and other cars, letting users buy food and tickets via voice commands on select models &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/260424/p17#a260424p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

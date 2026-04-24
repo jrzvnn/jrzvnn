@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The person who allegedly leaked Paramount’s new Avatar movie has been arrested](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus)
- - [Vantrue Pilot 2 review: Thermal imaging dashcam for pro drivers](https://appleinsider.com/articles/26/04/24/vantrue-pilot-2-review-thermal-imaging-dashcam-for-pro-drivers?utm_source=rss)
- - [X launches its standalone messaging app XChat on the App Store, saying it supports end-to-end encryption and has no ads &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260424/p29#a260424p29)
- - [Bond Is a New Social Media App That Encourages You to Get Offline](https://www.cnet.com/news/social-media/bond-app-discourages-doomscrolling-friends-irl-news/)
- - [Sources: AI startups are struggling to access Nvidia GPUs as Microsoft and other cloud providers divert supply to internal teams and large customers like OpenAI &lpar;The Information&rpar;](http://www.techmeme.com/260424/p28#a260424p28)<!-- TECH:END -->
+ - [Microsoft will let you pause Windows Updates indefinitely, 35 days at a time](https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days)
+ - [ComfyUI, which gives creators granular control over image, video, and audio outputs from diffusion models, raised $30M at a $500M valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260424/p33#a260424p33)
+ - [Sources: Stanford University professor James Zou aims to raise ~$100M at a ~$1B valuation for Human Intelligence, which aims to use AI to study physiology &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260424/p32#a260424p32)
+ - [Maine&#39;s governor vetoes a bill that would have led to US&#39; first state pause on data centers, citing its failure to exempt a project in a distressed mill town &lpar;Jenna Russell/New York Times&rpar;](http://www.techmeme.com/260424/p31#a260424p31)
+ - [Source: Meta has a system in India to &quot;automatically restrict content, at scale&quot; to meet local law, massively expanding the country&#39;s censorship powers &lpar;Aroon Deep/The Hindu&rpar;](http://www.techmeme.com/260424/p30#a260424p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

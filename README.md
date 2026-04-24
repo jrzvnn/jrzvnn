@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A great motivator I see](http://9gag.com/gag/a2v62we)
- - 😝 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
- - 💣 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
+ - 😝 [Hungru games bow](http://9gag.com/gag/ajPeK3g)
+ - 😝 [He built a script that calls back spam callers and traps them in an endless loop.](http://9gag.com/gag/agmz4e6)
+ - 💣 [Absolute legends for this move](http://9gag.com/gag/a87xwAd)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [Mystique](http://9gag.com/gag/aByBXyQ)<!-- MEMES:END -->
+ - 👉 [Think tylor think](http://9gag.com/gag/aoyQYEx)<!-- MEMES:END -->
 
 ---
 

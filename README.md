@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid](https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/)
- - [Proposed mandatory clean energy guidelines could mean less participation, Apple argues](https://appleinsider.com/articles/26/04/23/proposed-mandatory-clean-energy-guidelines-could-mean-less-participation-apple-argues?utm_source=rss)
- - [US arrests soldier who allegedly made $400k on Maduro Polymarket bets](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke)
- - [Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro](https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle)
- - [Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)<!-- TECH:END -->
+ - [Sources: AI coding firm Cognition is in early talks to raise hundreds of millions of dollars at a $25B valuation, up from $10.2B announced in September 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260423/p61#a260423p61)
+ - [Meta Adds New Live Chat Feature to Threads for NBA Playoffs, Major Events](https://www.cnet.com/news/social-media/meta-threads-launches-live-chats/)
+ - [LincPlus LincStation E1 review: Compact, entry-level, and fast enough](https://appleinsider.com/articles/26/04/23/lincplus-lincstation-e1-review-compact-entry-level-and-fast-enough?utm_source=rss)
+ - [&#39;Pluribus&#39; &amp; &#39;Come See Me In The Good Light&#39; win Peabody awards for Apple TV](https://appleinsider.com/articles/26/04/23/pluribus-come-see-me-in-the-good-light-win-peabody-awards-for-apple-tv?utm_source=rss)
+ - [Meta Centralizes Access to Facebook, Instagram, AI Glasses and More Apps](https://www.cnet.com/news/social-media/meta-account-centralized-hub-access-facebook-instagram-apps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

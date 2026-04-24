@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
- - 😝 [Trust me, i do it all the time](http://9gag.com/gag/aQzWOqK)
- - 💣 [No need for interpreter](http://9gag.com/gag/amo4Vqj)
+ - 😝 [Humour me](http://9gag.com/gag/a87xKWe)
+ - 😝 [Be happy](http://9gag.com/gag/azxpYzx)
+ - 💣 [`There&#39;s no way they&#39;ll actually sit in the- OHHHHH MY GOD`](http://9gag.com/gag/aGy471n)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
+ - 👉 [German Shepherds if they were constantly coked up](http://9gag.com/gag/aGy47dK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s forecasting office refers suspected weather sensor tampering at Paris airport to police, after detecting unusual readings alongside Polymarket betting &lpar;Joe Wertz/Bloomberg&rpar;](http://www.techmeme.com/260424/p24#a260424p24)
- - [360-degree cameras have a new superpower](https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity)
- - [Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?](https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings)
- - [The Latest Push to Extend Key US Spy Powers Is Still a Mess](https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess/)
- - [India&#39;s central bank cancels Paytm Payments Bank&#39;s banking license, after imposing business curbs over non-compliance with rules in January 2024 &lpar;Gopika Gopakumar/Reuters&rpar;](http://www.techmeme.com/260424/p23#a260424p23)<!-- TECH:END -->
+ - [The RAM shortage could get even worse if Samsung labor protests cut production](https://www.theverge.com/tech/918301/samsung-south-korea-union-protests)
+ - [Designer Baby Companies Are in Turmoil](https://www.wired.com/story/designer-baby-companies-are-in-turmoil/)
+ - [How Project Maven taught the military to love AI](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson)
+ - [Xreal’s best AR glasses are $599 for good now](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale)
+ - [Apple&#39;s entry-level iPhone 18 rumored to get 50% more RAM](https://appleinsider.com/articles/26/04/24/apples-entry-level-iphone-18-rumored-to-get-50-more-ram?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

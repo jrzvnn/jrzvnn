@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump phone still isn’t real](https://www.theverge.com/tech/918011/trump-mobile-t1-phone-real-redesign-release-date)
- - [I don&amp;#8217;t think Gwyneth Paltrow knows what a peptide is](https://www.theverge.com/column/918084/optimizer-gwyneth-paltrow-peptides)
- - [Helsinki-based Verda, formerly Datacrunch, which aims to become Europe&#39;s first AI cloud hyperscaler, raised €100M in debt and equity &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/260424/p22#a260424p22)
- - [Chatbots take a back seat as new GPT-5.5 model focuses on getting work done](https://appleinsider.com/articles/26/04/24/chatbots-take-a-back-seat-as-new-gpt-55-model-focuses-on-getting-work-done?utm_source=rss)
- - [Meta and Amazon reach a multi-billion, multiyear deal for Meta to rent hundreds of thousands of Amazon&#39;s Graviton chips for its AI efforts &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260424/p21#a260424p21)<!-- TECH:END -->
+ - [Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?](https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings)
+ - [The Latest Push to Extend Key US Spy Powers Is Still a Mess](https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess/)
+ - [India&#39;s central bank cancels Paytm Payments Bank&#39;s banking license, after imposing business curbs over non-compliance with rules in January 2024 &lpar;Gopika Gopakumar/Reuters&rpar;](http://www.techmeme.com/260424/p23#a260424p23)
+ - [Apple&#39;s Next CEO Needs to Launch a Killer AI Product](https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/)
+ - [AirPods, Touch Bars, and the rest of Tim Cook&amp;#8217;s legacy](https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

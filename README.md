@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei plans to spend up to $11.7B over five years to boost compute for training and testing autonomous cars, with ~$2.64B for autonomous driving R&amp;D in 2026 &lpar;Daniel Ren/South China Morning Post&rpar;](http://www.techmeme.com/260424/p19#a260424p19)
- - [Dyson PencilVac Review &lpar;2026&rpar;: Limited but Handy](https://www.wired.com/review/dyson-pencilvac-review/)
- - [Elon Musk and Sam Altman’s court showdown will dish the dirt](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip)
- - [Repurposing Macs: How to get more out of your obsolete hardware](https://appleinsider.com/inside/mac/tips/repurposing-macs-how-to-get-more-out-of-your-obsolete-hardware?utm_source=rss)
- - [Instagram has launched another Snapchat clone](https://www.theverge.com/tech/918061/instagram-instants-app-launch-snapchat-bereal)<!-- TECH:END -->
+ - [The Trump phone still isn’t real](https://www.theverge.com/tech/918011/trump-mobile-t1-phone-real-redesign-release-date)
+ - [I don&amp;#8217;t think Gwyneth Paltrow knows what a peptide is](https://www.theverge.com/column/918084/optimizer-gwyneth-paltrow-peptides)
+ - [Helsinki-based Verda, formerly Datacrunch, which aims to become Europe&#39;s first AI cloud hyperscaler, raised €100M in debt and equity &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/260424/p22#a260424p22)
+ - [Chatbots take a back seat as new GPT-5.5 model focuses on getting work done](https://appleinsider.com/articles/26/04/24/chatbots-take-a-back-seat-as-new-gpt-55-model-focuses-on-getting-work-done?utm_source=rss)
+ - [Meta and Amazon reach a multi-billion, multiyear deal for Meta to rent hundreds of thousands of Amazon&#39;s Graviton chips for its AI efforts &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260424/p21#a260424p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

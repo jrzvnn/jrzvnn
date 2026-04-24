@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft will let you pause Windows Updates indefinitely, 35 days at a time](https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days)
- - [ComfyUI, which gives creators granular control over image, video, and audio outputs from diffusion models, raised $30M at a $500M valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260424/p33#a260424p33)
- - [Sources: Stanford University professor James Zou aims to raise ~$100M at a ~$1B valuation for Human Intelligence, which aims to use AI to study physiology &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260424/p32#a260424p32)
- - [Maine&#39;s governor vetoes a bill that would have led to US&#39; first state pause on data centers, citing its failure to exempt a project in a distressed mill town &lpar;Jenna Russell/New York Times&rpar;](http://www.techmeme.com/260424/p31#a260424p31)
- - [Source: Meta has a system in India to &quot;automatically restrict content, at scale&quot; to meet local law, massively expanding the country&#39;s censorship powers &lpar;Aroon Deep/The Hindu&rpar;](http://www.techmeme.com/260424/p30#a260424p30)<!-- TECH:END -->
+ - [Series, founded by two seniors at Yale to build an AI-powered social network on iMessage, raised a $5.1M pre-seed from Reddit CEO Steve Huffman and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260424/p38#a260424p38)
+ - [The Wire by Acutus, an AI-generated site with articles attacking AI industry critics, appears to be funded by the OpenAI-backed super PAC Leading The Future &lpar;@themidasproj&rpar;](http://www.techmeme.com/260424/p37#a260424p37)
+ - [Nvidia stock jumps 4.3% to close at a record for the first time since Oct., pushing Nvidia&#39;s market cap past $5T, as a rally in Intel pushed chipmakers higher &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260424/p36#a260424p36)
+ - [Sam Altman apologizes to a Canadian town for not alerting police to the activity of a mass shooting suspect when her ChatGPT account was suspended &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260424/p35#a260424p35)
+ - [Intel stock closes up 23.6%, its best performance since October 1987, as Intel shows signs of renewed growth amid the AI boom; the stock is up 124% YTD &lpar;CNBC&rpar;](http://www.techmeme.com/260424/p34#a260424p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

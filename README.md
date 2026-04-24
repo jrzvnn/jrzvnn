@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI coding firm Cognition is in early talks to raise hundreds of millions of dollars at a $25B valuation, up from $10.2B announced in September 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260423/p61#a260423p61)
- - [Meta Adds New Live Chat Feature to Threads for NBA Playoffs, Major Events](https://www.cnet.com/news/social-media/meta-threads-launches-live-chats/)
- - [LincPlus LincStation E1 review: Compact, entry-level, and fast enough](https://appleinsider.com/articles/26/04/23/lincplus-lincstation-e1-review-compact-entry-level-and-fast-enough?utm_source=rss)
- - [&#39;Pluribus&#39; &amp; &#39;Come See Me In The Good Light&#39; win Peabody awards for Apple TV](https://appleinsider.com/articles/26/04/23/pluribus-come-see-me-in-the-good-light-win-peabody-awards-for-apple-tv?utm_source=rss)
- - [Meta Centralizes Access to Facebook, Instagram, AI Glasses and More Apps](https://www.cnet.com/news/social-media/meta-account-centralized-hub-access-facebook-instagram-apps/)<!-- TECH:END -->
+ - [Q&amp;A with Google Cloud CEO Thomas Kurian on building infrastructure for AI agents, balancing internal needs and the demands of customers like Anthropic, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260424/p1#a260424p1)
+ - [Trump threatens to &quot;put a big tariff on the UK&quot; if it does not drop its digital services tax, which he views as unfairly targeting US tech companies &lpar;Connor Stringer/Telegraph&rpar;](http://www.techmeme.com/260423/p64#a260423p64)
+ - [SAP reports Q1 revenue up 6% YoY to €9.56B, vs. €9.53B est., non-IFRS operating profit up 17% to €2.87B, cloud revenue up 19% to €5.96B; SAP up 10%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p63#a260423p63)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, April 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-24/)
+ - [Singapore is slowly emerging as a neutral ground for AI companies, offering an alternative place to build without worrying about US or Chinese regulations &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p62#a260423p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

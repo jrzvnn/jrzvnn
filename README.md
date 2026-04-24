@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Give Mom Warm Coffee Year-Long With This Ember Smart Mug Deal](https://www.wired.com/story/ember-mug-2-deal-april-2026/)
- - [Instagram&#39;s New &#39;Instants&#39; App Could Let You Ditch the Edits and Just Be Real for 24 Hours](https://www.cnet.com/news/social-media/instagrams-new-instants-app-lets-you-share-disappearing-photos-and-videos/)
- - [Best Cheap Phone of 2026: You Don’t Need to Pay a Lot for Your Next Phone](https://www.cnet.com/tech/mobile/best-cheap-phone/)
- - [How CNET Tests Robot Vacuums](https://www.cnet.com/home/kitchen-and-household/how-cnet-tests-robot-vacuums/)
- - [Best Robot Vacuums: After Testing 47 Vacs We Have an Unexpected Winner](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/)<!-- TECH:END -->
+ - [The person who allegedly leaked Paramount’s new Avatar movie has been arrested](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus)
+ - [Vantrue Pilot 2 review: Thermal imaging dashcam for pro drivers](https://appleinsider.com/articles/26/04/24/vantrue-pilot-2-review-thermal-imaging-dashcam-for-pro-drivers?utm_source=rss)
+ - [X launches its standalone messaging app XChat on the App Store, saying it supports end-to-end encryption and has no ads &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260424/p29#a260424p29)
+ - [Bond Is a New Social Media App That Encourages You to Get Offline](https://www.cnet.com/news/social-media/bond-app-discourages-doomscrolling-friends-irl-news/)
+ - [Sources: AI startups are struggling to access Nvidia GPUs as Microsoft and other cloud providers divert supply to internal teams and large customers like OpenAI &lpar;The Information&rpar;](http://www.techmeme.com/260424/p28#a260424p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

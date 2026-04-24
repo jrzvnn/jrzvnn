@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog almost takes pepsi challenge](http://9gag.com/gag/a2v6OGp)
- - 😝 [The power of music and a united crowd](http://9gag.com/gag/adBDoWZ)
- - 💣 [The future is now](http://9gag.com/gag/aKGoeKZ)
+ - 😝 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
+ - 😝 [Trust me, i do it all the time](http://9gag.com/gag/aQzWOqK)
+ - 💣 [No need for interpreter](http://9gag.com/gag/amo4Vqj)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [Guys...](http://9gag.com/gag/aO8LpeD)<!-- MEMES:END -->
+ - 👉 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
 
 ---
 

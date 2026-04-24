@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The RAM shortage could get even worse if Samsung labor protests cut production](https://www.theverge.com/tech/918301/samsung-south-korea-union-protests)
- - [Designer Baby Companies Are in Turmoil](https://www.wired.com/story/designer-baby-companies-are-in-turmoil/)
- - [How Project Maven taught the military to love AI](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson)
- - [Xreal’s best AR glasses are $599 for good now](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale)
- - [Apple&#39;s entry-level iPhone 18 rumored to get 50% more RAM](https://appleinsider.com/articles/26/04/24/apples-entry-level-iphone-18-rumored-to-get-50-more-ram?utm_source=rss)<!-- TECH:END -->
+ - [Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/)
+ - [Sources: JPMorgan Chase and other banks struggled to spread the risk of billions in loans they made for data centers leased to Oracle in Texas and Wisconsin &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260424/p27#a260424p27)
+ - [BMW is one step closer to selling you a color-changing car](https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing)
+ - [iPhone Fold or iPhone Ultra: What to expect from the folding iPhone](https://appleinsider.com/articles/26/04/24/iphone-fold-or-iphone-ultra-what-to-expect-from-the-folding-iphone?utm_source=rss)
+ - [Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations](https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

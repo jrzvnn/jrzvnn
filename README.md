@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
- - 😝 [Just Guys Being Dudes](http://9gag.com/gag/a87x23d)
- - 💣 [Humour me](http://9gag.com/gag/a87xKWe)
- - 😝 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
- - 👉 [Absolute legends for this move](http://9gag.com/gag/a87xwAd)<!-- MEMES:END -->
+ - 😝 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
+ - 😝 [A Japanese police officer is kindly reminding foreigners about public manners](http://9gag.com/gag/aYQX18m)
+ - 💣 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
+ - 😝 [Watch first 3 seconds of the video, pause it and comment what this guy wants to do, then watch full clip](http://9gag.com/gag/awyWd3W)
+ - 👉 [Mystique](http://9gag.com/gag/aByBXyQ)<!-- MEMES:END -->
 
 ---
 

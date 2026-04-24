@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VMax New V4 Electric Scooter Review: Unleash the Beast](https://www.wired.com/review/vmax-new-vx4-electric-scooter/)
- - [They Wanted to Join Raya. They’ve Been on the Waiting List for Years](https://www.wired.com/story/raya-waitlist-years/)
- - [Sources: China recently told tech companies, including ByteDance and Moonshot AI, to reject US capital without state approval, after Meta&#39;s Manus acquisition &lpar;Bloomberg&rpar;](http://www.techmeme.com/260424/p18#a260424p18)
- - [Best Merino Wool T-Shirts &lpar;2026&rpar;: Ibex, Icebreaker, Unbound Merino](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
- - [Alibaba says its Qwen AI models will be integrated into BYD, Volkswagen, and other cars, letting users buy food and tickets via voice commands on select models &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/260424/p17#a260424p17)<!-- TECH:END -->
+ - [Huawei plans to spend up to $11.7B over five years to boost compute for training and testing autonomous cars, with ~$2.64B for autonomous driving R&amp;D in 2026 &lpar;Daniel Ren/South China Morning Post&rpar;](http://www.techmeme.com/260424/p19#a260424p19)
+ - [Dyson PencilVac Review &lpar;2026&rpar;: Limited but Handy](https://www.wired.com/review/dyson-pencilvac-review/)
+ - [Elon Musk and Sam Altman’s court showdown will dish the dirt](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip)
+ - [Repurposing Macs: How to get more out of your obsolete hardware](https://appleinsider.com/inside/mac/tips/repurposing-macs-how-to-get-more-out-of-your-obsolete-hardware?utm_source=rss)
+ - [Instagram has launched another Snapchat clone](https://www.theverge.com/tech/918061/instagram-instants-app-launch-snapchat-bereal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

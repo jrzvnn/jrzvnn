@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hungru games bow](http://9gag.com/gag/ajPeK3g)
- - 😝 [He built a script that calls back spam callers and traps them in an endless loop.](http://9gag.com/gag/agmz4e6)
- - 💣 [Absolute legends for this move](http://9gag.com/gag/a87xwAd)
+ - 😝 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
+ - 😝 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - 💣 [Mystique](http://9gag.com/gag/aByBXyQ)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [Think tylor think](http://9gag.com/gag/aoyQYEx)<!-- MEMES:END -->
+ - 👉 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
 
 ---
 

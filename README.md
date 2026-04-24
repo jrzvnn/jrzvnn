@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
  - 😝 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
- - 💣 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
+ - 😝 [No need for interpreter](http://9gag.com/gag/amo4Vqj)
+ - 💣 [Mystique](http://9gag.com/gag/aByBXyQ)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [Mind-blowing detail in this marble handkerchief](http://9gag.com/gag/a6ZYj3q)<!-- MEMES:END -->
+ - 👉 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)<!-- MEMES:END -->
 
 ---
 

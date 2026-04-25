@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
- - 😝 [Zero control skills](http://9gag.com/gag/aAyzv4d)
+ - 😝 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)
+ - 😝 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)
  - 💣 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
  - 😝 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
- - 👉 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)<!-- MEMES:END -->
+ - 👉 [Behold](http://9gag.com/gag/aMVMy81)<!-- MEMES:END -->
 
 ---
 

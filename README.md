@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)
- - 😝 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)
- - 💣 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
+ - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
+ - 😝 [Zero control skills](http://9gag.com/gag/aAyzv4d)
+ - 💣 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
  - 😝 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
- - 👉 [Behold](http://9gag.com/gag/aMVMy81)<!-- MEMES:END -->
+ - 👉 [Don&#39;t forget math is racist](http://9gag.com/gag/an7PVmn)<!-- MEMES:END -->
 
 ---
 

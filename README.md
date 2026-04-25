@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Strider, an intelligence firm that leverages agentic AI and public records to help the US Air Force, NATO, and others identify foreign state actors &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/260425/p14#a260425p14)
  - [London Marathon 2026: How to Watch Live From Anywhere](https://www.cnet.com/tech/services-and-software/london-marathon-2026-how-to-watch-live-from-anywhere/)
  - [Trump hosted a gala luncheon for leading $TRUMP holders, where he spoke about his pro-crypto policies, but avoided the memecoin&#39;s declining value &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260425/p13#a260425p13)
  - [iVanky FusionDock Max 2 review: Hugely better value the second time around](https://appleinsider.com/articles/26/04/25/ivanky-fusiondock-max-2-review-hugely-better-value-the-second-time-around?utm_source=rss)
- - [A look at Tin Can&#39;s $100 retro-style, Wi-Fi-enabled landline phone, and how some schools are seeding the device to students in an attempt to curb smartphone use &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260425/p12#a260425p12)
- - [Today&#39;s Wordle Hints, Answer and Help for April 26, #1772](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-26-1772/)<!-- TECH:END -->
+ - [A look at Tin Can&#39;s $100 retro-style, Wi-Fi-enabled landline phone, and how some schools are seeding the device to students in an attempt to curb smartphone use &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260425/p12#a260425p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

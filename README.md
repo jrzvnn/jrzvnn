@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Saros’ Shows Off the PS5’s DualSense Tricks](https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks/)
- - [Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos](https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/)
- - [The 5 Best Grocery Store Coffee Beans, Out of More Than 15 I Tested](https://www.cnet.com/news/the-5-best-grocery-store-coffee-beans-out-of-more-than-15-i-tested/)
- - [How to Change Your iPhone&#39;s Liquid Glass Design in a Few Easy Steps](https://www.cnet.com/tech/services-and-software/how-to-change-your-iphones-liquid-glass-design-in-a-few-easy-steps/)
- - [The Online Civil War About ‘Michael’ Is a Battle Over Truth](https://www.wired.com/story/the-online-civil-war-about-michael-is-a-battle-over-truth/)<!-- TECH:END -->
+ - [Best Apps for Focus &lpar;2026&rpar;: Focus Friend, Forest, Focus Traveller](https://www.wired.com/story/3-focus-timer-apps-focus-friend-forest-focus-traveller/)
+ - [Livestream FA Cup Soccer: Watch Man City vs. Southampton Free From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-man-city-vs-southampton-free-from-anywhere/)
+ - [Apple TV: 27 of the Best Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/best-apple-tv-shows/)
+ - [The US gets the worst phones](https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus)
+ - [‘Saros’ Shows Off the PS5’s DualSense Tricks](https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

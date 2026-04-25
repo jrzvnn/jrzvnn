@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Humour me](http://9gag.com/gag/a87xKWe)
- - 😝 [Be happy](http://9gag.com/gag/azxpYzx)
- - 💣 [`There&#39;s no way they&#39;ll actually sit in the- OHHHHH MY GOD`](http://9gag.com/gag/aGy471n)
+ - 😝 [`There&#39;s no way they&#39;ll actually sit in the- OHHHHH MY GOD`](http://9gag.com/gag/aGy471n)
+ - 😝 [Mind-blowing detail in this marble handkerchief](http://9gag.com/gag/a6ZYj3q)
+ - 💣 [Guys...](http://9gag.com/gag/aO8LpeD)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [German Shepherds if they were constantly coked up](http://9gag.com/gag/aGy47dK)<!-- MEMES:END -->
+ - 👉 [If you want to find the easiest way to complete a job, asign it to a lazy person.](http://9gag.com/gag/aAyzvXL)<!-- MEMES:END -->
 
 ---
 

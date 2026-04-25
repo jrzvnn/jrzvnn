@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices)
  - [A look at &quot;Stanford inside Stanford&quot;, where VCs pursue 18- and 19-year-old students, offering mentorship and funding in a bid to convert promise into profit &lpar;Theo Baker/The Atlantic&rpar;](http://www.techmeme.com/260425/p11#a260425p11)
  - [Researchers say we’re talking less than ever](https://www.theverge.com/science/918753/researchers-talking-less)
  - [Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable](https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale)
- - [How the Vatican is moving faster than most legacy institutions to shape AI rules and guardrails, with an AI framework, banning use of AI to write homilies, more &lpar;Russell Contreras/Axios&rpar;](http://www.techmeme.com/260425/p10#a260425p10)
- - [HBO Max: The 26 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-hbo-max-april-2026/)<!-- TECH:END -->
+ - [How the Vatican is moving faster than most legacy institutions to shape AI rules and guardrails, with an AI framework, banning use of AI to write homilies, more &lpar;Russell Contreras/Axios&rpar;](http://www.techmeme.com/260425/p10#a260425p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

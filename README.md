@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sho Miyake answers life’s greatest questions](https://www.theverge.com/entertainment/918313/director-sho-miyake-interview)
+ - [The most exciting laptop I’ve seen in forever](https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer)
  - [Best Apps for Focus &lpar;2026&rpar;: Focus Friend, Forest, Focus Traveller](https://www.wired.com/story/3-focus-timer-apps-focus-friend-forest-focus-traveller/)
  - [Livestream FA Cup Soccer: Watch Man City vs. Southampton Free From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-man-city-vs-southampton-free-from-anywhere/)
- - [Apple TV: 27 of the Best Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/best-apple-tv-shows/)
- - [The US gets the worst phones](https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus)
- - [‘Saros’ Shows Off the PS5’s DualSense Tricks](https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks/)<!-- TECH:END -->
+ - [Apple TV: 27 of the Best Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/best-apple-tv-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

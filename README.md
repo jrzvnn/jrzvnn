@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump fires the entire National Science Board](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board)
- - [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices)
- - [A look at &quot;Stanford inside Stanford&quot;, where VCs pursue 18- and 19-year-old students, offering mentorship and funding in a bid to convert promise into profit &lpar;Theo Baker/The Atlantic&rpar;](http://www.techmeme.com/260425/p11#a260425p11)
- - [Researchers say we’re talking less than ever](https://www.theverge.com/science/918753/researchers-talking-less)
- - [Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable](https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale)<!-- TECH:END -->
+ - [A look at Tin Can&#39;s $100 retro-style, Wi-Fi-enabled landline phone, and how some schools are seeding the device to students in an attempt to curb smartphone use &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260425/p12#a260425p12)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 26, #1772](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-26-1772/)
+ - [Samsung Messages is Shutting Down: Here&#39;s How to Rescue All Your Messages Before It&#39;s Gone](https://www.cnet.com/tech/mobile/samsung-messages-is-shutting-down-heres-how-to-rescue-all-your-messages-before-its-gone/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 26, #1050](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-26-1050/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 26 #784](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-26-784/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

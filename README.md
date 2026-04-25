@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German Shepherds if they were constantly coked up](http://9gag.com/gag/aGy47dK)
- - 😝 [My fellow young generation](http://9gag.com/gag/aPAbr0V)
- - 💣 [The Medusa reference is what did it for me. When it comes to stealing your data and information this guy is a genius.](http://9gag.com/gag/aE0mZOG)
- - 😝 [Replace database with AI](http://9gag.com/gag/aoyQnvg)
- - 👉 [What happens when they&#39;re feeling homesick. And Need the street to look like their old neighborhood.?](http://9gag.com/gag/amo4ndv)<!-- MEMES:END -->
+ - 😝 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
+ - 😝 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)
+ - 💣 [Trust me, i do it all the time](http://9gag.com/gag/aQzWOqK)
+ - 😝 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
+ - 👉 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)<!-- MEMES:END -->
 
 ---
 

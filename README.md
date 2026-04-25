@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
  - 😝 [Zero control skills](http://9gag.com/gag/aAyzv4d)
- - 💣 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
- - 😝 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
+ - 😝 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
+ - 💣 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
+ - 😝 [No need for context. You know what happened.](http://9gag.com/gag/aAyzZNE)
  - 👉 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)<!-- MEMES:END -->
 
 ---

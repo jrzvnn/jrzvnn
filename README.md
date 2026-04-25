@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sho Miyake answers life’s greatest questions](https://www.theverge.com/entertainment/918313/director-sho-miyake-interview)
- - [The most exciting laptop I’ve seen in forever](https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer)
- - [Best Apps for Focus &lpar;2026&rpar;: Focus Friend, Forest, Focus Traveller](https://www.wired.com/story/3-focus-timer-apps-focus-friend-forest-focus-traveller/)
- - [Livestream FA Cup Soccer: Watch Man City vs. Southampton Free From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-man-city-vs-southampton-free-from-anywhere/)
- - [Apple TV: 27 of the Best Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/best-apple-tv-shows/)<!-- TECH:END -->
+ - [The Govee smart lamp brightened up my room, and then my life](https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease)
+ - [$25 for Audiophile Earbuds? Meet Panasonic&#39;s New ErgoFit USB-C Wired Buds](https://www.cnet.com/tech/mobile/panasonic-ergofit-usb-c-earbuds-review/)
+ - [Apple&#39;s AI Future Is in the Hands of a Hardware Expert. That&#39;s a Good Thing](https://www.cnet.com/tech/services-and-software/apple-new-ceo-john-ternus-ai-plans-commentary/)
+ - [My Favorite Vegan Meal Kit Service Isn&#39;t Purple Carrot &lpar;I Was as Shocked as Anyone&rpar;](https://www.cnet.com/health/nutrition/my-favorite-vegan-meal-kit-service-isnt-purple-carrot/)
+ - [Xbox’s weirdest studio is on a roll](https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

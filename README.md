@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Masimo&#39;s Apple Watch ban complaint dismissed by U.S. District Court](https://appleinsider.com/articles/26/04/25/massimos-apple-watch-ban-complaint-dismissed-by-us-district-court?utm_source=rss)
  - [The Govee smart lamp brightened up my room, and then my life](https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease)
  - [$25 for Audiophile Earbuds? Meet Panasonic&#39;s New ErgoFit USB-C Wired Buds](https://www.cnet.com/tech/mobile/panasonic-ergofit-usb-c-earbuds-review/)
  - [Apple&#39;s AI Future Is in the Hands of a Hardware Expert. That&#39;s a Good Thing](https://www.cnet.com/tech/services-and-software/apple-new-ceo-john-ternus-ai-plans-commentary/)
- - [My Favorite Vegan Meal Kit Service Isn&#39;t Purple Carrot &lpar;I Was as Shocked as Anyone&rpar;](https://www.cnet.com/health/nutrition/my-favorite-vegan-meal-kit-service-isnt-purple-carrot/)
- - [Xbox’s weirdest studio is on a roll](https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam)<!-- TECH:END -->
+ - [My Favorite Vegan Meal Kit Service Isn&#39;t Purple Carrot &lpar;I Was as Shocked as Anyone&rpar;](https://www.cnet.com/health/nutrition/my-favorite-vegan-meal-kit-service-isnt-purple-carrot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

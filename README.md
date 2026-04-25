@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of Elon Musk&#39;s $134B lawsuit against Sam Altman, scheduled to begin on April 27, accusing him of reneging on a vow to keep OpenAI nonprofit &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260425/p7#a260425p7)
- - [Intel&#39;s upbeat outlook suggests CEO Lip-Bu Tan is making progress on a turnaround, having strengthened the company&#39;s balance sheet and now improving operations &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260425/p6#a260425p6)
- - [Report: Samsung co-CEO TM Roh told company leaders that the mobile division MX could report its first ever annual loss this year, amid RAM and storage shortages &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260425/p5#a260425p5)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-25/)
- - [The value of US government&#39;s stake in Intel has increased fourfold to ~$36B, a roughly $27B paper gain since they announced the investment in August 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260425/p4#a260425p4)<!-- TECH:END -->
+ - [Citizen Lab details two spying campaigns that abuse weaknesses in the SS7 and Diameter protocols across 2G, 3G, 4G, and 5G networks to track people&#39;s locations &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260425/p8#a260425p8)
+ - [Ace the Ping-Pong Robot Can Whup Your Ass](https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 25, #579](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-25-579/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 25, #1049](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-25-1049/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 25 #783](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-25-783/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

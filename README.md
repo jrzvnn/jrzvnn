@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Zero control skills](http://9gag.com/gag/aAyzv4d)
- - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
- - 💣 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)
+ - 😝 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)
+ - 💣 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
  - 😝 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
- - 👉 [No need for context. You know what happened.](http://9gag.com/gag/aAyzZNE)<!-- MEMES:END -->
+ - 👉 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys... are RAM prices still high?](http://9gag.com/gag/abAn2wB)
- - 😝 [WTF](http://9gag.com/gag/aD2eXLK)
- - 💣 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
+ - 😝 [`There&#39;s no way they&#39;ll actually sit in the- OHHHHH MY GOD`](http://9gag.com/gag/aGy471n)
+ - 😝 [Be happy](http://9gag.com/gag/azxpYzx)
+ - 💣 [German Shepherds if they were constantly coked up](http://9gag.com/gag/aGy47dK)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)<!-- MEMES:END -->
+ - 👉 [Rockstar always knows how to keep us on our toes](http://9gag.com/gag/aE0mOAG)<!-- MEMES:END -->
 
 ---
 

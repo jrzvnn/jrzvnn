@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic details Project Deal, a marketplace experiment where Claude models bought, sold, and negotiated personal belongings on behalf of Anthropic employees &lpar;Anthropic&rpar;](http://www.techmeme.com/260424/p48#a260424p48)
+ - [Lawmakers and lobbyists say the Trump administration has lobbied against legislation that would regulate AI in at least six Republican-led states &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260424/p47#a260424p47)
+ - [Instacart co-founder Apoorva Mehta launches Abundance, a hedge fund that aims to have AI agents run the entire fund, with $100M in seed funding &lpar;Hema Parmar/Bloomberg&rpar;](http://www.techmeme.com/260424/p46#a260424p46)
  - [Europe&#39;s dependence on US companies in tech and finance is in no small part its own fault after overregulation left European businesses too weak to compete &lpar;The Economist&rpar;](http://www.techmeme.com/260424/p45#a260424p45)
- - [Cybercab Begins Production, but Elon Musk Says It Will Be &#39;Very Slow&#39; to Start](https://www.cnet.com/roadshow/news/tesla-cybercab-begins-production/)
- - [A US judge dismisses Elon Musk&#39;s fraud claims in his lawsuit against OpenAI at his request, and plans to proceed to trial on other claims &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260424/p44#a260424p44)
- - [Final Fantasy 14 Hits Switch 2 in August With a New Subscription Twist](https://www.cnet.com/tech/gaming/final-fantasy-14-hits-switch-2-in-august-with-a-new-subscription-twist/)
- - [Sony Begins Age Verification for PlayStation Users in the UK and Ireland](https://www.cnet.com/tech/gaming/sony-begins-age-verification-for-playstation-users-in-the-uk-and-ireland/)<!-- TECH:END -->
+ - [Cybercab Begins Production, but Elon Musk Says It Will Be &#39;Very Slow&#39; to Start](https://www.cnet.com/roadshow/news/tesla-cybercab-begins-production/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knockers honkers crazy bonkers](http://9gag.com/gag/aXP6KZ6)
- - 😝 [WTF](http://9gag.com/gag/aD2eXLK)
- - 💣 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
- - 😝 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
- - 👉 [The incredible crown shyness phenomenon, where trees respect each other&#39;s personal space](http://9gag.com/gag/amo4nY4)<!-- MEMES:END -->
+ - 😝 [German Shepherds if they were constantly coked up](http://9gag.com/gag/aGy47dK)
+ - 😝 [My fellow young generation](http://9gag.com/gag/aPAbr0V)
+ - 💣 [The Medusa reference is what did it for me. When it comes to stealing your data and information this guy is a genius.](http://9gag.com/gag/aE0mZOG)
+ - 😝 [Replace database with AI](http://9gag.com/gag/aoyQnvg)
+ - 👉 [What happens when they&#39;re feeling homesick. And Need the street to look like their old neighborhood.?](http://9gag.com/gag/amo4ndv)<!-- MEMES:END -->
 
 ---
 

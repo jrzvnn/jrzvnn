@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
- - 😝 [Trust me, i do it all the time](http://9gag.com/gag/aQzWOqK)
- - 💣 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
+ - 😝 [Guys... are RAM prices still high?](http://9gag.com/gag/abAn2wB)
+ - 😝 [WTF](http://9gag.com/gag/aD2eXLK)
+ - 💣 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)<!-- MEMES:END -->
+ - 👉 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)<!-- MEMES:END -->
 
 ---
 

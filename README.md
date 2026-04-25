@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers say we’re talking less than ever](https://www.theverge.com/science/918753/researchers-talking-less)
+ - [Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable](https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale)
+ - [How the Vatican is moving faster than most legacy institutions to shape AI rules and guardrails, with an AI framework, banning use of AI to write homilies, more &lpar;Russell Contreras/Axios&rpar;](http://www.techmeme.com/260425/p10#a260425p10)
  - [Masimo&#39;s Apple Watch ban complaint dismissed by U.S. District Court](https://appleinsider.com/articles/26/04/25/massimos-apple-watch-ban-complaint-dismissed-by-us-district-court?utm_source=rss)
- - [The Govee smart lamp brightened up my room, and then my life](https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease)
- - [$25 for Audiophile Earbuds? Meet Panasonic&#39;s New ErgoFit USB-C Wired Buds](https://www.cnet.com/tech/mobile/panasonic-ergofit-usb-c-earbuds-review/)
- - [Apple&#39;s AI Future Is in the Hands of a Hardware Expert. That&#39;s a Good Thing](https://www.cnet.com/tech/services-and-software/apple-new-ceo-john-ternus-ai-plans-commentary/)
- - [My Favorite Vegan Meal Kit Service Isn&#39;t Purple Carrot &lpar;I Was as Shocked as Anyone&rpar;](https://www.cnet.com/health/nutrition/my-favorite-vegan-meal-kit-service-isnt-purple-carrot/)<!-- TECH:END -->
+ - [Speed vs. Depth: How Does Using AI for Work Affect Our Confidence?](https://www.cnet.com/tech/services-and-software/ai-for-work-overreliance-confidence-study-news/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

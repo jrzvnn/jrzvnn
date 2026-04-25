@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The value of US government&#39;s stake in Intel has increased fourfold to ~$36B, a roughly $27B paper gain since they announced the investment in August 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260425/p4#a260425p4)
- - [A $16B financing for a giant Oracle data center in Michigan has closed, with BofA selling $14B in bonds; Oracle plans to use the campus to power apps for OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260425/p3#a260425p3)
- - [Altra Promo Codes: Get 20% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
- - [LinkedIn profile review shows Thinking Machines Lab has been hiring more researchers from Meta than from any other employer; TML&#39;s headcount now stands at ~140 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260425/p2#a260425p2)
- - [Adyen plans to acquire Talon.One, a platform for loyalty and incentives that serves more than 300 global merchants, for €750M, expected to close in H2 2026 &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/260425/p1#a260425p1)<!-- TECH:END -->
+ - [An overview of Elon Musk&#39;s $134B lawsuit against Sam Altman, scheduled to begin on April 27, accusing him of reneging on a vow to keep OpenAI nonprofit &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260425/p7#a260425p7)
+ - [Intel&#39;s upbeat outlook suggests CEO Lip-Bu Tan is making progress on a turnaround, having strengthened the company&#39;s balance sheet and now improving operations &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260425/p6#a260425p6)
+ - [Report: Samsung co-CEO TM Roh told company leaders that the mobile division MX could report its first ever annual loss this year, amid RAM and storage shortages &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260425/p5#a260425p5)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-25/)
+ - [The value of US government&#39;s stake in Intel has increased fourfold to ~$36B, a roughly $27B paper gain since they announced the investment in August 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260425/p4#a260425p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

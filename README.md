@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic details Project Deal, a marketplace experiment where Claude models bought, sold, and negotiated personal belongings on behalf of Anthropic employees &lpar;Anthropic&rpar;](http://www.techmeme.com/260424/p48#a260424p48)
- - [Lawmakers and lobbyists say the Trump administration has lobbied against legislation that would regulate AI in at least six Republican-led states &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260424/p47#a260424p47)
- - [Instacart co-founder Apoorva Mehta launches Abundance, a hedge fund that aims to have AI agents run the entire fund, with $100M in seed funding &lpar;Hema Parmar/Bloomberg&rpar;](http://www.techmeme.com/260424/p46#a260424p46)
- - [Europe&#39;s dependence on US companies in tech and finance is in no small part its own fault after overregulation left European businesses too weak to compete &lpar;The Economist&rpar;](http://www.techmeme.com/260424/p45#a260424p45)
- - [Cybercab Begins Production, but Elon Musk Says It Will Be &#39;Very Slow&#39; to Start](https://www.cnet.com/roadshow/news/tesla-cybercab-begins-production/)<!-- TECH:END -->
+ - [The value of US government&#39;s stake in Intel has increased fourfold to ~$36B, a roughly $27B paper gain since they announced the investment in August 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260425/p4#a260425p4)
+ - [A $16B financing for a giant Oracle data center in Michigan has closed, with BofA selling $14B in bonds; Oracle plans to use the campus to power apps for OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260425/p3#a260425p3)
+ - [Altra Promo Codes: Get 20% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
+ - [LinkedIn profile review shows Thinking Machines Lab has been hiring more researchers from Meta than from any other employer; TML&#39;s headcount now stands at ~140 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260425/p2#a260425p2)
+ - [Adyen plans to acquire Talon.One, a platform for loyalty and incentives that serves more than 300 global merchants, for €750M, expected to close in H2 2026 &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/260425/p1#a260425p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

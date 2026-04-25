@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US CFTC sues New York, accusing the state of invading its authority to regulate prediction markets by filing lawsuits against Coinbase and Gemini &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260424/p43#a260424p43)
- - [Diplomatic cable: US State Department has ordered a global push to bring attention to what it says are efforts by Chinese companies to steal IP from US AI labs &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260424/p42#a260424p42)
- - [Thrive is taking a stake in the San Francisco Giants via a new venture that will invest in franchises and cultural institutions that can&#39;t be replicated by AI &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260424/p41#a260424p41)
- - [Brazil&#39;s Finance Minister Dario Durigan says the country has blocked prediction market platforms and tightened derivatives rules to curb &quot;bet-like&quot; products &lpar;Reuters&rpar;](http://www.techmeme.com/260424/p40#a260424p40)
- - [Sources: the WH pushed out the head of the Center for AI Standards and Innovation, Collin Burns, a former Anthropic researcher, after just four days on the job &lpar;Ian Duncan/Washington Post&rpar;](http://www.techmeme.com/260424/p39#a260424p39)<!-- TECH:END -->
+ - [Europe&#39;s dependence on US companies in tech and finance is in no small part its own fault after overregulation left European businesses too weak to compete &lpar;The Economist&rpar;](http://www.techmeme.com/260424/p45#a260424p45)
+ - [Cybercab Begins Production, but Elon Musk Says It Will Be &#39;Very Slow&#39; to Start](https://www.cnet.com/roadshow/news/tesla-cybercab-begins-production/)
+ - [A US judge dismisses Elon Musk&#39;s fraud claims in his lawsuit against OpenAI at his request, and plans to proceed to trial on other claims &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260424/p44#a260424p44)
+ - [Final Fantasy 14 Hits Switch 2 in August With a New Subscription Twist](https://www.cnet.com/tech/gaming/final-fantasy-14-hits-switch-2-in-august-with-a-new-subscription-twist/)
+ - [Sony Begins Age Verification for PlayStation Users in the UK and Ireland](https://www.cnet.com/tech/gaming/sony-begins-age-verification-for-playstation-users-in-the-uk-and-ireland/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

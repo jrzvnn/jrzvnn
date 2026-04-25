@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)
- - 😝 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
- - 💣 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
+ - 😝 [WTF](http://9gag.com/gag/aD2eXLK)
+ - 😝 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
+ - 💣 [Knockers honkers crazy bonkers](http://9gag.com/gag/aXP6KZ6)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
+ - 👉 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)<!-- MEMES:END -->
 
 ---
 

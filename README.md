@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Researchers say we’re talking less than ever](https://www.theverge.com/science/918753/researchers-talking-less)
  - [Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable](https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale)
  - [How the Vatican is moving faster than most legacy institutions to shape AI rules and guardrails, with an AI framework, banning use of AI to write homilies, more &lpar;Russell Contreras/Axios&rpar;](http://www.techmeme.com/260425/p10#a260425p10)
- - [Masimo&#39;s Apple Watch ban complaint dismissed by U.S. District Court](https://appleinsider.com/articles/26/04/25/massimos-apple-watch-ban-complaint-dismissed-by-us-district-court?utm_source=rss)
- - [Speed vs. Depth: How Does Using AI for Work Affect Our Confidence?](https://www.cnet.com/tech/services-and-software/ai-for-work-overreliance-confidence-study-news/)<!-- TECH:END -->
+ - [HBO Max: The 26 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-hbo-max-april-2026/)
+ - [Masimo&#39;s Apple Watch ban complaint dismissed by U.S. District Court](https://appleinsider.com/articles/26/04/25/massimos-apple-watch-ban-complaint-dismissed-by-us-district-court?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Replace database with AI](http://9gag.com/gag/aoyQnvg)
- - 😝 [The power of music and a united crowd](http://9gag.com/gag/adBDoWZ)
- - 💣 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
- - 😝 [If you want to find the easiest way to complete a job, asign it to a lazy person.](http://9gag.com/gag/aAyzvXL)
- - 👉 [Behold](http://9gag.com/gag/aMVMy81)<!-- MEMES:END -->
+ - 😝 [Zero control skills](http://9gag.com/gag/aAyzv4d)
+ - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
+ - 💣 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)
+ - 😝 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
+ - 👉 [No need for context. You know what happened.](http://9gag.com/gag/aAyzZNE)<!-- MEMES:END -->
 
 ---
 

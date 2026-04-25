@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
- - 😝 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
- - 💣 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)
- - 😝 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
+ - 😝 [Knockers honkers crazy bonkers](http://9gag.com/gag/aXP6KZ6)
+ - 😝 [WTF](http://9gag.com/gag/aD2eXLK)
+ - 💣 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
+ - 😝 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
  - 👉 [The incredible crown shyness phenomenon, where trees respect each other&#39;s personal space](http://9gag.com/gag/amo4nY4)<!-- MEMES:END -->
 
 ---

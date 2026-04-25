@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Citizen Lab details two spying campaigns that abuse weaknesses in the SS7 and Diameter protocols across 2G, 3G, 4G, and 5G networks to track people&#39;s locations &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260425/p8#a260425p8)
- - [Ace the Ping-Pong Robot Can Whup Your Ass](https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 25, #579](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-25-579/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 25, #1049](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-25-1049/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 25 #783](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-25-783/)<!-- TECH:END -->
+ - [‘Saros’ Shows Off the PS5’s DualSense Tricks](https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks/)
+ - [Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos](https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/)
+ - [The 5 Best Grocery Store Coffee Beans, Out of More Than 15 I Tested](https://www.cnet.com/news/the-5-best-grocery-store-coffee-beans-out-of-more-than-15-i-tested/)
+ - [How to Change Your iPhone&#39;s Liquid Glass Design in a Few Easy Steps](https://www.cnet.com/tech/services-and-software/how-to-change-your-iphones-liquid-glass-design-in-a-few-easy-steps/)
+ - [The Online Civil War About ‘Michael’ Is a Battle Over Truth](https://www.wired.com/story/the-online-civil-war-about-michael-is-a-battle-over-truth/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

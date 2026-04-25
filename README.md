@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zero control skills](http://9gag.com/gag/aAyzv4d)
- - 😝 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)
- - 💣 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
+ - 😝 [Its funny if you get it](http://9gag.com/gag/azxpQoK)
  - 😝 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
- - 👉 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)<!-- MEMES:END -->
+ - 💣 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
+ - 😝 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
+ - 👉 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)<!-- MEMES:END -->
 
 ---
 

@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
- - 😝 [Behold](http://9gag.com/gag/aMVMy81)
+ - 😝 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
  - 💣 [Trust me, i do it all the time](http://9gag.com/gag/aQzWOqK)
  - 😝 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
  - 👉 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)<!-- MEMES:END -->

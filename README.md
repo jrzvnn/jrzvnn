@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`There&#39;s no way they&#39;ll actually sit in the- OHHHHH MY GOD`](http://9gag.com/gag/aGy471n)
- - 😝 [Mind-blowing detail in this marble handkerchief](http://9gag.com/gag/a6ZYj3q)
- - 💣 [Guys...](http://9gag.com/gag/aO8LpeD)
+ - 😝 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
+ - 😝 [Trust me, i do it all the time](http://9gag.com/gag/aQzWOqK)
+ - 💣 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
  - 😝 [Match day essentials? Say less \u26bd\ufe0f\u2744\ufe0f\ud83e\udd64](http://9gag.com/gag/agmzEzg)
- - 👉 [If you want to find the easiest way to complete a job, asign it to a lazy person.](http://9gag.com/gag/aAyzvXL)<!-- MEMES:END -->
+ - 👉 [Just casually feeding a fish to a bigger fish, nothing to see here](http://9gag.com/gag/ary72nd)<!-- MEMES:END -->
 
 ---
 

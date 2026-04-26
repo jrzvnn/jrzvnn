@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just makes sense](http://9gag.com/gag/aNDE3QK)
- - 😝 [Reposting](http://9gag.com/gag/an7PG3n)
- - 💣 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
+ - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
+ - 😝 [As if the ticket price wasn&#39;t high enough!!!!](http://9gag.com/gag/axyqAzD)
+ - 💣 [The goodest boy](http://9gag.com/gag/a9ygNm1)
  - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)
  - 👉 [Not a b\u00f3br](http://9gag.com/gag/a1m3qEP)<!-- MEMES:END -->
 

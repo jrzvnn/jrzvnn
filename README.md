@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Permanent Outdoor Lights &lpar;2026&rpar;: Govee, Eufy, Cync](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
+ - [iOS 26.4.1 Automatically Enables This iPhone Security Feature](https://www.cnet.com/tech/services-and-software/ios-26-4-1-bug-fixes-iphone-security-feature/)
  - [Ikea&#39;s New Blow-Up Chair Was Tested by Cats](https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats/)
  - [Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and &lpar;Mostly&rpar; Reliable](https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/)
- - [What Type of Mattress Is Right for You? &lpar;2026&rpar;](https://www.wired.com/story/mattress-types-explained/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 26, #1050](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-26-1050/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 26 #784](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-26-784/)<!-- TECH:END -->
+ - [What Type of Mattress Is Right for You? &lpar;2026&rpar;](https://www.wired.com/story/mattress-types-explained/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

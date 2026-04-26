@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Marshals&#39; Release Schedule: When Episode 9 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-9-hits-paramount-plus/)
  - [A profile of Dwarkesh Patel, whose podcast has become mandatory listening in the AI community, with guests like Jensen Huang, Elon Musk, and Mark Zuckerberg &lpar;Benjamin Wallace/New York Times&rpar;](http://www.techmeme.com/260426/p6#a260426p6)
  - [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)
  - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)
- - [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom)
- - [Sources: Tokyo-based humanoid robotics startup Genki Robotics, co-founded by Andy Rubin, raised a Series A at a ~$1B valuation; it raised a ~$50M seed in 2025 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260426/p5#a260426p5)<!-- TECH:END -->
+ - [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

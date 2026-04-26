@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its funny if you get it](http://9gag.com/gag/azxpQoK)
  - 😝 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
- - 💣 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
- - 😝 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
- - 👉 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)<!-- MEMES:END -->
+ - 😝 [There was a time when women looked perfectly normal.](http://9gag.com/gag/amo4RQd)
+ - 💣 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
+ - 😝 [Just two kids want to play PS 1 when the parents away](http://9gag.com/gag/aGy4bqX)
+ - 👉 [Dipping in chocolate](http://9gag.com/gag/aKGoKbW)<!-- MEMES:END -->
 
 ---
 

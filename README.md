@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reposting](http://9gag.com/gag/an7PG3n)
  - 😝 [Dipping in chocolate](http://9gag.com/gag/aKGoKbW)
- - 💣 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
+ - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
+ - 💣 [Dinner is served..](http://9gag.com/gag/aO8LGyE)
  - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)
- - 👉 [My dog does not bite, he blesses](http://9gag.com/gag/ae98d7O)<!-- MEMES:END -->
+ - 👉 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)<!-- MEMES:END -->
 
 ---
 

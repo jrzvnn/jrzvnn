@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just two kids want to play PS 1 when the parents away](http://9gag.com/gag/aGy4bqX)
- - 😝 [There was a time when women looked perfectly normal.](http://9gag.com/gag/amo4RQd)
- - 💣 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
+ - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
+ - 😝 [Reposting](http://9gag.com/gag/an7PG3n)
+ - 💣 [The goodest boy](http://9gag.com/gag/a9ygNm1)
  - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)
- - 👉 [Only Hog can do it... Do do do do do it!!](http://9gag.com/gag/a4POr7y)<!-- MEMES:END -->
+ - 👉 [Not a b\u00f3br](http://9gag.com/gag/a1m3qEP)<!-- MEMES:END -->
 
 ---
 

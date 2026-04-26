@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
- - 😝 [As if the ticket price wasn&#39;t high enough!!!!](http://9gag.com/gag/axyqAzD)
- - 💣 [The goodest boy](http://9gag.com/gag/a9ygNm1)
+ - 😝 [Snow rat](http://9gag.com/gag/aNDEq3K)
+ - 😝 [Only Hog can do it... Do do do do do it!!](http://9gag.com/gag/a4POr7y)
+ - 💣 [Happy gaming!](http://9gag.com/gag/aD2eMxB)
  - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)
- - 👉 [Not a b\u00f3br](http://9gag.com/gag/a1m3qEP)<!-- MEMES:END -->
+ - 👉 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)<!-- MEMES:END -->
 
 ---
 

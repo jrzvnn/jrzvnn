@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
  - 😝 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
- - 😝 [There was a time when women looked perfectly normal.](http://9gag.com/gag/amo4RQd)
- - 💣 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
- - 😝 [Just two kids want to play PS 1 when the parents away](http://9gag.com/gag/aGy4bqX)
- - 👉 [Dipping in chocolate](http://9gag.com/gag/aKGoKbW)<!-- MEMES:END -->
+ - 💣 [There was a time when women looked perfectly normal.](http://9gag.com/gag/amo4RQd)
+ - 😝 [Oh lord...](http://9gag.com/gag/aD2eP17)
+ - 👉 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its funny if you get it](http://9gag.com/gag/azxpQoK)
+ - 😝 [There was a time when women looked perfectly normal.](http://9gag.com/gag/amo4RQd)
  - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
- - 💣 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
+ - 💣 [Dinner is served..](http://9gag.com/gag/aO8LGyE)
  - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)
- - 👉 [What a sight! Rebels in Mali shot down a military helicopter with Russian mercenaries on board](http://9gag.com/gag/aAyzmjL)<!-- MEMES:END -->
+ - 👉 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)<!-- MEMES:END -->
 
 ---
 

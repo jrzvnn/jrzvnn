@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)
  - [ASML says it plans to make at least 60 of its standard EUV machines this year, 36% more than it sold in 2025, as it races to meet demand for making AI chips &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/260426/p4#a260426p4)
  - [After three months on Linux, I don’t miss Windows at all](https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows)
  - [iVanky FusionDock Ultra review: Hugely better value the second time around](https://appleinsider.com/articles/26/04/25/ivanky-fusiondock-max-2-review-hugely-better-value-the-second-time-around?utm_source=rss)
- - [Why This Phone Company Is Now a &lpar;Record-Breaking&rpar; Robot Company](https://www.cnet.com/tech/computing/why-this-phone-company-is-now-a-record-breaking-robot-company/)
- - [Motorola&#39;s $150 Moto Watch Fell Short of Its Fitness Promises in My Tests](https://www.cnet.com/tech/mobile/moto-watch-motorola-review-polar-partnership/)<!-- TECH:END -->
+ - [Why This Phone Company Is Now a &lpar;Record-Breaking&rpar; Robot Company](https://www.cnet.com/tech/computing/why-this-phone-company-is-now-a-record-breaking-robot-company/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

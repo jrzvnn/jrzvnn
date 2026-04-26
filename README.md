@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML says it plans to make at least 60 of its standard EUV machines this year, 36% more than it sold in 2025, as it races to meet demand for making AI chips &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/260426/p4#a260426p4)
+ - [After three months on Linux, I don’t miss Windows at all](https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows)
  - [iVanky FusionDock Ultra review: Hugely better value the second time around](https://appleinsider.com/articles/26/04/25/ivanky-fusiondock-max-2-review-hugely-better-value-the-second-time-around?utm_source=rss)
- - [The plan to quietly kill Coyote v. Acme blew up in David Zaslav&amp;#8217;s face](https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs)
- - [The Best Kindle Accessories &lpar;2026&rpar;: Cases, Page Turners, Stickers](https://www.wired.com/story/best-kindle-accessories/)
- - [Vantrue Pilot 2 review: Thermal imaging dashcam for pro drivers](https://appleinsider.com/articles/26/04/24/vantrue-pilot-2-review-thermal-imaging-dashcam-for-pro-drivers?utm_source=rss)
- - [Google&#39;s New Travel Features Are Here Just in Time for Summer](https://www.cnet.com/tech/services-and-software/google-rolls-out-new-travel-features/)<!-- TECH:END -->
+ - [Why This Phone Company Is Now a &lpar;Record-Breaking&rpar; Robot Company](https://www.cnet.com/tech/computing/why-this-phone-company-is-now-a-record-breaking-robot-company/)
+ - [Motorola&#39;s $150 Moto Watch Fell Short of Its Fitness Promises in My Tests](https://www.cnet.com/tech/mobile/moto-watch-motorola-review-polar-partnership/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s AI push alone will generate three new hardware categories](https://appleinsider.com/articles/26/04/26/apples-ai-push-alone-will-generate-three-new-hardware-categories?utm_source=rss)
+ - [‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents&#39; Dinner Shooting](https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/)
+ - [Giant folding iPad may remain an unreleased experiment](https://appleinsider.com/articles/26/04/26/giant-folding-ipad-may-remain-an-unreleased-experiment?utm_source=rss)
  - [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)
- - [ASML says it plans to make at least 60 of its standard EUV machines this year, 36% more than it sold in 2025, as it races to meet demand for making AI chips &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/260426/p4#a260426p4)
- - [After three months on Linux, I don’t miss Windows at all](https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows)
- - [iVanky FusionDock Ultra review: Hugely better value the second time around](https://appleinsider.com/articles/26/04/25/ivanky-fusiondock-max-2-review-hugely-better-value-the-second-time-around?utm_source=rss)
- - [Why This Phone Company Is Now a &lpar;Record-Breaking&rpar; Robot Company](https://www.cnet.com/tech/computing/why-this-phone-company-is-now-a-record-breaking-robot-company/)<!-- TECH:END -->
+ - [I&#39;m Calling It: The Elden Ring Movie Will Live Up to the Mario Movies&#39; Successes](https://www.cnet.com/tech/gaming/why-im-worried-about-the-elden-ring-movie/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Xbox CEO Asha Sharma and EVP Matt Booty on the &quot;Return of Xbox&quot; memo, making Xbox Series X and S the &quot;first-class experience again&quot;, and more &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/260426/p2#a260426p2)
+ - [Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/260426/p1#a260426p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 26, #580](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-26-580/)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-26/)
- - [California Engineer Identified in Suspected Shooting at White House Correspondents&#39; Dinner](https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/)
- - [Survey of 1,050 Australian teens: ~60% said they retained access to social media accounts after ban; two-thirds say platforms took no action to remove accounts &lpar;Sasha Rogelberg/Fortune&rpar;](http://www.techmeme.com/260425/p16#a260425p16)
- - [33% of S&amp;P 500 companies provided security perks for execs in 2025: Jensen Huang&#39;s security cost rose from $690K in 2023 to $3.5M in 2025, Zuckerberg spent $22M &lpar;Eli Rosenberg/The Information&rpar;](http://www.techmeme.com/260425/p15#a260425p15)<!-- TECH:END -->
+ - [California Engineer Identified in Suspected Shooting at White House Correspondents&#39; Dinner](https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

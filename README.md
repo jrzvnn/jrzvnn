@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [33% of S&amp;P 500 companies provided security perks for execs in 2025: Jensen Huang&#39;s security cost rose from $690K in 2023 to $3.5M in 2025, Zuckerberg spent $22M &lpar;Eli Rosenberg/The Information&rpar;](http://www.techmeme.com/260425/p15#a260425p15)
+ - [Warning Signs That Your Earbuds Are Actually Hurting Your Ears](https://www.cnet.com/tech/mobile/warnings-signs-earbuds-hurting-ears-audiologists/)
  - [A profile of Strider, an intelligence firm that leverages agentic AI and public records to help the US Air Force, NATO, and others identify foreign state actors &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/260425/p14#a260425p14)
  - [London Marathon 2026: How to Watch Live From Anywhere](https://www.cnet.com/tech/services-and-software/london-marathon-2026-how-to-watch-live-from-anywhere/)
- - [Trump hosted a gala luncheon for leading $TRUMP holders, where he spoke about his pro-crypto policies, but avoided the memecoin&#39;s declining value &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260425/p13#a260425p13)
- - [iVanky FusionDock Max 2 review: Hugely better value the second time around](https://appleinsider.com/articles/26/04/25/ivanky-fusiondock-max-2-review-hugely-better-value-the-second-time-around?utm_source=rss)
- - [A look at Tin Can&#39;s $100 retro-style, Wi-Fi-enabled landline phone, and how some schools are seeding the device to students in an attempt to curb smartphone use &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260425/p12#a260425p12)<!-- TECH:END -->
+ - [Trump hosted a gala luncheon for leading $TRUMP holders, where he spoke about his pro-crypto policies, but avoided the memecoin&#39;s declining value &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260425/p13#a260425p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

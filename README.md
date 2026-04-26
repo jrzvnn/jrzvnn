@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom)
+ - [Sources: Tokyo-based humanoid robotics startup Genki Robotics, co-founded by Andy Rubin, raised a Series A at a ~$1B valuation; it raised a ~$50M seed in 2025 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260426/p5#a260426p5)
  - [Tomora’s Come Closer is an ecstatic love letter to 90s dance music](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music)
- - [Apple&#39;s AI push alone will generate three new hardware categories](https://appleinsider.com/articles/26/04/26/apples-ai-push-alone-will-generate-three-new-hardware-categories?utm_source=rss)
- - [‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents&#39; Dinner Shooting](https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/)
- - [Giant folding iPad may remain an unreleased experiment](https://appleinsider.com/articles/26/04/26/giant-folding-ipad-may-remain-an-unreleased-experiment?utm_source=rss)
- - [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)<!-- TECH:END -->
+ - [This Is the Way: Burger King Mandalorian and Grogu Meals Are Coming](https://www.cnet.com/tech/services-and-software/mandolorian-grogu-star-wars-burger-king/)
+ - [Apple&#39;s AI push alone will generate three new hardware categories](https://appleinsider.com/articles/26/04/26/apples-ai-push-alone-will-generate-three-new-hardware-categories?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There was a time when women looked perfectly normal.](http://9gag.com/gag/amo4RQd)
+ - 😝 [Mom&#39;s genes did not even try](http://9gag.com/gag/axyqmmW)
  - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
- - 💣 [Dinner is served..](http://9gag.com/gag/aO8LGyE)
+ - 💣 [Reposting](http://9gag.com/gag/an7PG3n)
  - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)
  - 👉 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)<!-- MEMES:END -->
 

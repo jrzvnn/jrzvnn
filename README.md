@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dipping in chocolate](http://9gag.com/gag/aKGoKbW)
+ - 😝 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
  - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
  - 💣 [Dinner is served..](http://9gag.com/gag/aO8LGyE)
  - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)

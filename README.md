@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happens when they&#39;re feeling homesick. And Need the street to look like their old neighborhood.?](http://9gag.com/gag/amo4ndv)
- - 😝 [Mom&#39;s genes did not even try](http://9gag.com/gag/axyqmmW)
+ - 😝 [Just two kids want to play PS 1 when the parents away](http://9gag.com/gag/aGy4bqX)
+ - 😝 [There was a time when women looked perfectly normal.](http://9gag.com/gag/amo4RQd)
  - 💣 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
  - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)
- - 👉 [When you have a German friend](http://9gag.com/gag/aKGoN7Z)<!-- MEMES:END -->
+ - 👉 [Only Hog can do it... Do do do do do it!!](http://9gag.com/gag/a4POr7y)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Marshals&#39; Release Schedule: When Episode 9 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-9-hits-paramount-plus/)
- - [A profile of Dwarkesh Patel, whose podcast has become mandatory listening in the AI community, with guests like Jensen Huang, Elon Musk, and Mark Zuckerberg &lpar;Benjamin Wallace/New York Times&rpar;](http://www.techmeme.com/260426/p6#a260426p6)
- - [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)
- - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)
- - [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom)<!-- TECH:END -->
+ - [Sunday Reboot: Big change, DOJ sassiness, and the Apple Vision Pro](https://appleinsider.com/articles/26/04/26/sunday-reboot-big-change-doj-sassiness-and-the-apple-vision-pro?utm_source=rss)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 27, #1773](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-27-1773/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 27, #581](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-27-581/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 27, #1051](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-27-1051/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 27 #785](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-27-785/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

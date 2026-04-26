@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder how shes doing these days\ud83e\udd72](http://9gag.com/gag/aD2eQX7)
- - 😝 [Magic Remote](http://9gag.com/gag/ajPedx8)
- - 💣 [Behold](http://9gag.com/gag/aMVMy81)
- - 😝 [If you want to find the easiest way to complete a job, asign it to a lazy person.](http://9gag.com/gag/aAyzvXL)
- - 👉 [Pure evil](http://9gag.com/gag/ary7de7)<!-- MEMES:END -->
+ - 😝 [Reposting](http://9gag.com/gag/an7PG3n)
+ - 😝 [Zero control skills](http://9gag.com/gag/aAyzv4d)
+ - 💣 [Dipping in chocolate](http://9gag.com/gag/aKGoKbW)
+ - 😝 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)
+ - 👉 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)<!-- MEMES:END -->
 
 ---
 

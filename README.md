@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thin Phones Head-to-Head: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phones-head-to-head-iphone-air-vs-galaxy-s25-edge/)
  - [Palantir Slack logs and staff interviews reveal internal debates over the company&#39;s ICE and DOD contracts during Trump&#39;s second term, its manifesto, and more &lpar;Makena Kelly/Ars Technica&rpar;](http://www.techmeme.com/260426/p8#a260426p8)
  - [Collov Labs, whose visual interface lets users feed images and camera input into a model that AI agents can reason over and act on, raised a $23M Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260426/p7#a260426p7)
  - [Sunday Reboot: Big change, DOJ sassiness, and the Apple Vision Pro](https://appleinsider.com/articles/26/04/26/sunday-reboot-big-change-doj-sassiness-and-the-apple-vision-pro?utm_source=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for April 27, #1773](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-27-1773/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 27, #581](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-27-581/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for April 27, #1773](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-27-1773/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

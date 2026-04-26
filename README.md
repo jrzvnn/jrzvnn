@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just two kids want to play PS 1 when the parents away](http://9gag.com/gag/aGy4bqX)
- - 😝 [What happens when they&#39;re feeling homesick. And Need the street to look like their old neighborhood.?](http://9gag.com/gag/amo4ndv)
- - 💣 [Whitehouse Correspondence Dinner Shooting incident &lpar;Better footage&rpar;](http://9gag.com/gag/ajPedLQ)
- - 😝 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)
- - 👉 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)<!-- MEMES:END -->
+ - 😝 [I wonder how shes doing these days\ud83e\udd72](http://9gag.com/gag/aD2eQX7)
+ - 😝 [Magic Remote](http://9gag.com/gag/ajPedx8)
+ - 💣 [Behold](http://9gag.com/gag/aMVMy81)
+ - 😝 [If you want to find the easiest way to complete a job, asign it to a lazy person.](http://9gag.com/gag/aAyzvXL)
+ - 👉 [Pure evil](http://9gag.com/gag/ary7de7)<!-- MEMES:END -->
 
 ---
 

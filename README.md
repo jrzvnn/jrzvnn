@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Reposting](http://9gag.com/gag/an7PG3n)
- - 😝 [Zero control skills](http://9gag.com/gag/aAyzv4d)
- - 💣 [Dipping in chocolate](http://9gag.com/gag/aKGoKbW)
- - 😝 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)
- - 👉 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)<!-- MEMES:END -->
+ - 😝 [Dipping in chocolate](http://9gag.com/gag/aKGoKbW)
+ - 💣 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)
+ - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)
+ - 👉 [My dog does not bite, he blesses](http://9gag.com/gag/ae98d7O)<!-- MEMES:END -->
 
 ---
 

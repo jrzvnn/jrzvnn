@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There was a time when women looked perfectly normal.](http://9gag.com/gag/amo4RQd)
- - 😝 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
+ - 😝 [Just two kids want to play PS 1 when the parents away](http://9gag.com/gag/aGy4bqX)
+ - 😝 [What happens when they&#39;re feeling homesick. And Need the street to look like their old neighborhood.?](http://9gag.com/gag/amo4ndv)
  - 💣 [Whitehouse Correspondence Dinner Shooting incident &lpar;Better footage&rpar;](http://9gag.com/gag/ajPedLQ)
- - 😝 [Nice to know](http://9gag.com/gag/aoyQdPm)
- - 👉 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)<!-- MEMES:END -->
+ - 😝 [Homie can do reverse parking better than many](http://9gag.com/gag/a1m3wBR)
+ - 👉 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)<!-- MEMES:END -->
 
 ---
 

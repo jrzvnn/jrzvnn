@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tomora’s Come Closer is an ecstatic love letter to 90s dance music](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music)
  - [Apple&#39;s AI push alone will generate three new hardware categories](https://appleinsider.com/articles/26/04/26/apples-ai-push-alone-will-generate-three-new-hardware-categories?utm_source=rss)
  - [‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents&#39; Dinner Shooting](https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/)
  - [Giant folding iPad may remain an unreleased experiment](https://appleinsider.com/articles/26/04/26/giant-folding-ipad-may-remain-an-unreleased-experiment?utm_source=rss)
- - [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)
- - [I&#39;m Calling It: The Elden Ring Movie Will Live Up to the Mario Movies&#39; Successes](https://www.cnet.com/tech/gaming/why-im-worried-about-the-elden-ring-movie/)<!-- TECH:END -->
+ - [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

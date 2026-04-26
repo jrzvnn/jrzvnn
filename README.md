@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Permanent Outdoor Lights &lpar;2026&rpar;: Govee, Eufy, Cync](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
- - [iOS 26.4.1 Automatically Enables This iPhone Security Feature](https://www.cnet.com/tech/services-and-software/ios-26-4-1-bug-fixes-iphone-security-feature/)
- - [Ikea&#39;s New Blow-Up Chair Was Tested by Cats](https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats/)
- - [Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and &lpar;Mostly&rpar; Reliable](https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/)
- - [What Type of Mattress Is Right for You? &lpar;2026&rpar;](https://www.wired.com/story/mattress-types-explained/)<!-- TECH:END -->
+ - [The Best Kindle Accessories &lpar;2026&rpar;: Cases, Page Turners, Stickers](https://www.wired.com/story/best-kindle-accessories/)
+ - [Vantrue Pilot 2 review: Thermal imaging dashcam for pro drivers](https://appleinsider.com/articles/26/04/24/vantrue-pilot-2-review-thermal-imaging-dashcam-for-pro-drivers?utm_source=rss)
+ - [Google&#39;s New Travel Features Are Here Just in Time for Summer](https://www.cnet.com/tech/services-and-software/google-rolls-out-new-travel-features/)
+ - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
+ - [Is Your Fire TV Streaming Stick Dead? Why Amazon Is Facing a Massive Lawsuit](https://www.cnet.com/tech/home-entertainment/is-your-fire-tv-streaming-stick-dead-why-amazon-is-facing-a-massive-lawsuit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

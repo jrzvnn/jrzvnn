@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Dwarkesh Patel, whose podcast has become mandatory listening in the AI community, with guests like Jensen Huang, Elon Musk, and Mark Zuckerberg &lpar;Benjamin Wallace/New York Times&rpar;](http://www.techmeme.com/260426/p6#a260426p6)
+ - [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)
  - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)
  - [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom)
- - [Sources: Tokyo-based humanoid robotics startup Genki Robotics, co-founded by Andy Rubin, raised a Series A at a ~$1B valuation; it raised a ~$50M seed in 2025 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260426/p5#a260426p5)
- - [Tomora’s Come Closer is an ecstatic love letter to 90s dance music](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music)
- - [This Is the Way: Burger King Mandalorian and Grogu Meals Are Coming](https://www.cnet.com/tech/services-and-software/mandolorian-grogu-star-wars-burger-king/)<!-- TECH:END -->
+ - [Sources: Tokyo-based humanoid robotics startup Genki Robotics, co-founded by Andy Rubin, raised a Series A at a ~$1B valuation; it raised a ~$50M seed in 2025 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260426/p5#a260426p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

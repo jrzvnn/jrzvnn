@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iVanky FusionDock Ultra review: Hugely better value the second time around](https://appleinsider.com/articles/26/04/25/ivanky-fusiondock-max-2-review-hugely-better-value-the-second-time-around?utm_source=rss)
+ - [The plan to quietly kill Coyote v. Acme blew up in David Zaslav&amp;#8217;s face](https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs)
  - [The Best Kindle Accessories &lpar;2026&rpar;: Cases, Page Turners, Stickers](https://www.wired.com/story/best-kindle-accessories/)
  - [Vantrue Pilot 2 review: Thermal imaging dashcam for pro drivers](https://appleinsider.com/articles/26/04/24/vantrue-pilot-2-review-thermal-imaging-dashcam-for-pro-drivers?utm_source=rss)
- - [Google&#39;s New Travel Features Are Here Just in Time for Summer](https://www.cnet.com/tech/services-and-software/google-rolls-out-new-travel-features/)
- - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
- - [Is Your Fire TV Streaming Stick Dead? Why Amazon Is Facing a Massive Lawsuit](https://www.cnet.com/tech/home-entertainment/is-your-fire-tv-streaming-stick-dead-why-amazon-is-facing-a-massive-lawsuit/)<!-- TECH:END -->
+ - [Google&#39;s New Travel Features Are Here Just in Time for Summer](https://www.cnet.com/tech/services-and-software/google-rolls-out-new-travel-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

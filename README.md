@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)
- - 😝 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
- - 💣 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
+ - 😝 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
+ - 😝 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
+ - 💣 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
  - 😝 [Whitehouse Correspondence Dinner Shooting incident &lpar;Better footage&rpar;](http://9gag.com/gag/ajPedLQ)
- - 👉 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)<!-- MEMES:END -->
+ - 👉 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)<!-- MEMES:END -->
 
 ---
 

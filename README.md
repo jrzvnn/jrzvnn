@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As if the ticket price wasn&#39;t high enough!!!!](http://9gag.com/gag/axyqAzD)
- - 😝 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
- - 💣 [Just two kids want to play PS 1 when the parents away](http://9gag.com/gag/aGy4bqX)
+ - 😝 [Now that the MJ movie is out, it&#39;s a good time to remember Disney banned this Simpsons episode forever](http://9gag.com/gag/a2v6x7D)
+ - 😝 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
+ - 💣 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
  - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)
- - 👉 [Max Payne](http://9gag.com/gag/amo4bQ6)<!-- MEMES:END -->
+ - 👉 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)<!-- MEMES:END -->
 
 ---
 

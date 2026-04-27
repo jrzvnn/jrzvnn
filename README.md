@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Transparent](http://9gag.com/gag/agmzprK)
+ - 😝 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
  - 😝 [A mimir](http://9gag.com/gag/aoyQAGw)
- - 💣 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
- - 😝 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
+ - 💣 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
+ - 😝 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
  - 👉 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)<!-- MEMES:END -->
 
 ---

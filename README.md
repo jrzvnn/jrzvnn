@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify partners with Peloton to offer Premium users access to playlists and a catalog of 1,400+ ad-free fitness classes, its first foray into fitness content &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p23#a260427p23)
- - [Govee’s multicolor ceiling light doubles as a low-res screen](https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability)
- - [Spotify is partnering with Peloton for guided workouts](https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts)
- - [Is this Samsung’s upcoming wide foldable?](https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak)
- - [LincPlus LincStation E1 review: Compact, entry-level, and fast enough](https://appleinsider.com/articles/26/04/23/lincplus-lincstation-e1-review-compact-entry-level-and-fast-enough?utm_source=rss)<!-- TECH:END -->
+ - [The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path](https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/)
+ - [That UL safety logo is a lot more complicated than it looks](https://www.theverge.com/podcast/918082/ul-testing-fire-safety-ai-standards-jennifer-scanlon)
+ - [Microsoft and OpenAI remove a clause that would have given Microsoft IP rights until OpenAI achieved &quot;AGI&quot;; Microsoft retains use of OpenAI&#39;s models until 2032 &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/260427/p26#a260427p26)
+ - [Amazon snaps up Oprah Winfrey’s podcast](https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show)
+ - [Quantum Art, a quantum computing startup focused on enhancing computational throughput using its unique &quot;multicore&quot; architecture, extends its Series A to $140M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260427/p25#a260427p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

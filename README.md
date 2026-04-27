@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
  - 😝 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - 😝 [A mimir](http://9gag.com/gag/aoyQAGw)
  - 💣 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
- - 😝 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
- - 👉 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)<!-- MEMES:END -->
+ - 😝 [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
+ - 👉 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)<!-- MEMES:END -->
 
 ---
 

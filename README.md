@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Towson Apple Store employee union strikes back, allege unfair treatment after closure](https://appleinsider.com/articles/26/04/27/towson-apple-store-employee-union-strikes-back-allege-unfair-treatment-after-closure?utm_source=rss)
- - [Cole Allen Charged With Attempting to Assassinate Trump](https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/)
- - [Samsung&#39;s New Wallet Feature Finds Your Travel Plans and Builds an Itinerary](https://www.cnet.com/tech/services-and-software/samsung-wallet-trips-feature-travel-itinerary/)
- - [Is Outlook Down? Microsoft Reports Sign-On Issues With Email Client](https://www.cnet.com/news-live/is-microsoft-outlook-down-microsoft-april-27-2026/)
- - [Apple&#39;s massive lobbying effort saves it from new App Store rules](https://appleinsider.com/articles/26/04/27/apples-massive-lobbying-effort-saves-it-from-new-app-store-rules?utm_source=rss)<!-- TECH:END -->
+ - [Study: only ~3% of Polymarket accounts drove most price discovery in 2023-2025, suggesting market accuracy comes from an informed minority, not crowd wisdom &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260427/p37#a260427p37)
+ - [How to find a ton of WWDC 2026 community-led events](https://appleinsider.com/articles/26/04/27/how-to-find-a-ton-of-wwdc-2026-community-led-events?utm_source=rss)
+ - [Canonical lays out a plan for AI in Ubuntu Linux](https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features)
+ - [Elon Musk boosts an X post by Ronan Farrow promoting his New Yorker article on Sam Altman&#39;s alleged deceptions, as Musk&#39;s lawsuit against OpenAI heads to trial &lpar;Wired&rpar;](http://www.techmeme.com/260427/p36#a260427p36)
+ - [The M5 MacBook Air Has Never Been Cheaper](https://www.wired.com/story/m5-macbook-air-never-been-cheaper/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

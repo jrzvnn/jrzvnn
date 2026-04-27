@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that the MJ movie is out, it&#39;s a good time to remember Disney banned this Simpsons episode forever](http://9gag.com/gag/a2v6x7D)
- - 😝 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
- - 💣 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
+ - 😝 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)
+ - 😝 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
+ - 💣 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
  - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)
- - 👉 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)<!-- MEMES:END -->
+ - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
 
 ---
 

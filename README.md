@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Anthony Fujiwara, who industrialized &quot;clipping&quot; for social media video marketing and has contributed to the rise of crypto casinos like Stake &lpar;Boaz Sobrado/Forbes&rpar;](http://www.techmeme.com/260427/p13#a260427p13)
- - [The Iran War Is Impacting the Environment in Unseen Ways](https://www.wired.com/story/war-on-iran-unseen-impact-on-environment/)
- - [A look at Elon Musk&#39;s efforts to launch the banking and payments service X Money, delayed by US regulatory concerns, as some industry watchers remain skeptical &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p12#a260427p12)
- - [A deep dive into how ASML became a chokepoint for making cutting-edge chips by betting on EUV, close collaboration with TSMC and the US government, and more &lpar;Neil Hacker/Works in Progress&rpar;](http://www.techmeme.com/260427/p11#a260427p11)
- - [Analysis of 100 actively traded software company loans since January 20 finds sector-wide price pressure as investors seek defensive moats against AI disruption &lpar;Sam Goldfarb/Wall Street Journal&rpar;](http://www.techmeme.com/260427/p10#a260427p10)<!-- TECH:END -->
+ - [Amazon reaches a multiyear licensing deal with Oprah Winfrey to produce twice-a-week video podcasts starting in July, repurpose The Oprah Winfrey Show, and more &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/260427/p20#a260427p20)
+ - [Meta says it signed a deal with Overview Energy for 1GW of space solar energy; the startup seeks to collect sunlight in satellites, with a demonstration in 2028 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/260427/p19#a260427p19)
+ - [What Is Ethernet? Everything You Need to Know About Wired Networks](https://www.wired.com/story/what-is-ethernet/)
+ - [This touchscreen mouse is my over-engineering nightmare](https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series)
+ - [Analysis: as of late 2025, 79 of 500 tracked software companies including HubSpot, Adobe, and Salesforce adopted usage-based AI fees, more than doubling on 2024 &lpar;The Information&rpar;](http://www.techmeme.com/260427/p18#a260427p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

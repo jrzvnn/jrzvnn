@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)
+ - 😝 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
+ - 💣 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
  - 😝 [Whitehouse Correspondence Dinner Shooting incident &lpar;Better footage&rpar;](http://9gag.com/gag/ajPedLQ)
- - 💣 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
- - 😝 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
- - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
+ - 👉 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)<!-- MEMES:END -->
 
 ---
 

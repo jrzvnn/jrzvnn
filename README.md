@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable. Have a nice day.](http://9gag.com/gag/awyWPDB)
- - 😝 [Trustmebro](http://9gag.com/gag/aAyzqYL)
- - 💣 [Instructions unclear... this coffee tastes like shit...](http://9gag.com/gag/aByBNAD)
- - 😝 [Save it for later, always use afterwards](http://9gag.com/gag/a2v69Qw)
- - 👉 [Lisa strikes again.](http://9gag.com/gag/aQzWBeq)<!-- MEMES:END -->
+ - 😝 [Transparent](http://9gag.com/gag/agmzprK)
+ - 😝 [A mimir](http://9gag.com/gag/aoyQAGw)
+ - 💣 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
+ - 😝 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
+ - 👉 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)<!-- MEMES:END -->
 
 ---
 

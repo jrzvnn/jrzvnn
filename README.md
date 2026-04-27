@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trustmebro](http://9gag.com/gag/aAyzqYL)
- - 😝 [Instructions unclear... this coffee tastes like shit...](http://9gag.com/gag/aByBNAD)
- - 💣 [Lisa strikes again.](http://9gag.com/gag/aQzWBeq)
  - 😝 [Understandable. Have a nice day.](http://9gag.com/gag/awyWPDB)
- - 👉 [Nave_f](http://9gag.com/gag/aKGoL2Z)<!-- MEMES:END -->
+ - 😝 [Trustmebro](http://9gag.com/gag/aAyzqYL)
+ - 💣 [Instructions unclear... this coffee tastes like shit...](http://9gag.com/gag/aByBNAD)
+ - 😝 [Save it for later, always use afterwards](http://9gag.com/gag/a2v69Qw)
+ - 👉 [Lisa strikes again.](http://9gag.com/gag/aQzWBeq)<!-- MEMES:END -->
 
 ---
 

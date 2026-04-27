@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Renders based on photos of Samsung&#39;s upcoming smart glasses, expected to launch later this year, show a design nearly identical to Ray-Ban Meta glasses &lpar;Alexander Maxham/Android Headlines&rpar;](http://www.techmeme.com/260427/p38#a260427p38)
+ - [App Store annual subscriptions get new discounted monthly option](https://appleinsider.com/articles/26/04/27/app-store-annual-subscriptions-get-new-discounted-monthly-option?utm_source=rss)
  - [Study: only ~3% of Polymarket accounts drove most price discovery in 2023-2025, suggesting market accuracy comes from an informed minority, not crowd wisdom &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260427/p37#a260427p37)
- - [How to find a ton of WWDC 2026 community-led events](https://appleinsider.com/articles/26/04/27/how-to-find-a-ton-of-wwdc-2026-community-led-events?utm_source=rss)
- - [Canonical lays out a plan for AI in Ubuntu Linux](https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features)
- - [Elon Musk boosts an X post by Ronan Farrow promoting his New Yorker article on Sam Altman&#39;s alleged deceptions, as Musk&#39;s lawsuit against OpenAI heads to trial &lpar;Wired&rpar;](http://www.techmeme.com/260427/p36#a260427p36)
- - [The M5 MacBook Air Has Never Been Cheaper](https://www.wired.com/story/m5-macbook-air-never-been-cheaper/)<!-- TECH:END -->
+ - [Spotify Enters Its Fitness Era With New Peloton and Influencer Partnership](https://www.cnet.com/tech/services-and-software/spotify-enters-fitness-era-new-peloton-influencer-partnership/)
+ - [How to find a ton of WWDC 2026 community-led events](https://appleinsider.com/articles/26/04/27/how-to-find-a-ton-of-wwdc-2026-community-led-events?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

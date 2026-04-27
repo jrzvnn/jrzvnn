@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
- - 😝 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)
- - 💣 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
- - 😝 [Whitehouse Correspondence Dinner Shooting incident &lpar;Better footage&rpar;](http://9gag.com/gag/ajPedLQ)
- - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
+ - 😝 [Trustmebro](http://9gag.com/gag/aAyzqYL)
+ - 😝 [Instructions unclear... this coffee tastes like shit...](http://9gag.com/gag/aByBNAD)
+ - 💣 [Lisa strikes again.](http://9gag.com/gag/aQzWBeq)
+ - 😝 [Understandable. Have a nice day.](http://9gag.com/gag/awyWPDB)
+ - 👉 [Nave_f](http://9gag.com/gag/aKGoL2Z)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reaches a multiyear licensing deal with Oprah Winfrey to produce twice-a-week video podcasts starting in July, repurpose The Oprah Winfrey Show, and more &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/260427/p20#a260427p20)
- - [Meta says it signed a deal with Overview Energy for 1GW of space solar energy; the startup seeks to collect sunlight in satellites, with a demonstration in 2028 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/260427/p19#a260427p19)
- - [What Is Ethernet? Everything You Need to Know About Wired Networks](https://www.wired.com/story/what-is-ethernet/)
- - [This touchscreen mouse is my over-engineering nightmare](https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series)
- - [Analysis: as of late 2025, 79 of 500 tracked software companies including HubSpot, Adobe, and Salesforce adopted usage-based AI fees, more than doubling on 2024 &lpar;The Information&rpar;](http://www.techmeme.com/260427/p18#a260427p18)<!-- TECH:END -->
+ - [Spotify partners with Peloton to offer Premium users access to playlists and a catalog of 1,400+ ad-free fitness classes, its first foray into fitness content &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p23#a260427p23)
+ - [Govee’s multicolor ceiling light doubles as a low-res screen](https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability)
+ - [Spotify is partnering with Peloton for guided workouts](https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts)
+ - [Is this Samsung’s upcoming wide foldable?](https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak)
+ - [LincPlus LincStation E1 review: Compact, entry-level, and fast enough](https://appleinsider.com/articles/26/04/23/lincplus-lincstation-e1-review-compact-entry-level-and-fast-enough?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

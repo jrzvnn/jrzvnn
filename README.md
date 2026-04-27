@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path](https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/)
- - [That UL safety logo is a lot more complicated than it looks](https://www.theverge.com/podcast/918082/ul-testing-fire-safety-ai-standards-jennifer-scanlon)
- - [Microsoft and OpenAI remove a clause that would have given Microsoft IP rights until OpenAI achieved &quot;AGI&quot;; Microsoft retains use of OpenAI&#39;s models until 2032 &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/260427/p26#a260427p26)
- - [Amazon snaps up Oprah Winfrey’s podcast](https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show)
- - [Quantum Art, a quantum computing startup focused on enhancing computational throughput using its unique &quot;multicore&quot; architecture, extends its Series A to $140M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260427/p25#a260427p25)<!-- TECH:END -->
+ - [Elon Musk’s XChat App Is More Like Facebook’s Messenger Than Signal](https://www.wired.com/story/elon-musk-xchat-app-is-more-like-facebook-messenger-than-signal/)
+ - [The Philips Hue Sync Box 8K is 30 percent off](https://www.theverge.com/gadgets/918999/philips-hue-8k-hdmi-sync-box-logitech-g435-gaming-headset-deal-sale)
+ - [Mother&#39;s Day Deals on Smart Bird Feeders &lpar;2026&rpar;](https://www.wired.com/story/mothers-day-deals-on-smart-bird-feeders-2026/)
+ - [Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [PocketOS founder Jer Crane says a Cursor agent running Claude Opus 4.6 accidentally deleted a production database when it was working in a staging environment &lpar;Jer/@lifeof_jer&rpar;](http://www.techmeme.com/260427/p29#a260427p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

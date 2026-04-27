@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s massive lobbying effort saves it from new App Store rules](https://appleinsider.com/articles/26/04/27/apples-massive-lobbying-effort-saves-it-from-new-app-store-rules?utm_source=rss)
- - [Got $20K? Steve Jobs &amp; John Lasseter signed &#39;Toy Story&#39; book is up for auction](https://appleinsider.com/articles/26/04/27/got-20k-steve-jobs-john-lasseter-signed-toy-story-book-is-up-for-auction?utm_source=rss)
- - [Trump demands ABC fire Jimmy Kimmel](https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc)
- - [Google employees ask Sundar Pichai to say no to classified military AI use](https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter)
- - [Have I Been Pwned: ShinyHunters&#39; breach of ADT exposed the personal data of 5.5M people; ADT previously disclosed data breaches in August 2024 and October 2024 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260427/p34#a260427p34)<!-- TECH:END -->
+ - [Towson Apple Store employee union strikes back, allege unfair treatment after closure](https://appleinsider.com/articles/26/04/27/towson-apple-store-employee-union-strikes-back-allege-unfair-treatment-after-closure?utm_source=rss)
+ - [Cole Allen Charged With Attempting to Assassinate Trump](https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/)
+ - [Samsung&#39;s New Wallet Feature Finds Your Travel Plans and Builds an Itinerary](https://www.cnet.com/tech/services-and-software/samsung-wallet-trips-feature-travel-itinerary/)
+ - [Is Outlook Down? Microsoft Reports Sign-On Issues With Email Client](https://www.cnet.com/news-live/is-microsoft-outlook-down-microsoft-april-27-2026/)
+ - [Apple&#39;s massive lobbying effort saves it from new App Store rules](https://appleinsider.com/articles/26/04/27/apples-massive-lobbying-effort-saves-it-from-new-app-store-rules?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

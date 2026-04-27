@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
  - 😝 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
+ - 😝 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)
  - 💣 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
  - 😝 [Whitehouse Correspondence Dinner Shooting incident &lpar;Better footage&rpar;](http://9gag.com/gag/ajPedLQ)
- - 👉 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)<!-- MEMES:END -->
+ - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s XChat App Is More Like Facebook’s Messenger Than Signal](https://www.wired.com/story/elon-musk-xchat-app-is-more-like-facebook-messenger-than-signal/)
- - [The Philips Hue Sync Box 8K is 30 percent off](https://www.theverge.com/gadgets/918999/philips-hue-8k-hdmi-sync-box-logitech-g435-gaming-headset-deal-sale)
- - [Mother&#39;s Day Deals on Smart Bird Feeders &lpar;2026&rpar;](https://www.wired.com/story/mothers-day-deals-on-smart-bird-feeders-2026/)
- - [Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
- - [PocketOS founder Jer Crane says a Cursor agent running Claude Opus 4.6 accidentally deleted a production database when it was working in a staging environment &lpar;Jer/@lifeof_jer&rpar;](http://www.techmeme.com/260427/p29#a260427p29)<!-- TECH:END -->
+ - [Fourth iOS 26.5, macOS Tahoe 26.5 developer betas arrive for testing](https://appleinsider.com/articles/26/04/27/fourth-ios-265-macos-tahoe-265-developer-betas-arrive-for-testing?utm_source=rss)
+ - [Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting](https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories)
+ - [A Brain Implant for Depression Is About to Be Tested in Humans](https://www.wired.com/story/a-brain-implant-for-depression-is-about-to-be-tested-in-humans/)
+ - [GitHub says all Copilot plans will move to usage-based billing on June 1, replacing premium requests with monthly GitHub AI Credits &lpar;Mario Rodriguez/The GitHub Blog&rpar;](http://www.techmeme.com/260427/p33#a260427p33)
+ - [Valve&#39;s New Steam Controller, Coming May 4, May Be My Favorite Controller, Period](https://www.cnet.com/tech/gaming/valves-new-steam-controller-coming-may-4-may-be-my-favorite-controller-period/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI publishes a five-principle framework for AGI development, pledging to resist concentrating AI power and to collaborate with companies and governments &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260426/p12#a260426p12)
- - [An interview with Bill Nguyen, a tech entrepreneur who is completely outsourcing parts of his life to an AI assistant in his bid to create a virtual body double &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/260426/p11#a260426p11)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, April 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-27/)
- - [An amateur solved a 60-year-old Erdős problem using a single GPT-5.4 Pro prompt; Terence Tao says it&#39;s a &quot;nice achievement&quot; with unclear long-term significance &lpar;Joseph Howlett/Scientific American&rpar;](http://www.techmeme.com/260426/p10#a260426p10)
- - [Cyera agrees to acquire Ryft, an Israeli startup building automated data access and governance tools for enterprise AI deployment, sources say for $100M-$130M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260426/p9#a260426p9)<!-- TECH:END -->
+ - [Kuo: OpenAI is working with MediaTek and Qualcomm to develop smartphone chips, with Luxshare handling the system co-design; mass production is expected in 2028 &lpar;@mingchikuo&rpar;](http://www.techmeme.com/260427/p7#a260427p7)
+ - [Sources and executives: the war in the Middle East disrupted crucial PCB raw material supplies; Goldman Sachs says PCB prices surged as much as 40% MoM in April &lpar;Reuters&rpar;](http://www.techmeme.com/260427/p6#a260427p6)
+ - [Chinese state media: China formalizes gig worker rules for online platforms, calling for standardized contracts, fair pay, and stronger labor protections &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p5#a260427p5)
+ - [Stuttgart-based Sereact, which develops software for industrial robots to handle tasks they haven&#39;t been trained on, raised a $110M Series B led by Headline &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260427/p4#a260427p4)
+ - [Filing: Beijing-based GPU maker Moore Threads reports Q1 revenue up 155% YoY to ~$107.89M, and a $4.3M net profit, up from a ~$16.46M net loss in Q1 2025 &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/260427/p3#a260427p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

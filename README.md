@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)
- - 😝 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
- - 💣 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
- - 😝 [The match is heating up\u2026\ud83d\udd25 but you\u2019re not \u2744\ufe0f\ud83d\udecb\ufe0f](http://9gag.com/gag/aGy4oN5)
+ - 😝 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
+ - 😝 [Whitehouse Correspondence Dinner Shooting incident &lpar;Better footage&rpar;](http://9gag.com/gag/ajPedLQ)
+ - 💣 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
+ - 😝 [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
  - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
 
 ---

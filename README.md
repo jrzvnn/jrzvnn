@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Archaeologists and researchers at Pompeii used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius &lpar;Giada Zampano/Associated Press&rpar;](http://www.techmeme.com/260427/p41#a260427p41)
+ - [Apple will let developers offer monthly subscriptions with a 12-month commitment starting in May, except in the US and Singapore &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/260427/p40#a260427p40)
+ - [Xiaomi open sources MiMo-V2.5 and MiMo-V2.5-Pro under the MIT License, saying both models are among the most efficient available for agentic &quot;claw&quot; tasks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260427/p39#a260427p39)
  - [Renders based on photos of Samsung&#39;s upcoming smart glasses, expected to launch later this year, show a design nearly identical to Ray-Ban Meta glasses &lpar;Alexander Maxham/Android Headlines&rpar;](http://www.techmeme.com/260427/p38#a260427p38)
- - [App Store annual subscriptions get new discounted monthly option](https://appleinsider.com/articles/26/04/27/app-store-annual-subscriptions-get-new-discounted-monthly-option?utm_source=rss)
- - [Study: only ~3% of Polymarket accounts drove most price discovery in 2023-2025, suggesting market accuracy comes from an informed minority, not crowd wisdom &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260427/p37#a260427p37)
- - [Spotify Enters Its Fitness Era With New Peloton and Influencer Partnership](https://www.cnet.com/tech/services-and-software/spotify-enters-fitness-era-new-peloton-influencer-partnership/)
- - [How to find a ton of WWDC 2026 community-led events](https://appleinsider.com/articles/26/04/27/how-to-find-a-ton-of-wwdc-2026-community-led-events?utm_source=rss)<!-- TECH:END -->
+ - [App Store annual subscriptions get new discounted monthly option](https://appleinsider.com/articles/26/04/27/app-store-annual-subscriptions-get-new-discounted-monthly-option?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

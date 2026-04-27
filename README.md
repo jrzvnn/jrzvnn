@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: OpenAI is working with MediaTek and Qualcomm to develop smartphone chips, with Luxshare handling the system co-design; mass production is expected in 2028 &lpar;@mingchikuo&rpar;](http://www.techmeme.com/260427/p7#a260427p7)
- - [Sources and executives: the war in the Middle East disrupted crucial PCB raw material supplies; Goldman Sachs says PCB prices surged as much as 40% MoM in April &lpar;Reuters&rpar;](http://www.techmeme.com/260427/p6#a260427p6)
- - [Chinese state media: China formalizes gig worker rules for online platforms, calling for standardized contracts, fair pay, and stronger labor protections &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p5#a260427p5)
- - [Stuttgart-based Sereact, which develops software for industrial robots to handle tasks they haven&#39;t been trained on, raised a $110M Series B led by Headline &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260427/p4#a260427p4)
- - [Filing: Beijing-based GPU maker Moore Threads reports Q1 revenue up 155% YoY to ~$107.89M, and a $4.3M net profit, up from a ~$16.46M net loss in Q1 2025 &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/260427/p3#a260427p3)<!-- TECH:END -->
+ - [A profile of Anthony Fujiwara, who industrialized &quot;clipping&quot; for social media video marketing and has contributed to the rise of crypto casinos like Stake &lpar;Boaz Sobrado/Forbes&rpar;](http://www.techmeme.com/260427/p13#a260427p13)
+ - [The Iran War Is Impacting the Environment in Unseen Ways](https://www.wired.com/story/war-on-iran-unseen-impact-on-environment/)
+ - [A look at Elon Musk&#39;s efforts to launch the banking and payments service X Money, delayed by US regulatory concerns, as some industry watchers remain skeptical &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p12#a260427p12)
+ - [A deep dive into how ASML became a chokepoint for making cutting-edge chips by betting on EUV, close collaboration with TSMC and the US government, and more &lpar;Neil Hacker/Works in Progress&rpar;](http://www.techmeme.com/260427/p11#a260427p11)
+ - [Analysis of 100 actively traded software company loans since January 20 finds sector-wide price pressure as investors seek defensive moats against AI disruption &lpar;Sam Goldfarb/Wall Street Journal&rpar;](http://www.techmeme.com/260427/p10#a260427p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

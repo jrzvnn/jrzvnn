@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS launches a desktop app for its Amazon Quick AI assistant, letting users connect their tools and local files to build custom apps, live dashboards, and more &lpar;Jigar Thakkar/About Amazon&rpar;](http://www.techmeme.com/260428/p43#a260428p43)
- - [James Comey indicted over Instagram seashell photo that allegedly threatened Trump](https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump)
- - [Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’](https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/)
- - [Musk v. Altman: Musk testifies he&#39;s suing OpenAI because &quot;it is not okay to steal a charity&quot; and its pivot sets a concerning precedent for philanthropic efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260428/p42#a260428p42)
- - [Peacock&#39;s Priciest Subscription Is Now on the Roku Channel](https://www.cnet.com/tech/services-and-software/peacock-highest-subscription-now-on-roku-channel/)<!-- TECH:END -->
+ - [US startup Poolside debuts its first open-weight model, Laguna XS.2, a 33B-A3B-parameter MoE model, and Laguna M.1, a proprietary 225B-A23B-parameter MoE model &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260428/p45#a260428p45)
+ - [Three Apple TV series land six Gotham Television Award nominations](https://appleinsider.com/articles/26/04/28/three-apple-tv-series-land-six-gotham-television-award-nominations?utm_source=rss)
+ - [Nvidia launches Nemotron 3 Nano Omni, an open multimodal model with a 30B-A3B hybrid MoE architecture; the Nemotron 3 family saw 50M+ downloads in the past year &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260428/p44#a260428p44)
+ - [Proton VPN to Offer More Speed, More Security, More Servers](https://www.cnet.com/tech/services-and-software/proton-vpn-more-speed-upgrades-linux-business-consumers/)
+ - [AWS launches a desktop app for its Amazon Quick AI assistant, letting users connect their tools and local files to build custom apps, live dashboards, and more &lpar;Jigar Thakkar/About Amazon&rpar;](http://www.techmeme.com/260428/p43#a260428p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Attack of the killer script kiddies](https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai)
- - [As Russia throttles popular apps and intermittently cuts off internet access, ordinary citizens, politicians, TV stars, and others criticize the restrictions &lpar;New York Times&rpar;](http://www.techmeme.com/260428/p13#a260428p13)
- - [The 4 Best Laptop Power Banks We&#39;ve Tested &lpar;2026&rpar;](https://www.wired.com/story/best-laptop-power-banks/)
- - [Stop Trying to Unmask Satoshi Nakamoto](https://www.wired.com/story/the-big-interview-podcast-ben-mckenzie-crypto/)
- - [Gartner: US states issued $3.45B in privacy-related fines to companies in 2025, a total larger than the last five years combined, driven by new privacy laws &lpar;Derek B. Johnson/CyberScoop&rpar;](http://www.techmeme.com/260428/p12#a260428p12)<!-- TECH:END -->
+ - [Adobe Firefly AI Assistant is in open beta. It&#39;s not great.](https://appleinsider.com/articles/26/04/28/adobe-firefly-ai-assistant-is-in-open-beta-its-not-great?utm_source=rss)
+ - [&#39;Liquid Glass Display&#39; may kill iPhone bezel with optical trickery](https://appleinsider.com/articles/26/04/28/liquid-glass-display-may-kill-iphone-bezel-with-optical-trickery?utm_source=rss)
+ - [Whoop Band vs. Apple Watch: I Wore Both for Months to Crown a Winner](https://www.cnet.com/tech/mobile/apple-watch-vs-whoop-band-buying-guide/)
+ - [&#39;Daredevil: Born Again&#39; Season 2 Release Schedule: When to Watch Episode 7](https://www.cnet.com/tech/services-and-software/marvel-daredevil-born-again-season-2-episode-7/)
+ - [I Want Motorola&#39;s Next Razr Ultra to Have Features We See on Its International Phones](https://www.cnet.com/tech/mobile/i-want-motorolas-next-razr-ultra-to-have-features-we-see-on-its-international-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

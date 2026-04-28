@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
- - 😝 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
- - 💣 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
+ - 😝 [Gay gender fluid dog](http://9gag.com/gag/aKGoN16)
+ - 😝 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)
+ - 💣 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
  - 😝 [POV: You didn\u2019t get tickets\u2026 but somehow you\u2019re still in the stadium \u26bd\ufe0f\ud83d\udd25](http://9gag.com/gag/aVvy9yK)
  - 👉 [\u201cUnfortunately, we are heading toward military defeat. That is a fact.\u201d \u2014 Igor Girkin](http://9gag.com/gag/a9yg4Y0)<!-- MEMES:END -->
 

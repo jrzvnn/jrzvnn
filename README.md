@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
- - 😝 [The &#39;pharma bro&#39; we need.](http://9gag.com/gag/a2v6xbe)
- - 💣 [`we can try marriage counseling` , ` we can try making it work`. No thank you.](http://9gag.com/gag/aE0mQON)
- - 😝 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - 👉 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)<!-- MEMES:END -->
+ - 😝 [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
+ - 😝 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
+ - 💣 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
+ - 😝 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
+ - 👉 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)<!-- MEMES:END -->
 
 ---
 

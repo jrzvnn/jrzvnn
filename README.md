@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Archaeologists and researchers at Pompeii used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius &lpar;Giada Zampano/Associated Press&rpar;](http://www.techmeme.com/260427/p41#a260427p41)
- - [Apple will let developers offer monthly subscriptions with a 12-month commitment starting in May, except in the US and Singapore &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/260427/p40#a260427p40)
- - [Xiaomi open sources MiMo-V2.5 and MiMo-V2.5-Pro under the MIT License, saying both models are among the most efficient available for agentic &quot;claw&quot; tasks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260427/p39#a260427p39)
- - [Renders based on photos of Samsung&#39;s upcoming smart glasses, expected to launch later this year, show a design nearly identical to Ray-Ban Meta glasses &lpar;Alexander Maxham/Android Headlines&rpar;](http://www.techmeme.com/260427/p38#a260427p38)
- - [App Store annual subscriptions get new discounted monthly option](https://appleinsider.com/articles/26/04/27/app-store-annual-subscriptions-get-new-discounted-monthly-option?utm_source=rss)<!-- TECH:END -->
+ - [Google is testing AI chatbot search for YouTube](https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search)
+ - [FTC: Americans reported losing $2.1B to social media scams in 2025, including $794M to scams that started on Facebook, more than on any other platform &lpar;Scott Younker/Tom&#39;s Guide&rpar;](http://www.techmeme.com/260427/p43#a260427p43)
+ - [Bambu Lab H2C review: the Cadillac of 3D printers](https://appleinsider.com/articles/26/04/27/bambu-lab-h2c-review-the-cadillac-of-3d-printers?utm_source=rss)
+ - [Taylor Swift&#39;s TAS Rights Management has filed applications to trademark the singer&#39;s voice and image, aiming to protect against threats posed by AI &lpar;Josh Gerben/Gerben IP&rpar;](http://www.techmeme.com/260427/p42#a260427p42)
+ - [Archaeologists and researchers at Pompeii used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius &lpar;Giada Zampano/Associated Press&rpar;](http://www.techmeme.com/260427/p41#a260427p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

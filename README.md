@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro used for hundreds of cataract surgeries in the last year](https://appleinsider.com/articles/26/04/28/apple-vision-pro-used-for-hundreds-of-cataract-surgeries-in-the-last-year?utm_source=rss)
- - [NXP reports Q1 revenue up 12% YoY to $3.18B, vs. $3.15B est., and forecasts Q2 revenue above estimates; NXPI jumps 13%+ after hours &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260428/p41#a260428p41)
- - [Sources: the US Commerce Department last week ordered multiple chip equipment companies to halt some shipments to China&#39;s second-largest chipmaker, Hua Hong &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260428/p40#a260428p40)
- - [Robinhood reports Q1 revenue up 15% YoY to $1.07B, vs. $1.14B est., and crypto revenue down 47% to $134M, vs. $147.6M est.; HOOD drops 6%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260428/p39#a260428p39)
- - [Elon Musk tells the jury that all he wants to do is save humanity](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity)<!-- TECH:END -->
+ - [AWS launches a desktop app for its Amazon Quick AI assistant, letting users connect their tools and local files to build custom apps, live dashboards, and more &lpar;Jigar Thakkar/About Amazon&rpar;](http://www.techmeme.com/260428/p43#a260428p43)
+ - [James Comey indicted over Instagram seashell photo that allegedly threatened Trump](https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump)
+ - [Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’](https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/)
+ - [Musk v. Altman: Musk testifies he&#39;s suing OpenAI because &quot;it is not okay to steal a charity&quot; and its pivot sets a concerning precedent for philanthropic efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260428/p42#a260428p42)
+ - [Peacock&#39;s Priciest Subscription Is Now on the Roku Channel](https://www.cnet.com/tech/services-and-software/peacock-highest-subscription-now-on-roku-channel/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

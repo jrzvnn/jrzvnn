@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s National Supercomputing Center in Shenzhen unveils the Lingshen project, aiming for 2+ exaFLOPS performance using a domestic-made CPU-only architecture &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260428/p37#a260428p37)
- - [Now YouTube TV lets you multiview any channel you want](https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel)
- - [The FCC is going after the broadcast licenses of Disney-owned ABC stations](https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat)
- - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
- - [Apple is gearing up to overhaul the Photos app with AI tools in iOS 27](https://appleinsider.com/articles/26/04/28/apple-is-gearing-up-to-overhaul-the-photos-app-with-ai-tools-in-ios-27?utm_source=rss)<!-- TECH:END -->
+ - [Apple Vision Pro used for hundreds of cataract surgeries in the last year](https://appleinsider.com/articles/26/04/28/apple-vision-pro-used-for-hundreds-of-cataract-surgeries-in-the-last-year?utm_source=rss)
+ - [NXP reports Q1 revenue up 12% YoY to $3.18B, vs. $3.15B est., and forecasts Q2 revenue above estimates; NXPI jumps 13%+ after hours &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260428/p41#a260428p41)
+ - [Sources: the US Commerce Department last week ordered multiple chip equipment companies to halt some shipments to China&#39;s second-largest chipmaker, Hua Hong &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260428/p40#a260428p40)
+ - [Robinhood reports Q1 revenue up 15% YoY to $1.07B, vs. $1.14B est., and crypto revenue down 47% to $134M, vs. $147.6M est.; HOOD drops 6%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260428/p39#a260428p39)
+ - [Elon Musk tells the jury that all he wants to do is save humanity](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

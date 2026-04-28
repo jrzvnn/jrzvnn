@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How politics works!](http://9gag.com/gag/azxpvDK)
+ - 😝 [How to tell a game was good](http://9gag.com/gag/aGy4q1w)
  - 😝 [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
- - 💣 [Its just a prank bro. the prank:](http://9gag.com/gag/aZZOVKz)
+ - 💣 [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)
  - 😝 [POV: You didn\u2019t get tickets\u2026 but somehow you\u2019re still in the stadium \u26bd\ufe0f\ud83d\udd25](http://9gag.com/gag/aVvy9yK)
- - 👉 [Japan](http://9gag.com/gag/ayNjA9W)<!-- MEMES:END -->
+ - 👉 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)<!-- MEMES:END -->
 
 ---
 

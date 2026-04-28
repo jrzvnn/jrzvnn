@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says it plans to expand its Amazon Now quick commerce service to 100 Indian cities; the service is currently live in Delhi, Mumbai, and Bengaluru &lpar;The Economic Times&rpar;](http://www.techmeme.com/260427/p53#a260427p53)
- - [Jury selection in Musk v. Altman: ‘People don’t like him’](https://www.theverge.com/tech/919469/elon-musk-dont-like)
- - [Sources: Meta is preparing to have to unwind its Manus acquisition after China banned the transaction; Manus investors have already received their returns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260427/p52#a260427p52)
- - [Shanghai-based Lightelligence, which makes photonics chips, surges by nearly 400% in its trading debut in Hong Kong after raising ~$310M in its IPO &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/260427/p51#a260427p51)
- - [OpenAI releases Symphony, an open-source spec for agent orchestration that turns a project-management board like Linear into a control plane for coding agents &lpar;OpenAI&rpar;](http://www.techmeme.com/260427/p50#a260427p50)<!-- TECH:END -->
+ - [Many US rural communities oppose AI data center buildout; Pew says 67% of planned data centers are in rural areas, while 87% of existing ones are in urban areas &lpar;Financial Times&rpar;](http://www.techmeme.com/260428/p7#a260428p7)
+ - [An analysis of Internet Archive data finds that by mid-2025, ~35% of new websites published since ChatGPT&#39;s launch in late 2022 were AI-generated or AI-assisted &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/260428/p6#a260428p6)
+ - [Kpler, an online analytics platform tracking global maritime traffic and energy flows, says it has gained millions of new users since the war in Iran began &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/260428/p5#a260428p5)
+ - [Source: Google signed a deal allowing the US DOD to use Google&#39;s AI for &quot;any lawful government purpose&quot;; Google says the agreement amends an existing contract &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/260428/p4#a260428p4)
+ - [Layoffs.fyi: layoffs affecting 45,800 tech employees were announced in March 2026, making it the worst month for reported tech job cuts in at least two years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260428/p3#a260428p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

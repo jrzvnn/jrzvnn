@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
- - 😝 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)
- - 💣 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
+ - 😝 [Transparent](http://9gag.com/gag/agmzprK)
+ - 😝 [Yomif Kejelcha everyone](http://9gag.com/gag/aAyzNZ9)
+ - 💣 [How politics works!](http://9gag.com/gag/azxpvDK)
  - 😝 [POV: You didn\u2019t get tickets\u2026 but somehow you\u2019re still in the stadium \u26bd\ufe0f\ud83d\udd25](http://9gag.com/gag/aVvy9yK)
- - 👉 [Transparent](http://9gag.com/gag/agmzprK)<!-- MEMES:END -->
+ - 👉 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
+ - 😝 [Finally someone ragebaiting Adam this time](http://9gag.com/gag/aGy4NL7)
+ - 😝 [Transparent](http://9gag.com/gag/agmzprK)
+ - 💣 [How?](http://9gag.com/gag/a34Xx2N)
  - 😝 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - 💣 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
- - 😝 [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
- - 👉 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)<!-- MEMES:END -->
+ - 👉 [Here, have a bunch of knot tying tricks to save and forget in this trying time...](http://9gag.com/gag/a9yg4AL)<!-- MEMES:END -->
 
 ---
 

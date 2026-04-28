@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally someone ragebaiting Adam this time](http://9gag.com/gag/aGy4NL7)
- - 😝 [Transparent](http://9gag.com/gag/agmzprK)
- - 💣 [How?](http://9gag.com/gag/a34Xx2N)
+ - 😝 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
+ - 😝 [The &#39;pharma bro&#39; we need.](http://9gag.com/gag/a2v6xbe)
+ - 💣 [`we can try marriage counseling` , ` we can try making it work`. No thank you.](http://9gag.com/gag/aE0mQON)
  - 😝 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - 👉 [Here, have a bunch of knot tying tricks to save and forget in this trying time...](http://9gag.com/gag/a9yg4AL)<!-- MEMES:END -->
+ - 👉 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)<!-- MEMES:END -->
 
 ---
 

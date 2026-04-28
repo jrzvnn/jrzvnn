@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Firefly AI Assistant is in open beta. It&#39;s not great.](https://appleinsider.com/articles/26/04/28/adobe-firefly-ai-assistant-is-in-open-beta-its-not-great?utm_source=rss)
- - [&#39;Liquid Glass Display&#39; may kill iPhone bezel with optical trickery](https://appleinsider.com/articles/26/04/28/liquid-glass-display-may-kill-iphone-bezel-with-optical-trickery?utm_source=rss)
- - [Whoop Band vs. Apple Watch: I Wore Both for Months to Crown a Winner](https://www.cnet.com/tech/mobile/apple-watch-vs-whoop-band-buying-guide/)
- - [&#39;Daredevil: Born Again&#39; Season 2 Release Schedule: When to Watch Episode 7](https://www.cnet.com/tech/services-and-software/marvel-daredevil-born-again-season-2-episode-7/)
- - [I Want Motorola&#39;s Next Razr Ultra to Have Features We See on Its International Phones](https://www.cnet.com/tech/mobile/i-want-motorolas-next-razr-ultra-to-have-features-we-see-on-its-international-phones/)<!-- TECH:END -->
+ - [Apple TV’s new horror series is scarier because it’s also hilarious](https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview)
+ - [The latest Kindle Paperwhite drops to its best price all year](https://www.theverge.com/gadgets/919644/kindle-paperwhite-marathon-deal-sale)
+ - [AWS launches Amazon Connect Decisions and Amazon Connect Talent, which are AI agentic tools aimed at logistics workers and recruiters &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260428/p31#a260428p31)
+ - [Claude can now plug directly into Photoshop, Blender, and Ableton](https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender)
+ - [Lovable launches its AI coding app on iOS and Android, letting users code via voice or text AI prompts, and allowing them to switch between a PC and mobile &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260428/p30#a260428p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s a busy time for sci-fi, but don’t miss Aphelion](https://www.theverge.com/entertainment/919379/aphelion-review-sci-fi-game-steam-ps5-xbox)
- - [The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/)
- - [Adidas’ Lightest Shoes Ever Were Behind the First Sub-2-Hour Marathon](https://www.wired.com/story/sub-2-hour-marathon-adidas-shoes-sabastian-sawe/)
- - [Microsoft Office can now be controlled with Logitech’s MX Creative Console](https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion)
- - [Q&amp;A with Evan Spiegel on why distribution is the most important moat in consumer tech, investing in Specs, 2026 as a &quot;crucible&quot; moment for Snap, and more &lpar;Lenny Rachitsky/Lenny&#39;s Newsletter&rpar;](http://www.techmeme.com/260428/p8#a260428p8)<!-- TECH:END -->
+ - [Attack of the killer script kiddies](https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai)
+ - [As Russia throttles popular apps and intermittently cuts off internet access, ordinary citizens, politicians, TV stars, and others criticize the restrictions &lpar;New York Times&rpar;](http://www.techmeme.com/260428/p13#a260428p13)
+ - [The 4 Best Laptop Power Banks We&#39;ve Tested &lpar;2026&rpar;](https://www.wired.com/story/best-laptop-power-banks/)
+ - [Stop Trying to Unmask Satoshi Nakamoto](https://www.wired.com/story/the-big-interview-podcast-ben-mckenzie-crypto/)
+ - [Gartner: US states issued $3.45B in privacy-related fines to companies in 2025, a total larger than the last five years combined, driven by new privacy laws &lpar;Derek B. Johnson/CyberScoop&rpar;](http://www.techmeme.com/260428/p12#a260428p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

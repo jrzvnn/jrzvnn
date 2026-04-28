@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get dragged into a police investigation by proximity alone — for now](https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants)
- - [‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off](https://www.wired.com/story/meta-covalen-ai-workers-layoffs/)
- - [Google Home makes it easier to understand why devices aren&amp;#8217;t working](https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update)
- - [Sources: Apple plans an AI overhaul for photo editing in iOS 27, including using on-device AI models to extend, enhance, and reframe photos &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260428/p36#a260428p36)
- - [The Nex Playground gaming console is $60 off this week](https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale)<!-- TECH:END -->
+ - [China&#39;s National Supercomputing Center in Shenzhen unveils the Lingshen project, aiming for 2+ exaFLOPS performance using a domestic-made CPU-only architecture &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260428/p37#a260428p37)
+ - [Now YouTube TV lets you multiview any channel you want](https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel)
+ - [The FCC is going after the broadcast licenses of Disney-owned ABC stations](https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat)
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [Apple is gearing up to overhaul the Photos app with AI tools in iOS 27](https://appleinsider.com/articles/26/04/28/apple-is-gearing-up-to-overhaul-the-photos-app-with-ai-tools-in-ios-27?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

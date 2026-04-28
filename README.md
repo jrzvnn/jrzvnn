@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV’s new horror series is scarier because it’s also hilarious](https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview)
- - [The latest Kindle Paperwhite drops to its best price all year](https://www.theverge.com/gadgets/919644/kindle-paperwhite-marathon-deal-sale)
- - [AWS launches Amazon Connect Decisions and Amazon Connect Talent, which are AI agentic tools aimed at logistics workers and recruiters &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260428/p31#a260428p31)
- - [Claude can now plug directly into Photoshop, Blender, and Ableton](https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender)
- - [Lovable launches its AI coding app on iOS and Android, letting users code via voice or text AI prompts, and allowing them to switch between a PC and mobile &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260428/p30#a260428p30)<!-- TECH:END -->
+ - [You can get dragged into a police investigation by proximity alone — for now](https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants)
+ - [‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off](https://www.wired.com/story/meta-covalen-ai-workers-layoffs/)
+ - [Google Home makes it easier to understand why devices aren&amp;#8217;t working](https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update)
+ - [Sources: Apple plans an AI overhaul for photo editing in iOS 27, including using on-device AI models to extend, enhance, and reframe photos &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260428/p36#a260428p36)
+ - [The Nex Playground gaming console is $60 off this week](https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

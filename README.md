@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is testing AI chatbot search for YouTube](https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search)
- - [FTC: Americans reported losing $2.1B to social media scams in 2025, including $794M to scams that started on Facebook, more than on any other platform &lpar;Scott Younker/Tom&#39;s Guide&rpar;](http://www.techmeme.com/260427/p43#a260427p43)
- - [Bambu Lab H2C review: the Cadillac of 3D printers](https://appleinsider.com/articles/26/04/27/bambu-lab-h2c-review-the-cadillac-of-3d-printers?utm_source=rss)
- - [Taylor Swift&#39;s TAS Rights Management has filed applications to trademark the singer&#39;s voice and image, aiming to protect against threats posed by AI &lpar;Josh Gerben/Gerben IP&rpar;](http://www.techmeme.com/260427/p42#a260427p42)
- - [Archaeologists and researchers at Pompeii used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius &lpar;Giada Zampano/Associated Press&rpar;](http://www.techmeme.com/260427/p41#a260427p41)<!-- TECH:END -->
+ - [Amazon says it plans to expand its Amazon Now quick commerce service to 100 Indian cities; the service is currently live in Delhi, Mumbai, and Bengaluru &lpar;The Economic Times&rpar;](http://www.techmeme.com/260427/p53#a260427p53)
+ - [Jury selection in Musk v. Altman: ‘People don’t like him’](https://www.theverge.com/tech/919469/elon-musk-dont-like)
+ - [Sources: Meta is preparing to have to unwind its Manus acquisition after China banned the transaction; Manus investors have already received their returns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260427/p52#a260427p52)
+ - [Shanghai-based Lightelligence, which makes photonics chips, surges by nearly 400% in its trading debut in Hong Kong after raising ~$310M in its IPO &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/260427/p51#a260427p51)
+ - [OpenAI releases Symphony, an open-source spec for agent orchestration that turns a project-management board like Linear into a control plane for coding agents &lpar;OpenAI&rpar;](http://www.techmeme.com/260427/p50#a260427p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

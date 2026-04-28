@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many US rural communities oppose AI data center buildout; Pew says 67% of planned data centers are in rural areas, while 87% of existing ones are in urban areas &lpar;Financial Times&rpar;](http://www.techmeme.com/260428/p7#a260428p7)
- - [An analysis of Internet Archive data finds that by mid-2025, ~35% of new websites published since ChatGPT&#39;s launch in late 2022 were AI-generated or AI-assisted &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/260428/p6#a260428p6)
- - [Kpler, an online analytics platform tracking global maritime traffic and energy flows, says it has gained millions of new users since the war in Iran began &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/260428/p5#a260428p5)
- - [Source: Google signed a deal allowing the US DOD to use Google&#39;s AI for &quot;any lawful government purpose&quot;; Google says the agreement amends an existing contract &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/260428/p4#a260428p4)
- - [Layoffs.fyi: layoffs affecting 45,800 tech employees were announced in March 2026, making it the worst month for reported tech job cuts in at least two years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260428/p3#a260428p3)<!-- TECH:END -->
+ - [It’s a busy time for sci-fi, but don’t miss Aphelion](https://www.theverge.com/entertainment/919379/aphelion-review-sci-fi-game-steam-ps5-xbox)
+ - [The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/)
+ - [Adidas’ Lightest Shoes Ever Were Behind the First Sub-2-Hour Marathon](https://www.wired.com/story/sub-2-hour-marathon-adidas-shoes-sabastian-sawe/)
+ - [Microsoft Office can now be controlled with Logitech’s MX Creative Console](https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion)
+ - [Q&amp;A with Evan Spiegel on why distribution is the most important moat in consumer tech, investing in Specs, 2026 as a &quot;crucible&quot; moment for Snap, and more &lpar;Lenny Rachitsky/Lenny&#39;s Newsletter&rpar;](http://www.techmeme.com/260428/p8#a260428p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

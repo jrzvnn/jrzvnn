@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)
+ - [SpaceX draft IPO filing: from 2023 to 2025, Starlink&#39;s individual subscribers rose from 2.3M to 8.9M, revenue grew from $3.9B to $11.4B, and ARPU fell 18% &lpar;The Information&rpar;](http://www.techmeme.com/260429/p37#a260429p37)
+ - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
  - [Visual Intelligence to be added to iOS 27 camera app as &#39;Siri Mode&#39;](https://appleinsider.com/articles/26/04/29/visual-intelligence-to-be-added-to-ios-27-camera-app-as-siri-mode?utm_source=rss)
- - [Ubuntu’s AI plans have Linux users looking for a &amp;#8216;kill switch&amp;#8217;](https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch)
- - [Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed](https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/)
- - [New iPhone MagSafe removal rumor makes no sense at all](https://appleinsider.com/articles/26/04/29/new-iphone-magsafe-removal-rumor-makes-no-sense-at-all?utm_source=rss)
- - [Pursuit, which uses AI to scan public data to help companies find and win government contracts, raised a $22M seed led by OpenGov co-founder Mike Rosengarten &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260429/p36#a260429p36)<!-- TECH:END -->
+ - [Ubuntu’s AI plans have Linux users looking for a &amp;#8216;kill switch&amp;#8217;](https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

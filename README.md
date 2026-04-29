@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based stock trading platform Sahi raised a $33M Series B led by Accel at a $200M valuation to expand into margin trade funding, commodities, and more &lpar;The Economic Times&rpar;](http://www.techmeme.com/260429/p10#a260429p10)
- - [The European Commission issues preliminary DSA findings against Meta, saying Instagram and Facebook fail to prevent under-13 users from accessing the services &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260429/p9#a260429p9)
- - [Poll: 31% of US adults expect driverless cars to be common within five years, up from 19% in 2018, and 19% say they would own or lease one, the same as in 2018 &lpar;Mary Page James/Gallup&rpar;](http://www.techmeme.com/260429/p8#a260429p8)
- - [An interview with AWS CEO Matt Garman on why AWS will be a &quot;better&quot; OpenAI partner than Microsoft, chip bubble fears, Jeff Bezos&#39; Project Prometheus, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260429/p7#a260429p7)
- - [Filing: TSMC sold its remaining 1.11M Arm shares at $207.65 per share for a total of ~$231M this week; TSMC invested ~$100M in Arm&#39;s 2023 IPO at $51 per share &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260429/p6#a260429p6)<!-- TECH:END -->
+ - [Indonesia sentences eFishery founder Gibran Huzaifah to nine years in prison, concluding a $300M scandal that destroyed one of Southeast Asia&#39;s top startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p16#a260429p16)
+ - [Cash-rich AI startups fuel a boom in Manhattan&#39;s commercial real-estate market; many offices have more vacant desks than workers, as startups prepare to scale &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p15#a260429p15)
+ - [Knight Frank: Anthropic, OpenAI, and other AI companies have leased 1M+ square feet of London office space since the start of 2025, or ~7% of all lettings &lpar;Natasha Voase/Bloomberg&rpar;](http://www.techmeme.com/260429/p14#a260429p14)
+ - [GitHub rushed to fix a critical vulnerability in less than six hours](https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix)
+ - [When Robots Have Their ChatGPT Moment, Remember These Pincers](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

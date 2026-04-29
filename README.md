@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose](http://9gag.com/gag/a87x9q3)
- - 😝 [Final 4](http://9gag.com/gag/ajPevVp)
- - 💣 [Here, have a bunch of knot tying tricks to save and forget in this trying time...](http://9gag.com/gag/a9yg4AL)
- - 😝 [That 2nd guy](http://9gag.com/gag/aVvy8ey)
- - 👉 [That too right before appraisal time](http://9gag.com/gag/axyq8ZM)<!-- MEMES:END -->
+ - 😝 [Hospitality](http://9gag.com/gag/a34XgxN)
+ - 😝 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)
+ - 💣 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
+ - 😝 [Gin Tuonic](http://9gag.com/gag/ajPe3Px)
+ - 👉 [Good luck out there](http://9gag.com/gag/aqyoOYM)<!-- MEMES:END -->
 
 ---
 

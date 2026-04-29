@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet reports Q1 revenue up 22% YoY to $109.9B, vs. $107.2B est., Google Cloud revenue up 63% to $20B, vs. $18.05B est., net income up 81% to $62.58B &lpar;Alphabet&rpar;](http://www.techmeme.com/260429/p57#a260429p57)
- - [Google says paid subscriptions reached 350M in Q1, up 25M QoQ, driven by YouTube and Google One, while Gemini Enterprise paid MAUs grew 40% QoQ &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260429/p56#a260429p56)
- - [Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale)
- - [eBay reports Q1 revenue up 19% YoY to $3.09B, vs. $3.04B est., net income up 2% to $512M, GMV up 18% to $22.2B, and forecasts Q2 revenue above estimates &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p55#a260429p55)
- - [AWS revenue rose 28% YoY in Q1 to $37.6B, vs. $36.64B est., its fastest growth in 15 quarters, as capital expenditure rose to $44.2B, up from $25B in Q1 2025 &lpar;Quartz&rpar;](http://www.techmeme.com/260429/p54#a260429p54)<!-- TECH:END -->
+ - [Apple smart glasses again rumored to support gesture recognition via built-in cameras](https://appleinsider.com/articles/26/04/29/apple-smart-glasses-again-rumored-to-support-gesture-recognition-via-built-in-cameras?utm_source=rss)
+ - [Sources: Anthropic has begun weighing a new funding round at a $900B+ valuation, after previously resisting investor proposals at an $800B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p59#a260429p59)
+ - [Grindr — yes, Grindr — won the WHCD party circuit](https://www.theverge.com/column/920845/grindr-whcd-party-2026)
+ - [Meta says Q1 family daily active people fell 20M QoQ to 3.56B, vs. 3.62B est., due to internet disruptions in Iran and WhatsApp access restrictions in Russia &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260429/p58#a260429p58)
+ - [Alphabet reports Q1 revenue up 22% YoY to $109.9B, vs. $107.2B est., and Google Cloud revenue up 63% to $20B, vs. $18.05B est.; GOOG jumps 6%+ after hours &lpar;Alphabet&rpar;](http://www.techmeme.com/260429/p57#a260429p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

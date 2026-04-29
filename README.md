@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How politics works!](http://9gag.com/gag/azxpvDK)
- - 😝 [Is it true?](http://9gag.com/gag/aNDEG43)
- - 💣 [Gin Tuonic](http://9gag.com/gag/ajPe3Px)
+ - 😝 [Rate this setup.](http://9gag.com/gag/ary70y0)
+ - 😝 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
+ - 💣 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)
  - 😝 [POV: You didn\u2019t get tickets\u2026 but somehow you\u2019re still in the stadium \u26bd\ufe0f\ud83d\udd25](http://9gag.com/gag/aVvy9yK)
- - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
+ - 👉 [Hardworking Locals At The Fast Food Dinners .](http://9gag.com/gag/aO8LO03)<!-- MEMES:END -->
 
 ---
 

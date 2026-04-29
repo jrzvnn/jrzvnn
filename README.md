@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here, have a bunch of knot tying tricks to save and forget in this trying time...](http://9gag.com/gag/a9yg4AL)
- - 😝 [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
- - 💣 [How politics works!](http://9gag.com/gag/azxpvDK)
+ - 😝 [How to tell a game was good](http://9gag.com/gag/aGy4q1w)
+ - 😝 [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)
+ - 💣 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
  - 😝 [POV: You didn\u2019t get tickets\u2026 but somehow you\u2019re still in the stadium \u26bd\ufe0f\ud83d\udd25](http://9gag.com/gag/aVvy9yK)
- - 👉 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)<!-- MEMES:END -->
+ - 👉 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)<!-- MEMES:END -->
 
 ---
 

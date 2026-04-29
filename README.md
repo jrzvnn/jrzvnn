@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to tell a game was good](http://9gag.com/gag/aGy4q1w)
- - 😝 [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)
- - 💣 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
+ - 😝 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
+ - 😝 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
+ - 💣 [Here, have a bunch of knot tying tricks to save and forget in this trying time...](http://9gag.com/gag/a9yg4AL)
  - 😝 [POV: You didn\u2019t get tickets\u2026 but somehow you\u2019re still in the stadium \u26bd\ufe0f\ud83d\udd25](http://9gag.com/gag/aVvy9yK)
- - 👉 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)<!-- MEMES:END -->
+ - 👉 [Good luck out there](http://9gag.com/gag/aqyoOYM)<!-- MEMES:END -->
 
 ---
 

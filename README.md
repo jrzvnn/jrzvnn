@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet reports Q1 revenue up 22% YoY to $109.9B, vs. $107.2B est., Google Cloud revenue up 63% to $20B, vs. $18.05B est., net income up 81% to $62.58B &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/260429/p43#a260429p43)
+ - [Meta reports Q1 revenue up 33% YoY to $56.31B, net income up 61% to $26.77B, and family DAP up 4% to 3.56B on average for March; META drops 6%+ after hours &lpar;Meta&rpar;](http://www.techmeme.com/260429/p42#a260429p42)
+ - [Letters: House Homeland Security Committee and House China Select Committee are probing Airbnb and Cursor maker Anysphere over their use of Chinese AI models &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/260429/p41#a260429p41)
  - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)
- - [SpaceX draft IPO filing: from 2023 to 2025, Starlink&#39;s individual subscribers rose from 2.3M to 8.9M, revenue grew from $3.9B to $11.4B, and ARPU fell 18% &lpar;The Information&rpar;](http://www.techmeme.com/260429/p37#a260429p37)
- - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
- - [Visual Intelligence to be added to iOS 27 camera app as &#39;Siri Mode&#39;](https://appleinsider.com/articles/26/04/29/visual-intelligence-to-be-added-to-ios-27-camera-app-as-siri-mode?utm_source=rss)
- - [Ubuntu’s AI plans have Linux users looking for a &amp;#8216;kill switch&amp;#8217;](https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch)<!-- TECH:END -->
+ - [Google says the Gemini app can now generate files; supported formats include PDF, Microsoft Word and Excel, Google Docs and Sheets, plain text, and Markdown &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260429/p40#a260429p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

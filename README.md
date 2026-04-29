@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gin Tuonic](http://9gag.com/gag/ajPe3Px)
- - 😝 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
- - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
- - 😝 [Good luck out there](http://9gag.com/gag/aqyoOYM)
- - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
+ - 😝 [Choose](http://9gag.com/gag/a87x9q3)
+ - 😝 [Final 4](http://9gag.com/gag/ajPevVp)
+ - 💣 [Here, have a bunch of knot tying tricks to save and forget in this trying time...](http://9gag.com/gag/a9yg4AL)
+ - 😝 [That 2nd guy](http://9gag.com/gag/aVvy8ey)
+ - 👉 [That too right before appraisal time](http://9gag.com/gag/axyq8ZM)<!-- MEMES:END -->
 
 ---
 

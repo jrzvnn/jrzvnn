@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Walking Pads for Working From Home &lpar;2026&rpar;](https://www.wired.com/story/best-walking-pads/)
- - [Electric air taxis are finally taking flight — just not with passengers](https://www.theverge.com/transportation/919532/joby-aviation-electric-air-taxi-jfk-manhattan-faa)
- - [Saros reminded me how great the DualSense can be](https://www.theverge.com/games/920070/saros-ps5-dualsense-controller-haptics-rumble)
- - [Your PS5 can now transform into a Linux PC](https://www.theverge.com/news/920322/ps5-linux-project-exploit-install)
- - [Rogo, which uses AI to help lighten junior bankers&#39; workloads, raised a $160M Series D led by Kleiner Perkins at a $2B valuation, up from $750M in January &lpar;Todd Gillespie/Bloomberg&rpar;](http://www.techmeme.com/260429/p23#a260429p23)<!-- TECH:END -->
+ - [The keyboard used to score Dune 2 is getting more affordable](https://www.theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller)
+ - [Larry’s risky business](https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout)
+ - [Formula 1 coverage expands across Apple services for Miami Grand Prix](https://appleinsider.com/articles/26/04/29/formula-1-coverage-expands-across-apple-services-for-miami-grand-prix?utm_source=rss)
+ - [Crypto payments company MoonPay acquires Israeli crypto security startup Sodot, sources say in a ~$100M all-stock deal, to launch a unit focused on institutions &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260429/p27#a260429p27)
+ - [Brookfield-backed Compass drops plans to develop 800+ acres in Virginia&#39;s 2,100-acre Digital Gateway data center corridor, sources say due to local opposition &lpar;Dawn Lim/Bloomberg&rpar;](http://www.techmeme.com/260429/p26#a260429p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

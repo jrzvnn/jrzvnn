@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
  - 😝 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)
- - 😝 [Rate this setup.](http://9gag.com/gag/ary70y0)
- - 💣 [Hardworking Locals At The Fast Food Dinners .](http://9gag.com/gag/aO8LO03)
- - 😝 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
- - 👉 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)<!-- MEMES:END -->
+ - 💣 [Gin Tuonic](http://9gag.com/gag/ajPe3Px)
+ - 😝 [Show me your most cursed image](http://9gag.com/gag/abAno4p)
+ - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron Q1 Ultra 8K review: mechanical keyboard performance multiplier](https://appleinsider.com/articles/26/04/29/keychron-q1-ultra-8k-review-mechanical-keyboard-performance-multiplier?utm_source=rss)
- - [OpenAI Really Wants Codex to Shut Up About Goblins](https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/)
- - [Mitchell Hashimoto, co-founder of HashiCorp, says his terminal application Ghostty will move off GitHub, citing GitHub&#39;s frequent outages &lpar;Mitchell Hashimoto&rpar;](http://www.techmeme.com/260428/p48#a260428p48)
- - [It’s primetime for conspiracy theorist video creators](https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag)
- - [Sources: Goldman Sachs stopped its bankers in Hong Kong from using Anthropic&#39;s models; Anthropic says its models were never officially &quot;supported&quot; in Hong Kong &lpar;Financial Times&rpar;](http://www.techmeme.com/260428/p47#a260428p47)<!-- TECH:END -->
+ - [App Store policy must change as Epic convinces US Circuit Court to reverse stay](https://appleinsider.com/articles/26/04/29/app-store-policy-must-change-as-epic-convinces-us-circuit-court-to-reverse-stay?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-29/)
+ - [Microsoft is rolling out Copilot 365 to all of Accenture&#39;s roughly 743,000 employees, in the biggest enterprise deal for Copilot, following a 2023 pilot &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/260428/p53#a260428p53)
+ - [EU countries and lawmakers reach an impasse on a deal watering down the EU&#39;s AI Act due to some parties seeking exemptions for already regulated industries &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260428/p52#a260428p52)
+ - [A US judge denied Sam Bankman-Fried&#39;s request for a new trial based on what SBF called new evidence; SBF tried to withdraw his request, but the judge refused &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260428/p51#a260428p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

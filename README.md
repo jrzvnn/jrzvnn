@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Musk v. Altman: Elon Musk says he was a &quot;fool&quot; for backing OpenAI, accusing Altman and Brockman of manipulating him into donating tens of millions of dollars &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p60#a260429p60)
  - [Apple smart glasses again rumored to support gesture recognition via built-in cameras](https://appleinsider.com/articles/26/04/29/apple-smart-glasses-again-rumored-to-support-gesture-recognition-via-built-in-cameras?utm_source=rss)
  - [Sources: Anthropic has begun weighing a new funding round at a $900B+ valuation, after previously resisting investor proposals at an $800B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p59#a260429p59)
- - [Grindr — yes, Grindr — won the WHCD party circuit](https://www.theverge.com/column/920845/grindr-whcd-party-2026)
- - [Meta says Q1 family daily active people fell 20M QoQ to 3.56B, vs. 3.62B est., due to internet disruptions in Iran and WhatsApp access restrictions in Russia &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260429/p58#a260429p58)
- - [Alphabet reports Q1 revenue up 22% YoY to $109.9B, vs. $107.2B est., and Google Cloud revenue up 63% to $20B, vs. $18.05B est.; GOOG jumps 6%+ after hours &lpar;Alphabet&rpar;](http://www.techmeme.com/260429/p57#a260429p57)<!-- TECH:END -->
+ - [Motorola Razr Fold vs. Samsung Galaxy Z Fold 7: How the Book-Style Phones Compare](https://www.cnet.com/tech/mobile/motorola-razr-fold-vs-samsung-galaxy-z-fold-7/)
+ - [Grindr — yes, Grindr — won the WHCD party circuit](https://www.theverge.com/column/920845/grindr-whcd-party-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

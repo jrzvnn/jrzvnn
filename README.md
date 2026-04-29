@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your most cursed image](http://9gag.com/gag/abAno4p)
- - 😝 [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
- - 💣 [Cute reporter](http://9gag.com/gag/aByBM4Z)
+ - 😝 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
+ - 😝 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
+ - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
  - 😝 [The Referee Is The `Government`](http://9gag.com/gag/amo4QK2)
- - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
+ - 👉 [The ceiling](http://9gag.com/gag/a87xN91)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hospitality](http://9gag.com/gag/a34XgxN)
- - 😝 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)
- - 💣 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
+ - 😝 [Hardworking Locals At The Fast Food Dinners .](http://9gag.com/gag/aO8LO03)
+ - 😝 [This human excrement, may she find no peace](http://9gag.com/gag/aByBz5N)
+ - 💣 [Final 4](http://9gag.com/gag/ajPevVp)
  - 😝 [Gin Tuonic](http://9gag.com/gag/ajPe3Px)
- - 👉 [Good luck out there](http://9gag.com/gag/aqyoOYM)<!-- MEMES:END -->
+ - 👉 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)<!-- MEMES:END -->
 
 ---
 

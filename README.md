@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The keyboard used to score Dune 2 is getting more affordable](https://www.theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller)
- - [Larry’s risky business](https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout)
- - [Formula 1 coverage expands across Apple services for Miami Grand Prix](https://appleinsider.com/articles/26/04/29/formula-1-coverage-expands-across-apple-services-for-miami-grand-prix?utm_source=rss)
- - [Crypto payments company MoonPay acquires Israeli crypto security startup Sodot, sources say in a ~$100M all-stock deal, to launch a unit focused on institutions &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260429/p27#a260429p27)
- - [Brookfield-backed Compass drops plans to develop 800+ acres in Virginia&#39;s 2,100-acre Digital Gateway data center corridor, sources say due to local opposition &lpar;Dawn Lim/Bloomberg&rpar;](http://www.techmeme.com/260429/p26#a260429p26)<!-- TECH:END -->
+ - [Scout AI, which is building an AI model to operate and command military assets like autonomous ATVs, raised a $100M Series A co-led by Align and Draper &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260429/p32#a260429p32)
+ - [Motorola&#39;s New Razr Folding Phones Command a Higher Price and Few Upgrades](https://www.wired.com/story/motorola-razr-2026-folding-phones/)
+ - [Motorola just revealed the Razr Fold’s price and hoo boy](https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability)
+ - [The new Razr Ultra is still the best-looking phone out there](https://www.theverge.com/tech/920183/motorola-razr-ultra-2026-wood-finish-alcantara-price)
+ - [The Moto Razr and Razr Plus are victims of shrinkflation](https://www.theverge.com/tech/920236/motorola-razr-plus-2026-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

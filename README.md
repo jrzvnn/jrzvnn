@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia sentences eFishery founder Gibran Huzaifah to nine years in prison, concluding a $300M scandal that destroyed one of Southeast Asia&#39;s top startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p16#a260429p16)
- - [Cash-rich AI startups fuel a boom in Manhattan&#39;s commercial real-estate market; many offices have more vacant desks than workers, as startups prepare to scale &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p15#a260429p15)
- - [Knight Frank: Anthropic, OpenAI, and other AI companies have leased 1M+ square feet of London office space since the start of 2025, or ~7% of all lettings &lpar;Natasha Voase/Bloomberg&rpar;](http://www.techmeme.com/260429/p14#a260429p14)
- - [GitHub rushed to fix a critical vulnerability in less than six hours](https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix)
- - [When Robots Have Their ChatGPT Moment, Remember These Pincers](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)<!-- TECH:END -->
+ - [Best Walking Pads for Working From Home &lpar;2026&rpar;](https://www.wired.com/story/best-walking-pads/)
+ - [Electric air taxis are finally taking flight — just not with passengers](https://www.theverge.com/transportation/919532/joby-aviation-electric-air-taxi-jfk-manhattan-faa)
+ - [Saros reminded me how great the DualSense can be](https://www.theverge.com/games/920070/saros-ps5-dualsense-controller-haptics-rumble)
+ - [Your PS5 can now transform into a Linux PC](https://www.theverge.com/news/920322/ps5-linux-project-exploit-install)
+ - [Rogo, which uses AI to help lighten junior bankers&#39; workloads, raised a $160M Series D led by Kleiner Perkins at a $2B valuation, up from $750M in January &lpar;Todd Gillespie/Bloomberg&rpar;](http://www.techmeme.com/260429/p23#a260429p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

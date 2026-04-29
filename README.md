@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store policy must change as Epic convinces US Circuit Court to reverse stay](https://appleinsider.com/articles/26/04/29/app-store-policy-must-change-as-epic-convinces-us-circuit-court-to-reverse-stay?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-29/)
- - [Microsoft is rolling out Copilot 365 to all of Accenture&#39;s roughly 743,000 employees, in the biggest enterprise deal for Copilot, following a 2023 pilot &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/260428/p53#a260428p53)
- - [EU countries and lawmakers reach an impasse on a deal watering down the EU&#39;s AI Act due to some parties seeking exemptions for already regulated industries &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260428/p52#a260428p52)
- - [A US judge denied Sam Bankman-Fried&#39;s request for a new trial based on what SBF called new evidence; SBF tried to withdraw his request, but the judge refused &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260428/p51#a260428p51)<!-- TECH:END -->
+ - [Filing: TSMC sold its remaining 1.11M Arm shares at $207.65 per share for a total of ~$231M this week; TSMC invested ~$100M in Arm&#39;s 2023 IPO at $51 per share &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260429/p6#a260429p6)
+ - [Sources: China suspends issuing new Level 4 autonomous vehicle licenses, after over 100 of Baidu&#39;s Apollo Go robotaxis disrupted traffic in Wuhan last month &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p5#a260429p5)
+ - [20% Off LG Promo Code &amp; Coupons | May 2026](https://www.wired.com/story/lg-promo-code/)
+ - [Sources: Apple tells suppliers it will maintain its current production share in India rather than expand, after local sites struggled without China-based teams &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260429/p4#a260429p4)
+ - [Pentagon&#39;s Digital and AI Chief Cameron Stanley confirms the DoD is expanding its Google Gemini use, saying &quot;overreliance on one vendor is never a good thing&quot; &lpar;Seema Mody/CNBC&rpar;](http://www.techmeme.com/260429/p3#a260429p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

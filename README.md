@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US startup Poolside debuts its first open-weight model, Laguna XS.2, a 33B-A3B-parameter MoE model, and Laguna M.1, a proprietary 225B-A23B-parameter MoE model &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260428/p45#a260428p45)
- - [Three Apple TV series land six Gotham Television Award nominations](https://appleinsider.com/articles/26/04/28/three-apple-tv-series-land-six-gotham-television-award-nominations?utm_source=rss)
- - [Nvidia launches Nemotron 3 Nano Omni, an open multimodal model with a 30B-A3B hybrid MoE architecture; the Nemotron 3 family saw 50M+ downloads in the past year &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260428/p44#a260428p44)
- - [Proton VPN to Offer More Speed, More Security, More Servers](https://www.cnet.com/tech/services-and-software/proton-vpn-more-speed-upgrades-linux-business-consumers/)
- - [AWS launches a desktop app for its Amazon Quick AI assistant, letting users connect their tools and local files to build custom apps, live dashboards, and more &lpar;Jigar Thakkar/About Amazon&rpar;](http://www.techmeme.com/260428/p43#a260428p43)<!-- TECH:END -->
+ - [Keychron Q1 Ultra 8K review: mechanical keyboard performance multiplier](https://appleinsider.com/articles/26/04/29/keychron-q1-ultra-8k-review-mechanical-keyboard-performance-multiplier?utm_source=rss)
+ - [OpenAI Really Wants Codex to Shut Up About Goblins](https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/)
+ - [Mitchell Hashimoto, co-founder of HashiCorp, says his terminal application Ghostty will move off GitHub, citing GitHub&#39;s frequent outages &lpar;Mitchell Hashimoto&rpar;](http://www.techmeme.com/260428/p48#a260428p48)
+ - [It’s primetime for conspiracy theorist video creators](https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag)
+ - [Sources: Goldman Sachs stopped its bankers in Hong Kong from using Anthropic&#39;s models; Anthropic says its models were never officially &quot;supported&quot; in Hong Kong &lpar;Financial Times&rpar;](http://www.techmeme.com/260428/p47#a260428p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

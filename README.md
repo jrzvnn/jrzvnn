@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Show me your most cursed image](http://9gag.com/gag/abAno4p)
- - 😝 [Hardworking Locals At The Fast Food Dinners .](http://9gag.com/gag/aO8LO03)
- - 💣 [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
- - 😝 [It is Wednesday my Dudes! Yes I painted it!](http://9gag.com/gag/a0eygxz)
+ - 😝 [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
+ - 💣 [Cute reporter](http://9gag.com/gag/aByBM4Z)
+ - 😝 [The Referee Is The `Government`](http://9gag.com/gag/amo4QK2)
  - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
 
 ---

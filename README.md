@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation now requires a ‘one-time online check’ to confirm you own a game](https://www.theverge.com/games/921064/sony-playstation-drm-online-license-statement)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-30/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 30 #788](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-30-788/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 30, #583](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-30-584/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 30, #1054](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-30-1054/)<!-- TECH:END -->
+ - [OpenAI’s new security model is for ‘critical cyber defenders’ only](https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber)
+ - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)
+ - [OpenAI says its models, starting with GPT-5.1, &quot;increasingly mentioned goblins, gremlins, and other creatures&quot;, leading to prompt instructions to mitigate it &lpar;OpenAI&rpar;](https://www.techmeme.com/260430/p14#a260430p14)
+ - [The Summer the American Water Crisis Turned Real](https://www.wired.com/story/the-summer-the-american-water-crisis-turned-real/)
+ - [Use Gmail’s ‘Manage Subscriptions’ Tool to Cut Down on Inbox Clutter](https://www.wired.com/story/gmail-manage-subscriptions-cut-down-on-inbox-clutter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

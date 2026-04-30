@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
- - 😝 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
- - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
- - 😝 [The Referee Is The `Government`](http://9gag.com/gag/amo4QK2)
- - 👉 [The ceiling](http://9gag.com/gag/a87xN91)<!-- MEMES:END -->
+ - 😝 [Rate this setup.](http://9gag.com/gag/ary70y0)
+ - 😝 [Choose](http://9gag.com/gag/a87x9q3)
+ - 💣 [That too right before appraisal time](http://9gag.com/gag/axyq8ZM)
+ - 😝 [That 2nd guy](http://9gag.com/gag/aVvy8ey)
+ - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it has signed contracts for 10GW of US AI compute capacity, with 3GW+ added in the past 90 days, hitting a goal it once aimed to reach by 2029 &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260430/p1#a260430p1)
- - [Musk v. Altman: internal 2017 emails show Musk sought majority voting control over OpenAI co-founders, withheld promised funding, and tried to poach researchers &lpar;Wired&rpar;](http://www.techmeme.com/260429/p71#a260429p71)
- - [FDA launches a pilot using AI and cloud computing to give the agency a &quot;direct data feed&quot; to real-time clinical data, aiming to shorten drug approval timelines &lpar;Frank Konkel/Nextgov/FCW&rpar;](http://www.techmeme.com/260429/p70#a260429p70)
- - [SenseTime releases SenseNova-U1, an open-source image model that it says can &quot;read&quot; images without translating them to text, reducing computing power needs &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260429/p69#a260429p69)
- - [Analysts: TikTok Shop generated $4.9B in US sales during Q1 2026, doubling its volume from the previous year; Q1 consumer spending on the platform rose 46% YoY &lpar;Jennifer Williams/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p68#a260429p68)<!-- TECH:END -->
+ - [Analysis: Meta, Alphabet, Microsoft, and Amazon&#39;s combined capex hit a record $130B in Q1 and is projected to reach $725B in 2026, up 77% from $410B in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260430/p8#a260430p8)
+ - [GoTo reports net income of ~$15M for Q1 2026, its first ever, after job cuts and unit disposals helped Indonesia&#39;s largest internet company reduce costs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260430/p7#a260430p7)
+ - [A look at Eka, which trains its robotic claw on a &quot;vision-force-action model&quot; incorporating realistic joints, motors, and physics principles into its simulation &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/260430/p6#a260430p6)
+ - [Apple shipped 71.6% of all smartphones with satellite connectivity in 2025; smartphones with satellite connectivity to reach 46% of global shipments by 2030 &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260430/p5#a260430p5)
+ - [Anthropic unveils BioMysteryBench to test Claude&#39;s bioinformatics skills against human experts, and says Mythos solved ~30% of 23 questions that stumped experts &lpar;Anthropic&rpar;](http://www.techmeme.com/260430/p4#a260430p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

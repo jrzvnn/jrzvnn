@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
  - 😝 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
+ - 😝 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
  - 💣 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
- - 😝 [Bruno Jelovic is a Bosnian animal welfare activist and the founder of the organization Save the Dogs BiH. He rescues dogs from municipal shelters, the streets, abusive situations, and lives on chains.](http://9gag.com/gag/aLn7ELV)
+ - 😝 [Sharing is caring.](http://9gag.com/gag/avyKjgd)
  - 👉 [What meme does get you banned?](http://9gag.com/gag/aQzWKbr)<!-- MEMES:END -->
 
 ---

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anbernic’s new rotating screen handheld will start at less than $100](https://www.theverge.com/tech/921203/anbernic-rg-rotate-android-handheld-pricing-availability-preorders)
- - [All these smart glasses and nothing to do](https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard)
- - [Meta introduces Meta Ads AI connectors in open beta, letting advertisers use their preferred third-party AI tools to create, manage, and analyze campaigns &lpar;Krystal Scanlon/Digiday&rpar;](https://www.techmeme.com/260430/p32#a260430p32)
- - [JuliaHub, which aims to use agentic coding tools to design complex products such as cars and airplanes, raised a $65M Series B led by Dorilton Capital &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260430/p31#a260430p31)
- - [Cloudflare says AI agents can now create Cloudflare accounts, start paid subscriptions, register domains, and deploy apps on behalf of users &lpar;Cloudflare&rpar;](https://www.techmeme.com/260430/p30#a260430p30)<!-- TECH:END -->
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System](https://www.wired.com/story/daniel-davis-immunology-wired-health/)
+ - [The US Senate Judiciary Committee unanimously endorses a bipartisan child safety bill requiring AI companies like OpenAI and Meta to implement age verification &lpar;Emily Birnbaum/Bloomberg&rpar;](https://www.techmeme.com/260430/p37#a260430p37)
+ - [Historic Apple Porsche colors return on Porsche 963 at Laguna Seca](https://appleinsider.com/articles/26/04/30/historic-apple-porsche-colors-return-on-porsche-963-at-laguna-seca?utm_source=rss)
+ - [Cybersecurity analysis: GPT-5.5 reaches a similar level of performance as Mythos Preview and is the second model to solve a multi-step cyberattack simulation &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260430/p36#a260430p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk v. Altman: Elon Musk says he was a &quot;fool&quot; for backing OpenAI, accusing Altman and Brockman of manipulating him into donating tens of millions of dollars &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p60#a260429p60)
- - [Apple smart glasses again rumored to support gesture recognition via built-in cameras](https://appleinsider.com/articles/26/04/29/apple-smart-glasses-again-rumored-to-support-gesture-recognition-via-built-in-cameras?utm_source=rss)
- - [Sources: Anthropic has begun weighing a new funding round at a $900B+ valuation, after previously resisting investor proposals at an $800B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p59#a260429p59)
- - [Motorola Razr Fold vs. Samsung Galaxy Z Fold 7: How the Book-Style Phones Compare](https://www.cnet.com/tech/mobile/motorola-razr-fold-vs-samsung-galaxy-z-fold-7/)
- - [Grindr — yes, Grindr — won the WHCD party circuit](https://www.theverge.com/column/920845/grindr-whcd-party-2026)<!-- TECH:END -->
+ - [Massachusetts-based brain implant company Axoft raised a $55M Series A and says it tested its device in a Shanghai patient, with plans for more trials in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p63#a260429p63)
+ - [Samsung reports Q1 revenue up 69% YoY to ~$90.2B, vs. ~$89.4B est., and operating profit up 756% to ~$38.5B, vs. ~$37.2B est., driven by AI-linked memory demand &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260429/p62#a260429p62)
+ - [Sources: SoftBank plans to create an AI and robotics company called Roze in the US to build data centers and list it as early as 2026, seeking a $100B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260429/p61#a260429p61)
+ - [Elon Musk’s worst enemy in court is Elon Musk](https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman)
+ - [Meta&#39;s AI Bet, and the Evolution of Smart Glasses](https://www.cnet.com/tech/services-and-software/metas-ai-bet-and-the-evolution-of-smart-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

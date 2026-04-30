@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
- - [Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System](https://www.wired.com/story/daniel-davis-immunology-wired-health/)
- - [The US Senate Judiciary Committee unanimously endorses a bipartisan child safety bill requiring AI companies like OpenAI and Meta to implement age verification &lpar;Emily Birnbaum/Bloomberg&rpar;](https://www.techmeme.com/260430/p37#a260430p37)
- - [Historic Apple Porsche colors return on Porsche 963 at Laguna Seca](https://appleinsider.com/articles/26/04/30/historic-apple-porsche-colors-return-on-porsche-963-at-laguna-seca?utm_source=rss)
- - [Cybersecurity analysis: GPT-5.5 reaches a similar level of performance as Mythos Preview and is the second model to solve a multi-step cyberattack simulation &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260430/p36#a260430p36)<!-- TECH:END -->
+ - [Xbox owners can now disable Quick Resume for specific games](https://www.theverge.com/games/921504/xbox-update-quick-resume-disable)
+ - [Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed](https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/)
+ - [Elon Musk Seemingly Admits xAI Has Used OpenAI&#39;s Models to Train Its Own](https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/)
+ - [Standard Intelligence, which is developing computer use AI models, raised $75M led by Sequoia and Spark at a $500M post-money valuation &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/260430/p40#a260430p40)
+ - [OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts](https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

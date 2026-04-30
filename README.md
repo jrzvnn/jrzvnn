@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian’s revenue is up as R2 production kicks into gear](https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2)
- - [Rivian downsizes its goals for its EV factory in Georgia](https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan)
- - [The logic of the racist Supreme Court isn’t adding up](https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act)
- - [North Korea-linked hackers stole ~$577M across the Drift Protocol and KelpDAO hacks in April, accounting for 76% of total crypto hack losses so far in 2026 &lpar;TRM Insights&rpar;](https://www.techmeme.com/260430/p47#a260430p47)
- - [Filing: Meta says it might be forced to withdraw its apps from New Mexico if a judge orders it to adopt the state&#39;s proposed safety features &lpar;Thomas Barrabi/New York Post&rpar;](https://www.techmeme.com/260430/p46#a260430p46)<!-- TECH:END -->
+ - [Roblox’s daily users continue to drop as age-checks slow growth](https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau)
+ - [Twilio reports Q1 revenue up 20% YoY to $1.41B, vs. $1.34B est., and forecasts Q2 revenue above estimates; TWLO jumps 17%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](https://www.techmeme.com/260430/p56#a260430p56)
+ - [Apple earnings crush Wall Street consensus again, Q2 record smashed](https://appleinsider.com/articles/26/04/30/apple-earnings-crush-wall-street-consensus-again-q2-record-smashed?utm_source=rss)
+ - [China demand hinges on good products that resonate with customers, Cook says](https://appleinsider.com/articles/26/04/30/china-demand-hinges-on-good-products-that-resonate-with-customers-cook-says?utm_source=rss)
+ - [Record quarter leads to new $100B share buyback, increased dividend](https://appleinsider.com/articles/26/04/30/record-quarter-leads-to-new-100b-share-buyback-increased-dividend?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

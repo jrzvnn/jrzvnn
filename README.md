@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uploading my old 9gag collection 160](http://9gag.com/gag/aGy4v3z)
- - 😝 [Amazing news for Sam Neill](http://9gag.com/gag/aZZOXg6)
- - 💣 [Khek khek](http://9gag.com/gag/azxpwmx)
- - 😝 [Don&#39;t worry, he&#39;s friendly](http://9gag.com/gag/aKGo57j)
- - 👉 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)<!-- MEMES:END -->
+ - 😝 [Cute reporter](http://9gag.com/gag/aByBM4Z)
+ - 😝 [Show me your most cursed image](http://9gag.com/gag/abAno4p)
+ - 💣 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
+ - 😝 [The 3 most tragic words of the entire serie\u2026.](http://9gag.com/gag/ary7ELy)
+ - 👉 [Toxic work environment](http://9gag.com/gag/aqyownM)<!-- MEMES:END -->
 
 ---
 

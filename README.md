@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cute reporter](http://9gag.com/gag/aByBM4Z)
- - 😝 [Show me your most cursed image](http://9gag.com/gag/abAno4p)
+ - 😝 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
+ - 😝 [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
  - 💣 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
- - 😝 [The 3 most tragic words of the entire serie\u2026.](http://9gag.com/gag/ary7ELy)
- - 👉 [Toxic work environment](http://9gag.com/gag/aqyownM)<!-- MEMES:END -->
+ - 😝 [Toxic work environment](http://9gag.com/gag/aqyownM)
+ - 👉 [Hospitality](http://9gag.com/gag/a34XgxN)<!-- MEMES:END -->
 
 ---
 

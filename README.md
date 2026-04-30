@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iran&#39;s internet blackout, which costs an estimated $80M per day in economic damage, is dividing its military and civilian government, which opposes the measure &lpar;Patrick Sykes/Bloomberg&rpar;](https://www.techmeme.com/260430/p19#a260430p19)
- - [Instagram is expanding its recommendation restrictions beyond Reels to photos and carousels, targeting accounts that post unoriginal content like tweet roundups &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/260430/p18#a260430p18)
- - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2026&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)
- - [Instagram says it doesn’t want your tweet round ups](https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups)
- - [Is this ‘de-extinction’ project actually onto something?](https://www.theverge.com/science/921088/colossal-de-extinction-antelope-reproduction)<!-- TECH:END -->
+ - [Anbernic’s new rotating screen handheld will start at less than $100](https://www.theverge.com/tech/921203/anbernic-rg-rotate-android-handheld-pricing-availability-preorders)
+ - [All these smart glasses and nothing to do](https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard)
+ - [Meta introduces Meta Ads AI connectors in open beta, letting advertisers use their preferred third-party AI tools to create, manage, and analyze campaigns &lpar;Krystal Scanlon/Digiday&rpar;](https://www.techmeme.com/260430/p32#a260430p32)
+ - [JuliaHub, which aims to use agentic coding tools to design complex products such as cars and airplanes, raised a $65M Series B led by Dorilton Capital &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260430/p31#a260430p31)
+ - [Cloudflare says AI agents can now create Cloudflare accounts, start paid subscriptions, register domains, and deploy apps on behalf of users &lpar;Cloudflare&rpar;](https://www.techmeme.com/260430/p30#a260430p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

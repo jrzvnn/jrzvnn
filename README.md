@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What meme does get you banned?](http://9gag.com/gag/aQzWKbr)
- - 😝 [Dont mess with momma&#39;s cat](http://9gag.com/gag/an7PZ5o)
- - 💣 [Toxic work environment](http://9gag.com/gag/aqyownM)
- - 😝 [A Chinese woman living in Taiwan who posted a video about Taiwan&#39;s annexation to China received a red card from the Taiwanese government and was deported to her beloved China. Those are tears of joy... I guess...](http://9gag.com/gag/a4POy5w)
- - 👉 [Show me your most cursed image](http://9gag.com/gag/abAno4p)<!-- MEMES:END -->
+ - 😝 [Attaching this to job applications when they ask for a cover letter:](http://9gag.com/gag/a7oRgNx)
+ - 😝 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
+ - 💣 [What meme does get you banned?](http://9gag.com/gag/aQzWKbr)
+ - 😝 [The corporate cartels still didn&#39;t get the message. That there are still outliers in the market that are still pro consumer. You can&#39;t push anti-consumer practices if the consumers still have a choice. All hail STEAM!](http://9gag.com/gag/agmzw6n)
+ - 👉 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)<!-- MEMES:END -->
 
 ---
 

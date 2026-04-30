@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox owners can now disable Quick Resume for specific games](https://www.theverge.com/games/921504/xbox-update-quick-resume-disable)
- - [Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed](https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/)
- - [Elon Musk Seemingly Admits xAI Has Used OpenAI&#39;s Models to Train Its Own](https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/)
- - [Standard Intelligence, which is developing computer use AI models, raised $75M led by Sequoia and Spark at a $500M post-money valuation &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/260430/p40#a260430p40)
- - [OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts](https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/)<!-- TECH:END -->
+ - [Google is rolling out Gemini to cars that have Google built-in, replacing Google Assistant, starting with English in the US &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260430/p45#a260430p45)
+ - [Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes](https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico)
+ - [With Saros, Housemarque makes a case for doing next-gen games differently](https://www.theverge.com/games/921391/housemarque-interview-saros-ps5)
+ - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
+ - [Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?](https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

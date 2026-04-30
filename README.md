@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That too right before appraisal time](http://9gag.com/gag/axyq8ZM)
- - 😝 [This human excrement, may she find no peace](http://9gag.com/gag/aByBz5N)
- - 💣 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
- - 😝 [Uploading my old 9gag collection 160](http://9gag.com/gag/aGy4v3z)
- - 👉 [Humor](http://9gag.com/gag/ary7wR0)<!-- MEMES:END -->
+ - 😝 [What meme does get you banned?](http://9gag.com/gag/aQzWKbr)
+ - 😝 [Dont mess with momma&#39;s cat](http://9gag.com/gag/an7PZ5o)
+ - 💣 [Toxic work environment](http://9gag.com/gag/aqyownM)
+ - 😝 [A Chinese woman living in Taiwan who posted a video about Taiwan&#39;s annexation to China received a red card from the Taiwanese government and was deported to her beloved China. Those are tears of joy... I guess...](http://9gag.com/gag/a4POy5w)
+ - 👉 [Show me your most cursed image](http://9gag.com/gag/abAno4p)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is rolling out Gemini to cars that have Google built-in, replacing Google Assistant, starting with English in the US &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260430/p45#a260430p45)
- - [Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes](https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico)
- - [With Saros, Housemarque makes a case for doing next-gen games differently](https://www.theverge.com/games/921391/housemarque-interview-saros-ps5)
- - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
- - [Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?](https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/)<!-- TECH:END -->
+ - [Rivian’s revenue is up as R2 production kicks into gear](https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2)
+ - [Rivian downsizes its goals for its EV factory in Georgia](https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan)
+ - [The logic of the racist Supreme Court isn’t adding up](https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act)
+ - [North Korea-linked hackers stole ~$577M across the Drift Protocol and KelpDAO hacks in April, accounting for 76% of total crypto hack losses so far in 2026 &lpar;TRM Insights&rpar;](https://www.techmeme.com/260430/p47#a260430p47)
+ - [Filing: Meta says it might be forced to withdraw its apps from New Mexico if a judge orders it to adopt the state&#39;s proposed safety features &lpar;Thomas Barrabi/New York Post&rpar;](https://www.techmeme.com/260430/p46#a260430p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

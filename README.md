@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox’s daily users continue to drop as age-checks slow growth](https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau)
- - [Twilio reports Q1 revenue up 20% YoY to $1.41B, vs. $1.34B est., and forecasts Q2 revenue above estimates; TWLO jumps 17%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](https://www.techmeme.com/260430/p56#a260430p56)
- - [Apple earnings crush Wall Street consensus again, Q2 record smashed](https://appleinsider.com/articles/26/04/30/apple-earnings-crush-wall-street-consensus-again-q2-record-smashed?utm_source=rss)
- - [China demand hinges on good products that resonate with customers, Cook says](https://appleinsider.com/articles/26/04/30/china-demand-hinges-on-good-products-that-resonate-with-customers-cook-says?utm_source=rss)
- - [Record quarter leads to new $100B share buyback, increased dividend](https://appleinsider.com/articles/26/04/30/record-quarter-leads-to-new-100b-share-buyback-increased-dividend?utm_source=rss)<!-- TECH:END -->
+ - [Any tariff refund Apple gets will be reinvested into US manufacturing](https://appleinsider.com/articles/26/04/30/any-tariff-refund-apple-gets-will-be-reinvested-into-us-manufacturing?utm_source=rss)
+ - [Apple is predicting up to a $110 billion fiscal third quarter 2026](https://appleinsider.com/articles/26/04/30/apple-is-predicting-up-to-a-110-billion-fiscal-third-quarter-2026?utm_source=rss)
+ - [Apple&#39;s memory stockpile is holding for now, but price rises still loom](https://appleinsider.com/articles/26/04/30/apples-memory-stockpile-is-holding-for-now-but-price-rises-still-loom?utm_source=rss)
+ - [Mac mini &amp; Mac Studio supply won&#39;t recover for several months](https://appleinsider.com/articles/26/04/30/mac-lineup-is-doing-so-well-that-apple-cant-keep-up-with-demand?utm_source=rss)
+ - [Sources: Meta HR chief Janelle Gale told employees she can&#39;t rule out further layoffs; Zuckerberg said AI automation is not the driving factor behind them &lpar;Business Insider&rpar;](https://www.techmeme.com/260430/p57#a260430p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

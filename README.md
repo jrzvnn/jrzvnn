@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s new security model is for ‘critical cyber defenders’ only](https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber)
- - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)
- - [OpenAI says its models, starting with GPT-5.1, &quot;increasingly mentioned goblins, gremlins, and other creatures&quot;, leading to prompt instructions to mitigate it &lpar;OpenAI&rpar;](https://www.techmeme.com/260430/p14#a260430p14)
- - [The Summer the American Water Crisis Turned Real](https://www.wired.com/story/the-summer-the-american-water-crisis-turned-real/)
- - [Use Gmail’s ‘Manage Subscriptions’ Tool to Cut Down on Inbox Clutter](https://www.wired.com/story/gmail-manage-subscriptions-cut-down-on-inbox-clutter/)<!-- TECH:END -->
+ - [Iran&#39;s internet blackout, which costs an estimated $80M per day in economic damage, is dividing its military and civilian government, which opposes the measure &lpar;Patrick Sykes/Bloomberg&rpar;](https://www.techmeme.com/260430/p19#a260430p19)
+ - [Instagram is expanding its recommendation restrictions beyond Reels to photos and carousels, targeting accounts that post unoriginal content like tweet roundups &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/260430/p18#a260430p18)
+ - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2026&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)
+ - [Instagram says it doesn’t want your tweet round ups](https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups)
+ - [Is this ‘de-extinction’ project actually onto something?](https://www.theverge.com/science/921088/colossal-de-extinction-antelope-reproduction)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

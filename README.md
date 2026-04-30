@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massachusetts-based brain implant company Axoft raised a $55M Series A and says it tested its device in a Shanghai patient, with plans for more trials in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p63#a260429p63)
- - [Samsung reports Q1 revenue up 69% YoY to ~$90.2B, vs. ~$89.4B est., and operating profit up 756% to ~$38.5B, vs. ~$37.2B est., driven by AI-linked memory demand &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260429/p62#a260429p62)
- - [Sources: SoftBank plans to create an AI and robotics company called Roze in the US to build data centers and list it as early as 2026, seeking a $100B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260429/p61#a260429p61)
- - [Elon Musk’s worst enemy in court is Elon Musk](https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman)
- - [Meta&#39;s AI Bet, and the Evolution of Smart Glasses](https://www.cnet.com/tech/services-and-software/metas-ai-bet-and-the-evolution-of-smart-glasses/)<!-- TECH:END -->
+ - [OpenAI says it has signed contracts for 10GW of US AI compute capacity, with 3GW+ added in the past 90 days, hitting a goal it once aimed to reach by 2029 &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260430/p1#a260430p1)
+ - [Musk v. Altman: internal 2017 emails show Musk sought majority voting control over OpenAI co-founders, withheld promised funding, and tried to poach researchers &lpar;Wired&rpar;](http://www.techmeme.com/260429/p71#a260429p71)
+ - [FDA launches a pilot using AI and cloud computing to give the agency a &quot;direct data feed&quot; to real-time clinical data, aiming to shorten drug approval timelines &lpar;Frank Konkel/Nextgov/FCW&rpar;](http://www.techmeme.com/260429/p70#a260429p70)
+ - [SenseTime releases SenseNova-U1, an open-source image model that it says can &quot;read&quot; images without translating them to text, reducing computing power needs &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260429/p69#a260429p69)
+ - [Analysts: TikTok Shop generated $4.9B in US sales during Q1 2026, doubling its volume from the previous year; Q1 consumer spending on the platform rose 46% YoY &lpar;Jennifer Williams/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p68#a260429p68)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

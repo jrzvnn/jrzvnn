@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There\u2019s no such thing as a perfect ca\u2014 OH MY GOD!](http://9gag.com/gag/aKGo5gQ)
  - 😝 [Uploading my old 9gag collection 160](http://9gag.com/gag/aGy4v3z)
- - 💣 [Khek khek](http://9gag.com/gag/azxpwmx)
  - 😝 [Amazing news for Sam Neill](http://9gag.com/gag/aZZOXg6)
- - 👉 [Don&#39;t worry, he&#39;s friendly](http://9gag.com/gag/aKGo57j)<!-- MEMES:END -->
+ - 💣 [Khek khek](http://9gag.com/gag/azxpwmx)
+ - 😝 [Don&#39;t worry, he&#39;s friendly](http://9gag.com/gag/aKGo57j)
+ - 👉 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)
- - 😝 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
- - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
- - 😝 [My husband&#39;s priorities are clear](http://9gag.com/gag/an7PwQ5)
- - 👉 [Cute reporter](http://9gag.com/gag/aByBM4Z)<!-- MEMES:END -->
+ - 😝 [That too right before appraisal time](http://9gag.com/gag/axyq8ZM)
+ - 😝 [This human excrement, may she find no peace](http://9gag.com/gag/aByBz5N)
+ - 💣 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
+ - 😝 [Uploading my old 9gag collection 160](http://9gag.com/gag/aGy4v3z)
+ - 👉 [Humor](http://9gag.com/gag/ary7wR0)<!-- MEMES:END -->
 
 ---
 

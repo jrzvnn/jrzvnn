@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Attaching this to job applications when they ask for a cover letter:](http://9gag.com/gag/a7oRgNx)
- - 😝 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
- - 💣 [What meme does get you banned?](http://9gag.com/gag/aQzWKbr)
- - 😝 [The corporate cartels still didn&#39;t get the message. That there are still outliers in the market that are still pro consumer. You can&#39;t push anti-consumer practices if the consumers still have a choice. All hail STEAM!](http://9gag.com/gag/agmzw6n)
- - 👉 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)<!-- MEMES:END -->
+ - 😝 [There\u2019s no such thing as a perfect ca\u2014 OH MY GOD!](http://9gag.com/gag/aKGo5gQ)
+ - 😝 [Uploading my old 9gag collection 160](http://9gag.com/gag/aGy4v3z)
+ - 💣 [Khek khek](http://9gag.com/gag/azxpwmx)
+ - 😝 [Amazing news for Sam Neill](http://9gag.com/gag/aZZOXg6)
+ - 👉 [Don&#39;t worry, he&#39;s friendly](http://9gag.com/gag/aKGo57j)<!-- MEMES:END -->
 
 ---
 

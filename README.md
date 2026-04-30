@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)
  - 😝 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
- - 😝 [Cute reporter](http://9gag.com/gag/aByBM4Z)
- - 💣 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
- - 😝 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
- - 👉 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)<!-- MEMES:END -->
+ - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
+ - 😝 [My husband&#39;s priorities are clear](http://9gag.com/gag/an7PwQ5)
+ - 👉 [Cute reporter](http://9gag.com/gag/aByBM4Z)<!-- MEMES:END -->
 
 ---
 

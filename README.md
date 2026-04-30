@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Meta, Alphabet, Microsoft, and Amazon&#39;s combined capex hit a record $130B in Q1 and is projected to reach $725B in 2026, up 77% from $410B in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260430/p8#a260430p8)
- - [GoTo reports net income of ~$15M for Q1 2026, its first ever, after job cuts and unit disposals helped Indonesia&#39;s largest internet company reduce costs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260430/p7#a260430p7)
- - [A look at Eka, which trains its robotic claw on a &quot;vision-force-action model&quot; incorporating realistic joints, motors, and physics principles into its simulation &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/260430/p6#a260430p6)
- - [Apple shipped 71.6% of all smartphones with satellite connectivity in 2025; smartphones with satellite connectivity to reach 46% of global shipments by 2030 &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260430/p5#a260430p5)
- - [Anthropic unveils BioMysteryBench to test Claude&#39;s bioinformatics skills against human experts, and says Mythos solved ~30% of 23 questions that stumped experts &lpar;Anthropic&rpar;](http://www.techmeme.com/260430/p4#a260430p4)<!-- TECH:END -->
+ - [PlayStation now requires a ‘one-time online check’ to confirm you own a game](https://www.theverge.com/games/921064/sony-playstation-drm-online-license-statement)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-30/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 30 #788](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-30-788/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 30, #583](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-30-584/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 30, #1054](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-30-1054/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

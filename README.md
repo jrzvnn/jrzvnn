@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rate this setup.](http://9gag.com/gag/ary70y0)
- - 😝 [Choose](http://9gag.com/gag/a87x9q3)
- - 💣 [That too right before appraisal time](http://9gag.com/gag/axyq8ZM)
- - 😝 [That 2nd guy](http://9gag.com/gag/aVvy8ey)
- - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
+ - 😝 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
+ - 😝 [Cute reporter](http://9gag.com/gag/aByBM4Z)
+ - 💣 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
+ - 😝 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
+ - 👉 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)<!-- MEMES:END -->
 
 ---
 

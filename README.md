@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toxic work environment](http://9gag.com/gag/aqyownM)
+ - 😝 [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
  - 😝 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
- - 💣 [Hospitality](http://9gag.com/gag/a34XgxN)
- - 😝 [Good luck out there](http://9gag.com/gag/aqyoOYM)
- - 👉 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)<!-- MEMES:END -->
+ - 💣 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
+ - 😝 [Bruno Jelovic is a Bosnian animal welfare activist and the founder of the organization Save the Dogs BiH. He rescues dogs from municipal shelters, the streets, abusive situations, and lives on chains.](http://9gag.com/gag/aLn7ELV)
+ - 👉 [What meme does get you banned?](http://9gag.com/gag/aQzWKbr)<!-- MEMES:END -->
 
 ---
 

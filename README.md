@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Attaching this to job applications when they ask for a cover letter:](http://9gag.com/gag/a7oRgNx)
- - 😝 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
- - 💣 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
- - 😝 [Bruno Jelovic is a Bosnian animal welfare activist and the founder of the organization Save the Dogs BiH. He rescues dogs from municipal shelters, the streets, abusive situations, and lives on chains.](http://9gag.com/gag/aLn7ELV)
- - 👉 [The 3 most tragic words of the entire serie\u2026.](http://9gag.com/gag/ary7ELy)<!-- MEMES:END -->
+ - 😝 [Don&#39;t worry, he&#39;s friendly](http://9gag.com/gag/aKGo57j)
+ - 😝 [I guess I&#39;ll have the chicken](http://9gag.com/gag/aPAbLzQ)
+ - 💣 [The corporate cartels still didn&#39;t get the message. That there are still outliers in the market that are still pro consumer. You can&#39;t push anti-consumer practices if the consumers still have a choice. All hail STEAM!](http://9gag.com/gag/agmzw6n)
+ - 😝 [Which way African gamer man...](http://9gag.com/gag/adBDzdV)
+ - 👉 [Soooooo, Happy this is how my high school days looked.](http://9gag.com/gag/aNDEbnv)<!-- MEMES:END -->
 
 ---
 

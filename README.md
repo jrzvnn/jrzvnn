@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Western Digital reports Q3 revenue up 45% YoY to $3.34B, vs. $3.25B est., and forecasts Q4 revenue above estimates; WDC drops 7%+ after hours &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260430/p61#a260430p61)
- - [Sandisk reports Q3 revenue up 251% YoY to $5.95B, vs. $4.72B est., consumer revenue below est., and forecasts Q4 revenue above est.; SNDK drops 5%+ after hours &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260430/p60#a260430p60)
- - [Good Luck Getting a Mac Mini for the Next ‘Several Months’](https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/)
- - [The craziest part of Musk v. Altman happened while the jury was out of the room](https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai)
- - [The US Senate unanimously passed a rule barring senators from trading on prediction markets like Kalshi and Polymarket, amid rising concern over insider trading &lpar;Dan Mangan/CNBC&rpar;](https://www.techmeme.com/260430/p59#a260430p59)<!-- TECH:END -->
+ - [Sources: Huawei expects AI chip revenue to hit ~$12B in 2026, up 60% from $7.5B in 2025, as orders for its Ascend 950PR chip surge and Nvidia stalls in China &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260501/p1#a260501p1)
+ - [Musk v. Altman: OpenAI lawyers claim Shivon Zilis, a longtime Musk employee and mother to four of his children, acted as a covert liaison between him and OpenAI &lpar;Wired&rpar;](https://www.techmeme.com/260430/p66#a260430p66)
+ - [The persistent notion that AI disruption could create a permanent underclass signals how much collateral damage AI companies might tolerate in pursuit of AGI &lpar;Jasmine Sun/New York Times&rpar;](https://www.techmeme.com/260430/p65#a260430p65)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, May 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-1/)
+ - [Sens. Kirsten Gillibrand and Dave McCormick introduce a bill banning members of the legislative and executive branches from trading on prediction markets &lpar;Jason Beeferman/Politico&rpar;](https://www.techmeme.com/260430/p64#a260430p64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

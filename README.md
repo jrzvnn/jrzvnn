@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
  - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 💣 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)
- - 😝 [Bruno Jelovic is a Bosnian animal welfare activist and the founder of the organization Save the Dogs BiH. He rescues dogs from municipal shelters, the streets, abusive situations, and lives on chains.](http://9gag.com/gag/aLn7ELV)
- - 👉 [Know your heroes](http://9gag.com/gag/aE0m48n)<!-- MEMES:END -->
+ - 😝 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
+ - 💣 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
+ - 😝 [Let\u2019s take a moment to appreciate this snippet of Western culture](http://9gag.com/gag/aMVMMEX)
+ - 👉 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)<!-- MEMES:END -->
 
 ---
 

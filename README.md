@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Huawei expects AI chip revenue to hit ~$12B in 2026, up 60% from $7.5B in 2025, as orders for its Ascend 950PR chip surge and Nvidia stalls in China &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260501/p1#a260501p1)
- - [Musk v. Altman: OpenAI lawyers claim Shivon Zilis, a longtime Musk employee and mother to four of his children, acted as a covert liaison between him and OpenAI &lpar;Wired&rpar;](https://www.techmeme.com/260430/p66#a260430p66)
- - [The persistent notion that AI disruption could create a permanent underclass signals how much collateral damage AI companies might tolerate in pursuit of AGI &lpar;Jasmine Sun/New York Times&rpar;](https://www.techmeme.com/260430/p65#a260430p65)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-1/)
- - [Sens. Kirsten Gillibrand and Dave McCormick introduce a bill banning members of the legislative and executive branches from trading on prediction markets &lpar;Jason Beeferman/Politico&rpar;](https://www.techmeme.com/260430/p64#a260430p64)<!-- TECH:END -->
+ - [Researchers detail CopyFail, a now-patched Linux vulnerability that lets unprivileged users gain admin access, as many distributions have yet to add fixes &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260501/p2#a260501p2)
+ - [Top Google Workspace Promo Codes for May](https://www.wired.com/story/google-workspace-promo-code/)
+ - [Booking.com Promo Codes: Up to 20% Off](https://www.wired.com/story/booking-com-promo-code/)
+ - [NordVPN Coupons and Deals: 77% Off in May 2026](https://www.wired.com/story/nordvpn-coupon/)
+ - [50% Off Home Depot Promo Codes | May 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toxic work environment](http://9gag.com/gag/aqyownM)
- - 😝 [Hospitality](http://9gag.com/gag/a34XgxN)
- - 💣 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)
- - 😝 [Today, the leader of second army in the world asked the leader of the first army in the world to ask Ukraine to let them celebrate WW2 parade. Also, there will be no tanks in the parade.](http://9gag.com/gag/adBDz3Z)
- - 👉 [The 3 most tragic words of the entire serie\u2026.](http://9gag.com/gag/ary7ELy)<!-- MEMES:END -->
+ - 😝 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)
+ - 😝 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
+ - 💣 [Im getting my passport now](http://9gag.com/gag/a7oRxpe)
+ - 😝 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)
+ - 👉 [Toxic work environment](http://9gag.com/gag/aqyownM)<!-- MEMES:END -->
 
 ---
 

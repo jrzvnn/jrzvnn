@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
- - 😝 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
- - 💣 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
- - 😝 [Sharing is caring.](http://9gag.com/gag/avyKjgd)
- - 👉 [What meme does get you banned?](http://9gag.com/gag/aQzWKbr)<!-- MEMES:END -->
+ - 😝 [Attaching this to job applications when they ask for a cover letter:](http://9gag.com/gag/a7oRgNx)
+ - 😝 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
+ - 💣 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
+ - 😝 [Bruno Jelovic is a Bosnian animal welfare activist and the founder of the organization Save the Dogs BiH. He rescues dogs from municipal shelters, the streets, abusive situations, and lives on chains.](http://9gag.com/gag/aLn7ELV)
+ - 👉 [The 3 most tragic words of the entire serie\u2026.](http://9gag.com/gag/ary7ELy)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Western Digital reports Q3 revenue up 45% YoY to $3.34B, vs. $3.25B est., and forecasts Q4 revenue above estimates; WDC drops 7%+ after hours &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260430/p61#a260430p61)
+ - [Sandisk reports Q3 revenue up 251% YoY to $5.95B, vs. $4.72B est., consumer revenue below est., and forecasts Q4 revenue above est.; SNDK drops 5%+ after hours &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260430/p60#a260430p60)
  - [Good Luck Getting a Mac Mini for the Next ‘Several Months’](https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/)
  - [The craziest part of Musk v. Altman happened while the jury was out of the room](https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai)
- - [The US Senate unanimously passed a rule barring senators from trading on prediction markets like Kalshi and Polymarket, amid rising concern over insider trading &lpar;Dan Mangan/CNBC&rpar;](https://www.techmeme.com/260430/p59#a260430p59)
- - [Alphabet&#39;s stock climbed 10% on Thursday and 34% in April, its best month since 2004; Meta&#39;s stock plunged 8.5% on Thursday, its steepest drop since October &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260430/p58#a260430p58)
- - [Any tariff refund Apple gets will be reinvested into US manufacturing](https://appleinsider.com/articles/26/04/30/any-tariff-refund-apple-gets-will-be-reinvested-into-us-manufacturing?utm_source=rss)<!-- TECH:END -->
+ - [The US Senate unanimously passed a rule barring senators from trading on prediction markets like Kalshi and Polymarket, amid rising concern over insider trading &lpar;Dan Mangan/CNBC&rpar;](https://www.techmeme.com/260430/p59#a260430p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

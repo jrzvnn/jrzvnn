@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [17 Best Graduation Gifts That Aren&#39;t Totally Cringe &lpar;2026&rpar;](https://www.wired.com/gallery/best-graduation-gifts/)
+ - [Sources: the US DOD strikes agreements with Nvidia, Microsoft, Reflection AI, and AWS to use their AI tools on classified military networks for &quot;lawful&quot; use &lpar;Katrina Manson/Bloomberg&rpar;](https://www.techmeme.com/260501/p6#a260501p6)
+ - [Apple at 50: Steve Jobs, the first star CEO](https://appleinsider.com/articles/26/05/01/apple-at-50-steve-jobs-the-first-star-ceo?utm_source=rss)
  - [Microsoft wants lawyers to trust its new AI agent in Word documents](https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai)
- - [What Chef Jon Kung Swears By in the Kitchen &lpar;2026&rpar;](https://www.wired.com/story/jon-kung-starter-pack/)
- - [Dyson finally made a better robot, but a worse vacuum](https://www.theverge.com/tech/921136/dyson-spot-scrub-ai-wet-dry-robot-vacuum-cleaner-review)
- - [Dyson put someone else’s motor in its robot vacuum](https://www.theverge.com/tech/921432/dyson-robot-vacuum-motor-picea)
- - [Cloud computing provider Nebius agrees to buy Eigen AI, which optimizes the performance of chips running AI inference tasks, for $615M in stock and cash &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260501/p5#a260501p5)<!-- TECH:END -->
+ - [&#39;Micromoon&#39; May Is Here With 2 Full Moons, but Smaller. We&#39;ll Explain](https://www.cnet.com/science/space/once-in-a-blue-moon-may-has-two-full-moons-and-heres-what-you-need-to-know/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

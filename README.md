@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Aurzen’s tiny trifold projector is almost 40 percent off right now](https://www.theverge.com/gadgets/921686/aurzen-zip-mini-projector-garmin-venu-4-watch-deal-sale)
  - [You Found Satoshi? Let’s See the Receipts](https://www.wired.com/story/you-found-satoshi-lets-see-the-receipts/)
  - [What the analysts said about Apple&#39;s record-breaking second quarter](https://appleinsider.com/articles/26/05/01/what-the-analysts-said-about-apples-record-breaking-second-quarter?utm_source=rss)
- - [Sources: Coatue formed Next Frontier in 2025 to buy land for data centers; Next Frontier has a JV with neocloud Fluidstack that&#39;s raised $5.7B via junk bonds &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260501/p11#a260501p11)
+ - [Sources: Coatue formed Next Frontier in 2025 to buy land for data centers; Next Frontier has a JV with neocloud Fluidstack that has raised $5.7B via junk bonds &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260501/p11#a260501p11)
  - [Apple Vision Pro isn&#39;t dead, Ternus talk, &amp; AI rumors on the AppleInsider Podcast](https://appleinsider.com/articles/26/05/01/apple-vision-pro-isnt-dead-ternus-talk-ai-rumors-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

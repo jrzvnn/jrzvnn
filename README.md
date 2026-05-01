@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fun, which builds fiat and crypto payment rails for platforms like Polymarket and Aave, raised a $72M Series A in January, co-led by Multicoin and SignalFire &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260501/p12#a260501p12)
- - [This accessory can snap a Steam Controller to your phone — or almost anything else](https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock)
- - [Players from the NBA, NFL, and MLB call for a ban on betting &amp;#8216;unders&amp;#8217;](https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets)
- - [Severe Linux Copy Fail security flaw uncovered using AI scanning help](https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit)
- - [The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled](https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/)<!-- TECH:END -->
+ - [Meta acquires a startup Assured Robot Intelligence to bolster its robotics team, which is working on humanoid hardware and the underlying AI that powers it &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260501/p15#a260501p15)
+ - [Amazon&amp;#8217;s built-in AI price history expands to show the entire last year](https://www.theverge.com/tech/922302/amazon-price-tracker-year)
+ - [Dreame — the vacuum company — just ‘launched’ its own phones](https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular)
+ - [A bug in popular cPanel, WHM, and WP Squared software has reportedly been exploited since Feb.; CISA it gives a 9.8 CVSS score, tells agencies to patch by May 3 &lpar;Jonathan Greig/The Record&rpar;](https://www.techmeme.com/260501/p14#a260501p14)
+ - [Experts say supply chain attacks compromised SAP and Intercom npm packages, plus the PyPI package Lightning, in a campaign that calls itself Mini Shai-Hulud &lpar;Jessica Lyons/The Register&rpar;](https://www.techmeme.com/260501/p13#a260501p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

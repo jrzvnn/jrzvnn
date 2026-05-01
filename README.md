@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pushing back on AI job loss fears, AWS CEO Matt Garman says Amazon plans to hire 11,000 software engineering interns in 2026, a figure in line with recent years &lpar;Ben Shimkus/Business Insider&rpar;](https://www.techmeme.com/260501/p20#a260501p20)
+ - [AirPods Max 2 one-month review: Spot the difference?](https://appleinsider.com/articles/26/05/01/airpods-max-2-one-month-review-spot-the-difference?utm_source=rss)
+ - [Mac mini pricing shifts, $599 config disappears from Apple store](https://appleinsider.com/articles/26/05/01/mac-mini-pricing-shifts-599-config-disappears-from-apple-store?utm_source=rss)
  - [Some retail traders are training AI agents to buy and sell assets on their behalf, as exchanges like Polymarket and Bybit roll out agent-friendly interfaces &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260501/p19#a260501p19)
- - [The US, UK, Australia, Canada, and New Zealand publish guidance on orgs&#39; use of agentic AI systems, saying many give AI more access than can be safely monitored &lpar;Greg Otto/CyberScoop&rpar;](https://www.techmeme.com/260501/p18#a260501p18)
- - [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
- - [The gender gap in AI use may be a matter of visibility more than usage, as data suggests women face more judgment for using AI and are less likely to admit it &lpar;Issie Lapowsky/Bloomberg&rpar;](https://www.techmeme.com/260501/p17#a260501p17)
- - [This Eye-Catching Indoor Garden Is 20 Percent Off Right Now](https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/)<!-- TECH:END -->
+ - [The US, UK, Australia, Canada, and New Zealand publish guidance on orgs&#39; use of agentic AI systems, saying many give AI more access than can be safely monitored &lpar;Greg Otto/CyberScoop&rpar;](https://www.techmeme.com/260501/p18#a260501p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

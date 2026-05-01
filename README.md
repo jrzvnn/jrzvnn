@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Visiting family in UK](http://9gag.com/gag/azxp3yb)
+ - 😝 [`You&#39;re 37?!`](http://9gag.com/gag/awyWp0R)
+ - 😝 [Good pay](http://9gag.com/gag/aRBqqXy)
+ - 💣 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)
  - 😝 [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
- - 💣 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
- - 😝 [The resemblance is uncanny](http://9gag.com/gag/aByBBGZ)
  - 👉 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)<!-- MEMES:END -->
 
 ---

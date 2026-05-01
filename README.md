@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta acquires a startup Assured Robot Intelligence to bolster its robotics team, which is working on humanoid hardware and the underlying AI that powers it &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260501/p15#a260501p15)
- - [Amazon&amp;#8217;s built-in AI price history expands to show the entire last year](https://www.theverge.com/tech/922302/amazon-price-tracker-year)
- - [Dreame — the vacuum company — just ‘launched’ its own phones](https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular)
- - [A bug in popular cPanel, WHM, and WP Squared software has reportedly been exploited since Feb.; CISA it gives a 9.8 CVSS score, tells agencies to patch by May 3 &lpar;Jonathan Greig/The Record&rpar;](https://www.techmeme.com/260501/p14#a260501p14)
- - [Experts say supply chain attacks compromised SAP and Intercom npm packages, plus the PyPI package Lightning, in a campaign that calls itself Mini Shai-Hulud &lpar;Jessica Lyons/The Register&rpar;](https://www.techmeme.com/260501/p13#a260501p13)<!-- TECH:END -->
+ - [Some retail traders are training AI agents to buy and sell assets on their behalf, as exchanges like Polymarket and Bybit roll out agent-friendly interfaces &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260501/p19#a260501p19)
+ - [The US, UK, Australia, Canada, and New Zealand publish guidance on orgs&#39; use of agentic AI systems, saying many give AI more access than can be safely monitored &lpar;Greg Otto/CyberScoop&rpar;](https://www.techmeme.com/260501/p18#a260501p18)
+ - [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
+ - [The gender gap in AI use may be a matter of visibility more than usage, as data suggests women face more judgment for using AI and are less likely to admit it &lpar;Issie Lapowsky/Bloomberg&rpar;](https://www.techmeme.com/260501/p17#a260501p17)
+ - [This Eye-Catching Indoor Garden Is 20 Percent Off Right Now](https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

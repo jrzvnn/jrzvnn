@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t worry, he&#39;s friendly](http://9gag.com/gag/aKGo57j)
- - 😝 [I guess I&#39;ll have the chicken](http://9gag.com/gag/aPAbLzQ)
- - 💣 [The corporate cartels still didn&#39;t get the message. That there are still outliers in the market that are still pro consumer. You can&#39;t push anti-consumer practices if the consumers still have a choice. All hail STEAM!](http://9gag.com/gag/agmzw6n)
- - 😝 [Which way African gamer man...](http://9gag.com/gag/adBDzdV)
- - 👉 [Soooooo, Happy this is how my high school days looked.](http://9gag.com/gag/aNDEbnv)<!-- MEMES:END -->
+ - 😝 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)
+ - 😝 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
+ - 💣 [Why? WHY?](http://9gag.com/gag/a0eygrq)
+ - 😝 [Fair is fair](http://9gag.com/gag/aByBe2A)
+ - 👉 [Toxic work environment](http://9gag.com/gag/aqyownM)<!-- MEMES:END -->
 
 ---
 

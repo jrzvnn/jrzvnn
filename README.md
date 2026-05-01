@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
- - 😝 [Hospitality](http://9gag.com/gag/a34XgxN)
- - 💣 [This human excrement, may she find no peace](http://9gag.com/gag/aByBz5N)
- - 😝 [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
- - 👉 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)<!-- MEMES:END -->
+ - 😝 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
+ - 😝 [Toxic work environment](http://9gag.com/gag/aqyownM)
+ - 💣 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)
+ - 😝 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)
+ - 👉 [Hospitality](http://9gag.com/gag/a34XgxN)<!-- MEMES:END -->
 
 ---
 

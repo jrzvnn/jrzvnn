@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s like they take it as a personal challenge](http://9gag.com/gag/aE0m4g9)
- - 😝 [Humor](http://9gag.com/gag/ary7wR0)
- - 💣 [Sustainable cat fashion](http://9gag.com/gag/aYQX0Km)
+ - 😝 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
+ - 😝 [Hospitality](http://9gag.com/gag/a34XgxN)
+ - 💣 [This human excrement, may she find no peace](http://9gag.com/gag/aByBz5N)
  - 😝 [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
- - 👉 [Soooooo, Happy this is how my high school days looked.](http://9gag.com/gag/aNDEbnv)<!-- MEMES:END -->
+ - 👉 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)<!-- MEMES:END -->
 
 ---
 

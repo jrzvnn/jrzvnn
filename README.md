@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Graduation Gifts That Aren&#39;t Totally Cringe &lpar;2026&rpar;](https://www.wired.com/gallery/best-graduation-gifts/)
- - [Sources: the US DOD strikes agreements with Nvidia, Microsoft, Reflection AI, and AWS to use their AI tools on classified military networks for &quot;lawful&quot; use &lpar;Katrina Manson/Bloomberg&rpar;](https://www.techmeme.com/260501/p6#a260501p6)
- - [Apple at 50: Steve Jobs, the first star CEO](https://appleinsider.com/articles/26/05/01/apple-at-50-steve-jobs-the-first-star-ceo?utm_source=rss)
- - [Microsoft wants lawyers to trust its new AI agent in Word documents](https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai)
- - [&#39;Micromoon&#39; May Is Here With 2 Full Moons, but Smaller. We&#39;ll Explain](https://www.cnet.com/science/space/once-in-a-blue-moon-may-has-two-full-moons-and-heres-what-you-need-to-know/)<!-- TECH:END -->
+ - [Sources: Peter Thiel&#39;s Founders Fund raised $6B for a fund to invest in later-stage companies, marking its largest haul ever; $4.5B comes from limited partners &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260501/p9#a260501p9)
+ - [My $5K smart bed needs to shut the hell up](https://www.theverge.com/column/921654/optimizer-eight-sleep-ai-summaries-health-wellness)
+ - [Elon Musk had a bad week in court](https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast)
+ - [Your guide to sci-fi streaming season](https://www.theverge.com/tech/921610/sci-fi-streaming-shows-2026)
+ - [Christian content creators are outsourcing AI slop to gig workers on Fiverr](https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

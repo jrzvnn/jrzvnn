@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 😝 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
- - 💣 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
- - 😝 [Let\u2019s take a moment to appreciate this snippet of Western culture](http://9gag.com/gag/aMVMMEX)
- - 👉 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)<!-- MEMES:END -->
+ - 😝 [Visiting family in UK](http://9gag.com/gag/azxp3yb)
+ - 😝 [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
+ - 💣 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
+ - 😝 [The resemblance is uncanny](http://9gag.com/gag/aByBBGZ)
+ - 👉 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)<!-- MEMES:END -->
 
 ---
 

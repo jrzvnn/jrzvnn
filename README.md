@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Researchers detail CopyFail, a now-patched Linux vulnerability that lets unprivileged users gain admin access, as many distributions have yet to add fixes &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260501/p2#a260501p2)
- - [Top Google Workspace Promo Codes for May](https://www.wired.com/story/google-workspace-promo-code/)
- - [Booking.com Promo Codes: Up to 20% Off](https://www.wired.com/story/booking-com-promo-code/)
- - [NordVPN Coupons and Deals: 77% Off in May 2026](https://www.wired.com/story/nordvpn-coupon/)
- - [50% Off Home Depot Promo Codes | May 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [50% Off Home Depot Promo Codes | May 2026](https://www.wired.com/story/home-depot-promo-code/)
+ - [Chewy Promo Codes: $20 Off May 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [10% Dell Coupon Codes | May 2026](https://www.wired.com/story/dell-coupon-code/)
+ - [50% Off DoorDash Promo Code | May 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

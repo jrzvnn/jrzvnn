@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Soundcore Nebula P1 Projector Review &lpar;2026&rpar;: Compact and Portable for Indoor-Outdoor Viewing](https://www.wired.com/review/soundcore-nebula-p1/)
- - [This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection](https://www.wired.com/story/osteoarthritis-joint-damage-single-injection-treatment/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 1, #584](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-1-584/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 1 #789](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-1-789/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 1, #1055](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-1-1055/)<!-- TECH:END -->
+ - [Microsoft wants lawyers to trust its new AI agent in Word documents](https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai)
+ - [What Chef Jon Kung Swears By in the Kitchen &lpar;2026&rpar;](https://www.wired.com/story/jon-kung-starter-pack/)
+ - [Dyson finally made a better robot, but a worse vacuum](https://www.theverge.com/tech/921136/dyson-spot-scrub-ai-wet-dry-robot-vacuum-cleaner-review)
+ - [Dyson put someone else’s motor in its robot vacuum](https://www.theverge.com/tech/921432/dyson-robot-vacuum-motor-picea)
+ - [Cloud computing provider Nebius agrees to buy Eigen AI, which optimizes the performance of chips running AI inference tasks, for $615M in stock and cash &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260501/p5#a260501p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

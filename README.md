@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)
- - 😝 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
- - 💣 [Why? WHY?](http://9gag.com/gag/a0eygrq)
- - 😝 [Fair is fair](http://9gag.com/gag/aByBe2A)
- - 👉 [Toxic work environment](http://9gag.com/gag/aqyownM)<!-- MEMES:END -->
+ - 😝 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
+ - 💣 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
+ - 😝 [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
+ - 👉 [Why? WHY?](http://9gag.com/gag/a0eygrq)<!-- MEMES:END -->
 
 ---
 

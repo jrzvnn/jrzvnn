@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI launches Grok 4.3, featuring &quot;always-on reasoning&quot;, 1M token context window, and low API pricing, and releases a voice cloning suite called Custom Voices &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260501/p27#a260501p27)
+ - [Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars](https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/)
  - [Servers operated by Ubuntu and its parent company Canonical have been down for more than a day, following a &quot;sustained, cross-border attack&quot; &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260501/p26#a260501p26)
  - [Apple has stopped offering a 256GB storage option for the Mac mini globally; Mac mini now starts at 512GB for $799 in the US &lpar;Joe Rossignol/MacRumors&rpar;](https://www.techmeme.com/260501/p25#a260501p25)
- - [Microsoft tests redesigned Windows 11 Run menu with dark mode and more](https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test)
- - [Apple raises the Mac Mini&amp;#8217;s starting price](https://www.theverge.com/tech/922572/apple-mac-mini-256-model)
- - [The Academy of Motion Picture Arts and Sciences issues new rules saying acting and writing must be performed by humans and not AI to be eligible for Oscars &lpar;Lisa Richwine/Reuters&rpar;](https://www.techmeme.com/260501/p24#a260501p24)<!-- TECH:END -->
+ - [Microsoft tests redesigned Windows 11 Run menu with dark mode and more](https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

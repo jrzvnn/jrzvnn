@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)
+ - 😝 [Visiting family in UK](http://9gag.com/gag/azxp3yb)
+ - 💣 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
  - 😝 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)
- - 💣 [Im getting my passport now](http://9gag.com/gag/a7oRxpe)
- - 😝 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)
- - 👉 [Automatic rotor assembly system.](http://9gag.com/gag/aByBAN1)<!-- MEMES:END -->
+ - 👉 [Get in the car bro](http://9gag.com/gag/ary778K)<!-- MEMES:END -->
 
 ---
 

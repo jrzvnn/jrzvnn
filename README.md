@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tovala Family Meals Review: Good Food, Lots of Salt](https://www.wired.com/review/tovala-oven-meal-kit-review-2026/)
+ - [Mac mini is the best platform for Perplexity&#39;s Personal Computer](https://appleinsider.com/articles/26/05/02/mac-mini-is-the-best-platform-for-perplexitys-personal-computer?utm_source=rss)
+ - [&#39;Past Lives,&#39; &#39;Training Day,&#39; &#39;Bodies Bodies Bodies&#39; and More Movies You Can Stream for Free in May](https://www.cnet.com/tech/services-and-software/past-lives-training-day-more-free-movies-streaming-in-may/)
  - [Playing Esoteric Ebb is like rolling the dice with a great DM](https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam)
- - [The things we’re building](https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer)
- - [What You Need to Know About the Foreign-Made Router Ban in the US](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/)
- - [Trump Phone Looks Different, Has No Launch Date and Isn&#39;t Made in America](https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/)
- - [Turns Out the Wrist Might Not Be the Best Place to Track Your Health](https://www.cnet.com/tech/mobile/best-place-to-track-fitness-health-data-wrist-vs-finger-smartwatch-vs-smart-ring/)<!-- TECH:END -->
+ - [The things we’re building](https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

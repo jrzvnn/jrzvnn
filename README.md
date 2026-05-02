@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 😝 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
- - 💣 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)
- - 😝 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)
- - 👉 [Hands](http://9gag.com/gag/aVvypzK)<!-- MEMES:END -->
+ - 😝 [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
+ - 😝 [John Cena showing up for Christmas](http://9gag.com/gag/a4POOKA)
+ - 💣 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
+ - 😝 [Chicken](http://9gag.com/gag/aVvypXO)
+ - 👉 [10 years ago I lived in my vehicle, never having a job more than 6 months. 5 years ago I started my own landscaping gig, and i paid this off today. 43 years old.](http://9gag.com/gag/awyWWED)<!-- MEMES:END -->
 
 ---
 

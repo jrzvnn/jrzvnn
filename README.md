@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-2/)
- - [A UK court orders Samsung to pay ZTE $392M for patents needed to enable phone network access; Samsung faces similar suits from ZTE in China, Germany, and Brazil &lpar;Sam Tobin/Reuters&rpar;](https://www.techmeme.com/260501/p29#a260501p29)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 2, #585](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-2-585/)
- - [Best Red Light Therapy Devices of 2026, Tested and FDA-Cleared](https://www.cnet.com/health/personal-care/best-red-light-therapy-devices/)
- - [Waymo says it is continuing to &quot;refine&quot; its system preventing kids under 18 from riding alone, after adult riders reported new age-verification checks &lpar;Aarian Marshall/Wired&rpar;](https://www.techmeme.com/260501/p28#a260501p28)<!-- TECH:END -->
+ - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)
+ - [30% Off Canon Promo Codes | May 2026](https://www.wired.com/story/canon-promo-code/)
+ - [Surfshark Promo Codes: 87% Off | May 2026](https://www.wired.com/story/surfshark-coupon/)
+ - [20% Off Brooks Promo Code &amp; Deals for | May 2026](https://www.wired.com/story/brooks-promo-code/)
+ - [Columbia Promo Codes: 	15% Off | May2026](https://www.wired.com/story/columbia-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

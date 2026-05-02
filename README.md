@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&amp;#8217;s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
+ - [Study: OpenAI&#39;s o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors &lpar;Robert Booth/The Guardian&rpar;](https://www.techmeme.com/260502/p8#a260502p8)
  - [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown)
  - [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
- - [Sources: Nigerian mobile payments service OPay is preparing for a US IPO at a $4B valuation with Citigroup, Deutsche Bank, and JPMorgan Chase advising &lpar;Bloomberg&rpar;](https://www.techmeme.com/260502/p7#a260502p7)
- - [Disney Parks in 2026: Leia, Luke and Han Hit Galaxy&#39;s Edge](https://www.cnet.com/tech/whats-coming-disney-world-disneyland-new-rides-lands-shows-attractions-characters-2026/)
- - [Sources: Anthropic is in early talks to buy AI inference chips from UK-based Fractile when they become available in 2027 &lpar;The Information&rpar;](https://www.techmeme.com/260502/p6#a260502p6)<!-- TECH:END -->
+ - [Sources: Nigerian mobile payments service OPay is preparing for a US IPO at a $4B valuation with Citigroup, Deutsche Bank, and JPMorgan Chase advising &lpar;Bloomberg&rpar;](https://www.techmeme.com/260502/p7#a260502p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

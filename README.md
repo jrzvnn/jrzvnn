@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10 years ago I lived in my vehicle, never having a job more than 6 months. 5 years ago I started my own landscaping gig, and i paid this off today. 43 years old.](http://9gag.com/gag/awyWWED)
- - 😝 [When cars used to be works of art](http://9gag.com/gag/aGy4mpw)
- - 💣 [Hands](http://9gag.com/gag/aVvypzK)
- - 😝 [History of the 9gagger](http://9gag.com/gag/aGy4mpz)
- - 👉 [Modeling Agency](http://9gag.com/gag/aAyzzng)<!-- MEMES:END -->
+ - 😝 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)
+ - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
+ - 💣 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)
+ - 😝 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
+ - 👉 [Tremble and rage in the cutest package](http://9gag.com/gag/an7PmOV)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: after Trump&#39;s World Liberty raised $550M from investors, tokens worth hundreds of millions in USD were privately sold in &quot;white glove&quot; transactions &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260502/p11#a260502p11)
+ - [DJI Osmo 360 review: A better action camera choice](https://appleinsider.com/articles/26/05/02/dji-osmo-360-review-a-better-action-camera-choice?utm_source=rss)
+ - [I Found 7 of the Best A24 Movies That Are Free to Stream](https://www.cnet.com/tech/services-and-software/7-a24-movies-you-can-enjoy-without-spending-a-dime/)
  - [Investigation: Nobitex was founded by two brothers from Iran&#39;s elite Kharrazi family; the crypto exchange processed hundreds of millions beyond US sanctions &lpar;Reuters&rpar;](https://www.techmeme.com/260502/p10#a260502p10)
- - [Today&#39;s Wordle Hints, Answer and Help for May 3, #1779](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-3-1779/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 3 #791](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-3-791/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 3, #1057](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-3-1057/)
- - [A Chinese court ruled that companies cannot terminate staff just to replace them with AI, following a similar ruling by another Chinese court in December 2025 &lpar;Victor Swezey/Bloomberg&rpar;](https://www.techmeme.com/260502/p9#a260502p9)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for May 3, #1779](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-3-1779/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

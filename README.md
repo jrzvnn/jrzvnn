@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)
- - 😝 [`You&#39;re 37?!`](http://9gag.com/gag/awyWp0R)
- - 💣 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)
+ - 😝 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)
+ - 😝 [Are `These Fans` in the room with us right now?](http://9gag.com/gag/a9ygGv6)
+ - 💣 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
  - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 👉 [Let\u2019s take a moment to appreciate this snippet of Western culture](http://9gag.com/gag/aMVMMEX)<!-- MEMES:END -->
+ - 👉 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)<!-- MEMES:END -->
 
 ---
 

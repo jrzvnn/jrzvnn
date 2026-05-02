@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Chinese court ruled that companies cannot terminate staff just to replace them with AI, following a similar ruling by another Chinese court in December 2025 &lpar;Victor Swezey/Bloomberg&rpar;](https://www.techmeme.com/260502/p9#a260502p9)
- - [Prime Video: The 16 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-prime-video-may-2026/)
- - [Meta&amp;#8217;s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
- - [Study: OpenAI&#39;s o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors &lpar;Robert Booth/The Guardian&rpar;](https://www.techmeme.com/260502/p8#a260502p8)
- - [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown)<!-- TECH:END -->
+ - [An investigation finds Nobitex was founded by two brothers from Iran&#39;s Kharrazi family; the crypto exchange processed hundreds of millions beyond US sanctions &lpar;Reuters&rpar;](https://www.techmeme.com/260502/p10#a260502p10)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 3, #1779](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-3-1779/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 3 #791](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-3-791/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 3, #1057](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-3-1057/)
+ - [A Chinese court ruled that companies cannot terminate staff just to replace them with AI, following a similar ruling by another Chinese court in December 2025 &lpar;Victor Swezey/Bloomberg&rpar;](https://www.techmeme.com/260502/p9#a260502p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

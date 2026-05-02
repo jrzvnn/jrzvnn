@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of OpenAI CFO Sarah Friar, who sources say helped keep OpenAI&#39;s Microsoft deal on track and has privately suggested waiting until 2027 for an IPO &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260502/p4#a260502p4)
- - [8 Best Travel Adapters &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)
- - [Disneyland Now Uses Face Recognition on Visitors](https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/)
- - [Apple AirPods Max 2 Review: The Best Over-Ears for iOS](https://www.wired.com/review/apple-airpods-max-2/)
- - [Ottocast Cabin Care Wireless CarPlay Adapter Review: Tiny Tracker](https://www.wired.com/review/ottocast-cabin-care-wireless-carplay-adapter/)<!-- TECH:END -->
+ - [Playing Esoteric Ebb is like rolling the dice with a great DM](https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam)
+ - [The things we’re building](https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer)
+ - [What You Need to Know About the Foreign-Made Router Ban in the US](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/)
+ - [Trump Phone Looks Different, Has No Launch Date and Isn&#39;t Made in America](https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/)
+ - [Turns Out the Wrist Might Not Be the Best Place to Track Your Health](https://www.cnet.com/tech/mobile/best-place-to-track-fitness-health-data-wrist-vs-finger-smartwatch-vs-smart-ring/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

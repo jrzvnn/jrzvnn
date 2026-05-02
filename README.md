@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ripple Labs investor and exec Chris Larsen plans to spend $3.5M to help Alex Bores, a NY congressional candidate at the center of a proxy war over AI regulation &lpar;New York Times&rpar;](https://www.techmeme.com/260502/p3#a260502p3)
  - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)
  - [30% Off Canon Promo Codes | May 2026](https://www.wired.com/story/canon-promo-code/)
  - [Surfshark Promo Codes: 87% Off | May 2026](https://www.wired.com/story/surfshark-coupon/)
- - [20% Off Brooks Promo Code &amp; Deals for | May 2026](https://www.wired.com/story/brooks-promo-code/)
- - [Columbia Promo Codes: 	15% Off | May2026](https://www.wired.com/story/columbia-promo-code/)<!-- TECH:END -->
+ - [20% Off Brooks Promo Code &amp; Deals for | May 2026](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

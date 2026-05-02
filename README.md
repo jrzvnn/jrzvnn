@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Iodyne Pro Data 24TB review: $15K, ridiculous speed, and probably not for you](https://appleinsider.com/articles/26/04/29/iodyne-pro-data-24tb-review-15k-ridiculous-speed-and-probably-not-for-you?utm_source=rss)
  - [Analysis: after Trump&#39;s World Liberty raised $550M from investors, tokens worth hundreds of millions in USD were privately sold in &quot;white glove&quot; transactions &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260502/p11#a260502p11)
  - [DJI Osmo 360 review: A better action camera choice](https://appleinsider.com/articles/26/05/02/dji-osmo-360-review-a-better-action-camera-choice?utm_source=rss)
  - [I Found 7 of the Best A24 Movies That Are Free to Stream](https://www.cnet.com/tech/services-and-software/7-a24-movies-you-can-enjoy-without-spending-a-dime/)
- - [Investigation: Nobitex was founded by two brothers from Iran&#39;s elite Kharrazi family; the crypto exchange processed hundreds of millions beyond US sanctions &lpar;Reuters&rpar;](https://www.techmeme.com/260502/p10#a260502p10)
- - [Today&#39;s Wordle Hints, Answer and Help for May 3, #1779](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-3-1779/)<!-- TECH:END -->
+ - [Investigation: Nobitex was founded by two brothers from Iran&#39;s elite Kharrazi family; the crypto exchange processed hundreds of millions beyond US sanctions &lpar;Reuters&rpar;](https://www.techmeme.com/260502/p10#a260502p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Risk of online shopping](http://9gag.com/gag/aW43Xwq)
- - 😝 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)
- - 💣 [New meme format?](http://9gag.com/gag/a87xg8d)
- - 😝 [Im getting my passport now](http://9gag.com/gag/a7oRxpe)
- - 👉 [Let\u2019s take a moment to appreciate this snippet of Western culture](http://9gag.com/gag/aMVMMEX)<!-- MEMES:END -->
+ - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
+ - 😝 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
+ - 💣 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)
+ - 😝 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)
+ - 👉 [Hands](http://9gag.com/gag/aVvypzK)<!-- MEMES:END -->
 
 ---
 

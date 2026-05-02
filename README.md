@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown)
  - [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
  - [Sources: Nigerian mobile payments service OPay is preparing for a US IPO at a $4B valuation with Citigroup, Deutsche Bank, and JPMorgan Chase advising &lpar;Bloomberg&rpar;](https://www.techmeme.com/260502/p7#a260502p7)
- - [Sources: Anthropic is in early talks to buy AI inference chips from UK-based Fractile when they become available in 2027 &lpar;The Information&rpar;](https://www.techmeme.com/260502/p6#a260502p6)
- - [Heybike&#39;s Latest Foldable Commuter Bike Has Kept My Car in the Driveway for Weeks. It&#39;s Now $500 Cheaper](https://www.cnet.com/roadshow/news/may-1-heybike-ranger-3-pro-deal/)
- - [Mac mini is the best platform for Perplexity&#39;s Personal Computer](https://appleinsider.com/articles/26/05/02/mac-mini-is-the-best-platform-for-perplexitys-personal-computer?utm_source=rss)<!-- TECH:END -->
+ - [Disney Parks in 2026: Leia, Luke and Han Hit Galaxy&#39;s Edge](https://www.cnet.com/tech/whats-coming-disney-world-disneyland-new-rides-lands-shows-attractions-characters-2026/)
+ - [Sources: Anthropic is in early talks to buy AI inference chips from UK-based Fractile when they become available in 2027 &lpar;The Information&rpar;](https://www.techmeme.com/260502/p6#a260502p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
  - 😝 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
- - 💣 [Finally some good news](http://9gag.com/gag/aByBA8D)
+ - 😝 [Finally some good news](http://9gag.com/gag/aByBA8D)
+ - 💣 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)
  - 😝 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)
- - 👉 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)<!-- MEMES:END -->
+ - 👉 [Dit is Berlin, wa?](http://9gag.com/gag/aYQX3GV)<!-- MEMES:END -->
 
 ---
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Get in the car bro](http://9gag.com/gag/ary778K)
- - 😝 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)
- - 💣 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)
+ - 😝 [Dit is Berlin, wa?](http://9gag.com/gag/aYQX3GV)
+ - 💣 [Risk of online shopping](http://9gag.com/gag/aW43Xwq)
  - 😝 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
- - 👉 [When cars used to be works of art](http://9gag.com/gag/aGy4mpw)<!-- MEMES:END -->
+ - 👉 [To Dystopia and beyond](http://9gag.com/gag/aD2eK1K)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get in the car bro](http://9gag.com/gag/ary778K)
- - 😝 [Dit is Berlin, wa?](http://9gag.com/gag/aYQX3GV)
- - 💣 [Risk of online shopping](http://9gag.com/gag/aW43Xwq)
- - 😝 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
- - 👉 [To Dystopia and beyond](http://9gag.com/gag/aD2eK1K)<!-- MEMES:END -->
+ - 😝 [10 years ago I lived in my vehicle, never having a job more than 6 months. 5 years ago I started my own landscaping gig, and i paid this off today. 43 years old.](http://9gag.com/gag/awyWWED)
+ - 😝 [When cars used to be works of art](http://9gag.com/gag/aGy4mpw)
+ - 💣 [Hands](http://9gag.com/gag/aVvypzK)
+ - 😝 [History of the 9gagger](http://9gag.com/gag/aGy4mpz)
+ - 👉 [Modeling Agency](http://9gag.com/gag/aAyzzng)<!-- MEMES:END -->
 
 ---
 

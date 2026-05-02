@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation finds Nobitex was founded by two brothers from Iran&#39;s Kharrazi family; the crypto exchange processed hundreds of millions beyond US sanctions &lpar;Reuters&rpar;](https://www.techmeme.com/260502/p10#a260502p10)
+ - [Investigation: Nobitex was founded by two brothers from Iran&#39;s elite Kharrazi family; the crypto exchange processed hundreds of millions beyond US sanctions &lpar;Reuters&rpar;](https://www.techmeme.com/260502/p10#a260502p10)
  - [Today&#39;s Wordle Hints, Answer and Help for May 3, #1779](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-3-1779/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for May 3 #791](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-3-791/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for May 3, #1057](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-3-1057/)

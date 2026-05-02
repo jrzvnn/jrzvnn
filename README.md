@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
- - 😝 [John Cena showing up for Christmas](http://9gag.com/gag/a4POOKA)
+ - 😝 [Risk of online shopping](http://9gag.com/gag/aW43Xwq)
+ - 😝 [New meme format?](http://9gag.com/gag/a87xg8d)
  - 💣 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 😝 [Chicken](http://9gag.com/gag/aVvypXO)
- - 👉 [10 years ago I lived in my vehicle, never having a job more than 6 months. 5 years ago I started my own landscaping gig, and i paid this off today. 43 years old.](http://9gag.com/gag/awyWWED)<!-- MEMES:END -->
+ - 😝 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)
+ - 👉 [When cars used to be works of art](http://9gag.com/gag/aGy4mpw)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ripple Labs investor and exec Chris Larsen plans to spend $3.5M to help Alex Bores, a NY congressional candidate at the center of a proxy war over AI regulation &lpar;New York Times&rpar;](https://www.techmeme.com/260502/p3#a260502p3)
- - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)
- - [30% Off Canon Promo Codes | May 2026](https://www.wired.com/story/canon-promo-code/)
- - [Surfshark Promo Codes: 87% Off | May 2026](https://www.wired.com/story/surfshark-coupon/)
- - [20% Off Brooks Promo Code &amp; Deals for | May 2026](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
+ - [An Editor’s Picks: The Best Gifts for Bird Lovers](https://www.wired.com/story/best-gifts-for-bird-lovers/)
+ - [The Mother&#39;s Day Gifts Our Editors Love &lpar;2026&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2026/)
+ - [TVs Are Getting Uncomfortably Bright, and This is Why](https://www.cnet.com/tech/home-entertainment/tvs-are-getting-brighter-we-tested-them-but-why-is-that-important/)
+ - [Why Does Wikipedia Think I’m Evan Spiegel?](https://www.wired.com/story/why-does-wikipedia-think-im-evan-spiegel/)
+ - [Ripple Labs investor and exec Chris Larsen plans to spend $3.5M to help Alex Bores, a NY congressional candidate at the center of a proxy war over AI regulation &lpar;New York Times&rpar;](https://www.techmeme.com/260502/p3#a260502p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

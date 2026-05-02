@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)
- - 😝 [Nearly all White French studio in colab with European Space Agency... Millions spent on new game Aphelion. Creates the most predictable protagonist imaginable. Game peaks at 219 players on Steam](http://9gag.com/gag/aVvy6Xv)
- - 💣 [Are `These Fans` in the room with us right now?](http://9gag.com/gag/a9ygGv6)
- - 😝 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
- - 👉 [Chicken](http://9gag.com/gag/aVvypXO)<!-- MEMES:END -->
+ - 😝 [Risk of online shopping](http://9gag.com/gag/aW43Xwq)
+ - 😝 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)
+ - 💣 [New meme format?](http://9gag.com/gag/a87xg8d)
+ - 😝 [Im getting my passport now](http://9gag.com/gag/a7oRxpe)
+ - 👉 [Let\u2019s take a moment to appreciate this snippet of Western culture](http://9gag.com/gag/aMVMMEX)<!-- MEMES:END -->
 
 ---
 

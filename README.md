@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/ayNjKop)
- - 😝 [New meme format?](http://9gag.com/gag/a87xg8d)
- - 💣 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)
  - 😝 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/ayNjKop)
+ - 💣 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
+ - 😝 [New meme format?](http://9gag.com/gag/a87xg8d)
  - 👉 [When cars used to be works of art](http://9gag.com/gag/aGy4mpw)<!-- MEMES:END -->
 
 ---

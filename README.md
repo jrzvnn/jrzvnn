@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic is in early talks to buy AI inference chips from UK-based Fractile when they become available in 2027 &lpar;The Information&rpar;](https://www.techmeme.com/260502/p6#a260502p6)
+ - [Heybike&#39;s Latest Foldable Commuter Bike Has Kept My Car in the Driveway for Weeks. It&#39;s Now $500 Cheaper](https://www.cnet.com/roadshow/news/may-1-heybike-ranger-3-pro-deal/)
  - [Mac mini is the best platform for Perplexity&#39;s Personal Computer](https://appleinsider.com/articles/26/05/02/mac-mini-is-the-best-platform-for-perplexitys-personal-computer?utm_source=rss)
  - [Eddy Cue hopes for &#39;F1&#39; movie sequel, increased streaming rights](https://appleinsider.com/articles/26/05/02/eddy-cue-hopes-for-f1-movie-sequel-increased-streaming-rights?utm_source=rss)
- - [Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15](https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal)
- - [A look at casino-style games, considered gambling in some US states, where player &quot;whales&quot; spend tens of thousands via IAP on Apple, Google, and Meta platforms &lpar;Bloomberg&rpar;](https://www.techmeme.com/260502/p5#a260502p5)
- - [Tovala Family Meals Review: Good Food, Lots of Salt](https://www.wired.com/review/tovala-oven-meal-kit-review-2026/)<!-- TECH:END -->
+ - [Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15](https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

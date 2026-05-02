@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fair is fair](http://9gag.com/gag/aByBe2A)
- - 😝 [Know your heroes](http://9gag.com/gag/aE0m48n)
- - 💣 [Rapper Eminem fears to diss](http://9gag.com/gag/aO8LWX2)
- - 😝 [John Cena showing up for Christmas](http://9gag.com/gag/a4POOKA)
- - 👉 [Signs to reflect your life:](http://9gag.com/gag/an7PPVo)<!-- MEMES:END -->
+ - 😝 [Visiting family in UK](http://9gag.com/gag/azxp3yb)
+ - 😝 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)
+ - 💣 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
+ - 😝 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)
+ - 👉 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)<!-- MEMES:END -->
 
 ---
 

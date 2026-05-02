@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Editor’s Picks: The Best Gifts for Bird Lovers](https://www.wired.com/story/best-gifts-for-bird-lovers/)
- - [The Mother&#39;s Day Gifts Our Editors Love &lpar;2026&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2026/)
- - [TVs Are Getting Uncomfortably Bright, and This is Why](https://www.cnet.com/tech/home-entertainment/tvs-are-getting-brighter-we-tested-them-but-why-is-that-important/)
- - [Why Does Wikipedia Think I’m Evan Spiegel?](https://www.wired.com/story/why-does-wikipedia-think-im-evan-spiegel/)
- - [Ripple Labs investor and exec Chris Larsen plans to spend $3.5M to help Alex Bores, a NY congressional candidate at the center of a proxy war over AI regulation &lpar;New York Times&rpar;](https://www.techmeme.com/260502/p3#a260502p3)<!-- TECH:END -->
+ - [A profile of OpenAI CFO Sarah Friar, who sources say helped keep OpenAI&#39;s Microsoft deal on track and has privately suggested waiting until 2027 for an IPO &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260502/p4#a260502p4)
+ - [8 Best Travel Adapters &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)
+ - [Disneyland Now Uses Face Recognition on Visitors](https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/)
+ - [Apple AirPods Max 2 Review: The Best Over-Ears for iOS](https://www.wired.com/review/apple-airpods-max-2/)
+ - [Ottocast Cabin Care Wireless CarPlay Adapter Review: Tiny Tracker](https://www.wired.com/review/ottocast-cabin-care-wireless-carplay-adapter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

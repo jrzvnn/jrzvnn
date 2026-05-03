@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI music is flooding streaming services — but who wants it?](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it)
  - [Asus Zenbook A16 &lpar;2026&rpar; Review: Savor the Power, Ignore the Beige](https://www.wired.com/review/asus-zenbook-a16-2026/)
  - [Crime blotter: How the mastermind of U.K. iPhone thefts was caught](https://appleinsider.com/articles/26/05/03/crime-blotter-how-the-mastermind-of-uk-iphone-thefts-was-caught?utm_source=rss)
- - [15 Best Gifts for Plant Lovers and Gardeners &lpar;2026&rpar;](https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners/)
- - [How to Track Your Luggage &lpar;2026&rpar;: AirTag, Pebblebee, CaseSafe](https://www.wired.com/story/how-to-track-your-luggage/)
- - [Best Travel Tote Bags for Every Kind of Excursion &lpar;2026&rpar;: Away, Le Pliage, Topo Designs](https://www.wired.com/gallery/best-travel-tote/)<!-- TECH:END -->
+ - [AT&amp;T Just Reshuffled Its Unlimited Lineup. Here&#39;s What You&#39;re Getting &lpar;and Paying&rpar;](https://www.cnet.com/tech/mobile/at-t-just-reshuffled-its-unlimited-lineup-heres-what-youre-getting-and-paying/)
+ - [Netflix: 28 of the Best Sci-Fi TV Shows You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/netflix-best-sci-fi-tv-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

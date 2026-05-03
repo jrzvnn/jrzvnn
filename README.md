@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reggie Fils-Aimé says Amazon once asked Nintendo to break the law](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal)
+ - [JLL: Japan&#39;s $23B data center market is set to grow ~50% by 2030, with 90% of sites concentrated in densely populated regions, prompting pushback from residents &lpar;Financial Times&rpar;](https://www.techmeme.com/260503/p9#a260503p9)
+ - [Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale)
  - [Apple Watch Ultra&#39;s Modular face is being simplified for watchOS 27](https://appleinsider.com/articles/26/05/03/apple-watch-ultras-modular-face-is-being-simplified-for-watchos-27?utm_source=rss)
- - [These reusable digital Polaroids are a clever way to cover a fridge in memories](https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on)
- - [How the internet’s favorite squirrel dad made the hottest camera app of 2026](https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr)
- - [How Amazon&#39;s expansion into fashion helped Jeff Bezos enter fashion&#39;s inner circle, as he and Lauren Sánchez Bezos become underwriters for this year&#39;s Met Gala &lpar;Chavie Lieber/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p8#a260503p8)
- - [This $25,000 Robot Looks Right Out of Star Wars](https://www.cnet.com/tech/computing/this-25000-robot-looks-right-out-of-star-wars/)<!-- TECH:END -->
+ - [Netflix&#39;s &#39;This Is a Gardening Show&#39; Is the Ideal Comfort Show](https://www.cnet.com/culture/entertainment/netflix-this-is-a-gardening-show-ideal-comfort-show/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

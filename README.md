@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Asian suppliers account for ~90% of Nvidia&#39;s production costs, up from 65% in 2025, as latest wave of collaborations shifts from chips to physical AI &lpar;Abhishek Vishnoi/Bloomberg&rpar;](https://www.techmeme.com/260503/p10#a260503p10)
  - [Star Wars Guide: How to Watch Movies, TV Shows and Side Stories in Order](https://www.cnet.com/tech/services-and-software/star-wars-guide-how-to-watch-movies-tv-shows-and-side-stories-in-order/)
  - [Sony&#39;s AI Robot Can Probably Beat You at Table Tennis](https://www.cnet.com/tech/sonys-new-ai-robot-can-probably-beat-you-in-table-tennis/)
  - [Reggie Fils-Aimé says Amazon once asked Nintendo to break the law](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal)
- - [JLL: Japan&#39;s $23B data center market is set to grow ~50% by 2030, with 90% of sites concentrated in densely populated regions, prompting pushback from residents &lpar;Financial Times&rpar;](https://www.techmeme.com/260503/p9#a260503p9)
- - [Premier League Soccer: Stream Aston Villa vs. Tottenham From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-tottenham-from-anywhere-live/)<!-- TECH:END -->
+ - [JLL: Japan&#39;s $23B data center market is set to grow ~50% by 2030, with 90% of sites concentrated in densely populated regions, prompting pushback from residents &lpar;Financial Times&rpar;](https://www.techmeme.com/260503/p9#a260503p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

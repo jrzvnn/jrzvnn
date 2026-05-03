@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Out of Mana, but never out of questionable life choices.](http://9gag.com/gag/amo44Dd)
- - 😝 [He came prepared](http://9gag.com/gag/aVvypR8)
- - 💣 [Its been a good run boys, Mayon Volcano just erupted](http://9gag.com/gag/aD2eKbx)
- - 😝 [I have this mental illness](http://9gag.com/gag/aoyQX5n)
- - 👉 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)<!-- MEMES:END -->
+ - 😝 [When cars used to be works of art](http://9gag.com/gag/aGy4mpw)
+ - 😝 [I know..](http://9gag.com/gag/aGy4m76)
+ - 💣 [You laugh you win](http://9gag.com/gag/aByBBnQ)
+ - 😝 [Let\u2019s take a moment to appreciate this snippet of Western culture](http://9gag.com/gag/aMVMMEX)
+ - 👉 [Another reason why women live longer than men...](http://9gag.com/gag/aoyQQA3)<!-- MEMES:END -->
 
 ---
 

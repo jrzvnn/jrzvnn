@@ -160,9 +160,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sunday Reboot: Motorsport, money, and &#39;Ted Lasso&#39;](https://appleinsider.com/articles/26/05/03/sunday-reboot-motorsport-money-and-ted-lasso?utm_source=rss)
  - [A look at Atlassian and Twilio earnings beats, with early signs of Atlassian&#39;s AI response success and Twilio becoming a picks-and-shovels layer for AI agents &lpar;Jason Lemkin/SaaStr&rpar;](https://www.techmeme.com/260503/p11#a260503p11)
- - [Analysis: Asian suppliers account for ~90% of Nvidia&#39;s production costs, up from 65% in 2025, as latest wave of collaborations shifts from chips to physical AI &lpar;Abhishek Vishnoi/Bloomberg&rpar;](https://www.techmeme.com/260503/p10#a260503p10)
- - [Star Wars Guide: How to Watch Movies, TV Shows and Side Stories in Order](https://www.cnet.com/tech/services-and-software/star-wars-guide-how-to-watch-movies-tv-shows-and-side-stories-in-order/)
- - [Sony&#39;s AI Robot Can Probably Beat You at Table Tennis](https://www.cnet.com/tech/sonys-new-ai-robot-can-probably-beat-you-in-table-tennis/)<!-- TECH:END -->
+ - [&#39;Marshals&#39; Release Schedule: When Episode 10 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-10-hits-paramount-plus/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 4, #1058](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-4-1058/)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 4, #1780](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-4-1780/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

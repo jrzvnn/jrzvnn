@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KitchenAid Artisan Plus Stand Mixer Review: Tiny Additions, Big Difference](https://www.wired.com/review/kitchenaid-artisan-plus-stand-mixer/)
- - [Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original](https://www.wired.com/review/coway-airmega-mighty2/)
- - [A profile of BlackBerry&#39;s QNX division, whose operating system controls safety features in 275M cars and accounts for half of BlackBerry&#39;s revenue &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p6#a260503p6)
- - [An evaluation by NIST&#39;s CAISI says DeepSeek V4 Pro lags behind leading US AI models by about eight months and is the most capable Chinese AI model to date &lpar;NIST&rpar;](https://www.techmeme.com/260503/p5#a260503p5)
- - [A slew of top Boston Dynamics execs have left the Hyundai-owned company in recent months, as sources say it faces pressure to speed the delivery of humanoids &lpar;Rachyl Jones/Semafor&rpar;](https://www.techmeme.com/260503/p4#a260503p4)<!-- TECH:END -->
+ - [Best Travel Tote Bags for Every Kind of Excursion &lpar;2026&rpar;: Away, Le Pliage, Topo Designs](https://www.wired.com/gallery/best-travel-tote/)
+ - [Nintendo&#39;s share price has fallen by ~45% since August 2025, as rising memory chip costs drive investor concerns over profit margins for the Switch 2 &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260503/p7#a260503p7)
+ - [Samsung Messages Is Going Away in July: Save Your Texts Before It Disappears](https://www.cnet.com/tech/mobile/samsung-messages-is-going-away-in-july-save-your-texts-before-it-disappears/)
+ - [You Could See a Pickle Emoji on Your Device in 2027](https://www.cnet.com/tech/services-and-software/you-could-see-a-pickle-emoji-on-your-device-in-2027/)
+ - [KitchenAid Artisan Plus Stand Mixer Review: Tiny Additions, Big Difference](https://www.wired.com/review/kitchenaid-artisan-plus-stand-mixer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

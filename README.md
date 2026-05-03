@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He came prepared](http://9gag.com/gag/aVvypR8)
+ - 😝 [Get in the car bro](http://9gag.com/gag/ary778K)
  - 😝 [The Password](http://9gag.com/gag/aW43rAZ)
- - 💣 [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 💣 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)
  - 😝 [Doesn&#39;t matter, had the seggs.](http://9gag.com/gag/aRBqnR5)
- - 👉 [Get in the car bro](http://9gag.com/gag/ary778K)<!-- MEMES:END -->
+ - 👉 [Finally some good news](http://9gag.com/gag/aByBA8D)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI music is flooding streaming services — but who wants it?](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it)
- - [Asus Zenbook A16 &lpar;2026&rpar; Review: Savor the Power, Ignore the Beige](https://www.wired.com/review/asus-zenbook-a16-2026/)
- - [Crime blotter: How the mastermind of U.K. iPhone thefts was caught](https://appleinsider.com/articles/26/05/03/crime-blotter-how-the-mastermind-of-uk-iphone-thefts-was-caught?utm_source=rss)
- - [AT&amp;T Just Reshuffled Its Unlimited Lineup. Here&#39;s What You&#39;re Getting &lpar;and Paying&rpar;](https://www.cnet.com/tech/mobile/at-t-just-reshuffled-its-unlimited-lineup-heres-what-youre-getting-and-paying/)
- - [Netflix: 28 of the Best Sci-Fi TV Shows You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/netflix-best-sci-fi-tv-shows/)<!-- TECH:END -->
+ - [These reusable digital Polaroids are a clever way to cover a fridge in memories](https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on)
+ - [How the internet’s favorite squirrel dad made the hottest camera app of 2026](https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr)
+ - [How Amazon&#39;s expansion into fashion helped Jeff Bezos enter fashion&#39;s inner circle, as he and Lauren Sánchez Bezos become underwriters for this year&#39;s Met Gala &lpar;Chavie Lieber/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p8#a260503p8)
+ - [This $25,000 Robot Looks Right Out of Star Wars](https://www.cnet.com/tech/computing/this-25000-robot-looks-right-out-of-star-wars/)
+ - [Google Pixel 10A vs. Samsung Galaxy A57: Which midranger should you buy?](https://www.cnet.com/tech/mobile/google-pixel-10a-vs-samsung-galaxy-a57-which-midranger-should-you-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

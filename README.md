@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)
+ - 😝 [He came prepared](http://9gag.com/gag/aVvypR8)
  - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 💣 [He came prepared](http://9gag.com/gag/aVvypR8)
- - 😝 [Get in the car bro](http://9gag.com/gag/ary778K)
+ - 💣 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)
+ - 😝 [I have this mental illness](http://9gag.com/gag/aoyQX5n)
  - 👉 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)<!-- MEMES:END -->
 
 ---

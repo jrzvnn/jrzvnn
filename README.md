@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 😝 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)
+ - 😝 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)
  - 💣 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
  - 😝 [Guys](http://9gag.com/gag/a1m3ywG)
- - 👉 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)<!-- MEMES:END -->
+ - 👉 [Ey. Buhrahdah](http://9gag.com/gag/an7P6eL)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When cars used to be works of art](http://9gag.com/gag/aGy4mpw)
- - 😝 [I know..](http://9gag.com/gag/aGy4m76)
- - 💣 [You laugh you win](http://9gag.com/gag/aByBBnQ)
- - 😝 [Let\u2019s take a moment to appreciate this snippet of Western culture](http://9gag.com/gag/aMVMMEX)
- - 👉 [Another reason why women live longer than men...](http://9gag.com/gag/aoyQQA3)<!-- MEMES:END -->
+ - 😝 [He came prepared](http://9gag.com/gag/aVvypR8)
+ - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
+ - 💣 [The Password](http://9gag.com/gag/aW43rAZ)
+ - 😝 [I have this mental illness](http://9gag.com/gag/aoyQX5n)
+ - 👉 [Its been a good run boys, Mayon Volcano just erupted](http://9gag.com/gag/aD2eKbx)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Travel Tote Bags for Every Kind of Excursion &lpar;2026&rpar;: Away, Le Pliage, Topo Designs](https://www.wired.com/gallery/best-travel-tote/)
- - [Nintendo&#39;s share price has fallen by ~45% since August 2025, as rising memory chip costs drive investor concerns over profit margins for the Switch 2 &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260503/p7#a260503p7)
- - [Samsung Messages Is Going Away in July: Save Your Texts Before It Disappears](https://www.cnet.com/tech/mobile/samsung-messages-is-going-away-in-july-save-your-texts-before-it-disappears/)
- - [You Could See a Pickle Emoji on Your Device in 2027](https://www.cnet.com/tech/services-and-software/you-could-see-a-pickle-emoji-on-your-device-in-2027/)
- - [KitchenAid Artisan Plus Stand Mixer Review: Tiny Additions, Big Difference](https://www.wired.com/review/kitchenaid-artisan-plus-stand-mixer/)<!-- TECH:END -->
+ - [Asus Zenbook A16 &lpar;2026&rpar; Review: Savor the Power, Ignore the Beige](https://www.wired.com/review/asus-zenbook-a16-2026/)
+ - [Crime blotter: How the mastermind of U.K. iPhone thefts was caught](https://appleinsider.com/articles/26/05/03/crime-blotter-how-the-mastermind-of-uk-iphone-thefts-was-caught?utm_source=rss)
+ - [15 Best Gifts for Plant Lovers and Gardeners &lpar;2026&rpar;](https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners/)
+ - [How to Track Your Luggage &lpar;2026&rpar;: AirTag, Pebblebee, CaseSafe](https://www.wired.com/story/how-to-track-your-luggage/)
+ - [Best Travel Tote Bags for Every Kind of Excursion &lpar;2026&rpar;: Away, Le Pliage, Topo Designs](https://www.wired.com/gallery/best-travel-tote/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

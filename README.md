@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amadeus IT Group, which operates the world&#39;s largest travel booking system, plans to acquire French biometrics company Idemia Public Security, for €1.2B in cash &lpar;Javi West Larrañaga/Reuters&rpar;](https://www.techmeme.com/260503/p1#a260503p1)
- - [May MacBook Pro deals deliver prices as low as $1,949 on M5 Pro &amp; M5 Max models](https://appleinsider.com/articles/26/05/03/may-macbook-pro-deals-deliver-prices-as-low-as-1949-on-m5-pro-m5-max-models?utm_source=rss)
- - [Ask.com shutters, as its owner IAC &quot;continues to sharpen its focus&quot;; a dot-com era icon, Ask Jeeves launched in 1997, a year before Google &lpar;Chase DiBenedetto/Mashable&rpar;](https://www.techmeme.com/260502/p13#a260502p13)
- - [Maryland becomes the first US state to ban surveillance pricing in grocery stores, as other states including CO, CA, MA, IL, and NJ consider similar bills &lpar;Sanya Mansoor/The Guardian&rpar;](https://www.techmeme.com/260502/p12#a260502p12)
- - [Iodyne Pro Data 24TB review: $15K, ridiculous speed, and probably not for you](https://appleinsider.com/articles/26/04/29/iodyne-pro-data-24tb-review-15k-ridiculous-speed-and-probably-not-for-you?utm_source=rss)<!-- TECH:END -->
+ - [An evaluation by NIST&#39;s CAISI says DeepSeek V4 Pro lags behind leading US AI models by about eight months and is the most capable Chinese AI model to date &lpar;NIST&rpar;](https://www.techmeme.com/260503/p5#a260503p5)
+ - [A slew of top Boston Dynamics execs have left the Hyundai-owned company in recent months, as sources say it faces pressure to speed the delivery of humanoids &lpar;Rachyl Jones/Semafor&rpar;](https://www.techmeme.com/260503/p4#a260503p4)
+ - [Sources: OpenAI employees have raised alarms internally over failures to alert law enforcement when users describe plans for real-world violence to ChatGPT &lpar;Georgia Wells/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p3#a260503p3)
+ - [Palo Alto Networks agrees to acquire Portkey, which develops AI gateway tech to manage and secure AI agents; sources say the deal values Portkey at $120M-$140M &lpar;The Economic Times&rpar;](https://www.techmeme.com/260503/p2#a260503p2)
+ - [Limited Time: TurboTax Full Service Coupons This May](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

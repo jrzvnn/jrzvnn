@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He came prepared](http://9gag.com/gag/aVvypR8)
- - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 💣 [The Password](http://9gag.com/gag/aW43rAZ)
- - 😝 [I have this mental illness](http://9gag.com/gag/aoyQX5n)
+ - 😝 [The Password](http://9gag.com/gag/aW43rAZ)
+ - 😝 [Out of Mana, but never out of questionable life choices.](http://9gag.com/gag/amo44Dd)
+ - 💣 [He came prepared](http://9gag.com/gag/aVvypR8)
+ - 😝 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)
  - 👉 [Its been a good run boys, Mayon Volcano just erupted](http://9gag.com/gag/aD2eKbx)<!-- MEMES:END -->
 
 ---

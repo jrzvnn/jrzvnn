@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amadeus IT Group, which operates the world&#39;s largest travel booking system, plans to acquire French biometrics company Idemia Public Security, for €1.2B in cash &lpar;Javi West Larrañaga/Reuters&rpar;](https://www.techmeme.com/260503/p1#a260503p1)
+ - [May MacBook Pro deals deliver prices as low as $1,949 on M5 Pro &amp; M5 Max models](https://appleinsider.com/articles/26/05/03/may-macbook-pro-deals-deliver-prices-as-low-as-1949-on-m5-pro-m5-max-models?utm_source=rss)
+ - [Ask.com shutters, as its owner IAC &quot;continues to sharpen its focus&quot;; a dot-com era icon, Ask Jeeves launched in 1997, a year before Google &lpar;Chase DiBenedetto/Mashable&rpar;](https://www.techmeme.com/260502/p13#a260502p13)
  - [Maryland becomes the first US state to ban surveillance pricing in grocery stores, as other states including CO, CA, MA, IL, and NJ consider similar bills &lpar;Sanya Mansoor/The Guardian&rpar;](https://www.techmeme.com/260502/p12#a260502p12)
- - [Iodyne Pro Data 24TB review: $15K, ridiculous speed, and probably not for you](https://appleinsider.com/articles/26/04/29/iodyne-pro-data-24tb-review-15k-ridiculous-speed-and-probably-not-for-you?utm_source=rss)
- - [Analysis: after Trump&#39;s World Liberty raised $550M from investors, tokens worth hundreds of millions in USD were privately sold in &quot;white glove&quot; transactions &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260502/p11#a260502p11)
- - [DJI Osmo 360 review: A better action camera choice](https://appleinsider.com/articles/26/05/02/dji-osmo-360-review-a-better-action-camera-choice?utm_source=rss)
- - [I Found 7 of the Best A24 Movies That Are Free to Stream](https://www.cnet.com/tech/services-and-software/7-a24-movies-you-can-enjoy-without-spending-a-dime/)<!-- TECH:END -->
+ - [Iodyne Pro Data 24TB review: $15K, ridiculous speed, and probably not for you](https://appleinsider.com/articles/26/04/29/iodyne-pro-data-24tb-review-15k-ridiculous-speed-and-probably-not-for-you?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

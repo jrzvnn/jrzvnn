@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modeling Agency](http://9gag.com/gag/aAyzzng)
- - 😝 [I know..](http://9gag.com/gag/aGy4m76)
- - 💣 [Some Cartoon-Box](http://9gag.com/gag/a4POXvw)
- - 😝 [This dog is an employee of the month every month](http://9gag.com/gag/a87xxr3)
- - 👉 [Another reason why women live longer than men...](http://9gag.com/gag/aoyQQA3)<!-- MEMES:END -->
+ - 😝 [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 😝 [Its been a good run boys, Mayon Volcano just erupted](http://9gag.com/gag/aD2eKbx)
+ - 💣 [The Password](http://9gag.com/gag/aW43rAZ)
+ - 😝 [He came prepared](http://9gag.com/gag/aVvypR8)
+ - 👉 [Finally some good news](http://9gag.com/gag/aByBA8D)<!-- MEMES:END -->
 
 ---
 

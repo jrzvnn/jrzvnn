@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
  - 😝 [Guys](http://9gag.com/gag/a1m3ywG)
- - 💣 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)
- - 😝 [A classic never gets old](http://9gag.com/gag/avyK3gM)
+ - 💣 [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 😝 [Science behind screws](http://9gag.com/gag/avyKNe5)
  - 👉 [Finally some good news](http://9gag.com/gag/aByBA8D)<!-- MEMES:END -->
 
 ---

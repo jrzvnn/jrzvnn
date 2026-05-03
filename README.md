@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 😝 [Its been a good run boys, Mayon Volcano just erupted](http://9gag.com/gag/aD2eKbx)
- - 💣 [The Password](http://9gag.com/gag/aW43rAZ)
  - 😝 [He came prepared](http://9gag.com/gag/aVvypR8)
+ - 😝 [The Password](http://9gag.com/gag/aW43rAZ)
+ - 💣 [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 😝 [I have this mental illness](http://9gag.com/gag/aoyQX5n)
  - 👉 [Finally some good news](http://9gag.com/gag/aByBA8D)<!-- MEMES:END -->
 
 ---

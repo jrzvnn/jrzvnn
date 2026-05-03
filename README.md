@@ -160,9 +160,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Reggie Fils-Aimé says Amazon once asked Nintendo to break the law](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal)
  - [JLL: Japan&#39;s $23B data center market is set to grow ~50% by 2030, with 90% of sites concentrated in densely populated regions, prompting pushback from residents &lpar;Financial Times&rpar;](https://www.techmeme.com/260503/p9#a260503p9)
- - [Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale)
- - [Apple Watch Ultra&#39;s Modular face is being simplified for watchOS 27](https://appleinsider.com/articles/26/05/03/apple-watch-ultras-modular-face-is-being-simplified-for-watchos-27?utm_source=rss)
- - [Netflix&#39;s &#39;This Is a Gardening Show&#39; Is the Ideal Comfort Show](https://www.cnet.com/culture/entertainment/netflix-this-is-a-gardening-show-ideal-comfort-show/)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Aston Villa vs. Tottenham From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-tottenham-from-anywhere-live/)
+ - [&#39;Euphoria&#39; Season 3 Release Schedule: When Does Episode 4 Come Out?](https://www.cnet.com/tech/services-and-software/euphoria-season-3-release-schedule-when-does-episode-4-come-out/)
+ - [Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

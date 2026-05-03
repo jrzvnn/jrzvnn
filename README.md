@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of BlackBerry&#39;s QNX division, whose operating system controls safety features in 275M cars and accounts for half of BlackBerry&#39;s revenue &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p6#a260503p6)
  - [An evaluation by NIST&#39;s CAISI says DeepSeek V4 Pro lags behind leading US AI models by about eight months and is the most capable Chinese AI model to date &lpar;NIST&rpar;](https://www.techmeme.com/260503/p5#a260503p5)
  - [A slew of top Boston Dynamics execs have left the Hyundai-owned company in recent months, as sources say it faces pressure to speed the delivery of humanoids &lpar;Rachyl Jones/Semafor&rpar;](https://www.techmeme.com/260503/p4#a260503p4)
  - [Sources: OpenAI employees have raised alarms internally over failures to alert law enforcement when users describe plans for real-world violence to ChatGPT &lpar;Georgia Wells/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p3#a260503p3)
- - [Palo Alto Networks agrees to acquire Portkey, which develops AI gateway tech to manage and secure AI agents; sources say the deal values Portkey at $120M-$140M &lpar;The Economic Times&rpar;](https://www.techmeme.com/260503/p2#a260503p2)
- - [Limited Time: TurboTax Full Service Coupons This May](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
+ - [Palo Alto Networks agrees to acquire Portkey, which develops AI gateway tech to manage and secure AI agents; sources say the deal values Portkey at $120M-$140M &lpar;The Economic Times&rpar;](https://www.techmeme.com/260503/p2#a260503p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 😝 [The Password](http://9gag.com/gag/aW43rAZ)
- - 💣 [Cats and dogs](http://9gag.com/gag/ae98L3p)
  - 😝 [Guys](http://9gag.com/gag/a1m3ywG)
+ - 💣 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)
+ - 😝 [Science behind screws](http://9gag.com/gag/avyKNe5)
  - 👉 [Finally some good news](http://9gag.com/gag/aByBA8D)<!-- MEMES:END -->
 
 ---

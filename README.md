@@ -170,8 +170,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [He came prepared](http://9gag.com/gag/aVvypR8)
  - 😝 [The Password](http://9gag.com/gag/aW43rAZ)
  - 💣 [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 😝 [I have this mental illness](http://9gag.com/gag/aoyQX5n)
- - 👉 [Finally some good news](http://9gag.com/gag/aByBA8D)<!-- MEMES:END -->
+ - 😝 [Doesn&#39;t matter, had the seggs.](http://9gag.com/gag/aRBqnR5)
+ - 👉 [Get in the car bro](http://9gag.com/gag/ary778K)<!-- MEMES:END -->
 
 ---
 

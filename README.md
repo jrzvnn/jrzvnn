@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Women - idk I&#39;ve known him for only few years](http://9gag.com/gag/a87xRvV)
  - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 😝 [Guys](http://9gag.com/gag/a1m3ywG)
- - 💣 [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 😝 [Science behind screws](http://9gag.com/gag/avyKNe5)
- - 👉 [Finally some good news](http://9gag.com/gag/aByBA8D)<!-- MEMES:END -->
+ - 💣 [Some Cartoon-Box](http://9gag.com/gag/a4POXvw)
+ - 😝 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)
+ - 👉 [Can you guess?](http://9gag.com/gag/aQzWGrK)<!-- MEMES:END -->
 
 ---
 

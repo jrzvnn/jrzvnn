@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Out of Mana, but never out of questionable life choices.](http://9gag.com/gag/amo44Dd)
  - 😝 [He came prepared](http://9gag.com/gag/aVvypR8)
- - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 💣 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)
+ - 💣 [Its been a good run boys, Mayon Volcano just erupted](http://9gag.com/gag/aD2eKbx)
  - 😝 [I have this mental illness](http://9gag.com/gag/aoyQX5n)
- - 👉 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)<!-- MEMES:END -->
+ - 👉 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)<!-- MEMES:END -->
 
 ---
 

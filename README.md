@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of music AI startup Suno, valued at ~$2.5B with 2M+ paying users and $300M annualized revenue as of February, as it battles record labels and artists &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260503/p12#a260503p12)
  - [Sunday Reboot: Motorsport, money, and &#39;Ted Lasso&#39;](https://appleinsider.com/articles/26/05/03/sunday-reboot-motorsport-money-and-ted-lasso?utm_source=rss)
  - [A look at Atlassian and Twilio earnings beats, with early signs of Atlassian&#39;s AI response success and Twilio becoming a picks-and-shovels layer for AI agents &lpar;Jason Lemkin/SaaStr&rpar;](https://www.techmeme.com/260503/p11#a260503p11)
  - [&#39;Marshals&#39; Release Schedule: When Episode 10 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-10-hits-paramount-plus/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 4, #1058](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-4-1058/)
- - [Today&#39;s Wordle Hints, Answer and Help for May 4, #1780](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-4-1780/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 4, #1058](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-4-1058/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

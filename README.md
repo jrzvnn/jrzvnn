@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He came prepared](http://9gag.com/gag/aVvypR8)
  - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 💣 [Guys](http://9gag.com/gag/a1m3ywG)
- - 😝 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
- - 👉 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)<!-- MEMES:END -->
+ - 😝 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)
+ - 💣 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
+ - 😝 [Guys](http://9gag.com/gag/a1m3ywG)
+ - 👉 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)<!-- MEMES:END -->
 
 ---
 

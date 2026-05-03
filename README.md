@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)
- - 😝 [Visiting family in UK](http://9gag.com/gag/azxp3yb)
- - 💣 [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
- - 😝 [Dit is Berlin, wa?](http://9gag.com/gag/aYQX3GV)
- - 👉 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)<!-- MEMES:END -->
+ - 😝 [He came prepared](http://9gag.com/gag/aVvypR8)
+ - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
+ - 💣 [Guys](http://9gag.com/gag/a1m3ywG)
+ - 😝 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
+ - 👉 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)<!-- MEMES:END -->
 
 ---
 

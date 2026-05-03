@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Wars Guide: How to Watch Movies, TV Shows and Side Stories in Order](https://www.cnet.com/tech/services-and-software/star-wars-guide-how-to-watch-movies-tv-shows-and-side-stories-in-order/)
+ - [Sony&#39;s AI Robot Can Probably Beat You at Table Tennis](https://www.cnet.com/tech/sonys-new-ai-robot-can-probably-beat-you-in-table-tennis/)
  - [Reggie Fils-Aimé says Amazon once asked Nintendo to break the law](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal)
  - [JLL: Japan&#39;s $23B data center market is set to grow ~50% by 2030, with 90% of sites concentrated in densely populated regions, prompting pushback from residents &lpar;Financial Times&rpar;](https://www.techmeme.com/260503/p9#a260503p9)
- - [Premier League Soccer: Stream Aston Villa vs. Tottenham From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-tottenham-from-anywhere-live/)
- - [&#39;Euphoria&#39; Season 3 Release Schedule: When Does Episode 4 Come Out?](https://www.cnet.com/tech/services-and-software/euphoria-season-3-release-schedule-when-does-episode-4-come-out/)
- - [Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Aston Villa vs. Tottenham From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-tottenham-from-anywhere-live/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

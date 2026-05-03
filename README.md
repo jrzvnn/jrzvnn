@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hands](http://9gag.com/gag/aVvypzK)
- - 😝 [When cars used to be works of art](http://9gag.com/gag/aGy4mpw)
- - 💣 [You laugh you win](http://9gag.com/gag/aByBBnQ)
- - 😝 [I have this mental illness](http://9gag.com/gag/aoyQX5n)
- - 👉 [Let\u2019s take a moment to appreciate this snippet of Western culture](http://9gag.com/gag/aMVMMEX)<!-- MEMES:END -->
+ - 😝 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)
+ - 😝 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
+ - 💣 [He came prepared](http://9gag.com/gag/aVvypR8)
+ - 😝 [Get in the car bro](http://9gag.com/gag/ary778K)
+ - 👉 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)<!-- MEMES:END -->
 
 ---
 

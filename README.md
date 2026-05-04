@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why there is a 60%+ chance of AI systems autonomously building their own successors by the end of 2028, and a look at the consequences of fully automated AI R&amp;D &lpar;Jack Clark/Import AI&rpar;](https://www.techmeme.com/260504/p32#a260504p32)
- - [Sources: Apple prepares a &quot;Create a Pass&quot; feature for iOS 27, which lets users take a QR code and generate a custom pass around it for concerts and other venues &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260504/p31#a260504p31)
- - [Intel taps Alex Katouzian, an ex-Qualcomm EVP, to lead Client Computing &amp; Physical AI group, and names Pushkar Ranade as CTO, after serving on an interim basis &lpar;Dylan Martin/CRN&rpar;](https://www.techmeme.com/260504/p30#a260504p30)
- - [Release candidates of iOS 26.5, macOS Tahoe 26.5 are out now](https://appleinsider.com/articles/26/05/04/release-candidates-of-ios-265-macos-tahoe-265-are-out-now?utm_source=rss)
- - [Ex-iRobot CEO Colin Angle launches Familiar Machines &amp; Magic and unveils Familiar, a dog-like, &quot;emotionally intelligent&quot; robot that reacts to owner&#39;s feelings &lpar;Christopher Mims/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p29#a260504p29)<!-- TECH:END -->
+ - [Sources: the Trump administration is discussing an EO to create an AI working group to examine AI oversight procedures, including vetting models before release &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p34#a260504p34)
+ - [7 Best Smart Locks &lpar;2026&rpar; for Front Doors, Side Doors, and Even Garages](https://www.wired.com/story/best-smart-locks/)
+ - [Former Trump and Biden AI advisers Dean Ball and Ben Buchanan urge bipartisan action on AI security risks, including tighter export controls and safety audits &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p33#a260504p33)
+ - [SwitchBot’s rechargeable button pusher is on sale for over 20 percent off](https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal)
+ - [Apple Wallet will let you make your own passes in iOS 27](https://appleinsider.com/articles/26/05/04/apple-wallet-will-let-you-make-your-own-passes-in-ios-27?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

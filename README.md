@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of 1.6M Polymarket accounts since November 2022: 0.1% of users take 67% of profits, with the highest-frequency traders seeing the most success &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260504/p5#a260504p5)
- - [A profile of William Savitt, Sam Altman&#39;s lead lawyer against Elon Musk, who represented Twitter against Musk in 2022 and helped OpenAI&#39;s for-profit transition &lpar;Jacob Shamsian/Business Insider&rpar;](https://www.techmeme.com/260504/p4#a260504p4)
- - [Chinese state media: AI-generated Chinese microdramas to be worth $3B+ in 2026, out of a $14B+ total microdrama market, boosted by tools like Seedance 2.0 &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p3#a260504p3)
- - [Sources: some lenders are exploring private deals to sell their data center debt, and some banks are seeking to offload their Oracle-linked loans at a discount &lpar;Financial Times&rpar;](https://www.techmeme.com/260504/p2#a260504p2)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 4, #587](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-4-587/)<!-- TECH:END -->
+ - [Dating Is a Rich Person’s Game Now](https://www.wired.com/story/dating-is-a-rich-persons-game-now/)
+ - [Welcome to the Great American Satellite Age](https://www.wired.com/story/welcome-to-the-great-american-satellite-age/)
+ - [Source: Cerebras is expected to price its shares at between $115 and $125 and go public with the &quot;CBRS&quot; ticker; Cerebras is targeting a $40B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260504/p7#a260504p7)
+ - [The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters &lpar;2026&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)
+ - [Legislators and experts criticize the EU&#39;s €20B sovereign compute data center plan, questioning whether there is demand and the plan&#39;s reliance on Nvidia GPUs &lpar;Pieter Haeck/Politico&rpar;](https://www.techmeme.com/260504/p6#a260504p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

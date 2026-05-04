@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys](http://9gag.com/gag/a1m3ywG)
- - 😝 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
- - 💣 [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 😝 [`Everyone&#39;s recording... &lpar;and posting it on 9gag&rpar;.`](http://9gag.com/gag/aGy4WX6)
- - 👉 [The Password](http://9gag.com/gag/aW43rAZ)<!-- MEMES:END -->
+ - 😝 [Some reviews hit different](http://9gag.com/gag/aZZOGKQ)
+ - 😝 [Can you guess?](http://9gag.com/gag/aQzWGrK)
+ - 💣 [Guys](http://9gag.com/gag/a1m3ywG)
+ - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
 
 ---
 

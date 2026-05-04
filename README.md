@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s Linkerbot, which holds 80%+ of global dexterous robotic hands market, raised a Series B+ at a $3B valuation and seeks a $6B valuation in its next round &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260503/p17#a260503p17)
- - [Sources: Anthropic is finalizing a deal for a $1.5B JV with Blackstone, Goldman Sachs, Hellman &amp; Friedman, and others to sell AI tools to PE-backed companies &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260503/p16#a260503p16)
- - [Apple&#39;s handling of vibe coding apps draws complaints from startups like Replit and Anything that iOS App Store rules for their apps are applied erratically &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260503/p15#a260503p15)
- - [How music streaming services are adapting to the rise of AI-generated music by labeling, deranking, and demonetizing tracks, using AI detection tools, and more &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260503/p14#a260503p14)
- - [GameStop CEO Ryan Cohen says he is making an unsolicited ~$56B offer to buy eBay and will take the offer to shareholders if the company is not receptive &lpar;Lauren Thomas/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p13#a260503p13)<!-- TECH:END -->
+ - [An analysis of 1.6M Polymarket accounts since November 2022: 0.1% of users take 67% of profits, with the highest-frequency traders seeing the most success &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260504/p5#a260504p5)
+ - [A profile of William Savitt, Sam Altman&#39;s lead lawyer against Elon Musk, who represented Twitter against Musk in 2022 and helped OpenAI&#39;s for-profit transition &lpar;Jacob Shamsian/Business Insider&rpar;](https://www.techmeme.com/260504/p4#a260504p4)
+ - [Chinese state media: AI-generated Chinese microdramas to be worth $3B+ in 2026, out of a $14B+ total microdrama market, boosted by tools like Seedance 2.0 &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p3#a260504p3)
+ - [Sources: some lenders are exploring private deals to sell their data center debt, and some banks are seeking to offload their Oracle-linked loans at a discount &lpar;Financial Times&rpar;](https://www.techmeme.com/260504/p2#a260504p2)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 4, #587](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-4-587/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

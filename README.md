@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dating Is a Rich Person’s Game Now](https://www.wired.com/story/dating-is-a-rich-persons-game-now/)
- - [Welcome to the Great American Satellite Age](https://www.wired.com/story/welcome-to-the-great-american-satellite-age/)
- - [Source: Cerebras is expected to price its shares at between $115 and $125 and go public with the &quot;CBRS&quot; ticker; Cerebras is targeting a $40B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260504/p7#a260504p7)
- - [The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters &lpar;2026&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)
- - [Legislators and experts criticize the EU&#39;s €20B sovereign compute data center plan, questioning whether there is demand and the plan&#39;s reliance on Nvidia GPUs &lpar;Pieter Haeck/Politico&rpar;](https://www.techmeme.com/260504/p6#a260504p6)<!-- TECH:END -->
+ - [RFK Jr.’s New Podcast Is as Weird as You’d Expect](https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/)
+ - [Do Lightsaber Blades Have Mass?](https://www.wired.com/story/do-lightsaber-blades-have-mass/)
+ - [What I Packed to Run 80 Miles Across the Italian Apennine Mountains](https://www.wired.com/story/what-i-packed-to-run-80-miles-italian-apennine/)
+ - [Amazon debuts Supply Chain Services, allowing other companies to use its logistics network to move, store, and deliver raw materials, final products, and more &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/260504/p10#a260504p10)
+ - [A Federal Worker Was Fired for Filming DOGE. Now She’s Running for Congress](https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

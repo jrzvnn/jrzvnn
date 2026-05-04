@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameStop CEO Ryan Cohen says he is making an unsolicited ~$56B offer to buy eBay and will take the offer to shareholders if the company is not receptive &lpar;Lauren Thomas/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p13#a260503p13)
- - [A profile of music AI startup Suno, valued at ~$2.5B with 2M+ paying users and $300M annualized revenue as of February, as it battles record labels and artists &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260503/p12#a260503p12)
- - [Sunday Reboot: Motorsport, money, and &#39;Ted Lasso&#39;](https://appleinsider.com/articles/26/05/03/sunday-reboot-motorsport-money-and-ted-lasso?utm_source=rss)
- - [A look at Atlassian and Twilio earnings beats, with early signs of Atlassian&#39;s AI response success and Twilio becoming a picks-and-shovels layer for AI agents &lpar;Jason Lemkin/SaaStr&rpar;](https://www.techmeme.com/260503/p11#a260503p11)
- - [&#39;Marshals&#39; Release Schedule: When Episode 10 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-10-hits-paramount-plus/)<!-- TECH:END -->
+ - [China&#39;s Linkerbot, which holds 80%+ of global dexterous robotic hands market, raised a Series B+ at a $3B valuation and seeks a $6B valuation in its next round &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260503/p17#a260503p17)
+ - [Sources: Anthropic is finalizing a deal for a $1.5B JV with Blackstone, Goldman Sachs, Hellman &amp; Friedman, and others to sell AI tools to PE-backed companies &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260503/p16#a260503p16)
+ - [Apple&#39;s handling of vibe coding apps draws complaints from startups like Replit and Anything that iOS App Store rules for their apps are applied erratically &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260503/p15#a260503p15)
+ - [How music streaming services are adapting to the rise of AI-generated music by labeling, deranking, and demonetizing tracks, using AI detection tools, and more &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260503/p14#a260503p14)
+ - [GameStop CEO Ryan Cohen says he is making an unsolicited ~$56B offer to buy eBay and will take the offer to shareholders if the company is not receptive &lpar;Lauren Thomas/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p13#a260503p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

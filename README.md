@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
- - 😝 [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 💣 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)
- - 😝 [`Everyone&#39;s recording... &lpar;and posting it on 9gag&rpar;.`](http://9gag.com/gag/aGy4WX6)
+ - 😝 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
+ - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 💣 [Any ideas?](http://9gag.com/gag/aGy431z)
+ - 😝 [What&#39;s the endgame?](http://9gag.com/gag/an7Ppn0)
  - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
 
 ---

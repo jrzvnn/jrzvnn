@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RFK Jr.’s New Podcast Is as Weird as You’d Expect](https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/)
- - [Do Lightsaber Blades Have Mass?](https://www.wired.com/story/do-lightsaber-blades-have-mass/)
- - [What I Packed to Run 80 Miles Across the Italian Apennine Mountains](https://www.wired.com/story/what-i-packed-to-run-80-miles-italian-apennine/)
- - [Amazon debuts Supply Chain Services, allowing other companies to use its logistics network to move, store, and deliver raw materials, final products, and more &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/260504/p10#a260504p10)
- - [A Federal Worker Was Fired for Filming DOGE. Now She’s Running for Congress](https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/)<!-- TECH:END -->
+ - [Source: OpenAI has raised over $4B at a $10B pre-money valuation for The Deployment Company, a new joint venture to help businesses adopt OpenAI tools &lpar;Seth Fiegerman/Bloomberg&rpar;](https://www.techmeme.com/260504/p13#a260504p13)
+ - [Homebridge 2.0 is here, and it speaks Matter](https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums)
+ - [Enzo Health, whose AI tools help home health and hospice agencies automate tasks like patient intake and documentation review, raised a $20M Series A led by N47 &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260504/p12#a260504p12)
+ - [We&#39;ve Got Live Star Wars Deals for All, Not Just for Men, but for the Women and the Children](https://www.cnet.com/news-live/star-wars-day-live/)
+ - [More than just RAM and SSD shortages are keeping Mac supplies low](https://appleinsider.com/articles/26/05/04/more-than-just-ram-and-ssd-shortages-are-keeping-mac-supplies-low?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

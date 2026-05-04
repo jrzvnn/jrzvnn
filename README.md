@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk will settle the feds’ Twitter lawsuit with pocket change](https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x)
- - [Epic vs Apple fight could be put on hold again if Supreme Court sides with Apple](https://appleinsider.com/articles/26/05/04/epic-vs-apple-fight-could-be-put-on-hold-again-if-supreme-court-sides-with-apple?utm_source=rss)
- - [What to Know About Sony’s $7.85 Million PlayStation Settlement](https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/)
- - [And the Oscar Does Not Go to… AI &#39;Actors&#39; and AI-Written Screenplays, the Academy Says](https://www.cnet.com/tech/services-and-software/academy-motion-picture-arts-sciences-new-oscars-rules-ai-2026-news/)
- - [Duolingo reports Q1 revenue up 27% YoY to $292M, vs. $288.5M est., bookings up 14% to $308.5M, and expects slower growth in Q2; DUOL drops 12%+ after hours &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260504/p40#a260504p40)<!-- TECH:END -->
+ - [Grab reports Q1 revenue up 24% YoY to $955M, above est., and a $154M adjusted EBITDA, vs. $146.3M est., helped by resilient demand for ride hailing and delivery &lpar;Olivia Poh/Bloomberg&rpar;](https://www.techmeme.com/260504/p43#a260504p43)
+ - [What the Spirit Airlines Implosion Means for Your Vacation](https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/)
+ - [New Mexico child safety trial: New Mexico asks a judge to declare Meta a public nuisance and to order it to pay $3.7B and overhaul its apps to protect children &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260504/p42#a260504p42)
+ - [World&#39;s best-selling smartphone for Q1 2026 is iPhone 17, as expected](https://appleinsider.com/articles/26/05/04/worlds-best-selling-smartphone-for-q1-2026-is-iphone-17-as-expected?utm_source=rss)
+ - [Crypto stocks jump after lawmakers struck a compromise on the CLARITY Act to preserve stablecoin rewards under certain conditions; Circle&#39;s stock closed up ~20% &lpar;Tanaya Macheel/CNBC&rpar;](https://www.techmeme.com/260504/p41#a260504p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

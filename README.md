@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Password](http://9gag.com/gag/aW43rAZ)
- - 😝 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
- - 💣 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 😝 [`Everyone&#39;s recording... &lpar;and posting it on 9gag&rpar;.`](http://9gag.com/gag/aGy4WX6)
- - 👉 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)<!-- MEMES:END -->
+ - 😝 [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
+ - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 💣 [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 😝 [I carry shelter dogs around NYC in a dog backpack to help them get adopted. Meet Jax!](http://9gag.com/gag/aAyzWeR)
+ - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women - idk I&#39;ve known him for only few years](http://9gag.com/gag/a87xRvV)
+ - 😝 [Finally some good news](http://9gag.com/gag/aByBA8D)
  - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 💣 [Some Cartoon-Box](http://9gag.com/gag/a4POXvw)
- - 😝 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)
- - 👉 [Can you guess?](http://9gag.com/gag/aQzWGrK)<!-- MEMES:END -->
+ - 💣 [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 😝 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)
+ - 👉 [Dit is Berlin, wa?](http://9gag.com/gag/aYQX3GV)<!-- MEMES:END -->
 
 ---
 

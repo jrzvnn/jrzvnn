@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI has raised over $4B at a $10B pre-money valuation for The Deployment Company, a new joint venture to help businesses adopt OpenAI tools &lpar;Seth Fiegerman/Bloomberg&rpar;](https://www.techmeme.com/260504/p13#a260504p13)
- - [Homebridge 2.0 is here, and it speaks Matter](https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums)
- - [Enzo Health, whose AI tools help home health and hospice agencies automate tasks like patient intake and documentation review, raised a $20M Series A led by N47 &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260504/p12#a260504p12)
- - [We&#39;ve Got Live Star Wars Deals for All, Not Just for Men, but for the Women and the Children](https://www.cnet.com/news-live/star-wars-day-live/)
- - [More than just RAM and SSD shortages are keeping Mac supplies low](https://appleinsider.com/articles/26/05/04/more-than-just-ram-and-ssd-shortages-are-keeping-mac-supplies-low?utm_source=rss)<!-- TECH:END -->
+ - [Trump&#39;s World Liberty Financial countersues Tron founder Justin Sun, alleging defamation, contract violations, and more &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260504/p17#a260504p17)
+ - [Testing common myths for your portable Mac to extend your battery life](https://appleinsider.com/articles/26/05/04/testing-common-myths-for-your-portable-mac-to-extend-your-battery-life?utm_source=rss)
+ - [DHS Demanded Google Surrender Data on Canadian&#39;s Activity, Location Over Anti-ICE Posts](https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/)
+ - [Dara Khosrowshahi on replacing Uber drivers — and himself — with AI](https://www.theverge.com/podcast/922909/dara-khosrowshahi-uber-drivers-ai-hotels-service)
+ - [Tesla hits Musk’s threshold for ‘safe unsupervised’ driving](https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

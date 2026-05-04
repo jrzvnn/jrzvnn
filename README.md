@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Trump administration is discussing an EO to create an AI working group to examine AI oversight procedures, including vetting models before release &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p34#a260504p34)
- - [7 Best Smart Locks &lpar;2026&rpar; for Front Doors, Side Doors, and Even Garages](https://www.wired.com/story/best-smart-locks/)
- - [Former Trump and Biden AI advisers Dean Ball and Ben Buchanan urge bipartisan action on AI security risks, including tighter export controls and safety audits &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p33#a260504p33)
- - [SwitchBot’s rechargeable button pusher is on sale for over 20 percent off](https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal)
- - [Apple Wallet will let you make your own passes in iOS 27](https://appleinsider.com/articles/26/05/04/apple-wallet-will-let-you-make-your-own-passes-in-ios-27?utm_source=rss)<!-- TECH:END -->
+ - [EU DMA after-action review didn&#39;t go the way that Apple wanted](https://appleinsider.com/articles/26/05/04/eu-dma-after-action-review-didnt-go-the-way-that-apple-wanted?utm_source=rss)
+ - [Palantir reports Q1 revenue up 85% YoY to $1.63B, vs. $1.54B est., US government revenue up 84% to $687M, and US commercial revenue up 133% to $595M &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260504/p38#a260504p38)
+ - [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)
+ - [Elon Musk agrees to pay $1.5M to settle SEC allegations that he cheated Twitter shareholders in 2022 by failing to disclose the 5%+ stake he had in the company &lpar;Nicola M White/Bloomberg&rpar;](https://www.techmeme.com/260504/p37#a260504p37)
+ - [Pinterest reports Q1 revenue up 18% YoY to $1B, vs. $966M est., MAUs up 11% YoY to 631M, and forecasts Q2 revenue above estimates; PINS jumps 17%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260504/p36#a260504p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

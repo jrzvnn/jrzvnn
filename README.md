@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally some good news](http://9gag.com/gag/aByBA8D)
+ - 😝 [Guys](http://9gag.com/gag/a1m3ywG)
  - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 💣 [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 😝 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)
- - 👉 [Dit is Berlin, wa?](http://9gag.com/gag/aYQX3GV)<!-- MEMES:END -->
+ - 💣 [Sheppard dog visits the baby goats for a little late night check up](http://9gag.com/gag/aGy4WBG)
+ - 😝 [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 👉 [Finally some good news](http://9gag.com/gag/aByBA8D)<!-- MEMES:END -->
 
 ---
 

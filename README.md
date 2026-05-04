@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys](http://9gag.com/gag/a1m3ywG)
- - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 💣 [Sheppard dog visits the baby goats for a little late night check up](http://9gag.com/gag/aGy4WBG)
+ - 😝 [The Password](http://9gag.com/gag/aW43rAZ)
  - 😝 [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 👉 [Finally some good news](http://9gag.com/gag/aByBA8D)<!-- MEMES:END -->
+ - 💣 [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 😝 [Lucky enough](http://9gag.com/gag/aE0mLZK)
+ - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: more than two dozen prediction-market ETFs have been pushed back as the SEC seeks more information; they were originally expected to launch this week &lpar;Suzanne McGee/Reuters&rpar;](https://www.techmeme.com/260504/p27#a260504p27)
- - [The creator of Roomba is back with a furry robot companion](https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch)
- - [The Pixel 11 could be the next victim of the RAM shortage](https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram)
- - [Filing: Blackstone&#39;s data center acquisition vehicle seeks to raise as much as $1.75B in its IPO, and will target newly built data centers valued at $250M-$1.5B &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260504/p26#a260504p26)
- - [Cisco agrees to acquire Astrix Security, which helps companies monitor and control the permissions granted to AI agents, a source says for approximately $400M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260504/p25#a260504p25)<!-- TECH:END -->
+ - [Why there is a 60%+ chance of AI systems autonomously building their own successors by the end of 2028, and a look at the consequences of fully automated AI R&amp;D &lpar;Jack Clark/Import AI&rpar;](https://www.techmeme.com/260504/p32#a260504p32)
+ - [Sources: Apple prepares a &quot;Create a Pass&quot; feature for iOS 27, which lets users take a QR code and generate a custom pass around it for concerts and other venues &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260504/p31#a260504p31)
+ - [Intel taps Alex Katouzian, an ex-Qualcomm EVP, to lead Client Computing &amp; Physical AI group, and names Pushkar Ranade as CTO, after serving on an interim basis &lpar;Dylan Martin/CRN&rpar;](https://www.techmeme.com/260504/p30#a260504p30)
+ - [Release candidates of iOS 26.5, macOS Tahoe 26.5 are out now](https://appleinsider.com/articles/26/05/04/release-candidates-of-ios-265-macos-tahoe-265-are-out-now?utm_source=rss)
+ - [Ex-iRobot CEO Colin Angle launches Familiar Machines &amp; Magic and unveils Familiar, a dog-like, &quot;emotionally intelligent&quot; robot that reacts to owner&#39;s feelings &lpar;Christopher Mims/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p29#a260504p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

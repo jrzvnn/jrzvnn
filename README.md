@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Password](http://9gag.com/gag/aW43rAZ)
- - 😝 [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 💣 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
- - 😝 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)
- - 👉 [Firm handshake](http://9gag.com/gag/a87xZXe)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/agmzPN1)
+ - 😝 [I have this mental illness](http://9gag.com/gag/aoyQX5n)
+ - 💣 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)
+ - 😝 [`Everyone&#39;s recording... &lpar;and posting it on 9gag&rpar;.`](http://9gag.com/gag/aGy4WX6)
+ - 👉 [My best friend got hit by a car, he is currently in surgery fighting for his life. Please send good vibes](http://9gag.com/gag/a4POD1Q)<!-- MEMES:END -->
 
 ---
 

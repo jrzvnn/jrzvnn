@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some reviews hit different](http://9gag.com/gag/aZZOGKQ)
- - 😝 [Can you guess?](http://9gag.com/gag/aQzWGrK)
- - 💣 [Guys](http://9gag.com/gag/a1m3ywG)
- - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
+ - 😝 [The Password](http://9gag.com/gag/aW43rAZ)
+ - 😝 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
+ - 💣 [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 😝 [`Everyone&#39;s recording... &lpar;and posting it on 9gag&rpar;.`](http://9gag.com/gag/aGy4WX6)
+ - 👉 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)<!-- MEMES:END -->
 
 ---
 

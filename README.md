@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s World Liberty Financial countersues Tron founder Justin Sun, alleging defamation, contract violations, and more &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260504/p17#a260504p17)
- - [Testing common myths for your portable Mac to extend your battery life](https://appleinsider.com/articles/26/05/04/testing-common-myths-for-your-portable-mac-to-extend-your-battery-life?utm_source=rss)
- - [DHS Demanded Google Surrender Data on Canadian&#39;s Activity, Location Over Anti-ICE Posts](https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/)
- - [Dara Khosrowshahi on replacing Uber drivers — and himself — with AI](https://www.theverge.com/podcast/922909/dara-khosrowshahi-uber-drivers-ai-hotels-service)
- - [Tesla hits Musk’s threshold for ‘safe unsupervised’ driving](https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk)<!-- TECH:END -->
+ - [Sources: more than two dozen prediction-market ETFs have been pushed back as the SEC seeks more information; they were originally expected to launch this week &lpar;Suzanne McGee/Reuters&rpar;](https://www.techmeme.com/260504/p27#a260504p27)
+ - [The creator of Roomba is back with a furry robot companion](https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch)
+ - [The Pixel 11 could be the next victim of the RAM shortage](https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram)
+ - [Filing: Blackstone&#39;s data center acquisition vehicle seeks to raise as much as $1.75B in its IPO, and will target newly built data centers valued at $250M-$1.5B &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260504/p26#a260504p26)
+ - [Cisco agrees to acquire Astrix Security, which helps companies monitor and control the permissions granted to AI agents, a source says for approximately $400M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260504/p25#a260504p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

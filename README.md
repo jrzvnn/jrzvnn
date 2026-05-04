@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The Password](http://9gag.com/gag/aW43rAZ)
  - 😝 [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 💣 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 😝 [Lucky enough](http://9gag.com/gag/aE0mLZK)
- - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
+ - 💣 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
+ - 😝 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)
+ - 👉 [Firm handshake](http://9gag.com/gag/a87xZXe)<!-- MEMES:END -->
 
 ---
 

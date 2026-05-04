@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU DMA after-action review didn&#39;t go the way that Apple wanted](https://appleinsider.com/articles/26/05/04/eu-dma-after-action-review-didnt-go-the-way-that-apple-wanted?utm_source=rss)
- - [Palantir reports Q1 revenue up 85% YoY to $1.63B, vs. $1.54B est., US government revenue up 84% to $687M, and US commercial revenue up 133% to $595M &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260504/p38#a260504p38)
- - [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)
- - [Elon Musk agrees to pay $1.5M to settle SEC allegations that he cheated Twitter shareholders in 2022 by failing to disclose the 5%+ stake he had in the company &lpar;Nicola M White/Bloomberg&rpar;](https://www.techmeme.com/260504/p37#a260504p37)
- - [Pinterest reports Q1 revenue up 18% YoY to $1B, vs. $966M est., MAUs up 11% YoY to 631M, and forecasts Q2 revenue above estimates; PINS jumps 17%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260504/p36#a260504p36)<!-- TECH:END -->
+ - [Elon Musk will settle the feds’ Twitter lawsuit with pocket change](https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x)
+ - [Epic vs Apple fight could be put on hold again if Supreme Court sides with Apple](https://appleinsider.com/articles/26/05/04/epic-vs-apple-fight-could-be-put-on-hold-again-if-supreme-court-sides-with-apple?utm_source=rss)
+ - [What to Know About Sony’s $7.85 Million PlayStation Settlement](https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/)
+ - [And the Oscar Does Not Go to… AI &#39;Actors&#39; and AI-Written Screenplays, the Academy Says](https://www.cnet.com/tech/services-and-software/academy-motion-picture-arts-sciences-new-oscars-rules-ai-2026-news/)
+ - [Duolingo reports Q1 revenue up 27% YoY to $292M, vs. $288.5M est., bookings up 14% to $308.5M, and expects slower growth in Q2; DUOL drops 12%+ after hours &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260504/p40#a260504p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

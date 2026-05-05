@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
  - 😝 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
  - 💣 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 😝 [Everything about this classic clip stresses me out!The stupidity is astounding.](http://9gag.com/gag/a6ZYWqN)
+ - 😝 [The one with the babysitter](http://9gag.com/gag/a34XoZQ)
  - 👉 [China irl](http://9gag.com/gag/aYQX2mw)<!-- MEMES:END -->
 
 ---

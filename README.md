@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab reports Q1 revenue up 24% YoY to $955M, above est., and a $154M adjusted EBITDA, vs. $146.3M est., helped by resilient demand for ride hailing and delivery &lpar;Olivia Poh/Bloomberg&rpar;](https://www.techmeme.com/260504/p43#a260504p43)
- - [What the Spirit Airlines Implosion Means for Your Vacation](https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/)
- - [New Mexico child safety trial: New Mexico asks a judge to declare Meta a public nuisance and to order it to pay $3.7B and overhaul its apps to protect children &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260504/p42#a260504p42)
- - [World&#39;s best-selling smartphone for Q1 2026 is iPhone 17, as expected](https://appleinsider.com/articles/26/05/04/worlds-best-selling-smartphone-for-q1-2026-is-iphone-17-as-expected?utm_source=rss)
- - [Crypto stocks jump after lawmakers struck a compromise on the CLARITY Act to preserve stablecoin rewards under certain conditions; Circle&#39;s stock closed up ~20% &lpar;Tanaya Macheel/CNBC&rpar;](https://www.techmeme.com/260504/p41#a260504p41)<!-- TECH:END -->
+ - [Valve just imported 50 tons of game consoles in two days](https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026)
+ - [OpenAI’s president does ‘all the things,’ except answer a question](https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial)
+ - [How AI is transforming the pharma industry, with most gains so far from back-office streamlining and faster manufacturing rather than breakthrough drug research &lpar;Peter Loftus/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p45#a260504p45)
+ - [Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’](https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/)
+ - [Lattice Semiconductor agrees to acquire AMI for $1.65B in cash and stock; Georgia-based AMI provides firmware and infrastructure manageability for cloud and AI &lpar;Mike Rogoway/Oregonian&rpar;](https://www.techmeme.com/260504/p44#a260504p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

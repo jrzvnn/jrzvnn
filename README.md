@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RadixArk, led by former xAI employee Ying Sheng, raised a $100M seed at a $400M valuation to make AI inference more efficient via its open-source SGLang engine &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/260505/p21#a260505p21)
- - [a16z crypto raised $2.2B for its fifth fund, down from its record $4.5B Fund 4 in May 2022, taking its total capital raised across five funds to ~$9.8B &lpar;Yogita Khatri/The Block&rpar;](https://www.techmeme.com/260505/p20#a260505p20)
- - [Curved-glass 20th-anniversary iPhone may finally introduce solid-state buttons](https://appleinsider.com/articles/26/05/05/curved-glass-20th-anniversary-iphone-may-finally-introduce-solid-state-buttons?utm_source=rss)
- - [The US Commerce Department&#39;s CAISI says Google, Microsoft, and xAI join OpenAI and Anthropic in granting early access to evaluate models prior to public release &lpar;Bloomberg&rpar;](https://www.techmeme.com/260505/p19#a260505p19)
- - [Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home](https://www.wired.com/story/bose-brings-back-its-lifestyle-branding-with-new-speakers-for-the-home/)<!-- TECH:END -->
+ - [From Alan Shepard to Artemis, celebrating 65 years of Americans in space](https://www.theverge.com/science/918596/alan-shepard-american-spaceflight-photos-anniversary)
+ - [Sao Paulo-based Enter, which uses AI to handle litigation for companies like Airbnb, raised $100M led by Founders Fund at a $1.2B valuation &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260505/p31#a260505p31)
+ - [The new AirPods Max 2 are already on sale for $40 off](https://www.theverge.com/gadgets/923396/airpods-max-2-echo-dot-smart-speaker-deal-sale)
+ - [Aylo says it will restore Pornhub access in the UK, but only for users who have verified their age via iOS 26.4&#39;s device-level age verification system &lpar;Liv McMahon/BBC&rpar;](https://www.techmeme.com/260505/p30#a260505p30)
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve just imported 50 tons of game consoles in two days](https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026)
- - [OpenAI’s president does ‘all the things,’ except answer a question](https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial)
- - [How AI is transforming the pharma industry, with most gains so far from back-office streamlining and faster manufacturing rather than breakthrough drug research &lpar;Peter Loftus/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p45#a260504p45)
- - [Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’](https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/)
- - [Lattice Semiconductor agrees to acquire AMI for $1.65B in cash and stock; Georgia-based AMI provides firmware and infrastructure manageability for cloud and AI &lpar;Mike Rogoway/Oregonian&rpar;](https://www.techmeme.com/260504/p44#a260504p44)<!-- TECH:END -->
+ - [Sources: Apple held exploratory talks with Intel and its executives visited a Samsung plant in Texas to explore producing core chips for its devices in the US &lpar;Bloomberg&rpar;](https://www.techmeme.com/260504/p49#a260504p49)
+ - [Inference cloud startup DeepInfra raised a $107M Series B co-led by 500 Global and Georges Harik; it currently supports more than 190 open models &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260504/p48#a260504p48)
+ - [Sources: Sam Altman discussed spinning out OpenAI&#39;s robotics and consumer hardware divisions in late 2025 to give them more room to grow; the plan was rejected &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p47#a260504p47)
+ - [As Colorado tech leaders say that burdensome regulations are driving companies away, lawmakers introduce a slimmer version of an AI anti-discrimination bill &lpar;Owen Tucker-Smith/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p46#a260504p46)
+ - [Boox Go 10.3 Gen II review: this refresh is both better and somehow worse than the last one](https://appleinsider.com/articles/26/05/05/boox-go-103-gen-ii-review-this-refresh-is-both-better-and-somehow-worse-than-the-last-one?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind workers are unionizing over AI military contracts](https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel)
- - [In Q1, the iPhone 17 was the world&#39;s best-selling smartphone, with 6% of global sales; the iPhone 17 Pro Max and 17 Pro were 2nd and 3rd, and Galaxy A07 was 4th &lpar;Counterpoint Research&rpar;](https://www.techmeme.com/260505/p7#a260505p7)
- - [He Couldn’t Land a Job Interview. Was AI to Blame?](https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/)
- - [Letter: UK-based Google DeepMind workers voted to unionize with the Communication Workers Union and Unite in April, representing 1K+ staff, amid the US DOD deal &lpar;Alice Speri/The Guardian&rpar;](https://www.techmeme.com/260505/p6#a260505p6)
- - [Microsoft is finally ditching the junk MSN feed in Windows widgets](https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets)<!-- TECH:END -->
+ - [Meta says it will expand Instagram teen account safeguards to 27 EU countries, and plans to roll them out on Facebook in the US, ahead of the UK and EU in June &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260505/p15#a260505p15)
+ - [Murena /e/OS Tablet Review: Privacy for a Price](https://www.wired.com/review/murena-volla-tablet/)
+ - [Microsoft&#39;s 2026 Work Trend Index: a survey of 20K AI users finds 65% fear falling behind, but only 13% report being rewarded for workplace AI experimentation &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260505/p14#a260505p14)
+ - [Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it&#39;s &quot;not facial recognition&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260505/p13#a260505p13)
+ - [PayPal reports Q1 net revenue up 7% YoY to $8.4B, total payment volume up 11% YoY to $464B, active accounts up 1% to 439M, and seeks $1.5B+ in cost savings &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260505/p12#a260505p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

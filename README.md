@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reaches a $250M settlement in a CA federal court to resolve a false advertising class action lawsuit over the launch of a &quot;personalized&quot; Siri in 2024 &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260505/p45#a260505p45)
- - [AMD reports Q1 revenue up 38% YoY to $10.25B, Data Center revenue up 57% to $5.8B, and forecasts Q2 revenue above estimates, as AI chip demand stays strong &lpar;Zaheer Kachwala/Reuters&rpar;](https://www.techmeme.com/260505/p44#a260505p44)
- - [Apple culls more high-end Mac mini, Mac Studio configs](https://appleinsider.com/articles/26/05/05/apple-culls-more-high-end-mac-mini-mac-studio-configs?utm_source=rss)
- - [Xbox CEO Asha Sharma says Xbox &quot;will begin winding down Copilot on mobile and will stop development of Copilot on console&quot; as part of a strategic shift &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260505/p43#a260505p43)
- - [Microsoft gives up on Xbox Copilot AI](https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma)<!-- TECH:END -->
+ - [Reddit Is Making Some Mobile Web Readers Log In or Use the App Instead](https://www.cnet.com/news/social-media/reddit-prompting-some-mobile-web-users-to-download-the-app/)
+ - [GlobalFoundries reports Q1 revenue up 3% YoY to $1.63B, in line with est., and forecasts Q2 revenue and adjusted earnings above estimates; GFS closes up 9.28% &lpar;Patrick Seitz/Investor&#39;s Business Daily&rpar;](https://www.techmeme.com/260505/p51#a260505p51)
+ - [Apple agrees to pay iPhone owners $250 million for not delivering AI Siri](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement)
+ - [Micron closes up 11% after announcing its highest-capacity SSD has started to ship, lifting its market cap past $700B for the first time; Sandisk closes up 12% &lpar;Lola Murti/CNBC&rpar;](https://www.techmeme.com/260505/p50#a260505p50)
+ - [Telehealth Abortion Is Still Possible Without Mifepristone](https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

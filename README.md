@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
+ - 😝 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
  - 😝 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - 💣 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 😝 [The one with the babysitter](http://9gag.com/gag/a34XoZQ)
- - 👉 [China irl](http://9gag.com/gag/aYQX2mw)<!-- MEMES:END -->
+ - 💣 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - 😝 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
+ - 👉 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)<!-- MEMES:END -->
 
 ---
 

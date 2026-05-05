@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Sheppard dog visits the baby goats for a little late night check up](http://9gag.com/gag/aGy4WBG)
  - 😝 [Nice shirts](http://9gag.com/gag/aLn7ynV)
  - 💣 [Netflix today](http://9gag.com/gag/an7Ppq5)
- - 😝 [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)
+ - 😝 [Why is that?](http://9gag.com/gag/aByBD8D)
  - 👉 [Here Today, Gone Tomorrow](http://9gag.com/gag/agmzMD6)<!-- MEMES:END -->
 
 ---

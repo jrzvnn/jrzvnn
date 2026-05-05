@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you guess?](http://9gag.com/gag/aQzWGrK)
  - 😝 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)
- - 💣 [My best friend got hit by a car, he is currently in surgery fighting for his life. Please send good vibes](http://9gag.com/gag/a4POD1Q)
- - 😝 [Latvian passport under UV light - Good luck to counterfeit that](http://9gag.com/gag/a87xPDY)
- - 👉 [Sheppard dog visits the baby goats for a little late night check up](http://9gag.com/gag/aGy4WBG)<!-- MEMES:END -->
+ - 😝 [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 💣 [Fight 4u right](http://9gag.com/gag/aZZOGD0)
+ - 😝 [Death Star](http://9gag.com/gag/a4POe3Z)
+ - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
- - 😝 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 💣 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
+ - 😝 [Why is that?](http://9gag.com/gag/aByBD8D)
+ - 😝 [Latvian passport under UV light - Good luck to counterfeit that](http://9gag.com/gag/a87xPDY)
+ - 💣 [Here Today, Gone Tomorrow](http://9gag.com/gag/agmzMD6)
  - 😝 [Spider cool dude](http://9gag.com/gag/a9yg32D)
- - 👉 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)<!-- MEMES:END -->
+ - 👉 [F**k yes. Best of news all year.](http://9gag.com/gag/aqyo387)<!-- MEMES:END -->
 
 ---
 

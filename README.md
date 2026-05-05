@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it will expand Instagram teen account safeguards to 27 EU countries, and plans to roll them out on Facebook in the US, ahead of the UK and EU in June &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260505/p15#a260505p15)
- - [Murena /e/OS Tablet Review: Privacy for a Price](https://www.wired.com/review/murena-volla-tablet/)
- - [Microsoft&#39;s 2026 Work Trend Index: a survey of 20K AI users finds 65% fear falling behind, but only 13% report being rewarded for workplace AI experimentation &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260505/p14#a260505p14)
- - [Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it&#39;s &quot;not facial recognition&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260505/p13#a260505p13)
- - [PayPal reports Q1 net revenue up 7% YoY to $8.4B, total payment volume up 11% YoY to $464B, active accounts up 1% to 439M, and seeks $1.5B+ in cost savings &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260505/p12#a260505p12)<!-- TECH:END -->
+ - [RadixArk, led by former xAI employee Ying Sheng, raised a $100M seed at a $400M valuation to make AI inference more efficient via its open-source SGLang engine &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/260505/p21#a260505p21)
+ - [a16z crypto raised $2.2B for its fifth fund, down from its record $4.5B Fund 4 in May 2022, taking its total capital raised across five funds to ~$9.8B &lpar;Yogita Khatri/The Block&rpar;](https://www.techmeme.com/260505/p20#a260505p20)
+ - [Curved-glass 20th-anniversary iPhone may finally introduce solid-state buttons](https://appleinsider.com/articles/26/05/05/curved-glass-20th-anniversary-iphone-may-finally-introduce-solid-state-buttons?utm_source=rss)
+ - [The US Commerce Department&#39;s CAISI says Google, Microsoft, and xAI join OpenAI and Anthropic in granting early access to evaluate models prior to public release &lpar;Bloomberg&rpar;](https://www.techmeme.com/260505/p19#a260505p19)
+ - [Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home](https://www.wired.com/story/bose-brings-back-its-lifestyle-branding-with-new-speakers-for-the-home/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

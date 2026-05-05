@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit Is Making Some Mobile Web Readers Log In or Use the App Instead](https://www.cnet.com/news/social-media/reddit-prompting-some-mobile-web-users-to-download-the-app/)
- - [GlobalFoundries reports Q1 revenue up 3% YoY to $1.63B, in line with est., and forecasts Q2 revenue and adjusted earnings above estimates; GFS closes up 9.28% &lpar;Patrick Seitz/Investor&#39;s Business Daily&rpar;](https://www.techmeme.com/260505/p51#a260505p51)
- - [Apple agrees to pay iPhone owners $250 million for not delivering AI Siri](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement)
- - [Micron closes up 11% after announcing its highest-capacity SSD has started to ship, lifting its market cap past $700B for the first time; Sandisk closes up 12% &lpar;Lola Murti/CNBC&rpar;](https://www.techmeme.com/260505/p50#a260505p50)
- - [Telehealth Abortion Is Still Possible Without Mifepristone](https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/)<!-- TECH:END -->
+ - [Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260505/p53#a260505p53)
+ - [Lawsuit over delayed Siri features reaches massive $250M settlement](https://appleinsider.com/articles/26/05/05/lawsuit-over-delayed-siri-features-reaches-massive-250m-settlement?utm_source=rss)
+ - [Google Home&amp;#8217;s Gemini AI can handle more complicated requests](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade)
+ - [EA reports Q4 net bookings up 3.6% YoY to $1.86B, vs. $2B est., weighed down by a post-launch drop-off in engagement for Battlefield 6 &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260505/p52#a260505p52)
+ - [Reddit Is Making Some Mobile Web Readers Log In or Use the App Instead](https://www.cnet.com/news/social-media/reddit-prompting-some-mobile-web-users-to-download-the-app/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

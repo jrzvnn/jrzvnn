@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
- - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 💣 [China irl](http://9gag.com/gag/aYQX2mw)
- - 😝 [Here Today, Gone Tomorrow](http://9gag.com/gag/agmzMD6)
- - 👉 [Toxic masculinity!](http://9gag.com/gag/azxpNrK)<!-- MEMES:END -->
+ - 😝 [My best friend got hit by a car, he is currently in surgery fighting for his life. Please send good vibes](http://9gag.com/gag/a4POD1Q)
+ - 😝 [Can you guess?](http://9gag.com/gag/aQzWGrK)
+ - 💣 [Sheppard dog visits the baby goats for a little late night check up](http://9gag.com/gag/aGy4WBG)
+ - 😝 [Nice shirts](http://9gag.com/gag/aLn7ynV)
+ - 👉 [Netflix today](http://9gag.com/gag/an7Ppq5)<!-- MEMES:END -->
 
 ---
 

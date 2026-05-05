@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to let users choose from multiple third-party AI models to perform tasks like generating and editing text and images in iOS 27 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260505/p36#a260505p36)
- - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
- - [OpenAI says GPT-5.5 Instant produces 52.5% fewer hallucinated claims &quot;on high-stakes prompts covering areas like medicine, law, and finance&quot; &lpar;Megan Morrone/Axios&rpar;](https://www.techmeme.com/260505/p35#a260505p35)
- - [OpenAI launches GPT-5.5 Instant, which it says is smarter, with more accurate and personalized responses, replacing GPT-5.3 Instant as ChatGPT&#39;s default model &lpar;OpenAI&rpar;](https://www.techmeme.com/260505/p34#a260505p34)
- - [OpenAI claims ChatGPT’s new default model hallucinates way less](https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant)<!-- TECH:END -->
+ - [Subquadratic launches with a $29M seed and debuts SubQ, an LLM that uses a subquadratic sparse attention architecture to achieve a 12M-token context window &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260505/p39#a260505p39)
+ - [Blitzy, which says its platform autonomously completes months of software development, raised $200M at a $1.4B valuation, bringing its total funding to $232M+ &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260505/p38#a260505p38)
+ - [iPhone users will get to select a preferred AI model in iOS 27](https://appleinsider.com/articles/26/05/05/iphone-users-will-get-to-select-a-preferred-ai-model-in-ios-27?utm_source=rss)
+ - [OpenAI rolls out a beta version of its new Ads Manager tool to advertisers in the US, making it easier for SMBs to buy ChatGPT ads on a cost-per-click basis &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260505/p37#a260505p37)
+ - [Threads is finally getting DMs on the web](https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My best friend got hit by a car, he is currently in surgery fighting for his life. Please send good vibes](http://9gag.com/gag/a4POD1Q)
- - 😝 [Can you guess?](http://9gag.com/gag/aQzWGrK)
- - 💣 [Sheppard dog visits the baby goats for a little late night check up](http://9gag.com/gag/aGy4WBG)
+ - 😝 [Sheppard dog visits the baby goats for a little late night check up](http://9gag.com/gag/aGy4WBG)
  - 😝 [Nice shirts](http://9gag.com/gag/aLn7ynV)
- - 👉 [Netflix today](http://9gag.com/gag/an7Ppq5)<!-- MEMES:END -->
+ - 💣 [Netflix today](http://9gag.com/gag/an7Ppq5)
+ - 😝 [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)
+ - 👉 [Here Today, Gone Tomorrow](http://9gag.com/gag/agmzMD6)<!-- MEMES:END -->
 
 ---
 

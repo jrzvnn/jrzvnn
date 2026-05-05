@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260505/p53#a260505p53)
- - [Lawsuit over delayed Siri features reaches massive $250M settlement](https://appleinsider.com/articles/26/05/05/lawsuit-over-delayed-siri-features-reaches-massive-250m-settlement?utm_source=rss)
- - [Google Home&amp;#8217;s Gemini AI can handle more complicated requests](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade)
- - [EA reports Q4 net bookings up 3.6% YoY to $1.86B, vs. $2B est., weighed down by a post-launch drop-off in engagement for Battlefield 6 &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260505/p52#a260505p52)
- - [Reddit Is Making Some Mobile Web Readers Log In or Use the App Instead](https://www.cnet.com/news/social-media/reddit-prompting-some-mobile-web-users-to-download-the-app/)<!-- TECH:END -->
+ - [Sources: Meta is building an OpenClaw-inspired agent internally called Hatch, to be powered by its Muse Spark model, and an agentic shopping tool in Instagram &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260505/p55#a260505p55)
+ - [‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk](https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/)
+ - [Delayed Siri features class action suit ends with massive $250M settlement](https://appleinsider.com/articles/26/05/05/lawsuit-over-delayed-siri-features-reaches-massive-250m-settlement?utm_source=rss)
+ - [Sources: Alphabet sold its biggest-ever euro-denominated bonds, raising €9B, and its first Canadian dollar notes, raising CA$8.5B, months after raising $20B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260505/p54#a260505p54)
+ - [Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260505/p53#a260505p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

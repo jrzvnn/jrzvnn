@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
- - 😝 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)
+ - 😝 [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
+ - 😝 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
  - 💣 [Any ideas?](http://9gag.com/gag/aGy431z)
- - 😝 [Protect these companies at all cost](http://9gag.com/gag/aRBq5R7)
- - 👉 [Toxic masculinity!](http://9gag.com/gag/azxpNrK)<!-- MEMES:END -->
+ - 😝 [Singing a lullaby to a baby elephant](http://9gag.com/gag/a0eyAzq)
+ - 👉 [Firm handshake](http://9gag.com/gag/a87xZXe)<!-- MEMES:END -->
 
 ---
 

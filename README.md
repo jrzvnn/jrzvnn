@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Subquadratic launches with a $29M seed and debuts SubQ, an LLM that uses a subquadratic sparse attention architecture to achieve a 12M-token context window &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260505/p39#a260505p39)
- - [Blitzy, which says its platform autonomously completes months of software development, raised $200M at a $1.4B valuation, bringing its total funding to $232M+ &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260505/p38#a260505p38)
- - [iPhone users will get to select a preferred AI model in iOS 27](https://appleinsider.com/articles/26/05/05/iphone-users-will-get-to-select-a-preferred-ai-model-in-ios-27?utm_source=rss)
- - [OpenAI rolls out a beta version of its new Ads Manager tool to advertisers in the US, making it easier for SMBs to buy ChatGPT ads on a cost-per-click basis &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260505/p37#a260505p37)
- - [Threads is finally getting DMs on the web](https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages)<!-- TECH:END -->
+ - [Apple reaches a $250M settlement in a CA federal court to resolve a false advertising class action lawsuit over the launch of a &quot;personalized&quot; Siri in 2024 &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260505/p45#a260505p45)
+ - [AMD reports Q1 revenue up 38% YoY to $10.25B, Data Center revenue up 57% to $5.8B, and forecasts Q2 revenue above estimates, as AI chip demand stays strong &lpar;Zaheer Kachwala/Reuters&rpar;](https://www.techmeme.com/260505/p44#a260505p44)
+ - [Apple culls more high-end Mac mini, Mac Studio configs](https://appleinsider.com/articles/26/05/05/apple-culls-more-high-end-mac-mini-mac-studio-configs?utm_source=rss)
+ - [Xbox CEO Asha Sharma says Xbox &quot;will begin winding down Copilot on mobile and will stop development of Copilot on console&quot; as part of a strategic shift &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260505/p43#a260505p43)
+ - [Microsoft gives up on Xbox Copilot AI](https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

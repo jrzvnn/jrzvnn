@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Uber CEO Dara Khosrowshahi on his plan to make Uber an everything app, Uber&#39;s AI integrations, investing in autonomous cars, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260505/p3#a260505p3)
- - [How Europe is falling behind in the global crypto race, as delays to the ECB&#39;s digital euro leave the bloc exposed to US-led stablecoin dominance &lpar;Bloomberg&rpar;](https://www.techmeme.com/260505/p2#a260505p2)
- - [Kuo: OpenAI appears to be fast-tracking its AI agent phone with two NPUs and a custom MediaTek Dimensity 9600 SoC, targeting mass production as early as H1 2027 &lpar;@mingchikuo&rpar;](https://www.techmeme.com/260505/p1#a260505p1)
- - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
- - [Meta Quest Promo Codes: $50 Off | May 2026](https://www.wired.com/story/meta-quest-promo-code/)<!-- TECH:END -->
+ - [Google DeepMind workers are unionizing over AI military contracts](https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel)
+ - [In Q1, the iPhone 17 was the world&#39;s best-selling smartphone, with 6% of global sales; the iPhone 17 Pro Max and 17 Pro were 2nd and 3rd, and Galaxy A07 was 4th &lpar;Counterpoint Research&rpar;](https://www.techmeme.com/260505/p7#a260505p7)
+ - [He Couldn’t Land a Job Interview. Was AI to Blame?](https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/)
+ - [Letter: UK-based Google DeepMind workers voted to unionize with the Communication Workers Union and Unite in April, representing 1K+ staff, amid the US DOD deal &lpar;Alice Speri/The Guardian&rpar;](https://www.techmeme.com/260505/p6#a260505p6)
+ - [Microsoft is finally ditching the junk MSN feed in Windows widgets](https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

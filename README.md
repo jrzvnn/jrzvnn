@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple held exploratory talks with Intel and its executives visited a Samsung plant in Texas to explore producing core chips for its devices in the US &lpar;Bloomberg&rpar;](https://www.techmeme.com/260504/p49#a260504p49)
- - [Inference cloud startup DeepInfra raised a $107M Series B co-led by 500 Global and Georges Harik; it currently supports more than 190 open models &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260504/p48#a260504p48)
- - [Sources: Sam Altman discussed spinning out OpenAI&#39;s robotics and consumer hardware divisions in late 2025 to give them more room to grow; the plan was rejected &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p47#a260504p47)
- - [As Colorado tech leaders say that burdensome regulations are driving companies away, lawmakers introduce a slimmer version of an AI anti-discrimination bill &lpar;Owen Tucker-Smith/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p46#a260504p46)
- - [Boox Go 10.3 Gen II review: this refresh is both better and somehow worse than the last one](https://appleinsider.com/articles/26/05/05/boox-go-103-gen-ii-review-this-refresh-is-both-better-and-somehow-worse-than-the-last-one?utm_source=rss)<!-- TECH:END -->
+ - [Kuo: OpenAI appears to be fast-tracking its AI agent phone with two NPUs and a custom MediaTek Dimensity 9600 SoC, targeting mass production as early as H1 2027 &lpar;@mingchikuo&rpar;](https://www.techmeme.com/260505/p1#a260505p1)
+ - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
+ - [Meta Quest Promo Codes: $50 Off | May 2026](https://www.wired.com/story/meta-quest-promo-code/)
+ - [B&amp;H Photo Promo Codes and Deals This May](https://www.wired.com/story/bh-photo-coupon/)
+ - [Exclusive Lovehoney Discount Codes: 15% Off](https://www.wired.com/story/lovehoney-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

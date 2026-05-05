@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
- - 😝 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 💣 [Any ideas?](http://9gag.com/gag/aGy431z)
- - 😝 [Singing a lullaby to a baby elephant](http://9gag.com/gag/a0eyAzq)
- - 👉 [Firm handshake](http://9gag.com/gag/a87xZXe)<!-- MEMES:END -->
+ - 😝 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 💣 [China irl](http://9gag.com/gag/aYQX2mw)
+ - 😝 [Here Today, Gone Tomorrow](http://9gag.com/gag/agmzMD6)
+ - 👉 [Toxic masculinity!](http://9gag.com/gag/azxpNrK)<!-- MEMES:END -->
 
 ---
 

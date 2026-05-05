@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)
- - 😝 [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 💣 [Fight 4u right](http://9gag.com/gag/aZZOGD0)
- - 😝 [Death Star](http://9gag.com/gag/a4POe3Z)
- - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
+ - 😝 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
+ - 😝 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)
+ - 💣 [Any ideas?](http://9gag.com/gag/aGy431z)
+ - 😝 [Protect these companies at all cost](http://9gag.com/gag/aRBq5R7)
+ - 👉 [Toxic masculinity!](http://9gag.com/gag/azxpNrK)<!-- MEMES:END -->
 
 ---
 

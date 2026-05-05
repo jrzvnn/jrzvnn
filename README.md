@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From Alan Shepard to Artemis, celebrating 65 years of Americans in space](https://www.theverge.com/science/918596/alan-shepard-american-spaceflight-photos-anniversary)
- - [Sao Paulo-based Enter, which uses AI to handle litigation for companies like Airbnb, raised $100M led by Founders Fund at a $1.2B valuation &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260505/p31#a260505p31)
- - [The new AirPods Max 2 are already on sale for $40 off](https://www.theverge.com/gadgets/923396/airpods-max-2-echo-dot-smart-speaker-deal-sale)
- - [Aylo says it will restore Pornhub access in the UK, but only for users who have verified their age via iOS 26.4&#39;s device-level age verification system &lpar;Liv McMahon/BBC&rpar;](https://www.techmeme.com/260505/p30#a260505p30)
- - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)<!-- TECH:END -->
+ - [Sources: Apple plans to let users choose from multiple third-party AI models to perform tasks like generating and editing text and images in iOS 27 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260505/p36#a260505p36)
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [OpenAI says GPT-5.5 Instant produces 52.5% fewer hallucinated claims &quot;on high-stakes prompts covering areas like medicine, law, and finance&quot; &lpar;Megan Morrone/Axios&rpar;](https://www.techmeme.com/260505/p35#a260505p35)
+ - [OpenAI launches GPT-5.5 Instant, which it says is smarter, with more accurate and personalized responses, replacing GPT-5.3 Instant as ChatGPT&#39;s default model &lpar;OpenAI&rpar;](https://www.techmeme.com/260505/p34#a260505p34)
+ - [OpenAI claims ChatGPT’s new default model hallucinates way less](https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

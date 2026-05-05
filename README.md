@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sheppard dog visits the baby goats for a little late night check up](http://9gag.com/gag/aGy4WBG)
- - 😝 [Nice shirts](http://9gag.com/gag/aLn7ynV)
- - 💣 [Netflix today](http://9gag.com/gag/an7Ppq5)
- - 😝 [Why is that?](http://9gag.com/gag/aByBD8D)
- - 👉 [Here Today, Gone Tomorrow](http://9gag.com/gag/agmzMD6)<!-- MEMES:END -->
+ - 😝 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
+ - 😝 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - 💣 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
+ - 😝 [Everything about this classic clip stresses me out!The stupidity is astounding.](http://9gag.com/gag/a6ZYWqN)
+ - 👉 [China irl](http://9gag.com/gag/aYQX2mw)<!-- MEMES:END -->
 
 ---
 

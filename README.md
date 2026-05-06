@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome silently installs a ~4GB Gemini Nano model on desktop devices; Google says it has been offered since 2024 and users can remove it via settings &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260506/p43#a260506p43)
- - [Corgi, which provides insurance for startups and uses AI to generate quotes, manage claims, and more, raised a $160M Series B led by TCV at a $1.3B valuation &lpar;Richard Nieva/Forbes&rpar;](https://www.techmeme.com/260506/p42#a260506p42)
- - [Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected](https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/)
- - [Musk v. Altman: Mira Murati testifies that Sam Altman lied to her about the safety standards for a new OpenAI model and that he made her work more difficult &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260506/p41#a260506p41)
- - [The latest Tile Pro is down to $25 — its best price of the year](https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale)<!-- TECH:END -->
+ - [A Kid With a Fake Mustache Tricked an Online Age-Verification Tool](https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/)
+ - [Google shuts down Project Mariner](https://www.theverge.com/tech/925559/google-project-mariner-shut-down)
+ - [Snap reports Q1 revenue up 12% YoY to $1.53B, in line with est., and says it ended its $400M Perplexity deal announced in November; SNAP drops 4%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260506/p46#a260506p46)
+ - [DoorDash reports Q1 revenue up 33% YoY to $4.04B, vs. $4.14B est., and forecasts Q2 marketplace gross order value above estimates; DASH jumps 11%+ after hours &lpar;Koyena Das/Reuters&rpar;](https://www.techmeme.com/260506/p45#a260506p45)
+ - [Arm reports Q4 revenue up 20% YoY to $1.5B, says AGI CPU demand will drive $2B in sales in 2027 and 2028, over 2x its prior guidance; ARM jumps 11%+ after hours &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260506/p44#a260506p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Travolta&#39;s directorial debut on Apple TV romanticizes the golden age of flying](https://appleinsider.com/articles/26/05/06/john-travoltas-directorial-debut-on-apple-tv-romanticizes-the-golden-age-of-flying?utm_source=rss)
- - [Google DeepMind takes a minority stake in the maker of Eve Online, a multiplayer role playing game set in outer space, and plans to train its tech on the game &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](https://www.techmeme.com/260506/p31#a260506p31)
- - [&#39;Schmigadoon!&#39; earns Apple&#39;s first-ever Tony nominations despite being cancelled on TV](https://appleinsider.com/articles/26/05/06/schmigadoon-earns-apples-first-ever-tony-nominations-despite-being-cancelled-on-tv?utm_source=rss)
- - [The Litter-Robot 4 bundle is back down to its best price of the year](https://www.theverge.com/gadgets/924446/litter-robot-4-fujifilm-x-half-digital-camera-deal-sale)
- - [Energizer&#39;s Ultimate Child Shield batteries minimizes burns if your child swallows an AirTag battery](https://appleinsider.com/articles/26/05/06/energizers-ultimate-child-shield-batteries-minimizes-burns-if-your-child-swallows-an-airtag-battery?utm_source=rss)<!-- TECH:END -->
+ - [Google releases Multi-Token Prediction drafters for its Gemma 4 models, which use a form of speculative decoding to guess future tokens for faster inference &lpar;Ryan Whitwam/Ars Technica&rpar;](https://www.techmeme.com/260506/p38#a260506p38)
+ - [Supreme Court denies Apple&#39;s hopes for breathing space in its fight against Epic](https://appleinsider.com/articles/26/05/06/supreme-court-denies-apples-hopes-for-breathing-space-in-its-fight-against-epic?utm_source=rss)
+ - [Sources: Microsoft is considering delaying or dropping its 2030 goal of matching its hourly power use with renewable energy purchases, amid the data center boom &lpar;Bloomberg&rpar;](https://www.techmeme.com/260506/p37#a260506p37)
+ - [I Am Begging AI Companies to Stop Naming Features After Human Processes](https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/)
+ - [Anthropic says it is doubling Claude Code&#39;s five-hour rate limits for paid plans and removing Claude Code&#39;s peak hours limit reduction for Pro and Max plans &lpar;Anthropic&rpar;](https://www.techmeme.com/260506/p36#a260506p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

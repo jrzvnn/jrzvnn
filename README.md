@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: using weaker AI models to supervise a more capable model could prevent the stronger model from deliberately underperforming on benchmarks and evaluations &lpar;Emil Ryd/@emilaryd&rpar;](https://www.techmeme.com/260506/p9#a260506p9)
- - [The delayed IPO of Visma, an accounting software company valued at €19B, amid SaaSpocalypse fears, is a major setback for PE parent Hg, a software buyout giant &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p8#a260506p8)
- - [Infineon expects data center revenue to grow from €1.5B in FY2026 to €2.5B in FY2027, as it and EU peers STMicro and NXP benefit from AI infrastructure demand &lpar;Christina Kyriasoglou/Bloomberg&rpar;](https://www.techmeme.com/260506/p7#a260506p7)
- - [Security camera companies are embracing AI to give customers detailed descriptions of surveillance footage that are often spot on but can also be wildly wrong &lpar;Scott Calvert/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p6#a260506p6)
- - [Study: US schools with strict cellphone bans in class have not seen higher test scores on average so far, but students reported a greater sense of well-being &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/260506/p5#a260506p5)<!-- TECH:END -->
+ - [The Best Bed Frames, Tested in Our Own Rooms &lpar;2026&rpar;](https://www.wired.com/story/best-bed-frames/)
+ - [Boycotts Hurt Tesla’s Sales. Now, Activists Are Taking On Elon Musk’s SpaceX IPO](https://www.wired.com/story/activists-call-for-boycott-of-spacex-ipo/)
+ - [DefiLlama: investors pulled ~$14B from the DeFi sector after North Korea-linked hackers stole $290M from Aave in April, weeks after stealing $280M from Drift &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p12#a260506p12)
+ - [A medical student reverse-engineered AI tools used by medical colleges on suspicion they were filtering his applications, highlighting AI-driven hiring concerns &lpar;Todd Feathers/Wired&rpar;](https://www.techmeme.com/260506/p11#a260506p11)
+ - [Sources: DeepSeek is in talks to raise funds, and the Big Fund, China&#39;s biggest state-backed chip fund, is seeking to lead the investment at a ~$45B valuation &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p10#a260506p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

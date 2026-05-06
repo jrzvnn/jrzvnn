@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo announces a new Star Fox for the Switch 2](https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2)
+ - [Filing: Meta asks a judge to overturn the jury&#39;s verdict in the Los Angeles social media addiction trial or order a new trial, citing Section 230 protections &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260506/p47#a260506p47)
+ - [Owning an Apple Home: HomePods as a whole-home audio system](https://appleinsider.com/articles/26/05/06/owning-an-apple-home-homepods-as-a-whole-home-audio-system?utm_source=rss)
  - [A Kid With a Fake Mustache Tricked an Online Age-Verification Tool](https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/)
- - [Google shuts down Project Mariner](https://www.theverge.com/tech/925559/google-project-mariner-shut-down)
- - [Snap reports Q1 revenue up 12% YoY to $1.53B, in line with est., and says it ended its $400M Perplexity deal announced in November; SNAP drops 4%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260506/p46#a260506p46)
- - [DoorDash reports Q1 revenue up 33% YoY to $4.04B, vs. $4.14B est., and forecasts Q2 marketplace gross order value above estimates; DASH jumps 11%+ after hours &lpar;Koyena Das/Reuters&rpar;](https://www.techmeme.com/260506/p45#a260506p45)
- - [Arm reports Q4 revenue up 20% YoY to $1.5B, says AGI CPU demand will drive $2B in sales in 2027 and 2028, over 2x its prior guidance; ARM jumps 11%+ after hours &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260506/p44#a260506p44)<!-- TECH:END -->
+ - [Google shuts down Project Mariner](https://www.theverge.com/tech/925559/google-project-mariner-shut-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The one with the babysitter](http://9gag.com/gag/a34XoZQ)
- - 😝 [That was a close one](http://9gag.com/gag/aRBqx2M)
- - 💣 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
  - 😝 [Coffee jitters](http://9gag.com/gag/a346vqN)
- - 👉 [That bread thou.](http://9gag.com/gag/abAnjrB)<!-- MEMES:END -->
+ - 😝 [Who are you? Where is she?](http://9gag.com/gag/abAnjMr)
+ - 💣 [Gym Life be like](http://9gag.com/gag/awyWqX8)
+ - 😝 [That bread thou.](http://9gag.com/gag/abAnjrB)
+ - 👉 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)<!-- MEMES:END -->
 
 ---
 

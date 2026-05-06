@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
- - 😝 [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)
- - 💣 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
- - 😝 [How one of the first customer complaints was written.](http://9gag.com/gag/aRBqxxB)
- - 👉 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)<!-- MEMES:END -->
+ - 😝 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
+ - 😝 [Time to revisit a classic &#39;owning&#39;.](http://9gag.com/gag/aRBq5eq)
+ - 💣 [Some reviews hit different](http://9gag.com/gag/aZZOGKQ)
+ - 😝 [Former FedEx driver Tanner Horner who killed a 7 year old girl Athena Strand sentenced to capital punishment.](http://9gag.com/gag/a9yg330)
+ - 👉 [Gym Life be like](http://9gag.com/gag/awyWqX8)<!-- MEMES:END -->
 
 ---
 

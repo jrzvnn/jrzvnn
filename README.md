@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 😝 [Time to revisit a classic &#39;owning&#39;.](http://9gag.com/gag/aRBq5eq)
- - 💣 [Some reviews hit different](http://9gag.com/gag/aZZOGKQ)
- - 😝 [Former FedEx driver Tanner Horner who killed a 7 year old girl Athena Strand sentenced to capital punishment.](http://9gag.com/gag/a9yg330)
- - 👉 [Gym Life be like](http://9gag.com/gag/awyWqX8)<!-- MEMES:END -->
+ - 😝 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
+ - 😝 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - 💣 [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)
+ - 😝 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
+ - 👉 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)<!-- MEMES:END -->
 
 ---
 

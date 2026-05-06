@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
  - 😝 [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
- - 💣 [Latvian passport under UV light - Good luck to counterfeit that](http://9gag.com/gag/a87xPDY)
- - 😝 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - 😝 [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)
+ - 💣 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
+ - 😝 [How one of the first customer complaints was written.](http://9gag.com/gag/aRBqxxB)
  - 👉 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)<!-- MEMES:END -->
 
 ---

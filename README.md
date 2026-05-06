@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo announces a new Star Fox for the Switch 2](https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2)
- - [Filing: Meta asks a judge to overturn the jury&#39;s verdict in the Los Angeles social media addiction trial or order a new trial, citing Section 230 protections &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260506/p47#a260506p47)
- - [Owning an Apple Home: HomePods as a whole-home audio system](https://appleinsider.com/articles/26/05/06/owning-an-apple-home-homepods-as-a-whole-home-audio-system?utm_source=rss)
- - [A Kid With a Fake Mustache Tricked an Online Age-Verification Tool](https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/)
- - [Google shuts down Project Mariner](https://www.theverge.com/tech/925559/google-project-mariner-shut-down)<!-- TECH:END -->
+ - [Scale AI wins a $500M DOD contract through the Chief Digital and AI Office to help sift data and assist in decision-making, after receiving a $100M deal in 2025 &lpar;Jen Judson/Bloomberg&rpar;](https://www.techmeme.com/260506/p49#a260506p49)
+ - [Musk v. Altman: Shivon Zilis testifies her relationship with Musk didn&#39;t influence her duties as an OpenAI board member; she left in 2023 after Musk started xAI &lpar;Carly Nairn/Courthouse News Service&rpar;](https://www.techmeme.com/260506/p48#a260506p48)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 7, #591](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-7-590/)
+ - [Google Search Will Start Showing You More Ways to Go Down Rabbit Holes](https://www.cnet.com/tech/services-and-software/google-search-will-start-showing-you-more-ways-to-go-down-rabbit-holes/)
+ - [Nintendo announces a new Star Fox for the Switch 2](https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

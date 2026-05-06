@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To be fair, it is a tip jar... it can work both ways...](http://9gag.com/gag/adBD36Z)
- - 😝 [Gym Life be like](http://9gag.com/gag/awyWqX8)
- - 💣 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
- - 😝 [Cataturk](http://9gag.com/gag/aXP68V6)
- - 👉 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)<!-- MEMES:END -->
+ - 😝 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
+ - 😝 [That bread thou.](http://9gag.com/gag/abAnjrB)
+ - 💣 [Toxic masculinity!](http://9gag.com/gag/azxpNrK)
+ - 😝 [Old age](http://9gag.com/gag/aE09dQ9)
+ - 👉 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)<!-- MEMES:END -->
 
 ---
 

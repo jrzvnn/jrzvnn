@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 😝 [That bread thou.](http://9gag.com/gag/abAnjrB)
- - 💣 [Toxic masculinity!](http://9gag.com/gag/azxpNrK)
- - 😝 [Old age](http://9gag.com/gag/aE09dQ9)
- - 👉 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)<!-- MEMES:END -->
+ - 😝 [The one with the babysitter](http://9gag.com/gag/a34XoZQ)
+ - 😝 [That was a close one](http://9gag.com/gag/aRBqx2M)
+ - 💣 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - 😝 [Coffee jitters](http://9gag.com/gag/a346vqN)
+ - 👉 [That bread thou.](http://9gag.com/gag/abAnjrB)<!-- MEMES:END -->
 
 ---
 

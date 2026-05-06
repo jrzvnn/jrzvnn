@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - 😝 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
- - 💣 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
- - 😝 [UPS driver to the rescue.](http://9gag.com/gag/a4PXKKw)
- - 👉 [That was a close one](http://9gag.com/gag/aRBqx2M)<!-- MEMES:END -->
+ - 😝 [Is this how English sounds to a non speaker?](http://9gag.com/gag/aAyznoL)
+ - 😝 [That was a close one](http://9gag.com/gag/aRBqx2M)
+ - 💣 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
+ - 😝 [Coffee jitters](http://9gag.com/gag/a346vqN)
+ - 👉 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)<!-- MEMES:END -->
 
 ---
 

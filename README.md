@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Bed Frames, Tested in Our Own Rooms &lpar;2026&rpar;](https://www.wired.com/story/best-bed-frames/)
- - [Boycotts Hurt Tesla’s Sales. Now, Activists Are Taking On Elon Musk’s SpaceX IPO](https://www.wired.com/story/activists-call-for-boycott-of-spacex-ipo/)
- - [DefiLlama: investors pulled ~$14B from the DeFi sector after North Korea-linked hackers stole $290M from Aave in April, weeks after stealing $280M from Drift &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p12#a260506p12)
- - [A medical student reverse-engineered AI tools used by medical colleges on suspicion they were filtering his applications, highlighting AI-driven hiring concerns &lpar;Todd Feathers/Wired&rpar;](https://www.techmeme.com/260506/p11#a260506p11)
- - [Sources: DeepSeek is in talks to raise funds, and the Big Fund, China&#39;s biggest state-backed chip fund, is seeking to lead the investment at a ~$45B valuation &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p10#a260506p10)<!-- TECH:END -->
+ - [Crypto miner Hut 8 signs a lease worth $9.8B+ over 15 years to provide computing power to a &quot;high-investment-grade company&quot; at its Nueces County, Texas campus &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260506/p17#a260506p17)
+ - [Uber reports Q1 revenue up 14% YoY to $13.2B, below $13.3B est., Gross Bookings up 25% YoY to $53.7B, trips up 20% YoY to 3.6B, and a $1B revenue UK tax law hit &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p16#a260506p16)
+ - [Best Webcams &lpar;2026&rpar;: My Honest Take After Testing the Best](https://www.wired.com/story/best-webcams/)
+ - [The clippening](https://www.theverge.com/report/920005/social-media-clipping-podcasts-clavicular-marketing-mrbeast)
+ - [Apple Will Pay $250 Million to Settle Lawsuit Over Siri&#39;s AI Features](https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

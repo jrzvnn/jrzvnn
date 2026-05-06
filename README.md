@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases Multi-Token Prediction drafters for its Gemma 4 models, which use a form of speculative decoding to guess future tokens for faster inference &lpar;Ryan Whitwam/Ars Technica&rpar;](https://www.techmeme.com/260506/p38#a260506p38)
- - [Supreme Court denies Apple&#39;s hopes for breathing space in its fight against Epic](https://appleinsider.com/articles/26/05/06/supreme-court-denies-apples-hopes-for-breathing-space-in-its-fight-against-epic?utm_source=rss)
- - [Sources: Microsoft is considering delaying or dropping its 2030 goal of matching its hourly power use with renewable energy purchases, amid the data center boom &lpar;Bloomberg&rpar;](https://www.techmeme.com/260506/p37#a260506p37)
- - [I Am Begging AI Companies to Stop Naming Features After Human Processes](https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/)
- - [Anthropic says it is doubling Claude Code&#39;s five-hour rate limits for paid plans and removing Claude Code&#39;s peak hours limit reduction for Pro and Max plans &lpar;Anthropic&rpar;](https://www.techmeme.com/260506/p36#a260506p36)<!-- TECH:END -->
+ - [Supreme Court denies Apple breathing space in Epic fight](https://appleinsider.com/articles/26/05/06/supreme-court-denies-apples-hopes-for-breathing-space-in-its-fight-against-epic?utm_source=rss)
+ - [Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird](https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/)
+ - [Instacart reports Q1 revenue up 14% YoY to $1.02B, GTV up 13% to $10.29B, and orders up 10%, compared with a 16% growth a year earlier; CART drops 11%+ &lpar;Neil J Kanatt/Reuters&rpar;](https://www.techmeme.com/260506/p40#a260506p40)
+ - [Anthropic says it signed a deal with SpaceX to use &quot;all of the compute capacity&quot; at Colossus 1, giving it access to over 300 MW of new capacity within the month &lpar;Axios&rpar;](https://www.techmeme.com/260506/p39#a260506p39)
+ - [What we’re hearing about the new homepage](https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

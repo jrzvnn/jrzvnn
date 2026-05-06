@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Alphabet is in talks with Blackstone, KKR, and EQT to give their portfolio companies AI model access, after OpenAI&#39;s and Anthropic&#39;s JVs with PE firms &lpar;The Information&rpar;](https://www.techmeme.com/260506/p1#a260506p1)
- - [Nace.AI, which lets companies build specialized AI models tailored to their business&#39; mission and language, raised a $21.5M seed led by Walden Catalyst &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260505/p63#a260505p63)
- - [Coupang reports Q1 revenue up 8% YoY to $8.5B and a net loss of $266M following a 2025 Korean customer data breach, its largest loss since Q4 2021 &lpar;The Korea Herald&rpar;](https://www.techmeme.com/260505/p62#a260505p62)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, May 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-may-6/)
- - [CRM software company Freshworks said it plans to cut 11% of its workforce, or ~500 jobs, as it deals with AI&#39;s impact; FRSH has dropped ~26% in 2026 &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260505/p61#a260505p61)<!-- TECH:END -->
+ - [Study: using weaker AI models to supervise a more capable model could prevent the stronger model from deliberately underperforming on benchmarks and evaluations &lpar;Emil Ryd/@emilaryd&rpar;](https://www.techmeme.com/260506/p9#a260506p9)
+ - [The delayed IPO of Visma, an accounting software company valued at €19B, amid SaaSpocalypse fears, is a major setback for PE parent Hg, a software buyout giant &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p8#a260506p8)
+ - [Infineon expects data center revenue to grow from €1.5B in FY2026 to €2.5B in FY2027, as it and EU peers STMicro and NXP benefit from AI infrastructure demand &lpar;Christina Kyriasoglou/Bloomberg&rpar;](https://www.techmeme.com/260506/p7#a260506p7)
+ - [Security camera companies are embracing AI to give customers detailed descriptions of surveillance footage that are often spot on but can also be wildly wrong &lpar;Scott Calvert/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p6#a260506p6)
+ - [Study: US schools with strict cellphone bans in class have not seen higher test scores on average so far, but students reported a greater sense of well-being &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/260506/p5#a260506p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto miner Hut 8 signs a lease worth $9.8B+ over 15 years to provide computing power to a &quot;high-investment-grade company&quot; at its Nueces County, Texas campus &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260506/p17#a260506p17)
- - [Uber reports Q1 revenue up 14% YoY to $13.2B, below $13.3B est., Gross Bookings up 25% YoY to $53.7B, trips up 20% YoY to 3.6B, and a $1B revenue UK tax law hit &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p16#a260506p16)
- - [Best Webcams &lpar;2026&rpar;: My Honest Take After Testing the Best](https://www.wired.com/story/best-webcams/)
- - [The clippening](https://www.theverge.com/report/920005/social-media-clipping-podcasts-clavicular-marketing-mrbeast)
- - [Apple Will Pay $250 Million to Settle Lawsuit Over Siri&#39;s AI Features](https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/)<!-- TECH:END -->
+ - [Google&amp;#8217;s AI search summaries will now quote Reddit](https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links)
+ - [It’s time to let my iPhone Mini go](https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass)
+ - [Nvidia is investing $500M in Corning as part of its partnership to expand US manufacturing of fiber optics for AI infrastructure; GLW jumps 20%+ pre-market &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p25#a260506p25)
+ - [Smaller iPhone 18 Dynamic Island rumor surfaces again](https://appleinsider.com/articles/26/05/06/smaller-iphone-18-dynamic-island-rumor-surfaces-again?utm_source=rss)
+ - [7 Best Digital Notebooks &lpar;2026&rpar;: reMarkable, Kobo, Kindle](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

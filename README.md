@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the WH is mulling EOs to address security risks from advanced AI, including barring companies from &quot;interfering&quot; with the government&#39;s use of models &lpar;Politico&rpar;](https://www.techmeme.com/260505/p58#a260505p58)
- - [Doc and sources: Google is testing an agent in the Gemini app, internally named Remy, that can integrate with Google services to take actions on a user&#39;s behalf &lpar;Hugh Langley/Business Insider&rpar;](https://www.techmeme.com/260505/p57#a260505p57)
- - [Astrocade, which lets users create video games using natural language prompts, raised $56M, including a Series A and a Series B, and says it has ~5M MAUs &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260505/p56#a260505p56)
- - [Sources: Meta is building an OpenClaw-inspired agent internally called Hatch, to be powered by its Muse Spark model, and an agentic shopping tool in Instagram &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260505/p55#a260505p55)
- - [‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk](https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/)<!-- TECH:END -->
+ - [Source: Alphabet is in talks with Blackstone, KKR, and EQT to give their portfolio companies AI model access, after OpenAI&#39;s and Anthropic&#39;s JVs with PE firms &lpar;The Information&rpar;](https://www.techmeme.com/260506/p1#a260506p1)
+ - [Nace.AI, which lets companies build specialized AI models tailored to their business&#39; mission and language, raised a $21.5M seed led by Walden Catalyst &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260505/p63#a260505p63)
+ - [Coupang reports Q1 revenue up 8% YoY to $8.5B and a net loss of $266M following a 2025 Korean customer data breach, its largest loss since Q4 2021 &lpar;The Korea Herald&rpar;](https://www.techmeme.com/260505/p62#a260505p62)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, May 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-may-6/)
+ - [CRM software company Freshworks said it plans to cut 11% of its workforce, or ~500 jobs, as it deals with AI&#39;s impact; FRSH has dropped ~26% in 2026 &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260505/p61#a260505p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

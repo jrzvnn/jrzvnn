@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
- - 😝 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - 💣 [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)
- - 😝 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
+ - 😝 [To be fair, it is a tip jar... it can work both ways...](http://9gag.com/gag/adBD36Z)
+ - 😝 [Gym Life be like](http://9gag.com/gag/awyWqX8)
+ - 💣 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
+ - 😝 [Cataturk](http://9gag.com/gag/aXP68V6)
  - 👉 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)<!-- MEMES:END -->
 
 ---

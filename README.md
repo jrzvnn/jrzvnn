@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this how English sounds to a non speaker?](http://9gag.com/gag/aAyznoL)
- - 😝 [The forbidden content](http://9gag.com/gag/amo4jM6)
- - 💣 [That was a close one](http://9gag.com/gag/aRBqx2M)
+ - 😝 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
  - 😝 [Coffee jitters](http://9gag.com/gag/a346vqN)
- - 👉 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)<!-- MEMES:END -->
+ - 💣 [Is this how English sounds to a non speaker?](http://9gag.com/gag/aAyznoL)
+ - 😝 [That was a close one](http://9gag.com/gag/aRBqx2M)
+ - 👉 [Gym Life be like](http://9gag.com/gag/awyWqX8)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s AI search summaries will now quote Reddit](https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links)
- - [It’s time to let my iPhone Mini go](https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass)
- - [Nvidia is investing $500M in Corning as part of its partnership to expand US manufacturing of fiber optics for AI infrastructure; GLW jumps 20%+ pre-market &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p25#a260506p25)
- - [Smaller iPhone 18 Dynamic Island rumor surfaces again](https://appleinsider.com/articles/26/05/06/smaller-iphone-18-dynamic-island-rumor-surfaces-again?utm_source=rss)
- - [7 Best Digital Notebooks &lpar;2026&rpar;: reMarkable, Kobo, Kindle](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
+ - [John Travolta&#39;s directorial debut on Apple TV romanticizes the golden age of flying](https://appleinsider.com/articles/26/05/06/john-travoltas-directorial-debut-on-apple-tv-romanticizes-the-golden-age-of-flying?utm_source=rss)
+ - [Google DeepMind takes a minority stake in the maker of Eve Online, a multiplayer role playing game set in outer space, and plans to train its tech on the game &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](https://www.techmeme.com/260506/p31#a260506p31)
+ - [&#39;Schmigadoon!&#39; earns Apple&#39;s first-ever Tony nominations despite being cancelled on TV](https://appleinsider.com/articles/26/05/06/schmigadoon-earns-apples-first-ever-tony-nominations-despite-being-cancelled-on-tv?utm_source=rss)
+ - [The Litter-Robot 4 bundle is back down to its best price of the year](https://www.theverge.com/gadgets/924446/litter-robot-4-fujifilm-x-half-digital-camera-deal-sale)
+ - [Energizer&#39;s Ultimate Child Shield batteries minimizes burns if your child swallows an AirTag battery](https://appleinsider.com/articles/26/05/06/energizers-ultimate-child-shield-batteries-minimizes-burns-if-your-child-swallows-an-airtag-battery?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supreme Court denies Apple breathing space in Epic fight](https://appleinsider.com/articles/26/05/06/supreme-court-denies-apples-hopes-for-breathing-space-in-its-fight-against-epic?utm_source=rss)
- - [Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird](https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/)
- - [Instacart reports Q1 revenue up 14% YoY to $1.02B, GTV up 13% to $10.29B, and orders up 10%, compared with a 16% growth a year earlier; CART drops 11%+ &lpar;Neil J Kanatt/Reuters&rpar;](https://www.techmeme.com/260506/p40#a260506p40)
- - [Anthropic says it signed a deal with SpaceX to use &quot;all of the compute capacity&quot; at Colossus 1, giving it access to over 300 MW of new capacity within the month &lpar;Axios&rpar;](https://www.techmeme.com/260506/p39#a260506p39)
- - [What we’re hearing about the new homepage](https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage)<!-- TECH:END -->
+ - [Google Chrome silently installs a ~4GB Gemini Nano model on desktop devices; Google says it has been offered since 2024 and users can remove it via settings &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260506/p43#a260506p43)
+ - [Corgi, which provides insurance for startups and uses AI to generate quotes, manage claims, and more, raised a $160M Series B led by TCV at a $1.3B valuation &lpar;Richard Nieva/Forbes&rpar;](https://www.techmeme.com/260506/p42#a260506p42)
+ - [Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected](https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/)
+ - [Musk v. Altman: Mira Murati testifies that Sam Altman lied to her about the safety standards for a new OpenAI model and that he made her work more difficult &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260506/p41#a260506p41)
+ - [The latest Tile Pro is down to $25 — its best price of the year](https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

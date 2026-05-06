@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)
- - 😝 [This never gets old](http://9gag.com/gag/aqyP4Nv)
- - 💣 [The one with the babysitter](http://9gag.com/gag/a34XoZQ)
  - 😝 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - 👉 [Cataturk](http://9gag.com/gag/aXP68V6)<!-- MEMES:END -->
+ - 😝 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
+ - 💣 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
+ - 😝 [UPS driver to the rescue.](http://9gag.com/gag/a4PXKKw)
+ - 👉 [That was a close one](http://9gag.com/gag/aRBqx2M)<!-- MEMES:END -->
 
 ---
 

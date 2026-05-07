@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon plans to merge MX Player into Prime Video in India, combining free and paid streaming catalogs on a single platform over the next few months &lpar;Naman Ramachandran/Variety&rpar;](https://www.techmeme.com/260507/p4#a260507p4)
+ - [Source: Samsung offered to allocate ~13% of operating profit to chip division staff; unions threaten an 18-day walkout, seeking a 15% share and a 7% wage hike &lpar;Daniel Tudor/Financial Times&rpar;](https://www.techmeme.com/260507/p5#a260507p5)
+ - [Qualcomm&#39;s New Midrange Chips Add Wi-Fi 7, Improve Gaming for Lower-Cost Phones](https://www.cnet.com/tech/mobile/qualcomms-new-midrange-chips-add-wi-fi-7-improve-gaming-for-lower-cost-phones/)
  - [Analysis: South Korea&#39;s equity market overtakes Canada&#39;s as the world&#39;s seventh largest, driven by Samsung and SK Hynix, whose stocks have more than doubled YTD &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260507/p3#a260507p3)
- - [Vimeo Promo Code: 40% Off This May 2026](https://www.wired.com/story/vimeo-promo-code/)
- - [Walmart Promo Codes: 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Groupon Promo Codes: 60% Off in May 2026](https://www.wired.com/story/groupon-promo-code/)
- - [HP Discount Codes: 60% Off May 2026](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
+ - [Vimeo Promo Code: 40% Off This May 2026](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

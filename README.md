@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this how English sounds to a non speaker?](http://9gag.com/gag/aAyznoL)
+ - 😝 [Ink printer cartridge should be a crime](http://9gag.com/gag/a0erv3v)
  - 😝 [That was a close one](http://9gag.com/gag/aRBqx2M)
  - 💣 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
  - 😝 [Coffee jitters](http://9gag.com/gag/a346vqN)

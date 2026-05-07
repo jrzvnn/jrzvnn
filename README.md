@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
- - 😝 [This is just pretty snow. Inhale deeply...](http://9gag.com/gag/ae9njVj)
- - 💣 [No comment](http://9gag.com/gag/aD2KRed)
- - 😝 [I agree with Kurze](http://9gag.com/gag/a87RLxO)
- - 👉 [That was a close one](http://9gag.com/gag/aRBqx2M)<!-- MEMES:END -->
+ - 😝 [Old but gold](http://9gag.com/gag/aGymY10)
+ - 😝 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
+ - 💣 [Ego damage](http://9gag.com/gag/ae9njm5)
+ - 😝 [Everyone was harmed while making this video](http://9gag.com/gag/aKGQz63)
+ - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
 
 ---
 

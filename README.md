@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb reports Q1 revenue up 18% YoY to $2.68B, vs. $2.62B est., Nights and Seats Booked up 9% to 156.2M, vs. 155.77M est., lifts 2026 revenue growth guidance &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260507/p42#a260507p42)
- - [Coinbase reports Q1 revenue down 31% YoY to $1.41B, vs. $1.52B est., and a loss of $1.49 per share, vs. a $0.27 profit est.; COIN drops 4%+ after hours &lpar;CNBC&rpar;](https://www.techmeme.com/260507/p41#a260507p41)
- - [Apple CEO Tim Cook expected to get invite to go to China with Trump](https://appleinsider.com/articles/26/05/07/apple-ceo-tim-cook-expected-to-get-invite-to-go-to-china-with-trump?utm_source=rss)
- - [Goldman Sachs: Alphabet and Amazon generated &quot;other income&quot; totaling $53B in Q1, or ~60% of their Q1 income; $49B was due to equity stakes in private companies &lpar;Robin Wigglesworth/Financial Times&rpar;](https://www.techmeme.com/260507/p40#a260507p40)
- - [How to Disable Google&#39;s Gemini in Chrome](https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/)<!-- TECH:END -->
+ - [CoreWeave reports Q1 revenue up 112% YoY to $2.08B, vs. $1.97B est., a $99.4B revenue backlog, forecasts Q2 revenue below estimates; CRWV drops 8%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260507/p45#a260507p45)
+ - [Students &amp; teachers can get educational pricing on Apple Watch](https://appleinsider.com/articles/26/05/07/students-teachers-can-get-educational-pricing-on-apple-watch?utm_source=rss)
+ - [One of the Biggest Causes of Dishwasher Decline Is Easy to Prevent](https://www.cnet.com/home/kitchen-and-household/one-of-the-most-common-causes-of-dishwasher-malfunction-is-completely-avoidable/)
+ - [Nvidia and data center operator IREN announce a deal to deploy up to 5 GW of AI infrastructure; Nvidia can invest $2.1B into IREN; IREN jumps 9%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260507/p44#a260507p44)
+ - [NASA&#39;s Curiosity Mars Rover Was Stuck in a Rock: Watch It Free Itself](https://www.cnet.com/science/space/watch-nasas-curiosity-rover-deal-with-mars-first-extremely-clingy-rock/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

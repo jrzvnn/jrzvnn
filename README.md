@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)
+ - [Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla](https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/)
+ - [Roomba Inventor Now Wants You to Own an AI Robot Pet](https://www.cnet.com/tech/services-and-software/former-roomba-inventor-familiar-ai-robot-pet/)
  - [Scale AI wins a $500M DOD contract through the Chief Digital and AI Office to help sift data and assist in decision-making, after receiving a $100M deal in 2025 &lpar;Jen Judson/Bloomberg&rpar;](https://www.techmeme.com/260506/p49#a260506p49)
- - [Musk v. Altman: Shivon Zilis testifies her relationship with Musk didn&#39;t influence her duties as an OpenAI board member; she left in 2023 after Musk started xAI &lpar;Carly Nairn/Courthouse News Service&rpar;](https://www.techmeme.com/260506/p48#a260506p48)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 7, #591](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-7-590/)
- - [Google Search Will Start Showing You More Ways to Go Down Rabbit Holes](https://www.cnet.com/tech/services-and-software/google-search-will-start-showing-you-more-ways-to-go-down-rabbit-holes/)
- - [Nintendo announces a new Star Fox for the Switch 2](https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2)<!-- TECH:END -->
+ - [Musk v. Altman: Shivon Zilis testifies her relationship with Musk didn&#39;t influence her duties as an OpenAI board member; she left in 2023 after Musk started xAI &lpar;Carly Nairn/Courthouse News Service&rpar;](https://www.techmeme.com/260506/p48#a260506p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

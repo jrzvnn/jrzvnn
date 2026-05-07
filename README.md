@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ink printer cartridge should be a crime](http://9gag.com/gag/a0erv3v)
- - 😝 [That was a close one](http://9gag.com/gag/aRBqx2M)
- - 💣 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
+ - 😝 [Walgreens closing stores in Chicago due to widespread theft and looting. Local residents protest and call on mayor to charge Walgreens with a crime.](http://9gag.com/gag/aByA9qD)
+ - 😝 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
+ - 💣 [No comment](http://9gag.com/gag/aD2KRed)
  - 😝 [Coffee jitters](http://9gag.com/gag/a346vqN)
  - 👉 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)<!-- MEMES:END -->
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreWeave reports Q1 revenue up 112% YoY to $2.08B, vs. $1.97B est., a $99.4B revenue backlog, forecasts Q2 revenue below estimates; CRWV drops 8%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260507/p45#a260507p45)
- - [Students &amp; teachers can get educational pricing on Apple Watch](https://appleinsider.com/articles/26/05/07/students-teachers-can-get-educational-pricing-on-apple-watch?utm_source=rss)
- - [One of the Biggest Causes of Dishwasher Decline Is Easy to Prevent](https://www.cnet.com/home/kitchen-and-household/one-of-the-most-common-causes-of-dishwasher-malfunction-is-completely-avoidable/)
- - [Nvidia and data center operator IREN announce a deal to deploy up to 5 GW of AI infrastructure; Nvidia can invest $2.1B into IREN; IREN jumps 9%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260507/p44#a260507p44)
- - [NASA&#39;s Curiosity Mars Rover Was Stuck in a Rock: Watch It Free Itself](https://www.cnet.com/science/space/watch-nasas-curiosity-rover-deal-with-mars-first-extremely-clingy-rock/)<!-- TECH:END -->
+ - [Samsung&#39;s Galaxy Watches Could Alert Users Before They Faint](https://www.cnet.com/health/studies-prove-samsungs-galaxy-watches-can-accurately-warn-you-about-fainting/)
+ - [Block reports Q1 revenue up 5% YoY to $6.1B, vs. $5.9B est., and raises its 2026 gross profit forecast above estimates; XYZ jumps 7%+ after hours &lpar;Isabelle Lee/Bloomberg&rpar;](https://www.techmeme.com/260507/p47#a260507p47)
+ - [Apple can&#39;t avoid $4.1 billion iCloud suit in UK](https://appleinsider.com/articles/26/05/07/apple-cant-avoid-41-billion-icloud-suit-in-uk?utm_source=rss)
+ - [Best Bluetooth Speaker for 2026](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/)
+ - [Lyft reports Q1 revenue up 14% YoY to $1.65B, vs. $1.63B est., gross bookings up 19% to $4.95B, vs. $4.91B est., and rides up 8.5% to 236.9M, vs. 241.2M est. &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260507/p46#a260507p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

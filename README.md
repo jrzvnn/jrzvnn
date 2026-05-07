@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Neo shortages force new A18 Pro run &amp; doubled production to keep up](https://appleinsider.com/articles/26/05/07/macbook-neo-shortages-force-new-a18-pro-run-doubled-production-to-keep-up?utm_source=rss)
- - [Kraken parent Payward agrees to buy Hong Kong-based Reap, which connects financial systems with digital assets, for $600M, and issues stock at a $20B valuation &lpar;Crystal Tse/Bloomberg&rpar;](https://www.techmeme.com/260507/p19#a260507p19)
- - [Kalshi raised $1B led by Coatue at a $22B valuation, its third round in seven months after raising $1B and $300M+, and hits $178B in annualized trading volume &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260507/p18#a260507p18)
- - [Sleep Number ComfortNext Lux Smart Bed: Redefining Support](https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/)
- - [New James Marsden spy thriller picked up by Apple TV](https://appleinsider.com/articles/26/05/07/new-james-marsden-spy-thriller-picked-up-by-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [Diabetes Detection Needs Better Tools. They’re on the Way](https://www.wired.com/story/diabetes-detection-better-tools-biomarkers/)
+ - [Tessera Labs, which uses AI agents to automate enterprise IT migrations and ERP transformations, raised a $60M Series A led by a16z at a $320M valuation &lpar;Anna Tong/Forbes&rpar;](https://www.techmeme.com/260507/p26#a260507p26)
+ - [Netflix has its own, impressive AI-powered voice search](https://www.theverge.com/column/925898/netflix-ai-voice-search)
+ - [BMW iX3 has a lower starting price than comparable gas-powered X3](https://www.theverge.com/transportation/925975/bmw-ix3-starting-price-lower-x3-range-estimate)
+ - [Apple II classic franchise &#39;Wizardry&#39; bought by similarly classic Atari](https://appleinsider.com/articles/26/05/07/apple-ii-classic-franchise-wizardry-bought-by-similarly-classic-atari?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

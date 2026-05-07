@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No comment](http://9gag.com/gag/aD2KRed)
- - 😝 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
- - 💣 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)
+ - 😝 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
+ - 😝 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
+ - 💣 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
  - 😝 [A satisfying pizza experience](http://9gag.com/gag/aVvpOmO)
  - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
 

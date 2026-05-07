@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coffee jitters](http://9gag.com/gag/a346vqN)
- - 😝 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
- - 💣 [Ego damage](http://9gag.com/gag/ae9njm5)
+ - 😝 [No comment](http://9gag.com/gag/aD2KRed)
+ - 😝 [Ego damage](http://9gag.com/gag/ae9njm5)
+ - 💣 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
  - 😝 [Everyone was harmed while making this video](http://9gag.com/gag/aKGQz63)
- - 👉 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)<!-- MEMES:END -->
+ - 👉 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)<!-- MEMES:END -->
 
 ---
 

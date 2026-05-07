@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gym Life be like](http://9gag.com/gag/awyWqX8)
- - 😝 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
+ - 😝 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
+ - 😝 [No comment](http://9gag.com/gag/aD2KRed)
  - 💣 [That was a close one](http://9gag.com/gag/aRBqx2M)
- - 😝 [Pink really is their color](http://9gag.com/gag/aAy8RNR)
- - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
+ - 😝 [Can&#39;t you see this sign, it&#39;s double yellow lines](http://9gag.com/gag/aryQ1YK)
+ - 👉 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)<!-- MEMES:END -->
 
 ---
 

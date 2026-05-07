@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold](http://9gag.com/gag/aGymY10)
- - 😝 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
- - 💣 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
- - 😝 [Coffee jitters](http://9gag.com/gag/a346vqN)
- - 👉 [That was a close one](http://9gag.com/gag/aRBqx2M)<!-- MEMES:END -->
+ - 😝 [Gym Life be like](http://9gag.com/gag/awyWqX8)
+ - 😝 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
+ - 💣 [That was a close one](http://9gag.com/gag/aRBqx2M)
+ - 😝 [Pink really is their color](http://9gag.com/gag/aAy8RNR)
+ - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
 
 ---
 

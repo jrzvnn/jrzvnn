@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Diabetes Detection Needs Better Tools. They’re on the Way](https://www.wired.com/story/diabetes-detection-better-tools-biomarkers/)
- - [Tessera Labs, which uses AI agents to automate enterprise IT migrations and ERP transformations, raised a $60M Series A led by a16z at a $320M valuation &lpar;Anna Tong/Forbes&rpar;](https://www.techmeme.com/260507/p26#a260507p26)
- - [Netflix has its own, impressive AI-powered voice search](https://www.theverge.com/column/925898/netflix-ai-voice-search)
- - [BMW iX3 has a lower starting price than comparable gas-powered X3](https://www.theverge.com/transportation/925975/bmw-ix3-starting-price-lower-x3-range-estimate)
- - [Apple II classic franchise &#39;Wizardry&#39; bought by similarly classic Atari](https://appleinsider.com/articles/26/05/07/apple-ii-classic-franchise-wizardry-bought-by-similarly-classic-atari?utm_source=rss)<!-- TECH:END -->
+ - [AWS unveils Amazon Bedrock AgentCore Payments and partners with Coinbase and Stripe to enable AI agents to execute transactions using stablecoins &lpar;RT Watson/The Block&rpar;](https://www.techmeme.com/260507/p29#a260507p29)
+ - [ChatGPT Has &#39;Goblin&#39; Mania in the US. In China It Will &#39;Catch You Steadily&#39;](https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/)
+ - [Best Last-Minute Mother’s Day Deals on Mom-Approved Gifts  &lpar;2026&rpar;](https://www.wired.com/story/mothers-day-deals-2026/)
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [DOGE’s Ethan Shaotran Is Now Running a Defense Tech Startup](https://www.wired.com/story/doges-ethan-shaotran-is-now-running-a-defense-tech-startup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

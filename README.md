@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No comment](http://9gag.com/gag/aD2KRed)
+ - 😝 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
  - 😝 [Ego damage](http://9gag.com/gag/ae9njm5)
- - 💣 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
- - 😝 [Everyone was harmed while making this video](http://9gag.com/gag/aKGQz63)
+ - 💣 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
+ - 😝 [Dammit Ernie!!!](http://9gag.com/gag/aGym9AZ)
  - 👉 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)<!-- MEMES:END -->
 
 ---

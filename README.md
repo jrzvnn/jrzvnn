@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)
- - [Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla](https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/)
- - [Roomba Inventor Now Wants You to Own an AI Robot Pet](https://www.cnet.com/tech/services-and-software/former-roomba-inventor-familiar-ai-robot-pet/)
- - [Scale AI wins a $500M DOD contract through the Chief Digital and AI Office to help sift data and assist in decision-making, after receiving a $100M deal in 2025 &lpar;Jen Judson/Bloomberg&rpar;](https://www.techmeme.com/260506/p49#a260506p49)
- - [Musk v. Altman: Shivon Zilis testifies her relationship with Musk didn&#39;t influence her duties as an OpenAI board member; she left in 2023 after Musk started xAI &lpar;Carly Nairn/Courthouse News Service&rpar;](https://www.techmeme.com/260506/p48#a260506p48)<!-- TECH:END -->
+ - [Price war: AirPods Max 2 drop to record low $509 ahead of Mother&#39;s Day](https://appleinsider.com/articles/26/05/07/price-war-airpods-max-2-drop-to-record-low-509-ahead-of-mothers-day?utm_source=rss)
+ - [Bristol Myers Squibb&#39;s Massachusetts facility boosted drug production volume for clinical and commercial use by ~40% with AI, a bright spot in US manufacturing &lpar;Farah Stockman/New York Times&rpar;](https://www.techmeme.com/260506/p56#a260506p56)
+ - [Bengaluru-based Pronto, an on-demand home-help service, raised a $20M Series B extension from Lachy Groom at a $200M valuation, up from $100M in March &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260506/p55#a260506p55)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 6, #1060](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-6-1060/)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-7/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

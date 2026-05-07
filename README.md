@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to merge MX Player into Prime Video in India, combining free and paid streaming catalogs on a single platform over the next few months &lpar;Naman Ramachandran/Variety&rpar;](https://www.techmeme.com/260507/p4#a260507p4)
- - [Source: Samsung offered to allocate ~13% of operating profit to chip division staff; unions threaten an 18-day walkout, seeking a 15% share and a 7% wage hike &lpar;Daniel Tudor/Financial Times&rpar;](https://www.techmeme.com/260507/p5#a260507p5)
- - [Qualcomm&#39;s New Midrange Chips Add Wi-Fi 7, Improve Gaming for Lower-Cost Phones](https://www.cnet.com/tech/mobile/qualcomms-new-midrange-chips-add-wi-fi-7-improve-gaming-for-lower-cost-phones/)
- - [Analysis: South Korea&#39;s equity market overtakes Canada&#39;s as the world&#39;s seventh largest, driven by Samsung and SK Hynix, whose stocks have more than doubled YTD &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260507/p3#a260507p3)
- - [Vimeo Promo Code: 40% Off This May 2026](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
+ - [How lidar and other tech developed for autonomous vehicles is now used in smart city systems, in-home elder care services, and major shipyards like Rotterdam &lpar;John R. Quain/New York Times&rpar;](https://www.techmeme.com/260507/p14#a260507p14)
+ - [How I Fixed My Webcam Lighting for Zoom Calls &lpar;2026&rpar;](https://www.wired.com/story/how-to-fix-bad-webcam-lighting/)
+ - [Samsung says it is ceasing sales of TVs and appliances in China amid fierce competition from local brands; Samsung&#39;s TV and appliance unit lost ~$138M in 2025 &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](https://www.techmeme.com/260507/p13#a260507p13)
+ - [Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web](https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/)
+ - [This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes](https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

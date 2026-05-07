@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How lidar and other tech developed for autonomous vehicles is now used in smart city systems, in-home elder care services, and major shipyards like Rotterdam &lpar;John R. Quain/New York Times&rpar;](https://www.techmeme.com/260507/p14#a260507p14)
- - [How I Fixed My Webcam Lighting for Zoom Calls &lpar;2026&rpar;](https://www.wired.com/story/how-to-fix-bad-webcam-lighting/)
- - [Samsung says it is ceasing sales of TVs and appliances in China amid fierce competition from local brands; Samsung&#39;s TV and appliance unit lost ~$138M in 2025 &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](https://www.techmeme.com/260507/p13#a260507p13)
- - [Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web](https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/)
- - [This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes](https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/)<!-- TECH:END -->
+ - [MacBook Neo shortages force new A18 Pro run &amp; doubled production to keep up](https://appleinsider.com/articles/26/05/07/macbook-neo-shortages-force-new-a18-pro-run-doubled-production-to-keep-up?utm_source=rss)
+ - [Kraken parent Payward agrees to buy Hong Kong-based Reap, which connects financial systems with digital assets, for $600M, and issues stock at a $20B valuation &lpar;Crystal Tse/Bloomberg&rpar;](https://www.techmeme.com/260507/p19#a260507p19)
+ - [Kalshi raised $1B led by Coatue at a $22B valuation, its third round in seven months after raising $1B and $300M+, and hits $178B in annualized trading volume &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260507/p18#a260507p18)
+ - [Sleep Number ComfortNext Lux Smart Bed: Redefining Support](https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/)
+ - [New James Marsden spy thriller picked up by Apple TV](https://appleinsider.com/articles/26/05/07/new-james-marsden-spy-thriller-picked-up-by-apple-tv?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

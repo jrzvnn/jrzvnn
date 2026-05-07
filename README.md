@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 18 2027 release was set before the iPhone 17 was launched](https://appleinsider.com/articles/26/05/06/spring-iphone-18-launch-rumored-since-before-iphone-17-debut-in-spite-of-odd-rumor?utm_source=rss)
- - [AirPods Pro with cameras probably aren&#39;t arriving in 2026, but they are close](https://appleinsider.com/articles/26/05/07/airpods-pro-with-cameras-probably-arent-arriving-in-2026-but-they-are-close?utm_source=rss)
- - [While Anthropic will use the Colossus 1 data center, which has a really bad environmental record, xAI retains the larger Colossus 2 for its own AI training &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260507/p35#a260507p35)
- - [Sources: AirPods with cameras reached an advanced testing stage; the cameras will feed data to Siri to help answer questions, rather than take photos or video &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260507/p34#a260507p34)
- - [How I Fixed My Webcam Lighting for Zoom Calls &lpar;2026&rpar;](https://www.wired.com/story/how-to-fix-bad-webcam-lighting/)<!-- TECH:END -->
+ - [Sources: OpenAI and Broadcom discuss terms for Broadcom to finance initial custom chip production for ~$18B, conditioned on Microsoft buying ~40% of the chips &lpar;Anissa Gardizy/The Information&rpar;](https://www.techmeme.com/260507/p39#a260507p39)
+ - [Anthropic researchers detail natural language autoencoders, which convert LLM activations, the numbers encoding a model&#39;s thoughts, into natural language text &lpar;Anthropic&rpar;](https://www.techmeme.com/260507/p38#a260507p38)
+ - [Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster](https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster)
+ - [Apple&amp;#8217;s AirPods with cameras for AI are apparently close to production](https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production)
+ - [Why the Hantavirus Cruise Ship Outbreak Isn’t Likely to Become a Global Crisis](https://www.wired.com/story/hantavirus-cruise-ship-what-you-need-to-know/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

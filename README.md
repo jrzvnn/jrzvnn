@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
- - 😝 [No comment](http://9gag.com/gag/aD2KRed)
- - 💣 [That was a close one](http://9gag.com/gag/aRBqx2M)
- - 😝 [Can&#39;t you see this sign, it&#39;s double yellow lines](http://9gag.com/gag/aryQ1YK)
- - 👉 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)<!-- MEMES:END -->
+ - 😝 [This is just pretty snow. Inhale deeply...](http://9gag.com/gag/ae9njVj)
+ - 💣 [No comment](http://9gag.com/gag/aD2KRed)
+ - 😝 [I agree with Kurze](http://9gag.com/gag/a87RLxO)
+ - 👉 [That was a close one](http://9gag.com/gag/aRBqx2M)<!-- MEMES:END -->
 
 ---
 

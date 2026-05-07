@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold](http://9gag.com/gag/aGymY10)
+ - 😝 [Coffee jitters](http://9gag.com/gag/a346vqN)
  - 😝 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
  - 💣 [Ego damage](http://9gag.com/gag/ae9njm5)
  - 😝 [Everyone was harmed while making this video](http://9gag.com/gag/aKGQz63)
- - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
+ - 👉 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)<!-- MEMES:END -->
 
 ---
 

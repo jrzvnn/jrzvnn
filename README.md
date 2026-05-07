@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Walgreens closing stores in Chicago due to widespread theft and looting. Local residents protest and call on mayor to charge Walgreens with a crime.](http://9gag.com/gag/aByA9qD)
+ - 😝 [Old but gold](http://9gag.com/gag/aGymY10)
  - 😝 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
- - 💣 [No comment](http://9gag.com/gag/aD2KRed)
+ - 💣 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
  - 😝 [Coffee jitters](http://9gag.com/gag/a346vqN)
- - 👉 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)<!-- MEMES:END -->
+ - 👉 [That was a close one](http://9gag.com/gag/aRBqx2M)<!-- MEMES:END -->
 
 ---
 

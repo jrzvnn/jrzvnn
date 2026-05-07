@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI and Broadcom discuss terms for Broadcom to finance initial custom chip production for ~$18B, conditioned on Microsoft buying ~40% of the chips &lpar;Anissa Gardizy/The Information&rpar;](https://www.techmeme.com/260507/p39#a260507p39)
- - [Anthropic researchers detail natural language autoencoders, which convert LLM activations, the numbers encoding a model&#39;s thoughts, into natural language text &lpar;Anthropic&rpar;](https://www.techmeme.com/260507/p38#a260507p38)
- - [Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster](https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster)
- - [Apple&amp;#8217;s AirPods with cameras for AI are apparently close to production](https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production)
- - [Why the Hantavirus Cruise Ship Outbreak Isn’t Likely to Become a Global Crisis](https://www.wired.com/story/hantavirus-cruise-ship-what-you-need-to-know/)<!-- TECH:END -->
+ - [Airbnb reports Q1 revenue up 18% YoY to $2.68B, vs. $2.62B est., Nights and Seats Booked up 9% to 156.2M, vs. 155.77M est., lifts 2026 revenue growth guidance &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260507/p42#a260507p42)
+ - [Coinbase reports Q1 revenue down 31% YoY to $1.41B, vs. $1.52B est., and a loss of $1.49 per share, vs. a $0.27 profit est.; COIN drops 4%+ after hours &lpar;CNBC&rpar;](https://www.techmeme.com/260507/p41#a260507p41)
+ - [Apple CEO Tim Cook expected to get invite to go to China with Trump](https://appleinsider.com/articles/26/05/07/apple-ceo-tim-cook-expected-to-get-invite-to-go-to-china-with-trump?utm_source=rss)
+ - [Goldman Sachs: Alphabet and Amazon generated &quot;other income&quot; totaling $53B in Q1, or ~60% of their Q1 income; $49B was due to equity stakes in private companies &lpar;Robin Wigglesworth/Financial Times&rpar;](https://www.techmeme.com/260507/p40#a260507p40)
+ - [How to Disable Google&#39;s Gemini in Chrome](https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

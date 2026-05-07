@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grampa evil chess player ...](http://9gag.com/gag/aByAR82)
- - 😝 [Truck driver in china saved everyone&#39;s day with his `bro move.`](http://9gag.com/gag/a6Z0m9b)
- - 💣 [UPS driver to the rescue.](http://9gag.com/gag/a4PXKKw)
- - 😝 [Haha](http://9gag.com/gag/a9yxdyo)
- - 👉 [Coffee jitters](http://9gag.com/gag/a346vqN)<!-- MEMES:END -->
+ - 😝 [No comment](http://9gag.com/gag/aD2KRed)
+ - 😝 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
+ - 💣 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)
+ - 😝 [A satisfying pizza experience](http://9gag.com/gag/aVvpOmO)
+ - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
 
 ---
 

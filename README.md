@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS unveils Amazon Bedrock AgentCore Payments and partners with Coinbase and Stripe to enable AI agents to execute transactions using stablecoins &lpar;RT Watson/The Block&rpar;](https://www.techmeme.com/260507/p29#a260507p29)
- - [ChatGPT Has &#39;Goblin&#39; Mania in the US. In China It Will &#39;Catch You Steadily&#39;](https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/)
- - [Best Last-Minute Mother’s Day Deals on Mom-Approved Gifts  &lpar;2026&rpar;](https://www.wired.com/story/mothers-day-deals-2026/)
- - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
- - [DOGE’s Ethan Shaotran Is Now Running a Defense Tech Startup](https://www.wired.com/story/doges-ethan-shaotran-is-now-running-a-defense-tech-startup/)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 18 2027 release was set before the iPhone 17 was launched](https://appleinsider.com/articles/26/05/06/spring-iphone-18-launch-rumored-since-before-iphone-17-debut-in-spite-of-odd-rumor?utm_source=rss)
+ - [AirPods Pro with cameras probably aren&#39;t arriving in 2026, but they are close](https://appleinsider.com/articles/26/05/07/airpods-pro-with-cameras-probably-arent-arriving-in-2026-but-they-are-close?utm_source=rss)
+ - [While Anthropic will use the Colossus 1 data center, which has a really bad environmental record, xAI retains the larger Colossus 2 for its own AI training &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260507/p35#a260507p35)
+ - [Sources: AirPods with cameras reached an advanced testing stage; the cameras will feed data to Siri to help answer questions, rather than take photos or video &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260507/p34#a260507p34)
+ - [How I Fixed My Webcam Lighting for Zoom Calls &lpar;2026&rpar;](https://www.wired.com/story/how-to-fix-bad-webcam-lighting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

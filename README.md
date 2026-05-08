@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top Megelin Deals for Laser and LED Therapy Devices &lpar;2026&rpar;](https://www.wired.com/story/megelin-deals-2026/)
  - [Sources: WH is preparing to order US agencies to partner with AI companies on cybersecurity; the EO wouldn&#39;t require pre-release model testing by the government &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p33#a260508p33)
  - [EU warns that VPNs are being used to bypass online age-verification systems, calling their use &quot;a loophole in the legislation that needs closing&quot; &lpar;Alex Lekander/CyberInsider&rpar;](https://www.techmeme.com/260508/p32#a260508p32)
  - [Denon Home series speakers review: Siri smarts with superior sound](https://appleinsider.com/articles/26/05/08/denon-home-series-speakers-review-siri-smarts-with-superior-sound?utm_source=rss)
- - [The Health-Tracking Whoop App Will Now Connect You to On-Demand Doctors. Plus, New AI Features](https://www.cnet.com/health/fitness/whoop-fitness-tracker-ai-feature-on-demand-doctors/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 9 #797](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-9-797/)<!-- TECH:END -->
+ - [The Health-Tracking Whoop App Will Now Connect You to On-Demand Doctors. Plus, New AI Features](https://www.cnet.com/health/fitness/whoop-fitness-tracker-ai-feature-on-demand-doctors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

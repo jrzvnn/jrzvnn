@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
  - 😝 [You know OF right?...](http://9gag.com/gag/aqyP9jQ)
- - 😝 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
- - 💣 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
- - 😝 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
- - 👉 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)<!-- MEMES:END -->
+ - 💣 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
+ - 😝 [The ultimate fear on a first date](http://9gag.com/gag/a2v3PPe)
+ - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
 
 ---
 

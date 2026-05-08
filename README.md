@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Updated iOS 26.5 &amp; iPadOS 26.5 RC 2 builds tighten final release](https://appleinsider.com/articles/26/05/08/updated-ios-265-ipados-265-rc-2-builds-tighten-final-release?utm_source=rss)
- - [Judge rules DOGE used ChatGPT in a way that was both dumb and illegal](https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled)
- - [Interviews with Intel CEO Lip-Bu Tan and other execs about the challenges of a turnaround, along with efforts to instill a sense of urgency in the organization &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/260508/p25#a260508p25)
- - [ABC and Disney accuse Trump admin of violating First Amendment rights](https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view)
- - [The Apple Silicon chip in your next device may be made by Intel](https://appleinsider.com/articles/26/05/08/apple-may-have-signed-a-deal-with-intel-to-make-apple-silicon?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $125-$135 after drawing orders for more than 20x the number of shares available &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p29#a260508p29)
+ - [A hack of Instructure&#39;s Canvas locked out students at schools and universities across the US in the middle of finals period; some US colleges postponed exams &lpar;Associated Press&rpar;](https://www.techmeme.com/260508/p28#a260508p28)
+ - [Here is Yarbo’s promise to fix the robot mower that ran me over](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise)
+ - [Sources: Isomorphic Labs, an AI-powered drug discovery company spun out of Google DeepMind, is in advanced talks to raise $2B+ led by Thrive Capital &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p27#a260508p27)
+ - [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

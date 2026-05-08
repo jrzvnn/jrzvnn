@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UPS driver to the rescue.](http://9gag.com/gag/a4PXKKw)
- - 😝 [Truck driver in china saved everyone&#39;s day with his `bro move.`](http://9gag.com/gag/a6Z0m9b)
- - 💣 [Haha](http://9gag.com/gag/a9yxdyo)
- - 😝 [Average Brazilian coffee experience](http://9gag.com/gag/a6Z0wXq)
- - 👉 [Coffee jitters](http://9gag.com/gag/a346vqN)<!-- MEMES:END -->
+ - 😝 [You know OF right?...](http://9gag.com/gag/aqyP9jQ)
+ - 😝 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
+ - 💣 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
+ - 😝 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
+ - 👉 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I could have been baking bread...](http://9gag.com/gag/aPAEvGg)
- - 😝 [Accept this bonjour and you will be one lucky buoy](http://9gag.com/gag/aPAEy0G)
- - 💣 [Rare intelligence from the land of resources](http://9gag.com/gag/aD2Kw8x)
- - 😝 [Everyone was harmed while making this video](http://9gag.com/gag/aKGQz63)
- - 👉 [A satisfying pizza experience](http://9gag.com/gag/aVvpOmO)<!-- MEMES:END -->
+ - 😝 [Just a bear checking out the competition](http://9gag.com/gag/aMVo2Dx)
+ - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
+ - 💣 [Ego damage](http://9gag.com/gag/ae9njm5)
+ - 😝 [Slapped](http://9gag.com/gag/aVvpQKM)
+ - 👉 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)<!-- MEMES:END -->
 
 ---
 

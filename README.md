@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surveys: half of US adults under 50 get health info from influencers or podcasts; 86% of the health influencers are on Instagram, 62% on TikTok, 45% on YouTube &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260508/p8#a260508p8)
- - [Analysis: the combined free cash flow of Amazon, Alphabet, Microsoft, and Meta is expected to fall to ~$4B in Q3 and hit its lowest full-year level since 2014 &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p7#a260508p7)
- - [Filings: Baidu&#39;s AI chip unit Kunlunxin is planning a dual IPO on Shanghai&#39;s STAR Board and in Hong Kong; Baidu holds a 58% stake in Kunlunxin &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p6#a260508p6)
- - [Fintech app Toss, used by ~66% of South Korea&#39;s 51M people, says its FacePay service, available at 330K retail outlets, has attracted 4.8M users since September &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p5#a260508p5)
- - [Sources: SK Hynix&#39;s big customers have been proposing a range of offers to secure memory chip supplies, including investing in dedicated chip production lines &lpar;Reuters&rpar;](https://www.techmeme.com/260508/p4#a260508p4)<!-- TECH:END -->
+ - [Sources: the US suspects OBON, a key company behind Thailand&#39;s national AI effort, of smuggling Super Micro servers with export-controlled Nvidia chips to China &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p10#a260508p10)
+ - [Sony&amp;#8217;s PS5 sales plummet amid price rises and a memory crisis](https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 8 #796](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-8-796/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 8, #1062](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-8-1062/)
+ - [Nintendo says it will increase the price of the Switch 2 to $500, up from $450, globally from September 1, and offers a downbeat performance outlook for 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p9#a260508p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

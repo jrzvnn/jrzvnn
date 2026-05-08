@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s education discount now requires proof that you’re a student](https://www.theverge.com/tech/926675/apple-education-discount-unidays-verification-us)
- - [Wedbush biggest bull on Apple with huge target price jump to $400](https://appleinsider.com/articles/26/05/08/wedbush-biggest-bull-on-apple-with-huge-target-price-jump-to-400?utm_source=rss)
- - [Filing: Lime files for an IPO, reporting 2025 revenue of $886.7M, up from $686.6M YoY, and a net loss of $59.3M, up from $33.9M; it was valued at $510M in 2020 &lpar;Jordan Fitzgerald/Bloomberg&rpar;](https://www.techmeme.com/260508/p16#a260508p16)
- - [Nintendo reports Q4 revenue of ~$2.60B, below ~$2.75B est., net profit of ~$416M, above ~$403.68M est., and forecasts a decline in FY 2027 Switch 2 unit sales &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/260508/p15#a260508p15)
- - [iOS 26 review one year later: Liquid Glass complaints hide the real problem](https://appleinsider.com/articles/26/05/08/ios-26-review-one-year-later-liquid-glass-complaints-hide-the-real-problem?utm_source=rss)<!-- TECH:END -->
+ - [Boox’s new page-turning e-reader remote is a tiny two-button keyboard](https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote)
+ - [What’s the role of a simple fitness band in the AI health era?](https://www.theverge.com/column/926700/optimizer-fitbit-fitness-bands-ai-health)
+ - [Tesla is recalling its cheaper Cybertruck because the wheels might fall off](https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall)
+ - [Everybody wants to rule the AI world](https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast)
+ - [Sony reports a $765M impairment loss due to Marathon developer Bungie&#39;s underperformance during its FY ending March 31, 2026; Sony acquired Bungie in early 2022 &lpar;Wesley Yin-Poole/IGN&rpar;](https://www.techmeme.com/260508/p20#a260508p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

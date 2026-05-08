@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ultimate fear on a first date](http://9gag.com/gag/a2v3PPe)
- - 😝 [Average Brazilian coffee experience](http://9gag.com/gag/a6Z0wXq)
- - 💣 [When you get pulled over by Bill Burr](http://9gag.com/gag/aByAQdz)
- - 😝 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
- - 👉 [Happy 100th to one of the best of us.](http://9gag.com/gag/abAN5wb)<!-- MEMES:END -->
+ - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
+ - 😝 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)
+ - 💣 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
+ - 😝 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)
+ - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
 
 ---
 

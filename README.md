@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to pause Activity Rings in watchOS 26 when you need a break](https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_source=rss)
- - [Sources: White House unease over Mythos has left some administration officials fearful that the change represents a reversal of its hands-off AI policy &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260507/p54#a260507p54)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-8/)
- - [Canadian encryption law could force Apple to take drastic action like in UK](https://appleinsider.com/articles/26/05/08/canadian-encryption-law-could-force-apple-to-take-drastic-action-like-in-uk?utm_source=rss)
- - [Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI](https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/)<!-- TECH:END -->
+ - [Filings: Baidu&#39;s AI chip unit Kunlunxin is planning a dual IPO on Shanghai&#39;s STAR Board and in Hong Kong; Baidu holds a 58% stake in Kunlunxin &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p6#a260508p6)
+ - [Fintech app Toss, used by ~66% of South Korea&#39;s 51M people, says its FacePay service, available at 330K retail outlets, has attracted 4.8M users since September &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p5#a260508p5)
+ - [Sources: SK Hynix&#39;s big customers have been proposing a range of offers to secure memory chip supplies, including investing in dedicated chip production lines &lpar;Reuters&rpar;](https://www.techmeme.com/260508/p4#a260508p4)
+ - [Instructure disables its Canvas edtech platform, used by thousands of schools and universities, amid a data extortion attack claimed by ShinyHunters &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260508/p3#a260508p3)
+ - [Sony reports 1.5M PS5 unit sales in Q4, down 46% YoY, and forecasts annual sales at its gaming business to fall 6% YoY to $1.69B, amid memory chip price surge &lpar;Sam Nussey/Reuters&rpar;](https://www.techmeme.com/260508/p2#a260508p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $125-$135 after drawing orders for more than 20x the number of shares available &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p29#a260508p29)
- - [A hack of Instructure&#39;s Canvas locked out students at schools and universities across the US in the middle of finals period; some US colleges postponed exams &lpar;Associated Press&rpar;](https://www.techmeme.com/260508/p28#a260508p28)
- - [Here is Yarbo’s promise to fix the robot mower that ran me over](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise)
- - [Sources: Isomorphic Labs, an AI-powered drug discovery company spun out of Google DeepMind, is in advanced talks to raise $2B+ led by Thrive Capital &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p27#a260508p27)
- - [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)<!-- TECH:END -->
+ - [Asus chases Elgato with its own secondary touchscreen display](https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display)
+ - [Amazon is adding a vertical video feed to Prime Video](https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed)
+ - [Federal prosecutors bust suspects in million-dollar Apple delivery truck heist](https://appleinsider.com/articles/26/05/08/federal-prosecutors-bust-suspects-in-million-dollar-apple-delivery-truck-heist?utm_source=rss)
+ - [Sources: Apollo Global and Blackstone are among private credit lenders in talks with Broadcom over a ~$35B financing deal to fund the development of AI chips &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p30#a260508p30)
+ - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $125-$135 after drawing orders for more than 20x the number of shares available &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p29#a260508p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boox’s new page-turning e-reader remote is a tiny two-button keyboard](https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote)
- - [What’s the role of a simple fitness band in the AI health era?](https://www.theverge.com/column/926700/optimizer-fitbit-fitness-bands-ai-health)
- - [Tesla is recalling its cheaper Cybertruck because the wheels might fall off](https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall)
- - [Everybody wants to rule the AI world](https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast)
- - [Sony reports a $765M impairment loss due to Marathon developer Bungie&#39;s underperformance during its FY ending March 31, 2026; Sony acquired Bungie in early 2022 &lpar;Wesley Yin-Poole/IGN&rpar;](https://www.techmeme.com/260508/p20#a260508p20)<!-- TECH:END -->
+ - [Google Fitbit Air preorders come with a second band for free](https://www.theverge.com/gadgets/926766/google-fitbit-air-preorder-free-band-deal-sale)
+ - [Everyone should follow Logitech and put extra USB ports on iPad keyboard cases](https://www.theverge.com/tech/926852/logitech-rugged-combo-4c-keyboard-touchpad-extra-usb-c-port)
+ - [Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure](https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure)
+ - [The company that owns Moog, Akai Pro, and Numark is buying Native Instruments](https://www.theverge.com/entertainment/926841/native-instruments-inmusic)
+ - [Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’](https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

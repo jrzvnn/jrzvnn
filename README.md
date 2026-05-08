@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
+ - 😝 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)
+ - 💣 [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
  - 😝 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
- - 😝 [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
- - 💣 [Downgrade](http://9gag.com/gag/a87RWDY)
- - 😝 [A satisfying pizza experience](http://9gag.com/gag/aVvpOmO)
- - 👉 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)<!-- MEMES:END -->
+ - 👉 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)<!-- MEMES:END -->
 
 ---
 

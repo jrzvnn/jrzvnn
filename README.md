@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple and Intel have reached a formal deal in recent months for Intel to manufacture some chips for Apple devices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260508/p24#a260508p24)
- - [The 46 best last-minute Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
- - [PlayStation sees AI as a ‘powerful tool’ to help make games](https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games)
- - [Teenage Engineering’s KO Sidekick is a mixer with fun performance effects](https://www.theverge.com/tech/926898/teenage-engineerings-ko-sidekick-is-a-mixer-with-fun-performance-effects)
- - [OnlyFans agrees to sell a ~16% stake to Architect Capital for $535M in a deal that values the company at about $3.15B &lpar;Olivia Solon/Bloomberg&rpar;](https://www.techmeme.com/260508/p23#a260508p23)<!-- TECH:END -->
+ - [Updated iOS 26.5 &amp; iPadOS 26.5 RC 2 builds tighten final release](https://appleinsider.com/articles/26/05/08/updated-ios-265-ipados-265-rc-2-builds-tighten-final-release?utm_source=rss)
+ - [Judge rules DOGE used ChatGPT in a way that was both dumb and illegal](https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled)
+ - [Interviews with Intel CEO Lip-Bu Tan and other execs about the challenges of a turnaround, along with efforts to instill a sense of urgency in the organization &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/260508/p25#a260508p25)
+ - [ABC and Disney accuse Trump admin of violating First Amendment rights](https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view)
+ - [The Apple Silicon chip in your next device may be made by Intel](https://appleinsider.com/articles/26/05/08/apple-may-have-signed-a-deal-with-intel-to-make-apple-silicon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

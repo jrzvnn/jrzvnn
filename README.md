@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU warns that VPNs are being used to bypass online age-verification systems, calling their use &quot;a loophole in the legislation that needs closing&quot; &lpar;Alex Lekander/CyberInsider&rpar;](https://www.techmeme.com/260508/p32#a260508p32)
+ - [Denon Home series speakers review: Siri smarts with superior sound](https://appleinsider.com/articles/26/05/08/denon-home-series-speakers-review-siri-smarts-with-superior-sound?utm_source=rss)
+ - [Impressions of China&#39;s AI ecosystem after visiting many leading AI labs there, and the similarities and differences in working on LLMs in China and the West &lpar;Nathan Lambert/Interconnects AI&rpar;](https://www.techmeme.com/260508/p31#a260508p31)
  - [Asus chases Elgato with its own secondary touchscreen display](https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display)
- - [Amazon is adding a vertical video feed to Prime Video](https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed)
- - [Federal prosecutors bust suspects in million-dollar Apple delivery truck heist](https://appleinsider.com/articles/26/05/08/federal-prosecutors-bust-suspects-in-million-dollar-apple-delivery-truck-heist?utm_source=rss)
- - [Sources: Apollo Global and Blackstone are among private credit lenders in talks with Broadcom over a ~$35B financing deal to fund the development of AI chips &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p30#a260508p30)
- - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $125-$135 after drawing orders for more than 20x the number of shares available &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p29#a260508p29)<!-- TECH:END -->
+ - [Amazon is adding a vertical video feed to Prime Video](https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

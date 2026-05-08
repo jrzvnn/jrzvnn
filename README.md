@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
- - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
- - 💣 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
+ - 😝 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
  - 😝 [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
- - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
+ - 💣 [Downgrade](http://9gag.com/gag/a87RWDY)
+ - 😝 [A satisfying pizza experience](http://9gag.com/gag/aVvpOmO)
+ - 👉 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)<!-- MEMES:END -->
 
 ---
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ego damage](http://9gag.com/gag/ae9njm5)
- - 😝 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)
- - 💣 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
+ - 😝 [Someone is ready for divorce](http://9gag.com/gag/aRBbwYG)
+ - 😝 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)
+ - 💣 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)
  - 😝 [A new boy](http://9gag.com/gag/a87Rb2O)
  - 👉 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Fitbit Air preorders come with a second band for free](https://www.theverge.com/gadgets/926766/google-fitbit-air-preorder-free-band-deal-sale)
- - [Everyone should follow Logitech and put extra USB ports on iPad keyboard cases](https://www.theverge.com/tech/926852/logitech-rugged-combo-4c-keyboard-touchpad-extra-usb-c-port)
- - [Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure](https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure)
- - [The company that owns Moog, Akai Pro, and Numark is buying Native Instruments](https://www.theverge.com/entertainment/926841/native-instruments-inmusic)
- - [Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’](https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/)<!-- TECH:END -->
+ - [Sources: Apple and Intel have reached a formal deal in recent months for Intel to manufacture some chips for Apple devices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260508/p24#a260508p24)
+ - [The 46 best last-minute Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
+ - [PlayStation sees AI as a ‘powerful tool’ to help make games](https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games)
+ - [Teenage Engineering’s KO Sidekick is a mixer with fun performance effects](https://www.theverge.com/tech/926898/teenage-engineerings-ko-sidekick-is-a-mixer-with-fun-performance-effects)
+ - [OnlyFans agrees to sell a ~16% stake to Architect Capital for $535M in a deal that values the company at about $3.15B &lpar;Olivia Solon/Bloomberg&rpar;](https://www.techmeme.com/260508/p23#a260508p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

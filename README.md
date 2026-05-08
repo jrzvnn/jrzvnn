@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s Galaxy Watches Could Alert Users Before They Faint](https://www.cnet.com/health/studies-prove-samsungs-galaxy-watches-can-accurately-warn-you-about-fainting/)
- - [Block reports Q1 revenue up 5% YoY to $6.1B, vs. $5.9B est., and raises its 2026 gross profit forecast above estimates; XYZ jumps 7%+ after hours &lpar;Isabelle Lee/Bloomberg&rpar;](https://www.techmeme.com/260507/p47#a260507p47)
- - [Apple can&#39;t avoid $4.1 billion iCloud suit in UK](https://appleinsider.com/articles/26/05/07/apple-cant-avoid-41-billion-icloud-suit-in-uk?utm_source=rss)
- - [Best Bluetooth Speaker for 2026](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/)
- - [Lyft reports Q1 revenue up 14% YoY to $1.65B, vs. $1.63B est., gross bookings up 19% to $4.95B, vs. $4.91B est., and rides up 8.5% to 236.9M, vs. 241.2M est. &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260507/p46#a260507p46)<!-- TECH:END -->
+ - [Mozilla says Anthropic&#39;s Mythos Preview and other AI models helped it identify and ship 423 Firefox security bug fixes in April, compared to 31 a year earlier &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260507/p51#a260507p51)
+ - [Sources: AI model builder Core Automation, founded in March by Jerry Tworek, aims to raise $300M-$500M at a $4B valuation after raising $100M at a $1B valuation &lpar;The Information&rpar;](https://www.techmeme.com/260507/p50#a260507p50)
+ - [GameSir Pocket Taco review: an emulator-friendly retro controller with some tradeoffs](https://appleinsider.com/articles/26/05/08/gamesir-pocket-taco-review-an-emulator-friendly-retro-controller-with-some-tradeoffs?utm_source=rss)
+ - [MercadoLibre reports Q1 revenue up 49% YoY to $8.8B, vs. $8.4B est., and net income down 16% to $417M, vs. $433M est.; MELI drops 5%+ after hours &lpar;Bloomberg&rpar;](https://www.techmeme.com/260507/p49#a260507p49)
+ - [To Avoid Getting Sick, Our Lab Data Shows You Need This Air Purifier Model](https://www.cnet.com/home/kitchen-and-household/avoid-getting-sick-air-purifier-model/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
- - 😝 [You know OF right?...](http://9gag.com/gag/aqyP9jQ)
+ - 😝 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
+ - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
  - 💣 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
- - 😝 [The ultimate fear on a first date](http://9gag.com/gag/a2v3PPe)
+ - 😝 [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
  - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
 
 ---

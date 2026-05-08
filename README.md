@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
- - 😝 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
- - 💣 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
- - 😝 [A satisfying pizza experience](http://9gag.com/gag/aVvpOmO)
- - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
+ - 😝 [UPS driver to the rescue.](http://9gag.com/gag/a4PXKKw)
+ - 😝 [Truck driver in china saved everyone&#39;s day with his `bro move.`](http://9gag.com/gag/a6Z0m9b)
+ - 💣 [Haha](http://9gag.com/gag/a9yxdyo)
+ - 😝 [Average Brazilian coffee experience](http://9gag.com/gag/a6Z0wXq)
+ - 👉 [Coffee jitters](http://9gag.com/gag/a346vqN)<!-- MEMES:END -->
 
 ---
 

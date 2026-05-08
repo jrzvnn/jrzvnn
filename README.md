@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
- - 😝 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)
- - 💣 [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
  - 😝 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
- - 👉 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)<!-- MEMES:END -->
+ - 💣 [The forbidden jelly don\u2019t](http://9gag.com/gag/aByAQ0x)
+ - 😝 [Slapped](http://9gag.com/gag/aVvpQKM)
+ - 👉 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Datadog closed up 31%+ after reporting Q1 revenue up 32% YoY to $1B and raising its FY revenue forecast, an outlier in the software industry amid the AI boom &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260508/p14#a260508p14)
- - [Students &amp; teachers can get educational pricing on Apple Watch](https://appleinsider.com/articles/26/05/07/students-teachers-can-get-educational-pricing-on-apple-watch?utm_source=rss)
- - [We Asked Coffee Pros to Blind Test Coffee Machines. The Results Were Surprising](https://www.wired.com/story/we-asked-coffee-pros-to-blind-test-coffee-machines-the-results-were-surprising/)
- - [Sony reports Q4 revenue of $19.4B, above ~$18.4B est., operating profit of ~$1.06B, below ~$1.7B est., and forecasts FY 2027 net profit to rise 13% to ~$7.4B &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260508/p13#a260508p13)
- - [Billie Eilish Doesn&#39;t Know if There Will Ever Be Another Billie Eilish](https://www.wired.com/story/billie-eilish-doesnt-know-if-there-will-ever-be-another-billie-eilish/)<!-- TECH:END -->
+ - [Apple’s education discount now requires proof that you’re a student](https://www.theverge.com/tech/926675/apple-education-discount-unidays-verification-us)
+ - [Wedbush biggest bull on Apple with huge target price jump to $400](https://appleinsider.com/articles/26/05/08/wedbush-biggest-bull-on-apple-with-huge-target-price-jump-to-400?utm_source=rss)
+ - [Filing: Lime files for an IPO, reporting 2025 revenue of $886.7M, up from $686.6M YoY, and a net loss of $59.3M, up from $33.9M; it was valued at $510M in 2020 &lpar;Jordan Fitzgerald/Bloomberg&rpar;](https://www.techmeme.com/260508/p16#a260508p16)
+ - [Nintendo reports Q4 revenue of ~$2.60B, below ~$2.75B est., net profit of ~$416M, above ~$403.68M est., and forecasts a decline in FY 2027 Switch 2 unit sales &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/260508/p15#a260508p15)
+ - [iOS 26 review one year later: Liquid Glass complaints hide the real problem](https://appleinsider.com/articles/26/05/08/ios-26-review-one-year-later-liquid-glass-complaints-hide-the-real-problem?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

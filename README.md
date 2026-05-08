@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone is ready for divorce](http://9gag.com/gag/aRBbwYG)
- - 😝 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)
- - 💣 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)
- - 😝 [A new boy](http://9gag.com/gag/a87Rb2O)
- - 👉 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
+ - 😝 [When you get pulled over by Bill Burr](http://9gag.com/gag/aByAQdz)
+ - 😝 [I could have been baking bread...](http://9gag.com/gag/aPAEvGg)
+ - 💣 [Rare intelligence from the land of resources](http://9gag.com/gag/aD2Kw8x)
+ - 😝 [Everyone was harmed while making this video](http://9gag.com/gag/aKGQz63)
+ - 👉 [A satisfying pizza experience](http://9gag.com/gag/aVvpOmO)<!-- MEMES:END -->
 
 ---
 

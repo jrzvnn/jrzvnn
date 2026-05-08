@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US suspects OBON, a key company behind Thailand&#39;s national AI effort, of smuggling Super Micro servers with export-controlled Nvidia chips to China &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p10#a260508p10)
- - [Sony&amp;#8217;s PS5 sales plummet amid price rises and a memory crisis](https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 8 #796](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-8-796/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 8, #1062](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-8-1062/)
- - [Nintendo says it will increase the price of the Switch 2 to $500, up from $450, globally from September 1, and offers a downbeat performance outlook for 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p9#a260508p9)<!-- TECH:END -->
+ - [Datadog closed up 31%+ after reporting Q1 revenue up 32% YoY to $1B and raising its FY revenue forecast, an outlier in the software industry amid the AI boom &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260508/p14#a260508p14)
+ - [Students &amp; teachers can get educational pricing on Apple Watch](https://appleinsider.com/articles/26/05/07/students-teachers-can-get-educational-pricing-on-apple-watch?utm_source=rss)
+ - [We Asked Coffee Pros to Blind Test Coffee Machines. The Results Were Surprising](https://www.wired.com/story/we-asked-coffee-pros-to-blind-test-coffee-machines-the-results-were-surprising/)
+ - [Sony reports Q4 revenue of $19.4B, above ~$18.4B est., operating profit of ~$1.06B, below ~$1.7B est., and forecasts FY 2027 net profit to rise 13% to ~$7.4B &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260508/p13#a260508p13)
+ - [Billie Eilish Doesn&#39;t Know if There Will Ever Be Another Billie Eilish](https://www.wired.com/story/billie-eilish-doesnt-know-if-there-will-ever-be-another-billie-eilish/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

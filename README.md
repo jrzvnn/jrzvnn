@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Surveys: half of US adults under 50 get health info from influencers or podcasts; 86% of the health influencers are on Instagram, 62% on TikTok, 45% on YouTube &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260508/p8#a260508p8)
+ - [Analysis: the combined free cash flow of Amazon, Alphabet, Microsoft, and Meta is expected to fall to ~$4B in Q3 and hit its lowest full-year level since 2014 &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p7#a260508p7)
  - [Filings: Baidu&#39;s AI chip unit Kunlunxin is planning a dual IPO on Shanghai&#39;s STAR Board and in Hong Kong; Baidu holds a 58% stake in Kunlunxin &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p6#a260508p6)
  - [Fintech app Toss, used by ~66% of South Korea&#39;s 51M people, says its FacePay service, available at 330K retail outlets, has attracted 4.8M users since September &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p5#a260508p5)
- - [Sources: SK Hynix&#39;s big customers have been proposing a range of offers to secure memory chip supplies, including investing in dedicated chip production lines &lpar;Reuters&rpar;](https://www.techmeme.com/260508/p4#a260508p4)
- - [Instructure disables its Canvas edtech platform, used by thousands of schools and universities, amid a data extortion attack claimed by ShinyHunters &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260508/p3#a260508p3)
- - [Sony reports 1.5M PS5 unit sales in Q4, down 46% YoY, and forecasts annual sales at its gaming business to fall 6% YoY to $1.69B, amid memory chip price surge &lpar;Sam Nussey/Reuters&rpar;](https://www.techmeme.com/260508/p2#a260508p2)<!-- TECH:END -->
+ - [Sources: SK Hynix&#39;s big customers have been proposing a range of offers to secure memory chip supplies, including investing in dedicated chip production lines &lpar;Reuters&rpar;](https://www.techmeme.com/260508/p4#a260508p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

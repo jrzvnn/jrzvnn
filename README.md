@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
+ - 😝 [Ego damage](http://9gag.com/gag/ae9njm5)
  - 😝 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)
- - 💣 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
- - 😝 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)
- - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
+ - 💣 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
+ - 😝 [A new boy](http://9gag.com/gag/a87Rb2O)
+ - 👉 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
 
 ---
 

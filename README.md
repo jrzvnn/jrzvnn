@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
- - 😝 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)
- - 💣 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)
- - 😝 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
+ - 😝 [Wow... Just wow...](http://9gag.com/gag/axyLZjb)
+ - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
+ - 💣 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
+ - 😝 [Hahaha... Nice one!](http://9gag.com/gag/agmDvvn)
  - 👉 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
 
 ---

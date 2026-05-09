@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hear me out](http://9gag.com/gag/amoeLby)
  - 😝 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
+ - 😝 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
  - 💣 [Slapped](http://9gag.com/gag/aVvpQKM)
  - 😝 [Title](http://9gag.com/gag/a4PXde1)
- - 👉 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)<!-- MEMES:END -->
+ - 👉 [Downgrade](http://9gag.com/gag/a87RWDY)<!-- MEMES:END -->
 
 ---
 

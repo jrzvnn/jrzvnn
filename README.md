@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic, OpenAI, and other AI firms met with Hindu, Sikh, and Greek Orthodox leaders to draft principles on how to infuse models with ethics and morality &lpar;Krysta Fauria/Associated Press&rpar;](https://www.techmeme.com/260509/p11#a260509p11)
  - [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale)
  - [GM agrees to pay $12.75M to resolve a California investigation into claims that it illegally sold the location and driving data of OnStar subscribers to brokers &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260509/p10#a260509p10)
  - [Prime Video: The 31 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video-may-2026/)
- - [These great digital gifts will arrive just in time for Mother’s Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026)
- - [Sources: ByteDance plans to increase its 2026 capex to more than $30B, up at least 25% from a preliminary plan, amid the AI boom and rising memory chip costs &lpar;South China Morning Post&rpar;](https://www.techmeme.com/260509/p9#a260509p9)<!-- TECH:END -->
+ - [These great digital gifts will arrive just in time for Mother’s Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

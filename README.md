@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haha](http://9gag.com/gag/a9yxdyo)
- - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
- - 💣 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)
- - 😝 [Slapped](http://9gag.com/gag/aVvpQKM)
- - 👉 [Every f**king time](http://9gag.com/gag/aZZ6xq3)<!-- MEMES:END -->
+ - 😝 [Everyone was harmed while making this video](http://9gag.com/gag/aKGQz63)
+ - 😝 [A satisfying pizza experience](http://9gag.com/gag/aVvpOmO)
+ - 💣 [Accept this bonjour and you will be one lucky buoy](http://9gag.com/gag/aPAEy0G)
+ - 😝 [The circle of fifth](http://9gag.com/gag/ae9n3vB)
+ - 👉 [Sidney Sweeney getting \u201cmogged\u201d by her 19yo makeup artist](http://9gag.com/gag/adBG649)<!-- MEMES:END -->
 
 ---
 

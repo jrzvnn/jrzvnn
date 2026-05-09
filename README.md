@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC passed an anti-robocall proposal requiring telecoms, including VoIP providers, to verify user identities before activating service, raising privacy fears &lpar;Ken Macon/Reclaim The Net&rpar;](https://www.techmeme.com/260509/p14#a260509p14)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 10, #594](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-10-594/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for May 10, #798](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-10-798/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for May 10, #1064](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-10-1064/)
- - [Today&#39;s Wordle Hints, Answer and Help for May 10, #1786](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-10-1786/)
- - [How SpaceMob, an online community of ~50,000, has fueled a meme-stock-like rally in satellite networking company AST, which is up ~6,000% over a 22-month period &lpar;Bloomberg&rpar;](https://www.techmeme.com/260509/p13#a260509p13)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for May 10, #1786](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-10-1786/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI, Anthropic, and Google&#39;s enterprise push with PE firms poses a new competitive threat to India&#39;s IT industry, as services become increasingly automatable &lpar;Moneycontrol&rpar;](https://www.techmeme.com/260509/p8#a260509p8)
+ - [The game that makes me actually want to exercise](https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer)
+ - [Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs](https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led)
  - [Best Live-Captioning Smart Glasses &lpar;2026&rpar;, WIRED tested](https://www.wired.com/gallery/best-captioning-glasses/)
- - [Hackable Robot Lawn Mower Unlocks a New Nightmare](https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/)
- - [Before iOS 27, Here&#39;s Everything You Need to Know About iOS 26](https://www.cnet.com/tech/services-and-software/before-ios-27-heres-everything-you-need-to-know-about-ios-26/)
- - [The 19 Most Exciting Cars at the Beijing Auto Show 2026](https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/)
- - [Best TVs for 2026: Expert Tested and Reviewed](https://www.cnet.com/tech/home-entertainment/best-tv/)<!-- TECH:END -->
+ - [Hackable Robot Lawn Mower Unlocks a New Nightmare](https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-9/)
+ - [Beijing-based humanoid robotics company Robotera raised over $200M led by SF Group, after raising ~$146M in March at a ~$1.47B valuation &lpar;Du Zhihang/Caixin Global&rpar;](https://www.techmeme.com/260508/p37#a260508p37)
+ - [Honeywell&#39;s Quantinuum files for a US IPO, reporting a $136.6M net loss on revenue of $5.2M for the three months ended March 31; sources: it could raise $1.5B+ &lpar;Carmen Reinicke/Bloomberg&rpar;](https://www.techmeme.com/260508/p36#a260508p36)
  - [Trump Media and Technology Group reports Q1 net sales up 6% YoY to $871,200 and a $405.9M net loss; DJT is down 35% so far in 2026 for a market cap of ~$2.47B &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260508/p35#a260508p35)
- - [Premier League Soccer: Stream Man City vs. Brentford From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-brentford-from-anywhere-live/)
- - [Premier League Soccer: Stream Liverpool vs. Chelsea From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-chelsea-from-anywhere-live/)
- - [The FCC says foreign-made routers and drones can now receive software updates at least until 2029, extending its earlier 2027 cutoff &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260508/p34#a260508p34)
- - [Top Megelin Deals for Laser and LED Therapy Devices &lpar;2026&rpar;](https://www.wired.com/story/megelin-deals-2026/)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Man City vs. Brentford From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-brentford-from-anywhere-live/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

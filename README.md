@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM agrees to pay $12.75M to resolve a California investigation into claims that it illegally sold the location and driving data of OnStar subscribers to brokers &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260509/p10#a260509p10)
  - [These great digital gifts will arrive just in time for Mother’s Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026)
  - [Sources: ByteDance plans to increase its 2026 capex to more than $30B, up at least 25% from a preliminary plan, amid the AI boom and rising memory chip costs &lpar;South China Morning Post&rpar;](https://www.techmeme.com/260509/p9#a260509p9)
  - [Let it snow](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy)
- - [OpenAI, Anthropic, and Google&#39;s enterprise push with PE firms poses a new competitive threat to India&#39;s IT industry, as services become increasingly automatable &lpar;Moneycontrol&rpar;](https://www.techmeme.com/260509/p8#a260509p8)
- - [I Tested Google&#39;s Biggest Pixel 10A Rival and It&#39;s a Colorful Bargain](https://www.cnet.com/tech/mobile/nothing-phone-4a-pro-review/)<!-- TECH:END -->
+ - [Google&#39;s New Travel Features Arrive in Time for Summer](https://www.cnet.com/tech/services-and-software/google-rolls-out-new-travel-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

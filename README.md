@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-9/)
- - [Beijing-based humanoid robotics company Robotera raised over $200M led by SF Group, after raising ~$146M in March at a ~$1.47B valuation &lpar;Du Zhihang/Caixin Global&rpar;](https://www.techmeme.com/260508/p37#a260508p37)
- - [Honeywell&#39;s Quantinuum files for a US IPO, reporting a $136.6M net loss on revenue of $5.2M for the three months ended March 31; sources: it could raise $1.5B+ &lpar;Carmen Reinicke/Bloomberg&rpar;](https://www.techmeme.com/260508/p36#a260508p36)
- - [Trump Media and Technology Group reports Q1 net sales up 6% YoY to $871,200 and a $405.9M net loss; DJT is down 35% so far in 2026 for a market cap of ~$2.47B &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260508/p35#a260508p35)
- - [Premier League Soccer: Stream Man City vs. Brentford From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-brentford-from-anywhere-live/)<!-- TECH:END -->
+ - [A profile of Anthropic CFO Krishna Rao, who tends to take a conservative approach to revenue projections and has chosen to raise less money than is available &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p6#a260509p6)
+ - [Palo Alto Networks says in its testing, three weeks of frontier AI-assisted analysis matched a full year of manual penetration testing, with broader coverage &lpar;Sam Rubin/Palo Alto Networks Blog&rpar;](https://www.techmeme.com/260509/p5#a260509p5)
+ - [Anthropic details how it improved Claude&#39;s safety training after finding agentic misalignment in older models, such as Opus 4 blackmailing engineers &lpar;Anthropic&rpar;](https://www.techmeme.com/260509/p4#a260509p4)
+ - [OpenAI president Greg Brockman&#39;s journal has emerged as a star witness in the Musk v. Altman trial; Brockman says he stopped writing about OpenAI in it in 2023 &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p3#a260509p3)
+ - [Source: Mistral AI and TML&#39;s founding member Devendra Chaplot, who was considered a marquee hire when he joined xAI in March, exited xAI after roughly a month &lpar;The Information&rpar;](https://www.techmeme.com/260509/p2#a260509p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

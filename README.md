@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
+ - 😝 [When the Power Trip Hits a Speed Bump](http://9gag.com/gag/aLnZQLv)
+ - 😝 [Slapped](http://9gag.com/gag/aVvpQKM)
+ - 💣 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
  - 😝 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
- - 💣 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
- - 😝 [One more week until 5000](http://9gag.com/gag/aPAEGAq)
- - 👉 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)<!-- MEMES:END -->
+ - 👉 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)<!-- MEMES:END -->
 
 ---
 

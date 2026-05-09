@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
+ - 😝 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
  - 😝 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
- - 💣 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)
- - 😝 [Allahu 8bar](http://9gag.com/gag/ajPznQp)
- - 👉 [Downgrade](http://9gag.com/gag/a87RWDY)<!-- MEMES:END -->
+ - 💣 [Slapped](http://9gag.com/gag/aVvpQKM)
+ - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
+ - 👉 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)<!-- MEMES:END -->
 
 ---
 

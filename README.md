@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How SpaceMob, an online community of ~50,000, has fueled a meme-stock-like rally in satellite networking company AST, which is up ~6,000% over a 22-month period &lpar;Bloomberg&rpar;](https://www.techmeme.com/260509/p13#a260509p13)
- - [LayerZero apologizes for Kelp DAO exploit response, says single-verifier setup was deficient; Dune: in April, ~47% of LayerZero OApps had the same default setup &lpar;Zack Abrams/The Block&rpar;](https://www.techmeme.com/260509/p12#a260509p12)
- - [Anthropic, OpenAI, and other AI firms met with Hindu, Sikh, and Greek Orthodox leaders to draft principles on how to infuse models with ethics and morality &lpar;Krysta Fauria/Associated Press&rpar;](https://www.techmeme.com/260509/p11#a260509p11)
- - [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale)
- - [GM agrees to pay $12.75M to resolve a California investigation into claims that it illegally sold the location and driving data of OnStar subscribers to brokers &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260509/p10#a260509p10)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 10, #594](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-10-594/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 10, #798](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-10-798/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 10, #1064](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-10-1064/)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 10, #1786](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-10-1786/)
+ - [How SpaceMob, an online community of ~50,000, has fueled a meme-stock-like rally in satellite networking company AST, which is up ~6,000% over a 22-month period &lpar;Bloomberg&rpar;](https://www.techmeme.com/260509/p13#a260509p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

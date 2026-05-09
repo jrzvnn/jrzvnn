@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
+ - 😝 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
  - 😝 [Hear me out](http://9gag.com/gag/amoeLby)
  - 💣 [Slapped](http://9gag.com/gag/aVvpQKM)
  - 😝 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
- - 👉 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)<!-- MEMES:END -->
+ - 👉 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)<!-- MEMES:END -->
 
 ---
 

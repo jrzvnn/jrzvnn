@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
  - 😝 [Hear me out](http://9gag.com/gag/amoeLby)
- - 💣 [Slapped](http://9gag.com/gag/aVvpQKM)
- - 😝 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
- - 👉 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)<!-- MEMES:END -->
+ - 💣 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
+ - 😝 [Slapped](http://9gag.com/gag/aVvpQKM)
+ - 👉 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)<!-- MEMES:END -->
 
 ---
 

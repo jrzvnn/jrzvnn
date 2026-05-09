@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These great digital gifts will arrive just in time for Mother’s Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026)
+ - [Sources: ByteDance plans to increase its 2026 capex to more than $30B, up at least 25% from a preliminary plan, amid the AI boom and rising memory chip costs &lpar;South China Morning Post&rpar;](https://www.techmeme.com/260509/p9#a260509p9)
+ - [Let it snow](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy)
  - [OpenAI, Anthropic, and Google&#39;s enterprise push with PE firms poses a new competitive threat to India&#39;s IT industry, as services become increasingly automatable &lpar;Moneycontrol&rpar;](https://www.techmeme.com/260509/p8#a260509p8)
- - [The game that makes me actually want to exercise](https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer)
- - [Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs](https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led)
- - [Best Live-Captioning Smart Glasses &lpar;2026&rpar;, WIRED tested](https://www.wired.com/gallery/best-captioning-glasses/)
- - [Hackable Robot Lawn Mower Unlocks a New Nightmare](https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/)<!-- TECH:END -->
+ - [I Tested Google&#39;s Biggest Pixel 10A Rival and It&#39;s a Colorful Bargain](https://www.cnet.com/tech/mobile/nothing-phone-4a-pro-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

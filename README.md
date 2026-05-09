@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone was harmed while making this video](http://9gag.com/gag/aKGQz63)
- - 😝 [A satisfying pizza experience](http://9gag.com/gag/aVvpOmO)
- - 💣 [Accept this bonjour and you will be one lucky buoy](http://9gag.com/gag/aPAEy0G)
- - 😝 [The circle of fifth](http://9gag.com/gag/ae9n3vB)
- - 👉 [Sidney Sweeney getting \u201cmogged\u201d by her 19yo makeup artist](http://9gag.com/gag/adBG649)<!-- MEMES:END -->
+ - 😝 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
+ - 😝 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)
+ - 💣 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)
+ - 😝 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
+ - 👉 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
 
 ---
 

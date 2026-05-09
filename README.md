@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Live-Captioning Smart Glasses &lpar;2026&rpar;, WIRED tested](https://www.wired.com/gallery/best-captioning-glasses/)
  - [Hackable Robot Lawn Mower Unlocks a New Nightmare](https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/)
  - [Before iOS 27, Here&#39;s Everything You Need to Know About iOS 26](https://www.cnet.com/tech/services-and-software/before-ios-27-heres-everything-you-need-to-know-about-ios-26/)
  - [The 19 Most Exciting Cars at the Beijing Auto Show 2026](https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/)
- - [Best TVs for 2026: Expert Tested and Reviewed](https://www.cnet.com/tech/home-entertainment/best-tv/)
- - [Sales of PC motherboards are expected to fall 25%+ YoY in 2026, as PC users delay their upgrades amid AI-driven price surges for memory, storage, and processors &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260509/p7#a260509p7)<!-- TECH:END -->
+ - [Best TVs for 2026: Expert Tested and Reviewed](https://www.cnet.com/tech/home-entertainment/best-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The way you speak changes how people listen, give it a try](http://9gag.com/gag/a6Z0yLL)
- - 😝 [Slapped](http://9gag.com/gag/aVvpQKM)
- - 💣 [Wow... Just wow...](http://9gag.com/gag/axyLZjb)
  - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
- - 👉 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)<!-- MEMES:END -->
+ - 😝 [Wow... Just wow...](http://9gag.com/gag/axyLZjb)
+ - 💣 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
+ - 😝 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
+ - 👉 [The way you speak changes how people listen, give it a try](http://9gag.com/gag/a6Z0yLL)<!-- MEMES:END -->
 
 ---
 

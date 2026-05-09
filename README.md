@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Megelin Deals for Laser and LED Therapy Devices &lpar;2026&rpar;](https://www.wired.com/story/megelin-deals-2026/)
- - [Sources: WH is preparing to order US agencies to partner with AI companies on cybersecurity; the EO wouldn&#39;t require pre-release model testing by the government &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p33#a260508p33)
- - [EU warns that VPNs are being used to bypass online age-verification systems, calling their use &quot;a loophole in the legislation that needs closing&quot; &lpar;Alex Lekander/CyberInsider&rpar;](https://www.techmeme.com/260508/p32#a260508p32)
- - [Denon Home series speakers review: Siri smarts with superior sound](https://appleinsider.com/articles/26/05/08/denon-home-series-speakers-review-siri-smarts-with-superior-sound?utm_source=rss)
- - [The Health-Tracking Whoop App Will Now Connect You to On-Demand Doctors. Plus, New AI Features](https://www.cnet.com/health/fitness/whoop-fitness-tracker-ai-feature-on-demand-doctors/)<!-- TECH:END -->
+ - [Trump Media and Technology Group reports Q1 net sales up 6% YoY to $871,200 and a $405.9M net loss; DJT is down 35% so far in 2026 for a market cap of ~$2.47B &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260508/p35#a260508p35)
+ - [Premier League Soccer: Stream Man City vs. Brentford From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-brentford-from-anywhere-live/)
+ - [Premier League Soccer: Stream Liverpool vs. Chelsea From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-chelsea-from-anywhere-live/)
+ - [The FCC says foreign-made routers and drones can now receive software updates at least until 2029, extending its earlier 2027 cutoff &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260508/p34#a260508p34)
+ - [Top Megelin Deals for Laser and LED Therapy Devices &lpar;2026&rpar;](https://www.wired.com/story/megelin-deals-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

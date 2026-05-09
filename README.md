@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
+ - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
  - 😝 [Hear me out](http://9gag.com/gag/amoeLby)
- - 💣 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
- - 😝 [Slapped](http://9gag.com/gag/aVvpQKM)
- - 👉 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)<!-- MEMES:END -->
+ - 💣 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
+ - 😝 [Shitposting for 10 days to celebrate 5000 days on 9gag - Day 8](http://9gag.com/gag/aByArdZ)
+ - 👉 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)<!-- MEMES:END -->
 
 ---
 

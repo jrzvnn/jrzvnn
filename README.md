@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sales of PC motherboards are expected to fall 25%+ YoY in 2026, as PC users delay their upgrades amid AI-driven price surges for memory, storage, and processors &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260509/p7#a260509p7)
  - [A profile of Anthropic CFO Krishna Rao, who tends to take a conservative approach to revenue projections and has chosen to raise less money than is available &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p6#a260509p6)
  - [Palo Alto Networks says in its testing, three weeks of frontier AI-assisted analysis matched a full year of manual penetration testing, with broader coverage &lpar;Sam Rubin/Palo Alto Networks Blog&rpar;](https://www.techmeme.com/260509/p5#a260509p5)
  - [Anthropic details how it improved Claude&#39;s safety training after finding agentic misalignment in older models, such as Opus 4 blackmailing engineers &lpar;Anthropic&rpar;](https://www.techmeme.com/260509/p4#a260509p4)
- - [OpenAI president Greg Brockman&#39;s journal has emerged as a star witness in the Musk v. Altman trial; Brockman says he stopped writing about OpenAI in it in 2023 &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p3#a260509p3)
- - [Source: Mistral AI and TML&#39;s founding member Devendra Chaplot, who was considered a marquee hire when he joined xAI in March, exited xAI after roughly a month &lpar;The Information&rpar;](https://www.techmeme.com/260509/p2#a260509p2)<!-- TECH:END -->
+ - [OpenAI president Greg Brockman&#39;s journal has emerged as a star witness in the Musk v. Altman trial; Brockman says he stopped writing about OpenAI in it in 2023 &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p3#a260509p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

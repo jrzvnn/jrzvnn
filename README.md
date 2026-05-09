@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow... Just wow...](http://9gag.com/gag/axyLZjb)
- - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
- - 💣 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
- - 😝 [Hahaha... Nice one!](http://9gag.com/gag/agmDvvn)
- - 👉 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
+ - 😝 [Hear me out](http://9gag.com/gag/amoeLby)
+ - 😝 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
+ - 💣 [Slapped](http://9gag.com/gag/aVvpQKM)
+ - 😝 [Title](http://9gag.com/gag/a4PXde1)
+ - 👉 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)<!-- MEMES:END -->
 
 ---
 

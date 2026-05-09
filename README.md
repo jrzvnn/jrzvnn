@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a bear checking out the competition](http://9gag.com/gag/aMVo2Dx)
+ - 😝 [Haha](http://9gag.com/gag/a9yxdyo)
  - 😝 [Downgrade](http://9gag.com/gag/a87RWDY)
- - 💣 [Ego damage](http://9gag.com/gag/ae9njm5)
+ - 💣 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)
  - 😝 [Slapped](http://9gag.com/gag/aVvpQKM)
- - 👉 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)<!-- MEMES:END -->
+ - 👉 [Every f**king time](http://9gag.com/gag/aZZ6xq3)<!-- MEMES:END -->
 
 ---
 

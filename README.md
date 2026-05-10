@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the Power Trip Hits a Speed Bump](http://9gag.com/gag/aLnZQLv)
- - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
- - 💣 [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)
- - 😝 [Never trust shallow pockets near water](http://9gag.com/gag/aoyvjQ0)
- - 👉 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)<!-- MEMES:END -->
+ - 😝 [Word of wisdom from professional](http://9gag.com/gag/a1myZqb)
+ - 😝 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
+ - 💣 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
+ - 😝 [We are never topping this](http://9gag.com/gag/a87RjP1)
+ - 👉 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)<!-- MEMES:END -->
 
 ---
 

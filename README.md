@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are never topping this](http://9gag.com/gag/a87RjP1)
- - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
- - 💣 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
+ - 😝 [That easy and simple](http://9gag.com/gag/a1myY9G)
  - 😝 [Timmy](http://9gag.com/gag/amoe81y)
- - 👉 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)<!-- MEMES:END -->
+ - 💣 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
+ - 😝 [Core memory locked...Dads are best](http://9gag.com/gag/ajPzA81)
+ - 👉 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
 
 ---
 

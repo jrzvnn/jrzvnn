@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That easy and simple](http://9gag.com/gag/a1myY9G)
- - 😝 [Timmy](http://9gag.com/gag/amoe81y)
- - 💣 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
- - 😝 [Core memory locked...Dads are best](http://9gag.com/gag/ajPzA81)
- - 👉 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
+ - 😝 [Apple car](http://9gag.com/gag/aoyv903)
+ - 😝 [She learned a valuable lesson that day](http://9gag.com/gag/aVvpXQd)
+ - 💣 [Imagine the gainz](http://9gag.com/gag/aYQ3eLw)
+ - 😝 [We are never topping this](http://9gag.com/gag/a87RjP1)
+ - 👉 [Of course !!!!](http://9gag.com/gag/amoe9XX)<!-- MEMES:END -->
 
 ---
 

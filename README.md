@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Anduril CEO Brian Schimpf, a Palantir alum and self-identified Democrat, as Anduril&#39;s defense tech shakes up the US military-industrial complex &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260510/p11#a260510p11)
  - [Liquid Glass won&#39;t get killed in macOS 27, expect a tune-up instead](https://appleinsider.com/articles/26/05/10/liquid-glass-wont-get-killed-in-macos-27-expect-a-tune-up-instead?utm_source=rss)
  - [Not dead yet: Apple Vision still has a future](https://appleinsider.com/articles/26/05/10/not-dead-yet-apple-vision-still-has-a-future?utm_source=rss)
  - [Safari 27 will use AI to automatically group your browser tabs](https://appleinsider.com/articles/26/05/10/safari-27-will-use-ai-to-automatically-group-your-browser-tabs?utm_source=rss)
- - [Sources: Apple is working on a &quot;slight redesign&quot; for macOS 27 to address Liquid Glass issues, plans a feature to automatically group Safari tabs in &quot;27&quot; OSes &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260510/p10#a260510p10)
- - [&#39;Marshals&#39; Release Schedule: When Episode 11 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-11-hits-paramount-plus/)<!-- TECH:END -->
+ - [Sources: Apple is working on a &quot;slight redesign&quot; for macOS 27 to address Liquid Glass issues, plans a feature to automatically group Safari tabs in &quot;27&quot; OSes &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260510/p10#a260510p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

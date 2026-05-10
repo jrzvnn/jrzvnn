@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hahaha... Nice one!](http://9gag.com/gag/agmDvvn)
+ - 😝 [When the Power Trip Hits a Speed Bump](http://9gag.com/gag/aLnZQLv)
  - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
- - 💣 [Who keeps the population uneducated &amp; indoctrinated](http://9gag.com/gag/agmDvbw)
- - 😝 [One more week until 5000](http://9gag.com/gag/aPAEGAq)
- - 👉 [Now this is big brain time](http://9gag.com/gag/aLnZPxg)<!-- MEMES:END -->
+ - 💣 [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)
+ - 😝 [Never trust shallow pockets near water](http://9gag.com/gag/aoyvjQ0)
+ - 👉 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)<!-- MEMES:END -->
 
 ---
 

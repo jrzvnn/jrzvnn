@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One more week until 5000](http://9gag.com/gag/aPAEGAq)
- - 😝 [Now this is big brain time](http://9gag.com/gag/aLnZPxg)
- - 💣 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
- - 😝 [The only way to win a fight with a kangaroo](http://9gag.com/gag/aByAYRN)
- - 👉 [We are never topping this](http://9gag.com/gag/a87RjP1)<!-- MEMES:END -->
+ - 😝 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
+ - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
+ - 💣 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
+ - 😝 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)
+ - 👉 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)<!-- MEMES:END -->
 
 ---
 

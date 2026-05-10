@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft and G42&#39;s $1B geothermal-powered data center in Kenya stalls after the government couldn&#39;t provide annual payment guarantees that Microsoft requested &lpar;Bloomberg&rpar;](https://www.techmeme.com/260510/p12#a260510p12)
+ - [Trump Mobile&#39;s T1 is still vaporware a year and $59M later](https://appleinsider.com/articles/26/05/10/trump-mobiles-t1-smartphone-is-still-vaporware?utm_source=rss)
  - [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)
  - [Netflix&#39;s New Crime Thriller Does Revenge Better Than &#39;Reacher&#39; -- and Denzel](https://www.cnet.com/culture/entertainment/man-on-fire-netflix-thriller-reacher-denzel/)
- - [La Liga Soccer: Stream Barcelona vs. Real Madrid Live](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-barcelona-vs-real-madrid-live/)
- - [A profile of Anduril CEO Brian Schimpf, a Palantir alum and self-identified Democrat, as Anduril&#39;s defense tech shakes up the US military-industrial complex &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260510/p11#a260510p11)
- - [Liquid Glass won&#39;t get killed in macOS 27, expect a tune-up instead](https://appleinsider.com/articles/26/05/10/liquid-glass-wont-get-killed-in-macos-27-expect-a-tune-up-instead?utm_source=rss)<!-- TECH:END -->
+ - [La Liga Soccer: Stream Barcelona vs. Real Madrid Live](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-barcelona-vs-real-madrid-live/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

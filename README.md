@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do City Delivery Drones Make Sense? No One Knows, but They&#39;re Flying Over NYC](https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/)
- - [Is Your iPhone Lock Screen Missing the Volume Bar? Here&#39;s How to Bring It Back](https://www.cnet.com/tech/services-and-software/is-your-iphone-lock-screen-missing-the-volume-bar-heres-how-to-bring-it-back/)
- - [How Handheld Translators Work and Why They’re Handy for Travel](https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/)
- - [‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe](https://www.wired.com/story/reservation-hijacks-scam-safety-tips/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 10, #594](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-10-594/)<!-- TECH:END -->
+ - [How an Electric Motorbike Made LA Feel Smaller, Easier and More Fun](https://www.cnet.com/roadshow/news/las-shortest-trips-are-its-most-annoying-onyx-rcr-80v/)
+ - [Here&#39;s How to Make Your TV Sound Better &lpar;for Free&rpar;](https://www.cnet.com/tech/home-entertainment/how-to-make-your-tv-sound-better-for-free/)
+ - [Could Contact-Tracing Apps Help With the Hantavirus? Not Really](https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/)
+ - [Vivo’s X300 Ultra has the best cameras in any phone](https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone)
+ - [Do City Delivery Drones Make Sense? No One Knows, but They&#39;re Flying Over NYC](https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

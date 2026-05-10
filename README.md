@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC passed an anti-robocall proposal requiring telecoms, including VoIP providers, to verify user identities before activating service, raising privacy fears &lpar;Ken Macon/Reclaim The Net&rpar;](https://www.techmeme.com/260509/p14#a260509p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 10, #594](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-10-594/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 10, #798](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-10-798/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 10, #1064](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-10-1064/)
- - [Today&#39;s Wordle Hints, Answer and Help for May 10, #1786](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-10-1786/)<!-- TECH:END -->
+ - [Google seems to require Google Play Services for passing next-gen reCAPTCHA on Android, denying de-Googled Android phones and creating surveillance issues &lpar;Rick Findlay/Reclaim The Net&rpar;](https://www.techmeme.com/260509/p16#a260509p16)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-10/)
+ - [Execs at Palantir, whose stock is up ~16x since its AI platform&#39;s 2023 debut, often decry other AI as slop, as competition from frontier AI labs stiffens &lpar;Heather Somerville/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p15#a260509p15)
+ - [Premier League Soccer: Stream West Ham vs. Arsenal From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-arsenal-from-anywhere-live/)
+ - [FCC passed an anti-robocall proposal requiring telecoms, including VoIP providers, to verify user identities before activating service, raising privacy fears &lpar;Ken Macon/Reclaim The Net&rpar;](https://www.techmeme.com/260509/p14#a260509p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

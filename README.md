@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Most of the tech on display at this year&#39;s Border Security Expo was autonomous and AI-equipped, driven by the Trump administration&#39;s focus on US border security &lpar;Elizabeth Findell/Wall Street Journal&rpar;](https://www.techmeme.com/260510/p9#a260510p9)
+ - [Netflix may have finally figured out games](https://www.theverge.com/column/926250/netflix-tv-games-strategy)
  - [How an Electric Motorbike Made LA Feel Smaller, Easier and More Fun](https://www.cnet.com/roadshow/news/las-shortest-trips-are-its-most-annoying-onyx-rcr-80v/)
  - [Here&#39;s How to Make Your TV Sound Better &lpar;for Free&rpar;](https://www.cnet.com/tech/home-entertainment/how-to-make-your-tv-sound-better-for-free/)
- - [Could Contact-Tracing Apps Help With the Hantavirus? Not Really](https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/)
- - [Vivo’s X300 Ultra has the best cameras in any phone](https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone)
- - [Do City Delivery Drones Make Sense? No One Knows, but They&#39;re Flying Over NYC](https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/)<!-- TECH:END -->
+ - [Could Contact-Tracing Apps Help With the Hantavirus? Not Really](https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

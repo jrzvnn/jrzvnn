@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Digital Asset, which builds Canton Network, a public blockchain with privacy features, is raising a ~$300M round led by a16z crypto at a ~$2B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260510/p13#a260510p13)
  - [Microsoft and G42&#39;s $1B geothermal-powered data center in Kenya stalls after the government couldn&#39;t provide annual payment guarantees that Microsoft requested &lpar;Bloomberg&rpar;](https://www.techmeme.com/260510/p12#a260510p12)
  - [Trump Mobile&#39;s T1 is still vaporware a year and $59M later](https://appleinsider.com/articles/26/05/10/trump-mobiles-t1-smartphone-is-still-vaporware?utm_source=rss)
  - [&#39;Euphoria&#39; Season 3 Release Schedule: When Does Episode 5 Premiere?](https://www.cnet.com/tech/services-and-software/euphoria-season-3-release-schedule-when-does-episode-5-premiere/)
- - [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)
- - [Netflix&#39;s New Crime Thriller Does Revenge Better Than &#39;Reacher&#39; -- and Denzel](https://www.cnet.com/culture/entertainment/man-on-fire-netflix-thriller-reacher-denzel/)<!-- TECH:END -->
+ - [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

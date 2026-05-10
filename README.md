@@ -160,9 +160,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano)
  - [Sunday Reboot: Chip issues, oranges, and Tony Awards](https://appleinsider.com/articles/26/05/10/sunday-reboot-chip-issues-oranges-and-tony-awards?utm_source=rss)
- - [Sources: Digital Asset, which builds Canton Network, a public blockchain with privacy features, is raising a ~$300M round led by a16z crypto at a ~$2B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260510/p13#a260510p13)
- - [Microsoft and G42&#39;s $1B geothermal-powered data center in Kenya stalls after the government couldn&#39;t provide annual payment guarantees that Microsoft requested &lpar;Bloomberg&rpar;](https://www.techmeme.com/260510/p12#a260510p12)
- - [Trump Mobile&#39;s T1 is still vaporware a year and $59M later](https://appleinsider.com/articles/26/05/10/trump-mobiles-t1-smartphone-is-still-vaporware?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 11, #799](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-11-799/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 11, #1065](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-11-1065/)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 11, #1787](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-11-1787/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

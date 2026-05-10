@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cricut’s $99 craft cutting machine helped me feel creative again](https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on)
+ - [Writers are fleeing the Substack Tax](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv)
+ - [Trump Mobile&#39;s T1 smartphone is still vaporware](https://appleinsider.com/articles/26/05/10/trump-mobiles-t1-smartphone-is-still-vaporware?utm_source=rss)
  - [Most of the tech on display at this year&#39;s Border Security Expo was autonomous and AI-equipped, driven by the Trump administration&#39;s focus on US border security &lpar;Elizabeth Findell/Wall Street Journal&rpar;](https://www.techmeme.com/260510/p9#a260510p9)
- - [Netflix may have finally figured out games](https://www.theverge.com/column/926250/netflix-tv-games-strategy)
- - [How an Electric Motorbike Made LA Feel Smaller, Easier and More Fun](https://www.cnet.com/roadshow/news/las-shortest-trips-are-its-most-annoying-onyx-rcr-80v/)
- - [Here&#39;s How to Make Your TV Sound Better &lpar;for Free&rpar;](https://www.cnet.com/tech/home-entertainment/how-to-make-your-tv-sound-better-for-free/)
- - [Could Contact-Tracing Apps Help With the Hantavirus? Not Really](https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/)<!-- TECH:END -->
+ - [Google&#39;s Big Bet: Adding Native Android App Support to Chrome Could Result in a Robust OS](https://www.cnet.com/tech/mobile/google-aluminum-os-android-chromeos-laptop-explainer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

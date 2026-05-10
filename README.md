@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apple car](http://9gag.com/gag/aoyv903)
- - 😝 [She learned a valuable lesson that day](http://9gag.com/gag/aVvpXQd)
- - 💣 [Imagine the gainz](http://9gag.com/gag/aYQ3eLw)
- - 😝 [We are never topping this](http://9gag.com/gag/a87RjP1)
- - 👉 [Of course !!!!](http://9gag.com/gag/amoe9XX)<!-- MEMES:END -->
+ - 😝 [Now boarding. Destination: FAFO](http://9gag.com/gag/avyMLwX)
+ - 😝 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
+ - 💣 [Timmy](http://9gag.com/gag/amoe81y)
+ - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
+ - 👉 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
 
 ---
 

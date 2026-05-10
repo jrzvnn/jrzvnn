@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [New career](http://9gag.com/gag/a2v3YmO)
+ - 😝 [Timmy](http://9gag.com/gag/amoe81y)
+ - 💣 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
  - 😝 [Now boarding. Destination: FAFO](http://9gag.com/gag/avyMLwX)
- - 😝 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
- - 💣 [Timmy](http://9gag.com/gag/amoe81y)
- - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
  - 👉 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
 
 ---

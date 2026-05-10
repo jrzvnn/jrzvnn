@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are never topping this](http://9gag.com/gag/a87RjP1)
- - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
- - 💣 [Now boarding. Destination: FAFO](http://9gag.com/gag/avyMLwX)
+ - 😝 [Well that escalated quickly](http://9gag.com/gag/aQzLn6r)
+ - 😝 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
+ - 💣 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
  - 😝 [Title](http://9gag.com/gag/a4PXde1)
- - 👉 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)<!-- MEMES:END -->
+ - 👉 [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)<!-- MEMES:END -->
 
 ---
 

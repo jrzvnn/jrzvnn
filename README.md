@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well that escalated quickly](http://9gag.com/gag/aQzLn6r)
- - 😝 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
- - 💣 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
- - 😝 [Title](http://9gag.com/gag/a4PXde1)
- - 👉 [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)<!-- MEMES:END -->
+ - 😝 [Imagine the gainz](http://9gag.com/gag/aYQ3eLw)
+ - 😝 [Allahu 8bar](http://9gag.com/gag/ajPznQp)
+ - 💣 [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)
+ - 😝 [How many have you seen](http://9gag.com/gag/aryQK05)
+ - 👉 [Titled](http://9gag.com/gag/aZZ6M33)<!-- MEMES:END -->
 
 ---
 

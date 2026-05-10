@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow... Just wow...](http://9gag.com/gag/axyLZjb)
- - 😝 [The way you speak changes how people listen, give it a try](http://9gag.com/gag/a6Z0yLL)
- - 💣 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
- - 😝 [Slapped](http://9gag.com/gag/aVvpQKM)
- - 👉 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)<!-- MEMES:END -->
+ - 😝 [Hahaha... Nice one!](http://9gag.com/gag/agmDvvn)
+ - 😝 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
+ - 💣 [Who keeps the population uneducated &amp; indoctrinated](http://9gag.com/gag/agmDvbw)
+ - 😝 [One more week until 5000](http://9gag.com/gag/aPAEGAq)
+ - 👉 [Now this is big brain time](http://9gag.com/gag/aLnZPxg)<!-- MEMES:END -->
 
 ---
 

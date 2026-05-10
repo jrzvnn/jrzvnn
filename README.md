@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steeper discounts: MacBook Pros plunge to as low as $1,499, save up to $500](https://appleinsider.com/articles/26/05/10/steeper-discounts-macbook-pros-plunge-to-as-low-as-1499-save-up-to-500?utm_source=rss)
- - [Inside Consensus Conference, one of the biggest crypto conferences, which had a decidedly corporate sheen in 2026 amid Wall Street&#39;s embrace of digital assets &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260510/p7#a260510p7)
- - [NetBlocks: Iran&#39;s 70+ day internet blackout is &quot;the longest recorded national internet shutdown in a connected society&quot;, as businesses warn of layoffs, closures &lpar;Golnar Motevalli/Bloomberg&rpar;](https://www.techmeme.com/260510/p6#a260510p6)
- - [An analysis of US DOL data: the IT sector&#39;s unemployment rate rose from 3.6% in March to 3.8% in April, as the sector shed 13,000 jobs amid AI uncertainty &lpar;Belle Lin/Wall Street Journal&rpar;](https://www.techmeme.com/260510/p5#a260510p5)
- - [Paris-based Lithosquare, which uses AI to speed the discovery of critical mineral and metal deposits, raised a $25M seed led by World Fund and Kindred Capital &lpar;Rahul Raj/EU-Startups&rpar;](https://www.techmeme.com/260510/p4#a260510p4)<!-- TECH:END -->
+ - [‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe](https://www.wired.com/story/reservation-hijacks-scam-safety-tips/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 10, #594](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-10-594/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 10, #798](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-10-798/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 10, #1064](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-10-1064/)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 10, #1786](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-10-1786/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

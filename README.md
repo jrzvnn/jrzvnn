@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cricut’s $99 craft cutting machine helped me feel creative again](https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on)
- - [Writers are fleeing the Substack Tax](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv)
- - [Trump Mobile&#39;s T1 smartphone is still vaporware](https://appleinsider.com/articles/26/05/10/trump-mobiles-t1-smartphone-is-still-vaporware?utm_source=rss)
- - [Most of the tech on display at this year&#39;s Border Security Expo was autonomous and AI-equipped, driven by the Trump administration&#39;s focus on US border security &lpar;Elizabeth Findell/Wall Street Journal&rpar;](https://www.techmeme.com/260510/p9#a260510p9)
- - [Google&#39;s Big Bet: Adding Native Android App Support to Chrome Could Result in a Robust OS](https://www.cnet.com/tech/mobile/google-aluminum-os-android-chromeos-laptop-explainer/)<!-- TECH:END -->
+ - [Liquid Glass won&#39;t get killed in macOS 27, expect a tune-up instead](https://appleinsider.com/articles/26/05/10/liquid-glass-wont-get-killed-in-macos-27-expect-a-tune-up-instead?utm_source=rss)
+ - [Not dead yet: Apple Vision still has a future](https://appleinsider.com/articles/26/05/10/not-dead-yet-apple-vision-still-has-a-future?utm_source=rss)
+ - [Safari 27 will use AI to automatically group your browser tabs](https://appleinsider.com/articles/26/05/10/safari-27-will-use-ai-to-automatically-group-your-browser-tabs?utm_source=rss)
+ - [Sources: Apple is working on a &quot;slight redesign&quot; for macOS 27 to address Liquid Glass issues, plans a feature to automatically group Safari tabs in &quot;27&quot; OSes &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260510/p10#a260510p10)
+ - [&#39;Marshals&#39; Release Schedule: When Episode 11 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-11-hits-paramount-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

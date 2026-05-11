@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
- - 😝 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)
- - 💣 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
- - 😝 [Karen Pro Max+](http://9gag.com/gag/awyEVjR)
- - 👉 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)<!-- MEMES:END -->
+ - 😝 [Core memory locked...Dads are best](http://9gag.com/gag/ajPzA81)
+ - 😝 [The creators know what they&#39;re doing](http://9gag.com/gag/aByAYdA)
+ - 💣 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)
+ - 😝 [Setting sun aligns perfectly in the middle of a tree\u2019s branches in the Netherlands. It is insanely beautiful.](http://9gag.com/gag/a87RMzp)
+ - 👉 [He learned the trick from Tarantino](http://9gag.com/gag/agmDGAq)<!-- MEMES:END -->
 
 ---
 

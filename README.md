@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 90-day vulnerability disclosure policy is dead, as LLMs compress bug finding and exploit development time, and critical issues must be patched immediately &lpar;Himanshu Anand&rpar;](https://www.techmeme.com/260511/p7#a260511p7)
- - [Brookings: clerical and administrative workers, 85%+ of whom are women, are among the most exposed to AI-driven displacement and least equipped to navigate it &lpar;Taylor Telford/Financial Times&rpar;](https://www.techmeme.com/260511/p6#a260511p6)
- - [A look at &quot;YouTube whisperers&quot; like Paddy Galloway and Mario Joos, a booming class of advisers that help popular YouTube creators grow their audiences &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p5#a260511p5)
- - [Chinese state media: CAS Cold Atom Technology has built the 200-qubit Hanyuan-2, the world&#39;s first dual-core quantum computer, with a core for error correction &lpar;Luke James/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260511/p4#a260511p4)
- - [SoftBank partners with South Korea&#39;s Cosmos Lab and DeltaX to mass produce next-gen data center batteries in Japan at the scale of one GWh per year in FY 2027 &lpar;Min-Jeong Lee/Bloomberg&rpar;](https://www.techmeme.com/260511/p3#a260511p3)<!-- TECH:END -->
+ - [Apple Creator Studio may get better color correction features from a tiny acquisition](https://appleinsider.com/articles/26/05/11/apple-creator-studio-may-get-better-color-correction-features-from-a-tiny-acquisition?utm_source=rss)
+ - [Windows 11 is getting a macOS-like speed boost](https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost)
+ - [The European Commission says it is in ongoing discussions with OpenAI and Anthropic to access their latest AI models; OpenAI is &quot;proactively offering&quot; access &lpar;Inti Landauro/Reuters&rpar;](https://www.techmeme.com/260511/p15#a260511p15)
+ - [iOS 26 review one year later: Liquid Glass complaints hide the real problem](https://appleinsider.com/articles/26/05/08/ios-26-review-one-year-later-liquid-glass-complaints-hide-the-real-problem?utm_source=rss)
+ - [A Chevron Texas Power Plant Seeks School District Tax Break](https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

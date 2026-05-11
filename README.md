@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Of course !!!!](http://9gag.com/gag/amoe9XX)
- - 😝 [Imagine the gainz](http://9gag.com/gag/aYQ3eLw)
- - 💣 [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)
+ - 😝 [Trust me, bro\u2026 it\u2019s true](http://9gag.com/gag/agmDVpq)
+ - 😝 [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)
+ - 💣 [Interesting](http://9gag.com/gag/aAy8PQg)
  - 😝 [Titled](http://9gag.com/gag/aZZ6M33)
- - 👉 [Allahu 8bar](http://9gag.com/gag/ajPznQp)<!-- MEMES:END -->
+ - 👉 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)<!-- MEMES:END -->
 
 ---
 

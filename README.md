@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Creator Studio may get better color correction features from a tiny acquisition](https://appleinsider.com/articles/26/05/11/apple-creator-studio-may-get-better-color-correction-features-from-a-tiny-acquisition?utm_source=rss)
- - [Windows 11 is getting a macOS-like speed boost](https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost)
- - [The European Commission says it is in ongoing discussions with OpenAI and Anthropic to access their latest AI models; OpenAI is &quot;proactively offering&quot; access &lpar;Inti Landauro/Reuters&rpar;](https://www.techmeme.com/260511/p15#a260511p15)
- - [iOS 26 review one year later: Liquid Glass complaints hide the real problem](https://appleinsider.com/articles/26/05/08/ios-26-review-one-year-later-liquid-glass-complaints-hide-the-real-problem?utm_source=rss)
- - [A Chevron Texas Power Plant Seeks School District Tax Break](https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/)<!-- TECH:END -->
+ - [Cowboy Space, led by Robinhood co-founder Baiju Bhatt to build data centers in orbit, raised a $275M Series B led by Index Ventures at a $2B valuation &lpar;Bruce Einhorn/Bloomberg&rpar;](https://www.techmeme.com/260511/p23#a260511p23)
+ - [Joanna Stern is not a robot, but she lived with them](https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation)
+ - [Major W200 update, new smart gear, &amp; third-party Siri speakers on Smart Home Insider](https://appleinsider.com/articles/26/05/11/major-w200-update-new-smart-gear-third-party-siri-speakers-on-smart-home-insider?utm_source=rss)
+ - [OpenAI launches the OpenAI Deployment Company with a $4B+ investment to help organizations build and deploy AI systems, and acquires AI consulting firm Tomoro &lpar;Reuters&rpar;](https://www.techmeme.com/260511/p22#a260511p22)
+ - [Google&#39;s TIG reports the first confirmed instance of &quot;prominent cybercrime threat actors&quot; using AI to find and weaponize a zero-day in a web-based admin tool &lpar;Dustin Volz/New York Times&rpar;](https://www.techmeme.com/260511/p21#a260511p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

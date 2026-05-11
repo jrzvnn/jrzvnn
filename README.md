@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust me, bro\u2026 it\u2019s true](http://9gag.com/gag/agmDVpq)
- - 😝 [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)
- - 💣 [Interesting](http://9gag.com/gag/aAy8PQg)
- - 😝 [Titled](http://9gag.com/gag/aZZ6M33)
- - 👉 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)<!-- MEMES:END -->
+ - 😝 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
+ - 😝 [Timmy](http://9gag.com/gag/amoe81y)
+ - 💣 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)
+ - 😝 [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
+ - 👉 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)<!-- MEMES:END -->
 
 ---
 

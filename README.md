@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $180 on Apple&#39;s M5 MacBook Air with bonus coupons](https://appleinsider.com/articles/26/05/11/save-up-to-180-on-apples-m5-macbook-air-with-bonus-coupons?utm_source=rss)
- - [Apple headed to South Korea to fight off US antitrust case, DOJ upset about it](https://appleinsider.com/articles/26/05/11/apple-headed-to-south-korea-to-fight-off-us-antitrust-case-doj-upset-about-it?utm_source=rss)
- - [Steve Jobs is getting a marked-up $1 coin, courtesy US Mint](https://appleinsider.com/articles/26/05/11/steve-jobs-is-getting-a-marked-up-1-coin-courtesy-us-mint?utm_source=rss)
- - [Musk v. Altman: Satya Nadella says Elon Musk never contacted him with concerns that Microsoft&#39;s investments in OpenAI violated any special terms or commitments &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p35#a260511p35)
- - [Logitech&#39;s Rumored Folding Mouse Is Like a Little Flip Phone](https://www.cnet.com/tech/computing/logitech-folding-mouse-leaked-images/)<!-- TECH:END -->
+ - [Source: Robinhood has filed confidentially for its second publicly traded venture fund, Robinhood Venture Fund II, focusing on early-stage startups &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260511/p38#a260511p38)
+ - [Digg relaunches as an aggregator of AI news and social media commentary, with plans to expand to other topics; its previous reboot shut down in March &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260511/p37#a260511p37)
+ - [Here&amp;#8217;s what Mira Murati&amp;#8217;s AI company is up to](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model)
+ - [GitLab announces layoffs, saying they are &quot;not an AI optimization or cost cutting exercise&quot;, and plans to cut the number of countries it operates in &lpar;Sarah Frier/Bloomberg&rpar;](https://www.techmeme.com/260511/p36#a260511p36)
+ - [Apple Savings appears on the web but only for document access](https://appleinsider.com/articles/26/05/11/apple-savings-appears-on-the-web-but-only-for-document-access?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

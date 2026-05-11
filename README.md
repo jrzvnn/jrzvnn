@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Core memory locked...Dads are best](http://9gag.com/gag/ajPzA81)
  - 😝 [The creators know what they&#39;re doing](http://9gag.com/gag/aByAYdA)
- - 😝 [Setting sun aligns perfectly in the middle of a tree\u2019s branches in the Netherlands. It is insanely beautiful.](http://9gag.com/gag/a87RMzp)
- - 💣 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)
- - 😝 [Merry Go Round With A Bit Too Much Merry](http://9gag.com/gag/agmDq3r)
+ - 💣 [Setting sun aligns perfectly in the middle of a tree\u2019s branches in the Netherlands. It is insanely beautiful.](http://9gag.com/gag/a87RMzp)
+ - 😝 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)
  - 👉 [He learned the trick from Tarantino](http://9gag.com/gag/agmDGAq)<!-- MEMES:END -->
 
 ---

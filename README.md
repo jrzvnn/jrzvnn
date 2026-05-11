@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: German defense tech startup Helsing is set to raise $1.2B led by Dragoneer and Lightspeed at a valuation of about $18B, up from $14B in June 2025 &lpar;Financial Times&rpar;](https://www.techmeme.com/260511/p28#a260511p28)
- - [Sky Sports blocks Apple, wins F1 streaming victory in UK &amp; Italy](https://appleinsider.com/articles/26/05/11/sky-sports-blocks-apple-wins-f1-streaming-victory-in-uk-italy?utm_source=rss)
- - [curl founder Daniel Stenberg says Mythos identified five vulnerabilities in curl, but a manual review found three were false positives and one was &quot;just a bug&quot; &lpar;Daniel Stenberg/daniel.haxx.se&rpar;](https://www.techmeme.com/260511/p27#a260511p27)
- - [Google stopped a zero-day hack that it says was developed with AI](https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped)
- - [A million baby monitors and security cameras were easily viewable by hackers](https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera)<!-- TECH:END -->
+ - [Palantir&amp;#8217;s true believers are wearing this jacket](https://www.theverge.com/report/928026/palantir-chore-coat)
+ - [The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance](https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints/)
+ - [Apple brings encrypted RCS chats to iPhone](https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android)
+ - [macOS 26.5 arrives with no visible changes other than Maps ads &amp; subscriptions](https://appleinsider.com/articles/26/05/11/macos-265-arrives-with-visible-changes-other-than-maps-ads-subscriptions?utm_source=rss)
+ - [Users get an iPadOS 26.5 update focused on services &amp; subscriptions](https://appleinsider.com/articles/26/05/11/users-get-an-ipados-265-update-focused-on-services-subscriptions?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine the gainz](http://9gag.com/gag/aYQ3eLw)
- - 😝 [Allahu 8bar](http://9gag.com/gag/ajPznQp)
- - 💣 [Titled](http://9gag.com/gag/aZZ6M33)
- - 😝 [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)
- - 👉 [The creators know what they&#39;re doing](http://9gag.com/gag/aByAYdA)<!-- MEMES:END -->
+ - 😝 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
+ - 😝 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
+ - 💣 [Timmy](http://9gag.com/gag/amoe81y)
+ - 😝 [When people actually wanted visitors](http://9gag.com/gag/avyMPYX)
+ - 👉 [Now boarding. Destination: FAFO](http://9gag.com/gag/avyMLwX)<!-- MEMES:END -->
 
 ---
 

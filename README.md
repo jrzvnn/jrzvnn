@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir&amp;#8217;s true believers are wearing this jacket](https://www.theverge.com/report/928026/palantir-chore-coat)
- - [The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance](https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints/)
- - [Apple brings encrypted RCS chats to iPhone](https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android)
- - [macOS 26.5 arrives with no visible changes other than Maps ads &amp; subscriptions](https://appleinsider.com/articles/26/05/11/macos-265-arrives-with-visible-changes-other-than-maps-ads-subscriptions?utm_source=rss)
- - [Users get an iPadOS 26.5 update focused on services &amp; subscriptions](https://appleinsider.com/articles/26/05/11/users-get-an-ipados-265-update-focused-on-services-subscriptions?utm_source=rss)<!-- TECH:END -->
+ - [Musk v. Altman: Satya Nadella says Elon Musk never contacted him with concerns that Microsoft&#39;s investments in OpenAI violated any special terms or commitments &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p35#a260511p35)
+ - [Govee’s new portable smart lamp is on sale for the first time](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale)
+ - [Musk v. Altman: Ilya Sutskever testifies that his OpenAI stake is worth ~$7B and he had concerns about Altman for a year before Altman&#39;s brief ouster as CEO &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260511/p34#a260511p34)
+ - [Tim Cook is among 16 US execs going to China with Trump](https://appleinsider.com/articles/26/05/11/tim-cook-is-among-16-us-execs-going-to-china-with-trump?utm_source=rss)
+ - [Google&#39;s TIG says it has likely thwarted efforts to use AI for a &quot;mass exploitation event&quot; and warns that tools like OpenClaw are being used to find exploits &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260511/p33#a260511p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

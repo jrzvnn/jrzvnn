@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cowboy Space, led by Robinhood co-founder Baiju Bhatt to build data centers in orbit, raised a $275M Series B led by Index Ventures at a $2B valuation &lpar;Bruce Einhorn/Bloomberg&rpar;](https://www.techmeme.com/260511/p23#a260511p23)
- - [Joanna Stern is not a robot, but she lived with them](https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation)
- - [Major W200 update, new smart gear, &amp; third-party Siri speakers on Smart Home Insider](https://appleinsider.com/articles/26/05/11/major-w200-update-new-smart-gear-third-party-siri-speakers-on-smart-home-insider?utm_source=rss)
- - [OpenAI launches the OpenAI Deployment Company with a $4B+ investment to help organizations build and deploy AI systems, and acquires AI consulting firm Tomoro &lpar;Reuters&rpar;](https://www.techmeme.com/260511/p22#a260511p22)
- - [Google&#39;s TIG reports the first confirmed instance of &quot;prominent cybercrime threat actors&quot; using AI to find and weaponize a zero-day in a web-based admin tool &lpar;Dustin Volz/New York Times&rpar;](https://www.techmeme.com/260511/p21#a260511p21)<!-- TECH:END -->
+ - [Sources: German defense tech startup Helsing is set to raise $1.2B led by Dragoneer and Lightspeed at a valuation of about $18B, up from $14B in June 2025 &lpar;Financial Times&rpar;](https://www.techmeme.com/260511/p28#a260511p28)
+ - [Sky Sports blocks Apple, wins F1 streaming victory in UK &amp; Italy](https://appleinsider.com/articles/26/05/11/sky-sports-blocks-apple-wins-f1-streaming-victory-in-uk-italy?utm_source=rss)
+ - [curl founder Daniel Stenberg says Mythos identified five vulnerabilities in curl, but a manual review found three were false positives and one was &quot;just a bug&quot; &lpar;Daniel Stenberg/daniel.haxx.se&rpar;](https://www.techmeme.com/260511/p27#a260511p27)
+ - [Google stopped a zero-day hack that it says was developed with AI](https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped)
+ - [A million baby monitors and security cameras were easily viewable by hackers](https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

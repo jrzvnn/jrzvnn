@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corporate lawyers say AI-transcribed meeting notes may not have attorney-client privilege, making otherwise protected conversations discoverable in lawsuits &lpar;Sarah Kessler/New York Times&rpar;](https://www.techmeme.com/260510/p16#a260510p16)
- - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $150-$160 per share, potentially raising ~$4.8B at the top of the new range &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260510/p15#a260510p15)
- - [A look at Janitor AI, a romantic fantasy roleplay chatbot site run by three men that claims 2.5M DAUs and 15M total users, with 70% to 80% identifying as women &lpar;Anna Tong/Forbes&rpar;](https://www.techmeme.com/260510/p14#a260510p14)
- - [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano)
- - [Sunday Reboot: Chip issues, oranges, and Tony Awards](https://appleinsider.com/articles/26/05/10/sunday-reboot-chip-issues-oranges-and-tony-awards?utm_source=rss)<!-- TECH:END -->
+ - [SoftBank partners with South Korea&#39;s Cosmos Lab and DeltaX to mass produce next-gen data center batteries in Japan at the scale of one GWh per year in FY 2027 &lpar;Min-Jeong Lee/Bloomberg&rpar;](https://www.techmeme.com/260511/p3#a260511p3)
+ - [Sources: OpenAI facilitated a $6.6B secondary share sale in October 2025 for 600+ current and ex-employees; over 75 people cashed out the maximum cap of $30M &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/260511/p2#a260511p2)
+ - [Nvidia embraces its role as an AI investor in 2026, committing $40B+ to equity investments including a $30B stake in OpenAI, $3.2B in Corning, and $2.1B in IREN &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p1#a260511p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, May 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-11/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 11, #595](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-11-595/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

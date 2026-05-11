@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Core memory locked...Dads are best](http://9gag.com/gag/ajPzA81)
- - 😝 [The creators know what they&#39;re doing](http://9gag.com/gag/aByAYdA)
- - 💣 [Setting sun aligns perfectly in the middle of a tree\u2019s branches in the Netherlands. It is insanely beautiful.](http://9gag.com/gag/a87RMzp)
- - 😝 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)
- - 👉 [He learned the trick from Tarantino](http://9gag.com/gag/agmDGAq)<!-- MEMES:END -->
+ - 😝 [Still haunts my dreams](http://9gag.com/gag/aGymRmK)
+ - 😝 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)
+ - 💣 [Sooooo, how are they gonna go back?](http://9gag.com/gag/a2v3501)
+ - 😝 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)
+ - 👉 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
 
 ---
 

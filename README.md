@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $180 on Apple&#39;s M5 MacBook Air with bonus coupons](https://appleinsider.com/articles/26/05/11/save-up-to-180-on-apples-m5-macbook-air-with-bonus-coupons?utm_source=rss)
+ - [Apple headed to South Korea to fight off US antitrust case, DOJ upset about it](https://appleinsider.com/articles/26/05/11/apple-headed-to-south-korea-to-fight-off-us-antitrust-case-doj-upset-about-it?utm_source=rss)
+ - [Steve Jobs is getting a marked-up $1 coin, courtesy US Mint](https://appleinsider.com/articles/26/05/11/steve-jobs-is-getting-a-marked-up-1-coin-courtesy-us-mint?utm_source=rss)
  - [Musk v. Altman: Satya Nadella says Elon Musk never contacted him with concerns that Microsoft&#39;s investments in OpenAI violated any special terms or commitments &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p35#a260511p35)
- - [Govee’s new portable smart lamp is on sale for the first time](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale)
- - [Musk v. Altman: Ilya Sutskever testifies that his OpenAI stake is worth ~$7B and he had concerns about Altman for a year before Altman&#39;s brief ouster as CEO &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260511/p34#a260511p34)
- - [Tim Cook is among 16 US execs going to China with Trump](https://appleinsider.com/articles/26/05/11/tim-cook-is-among-16-us-execs-going-to-china-with-trump?utm_source=rss)
- - [Google&#39;s TIG says it has likely thwarted efforts to use AI for a &quot;mass exploitation event&quot; and warns that tools like OpenClaw are being used to find exploits &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260511/p33#a260511p33)<!-- TECH:END -->
+ - [Logitech&#39;s Rumored Folding Mouse Is Like a Little Flip Phone](https://www.cnet.com/tech/computing/logitech-folding-mouse-leaked-images/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

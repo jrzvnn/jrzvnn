@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank partners with South Korea&#39;s Cosmos Lab and DeltaX to mass produce next-gen data center batteries in Japan at the scale of one GWh per year in FY 2027 &lpar;Min-Jeong Lee/Bloomberg&rpar;](https://www.techmeme.com/260511/p3#a260511p3)
- - [Sources: OpenAI facilitated a $6.6B secondary share sale in October 2025 for 600+ current and ex-employees; over 75 people cashed out the maximum cap of $30M &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/260511/p2#a260511p2)
- - [Nvidia embraces its role as an AI investor in 2026, committing $40B+ to equity investments including a $30B stake in OpenAI, $3.2B in Corning, and $2.1B in IREN &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p1#a260511p1)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, May 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-11/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 11, #595](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-11-595/)<!-- TECH:END -->
+ - [The 90-day vulnerability disclosure policy is dead, as LLMs compress bug finding and exploit development time, and critical issues must be patched immediately &lpar;Himanshu Anand&rpar;](https://www.techmeme.com/260511/p7#a260511p7)
+ - [Brookings: clerical and administrative workers, 85%+ of whom are women, are among the most exposed to AI-driven displacement and least equipped to navigate it &lpar;Taylor Telford/Financial Times&rpar;](https://www.techmeme.com/260511/p6#a260511p6)
+ - [A look at &quot;YouTube whisperers&quot; like Paddy Galloway and Mario Joos, a booming class of advisers that help popular YouTube creators grow their audiences &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p5#a260511p5)
+ - [Chinese state media: CAS Cold Atom Technology has built the 200-qubit Hanyuan-2, the world&#39;s first dual-core quantum computer, with a core for error correction &lpar;Luke James/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260511/p4#a260511p4)
+ - [SoftBank partners with South Korea&#39;s Cosmos Lab and DeltaX to mass produce next-gen data center batteries in Japan at the scale of one GWh per year in FY 2027 &lpar;Min-Jeong Lee/Bloomberg&rpar;](https://www.techmeme.com/260511/p3#a260511p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

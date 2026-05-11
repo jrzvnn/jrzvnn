@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
- - 😝 [Timmy](http://9gag.com/gag/amoe81y)
- - 💣 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)
- - 😝 [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
- - 👉 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)<!-- MEMES:END -->
+ - 😝 [I&#39;ll sleep in your house tonight](http://9gag.com/gag/a346Lzr)
+ - 😝 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)
+ - 💣 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)
+ - 😝 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
+ - 👉 [Spelunkers&#39; favorite job.](http://9gag.com/gag/abANZZX)<!-- MEMES:END -->
 
 ---
 

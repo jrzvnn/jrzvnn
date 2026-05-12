@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
- - 😝 [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
- - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - 😝 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)
- - 👉 [Official Adidas production line](http://9gag.com/gag/axyLgGb)<!-- MEMES:END -->
+ - 😝 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - 😝 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
+ - 💣 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
+ - 😝 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 👉 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)<!-- MEMES:END -->
 
 ---
 

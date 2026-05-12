@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI voice startup Vapi raised a $50M Series B led by Peak XV, a source says at a $500M post-money valuation, after Amazon chose Vapi to handle 100% of Ring calls &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260512/p17#a260512p17)
- - [Intel Inside and out: Apple&#39;s four decade long relationship](https://appleinsider.com/articles/26/05/12/intel-inside-and-out-apples-four-decade-long-relationship?utm_source=rss)
- - [Sea reports Q1 revenue up 47% YoY to $7.1B and net income up 6% YoY to $428M, both above est., after warding off rivals in Southeast Asia&#39;s e-commerce market &lpar;Olivia Poh/Bloomberg&rpar;](https://www.techmeme.com/260512/p16#a260512p16)
- - [Amazon launches Amazon Now, its 30-minute delivery service, in dozens of US cities including Atlanta, Dallas-Fort Worth, Philadelphia, and Seattle, after pilots &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260512/p15#a260512p15)
- - [YouTube is shifting its creator monetization strategy by acting as a matchmaker between creators and sponsors, as Netflix and TikTok increasingly woo creators &lpar;John Koblin/New York Times&rpar;](https://www.techmeme.com/260512/p14#a260512p14)<!-- TECH:END -->
+ - [Hantavirus Conspiracy Theories Are Already Spreading Online](https://www.wired.com/story/hantavirus-conspiracy-theories-are-already-spreading-online/)
+ - [Google&amp;#8217;s Aluminium OS revealed in 16-minute leaked video](https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video)
+ - [SAP launches its new Autonomous Enterprise software suite, integrating data, cloud, AI, and automation features to streamline business processes &lpar;Mauro Orru/Wall Street Journal&rpar;](https://www.techmeme.com/260512/p25#a260512p25)
+ - [There’s an internet choke point in the Middle East — is the solution in the North Pole?](https://www.theverge.com/report/928512/arctic-internet-cable-chokepoint-polar-connect)
+ - [How to check whether your iPhone qualifies for Apple Intelligence settlement money](https://appleinsider.com/inside/iphone-16/tips/how-to-check-whether-your-iphone-qualifies-for-apple-intelligence-settlement-money?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

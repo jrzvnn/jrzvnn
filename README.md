@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fell for it again...](http://9gag.com/gag/avyMPYb)
- - 😝 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
- - 💣 [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
- - 😝 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - 👉 [Official Adidas production line](http://9gag.com/gag/axyLgGb)<!-- MEMES:END -->
+ - 😝 [Accurate..?](http://9gag.com/gag/a2v3rr1)
+ - 😝 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - 💣 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
+ - 😝 [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
+ - 👉 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
 
 ---
 

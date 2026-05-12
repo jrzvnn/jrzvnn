@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Accurate..?](http://9gag.com/gag/a2v3rr1)
  - 😝 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - 💣 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - 😝 [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
- - 👉 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
+ - 😝 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
+ - 💣 [Accurate..?](http://9gag.com/gag/a2v3rr1)
+ - 😝 [Guess the country](http://9gag.com/gag/azxW87K)
+ - 👉 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)<!-- MEMES:END -->
 
 ---
 

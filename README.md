@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to save on annual Apple App Store subscriptions, with a catch](https://appleinsider.com/inside/app-store/tips/how-to-save-on-annual-apple-app-store-subscriptions-with-a-catch?utm_source=rss)
- - [Google announces Gemini Intelligence, a brand that bundles existing and new Gemini features, including task automation and Create My Widget &lpar;Allison Johnson/The Verge&rpar;](https://www.techmeme.com/260512/p34#a260512p34)
- - [Google announces a new laptop lineup called Googlebook, with a unified OS that merges ChromeOS and Android, a &quot;Glow bar&quot; rainbow LED design element, and more &lpar;Kyle Kucharski/ZDNET&rpar;](https://www.techmeme.com/260512/p33#a260512p33)
- - [The Top New Features in Google’s Android 17—and Gemini Intelligence—Coming This Summer](https://www.wired.com/story/android-17-gemini-top-new-features/)
- - [Googlebook Is Google&#39;s New AI-Powered Laptop Platform Built on Android](https://www.wired.com/story/googlebook-laptop-platform/)<!-- TECH:END -->
+ - [Iran Is Using Tiny ‘Mosquito’ Boats to Shut Down the Strait of Hormuz](https://www.wired.com/story/iran-is-using-tiny-mosquito-boats-to-shut-down-the-strait-of-hormuz/)
+ - [Google says it is hiring a team of &quot;forward deployed engineers&quot;, a source says in the hundreds, to help customers use its business-focused AI products &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260512/p43#a260512p43)
+ - [Watch an exclusive Lady Gaga concert film on Apple Music on May 14](https://appleinsider.com/articles/26/05/12/watch-an-exclusive-lady-gaga-concert-film-on-apple-music-on-may-14?utm_source=rss)
+ - [Musk v. Altman: Altman testified that in 2017 Musk demanded complete control of a proposed OpenAI for-profit arm, musing that he would pass it to his children &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p42#a260512p42)
+ - [Anthropic names eight unauthorized secondary market sellers of its shares, including Hiive and Forge Global, warning that any share transactions there are void &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260512/p41#a260512p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

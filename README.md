@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instructure reached a deal with hackers who breached its Canvas platform to return stolen data and destroy copies, without disclosing what it gave in exchange &lpar;Qasim Nauman/New York Times&rpar;](https://www.techmeme.com/260512/p3#a260512p3)
- - [Sony upgraded its wearable AC so it’s cooler and better at hugging your neck](https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner)
- - [Chewy Promo Codes: $20 Off May 2026](https://www.wired.com/story/chewy-promo-code/)
- - [Dell Coupon Codes: 20% Off for May 2026](https://www.wired.com/story/dell-coupon-code/)
- - [Booking.com Promo Codes: 20% Off | May 2026](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
+ - [Beatbot Pool-Cleaning Robots Are on Sale](https://www.wired.com/story/beatbot-deals-may-2026/)
+ - [What Happens When You Try to Treat OCD With Psilocybin](https://www.wired.com/story/book-excerpt-how-to-not-know-simone-stolzoff/)
+ - [Sources: the Trump administration is quietly debating whether to ban Chinese &quot;cellular modules&quot;, as the US FCC pushes measures to reduce Beijing&#39;s threats &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/260512/p7#a260512p7)
+ - [Human Rights Watch: at least six EU member states, including Bulgaria and Denmark, have sold surveillance tech to 24+ countries known for violating human rights &lpar;Ryan Gallagher/Bloomberg&rpar;](https://www.techmeme.com/260512/p6#a260512p6)
+ - [Source: Microsoft Israel&#39;s GM leaves after an internal probe into alleged unethical use of Azure by Israel&#39;s MOD; Microsoft France will manage Microsoft Israel &lpar;Assaf Gilead/Globes&rpar;](https://www.techmeme.com/260512/p5#a260512p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

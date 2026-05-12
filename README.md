@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta schedules its annual Connect event for September 23-24 and says the event will focus on &quot;the latest in VR, wearables, metaverse, and AI&quot; &lpar;Ben Lang/Road to VR&rpar;](https://www.techmeme.com/260512/p49#a260512p49)
- - [Easy to predict changes rumored for iOS 27 apps like a customizable Camera](https://appleinsider.com/articles/26/05/12/easy-to-predict-changes-rumored-for-ios-27-apps-like-a-customizable-camera?utm_source=rss)
- - [MAHA Keeps Being Weird as Hell About Fertility](https://www.wired.com/story/maha-is-still-creepily-obsessed-with-your-fertility/)
- - [Meta won’t let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
- - [iPhone 17 keeps driving Apple marketshare, as US smartphone sales contract](https://appleinsider.com/articles/26/05/12/iphone-17-keeps-driving-apple-marketshare-as-us-smartphone-sales-contract?utm_source=rss)<!-- TECH:END -->
+ - [Foxconn Ransomware Attack Shows Nothing Is Safe Forever](https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/)
+ - [iOS 27 might add a lot more customization to the Camera app](https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization)
+ - [Sources: Anthropic is in early talks to raise at least $30B at a $900B+ valuation; the round is expected to close as soon as the end of this month &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p52#a260512p52)
+ - [Hackers attack Foxconn again, Apple doesn&#39;t appear to be at risk](https://appleinsider.com/articles/26/05/12/hackers-attack-foxconn-again-apple-doesnt-appear-to-be-at-risk?utm_source=rss)
+ - [Qualcomm closed down 11.46% on Tuesday as chip stocks pull back from record AI-driven rally; Intel closed down 6.82%, Sandisk dropped 6%, and Micron 3.61% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260512/p51#a260512p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

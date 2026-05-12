@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - 😝 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - 💣 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
  - 😝 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)
- - 👉 [Upvote for a good week, small fortune or meeting that person who will change your life](http://9gag.com/gag/a0erpOn)<!-- MEMES:END -->
+ - 💣 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 😝 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)
+ - 👉 [Mexico doing right by the dolphins](http://9gag.com/gag/agmDqjn)<!-- MEMES:END -->
 
 ---
 

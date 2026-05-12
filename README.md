@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple studies explore LLMs spatial understanding, sign language annotation](https://appleinsider.com/articles/26/05/11/apple-studies-explore-llms-spatial-understanding-sign-language-annotation?utm_source=rss)
- - [OpenAI just released its answer to Claude Mythos](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)
- - [OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities &lpar;Alexey Shabanov/TestingCatalog AI News&rpar;](https://www.techmeme.com/260511/p40#a260511p40)
- - [Thinking Machines Lab details interaction models, which can think and respond in real time, letting users and AI interact continuously for better collaboration &lpar;Thinking Machines Lab&rpar;](https://www.techmeme.com/260511/p39#a260511p39)
- - [Yarbo says it will remove the intentional backdoor from its robot lawn mower](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor)<!-- TECH:END -->
+ - [The US Commerce Department removed from its website details about its May 5 agreement with Google, xAI, and Microsoft to test their AI models &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260511/p44#a260511p44)
+ - [Q&amp;A with Scott Wu, CEO of Cognition, which hit a $445M revenue run rate in its first 18 months, on his math competition roots, the Devin AI coding agent, more &lpar;Jeremy Stern/Colossus&rpar;](https://www.techmeme.com/260511/p43#a260511p43)
+ - [Wacom MovinkPad 11 review: Good for artists, but mind your workflow](https://appleinsider.com/articles/26/05/12/wacom-movinkpad-11-review-good-for-artists-but-mind-your-workflow?utm_source=rss)
+ - [Prime Video Shoots for Assassins and Steamy Titles With New TV Show Pickups](https://www.cnet.com/tech/services-and-software/prime-video-upfronts-assassins-steamy-titles-new-tv-show-pickups/)
+ - [Many npm packages for Mistral, UiPath, TanStack&#39;s web dev tools like react-router, and more were compromised, likely in the Mini Shai-Hulud supply chain attack &lpar;Socket&rpar;](https://www.techmeme.com/260511/p42#a260511p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

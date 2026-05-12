@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy](https://www.wired.com/story/unitree-gd01-mecha-robot/)
+ - [Foxconn says some of its North American factories suffered a cyberattack in recent days; ransomware group Nitrogen claims it stole 8TB of data &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260512/p54#a260512p54)
+ - [Source: Anthropic is in advanced talks to acquire New York-based Stainless, which helps developers generate SDKs from APIs, for at least $300M &lpar;The Information&rpar;](https://www.techmeme.com/260512/p53#a260512p53)
  - [Foxconn Ransomware Attack Shows Nothing Is Safe Forever](https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/)
- - [iOS 27 might add a lot more customization to the Camera app](https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization)
- - [Sources: Anthropic is in early talks to raise at least $30B at a $900B+ valuation; the round is expected to close as soon as the end of this month &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p52#a260512p52)
- - [Hackers attack Foxconn again, Apple doesn&#39;t appear to be at risk](https://appleinsider.com/articles/26/05/12/hackers-attack-foxconn-again-apple-doesnt-appear-to-be-at-risk?utm_source=rss)
- - [Qualcomm closed down 11.46% on Tuesday as chip stocks pull back from record AI-driven rally; Intel closed down 6.82%, Sandisk dropped 6%, and Micron 3.61% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260512/p51#a260512p51)<!-- TECH:END -->
+ - [I Tried Amazon&#39;s New 30-Minute Delivery. Diet Cokes Were at My Door in 16 Minutes](https://www.cnet.com/tech/services-and-software/amazon-launches-30-minute-delivery-service-with-amazon-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

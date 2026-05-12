@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US House Oversight Committee launches a probe into potential conflicts in Sam Altman&#39;s personal investments; letter: several GOP AGs call for an SEC review &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260512/p1#a260512p1)
- - [AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics says Grok paid adoption in the US remains nearly flat YoY in Q2 &lpar;Georgia Wells/Wall Street Journal&rpar;](https://www.techmeme.com/260511/p46#a260511p46)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-12/)
- - [Source: new revenue sharing terms cap OpenAI&#39;s payments to Microsoft at $38B; they previously could have totaled $135B through 2030 if long-term goals were met &lpar;The Information&rpar;](https://www.techmeme.com/260511/p45#a260511p45)
- - [Android Owners: You Could Get Part of Google&#39;s $135 Million Data Settlement](https://www.cnet.com/tech/mobile/android-users-you-could-get-part-of-googles-135-million-data-settlement/)<!-- TECH:END -->
+ - [Instructure reached a deal with hackers who breached its Canvas platform to return stolen data and destroy copies, without disclosing what it gave in exchange &lpar;Qasim Nauman/New York Times&rpar;](https://www.techmeme.com/260512/p3#a260512p3)
+ - [Sony upgraded its wearable AC so it’s cooler and better at hugging your neck](https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner)
+ - [Chewy Promo Codes: $20 Off May 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [Dell Coupon Codes: 20% Off for May 2026](https://www.wired.com/story/dell-coupon-code/)
+ - [Booking.com Promo Codes: 20% Off | May 2026](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

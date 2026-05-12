@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)
- - 😝 [Sooooo, how are they gonna go back?](http://9gag.com/gag/a2v3501)
+ - 😝 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - 😝 [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
  - 💣 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
  - 😝 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 👉 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)<!-- MEMES:END -->
+ - 👉 [Guess the country](http://9gag.com/gag/azxW87K)<!-- MEMES:END -->
 
 ---
 

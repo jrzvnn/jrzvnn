@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beatbot Pool-Cleaning Robots Are on Sale](https://www.wired.com/story/beatbot-deals-may-2026/)
- - [What Happens When You Try to Treat OCD With Psilocybin](https://www.wired.com/story/book-excerpt-how-to-not-know-simone-stolzoff/)
- - [Sources: the Trump administration is quietly debating whether to ban Chinese &quot;cellular modules&quot;, as the US FCC pushes measures to reduce Beijing&#39;s threats &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/260512/p7#a260512p7)
- - [Human Rights Watch: at least six EU member states, including Bulgaria and Denmark, have sold surveillance tech to 24+ countries known for violating human rights &lpar;Ryan Gallagher/Bloomberg&rpar;](https://www.techmeme.com/260512/p6#a260512p6)
- - [Source: Microsoft Israel&#39;s GM leaves after an internal probe into alleged unethical use of Azure by Israel&#39;s MOD; Microsoft France will manage Microsoft Israel &lpar;Assaf Gilead/Globes&rpar;](https://www.techmeme.com/260512/p5#a260512p5)<!-- TECH:END -->
+ - [AI voice startup Vapi raised a $50M Series B led by Peak XV, a source says at a $500M post-money valuation, after Amazon chose Vapi to handle 100% of Ring calls &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260512/p17#a260512p17)
+ - [Intel Inside and out: Apple&#39;s four decade long relationship](https://appleinsider.com/articles/26/05/12/intel-inside-and-out-apples-four-decade-long-relationship?utm_source=rss)
+ - [Sea reports Q1 revenue up 47% YoY to $7.1B and net income up 6% YoY to $428M, both above est., after warding off rivals in Southeast Asia&#39;s e-commerce market &lpar;Olivia Poh/Bloomberg&rpar;](https://www.techmeme.com/260512/p16#a260512p16)
+ - [Amazon launches Amazon Now, its 30-minute delivery service, in dozens of US cities including Atlanta, Dallas-Fort Worth, Philadelphia, and Seattle, after pilots &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260512/p15#a260512p15)
+ - [YouTube is shifting its creator monetization strategy by acting as a matchmaker between creators and sponsors, as Netflix and TikTok increasingly woo creators &lpar;John Koblin/New York Times&rpar;](https://www.techmeme.com/260512/p14#a260512p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

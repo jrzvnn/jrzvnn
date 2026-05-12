@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hantavirus Conspiracy Theories Are Already Spreading Online](https://www.wired.com/story/hantavirus-conspiracy-theories-are-already-spreading-online/)
- - [Google&amp;#8217;s Aluminium OS revealed in 16-minute leaked video](https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video)
- - [SAP launches its new Autonomous Enterprise software suite, integrating data, cloud, AI, and automation features to streamline business processes &lpar;Mauro Orru/Wall Street Journal&rpar;](https://www.techmeme.com/260512/p25#a260512p25)
- - [There’s an internet choke point in the Middle East — is the solution in the North Pole?](https://www.theverge.com/report/928512/arctic-internet-cable-chokepoint-polar-connect)
- - [How to check whether your iPhone qualifies for Apple Intelligence settlement money](https://appleinsider.com/inside/iphone-16/tips/how-to-check-whether-your-iphone-qualifies-for-apple-intelligence-settlement-money?utm_source=rss)<!-- TECH:END -->
+ - [How to save on annual Apple App Store subscriptions, with a catch](https://appleinsider.com/inside/app-store/tips/how-to-save-on-annual-apple-app-store-subscriptions-with-a-catch?utm_source=rss)
+ - [Google announces Gemini Intelligence, a brand that bundles existing and new Gemini features, including task automation and Create My Widget &lpar;Allison Johnson/The Verge&rpar;](https://www.techmeme.com/260512/p34#a260512p34)
+ - [Google announces a new laptop lineup called Googlebook, with a unified OS that merges ChromeOS and Android, a &quot;Glow bar&quot; rainbow LED design element, and more &lpar;Kyle Kucharski/ZDNET&rpar;](https://www.techmeme.com/260512/p33#a260512p33)
+ - [The Top New Features in Google’s Android 17—and Gemini Intelligence—Coming This Summer](https://www.wired.com/story/android-17-gemini-top-new-features/)
+ - [Googlebook Is Google&#39;s New AI-Powered Laptop Platform Built on Android](https://www.wired.com/story/googlebook-laptop-platform/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

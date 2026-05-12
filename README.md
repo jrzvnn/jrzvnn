@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
  - 😝 [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
- - 💣 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)
- - 😝 [Upvote for a good week, small fortune or meeting that person who will change your life](http://9gag.com/gag/a0erpOn)
- - 👉 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)<!-- MEMES:END -->
+ - 😝 [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
+ - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - 😝 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)
+ - 👉 [Official Adidas production line](http://9gag.com/gag/axyLgGb)<!-- MEMES:END -->
 
 ---
 

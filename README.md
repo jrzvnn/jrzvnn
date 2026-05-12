@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Commerce Department removed from its website details about its May 5 agreement with Google, xAI, and Microsoft to test their AI models &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260511/p44#a260511p44)
- - [Q&amp;A with Scott Wu, CEO of Cognition, which hit a $445M revenue run rate in its first 18 months, on his math competition roots, the Devin AI coding agent, more &lpar;Jeremy Stern/Colossus&rpar;](https://www.techmeme.com/260511/p43#a260511p43)
- - [Wacom MovinkPad 11 review: Good for artists, but mind your workflow](https://appleinsider.com/articles/26/05/12/wacom-movinkpad-11-review-good-for-artists-but-mind-your-workflow?utm_source=rss)
- - [Prime Video Shoots for Assassins and Steamy Titles With New TV Show Pickups](https://www.cnet.com/tech/services-and-software/prime-video-upfronts-assassins-steamy-titles-new-tv-show-pickups/)
- - [Many npm packages for Mistral, UiPath, TanStack&#39;s web dev tools like react-router, and more were compromised, likely in the Mini Shai-Hulud supply chain attack &lpar;Socket&rpar;](https://www.techmeme.com/260511/p42#a260511p42)<!-- TECH:END -->
+ - [The US House Oversight Committee launches a probe into potential conflicts in Sam Altman&#39;s personal investments; letter: several GOP AGs call for an SEC review &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260512/p1#a260512p1)
+ - [AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics says Grok paid adoption in the US remains nearly flat YoY in Q2 &lpar;Georgia Wells/Wall Street Journal&rpar;](https://www.techmeme.com/260511/p46#a260511p46)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-12/)
+ - [Source: new revenue sharing terms cap OpenAI&#39;s payments to Microsoft at $38B; they previously could have totaled $135B through 2030 if long-term goals were met &lpar;The Information&rpar;](https://www.techmeme.com/260511/p45#a260511p45)
+ - [Android Owners: You Could Get Part of Google&#39;s $135 Million Data Settlement](https://www.cnet.com/tech/mobile/android-users-you-could-get-part-of-googles-135-million-data-settlement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

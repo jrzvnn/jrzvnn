@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iran Is Using Tiny ‘Mosquito’ Boats to Shut Down the Strait of Hormuz](https://www.wired.com/story/iran-is-using-tiny-mosquito-boats-to-shut-down-the-strait-of-hormuz/)
- - [Google says it is hiring a team of &quot;forward deployed engineers&quot;, a source says in the hundreds, to help customers use its business-focused AI products &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260512/p43#a260512p43)
- - [Watch an exclusive Lady Gaga concert film on Apple Music on May 14](https://appleinsider.com/articles/26/05/12/watch-an-exclusive-lady-gaga-concert-film-on-apple-music-on-may-14?utm_source=rss)
- - [Musk v. Altman: Altman testified that in 2017 Musk demanded complete control of a proposed OpenAI for-profit arm, musing that he would pass it to his children &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p42#a260512p42)
- - [Anthropic names eight unauthorized secondary market sellers of its shares, including Hiive and Forge Global, warning that any share transactions there are void &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260512/p41#a260512p41)<!-- TECH:END -->
+ - [Meta schedules its annual Connect event for September 23-24 and says the event will focus on &quot;the latest in VR, wearables, metaverse, and AI&quot; &lpar;Ben Lang/Road to VR&rpar;](https://www.techmeme.com/260512/p49#a260512p49)
+ - [Easy to predict changes rumored for iOS 27 apps like a customizable Camera](https://appleinsider.com/articles/26/05/12/easy-to-predict-changes-rumored-for-ios-27-apps-like-a-customizable-camera?utm_source=rss)
+ - [MAHA Keeps Being Weird as Hell About Fertility](https://www.wired.com/story/maha-is-still-creepily-obsessed-with-your-fertility/)
+ - [Meta won’t let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
+ - [iPhone 17 keeps driving Apple marketshare, as US smartphone sales contract](https://appleinsider.com/articles/26/05/12/iphone-17-keeps-driving-apple-marketshare-as-us-smartphone-sales-contract?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

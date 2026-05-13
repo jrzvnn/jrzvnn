@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Amazon head of devices and services Panos Panay on Alexa+, the company&#39;s focus on devices for the home, the Leo satellite broadband business, and more &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260513/p10#a260513p10)
- - [How the Strait of Hormuz blockade is disrupting global chip supply chains, affecting supplies of helium, bromine, sulfur, and thinners essential to chipmaking &lpar;Bloomberg&rpar;](https://www.techmeme.com/260513/p9#a260513p9)
- - [China&#39;s move to block Meta&#39;s Manus acquisition challenges the &quot;Singapore washing&quot; model, as major Chinese tech companies build significant Singapore presences &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260513/p8#a260513p8)
- - [The Facebook House in Los Altos, Mark Zuckerberg&#39;s former residence, has become a hub for Chinese AI talent, who are a key part of Silicon Valley&#39;s AI boom &lpar;Viola Zhou/Rest of World&rpar;](https://www.techmeme.com/260513/p7#a260513p7)
- - [Analysts say AI fervor in the US and Asia has spread to Europe, boosting stocks like STMicro and Nokia as investors seek the AI boom&#39;s pick-and-shovel stocks &lpar;Financial Times&rpar;](https://www.techmeme.com/260513/p6#a260513p6)<!-- TECH:END -->
+ - [Tencent reports Q1 revenue up 9% YoY to ~$28.9B, below ~$29.4B est., and net income of ~$8.5B, meeting est., amid a costly AI pivot; its stock is down 23% YTD &lpar;Bloomberg&rpar;](https://www.techmeme.com/260513/p14#a260513p14)
+ - [SoftBank reports Q4 net income up 3x to ~$11.6B, above ~$1.5B est., driven by a $25B gain in its OpenAI stake; by October, its OpenAI investment will hit $64.6B &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260513/p13#a260513p13)
+ - [On Running LightSpray Cloudmonster 3 Hyper Review:](https://www.wired.com/review/on-running-lightspray-cloudmonster-3-hyper/)
+ - [Richard Socher&#39;s Recursive Superintelligence raised $650M+ from GV, Greycroft, Nvidia, AMD, and others at a $4B valuation to pursue &quot;recursive self-improvement&quot; &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260513/p12#a260513p12)
+ - [Data centers are coming for rural America](https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

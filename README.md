@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD&amp;#8217;s best CPU tech for gamers is coming to workstations too](https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache)
- - [Netflix to Stream Green Bay Packers vs. LA Rams Thanksgiving Eve NFL Game](https://www.cnet.com/tech/services-and-software/netflix-to-stream-green-bay-packers-vs-la-rams-thanksgiving-eve-nfl-game/)
- - [Google I/O 2026: What We&#39;re Expecting From Gemini, Android XR and More Next Week](https://www.cnet.com/tech/services-and-software/google-io-2026-everything-to-know/)
- - [TikTok Go Lets You Book Vacations, Hotels and Attractions Through the App](https://www.cnet.com/tech/services-and-software/tiktok-go-app-book-vacations-hotels-activities/)
- - [The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.](https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s Edge Copilot update uses AI to pull information from across your tabs](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs)
+ - [Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions](https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/)
+ - [Trump administration defends right to ban content moderation experts from US](https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research)
+ - [Cisco reports Q3 revenue up 12% YoY to $15.84B, vs. $15.56B est., forecasts Q4 revenue above est., and is cutting almost 4,000 jobs; CSCO jumps 17%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260513/p47#a260513p47)
+ - [YouTube is courting creators — and sponsors — with streaming shows](https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

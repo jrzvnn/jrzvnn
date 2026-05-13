@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
  - 😝 [Hola guapa](http://9gag.com/gag/aXPyqYP)
- - 😝 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 💣 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
- - 😝 [Poor dude lost all his honest work to some off-duty cop.](http://9gag.com/gag/aqyP1e7)
- - 👉 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)<!-- MEMES:END -->
+ - 💣 [Catching hornets](http://9gag.com/gag/a87R82Z)
+ - 😝 [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)
+ - 👉 [Official Adidas production line](http://9gag.com/gag/axyLgGb)<!-- MEMES:END -->
 
 ---
 

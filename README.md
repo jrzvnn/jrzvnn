@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin’s mini satellite communicators are on sale for up to 40 percent off](https://www.theverge.com/gadgets/928854/garmin-inreach-mini-2-3-blink-outdoor-4-floodlight-security-camera-deal-sale)
- - [Trump&#39;s Inner Circle Is Already Scrambling Over the 2028 Presidential Ticket](https://www.wired.com/story/trump-inner-circle-2028-presidential-ticket/)
- - [EU&#39;s artificial intelligence requirements are profoundly risky, says Apple](https://appleinsider.com/articles/26/05/13/eus-artificial-intelligence-requirements-are-profoundly-risky-says-apple?utm_source=rss)
- - [Audemars Piguet and Swatch made a $400 &amp;#8216;pop&amp;#8217; pocket watch](https://www.theverge.com/tech/929625/swatch-audemars-piguet-x-swatch-royal-pop-pocket-watch)
- - [Tencent says it plans to spend significantly more on AI infrastructure in H2 2026 as more China-designed AI chips become available &quot;month by month&quot; &lpar;The Information&rpar;](https://www.techmeme.com/260513/p32#a260513p32)<!-- TECH:END -->
+ - [OpenAI Brings Its Ass to Court](https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/)
+ - [LinkedIn says it has &quot;implemented organizational changes&quot;; a source says LinkedIn plans to cut about 5% of its 17,500 full-time workers &lpar;Reuters&rpar;](https://www.techmeme.com/260513/p43#a260513p43)
+ - [Rivian CEO RJ Scaringe&#39;s Mind Robotics, which is building AI-powered robots for manufacturing tasks, raised $400M, source says at a $3.4B valuation &lpar;Sean McLain/Wall Street Journal&rpar;](https://www.techmeme.com/260513/p42#a260513p42)
+ - [Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat](https://www.theverge.com/tech/929791/meta-ai-incognito-chats)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 13, #597](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-13-597/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

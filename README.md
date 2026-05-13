@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - 😝 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
- - 💣 [Accurate..?](http://9gag.com/gag/a2v3rr1)
- - 😝 [Guess the country](http://9gag.com/gag/azxW87K)
- - 👉 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)<!-- MEMES:END -->
+ - 😝 [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - 😝 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 💣 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)
+ - 😝 [Accurate..?](http://9gag.com/gag/a2v3rr1)
+ - 👉 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)<!-- MEMES:END -->
 
 ---
 

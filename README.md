@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hola guapa](http://9gag.com/gag/aXPyqYP)
- - 😝 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 💣 [The process of surgically `flushing` kidney stones refers to techniques like saline irrigation used during minimally invasive surgeries to clear out fragments and stone dust.](http://9gag.com/gag/axyLVbL)
+ - 😝 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
  - 😝 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
- - 👉 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
+ - 💣 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 😝 [Adobe and beyond 2 &lpar;2 years ago&rpar; working in version 3 ..](http://9gag.com/gag/a2v342w)
+ - 👉 [Is this the least dangerous crime ever](http://9gag.com/gag/a6Z0QPN)<!-- MEMES:END -->
 
 ---
 

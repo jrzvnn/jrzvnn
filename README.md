@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI Brings Its Ass to Court](https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/)
- - [LinkedIn says it has &quot;implemented organizational changes&quot;; a source says LinkedIn plans to cut about 5% of its 17,500 full-time workers &lpar;Reuters&rpar;](https://www.techmeme.com/260513/p43#a260513p43)
- - [Rivian CEO RJ Scaringe&#39;s Mind Robotics, which is building AI-powered robots for manufacturing tasks, raised $400M, source says at a $3.4B valuation &lpar;Sean McLain/Wall Street Journal&rpar;](https://www.techmeme.com/260513/p42#a260513p42)
- - [Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat](https://www.theverge.com/tech/929791/meta-ai-incognito-chats)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 13, #597](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-13-597/)<!-- TECH:END -->
+ - [Flash deal: Grab Apple&#39;s M4 MacBook Air for just $829](https://appleinsider.com/articles/26/05/13/flash-deal-grab-apples-m4-macbook-air-for-just-829?utm_source=rss)
+ - [Q&amp;A with Anthropic CFO Krishna Rao on the &quot;cone of uncertainty&quot; in AI, allocating compute, returns to frontier intelligence, platform vs. application, and more &lpar;Invest Like The Best on YouTube&rpar;](https://www.techmeme.com/260513/p45#a260513p45)
+ - [DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border](https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/)
+ - [Google Details the New Magic Pointer Features Coming to Googlebooks](https://www.cnet.com/tech/computing/google-new-magic-pointer-features-googlebooks/)
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu-may-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

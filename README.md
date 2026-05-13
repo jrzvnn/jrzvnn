@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paymentology, which provides real-time card and payment processing technology for banks and fintechs, raised $175M co-led by Apis Partners and Aspirity Partners &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260512/p66#a260512p66)
- - [Sources: Sam Altman recently discussed launching an AI compute company that is majority-owned by OpenAI, similar to Stargate&#39;s original data center initiative &lpar;Alex Heath/Sources&rpar;](https://www.techmeme.com/260512/p65#a260512p65)
- - [Nvidia says that Jensen Huang is joining President Trump on his China trip; source: the president asked Huang to join after seeing media coverage of his absence &lpar;CNBC&rpar;](https://www.techmeme.com/260512/p64#a260512p64)
- - [Waymo recalls ~3,800 robotaxis in the US to fix software issues that may cause them to drive onto flooded roads, after some were seen stalled on flooded streets &lpar;Lora Kolodny/CNBC&rpar;](https://www.techmeme.com/260512/p63#a260512p63)
- - [Sony’s new Xperia phone gets an overdue redesign](https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs)<!-- TECH:END -->
+ - [Q&amp;A with Amazon head of devices and services Panos Panay on Alexa+, the company&#39;s focus on devices for the home, the Leo satellite broadband business, and more &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260513/p10#a260513p10)
+ - [How the Strait of Hormuz blockade is disrupting global chip supply chains, affecting supplies of helium, bromine, sulfur, and thinners essential to chipmaking &lpar;Bloomberg&rpar;](https://www.techmeme.com/260513/p9#a260513p9)
+ - [China&#39;s move to block Meta&#39;s Manus acquisition challenges the &quot;Singapore washing&quot; model, as major Chinese tech companies build significant Singapore presences &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260513/p8#a260513p8)
+ - [The Facebook House in Los Altos, Mark Zuckerberg&#39;s former residence, has become a hub for Chinese AI talent, who are a key part of Silicon Valley&#39;s AI boom &lpar;Viola Zhou/Rest of World&rpar;](https://www.techmeme.com/260513/p7#a260513p7)
+ - [Analysts say AI fervor in the US and Asia has spread to Europe, boosting stocks like STMicro and Nokia as investors seek the AI boom&#39;s pick-and-shovel stocks &lpar;Financial Times&rpar;](https://www.techmeme.com/260513/p6#a260513p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

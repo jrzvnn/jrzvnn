@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
- - 😝 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
- - 💣 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 😝 [Adobe and beyond 2 &lpar;2 years ago&rpar; working in version 3 ..](http://9gag.com/gag/a2v342w)
- - 👉 [Is this the least dangerous crime ever](http://9gag.com/gag/a6Z0QPN)<!-- MEMES:END -->
+ - 😝 [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - 😝 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 💣 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
+ - 😝 [Poor dude lost all his honest work to some off-duty cop.](http://9gag.com/gag/aqyP1e7)
+ - 👉 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)<!-- MEMES:END -->
 
 ---
 

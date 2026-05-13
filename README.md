@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
- - 😝 [Hola guapa](http://9gag.com/gag/aXPyqYP)
- - 💣 [Catching hornets](http://9gag.com/gag/a87R82Z)
- - 😝 [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)
- - 👉 [Official Adidas production line](http://9gag.com/gag/axyLgGb)<!-- MEMES:END -->
+ - 😝 [The process of surgically `flushing` kidney stones refers to techniques like saline irrigation used during minimally invasive surgeries to clear out fragments and stone dust.](http://9gag.com/gag/axyLVbL)
+ - 💣 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - 😝 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
+ - 👉 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)<!-- MEMES:END -->
 
 ---
 

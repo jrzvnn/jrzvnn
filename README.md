@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unitree will sell you a massive ‘transformable mecha’ for $650,000](https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot)
- - [Trump Mobile CEO Pat O&#39;Brien says T1 Phone pre-orders will begin shipping to customers this week, and the device is assembled in the US, after months of delays &lpar;Michelle Del Rey/USA Today&rpar;](https://www.techmeme.com/260513/p22#a260513p22)
- - [Ofcom fines an unnamed suicide forum £950K, the largest OSA fine so far, for hosting illegal content accessible in the UK; the forum is linked to 130+ deaths &lpar;Sam Tabahriti/Reuters&rpar;](https://www.techmeme.com/260513/p21#a260513p21)
- - [Microsoft’s Xbox PC app hints at China expansion for Game Pass](https://www.theverge.com/news/929454/microsoft-xbox-game-pass-china-expansion-rumors)
- - [The Trump phone starts shipping this week, CEO claims](https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week)<!-- TECH:END -->
+ - [Garmin’s mini satellite communicators are on sale for up to 40 percent off](https://www.theverge.com/gadgets/928854/garmin-inreach-mini-2-3-blink-outdoor-4-floodlight-security-camera-deal-sale)
+ - [Trump&#39;s Inner Circle Is Already Scrambling Over the 2028 Presidential Ticket](https://www.wired.com/story/trump-inner-circle-2028-presidential-ticket/)
+ - [EU&#39;s artificial intelligence requirements are profoundly risky, says Apple](https://appleinsider.com/articles/26/05/13/eus-artificial-intelligence-requirements-are-profoundly-risky-says-apple?utm_source=rss)
+ - [Audemars Piguet and Swatch made a $400 &amp;#8216;pop&amp;#8217; pocket watch](https://www.theverge.com/tech/929625/swatch-audemars-piguet-x-swatch-royal-pop-pocket-watch)
+ - [Tencent says it plans to spend significantly more on AI infrastructure in H2 2026 as more China-designed AI chips become available &quot;month by month&quot; &lpar;The Information&rpar;](https://www.techmeme.com/260513/p32#a260513p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

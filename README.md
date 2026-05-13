@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
- - 😝 [Is this the least dangerous crime ever](http://9gag.com/gag/a6Z0QPN)
- - 💣 [Freestyler](http://9gag.com/gag/a9yxrY1)
- - 😝 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
- - 👉 [Official Adidas production line](http://9gag.com/gag/axyLgGb)<!-- MEMES:END -->
+ - 😝 [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - 😝 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 💣 [The process of surgically `flushing` kidney stones refers to techniques like saline irrigation used during minimally invasive surgeries to clear out fragments and stone dust.](http://9gag.com/gag/axyLVbL)
+ - 😝 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - 👉 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI Adds 16 New Gas Turbines at Mississippi Facility Despite Ongoing Lawsuit](https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/)
- - [Sources: Anthropic is in talks to raise between $30B and $50B in a funding round that would value it at up to $950B &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260512/p58#a260512p58)
- - [Princeton faculty votes to require proctoring in all in-person exams starting this summer, reversing an 1893 policy amid concerns about AI-fueled cheating &lpar;Douglas Belkin/Wall Street Journal&rpar;](https://www.techmeme.com/260512/p57#a260512p57)
- - [Google DeepMind details a Gemini-powered mouse pointer that understands what it is pointing at, allowing users to perform tasks without using text-heavy prompts &lpar;Google DeepMind&rpar;](https://www.techmeme.com/260512/p56#a260512p56)
- - [Vancouver-based quantum computing startup Photonic raised an additional $70M after a $130M raise announced in January, giving it a $2B post-money valuation &lpar;Josh Scott/BetaKit&rpar;](https://www.techmeme.com/260512/p55#a260512p55)<!-- TECH:END -->
+ - [Paymentology, which provides real-time card and payment processing technology for banks and fintechs, raised $175M co-led by Apis Partners and Aspirity Partners &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260512/p66#a260512p66)
+ - [Sources: Sam Altman recently discussed launching an AI compute company that is majority-owned by OpenAI, similar to Stargate&#39;s original data center initiative &lpar;Alex Heath/Sources&rpar;](https://www.techmeme.com/260512/p65#a260512p65)
+ - [Nvidia says that Jensen Huang is joining President Trump on his China trip; source: the president asked Huang to join after seeing media coverage of his absence &lpar;CNBC&rpar;](https://www.techmeme.com/260512/p64#a260512p64)
+ - [Waymo recalls ~3,800 robotaxis in the US to fix software issues that may cause them to drive onto flooded roads, after some were seen stalled on flooded streets &lpar;Lora Kolodny/CNBC&rpar;](https://www.techmeme.com/260512/p63#a260512p63)
+ - [Sony’s new Xperia phone gets an overdue redesign](https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

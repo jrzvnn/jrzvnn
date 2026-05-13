@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [During the 90&#39;s](http://9gag.com/gag/azxW8jb)
- - 😝 [The greatest moment in women&#39;s racing history: the pace car pulled into the pits - and all the drivers followed it.](http://9gag.com/gag/a2v3rZO)
- - 💣 [Snow Leopard Jump](http://9gag.com/gag/ayNbL6X)
- - 😝 [Moms are busy being celebrated, no time for crime today](http://9gag.com/gag/a3467x1)
- - 👉 [Hola guapa](http://9gag.com/gag/aXPyqYP)<!-- MEMES:END -->
+ - 😝 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
+ - 😝 [Is this the least dangerous crime ever](http://9gag.com/gag/a6Z0QPN)
+ - 💣 [Freestyler](http://9gag.com/gag/a9yxrY1)
+ - 😝 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
+ - 👉 [Official Adidas production line](http://9gag.com/gag/axyLgGb)<!-- MEMES:END -->
 
 ---
 

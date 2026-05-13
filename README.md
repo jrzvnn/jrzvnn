@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&amp;#8217;s Edge Copilot update uses AI to pull information from across your tabs](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs)
- - [Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions](https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/)
- - [Trump administration defends right to ban content moderation experts from US](https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research)
- - [Cisco reports Q3 revenue up 12% YoY to $15.84B, vs. $15.56B est., forecasts Q4 revenue above est., and is cutting almost 4,000 jobs; CSCO jumps 17%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260513/p47#a260513p47)
- - [YouTube is courting creators — and sponsors — with streaming shows](https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront)<!-- TECH:END -->
+ - [Instagram Introduces Instants, Meta&#39;s New Private Photo Sharing App](https://www.cnet.com/tech/instagram-instants-meta-disappearing-photo-app/)
+ - [Source: Cerebras priced its IPO at $185 per share, above the expected range of $150 to $160, raising at least $5.55B and valuing it at $56.4B fully diluted &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260513/p50#a260513p50)
+ - [Netflix says its ad tier now has 250M monthly active viewers, up from 94M in 2025, and is expanding to 15 new countries, as it tests an ad personalization tool &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260513/p49#a260513p49)
+ - [Sources: Microsoft is in discussions to acquire LLM developer Inception; SpaceX also courted Inception, which is looking for a price of over $1B &lpar;Reuters&rpar;](https://www.techmeme.com/260513/p48#a260513p48)
+ - [Netgear and Eero Get Exemption From FCC&#39;s Ban of New Foreign-Made Wi-Fi Routers](https://www.cnet.com/home/internet/the-fcc-just-banned-the-sale-of-new-foreign-made-wifi-routers-but-two-major-brands-have-already-gained-an-exemption/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

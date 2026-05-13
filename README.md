@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent reports Q1 revenue up 9% YoY to ~$28.9B, below ~$29.4B est., and net income of ~$8.5B, meeting est., amid a costly AI pivot; its stock is down 23% YTD &lpar;Bloomberg&rpar;](https://www.techmeme.com/260513/p14#a260513p14)
- - [SoftBank reports Q4 net income up 3x to ~$11.6B, above ~$1.5B est., driven by a $25B gain in its OpenAI stake; by October, its OpenAI investment will hit $64.6B &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260513/p13#a260513p13)
- - [On Running LightSpray Cloudmonster 3 Hyper Review:](https://www.wired.com/review/on-running-lightspray-cloudmonster-3-hyper/)
- - [Richard Socher&#39;s Recursive Superintelligence raised $650M+ from GV, Greycroft, Nvidia, AMD, and others at a $4B valuation to pursue &quot;recursive self-improvement&quot; &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260513/p12#a260513p12)
- - [Data centers are coming for rural America](https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine)<!-- TECH:END -->
+ - [Unitree will sell you a massive ‘transformable mecha’ for $650,000](https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot)
+ - [Trump Mobile CEO Pat O&#39;Brien says T1 Phone pre-orders will begin shipping to customers this week, and the device is assembled in the US, after months of delays &lpar;Michelle Del Rey/USA Today&rpar;](https://www.techmeme.com/260513/p22#a260513p22)
+ - [Ofcom fines an unnamed suicide forum £950K, the largest OSA fine so far, for hosting illegal content accessible in the UK; the forum is linked to 130+ deaths &lpar;Sam Tabahriti/Reuters&rpar;](https://www.techmeme.com/260513/p21#a260513p21)
+ - [Microsoft’s Xbox PC app hints at China expansion for Game Pass](https://www.theverge.com/news/929454/microsoft-xbox-game-pass-china-expansion-rumors)
+ - [The Trump phone starts shipping this week, CEO claims](https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

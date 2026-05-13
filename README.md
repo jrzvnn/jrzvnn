@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy](https://www.wired.com/story/unitree-gd01-mecha-robot/)
- - [Foxconn says some of its North American factories suffered a cyberattack in recent days; ransomware group Nitrogen claims it stole 8TB of data &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260512/p54#a260512p54)
- - [Source: Anthropic is in advanced talks to acquire New York-based Stainless, which helps developers generate SDKs from APIs, for at least $300M &lpar;The Information&rpar;](https://www.techmeme.com/260512/p53#a260512p53)
- - [Foxconn Ransomware Attack Shows Nothing Is Safe Forever](https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/)
- - [I Tried Amazon&#39;s New 30-Minute Delivery. Diet Cokes Were at My Door in 16 Minutes](https://www.cnet.com/tech/services-and-software/amazon-launches-30-minute-delivery-service-with-amazon-now/)<!-- TECH:END -->
+ - [xAI Adds 16 New Gas Turbines at Mississippi Facility Despite Ongoing Lawsuit](https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/)
+ - [Sources: Anthropic is in talks to raise between $30B and $50B in a funding round that would value it at up to $950B &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260512/p58#a260512p58)
+ - [Princeton faculty votes to require proctoring in all in-person exams starting this summer, reversing an 1893 policy amid concerns about AI-fueled cheating &lpar;Douglas Belkin/Wall Street Journal&rpar;](https://www.techmeme.com/260512/p57#a260512p57)
+ - [Google DeepMind details a Gemini-powered mouse pointer that understands what it is pointing at, allowing users to perform tasks without using text-heavy prompts &lpar;Google DeepMind&rpar;](https://www.techmeme.com/260512/p56#a260512p56)
+ - [Vancouver-based quantum computing startup Photonic raised an additional $70M after a $130M raise announced in January, giving it a $2B post-money valuation &lpar;Josh Scott/BetaKit&rpar;](https://www.techmeme.com/260512/p55#a260512p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

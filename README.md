@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: Grab Apple&#39;s M4 MacBook Air for just $829](https://appleinsider.com/articles/26/05/13/flash-deal-grab-apples-m4-macbook-air-for-just-829?utm_source=rss)
- - [Q&amp;A with Anthropic CFO Krishna Rao on the &quot;cone of uncertainty&quot; in AI, allocating compute, returns to frontier intelligence, platform vs. application, and more &lpar;Invest Like The Best on YouTube&rpar;](https://www.techmeme.com/260513/p45#a260513p45)
- - [DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border](https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/)
- - [Google Details the New Magic Pointer Features Coming to Googlebooks](https://www.cnet.com/tech/computing/google-new-magic-pointer-features-googlebooks/)
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu-may-2026/)<!-- TECH:END -->
+ - [AMD&amp;#8217;s best CPU tech for gamers is coming to workstations too](https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache)
+ - [Netflix to Stream Green Bay Packers vs. LA Rams Thanksgiving Eve NFL Game](https://www.cnet.com/tech/services-and-software/netflix-to-stream-green-bay-packers-vs-la-rams-thanksgiving-eve-nfl-game/)
+ - [Google I/O 2026: What We&#39;re Expecting From Gemini, Android XR and More Next Week](https://www.cnet.com/tech/services-and-software/google-io-2026-everything-to-know/)
+ - [TikTok Go Lets You Book Vacations, Hotels and Attractions Through the App](https://www.cnet.com/tech/services-and-software/tiktok-go-app-book-vacations-hotels-activities/)
+ - [The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.](https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

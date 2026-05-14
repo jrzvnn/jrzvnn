@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When embarrassment backfires](http://9gag.com/gag/aGyme7w)
- - 😝 [Something happened with no MSM coverage. Can you guess what happened with only the photo from the local article?](http://9gag.com/gag/aXPyv12)
- - 💣 [Catching hornets](http://9gag.com/gag/a87R82Z)
- - 😝 [As Expected..](http://9gag.com/gag/aGymer7)
- - 👉 [He choose freedom](http://9gag.com/gag/a87RoW1)<!-- MEMES:END -->
+ - 😝 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)
+ - 😝 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
+ - 💣 [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)
+ - 😝 [Making Big Things That Go Kaboom](http://9gag.com/gag/aRBb392)
+ - 👉 [Ostrich ftw](http://9gag.com/gag/an7m94o)<!-- MEMES:END -->
 
 ---
 

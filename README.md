@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor dude lost all his honest work to some off-duty cop.](http://9gag.com/gag/aqyP1e7)
- - 😝 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
- - 💣 [And it looks dope](http://9gag.com/gag/aByA0rA)
- - 😝 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)
- - 👉 [The slaps felt personal](http://9gag.com/gag/avyMGwb)<!-- MEMES:END -->
+ - 😝 [When embarrassment backfires](http://9gag.com/gag/aGyme7w)
+ - 😝 [Something happened with no MSM coverage. Can you guess what happened with only the photo from the local article?](http://9gag.com/gag/aXPyv12)
+ - 💣 [Catching hornets](http://9gag.com/gag/a87R82Z)
+ - 😝 [As Expected..](http://9gag.com/gag/aGymer7)
+ - 👉 [He choose freedom](http://9gag.com/gag/a87RoW1)<!-- MEMES:END -->
 
 ---
 

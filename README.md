@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apollo Global, Morgan Stanley, and others are testing Grok internally as part of xAI&#39;s finance sector push, but financiers are rarely using it for work &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260513/p52#a260513p52)
- - [PGA Championship 2026: TV Schedule, How to Watch, Stream All the Golf From Anywhere](https://www.cnet.com/tech/services-and-software/pga-championship-2026-tv-schedule-how-to-watch-stream-golf/)
- - [ChatGPT Briefly Returned a &#39;Content Failed to Load&#39; Error for Some Users](https://www.cnet.com/news-live/chatgpt-briefly-returned-a-content-failed-to-load-error-for-some-users/)
- - [How to Delete the 4GB File That Chrome May Have &lpar;Secretly&rpar; Installed on Your Device](https://www.cnet.com/tech/services-and-software/chrome-installing-4gb-ai-model-gemini-nano/)
- - [Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260513/p51#a260513p51)<!-- TECH:END -->
+ - [Musk v. Altman filing: Sam Altman holds $2B+ in stakes in companies that have done business with OpenAI, including a $1.7B stake in fusion startup Helion Energy &lpar;Kenrick Cai/Reuters&rpar;](https://www.techmeme.com/260514/p2#a260514p2)
+ - [LY Corp launches a bid with Bain Capital to buy Kakaku.com, which operates restaurant review and booking site Tabelog, for $4B, challenging EQT&#39;s $3.75B offer &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260514/p1#a260514p1)
+ - [ZipRecruiter: IT and CS job postings are up 14.2% YoY in April; entry-level roles fell from 8.1% a year ago to 7.4%, while senior roles grew from 38.8% to 43.1% &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260513/p58#a260513p58)
+ - [Microsoft updates Edge with new AI features, including letting Copilot gather information from open tabs and use browsing history for more relevant answers &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260513/p57#a260513p57)
+ - [OpenAI says it would support a global AI governance body that is led by the US and includes China as a member, similar to the International Atomic Energy Agency &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260513/p56#a260513p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

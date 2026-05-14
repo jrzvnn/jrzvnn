@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
- - 😝 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - 💣 [As Expected..](http://9gag.com/gag/aGymer7)
- - 😝 [Her reaction is everything](http://9gag.com/gag/aRBb31A)
- - 👉 [Accurate..?](http://9gag.com/gag/a2v3rr1)<!-- MEMES:END -->
+ - 😝 [Fly fishing](http://9gag.com/gag/aE09B99)
+ - 😝 [A little daisy can make a big difference](http://9gag.com/gag/aByAWp1)
+ - 💣 [Guess the country](http://9gag.com/gag/azxW87K)
+ - 😝 [Sign me up for 30 years in Jumanji, sounds like a vacation](http://9gag.com/gag/an7mM9z)
+ - 👉 [Just goalies doing goalie stuff](http://9gag.com/gag/ae9ne4b)<!-- MEMES:END -->
 
 ---
 

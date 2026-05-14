@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When embarrassment backfires](http://9gag.com/gag/aGyme7w)
- - 😝 [Accurate..?](http://9gag.com/gag/a2v3rr1)
- - 💣 [This is a prime example of having ideas but not knowledge. They\u2019re not the same, and it&#39;s a great example of how a lot of people think.](http://9gag.com/gag/ae9nb6Q)
+ - 😝 [Catching hornets](http://9gag.com/gag/a87R82Z)
+ - 😝 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
+ - 💣 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
  - 😝 [Making Big Things That Go Kaboom](http://9gag.com/gag/aRBb392)
- - 👉 [Accidents happens](http://9gag.com/gag/azxWrNq)<!-- MEMES:END -->
+ - 👉 [As Expected..](http://9gag.com/gag/aGymer7)<!-- MEMES:END -->
 
 ---
 

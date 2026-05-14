@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This priest is doing god&#39;s work, literally](http://9gag.com/gag/ae9nerQ)
- - 😝 [A little daisy can make a big difference](http://9gag.com/gag/aByAWp1)
- - 💣 [Guess the country](http://9gag.com/gag/azxW87K)
- - 😝 [1974 Volkswagen pulls Fifth-Wheel travel trailer](http://9gag.com/gag/aKGQDbN)
- - 👉 [Just goalies doing goalie stuff](http://9gag.com/gag/ae9ne4b)<!-- MEMES:END -->
+ - 😝 [Catching hornets](http://9gag.com/gag/a87R82Z)
+ - 😝 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - 💣 [The process of surgically `flushing` kidney stones refers to techniques like saline irrigation used during minimally invasive surgeries to clear out fragments and stone dust.](http://9gag.com/gag/axyLVbL)
+ - 😝 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
+ - 👉 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)<!-- MEMES:END -->
 
 ---
 

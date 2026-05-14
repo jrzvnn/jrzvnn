@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And he\u2019s still a virgin too\u2026.. probably\u2026..](http://9gag.com/gag/aXPyqe2)
- - 😝 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
- - 💣 [Accurate..?](http://9gag.com/gag/a2v3rr1)
- - 😝 [I mean it&#39;s UFO. We are believe it!](http://9gag.com/gag/ayNbX4p)
- - 👉 [The slaps felt personal](http://9gag.com/gag/avyMGwb)<!-- MEMES:END -->
+ - 😝 [When embarrassment backfires](http://9gag.com/gag/aGyme7w)
+ - 😝 [Accurate..?](http://9gag.com/gag/a2v3rr1)
+ - 💣 [This is a prime example of having ideas but not knowledge. They\u2019re not the same, and it&#39;s a great example of how a lot of people think.](http://9gag.com/gag/ae9nb6Q)
+ - 😝 [Making Big Things That Go Kaboom](http://9gag.com/gag/aRBb392)
+ - 👉 [Accidents happens](http://9gag.com/gag/azxWrNq)<!-- MEMES:END -->
 
 ---
 

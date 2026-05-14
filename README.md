@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Catching hornets](http://9gag.com/gag/a87R82Z)
- - 😝 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
- - 💣 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
- - 😝 [Making Big Things That Go Kaboom](http://9gag.com/gag/aRBb392)
- - 👉 [As Expected..](http://9gag.com/gag/aGymer7)<!-- MEMES:END -->
+ - 😝 [When embarrassment backfires](http://9gag.com/gag/aGyme7w)
+ - 😝 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
+ - 💣 [As Expected..](http://9gag.com/gag/aGymer7)
+ - 😝 [Look, times are hard, ok... he is doing his best!](http://9gag.com/gag/abANYpL)
+ - 👉 [The slaps felt personal](http://9gag.com/gag/avyMGwb)<!-- MEMES:END -->
 
 ---
 

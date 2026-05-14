@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cerebras shares closed up 68% at $311.07 in the company&#39;s Nasdaq debut after it raised $5.5B in the year&#39;s largest IPO, giving it a market value of $67B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260514/p36#a260514p36)
+ - [Closing time](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis)
+ - [Metroid Prime 4: Beyond got its first big discount](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale)
  - [OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a connected computer directly from a phone &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260514/p35#a260514p35)
- - [Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer)
- - [Figma reports Q1 revenue up 46% YoY to $333.4M, vs. $313.2M est., and forecasts Q2 revenue above estimates, citing AI monetization; FIG jumps 8%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](https://www.techmeme.com/260514/p34#a260514p34)
- - [We Now Know How Many People the CDC Is Monitoring for Hantavirus](https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/)
- - [Behold, the Elon Musk jackass trophy](https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue)<!-- TECH:END -->
+ - [Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

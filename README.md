@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows Update will soon automatically roll back faulty drivers](https://www.theverge.com/news/930303/windows-update-automatic-driver-rollback-feature)
- - [Foxconn reports Q1 revenue up 29% YoY to ~$67B and net profit up 19% YoY to ~$1.6B, meeting est., as it boosts AI server production, its largest revenue source &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260514/p8#a260514p8)
- - [These Instagram Ads Sure Seem to Be Selling Cocaine Accessories](https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/)
- - [Meta’s New Reality: Record High Profits. Record Low Morale](https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-14/)<!-- TECH:END -->
+ - [The UK CMA launches an antitrust investigation into Microsoft&#39;s business software dominance, focusing on its bundling of Windows, Word, Teams, and other apps &lpar;Reuters&rpar;](https://www.techmeme.com/260514/p14#a260514p14)
+ - [Evercore tells investors to stick with Apple, raising price target to $365](https://appleinsider.com/articles/26/05/14/evercore-tells-investors-to-stick-with-apple-raising-price-target-to-365?utm_source=rss)
+ - [Meta President Dina Powell McCormick is traveling with President Trump on his China trip and met King Charles III, indicating she is Meta&#39;s new global emissary &lpar;Kurt Wagner/Bloomberg&rpar;](https://www.techmeme.com/260514/p13#a260514p13)
+ - [SMIC reports Q1 revenue up 11.5% YoY to ~$2.5B and net profit up 5% YoY to ~$197.4M, below $223.6M est., weighed down by higher operating expenses, up 30% YoY &lpar;Sherry Qin/Wall Street Journal&rpar;](https://www.techmeme.com/260514/p12#a260514p12)
+ - [InstaFarm Automated Indoor Microgreens Garden Review: Easy Being Green](https://www.wired.com/review/instafarm-automated-indoor-microgreens-garden/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

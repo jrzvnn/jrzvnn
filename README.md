@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI considering suing Apple because ChatGPT integrations weren&#39;t a money fountain](https://appleinsider.com/articles/26/05/14/openai-considering-suing-apple-because-chatgpt-integrations-werent-a-money-fountain?utm_source=rss)
- - [Best Early Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026/)
- - [Use this map to find the data centers in your backyard](https://www.theverge.com/policy/930629/data-center-policy-map-interactive)
- - [Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber&#39;s debut in 2019 &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260514/p26#a260514p26)
- - [Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT&#39;s Siri integration would generate billions in revenue fell short &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260514/p25#a260514p25)<!-- TECH:END -->
+ - [OpenAI’s Codex is now in the ChatGPT mobile app](https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview)
+ - [Anthropic&#39;s Mythos AI outsmarted Apple&#39;s Mac security systems](https://appleinsider.com/articles/26/05/14/anthropics-mythos-ai-outsmarted-apples-mac-security-systems?utm_source=rss)
+ - [Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices](https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale)
+ - [The Senate Banking Committee advances the Clarity Act, which would make CFTC the primary regulator for most digital assets while SEC oversees digital securities &lpar;Bloomberg&rpar;](https://www.techmeme.com/260514/p31#a260514p31)
+ - [Sources: 50+ researchers and engineers have left xAI since the SpaceX acquisition via layoffs, firings, and voluntary departures; many have joined Meta and TML &lpar;Theo Wayt/The Information&rpar;](https://www.techmeme.com/260514/p30#a260514p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

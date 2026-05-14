@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk v. Altman filing: Sam Altman holds $2B+ in stakes in companies that have done business with OpenAI, including a $1.7B stake in fusion startup Helion Energy &lpar;Kenrick Cai/Reuters&rpar;](https://www.techmeme.com/260514/p2#a260514p2)
- - [LY Corp launches a bid with Bain Capital to buy Kakaku.com, which operates restaurant review and booking site Tabelog, for $4B, challenging EQT&#39;s $3.75B offer &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260514/p1#a260514p1)
- - [ZipRecruiter: IT and CS job postings are up 14.2% YoY in April; entry-level roles fell from 8.1% a year ago to 7.4%, while senior roles grew from 38.8% to 43.1% &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260513/p58#a260513p58)
- - [Microsoft updates Edge with new AI features, including letting Copilot gather information from open tabs and use browsing history for more relevant answers &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260513/p57#a260513p57)
- - [OpenAI says it would support a global AI governance body that is led by the US and includes China as a member, similar to the International Atomic Energy Agency &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260513/p56#a260513p56)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-14/)
+ - [Filing: Jensen Huang&#39;s foundation bought $108.3M worth of AI computing time from CoreWeave and is donating it to universities and other nonprofit institutes &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260514/p7#a260514p7)
+ - [Canadian legaltech company Clio says its ARR has reached $500M, citing demand for its AI services; it was valued at $5B after a $500M Series G in November 2025 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260514/p6#a260514p6)
+ - [Sources: the US cleared ~10 Chinese companies, including Alibaba, Tencent, ByteDance, and JD.com, to buy Nvidia H200 chips, but no deliveries have been made &lpar;Reuters&rpar;](https://www.techmeme.com/260514/p5#a260514p5)
+ - [Riyadh-based Stitch, which develops software for banks and financial services companies, raised a $25M Series A led by a16z, its first investment in the Gulf &lpar;Aisha S Gani/Bloomberg&rpar;](https://www.techmeme.com/260514/p4#a260514p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

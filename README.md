@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)
+ - 😝 [Taekwondo](http://9gag.com/gag/aKGQVOO)
  - 😝 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
- - 💣 [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)
- - 😝 [Making Big Things That Go Kaboom](http://9gag.com/gag/aRBb392)
- - 👉 [Ostrich ftw](http://9gag.com/gag/an7m94o)<!-- MEMES:END -->
+ - 💣 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
+ - 😝 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
+ - 👉 [Last picture of Oliver Reed in the set of gladiator before he died of alcohol poisoning. After this scene he challenged sailors to a drinking contest, he consumed 8 pints of beer, 12 shots of rum half a bottle of whiskey and a bottle of cognac](http://9gag.com/gag/an7m92L)<!-- MEMES:END -->
 
 ---
 

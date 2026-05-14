@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wirestock, which says it provides multi-modal data to six of the largest foundation AI labs, raised a $23M Series A, bringing its total funding to $26M &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260514/p20#a260514p20)
- - [Thieves are unlocking and making more money from stolen and locked iPhones](https://appleinsider.com/articles/26/05/14/thieves-are-unlocking-and-making-more-money-from-stolen-and-locked-iphones?utm_source=rss)
- - [Dyson put a camera on its purifier so fresh air can follow you around the room](https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy)
- - [AT&amp;T, T-Mobile, and Verizon sign an &quot;agreement in principle&quot; to form a joint venture aiming to end wireless dead zones in the US, without giving many details &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260514/p19#a260514p19)
- - [MacBook Neo review, two months later: Almost a MacBook Pro beater](https://appleinsider.com/articles/26/05/14/macbook-neo-review-two-months-later-almost-a-macbook-pro-beater?utm_source=rss)<!-- TECH:END -->
+ - [Trump Mobile&#39;s low-end T1 Android phone ships soon, for iPhone 17e prices](https://appleinsider.com/articles/26/05/14/trump-mobiles-low-end-t1-android-phone-ships-soon-for-iphone-17e-prices?utm_source=rss)
+ - [Leaked images show Microsoft’s new Xbox Cloud Gaming controller](https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak)
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [Anthropic and Gates Foundation pledge $200M to use AI in health and education initiatives; the foundation signed a similar, $50M deal with OpenAI in January &lpar;Jeffrey Dastin/Reuters&rpar;](https://www.techmeme.com/260514/p22#a260514p22)
+ - [Hackers used faked Apple &amp; Yahoo infrastructure to hide malware](https://appleinsider.com/articles/26/05/14/hackers-used-faked-apple-yahoo-infrastructure-to-hide-malware?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

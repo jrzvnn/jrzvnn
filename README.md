@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cerebras shares closed up 68% at $311.07 in the company&#39;s Nasdaq debut after it raised $5.5B in the year&#39;s largest IPO, giving it a market value of $67B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260514/p36#a260514p36)
- - [Closing time](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis)
- - [Metroid Prime 4: Beyond got its first big discount](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale)
- - [OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a connected computer directly from a phone &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260514/p35#a260514p35)
- - [Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer)<!-- TECH:END -->
+ - [California Gov. Gavin Newsom proposes a new 7.25% tax on web-based software sales, targeting $1.1B in state and local tax revenue in the upcoming budget year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260514/p39#a260514p39)
+ - [Gemini reports Q1 revenue up 42% YoY to $50.3M, vs. $47.9M est., announces a $100M capital injection from Winklevoss Capital Fund; GEMI jumps 22%+ after hours &lpar;Tanaya Macheel/CNBC&rpar;](https://www.techmeme.com/260514/p38#a260514p38)
+ - [Cerebras co-founders CEO Andrew Feldman and CTO Sean Lie own stakes worth $3.2B and $1.7B, respectively, representing about 5.5% and 3% of the company &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260514/p37#a260514p37)
+ - [Honda&amp;#8217;s hybrid future starts with new Accord and RDX prototypes](https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx)
+ - [Cerebras shares closed up 68% at $311.07 in the company&#39;s Nasdaq debut after it raised $5.5B in the year&#39;s largest IPO, giving it a market value of $67B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260514/p36#a260514p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

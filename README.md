@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fly fishing](http://9gag.com/gag/aE09B99)
- - 😝 [A little daisy can make a big difference](http://9gag.com/gag/aByAWp1)
- - 💣 [Guess the country](http://9gag.com/gag/azxW87K)
- - 😝 [Sign me up for 30 years in Jumanji, sounds like a vacation](http://9gag.com/gag/an7mM9z)
- - 👉 [Just goalies doing goalie stuff](http://9gag.com/gag/ae9ne4b)<!-- MEMES:END -->
+ - 😝 [And he\u2019s still a virgin too\u2026.. probably\u2026..](http://9gag.com/gag/aXPyqe2)
+ - 😝 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
+ - 💣 [Accurate..?](http://9gag.com/gag/a2v3rr1)
+ - 😝 [I mean it&#39;s UFO. We are believe it!](http://9gag.com/gag/ayNbX4p)
+ - 👉 [The slaps felt personal](http://9gag.com/gag/avyMGwb)<!-- MEMES:END -->
 
 ---
 

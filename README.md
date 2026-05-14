@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-14/)
- - [Filing: Jensen Huang&#39;s foundation bought $108.3M worth of AI computing time from CoreWeave and is donating it to universities and other nonprofit institutes &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260514/p7#a260514p7)
- - [Canadian legaltech company Clio says its ARR has reached $500M, citing demand for its AI services; it was valued at $5B after a $500M Series G in November 2025 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260514/p6#a260514p6)
- - [Sources: the US cleared ~10 Chinese companies, including Alibaba, Tencent, ByteDance, and JD.com, to buy Nvidia H200 chips, but no deliveries have been made &lpar;Reuters&rpar;](https://www.techmeme.com/260514/p5#a260514p5)
- - [Riyadh-based Stitch, which develops software for banks and financial services companies, raised a $25M Series A led by a16z, its first investment in the Gulf &lpar;Aisha S Gani/Bloomberg&rpar;](https://www.techmeme.com/260514/p4#a260514p4)<!-- TECH:END -->
+ - [Windows Update will soon automatically roll back faulty drivers](https://www.theverge.com/news/930303/windows-update-automatic-driver-rollback-feature)
+ - [Foxconn reports Q1 revenue up 29% YoY to ~$67B and net profit up 19% YoY to ~$1.6B, meeting est., as it boosts AI server production, its largest revenue source &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260514/p8#a260514p8)
+ - [These Instagram Ads Sure Seem to Be Selling Cocaine Accessories](https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/)
+ - [Meta’s New Reality: Record High Profits. Record Low Morale](https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-14/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Taekwondo](http://9gag.com/gag/aKGQVOO)
- - 😝 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
- - 💣 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
- - 😝 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
+ - 😝 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 💣 [Catching hornets](http://9gag.com/gag/a87R82Z)
+ - 😝 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
  - 👉 [Last picture of Oliver Reed in the set of gladiator before he died of alcohol poisoning. After this scene he challenged sailors to a drinking contest, he consumed 8 pints of beer, 12 shots of rum half a bottle of whiskey and a bottle of cognac](http://9gag.com/gag/an7m92L)<!-- MEMES:END -->
 
 ---

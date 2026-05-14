@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Mobile&#39;s low-end T1 Android phone ships soon, for iPhone 17e prices](https://appleinsider.com/articles/26/05/14/trump-mobiles-low-end-t1-android-phone-ships-soon-for-iphone-17e-prices?utm_source=rss)
- - [Leaked images show Microsoft’s new Xbox Cloud Gaming controller](https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak)
- - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
- - [Anthropic and Gates Foundation pledge $200M to use AI in health and education initiatives; the foundation signed a similar, $50M deal with OpenAI in January &lpar;Jeffrey Dastin/Reuters&rpar;](https://www.techmeme.com/260514/p22#a260514p22)
- - [Hackers used faked Apple &amp; Yahoo infrastructure to hide malware](https://appleinsider.com/articles/26/05/14/hackers-used-faked-apple-yahoo-infrastructure-to-hide-malware?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI considering suing Apple because ChatGPT integrations weren&#39;t a money fountain](https://appleinsider.com/articles/26/05/14/openai-considering-suing-apple-because-chatgpt-integrations-werent-a-money-fountain?utm_source=rss)
+ - [Best Early Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026/)
+ - [Use this map to find the data centers in your backyard](https://www.theverge.com/policy/930629/data-center-policy-map-interactive)
+ - [Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber&#39;s debut in 2019 &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260514/p26#a260514p26)
+ - [Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT&#39;s Siri integration would generate billions in revenue fell short &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260514/p25#a260514p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

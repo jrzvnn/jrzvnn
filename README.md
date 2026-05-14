@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s Codex is now in the ChatGPT mobile app](https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview)
- - [Anthropic&#39;s Mythos AI outsmarted Apple&#39;s Mac security systems](https://appleinsider.com/articles/26/05/14/anthropics-mythos-ai-outsmarted-apples-mac-security-systems?utm_source=rss)
- - [Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices](https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale)
- - [The Senate Banking Committee advances the Clarity Act, which would make CFTC the primary regulator for most digital assets while SEC oversees digital securities &lpar;Bloomberg&rpar;](https://www.techmeme.com/260514/p31#a260514p31)
- - [Sources: 50+ researchers and engineers have left xAI since the SpaceX acquisition via layoffs, firings, and voluntary departures; many have joined Meta and TML &lpar;Theo Wayt/The Information&rpar;](https://www.techmeme.com/260514/p30#a260514p30)<!-- TECH:END -->
+ - [OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a connected computer directly from a phone &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260514/p35#a260514p35)
+ - [Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer)
+ - [Figma reports Q1 revenue up 46% YoY to $333.4M, vs. $313.2M est., and forecasts Q2 revenue above estimates, citing AI monetization; FIG jumps 8%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](https://www.techmeme.com/260514/p34#a260514p34)
+ - [We Now Know How Many People the CDC Is Monitoring for Hantavirus](https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/)
+ - [Behold, the Elon Musk jackass trophy](https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Akamai acquires Israeli cybersecurity startup LayerX Security, which develops a browser-based platform to secure employee use of AI tools, for ~$205M in cash &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260515/p6#a260515p6)
- - [The 5 Best Outdoor Griddles and Flat Top Grills &lpar;2026&rpar;](https://www.wired.com/story/best-backyard-griddles-flat-top-grills/)
- - [Sources: HSG, formerly Sequoia China, has set up a $3B continuation fund anchored by its ByteDance stake, offering entry into the company valued at $370B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260515/p5#a260515p5)
- - [Trump&#39;s Federal Gas Tax Holiday Isn&#39;t Likely to Bring Down Prices](https://www.wired.com/story/why-gas-tax-holiday-is-risky-idea/)
- - [A Woman Was in the US Legally. She Was Deported Anyways](https://www.wired.com/story/a-woman-was-in-the-us-legally-she-was-deported-anyways/)<!-- TECH:END -->
+ - [Owning an Apple Home: implementing smart pet solutions](https://appleinsider.com/articles/26/05/15/owning-an-apple-home-implementing-smart-pet-solutions?utm_source=rss)
+ - [Google confirms it&#39;s testing a new storage policy after some users reported that new Gmail accounts get only 5GB of free storage unless they add a phone number &lpar;Akshay Gangwar/Android Authority&rpar;](https://www.techmeme.com/260515/p11#a260515p11)
+ - [Indian ride-hailing app Rapido raised $240M led by Prosus as part of a broader primary and secondary financing transaction, valuing Rapido at $3B post-money &lpar;Pramugdha Mamgain/DealStreetAsia&rpar;](https://www.techmeme.com/260515/p10#a260515p10)
+ - [The UK&#39;s HMRC tax authority announces a 10-year, £175M deal with London-based Quantexa to use its AI tech to identify fraud incidents and fix tax return errors &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260515/p9#a260515p9)
+ - [xAI launches Grok Build, an agentic CLI for coding, building apps, and automating workflows, in beta for SuperGrok Heavy subscribers &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260515/p8#a260515p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

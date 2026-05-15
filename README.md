@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Amazon CEO Andy Jassy, who is killing projects, cutting staff, and pleasing Wall Street, while steering the company toward an AI-focused era &lpar;Bloomberg&rpar;](https://www.techmeme.com/260515/p2#a260515p2)
- - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
- - [Bose Promo Code: 40% Off for May 2026](https://www.wired.com/story/bose-coupon-code/)
- - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)
- - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
+ - [Akamai acquires Israeli cybersecurity startup LayerX Security, which develops a browser-based platform to secure employee use of AI tools, for ~$205M in cash &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260515/p6#a260515p6)
+ - [The 5 Best Outdoor Griddles and Flat Top Grills &lpar;2026&rpar;](https://www.wired.com/story/best-backyard-griddles-flat-top-grills/)
+ - [Sources: HSG, formerly Sequoia China, has set up a $3B continuation fund anchored by its ByteDance stake, offering entry into the company valued at $370B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260515/p5#a260515p5)
+ - [Trump&#39;s Federal Gas Tax Holiday Isn&#39;t Likely to Bring Down Prices](https://www.wired.com/story/why-gas-tax-holiday-is-risky-idea/)
+ - [A Woman Was in the US Legally. She Was Deported Anyways](https://www.wired.com/story/a-woman-was-in-the-us-legally-she-was-deported-anyways/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

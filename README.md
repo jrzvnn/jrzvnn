@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nolan bent the knee](http://9gag.com/gag/aZZ6Lg6)
- - 😝 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - 💣 [It&#39;s always](http://9gag.com/gag/aE09Bp9)
- - 😝 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
- - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
+ - 😝 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
+ - 😝 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)
+ - 💣 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 😝 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
+ - 👉 [Henry Cavill while filming Highlander in \u0141\u00f3d\u017a was approached by a LFGS owner who gave him box set of Custodes.](http://9gag.com/gag/a7oYw3q)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults)
- - [Professional services firm EY has withdrawn a study on loyalty rewards programs after researchers at GPTZero found apparent AI hallucinations and fake footnotes &lpar;Stephen Foley/Financial Times&rpar;](https://www.techmeme.com/260515/p28#a260515p28)
- - [How tech companies are using open source initiatives to achieve critical strategic goals and how such efforts are reshaping industries like AI, AVs, and more &lpar;Bill Gurley/Bill&#39;s Substack&rpar;](https://www.techmeme.com/260515/p27#a260515p27)
- - [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button)
- - [The Best Outdoor Deals From the REI Anniversary Sale 2026](https://www.wired.com/story/rei-anniversary-sale-2026/)<!-- TECH:END -->
+ - [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
+ - [YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/260515/p31#a260515p31)
+ - [Filings: YouTube and Snap reached agreements to settle a lawsuit headed to trial in June over claims addiction to social media has disrupted students&#39; learning &lpar;Bloomberg&rpar;](https://www.techmeme.com/260515/p30#a260515p30)
+ - [Dyson&#39;s New Fan and Air Purifier Combo Follows You Around the Room to Deliver Clean Air](https://www.cnet.com/news/dysons-new-fan-and-air-purifier-combo-follows-you-around-the-room-to-deliver-clean-air/)
+ - [Sources: the US FTC is investigating whether Arm is trying to illegally monopolize parts of the semiconductor market &lpar;Josh Sisco/Bloomberg&rpar;](https://www.techmeme.com/260515/p29#a260515p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

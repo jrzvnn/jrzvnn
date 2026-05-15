@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults)
+ - [Professional services firm EY has withdrawn a study on loyalty rewards programs after researchers at GPTZero found apparent AI hallucinations and fake footnotes &lpar;Stephen Foley/Financial Times&rpar;](https://www.techmeme.com/260515/p28#a260515p28)
  - [How tech companies are using open source initiatives to achieve critical strategic goals and how such efforts are reshaping industries like AI, AVs, and more &lpar;Bill Gurley/Bill&#39;s Substack&rpar;](https://www.techmeme.com/260515/p27#a260515p27)
  - [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button)
- - [The Best Outdoor Deals From the REI Anniversary Sale 2026](https://www.wired.com/story/rei-anniversary-sale-2026/)
- - [Google Could Limit New Gmail Accounts to Only 5GB of Free Storage](https://www.cnet.com/tech/services-and-software/gmail-less-than-15gb-storage/)
- - [Android 16 Bug Allows Apps to Ignore VPNs and Leak IP Addresses](https://www.cnet.com/tech/services-and-software/android-16-bug-allows-apps-to-ignore-vpns-and-leak-ip-addresses/)<!-- TECH:END -->
+ - [The Best Outdoor Deals From the REI Anniversary Sale 2026](https://www.wired.com/story/rei-anniversary-sale-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

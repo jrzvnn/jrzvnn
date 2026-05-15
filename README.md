@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taekwondo](http://9gag.com/gag/aKGQVOO)
+ - 😝 [Achilles vs Hector in Troy is still the most tense melee duel in all of film](http://9gag.com/gag/aO8MBwv)
+ - 😝 [Jesus took the express elevator to heaven](http://9gag.com/gag/aYQ3gx0)
+ - 💣 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
  - 😝 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - 💣 [Catching hornets](http://9gag.com/gag/a87R82Z)
- - 😝 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
- - 👉 [Last picture of Oliver Reed in the set of gladiator before he died of alcohol poisoning. After this scene he challenged sailors to a drinking contest, he consumed 8 pints of beer, 12 shots of rum half a bottle of whiskey and a bottle of cognac](http://9gag.com/gag/an7m92L)<!-- MEMES:END -->
+ - 👉 [Look, times are hard, ok... he is doing his best!](http://9gag.com/gag/abANYpL)<!-- MEMES:END -->
 
 ---
 

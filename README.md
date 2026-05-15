@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Entitled erratic woman gets a reality check](http://9gag.com/gag/aryQGD7)
- - 😝 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
- - 💣 [When embarrassment backfires](http://9gag.com/gag/aGyme7w)
- - 😝 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
- - 👉 [Only real ones remember this bad boy](http://9gag.com/gag/aW4rYrx)<!-- MEMES:END -->
+ - 😝 [Nolan bent the knee](http://9gag.com/gag/aZZ6Lg6)
+ - 😝 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 💣 [It&#39;s always](http://9gag.com/gag/aE09Bp9)
+ - 😝 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
+ - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
 
 ---
 

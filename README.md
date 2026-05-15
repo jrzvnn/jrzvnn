@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve always liked fast cars and slow women.](http://9gag.com/gag/a9yxRj0)
- - 😝 [Ostrich ftw](http://9gag.com/gag/an7m94o)
- - 💣 [Nolan bent the knee](http://9gag.com/gag/aZZ6Lg6)
- - 😝 [Don\u2019t tell me what to do](http://9gag.com/gag/aqyPgrv)
- - 👉 [Henry Cavill receiving from a fan a warhammer 40k adeptus custodes kit &lpar;the faction he plays&rpar; in poland where the new Highlander movie is being filmed](http://9gag.com/gag/avyMo4W)<!-- MEMES:END -->
+ - 😝 [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)
+ - 😝 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - 💣 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
+ - 👉 [Awkward situation](http://9gag.com/gag/aND7Ybw)<!-- MEMES:END -->
 
 ---
 

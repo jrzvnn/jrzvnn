@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Early Memorial Day Deals: Garmin, Birdfy, Breville &lpar;2026&rpar;](https://www.wired.com/story/best-memorial-day-deals-2026/)
- - [Gridcare, which uses AI to detect underused capacity in electric grids, raised a $64M Series A, following a $13.5M seed in 2025 &lpar;Bianca Giacobone/Latitude Media&rpar;](https://www.techmeme.com/260515/p15#a260515p15)
- - [iPadOS 26 review - iPad finally feels more like the computer it should be](https://appleinsider.com/articles/26/05/15/ipados-26-review---ipad-finally-feels-more-like-the-computer-it-should-be?utm_source=rss)
- - [The funniest thing about the Trump arcade game is how good it is](https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump)
- - [The promises and pitfalls of personalized health](https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health)<!-- TECH:END -->
+ - [OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260515/p17#a260515p17)
+ - [OpenAI now wants ChatGPT to access your bank accounts](https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection)
+ - [A profile of AI video generation startup Runway, which is training models directly on observational data, is now valued at $5.3B, and added $40M in ARR in Q2 &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260515/p16#a260515p16)
+ - [BioLite’s stakeable solar lights are down to a new low price for Memorial Day](https://www.theverge.com/gadgets/930969/biolite-solar-site-lights-insta360-action-camera-deal-sale)
+ - [Companies Keep Slashing Employees’ Benefits for the Worst Reasons](https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

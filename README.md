@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Achilles vs Hector in Troy is still the most tense melee duel in all of film](http://9gag.com/gag/aO8MBwv)
- - 😝 [Jesus took the express elevator to heaven](http://9gag.com/gag/aYQ3gx0)
- - 💣 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
- - 😝 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - 👉 [Look, times are hard, ok... he is doing his best!](http://9gag.com/gag/abANYpL)<!-- MEMES:END -->
+ - 😝 [Entitled erratic woman gets a reality check](http://9gag.com/gag/aryQGD7)
+ - 😝 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
+ - 💣 [When embarrassment backfires](http://9gag.com/gag/aGyme7w)
+ - 😝 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
+ - 👉 [Only real ones remember this bad boy](http://9gag.com/gag/aW4rYrx)<!-- MEMES:END -->
 
 ---
 

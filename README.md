@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
- - 😝 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)
- - 💣 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 😝 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
  - 😝 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
+ - 💣 [Awkward situation](http://9gag.com/gag/aND7Ybw)
+ - 😝 [He choose freedom](http://9gag.com/gag/a87RoW1)
  - 👉 [Henry Cavill while filming Highlander in \u0141\u00f3d\u017a was approached by a LFGS owner who gave him box set of Custodes.](http://9gag.com/gag/a7oYw3q)<!-- MEMES:END -->
 
 ---

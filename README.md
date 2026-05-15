@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic has agreed to the terms of a $30B fundraising at a $900B valuation, with Sequoia, Dragoneer, Greenoaks, and Altimeter co-leading the round &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260514/p42#a260514p42)
- - [Sources: xAI co-founder Igor Babuschkin plans to raise up to $1B at an up to $5B valuation for a new AI research startup, with General Catalyst possibly leading &lpar;Forbes&rpar;](https://www.techmeme.com/260514/p41#a260514p41)
- - [The Real Losers of the Musk v. Altman Trial](https://www.wired.com/story/musk-v-altman-trial-closing-arguments/)
- - [Ikea Matter-over-Thread review: Amazing smart home tech, when they work](https://appleinsider.com/articles/26/05/15/ikea-matter-over-thread-review-amazing-smart-home-tech-when-they-work?utm_source=rss)
- - [Musk v. Altman: in closing arguments, Musk&#39;s attorney doubled down on claims of Altman&#39;s untrustworthiness, while OpenAI&#39;s lawyer said Musk has no evidence &lpar;Associated Press&rpar;](https://www.techmeme.com/260514/p40#a260514p40)<!-- TECH:END -->
+ - [London-based edtech startup Multiverse raised $70M at a $2.1B valuation from Index and others as it pushes into AI training; it acquired StackFuel in January &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260515/p1#a260515p1)
+ - [UK-based Iceotope, which develops data center liquid cooling tech, raised a $26M Series B co-led by Two Seas Capital and Barclays Climate Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260514/p46#a260514p46)
+ - [Alphabet sold $3.6B of bonds in its debut yen-denominated bond sale, the largest by a non-Japanese company, as AI-driven capital spending accelerates &lpar;Atsuko Fukase/Bloomberg&rpar;](https://www.techmeme.com/260514/p45#a260514p45)
+ - [In a policy paper, Anthropic urges the US and allies to enforce export controls, curb distillation attacks, and export US AI to hold the lead over China by 2028 &lpar;Anthropic&rpar;](https://www.techmeme.com/260514/p44#a260514p44)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, May 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-15/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

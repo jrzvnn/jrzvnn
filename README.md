@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve always liked fast cars and slow women.](http://9gag.com/gag/a9yxRj0)
- - 😝 [Her reaction is everything](http://9gag.com/gag/aRBb31A)
- - 💣 [Don\u2019t tell me what to do](http://9gag.com/gag/aqyPgrv)
- - 😝 [Wakanda forever](http://9gag.com/gag/agmD5mg)
- - 👉 [A Jolly Ship&#39;s Cook](http://9gag.com/gag/a4PXQ26)<!-- MEMES:END -->
+ - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
+ - 😝 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 💣 [UK police handcuff the 18y victim of stabbing to `secure the scene` because the attacker Vikrum Digwa said he was racially abused, victim bleeds out and dies soon after](http://9gag.com/gag/aPAERWV)
+ - 😝 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
+ - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
 
 ---
 

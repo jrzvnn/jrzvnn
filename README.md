@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)
  - 😝 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
- - 💣 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
- - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
- - 👉 [Awkward situation](http://9gag.com/gag/aND7Ybw)<!-- MEMES:END -->
+ - 😝 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 💣 [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)
+ - 😝 [Awkward situation](http://9gag.com/gag/aND7Ybw)
+ - 👉 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)<!-- MEMES:END -->
 
 ---
 

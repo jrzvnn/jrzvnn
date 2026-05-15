@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based edtech startup Multiverse raised $70M at a $2.1B valuation from Index and others as it pushes into AI training; it acquired StackFuel in January &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260515/p1#a260515p1)
- - [UK-based Iceotope, which develops data center liquid cooling tech, raised a $26M Series B co-led by Two Seas Capital and Barclays Climate Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260514/p46#a260514p46)
- - [Alphabet sold $3.6B of bonds in its debut yen-denominated bond sale, the largest by a non-Japanese company, as AI-driven capital spending accelerates &lpar;Atsuko Fukase/Bloomberg&rpar;](https://www.techmeme.com/260514/p45#a260514p45)
- - [In a policy paper, Anthropic urges the US and allies to enforce export controls, curb distillation attacks, and export US AI to hold the lead over China by 2028 &lpar;Anthropic&rpar;](https://www.techmeme.com/260514/p44#a260514p44)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-15/)<!-- TECH:END -->
+ - [A profile of Amazon CEO Andy Jassy, who is killing projects, cutting staff, and pleasing Wall Street, while steering the company toward an AI-focused era &lpar;Bloomberg&rpar;](https://www.techmeme.com/260515/p2#a260515p2)
+ - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
+ - [Bose Promo Code: 40% Off for May 2026](https://www.wired.com/story/bose-coupon-code/)
+ - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)
+ - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

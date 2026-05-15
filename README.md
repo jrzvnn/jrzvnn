@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
- - 😝 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - 💣 [UK police handcuff the 18y victim of stabbing to `secure the scene` because the attacker Vikrum Digwa said he was racially abused, victim bleeds out and dies soon after](http://9gag.com/gag/aPAERWV)
- - 😝 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
- - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
+ - 😝 [I&#39;ve always liked fast cars and slow women.](http://9gag.com/gag/a9yxRj0)
+ - 😝 [Ostrich ftw](http://9gag.com/gag/an7m94o)
+ - 💣 [Nolan bent the knee](http://9gag.com/gag/aZZ6Lg6)
+ - 😝 [Don\u2019t tell me what to do](http://9gag.com/gag/aqyPgrv)
+ - 👉 [Henry Cavill receiving from a fan a warhammer 40k adeptus custodes kit &lpar;the faction he plays&rpar; in poland where the new Highlander movie is being filmed](http://9gag.com/gag/avyMo4W)<!-- MEMES:END -->
 
 ---
 

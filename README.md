@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nord Quantique, a quantum computing startup that is pursuing a hardware-level quantum error correction approach, raised $30M at a $1.4B valuation &lpar;Sean Silcoff/Globe and Mail&rpar;](https://www.techmeme.com/260515/p23#a260515p23)
- - [Gemini Intelligence announcement hopes to steal Apple&#39;s Siri thunder but falls short](https://appleinsider.com/articles/26/05/15/gemini-intelligence-announcement-hopes-to-steal-apples-siri-thunder-but-falls-short?utm_source=rss)
- - [Source: Kraken cut ~150 staff after AI tools improved efficiency and its IPO may be delayed until late 2026 or early 2027 due to a drop in digital-asset prices &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260515/p22#a260515p22)
- - [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)
- - [OpenAI&#39;s disavowal of a liability shield in Illinois SB 3444 bill and endorsement of a stronger SB 315 suggest it is open to meaningful AI safety legislation &lpar;Transformer&rpar;](https://www.techmeme.com/260515/p21#a260515p21)<!-- TECH:END -->
+ - [In a viral X post that parodies the old Mac vs. PC commercials, General Catalyst posted a &quot;VC vs GC&quot; video, with the VC apparently modeled after Marc Andreessen &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260515/p26#a260515p26)
+ - [ArXiv will ban researchers who upload papers full of AI slop](https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers)
+ - [Semiconductor stocks fell globally on Friday after the Trump-Xi summit concluded without major chip deals; Nvidia closed down 4.42% and AMD closed down 5.69% &lpar;Mauro Orru/Wall Street Journal&rpar;](https://www.techmeme.com/260515/p25#a260515p25)
+ - [Sources: SpaceX aims to make its IPO prospectus public by next week, targeting a June 12 listing on Nasdaq, driven by a faster-than-expected SEC review &lpar;Reuters&rpar;](https://www.techmeme.com/260515/p24#a260515p24)
+ - [Apple shares climbed to a record high as investors look past AI concerns](https://appleinsider.com/articles/26/05/15/apple-shares-climbed-to-a-record-high-as-investors-look-past-ai-concerns?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

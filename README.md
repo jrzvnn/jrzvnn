@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260515/p17#a260515p17)
- - [OpenAI now wants ChatGPT to access your bank accounts](https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection)
- - [A profile of AI video generation startup Runway, which is training models directly on observational data, is now valued at $5.3B, and added $40M in ARR in Q2 &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260515/p16#a260515p16)
- - [BioLite’s stakeable solar lights are down to a new low price for Memorial Day](https://www.theverge.com/gadgets/930969/biolite-solar-site-lights-insta360-action-camera-deal-sale)
- - [Companies Keep Slashing Employees’ Benefits for the Worst Reasons](https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/)<!-- TECH:END -->
+ - [Apple&#39;s treatment of AI coding apps could be shifting with Replit update](https://appleinsider.com/articles/26/05/15/apples-treatment-of-ai-coding-apps-could-be-shifting-with-replit-update?utm_source=rss)
+ - [One of Intel’s fastest desktop CPUs is $50 off](https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale)
+ - [OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260515/p19#a260515p19)
+ - [Spencer Pratt Is Creating Panic Over ‘Super Meth.’ It’s Not Even Real](https://www.wired.com/story/spencer-pratt-is-creating-panic-over-super-meth-the-drug-trope-that-wont-die/)
+ - [New Apple Card promotion could net applicants free AirPods Pro 3](https://appleinsider.com/articles/26/05/15/new-apple-card-promotion-could-net-applicants-free-airpods-pro-3?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

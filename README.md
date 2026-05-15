@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s treatment of AI coding apps could be shifting with Replit update](https://appleinsider.com/articles/26/05/15/apples-treatment-of-ai-coding-apps-could-be-shifting-with-replit-update?utm_source=rss)
- - [One of Intel’s fastest desktop CPUs is $50 off](https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale)
- - [OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260515/p19#a260515p19)
- - [Spencer Pratt Is Creating Panic Over ‘Super Meth.’ It’s Not Even Real](https://www.wired.com/story/spencer-pratt-is-creating-panic-over-super-meth-the-drug-trope-that-wont-die/)
- - [New Apple Card promotion could net applicants free AirPods Pro 3](https://appleinsider.com/articles/26/05/15/new-apple-card-promotion-could-net-applicants-free-airpods-pro-3?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Nord Quantique, a quantum computing startup that is pursuing a hardware-level quantum error correction approach, raised $30M at a $1.4B valuation &lpar;Sean Silcoff/Globe and Mail&rpar;](https://www.techmeme.com/260515/p23#a260515p23)
+ - [Gemini Intelligence announcement hopes to steal Apple&#39;s Siri thunder but falls short](https://appleinsider.com/articles/26/05/15/gemini-intelligence-announcement-hopes-to-steal-apples-siri-thunder-but-falls-short?utm_source=rss)
+ - [Source: Kraken cut ~150 staff after AI tools improved efficiency and its IPO may be delayed until late 2026 or early 2027 due to a drop in digital-asset prices &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260515/p22#a260515p22)
+ - [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)
+ - [OpenAI&#39;s disavowal of a liability shield in Illinois SB 3444 bill and endorsement of a stronger SB 315 suggest it is open to meaningful AI safety legislation &lpar;Transformer&rpar;](https://www.techmeme.com/260515/p21#a260515p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

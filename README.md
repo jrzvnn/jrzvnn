@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a viral X post that parodies the old Mac vs. PC commercials, General Catalyst posted a &quot;VC vs GC&quot; video, with the VC apparently modeled after Marc Andreessen &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260515/p26#a260515p26)
- - [ArXiv will ban researchers who upload papers full of AI slop](https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers)
- - [Semiconductor stocks fell globally on Friday after the Trump-Xi summit concluded without major chip deals; Nvidia closed down 4.42% and AMD closed down 5.69% &lpar;Mauro Orru/Wall Street Journal&rpar;](https://www.techmeme.com/260515/p25#a260515p25)
- - [Sources: SpaceX aims to make its IPO prospectus public by next week, targeting a June 12 listing on Nasdaq, driven by a faster-than-expected SEC review &lpar;Reuters&rpar;](https://www.techmeme.com/260515/p24#a260515p24)
- - [Apple shares climbed to a record high as investors look past AI concerns](https://appleinsider.com/articles/26/05/15/apple-shares-climbed-to-a-record-high-as-investors-look-past-ai-concerns?utm_source=rss)<!-- TECH:END -->
+ - [How tech companies are using open source initiatives to achieve critical strategic goals and how such efforts are reshaping industries like AI, AVs, and more &lpar;Bill Gurley/Bill&#39;s Substack&rpar;](https://www.techmeme.com/260515/p27#a260515p27)
+ - [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button)
+ - [The Best Outdoor Deals From the REI Anniversary Sale 2026](https://www.wired.com/story/rei-anniversary-sale-2026/)
+ - [Google Could Limit New Gmail Accounts to Only 5GB of Free Storage](https://www.cnet.com/tech/services-and-software/gmail-less-than-15gb-storage/)
+ - [Android 16 Bug Allows Apps to Ignore VPNs and Leak IP Addresses](https://www.cnet.com/tech/services-and-software/android-16-bug-allows-apps-to-ignore-vpns-and-leak-ip-addresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

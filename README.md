@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spot on](http://9gag.com/gag/a7oYWne)
- - 😝 [Now don&#39;t be sexist.](http://9gag.com/gag/a1myRL2)
- - 💣 [That&#39;s a neat discovery..](http://9gag.com/gag/aRBb0qG)
- - 😝 [Entitled erratic woman gets a reality check](http://9gag.com/gag/aryQGD7)
- - 👉 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)<!-- MEMES:END -->
+ - 😝 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 😝 [Circassian folk dance](http://9gag.com/gag/aE09Pvx)
+ - 💣 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
+ - 😝 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - 👉 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)<!-- MEMES:END -->
 
 ---
 

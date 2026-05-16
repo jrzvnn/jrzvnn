@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [On Pwn2Own Berlin 2026 day 2, competitors earned $385,750 after exploiting 15 unique zero-day vulnerabilities in Windows 11, Red Hat Enterprise Linux and more &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260516/p7#a260516p7)
+ - [Sony tries to explain that its AI Camera Assistant doesn’t suck](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant)
+ - [NPR’s Manoush Zomorodi talks about living with too much tech](https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire)
  - [In an experiment that let Claude, ChatGPT, Gemini, and Grok run radio stations, Claude tried to incite a revolution and Gemini cheerfully detailed tragic events &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260516/p6#a260516p6)
- - [Apple, Epic agree on pre-court schedule for new fee proposals](https://appleinsider.com/articles/26/05/16/apple-epic-agree-on-pre-court-schedule-for-new-fee-proposals?utm_source=rss)
- - [Craig Federighi dragged into Musk&#39;s Apple-OpenAI lawsuit](https://appleinsider.com/articles/26/05/16/craig-federighi-dragged-into-musks-apple-openai-lawsuit?utm_source=rss)
- - [Turtle Beach made a good SteelSeries headset clone that’s $50 less](https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on)
- - [Here are 40 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)<!-- TECH:END -->
+ - [Apple, Epic agree on pre-court schedule for new fee proposals](https://appleinsider.com/articles/26/05/16/apple-epic-agree-on-pre-court-schedule-for-new-fee-proposals?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

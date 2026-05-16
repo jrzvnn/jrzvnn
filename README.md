@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mixtape is a musical portrait of teenage life](https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc)
- - [The app you need to clean up your computer](https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer)
- - [These are the laptops I recommend for pretty much anyone](https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026)
- - [DOJ emissions cheating app investigation leads to record user data request](https://appleinsider.com/articles/26/05/15/doj-investigation-into-vehicle-modding-hardware-leads-to-apple-subpoena?utm_source=rss)
- - [Apple shares closed over $300 for the first time as investors look past AI concerns](https://appleinsider.com/articles/26/05/15/apple-shares-climbed-to-a-record-high-as-investors-look-past-ai-concerns?utm_source=rss)<!-- TECH:END -->
+ - [Here are 40 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)
+ - [Apple, Epic agree on pre-court schedule for new fee proposals](https://appleinsider.com/articles/26/05/16/apple-epic-agree-on-pre-court-schedule-for-new-fee-proposals?utm_source=rss)
+ - [How MLB&#39;s and T-Mobile&#39;s ABS Challenge System Corrects Strike Calls in Seconds](https://www.cnet.com/tech/mobile/how-mlbs-and-t-mobiles-abs-challenge-system-corrects-strike-calls-in-seconds/)
+ - [A Gemini-Fueled Fitbit Could Be the Muscle That Google&#39;s Smart Glasses Need](https://www.cnet.com/tech/mobile/a-gemini-fueled-fitbit-could-be-the-muscle-that-googles-smart-glasses-need/)
+ - [Phone Batteries Keep Getting Better. So Why Are We Always Charging?](https://www.cnet.com/tech/mobile/features/phone-battery-life-silicon-carbon-what-next/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

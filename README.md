@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 40 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)
+ - [In an experiment that let Claude, ChatGPT, Gemini, and Grok run radio stations, Claude tried to incite a revolution and Gemini cheerfully detailed tragic events &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260516/p6#a260516p6)
  - [Apple, Epic agree on pre-court schedule for new fee proposals](https://appleinsider.com/articles/26/05/16/apple-epic-agree-on-pre-court-schedule-for-new-fee-proposals?utm_source=rss)
- - [How MLB&#39;s and T-Mobile&#39;s ABS Challenge System Corrects Strike Calls in Seconds](https://www.cnet.com/tech/mobile/how-mlbs-and-t-mobiles-abs-challenge-system-corrects-strike-calls-in-seconds/)
- - [A Gemini-Fueled Fitbit Could Be the Muscle That Google&#39;s Smart Glasses Need](https://www.cnet.com/tech/mobile/a-gemini-fueled-fitbit-could-be-the-muscle-that-googles-smart-glasses-need/)
- - [Phone Batteries Keep Getting Better. So Why Are We Always Charging?](https://www.cnet.com/tech/mobile/features/phone-battery-life-silicon-carbon-what-next/)<!-- TECH:END -->
+ - [Craig Federighi dragged into Musk&#39;s Apple-OpenAI lawsuit](https://appleinsider.com/articles/26/05/16/craig-federighi-dragged-into-musks-apple-openai-lawsuit?utm_source=rss)
+ - [Turtle Beach made a good SteelSeries headset clone that’s $50 less](https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on)
+ - [Here are 40 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

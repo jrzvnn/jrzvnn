@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
  - 😝 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
- - 💣 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
- - 😝 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
+ - 💣 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
+ - 😝 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
  - 👉 [\u201cSo easy even an idiot can do it\u201d they told me](http://9gag.com/gag/ayNbeEq)<!-- MEMES:END -->
 
 ---

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
- - 😝 [Circassian folk dance](http://9gag.com/gag/aE09Pvx)
- - 💣 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
- - 😝 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - 😝 [Your daily dose of `Oof..`](http://9gag.com/gag/ae9nDdm)
+ - 😝 [Women hate women more than any man ever could.](http://9gag.com/gag/aByAgv2)
+ - 💣 [Circassian folk dance](http://9gag.com/gag/aE09Pvx)
+ - 😝 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
  - 👉 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)<!-- MEMES:END -->
 
 ---

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Your daily dose of `Oof..`](http://9gag.com/gag/ae9nDdm)
- - 😝 [Women hate women more than any man ever could.](http://9gag.com/gag/aByAgv2)
- - 💣 [Circassian folk dance](http://9gag.com/gag/aE09Pvx)
- - 😝 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
- - 👉 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)<!-- MEMES:END -->
+ - 😝 [Circassian folk dance](http://9gag.com/gag/aE09Pvx)
+ - 💣 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
+ - 😝 [Entitled erratic woman gets a reality check](http://9gag.com/gag/aryQGD7)
+ - 👉 [Women hate women more than any man ever could.](http://9gag.com/gag/aByAgv2)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your daily dose of `Oof..`](http://9gag.com/gag/ae9nDdm)
  - 😝 [Circassian folk dance](http://9gag.com/gag/aE09Pvx)
- - 💣 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
- - 😝 [Entitled erratic woman gets a reality check](http://9gag.com/gag/aryQGD7)
- - 👉 [Women hate women more than any man ever could.](http://9gag.com/gag/aByAgv2)<!-- MEMES:END -->
+ - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
+ - 💣 [Awkward situation](http://9gag.com/gag/aND7Ybw)
+ - 😝 [They could have chosen any random Greek weather girl to be Helen of Troy](http://9gag.com/gag/apR4Np8)
+ - 👉 [Entitled erratic woman gets a reality check](http://9gag.com/gag/aryQGD7)<!-- MEMES:END -->
 
 ---
 

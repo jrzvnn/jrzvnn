@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Bureau of Labor Statistics data: employment in 18 AI-exposed occupations fell 0.2% between May 2024 and May 2025, while the broader US labor market rose 0.8% &lpar;Matthew Boesler/Bloomberg&rpar;](https://www.techmeme.com/260516/p4#a260516p4)
- - [LA-based Fasset, which offers stablecoin-powered banking and cross-border payments services across Asia, Africa, and the Middle East, raised a $51M Series B &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/260516/p3#a260516p3)
- - [Sources: Kalshi has probed and flagged 400+ suspicious trades YTD, more than 2x the number it investigated in all of 2025; Polymarket has seen a similar uptick &lpar;Anirban Sen/Reuters&rpar;](https://www.techmeme.com/260516/p2#a260516p2)
- - [Sportsman&#39;s Warehouse Promo Code: Save in May 2026](https://www.wired.com/story/sportsmans-warehouse-promo-code/)
- - [Surfshark Promo Codes: 87% Off | May 2026](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
+ - [Best Indoor Garden Systems: I&#39;ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
+ - [After Struggling With EVs, US Automakers Pivot to Energy](https://www.wired.com/story/after-struggling-with-evs-us-automakers-pivot-to-energy/)
+ - [Some Asexuals Are Using AI Companions for Intimacy Without the Sex](https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/)
+ - [Asteroid 2026 JH2 Is About to Fly Right Past Earth—Relatively Speaking](https://www.wired.com/story/asteroid-2026-jh2-is-about-to-fly-right-past-the-earth-relatively-speaking/)
+ - [US Bureau of Labor Statistics data: employment in 18 AI-exposed occupations fell 0.2% between May 2024 and May 2025, while the broader US labor market rose 0.8% &lpar;Matthew Boesler/Bloomberg&rpar;](https://www.techmeme.com/260516/p4#a260516p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wakanda forever](http://9gag.com/gag/agmD5mg)
- - 😝 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
- - 💣 [Advertising Done Right](http://9gag.com/gag/aXPygMD)
- - 😝 [Wise words](http://9gag.com/gag/aLnZwr5)
- - 👉 [It&#39;s true](http://9gag.com/gag/aND7gg0)<!-- MEMES:END -->
+ - 😝 [He tried to lift around 80-100kg piles of sulfur pieces](http://9gag.com/gag/a9yxRZ1)
+ - 😝 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 💣 [That&#39;s a neat discovery..](http://9gag.com/gag/aRBb0qG)
+ - 😝 [Now don&#39;t be sexist.](http://9gag.com/gag/a1myRL2)
+ - 👉 [UK police handcuff the 18y victim of stabbing to `secure the scene` because the attacker Vikrum Digwa said he was racially abused, victim bleeds out and dies soon after](http://9gag.com/gag/aPAERWV)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
- - 😝 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
- - 💣 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
  - 😝 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
- - 👉 [Spot on](http://9gag.com/gag/a7oYWne)<!-- MEMES:END -->
+ - 😝 [Entitled erratic woman gets a reality check](http://9gag.com/gag/aryQGD7)
+ - 💣 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
+ - 😝 [UK police handcuff the 18y victim of stabbing to `secure the scene` because the attacker Vikrum Digwa said he was racially abused, victim bleeds out and dies soon after](http://9gag.com/gag/aPAERWV)
+ - 👉 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)<!-- MEMES:END -->
 
 ---
 

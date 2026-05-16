@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wakanda forever](http://9gag.com/gag/agmD5mg)
  - 😝 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
- - 😝 [Entitled erratic woman gets a reality check](http://9gag.com/gag/aryQGD7)
- - 💣 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
- - 😝 [UK police handcuff the 18y victim of stabbing to `secure the scene` because the attacker Vikrum Digwa said he was racially abused, victim bleeds out and dies soon after](http://9gag.com/gag/aPAERWV)
- - 👉 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)<!-- MEMES:END -->
+ - 💣 [Advertising Done Right](http://9gag.com/gag/aXPygMD)
+ - 😝 [Wise words](http://9gag.com/gag/aLnZwr5)
+ - 👉 [It&#39;s true](http://9gag.com/gag/aND7gg0)<!-- MEMES:END -->
 
 ---
 

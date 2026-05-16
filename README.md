@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
- - 😝 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
- - 💣 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
- - 😝 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
- - 👉 [\u201cSo easy even an idiot can do it\u201d they told me](http://9gag.com/gag/ayNbeEq)<!-- MEMES:END -->
+ - 😝 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
+ - 💣 [Re-Cried Beans](http://9gag.com/gag/a9yxKoK)
+ - 😝 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
+ - 👉 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)<!-- MEMES:END -->
 
 ---
 

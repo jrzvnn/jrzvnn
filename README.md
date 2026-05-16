@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Circassian folk dance](http://9gag.com/gag/aE09Pvx)
+ - 😝 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
+ - 😝 [Potentially Stingy Situation](http://9gag.com/gag/a9yxR1Z)
+ - 💣 [Pathetic](http://9gag.com/gag/aND7gGv)
  - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
- - 💣 [Awkward situation](http://9gag.com/gag/aND7Ybw)
- - 😝 [They could have chosen any random Greek weather girl to be Helen of Troy](http://9gag.com/gag/apR4Np8)
- - 👉 [Entitled erratic woman gets a reality check](http://9gag.com/gag/aryQGD7)<!-- MEMES:END -->
+ - 👉 [Awkward situation](http://9gag.com/gag/aND7Ybw)<!-- MEMES:END -->
 
 ---
 

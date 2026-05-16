@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nolan bent the knee](http://9gag.com/gag/aZZ6Lg6)
  - 😝 [Don\u2019t tell me what to do](http://9gag.com/gag/aqyPgrv)
- - 💣 [Only real ones remember this bad boy](http://9gag.com/gag/aW4rYrx)
- - 😝 [When&#39;s the last time you skipped!? Do it!](http://9gag.com/gag/aND7gKA)
+ - 😝 [Nolan bent the knee](http://9gag.com/gag/aZZ6Lg6)
+ - 💣 [This is the world...in 2026](http://9gag.com/gag/aYQ37vx)
+ - 😝 [Only real ones remember this bad boy](http://9gag.com/gag/aW4rYrx)
  - 👉 [Henry Cavill while filming Highlander in \u0141\u00f3d\u017a was approached by a LFGS owner who gave him box set of Custodes.](http://9gag.com/gag/a7oYw3q)<!-- MEMES:END -->
 
 ---

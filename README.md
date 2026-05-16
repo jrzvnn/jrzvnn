@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Indoor Garden Systems: I&#39;ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
- - [After Struggling With EVs, US Automakers Pivot to Energy](https://www.wired.com/story/after-struggling-with-evs-us-automakers-pivot-to-energy/)
- - [Some Asexuals Are Using AI Companions for Intimacy Without the Sex](https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/)
- - [Asteroid 2026 JH2 Is About to Fly Right Past Earth—Relatively Speaking](https://www.wired.com/story/asteroid-2026-jh2-is-about-to-fly-right-past-the-earth-relatively-speaking/)
- - [US Bureau of Labor Statistics data: employment in 18 AI-exposed occupations fell 0.2% between May 2024 and May 2025, while the broader US labor market rose 0.8% &lpar;Matthew Boesler/Bloomberg&rpar;](https://www.techmeme.com/260516/p4#a260516p4)<!-- TECH:END -->
+ - [Old Oil and Gas Wells Could Find Second Life Producing Clean Energy](https://www.wired.com/story/oil-wells-second-life-clean-energy/)
+ - [How to Control Everything on Your Phone With Your Voice &lpar;iOS and Android&rpar;](https://www.wired.com/story/control-everything-on-your-phone-with-your-voice-ios-android/)
+ - [Shenzhen-listed RoboTechnik, which claims to be the largest silicon photonics tool maker and whose stock is up 340% over the past year, files for a HK listing &lpar;Zinnia Lee/Forbes&rpar;](https://www.techmeme.com/260516/p5#a260516p5)
+ - [Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording](https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/)
+ - [Best Indoor Garden Systems: I&#39;ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hill County, which faced eight new data centers, passed what may be Texas&#39; first county-wide ban on them, for one year; the state trails only VA in data centers &lpar;Mike Lee/Politico&rpar;](https://www.techmeme.com/260516/p10#a260516p10)
  - [SF vibes are frenetic over the huge divide in outcomes and career uncertainty for software engineers; over 5 years ~10K people in AI attained retirement wealth &lpar;Deedy/@deedydas&rpar;](https://www.techmeme.com/260516/p9#a260516p9)
  - [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools)
  - [ASML will partner with Tata Electronics to help it bring an $11B 300mm chip factory online in Gujarat, expanding India&#39;s ability to produce chips domestically &lpar;Bloomberg&rpar;](https://www.techmeme.com/260516/p8#a260516p8)
- - [On Pwn2Own Berlin 2026 day 2, competitors earned $385,750 after exploiting 15 unique zero-day vulnerabilities in Windows 11, Red Hat Enterprise Linux and more &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260516/p7#a260516p7)
- - [Sony tries to explain that its AI Camera Assistant doesn’t suck](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant)<!-- TECH:END -->
+ - [On Pwn2Own Berlin 2026 day 2, competitors earned $385,750 after exploiting 15 unique zero-day vulnerabilities in Windows 11, Red Hat Enterprise Linux and more &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260516/p7#a260516p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

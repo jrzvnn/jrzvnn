@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
- - 😝 [Potentially Stingy Situation](http://9gag.com/gag/a9yxR1Z)
- - 💣 [Pathetic](http://9gag.com/gag/aND7gGv)
- - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
- - 👉 [Awkward situation](http://9gag.com/gag/aND7Ybw)<!-- MEMES:END -->
+ - 😝 [UK police handcuff the 18y victim of stabbing to `secure the scene` because the attacker Vikrum Digwa said he was racially abused, victim bleeds out and dies soon after](http://9gag.com/gag/aPAERWV)
+ - 💣 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
+ - 😝 [Pathetic](http://9gag.com/gag/aND7gGv)
+ - 👉 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)<!-- MEMES:END -->
 
 ---
 

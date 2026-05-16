@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
- - 😝 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
- - 💣 [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)
- - 😝 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
- - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
+ - 😝 [Nolan bent the knee](http://9gag.com/gag/aZZ6Lg6)
+ - 😝 [Don\u2019t tell me what to do](http://9gag.com/gag/aqyPgrv)
+ - 💣 [Only real ones remember this bad boy](http://9gag.com/gag/aW4rYrx)
+ - 😝 [When&#39;s the last time you skipped!? Do it!](http://9gag.com/gag/aND7gKA)
+ - 👉 [Henry Cavill while filming Highlander in \u0141\u00f3d\u017a was approached by a LFGS owner who gave him box set of Custodes.](http://9gag.com/gag/a7oYw3q)<!-- MEMES:END -->
 
 ---
 

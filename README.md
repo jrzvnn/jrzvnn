@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t tell me what to do](http://9gag.com/gag/aqyPgrv)
- - 😝 [Nolan bent the knee](http://9gag.com/gag/aZZ6Lg6)
- - 💣 [This is the world...in 2026](http://9gag.com/gag/aYQ37vx)
- - 😝 [Only real ones remember this bad boy](http://9gag.com/gag/aW4rYrx)
- - 👉 [Henry Cavill while filming Highlander in \u0141\u00f3d\u017a was approached by a LFGS owner who gave him box set of Custodes.](http://9gag.com/gag/a7oYw3q)<!-- MEMES:END -->
+ - 😝 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 😝 [Re-Cried Beans](http://9gag.com/gag/a9yxKoK)
+ - 💣 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - 😝 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
+ - 👉 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)<!-- MEMES:END -->
 
 ---
 

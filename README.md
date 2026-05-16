@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Old Oil and Gas Wells Could Find Second Life Producing Clean Energy](https://www.wired.com/story/oil-wells-second-life-clean-energy/)
- - [How to Control Everything on Your Phone With Your Voice &lpar;iOS and Android&rpar;](https://www.wired.com/story/control-everything-on-your-phone-with-your-voice-ios-android/)
- - [Shenzhen-listed RoboTechnik, which claims to be the largest silicon photonics tool maker and whose stock is up 340% over the past year, files for a HK listing &lpar;Zinnia Lee/Forbes&rpar;](https://www.techmeme.com/260516/p5#a260516p5)
- - [Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording](https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/)
- - [Best Indoor Garden Systems: I&#39;ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)<!-- TECH:END -->
+ - [Mixtape is a musical portrait of teenage life](https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc)
+ - [The app you need to clean up your computer](https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer)
+ - [These are the laptops I recommend for pretty much anyone](https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026)
+ - [DOJ emissions cheating app investigation leads to record user data request](https://appleinsider.com/articles/26/05/15/doj-investigation-into-vehicle-modding-hardware-leads-to-apple-subpoena?utm_source=rss)
+ - [Apple shares closed over $300 for the first time as investors look past AI concerns](https://appleinsider.com/articles/26/05/15/apple-shares-climbed-to-a-record-high-as-investors-look-past-ai-concerns?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
- - [YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/260515/p31#a260515p31)
- - [Filings: YouTube and Snap reached agreements to settle a lawsuit headed to trial in June over claims addiction to social media has disrupted students&#39; learning &lpar;Bloomberg&rpar;](https://www.techmeme.com/260515/p30#a260515p30)
- - [Dyson&#39;s New Fan and Air Purifier Combo Follows You Around the Room to Deliver Clean Air](https://www.cnet.com/news/dysons-new-fan-and-air-purifier-combo-follows-you-around-the-room-to-deliver-clean-air/)
- - [Sources: the US FTC is investigating whether Arm is trying to illegally monopolize parts of the semiconductor market &lpar;Josh Sisco/Bloomberg&rpar;](https://www.techmeme.com/260515/p29#a260515p29)<!-- TECH:END -->
+ - [Sources: OpenAI acquired Weights.gg, which offered AI tools to create clones of people&#39;s voices, earlier this year; PitchBook: Weights.gg had raised roughly $4M &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260515/p34#a260515p34)
+ - [Sources detail friction between Samsung&#39;s memory and logic chip businesses over higher bonuses for memory chip workers, leading many to leave or apply elsewhere &lpar;Hyunjoo Jin/Reuters&rpar;](https://www.techmeme.com/260515/p33#a260515p33)
+ - [Seoul-based WIRobotics, which develops wearable and humanoid robots and is collaborating with Nvidia and AWS, raised a ~$68M Series B led by JB Investment &lpar;Lee Jaewoon/The Elec&rpar;](https://www.techmeme.com/260515/p32#a260515p32)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 16, #600](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-16-600/)
+ - [SwitchBot&#39;s New Smart Lock Uses Face ID to Unlock Your Door](https://www.cnet.com/home/security/switchbots-smart-deadbolt-uses-face-id-to-unlock-your-door/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

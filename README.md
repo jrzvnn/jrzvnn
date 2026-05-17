@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
- - 😝 [UK police handcuff the 18y victim of stabbing to `secure the scene` because the attacker Vikrum Digwa said he was racially abused, victim bleeds out and dies soon after](http://9gag.com/gag/aPAERWV)
- - 💣 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
- - 😝 [Pathetic](http://9gag.com/gag/aND7gGv)
- - 👉 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)<!-- MEMES:END -->
+ - 😝 [Wise words](http://9gag.com/gag/aLnZwr5)
+ - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
+ - 💣 [Woman&#39;s egg: Omg, I have boyfriend!](http://9gag.com/gag/aByAmYP)
+ - 😝 [Did you count how many layers there are? Raatoran of Kahramanmara\u015f Cinnaralti](http://9gag.com/gag/azxWmyb)
+ - 👉 [Bad news guys](http://9gag.com/gag/a1myr7Y)<!-- MEMES:END -->
 
 ---
 

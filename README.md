@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oddity is masterfully tense horror from the director of Hokum](https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum)
- - [Fujifilm’s X Half is even more whimsical with a $300 price cut](https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale)
- - [ElliQ is a surprisingly helpful companion robot for older adults](https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on)
- - [Doctors Explain Why Your Smartwatch Is Giving You Anxiety, and How to Stop It](https://www.cnet.com/health/mental/doctors-explain-why-smartwatch-giving-you-anxiety-how-stop-it/)
- - [Developers say Chinese AI labs lead US rivals in video generation, as ByteDance and Kuaishou train models on vast short-form video libraries from their own apps &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260517/p6#a260517p6)<!-- TECH:END -->
+ - [Privacy &amp; data security will remain tantamount for Apple&#39;s 2026 AI push](https://appleinsider.com/articles/26/05/17/privacy-data-security-will-remain-tantamount-for-apples-2026-ai-push?utm_source=rss)
+ - [Revamped Siri may launch in beta, despite two year delay](https://appleinsider.com/articles/26/05/17/revamped-siri-may-launch-in-beta-despite-two-year-delay?utm_source=rss)
+ - [Sources: Apple&#39;s revamped Siri may launch in beta, and will have an option to auto-delete chats; Apple plans to add Suggested Genmoji to iOS 27 and iPadOS 27 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260517/p7#a260517p7)
+ - [Apple Watch Series 12 probably won&#39;t get a major update](https://appleinsider.com/articles/26/05/17/apple-watch-series-12-probably-wont-get-a-major-update?utm_source=rss)
+ - [Oddity is masterfully tense horror from the director of Hokum](https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

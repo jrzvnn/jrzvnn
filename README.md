@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wise words](http://9gag.com/gag/aLnZwr5)
- - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
- - 💣 [Woman&#39;s egg: Omg, I have boyfriend!](http://9gag.com/gag/aByAmYP)
- - 😝 [Did you count how many layers there are? Raatoran of Kahramanmara\u015f Cinnaralti](http://9gag.com/gag/azxWmyb)
- - 👉 [Bad news guys](http://9gag.com/gag/a1myr7Y)<!-- MEMES:END -->
+ - 😝 [Potentially Stingy Situation](http://9gag.com/gag/a9yxR1Z)
+ - 😝 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
+ - 💣 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
+ - 😝 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - 👉 [Pathetic](http://9gag.com/gag/aND7gGv)<!-- MEMES:END -->
 
 ---
 

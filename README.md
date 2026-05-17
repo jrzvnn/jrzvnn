@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
- - 😝 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
- - 💣 [A field of clovers sounds delightful.](http://9gag.com/gag/a3461P3)
- - 😝 [New innovation](http://9gag.com/gag/aND7PXK)
- - 👉 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)<!-- MEMES:END -->
+ - 😝 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
+ - 😝 [What is the soul secret to get a man&#39;s heart? Food](http://9gag.com/gag/avyM5XZ)
+ - 💣 [How to mess with your office/college friends](http://9gag.com/gag/ajPzgqw)
+ - 😝 [They could have chosen any random Greek weather girl to be Helen of Troy](http://9gag.com/gag/apR4Np8)
+ - 👉 [American Problem.](http://9gag.com/gag/ajPzmZx)<!-- MEMES:END -->
 
 ---
 

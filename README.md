@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
- - 😝 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
- - 💣 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
- - 😝 [Finally some encryption](http://9gag.com/gag/avyM5vE)
- - 👉 [Pathetic](http://9gag.com/gag/aND7gGv)<!-- MEMES:END -->
+ - 😝 [American Problem.](http://9gag.com/gag/ajPzmZx)
+ - 😝 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
+ - 💣 [How to mess with your office/college friends](http://9gag.com/gag/ajPzgqw)
+ - 😝 [Tis a sad day](http://9gag.com/gag/awyEzGW)
+ - 👉 [Ah yes, an amazing future to look forward to](http://9gag.com/gag/aqyPG4v)<!-- MEMES:END -->
 
 ---
 

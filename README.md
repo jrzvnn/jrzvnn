@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: mass adoption of smartphones and social media may be a primary driver of declining birthrates globally, in part by reducing in-person socializing &lpar;John Burn-Murdoch/Financial Times&rpar;](https://www.techmeme.com/260517/p10#a260517p10)
- - [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement)
- - [Publicis agrees to acquire LiveRamp, which allows companies to share and build new data sets and models that can power agentic frameworks, for $2.2B in cash &lpar;Alison Weissbrot/Adweek&rpar;](https://www.techmeme.com/260517/p9#a260517p9)
- - [Sources: DayOne, the spinoff of China&#39;s largest data center operator GDS Holdings, plans dual IPO in Singapore and NY, seeking to raise $5B at a ~$20B valuation &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260517/p8#a260517p8)
- - [Taylor Sheridan Has 11 TV Shows That Are Streaming. Here&#39;s Where to Watch Them All](https://www.cnet.com/tech/services-and-software/taylor-sheridan-11-tv-shows-streaming-how-to-watch/)<!-- TECH:END -->
+ - [AirPods Max 2 vs Heavys H1H: Heavy metal headphones compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-2-vs-heavys-h1h-heavy-metal-headphones-compared?utm_source=rss)
+ - [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
+ - [Grafana says hackers have accessed its GitHub environment and demanded a ransom to prevent the release of its codebase; Grafana refused to pay &lpar;The Hacker News&rpar;](https://www.techmeme.com/260517/p11#a260517p11)
+ - [Privacy &amp; data security will remain central to Apple&#39;s 2026 AI push](https://appleinsider.com/articles/26/05/17/privacy-data-security-will-remain-tantamount-for-apples-2026-ai-push?utm_source=rss)
+ - [Analysis: mass adoption of smartphones and social media may be a primary driver of declining birthrates globally, in part by reducing in-person socializing &lpar;John Burn-Murdoch/Financial Times&rpar;](https://www.techmeme.com/260517/p10#a260517p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

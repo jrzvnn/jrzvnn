@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)
- - 😝 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
+ - 😝 [Pathetic](http://9gag.com/gag/aND7gGv)
+ - 😝 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
  - 💣 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
  - 😝 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)
  - 👉 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)<!-- MEMES:END -->

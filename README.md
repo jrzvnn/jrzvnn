@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cats will remember](http://9gag.com/gag/ayNbegM)
- - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
- - 💣 [Woman&#39;s egg: Omg, I have boyfriend!](http://9gag.com/gag/aByAmYP)
- - 😝 [Predator remake by DrClown](http://9gag.com/gag/avyM58d)
- - 👉 [John Scatman Turned His Severe Lifelong Stutter Into His Greatest Strength, inspiring the World with His iconic Dance Hit `Scatman`.](http://9gag.com/gag/aND7pjK)<!-- MEMES:END -->
+ - 😝 [Woman&#39;s egg: Omg, I have boyfriend!](http://9gag.com/gag/aByAmYP)
+ - 💣 [Predator remake by DrClown](http://9gag.com/gag/avyM58d)
+ - 😝 [Spot on](http://9gag.com/gag/a7oYWne)
+ - 👉 [Connor Leahy about technology; tbh he does make sense to me](http://9gag.com/gag/a9yxEwm)<!-- MEMES:END -->
 
 ---
 

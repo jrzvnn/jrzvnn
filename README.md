@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts: Stuxnet-linked Fast16 malware, designed to subvert nuclear weapons testing simulations, was likely part of a campaign to slow Iran&#39;s nuclear ambitions &lpar;Kim Zetter/ZERO DAY&rpar;](https://www.techmeme.com/260517/p4#a260517p4)
+ - [King&#39;s Cross, where Google&#39;s new UK HQ is due to open later this year, has become London&#39;s new tech, VC, and AI hub, attracting OpenAI, Anthropic, and others &lpar;John Gapper/Financial Times&rpar;](https://www.techmeme.com/260517/p3#a260517p3)
  - [Milan-based Webidoo, which develops an operational layer designed to help SMBs access AI tools, raised $25M led by IXC3 for North American expansion &lpar;David Cendon Garcia/EU-Startups&rpar;](https://www.techmeme.com/260517/p2#a260517p2)
  - [Filings: in Q1, Trump traded $220M-$750M in NVDA, MSFT, AMZN, META, ORCL, and others; millions of dollars of NVDA were bought shortly before major news &lpar;Kevin Breuninger/CNBC&rpar;](https://www.techmeme.com/260517/p1#a260517p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 17, #601](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-17-601/)
- - [OpenAI partners with Malta&#39;s AI for All initiative to give citizens a free year of ChatGPT Plus if they complete a University of Malta AI literacy course &lpar;Cointelegraph&rpar;](https://www.techmeme.com/260516/p13#a260516p13)
- - [Nectar Social, which offers an agentic OS for marketers, raised a $30M Series A led by Menlo Ventures, with GV and True Ventures among investors &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260516/p12#a260516p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-17/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

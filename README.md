@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Publicis agrees to acquire LiveRamp, which allows companies to share and build new data sets and models that can power agentic frameworks, for $2.2B in cash &lpar;Alison Weissbrot/Adweek&rpar;](https://www.techmeme.com/260517/p9#a260517p9)
+ - [Sources: DayOne, the spinoff of China&#39;s largest data center operator GDS Holdings, plans dual IPO in Singapore and NY, seeking to raise $5B at a ~$20B valuation &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260517/p8#a260517p8)
  - [Genmoji in iOS 27 will use what you type and what&#39;s in Photos for suggestions](https://appleinsider.com/articles/26/05/17/genmoji-in-ios-27-will-use-what-you-type-and-whats-in-photos-for-suggestions?utm_source=rss)
  - [Privacy &amp; data security will remain tantamount for Apple&#39;s 2026 AI push](https://appleinsider.com/articles/26/05/17/privacy-data-security-will-remain-tantamount-for-apples-2026-ai-push?utm_source=rss)
- - [Revamped Siri may launch in beta, despite two year delay](https://appleinsider.com/articles/26/05/17/revamped-siri-may-launch-in-beta-despite-two-year-delay?utm_source=rss)
- - [Sources: Apple&#39;s revamped Siri may launch in beta, and will have an option to auto-delete chats; Apple plans to add Suggested Genmoji to iOS 27 and iPadOS 27 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260517/p7#a260517p7)
- - [Apple Watch Series 12 probably won&#39;t get a major update](https://appleinsider.com/articles/26/05/17/apple-watch-series-12-probably-wont-get-a-major-update?utm_source=rss)<!-- TECH:END -->
+ - [Revamped Siri may launch in beta, despite two year delay](https://appleinsider.com/articles/26/05/17/revamped-siri-may-launch-in-beta-despite-two-year-delay?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A field of clovers sounds delightful.](http://9gag.com/gag/a3461P3)
- - 😝 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
- - 💣 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
- - 😝 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
+ - 😝 [Choose a side](http://9gag.com/gag/aND7gdv)
+ - 💣 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
+ - 😝 [New innovation](http://9gag.com/gag/aND7PXK)
  - 👉 [Pathetic](http://9gag.com/gag/aND7gGv)<!-- MEMES:END -->
 
 ---

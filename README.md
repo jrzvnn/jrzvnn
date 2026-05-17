@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Euphoria&#39; Season 3, Episode 6: Release Date and Time on HBO Max](https://www.cnet.com/tech/services-and-software/euphoria-season-3-episode-6-release-date-and-time-on-hbo-max/)
- - [Vietnam&#39;s government, which once saw video games as a social risk, named gaming as one of its key cultural industries in 2025 and now promotes them at expos &lpar;Bloomberg&rpar;](https://www.techmeme.com/260516/p11#a260516p11)
- - [Hill County, which faced eight new data centers, passed what may be Texas&#39; first county-wide ban on them, for one year; the state trails only VA in data centers &lpar;Mike Lee/Politico&rpar;](https://www.techmeme.com/260516/p10#a260516p10)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 17 #805](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-17-805/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 17, #1071](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-17-1071/)<!-- TECH:END -->
+ - [Milan-based Webidoo, which develops an operational layer designed to help SMBs access AI tools, raised $25M led by IXC3 for North American expansion &lpar;David Cendon Garcia/EU-Startups&rpar;](https://www.techmeme.com/260517/p2#a260517p2)
+ - [Filings: in Q1, Trump traded $220M-$750M in NVDA, MSFT, AMZN, META, ORCL, and others; millions of dollars of NVDA were bought shortly before major news &lpar;Kevin Breuninger/CNBC&rpar;](https://www.techmeme.com/260517/p1#a260517p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 17, #601](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-17-601/)
+ - [OpenAI partners with Malta&#39;s AI for All initiative to give citizens a free year of ChatGPT Plus if they complete a University of Malta AI literacy course &lpar;Cointelegraph&rpar;](https://www.techmeme.com/260516/p13#a260516p13)
+ - [Nectar Social, which offers an agentic OS for marketers, raised a $30M Series A led by Menlo Ventures, with GV and True Ventures among investors &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260516/p12#a260516p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

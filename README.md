@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of SAS CEO Jim Goodnight, the 83-year-old who co-founded the 50-year-old analytics firm and holds a ~67% stake worth $13.3B, as AI tests SAS&#39; strategy &lpar;Phoebe Liu/Forbes&rpar;](https://www.techmeme.com/260517/p5#a260517p5)
- - [Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble](https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/)
- - [Experts: Stuxnet-linked Fast16 malware, designed to subvert nuclear weapons testing simulations, was likely part of a campaign to slow Iran&#39;s nuclear ambitions &lpar;Kim Zetter/ZERO DAY&rpar;](https://www.techmeme.com/260517/p4#a260517p4)
- - [King&#39;s Cross, where Google&#39;s new UK HQ is due to open later this year, has become London&#39;s new tech, VC, and AI hub, attracting OpenAI, Anthropic, and others &lpar;John Gapper/Financial Times&rpar;](https://www.techmeme.com/260517/p3#a260517p3)
- - [Milan-based Webidoo, which develops an operational layer designed to help SMBs access AI tools, raised $25M led by IXC3 for North American expansion &lpar;David Cendon Garcia/EU-Startups&rpar;](https://www.techmeme.com/260517/p2#a260517p2)<!-- TECH:END -->
+ - [The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet](https://www.wired.com/story/best-grills-and-smart-grills/)
+ - [Take Control of Your Debt With These Free Tools](https://www.wired.com/story/free-debt-calculator-apps-services/)
+ - [If You’re a Serious Bowler, You Need to Know About Bowling Lane Oil](https://www.wired.com/story/bowling-lane-oil/)
+ - [The First Atomic Bomb Test in 1945 Created an Entirely New Material](https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 17 #805](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-17-805/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

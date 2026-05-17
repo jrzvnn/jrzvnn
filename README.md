@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: How the Long Island truck hijackers were caught](https://appleinsider.com/articles/26/05/17/crime-blotter-how-the-long-island-truck-hijackers-were-caught?utm_source=rss)
+ - [Oto Smart Sprinkler Review &lpar;2026&rpar;: Solar-Powered and Simple to Use](https://www.wired.com/review/oto-smart-sprinkler/)
  - [The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet](https://www.wired.com/story/best-grills-and-smart-grills/)
  - [Take Control of Your Debt With These Free Tools](https://www.wired.com/story/free-debt-calculator-apps-services/)
- - [If You’re a Serious Bowler, You Need to Know About Bowling Lane Oil](https://www.wired.com/story/bowling-lane-oil/)
- - [The First Atomic Bomb Test in 1945 Created an Entirely New Material](https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 17 #805](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-17-805/)<!-- TECH:END -->
+ - [If Your iPhone Battery&#39;s Draining Faster After iOS 26.5, Don&#39;t Panic](https://www.cnet.com/tech/services-and-software/if-your-iphone-batterys-draining-faster-after-ios-26-5-dont-panic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

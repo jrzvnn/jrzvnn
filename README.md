@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cats will remember](http://9gag.com/gag/ayNbegM)
- - 😝 [Woman&#39;s egg: Omg, I have boyfriend!](http://9gag.com/gag/aByAmYP)
- - 💣 [Predator remake by DrClown](http://9gag.com/gag/avyM58d)
- - 😝 [Spot on](http://9gag.com/gag/a7oYWne)
- - 👉 [Connor Leahy about technology; tbh he does make sense to me](http://9gag.com/gag/a9yxEwm)<!-- MEMES:END -->
+ - 😝 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 😝 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
+ - 💣 [Pathetic](http://9gag.com/gag/aND7gGv)
+ - 😝 [Old news. Jamiroquai broke up with Winona Ryder because of high sexdrive and big tetten.. it&#39;s not that big](http://9gag.com/gag/aYQ3oMv)
+ - 👉 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)<!-- MEMES:END -->
 
 ---
 

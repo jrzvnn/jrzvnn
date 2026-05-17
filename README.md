@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Shein is acquiring DTC clothing retailer Everlane, which focuses on sustainability and &quot;radical transparency&quot;, in a $100M deal &lpar;Lauren Sherman/Puck&rpar;](https://www.techmeme.com/260517/p13#a260517p13)
  - [Microsoft is retiring Teams’ Together Mode](https://www.theverge.com/tech/932215/microsoft-teams-together-mode)
  - [Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue &lpar;The Information&rpar;](https://www.techmeme.com/260517/p12#a260517p12)
  - [Sunday Reboot: Liquid Glass appreciation, Cook in China, and Cats](https://appleinsider.com/articles/26/05/17/sunday-reboot-liquid-glass-appreciation-cook-in-china-and-cats?utm_source=rss)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 18, #602](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-18-602/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 18 #806](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-18-806/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 18, #602](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-18-602/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: mass adoption of smartphones and social media may be a primary driver of declining birthrates globally, in part by reducing in-person socializing &lpar;John Burn-Murdoch/Financial Times&rpar;](https://www.techmeme.com/260517/p10#a260517p10)
+ - [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement)
  - [Publicis agrees to acquire LiveRamp, which allows companies to share and build new data sets and models that can power agentic frameworks, for $2.2B in cash &lpar;Alison Weissbrot/Adweek&rpar;](https://www.techmeme.com/260517/p9#a260517p9)
  - [Sources: DayOne, the spinoff of China&#39;s largest data center operator GDS Holdings, plans dual IPO in Singapore and NY, seeking to raise $5B at a ~$20B valuation &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260517/p8#a260517p8)
- - [Genmoji in iOS 27 will use what you type and what&#39;s in Photos for suggestions](https://appleinsider.com/articles/26/05/17/genmoji-in-ios-27-will-use-what-you-type-and-whats-in-photos-for-suggestions?utm_source=rss)
- - [Privacy &amp; data security will remain tantamount for Apple&#39;s 2026 AI push](https://appleinsider.com/articles/26/05/17/privacy-data-security-will-remain-tantamount-for-apples-2026-ai-push?utm_source=rss)
- - [Revamped Siri may launch in beta, despite two year delay](https://appleinsider.com/articles/26/05/17/revamped-siri-may-launch-in-beta-despite-two-year-delay?utm_source=rss)<!-- TECH:END -->
+ - [Taylor Sheridan Has 11 TV Shows That Are Streaming. Here&#39;s Where to Watch Them All](https://www.cnet.com/tech/services-and-software/taylor-sheridan-11-tv-shows-streaming-how-to-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

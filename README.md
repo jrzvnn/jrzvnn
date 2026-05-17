@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers say Chinese AI labs lead US rivals in video generation, as ByteDance and Kuaishou train models on vast short-form video libraries from their own apps &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260517/p6#a260517p6)
- - [Chatbots at the drive-thru are just the beginning](https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys)
- - [Crime blotter: How the Long Island truck hijackers were caught](https://appleinsider.com/articles/26/05/17/crime-blotter-how-the-long-island-truck-hijackers-were-caught?utm_source=rss)
- - [Oto Smart Sprinkler Review &lpar;2026&rpar;: Solar-Powered and Simple to Use](https://www.wired.com/review/oto-smart-sprinkler/)
- - [The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet](https://www.wired.com/story/best-grills-and-smart-grills/)<!-- TECH:END -->
+ - [Oddity is masterfully tense horror from the director of Hokum](https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum)
+ - [Fujifilm’s X Half is even more whimsical with a $300 price cut](https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale)
+ - [ElliQ is a surprisingly helpful companion robot for older adults](https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on)
+ - [Doctors Explain Why Your Smartwatch Is Giving You Anxiety, and How to Stop It](https://www.cnet.com/health/mental/doctors-explain-why-smartwatch-giving-you-anxiety-how-stop-it/)
+ - [Developers say Chinese AI labs lead US rivals in video generation, as ByteDance and Kuaishou train models on vast short-form video libraries from their own apps &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260517/p6#a260517p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

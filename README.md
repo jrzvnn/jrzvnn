@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Developers say Chinese AI labs lead US rivals in video generation, as ByteDance and Kuaishou train models on vast short-form video libraries from their own apps &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260517/p6#a260517p6)
+ - [Chatbots at the drive-thru are just the beginning](https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys)
  - [Crime blotter: How the Long Island truck hijackers were caught](https://appleinsider.com/articles/26/05/17/crime-blotter-how-the-long-island-truck-hijackers-were-caught?utm_source=rss)
  - [Oto Smart Sprinkler Review &lpar;2026&rpar;: Solar-Powered and Simple to Use](https://www.wired.com/review/oto-smart-sprinkler/)
- - [The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet](https://www.wired.com/story/best-grills-and-smart-grills/)
- - [Take Control of Your Debt With These Free Tools](https://www.wired.com/story/free-debt-calculator-apps-services/)
- - [If Your iPhone Battery&#39;s Draining Faster After iOS 26.5, Don&#39;t Panic](https://www.cnet.com/tech/services-and-software/if-your-iphone-batterys-draining-faster-after-ios-26-5-dont-panic/)<!-- TECH:END -->
+ - [The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet](https://www.wired.com/story/best-grills-and-smart-grills/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

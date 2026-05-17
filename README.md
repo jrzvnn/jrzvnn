@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose a side](http://9gag.com/gag/aND7gdv)
+ - 😝 [A field of clovers sounds delightful.](http://9gag.com/gag/a3461P3)
  - 😝 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
- - 💣 [WHY](http://9gag.com/gag/aD2Kd7Z)
+ - 💣 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
  - 😝 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
- - 👉 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)<!-- MEMES:END -->
+ - 👉 [Pathetic](http://9gag.com/gag/aND7gGv)<!-- MEMES:END -->
 
 ---
 

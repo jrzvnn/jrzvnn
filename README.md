@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sunday Reboot: Liquid Glass appreciation, Cook in China, and Cats](https://appleinsider.com/articles/26/05/17/sunday-reboot-liquid-glass-appreciation-cook-in-china-and-cats?utm_source=rss)
  - [AirPods Max 2 vs Heavys H1H: Heavy metal headphones compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-2-vs-heavys-h1h-heavy-metal-headphones-compared?utm_source=rss)
  - [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
  - [Grafana says hackers have accessed its GitHub environment and demanded a ransom to prevent the release of its codebase; Grafana refused to pay &lpar;The Hacker News&rpar;](https://www.techmeme.com/260517/p11#a260517p11)
- - [Privacy &amp; data security will remain central to Apple&#39;s 2026 AI push](https://appleinsider.com/articles/26/05/17/privacy-data-security-will-remain-tantamount-for-apples-2026-ai-push?utm_source=rss)
- - [Analysis: mass adoption of smartphones and social media may be a primary driver of declining birthrates globally, in part by reducing in-person socializing &lpar;John Burn-Murdoch/Financial Times&rpar;](https://www.techmeme.com/260517/p10#a260517p10)<!-- TECH:END -->
+ - [Privacy &amp; data security will remain central to Apple&#39;s 2026 AI push](https://appleinsider.com/articles/26/05/17/privacy-data-security-will-remain-tantamount-for-apples-2026-ai-push?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

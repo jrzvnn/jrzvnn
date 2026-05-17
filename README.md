@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Circassian folk dance](http://9gag.com/gag/aE09Pvx)
- - 😝 [Potentially Stingy Situation](http://9gag.com/gag/a9yxR1Z)
- - 💣 [Pathetic](http://9gag.com/gag/aND7gGv)
- - 😝 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
- - 👉 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)<!-- MEMES:END -->
+ - 😝 [Cats will remember](http://9gag.com/gag/ayNbegM)
+ - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
+ - 💣 [Woman&#39;s egg: Omg, I have boyfriend!](http://9gag.com/gag/aByAmYP)
+ - 😝 [Predator remake by DrClown](http://9gag.com/gag/avyM58d)
+ - 👉 [John Scatman Turned His Severe Lifelong Stutter Into His Greatest Strength, inspiring the World with His iconic Dance Hit `Scatman`.](http://9gag.com/gag/aND7pjK)<!-- MEMES:END -->
 
 ---
 

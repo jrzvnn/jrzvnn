@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
- - 😝 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
- - 💣 [Pathetic](http://9gag.com/gag/aND7gGv)
- - 😝 [Old news. Jamiroquai broke up with Winona Ryder because of high sexdrive and big tetten.. it&#39;s not that big](http://9gag.com/gag/aYQ3oMv)
- - 👉 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)<!-- MEMES:END -->
+ - 😝 [BEWARE OF DENTISTS](http://9gag.com/gag/azxW1Dm)
+ - 😝 [Pathetic](http://9gag.com/gag/aND7gGv)
+ - 💣 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
+ - 😝 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
+ - 👉 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)<!-- MEMES:END -->
 
 ---
 

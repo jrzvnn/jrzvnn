@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BEWARE OF DENTISTS](http://9gag.com/gag/azxW1Dm)
- - 😝 [Pathetic](http://9gag.com/gag/aND7gGv)
- - 💣 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
+ - 😝 [Choose a side](http://9gag.com/gag/aND7gdv)
+ - 😝 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
+ - 💣 [WHY](http://9gag.com/gag/aD2Kd7Z)
  - 😝 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
  - 👉 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)<!-- MEMES:END -->
 

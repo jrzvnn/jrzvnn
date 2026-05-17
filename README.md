@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Potentially Stingy Situation](http://9gag.com/gag/a9yxR1Z)
- - 😝 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
- - 💣 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
- - 😝 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
- - 👉 [Pathetic](http://9gag.com/gag/aND7gGv)<!-- MEMES:END -->
+ - 😝 [Predator remake by DrClown](http://9gag.com/gag/avyM58d)
+ - 😝 [Cats will remember](http://9gag.com/gag/ayNbegM)
+ - 💣 [Origin of an meme](http://9gag.com/gag/a7oYWGm)
+ - 😝 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
+ - 👉 [American Problem.](http://9gag.com/gag/ajPzmZx)<!-- MEMES:END -->
 
 ---
 

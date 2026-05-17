@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A field of clovers sounds delightful.](http://9gag.com/gag/a3461P3)
- - 😝 [Choose a side](http://9gag.com/gag/aND7gdv)
- - 💣 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
+ - 😝 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
+ - 😝 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
+ - 💣 [A field of clovers sounds delightful.](http://9gag.com/gag/a3461P3)
  - 😝 [New innovation](http://9gag.com/gag/aND7PXK)
- - 👉 [Pathetic](http://9gag.com/gag/aND7gGv)<!-- MEMES:END -->
+ - 👉 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)<!-- MEMES:END -->
 
 ---
 

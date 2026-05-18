@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI sales automation startup Monaco raised a $50M Series B led by Benchmark, bringing its total funding to $85M after raising a $25M Series A in February 2026 &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260517/p15#a260517p15)
+ - [&#39;Marshals&#39; Release Schedule: When Episode 12 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-12-hits-paramount-plus/)
  - [Ciridae, which is developing AI to streamline back-office operations for real-economy businesses, raised a $20M seed led by Accel, with a16z participating &lpar;Jack Kubinec/Fortune&rpar;](https://www.techmeme.com/260517/p14#a260517p14)
  - [Source: Shein is acquiring DTC clothing retailer Everlane, which focuses on sustainability and &quot;radical transparency&quot;, in a $100M deal &lpar;Lauren Sherman/Puck&rpar;](https://www.techmeme.com/260517/p13#a260517p13)
- - [Microsoft is retiring Teams’ Together Mode](https://www.theverge.com/tech/932215/microsoft-teams-together-mode)
- - [Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue &lpar;The Information&rpar;](https://www.techmeme.com/260517/p12#a260517p12)
- - [Sunday Reboot: Liquid Glass appreciation, Cook in China, and Cats](https://appleinsider.com/articles/26/05/17/sunday-reboot-liquid-glass-appreciation-cook-in-china-and-cats?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft is retiring Teams’ Together Mode](https://www.theverge.com/tech/932215/microsoft-teams-together-mode)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

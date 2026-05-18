@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sigma, which sells a cloud-native analytics platform that sits on top of data warehouses, raised an $80M Series E led by Princeville Capital at a $3B valuation &lpar;Cristian Dina/The Next Web&rpar;](https://www.techmeme.com/260518/p33#a260518p33)
- - [WWDC 2026 media invites read &#39;Coming bright up&#39; as the June 8 conference approaches](https://appleinsider.com/articles/26/05/18/wwdc-2026-media-invites-read-coming-bright-up-as-the-june-8-conference-approaches?utm_source=rss)
- - [All of the updates from Elon Musk and Sam Altman’s battle over OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
- - [Elon Musk Loses Landmark Lawsuit Against OpenAI](https://www.wired.com/story/musk-v-altman-jury-verdict/)
- - [Musk v. Altman jury unanimously rejects Elon Musk&#39;s claims against Sam Altman; the judge dismisses two additional claims citing the statute of limitation &lpar;CNBC&rpar;](https://www.techmeme.com/260518/p32#a260518p32)<!-- TECH:END -->
+ - [PlayStation exclusives aren&amp;#8217;t coming to PC anymore](https://www.theverge.com/games/932817/playstation-exclusive-games-pc)
+ - [Apple Design Awards 2026 finalists include Cyberpunk 2077 &amp; Civilization VII](https://appleinsider.com/articles/26/05/18/apple-design-awards-2026-finalists-include-cyberpunk-2077-civilization-vii?utm_source=rss)
+ - [Rumored return to titanium after the aluminum iPhone 17 Pro doesn&#39;t make sense](https://appleinsider.com/articles/26/05/18/rumored-return-to-titanium-after-the-aluminum-iphone-17-pro-doesnt-make-sense?utm_source=rss)
+ - [Musk v. Altman proved that AI is led by the wrong people](https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people)
+ - [Improved Writing Tools, generated wallpapers, &amp; easier Shortcut creation rumored for iOS 27](https://appleinsider.com/articles/26/05/18/improved-writing-tools-generated-wallpapers-easier-shortcut-creation-rumored-for-ios-27?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

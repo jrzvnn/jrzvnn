@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260518/p45#a260518p45)
+ - [In a town hall, PlayStation studio business CEO Hermen Hulst told staff that the company&#39;s narrative single-player games will now be PlayStation exclusive &lpar;Jason Schreier/@jasonschreier.bsky.social&rpar;](https://www.techmeme.com/260518/p44#a260518p44)
  - [Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce &lpar;Eli Tan/New York Times&rpar;](https://www.techmeme.com/260518/p43#a260518p43)
  - [Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal &lpar;Bloomberg&rpar;](https://www.techmeme.com/260518/p42#a260518p42)
- - [Anthropic last week began letting Mythos users share cybersecurity threats with others who may face similar vulnerabilities, modifying its previous stance &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260518/p41#a260518p41)
- - [Musk v. Altman: Elon Musk says the judge and jury &quot;never actually ruled on the merits of the case, just on a calendar technicality&quot; and he will file an appeal &lpar;Elon Musk/@elonmusk&rpar;](https://www.techmeme.com/260518/p40#a260518p40)
- - [Akamai is seeking to raise $2.6B in a convertible bond offering, and plans to use $350M of the offering to buy back its common stock from buyers of the bonds &lpar;David Morris/Bloomberg&rpar;](https://www.techmeme.com/260518/p39#a260518p39)<!-- TECH:END -->
+ - [Google I/O 2026 Live: Gemini Intelligence, Android XR and More AI Expected](https://www.cnet.com/news-live/google-io-2026-live-news-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

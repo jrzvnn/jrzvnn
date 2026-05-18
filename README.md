@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dust, which helps enterprises design and deploy specialized AI agents that work alongside humans, raised a $40M Series B led by Abstract and Sequoia &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260518/p19#a260518p19)
- - [Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones](https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks)
- - [Steve Bannon and 60+ Trump allies sign a Humans First-led letter urging Trump to mandate government testing and approval of powerful AI models before release &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260518/p18#a260518p18)
- - [AI is making smartphones verifiably worse by design](https://appleinsider.com/articles/26/05/18/ai-is-making-smartphones-verifiably-worse-by-design?utm_source=rss)
- - [India&#39;s Apple antitrust case gets minor reprieve as fears of $38 billion fine continue](https://appleinsider.com/articles/26/05/18/indias-apple-antitrust-case-gets-minor-reprieve-as-fears-of-38-billion-fine-continue?utm_source=rss)<!-- TECH:END -->
+ - [Amazon Alexa Plus can now create AI-generated podcasts](https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts)
+ - [Internal chats: in March, xAI offered employees $420 in exchange for completed tax filings as training data for Grok, but the bonuses haven&#39;t been paid out &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260518/p27#a260518p27)
+ - [Amazon&#39;s Alexa+ now produces AI-generated &quot;podcasts&quot; on various topics in the US, featuring chats between two AI &quot;co-hosts&quot;, using content from media outlets &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260518/p26#a260518p26)
+ - [Apple Watch Ultra could get first major redesign for version 4](https://appleinsider.com/articles/26/05/18/apple-watch-ultra-could-get-first-major-redesign-for-version-4?utm_source=rss)
+ - [Philips Hue smart lights and a whole lot more are over 20 percent off](https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

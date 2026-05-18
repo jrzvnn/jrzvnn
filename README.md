@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
+ - 😝 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
  - 😝 [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)
- - 💣 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
- - 😝 [Guys...](http://9gag.com/gag/an7m79b)
- - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
+ - 💣 [Close](http://9gag.com/gag/aXPyrAD)
+ - 😝 [Little things that make you feel good](http://9gag.com/gag/a4PXPG6)
+ - 👉 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)<!-- MEMES:END -->
 
 ---
 

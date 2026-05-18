@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Alexa Plus can now create AI-generated podcasts](https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts)
- - [Internal chats: in March, xAI offered employees $420 in exchange for completed tax filings as training data for Grok, but the bonuses haven&#39;t been paid out &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260518/p27#a260518p27)
- - [Amazon&#39;s Alexa+ now produces AI-generated &quot;podcasts&quot; on various topics in the US, featuring chats between two AI &quot;co-hosts&quot;, using content from media outlets &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260518/p26#a260518p26)
- - [Apple Watch Ultra could get first major redesign for version 4](https://appleinsider.com/articles/26/05/18/apple-watch-ultra-could-get-first-major-redesign-for-version-4?utm_source=rss)
- - [Philips Hue smart lights and a whole lot more are over 20 percent off](https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale)<!-- TECH:END -->
+ - [Sigma, which sells a cloud-native analytics platform that sits on top of data warehouses, raised an $80M Series E led by Princeville Capital at a $3B valuation &lpar;Cristian Dina/The Next Web&rpar;](https://www.techmeme.com/260518/p33#a260518p33)
+ - [WWDC 2026 media invites read &#39;Coming bright up&#39; as the June 8 conference approaches](https://appleinsider.com/articles/26/05/18/wwdc-2026-media-invites-read-coming-bright-up-as-the-june-8-conference-approaches?utm_source=rss)
+ - [All of the updates from Elon Musk and Sam Altman’s battle over OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [Elon Musk Loses Landmark Lawsuit Against OpenAI](https://www.wired.com/story/musk-v-altman-jury-verdict/)
+ - [Musk v. Altman jury unanimously rejects Elon Musk&#39;s claims against Sam Altman; the judge dismisses two additional claims citing the statute of limitation &lpar;CNBC&rpar;](https://www.techmeme.com/260518/p32#a260518p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One day](http://9gag.com/gag/aKGQ67O)
  - 😝 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
+ - 😝 [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)
  - 💣 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
- - 😝 [Little things that make you feel good](http://9gag.com/gag/a4PXPG6)
+ - 😝 [Guys...](http://9gag.com/gag/an7m79b)
  - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
 
 ---

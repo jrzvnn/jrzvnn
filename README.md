@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
+ - 😝 [How to mess with your office/college friends](http://9gag.com/gag/ajPzgqw)
+ - 😝 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
+ - 💣 [Tis a sad day](http://9gag.com/gag/awyEzGW)
  - 😝 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
- - 💣 [Pathetic](http://9gag.com/gag/aND7gGv)
- - 😝 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)
- - 👉 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)<!-- MEMES:END -->
+ - 👉 [Starting new life after break up in a 3 room soviet apartment that hasn&#39;t seen renovation since 1983. Right now I don&#39;t have much, but it&#39;s a start. Starting renovation step by step. After 3 days of work all the terrible wallpaper at least is gone. Wish me luck.\ud83d\udcaa](http://9gag.com/gag/a7oY1Ye)<!-- MEMES:END -->
 
 ---
 

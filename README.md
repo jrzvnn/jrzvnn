@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Akamai is seeking to raise $2.6B in a convertible bond offering, and plans to use $350M of the offering to buy back its common stock from buyers of the bonds &lpar;David Morris/Bloomberg&rpar;](https://www.techmeme.com/260518/p39#a260518p39)
- - [Volvo teases a new affordable EV to replace discontinued EX30](https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60)
- - [Cloudflare tests Mythos against 50+ repositories, highlights its ability to chain bugs into a single exploit, and details a vulnerability discovery harness &lpar;Grant Bourzikas/Cloudflare&rpar;](https://www.techmeme.com/260518/p38#a260518p38)
- - [Anthropic acquires NYC-based Stainless, which generates SDKs from APIs, and plans to wind down its hosted products, after reportedly discussing a $300M+ deal &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260518/p37#a260518p37)
- - [Honor&#39;s Influencer-Coded Robot Phone Set for Fall Launch in China](https://www.cnet.com/tech/mobile/honors-robot-phone-launch-q3-china/)<!-- TECH:END -->
+ - [Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce &lpar;Eli Tan/New York Times&rpar;](https://www.techmeme.com/260518/p43#a260518p43)
+ - [Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal &lpar;Bloomberg&rpar;](https://www.techmeme.com/260518/p42#a260518p42)
+ - [Anthropic last week began letting Mythos users share cybersecurity threats with others who may face similar vulnerabilities, modifying its previous stance &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260518/p41#a260518p41)
+ - [Musk v. Altman: Elon Musk says the judge and jury &quot;never actually ruled on the merits of the case, just on a calendar technicality&quot; and he will file an appeal &lpar;Elon Musk/@elonmusk&rpar;](https://www.techmeme.com/260518/p40#a260518p40)
+ - [Akamai is seeking to raise $2.6B in a convertible bond offering, and plans to use $350M of the offering to buy back its common stock from buyers of the bonds &lpar;David Morris/Bloomberg&rpar;](https://www.techmeme.com/260518/p39#a260518p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

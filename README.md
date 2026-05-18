@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tis a sad day](http://9gag.com/gag/awyEzGW)
- - 😝 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
- - 💣 [Smart vending machine catches and charges thieves to their c card and room lol](http://9gag.com/gag/aByA24N)
- - 😝 [Western Europe be like](http://9gag.com/gag/axyLBWW)
- - 👉 [Not the Amazon one....](http://9gag.com/gag/a87R1xZ)<!-- MEMES:END -->
+ - 😝 [Who is also interested in: The Hoek\u00e9dex?](http://9gag.com/gag/aGymzmw)
+ - 😝 [Game](http://9gag.com/gag/aW4rGmq)
+ - 💣 [Not the Amazon one....](http://9gag.com/gag/a87R1xZ)
+ - 😝 [Guys...](http://9gag.com/gag/an7m79b)
+ - 👉 [Starting new life after break up in a 3 room soviet apartment that hasn&#39;t seen renovation since 1983. Right now I don&#39;t have much, but it&#39;s a start. Starting renovation step by step. After 3 days of work all the terrible wallpaper at least is gone. Wish me luck.\ud83d\udcaa](http://9gag.com/gag/a7oY1Ye)<!-- MEMES:END -->
 
 ---
 

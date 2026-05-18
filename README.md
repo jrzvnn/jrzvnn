@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation exclusives aren&amp;#8217;t coming to PC anymore](https://www.theverge.com/games/932817/playstation-exclusive-games-pc)
- - [Apple Design Awards 2026 finalists include Cyberpunk 2077 &amp; Civilization VII](https://appleinsider.com/articles/26/05/18/apple-design-awards-2026-finalists-include-cyberpunk-2077-civilization-vii?utm_source=rss)
- - [Rumored return to titanium after the aluminum iPhone 17 Pro doesn&#39;t make sense](https://appleinsider.com/articles/26/05/18/rumored-return-to-titanium-after-the-aluminum-iphone-17-pro-doesnt-make-sense?utm_source=rss)
- - [Musk v. Altman proved that AI is led by the wrong people](https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people)
- - [Improved Writing Tools, generated wallpapers, &amp; easier Shortcut creation rumored for iOS 27](https://appleinsider.com/articles/26/05/18/improved-writing-tools-generated-wallpapers-easier-shortcut-creation-rumored-for-ios-27?utm_source=rss)<!-- TECH:END -->
+ - [Akamai is seeking to raise $2.6B in a convertible bond offering, and plans to use $350M of the offering to buy back its common stock from buyers of the bonds &lpar;David Morris/Bloomberg&rpar;](https://www.techmeme.com/260518/p39#a260518p39)
+ - [Volvo teases a new affordable EV to replace discontinued EX30](https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60)
+ - [Cloudflare tests Mythos against 50+ repositories, highlights its ability to chain bugs into a single exploit, and details a vulnerability discovery harness &lpar;Grant Bourzikas/Cloudflare&rpar;](https://www.techmeme.com/260518/p38#a260518p38)
+ - [Anthropic acquires NYC-based Stainless, which generates SDKs from APIs, and plans to wind down its hosted products, after reportedly discussing a $300M+ deal &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260518/p37#a260518p37)
+ - [Honor&#39;s Influencer-Coded Robot Phone Set for Fall Launch in China](https://www.cnet.com/tech/mobile/honors-robot-phone-launch-q3-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

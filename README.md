@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who is also interested in: The Hoek\u00e9dex?](http://9gag.com/gag/aGymzmw)
- - 😝 [Game](http://9gag.com/gag/aW4rGmq)
- - 💣 [Not the Amazon one....](http://9gag.com/gag/a87R1xZ)
- - 😝 [Guys...](http://9gag.com/gag/an7m79b)
- - 👉 [Starting new life after break up in a 3 room soviet apartment that hasn&#39;t seen renovation since 1983. Right now I don&#39;t have much, but it&#39;s a start. Starting renovation step by step. After 3 days of work all the terrible wallpaper at least is gone. Wish me luck.\ud83d\udcaa](http://9gag.com/gag/a7oY1Ye)<!-- MEMES:END -->
+ - 😝 [One day](http://9gag.com/gag/aKGQ67O)
+ - 😝 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
+ - 💣 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
+ - 😝 [Little things that make you feel good](http://9gag.com/gag/a4PXPG6)
+ - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
 
 ---
 

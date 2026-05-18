@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally some encryption](http://9gag.com/gag/avyM5vE)
  - 😝 [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)
- - 💣 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)
- - 😝 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)
- - 👉 [Pathetic](http://9gag.com/gag/aND7gGv)<!-- MEMES:END -->
+ - 😝 [One day](http://9gag.com/gag/aKGQ67O)
+ - 💣 [Finally some encryption](http://9gag.com/gag/avyM5vE)
+ - 😝 [We winning](http://9gag.com/gag/azxW2GK)
+ - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
 
 ---
 

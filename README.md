@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)
- - 😝 [One day](http://9gag.com/gag/aKGQ67O)
- - 💣 [Finally some encryption](http://9gag.com/gag/avyM5vE)
- - 😝 [We winning](http://9gag.com/gag/azxW2GK)
- - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
+ - 😝 [Tis a sad day](http://9gag.com/gag/awyEzGW)
+ - 😝 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
+ - 💣 [Smart vending machine catches and charges thieves to their c card and room lol](http://9gag.com/gag/aByA24N)
+ - 😝 [Western Europe be like](http://9gag.com/gag/axyLBWW)
+ - 👉 [Not the Amazon one....](http://9gag.com/gag/a87R1xZ)<!-- MEMES:END -->
 
 ---
 

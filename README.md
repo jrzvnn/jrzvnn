@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI sales automation startup Monaco raised a $50M Series B led by Benchmark, bringing its total funding to $85M after raising a $25M Series A in February 2026 &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260517/p15#a260517p15)
- - [&#39;Marshals&#39; Release Schedule: When Episode 12 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-12-hits-paramount-plus/)
- - [Ciridae, which is developing AI to streamline back-office operations for real-economy businesses, raised a $20M seed led by Accel, with a16z participating &lpar;Jack Kubinec/Fortune&rpar;](https://www.techmeme.com/260517/p14#a260517p14)
- - [Source: Shein is acquiring DTC clothing retailer Everlane, which focuses on sustainability and &quot;radical transparency&quot;, in a $100M deal &lpar;Lauren Sherman/Puck&rpar;](https://www.techmeme.com/260517/p13#a260517p13)
- - [Microsoft is retiring Teams’ Together Mode](https://www.theverge.com/tech/932215/microsoft-teams-together-mode)<!-- TECH:END -->
+ - [Pwn2Own Berlin 2026: participants earned a total of ~$1.3M for 47 vulnerabilities, with successful exploits of AI products like Codex, Cursor, and LM Studio &lpar;Eduard Kovacs/SecurityWeek&rpar;](https://www.techmeme.com/260518/p4#a260518p4)
+ - [Sources: Anthropic agrees to brief the Financial Stability Board on global financial system vulnerabilities found by Mythos, following a request by FSB&#39;s Chair &lpar;Financial Times&rpar;](https://www.techmeme.com/260518/p3#a260518p3)
+ - [Samsung&#39;s shares jumped as much as 6.7% after the company resumed talks with its union and a court partially granted an injunction against illegal union actions &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260518/p2#a260518p2)
+ - [Chinese chipmaker CXMT reports Q1 revenue up 719% YoY to ~$7.5B, net profit up 1,688% to $3.6B, and says Omdia ranks it No. 4 in DRAM with a 7.67% global share &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260518/p1#a260518p1)
+ - [Sources: US authorities in recent months have issued multiple information requests to Kalshi and Polymarket, many tied to wagers on events in Iran and Venezuela &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260517/p19#a260517p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

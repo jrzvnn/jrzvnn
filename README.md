@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Close](http://9gag.com/gag/aXPyrAD)
- - 😝 [Poor Johnny](http://9gag.com/gag/a5QO1Lo)
- - 💣 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)
  - 😝 [I like turtles](http://9gag.com/gag/amoeWN6)
- - 👉 [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)<!-- MEMES:END -->
+ - 😝 [Pragmatic](http://9gag.com/gag/aQzLEW2)
+ - 💣 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)
+ - 😝 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
+ - 👉 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
 
 ---
 

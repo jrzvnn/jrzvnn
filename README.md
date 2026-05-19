@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox authorizes its first share buyback program, aiming to repurchase up to $3B of its stock, including $1B over the next year; RBLX is down ~45% YTD &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](https://www.techmeme.com/260519/p60#a260519p60)
- - [We react to Google I/O 2026](https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026)
- - [Analog Devices agrees to buy Empower Semiconductor, which makes chips used to regulate voltage, for $1.5B in cash &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260519/p59#a260519p59)
- - [The future of Google is a search box that does everything](https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026)
- - [Google adds a conversational search feature to YouTube and rolls out the new Gemini Omni model in YouTube Shorts Remix and the Create app &lpar;Sanuj Bhatia/Android Central&rpar;](https://www.techmeme.com/260519/p58#a260519p58)<!-- TECH:END -->
+ - [On-demand manufacturing startup SendCutSend raised $110M co-led by Sequoia, Paradigm, and Stripe co-founders Patrick and John Collison, valuing it at $1B &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260519/p68#a260519p68)
+ - [Google announces updates to Flow and Flow Music: Gemini Omni support, mobile apps, the ability to create custom tools like a video resizer or shaders, and more &lpar;Macy Meyer/CNET&rpar;](https://www.techmeme.com/260519/p67#a260519p67)
+ - [Plex is tripling the price of a lifetime pass to $750 after doubling it last year](https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike)
+ - [Discord says voice and video calls outside of stage channels are now end-to-end encrypted by default, after launching its encryption protocol in September 2024 &lpar;Jess Kinghorn/PC Gamer&rpar;](https://www.techmeme.com/260519/p66#a260519p66)
+ - [Google debuts Gemini for Science, a set of experimental tools that help researchers generate hypotheses, conduct testing, and understand scientific literature &lpar;Jackson Chen/Engadget&rpar;](https://www.techmeme.com/260519/p65#a260519p65)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

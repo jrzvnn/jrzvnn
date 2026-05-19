@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
- - 😝 [...](http://9gag.com/gag/apR49VD)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)
- - 😝 [Based](http://9gag.com/gag/abANexO)
- - 👉 [Peaceful BLM protest is apparently possible.](http://9gag.com/gag/aGymE9X)<!-- MEMES:END -->
+ - 😝 [That was close](http://9gag.com/gag/aryQWVX)
+ - 😝 [Pragmatic](http://9gag.com/gag/aQzLEW2)
+ - 💣 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)
+ - 👉 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
 
 ---
 

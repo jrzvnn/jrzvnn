@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG will release the first 1000Hz, 1080p gaming monitor this year](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b)
- - [Vitalik Buterin says AI-assisted &quot;formal verification&quot; could help secure blockchain networks, smart contracts, and cryptographic systems against software flaws &lpar;Jason Nelson/Decrypt&rpar;](https://www.techmeme.com/260518/p49#a260518p49)
- - [Sources: Google and Blackstone plan to create an AI cloud company to monetize Google&#39;s TPUs to external parties; Blackstone plans to put $5B in the venture &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260518/p48#a260518p48)
- - [A deep dive into Meta&#39;s Hyperion data center campus in Louisiana, expected to reach 5 GW of compute capacity; source: Meta plans to spend $200B+ on the project &lpar;Riley Griffin/Bloomberg&rpar;](https://www.techmeme.com/260518/p47#a260518p47)
- - [2027 Volvo EX60 Arrives in US With $59,795 Starting Price and a Lot to Prove](https://www.cnet.com/roadshow/news/2027-volvo-ex60-us-debut-starting-price-and-range/)<!-- TECH:END -->
+ - [Sources: Demis Hassabis was an angel investor in Anthropic; PitchBook and Dealroom: former DeepMind researchers founded 12+ companies since 2021, raising $14B+ &lpar;Financial Times&rpar;](https://www.techmeme.com/260519/p2#a260519p2)
+ - [Sources: Intel asks its leading PC partners, including those in the US, China, and Taiwan, to use more 18A CPUs, citing better supply than chips on older nodes &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260519/p1#a260519p1)
+ - [Limited Time: TurboTax Full Service Coupons This May](https://www.wired.com/story/turbotax-coupon/)
+ - [Booking.com Promo Codes: 20% Off | May 2026](https://www.wired.com/story/booking-com-promo-code/)
+ - [Lenovo Coupon Codes and Deals in May 2026](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

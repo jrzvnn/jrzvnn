@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Easily follow the FFIA World Cup in over 170 countries thanks to Apple Sports expansion](https://appleinsider.com/articles/26/05/19/easily-follow-the-ffia-world-cup-in-over-170-countries-thanks-to-apple-sports-expansion?utm_source=rss)
- - [Spotify launches a &quot;Verified by Spotify&quot; badge for podcasts to help &quot;authenticate creator identity&quot;, after releasing it for music in April &lpar;Lawrence Bonk/Engadget&rpar;](https://www.techmeme.com/260519/p33#a260519p33)
- - [A livestream of the Google I/O 2026 keynote &lpar;Google on YouTube&rpar;](https://www.techmeme.com/260519/p32#a260519p32)
- - [A live blog of the Google I/O 2026 keynote, where the company is set to announce the &quot;latest AI breakthroughs and updates&quot; in Gemini, Android, and more &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260519/p31#a260519p31)
- - [Second hardware team shakeup in a month seeks to speed up development](https://appleinsider.com/articles/26/05/19/second-hardware-team-shakeup-in-a-month-seeks-to-speed-up-development?utm_source=rss)<!-- TECH:END -->
+ - [Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs](https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/)
+ - [Gemini Voice Capabilities and Gemini Spark Coming to MacOS This Summer](https://www.cnet.com/tech/services-and-software/gemini-spark-is-coming-to-macos-this-summer/)
+ - [Hands-on with Google and Samsung&#39;s Android XR smart glasses from Warby Parker and Gentle Monster, and with XReal&#39;s Project Aura, all set to arrive this fall &lpar;Wired&rpar;](https://www.techmeme.com/260519/p50#a260519p50)
+ - [Google I/O 2026 Live: Gemini Intelligence, Android XR and More AI Expected](https://www.cnet.com/news-live/google-io-2026-live-news-updates/)
+ - [Google unveils Universal Cart, a shopping assistant that works &quot;across merchants&quot;, built on the Universal Commerce Protocol, rolling out in the US today &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260519/p49#a260519p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

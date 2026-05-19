@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Milan-based legal AI company Lexroom raised a €42.9M Series B led by Left Lane, after raising a €16M Series A in September 2025, taking total funding to €62.7M &lpar;Rahul Raj/EU-Startups&rpar;](https://www.techmeme.com/260519/p5#a260519p5)
- - [Mistral acquires Vienna-based Emmi AI for an undisclosed sum to boost its industrial offerings in Europe; Emmi raised €15M in Austria&#39;s largest round in 2025 &lpar;Reuters&rpar;](https://www.techmeme.com/260519/p4#a260519p4)
- - [NYC Health + Hospitals says hackers accessed its network from Nov. 2025 to Feb. 2026, exposing personal data, medical records, and fingerprints of 1.8M+ people &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/260519/p3#a260519p3)
- - [Sources: Demis Hassabis was an angel investor in Anthropic; PitchBook and Dealroom say ex-DeepMind researchers founded 12+ companies since 2021, raising $14B+ &lpar;Financial Times&rpar;](https://www.techmeme.com/260519/p2#a260519p2)
- - [Sources: Intel asks its leading PC partners, including those in the US, China, and Taiwan, to use more 18A CPUs, citing better supply than chips on older nodes &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260519/p1#a260519p1)<!-- TECH:END -->
+ - [OpenAI&#39;s win against Elon Musk leaves it free to continue its IPO plans, but it still faces many issues, like rising competition and dozens of other lawsuits &lpar;New York Times&rpar;](https://www.techmeme.com/260519/p13#a260519p13)
+ - [Modular data center maker Armada raised a $230M Series B co-led by Overmatch, 8090 Industries, and BlackRock at a $2B valuation, and plans a new Arizona factory &lpar;Krysta Escobar/CNBC&rpar;](https://www.techmeme.com/260519/p12#a260519p12)
+ - [Chinese flash memory chipmaker YMTC says it officially initiated a pre-listing tutoring process with local brokers, marking the first formal step toward an IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260519/p11#a260519p11)
+ - [The Herman Miller Coyl Standing Desk Is Built Just for Gamers](https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/)
+ - [The US Built a Site to Ensure Fair Access to Public Lands. Then Everything Went Wrong](https://www.wired.com/story/the-us-built-a-site-to-ensure-fair-access-to-public-lands-then-everything-went-wrong/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

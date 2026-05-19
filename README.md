@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s win against Elon Musk leaves it free to continue its IPO plans, but it still faces many issues, like rising competition and dozens of other lawsuits &lpar;New York Times&rpar;](https://www.techmeme.com/260519/p13#a260519p13)
- - [Modular data center maker Armada raised a $230M Series B co-led by Overmatch, 8090 Industries, and BlackRock at a $2B valuation, and plans a new Arizona factory &lpar;Krysta Escobar/CNBC&rpar;](https://www.techmeme.com/260519/p12#a260519p12)
- - [Chinese flash memory chipmaker YMTC says it officially initiated a pre-listing tutoring process with local brokers, marking the first formal step toward an IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260519/p11#a260519p11)
- - [The Herman Miller Coyl Standing Desk Is Built Just for Gamers](https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/)
- - [The US Built a Site to Ensure Fair Access to Public Lands. Then Everything Went Wrong](https://www.wired.com/story/the-us-built-a-site-to-ensure-fair-access-to-public-lands-then-everything-went-wrong/)<!-- TECH:END -->
+ - [Apple Design Awards 2026 finalists include Cyberpunk 2077 &amp; Civilization VII](https://appleinsider.com/articles/26/05/18/apple-design-awards-2026-finalists-include-cyberpunk-2077-civilization-vii?utm_source=rss)
+ - [The Zuckerbergs Are Hiring a Lifeguard but Calling It a &#39;Beach Water Person&#39;](https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/)
+ - [Viktor, which is developing an AI agent that operates like a virtual coworker embedded inside Slack or Microsoft Teams, raised a $75M Series A led by Accel &lpar;Beatrice Nolan/Fortune&rpar;](https://www.techmeme.com/260519/p20#a260519p20)
+ - [Anker fixes the two worst things about power stations](https://www.theverge.com/tech/928420/anker-solix-s2000-power-station)
+ - [Epic Games declares Victory Royale months ahead of Apple case conclusion](https://appleinsider.com/articles/26/05/19/epic-games-declares-victory-royale-months-ahead-of-apple-case-conclusion?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

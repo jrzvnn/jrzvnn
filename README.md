@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Help, farmer stuck!](http://9gag.com/gag/ae9nQBb)
- - 😝 [Guys...](http://9gag.com/gag/an7m79b)
- - 💣 [The betrayal](http://9gag.com/gag/aAy8y0p)
- - 😝 [Yet she still has reluctance to admit it.](http://9gag.com/gag/a87R7MQ)
- - 👉 [Cold but enjoyable](http://9gag.com/gag/aYQ3Q42)<!-- MEMES:END -->
+ - 😝 [Close](http://9gag.com/gag/aXPyrAD)
+ - 😝 [Poor Johnny](http://9gag.com/gag/a5QO1Lo)
+ - 💣 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)
+ - 😝 [I like turtles](http://9gag.com/gag/amoeWN6)
+ - 👉 [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Pragmatic](http://9gag.com/gag/aQzLEW2)
  - 😝 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)
- - 💣 [What is the correct punishment for that man ?](http://9gag.com/gag/a87RqYd)
- - 😝 [...](http://9gag.com/gag/apR49VD)
- - 👉 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/apR49VD)
+ - 😝 [That was close](http://9gag.com/gag/aryQWVX)
+ - 👉 [Gone in 60 seconds](http://9gag.com/gag/aVvpg5d)<!-- MEMES:END -->
 
 ---
 

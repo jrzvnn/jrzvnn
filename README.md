@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs](https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/)
- - [Gemini Voice Capabilities and Gemini Spark Coming to MacOS This Summer](https://www.cnet.com/tech/services-and-software/gemini-spark-is-coming-to-macos-this-summer/)
- - [Hands-on with Google and Samsung&#39;s Android XR smart glasses from Warby Parker and Gentle Monster, and with XReal&#39;s Project Aura, all set to arrive this fall &lpar;Wired&rpar;](https://www.techmeme.com/260519/p50#a260519p50)
- - [Google I/O 2026 Live: Gemini Intelligence, Android XR and More AI Expected](https://www.cnet.com/news-live/google-io-2026-live-news-updates/)
- - [Google unveils Universal Cart, a shopping assistant that works &quot;across merchants&quot;, built on the Universal Commerce Protocol, rolling out in the US today &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260519/p49#a260519p49)<!-- TECH:END -->
+ - [Meta begins laying off 8,000 employees, or 10% of staff, in a push to become an AI-first company; another 7,000 workers will be reassigned to AI initiatives &lpar;New York Times&rpar;](https://www.techmeme.com/260519/p56#a260519p56)
+ - [Here are our favorite Memorial Day tech deals so far](https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026)
+ - [Democrats preview how they’d go after the Ticketmaster settlement if they regain power](https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement)
+ - [Minnesota Gov. Tim Walz has signed the nation&#39;s first law banning prediction market sites from operating in the state; the CFTC has sued Minnesota in response &lpar;Bobby Allyn/NPR&rpar;](https://www.techmeme.com/260519/p55#a260519p55)
+ - [Sources: Google DeepMind has reached a ~$100M deal to hire 20+ researchers from Contextual AI, including CEO Douwe Kiela, and license its technology &lpar;Bloomberg&rpar;](https://www.techmeme.com/260519/p54#a260519p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

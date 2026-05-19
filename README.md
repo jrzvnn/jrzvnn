@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260518/p45#a260518p45)
- - [In a town hall, PlayStation studio business CEO Hermen Hulst told staff that the company&#39;s narrative single-player games will now be PlayStation exclusive &lpar;Jason Schreier/@jasonschreier.bsky.social&rpar;](https://www.techmeme.com/260518/p44#a260518p44)
- - [Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce &lpar;Eli Tan/New York Times&rpar;](https://www.techmeme.com/260518/p43#a260518p43)
- - [Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal &lpar;Bloomberg&rpar;](https://www.techmeme.com/260518/p42#a260518p42)
- - [Google I/O 2026 Live: Gemini Intelligence, Android XR and More AI Expected](https://www.cnet.com/news-live/google-io-2026-live-news-updates/)<!-- TECH:END -->
+ - [LG will release the first 1000Hz, 1080p gaming monitor this year](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b)
+ - [Vitalik Buterin says AI-assisted &quot;formal verification&quot; could help secure blockchain networks, smart contracts, and cryptographic systems against software flaws &lpar;Jason Nelson/Decrypt&rpar;](https://www.techmeme.com/260518/p49#a260518p49)
+ - [Sources: Google and Blackstone plan to create an AI cloud company to monetize Google&#39;s TPUs to external parties; Blackstone plans to put $5B in the venture &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260518/p48#a260518p48)
+ - [A deep dive into Meta&#39;s Hyperion data center campus in Louisiana, expected to reach 5 GW of compute capacity; source: Meta plans to spend $200B+ on the project &lpar;Riley Griffin/Bloomberg&rpar;](https://www.techmeme.com/260518/p47#a260518p47)
+ - [2027 Volvo EX60 Arrives in US With $59,795 Starting Price and a Lot to Prove](https://www.cnet.com/roadshow/news/2027-volvo-ex60-us-debut-starting-price-and-range/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

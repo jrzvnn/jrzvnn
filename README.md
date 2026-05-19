@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Design Awards 2026 finalists include Cyberpunk 2077 &amp; Civilization VII](https://appleinsider.com/articles/26/05/18/apple-design-awards-2026-finalists-include-cyberpunk-2077-civilization-vii?utm_source=rss)
- - [The Zuckerbergs Are Hiring a Lifeguard but Calling It a &#39;Beach Water Person&#39;](https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/)
- - [Viktor, which is developing an AI agent that operates like a virtual coworker embedded inside Slack or Microsoft Teams, raised a $75M Series A led by Accel &lpar;Beatrice Nolan/Fortune&rpar;](https://www.techmeme.com/260519/p20#a260519p20)
- - [Anker fixes the two worst things about power stations](https://www.theverge.com/tech/928420/anker-solix-s2000-power-station)
- - [Epic Games declares Victory Royale months ahead of Apple case conclusion](https://appleinsider.com/articles/26/05/19/epic-games-declares-victory-royale-months-ahead-of-apple-case-conclusion?utm_source=rss)<!-- TECH:END -->
+ - [Easily follow the FFIA World Cup in over 170 countries thanks to Apple Sports expansion](https://appleinsider.com/articles/26/05/19/easily-follow-the-ffia-world-cup-in-over-170-countries-thanks-to-apple-sports-expansion?utm_source=rss)
+ - [Spotify launches a &quot;Verified by Spotify&quot; badge for podcasts to help &quot;authenticate creator identity&quot;, after releasing it for music in April &lpar;Lawrence Bonk/Engadget&rpar;](https://www.techmeme.com/260519/p33#a260519p33)
+ - [A livestream of the Google I/O 2026 keynote &lpar;Google on YouTube&rpar;](https://www.techmeme.com/260519/p32#a260519p32)
+ - [A live blog of the Google I/O 2026 keynote, where the company is set to announce the &quot;latest AI breakthroughs and updates&quot; in Gemini, Android, and more &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260519/p31#a260519p31)
+ - [Second hardware team shakeup in a month seeks to speed up development](https://appleinsider.com/articles/26/05/19/second-hardware-team-shakeup-in-a-month-seeks-to-speed-up-development?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Youth](http://9gag.com/gag/a1myPO6)
+ - 😝 [How does one achieve this build](http://9gag.com/gag/aLnZ1y6)
+ - 💣 [Pragmatic](http://9gag.com/gag/aQzLEW2)
  - 😝 [I like turtles](http://9gag.com/gag/amoeWN6)
- - 😝 [Pragmatic](http://9gag.com/gag/aQzLEW2)
- - 💣 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)
- - 😝 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
- - 👉 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
+ - 👉 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pragmatic](http://9gag.com/gag/aQzLEW2)
- - 😝 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
- - 💣 [...](http://9gag.com/gag/apR49VD)
+ - 😝 [He is right you know..](http://9gag.com/gag/aE09049)
  - 😝 [That was close](http://9gag.com/gag/aryQWVX)
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)
+ - 😝 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
  - 👉 [Gone in 60 seconds](http://9gag.com/gag/aVvpg5d)<!-- MEMES:END -->
 
 ---

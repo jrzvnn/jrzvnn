@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta begins laying off 8,000 employees, or 10% of staff, in a push to become an AI-first company; another 7,000 workers will be reassigned to AI initiatives &lpar;New York Times&rpar;](https://www.techmeme.com/260519/p56#a260519p56)
- - [Here are our favorite Memorial Day tech deals so far](https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026)
- - [Democrats preview how they’d go after the Ticketmaster settlement if they regain power](https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement)
- - [Minnesota Gov. Tim Walz has signed the nation&#39;s first law banning prediction market sites from operating in the state; the CFTC has sued Minnesota in response &lpar;Bobby Allyn/NPR&rpar;](https://www.techmeme.com/260519/p55#a260519p55)
- - [Sources: Google DeepMind has reached a ~$100M deal to hire 20+ researchers from Contextual AI, including CEO Douwe Kiela, and license its technology &lpar;Bloomberg&rpar;](https://www.techmeme.com/260519/p54#a260519p54)<!-- TECH:END -->
+ - [Roblox authorizes its first share buyback program, aiming to repurchase up to $3B of its stock, including $1B over the next year; RBLX is down ~45% YTD &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](https://www.techmeme.com/260519/p60#a260519p60)
+ - [We react to Google I/O 2026](https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026)
+ - [Analog Devices agrees to buy Empower Semiconductor, which makes chips used to regulate voltage, for $1.5B in cash &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260519/p59#a260519p59)
+ - [The future of Google is a search box that does everything](https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026)
+ - [Google adds a conversational search feature to YouTube and rolls out the new Gemini Omni model in YouTube Shorts Remix and the Create app &lpar;Sanuj Bhatia/Android Central&rpar;](https://www.techmeme.com/260519/p58#a260519p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

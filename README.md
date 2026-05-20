@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Upgrade Weber and Kamado Joe Into Smart Grills](https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/)
- - [S. &quot;Soma&quot; Somasegar, who led Microsoft&#39;s Developer Division for 12 years as part of his 27-year tenure at the company before leaving in 2015, has died at age 59 &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260520/p20#a260520p20)
- - [London-based Primer, which helps e-commerce merchants connect and manage multiple payment providers, raised a $100M Series C led by Sofina &lpar;Damisola Sulaiman/Sifted&rpar;](https://www.techmeme.com/260520/p19#a260520p19)
- - [Android 17 is getting its own version of Apple&amp;#8217;s Handoff](https://www.theverge.com/tech/934457/android-17-continue-on-handoff)
- - [Everything to Look for When Buying a New Laptop in 2026](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)<!-- TECH:END -->
+ - [Trump Mobile may be leaking customer addresses](https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses)
+ - [Insta360’s Mic Pro uses a three microphone array for improved recordings](https://www.theverge.com/tech/934473/insta360-mic-pro-wireless-e-ink-screen-microphone-array)
+ - [Apple says the App Store prevented over $2.2B in potentially fraudulent transactions in 2025, rejected over 2M problematic app submissions, and more &lpar;Ryan Christoffel/9to5Mac&rpar;](https://www.techmeme.com/260520/p27#a260520p27)
+ - [Trump is waging a silent war on legal immigration](https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis)
+ - [App Store fraud prevention a big numbers game powered by AI &amp; human review](https://appleinsider.com/articles/26/05/20/app-store-fraud-prevention-a-big-numbers-game-powered-by-ai-human-review?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

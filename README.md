@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini 3.5 Flash costs $1.50 per 1M input tokens and $9 per 1M output tokens, 3x the price of Gemini 3 Flash Preview and 6x the price of Gemini 3.1 Flash-Lite &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260519/p73#a260519p73)
- - [Boston-based CircuitHub, which manufactures circuit boards based on customers&#39; requirements, raised a $28M Series A led by Plural &lpar;Natalie Breymeyer/Axios&rpar;](https://www.techmeme.com/260519/p72#a260519p72)
- - [How to Remove Nonconsensual Intimate Images Under the Take It Down Act](https://www.cnet.com/tech/services-and-software/how-to-file-take-it-down-act-request/)
- - [Where, Oh Where, Was Wear OS 7 at Google I/O This Year?](https://www.cnet.com/tech/mobile/wheres-wear-os-7/)
- - [Insta360 Pro Mic review: exceptional sound quality for a wireless microphone](https://appleinsider.com/articles/26/05/20/insta360-pro-mic-review-exceptional-sound-quality-for-a-wireless-microphone?utm_source=rss)<!-- TECH:END -->
+ - [Sources: an attack exploiting a previously unknown vulnerability in Huawei router software caused a three-hour nationwide telecoms outage in Luxembourg in 2025 &lpar;Alexander Martin/The Record&rpar;](https://www.techmeme.com/260520/p8#a260520p8)
+ - [Vietnam introduces Decree 142 to implement its AI law, requiring companies to classify AI models by risk level, label deepfakes, and disclose chatbot use &lpar;Lien Hoang/Nikkei Asia&rpar;](https://www.techmeme.com/260520/p7#a260520p7)
+ - [Filing and sources: PE firm Hg has spun out €500M worth of assets from its €19B software group Visma, whose London IPO remains shelved amid the &quot;SaaSpocalypse&quot; &lpar;Alexandra Heal/Financial Times&rpar;](https://www.techmeme.com/260520/p6#a260520p6)
+ - [SkyeChip becomes the first Malaysian chip design company to IPO on the Bursa Malaysia exchange, surging 300%+; the company was valued at ~$397M at its IPO price &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260520/p5#a260520p5)
+ - [Alibaba&#39;s T-Head unveils the Zhenwu M890 AI chip for training and inference, saying it is particularly suited for agentic tasks, and plans annual upgrades &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260520/p4#a260520p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

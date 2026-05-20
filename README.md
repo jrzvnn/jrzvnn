@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now remix other people’s YouTube Shorts with AI](https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai)
- - [Samsung has a tentative deal with workers to avoid a memory chip strike](https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply)
- - [Sources: OpenAI is preparing to file confidentially for an IPO as early as Friday; the company plans to be ready to go public as early as September &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260520/p39#a260520p39)
- - [A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer](https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/)
- - [Ubisoft reports a record operating loss of $1.40B for the year to March and says sales in 2026-27 would fall by about 8% to 9%; UBI falls 6%+ &lpar;Reuters&rpar;](https://www.techmeme.com/260520/p38#a260520p38)<!-- TECH:END -->
+ - [Apple server schematics stolen in May 2026 Foxconn cyberattack, AppleInsider confirms](https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms?utm_source=rss)
+ - [Granta and the Commonwealth Foundation say they can&#39;t determine yet if AI was used to write a prize-winning short story after critics pointed to signs of AI use &lpar;The Guardian&rpar;](https://www.techmeme.com/260520/p42#a260520p42)
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+ - [I Gave My OpenClaw Agent a Physical Body](https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/)
+ - [How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak](https://www.wired.com/story/climate-change-next-hantavirus-outbreak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like turtles](http://9gag.com/gag/amoeWN6)
- - 😝 [How is this an adult who can vote?](http://9gag.com/gag/amoeAP6)
- - 💣 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
+ - 😝 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
  - 😝 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)
- - 👉 [Gone in 60 seconds](http://9gag.com/gag/aVvpg5d)<!-- MEMES:END -->
+ - 💣 [That was close](http://9gag.com/gag/aryQWVX)
+ - 😝 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
+ - 👉 [Swim tip for life](http://9gag.com/gag/aGymLDw)<!-- MEMES:END -->
 
 ---
 

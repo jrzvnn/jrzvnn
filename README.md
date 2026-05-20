@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s In-Car Gemini Dimmed the Sunroof, Ordered Dinner and Became My Tour Guide](https://www.cnet.com/roadshow/news/google-in-car-gemini-demo-android-auto/)
- - [The Best Outdoor Deals From the REI Anniversary Sale 2026](https://www.wired.com/story/rei-anniversary-sale-2026/)
- - [I Chatted With Google&#39;s Lifesize, Hyperreal AI Companion](https://www.cnet.com/tech/services-and-software/google-io-beam-telepresence-ai-agent-demo/)
- - [A Bipartisan Amendment Would End Police License Plate Tracking Nationwide](https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/)
- - [ChatGPT Creator OpenAI Could Go Public Soon in Major Market Move](https://www.cnet.com/tech/services-and-software/openai-to-file-for-an-ipo-very-soon/)<!-- TECH:END -->
+ - [SpaceX S-1: xAI plans to buy another $2.8B worth of turbines for its data centers, including a $2B deal for mobile gas turbines, the type it&#39;s being sued over &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260520/p51#a260520p51)
+ - [SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers](https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/)
+ - [Phone Carriers Offer eSIM Plans in the US for World Cup Travelers From Abroad](https://www.cnet.com/tech/mobile/carriers-esim-mobile-plans-for-world-cup-travelers-to-us/)
+ - [SpaceX S-1: xAI had a $6.4B operating loss on $3.2B in revenue in 2025; Grok and X had 550M MAUs combined as of March 2026, and 117M used Grok&#39;s AI features &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260520/p50#a260520p50)
+ - [Elon Musk&#39;s SpaceX Files for Blockbuster IPO on Nasdaq](https://www.cnet.com/science/elon-musks-spacex-files-for-blockbuster-ipo-on-nasdaq/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

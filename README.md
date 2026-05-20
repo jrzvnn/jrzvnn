@@ -170,8 +170,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
  - 😝 [OSHA violation?](http://9gag.com/gag/aAy8QLd)
  - 💣 [That was close](http://9gag.com/gag/aryQWVX)
- - 😝 [How much did bro bet](http://9gag.com/gag/aPAExNP)
- - 👉 [You LOVE to see it!!](http://9gag.com/gag/aD2Knzw)<!-- MEMES:END -->
+ - 😝 [Take your time](http://9gag.com/gag/adBGOND)
+ - 👉 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)<!-- MEMES:END -->
 
 ---
 

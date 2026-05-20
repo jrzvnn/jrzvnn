@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Your suffering is not holding you , You are holding the suffering` --Buddha](http://9gag.com/gag/azxWxqm)
- - 😝 [He is right you know..](http://9gag.com/gag/aE09049)
- - 💣 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
- - 😝 [That was close](http://9gag.com/gag/aryQWVX)
- - 👉 [Perfect 10/10 GOTY. Ladies and Gentlemen.](http://9gag.com/gag/apR4R8W)<!-- MEMES:END -->
+ - 😝 [Found a bug in a poker machine and won half a million dollars. Lawyer said they just pushed buttons. Case dismissed. What a legend](http://9gag.com/gag/aD2K6zO)
+ - 😝 [Can we have an anime based on this?](http://9gag.com/gag/an7mR5B)
+ - 💣 [Never Forget](http://9gag.com/gag/a7oYO5b)
+ - 😝 [Why is this?](http://9gag.com/gag/aD2K6Q9)
+ - 👉 [Swim tip for life](http://9gag.com/gag/aGymLDw)<!-- MEMES:END -->
 
 ---
 

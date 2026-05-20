@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple server schematics stolen in May 2026 Foxconn cyberattack, AppleInsider confirms](https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms?utm_source=rss)
- - [Granta and the Commonwealth Foundation say they can&#39;t determine yet if AI was used to write a prize-winning short story after critics pointed to signs of AI use &lpar;The Guardian&rpar;](https://www.techmeme.com/260520/p42#a260520p42)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [I Gave My OpenClaw Agent a Physical Body](https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/)
- - [How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak](https://www.wired.com/story/climate-change-next-hantavirus-outbreak/)<!-- TECH:END -->
+ - [Nvidia reports Q1 net income up 211% YoY to $58.3B, beating analyst estimates of $42.9B, and raises Q2 revenue forecast to $91B &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260520/p47#a260520p47)
+ - [Kansas City Public Schools are going all-in on Apple](https://appleinsider.com/articles/26/05/20/kansas-city-public-schools-are-going-all-in-on-apple?utm_source=rss)
+ - [‘Solve all diseases,’ you say?](https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health)
+ - [In disclosures to investors, Anthropic says it expects to generate $10.9B in revenue in Q2, vs. $4.8B in Q1, and turn a $559M operating profit, its first ever &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/260520/p46#a260520p46)
+ - [SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX &lpar;Bloomberg&rpar;](https://www.techmeme.com/260520/p45#a260520p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

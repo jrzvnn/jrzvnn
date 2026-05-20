@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)
- - 💣 [That was close](http://9gag.com/gag/aryQWVX)
- - 😝 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
- - 👉 [Swim tip for life](http://9gag.com/gag/aGymLDw)<!-- MEMES:END -->
+ - 😝 [This will replace something important in your brain](http://9gag.com/gag/a4PXnyv)
+ - 😝 [Jim Baggins speaks the truth](http://9gag.com/gag/agmDmb6)
+ - 💣 [Balkan Drift](http://9gag.com/gag/aryQWOd)
+ - 😝 [Based](http://9gag.com/gag/abANexO)
+ - 👉 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)<!-- MEMES:END -->
 
 ---
 

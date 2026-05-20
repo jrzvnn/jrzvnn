@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On-demand manufacturing startup SendCutSend raised $110M co-led by Sequoia, Paradigm, and Stripe co-founders Patrick and John Collison, valuing it at $1B &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260519/p68#a260519p68)
- - [Google announces updates to Flow and Flow Music: Gemini Omni support, mobile apps, the ability to create custom tools like a video resizer or shaders, and more &lpar;Macy Meyer/CNET&rpar;](https://www.techmeme.com/260519/p67#a260519p67)
- - [Plex is tripling the price of a lifetime pass to $750 after doubling it last year](https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike)
- - [Discord says voice and video calls outside of stage channels are now end-to-end encrypted by default, after launching its encryption protocol in September 2024 &lpar;Jess Kinghorn/PC Gamer&rpar;](https://www.techmeme.com/260519/p66#a260519p66)
- - [Google debuts Gemini for Science, a set of experimental tools that help researchers generate hypotheses, conduct testing, and understand scientific literature &lpar;Jackson Chen/Engadget&rpar;](https://www.techmeme.com/260519/p65#a260519p65)<!-- TECH:END -->
+ - [Gemini 3.5 Flash costs $1.50 per 1M input tokens and $9 per 1M output tokens, 3x the price of Gemini 3 Flash Preview and 6x the price of Gemini 3.1 Flash-Lite &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260519/p73#a260519p73)
+ - [Boston-based CircuitHub, which manufactures circuit boards based on customers&#39; requirements, raised a $28M Series A led by Plural &lpar;Natalie Breymeyer/Axios&rpar;](https://www.techmeme.com/260519/p72#a260519p72)
+ - [How to Remove Nonconsensual Intimate Images Under the Take It Down Act](https://www.cnet.com/tech/services-and-software/how-to-file-take-it-down-act-request/)
+ - [Where, Oh Where, Was Wear OS 7 at Google I/O This Year?](https://www.cnet.com/tech/mobile/wheres-wear-os-7/)
+ - [Insta360 Pro Mic review: exceptional sound quality for a wireless microphone](https://appleinsider.com/articles/26/05/20/insta360-pro-mic-review-exceptional-sound-quality-for-a-wireless-microphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

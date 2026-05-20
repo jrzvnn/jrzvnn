@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia reports Q1 net income up 211% YoY to $58.3B, beating analyst estimates of $42.9B, and raises Q2 revenue forecast to $91B &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260520/p47#a260520p47)
- - [Kansas City Public Schools are going all-in on Apple](https://appleinsider.com/articles/26/05/20/kansas-city-public-schools-are-going-all-in-on-apple?utm_source=rss)
- - [‘Solve all diseases,’ you say?](https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health)
- - [In disclosures to investors, Anthropic says it expects to generate $10.9B in revenue in Q2, vs. $4.8B in Q1, and turn a $559M operating profit, its first ever &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/260520/p46#a260520p46)
- - [SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX &lpar;Bloomberg&rpar;](https://www.techmeme.com/260520/p45#a260520p45)<!-- TECH:END -->
+ - [Google&#39;s In-Car Gemini Dimmed the Sunroof, Ordered Dinner and Became My Tour Guide](https://www.cnet.com/roadshow/news/google-in-car-gemini-demo-android-auto/)
+ - [The Best Outdoor Deals From the REI Anniversary Sale 2026](https://www.wired.com/story/rei-anniversary-sale-2026/)
+ - [I Chatted With Google&#39;s Lifesize, Hyperreal AI Companion](https://www.cnet.com/tech/services-and-software/google-io-beam-telepresence-ai-agent-demo/)
+ - [A Bipartisan Amendment Would End Police License Plate Tracking Nationwide](https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/)
+ - [ChatGPT Creator OpenAI Could Go Public Soon in Major Market Move](https://www.cnet.com/tech/services-and-software/openai-to-file-for-an-ipo-very-soon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

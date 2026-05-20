@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
- - 😝 [OSHA violation?](http://9gag.com/gag/aAy8QLd)
+ - 😝 [How much did bro bet](http://9gag.com/gag/aPAExNP)
+ - 😝 [Yes, I understand that there have been no verified attacks in the wild, but you understand what they could do if they wanted too.](http://9gag.com/gag/aLnZLGz)
  - 💣 [That was close](http://9gag.com/gag/aryQWVX)
  - 😝 [Take your time](http://9gag.com/gag/adBGOND)
  - 👉 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)<!-- MEMES:END -->

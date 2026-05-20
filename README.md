@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found a bug in a poker machine and won half a million dollars. Lawyer said they just pushed buttons. Case dismissed. What a legend](http://9gag.com/gag/aD2K6zO)
- - 😝 [Can we have an anime based on this?](http://9gag.com/gag/an7mR5B)
- - 💣 [Never Forget](http://9gag.com/gag/a7oYO5b)
- - 😝 [Why is this?](http://9gag.com/gag/aD2K6Q9)
- - 👉 [Swim tip for life](http://9gag.com/gag/aGymLDw)<!-- MEMES:END -->
+ - 😝 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - 😝 [How much did bro bet](http://9gag.com/gag/aPAExNP)
+ - 💣 [Swim tip for life](http://9gag.com/gag/aGymLDw)
+ - 😝 [European tourists visiting California](http://9gag.com/gag/aND79Dv)
+ - 👉 [Felling a tree in Austria](http://9gag.com/gag/a2v38zp)<!-- MEMES:END -->
 
 ---
 

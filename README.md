@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: an attack exploiting a previously unknown vulnerability in Huawei router software caused a three-hour nationwide telecoms outage in Luxembourg in 2025 &lpar;Alexander Martin/The Record&rpar;](https://www.techmeme.com/260520/p8#a260520p8)
- - [Vietnam introduces Decree 142 to implement its AI law, requiring companies to classify AI models by risk level, label deepfakes, and disclose chatbot use &lpar;Lien Hoang/Nikkei Asia&rpar;](https://www.techmeme.com/260520/p7#a260520p7)
- - [Filing and sources: PE firm Hg has spun out €500M worth of assets from its €19B software group Visma, whose London IPO remains shelved amid the &quot;SaaSpocalypse&quot; &lpar;Alexandra Heal/Financial Times&rpar;](https://www.techmeme.com/260520/p6#a260520p6)
- - [SkyeChip becomes the first Malaysian chip design company to IPO on the Bursa Malaysia exchange, surging 300%+; the company was valued at ~$397M at its IPO price &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260520/p5#a260520p5)
- - [Alibaba&#39;s T-Head unveils the Zhenwu M890 AI chip for training and inference, saying it is particularly suited for agentic tasks, and plans annual upgrades &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260520/p4#a260520p4)<!-- TECH:END -->
+ - [Insta360 Mic Pro review: exceptional sound quality for a wireless microphone](https://appleinsider.com/articles/26/05/20/insta360-pro-mic-review-exceptional-sound-quality-for-a-wireless-microphone?utm_source=rss)
+ - [An analysis based on current valuations of OpenAI and Anthropic suggests ~$370B of philanthropic assets tied to the two AI companies are poised to become liquid &lpar;Nan Ransohoff/Nan&#39;s Substack&rpar;](https://www.techmeme.com/260520/p13#a260520p13)
+ - [Q&amp;A with Harvey CEO Winston Weinberg on launching the legal AI startup in 2022, how AI could shake up law firm business models, legal AI competition, and more &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260520/p12#a260520p12)
+ - [Two research papers describe how Google&#39;s Co-Scientist and nonprofit FutureHouse&#39;s AI tools can succeed at drug-retargeting tasks by forming hypotheses &lpar;John Timmer/Ars Technica&rpar;](https://www.techmeme.com/260520/p11#a260520p11)
+ - [Three precedent-setting court rulings in China have said that employers replacing workers with AI is voluntary cost-cutting that does not justify mass layoffs &lpar;Catie Edmondson/New York Times&rpar;](https://www.techmeme.com/260520/p10#a260520p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

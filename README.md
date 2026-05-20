@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insta360 Mic Pro review: exceptional sound quality for a wireless microphone](https://appleinsider.com/articles/26/05/20/insta360-pro-mic-review-exceptional-sound-quality-for-a-wireless-microphone?utm_source=rss)
- - [An analysis based on current valuations of OpenAI and Anthropic suggests ~$370B of philanthropic assets tied to the two AI companies are poised to become liquid &lpar;Nan Ransohoff/Nan&#39;s Substack&rpar;](https://www.techmeme.com/260520/p13#a260520p13)
- - [Q&amp;A with Harvey CEO Winston Weinberg on launching the legal AI startup in 2022, how AI could shake up law firm business models, legal AI competition, and more &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260520/p12#a260520p12)
- - [Two research papers describe how Google&#39;s Co-Scientist and nonprofit FutureHouse&#39;s AI tools can succeed at drug-retargeting tasks by forming hypotheses &lpar;John Timmer/Ars Technica&rpar;](https://www.techmeme.com/260520/p11#a260520p11)
- - [Three precedent-setting court rulings in China have said that employers replacing workers with AI is voluntary cost-cutting that does not justify mass layoffs &lpar;Catie Edmondson/New York Times&rpar;](https://www.techmeme.com/260520/p10#a260520p10)<!-- TECH:END -->
+ - [How to Upgrade Weber and Kamado Joe Into Smart Grills](https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/)
+ - [S. &quot;Soma&quot; Somasegar, who led Microsoft&#39;s Developer Division for 12 years as part of his 27-year tenure at the company before leaving in 2015, has died at age 59 &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260520/p20#a260520p20)
+ - [London-based Primer, which helps e-commerce merchants connect and manage multiple payment providers, raised a $100M Series C led by Sofina &lpar;Damisola Sulaiman/Sifted&rpar;](https://www.techmeme.com/260520/p19#a260520p19)
+ - [Android 17 is getting its own version of Apple&amp;#8217;s Handoff](https://www.theverge.com/tech/934457/android-17-continue-on-handoff)
+ - [Everything to Look for When Buying a New Laptop in 2026](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

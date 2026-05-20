@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - 😝 [OSHA violation?](http://9gag.com/gag/aAy8QLd)
+ - 💣 [That was close](http://9gag.com/gag/aryQWVX)
  - 😝 [How much did bro bet](http://9gag.com/gag/aPAExNP)
- - 💣 [Swim tip for life](http://9gag.com/gag/aGymLDw)
- - 😝 [European tourists visiting California](http://9gag.com/gag/aND79Dv)
- - 👉 [Felling a tree in Austria](http://9gag.com/gag/a2v38zp)<!-- MEMES:END -->
+ - 👉 [You LOVE to see it!!](http://9gag.com/gag/aD2Knzw)<!-- MEMES:END -->
 
 ---
 

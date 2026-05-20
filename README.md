@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)
- - 😝 [Pragmatic](http://9gag.com/gag/aQzLEW2)
- - 💣 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)
- - 😝 [Swim tip for life](http://9gag.com/gag/aGymLDw)
- - 👉 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)<!-- MEMES:END -->
+ - 😝 [`Your suffering is not holding you , You are holding the suffering` --Buddha](http://9gag.com/gag/azxWxqm)
+ - 😝 [He is right you know..](http://9gag.com/gag/aE09049)
+ - 💣 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
+ - 😝 [That was close](http://9gag.com/gag/aryQWVX)
+ - 👉 [Perfect 10/10 GOTY. Ladies and Gentlemen.](http://9gag.com/gag/apR4R8W)<!-- MEMES:END -->
 
 ---
 

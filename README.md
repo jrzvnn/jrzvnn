@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Mobile may be leaking customer addresses](https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses)
- - [Insta360’s Mic Pro uses a three microphone array for improved recordings](https://www.theverge.com/tech/934473/insta360-mic-pro-wireless-e-ink-screen-microphone-array)
- - [Apple says the App Store prevented over $2.2B in potentially fraudulent transactions in 2025, rejected over 2M problematic app submissions, and more &lpar;Ryan Christoffel/9to5Mac&rpar;](https://www.techmeme.com/260520/p27#a260520p27)
- - [Trump is waging a silent war on legal immigration](https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis)
- - [App Store fraud prevention a big numbers game powered by AI &amp; human review](https://appleinsider.com/articles/26/05/20/app-store-fraud-prevention-a-big-numbers-game-powered-by-ai-human-review?utm_source=rss)<!-- TECH:END -->
+ - [You can now remix other people’s YouTube Shorts with AI](https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai)
+ - [Samsung has a tentative deal with workers to avoid a memory chip strike](https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply)
+ - [Sources: OpenAI is preparing to file confidentially for an IPO as early as Friday; the company plans to be ready to go public as early as September &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260520/p39#a260520p39)
+ - [A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer](https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/)
+ - [Ubisoft reports a record operating loss of $1.40B for the year to March and says sales in 2026-27 would fall by about 8% to 9%; UBI falls 6%+ &lpar;Reuters&rpar;](https://www.techmeme.com/260520/p38#a260520p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

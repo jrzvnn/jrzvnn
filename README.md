@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [August Robotics, which makes autonomous robots for construction and industrial applications, raised $30M led by Big Pi Ventures &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260521/p33#a260521p33)
- - [Bungie gives up on Destiny](https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date)
- - [Palantir Held a Hack Week to Add New Controls to Software Used by ICE](https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/)
- - [Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day](https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale)
- - [An Upcoming MLS Match on Apple TV Will Be Shot Entirely on the iPhone 17 Pro](https://www.cnet.com/tech/services-and-software/apple-tv-presenting-first-live-professional-sporting-event-captured-entirely-on-iphone/)<!-- TECH:END -->
+ - [Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI](https://www.theverge.com/tech/935631/firefox-project-nova-redesign)
+ - [In desperate times, graduates find hope in humiliating tech CEOs](https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos)
+ - [Who gets to own the Luigi Mangione story?](https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters)
+ - [Spotify and Universal Music Group Strike a Deal for AI-Powered Remix and Cover Song Tool](https://www.cnet.com/tech/services-and-software/spotify-and-universal-music-group-ai-remixes/)
+ - [If You Use Google Chrome, Your Device May Have Secretly Downloaded a 4GB AI Model](https://www.cnet.com/tech/services-and-software/if-you-use-google-chrome-your-device-may-have-secretly-downloaded-a-4gb-ai-model/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

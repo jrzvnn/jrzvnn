@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - 😝 [Dude wasn\u2019t acting. It was all real for him](http://9gag.com/gag/ae9n1om)
+ - 💣 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
  - 😝 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
- - 😝 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
- - 💣 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
- - 😝 [Boys will be boys](http://9gag.com/gag/a346AV7)
- - 👉 [Peak performance](http://9gag.com/gag/aW4r7Dq)<!-- MEMES:END -->
+ - 👉 [European tourists visiting California](http://9gag.com/gag/aND79Dv)<!-- MEMES:END -->
 
 ---
 

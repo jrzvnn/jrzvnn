@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To master electricity, one must become it](http://9gag.com/gag/aoyv39n)
- - 😝 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)
+ - 😝 [Don&#39;t mind if I do](http://9gag.com/gag/an7mR0E)
+ - 😝 [Peak performance](http://9gag.com/gag/aW4r7Dq)
  - 💣 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)
- - 😝 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
- - 👉 [That was close](http://9gag.com/gag/aryQWVX)<!-- MEMES:END -->
+ - 😝 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
+ - 👉 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: smart ring maker Oura filed confidentially for a US IPO, set for later in 2026; SF- and Finland-based Oura had an $11B valuation in September 2025 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260521/p31#a260521p31)
- - [The cost of the smart home is going up](https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue)
- - [Spotify and UMG plan to let Premium users create AI covers and remixes using music from participating UMG artists as a paid add-on, without giving a launch date &lpar;Jem Aswad/Variety&rpar;](https://www.techmeme.com/260521/p30#a260521p30)
- - [Meta and Google get data from the app your boss uses to track you](https://www.theverge.com/policy/935299/bossware-employer-surveillance)
- - [London Mayor Sadiq Khan blocks the Met police&#39;s £50M Palantir deal to automate intelligence analysis, citing a &quot;clear and serious breach&quot; of procurement rules &lpar;Robert Booth/The Guardian&rpar;](https://www.techmeme.com/260521/p29#a260521p29)<!-- TECH:END -->
+ - [August Robotics, which makes autonomous robots for construction and industrial applications, raised $30M led by Big Pi Ventures &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260521/p33#a260521p33)
+ - [Bungie gives up on Destiny](https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date)
+ - [Palantir Held a Hack Week to Add New Controls to Software Used by ICE](https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/)
+ - [Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day](https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale)
+ - [An Upcoming MLS Match on Apple TV Will Be Shot Entirely on the iPhone 17 Pro](https://www.cnet.com/tech/services-and-software/apple-tv-presenting-first-live-professional-sporting-event-captured-entirely-on-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

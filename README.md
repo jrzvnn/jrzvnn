@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swim tip for life](http://9gag.com/gag/aGymLDw)
- - 😝 [Felling a tree in Austria](http://9gag.com/gag/a2v38zp)
- - 💣 [Never Forget](http://9gag.com/gag/a7oYO5b)
- - 😝 [I like turtles](http://9gag.com/gag/amoeWN6)
- - 👉 [Dude wasn\u2019t acting. It was all real for him](http://9gag.com/gag/ae9n1om)<!-- MEMES:END -->
+ - 😝 [To master electricity, one must become it](http://9gag.com/gag/aoyv39n)
+ - 😝 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)
+ - 💣 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)
+ - 😝 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - 👉 [That was close](http://9gag.com/gag/aryQWVX)<!-- MEMES:END -->
 
 ---
 

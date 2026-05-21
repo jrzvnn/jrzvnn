@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [States ask judge to break up Live Nation-Ticketmaster](https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up)
+ - [Apple&#39;s latest appeal to the Supreme Court challenges two issues in Epic case](https://appleinsider.com/articles/26/05/21/after-failed-delays-apple-files-formal-request-with-supreme-court-to-review-epic-case?utm_source=rss)
+ - [What to Do in LA if You’re Here for Business &lpar;2025&rpar;](https://www.wired.com/story/los-angeles-tech-travel-guide/)
  - [Source: Cursor reached $3B in annualized revenue in late April and now has 3,000+ customers paying at least $100K each for its software on an annualized basis &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260521/p45#a260521p45)
- - [‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says](https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/)
- - [Spotify closes up 13% after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens and gross margins of 35%-40% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260521/p44#a260521p44)
- - [Zoom reports Q1 revenue up 5.5% YoY to $1.24B, vs. $1.22B est., AI Companion paid users up 184%, forecasts FY 2027 revenue above est.; ZM jumps 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260521/p43#a260521p43)
- - [Take-Two reports Q4 bookings flat YoY at $1.58B, forecasts FY 2027 bookings below est., reiterates GTA VI&#39;s November 19 launch date; TTWO jumps 6%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](https://www.techmeme.com/260521/p42#a260521p42)<!-- TECH:END -->
+ - [‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says](https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

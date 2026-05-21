@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OSHA violation?](http://9gag.com/gag/aAy8QLd)
- - 😝 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
- - 💣 [Longest route home](http://9gag.com/gag/aND7vy3)
- - 😝 [Boys will be boys](http://9gag.com/gag/a346AV7)
- - 👉 [Peak performance](http://9gag.com/gag/aW4r7Dq)<!-- MEMES:END -->
+ - 😝 [A guy accidentally pressed the Emergency button as he tripped down the stairs.](http://9gag.com/gag/ayNb4vr)
+ - 😝 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)
+ - 💣 [Girls](http://9gag.com/gag/aLnZzGW)
+ - 😝 [Easy to guess](http://9gag.com/gag/aZZ68d9)
+ - 👉 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)<!-- MEMES:END -->
 
 ---
 

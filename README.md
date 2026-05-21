@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t mind if I do](http://9gag.com/gag/an7mR0E)
- - 😝 [Peak performance](http://9gag.com/gag/aW4r7Dq)
- - 💣 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)
  - 😝 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
- - 👉 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)<!-- MEMES:END -->
+ - 😝 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
+ - 💣 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - 😝 [Boys will be boys](http://9gag.com/gag/a346AV7)
+ - 👉 [Peak performance](http://9gag.com/gag/aW4r7Dq)<!-- MEMES:END -->
 
 ---
 

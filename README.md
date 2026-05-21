@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How much did bro bet](http://9gag.com/gag/aPAExNP)
- - 😝 [Yes, I understand that there have been no verified attacks in the wild, but you understand what they could do if they wanted too.](http://9gag.com/gag/aLnZLGz)
- - 💣 [That was close](http://9gag.com/gag/aryQWVX)
- - 😝 [Take your time](http://9gag.com/gag/adBGOND)
- - 👉 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)<!-- MEMES:END -->
+ - 😝 [Swim tip for life](http://9gag.com/gag/aGymLDw)
+ - 😝 [Felling a tree in Austria](http://9gag.com/gag/a2v38zp)
+ - 💣 [Never Forget](http://9gag.com/gag/a7oYO5b)
+ - 😝 [I like turtles](http://9gag.com/gag/amoeWN6)
+ - 👉 [Dude wasn\u2019t acting. It was all real for him](http://9gag.com/gag/ae9n1om)<!-- MEMES:END -->
 
 ---
 

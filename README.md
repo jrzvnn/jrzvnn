@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX S-1: xAI plans to buy another $2.8B worth of turbines for its data centers, including a $2B deal for mobile gas turbines, the type it&#39;s being sued over &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260520/p51#a260520p51)
- - [SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers](https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/)
- - [Phone Carriers Offer eSIM Plans in the US for World Cup Travelers From Abroad](https://www.cnet.com/tech/mobile/carriers-esim-mobile-plans-for-world-cup-travelers-to-us/)
- - [SpaceX S-1: xAI had a $6.4B operating loss on $3.2B in revenue in 2025; Grok and X had 550M MAUs combined as of March 2026, and 117M used Grok&#39;s AI features &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260520/p50#a260520p50)
- - [Elon Musk&#39;s SpaceX Files for Blockbuster IPO on Nasdaq](https://www.cnet.com/science/elon-musks-spacex-files-for-blockbuster-ipo-on-nasdaq/)<!-- TECH:END -->
+ - [Cohere releases Command A+, a sparse MoE open model built for agentic tasks, with 218B total and 25B active parameters, its first under the Apache 2.0 license &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260520/p56#a260520p56)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-21/)
+ - [Jensen Huang said that Nvidia has &quot;largely conceded&quot; China&#39;s AI chip market to Huawei and should &quot;expect nothing&quot; regarding chip sale approvals to China &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/260520/p55#a260520p55)
+ - [Filing: SpaceX set aside $530M for potential litigation losses, including lawsuits involving Grok&#39;s &quot;Spicy&quot; mode, which it described as a &quot;heightened risk&quot; &lpar;Wired&rpar;](https://www.techmeme.com/260520/p54#a260520p54)
+ - [SpaceX S-1: Starlink had 10.3M subscribers in Q1 2026, a 105% increase YoY; SpaceX&#39;s &quot;Connectivity&quot; business, which is primarily Starlink, made $11.3B in 2025 &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260520/p53#a260520p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

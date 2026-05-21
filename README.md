@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Easy Japanese](http://9gag.com/gag/ae9nZ4O)
  - 😝 [Title](http://9gag.com/gag/a346A5e)
- - 😝 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)
- - 💣 [Longest route home](http://9gag.com/gag/aND7vy3)
+ - 💣 [Take your time](http://9gag.com/gag/adBGOND)
  - 😝 [Easy to guess](http://9gag.com/gag/aZZ68d9)
- - 👉 [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)<!-- MEMES:END -->
+ - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A guy accidentally pressed the Emergency button as he tripped down the stairs.](http://9gag.com/gag/ayNb4vr)
+ - 😝 [Title](http://9gag.com/gag/a346A5e)
  - 😝 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)
- - 💣 [Girls](http://9gag.com/gag/aLnZzGW)
+ - 💣 [Longest route home](http://9gag.com/gag/aND7vy3)
  - 😝 [Easy to guess](http://9gag.com/gag/aZZ68d9)
- - 👉 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)<!-- MEMES:END -->
+ - 👉 [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)<!-- MEMES:END -->
 
 ---
 

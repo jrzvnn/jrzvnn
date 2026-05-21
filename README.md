@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study conducted in the Phoenix metro area finds that waste heat from data centers can raise air temperatures in downwind neighborhoods by as much as 4°F &lpar;Tech Xplore&rpar;](https://www.techmeme.com/260521/p6#a260521p6)
- - [Paris-based Pivot, which develops AI tools for procurement and financial workflows, raised a $40M Series B co-led by Forestay Capital and Notion Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260521/p5#a260521p5)
- - [Bengaluru-based Scapia, which offers travel-focused co-branded credit cards and an app, raised $63M led by GC, a source says at a $500M+ post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260521/p4#a260521p4)
- - [The EU Is Going Through a Trump-Fueled Breakup With Big Tech](https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/)
- - [X resolved a three-year dispute with Australia&#39;s eSafety regulator after a court upheld a fine against the company for inadequate disclosures on combating CSAM &lpar;Byron Kaye/Reuters&rpar;](https://www.techmeme.com/260521/p3#a260521p3)<!-- TECH:END -->
+ - [Best Dyson Vacuums &lpar;2026&rpar;: V15 Detect, Gen5Detect, PencilVac](https://www.wired.com/gallery/best-dyson-vacuums/)
+ - [Higgsfield AI premieres Hell Grind, a 95-minute fully AI-generated film, at Cannes and says it took two weeks and cost $500K to make, of which $400K was on AI &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](https://www.techmeme.com/260521/p12#a260521p12)
+ - [‘Margo’s Got Money Troubles’ Won TV’s OnlyFans Wars](https://www.wired.com/story/margos-got-money-troubles-won-tvs-onlyfans-wars/)
+ - [SpaceX S-1: Valor Equity Partners founder Antonio Gracias, a longtime Elon Musk ally, controls a 7.3% stake in SpaceX, the second-largest holder after Musk &lpar;Bloomberg&rpar;](https://www.techmeme.com/260521/p11#a260521p11)
+ - [Jeff Bezos dismisses AI job fears, defends billionaires against &quot;vilification&quot;, proposes eliminating income taxes for low earners, and praises President Trump &lpar;CNBC&rpar;](https://www.techmeme.com/260521/p10#a260521p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

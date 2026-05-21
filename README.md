@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cohere releases Command A+, a sparse MoE open model built for agentic tasks, with 218B total and 25B active parameters, its first under the Apache 2.0 license &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260520/p56#a260520p56)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-21/)
- - [Jensen Huang said that Nvidia has &quot;largely conceded&quot; China&#39;s AI chip market to Huawei and should &quot;expect nothing&quot; regarding chip sale approvals to China &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/260520/p55#a260520p55)
- - [Filing: SpaceX set aside $530M for potential litigation losses, including lawsuits involving Grok&#39;s &quot;Spicy&quot; mode, which it described as a &quot;heightened risk&quot; &lpar;Wired&rpar;](https://www.techmeme.com/260520/p54#a260520p54)
- - [SpaceX S-1: Starlink had 10.3M subscribers in Q1 2026, a 105% increase YoY; SpaceX&#39;s &quot;Connectivity&quot; business, which is primarily Starlink, made $11.3B in 2025 &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260520/p53#a260520p53)<!-- TECH:END -->
+ - [A study conducted in the Phoenix metro area finds that waste heat from data centers can raise air temperatures in downwind neighborhoods by as much as 4°F &lpar;Tech Xplore&rpar;](https://www.techmeme.com/260521/p6#a260521p6)
+ - [Paris-based Pivot, which develops AI tools for procurement and financial workflows, raised a $40M Series B co-led by Forestay Capital and Notion Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260521/p5#a260521p5)
+ - [Bengaluru-based Scapia, which offers travel-focused co-branded credit cards and an app, raised $63M led by GC, a source says at a $500M+ post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260521/p4#a260521p4)
+ - [The EU Is Going Through a Trump-Fueled Breakup With Big Tech](https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/)
+ - [X resolved a three-year dispute with Australia&#39;s eSafety regulator after a court upheld a fine against the company for inadequate disclosures on combating CSAM &lpar;Byron Kaye/Reuters&rpar;](https://www.techmeme.com/260521/p3#a260521p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

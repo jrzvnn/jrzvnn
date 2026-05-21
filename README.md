@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo&#39;s &#39;Pictonico!&#39; is a collection of minigames powered by Photos](https://appleinsider.com/articles/26/05/19/nintendo-announces-pictonico-a-collection-of-minigames-powered-by-your-photos?utm_source=rss)
- - [Anthropic is paying $15 billion a year for access to Elon Musk’s data centers](https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus)
- - [NYC and LA Are Teaming Up to Fight for EVs](https://www.wired.com/story/nyc-and-la-are-teaming-up-to-fight-for-evs/)
- - [Netflix’s next great sci-fi show is set in a retirement community](https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix)
- - [The new Flipper One is a pocket-sized Linux computer](https://www.theverge.com/tech/935202/flipper-devices-one-zero-wireless-multi-tool-linux-open-source-computer)<!-- TECH:END -->
+ - [Source: smart ring maker Oura filed confidentially for a US IPO, set for later in 2026; SF- and Finland-based Oura had an $11B valuation in September 2025 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260521/p31#a260521p31)
+ - [The cost of the smart home is going up](https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue)
+ - [Spotify and UMG plan to let Premium users create AI covers and remixes using music from participating UMG artists as a paid add-on, without giving a launch date &lpar;Jem Aswad/Variety&rpar;](https://www.techmeme.com/260521/p30#a260521p30)
+ - [Meta and Google get data from the app your boss uses to track you](https://www.theverge.com/policy/935299/bossware-employer-surveillance)
+ - [London Mayor Sadiq Khan blocks the Met police&#39;s £50M Palantir deal to automate intelligence analysis, citing a &quot;clear and serious breach&quot; of procurement rules &lpar;Robert Booth/The Guardian&rpar;](https://www.techmeme.com/260521/p29#a260521p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

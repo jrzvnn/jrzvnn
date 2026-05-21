@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Easy Japanese](http://9gag.com/gag/ae9nZ4O)
- - 😝 [Title](http://9gag.com/gag/a346A5e)
- - 💣 [Take your time](http://9gag.com/gag/adBGOND)
+ - 😝 [OK, that will never happen, but what if ?](http://9gag.com/gag/aRBbMDA)
  - 😝 [Easy to guess](http://9gag.com/gag/aZZ68d9)
- - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
+ - 💣 [Seriously, for how many of you was this a reality?](http://9gag.com/gag/adBGQRV)
+ - 😝 [Sleep is for the weak](http://9gag.com/gag/aLnZe45)
+ - 👉 [Experienced Trainee](http://9gag.com/gag/a2v38nw)<!-- MEMES:END -->
 
 ---
 

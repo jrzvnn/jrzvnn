@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI](https://www.theverge.com/tech/935631/firefox-project-nova-redesign)
- - [In desperate times, graduates find hope in humiliating tech CEOs](https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos)
- - [Who gets to own the Luigi Mangione story?](https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters)
- - [Spotify and Universal Music Group Strike a Deal for AI-Powered Remix and Cover Song Tool](https://www.cnet.com/tech/services-and-software/spotify-and-universal-music-group-ai-remixes/)
- - [If You Use Google Chrome, Your Device May Have Secretly Downloaded a 4GB AI Model](https://www.cnet.com/tech/services-and-software/if-you-use-google-chrome-your-device-may-have-secretly-downloaded-a-4gb-ai-model/)<!-- TECH:END -->
+ - [Source: Cursor reached $3B in annualized revenue in late April and now has 3,000+ customers paying at least $100K each for its software on an annualized basis &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260521/p45#a260521p45)
+ - [‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says](https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/)
+ - [Spotify closes up 13% after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens and gross margins of 35%-40% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260521/p44#a260521p44)
+ - [Zoom reports Q1 revenue up 5.5% YoY to $1.24B, vs. $1.22B est., AI Companion paid users up 184%, forecasts FY 2027 revenue above est.; ZM jumps 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260521/p43#a260521p43)
+ - [Take-Two reports Q4 bookings flat YoY at $1.58B, forecasts FY 2027 bookings below est., reiterates GTA VI&#39;s November 19 launch date; TTWO jumps 6%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](https://www.techmeme.com/260521/p42#a260521p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

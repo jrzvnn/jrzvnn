@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Dyson Vacuums &lpar;2026&rpar;: V15 Detect, Gen5Detect, PencilVac](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [Higgsfield AI premieres Hell Grind, a 95-minute fully AI-generated film, at Cannes and says it took two weeks and cost $500K to make, of which $400K was on AI &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](https://www.techmeme.com/260521/p12#a260521p12)
- - [‘Margo’s Got Money Troubles’ Won TV’s OnlyFans Wars](https://www.wired.com/story/margos-got-money-troubles-won-tvs-onlyfans-wars/)
- - [SpaceX S-1: Valor Equity Partners founder Antonio Gracias, a longtime Elon Musk ally, controls a 7.3% stake in SpaceX, the second-largest holder after Musk &lpar;Bloomberg&rpar;](https://www.techmeme.com/260521/p11#a260521p11)
- - [Jeff Bezos dismisses AI job fears, defends billionaires against &quot;vilification&quot;, proposes eliminating income taxes for low earners, and praises President Trump &lpar;CNBC&rpar;](https://www.techmeme.com/260521/p10#a260521p10)<!-- TECH:END -->
+ - [Nintendo&#39;s &#39;Pictonico!&#39; is a collection of minigames powered by Photos](https://appleinsider.com/articles/26/05/19/nintendo-announces-pictonico-a-collection-of-minigames-powered-by-your-photos?utm_source=rss)
+ - [Anthropic is paying $15 billion a year for access to Elon Musk’s data centers](https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus)
+ - [NYC and LA Are Teaming Up to Fight for EVs](https://www.wired.com/story/nyc-and-la-are-teaming-up-to-fight-for-evs/)
+ - [Netflix’s next great sci-fi show is set in a retirement community](https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix)
+ - [The new Flipper One is a pocket-sized Linux computer](https://www.theverge.com/tech/935202/flipper-devices-one-zero-wireless-multi-tool-linux-open-source-computer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

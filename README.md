@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card](https://www.theverge.com/gadgets/936122/lg-b5-oled-77-best-buy-gift-card-memorial-day-deal-sale)
- - [Routers vs. Modems: What You Need to Get Online](https://www.wired.com/story/router-vs-modem/)
- - [Even If You Hate AI, You Will Use Google AI Search](https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/)
- - [The Trump phone is not here](https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped)
- - [Memo: Yusuf Mehdi, a 35-year Microsoft veteran who has been its consumer chief marketing officer since 2023, will leave the company after the next fiscal year &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260522/p18#a260522p18)<!-- TECH:END -->
+ - [Elon, stop trying to make Grok happen](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen)
+ - [iPhone 18 clear cases could revert to old MagSafe design for some reason](https://appleinsider.com/articles/26/05/22/iphone-18-clear-cases-could-revert-to-old-magsafe-design-for-some-reason?utm_source=rss)
+ - [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
+ - [Activision shareholders reach a $250M settlement over allegations that Microsoft and Activision underpaid them during Microsoft&#39;s 2023 acquisition of Activision &lpar;Tom Hals/Reuters&rpar;](https://www.techmeme.com/260522/p20#a260522p20)
+ - [We&#39;ve Trawled Through Thousands of Memorial Day Sales and Handpicked the Very Best Deals](https://www.cnet.com/news-live/memorial-day-sales-live-blog-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

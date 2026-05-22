@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Longest route home](http://9gag.com/gag/aND7vy3)
- - 😝 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
- - 💣 [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)
- - 😝 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
- - 👉 [Entanglement.](http://9gag.com/gag/a7oYV2A)<!-- MEMES:END -->
+ - 😝 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
+ - 😝 [The Snap-on version is worth the money](http://9gag.com/gag/aQzLQE8)
+ - 💣 [Longest route home](http://9gag.com/gag/aND7vy3)
+ - 😝 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
+ - 👉 [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)<!-- MEMES:END -->
 
 ---
 

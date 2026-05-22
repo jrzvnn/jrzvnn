@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD CEO Lisa Su projects the CPU market will grow over 35% annually through 2031, up from 3% to 4% historically, driven by AI inference and agentic AI demand &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260522/p6#a260522p6)
- - [Lenovo reports Q4 revenue up 27% YoY to $21.6B, above $18.7B est., net profit up 479% to $521M, above $271M est., as the PC maker pushes into AI server markets &lpar;Reuters&rpar;](https://www.techmeme.com/260522/p5#a260522p5)
- - [Sources: Nintendo asked partners and suppliers to assemble ~20M Switch 2 consoles by March 2027, ~20% above the 16.5M public sales outlook issued in early May &lpar;Takashi Mochizuki/Bloomberg&rpar;](https://www.techmeme.com/260522/p4#a260522p4)
- - [Meta, Broadcom, Applied Materials, GlobalFoundries, and Synopsys launch a $125M &quot;Semiconductor Hub&quot; at UCLA to advance AI chip research and more &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260522/p3#a260522p3)
- - [Nike Promo Codes and Discounts: 30% for May 2026](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
+ - [US and Canadian authorities arrest 23-year-old Jacob Butler, known online as &quot;Dort&quot;, for allegedly operating the Kimwolf DDoS botnet, which infected ~2M devices &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260522/p9#a260522p9)
+ - [Microsoft is letting Office users remove an annoying Copilot button](https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal)
+ - [Meta releases Forum, a Reddit-like standalone app for Facebook Groups, with a feed showing Group conversations and an AI-powered &quot;Ask&quot; feature, on iOS &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/260522/p8#a260522p8)
+ - [Razer Viper V4 Pro Review: Iterative Update Packs Big Performance](https://www.wired.com/review/review-razer-viper-v4-pro/)
+ - [Finally, a Great Free Radio App for Windows](https://www.wired.com/story/trdo-is-a-great-free-radio-app-for-windows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

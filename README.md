@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm stock closed up 11.6% on Friday and is now up 75% in the past month, as the company increasingly becomes a key player in AI devices &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260522/p25#a260522p25)
  - [Google&amp;#8217;s AI search is so broken it can &amp;#8216;disregard&amp;#8217; what you&amp;#8217;re looking for](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard)
  - [iPhone 18 color &#39;leak&#39; from fake account appears to be camera protector, not component](https://appleinsider.com/articles/26/05/22/iphone-18-color-leak-from-fake-account-appears-to-be-camera-protector-not-component?utm_source=rss)
  - [Google&#39;s AI Overviews are failing to provide search summaries for specific command-style terms including &quot;disregard&quot;, &quot;ignore&quot;, and &quot;skip&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260522/p24#a260522p24)
- - [Sources: the SEC has delayed the release of a plan for an &quot;innovation exemption&quot; that would allow crypto firms to trade tokenized versions of US stocks &lpar;Scott Patterson/Bloomberg&rpar;](https://www.techmeme.com/260522/p23#a260522p23)
- - [I Have Scanned Thousands of Memorial Day Sales. These Are the Only Ones Worth Your Time](https://www.cnet.com/news-live/memorial-day-sales-live-blog-2026/)<!-- TECH:END -->
+ - [T-Mobile Opens Beta for Network-Based Live Language Translation](https://www.cnet.com/tech/mobile/t-mobile-opens-beta-for-network-based-live-language-translation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

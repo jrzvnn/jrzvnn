@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use NameDrop to exchange iPhone contacts in seconds](https://appleinsider.com/articles/26/05/22/how-to-use-namedrop-to-exchange-iphone-contacts-in-seconds?utm_source=rss)
- - [Sources: Trump delayed signing the AI EO because &quot;he just hates regulation&quot;; he spoke with Mark Zuckerberg, Elon Musk, and David Sacks just prior to the delay &lpar;Axios&rpar;](https://www.techmeme.com/260521/p52#a260521p52)
- - [Socket: TeamPCP, the gang claiming GitHub&#39;s repositories breach, also executed 20 &quot;waves&quot; of supply chain attacks recently, compromising 500+ pieces of software &lpar;Wired&rpar;](https://www.techmeme.com/260521/p51#a260521p51)
- - [Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12% &lpar;Chloe Taylor/CNBC&rpar;](https://www.techmeme.com/260521/p50#a260521p50)
- - [Sources: Bungie plans a significant number of layoffs as it ends development on Destiny 2 and has no new project lined up for the game&#39;s development team &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260521/p49#a260521p49)<!-- TECH:END -->
+ - [AMD CEO Lisa Su projects the CPU market will grow over 35% annually through 2031, up from 3% to 4% historically, driven by AI inference and agentic AI demand &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260522/p6#a260522p6)
+ - [Lenovo reports Q4 revenue up 27% YoY to $21.6B, above $18.7B est., net profit up 479% to $521M, above $271M est., as the PC maker pushes into AI server markets &lpar;Reuters&rpar;](https://www.techmeme.com/260522/p5#a260522p5)
+ - [Sources: Nintendo asked partners and suppliers to assemble ~20M Switch 2 consoles by March 2027, ~20% above the 16.5M public sales outlook issued in early May &lpar;Takashi Mochizuki/Bloomberg&rpar;](https://www.techmeme.com/260522/p4#a260522p4)
+ - [Meta, Broadcom, Applied Materials, GlobalFoundries, and Synopsys launch a $125M &quot;Semiconductor Hub&quot; at UCLA to advance AI chip research and more &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260522/p3#a260522p3)
+ - [Nike Promo Codes and Discounts: 30% for May 2026](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

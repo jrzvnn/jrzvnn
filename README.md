@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AI spend remains flat as OpenAI loses $1.25 for every $1](https://appleinsider.com/articles/26/05/22/apples-ai-spend-remains-flat-as-openai-loses-125-for-every-1?utm_source=rss)
- - [Memorial Day Tech Deals: Sony, Apple, Beats &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-tech-deals-2026-1/)
- - [Forum Is Meta&#39;s Dedicated App for Bringing Your Facebook Groups Together in One Feed](https://www.cnet.com/tech/services-and-software/new-meta-app-forum-brings-your-facebook-groups-together-one-feed/)
- - [Google rolls out a Google Wallet redesign, including &quot;dynamic quick access&quot; for favourites, a &quot;View more&quot; floating action button, and more &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260522/p21#a260522p21)
- - [Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel](https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale)<!-- TECH:END -->
+ - [Google&amp;#8217;s AI search is so broken it can &amp;#8216;disregard&amp;#8217; what you&amp;#8217;re looking for](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard)
+ - [iPhone 18 color &#39;leak&#39; from fake account appears to be camera protector, not component](https://appleinsider.com/articles/26/05/22/iphone-18-color-leak-from-fake-account-appears-to-be-camera-protector-not-component?utm_source=rss)
+ - [Google&#39;s AI Overviews are failing to provide search summaries for specific command-style terms including &quot;disregard&quot;, &quot;ignore&quot;, and &quot;skip&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260522/p24#a260522p24)
+ - [Sources: the SEC has delayed the release of a plan for an &quot;innovation exemption&quot; that would allow crypto firms to trade tokenized versions of US stocks &lpar;Scott Patterson/Bloomberg&rpar;](https://www.techmeme.com/260522/p23#a260522p23)
+ - [I Have Scanned Thousands of Memorial Day Sales. These Are the Only Ones Worth Your Time](https://www.cnet.com/news-live/memorial-day-sales-live-blog-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

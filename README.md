@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Snap-on version is worth the money](http://9gag.com/gag/aQzLQE8)
- - 😝 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 💣 [Proof that time travel is possible](http://9gag.com/gag/adBGn6Q)
- - 😝 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
- - 👉 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)<!-- MEMES:END -->
+ - 😝 [Aim lock](http://9gag.com/gag/a87RDvp)
+ - 😝 [Old games made things hardet](http://9gag.com/gag/a9yx8OZ)
+ - 💣 [JDM](http://9gag.com/gag/aGymGKn)
+ - 😝 [Weather](http://9gag.com/gag/an7mv8B)
+ - 👉 [Something to forget again](http://9gag.com/gag/amoe6yo)<!-- MEMES:END -->
 
 ---
 

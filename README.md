@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [European tourists visiting California](http://9gag.com/gag/aND79Dv)
- - 😝 [Something to forget again](http://9gag.com/gag/amoe6yo)
- - 💣 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
- - 😝 [Longest route home](http://9gag.com/gag/aND7vy3)
- - 👉 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)<!-- MEMES:END -->
+ - 😝 [OK, that will never happen, but what if ?](http://9gag.com/gag/aRBbMDA)
+ - 😝 [Experienced Trainee](http://9gag.com/gag/a2v38nw)
+ - 💣 [Guess my blood flow is just too dedicated to my toes](http://9gag.com/gag/avyMeBb)
+ - 😝 [This is so accurate.](http://9gag.com/gag/aGymBb7)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1579](http://9gag.com/gag/aW4rnXK)<!-- MEMES:END -->
 
 ---
 

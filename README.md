@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OK, that will never happen, but what if ?](http://9gag.com/gag/aRBbMDA)
- - 😝 [Experienced Trainee](http://9gag.com/gag/a2v38nw)
- - 💣 [Guess my blood flow is just too dedicated to my toes](http://9gag.com/gag/avyMeBb)
- - 😝 [This is so accurate.](http://9gag.com/gag/aGymBb7)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1579](http://9gag.com/gag/aW4rnXK)<!-- MEMES:END -->
+ - 😝 [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)
+ - 😝 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
+ - 💣 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
+ - 😝 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
+ - 👉 [Entanglement.](http://9gag.com/gag/a7oYV2A)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Emmanuel Macron says France will invest an additional €1B for quantum computing research and a further €550M in state funding for semiconductors &lpar;France 24&rpar;](https://www.techmeme.com/260522/p27#a260522p27)
- - [Sources: WH approved a $9B request to acquire advanced AI chips for spy agencies; Anthropic is finalizing a classified contract for NSA to keep using its tools &lpar;New York Times&rpar;](https://www.techmeme.com/260522/p26#a260522p26)
- - [Qualcomm stock closed up 11.6% on Friday and is now up 75% in the past month, as the company increasingly becomes a key player in AI devices &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260522/p25#a260522p25)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
- - [Stop Making These 9 Mistakes With Your Exercise Bike](https://www.cnet.com/health/fitness/exercise-bike-set-up-mistakes/)<!-- TECH:END -->
+ - [The Trump administration plans to require most green card applicants to return to their home countries to apply, which could adversely impact tech workers &lpar;Peter Wells/Financial Times&rpar;](https://www.techmeme.com/260522/p31#a260522p31)
+ - [Google files its appeal of the US federal ruling deeming it an illegal search monopolist, arguing it &quot;prevailed in the marketplace fair and square&quot; &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260522/p30#a260522p30)
+ - [China&#39;s Wingtech files a lawsuit against Nexperia, saying its control over the Dutch chipmaker remained restricted, and seeks ~$1.2B for economic losses &lpar;Reuters&rpar;](https://www.techmeme.com/260522/p29#a260522p29)
+ - [The US Ambassador to Canada accuses Canada of imposing trade barriers by requiring that US streamers contribute 15% of Canadian revenue to local programming &lpar;Paul Vieira/Wall Street Journal&rpar;](https://www.techmeme.com/260522/p28#a260522p28)
+ - [President Emmanuel Macron says France will invest an additional €1B for quantum computing research and a further €550M in state funding for semiconductors &lpar;France 24&rpar;](https://www.techmeme.com/260522/p27#a260522p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

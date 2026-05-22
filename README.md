@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo suspends freeway rides and pauses its Atlanta operations, as it updates software to improve performance around construction zones and flooded roadways &lpar;Reuters&rpar;](https://www.techmeme.com/260521/p48#a260521p48)
- - [Adobe, Canva, and CapCut announce Gemini integrations to let users access the companies&#39; image and video editing tools within the Gemini app &lpar;James Peckham/PCMag&rpar;](https://www.techmeme.com/260521/p47#a260521p47)
- - [ElevenLabs, which aims to build an all-in-one AI voice app, licensed 200K human-voiced audiobooks from major publishers, available in ElevenReader for $11/mo. &lpar;Ashley Carman/Bloomberg&rpar;](https://www.techmeme.com/260521/p46#a260521p46)
- - [Anker’s new earbuds are the first with its AI chip that boosts noise reduction](https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip)
- - [Anker’s new earbuds have the best call quality I’ve ever heard](https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review)<!-- TECH:END -->
+ - [How to use NameDrop to exchange iPhone contacts in seconds](https://appleinsider.com/articles/26/05/22/how-to-use-namedrop-to-exchange-iphone-contacts-in-seconds?utm_source=rss)
+ - [Sources: Trump delayed signing the AI EO because &quot;he just hates regulation&quot;; he spoke with Mark Zuckerberg, Elon Musk, and David Sacks just prior to the delay &lpar;Axios&rpar;](https://www.techmeme.com/260521/p52#a260521p52)
+ - [Socket: TeamPCP, the gang claiming GitHub&#39;s repositories breach, also executed 20 &quot;waves&quot; of supply chain attacks recently, compromising 500+ pieces of software &lpar;Wired&rpar;](https://www.techmeme.com/260521/p51#a260521p51)
+ - [Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12% &lpar;Chloe Taylor/CNBC&rpar;](https://www.techmeme.com/260521/p50#a260521p50)
+ - [Sources: Bungie plans a significant number of layoffs as it ends development on Destiny 2 and has no new project lined up for the game&#39;s development team &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260521/p49#a260521p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

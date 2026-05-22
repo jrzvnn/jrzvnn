@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Emmanuel Macron says France will invest an additional €1B for quantum computing research and a further €550M in state funding for semiconductors &lpar;France 24&rpar;](https://www.techmeme.com/260522/p27#a260522p27)
+ - [Sources: WH approved a $9B request to acquire advanced AI chips for spy agencies; Anthropic is finalizing a classified contract for NSA to keep using its tools &lpar;New York Times&rpar;](https://www.techmeme.com/260522/p26#a260522p26)
  - [Qualcomm stock closed up 11.6% on Friday and is now up 75% in the past month, as the company increasingly becomes a key player in AI devices &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260522/p25#a260522p25)
- - [Google&amp;#8217;s AI search is so broken it can &amp;#8216;disregard&amp;#8217; what you&amp;#8217;re looking for](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard)
- - [iPhone 18 color &#39;leak&#39; from fake account appears to be camera protector, not component](https://appleinsider.com/articles/26/05/22/iphone-18-color-leak-from-fake-account-appears-to-be-camera-protector-not-component?utm_source=rss)
- - [Google&#39;s AI Overviews are failing to provide search summaries for specific command-style terms including &quot;disregard&quot;, &quot;ignore&quot;, and &quot;skip&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260522/p24#a260522p24)
- - [T-Mobile Opens Beta for Network-Based Live Language Translation](https://www.cnet.com/tech/mobile/t-mobile-opens-beta-for-network-based-live-language-translation/)<!-- TECH:END -->
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
+ - [Stop Making These 9 Mistakes With Your Exercise Bike](https://www.cnet.com/health/fitness/exercise-bike-set-up-mistakes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

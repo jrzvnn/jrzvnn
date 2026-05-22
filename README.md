@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OK, that will never happen, but what if ?](http://9gag.com/gag/aRBbMDA)
- - 😝 [Easy to guess](http://9gag.com/gag/aZZ68d9)
- - 💣 [Seriously, for how many of you was this a reality?](http://9gag.com/gag/adBGQRV)
- - 😝 [Sleep is for the weak](http://9gag.com/gag/aLnZe45)
- - 👉 [Experienced Trainee](http://9gag.com/gag/a2v38nw)<!-- MEMES:END -->
+ - 😝 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
+ - 😝 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
+ - 💣 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
+ - 😝 [Peak performance](http://9gag.com/gag/aW4r7Dq)
+ - 👉 [When your Japanese landlord found out you keep a chicken inside your room](http://9gag.com/gag/aMVon1R)<!-- MEMES:END -->
 
 ---
 

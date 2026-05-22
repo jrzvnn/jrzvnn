@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US and Canadian authorities arrest 23-year-old Jacob Butler, known online as &quot;Dort&quot;, for allegedly operating the Kimwolf DDoS botnet, which infected ~2M devices &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260522/p9#a260522p9)
- - [Microsoft is letting Office users remove an annoying Copilot button](https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal)
- - [Meta releases Forum, a Reddit-like standalone app for Facebook Groups, with a feed showing Group conversations and an AI-powered &quot;Ask&quot; feature, on iOS &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/260522/p8#a260522p8)
- - [Razer Viper V4 Pro Review: Iterative Update Packs Big Performance](https://www.wired.com/review/review-razer-viper-v4-pro/)
- - [Finally, a Great Free Radio App for Windows](https://www.wired.com/story/trdo-is-a-great-free-radio-app-for-windows/)<!-- TECH:END -->
+ - [Sources: DeepSeek execs told potential investors in its ongoing $10B round that it will prioritize groundbreaking AI research over short-term commercialization &lpar;Lulu Yilun Chen/Bloomberg&rpar;](https://www.techmeme.com/260522/p14#a260522p14)
+ - [Italian police dismantle a piracy network that streamed paid content from Netflix and others via an app called Cinemagoal with annual subscriptions of €40-€130 &lpar;Ana-Maria Stanciuc/The Next Web&rpar;](https://www.techmeme.com/260522/p13#a260522p13)
+ - [Accessibility, AI rumors, and Google I/O, on the AppleInsider Podcast](https://appleinsider.com/articles/26/05/22/accessibility-ai-rumors-and-google-io-on-the-appleinsider-podcast?utm_source=rss)
+ - [Republican House Oversight Committee Chairman James Comer says he requested information from Kalshi and Polymarket on their efforts to prevent insider trading &lpar;Justin Papp/CNBC&rpar;](https://www.techmeme.com/260522/p12#a260522p12)
+ - [Samsung Movingstyle M7 Review: A Screen on Wheels](https://www.wired.com/review/samsung-movingstyle-32-m7/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

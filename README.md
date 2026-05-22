@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
- - 😝 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
- - 💣 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
- - 😝 [Peak performance](http://9gag.com/gag/aW4r7Dq)
- - 👉 [When your Japanese landlord found out you keep a chicken inside your room](http://9gag.com/gag/aMVon1R)<!-- MEMES:END -->
+ - 😝 [European tourists visiting California](http://9gag.com/gag/aND79Dv)
+ - 😝 [Something to forget again](http://9gag.com/gag/amoe6yo)
+ - 💣 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
+ - 😝 [Longest route home](http://9gag.com/gag/aND7vy3)
+ - 👉 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)<!-- MEMES:END -->
 
 ---
 

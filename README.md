@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC filing confirms more Apple headphones on the way](https://appleinsider.com/articles/26/05/23/fcc-filing-confirms-more-apple-headphones-on-the-way?utm_source=rss)
- - [I have a new go-to browser](https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer)
- - [L.L.Bean&#39;s Zip Hunter&#39;s Tote Is the Only Carryall You Need](https://www.wired.com/story/llbean-zip-hunters-tote-bag/)
- - [Quantum ‘Jamming’ Could Help Unlock the Mysteries of Causality](https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/)
- - [Google’s new anything-to-anything AI model is wild](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video)<!-- TECH:END -->
+ - [Here are 38 Memorial Day deals we recommend for $50 or less](https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50)
+ - [A profile of TP-Link, whose share of the US consumer router market grew from 10% to 60%+ between 2019 and 2025, as it seeks to rebut national security concerns &lpar;Noah Berman/The Wire China&rpar;](https://www.techmeme.com/260523/p6#a260523p6)
+ - [Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale](https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/)
+ - [Hanging out in my favorite virtual coffee shop in Tokyo](https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam)
+ - [Sony to Pay $7.85M in PlayStation Store Credit as Part of Game Voucher Settlement](https://www.cnet.com/tech/gaming/sony-playstation-store-settlement-what-to-know/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

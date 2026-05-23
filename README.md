@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [For publishers, pirated audiobooks made with AI on YouTube are a growing issue: removal is cumbersome, and some are hiring tech companies to take them down &lpar;Alexandra Alter/New York Times&rpar;](https://www.techmeme.com/260523/p13#a260523p13)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
  - [How Anthropic&#39;s ongoing discussions with the Vatican about ethics and AI led to Christopher Olah being invited to Pope Leo&#39;s unveiling of an encyclical on AI &lpar;Jack Jenkins/RNS&rpar;](https://www.techmeme.com/260523/p12#a260523p12)
  - [Today&#39;s NYT Connections Hints, Answers and Help for May 24, #1078](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-24-1078/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 24, #812](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-24-812/)
- - [Today&#39;s Wordle Hints, Answer and Help for May 24, #1800](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-24-1800/)
- - [Sources: the ECB warned EU finance ministers that proposals to issue more euro stablecoins could reduce bank lending and make controlling interest rates harder &lpar;Reuters&rpar;](https://www.techmeme.com/260523/p11#a260523p11)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 24, #812](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-24-812/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

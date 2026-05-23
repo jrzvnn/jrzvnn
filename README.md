@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aim lock](http://9gag.com/gag/a87RDvp)
- - 😝 [Old games made things hardet](http://9gag.com/gag/a9yx8OZ)
- - 💣 [JDM](http://9gag.com/gag/aGymGKn)
- - 😝 [Weather](http://9gag.com/gag/an7mv8B)
- - 👉 [Something to forget again](http://9gag.com/gag/amoe6yo)<!-- MEMES:END -->
+ - 😝 [Longest route home](http://9gag.com/gag/aND7vy3)
+ - 😝 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
+ - 💣 [Entanglement.](http://9gag.com/gag/a7oYV2A)
+ - 😝 [Experienced Trainee](http://9gag.com/gag/a2v38nw)
+ - 👉 [Omw to a lan party at the ripe old age of 34, life is good.](http://9gag.com/gag/aVvpmAM)<!-- MEMES:END -->
 
 ---
 

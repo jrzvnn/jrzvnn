@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC filing confirms more Apple headphones on the way](https://appleinsider.com/articles/26/05/23/fcc-filing-confirms-more-apple-headphones-on-the-way?utm_source=rss)
+ - [I have a new go-to browser](https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer)
  - [L.L.Bean&#39;s Zip Hunter&#39;s Tote Is the Only Carryall You Need](https://www.wired.com/story/llbean-zip-hunters-tote-bag/)
  - [Quantum ‘Jamming’ Could Help Unlock the Mysteries of Causality](https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/)
- - [Google’s new anything-to-anything AI model is wild](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video)
- - [The Best Smart Sprinklers and Irrigation Systems: In-Ground Sprinklers, Hose Timers &lpar;2026&rpar;](https://www.wired.com/story/best-smart-sprinklers-and-irrigation-systems/)
- - [As the US House probes Airbnb&#39;s use of Chinese AI models, CEO Brian Chesky says the company is not sharing data with Chinese firms and uses open-source models &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260523/p5#a260523p5)<!-- TECH:END -->
+ - [Google’s new anything-to-anything AI model is wild](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

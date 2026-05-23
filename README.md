@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [L.L.Bean&#39;s Zip Hunter&#39;s Tote Is the Only Carryall You Need](https://www.wired.com/story/llbean-zip-hunters-tote-bag/)
+ - [Quantum ‘Jamming’ Could Help Unlock the Mysteries of Causality](https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/)
+ - [Google’s new anything-to-anything AI model is wild](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video)
  - [The Best Smart Sprinklers and Irrigation Systems: In-Ground Sprinklers, Hose Timers &lpar;2026&rpar;](https://www.wired.com/story/best-smart-sprinklers-and-irrigation-systems/)
- - [As the US House probes Airbnb&#39;s use of Chinese AI models, CEO Brian Chesky says the company is not sharing data with Chinese firms and uses open-source models &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260523/p5#a260523p5)
- - [The FBI Wants ‘Near Real-Time’ Access to US License Plate Readers](https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/)
- - [Cosmic Voids May Contain the Universe’s Best Secrets](https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/)
- - [Best Memorial Day Deals: Garmin, Birdfy, Branch &lpar;2026&rpar;](https://www.wired.com/story/best-memorial-day-deals-2026-1/)<!-- TECH:END -->
+ - [As the US House probes Airbnb&#39;s use of Chinese AI models, CEO Brian Chesky says the company is not sharing data with Chinese firms and uses open-source models &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260523/p5#a260523p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

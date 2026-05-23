@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell says it has 5,000 clients for its AI Factory, a product line of servers with Nvidia chips, software, and services, including 1,000 new clients last quarter &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260523/p9#a260523p9)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
  - [Best Power Banks &lpar;2026&rpar;: My Picks After Testing Over 100](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
  - [Delivery Hero says it received a takeover offer from Uber for €33 per share, a discount of 1.76% from Delivery Hero&#39;s close on Friday &lpar;Anusha Shah/Reuters&rpar;](https://www.techmeme.com/260523/p8#a260523p8)
- - [The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech)
- - [Google&#39;s $20B Safari search deal with Apple was &#39;fair and square&#39;](https://appleinsider.com/articles/26/05/23/googles-20b-safari-search-deal-with-apple-was-fair-and-square?utm_source=rss)
- - [A look at a copy of the AI EO that President Trump was expected to sign on May 21; the unsigned EO emphasized that government AI reviews would be voluntary &lpar;Sophia Cai/Politico&rpar;](https://www.techmeme.com/260523/p7#a260523p7)<!-- TECH:END -->
+ - [The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

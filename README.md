@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Longest route home](http://9gag.com/gag/aND7vy3)
- - 😝 [We are just who we are.](http://9gag.com/gag/a7oY9yq)
- - 💣 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 😝 [Experienced Trainee](http://9gag.com/gag/a2v38nw)
+ - 😝 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
+ - 😝 [Start wars](http://9gag.com/gag/a0er66z)
+ - 💣 [That\u2019s what the money is for!](http://9gag.com/gag/aD2KZAd)
+ - 😝 [Entanglement.](http://9gag.com/gag/a7oYV2A)
  - 👉 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)<!-- MEMES:END -->
 
 ---

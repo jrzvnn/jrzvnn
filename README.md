@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [We are just who we are.](http://9gag.com/gag/a7oY9yq)
- - 😝 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 💣 [We&#39;ve all thought about it](http://9gag.com/gag/aByAP72)
- - 😝 [My fellow viking, the tusken raiders all over the place](http://9gag.com/gag/ajPzxbq)
- - 👉 [Cavill Hospitalized](http://9gag.com/gag/aqyPx3L)<!-- MEMES:END -->
+ - 😝 [Hot dog](http://9gag.com/gag/a1myVOG)
+ - 💣 [New to Twitter, not to the Internet](http://9gag.com/gag/aLnZGd6)
+ - 😝 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
+ - 👉 [They are your responsibility now.](http://9gag.com/gag/azxWRKz)<!-- MEMES:END -->
 
 ---
 

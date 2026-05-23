@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Britain.](http://9gag.com/gag/avyMxMd)
  - 😝 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 💣 [Hot dog](http://9gag.com/gag/a1myVOG)
- - 😝 [Never forget](http://9gag.com/gag/agmDxM1)
- - 👉 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)<!-- MEMES:END -->
+ - 😝 [Start wars](http://9gag.com/gag/a0er66z)
+ - 💣 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
+ - 😝 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)
+ - 👉 [Meanwhile in Britain.](http://9gag.com/gag/avyMxMd)<!-- MEMES:END -->
 
 ---
 

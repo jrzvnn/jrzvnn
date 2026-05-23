@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 😝 [Start wars](http://9gag.com/gag/a0er66z)
- - 💣 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
- - 😝 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)
- - 👉 [Meanwhile in Britain.](http://9gag.com/gag/avyMxMd)<!-- MEMES:END -->
+ - 😝 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
+ - 😝 [The sheep advocating for wolf paid its price](http://9gag.com/gag/aD2KVWw)
+ - 💣 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)
+ - 😝 [Hot dog](http://9gag.com/gag/a1myVOG)
+ - 👉 [We are just who we are.](http://9gag.com/gag/a7oY9yq)<!-- MEMES:END -->
 
 ---
 

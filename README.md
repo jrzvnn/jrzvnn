@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
- - 😝 [Hot dog](http://9gag.com/gag/a1myVOG)
- - 💣 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)
+ - 😝 [Start wars](http://9gag.com/gag/a0er66z)
  - 😝 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 👉 [Start wars](http://9gag.com/gag/a0er66z)<!-- MEMES:END -->
+ - 💣 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
+ - 😝 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
+ - 👉 [Never forget](http://9gag.com/gag/agmDxM1)<!-- MEMES:END -->
 
 ---
 

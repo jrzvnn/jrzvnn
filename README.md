@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
+ - 😝 [Longest route home](http://9gag.com/gag/aND7vy3)
+ - 😝 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
+ - 💣 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
  - 😝 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 💣 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)
- - 😝 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
- - 👉 [Away, my fine steed! Quests await us](http://9gag.com/gag/aLnZAw5)<!-- MEMES:END -->
+ - 👉 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)<!-- MEMES:END -->
 
 ---
 

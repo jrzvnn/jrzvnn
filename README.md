@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 38 Memorial Day deals we recommend for $50 or less](https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50)
- - [A profile of TP-Link, whose share of the US consumer router market grew from 10% to 60%+ between 2019 and 2025, as it seeks to rebut national security concerns &lpar;Noah Berman/The Wire China&rpar;](https://www.techmeme.com/260523/p6#a260523p6)
- - [Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale](https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/)
- - [Hanging out in my favorite virtual coffee shop in Tokyo](https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam)
- - [Sony to Pay $7.85M in PlayStation Store Credit as Part of Game Voucher Settlement](https://www.cnet.com/tech/gaming/sony-playstation-store-settlement-what-to-know/)<!-- TECH:END -->
+ - [Best Power Banks &lpar;2026&rpar;: My Picks After Testing Over 100](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [Delivery Hero says it received a takeover offer from Uber for €33 per share, a discount of 1.76% from Delivery Hero&#39;s close on Friday &lpar;Anusha Shah/Reuters&rpar;](https://www.techmeme.com/260523/p8#a260523p8)
+ - [The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech)
+ - [Google&#39;s $20B Safari search deal with Apple was &#39;fair and square&#39;](https://appleinsider.com/articles/26/05/23/googles-20b-safari-search-deal-with-apple-was-fair-and-square?utm_source=rss)
+ - [A look at a copy of the AI EO that President Trump was expected to sign on Thursday; the unsigned EO emphasized that government AI reviews would be voluntary &lpar;Sophia Cai/Politico&rpar;](https://www.techmeme.com/260523/p7#a260523p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

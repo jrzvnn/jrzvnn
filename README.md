@@ -171,7 +171,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Entanglement.](http://9gag.com/gag/a7oYV2A)
  - 💣 [We&#39;ve all thought about it](http://9gag.com/gag/aByAP72)
  - 😝 [My fellow viking, the tusken raiders all over the place](http://9gag.com/gag/ajPzxbq)
- - 👉 [Climate change](http://9gag.com/gag/aAy8MnL)<!-- MEMES:END -->
+ - 👉 [Cavill Hospitalized](http://9gag.com/gag/aqyPx3L)<!-- MEMES:END -->
 
 ---
 

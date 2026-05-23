@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jensen Huang urged Super Micro to tighten up compliance after Taiwan detained three people for allegedly trying to export servers with Nvidia chips to China &lpar;Debby Wu/Bloomberg&rpar;](https://www.techmeme.com/260523/p10#a260523p10)
  - [Dell says it has 5,000 clients for its AI Factory, a product line of servers with Nvidia chips, software, and services, including 1,000 new clients last quarter &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260523/p9#a260523p9)
  - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
  - [Best Power Banks &lpar;2026&rpar;: My Picks After Testing Over 100](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Delivery Hero says it received a takeover offer from Uber for €33 per share, a discount of 1.76% from Delivery Hero&#39;s close on Friday &lpar;Anusha Shah/Reuters&rpar;](https://www.techmeme.com/260523/p8#a260523p8)
- - [The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech)<!-- TECH:END -->
+ - [Delivery Hero says it received a takeover offer from Uber for €33 per share, a discount of 1.76% from Delivery Hero&#39;s close on Friday &lpar;Anusha Shah/Reuters&rpar;](https://www.techmeme.com/260523/p8#a260523p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

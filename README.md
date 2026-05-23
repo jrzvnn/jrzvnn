@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US NTSB suspends access to its database of civil transportation accidents after people re-created voices of pilots killed in a 2025 UPS plane crash using AI &lpar;Jeremy Hsu/Ars Technica&rpar;](https://www.techmeme.com/260522/p33#a260522p33)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
- - [Anthropic says Claude Mythos Preview has been used to find more than 10,000 high- or critical-severity vulnerabilities since the launch of Project Glasswing &lpar;Anthropic&rpar;](https://www.techmeme.com/260522/p32#a260522p32)
- - [The Trump administration plans to require most green card applicants to return to their home countries to apply, which could adversely impact tech workers &lpar;Peter Wells/Financial Times&rpar;](https://www.techmeme.com/260522/p31#a260522p31)
- - [Google files its appeal of the US federal ruling deeming it an illegal search monopolist, arguing it &quot;prevailed in the marketplace fair and square&quot; &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260522/p30#a260522p30)<!-- TECH:END -->
+ - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
+ - [Hoka Coupon Codes: 30% Off | May 2026](https://www.wired.com/story/hoka-coupon-code/)
+ - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)
+ - [Ulta Promo Codes: Up to 50% Off in May](https://www.wired.com/story/ulta-coupon/)
+ - [Valvoline Coupons &amp; Promo Codes for May 2026](https://www.wired.com/story/valvoline-coupons/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

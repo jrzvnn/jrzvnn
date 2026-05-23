@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
- - 😝 [Start wars](http://9gag.com/gag/a0er66z)
- - 💣 [That\u2019s what the money is for!](http://9gag.com/gag/aD2KZAd)
- - 😝 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 👉 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)<!-- MEMES:END -->
+ - 😝 [That\u2019s what the money is for!](http://9gag.com/gag/aD2KZAd)
+ - 😝 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
+ - 💣 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
+ - 😝 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)
+ - 👉 [We are just who we are.](http://9gag.com/gag/a7oY9yq)<!-- MEMES:END -->
 
 ---
 

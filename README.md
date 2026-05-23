@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A &#39;Golden Orb&#39; on the Ocean Floor Came From a Mysterious Animal](https://www.wired.com/story/a-golden-orb-on-the-ocean-floor-came-from-a-mysterious-animal/)
  - [All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer](https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/)
  - [Best Early Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-1/)
  - [Q&amp;A with Sundar Pichai on the future of Google Search, Google&#39;s place in the AI race, public skepticism toward AI, AI agents, AI safety, TPUs, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260523/p4#a260523p4)
- - [FOIA lawsuit documents show hackers who breached SolarWinds potentially had access to all &quot;treasury.gov&quot; email addresses from July 6, 2020 to October 12, 2020 &lpar;Jordan Robertson/Bloomberg&rpar;](https://www.techmeme.com/260523/p3#a260523p3)
- - [Cloudflare CEO Matthew Prince says AI won&#39;t replace builders or sellers, but it will affect middle managers, operations jobs, and other &quot;measuring&quot; positions &lpar;Matthew Prince/Wall Street Journal&rpar;](https://www.techmeme.com/260523/p2#a260523p2)<!-- TECH:END -->
+ - [FOIA lawsuit documents show hackers who breached SolarWinds potentially had access to all &quot;treasury.gov&quot; email addresses from July 6, 2020 to October 12, 2020 &lpar;Jordan Robertson/Bloomberg&rpar;](https://www.techmeme.com/260523/p3#a260523p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 New Tools for Taking on the Great Outdoors Properly](https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/)
- - [Why Garlic Repels Mosquitoes and Keeps Them From Breeding](https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/)
- - [A Fundamental Principle of Aeronautical Engineering Has Been Overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
- - [The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why](https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/)
- - [Rising DRAM prices are driving &quot;forced premiumization&quot; in the smartphone market in India and Africa, as consumers in the sub-$200 segment risk being priced out &lpar;David Oks&rpar;](https://www.techmeme.com/260524/p5#a260524p5)<!-- TECH:END -->
+ - [Tether buys out SoftBank&#39;s ~26% stake in bitcoin treasury company Twenty One Capital, taking its stake to ~71%; SoftBank&#39;s stake was worth ~$679M &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260524/p6#a260524p6)
+ - [Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used](https://www.wired.com/story/topo-designs-rover-trail-pack/)
+ - [The Best Browser Extensions to Get More Out of YouTube](https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/)
+ - [Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo)
+ - [These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin](https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

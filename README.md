@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $300 on Apple&#39;s M5 Pro MacBook Pro with 48GB RAM today only](https://appleinsider.com/articles/26/05/24/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-today-only?utm_source=rss)
+ - [The ECB summons Eurozone banks to a meeting on Tuesday to discuss risks posed by the latest AI models and hopes US banks with Mythos access will share lessons &lpar;Martin Arnold/Financial Times&rpar;](https://www.techmeme.com/260524/p10#a260524p10)
  - [A look at the scourge of smartphone thefts in London, as victims describe receiving texts threatening them into unlinking Apple IDs from stolen iPhones &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p9#a260524p9)
  - [AirPods will be easier to manage with iOS 27 controls revamp](https://appleinsider.com/articles/26/05/24/airpods-will-be-easier-to-manage-with-ios-27-controls-revamp?utm_source=rss)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
- - [Memorial Day Tech Deals: Sony, Anker, Beats &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-tech-deals-2026-1/)
- - [Best Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-1/)<!-- TECH:END -->
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

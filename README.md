@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
- - [Save $300 on Apple&#39;s M5 Pro MacBook Pro with 48GB RAM today only](https://appleinsider.com/articles/26/05/24/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-today-only?utm_source=rss)
- - [The ECB summons Eurozone banks to a meeting on Tuesday to discuss risks posed by the latest AI models and hopes US banks with Mythos access will share lessons &lpar;Martin Arnold/Financial Times&rpar;](https://www.techmeme.com/260524/p10#a260524p10)
- - [A look at the scourge of smartphone thefts in London, as victims describe receiving texts threatening them into unlinking Apple IDs from stolen iPhones &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p9#a260524p9)
- - [AirPods will be easier to manage with iOS 27 controls revamp](https://appleinsider.com/articles/26/05/24/airpods-will-be-easier-to-manage-with-ios-27-controls-revamp?utm_source=rss)<!-- TECH:END -->
+ - [Sunday Reboot: Stadium iPhones, Epic messaging fail, and Plex](https://appleinsider.com/articles/26/05/24/sunday-reboot-stadium-iphones-epic-messaging-fail-and-plex?utm_source=rss)
+ - [Sources: Uber weighs a higher bid after it approached a major Delivery Hero shareholder with a €38-per-share bid, valuing the group at €11.5B+, but was rebuffed &lpar;Financial Times&rpar;](https://www.techmeme.com/260524/p11#a260524p11)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 25, #1079](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-25-1079/)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 25, #1801](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-25-1801/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 25 #813](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-25-813/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

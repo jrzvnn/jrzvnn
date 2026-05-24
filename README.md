@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
+ - 😝 [Pee](http://9gag.com/gag/aAy8Mq0)
  - 😝 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
- - 💣 [Traditional romani training](http://9gag.com/gag/aByAGrO)
- - 😝 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
- - 👉 [Whatever floats your boat](http://9gag.com/gag/agmD21g)<!-- MEMES:END -->
+ - 💣 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
+ - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
+ - 👉 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)<!-- MEMES:END -->
 
 ---
 

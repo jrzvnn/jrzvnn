@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rising DRAM prices are driving &quot;forced premiumization&quot; in the smartphone market in India and Africa, as consumers in the sub-$200 segment risk being priced out &lpar;David Oks&rpar;](https://www.techmeme.com/260524/p5#a260524p5)
- - [Moment, which develops AI tools for automating fixed-income and equities trading tech, raised a $78M Series C led by Index Ventures, with a16z participating &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260524/p4#a260524p4)
- - [Hands-on with a pre-release build of Google Docs Live, an AI-powered voice tool for drafting documents, rolling out this summer to AI Pro and Ultra subscribers &lpar;Nicole Nguyen/Wall Street Journal&rpar;](https://www.techmeme.com/260524/p3#a260524p3)
- - [DeepSeek says it will lower V4 Pro API prices by 75% to $0.435/1M input and $0.87/1M output tokens, making permanent the discount prices set to expire on May 31 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260524/p2#a260524p2)
- - [Sources: Princeton Digital Group to sell its Chinese data center assets for as much as $1B, capping global buyout firms&#39; retreat from China&#39;s data center market &lpar;Financial Times&rpar;](https://www.techmeme.com/260524/p1#a260524p1)<!-- TECH:END -->
+ - [14 New Tools for Taking on the Great Outdoors Properly](https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/)
+ - [Why Garlic Repels Mosquitoes and Keeps Them From Breeding](https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/)
+ - [A Fundamental Principle of Aeronautical Engineering Has Been Overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
+ - [The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why](https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/)
+ - [Rising DRAM prices are driving &quot;forced premiumization&quot; in the smartphone market in India and Africa, as consumers in the sub-$200 segment risk being priced out &lpar;David Oks&rpar;](https://www.techmeme.com/260524/p5#a260524p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

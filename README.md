@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)
- - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
- - 💣 [EV owner trying to find a charging spot.](http://9gag.com/gag/aND7Bjb)
- - 😝 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)
- - 👉 [We are just who we are.](http://9gag.com/gag/a7oY9yq)<!-- MEMES:END -->
+ - 😝 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
+ - 😝 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
+ - 💣 [Traditional romani training](http://9gag.com/gag/aByAGrO)
+ - 😝 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
+ - 👉 [Whatever floats your boat](http://9gag.com/gag/agmD21g)<!-- MEMES:END -->
 
 ---
 

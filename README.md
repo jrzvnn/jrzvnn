@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 😝 [Hot dog](http://9gag.com/gag/a1myVOG)
- - 💣 [EV owner trying to find a charging spot.](http://9gag.com/gag/aND7Bjb)
- - 😝 [New to Twitter, not to the Internet](http://9gag.com/gag/aLnZGd6)
- - 👉 [Never forget](http://9gag.com/gag/agmDxM1)<!-- MEMES:END -->
+ - 😝 [EV owner trying to find a charging spot.](http://9gag.com/gag/aND7Bjb)
+ - 😝 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
+ - 💣 [Traditional romani training](http://9gag.com/gag/aByAGrO)
+ - 😝 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
+ - 👉 [They really can&#39;t meme.](http://9gag.com/gag/apR4AK8)<!-- MEMES:END -->
 
 ---
 

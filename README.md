@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pee](http://9gag.com/gag/aAy8Mq0)
  - 😝 [Asbest kids.](http://9gag.com/gag/aAy82p2)
- - 💣 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
- - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
- - 👉 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)<!-- MEMES:END -->
+ - 😝 [Pee](http://9gag.com/gag/aAy8Mq0)
+ - 💣 [Traditional romani training](http://9gag.com/gag/aByAGrO)
+ - 😝 [Money well spent](http://9gag.com/gag/a87RKLV)
+ - 👉 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)<!-- MEMES:END -->
 
 ---
 

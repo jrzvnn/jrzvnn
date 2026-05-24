@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memorial Day Tech Deals: Sony, Anker, Beats &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-tech-deals-2026-1/)
+ - [Best Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-1/)
+ - [Google&#39;s &#39;Cast to TV&#39; could join AirPlay on iPhones thanks to EU regulations](https://appleinsider.com/articles/26/05/24/googles-cast-to-tv-could-join-airplay-on-iphones-thanks-to-eu-regulations?utm_source=rss)
  - [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
- - [Apple&#39;s worst AI feature to get a &#39;big boost&#39; with upgraded Apple Foundation Models](https://appleinsider.com/articles/26/05/24/apples-worst-ai-feature-to-get-a-big-boost-with-upgraded-apple-foundation-models?utm_source=rss)
- - [A deep dive into Apple Watch and Health efforts; sources: iOS 27 to get a revamped AirPods control panel and default support for AirPlay rivals like Google Cast &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260524/p8#a260524p8)
- - [On Trails is a wandering tale that blends hiking, science, and history](https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review)
- - [Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day](https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale)<!-- TECH:END -->
+ - [Apple&#39;s worst AI feature to get a &#39;big boost&#39; with upgraded Apple Foundation Models](https://appleinsider.com/articles/26/05/24/apples-worst-ai-feature-to-get-a-big-boost-with-upgraded-apple-foundation-models?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

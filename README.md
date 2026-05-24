@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;GenAI&#39; Apple subdomain surfaces weeks ahead of WWDC](https://appleinsider.com/articles/26/05/24/genai-apple-subdomain-surfaces-weeks-ahead-of-wwdc?utm_source=rss)
+ - [Hackers are learning to exploit chatbot &amp;#8216;personalities&amp;#8217;](https://www.theverge.com/column/935545/hackers-ai-chatbots)
  - [Tether buys out SoftBank&#39;s ~26% stake in bitcoin treasury company Twenty One Capital, taking its stake to ~71%; SoftBank&#39;s stake was worth ~$679M &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260524/p6#a260524p6)
  - [Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used](https://www.wired.com/story/topo-designs-rover-trail-pack/)
- - [The Best Browser Extensions to Get More Out of YouTube](https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/)
- - [Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo)
- - [These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin](https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/)<!-- TECH:END -->
+ - [The Best Browser Extensions to Get More Out of YouTube](https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

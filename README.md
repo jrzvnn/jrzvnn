@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto companies prepare for the threat that quantum computers could hack core industry security, including breaking the critical code underpinning Bitcoin &lpar;Financial Times&rpar;](https://www.techmeme.com/260523/p14#a260523p14)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
- - [Record Club is trying to be Letterboxd for music nerds](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds)
- - [For publishers, pirated audiobooks made with AI on YouTube are a growing issue: removal is cumbersome, and some are hiring tech companies to take them down &lpar;Alexandra Alter/New York Times&rpar;](https://www.techmeme.com/260523/p13#a260523p13)
- - [The Best Places to Buy Replacement Prescription Lenses Online](https://www.cnet.com/health/personal-care/best-places-to-buy-replacement-prescription-lenses/)<!-- TECH:END -->
+ - [Moment, which develops AI tools for automating fixed-income and equities trading tech, raised a $78M Series C led by Index Ventures, with a16z participating &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260524/p4#a260524p4)
+ - [Hands-on with a pre-release build of Google Docs Live, an AI-powered voice tool for drafting documents, rolling out this summer to AI Pro and Ultra subscribers &lpar;Nicole Nguyen/Wall Street Journal&rpar;](https://www.techmeme.com/260524/p3#a260524p3)
+ - [DeepSeek says it will lower V4 Pro API prices by 75% to $0.435/1M input and $0.87/1M output tokens, making permanent the discount prices set to expire on May 31 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260524/p2#a260524p2)
+ - [Sources: Princeton Digital Group to sell its Chinese data center assets for as much as $1B, capping global buyout firms&#39; retreat from China&#39;s data center market &lpar;Financial Times&rpar;](https://www.techmeme.com/260524/p1#a260524p1)
+ - [Salesforce&#39;s promotional videos showcased Agentforce mock-ups and features that are not widely available, as CEO Marc Benioff defends forward-looking marketing &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260523/p15#a260523p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1 way trip](http://9gag.com/gag/a2v32j1)
- - 😝 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
- - 💣 [No Title](http://9gag.com/gag/aD2KVmZ)
- - 😝 [If a bartender has to be legally responsible for behaviors of his clients, why not judges?](http://9gag.com/gag/avyMv0d)
- - 👉 [For a few minutes each year, sunlight makes this Yosemite waterfall look like a river of fire.](http://9gag.com/gag/aRBboGG)<!-- MEMES:END -->
+ - 😝 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)
+ - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
+ - 💣 [EV owner trying to find a charging spot.](http://9gag.com/gag/aND7Bjb)
+ - 😝 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)
+ - 👉 [We are just who we are.](http://9gag.com/gag/a7oY9yq)<!-- MEMES:END -->
 
 ---
 

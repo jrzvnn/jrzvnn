@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the scourge of smartphone thefts in London, as victims describe receiving texts threatening them into unlinking Apple IDs from stolen iPhones &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p9#a260524p9)
+ - [AirPods will be easier to manage with iOS 27 controls revamp](https://appleinsider.com/articles/26/05/24/airpods-will-be-easier-to-manage-with-ios-27-controls-revamp?utm_source=rss)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
  - [Memorial Day Tech Deals: Sony, Anker, Beats &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-tech-deals-2026-1/)
- - [Best Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-1/)
- - [Google&#39;s &#39;Cast to TV&#39; could join AirPlay on iPhones thanks to EU regulations](https://appleinsider.com/articles/26/05/24/googles-cast-to-tv-could-join-airplay-on-iphones-thanks-to-eu-regulations?utm_source=rss)
- - [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
- - [Apple&#39;s worst AI feature to get a &#39;big boost&#39; with upgraded Apple Foundation Models](https://appleinsider.com/articles/26/05/24/apples-worst-ai-feature-to-get-a-big-boost-with-upgraded-apple-foundation-models?utm_source=rss)<!-- TECH:END -->
+ - [Best Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

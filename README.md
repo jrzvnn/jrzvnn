@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pee](http://9gag.com/gag/aAy8Mq0)
- - 😝 [EV owner trying to find a charging spot.](http://9gag.com/gag/aND7Bjb)
- - 💣 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
+ - 😝 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)
  - 😝 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
- - 👉 [Traditional romani training](http://9gag.com/gag/aByAGrO)<!-- MEMES:END -->
+ - 💣 [Traditional romani training](http://9gag.com/gag/aByAGrO)
+ - 😝 [We are just who we are.](http://9gag.com/gag/a7oY9yq)
+ - 👉 [Never forget](http://9gag.com/gag/agmDxM1)<!-- MEMES:END -->
 
 ---
 

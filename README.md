@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are just who we are.](http://9gag.com/gag/a7oY9yq)
- - 😝 [Hot dog](http://9gag.com/gag/a1myVOG)
- - 💣 [New to Twitter, not to the Internet](http://9gag.com/gag/aLnZGd6)
  - 😝 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
- - 👉 [They are your responsibility now.](http://9gag.com/gag/azxWRKz)<!-- MEMES:END -->
+ - 😝 [EV owner trying to find a charging spot.](http://9gag.com/gag/aND7Bjb)
+ - 💣 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
+ - 😝 [New to Twitter, not to the Internet](http://9gag.com/gag/aLnZGd6)
+ - 👉 [Hot dog](http://9gag.com/gag/a1myVOG)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pee](http://9gag.com/gag/aAy8Mq0)
- - 😝 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
- - 💣 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
- - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
- - 👉 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)<!-- MEMES:END -->
+ - 😝 [Goodest boy is good...](http://9gag.com/gag/aO8MP6E)
+ - 😝 [The sheep advocating for wolf paid its price](http://9gag.com/gag/aD2KVWw)
+ - 💣 [If a bartender has to be legally responsible for behaviors of his clients, why not judges?](http://9gag.com/gag/avyMv0d)
+ - 😝 [Life goals](http://9gag.com/gag/a1myLyw)
+ - 👉 [Whatever floats your boat](http://9gag.com/gag/agmD21g)<!-- MEMES:END -->
 
 ---
 

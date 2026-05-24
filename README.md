@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
- - 😝 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)
- - 💣 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
+ - 😝 [Pee](http://9gag.com/gag/aAy8Mq0)
  - 😝 [EV owner trying to find a charging spot.](http://9gag.com/gag/aND7Bjb)
- - 👉 [Pee](http://9gag.com/gag/aAy8Mq0)<!-- MEMES:END -->
+ - 💣 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
+ - 😝 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
+ - 👉 [Traditional romani training](http://9gag.com/gag/aByAGrO)<!-- MEMES:END -->
 
 ---
 

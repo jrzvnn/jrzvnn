@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Have Scanned Thousands of Memorial Day Sales. These Are the Only Ones Worth Your Time](https://www.cnet.com/news-live/memorial-day-sales-live-blog-2026/)
- - [Do You Own an Android Phone? Claim a Part of Google&#39;s $135M Data Harvesting Settlement Soon](https://www.cnet.com/tech/mobile/google-data-harvesting-settlement-what-to-know-how-to-claim-135-million/)
- - [&#39;GenAI&#39; Apple subdomain surfaces weeks ahead of WWDC](https://appleinsider.com/articles/26/05/24/genai-apple-subdomain-surfaces-weeks-ahead-of-wwdc?utm_source=rss)
- - [Premier League Soccer: Stream Crystal Palace vs. Arsenal From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-crystal-palace-vs-arsenal-from-anywhere-live/)
- - [Google Search Is Becoming Something Fundamentally Different. Here&#39;s What That Looks Like](https://www.cnet.com/tech/services-and-software/google-search-is-becoming-something-fundamentally-different-heres-what-that-looks-like/)<!-- TECH:END -->
+ - [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
+ - [Apple&#39;s worst AI feature to get a &#39;big boost&#39; with upgraded Apple Foundation Models](https://appleinsider.com/articles/26/05/24/apples-worst-ai-feature-to-get-a-big-boost-with-upgraded-apple-foundation-models?utm_source=rss)
+ - [A deep dive into Apple Watch and Health efforts; sources: iOS 27 to get a revamped AirPods control panel and default support for AirPlay rivals like Google Cast &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260524/p8#a260524p8)
+ - [On Trails is a wandering tale that blends hiking, science, and history](https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review)
+ - [Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day](https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

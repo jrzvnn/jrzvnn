@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goodest boy is good...](http://9gag.com/gag/aO8MP6E)
- - 😝 [The sheep advocating for wolf paid its price](http://9gag.com/gag/aD2KVWw)
- - 💣 [If a bartender has to be legally responsible for behaviors of his clients, why not judges?](http://9gag.com/gag/avyMv0d)
- - 😝 [Life goals](http://9gag.com/gag/a1myLyw)
- - 👉 [Whatever floats your boat](http://9gag.com/gag/agmD21g)<!-- MEMES:END -->
+ - 😝 [Pee](http://9gag.com/gag/aAy8Mq0)
+ - 😝 [Bro gave everything he had](http://9gag.com/gag/aryQqvX)
+ - 💣 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
+ - 😝 [Hot dog](http://9gag.com/gag/a1myVOG)
+ - 👉 [Life goals](http://9gag.com/gag/a1myLyw)<!-- MEMES:END -->
 
 ---
 

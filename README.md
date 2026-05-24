@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New to Twitter, not to the Internet](http://9gag.com/gag/aLnZGd6)
- - 😝 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)
- - 💣 [We are just who we are.](http://9gag.com/gag/a7oY9yq)
+ - 😝 [Entanglement.](http://9gag.com/gag/a7oYV2A)
  - 😝 [Hot dog](http://9gag.com/gag/a1myVOG)
+ - 💣 [EV owner trying to find a charging spot.](http://9gag.com/gag/aND7Bjb)
+ - 😝 [New to Twitter, not to the Internet](http://9gag.com/gag/aLnZGd6)
  - 👉 [Never forget](http://9gag.com/gag/agmDxM1)<!-- MEMES:END -->
 
 ---

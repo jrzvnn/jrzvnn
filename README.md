@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Images &amp; Videos](http://9gag.com/gag/ae9n7Dp)
- - 😝 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)
- - 💣 [Be nice to people. It costs nothing and makes a difference.](http://9gag.com/gag/amoeVyo)
- - 😝 [The Origin](http://9gag.com/gag/agmDEBr)
- - 👉 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)<!-- MEMES:END -->
+ - 😝 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)
+ - 😝 [I guess they call him Palm Beach Adolph over there.](http://9gag.com/gag/avyMvPn)
+ - 💣 [The Origin](http://9gag.com/gag/agmDEBr)
+ - 😝 [At least they started to respect you as an elder](http://9gag.com/gag/axyLYx1)
+ - 👉 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)<!-- MEMES:END -->
 
 ---
 

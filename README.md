@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)
- - 😝 [I guess they call him Palm Beach Adolph over there.](http://9gag.com/gag/avyMvPn)
+ - 😝 [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)
+ - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
  - 💣 [The Origin](http://9gag.com/gag/agmDEBr)
  - 😝 [At least they started to respect you as an elder](http://9gag.com/gag/axyLYx1)
  - 👉 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)<!-- MEMES:END -->

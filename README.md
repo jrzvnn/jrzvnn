@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Xiaomi&#39;s AI push to future-proof its hardware and EV ecosystem, as it recently committed ~$8.8B in AI investments over the next three years &lpar;Ben Jiang/South China Morning Post&rpar;](https://www.techmeme.com/260525/p4#a260525p4)
- - [A profile of Meta CTO Andrew &quot;Boz&quot; Bosworth, a top lieutenant of Mark Zuckerberg who is leading the gargantuan effort to transform Meta into an AI-first company &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/260525/p3#a260525p3)
- - [30% Off Canon Promo Codes | May 2026](https://www.wired.com/story/canon-promo-code/)
- - [HP Discount Codes: 60% Off May 2026](https://www.wired.com/story/hp-coupon-code/)
- - [Design Within Reach Promo Codes: 30% Off | 2026](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
+ - [The AI Era Is Creating a Bug Hunting Arms Race](https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/)
+ - [In the ~43,000-word text, the Pope urged governments to slow down the development of AI systems and decried &quot;new forms of slavery&quot; of people tending AI systems &lpar;Joshua McElwee/Reuters&rpar;](https://www.techmeme.com/260525/p9#a260525p9)
+ - [More than 5,500 GitHub repositories were infected with malware in a supply chain attack, dubbed Megalodon, on May 18 that relies on automated commits &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260525/p8#a260525p8)
+ - [Pope Leo XIV presents his encyclical on AI, calling for regulation of AI companies, protection for children against hypersexualized AI images, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260525/p7#a260525p7)
+ - [Sources: Meta, Google, and Amazon execs met Vatican officials on April 29, as part of a quiet lobbying push ahead of Pope Leo XIV&#39;s first AI encyclical &lpar;Océane Herrero/Politico&rpar;](https://www.techmeme.com/260525/p6#a260525p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

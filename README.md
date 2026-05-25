@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ferrari reveals its first EV, with design help from Jony Ive](https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom)
- - [The Electric Ferrari Luce Is Finally Here](https://www.wired.com/story/ferrari-luce-ev-is-finally-here/)
- - [X says it is cracking down on large accounts that have been gaming its revenue-sharing program by &quot;programmatically reuploading content from smaller accounts&quot; &lpar;Lakshmi Varanasi/Business Insider&rpar;](https://www.techmeme.com/260525/p20#a260525p20)
- - [Iranian state media reports that President Masoud Pezeshkian has issued an order to reopen international internet access after a near-90-day blackout &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p19#a260525p19)
- - [Today&#39;s Wordle Hints, Answer and Help for May 26, #1802](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-26-1802/)<!-- TECH:END -->
+ - [Apple vs US antitrust case sees government attempting to escape discovery process](https://appleinsider.com/articles/26/05/25/apple-vs-us-antitrust-case-sees-government-attempting-to-escape-discovery-process?utm_source=rss)
+ - [Former Apple designer&#39;s take on Ferrari will upset fans of the vehicle brand](https://appleinsider.com/articles/26/05/25/former-apple-designers-take-on-ferrari-will-upset-fans-of-the-vehicle-brand?utm_source=rss)
+ - [The FTC settles with Cox, MindSift, and 1010 Digital Works for $930K over claims they falsely said they could use phone mics to spy on users for ad targeting &lpar;Adi Robertson/The Verge&rpar;](https://www.techmeme.com/260525/p21#a260525p21)
+ - [Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery](https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

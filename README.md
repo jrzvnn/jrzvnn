@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Memorial Day Deals: Garmin, Birdfy, Branch &lpar;2026&rpar;](https://www.wired.com/story/best-memorial-day-deals-2026-2/)
- - [Star Citizen, a video game in development since 2012, has reached $1B in lifetime funding; it remains in alpha and does not have a confirmed release date &lpar;Jennifer Maas/Variety&rpar;](https://www.techmeme.com/260525/p13#a260525p13)
- - [Pope Leo&#39;s AI Encyclical Has Landed. It Offers Wisdom for Big Tech, Goverments and You](https://www.cnet.com/tech/services-and-software/pope-leo-publishes-ai-encyclical-magnifica-humanitas/)
- - [I&#39;m Scanning Thousands of Memorial Day Sales to Find the Ones Worth Your Time](https://www.cnet.com/news-live/memorial-day-sales-live-blog-2026/)
- - [Tether plans to launch GELT, an &quot;official&quot; stablecoin representing the Georgian lari, with the support of Georgia&#39;s government in an unusual partnership &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p12#a260525p12)<!-- TECH:END -->
+ - [Security systems for smart homes with ADT&#39;s Jimmy Lin on Smart Home Insider](https://appleinsider.com/articles/26/05/25/security-systems-for-smart-homes-with-adts-jimmy-lin-on-smart-home-insider?utm_source=rss)
+ - [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
+ - [Wide camera shots exposed the limits of Apple&#39;s iPhone 17 Pro soccer broadcast](https://appleinsider.com/articles/26/05/25/wide-camera-shots-exposed-the-limits-of-apples-iphone-17-pro-soccer-broadcast?utm_source=rss)
+ - [B&amp;H is blowing out M3 iPad Air inventory at $449 today only](https://appleinsider.com/articles/26/05/25/bh-is-blowing-out-m3-ipad-air-inventory-at-449-today-only?utm_source=rss)
+ - [Pope Leo calls for being ‘profoundly human’ in the age of AI](https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

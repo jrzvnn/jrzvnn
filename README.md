@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asbest kids.](http://9gag.com/gag/aAy82p2)
+ - 😝 [How do you achieve this build](http://9gag.com/gag/aO8M1b3)
  - 😝 [Pee](http://9gag.com/gag/aAy8Mq0)
  - 💣 [Traditional romani training](http://9gag.com/gag/aByAGrO)
- - 😝 [Money well spent](http://9gag.com/gag/a87RKLV)
+ - 😝 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)
  - 👉 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)<!-- MEMES:END -->
 
 ---

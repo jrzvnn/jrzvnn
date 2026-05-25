@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you achieve this build](http://9gag.com/gag/aO8M1b3)
+ - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
  - 😝 [Pee](http://9gag.com/gag/aAy8Mq0)
- - 💣 [Traditional romani training](http://9gag.com/gag/aByAGrO)
- - 😝 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)
+ - 💣 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)
+ - 😝 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)
  - 👉 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)<!-- MEMES:END -->
 
 ---

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)
  - 😝 [The Origin](http://9gag.com/gag/agmDEBr)
- - 😝 [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
- - 💣 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
- - 😝 [When You Study So Hard That Reality Breaks](http://9gag.com/gag/adBGo3B)
- - 👉 [Teamwork](http://9gag.com/gag/aND7RyK)<!-- MEMES:END -->
+ - 💣 [Teamwork](http://9gag.com/gag/aND7RyK)
+ - 😝 [A quick nap](http://9gag.com/gag/aRBbRVQ)
+ - 👉 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)<!-- MEMES:END -->
 
 ---
 

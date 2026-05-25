@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ferrari reveals its first EV, with design help from Jony Ive](https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom)
+ - [The Electric Ferrari Luce Is Finally Here](https://www.wired.com/story/ferrari-luce-ev-is-finally-here/)
+ - [X says it is cracking down on large accounts that have been gaming its revenue-sharing program by &quot;programmatically reuploading content from smaller accounts&quot; &lpar;Lakshmi Varanasi/Business Insider&rpar;](https://www.techmeme.com/260525/p20#a260525p20)
  - [Iranian state media reports that President Masoud Pezeshkian has issued an order to reopen international internet access after a near-90-day blackout &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p19#a260525p19)
- - [I&#39;ve Got the Hottest Remaining Memorial Day Deals Worth Your Time and Money](https://www.cnet.com/news-live/memorial-day-sales-live-blog-2026/)
- - [Cox Media fined after bragging it spied on users through their phones](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine)
- - [Report: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in search results &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p18#a260525p18)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for May 26, #1802](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-26-1802/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

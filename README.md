@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
- - 😝 [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
- - 💣 [I guess they call him Palm Beach Adolph over there.](http://9gag.com/gag/avyMvPn)
+ - 😝 [Images &amp; Videos](http://9gag.com/gag/ae9n7Dp)
  - 😝 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)
- - 👉 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)<!-- MEMES:END -->
+ - 💣 [Be nice to people. It costs nothing and makes a difference.](http://9gag.com/gag/amoeVyo)
+ - 😝 [The Origin](http://9gag.com/gag/agmDEBr)
+ - 👉 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)<!-- MEMES:END -->
 
 ---
 

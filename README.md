@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p13#a260524p13)
+ - [Demand for security engineers is surging, with job postings up 11% YoY in Q1, driven by threats from AI-generated code and models like Mythos and GPT-5.4-Cyber &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260524/p12#a260524p12)
  - [Sunday Reboot: Stadium iPhones, Epic messaging fail, and Plex](https://appleinsider.com/articles/26/05/24/sunday-reboot-stadium-iphones-epic-messaging-fail-and-plex?utm_source=rss)
  - [&#39;Marshals&#39; Release Schedule: When the Finale Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-the-finale-hits-paramount-plus/)
- - [Sources: Uber weighs a higher bid after it approached a major Delivery Hero shareholder with a €38-per-share bid, valuing the group at €11.5B+, but was rebuffed &lpar;Financial Times&rpar;](https://www.techmeme.com/260524/p11#a260524p11)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 25, #1079](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-25-1079/)<!-- TECH:END -->
+ - [Sources: Uber weighs a higher bid after it approached a major Delivery Hero shareholder with a €38-per-share bid, valuing the group at €11.5B+, but was rebuffed &lpar;Financial Times&rpar;](https://www.techmeme.com/260524/p11#a260524p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

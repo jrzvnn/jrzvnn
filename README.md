@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cox Media fined after bragging it spied on users through their phones](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine)
+ - [Report: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in search results &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p18#a260525p18)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
  - [A Swimmer Broke a World Record at the Enhanced Games](https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/)
- - [A look at the UK&#39;s AI Safety Institute, whose researchers probe AI models for safety gaps, as its work becomes a blueprint for other governments&#39; AI policies &lpar;New York Times&rpar;](https://www.techmeme.com/260525/p17#a260525p17)
- - [Memorial Day Tech Deals: Sony, Apple, Anker, and More](https://www.wired.com/story/memorial-day-tech-deals-2026-2/)
- - [Best Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-2/)
- - [Study: rate of fabricated references in biomedical papers has grown 12x+ since 2023; in early 2026, one in 277 papers had at least one non-existent reference &lpar;Tristan Bove/Fortune&rpar;](https://www.techmeme.com/260525/p16#a260525p16)<!-- TECH:END -->
+ - [A look at the UK&#39;s AI Safety Institute, whose researchers probe AI models for safety gaps, as its work becomes a blueprint for other governments&#39; AI policies &lpar;New York Times&rpar;](https://www.techmeme.com/260525/p17#a260525p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

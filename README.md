@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security systems for smart homes with ADT&#39;s Jimmy Lin on Smart Home Insider](https://appleinsider.com/articles/26/05/25/security-systems-for-smart-homes-with-adts-jimmy-lin-on-smart-home-insider?utm_source=rss)
- - [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
- - [Wide camera shots exposed the limits of Apple&#39;s iPhone 17 Pro soccer broadcast](https://appleinsider.com/articles/26/05/25/wide-camera-shots-exposed-the-limits-of-apples-iphone-17-pro-soccer-broadcast?utm_source=rss)
- - [B&amp;H is blowing out M3 iPad Air inventory at $449 today only](https://appleinsider.com/articles/26/05/25/bh-is-blowing-out-m3-ipad-air-inventory-at-449-today-only?utm_source=rss)
- - [Pope Leo calls for being ‘profoundly human’ in the age of AI](https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare)<!-- TECH:END -->
+ - [A Swimmer Broke a World Record at the Enhanced Games](https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/)
+ - [A look at the UK&#39;s AI Safety Institute, whose researchers probe AI models for safety gaps, as its work becomes a blueprint for other governments&#39; AI policies &lpar;New York Times&rpar;](https://www.techmeme.com/260525/p17#a260525p17)
+ - [Memorial Day Tech Deals: Sony, Apple, Anker, and More](https://www.wired.com/story/memorial-day-tech-deals-2026-2/)
+ - [Best Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-2/)
+ - [Study: rate of fabricated references in biomedical papers has grown 12x+ since 2023; in early 2026, one in 277 papers had at least one non-existent reference &lpar;Tristan Bove/Fortune&rpar;](https://www.techmeme.com/260525/p16#a260525p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

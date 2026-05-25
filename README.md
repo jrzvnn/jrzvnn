@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI Era Is Creating a Bug Hunting Arms Race](https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/)
- - [In the ~43,000-word text, the Pope urged governments to slow down the development of AI systems and decried &quot;new forms of slavery&quot; of people tending AI systems &lpar;Joshua McElwee/Reuters&rpar;](https://www.techmeme.com/260525/p9#a260525p9)
- - [More than 5,500 GitHub repositories were infected with malware in a supply chain attack, dubbed Megalodon, on May 18 that relies on automated commits &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260525/p8#a260525p8)
- - [Pope Leo XIV presents his encyclical on AI, calling for regulation of AI companies, protection for children against hypersexualized AI images, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260525/p7#a260525p7)
- - [Sources: Meta, Google, and Amazon execs met Vatican officials on April 29, as part of a quiet lobbying push ahead of Pope Leo XIV&#39;s first AI encyclical &lpar;Océane Herrero/Politico&rpar;](https://www.techmeme.com/260525/p6#a260525p6)<!-- TECH:END -->
+ - [Best Memorial Day Deals: Garmin, Birdfy, Branch &lpar;2026&rpar;](https://www.wired.com/story/best-memorial-day-deals-2026-2/)
+ - [Star Citizen, a video game in development since 2012, has reached $1B in lifetime funding; it remains in alpha and does not have a confirmed release date &lpar;Jennifer Maas/Variety&rpar;](https://www.techmeme.com/260525/p13#a260525p13)
+ - [Pope Leo&#39;s AI Encyclical Has Landed. It Offers Wisdom for Big Tech, Goverments and You](https://www.cnet.com/tech/services-and-software/pope-leo-publishes-ai-encyclical-magnifica-humanitas/)
+ - [I&#39;m Scanning Thousands of Memorial Day Sales to Find the Ones Worth Your Time](https://www.cnet.com/news-live/memorial-day-sales-live-blog-2026/)
+ - [Tether plans to launch GELT, an &quot;official&quot; stablecoin representing the Georgian lari, with the support of Georgia&#39;s government in an unusual partnership &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p12#a260525p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

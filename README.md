@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminism](http://9gag.com/gag/ayNbQeM)
- - 😝 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
- - 💣 [Traditional romani training](http://9gag.com/gag/aByAGrO)
- - 😝 [Who thought travel on a huge tank with thousands of people in deep sea is a great idea?](http://9gag.com/gag/aryQB26)
- - 👉 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)<!-- MEMES:END -->
+ - 😝 [Traditional romani training](http://9gag.com/gag/aByAGrO)
+ - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
+ - 💣 [Secret gypsy ninja justsu! *hand movements and vanished* Person: where the f**k did my necklace gone?](http://9gag.com/gag/aByAO0Q)
+ - 😝 [Evil cannot create anything new](http://9gag.com/gag/aMVoOQP)
+ - 👉 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)<!-- MEMES:END -->
 
 ---
 

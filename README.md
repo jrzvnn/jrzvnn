@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Traditional romani training](http://9gag.com/gag/aByAGrO)
- - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
- - 💣 [Secret gypsy ninja justsu! *hand movements and vanished* Person: where the f**k did my necklace gone?](http://9gag.com/gag/aByAO0Q)
- - 😝 [Evil cannot create anything new](http://9gag.com/gag/aMVoOQP)
- - 👉 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)<!-- MEMES:END -->
+ - 😝 [The Origin](http://9gag.com/gag/agmDEBr)
+ - 😝 [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
+ - 💣 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
+ - 😝 [When You Study So Hard That Reality Breaks](http://9gag.com/gag/adBGo3B)
+ - 👉 [Teamwork](http://9gag.com/gag/aND7RyK)<!-- MEMES:END -->
 
 ---
 

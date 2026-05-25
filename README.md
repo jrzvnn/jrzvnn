@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p13#a260524p13)
- - [Demand for security engineers is surging, with job postings up 11% YoY in Q1, driven by threats from AI-generated code and models like Mythos and GPT-5.4-Cyber &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260524/p12#a260524p12)
- - [Sunday Reboot: Stadium iPhones, Epic messaging fail, and Plex](https://appleinsider.com/articles/26/05/24/sunday-reboot-stadium-iphones-epic-messaging-fail-and-plex?utm_source=rss)
- - [&#39;Marshals&#39; Release Schedule: When the Finale Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-the-finale-hits-paramount-plus/)
- - [Sources: Uber weighs a higher bid after it approached a major Delivery Hero shareholder with a €38-per-share bid, valuing the group at €11.5B+, but was rebuffed &lpar;Financial Times&rpar;](https://www.techmeme.com/260524/p11#a260524p11)<!-- TECH:END -->
+ - [A look at Xiaomi&#39;s AI push to future-proof its hardware and EV ecosystem, as it recently committed ~$8.8B in AI investments over the next three years &lpar;Ben Jiang/South China Morning Post&rpar;](https://www.techmeme.com/260525/p4#a260525p4)
+ - [A profile of Meta CTO Andrew &quot;Boz&quot; Bosworth, a top lieutenant of Mark Zuckerberg who is leading the gargantuan effort to transform Meta into an AI-first company &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/260525/p3#a260525p3)
+ - [30% Off Canon Promo Codes | May 2026](https://www.wired.com/story/canon-promo-code/)
+ - [HP Discount Codes: 60% Off May 2026](https://www.wired.com/story/hp-coupon-code/)
+ - [Design Within Reach Promo Codes: 30% Off | 2026](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

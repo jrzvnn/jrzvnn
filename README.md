@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The frog is chill](http://9gag.com/gag/a7oYnVx)
  - 😝 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)
+ - 😝 [The frog is chill](http://9gag.com/gag/a7oYnVx)
  - 💣 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
- - 😝 [They&#39;re the same picture.](http://9gag.com/gag/apR48Xb)
- - 👉 [Street musician](http://9gag.com/gag/avyM9DE)<!-- MEMES:END -->
+ - 😝 [Sleeping with open windows in summer counts as camping](http://9gag.com/gag/a7oYAN2)
+ - 👉 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)<!-- MEMES:END -->
 
 ---
 

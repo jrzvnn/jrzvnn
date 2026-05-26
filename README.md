@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She found out she was cheating on herself with herself.](http://9gag.com/gag/aXPyK62)
- - 😝 [Who thought travel on a huge tank with thousands of people in deep sea is a great idea?](http://9gag.com/gag/aryQB26)
- - 💣 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
- - 😝 [You crazy son of a b*tch](http://9gag.com/gag/aW4r9Zd)
- - 👉 [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)<!-- MEMES:END -->
+ - 😝 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
+ - 😝 [This is why I don\u2019t trust anyone](http://9gag.com/gag/aPAEr5K)
+ - 💣 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
+ - 😝 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)
+ - 👉 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)<!-- MEMES:END -->
 
 ---
 

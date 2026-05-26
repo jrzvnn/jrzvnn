@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Massachusetts formally recognizes the App Drivers Union, which says it represents ~70,000 workers and is the first state-certified rideshare union in the US &lpar;Bryan Hecht/The Boston Globe&rpar;](https://www.techmeme.com/260525/p22#a260525p22)
  - [Apple vs US antitrust case sees government attempting to escape discovery process](https://appleinsider.com/articles/26/05/25/apple-vs-us-antitrust-case-sees-government-attempting-to-escape-discovery-process?utm_source=rss)
  - [Former Apple designer&#39;s take on Ferrari will upset fans of the vehicle brand](https://appleinsider.com/articles/26/05/25/former-apple-designers-take-on-ferrari-will-upset-fans-of-the-vehicle-brand?utm_source=rss)
  - [The FTC settles with Cox, MindSift, and 1010 Digital Works for $930K over claims they falsely said they could use phone mics to spy on users for ad targeting &lpar;Adi Robertson/The Verge&rpar;](https://www.techmeme.com/260525/p21#a260525p21)
- - [Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery](https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
+ - [Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery](https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

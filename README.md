@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First betas of iOS 26.6, macOS 26.6 arrive as WWDC&#39;s Gen 27 draws near](https://appleinsider.com/articles/26/05/26/first-betas-of-ios-266-macos-266-arrive-as-wwdcs-gen-27-draws-near?utm_source=rss)
- - [Nvidia officially retires its GeForce Control Panel app after 20 years, following the porting of all of its major features to the Nvidia app &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260526/p26#a260526p26)
- - [Future iPhone might get real underwater photography features](https://appleinsider.com/articles/26/05/26/future-iphone-might-get-real-underwater-photography-features?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 26, #814](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-26-814/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 26, #1080](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-26-1080/)<!-- TECH:END -->
+ - [Google Health is here, but a lot of people want their Fitbit app back instead](https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai)
+ - [How Apple turned to math to defend against next-gen attacks on encryption](https://appleinsider.com/articles/26/05/26/how-apple-turned-to-math-to-defend-against-next-gen-attacks-on-encryption?utm_source=rss)
+ - [GE’s nugget ice maker is nearly half off if you buy it refurbished](https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale)
+ - [Q&amp;A with Sundar Pichai about reshaping the information ecosystem with Search changes, putting AI agents in everything, when AI will replace him as CEO, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260526/p27#a260526p27)
+ - [First betas of iOS 26.6, macOS 26.6 arrive as WWDC draws near](https://appleinsider.com/articles/26/05/26/first-betas-of-ios-266-macos-266-arrive-as-wwdcs-gen-27-draws-near?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Origin](http://9gag.com/gag/agmDEBr)
- - 😝 [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)
- - 💣 [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
- - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
- - 👉 [Teamwork](http://9gag.com/gag/aND7RyK)<!-- MEMES:END -->
+ - 😝 [Just 3 kids saving the future](http://9gag.com/gag/a4PXwQ1)
+ - 😝 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)
+ - 💣 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)
+ - 😝 [Faith in humanity restored](http://9gag.com/gag/aLnZWmM)
+ - 👉 [The Origin](http://9gag.com/gag/agmDEBr)<!-- MEMES:END -->
 
 ---
 

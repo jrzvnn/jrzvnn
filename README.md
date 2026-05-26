@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pope Leo Schooled the Tech Bros on Tolkien](https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/)
+ - [Previous OS updates contained security patches which have now been detailed by Apple](https://appleinsider.com/articles/26/05/26/previous-os-updates-contained-security-patches-which-have-now-been-detailed-by-apple?utm_source=rss)
+ - [We&#39;re Testing the &#39;Gold&#39; T1 Trump Mobile Phone. Day 3 &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
  - [OpenAI hires ServiceNow CMO Colin Fleming as CMO for its business segment; he succeeds Kate Rouch, who stepped down earlier this year to focus on her health &lpar;Trishla Ostwal/Adweek&rpar;](https://www.techmeme.com/260526/p33#a260526p33)
- - [US cybersecurity company Zscaler reports Q3 revenue up 25% YoY to $850.5M, above $835.4M est., and forecasts Q4 revenue below est.; ZS drops 18%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260526/p32#a260526p32)
- - [NASA&amp;#8217;s permanent Moon base plans start with three missions this year](https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates)
- - [Sources: Bond Capital is leading a new investment for AI startup Suno, which would value it at ~$5B, up from $2.45B last fall; Suno is expected to raise $250M+ &lpar;Axios&rpar;](https://www.techmeme.com/260526/p31#a260526p31)
- - [We&#39;re Testing the &#39;Gold&#39; T1 Trump Mobile Phone. Day 3 &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
+ - [US cybersecurity company Zscaler reports Q3 revenue up 25% YoY to $850.5M, above $835.4M est., and forecasts Q4 revenue below est.; ZS drops 18%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260526/p32#a260526p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just 3 kids saving the future](http://9gag.com/gag/a4PXwQ1)
- - 😝 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)
- - 💣 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)
- - 😝 [Faith in humanity restored](http://9gag.com/gag/aLnZWmM)
- - 👉 [The Origin](http://9gag.com/gag/agmDEBr)<!-- MEMES:END -->
+ - 😝 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
+ - 😝 [Feminism](http://9gag.com/gag/ayNbQeM)
+ - 💣 [She found out she was cheating on herself with herself.](http://9gag.com/gag/aXPyK62)
+ - 😝 [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)
+ - 👉 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)<!-- MEMES:END -->
 
 ---
 

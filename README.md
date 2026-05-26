@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Passeig de Gracia Apple Store reopens, updated with new industrial design](https://appleinsider.com/articles/26/05/26/passeig-de-gracia-apple-store-reopens-updated-with-new-industrial-design?utm_source=rss)
- - [Charter confirms a data breach after ShinyHunters claimed to steal 40M customer records from Charter&#39;s Salesforce instance and threatened to leak the data &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260526/p30#a260526p30)
- - [Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation](https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/)
- - [Micron hit a $1T market value for the first time on Tuesday as shares jumped 19%, driven by demand for its memory chips in the AI race &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260526/p29#a260526p29)
- - [The Best Movies to Stream This Month &lpar;May 2026&rpar;](https://www.wired.com/story/the-9-best-movies-to-stream-right-now/)<!-- TECH:END -->
+ - [OpenAI hires ServiceNow CMO Colin Fleming as CMO for its business segment; he succeeds Kate Rouch, who stepped down earlier this year to focus on her health &lpar;Trishla Ostwal/Adweek&rpar;](https://www.techmeme.com/260526/p33#a260526p33)
+ - [US cybersecurity company Zscaler reports Q3 revenue up 25% YoY to $850.5M, above $835.4M est., and forecasts Q4 revenue below est.; ZS drops 18%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260526/p32#a260526p32)
+ - [NASA&amp;#8217;s permanent Moon base plans start with three missions this year](https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates)
+ - [Sources: Bond Capital is leading a new investment for AI startup Suno, which would value it at ~$5B, up from $2.45B last fall; Suno is expected to raise $250M+ &lpar;Axios&rpar;](https://www.techmeme.com/260526/p31#a260526p31)
+ - [We&#39;re Testing the &#39;Gold&#39; T1 Trump Mobile Phone. Day 3 &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

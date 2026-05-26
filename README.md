@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - 😝 [Feminism](http://9gag.com/gag/ayNbQeM)
- - 💣 [She found out she was cheating on herself with herself.](http://9gag.com/gag/aXPyK62)
- - 😝 [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)
- - 👉 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)<!-- MEMES:END -->
+ - 😝 [She found out she was cheating on herself with herself.](http://9gag.com/gag/aXPyK62)
+ - 😝 [Who thought travel on a huge tank with thousands of people in deep sea is a great idea?](http://9gag.com/gag/aryQB26)
+ - 💣 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
+ - 😝 [You crazy son of a b*tch](http://9gag.com/gag/aW4r9Zd)
+ - 👉 [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)<!-- MEMES:END -->
 
 ---
 

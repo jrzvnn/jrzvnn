@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Health is here, but a lot of people want their Fitbit app back instead](https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai)
- - [How Apple turned to math to defend against next-gen attacks on encryption](https://appleinsider.com/articles/26/05/26/how-apple-turned-to-math-to-defend-against-next-gen-attacks-on-encryption?utm_source=rss)
- - [GE’s nugget ice maker is nearly half off if you buy it refurbished](https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale)
- - [Q&amp;A with Sundar Pichai about reshaping the information ecosystem with Search changes, putting AI agents in everything, when AI will replace him as CEO, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260526/p27#a260526p27)
- - [First betas of iOS 26.6, macOS 26.6 arrive as WWDC draws near](https://appleinsider.com/articles/26/05/26/first-betas-of-ios-266-macos-266-arrive-as-wwdcs-gen-27-draws-near?utm_source=rss)<!-- TECH:END -->
+ - [Passeig de Gracia Apple Store reopens, updated with new industrial design](https://appleinsider.com/articles/26/05/26/passeig-de-gracia-apple-store-reopens-updated-with-new-industrial-design?utm_source=rss)
+ - [Charter confirms a data breach after ShinyHunters claimed to steal 40M customer records from Charter&#39;s Salesforce instance and threatened to leak the data &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260526/p30#a260526p30)
+ - [Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation](https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/)
+ - [Micron hit a $1T market value for the first time on Tuesday as shares jumped 19%, driven by demand for its memory chips in the AI race &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260526/p29#a260526p29)
+ - [The Best Movies to Stream This Month &lpar;May 2026&rpar;](https://www.wired.com/story/the-9-best-movies-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

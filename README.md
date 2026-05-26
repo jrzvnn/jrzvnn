@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kelp DAO says its restaked Ether token has been restored after a five-week recovery effort following a $293M exploit by North Korea&#39;s Lazarus Group on April 18 &lpar;Brayden Lindrea/Cointelegraph&rpar;](https://www.techmeme.com/260526/p2#a260526p2)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-26/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 26, #610](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-26-610/)
- - [A Samsung union representing its consumer electronics division says it asked a South Korean court to block a pay deal vote that mainly benefits chip workers &lpar;Reuters&rpar;](https://www.techmeme.com/260526/p1#a260526p1)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
+ - [iPhone Fold now reportedly held up by circuit board problems](https://appleinsider.com/articles/26/05/26/iphone-fold-now-reportedly-held-up-by-circuit-board-problems?utm_source=rss)
+ - [How clips ate the internet](https://www.theverge.com/podcast/937188/clips-internet-feed-fitbit-air-vergecast)
+ - [Sundar Pichai on AI, the future of search, and what’s happening to the web](https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web)
+ - [How AI startups like Altur are using chatbots to help automate debt collection; YC incubated six debt collection and settlement startups in the past six years &lpar;Kate Knibbs/Wired&rpar;](https://www.techmeme.com/260526/p19#a260526p19)
+ - [Dropbox founder Drew Houston is stepping down as CEO after 19 years to become executive chairman, replaced by Ashraf Alkarmi, who is SVP and GM of Dropbox Core &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260526/p18#a260526p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

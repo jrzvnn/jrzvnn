@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix tops $1T in market value after shares jumped 11% on Wednesday, becoming the third Asian company to hit the mark; shares surged 900%+ in the past year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260526/p36#a260526p36)
- - [Sources: Fireworks AI, which helps companies run AI models, is in talks to raise funding at a $15B valuation after being valued at $4B in October 2025 &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260526/p35#a260526p35)
- - [Did the Pope use AI to write about the dangers of AI?](https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram)
- - [Case manufacturers are guessing more than leakers with iPhone Fold product listings](https://appleinsider.com/articles/26/05/26/case-manufacturers-are-guessing-more-than-leakers-with-iphone-fold-product-listings?utm_source=rss)
- - [Source: AI inference provider Baseten is in talks to raise $1B at a post-money valuation of $11B, up from $5B after its $300M Series E announced in January &lpar;The Information&rpar;](https://www.techmeme.com/260526/p34#a260526p34)<!-- TECH:END -->
+ - [Sources: software-specialist PE firm Hg agrees to acquire Rightsline, whose software helps Disney, the BBC, WBD, and others manage IP licensing, for $500M &lpar;Financial Times&rpar;](https://www.techmeme.com/260527/p2#a260527p2)
+ - [Trump says it is &quot;critically important&quot; that the CFTC has exclusive authority to oversee prediction markets, as some US states attempt to regulate them &lpar;Ashleigh Fields/The Hill&rpar;](https://www.techmeme.com/260527/p1#a260527p1)
+ - [Home Depot Promo Codes: 50% Off in June 2026](https://www.wired.com/story/home-depot-promo-code/)
+ - [Booking.com Promo Codes: 20% Off | June 2026](https://www.wired.com/story/booking-com-promo-code/)
+ - [50% Off DoorDash Promo Code | June 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

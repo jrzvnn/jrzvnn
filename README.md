@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - 😝 [Interesting](http://9gag.com/gag/an7mG0o)
- - 💣 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)
- - 😝 [The frog is chill](http://9gag.com/gag/a7oYnVx)
- - 👉 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)<!-- MEMES:END -->
+ - 😝 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
+ - 😝 [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)
+ - 💣 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
+ - 😝 [Street musician](http://9gag.com/gag/avyM9DE)
+ - 👉 [Nobody expected that !](http://9gag.com/gag/avyMDYE)<!-- MEMES:END -->
 
 ---
 

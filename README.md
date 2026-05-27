@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Datacurve releases the DeepSWE coding benchmark, a 113-task test across 91 open-source repositories and five languages, and says GPT-5.5 is the leader at 70% &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260527/p13#a260527p13)
- - [Corsair Galleon 100 SD Review: Stream Deck Now Included](https://www.wired.com/review/review-corsair-galleon-100-sd/)
- - [Department of Labor Tells Employees to Report Anyone Prioritizing DEI](https://www.wired.com/story/department-of-labor-tells-employees-to-report-anyone-prioritizing-dei/)
- - [Xreal launches a new sub-brand, X by Xreal, and the $299 a01 display glasses with micro OLED displays, 50° FOV, and 62g weight, set for July release in the US &lpar;Scott Stein/CNET&rpar;](https://www.techmeme.com/260527/p12#a260527p12)
- - [A New Species of Tiny Octopus Was Discovered in the Galápagos Islands](https://www.wired.com/story/a-new-species-of-tiny-octopus-was-discovered-in-the-galapagos-islands/)<!-- TECH:END -->
+ - [DC-based Airis Labs, which uses AI to convert visual data to law enforcement intelligence, emerges from stealth with a $31M Series B, for $60M in total funding &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260527/p26#a260527p26)
+ - [The State Department Really Doesn’t Want to Talk About the Office of Remigration](https://www.wired.com/story/the-state-department-really-doesnt-want-to-talk-about-the-office-of-remigration/)
+ - [Polymarket is making it harder to use VPNs to access its service, blocking some IPs and suspicious accounts, and is asking some customers to identify themselves &lpar;Michael Roddan/The Information&rpar;](https://www.techmeme.com/260527/p25#a260527p25)
+ - [007 First Light is like a James Bond movie in the best way possible](https://www.theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox)
+ - [Apple Vision Pro &amp; PlayStation 5 are the perfect combo with Portal Remote Play app](https://appleinsider.com/articles/26/05/27/apple-vision-pro-playstation-5-are-the-perfect-combo-with-portal-remote-play-app?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

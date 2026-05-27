@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DC-based Airis Labs, which uses AI to convert visual data to law enforcement intelligence, emerges from stealth with a $31M Series B, for $60M in total funding &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260527/p26#a260527p26)
- - [The State Department Really Doesn’t Want to Talk About the Office of Remigration](https://www.wired.com/story/the-state-department-really-doesnt-want-to-talk-about-the-office-of-remigration/)
- - [Polymarket is making it harder to use VPNs to access its service, blocking some IPs and suspicious accounts, and is asking some customers to identify themselves &lpar;Michael Roddan/The Information&rpar;](https://www.techmeme.com/260527/p25#a260527p25)
- - [007 First Light is like a James Bond movie in the best way possible](https://www.theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox)
- - [Apple Vision Pro &amp; PlayStation 5 are the perfect combo with Portal Remote Play app](https://appleinsider.com/articles/26/05/27/apple-vision-pro-playstation-5-are-the-perfect-combo-with-portal-remote-play-app?utm_source=rss)<!-- TECH:END -->
+ - [Starlette, an open-source Python framework underpinning FastAPI, has a vulnerability, called BadHost, that can allow hackers to bypass authorization &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260527/p37#a260527p37)
+ - [OpenAI Foundation says it is committing an initial $250M for grants, partnerships, and direct work aimed at helping workers and economies navigate AI disruption &lpar;Reuters&rpar;](https://www.techmeme.com/260527/p36#a260527p36)
+ - [Motorola says affiliate hijacking of Amazon app was &amp;#8216;unintended&amp;#8217;](https://www.theverge.com/tech/938249/motorola-device-native-amazon-affiliate-hijack)
+ - [Sony is offering up to 50 percent off some of our favorite PS5 games](https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal)
+ - [8 Best Computer Speakers &lpar;2026&rpar; After Testing 25+ Pairs](https://www.wired.com/gallery/best-computer-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

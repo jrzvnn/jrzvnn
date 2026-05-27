@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Illinois Legislature passes SB 315, a bill requiring annual independent third-party safety audits of leading AI companies; the bill heads to the governor&#39;s desk &lpar;Jared Perlo/NBC News&rpar;](https://www.techmeme.com/260527/p49#a260527p49)
+ - [The US DOD announces a $9.7B five-year deal with Dell to provide Microsoft 365, advanced cloud subscriptions, and on-premises licensing to the US military &lpar;Garrett Downs/CNBC&rpar;](https://www.techmeme.com/260527/p48#a260527p48)
+ - [US prosecutors charge Google engineer Michele Spagnuolo with using inside information to make $1.2M on Polymarket bets about Google&#39;s Year in Search results &lpar;ABC News&rpar;](https://www.techmeme.com/260527/p47#a260527p47)
  - [A Google employee allegedly used inside information to win $1.2 million on Polymarket](https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets)
- - [Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme](https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/)
- - [Sources: Uber has increased its stake in Delivery Hero to ~37% by acquiring Aspex Management&#39;s 14.6% share at a €12B valuation, after a takeover offer last week &lpar;Financial Times&rpar;](https://www.techmeme.com/260527/p46#a260527p46)
- - [Apple’s newest iPad Air is up to $100 off for the first time](https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale)
- - [NordVPN&#39;s New App Acts as an All-in-One Digital Privacy and Security Hub](https://www.cnet.com/tech/services-and-software/nordvpn-is-turning-its-vpn-app-into-an-all-in-one-security-hub/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for May 28, #1804](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-28-1804/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

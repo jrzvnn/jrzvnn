@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlette, an open-source Python framework underpinning FastAPI, has a vulnerability, called BadHost, that can allow hackers to bypass authorization &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260527/p37#a260527p37)
- - [OpenAI Foundation says it is committing an initial $250M for grants, partnerships, and direct work aimed at helping workers and economies navigate AI disruption &lpar;Reuters&rpar;](https://www.techmeme.com/260527/p36#a260527p36)
- - [Motorola says affiliate hijacking of Amazon app was &amp;#8216;unintended&amp;#8217;](https://www.theverge.com/tech/938249/motorola-device-native-amazon-affiliate-hijack)
- - [Sony is offering up to 50 percent off some of our favorite PS5 games](https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal)
- - [8 Best Computer Speakers &lpar;2026&rpar; After Testing 25+ Pairs](https://www.wired.com/gallery/best-computer-speakers/)<!-- TECH:END -->
+ - [Roids were all the rage at the Enhanced Games](https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports)
+ - [Valve raises Steam Deck OLED prices due to &quot;rising memory and storage costs&quot;; the 512GB model is now $789, up from $549, and the 1TB model is $949, up from $649 &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260527/p40#a260527p40)
+ - [Meta rolls out Plus plans for Instagram, Facebook, and WhatsApp globally, will test $7.99/mo. and $19.99/mo. Meta AI plans, a $49.99/mo. creator plan, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260527/p39#a260527p39)
+ - [Patrick Brammall leads Apple TV&#39;s upcoming missing-child thriller &#39;Last Seen&#39;](https://appleinsider.com/articles/26/05/27/patrick-brammall-leads-apple-tvs-upcoming-missing-child-thriller-last-seen?utm_source=rss)
+ - [Amazon has to buy out Apple&#39;s 20% Globalstar stake as acquisition rolls on](https://appleinsider.com/articles/26/05/27/amazon-has-to-buy-out-apples-20-globalstar-stake-as-acquisition-rolls-on?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

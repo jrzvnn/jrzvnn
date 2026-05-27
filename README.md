@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)
- - 😝 [Street musician](http://9gag.com/gag/avyM9DE)
- - 💣 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - 😝 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)
- - 👉 [Bliss](http://9gag.com/gag/a346xp8)<!-- MEMES:END -->
+ - 😝 [The frog is chill](http://9gag.com/gag/a7oYnVx)
+ - 😝 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
+ - 💣 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
+ - 😝 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
+ - 👉 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)<!-- MEMES:END -->
 
 ---
 

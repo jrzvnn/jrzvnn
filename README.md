@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The frog is chill](http://9gag.com/gag/a7oYnVx)
  - 😝 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - 💣 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
- - 😝 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
- - 👉 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)<!-- MEMES:END -->
+ - 😝 [Interesting](http://9gag.com/gag/an7mG0o)
+ - 💣 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)
+ - 😝 [The frog is chill](http://9gag.com/gag/a7oYnVx)
+ - 👉 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)<!-- MEMES:END -->
 
 ---
 

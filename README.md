@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Google employee allegedly used inside information to win $1.2 million on Polymarket](https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets)
+ - [Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme](https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/)
+ - [Sources: Uber has increased its stake in Delivery Hero to ~37% by acquiring Aspex Management&#39;s 14.6% share at a €12B valuation, after a takeover offer last week &lpar;Financial Times&rpar;](https://www.techmeme.com/260527/p46#a260527p46)
  - [Apple’s newest iPad Air is up to $100 off for the first time](https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale)
- - [HP reports Q2 revenue up 9% YoY to $14.4B, vs. $14B est., Personal Systems revenue up 13% to $10.2B, and forecasts Q3 adjusted EPS above estimates &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260527/p45#a260527p45)
- - [Bootids Meteor Shower May Explode With Meteors or Fizzle Out: How to Watch](https://www.cnet.com/science/space/bootids-meteor-shower-june/)
- - [Salesforce reports Q1 revenue up 13% YoY to $11.13B, vs. $11.05B est., Agentforce annual recurring revenue up 205% to $1.2B, and forecasts Q2 revenue below est. &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260527/p44#a260527p44)
- - [Snowflake reports Q1 revenue up 33% YoY to $1.39B, vs. $1.32B est., and commits to spending $6B on AWS over five years; SNOW jumps 29%+ after hours &lpar;CNBC&rpar;](https://www.techmeme.com/260527/p43#a260527p43)<!-- TECH:END -->
+ - [NordVPN&#39;s New App Acts as an All-in-One Digital Privacy and Security Hub](https://www.cnet.com/tech/services-and-software/nordvpn-is-turning-its-vpn-app-into-an-all-in-one-security-hub/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

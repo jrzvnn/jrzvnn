@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: software-specialist PE firm Hg agrees to acquire Rightsline, whose software helps Disney, the BBC, WBD, and others manage IP licensing, for $500M &lpar;Financial Times&rpar;](https://www.techmeme.com/260527/p2#a260527p2)
- - [Trump says it is &quot;critically important&quot; that the CFTC has exclusive authority to oversee prediction markets, as some US states attempt to regulate them &lpar;Ashleigh Fields/The Hill&rpar;](https://www.techmeme.com/260527/p1#a260527p1)
- - [Home Depot Promo Codes: 50% Off in June 2026](https://www.wired.com/story/home-depot-promo-code/)
- - [Booking.com Promo Codes: 20% Off | June 2026](https://www.wired.com/story/booking-com-promo-code/)
- - [50% Off DoorDash Promo Code | June 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [Datacurve releases the DeepSWE coding benchmark, a 113-task test across 91 open-source repositories and five languages, and says GPT-5.5 is the leader at 70% &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260527/p13#a260527p13)
+ - [Corsair Galleon 100 SD Review: Stream Deck Now Included](https://www.wired.com/review/review-corsair-galleon-100-sd/)
+ - [Department of Labor Tells Employees to Report Anyone Prioritizing DEI](https://www.wired.com/story/department-of-labor-tells-employees-to-report-anyone-prioritizing-dei/)
+ - [Xreal launches a new sub-brand, X by Xreal, and the $299 a01 display glasses with micro OLED displays, 50° FOV, and 62g weight, set for July release in the US &lpar;Scott Stein/CNET&rpar;](https://www.techmeme.com/260527/p12#a260527p12)
+ - [A New Species of Tiny Octopus Was Discovered in the Galápagos Islands](https://www.wired.com/story/a-new-species-of-tiny-octopus-was-discovered-in-the-galapagos-islands/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

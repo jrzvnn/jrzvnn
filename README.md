@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Snu snu](http://9gag.com/gag/aoyvno2)
  - 😝 [The frog is chill](http://9gag.com/gag/a7oYnVx)
- - 💣 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - 😝 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
- - 👉 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)<!-- MEMES:END -->
+ - 💣 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
+ - 😝 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)
+ - 👉 [Lifetime of supply](http://9gag.com/gag/aryQ80y)<!-- MEMES:END -->
 
 ---
 

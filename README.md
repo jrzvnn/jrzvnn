@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snu snu](http://9gag.com/gag/aoyvno2)
- - 😝 [The frog is chill](http://9gag.com/gag/a7oYnVx)
+ - 😝 [The worst she can say is no...](http://9gag.com/gag/aRBbDxq)
+ - 😝 [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)
  - 💣 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
- - 😝 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)
- - 👉 [Lifetime of supply](http://9gag.com/gag/aryQ80y)<!-- MEMES:END -->
+ - 😝 [Two Samoan contract killers came to Vietnam to kill two Australians &lpar;one died&rpar; and were arrested after less than 72 hours. Murder carries the death penalty in Vietnam](http://9gag.com/gag/abANRor)
+ - 👉 [The frog is chill](http://9gag.com/gag/a7oYnVx)<!-- MEMES:END -->
 
 ---
 

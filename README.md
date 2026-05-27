@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pope Leo Schooled the Tech Bros on Tolkien](https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/)
- - [Previous OS updates contained security patches which have now been detailed by Apple](https://appleinsider.com/articles/26/05/26/previous-os-updates-contained-security-patches-which-have-now-been-detailed-by-apple?utm_source=rss)
- - [We&#39;re Testing the &#39;Gold&#39; T1 Trump Mobile Phone. Day 3 &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
- - [OpenAI hires ServiceNow CMO Colin Fleming as CMO for its business segment; he succeeds Kate Rouch, who stepped down earlier this year to focus on her health &lpar;Trishla Ostwal/Adweek&rpar;](https://www.techmeme.com/260526/p33#a260526p33)
- - [US cybersecurity company Zscaler reports Q3 revenue up 25% YoY to $850.5M, above $835.4M est., and forecasts Q4 revenue below est.; ZS drops 18%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260526/p32#a260526p32)<!-- TECH:END -->
+ - [SK Hynix tops $1T in market value after shares jumped 11% on Wednesday, becoming the third Asian company to hit the mark; shares surged 900%+ in the past year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260526/p36#a260526p36)
+ - [Sources: Fireworks AI, which helps companies run AI models, is in talks to raise funding at a $15B valuation after being valued at $4B in October 2025 &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260526/p35#a260526p35)
+ - [Did the Pope use AI to write about the dangers of AI?](https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram)
+ - [Case manufacturers are guessing more than leakers with iPhone Fold product listings](https://appleinsider.com/articles/26/05/26/case-manufacturers-are-guessing-more-than-leakers-with-iphone-fold-product-listings?utm_source=rss)
+ - [Source: AI inference provider Baseten is in talks to raise $1B at a post-money valuation of $11B, up from $5B after its $300M Series E announced in January &lpar;The Information&rpar;](https://www.techmeme.com/260526/p34#a260526p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

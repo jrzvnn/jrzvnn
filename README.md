@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roids were all the rage at the Enhanced Games](https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports)
- - [Valve raises Steam Deck OLED prices due to &quot;rising memory and storage costs&quot;; the 512GB model is now $789, up from $549, and the 1TB model is $949, up from $649 &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260527/p40#a260527p40)
- - [Meta rolls out Plus plans for Instagram, Facebook, and WhatsApp globally, will test $7.99/mo. and $19.99/mo. Meta AI plans, a $49.99/mo. creator plan, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260527/p39#a260527p39)
- - [Patrick Brammall leads Apple TV&#39;s upcoming missing-child thriller &#39;Last Seen&#39;](https://appleinsider.com/articles/26/05/27/patrick-brammall-leads-apple-tvs-upcoming-missing-child-thriller-last-seen?utm_source=rss)
- - [Amazon has to buy out Apple&#39;s 20% Globalstar stake as acquisition rolls on](https://appleinsider.com/articles/26/05/27/amazon-has-to-buy-out-apples-20-globalstar-stake-as-acquisition-rolls-on?utm_source=rss)<!-- TECH:END -->
+ - [Apple’s newest iPad Air is up to $100 off for the first time](https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale)
+ - [HP reports Q2 revenue up 9% YoY to $14.4B, vs. $14B est., Personal Systems revenue up 13% to $10.2B, and forecasts Q3 adjusted EPS above estimates &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260527/p45#a260527p45)
+ - [Bootids Meteor Shower May Explode With Meteors or Fizzle Out: How to Watch](https://www.cnet.com/science/space/bootids-meteor-shower-june/)
+ - [Salesforce reports Q1 revenue up 13% YoY to $11.13B, vs. $11.05B est., Agentforce annual recurring revenue up 205% to $1.2B, and forecasts Q2 revenue below est. &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260527/p44#a260527p44)
+ - [Snowflake reports Q1 revenue up 33% YoY to $1.39B, vs. $1.32B est., and commits to spending $6B on AWS over five years; SNOW jumps 29%+ after hours &lpar;CNBC&rpar;](https://www.techmeme.com/260527/p43#a260527p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

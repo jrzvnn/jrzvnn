@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Airwallex raised new funding led by Lee Fixel&#39;s Addition at a ~$12B valuation, up from $8B late last year, and hit $1.5B in ARR, up from $1B in October &lpar;Axios&rpar;](https://www.techmeme.com/260528/p59#a260528p59)
- - [Apple&#39;s AI research will be in a computer vision conference before WWDC](https://appleinsider.com/articles/26/05/28/apples-ai-research-will-be-in-a-computer-vision-conference-before-wwdc?utm_source=rss)
- - [Doc: the EU is preparing emergency powers to intervene in Europe&#39;s chip supply chains during shortages, including by forcing chipmakers to override contracts &lpar;Barbara Moens/Financial Times&rpar;](https://www.techmeme.com/260528/p58#a260528p58)
- - [Dell reports Q1 revenue up 88% YoY to $43.84B, vs. $35.43B est., and forecasts FY 2027 revenue above estimates; DELL jumps 15%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260528/p57#a260528p57)
- - [Anthropic Says a Mythos-Class AI Model Will Be Available Soon](https://www.cnet.com/tech/services-and-software/anthropic-claude-opus-4-8-release-mythos-class-ai-model-soon/)<!-- TECH:END -->
+ - [California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US &lpar;Jaimie Ding/Associated Press&rpar;](https://www.techmeme.com/260528/p62#a260528p62)
+ - [Okta reports Q1 revenue up 11% YoY to $765M, vs. $752M est., says the agentic AI build-out is spiking demand for its identity tools; OKTA jumps 7%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260528/p61#a260528p61)
+ - [Sources: Amazon has shut down an internal leaderboard that tracked employees&#39; use of AI tools after workers tried to boost their scores with needless tasks &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260528/p60#a260528p60)
+ - [Apple&#39;s iOS 27 Could Be Siri&#39;s Biggest AI Reinvention Yet](https://www.cnet.com/tech/mobile/apple-siri-bloomberg-reveal-ios-27/)
+ - [Sources: Airwallex raised new funding led by Lee Fixel&#39;s Addition at a ~$12B valuation, up from $8B late last year, and hit $1.5B in ARR, up from $1B in October &lpar;Axios&rpar;](https://www.techmeme.com/260528/p59#a260528p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

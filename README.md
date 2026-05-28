@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: CNN sues Perplexity in New York for allegedly unlawfully copying and distributing CNN content, after failing to agree on terms with Perplexity in 2025 &lpar;Brian Stelter/CNN&rpar;](https://www.techmeme.com/260528/p34#a260528p34)
- - [YouTube adds a &quot;custom feed&quot; to its home page, letting users enter a prompt to create a constantly refreshed feed, available to signed-in users in the US &lpar;Andrew Romero/9to5Google&rpar;](https://www.techmeme.com/260528/p33#a260528p33)
- - [Illustrations based on sources detail Apple&#39;s Siri overhaul, including a new UI, a chatbot-style app, and other major iOS 27 changes, ahead of WWDC on June 8 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260528/p32#a260528p32)
- - [Oura unveils the Oura Ring 5, with a 40% smaller form factor, improved sensing, and repositioned LEDs, on sale from June 4 for $399, up from the Ring 4&#39;s $349 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p31#a260528p31)
- - [Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach](https://www.wired.com/story/oura-ring-5/)<!-- TECH:END -->
+ - [Microsoft is killing Office 2019 for Mac and iPhone, and you can&#39;t do much about it](https://appleinsider.com/articles/26/05/28/microsoft-is-killing-office-2019-for-mac-and-iphone-and-you-cant-do-much-about-it?utm_source=rss)
+ - [Elon Musk says Anthropic&#39;s Colossus deal is &quot;a 180 day lease with 90 day notice&quot;; SpaceX&#39;s S-1 said Anthropic &quot;agreed to pay a monthly fee through May 2029&quot; &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260528/p47#a260528p47)
+ - [Apple Vision Pro &amp; PlayStation 5 are the perfect combo with Remote Play apps](https://appleinsider.com/articles/26/05/27/apple-vision-pro-playstation-5-are-the-perfect-combo-with-portal-remote-play-app?utm_source=rss)
+ - [A $2,000 AI-generated film will make its debut at Tribeca](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca)
+ - [Call of Duty: Warzone is dropping PS4 and Xbox One support later this year](https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

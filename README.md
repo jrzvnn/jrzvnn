@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Illinois Legislature passes SB 315, a bill requiring annual independent third-party safety audits of leading AI companies; the bill heads to the governor&#39;s desk &lpar;Jared Perlo/NBC News&rpar;](https://www.techmeme.com/260527/p49#a260527p49)
- - [The US DOD announces a $9.7B five-year deal with Dell to provide Microsoft 365, advanced cloud subscriptions, and on-premises licensing to the US military &lpar;Garrett Downs/CNBC&rpar;](https://www.techmeme.com/260527/p48#a260527p48)
- - [US prosecutors charge Google engineer Michele Spagnuolo with using inside information to make $1.2M on Polymarket bets about Google&#39;s Year in Search results &lpar;ABC News&rpar;](https://www.techmeme.com/260527/p47#a260527p47)
- - [A Google employee allegedly used inside information to win $1.2 million on Polymarket](https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets)
- - [Today&#39;s Wordle Hints, Answer and Help for May 28, #1804](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-28-1804/)<!-- TECH:END -->
+ - [Filing: Amazon will acquire Apple&#39;s 20% stake in Globalstar as part of its acquisition of the satellite provider and create a subsidiary to conduct the merger &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260527/p52#a260527p52)
+ - [SoFi says SoFiUSD, its US dollar-pegged stablecoin on Ethereum and Solana, is now available for members to buy, sell, hold, and convert within the SoFi app &lpar;Brian Danga/The Block&rpar;](https://www.techmeme.com/260527/p51#a260527p51)
+ - [Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill](https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/)
+ - [JMGO N3 Ultimate projector review: Great setup, excellent picture, bad software](https://appleinsider.com/articles/26/05/28/jmgo-n3-ultimate-projector-review-great-setup-excellent-picture-bad-software?utm_source=rss)
+ - [Mark Zuckerberg tells shareholders that a Meta cloud computing business is &quot;definitely on the table&quot; if it overspends on data centers and has excess capacity &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260527/p50#a260527p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

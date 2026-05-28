@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)
- - 😝 [This is why I don\u2019t trust anyone](http://9gag.com/gag/aPAEr5K)
- - 💣 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)
- - 😝 [You never know what you\u2019re gonna get.](http://9gag.com/gag/aAy8N1E)
- - 👉 [Cultural exchange story](http://9gag.com/gag/a7oYGgx)<!-- MEMES:END -->
+ - 😝 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
+ - 😝 [How many beers?](http://9gag.com/gag/a2v3jN9)
+ - 💣 [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)
+ - 😝 [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
+ - 👉 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)<!-- MEMES:END -->
 
 ---
 

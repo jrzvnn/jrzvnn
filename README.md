@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How to steal 200K worth of legos](http://9gag.com/gag/awyEv68)
  - 😝 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
- - 😝 [How many beers?](http://9gag.com/gag/a2v3jN9)
  - 💣 [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)
- - 😝 [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
- - 👉 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)<!-- MEMES:END -->
+ - 😝 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)
+ - 👉 [I did not see that coming](http://9gag.com/gag/agmDZdW)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is killing Office 2019 for Mac and iPhone, and you can&#39;t do much about it](https://appleinsider.com/articles/26/05/28/microsoft-is-killing-office-2019-for-mac-and-iphone-and-you-cant-do-much-about-it?utm_source=rss)
- - [Elon Musk says Anthropic&#39;s Colossus deal is &quot;a 180 day lease with 90 day notice&quot;; SpaceX&#39;s S-1 said Anthropic &quot;agreed to pay a monthly fee through May 2029&quot; &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260528/p47#a260528p47)
- - [Apple Vision Pro &amp; PlayStation 5 are the perfect combo with Remote Play apps](https://appleinsider.com/articles/26/05/27/apple-vision-pro-playstation-5-are-the-perfect-combo-with-portal-remote-play-app?utm_source=rss)
- - [A $2,000 AI-generated film will make its debut at Tribeca](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca)
- - [Call of Duty: Warzone is dropping PS4 and Xbox One support later this year](https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support)<!-- TECH:END -->
+ - [The $6 Billion Chinese Startup Trying to Build Hands for Every Robot](https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/)
+ - [Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook](https://www.wired.com/story/meta-copies-snapchats-homework-again/)
+ - [Motorola’s last-gen Razr Ultra is almost half off](https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale)
+ - [OLED, KVM &amp; lower prices make MSI&#39;s new Mac-friendly monitor lineup hard to ignore](https://appleinsider.com/articles/26/05/28/oled-kvm-lower-prices-make-msis-new-mac-friendly-monitor-lineup-hard-to-ignore?utm_source=rss)
+ - [Anthropic raised a $65B Series H at a $965B post-money valuation led by Altimeter, Dragoneer, Greenoaks, and Sequoia, and says its revenue run rate crossed $47B &lpar;New York Times&rpar;](https://www.techmeme.com/260528/p51#a260528p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

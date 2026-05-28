@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: the Philadelphia Semiconductor Index, which tracks 30 largest US-listed chipmakers, is up ~75% YTD and on track for its biggest annual gain since 1999 &lpar;Financial Times&rpar;](https://www.techmeme.com/260528/p7#a260528p7)
- - [Global AI hardware demand is easing China&#39;s concerns over a stronger yuan hurting exports, as AI hardware exports surge and chip equipment imports rise &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p6#a260528p6)
- - [Taiwanese tech companies have completed a record $14.5B of debt deals so far this year, as they race to secure financing to meet soaring demand for AI capacity &lpar;Aileen Chuang/Bloomberg&rpar;](https://www.techmeme.com/260528/p5#a260528p5)
- - [Companies are using AI at their global capability centers in India to bring more creative work in-house, cutting turnaround times and reliance on ad agencies &lpar;Reuters&rpar;](https://www.techmeme.com/260528/p4#a260528p4)
- - [Swiggy CEO Sriharsha Majety says his company plans to stay out of the spending war as Amazon and Flipkart ramp up their quick commerce efforts across India &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p3#a260528p3)<!-- TECH:END -->
+ - [How Are French Open Players Dealing With the Paris Heat Wave?](https://www.wired.com/story/why-its-almost-too-hot-to-play-tennis-at-the-french-open-2026/)
+ - [Ballots Have Been Seized Across the US. No One Knows What Will Happen Next](https://www.wired.com/story/ballots-have-been-seized-across-the-us-no-one-knows-what-will-happen-next/)
+ - [YouTube will let you ask AI to make a custom video feed](https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability)
+ - [As the US AI boom drains venture capital from Africa, startups on the continent are pivoting to domestic funding sources, like pension funds and local VC firms &lpar;Rivaldo Jantjies/Bloomberg&rpar;](https://www.techmeme.com/260528/p13#a260528p13)
+ - [Swedish chip optical component maker Sivers, whose stock is up ~1,700% YTD, giving it a ~$2.5B market cap, has become one of the country&#39;s most-shorted stocks &lpar;Jonas Ekblom/Bloomberg&rpar;](https://www.techmeme.com/260528/p12#a260528p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

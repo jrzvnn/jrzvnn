@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody expected that !](http://9gag.com/gag/avyMDYE)
- - 😝 [Just do it!](http://9gag.com/gag/aLnZbVW)
- - 💣 [A master at work](http://9gag.com/gag/aByAovA)
- - 😝 [Go figure.](http://9gag.com/gag/agmDdK1)
- - 👉 [Calling for a drizzle](http://9gag.com/gag/aVvp1Dd)<!-- MEMES:END -->
+ - 😝 [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)
+ - 😝 [This is why I don\u2019t trust anyone](http://9gag.com/gag/aPAEr5K)
+ - 💣 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)
+ - 😝 [You never know what you\u2019re gonna get.](http://9gag.com/gag/aAy8N1E)
+ - 👉 [Cultural exchange story](http://9gag.com/gag/a7oYGgx)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The worst she can say is no...](http://9gag.com/gag/aRBbDxq)
- - 😝 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
- - 💣 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - 😝 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)
- - 👉 [Nobody expected that !](http://9gag.com/gag/avyMDYE)<!-- MEMES:END -->
+ - 😝 [Nobody expected that !](http://9gag.com/gag/avyMDYE)
+ - 😝 [Just do it!](http://9gag.com/gag/aLnZbVW)
+ - 💣 [A master at work](http://9gag.com/gag/aByAovA)
+ - 😝 [Go figure.](http://9gag.com/gag/agmDdK1)
+ - 👉 [Calling for a drizzle](http://9gag.com/gag/aVvp1Dd)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)
- - 😝 [Jaden Churchheus threw a log off a cliff and hit a woman&#39;s head which ended her life. Leaving behind her husband and 4 children. Then Jaden&#39;s mom said this during his arrest....](http://9gag.com/gag/azxWD5p)
- - 💣 [Easiest way to make your price go up when walking with your girlfriend](http://9gag.com/gag/aMVoW0X)
+ - 😝 [Peace be upon](http://9gag.com/gag/aND72YG)
  - 😝 [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
- - 👉 [No one will ever know](http://9gag.com/gag/a5QOyro)<!-- MEMES:END -->
+ - 💣 [How many beers?](http://9gag.com/gag/a2v3jN9)
+ - 😝 [No one will ever know](http://9gag.com/gag/a5QOyro)
+ - 👉 [Jaden Churchheus threw a log off a cliff and hit a woman&#39;s head which ended her life. Leaving behind her husband and 4 children. Then Jaden&#39;s mom said this during his arrest....](http://9gag.com/gag/azxWD5p)<!-- MEMES:END -->
 
 ---
 

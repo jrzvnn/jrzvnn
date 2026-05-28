@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The $6 Billion Chinese Startup Trying to Build Hands for Every Robot](https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/)
- - [Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook](https://www.wired.com/story/meta-copies-snapchats-homework-again/)
- - [Motorola’s last-gen Razr Ultra is almost half off](https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale)
- - [OLED, KVM &amp; lower prices make MSI&#39;s new Mac-friendly monitor lineup hard to ignore](https://appleinsider.com/articles/26/05/28/oled-kvm-lower-prices-make-msis-new-mac-friendly-monitor-lineup-hard-to-ignore?utm_source=rss)
- - [Anthropic raised a $65B Series H at a $965B post-money valuation led by Altimeter, Dragoneer, Greenoaks, and Sequoia, and says its revenue run rate crossed $47B &lpar;New York Times&rpar;](https://www.techmeme.com/260528/p51#a260528p51)<!-- TECH:END -->
+ - [Sources: Airwallex raised new funding led by Lee Fixel&#39;s Addition at a ~$12B valuation, up from $8B late last year, and hit $1.5B in ARR, up from $1B in October &lpar;Axios&rpar;](https://www.techmeme.com/260528/p59#a260528p59)
+ - [Apple&#39;s AI research will be in a computer vision conference before WWDC](https://appleinsider.com/articles/26/05/28/apples-ai-research-will-be-in-a-computer-vision-conference-before-wwdc?utm_source=rss)
+ - [Doc: the EU is preparing emergency powers to intervene in Europe&#39;s chip supply chains during shortages, including by forcing chipmakers to override contracts &lpar;Barbara Moens/Financial Times&rpar;](https://www.techmeme.com/260528/p58#a260528p58)
+ - [Dell reports Q1 revenue up 88% YoY to $43.84B, vs. $35.43B est., and forecasts FY 2027 revenue above estimates; DELL jumps 15%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260528/p57#a260528p57)
+ - [Anthropic Says a Mythos-Class AI Model Will Be Available Soon](https://www.cnet.com/tech/services-and-software/anthropic-claude-opus-4-8-release-mythos-class-ai-model-soon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Are French Open Players Dealing With the Paris Heat Wave?](https://www.wired.com/story/why-its-almost-too-hot-to-play-tennis-at-the-french-open-2026/)
- - [Ballots Have Been Seized Across the US. No One Knows What Will Happen Next](https://www.wired.com/story/ballots-have-been-seized-across-the-us-no-one-knows-what-will-happen-next/)
- - [YouTube will let you ask AI to make a custom video feed](https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability)
- - [As the US AI boom drains venture capital from Africa, startups on the continent are pivoting to domestic funding sources, like pension funds and local VC firms &lpar;Rivaldo Jantjies/Bloomberg&rpar;](https://www.techmeme.com/260528/p13#a260528p13)
- - [Swedish chip optical component maker Sivers, whose stock is up ~1,700% YTD, giving it a ~$2.5B market cap, has become one of the country&#39;s most-shorted stocks &lpar;Jonas Ekblom/Bloomberg&rpar;](https://www.techmeme.com/260528/p12#a260528p12)<!-- TECH:END -->
+ - [Filing: CNN sues Perplexity in New York for allegedly unlawfully copying and distributing CNN content, after failing to agree on terms with Perplexity in 2025 &lpar;Brian Stelter/CNN&rpar;](https://www.techmeme.com/260528/p34#a260528p34)
+ - [YouTube adds a &quot;custom feed&quot; to its home page, letting users enter a prompt to create a constantly refreshed feed, available to signed-in users in the US &lpar;Andrew Romero/9to5Google&rpar;](https://www.techmeme.com/260528/p33#a260528p33)
+ - [Illustrations based on sources detail Apple&#39;s Siri overhaul, including a new UI, a chatbot-style app, and other major iOS 27 changes, ahead of WWDC on June 8 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260528/p32#a260528p32)
+ - [Oura unveils the Oura Ring 5, with a 40% smaller form factor, improved sensing, and repositioned LEDs, on sale from June 4 for $399, up from the Ring 4&#39;s $349 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p31#a260528p31)
+ - [Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach](https://www.wired.com/story/oura-ring-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

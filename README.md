@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Amazon will acquire Apple&#39;s 20% stake in Globalstar as part of its acquisition of the satellite provider and create a subsidiary to conduct the merger &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260527/p52#a260527p52)
- - [SoFi says SoFiUSD, its US dollar-pegged stablecoin on Ethereum and Solana, is now available for members to buy, sell, hold, and convert within the SoFi app &lpar;Brian Danga/The Block&rpar;](https://www.techmeme.com/260527/p51#a260527p51)
- - [Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill](https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/)
- - [JMGO N3 Ultimate projector review: Great setup, excellent picture, bad software](https://appleinsider.com/articles/26/05/28/jmgo-n3-ultimate-projector-review-great-setup-excellent-picture-bad-software?utm_source=rss)
- - [Mark Zuckerberg tells shareholders that a Meta cloud computing business is &quot;definitely on the table&quot; if it overspends on data centers and has excess capacity &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260527/p50#a260527p50)<!-- TECH:END -->
+ - [Analysis: the Philadelphia Semiconductor Index, which tracks 30 largest US-listed chipmakers, is up ~75% YTD and on track for its biggest annual gain since 1999 &lpar;Financial Times&rpar;](https://www.techmeme.com/260528/p7#a260528p7)
+ - [Global AI hardware demand is easing China&#39;s concerns over a stronger yuan hurting exports, as AI hardware exports surge and chip equipment imports rise &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p6#a260528p6)
+ - [Taiwanese tech companies have completed a record $14.5B of debt deals so far this year, as they race to secure financing to meet soaring demand for AI capacity &lpar;Aileen Chuang/Bloomberg&rpar;](https://www.techmeme.com/260528/p5#a260528p5)
+ - [Companies are using AI at their global capability centers in India to bring more creative work in-house, cutting turnaround times and reliance on ad agencies &lpar;Reuters&rpar;](https://www.techmeme.com/260528/p4#a260528p4)
+ - [Swiggy CEO Sriharsha Majety says his company plans to stay out of the spending war as Amazon and Flipkart ramp up their quick commerce efforts across India &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p3#a260528p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baguette](http://9gag.com/gag/aXPyd2b)
- - 😝 [Nobody expected that !](http://9gag.com/gag/avyMDYE)
- - 💣 [British humor is good different.](http://9gag.com/gag/a1myq1P)
+ - 😝 [British humor is good different.](http://9gag.com/gag/a1myq1P)
+ - 😝 [The sense of responsibility we all need](http://9gag.com/gag/avyMX0Z)
+ - 💣 [The Only Clock That Can Outshine Disco Lights](http://9gag.com/gag/aGym6jw)
  - 😝 [Uploaded](http://9gag.com/gag/aZZ6V49)
- - 👉 [The sense of responsibility we all need](http://9gag.com/gag/avyMX0Z)<!-- MEMES:END -->
+ - 👉 [The Household Cavalry making her day](http://9gag.com/gag/aYQ3d3v)<!-- MEMES:END -->
 
 ---
 

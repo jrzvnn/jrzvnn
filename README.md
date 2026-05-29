@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Gemini Spark beta rolling out to AI Ultra subs: planned a birthday party from emails and calendar, but called a live-in boyfriend a &quot;close friend&quot; &lpar;Reece Rogers/Wired&rpar;](https://www.techmeme.com/260529/p28#a260529p28)
- - [US Space Force says SpaceX won a $4.16B contract to build a space-based tracking network as part of President Trump&#39;s Golden Dome defensive shield &lpar;Sana Pashankar/Bloomberg&rpar;](https://www.techmeme.com/260529/p27#a260529p27)
- - [Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend](https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/)
- - [Abxylute M4 review: Smart design can&#39;t save a cramped controller](https://appleinsider.com/articles/26/05/29/abxylute-m4-review-smart-design-cant-save-a-cramped-controller?utm_source=rss)
- - [Acer’s launching a Linux handheld for streaming your PC games](https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld)<!-- TECH:END -->
+ - [SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract)
+ - [Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious](https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/)
+ - [The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/)
+ - [Microsoft faces backlash after a blog post implied criminal referral and legal action against security researcher Nightmare Eclipse over public bug disclosures &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](https://www.techmeme.com/260529/p30#a260529p30)
+ - [iPhone 18: What We Know About Apple&#39;s Upcoming Flagship Phones](https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-most-ambitious-lineup-yet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

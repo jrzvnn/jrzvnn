@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The sense of responsibility we all need](http://9gag.com/gag/avyMX0Z)
- - 😝 [Uploaded](http://9gag.com/gag/aZZ6V49)
- - 💣 [.....](http://9gag.com/gag/a87RQb1)
- - 😝 [Chilled grandpa](http://9gag.com/gag/ae9nyDm)
- - 👉 [They&#39;re 17 because only a 17-year-old would think going on that quest is a good idea.](http://9gag.com/gag/ayNbVOp)<!-- MEMES:END -->
+ - 😝 [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
+ - 😝 [The Household Cavalry making her day](http://9gag.com/gag/aYQ3d3v)
+ - 💣 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
+ - 😝 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
+ - 👉 [Remember to keep comments respectful and to follow our Community Guidelines](http://9gag.com/gag/ayNbVor)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Ferrari bungled the design of its first EV](https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple)
- - [What would you be willing to put in your body?](https://www.theverge.com/column/939462/enhanced-games-biohacking-fda-health-wellness)
- - [Sources: ByteDance has partnered with chipmaker InnoStar to develop an AI inference chip modeled after Groq&#39;s LPUs, which are built to run AI models at low cost &lpar;The Information&rpar;](https://www.techmeme.com/260529/p19#a260529p19)
- - [Blue Origin Rocket Explodes in Fiery Setback](https://www.wired.com/story/blue-origin-rocket-explodes-in-major-setback/)
- - [32 Best Father&#39;s Day Gifts in 2026: CNET&#39;s Top Picks to Celebrate Dad](https://www.cnet.com/tech/best-fathers-day-gifts/)<!-- TECH:END -->
+ - [The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)
+ - [Tech companies desperately want to film you doing chores](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data)
+ - [ElevenLabs launches Dubbing v2, which it says preserves the original speaker&#39;s emotion, tone, and pacing across 90+ languages while staying synced to content &lpar;ElevenLabs&rpar;](https://www.techmeme.com/260529/p24#a260529p24)
+ - [Detroit&#39;s controversial Apple Developer Academy has entered its 5th year](https://appleinsider.com/articles/26/05/29/detroits-controversial-apple-developer-academy-has-entered-its-5th-year?utm_source=rss)
+ - [The Verge’s 2026 high school graduation gift guide](https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

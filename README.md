@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Allegations that China is behind US data center protests draw criticism from allies of the AI industry, who say the industry and politicians are in denial &lpar;Evan Halper/Washington Post&rpar;](https://www.techmeme.com/260529/p15#a260529p15)
- - [This is MSI’s new Claw 8 EX AI Plus gaming handheld](https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026)
- - [Apple&#39;s software chief: Who is Craig Federighi?](https://appleinsider.com/articles/26/05/29/apples-software-chief-who-is-craig-federighi?utm_source=rss)
- - [This MacBook Privacy Screen Totally Changed How I Work in Public](https://www.wired.com/story/targus-privacy-screen-travel/)
- - [iPhone 18 Pro dummies show new colors, including Dark Cherry](https://appleinsider.com/articles/26/05/29/iphone-18-pro-dummies-show-new-colors-including-dark-cherry?utm_source=rss)<!-- TECH:END -->
+ - [How Ferrari bungled the design of its first EV](https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple)
+ - [What would you be willing to put in your body?](https://www.theverge.com/column/939462/enhanced-games-biohacking-fda-health-wellness)
+ - [Sources: ByteDance has partnered with chipmaker InnoStar to develop an AI inference chip modeled after Groq&#39;s LPUs, which are built to run AI models at low cost &lpar;The Information&rpar;](https://www.techmeme.com/260529/p19#a260529p19)
+ - [Blue Origin Rocket Explodes in Fiery Setback](https://www.wired.com/story/blue-origin-rocket-explodes-in-major-setback/)
+ - [32 Best Father&#39;s Day Gifts in 2026: CNET&#39;s Top Picks to Celebrate Dad](https://www.cnet.com/tech/best-fathers-day-gifts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

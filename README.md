@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
  - 😝 [No one will ever know](http://9gag.com/gag/a5QOyro)
- - 💣 [I did not see that coming](http://9gag.com/gag/agmDZdW)
- - 😝 [Goon smarter, not harder.](http://9gag.com/gag/a6Z03X8)
- - 👉 [Easiest way to make your price go up when walking with your girlfriend](http://9gag.com/gag/aMVoW0X)<!-- MEMES:END -->
+ - 😝 [I did not see that coming](http://9gag.com/gag/agmDZdW)
+ - 💣 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
+ - 😝 [Calm down or I&#39;ll pop you in the mouth again](http://9gag.com/gag/aVvp46v)
+ - 👉 [Neck hurt](http://9gag.com/gag/aD2KNB9)<!-- MEMES:END -->
 
 ---
 

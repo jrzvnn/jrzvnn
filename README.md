@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No one will ever know](http://9gag.com/gag/a5QOyro)
- - 😝 [I did not see that coming](http://9gag.com/gag/agmDZdW)
- - 💣 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
- - 😝 [Calm down or I&#39;ll pop you in the mouth again](http://9gag.com/gag/aVvp46v)
- - 👉 [Neck hurt](http://9gag.com/gag/aD2KNB9)<!-- MEMES:END -->
+ - 😝 [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
+ - 😝 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
+ - 💣 [Like a judgmental cat](http://9gag.com/gag/azxWDoK)
+ - 😝 [*Quack*](http://9gag.com/gag/aByAjpz)
+ - 👉 [Amazon&#39;s Blue Origin rocket explodes during a static test on the launchpad](http://9gag.com/gag/a346ep7)<!-- MEMES:END -->
 
 ---
 

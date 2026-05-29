@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)
- - [Tech companies desperately want to film you doing chores](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data)
- - [ElevenLabs launches Dubbing v2, which it says preserves the original speaker&#39;s emotion, tone, and pacing across 90+ languages while staying synced to content &lpar;ElevenLabs&rpar;](https://www.techmeme.com/260529/p24#a260529p24)
- - [Detroit&#39;s controversial Apple Developer Academy has entered its 5th year](https://appleinsider.com/articles/26/05/29/detroits-controversial-apple-developer-academy-has-entered-its-5th-year?utm_source=rss)
- - [The Verge’s 2026 high school graduation gift guide](https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas)<!-- TECH:END -->
+ - [Hands-on with Gemini Spark beta rolling out to AI Ultra subs: planned a birthday party from emails and calendar, but called a live-in boyfriend a &quot;close friend&quot; &lpar;Reece Rogers/Wired&rpar;](https://www.techmeme.com/260529/p28#a260529p28)
+ - [US Space Force says SpaceX won a $4.16B contract to build a space-based tracking network as part of President Trump&#39;s Golden Dome defensive shield &lpar;Sana Pashankar/Bloomberg&rpar;](https://www.techmeme.com/260529/p27#a260529p27)
+ - [Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend](https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/)
+ - [Abxylute M4 review: Smart design can&#39;t save a cramped controller](https://appleinsider.com/articles/26/05/29/abxylute-m4-review-smart-design-cant-save-a-cramped-controller?utm_source=rss)
+ - [Acer’s launching a Linux handheld for streaming your PC games](https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

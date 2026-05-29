@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Screw it](http://9gag.com/gag/aVvp9W8)
- - 😝 [The acting and tension really made it stand out](http://9gag.com/gag/aRBbNzQ)
- - 💣 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
- - 😝 [Someone parked in front of the factory gate and wouldn&#39;t move](http://9gag.com/gag/ae9nqrq)
+ - 😝 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
+ - 😝 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
+ - 💣 [Screw it](http://9gag.com/gag/aVvp9W8)
+ - 😝 [How not to sleep at night \u2026](http://9gag.com/gag/aryQD4p)
  - 👉 [Amazon&#39;s Blue Origin rocket explodes during a static test on the launchpad](http://9gag.com/gag/a346ep7)<!-- MEMES:END -->
 
 ---

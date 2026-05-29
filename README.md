@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peace be upon](http://9gag.com/gag/aND72YG)
- - 😝 [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
- - 💣 [How many beers?](http://9gag.com/gag/a2v3jN9)
- - 😝 [No one will ever know](http://9gag.com/gag/a5QOyro)
- - 👉 [Jaden Churchheus threw a log off a cliff and hit a woman&#39;s head which ended her life. Leaving behind her husband and 4 children. Then Jaden&#39;s mom said this during his arrest....](http://9gag.com/gag/azxWD5p)<!-- MEMES:END -->
+ - 😝 [The sense of responsibility we all need](http://9gag.com/gag/avyMX0Z)
+ - 😝 [Uploaded](http://9gag.com/gag/aZZ6V49)
+ - 💣 [.....](http://9gag.com/gag/a87RQb1)
+ - 😝 [Chilled grandpa](http://9gag.com/gag/ae9nyDm)
+ - 👉 [They&#39;re 17 because only a 17-year-old would think going on that quest is a good idea.](http://9gag.com/gag/ayNbVOp)<!-- MEMES:END -->
 
 ---
 

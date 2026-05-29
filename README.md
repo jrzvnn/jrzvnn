@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
- - 😝 [Screw it](http://9gag.com/gag/aVvp9W8)
- - 💣 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
  - 😝 [Neck hurt](http://9gag.com/gag/aD2KNB9)
- - 👉 [No one will ever know](http://9gag.com/gag/a5QOyro)<!-- MEMES:END -->
+ - 😝 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
+ - 💣 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
+ - 😝 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
+ - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
 
 ---
 

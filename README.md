@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
- - 😝 [The Household Cavalry making her day](http://9gag.com/gag/aYQ3d3v)
- - 💣 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
  - 😝 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
- - 👉 [Remember to keep comments respectful and to follow our Community Guidelines](http://9gag.com/gag/ayNbVor)<!-- MEMES:END -->
+ - 😝 [No one will ever know](http://9gag.com/gag/a5QOyro)
+ - 💣 [I did not see that coming](http://9gag.com/gag/agmDZdW)
+ - 😝 [Goon smarter, not harder.](http://9gag.com/gag/a6Z03X8)
+ - 👉 [Easiest way to make your price go up when walking with your girlfriend](http://9gag.com/gag/aMVoW0X)<!-- MEMES:END -->
 
 ---
 

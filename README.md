@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor](https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays)
- - [Blue Origin&#39;s New Glenn rocket, which exploded during testing on Thursday, was set to ferry 48 Amazon Leo satellites on Monday; Amazon paid Blue Origin $2.7B &lpar;Financial Times&rpar;](https://www.techmeme.com/260529/p9#a260529p9)
- - [A look at Anthropic&#39;s hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense &lpar;Jo Constantz/Bloomberg&rpar;](https://www.techmeme.com/260529/p8#a260529p8)
- - [EY-Parthenon: VC funding for Singapore startups fell 34% YoY to $4.6B in 2025, with AI startups accounting for 42.8% of the 472 deals, raising $1.4B, up 28% YoY &lpar;Katrina Bianca Cuaresma/DealStreetAsia&rpar;](https://www.techmeme.com/260529/p7#a260529p7)
- - [A look at strains in the UK&#39;s fintech sector, as former industry darlings are forced to overhaul their operations or merge under pressure to reach profitability &lpar;Financial Times&rpar;](https://www.techmeme.com/260529/p6#a260529p6)<!-- TECH:END -->
+ - [Allegations that China is behind US data center protests draw criticism from allies of the AI industry, who say the industry and politicians are in denial &lpar;Evan Halper/Washington Post&rpar;](https://www.techmeme.com/260529/p15#a260529p15)
+ - [This is MSI’s new Claw 8 EX AI Plus gaming handheld](https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026)
+ - [Apple&#39;s software chief: Who is Craig Federighi?](https://appleinsider.com/articles/26/05/29/apples-software-chief-who-is-craig-federighi?utm_source=rss)
+ - [This MacBook Privacy Screen Totally Changed How I Work in Public](https://www.wired.com/story/targus-privacy-screen-travel/)
+ - [iPhone 18 Pro dummies show new colors, including Dark Cherry](https://appleinsider.com/articles/26/05/29/iphone-18-pro-dummies-show-new-colors-including-dark-cherry?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

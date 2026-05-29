@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US &lpar;Jaimie Ding/Associated Press&rpar;](https://www.techmeme.com/260528/p62#a260528p62)
- - [Okta reports Q1 revenue up 11% YoY to $765M, vs. $752M est., says the agentic AI build-out is spiking demand for its identity tools; OKTA jumps 7%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260528/p61#a260528p61)
- - [Sources: Amazon has shut down an internal leaderboard that tracked employees&#39; use of AI tools after workers tried to boost their scores with needless tasks &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260528/p60#a260528p60)
- - [Apple&#39;s iOS 27 Could Be Siri&#39;s Biggest AI Reinvention Yet](https://www.cnet.com/tech/mobile/apple-siri-bloomberg-reveal-ios-27/)
- - [Sources: Airwallex raised new funding led by Lee Fixel&#39;s Addition at a ~$12B valuation, up from $8B late last year, and hit $1.5B in ARR, up from $1B in October &lpar;Axios&rpar;](https://www.techmeme.com/260528/p59#a260528p59)<!-- TECH:END -->
+ - [The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook](https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/)
+ - [Triomics, which is building an AI-powered platform to help oncologists automate data-heavy tasks, raised a $22M Series B, following a $15M Series A in 2024 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260528/p64#a260528p64)
+ - [Apple&#39;s latest conflict mineral report contradicts previous complaints over their use](https://appleinsider.com/articles/26/05/28/apples-latest-conflict-mineral-report-contradicts-previous-complaints-over-their-use?utm_source=rss)
+ - [Sources: Apollo Global and Blackstone are working to bring additional investors into a ~$36B debt financing deal to purchase Google TPUs for Anthropic to lease &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p63#a260528p63)
+ - [California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US &lpar;Jaimie Ding/Associated Press&rpar;](https://www.techmeme.com/260528/p62#a260528p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

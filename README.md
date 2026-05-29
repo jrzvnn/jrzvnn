@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft overhauled Copilot&#39;s design in Microsoft 365 with a minimalist black-and-white, text-focused interface aimed at creating a more consistent experience &lpar;Ian Carlos Campbell/Engadget&rpar;](https://www.techmeme.com/260528/p71#a260528p71)
- - [Pittsburgh-based Gray Swan, which stress-tests AI models for top frontier AI labs, raised a $40M Series A at a $200M valuation co-led by Wing VC and Madrona &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260528/p70#a260528p70)
- - [Asana acquires StackAI, a no-code platform for building AI agents, for $75M as part of Asana&#39;s broader AI pivot; PitchBook: StackAI raised ~$20M &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260528/p69#a260528p69)
- - [How to turn Jellyfin on an old Mac into a private streaming service](https://appleinsider.com/inside/macos/tips/how-to-turn-jellyfin-on-an-old-mac-into-a-private-streaming-service?utm_source=rss)
- - [France&#39;s market regulator warns crypto companies they could face blacklisting and lawsuits if they don&#39;t have MiCA licenses by the EU&#39;s June 30 deadline &lpar;Elizabeth Howcroft/Reuters&rpar;](https://www.techmeme.com/260528/p68#a260528p68)<!-- TECH:END -->
+ - [Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor](https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays)
+ - [Blue Origin&#39;s New Glenn rocket, which exploded during testing on Thursday, was set to ferry 48 Amazon Leo satellites on Monday; Amazon paid Blue Origin $2.7B &lpar;Financial Times&rpar;](https://www.techmeme.com/260529/p9#a260529p9)
+ - [A look at Anthropic&#39;s hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense &lpar;Jo Constantz/Bloomberg&rpar;](https://www.techmeme.com/260529/p8#a260529p8)
+ - [EY-Parthenon: VC funding for Singapore startups fell 34% YoY to $4.6B in 2025, with AI startups accounting for 42.8% of the 472 deals, raising $1.4B, up 28% YoY &lpar;Katrina Bianca Cuaresma/DealStreetAsia&rpar;](https://www.techmeme.com/260529/p7#a260529p7)
+ - [A look at strains in the UK&#39;s fintech sector, as former industry darlings are forced to overhaul their operations or merge under pressure to reach profitability &lpar;Financial Times&rpar;](https://www.techmeme.com/260529/p6#a260529p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

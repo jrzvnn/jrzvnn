@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook](https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/)
- - [Triomics, which is building an AI-powered platform to help oncologists automate data-heavy tasks, raised a $22M Series B, following a $15M Series A in 2024 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260528/p64#a260528p64)
- - [Apple&#39;s latest conflict mineral report contradicts previous complaints over their use](https://appleinsider.com/articles/26/05/28/apples-latest-conflict-mineral-report-contradicts-previous-complaints-over-their-use?utm_source=rss)
- - [Sources: Apollo Global and Blackstone are working to bring additional investors into a ~$36B debt financing deal to purchase Google TPUs for Anthropic to lease &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p63#a260528p63)
- - [California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US &lpar;Jaimie Ding/Associated Press&rpar;](https://www.techmeme.com/260528/p62#a260528p62)<!-- TECH:END -->
+ - [Microsoft overhauled Copilot&#39;s design in Microsoft 365 with a minimalist black-and-white, text-focused interface aimed at creating a more consistent experience &lpar;Ian Carlos Campbell/Engadget&rpar;](https://www.techmeme.com/260528/p71#a260528p71)
+ - [Pittsburgh-based Gray Swan, which stress-tests AI models for top frontier AI labs, raised a $40M Series A at a $200M valuation co-led by Wing VC and Madrona &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260528/p70#a260528p70)
+ - [Asana acquires StackAI, a no-code platform for building AI agents, for $75M as part of Asana&#39;s broader AI pivot; PitchBook: StackAI raised ~$20M &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260528/p69#a260528p69)
+ - [How to turn Jellyfin on an old Mac into a private streaming service](https://appleinsider.com/inside/macos/tips/how-to-turn-jellyfin-on-an-old-mac-into-a-private-streaming-service?utm_source=rss)
+ - [France&#39;s market regulator warns crypto companies they could face blacklisting and lawsuits if they don&#39;t have MiCA licenses by the EU&#39;s June 30 deadline &lpar;Elizabeth Howcroft/Reuters&rpar;](https://www.techmeme.com/260528/p68#a260528p68)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

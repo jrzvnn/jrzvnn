@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Antenna: bundles make up 33% of new major streaming service subscriptions in the US, and 28% of all subscriptions, up from just 10% of new subscriptions in 2024 &lpar;John Koblin/New York Times&rpar;](https://www.techmeme.com/260530/p13#a260530p13)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 31, #1807](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-31-1807/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 31, #1085](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-31-1085/)
  - [Mystery Beats headphones appear around Lamine Yamal&#39;s neck](https://appleinsider.com/articles/26/05/30/mystery-beats-headphones-appear-around-lamine-yamals-neck?utm_source=rss)
- - [SoftBank pledges to invest up to €75B in AI computing clusters in France, first leading a €45B investment to build 3.1GW of capacity by 2031 in Hauts-de-France &lpar;Financial Times&rpar;](https://www.techmeme.com/260530/p12#a260530p12)
- - [China&#39;s tech boom is creating a new kind of tech tourism where visitors pay for curated robotaxi rides and tours of EV factories and AI and robotics companies &lpar;Kinling Lo/Rest of World&rpar;](https://www.techmeme.com/260530/p11#a260530p11)
- - [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening)<!-- TECH:END -->
+ - [SoftBank pledges to invest up to €75B in AI computing clusters in France, first leading a €45B investment to build 3.1GW of capacity by 2031 in Hauts-de-France &lpar;Financial Times&rpar;](https://www.techmeme.com/260530/p12#a260530p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

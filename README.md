@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Screw it](http://9gag.com/gag/aVvp9W8)
- - 😝 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
- - 💣 [How not to sleep at night \u2026](http://9gag.com/gag/aryQD4p)
- - 😝 [When you accidentally wander into the end-game area and assess your character to be woefully unprepared](http://9gag.com/gag/aGymrA0)
- - 👉 [Amazon&#39;s Blue Origin rocket explodes during a static test on the launchpad](http://9gag.com/gag/a346ep7)<!-- MEMES:END -->
+ - 😝 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
+ - 😝 [Bet you didn&#39;t know this](http://9gag.com/gag/aD2Kqxd)
+ - 💣 [Bruh this would be amazing on acid...](http://9gag.com/gag/aByAb7x)
+ - 😝 [Why do Japanese restroom signs come in those colors?](http://9gag.com/gag/aYQ3vX7)
+ - 👉 [Surviving a home invasion 101.](http://9gag.com/gag/aoyvG2g)<!-- MEMES:END -->
 
 ---
 

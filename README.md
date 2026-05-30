@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
- - 😝 [Screw it](http://9gag.com/gag/aVvp9W8)
- - 💣 [How not to sleep at night \u2026](http://9gag.com/gag/aryQD4p)
+ - 😝 [A human eye with a 1000x zoom](http://9gag.com/gag/aryQDZX)
+ - 😝 [How not to sleep at night \u2026](http://9gag.com/gag/aryQD4p)
+ - 💣 [Screw it](http://9gag.com/gag/aVvp9W8)
  - 😝 [This hacker in Battlefield 6 got caught slipping when both teams united to lock him in eternal death loops](http://9gag.com/gag/ajPzjWq)
  - 👉 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)<!-- MEMES:END -->
 

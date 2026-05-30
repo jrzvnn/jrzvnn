@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How one founder’s bet on ‘the old school web’ is paying off](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai)
- - [AI grifters are creating fake Black people to sell Shein junk](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)
- - [How Schneider Electric is using AI in call centers and manufacturing to complement employees&#39; work and boost productivity, rather than to replace them &lpar;Patricia Cohen/New York Times&rpar;](https://www.techmeme.com/260530/p8#a260530p8)
- - [Android Apple Music beta hints at alternate tiers, skip limits](https://appleinsider.com/articles/26/05/30/android-apple-music-beta-hints-at-alternate-tiers-skip-limits?utm_source=rss)
- - [Sometimes, a short game hits the spot](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc)<!-- TECH:END -->
+ - [Anthropic cuts its list of unauthorized secondary market sellers from eight to four after the initial notice caused panic and pushback from investors &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260530/p9#a260530p9)
+ - [Some of our favorite art TVs are more than 40 percent off this weekend](https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal)
+ - [Listen to the new Steam Controller buzz to the tune of Doom](https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom)
+ - [Pebblebee’s Halo watches my back and my belongings](https://www.theverge.com/gadgets/938254/pebblebee-halo-bluetooth-tracker-personal-safety-hands-on-review)
+ - [The Arduboy FX-C is an excellent time killer you might forget you’re carrying](https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

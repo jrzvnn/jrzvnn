@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: VC investment in global robotics and physical AI jumped to $26B in 2025 from $4.2B in 2019, and has already topped $23B as of May 20 this year &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260530/p14#a260530p14)
+ - [&#39;The Legend of Vox Machina,&#39; &#39;Every Year After&#39; and More New Prime Video Releases We&#39;re Watching in June](https://www.cnet.com/culture/entertainment/the-legend-of-vox-machina-new-prime-video-watching-june-2026/)
  - [Antenna: bundles make up 33% of new major streaming service subscriptions in the US, and 28% of all subscriptions, up from just 10% of new subscriptions in 2024 &lpar;John Koblin/New York Times&rpar;](https://www.techmeme.com/260530/p13#a260530p13)
  - [Today&#39;s Wordle Hints, Answer and Help for May 31, #1807](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-31-1807/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 31, #1085](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-31-1085/)
- - [Mystery Beats headphones appear around Lamine Yamal&#39;s neck](https://appleinsider.com/articles/26/05/30/mystery-beats-headphones-appear-around-lamine-yamals-neck?utm_source=rss)
- - [SoftBank pledges to invest up to €75B in AI computing clusters in France, first leading a €45B investment to build 3.1GW of capacity by 2031 in Hauts-de-France &lpar;Financial Times&rpar;](https://www.techmeme.com/260530/p12#a260530p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 31, #1085](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-31-1085/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

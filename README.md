@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kindness can be misunderstood sometimes](http://9gag.com/gag/aGymqgK)
- - 😝 [Why do Japanese restroom signs come in those colors?](http://9gag.com/gag/aYQ3vX7)
- - 💣 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
+ - 😝 [The Exception..](http://9gag.com/gag/adBGW2j)
+ - 😝 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
+ - 💣 [This hacker in Battlefield 6 got caught slipping when both teams united to lock him in eternal death loops](http://9gag.com/gag/ajPzjWq)
  - 😝 [Screw it](http://9gag.com/gag/aVvp9W8)
- - 👉 [Surviving a home invasion 101.](http://9gag.com/gag/aoyvG2g)<!-- MEMES:END -->
+ - 👉 [Well, he won&#39;t do it again.](http://9gag.com/gag/a346z9e)<!-- MEMES:END -->
 
 ---
 

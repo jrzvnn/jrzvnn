@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves)
+ - [Microsoft is threatening legal action for disclosing exploits](https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability)
  - [Anthropic cuts its list of unauthorized secondary market sellers from eight to four after the initial notice caused panic and pushback from investors &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260530/p9#a260530p9)
  - [Some of our favorite art TVs are more than 40 percent off this weekend](https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal)
- - [Listen to the new Steam Controller buzz to the tune of Doom](https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom)
- - [Pebblebee’s Halo watches my back and my belongings](https://www.theverge.com/gadgets/938254/pebblebee-halo-bluetooth-tracker-personal-safety-hands-on-review)
- - [The Arduboy FX-C is an excellent time killer you might forget you’re carrying](https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on)<!-- TECH:END -->
+ - [Listen to the new Steam Controller buzz to the tune of Doom](https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

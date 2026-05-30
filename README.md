@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miami-based Canals, which uses AI to help distributors automate workflows across sales, customer service, and more, raised a $35M Series A led by Base10 &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260529/p37#a260529p37)
- - [How massive bonuses for Samsung&#39;s employees in the memory division have sparked debate over how companies and governments should share profits from the AI boom &lpar;Bloomberg&rpar;](https://www.techmeme.com/260529/p36#a260529p36)
- - [Best AT&amp;T Plans: How to Choose and Which Ones to Pick in 2026](https://www.cnet.com/tech/mobile/best-att-plans/)
- - [Filing: a Kentucky school district secured ~$27M in settlements from Meta, Snap, TikTok, and YouTube in a social media harms lawsuit; Meta paid the most, at $9M &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260529/p35#a260529p35)
- - [Today&#39;s Wordle Hints, Answer and Help for May 30, #1806](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-30-1806/)<!-- TECH:END -->
+ - [A profile of OpenAI President Greg Brockman, who is overseeing product in his new role and has become an important ambassador for AI to the Trump administration &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260530/p5#a260530p5)
+ - [BlackBerry&#39;s stock is up more than 160% over the past three months, as the company&#39;s QNX division positions its automotive software as an OS for robots &lpar;Luke Kawa/Sherwood News&rpar;](https://www.techmeme.com/260530/p4#a260530p4)
+ - [Filing shows Shanghai-based MiniMax has begun preparations for a Chinese IPO; the AI company listed in Hong Kong in January and says its ARR has reached $300M &lpar;Bloomberg&rpar;](https://www.techmeme.com/260530/p3#a260530p3)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-30/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 30, #614](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-30-614/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

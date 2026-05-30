@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
- - 😝 [Screw it](http://9gag.com/gag/aVvp9W8)
+ - 😝 [Kindness can be misunderstood sometimes](http://9gag.com/gag/aGymqgK)
  - 💣 [How not to sleep at night \u2026](http://9gag.com/gag/aryQD4p)
- - 😝 [Horses definitely choose there people](http://9gag.com/gag/abANo69)
- - 👉 [Kindness can be misunderstood sometimes](http://9gag.com/gag/aGymqgK)<!-- MEMES:END -->
+ - 😝 [This hacker in Battlefield 6 got caught slipping when both teams united to lock him in eternal death loops](http://9gag.com/gag/ajPzjWq)
+ - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
 
 ---
 

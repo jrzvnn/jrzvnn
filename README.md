@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: Meta plans to start testing an AI pendant in 2027, release new AI glasses next month, start a &quot;Wearables for Work&quot; unit for enterprises, and more &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260529/p34#a260529p34)
+ - [Picogrid, which is building a hardware and software integration layer for military systems, raised a $45M Series A led by Bessemer &lpar;Barratt Dewey/Tectonic Defense&rpar;](https://www.techmeme.com/260529/p33#a260529p33)
  - [Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser)
  - [Coinbase and Kalshi introduce perpetual crypto futures, marking the first time the contracts will be available to US investors via domestic, regulated exchanges &lpar;Pritam Biswas/Reuters&rpar;](https://www.techmeme.com/260529/p32#a260529p32)
- - [SentinelOne&#39;s stock closes down 8% after the company announced plans to lay off 8% of its workforce and forecasted Q2 and FY revenue guidance below estimates &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260529/p31#a260529p31)
- - [24 Best Father’s Day Gifts for Dads &lpar;2026&rpar;](https://www.wired.com/story/the-best-gifts-for-dads-2026/)
- - [Don&#39;t Know Where to Put Your Bird Feeder? This Is What a Wildlife Expert Recommends](https://www.cnet.com/news/dont-know-where-put-your-bird-feeder-what-wildlife-expert-recommends/)<!-- TECH:END -->
+ - [SentinelOne&#39;s stock closes down 8% after the company announced plans to lay off 8% of its workforce and forecasted Q2 and FY revenue guidance below estimates &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260529/p31#a260529p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

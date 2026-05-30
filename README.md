@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail AI companies&#39; engagement with US FERC as the energy regulator readies a June proposal to speed up data center connections to regional power grids &lpar;Politico&rpar;](https://www.techmeme.com/260530/p7#a260530p7)
- - [Tello Mobile Plan Review &lpar;2026&rpar;: Low Cost, Reliable Service](https://www.wired.com/review/tello-mobile-custom-plans/)
- - [Cybercrime Crew Claims It Hacked Mike Lindell’s MyPillow](https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/)
- - [Quilts Are Better Than Sleeping Bags](https://www.wired.com/story/quilts-are-better-than-sleeping-bags/)
- - [Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century](https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/)<!-- TECH:END -->
+ - [Sometimes, a short game hits the spot](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc)
+ - [The SpaceX IPO is great for Elon Musk and terrible for you](https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai)
+ - [This is the James Bond game we’ve been waiting for](https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer)
+ - [Disney Plus: 30 Best TV Shows You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/disney-plus-best-tv-shows-2026/)
+ - [Keychron K2 HE Concrete Edition Review: Rock-Solid Typing](https://www.wired.com/review/keychron-k2-he-concrete-edition/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

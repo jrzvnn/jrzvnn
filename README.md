@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
- - 😝 [That&#39;s what friends do](http://9gag.com/gag/azxWvEp)
+ - 😝 [Kindness can be misunderstood sometimes](http://9gag.com/gag/aGymqgK)
  - 💣 [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)
  - 😝 [It isn&#39;t this bad](http://9gag.com/gag/agmDbAw)
- - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
+ - 👉 [How not to sleep at night \u2026](http://9gag.com/gag/aryQD4p)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sometimes, a short game hits the spot](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc)
- - [The SpaceX IPO is great for Elon Musk and terrible for you](https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai)
- - [This is the James Bond game we’ve been waiting for](https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer)
- - [Disney Plus: 30 Best TV Shows You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/disney-plus-best-tv-shows-2026/)
- - [Keychron K2 HE Concrete Edition Review: Rock-Solid Typing](https://www.wired.com/review/keychron-k2-he-concrete-edition/)<!-- TECH:END -->
+ - [How one founder’s bet on ‘the old school web’ is paying off](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai)
+ - [AI grifters are creating fake Black people to sell Shein junk](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)
+ - [How Schneider Electric is using AI in call centers and manufacturing to complement employees&#39; work and boost productivity, rather than to replace them &lpar;Patricia Cohen/New York Times&rpar;](https://www.techmeme.com/260530/p8#a260530p8)
+ - [Android Apple Music beta hints at alternate tiers, skip limits](https://appleinsider.com/articles/26/05/30/android-apple-music-beta-hints-at-alternate-tiers-skip-limits?utm_source=rss)
+ - [Sometimes, a short game hits the spot](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

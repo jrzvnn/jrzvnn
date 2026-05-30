@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Meta plans to start testing an AI pendant in 2027, release new AI glasses next month, start a &quot;Wearables for Work&quot; unit for enterprises, and more &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260529/p34#a260529p34)
- - [Picogrid, which is building a hardware and software integration layer for military systems, raised a $45M Series A led by Bessemer &lpar;Barratt Dewey/Tectonic Defense&rpar;](https://www.techmeme.com/260529/p33#a260529p33)
- - [Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser)
- - [Coinbase and Kalshi introduce perpetual crypto futures, marking the first time the contracts will be available to US investors via domestic, regulated exchanges &lpar;Pritam Biswas/Reuters&rpar;](https://www.techmeme.com/260529/p32#a260529p32)
- - [SentinelOne&#39;s stock closes down 8% after the company announced plans to lay off 8% of its workforce and forecasted Q2 and FY revenue guidance below estimates &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260529/p31#a260529p31)<!-- TECH:END -->
+ - [Miami-based Canals, which uses AI to help distributors automate workflows across sales, customer service, and more, raised a $35M Series A led by Base10 &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260529/p37#a260529p37)
+ - [How massive bonuses for Samsung&#39;s employees in the memory division have sparked debate over how companies and governments should share profits from the AI boom &lpar;Bloomberg&rpar;](https://www.techmeme.com/260529/p36#a260529p36)
+ - [Best AT&amp;T Plans: How to Choose and Which Ones to Pick in 2026](https://www.cnet.com/tech/mobile/best-att-plans/)
+ - [Filing: a Kentucky school district secured ~$27M in settlements from Meta, Snap, TikTok, and YouTube in a social media harms lawsuit; Meta paid the most, at $9M &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260529/p35#a260529p35)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 30, #1806](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-30-1806/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

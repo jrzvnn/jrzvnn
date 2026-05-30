@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Antenna: bundles make up 33% of new major streaming service subscriptions in the US, and 28% of all subscriptions, up from just 10% of new subscriptions in 2024 &lpar;John Koblin/New York Times&rpar;](https://www.techmeme.com/260530/p13#a260530p13)
+ - [Mystery Beats headphones appear around Lamine Yamal&#39;s neck](https://appleinsider.com/articles/26/05/30/mystery-beats-headphones-appear-around-lamine-yamals-neck?utm_source=rss)
  - [SoftBank pledges to invest up to €75B in AI computing clusters in France, first leading a €45B investment to build 3.1GW of capacity by 2031 in Hauts-de-France &lpar;Financial Times&rpar;](https://www.techmeme.com/260530/p12#a260530p12)
  - [China&#39;s tech boom is creating a new kind of tech tourism where visitors pay for curated robotaxi rides and tours of EV factories and AI and robotics companies &lpar;Kinling Lo/Rest of World&rpar;](https://www.techmeme.com/260530/p11#a260530p11)
- - [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening)
- - [A look at the nasty fight between Anthropic-backed super PAC Public First and OpenAI-backed Leading the Future to sway midterms, especially Democratic primaries &lpar;Theodore Schleifer/New York Times&rpar;](https://www.techmeme.com/260530/p10#a260530p10)
- - [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves)<!-- TECH:END -->
+ - [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazon&#39;s Blue Origin rocket explodes during a static test on the launchpad](http://9gag.com/gag/a346ep7)
+ - 😝 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
  - 😝 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
- - 💣 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
- - 😝 [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)
+ - 💣 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
+ - 😝 [When you try to be cool but drop the ball... or water](http://9gag.com/gag/amoeOEX)
  - 👉 [The Exception..](http://9gag.com/gag/adBGW2j)<!-- MEMES:END -->
 
 ---

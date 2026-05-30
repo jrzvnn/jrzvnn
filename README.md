@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
- - 😝 [The Exception..](http://9gag.com/gag/adBGW2j)
- - 💣 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
- - 😝 [I would `run` my fingers on the sill and jump over every driveway, walkway, side street.](http://9gag.com/gag/aLnZ3A5)
- - 👉 [Kindness can be misunderstood sometimes](http://9gag.com/gag/aGymqgK)<!-- MEMES:END -->
+ - 😝 [Big Bra Time](http://9gag.com/gag/a9yx49K)
+ - 😝 [Why do Japanese restroom signs come in those colors?](http://9gag.com/gag/aYQ3vX7)
+ - 💣 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
+ - 😝 [He got tired](http://9gag.com/gag/ajPzjy1)
+ - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
 
 ---
 

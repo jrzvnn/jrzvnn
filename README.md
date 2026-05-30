@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
- - 😝 [Bet you didn&#39;t know this](http://9gag.com/gag/aD2Kqxd)
- - 💣 [Bruh this would be amazing on acid...](http://9gag.com/gag/aByAb7x)
- - 😝 [Why do Japanese restroom signs come in those colors?](http://9gag.com/gag/aYQ3vX7)
- - 👉 [Surviving a home invasion 101.](http://9gag.com/gag/aoyvG2g)<!-- MEMES:END -->
+ - 😝 [Pretty talent you scholar from London community](http://9gag.com/gag/aryQrPV)
+ - 💣 [Screw it](http://9gag.com/gag/aVvp9W8)
+ - 😝 [Bruh this would be amazing on acid...](http://9gag.com/gag/aByAb7x)
+ - 👉 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)<!-- MEMES:END -->
 
 ---
 

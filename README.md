@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Exception..](http://9gag.com/gag/adBGW2j)
  - 😝 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
+ - 😝 [That&#39;s what friends do](http://9gag.com/gag/azxWvEp)
  - 💣 [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)
- - 😝 [Next the whole world](http://9gag.com/gag/a2v3VdY)
- - 👉 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)<!-- MEMES:END -->
+ - 😝 [It isn&#39;t this bad](http://9gag.com/gag/agmDbAw)
+ - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of OpenAI President Greg Brockman, who is overseeing product in his new role and has become an important ambassador for AI to the Trump administration &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260530/p5#a260530p5)
- - [BlackBerry&#39;s stock is up more than 160% over the past three months, as the company&#39;s QNX division positions its automotive software as an OS for robots &lpar;Luke Kawa/Sherwood News&rpar;](https://www.techmeme.com/260530/p4#a260530p4)
- - [Filing shows Shanghai-based MiniMax has begun preparations for a Chinese IPO; the AI company listed in Hong Kong in January and says its ARR has reached $300M &lpar;Bloomberg&rpar;](https://www.techmeme.com/260530/p3#a260530p3)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-30/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 30, #614](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-30-614/)<!-- TECH:END -->
+ - [Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century](https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/)
+ - [Is the Ferrari Luce’s Design Really That Bad? 3 Italian Auto Experts Weigh In](https://www.wired.com/story/is-the-ferrari-luce-design-really-bad-we-ask-3-italian-auto-experts/)
+ - [Memory chip makers are leveraging their newfound power to secure long-term agreements, a move set to reshape the industry&#39;s business model and stabilize prices &lpar;Dan Gallagher/Wall Street Journal&rpar;](https://www.techmeme.com/260530/p6#a260530p6)
+ - [Nike World Cup Uniforms Made of Recycled Textiles Won’t Solve Fashion Waste](https://www.wired.com/story/nike-recycled-world-cup-uniforms/)
+ - [A profile of OpenAI President Greg Brockman, who is overseeing product in his new role and has become an important ambassador for AI to the Trump administration &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260530/p5#a260530p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

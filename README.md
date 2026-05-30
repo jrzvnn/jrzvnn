@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s tech boom is creating a new kind of tech tourism where visitors pay for curated robotaxi rides and tours of EV factories and AI and robotics companies &lpar;Kinling Lo/Rest of World&rpar;](https://www.techmeme.com/260530/p11#a260530p11)
  - [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening)
  - [A look at the nasty fight between Anthropic-backed super PAC Public First and OpenAI-backed Leading the Future to sway midterms, especially Democratic primaries &lpar;Theodore Schleifer/New York Times&rpar;](https://www.techmeme.com/260530/p10#a260530p10)
  - [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves)
- - [Microsoft is threatening legal action for disclosing exploits](https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability)
- - [Anthropic cuts its list of unauthorized secondary market sellers from eight to four after the initial notice caused panic and pushback from investors &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260530/p9#a260530p9)<!-- TECH:END -->
+ - [Microsoft is threatening legal action for disclosing exploits](https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

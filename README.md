@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century](https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/)
- - [Is the Ferrari Luce’s Design Really That Bad? 3 Italian Auto Experts Weigh In](https://www.wired.com/story/is-the-ferrari-luce-design-really-bad-we-ask-3-italian-auto-experts/)
- - [Memory chip makers are leveraging their newfound power to secure long-term agreements, a move set to reshape the industry&#39;s business model and stabilize prices &lpar;Dan Gallagher/Wall Street Journal&rpar;](https://www.techmeme.com/260530/p6#a260530p6)
- - [Nike World Cup Uniforms Made of Recycled Textiles Won’t Solve Fashion Waste](https://www.wired.com/story/nike-recycled-world-cup-uniforms/)
- - [A profile of OpenAI President Greg Brockman, who is overseeing product in his new role and has become an important ambassador for AI to the Trump administration &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260530/p5#a260530p5)<!-- TECH:END -->
+ - [Sources detail AI companies&#39; engagement with US FERC as the energy regulator readies a June proposal to speed up data center connections to regional power grids &lpar;Politico&rpar;](https://www.techmeme.com/260530/p7#a260530p7)
+ - [Tello Mobile Plan Review &lpar;2026&rpar;: Low Cost, Reliable Service](https://www.wired.com/review/tello-mobile-custom-plans/)
+ - [Cybercrime Crew Claims It Hacked Mike Lindell’s MyPillow](https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/)
+ - [Quilts Are Better Than Sleeping Bags](https://www.wired.com/story/quilts-are-better-than-sleeping-bags/)
+ - [Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century](https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

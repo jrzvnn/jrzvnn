@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
- - 😝 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
- - 💣 [He got tired](http://9gag.com/gag/ajPzjy1)
- - 😝 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
- - 👉 [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)<!-- MEMES:END -->
+ - 😝 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)
+ - 😝 [Screw it](http://9gag.com/gag/aVvp9W8)
+ - 💣 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
+ - 😝 [How not to sleep at night \u2026](http://9gag.com/gag/aryQD4p)
+ - 👉 [Absolute Cinema](http://9gag.com/gag/adBGAYN)<!-- MEMES:END -->
 
 ---
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
- - 😝 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)
- - 💣 [He got tired](http://9gag.com/gag/ajPzjy1)
+ - 😝 [Title is important](http://9gag.com/gag/aRBbWeA)
+ - 💣 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)
  - 😝 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
- - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
+ - 👉 [Will the snail stop chasing me now?](http://9gag.com/gag/aVvprMn)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big Bra Time](http://9gag.com/gag/a9yx49K)
- - 😝 [Why do Japanese restroom signs come in those colors?](http://9gag.com/gag/aYQ3vX7)
- - 💣 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
- - 😝 [He got tired](http://9gag.com/gag/ajPzjy1)
- - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
+ - 😝 [The Exception..](http://9gag.com/gag/adBGW2j)
+ - 😝 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
+ - 💣 [Kindness can be misunderstood sometimes](http://9gag.com/gag/aGymqgK)
+ - 😝 [Hear me out...](http://9gag.com/gag/a87RNLZ)
+ - 👉 [How not to sleep at night \u2026](http://9gag.com/gag/aryQD4p)<!-- MEMES:END -->
 
 ---
 

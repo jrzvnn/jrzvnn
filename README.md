@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only WD40 can kill this track.](http://9gag.com/gag/aryQ00p)
- - 😝 [Hear me out...](http://9gag.com/gag/a87RNLZ)
- - 💣 [A gentle reminder that tomorrow is Monday.....](http://9gag.com/gag/ajPzvgQ)
- - 😝 [How to deal with this..](http://9gag.com/gag/a9yxwXj)
- - 👉 [Mildly interesting](http://9gag.com/gag/agmD90W)<!-- MEMES:END -->
+ - 😝 [A human eye with a 1000x zoom](http://9gag.com/gag/aryQDZX)
+ - 😝 [He got tired](http://9gag.com/gag/ajPzjy1)
+ - 💣 [Title is important](http://9gag.com/gag/aRBbWeA)
+ - 😝 [Well, he won&#39;t do it again.](http://9gag.com/gag/a346z9e)
+ - 👉 [Burn](http://9gag.com/gag/a4PXgrw)<!-- MEMES:END -->
 
 ---
 

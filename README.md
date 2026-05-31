@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex](https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex)
+ - [Brazil vs. Panama Livestream: How to Watch International Friendly Soccer for Free](https://www.cnet.com/tech/services-and-software/brazil-vs-panama-livestream-how-to-watch-international-friendly-soccer-free/)
  - [Apple Vision Pro &amp; PlayStation 5 are the perfect combo with Remote Play apps](https://appleinsider.com/articles/26/05/27/apple-vision-pro-playstation-5-are-the-perfect-combo-with-portal-remote-play-app?utm_source=rss)
  - [AI adoption follows the J-curve path of general-purpose tech, like early US factory electrification, requiring years of investment before noticeable ROI gains &lpar;Exponential View&rpar;](https://www.techmeme.com/260531/p9#a260531p9)
- - [Samsung Messages Is Going Away for Good. Here&#39;s How to Save Everything First](https://www.cnet.com/tech/mobile/the-transition-from-samsung-messages-to-google-messages-is-simple-if-you-start-now-and-a-headache-if-you-wait-until-july/)
- - [Longtime leaker joins others in saying Apple Glasses won&#39;t arrive until late 2027](https://appleinsider.com/articles/26/05/31/longtime-leaker-joins-others-in-saying-apple-glasses-wont-arrive-until-late-2027?utm_source=rss)
- - [USA vs. Senegal Livestream: How to Watch the International Friendly Soccer Game for Free](https://www.cnet.com/tech/services-and-software/usa-vs-senegal-livestream-how-to-watch-the-international-friendly-soccer-game-free/)<!-- TECH:END -->
+ - [Samsung Messages Is Going Away for Good. Here&#39;s How to Save Everything First](https://www.cnet.com/tech/mobile/the-transition-from-samsung-messages-to-google-messages-is-simple-if-you-start-now-and-a-headache-if-you-wait-until-july/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex](https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex)
- - [Brazil vs. Panama Livestream: How to Watch International Friendly Soccer for Free](https://www.cnet.com/tech/services-and-software/brazil-vs-panama-livestream-how-to-watch-international-friendly-soccer-free/)
- - [Apple Vision Pro &amp; PlayStation 5 are the perfect combo with Remote Play apps](https://appleinsider.com/articles/26/05/27/apple-vision-pro-playstation-5-are-the-perfect-combo-with-portal-remote-play-app?utm_source=rss)
- - [AI adoption follows the J-curve path of general-purpose tech, like early US factory electrification, requiring years of investment before noticeable ROI gains &lpar;Exponential View&rpar;](https://www.techmeme.com/260531/p9#a260531p9)
- - [Samsung Messages Is Going Away for Good. Here&#39;s How to Save Everything First](https://www.cnet.com/tech/mobile/the-transition-from-samsung-messages-to-google-messages-is-simple-if-you-start-now-and-a-headache-if-you-wait-until-july/)<!-- TECH:END -->
+ - [How to exorcise your HomePod and HomePod mini of &#39;ghost touches&#39;](https://appleinsider.com/inside/homepod-mini/tips/how-to-exorcise-your-homepod-and-homepod-mini-of-ghost-touches?utm_source=rss)
+ - [How to watch Nvidia&amp;#8217;s Computex keynote](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote)
+ - [Experts say ChatGPT, Gemini, and other Western AI models are turbocharging Iran&#39;s cyber operations, helping it develop malware and launch phishing attacks &lpar;Jacob Judah/Financial Times&rpar;](https://www.techmeme.com/260531/p10#a260531p10)
+ - [Crime blotter: Man arrested for $31,000 iPhone theft](https://appleinsider.com/articles/26/05/31/crime-blotter-man-arrrested-for-31000-iphone-theft?utm_source=rss)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 1, #616](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-1-616/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

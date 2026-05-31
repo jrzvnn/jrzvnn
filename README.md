@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV, HomePod mini updates are waiting for Siri&#39;s upgrade](https://appleinsider.com/articles/26/05/31/apple-tv-homepod-mini-updates-are-waiting-for-siris-upgrade?utm_source=rss)
- - [Sources: Apple delays iPhone-connected smart glasses to late 2027, aiming to disrupt the mid-tier $200-$500 eyewear market the way it disrupted the watch market &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260531/p8#a260531p8)
- - [This extravagant gaming laptop could ruin other screens for you](https://www.theverge.com/tech/940221/asus-rog-strix-scar-18-elmb-gaming-laptop-motion-blur-handson-impressions)
- - [Like Apple Watch at start, Apple&#39;s smart glasses plan will challenge the entire industry](https://appleinsider.com/articles/26/05/31/like-apple-watch-at-start-apples-smart-glasses-plan-will-challenge-the-entire-industry?utm_source=rss)
- - [Slimmer &amp; lighter Apple Vision Pro is at least two years away](https://appleinsider.com/articles/26/05/31/slimmer-lighter-apple-vision-pro-is-at-least-two-years-away?utm_source=rss)<!-- TECH:END -->
+ - [Longtime leaker joins others in saying Apple Glasses won&#39;t arrive until late 2027](https://appleinsider.com/articles/26/05/31/longtime-leaker-joins-others-in-saying-apple-glasses-wont-arrive-until-late-2027?utm_source=rss)
+ - [Surprising nobody, Apple&#39;s already working on iOS 28, macOS 28](https://appleinsider.com/articles/26/05/31/surprising-nobody-apples-already-working-on-ios-28-macos-28?utm_source=rss)
+ - [Feeble Little Horse leans into digital weirdness on bitknot](https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review)
+ - [United flight forced to turn around because of a Bluetooth speaker name](https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb)
+ - [Apple TV, HomePod mini updates are waiting for Siri&#39;s upgrade](https://appleinsider.com/articles/26/05/31/apple-tv-homepod-mini-updates-are-waiting-for-siris-upgrade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

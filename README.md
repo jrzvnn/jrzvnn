@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s strategy for smart glasses is the same as smart watches](https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches)
- - [How to exorcise your HomePod and HomePod mini of &#39;ghost touches&#39;](https://appleinsider.com/inside/homepod-mini/tips/how-to-exorcise-your-homepod-and-homepod-mini-of-ghost-touches?utm_source=rss)
- - [How to watch Nvidia&amp;#8217;s Computex keynote](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote)
- - [Experts say ChatGPT, Gemini, and other Western AI models are turbocharging Iran&#39;s cyber operations, helping it develop malware and launch phishing attacks &lpar;Jacob Judah/Financial Times&rpar;](https://www.techmeme.com/260531/p10#a260531p10)
- - [Crime blotter: Man arrested for $31,000 iPhone theft](https://appleinsider.com/articles/26/05/31/crime-blotter-man-arrrested-for-31000-iphone-theft?utm_source=rss)<!-- TECH:END -->
+ - [Sunday Reboot: Dear Hair Force One, help us all out at WWDC](https://appleinsider.com/articles/26/05/31/sunday-reboot-dear-hair-force-one-help-us-all-out-at-wwdc?utm_source=rss)
+ - [NYC-based Garner Health, which uses data analytics to help 2.5M+ workers find physicians, raised a $100M Series E at a $2.74B valuation led by Index Ventures &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260531/p11#a260531p11)
+ - [Everyone Has Their Targets Set on the MacBook Neo](https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/)
+ - [The QD-OLED gaming monitor that started it all got a big upgrade](https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs)
+ - [Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599](https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

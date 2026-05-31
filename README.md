@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Expedia CEO Ariane Gorin, who became CEO in 2024 and has overseen back-to-back years of revenue growth, with record gross bookings of $119B in 2025 &lpar;Brent Crane/Bloomberg&rpar;](https://www.techmeme.com/260531/p6#a260531p6)
- - [How Turkey Hacked the Hair Transplant Industry](https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/)
- - [Bill Gates&#39; carefully crafted public image has been eroded by revelations about his ties to Epstein; Gates was recently snubbed from Microsoft&#39;s CEO Summit &lpar;Emily Glazer/Wall Street Journal&rpar;](https://www.techmeme.com/260531/p5#a260531p5)
- - [Sources: Microsoft and Nvidia will unveil the first Windows PCs powered by Nvidia SoCs, including devices from Surface and Dell, at Computex and Build 2026 &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260531/p4#a260531p4)
- - [A US court ordered Circle to blacklist Zama&#39;s cUSDC contract, freezing ~$12.6M in funds, likely catching many in the &quot;crossfire&quot; of a civil suit against a DAO &lpar;Zack Abrams/The Block&rpar;](https://www.techmeme.com/260531/p3#a260531p3)<!-- TECH:END -->
+ - [M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens](https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/)
+ - [The Mercedes CLA offers great EV specs for an average price](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs)
+ - [Wi-Fi Router vs. Mesh System: Which Is Best for You?](https://www.wired.com/story/mesh-system-vs-wi-fi-router/)
+ - [6 Best Prepaid Phone Plans &lpar;2026&rpar;: Tello, Boost, Google Fi, More](https://www.wired.com/gallery/best-prepaid-phone-plans/)
+ - [Apple&#39;s Giving You Extra Bragging Rights for Your Run on Global Running Day](https://www.cnet.com/tech/mobile/apple-watch-limited-edition-badge-global-running-day/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

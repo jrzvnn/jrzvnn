@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As robotaxi companies attempt to scale in the US, they face increasing scrutiny and mounting criticism from drivers, law enforcement, and local governments &lpar;Sean McLain/Wall Street Journal&rpar;](https://www.techmeme.com/260530/p16#a260530p16)
- - [Why &quot;Dark Output&quot;, the AI-generated economic value that is currently invisible to national statistics, may be one of the hardest measurement problems in history &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260530/p15#a260530p15)
- - [Lionsgate Joins Movies Anywhere, Leaving Paramount and MGM as Last Major Hold Outs](https://www.cnet.com/tech/services-and-software/lionsgate-joins-movies-anywhere/)
- - [PitchBook: VC investment in global robotics and physical AI jumped to $26B in 2025 from $4.2B in 2019, and has already topped $23B as of May 20 this year &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260530/p14#a260530p14)
- - [&#39;The Legend of Vox Machina,&#39; &#39;Every Year After&#39; and More New Prime Video Releases We&#39;re Watching in June](https://www.cnet.com/culture/entertainment/the-legend-of-vox-machina-new-prime-video-watching-june-2026/)<!-- TECH:END -->
+ - [Bill Gates&#39; carefully crafted public image has been eroded by revelations about his ties to Epstein; Gates was recently snubbed from Microsoft&#39;s CEO Summit &lpar;Emily Glazer/Wall Street Journal&rpar;](https://www.techmeme.com/260531/p5#a260531p5)
+ - [Sources: Microsoft and Nvidia will unveil the first Windows PCs powered by Nvidia SoCs, including devices from Surface and Dell, at Computex and Build 2026 &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260531/p4#a260531p4)
+ - [A US court ordered Circle to blacklist Zama&#39;s cUSDC contract, freezing ~$12.6M in funds, likely catching many in the &quot;crossfire&quot; of a civil suit against a DAO &lpar;Zack Abrams/The Block&rpar;](https://www.techmeme.com/260531/p3#a260531p3)
+ - [China will implement new online food delivery regulations on June 1, requiring platforms to regularly verify businesses&#39; identities, locations, and licenses &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260531/p2#a260531p2)
+ - [With Microsoft&#39;s GitHub Copilot shifting to token-usage billing on June 1, many developers bemoan massive cost increases and the end of flat-rate subscriptions &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260531/p1#a260531p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

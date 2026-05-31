@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the dog doin](http://9gag.com/gag/adBGA1Z)
+ - 😝 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
+ - 😝 [He got tired](http://9gag.com/gag/ajPzjy1)
+ - 💣 [What lobster?](http://9gag.com/gag/aqyPM6M)
  - 😝 [He chose poorly](http://9gag.com/gag/a87R943)
- - 💣 [The Exception..](http://9gag.com/gag/adBGW2j)
- - 😝 [Title is important](http://9gag.com/gag/aRBbWeA)
- - 👉 [Good Boi in action](http://9gag.com/gag/a6Z0gzN)<!-- MEMES:END -->
+ - 👉 [Real origins of Polandball](http://9gag.com/gag/aYQ369x)<!-- MEMES:END -->
 
 ---
 

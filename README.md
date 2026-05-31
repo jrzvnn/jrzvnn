@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Exception..](http://9gag.com/gag/adBGW2j)
+ - 😝 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
  - 😝 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
- - 💣 [Kindness can be misunderstood sometimes](http://9gag.com/gag/aGymqgK)
- - 😝 [Hear me out...](http://9gag.com/gag/a87RNLZ)
- - 👉 [How not to sleep at night \u2026](http://9gag.com/gag/aryQD4p)<!-- MEMES:END -->
+ - 💣 [He got tired](http://9gag.com/gag/ajPzjy1)
+ - 😝 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
+ - 👉 [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)<!-- MEMES:END -->
 
 ---
 

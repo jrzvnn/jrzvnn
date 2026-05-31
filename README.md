@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI adoption follows the J-curve path of general-purpose tech, like early US factory electrification, requiring years of investment before noticeable ROI gains &lpar;Exponential View&rpar;](https://www.techmeme.com/260531/p9#a260531p9)
  - [Longtime leaker joins others in saying Apple Glasses won&#39;t arrive until late 2027](https://appleinsider.com/articles/26/05/31/longtime-leaker-joins-others-in-saying-apple-glasses-wont-arrive-until-late-2027?utm_source=rss)
+ - [USA vs. Senegal Livestream: How to Watch the International Friendly Soccer Game for Free](https://www.cnet.com/tech/services-and-software/usa-vs-senegal-livestream-how-to-watch-the-international-friendly-soccer-game-free/)
  - [Surprising nobody, Apple&#39;s already working on iOS 28, macOS 28](https://appleinsider.com/articles/26/05/31/surprising-nobody-apples-already-working-on-ios-28-macos-28?utm_source=rss)
- - [Feeble Little Horse leans into digital weirdness on bitknot](https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review)
- - [United flight forced to turn around because of a Bluetooth speaker name](https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb)
- - [Apple TV, HomePod mini updates are waiting for Siri&#39;s upgrade](https://appleinsider.com/articles/26/05/31/apple-tv-homepod-mini-updates-are-waiting-for-siris-upgrade?utm_source=rss)<!-- TECH:END -->
+ - [Feeble Little Horse leans into digital weirdness on bitknot](https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

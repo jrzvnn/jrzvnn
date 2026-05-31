@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As robotaxi companies attempt to scale in the US, they face increasing scrutiny and mounting criticism from drivers, law enforcement, and local governments &lpar;Sean McLain/Wall Street Journal&rpar;](https://www.techmeme.com/260530/p16#a260530p16)
+ - [Why &quot;Dark Output&quot;, the AI-generated economic value that is currently invisible to national statistics, may be one of the hardest measurement problems in history &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260530/p15#a260530p15)
  - [Lionsgate Joins Movies Anywhere, Leaving Paramount and MGM as Last Major Hold Outs](https://www.cnet.com/tech/services-and-software/lionsgate-joins-movies-anywhere/)
  - [PitchBook: VC investment in global robotics and physical AI jumped to $26B in 2025 from $4.2B in 2019, and has already topped $23B as of May 20 this year &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260530/p14#a260530p14)
- - [&#39;The Legend of Vox Machina,&#39; &#39;Every Year After&#39; and More New Prime Video Releases We&#39;re Watching in June](https://www.cnet.com/culture/entertainment/the-legend-of-vox-machina-new-prime-video-watching-june-2026/)
- - [Antenna: bundles make up 33% of new major streaming service subscriptions in the US, and 28% of all subscriptions, up from just 10% of new subscriptions in 2024 &lpar;John Koblin/New York Times&rpar;](https://www.techmeme.com/260530/p13#a260530p13)
- - [Today&#39;s Wordle Hints, Answer and Help for May 31, #1807](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-31-1807/)<!-- TECH:END -->
+ - [&#39;The Legend of Vox Machina,&#39; &#39;Every Year After&#39; and More New Prime Video Releases We&#39;re Watching in June](https://www.cnet.com/culture/entertainment/the-legend-of-vox-machina-new-prime-video-watching-june-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s strategy for smart glasses is the same as smart watches](https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches)
  - [How to exorcise your HomePod and HomePod mini of &#39;ghost touches&#39;](https://appleinsider.com/inside/homepod-mini/tips/how-to-exorcise-your-homepod-and-homepod-mini-of-ghost-touches?utm_source=rss)
  - [How to watch Nvidia&amp;#8217;s Computex keynote](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote)
  - [Experts say ChatGPT, Gemini, and other Western AI models are turbocharging Iran&#39;s cyber operations, helping it develop malware and launch phishing attacks &lpar;Jacob Judah/Financial Times&rpar;](https://www.techmeme.com/260531/p10#a260531p10)
- - [Crime blotter: Man arrested for $31,000 iPhone theft](https://appleinsider.com/articles/26/05/31/crime-blotter-man-arrrested-for-31000-iphone-theft?utm_source=rss)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 1, #616](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-1-616/)<!-- TECH:END -->
+ - [Crime blotter: Man arrested for $31,000 iPhone theft](https://appleinsider.com/articles/26/05/31/crime-blotter-man-arrrested-for-31000-iphone-theft?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

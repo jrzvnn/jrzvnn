@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A human eye with a 1000x zoom](http://9gag.com/gag/aryQDZX)
- - 😝 [He got tired](http://9gag.com/gag/ajPzjy1)
- - 💣 [Title is important](http://9gag.com/gag/aRBbWeA)
- - 😝 [Well, he won&#39;t do it again.](http://9gag.com/gag/a346z9e)
- - 👉 [Burn](http://9gag.com/gag/a4PXgrw)<!-- MEMES:END -->
+ - 😝 [What lobster?](http://9gag.com/gag/aqyPM6M)
+ - 😝 [He chose poorly](http://9gag.com/gag/a87R943)
+ - 💣 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
+ - 😝 [Will the snail stop chasing me now?](http://9gag.com/gag/aVvprMn)
+ - 👉 [Title is important](http://9gag.com/gag/aRBbWeA)<!-- MEMES:END -->
 
 ---
 

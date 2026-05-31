@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
+ - 😝 [He did it](http://9gag.com/gag/aByAboA)
  - 😝 [Title is important](http://9gag.com/gag/aRBbWeA)
- - 💣 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)
+ - 💣 [The Exception..](http://9gag.com/gag/adBGW2j)
  - 😝 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
- - 👉 [Will the snail stop chasing me now?](http://9gag.com/gag/aVvprMn)<!-- MEMES:END -->
+ - 👉 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
 
 ---
 

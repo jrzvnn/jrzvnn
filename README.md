@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He did it](http://9gag.com/gag/aByAboA)
- - 😝 [Title is important](http://9gag.com/gag/aRBbWeA)
- - 💣 [The Exception..](http://9gag.com/gag/adBGW2j)
- - 😝 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
- - 👉 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
+ - 😝 [Only WD40 can kill this track.](http://9gag.com/gag/aryQ00p)
+ - 😝 [Hear me out...](http://9gag.com/gag/a87RNLZ)
+ - 💣 [A gentle reminder that tomorrow is Monday.....](http://9gag.com/gag/ajPzvgQ)
+ - 😝 [How to deal with this..](http://9gag.com/gag/a9yxwXj)
+ - 👉 [Mildly interesting](http://9gag.com/gag/agmD90W)<!-- MEMES:END -->
 
 ---
 

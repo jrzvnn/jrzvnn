@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens](https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/)
- - [The Mercedes CLA offers great EV specs for an average price](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs)
- - [Wi-Fi Router vs. Mesh System: Which Is Best for You?](https://www.wired.com/story/mesh-system-vs-wi-fi-router/)
- - [6 Best Prepaid Phone Plans &lpar;2026&rpar;: Tello, Boost, Google Fi, More](https://www.wired.com/gallery/best-prepaid-phone-plans/)
- - [Apple&#39;s Giving You Extra Bragging Rights for Your Run on Global Running Day](https://www.cnet.com/tech/mobile/apple-watch-limited-edition-badge-global-running-day/)<!-- TECH:END -->
+ - [A look at AMD CEO Lisa Su&#39;s and Nvidia CEO Jensen Huang&#39;s contrasting China playbooks, with Su keeping a lower profile; China accounts for ~20% of AMD&#39;s revenue &lpar;Reuters&rpar;](https://www.techmeme.com/260531/p7#a260531p7)
+ - [User-replaceable batteries are coming back in a big way](https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation)
+ - [Crime blotter: Man arrrested for $31,000 iPhone theft](https://appleinsider.com/articles/26/05/31/crime-blotter-man-arrrested-for-31000-iphone-theft?utm_source=rss)
+ - [I Found the Best Water Flosser of 2026 for Squeaky-Clean Teeth](https://www.cnet.com/health/personal-care/best-water-flossers/)
+ - [M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens](https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AMD CEO Lisa Su&#39;s and Nvidia CEO Jensen Huang&#39;s contrasting China playbooks, with Su keeping a lower profile; China accounts for ~20% of AMD&#39;s revenue &lpar;Reuters&rpar;](https://www.techmeme.com/260531/p7#a260531p7)
- - [User-replaceable batteries are coming back in a big way](https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation)
- - [Crime blotter: Man arrrested for $31,000 iPhone theft](https://appleinsider.com/articles/26/05/31/crime-blotter-man-arrrested-for-31000-iphone-theft?utm_source=rss)
- - [I Found the Best Water Flosser of 2026 for Squeaky-Clean Teeth](https://www.cnet.com/health/personal-care/best-water-flossers/)
- - [M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens](https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/)<!-- TECH:END -->
+ - [007 First Light is already discounted for the PS5 and Steam](https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale)
+ - [Marathon&amp;#8217;s second season is a chance for Bungie to turn things around](https://www.theverge.com/games/940214/marathon-bungie-season-two-turnaround-destiny-changes)
+ - [A meteor exploded off the coast of Boston with the force of 300 tons of TNT](https://www.theverge.com/science/940467/meteor-exploded-new-england)
+ - [I went looking for the AI weed vape that gives you Bitcoin for smoking](https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape)
+ - [IGN Live 2026: Start Times, Ticket Prices, Game Reveals and More](https://www.cnet.com/tech/gaming/ign-live-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

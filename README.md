@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [007 First Light is already discounted for the PS5 and Steam](https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale)
- - [Marathon&amp;#8217;s second season is a chance for Bungie to turn things around](https://www.theverge.com/games/940214/marathon-bungie-season-two-turnaround-destiny-changes)
- - [A meteor exploded off the coast of Boston with the force of 300 tons of TNT](https://www.theverge.com/science/940467/meteor-exploded-new-england)
- - [I went looking for the AI weed vape that gives you Bitcoin for smoking](https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape)
- - [IGN Live 2026: Start Times, Ticket Prices, Game Reveals and More](https://www.cnet.com/tech/gaming/ign-live-2026/)<!-- TECH:END -->
+ - [Apple TV, HomePod mini updates are waiting for Siri&#39;s upgrade](https://appleinsider.com/articles/26/05/31/apple-tv-homepod-mini-updates-are-waiting-for-siris-upgrade?utm_source=rss)
+ - [Sources: Apple delays iPhone-connected smart glasses to late 2027, aiming to disrupt the mid-tier $200-$500 eyewear market the way it disrupted the watch market &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260531/p8#a260531p8)
+ - [This extravagant gaming laptop could ruin other screens for you](https://www.theverge.com/tech/940221/asus-rog-strix-scar-18-elmb-gaming-laptop-motion-blur-handson-impressions)
+ - [Like Apple Watch at start, Apple&#39;s smart glasses plan will challenge the entire industry](https://appleinsider.com/articles/26/05/31/like-apple-watch-at-start-apples-smart-glasses-plan-will-challenge-the-entire-industry?utm_source=rss)
+ - [Slimmer &amp; lighter Apple Vision Pro is at least two years away](https://appleinsider.com/articles/26/05/31/slimmer-lighter-apple-vision-pro-is-at-least-two-years-away?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He chose poorly](http://9gag.com/gag/a87R943)
- - 😝 [They spent $500 on a $120 phone. Only 11 stripes on the flag. And gold? No, you get piss yellow, cause it&#39;s the Golden Shower Age Fell for it again awards going out eveywhere](http://9gag.com/gag/a9yx40Z)
- - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 😝 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
- - 👉 [Title is important](http://9gag.com/gag/aRBbWeA)<!-- MEMES:END -->
+ - 😝 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 😝 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - 💣 [Weight loss](http://9gag.com/gag/aAy8A5R)
+ - 😝 [Greetings from Chicagoland! Lost my dad and grandpa to a drunk driver in January &amp; this is the first BBQ w/o them. I can hear dad mocking my small new grill from the beyond. Cheers!](http://9gag.com/gag/aGymvmn)
+ - 👉 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
 
 ---
 

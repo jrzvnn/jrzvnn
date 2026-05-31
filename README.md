@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would `run` my fingers on the sill and jump over every driveway, walkway, side street.](http://9gag.com/gag/aLnZ3A5)
- - 😝 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
- - 💣 [Only WD40 can kill this track.](http://9gag.com/gag/aryQ00p)
- - 😝 [Mildly interesting](http://9gag.com/gag/agmD90W)
- - 👉 [Hear me out...](http://9gag.com/gag/a87RNLZ)<!-- MEMES:END -->
+ - 😝 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
+ - 😝 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)
+ - 💣 [He got tired](http://9gag.com/gag/ajPzjy1)
+ - 😝 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
+ - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
 
 ---
 

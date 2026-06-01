@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
  - 😝 [Title is important](http://9gag.com/gag/aRBbWeA)
- - 😝 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 😝 [Burn](http://9gag.com/gag/a4PXgrw)
- - 👉 [Well, he won&#39;t do it again.](http://9gag.com/gag/a346z9e)<!-- MEMES:END -->
+ - 💣 [Those ladies were fighting so hard to stay offended](http://9gag.com/gag/aQzLbBw)
+ - 😝 [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
+ - 👉 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)<!-- MEMES:END -->
 
 ---
 

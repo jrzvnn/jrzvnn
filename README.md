@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch rolls out Dual Format, a feature that lets creators stream horizontally and vertically simultaneously, and 2K streaming for partners and affiliates &lpar;Cheyenne MacDonald/Engadget&rpar;](https://www.techmeme.com/260531/p12#a260531p12)
- - [AMD’s new pitch: our old tech is so good you should just keep using it](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d)
- - [How to use Jellyfin on a Mac to make a private streaming service](https://appleinsider.com/inside/macos/tips/how-to-turn-jellyfin-on-an-old-mac-into-a-private-streaming-service?utm_source=rss)
- - [Sunday Reboot: Dear Hair Force One, help us all out at WWDC](https://appleinsider.com/articles/26/05/31/sunday-reboot-dear-hair-force-one-help-us-all-out-at-wwdc?utm_source=rss)
- - [NYC-based Garner Health, which uses data analytics to help 2.5M+ workers find physicians, raised a $100M Series E at a $2.74B valuation led by Index Ventures &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260531/p11#a260531p11)<!-- TECH:END -->
+ - [Nvidia says RTX Spark offers up to 20 CPU cores and a Blackwell GPU with 6,144 CUDA cores, capable of &quot;100 FPS 1440p gaming&quot; or running 120B-parameter models &lpar;Jeffrey Kampman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260601/p5#a260601p5)
+ - [B&amp;H is blowing out 15-inch MacBook Air M4 inventory at $969](https://appleinsider.com/articles/26/06/01/bh-is-blowing-out-15-inch-macbook-air-m4-inventory-at-969?utm_source=rss)
+ - [Microsoft unveils the Surface Laptop Ultra, with an Nvidia RTX Spark SoC, a 15&quot; mini-LED touchscreen, and up to 128GB of unified memory, coming this fall &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260601/p4#a260601p4)
+ - [Nvidia announces the RTX Spark, an Arm-based consumer PC chip family that it says is &quot;the most efficient PC chip ever built&quot;, made in partnership with MediaTek &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260601/p3#a260601p3)
+ - [This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark](https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

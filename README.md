@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 😝 [Title is important](http://9gag.com/gag/aRBbWeA)
- - 💣 [Those ladies were fighting so hard to stay offended](http://9gag.com/gag/aQzLbBw)
+ - 😝 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
+ - 😝 [Those ladies were fighting so hard to stay offended](http://9gag.com/gag/aQzLbBw)
+ - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
  - 😝 [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
- - 👉 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)<!-- MEMES:END -->
+ - 👉 [Absolute Cinema](http://9gag.com/gag/adBGAYN)<!-- MEMES:END -->
 
 ---
 

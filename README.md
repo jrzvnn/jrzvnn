@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 😝 [Title is important](http://9gag.com/gag/aRBbWeA)
  - 😝 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - 💣 [Weight loss](http://9gag.com/gag/aAy8A5R)
- - 😝 [Greetings from Chicagoland! Lost my dad and grandpa to a drunk driver in January &amp; this is the first BBQ w/o them. I can hear dad mocking my small new grill from the beyond. Cheers!](http://9gag.com/gag/aGymvmn)
- - 👉 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
+ - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 😝 [Burn](http://9gag.com/gag/a4PXgrw)
+ - 👉 [Well, he won&#39;t do it again.](http://9gag.com/gag/a346z9e)<!-- MEMES:END -->
 
 ---
 

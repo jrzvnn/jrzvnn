@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
- - 😝 [Those ladies were fighting so hard to stay offended](http://9gag.com/gag/aQzLbBw)
- - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 😝 [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
- - 👉 [Absolute Cinema](http://9gag.com/gag/adBGAYN)<!-- MEMES:END -->
+ - 😝 [What lobster?](http://9gag.com/gag/aqyPM6M)
+ - 😝 [The third one is tolerating you](http://9gag.com/gag/azxWwxb)
+ - 💣 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
+ - 😝 [Joke of the century](http://9gag.com/gag/azxWwGp)
+ - 👉 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)<!-- MEMES:END -->
 
 ---
 

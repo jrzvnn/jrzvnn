@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pebblebee&amp;#8217;s Halo can help track lost items and keep you safe, and it&amp;#8217;s on sale for $50](https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale)
- - [Gigascale Capital, a climate tech VC firm co-founded by former Meta CTO Mike Schroepfer, closed a $250M fund to back early-stage startups supporting the AI boom &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260601/p52#a260601p52)
- - [This could be Windows’ M1 moment — but expect it to cost a ton](https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram)
- - [Gemini’s new AI agent is about as good as Google’s demo](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)
- - [DuckDuckGo&#39;s Popular &#39;No AI&#39; Search Engine Is Now Easier to Access](https://www.cnet.com/tech/services-and-software/duckduckgo-no-ai-search-chrome-firefox-browser-extensions/)<!-- TECH:END -->
+ - [WWDC 2026 guests can attend special screening of the latest &#39;Star Wars&#39; movie](https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss)
+ - [Startups from the pre-ChatGPT era face a reckoning in private markets; PitchBook: half of US unicorns haven&#39;t raised in three years, 220+ are &quot;fallen unicorns&quot; &lpar;Hugh Son/CNBC&rpar;](https://www.techmeme.com/260601/p55#a260601p55)
+ - [Lost Your Duolingo Streak? There&#39;s Finally a Way to Get It Back](https://www.cnet.com/tech/services-and-software/lost-your-duolingo-streak-theres-finally-a-way-to-get-it-back/)
+ - [Alphabet is raising $80B in equity offerings, including a $10B investment deal with Berkshire Hathaway, to help raise money for its AI spending plans &lpar;Bloomberg&rpar;](https://www.techmeme.com/260601/p54#a260601p54)
+ - [The 5 Best Sunrise Alarm Clocks for Peaceful Mornings](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

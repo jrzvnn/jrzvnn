@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch rolls out Dual Format, a feature that lets creators stream horizontally and vertically simultaneously, and 2K streaming for partners and affiliates &lpar;Cheyenne MacDonald/Engadget&rpar;](https://www.techmeme.com/260531/p12#a260531p12)
+ - [AMD’s new pitch: our old tech is so good you should just keep using it](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d)
+ - [How to use Jellyfin on a Mac to make a private streaming service](https://appleinsider.com/inside/macos/tips/how-to-turn-jellyfin-on-an-old-mac-into-a-private-streaming-service?utm_source=rss)
  - [Sunday Reboot: Dear Hair Force One, help us all out at WWDC](https://appleinsider.com/articles/26/05/31/sunday-reboot-dear-hair-force-one-help-us-all-out-at-wwdc?utm_source=rss)
- - [NYC-based Garner Health, which uses data analytics to help 2.5M+ workers find physicians, raised a $100M Series E at a $2.74B valuation led by Index Ventures &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260531/p11#a260531p11)
- - [Everyone Has Their Targets Set on the MacBook Neo](https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/)
- - [The QD-OLED gaming monitor that started it all got a big upgrade](https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs)
- - [Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599](https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price)<!-- TECH:END -->
+ - [NYC-based Garner Health, which uses data analytics to help 2.5M+ workers find physicians, raised a $100M Series E at a $2.74B valuation led by Index Ventures &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260531/p11#a260531p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

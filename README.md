@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stockholm-based Endra, which automates the design of plumbing and electrical wiring in new buildings, raised $50M led by a16z &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260601/p47#a260601p47)
- - [Anthropic says it has confidentially filed for an IPO, joining OpenAI and SpaceX in preparing to go public this year &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260601/p46#a260601p46)
- - [Anthropic confidentially submits draft S-1 to the SEC &lpar;Anthropic&rpar;](https://www.techmeme.com/260601/p45#a260601p45)
- - [New York City-based Mecka AI, which trains robots with human data sourced from body sensors and iPhones, raised $60M, including a $25M Series A &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260601/p44#a260601p44)
- - [Sekai, which lets users create mini apps through text prompts, raised a $20M Series A co-led by Khosla Ventures and Connect Ventures, after a $6M seed in 2025 &lpar;Kerry Flynn/Axios&rpar;](https://www.techmeme.com/260601/p43#a260601p43)<!-- TECH:END -->
+ - [Pebblebee&amp;#8217;s Halo can help track lost items and keep you safe, and it&amp;#8217;s on sale for $50](https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale)
+ - [Gigascale Capital, a climate tech VC firm co-founded by former Meta CTO Mike Schroepfer, closed a $250M fund to back early-stage startups supporting the AI boom &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260601/p52#a260601p52)
+ - [This could be Windows’ M1 moment — but expect it to cost a ton](https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram)
+ - [Gemini’s new AI agent is about as good as Google’s demo](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)
+ - [DuckDuckGo&#39;s Popular &#39;No AI&#39; Search Engine Is Now Easier to Access](https://www.cnet.com/tech/services-and-software/duckduckgo-no-ai-search-chrome-firefox-browser-extensions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

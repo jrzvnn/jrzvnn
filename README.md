@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra](https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/)
- - [Nasdaq, FTSE, and other index providers are aggressively shortening entry timelines to accommodate SpaceX&#39;s $75B IPO, as Elon Musk targets retail investors &lpar;Bloomberg&rpar;](https://www.techmeme.com/260601/p23#a260601p23)
- - [Q&amp;A with Bill Gurley on Anthropic staffers believing &quot;they can create God, and that by creating God, they are like this Prometheus kind of species&quot;, and more &lpar;@theallinpod&rpar;](https://www.techmeme.com/260601/p22#a260601p22)
- - [Q&amp;A with Brian Chesky on running Airbnb in &quot;founder mode&quot;, differences between &quot;founder mode and hustle culture&quot;, AI customer service, listing hotels, and more &lpar;Jordyn Holman/New York Times&rpar;](https://www.techmeme.com/260601/p21#a260601p21)
- - [The Painful Truth About Long Covid](https://www.wired.com/story/the-painful-truth-about-long-covid/)<!-- TECH:END -->
+ - [Stockholm-based Endra, which automates the design of plumbing and electrical wiring in new buildings, raised $50M led by a16z &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260601/p47#a260601p47)
+ - [Anthropic says it has confidentially filed for an IPO, joining OpenAI and SpaceX in preparing to go public this year &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260601/p46#a260601p46)
+ - [Anthropic confidentially submits draft S-1 to the SEC &lpar;Anthropic&rpar;](https://www.techmeme.com/260601/p45#a260601p45)
+ - [New York City-based Mecka AI, which trains robots with human data sourced from body sensors and iPhones, raised $60M, including a $25M Series A &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260601/p44#a260601p44)
+ - [Sekai, which lets users create mini apps through text prompts, raised a $20M Series A co-led by Khosla Ventures and Connect Ventures, after a $6M seed in 2025 &lpar;Kerry Flynn/Axios&rpar;](https://www.techmeme.com/260601/p43#a260601p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

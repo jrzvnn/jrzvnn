@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 😝 [Let him cook](http://9gag.com/gag/aAy85M9)
  - 😝 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
  - 💣 [Burn](http://9gag.com/gag/a4PXgrw)
- - 😝 [Toxic Masculinity on Display](http://9gag.com/gag/awyEprB)
- - 👉 [Will the snail stop chasing me now?](http://9gag.com/gag/aVvprMn)<!-- MEMES:END -->
+ - 😝 [Will the snail stop chasing me now?](http://9gag.com/gag/aVvprMn)
+ - 👉 [Weight loss](http://9gag.com/gag/aAy8A5R)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says RTX Spark offers up to 20 CPU cores and a Blackwell GPU with 6,144 CUDA cores, capable of &quot;100 FPS 1440p gaming&quot; or running 120B-parameter models &lpar;Jeffrey Kampman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260601/p5#a260601p5)
- - [B&amp;H is blowing out 15-inch MacBook Air M4 inventory at $969](https://appleinsider.com/articles/26/06/01/bh-is-blowing-out-15-inch-macbook-air-m4-inventory-at-969?utm_source=rss)
- - [Microsoft unveils the Surface Laptop Ultra, with an Nvidia RTX Spark SoC, a 15&quot; mini-LED touchscreen, and up to 128GB of unified memory, coming this fall &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260601/p4#a260601p4)
- - [Nvidia announces the RTX Spark, an Arm-based consumer PC chip family that it says is &quot;the most efficient PC chip ever built&quot;, made in partnership with MediaTek &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260601/p3#a260601p3)
- - [This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark](https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures)<!-- TECH:END -->
+ - [‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra](https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/)
+ - [Nasdaq, FTSE, and other index providers are aggressively shortening entry timelines to accommodate SpaceX&#39;s $75B IPO, as Elon Musk targets retail investors &lpar;Bloomberg&rpar;](https://www.techmeme.com/260601/p23#a260601p23)
+ - [Q&amp;A with Bill Gurley on Anthropic staffers believing &quot;they can create God, and that by creating God, they are like this Prometheus kind of species&quot;, and more &lpar;@theallinpod&rpar;](https://www.techmeme.com/260601/p22#a260601p22)
+ - [Q&amp;A with Brian Chesky on running Airbnb in &quot;founder mode&quot;, differences between &quot;founder mode and hustle culture&quot;, AI customer service, listing hotels, and more &lpar;Jordyn Holman/New York Times&rpar;](https://www.techmeme.com/260601/p21#a260601p21)
+ - [The Painful Truth About Long Covid](https://www.wired.com/story/the-painful-truth-about-long-covid/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

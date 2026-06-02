@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC 2026 guests can attend special screening of the latest &#39;Star Wars&#39; movie](https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss)
- - [Startups from the pre-ChatGPT era face a reckoning in private markets; PitchBook: half of US unicorns haven&#39;t raised in three years, 220+ are &quot;fallen unicorns&quot; &lpar;Hugh Son/CNBC&rpar;](https://www.techmeme.com/260601/p55#a260601p55)
- - [Lost Your Duolingo Streak? There&#39;s Finally a Way to Get It Back](https://www.cnet.com/tech/services-and-software/lost-your-duolingo-streak-theres-finally-a-way-to-get-it-back/)
- - [Alphabet is raising $80B in equity offerings, including a $10B investment deal with Berkshire Hathaway, to help raise money for its AI spending plans &lpar;Bloomberg&rpar;](https://www.techmeme.com/260601/p54#a260601p54)
- - [The 5 Best Sunrise Alarm Clocks for Peaceful Mornings](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/)<!-- TECH:END -->
+ - [Crunchbase: SF startups hit a record of 1,404 seed deals in 2025, while the number of NYC seed deals has dropped over the past three years, to 666 in 2025 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](https://www.techmeme.com/260602/p1#a260602p1)
+ - [Wise confirms it is under investigation by Belgian prosecutors over suspicions its accounts were used for money laundering involving €500M in transactions &lpar;Simon Lock/TBIJ&rpar;](https://www.techmeme.com/260601/p60#a260601p60)
+ - [Sources: Tencent, which has fallen behind domestic rivals in AI models, plans to test an AI agent for WeChat with a small group of users before a phased rollout &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260601/p59#a260601p59)
+ - [GitHub Copilot&#39;s new pricing model went into effect today, and many noted sticker shock with some saying a few hours of AI usage ate big chunks of monthly caps &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260601/p58#a260601p58)
+ - [Nvidia launches Nemotron 3 Ultra, a 550B-parameter MoE open model; Artificial Analysis: it&#39;s the smartest open US model but trails the Chinese model Kimi K2.6 &lpar;Maximilian Schreiner/The Decoder&rpar;](https://www.techmeme.com/260601/p57#a260601p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

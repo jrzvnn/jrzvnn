@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
  - 😝 [Burn](http://9gag.com/gag/a4PXgrw)
- - 💣 [Weight loss](http://9gag.com/gag/aAy8A5R)
- - 😝 [Will the snail stop chasing me now?](http://9gag.com/gag/aVvprMn)
- - 👉 [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)<!-- MEMES:END -->
+ - 😝 [Weight loss](http://9gag.com/gag/aAy8A5R)
+ - 💣 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
+ - 😝 [True](http://9gag.com/gag/agmDe5K)
+ - 👉 [What a great and an unharming prank](http://9gag.com/gag/ae9nw2b)<!-- MEMES:END -->
 
 ---
 

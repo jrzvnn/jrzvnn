@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU&#39;s €20B investment plan for five AI data centers is floundering, with delays and funding issues alienating some potential partners &lpar;Bloomberg&rpar;](https://www.techmeme.com/260602/p38#a260602p38)
- - [iPhone Fold&#39;s wide screen means iPad&#39;s Split View is a necessity](https://appleinsider.com/articles/26/06/02/iphone-folds-wide-screen-means-ipads-split-view-is-a-necessity?utm_source=rss)
- - [Email: the EU Parliament plans to replace Google with the French search engine Qwant as the default search tool on its computers, seeking digital sovereignty &lpar;Politico&rpar;](https://www.techmeme.com/260602/p37#a260602p37)
- - [Israeli data security startup Cyera raised $300M at a $12B valuation, after raising $400M at a $9B valuation in January &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260602/p36#a260602p36)
- - [Microsoft unveils Microsoft Execution Containers for Windows, an OS-level sandbox for AI agents, with OpenAI, Nvidia, Manus, and Nous Research as partners &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260602/p35#a260602p35)<!-- TECH:END -->
+ - [MacBook Neo is the sole bright spot in a crashing global PC market](https://appleinsider.com/articles/26/06/02/macbook-neo-is-the-sole-bright-spot-in-a-crashing-global-pc-market?utm_source=rss)
+ - [Microsoft releases ASSERT, an open-source framework that lets developers generate and run AI behavior tests using natural-language descriptions &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260602/p56#a260602p56)
+ - [I held the next-gen handheld](https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview)
+ - [Internal memo: Meta is scaling back elements of its employee tracking tool, launched in April to help train its AI models, after staff raised concerns &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260602/p55#a260602p55)
+ - [Microsoft and Mayo Clinic partner for an AI model trained on Mayo&#39;s medical data, with plans to build an AI healthcare assistant and AI tools for clinicians &lpar;Clare Duffy/CNN&rpar;](https://www.techmeme.com/260602/p54#a260602p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Neo is the sole bright spot in a crashing global PC market](https://appleinsider.com/articles/26/06/02/macbook-neo-is-the-sole-bright-spot-in-a-crashing-global-pc-market?utm_source=rss)
- - [Microsoft releases ASSERT, an open-source framework that lets developers generate and run AI behavior tests using natural-language descriptions &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260602/p56#a260602p56)
- - [I held the next-gen handheld](https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview)
- - [Internal memo: Meta is scaling back elements of its employee tracking tool, launched in April to help train its AI models, after staff raised concerns &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260602/p55#a260602p55)
- - [Microsoft and Mayo Clinic partner for an AI model trained on Mayo&#39;s medical data, with plans to build an AI healthcare assistant and AI tools for clinicians &lpar;Clare Duffy/CNN&rpar;](https://www.techmeme.com/260602/p54#a260602p54)<!-- TECH:END -->
+ - [God of War Laufey is coming to the PS5](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer)
+ - [The US sanctions Nobitex, Iran&#39;s largest crypto exchange, accusing it of helping Iran&#39;s government and blacklisted state institutions evade Western sanctions &lpar;Gavin Finch/Reuters&rpar;](https://www.techmeme.com/260602/p61#a260602p61)
+ - [Palo Alto Networks reports Q3 revenue up 31% YoY to $3B, including $388M from CyberArk and Chronosphere, vs. $2.94B est., and forecasts Q4 revenue above est. &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260602/p60#a260602p60)
+ - [Remedy’s Control sequel launches in September](https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer)
+ - [Audible Will Give You Rewards for Listening to More Audiobooks](https://www.cnet.com/tech/services-and-software/audible-rewards-for-listening-to-more-audiobooks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let him cook](http://9gag.com/gag/aAy85M9)
+ - 😝 [Small Weiner Club](http://9gag.com/gag/aZZ65LV)
  - 😝 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - 💣 [Burn](http://9gag.com/gag/a4PXgrw)
- - 😝 [Will the snail stop chasing me now?](http://9gag.com/gag/aVvprMn)
- - 👉 [Weight loss](http://9gag.com/gag/aAy8A5R)<!-- MEMES:END -->
+ - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 😝 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)
+ - 👉 [The third one is tolerating you](http://9gag.com/gag/azxWwxb)<!-- MEMES:END -->
 
 ---
 

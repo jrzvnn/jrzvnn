@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)
- - 😝 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
- - 💣 [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)
+ - 😝 [Shopping with daughter](http://9gag.com/gag/aVvp6Ed)
+ - 😝 [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)
+ - 💣 [Imagine the chaos](http://9gag.com/gag/a9yxGDo)
  - 😝 [The memes. The chaos. The moments. Only 7 days until 69 MemeDay \ud83d\udd25](http://9gag.com/gag/aByAevA)
- - 👉 [Also, self-deprecating jokes don&#39;t go well in therapy. He keeps stealing my jokes and writes them down....](http://9gag.com/gag/amoeZO6)<!-- MEMES:END -->
+ - 👉 [In iceland](http://9gag.com/gag/aD2K5EB)<!-- MEMES:END -->
 
 ---
 

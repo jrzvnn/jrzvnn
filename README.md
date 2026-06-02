@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s four-day Prime Day begins on June 23rd](https://www.theverge.com/gadgets/940021/amazon-prime-day-2026-june-dates-deals)
- - [Gemini Spark is the most impressive and terrifying AI experience I’ve had yet](https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning)
- - [People are leaving a lot of weird stuff in their robotaxis](https://www.theverge.com/transportation/941150/uber-lost-found-robotaxi-items-waymo-motional-avride)
- - [4 Best Alexa Speakers &lpar;2026&rpar;: Echo Dot Max, Echo Dot, Echo Show 11](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [This is the way: WWDC 2026 attendees get to see &#39;The Mandalorian and Grogu&#39;](https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the EU&#39;s €20B investment plan for five AI data centers is floundering, with delays and funding issues alienating some potential partners &lpar;Bloomberg&rpar;](https://www.techmeme.com/260602/p38#a260602p38)
+ - [iPhone Fold&#39;s wide screen means iPad&#39;s Split View is a necessity](https://appleinsider.com/articles/26/06/02/iphone-folds-wide-screen-means-ipads-split-view-is-a-necessity?utm_source=rss)
+ - [Email: the EU Parliament plans to replace Google with the French search engine Qwant as the default search tool on its computers, seeking digital sovereignty &lpar;Politico&rpar;](https://www.techmeme.com/260602/p37#a260602p37)
+ - [Israeli data security startup Cyera raised $300M at a $12B valuation, after raising $400M at a $9B valuation in January &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260602/p36#a260602p36)
+ - [Microsoft unveils Microsoft Execution Containers for Windows, an OS-level sandbox for AI agents, with OpenAI, Nvidia, Manus, and Nous Research as partners &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260602/p35#a260602p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crunchbase: SF startups hit a record of 1,404 seed deals in 2025, while the number of NYC seed deals has dropped over the past three years, to 666 in 2025 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](https://www.techmeme.com/260602/p1#a260602p1)
- - [Wise confirms it is under investigation by Belgian prosecutors over suspicions its accounts were used for money laundering involving €500M in transactions &lpar;Simon Lock/TBIJ&rpar;](https://www.techmeme.com/260601/p60#a260601p60)
- - [Sources: Tencent, which has fallen behind domestic rivals in AI models, plans to test an AI agent for WeChat with a small group of users before a phased rollout &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260601/p59#a260601p59)
- - [GitHub Copilot&#39;s new pricing model went into effect today, and many noted sticker shock with some saying a few hours of AI usage ate big chunks of monthly caps &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260601/p58#a260601p58)
- - [Nvidia launches Nemotron 3 Ultra, a 550B-parameter MoE open model; Artificial Analysis: it&#39;s the smartest open US model but trails the Chinese model Kimi K2.6 &lpar;Maximilian Schreiner/The Decoder&rpar;](https://www.techmeme.com/260601/p57#a260601p57)<!-- TECH:END -->
+ - [China adds data and algorithms to its trade secret rules, as part of Beijing&#39;s efforts to prevent tech leaks amid intensifying strategic competition with the US &lpar;Nectar Gan/Bloomberg&rpar;](https://www.techmeme.com/260602/p11#a260602p11)
+ - [Computex 2026: ARM CEO Rene Haas says Oracle and ByteDance are among the customers of the company&#39;s new AGI CPU data center chips &lpar;Max Cherney/Reuters&rpar;](https://www.techmeme.com/260602/p10#a260602p10)
+ - [Zhipu AI says it plans to apply for a listing in Shanghai; Zhipu&#39;s Hong Kong-listed shares are up over 10x since its January IPO, giving it an $83B market cap &lpar;Reuters&rpar;](https://www.techmeme.com/260602/p9#a260602p9)
+ - [A profile of Valve, which PrivCo estimates generated $5.2B in revenue and $1.5B in net income in 2025, as lawsuits allege its Steam store abuses market power &lpar;Bloomberg&rpar;](https://www.techmeme.com/260602/p8#a260602p8)
+ - [SpaceX&#39;s, Anthropic&#39;s, and OpenAI&#39;s IPOs could add up to $4T to US stock market value within months, fueling concerns they could trigger more capital-raising &lpar;The Economist&rpar;](https://www.techmeme.com/260602/p7#a260602p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

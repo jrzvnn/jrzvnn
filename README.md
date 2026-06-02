@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Burn](http://9gag.com/gag/a4PXgrw)
- - 😝 [Weight loss](http://9gag.com/gag/aAy8A5R)
- - 💣 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
- - 😝 [True](http://9gag.com/gag/agmDe5K)
- - 👉 [What a great and an unharming prank](http://9gag.com/gag/ae9nw2b)<!-- MEMES:END -->
+ - 😝 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - 😝 [The third one is tolerating you](http://9gag.com/gag/azxWwxb)
+ - 💣 [Cars](http://9gag.com/gag/aE095rp)
+ - 😝 [The memes. The chaos. The moments. Only 7 days until 69 MemeDay \ud83d\udd25](http://9gag.com/gag/aByAevA)
+ - 👉 [Imagine the chaos](http://9gag.com/gag/a9yxGDo)<!-- MEMES:END -->
 
 ---
 

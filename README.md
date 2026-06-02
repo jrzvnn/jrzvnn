@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China adds data and algorithms to its trade secret rules, as part of Beijing&#39;s efforts to prevent tech leaks amid intensifying strategic competition with the US &lpar;Nectar Gan/Bloomberg&rpar;](https://www.techmeme.com/260602/p11#a260602p11)
- - [Computex 2026: ARM CEO Rene Haas says Oracle and ByteDance are among the customers of the company&#39;s new AGI CPU data center chips &lpar;Max Cherney/Reuters&rpar;](https://www.techmeme.com/260602/p10#a260602p10)
- - [Zhipu AI says it plans to apply for a listing in Shanghai; Zhipu&#39;s Hong Kong-listed shares are up over 10x since its January IPO, giving it an $83B market cap &lpar;Reuters&rpar;](https://www.techmeme.com/260602/p9#a260602p9)
- - [A profile of Valve, which PrivCo estimates generated $5.2B in revenue and $1.5B in net income in 2025, as lawsuits allege its Steam store abuses market power &lpar;Bloomberg&rpar;](https://www.techmeme.com/260602/p8#a260602p8)
- - [SpaceX&#39;s, Anthropic&#39;s, and OpenAI&#39;s IPOs could add up to $4T to US stock market value within months, fueling concerns they could trigger more capital-raising &lpar;The Economist&rpar;](https://www.techmeme.com/260602/p7#a260602p7)<!-- TECH:END -->
+ - [Amazon’s four-day Prime Day begins on June 23rd](https://www.theverge.com/gadgets/940021/amazon-prime-day-2026-june-dates-deals)
+ - [Gemini Spark is the most impressive and terrifying AI experience I’ve had yet](https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning)
+ - [People are leaving a lot of weird stuff in their robotaxis](https://www.theverge.com/transportation/941150/uber-lost-found-robotaxi-items-waymo-motional-avride)
+ - [4 Best Alexa Speakers &lpar;2026&rpar;: Echo Dot Max, Echo Dot, Echo Show 11](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [This is the way: WWDC 2026 attendees get to see &#39;The Mandalorian and Grogu&#39;](https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

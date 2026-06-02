@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shopping with daughter](http://9gag.com/gag/aVvp6Ed)
- - 😝 [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)
- - 💣 [Imagine the chaos](http://9gag.com/gag/a9yxGDo)
+ - 😝 [Cars](http://9gag.com/gag/aE095rp)
+ - 😝 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)
+ - 💣 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
  - 😝 [The memes. The chaos. The moments. Only 7 days until 69 MemeDay \ud83d\udd25](http://9gag.com/gag/aByAevA)
- - 👉 [In iceland](http://9gag.com/gag/aD2K5EB)<!-- MEMES:END -->
+ - 👉 [It&#39;s called a high trust society.](http://9gag.com/gag/agmDzgv)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)
- - 😝 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
- - 💣 [This one brings joy](http://9gag.com/gag/a6Z0Y6q)
- - 😝 [Don&#39;t think you have, mate.](http://9gag.com/gag/aD2KKgZ)
- - 👉 [Cowboys](http://9gag.com/gag/a4PXOL6)<!-- MEMES:END -->
+ - 😝 [F*** This System](http://9gag.com/gag/aXPy6yD)
+ - 😝 [This one brings joy](http://9gag.com/gag/a6Z0Y6q)
+ - 💣 [Does anyone else remember the pink power rangers being this thick ?](http://9gag.com/gag/adBGGjV)
+ - 😝 [RIP Henry Nowak](http://9gag.com/gag/amoeZdj)
+ - 👉 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)<!-- MEMES:END -->
 
 ---
 

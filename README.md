@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn](https://www.wired.com/story/uk-government-palantir-warning-report/)
- - [Trump&#39;s New AI Executive Order Has No Teeth and No Requirements](https://www.cnet.com/tech/services-and-software/trump-ai-executive-order-has-no-requirements/)
- - [Sources: a Broadcom-backed portion of Apollo and Blackstone&#39;s $36B debt deal to buy TPUs for Anthropic to lease may yield ~5.75% vs. 8%-9% for a riskier portion &lpar;Bloomberg&rpar;](https://www.techmeme.com/260602/p62#a260602p62)
- - [State of Play: Wolverine Trailer Unveils Game&#39;s Story, Villains and Combat](https://www.cnet.com/tech/gaming/state-of-play-wolverine-gameplay-trailer/)
- - [God of War Laufey is coming to the PS5](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer)<!-- TECH:END -->
+ - [Current and former Meta employees detail Alexandr Wang&#39;s efforts to revive Meta&#39;s AI edge, as Muse Spark boosts confidence despite lagging rivals in coding &lpar;Hannah Murphy/Financial Times&rpar;](https://www.techmeme.com/260603/p1#a260603p1)
+ - [Peacock Promo Codes: 40% Off June 2026](https://www.wired.com/story/peacock-promo-code/)
+ - [Paramount+ Coupon Codes and Deals for June 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [Valvoline Coupons and Promo Codes for June 2026](https://www.wired.com/story/valvoline-coupons/)
+ - [Bose Promo Code: 40% Off for June 2026](https://www.wired.com/story/bose-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

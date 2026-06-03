@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dreame&amp;#8217;s L20 Ultra robovac is an unbeatable deal for $280](https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale)
- - [Digital i: YouTube overtakes Netflix in average daily viewing globally, rising from 87.2 minutes in 2024 to 99.1 in 2025, while Netflix fell from 100.5 to 93.4 &lpar;Michael Savage/The Guardian&rpar;](https://www.techmeme.com/260603/p39#a260603p39)
- - [Mustafa Suleyman says Microsoft aims to become &quot;one of the top four labs in the world&quot;, and &quot;the pivotal moment was renegotiating our contract with OpenAI&quot; &lpar;The Verge&rpar;](https://www.techmeme.com/260603/p38#a260603p38)
- - [Microsoft and OpenAI broke up — now they’re ready to fight](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition)
- - [Anthropic unveils a Services Track for its Claude Partner Network, a ranking based on what companies built with Claude, and releases a Claude Partner Hub portal &lpar;Belle Lin/Wall Street Journal&rpar;](https://www.techmeme.com/260603/p37#a260603p37)<!-- TECH:END -->
+ - [xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity](https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/)
+ - [Short-sighted: John Ternus behind Apple Vision project refocuses](https://appleinsider.com/articles/26/06/03/short-sighted-john-ternus-behind-apple-vision-project-refocuses?utm_source=rss)
+ - [Elon Musk and America’s Far Right Stoke Anger Over Murder of UK Teen](https://www.wired.com/story/elon-musk-and-americas-far-right-stoke-anger-over-murder-of-uk-teen/)
+ - [Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers](https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/)
+ - [The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain](https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

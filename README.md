@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monica Lewinsky Has Always Hated Notifications](https://www.wired.com/story/monica-lewinsky-user-behavior/)
- - [Layup Parts, which aims to digitize the composite manufacturing supply chain for aerospace, defense, and motorsports, raised a $42M Series A led by Marlinspike &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260603/p15#a260603p15)
- - [What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock](https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/)
- - [Data Center Operators Are Trying to Fix Their Water Use Problems](https://www.wired.com/story/data-center-operators-fix-water-use-problems/)
- - [Best Apple 3-in-1 Travel Chargers &lpar;2026&rpar;: Anker, ESR, Satechi](https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/)<!-- TECH:END -->
+ - [Dreame&amp;#8217;s L20 Ultra robovac is an unbeatable deal for $280](https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale)
+ - [Digital i: YouTube overtakes Netflix in average daily viewing globally, rising from 87.2 minutes in 2024 to 99.1 in 2025, while Netflix fell from 100.5 to 93.4 &lpar;Michael Savage/The Guardian&rpar;](https://www.techmeme.com/260603/p39#a260603p39)
+ - [Mustafa Suleyman says Microsoft aims to become &quot;one of the top four labs in the world&quot;, and &quot;the pivotal moment was renegotiating our contract with OpenAI&quot; &lpar;The Verge&rpar;](https://www.techmeme.com/260603/p38#a260603p38)
+ - [Microsoft and OpenAI broke up — now they’re ready to fight](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition)
+ - [Anthropic unveils a Services Track for its Claude Partner Network, a ranking based on what companies built with Claude, and releases a Claude Partner Hub portal &lpar;Belle Lin/Wall Street Journal&rpar;](https://www.techmeme.com/260603/p37#a260603p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [God of War Laufey is coming to the PS5](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer)
- - [The US sanctions Nobitex, Iran&#39;s largest crypto exchange, accusing it of helping Iran&#39;s government and blacklisted state institutions evade Western sanctions &lpar;Gavin Finch/Reuters&rpar;](https://www.techmeme.com/260602/p61#a260602p61)
- - [Palo Alto Networks reports Q3 revenue up 31% YoY to $3B, including $388M from CyberArk and Chronosphere, vs. $2.94B est., and forecasts Q4 revenue above est. &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260602/p60#a260602p60)
- - [Remedy’s Control sequel launches in September](https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer)
- - [Audible Will Give You Rewards for Listening to More Audiobooks](https://www.cnet.com/tech/services-and-software/audible-rewards-for-listening-to-more-audiobooks/)<!-- TECH:END -->
+ - [Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn](https://www.wired.com/story/uk-government-palantir-warning-report/)
+ - [Trump&#39;s New AI Executive Order Has No Teeth and No Requirements](https://www.cnet.com/tech/services-and-software/trump-ai-executive-order-has-no-requirements/)
+ - [Sources: a Broadcom-backed portion of Apollo and Blackstone&#39;s $36B debt deal to buy TPUs for Anthropic to lease may yield ~5.75% vs. 8%-9% for a riskier portion &lpar;Bloomberg&rpar;](https://www.techmeme.com/260602/p62#a260602p62)
+ - [State of Play: Wolverine Trailer Unveils Game&#39;s Story, Villains and Combat](https://www.cnet.com/tech/gaming/state-of-play-wolverine-gameplay-trailer/)
+ - [God of War Laufey is coming to the PS5](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

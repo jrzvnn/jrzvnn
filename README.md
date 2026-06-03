@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cars](http://9gag.com/gag/aE095rp)
- - 😝 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)
- - 💣 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - 😝 [Pasta La Vista](http://9gag.com/gag/aYQ3X4O)
+ - 😝 [In iceland](http://9gag.com/gag/aD2K5EB)
+ - 💣 [Joke of the century](http://9gag.com/gag/azxWwGp)
  - 😝 [The memes. The chaos. The moments. Only 7 days until 69 MemeDay \ud83d\udd25](http://9gag.com/gag/aByAevA)
- - 👉 [It&#39;s called a high trust society.](http://9gag.com/gag/agmDzgv)<!-- MEMES:END -->
+ - 👉 [True](http://9gag.com/gag/agmDe5K)<!-- MEMES:END -->
 
 ---
 

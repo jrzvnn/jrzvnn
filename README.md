@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Age verification now mandatory for App Store users in Texas](https://appleinsider.com/articles/26/06/03/age-verification-now-mandatory-for-app-store-users-in-texas?utm_source=rss)
- - [Filing: SpaceX aims to raise $75B in its IPO, selling 555.6M shares at $135 each, which would value the company at ~$1.77T &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260603/p55#a260603p55)
- - [WiiM expands its whole-home ecosystem with a new soundbar](https://www.theverge.com/tech/942748/wiim-releases-first-soundbar)
- - [The US and other Five Eyes nations warn that China is flooding online job platforms with fake profiles and offers targeting government and military personnel &lpar;Greg Miller/Washington Post&rpar;](https://www.techmeme.com/260603/p54#a260603p54)
- - [Black Apple Vision Pro rumors stoked by even more photographs](https://appleinsider.com/articles/26/06/03/black-apple-vision-pro-rumors-stoked-by-even-more-photographs?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Lila Sciences, which uses AI tools to speed up the rate of scientific discovery, is in talks to raise a $2B Series B at an expected valuation of ~$8.5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260603/p61#a260603p61)
+ - [Apple TV&#39;s &#39;Prehistoric Planet&#39; brought extinct animals to life with custom instruments](https://appleinsider.com/articles/26/06/03/apple-tvs-prehistoric-planet-brought-extinct-animals-to-life-with-custom-instruments?utm_source=rss)
+ - [Internal documents: Meta is considering tiered pricing for &quot;Hatch&quot;, its planned OpenClaw-like AI agent tool, including a $200-per-month premium subscription &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260603/p60#a260603p60)
+ - [Nvidia acquired Kumo, which sells predictive AI software to enterprises, a source says for $400M+; PitchBook: Kumo raised $37M at a $250M valuation in 2022 &lpar;The Information&rpar;](https://www.techmeme.com/260603/p59#a260603p59)
+ - [Google introduces Gemma 4 12B, a unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260603/p58#a260603p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

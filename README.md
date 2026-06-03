@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cars](http://9gag.com/gag/aE095rp)
- - 😝 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
- - 💣 [She&#39;s made from attitude, sass, and everything that&#39;s ass.](http://9gag.com/gag/aMVoL4P)
- - 😝 [The memes. The chaos. The moments. Only 7 days until 69 MemeDay \ud83d\udd25](http://9gag.com/gag/aByAevA)
- - 👉 [I found this guy, I will keep him and call him churro give him love!](http://9gag.com/gag/aE09mEp)<!-- MEMES:END -->
+ - 😝 [Gottem](http://9gag.com/gag/aoyvQR3)
+ - 😝 [Poor guy](http://9gag.com/gag/aVvpyYO)
+ - 💣 [Valve&#39;s reaction to scalpers buying out all the Steam Controllers on the day it was released](http://9gag.com/gag/avyMKgn)
+ - 😝 [It&#39;s called a high trust society.](http://9gag.com/gag/agmDzgv)
+ - 👉 [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)<!-- MEMES:END -->
 
 ---
 

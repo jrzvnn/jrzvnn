@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F*** This System](http://9gag.com/gag/aXPy6yD)
- - 😝 [This one brings joy](http://9gag.com/gag/a6Z0Y6q)
- - 💣 [Does anyone else remember the pink power rangers being this thick ?](http://9gag.com/gag/adBGGjV)
- - 😝 [RIP Henry Nowak](http://9gag.com/gag/amoeZdj)
- - 👉 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)<!-- MEMES:END -->
+ - 😝 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
+ - 😝 [This is how you share your catch with nature](http://9gag.com/gag/a2v33PE)
+ - 💣 [Japan has no chill](http://9gag.com/gag/aAy8860)
+ - 😝 [Crunchy](http://9gag.com/gag/aryQQQp)
+ - 👉 [Tartar sauce\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/a87RRz6)<!-- MEMES:END -->
 
 ---
 

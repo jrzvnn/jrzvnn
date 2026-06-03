@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
- - 😝 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)
- - 💣 [Imagine being this persistent to cut in line, only to crash](http://9gag.com/gag/aryQQpd)
- - 😝 [I&#39;m not taking any chances](http://9gag.com/gag/adBGGLj)
- - 👉 [This one brings joy](http://9gag.com/gag/a6Z0Y6q)<!-- MEMES:END -->
+ - 😝 [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)
+ - 😝 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
+ - 💣 [This one brings joy](http://9gag.com/gag/a6Z0Y6q)
+ - 😝 [Don&#39;t think you have, mate.](http://9gag.com/gag/aD2KKgZ)
+ - 👉 [Cowboys](http://9gag.com/gag/a4PXOL6)<!-- MEMES:END -->
 
 ---
 

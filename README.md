@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity](https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/)
- - [Short-sighted: John Ternus behind Apple Vision project refocuses](https://appleinsider.com/articles/26/06/03/short-sighted-john-ternus-behind-apple-vision-project-refocuses?utm_source=rss)
- - [Elon Musk and America’s Far Right Stoke Anger Over Murder of UK Teen](https://www.wired.com/story/elon-musk-and-americas-far-right-stoke-anger-over-murder-of-uk-teen/)
- - [Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers](https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/)
- - [The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain](https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/)<!-- TECH:END -->
+ - [Age verification now mandatory for App Store users in Texas](https://appleinsider.com/articles/26/06/03/age-verification-now-mandatory-for-app-store-users-in-texas?utm_source=rss)
+ - [Filing: SpaceX aims to raise $75B in its IPO, selling 555.6M shares at $135 each, which would value the company at ~$1.77T &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260603/p55#a260603p55)
+ - [WiiM expands its whole-home ecosystem with a new soundbar](https://www.theverge.com/tech/942748/wiim-releases-first-soundbar)
+ - [The US and other Five Eyes nations warn that China is flooding online job platforms with fake profiles and offers targeting government and military personnel &lpar;Greg Miller/Washington Post&rpar;](https://www.techmeme.com/260603/p54#a260603p54)
+ - [Black Apple Vision Pro rumors stoked by even more photographs](https://appleinsider.com/articles/26/06/03/black-apple-vision-pro-rumors-stoked-by-even-more-photographs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

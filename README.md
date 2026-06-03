@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gottem](http://9gag.com/gag/aoyvQR3)
- - 😝 [Poor guy](http://9gag.com/gag/aVvpyYO)
- - 💣 [Valve&#39;s reaction to scalpers buying out all the Steam Controllers on the day it was released](http://9gag.com/gag/avyMKgn)
- - 😝 [It&#39;s called a high trust society.](http://9gag.com/gag/agmDzgv)
- - 👉 [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)<!-- MEMES:END -->
+ - 😝 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - 😝 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)
+ - 💣 [Imagine being this persistent to cut in line, only to crash](http://9gag.com/gag/aryQQpd)
+ - 😝 [I&#39;m not taking any chances](http://9gag.com/gag/adBGGLj)
+ - 👉 [This one brings joy](http://9gag.com/gag/a6Z0Y6q)<!-- MEMES:END -->
 
 ---
 

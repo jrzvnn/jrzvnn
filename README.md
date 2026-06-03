@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former Meta employees detail Alexandr Wang&#39;s efforts to revive Meta&#39;s AI edge, as Muse Spark boosts confidence despite lagging rivals in coding &lpar;Hannah Murphy/Financial Times&rpar;](https://www.techmeme.com/260603/p1#a260603p1)
- - [Peacock Promo Codes: 40% Off June 2026](https://www.wired.com/story/peacock-promo-code/)
- - [Paramount+ Coupon Codes and Deals for June 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Valvoline Coupons and Promo Codes for June 2026](https://www.wired.com/story/valvoline-coupons/)
- - [Bose Promo Code: 40% Off for June 2026](https://www.wired.com/story/bose-coupon-code/)<!-- TECH:END -->
+ - [Monica Lewinsky Has Always Hated Notifications](https://www.wired.com/story/monica-lewinsky-user-behavior/)
+ - [Layup Parts, which aims to digitize the composite manufacturing supply chain for aerospace, defense, and motorsports, raised a $42M Series A led by Marlinspike &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260603/p15#a260603p15)
+ - [What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock](https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/)
+ - [Data Center Operators Are Trying to Fix Their Water Use Problems](https://www.wired.com/story/data-center-operators-fix-water-use-problems/)
+ - [Best Apple 3-in-1 Travel Chargers &lpar;2026&rpar;: Anker, ESR, Satechi](https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

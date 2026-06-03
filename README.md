@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pasta La Vista](http://9gag.com/gag/aYQ3X4O)
- - 😝 [In iceland](http://9gag.com/gag/aD2K5EB)
- - 💣 [Joke of the century](http://9gag.com/gag/azxWwGp)
+ - 😝 [Cars](http://9gag.com/gag/aE095rp)
+ - 😝 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - 💣 [She&#39;s made from attitude, sass, and everything that&#39;s ass.](http://9gag.com/gag/aMVoL4P)
  - 😝 [The memes. The chaos. The moments. Only 7 days until 69 MemeDay \ud83d\udd25](http://9gag.com/gag/aByAevA)
- - 👉 [True](http://9gag.com/gag/agmDe5K)<!-- MEMES:END -->
+ - 👉 [I found this guy, I will keep him and call him churro give him love!](http://9gag.com/gag/aE09mEp)<!-- MEMES:END -->
 
 ---
 

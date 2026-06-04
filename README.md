@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at debates over AI consciousness; LLM conversations are cleverly disguised examples of sentence continuation, without denying how impressive LLMs can be &lpar;Ted Chiang/The Atlantic&rpar;](https://www.techmeme.com/260604/p15#a260604p15)
- - [A deep dive into the case for data centers in space, as SpaceX prepares to go public: Elon Musk&#39;s claims, the wider debate, power supply issues, costs, and more &lpar;Daniel Nishball/SemiAnalysis&rpar;](https://www.techmeme.com/260604/p14#a260604p14)
- - [Alpha School’s Ritzy New York City Campus Costs $65,000 a Year—but Isn’t Actually a School](https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/)
- - [SpaceX wins a property tax exemption for its planned $55B Terafab chip facility in Texas, despite Texans threatening legal action, amid local opposition to AI &lpar;Stephanie Findlay/Financial Times&rpar;](https://www.techmeme.com/260604/p13#a260604p13)
- - [CoinGecko: Hyperliquid-linked HYPE token is up ~180% YTD, lifting its market value above $16B and pushing it into the top 10 digital assets by market cap &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p12#a260604p12)<!-- TECH:END -->
+ - [These photos are the best leak yet of iPhone 18 Pro colors](https://appleinsider.com/articles/26/06/04/these-photos-are-the-best-leak-yet-of-iphone-18-pro-colors?utm_source=rss)
+ - [Public First: just 26% of Americans support increased data center construction, the lowest share among 15 large countries, including the UK, Japan, and Canada &lpar;Financial Times&rpar;](https://www.techmeme.com/260604/p28#a260604p28)
+ - [Robotics startup Generalist, which released its GEN-1 model to complete short physical tasks in April, raised $400M led by Radical Ventures at a $2B valuation &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260604/p27#a260604p27)
+ - [London- and NY-based Airspeed, which aims to use AI agents to replace sales software like traditional CRM dashboards, raised a $20M Series A led by DN Capital &lpar;Mike Butcher/Pathfounders&rpar;](https://www.techmeme.com/260604/p26#a260604p26)
+ - [Let us filter AI slop, you cowards](https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

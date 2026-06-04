@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working](https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/)
- - [Flaky OLED MacBook Ultra rumor contradicts more reliable leakers&#39;s timeframes](https://appleinsider.com/articles/26/06/04/flaky-oled-macbook-ultra-rumor-contradicts-more-reliable-leakerss-timeframes?utm_source=rss)
- - [Founders Fund launches a TV-style game show featuring A-list founders and investors, including Sam Altman and Palmer Luckey, playing a game of Mafia &lpar;Tom Dotan/Newcomer&rpar;](https://www.techmeme.com/260604/p39#a260604p39)
- - [Arizona Public Service, the state&#39;s largest utility, proposes a 45% electricity-rate increase for data centers to ensure &quot;that they are paying their fair share&quot; &lpar;Jennifer Hiller/Wall Street Journal&rpar;](https://www.techmeme.com/260604/p38#a260604p38)
- - [Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/)<!-- TECH:END -->
+ - [Unsealed 2020 lawsuit: ex-IBM VP of threat intelligence alleges that IBM and AT&amp;T concealed foreign cyber breaches to maintain eligibility for federal contracts &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p45#a260604p45)
+ - [Cyberdecks used to look like little laptops, but now they&amp;#8217;re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
+ - [Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations &lpar;Financial Times&rpar;](https://www.techmeme.com/260604/p44#a260604p44)
+ - [Sources: Brian Chesky is starting a new AI lab and considering a focus on user interaction and design; he will remain Airbnb CEO and will not be the lab&#39;s CEO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p43#a260604p43)
+ - [iPhone 18 Pro color leaks are yet again just third-party accessories](https://appleinsider.com/articles/26/06/04/these-photos-are-the-best-leak-yet-of-iphone-18-pro-colors?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

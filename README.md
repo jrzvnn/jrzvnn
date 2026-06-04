@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic details its progress toward recursive self-improvement, and its implications, and says 80%+ of the code merged into its codebase is authored by Claude &lpar;Anthropic&rpar;](https://www.techmeme.com/260604/p34#a260604p34)
- - [Coinbase and Better fund the first Fannie Mae-backed mortgage that uses bitcoin as collateral, with a nationwide rollout planned in the coming months &lpar;Yogita Khatri/The Block&rpar;](https://www.techmeme.com/260604/p33#a260604p33)
- - [Wave Cash App’s Magic Wand to Pay for Stuff](https://www.wired.com/story/wave-cash-apps-magic-wand-to-pay-for-stuff/)
- - [Belkin’s new Joy-Con grips also boost the Switch 2’s battery life](https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller)
- - [Cash App made a magic wand for contactless payments](https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch)<!-- TECH:END -->
+ - [Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working](https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/)
+ - [Flaky OLED MacBook Ultra rumor contradicts more reliable leakers&#39;s timeframes](https://appleinsider.com/articles/26/06/04/flaky-oled-macbook-ultra-rumor-contradicts-more-reliable-leakerss-timeframes?utm_source=rss)
+ - [Founders Fund launches a TV-style game show featuring A-list founders and investors, including Sam Altman and Palmer Luckey, playing a game of Mafia &lpar;Tom Dotan/Newcomer&rpar;](https://www.techmeme.com/260604/p39#a260604p39)
+ - [Arizona Public Service, the state&#39;s largest utility, proposes a 45% electricity-rate increase for data centers to ensure &quot;that they are paying their fair share&quot; &lpar;Jennifer Hiller/Wall Street Journal&rpar;](https://www.techmeme.com/260604/p38#a260604p38)
+ - [Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

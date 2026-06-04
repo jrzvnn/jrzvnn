@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
+ - 😝 [Gottem](http://9gag.com/gag/aoyvQR3)
+ - 💣 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)
  - 😝 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
- - 😝 [This is how you share your catch with nature](http://9gag.com/gag/a2v33PE)
- - 💣 [Japan has no chill](http://9gag.com/gag/aAy8860)
- - 😝 [Crunchy](http://9gag.com/gag/aryQQQp)
- - 👉 [Tartar sauce\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/a87RRz6)<!-- MEMES:END -->
+ - 👉 [Imagine being this persistent to cut in line, only to crash](http://9gag.com/gag/aryQQpd)<!-- MEMES:END -->
 
 ---
 

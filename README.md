@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
- - 😝 [Gottem](http://9gag.com/gag/aoyvQR3)
+ - 😝 [F*** This System](http://9gag.com/gag/aXPy6yD)
+ - 😝 [Cowboys](http://9gag.com/gag/a4PXOL6)
  - 💣 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)
  - 😝 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
- - 👉 [Imagine being this persistent to cut in line, only to crash](http://9gag.com/gag/aryQQpd)<!-- MEMES:END -->
+ - 👉 [Just when you think you&#39;ve seen it all.](http://9gag.com/gag/a6Z00MN)<!-- MEMES:END -->
 
 ---
 

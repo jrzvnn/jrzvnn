@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal docs from lawsuits by 1,400 school districts show how social media companies targeted kids: Meta paid &quot;teen ambassadors&quot;, Snap sent school-hour alerts &lpar;Jennifer Valentino-DeVries/New York Times&rpar;](https://www.techmeme.com/260604/p47#a260604p47)
- - [The best solid-state MagSafe batteries for your iPhone in 2026](https://appleinsider.com/inside/iphone/best/the-best-solid-state-magsafe-batteries-for-your-iphone-in-2026?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 5 #824](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-5-824/)
- - [Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US](https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 5, #1090](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-5-1090/)<!-- TECH:END -->
+ - [Sources: US officials have held talks with AI companies about the government acquiring shares; Sam Altman first pitched the concept directly to Trump in 2025 &lpar;NOTUS&rpar;](https://www.techmeme.com/260604/p50#a260604p50)
+ - [Apple&#39;s Supreme Court appeals should be thrown out, says Epic](https://appleinsider.com/articles/26/06/04/apples-supreme-court-appeals-should-be-thrown-out-says-epic?utm_source=rss)
+ - [Valve says it&amp;#8217;s ready to launch the Steam Machine this summer](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified)
+ - [First AI agent for Messages Business Chat approved by Apple](https://appleinsider.com/articles/26/06/04/first-ai-agent-for-messages-business-chat-approved-by-apple?utm_source=rss)
+ - [OpenAI updates ChatGPT memory with a &quot;more capable and compute-efficient&quot; architecture and a summary page that lets users review and steer what it remembers &lpar;OpenAI&rpar;](https://www.techmeme.com/260604/p49#a260604p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

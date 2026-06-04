@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget to thank.](http://9gag.com/gag/aD2KeBO)
- - 😝 [Don&#39;t think you have, mate.](http://9gag.com/gag/aD2KKgZ)
- - 💣 [Tartar sauce\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/a87RRz6)
- - 😝 [True heroes of the gaming world](http://9gag.com/gag/aByApLA)
- - 👉 [Filipino illegal miners dive deep without oxygen tanks](http://9gag.com/gag/aQzLLKe)<!-- MEMES:END -->
+ - 😝 [Gottem](http://9gag.com/gag/aoyvQR3)
+ - 😝 [Valve&#39;s reaction to scalpers buying out all the Steam Controllers on the day it was released](http://9gag.com/gag/avyMKgn)
+ - 💣 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
+ - 😝 [Poor guy](http://9gag.com/gag/aVvpyYO)
+ - 👉 [Just not ok](http://9gag.com/gag/a87RZwY)<!-- MEMES:END -->
 
 ---
 

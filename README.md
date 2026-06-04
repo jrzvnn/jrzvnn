@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based grocery delivery startup FirstClub raised a $55M Series B co-led by Peak XV and Sofina at a $255M valuation, up from $120M in September 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260603/p66#a260603p66)
- - [Quantinuum raised $1.68B in an upsized US IPO, selling 28M shares for $60 each, above its marketed range of $53 to $55, valuing the company at $15.6B &lpar;Carmen Reinicke/Bloomberg&rpar;](https://www.techmeme.com/260603/p65#a260603p65)
- - [OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons](https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/)
- - [iPhone Fold: What We Know So Far About Apple&#39;s 2026 Foldable](https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable/)
- - [Zapping Mosquitos With Lasers Is a Real Thing, Thanks to AI](https://www.cnet.com/science/zapping-mosquitos-with-lasers-and-ai/)<!-- TECH:END -->
+ - [A profile of Anthropic as it prepares to go public and broaden access to Mythos, amid criticism that commercial pressures have eroded its AI safety standards &lpar;Madhumita Murgia/Financial Times&rpar;](https://www.techmeme.com/260604/p9#a260604p9)
+ - [Centralized control over the user experience not only leads to enshittification, but to &quot;despotification&quot;; decentralized protocols bring back democratic ideals &lpar;Mike Masnick/Liberalism.org&rpar;](https://www.techmeme.com/260604/p8#a260604p8)
+ - [A study of Waymo robotaxi data for 13.8M trips from August 2023 to December 2025: the share of miles driven with a passenger onboard climbed from 36% to 56% &lpar;Jonathan M. Gitlin/Ars Technica&rpar;](https://www.techmeme.com/260604/p7#a260604p7)
+ - [How AI tools from Harvey, Legora, and Anthropic are challenging legal tech incumbents like Thomson Reuters and LexisNexis, which are upgrading their products &lpar;James Paton/Financial Times&rpar;](https://www.techmeme.com/260604/p6#a260604p6)
+ - [Sources: OnePay, a fintech app backed by Walmart and valued at $4B+, has 6M MAUs and $50B in annualized payments, double the figures from the previous year &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260604/p5#a260604p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

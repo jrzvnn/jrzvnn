@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unsealed 2020 lawsuit: ex-IBM VP of threat intelligence alleges that IBM and AT&amp;T concealed foreign cyber breaches to maintain eligibility for federal contracts &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p45#a260604p45)
- - [Cyberdecks used to look like little laptops, but now they&amp;#8217;re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
- - [Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations &lpar;Financial Times&rpar;](https://www.techmeme.com/260604/p44#a260604p44)
- - [Sources: Brian Chesky is starting a new AI lab and considering a focus on user interaction and design; he will remain Airbnb CEO and will not be the lab&#39;s CEO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p43#a260604p43)
- - [iPhone 18 Pro color leaks are yet again just third-party accessories](https://appleinsider.com/articles/26/06/04/these-photos-are-the-best-leak-yet-of-iphone-18-pro-colors?utm_source=rss)<!-- TECH:END -->
+ - [Internal docs from lawsuits by 1,400 school districts show how social media companies targeted kids: Meta paid &quot;teen ambassadors&quot;, Snap sent school-hour alerts &lpar;Jennifer Valentino-DeVries/New York Times&rpar;](https://www.techmeme.com/260604/p47#a260604p47)
+ - [The best solid-state MagSafe batteries for your iPhone in 2026](https://appleinsider.com/inside/iphone/best/the-best-solid-state-magsafe-batteries-for-your-iphone-in-2026?utm_source=rss)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 5 #824](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-5-824/)
+ - [Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US](https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 5, #1090](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-5-1090/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uncle&#39;s job](http://9gag.com/gag/a0errEn)
- - 😝 [Tartar sauce\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/a87RRz6)
- - 💣 [Filipino illegal miners dive deep without oxygen tanks](http://9gag.com/gag/aQzLLKe)
- - 😝 [Doggo knows where to find help](http://9gag.com/gag/a4PXv9y)
- - 👉 [Just when you think you&#39;ve seen it all.](http://9gag.com/gag/a6Z00MN)<!-- MEMES:END -->
+ - 😝 [Crunchy](http://9gag.com/gag/aryQQQp)
+ - 😝 [F*** This System](http://9gag.com/gag/aXPy6yD)
+ - 💣 [What the hell is even that??](http://9gag.com/gag/aW4rrEK)
+ - 😝 [Sikh and tired](http://9gag.com/gag/a4PXDby)
+ - 👉 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)<!-- MEMES:END -->
 
 ---
 

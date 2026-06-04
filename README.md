@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gottem](http://9gag.com/gag/aoyvQR3)
- - 😝 [Valve&#39;s reaction to scalpers buying out all the Steam Controllers on the day it was released](http://9gag.com/gag/avyMKgn)
- - 💣 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
- - 😝 [Poor guy](http://9gag.com/gag/aVvpyYO)
- - 👉 [Just not ok](http://9gag.com/gag/a87RZwY)<!-- MEMES:END -->
+ - 😝 [Uncle&#39;s job](http://9gag.com/gag/a0errEn)
+ - 😝 [Tartar sauce\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/a87RRz6)
+ - 💣 [Filipino illegal miners dive deep without oxygen tanks](http://9gag.com/gag/aQzLLKe)
+ - 😝 [Doggo knows where to find help](http://9gag.com/gag/a4PXv9y)
+ - 👉 [Just when you think you&#39;ve seen it all.](http://9gag.com/gag/a6Z00MN)<!-- MEMES:END -->
 
 ---
 

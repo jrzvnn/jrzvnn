@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Lila Sciences, which uses AI tools to speed up the rate of scientific discovery, is in talks to raise a $2B Series B at an expected valuation of ~$8.5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260603/p61#a260603p61)
- - [Apple TV&#39;s &#39;Prehistoric Planet&#39; brought extinct animals to life with custom instruments](https://appleinsider.com/articles/26/06/03/apple-tvs-prehistoric-planet-brought-extinct-animals-to-life-with-custom-instruments?utm_source=rss)
- - [Internal documents: Meta is considering tiered pricing for &quot;Hatch&quot;, its planned OpenClaw-like AI agent tool, including a $200-per-month premium subscription &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260603/p60#a260603p60)
- - [Nvidia acquired Kumo, which sells predictive AI software to enterprises, a source says for $400M+; PitchBook: Kumo raised $37M at a $250M valuation in 2022 &lpar;The Information&rpar;](https://www.techmeme.com/260603/p59#a260603p59)
- - [Google introduces Gemma 4 12B, a unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260603/p58#a260603p58)<!-- TECH:END -->
+ - [Bengaluru-based grocery delivery startup FirstClub raised a $55M Series B co-led by Peak XV and Sofina at a $255M valuation, up from $120M in September 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260603/p66#a260603p66)
+ - [Quantinuum raised $1.68B in an upsized US IPO, selling 28M shares for $60 each, above its marketed range of $53 to $55, valuing the company at $15.6B &lpar;Carmen Reinicke/Bloomberg&rpar;](https://www.techmeme.com/260603/p65#a260603p65)
+ - [OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons](https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/)
+ - [iPhone Fold: What We Know So Far About Apple&#39;s 2026 Foldable](https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable/)
+ - [Zapping Mosquitos With Lasers Is a Real Thing, Thanks to AI](https://www.cnet.com/science/zapping-mosquitos-with-lasers-and-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no, they are in the water now](http://9gag.com/gag/abANN2r)
- - 😝 [We live in a society](http://9gag.com/gag/aW4rw0q)
- - 💣 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
- - 😝 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
- - 👉 [Crunchy](http://9gag.com/gag/aryQQQp)<!-- MEMES:END -->
+ - 😝 [Brendan Fraser&#39;s emotional standing ovation is everything](http://9gag.com/gag/aD2Kyx7)
+ - 😝 [MagiKeeper](http://9gag.com/gag/a9yxoXW)
+ - 💣 [Baaased haha, we need more of this.](http://9gag.com/gag/awyE65x)
+ - 😝 [This one sparks joy](http://9gag.com/gag/axyLX0M)
+ - 👉 [This is what it&#39;s all about](http://9gag.com/gag/aKGQRvN)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These photos are the best leak yet of iPhone 18 Pro colors](https://appleinsider.com/articles/26/06/04/these-photos-are-the-best-leak-yet-of-iphone-18-pro-colors?utm_source=rss)
- - [Public First: just 26% of Americans support increased data center construction, the lowest share among 15 large countries, including the UK, Japan, and Canada &lpar;Financial Times&rpar;](https://www.techmeme.com/260604/p28#a260604p28)
- - [Robotics startup Generalist, which released its GEN-1 model to complete short physical tasks in April, raised $400M led by Radical Ventures at a $2B valuation &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260604/p27#a260604p27)
- - [London- and NY-based Airspeed, which aims to use AI agents to replace sales software like traditional CRM dashboards, raised a $20M Series A led by DN Capital &lpar;Mike Butcher/Pathfounders&rpar;](https://www.techmeme.com/260604/p26#a260604p26)
- - [Let us filter AI slop, you cowards](https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok)<!-- TECH:END -->
+ - [Anthropic details its progress toward recursive self-improvement, and its implications, and says 80%+ of the code merged into its codebase is authored by Claude &lpar;Anthropic&rpar;](https://www.techmeme.com/260604/p34#a260604p34)
+ - [Coinbase and Better fund the first Fannie Mae-backed mortgage that uses bitcoin as collateral, with a nationwide rollout planned in the coming months &lpar;Yogita Khatri/The Block&rpar;](https://www.techmeme.com/260604/p33#a260604p33)
+ - [Wave Cash App’s Magic Wand to Pay for Stuff](https://www.wired.com/story/wave-cash-apps-magic-wand-to-pay-for-stuff/)
+ - [Belkin’s new Joy-Con grips also boost the Switch 2’s battery life](https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller)
+ - [Cash App made a magic wand for contactless payments](https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

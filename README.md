@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the hell is even that??](http://9gag.com/gag/aW4rrEK)
- - 😝 [Crunchy](http://9gag.com/gag/aryQQQp)
- - 💣 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
- - 😝 [Brendan Fraser&#39;s emotional standing ovation is everything](http://9gag.com/gag/aD2Kyx7)
- - 👉 [Does anyone else remember the pink power rangers being this thick ?](http://9gag.com/gag/adBGGjV)<!-- MEMES:END -->
+ - 😝 [Oh no, they are in the water now](http://9gag.com/gag/abANN2r)
+ - 😝 [We live in a society](http://9gag.com/gag/aW4rw0q)
+ - 💣 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
+ - 😝 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
+ - 👉 [Crunchy](http://9gag.com/gag/aryQQQp)<!-- MEMES:END -->
 
 ---
 

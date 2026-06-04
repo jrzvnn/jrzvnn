@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Anthropic as it prepares to go public and broaden access to Mythos, amid criticism that commercial pressures have eroded its AI safety standards &lpar;Madhumita Murgia/Financial Times&rpar;](https://www.techmeme.com/260604/p9#a260604p9)
- - [Centralized control over the user experience not only leads to enshittification, but to &quot;despotification&quot;; decentralized protocols bring back democratic ideals &lpar;Mike Masnick/Liberalism.org&rpar;](https://www.techmeme.com/260604/p8#a260604p8)
- - [A study of Waymo robotaxi data for 13.8M trips from August 2023 to December 2025: the share of miles driven with a passenger onboard climbed from 36% to 56% &lpar;Jonathan M. Gitlin/Ars Technica&rpar;](https://www.techmeme.com/260604/p7#a260604p7)
- - [How AI tools from Harvey, Legora, and Anthropic are challenging legal tech incumbents like Thomson Reuters and LexisNexis, which are upgrading their products &lpar;James Paton/Financial Times&rpar;](https://www.techmeme.com/260604/p6#a260604p6)
- - [Sources: OnePay, a fintech app backed by Walmart and valued at $4B+, has 6M MAUs and $50B in annualized payments, double the figures from the previous year &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260604/p5#a260604p5)<!-- TECH:END -->
+ - [A look at debates over AI consciousness; LLM conversations are cleverly disguised examples of sentence continuation, without denying how impressive LLMs can be &lpar;Ted Chiang/The Atlantic&rpar;](https://www.techmeme.com/260604/p15#a260604p15)
+ - [A deep dive into the case for data centers in space, as SpaceX prepares to go public: Elon Musk&#39;s claims, the wider debate, power supply issues, costs, and more &lpar;Daniel Nishball/SemiAnalysis&rpar;](https://www.techmeme.com/260604/p14#a260604p14)
+ - [Alpha School’s Ritzy New York City Campus Costs $65,000 a Year—but Isn’t Actually a School](https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/)
+ - [SpaceX wins a property tax exemption for its planned $55B Terafab chip facility in Texas, despite Texans threatening legal action, amid local opposition to AI &lpar;Stephanie Findlay/Financial Times&rpar;](https://www.techmeme.com/260604/p13#a260604p13)
+ - [CoinGecko: Hyperliquid-linked HYPE token is up ~180% YTD, lifting its market value above $16B and pushing it into the top 10 digital assets by market cap &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p12#a260604p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F*** This System](http://9gag.com/gag/aXPy6yD)
- - 😝 [Cowboys](http://9gag.com/gag/a4PXOL6)
- - 💣 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)
- - 😝 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
- - 👉 [Just when you think you&#39;ve seen it all.](http://9gag.com/gag/a6Z00MN)<!-- MEMES:END -->
+ - 😝 [Never forget to thank.](http://9gag.com/gag/aD2KeBO)
+ - 😝 [Don&#39;t think you have, mate.](http://9gag.com/gag/aD2KKgZ)
+ - 💣 [Tartar sauce\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/a87RRz6)
+ - 😝 [True heroes of the gaming world](http://9gag.com/gag/aByApLA)
+ - 👉 [Filipino illegal miners dive deep without oxygen tanks](http://9gag.com/gag/aQzLLKe)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So, you saved all your items \u2018till you needed them and now the game is over.](http://9gag.com/gag/aND76Br)
  - 😝 [True heroes of the gaming world](http://9gag.com/gag/aByApLA)
- - 💣 [MagiKeeper](http://9gag.com/gag/a9yxoXW)
- - 😝 [This is what it&#39;s all about](http://9gag.com/gag/aKGQRvN)
+ - 😝 [MagiKeeper](http://9gag.com/gag/a9yxoXW)
+ - 💣 [This is what it&#39;s all about](http://9gag.com/gag/aKGQRvN)
+ - 😝 [So, you saved all your items \u2018till you needed them and now the game is over.](http://9gag.com/gag/aND76Br)
  - 👉 [I wonder what killed it](http://9gag.com/gag/avyM3WM)<!-- MEMES:END -->
 
 ---

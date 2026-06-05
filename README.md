@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)
  - 😝 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
- - 💣 [Are you for equality?](http://9gag.com/gag/aE09LD9)
- - 😝 [We live in a society](http://9gag.com/gag/aW4rw0q)
- - 👉 [Life in a nutshell](http://9gag.com/gag/agmDPEn)<!-- MEMES:END -->
+ - 😝 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
+ - 💣 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)
+ - 😝 [When tech is built with values, everyone wins. A reminder of why open-source matters.](http://9gag.com/gag/a34692Q)
+ - 👉 [Are you for equality?](http://9gag.com/gag/aE09LD9)<!-- MEMES:END -->
 
 ---
 

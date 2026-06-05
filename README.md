@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confidence is key \ud83d\udcaa\ud83c\udffb](http://9gag.com/gag/aW4rrP6)
- - 😝 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
- - 💣 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)
- - 😝 [Russian fuel convoys continue rushing toward occupied Crimea along the Tavrida Highway, knowing they are being watched.](http://9gag.com/gag/ae9nopQ)
- - 👉 [Are you for equality?](http://9gag.com/gag/aE09LD9)<!-- MEMES:END -->
+ - 😝 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
+ - 😝 [Are you for equality?](http://9gag.com/gag/aE09LD9)
+ - 💣 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
+ - 😝 [Once again asking for a moment of silence while rewatching the boys \u2026 never forgetti](http://9gag.com/gag/aVvpp6M)
+ - 👉 [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)<!-- MEMES:END -->
 
 ---
 

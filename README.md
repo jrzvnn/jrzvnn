@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brendan Fraser&#39;s emotional standing ovation is everything](http://9gag.com/gag/aD2Kyx7)
- - 😝 [MagiKeeper](http://9gag.com/gag/a9yxoXW)
- - 💣 [Baaased haha, we need more of this.](http://9gag.com/gag/awyE65x)
- - 😝 [This one sparks joy](http://9gag.com/gag/axyLX0M)
- - 👉 [This is what it&#39;s all about](http://9gag.com/gag/aKGQRvN)<!-- MEMES:END -->
+ - 😝 [`Nuke it from orbit. It&#39;s the only way to be sure.` - Ellen Ripley](http://9gag.com/gag/aND7NbA)
+ - 😝 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)
+ - 💣 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
+ - 😝 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
+ - 👉 [When the projector was the cool kid](http://9gag.com/gag/aGymWZ5)<!-- MEMES:END -->
 
 ---
 

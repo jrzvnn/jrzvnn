@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Reid Hoffman, who has served on Microsoft&#39;s board since 2017, will not stand for re-election at the company&#39;s 2026 annual meeting &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260605/p18#a260605p18)
- - [Sources: SpaceX prepares the largest retail allocation ever attempted in a megacap IPO, seeking to reserve as much as 25% of its $75B float for retail investors &lpar;Financial Times&rpar;](https://www.techmeme.com/260605/p17#a260605p17)
- - [The DOGE Boys Get VC Funding to Support Their Latest Enterprise](https://www.wired.com/story/the-doge-boys-get-vc-funding-to-support-their-latest-enterprise/)
- - [Has Microsoft Lost Its Mojo &lpar;Again&rpar;?](https://www.wired.com/story/has-microsoft-lost-its-mojo-again/)
- - [In an internal message, Satya Nadella rebuked an internal memo that said Microsoft needs to &quot;make people addicted&quot; to its new AI agent product called Scout &lpar;Aaron Holmes/The Information&rpar;](https://www.techmeme.com/260605/p16#a260605p16)<!-- TECH:END -->
+ - [Sources say xAI used Claude models for distillation and training, including using personal accounts and the intermediary service Blackbox AI after being cut off &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260605/p22#a260605p22)
+ - [The Sonos Era 100 speaker is down to its lowest price in months](https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale)
+ - [How to watch WWDC 2026 live on Apple TV, YouTube, Safari &amp; web browsers](https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2026-live-on-apple-tv-youtube-safari-web-browsers?utm_source=rss)
+ - [The largest US banks plan to launch a tokenized deposit network in 2027 to connect traditional payment rails with the infrastructure that digital assets run on &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260605/p21#a260605p21)
+ - [Latest foldable iPhone leak improbably says Apple hasn&#39;t decided on colors yet](https://appleinsider.com/articles/26/06/05/latest-foldable-iphone-leak-improbably-says-apple-hasnt-decided-on-colors-yet?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

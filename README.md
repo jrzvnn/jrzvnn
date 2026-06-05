@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best side of internet](http://9gag.com/gag/ayNbGQb)
- - 😝 [Brendan Fraser&#39;s emotional standing ovation is everything](http://9gag.com/gag/aD2Kyx7)
+ - 😝 [So, you saved all your items \u2018till you needed them and now the game is over.](http://9gag.com/gag/aND76Br)
+ - 😝 [True heroes of the gaming world](http://9gag.com/gag/aByApLA)
  - 💣 [MagiKeeper](http://9gag.com/gag/a9yxoXW)
- - 😝 [Remember when a tan suit was the biggest scandal good times](http://9gag.com/gag/abAN9DX)
- - 👉 [True heroes of the gaming world](http://9gag.com/gag/aByApLA)<!-- MEMES:END -->
+ - 😝 [This is what it&#39;s all about](http://9gag.com/gag/aKGQRvN)
+ - 👉 [I wonder what killed it](http://9gag.com/gag/avyM3WM)<!-- MEMES:END -->
 
 ---
 

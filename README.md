@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-5/)
- - [30% Off Canon Promo Codes | June 2026](https://www.wired.com/story/canon-promo-code/)
- - [LG Promo Codes and Coupons for June 2026](https://www.wired.com/story/lg-promo-code/)
- - [The Motley Fool Promo Code: $200 Off on Stock Advisor June 2026](https://www.wired.com/story/the-motley-fool-promo-code/)
- - [Dell Coupon Codes: 20% Off for June 2026](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Why Apple Might Put Cameras Into Its Next AirPods](https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/)
+ - [University of Cambridge researchers say they have developed the first vaccine with a key component entirely designed by AI and subsequently trialed it in humans &lpar;James Gallagher/BBC&rpar;](https://www.techmeme.com/260605/p5#a260605p5)
+ - [The Best Pool Accessories to Upgrade Your Summer &lpar;2026&rpar;](https://www.wired.com/story/best-pool-accessories/)
+ - [‘Doo Doo Water and a Few Needles’: Inside the Mystery of the New York City Manhole Prowlers](https://www.wired.com/story/new-york-city-manhole-mole-people-urban-explorers/)
+ - [OpenAI confirms it will comply with President Trump&#39;s EO that asks AI companies to allow the US government to assess their models&#39; capabilities before release &lpar;Michael Considine/CNBC&rpar;](https://www.techmeme.com/260605/p4#a260605p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Google has agreed to pay SpaceX $920M a month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029 &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/260605/p26#a260605p26)
- - [Gone in 60 minutes](https://www.theverge.com/entertainment/944337/gone-in-60-minutes)
- - [Sources: Revolut is looking to run a secondary share sale that would value it at $115B, after receiving a UK bank license and applying for a charter in the US &lpar;Bloomberg&rpar;](https://www.techmeme.com/260605/p25#a260605p25)
- - [President Trump says he is weighing proposals for the US government to partner with major AI companies, and will soon discuss the idea with their executives &lpar;Bloomberg&rpar;](https://www.techmeme.com/260605/p24#a260605p24)
- - [Sources: Meta is exploring a stock offering to raise tens of billions of dollars to fund AI capital expenditures, following Google&#39;s record $85B share deal &lpar;Financial Times&rpar;](https://www.techmeme.com/260605/p23#a260605p23)<!-- TECH:END -->
+ - [Summer Game Fest Live 2026: The biggest news, trailers, and announcements](https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements)
+ - [US-traded chipmakers plunged on Friday, after Broadcom missed expectations; Nvidia fell 6.19%, Micron fell 13.25%, AMD fell 10.86%, and Broadcom 7.92% &lpar;Noel Randewich/Reuters&rpar;](https://www.techmeme.com/260605/p29#a260605p29)
+ - [Bitcoin falls below $60K, its lowest level since October 2024, amid a record streak of bitcoin ETF outflows following Strategy&#39;s bitcoin sale &lpar;CNBC&rpar;](https://www.techmeme.com/260605/p28#a260605p28)
+ - [Sources: AI coding startup Lovable is in talks to raise funding at a $12B valuation, up from $6.6B in December 2025 &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260605/p27#a260605p27)
+ - [Samsung Health App Gets AI Upgrade Before Rumored Galaxy Watch 9 Launch](https://www.cnet.com/tech/services-and-software/samsung-health-app-ai-upgrade-before-samsung-galaxy-watch-9-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

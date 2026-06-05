@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources say xAI used Claude models for distillation and training, including using personal accounts and the intermediary service Blackbox AI after being cut off &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260605/p22#a260605p22)
- - [The Sonos Era 100 speaker is down to its lowest price in months](https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale)
- - [How to watch WWDC 2026 live on Apple TV, YouTube, Safari &amp; web browsers](https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2026-live-on-apple-tv-youtube-safari-web-browsers?utm_source=rss)
- - [The largest US banks plan to launch a tokenized deposit network in 2027 to connect traditional payment rails with the infrastructure that digital assets run on &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260605/p21#a260605p21)
- - [Latest foldable iPhone leak improbably says Apple hasn&#39;t decided on colors yet](https://appleinsider.com/articles/26/06/05/latest-foldable-iphone-leak-improbably-says-apple-hasnt-decided-on-colors-yet?utm_source=rss)<!-- TECH:END -->
+ - [Filing: Google has agreed to pay SpaceX $920M a month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029 &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/260605/p26#a260605p26)
+ - [Gone in 60 minutes](https://www.theverge.com/entertainment/944337/gone-in-60-minutes)
+ - [Sources: Revolut is looking to run a secondary share sale that would value it at $115B, after receiving a UK bank license and applying for a charter in the US &lpar;Bloomberg&rpar;](https://www.techmeme.com/260605/p25#a260605p25)
+ - [President Trump says he is weighing proposals for the US government to partner with major AI companies, and will soon discuss the idea with their executives &lpar;Bloomberg&rpar;](https://www.techmeme.com/260605/p24#a260605p24)
+ - [Sources: Meta is exploring a stock offering to raise tens of billions of dollars to fund AI capital expenditures, following Google&#39;s record $85B share deal &lpar;Financial Times&rpar;](https://www.techmeme.com/260605/p23#a260605p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

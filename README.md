@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US officials have held talks with AI companies about the government acquiring shares; Sam Altman first pitched the concept directly to Trump in 2025 &lpar;NOTUS&rpar;](https://www.techmeme.com/260604/p50#a260604p50)
- - [Apple&#39;s Supreme Court appeals should be thrown out, says Epic](https://appleinsider.com/articles/26/06/04/apples-supreme-court-appeals-should-be-thrown-out-says-epic?utm_source=rss)
- - [Valve says it&amp;#8217;s ready to launch the Steam Machine this summer](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified)
- - [First AI agent for Messages Business Chat approved by Apple](https://appleinsider.com/articles/26/06/04/first-ai-agent-for-messages-business-chat-approved-by-apple?utm_source=rss)
- - [OpenAI updates ChatGPT memory with a &quot;more capable and compute-efficient&quot; architecture and a summary page that lets users review and steer what it remembers &lpar;OpenAI&rpar;](https://www.techmeme.com/260604/p49#a260604p49)<!-- TECH:END -->
+ - [An interview with Naomi Gleit, Meta&#39;s head of product who joined the company 20 years ago, on Zuckerberg&#39;s &quot;unfair&quot; reputation, AI agents&#39; capabilities, more &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260604/p54#a260604p54)
+ - [Denver-based Scotch, which makes AI-powered payments tools for liquor retailers, raised a $20M Series A from VMG Partners, following a $10M seed in 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260604/p53#a260604p53)
+ - [Cloudflare CEO Matthew Prince says agentic traffic is &quot;growing so fast that bots have now passed human traffic online for the first time&quot; &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260604/p52#a260604p52)
+ - [Mova LiDAX Ultra Lawn Mower review: Mostly hands-off lawn care](https://appleinsider.com/articles/26/06/05/mova-lidax-ultra-lawn-mower-review-mostly-hands-off-lawn-care?utm_source=rss)
+ - [Anthropic calls for top AI labs to weigh slowing or temporarily pausing development, suggesting that self-improving AI systems may soon pose societal risks &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260604/p51#a260604p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

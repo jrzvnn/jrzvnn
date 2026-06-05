@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Naomi Gleit, Meta&#39;s head of product who joined the company 20 years ago, on Zuckerberg&#39;s &quot;unfair&quot; reputation, AI agents&#39; capabilities, more &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260604/p54#a260604p54)
- - [Denver-based Scotch, which makes AI-powered payments tools for liquor retailers, raised a $20M Series A from VMG Partners, following a $10M seed in 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260604/p53#a260604p53)
- - [Cloudflare CEO Matthew Prince says agentic traffic is &quot;growing so fast that bots have now passed human traffic online for the first time&quot; &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260604/p52#a260604p52)
- - [Mova LiDAX Ultra Lawn Mower review: Mostly hands-off lawn care](https://appleinsider.com/articles/26/06/05/mova-lidax-ultra-lawn-mower-review-mostly-hands-off-lawn-care?utm_source=rss)
- - [Anthropic calls for top AI labs to weigh slowing or temporarily pausing development, suggesting that self-improving AI systems may soon pose societal risks &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260604/p51#a260604p51)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, June 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-5/)
+ - [30% Off Canon Promo Codes | June 2026](https://www.wired.com/story/canon-promo-code/)
+ - [LG Promo Codes and Coupons for June 2026](https://www.wired.com/story/lg-promo-code/)
+ - [The Motley Fool Promo Code: $200 Off on Stock Advisor June 2026](https://www.wired.com/story/the-motley-fool-promo-code/)
+ - [Dell Coupon Codes: 20% Off for June 2026](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

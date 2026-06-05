@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Apple Might Put Cameras Into Its Next AirPods](https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/)
- - [University of Cambridge researchers say they have developed the first vaccine with a key component entirely designed by AI and subsequently trialed it in humans &lpar;James Gallagher/BBC&rpar;](https://www.techmeme.com/260605/p5#a260605p5)
- - [The Best Pool Accessories to Upgrade Your Summer &lpar;2026&rpar;](https://www.wired.com/story/best-pool-accessories/)
- - [‘Doo Doo Water and a Few Needles’: Inside the Mystery of the New York City Manhole Prowlers](https://www.wired.com/story/new-york-city-manhole-mole-people-urban-explorers/)
- - [OpenAI confirms it will comply with President Trump&#39;s EO that asks AI companies to allow the US government to assess their models&#39; capabilities before release &lpar;Michael Considine/CNBC&rpar;](https://www.techmeme.com/260605/p4#a260605p4)<!-- TECH:END -->
+ - [I customized a MacBook Neo with colorful spare parts](https://www.theverge.com/tech/942839/macbook-neo-customization-color-mods-official-parts-frankenlaptop)
+ - [FCC Chair Brendan Carr says the agency will review E-Rate, a $3B annual program subsidizing school and library internet access, amid kids&#39; screen time concerns &lpar;Finya Swai/The Hill&rpar;](https://www.techmeme.com/260605/p10#a260605p10)
+ - [Chinese regulator CSRC tightens oversight of the country&#39;s ~$3.4T private fund industry; the CSRC says it will encourage tech-focused VC investments and more &lpar;Reuters&rpar;](https://www.techmeme.com/260605/p9#a260605p9)
+ - [EveryPlate Meal Kit Review &lpar;2026&rpar;: Low Cost, Simplicity, Flavor](https://www.wired.com/review/everyplate-meal-kit-review-2026/)
+ - [The 7 Must-Try Fitness Apps for Home or Gym Workouts](https://www.cnet.com/health/fitness/best-workout-apps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

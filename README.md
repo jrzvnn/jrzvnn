@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
- - 😝 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
- - 💣 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)
+ - 😝 [`Nuke it from orbit. It&#39;s the only way to be sure.` - Ellen Ripley](http://9gag.com/gag/aND7NbA)
+ - 😝 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)
+ - 💣 [SWAT storms southwest flight](http://9gag.com/gag/aryQ6Z6)
  - 😝 [When tech is built with values, everyone wins. A reminder of why open-source matters.](http://9gag.com/gag/a34692Q)
  - 👉 [Are you for equality?](http://9gag.com/gag/aE09LD9)<!-- MEMES:END -->
 

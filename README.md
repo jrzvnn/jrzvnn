@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True heroes of the gaming world](http://9gag.com/gag/aByApLA)
- - 😝 [MagiKeeper](http://9gag.com/gag/a9yxoXW)
- - 💣 [This is what it&#39;s all about](http://9gag.com/gag/aKGQRvN)
- - 😝 [So, you saved all your items \u2018till you needed them and now the game is over.](http://9gag.com/gag/aND76Br)
- - 👉 [I wonder what killed it](http://9gag.com/gag/avyM3WM)<!-- MEMES:END -->
+ - 😝 [She&#39;s focus, commitment, sheer will... something you know very little about](http://9gag.com/gag/aO8MMn3)
+ - 😝 [Life in a nutshell](http://9gag.com/gag/agmDPEn)
+ - 💣 [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)
+ - 😝 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
+ - 👉 [That chair has some serious power](http://9gag.com/gag/aPAEKOK)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Summer Game Fest Live 2026: The biggest news, trailers, and announcements](https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements)
- - [US-traded chipmakers plunged on Friday, after Broadcom missed expectations; Nvidia fell 6.19%, Micron fell 13.25%, AMD fell 10.86%, and Broadcom 7.92% &lpar;Noel Randewich/Reuters&rpar;](https://www.techmeme.com/260605/p29#a260605p29)
- - [Bitcoin falls below $60K, its lowest level since October 2024, amid a record streak of bitcoin ETF outflows following Strategy&#39;s bitcoin sale &lpar;CNBC&rpar;](https://www.techmeme.com/260605/p28#a260605p28)
- - [Sources: AI coding startup Lovable is in talks to raise funding at a $12B valuation, up from $6.6B in December 2025 &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260605/p27#a260605p27)
- - [Samsung Health App Gets AI Upgrade Before Rumored Galaxy Watch 9 Launch](https://www.cnet.com/tech/services-and-software/samsung-health-app-ai-upgrade-before-samsung-galaxy-watch-9-launch/)<!-- TECH:END -->
+ - [Marvell and Flex, a contract manufacturer for electronics, will join the S&amp;P 500; MRVL jumps 6%+ after hours after closing down 16.74% amid a broader sell-off &lpar;Kif Leswing/CNBC&rpar;](https://www.techmeme.com/260605/p33#a260605p33)
+ - [Control Resonant is a sequel — and also a starting point](https://www.theverge.com/games/944151/control-resonant-hands-on)
+ - [Source: OpenAI and White House are discussing a government stake in the company, to seed something like the &quot;Public Wealth Fund&quot; that OpenAI outlined earlier &lpar;CNBC&rpar;](https://www.techmeme.com/260605/p32#a260605p32)
+ - [Sources: Apollo and Blackstone finalized a $35B package for Anthropic to lease TPUs; Broadcom is backstopping payments on the debt&#39;s largest senior portions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260605/p31#a260605p31)
+ - [Trump signs a national security memorandum seeking to &quot;accelerate the use of AI across intelligence and warfighting domains in line with American values&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260605/p30#a260605p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

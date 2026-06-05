@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I customized a MacBook Neo with colorful spare parts](https://www.theverge.com/tech/942839/macbook-neo-customization-color-mods-official-parts-frankenlaptop)
- - [FCC Chair Brendan Carr says the agency will review E-Rate, a $3B annual program subsidizing school and library internet access, amid kids&#39; screen time concerns &lpar;Finya Swai/The Hill&rpar;](https://www.techmeme.com/260605/p10#a260605p10)
- - [Chinese regulator CSRC tightens oversight of the country&#39;s ~$3.4T private fund industry; the CSRC says it will encourage tech-focused VC investments and more &lpar;Reuters&rpar;](https://www.techmeme.com/260605/p9#a260605p9)
- - [EveryPlate Meal Kit Review &lpar;2026&rpar;: Low Cost, Simplicity, Flavor](https://www.wired.com/review/everyplate-meal-kit-review-2026/)
- - [The 7 Must-Try Fitness Apps for Home or Gym Workouts](https://www.cnet.com/health/fitness/best-workout-apps/)<!-- TECH:END -->
+ - [Filing: Reid Hoffman, who has served on Microsoft&#39;s board since 2017, will not stand for re-election at the company&#39;s 2026 annual meeting &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260605/p18#a260605p18)
+ - [Sources: SpaceX prepares the largest retail allocation ever attempted in a megacap IPO, seeking to reserve as much as 25% of its $75B float for retail investors &lpar;Financial Times&rpar;](https://www.techmeme.com/260605/p17#a260605p17)
+ - [The DOGE Boys Get VC Funding to Support Their Latest Enterprise](https://www.wired.com/story/the-doge-boys-get-vc-funding-to-support-their-latest-enterprise/)
+ - [Has Microsoft Lost Its Mojo &lpar;Again&rpar;?](https://www.wired.com/story/has-microsoft-lost-its-mojo-again/)
+ - [In an internal message, Satya Nadella rebuked an internal memo that said Microsoft needs to &quot;make people addicted&quot; to its new AI agent product called Scout &lpar;Aaron Holmes/The Information&rpar;](https://www.techmeme.com/260605/p16#a260605p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

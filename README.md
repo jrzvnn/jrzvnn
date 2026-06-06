@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
  - 😝 [Interesting Personality](http://9gag.com/gag/ae9nvA5)
+ - 😝 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
  - 💣 [Are you for equality?](http://9gag.com/gag/aE09LD9)
- - 😝 [When tech is built with values, everyone wins. A reminder of why open-source matters.](http://9gag.com/gag/a34692Q)
+ - 😝 [Fact](http://9gag.com/gag/aMVop91)
  - 👉 [It is mandatory for a model to have a good teeth](http://9gag.com/gag/a0erA2Q)<!-- MEMES:END -->
 
 ---

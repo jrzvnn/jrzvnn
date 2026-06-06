@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys should we dating someone younger?](http://9gag.com/gag/aPAEOvg)
- - 😝 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
- - 💣 [SWAT storms southwest flight](http://9gag.com/gag/aryQ6Z6)
+ - 😝 [Alternate reality](http://9gag.com/gag/a7oYj1b)
+ - 😝 [Let that sink in](http://9gag.com/gag/aZZ69M9)
+ - 💣 [They\u2019ll be back for you to fix the broken windows](http://9gag.com/gag/aD2KB7d)
  - 😝 [The mop](http://9gag.com/gag/a7oYj6L)
- - 👉 [It is mandatory for a model to have a good teeth](http://9gag.com/gag/a0erA2Q)<!-- MEMES:END -->
+ - 👉 [Don&#39;t break your legs!](http://9gag.com/gag/aW4rVbx)<!-- MEMES:END -->
 
 ---
 

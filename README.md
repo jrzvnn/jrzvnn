@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Biker Gets Pushed Into Oncoming Traffic](http://9gag.com/gag/aD2KE1K)
+ - 😝 [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)
  - 😝 [Amy Adam\u2019s gave birth to a Scarlet Johansson clone](http://9gag.com/gag/ayNbO5p)
  - 💣 [Life in a nutshell](http://9gag.com/gag/agmDPEn)
- - 😝 [Doin my part](http://9gag.com/gag/aO8MgAv)
+ - 😝 [Life was very hard in the Dark Ages](http://9gag.com/gag/a87RPvO)
  - 👉 [Are you for equality?](http://9gag.com/gag/aE09LD9)<!-- MEMES:END -->
 
 ---

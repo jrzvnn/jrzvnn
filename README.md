@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)
+ - [You Could Be Eligible to Claim Part of Apple&#39;s $250 Million AI iPhone Settlement. Here&#39;s How](https://www.cnet.com/tech/mobile/how-to-collect-on-apples-250-million-ai-settlement/)
  - [White House AI advisor Sriram Krishnan says he will leave his role at the end of June; sources: Krishnan plans to start a pro-Trump AI policy institution &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260606/p9#a260606p9)
  - [Summer Game Fest 2026: All the news from gaming&amp;#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)
- - [4K Blu-rays are three for $33 ahead of Father’s Day](https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale)
- - [As Microsoft Took the Stage, AI Data Center Protesters Took to the Street](https://www.cnet.com/tech/services-and-software/microsoft-build-2026-ai-data-centers-protesters/)<!-- TECH:END -->
+ - [4K Blu-rays are three for $33 ahead of Father’s Day](https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

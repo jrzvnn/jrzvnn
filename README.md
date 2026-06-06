@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and docs detail defense tech startup Shield AI&#39;s struggles to overcome years of technical hitches and safety concerns with its V-BAT autonomous drone &lpar;David Jeans/Reuters&rpar;](https://www.techmeme.com/260605/p34#a260605p34)
- - [More than a decade later, the team behind N++ is back with a multiplayer sequel](https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel)
- - [Grand Theft Auto VI is warping the video game release calendar](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest)
- - [Best Running Shoes, Tested and Reviewed &lpar;2026&rpar;: Saucony, Adidas, Hoka](https://www.wired.com/gallery/best-running-shoes/)
- - [Final Fantasy VII&amp;#8217;s remake trilogy will conclude with Revelation](https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement)<!-- TECH:END -->
+ - [Google Cloud says its SpaceX compute deal is a &quot;short-term&quot; agreement &quot;to ensure we have bridge capacity to meet surging customer demand&quot; for Gemini Enterprise &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260605/p36#a260605p36)
+ - [Privacy token Zcash plunges after the disclosure of a 2022 vulnerability in its Orchard shielded pool that could have allowed undetectable ZEC counterfeiting &lpar;Akash Girimath/Decrypt&rpar;](https://www.techmeme.com/260605/p35#a260605p35)
+ - [Final Fantasy 7 Revelation Wraps Up the Remake Trilogy in 2027](https://www.cnet.com/tech/gaming/final-fantasy-7-revelation-remake-2027/)
+ - [14 of the Best Peacock Shows to Watch This Weekend](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-peacock-june-2026/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 6, #621](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-6-621/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

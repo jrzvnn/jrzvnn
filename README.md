@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Cloud says its SpaceX compute deal is a &quot;short-term&quot; agreement &quot;to ensure we have bridge capacity to meet surging customer demand&quot; for Gemini Enterprise &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260605/p36#a260605p36)
- - [Privacy token Zcash plunges after the disclosure of a 2022 vulnerability in its Orchard shielded pool that could have allowed undetectable ZEC counterfeiting &lpar;Akash Girimath/Decrypt&rpar;](https://www.techmeme.com/260605/p35#a260605p35)
- - [Final Fantasy 7 Revelation Wraps Up the Remake Trilogy in 2027](https://www.cnet.com/tech/gaming/final-fantasy-7-revelation-remake-2027/)
- - [14 of the Best Peacock Shows to Watch This Weekend](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-peacock-june-2026/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 6, #621](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-6-621/)<!-- TECH:END -->
+ - [Sources: Uber has committed nearly $500M to self-driving startup Nuro, providing a crucial runway as Nuro works to prove its technology at commercial scale &lpar;Abhirup Roy/Reuters&rpar;](https://www.techmeme.com/260606/p3#a260606p3)
+ - [Kepple: seed-stage startup funding in Japan fell 42% YoY in 2025 to a 10-year low of $124M, as the Tokyo Stock Exchange moves to reduce small listings &lpar;Ami Yamada/Nikkei Asia&rpar;](https://www.techmeme.com/260606/p2#a260606p2)
+ - [SoftBank&#39;s PayPay, Japan&#39;s dominant payments app, says it will take a 70.2% stake in T&amp;D Financial Life Insurance for $840M, expected to close in October 2027 &lpar;Mayumi Negishi/Bloomberg&rpar;](https://www.techmeme.com/260606/p1#a260606p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, June 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-june-6/)
+ - [OpenAI rolls out Lockdown Mode, an optional security setting designed to offer users advanced protection from prompt injection attacks by limiting some features &lpar;Igor Bonifacic/Engadget&rpar;](https://www.techmeme.com/260605/p37#a260605p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

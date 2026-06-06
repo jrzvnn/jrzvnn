@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Nuke it from orbit. It&#39;s the only way to be sure.` - Ellen Ripley](http://9gag.com/gag/aND7NbA)
- - 😝 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)
- - 💣 [SWAT storms southwest flight](http://9gag.com/gag/aryQ6Z6)
- - 😝 [When tech is built with values, everyone wins. A reminder of why open-source matters.](http://9gag.com/gag/a34692Q)
+ - 😝 [Biker Gets Pushed Into Oncoming Traffic](http://9gag.com/gag/aD2KE1K)
+ - 😝 [Amy Adam\u2019s gave birth to a Scarlet Johansson clone](http://9gag.com/gag/ayNbO5p)
+ - 💣 [Life in a nutshell](http://9gag.com/gag/agmDPEn)
+ - 😝 [Doin my part](http://9gag.com/gag/aO8MgAv)
  - 👉 [Are you for equality?](http://9gag.com/gag/aE09LD9)<!-- MEMES:END -->
 
 ---

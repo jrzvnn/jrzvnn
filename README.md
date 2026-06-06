@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American dream](http://9gag.com/gag/aD2KBgZ)
- - 😝 [Interesting Personality](http://9gag.com/gag/ae9nvA5)
- - 💣 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
- - 😝 [It is mandatory for a model to have a good teeth](http://9gag.com/gag/a0erA2Q)
- - 👉 [Are you for equality?](http://9gag.com/gag/aE09LD9)<!-- MEMES:END -->
+ - 😝 [That chair has some serious power](http://9gag.com/gag/aPAEKOK)
+ - 😝 [Time to feel human](http://9gag.com/gag/aoyvrbX)
+ - 💣 [The turnaround could be Nice](http://9gag.com/gag/azxWNjm)
+ - 😝 [With friends like this, who needs enemies\u2026..](http://9gag.com/gag/aoyvrze)
+ - 👉 [Let that sink in](http://9gag.com/gag/aZZ69M9)<!-- MEMES:END -->
 
 ---
 

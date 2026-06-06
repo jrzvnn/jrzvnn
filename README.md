@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alternate reality](http://9gag.com/gag/a7oYj1b)
- - 😝 [Let that sink in](http://9gag.com/gag/aZZ69M9)
- - 💣 [They\u2019ll be back for you to fix the broken windows](http://9gag.com/gag/aD2KB7d)
+ - 😝 [How did he do that](http://9gag.com/gag/aVvpNR8)
+ - 😝 [Guys should we dating someone younger?](http://9gag.com/gag/aPAEOvg)
+ - 💣 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
  - 😝 [The mop](http://9gag.com/gag/a7oYj6L)
- - 👉 [Don&#39;t break your legs!](http://9gag.com/gag/aW4rVbx)<!-- MEMES:END -->
+ - 👉 [Life in a nutshell](http://9gag.com/gag/agmDPEn)<!-- MEMES:END -->
 
 ---
 

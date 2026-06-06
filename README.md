@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold up](http://9gag.com/gag/a4PXve6)
- - 😝 [Arrest he Epstein class](http://9gag.com/gag/aPAEN1B)
- - 💣 [Smashing TVs, laptops, and satellites for being &#39;haram&#39;... because didn&#39;t exist in Muhammad&#39;s time. Filming it all on their phones to post online. Irony so thick it needs a fatwa.](http://9gag.com/gag/a0erA4Q)
- - 😝 [That chair has some serious power](http://9gag.com/gag/aPAEKOK)
- - 👉 [With friends like this, who needs enemies\u2026..](http://9gag.com/gag/aoyvrze)<!-- MEMES:END -->
+ - 😝 [Interesting Personality](http://9gag.com/gag/ae9nvA5)
+ - 😝 [Are you for equality?](http://9gag.com/gag/aE09LD9)
+ - 💣 [It is mandatory for a model to have a good teeth](http://9gag.com/gag/a0erA2Q)
+ - 😝 [Fact](http://9gag.com/gag/aMVop91)
+ - 👉 [We live in a society](http://9gag.com/gag/aW4rw0q)<!-- MEMES:END -->
 
 ---
 

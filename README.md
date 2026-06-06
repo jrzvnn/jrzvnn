@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Trump admin&#39;s push to integrate AI into the healthcare system, including an FDA regulatory fast track for digital health tech like AI chatbots &lpar;Elizabeth Dwoskin/Washington Post&rpar;](https://www.techmeme.com/260606/p5#a260606p5)
- - [Paris-listed Teleperformance, the world&#39;s largest customer service company, has become one of Europe&#39;s most shorted stocks, as hedge funds bet on AI disruption &lpar;Ramsay Hodgson/Financial Times&rpar;](https://www.techmeme.com/260606/p4#a260606p4)
- - [Sources: Uber has committed nearly $500M to self-driving startup Nuro, providing a crucial runway as Nuro works to prove its technology at commercial scale &lpar;Abhirup Roy/Reuters&rpar;](https://www.techmeme.com/260606/p3#a260606p3)
- - [Kepple: seed-stage startup funding in Japan fell 42% YoY in 2025 to a 10-year low of $124M, as the Tokyo Stock Exchange moves to reduce small listings &lpar;Ami Yamada/Nikkei Asia&rpar;](https://www.techmeme.com/260606/p2#a260606p2)
- - [SoftBank&#39;s PayPay, Japan&#39;s dominant payments app, says it will take a 70.2% stake in T&amp;D Financial Life Insurance for $840M, expected to close in October 2027 &lpar;Mayumi Negishi/Bloomberg&rpar;](https://www.techmeme.com/260606/p1#a260606p1)<!-- TECH:END -->
+ - [Velotric Nomad 2 Fat Tire Ebike, Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/review/velotric-nomad-2-fat-tire-ebike/)
+ - [How to Share a Link to a Particular Phrase](https://www.wired.com/story/how-to-share-a-link-to-a-particular-phrase/)
+ - [30 Best Father’s Day Gifts for Dads &lpar;2026&rpar;](https://www.wired.com/story/the-best-gifts-for-dads-2026/)
+ - [The Moons of Uranus May Hold the Key to Finding Missing Planets](https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/)
+ - [Kalshi and Polymarket sponsored X posts promoting viral LA mayoral election fraud conspiracy theories; Kalshi says it asked its paid influencers to remove posts &lpar;Max Tani/Semafor&rpar;](https://www.techmeme.com/260606/p6#a260606p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

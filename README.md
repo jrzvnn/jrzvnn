@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Velotric Nomad 2 Fat Tire Ebike, Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/review/velotric-nomad-2-fat-tire-ebike/)
- - [How to Share a Link to a Particular Phrase](https://www.wired.com/story/how-to-share-a-link-to-a-particular-phrase/)
- - [30 Best Father’s Day Gifts for Dads &lpar;2026&rpar;](https://www.wired.com/story/the-best-gifts-for-dads-2026/)
- - [The Moons of Uranus May Hold the Key to Finding Missing Planets](https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/)
- - [Kalshi and Polymarket sponsored X posts promoting viral LA mayoral election fraud conspiracy theories; Kalshi says it asked its paid influencers to remove posts &lpar;Max Tani/Semafor&rpar;](https://www.techmeme.com/260606/p6#a260606p6)<!-- TECH:END -->
+ - [Steve Jobs made his last WWDC appearance 15 years ago, today](https://appleinsider.com/articles/26/06/06/steve-jobs-made-his-last-wwdc-appearance-15-years-ago-today?utm_source=rss)
+ - [iOS 27, macOS 27, Siri: What to expect to launch at WWDC 2026](https://appleinsider.com/articles/26/06/05/ios-27-macos-27-siri-what-to-expect-to-launch-at-wwdc-2026?utm_source=rss)
+ - [MacOS 27 Rumors: End of Intel Support, Smarter Siri, Tweaks to Liquid Glass and More](https://www.cnet.com/tech/computing/macos-27-rumors-end-of-intel-support-smarter-siri-tweaks-to-liquid-glass-and-more/)
+ - [Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It](https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/)
+ - [The Best 3-in-1 Apple Charging Stations After Testing Top Models](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

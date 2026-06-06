@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs made his last WWDC appearance 15 years ago, today](https://appleinsider.com/articles/26/06/06/steve-jobs-made-his-last-wwdc-appearance-15-years-ago-today?utm_source=rss)
- - [iOS 27, macOS 27, Siri: What to expect to launch at WWDC 2026](https://appleinsider.com/articles/26/06/05/ios-27-macos-27-siri-what-to-expect-to-launch-at-wwdc-2026?utm_source=rss)
- - [MacOS 27 Rumors: End of Intel Support, Smarter Siri, Tweaks to Liquid Glass and More](https://www.cnet.com/tech/computing/macos-27-rumors-end-of-intel-support-smarter-siri-tweaks-to-liquid-glass-and-more/)
- - [Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It](https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/)
- - [The Best 3-in-1 Apple Charging Stations After Testing Top Models](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)<!-- TECH:END -->
+ - [Make Roku&#39;s New Home Screen Work Better &#39;For You&#39; With These Easy Hacks](https://www.cnet.com/tech/home-entertainment/how-to-remove-for-you-from-roku/)
+ - [I Want iOS 27 to Give Us These Features: They&#39;d Be Perfect for a Foldable iPhone](https://www.cnet.com/tech/mobile/ios-27-features-foldable-iphone/)
+ - [Wait! Don&#39;t Buy the Galaxy S26 Ultra. This Cheaper Phone Is Just as Good](https://www.cnet.com/tech/mobile/want-a-galaxy-s26-ultra-for-cheap-buy-a-galaxy-s25-ultra-instead/)
+ - [Here comes new Siri again](https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini)
+ - [The next YouTube phenomenon hitting the big screen](https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

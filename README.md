@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Guys should we dating someone younger?](http://9gag.com/gag/aPAEOvg)
- - 😝 [Interesting Personality](http://9gag.com/gag/ae9nvA5)
+ - 😝 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)
  - 💣 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
  - 😝 [SWAT storms southwest flight](http://9gag.com/gag/aryQ6Z6)
- - 👉 [Life in a nutshell](http://9gag.com/gag/agmDPEn)<!-- MEMES:END -->
+ - 👉 [It is mandatory for a model to have a good teeth](http://9gag.com/gag/a0erA2Q)<!-- MEMES:END -->
 
 ---
 

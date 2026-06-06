@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Make Roku&#39;s New Home Screen Work Better &#39;For You&#39; With These Easy Hacks](https://www.cnet.com/tech/home-entertainment/how-to-remove-for-you-from-roku/)
- - [I Want iOS 27 to Give Us These Features: They&#39;d Be Perfect for a Foldable iPhone](https://www.cnet.com/tech/mobile/ios-27-features-foldable-iphone/)
- - [Wait! Don&#39;t Buy the Galaxy S26 Ultra. This Cheaper Phone Is Just as Good](https://www.cnet.com/tech/mobile/want-a-galaxy-s26-ultra-for-cheap-buy-a-galaxy-s25-ultra-instead/)
- - [Here comes new Siri again](https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini)
- - [The next YouTube phenomenon hitting the big screen](https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer)<!-- TECH:END -->
+ - [82-0 is the best basketball game, to hell with NBA 2K](https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game)
+ - [Raspberry Pi closed up 27%+ on June 5 after saying it expects adjusted EBITDA of at least $38M in H1, putting it on track to beat $42M est. for the full year &lpar;Financial Times&rpar;](https://www.techmeme.com/260606/p8#a260606p8)
+ - [iOS 27, macOS 27, Siri: What to expect to launch at WWDC 2026](https://appleinsider.com/articles/26/06/05/ios-27-macos-27-siri-what-to-expect-to-launch-at-wwdc-2026?utm_source=rss)
+ - [The Best 3-in-1 Apple Charging Stations After Testing Top Models](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
+ - [Meta made its own AI-generated clickbait news feed](https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

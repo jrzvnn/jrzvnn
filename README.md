@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting Personality](http://9gag.com/gag/ae9nvA5)
- - 😝 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
- - 💣 [Are you for equality?](http://9gag.com/gag/aE09LD9)
- - 😝 [Fact](http://9gag.com/gag/aMVop91)
- - 👉 [It is mandatory for a model to have a good teeth](http://9gag.com/gag/a0erA2Q)<!-- MEMES:END -->
+ - 😝 [Are you for equality?](http://9gag.com/gag/aE09LD9)
+ - 😝 [Amy Adam\u2019s gave birth to a Scarlet Johansson clone](http://9gag.com/gag/ayNbO5p)
+ - 💣 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
+ - 😝 [Let that sink in](http://9gag.com/gag/aZZ69M9)
+ - 👉 [Life in a nutshell](http://9gag.com/gag/agmDPEn)<!-- MEMES:END -->
 
 ---
 

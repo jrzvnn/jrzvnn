@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson’s First Handheld Fan Is Powerful, but It Comes at a Cost](https://www.cnet.com/health/personal-care/dyson-first-handheld-fan-powerful-comes-cost/)
- - [The first Story-Rich showcase was packed with narrative-driven games](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers)
- - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
- - [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)
- - [You Could Be Eligible to Claim Part of Apple&#39;s $250 Million AI iPhone Settlement. Here&#39;s How](https://www.cnet.com/tech/mobile/how-to-collect-on-apples-250-million-ai-settlement/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 7, #826](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-7-826/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 7, #622](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-7-622/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 7, #1092](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-7-1092/)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 7, #1814](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-7-1814/)
+ - [Therabody Launches CryoTherm Palm for Faster Recovery During Your Workouts](https://www.cnet.com/health/therabody-cryotherm-palm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

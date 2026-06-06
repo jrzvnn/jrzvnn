@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center](https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center)
+ - [Benn Jordan longs for the days of tech that didn’t spy on you](https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire)
  - [82-0 is the best basketball game, to hell with NBA 2K](https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game)
  - [Raspberry Pi closed up 27%+ on June 5 after saying it expects adjusted EBITDA of at least $38M in H1, putting it on track to beat $42M est. for the full year &lpar;Financial Times&rpar;](https://www.techmeme.com/260606/p8#a260606p8)
- - [iOS 27, macOS 27, Siri: What to expect to launch at WWDC 2026](https://appleinsider.com/articles/26/06/05/ios-27-macos-27-siri-what-to-expect-to-launch-at-wwdc-2026?utm_source=rss)
- - [The Best 3-in-1 Apple Charging Stations After Testing Top Models](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
- - [Meta made its own AI-generated clickbait news feed](https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles)<!-- TECH:END -->
+ - [iOS 27, macOS 27, Siri: What to expect to launch at WWDC 2026](https://appleinsider.com/articles/26/06/05/ios-27-macos-27-siri-what-to-expect-to-launch-at-wwdc-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

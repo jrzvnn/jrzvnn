@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you for equality?](http://9gag.com/gag/aE09LD9)
- - 😝 [Amy Adam\u2019s gave birth to a Scarlet Johansson clone](http://9gag.com/gag/ayNbO5p)
- - 💣 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
+ - 😝 [Time to feel human](http://9gag.com/gag/aoyvrbX)
  - 😝 [Let that sink in](http://9gag.com/gag/aZZ69M9)
- - 👉 [Life in a nutshell](http://9gag.com/gag/agmDPEn)<!-- MEMES:END -->
+ - 💣 [Found my future wife](http://9gag.com/gag/a7oYjvr)
+ - 😝 [The turnaround could be Nice](http://9gag.com/gag/azxWNjm)
+ - 👉 [With friends like this, who needs enemies\u2026..](http://9gag.com/gag/aoyvrze)<!-- MEMES:END -->
 
 ---
 

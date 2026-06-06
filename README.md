@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That chair has some serious power](http://9gag.com/gag/aPAEKOK)
- - 😝 [Time to feel human](http://9gag.com/gag/aoyvrbX)
- - 💣 [The turnaround could be Nice](http://9gag.com/gag/azxWNjm)
- - 😝 [With friends like this, who needs enemies\u2026..](http://9gag.com/gag/aoyvrze)
- - 👉 [Let that sink in](http://9gag.com/gag/aZZ69M9)<!-- MEMES:END -->
+ - 😝 [Guys should we dating someone younger?](http://9gag.com/gag/aPAEOvg)
+ - 😝 [Interesting Personality](http://9gag.com/gag/ae9nvA5)
+ - 💣 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
+ - 😝 [SWAT storms southwest flight](http://9gag.com/gag/aryQ6Z6)
+ - 👉 [Life in a nutshell](http://9gag.com/gag/agmDPEn)<!-- MEMES:END -->
 
 ---
 

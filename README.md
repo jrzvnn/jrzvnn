@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch Apple’s WWDC 2026 Keynote—and What to Expect](https://www.wired.com/story/how-to-watch-apple-wwdc-2026/)
- - [JMGO’s N3 Ultimate projector is the new portable 4K champ](https://www.theverge.com/reviews/943732/best-portable-4k-projector-review)
- - [Q&amp;A with Google DeepMind&#39;s Director of AGI Economics Alex Imas and Epoch AI&#39;s Phil Trammell on what remains scarce after AGI, redistributing AI wealth, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260607/p5#a260607p5)
- - [ASML CEO Christophe Fouquet applauds the EU&#39;s tech sovereignty plans but says substantial EU involvement in steering &quot;strategic projects&quot; is a cause for concern &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/260607/p4#a260607p4)
- - [Industry data: India&#39;s six largest IT companies grew combined revenue from $95.9B in FY23 to $103.1B in FY26, while headcount remained broadly steady at ~1.9M &lpar;Tanya Pandey/The Economic Times&rpar;](https://www.techmeme.com/260607/p3#a260607p3)<!-- TECH:END -->
+ - [Sigma BF Review &lpar;2026&rpar;: Eccentric but Strangely Lovable](https://www.wired.com/review/sigma-bf-camera/)
+ - [Memory chip vendors say CXMT&#39;s DDR5 prices match Samsung, SK Hynix, and Micron, and it has a supply advantage in client markets as it is not prioritizing HBM &lpar;Hassan Mujtaba/Wccftech&rpar;](https://www.techmeme.com/260607/p6#a260607p6)
+ - [You May Not Need a Giant Chef’s Knife When a Midsize Knife Does the Trick](https://www.wired.com/story/you-may-not-need-a-giant-chefs-knife-when-a-midsize-knife-does-the-trick/)
+ - [Lauf eElja Electric Mountain Bike Review: Power Trip](https://www.wired.com/review/lauf-eelja-electric-mountain-bike/)
+ - [Best Red-Light Therapy for Hair Restoration and Regrowth &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

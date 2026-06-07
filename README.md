@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the Trailers From Xbox Games Showcase 2026](https://www.cnet.com/tech/gaming/all-the-trailers-from-xbox-games-showcase-2026/)
  - [NASA will wear high-tech Prada long johns to the Moon](https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis)
- - [As wealth managers confront an AI reckoning, the tech is, for now, easing their workloads by picking up routine tasks, freeing up more time to advise clients &lpar;Bloomberg&rpar;](https://www.techmeme.com/260607/p9#a260607p9)
- - [WWDC 2026: News on Siri, iOS 27, Tim Cook and More &lpar;Live&rpar;](https://www.cnet.com/news-live/wwdc-2026-apple-live-news-updates/)
- - [Sunday Reboot: Intel support is on its last legs this WWDC](https://appleinsider.com/articles/26/06/07/sunday-reboot-intel-support-is-on-its-last-legs-this-wwdc?utm_source=rss)
- - [One fateful meeting in 2025 put Apple Intelligence and Siri on the right course](https://appleinsider.com/articles/26/06/07/one-fateful-meeting-in-2025-put-apple-intelligence-and-siri-on-the-right-course?utm_source=rss)<!-- TECH:END -->
+ - [Rest Well Tonight With These Expert-Recommended Sleep Headphones](https://www.cnet.com/tech/mobile/best-sleep-headphones/)
+ - [Xbox Goes Back to Green for 25th Anniversary Editions](https://www.cnet.com/tech/gaming/xbox-goes-back-to-green-for-25th-anniversary-editions/)
+ - [As wealth managers confront an AI reckoning, the tech is, for now, easing their workloads by picking up routine tasks, freeing up more time to advise clients &lpar;Bloomberg&rpar;](https://www.techmeme.com/260607/p9#a260607p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

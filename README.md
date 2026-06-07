@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [7hours](http://9gag.com/gag/a4PXMOm)
- - 😝 [`That&#39;s not a knife. That&#39;s a knife.`](http://9gag.com/gag/aRBbx8y)
- - 💣 [This has `making the frogs gay` energy](http://9gag.com/gag/ae9nXnv)
- - 😝 [My 2nd attempt: 24h spare ribs sous vide. What does the council of men say?](http://9gag.com/gag/a2veEM1)
- - 👉 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)<!-- MEMES:END -->
+ - 😝 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)
+ - 😝 [Found my future wife](http://9gag.com/gag/a7oYjvr)
+ - 💣 [Wipe-out](http://9gag.com/gag/aLnZqXA)
+ - 😝 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)
+ - 👉 [I hope she wins.](http://9gag.com/gag/a1m9pLb)<!-- MEMES:END -->
 
 ---
 

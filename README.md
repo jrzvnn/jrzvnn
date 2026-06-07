@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Watch Apple’s WWDC 2026 Keynote—and What to Expect](https://www.wired.com/story/how-to-watch-apple-wwdc-2026/)
+ - [JMGO’s N3 Ultimate projector is the new portable 4K champ](https://www.theverge.com/reviews/943732/best-portable-4k-projector-review)
  - [Q&amp;A with Google DeepMind&#39;s Director of AGI Economics Alex Imas and Epoch AI&#39;s Phil Trammell on what remains scarce after AGI, redistributing AI wealth, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260607/p5#a260607p5)
  - [ASML CEO Christophe Fouquet applauds the EU&#39;s tech sovereignty plans but says substantial EU involvement in steering &quot;strategic projects&quot; is a cause for concern &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/260607/p4#a260607p4)
- - [Industry data: India&#39;s six largest IT companies grew combined revenue from $95.9B in FY23 to $103.1B in FY26, while headcount remained broadly steady at ~1.9M &lpar;Tanya Pandey/The Economic Times&rpar;](https://www.techmeme.com/260607/p3#a260607p3)
- - [B&amp;H slashes up to $300 off M5 Pro, M5 Max MacBook Pros for WWDC](https://appleinsider.com/articles/26/06/07/bh-slashes-up-to-300-off-m5-pro-m5-max-macbook-pros-for-wwdc?utm_source=rss)
- - [French carriers Bouygues Telecom, Orange, and Free-iliad sign an MOU with Altice France to acquire SFR for €20.35B, including debt, expected to close in H2 2027 &lpar;Reuters&rpar;](https://www.techmeme.com/260607/p2#a260607p2)<!-- TECH:END -->
+ - [Industry data: India&#39;s six largest IT companies grew combined revenue from $95.9B in FY23 to $103.1B in FY26, while headcount remained broadly steady at ~1.9M &lpar;Tanya Pandey/The Economic Times&rpar;](https://www.techmeme.com/260607/p3#a260607p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

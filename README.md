@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA will wear high-tech Prada long johns to the Moon](https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis)
  - [As wealth managers confront an AI reckoning, the tech is, for now, easing their workloads by picking up routine tasks, freeing up more time to advise clients &lpar;Bloomberg&rpar;](https://www.techmeme.com/260607/p9#a260607p9)
+ - [WWDC 2026: News on Siri, iOS 27, Tim Cook and More &lpar;Live&rpar;](https://www.cnet.com/news-live/wwdc-2026-apple-live-news-updates/)
  - [Sunday Reboot: Intel support is on its last legs this WWDC](https://appleinsider.com/articles/26/06/07/sunday-reboot-intel-support-is-on-its-last-legs-this-wwdc?utm_source=rss)
- - [One fateful meeting in 2025 put Apple Intelligence and Siri on the right course](https://appleinsider.com/articles/26/06/07/one-fateful-meeting-in-2025-put-apple-intelligence-and-siri-on-the-right-course?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 8, #827](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-8-827/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 8, #1093](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-8-1093/)<!-- TECH:END -->
+ - [One fateful meeting in 2025 put Apple Intelligence and Siri on the right course](https://appleinsider.com/articles/26/06/07/one-fateful-meeting-in-2025-put-apple-intelligence-and-siri-on-the-right-course?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

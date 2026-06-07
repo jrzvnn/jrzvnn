@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Once again](http://9gag.com/gag/aXPy8pb)
  - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 💣 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)
- - 😝 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)
- - 👉 [Guys should we dating someone younger?](http://9gag.com/gag/aPAEOvg)<!-- MEMES:END -->
+ - 😝 [Guys should we dating someone younger?](http://9gag.com/gag/aPAEOvg)
+ - 💣 [Guys what happend to \u201cthose accounts\u201d?](http://9gag.com/gag/amoej46)
+ - 😝 [They keep deleting it](http://9gag.com/gag/aO8woW3)
+ - 👉 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)<!-- MEMES:END -->
 
 ---
 

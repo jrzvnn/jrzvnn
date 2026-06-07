@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KPMG survey: only 26% of companies have a comprehensive view of their AI costs, while 50% have some visibility and 22% have none or only see costs after billing &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260607/p8#a260607p8)
- - [First AI agent for Messages Business Chat approved by Apple](https://appleinsider.com/articles/26/06/04/first-ai-agent-for-messages-business-chat-approved-by-apple?utm_source=rss)
+ - [One fateful meeting in 2025 put Apple Intelligence and Siri on the right course](https://appleinsider.com/articles/26/06/07/one-fateful-meeting-in-2025-put-apple-intelligence-and-siri-on-the-right-course?utm_source=rss)
+ - [Little Finder Guy joins Clarius the Dogcow in the 2026 WWDC swag bag](https://appleinsider.com/articles/26/06/07/little-finder-guy-joins-clarius-the-dogcow-in-the-2026-wwdc-swag-bag?utm_source=rss)
  - [WWDC 2026: News on Siri, iOS 27, Tim Cook and More &lpar;Live&rpar;](https://www.cnet.com/news-live/wwdc-2026-apple-live-news-updates/)
- - [Fable launches in late February after recent delay](https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026)
- - [Halo: Campaign Evolved arrives July 28th](https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026)<!-- TECH:END -->
+ - [The 7 biggest storylines from Summer Game Fest 2026](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories)
+ - [KPMG survey: only 26% of companies have a comprehensive view of their AI costs, while 50% have some visibility and 22% have none or only see costs after billing &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260607/p8#a260607p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the early 2025 senior exec meeting where Apple admitted its AI failures; Tim Cook became intimately involved in Apple&#39;s AI roadmap around the same time &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260607/p7#a260607p7)
- - [Here&#39;s what the folding iPhone looks like, open and shut](https://appleinsider.com/articles/26/06/07/more-iphone-fold-dummy-shots-appear-in-folded-open-forms?utm_source=rss)
- - [Tim Cook expected to head WWDC keynote, for the last time](https://appleinsider.com/articles/26/06/07/tim-cook-expected-to-head-wwdc-2026-keynote-for-the-last-time?utm_source=rss)
- - [The Virtual OS Museum lets you relive over 600 operating systems right on your desktop](https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os)
- - [The Delivery You Didn&#39;t Order: Breaking Down the &#39;Free Phone&#39; Scam](https://www.cnet.com/tech/services-and-software/how-to-spot-the-free-phone-identity-theft-scam/)<!-- TECH:END -->
+ - [Govee’s all-weather smart lamp post is under $200 for the first time](https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale)
+ - [Slow-to-arrive Apple Intelligence upgrades delayed new product category launches](https://appleinsider.com/articles/26/06/07/slow-to-arrive-apple-intelligence-upgrades-delayed-new-product-category-launches?utm_source=rss)
+ - [Sony Will Pay Out $7.85M in PlayStation Store Credit as Part of Game Voucher Settlement](https://www.cnet.com/tech/gaming/sony-playstation-store-settlement-what-to-know/)
+ - [One fateful meeting in 2025 put Apple Intelligence and Siri on the right course](https://appleinsider.com/articles/26/06/07/one-fateful-meeting-in-2025-put-apple-intelligence-and-siri-on-the-right-course?utm_source=rss)
+ - [HBO Max: The 32 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-shows-to-watch-on-hbo-max-june-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

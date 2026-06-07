@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [7hours](http://9gag.com/gag/a4PXMOm)
- - 😝 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)
- - 💣 [The jokes write themselves with these people.](http://9gag.com/gag/aZZ6AL0)
- - 😝 [Her &#39;nothing&#39; face is always a masterpiece](http://9gag.com/gag/aD2yRmK)
- - 👉 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)<!-- MEMES:END -->
+ - 😝 [The jokes write themselves with these people.](http://9gag.com/gag/aZZ6AL0)
+ - 😝 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
+ - 💣 [7hours](http://9gag.com/gag/a4PXMOm)
+ - 😝 [Desire](http://9gag.com/gag/aD2yRxN)
+ - 👉 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)<!-- MEMES:END -->
 
 ---
 

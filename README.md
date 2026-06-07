@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Once again](http://9gag.com/gag/aXPy8pb)
+ - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
+ - 💣 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)
  - 😝 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)
- - 😝 [Found my future wife](http://9gag.com/gag/a7oYjvr)
- - 💣 [Wipe-out](http://9gag.com/gag/aLnZqXA)
- - 😝 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)
- - 👉 [I hope she wins.](http://9gag.com/gag/a1m9pLb)<!-- MEMES:END -->
+ - 👉 [Guys should we dating someone younger?](http://9gag.com/gag/aPAEOvg)<!-- MEMES:END -->
 
 ---
 

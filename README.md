@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Reality check](http://9gag.com/gag/abANPAr)
+ - 😝 [Once again](http://9gag.com/gag/aXPy8pb)
+ - 💣 [Found my future wife](http://9gag.com/gag/a7oYjvr)
  - 😝 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
- - 💣 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)
- - 😝 [That&#39;s neat](http://9gag.com/gag/a2v3QAp)
  - 👉 [Guys should we dating someone younger?](http://9gag.com/gag/aPAEOvg)<!-- MEMES:END -->
 
 ---

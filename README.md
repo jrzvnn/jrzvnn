@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Govee’s all-weather smart lamp post is under $200 for the first time](https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale)
- - [Slow-to-arrive Apple Intelligence upgrades delayed new product category launches](https://appleinsider.com/articles/26/06/07/slow-to-arrive-apple-intelligence-upgrades-delayed-new-product-category-launches?utm_source=rss)
- - [Sony Will Pay Out $7.85M in PlayStation Store Credit as Part of Game Voucher Settlement](https://www.cnet.com/tech/gaming/sony-playstation-store-settlement-what-to-know/)
- - [One fateful meeting in 2025 put Apple Intelligence and Siri on the right course](https://appleinsider.com/articles/26/06/07/one-fateful-meeting-in-2025-put-apple-intelligence-and-siri-on-the-right-course?utm_source=rss)
- - [HBO Max: The 32 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-shows-to-watch-on-hbo-max-june-2026/)<!-- TECH:END -->
+ - [First AI agent for Messages Business Chat approved by Apple](https://appleinsider.com/articles/26/06/04/first-ai-agent-for-messages-business-chat-approved-by-apple?utm_source=rss)
+ - [Fable launches in late February after recent delay](https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026)
+ - [Halo: Campaign Evolved arrives July 28th](https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026)
+ - [Gears of War: E-Day isn’t coming to the PS5](https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch)
+ - [The Verge Weekend Questionnaire](https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

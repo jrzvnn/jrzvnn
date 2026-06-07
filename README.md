@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 😝 [Guys should we dating someone younger?](http://9gag.com/gag/aPAEOvg)
- - 💣 [Guys what happend to \u201cthose accounts\u201d?](http://9gag.com/gag/amoej46)
+ - 😝 [Once again](http://9gag.com/gag/aXPy8pb)
+ - 😝 [Guys what happend to \u201cthose accounts\u201d?](http://9gag.com/gag/amoej46)
+ - 💣 [Guys should we dating someone younger?](http://9gag.com/gag/aPAEOvg)
  - 😝 [They keep deleting it](http://9gag.com/gag/aO8woW3)
- - 👉 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)<!-- MEMES:END -->
+ - 👉 [7hours](http://9gag.com/gag/a4PXMOm)<!-- MEMES:END -->
 
 ---
 

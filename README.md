@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kill some time with these much needed distractions](https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole)
- - [More iPhone Fold dummy shots appear in folded, open forms](https://appleinsider.com/articles/26/06/07/more-iphone-fold-dummy-shots-appear-in-folded-open-forms?utm_source=rss)
- - [iPhone 18: What We Know About Apple&#39;s Next Flagship Lineup](https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-most-ambitious-lineup-yet/)
- - [AI ‘content creators’ are getting harder to spot](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators)
- - [Sigma BF Review &lpar;2026&rpar;: Eccentric but Strangely Lovable](https://www.wired.com/review/sigma-bf-camera/)<!-- TECH:END -->
+ - [Inside the early 2025 senior exec meeting where Apple admitted its AI failures; Tim Cook became intimately involved in Apple&#39;s AI roadmap around the same time &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260607/p7#a260607p7)
+ - [Here&#39;s what the folding iPhone looks like, open and shut](https://appleinsider.com/articles/26/06/07/more-iphone-fold-dummy-shots-appear-in-folded-open-forms?utm_source=rss)
+ - [Tim Cook expected to head WWDC keynote, for the last time](https://appleinsider.com/articles/26/06/07/tim-cook-expected-to-head-wwdc-2026-keynote-for-the-last-time?utm_source=rss)
+ - [The Virtual OS Museum lets you relive over 600 operating systems right on your desktop](https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os)
+ - [The Delivery You Didn&#39;t Order: Breaking Down the &#39;Free Phone&#39; Scam](https://www.cnet.com/tech/services-and-software/how-to-spot-the-free-phone-identity-theft-scam/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

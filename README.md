@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)
  - 😝 [Once again](http://9gag.com/gag/aXPy8pb)
+ - 💣 [Everything according to paln...](http://9gag.com/gag/aAyjBxE)
  - 😝 [7hours](http://9gag.com/gag/a4PXMOm)
- - 💣 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
- - 😝 [My 2nd attempt: 24h spare ribs sous vide. What does the council of men say?](http://9gag.com/gag/a2veEM1)
  - 👉 [Guys should we dating someone younger?](http://9gag.com/gag/aPAEOvg)<!-- MEMES:END -->
 
 ---

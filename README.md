@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [....](http://9gag.com/gag/a34mvOQ)
- - 😝 [Unexpected result](http://9gag.com/gag/aByp9wx)
- - 💣 [Each flip adds a grey hair in their head](http://9gag.com/gag/ae9LKmO)
- - 😝 [Back in my day we called it &#39;winging it&#39;](http://9gag.com/gag/a7oQLdA)
- - 👉 [Dolph Lundgren beats cancer after a 9-year battle. What a legend](http://9gag.com/gag/aMVgeA6)<!-- MEMES:END -->
+ - 😝 [9gag is not fun anymore.](http://9gag.com/gag/aO8wo5y)
+ - 😝 [Footage from old days](http://9gag.com/gag/aBypRVQ)
+ - 💣 [Back in my day we called it &#39;winging it&#39;](http://9gag.com/gag/a7oQLdA)
+ - 😝 [Seems more fitting today than before](http://9gag.com/gag/aD2yAvK)
+ - 👉 [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)<!-- MEMES:END -->
 
 ---
 

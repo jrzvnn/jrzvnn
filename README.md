@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why single is the new happily married.](http://9gag.com/gag/a5Q4pQN)
- - 😝 [Its sunday morning were I&#39;m at. There hasn&#39;t been many reasons to laugh lately, so here is an oldie to start your day.](http://9gag.com/gag/a87ZdGd)
+ - 😝 [....](http://9gag.com/gag/a34mvOQ)
+ - 😝 [Unexpected result](http://9gag.com/gag/aByp9wx)
  - 💣 [Each flip adds a grey hair in their head](http://9gag.com/gag/ae9LKmO)
- - 😝 [Speedster](http://9gag.com/gag/aBypRwN)
- - 👉 [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)<!-- MEMES:END -->
+ - 😝 [Back in my day we called it &#39;winging it&#39;](http://9gag.com/gag/a7oQLdA)
+ - 👉 [Dolph Lundgren beats cancer after a 9-year battle. What a legend](http://9gag.com/gag/aMVgeA6)<!-- MEMES:END -->
 
 ---
 

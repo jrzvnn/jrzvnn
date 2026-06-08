@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Schmigadoon!&#39; earns Apple EGOT status faster than Netflix](https://appleinsider.com/articles/26/06/08/schmigadoon-earns-apple-egot-status-for-winning-all-major-awards?utm_source=rss)
- - [Steve Jobs made his last WWDC appearance 15 years ago](https://appleinsider.com/articles/26/06/06/steve-jobs-made-his-last-wwdc-appearance-15-years-ago-today?utm_source=rss)
- - [A look at Ireland&#39;s Bring Your Own Power policy, which requires new data centers to have their own power plants on site or sources of energy produced nearby &lpar;Yusuf Khan/Wall Street Journal&rpar;](https://www.techmeme.com/260608/p8#a260608p8)
- - [Uber tells London to get ready for robotaxis](https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london)
- - [Lenovo IdeaPad Slim 5x Review: The Best Laptop Under $1,000](https://www.wired.com/review/lenovo-ideapad-slim-5x/)<!-- TECH:END -->
+ - [Eero’s Pro 6E routers are down to their cheapest price yet in 2026](https://www.theverge.com/gadgets/945656/eero-pro-6e-mesh-wifi-garmin-fenix-asus-oled-gaming-deal-sale)
+ - [Amazon announces a multiyear, multibillion-dollar deal with Corning to produce optical fiber for its US data centers; Corning shares jump 8%+ &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260608/p16#a260608p16)
+ - [Watch Duty Is Adding Flood Alerts to Its Wildfire App](https://www.wired.com/story/watch-duty-is-adding-flood-alerts-to-its-wildfire-app/)
+ - [FTX co-founder Sam Bankman-Fried formally applies for a presidential pardon; he was sentenced to 25 years in prison in 2024, following the FTX collapse &lpar;Bloomberg&rpar;](https://www.techmeme.com/260608/p15#a260608p15)
+ - [Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot](https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

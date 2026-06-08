@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eero’s Pro 6E routers are down to their cheapest price yet in 2026](https://www.theverge.com/gadgets/945656/eero-pro-6e-mesh-wifi-garmin-fenix-asus-oled-gaming-deal-sale)
- - [Amazon announces a multiyear, multibillion-dollar deal with Corning to produce optical fiber for its US data centers; Corning shares jump 8%+ &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260608/p16#a260608p16)
- - [Watch Duty Is Adding Flood Alerts to Its Wildfire App](https://www.wired.com/story/watch-duty-is-adding-flood-alerts-to-its-wildfire-app/)
- - [FTX co-founder Sam Bankman-Fried formally applies for a presidential pardon; he was sentenced to 25 years in prison in 2024, following the FTX collapse &lpar;Bloomberg&rpar;](https://www.techmeme.com/260608/p15#a260608p15)
- - [Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot](https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts)<!-- TECH:END -->
+ - [macOS 27 &#39;Golden Gate&#39; delivers more Liquid Glass and updated Siri](https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri?utm_source=rss)
+ - [Liquid Glass customization &amp; better Apple Intelligence arrive with iPadOS 27](https://appleinsider.com/articles/26/06/08/liquid-glass-customization-better-apple-intelligence-arrive-with-ipados-27?utm_source=rss)
+ - [iOS 27 gets better Liquid Glass and more responsiveness](https://appleinsider.com/articles/26/06/08/ios-27-gets-better-liquid-glass-and-more-responsiveness?utm_source=rss)
+ - [Apple overhauls Apple Intelligence, with a new architecture built on Apple Foundation Models developed with Google and adapted to run on device and on servers &lpar;Hartley Charlton/MacRumors&rpar;](https://www.techmeme.com/260608/p36#a260608p36)
+ - [AirPods finally gain custom EQ feature in iOS 26](https://appleinsider.com/articles/26/06/08/airpods-finally-gain-custom-eq-feature-in-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based Creator Fund closes a $56M fund to back European PhD founders, reaching them in universities before they&#39;re pulled into academia, Big Tech, or US labs &lpar;Mike Butcher/Pathfounders&rpar;](https://www.techmeme.com/260607/p13#a260607p13)
- - [Fusion energy startup Helion raised a $465M Series G led by Thrive Capital at a $15.5B valuation, nearly tripling the valuation from its January 2025 round &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260607/p12#a260607p12)
- - [Nvidia and SK Hynix signed a multi-year pact to develop next-gen memory tailored for Nvidia&#39;s AI infrastructure roadmap, including for Vera Rubin &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260607/p11#a260607p11)
- - [Nvidia says South Korea&#39;s Naver will use its technology to build AI factories at &quot;gigawatt scale&quot; to meet rising global demand for AI services and physical AI &lpar;Heekyong Yang/Reuters&rpar;](https://www.techmeme.com/260607/p10#a260607p10)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, June 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-8/)<!-- TECH:END -->
+ - [B&amp;H is blowing out MacBook Air inventory at $899 with WWDC Deal Zone](https://appleinsider.com/articles/26/06/08/bh-is-blowing-out-macbook-air-inventory-at-899-with-wwdc-deal-zone?utm_source=rss)
+ - [All the Ways Europe Is Ditching American Technology](https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/)
+ - [London-based PhysicsX, which uses AI to design industrial parts like jet engines and semiconductors, raised a $300M Series C led by Temasek at a $2.4B valuation &lpar;Mark Bergen/Bloomberg&rpar;](https://www.techmeme.com/260608/p3#a260608p3)
+ - [Nvidia and LG expand their partnership in AI, robotics, and mobility tech, including building an AI Factory and co-designing future data center architectures &lpar;Choi Eun-Kyung/The Chosun Daily&rpar;](https://www.techmeme.com/260608/p2#a260608p2)
+ - [WWDC 2026: News on Siri, iOS 27, Tim Cook and More &lpar;Live&rpar;](https://www.cnet.com/news-live/wwdc-2026-apple-live-news-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

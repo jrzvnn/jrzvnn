@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American Boeing Sliders](http://9gag.com/gag/a9yx3G1)
- - 😝 [Speedster](http://9gag.com/gag/aBypRwN)
- - 💣 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)
+ - 😝 [Stupidity In Motion.\ud83d\ude0e](http://9gag.com/gag/an76eyB)
  - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 👉 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)<!-- MEMES:END -->
+ - 💣 [She got rejected twice by three people](http://9gag.com/gag/adBE0xj)
+ - 😝 [They deleting this soon](http://9gag.com/gag/aO8woL3)
+ - 👉 [AI makes copies from copies](http://9gag.com/gag/aqy04yv)<!-- MEMES:END -->
 
 ---
 

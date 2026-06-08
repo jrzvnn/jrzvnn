@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting a date....by a royal decree](http://9gag.com/gag/awyEq64)
- - 😝 [Once again](http://9gag.com/gag/aXPy8pb)
- - 💣 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)
- - 😝 [Back in my day we called it &#39;winging it&#39;](http://9gag.com/gag/a7oQLdA)
- - 👉 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)<!-- MEMES:END -->
+ - 😝 [This is why single is the new happily married.](http://9gag.com/gag/a5Q4pQN)
+ - 😝 [Its sunday morning were I&#39;m at. There hasn&#39;t been many reasons to laugh lately, so here is an oldie to start your day.](http://9gag.com/gag/a87ZdGd)
+ - 💣 [Each flip adds a grey hair in their head](http://9gag.com/gag/ae9LKmO)
+ - 😝 [Speedster](http://9gag.com/gag/aBypRwN)
+ - 👉 [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H is blowing out MacBook Air inventory at $899 with WWDC Deal Zone](https://appleinsider.com/articles/26/06/08/bh-is-blowing-out-macbook-air-inventory-at-899-with-wwdc-deal-zone?utm_source=rss)
- - [All the Ways Europe Is Ditching American Technology](https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/)
- - [London-based PhysicsX, which uses AI to design industrial parts like jet engines and semiconductors, raised a $300M Series C led by Temasek at a $2.4B valuation &lpar;Mark Bergen/Bloomberg&rpar;](https://www.techmeme.com/260608/p3#a260608p3)
- - [Nvidia and LG expand their partnership in AI, robotics, and mobility tech, including building an AI Factory and co-designing future data center architectures &lpar;Choi Eun-Kyung/The Chosun Daily&rpar;](https://www.techmeme.com/260608/p2#a260608p2)
- - [WWDC 2026: News on Siri, iOS 27, Tim Cook and More &lpar;Live&rpar;](https://www.cnet.com/news-live/wwdc-2026-apple-live-news-updates/)<!-- TECH:END -->
+ - [&#39;Schmigadoon!&#39; earns Apple EGOT status faster than Netflix](https://appleinsider.com/articles/26/06/08/schmigadoon-earns-apple-egot-status-for-winning-all-major-awards?utm_source=rss)
+ - [Steve Jobs made his last WWDC appearance 15 years ago](https://appleinsider.com/articles/26/06/06/steve-jobs-made-his-last-wwdc-appearance-15-years-ago-today?utm_source=rss)
+ - [A look at Ireland&#39;s Bring Your Own Power policy, which requires new data centers to have their own power plants on site or sources of energy produced nearby &lpar;Yusuf Khan/Wall Street Journal&rpar;](https://www.techmeme.com/260608/p8#a260608p8)
+ - [Uber tells London to get ready for robotaxis](https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london)
+ - [Lenovo IdeaPad Slim 5x Review: The Best Laptop Under $1,000](https://www.wired.com/review/lenovo-ideapad-slim-5x/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

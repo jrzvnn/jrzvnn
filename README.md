@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [44 things coming to your Apple devices that you might have missed](https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed)
- - [iOS 27 gets better Liquid Glass and more responsiveness](https://appleinsider.com/articles/26/06/08/ios-27-gets-better-liquid-glass-and-more-responsiveness?utm_source=rss)
- - [Spatial computing &amp; Apple Intelligence upgrades collide in visionOS 27](https://appleinsider.com/articles/26/06/08/spatial-computing-apple-intelligence-upgrades-collide-in-visionos-27?utm_source=rss)
- - [Game Porting Toolkit 4 ushers in support for agentic coding](https://appleinsider.com/articles/26/06/08/game-porting-toolkit-4-ushers-in-support-for-agentic-coding?utm_source=rss)
- - [Apple&#39;s Craig Federighi says some companies &quot;appear to be racing forward&quot; to develop &quot;AI for the sake of AI&quot; without regard for the humans using the technology &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260608/p51#a260608p51)<!-- TECH:END -->
+ - [Apple&#39;s new foundation models don&#39;t contain a drop of Gemini, as we said they wouldn&#39;t](https://appleinsider.com/articles/26/06/08/apples-new-foundation-models-dont-contain-a-drop-of-gemini-as-we-said-they-wouldnt?utm_source=rss)
+ - [Where was tvOS 27 at WWDC?](https://www.theverge.com/tech/946329/tvos-27-absent-wwdc)
+ - [iOS 27 code has clear signs that a folding iPhone is coming soon](https://appleinsider.com/articles/26/06/08/ios-27-code-has-clear-signs-that-a-folding-iphone-is-coming-soon?utm_source=rss)
+ - [Source: Cursor, which is prepping for an expected acquisition by SpaceX, passed $4B in annualized revenue in the last week, up from $3B in April and $2B in Feb. &lpar;Richard Nieva/Forbes&rpar;](https://www.techmeme.com/260608/p55#a260608p55)
+ - [Apple’s new parental controls are for keeping Apple out of trouble](https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

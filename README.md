@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gag is not fun anymore.](http://9gag.com/gag/aO8wo5y)
- - 😝 [Footage from old days](http://9gag.com/gag/aBypRVQ)
- - 💣 [Back in my day we called it &#39;winging it&#39;](http://9gag.com/gag/a7oQLdA)
- - 😝 [Seems more fitting today than before](http://9gag.com/gag/aD2yAvK)
- - 👉 [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)<!-- MEMES:END -->
+ - 😝 [American Boeing Sliders](http://9gag.com/gag/a9yx3G1)
+ - 😝 [Speedster](http://9gag.com/gag/aBypRwN)
+ - 💣 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)
+ - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
+ - 👉 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)<!-- MEMES:END -->
 
 ---
 

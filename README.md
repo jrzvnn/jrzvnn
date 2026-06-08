@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stupidity In Motion.\ud83d\ude0e](http://9gag.com/gag/an76eyB)
+ - 😝 [Speedster](http://9gag.com/gag/aBypRwN)
  - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 💣 [She got rejected twice by three people](http://9gag.com/gag/adBE0xj)
- - 😝 [They deleting this soon](http://9gag.com/gag/aO8woL3)
- - 👉 [AI makes copies from copies](http://9gag.com/gag/aqy04yv)<!-- MEMES:END -->
+ - 💣 [AI makes copies from copies](http://9gag.com/gag/aqy04yv)
+ - 😝 [It&#39;s only a matter of time before it happens](http://9gag.com/gag/ae9LNpW)
+ - 👉 [Quiz](http://9gag.com/gag/adBEyjM)<!-- MEMES:END -->
 
 ---
 

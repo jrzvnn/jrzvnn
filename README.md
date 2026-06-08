@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 😝 [7hours](http://9gag.com/gag/a4PXMOm)
- - 💣 [Guys what happend to \u201cthose accounts\u201d?](http://9gag.com/gag/amoej46)
- - 😝 [They keep deleting it](http://9gag.com/gag/aO8woW3)
- - 👉 [They already deleted it twice](http://9gag.com/gag/a5Q4p3o)<!-- MEMES:END -->
+ - 😝 [Pro Potter](http://9gag.com/gag/aW4zBP2)
+ - 😝 [Each flip adds a grey hair in their head](http://9gag.com/gag/ae9LKmO)
+ - 💣 [Its sunday morning were I&#39;m at. There hasn&#39;t been many reasons to laugh lately, so here is an oldie to start your day.](http://9gag.com/gag/a87ZdGd)
+ - 😝 [Unexpected result](http://9gag.com/gag/aByp9wx)
+ - 👉 [Dolph Lundgren beats cancer after a 9-year battle. What a legend](http://9gag.com/gag/aMVgeA6)<!-- MEMES:END -->
 
 ---
 

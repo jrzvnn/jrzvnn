@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the Trailers From Xbox Games Showcase 2026](https://www.cnet.com/tech/gaming/all-the-trailers-from-xbox-games-showcase-2026/)
- - [NASA will wear high-tech Prada long johns to the Moon](https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis)
- - [Rest Well Tonight With These Expert-Recommended Sleep Headphones](https://www.cnet.com/tech/mobile/best-sleep-headphones/)
- - [Xbox Goes Back to Green for 25th Anniversary Editions](https://www.cnet.com/tech/gaming/xbox-goes-back-to-green-for-25th-anniversary-editions/)
- - [As wealth managers confront an AI reckoning, the tech is, for now, easing their workloads by picking up routine tasks, freeing up more time to advise clients &lpar;Bloomberg&rpar;](https://www.techmeme.com/260607/p9#a260607p9)<!-- TECH:END -->
+ - [UK-based Creator Fund closes a $56M fund to back European PhD founders, reaching them in universities before they&#39;re pulled into academia, Big Tech, or US labs &lpar;Mike Butcher/Pathfounders&rpar;](https://www.techmeme.com/260607/p13#a260607p13)
+ - [Fusion energy startup Helion raised a $465M Series G led by Thrive Capital at a $15.5B valuation, nearly tripling the valuation from its January 2025 round &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260607/p12#a260607p12)
+ - [Nvidia and SK Hynix signed a multi-year pact to develop next-gen memory tailored for Nvidia&#39;s AI infrastructure roadmap, including for Vera Rubin &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260607/p11#a260607p11)
+ - [Nvidia says South Korea&#39;s Naver will use its technology to build AI factories at &quot;gigawatt scale&quot; to meet rising global demand for AI services and physical AI &lpar;Heekyong Yang/Reuters&rpar;](https://www.techmeme.com/260607/p10#a260607p10)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, June 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-8/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

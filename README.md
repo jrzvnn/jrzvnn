@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS 27 &#39;Golden Gate&#39; delivers more Liquid Glass and updated Siri](https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri?utm_source=rss)
- - [Liquid Glass customization &amp; better Apple Intelligence arrive with iPadOS 27](https://appleinsider.com/articles/26/06/08/liquid-glass-customization-better-apple-intelligence-arrive-with-ipados-27?utm_source=rss)
+ - [44 things coming to your Apple devices that you might have missed](https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed)
  - [iOS 27 gets better Liquid Glass and more responsiveness](https://appleinsider.com/articles/26/06/08/ios-27-gets-better-liquid-glass-and-more-responsiveness?utm_source=rss)
- - [Apple overhauls Apple Intelligence, with a new architecture built on Apple Foundation Models developed with Google and adapted to run on device and on servers &lpar;Hartley Charlton/MacRumors&rpar;](https://www.techmeme.com/260608/p36#a260608p36)
- - [AirPods finally gain custom EQ feature in iOS 26](https://appleinsider.com/articles/26/06/08/airpods-finally-gain-custom-eq-feature-in-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [Spatial computing &amp; Apple Intelligence upgrades collide in visionOS 27](https://appleinsider.com/articles/26/06/08/spatial-computing-apple-intelligence-upgrades-collide-in-visionos-27?utm_source=rss)
+ - [Game Porting Toolkit 4 ushers in support for agentic coding](https://appleinsider.com/articles/26/06/08/game-porting-toolkit-4-ushers-in-support-for-agentic-coding?utm_source=rss)
+ - [Apple&#39;s Craig Federighi says some companies &quot;appear to be racing forward&quot; to develop &quot;AI for the sake of AI&quot; without regard for the humans using the technology &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260608/p51#a260608p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

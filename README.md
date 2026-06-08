@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new foundation models don&#39;t contain a drop of Gemini, as we said they wouldn&#39;t](https://appleinsider.com/articles/26/06/08/apples-new-foundation-models-dont-contain-a-drop-of-gemini-as-we-said-they-wouldnt?utm_source=rss)
- - [Where was tvOS 27 at WWDC?](https://www.theverge.com/tech/946329/tvos-27-absent-wwdc)
- - [iOS 27 code has clear signs that a folding iPhone is coming soon](https://appleinsider.com/articles/26/06/08/ios-27-code-has-clear-signs-that-a-folding-iphone-is-coming-soon?utm_source=rss)
- - [Source: Cursor, which is prepping for an expected acquisition by SpaceX, passed $4B in annualized revenue in the last week, up from $3B in April and $2B in Feb. &lpar;Richard Nieva/Forbes&rpar;](https://www.techmeme.com/260608/p55#a260608p55)
- - [Apple’s new parental controls are for keeping Apple out of trouble](https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc)<!-- TECH:END -->
+ - [5 things I already love from the iOS 27 beta](https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things)
+ - [Infinity Constellation, which builds AI tools and software businesses for the professional services market, raised a $24M Series A; it previously raised $17M &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260608/p59#a260608p59)
+ - [Apple unveils an Apple Intelligence feature that can automatically change compromised passwords, using agentic AI, and save them to the Passwords app &lpar;James Pero/Gizmodo&rpar;](https://www.techmeme.com/260608/p58#a260608p58)
+ - [The Trump administration relaunches efforts to block state AI laws; Sen. Blackburn is leading negotiations and pushing KOSA as part of an AI preemption package &lpar;Axios&rpar;](https://www.techmeme.com/260608/p57#a260608p57)
+ - [Meta puts $115M toward a &quot;workforce academy&quot;, a free 5-week program to train Americans to build data centers, offering job guarantees at Meta construction sites &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260608/p56#a260608p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

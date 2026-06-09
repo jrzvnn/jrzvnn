@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [watchOS 27 supported by just six Apple Watch models](https://appleinsider.com/articles/26/06/08/watchos-27-supported-by-just-five-apple-watch-models?utm_source=rss)
- - [Everything you need to know about Prime Day 2026](https://www.theverge.com/gadgets/945942/prime-day-2026-frequently-asked-questions)
- - [Nintendo Direct June 2026: All the news and trailers](https://www.theverge.com/entertainment/945806/nintendo-direct-june-2026-trailers-news)
- - [Vinyl Equity, an SEC-registered transfer agent that has launched a payments platform earlier this year, raised a $20M Series A led by Jump Capital &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260609/p19#a260609p19)
- - [Apple’s best AI idea looks a lot like vibe coding](https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code)<!-- TECH:END -->
+ - [Amazon slashes 30% off Eero Max 7 Wi-Fi router ahead of Prime Day](https://appleinsider.com/articles/26/06/09/amazon-slashes-30-off-eero-max-7-wi-fi-router-ahead-of-prime-day?utm_source=rss)
+ - [You can buy unlimited AT&amp;T data for your iPad for $3 a day](https://appleinsider.com/articles/26/06/09/you-can-buy-unlimited-att-data-for-your-ipad-for-3-a-day?utm_source=rss)
+ - [SF voters reject the Overpaid CEO Act, a union-backed ballot measure to raise taxes on any large business where the CEO earns 100x more than the median employee &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p26#a260609p26)
+ - [Apple is embracing the fantasy of AI photo editing](https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes)
+ - [WWDC 2026 was somehow even more one note than I expected](https://appleinsider.com/articles/26/06/09/wwdc-2026-was-somehow-even-more-one-note-than-i-expected?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

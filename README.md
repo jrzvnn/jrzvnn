@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy ending.](http://9gag.com/gag/a87ZLP6)
- - 😝 [So real.](http://9gag.com/gag/aZZebd0)
- - 💣 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)
+ - 😝 [My bald uncle works at FIFA, he just sent me this.](http://9gag.com/gag/azxnbeN)
+ - 😝 [Someone finally snapped](http://9gag.com/gag/abA75RE)
+ - 💣 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [When You Try Summoning a Rainbow Snowstorm Indoors](http://9gag.com/gag/aoyXZm3)<!-- MEMES:END -->
+ - 👉 [White man solves problem](http://9gag.com/gag/amo3LqX)<!-- MEMES:END -->
 
 ---
 

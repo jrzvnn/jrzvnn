@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: US colleges now offer 74+ AI majors and 89+ minors, and at least a dozen schools are set to add AI majors this year; only five had AI majors in 2021 &lpar;Alan Blinder/New York Times&rpar;](https://www.techmeme.com/260609/p3#a260609p3)
+ - [In an interview, Perplexity CEO Aravind Srinivas says that the company is planning its IPO for 2028, regardless of how well the IPOs for Anthropic and OpenAI go &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/260609/p2#a260609p2)
  - [1Password Coupon: Score a Free Trial in June 2026](https://www.wired.com/story/1password-coupon/)
  - [HelloFresh Promo Codes: 55% Off for June 2026](https://www.wired.com/story/hellofresh-coupon/)
- - [OnePlus Promo Codes: 30% Off June 2026](https://www.wired.com/story/oneplus-promo-code/)
- - [Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for June 2026](https://www.wired.com/story/noom-promo-code/)
- - [Womanizer Coupons: Save 15% in June](https://www.wired.com/story/womanizer-coupon/)<!-- TECH:END -->
+ - [OnePlus Promo Codes: 30% Off June 2026](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

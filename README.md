@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol Ubisoft must&#39;ve been absolutely seething right now](http://9gag.com/gag/aMVg2eM)
- - 😝 [Deep tissue massages be like](http://9gag.com/gag/aZZebPW)
- - 💣 [Kitty Kat](http://9gag.com/gag/agmW3bg)
+ - 😝 [Happy ending.](http://9gag.com/gag/a87ZLP6)
+ - 😝 [So real.](http://9gag.com/gag/aZZebd0)
+ - 💣 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Someone finally snapped](http://9gag.com/gag/abA75RE)<!-- MEMES:END -->
+ - 👉 [When You Try Summoning a Rainbow Snowstorm Indoors](http://9gag.com/gag/aoyXZm3)<!-- MEMES:END -->
 
 ---
 

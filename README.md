@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Speedster](http://9gag.com/gag/aBypRwN)
- - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 💣 [AI makes copies from copies](http://9gag.com/gag/aqy04yv)
- - 😝 [It&#39;s only a matter of time before it happens](http://9gag.com/gag/ae9LNpW)
- - 👉 [Quiz](http://9gag.com/gag/adBEyjM)<!-- MEMES:END -->
+ - 😝 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)
+ - 😝 [What a VIEW](http://9gag.com/gag/a9yojrm)
+ - 💣 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
+ - 😝 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)
+ - 👉 [AI makes copies from copies](http://9gag.com/gag/aqy04yv)<!-- MEMES:END -->
 
 ---
 

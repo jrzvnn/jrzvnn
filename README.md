@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare](https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/)
- - [Super Micro Computer aims to raise $7B through equity and equity-linked financing transactions to fund purchasing components needed to fulfill AI server orders &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260609/p41#a260609p41)
- - [Congress just gave DHS another $70 billion](https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation)
- - [The App Store is going to add subscription bundles soon](https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store)
- - [Expect more controllers &amp; objects for Apple Vision Pro thanks to visionOS 27](https://appleinsider.com/articles/26/06/09/expect-more-controllers-objects-for-apple-vision-pro-thanks-to-visionos-27?utm_source=rss)<!-- TECH:END -->
+ - [I tried Siri AI, and so far it actually works](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)
+ - [Hands on with AirPods EQ settings in iOS 27](https://appleinsider.com/inside/airpods/tips/hands-on-with-airpods-eq-settings-in-ios-27?utm_source=rss)
+ - [CoreWeave founders have sold $2.3B in stock since the company&#39;s lockup period expired in August after a March 2025 IPO, reducing their combined holdings by ~25% &lpar;Ella Feldman/Bloomberg&rpar;](https://www.techmeme.com/260609/p44#a260609p44)
+ - [B&amp;H&#39;s best $899 MacBook Air deal has been extended, but supply is limited](https://appleinsider.com/articles/26/06/09/bhs-best-899-macbook-air-deal-has-been-extended-but-supply-is-limited?utm_source=rss)
+ - [ServiceNow says attackers exploited a flaw, patched on June 5, that let unauthenticated users query data from customer instances, but gives few other details &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260609/p43#a260609p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

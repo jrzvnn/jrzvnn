@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: US colleges now offer 74+ AI majors and 89+ minors, and at least a dozen schools are set to add AI majors this year; only five had AI majors in 2021 &lpar;Alan Blinder/New York Times&rpar;](https://www.techmeme.com/260609/p3#a260609p3)
- - [In an interview, Perplexity CEO Aravind Srinivas says that the company is planning its IPO for 2028, regardless of how well the IPOs for Anthropic and OpenAI go &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/260609/p2#a260609p2)
- - [1Password Coupon: Score a Free Trial in June 2026](https://www.wired.com/story/1password-coupon/)
- - [HelloFresh Promo Codes: 55% Off for June 2026](https://www.wired.com/story/hellofresh-coupon/)
- - [OnePlus Promo Codes: 30% Off June 2026](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
+ - [New York-based Standard Bots, which wants to make AI-powered robotic arms in the US, raised $200M led by General Catalyst and Robostrategy at a $1B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p15#a260609p15)
+ - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
+ - [The EU says Apple decided not to roll out Siri AI in the EU after it had unsuccessfully requested to be exempted from interoperability obligations for the tool &lpar;Inti Landauro/Reuters&rpar;](https://www.techmeme.com/260609/p14#a260609p14)
+ - [Amazon Ember Artline Review: A Stylish Art Television](https://www.wired.com/review/amazon-ember-artline/)
+ - [The Untold Story of the Google Buses That Took Over San Francisco](https://www.wired.com/story/book-excerpt-city-on-the-edge-google-buses-san-francisco/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes 30% off Eero Max 7 Wi-Fi router ahead of Prime Day](https://appleinsider.com/articles/26/06/09/amazon-slashes-30-off-eero-max-7-wi-fi-router-ahead-of-prime-day?utm_source=rss)
+ - [Sources: Canadian payments company Nuvei is in advanced talks to acquire cross-border payments company Payoneer Global for about $2.7B &lpar;Milana Vinn/Reuters&rpar;](https://www.techmeme.com/260609/p34#a260609p34)
  - [You can buy unlimited AT&amp;T data for your iPad for $3 a day](https://appleinsider.com/articles/26/06/09/you-can-buy-unlimited-att-data-for-your-ipad-for-3-a-day?utm_source=rss)
- - [SF voters reject the Overpaid CEO Act, a union-backed ballot measure to raise taxes on any large business where the CEO earns 100x more than the median employee &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p26#a260609p26)
- - [Apple is embracing the fantasy of AI photo editing](https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes)
- - [WWDC 2026 was somehow even more one note than I expected](https://appleinsider.com/articles/26/06/09/wwdc-2026-was-somehow-even-more-one-note-than-i-expected?utm_source=rss)<!-- TECH:END -->
+ - [A US judge cancels a Mississippi trial and disqualifies and fines lawyers on both sides after finding their filings were filled with hallucinated case citations &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/260609/p33#a260609p33)
+ - [Apple Intelligence Is Being Set Up to Become the World&#39;s Greatest Party Planner](https://www.cnet.com/tech/services-and-software/apple-intelligence-worlds-greatest-party-planner/)
+ - [Apple Buried the Best CarPlay News in the iOS 27 Developer Notes](https://www.cnet.com/roadshow/news/apple-carplay-and-automotive-updates-ios-27-wwdc-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

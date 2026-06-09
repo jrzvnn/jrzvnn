@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy ending.](http://9gag.com/gag/a87ZLP6)
- - 😝 [So real.](http://9gag.com/gag/aZZebd0)
- - 💣 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)
+ - 😝 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)
+ - 😝 [Intelligence and wisdom on display](http://9gag.com/gag/a7oQKdw)
+ - 💣 [Do the glasses thing again](http://9gag.com/gag/azxnb4m)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)<!-- MEMES:END -->
+ - 👉 [My fellow American](http://9gag.com/gag/aQzGpvW)<!-- MEMES:END -->
 
 ---
 

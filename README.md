@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lol Ubisoft must&#39;ve been absolutely seething right now](http://9gag.com/gag/aMVg2eM)
- - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 💣 [Deep tissue massages be like](http://9gag.com/gag/aZZebPW)
- - 😝 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)
- - 👉 [They deleting this soon](http://9gag.com/gag/aO8woL3)<!-- MEMES:END -->
+ - 😝 [Deep tissue massages be like](http://9gag.com/gag/aZZebPW)
+ - 💣 [Kitty Kat](http://9gag.com/gag/agmW3bg)
+ - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
+ - 👉 [Someone finally snapped](http://9gag.com/gag/abA75RE)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM Wants Your Electric Car to Power Your House—and Your Neighborhood](https://www.wired.com/story/gm-vehicle-to-grid-charging-your-electric-car-can-power-your-house-and-your-neighborhood/)
- - [GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech](https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion)
- - [Analysis: Trump and his sons profited $2.3B+ from four crypto ventures including $TRUMP since January 2025, while other investors in those projects lost ~$2.3B &lpar;Reuters&rpar;](https://www.techmeme.com/260609/p40#a260609p40)
- - [Docs: ~34K Instagram accounts, including Obama&#39;s White House account, were affected in the attack tied to Meta&#39;s AI chatbot; 3,500+ usernames were changed &lpar;New York Times&rpar;](https://www.techmeme.com/260609/p39#a260609p39)
- - [Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for frontier LLM development &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/260609/p38#a260609p38)<!-- TECH:END -->
+ - [Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare](https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/)
+ - [Super Micro Computer aims to raise $7B through equity and equity-linked financing transactions to fund purchasing components needed to fulfill AI server orders &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260609/p41#a260609p41)
+ - [Congress just gave DHS another $70 billion](https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation)
+ - [The App Store is going to add subscription bundles soon](https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store)
+ - [Expect more controllers &amp; objects for Apple Vision Pro thanks to visionOS 27](https://appleinsider.com/articles/26/06/09/expect-more-controllers-objects-for-apple-vision-pro-thanks-to-visionos-27?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

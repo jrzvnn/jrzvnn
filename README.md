@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 things I already love from the iOS 27 beta](https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things)
- - [Infinity Constellation, which builds AI tools and software businesses for the professional services market, raised a $24M Series A; it previously raised $17M &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260608/p59#a260608p59)
- - [Apple unveils an Apple Intelligence feature that can automatically change compromised passwords, using agentic AI, and save them to the Passwords app &lpar;James Pero/Gizmodo&rpar;](https://www.techmeme.com/260608/p58#a260608p58)
- - [The Trump administration relaunches efforts to block state AI laws; Sen. Blackburn is leading negotiations and pushing KOSA as part of an AI preemption package &lpar;Axios&rpar;](https://www.techmeme.com/260608/p57#a260608p57)
- - [Meta puts $115M toward a &quot;workforce academy&quot;, a free 5-week program to train Americans to build data centers, offering job guarantees at Meta construction sites &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260608/p56#a260608p56)<!-- TECH:END -->
+ - [Microsoft disabled 70+ of its repos on GitHub, including Azure-related tools like azure-functions-host, after hackers added credential-stealing malware to them &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/260608/p61#a260608p61)
+ - [Google and Nvidia are helping Apple with Apple Foundation Model Cloud Pro, which Apple says is comparable to Gemini frontier models and runs on Nvidia GPUs &lpar;Kif Leswing/CNBC&rpar;](https://www.techmeme.com/260608/p60#a260608p60)
+ - [The Devil Wears Prada, and for Artemis IV, So Will Astronauts](https://www.cnet.com/science/space/artemis-iv-nasa-astronauts-spacesuit-prada-axiom-space-moon/)
+ - [Instagram is finally letting everyone reorganize their profile grid](https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid)
+ - [Apple’s Screen Time updates are too little, too late](https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

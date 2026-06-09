@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kitty Kat](http://9gag.com/gag/agmW3bg)
- - 😝 [Footage from old days](http://9gag.com/gag/aBypRVQ)
- - 💣 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
+ - 😝 [Happy ending.](http://9gag.com/gag/a87ZLP6)
+ - 😝 [So real.](http://9gag.com/gag/aZZebd0)
+ - 💣 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)<!-- MEMES:END -->
+ - 👉 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)<!-- MEMES:END -->
 
 ---
 

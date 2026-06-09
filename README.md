@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lol Ubisoft must&#39;ve been absolutely seething right now](http://9gag.com/gag/aMVg2eM)
  - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 😝 [Speedster](http://9gag.com/gag/aBypRwN)
- - 💣 [Is blinker fluid suppose to be this brown?](http://9gag.com/gag/aNDNr76)
- - 😝 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)
- - 👉 [What a VIEW](http://9gag.com/gag/a9yojrm)<!-- MEMES:END -->
+ - 💣 [Deep tissue massages be like](http://9gag.com/gag/aZZebPW)
+ - 😝 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)
+ - 👉 [They deleting this soon](http://9gag.com/gag/aO8woL3)<!-- MEMES:END -->
 
 ---
 

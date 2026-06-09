@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Canadian payments company Nuvei is in advanced talks to acquire cross-border payments company Payoneer Global for about $2.7B &lpar;Milana Vinn/Reuters&rpar;](https://www.techmeme.com/260609/p34#a260609p34)
- - [You can buy unlimited AT&amp;T data for your iPad for $3 a day](https://appleinsider.com/articles/26/06/09/you-can-buy-unlimited-att-data-for-your-ipad-for-3-a-day?utm_source=rss)
- - [A US judge cancels a Mississippi trial and disqualifies and fines lawyers on both sides after finding their filings were filled with hallucinated case citations &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/260609/p33#a260609p33)
- - [Apple Intelligence Is Being Set Up to Become the World&#39;s Greatest Party Planner](https://www.cnet.com/tech/services-and-software/apple-intelligence-worlds-greatest-party-planner/)
- - [Apple Buried the Best CarPlay News in the iOS 27 Developer Notes](https://www.cnet.com/roadshow/news/apple-carplay-and-automotive-updates-ios-27-wwdc-2026/)<!-- TECH:END -->
+ - [GM Wants Your Electric Car to Power Your House—and Your Neighborhood](https://www.wired.com/story/gm-vehicle-to-grid-charging-your-electric-car-can-power-your-house-and-your-neighborhood/)
+ - [GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech](https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion)
+ - [Analysis: Trump and his sons profited $2.3B+ from four crypto ventures including $TRUMP since January 2025, while other investors in those projects lost ~$2.3B &lpar;Reuters&rpar;](https://www.techmeme.com/260609/p40#a260609p40)
+ - [Docs: ~34K Instagram accounts, including Obama&#39;s White House account, were affected in the attack tied to Meta&#39;s AI chatbot; 3,500+ usernames were changed &lpar;New York Times&rpar;](https://www.techmeme.com/260609/p39#a260609p39)
+ - [Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for frontier LLM development &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/260609/p38#a260609p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

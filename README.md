@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Standard Bots, which wants to make AI-powered robotic arms in the US, raised $200M led by General Catalyst and Robostrategy at a $1B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p15#a260609p15)
- - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
- - [The EU says Apple decided not to roll out Siri AI in the EU after it had unsuccessfully requested to be exempted from interoperability obligations for the tool &lpar;Inti Landauro/Reuters&rpar;](https://www.techmeme.com/260609/p14#a260609p14)
- - [Amazon Ember Artline Review: A Stylish Art Television](https://www.wired.com/review/amazon-ember-artline/)
- - [The Untold Story of the Google Buses That Took Over San Francisco](https://www.wired.com/story/book-excerpt-city-on-the-edge-google-buses-san-francisco/)<!-- TECH:END -->
+ - [watchOS 27 supported by just six Apple Watch models](https://appleinsider.com/articles/26/06/08/watchos-27-supported-by-just-five-apple-watch-models?utm_source=rss)
+ - [Everything you need to know about Prime Day 2026](https://www.theverge.com/gadgets/945942/prime-day-2026-frequently-asked-questions)
+ - [Nintendo Direct June 2026: All the news and trailers](https://www.theverge.com/entertainment/945806/nintendo-direct-june-2026-trailers-news)
+ - [Vinyl Equity, an SEC-registered transfer agent that has launched a payments platform earlier this year, raised a $20M Series A led by Jump Capital &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260609/p19#a260609p19)
+ - [Apple’s best AI idea looks a lot like vibe coding](https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

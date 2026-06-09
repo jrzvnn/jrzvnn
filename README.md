@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My bald uncle works at FIFA, he just sent me this.](http://9gag.com/gag/azxnbeN)
- - 😝 [Someone finally snapped](http://9gag.com/gag/abA75RE)
+ - 😝 [Kitty Kat](http://9gag.com/gag/agmW3bg)
+ - 😝 [Footage from old days](http://9gag.com/gag/aBypRVQ)
  - 💣 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [White man solves problem](http://9gag.com/gag/amo3LqX)<!-- MEMES:END -->
+ - 👉 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)<!-- MEMES:END -->
 
 ---
 

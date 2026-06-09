@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)
- - 😝 [What a VIEW](http://9gag.com/gag/a9yojrm)
- - 💣 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
+ - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
+ - 😝 [Speedster](http://9gag.com/gag/aBypRwN)
+ - 💣 [Is blinker fluid suppose to be this brown?](http://9gag.com/gag/aNDNr76)
  - 😝 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)
- - 👉 [AI makes copies from copies](http://9gag.com/gag/aqy04yv)<!-- MEMES:END -->
+ - 👉 [What a VIEW](http://9gag.com/gag/a9yojrm)<!-- MEMES:END -->
 
 ---
 

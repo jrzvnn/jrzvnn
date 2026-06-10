@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone finally snapped](http://9gag.com/gag/abA75RE)
- - 😝 [Prayers do come true](http://9gag.com/gag/avyNZPM)
+ - 😝 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - 😝 [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)
  - 💣 [And so it begins](http://9gag.com/gag/an76X7q)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Just for you](http://9gag.com/gag/aNDNZAA)<!-- MEMES:END -->
+ - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
 
 ---
 

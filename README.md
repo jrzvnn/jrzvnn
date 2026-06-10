@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future of AI regulation is courting the strangest, most anxious bedfellows](https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms)
- - [Hands on: Sidecar previews a full touch interface for macOS 27](https://appleinsider.com/articles/26/06/10/hands-on-sidecar-previews-a-full-touch-interface-for-macos-27?utm_source=rss)
- - [Hey Siri, You&#39;re the Framework for Apple&#39;s Smart Glasses Now](https://www.cnet.com/tech/computing/hey-siri-youre-the-framework-for-apples-smart-glasses-now/)
- - [Google won’t just admit it’s feeding YouTube creators to its music AI](https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube)
- - [iOS 27 Feels Like an Empty Update on Older iPhones](https://www.cnet.com/tech/services-and-software/ios-27-feels-like-an-empty-update-on-older-iphones/)<!-- TECH:END -->
+ - [Anthropic releases two policy proposals on how governments should address catastrophic risks and manage labor market disruption from advanced AI systems &lpar;Anthropic&rpar;](https://www.techmeme.com/260610/p53#a260610p53)
+ - [Time Capsule support is dead in macOS 27, but you can keep the hardware alive](https://appleinsider.com/articles/26/06/10/time-capsule-support-is-dead-in-macos-27-but-you-can-keep-the-hardware-alive?utm_source=rss)
+ - [A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents](https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/)
+ - [Dario Amodei says frontier models should face mandatory third-party testing for cyber, bio, and autonomy risks, in addition to overall transparency requirements &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260610/p52#a260610p52)
+ - [An essay on policy responses to AI&#39;s exponential progress across regulation and public safety, macroeconomics and taxes, science, civil liberties, geopolitics &lpar;Dario Amodei&rpar;](https://www.techmeme.com/260610/p51#a260610p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

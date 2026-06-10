@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)
- - 😝 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
- - 💣 [Found this on FB. Hope its true](http://9gag.com/gag/ae9L3ob)
+ - 😝 [Someone finally snapped](http://9gag.com/gag/abA75RE)
+ - 😝 [Prayers do come true](http://9gag.com/gag/avyNZPM)
+ - 💣 [And so it begins](http://9gag.com/gag/an76X7q)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
  - 👉 [Just for you](http://9gag.com/gag/aNDNZAA)<!-- MEMES:END -->
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 3 plunge to $179, lowest price ever, ahead of Prime Day](https://appleinsider.com/articles/26/06/10/airpods-pro-3-plunge-to-179-lowest-price-ever-ahead-of-prime-day?utm_source=rss)
- - [New York-based Jedify, whose platform connects to enterprises&#39; knowledge sources via APIs to build a &quot;context graph&quot; for AI agents, raised a $24M Series A &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260610/p35#a260610p35)
- - [Wireless earbuds market dominated by Apple, open-ear models are rising](https://appleinsider.com/articles/26/06/10/wireless-earbuds-market-dominated-by-apple-open-ear-models-are-rising?utm_source=rss)
- - [You can buy unlimited AT&amp;T data for your iPad for $3 a day](https://appleinsider.com/articles/26/06/10/you-can-buy-unlimited-att-data-for-your-ipad-for-3-a-day?utm_source=rss)
- - [macOS 27 has broken boot drive selection for some](https://appleinsider.com/articles/26/06/10/macos-27-has-broken-the-boot-drive-selector-for-some?utm_source=rss)<!-- TECH:END -->
+ - [The future of AI regulation is courting the strangest, most anxious bedfellows](https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms)
+ - [Hands on: Sidecar previews a full touch interface for macOS 27](https://appleinsider.com/articles/26/06/10/hands-on-sidecar-previews-a-full-touch-interface-for-macos-27?utm_source=rss)
+ - [Hey Siri, You&#39;re the Framework for Apple&#39;s Smart Glasses Now](https://www.cnet.com/tech/computing/hey-siri-youre-the-framework-for-apples-smart-glasses-now/)
+ - [Google won’t just admit it’s feeding YouTube creators to its music AI](https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube)
+ - [iOS 27 Feels Like an Empty Update on Older iPhones](https://www.cnet.com/tech/services-and-software/ios-27-feels-like-an-empty-update-on-older-iphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

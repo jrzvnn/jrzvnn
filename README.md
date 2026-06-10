@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Reduce Interruptions on iPhone and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_source=rss)
- - [Best iPad Accessories &lpar;2026&rpar;: Keyboards, Cases, Styli](https://www.wired.com/gallery/best-ipad-accessories/)
- - [Sources: Chinese companies like Moonshot are reconsidering &quot;red-chip&quot; structures, which made it easier to list overseas, after China blocked the Manus deal &lpar;Financial Times&rpar;](https://www.techmeme.com/260610/p22#a260610p22)
- - [BYD to install thousands of 5-minute EV chargers across Europe](https://www.theverge.com/transportation/947553/byd-flash-chargers-uk-europe-ev-blade-battery)
- - [Xbox exploring ‘radically different’ console business models](https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon)<!-- TECH:END -->
+ - [AirPods Pro 3 plunge to $179, lowest price ever, ahead of Prime Day](https://appleinsider.com/articles/26/06/10/airpods-pro-3-plunge-to-179-lowest-price-ever-ahead-of-prime-day?utm_source=rss)
+ - [New York-based Jedify, whose platform connects to enterprises&#39; knowledge sources via APIs to build a &quot;context graph&quot; for AI agents, raised a $24M Series A &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260610/p35#a260610p35)
+ - [Wireless earbuds market dominated by Apple, open-ear models are rising](https://appleinsider.com/articles/26/06/10/wireless-earbuds-market-dominated-by-apple-open-ear-models-are-rising?utm_source=rss)
+ - [You can buy unlimited AT&amp;T data for your iPad for $3 a day](https://appleinsider.com/articles/26/06/10/you-can-buy-unlimited-att-data-for-your-ipad-for-3-a-day?utm_source=rss)
+ - [macOS 27 has broken boot drive selection for some](https://appleinsider.com/articles/26/06/10/macos-27-has-broken-the-boot-drive-selector-for-some?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

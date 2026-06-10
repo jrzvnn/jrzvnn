@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU warns that AI-boosted chemical synthesis is helping European drug gangs develop new &quot;designer&quot; drug precursors that evade existing product blacklists &lpar;Michael Peel/Financial Times&rpar;](https://www.techmeme.com/260609/p49#a260609p49)
- - [Edge Markets, which provides banking tools for gambling and prediction markets, including real-time payments on Kalshi, raised a $29.2M Series A led by CoinFund &lpar;Davis Giangiulio/CNBC&rpar;](https://www.techmeme.com/260609/p48#a260609p48)
- - [Sources: SoftBank&#39;s talks with creditors to raise $6B through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p47#a260609p47)
- - [Stepful, an AI-powered online training platform for healthcare workers, raised a $55M Series C led by Oak HC/FT, bringing its total funding to $105M &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/260609/p46#a260609p46)
- - [Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill &lpar;Greg Kim/The Seattle Times&rpar;](https://www.techmeme.com/260609/p45#a260609p45)<!-- TECH:END -->
+ - [Logitech’s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse](https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on)
+ - [Sixteen economists on what AI will mean for the US economy, workers, and workplaces: AI will boost productivity in the near term, but only two expect more jobs &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260610/p12#a260610p12)
+ - [An expert panel with Daron Acemoglu, Dean Ball, Ethan Mollick, and Clara Shih discusses AI&#39;s impact on jobs and how to prepare for the future of work &lpar;New York Times&rpar;](https://www.techmeme.com/260610/p11#a260610p11)
+ - [Walmart outlined a future where AI will change how people work, not necessarily how many work, at its annual Associates Week, as it accelerates AI adoption &lpar;Gregory Meyer/Financial Times&rpar;](https://www.techmeme.com/260610/p10#a260610p10)
+ - [Microsoft&#39;s June 2026 Patch Tuesday fixes a record ~200 Windows security flaws, nearly three dozen of them critical, amid growing use of AI to find bugs &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260610/p9#a260610p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

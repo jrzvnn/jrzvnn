@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - 😝 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
- - 💣 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)
- - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Just for you](http://9gag.com/gag/aNDNZAA)<!-- MEMES:END -->
+ - 😝 [Cartoon logic](http://9gag.com/gag/amo30N6)
+ - 💣 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
+ - 😝 [News from the front](http://9gag.com/gag/aKGRP7Q)
+ - 👉 [Found this on FB. Hope its true](http://9gag.com/gag/ae9L3ob)<!-- MEMES:END -->
 
 ---
 

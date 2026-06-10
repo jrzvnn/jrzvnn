@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)
- - 😝 [Intelligence and wisdom on display](http://9gag.com/gag/a7oQKdw)
- - 💣 [I could definitely be friends with this guy](http://9gag.com/gag/aoyXzW3)
+ - 😝 [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)
+ - 😝 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
+ - 💣 [Found this on FB. Hope its true](http://9gag.com/gag/ae9L3ob)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Do the glasses thing again](http://9gag.com/gag/azxnb4m)<!-- MEMES:END -->
+ - 👉 [Just for you](http://9gag.com/gag/aNDNZAA)<!-- MEMES:END -->
 
 ---
 

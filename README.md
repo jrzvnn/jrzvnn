@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone finally snapped](http://9gag.com/gag/abA75RE)
- - 😝 [Kitty Kat](http://9gag.com/gag/agmW3bg)
- - 💣 [Footage from old days](http://9gag.com/gag/aBypRVQ)
+ - 😝 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)
+ - 😝 [Intelligence and wisdom on display](http://9gag.com/gag/a7oQKdw)
+ - 💣 [I could definitely be friends with this guy](http://9gag.com/gag/aoyXzW3)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Bittersweet](http://9gag.com/gag/aD2yw8O)<!-- MEMES:END -->
+ - 👉 [Do the glasses thing again](http://9gag.com/gag/azxnb4m)<!-- MEMES:END -->
 
 ---
 

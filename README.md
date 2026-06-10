@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Someone finally snapped](http://9gag.com/gag/abA75RE)
- - 😝 [Footage from old days](http://9gag.com/gag/aBypRVQ)
- - 💣 [Kitty Kat](http://9gag.com/gag/agmW3bg)
+ - 😝 [Kitty Kat](http://9gag.com/gag/agmW3bg)
+ - 💣 [Footage from old days](http://9gag.com/gag/aBypRVQ)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)<!-- MEMES:END -->
+ - 👉 [Bittersweet](http://9gag.com/gag/aD2yw8O)<!-- MEMES:END -->
 
 ---
 

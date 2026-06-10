@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse](https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on)
- - [Sixteen economists on what AI will mean for the US economy, workers, and workplaces: AI will boost productivity in the near term, but only two expect more jobs &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260610/p12#a260610p12)
- - [An expert panel with Daron Acemoglu, Dean Ball, Ethan Mollick, and Clara Shih discusses AI&#39;s impact on jobs and how to prepare for the future of work &lpar;New York Times&rpar;](https://www.techmeme.com/260610/p11#a260610p11)
- - [Walmart outlined a future where AI will change how people work, not necessarily how many work, at its annual Associates Week, as it accelerates AI adoption &lpar;Gregory Meyer/Financial Times&rpar;](https://www.techmeme.com/260610/p10#a260610p10)
- - [Microsoft&#39;s June 2026 Patch Tuesday fixes a record ~200 Windows security flaws, nearly three dozen of them critical, amid growing use of AI to find bugs &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260610/p9#a260610p9)<!-- TECH:END -->
+ - [How to use Reduce Interruptions on iPhone and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_source=rss)
+ - [Best iPad Accessories &lpar;2026&rpar;: Keyboards, Cases, Styli](https://www.wired.com/gallery/best-ipad-accessories/)
+ - [Sources: Chinese companies like Moonshot are reconsidering &quot;red-chip&quot; structures, which made it easier to list overseas, after China blocked the Manus deal &lpar;Financial Times&rpar;](https://www.techmeme.com/260610/p22#a260610p22)
+ - [BYD to install thousands of 5-minute EV chargers across Europe](https://www.theverge.com/transportation/947553/byd-flash-chargers-uk-europe-ev-blade-battery)
+ - [Xbox exploring ‘radically different’ console business models](https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

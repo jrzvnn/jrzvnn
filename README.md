@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - 😝 [Cartoon logic](http://9gag.com/gag/amo30N6)
- - 💣 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 😝 [News from the front](http://9gag.com/gag/aKGRP7Q)
- - 👉 [Found this on FB. Hope its true](http://9gag.com/gag/ae9L3ob)<!-- MEMES:END -->
+ - 😝 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 😝 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
+ - 💣 [Bittersweet](http://9gag.com/gag/aD2yw8O)
+ - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
+ - 👉 [Not a lucky cat but would you take the risk ?](http://9gag.com/gag/a87ZYOQ)<!-- MEMES:END -->
 
 ---
 

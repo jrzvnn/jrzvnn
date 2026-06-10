@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic releases two policy proposals on how governments should address catastrophic risks and manage labor market disruption from advanced AI systems &lpar;Anthropic&rpar;](https://www.techmeme.com/260610/p53#a260610p53)
- - [Time Capsule support is dead in macOS 27, but you can keep the hardware alive](https://appleinsider.com/articles/26/06/10/time-capsule-support-is-dead-in-macos-27-but-you-can-keep-the-hardware-alive?utm_source=rss)
- - [A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents](https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/)
- - [Dario Amodei says frontier models should face mandatory third-party testing for cyber, bio, and autonomy risks, in addition to overall transparency requirements &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260610/p52#a260610p52)
- - [An essay on policy responses to AI&#39;s exponential progress across regulation and public safety, macroeconomics and taxes, science, civil liberties, geopolitics &lpar;Dario Amodei&rpar;](https://www.techmeme.com/260610/p51#a260610p51)<!-- TECH:END -->
+ - [CISA shortens the deadline for US agencies to fix the most critical vulnerabilities in their networks to three days, citing hackers&#39; use of AI &lpar;Raphael Satter/Reuters&rpar;](https://www.techmeme.com/260610/p59#a260610p59)
+ - [Nearly a million passports and photo IDs were left unprotected on the public internet](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal)
+ - [Chinese companies are implementing &quot;quiet&quot; AI-driven layoffs to avoid labor laws that require government approval for job cuts exceeding 10% of a workforce &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260610/p58#a260610p58)
+ - [Sources: Microsoft&#39;s Xbox division is planning major layoffs next month and significant budget cuts for marketing and some other areas &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260610/p57#a260610p57)
+ - [Xbox warns of a &amp;#8216;reset&amp;#8217; as it prepares for layoffs](https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

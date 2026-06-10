@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Siri AI, and so far it actually works](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)
- - [Hands on with AirPods EQ settings in iOS 27](https://appleinsider.com/inside/airpods/tips/hands-on-with-airpods-eq-settings-in-ios-27?utm_source=rss)
- - [CoreWeave founders have sold $2.3B in stock since the company&#39;s lockup period expired in August after a March 2025 IPO, reducing their combined holdings by ~25% &lpar;Ella Feldman/Bloomberg&rpar;](https://www.techmeme.com/260609/p44#a260609p44)
- - [B&amp;H&#39;s best $899 MacBook Air deal has been extended, but supply is limited](https://appleinsider.com/articles/26/06/09/bhs-best-899-macbook-air-deal-has-been-extended-but-supply-is-limited?utm_source=rss)
- - [ServiceNow says attackers exploited a flaw, patched on June 5, that let unauthenticated users query data from customer instances, but gives few other details &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260609/p43#a260609p43)<!-- TECH:END -->
+ - [The EU warns that AI-boosted chemical synthesis is helping European drug gangs develop new &quot;designer&quot; drug precursors that evade existing product blacklists &lpar;Michael Peel/Financial Times&rpar;](https://www.techmeme.com/260609/p49#a260609p49)
+ - [Edge Markets, which provides banking tools for gambling and prediction markets, including real-time payments on Kalshi, raised a $29.2M Series A led by CoinFund &lpar;Davis Giangiulio/CNBC&rpar;](https://www.techmeme.com/260609/p48#a260609p48)
+ - [Sources: SoftBank&#39;s talks with creditors to raise $6B through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p47#a260609p47)
+ - [Stepful, an AI-powered online training platform for healthcare workers, raised a $55M Series C led by Oak HC/FT, bringing its total funding to $105M &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/260609/p46#a260609p46)
+ - [Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill &lpar;Greg Kim/The Seattle Times&rpar;](https://www.techmeme.com/260609/p45#a260609p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

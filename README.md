@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - 😝 [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)
- - 💣 [And so it begins](http://9gag.com/gag/an76X7q)
+ - 😝 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 💣 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
+ - 👉 [Just for you](http://9gag.com/gag/aNDNZAA)<!-- MEMES:END -->
 
 ---
 

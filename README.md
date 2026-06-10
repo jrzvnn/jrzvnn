@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CISA shortens the deadline for US agencies to fix the most critical vulnerabilities in their networks to three days, citing hackers&#39; use of AI &lpar;Raphael Satter/Reuters&rpar;](https://www.techmeme.com/260610/p59#a260610p59)
- - [Nearly a million passports and photo IDs were left unprotected on the public internet](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal)
- - [Chinese companies are implementing &quot;quiet&quot; AI-driven layoffs to avoid labor laws that require government approval for job cuts exceeding 10% of a workforce &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260610/p58#a260610p58)
- - [Sources: Microsoft&#39;s Xbox division is planning major layoffs next month and significant budget cuts for marketing and some other areas &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260610/p57#a260610p57)
- - [Xbox warns of a &amp;#8216;reset&amp;#8217; as it prepares for layoffs](https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma)<!-- TECH:END -->
+ - [Instagram expands Your Algorithm to its main feed, letting users choose topics they want to see, and is working to support requests for people, moods, and more &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260610/p62#a260610p62)
+ - [Framework delays its first Laptop 13 Pro shipments by a month](https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august)
+ - [YouTube rolls out a new in-app messaging system for sharing videos and having 1:1 conversations; it discontinued its previous Messages feature in 2019 &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260610/p61#a260610p61)
+ - [Prominent leaker may see default ruling reversed in Apple lawsuit](https://appleinsider.com/articles/26/06/10/prominent-leaker-may-see-default-ruling-reversed-in-apple-lawsuit?utm_source=rss)
+ - [Fewer iPhone users are updating to iOS 26 than they did with iOS 18](https://appleinsider.com/articles/26/06/10/fewer-iphone-users-are-updating-to-ios-26-than-they-did-with-ios-18?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

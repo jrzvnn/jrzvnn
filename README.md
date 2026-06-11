@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crusoe said it had &quot;paused&quot; a plan to build a Wyoming data center; sources: it failed to win customers including Google amid concerns about costs and timetable &lpar;Bloomberg&rpar;](https://www.techmeme.com/260611/p29#a260611p29)
- - [Amazon says its data centers used ~2.5B gallons of water in 2025, or 0.12 liters of water per kWh, and water use at sites it owns and operates fell 2% from 2024 &lpar;Anvee Bhutani/Wall Street Journal&rpar;](https://www.techmeme.com/260611/p28#a260611p28)
- - [Apollo Global has implemented a new risk assessment that categorizes software investments into 12 to 14 sectors to rank their susceptibility to AI disruption &lpar;Hannah Webster/Bloomberg&rpar;](https://www.techmeme.com/260611/p27#a260611p27)
- - [With the World Cup looming, there’s still no clear replacement for sports Twitter](https://www.theverge.com/entertainment/947956/world-cup-2026-social-media)
- - [Jeff Bezos&#39; Prometheus, which is building AI models for physical tasks, raised a $12B Series B at a $41B valuation, following a $6.2B Series A &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/260611/p26#a260611p26)<!-- TECH:END -->
+ - [US legislation outlawing big tech from favoriting their own services resurrected](https://appleinsider.com/articles/26/06/11/us-legislation-outlawing-big-tech-from-favoriting-their-own-services-resurrected?utm_source=rss)
+ - [Blink’s six-piece outdoor camera kit is a great deal under $200](https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale)
+ - [Former a16z GP John O&#39;Farrell criticizes the AI industry and his ex-partners for spending hundreds of millions to fight regulation, calling it &quot;a huge mistake&quot; &lpar;John O&#39;Farrell/New York Times&rpar;](https://www.techmeme.com/260611/p40#a260611p40)
+ - [Roborock&amp;#8217;s Q10 S5 Plus robovac is over half off, matching its best price to date](https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale)
+ - [Amazon&amp;#8217;s data centers used 2.5 billion gallons of water last year](https://www.theverge.com/tech/948534/amazon-data-centers-water-use)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

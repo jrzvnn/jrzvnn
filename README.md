@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Workers&#39; Daily, the official mouthpiece of China&#39;s umbrella trade union, calls on regulators to protect worker rights and strengthen oversight amid AI boom &lpar;Bloomberg&rpar;](https://www.techmeme.com/260611/p13#a260611p13)
- - [Best Portable Monitors &lpar;2026&rpar;: Add a Second Screen I&#39;ve Tested](https://www.wired.com/story/best-portable-monitors/)
- - [Americans Are Trading Billions of Dollars on Polymarket’s Banned Offshore Platform](https://www.wired.com/story/polymarket-study-illegal-trades-offshore-billions/)
- - [YouTube Appears to Be Making Money Off of Sanctioned Iranians’ Accounts](https://www.wired.com/story/youtube-appears-to-be-making-money-off-of-sanctioned-iranian-accounts/)
- - [Deezer launches an AI music detection tool for users of 20 services, including Spotify and Apple Music, after no company licensed its AI detection tech &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260611/p12#a260611p12)<!-- TECH:END -->
+ - [Crusoe said it had &quot;paused&quot; a plan to build a Wyoming data center; sources: it failed to win customers including Google amid concerns about costs and timetable &lpar;Bloomberg&rpar;](https://www.techmeme.com/260611/p29#a260611p29)
+ - [Amazon says its data centers used ~2.5B gallons of water in 2025, or 0.12 liters of water per kWh, and water use at sites it owns and operates fell 2% from 2024 &lpar;Anvee Bhutani/Wall Street Journal&rpar;](https://www.techmeme.com/260611/p28#a260611p28)
+ - [Apollo Global has implemented a new risk assessment that categorizes software investments into 12 to 14 sectors to rank their susceptibility to AI disruption &lpar;Hannah Webster/Bloomberg&rpar;](https://www.techmeme.com/260611/p27#a260611p27)
+ - [With the World Cup looming, there’s still no clear replacement for sports Twitter](https://www.theverge.com/entertainment/947956/world-cup-2026-social-media)
+ - [Jeff Bezos&#39; Prometheus, which is building AI models for physical tasks, raised a $12B Series B at a $41B valuation, following a $6.2B Series A &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/260611/p26#a260611p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

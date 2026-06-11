@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 😝 [Enjoy prison, Karmelo!](http://9gag.com/gag/aO8wy86)
  - 😝 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
- - 💣 [Bittersweet](http://9gag.com/gag/aD2yw8O)
+ - 💣 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Not a lucky cat but would you take the risk ?](http://9gag.com/gag/a87ZYOQ)<!-- MEMES:END -->
+ - 👉 [Just for you](http://9gag.com/gag/aNDNZAA)<!-- MEMES:END -->
 
 ---
 

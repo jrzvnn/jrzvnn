@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is considering drastically lowering its price for tokens in anticipation of similar cuts the company expects at Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260610/p66#a260610p66)
- - [Product head Alex Benzer says Bluesky plans to add &quot;communities&quot; this year, smaller spaces to &quot;go deeper and hang out with people who care about the same stuff&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260610/p65#a260610p65)
- - [15 Horror Movies You Really Need to Stream on HBO Max](https://www.cnet.com/tech/services-and-software/best-horror-movies-on-hbo-max-june-2026/)
- - [Gemini Is Down? &#39;Majority of Users&#39; Should Be OK Now, Google Says](https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 11, #626](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-11-626/)<!-- TECH:END -->
+ - [FSB-orchestrated internet outages in Russia, intermittent but indiscriminate, have made one of the world&#39;s most online nations resort to cash and paper maps &lpar;Financial Times&rpar;](https://www.techmeme.com/260611/p6#a260611p6)
+ - [Sources: Alibaba replaces DingTalk CEO Chen Hang with Chen Yusen after an internal debate over the enterprise communication app&#39;s role in Alibaba&#39;s AI strategy &lpar;Bloomberg&rpar;](https://www.techmeme.com/260611/p5#a260611p5)
+ - [Applied Materials opens a $500M chip equipment manufacturing campus in Singapore, making the city-state home to ~50% of its production capacity alongside the US &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260611/p4#a260611p4)
+ - [Analysis: Conservative and Reform UK MPs have increased their volume of posts on X since Elon Musk&#39;s takeover, while center-left politicians have reduced theirs &lpar;Financial Times&rpar;](https://www.techmeme.com/260611/p3#a260611p3)
+ - [YouTube and FIFA Expand World Cup Partnership With Inaugural Creator Cup Match](https://www.cnet.com/tech/services-and-software/youtube-fifa-world-cup-partnership-inaugural-creator-cup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

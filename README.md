@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FSB-orchestrated internet outages in Russia, intermittent but indiscriminate, have made one of the world&#39;s most online nations resort to cash and paper maps &lpar;Financial Times&rpar;](https://www.techmeme.com/260611/p6#a260611p6)
- - [Sources: Alibaba replaces DingTalk CEO Chen Hang with Chen Yusen after an internal debate over the enterprise communication app&#39;s role in Alibaba&#39;s AI strategy &lpar;Bloomberg&rpar;](https://www.techmeme.com/260611/p5#a260611p5)
- - [Applied Materials opens a $500M chip equipment manufacturing campus in Singapore, making the city-state home to ~50% of its production capacity alongside the US &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260611/p4#a260611p4)
- - [Analysis: Conservative and Reform UK MPs have increased their volume of posts on X since Elon Musk&#39;s takeover, while center-left politicians have reduced theirs &lpar;Financial Times&rpar;](https://www.techmeme.com/260611/p3#a260611p3)
- - [YouTube and FIFA Expand World Cup Partnership With Inaugural Creator Cup Match](https://www.cnet.com/tech/services-and-software/youtube-fifa-world-cup-partnership-inaugural-creator-cup/)<!-- TECH:END -->
+ - [The Workers&#39; Daily, the official mouthpiece of China&#39;s umbrella trade union, calls on regulators to protect worker rights and strengthen oversight amid AI boom &lpar;Bloomberg&rpar;](https://www.techmeme.com/260611/p13#a260611p13)
+ - [Best Portable Monitors &lpar;2026&rpar;: Add a Second Screen I&#39;ve Tested](https://www.wired.com/story/best-portable-monitors/)
+ - [Americans Are Trading Billions of Dollars on Polymarket’s Banned Offshore Platform](https://www.wired.com/story/polymarket-study-illegal-trades-offshore-billions/)
+ - [YouTube Appears to Be Making Money Off of Sanctioned Iranians’ Accounts](https://www.wired.com/story/youtube-appears-to-be-making-money-off-of-sanctioned-iranian-accounts/)
+ - [Deezer launches an AI music detection tool for users of 20 services, including Spotify and Apple Music, after no company licensed its AI detection tech &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260611/p12#a260611p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

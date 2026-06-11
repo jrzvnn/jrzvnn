@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram expands Your Algorithm to its main feed, letting users choose topics they want to see, and is working to support requests for people, moods, and more &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260610/p62#a260610p62)
- - [Framework delays its first Laptop 13 Pro shipments by a month](https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august)
- - [YouTube rolls out a new in-app messaging system for sharing videos and having 1:1 conversations; it discontinued its previous Messages feature in 2019 &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260610/p61#a260610p61)
- - [Prominent leaker may see default ruling reversed in Apple lawsuit](https://appleinsider.com/articles/26/06/10/prominent-leaker-may-see-default-ruling-reversed-in-apple-lawsuit?utm_source=rss)
- - [Fewer iPhone users are updating to iOS 26 than they did with iOS 18](https://appleinsider.com/articles/26/06/10/fewer-iphone-users-are-updating-to-ios-26-than-they-did-with-ios-18?utm_source=rss)<!-- TECH:END -->
+ - [Sources: OpenAI is considering drastically lowering its price for tokens in anticipation of similar cuts the company expects at Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260610/p66#a260610p66)
+ - [Product head Alex Benzer says Bluesky plans to add &quot;communities&quot; this year, smaller spaces to &quot;go deeper and hang out with people who care about the same stuff&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260610/p65#a260610p65)
+ - [15 Horror Movies You Really Need to Stream on HBO Max](https://www.cnet.com/tech/services-and-software/best-horror-movies-on-hbo-max-june-2026/)
+ - [Gemini Is Down? &#39;Majority of Users&#39; Should Be OK Now, Google Says](https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 11, #626](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-11-626/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

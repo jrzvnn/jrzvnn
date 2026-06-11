@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)
- - 😝 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
- - 💣 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
+ - 😝 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - 😝 [Bittersweet](http://9gag.com/gag/aD2yw8O)
+ - 💣 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [FAFO :&rpar;](http://9gag.com/gag/aqy023L)<!-- MEMES:END -->
+ - 👉 [Lost in translation with a side of history lesson](http://9gag.com/gag/aXPBEm2)<!-- MEMES:END -->
 
 ---
 

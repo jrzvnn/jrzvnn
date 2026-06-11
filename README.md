@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US legislation outlawing big tech from favoriting their own services resurrected](https://appleinsider.com/articles/26/06/11/us-legislation-outlawing-big-tech-from-favoriting-their-own-services-resurrected?utm_source=rss)
- - [Blink’s six-piece outdoor camera kit is a great deal under $200](https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale)
- - [Former a16z GP John O&#39;Farrell criticizes the AI industry and his ex-partners for spending hundreds of millions to fight regulation, calling it &quot;a huge mistake&quot; &lpar;John O&#39;Farrell/New York Times&rpar;](https://www.techmeme.com/260611/p40#a260611p40)
- - [Roborock&amp;#8217;s Q10 S5 Plus robovac is over half off, matching its best price to date](https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale)
- - [Amazon&amp;#8217;s data centers used 2.5 billion gallons of water last year](https://www.theverge.com/tech/948534/amazon-data-centers-water-use)<!-- TECH:END -->
+ - [Logitech’s awesome MX Master 3S mouse drops to under $100](https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal)
+ - [SpaceX raises $75B in the biggest-ever IPO, after selling 555.6M shares at $135 each, giving it a market value of $1.77T &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260611/p44#a260611p44)
+ - [Grok Is Still Hosting Sexualized Deepfakes of Famous Women](https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/)
+ - [Is It a Super El Niño Year? It Could Turn the World’s Weather Upside Down](https://www.wired.com/story/super-el-nino-turns-worlds-weather-upside-down/)
+ - [Early Prime Day Apple deals start at just $14.99, save up to $300](https://appleinsider.com/articles/26/06/11/early-prime-day-apple-deals-start-at-just-1499-save-up-to-300?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

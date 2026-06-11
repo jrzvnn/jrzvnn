@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Enjoy prison, Karmelo!](http://9gag.com/gag/aO8wy86)
- - 😝 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
- - 💣 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 😝 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
+ - 💣 [Prayers do come true](http://9gag.com/gag/avyNZPM)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Just for you](http://9gag.com/gag/aNDNZAA)<!-- MEMES:END -->
+ - 👉 [Someone finally snapped](http://9gag.com/gag/abA75RE)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did I miss something?](http://9gag.com/gag/a4PvdMm)
- - 😝 [Psss! Yo bro\u2026.. check this out\u2026..](http://9gag.com/gag/a5Q4P7L)
- - 💣 [Prayers do come true](http://9gag.com/gag/avyNZPM)
+ - 😝 [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)
+ - 😝 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
+ - 💣 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)<!-- MEMES:END -->
+ - 👉 [FAFO :&rpar;](http://9gag.com/gag/aqy023L)<!-- MEMES:END -->
 
 ---
 

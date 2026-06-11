@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - 😝 [Bittersweet](http://9gag.com/gag/aD2yw8O)
- - 💣 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 😝 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 😝 [You got this](http://9gag.com/gag/a4PvLDv)
+ - 💣 [Put your finger here](http://9gag.com/gag/a7oQyde)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Lost in translation with a side of history lesson](http://9gag.com/gag/aXPBEm2)<!-- MEMES:END -->
+ - 👉 [The Sagrada Fam\u00edlia, the largest cathedral ever built, was inaugurated today after 144 years of construction.](http://9gag.com/gag/ae9L0vQ)<!-- MEMES:END -->
 
 ---
 

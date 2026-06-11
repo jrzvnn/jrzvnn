@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s awesome MX Master 3S mouse drops to under $100](https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal)
- - [SpaceX raises $75B in the biggest-ever IPO, after selling 555.6M shares at $135 each, giving it a market value of $1.77T &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260611/p44#a260611p44)
- - [Grok Is Still Hosting Sexualized Deepfakes of Famous Women](https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/)
- - [Is It a Super El Niño Year? It Could Turn the World’s Weather Upside Down](https://www.wired.com/story/super-el-nino-turns-worlds-weather-upside-down/)
- - [Early Prime Day Apple deals start at just $14.99, save up to $300](https://appleinsider.com/articles/26/06/11/early-prime-day-apple-deals-start-at-just-1499-save-up-to-300?utm_source=rss)<!-- TECH:END -->
+ - [CrossOver, a Windows to Mac gaming tool, goes Apple Silicon only](https://appleinsider.com/articles/26/06/11/crossover-a-windows-to-mac-gaming-tool-goes-apple-silicon-only?utm_source=rss)
+ - [Amazon&amp;#8217;s Echo Hub gets a customizable new look and Ring&amp;#8217;s AI features](https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign)
+ - [Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue federal officials who try to coerce broadcasters or platforms to censor speech &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260611/p48#a260611p48)
+ - [Apple executive: &#39;We don&#39;t do AI for AI&#39;s sake&#39;](https://appleinsider.com/articles/26/06/11/apple-executive-we-dont-do-ai-for-ais-sake?utm_source=rss)
+ - [Agentic workplace startup Genspark raised a $100M Series B extension at a $2.6B post-money valuation, up 63% in just three months; it has raised $645M+ to date &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260611/p47#a260611p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

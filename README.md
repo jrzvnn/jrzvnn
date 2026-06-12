@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Owning an Apple Home: Robots, maintenance, and chores](https://appleinsider.com/articles/26/06/12/owning-an-apple-home-robots-maintenance-and-chores?utm_source=rss)
- - [Staff memo: Meta plans to limit employee token usage and encourage employees to use MetaCode, after internal AI spending forecasts reached billions for 2026 &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260612/p23#a260612p23)
- - [SpaceX IPO Live: Elon Musk Is a Trillionaire, and the Rest of Us Aren&#39;t](https://www.cnet.com/news-live/spacex-ipo-live-starlink-xai-going-public/)
- - [Sources: SpaceX decided to rent its Colossus 1 data center to Anthropic after internal teams struggled to use it for Grok development due to latency issues &lpar;Edward Ludlow/Bloomberg&rpar;](https://www.techmeme.com/260612/p22#a260612p22)
- - [The world’s first trillionaire is a killer](https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer)<!-- TECH:END -->
+ - [KPMG retracts a report on AI&#39;s benefits after it has been found to exaggerate AI adoption with case studies that appear to have been based on AI hallucinations &lpar;Financial Times&rpar;](https://www.techmeme.com/260612/p25#a260612p25)
+ - [Nothing CEO says phone prices are going to keep going up](https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 13, #628](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-13-628/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 13 #832](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-13-832/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 13, #1098](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-13-1098/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

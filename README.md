@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic, OpenAI, and other AI startups have announced major London expansions over the past year, as the city emerges as a key AI talent hub outside the US &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260611/p49#a260611p49)
+ - [Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine](https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/)
  - [CrossOver, a Windows to Mac gaming tool, goes Apple Silicon only](https://appleinsider.com/articles/26/06/11/crossover-a-windows-to-mac-gaming-tool-goes-apple-silicon-only?utm_source=rss)
  - [Amazon&amp;#8217;s Echo Hub gets a customizable new look and Ring&amp;#8217;s AI features](https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign)
- - [Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue federal officials who try to coerce broadcasters or platforms to censor speech &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260611/p48#a260611p48)
- - [Apple executive: &#39;We don&#39;t do AI for AI&#39;s sake&#39;](https://appleinsider.com/articles/26/06/11/apple-executive-we-dont-do-ai-for-ais-sake?utm_source=rss)
- - [Agentic workplace startup Genspark raised a $100M Series B extension at a $2.6B post-money valuation, up 63% in just three months; it has raised $645M+ to date &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260611/p47#a260611p47)<!-- TECH:END -->
+ - [Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue federal officials who try to coerce broadcasters or platforms to censor speech &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260611/p48#a260611p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

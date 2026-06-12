@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His words are so poetic love it](http://9gag.com/gag/aRBnAKM)
- - 😝 [Meeting your soul mate](http://9gag.com/gag/ajPpA1p)
- - 💣 [The politeness had the whole family wasted](http://9gag.com/gag/a87ZjrQ)
+ - 😝 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
+ - 😝 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)
+ - 💣 [Wer melons?](http://9gag.com/gag/aW4z624)
  - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [Doom was ahead of its time](http://9gag.com/gag/a0eBpNQ)<!-- MEMES:END -->
+ - 👉 [Just for you](http://9gag.com/gag/awyw71r)<!-- MEMES:END -->
 
 ---
 

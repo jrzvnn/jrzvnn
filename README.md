@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)
  - 😝 [What a beautiful memory](http://9gag.com/gag/a9yoL3D)
- - 💣 [Found this on FB. Hope its true](http://9gag.com/gag/ae9L3ob)
- - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [Just for you](http://9gag.com/gag/aNDNZAA)<!-- MEMES:END -->
+ - 😝 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
+ - 💣 [They are now filming themselves going up to strangers and doing stuff then justifying it with `I thought you were a Juror at Karmelo Anthony&#39;s case`](http://9gag.com/gag/agmWNvw)
+ - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
+ - 👉 [Did I miss something?](http://9gag.com/gag/a4PvdMm)<!-- MEMES:END -->
 
 ---
 

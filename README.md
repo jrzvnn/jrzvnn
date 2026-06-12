@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
- - 😝 [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)
- - 💣 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
+ - 😝 [His words are so poetic love it](http://9gag.com/gag/aRBnAKM)
+ - 😝 [Meeting your soul mate](http://9gag.com/gag/ajPpA1p)
+ - 💣 [The politeness had the whole family wasted](http://9gag.com/gag/a87ZjrQ)
  - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
+ - 👉 [Doom was ahead of its time](http://9gag.com/gag/a0eBpNQ)<!-- MEMES:END -->
 
 ---
 

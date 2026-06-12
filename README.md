@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your ChatGPT Mac app will stop working tonight if you haven&#39;t updated it recently](https://appleinsider.com/articles/26/05/14/another-openai-hack-puts-chatgpt-mac-users-on-an-update-deadline?utm_source=rss)
- - [MrBeast hits 500M subscribers on YouTube, a record for the platform &lpar;Kayla Cobb/The Wrap&rpar;](https://www.techmeme.com/260612/p16#a260612p16)
- - [How and when macOS will finally stop support for Intel apps](https://appleinsider.com/articles/26/06/12/how-and-when-macos-will-finally-stop-support-for-intel-apps?utm_source=rss)
- - [Govee&amp;#8217;s rechargeable smart table lamp is down to $60](https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale)
- - [SpaceX’s massive IPO: all the latest news](https://www.theverge.com/business/948996/spacex-ipo-elon-musk)<!-- TECH:END -->
+ - [A profile of former Google DeepMind employee Thibault Sottiaux, now OpenAI&#39;s head of core products tasked with combining ChatGPT and Codex into a super app &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260612/p20#a260612p20)
+ - [I&#39;m Letting Siri See My Life on Vision Pro, and It&#39;s a Sign of Things to Come](https://www.cnet.com/tech/computing/apple-vision-pro-siri-visionos-27-visual-intelligence/)
+ - [How to use Visual Intelligence on macOS Golden Gate, and when it&#39;s worth it](https://appleinsider.com/inside/macos-27/tips/how-to-use-visual-intelligence-on-macos-golden-gate-and-when-its-worth-it?utm_source=rss)
+ - [China Didn&#39;t Make People Hate Data Centers](https://www.wired.com/story/china-us-data-center-opposition/)
+ - [Siri is good now??](https://www.theverge.com/podcast/949079/siri-ai-good-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

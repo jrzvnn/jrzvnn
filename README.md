@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia has told Chinese clients that its new Vera CPUs for AI data centers could be available as soon as August and that they can begin placing orders &lpar;Reuters&rpar;](https://www.techmeme.com/260612/p5#a260612p5)
- - [Save $300 on Apple&#39;s M5 Pro MacBook Pro with 48GB RAM this weekend](https://appleinsider.com/articles/26/06/12/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-this-weekend?utm_source=rss)
- - [Siri won’t be your AI girlfriend](https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend)
- - [How Chinese manufacturers are dominating the humanoid robot supply chain, even as the industry struggles to find a purpose for such robots &lpar;New York Times&rpar;](https://www.techmeme.com/260612/p4#a260612p4)
- - [Hyderabad, India-based Equal AI, which makes an eponymous AI-powered call screening app, raised a $30M Series B led by Prosus Ventures and Tomales Bay Capital &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260612/p3#a260612p3)<!-- TECH:END -->
+ - [All the Liquid Glass design fixes are in Apple&#39;s new Design Resources documents](https://appleinsider.com/articles/26/06/12/all-the-liquid-glass-design-fixes-are-in-apples-new-design-resources-documents?utm_source=rss)
+ - [Niantic Spatial says Pokémon Go data is &quot;not part of&quot; its deal with spatial AI company Vantor, after concerns that game data could be used for military drones &lpar;Kenneth Shepard/Kotaku&rpar;](https://www.techmeme.com/260612/p11#a260612p11)
+ - [4 Best Floodlight Security Cameras &lpar;2026&rpar; After Thorough Testing](https://www.wired.com/gallery/best-floodlight-security-cameras/)
+ - [This portable light is great for way more than camping](https://www.theverge.com/tech/942932/portable-light-camping-work-travel)
+ - [macOS Golden Gate beta review: it&#39;s nothing without Siri AI](https://appleinsider.com/articles/26/06/12/macos-golden-gate-beta-review-its-nothing-without-siri-ai?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [They are now filming themselves going up to strangers and doing stuff then justifying it with `I thought you were a Juror at Karmelo Anthony&#39;s case`](http://9gag.com/gag/agmWNvw)
  - 😝 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
- - 😝 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)
- - 💣 [Wer melons?](http://9gag.com/gag/aW4z624)
+ - 💣 [My favorite scene of the entire match](http://9gag.com/gag/ajPpA8w)
  - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [Just for you](http://9gag.com/gag/awyw71r)<!-- MEMES:END -->
+ - 👉 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the Liquid Glass design fixes are in Apple&#39;s new Design Resources documents](https://appleinsider.com/articles/26/06/12/all-the-liquid-glass-design-fixes-are-in-apples-new-design-resources-documents?utm_source=rss)
- - [Niantic Spatial says Pokémon Go data is &quot;not part of&quot; its deal with spatial AI company Vantor, after concerns that game data could be used for military drones &lpar;Kenneth Shepard/Kotaku&rpar;](https://www.techmeme.com/260612/p11#a260612p11)
- - [4 Best Floodlight Security Cameras &lpar;2026&rpar; After Thorough Testing](https://www.wired.com/gallery/best-floodlight-security-cameras/)
- - [This portable light is great for way more than camping](https://www.theverge.com/tech/942932/portable-light-camping-work-travel)
- - [macOS Golden Gate beta review: it&#39;s nothing without Siri AI](https://appleinsider.com/articles/26/06/12/macos-golden-gate-beta-review-its-nothing-without-siri-ai?utm_source=rss)<!-- TECH:END -->
+ - [Your ChatGPT Mac app will stop working tonight if you haven&#39;t updated it recently](https://appleinsider.com/articles/26/05/14/another-openai-hack-puts-chatgpt-mac-users-on-an-update-deadline?utm_source=rss)
+ - [MrBeast hits 500M subscribers on YouTube, a record for the platform &lpar;Kayla Cobb/The Wrap&rpar;](https://www.techmeme.com/260612/p16#a260612p16)
+ - [How and when macOS will finally stop support for Intel apps](https://appleinsider.com/articles/26/06/12/how-and-when-macos-will-finally-stop-support-for-intel-apps?utm_source=rss)
+ - [Govee&amp;#8217;s rechargeable smart table lamp is down to $60](https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale)
+ - [SpaceX’s massive IPO: all the latest news](https://www.theverge.com/business/948996/spacex-ipo-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KPMG retracts a report on AI&#39;s benefits after it has been found to exaggerate AI adoption with case studies that appear to have been based on AI hallucinations &lpar;Financial Times&rpar;](https://www.techmeme.com/260612/p25#a260612p25)
- - [Nothing CEO says phone prices are going to keep going up](https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 13, #628](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-13-628/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 13 #832](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-13-832/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 13, #1098](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-13-1098/)<!-- TECH:END -->
+ - [Sources detail frustration inside Meta&#39;s Applied AI team, formed in March to support Superintelligence Labs, over menial projects, &quot;soul-crushing&quot; work, more &lpar;Wired&rpar;](https://www.techmeme.com/260612/p28#a260612p28)
+ - [The US DOJ approves Paramount&#39;s $111B purchase of WBD without forcing divestitures or behavioral remedies; state AGs could still try to block the move &lpar;Yasmin Khorram/Politico&rpar;](https://www.techmeme.com/260612/p27#a260612p27)
+ - [Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems &lpar;Vanity Fair&rpar;](https://www.techmeme.com/260612/p26#a260612p26)
+ - [‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)
+ - [KPMG retracts a report on AI&#39;s benefits after it has been found to exaggerate AI adoption with case studies that appear to have been based on AI hallucinations &lpar;Financial Times&rpar;](https://www.techmeme.com/260612/p25#a260612p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

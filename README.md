@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)
- - 😝 [My favorite scene of the entire match](http://9gag.com/gag/ajPpA8w)
- - 💣 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
+ - 😝 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
+ - 💣 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
  - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [Just for you](http://9gag.com/gag/awyw71r)<!-- MEMES:END -->
+ - 👉 [Alien technology used to build the pyramids](http://9gag.com/gag/azxnAdB)<!-- MEMES:END -->
 
 ---
 

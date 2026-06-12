@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic, OpenAI, and other AI startups have announced major London expansions over the past year, as the city emerges as a key AI talent hub outside the US &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260611/p49#a260611p49)
- - [Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine](https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/)
- - [CrossOver, a Windows to Mac gaming tool, goes Apple Silicon only](https://appleinsider.com/articles/26/06/11/crossover-a-windows-to-mac-gaming-tool-goes-apple-silicon-only?utm_source=rss)
- - [Amazon&amp;#8217;s Echo Hub gets a customizable new look and Ring&amp;#8217;s AI features](https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign)
- - [Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue federal officials who try to coerce broadcasters or platforms to censor speech &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260611/p48#a260611p48)<!-- TECH:END -->
+ - [Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed breaches of 100+ organizations using PeopleSoft; Oracle has not issued a patch &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](https://www.techmeme.com/260612/p2#a260612p2)
+ - [Infineon plans to open a €5B chip factory in Germany backed by EU subsidies, its largest single investment, on July 2 as Europe seeks to boost chip production &lpar;Christina Kyriasoglou/Bloomberg&rpar;](https://www.techmeme.com/260612/p1#a260612p1)
+ - [How Anthropic is blindsiding business partners by launching potentially competitive products with little warning, changing pricing, and more &lpar;The Information&rpar;](https://www.techmeme.com/260611/p58#a260611p58)
+ - [Sources: Shenzhen-based humanoid robot manufacturer EngineAI has filed confidentially for a Hong Kong IPO; the company was last valued at $1.5B in April 2026 &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260611/p57#a260611p57)
+ - [Canadian challenger bank Koho raised a CA$130M Series E at a CA$1.33B valuation, up from $800M in 2023, as it nears obtaining a Canadian banking license &lpar;Josh Scott/BetaKit&rpar;](https://www.techmeme.com/260611/p56#a260611p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

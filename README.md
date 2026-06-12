@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed breaches of 100+ organizations using PeopleSoft; Oracle has not issued a patch &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](https://www.techmeme.com/260612/p2#a260612p2)
- - [Infineon plans to open a €5B chip factory in Germany backed by EU subsidies, its largest single investment, on July 2 as Europe seeks to boost chip production &lpar;Christina Kyriasoglou/Bloomberg&rpar;](https://www.techmeme.com/260612/p1#a260612p1)
- - [How Anthropic is blindsiding business partners by launching potentially competitive products with little warning, changing pricing, and more &lpar;The Information&rpar;](https://www.techmeme.com/260611/p58#a260611p58)
- - [Sources: Shenzhen-based humanoid robot manufacturer EngineAI has filed confidentially for a Hong Kong IPO; the company was last valued at $1.5B in April 2026 &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260611/p57#a260611p57)
- - [Canadian challenger bank Koho raised a CA$130M Series E at a CA$1.33B valuation, up from $800M in 2023, as it nears obtaining a Canadian banking license &lpar;Josh Scott/BetaKit&rpar;](https://www.techmeme.com/260611/p56#a260611p56)<!-- TECH:END -->
+ - [Sources: Nvidia has told Chinese clients that its new Vera CPUs for AI data centers could be available as soon as August and that they can begin placing orders &lpar;Reuters&rpar;](https://www.techmeme.com/260612/p5#a260612p5)
+ - [Save $300 on Apple&#39;s M5 Pro MacBook Pro with 48GB RAM this weekend](https://appleinsider.com/articles/26/06/12/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-this-weekend?utm_source=rss)
+ - [Siri won’t be your AI girlfriend](https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend)
+ - [How Chinese manufacturers are dominating the humanoid robot supply chain, even as the industry struggles to find a purpose for such robots &lpar;New York Times&rpar;](https://www.techmeme.com/260612/p4#a260612p4)
+ - [Hyderabad, India-based Equal AI, which makes an eponymous AI-powered call screening app, raised a $30M Series B led by Prosus Ventures and Tomales Bay Capital &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260612/p3#a260612p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

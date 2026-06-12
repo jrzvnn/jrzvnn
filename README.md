@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of former Google DeepMind employee Thibault Sottiaux, now OpenAI&#39;s head of core products tasked with combining ChatGPT and Codex into a super app &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260612/p20#a260612p20)
- - [I&#39;m Letting Siri See My Life on Vision Pro, and It&#39;s a Sign of Things to Come](https://www.cnet.com/tech/computing/apple-vision-pro-siri-visionos-27-visual-intelligence/)
- - [How to use Visual Intelligence on macOS Golden Gate, and when it&#39;s worth it](https://appleinsider.com/inside/macos-27/tips/how-to-use-visual-intelligence-on-macos-golden-gate-and-when-its-worth-it?utm_source=rss)
- - [China Didn&#39;t Make People Hate Data Centers](https://www.wired.com/story/china-us-data-center-opposition/)
- - [Siri is good now??](https://www.theverge.com/podcast/949079/siri-ai-good-vergecast)<!-- TECH:END -->
+ - [Owning an Apple Home: Robots, maintenance, and chores](https://appleinsider.com/articles/26/06/12/owning-an-apple-home-robots-maintenance-and-chores?utm_source=rss)
+ - [Staff memo: Meta plans to limit employee token usage and encourage employees to use MetaCode, after internal AI spending forecasts reached billions for 2026 &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260612/p23#a260612p23)
+ - [SpaceX IPO Live: Elon Musk Is a Trillionaire, and the Rest of Us Aren&#39;t](https://www.cnet.com/news-live/spacex-ipo-live-starlink-xai-going-public/)
+ - [Sources: SpaceX decided to rent its Colossus 1 data center to Anthropic after internal teams struggled to use it for Grok development due to latency issues &lpar;Edward Ludlow/Bloomberg&rpar;](https://www.techmeme.com/260612/p22#a260612p22)
+ - [The world’s first trillionaire is a killer](https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)
- - 😝 [Time not wasted](http://9gag.com/gag/azxnVLj)
- - 💣 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
+ - 😝 [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)
+ - 😝 [What a beautiful memory](http://9gag.com/gag/a9yoL3D)
+ - 💣 [Found this on FB. Hope its true](http://9gag.com/gag/ae9L3ob)
  - 😝 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)
- - 👉 [What a beautiful memory](http://9gag.com/gag/a9yoL3D)<!-- MEMES:END -->
+ - 👉 [Just for you](http://9gag.com/gag/aNDNZAA)<!-- MEMES:END -->
 
 ---
 

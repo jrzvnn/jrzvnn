@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a beautiful memory](http://9gag.com/gag/a9yoL3D)
- - 😝 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 💣 [They are now filming themselves going up to strangers and doing stuff then justifying it with `I thought you were a Juror at Karmelo Anthony&#39;s case`](http://9gag.com/gag/agmWNvw)
+ - 😝 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
+ - 😝 [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)
+ - 💣 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
  - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [Did I miss something?](http://9gag.com/gag/a4PvdMm)<!-- MEMES:END -->
+ - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
 
 ---
 

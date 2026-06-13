@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)
  - 😝 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
- - 💣 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
+ - 💣 [Pareidolia](http://9gag.com/gag/aO8wmwy)
  - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [Alien technology used to build the pyramids](http://9gag.com/gag/azxnAdB)<!-- MEMES:END -->
+ - 👉 [Alchemyanderis](http://9gag.com/gag/aKGRqZb)<!-- MEMES:END -->
 
 ---
 

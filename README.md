@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
- - 😝 [Unterzwiebelt](http://9gag.com/gag/an761VV)
- - 💣 [Do your job. Ref](http://9gag.com/gag/azxnAKN)
- - 😝 [The logic behind Asian achitecture](http://9gag.com/gag/aGyX0GZ)
- - 👉 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)<!-- MEMES:END -->
+ - 😝 [To keep&#39;em together. That&#39;s why](http://9gag.com/gag/aGyXDVz)
+ - 😝 [Sleepworking](http://9gag.com/gag/a7oQd8z)
+ - 💣 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
+ - 😝 [Do your job. Ref](http://9gag.com/gag/azxnAKN)
+ - 👉 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)<!-- MEMES:END -->
 
 ---
 

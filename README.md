@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)
- - 😝 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 💣 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
- - 😝 [Just for you](http://9gag.com/gag/awyw71r)
- - 👉 [Alchemyanderis](http://9gag.com/gag/aKGRqZb)<!-- MEMES:END -->
+ - 😝 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
+ - 😝 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
+ - 💣 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
+ - 😝 [At least 3 babies were born not far from there.](http://9gag.com/gag/a5Q4rxG)
+ - 👉 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)<!-- MEMES:END -->
 
 ---
 

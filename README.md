@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)
+ - [David Sacks says Dario Amodei refused to &quot;fix the jailbreak or de-deploy the model&quot; after &quot;a highly credible trusted partner&quot; reported a Fable jailbreak &lpar;David Sacks/@davidsacks&rpar;](https://www.techmeme.com/260613/p9#a260613p9)
  - [Sources: Amazon CEO Andy Jassy is among tech leaders who raised concerns with Trump officials about Mythos 5, setting in motion new export restrictions &lpar;The Information&rpar;](https://www.techmeme.com/260613/p8#a260613p8)
  - [Microsoft hasn’t ruled out spinning off Xbox](https://www.theverge.com/games/949584/microsoft-spinning-off-xbox)
- - [&#39;Dungeons &amp; Dragons: Honor Among Thieves,&#39; &#39;Challengers&#39; and More Movies You Can Stream for Free in June 2026](https://www.cnet.com/tech/services-and-software/dungeons-dragons-honor-among-thieves-and-more-movies-you-can-stream-for-free-in-june/)
- - [The Best Workout Apps for Women to Stay Active and Motivated](https://www.cnet.com/health/fitness/best-workout-apps-for-women/)
- - [Bose’s latest QuietComfort Ultra are $70 off, marking a new low price](https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale)<!-- TECH:END -->
+ - [&#39;Dungeons &amp; Dragons: Honor Among Thieves,&#39; &#39;Challengers&#39; and More Movies You Can Stream for Free in June 2026](https://www.cnet.com/tech/services-and-software/dungeons-dragons-honor-among-thieves-and-more-movies-you-can-stream-for-free-in-june/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tomorrow could you give at least 10 seconds?](http://9gag.com/gag/a0eBjnq)
- - 😝 [`And I&#39;ll do it again` look.](http://9gag.com/gag/avyNnPn)
- - 💣 [We all been there!](http://9gag.com/gag/aQzG8Pe)
- - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [Renault R17. Bring back modern retro.](http://9gag.com/gag/a4Pvjdv)<!-- MEMES:END -->
+ - 😝 [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)
+ - 😝 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
+ - 💣 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
+ - 😝 [Just for you](http://9gag.com/gag/awyw71r)
+ - 👉 [Alchemyanderis](http://9gag.com/gag/aKGRqZb)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pareidolia](http://9gag.com/gag/aO8wmwy)
- - 😝 [Alchemyanderis](http://9gag.com/gag/aKGRqZb)
- - 💣 [World first trillionaire](https://www.reddit.com/r/funny/comments/1u4pc51/world_first_trillionaire/)
+ - 😝 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
  - 😝 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 👉 [Thought he could take on a bull big mistake](http://9gag.com/gag/ae9L6vb)<!-- MEMES:END -->
+ - 💣 [Just show cats, dogs and Emma](http://9gag.com/gag/adBEXLB)
+ - 😝 [For those who haven&#39;t seen it](http://9gag.com/gag/aZZepn6)
+ - 👉 [At least 3 babies were born not far from there.](http://9gag.com/gag/a5Q4rxG)<!-- MEMES:END -->
 
 ---
 

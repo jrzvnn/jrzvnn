@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Howard Lutnick told Anthropic that Mythos 5 and Fable 5 would be subject to export controls after a company claimed it was able to jailbreak Mythos &lpar;Axios&rpar;](https://www.techmeme.com/260612/p30#a260612p30)
- - [Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon](https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/)
- - [Sources: OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260612/p29#a260612p29)
- - [Sources detail frustration inside Meta&#39;s Applied AI team, formed in March to support Superintelligence Labs, over menial projects, &quot;soul-crushing&quot; work, more &lpar;Wired&rpar;](https://www.techmeme.com/260612/p28#a260612p28)
- - [The US DOJ approves Paramount&#39;s $111B purchase of WBD without forcing divestitures or behavioral remedies; state AGs could still try to block the move &lpar;Yasmin Khorram/Politico&rpar;](https://www.techmeme.com/260612/p27#a260612p27)<!-- TECH:END -->
+ - [A Ukrainian extradited from Ireland to the US pleads guilty to conspiracy to commit wire fraud for his role in Conti ransomware attacks between 2021 and 2022 &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260612/p35#a260612p35)
+ - [Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order](https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/)
+ - [Anthropic says it believes the US government&#39;s export control order for Mythos 5 and Fable 5 is a &quot;misunderstanding&quot; and that it is working to restore access &lpar;Ananya Palyekar/Reuters&rpar;](https://www.techmeme.com/260612/p34#a260612p34)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, June 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-june-13/)
+ - [Moonshot AI releases Kimi K2.7-Code, claiming 30% lower reasoning token usage compared to K2.6, available under a modified MIT license &lpar;Sean Michael Kerner/VentureBeat&rpar;](https://www.techmeme.com/260612/p33#a260612p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

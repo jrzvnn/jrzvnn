@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
- - 😝 [Doom was ahead of its time](http://9gag.com/gag/a0eBpNQ)
- - 💣 [To keep&#39;em together. That&#39;s why](http://9gag.com/gag/aGyXDVz)
  - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
- - 👉 [Alchemyanderis](http://9gag.com/gag/aKGRqZb)<!-- MEMES:END -->
+ - 😝 [Unterzwiebelt](http://9gag.com/gag/an761VV)
+ - 💣 [Do your job. Ref](http://9gag.com/gag/azxnAKN)
+ - 😝 [The logic behind Asian achitecture](http://9gag.com/gag/aGyX0GZ)
+ - 👉 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)<!-- MEMES:END -->
 
 ---
 

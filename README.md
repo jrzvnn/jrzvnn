@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)
- - [David Sacks says Dario Amodei refused to &quot;fix the jailbreak or de-deploy the model&quot; after &quot;a highly credible trusted partner&quot; reported a Fable jailbreak &lpar;David Sacks/@davidsacks&rpar;](https://www.techmeme.com/260613/p9#a260613p9)
- - [Sources: Amazon CEO Andy Jassy is among tech leaders who raised concerns with Trump officials about Mythos 5, setting in motion new export restrictions &lpar;The Information&rpar;](https://www.techmeme.com/260613/p8#a260613p8)
- - [Microsoft hasn’t ruled out spinning off Xbox](https://www.theverge.com/games/949584/microsoft-spinning-off-xbox)
- - [&#39;Dungeons &amp; Dragons: Honor Among Thieves,&#39; &#39;Challengers&#39; and More Movies You Can Stream for Free in June 2026](https://www.cnet.com/tech/services-and-software/dungeons-dragons-honor-among-thieves-and-more-movies-you-can-stream-for-free-in-june/)<!-- TECH:END -->
+ - [X-Men ’97 has what Master of the Universe is missing](https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel)
+ - [European political figures say Anthropic disabling access to Fable 5 and Mythos 5 is a &quot;wake-up call&quot; about the risks of depending on the US for AI tech &lpar;Nathan Rennolds/Associated Press&rpar;](https://www.techmeme.com/260613/p11#a260613p11)
+ - [Report: opponents blocked or delayed at least 75 US data center projects in Q1 2026 worth ~$130B; data center opposition groups doubled to 833 across 49 states &lpar;Allan Smith/NBC News&rpar;](https://www.techmeme.com/260613/p10#a260613p10)
+ - [Apple&#39;s M4 Mac mini is back in stock &amp; on sale for $769, but supply is limited](https://appleinsider.com/articles/26/06/13/apples-m4-mac-mini-is-back-in-stock-on-sale-for-769-but-supply-is-limited?utm_source=rss)
+ - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

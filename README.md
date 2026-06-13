@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do your job. Ref](http://9gag.com/gag/azxnAKN)
+ - 😝 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
  - 😝 [Doom was ahead of its time](http://9gag.com/gag/a0eBpNQ)
- - 💣 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
- - 😝 [Just show cats, dogs and Emma](http://9gag.com/gag/adBEXLB)
- - 👉 [Pro tip](http://9gag.com/gag/a1m9Xpv)<!-- MEMES:END -->
+ - 💣 [To keep&#39;em together. That&#39;s why](http://9gag.com/gag/aGyXDVz)
+ - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
+ - 👉 [Alchemyanderis](http://9gag.com/gag/aKGRqZb)<!-- MEMES:END -->
 
 ---
 

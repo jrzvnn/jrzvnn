@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After years of false dawns, Big Tech, startups, and governments are betting on commercially useful quantum computers by 2030, as skeptics worry about hype &lpar;Michael Peel/Financial Times&rpar;](https://www.techmeme.com/260613/p4#a260613p4)
- - [Here’s How AI Agents Can Protect EV Chargers](https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/)
- - [An interview with Corning CEO Wendell Weeks on risk-sharing provisions that protect the company in multibillion-dollar fiber deals with Nvidia, Meta, and Amazon &lpar;Christopher Mims/Wall Street Journal&rpar;](https://www.techmeme.com/260613/p3#a260613p3)
- - [South Korea&#39;s &quot;semiconductor belt&quot; town Dongtan has become one of the fastest-rising affluent areas, driven by windfall bonuses for Samsung and SK Hynix workers &lpar;Daniel Tudor/Financial Times&rpar;](https://www.techmeme.com/260613/p2#a260613p2)
- - [Huawei unveils HarmonyOS 7, introducing an &quot;agent-friendly&quot; architecture that connects to 2,000+ specialized AI agents and features an enhanced voice assistant &lpar;Iris Deng/South China Morning Post&rpar;](https://www.techmeme.com/260613/p1#a260613p1)<!-- TECH:END -->
+ - [Luta Security CEO says US government restrictions on Mythos follow a jailbreak report by Amazon researchers and calls the restrictions a &quot;complete overreaction&quot; &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260613/p5#a260613p5)
+ - [The FCC Wants to Kill Burner Phones](https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/)
+ - [EcoFlow PowerOcean Battery Review: Cutting My Bill in Half](https://www.wired.com/review/ecoflow-powerocean-home-battery/)
+ - [Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails](https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 13 #832](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-13-832/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
+ - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
  - 😝 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
  - 💣 [Just show cats, dogs and Emma](http://9gag.com/gag/adBEXLB)
- - 😝 [Uganda Military Paratroopers](http://9gag.com/gag/axy5g2Y)
- - 👉 [Alchemyanderis](http://9gag.com/gag/aKGRqZb)<!-- MEMES:END -->
+ - 😝 [Women Logic](http://9gag.com/gag/aE03RRK)
+ - 👉 [Pro tip](http://9gag.com/gag/a1m9Xpv)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Luta Security CEO says US government restrictions on Mythos follow a jailbreak report by Amazon researchers and calls the restrictions a &quot;complete overreaction&quot; &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260613/p5#a260613p5)
- - [The FCC Wants to Kill Burner Phones](https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/)
- - [EcoFlow PowerOcean Battery Review: Cutting My Bill in Half](https://www.wired.com/review/ecoflow-powerocean-home-battery/)
- - [Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails](https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 13 #832](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-13-832/)<!-- TECH:END -->
+ - [Echo Isle is a pint-sized adventure inspired by classic Zelda](https://www.theverge.com/games/947136/echo-isle-review-pc)
+ - [Apple’s new AI photo editing tools mostly work, for better and worse](https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on)
+ - [A better way to manage all your screenshots](https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer)
+ - [Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone &lpar;2026&rpar;](https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/)
+ - [How to Transfer Chatbot Memory to and From Gemini](https://www.cnet.com/tech/services-and-software/how-to-transfer-chatbot-memory-chats-to-and-from-gemini/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

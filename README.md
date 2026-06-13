@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US barring foreign nationals, including Anthropic staffers in the US, from using Fable 5 and Mythos 5 marks a new phase in the US trying to control Anthropic &lpar;New York Times&rpar;](https://www.techmeme.com/260613/p7#a260613p7)
- - [My first 24 hours with Siri AI on the Mac](https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence)
- - [Never Post’s Mike Rugnetta on the creative process and the value of reliable power](https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire)
- - [A review of The Yahoo Boys, a deeply reported book on four online scammers in Lagos, Nigeria, exploring how and why they scam and the local impact of the trade &lpar;Jessica Loudis/Bloomberg&rpar;](https://www.techmeme.com/260613/p6#a260613p6)
- - [See If You&#39;re Eligible for a Payment From Google&#39;s $135M Data Settlement](https://www.cnet.com/tech/mobile/google-data-harvesting-settlement-what-to-know-how-to-claim-135-million/)<!-- TECH:END -->
+ - [Sources: Amazon CEO Andy Jassy is among tech leaders who raised concerns with Trump officials about Mythos 5, setting in motion new export restrictions &lpar;The Information&rpar;](https://www.techmeme.com/260613/p8#a260613p8)
+ - [Microsoft hasn’t ruled out spinning off Xbox](https://www.theverge.com/games/949584/microsoft-spinning-off-xbox)
+ - [&#39;Dungeons &amp; Dragons: Honor Among Thieves,&#39; &#39;Challengers&#39; and More Movies You Can Stream for Free in June 2026](https://www.cnet.com/tech/services-and-software/dungeons-dragons-honor-among-thieves-and-more-movies-you-can-stream-for-free-in-june/)
+ - [The Best Workout Apps for Women to Stay Active and Motivated](https://www.cnet.com/health/fitness/best-workout-apps-for-women/)
+ - [Bose’s latest QuietComfort Ultra are $70 off, marking a new low price](https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

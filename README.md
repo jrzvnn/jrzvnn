@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Do your job. Ref](http://9gag.com/gag/azxnAKN)
+ - 😝 [Doom was ahead of its time](http://9gag.com/gag/a0eBpNQ)
+ - 💣 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
  - 😝 [Just show cats, dogs and Emma](http://9gag.com/gag/adBEXLB)
- - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
- - 💣 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 😝 [To keep&#39;em together. That&#39;s why](http://9gag.com/gag/aGyXDVz)
- - 👉 [Alchemyanderis](http://9gag.com/gag/aKGRqZb)<!-- MEMES:END -->
+ - 👉 [Pro tip](http://9gag.com/gag/a1m9Xpv)<!-- MEMES:END -->
 
 ---
 

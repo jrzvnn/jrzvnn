@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X-Men ’97 has what Master of the Universe is missing](https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel)
- - [European political figures say Anthropic disabling access to Fable 5 and Mythos 5 is a &quot;wake-up call&quot; about the risks of depending on the US for AI tech &lpar;Nathan Rennolds/Associated Press&rpar;](https://www.techmeme.com/260613/p11#a260613p11)
- - [Report: opponents blocked or delayed at least 75 US data center projects in Q1 2026 worth ~$130B; data center opposition groups doubled to 833 across 49 states &lpar;Allan Smith/NBC News&rpar;](https://www.techmeme.com/260613/p10#a260613p10)
- - [Apple&#39;s M4 Mac mini is back in stock &amp; on sale for $769, but supply is limited](https://appleinsider.com/articles/26/06/13/apples-m4-mac-mini-is-back-in-stock-on-sale-for-769-but-supply-is-limited?utm_source=rss)
- - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)<!-- TECH:END -->
+ - [Source: the White House is unlikely to extend export restrictions to other AI companies &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260613/p12#a260613p12)
+ - [Waymo has bought the Apple Car self-driving test site for $220M](https://appleinsider.com/articles/26/06/13/waymo-has-bought-the-apple-car-self-driving-test-site-for-220m?utm_source=rss)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 14 #833](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-14-833/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 14, #1099](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-14-1099/)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 14, #1821](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-14-1821/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

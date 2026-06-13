@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Ukrainian extradited from Ireland to the US pleads guilty to conspiracy to commit wire fraud for his role in Conti ransomware attacks between 2021 and 2022 &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260612/p35#a260612p35)
- - [Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order](https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/)
- - [Anthropic says it believes the US government&#39;s export control order for Mythos 5 and Fable 5 is a &quot;misunderstanding&quot; and that it is working to restore access &lpar;Ananya Palyekar/Reuters&rpar;](https://www.techmeme.com/260612/p34#a260612p34)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, June 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-june-13/)
- - [Moonshot AI releases Kimi K2.7-Code, claiming 30% lower reasoning token usage compared to K2.6, available under a modified MIT license &lpar;Sean Michael Kerner/VentureBeat&rpar;](https://www.techmeme.com/260612/p33#a260612p33)<!-- TECH:END -->
+ - [After years of false dawns, Big Tech, startups, and governments are betting on commercially useful quantum computers by 2030, as skeptics worry about hype &lpar;Michael Peel/Financial Times&rpar;](https://www.techmeme.com/260613/p4#a260613p4)
+ - [Here’s How AI Agents Can Protect EV Chargers](https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/)
+ - [An interview with Corning CEO Wendell Weeks on risk-sharing provisions that protect the company in multibillion-dollar fiber deals with Nvidia, Meta, and Amazon &lpar;Christopher Mims/Wall Street Journal&rpar;](https://www.techmeme.com/260613/p3#a260613p3)
+ - [South Korea&#39;s &quot;semiconductor belt&quot; town Dongtan has become one of the fastest-rising affluent areas, driven by windfall bonuses for Samsung and SK Hynix workers &lpar;Daniel Tudor/Financial Times&rpar;](https://www.techmeme.com/260613/p2#a260613p2)
+ - [Huawei unveils HarmonyOS 7, introducing an &quot;agent-friendly&quot; architecture that connects to 2,000+ specialized AI agents and features an enhanced voice assistant &lpar;Iris Deng/South China Morning Post&rpar;](https://www.techmeme.com/260613/p1#a260613p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

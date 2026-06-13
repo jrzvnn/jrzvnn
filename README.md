@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just show cats, dogs and Emma](http://9gag.com/gag/adBEXLB)
  - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
- - 😝 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 💣 [Just show cats, dogs and Emma](http://9gag.com/gag/adBEXLB)
- - 😝 [Women Logic](http://9gag.com/gag/aE03RRK)
- - 👉 [Pro tip](http://9gag.com/gag/a1m9Xpv)<!-- MEMES:END -->
+ - 💣 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
+ - 😝 [To keep&#39;em together. That&#39;s why](http://9gag.com/gag/aGyXDVz)
+ - 👉 [Alchemyanderis](http://9gag.com/gag/aKGRqZb)<!-- MEMES:END -->
 
 ---
 

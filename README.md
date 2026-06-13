@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Howard Lutnick told Anthropic that Mythos 5 and Fable 5 would be subject to export controls after a company claimed it was able to jailbreak Mythos &lpar;Axios&rpar;](https://www.techmeme.com/260612/p30#a260612p30)
+ - [Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon](https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/)
+ - [Sources: OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260612/p29#a260612p29)
  - [Sources detail frustration inside Meta&#39;s Applied AI team, formed in March to support Superintelligence Labs, over menial projects, &quot;soul-crushing&quot; work, more &lpar;Wired&rpar;](https://www.techmeme.com/260612/p28#a260612p28)
- - [The US DOJ approves Paramount&#39;s $111B purchase of WBD without forcing divestitures or behavioral remedies; state AGs could still try to block the move &lpar;Yasmin Khorram/Politico&rpar;](https://www.techmeme.com/260612/p27#a260612p27)
- - [Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems &lpar;Vanity Fair&rpar;](https://www.techmeme.com/260612/p26#a260612p26)
- - [‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)
- - [KPMG retracts a report on AI&#39;s benefits after it has been found to exaggerate AI adoption with case studies that appear to have been based on AI hallucinations &lpar;Financial Times&rpar;](https://www.techmeme.com/260612/p25#a260612p25)<!-- TECH:END -->
+ - [The US DOJ approves Paramount&#39;s $111B purchase of WBD without forcing divestitures or behavioral remedies; state AGs could still try to block the move &lpar;Yasmin Khorram/Politico&rpar;](https://www.techmeme.com/260612/p27#a260612p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

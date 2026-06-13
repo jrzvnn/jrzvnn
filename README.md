@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Echo Isle is a pint-sized adventure inspired by classic Zelda](https://www.theverge.com/games/947136/echo-isle-review-pc)
- - [Apple’s new AI photo editing tools mostly work, for better and worse](https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on)
- - [A better way to manage all your screenshots](https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer)
- - [Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone &lpar;2026&rpar;](https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/)
- - [How to Transfer Chatbot Memory to and From Gemini](https://www.cnet.com/tech/services-and-software/how-to-transfer-chatbot-memory-chats-to-and-from-gemini/)<!-- TECH:END -->
+ - [Never Post’s Mike Rugnetta on the creative process and the value of reliable power](https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire)
+ - [A review of The Yahoo Boys, a deeply reported book on four online scammers in Lagos, Nigeria, exploring how and why they scam and the local impact of the trade &lpar;Jessica Loudis/Bloomberg&rpar;](https://www.techmeme.com/260613/p6#a260613p6)
+ - [See If You&#39;re Eligible for a Payment From Google&#39;s $135M Data Settlement](https://www.cnet.com/tech/mobile/google-data-harvesting-settlement-what-to-know-how-to-claim-135-million/)
+ - [This Is the Apple Intelligence News From WWDC That Actually Matters for You](https://www.cnet.com/tech/services-and-software/every-apple-intelligence-reveal-apple-wwdc-2026-news/)
+ - [My yard is dying, so I made an app for that](https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

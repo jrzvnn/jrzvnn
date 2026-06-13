@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US barring foreign nationals, including Anthropic staffers in the US, from using Fable 5 and Mythos 5 marks a new phase in the US trying to control Anthropic &lpar;New York Times&rpar;](https://www.techmeme.com/260613/p7#a260613p7)
+ - [My first 24 hours with Siri AI on the Mac](https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence)
  - [Never Post’s Mike Rugnetta on the creative process and the value of reliable power](https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire)
  - [A review of The Yahoo Boys, a deeply reported book on four online scammers in Lagos, Nigeria, exploring how and why they scam and the local impact of the trade &lpar;Jessica Loudis/Bloomberg&rpar;](https://www.techmeme.com/260613/p6#a260613p6)
- - [See If You&#39;re Eligible for a Payment From Google&#39;s $135M Data Settlement](https://www.cnet.com/tech/mobile/google-data-harvesting-settlement-what-to-know-how-to-claim-135-million/)
- - [This Is the Apple Intelligence News From WWDC That Actually Matters for You](https://www.cnet.com/tech/services-and-software/every-apple-intelligence-reveal-apple-wwdc-2026-news/)
- - [My yard is dying, so I made an app for that](https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing)<!-- TECH:END -->
+ - [See If You&#39;re Eligible for a Payment From Google&#39;s $135M Data Settlement](https://www.cnet.com/tech/mobile/google-data-harvesting-settlement-what-to-know-how-to-claim-135-million/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

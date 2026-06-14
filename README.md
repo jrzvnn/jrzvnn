@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
  - 😝 [Sleepworking](http://9gag.com/gag/a7oQd8z)
- - 💣 [The FIRST THING the UK `officers` do is turn off their BodyCams.](http://9gag.com/gag/a4Pvb9Q)
- - 😝 [This is some serious footwork and balance](http://9gag.com/gag/aoyX1pX)
+ - 😝 [Go sports!](http://9gag.com/gag/apROLgb)
+ - 💣 [It&#39;s the best money that they can earn \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/a34m77v)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1613](http://9gag.com/gag/a6ZPMem)
  - 👉 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)<!-- MEMES:END -->
 
 ---

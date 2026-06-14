@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Conclave is the sound of a NYC summer block party](https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review)
+ - [Sources: UK plans to announce an &quot;Australia plus&quot; under-16 social media ban, including restrictions on chats with strangers on gaming apps and under-18 curfews &lpar;The Guardian&rpar;](https://www.techmeme.com/260614/p10#a260614p10)
  - [How to watch most of the World Cup matches with free trials](https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale)
  - [EU says it is looking at the practical consequences of US restricting Anthropic&#39;s models, notes such measures &quot;should not be discriminatory against partners&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260614/p9#a260614p9)
- - [iPhone Fold, touchscreen MacBook evidence mounts in iOS 27, macOS 27](https://appleinsider.com/articles/26/06/14/iphone-fold-touchscreen-macbook-evidence-mounts-in-ios-27-macos-27?utm_source=rss)
- - [Siri AI is good enough to ease Apple&#39;s AI crisis; sources: the ability to tap third party AI models beyond OpenAI&#39;s is already active in internal iOS 27 builds &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260614/p8#a260614p8)
- - [Since Russia ratcheted up control over the internet this year, some Russians are turning to solutions like using multiple phones and VPNs to evade restrictions &lpar;Andrew Osborn/Reuters&rpar;](https://www.techmeme.com/260614/p7#a260614p7)<!-- TECH:END -->
+ - [iPhone Fold, touchscreen MacBook evidence mounts in iOS 27, macOS 27](https://appleinsider.com/articles/26/06/14/iphone-fold-touchscreen-macbook-evidence-mounts-in-ios-27-macos-27?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

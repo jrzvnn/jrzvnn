@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Peak German engineering](http://9gag.com/gag/a7oQrzL)
  - 😝 [Aging like fine wine](http://9gag.com/gag/adBEqNQ)
- - 😝 [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)
- - 💣 [Grandma: goodbye cruel world](http://9gag.com/gag/ae9LbKv)
- - 😝 [MSGA](http://9gag.com/gag/aPA5BXw)
- - 👉 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)<!-- MEMES:END -->
+ - 💣 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
+ - 😝 [Etching the moment into history](http://9gag.com/gag/ae9LbXp)
+ - 👉 [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)<!-- MEMES:END -->
 
 ---
 

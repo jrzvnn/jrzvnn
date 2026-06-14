@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ajinomoto says it can meet demand through 2030 for ABF, a key material for advanced chipmaking substrates, and plans to expand capacity instead of hiking prices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260614/p6#a260614p6)
- - [Solid-state batteries still aren’t ready, but gels are](https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state)
- - [20 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2026&rpar;](https://www.wired.com/gallery/best-gifts-for-men-2026/)
- - [MacBook Neo vs Dell XPS 13: $599 budget battle, compared](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-dell-xps-13-599-budget-battle-compared?utm_source=rss)
- - [Crime blotter: Arrested NFL star accused of biting iPhone](https://appleinsider.com/articles/26/06/14/crime-blotter-arrested-nfl-star-accused-of-biting-iphone?utm_source=rss)<!-- TECH:END -->
+ - [The impossible dream of the universal remote](https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history)
+ - [Apple TV&#39;s New Camboy Crime Thriller Is the Perfect Summer Binge](https://www.cnet.com/tech/services-and-software/maximum-pleasure-guaranteed-camboy-crime-thriller-apple-tv/)
+ - [The Solstice Is Almost Here: What to Know About Summer&#39;s Brightest Moment](https://www.cnet.com/culture/summer-solstice-everything-to-know-about-the-longest-day-of-the-year/)
+ - [The Last Time the US Hosted the World Cup, One of the Weirdest Nights in Sports History Unfolded](https://www.cnet.com/culture/entertainment/june-17th-1994-netflix-espn-30-for-30-world-cup-oj-simpson/)
+ - [Ajinomoto says it can meet demand through 2030 for ABF, a key material for advanced chipmaking substrates, and plans to expand capacity instead of hiking prices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260614/p6#a260614p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

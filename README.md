@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
- - 😝 [The FIRST THING the UK `officers` do is turn off their BodyCams.](http://9gag.com/gag/a4Pvb9Q)
- - 💣 [Sleepworking](http://9gag.com/gag/a7oQd8z)
  - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
- - 👉 [Just show cats, dogs and Emma](http://9gag.com/gag/adBEXLB)<!-- MEMES:END -->
+ - 😝 [Sleepworking](http://9gag.com/gag/a7oQd8z)
+ - 💣 [The FIRST THING the UK `officers` do is turn off their BodyCams.](http://9gag.com/gag/a4Pvb9Q)
+ - 😝 [This is some serious footwork and balance](http://9gag.com/gag/aoyX1pX)
+ - 👉 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)<!-- MEMES:END -->
 
 ---
 

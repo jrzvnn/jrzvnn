@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To keep&#39;em together. That&#39;s why](http://9gag.com/gag/aGyXDVz)
- - 😝 [Sleepworking](http://9gag.com/gag/a7oQd8z)
- - 💣 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
+ - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
  - 😝 [Do your job. Ref](http://9gag.com/gag/azxnAKN)
- - 👉 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)<!-- MEMES:END -->
+ - 💣 [Why can&#39;t we have nice things anymore?](http://9gag.com/gag/aKGRqXN)
+ - 😝 [Just show cats, dogs and Emma](http://9gag.com/gag/adBEXLB)
+ - 👉 [Take off with style](http://9gag.com/gag/a2vedO9)<!-- MEMES:END -->
 
 ---
 

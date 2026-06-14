@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More of a meat lover](http://9gag.com/gag/apROrV9)
- - 😝 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
- - 💣 [Shutdown](http://9gag.com/gag/a4PvbGd)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1613](http://9gag.com/gag/a6ZPMem)
- - 👉 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)<!-- MEMES:END -->
+ - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
+ - 😝 [Learn Japanese mothef\u00f9cker](http://9gag.com/gag/awywnXR)
+ - 💣 [Avatar movie scene](http://9gag.com/gag/abA7pyL)
+ - 😝 [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)
+ - 👉 [Ostrich got humbled.](http://9gag.com/gag/a0eBbPz)<!-- MEMES:END -->
 
 ---
 

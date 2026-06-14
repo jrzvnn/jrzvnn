@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with labor researcher Molly Kinder on her recent, widely discussed &quot;Messy Middle&quot; essay on AI-driven disruption of knowledge jobs and how to address it &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260613/p15#a260613p15)
- - [Source: the White House imposed export controls on Mythos partly over suspicions a China-linked group had accessed it &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260613/p13#a260613p13)
- - [How the AI boom is revolutionizing US stock markets, as hyperscalers cut buybacks and boost capex, including Alphabet&#39;s planned ~$85B in equity offerings for AI &lpar;Robert Armstrong/Financial Times&rpar;](https://www.techmeme.com/260613/p14#a260613p14)
- - [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)
- - [Source: the White House is unlikely to extend export restrictions to other AI companies &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260613/p12#a260613p12)<!-- TECH:END -->
+ - [As the 2026 FIFA World Cup begins, there is still no clear replacement for &quot;Sports Twitter&quot;, which was a perfect second-screen experience during live events &lpar;Andrew Webster/The Verge&rpar;](https://www.techmeme.com/260614/p4#a260614p4)
+ - [Challenger, Gray &amp; Christmas: out of ~398K US jobs cuts in 2026 through May, employers cited AI as the reason for ~88K of them, up from ~54K in all of 2025 &lpar;Hyunsoo Rim/Sherwood News&rpar;](https://www.techmeme.com/260614/p3#a260614p3)
+ - [Nothing CEO Carl Pei says memory is now the costliest phone component, accounting for 50%+ of BOM in some models, and predicts phone prices will rise into 2027 &lpar;Stevie Bonifield/The Verge&rpar;](https://www.techmeme.com/260614/p2#a260614p2)
+ - [US export controls on Anthropic reignite debate in India over the country&#39;s AI ambitions, which are increasingly tied to tech developed and governed in the US &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260614/p1#a260614p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-14/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

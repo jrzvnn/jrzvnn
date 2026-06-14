@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese Tesla drivers are using tiny plastic heads to fool Tesla&#39;s distracted-driving controls, which appear unable to distinguish figurines from real people &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260614/p15#a260614p15)
  - [The FBI built a small town to simulate cyberattacks](https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range)
  - [A government crackdown on online casinos operating in the Isle of Man has led to a major tax revenue loss, accelerating the island&#39;s slide toward a fiscal cliff &lpar;Jack Adamović Davies/Bloomberg&rpar;](https://www.techmeme.com/260614/p14#a260614p14)
  - [Sunday Reboot: The WWDC hangover and Siri AI blindspots](https://appleinsider.com/articles/26/06/14/sunday-reboot-the-wwdc-hangover-and-siri-ai-blindspots?utm_source=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 15, #1100](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-15-1100/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 15 #834](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-15-834/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 15, #1100](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-15-1100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

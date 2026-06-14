@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with labor researcher Molly Kinder on her recent, widely discussed &quot;Messy Middle&quot; essay on AI-driven disruption of knowledge jobs and how to address it &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260613/p15#a260613p15)
  - [Source: the White House imposed export controls on Mythos partly over suspicions a China-linked group had accessed it &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260613/p13#a260613p13)
  - [How the AI boom is revolutionizing US stock markets, as hyperscalers cut buybacks and boost capex, including Alphabet&#39;s planned ~$85B in equity offerings for AI &lpar;Robert Armstrong/Financial Times&rpar;](https://www.techmeme.com/260613/p14#a260613p14)
  - [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)
- - [Source: the White House is unlikely to extend export restrictions to other AI companies &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260613/p12#a260613p12)
- - [Waymo has bought the Apple Car self-driving test site for $220M](https://appleinsider.com/articles/26/06/13/waymo-has-bought-the-apple-car-self-driving-test-site-for-220m?utm_source=rss)<!-- TECH:END -->
+ - [Source: the White House is unlikely to extend export restrictions to other AI companies &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260613/p12#a260613p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

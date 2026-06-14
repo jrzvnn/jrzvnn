@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
- - 😝 [What&#39;s the name of this fruit?](http://9gag.com/gag/avyNPKE)
- - 💣 [Do your job. Ref](http://9gag.com/gag/azxnAKN)
- - 😝 [Just use some common sense](http://9gag.com/gag/aryYO6p)
- - 👉 [To keep&#39;em together. That&#39;s why](http://9gag.com/gag/aGyXDVz)<!-- MEMES:END -->
+ - 😝 [The FIRST THING the UK `officers` do is turn off their BodyCams.](http://9gag.com/gag/a4Pvb9Q)
+ - 💣 [Sleepworking](http://9gag.com/gag/a7oQd8z)
+ - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
+ - 👉 [Just show cats, dogs and Emma](http://9gag.com/gag/adBEXLB)<!-- MEMES:END -->
 
 ---
 

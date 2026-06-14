@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher?](https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/)
- - [Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals](https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/)
- - [After years of uncertainty, including delayed listings, memory chipmaker Kioxia&#39;s shares soared 56x in 18 months, making it Japan&#39;s most valuable company &lpar;Shuhei Ochiai/Nikkei Asia&rpar;](https://www.techmeme.com/260614/p5#a260614p5)
- - [7 Best Coffee Makers &lpar;2026&rpar;: Ratio, Fellow, Moccamaster](https://www.wired.com/gallery/best-coffee-makers/)
- - [Škoda’s New EV Will Likely Be Its Most Expensive Yet](https://www.wired.com/story/skoda-peaq-will-likely-be-its-most-expensive-ev-yet/)<!-- TECH:END -->
+ - [Ajinomoto says it can meet demand through 2030 for ABF, a key material for advanced chipmaking substrates, and plans to expand capacity instead of hiking prices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260614/p6#a260614p6)
+ - [Solid-state batteries still aren’t ready, but gels are](https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state)
+ - [20 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2026&rpar;](https://www.wired.com/gallery/best-gifts-for-men-2026/)
+ - [MacBook Neo vs Dell XPS 13: $599 budget battle, compared](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-dell-xps-13-599-budget-battle-compared?utm_source=rss)
+ - [Crime blotter: Arrested NFL star accused of biting iPhone](https://appleinsider.com/articles/26/06/14/crime-blotter-arrested-nfl-star-accused-of-biting-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

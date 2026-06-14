@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The impossible dream of the universal remote](https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history)
- - [Apple TV&#39;s New Camboy Crime Thriller Is the Perfect Summer Binge](https://www.cnet.com/tech/services-and-software/maximum-pleasure-guaranteed-camboy-crime-thriller-apple-tv/)
- - [The Solstice Is Almost Here: What to Know About Summer&#39;s Brightest Moment](https://www.cnet.com/culture/summer-solstice-everything-to-know-about-the-longest-day-of-the-year/)
- - [The Last Time the US Hosted the World Cup, One of the Weirdest Nights in Sports History Unfolded](https://www.cnet.com/culture/entertainment/june-17th-1994-netflix-espn-30-for-30-world-cup-oj-simpson/)
- - [Ajinomoto says it can meet demand through 2030 for ABF, a key material for advanced chipmaking substrates, and plans to expand capacity instead of hiking prices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260614/p6#a260614p6)<!-- TECH:END -->
+ - [How to watch most of the World Cup matches with free trials](https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale)
+ - [EU says it is looking at the practical consequences of US restricting Anthropic&#39;s models, notes such measures &quot;should not be discriminatory against partners&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260614/p9#a260614p9)
+ - [iPhone Fold, touchscreen MacBook evidence mounts in iOS 27, macOS 27](https://appleinsider.com/articles/26/06/14/iphone-fold-touchscreen-macbook-evidence-mounts-in-ios-27-macos-27?utm_source=rss)
+ - [Siri AI is good enough to ease Apple&#39;s AI crisis; sources: the ability to tap third party AI models beyond OpenAI&#39;s is already active in internal iOS 27 builds &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260614/p8#a260614p8)
+ - [Since Russia ratcheted up control over the internet this year, some Russians are turning to solutions like using multiple phones and VPNs to evade restrictions &lpar;Andrew Osborn/Reuters&rpar;](https://www.techmeme.com/260614/p7#a260614p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sunday Reboot: The WWDC hangover and Siri AI blindspots](https://appleinsider.com/articles/26/06/14/sunday-reboot-the-wwdc-hangover-and-siri-ai-blindspots?utm_source=rss)
+ - [Satya Nadella says companies must build both human capital and token capital, with human judgment guiding AI systems that learn and improve over time &lpar;Satya Nadella/@satyanadella&rpar;](https://www.techmeme.com/260614/p13#a260614p13)
  - [Sources: senior Anthropic technical staff are in DC to meet WH officials and try to fix the Mythos 5 dispute; both sides say they are eager to resolve the issue &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260614/p12#a260614p12)
  - [China may have accessed Mythos](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos)
- - [Canadian PM says the Anthropic ban shows the dangers of &quot;over-reliance on certain models&quot;, and compares the risks to those that led to the 2008 financial crisis &lpar;Bloomberg&rpar;](https://www.techmeme.com/260614/p11#a260614p11)
- - [Conclave is the sound of a NYC summer block party](https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review)
- - [Sources: UK plans to announce an &quot;Australia plus&quot; under-16 social media ban, including restrictions on chats with strangers on gaming apps and under-18 curfews &lpar;The Guardian&rpar;](https://www.techmeme.com/260614/p10#a260614p10)<!-- TECH:END -->
+ - [Canadian PM says the Anthropic ban shows the dangers of &quot;over-reliance on certain models&quot;, and compares the risks to those that led to the 2008 financial crisis &lpar;Bloomberg&rpar;](https://www.techmeme.com/260614/p11#a260614p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

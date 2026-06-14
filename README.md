@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
- - 😝 [Learn Japanese mothef\u00f9cker](http://9gag.com/gag/awywnXR)
- - 💣 [Avatar movie scene](http://9gag.com/gag/abA7pyL)
  - 😝 [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)
- - 👉 [Ostrich got humbled.](http://9gag.com/gag/a0eBbPz)<!-- MEMES:END -->
+ - 😝 [Grandma: goodbye cruel world](http://9gag.com/gag/ae9LbKv)
+ - 💣 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
+ - 😝 [We know the feel, bro.](http://9gag.com/gag/an76b3o)
+ - 👉 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)<!-- MEMES:END -->
 
 ---
 

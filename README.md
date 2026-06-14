@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the 2026 FIFA World Cup begins, there is still no clear replacement for &quot;Sports Twitter&quot;, which was a perfect second-screen experience during live events &lpar;Andrew Webster/The Verge&rpar;](https://www.techmeme.com/260614/p4#a260614p4)
- - [Challenger, Gray &amp; Christmas: out of ~398K US jobs cuts in 2026 through May, employers cited AI as the reason for ~88K of them, up from ~54K in all of 2025 &lpar;Hyunsoo Rim/Sherwood News&rpar;](https://www.techmeme.com/260614/p3#a260614p3)
- - [Nothing CEO Carl Pei says memory is now the costliest phone component, accounting for 50%+ of BOM in some models, and predicts phone prices will rise into 2027 &lpar;Stevie Bonifield/The Verge&rpar;](https://www.techmeme.com/260614/p2#a260614p2)
- - [US export controls on Anthropic reignite debate in India over the country&#39;s AI ambitions, which are increasingly tied to tech developed and governed in the US &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260614/p1#a260614p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-14/)<!-- TECH:END -->
+ - [The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher?](https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/)
+ - [Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals](https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/)
+ - [After years of uncertainty, including delayed listings, memory chipmaker Kioxia&#39;s shares soared 56x in 18 months, making it Japan&#39;s most valuable company &lpar;Shuhei Ochiai/Nikkei Asia&rpar;](https://www.techmeme.com/260614/p5#a260614p5)
+ - [7 Best Coffee Makers &lpar;2026&rpar;: Ratio, Fellow, Moccamaster](https://www.wired.com/gallery/best-coffee-makers/)
+ - [Škoda’s New EV Will Likely Be Its Most Expensive Yet](https://www.wired.com/story/skoda-peaq-will-likely-be-its-most-expensive-ev-yet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

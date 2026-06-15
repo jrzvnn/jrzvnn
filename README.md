@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak German engineering](http://9gag.com/gag/a7oQrzL)
+ - 😝 [South Korea be like...](http://9gag.com/gag/aqy0rwL)
  - 😝 [Aging like fine wine](http://9gag.com/gag/adBEqNQ)
  - 💣 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
- - 😝 [Etching the moment into history](http://9gag.com/gag/ae9LbXp)
- - 👉 [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)<!-- MEMES:END -->
+ - 😝 [They made us the cashier now they complain about our performance](http://9gag.com/gag/aLnx89M)
+ - 👉 [MSGA](http://9gag.com/gag/aPA5BXw)<!-- MEMES:END -->
 
 ---
 

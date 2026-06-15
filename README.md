@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Golden Gate beta review: it&#39;s nothing without Siri AI](https://appleinsider.com/articles/26/06/12/macos-golden-gate-beta-review-its-nothing-without-siri-ai?utm_source=rss)
- - [Here we go again: Supply chain thinks iPhone Fold will ship in 2027, not 2026](https://appleinsider.com/articles/26/06/15/here-we-go-again-supply-chain-thinks-iphone-fold-will-ship-in-2027-not-2026?utm_source=rss)
- - [The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side](https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/)
- - [Honor’s Magic V6 sets three foldable firsts](https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review)
- - [How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer](https://www.wired.com/story/how-apple-is-making-your-older-iphone-run-faster-and-stay-alive-longer/)<!-- TECH:END -->
+ - [NewCore, which helps companies manage both human and AI agent identities in a single system, emerges from stealth with a $66M seed led by Cyberstarts &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260615/p31#a260615p31)
+ - [Cybersecurity startup Chainguard, Cisco, Cloudflare, JPMorgan Chase, and others launch Athena, a coalition to secure open-source software using AI &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260615/p30#a260615p30)
+ - [Roblox exec says ticking a box for age verification is &amp;#8216;not enough anymore&amp;#8217;](https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc)
+ - [American Express agrees to acquire restaurant booking platform TheFork from Tripadvisor in an all-cash deal worth $700M; TRIP jumps 6%+ &lpar;Reuters&rpar;](https://www.techmeme.com/260615/p29#a260615p29)
+ - [A US judge rejects Meta&#39;s bid to dismiss a lawsuit from Strike 3, which owns porn production companies, that alleges Meta torrented its videos for AI training &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](https://www.techmeme.com/260615/p28#a260615p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

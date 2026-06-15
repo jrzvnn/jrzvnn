@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NewCore, which helps companies manage both human and AI agent identities in a single system, emerges from stealth with a $66M seed led by Cyberstarts &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260615/p31#a260615p31)
- - [Cybersecurity startup Chainguard, Cisco, Cloudflare, JPMorgan Chase, and others launch Athena, a coalition to secure open-source software using AI &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260615/p30#a260615p30)
- - [Roblox exec says ticking a box for age verification is &amp;#8216;not enough anymore&amp;#8217;](https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc)
- - [American Express agrees to acquire restaurant booking platform TheFork from Tripadvisor in an all-cash deal worth $700M; TRIP jumps 6%+ &lpar;Reuters&rpar;](https://www.techmeme.com/260615/p29#a260615p29)
- - [A US judge rejects Meta&#39;s bid to dismiss a lawsuit from Strike 3, which owns porn production companies, that alleges Meta torrented its videos for AI training &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](https://www.techmeme.com/260615/p28#a260615p28)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s Smart Thermostat is on sale for just $58](https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale)
+ - [All the news about Anthropic&amp;#8217;s new AI fight with the White House](https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown)
+ - [Meta launches new AI features, including an &quot;AI Mode&quot; for search that uses Meta AI to surface answers pulled from public posts across the platform &lpar;Lauren Forristal/TechCrunch&rpar;](https://www.techmeme.com/260615/p38#a260615p38)
+ - [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals)
+ - [Game development diary: Running on Steam](https://appleinsider.com/articles/26/06/15/game-development-diary-running-on-steam?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

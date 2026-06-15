@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grandma: goodbye cruel world](http://9gag.com/gag/ae9LbKv)
- - 😝 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
- - 💣 [I cast](http://9gag.com/gag/a2vedDd)
- - 😝 [Fashionably late for today&#39;s shitpost.](http://9gag.com/gag/aPA59qq)
+ - 😝 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
+ - 😝 [Good Girl](http://9gag.com/gag/aE03Ydn)
+ - 💣 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
+ - 😝 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)
  - 👉 [MSGA](http://9gag.com/gag/aPA5BXw)<!-- MEMES:END -->
 
 ---

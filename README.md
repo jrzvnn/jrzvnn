@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alibaba is in talks to buy Chinese fresh grocery delivery platform Pupu for $1.5B, in a bid to better compete with food delivery rivals like Meituan &lpar;Cathy Chan/Bloomberg&rpar;](https://www.techmeme.com/260615/p3#a260615p3)
- - [Madrid-based Orbio, which uses AI agents to help businesses interview, onboard, and manage frontline workers, raised a $21M Series A led by Dawn Capital &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260615/p2#a260615p2)
- - [Inside the Signal group chat where Sergey Brin, Marc Andreessen, Garry Tan, and other tech elites toss out strategies to oppose a proposed California wealth tax &lpar;Emily Shugerman/The San Francisco ...&rpar;](https://www.techmeme.com/260615/p1#a260615p1)
- - [Sources: ByteDance is in talks with Shanghai-based Iluvatar CoreX to purchase AI inference GPUs, and is also considering a deal to buy Baidu&#39;s Kunlunxin chips &lpar;Reuters&rpar;](https://www.techmeme.com/260614/p23#a260614p23)
- - [Health wearables are booming, with both Oura and Whoop eyeing IPOs, but investors remain cautious after Fitbit&#39;s struggles and low consumer hardware margins &lpar;David Wainer/Wall Street Journal&rpar;](https://www.techmeme.com/260614/p22#a260614p22)<!-- TECH:END -->
+ - [macOS Golden Gate beta review: it&#39;s nothing without Siri AI](https://appleinsider.com/articles/26/06/12/macos-golden-gate-beta-review-its-nothing-without-siri-ai?utm_source=rss)
+ - [Here we go again: Supply chain thinks iPhone Fold will ship in 2027, not 2026](https://appleinsider.com/articles/26/06/15/here-we-go-again-supply-chain-thinks-iphone-fold-will-ship-in-2027-not-2026?utm_source=rss)
+ - [The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side](https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/)
+ - [Honor’s Magic V6 sets three foldable firsts](https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review)
+ - [How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer](https://www.wired.com/story/how-apple-is-making-your-older-iphone-run-faster-and-stay-alive-longer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

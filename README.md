@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take off with style](http://9gag.com/gag/a2vedO9)
- - 😝 [The logic behind Asian achitecture](http://9gag.com/gag/aGyX0GZ)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #1613](http://9gag.com/gag/a6ZPMem)
- - 😝 [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)
- - 👉 [In Kenya\u2019s Maasai Mara reserve, a leopard was filmed climbing to the top of a tree to silently watch the sunset.](http://9gag.com/gag/a87Z8b3)<!-- MEMES:END -->
+ - 😝 [Grandma: goodbye cruel world](http://9gag.com/gag/ae9LbKv)
+ - 😝 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
+ - 💣 [I cast](http://9gag.com/gag/a2vedDd)
+ - 😝 [Fashionably late for today&#39;s shitpost.](http://9gag.com/gag/aPA59qq)
+ - 👉 [MSGA](http://9gag.com/gag/aPA5BXw)<!-- MEMES:END -->
 
 ---
 

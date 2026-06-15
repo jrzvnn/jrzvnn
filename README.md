@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&amp;#8217;s Smart Thermostat is on sale for just $58](https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale)
- - [All the news about Anthropic&amp;#8217;s new AI fight with the White House](https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown)
- - [Meta launches new AI features, including an &quot;AI Mode&quot; for search that uses Meta AI to surface answers pulled from public posts across the platform &lpar;Lauren Forristal/TechCrunch&rpar;](https://www.techmeme.com/260615/p38#a260615p38)
- - [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals)
- - [Game development diary: Running on Steam](https://appleinsider.com/articles/26/06/15/game-development-diary-running-on-steam?utm_source=rss)<!-- TECH:END -->
+ - [Sources: several Xbox studios, including Hellblade maker Ninja Theory, are in talks with Microsoft to buy themselves back and go independent to avoid closure &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260615/p42#a260615p42)
+ - [Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’](https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/)
+ - [Source: Qualcomm is in talks to buy AI chip designer Tenstorrent for $8B to $10B; Tenstorrent discussed raising $800M at a ~$3.2B valuation last year &lpar;The Information&rpar;](https://www.techmeme.com/260615/p41#a260615p41)
+ - [Anthropic Sued Over Alleged False Advertising on Claude Max Subscription Usage Limits](https://www.cnet.com/tech/services-and-software/anthropic-sued-alleged-false-advertising-claude-max-subscription-usage-limits/)
+ - [Best Laptop for College Students: Top Laptops for School in 2026](https://www.cnet.com/tech/computing/best-laptop-for-college/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

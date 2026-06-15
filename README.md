@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Frank founder Charlie Javice, sentenced in September 2025 to 85 months for defrauding JPMorgan Chase, has been seeking a presidential pardon from Trump &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260614/p17#a260614p17)
- - [A profile of Kalshi COO Luana Lopes Lara, who has overseen a tremendous pace of growth over the past year as the company faces political and regulatory backlash &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260614/p16#a260614p16)
- - [Chinese Tesla drivers are using tiny plastic heads to fool Tesla&#39;s distracted-driving controls, which appear unable to distinguish figurines from real people &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260614/p15#a260614p15)
- - [The FBI built a small town to simulate cyberattacks](https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range)
- - [A government crackdown on online casinos operating in the Isle of Man has led to a major tax revenue loss, accelerating the island&#39;s slide toward a fiscal cliff &lpar;Jack Adamović Davies/Bloomberg&rpar;](https://www.techmeme.com/260614/p14#a260614p14)<!-- TECH:END -->
+ - [Sources: Alibaba is in talks to buy Chinese fresh grocery delivery platform Pupu for $1.5B, in a bid to better compete with food delivery rivals like Meituan &lpar;Cathy Chan/Bloomberg&rpar;](https://www.techmeme.com/260615/p3#a260615p3)
+ - [Madrid-based Orbio, which uses AI agents to help businesses interview, onboard, and manage frontline workers, raised a $21M Series A led by Dawn Capital &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260615/p2#a260615p2)
+ - [Inside the Signal group chat where Sergey Brin, Marc Andreessen, Garry Tan, and other tech elites toss out strategies to oppose a proposed California wealth tax &lpar;Emily Shugerman/The San Francisco ...&rpar;](https://www.techmeme.com/260615/p1#a260615p1)
+ - [Sources: ByteDance is in talks with Shanghai-based Iluvatar CoreX to purchase AI inference GPUs, and is also considering a deal to buy Baidu&#39;s Kunlunxin chips &lpar;Reuters&rpar;](https://www.techmeme.com/260614/p23#a260614p23)
+ - [Health wearables are booming, with both Oura and Whoop eyeing IPOs, but investors remain cautious after Fitbit&#39;s struggles and low consumer hardware margins &lpar;David Wainer/Wall Street Journal&rpar;](https://www.techmeme.com/260614/p22#a260614p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Cursor, including its hiring process and its testy relationship with Anthropic, which told Cursor that Claude Code was mainly a research effort &lpar;Business Insider&rpar;](https://www.techmeme.com/260615/p43#a260615p43)
- - [Google Earth&#39;s Flight Simulator Is Now on Browsers: Here&#39;s How to Play](https://www.cnet.com/tech/gaming/google-earths-flight-simulator-is-now-on-browsers-heres-how-to-play/)
- - [AWE 2026 Live: Smart Glasses Are Bringing AI to Our Faces](https://www.cnet.com/news-live/awe-2026-smart-glasses-augmented-reality-live-coverage/)
- - [Sources: several Xbox studios, including Hellblade maker Ninja Theory, are in talks with Microsoft to buy themselves back and go independent to avoid closure &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260615/p42#a260615p42)
- - [Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’](https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/)<!-- TECH:END -->
+ - [Sources: DeepSeek closed a $7.4B round at a $50B valuation under an unusual structure requiring investors to put capital into an LP run by CEO Liang Wenfeng &lpar;The Information&rpar;](https://www.techmeme.com/260616/p4#a260616p4)
+ - [Sources: audited financial figures show OpenAI spending hit $34B in 2025, including $19B on research and development and nearly $6B on sales and marketing &lpar;Financial Times&rpar;](https://www.techmeme.com/260616/p3#a260616p3)
+ - [Google Workspace Promo Codes: 14% Off for June](https://www.wired.com/story/google-workspace-promo-code/)
+ - [NZXT Discount Codes: 50% Off in June 2026](https://www.wired.com/story/nzxt-discount-code/)
+ - [Birdfy Discount Codes: 15% Off Sitewide](https://www.wired.com/story/birdfy-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

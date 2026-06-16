@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Agree!](http://9gag.com/gag/aZZe360)
- - 😝 [Bad Mobility Shofer.](http://9gag.com/gag/a6ZPooL)
- - 💣 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - 😝 [It really works](http://9gag.com/gag/a1m9onY)
- - 👉 [Peak German engineering](http://9gag.com/gag/a7oQrzL)<!-- MEMES:END -->
+ - 😝 [I can&#39;t believe some people would prefer ketchup over this](http://9gag.com/gag/a4PvQAy)
+ - 😝 [Well said!](http://9gag.com/gag/aYQ94X7)
+ - 💣 [10 yo me stealing all the games from the internet caffe](http://9gag.com/gag/aLnxggv)
+ - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
+ - 👉 [Manly activity.](http://9gag.com/gag/a7oQ3DL)<!-- MEMES:END -->
 
 ---
 

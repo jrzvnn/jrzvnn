@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad :&lpar;](http://9gag.com/gag/aQzGe32)
- - 😝 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - 💣 [Mass Pepsi](http://9gag.com/gag/aryYgj7)
- - 😝 [Manly activity.](http://9gag.com/gag/a7oQ3DL)
- - 👉 [MSGA](http://9gag.com/gag/aPA5BXw)<!-- MEMES:END -->
+ - 😝 [Agree!](http://9gag.com/gag/aZZe360)
+ - 😝 [Bad Mobility Shofer.](http://9gag.com/gag/a6ZPooL)
+ - 💣 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
+ - 😝 [It really works](http://9gag.com/gag/a1m9onY)
+ - 👉 [Peak German engineering](http://9gag.com/gag/a7oQrzL)<!-- MEMES:END -->
 
 ---
 

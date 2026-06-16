@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sad :&lpar;](http://9gag.com/gag/aQzGe32)
  - 😝 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - 😝 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)
- - 💣 [Good Girl](http://9gag.com/gag/aE03Ydn)
- - 😝 [Fashionably late for today&#39;s shitpost.](http://9gag.com/gag/aPA59qq)
- - 👉 [MSGA](http://9gag.com/gag/aPA5BXw)<!-- MEMES:END -->
+ - 💣 [MSGA](http://9gag.com/gag/aPA5BXw)
+ - 😝 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
+ - 👉 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
 
 ---
 

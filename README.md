@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon Simplicity, Verizon Shine, and Verizon Dollars: What You Need to Know](https://www.wired.com/story/verizon-simplicity-plan/)
- - [In Praise of a Dumb House](https://www.wired.com/story/in-praise-of-a-dumb-house/)
- - [The Cybercab is the lightest, most efficient Tesla ever made](https://www.theverge.com/transportation/950596/tesla-cybercab-efficient-weight-range-epa)
- - [Hydra Host, a marketplace for developers and enterprises to procure GPUs pooled from data center operators, raised a $100M Series A led by Kindred Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260616/p27#a260616p27)
- - [Pour one out for Roku City](https://www.theverge.com/streaming/950644/fox-roku-acquisition-lachlan-murdoch-fox-news-consolidation)<!-- TECH:END -->
+ - [Zhipu launches GLM-5.2, says it markedly improves coding and agentic tasks, with strong long-horizon capabilities and a 1M context window, under an MIT license &lpar;Z.ai&rpar;](https://www.techmeme.com/260616/p37#a260616p37)
+ - [All the latest news on Android 17, Wear OS 7, and Android XR](https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr)
+ - [Google launches Android 17 and Wear OS 7, first on Pixel devices, with support for the latest AI models, a bubble bar UI, and live updates on Wear OS &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260616/p36#a260616p36)
+ - [Why the Reflecting Pool Is Full of Algae After Trump&#39;s Renovation](https://www.wired.com/story/reflecting-pool-full-of-algae-climate-change/)
+ - [Android 17 arrives on Pixel phones today](https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

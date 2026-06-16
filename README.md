@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Melbourne-based Everlab, which is building an AI-powered preventive healthcare platform, raised a AU$65M Series A led by Airtree Ventures &lpar;Tegan Jones/SmartCompany&rpar;](https://www.techmeme.com/260616/p39#a260616p39)
- - [Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society](https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 17, #1102](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-17-1102/)
- - [Today&#39;s Wordle Hints, Answer and Help for June 17, #1824](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-17-1824/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 17 #836](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-17-836/)<!-- TECH:END -->
+ - [iPhone part factory in India no longer in danger of shutting down](https://appleinsider.com/articles/26/06/16/iphone-part-factory-in-india-no-longer-in-danger-of-shutting-down?utm_source=rss)
+ - [Anthropic pauses its anticipated move to token-based billing for Claude Agent SDK that it planned to implement on June 15, saying &quot;Nothing changes for now&quot; &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260616/p42#a260616p42)
+ - [SpaceX closed up 4.8% on Tuesday with a $2.65T market cap, just above Amazon&#39;s, after popping ~12% intraday and briefly overtaking Microsoft&#39;s $2.93T market cap &lpar;CNBC&rpar;](https://www.techmeme.com/260616/p41#a260616p41)
+ - [Sources: PayPal to shutter its 10-year-old PayPal Ventures arm amid a broader shakeup under a new CEO and has hired Jefferies to explore selling some positions &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260616/p40#a260616p40)
+ - [Meta&#39;s Smart Glasses Are Testing Facial Recognition Software Used by Police and the Military](https://www.cnet.com/tech/mobile/metas-smart-glasses-testing-facial-recognition-software-police-and-military/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

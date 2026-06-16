@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak German engineering](http://9gag.com/gag/a7oQrzL)
- - 😝 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - 💣 [The moment that we all waiting for.. Japanese fans stayed behind at the AT&amp;T Stadium in Dallas after the game to clean up the entire stadium.](http://9gag.com/gag/amo32Lo)
- - 😝 [These old bones don\u2019t move like they used to](http://9gag.com/gag/aQzGegr)
- - 👉 [Well said!](http://9gag.com/gag/aYQ94X7)<!-- MEMES:END -->
+ - 😝 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
+ - 😝 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)
+ - 💣 [Good Girl](http://9gag.com/gag/aE03Ydn)
+ - 😝 [Fashionably late for today&#39;s shitpost.](http://9gag.com/gag/aPA59qq)
+ - 👉 [MSGA](http://9gag.com/gag/aPA5BXw)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Florida sues TikTok for allegedly violating its social media regulations for minors and state consumer protection laws by showing &quot;X-Rated&quot; content to minors &lpar;Alex Ebert/Bloomberg Law&rpar;](https://www.techmeme.com/260616/p10#a260616p10)
- - [France plans €655M in AI investments through 2030 and a Mistral-powered chatbot for state services; its security service will replace Palantir with Chapsvision &lpar;Benoit Berthelot/Bloomberg&rpar;](https://www.techmeme.com/260616/p9#a260616p9)
- - [Streamer IShowSpeed Is Gen Z’s ESPN](https://www.wired.com/story/big-interview-ishowspeed-world-cup/)
- - [India blocks Telegram until June 22 citing its use by organized &quot;cheating rackets&quot; to &quot;defraud candidates&quot; taking a national medical entrance examination &lpar;Reuters&rpar;](https://www.techmeme.com/260616/p8#a260616p8)
- - [Study: Mistral and other open-source AI models are among the weakest at filtering Russian disinformation; Mistral&#39;s top model ranks 47 out of 60 tested models &lpar;Andrew Jack/Financial Times&rpar;](https://www.techmeme.com/260616/p7#a260616p7)<!-- TECH:END -->
+ - [Verizon Simplicity, Verizon Shine, and Verizon Dollars: What You Need to Know](https://www.wired.com/story/verizon-simplicity-plan/)
+ - [In Praise of a Dumb House](https://www.wired.com/story/in-praise-of-a-dumb-house/)
+ - [The Cybercab is the lightest, most efficient Tesla ever made](https://www.theverge.com/transportation/950596/tesla-cybercab-efficient-weight-range-epa)
+ - [Hydra Host, a marketplace for developers and enterprises to procure GPUs pooled from data center operators, raised a $100M Series A led by Kindred Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260616/p27#a260616p27)
+ - [Pour one out for Roku City](https://www.theverge.com/streaming/950644/fox-roku-acquisition-lachlan-murdoch-fox-news-consolidation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DeepSeek closed a $7.4B round at a $50B valuation under an unusual structure requiring investors to put capital into an LP run by CEO Liang Wenfeng &lpar;The Information&rpar;](https://www.techmeme.com/260616/p4#a260616p4)
- - [Sources: audited financial figures show OpenAI spending hit $34B in 2025, including $19B on research and development and nearly $6B on sales and marketing &lpar;Financial Times&rpar;](https://www.techmeme.com/260616/p3#a260616p3)
- - [Google Workspace Promo Codes: 14% Off for June](https://www.wired.com/story/google-workspace-promo-code/)
- - [NZXT Discount Codes: 50% Off in June 2026](https://www.wired.com/story/nzxt-discount-code/)
- - [Birdfy Discount Codes: 15% Off Sitewide](https://www.wired.com/story/birdfy-discount-code/)<!-- TECH:END -->
+ - [Florida sues TikTok for allegedly violating its social media regulations for minors and state consumer protection laws by showing &quot;X-Rated&quot; content to minors &lpar;Alex Ebert/Bloomberg Law&rpar;](https://www.techmeme.com/260616/p10#a260616p10)
+ - [France plans €655M in AI investments through 2030 and a Mistral-powered chatbot for state services; its security service will replace Palantir with Chapsvision &lpar;Benoit Berthelot/Bloomberg&rpar;](https://www.techmeme.com/260616/p9#a260616p9)
+ - [Streamer IShowSpeed Is Gen Z’s ESPN](https://www.wired.com/story/big-interview-ishowspeed-world-cup/)
+ - [India blocks Telegram until June 22 citing its use by organized &quot;cheating rackets&quot; to &quot;defraud candidates&quot; taking a national medical entrance examination &lpar;Reuters&rpar;](https://www.techmeme.com/260616/p8#a260616p8)
+ - [Study: Mistral and other open-source AI models are among the weakest at filtering Russian disinformation; Mistral&#39;s top model ranks 47 out of 60 tested models &lpar;Andrew Jack/Financial Times&rpar;](https://www.techmeme.com/260616/p7#a260616p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

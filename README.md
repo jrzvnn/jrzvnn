@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad :&lpar;](http://9gag.com/gag/aQzGe32)
  - 😝 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - 💣 [MSGA](http://9gag.com/gag/aPA5BXw)
- - 😝 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
+ - 😝 [Bad Mobility Shofer.](http://9gag.com/gag/a6ZPooL)
+ - 💣 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
+ - 😝 [It really works](http://9gag.com/gag/a1m9onY)
  - 👉 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
 
 ---

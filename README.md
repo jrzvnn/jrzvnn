@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zhipu launches GLM-5.2, says it markedly improves coding and agentic tasks, with strong long-horizon capabilities and a 1M context window, under an MIT license &lpar;Z.ai&rpar;](https://www.techmeme.com/260616/p37#a260616p37)
- - [All the latest news on Android 17, Wear OS 7, and Android XR](https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr)
- - [Google launches Android 17 and Wear OS 7, first on Pixel devices, with support for the latest AI models, a bubble bar UI, and live updates on Wear OS &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260616/p36#a260616p36)
- - [Why the Reflecting Pool Is Full of Algae After Trump&#39;s Renovation](https://www.wired.com/story/reflecting-pool-full-of-algae-climate-change/)
- - [Android 17 arrives on Pixel phones today](https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction)<!-- TECH:END -->
+ - [Melbourne-based Everlab, which is building an AI-powered preventive healthcare platform, raised a AU$65M Series A led by Airtree Ventures &lpar;Tegan Jones/SmartCompany&rpar;](https://www.techmeme.com/260616/p39#a260616p39)
+ - [Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society](https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 17, #1102](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-17-1102/)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 17, #1824](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-17-1824/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 17 #836](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-17-836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

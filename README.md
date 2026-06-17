@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone users can now join the &#39;Pokemon Champions&#39; fray](https://appleinsider.com/articles/26/06/17/iphone-users-can-now-join-the-pokemon-champions-fray?utm_source=rss)
- - [A newly discovered data leak has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs across 194 countries &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260617/p38#a260617p38)
- - [Two-thirds of Americans think AI is advancing too quickly](https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly)
- - [The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible](https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/)
- - [Joshua Baer, the founder and CEO of Texas accelerator Capital Factory, died on Tuesday night in a business jet crash in Laredo, Texas &lpar;Ryan Merket/RuntimeWire&rpar;](https://www.techmeme.com/260617/p37#a260617p37)<!-- TECH:END -->
+ - [Apple&#39;s Game Porting Toolkit 4 is a big improvement for modern game coders](https://appleinsider.com/articles/26/06/17/apples-game-porting-toolkit-4-is-a-big-improvement-for-modern-game-coders?utm_source=rss)
+ - [Epic says Unreal Engine 6, planned for early access in late 2027, will unify UE5 and Unreal Editor for Fortnite, add integrations with Claude and Gemini, more &lpar;Andy Robinson/Video Games Chronicle&rpar;](https://www.techmeme.com/260617/p41#a260617p41)
+ - [Epic wants to let you bring your Fortnite skins to other games](https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse)
+ - [Anthropic got hit by export rules nobody understands](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls)
+ - [Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital](https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

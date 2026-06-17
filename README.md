@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone part factory in India no longer in danger of shutting down](https://appleinsider.com/articles/26/06/16/iphone-part-factory-in-india-no-longer-in-danger-of-shutting-down?utm_source=rss)
- - [Anthropic pauses its anticipated move to token-based billing for Claude Agent SDK that it planned to implement on June 15, saying &quot;Nothing changes for now&quot; &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260616/p42#a260616p42)
- - [SpaceX closed up 4.8% on Tuesday with a $2.65T market cap, just above Amazon&#39;s, after popping ~12% intraday and briefly overtaking Microsoft&#39;s $2.93T market cap &lpar;CNBC&rpar;](https://www.techmeme.com/260616/p41#a260616p41)
- - [Sources: PayPal to shutter its 10-year-old PayPal Ventures arm amid a broader shakeup under a new CEO and has hired Jefferies to explore selling some positions &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260616/p40#a260616p40)
- - [Meta&#39;s Smart Glasses Are Testing Facial Recognition Software Used by Police and the Military](https://www.cnet.com/tech/mobile/metas-smart-glasses-testing-facial-recognition-software-police-and-military/)<!-- TECH:END -->
+ - [Sources: Amazon faces a possible FTC lawsuit alleging it misled advertisers; multiple state AGs are involved and the case could seek billions in civil penalties &lpar;Bloomberg&rpar;](https://www.techmeme.com/260616/p45#a260616p45)
+ - [Many US lawmakers said this week they had not been formally briefed on Trump&#39;s Fable 5 move, including Ted Cruz, whose commerce committee can shape AI policy &lpar;Politico&rpar;](https://www.techmeme.com/260616/p44#a260616p44)
+ - [Illinois Gov. JB Pritzker signs a state budget with new taxes on social media giants, digital ads, and prediction and crypto markets, all likely facing lawsuits &lpar;Mitchell Armentrout/Chicago Sun Times&rpar;](https://www.techmeme.com/260616/p43#a260616p43)
+ - [Best Handheld Fans and Wearable Fans &lpar;2026&rpar;](https://www.wired.com/gallery/best-handheld-fans/)
+ - [Apple Is Reportedly Planning AirPods With Cameras for 2027](https://www.cnet.com/tech/mobile/apple-is-reportedly-planning-airpods-with-cameras-for-2027/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

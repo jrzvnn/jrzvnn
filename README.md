@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life choices](http://9gag.com/gag/a87Z301)
  - 😝 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - 💣 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)
+ - 😝 [Agree!](http://9gag.com/gag/aZZe360)
+ - 💣 [Sad :&lpar;](http://9gag.com/gag/aQzGe32)
  - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [It really works](http://9gag.com/gag/a1m9onY)<!-- MEMES:END -->
+ - 👉 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)<!-- MEMES:END -->
 
 ---
 

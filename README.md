@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman fights off cougar to save her little goat](http://9gag.com/gag/aO8wYqD)
- - 😝 [Agree!](http://9gag.com/gag/aZZe360)
- - 💣 [Life choices](http://9gag.com/gag/a87Z301)
+ - 😝 [Green](http://9gag.com/gag/aLnx0vP)
+ - 😝 [Life choices](http://9gag.com/gag/a87Z301)
+ - 💣 [Are we doomed?](http://9gag.com/gag/axy5z7p)
  - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
+ - 👉 [It really works](http://9gag.com/gag/a1m9onY)<!-- MEMES:END -->
 
 ---
 

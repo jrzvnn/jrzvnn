@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Game Porting Toolkit 4 is a big improvement for modern game coders](https://appleinsider.com/articles/26/06/17/apples-game-porting-toolkit-4-is-a-big-improvement-for-modern-game-coders?utm_source=rss)
- - [Epic says Unreal Engine 6, planned for early access in late 2027, will unify UE5 and Unreal Editor for Fortnite, add integrations with Claude and Gemini, more &lpar;Andy Robinson/Video Games Chronicle&rpar;](https://www.techmeme.com/260617/p41#a260617p41)
- - [Epic wants to let you bring your Fortnite skins to other games](https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse)
- - [Anthropic got hit by export rules nobody understands](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls)
- - [Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital](https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/)<!-- TECH:END -->
+ - [Mastodon adds email newsletters, letting writers send their posts directly to subscribers&#39; inboxes, even to readers without a Mastodon account &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260617/p47#a260617p47)
+ - [In an interview, Tim Cook says Apple price hikes are &quot;unavoidable&quot; to offset surging memory and storage chip costs, and &quot;the situation has become unsustainable&quot; &lpar;Rolfe Winkler/Wall Street Journal&rpar;](https://www.techmeme.com/260617/p46#a260617p46)
+ - [iPhone Air successor with two cameras rumored for spring 2027](https://appleinsider.com/articles/26/06/17/iphone-air-successor-rumored-for-spring-2027-with-two-cameras?utm_source=rss)
+ - [VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription](https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription)
+ - [Snap&#39;s stock closed down 8.14% on Wednesday, after the company launched the $2,195 Specs AR glasses on Tuesday; SNAP is down ~41% YTD &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260617/p45#a260617p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

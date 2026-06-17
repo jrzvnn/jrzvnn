@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [80s avengers](http://9gag.com/gag/a0eBQDL)
- - 😝 [It was better when there was racism](http://9gag.com/gag/an765wB)
- - 💣 [Guess how old he is](http://9gag.com/gag/adBE5E2)
+ - 😝 [Life choices](http://9gag.com/gag/a87Z301)
+ - 😝 [Everywhere...](http://9gag.com/gag/a9yoR10)
+ - 💣 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)
  - 😝 [Prosthetic legs took a massive step forward](http://9gag.com/gag/a4Pv39m)
- - 👉 [Terrible News](http://9gag.com/gag/a34mREQ)<!-- MEMES:END -->
+ - 👉 [Green](http://9gag.com/gag/aLnx0vP)<!-- MEMES:END -->
 
 ---
 

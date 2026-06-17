@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pedophile Ryan Abdelrahim gets busted for trying to meet at 12 yr old for the wrong reasons](http://9gag.com/gag/a7oQ3zx)
- - 😝 [Life choices](http://9gag.com/gag/a87Z301)
- - 💣 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)
+ - 😝 [Woman fights off cougar to save her little goat](http://9gag.com/gag/aO8wYqD)
+ - 😝 [Agree!](http://9gag.com/gag/aZZe360)
+ - 💣 [Life choices](http://9gag.com/gag/a87Z301)
  - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [Ahhh f**k...](http://9gag.com/gag/a7oQw1L)<!-- MEMES:END -->
+ - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
 
 ---
 

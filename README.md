@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber plans to expands its premium robotaxi service from SF to Houston by mid-2027, in partnership with EV maker Lucid and autonomous vehicle startup Nuro &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260617/p16#a260617p16)
- - [Apps can help you learn an instrument, but they&#39;re not enough](https://appleinsider.com/articles/26/06/17/apps-can-help-you-learn-an-instrument-but-theyre-not-enough?utm_source=rss)
- - [Nauk Nauk, which runs an AI video app that turns photos of toys into short animated videos, raised $20M and is coming out of beta; it claims to have 1M+ users &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260617/p15#a260617p15)
- - [Sources: Trump officials discussed ways to structure government equity stakes in AI companies, with Commerce Secretary Lutnick favoring a sovereign wealth fund &lpar;Eleanor Mueller/Semafor&rpar;](https://www.techmeme.com/260617/p14#a260617p14)
- - [Sources describe Huawei&#39;s efforts to rebuild its chip business seven years after the US cut Huawei off from advanced chips, as it bets on logic-stacking tech &lpar;Financial Times&rpar;](https://www.techmeme.com/260617/p13#a260617p13)<!-- TECH:END -->
+ - [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals)
+ - [Convey, which is building AI &quot;teammates&quot; to automate manual work at clients like NBCUniversal, raised a $38M Series A led by a16z &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260617/p27#a260617p27)
+ - [How to find the best deals during Amazon’s Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
+ - [In Toy Story 5, the problem really is these damn phones &lpar;and tablets&rpar;](https://www.theverge.com/entertainment/950739/toy-story-5-review)
+ - [Google&#39;s $99 Google Home Speaker, which is built for Gemini for Home and works as a Matter controller, will ship on June 29, nine months after it was announced &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](https://www.techmeme.com/260617/p26#a260617p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

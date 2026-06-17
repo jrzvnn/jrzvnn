@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastodon adds email newsletters, letting writers send their posts directly to subscribers&#39; inboxes, even to readers without a Mastodon account &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260617/p47#a260617p47)
- - [In an interview, Tim Cook says Apple price hikes are &quot;unavoidable&quot; to offset surging memory and storage chip costs, and &quot;the situation has become unsustainable&quot; &lpar;Rolfe Winkler/Wall Street Journal&rpar;](https://www.techmeme.com/260617/p46#a260617p46)
- - [iPhone Air successor with two cameras rumored for spring 2027](https://appleinsider.com/articles/26/06/17/iphone-air-successor-rumored-for-spring-2027-with-two-cameras?utm_source=rss)
- - [VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription](https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription)
- - [Snap&#39;s stock closed down 8.14% on Wednesday, after the company launched the $2,195 Specs AR glasses on Tuesday; SNAP is down ~41% YTD &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260617/p45#a260617p45)<!-- TECH:END -->
+ - [Trump administration officials say Anthropic must ensure Fable 5&#39;s guardrails can&#39;t be circumvented before rerelease; experts say that may not be possible &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260617/p49#a260617p49)
+ - [The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/)
+ - [The Best Nintendo Switch 2 Games Right Now](https://www.cnet.com/tech/gaming/best-nintendo-switch-2-games-of-2026/)
+ - [Apple&#39;s planned move of Hide My Email aliases to private.icloud.com will let services easily distinguish them from normal iCloud email addresses and block them &lpar;Arseniy Shestakov&rpar;](https://www.techmeme.com/260617/p48#a260617p48)
+ - [AI-driven chip shortages to cause Apple product price increase, says Cook](https://appleinsider.com/articles/26/06/17/ai-driven-ship-shortages-to-cause-apple-product-price-increase-says-cook?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

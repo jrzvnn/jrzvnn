@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon faces a possible FTC lawsuit alleging it misled advertisers; multiple state AGs are involved and the case could seek billions in civil penalties &lpar;Bloomberg&rpar;](https://www.techmeme.com/260616/p45#a260616p45)
- - [Many US lawmakers said this week they had not been formally briefed on Trump&#39;s Fable 5 move, including Ted Cruz, whose commerce committee can shape AI policy &lpar;Politico&rpar;](https://www.techmeme.com/260616/p44#a260616p44)
- - [Illinois Gov. JB Pritzker signs a state budget with new taxes on social media giants, digital ads, and prediction and crypto markets, all likely facing lawsuits &lpar;Mitchell Armentrout/Chicago Sun Times&rpar;](https://www.techmeme.com/260616/p43#a260616p43)
- - [Best Handheld Fans and Wearable Fans &lpar;2026&rpar;](https://www.wired.com/gallery/best-handheld-fans/)
- - [Apple Is Reportedly Planning AirPods With Cameras for 2027](https://www.cnet.com/tech/mobile/apple-is-reportedly-planning-airpods-with-cameras-for-2027/)<!-- TECH:END -->
+ - [A profile of Anthropic researcher Nicholas Carlini, who warned about Mythos in March and is now part of an Anthropic team briefing the White House on safeguards &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260617/p11#a260617p11)
+ - [Sources: Samsung is seeing a rise in advanced chip production requests from BYD, Google, AMD, and others as TSMC&#39;s capacity remains constrained by AI demand &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260617/p10#a260617p10)
+ - [India&#39;s Telegram ban until June 22 over exam paper leak concerns is a terrible look for the country, sets a precedent, and could happen again if unchallenged &lpar;Nikhil Pahwa/@nixxin&rpar;](https://www.techmeme.com/260617/p9#a260617p9)
+ - [Sources: a new AI lab founded by Junyang Lin, former lead of Alibaba&#39;s Qwen models, has raised several hundred million dollars at a ~$2B post-money valuation &lpar;The Information&rpar;](https://www.techmeme.com/260617/p8#a260617p8)
+ - [Dealogic: investors have poured $58B across 42 data center deals YTD; Oxford Economics says ~850 data centers worth some $7T are under construction globally &lpar;Financial Times&rpar;](https://www.techmeme.com/260617/p7#a260617p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

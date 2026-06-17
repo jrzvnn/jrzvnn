@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Liberals will have a meltdown about these criminals being deported](http://9gag.com/gag/an76Mez)
+ - 😝 [Pedophile Ryan Abdelrahim gets busted for trying to meet at 12 yr old for the wrong reasons](http://9gag.com/gag/a7oQ3zx)
  - 😝 [Life choices](http://9gag.com/gag/a87Z301)
- - 💣 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
+ - 💣 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)
  - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [Not all heroes wear capes, some wear helmets and ride motorcycles. What a legend](http://9gag.com/gag/aRBn15j)<!-- MEMES:END -->
+ - 👉 [Ahhh f**k...](http://9gag.com/gag/a7oQw1L)<!-- MEMES:END -->
 
 ---
 

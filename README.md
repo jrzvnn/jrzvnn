@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - 😝 [Agree!](http://9gag.com/gag/aZZe360)
- - 💣 [Sad :&lpar;](http://9gag.com/gag/aQzGe32)
+ - 😝 [Liberals will have a meltdown about these criminals being deported](http://9gag.com/gag/an76Mez)
+ - 😝 [Life choices](http://9gag.com/gag/a87Z301)
+ - 💣 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
  - 😝 [Years pass. Friendships remain. The chaos stays exactly the same.](http://9gag.com/gag/a9yo7No)
- - 👉 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)<!-- MEMES:END -->
+ - 👉 [Not all heroes wear capes, some wear helmets and ride motorcycles. What a legend](http://9gag.com/gag/aRBn15j)<!-- MEMES:END -->
 
 ---
 

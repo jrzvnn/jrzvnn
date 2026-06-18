@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel stock jumps around 9% in premarket trading, after Trump said &quot;Apple has agreed to work with Intel to design and build its Chips in America&quot; &lpar;CNBC&rpar;](https://www.techmeme.com/260618/p14#a260618p14)
- - [The Sperm-Maxxing Bros Are Actually Onto Something](https://www.wired.com/story/sperm-maxxing-wellness-bros-mens-health/)
- - [A look at 764, an online group the FBI declared domestic terrorists due to members manipulating teen girls into sharing sexual pictures and cutting themselves &lpar;Margi Murphy/Bloomberg&rpar;](https://www.techmeme.com/260618/p13#a260618p13)
- - [As tech giants rush to build AI infrastructure, some residents living near data centers say a constant infrasonic vibration is ruining their health and homes &lpar;Adeel Hassan/New York Times&rpar;](https://www.techmeme.com/260618/p12#a260618p12)
- - [A PwC study suggests that AI is rewarding companies that use it to enhance human skills, while leaving further behind those that use it merely to cut costs &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260618/p11#a260618p11)<!-- TECH:END -->
+ - [Hive stock jumps 10% in premarket trading after announcing a $220M, three-year GPU cloud contract with Bell Canada and Cohere, as it pivots from bitcoin mining &lpar;James Van Straten/CoinDesk&rpar;](https://www.techmeme.com/260618/p25#a260618p25)
+ - [Samsung The Frame Pro 2026 Review: Pricey But Worth It](https://www.wired.com/review/samsung-the-frame-pro-2026/)
+ - [This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers inside my regular fingers](https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review)
+ - [Trump confirms that Apple will buy chips made by Intel](https://appleinsider.com/articles/26/06/18/trump-confirms-that-apple-will-buy-chips-made-by-intel?utm_source=rss)
+ - [Former Gojek CEO and Indonesian education minister Nadiem Makarim is charged with taking ~$46M in rewards tied to a Chromebook procurement contract for schools &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p24#a260618p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

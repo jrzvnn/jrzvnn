@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is under contract to buy roughly 1.6 GW of computing capacity from Crusoe across two data centers in Texas and Missouri &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p42#a260618p42)
- - [Valve is so behind on Steam Controller orders that some won&amp;#8217;t ship until 2027](https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date)
- - [You can now use the Game Boy Camera with your phone](https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone)
- - [Unsealed docs: Google lost a court fight against a 2023 US warrant in a Jan. 6 pipe bomb probe seeking info of 300+ users who searched for the RNC and DNC HQs &lpar;Zoe Tillman/Bloomberg&rpar;](https://www.techmeme.com/260618/p41#a260618p41)
- - [Using AI Companion Apps Gives Many Singles the Ick, Survey Finds](https://www.cnet.com/tech/services-and-software/ai-dating-survey-companion-apps-advice/)<!-- TECH:END -->
+ - [Intel names former SK Hynix CEO Seok-Hee Lee as EVP of Intel Foundry; Naga Chandrasekaran will lead front-end technology development and front-end manufacturing &lpar;Juby Babu/Reuters&rpar;](https://www.techmeme.com/260618/p45#a260618p45)
+ - [Sources: Kalshi is generating $2B+ in annualized revenue, up about three times from November, and has held informal talks with banks about an eventual IPO &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260618/p44#a260618p44)
+ - [How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members](https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/)
+ - [Google Earth&#39;s Secret Flight Simulator Is Now Free for Everyone on the Web](https://www.cnet.com/tech/gaming/google-earths-secret-flight-simulator-is-now-free-for-everyone-on-the-web/)
+ - [Waymo Issues Another Recall, This Time Over Highway Construction Zones](https://www.cnet.com/roadshow/news/waymo-recall-highway-construction-zones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

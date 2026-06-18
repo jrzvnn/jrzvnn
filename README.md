@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New book: Trump mocked Zuckerberg and Bezos by showing associates their fawning texts, saying they were &quot;kissing my ass&quot;; Musk called it &quot;First-class groveling&quot; &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260618/p37#a260618p37)
- - [A12 &amp; A13 Apple devices face an unpatchable SecureROM vulnerability](https://appleinsider.com/articles/26/06/18/a12-a13-apple-devices-face-an-unpatchable-securerom-vulnerability?utm_source=rss)
- - [This robotic self-driving toilet comes to you](https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet)
- - [Apple&#39;s 1TB M5 MacBook Pro dips to $1,529 with B&amp;H coupon](https://appleinsider.com/articles/26/06/18/apples-1tb-m5-macbook-pro-dips-to-1529-with-bh-coupon?utm_source=rss)
- - [Trump Mocked Mark Zuckerberg and Jeff Bezos by Showing Off Fawning Texts](https://www.wired.com/story/trump-mocked-mark-zuckerberg-and-jeff-bezos-by-showing-off-fawning-texts/)<!-- TECH:END -->
+ - [Sources: Meta is under contract to buy roughly 1.6 GW of computing capacity from Crusoe across two data centers in Texas and Missouri &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p42#a260618p42)
+ - [Valve is so behind on Steam Controller orders that some won&amp;#8217;t ship until 2027](https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date)
+ - [You can now use the Game Boy Camera with your phone](https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone)
+ - [Unsealed docs: Google lost a court fight against a 2023 US warrant in a Jan. 6 pipe bomb probe seeking info of 300+ users who searched for the RNC and DNC HQs &lpar;Zoe Tillman/Bloomberg&rpar;](https://www.techmeme.com/260618/p41#a260618p41)
+ - [Using AI Companion Apps Gives Many Singles the Ick, Survey Finds](https://www.cnet.com/tech/services-and-software/ai-dating-survey-companion-apps-advice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everywhere...](http://9gag.com/gag/a9yoR10)
- - 😝 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
- - 💣 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
- - 😝 [Hannibal wants you to read it](http://9gag.com/gag/a6ZPEoq)
- - 👉 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)<!-- MEMES:END -->
+ - 😝 [Removing shrapnel with a strong magnet, that&#39;s gonna leave a mark](http://9gag.com/gag/a9yoEzZ)
+ - 😝 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
+ - 💣 [This generation is doomed](http://9gag.com/gag/apROG98)
+ - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 👉 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)<!-- MEMES:END -->
 
 ---
 

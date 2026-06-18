@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pedophile Ryan Abdelrahim gets busted for trying to meet at 12 yr old for the wrong reasons](http://9gag.com/gag/a7oQ3zx)
- - 😝 [Where&#39;s the rest of it?](http://9gag.com/gag/agmW5qK)
- - 💣 [Life choices](http://9gag.com/gag/a87Z301)
- - 😝 [It really works](http://9gag.com/gag/a1m9onY)
- - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
+ - 😝 [Terrible News](http://9gag.com/gag/a34mREQ)
+ - 😝 [Circle of AI life](http://9gag.com/gag/a87Z5ZQ)
+ - 💣 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)
+ - 😝 [We are a part of their life but they make us their whole world, cherish them while you still can](http://9gag.com/gag/aYQ9yeO)
+ - 👉 [The owl of infinite luck wasn\u2019t available. So here\u2019s my gift to you degenerates, for the 5000 days here.](http://9gag.com/gag/a7oQwQL)<!-- MEMES:END -->
 
 ---
 

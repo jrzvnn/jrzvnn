@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers](https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/)
- - [Amazon employees say they’re facing termination for backing data center limits](https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action)
- - [Former Trump AI adviser Dean Ball is joining OpenAI to lead a new team called Strategic Futures, focused on frontier AI policy and internal governance &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260618/p34#a260618p34)
- - [Sources: General Intuition, which trains AI agents in spatial reasoning, is in talks to raise $300M from Jeff Bezos and others at a $2B+ valuation &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260618/p33#a260618p33)
- - [No more lightbulbs, much more sports: Five predictions for Roku’s future](https://www.theverge.com/column/951850/fox-roku-predictions)<!-- TECH:END -->
+ - [New book: Trump mocked Zuckerberg and Bezos by showing associates their fawning texts, saying they were &quot;kissing my ass&quot;; Musk called it &quot;First-class groveling&quot; &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260618/p37#a260618p37)
+ - [A12 &amp; A13 Apple devices face an unpatchable SecureROM vulnerability](https://appleinsider.com/articles/26/06/18/a12-a13-apple-devices-face-an-unpatchable-securerom-vulnerability?utm_source=rss)
+ - [This robotic self-driving toilet comes to you](https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet)
+ - [Apple&#39;s 1TB M5 MacBook Pro dips to $1,529 with B&amp;H coupon](https://appleinsider.com/articles/26/06/18/apples-1tb-m5-macbook-pro-dips-to-1529-with-bh-coupon?utm_source=rss)
+ - [Trump Mocked Mark Zuckerberg and Jeff Bezos by Showing Off Fawning Texts](https://www.wired.com/story/trump-mocked-mark-zuckerberg-and-jeff-bezos-by-showing-off-fawning-texts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

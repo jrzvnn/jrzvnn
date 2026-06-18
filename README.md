@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At AWS Summit, AWS announced Continuum, which uses AI to find and fix code vulnerabilities, Context, which organizes company data for AI agents, and more &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260617/p51#a260617p51)
- - [Frontier, a group including Stripe, Google, Salesforce, and newly joined Anthropic, commits $915M to buy carbon-removal credits, on top of $1B already pledged &lpar;Yusuf Khan/Wall Street Journal&rpar;](https://www.techmeme.com/260617/p50#a260617p50)
- - [Apple&#39;s AI agents in Xcode 27 make vibe coding easier](https://appleinsider.com/articles/26/06/17/apples-ai-agents-in-xcode-27-make-vibe-coding-easier?utm_source=rss)
- - [Trump administration officials say Anthropic must ensure Fable 5&#39;s guardrails can&#39;t be circumvented before rerelease; experts say that may not be possible &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260617/p49#a260617p49)
- - [The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/)<!-- TECH:END -->
+ - [Home Depot Promo Codes: 50% Off in June 2026](https://www.wired.com/story/home-depot-promo-code/)
+ - [Ulta Promo Codes: Up to 50% Off in June 2026](https://www.wired.com/story/ulta-coupon/)
+ - [Chewy Promo Codes: $20 Off June 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [NordVPN Coupons: 75% Off, Plus 3 Months Free in June 2026](https://www.wired.com/story/nordvpn-coupon/)
+ - [Peacock Promo Codes: 40% Off June 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

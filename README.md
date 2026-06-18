@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life choices](http://9gag.com/gag/a87Z301)
- - 😝 [Everywhere...](http://9gag.com/gag/a9yoR10)
- - 💣 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)
- - 😝 [Prosthetic legs took a massive step forward](http://9gag.com/gag/a4Pv39m)
- - 👉 [Green](http://9gag.com/gag/aLnx0vP)<!-- MEMES:END -->
+ - 😝 [It wasn\u2019t me!](http://9gag.com/gag/azxnXRq)
+ - 😝 [Where&#39;s the rest of it?](http://9gag.com/gag/agmW5qK)
+ - 💣 [Green](http://9gag.com/gag/aLnx0vP)
+ - 😝 [It really works](http://9gag.com/gag/a1m9onY)
+ - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
 
 ---
 

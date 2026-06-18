@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At AWS Summit, AWS announced Continuum, which uses AI to find and fix code vulnerabilities, Context, which organizes company data for AI agents, and more &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260617/p51#a260617p51)
+ - [Frontier, a group including Stripe, Google, Salesforce, and newly joined Anthropic, commits $915M to buy carbon-removal credits, on top of $1B already pledged &lpar;Yusuf Khan/Wall Street Journal&rpar;](https://www.techmeme.com/260617/p50#a260617p50)
+ - [Apple&#39;s AI agents in Xcode 27 make vibe coding easier](https://appleinsider.com/articles/26/06/17/apples-ai-agents-in-xcode-27-make-vibe-coding-easier?utm_source=rss)
  - [Trump administration officials say Anthropic must ensure Fable 5&#39;s guardrails can&#39;t be circumvented before rerelease; experts say that may not be possible &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260617/p49#a260617p49)
- - [The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/)
- - [The Best Nintendo Switch 2 Games Right Now](https://www.cnet.com/tech/gaming/best-nintendo-switch-2-games-of-2026/)
- - [Apple&#39;s planned move of Hide My Email aliases to private.icloud.com will let services easily distinguish them from normal iCloud email addresses and block them &lpar;Arseniy Shestakov&rpar;](https://www.techmeme.com/260617/p48#a260617p48)
- - [AI-driven chip shortages to cause Apple product price increase, says Cook](https://appleinsider.com/articles/26/06/17/ai-driven-ship-shortages-to-cause-apple-product-price-increase-says-cook?utm_source=rss)<!-- TECH:END -->
+ - [The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

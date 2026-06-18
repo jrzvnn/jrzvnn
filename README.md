@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terrible News](http://9gag.com/gag/a34mREQ)
- - 😝 [Circle of AI life](http://9gag.com/gag/a87Z5ZQ)
- - 💣 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)
- - 😝 [We are a part of their life but they make us their whole world, cherish them while you still can](http://9gag.com/gag/aYQ9yeO)
- - 👉 [The owl of infinite luck wasn\u2019t available. So here\u2019s my gift to you degenerates, for the 5000 days here.](http://9gag.com/gag/a7oQwQL)<!-- MEMES:END -->
+ - 😝 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)
+ - 😝 [The Moscow refinery in Kapotny today... `We pushed our luck...`](http://9gag.com/gag/aE03PWp)
+ - 💣 [We are a part of their life but they make us their whole world, cherish them while you still can](http://9gag.com/gag/aYQ9yeO)
+ - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 👉 [A trick for parents](http://9gag.com/gag/an7657L)<!-- MEMES:END -->
 
 ---
 

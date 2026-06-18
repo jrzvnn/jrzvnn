@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)
- - 😝 [The Moscow refinery in Kapotny today... `We pushed our luck...`](http://9gag.com/gag/aE03PWp)
- - 💣 [We are a part of their life but they make us their whole world, cherish them while you still can](http://9gag.com/gag/aYQ9yeO)
  - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 👉 [A trick for parents](http://9gag.com/gag/an7657L)<!-- MEMES:END -->
+ - 😝 [Everywhere...](http://9gag.com/gag/a9yoR10)
+ - 💣 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
+ - 😝 [4D Chess!](http://9gag.com/gag/a5Q4Epo)
+ - 👉 [Life choices](http://9gag.com/gag/a87Z301)<!-- MEMES:END -->
 
 ---
 

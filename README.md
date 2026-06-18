@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It wasn\u2019t me!](http://9gag.com/gag/azxnXRq)
+ - 😝 [Pedophile Ryan Abdelrahim gets busted for trying to meet at 12 yr old for the wrong reasons](http://9gag.com/gag/a7oQ3zx)
  - 😝 [Where&#39;s the rest of it?](http://9gag.com/gag/agmW5qK)
- - 💣 [Green](http://9gag.com/gag/aLnx0vP)
+ - 💣 [Life choices](http://9gag.com/gag/a87Z301)
  - 😝 [It really works](http://9gag.com/gag/a1m9onY)
  - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
 

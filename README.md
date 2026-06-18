@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Home Depot Promo Codes: 50% Off in June 2026](https://www.wired.com/story/home-depot-promo-code/)
- - [Ulta Promo Codes: Up to 50% Off in June 2026](https://www.wired.com/story/ulta-coupon/)
- - [Chewy Promo Codes: $20 Off June 2026](https://www.wired.com/story/chewy-promo-code/)
- - [NordVPN Coupons: 75% Off, Plus 3 Months Free in June 2026](https://www.wired.com/story/nordvpn-coupon/)
- - [Peacock Promo Codes: 40% Off June 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [Intel stock jumps around 9% in premarket trading, after Trump said &quot;Apple has agreed to work with Intel to design and build its Chips in America&quot; &lpar;CNBC&rpar;](https://www.techmeme.com/260618/p14#a260618p14)
+ - [The Sperm-Maxxing Bros Are Actually Onto Something](https://www.wired.com/story/sperm-maxxing-wellness-bros-mens-health/)
+ - [A look at 764, an online group the FBI declared domestic terrorists due to members manipulating teen girls into sharing sexual pictures and cutting themselves &lpar;Margi Murphy/Bloomberg&rpar;](https://www.techmeme.com/260618/p13#a260618p13)
+ - [As tech giants rush to build AI infrastructure, some residents living near data centers say a constant infrasonic vibration is ruining their health and homes &lpar;Adeel Hassan/New York Times&rpar;](https://www.techmeme.com/260618/p12#a260618p12)
+ - [A PwC study suggests that AI is rewarding companies that use it to enhance human skills, while leaving further behind those that use it merely to cut costs &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260618/p11#a260618p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

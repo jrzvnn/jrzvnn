@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hive stock jumps 10% in premarket trading after announcing a $220M, three-year GPU cloud contract with Bell Canada and Cohere, as it pivots from bitcoin mining &lpar;James Van Straten/CoinDesk&rpar;](https://www.techmeme.com/260618/p25#a260618p25)
- - [Samsung The Frame Pro 2026 Review: Pricey But Worth It](https://www.wired.com/review/samsung-the-frame-pro-2026/)
- - [This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers inside my regular fingers](https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review)
- - [Trump confirms that Apple will buy chips made by Intel](https://appleinsider.com/articles/26/06/18/trump-confirms-that-apple-will-buy-chips-made-by-intel?utm_source=rss)
- - [Former Gojek CEO and Indonesian education minister Nadiem Makarim is charged with taking ~$46M in rewards tied to a Chromebook procurement contract for schools &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p24#a260618p24)<!-- TECH:END -->
+ - [3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers](https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/)
+ - [Amazon employees say they’re facing termination for backing data center limits](https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action)
+ - [Former Trump AI adviser Dean Ball is joining OpenAI to lead a new team called Strategic Futures, focused on frontier AI policy and internal governance &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260618/p34#a260618p34)
+ - [Sources: General Intuition, which trains AI agents in spatial reasoning, is in talks to raise $300M from Jeff Bezos and others at a $2B+ valuation &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260618/p33#a260618p33)
+ - [No more lightbulbs, much more sports: Five predictions for Roku’s future](https://www.theverge.com/column/951850/fox-roku-predictions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

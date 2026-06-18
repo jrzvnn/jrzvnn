@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 😝 [Everywhere...](http://9gag.com/gag/a9yoR10)
- - 💣 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
- - 😝 [4D Chess!](http://9gag.com/gag/a5Q4Epo)
- - 👉 [Life choices](http://9gag.com/gag/a87Z301)<!-- MEMES:END -->
+ - 😝 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
+ - 💣 [Green](http://9gag.com/gag/aLnx0vP)
+ - 😝 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
+ - 👉 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)<!-- MEMES:END -->
 
 ---
 

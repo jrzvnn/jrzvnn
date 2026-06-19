@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail how Google is using Nvidia&#39;s playbook to build an AI chip business, including providing $3.2B to fund a NY data center renting TPUs to Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260619/p4#a260619p4)
- - [Barret Zoph leaves OpenAI again five months after rejoining in January; Zoph initially left OpenAI in 2024 to serve as Thinking Machines Lab co-founder and CTO &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260619/p3#a260619p3)
- - [Rover Promo Codes and Referral Deals for June 2026](https://www.wired.com/story/rover-promo-code/)
- - [Sam&#39;s Club Promo Codes and Membership Deals for June 2026](https://www.wired.com/story/sams-club-coupon/)
- - [Meta Quest Promo Codes and Coupons for June 2026](https://www.wired.com/story/meta-quest-promo-code/)<!-- TECH:END -->
+ - [The Best Art TVs](https://www.wired.com/story/best-art-tvs/)
+ - [Gen Z Singles Are Trying to Make ‘Solomaxxing’ Aspirational](https://www.wired.com/story/solomaxxing/)
+ - [Try One of macOS 27’s Best Features Right Now](https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/)
+ - [Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting](https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/)
+ - [Turkey approves Uber&#39;s $335M deal to buy Getir&#39;s delivery business, tied to a $500M investment pledge in Turkey; Uber is also paying $100M for a 15% Getir stake &lpar;Ana-Maria Stanciuc/The Next Web&rpar;](https://www.techmeme.com/260619/p8#a260619p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

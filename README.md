@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doc: SpaceX says the EU&#39;s plan to reserve satellite spectrum for European operators risks disrupting connectivity, including for emergency services in Ukraine &lpar;Financial Times&rpar;](https://www.techmeme.com/260618/p48#a260618p48)
- - [A US circuit court overturned an injunction against Ohio, allowing the state to implement a law forcing platforms to seek parental consent if a user is under-16 &lpar;Nate Raymond/Reuters&rpar;](https://www.techmeme.com/260618/p47#a260618p47)
- - [Top 20 most streamed artists on Apple Music revealed](https://appleinsider.com/articles/26/06/19/top-20-most-streamed-artists-on-apple-music-revealed?utm_source=rss)
- - [A profile of Meta President Dina Powell McCormick, who has become one of Silicon Valley&#39;s top power brokers as she helps oversee Meta&#39;s AI infrastructure push &lpar;Financial Times&rpar;](https://www.techmeme.com/260618/p46#a260618p46)
- - [Older Macs and iPhones Could Lose Major Office 365 Features in a Few Weeks](https://www.cnet.com/tech/services-and-software/microsoft-office-2019-mac-wont-get-update-files-read-only/)<!-- TECH:END -->
+ - [Sources detail how Google is using Nvidia&#39;s playbook to build an AI chip business, including providing $3.2B to fund a NY data center renting TPUs to Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260619/p4#a260619p4)
+ - [Barret Zoph leaves OpenAI again five months after rejoining in January; Zoph initially left OpenAI in 2024 to serve as Thinking Machines Lab co-founder and CTO &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260619/p3#a260619p3)
+ - [Rover Promo Codes and Referral Deals for June 2026](https://www.wired.com/story/rover-promo-code/)
+ - [Sam&#39;s Club Promo Codes and Membership Deals for June 2026](https://www.wired.com/story/sams-club-coupon/)
+ - [Meta Quest Promo Codes and Coupons for June 2026](https://www.wired.com/story/meta-quest-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
- - 😝 [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)
- - 💣 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 😝 [I want this so bad!](http://9gag.com/gag/aXPBrwb)
- - 👉 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)<!-- MEMES:END -->
+ - 😝 [She won as a mother](http://9gag.com/gag/amo35D9)
+ - 😝 [This generation is doomed](http://9gag.com/gag/apROG98)
+ - 💣 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
+ - 😝 [Parents are the best](http://9gag.com/gag/aW4zjXq)
+ - 👉 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)<!-- MEMES:END -->
 
 ---
 

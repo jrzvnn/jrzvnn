@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is rare.](http://9gag.com/gag/amo3vov)
+ - 😝 [Green](http://9gag.com/gag/aLnx0vP)
+ - 😝 [This generation is doomed](http://9gag.com/gag/apROG98)
+ - 💣 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
  - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 💣 [Pupper makes sure that his older sister gets pets at a dog daycare everyday](http://9gag.com/gag/aYQ9ojw)
- - 😝 [Huehee](http://9gag.com/gag/aByp2g1)
- - 👉 [Removing shrapnel with a strong magnet, that&#39;s gonna leave a mark](http://9gag.com/gag/a9yoEzZ)<!-- MEMES:END -->
+ - 👉 [Everywhere...](http://9gag.com/gag/a9yoR10)<!-- MEMES:END -->
 
 ---
 

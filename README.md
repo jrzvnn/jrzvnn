@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bobby Prince, the composer of many legendary game musics including Doom, Doom II and Duke Nukem 3D passed away on June 16, 2026. May he rest in peace, and thank you for all the fun!](http://9gag.com/gag/aAyjGeg)
- - 😝 [. . .](http://9gag.com/gag/ae9LAqQ)
- - 💣 [I used to have my breakfast on the rocks too, but I quit drinking](http://9gag.com/gag/aNDNpPK)
- - 😝 [Boys will be boys](http://9gag.com/gag/amo3PqV)
- - 👉 [It\u00b4s little undercooked yet](http://9gag.com/gag/aQzGoLd)<!-- MEMES:END -->
+ - 😝 [Poor guys](http://9gag.com/gag/agmWgGq)
+ - 😝 [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)
+ - 💣 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
+ - 😝 [What TV show or movie represents this picture...](http://9gag.com/gag/aRBnXQB)
+ - 👉 [This is an insane amount of info for a short... Anyway do what you do and comment deck jokes...](http://9gag.com/gag/aQzGX28)<!-- MEMES:END -->
 
 ---
 

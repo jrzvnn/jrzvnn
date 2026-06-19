@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)
- - 😝 [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)
- - 💣 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 😝 [Boss said not on my watch](http://9gag.com/gag/adBE8Z9)
- - 👉 [This is an insane amount of info for a short... Anyway do what you do and comment deck jokes...](http://9gag.com/gag/aQzGX28)<!-- MEMES:END -->
+ - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 😝 [What TV show or movie represents this picture...](http://9gag.com/gag/aRBnXQB)
+ - 💣 [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)
+ - 😝 [Bro has fallen, press F to pay respects](http://9gag.com/gag/aAyjbQo)
+ - 👉 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOJ says two brothers pleaded guilty to robbing a Minnesota family of $8M+ in cryptocurrency after holding them at gunpoint for over eight hours in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](https://www.techmeme.com/260619/p23#a260619p23)
+ - [Nothing cancels this year&amp;#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices)
  - [Sources: Abu Dhabi&#39;s MGX is exploring buying Singapore-based data center operator DayOne; last month, sources said DayOne planned a US IPO at a $20B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p22#a260619p22)
  - [Docs: OpenAI burned through $3.7B in Q1, on revenue of $5.7B, and ended the quarter with $73B+ in cash and marketable securities vs. $40B at the end of December &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260619/p21#a260619p21)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 20, #1105](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-20-1105/)
- - [Today&#39;s Wordle Hints, Answer and Help for June 20, #1827](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-20-1827/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 20 #839](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-20-839/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 20, #1105](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-20-1105/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

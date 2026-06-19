@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)
  - 😝 [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)
- - 💣 [This is rare.](http://9gag.com/gag/amo3vov)
- - 😝 [What TV show or movie represents this picture...](http://9gag.com/gag/aRBnXQB)
+ - 💣 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 😝 [Boss said not on my watch](http://9gag.com/gag/adBE8Z9)
  - 👉 [This is an insane amount of info for a short... Anyway do what you do and comment deck jokes...](http://9gag.com/gag/aQzGX28)<!-- MEMES:END -->
 
 ---

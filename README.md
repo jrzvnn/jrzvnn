@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Removing shrapnel with a strong magnet, that&#39;s gonna leave a mark](http://9gag.com/gag/a9yoEzZ)
- - 😝 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
- - 💣 [This generation is doomed](http://9gag.com/gag/apROG98)
+ - 😝 [This is rare.](http://9gag.com/gag/amo3vov)
  - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 👉 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)<!-- MEMES:END -->
+ - 💣 [Pupper makes sure that his older sister gets pets at a dog daycare everyday](http://9gag.com/gag/aYQ9ojw)
+ - 😝 [Huehee](http://9gag.com/gag/aByp2g1)
+ - 👉 [Removing shrapnel with a strong magnet, that&#39;s gonna leave a mark](http://9gag.com/gag/a9yoEzZ)<!-- MEMES:END -->
 
 ---
 

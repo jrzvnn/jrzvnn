@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura Ring 5 review: impressive thinness, live activity tracking, and conversational AI, but not very durable, LEDs are distracting, and the app is confusing &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260619/p17#a260619p17)
- - [New Aspekt Touch &amp; Folio displays bring touch-first computing to Macs](https://appleinsider.com/articles/26/06/19/new-aspekt-touch-folio-displays-bring-touch-first-computing-to-macs?utm_source=rss)
- - [Sony Will Pay Out $7.85M in PlayStation Store Credit. How to Claim Part of the Settlement](https://www.cnet.com/tech/gaming/sony-playstation-store-settlement-what-to-know/)
- - [What Siri AI, Apple TV, &amp; more are like with CarPlay in iOS 27](https://appleinsider.com/articles/26/06/19/what-siri-ai-apple-tv-more-are-like-with-carplay-in-ios-27?utm_source=rss)
- - [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb)<!-- TECH:END -->
+ - [The departure of John Jumper, a key member of Google&#39;s AI coding development team, further strains Google&#39;s efforts to compete with Anthropic and OpenAI &lpar;Bloomberg&rpar;](https://www.techmeme.com/260619/p20#a260619p20)
+ - [South Korean media: Hyundai plans to buy SoftBank&#39;s remaining 9.65% stake in Boston Dynamics for $325M to make the US robotics company a wholly owned subsidiary &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p19#a260619p19)
+ - [NASA selects Eric Schmidt&amp;#8217;s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars)
+ - [Trump says he saw Anthropic last week as a national security threat, but signals relations have since improved because Dario Amodei was &quot;nice&quot; and &quot;smart&quot; at G7 &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260619/p18#a260619p18)
+ - [Oura Ring 5 review: impressive thinness, live activity tracking, and conversational AI, but not very durable, LEDs are distracting, and the app is confusing &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260619/p17#a260619p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

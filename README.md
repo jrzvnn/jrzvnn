@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Art TVs](https://www.wired.com/story/best-art-tvs/)
- - [Gen Z Singles Are Trying to Make ‘Solomaxxing’ Aspirational](https://www.wired.com/story/solomaxxing/)
- - [Try One of macOS 27’s Best Features Right Now](https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/)
- - [Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting](https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/)
- - [Turkey approves Uber&#39;s $335M deal to buy Getir&#39;s delivery business, tied to a $500M investment pledge in Turkey; Uber is also paying $100M for a 15% Getir stake &lpar;Ana-Maria Stanciuc/The Next Web&rpar;](https://www.techmeme.com/260619/p8#a260619p8)<!-- TECH:END -->
+ - [The film about Sam Altman has been dropped by Amazon MGM](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped)
+ - [Siri AI, Snap Spectacles, and iPhone rumors on the AppleInsider Podcast](https://appleinsider.com/articles/26/06/19/siri-ai-snap-spectacles-and-iphone-rumors-on-the-appleinsider-podcast?utm_source=rss)
+ - [Our long national sunscreen nightmare is almost over](https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health)
+ - [Amazon MGM Studios drops Luca Guadagnino&#39;s mostly finished movie on Sam Altman; Amazon struck a major deal with OpenAI in February, including a $50B investment &lpar;Variety&rpar;](https://www.techmeme.com/260619/p13#a260619p13)
+ - [Get Ready for The Summer Solstice, The Longest Day of the Year](https://www.cnet.com/culture/summer-solstice-everything-to-know-about-the-longest-day-of-the-year/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

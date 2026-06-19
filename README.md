@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Green](http://9gag.com/gag/aLnx0vP)
- - 😝 [This generation is doomed](http://9gag.com/gag/apROG98)
- - 💣 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
- - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 👉 [Everywhere...](http://9gag.com/gag/a9yoR10)<!-- MEMES:END -->
+ - 😝 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
+ - 😝 [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)
+ - 💣 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 😝 [I want this so bad!](http://9gag.com/gag/aXPBrwb)
+ - 👉 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)<!-- MEMES:END -->
 
 ---
 

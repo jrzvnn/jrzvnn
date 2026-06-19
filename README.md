@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The film about Sam Altman has been dropped by Amazon MGM](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped)
- - [Siri AI, Snap Spectacles, and iPhone rumors on the AppleInsider Podcast](https://appleinsider.com/articles/26/06/19/siri-ai-snap-spectacles-and-iphone-rumors-on-the-appleinsider-podcast?utm_source=rss)
- - [Our long national sunscreen nightmare is almost over](https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health)
- - [Amazon MGM Studios drops Luca Guadagnino&#39;s mostly finished movie on Sam Altman; Amazon struck a major deal with OpenAI in February, including a $50B investment &lpar;Variety&rpar;](https://www.techmeme.com/260619/p13#a260619p13)
- - [Get Ready for The Summer Solstice, The Longest Day of the Year](https://www.cnet.com/culture/summer-solstice-everything-to-know-about-the-longest-day-of-the-year/)<!-- TECH:END -->
+ - [ASML says claims that one of its EUV lithography systems has ended up in China are inaccurate, after a report on Howard Lutnick&#39;s questions to ASML&#39;s leadership &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260619/p15#a260619p15)
+ - [Amazon&#39;s AirPods 4 sale slashes price to $99, with delivery by Father&#39;s Day](https://appleinsider.com/articles/26/06/19/amazons-airpods-4-sale-slashes-price-to-99-with-delivery-by-fathers-day?utm_source=rss)
+ - [Siri AI leaves older Apple Watches behind without a clear reason](https://appleinsider.com/articles/26/06/19/siri-ai-leaves-older-apple-watches-behind-without-a-clear-reason?utm_source=rss)
+ - [Norway imposes a near ban on gen AI use by elementary school children and restricts its use in older kids&#39; education, to prevent a negative impact on learning &lpar;Terje Solsvik/Reuters&rpar;](https://www.techmeme.com/260619/p14#a260619p14)
+ - [The NTS Radio Player brings the best of internet radio to your hi-fi](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

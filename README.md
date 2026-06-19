@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The departure of John Jumper, a key member of Google&#39;s AI coding development team, further strains Google&#39;s efforts to compete with Anthropic and OpenAI &lpar;Bloomberg&rpar;](https://www.techmeme.com/260619/p20#a260619p20)
- - [South Korean media: Hyundai plans to buy SoftBank&#39;s remaining 9.65% stake in Boston Dynamics for $325M to make the US robotics company a wholly owned subsidiary &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p19#a260619p19)
- - [NASA selects Eric Schmidt&amp;#8217;s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars)
- - [Trump says he saw Anthropic last week as a national security threat, but signals relations have since improved because Dario Amodei was &quot;nice&quot; and &quot;smart&quot; at G7 &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260619/p18#a260619p18)
- - [Oura Ring 5 review: impressive thinness, live activity tracking, and conversational AI, but not very durable, LEDs are distracting, and the app is confusing &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260619/p17#a260619p17)<!-- TECH:END -->
+ - [Sources: Abu Dhabi&#39;s MGX is exploring buying Singapore-based data center operator DayOne; last month, sources said DayOne planned a US IPO at a $20B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p22#a260619p22)
+ - [Docs: OpenAI burned through $3.7B in Q1, on revenue of $5.7B, and ended the quarter with $73B+ in cash and marketable securities vs. $40B at the end of December &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260619/p21#a260619p21)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 20, #1105](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-20-1105/)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 20, #1827](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-20-1827/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 20 #839](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-20-839/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

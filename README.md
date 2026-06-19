@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She won as a mother](http://9gag.com/gag/amo35D9)
- - 😝 [This generation is doomed](http://9gag.com/gag/apROG98)
- - 💣 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
- - 😝 [Parents are the best](http://9gag.com/gag/aW4zjXq)
- - 👉 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)<!-- MEMES:END -->
+ - 😝 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
+ - 😝 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
+ - 💣 [This is rare.](http://9gag.com/gag/amo3vov)
+ - 😝 [Bober](http://9gag.com/gag/aPA5ZDn)
+ - 👉 [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML says claims that one of its EUV lithography systems has ended up in China are inaccurate, after a report on Howard Lutnick&#39;s questions to ASML&#39;s leadership &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260619/p15#a260619p15)
- - [Amazon&#39;s AirPods 4 sale slashes price to $99, with delivery by Father&#39;s Day](https://appleinsider.com/articles/26/06/19/amazons-airpods-4-sale-slashes-price-to-99-with-delivery-by-fathers-day?utm_source=rss)
- - [Siri AI leaves older Apple Watches behind without a clear reason](https://appleinsider.com/articles/26/06/19/siri-ai-leaves-older-apple-watches-behind-without-a-clear-reason?utm_source=rss)
- - [Norway imposes a near ban on gen AI use by elementary school children and restricts its use in older kids&#39; education, to prevent a negative impact on learning &lpar;Terje Solsvik/Reuters&rpar;](https://www.techmeme.com/260619/p14#a260619p14)
- - [The NTS Radio Player brings the best of internet radio to your hi-fi](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming)<!-- TECH:END -->
+ - [Oura Ring 5 review: impressive thinness, live activity tracking, and conversational AI, but not very durable, LEDs are distracting, and the app is confusing &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260619/p17#a260619p17)
+ - [New Aspekt Touch &amp; Folio displays bring touch-first computing to Macs](https://appleinsider.com/articles/26/06/19/new-aspekt-touch-folio-displays-bring-touch-first-computing-to-macs?utm_source=rss)
+ - [Sony Will Pay Out $7.85M in PlayStation Store Credit. How to Claim Part of the Settlement](https://www.cnet.com/tech/gaming/sony-playstation-store-settlement-what-to-know/)
+ - [What Siri AI, Apple TV, &amp; more are like with CarPlay in iOS 27](https://appleinsider.com/articles/26/06/19/what-siri-ai-apple-tv-more-are-like-with-carplay-in-ios-27?utm_source=rss)
+ - [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

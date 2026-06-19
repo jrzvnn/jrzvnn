@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor guys](http://9gag.com/gag/agmWgGq)
  - 😝 [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)
- - 💣 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
+ - 😝 [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)
+ - 💣 [This is rare.](http://9gag.com/gag/amo3vov)
  - 😝 [What TV show or movie represents this picture...](http://9gag.com/gag/aRBnXQB)
  - 👉 [This is an insane amount of info for a short... Anyway do what you do and comment deck jokes...](http://9gag.com/gag/aQzGX28)<!-- MEMES:END -->
 

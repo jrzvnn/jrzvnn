@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)
+ - [How success of AI-related companies in South Korea, Taiwan, and Japan is driving stock gains, bigger bonuses, and a retail investing frenzy in Asian markets &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260620/p10#a260620p10)
  - [Granta says it will stop publishing short story contest winners or join publishing partnerships it doesn&#39;t control after AI use allegations against a winner &lpar;Ella Creamer/The Guardian&rpar;](https://www.techmeme.com/260620/p9#a260620p9)
  - [Let’s Hear It for This Prime Day Deal Slashing $76 Off Nothing’s Earbuds](https://www.cnet.com/deals/nothing-earbuds-deal-2026-06-20/)
- - [Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives](https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview)
- - [AirPods Can Measure Your Heart Rate, but Are They Accurate?](https://www.cnet.com/tech/mobile/airpods-vs-apple-watch-heart-rate-accuracy/)
- - [You Might Be Eligible for a Payment From Google&#39;s $135M Data Settlement. How to File a Claim](https://www.cnet.com/tech/mobile/google-data-harvesting-settlement-what-to-know-how-to-claim-135-million/)<!-- TECH:END -->
+ - [Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives](https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

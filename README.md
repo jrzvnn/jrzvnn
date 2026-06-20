@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pole Position](http://9gag.com/gag/ayNG9qY)
- - 😝 [Daughter only wants to be heard](http://9gag.com/gag/aW4zj5q)
- - 💣 [Poor guys](http://9gag.com/gag/agmWgGq)
- - 😝 [Unit Magic.](http://9gag.com/gag/aO8wxAD)
- - 👉 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)<!-- MEMES:END -->
+ - 😝 [Boss said not on my watch](http://9gag.com/gag/adBE8Z9)
+ - 😝 [Old NZ hilux ad](http://9gag.com/gag/aMVgEEx)
+ - 💣 [Who&#39;s gonna know](http://9gag.com/gag/aryYnYp)
+ - 😝 [So deep...](http://9gag.com/gag/a87Z1rO)
+ - 👉 [When a helicopter pilot plays video games](http://9gag.com/gag/aRBnEoG)<!-- MEMES:END -->
 
 ---
 

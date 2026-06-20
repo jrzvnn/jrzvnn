@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor guys](http://9gag.com/gag/agmWgGq)
- - 😝 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)
- - 💣 [Removing shrapnel with a strong magnet, that&#39;s gonna leave a mark](http://9gag.com/gag/a9yoEzZ)
- - 😝 [Boss said not on my watch](http://9gag.com/gag/adBE8Z9)
- - 👉 [Old NZ hilux ad](http://9gag.com/gag/aMVgEEx)<!-- MEMES:END -->
+ - 😝 [Bobby Prince, the composer of many legendary game musics including Doom, Doom II and Duke Nukem 3D passed away on June 16, 2026. May he rest in peace, and thank you for all the fun!](http://9gag.com/gag/aAyjGeg)
+ - 😝 [That was smooth.](http://9gag.com/gag/ayNG9R8)
+ - 💣 [If wrestling is fake then explain this](http://9gag.com/gag/ajPpgmQ)
+ - 😝 [Parents are the best](http://9gag.com/gag/aW4zjXq)
+ - 👉 [Who&#39;s gonna know](http://9gag.com/gag/aryYnYp)<!-- MEMES:END -->
 
 ---
 

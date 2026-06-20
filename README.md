@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toy Story has the right take on tech](https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer)
+ - [Best Weekend Ever? Playing Pokemon Go With 717,000 Fans of the Game](https://www.cnet.com/tech/gaming/chicago-pokemon-go-fest-2026-weekend-adventure/)
  - [Home Batteries: How They&#39;re Installed and How Much They Cost](https://www.wired.com/story/how-to-buy-a-home-battery/)
  - [I Found 29 Early Prime Day Deals That Are Worth Shopping Now &lpar;2026&rpar;](https://www.wired.com/story/early-prime-day-deals-june-2026-2/)
- - [16 Best Greens Powders &lpar;2026&rpar;: Taste-Tested for Months](https://www.wired.com/gallery/best-greens-powders/)
- - [A look at Russia&#39;s push to develop homegrown AI talent, as the country is hampered by scarce access to AI hardware and a brain drain of top technical talent &lpar;Nikita Ostrovsky/Time&rpar;](https://www.techmeme.com/260620/p6#a260620p6)
- - [Don&#39;t Buy an Expensive DLP Projector. This Cheaper, Portable Model Is Just as Good](https://www.cnet.com/tech/home-entertainment/hisense-m2-pro-projector-review-big-eye-little-projector-hisense/)<!-- TECH:END -->
+ - [16 Best Greens Powders &lpar;2026&rpar;: Taste-Tested for Months](https://www.wired.com/gallery/best-greens-powders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

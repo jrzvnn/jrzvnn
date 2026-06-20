@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude Guillemot, co-founder of Ubisoft and chairman of gaming hardware company Guillemot Corporation, died at 69 after a plane crash in France &lpar;Angela Cullen/Bloomberg&rpar;](https://www.techmeme.com/260620/p8#a260620p8)
- - [Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG](https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir)
- - [An interview with Smartbird CEO Nadia Carlsten about the shoe company Allbirds becoming an AI infrastructure company, plans to deploy compute clusters, and more &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260620/p7#a260620p7)
- - [How I Nailed These Tricky Macro Shots for a Major CNET Feature Story](https://www.cnet.com/tech/computing/i-nailed-these-tricky-macro-shots-for-a-major-feature-story/)
- - [These AI Scams All Have Red Flags. Here&#39;s How to Spot Them](https://www.cnet.com/tech/services-and-software/ai-scams-have-red-flags-how-to-spot-them/)<!-- TECH:END -->
+ - [Granta says it will stop publishing short story contest winners or join publishing partnerships it doesn&#39;t control after AI use allegations against a winner &lpar;Ella Creamer/The Guardian&rpar;](https://www.techmeme.com/260620/p9#a260620p9)
+ - [Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives](https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview)
+ - [AirPods Can Measure Your Heart Rate, but Are They Accurate?](https://www.cnet.com/tech/mobile/airpods-vs-apple-watch-heart-rate-accuracy/)
+ - [You Might Be Eligible for a Payment From Google&#39;s $135M Data Settlement. How to File a Claim](https://www.cnet.com/tech/mobile/google-data-harvesting-settlement-what-to-know-how-to-claim-135-million/)
+ - [Claude Guillemot, co-founder of Ubisoft and chairman of gaming hardware company Guillemot Corporation, died at 69 after a plane crash in France &lpar;Angela Cullen/Bloomberg&rpar;](https://www.techmeme.com/260620/p8#a260620p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

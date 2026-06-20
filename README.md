@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bobby Prince, the composer of many legendary game musics including Doom, Doom II and Duke Nukem 3D passed away on June 16, 2026. May he rest in peace, and thank you for all the fun!](http://9gag.com/gag/aAyjGeg)
- - 😝 [That was smooth.](http://9gag.com/gag/ayNG9R8)
- - 💣 [If wrestling is fake then explain this](http://9gag.com/gag/ajPpgmQ)
- - 😝 [Parents are the best](http://9gag.com/gag/aW4zjXq)
- - 👉 [Who&#39;s gonna know](http://9gag.com/gag/aryYnYp)<!-- MEMES:END -->
+ - 😝 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
+ - 😝 [Removing shrapnel with a strong magnet, that&#39;s gonna leave a mark](http://9gag.com/gag/a9yoEzZ)
+ - 💣 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)
+ - 😝 [Seriously WTF happened to the Bermuda Triangle? Nobody talks about it anymore Did they solve the problem? Was it Aliens? Was it Atlantis? I need answers Damn it](http://9gag.com/gag/an76gDo)
+ - 👉 [A fresh shitpost for you. Straight from my garden.](http://9gag.com/gag/axy5oOb)<!-- MEMES:END -->
 
 ---
 

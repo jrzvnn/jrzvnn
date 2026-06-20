@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 😝 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
+ - 😝 [Poor guys](http://9gag.com/gag/agmWgGq)
+ - 💣 [Dude really into swords](http://9gag.com/gag/aByp2w2)
  - 😝 [What TV show or movie represents this picture...](http://9gag.com/gag/aRBnXQB)
- - 💣 [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)
- - 😝 [Bro has fallen, press F to pay respects](http://9gag.com/gag/aAyjbQo)
- - 👉 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)<!-- MEMES:END -->
+ - 👉 [This is an insane amount of info for a short... Anyway do what you do and comment deck jokes...](http://9gag.com/gag/aQzGX28)<!-- MEMES:END -->
 
 ---
 

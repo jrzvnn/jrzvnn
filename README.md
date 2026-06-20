@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required](https://www.wired.com/story/scientists-brew-espresso-with-ultrasonic-waves/)
- - [A Coffee Expert Explains Why Burr Grinders Are the Only Grinders Worth Buying](https://www.cnet.com/home/kitchen-and-household/a-coffee-expert-explains-why-a-burr-grinder-is-the-only-grinder-worth-buying/)
- - [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review)
- - [Q&amp;A with Signal&#39;s Meredith Whittaker on why online child safety efforts risk mass surveillance, leaving the markets that demand weakening of encryption, more &lpar;Mishal Husain/Bloomberg&rpar;](https://www.techmeme.com/260620/p5#a260620p5)
- - [Sources: the UK government is expected to consult as early as this month on rules to make public service news more prominent on social media and video platforms &lpar;Financial Times&rpar;](https://www.techmeme.com/260620/p4#a260620p4)<!-- TECH:END -->
+ - [Home Batteries: How They&#39;re Installed and How Much They Cost](https://www.wired.com/story/how-to-buy-a-home-battery/)
+ - [I Found 29 Early Prime Day Deals That Are Worth Shopping Now &lpar;2026&rpar;](https://www.wired.com/story/early-prime-day-deals-june-2026-2/)
+ - [16 Best Greens Powders &lpar;2026&rpar;: Taste-Tested for Months](https://www.wired.com/gallery/best-greens-powders/)
+ - [A look at Russia&#39;s push to develop homegrown AI talent, as the country is hampered by scarce access to AI hardware and a brain drain of top technical talent &lpar;Nikita Ostrovsky/Time&rpar;](https://www.techmeme.com/260620/p6#a260620p6)
+ - [Don&#39;t Buy an Expensive DLP Projector. This Cheaper, Portable Model Is Just as Good](https://www.cnet.com/tech/home-entertainment/hisense-m2-pro-projector-review-big-eye-little-projector-hisense/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Roblox CEO Dave Baszucki on his early decision not to prioritize ad revenue, whether every mega platform becomes an everything app, and more &lpar;Tyler Cowen/Conversations with Tyler&rpar;](https://www.techmeme.com/260619/p25#a260619p25)
- - [Nothing won&#39;t launch a new phone this year in its budget-focused CMF Phone series due to RAM prices &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260619/p24#a260619p24)
- - [DOJ says two brothers pleaded guilty to robbing a Minnesota family of $8M+ in cryptocurrency after holding them at gunpoint for over eight hours in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](https://www.techmeme.com/260619/p23#a260619p23)
- - [Nothing cancels this year&amp;#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices)
- - [Sources: Abu Dhabi&#39;s MGX is exploring buying Singapore-based data center operator DayOne; last month, sources said DayOne planned a US IPO at a $20B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p22#a260619p22)<!-- TECH:END -->
+ - [Sources: the UK government is expected to consult as early as this month on rules to make public service news more prominent on social media and video platforms &lpar;Financial Times&rpar;](https://www.techmeme.com/260620/p4#a260620p4)
+ - [Sources: PC makers, including HP, are in talks with their supply-chain partners about using CXMT&#39;s memory chips in products bound for Asia as DRAM prices soar &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260620/p3#a260620p3)
+ - [Paris-based Kyber, which develops a low-latency remote device control SDK and is founded by VLC lead developer Jean-Baptiste Kempf, raised $5M led by Lightspeed &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260620/p2#a260620p2)
+ - [Sources: Bain Capital stands to make $15B+ in profits on its 2018 Kioxia buyout, a ~20x return, as Kioxia&#39;s stock has surged 5,000%+ since its December 2024 IPO &lpar;Financial Times&rpar;](https://www.techmeme.com/260620/p1#a260620p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 20, #635](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-20-635/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

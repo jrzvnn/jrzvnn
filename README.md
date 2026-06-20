@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a helicopter pilot plays video games](http://9gag.com/gag/aRBnEoG)
  - 😝 [Boss said not on my watch](http://9gag.com/gag/adBE8Z9)
- - 💣 [Who&#39;s gonna know](http://9gag.com/gag/aryYnYp)
- - 😝 [So deep...](http://9gag.com/gag/a87Z1rO)
- - 👉 [Old NZ hilux ad](http://9gag.com/gag/aMVgEEx)<!-- MEMES:END -->
+ - 😝 [Who&#39;s gonna know](http://9gag.com/gag/aryYnYp)
+ - 💣 [So deep...](http://9gag.com/gag/a87Z1rO)
+ - 😝 [Old NZ hilux ad](http://9gag.com/gag/aMVgEEx)
+ - 👉 [When a helicopter pilot plays video games](http://9gag.com/gag/aRBnEoG)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor guys](http://9gag.com/gag/agmWgGq)
+ - 😝 [Someone might need this.](http://9gag.com/gag/axy5BeW)
  - 😝 [Daughter only wants to be heard](http://9gag.com/gag/aW4zj5q)
- - 💣 [Bro has fallen, press F to pay respects](http://9gag.com/gag/aAyjbQo)
- - 😝 [Seriously WTF happened to the Bermuda Triangle? Nobody talks about it anymore Did they solve the problem? Was it Aliens? Was it Atlantis? I need answers Damn it](http://9gag.com/gag/an76gDo)
- - 👉 [Unit Magic.](http://9gag.com/gag/aO8wxAD)<!-- MEMES:END -->
+ - 💣 [Pole Position](http://9gag.com/gag/ayNG9qY)
+ - 😝 [Messi does not play early or late, he plays precisely when he needs to](http://9gag.com/gag/agmWgxg)
+ - 👉 [Seriously WTF happened to the Bermuda Triangle? Nobody talks about it anymore Did they solve the problem? Was it Aliens? Was it Atlantis? I need answers Damn it](http://9gag.com/gag/an76gDo)<!-- MEMES:END -->
 
 ---
 

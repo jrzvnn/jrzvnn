@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $300 with these early Prime Day Apple deals](https://appleinsider.com/articles/26/06/20/save-up-to-300-with-these-early-prime-day-apple-deals?utm_source=rss)
  - [A speculative scenario titled &quot;Europe 2031&quot; projects economic and political instability in the EU if it fails to keep pace with the US and China in the AI race &lpar;Aisha Down/The Guardian&rpar;](https://www.techmeme.com/260620/p11#a260620p11)
- - [Yes, I Was Wrong About Meal Kits. This Is the Service That Changed My Mind](https://www.cnet.com/health/nutrition/wrong-about-meal-kits-service-changed-my-mind/)
- - [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)
- - [How success of AI-related companies in South Korea, Taiwan, and Japan is driving stock gains, bigger bonuses, and a retail investing frenzy in Asian markets &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260620/p10#a260620p10)
- - [Granta says it will stop publishing short story contest winners or join publishing partnerships it doesn&#39;t control after AI use allegations against a winner &lpar;Ella Creamer/The Guardian&rpar;](https://www.techmeme.com/260620/p9#a260620p9)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 21, #636](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-21-636/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 21, #1106](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-21-1106/)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 21, #1828](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-21-1828/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toy Story has the right take on tech](https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer)
- - [Best Weekend Ever? Playing Pokemon Go With 717,000 Fans of the Game](https://www.cnet.com/tech/gaming/chicago-pokemon-go-fest-2026-weekend-adventure/)
- - [Home Batteries: How They&#39;re Installed and How Much They Cost](https://www.wired.com/story/how-to-buy-a-home-battery/)
- - [I Found 29 Early Prime Day Deals That Are Worth Shopping Now &lpar;2026&rpar;](https://www.wired.com/story/early-prime-day-deals-june-2026-2/)
- - [16 Best Greens Powders &lpar;2026&rpar;: Taste-Tested for Months](https://www.wired.com/gallery/best-greens-powders/)<!-- TECH:END -->
+ - [Claude Guillemot, co-founder of Ubisoft and chairman of gaming hardware company Guillemot Corporation, died at 69 after a plane crash in France &lpar;Angela Cullen/Bloomberg&rpar;](https://www.techmeme.com/260620/p8#a260620p8)
+ - [Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG](https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir)
+ - [An interview with Smartbird CEO Nadia Carlsten about the shoe company Allbirds becoming an AI infrastructure company, plans to deploy compute clusters, and more &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260620/p7#a260620p7)
+ - [How I Nailed These Tricky Macro Shots for a Major CNET Feature Story](https://www.cnet.com/tech/computing/i-nailed-these-tricky-macro-shots-for-a-major-feature-story/)
+ - [These AI Scams All Have Red Flags. Here&#39;s How to Spot Them](https://www.cnet.com/tech/services-and-software/ai-scams-have-red-flags-how-to-spot-them/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

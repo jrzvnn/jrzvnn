@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)
- - 😝 [Pole Position](http://9gag.com/gag/ayNG9qY)
- - 💣 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
- - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 👉 [This is an insane amount of info for a short... Anyway do what you do and comment deck jokes...](http://9gag.com/gag/aQzGX28)<!-- MEMES:END -->
+ - 😝 [Removing shrapnel with a strong magnet, that&#39;s gonna leave a mark](http://9gag.com/gag/a9yoEzZ)
+ - 💣 [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)
+ - 😝 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
+ - 👉 [What emoji?](http://9gag.com/gag/apRO9oM)<!-- MEMES:END -->
 
 ---
 

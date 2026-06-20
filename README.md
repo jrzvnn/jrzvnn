@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Roblox CEO Dave Baszucki on his early decision not to prioritize ad revenue, whether every mega platform becomes an everything app, and more &lpar;Tyler Cowen/Conversations with Tyler&rpar;](https://www.techmeme.com/260619/p25#a260619p25)
  - [Nothing won&#39;t launch a new phone this year in its budget-focused CMF Phone series due to RAM prices &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260619/p24#a260619p24)
  - [DOJ says two brothers pleaded guilty to robbing a Minnesota family of $8M+ in cryptocurrency after holding them at gunpoint for over eight hours in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](https://www.techmeme.com/260619/p23#a260619p23)
  - [Nothing cancels this year&amp;#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices)
- - [Sources: Abu Dhabi&#39;s MGX is exploring buying Singapore-based data center operator DayOne; last month, sources said DayOne planned a US IPO at a $20B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p22#a260619p22)
- - [Docs: OpenAI burned through $3.7B in Q1, on revenue of $5.7B, and ended the quarter with $73B+ in cash and marketable securities vs. $40B at the end of December &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260619/p21#a260619p21)<!-- TECH:END -->
+ - [Sources: Abu Dhabi&#39;s MGX is exploring buying Singapore-based data center operator DayOne; last month, sources said DayOne planned a US IPO at a $20B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p22#a260619p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

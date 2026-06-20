@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone might need this.](http://9gag.com/gag/axy5BeW)
- - 😝 [Daughter only wants to be heard](http://9gag.com/gag/aW4zj5q)
- - 💣 [Pole Position](http://9gag.com/gag/ayNG9qY)
- - 😝 [Messi does not play early or late, he plays precisely when he needs to](http://9gag.com/gag/agmWgxg)
- - 👉 [Seriously WTF happened to the Bermuda Triangle? Nobody talks about it anymore Did they solve the problem? Was it Aliens? Was it Atlantis? I need answers Damn it](http://9gag.com/gag/an76gDo)<!-- MEMES:END -->
+ - 😝 [When a helicopter pilot plays video games](http://9gag.com/gag/aRBnEoG)
+ - 😝 [Boss said not on my watch](http://9gag.com/gag/adBE8Z9)
+ - 💣 [Who&#39;s gonna know](http://9gag.com/gag/aryYnYp)
+ - 😝 [So deep...](http://9gag.com/gag/a87Z1rO)
+ - 👉 [Old NZ hilux ad](http://9gag.com/gag/aMVgEEx)<!-- MEMES:END -->
 
 ---
 

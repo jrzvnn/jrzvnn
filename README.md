@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Poor guys](http://9gag.com/gag/agmWgGq)
  - 😝 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)
- - 😝 [Removing shrapnel with a strong magnet, that&#39;s gonna leave a mark](http://9gag.com/gag/a9yoEzZ)
- - 💣 [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)
- - 😝 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
- - 👉 [What emoji?](http://9gag.com/gag/apRO9oM)<!-- MEMES:END -->
+ - 💣 [Removing shrapnel with a strong magnet, that&#39;s gonna leave a mark](http://9gag.com/gag/a9yoEzZ)
+ - 😝 [Boss said not on my watch](http://9gag.com/gag/adBE8Z9)
+ - 👉 [Old NZ hilux ad](http://9gag.com/gag/aMVgEEx)<!-- MEMES:END -->
 
 ---
 

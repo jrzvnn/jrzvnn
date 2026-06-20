@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Granta says it will stop publishing short story contest winners or join publishing partnerships it doesn&#39;t control after AI use allegations against a winner &lpar;Ella Creamer/The Guardian&rpar;](https://www.techmeme.com/260620/p9#a260620p9)
+ - [Let’s Hear It for This Prime Day Deal Slashing $76 Off Nothing’s Earbuds](https://www.cnet.com/deals/nothing-earbuds-deal-2026-06-20/)
  - [Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives](https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview)
  - [AirPods Can Measure Your Heart Rate, but Are They Accurate?](https://www.cnet.com/tech/mobile/airpods-vs-apple-watch-heart-rate-accuracy/)
- - [You Might Be Eligible for a Payment From Google&#39;s $135M Data Settlement. How to File a Claim](https://www.cnet.com/tech/mobile/google-data-harvesting-settlement-what-to-know-how-to-claim-135-million/)
- - [Claude Guillemot, co-founder of Ubisoft and chairman of gaming hardware company Guillemot Corporation, died at 69 after a plane crash in France &lpar;Angela Cullen/Bloomberg&rpar;](https://www.techmeme.com/260620/p8#a260620p8)<!-- TECH:END -->
+ - [You Might Be Eligible for a Payment From Google&#39;s $135M Data Settlement. How to File a Claim](https://www.cnet.com/tech/mobile/google-data-harvesting-settlement-what-to-know-how-to-claim-135-million/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

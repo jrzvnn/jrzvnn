@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What else can it be](http://9gag.com/gag/a5Q419G)
+ - 😝 [That escalated quickly](http://9gag.com/gag/aLnx1Yv)
+ - 😝 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)
+ - 💣 [Just a normal day with friends, until it&#39;s not](http://9gag.com/gag/an767zB)
  - 😝 [Norway&#39;s soccer team is serious about their food choices for the World Cup](http://9gag.com/gag/aBypyEQ)
- - 💣 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)
- - 😝 [Just a normal day with friends, until it&#39;s not](http://9gag.com/gag/an767zB)
- - 👉 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)<!-- MEMES:END -->
+ - 👉 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)<!-- MEMES:END -->
 
 ---
 

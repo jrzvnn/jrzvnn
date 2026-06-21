@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
- - 😝 [The plot](http://9gag.com/gag/a34m4Gv)
- - 💣 [That escalated quickly](http://9gag.com/gag/aLnx1Yv)
+ - 😝 [That escalated quickly](http://9gag.com/gag/aLnx1Yv)
+ - 😝 [FAFO](http://9gag.com/gag/a0eBe6O)
+ - 💣 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
  - 😝 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)
  - 👉 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)<!-- MEMES:END -->
 

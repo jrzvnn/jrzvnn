@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Virgin Media O2 and VodafoneThree have deployed tech to disable phones stolen from their stores, after phone makers resisted broader antitheft measures &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260621/p7#a260621p7)
+ - [Cold Court’s debut EP is an infectious, glitchy genre mashup](https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review)
  - [Sources: Anduril has begun exploring the possibility of establishing operations in Israel and is in talks to recruit a local manager &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260621/p6#a260621p6)
  - [Mac game developers need to enable this in Steam to avoid a 32-bit problem](https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss)
- - [Sources: John Ternus gets ready to put his firm imprint on Apple&#39;s industrial design team, which has lost a true seat at Apple&#39;s exec table over the past decade &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260621/p5#a260621p5)
- - [Incoming CEO John Ternus may be looking to fix something that isn&#39;t broken](https://appleinsider.com/articles/26/06/21/incoming-ceo-john-ternus-may-be-looking-to-fix-something-that-isnt-broken?utm_source=rss)
- - [Apple&#39;s home automation updates &amp; new product releases will stretch into 2028](https://appleinsider.com/articles/26/06/21/apples-home-automation-updates-new-product-releases-will-stretch-into-2028?utm_source=rss)<!-- TECH:END -->
+ - [Sources: John Ternus gets ready to put his firm imprint on Apple&#39;s industrial design team, which has lost a true seat at Apple&#39;s exec table over the past decade &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260621/p5#a260621p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

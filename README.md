@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: Polymarket is paying creators to make deceptive videos about winning bets, targeting users in the US, where its primary crypto platform is banned &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260621/p3#a260621p3)
- - [Inside Palantir&#39;s fight to save its £330M, seven-year contract with NHS England, as public and political pressure grows to end the deal via a 2027 break clause &lpar;Financial Times&rpar;](https://www.techmeme.com/260621/p2#a260621p2)
- - [Brazil takes its National Civil Defense warning platform offline after suspected hackers send an unauthorized alert to mobile phones in several states &lpar;Mariana Catacci/CNN&rpar;](https://www.techmeme.com/260621/p1#a260621p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-21/)
- - [&#39;From&#39; EPs Talk Season 4&#39;s Man in Yellow and Murderous Dolls](https://www.cnet.com/tech/services-and-software/from-eps-talk-season-4s-man-in-yellow-murderous-dolls-and-a-focus-on-the-fans/)<!-- TECH:END -->
+ - [The Best NAS Devices for Your Home After Months of Testing](https://www.wired.com/story/best-nas-devices/)
+ - [28 Tips to Take Your ChatGPT Prompts to the Next Level](https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/)
+ - [If You’re Searching for a New Skillet, Consider Stainless Steel](https://www.wired.com/story/stainless-steel-skillets-are-great/)
+ - [Buying a Used iPhone Makes More Sense Than Ever](https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 21 #840](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-21-840/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

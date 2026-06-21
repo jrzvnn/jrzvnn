@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SF-based Humble Robotics, which is developing an electric, self-driving cabless freight truck with 200 miles range and 55 mph max speed, raised $24M &lpar;Caroline Petrow-Cohen/Los Angeles Times&rpar;](https://www.techmeme.com/260621/p8#a260621p8)
+ - [Bose thinks it can be a media company for some reason](https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company)
+ - [Apple Vision Pro vs Snap Specs: Two visions of face-worn computing, compared](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-snap-specs-two-visions-of-face-worn-computing-compared?utm_source=rss)
  - [Sources: Virgin Media O2 and VodafoneThree have deployed tech to disable phones stolen from their stores, after phone makers resisted broader antitheft measures &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260621/p7#a260621p7)
- - [Cold Court’s debut EP is an infectious, glitchy genre mashup](https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review)
- - [Sources: Anduril has begun exploring the possibility of establishing operations in Israel and is in talks to recruit a local manager &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260621/p6#a260621p6)
- - [Mac game developers need to enable this in Steam to avoid a 32-bit problem](https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss)
- - [Sources: John Ternus gets ready to put his firm imprint on Apple&#39;s industrial design team, which has lost a true seat at Apple&#39;s exec table over the past decade &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260621/p5#a260621p5)<!-- TECH:END -->
+ - [Cold Court’s debut EP is an infectious, glitchy genre mashup](https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

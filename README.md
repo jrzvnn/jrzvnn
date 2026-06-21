@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That escalated quickly](http://9gag.com/gag/aLnx1Yv)
- - 😝 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)
- - 💣 [Just a normal day with friends, until it&#39;s not](http://9gag.com/gag/an767zB)
+ - 😝 [Even if you won the lottery today, you would never be able to buy that feeling in your life](http://9gag.com/gag/a9yoqQL)
+ - 💣 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)
  - 😝 [Norway&#39;s soccer team is serious about their food choices for the World Cup](http://9gag.com/gag/aBypyEQ)
  - 👉 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)<!-- MEMES:END -->
 

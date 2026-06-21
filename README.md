@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boss said not on my watch](http://9gag.com/gag/adBE8Z9)
- - 😝 [Old NZ hilux ad](http://9gag.com/gag/aMVgEEx)
- - 💣 [Who&#39;s gonna know](http://9gag.com/gag/aryYnYp)
- - 😝 [So deep...](http://9gag.com/gag/a87Z1rO)
- - 👉 [When a helicopter pilot plays video games](http://9gag.com/gag/aRBnEoG)<!-- MEMES:END -->
+ - 😝 [Inside a church in Brazil.](https://www.reddit.com/r/funny/comments/1ubdp59/inside_a_church_in_brazil/)
+ - 😝 [Poor guys](http://9gag.com/gag/agmWgGq)
+ - 💣 [Have you seen the High Elves](http://9gag.com/gag/an76zbB)
+ - 😝 [Pole Position](http://9gag.com/gag/ayNG9qY)
+ - 👉 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)<!-- MEMES:END -->
 
 ---
 

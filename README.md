@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at &quot;humanizer&quot; and &quot;autotyper&quot; apps that help students evade AI-detection software by slowly auto-typing essays and making AI text sound less robotic &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/260620/p12#a260620p12)
- - [Save up to $300 with these early Prime Day Apple deals](https://appleinsider.com/articles/26/06/20/save-up-to-300-with-these-early-prime-day-apple-deals?utm_source=rss)
- - [A speculative scenario titled &quot;Europe 2031&quot; projects economic and political instability in the EU if it fails to keep pace with the US and China in the AI race &lpar;Aisha Down/The Guardian&rpar;](https://www.techmeme.com/260620/p11#a260620p11)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 21, #1106](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-21-1106/)
- - [Today&#39;s Wordle Hints, Answer and Help for June 21, #1828](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-21-1828/)<!-- TECH:END -->
+ - [Investigation: Polymarket is paying creators to make deceptive videos about winning bets, targeting users in the US, where its primary crypto platform is banned &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260621/p3#a260621p3)
+ - [Inside Palantir&#39;s fight to save its £330M, seven-year contract with NHS England, as public and political pressure grows to end the deal via a 2027 break clause &lpar;Financial Times&rpar;](https://www.techmeme.com/260621/p2#a260621p2)
+ - [Brazil takes its National Civil Defense warning platform offline after suspected hackers send an unauthorized alert to mobile phones in several states &lpar;Mariana Catacci/CNN&rpar;](https://www.techmeme.com/260621/p1#a260621p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-21/)
+ - [&#39;From&#39; EPs Talk Season 4&#39;s Man in Yellow and Murderous Dolls](https://www.cnet.com/tech/services-and-software/from-eps-talk-season-4s-man-in-yellow-murderous-dolls-and-a-focus-on-the-fans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

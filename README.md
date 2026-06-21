@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SF-based Humble Robotics, which is developing an electric, self-driving cabless freight truck with 200 miles range and 55 mph max speed, raised $24M &lpar;Caroline Petrow-Cohen/Los Angeles Times&rpar;](https://www.techmeme.com/260621/p8#a260621p8)
- - [Bose thinks it can be a media company for some reason](https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company)
- - [Apple Vision Pro vs Snap Specs: Two visions of face-worn computing, compared](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-snap-specs-two-visions-of-face-worn-computing-compared?utm_source=rss)
- - [Sources: Virgin Media O2 and VodafoneThree have deployed tech to disable phones stolen from their stores, after phone makers resisted broader antitheft measures &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260621/p7#a260621p7)
- - [Cold Court’s debut EP is an infectious, glitchy genre mashup](https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review)<!-- TECH:END -->
+ - [Sunday Reboot: The right marketing, the wrong changes](https://appleinsider.com/articles/26/06/21/sunday-reboot-the-right-marketing-the-wrong-changes?utm_source=rss)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 22, #1829](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-22-1829/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 22 #841](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-22-841/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 22, #1107](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-22-1107/)
+ - [The Best LED Face Masks That Will Improve Your Skin&#39;s Appearance](https://www.cnet.com/health/best-led-face-masks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

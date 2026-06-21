@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is an insane amount of info for a short... Anyway do what you do and comment deck jokes...](http://9gag.com/gag/aQzGX28)
- - 😝 [When a helicopter pilot plays video games](http://9gag.com/gag/aRBnEoG)
- - 💣 [True love and dedication. He never gave up on finding justice for her.](http://9gag.com/gag/aryYyGK)
- - 😝 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)
- - 👉 [I thought they&#39;re called jurassic world?](http://9gag.com/gag/aBypdLO)<!-- MEMES:END -->
+ - 😝 [That escalated quickly](http://9gag.com/gag/aLnx1Yv)
+ - 😝 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
+ - 💣 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)
+ - 😝 [Norway&#39;s soccer team is serious about their food choices for the World Cup](http://9gag.com/gag/aBypyEQ)
+ - 👉 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)<!-- MEMES:END -->
 
 ---
 

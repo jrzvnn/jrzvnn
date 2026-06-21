@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Inside a church in Brazil.](https://www.reddit.com/r/funny/comments/1ubdp59/inside_a_church_in_brazil/)
- - 😝 [Poor guys](http://9gag.com/gag/agmWgGq)
- - 💣 [Have you seen the High Elves](http://9gag.com/gag/an76zbB)
- - 😝 [Pole Position](http://9gag.com/gag/ayNG9qY)
- - 👉 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)<!-- MEMES:END -->
+ - 😝 [Guys Agartha is real](http://9gag.com/gag/aoyXKMm)
+ - 😝 [Have you seen the High Elves](http://9gag.com/gag/an76zbB)
+ - 💣 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
+ - 😝 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)
+ - 👉 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)<!-- MEMES:END -->
 
 ---
 

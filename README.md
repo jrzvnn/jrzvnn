@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Europe falls behind the US and China in consumer AI, its engineering companies and AI startups are turning to industrial AI applications to boost efficiency &lpar;Marilen Martin/Bloomberg&rpar;](https://www.techmeme.com/260621/p9#a260621p9)
  - [Sunday Reboot: The right marketing, the wrong changes](https://appleinsider.com/articles/26/06/21/sunday-reboot-the-right-marketing-the-wrong-changes?utm_source=rss)
  - [Today&#39;s Wordle Hints, Answer and Help for June 22, #1829](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-22-1829/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for June 22 #841](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-22-841/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 22, #1107](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-22-1107/)
- - [The Best LED Face Masks That Will Improve Your Skin&#39;s Appearance](https://www.cnet.com/health/best-led-face-masks/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 22, #1107](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-22-1107/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

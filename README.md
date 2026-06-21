@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tiny Ann Arbor Apple Store will move to a bigger space in July](https://appleinsider.com/articles/26/06/21/tiny-ann-arbor-apple-store-will-move-to-a-bigger-space-in-july?utm_source=rss)
- - [That viral clip you saw of someone winning big on Polymarket was probably fake](https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets)
- - [9 Things to Do Before a Summer Blackout Hits Your Home](https://www.cnet.com/health/9-things-to-do-before-a-summer-blackout-hits-your-home/)
- - [Foldable iPhone Ultra, Galaxy Z Fold 8, Pixel 11 and Other Phones Launching in 2026](https://www.cnet.com/tech/mobile/comparing-the-2026-phone-lineups-from-apple-samsung-google-and-everyone-else/)
- - [How Roomba started a robot revolution](https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history)<!-- TECH:END -->
+ - [Sources: Anduril has begun exploring the possibility of establishing operations in Israel and is in talks to recruit a local manager &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260621/p6#a260621p6)
+ - [Mac game developers need to enable this in Steam to avoid a 32-bit problem](https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss)
+ - [Sources: John Ternus gets ready to put his firm imprint on Apple&#39;s industrial design team, which has lost a true seat at Apple&#39;s exec table over the past decade &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260621/p5#a260621p5)
+ - [Incoming CEO John Ternus may be looking to fix something that isn&#39;t broken](https://appleinsider.com/articles/26/06/21/incoming-ceo-john-ternus-may-be-looking-to-fix-something-that-isnt-broken?utm_source=rss)
+ - [Apple&#39;s home automation updates &amp; new product releases will stretch into 2028](https://appleinsider.com/articles/26/06/21/apples-home-automation-updates-new-product-releases-will-stretch-into-2028?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

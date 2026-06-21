@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best NAS Devices for Your Home After Months of Testing](https://www.wired.com/story/best-nas-devices/)
- - [28 Tips to Take Your ChatGPT Prompts to the Next Level](https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/)
- - [If You’re Searching for a New Skillet, Consider Stainless Steel](https://www.wired.com/story/stainless-steel-skillets-are-great/)
- - [Buying a Used iPhone Makes More Sense Than Ever](https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 21 #840](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-21-840/)<!-- TECH:END -->
+ - [Wooting 60HE v2: Peak Keyboard Perfection](https://www.wired.com/review/review-wooting-60he-v2/)
+ - [SoftBank says it is struggling to find startups in Latin America ready for major investments and has completed only two new deals over the past two years &lpar;Bloomberg&rpar;](https://www.techmeme.com/260621/p4#a260621p4)
+ - [Malware Has Gotten Smarter. Here&#39;s How Your Antivirus Has, Too](https://www.cnet.com/tech/services-and-software/how-antivirus-software-becoming-more-advanced-detecting-threats/)
+ - [Sony’s Xperia 1 VIII is still a phone for the fans](https://www.theverge.com/tech/952245/sony-xperia-1-viii-review)
+ - [If You’re Searching for a New Skillet, Consider Stainless Steel](https://www.wired.com/story/stainless-steel-skillets-are-great/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

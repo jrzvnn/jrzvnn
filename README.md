@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys Agartha is real](http://9gag.com/gag/aoyXKMm)
- - 😝 [Have you seen the High Elves](http://9gag.com/gag/an76zbB)
- - 💣 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
- - 😝 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)
- - 👉 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)<!-- MEMES:END -->
+ - 😝 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)
+ - 😝 [Pole Position](http://9gag.com/gag/ayNG9qY)
+ - 💣 [I&#39;ve never come this way before. It&#39;s the cobblestones.](http://9gag.com/gag/a2vev4d)
+ - 😝 [Unit Magic.](http://9gag.com/gag/aO8wxAD)
+ - 👉 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)<!-- MEMES:END -->
 
 ---
 

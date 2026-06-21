@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wooting 60HE v2: Peak Keyboard Perfection](https://www.wired.com/review/review-wooting-60he-v2/)
- - [SoftBank says it is struggling to find startups in Latin America ready for major investments and has completed only two new deals over the past two years &lpar;Bloomberg&rpar;](https://www.techmeme.com/260621/p4#a260621p4)
- - [Malware Has Gotten Smarter. Here&#39;s How Your Antivirus Has, Too](https://www.cnet.com/tech/services-and-software/how-antivirus-software-becoming-more-advanced-detecting-threats/)
- - [Sony’s Xperia 1 VIII is still a phone for the fans](https://www.theverge.com/tech/952245/sony-xperia-1-viii-review)
- - [If You’re Searching for a New Skillet, Consider Stainless Steel](https://www.wired.com/story/stainless-steel-skillets-are-great/)<!-- TECH:END -->
+ - [Tiny Ann Arbor Apple Store will move to a bigger space in July](https://appleinsider.com/articles/26/06/21/tiny-ann-arbor-apple-store-will-move-to-a-bigger-space-in-july?utm_source=rss)
+ - [That viral clip you saw of someone winning big on Polymarket was probably fake](https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets)
+ - [9 Things to Do Before a Summer Blackout Hits Your Home](https://www.cnet.com/health/9-things-to-do-before-a-summer-blackout-hits-your-home/)
+ - [Foldable iPhone Ultra, Galaxy Z Fold 8, Pixel 11 and Other Phones Launching in 2026](https://www.cnet.com/tech/mobile/comparing-the-2026-phone-lineups-from-apple-samsung-google-and-everyone-else/)
+ - [How Roomba started a robot revolution](https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

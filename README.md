@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [FAFO](http://9gag.com/gag/a0eBe6O)
- - 😝 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)
- - 💣 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
- - 😝 [Not your fault. Both men and women saw that](http://9gag.com/gag/aBypd2z)
- - 👉 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)<!-- MEMES:END -->
+ - 😝 [Closely embraced](http://9gag.com/gag/aZZeZAV)
+ - 💣 [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)
+ - 😝 [Sarcasm](http://9gag.com/gag/ajPp7zw)
+ - 👉 [The plot](http://9gag.com/gag/a34m4Gv)<!-- MEMES:END -->
 
 ---
 

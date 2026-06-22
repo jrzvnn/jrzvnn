@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 22, #637](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-22-637/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, June 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-22/)
- - [Sources: Shanghai-based Coowa, which develops embodied AI robots, plans to file a Hong Kong IPO; Coowa was valued at $3B after raising $600M in its latest round &lpar;Jiahui Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260621/p12#a260621p12)
- - [San Diego-based Aether AI, which is building &quot;causal world models&quot; to teach robots cause and effect instead of pattern-matching, raised a $20M seed led by MPCi &lpar;Cristian Dina/The Next Web&rpar;](https://www.techmeme.com/260621/p11#a260621p11)
- - [Toto, Japan&#39;s largest toilet maker, plans to invest $495M by 2030 to expand its semiconductor materials unit, targeting R&amp;D for next-gen 1nm chip production &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260621/p10#a260621p10)<!-- TECH:END -->
+ - [Analysis: Anthropic may have talked itself into an export ban, as its 2026 official statements and posts used AI risk-related terms 8x more often than OpenAI &lpar;Clara Murray/Financial Times&rpar;](https://www.techmeme.com/260622/p5#a260622p5)
+ - [AirPods Max 2 plunge to record-low $399 ahead of Amazon Prime Day](https://appleinsider.com/articles/26/06/22/airpods-max-2-plunge-to-record-low-399-ahead-of-amazon-prime-day?utm_source=rss)
+ - [PitchBook: defense tech companies making drones, battlefield AI, and more have raised $12.3B across 175 deals YTD, up from a $9.95B total from 158 deals in 2025 &lpar;Financial Times&rpar;](https://www.techmeme.com/260622/p4#a260622p4)
+ - [Tencent starts testing the new Xiaowei AI assistant powered by WeLM and DeepSeek models in its WeChat app in China, in an effort to catch up in the AI race &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260622/p3#a260622p3)
+ - [Priceline Promo Codes &amp; Coupons: 10% Off June](https://www.wired.com/story/priceline-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New in iOS 27 beta 2: Update an Apple TV in the Home app, Wallet Insights](https://appleinsider.com/articles/26/06/22/new-in-ios-27-beta-2-update-an-apple-tv-in-the-home-app-wallet-insights?utm_source=rss)
- - [Meta Exposed Data Internally From Its Controversial Employee-Tracking Program](https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/)
- - [Air Space Intelligence won an $875M, 12-year FAA contract to develop AI tools that map flight trajectories and identify areas of congestion to reduce delays &lpar;Allyson Versprille/Bloomberg&rpar;](https://www.techmeme.com/260622/p37#a260622p37)
- - [AI is cursing renters with the promise of impossible homes](https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings)
- - [Belkin joins in for Prime Day deals, cutting MagSafe charger prices by up to 42%](https://appleinsider.com/articles/26/06/22/belkin-joins-in-for-prime-day-deals-cutting-magsafe-charger-prices-by-up-to-42?utm_source=rss)<!-- TECH:END -->
+ - [A Source of Mysterious Repeating Radio Signals From Space Has Been Identified](https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/)
+ - [President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260622/p39#a260622p39)
+ - [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/)
+ - [Valve describes just how brutal RAM negotiations are in 2026](https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis)
+ - [Sources: Meta internally exposed data from its employee-tracking program meant to help train its AI models, including full prompts and private conversations &lpar;Wired&rpar;](https://www.techmeme.com/260622/p38#a260622p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

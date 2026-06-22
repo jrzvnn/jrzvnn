@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Source of Mysterious Repeating Radio Signals From Space Has Been Identified](https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/)
- - [President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260622/p39#a260622p39)
- - [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/)
- - [Valve describes just how brutal RAM negotiations are in 2026](https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis)
- - [Sources: Meta internally exposed data from its employee-tracking program meant to help train its AI models, including full prompts and private conversations &lpar;Wired&rpar;](https://www.techmeme.com/260622/p38#a260622p38)<!-- TECH:END -->
+ - [Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260622/p41#a260622p41)
+ - [Nvidia says its AI data center design runs hotter to use a lot less water](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)
+ - [Filing: Oracle&#39;s global workforce fell by 21,000 employees in the past 12 months to 141,000 as of May 31; the company says AI adoption has led to reductions &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260622/p40#a260622p40)
+ - [Leaker Prosser&#39;s default ruling set aside by judge as Apple lawsuit continues](https://appleinsider.com/articles/26/06/22/leaker-prossers-default-ruling-set-aside-by-judge-as-apple-lawsuit-continues?utm_source=rss)
+ - [A Source of Mysterious Repeating Radio Signals From Space Has Been Identified](https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

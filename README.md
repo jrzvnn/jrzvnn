@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Idennaquile](http://9gag.com/gag/a34mGpr)
- - 😝 [Japan fans at the world cup](http://9gag.com/gag/aNDNLNK)
- - 💣 [Best batman movie of all time no cap](http://9gag.com/gag/aVvAg4K)
- - 😝 [Cries in Asian](http://9gag.com/gag/a34m5Kr)
- - 👉 [Modern Warfare](http://9gag.com/gag/aD2y7BK)<!-- MEMES:END -->
+ - 😝 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
+ - 😝 [1984 vs 2017](http://9gag.com/gag/aryYy35)
+ - 💣 [Guys](http://9gag.com/gag/apRORW8)
+ - 😝 [Who hurt you?](http://9gag.com/gag/azxndMZ)
+ - 👉 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
 
 ---
 

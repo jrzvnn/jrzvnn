@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fu** the system](http://9gag.com/gag/azxnxOm)
  - 😝 [FAFO](http://9gag.com/gag/a0eBe6O)
- - 💣 [The plot](http://9gag.com/gag/a34m4Gv)
- - 😝 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
- - 👉 [I&#39;ve never come this way before. It&#39;s the cobblestones.](http://9gag.com/gag/a2vev4d)<!-- MEMES:END -->
+ - 😝 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)
+ - 💣 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
+ - 😝 [Not your fault. Both men and women saw that](http://9gag.com/gag/aBypd2z)
+ - 👉 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)<!-- MEMES:END -->
 
 ---
 

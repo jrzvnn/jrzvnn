@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Anthropic may have talked itself into an export ban, as its 2026 official statements and posts used AI risk-related terms 8x more often than OpenAI &lpar;Clara Murray/Financial Times&rpar;](https://www.techmeme.com/260622/p5#a260622p5)
- - [AirPods Max 2 plunge to record-low $399 ahead of Amazon Prime Day](https://appleinsider.com/articles/26/06/22/airpods-max-2-plunge-to-record-low-399-ahead-of-amazon-prime-day?utm_source=rss)
- - [PitchBook: defense tech companies making drones, battlefield AI, and more have raised $12.3B across 175 deals YTD, up from a $9.95B total from 158 deals in 2025 &lpar;Financial Times&rpar;](https://www.techmeme.com/260622/p4#a260622p4)
- - [Tencent starts testing the new Xiaowei AI assistant powered by WeLM and DeepSeek models in its WeChat app in China, in an effort to catch up in the AI race &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260622/p3#a260622p3)
- - [Priceline Promo Codes &amp; Coupons: 10% Off June](https://www.wired.com/story/priceline-promo-code/)<!-- TECH:END -->
+ - [Meta invests $900M into Indian fintech startup Cred, and plans to appoint Cred founder Kunal Shah as the new leader of WhatsApp, replacing Will Cathcart &lpar;Kurt Wagner/Bloomberg&rpar;](https://www.techmeme.com/260622/p20#a260622p20)
+ - [Wyze’s new smart scale can break down your body composition for less than $80](https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition)
+ - [UK-based AI law firm Garfield, which received regulatory approval in 2025, wins a case in the English courts for the first time; the case focused on unpaid fees &lpar;Suzi Ring/Financial Times&rpar;](https://www.techmeme.com/260622/p19#a260622p19)
+ - [NYC-based Prosper AI, whose health care AI tool is designed to answer patient phone calls, raised a $30M Series A led by a16z, for $35M in total funding &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260622/p18#a260622p18)
+ - [KitchenAid Mixer Hacks: 9 Unexpected Foods You Can Make Without Special Attachments](https://www.cnet.com/news/kitchenaid-stand-mixer-hacks-unexpected-foods/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

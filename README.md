@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO](http://9gag.com/gag/a0eBe6O)
  - 😝 [Closely embraced](http://9gag.com/gag/aZZeZAV)
- - 💣 [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)
- - 😝 [Sarcasm](http://9gag.com/gag/ajPp7zw)
+ - 😝 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
+ - 💣 [Guys](http://9gag.com/gag/apRORW8)
+ - 😝 [The Mirror Dimension Called\u2014It Wants Its Face Back](http://9gag.com/gag/ayNGqwM)
  - 👉 [The plot](http://9gag.com/gag/a34m4Gv)<!-- MEMES:END -->
 
 ---

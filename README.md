@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
- - 😝 [1984 vs 2017](http://9gag.com/gag/aryYy35)
- - 💣 [Guys](http://9gag.com/gag/apRORW8)
- - 😝 [Who hurt you?](http://9gag.com/gag/azxndMZ)
- - 👉 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
+ - 😝 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
+ - 😝 [Apart from all the nasty food video, this is how they make cheap cigarette.](http://9gag.com/gag/avyNWzE)
+ - 💣 [FAFO](http://9gag.com/gag/a0eBe6O)
+ - 😝 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
+ - 👉 [When the future was bright](http://9gag.com/gag/aKGRAvj)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta invests $900M into Indian fintech startup Cred, and plans to appoint Cred founder Kunal Shah as the new leader of WhatsApp, replacing Will Cathcart &lpar;Kurt Wagner/Bloomberg&rpar;](https://www.techmeme.com/260622/p20#a260622p20)
- - [Wyze’s new smart scale can break down your body composition for less than $80](https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition)
- - [UK-based AI law firm Garfield, which received regulatory approval in 2025, wins a case in the English courts for the first time; the case focused on unpaid fees &lpar;Suzi Ring/Financial Times&rpar;](https://www.techmeme.com/260622/p19#a260622p19)
- - [NYC-based Prosper AI, whose health care AI tool is designed to answer patient phone calls, raised a $30M Series A led by a16z, for $35M in total funding &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260622/p18#a260622p18)
- - [KitchenAid Mixer Hacks: 9 Unexpected Foods You Can Make Without Special Attachments](https://www.cnet.com/news/kitchenaid-stand-mixer-hacks-unexpected-foods/)<!-- TECH:END -->
+ - [Second developer betas of iOS 27, macOS 27 are out](https://appleinsider.com/articles/26/06/22/second-developer-betas-of-ios-27-macos-27-are-out?utm_source=rss)
+ - [Valve Steam Machine review: much smaller than PS5, surprisingly smooth, and navigable with any modern gamepad but very expensive and needs manual configuration &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260622/p34#a260622p34)
+ - [Valve says Steam Machine, its new living room-friendly PC, will start at $1,049 for the 512GB base model, and go on sale starting June 29 &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260622/p33#a260622p33)
+ - [Google invests in A24 to build AI movie tools](https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership)
+ - [OpenAI unveils an updated GPT-5.5-Cyber model, launches the Patch the Planet initiative in partnership with Trail of Bits to fix open source bugs, and more &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260622/p32#a260622p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

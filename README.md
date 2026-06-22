@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That escalated quickly](http://9gag.com/gag/aLnx1Yv)
+ - 😝 [Fu** the system](http://9gag.com/gag/azxnxOm)
  - 😝 [FAFO](http://9gag.com/gag/a0eBe6O)
- - 💣 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
- - 😝 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)
- - 👉 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)<!-- MEMES:END -->
+ - 💣 [The plot](http://9gag.com/gag/a34m4Gv)
+ - 😝 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
+ - 👉 [I&#39;ve never come this way before. It&#39;s the cobblestones.](http://9gag.com/gag/a2vev4d)<!-- MEMES:END -->
 
 ---
 

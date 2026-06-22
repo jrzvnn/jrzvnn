@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Closely embraced](http://9gag.com/gag/aZZeZAV)
- - 😝 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
- - 💣 [Guys](http://9gag.com/gag/apRORW8)
- - 😝 [The Mirror Dimension Called\u2014It Wants Its Face Back](http://9gag.com/gag/ayNGqwM)
- - 👉 [The plot](http://9gag.com/gag/a34m4Gv)<!-- MEMES:END -->
+ - 😝 [Idennaquile](http://9gag.com/gag/a34mGpr)
+ - 😝 [Japan fans at the world cup](http://9gag.com/gag/aNDNLNK)
+ - 💣 [Best batman movie of all time no cap](http://9gag.com/gag/aVvAg4K)
+ - 😝 [Cries in Asian](http://9gag.com/gag/a34m5Kr)
+ - 👉 [Modern Warfare](http://9gag.com/gag/aD2y7BK)<!-- MEMES:END -->
 
 ---
 

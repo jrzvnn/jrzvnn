@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First red in his life](http://9gag.com/gag/awyw391)
- - 😝 [Guys](http://9gag.com/gag/apRODKb)
- - 💣 [Pool files](http://9gag.com/gag/aBypLQZ)
- - 😝 [Do the dog](http://9gag.com/gag/aMVgmNA)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/azxn5Bm)<!-- MEMES:END -->
+ - 😝 [Instant karma for the bully](http://9gag.com/gag/aVvAoBP)
+ - 😝 [At a rather inauspicious moment](http://9gag.com/gag/aO8w4Yy)
+ - 💣 [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)
+ - 😝 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
+ - 👉 [It just hits different](http://9gag.com/gag/a87Zm8p)<!-- MEMES:END -->
 
 ---
 

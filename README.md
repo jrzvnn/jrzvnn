@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Syntun: online sales during China&#39;s 618 shopping festival grew 4% YoY, a sharp drop from 15.2% growth last year, amid a persistent consumer spending slowdown &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260623/p3#a260623p3)
- - [Best Hotels.com Coupon Codes for June 2026](https://www.wired.com/story/hotels-com-coupon/)
- - [30% Off Canon Promo Codes | June 2026](https://www.wired.com/story/canon-promo-code/)
- - [Paramount+ Coupon Codes and Deals for June 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for June](https://www.wired.com/story/sony-promo-code/)<!-- TECH:END -->
+ - [Best Prime Day Smart Bird Feeder Deals &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-smart-bird-feeder-deals-2026/)
+ - [Prime Day Apple deals are live, grab sale prices from $14](https://appleinsider.com/articles/26/06/23/prime-day-apple-deals-are-live-grab-sale-prices-from-14?utm_source=rss)
+ - [Best Prime Day Vacuum Deals &lpar;2026&rpar;: Shark, Dyson, Bissell](https://www.wired.com/story/prime-day-vacuum-deals-2026/)
+ - [3 People Have Gotten Cancer-Detecting Implants in Their Brains](https://www.wired.com/story/three-people-have-gotten-cancer-detecting-brain-implants/)
+ - [Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More](https://www.wired.com/story/best-prime-day-apple-deals-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

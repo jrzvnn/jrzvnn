@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On the first day of their trial, two members of Scattered Spider plead guilty in the UK to charges stemming from a 2024 cyberattack on Transport for London &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260623/p31#a260623p31)
- - [Best Prime Day iPad deals slash prices to as low as $299](https://appleinsider.com/articles/26/06/23/best-prime-day-ipad-deals-slash-prices-to-as-low-as-299?utm_source=rss)
- - [Anthropic launches Claude Tag, an agentic AI coworker for Slack that can learn context, give suggestions, and more, in beta for Claude Team and Enterprise tiers &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260623/p30#a260623p30)
- - [Formula E&amp;#8217;s new season is starting to look more like F1](https://www.theverge.com/transportation/955011/formula-e-season-13-electric-racing)
- - [The Pixel 10A finally costs what it should](https://www.theverge.com/gadgets/950195/google-pixel-10a-prime-day-deal-sale)<!-- TECH:END -->
+ - [Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed](https://www.wired.com/story/dialog-hack-website-misconfiguration/)
+ - [Tesla claims driver &amp;#8216;manually overrode self-driving&amp;#8217; in deadly Texas crash](https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash)
+ - [The FCC says an auction of wireless mid-band spectrum raised $3.5B+, which will largely be used to fund the replacement of Chinese telecom equipment in the US &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260623/p34#a260623p34)
+ - [The 13 Best Amazon Prime Day Deals Under $100 in 2026](https://www.wired.com/story/best-prime-day-deals-under-100-june-2026/)
+ - [Here are the best Prime Day deals on the Verge staff’s favorite stuff](https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

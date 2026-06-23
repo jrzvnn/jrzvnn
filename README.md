@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day Smart Bird Feeder Deals &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-smart-bird-feeder-deals-2026/)
- - [Prime Day Apple deals are live, grab sale prices from $14](https://appleinsider.com/articles/26/06/23/prime-day-apple-deals-are-live-grab-sale-prices-from-14?utm_source=rss)
- - [Best Prime Day Vacuum Deals &lpar;2026&rpar;: Shark, Dyson, Bissell](https://www.wired.com/story/prime-day-vacuum-deals-2026/)
- - [3 People Have Gotten Cancer-Detecting Implants in Their Brains](https://www.wired.com/story/three-people-have-gotten-cancer-detecting-brain-implants/)
- - [Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More](https://www.wired.com/story/best-prime-day-apple-deals-2026/)<!-- TECH:END -->
+ - [The Netherlands joins the US-led Pax Silica initiative alongside South Korea and Japan to coordinate AI supply chains; Taiwan endorses it as a non-signatory &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/260623/p13#a260623p13)
+ - [UK&#39;s $4.1 billion iCloud suit won&#39;t be heard until late 2028](https://appleinsider.com/articles/26/06/23/uks-41-billion-icloud-suit-wont-be-heard-until-late-2028?utm_source=rss)
+ - [ByteDance unveils Seedance 2.5 in Beijing, saying the AI video model can generate 30-second clips from up to 50 reference materials, up from 12 for Seedance 2.0 &lpar;Juro Osawa/The Information&rpar;](https://www.techmeme.com/260623/p12#a260623p12)
+ - [We&#39;re Tracking Prime Day Live](https://www.wired.com/live/amazon-prime-day-live-tracker-july-2026/)
+ - [The best Prime Day deals we found on our favorite gear](https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

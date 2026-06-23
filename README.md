@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Netherlands joins the US-led Pax Silica initiative alongside South Korea and Japan to coordinate AI supply chains; Taiwan endorses it as a non-signatory &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/260623/p13#a260623p13)
- - [UK&#39;s $4.1 billion iCloud suit won&#39;t be heard until late 2028](https://appleinsider.com/articles/26/06/23/uks-41-billion-icloud-suit-wont-be-heard-until-late-2028?utm_source=rss)
- - [ByteDance unveils Seedance 2.5 in Beijing, saying the AI video model can generate 30-second clips from up to 50 reference materials, up from 12 for Seedance 2.0 &lpar;Juro Osawa/The Information&rpar;](https://www.techmeme.com/260623/p12#a260623p12)
- - [We&#39;re Tracking Prime Day Live](https://www.wired.com/live/amazon-prime-day-live-tracker-july-2026/)
- - [The best Prime Day deals we found on our favorite gear](https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale)<!-- TECH:END -->
+ - [Walmart acquires Paris-based Vibe.co, which lets businesses create and run targeted ads on streaming services; Vibe.co&#39;s co-founders will join Walmart Connect &lpar;Brian Steinberg/Variety&rpar;](https://www.techmeme.com/260623/p23#a260623p23)
+ - [Amazon&#39;s Best Fire TV Stick Is Almost Half Off](https://www.wired.com/story/amazon-fire-tv-stick-4k-max-deal-6-2026-apd/)
+ - [The Best Mesh Router Is at Its Best Price Ever This Prime Day](https://www.wired.com/story/amazon-prime-day-router-deals-june-2026/)
+ - [Best Prime Day Action Cameras Deals &lpar;2026&rpar;: GoPro, Insta360, More](https://www.wired.com/story/prime-day-camera-deals-apd-june-2026/)
+ - [14 Walmart Deals We like Better than That Other Sale Happening Right Now](https://www.wired.com/story/walmart-deals-june-2026-apd/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

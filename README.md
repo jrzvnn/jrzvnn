@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the first time in over 60 YEARS, Star Trek &amp; Dr. Who are not in production.](http://9gag.com/gag/abA7eZ9)
- - 😝 [1984 vs 2017](http://9gag.com/gag/aryYy35)
- - 💣 [Fu** the system](http://9gag.com/gag/azxnxOm)
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/azxn5Bm)
- - 👉 [The US government explaining your retirement plan](http://9gag.com/gag/aoyX3Gm)<!-- MEMES:END -->
+ - 😝 [Someone&#39;s getting fired.](http://9gag.com/gag/aGyXyo6)
+ - 😝 [Who hurt you?](http://9gag.com/gag/azxndMZ)
+ - 💣 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
+ - 😝 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
+ - 👉 [Happy doggo birthday](http://9gag.com/gag/avyN1Yb)<!-- MEMES:END -->
 
 ---
 

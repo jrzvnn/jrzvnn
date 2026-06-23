@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
- - 😝 [Apart from all the nasty food video, this is how they make cheap cigarette.](http://9gag.com/gag/avyNWzE)
- - 💣 [FAFO](http://9gag.com/gag/a0eBe6O)
- - 😝 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
+ - 😝 [Italian controllers ignore immigrants who travel without a ticket](http://9gag.com/gag/aByp6RD)
+ - 💣 [Fu** the system](http://9gag.com/gag/azxnxOm)
+ - 😝 [The plot](http://9gag.com/gag/a34m4Gv)
  - 👉 [When the future was bright](http://9gag.com/gag/aKGRAvj)<!-- MEMES:END -->
 
 ---

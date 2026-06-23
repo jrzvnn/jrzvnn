@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Real estate professionals are increasingly using AI-powered virtual staging tools like Stuccco and BoxBrownie to create misleading house and apartment listings &lpar;Gaby Del Valle/The Verge&rpar;](https://www.techmeme.com/260622/p42#a260622p42)
- - [Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260622/p41#a260622p41)
- - [Nvidia says its AI data center design runs hotter to use a lot less water](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)
- - [Filing: Oracle&#39;s global workforce fell by 21,000 employees in the past 12 months to 141,000 as of May 31; the company says AI adoption has led to reductions &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260622/p40#a260622p40)
- - [Leaker Prosser&#39;s default ruling set aside by judge as Apple lawsuit continues](https://appleinsider.com/articles/26/06/22/leaker-prossers-default-ruling-set-aside-by-judge-as-apple-lawsuit-continues?utm_source=rss)<!-- TECH:END -->
+ - [Syntun: online sales during China&#39;s 618 shopping festival grew 4% YoY, a sharp drop from 15.2% growth last year, amid a persistent consumer spending slowdown &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260623/p3#a260623p3)
+ - [Best Hotels.com Coupon Codes for June 2026](https://www.wired.com/story/hotels-com-coupon/)
+ - [30% Off Canon Promo Codes | June 2026](https://www.wired.com/story/canon-promo-code/)
+ - [Paramount+ Coupon Codes and Deals for June 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for June](https://www.wired.com/story/sony-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

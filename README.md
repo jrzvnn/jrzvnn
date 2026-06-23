@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone&#39;s getting fired.](http://9gag.com/gag/aGyXyo6)
- - 😝 [Who hurt you?](http://9gag.com/gag/azxndMZ)
- - 💣 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
  - 😝 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
- - 👉 [Happy doggo birthday](http://9gag.com/gag/avyN1Yb)<!-- MEMES:END -->
+ - 😝 [Excited to see you](http://9gag.com/gag/aW4zpXn)
+ - 💣 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
+ - 😝 [. . .](http://9gag.com/gag/a6ZPX3m)
+ - 👉 [Who hurt you?](http://9gag.com/gag/azxndMZ)<!-- MEMES:END -->
 
 ---
 

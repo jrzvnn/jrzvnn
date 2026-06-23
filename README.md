@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
- - 😝 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
- - 💣 [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)
- - 😝 [Who hurt you?](http://9gag.com/gag/azxndMZ)
- - 👉 [Pool files](http://9gag.com/gag/aBypLQZ)<!-- MEMES:END -->
+ - 😝 [The Mirror Dimension Called\u2014It Wants Its Face Back](http://9gag.com/gag/ayNGqwM)
+ - 😝 [Guys](http://9gag.com/gag/apRODKb)
+ - 💣 [Pool files](http://9gag.com/gag/aBypLQZ)
+ - 😝 [Martyn got no chill....&lpar;joke aside; how can sailing be `too white` in a European country?&rpar;](http://9gag.com/gag/avyNeoM)
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/azxn5Bm)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed](https://www.wired.com/story/dialog-hack-website-misconfiguration/)
- - [Tesla claims driver &amp;#8216;manually overrode self-driving&amp;#8217; in deadly Texas crash](https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash)
- - [The FCC says an auction of wireless mid-band spectrum raised $3.5B+, which will largely be used to fund the replacement of Chinese telecom equipment in the US &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260623/p34#a260623p34)
- - [The 13 Best Amazon Prime Day Deals Under $100 in 2026](https://www.wired.com/story/best-prime-day-deals-under-100-june-2026/)
- - [Here are the best Prime Day deals on the Verge staff’s favorite stuff](https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026)<!-- TECH:END -->
+ - [Mistral debuts OCR 4, a model featuring structured document extraction with bounding boxes, block classification, and inline confidence scores, in 170 languages &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260623/p37#a260623p37)
+ - [Prime Day takes $240 off Roborock’s Saros 20, one of our favorite robovacs](https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale)
+ - [The Meta Quest 3S is on sale for $297 — which is basically its old price](https://www.theverge.com/gadgets/954049/meta-quest-3s-vr-headset-prime-day-deal-sale)
+ - [The best Prime Day deals we found on our favorite gear](https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale)
+ - [Best Prime Day Deals on Yoto Players and Accessories](https://www.wired.com/story/yoto-player-prime-day-deal-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

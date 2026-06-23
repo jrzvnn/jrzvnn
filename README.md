@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
- - 😝 [Italian controllers ignore immigrants who travel without a ticket](http://9gag.com/gag/aByp6RD)
+ - 😝 [For the first time in over 60 YEARS, Star Trek &amp; Dr. Who are not in production.](http://9gag.com/gag/abA7eZ9)
+ - 😝 [1984 vs 2017](http://9gag.com/gag/aryYy35)
  - 💣 [Fu** the system](http://9gag.com/gag/azxnxOm)
- - 😝 [The plot](http://9gag.com/gag/a34m4Gv)
- - 👉 [When the future was bright](http://9gag.com/gag/aKGRAvj)<!-- MEMES:END -->
+ - 😝 [Not all heroes wear capes](http://9gag.com/gag/azxn5Bm)
+ - 👉 [The US government explaining your retirement plan](http://9gag.com/gag/aoyX3Gm)<!-- MEMES:END -->
 
 ---
 

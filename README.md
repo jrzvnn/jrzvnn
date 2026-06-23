@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Mirror Dimension Called\u2014It Wants Its Face Back](http://9gag.com/gag/ayNGqwM)
- - 😝 [Guys](http://9gag.com/gag/apRODKb)
- - 💣 [Pool files](http://9gag.com/gag/aBypLQZ)
- - 😝 [Martyn got no chill....&lpar;joke aside; how can sailing be `too white` in a European country?&rpar;](http://9gag.com/gag/avyNeoM)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/azxn5Bm)<!-- MEMES:END -->
+ - 😝 [. . .](http://9gag.com/gag/a6ZPX3m)
+ - 😝 [At a rather inauspicious moment](http://9gag.com/gag/aO8w4Yy)
+ - 💣 [Instant karma for the bully](http://9gag.com/gag/aVvAoBP)
+ - 😝 [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)
+ - 👉 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)<!-- MEMES:END -->
 
 ---
 

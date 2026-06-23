@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral debuts OCR 4, a model featuring structured document extraction with bounding boxes, block classification, and inline confidence scores, in 170 languages &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260623/p37#a260623p37)
- - [Prime Day takes $240 off Roborock’s Saros 20, one of our favorite robovacs](https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale)
- - [The Meta Quest 3S is on sale for $297 — which is basically its old price](https://www.theverge.com/gadgets/954049/meta-quest-3s-vr-headset-prime-day-deal-sale)
- - [The best Prime Day deals we found on our favorite gear](https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale)
- - [Best Prime Day Deals on Yoto Players and Accessories](https://www.wired.com/story/yoto-player-prime-day-deal-2026/)<!-- TECH:END -->
+ - [Google Home will soon get better at recognizing you](https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing)
+ - [Co-hosting &amp; guest list visibility finally arrives for Apple Invites](https://appleinsider.com/articles/26/06/23/co-hosting-guest-list-visibility-finally-arrives-for-apple-invites?utm_source=rss)
+ - [Sources: the Trump administration is pressing Meta to submit its AI models for voluntary review; Meta is the only major US AI developer without an agreement &lpar;New York Times&rpar;](https://www.techmeme.com/260623/p39#a260623p39)
+ - [Hollywood is bending the knee to OpenAI](https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt)
+ - [Cerebras reports Q1 revenue up 94% YoY to $193.4M, net loss down 41% to $14M, and forecasts core gross margin to shrink in Q2; CBRS drops 8%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260623/p38#a260623p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart acquires Paris-based Vibe.co, which lets businesses create and run targeted ads on streaming services; Vibe.co&#39;s co-founders will join Walmart Connect &lpar;Brian Steinberg/Variety&rpar;](https://www.techmeme.com/260623/p23#a260623p23)
- - [Amazon&#39;s Best Fire TV Stick Is Almost Half Off](https://www.wired.com/story/amazon-fire-tv-stick-4k-max-deal-6-2026-apd/)
- - [The Best Mesh Router Is at Its Best Price Ever This Prime Day](https://www.wired.com/story/amazon-prime-day-router-deals-june-2026/)
- - [Best Prime Day Action Cameras Deals &lpar;2026&rpar;: GoPro, Insta360, More](https://www.wired.com/story/prime-day-camera-deals-apd-june-2026/)
- - [14 Walmart Deals We like Better than That Other Sale Happening Right Now](https://www.wired.com/story/walmart-deals-june-2026-apd/)<!-- TECH:END -->
+ - [On the first day of their trial, two members of Scattered Spider plead guilty in the UK to charges stemming from a 2024 cyberattack on Transport for London &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260623/p31#a260623p31)
+ - [Best Prime Day iPad deals slash prices to as low as $299](https://appleinsider.com/articles/26/06/23/best-prime-day-ipad-deals-slash-prices-to-as-low-as-299?utm_source=rss)
+ - [Anthropic launches Claude Tag, an agentic AI coworker for Slack that can learn context, give suggestions, and more, in beta for Claude Team and Enterprise tiers &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260623/p30#a260623p30)
+ - [Formula E&amp;#8217;s new season is starting to look more like F1](https://www.theverge.com/transportation/955011/formula-e-season-13-electric-racing)
+ - [The Pixel 10A finally costs what it should](https://www.theverge.com/gadgets/950195/google-pixel-10a-prime-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

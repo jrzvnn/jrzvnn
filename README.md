@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It just hits different](http://9gag.com/gag/a87Zm8p)
  - 😝 [She tried to fight the urge but gave it! Handsome Squidward](http://9gag.com/gag/aQzGvZ8)
- - 💣 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
- - 😝 [At a rather inauspicious moment](http://9gag.com/gag/aO8w4Yy)
- - 👉 [Do the dog](http://9gag.com/gag/aMVgmNA)<!-- MEMES:END -->
+ - 😝 [Last men standing](http://9gag.com/gag/aYQ9OOx)
+ - 💣 [Poor JD](http://9gag.com/gag/aBypZ5A)
+ - 😝 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
+ - 👉 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)<!-- MEMES:END -->
 
 ---
 

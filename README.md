@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 16 Best Amazon Prime Day Deals Under $100 in 2026](https://www.wired.com/story/best-prime-day-deals-under-100-06-24-2026/)
- - [I Found the Very Best Prime Day Laptop Deals onMacBooks and More &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-06-24-2026/)
- - [129 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/)
- - [Sources: Qualcomm is in talks to design custom chips for ByteDance, based partly on connectivity tech from Alphawave Semi, which Qualcomm acquired in 2025 &lpar;Reuters&rpar;](https://www.techmeme.com/260624/p8#a260624p8)
- - [SK Hynix overtaking Samsung to become South Korea&#39;s most valuable company is the culmination of 14 years of bets on HBM, which paid off as the AI boom took off &lpar;Reuters&rpar;](https://www.techmeme.com/260624/p7#a260624p7)<!-- TECH:END -->
+ - [18 Walmart Deals We Like Better Than That Other Sale Happening Right Now](https://www.wired.com/story/walmart-deals-apd-06-24-2026/)
+ - [How Taiwan&#39;s Hsinchu Science Park, home to TSMC, became its wealthiest hub; one neighborhood reported 2023 average household incomes of $146K, 5x the average &lpar;New York Times&rpar;](https://www.techmeme.com/260624/p15#a260624p15)
+ - [Form Smart Swim 2 LT Goggles Include Innovative Form Correction](https://www.wired.com/review/form-smart-swim-2-lt-goggles/)
+ - [Our favorite Prime Day deals you can shop on day two](https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale)
+ - [We&#39;re Tracking Prime Day Live To Find Sales Worth Shopping in 2026](https://www.wired.com/live/amazon-prime-day-live-tracker-july-24-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

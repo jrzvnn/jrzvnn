@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xLight, a startup developing advanced lasers for EUV machines, told investors that it is in talks to raise $350M led by Boardman Bay and Bain Capital &lpar;The Information&rpar;](https://www.techmeme.com/260623/p42#a260623p42)
- - [Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More](https://www.wired.com/story/prime-day-dyson-deals-2026/)
- - [Microsoft Comes Through With the Best Laptop Deal of Prime Day So Far](https://www.wired.com/story/surface-laptop-prime-day-deal/)
- - [The best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
- - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)<!-- TECH:END -->
+ - [AI creative tools startup Krea, which has raised $83M and claims to have 30M users, releases the open weights for its image model Krea 2 under a custom license &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260624/p3#a260624p3)
+ - [Booking.com Promo Codes: 20% Off | June 2026](https://www.wired.com/story/booking-com-promo-code/)
+ - [Lenovo Coupon Codes and Deals in June 2026](https://www.wired.com/story/lenovo-coupon-code/)
+ - [Peacock Promo Codes: 40% Off June 2026](https://www.wired.com/story/peacock-promo-code/)
+ - [French Startup Uses Special Polymers to Better Help Nerves Heal](https://www.wired.com/story/startup-using-polymers-and-blue-light-to-help-tissue-heal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

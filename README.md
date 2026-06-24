@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris-based digital health insurance startup Alan raised €480M led by Prosus at a €5.5B valuation, and is set for €1B+ in annual recurring revenue by year&#39;s end &lpar;Tim Bradshaw/Financial Times&rpar;](https://www.techmeme.com/260624/p45#a260624p45)
+ - [Utah Senate President J. Stuart Adams, who championed a huge data center beside the Great Salt Lake, lost his Republican primary on Tuesday after voter backlash &lpar;Jack Healy/New York Times&rpar;](https://www.techmeme.com/260624/p44#a260624p44)
+ - [Best Prime Day Deals on LED Masks and Hair Growth Tools That Actually Work](https://www.wired.com/story/best-led-devices-prime-day-deals-2026/)
  - [97 Prime Day Deals on Gear We Stand By, Up To 50% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/)
- - [How to Opt Out of Google Search’s New AI Data Training Feature](https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/)
- - [SambaNova Executive Chairman Lip-Bu Tan says the AI chip startup is set to raise $800M to $1B, sources say at a ~$10B valuation, up from $2B in February &lpar;The Information&rpar;](https://www.techmeme.com/260624/p43#a260624p43)
- - [Qualcomm expects $15B in data center chip sales by 2029, raises its non-handset chip revenue forecast to $40B by 2029, up from $22B; QCOM jumps 13%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/260624/p42#a260624p42)
- - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)<!-- TECH:END -->
+ - [How to Opt Out of Google Search’s New AI Data Training Feature](https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

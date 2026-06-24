@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [18 Walmart Deals We Like Better Than That Other Sale Happening Right Now](https://www.wired.com/story/walmart-deals-apd-06-24-2026/)
- - [How Taiwan&#39;s Hsinchu Science Park, home to TSMC, became its wealthiest hub; one neighborhood reported 2023 average household incomes of $146K, 5x the average &lpar;New York Times&rpar;](https://www.techmeme.com/260624/p15#a260624p15)
- - [Form Smart Swim 2 LT Goggles Include Innovative Form Correction](https://www.wired.com/review/form-smart-swim-2-lt-goggles/)
- - [Our favorite Prime Day deals you can shop on day two](https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale)
- - [We&#39;re Tracking Prime Day Live To Find Sales Worth Shopping in 2026](https://www.wired.com/live/amazon-prime-day-live-tracker-july-24-2026/)<!-- TECH:END -->
+ - [Google’s capable TV Streamer 4K is back to its best price for Prime Day](https://www.theverge.com/gadgets/953074/google-tv-streamer-4k-amazon-prime-day-2026-deal-sale)
+ - [Chinese cybersecurity company 360 unveils new AI tools: Tulongfeng, which it claims is &quot;China&#39;s version of Mythos&quot;, and Yitianzhen, to automate cyber defense &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260624/p23#a260624p23)
+ - [OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI&#39;s models &lpar;OpenAI&rpar;](https://www.techmeme.com/260624/p22#a260624p22)
+ - [New macOS security flaw could let hackers disable protection tools, researchers say](https://appleinsider.com/articles/26/06/24/new-macos-security-flaw-could-let-hackers-disable-protection-tools-researchers-say?utm_source=rss)
+ - [Google Home Speaker review: the $100 speaker, the company&#39;s first such device in six years, works for Gemini power users but has underwhelming music playback &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260624/p21#a260624p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

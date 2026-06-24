@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day Deal 2026: A Tushy Bidet for Under $100](https://www.wired.com/story/tushy-classic-wave-amazon-prime-day-deal-2026/)
- - [iPhone Fold &amp; touchscreen MacBook Pro again rumored to have Samsung displays](https://appleinsider.com/articles/26/06/23/iphone-fold-touchscreen-macbook-pro-again-rumored-to-have-samsung-displays?utm_source=rss)
- - [117 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On](https://www.wired.com/story/amazon-prime-day-absolute-best-deals/)
- - [My Favorite Art TV Is Half-off for Amazon Prime Day](https://www.wired.com/story/i-love-this-hisense-art-tv-and-its-half-off-apd/)
- - [The Nex Playground is down to its pre-RAMageddon price during Prime Day](https://www.theverge.com/gadgets/950871/nex-playground-prime-day-deal-sale)<!-- TECH:END -->
+ - [xLight, a startup developing advanced lasers for EUV machines, told investors that it is in talks to raise $350M led by Boardman Bay and Bain Capital &lpar;The Information&rpar;](https://www.techmeme.com/260623/p42#a260623p42)
+ - [Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More](https://www.wired.com/story/prime-day-dyson-deals-2026/)
+ - [Microsoft Comes Through With the Best Laptop Deal of Prime Day So Far](https://www.wired.com/story/surface-laptop-prime-day-deal/)
+ - [The best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
+ - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

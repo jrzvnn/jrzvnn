@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)
- - 😝 [It just hits different](http://9gag.com/gag/a87Zm8p)
- - 💣 [Last men standing](http://9gag.com/gag/aYQ9OOx)
- - 😝 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
- - 👉 [Remember dudes](http://9gag.com/gag/aD2y89O)<!-- MEMES:END -->
+ - 😝 [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)
+ - 😝 [I miss Wii Sports. Gotta dig out the old system and play it again.](http://9gag.com/gag/aVvAKjM)
+ - 💣 [The Last Video I have from my cat. He left on saturday and we never found him again. He was 17 years old.. probably Chose to Go on His final adventure. I Just Wish I knew for certain](http://9gag.com/gag/a6ZP5ob)
+ - 😝 [Democraps won&#39;t like this one bit!!](http://9gag.com/gag/aMVgPyG)
+ - 👉 [Not honest work](http://9gag.com/gag/ajPpLGw)<!-- MEMES:END -->
 
 ---
 

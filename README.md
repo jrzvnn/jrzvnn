@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone needs to hear this](http://9gag.com/gag/aGyX8VG)
- - 😝 [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)
- - 💣 [I miss Wii Sports. Gotta dig out the old system and play it again.](http://9gag.com/gag/aVvAKjM)
- - 😝 [I wonder why](http://9gag.com/gag/aRBnMBA)
- - 👉 [Task failed](http://9gag.com/gag/a87Z0yV)<!-- MEMES:END -->
+ - 😝 [Instant karma for the bully](http://9gag.com/gag/aVvAoBP)
+ - 😝 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
+ - 💣 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
+ - 😝 [Last men standing](http://9gag.com/gag/aYQ9OOx)
+ - 👉 [I wonder why](http://9gag.com/gag/aRBnMBA)<!-- MEMES:END -->
 
 ---
 

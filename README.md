@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Roborock Deal This Prime Day &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-roborock-deals-2026/)
- - [Prime Day Live: Amazon’s Annual Sale Keeps on Truckin’ and So Are We](https://www.wired.com/live/amazon-prime-day-live-tracker-july-24-2026/)
- - [A24 Knows You’re Mad About the Google AI Collab](https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/)
- - [A new paper argues Microsoft exaggerated its quantum claims a year ago](https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims)
- - [Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More &lpar;2026&rpar;](https://www.wired.com/story/prime-day-dyson-deals-2026/)<!-- TECH:END -->
+ - [97 Prime Day Deals on Gear We Stand By, Up To 50% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/)
+ - [How to Opt Out of Google Search’s New AI Data Training Feature](https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/)
+ - [SambaNova Executive Chairman Lip-Bu Tan says the AI chip startup is set to raise $800M to $1B, sources say at a ~$10B valuation, up from $2B in February &lpar;The Information&rpar;](https://www.techmeme.com/260624/p43#a260624p43)
+ - [Qualcomm expects $15B in data center chip sales by 2029, raises its non-handset chip revenue forecast to $40B by 2029, up from $22B; QCOM jumps 13%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/260624/p42#a260624p42)
+ - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance says it will make a fresh push for permission to operate in the EU after its MiCA license application in Greece failed ahead of the June 30 deadline &lpar;Reuters&rpar;](https://www.techmeme.com/260624/p33#a260624p33)
- - [Google&amp;#8217;s new rules for the app store will allow alternative billing next week](https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust)
- - [Preorders for the Long-Awaited GTA 6 Go Live at Midnight](https://www.cnet.com/news-live/gta-6-preorder/)
- - [The Best Breville Espresso Machine Is 30 Percent off Right Now &lpar;2026&rpar;](https://www.wired.com/story/breville-deals-apd-6-24-2026/)
- - [Prime Day deals under $50 that are really worth it](https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50)<!-- TECH:END -->
+ - [Congresswoman denies staff used AI to write defense funding amendment](https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude)
+ - [Qualcomm unveils Dragonfly C1000, a new data center CPU built for agentic AI, and says Meta will use the chip when production starts in 2028 &lpar;Kif Leswing/CNBC&rpar;](https://www.techmeme.com/260624/p38#a260624p38)
+ - [Every Time Norway Scores at the World Cup the City of Bergen Trembles](https://www.wired.com/story/world-cup-norway-scores-city-of-bergen-trembles/)
+ - [Sources: Kalshi is in talks to raise a funding round at a ~$40B valuation that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May &lpar;Financial Times&rpar;](https://www.techmeme.com/260624/p37#a260624p37)
+ - [Get Up to 36% Off With the Best Prime Day Kindle Deals &lpar;2026&rpar;: Paperwhite, Colorsoft, Kids](https://www.wired.com/story/kindle-prime-day-deals-06-24-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

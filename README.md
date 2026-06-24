@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant karma for the bully](http://9gag.com/gag/aVvAoBP)
+ - 😝 [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)
+ - 😝 [It just hits different](http://9gag.com/gag/a87Zm8p)
+ - 💣 [Last men standing](http://9gag.com/gag/aYQ9OOx)
  - 😝 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
- - 💣 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
- - 😝 [Last men standing](http://9gag.com/gag/aYQ9OOx)
- - 👉 [I wonder why](http://9gag.com/gag/aRBnMBA)<!-- MEMES:END -->
+ - 👉 [Remember dudes](http://9gag.com/gag/aD2y89O)<!-- MEMES:END -->
 
 ---
 

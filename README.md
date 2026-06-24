@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s capable TV Streamer 4K is back to its best price for Prime Day](https://www.theverge.com/gadgets/953074/google-tv-streamer-4k-amazon-prime-day-2026-deal-sale)
- - [Chinese cybersecurity company 360 unveils new AI tools: Tulongfeng, which it claims is &quot;China&#39;s version of Mythos&quot;, and Yitianzhen, to automate cyber defense &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260624/p23#a260624p23)
- - [OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI&#39;s models &lpar;OpenAI&rpar;](https://www.techmeme.com/260624/p22#a260624p22)
- - [New macOS security flaw could let hackers disable protection tools, researchers say](https://appleinsider.com/articles/26/06/24/new-macos-security-flaw-could-let-hackers-disable-protection-tools-researchers-say?utm_source=rss)
- - [Google Home Speaker review: the $100 speaker, the company&#39;s first such device in six years, works for Gemini power users but has underwhelming music playback &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260624/p21#a260624p21)<!-- TECH:END -->
+ - [Cops will soon upgrade to license plate readers that can track your iPhone and AirPods in public](https://appleinsider.com/articles/26/06/24/cops-will-soon-upgrade-to-license-plate-readers-that-can-track-your-iphone-and-airpods-in-public?utm_source=rss)
+ - [Nature publishes a peer-reviewed paper alleging that Microsoft&#39;s 2025 quantum breakthrough claims were based on &quot;basic Python errors&quot; and data cherry-picking &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260624/p30#a260624p30)
+ - [Sources: the Trump administration has been happier talking to Anthropic lately after Dario Amodei was replaced by cofounder Tom Brown in meetings about Fable 5 &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260624/p29#a260624p29)
+ - [Ornn, which plans to launch a marketplace for GPU capacity designed to function like an exchange to trade oil contracts, raised a $33M seed led by a16z &lpar;Katherine Doherty/Bloomberg&rpar;](https://www.techmeme.com/260624/p28#a260624p28)
+ - [The 16 best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

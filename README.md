@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI creative tools startup Krea, which has raised $83M and claims to have 30M users, releases the open weights for its image model Krea 2 under a custom license &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260624/p3#a260624p3)
- - [Booking.com Promo Codes: 20% Off | June 2026](https://www.wired.com/story/booking-com-promo-code/)
- - [Lenovo Coupon Codes and Deals in June 2026](https://www.wired.com/story/lenovo-coupon-code/)
- - [Peacock Promo Codes: 40% Off June 2026](https://www.wired.com/story/peacock-promo-code/)
- - [French Startup Uses Special Polymers to Better Help Nerves Heal](https://www.wired.com/story/startup-using-polymers-and-blue-light-to-help-tissue-heal/)<!-- TECH:END -->
+ - [The 16 Best Amazon Prime Day Deals Under $100 in 2026](https://www.wired.com/story/best-prime-day-deals-under-100-06-24-2026/)
+ - [I Found the Very Best Prime Day Laptop Deals onMacBooks and More &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-06-24-2026/)
+ - [129 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/)
+ - [Sources: Qualcomm is in talks to design custom chips for ByteDance, based partly on connectivity tech from Alphawave Semi, which Qualcomm acquired in 2025 &lpar;Reuters&rpar;](https://www.techmeme.com/260624/p8#a260624p8)
+ - [SK Hynix overtaking Samsung to become South Korea&#39;s most valuable company is the culmination of 14 years of bets on HBM, which paid off as the AI boom took off &lpar;Reuters&rpar;](https://www.techmeme.com/260624/p7#a260624p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

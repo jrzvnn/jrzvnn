@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)
- - 😝 [I miss Wii Sports. Gotta dig out the old system and play it again.](http://9gag.com/gag/aVvAKjM)
- - 💣 [The Last Video I have from my cat. He left on saturday and we never found him again. He was 17 years old.. probably Chose to Go on His final adventure. I Just Wish I knew for certain](http://9gag.com/gag/a6ZP5ob)
- - 😝 [Hear me out...](http://9gag.com/gag/a2ve0QZ)
- - 👉 [Not honest work](http://9gag.com/gag/ajPpLGw)<!-- MEMES:END -->
+ - 😝 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
+ - 😝 [Mon Dieu!](http://9gag.com/gag/aPA5P3B)
+ - 💣 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
+ - 😝 [Fight at the stadium](http://9gag.com/gag/a4PvNDw)
+ - 👉 [It just hits different](http://9gag.com/gag/a87Zm8p)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats nice, Kevin Hart got a bike.](http://9gag.com/gag/aMVgm9A)
- - 😝 [I miss Wii Sports. Gotta dig out the old system and play it again.](http://9gag.com/gag/aVvAKjM)
- - 💣 [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)
  - 😝 [Someone needs to hear this](http://9gag.com/gag/aGyX8VG)
- - 👉 [Do the Honey Badger](http://9gag.com/gag/aqy08qR)<!-- MEMES:END -->
+ - 😝 [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)
+ - 💣 [I miss Wii Sports. Gotta dig out the old system and play it again.](http://9gag.com/gag/aVvAKjM)
+ - 😝 [I wonder why](http://9gag.com/gag/aRBnMBA)
+ - 👉 [Task failed](http://9gag.com/gag/a87Z0yV)<!-- MEMES:END -->
 
 ---
 

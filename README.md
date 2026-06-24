@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congresswoman denies staff used AI to write defense funding amendment](https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude)
- - [Qualcomm unveils Dragonfly C1000, a new data center CPU built for agentic AI, and says Meta will use the chip when production starts in 2028 &lpar;Kif Leswing/CNBC&rpar;](https://www.techmeme.com/260624/p38#a260624p38)
- - [Every Time Norway Scores at the World Cup the City of Bergen Trembles](https://www.wired.com/story/world-cup-norway-scores-city-of-bergen-trembles/)
- - [Sources: Kalshi is in talks to raise a funding round at a ~$40B valuation that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May &lpar;Financial Times&rpar;](https://www.techmeme.com/260624/p37#a260624p37)
- - [Get Up to 36% Off With the Best Prime Day Kindle Deals &lpar;2026&rpar;: Paperwhite, Colorsoft, Kids](https://www.wired.com/story/kindle-prime-day-deals-06-24-2026/)<!-- TECH:END -->
+ - [The Best Roborock Deal This Prime Day &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-roborock-deals-2026/)
+ - [Prime Day Live: Amazon’s Annual Sale Keeps on Truckin’ and So Are We](https://www.wired.com/live/amazon-prime-day-live-tracker-july-24-2026/)
+ - [A24 Knows You’re Mad About the Google AI Collab](https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/)
+ - [A new paper argues Microsoft exaggerated its quantum claims a year ago](https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims)
+ - [Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More &lpar;2026&rpar;](https://www.wired.com/story/prime-day-dyson-deals-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

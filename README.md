@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [. . .](http://9gag.com/gag/a6ZPX3m)
- - 😝 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
- - 💣 [It just hits different](http://9gag.com/gag/a87Zm8p)
- - 😝 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
- - 👉 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)<!-- MEMES:END -->
+ - 😝 [Thats nice, Kevin Hart got a bike.](http://9gag.com/gag/aMVgm9A)
+ - 😝 [I miss Wii Sports. Gotta dig out the old system and play it again.](http://9gag.com/gag/aVvAKjM)
+ - 💣 [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)
+ - 😝 [Someone needs to hear this](http://9gag.com/gag/aGyX8VG)
+ - 👉 [Do the Honey Badger](http://9gag.com/gag/aqy08qR)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She tried to fight the urge but gave it! Handsome Squidward](http://9gag.com/gag/aQzGvZ8)
- - 😝 [Last men standing](http://9gag.com/gag/aYQ9OOx)
- - 💣 [Poor JD](http://9gag.com/gag/aBypZ5A)
- - 😝 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
- - 👉 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)<!-- MEMES:END -->
+ - 😝 [Guys](http://9gag.com/gag/apRODKb)
+ - 😝 [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)
+ - 💣 [Thats nice, Kevin Hart got a bike.](http://9gag.com/gag/aMVgm9A)
+ - 😝 [I miss Wii Sports. Gotta dig out the old system and play it again.](http://9gag.com/gag/aVvAKjM)
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/azxn5Bm)<!-- MEMES:END -->
 
 ---
 

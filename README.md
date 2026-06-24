@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cops will soon upgrade to license plate readers that can track your iPhone and AirPods in public](https://appleinsider.com/articles/26/06/24/cops-will-soon-upgrade-to-license-plate-readers-that-can-track-your-iphone-and-airpods-in-public?utm_source=rss)
- - [Nature publishes a peer-reviewed paper alleging that Microsoft&#39;s 2025 quantum breakthrough claims were based on &quot;basic Python errors&quot; and data cherry-picking &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260624/p30#a260624p30)
- - [Sources: the Trump administration has been happier talking to Anthropic lately after Dario Amodei was replaced by cofounder Tom Brown in meetings about Fable 5 &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260624/p29#a260624p29)
- - [Ornn, which plans to launch a marketplace for GPU capacity designed to function like an exchange to trade oil contracts, raised a $33M seed led by a16z &lpar;Katherine Doherty/Bloomberg&rpar;](https://www.techmeme.com/260624/p28#a260624p28)
- - [The 16 best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)<!-- TECH:END -->
+ - [Binance says it will make a fresh push for permission to operate in the EU after its MiCA license application in Greece failed ahead of the June 30 deadline &lpar;Reuters&rpar;](https://www.techmeme.com/260624/p33#a260624p33)
+ - [Google&amp;#8217;s new rules for the app store will allow alternative billing next week](https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust)
+ - [Preorders for the Long-Awaited GTA 6 Go Live at Midnight](https://www.cnet.com/news-live/gta-6-preorder/)
+ - [The Best Breville Espresso Machine Is 30 Percent off Right Now &lpar;2026&rpar;](https://www.wired.com/story/breville-deals-apd-6-24-2026/)
+ - [Prime Day deals under $50 that are really worth it](https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

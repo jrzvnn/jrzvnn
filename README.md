@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A perfect job](http://9gag.com/gag/aE03oLe)
- - 😝 [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
+ - 😝 [Not honest work](http://9gag.com/gag/ajPpLGw)
  - 💣 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)
  - 😝 [Good movie!](http://9gag.com/gag/aLnx4y5)
  - 👉 [Helping her friend to write an essay, such a kind hearted young lady!](http://9gag.com/gag/aAyjKGE)<!-- MEMES:END -->

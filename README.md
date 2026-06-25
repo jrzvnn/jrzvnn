@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 23 Best Amazon Prime Day Deals Under $30 We&#39;ve Found &lpar;2026&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-25-2026/)
- - [OpenAI, Anthropic, Amazon, Microsoft, and others launch Raise Us, a new non-profit led by ex-Commerce Secretary Gina Raimondo to help US workers adapt to AI &lpar;Lydia DePillis/New York Times&rpar;](https://www.techmeme.com/260625/p20#a260625p20)
- - [World Cup Teams Are in a Race for AI Dominance](https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/)
- - [Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers](https://www.theverge.com/streaming/956712/disney-youtube-tv-directv-streaming-settlement)
- - [Amazon Prime Day 3 is for the Real Heads, And We&#39;re Live-Blogging For Them](https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/)<!-- TECH:END -->
+ - [iPhone, Apple Watch &amp; AirPods escape Apple&#39;s latest price increases](https://appleinsider.com/articles/26/06/25/iphone-apple-watch-airpods-escape-apples-latest-price-increases?utm_source=rss)
+ - [Apple confirms price hikes across Macs, iPads, and more](https://appleinsider.com/articles/26/06/25/apple-confirms-price-nikes-across-macs-ipads-and-more?utm_source=rss)
+ - [Apple Store was down, to implement price hikes](https://appleinsider.com/articles/26/06/25/apple-store-is-down-for-one-of-two-reasons?utm_source=rss)
+ - [Best Prime Day Action Cameras Deals I&#39;ve Found &lpar;2026&rpar;: GoPro, Insta360, DJI](https://www.wired.com/story/prime-day-camera-deals-06-25-2026/)
+ - [Sources: Google expands the scope of its months-old AI coding strike team to &quot;midtraining&quot; to better compete with Anthropic, after key executive departures &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260625/p27#a260625p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

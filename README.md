@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor Tylor Chase. Don&#39;t smoke crack kids.](http://9gag.com/gag/aGyXB3z)
+ - 😝 [A perfect job](http://9gag.com/gag/aE03oLe)
+ - 😝 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
+ - 💣 [Good movie!](http://9gag.com/gag/aLnx4y5)
  - 😝 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - 💣 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
- - 😝 [Do the dog](http://9gag.com/gag/aMVgmNA)
- - 👉 [Not honest work](http://9gag.com/gag/ajPpLGw)<!-- MEMES:END -->
+ - 👉 [Helping her friend to write an essay, such a kind hearted young lady!](http://9gag.com/gag/aAyjKGE)<!-- MEMES:END -->
 
 ---
 

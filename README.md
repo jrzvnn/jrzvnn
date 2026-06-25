@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - 😝 [Gag reflex, will you try it ?](http://9gag.com/gag/aAyjEmZ)
- - 💣 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
- - 😝 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)
- - 👉 [Things that will never happen to you](http://9gag.com/gag/ae9LOBm)<!-- MEMES:END -->
+ - 😝 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
+ - 😝 [Last men standing](http://9gag.com/gag/aYQ9OOx)
+ - 💣 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
+ - 😝 [Citizen Vigilante!!](http://9gag.com/gag/aNDNVgK)
+ - 👉 [Not honest work](http://9gag.com/gag/ajPpLGw)<!-- MEMES:END -->
 
 ---
 

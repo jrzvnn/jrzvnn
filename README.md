@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
- - 😝 [Last men standing](http://9gag.com/gag/aYQ9OOx)
- - 💣 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
- - 😝 [Citizen Vigilante!!](http://9gag.com/gag/aNDNVgK)
- - 👉 [Not honest work](http://9gag.com/gag/ajPpLGw)<!-- MEMES:END -->
+ - 😝 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
+ - 😝 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
+ - 💣 [Last men standing](http://9gag.com/gag/aYQ9OOx)
+ - 😝 [Do the dog](http://9gag.com/gag/aMVgmNA)
+ - 👉 [Things that will never happen to you](http://9gag.com/gag/ae9LOBm)<!-- MEMES:END -->
 
 ---
 

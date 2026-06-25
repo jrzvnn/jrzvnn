@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patronus AI, which builds simulated digital environments for evaluating AI agents, raised a $50M Series B led by Greenfield, bringing its total funding to $70M &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260625/p51#a260625p51)
- - [OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)
- - [Om Malik, a longtime technology writer, founder of Gigaom, and a partner at True Ventures, died on Wednesday at 59 &lpar;Om Malik/On my Om&rpar;](https://www.techmeme.com/260625/p50#a260625p50)
- - [Source: Google is asking publishers that test new AI features in Google News to grant it broad rights to their content, including to potentially train AI models &lpar;Ann Gehan/The Information&rpar;](https://www.techmeme.com/260625/p49#a260625p49)
- - [Chipmaker Onsemi agrees to buy Synaptics in a nearly $7B all-stock deal expected to close in the middle of 2027; ON drops 9%+ and SYNA jumps 11%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260625/p48#a260625p48)<!-- TECH:END -->
+ - [Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data](https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/)
+ - [NHTSA proposes eliminating the mandate for manual brake pedals in &quot;vehicles designed to be driven exclusively by automated driving systems&quot; &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260625/p53#a260625p53)
+ - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
+ - [Here We Go Again: Microsoft Raises Xbox Prices Amid Memory Shortage](https://www.cnet.com/tech/gaming/microsoft-raises-xbox-prices-memory-shortage/)
+ - [Android 17&amp;#8217;s new foldable gaming mode could make flippy phones more fun](https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

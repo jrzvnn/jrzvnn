@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Amazon seller reveals how middlemen on chat apps offer access to Amazon employees who allegedly grant favors, like reinstating suspended accounts, for a fee &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260624/p48#a260624p48)
- - [The Skylight Calendar Is One of My Favorite Products On Sale for Prime Day](https://www.wired.com/story/skylight-calendar-prime-day-deal-2026/)
- - [Hang Ten Systems, led by former Infosys CEO Vishal Sikka, launches with a $32M seed led by Mayfield to help enterprises use AI to run software at a lower cost &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260624/p47#a260624p47)
- - [Meta Halts Employee Data Tracking After Sensitive Info Reportedly Exposed](https://www.cnet.com/tech/services-and-software/meta-backs-off-data-tracking-of-employees-train-ai-models/)
- - [Heavys H1H headphones review: Better for rock listeners than AirPods Max, for half the price](https://appleinsider.com/articles/26/06/25/heavys-h1h-headphones-review-better-for-rock-listeners-than-airpods-max-for-half-the-price?utm_source=rss)<!-- TECH:END -->
+ - [Paris-based Tsuga, whose observability software runs in customers&#39; own clouds to help them skip per-byte ingestion costs, raised a $35M Series A led by Singular &lpar;Ana Maria Constantin/The Next Web&rpar;](https://www.techmeme.com/260625/p7#a260625p7)
+ - [TRM Labs: Iran-linked wallets, including those tied to Iran&#39;s central bank, have moved over $3.84B in transactions through the crypto exchange CoinEx since 2019 &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260625/p6#a260625p6)
+ - [NAND flash maker Kioxia, Japan&#39;s most valuable company since June 12, plans to offer US depositary shares in spring 2027 amid AI-driven demand for memory chips &lpar;Bloomberg&rpar;](https://www.techmeme.com/260625/p5#a260625p5)
+ - [Sources: Meta is accelerating plans to use LLMs to review content and ads, replacing ~50% of human review requests in 2026 and aiming for 90% by year-end &lpar;Financial Times&rpar;](https://www.techmeme.com/260625/p4#a260625p4)
+ - [New Zealand-based Partly, which develops an AI model for the auto parts industry, raised a $50M Series B led by DST at a $500M valuation, as it enters the US &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260625/p3#a260625p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stock closed down 6.15% on Thursday after the company raised some product prices, its worst fall since April 2025 &lpar;MacKenzie Sigalos/CNBC&rpar;](https://www.techmeme.com/260625/p44#a260625p44)
- - [Score a discounted Xbox console before the prices jump](https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale)
- - [Story Protocol, a blockchain-based IP ownership network that raised $140M, rebrands as Data Foundation to build an on-chain registry for AI training data &lpar;Olivier Acuna/CoinDesk&rpar;](https://www.techmeme.com/260625/p43#a260625p43)
- - [Instagram wants to monopolize your attention](https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video)
- - [The US awards $250M in CHIPS funds to a startup co-founded by billionaire mining magnate Robert Friedland to develop silicon-carbide chips and pulsed-power tech &lpar;James Attwood/Bloomberg&rpar;](https://www.techmeme.com/260625/p42#a260625p42)<!-- TECH:END -->
+ - [Patronus AI, which builds simulated digital environments for evaluating AI agents, raised a $50M Series B led by Greenfield, bringing its total funding to $70M &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260625/p51#a260625p51)
+ - [OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)
+ - [Om Malik, a longtime technology writer, founder of Gigaom, and a partner at True Ventures, died on Wednesday at 59 &lpar;Om Malik/On my Om&rpar;](https://www.techmeme.com/260625/p50#a260625p50)
+ - [Source: Google is asking publishers that test new AI features in Google News to grant it broad rights to their content, including to potentially train AI models &lpar;Ann Gehan/The Information&rpar;](https://www.techmeme.com/260625/p49#a260625p49)
+ - [Chipmaker Onsemi agrees to buy Synaptics in a nearly $7B all-stock deal expected to close in the middle of 2027; ON drops 9%+ and SYNA jumps 11%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260625/p48#a260625p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

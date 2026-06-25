@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - 😝 [Last men standing](http://9gag.com/gag/aYQ9OOx)
- - 💣 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
- - 😝 [Helping her friend to write an essay, such a kind hearted young lady!](http://9gag.com/gag/aAyjKGE)
- - 👉 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)<!-- MEMES:END -->
+ - 😝 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)
+ - 😝 [Dicaprio finally dating someone over 25, the internet wins](http://9gag.com/gag/a87ZDG1)
+ - 💣 [Citizen Vigilante!!](http://9gag.com/gag/aNDNVgK)
+ - 😝 [Hear me out...](http://9gag.com/gag/a2ve0QZ)
+ - 👉 [Quantum Mechanics](http://9gag.com/gag/aXPB4b2)<!-- MEMES:END -->
 
 ---
 

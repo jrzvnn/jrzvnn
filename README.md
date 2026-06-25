@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Prime Day Fitness Tech Deals &lpar;2026&rpar; Up to $250 Off](https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/)
- - [Sources and a draft document: the US proposes that the EU sign on to an AI partnership to help secure chip supply chains; the one-page statement had few details &lpar;Alberto Nardelli/Bloomberg&rpar;](https://www.techmeme.com/260625/p29#a260625p29)
- - [Sony&#39;s Bungie says it is laying off a &quot;significant number of employees&quot;, including &quot;most of the Destiny team&quot;; Bungie has an estimated headcount of 800 &lpar;Ethan Gach/Kotaku&rpar;](https://www.techmeme.com/260625/p28#a260625p28)
- - [Stop Mowing Your Grass Forever With One of These Highly Rated Robot Mowers On Sale](https://www.wired.com/story/amazon-prime-day-robot-mower-deals-june-2026/)
- - [From Apple AirPods to Ninja Slushis, These Are the 164+ Prime Day Sales Actually Worth Buying](https://www.cnet.com/news-live/prime-day-live-blog-2026-06-25/)<!-- TECH:END -->
+ - [It&amp;#8217;s a bad time to want a new computer](https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve)
+ - [Netris, which helps neoclouds automate network configuration to bring their data centers online faster, raised a $15M Series A from a16z &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260625/p40#a260625p40)
+ - [You won&amp;#8217;t have long to get these iPad deals before Apple&amp;#8217;s price hike](https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes)
+ - [Polestar has been muscled out of the US market](https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software)
+ - [A Fatal Tesla Crash in Texas Sets Up a Legal Showdown](https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

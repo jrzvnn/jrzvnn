@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Prime Day Apple Deals Offering Up to 30% Off: iPad, Apple Watch, MacBooks, and More &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/)
- - [Coval, which develops simulation and evaluation tech for testing, launching, and monitoring AI voice and chat agents, raised a $28M Series A led by Norwest &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260625/p11#a260625p11)
- - [99 Prime Day Deals on Gear We Stand By, Up To 50% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/)
- - [As China&#39;s working-age population shrinks, a consensus is emerging that it must deploy embodied AI robots into as many tasks as possible, as soon as possible &lpar;Financial Times&rpar;](https://www.techmeme.com/260625/p10#a260625p10)
- - [How a $45M donation to a group supporting Trump brought Larry Ellison deeper into Trump&#39;s circle, helped Oracle&#39;s business, and his son&#39;s acquisition of WBD &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260625/p9#a260625p9)<!-- TECH:END -->
+ - [The 23 Best Amazon Prime Day Deals Under $30 We&#39;ve Found &lpar;2026&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-25-2026/)
+ - [OpenAI, Anthropic, Amazon, Microsoft, and others launch Raise Us, a new non-profit led by ex-Commerce Secretary Gina Raimondo to help US workers adapt to AI &lpar;Lydia DePillis/New York Times&rpar;](https://www.techmeme.com/260625/p20#a260625p20)
+ - [World Cup Teams Are in a Race for AI Dominance](https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/)
+ - [Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers](https://www.theverge.com/streaming/956712/disney-youtube-tv-directv-streaming-settlement)
+ - [Amazon Prime Day 3 is for the Real Heads, And We&#39;re Live-Blogging For Them](https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

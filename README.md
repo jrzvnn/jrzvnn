@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
- - 😝 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
- - 💣 [Gag reflex, will you try it ?](http://9gag.com/gag/aAyjEmZ)
- - 😝 [Do the dog](http://9gag.com/gag/aMVgmNA)
- - 👉 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
+ - 😝 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
+ - 😝 [Gag reflex, will you try it ?](http://9gag.com/gag/aAyjEmZ)
+ - 💣 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
+ - 😝 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)
+ - 👉 [Things that will never happen to you](http://9gag.com/gag/ae9LOBm)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Tsuga, whose observability software runs in customers&#39; own clouds to help them skip per-byte ingestion costs, raised a $35M Series A led by Singular &lpar;Ana Maria Constantin/The Next Web&rpar;](https://www.techmeme.com/260625/p7#a260625p7)
- - [TRM Labs: Iran-linked wallets, including those tied to Iran&#39;s central bank, have moved over $3.84B in transactions through the crypto exchange CoinEx since 2019 &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260625/p6#a260625p6)
- - [NAND flash maker Kioxia, Japan&#39;s most valuable company since June 12, plans to offer US depositary shares in spring 2027 amid AI-driven demand for memory chips &lpar;Bloomberg&rpar;](https://www.techmeme.com/260625/p5#a260625p5)
- - [Sources: Meta is accelerating plans to use LLMs to review content and ads, replacing ~50% of human review requests in 2026 and aiming for 90% by year-end &lpar;Financial Times&rpar;](https://www.techmeme.com/260625/p4#a260625p4)
- - [New Zealand-based Partly, which develops an AI model for the auto parts industry, raised a $50M Series B led by DST at a $500M valuation, as it enters the US &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260625/p3#a260625p3)<!-- TECH:END -->
+ - [17 Best Prime Day Apple Deals Offering Up to 30% Off: iPad, Apple Watch, MacBooks, and More &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/)
+ - [Coval, which develops simulation and evaluation tech for testing, launching, and monitoring AI voice and chat agents, raised a $28M Series A led by Norwest &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260625/p11#a260625p11)
+ - [99 Prime Day Deals on Gear We Stand By, Up To 50% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/)
+ - [As China&#39;s working-age population shrinks, a consensus is emerging that it must deploy embodied AI robots into as many tasks as possible, as soon as possible &lpar;Financial Times&rpar;](https://www.techmeme.com/260625/p10#a260625p10)
+ - [How a $45M donation to a group supporting Trump brought Larry Ellison deeper into Trump&#39;s circle, helped Oracle&#39;s business, and his son&#39;s acquisition of WBD &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260625/p9#a260625p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

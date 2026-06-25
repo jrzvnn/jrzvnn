@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone, Apple Watch &amp; AirPods escape Apple&#39;s latest price increases](https://appleinsider.com/articles/26/06/25/iphone-apple-watch-airpods-escape-apples-latest-price-increases?utm_source=rss)
- - [Apple confirms price hikes across Macs, iPads, and more](https://appleinsider.com/articles/26/06/25/apple-confirms-price-nikes-across-macs-ipads-and-more?utm_source=rss)
- - [Apple Store was down, to implement price hikes](https://appleinsider.com/articles/26/06/25/apple-store-is-down-for-one-of-two-reasons?utm_source=rss)
- - [Best Prime Day Action Cameras Deals I&#39;ve Found &lpar;2026&rpar;: GoPro, Insta360, DJI](https://www.wired.com/story/prime-day-camera-deals-06-25-2026/)
- - [Sources: Google expands the scope of its months-old AI coding strike team to &quot;midtraining&quot; to better compete with Anthropic, after key executive departures &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260625/p27#a260625p27)<!-- TECH:END -->
+ - [12 Best Prime Day Fitness Tech Deals &lpar;2026&rpar; Up to $250 Off](https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/)
+ - [Sources and a draft document: the US proposes that the EU sign on to an AI partnership to help secure chip supply chains; the one-page statement had few details &lpar;Alberto Nardelli/Bloomberg&rpar;](https://www.techmeme.com/260625/p29#a260625p29)
+ - [Sony&#39;s Bungie says it is laying off a &quot;significant number of employees&quot;, including &quot;most of the Destiny team&quot;; Bungie has an estimated headcount of 800 &lpar;Ethan Gach/Kotaku&rpar;](https://www.techmeme.com/260625/p28#a260625p28)
+ - [Stop Mowing Your Grass Forever With One of These Highly Rated Robot Mowers On Sale](https://www.wired.com/story/amazon-prime-day-robot-mower-deals-june-2026/)
+ - [From Apple AirPods to Ninja Slushis, These Are the 164+ Prime Day Sales Actually Worth Buying](https://www.cnet.com/news-live/prime-day-live-blog-2026-06-25/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based digital health insurance startup Alan raised €480M led by Prosus at a €5.5B valuation, and is set for €1B+ in annual recurring revenue by year&#39;s end &lpar;Tim Bradshaw/Financial Times&rpar;](https://www.techmeme.com/260624/p45#a260624p45)
- - [Utah Senate President J. Stuart Adams, who championed a huge data center beside the Great Salt Lake, lost his Republican primary on Tuesday after voter backlash &lpar;Jack Healy/New York Times&rpar;](https://www.techmeme.com/260624/p44#a260624p44)
- - [Best Prime Day Deals on LED Masks and Hair Growth Tools That Actually Work](https://www.wired.com/story/best-led-devices-prime-day-deals-2026/)
- - [97 Prime Day Deals on Gear We Stand By, Up To 50% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/)
- - [How to Opt Out of Google Search’s New AI Data Training Feature](https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/)<!-- TECH:END -->
+ - [An Amazon seller reveals how middlemen on chat apps offer access to Amazon employees who allegedly grant favors, like reinstating suspended accounts, for a fee &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260624/p48#a260624p48)
+ - [The Skylight Calendar Is One of My Favorite Products On Sale for Prime Day](https://www.wired.com/story/skylight-calendar-prime-day-deal-2026/)
+ - [Hang Ten Systems, led by former Infosys CEO Vishal Sikka, launches with a $32M seed led by Mayfield to help enterprises use AI to run software at a lower cost &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260624/p47#a260624p47)
+ - [Meta Halts Employee Data Tracking After Sensitive Info Reportedly Exposed](https://www.cnet.com/tech/services-and-software/meta-backs-off-data-tracking-of-employees-train-ai-models/)
+ - [Heavys H1H headphones review: Better for rock listeners than AirPods Max, for half the price](https://appleinsider.com/articles/26/06/25/heavys-h1h-headphones-review-better-for-rock-listeners-than-airpods-max-for-half-the-price?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

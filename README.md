@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)
- - 😝 [Dicaprio finally dating someone over 25, the internet wins](http://9gag.com/gag/a87ZDG1)
- - 💣 [Citizen Vigilante!!](http://9gag.com/gag/aNDNVgK)
- - 😝 [Hear me out...](http://9gag.com/gag/a2ve0QZ)
- - 👉 [Quantum Mechanics](http://9gag.com/gag/aXPB4b2)<!-- MEMES:END -->
+ - 😝 [Poor Tylor Chase. Don&#39;t smoke crack kids.](http://9gag.com/gag/aGyXB3z)
+ - 😝 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
+ - 💣 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
+ - 😝 [Do the dog](http://9gag.com/gag/aMVgmNA)
+ - 👉 [Not honest work](http://9gag.com/gag/ajPpLGw)<!-- MEMES:END -->
 
 ---
 

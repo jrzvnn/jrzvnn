@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI hopes to make GPT-5.6 generally available in the coming weeks and says &quot;this kind of government access process&quot; should not become the long-term default &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260626/p17#a260626p17)
- - [I Just Saw That Eufy’s Floodlight Security Camera Is Cheaper Than Ever &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-eufy-floodlight-security-camera-june-2026/)
- - [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four)
- - [OpenAI releases three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to ~20 companies, with participants disclosed to the US government &lpar;Axios&rpar;](https://www.techmeme.com/260626/p16#a260626p16)
- - [OpenAI Has New AI Models. Here’s Why You Can’t Use Them](https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/)<!-- TECH:END -->
+ - [Uber expands the list of criminal convictions that disqualify US drivers and expands the background-check timeline, possibly removing ~0.5% of active US drivers &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260626/p21#a260626p21)
+ - [10 Best Prime Day Streaming Deals, Including Half Off Apple TV &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-streaming-deals-06-26-2026/)
+ - [Level Lock team gutting leaves unanswered questions](https://appleinsider.com/articles/26/06/26/level-lock-team-gutting-leaves-unanswered-questions?utm_source=rss)
+ - [Sources: Russian hackers were behind a 2025 ransomware attack on Jaguar Land Rover that used &quot;mind-blowing&quot; encryption and cost UK&#39;s economy an estimated $2.5B &lpar;New York Times&rpar;](https://www.techmeme.com/260626/p20#a260626p20)
+ - [How to See the Giant Asteroid That Will Pass by Earth This Weekend](https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

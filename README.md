@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data](https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/)
- - [NHTSA proposes eliminating the mandate for manual brake pedals in &quot;vehicles designed to be driven exclusively by automated driving systems&quot; &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260625/p53#a260625p53)
- - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
- - [Here We Go Again: Microsoft Raises Xbox Prices Amid Memory Shortage](https://www.cnet.com/tech/gaming/microsoft-raises-xbox-prices-memory-shortage/)
- - [Android 17&amp;#8217;s new foldable gaming mode could make flippy phones more fun](https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller)<!-- TECH:END -->
+ - [Upside, which provides social workers with AI-powered housing insights, raised a $20M Series A led by Aquiline with Flare Capital, 645, and others participating &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260625/p58#a260625p58)
+ - [Amazon&#39;s $1,149 15-inch MacBook Air deal is selling out, save up to $450 across line](https://appleinsider.com/articles/26/06/26/amazons-1149-15-inch-macbook-air-deal-is-selling-out-save-up-to-450-across-line?utm_source=rss)
+ - [How the US AI build-out is pushing up prices for electricity, software, and more; in a survey, 81% of economists say it will add to inflation over the next year &lpar;Justin Lahart/Wall Street Journal&rpar;](https://www.techmeme.com/260625/p57#a260625p57)
+ - [Anthropic Thinks Its Own Success Is Key to Making AI Safe](https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/)
+ - [Elgato 4K S review: An excellent capture card for Mac streamers](https://appleinsider.com/articles/25/08/26/elgato-4k-s-review-an-excellent-capture-card-for-mac-streamers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

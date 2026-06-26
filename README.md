@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Not honest work](http://9gag.com/gag/ajPpLGw)
- - 😝 [Good movie!](http://9gag.com/gag/aLnx4y5)
- - 💣 [Imagine missing your mother&#39;s funeral because your wife is like this](http://9gag.com/gag/aPA5exQ)
- - 😝 [Clark kent is just built different](http://9gag.com/gag/aBypG3D)
- - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
+ - 😝 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)
+ - 💣 [Good movie!](http://9gag.com/gag/aLnx4y5)
+ - 😝 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)
+ - 👉 [Imagine missing your mother&#39;s funeral because your wife is like this](http://9gag.com/gag/aPA5exQ)<!-- MEMES:END -->
 
 ---
 

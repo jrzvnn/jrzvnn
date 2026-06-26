@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But it&#39;s progress, you don&#39;t understand](http://9gag.com/gag/a2ve2KY)
  - 😝 [Are they selling soap to the team?](http://9gag.com/gag/agmWxRw)
- - 💣 [Kevin Hart could ride him like thunder cat into battle](http://9gag.com/gag/azxnR7x)
- - 😝 [Imagine what Cristiano was thinking](http://9gag.com/gag/ae9LmXW)
+ - 😝 [Kevin Hart could ride him like thunder cat into battle](http://9gag.com/gag/azxnR7x)
+ - 💣 [Busy day from the eyes of the Chef](http://9gag.com/gag/azxnZEj)
+ - 😝 [Smells like teen spirit](http://9gag.com/gag/ajPpxRp)
  - 👉 [Why we not funding this?](http://9gag.com/gag/aRBnony)<!-- MEMES:END -->
 
 ---

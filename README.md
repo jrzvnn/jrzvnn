@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quantum Mechanics](http://9gag.com/gag/aXPB4b2)
- - 😝 [A perfect job](http://9gag.com/gag/aE03oLe)
- - 💣 [Dicaprio finally dating someone over 25, the internet wins](http://9gag.com/gag/a87ZDG1)
- - 😝 [The billionaire owns this bus](http://9gag.com/gag/a87ZDxY)
- - 👉 [I dare you to make it work anywhere else in Europe](http://9gag.com/gag/a9yo5AZ)<!-- MEMES:END -->
+ - 😝 [Not honest work](http://9gag.com/gag/ajPpLGw)
+ - 😝 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)
+ - 💣 [Good movie!](http://9gag.com/gag/aLnx4y5)
+ - 😝 [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
+ - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
 
 ---
 

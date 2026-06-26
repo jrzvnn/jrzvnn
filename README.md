@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GTA 6 No or Yes](http://9gag.com/gag/aD2yZyO)
- - 😝 [Quantum Mechanics](http://9gag.com/gag/aXPB4b2)
- - 💣 [Dicaprio finally dating someone over 25, the internet wins](http://9gag.com/gag/a87ZDG1)
+ - 😝 [Not honest work](http://9gag.com/gag/ajPpLGw)
+ - 😝 [Good movie!](http://9gag.com/gag/aLnx4y5)
+ - 💣 [Imagine missing your mother&#39;s funeral because your wife is like this](http://9gag.com/gag/aPA5exQ)
  - 😝 [Clark kent is just built different](http://9gag.com/gag/aBypG3D)
- - 👉 [The billionaire owns this bus](http://9gag.com/gag/a87ZDxY)<!-- MEMES:END -->
+ - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
 
 ---
 

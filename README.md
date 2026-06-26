@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is public transport manners?](http://9gag.com/gag/azxnO5j)
- - 😝 [I can imagine many a 9gagger pulling an Uno Reverse in the situation...](http://9gag.com/gag/ae9LVGQ)
- - 💣 [I just rewatched this gem... miscuzi](http://9gag.com/gag/azxnOZq)
- - 😝 [`It was a valiant contest woman, but I was the quicker!!`](http://9gag.com/gag/amo3MQV)
- - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
+ - 😝 [But it&#39;s progress, you don&#39;t understand](http://9gag.com/gag/a2ve2KY)
+ - 😝 [Are they selling soap to the team?](http://9gag.com/gag/agmWxRw)
+ - 💣 [Kevin Hart could ride him like thunder cat into battle](http://9gag.com/gag/azxnR7x)
+ - 😝 [Imagine what Cristiano was thinking](http://9gag.com/gag/ae9LmXW)
+ - 👉 [Why we not funding this?](http://9gag.com/gag/aRBnony)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Ninja Prime Day Deals &lpar;2026&rpar; Slushi, Creami, Crispi, Cafe Luxe](https://www.wired.com/story/ninja-creami-slushi-prime-day-deals-2026/)
- - [Sources: Zuckerberg urged execs to explore Polymarket and Kalshi partnerships, as the Arena prediction app targets 100M monthly active &quot;predictors&quot; aged 18-34 &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260626/p27#a260626p27)
- - [AWS hikes prices for Nvidia GPUs in its EC2 Capacity Blocks service, which let businesses rent AI compute in advance, by 20%; Trainium chip pricing is unchanged &lpar;Catherine Perloff/The Information&rpar;](https://www.techmeme.com/260626/p26#a260626p26)
- - [Oracle&#39;s stock fell 19% this week, the steepest weekly drop since a 20% plunge in August 2001, amid concerns about its debt load and AI investments &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260626/p25#a260626p25)
- - [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four)<!-- TECH:END -->
+ - [After covering Prime Day for 36 hours over four days, this is the one thing I bought](https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor)
+ - [Prime Day Deal 2026: Fellow Espresso Series 1 Is $200 Off](https://www.wired.com/story/amazon-prime-day-deal-2026-fellow-series-1/)
+ - [Best Prime Day Vacuum Deals Offer Up to 42% Off &lpar;2026&rpar;: Shark, Dyson, Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/)
+ - [How AI-native law firms use &quot;management services organisation&quot; structures to access capital historically barred from US law firms, including PE and VC funds &lpar;Stephen Foley/Financial Times&rpar;](https://www.techmeme.com/260626/p28#a260626p28)
+ - [Ron Johnson breaks his silence on forging Apple Retail with Steve Jobs](https://appleinsider.com/articles/26/06/26/ron-johnson-breaks-his-silence-on-forging-apple-retail-with-steve-jobs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Mobile will take your $499 right now](https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit)
- - [99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/)
- - [The 28 Best Prime Day Deals Under $100 in 2026](https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/)
- - [Get Up to 36% Off With the Best Prime Day Kindle Deals &lpar;2026&rpar;: Paperwhite, Colorsoft, Kids](https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/)
- - [Best Prime Day Vacuum Deals Offer Up to 42% Off &lpar;2026&rpar;: Shark, Dyson, Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/)<!-- TECH:END -->
+ - [Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades](https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman)
+ - [These iPhone accessibility settings can make everyday tasks easier](https://appleinsider.com/inside/iphone/tips/these-iphone-accessibility-settings-can-make-everyday-tasks-easier?utm_source=rss)
+ - [Which MacBook to Buy &lpar;2026&rpar;: Neo, Air, or Pro?](https://www.wired.com/story/which-macbook-should-you-buy/)
+ - [Ivanka Trump and Jared Kushner&#39;s Island Resort Could Bring Down Albania’s Prime Minister](https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/)
+ - [It’s the last day of Prime Day — here are over 130 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

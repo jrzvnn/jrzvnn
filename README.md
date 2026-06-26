@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Donald Trump Jr. got ~$300K in Kalshi equity after becoming a strategic adviser in 2025, when Kalshi was valued at ~$2B; now it&#39;s worth $22B+ &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/260626/p10#a260626p10)
- - [Apple&amp;#8217;s AirPods Max 2 headphones are still $150 off — for now](https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale)
- - [Price hikes, new betas, and iPhone Fold, on the AppleInsider Podcast](https://appleinsider.com/articles/26/06/26/price-hikes-new-betas-and-iphone-fold-on-the-appleinsider-podcast?utm_source=rss)
- - [Q&amp;A with Tim Sweeney on his vision for a cross-platform gaming social system, Unreal Engine 6, AI&#39;s PR challenges, the state of AAA game development, and more &lpar;Tim Clark/PC Gamer&rpar;](https://www.techmeme.com/260626/p9#a260626p9)
- - [Prime Day is offering rare discounts on Philips Hue smart lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale)<!-- TECH:END -->
+ - [Xreal’s best USB-C smart glasses are $50 off, but not for long](https://www.theverge.com/gadgets/952261/xreal-one-pro-1s-smart-glasses-deal-sale)
+ - [The US Is About to Deport an Immigrant to the Center of the Ebola Crisis](https://www.wired.com/story/the-us-is-about-to-deport-an-immigrant-to-the-center-of-the-ebola-crisis/)
+ - [Prime Day is almost over, but these are still the best Apple deals I&amp;#8217;ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
+ - [It’s now the Arduino Uno Q’s turn to get a price hike](https://www.theverge.com/tech/957751/arduino-q-microcomputer-price-increase-ram-crisis)
+ - [Sources: Apple&#39;s 14&quot; and 16&quot; OLED touch screen MacBook Pros will be powered by the existing M5 Pro and M5 Max chips and have an updated industrial design &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260626/p13#a260626p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

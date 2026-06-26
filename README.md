@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX COO Gwynne Shotwell told investors during an IPO roadshow SpaceX may launch a Starlink mobile product and build its own terrestrial US network &lpar;Financial Times&rpar;](https://www.techmeme.com/260626/p3#a260626p3)
- - [Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega &lpar;Alistair Gray/Financial Times&rpar;](https://www.techmeme.com/260626/p2#a260626p2)
- - [OpenAI says 97.9% of its employees are now using Codex, up from ~40% in August 2025; non-developer usage of Codex has risen 137x for individual users &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260626/p1#a260626p1)
- - [Warp, a startup using AI to automate payroll compliance and employee management, raised a $60M Series B led by Battery, bringing its total funding to $85M &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260625/p62#a260625p62)
- - [Utah-based ecommerce tech company Redo raised an $81M Series B at a $1.25B valuation led by Smash Capital, with participation from Pelion and Cervin &lpar;David Politis/Utah Money Watch&rpar;](https://www.techmeme.com/260625/p61#a260625p61)<!-- TECH:END -->
+ - [Trump Mobile will take your $499 right now](https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit)
+ - [99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/)
+ - [The 28 Best Prime Day Deals Under $100 in 2026](https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/)
+ - [Get Up to 36% Off With the Best Prime Day Kindle Deals &lpar;2026&rpar;: Paperwhite, Colorsoft, Kids](https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/)
+ - [Best Prime Day Vacuum Deals Offer Up to 42% Off &lpar;2026&rpar;: Shark, Dyson, Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

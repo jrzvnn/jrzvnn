@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)
- - 😝 [Poor Tylor Chase. Don&#39;t smoke crack kids.](http://9gag.com/gag/aGyXB3z)
- - 💣 [Good movie!](http://9gag.com/gag/aLnx4y5)
- - 😝 [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
- - 👉 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
+ - 😝 [Global temperatures from 1880 to today](http://9gag.com/gag/aNDNB1r)
+ - 😝 [I can imagine many a 9gagger pulling an Uno Reverse in the situation...](http://9gag.com/gag/ae9LVGQ)
+ - 💣 [Why we not funding this?](http://9gag.com/gag/aRBnony)
+ - 😝 [I just rewatched this gem... miscuzi](http://9gag.com/gag/azxnOZq)
+ - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
 
 ---
 

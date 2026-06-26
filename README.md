@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upside, which provides social workers with AI-powered housing insights, raised a $20M Series A led by Aquiline with Flare Capital, 645, and others participating &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260625/p58#a260625p58)
- - [Amazon&#39;s $1,149 15-inch MacBook Air deal is selling out, save up to $450 across line](https://appleinsider.com/articles/26/06/26/amazons-1149-15-inch-macbook-air-deal-is-selling-out-save-up-to-450-across-line?utm_source=rss)
- - [How the US AI build-out is pushing up prices for electricity, software, and more; in a survey, 81% of economists say it will add to inflation over the next year &lpar;Justin Lahart/Wall Street Journal&rpar;](https://www.techmeme.com/260625/p57#a260625p57)
- - [Anthropic Thinks Its Own Success Is Key to Making AI Safe](https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/)
- - [Elgato 4K S review: An excellent capture card for Mac streamers](https://appleinsider.com/articles/25/08/26/elgato-4k-s-review-an-excellent-capture-card-for-mac-streamers?utm_source=rss)<!-- TECH:END -->
+ - [Sources: SpaceX COO Gwynne Shotwell told investors during an IPO roadshow SpaceX may launch a Starlink mobile product and build its own terrestrial US network &lpar;Financial Times&rpar;](https://www.techmeme.com/260626/p3#a260626p3)
+ - [Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega &lpar;Alistair Gray/Financial Times&rpar;](https://www.techmeme.com/260626/p2#a260626p2)
+ - [OpenAI says 97.9% of its employees are now using Codex, up from ~40% in August 2025; non-developer usage of Codex has risen 137x for individual users &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260626/p1#a260626p1)
+ - [Warp, a startup using AI to automate payroll compliance and employee management, raised a $60M Series B led by Battery, bringing its total funding to $85M &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260625/p62#a260625p62)
+ - [Utah-based ecommerce tech company Redo raised an $81M Series B at a $1.25B valuation led by Smash Capital, with participation from Pelion and Cervin &lpar;David Politis/Utah Money Watch&rpar;](https://www.techmeme.com/260625/p61#a260625p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

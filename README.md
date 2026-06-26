@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades](https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman)
- - [These iPhone accessibility settings can make everyday tasks easier](https://appleinsider.com/inside/iphone/tips/these-iphone-accessibility-settings-can-make-everyday-tasks-easier?utm_source=rss)
- - [Which MacBook to Buy &lpar;2026&rpar;: Neo, Air, or Pro?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [Ivanka Trump and Jared Kushner&#39;s Island Resort Could Bring Down Albania’s Prime Minister](https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/)
- - [It’s the last day of Prime Day — here are over 130 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four)<!-- TECH:END -->
+ - [Sources: Donald Trump Jr. got ~$300K in Kalshi equity after becoming a strategic adviser in 2025, when Kalshi was valued at ~$2B; now it&#39;s worth $22B+ &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/260626/p10#a260626p10)
+ - [Apple&amp;#8217;s AirPods Max 2 headphones are still $150 off — for now](https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale)
+ - [Price hikes, new betas, and iPhone Fold, on the AppleInsider Podcast](https://appleinsider.com/articles/26/06/26/price-hikes-new-betas-and-iphone-fold-on-the-appleinsider-podcast?utm_source=rss)
+ - [Q&amp;A with Tim Sweeney on his vision for a cross-platform gaming social system, Unreal Engine 6, AI&#39;s PR challenges, the state of AAA game development, and more &lpar;Tim Clark/PC Gamer&rpar;](https://www.techmeme.com/260626/p9#a260626p9)
+ - [Prime Day is offering rare discounts on Philips Hue smart lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

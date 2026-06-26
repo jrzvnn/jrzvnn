@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xreal’s best USB-C smart glasses are $50 off, but not for long](https://www.theverge.com/gadgets/952261/xreal-one-pro-1s-smart-glasses-deal-sale)
- - [The US Is About to Deport an Immigrant to the Center of the Ebola Crisis](https://www.wired.com/story/the-us-is-about-to-deport-an-immigrant-to-the-center-of-the-ebola-crisis/)
- - [Prime Day is almost over, but these are still the best Apple deals I&amp;#8217;ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
- - [It’s now the Arduino Uno Q’s turn to get a price hike](https://www.theverge.com/tech/957751/arduino-q-microcomputer-price-increase-ram-crisis)
- - [Sources: Apple&#39;s 14&quot; and 16&quot; OLED touch screen MacBook Pros will be powered by the existing M5 Pro and M5 Max chips and have an updated industrial design &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260626/p13#a260626p13)<!-- TECH:END -->
+ - [OpenAI hopes to make GPT-5.6 generally available in the coming weeks and says &quot;this kind of government access process&quot; should not become the long-term default &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260626/p17#a260626p17)
+ - [I Just Saw That Eufy’s Floodlight Security Camera Is Cheaper Than Ever &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-eufy-floodlight-security-camera-june-2026/)
+ - [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four)
+ - [OpenAI releases three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to ~20 companies, with participants disclosed to the US government &lpar;Axios&rpar;](https://www.techmeme.com/260626/p16#a260626p16)
+ - [OpenAI Has New AI Models. Here’s Why You Can’t Use Them](https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

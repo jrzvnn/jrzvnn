@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After covering Prime Day for 36 hours over four days, this is the one thing I bought](https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor)
- - [Prime Day Deal 2026: Fellow Espresso Series 1 Is $200 Off](https://www.wired.com/story/amazon-prime-day-deal-2026-fellow-series-1/)
- - [Best Prime Day Vacuum Deals Offer Up to 42% Off &lpar;2026&rpar;: Shark, Dyson, Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/)
- - [How AI-native law firms use &quot;management services organisation&quot; structures to access capital historically barred from US law firms, including PE and VC funds &lpar;Stephen Foley/Financial Times&rpar;](https://www.techmeme.com/260626/p28#a260626p28)
- - [Ron Johnson breaks his silence on forging Apple Retail with Steve Jobs](https://appleinsider.com/articles/26/06/26/ron-johnson-breaks-his-silence-on-forging-apple-retail-with-steve-jobs?utm_source=rss)<!-- TECH:END -->
+ - [Film Critics Are Thrilled Universal Is Skipping Influencer Screenings for ‘The Odyssey’](https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/)
+ - [Letter: the US lifts its block on Mythos 5, allowing Anthropic to release it to more than 100 US institutions; sources: talks about Fable 5 are ongoing &lpar;Semafor&rpar;](https://www.techmeme.com/260626/p30#a260626p30)
+ - [Prime Day Ends Soon. Shop 215+ Deals on Apple, Nintendo and More Before They&#39;re Gone](https://www.cnet.com/news-live/prime-day-live-blog-2026/)
+ - [Sources: Anthropic and the White House are moving closer to an agreement to lift US restrictions on Fable 5 and Mythos 5 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260626/p29#a260626p29)
+ - [After covering Prime Day for 36 hours over four days, this is the one thing I bought](https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

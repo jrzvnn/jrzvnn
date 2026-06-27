@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LSEG: tech companies have raised $3.1B from mainland China stock market listings YTD, up 5x+ from a year earlier, as AI and chip companies drive onshore IPOs &lpar;Reuters&rpar;](https://www.techmeme.com/260627/p14#a260627p14)
+ - [Best Desks of 2026: I’ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/)
  - [The rapid pace of AI progress has created a pervasive fear of missing out across Silicon Valley, fueling anxiety among founders, executives, employees, and VCs &lpar;Bloomberg&rpar;](https://www.techmeme.com/260627/p13#a260627p13)
  - [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 28 #847](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-28-847/)
- - [Today&#39;s Wordle Hints, Answer and Help for June 28, #1835](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-28-1835/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 28, #1113](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-28-1113/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 28 #847](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-28-847/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

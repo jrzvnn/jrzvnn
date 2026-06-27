@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now what?](http://9gag.com/gag/apRObyn)
- - 😝 [Mexico after the win](http://9gag.com/gag/aBypPpZ)
- - 💣 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)
+ - 😝 [Uk van driver gives armed police officer a lift to catch the baddies](http://9gag.com/gag/a9yoXbo)
+ - 😝 [Bring back the judgment](http://9gag.com/gag/a6ZPpDN)
+ - 💣 [Smells like teen spirit](http://9gag.com/gag/ajPpxRp)
  - 😝 [The Jackass: Best and Last drone show delivered exactly the kind of chaos you hope for.](http://9gag.com/gag/aO8w1Pv)
- - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
+ - 👉 [Gaming pc](http://9gag.com/gag/aZZeEw6)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sports clips&#39; rise on platforms like YouTube has left broadcasters debating whether to use them to attract younger viewers or protect their subscription revenue &lpar;Lillian Rizzo/CNBC&rpar;](https://www.techmeme.com/260627/p12#a260627p12)
- - [Margaret Atwood says the problem with AI is &amp;#8216;garbage in, garbage out&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)
- - [62 Last Minute Prime Day Weekend Deals: Up to 45% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/)
- - [Tokyo-based Sakana AI&#39;s Fugu and China-based 360&#39;s cybersecurity model Tulongfeng claim to rival Anthropic&#39;s banned Mythos and Fable 5 amid the US export ban &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260627/p11#a260627p11)
- - [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt)<!-- TECH:END -->
+ - [The rapid pace of AI progress has created a pervasive fear of missing out across Silicon Valley, fueling anxiety among founders, executives, employees, and VCs &lpar;Bloomberg&rpar;](https://www.techmeme.com/260627/p13#a260627p13)
+ - [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 28 #847](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-28-847/)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 28, #1835](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-28-1835/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 28, #1113](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-28-1113/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

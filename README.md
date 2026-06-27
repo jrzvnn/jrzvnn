@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PSA: Lifetime Plex Plan goes from $249.99 to a painful $749.99 on July 1](https://appleinsider.com/articles/26/06/27/psa-lifetime-plex-plan-goes-from-24999-to-a-painful-74999-on-july-1?utm_source=rss)
  - [AI executives and lobbyists say they are seeking regulatory clarity from the Trump administration but are wary of pressing for answers, fearing retaliation &lpar;Politico&rpar;](https://www.techmeme.com/260627/p10#a260627p10)
  - [A look at South Korea&#39;s four vocational &quot;meister&quot; schools that train students to work in semiconductor manufacturing, leading to jobs at Samsung and SK Hynix &lpar;Max Kim/New York Times&rpar;](https://www.techmeme.com/260627/p9#a260627p9)
  - [The Guardian&amp;#8217;s Kai Wright refuses to buy a new phone](https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire)
- - [Apple Prime Day deals are still live, save up to $650 on Mac, iPad, AirPods](https://appleinsider.com/articles/26/06/27/apple-prime-day-deals-are-still-live-save-up-to-650-on-mac-ipad-airpods?utm_source=rss)
- - [Source: the Trump administration is close to allowing Anthropic to restore access to Fable 5; limits could be lifted as soon as this coming week &lpar;Axios&rpar;](https://www.techmeme.com/260627/p8#a260627p8)<!-- TECH:END -->
+ - [Apple Prime Day deals are still live, save up to $650 on Mac, iPad, AirPods](https://appleinsider.com/articles/26/06/27/apple-prime-day-deals-are-still-live-save-up-to-650-on-mac-ipad-airpods?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

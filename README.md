@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI executives and lobbyists say they are seeking regulatory clarity from the Trump administration but are wary of pressing for answers, fearing retaliation &lpar;Politico&rpar;](https://www.techmeme.com/260627/p10#a260627p10)
+ - [A look at South Korea&#39;s four vocational &quot;meister&quot; schools that train students to work in semiconductor manufacturing, leading to jobs at Samsung and SK Hynix &lpar;Max Kim/New York Times&rpar;](https://www.techmeme.com/260627/p9#a260627p9)
+ - [The Guardian&amp;#8217;s Kai Wright refuses to buy a new phone](https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire)
  - [Apple Prime Day deals are still live, save up to $650 on Mac, iPad, AirPods](https://appleinsider.com/articles/26/06/27/apple-prime-day-deals-are-still-live-save-up-to-650-on-mac-ipad-airpods?utm_source=rss)
- - [Source: the Trump administration is close to allowing Anthropic to restore access to Fable 5; limits could be lifted as soon as this coming week &lpar;Axios&rpar;](https://www.techmeme.com/260627/p8#a260627p8)
- - [Indie developers got tired of waiting for a new Star Fox, so they’re making their own](https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games)
- - [Polymarket says its annualized revenue is now $1B+; Dune Analytics: daily volume on Polymarket&#39;s US platform rose from ~$50M in mid-May to $200M+ by June 20 &lpar;Davis Giangiulio/CNBC&rpar;](https://www.techmeme.com/260627/p7#a260627p7)
- - [Why is Apple asking me to pay more for Big Tech’s AI obsession?](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)<!-- TECH:END -->
+ - [Source: the Trump administration is close to allowing Anthropic to restore access to Fable 5; limits could be lifted as soon as this coming week &lpar;Axios&rpar;](https://www.techmeme.com/260627/p8#a260627p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

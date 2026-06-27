@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is public transport manners?](http://9gag.com/gag/azxnO5j)
- - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 💣 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)
+ - 😝 [Imagine what Cristiano was thinking](http://9gag.com/gag/ae9LmXW)
+ - 😝 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)
+ - 💣 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
  - 😝 [The Jackass: Best and Last drone show delivered exactly the kind of chaos you hope for.](http://9gag.com/gag/aO8w1Pv)
- - 👉 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
+ - 👉 [I just rewatched this gem... miscuzi](http://9gag.com/gag/azxnOZq)<!-- MEMES:END -->
 
 ---
 

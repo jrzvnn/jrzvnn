@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 28 Best Deals Under $100 Before Prime Day Ends](https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/)
- - [Anthropic says the US government is allowing Mythos 5 to be redeployed to critical infrastructure operators, and is working to restore general access to Fable 5 &lpar;@anthropicai&rpar;](https://www.techmeme.com/260626/p32#a260626p32)
- - [99 Last Minute Prime Day Deals: Up to 50% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/)
- - [The 17 best robot vacuum deals you can still get before Prime Day ends](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
- - [Anthropic&amp;#8217;s Mythos 5 is back](https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations)<!-- TECH:END -->
+ - [Japanese financial giant SBI Holdings agrees to acquire Bitbank, a top 10 Japanese crypto exchange by trading activity, for ~$289M, set to close in October &lpar;Jamie Crawley/CoinDesk&rpar;](https://www.techmeme.com/260627/p3#a260627p3)
+ - [Source: Intel has promised to deliver SpaceX and Apple a toolkit this fall to test its 14A node before they make final commitments to produce chips with Intel &lpar;Tripp Mickle/New York Times&rpar;](https://www.techmeme.com/260627/p2#a260627p2)
+ - [Insurance tech startup Corgi denies accusations that it used Papermark&#39;s open source software code to develop its software and present it as its own &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260627/p1#a260627p1)
+ - [Sources: the CFTC began an extensive investigation of Polymarket earlier this year; the agency&#39;s former acting head killed a separate investigation in July 2025 &lpar;New York Times&rpar;](https://www.techmeme.com/260626/p35#a260626p35)
+ - [Sources: Apple is lobbying the Trump admin for clearance to buy memory chips from US-blacklisted Chinese company CXMT to ease pressure from rising chip prices &lpar;Financial Times&rpar;](https://www.techmeme.com/260626/p34#a260626p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

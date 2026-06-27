@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine missing your mother&#39;s funeral because your wife is like this](http://9gag.com/gag/aPA5exQ)
- - 😝 [More parents need to hold their kids accountable rather than blindly defending them.](http://9gag.com/gag/amo3V19)
- - 💣 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)
+ - 😝 [Gaming pc](http://9gag.com/gag/aZZeEw6)
+ - 😝 [Combining stand-up comedy and magic](http://9gag.com/gag/an76Dr0)
+ - 💣 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)
  - 😝 [The Jackass: Best and Last drone show delivered exactly the kind of chaos you hope for.](http://9gag.com/gag/aO8w1Pv)
- - 👉 [Post your best photos that make you look twice in the comments](http://9gag.com/gag/a87Z2pp)<!-- MEMES:END -->
+ - 👉 [Bring back the judgment](http://9gag.com/gag/a6ZPpDN)<!-- MEMES:END -->
 
 ---
 

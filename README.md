@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Now what?](http://9gag.com/gag/apRObyn)
- - 😝 [Post your best photos that make you look twice in the comments](http://9gag.com/gag/a87Z2pp)
- - 💣 [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
+ - 😝 [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
+ - 💣 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)
  - 😝 [The Jackass: Best and Last drone show delivered exactly the kind of chaos you hope for.](http://9gag.com/gag/aO8w1Pv)
- - 👉 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)<!-- MEMES:END -->
+ - 👉 [What is public transport manners?](http://9gag.com/gag/azxnO5j)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine what Cristiano was thinking](http://9gag.com/gag/ae9LmXW)
- - 😝 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)
- - 💣 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
+ - 😝 [He looks prehistoric](http://9gag.com/gag/aGyXOw0)
+ - 😝 [Now what?](http://9gag.com/gag/apRObyn)
+ - 💣 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)
  - 😝 [The Jackass: Best and Last drone show delivered exactly the kind of chaos you hope for.](http://9gag.com/gag/aO8w1Pv)
- - 👉 [I just rewatched this gem... miscuzi](http://9gag.com/gag/azxnOZq)<!-- MEMES:END -->
+ - 👉 [Looks like sisters](http://9gag.com/gag/aMVgXPX)<!-- MEMES:END -->
 
 ---
 

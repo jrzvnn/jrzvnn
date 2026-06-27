@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Film Critics Are Thrilled Universal Is Skipping Influencer Screenings for ‘The Odyssey’](https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/)
- - [Letter: the US lifts its block on Mythos 5, allowing Anthropic to release it to more than 100 US institutions; sources: talks about Fable 5 are ongoing &lpar;Semafor&rpar;](https://www.techmeme.com/260626/p30#a260626p30)
- - [Prime Day Ends Soon. Shop 215+ Deals on Apple, Nintendo and More Before They&#39;re Gone](https://www.cnet.com/news-live/prime-day-live-blog-2026/)
- - [Sources: Anthropic and the White House are moving closer to an agreement to lift US restrictions on Fable 5 and Mythos 5 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260626/p29#a260626p29)
- - [After covering Prime Day for 36 hours over four days, this is the one thing I bought](https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor)<!-- TECH:END -->
+ - [The 28 Best Deals Under $100 Before Prime Day Ends](https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/)
+ - [Anthropic says the US government is allowing Mythos 5 to be redeployed to critical infrastructure operators, and is working to restore general access to Fable 5 &lpar;@anthropicai&rpar;](https://www.techmeme.com/260626/p32#a260626p32)
+ - [99 Last Minute Prime Day Deals: Up to 50% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/)
+ - [The 17 best robot vacuum deals you can still get before Prime Day ends](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
+ - [Anthropic&amp;#8217;s Mythos 5 is back](https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

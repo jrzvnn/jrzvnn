@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gaming pc](http://9gag.com/gag/aZZeEw6)
- - 😝 [Combining stand-up comedy and magic](http://9gag.com/gag/an76Dr0)
- - 💣 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)
+ - 😝 [What is public transport manners?](http://9gag.com/gag/azxnO5j)
+ - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
+ - 💣 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)
  - 😝 [The Jackass: Best and Last drone show delivered exactly the kind of chaos you hope for.](http://9gag.com/gag/aO8w1Pv)
- - 👉 [Bring back the judgment](http://9gag.com/gag/a6ZPpDN)<!-- MEMES:END -->
+ - 👉 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
 
 ---
 

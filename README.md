@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple asks Trump to let it buy memory from a blacklisted supplier](https://appleinsider.com/articles/26/06/27/apple-asks-trump-to-let-it-buy-memory-from-a-blacklisted-supplier?utm_source=rss)
- - [Amazon&#39;s $1,149 1TB MacBook Air M5 deal has been extended, save $450](https://appleinsider.com/articles/26/06/27/amazons-1149-1tb-macbook-air-m5-deal-has-been-extended-save-450?utm_source=rss)
- - [Your Samsung Galaxy S26 Ultra Can Take Better Photos by Changing Just a Few Settings](https://www.cnet.com/tech/mobile/your-samsung-galaxy-s26-ultra-can-take-better-photos-by-changing-just-a-few-settings/)
- - [This puzzle game&amp;#8217;s simple premise hides surprising depth](https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android)
- - [This might be the new best smart speaker](https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer)<!-- TECH:END -->
+ - [Apple Prime Day deals are still live, save up to $650 on Mac, iPad, AirPods](https://appleinsider.com/articles/26/06/27/apple-prime-day-deals-are-still-live-save-up-to-650-on-mac-ipad-airpods?utm_source=rss)
+ - [Source: the Trump administration is close to allowing Anthropic to restore access to Fable 5; limits could be lifted as soon as this coming week &lpar;Axios&rpar;](https://www.techmeme.com/260627/p8#a260627p8)
+ - [Indie developers got tired of waiting for a new Star Fox, so they’re making their own](https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games)
+ - [Polymarket says its annualized revenue is now $1B+; Dune Analytics: daily volume on Polymarket&#39;s US platform rose from ~$50M in mid-May to $200M+ by June 20 &lpar;Davis Giangiulio/CNBC&rpar;](https://www.techmeme.com/260627/p7#a260627p7)
+ - [Why is Apple asking me to pay more for Big Tech’s AI obsession?](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 37 Best Outdoor Deals From the REI 4th of July Sale](https://www.wired.com/story/rei-4th-of-july-sale-2026/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 27, #642](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-27-642/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 27, #1112](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-27-1112/)
- - [Today&#39;s Wordle Hints, Answer and Help for June 27, #1834](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-27-1834/)
- - [Why Venezuela’s Second Earthquake Was So Damaging to Buildings](https://www.wired.com/story/why-venezuelas-second-earthquake-so-damaging-to-buildings/)<!-- TECH:END -->
+ - [Duer’s Wear-Everywhere Pants Are on Sale This Weekend](https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/)
+ - [Streaming services must comply with a California law that bans playing ads louder than the content being watched from July 1, but its implementation is unclear &lpar;Scharon Harding/Ars Technica&rpar;](https://www.techmeme.com/260627/p6#a260627p6)
+ - [Does DeleteMe Actually Get Your Info off the Internet? I Tried It](https://www.wired.com/story/i-tried-deleteme-the-original-data-broker-removal-service/)
+ - [Security News This Week: LastPass Users Had Their Data Stolen—Again](https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/)
+ - [The 37 Best Outdoor Deals From the REI 4th of July Sale](https://www.wired.com/story/rei-4th-of-july-sale-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

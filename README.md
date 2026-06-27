@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amid Amazon&#39;s Robot Surge, Proteus Charts a New Path Forward](https://www.cnet.com/tech/amid-amazons-robot-surge-proteus-charts-a-new-path-forward/)
- - [A look at advanced chip packaging, now more reliant on TSMC and its partners in Taiwan than ever, and the efforts to address this bottleneck in the US &lpar;Don Clark/New York Times&rpar;](https://www.techmeme.com/260627/p5#a260627p5)
- - [Sources: Meituan, Baidu, Xiaomi, and other Chinese tech giants have been trimming their workforces, fueling Chinese workers&#39; concerns of being replaced by AI &lpar;Wency Chen/South China Morning Post&rpar;](https://www.techmeme.com/260627/p4#a260627p4)
- - [Japanese financial giant SBI agrees to acquire Bitbank, a top 10 Japanese crypto exchange by trading activity, for ~$289M, with the deal set to close in October &lpar;Jamie Crawley/CoinDesk&rpar;](https://www.techmeme.com/260627/p3#a260627p3)
- - [Source: Intel has promised to deliver SpaceX and Apple a toolkit this fall to test its 14A node before they make final commitments to produce chips with Intel &lpar;Tripp Mickle/New York Times&rpar;](https://www.techmeme.com/260627/p2#a260627p2)<!-- TECH:END -->
+ - [The 37 Best Outdoor Deals From the REI 4th of July Sale](https://www.wired.com/story/rei-4th-of-july-sale-2026/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 27, #642](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-27-642/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 27, #1112](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-27-1112/)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 27, #1834](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-27-1834/)
+ - [Why Venezuela’s Second Earthquake Was So Damaging to Buildings](https://www.wired.com/story/why-venezuelas-second-earthquake-so-damaging-to-buildings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Duer’s Wear-Everywhere Pants Are on Sale This Weekend](https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/)
- - [Streaming services must comply with a California law that bans playing ads louder than the content being watched from July 1, but its implementation is unclear &lpar;Scharon Harding/Ars Technica&rpar;](https://www.techmeme.com/260627/p6#a260627p6)
- - [Does DeleteMe Actually Get Your Info off the Internet? I Tried It](https://www.wired.com/story/i-tried-deleteme-the-original-data-broker-removal-service/)
- - [Security News This Week: LastPass Users Had Their Data Stolen—Again](https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/)
- - [The 37 Best Outdoor Deals From the REI 4th of July Sale](https://www.wired.com/story/rei-4th-of-july-sale-2026/)<!-- TECH:END -->
+ - [Apple asks Trump to let it buy memory from a blacklisted supplier](https://appleinsider.com/articles/26/06/27/apple-asks-trump-to-let-it-buy-memory-from-a-blacklisted-supplier?utm_source=rss)
+ - [Amazon&#39;s $1,149 1TB MacBook Air M5 deal has been extended, save $450](https://appleinsider.com/articles/26/06/27/amazons-1149-1tb-macbook-air-m5-deal-has-been-extended-save-450?utm_source=rss)
+ - [Your Samsung Galaxy S26 Ultra Can Take Better Photos by Changing Just a Few Settings](https://www.cnet.com/tech/mobile/your-samsung-galaxy-s26-ultra-can-take-better-photos-by-changing-just-a-few-settings/)
+ - [This puzzle game&amp;#8217;s simple premise hides surprising depth](https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android)
+ - [This might be the new best smart speaker](https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

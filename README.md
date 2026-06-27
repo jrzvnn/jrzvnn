@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More parents need to hold their kids accountable rather than blindly defending them.](http://9gag.com/gag/amo3V19)
- - 😝 [Bring back the judgment](http://9gag.com/gag/a6ZPpDN)
- - 💣 [`It was a valiant contest woman, but I was the quicker!!`](http://9gag.com/gag/amo3MQV)
+ - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
+ - 😝 [Imagine what Cristiano was thinking](http://9gag.com/gag/ae9LmXW)
+ - 💣 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)
  - 😝 [The Jackass: Best and Last drone show delivered exactly the kind of chaos you hope for.](http://9gag.com/gag/aO8w1Pv)
- - 👉 [Title](http://9gag.com/gag/aoyXYVA)<!-- MEMES:END -->
+ - 👉 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
 
 ---
 

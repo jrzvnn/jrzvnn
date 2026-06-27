@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Now what?](http://9gag.com/gag/apRObyn)
  - 😝 [Mexico after the win](http://9gag.com/gag/aBypPpZ)
- - 😝 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)
- - 💣 [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
- - 😝 [What is public transport manners?](http://9gag.com/gag/azxnO5j)
- - 👉 [Hilarious 12-0 thrashing](http://9gag.com/gag/amo3V82)<!-- MEMES:END -->
+ - 💣 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)
+ - 😝 [The Jackass: Best and Last drone show delivered exactly the kind of chaos you hope for.](http://9gag.com/gag/aO8w1Pv)
+ - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
 
 ---
 

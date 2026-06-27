@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are they selling soap to the team?](http://9gag.com/gag/agmWxRw)
- - 😝 [Kevin Hart could ride him like thunder cat into battle](http://9gag.com/gag/azxnR7x)
- - 💣 [Busy day from the eyes of the Chef](http://9gag.com/gag/azxnZEj)
- - 😝 [Smells like teen spirit](http://9gag.com/gag/ajPpxRp)
- - 👉 [Why we not funding this?](http://9gag.com/gag/aRBnony)<!-- MEMES:END -->
+ - 😝 [Mexico after the win](http://9gag.com/gag/aBypPpZ)
+ - 😝 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)
+ - 💣 [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
+ - 😝 [What is public transport manners?](http://9gag.com/gag/azxnO5j)
+ - 👉 [Hilarious 12-0 thrashing](http://9gag.com/gag/amo3V82)<!-- MEMES:END -->
 
 ---
 

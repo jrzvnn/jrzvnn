@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [62 Last Minute Prime Day Weekend Deals: Up to 45% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/)
+ - [Sakana AI&#39;s Fugu and 360&#39;s cybersecurity model Tulongfeng claim to rival Anthropic&#39;s banned Mythos and Fable 5 models amid the US export ban &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260627/p11#a260627p11)
+ - [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt)
  - [PSA: Lifetime Plex Plan goes from $249.99 to a painful $749.99 on July 1](https://appleinsider.com/articles/26/06/27/psa-lifetime-plex-plan-goes-from-24999-to-a-painful-74999-on-july-1?utm_source=rss)
- - [AI executives and lobbyists say they are seeking regulatory clarity from the Trump administration but are wary of pressing for answers, fearing retaliation &lpar;Politico&rpar;](https://www.techmeme.com/260627/p10#a260627p10)
- - [A look at South Korea&#39;s four vocational &quot;meister&quot; schools that train students to work in semiconductor manufacturing, leading to jobs at Samsung and SK Hynix &lpar;Max Kim/New York Times&rpar;](https://www.techmeme.com/260627/p9#a260627p9)
- - [The Guardian&amp;#8217;s Kai Wright refuses to buy a new phone](https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire)
- - [Apple Prime Day deals are still live, save up to $650 on Mac, iPad, AirPods](https://appleinsider.com/articles/26/06/27/apple-prime-day-deals-are-still-live-save-up-to-650-on-mac-ipad-airpods?utm_source=rss)<!-- TECH:END -->
+ - [AI executives and lobbyists say they are seeking regulatory clarity from the Trump administration but are wary of pressing for answers, fearing retaliation &lpar;Politico&rpar;](https://www.techmeme.com/260627/p10#a260627p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

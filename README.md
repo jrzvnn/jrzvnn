@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity)
  - [Letter: Austria is pushing the EU to consider hosting Anthropic within its borders, highlighting EU efforts to boost bloc independence from US and Chinese tech &lpar;Marton Eder/Bloomberg&rpar;](https://www.techmeme.com/260628/p13#a260628p13)
  - [Suno launches Spark incubator program to feed independent artists to its AI machine](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine)
  - [Sunday Reboot: Apple&#39;s gameshow phobia won&#39;t change anytime soon](https://appleinsider.com/articles/26/06/28/sunday-reboot-apples-gameshow-phobia-wont-change-anytime-soon?utm_source=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for June 29, #1836](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-29-1836/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 29 #848](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-29-848/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 29, #1836](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-29-1836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

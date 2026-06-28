@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 😝 [Now what?](http://9gag.com/gag/apRObyn)
- - 💣 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)
- - 😝 [The Jackass: Best and Last drone show delivered exactly the kind of chaos you hope for.](http://9gag.com/gag/aO8w1Pv)
- - 👉 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
+ - 😝 [It is art](http://9gag.com/gag/aD2yOZN)
+ - 😝 [They should make this real](http://9gag.com/gag/a34mbb8)
+ - 💣 [Combining stand-up comedy and magic](http://9gag.com/gag/an76Dr0)
+ - 😝 [Weeeeeeek!](http://9gag.com/gag/aBypGxz)
+ - 👉 [Why we not funding this?](http://9gag.com/gag/aRBnony)<!-- MEMES:END -->
 
 ---
 

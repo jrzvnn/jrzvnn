@@ -160,9 +160,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [M5 Ultra Mac Studio still due in 2026, M7 Ultra in 2028](https://appleinsider.com/articles/26/06/28/m5-ultra-mac-studio-still-due-in-2026-m7-ultra-in-2028?utm_source=rss)
  - [Prosecutors used ChatGPT logs as evidence in the Palisades fire trial](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial)
+ - [You&#39;ve Only Got a Few Days Left to Save Your Samsung Messages](https://www.cnet.com/tech/mobile/samsung-messages-ends-in-july-heres-the-right-way-to-move-everything-over/)
  - [An analysis of US payroll data across 730+ occupations: employment among workers ages 22 to 25 in highly AI-exposed jobs is now shrinking by 3.8% per year &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/260628/p8#a260628p8)
- - [What to Do in Houston If You&#39;re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/)
- - [Nest&amp;#8217;s quest to fix your thermostat](https://www.theverge.com/podcast/958735/nest-thermostat-version-history)<!-- TECH:END -->
+ - [What to Do in Houston If You&#39;re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

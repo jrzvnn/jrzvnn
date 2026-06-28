@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to Do in Houston If You&#39;re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/)
+ - [Nest&amp;#8217;s quest to fix your thermostat](https://www.theverge.com/podcast/958735/nest-thermostat-version-history)
+ - [Ad-free streaming is a luxury now](https://www.theverge.com/column/958379/streaming-industry-ads)
  - [Crime blotter: School board vice president accused of having illicit images on iPhone](https://appleinsider.com/articles/26/06/28/crime-blotter-school-board-vice-president-accused-of-having-illicit-images-on-iphone?utm_source=rss)
- - [The ‘Almost Homeless’ Subreddit Is a Stark Glimpse at Soaring Wealth Inequality](https://www.wired.com/story/the-almost-homeless-subreddit-is-a-stark-glimpse-at-soaring-wealth-inequality/)
- - [Why Wear Anything Other Than a Sun Hoodie This Summer? Our Picks for the Best](https://www.wired.com/story/im-addicted-to-sun-hoodies/)
- - [Brazil, which has struggled to standardize soccer talent scouting, is embracing AI-powered scouting apps that assess players by analyzing video clips and more &lpar;New York Times&rpar;](https://www.techmeme.com/260628/p7#a260628p7)
- - [Best OTA TV Antenna for Cord-Cutters in 2026](https://www.cnet.com/tech/home-entertainment/best-indoor-tv-antenna/)<!-- TECH:END -->
+ - [Apple&#39;s Price Hikes Aren&#39;t Just an AI Problem](https://www.cnet.com/news/apple-price-hikes-not-unavoidable-blame-ai-boom/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

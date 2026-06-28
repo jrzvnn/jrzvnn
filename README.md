@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Typo`](http://9gag.com/gag/aPA51RQ)
  - 😝 [Japanese Neighbor](http://9gag.com/gag/a4PvqN6)
- - 💣 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 😝 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
+ - 😝 [Absolute legend showing everyone how it is done](http://9gag.com/gag/aKGRK7N)
+ - 💣 [`Typo`](http://9gag.com/gag/aPA51RQ)
+ - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
  - 👉 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)<!-- MEMES:END -->
 
 ---

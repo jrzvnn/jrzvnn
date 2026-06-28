@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Ebike Accessories You Need to Help You Haul the Most Stuff](https://www.wired.com/story/how-to-trick-out-your-ebike/)
- - [China Defies US Restrictions and Builds the World’s Fastest Supercomputer](https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/)
- - [TMD’s keyless bike lock is a $280 solution to a $60 problem](https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review)
- - [A profile of Jacob Andreou, the 33-year-old former Snap exec leading Microsoft&#39;s consolidated Copilot team efforts to catch up with OpenAI and Anthropic &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/260628/p6#a260628p6)
- - [Masayoshi Son questioned Musk&#39;s orbital AI data centers, noting electricity is just 7% of costs and the AI race will be won on Earth within a few years &lpar;Tim Higgins/Wall Street Journal&rpar;](https://www.techmeme.com/260628/p5#a260628p5)<!-- TECH:END -->
+ - [Crime blotter: School board vice president accused of having illicit images on iPhone](https://appleinsider.com/articles/26/06/28/crime-blotter-school-board-vice-president-accused-of-having-illicit-images-on-iphone?utm_source=rss)
+ - [The ‘Almost Homeless’ Subreddit Is a Stark Glimpse at Soaring Wealth Inequality](https://www.wired.com/story/the-almost-homeless-subreddit-is-a-stark-glimpse-at-soaring-wealth-inequality/)
+ - [Why Wear Anything Other Than a Sun Hoodie This Summer? Our Picks for the Best](https://www.wired.com/story/im-addicted-to-sun-hoodies/)
+ - [Brazil, which has struggled to standardize soccer talent scouting, is embracing AI-powered scouting apps that assess players by analyzing video clips and more &lpar;New York Times&rpar;](https://www.techmeme.com/260628/p7#a260628p7)
+ - [Best OTA TV Antenna for Cord-Cutters in 2026](https://www.cnet.com/tech/home-entertainment/best-indoor-tv-antenna/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It is art](http://9gag.com/gag/aD2yOZN)
  - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 😝 [Japanese Neighbor](http://9gag.com/gag/a4PvqN6)
- - 💣 [It is art](http://9gag.com/gag/aD2yOZN)
- - 😝 [Your best romantic / flirting memes in the comments. \ud83d\udc47](http://9gag.com/gag/aQzGOoW)
- - 👉 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)<!-- MEMES:END -->
+ - 💣 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
+ - 😝 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)
+ - 👉 [Train Pepsi](http://9gag.com/gag/a7oQn6L)<!-- MEMES:END -->
 
 ---
 

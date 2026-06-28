@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia-based Firmus partners with Nvidia to build its first data center in Batam, Indonesia; the 360 MW Nvidia DSX AI factory campus is developed with DayOne &lpar;Bloomberg&rpar;](https://www.techmeme.com/260628/p9#a260628p9)
+ - [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review)
+ - [This homebrew Apple II skips emulation, does it all in hardware](https://appleinsider.com/articles/26/06/28/this-homebrew-apple-ii-skips-emulation-does-it-all-in-hardware?utm_source=rss)
  - [M5 Ultra Mac Studio still due in 2026, M7 Ultra in 2028](https://appleinsider.com/articles/26/06/28/m5-ultra-mac-studio-still-due-in-2026-m7-ultra-in-2028?utm_source=rss)
- - [Prosecutors used ChatGPT logs as evidence in the Palisades fire trial](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial)
- - [You&#39;ve Only Got a Few Days Left to Save Your Samsung Messages](https://www.cnet.com/tech/mobile/samsung-messages-ends-in-july-heres-the-right-way-to-move-everything-over/)
- - [An analysis of US payroll data across 730+ occupations: employment among workers ages 22 to 25 in highly AI-exposed jobs is now shrinking by 3.8% per year &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/260628/p8#a260628p8)
- - [What to Do in Houston If You&#39;re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/)<!-- TECH:END -->
+ - [Prosecutors used ChatGPT logs as evidence in the Palisades fire trial](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Suno launches Spark incubator program to feed independent artists to its AI machine](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine)
+ - [Sunday Reboot: Apple&#39;s gameshow phobia won&#39;t change anytime soon](https://appleinsider.com/articles/26/06/28/sunday-reboot-apples-gameshow-phobia-wont-change-anytime-soon?utm_source=rss)
+ - [GPT-5.6 system card indicates Sol is well below the level of most worrisome Mythos use cases, suggesting all GPT-5.6 versions could be released without delay &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260628/p12#a260628p12)
  - [Sources: Baidu&#39;s chip unit Kunlunxin Technology plans a Hong Kong IPO at a $50B target valuation, asking investors to buy chips worth 3-7x their IPO investment &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260628/p11#a260628p11)
- - [Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers &lpar;Jackson Chen/Engadget&rpar;](https://www.techmeme.com/260628/p10#a260628p10)
- - [China claims the world&amp;#8217;s fastest supercomputer](https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer)
- - [Australia-based Firmus partners with Nvidia to build its first data center in Batam, Indonesia; the 360 MW Nvidia DSX AI factory campus is developed with DayOne &lpar;Bloomberg&rpar;](https://www.techmeme.com/260628/p9#a260628p9)
- - [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review)<!-- TECH:END -->
+ - [Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers &lpar;Jackson Chen/Engadget&rpar;](https://www.techmeme.com/260628/p10#a260628p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

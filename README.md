@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It is art](http://9gag.com/gag/aD2yOZN)
- - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 💣 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
- - 😝 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)
- - 👉 [Train Pepsi](http://9gag.com/gag/a7oQn6L)<!-- MEMES:END -->
+ - 😝 [Finally a new business idea](http://9gag.com/gag/axy5YbD)
+ - 💣 [Train Pepsi](http://9gag.com/gag/a7oQn6L)
+ - 😝 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
+ - 👉 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)<!-- MEMES:END -->
 
 ---
 

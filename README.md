@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Letter: Austria is pushing the EU to consider hosting Anthropic within its borders, highlighting EU efforts to boost bloc independence from US and Chinese tech &lpar;Marton Eder/Bloomberg&rpar;](https://www.techmeme.com/260628/p13#a260628p13)
  - [Suno launches Spark incubator program to feed independent artists to its AI machine](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine)
  - [Sunday Reboot: Apple&#39;s gameshow phobia won&#39;t change anytime soon](https://appleinsider.com/articles/26/06/28/sunday-reboot-apples-gameshow-phobia-wont-change-anytime-soon?utm_source=rss)
- - [GPT-5.6 system card indicates Sol is well below the level of most worrisome Mythos use cases, suggesting all GPT-5.6 versions could be released without delay &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260628/p12#a260628p12)
- - [Sources: Baidu&#39;s chip unit Kunlunxin Technology plans a Hong Kong IPO at a $50B target valuation, asking investors to buy chips worth 3-7x their IPO investment &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260628/p11#a260628p11)
- - [Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers &lpar;Jackson Chen/Engadget&rpar;](https://www.techmeme.com/260628/p10#a260628p10)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 29, #1836](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-29-1836/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 29 #848](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-29-848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

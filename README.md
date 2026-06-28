@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Baidu&#39;s chip unit Kunlunxin Technology plans a Hong Kong IPO at a $50B target valuation, asking investors to buy chips worth 3-7x their IPO investment &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260628/p11#a260628p11)
+ - [Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers &lpar;Jackson Chen/Engadget&rpar;](https://www.techmeme.com/260628/p10#a260628p10)
  - [China claims the world&amp;#8217;s fastest supercomputer](https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer)
  - [Australia-based Firmus partners with Nvidia to build its first data center in Batam, Indonesia; the 360 MW Nvidia DSX AI factory campus is developed with DayOne &lpar;Bloomberg&rpar;](https://www.techmeme.com/260628/p9#a260628p9)
- - [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review)
- - [This homebrew Apple II skips emulation, does it all in hardware](https://appleinsider.com/articles/26/06/28/this-homebrew-apple-ii-skips-emulation-does-it-all-in-hardware?utm_source=rss)
- - [M5 Ultra Mac Studio still due in 2026, M7 Ultra in 2028](https://appleinsider.com/articles/26/06/28/m5-ultra-mac-studio-still-due-in-2026-m7-ultra-in-2028?utm_source=rss)<!-- TECH:END -->
+ - [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

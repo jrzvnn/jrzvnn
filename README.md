@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ebike Accessories You Need to Help You Haul the Most Stuff](https://www.wired.com/story/how-to-trick-out-your-ebike/)
+ - [China Defies US Restrictions and Builds the World’s Fastest Supercomputer](https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/)
+ - [TMD’s keyless bike lock is a $280 solution to a $60 problem](https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review)
  - [A profile of Jacob Andreou, the 33-year-old former Snap exec leading Microsoft&#39;s consolidated Copilot team efforts to catch up with OpenAI and Anthropic &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/260628/p6#a260628p6)
- - [Masayoshi Son questioned Musk&#39;s orbital AI data centers, noting electricity is just 7% of costs and the AI race will be won on Earth within a few years &lpar;Tim Higgins/Wall Street Journal&rpar;](https://www.techmeme.com/260628/p5#a260628p5)
- - [A look at a thriving underground economy for Claude access in China, including &quot;transfer station&quot; sites that buy API tokens abroad and distribute them to users &lpar;Wired&rpar;](https://www.techmeme.com/260628/p4#a260628p4)
- - [Apple&#39;s appeal to a London Court of Appeal ruling begins Monday at the UK Supreme Court; the ruling required it to pay $502M for using Optis&#39; wireless patents &lpar;Alistair Gray/Financial Times&rpar;](https://www.techmeme.com/260628/p3#a260628p3)
- - [Researchers say Z.ai&#39;s GLM-5.2 matches latest US models at finding security bugs, as critics question the US&#39; lax approach in restricting Chinese open models &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260628/p2#a260628p2)<!-- TECH:END -->
+ - [Masayoshi Son questioned Musk&#39;s orbital AI data centers, noting electricity is just 7% of costs and the AI race will be won on Earth within a few years &lpar;Tim Higgins/Wall Street Journal&rpar;](https://www.techmeme.com/260628/p5#a260628p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

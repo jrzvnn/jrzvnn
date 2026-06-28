@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He looks prehistoric](http://9gag.com/gag/aGyXOw0)
  - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 💣 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)
+ - 😝 [Now what?](http://9gag.com/gag/apRObyn)
+ - 💣 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)
  - 😝 [The Jackass: Best and Last drone show delivered exactly the kind of chaos you hope for.](http://9gag.com/gag/aO8w1Pv)
- - 👉 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)<!-- MEMES:END -->
+ - 👉 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
 
 ---
 

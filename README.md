@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is art](http://9gag.com/gag/aD2yOZN)
- - 😝 [They should make this real](http://9gag.com/gag/a34mbb8)
- - 💣 [Combining stand-up comedy and magic](http://9gag.com/gag/an76Dr0)
- - 😝 [Weeeeeeek!](http://9gag.com/gag/aBypGxz)
- - 👉 [Why we not funding this?](http://9gag.com/gag/aRBnony)<!-- MEMES:END -->
+ - 😝 [Artistic shot](https://www.reddit.com/r/funny/comments/1uhsqwh/artistic_shot/)
+ - 😝 [Now what?](http://9gag.com/gag/apRObyn)
+ - 💣 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
+ - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
+ - 👉 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He looks prehistoric](http://9gag.com/gag/aGyXOw0)
- - 😝 [Now what?](http://9gag.com/gag/apRObyn)
- - 💣 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 😝 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
- - 👉 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)<!-- MEMES:END -->
+ - 😝 [`Typo`](http://9gag.com/gag/aPA51RQ)
+ - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
+ - 💣 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)
+ - 😝 [Why we not funding this?](http://9gag.com/gag/aRBnony)
+ - 👉 [She was pointing at me!](http://9gag.com/gag/abA7R3B)<!-- MEMES:END -->
 
 ---
 

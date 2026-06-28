@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 😝 [Finally a new business idea](http://9gag.com/gag/axy5YbD)
- - 💣 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)
  - 😝 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
- - 👉 [Ahh good old days lol.](http://9gag.com/gag/ajPpy60)<!-- MEMES:END -->
+ - 😝 [Avchtufally!](http://9gag.com/gag/a9yoDP0)
+ - 💣 [Train Pepsi](http://9gag.com/gag/a7oQn6L)
+ - 😝 [Solid strategy for saving middle earth](http://9gag.com/gag/aMVgXd1)
+ - 👉 [Absolute legend showing everyone how it is done](http://9gag.com/gag/aKGRK7N)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jefferies: memory prices are expected to rise 40-50% in Q3 2026 and 30-40% in Q4, as Chinese memory makers are unlikely to provide meaningful near-term relief &lpar;Hassan Mujtaba/Wccftech&rpar;](https://www.techmeme.com/260628/p16#a260628p16)
+ - [Humanoid robot maker Apptronik raised ~$1B at a ~$5B valuation, including from Mercedes-Benz, which has a handful of Apptronik&#39;s Apollo robots in its factories &lpar;Joshua Brustein/Bloomberg&rpar;](https://www.techmeme.com/260628/p15#a260628p15)
  - [Google&#39;s Earthquake Alerts system reached 11.4M+ people in Venezuela, giving them seconds or up to two minutes notice before two powerful earthquakes struck &lpar;New York Times&rpar;](https://www.techmeme.com/260628/p14#a260628p14)
  - [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity)
- - [Letter: Austria is pushing the EU to consider hosting Anthropic within its borders, highlighting EU efforts to boost bloc independence from US and Chinese tech &lpar;Marton Eder/Bloomberg&rpar;](https://www.techmeme.com/260628/p13#a260628p13)
- - [Suno launches Spark incubator program to feed independent artists to its AI machine](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine)
- - [Sunday Reboot: Apple&#39;s gameshow phobia won&#39;t change anytime soon](https://appleinsider.com/articles/26/06/28/sunday-reboot-apples-gameshow-phobia-wont-change-anytime-soon?utm_source=rss)<!-- TECH:END -->
+ - [Letter: Austria is pushing the EU to consider hosting Anthropic within its borders, highlighting EU efforts to boost bloc independence from US and Chinese tech &lpar;Marton Eder/Bloomberg&rpar;](https://www.techmeme.com/260628/p13#a260628p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

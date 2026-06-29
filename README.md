@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
- - 😝 [WNBA](http://9gag.com/gag/amo3R04)
- - 💣 [Senio software developer](http://9gag.com/gag/a1m9OKY)
- - 😝 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
- - 👉 [Guys hear me out..](http://9gag.com/gag/aAyjmdo)<!-- MEMES:END -->
+ - 😝 [Only people that has experience with Electrical engineering will understand the codes from those circuit boards.](http://9gag.com/gag/aD2yMpx)
+ - 😝 [Ok this is hilarious - I\u2019m dying](http://9gag.com/gag/adBEd0d)
+ - 💣 [Greatest street rapper in NYC](http://9gag.com/gag/aQzGrAK)
+ - 😝 [For everyone](http://9gag.com/gag/axy5ABD)
+ - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
 
 ---
 

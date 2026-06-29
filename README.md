@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
+ - 😝 [Marriage makes man happy](http://9gag.com/gag/aByp4z2)
  - 😝 [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
- - 💣 [Guys hear me out..](http://9gag.com/gag/aAyjmdo)
- - 😝 [WNBA](http://9gag.com/gag/amo3R04)
+ - 💣 [WNBA](http://9gag.com/gag/amo3R04)
+ - 😝 [Some years later](http://9gag.com/gag/aryY8Bd)
  - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
 
 ---

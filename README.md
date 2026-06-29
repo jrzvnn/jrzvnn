@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As a new law bars DOD from working with companies whose lobbyists also represent blacklisted entities, DC lobbying firms drop companies like Alibaba and Tencent &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p36#a260629p36)
- - [Don&#39;t wait to update: iOS 26.5.2 includes over 25 security fixes for web browsing](https://appleinsider.com/articles/26/06/29/dont-wait-to-update-ios-2652-includes-over-25-security-fixes-for-web-browsing?utm_source=rss)
- - [Waymo and Uber quietly ended their partnership in Phoenix in May; Uber says it is readying the launch of a separate autonomous vehicle partnership in the city &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260629/p35#a260629p35)
- - [Apple suppliers Samsung, SK hynix &amp; Micron hit by RAM price fixing suit](https://appleinsider.com/articles/26/06/29/apple-suppliers-samsung-sk-hynix-micron-hit-by-ram-price-fixing-suit?utm_source=rss)
- - [Sources: component and supplier lists, and photos of iPhone 18 Pro models, are among files a ransomware group stole from Apple&#39;s Indian supplier Tata &lpar;Reuters&rpar;](https://www.techmeme.com/260629/p34#a260629p34)<!-- TECH:END -->
+ - [Buying a Mattress in 2026? We Tested 100+ and These Were the Standouts](https://www.wired.com/gallery/best-mattresses/)
+ - [After a great start, DC’s new cinematic universe is already slowing down](https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop)
+ - [Digital Realty says it plans to acquire a majority stake in three fully leased Northern Virginia data centers from Blackstone-managed funds in a $7.8B deal &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260629/p38#a260629p38)
+ - [Source: Taiwanese authorities raided Super Micro&#39;s Taiwan office as part of a probe into the alleged smuggling of Nvidia chips to China; SMCI closed down 8.1% &lpar;Debby Wu/Bloomberg&rpar;](https://www.techmeme.com/260629/p37#a260629p37)
+ - [Leaked iPhone 18 Pro photos reportedly wound up on the dark web](https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

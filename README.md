@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 😝 [Finally a new business idea](http://9gag.com/gag/axy5YbD)
- - 💣 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)
- - 😝 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
- - 👉 [Ahh good old days lol.](http://9gag.com/gag/ajPpy60)<!-- MEMES:END -->
+ - 😝 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)
+ - 😝 [`Typo`](http://9gag.com/gag/aPA51RQ)
+ - 💣 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
+ - 😝 [WNBA](http://9gag.com/gag/amo3R04)
+ - 👉 [She was pointing at me!](http://9gag.com/gag/abA7R3B)<!-- MEMES:END -->
 
 ---
 

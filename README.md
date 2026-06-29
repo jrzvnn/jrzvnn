@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marriage makes man happy](http://9gag.com/gag/aByp4z2)
- - 😝 [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
- - 💣 [WNBA](http://9gag.com/gag/amo3R04)
- - 😝 [Some years later](http://9gag.com/gag/aryY8Bd)
- - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
+ - 😝 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
+ - 😝 [WNBA](http://9gag.com/gag/amo3R04)
+ - 💣 [Senio software developer](http://9gag.com/gag/a1m9OKY)
+ - 😝 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
+ - 👉 [Guys hear me out..](http://9gag.com/gag/aAyjmdo)<!-- MEMES:END -->
 
 ---
 

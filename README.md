@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jefferies: memory prices are expected to rise 40-50% in Q3 2026 and 30-40% in Q4, as Chinese memory makers are unlikely to provide meaningful near-term relief &lpar;Hassan Mujtaba/Wccftech&rpar;](https://www.techmeme.com/260628/p16#a260628p16)
- - [Humanoid robot maker Apptronik raised ~$1B at a ~$5B valuation, including from Mercedes-Benz, which has a handful of Apptronik&#39;s Apollo robots in its factories &lpar;Joshua Brustein/Bloomberg&rpar;](https://www.techmeme.com/260628/p15#a260628p15)
- - [Google&#39;s Earthquake Alerts system reached 11.4M+ people in Venezuela, giving them seconds or up to two minutes notice before two powerful earthquakes struck &lpar;New York Times&rpar;](https://www.techmeme.com/260628/p14#a260628p14)
- - [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity)
- - [Letter: Austria is pushing the EU to consider hosting Anthropic within its borders, highlighting EU efforts to boost bloc independence from US and Chinese tech &lpar;Marton Eder/Bloomberg&rpar;](https://www.techmeme.com/260628/p13#a260628p13)<!-- TECH:END -->
+ - [The South Korean government, Samsung, and SK hynix plan to invest ~$590B for a new chip complex, including four chipmaking plants and a chip packaging cluster &lpar;Song Jung-a/Financial Times&rpar;](https://www.techmeme.com/260629/p6#a260629p6)
+ - [South Korea unveils plans for new AI data centers backed by ~$357.5B from SK Group, GS Group, and Naver, targeting 8.4GW initially and 18.4GW by 2035 &lpar;Yi Whan-woo/The Korea Times&rpar;](https://www.techmeme.com/260629/p5#a260629p5)
+ - [Kuo: the memory supply-demand gap will widen through 2027, with an estimated 15%-20% of 2026 consumer electronics capacity shifting to data centers in 2027 &lpar;Ming-Chi Kuo&rpar;](https://www.techmeme.com/260629/p4#a260629p4)
+ - [Dealogic: Japan saw 18 IPOs in H1 2026, the lowest since 2011, despite stock market surges, partly due to Japan&#39;s lack of AI, data center, and chip startups &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260629/p3#a260629p3)
+ - [Save up to $650 on Apple&#39;s latest MacBook Pros with month-end deals](https://appleinsider.com/articles/26/06/29/save-up-to-650-on-apples-latest-macbook-pros-with-month-end-deals?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

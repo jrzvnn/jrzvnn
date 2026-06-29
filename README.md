@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The South Korean government, Samsung, and SK hynix plan to invest ~$590B for a new chip complex, including four chipmaking plants and a chip packaging cluster &lpar;Song Jung-a/Financial Times&rpar;](https://www.techmeme.com/260629/p6#a260629p6)
- - [South Korea unveils plans for new AI data centers backed by ~$357.5B from SK Group, GS Group, and Naver, targeting 8.4GW initially and 18.4GW by 2035 &lpar;Yi Whan-woo/The Korea Times&rpar;](https://www.techmeme.com/260629/p5#a260629p5)
- - [Kuo: the memory supply-demand gap will widen through 2027, with an estimated 15%-20% of 2026 consumer electronics capacity shifting to data centers in 2027 &lpar;Ming-Chi Kuo&rpar;](https://www.techmeme.com/260629/p4#a260629p4)
- - [Dealogic: Japan saw 18 IPOs in H1 2026, the lowest since 2011, despite stock market surges, partly due to Japan&#39;s lack of AI, data center, and chip startups &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260629/p3#a260629p3)
- - [Save up to $650 on Apple&#39;s latest MacBook Pros with month-end deals](https://appleinsider.com/articles/26/06/29/save-up-to-650-on-apples-latest-macbook-pros-with-month-end-deals?utm_source=rss)<!-- TECH:END -->
+ - [These iPhone accessibility settings can make everyday tasks easier](https://appleinsider.com/inside/iphone/tips/these-iphone-accessibility-settings-can-make-everyday-tasks-easier?utm_source=rss)
+ - [The US DOJ seizes nearly 400 domains for illegally streaming 2026 FIFA World Cup matches; last week, ACE, UEFA, and more shut down 44 domains linked to PirloTV &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260629/p19#a260629p19)
+ - [Comcast is splitting in two](https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement)
+ - [No ProMotion for iPhone 18e, claims leaker](https://appleinsider.com/articles/26/06/29/no-promotion-for-iphone-18e-claims-leaker?utm_source=rss)
+ - [Chinese robotics startup AI² Robotics raised ~$736M at a ~$2.9B valuation; Alibaba-backed X Square Robot raised an undisclosed amount at a ~$2.9B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p18#a260629p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

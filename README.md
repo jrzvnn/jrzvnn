@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Triggering an entire league](http://9gag.com/gag/axy54VD)
- - 😝 [WNBA](http://9gag.com/gag/amo3R04)
- - 💣 [Some years later](http://9gag.com/gag/aryY8Bd)
- - 😝 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)
- - 👉 [She was pointing at me!](http://9gag.com/gag/abA7R3B)<!-- MEMES:END -->
+ - 😝 [The diversity I approve](http://9gag.com/gag/a5Q4DXN)
+ - 😝 [We don\u2019t deserve animals](http://9gag.com/gag/aW4zRLZ)
+ - 💣 [Owner of AC in europe](http://9gag.com/gag/a87Zz4p)
+ - 😝 [No no, this is my parking spot !](http://9gag.com/gag/abA7EOp)
+ - 👉 [We need to go back](http://9gag.com/gag/aW4zdmZ)<!-- MEMES:END -->
 
 ---
 

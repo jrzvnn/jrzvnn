@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The diversity I approve](http://9gag.com/gag/a5Q4DXN)
- - 😝 [We don\u2019t deserve animals](http://9gag.com/gag/aW4zRLZ)
- - 💣 [Owner of AC in europe](http://9gag.com/gag/a87Zz4p)
- - 😝 [No no, this is my parking spot !](http://9gag.com/gag/abA7EOp)
- - 👉 [We need to go back](http://9gag.com/gag/aW4zdmZ)<!-- MEMES:END -->
+ - 😝 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
+ - 😝 [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
+ - 💣 [Guys hear me out..](http://9gag.com/gag/aAyjmdo)
+ - 😝 [WNBA](http://9gag.com/gag/amo3R04)
+ - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
 
 ---
 

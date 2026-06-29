@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These camera-free smart glasses made me feel like Tony Stark](https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on)
- - [How Thread is fixing smart home networks on Smart Home Insider](https://appleinsider.com/articles/26/06/29/how-thread-is-fixing-smart-home-networks-on-smart-home-insider?utm_source=rss)
- - [Supreme Court allows firing of FTC commissioners, ends agency independence](https://www.theverge.com/policy/958974/supreme-court-slaughter-trump-decision-ftc-agency-independence)
- - [Apple&#39;s iPhone went on sale 19 years ago today, and changed the world](https://appleinsider.com/articles/21/06/29/apples-original-iphone-went-on-sale-14-years-ago?utm_source=rss)
- - [Save $350 on Apple&#39;s 14-inch MacBook Pro M5 right now at Amazon](https://appleinsider.com/articles/26/06/29/save-350-on-apples-14-inch-macbook-pro-m5-right-now-at-amazon?utm_source=rss)<!-- TECH:END -->
+ - [At $499, Apple&amp;#8217;s M3-powered iPad Air is a good deal](https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale)
+ - [Third developer betas of iOS 26.6, macOS 26.6 arrive with iOS 26.5.2 release](https://appleinsider.com/articles/26/06/29/third-developer-betas-of-ios-266-macos-266-arrive-with-ios-2652-release?utm_source=rss)
+ - [California strikes a deal with Anthropic to expand the use of Claude products across state agencies and local governments at a 50% discount &lpar;Christine Mui/Politico&rpar;](https://www.techmeme.com/260629/p32#a260629p32)
+ - [In Q2, there were thirteen $1B+ US venture-backed startup exits, either through acquisition or IPO, the most exits since the 2021 market peak &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/260629/p31#a260629p31)
+ - [Bots Now Outnumber Humans Online. Here&#39;s Why It Matters.](https://www.cnet.com/tech/services-and-software/bots-now-outnumber-humans-on-the-internet-heres-what-that-actually-means/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

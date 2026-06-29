@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buying a Mattress in 2026? We Tested 100+ and These Were the Standouts](https://www.wired.com/gallery/best-mattresses/)
- - [After a great start, DC’s new cinematic universe is already slowing down](https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop)
- - [Digital Realty says it plans to acquire a majority stake in three fully leased Northern Virginia data centers from Blackstone-managed funds in a $7.8B deal &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260629/p38#a260629p38)
- - [Source: Taiwanese authorities raided Super Micro&#39;s Taiwan office as part of a probe into the alleged smuggling of Nvidia chips to China; SMCI closed down 8.1% &lpar;Debby Wu/Bloomberg&rpar;](https://www.techmeme.com/260629/p37#a260629p37)
- - [Leaked iPhone 18 Pro photos reportedly wound up on the dark web](https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web)<!-- TECH:END -->
+ - [Google says the Gemini app now offers Nano Banana image generation to eligible US users for free; it was previously only available to Plus, Pro, and Ultra users &lpar;Lauren Forristal/TechCrunch&rpar;](https://www.techmeme.com/260629/p41#a260629p41)
+ - [Sources: hundreds of Meta contractors posed as minors to probe how competitor chatbots responded to prompts involving suicide, sex, and other high-risk subjects &lpar;Wired&rpar;](https://www.techmeme.com/260629/p40#a260629p40)
+ - [Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs](https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/)
+ - [User location data that Google &amp; Apple have is protected by Fourth Amendment, says SCOTUS](https://appleinsider.com/articles/26/06/29/user-location-data-that-google-apple-have-is-protected-by-fourth-amendment-says-scotus?utm_source=rss)
+ - [Tidal adopts an AI policy that blocks wholly AI-generated music from earning royalties and removes AI-generated music that impersonates artists &lpar;Murray Stassen/Music Business Worldwide&rpar;](https://www.techmeme.com/260629/p39#a260629p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

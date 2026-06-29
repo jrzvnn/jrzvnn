@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Triggering an entire league](http://9gag.com/gag/axy54VD)
  - 😝 [WNBA](http://9gag.com/gag/amo3R04)
+ - 💣 [Some years later](http://9gag.com/gag/aryY8Bd)
  - 😝 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)
- - 💣 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
- - 😝 [Finally a new business idea](http://9gag.com/gag/axy5YbD)
- - 👉 [Ahh good old days lol.](http://9gag.com/gag/ajPpy60)<!-- MEMES:END -->
+ - 👉 [She was pointing at me!](http://9gag.com/gag/abA7R3B)<!-- MEMES:END -->
 
 ---
 

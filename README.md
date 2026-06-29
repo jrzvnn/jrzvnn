@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At $499, Apple&amp;#8217;s M3-powered iPad Air is a good deal](https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale)
- - [Third developer betas of iOS 26.6, macOS 26.6 arrive with iOS 26.5.2 release](https://appleinsider.com/articles/26/06/29/third-developer-betas-of-ios-266-macos-266-arrive-with-ios-2652-release?utm_source=rss)
- - [California strikes a deal with Anthropic to expand the use of Claude products across state agencies and local governments at a 50% discount &lpar;Christine Mui/Politico&rpar;](https://www.techmeme.com/260629/p32#a260629p32)
- - [In Q2, there were thirteen $1B+ US venture-backed startup exits, either through acquisition or IPO, the most exits since the 2021 market peak &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/260629/p31#a260629p31)
- - [Bots Now Outnumber Humans Online. Here&#39;s Why It Matters.](https://www.cnet.com/tech/services-and-software/bots-now-outnumber-humans-on-the-internet-heres-what-that-actually-means/)<!-- TECH:END -->
+ - [As a new law bars DOD from working with companies whose lobbyists also represent blacklisted entities, DC lobbying firms drop companies like Alibaba and Tencent &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p36#a260629p36)
+ - [Don&#39;t wait to update: iOS 26.5.2 includes over 25 security fixes for web browsing](https://appleinsider.com/articles/26/06/29/dont-wait-to-update-ios-2652-includes-over-25-security-fixes-for-web-browsing?utm_source=rss)
+ - [Waymo and Uber quietly ended their partnership in Phoenix in May; Uber says it is readying the launch of a separate autonomous vehicle partnership in the city &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260629/p35#a260629p35)
+ - [Apple suppliers Samsung, SK hynix &amp; Micron hit by RAM price fixing suit](https://appleinsider.com/articles/26/06/29/apple-suppliers-samsung-sk-hynix-micron-hit-by-ram-price-fixing-suit?utm_source=rss)
+ - [Sources: component and supplier lists, and photos of iPhone 18 Pro models, are among files a ransomware group stole from Apple&#39;s Indian supplier Tata &lpar;Reuters&rpar;](https://www.techmeme.com/260629/p34#a260629p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

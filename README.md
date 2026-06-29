@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These iPhone accessibility settings can make everyday tasks easier](https://appleinsider.com/inside/iphone/tips/these-iphone-accessibility-settings-can-make-everyday-tasks-easier?utm_source=rss)
- - [The US DOJ seizes nearly 400 domains for illegally streaming 2026 FIFA World Cup matches; last week, ACE, UEFA, and more shut down 44 domains linked to PirloTV &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260629/p19#a260629p19)
- - [Comcast is splitting in two](https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement)
- - [No ProMotion for iPhone 18e, claims leaker](https://appleinsider.com/articles/26/06/29/no-promotion-for-iphone-18e-claims-leaker?utm_source=rss)
- - [Chinese robotics startup AI² Robotics raised ~$736M at a ~$2.9B valuation; Alibaba-backed X Square Robot raised an undisclosed amount at a ~$2.9B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p18#a260629p18)<!-- TECH:END -->
+ - [These camera-free smart glasses made me feel like Tony Stark](https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on)
+ - [How Thread is fixing smart home networks on Smart Home Insider](https://appleinsider.com/articles/26/06/29/how-thread-is-fixing-smart-home-networks-on-smart-home-insider?utm_source=rss)
+ - [Supreme Court allows firing of FTC commissioners, ends agency independence](https://www.theverge.com/policy/958974/supreme-court-slaughter-trump-decision-ftc-agency-independence)
+ - [Apple&#39;s iPhone went on sale 19 years ago today, and changed the world](https://appleinsider.com/articles/21/06/29/apples-original-iphone-went-on-sale-14-years-ago?utm_source=rss)
+ - [Save $350 on Apple&#39;s 14-inch MacBook Pro M5 right now at Amazon](https://appleinsider.com/articles/26/06/29/save-350-on-apples-14-inch-macbook-pro-m5-right-now-at-amazon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says the Gemini app now offers Nano Banana image generation to eligible US users for free; it was previously only available to Plus, Pro, and Ultra users &lpar;Lauren Forristal/TechCrunch&rpar;](https://www.techmeme.com/260629/p41#a260629p41)
- - [Sources: hundreds of Meta contractors posed as minors to probe how competitor chatbots responded to prompts involving suicide, sex, and other high-risk subjects &lpar;Wired&rpar;](https://www.techmeme.com/260629/p40#a260629p40)
- - [Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs](https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/)
- - [User location data that Google &amp; Apple have is protected by Fourth Amendment, says SCOTUS](https://appleinsider.com/articles/26/06/29/user-location-data-that-google-apple-have-is-protected-by-fourth-amendment-says-scotus?utm_source=rss)
- - [Tidal adopts an AI policy that blocks wholly AI-generated music from earning royalties and removes AI-generated music that impersonates artists &lpar;Murray Stassen/Music Business Worldwide&rpar;](https://www.techmeme.com/260629/p39#a260629p39)<!-- TECH:END -->
+ - [AI leaderboard provider Arena says it hit $100M in annualized run-rate revenue eight months after launching AI Evaluations, which offers performance analytics &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260629/p42#a260629p42)
+ - [Apple&#39;s $502M payment to Optis over patent infringement goes to UK Supreme Court](https://appleinsider.com/articles/26/06/29/apples-502m-payment-to-optis-over-patent-infringement-goes-to-uk-supreme-court?utm_source=rss)
+ - [Supreme Court Supports Privacy Protections for Cellphone Location Data](https://www.cnet.com/news/privacy/supreme-court-ruling-geofencing-warrants-phone-location-data-privacy/)
+ - [Tidal to Label AI-Generated Music and Remove Fraudulent Material](https://www.cnet.com/tech/services-and-software/tidal-will-label-ai-generated-music-and-remove-fraudulent-material/)
+ - [Taking a Flight or Road Trip This July Fourth? Use These Tips to Travel Smarter and Cheaper](https://www.cnet.com/news/july-fourth-weekend-travel-tips/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

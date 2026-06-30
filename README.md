@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer&amp;#8217;s Swift Go 16 is a lot of laptop for $900](https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale)
- - [Google’s NotebookLM can sum up your research in a TikTok-style clip](https://www.theverge.com/tech/959778/google-notebooklm-ai-clips)
- - [Google shuts down the Tenor API, affecting GIF pickers on platforms like Discord, WhatsApp, and Bluesky; Nikita Bier says X has migrated elsewhere &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260630/p31#a260630p31)
- - [&#39;Star Trek: Strange New Worlds,&#39; &#39;Big Brother&#39; and More: See What&#39;s New on Paramount Plus in July](https://www.cnet.com/culture/entertainment/star-trek-strange-new-worlds-big-brother-and-more-see-whats-new-on-paramount-plus-in-july/)
- - [Can&#39;t Find Hibernate in Windows? Here&#39;s How to Locate It](https://www.cnet.com/tech/computing/microsoft-windows-hibernate-where-to-find/)<!-- TECH:END -->
+ - [Sources: TikTok settles a lawsuit before a second California trial over social media harm to minors for an undisclosed sum; Meta and Snap remain defendants &lpar;Bloomberg&rpar;](https://www.techmeme.com/260630/p34#a260630p34)
+ - [Amazon fined $2.25 million for failing to help identity theft victims](https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine)
+ - [Sources: Mark Zuckerberg met with Kalshi CEO Tarek Mansour about a possible takeover last year, before directing Meta employees to build a prediction market app &lpar;Bobby Allyn/NPR&rpar;](https://www.techmeme.com/260630/p33#a260630p33)
+ - [Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper](https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones/)
+ - [These Are the 3 Best Chest Strap Heart-Rate Monitors for Your Workouts](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

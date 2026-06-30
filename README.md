@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2 Best Slushie Machines of 2026: Now With Soft Serve](https://www.wired.com/gallery/best-slushie-machines/)
- - [UK ponders copying more EU App Store rules](https://appleinsider.com/articles/26/06/30/uk-ponders-copying-more-eu-app-store-rules?utm_source=rss)
- - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
- - [Origin PC Millennium Desktop Review: A Smart Build but Not the Perfect Configuration](https://www.cnet.com/tech/computing/origin-pc-millennium-gaming-pc-review/)
- - [Q&amp;A with Grindr CEO George Arison on turning Grindr into an &quot;AI-native company&quot;, &quot;impos[ing]&quot; AI on staff, facing &quot;opposition&quot;, using AI as a CEO, and more &lpar;Jordyn Holman/New York Times&rpar;](https://www.techmeme.com/260630/p12#a260630p12)<!-- TECH:END -->
+ - [Hey old school Mac gamers, Bolo is back!](https://appleinsider.com/articles/26/06/30/hey-old-school-mac-gamers-bolo-is-back?utm_source=rss)
+ - [Apple&#39;s legal team is striking social media sharing stolen iPhone 18 Pro data](https://appleinsider.com/articles/26/06/30/apples-legal-team-is-striking-social-media-sharing-stolen-iphone-18-pro-data?utm_source=rss)
+ - [Shark&#39;s New Transformer Vacuum Breaks Down Into Three Different Vacuums](https://www.cnet.com/home/kitchen-and-household/sharks-transformer-vacuum-gives-you-upright-power-in-a-cordless-model/)
+ - [An Indonesian court sentences Gojek co-founder and ex-education minister Nadiem Makarim to 10 years in prison for power abuses over a Chromebook contract &lpar;New York Times&rpar;](https://www.techmeme.com/260630/p13#a260630p13)
+ - [New on Apple TV in July 2026: Pickleball Comedy &#39;The Dink,&#39; Anya Taylor-Joy in &#39;Lucky&#39; and More](https://www.cnet.com/culture/entertainment/new-on-apple-tv-in-july-2026-ben-stillers-pickleball-comedy-the-dink-crime-series-lucky-and-more/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

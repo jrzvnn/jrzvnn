@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
- - 😝 [WNBA](http://9gag.com/gag/amo3R04)
+ - 😝 [Triggering an entire league](http://9gag.com/gag/axy54VD)
+ - 😝 [Some years later](http://9gag.com/gag/aryY8Bd)
  - 💣 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
- - 😝 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
- - 👉 [Straight to jail](http://9gag.com/gag/amo3dKy)<!-- MEMES:END -->
+ - 😝 [Aberfan disaster](http://9gag.com/gag/ajPpdW8)
+ - 👉 [Schlimm](http://9gag.com/gag/aE03Qje)<!-- MEMES:END -->
 
 ---
 

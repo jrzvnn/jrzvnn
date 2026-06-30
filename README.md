@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dish files for bankruptcy, but not shutting down](https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy)
+ - [Almost 1,700 UK investors sue Binance and Changpeng Zhao for at least £150M, alleging Binance sold them risky derivative products without regulatory approval &lpar;Kirstin Ridley/Reuters&rpar;](https://www.techmeme.com/260630/p36#a260630p36)
+ - [Filing: President Trump reports $1.4B+ in income from his family&#39;s crypto ventures in 2025, including $500M+ from WLF and $635M from the sale of his $TRUMP coin &lpar;Reuters&rpar;](https://www.techmeme.com/260630/p35#a260630p35)
  - [Sources: TikTok settles a lawsuit before a second California trial over social media harm to minors for an undisclosed sum; Meta and Snap remain defendants &lpar;Bloomberg&rpar;](https://www.techmeme.com/260630/p34#a260630p34)
- - [Amazon fined $2.25 million for failing to help identity theft victims](https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine)
- - [Sources: Mark Zuckerberg met with Kalshi CEO Tarek Mansour about a possible takeover last year, before directing Meta employees to build a prediction market app &lpar;Bobby Allyn/NPR&rpar;](https://www.techmeme.com/260630/p33#a260630p33)
- - [Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper](https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones/)
- - [These Are the 3 Best Chest Strap Heart-Rate Monitors for Your Workouts](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/)<!-- TECH:END -->
+ - [WhatsApp Lets You Reserve a Username, Making Your Phone Number More Private](https://www.cnet.com/tech/mobile/whatsapp-reserve-username-privacy-phone-number/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI teases a device it is launching in partnership with keyboard maker Work Louder on July 15, saying &quot;Your favorite Codex shortcuts are getting an upgrade&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260629/p47#a260629p47)
- - [Sources: AI video startup Higgsfield is in talks to raise $300M to $500M at a $5B pre-money valuation, more than 4x its valuation in a January 2026 round &lpar;The Information&rpar;](https://www.techmeme.com/260629/p46#a260629p46)
- - [The UK FCA unveils the updated version of its crypto regulatory framework, after softening proposed rules that critics said risked holding the UK back &lpar;Financial Times&rpar;](https://www.techmeme.com/260629/p45#a260629p45)
- - [AI coding startup 8090 raised a $135M Series A led by Salesforce Ventures; founder Chamath Palihapitiya announces that he will lead the company as CEO &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260629/p44#a260629p44)
- - [Marc Andreessen is appointed to the DOD&#39;s Defense Policy Board, a committee tasked with giving strategic advice to the defense secretary and other top officials &lpar;Nick Wadhams/Bloomberg&rpar;](https://www.techmeme.com/260629/p43#a260629p43)<!-- TECH:END -->
+ - [Political campaign managers and consultants are using AI to analyze voter data, create campaign materials, and more; survey: 87% of campaigners use AI daily &lpar;Stuart A. Thompson/New York Times&rpar;](https://www.techmeme.com/260630/p3#a260630p3)
+ - [Five Chinese tech and advanced manufacturing companies launched Hong Kong listings today to raise up to $5.6B, led by Apple supplier Luxshare&#39;s $3.15B offering &lpar;Reuters&rpar;](https://www.techmeme.com/260630/p2#a260630p2)
+ - [Sources: Chinese smartphone makers like Xiaomi, Oppo, and Vivo told suppliers they will again cut 2026 shipment targets, with Xiaomi cutting 30% to ~95M units &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260630/p1#a260630p1)
+ - [Source: the Trump administration has talked with SpaceX about donating shares to Trump Accounts, which provide children with tax-advantaged savings accounts &lpar;Semafor&rpar;](https://www.techmeme.com/260629/p50#a260629p50)
+ - [How to use Tailscale to remotely connect to your Mac from anywhere](https://appleinsider.com/articles/26/06/30/how-to-use-tailscale-to-remotely-connect-to-your-mac-from-anywhere?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Political campaign managers and consultants are using AI to analyze voter data, create campaign materials, and more; survey: 87% of campaigners use AI daily &lpar;Stuart A. Thompson/New York Times&rpar;](https://www.techmeme.com/260630/p3#a260630p3)
- - [Five Chinese tech and advanced manufacturing companies launched Hong Kong listings today to raise up to $5.6B, led by Apple supplier Luxshare&#39;s $3.15B offering &lpar;Reuters&rpar;](https://www.techmeme.com/260630/p2#a260630p2)
- - [Sources: Chinese smartphone makers like Xiaomi, Oppo, and Vivo told suppliers they will again cut 2026 shipment targets, with Xiaomi cutting 30% to ~95M units &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260630/p1#a260630p1)
- - [Source: the Trump administration has talked with SpaceX about donating shares to Trump Accounts, which provide children with tax-advantaged savings accounts &lpar;Semafor&rpar;](https://www.techmeme.com/260629/p50#a260629p50)
- - [How to use Tailscale to remotely connect to your Mac from anywhere](https://appleinsider.com/articles/26/06/30/how-to-use-tailscale-to-remotely-connect-to-your-mac-from-anywhere?utm_source=rss)<!-- TECH:END -->
+ - [The UK CMA proposes requiring Apple and Google to relax UK developer payment &quot;steering&quot; rules, and Apple to open NFC; Google says it &quot;already made the changes&quot; &lpar;Sam Tabahriti/Reuters&rpar;](https://www.techmeme.com/260630/p7#a260630p7)
+ - [Hotels, tour operators, and travel agencies rush to launch proprietary online tools and loyalty schemes to fend off future competition from AI travel agents &lpar;Stephanie Stacey/Financial Times&rpar;](https://www.techmeme.com/260630/p6#a260630p6)
+ - [AI may help transform air traffic control by processing vast amounts of data, spotting collision risks early, and easing staff shortages as air travel grows &lpar;Peter Campbell/Financial Times&rpar;](https://www.techmeme.com/260630/p5#a260630p5)
+ - [Dubai- and London-based 1001, which uses AI to improve aviation, port, and energy infrastructure efficiency in the Gulf, raised $30M led by Lux Capital &lpar;Matthew Martin/Semafor&rpar;](https://www.techmeme.com/260630/p4#a260630p4)
+ - [Want to Boost Your Home’s Resale Value? Install a Heat Pump](https://www.wired.com/story/boost-your-homes-resale-value-install-heat-pump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

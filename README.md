@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only people that has experience with Electrical engineering will understand the codes from those circuit boards.](http://9gag.com/gag/aD2yMpx)
- - 😝 [Ok this is hilarious - I\u2019m dying](http://9gag.com/gag/adBEd0d)
- - 💣 [Greatest street rapper in NYC](http://9gag.com/gag/aQzGrAK)
- - 😝 [For everyone](http://9gag.com/gag/axy5ABD)
- - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
+ - 😝 [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
+ - 😝 [WNBA](http://9gag.com/gag/amo3R04)
+ - 💣 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
+ - 😝 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
+ - 👉 [Straight to jail](http://9gag.com/gag/amo3dKy)<!-- MEMES:END -->
 
 ---
 

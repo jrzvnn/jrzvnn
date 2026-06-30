@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study of 22K US companies shows those spending most heavily on AI are adding workers faster than peers, but most gains are among tech companies and startups &lpar;Financial Times&rpar;](https://www.techmeme.com/260630/p28#a260630p28)
- - [Amazon&#39;s $99 AirPods 4 month-end deal is still in stock](https://appleinsider.com/articles/26/06/30/amazons-99-airpods-4-month-end-deal-is-still-in-stock?utm_source=rss)
- - [Source: OpenAI engineers earlier this month told some colleagues they had figured out a way to more than halve the cost of inference &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260630/p27#a260630p27)
- - [Moto&amp;#8217;s Tag 2 tracker is $20 for a limited time](https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale)
- - [US Supreme Court agrees to hear Apple&#39;s Epic Games appeal](https://appleinsider.com/articles/26/06/30/us-supreme-court-agrees-to-hear-apples-epic-games-appeal?utm_source=rss)<!-- TECH:END -->
+ - [Acer&amp;#8217;s Swift Go 16 is a lot of laptop for $900](https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale)
+ - [Google’s NotebookLM can sum up your research in a TikTok-style clip](https://www.theverge.com/tech/959778/google-notebooklm-ai-clips)
+ - [Google shuts down the Tenor API, affecting GIF pickers on platforms like Discord, WhatsApp, and Bluesky; Nikita Bier says X has migrated elsewhere &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260630/p31#a260630p31)
+ - [&#39;Star Trek: Strange New Worlds,&#39; &#39;Big Brother&#39; and More: See What&#39;s New on Paramount Plus in July](https://www.cnet.com/culture/entertainment/star-trek-strange-new-worlds-big-brother-and-more-see-whats-new-on-paramount-plus-in-july/)
+ - [Can&#39;t Find Hibernate in Windows? Here&#39;s How to Locate It](https://www.cnet.com/tech/computing/microsoft-windows-hibernate-where-to-find/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
+ - 😝 [Some years later](http://9gag.com/gag/aryY8Bd)
+ - 😝 [How my cat looks without ears](https://www.reddit.com/r/funny/comments/1ujml9s/how_my_cat_looks_without_ears/)
+ - 💣 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
  - 😝 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
- - 💣 [Some years later](http://9gag.com/gag/aryY8Bd)
- - 😝 [Aberfan disaster](http://9gag.com/gag/ajPpdW8)
- - 👉 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)<!-- MEMES:END -->
+ - 👉 [Astronaut Vibes: How to Travel to Space from Your Couch](http://9gag.com/gag/aqy0pzR)<!-- MEMES:END -->
 
 ---
 

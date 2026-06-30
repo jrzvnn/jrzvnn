@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happens in a woman mouth during a date](http://9gag.com/gag/ajPpdzp)
  - 😝 [And americans still wonder why whole world hates them :&rpar;](http://9gag.com/gag/aXPBeg2)
+ - 😝 [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)
  - 💣 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
  - 😝 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)
- - 👉 [Hollywood VS Real White Women](http://9gag.com/gag/apROd79)<!-- MEMES:END -->
+ - 👉 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)<!-- MEMES:END -->
 
 ---
 

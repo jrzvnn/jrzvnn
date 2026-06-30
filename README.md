@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
+ - 😝 [Literally the last thing I’d call the contents of a septic tank](https://www.reddit.com/r/funny/comments/1ujt9ys/literally_the_last_thing_id_call_the_contents_of/)
+ - 😝 [What&#39;s a nice number plate like you doing in a place like this.](https://www.reddit.com/r/funny/comments/1ujt9il/whats_a_nice_number_plate_like_you_doing_in_a/)
+ - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
  - 😝 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
- - 💣 [Some years later](http://9gag.com/gag/aryY8Bd)
- - 😝 [Captain&#39;s Log: Ship Currently on a Road Trip](http://9gag.com/gag/a2vejbp)
- - 👉 [Aberfan disaster](http://9gag.com/gag/ajPpdW8)<!-- MEMES:END -->
+ - 👉 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)<!-- MEMES:END -->
 
 ---
 

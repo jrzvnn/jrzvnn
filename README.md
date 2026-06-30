@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Literally the last thing I’d call the contents of a septic tank](https://www.reddit.com/r/funny/comments/1ujt9ys/literally_the_last_thing_id_call_the_contents_of/)
- - 😝 [What&#39;s a nice number plate like you doing in a place like this.](https://www.reddit.com/r/funny/comments/1ujt9il/whats_a_nice_number_plate_like_you_doing_in_a/)
- - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - 😝 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
- - 👉 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)<!-- MEMES:END -->
+ - 😝 [What happens in a woman mouth during a date](http://9gag.com/gag/ajPpdzp)
+ - 😝 [And americans still wonder why whole world hates them :&rpar;](http://9gag.com/gag/aXPBeg2)
+ - 💣 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
+ - 😝 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)
+ - 👉 [Hollywood VS Real White Women](http://9gag.com/gag/apROd79)<!-- MEMES:END -->
 
 ---
 

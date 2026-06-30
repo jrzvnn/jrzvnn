@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA proposes requiring Apple and Google to relax UK developer payment &quot;steering&quot; rules, and Apple to open NFC; Google says it &quot;already made the changes&quot; &lpar;Sam Tabahriti/Reuters&rpar;](https://www.techmeme.com/260630/p7#a260630p7)
- - [Hotels, tour operators, and travel agencies rush to launch proprietary online tools and loyalty schemes to fend off future competition from AI travel agents &lpar;Stephanie Stacey/Financial Times&rpar;](https://www.techmeme.com/260630/p6#a260630p6)
- - [AI may help transform air traffic control by processing vast amounts of data, spotting collision risks early, and easing staff shortages as air travel grows &lpar;Peter Campbell/Financial Times&rpar;](https://www.techmeme.com/260630/p5#a260630p5)
- - [Dubai- and London-based 1001, which uses AI to improve aviation, port, and energy infrastructure efficiency in the Gulf, raised $30M led by Lux Capital &lpar;Matthew Martin/Semafor&rpar;](https://www.techmeme.com/260630/p4#a260630p4)
- - [Want to Boost Your Home’s Resale Value? Install a Heat Pump](https://www.wired.com/story/boost-your-homes-resale-value-install-heat-pump/)<!-- TECH:END -->
+ - [The 2 Best Slushie Machines of 2026: Now With Soft Serve](https://www.wired.com/gallery/best-slushie-machines/)
+ - [UK ponders copying more EU App Store rules](https://appleinsider.com/articles/26/06/30/uk-ponders-copying-more-eu-app-store-rules?utm_source=rss)
+ - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
+ - [Origin PC Millennium Desktop Review: A Smart Build but Not the Perfect Configuration](https://www.cnet.com/tech/computing/origin-pc-millennium-gaming-pc-review/)
+ - [Q&amp;A with Grindr CEO George Arison on turning Grindr into an &quot;AI-native company&quot;, &quot;impos[ing]&quot; AI on staff, facing &quot;opposition&quot;, using AI as a CEO, and more &lpar;Jordyn Holman/New York Times&rpar;](https://www.techmeme.com/260630/p12#a260630p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

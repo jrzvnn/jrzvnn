@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hey old school Mac gamers, Bolo is back!](https://appleinsider.com/articles/26/06/30/hey-old-school-mac-gamers-bolo-is-back?utm_source=rss)
- - [Apple&#39;s legal team is striking social media sharing stolen iPhone 18 Pro data](https://appleinsider.com/articles/26/06/30/apples-legal-team-is-striking-social-media-sharing-stolen-iphone-18-pro-data?utm_source=rss)
- - [Shark&#39;s New Transformer Vacuum Breaks Down Into Three Different Vacuums](https://www.cnet.com/home/kitchen-and-household/sharks-transformer-vacuum-gives-you-upright-power-in-a-cordless-model/)
- - [An Indonesian court sentences Gojek co-founder and ex-education minister Nadiem Makarim to 10 years in prison for power abuses over a Chromebook contract &lpar;New York Times&rpar;](https://www.techmeme.com/260630/p13#a260630p13)
- - [New on Apple TV in July 2026: Pickleball Comedy &#39;The Dink,&#39; Anya Taylor-Joy in &#39;Lucky&#39; and More](https://www.cnet.com/culture/entertainment/new-on-apple-tv-in-july-2026-ben-stillers-pickleball-comedy-the-dink-crime-series-lucky-and-more/)<!-- TECH:END -->
+ - [What is a quantum computer good for? Absolutely nothing — yet](https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo)
+ - [Filings: Microsoft&#39;s Ireland hub generated $47B in pretax profits for FY 2025, or 38.1% of its global total; new EU rules require country-by-country reporting &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260630/p20#a260630p20)
+ - [MDOTM, which makes AI software for asset and wealth managers, raised $27M led by Expedition Growth Capital, bringing its total funding to $36.5M &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260630/p19#a260630p19)
+ - [Libby will filter out AI content, kind of](https://www.theverge.com/column/959433/libby-ai-filter)
+ - [Cybersecurity company Aikido Security acquires Root, which has raised about $37.6M and develops an AI platform for securing open-source components &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260630/p18#a260630p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

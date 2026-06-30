@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Triggering an entire league](http://9gag.com/gag/axy54VD)
- - 😝 [Some years later](http://9gag.com/gag/aryY8Bd)
- - 💣 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
+ - 😝 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
+ - 😝 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
+ - 💣 [Some years later](http://9gag.com/gag/aryY8Bd)
  - 😝 [Aberfan disaster](http://9gag.com/gag/ajPpdW8)
- - 👉 [Schlimm](http://9gag.com/gag/aE03Qje)<!-- MEMES:END -->
+ - 👉 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)<!-- MEMES:END -->
 
 ---
 

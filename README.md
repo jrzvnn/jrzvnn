@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
- - 😝 [And americans still wonder why whole world hates them :&rpar;](http://9gag.com/gag/aXPBeg2)
- - 💣 [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)
- - 😝 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)
- - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
+ - 😝 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
+ - 😝 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
+ - 💣 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)
+ - 😝 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
+ - 👉 [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)<!-- MEMES:END -->
 
 ---
 

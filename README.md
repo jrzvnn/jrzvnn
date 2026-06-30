@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is a quantum computer good for? Absolutely nothing — yet](https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo)
- - [Filings: Microsoft&#39;s Ireland hub generated $47B in pretax profits for FY 2025, or 38.1% of its global total; new EU rules require country-by-country reporting &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260630/p20#a260630p20)
- - [MDOTM, which makes AI software for asset and wealth managers, raised $27M led by Expedition Growth Capital, bringing its total funding to $36.5M &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260630/p19#a260630p19)
- - [Libby will filter out AI content, kind of](https://www.theverge.com/column/959433/libby-ai-filter)
- - [Cybersecurity company Aikido Security acquires Root, which has raised about $37.6M and develops an AI platform for securing open-source components &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260630/p18#a260630p18)<!-- TECH:END -->
+ - [A study of 22K US companies shows those spending most heavily on AI are adding workers faster than peers, but most gains are among tech companies and startups &lpar;Financial Times&rpar;](https://www.techmeme.com/260630/p28#a260630p28)
+ - [Amazon&#39;s $99 AirPods 4 month-end deal is still in stock](https://appleinsider.com/articles/26/06/30/amazons-99-airpods-4-month-end-deal-is-still-in-stock?utm_source=rss)
+ - [Source: OpenAI engineers earlier this month told some colleagues they had figured out a way to more than halve the cost of inference &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260630/p27#a260630p27)
+ - [Moto&amp;#8217;s Tag 2 tracker is $20 for a limited time](https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale)
+ - [US Supreme Court agrees to hear Apple&#39;s Epic Games appeal](https://appleinsider.com/articles/26/06/30/us-supreme-court-agrees-to-hear-apples-epic-games-appeal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

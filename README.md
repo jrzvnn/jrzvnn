@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abu Dhabi-based MGX raised a $49B AI-focused fund, exceeding its $45B target, and plans to spend as much as $10B annually over the next few years &lpar;Dinesh Nair/Bloomberg&rpar;](https://www.techmeme.com/260701/p30#a260701p30)
- - [Letter: the US says Anthropic &quot;agreed to proactively detect and address security risks&quot; of Fable 5 and Mythos 5; a source says Anthropic developed a &quot;safeguard&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260701/p29#a260701p29)
- - [Sony says it is closing the virtual PlayStation 3 store in select markets in 2026 ahead of global store closures for the PS3 and PS Vita in July 2027 &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260701/p28#a260701p28)
- - [Want to Fly? Google Earth Opens Its Secret Flight Simulator to All Users](https://www.cnet.com/tech/gaming/google-earths-secret-flight-simulator-is-now-free-for-everyone-on-the-web/)
- - [47 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/)<!-- TECH:END -->
+ - [Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces](https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/)
+ - [Save up to $400 on Apple&#39;s iPad Air, iPad Pro this July](https://appleinsider.com/articles/26/07/01/save-up-to-400-on-apples-ipad-air-ipad-pro-this-july?utm_source=rss)
+ - [New Final Cut Camera tries to be more useful for Mac users](https://appleinsider.com/articles/26/07/01/new-final-cut-camera-tries-to-be-more-useful-for-mac-users?utm_source=rss)
+ - [Meta names Chief Marketing Officer Alex Schultz as its first-ever chief data officer, to manage AI analytics across the company; Denise Moreno is named CMO &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260701/p34#a260701p34)
+ - [Comcast’s split could make or break Peacock](https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

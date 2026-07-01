@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
- - 😝 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - 💣 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
- - 😝 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)
- - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
+ - 😝 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
+ - 😝 [Always them](http://9gag.com/gag/aBypvpP)
+ - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
+ - 😝 [What happens in a woman mouth during a date](http://9gag.com/gag/ajPpdzp)
+ - 👉 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)<!-- MEMES:END -->
 
 ---
 

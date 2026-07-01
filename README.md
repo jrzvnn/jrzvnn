@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like win](http://9gag.com/gag/a7oQ6gq)
- - 😝 [Straight to jail](http://9gag.com/gag/amo3dKy)
- - 💣 [Hollywood VS Real White Women](http://9gag.com/gag/apROd79)
- - 😝 [Please protect these people](http://9gag.com/gag/a87ZX9Y)
- - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
+ - 😝 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
+ - 😝 [Hulk](http://9gag.com/gag/a7oQGMr)
+ - 💣 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
+ - 😝 [Its always them.](http://9gag.com/gag/aVvA9j2)
+ - 👉 [Life hack 101](http://9gag.com/gag/aD2yr9x)<!-- MEMES:END -->
 
 ---
 

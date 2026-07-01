@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces](https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/)
- - [Save up to $400 on Apple&#39;s iPad Air, iPad Pro this July](https://appleinsider.com/articles/26/07/01/save-up-to-400-on-apples-ipad-air-ipad-pro-this-july?utm_source=rss)
- - [New Final Cut Camera tries to be more useful for Mac users](https://appleinsider.com/articles/26/07/01/new-final-cut-camera-tries-to-be-more-useful-for-mac-users?utm_source=rss)
- - [Meta names Chief Marketing Officer Alex Schultz as its first-ever chief data officer, to manage AI analytics across the company; Denise Moreno is named CMO &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260701/p34#a260701p34)
- - [Comcast’s split could make or break Peacock](https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming)<!-- TECH:END -->
+ - [Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260701/p37#a260701p37)
+ - [You Can Now Sound the Alarm on AI Behaving Badly](https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/)
+ - [Sources: Microsoft has been working on a disc-to-digital feature for Xbox One and Xbox Series X that will let users digitize their physical game collections &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260701/p36#a260701p36)
+ - [Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million](https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds)
+ - [The 49 Best Outdoor Deals From the REI 4th of July Sale](https://www.wired.com/story/rei-4th-of-july-sale-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

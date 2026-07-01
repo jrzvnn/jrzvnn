@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk denies a report about SpaceX&amp;#8217;s AI phone prototype](https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 2, #647](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-2-647/)
- - [July&#39;s Biggest Premieres on Hulu Include &#39;They Fight,&#39; Twisty Crime Thriller &#39;Furious&#39; and More](https://www.cnet.com/culture/entertainment/new-on-hulu-in-july-2026/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 2 #851](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-2-851/)
- - [Today&#39;s Wordle Hints, Answer and Help for July 2, #1839](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-2-1839/)<!-- TECH:END -->
+ - [Lime&#39;s shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO &lpar;Reuters&rpar;](https://www.techmeme.com/260701/p42#a260701p42)
+ - [Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?](https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/)
+ - [Apple weighs buying RAM from two blacklisted Chinese suppliers to curb rising costs](https://appleinsider.com/articles/26/07/01/apple-weighs-buying-ram-from-two-blacklisted-chinese-suppliers-to-curb-rising-costs?utm_source=rss)
+ - [Sources: Apple is working on new iPad Pros and an entry-level 14&quot; MacBook Pro with a new design in line with the upcoming touch-screen laptops for H1 2027 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260701/p41#a260701p41)
+ - [Apple in Russia&#39;s crosshairs again, facing $52M fine for not installing state-required apps](https://appleinsider.com/articles/26/07/01/apple-in-russias-crosshairs-again-facing-52m-fine-for-not-installing-state-required-apps?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

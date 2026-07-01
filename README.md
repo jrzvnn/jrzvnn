@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lime&#39;s shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO &lpar;Reuters&rpar;](https://www.techmeme.com/260701/p42#a260701p42)
- - [Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?](https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/)
- - [Apple weighs buying RAM from two blacklisted Chinese suppliers to curb rising costs](https://appleinsider.com/articles/26/07/01/apple-weighs-buying-ram-from-two-blacklisted-chinese-suppliers-to-curb-rising-costs?utm_source=rss)
- - [Sources: Apple is working on new iPad Pros and an entry-level 14&quot; MacBook Pro with a new design in line with the upcoming touch-screen laptops for H1 2027 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260701/p41#a260701p41)
- - [Apple in Russia&#39;s crosshairs again, facing $52M fine for not installing state-required apps](https://appleinsider.com/articles/26/07/01/apple-in-russias-crosshairs-again-facing-52m-fine-for-not-installing-state-required-apps?utm_source=rss)<!-- TECH:END -->
+ - [Higharc, which uses AI to assist house builders in design and construction, raised a $95M Series C led by Insight Partners, bringing its total funding to $170M+ &lpar;Lauren Ohnesorge/Triangle Business ...&rpar;](https://www.techmeme.com/260701/p43#a260701p43)
+ - [Apple’s entry-level MacBook Pro could be up for a redesign](https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update)
+ - [iPhone Fold expected to take 29% of 2026 foldable phone screen orders](https://appleinsider.com/articles/26/07/01/iphone-fold-expected-to-take-29-of-2026-foldable-phone-screen-orders?utm_source=rss)
+ - [The funeral for PlayStation discs has begun](https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores)
+ - [Lime&#39;s shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO &lpar;Reuters&rpar;](https://www.techmeme.com/260701/p42#a260701p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

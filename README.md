@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Fable 5 will be available via usage credits for Claude users from July 7, and is working with partners to draft an AI jailbreak severity standard &lpar;Anthropic&rpar;](https://www.techmeme.com/260701/p1#a260701p1)
- - [Getty Images announces plans to end its Shutterstock merger after the UK CMA conditioned approval of the deal on Shutterstock selling its editorial business &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260630/p46#a260630p46)
- - [FOIA docs: White House officials used auto-deleting Signal chats even after Trump advised against its use in April 2025, raising federal recordkeeping concerns &lpar;The Atlantic&rpar;](https://www.techmeme.com/260630/p45#a260630p45)
- - [SpaceX cuts monthly Starlink prices in half in the Memphis area, as it endures blowback and legal challenges from opponents of its Colossus data centers &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260630/p44#a260630p44)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-1/)<!-- TECH:END -->
+ - [Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust](https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/)
+ - [[Thread] The US&#39; now-lifted export controls on Anthropic models created uncertainty, are an own goal, and will push service providers towards Chinese AI models &lpar;Alex Stamos/@alexstamos&rpar;](https://www.techmeme.com/260701/p12#a260701p12)
+ - [Anthropic says &quot;some routine tasks like coding and debugging&quot; on Fable 5 &quot;will fall back to Opus 4.8&quot; in &quot;the near term&quot; as it works to &quot;reduce false positives&quot; &lpar;@anthropicai&rpar;](https://www.techmeme.com/260701/p11#a260701p11)
+ - [A look at Manifest, an annual convention for prediction markets where many purists worry that Kalshi and Polymarket are undermining the technology&#39;s public good &lpar;Christopher Beam/Bloomberg&rpar;](https://www.techmeme.com/260701/p10#a260701p10)
+ - [BYD, Nio, and other Chinese carmakers are rushing to design and increase the use of locally developed chips with AI functions in a bid for chip self-sufficiency &lpar;Financial Times&rpar;](https://www.techmeme.com/260701/p9#a260701p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
